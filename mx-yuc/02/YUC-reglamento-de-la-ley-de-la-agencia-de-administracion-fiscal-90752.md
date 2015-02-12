@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-la-agencia-de-administracion-fiscal-907
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE LA AGENCIA DE ADMINISTRACIÓN FISCAL DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de enero de 2013.
 
@@ -75,11 +75,15 @@ IX. Secretaría: la Secretaría de Administración y Finanzas del Estado de Yuca
 
 X. Unidades administrativas: las unidades adscritas a la Agencia en los términos de la Ley y de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 3.
 
-El Director General, además de las facultades y obligaciones que le confiere la Ley, tendrá las siguientes:
+El Director General, además de las facultades que le confiere la Ley, tendrá las siguientes:
 
-Apartado A. Indelegables
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 12 DE FEBRERO DE 2015)</small>
+
+Apartado A. Facultades Indelegables.
 
 I. Dirigir, supervisar y coordinar el desarrollo de las actividades de las unidades administrativas;
 
@@ -137,7 +141,9 @@ IX. Fungir como consultor en materia fiscal del Gobierno del Estado de Yucatán;
 
 X. Solicitar y obtener de las dependencias y entidades que integran la Administración Pública del Estado la información de las personas físicas y morales necesaria para corroborar el cumplimiento de las obligaciones fiscales estatales y, en su caso, municipales y federales coordinadas;
 
-XI. Emitir las órdenes de visitas domiciliarias a los contribuyentes, responsables solidarios o terceros relacionados con ellos, así como las órdenes de inspección o verificación, en el domicilio de los contribuyentes, responsables solidarios o terceros relacionado con ellos, en las oficinas de la Agencia o, cuando así proceda, en la vía pública, en los términos de las leyes fiscales estatales y federales y de los convenios de coordinación fiscal federal y de los convenios con los municipios;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XI. Emitir las órdenes de visitas domiciliarias a los contribuyentes, responsables solidarios o terceros relacionados con ellos, así como órdenes de auditoría, inspección o verificación, en sus domicilios, en las oficinas de la Agencia o, cuando así proceda, en la vía pública, en los términos de las leyes fiscales federales, estatales y municipales; de los convenios de coordinación fiscal federal y de los convenios con los municipios;
 
 XII. Emitir los requerimientos a los contribuyentes, responsables solidarios, terceros relacionados o contadores públicos que hayan formulado dictamen o terceros relacionados, para que exhiban, en su propio domicilio, establecimiento o en las oficinas de la Agencia y, en su caso, proporcionen la contabilidad, declaraciones, avisos, papeles de trabajo, sistemas y demás documentos e informes necesarios para verificar el cumplimiento de las obligaciones fiscales en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y estímulos fiscales, estatales o federales coordinados;
 
@@ -171,9 +177,15 @@ XXVI. Verificar la integración y actualización del inventario de los bienes as
 
 XXVII. Otorgar estímulos, recompensas y prestaciones al personal que labore en la Agencia, conforme las disposiciones que se emitan en la materia y lo que en su caso, establezca la Ley de los Trabajadores al Servicio del Estado y Municipios del Estado de Yucatán, en las condiciones generales de trabajo, o en su caso en el Estatuto del Servicio Fiscal de Carrera, así como imponer y revocar las sanciones por incumplimiento de los trabajadores a sus obligaciones en materia laboral, en los términos de las disposiciones citadas;
 
-XXVIII. Designar en su caso y expedir las credenciales o constancias de identificación del personal de la Agencia, que los autorice para el ejercicio de las facultades de comprobación establecidas en las leyes fiscales estatales y en las federales o municipales en los términos de los convenios de coordinación fiscal que para tal efecto se suscriban, así como para la realización de los actos relativos al procedimiento administrativo de ejecución, y
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-XXIX. Las demás que le confieran la Junta de Gobierno y otras disposiciones legales aplicables.
+XXVIII. Designar, en su caso, y expedir las credenciales o constancias de identificación del personal de la Agencia, que los autorice para el ejercicio de las facultades de comprobación establecidas en las leyes fiscales estatales y en las federales o municipales en los términos de los convenios de coordinación fiscal que para tal efecto se suscriban, así como para la realización de los actos relativos al procedimiento administrativo de ejecución;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXIX. Modificar o revocar las resoluciones administrativas desfavorables a los contribuyentes que emitan las unidades administrativas que dependan de él, y
+
+XXX. Las demás que le confieran la Junta de Gobierno y otras disposiciones legales aplicables.
 
 ###### Artículo 4.
 
@@ -213,9 +225,11 @@ Las unidades administrativas previstas en este artículo estarán a cargo de dir
 
 Las unidades administrativas a su vez podrán tener las subdirecciones, jefaturas de departamento, coordinaciones y el personal operativo que se requiera para el cumplimiento de su objeto, las cuales tendrán las atribuciones que al efecto establezca este Reglamento o las tareas que les asignen la Secretaría, la Junta de Gobierno o el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 6.
 
-Los directores de las unidades administrativas, tendrán las siguientes facultades y obligaciones:
+Los directores de las unidades administrativas tendrán las siguientes facultades:
 
 I. Acordar con el Director General los asuntos relevantes de las unidades administrativas adscritas a su cargo;
 
@@ -261,9 +275,23 @@ XXI. Coordinarse con las autoridades fiscales federales y municipales, para el m
 
 XXII. Imponer sanciones por infracción a las disposiciones legales que rigen la materia de su competencia;
 
-XXIII. Revocar de oficio o a petición de parte, los actos emitidos por la dirección a su cargo cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales y reponerlo cuando así proceda, y
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXIII. Revocar, de oficio o a petición de parte, los actos emitidos por la dirección a su cargo cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales y reponerlo cuando así proceda;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXIV. Proponer al Director General, los términos de la resolución que conceda o niegue la condonación de las multas impuestas en el ejercicio de sus propias facultades por infracciones a las leyes fiscales federales, estatales y municipales, inclusive las impuestas de conformidad con lo establecido por los convenios de coordinación fiscal federal y los convenios con los municipios;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXV. Proponer al Director General los términos de los informes que la Procuraduría de la Defensa del Contribuyente solicite a la Agencia, que deriven de actos realizados en el ejercicio de sus propias facultades, de conformidad con lo dispuesto por los convenios de coordinación fiscal federal, y
 
 XXIV. Las demás que en el ámbito de sus respectivas competencias les confieran este Reglamento, el Director General y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2015)</small>
+
+Las facultades establecidas en este artículo también serán ejercidas por los directoresrespecto (sic) de contribuciones federales y municipales, cuando así proceda en términos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal; convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el estado de Yucatán y de los convenios celebrados y que se celebren con los municipios.
 
 ###### Artículo 7.
 
@@ -317,7 +345,9 @@ XIV. Las demás que en el ámbito de su competencia que (sic) establezcan este R
 
 El Director de Servicios al Contribuyente tendrá las facultades y obligaciones siguientes:
 
-I. Formular y proponer, en el ámbito de su competencia, para la aprobación del Director General, las políticas y programas de actividades a los que deberán sujetarse los departamentos de su de su (sic) adscripción;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+I. Formular y proponer, en el ámbito de su competencia, para la aprobación del Director General, las políticas y programas de actividades a los que deberán sujetarse los departamentos de su adscripción;
 
 II. Aplicar la política, los programas, sistemas, procedimientos, métodos de trabajo y criterios que al efecto apruebe la Junta de Gobierno o la Dirección General;
 
@@ -343,7 +373,9 @@ XII. Acordar, promover y realizar programas relativos al intercambio de informac
 
 XIII. Revisar los aspectos formales en el llenado de declaraciones presentadas por los contribuyentes, debiendo prestar la asesoría correspondiente;
 
-XIV. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos y, en su caso, requerir al contribuyente la documentación que proceda o el pago de diferencias con sus respectivos accesorios, gastos y honorarios que se causen en los procedimientos que se lleven a cabo;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XIV. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos; requerir al contribuyente la documentación que proceda; y determinar el pago de diferencias con sus respectivos accesorios, gastos y honorarios que se causen en los procedimientos que se lleven a cabo;
 
 XV. Informar a los contribuyentes de los derechos y medios de defensa que pueden hacer valer contra las resoluciones de las autoridades fiscales;
 
@@ -357,17 +389,25 @@ XIX. Tramitar y resolver las solicitudes de aclaración que presenten los contri
 
 XX. Normar y ejercer las acciones de los programas en materia de civismo fiscal;
 
-XXI. Participar en el diseño de las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXI. Formular y proponer el diseño de las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales;
 
 XXII. Distribuir y controlar las formas valoradas y numeradas, cuando así lo solicite la Dirección de Recaudación, así como vigilar su destrucción cuando queden fuera de uso;
 
 XXIII. Tramitar para efectos de las contribuciones estatales o municipales coordinadas, y cuando así los dispongan las leyes correspondientes, la firma electrónica de los contribuyentes;
 
-XXIV. Recibir y dar seguimiento a las solicitudes de acceso a la información pública y turnarlas para su trámite a la Dirección Jurídica e informar al particular el estado de la misma, y
+XXIV. (DEROGADA, D.O. 12 DE FEBRERO DE 2015)
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXV. Vigilar el cumplimiento oportuno de los contribuyentes, responsables solidarios y demás obligados de presentar sus solicitudes, avisos y declaraciones de pago por impuestos estatales así como federales y municipales coordinados, y
 
 XXV. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables o le sean delegadas por el Director General.
 
-Las facultades establecidas en este artículo también serán ejercidas por el Director de Servicios al Contribuyente respecto de contribuciones federales, cuando así proceda en términos del convenio de adhesión al Sistema Nacional de Coordinación Fiscal, convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el Estado de Yucatán y de contribuciones municipales en los términos de los convenios celebrados y que se celebren con los municipios.
+> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2015)</small>
+
+Las facultades establecidas en este artículo también serán ejercidas por el Director de Servicios al Contribuyenterespecto (sic) de contribuciones federales y municipales, cuando así proceda en términos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal; convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el estado de Yucatán y de los convenios celebrados y que se celebren con los municipios.
 
 ###### Artículo 11.
 
@@ -387,7 +427,7 @@ El Director de Recaudación tendrá las facultades y obligaciones siguientes:
 
 I. Recaudar por conducto de las instituciones de crédito, establecimientos autorizados o en las propias oficinas de la Agencia, según se determine, los ingresos que por concepto de impuestos, derechos, contribuciones de mejoras, otras contribuciones, o que por productos y aprovechamientos, correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación o con los municipios, así como cualquier otro crédito que corresponda al Estado y respecto del cual se hubiese celebrado convenio en los términos del artículo 3, Apartado A, fracción XII de este Reglamento;
 
-II. Vigilar el cumplimiento oportuno de los contribuyentes, responsables solidarios y demás obligados con la presentación de solicitudes, avisos y declaraciones de pago por impuestos estatales, federales y municipales coordinados;
+II. (DEROGADA, D.O. 12 DE FEBRERO DE 2015)
 
 III. Autorizar el pago diferido o en parcialidades, de los créditos fiscales cuyo cobro le corresponda a la Agencia, en los términos de las leyes aplicables y previa garantía del interés fiscal cuando así proceda;
 
@@ -409,15 +449,21 @@ XI. Informar a la Dirección Jurídica, sobre los casos de depositaría infiel;
 
 XII. Proponer para la autorización del Director General la cancelación de cuentas incobrables o incosteables de conformidad con las disposiciones aplicables;
 
-XIII. Elaborar, controlar, distribuir y, en su caso, destruir los formatos, instructivos, formularios de declaraciones, formas valoradas o numeradas;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XIII. Elaborar, aprobar, controlar, distribuir y, en su caso, destruir las formas valoradas o numeradas;
 
 XIV. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante el procedimiento administrativo de ejecución;
 
 XV. Ordenar y practicar, en la forma y términos que conforme a las leyes proceda, las medidas de apremio, el aseguramiento o el embargo precautorio, para asegurar el interés fiscal; levantarlo cuando proceda en asuntos de su competencia, así como designar a los ejecutores para la práctica y levantamiento del mismo;
 
-XVI. Designar a los verificadores, notificadores y ejecutores adscritos a la Agencia, así como nombrar interventores y peritos en las materias de su competencia;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-XVII. Llevar a cabo el procedimiento administrativo de ejecución para hacer efectivos los créditos de naturaleza fiscal a cargo de los contribuyentes, responsables solidarios, retenedores o recaudadores, o cualquier otro crédito que tenga derecho a percibir el Estado de cualquier deudor, cuyo cobro corresponda a la Agencia, incluidos el remate o adjudicación de bienes, así como la enajenación fuera de remate de los bienes de fácil descomposición o deterioro, en términos de las disposiciones fiscales estatales o federales y, en su caso, de los convenios de coordinación fiscal federal o convenios con los municipios;
+XVI. Designar por escrito a los verificadores, notificadores y ejecutores adscritos a la Agencia, así como nombrar interventores y peritos en las materias de su competencia;
+
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XVII. Ordenar y llevar a cabo el procedimiento administrativo de ejecución para hacer efectivos los créditos de naturaleza fiscal a cargo de los contribuyentes, responsables solidarios, retenedores o recaudadores, o cualquier otro crédito que tenga derecho a percibir el estado de cualquier deudor, cuyo cobro corresponda a la Agencia, incluidos el remate o adjudicación de bienes; la enajenación fuera de remate de los bienes de fácil descomposición o deterioro; el embargo o aseguramiento de depósitos en cuentas bancarias de inversiones o cualquier otro depósito en moneda nacional o extranjera, que se realice en cualquier cuenta que tengan a su nombre los contribuyentes, responsables solidarios y demás obligados en las entidades financieras, así como la inmovilización, conservación o transferencia de los recursos financieros correspondientes en términos de las disposiciones fiscales federales o estatales y, en su caso, de los convenios de coordinación fiscal federal y de los convenios con los municipios;
 
 XVIII. Determinar y cobrar las cantidades que resulten de la pérdida del derecho del contribuyente al pago diferido o en parcialidades en los supuestos establecidos en las disposiciones fiscales aplicables, incluso mediante el procedimiento administrativo de ejecución;
 
@@ -431,21 +477,47 @@ XXII. Habilitar los días y horas inhábiles para el ejercicio de las facultades
 
 XXIII. Requerir el pago y ejecutar las acciones necesarias para hacer efectivas las garantías que se otorguen consistentes en fianza, hipoteca, prenda, embargo de bienes o de cuentas en instituciones del sistema financiero, o cualquier otro tipo de garantía, así como también aplicar al pago de los adeudos fiscales los recursos radicados en cuentas de depósito dadas en garantía, aseguradas o embargadas;
 
-XXIV. Solicitar a la Comisión Nacional Bancaria y de Valores o a las instituciones que componen el sistema financiero nacional, que ejecuten el embargo o aseguramiento de cuentas bancarias e inversiones, a nombre de los contribuyentes o de los responsables solidarios, y solicitar su levantamiento cuando así proceda;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXIV. Solicitar a la Comisión Nacional Bancaria y de Valores y a las instituciones que componen el sistema financiero nacional, que ejecuten el embargo o aseguramiento de depósitos en cuentas bancarias, de inversiones o cualquier otro depósito, en moneda nacional o extranjera, que se realice en cualquier tipo de cuenta que tengan a su nombre los contribuyentes, responsables solidarios y demás obligados en las entidades financieras, en términos de las disposiciones legales correspondientes, así como solicitar la inmovilización, conservación, transferencia o levantamiento de los recursos financieros correspondientes, cuando así proceda;
 
 XXV. Determinar y cobrar los gastos de ejecución y los gastos extraordinarios respecto de los créditos fiscales, cuando así proceda;
 
 XXVI. Cobrar los reintegros o sanciones pecuniarias a servidores públicos que hubieren incurrido en responsabilidad, y en su caso, los resarcimientos del daño, determinados conforme a la legislación aplicable, llevando a cabo de ser necesario el procedimiento administrativo de ejecución;
 
-XXVII. Recaudar las contribuciones que correspondan al trámite de documentación de vehículos de procedencia extranjera, en los términos de las disposiciones aplicables, así como verificar y en su caso cobrar, los adeudos a cargo de los propietarios o poseedores de automóviles que pretendan registrarse en el Estado, sean de procedencia nacional o extranjera;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-XXVIII. Ordenar la notificación personal, por edictos, por estrados o por cualquier otro medio jurídico, según proceda en los términos de las leyes fiscales estatales, federales o municipales, de los actos, las resoluciones determinantes de créditos fiscales y no fiscales que tenga derecho a percibir el Estado, las actas o cualquier otro documento, emitido por la Dirección General de la Agencia, por la propia Dirección de Recaudación o por las direcciones jurídica y de servicios al contribuyente;
+XXVII. Verificar que la documentación relativa al trámite de vehículos de procedencia extranjera sea acorde a las disposiciones aplicables y, en su caso, determinar sus contribuciones; así como verificar y, en su caso, cobrar los adeudos a cargo de los propietarios o poseedores de automóviles que pretendan registrarse en el estado, sean de procedencia nacional o extranjera;
 
-XXIX. Proponer al Director General la celebración de convenios con otras dependencias, órganos u organismos de la Administración Pública del Estado o municipal, para el cobro de cantidades cuyo cobro proceda a favor del Estado o sus municipios, y
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-XXX. Las demás que en el ámbito de su competencia que le confieran otras disposiciones legales aplicables.
+XXVIII. Ordenar y practicar la notificación personal, por edictos, por estrados o por cualquier otro medio jurídico, según proceda en los términos de las leyes fiscales federales, estatales o municipales, de los actos, las resoluciones determinantes de créditos fiscales y no fiscales que tenga derecho a percibir el estado, las actas o cualquier otro documento, emitidos por la dirección general o las direcciones de recaudación, servicios al contribuyente y jurídica;
 
-Las facultades establecidas en este artículo también serán ejercidas por el Director de Recaudación respecto de contribuciones federales, cuando así proceda en términos del convenio de adhesión al Sistema Nacional de Coordinación Fiscal, convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el Estado de Yucatán y de contribuciones municipales en los términos de los convenios celebrados y que se celebren con los municipios.
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXIX. Proponer al Director General la celebración de convenios con otras dependencias, órganos u organismos de la Administración Pública estatal o municipal para el cobro de cantidades que procedan a favor del estado o sus municipios;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXX. Imponer multas por infracciones a las disposiciones fiscales en los términos del Código Fiscal del Estado de Yucatán y demás disposiciones fiscales estatales; del Código Fiscal de la Federación y demás disposiciones fiscales federales, en los términos que establezcan los convenios de coordinación fiscal federal y los convenios con los municipios;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXXI. Conceder prórrogas o plazos para el pago de créditos fiscales;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXXII. Requerir a los contribuyentes, responsables solidarios, terceros con ellos relacionados o instituciones que componen el sistema financiero nacional, la documentación, datos e informes que sean necesarios para el ejercicio de sus atribuciones así como recabarlos (sic) de los servidores y fedatarios públicos;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXXIII. Proporcionar a las sociedades de información crediticia autorizadas por la Secretaria de Hacienda y Crédito Público información relativa a los créditos fiscales de los contribuyentes, en el ámbito de su competencia, y
+
+XXXIV. Las demás que en el ámbito de su competencia que le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2015)</small>
+
+Las facultades establecidas en este artículo también serán ejercidas por el Director de Recaudación respecto de contribuciones federales y municipales, cuando así proceda en términos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal; convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el estado de Yucatán y de los convenios celebrados y que se celebren con los municipios.
 
 ###### Artículo 13.
 
@@ -453,13 +525,31 @@ La Dirección de Recaudación, tendrá bajo su adscripción las siguientes unida
 
 I. Departamento de Recaudación;
 
-II. Departamento Técnico de Recaudación y Procedimientos Legales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+II. Departamento de Impuestos y Derechos Vehiculares;
 
 III. Departamento de Agencias Foráneas y Coordinación Municipal;
 
-IV. Departamento de Cobro Coactivo, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-V. Departamento de Control de Créditos.
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+IV. Departamento de Cobro Coactivo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+V. Departamento de Control de Créditos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+VI. Departamento de Procedimientos Legales.
 
 ### Capítulo IV. De la Dirección de Auditoría Fiscal
 
@@ -471,7 +561,9 @@ I. Verificar el correcto y oportuno cumplimiento de las obligaciones fiscales, e
 
 II. Ordenar y practicar visitas domiciliarias, revisiones de informes, de datos o documentos solicitados a los contribuyentes, responsables solidarios o terceros relacionados con ellos, inspecciones y verificaciones, en el domicilio de los contribuyentes, responsables solidarios o terceros relacionados con ellos, en las oficinas de la Agencia o, en su caso, en la vía pública, cuando proceda y en los términos de las leyes fiscales estatales y federales y de los convenios de coordinación fiscal federal y de los convenios con los municipios, para corroborar el cumplimiento de las obligaciones fiscales;
 
-III. Requerir a los contribuyentes, responsables solidarios, contadores públicos que hayan formulado dictamen o terceros relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, papeles de trabajo, sistemas y demás documentos e informes necesarios para verificar el cumplimiento de las obligaciones fiscales en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y estímulos fiscales, estatales, federales o municipales coordinados;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+III. Requerir a los contribuyentes, responsables solidarios, contadores públicos que hayan formulado dictamen o terceros relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, papeles de trabajo, sistemas y demás documentos e informes necesarios para verificar el cumplimiento de las obligaciones fiscales en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y estímulos fiscales, estatales, federales o municipales coordinados así como solicitarles la documentación relativa a los trámites de devolución de impuestos federales o estatales, con objeto de comprobar su procedencia;
 
 IV. Efectuar compulsas y requerir información a responsables solidarios, retenedores, recaudadores y terceros relacionados con los contribuyentes que estén siendo revisados, para verificar el cumplimiento de las obligaciones fiscales de éstos, en los términos de las leyes aplicables o para obtener información para la planeación y programación del ejercicio de las facultades de comprobación;
 
@@ -485,7 +577,9 @@ VIII. Ordenar y practicar avalúos para efectos fiscales;
 
 IX. Revisar las declaraciones, los avisos, manifestaciones y demás documentos que presenten los contribuyentes y otros obligados, así como recibir y revisar los dictámenes, para verificar el correcto cumplimiento de las obligaciones fiscales;
 
-X. Revisar los dictámenes formulados por contadores públicos, que tengan repercusión para efectos fiscales o se relacionen con el cumplimiento de obligaciones estatales o federales, en los términos de las leyes y de los convenios de coordinación fiscal federal o convenios con los municipios;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+X. Revisar que los dictámenes formulados por los contadores públicos registrados sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes o respecto de operaciones de enajenación de acciones, o cualquier otro tipo de dictamen o declaratoria que tenga repercusión fiscal, reúnan los requisitos establecidos en las disposiciones fiscales y cumplan las relativas a impuestos, aportaciones de seguridad social, derechos, contribuciones de mejoras, aprovechamientos, estímulos fiscales, franquicias y accesorios, en términos de las disposiciones fiscales federales o estatales y, en su caso, de los convenios de coordinación fiscal federal y los convenios con los municipios;
 
 XI. Requerir al Contador Público que haya formulado el dictamen:
 
@@ -525,13 +619,47 @@ XXIII. Participar en el diseño de los programas operativos de fiscalización ta
 
 XXIV. Imponer multas por infracciones a las disposiciones fiscales en los términos del Código Fiscal del Estado de Yucatán y demás disposiciones aplicables, así como aquellas que correspondan por infracciones al Código Fiscal de la Federación y demás disposiciones fiscales federales en los términos que establezcan los convenios celebrados por el Estado con la Federación y multas que deriven por infracciones a las disposiciones municipales en virtud de los convenios (sic) los municipios;
 
-XXV. Determinar, mediante resolución administrativa fundada y motivada, las contribuciones o aprovechamientos omitidos, estatales, municipales o federales coordinados, su actualización, sus accesorios y las sanciones a cargo de los contribuyentes, responsables solidarios y demás sujetos obligados y notificarlas en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-XXVI. Emitir las resoluciones por las que se determine la responsabilidad solidaria respecto del pago de contribuciones por impuestos, derechos, contribuciones de mejoras, aprovechamientos, y en general, por cualquier crédito fiscal, y
+XXV. Determinar, mediante resolución administrativa fundada y motivada, las contribuciones o aprovechamientos omitidos, impuestos, estatales, municipales o federales coordinados, su actualización, sus accesorios, así como los casos de responsabilidad derivada de la fusión, escisión o cualquier operación que devenga de la restructuración de las sociedades o asociaciones, y el debido cumplimiento de las disposiciones fiscales y sus sanciones a cargo de los contribuyentes, responsables solidarios y demás sujetos obligados y notificarlas en los términos de las disposiciones legales aplicables;
 
-XXVII. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-Las facultades establecidas en este artículo también serán ejercidas por el Director de Auditoría Fiscal respecto de contribuciones federales, cuando así proceda en términos del convenio de adhesión al Sistema Nacional de Coordinación Fiscal, convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el Estado de Yucatán y de contribuciones municipales en los términos de los convenios celebrados y que se celebren con los municipios.
+XXVI. Emitir las resoluciones por las que se determine la responsabilidad solidaria respecto del pago de contribuciones por impuestos, derechos, contribuciones de mejoras, aprovechamientos y, en general, por cualquier crédito fiscal;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXVII. Reponer de oficio, por una sola vez, el procedimiento instaurado para la comprobación de obligaciones fiscales de conformidad con las disposiciones federales y estatales aplicables;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXVIII. Dejar sin efectos las órdenes de visita domiciliaria, los requerimientos de información que formulen a los contribuyentes así como la revisión de papeles de trabajo que se haga a los contadores públicos registrados;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXIX. Solicitar de los contribuyentes, responsables solidarios o terceros, cualquier documentación necesaria para planear y programar actos de fiscalización;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXX. Comunicar a los contadores públicos registrados las irregularidades de las que tenga conocimiento la autoridad con motivo de la revisión de los dictámenes que formulen para efectos fiscales o las derivadas del incumplimiento de las disposiciones fiscales por parte de dichos contadores;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXXI. Atender los requerimientos o solicitudes que se deriven de la aplicación de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXXII. Realizar las acciones necesarias para dar cumplimiento a sentencias ejecutoriadas o resoluciones firmes dictadas por autoridades judiciales o administrativas, respecto de los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXXIII. Conocer y proponer los términos de la resolución, para la autorización del Director General, de las solicitudes promovidas ante la Agencia, para revisar las resoluciones administrativas de carácter individual no favorables a los particulares, que deriven de actos realizados en el ejercicio de las atribuciones de esta, inclusive los realizados de conformidad con lo dispuesto por los convenios de coordinación fiscal federal, y
+
+XXXIV. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2015)</small>
+
+Las facultades establecidas en este artículo también serán ejercidas por el Director de Auditoría Fiscal respecto de contribuciones federales y municipales, cuando así proceda en términos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal; convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el estado de Yucatán y de los convenios celebrados y que se celebren con los municipios.
 
 ###### Artículo 15.
 
@@ -575,19 +703,23 @@ VI. Ordenar la suspensión del procedimiento administrativo de ejecución, cuand
 
 VII. Resolver las consultas en temas fiscales relacionadas con el Estado, y emitir su opinión en los asuntos que sean competencia de la Agencia;
 
-VIII. Conocer y proponer la resolución para la autorización del Director General de las solicitudes de condonación de multas, impuestas por infracciones a las disposiciones fiscales con base en la legislación aplicable y en los convenios de coordinación fiscal federal o convenios con los municipios;
+VIII. (DEROGADA, D.O. 12 DE FEBRERO DE 2015)
 
 IX. Resolver sobre las solicitudes de prescripción de créditos fiscales y extinción de facultades de las autoridades fiscales;
 
 X. Tramitar y resolver las solicitudes de dación en pago en los términos de este Reglamento;
 
-XI. Resolver las consultas que formulen los interesados en situaciones reales y concretas sobre la aplicación e interpretación de las disposiciones fiscales estatales o municipales coordinados, así como las solicitudes de autorización, siempre que en este último caso no corresponda a otra unidad administrativa en los términos de la Ley o de éste Reglamento;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XI. Resolver las consultas que formulen los interesados en situaciones reales y concretas sobre la aplicación e interpretación de las disposiciones fiscales estatales o municipales coordinados (sic);
 
 XII. Revocar de oficio o a petición de parte, los actos emitidos por la Dirección Jurídica, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales y reponerlo cuando así proceda;
 
 XIII. Tramitar y resolver los recursos administrativos interpuestos por los particulares, que se hagan valer en materia de contribuciones estatales o contribuciones municipales o federales coordinadas, salvo que en este Reglamento se establezca dicha atribución a otra unidad administrativa;
 
-XIV. Tramitar las solicitudes de acceso a la información pública;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XIV. Ser enlace ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo, para obtener la información pública que obre en los archivos de la dependencia;
 
 XV. Designar a los funcionarios adscritos a su área, con el carácter de delegados en los juicios de su competencia;
 
@@ -611,21 +743,29 @@ XXIV. Asistir o sugerir a la unidad administrativa competente respecto de los fo
 
 XXV. Proporcionar asesoría a las dependencias, organismos y entidades de la Administración Pública del Estado, y a los municipios que lo soliciten, en materia de interpretación y aplicación de las leyes tributarias;
 
-XXVI. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-Las facultades establecidas en este artículo también serán ejercidas por el Director Jurídico respecto de contribuciones federales, cuando así proceda en términos del convenio de adhesión al Sistema Nacional de Coordinación Fiscal, convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el Estado de Yucatán y de contribuciones municipales en los términos de los convenios celebrados y que se celebren con los municipios.
+XXVI. Requerir a los contribuyentes la documentación, datos e información que sean necesarios para resolver los asuntos competencia de la dirección a su cargo, y
+
+XXVII. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2015)</small>
+
+Las facultades establecidas en este artículo también serán ejercidas por el Director Jurídico respecto de contribuciones federales y municipales, cuando así proceda en términos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal; convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el Estado de Yucatán y de los convenios celebrados y que se celebren con los municipios.
+
+> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 17.
 
 La Dirección Jurídica tendrá bajo su adscripción las siguientes unidades:
 
-I. Departamento de lo Contencioso;
+I. Departamento de lo Contencioso 1;
 
-II. Departamento de Recursos Administrativos;
+II. Departamento de lo Contencioso 2 y Asuntos Especiales.
 
-III. Departamento de Legislación y Consulta, y
+III. Departamento de Recursos Administrativos, y
 
-IV. Departamento de lo Contencioso no Fiscal y Asuntos Especiales.
+IV. Departamento de Legislación y Consulta.
 
 ###### Artículo 18.
 
@@ -729,9 +869,13 @@ II. Coordinar, analizar y, en su caso aprobar las propuestas que se formulen en 
 
 III. Garantizar la continuidad operativa y proporcionar soluciones integrales, considerando los procesos y estructura organizacional alineada a los servicios que presta la Agencia;
 
-IV. Planear, definir y establecer las directrices, normas, lineamientos, metodologías, estándares, procesos, procedimientos y programas, en materia de informática y telecomunicaciones que procedan, para proporcionar y administrar los servicios, el desarrollo, implementación y mantenimiento de soluciones, sistemas informáticos, licencias y aplicaciones, para el control de las operaciones y la administración de la Agencia, incluyendo, previo acuerdo con la Dirección de Asistencia al Contribuyente la contratación de servicios y la adquisición o arrendamiento de bienes que automaticen las funciones y los procesos de las unidades administrativas, y garanticen la integridad, precisión, confiabilidad, protección, consistencia, intercambio, almacenamiento, eliminación de la información y seguridad de la misma;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-V. Proveer la tecnología informática requerida para el uso de la firma electrónica avanzada por parte de los contribuyentes;
+IV. Planear, definir y establecer las directrices, normas, lineamientos, metodologías, estándares, procesos, procedimientos y programas, en materia de informática y telecomunicaciones que procedan, para proporcionar y administrar los servicios, el desarrollo, implementación y mantenimiento de soluciones, sistemas informáticos, licencias y aplicaciones, para el control de las operaciones y la administración de la Agencia, incluyendo, previo acuerdo con la Dirección de Administración y Recursos, la contratación de servicios y la adquisición o arrendamiento de bienes que automaticen las funciones y los procesos de las unidades administrativas, y garanticen la integridad, precisión, confiabilidad, protección, consistencia, intercambio, almacenamiento, eliminación de la información y su seguridad;
+
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+V. Proveer la tecnología informática requerida para el uso de la firma electrónica avanzada;
 
 VI. Supervisar, proteger y vigilar el cumplimiento de las políticas de tecnología de la información y de telecomunicaciones de la Agencia y promover entre las unidades administrativas una cultura de calidad, seguridad y protección de la información, minimizando la exposición al riesgo del contenido de la misma y vigilando el uso y confidencialidad de los datos, herramientas de explotación y portales de información;
 
@@ -801,7 +945,9 @@ VII. Transferir en su caso los recursos excedentes que no tengan un fin específ
 
 VIII. Prever las cuentas por pagar por parte de la (sic) unidades administrativas adscritas a la Agencia, que afectan las diferentes partidas del presupuesto autorizado;
 
-IX. Aplicar las normas de operación y funcionamiento del Servicio Fiscal de Carrera que al efecto establezca la Junta de Gobierno;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+IX. Aplicar las normas de operación y funcionamiento del Servicio Fiscal de Carrera que al efecto establezca la junta de gobierno, con base en los estatutos que se expidan para tal efecto;
 
 X. Establecer en el ámbito de su competencia de conformidad con las disposiciones aplicables correspondientes al caso, las políticas y procedimientos en los contratos que haya celebrado la Agencia con particulares para la prestación de servicios o la adquisición de bienes;
 
@@ -849,9 +995,13 @@ XXXI. Analizar y operar, en su caso, las solicitudes de descuentos y retenciones
 
 XXXII. Convocar con regularidad la realización de foros, eventos, cursos y demás actividades que sean adecuadas para promover el desarrollo y capacitación de los servidores públicos al servicio de la Agencia;
 
-XXXIII. Programar, establecer y evaluar los programas de capacitación para los servidores públicos de la Agencia;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-XXXIV. Proponer, promover y aplicar programas de servicio social de pasantes;
+XXXIII. Programar, establecer y evaluar los programas de capacitación profesional y de desarrollo personal y humano para los servidores públicos de la Agencia;
+
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+XXXIV. Proponer, promover y aplicar programas de servicio social de pasantes, pasantías y estadías de conformidad con los convenios que se celebren con las entidades educativas respectivas;
 
 XXXV. Proponer los lineamientos y normas que sean necesarias para la elaboración del Estatuto que rija la operación y funcionamiento del Servicio Fiscal de Carrera, para impulsar el desarrollo profesional de los trabajadores, para revisión y aprobación del Director General y su posterior presentación a la Junta de Gobierno;
 
@@ -889,15 +1039,31 @@ LI. Representar en su caso a la Agencia, ya sea de forma conjunta o separada con
 
 LII. Administrar, controlar y vigilar los almacenes, recintos o lugares donde se depositen los bienes o valores de las unidades adscritas a la Agencia, así como elaborar los lineamientos y criterios para su control, identificación, recepción, custodia, traslado, entrega, transferencia y destino de los mismos;
 
-LIII. Concentrar, custodiar, controlar y resguardar los fondos, títulos y valores financieros del Estado;
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
 
-LIV. Analizar, conjuntamente con las unidades administrativas, las propuestas de modificación a los procesos, estructuras, servicios y demás actividades de la misma; emitir lineamientos de instrumentación y formular propuestas de mejora institucional;
+LIII. Concentrar, custodiar, controlar y resguardar los archivos muertos de las diversas direcciones que integran la Agencia;
+
+> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+LIV. Analizar, conjuntamente con las unidades administrativas, las propuestas de modificación a los procesos, estructuras, trámites, servicios y sus actividades; emitir lineamientos de instrumentación y formular propuestas de mejora institucional;
 
 LV. Agrupar y desarrollar prácticas organizacionales que permitan mejoras continuas y, llevar a cabo las actividades que permitan la adopción de mejores prácticas;
 
-LVI. Obtener, previa solicitud, información de los Registros Públicos acerca de la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; de los actos relativos a la constitución, modificación y extinción de las personas morales; así como de los otros actos, documentos, contratos, resoluciones y diligencia (sic) judiciales, que tengan o puedan tener implicaciones fiscales para los contribuyentes, responsables solidarios, retenedores o recaudadores de impuestos estatales o federales, y
+LVI. (DEROGADA, D.O. 12 DE FEBRERO DE 2015)
 
-LVII. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables y el Director General.
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+LVII. Elaborar y presentar mensual y anualmente los estados financieros de la contabilidad de la Agencia;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+LVIII. Proponer, supervisar y evaluar las campañas publicitarias que fomenten la cultura en materia hacendaria;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2015)</small>
+
+LIX. Supervisar las entrevistas requeridas por los medios de comunicación y dar seguimiento a la integración de la información solicitada, y
+
+LX. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables y el Director General.
 
 ###### Artículo 24.
 
@@ -1118,3 +1284,19 @@ CONSEJERO JURÍDICO
 C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 12 DE FEBRERO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las modificaciones al artículo 13 del Reglamento de la Ley de la Agencia de Administración Fiscal de Yucatán entrarán en vigor el 1 de abril de 2015.
+
+Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
