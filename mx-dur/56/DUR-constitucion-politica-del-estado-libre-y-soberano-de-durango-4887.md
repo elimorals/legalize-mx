@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2014-06-24"
+last_updated: "2015-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -871,45 +871,25 @@ El Escudo e Himno de Durango deben estar vinculados a la identidad duranguense, 
 
 ### Capítulo III. De las elecciones
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 63.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
 Las elecciones de Gobernador del Estado, diputados, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda.
 
 Los tiempos de campañas no deberán exceder de sesenta días, la ley fijará su duración; las precampañas no podrán prolongarse más de las dos terceras partes de las respectivas campañas electorales.
 
-Los partidos políticos Son entidades de interés público y tienen como finalidad, promover la participación del pueblo en vida democrática, contribuir a la integración de la representación estatal, y hacer posible el acceso de los ciudadanos al ejercicio del poder público, de acuerdo con los principios y programas que postulan.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
-
-Los partidos políticos locales sólo podrán constituirse por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley determinará las formas específicas de su participación en los procesos electorales y se regirán conforme a las bases que establece la Constitución Política de los Estados Unidos Mexicanos. El financiamiento público que reciban los partidos y los candidatos independientes, así como el acceso a los medios de comunicación social será equitativo, en los términos que establezcan las disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
-
-Al partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo en el Estado, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de gobernador, diputados de mayoría y planillas de ayuntamientos.
 
 La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos locales que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado o los municipios, según corresponda; en el caso del financiamiento público a partidos nacionales, debe reintegrarse al Estado el patrimonio adquirido con financiamiento público estatal, reportándolo en la rendición de cuentas al Instituto Nacional Electoral.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
-
 La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de las candidaturas independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, y ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
-
 La organización, preparación, desarrollo y vigilancia de los procesos electorales locales, es una función del Estado que se ejercerá a través del Instituto Nacional Electoral y del órgano público electoral local regulado por la presente Constitución, de conformidad con las atribuciones conferidas en la Constitución Política de los Estados Unidos Mexicanos, las leyes generales respectivas, y la ley local. Para resolver las impugnaciones que se presenten en materia electoral, existirá un sistema de medios de impugnación y un Tribunal Electoral, que se sujetará invariablemente a los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos, en los términos que expresamente señalen la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
 Los ciudadanos duranguenses tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales y de participación ciudadana.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 La ley tipificará los delitos en materia electoral y determinará las penas que por ellos se impongan.
 
@@ -3592,3 +3572,9 @@ Tercero.- Para efectos de cumplir con lo dispuesto en el artículo 116, fracció
 Cuarto.- Los recursos humanos, presupuestales, financieros y materiales del Tribunal Electoral del Poder Judicial del Estado, pasarán a formar parte del Tribunal Electoral del Estado de Durango, sin menoscabo de los derechos laborales. La referencia contenida en la Fracción IV, del artículo 112 de esta Constitución deberá atender a la presente reforma.
 
 Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE FEBRERO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
