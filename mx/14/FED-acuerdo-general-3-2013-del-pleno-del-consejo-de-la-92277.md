@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-12-18"
+last_updated: "2015-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -223,7 +223,9 @@ X. DECIMO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Villahermosa.
 
-3. Cuatro juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 4/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2015)</small>
+
+3. Seis juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
 
 4. Tres juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
 
@@ -1340,3 +1342,15 @@ D.O.F. 18 DE DICIEMBRE DE 2014.
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de febrero de dos mil quince, con excepción de lo previsto en el CUARTO transitorio, el cual entrará en vigor al día siguiente de la aprobación de dicho Acuerdo.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo.
+
+TERCERO. La primera guardia de turno, conforme al sistema del artículo 5 de este Acuerdo, queda como sigue: del dos al nueve de marzo de dos mil quince, corresponderá al Juzgado Quinto de Distrito; del nueve al dieciséis de marzo de dos mil quince, corresponderá al Juzgado Sexto de Distrito; del dieciséis al veintitrés de marzo de dos mil quince, al Juzgado Primero de Distrito; del veintitrés al treinta de marzo de dos mil quince, al Juzgado Segundo de Distrito; del treinta de marzo al seis de abril de dos mil quince, al Juzgado Tercero de Distrito; del seis al trece de abril de dos mil quince, al Juzgado Cuarto de Distrito; y así sucesivamente en ese orden de manera semanal.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+La Administración Regional del Décimo Circuito, con residencia en Villahermosa, Tabasco, proporcionará los elementos materiales para el traslado de expedientes de la Oficina de Correspondencia Común de los Juzgados de Distrito de la referida entidad y sede, a los órganos jurisdiccionales de nueva creación, en virtud de su ubicación en edificios distintos.
