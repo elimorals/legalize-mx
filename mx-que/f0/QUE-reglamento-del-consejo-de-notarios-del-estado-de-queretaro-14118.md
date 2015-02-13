@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-consejo-de-notarios-del-estado-de-queretaro-1411
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-29"
-last_updated: "1997-05-29"
+last_updated: "2015-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO -- ANTES REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO ARTEAGA --
 
-REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO ARTEAGA
+REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el jueves 29 de mayo de 1997.
 
@@ -33,15 +33,47 @@ CONSIDERANDO...
 
 Por todo lo anterior, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO ARTEAGA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2015)</small>
+
+REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERÉTARO
 
 ## TÍTULO PRIMERO. GENERALIDADES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-El presente ordenamiento reglamenta el funcionamiento del Consejo de Notarios del Estado de Querétaro, y regula su estructura y facultades.
+El Consejo de Notarios del Estado de Querétaro es un órgano auxiliar de la Administración Pública con personalidad jurídica y patrimonio propio, sin filiación política o religiosa, cuyo funcionamiento y estructura constituyen la materia de este Reglamento.
+
+El Consejo de Notarios del Estado de Querétaro, no tiene fines de lucro y además de lo que señalan las leyes aplicables en materia de profesiones, agrupa a todos los Notarios en ejercicio en el Estado, como un Colegio Profesional y tiene como objeto la realización de los siguientes fines:
+
+I. Promover y difundir los valores de la profesión notarial; organizar y apoyar actividades académicas para la capacitación y actualización de sus miembros, de los Notarios en general y de otros profesionales y en consecuencia otorgar a los Notarios, conforme lo disponga el reglamento de actividades académicas, los puntos o créditos a que tengan derecho para los efectos de la constancia o certificación anual de actualización de conocimientos que expedirá la Directiva del propio Consejo de Notarios;
+
+II. Promover la elaboración, aprobación y puesta en vigor de códigos de ética o conducta para procurar que la función notarial se realice en los planos más altos de valores humanos y profesionales;
+
+III. Promover, celebrar y difundir toda clase de convenios de colaboración y participación con otras instituciones, formular consultas, coadyuvar con los poderes ejecutivo, legislativo y judicial, autoridades en todos los ámbitos de gobierno y en general todo tipo de personas de índole pública o privada, para la formulación de iniciativas de leyes, disposiciones reglamentarias, programas de interés social y actividades relacionadas directa o indirectamente con la función notarial;
+
+IV. Resolver las consultas que por escrito le formulen los Notarios Públicos en el Estado miembros del Consejo, autoridades y particulares, así como coordinarse con el Colegio Nacional del Notariado Mexicano y los Colegios y Consejos de otras Entidades Federativas para establecer políticas generales de actuación notarial, medidas de seguridad, afiliación, ingreso al notariado y demás asuntos de su competencia;
+
+V. Participar y coadyuvar en la defensa de la institución notarial respecto de toda clase de normas, actos u omisiones de autoridades y particulares, mediante la interposición de los medios de defensa que procedan de conformidad con la legislación aplicable a cada caso en concreto, incluso el juicio de amparo directo o indirecto por interés jurídico o legítimo del Consejo de Notarios del Estado de Querétaro, en términos de lo establecido en el artículo 107, fracción I de la Constitución Política de los Estados Unidos Mexicanos;
+
+VI. Apoyar u organizar reuniones nacionales, regionales o estatales con fines académicos, de integración y convivencia; así como difundir sus actividades y las del Colegio Nacional del Notariado Mexicano, de la Unión Internacional del Notariado Latino y demás organismos que las sustituyan o sean similares, siempre en apoyo de la actividad notarial de tipo latino;
+
+VII. Organizar, editar y difundir por cualquier medio, las actividades académicas y profesionales de los Notarios, mediante circulares, avisos, boletines, libros, revistas y en general todo tipo de publicaciones que se relacionen con el estudio, la investigación y la actualización académica;
+
+VIII. Realizar, organizar y apoyar toda clase de jornadas, cursos, especialidades, maestrías, doctorados, eventos y en general, actividades académicas en colaboración con las instituciones de educación superior públicas y privadas y especialmente con la Universidad Autónoma de Querétaro;
+
+IX. Constituir y administrar el Fondo de mutualidad notarial, a través de la Comisión de Mutualidad, para el auxilio y previsión de los Notarios que son o fueron miembros del Consejo, de conformidad con los ordenamientos aplicables;
+
+X. Conocer y resolver conforme a las disposiciones legales o Código de Ética aplicables, de la conducta de los notarios que en el ejercicio profesional, realicen actos que atenten en contra de los valores de la función notarial o gremial correspondiente, mediante la intervención de la Comisión de Honor y Justicia y previa audiencia de los interesados;
+
+XI. Adquirir o enajenar por cualquier título, arrendar, subarrendar o celebrar cualquier acto o contrato respecto de bienes muebles e inmuebles necesarios para la realización de su objeto o fines;
+
+XII. Otorgar garantías por cuenta de sus integrantes, Notarios Titulares y Adscritos, en relación con el ejercicio de sus funciones, a favor de la Tesorería de la Federación o de cualquier otra dependencia federal, estatal o municipal o de particulares que lo requiera y realizar los registros, trámites y gestiones necesarios para su reconocimiento, y
+
+XIII. En general, celebrar, realizar y ejecutar toda clase de hechos o actos jurídicos, convenios y contratos que sean convenientes o se relacionen directa o indirectamente con las finalidades del propio Consejo.
 
 ###### ARTÍCULO 2.
 
@@ -131,13 +163,17 @@ Toda resolución sujeta a votación se adoptará por mayoría de votos de los pr
 
 ### CAPÍTULO III. DEL PRESIDENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-En los términos del artículo 129 de la Ley del Notariado, la representación legal del Consejo de Notarios del Estado como persona jurídica, corresponde al Presidente de la Directiva, quien en ejercicio de su cargo, gozará de las facultades generales más amplias para pleitos y cobranzas, y actos de administración de conformidad con la legislación aplicable, en todos los actos en que aquél deba intervenir. Además tendrá las siguientes atribuciones:
+En los términos del artículo 128 de la Ley del Notariado del Estado de Querétaro, la representación legal del Consejo de Notarios del Estado como persona jurídica, corresponde al Presidente de la Directiva, quien en ejercicio de su cargo, gozará de las facultades generales más amplias para pleitos y cobranzas, y actos de administración de conformidad con la legislación aplicable, en todos los actos en que aquél deba intervenir. Además tendrá las siguientes atribuciones:
 
 I. Presidir las asambleas del Consejo y las sesiones de la Directiva;
 
-II. Controlar la impresión y venta de los folios que deberán usar los notarios de acuerdo con el artículo 42 de la Ley del Notariado;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+II. Controlar la impresión y venta de los folios que deberán usar los notarios de acuerdo con el artículo 42 de la Ley del Notariado del Estado de Querétaro;
 
 III. Designar las comisiones que sean necesarias, de entre los integrantes del Consejo;
 
@@ -149,9 +185,21 @@ VI. Autorizar con su firma las actas de las Asambleas del Consejo y de las sesio
 
 VII. Autorizar las erogaciones que deban pagarse con fondos del Consejo;
 
-VIII. Delegar o sustituir sus facultades y otorgar poderes para actos concretos, y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
 
-IX. Todas las demás que establezca la Ley y este Reglamento, y las que sean necesarias para la buena marcha del Consejo de Notarios.
+VIII. Delegar o sustituir sus facultades y otorgar poderes para actos concretos;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+IX. Promover juicios de amparo en la vía directa o indirecta por interés jurídico o legítimo del Consejo, según corresponda, conforme a lo previsto en el artículo 107, fracción I de la Constitución Política de los Estados Unidos Mexicanos, y desistirse de los mismos;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+X. Intentar y desistirse de toda clase de procedimientos y juicios del orden civil, mercantil, administrativo y penal, y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+XI. Todas las demás que establezcan la Ley y este Reglamento, y las que sean necesarias para la buena marcha del Consejo de Notarios.
 
 ### CAPÍTULO IV. DEL SECRETARIO
 
@@ -227,11 +275,15 @@ Los fondos del Consejo de Notarios deberán ser depositados en una institución 
 
 ### CAPÍTULO I. DE LA COMISIÓN DE MUTUALIDAD
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 28.
 
-Se crea en forma permanente la Comisión de Mutualidad para el efecto de con ella buscar beneficios para todos los Notarios del Estado y que tendrá como objetivo el formar un fondo pecuniario que permita otorgar una ayuda económica a los familiares del Notario que fallezca o en forma directa al Notario en su incapacidad total permanente en los términos que señale su manual de operaciones.
+Se crea en forma permanente la Comisión de Mutualidad, para buscar beneficios para todos los Notarios del Estado y que tendrá como objetivo formar un fondo pecuniario que permita otorgar ayuda económica a los familiares del Notario que fallezca, a los del Notario que haya dejado de serlo y que conserve sus derechos conforme al párrafo siguiente, o en forma directa al Notario que incurra en incapacidad total permanente en los términos que señale su manual de operaciones.
 
-Igualmente como objetivo será el ampliar estos beneficios y establecer otros de acuerdo a la capacidad financiera de la mutualidad. La Asamblea del Consejo acordará, en su caso, la ampliación de los beneficios y el establecimiento de otros, a propuesta de la Comisión o de la Directiva del Consejo.
+Los beneficiarios de quien haya dejado de ser Notario por renuncia o por alguna otra causa, salvo el caso de separación definitiva por sanción administrativa, conservarán los derechos a que se refiere este artículo por un período igual a la cuarta parte del tiempo efectivo que hayan ejercido la función notarial.
+
+Igualmente será objetivo ampliar los beneficios señalados y establecer otros, de acuerdo a la capacidad financiera de la mutualidad. La Asamblea del Consejo acordará en su caso, la ampliación de los beneficios y el establecimiento de otros, a propuesta de la Comisión o de la Directiva del Consejo.
 
 ###### ARTÍCULO 29.
 
@@ -372,3 +424,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LICENCIADO ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo. Los beneficios establecidos en las disposiciones del Título Quinto del presente Reglamento, se aplicarán retroactivamente a los beneficiarios de los Notarios y a quienes hayan dejado de serlo en fecha anterior a la publicación de estas reformas en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
