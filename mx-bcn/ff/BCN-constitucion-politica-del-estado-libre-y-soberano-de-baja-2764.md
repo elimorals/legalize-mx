@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2014-12-31"
+last_updated: "2015-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -363,6 +363,8 @@ f).- Decidir sobre la donación, trasplante de sus órganos, tejidos, células c
 
 V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 207 PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2015, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCIÓN.</small>
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
 
 VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
@@ -377,6 +379,10 @@ c) Si son menores de doce años que hayan realizado una conducta prevista como d
 
 d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic) dieciocho años, sujetos a un procedimiento por la comisión de conductas tipificadas como delito, se observará la garantía del debido proceso legal en instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para ellos, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin su reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2015)</small>
+
+e).- Tienen derecho a la identidad y a ser registrados de manera inmediata a su nacimiento, para lo cual las autoridades garantizarán el cumplimiento de estos derechos y expedirán gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
@@ -386,6 +392,12 @@ El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedir
 VII.- Las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida, en los términos y condiciones que dispongan las leyes.
 
 El Ejecutivo Estatal y los Ayuntamientos, deberán prever en sus Planes de Desarrollo las políticas públicas que brinden una atención integral a las personas adultas mayores.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES IDÉNTICO AL SEGUNDO PÁRRAFO DE LA FRACCIÓN VI DE ESTE ARTÍCULO, VÉASE P.O. DE 19 DE OCTUBRE DE 2012.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2015)</small>
+
+El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
@@ -2161,7 +2173,9 @@ IV.- Los recursos públicos que se destinen en el presupuesto de egresos del Est
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa y exclusiva por los ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
 
-No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III de este artículo, a favor de persona o institución alguna. Sólo estarán exentos los bienes del dominio público de la Federación, del Estado y de los municipios, salvo que sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
+No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III de este artículo, a favor de persona o institución alguna. Sólo estarán exentos los bienes del dominio público de la Federación, del Estado y de los municipios, salvo que sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público. En todos los casos estará exenta del cobro de derechos, la primera copia certificada del acta de registro de nacimiento que expidan las oficialías del registro civil en los Ayuntamientos del Estado.
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Los ayuntamientos, de manera exclusiva, tendrán la facultad de presentar al Congreso del Estado para su aprobación, la Iniciativa de la Ley de Ingresos y las modificaciones a la misma.
 
@@ -2415,21 +2429,33 @@ El Estado y los Municipios promoverán el desarrollo integral de la juventud; la
 
 El Estado y los Municipios fomentarán el acceso universal de toda persona a la conectividad de redes digitales dentro de los bienes del dominio público que a cada ámbito correspondan, desarrollando las acciones que sean necesarias para garantizar el ejercicio de este derecho.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 99.
 
-Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del Servicio Civil que se sujetará a los siguientes principios:
+Las relaciones entre el Estado y sus servidores estarán reguladas por:
+
+A. La Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, que se sujetará a los siguientes principios:
 
 I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigüedad y antecedentes en el servicio;
 
 III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
-IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los de base.
+IV.- La ley fijará cuáles son los empleados de confianza y cuáles los de base.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+La Ley del Servicio Civil determinará cuál es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores.
 
-La Ley del Servicio Civil determinará cual es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores.
+B. La Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California, que establecerá las bases mínimas para regular el régimen de seguridad social que se logra a través de las aportaciones bipartitas de las cuotas del trabajador y de las aportaciones del ente empleador, sean suficientes para cubrir accidentes y enfermedades profesionales, las enfermedades no profesionales y maternidad, pensión, jubilación, la invalidez, vejez y muerte.
+
+Las cuotas y aportaciones que se enteren al organismo encargado de la seguridad social, regulándose en su Ley y en las que corresponda, a los siguientes:
+
+I.- A los trabajadores considerados así por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, y a los trabajadores de los organismos públicos incorporados conforme a los lineamientos establecidos en la ley de la materia.
+
+II.- A los Trabajadores del Magisterio, sus docentes, el personal con funciones de dirección y supervisión en el Estados (sic) y municipios, así como los asesores técnicos pedagógicos, en la Educación Básica que imparta el Estado.
+
+C. Las autoridades del orden Estatal y Municipal, a fin de propiciar el fortalecimiento del sistema de seguridad social, de aquellos funcionarios públicos que la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública del Estado señalan que guardan relación administrativa para con el Estado, instrumentarán sistemas complementarios de seguridad social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2477,13 +2503,13 @@ El destino de las donaciones intervivos o testamentarias hechas conforme a las l
 
 Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 104.
 
 La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo de la esposa y de los hijos.
 
-La vivienda será considerada como un área prioritaria para el desarrollo del Estado y será objeto de protección especial por parte de las autoridades en los términos que establezcan las leyes respectivas.
+El Estado y Municipios por conducto de sus oficialías del registro civil establecerán los mecanismos de coordinación necesarios para el registro gratuito e inmediato del recién nacido y la entrega gratuita de la primera copia certificada del acta de nacimiento. Para el cumplimiento de este fin, podrán realizar los convenios que correspondan con las instituciones públicas o privadas de salud.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2498,6 +2524,10 @@ Las mujeres compurgarán sus penas en lugares separados de los destinados a los 
 ###### ARTICULO 106.
 
 El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la higiene y salubridad pública, dictando las disposiciones y adoptando las medidas que fueren necesarias para prevenir y combatir las enfermedades, las epidemias y las epizootias.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
+La atención a la salud será considerada como un área prioritaria para el desarrollo del Estado y de la sociedad en su conjunto, conforme a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en los que México sea parte, en los términos que establezcan las leyes respectivas.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3483,7 +3513,7 @@ TERCERO.- Córrase el trámite que señala el artículo 122 de la Constitución 
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
-DECRETO No. 175, POR EL QUE SE REFORMA EL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 175, POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese el presente Decreto a los Ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3495,7 +3525,7 @@ CUARTO.- La .presente reforma entrará en vigor al día siguiente de su publicac
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
-DECRETO No. 176, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 27 49 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 176, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTÍCULOS 27 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado, enviándose las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado a los Ayuntamientos del Estado, para que emitan su opinión en los términos de Ley.
 
@@ -3505,7 +3535,7 @@ TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
-DECRETO No. 177, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 177, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3715,7 +3745,7 @@ Para dar cumplimiento a lo establecido en el artículo 112 de la Constitución P
 
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
-DECRETO No. 278, POR EL QUE SE APRUEBA LA ADICION DE UN SEGUNDO PÁRRAFO, RECORRIENDOSE LOS SUBSECUENTES; AL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 278, POR EL QUE SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES; AL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3963,8 +3993,46 @@ P.O. 31 DE DICIEMBRE DE 2014.
 
 DECRETO NO. 184 POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7 Y 104, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
-PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de fa Constitución Política del Estado Libre y Soberano de Baja California.
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 215, POR EL QUE SE REFORMA EL ARTÍCULO 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobada que sea esta iniciativa por esa Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 13 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 206, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL NUMERAL 106 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE FEBRERO DE 2015.
+
+DECRETO NO. 207 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 85 Y 104 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- El Poder Ejecutivo y los Ayuntamientos a partir del Ejercicio Fiscal 2015 y subsecuentes, incorporarán en sus Leyes de Ingresos la exención de pago del registro de nacimiento y de la primera copia del acta certificada de nacimiento.
+
+QUINTO.- El Poder Legislativo y los Ayuntamientos del Estado, deberán adecuar las disposiciones legales y reglamentarias en sus respectivos ámbitos de competencia para la debida implementación del presente decreto a más tardar el día 17 de diciembre del 2014.
+
+SEXTO.- Las autoridades Estatales y Municipales del Registro Civil, deberán homologar la expedición de toda acta del registro civil de conformidad con el formato único y los mecanismos electrónicos que establezcan las autoridades federales en la materia, a más tardar el día 17 de diciembre del 2014.
+
+SÉPTIMO.- Dentro de un plazo que no exceda de 30 días naturales a partir de la publicación del presente decreto, la Secretaría General de Gobierno o quien designe, convocará a una reunión con los titulares de las oficialías del registro civil estatal y de los municipios, para la implementación del registro de nacimiento inmediato y la expedición de la primer copia certificada del acta de nacimiento previsto en este decreto.
