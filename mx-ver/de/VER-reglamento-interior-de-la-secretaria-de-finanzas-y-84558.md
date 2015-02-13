@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-finanzas-y-84558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-28"
-last_updated: "2014-01-23"
+last_updated: "2015-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 28 de diciembre de 2011.
 
@@ -758,6 +758,14 @@ XLIII. Difundir entre las Áreas de su adscripción, la normatividad aplicable a
 XLIV. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 XLV. Ordenar la cumplimentación de las resoluciones, mandamientos y ejecutorias de órganos jurisdiccionales y autoridades federales o locales, en materia de comercio de exterior.
+
+> <small>(ADICIONADA, G.O. 13 DE FEBRERO DE 2015)</small>
+
+XLVI. Designar Visitadores, expedir los oficios de designación, credenciales o constancias de identificación del personal que se autorice para la práctica de visitas domiciliarias, auditorías, inspecciones, vigilancia, verificaciones, requerimientos y demás actos de fiscalización que deriven de las disposiciones estatales y federales; y
+
+> <small>(ADICIONADA, G.O. 13 DE FEBRERO DE 2015)</small>
+
+XLVII. Determinar la existencia de créditos fiscales, su actualización y sus accesorios, a cargo de contribuyentes, responsables solidarios y demás obligados; dar las bases para su liquidación y fijarlos en cantidad líquida, en los términos de las leyes fiscales del Estado y las de carácter federal respecto de los ingresos federales cuya administración tenga delegada el Estado y en los casos que proceda, imponer las sanciones y demás accesorios que correspondan a cargo de los contribuyentes y responsables solidarios.
 
 ###### Artículo 26.
 
@@ -2644,3 +2652,9 @@ Primero. Publíquese en la Gaceta Oficial del estado.
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Tercero. La Subsecretaría de Finanzas y Administración a través del área correspondiente deberá actualizar el Manual de Organización y de Procedimientos.
+
+G.O. 13 DE FEBRERO DE 2015.
+
+Primero. Publíquese en la Gaceta Oficial Órgano del Gobierno del Estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
