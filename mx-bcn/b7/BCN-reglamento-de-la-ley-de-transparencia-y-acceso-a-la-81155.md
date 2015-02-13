@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-transparencia-y-acceso-a-la-81155"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2015-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 1 de abril de 2011.
 
@@ -183,9 +183,11 @@ X.- Las demás que acuerde el Comité.
 
 ### CAPÍTULO TERCERO. DE LA UNIDAD CONCENTRADORA DE TRANSPARENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 13.
 
-La UCT se encontrará adscrita a la Oficialía Mayor de Gobierno, y será el órgano operativo encargado de difundir la información de oficio, recibir y tramitar las solicitudes de acceso a la información pública y a los datos personales, que se formulen a las dependencias y entidades.
+La UCT se encontrará adscrita a la Dirección de Control y Evaluación Gubernamental, y será el órgano operativo encargado de difundir la información de oficio, recibir y tramitar las solicitudes de acceso a la información pública y a los datos personales, que se formulen a las dependencias y entidades.
 
 Para el mejor desempeño de su función, la UCT podrá contar con unidades receptoras en cada uno de los municipios, o en los lugares que se considere pertinentes.
 
@@ -398,3 +400,11 @@ SECRETARIO GENERAL DE GOBIERNO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 OFICIAL MAYOR DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2015.
+
+PRIMERO.- Las presentes reformas entraran en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo que no exceda de 20 días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Comité deberá sesionar para formalizar el acto de re adscripción de la Unidad Concentradora de Transparencia.
