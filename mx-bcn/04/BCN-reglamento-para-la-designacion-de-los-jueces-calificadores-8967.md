@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-designacion-de-los-jueces-calificadores-8967
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-12-15"
-last_updated: "1995-12-15"
+last_updated: "2015-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA DESIGNACION DE LOS JUECES CALIFICADORES
 
-REGLAMENTO PARA LA DESIGNACION DE JUECES CALIFICADORES
+REGLAMENTO PARA LA DESIGNACIÓN DE JUECES CALIFICADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO DE ACUERDO PRIMERO Y EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE JUECES CALIFICADORES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 15 de diciembre de 1995.
 
@@ -174,3 +176,15 @@ FRANCISCO RENE CHING BERNAL
 C. SECRETARIO GENERAL DEL AYUNTAMIENTO
 
 LIC. AVEL PEREZ ALCALA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2015.
+
+Primero.- Una vez aprobada la presente reforma publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado a fin de que entre en vigor al día siguiente de su publicación.
+
+Segundo.- El presente reglamento abroga el Reglamento para la Designación de Jueces Calificadores.
+
+Tercero.- Se derogan todas las disposiciones contrarias a lo aprobado en el presente Reglamento.
+
+Cuarto.- La renovación correspondiente al mes de agosto del año 2015 será de la mitad del cuerpo de Jueces Calificadores seleccionando a los que cuenten con mayor antigüedad, pudiendo participar en el proceso de selección como cualquier otro aspirante.
