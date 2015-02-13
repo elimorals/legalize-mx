@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-academia-de-seguridad-publica-del-estado-77134
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-15"
-last_updated: "2010-10-15"
+last_updated: "2015-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ACADEMIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -169,7 +169,7 @@ Las unidades administrativas referidas en el artículo 6 del presente Reglamento
 
 ###### Artículo 9.
 
-Las unidades administrativas previstas en el articulo 6 del presente Reglamento podrán establecer oficinas en los diversos Municipios en el Estado, a fin de eficientizar el cumplimiento de sus actividades y siempre que la disponibilidad presupuestal así lo permita.
+Las unidades administrativas previstas en el artículo 6 del presente Reglamento podrán establecer oficinas en los diversos Municipios en el Estado, a fin de eficientizar el cumplimiento de sus actividades y siempre que la disponibilidad presupuestal así lo permita.
 
 ###### Artículo 10.
 
@@ -1097,9 +1097,13 @@ a) Haber concluido los estudios de enseñanza media-superior ó equivalente;
 
 b) Tener edad mínima de 19 años y máxima de 35 años;
 
-c) Estatura mínima 1.65 metros en hombres y 1.60 metros en mujeres;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
 
-d) Tener residencia mínima en el Estado de cinco años;
+c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
+d) Tener residencia mínima en el Estado de tres años;
 
 e) No contar con tatuajes antisociales o visibles portando el uniforme, y
 
@@ -1111,9 +1115,13 @@ a) Haber concluido los estudios de enseñanza superior ó equivalente;
 
 b) Tener edad mínima de 21 años y máxima de 40 años;
 
-c) Estatura mínima 1.65 metros en hombres y 1.60 metros en mujeres;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
 
-d) Tener residencia mínima en el Estado de cinco años;
+c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
+d) Tener residencia mínima en el Estado de tres años;
 
 e) No contar con tatuajes antisociales o visibles portando el uniforme, y
 
@@ -1125,7 +1133,9 @@ a) Haber concluido los estudios de enseñanza media-básica ó equivalente;
 
 b) Tener edad mínima de 19 años y máxima de 45 años;
 
-c) Estatura mínima 1.65 metros en hombres y 1.60 metros en mujeres;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
+c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
 
 d) Tener residencia mínima en el Estado de dos años;
 
@@ -1228,3 +1238,9 @@ SECRETARIO GENERAL DE GOBIERNO
 DANIEL DE LA ROSA ANAYA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
