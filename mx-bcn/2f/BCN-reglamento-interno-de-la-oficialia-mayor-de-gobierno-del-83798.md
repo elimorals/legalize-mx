@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficialia-mayor-de-gobierno-del-83798"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-18"
-last_updated: "2013-10-04"
+last_updated: "2015-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICIALÍA MAYOR DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2011.
 
@@ -59,9 +59,9 @@ Para el ejercicio de las atribuciones de su competencia, la Oficialía contará 
 
 I. Oficina del Titular.
 
-A. Unidad Concentradora de Transparencia.
+> <small>(REFORMADO [N. DE E. ANTES INCISO B], P.O. 13 DE FEBRERO DE 2015)</small>
 
-B. Centro de Profesionalización y Desarrollo del Capital Humano.
+A. Centro de Profesionalización y Desarrollo del Capital Humano.
 
 II. Subsecretaría de Administración.
 
@@ -191,7 +191,9 @@ VI. Aprobar el anteproyecto de presupuesto de egresos de las materias que compet
 
 VII. Dar cuenta al Congreso del Estado de la situación que guarda su ramo, cuando así se le requiera;
 
-VIII. Tener bajo su mando la oficina encargada de recibir y despachar las solicitudes de la información pública que se formulen a las dependencias y entidades de la administración pública estatal, así como el órgano desconcentrado responsable de la profesionalización y el desarrollo del capital humano;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+VIII. Tener bajo su mando el órgano desconcentrado responsable de la profesionalización y el desarrollo del capital humano;
 
 IX. Intervenir en la celebración de convenios entre el Estado, la Federación y los Municipios que incluyan materias de su competencia;
 
@@ -261,77 +263,15 @@ XL. Las que con el carácter de no delegables le atribuya el Gobernador del Esta
 
 Son facultades no delegables del Oficial Mayor las establecidas en las fracciones I, II, III, IV, VII, VIII, IX, XI, XIII, XIV, XV, XVI, XIX, XXVII, XXVIII, XXIX, XXXIV y XXXVII del artículo inmediato anterior.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 11.
 
-Se encuentran directamente adscritas a la oficina del titular de Oficialía, la Unidad Concentradora de Transparencia y el Centro de Profesionalización y Desarrollo del Capital Humano.
+Se encuentra directamente adscrito a la oficina del titular de Oficialía el Centro de Profesionalización y Desarrollo del Capital Humano.
 
 ###### ARTÍCULO 12.
 
-Corresponde a la Unidad Concentradora de Transparencia, por conducto de su titular, el ejercicio de las siguientes atribuciones:
-
-I. Recibir las solicitudes de acceso a la información pública, así como de corrección de datos personales, que formulen a las dependencias y entidades de la administración pública estatal;
-
-II. Orientar a los particulares en la elaboración de solicitudes a efecto de suplir cualquier deficiencia y brindar asesoría para dar seguimiento a las mismas en los medios electrónicos autorizados;
-
-III. Dirigir y coordinar los procesos de trámite y seguimiento de información y corrección de datos con las dependencias y entidades de la administración pública estatal;
-
-IV. Recibir del titular o sujeto obligado la información pública solicitada, o en su caso, el acuerdo o contestación que recaiga a la solicitud;
-
-V. Unificar el criterio de respuesta a las solicitudes de acceso a la información pública y correcciones de datos, que se realicen a las dependencias y entidades de la administración pública estatal, cuando dicha atención sea competencia de más de una de ellas;
-
-VI. Entregar a los interesados la respuesta a su solicitud, que remitan las dependencias y entidades de la administración pública estatal, y tramitar la corrección de datos personales en los términos de los ordenamientos legales aplicables;
-
-VII. Realizar las notificaciones relacionadas con resoluciones, acuerdos, requerimientos, avisos y demás situaciones que el solicitante deba conocer;
-
-VIII. Certificar la información que se publique en los medios electrónicos autorizados en materia de transparencia y acceso a la información pública para la Administración Pública Estatal;
-
-IX. Recibir los recursos de inconformidad que interpongan los solicitantes y turnarlos al Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, en los términos de la normatividad aplicable;
-
-X. Elaborar los informes de acceso a la información pública correspondiente a la Administración Pública Estatal, de conformidad con los ordenamientos legales aplicables;
-
-XI. Emitir los formatos de solicitud y demás instrumentos que la ley aplicable y su reglamento prevén, para facilitar el acceso a la información pública, así como el material de difusión que se requiera;
-
-XII. Difundir y promover la cultura de transparencia y acceso a la información pública en el Estado;
-
-XIII. Fungir como enlace entre la Administración Pública Estatal y el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California así como con las diferentes instituciones educativas, para la difusión de la cultura de la transparencia y acceso a la información pública;
-
-XIV. Fungir como enlace entre los titulares o sujetos obligados y el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California;
-
-XV. Proporcionar la información, asesoría y cooperación que les sean requeridas por las unidades administrativas de la Oficialía, dependencias, entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
-
-XVI. Mantener actualizado el índice de información reservada, con base en los acuerdos de reserva que emitan los titulares o sujetos obligados;
-
-XVII. Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales de organización, procedimientos y servicios, así como del catálogo de puestos correspondientes a las unidades administrativas adscritas;
-
-XVIII. Coordinarse con directores y delegados para el mejor cumplimiento de los programas de la Oficialía, conforme a las políticas establecidas;
-
-XIX. Planear, organizar, dirigir, controlar y evaluar los programas, sistemas, servicios y procedimientos de las unidades administrativas que sean de su competencia;
-
-XX. Acordar la resolución de los asuntos de las unidades administrativas a su cargo y, en su caso, requerir la aprobación y conocimiento del superior inmediato o del Oficial Mayor;
-
-XXI. Desempeñar las tareas y comisiones que le encomienden e informar al superior inmediato sobre el desarrollo de las mismas;
-
-XXII. Formular y suscribir dictámenes, constancias, resoluciones, opiniones, informes, certificación de documentos oficiales y demás relativos al ejercicio de sus funciones;
-
-XXIII. Proponer la contratación de asesorías, estudios y proyectos de investigación para la adecuada operación de las unidades administrativas a su cargo, así como controlar y evaluar sus resultados;
-
-XXIV. Representar al Oficial Mayor en los actos, eventos, juntas y demás asuntos de su competencia que se le encomienden e informarlo sobre el desarrollo de los mismos;
-
-XXV. Proponer las acciones que tiendan a lograr el mejor funcionamiento de las unidades administrativas a su cargo, así como apoyar y desarrollar los programas de modernización y eficiencia de los recursos asignados;
-
-XXVI. Participar en la elaboración del anteproyecto de presupuesto de egresos de la dependencia e integrar aquel que corresponda a las unidades administrativas a su cargo;
-
-XXVII. Ejercer el presupuesto autorizado para las unidades administrativas a su cargo y verificar el avance programático-presupuestal de los programas;
-
-XXVIII. Formular, controlar y evaluar los programas de trabajo de las unidades administrativas a su cargo;
-
-XXIX. Aplicar y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones generales aplicables al área de su competencia;
-
-XXX. Vigilar y procurar el óptimo aprovechamiento de los recursos de que disponen las áreas de su adscripción, para cumplir con los programas y acciones asignadas;
-
-XXXI. Administrar los bienes muebles, equipos de oficina y de transporte asignados, así como vigilar el buen uso de los mismos, y
-
-XXXII. Las demás que expresamente le confiera el Oficial Mayor y la normatividad aplicable.
+(DEROGADO, P.O. 13 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 13.
 
@@ -1401,23 +1341,37 @@ XII. Autorizar y supervisar las acciones tendientes a la conservación, mantenim
 
 XIII. Autorizar licencias sin goce de sueldo a los empleados del Poder Ejecutivo adscritos en la localidad, de conformidad con la normatividad aplicable;
 
-XIV. Recibir las solicitudes de acceso a la información pública y de corrección de datos personales, y entregar la respuesta que corresponda a cada una de ellas, en coordinación con la Unidad Concentradora de Transparencia;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
 
-XV. Aplicar y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones inherentes a la Delegación a su cargo;
+XIV. Aplicar y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones inherentes a la Delegación a su cargo;
 
-XVI. Proponer y desarrollar los programas de modernización y eficiencia de la Delegación a su cargo;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
 
-XVII. Proponer para su aprobación, los anteproyectos de presupuesto anual de egresos e ingresos con base en los programas de la esfera de su competencia;
+XV. Proponer y desarrollar los programas de modernización y eficiencia de la Delegación a su cargo;
 
-XVIII. Ejercer el presupuesto autorizado a la Delegación a su cargo y verificar el avance físico-financiero de los programas;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
 
-XIX. Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales de organización, procedimientos y servicios que regulen la operación y orienten la toma de decisiones de los programas a su cargo, así como en los trabajos relacionados con los catálogos de puestos correspondientes a las unidades administrativas adscritas;
+XVI. Proponer para su aprobación, los anteproyectos de presupuesto anual de egresos e ingresos con base en los programas de la esfera de su competencia;
 
-XX. Coordinarse con la Subsecretaría de Administración, las Direcciones y demás Delegaciones, para apoyar la ejecución de programas de la Oficialía, de conformidad con las políticas establecidas;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
 
-XXI. Proporcionar la información, asesoría y cooperación que les sean requeridas, de acuerdo con las políticas establecidas por el Oficial Mayor, y
+XVII. Ejercer el presupuesto autorizado a la Delegación a su cargo y verificar el avance físico-financiero de los programas;
 
-XXII. Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+XVIII. Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales de organización, procedimientos y servicios que regulen la operación y orienten la toma de decisiones de los programas a su cargo, así como en los trabajos relacionados con los catálogos de puestos correspondientes a las unidades administrativas adscritas;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+XIX. Coordinarse con la Subsecretaría de Administración, las Direcciones y demás Delegaciones, para apoyar la ejecución de programas de la Oficialía, de conformidad con las políticas establecidas;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+XX. Proporcionar la información, asesoría y cooperación que les sean requeridas, de acuerdo con las políticas establecidas por el Oficial Mayor, y
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+
+XXI. Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y las disposiciones aplicables.
 
 ###### ARTÍCULO 59.
 
@@ -1554,3 +1508,13 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 4 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE FEBRERO DE 2015.
+
+PRIMERO.- Las presentes reformas entraran en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo que no exceda de 40 días hábiles, contados a partir de la entrada en vigor del presente Decreto, las unidades administrativas que resultan competentes conforme al mismo, deberán adecuar las disposiciones normativas, e implementar las demás medidas administrativas o presupuestales para su adecuado cumplimiento, con el apoyo de las áreas que resulten competentes y la participación que corresponda a la Secretaría de Planeación y Finanzas.
+
+TERCERO.- En tanto se da cumplimiento a lo previsto en el artículo anterior, continuaran aplicándose las disposiciones normativas vigentes y aplicables a los diversos procedimientos, procesos o servicios de la Oficialía Mayor de Gobierno.
+
+CUARTO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente Decreto, serán resueltos por la unidad administrativa que los hubiere iniciado.
