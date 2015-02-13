@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-de-control-y-evaluacion-cocoe-de-la-70070
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-07"
-last_updated: "2009-09-07"
+last_updated: "2015-02-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL COMITE DE CONTROL Y EVALUACION [COCOE] DE LA COMISION DEL AGUA DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL COMITE DE CONTROL Y EVALUACION (COCOE) DE LA COMISION DEL AGUA DEL ESTADO DE MEXICO
+REGLAMENTO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DE LA COMISIÓN DEL AGUA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE), PUBLICADO EN LA G.G. DE 13 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 7 de septiembre de 2009.
 
@@ -263,3 +265,15 @@ M. en A.P. JAVIER RENATO ESTRADA MEDINA
 Contralor Interno y Secretario Técnico del Comité de Control y Evaluación
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 13 DE FEBRERO DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE, aprobado el siete de septiembre de dos mil nueve.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
