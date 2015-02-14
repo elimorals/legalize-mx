@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2015-02-07"
+last_updated: "2015-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -289,15 +289,19 @@ XV.- Transporte público;
 
 XVI.- Gasolineras y establecimientos similares;
 
-XVII.- Centros antirrábicos; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
+
+XVII.- Centros antirrábicos;
 
 > <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
 
 XVIII.- Establecimientos dedicados a la cirugía plástica, estética y reconstructiva;
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ADICION DE LA PRESENTE FRACCIÓN SE SUGIERE CONSULTAR LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE COLIMA http://www.congresocol.gob.mx</small>
 
-XIX.- Instituciones destinadas a la educación especial y de rehabilitación para personas con discapacidad; y
+(ADICIONADA, P.O. 7 DE FEBRERO DE 2015) (N. DE E. REPUBLICADA [ANTES FRACCIÓN XIX], P.O. 14 DE FEBRERO DE 2015)
+
+XVIII (SIC).- Instituciones destinadas a la educación especial y de rehabilitación para personas con discapacidad; y
 
 XX.- Las demás materias que determinen esta Ley y otras disposiciones aplicables.
 
@@ -473,13 +477,21 @@ VII.- impulsar un sistema racional para la formación y desarrollo de los recurs
 
 VIII.- Coadyuvar a la modificación de los patrones culturales que determinan hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
 
-IX.- Promover el fomento sanitario que coadyuve al desarrollo de establecimientos, productos y servicios que no sean nocivos para la salud; y
+IX.- Promover el fomento sanitario que coadyuve al desarrollo de establecimientos, productos y servicios que no sean nocivos para la salud;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2015)</small>
+
+X.- Promover el fomento a la atención y el respeto de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2015)</small>
+
+XI. Colaborar al bienestar social de la población, apoyando a las instituciones destinadas a la educación especial y de rehabilitación para personas con discapacidad; y
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-X. Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud.
+XII. Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
@@ -495,9 +507,21 @@ IV.- La orientación educativa en materia de rehabilitación a la colectividad e
 
 V.- La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, ortesis y ayudas funcionales que requieran, de conformidad con la suficiencia presupuestal;
 
-VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
 
-VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
+VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
+
+VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2015)</small>
+
+VIII.- La colaboración con las instituciones de rehabilitación y educación especial, para lograr el desarrollo integral de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTICULO 15 BIS 1.- A fin de mejorar la calidad de los servicios de salud, los integrantes del Sistema Estatal de Salud, estarán obligados a colocar en un lugar visible dentro del área de atención de urgencias médicas un letrero con la siguiente leyenda: "Artículos 55 y 469 de la Ley General de Salud: La atención de una urgencia médica es un Derecho Humano de toda persona. Sin importar si es afiliado o no a este sistema de salud. Cualquier prestador de servicios médicos que se niegue a atender una urgencia médica, podrá ser sancionado conforme a la ley”.
 
 ###### ARTICULO 16.
 
@@ -831,13 +855,69 @@ ARTICULO 20 BIS 19.- En materia de higiene escolar, deberán seguirse las normas
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2015)</small>
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO III. DE LA ATENCIÓN Y PROTECCIÓN A LAS PERSONAS CON TRASTORNOS DEL ESPECTRO AUTISTA
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 20.- En los servicios de salud, se garantizará la asistencia especializada que requieren las personas con trastornos del espectro autista, para su desarrollo integral.
+
+Las personas con trastornos del espectro autista tienen derecho a no ser discriminadas en ningún momento ni ámbito de su vida por su condición.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 21.- El Estado, adoptará todas las medidas legislativas, administrativas y de cualquier otra índole que sean pertinentes para hacer efectivo el desarrollo integral de las personas con trastornos del espectro autista.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 22.- La protección y atención de la salud física y mental de las personas con trastornos del espectro autista, será una responsabilidad que compartirán el Estado, la sociedad en general, los padres, tutores o quienes ejerzan la patria potestad sobre ellos.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 23.- En la organización y operación de los servicios de salud destinados a la atención de las personas con trastornos del espectro autista, las autoridades sanitarias competentes establecerán:
+
+I.- Procedimientos para garantizar la asistencia especializada que requieren las personas con trastornos del espectro autista, para su desarrollo integral;
+
+II.- Procedimientos que permitan la detección temprana de los trastornos del espectro autista sobre las personas que los padecen, con la finalidad de intervenir oportunamente, en los tratamientos, rehabilitación, educación y suministros de los servicios especiales que necesitan;
+
+III.- Procedimientos que permitan la participación activa de la familia en la atención de las personas que presenten estos trastornos;
+
+IV.- Acciones de protección y fomento al respeto hacia las personas con trastornos del espectro autista; y
+
+V.- Acciones para capacitar y orientar a los padres, tutores o quienes ejerzan la patria potestad de personas con trastornos del espectro autista, con la finalidad de procurar su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 24.- La Secretaría impulsará la participación del sector público y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud respecto a las personas con trastornos del espectro autista, mediante redes de apoyo, en el ámbito de sus respectivas competencias.
+
+Lo anterior tendrá la finalidad de poner a disposición de los padres, tutores o quienes ejerzan la patria potestad de personas con trastornos del espectro autista, la información sobre la prestación de servicios médicos y de educación especial que estas personas requieren para su desarrollo integral, así como el apoyo para acceder a estos.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 25.- En el Día Mundial de Concienciación sobre el Autismo, la Secretaría promoverá la realización de campañas para exponer la necesidad de ayudar y mejorar las condiciones de vida de los niños y adultos que sufren este trastorno.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 26.- Las autoridades sanitarias, educativas y laborales en sus respectivos ámbitos de competencia, difundirán, fomentarán y supervisarán:
+
+I.- Los programas para padres, tutores o quienes ejerzan la patria potestad de personas con trastornos del espectro autista, destinados a protegerlos en cualquier ámbito y lograr su desarrollo integral;
+
+II.- Las instituciones de salud y educación especializada para las personas con trastornos del espectro autista;
+
+III.- Las actividades recreativas, de esparcimiento y culturales destinadas al desarrollo integral de las personas con trastornos del espectro autista; y
+
+IV.- La vigilancia de actividades ocupacionales que puedan poner en riesgo la salud física de las personas con trastornos del espectro autista.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 20 BIS 27.- En materia de higiene escolar, las escuelas que brinden educación especializada para las personas con trastornos del espectro autista, deberán apegarse a las normas oficiales para proteger su salud.
+
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ## TITULO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO III. CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 21.
 
@@ -883,7 +963,7 @@ La Secretaría expedirá las normas técnicas a que quedará sujeto el control s
 
 La Secretaría publicará en el Periódico Oficial, las normas técnicas en materia de salubridad local y, en caso de considerarlo necesario, las resoluciones que dicte sobre la revocación de las autorizaciones sanitarias.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. CONSTRUCCIONES
 
 ###### ARTICULO 27.
 
@@ -901,7 +981,7 @@ La Secretaría verificará que los mercados y centros de abasto, sean provisiona
 
 Los administradores, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénico-sanitarias para el debido mantenimiento de sus locales y a sujetar el ejercicio de los mismos a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 30.
 
@@ -935,7 +1015,7 @@ Cuando los edificios, locales, construcciones o terrenos presenten un peligro, p
 
 Los propietarios o poseedores de los negocios establecidos en edificios o locales, están obligados a ejecutar las obras sanitarias que se requieran para cumplir con las disposiciones de higiene que establezca esta Ley, reglamentos y demás disposiciones relativas.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 38.
 
@@ -955,7 +1035,7 @@ La aprobación de las solicitudes de conservación, refrigeración, exhumación 
 
 Para el traslado de cadáveres humanos se estará a lo dispuesto por la Ley General.
 
-### CAPITULO VII. AGUA POTABLE
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 41.
 
@@ -991,7 +1071,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 Los Ayuntamientos proveerán y colocarán depósitos de basura en los parques, jardines, paseos y en otros lugares de la vía pública; además, realizarán el aseo y mantenimiento de los mismos, cada vez que sea necesario.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE
 
 ###### ARTICULO 46.
 
@@ -1039,7 +1119,7 @@ Queda a cargo del municipio, en el ámbito de su competencia, las actividades de
 
 La Secretaría podrá verificar en cualquier tiempo, el cumplimiento de la presente Ley y demás disposiciones legales aplicables.
 
-### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 57.
 
@@ -1067,7 +1147,7 @@ Queda prohibido que los desechos que conduzcan los caños sean vertidos en ríos
 
 La infracción a esta disposición se sancionará de conformidad con los ordenamientos legales aplicables.
 
-### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
 
 ###### ARTICULO 63.
 
@@ -1095,7 +1175,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Los establecimientos que se encuentren en el supuesto del artículo anterior, la Secretaría podrá ordenar la desocupación de los mismos siguiendo el procedimiento correspondiente.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 67.
 
@@ -1123,7 +1203,7 @@ II.- A las personas que padezcan de alguna enfermedad sexualmente transmisible u
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 71.
 
@@ -1149,7 +1229,7 @@ Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamie
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
 
 ###### ARTICULO 73.
 
@@ -1158,6 +1238,16 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 ###### ARTICULO 74.
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
+
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
+
+###### ARTICULO 75.
+
+Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos públicos los establecimientos destinados a la concentración de personas con fines recreativos, sociales, deportivos o culturales.
+
+###### ARTICULO 76.
+
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
 ### CAPITULO XIII BIS. ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA ESTETICA, PLASTICA Y RECONSTRUCTIVA
 
@@ -1176,16 +1266,6 @@ ARTICULO 80 BIS 2.- El funcionamiento de los establecimientos señalados en este
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
 
 ARTICULO 80 BIS 3.- La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
-
-###### ARTICULO 75.
-
-Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos públicos los establecimientos destinados a la concentración de personas con fines recreativos, sociales, deportivos o culturales.
-
-###### ARTICULO 76.
-
-La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
-
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 77.
 
@@ -1209,9 +1289,9 @@ El funcionamiento de los establecimientos señalados en este capítulo deberá a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 2015)</small>
 
-### CAPITULO XV. TRANSPORTE PUBLICO
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
-### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO XV. TRANSPORTE PUBLICO
 
 ###### ARTICULO 81.
 
@@ -1231,7 +1311,7 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
-### CAPITULO XVII. CENTROS ANTIRRABICOS
+### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 85.
 
@@ -1240,6 +1320,16 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 ###### ARTICULO 86.
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
+
+### CAPITULO XVII. CENTROS ANTIRRABICOS
+
+###### ARTICULO 87.
+
+Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de servicios similares: los establecimientos destinados al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
+
+###### ARTICULO 88.
+
+Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
 ### CAPITULO XVIII. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
 
@@ -1258,50 +1348,6 @@ ARTICULO 92 BIS 2.- La Secretaría verificará que los establecimientos destinad
 En caso de incumplimiento por parte de los propietarios o poseedores de dichos establecimientos, la Secretaría, llevará a cabo las acciones sanitarias preventivas necesarias para corregir las anomalías existentes o detectadas a través del procedimiento señalado en la fracción IV del artículo 121 de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
-
-###### ARTICULO 87.
-
-Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de servicios similares: los establecimientos destinados al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
-
-###### ARTICULO 88.
-
-Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
-
-### CAPITULO XIX. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL CONSUMO DE TABACO
-
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
-
-ARTICULO 92 TER.- La Secretaría en conjunto con el Sistema Estatal de Salud, se coordinarán con las autoridades sanitarias federales de conformidad a lo establecido por el artículo quinto fracción II de la presente Ley, para la planeación, ejecución y evaluación en el Estado de los programas contra el alcoholismo y el consumo de tabaco, mismos que comprenderán las siguientes acciones:
-
-A. Programa contra el alcoholismo:
-
-I. La prevención y tratamiento de las personas con problemas de alcoholismo y, en su caso, la rehabilitación de las mismas;
-
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a la infancia y población adolescente, a través de métodos individuales, sociales y de comunicación masiva; y
-
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas vulnerables y en grupos de población considerados de alto riesgo.
-
-B. Programa contra el consumo de tabaco:
-
-I. La Investigación de las causas del tabaquismo;
-
-II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a niños y adolescentes a través de métodos individuales, colectivos y de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
-
-III. La prohibición de fumar en el interior de los edificios públicos, con excepción de las áreas reservadas que deberán destinarse para los fumadores; y
-
-IV. La reglamentación para su consumo.
-
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
-
-ARTICULO 92 TER 1.- Aunado a las acciones a que refiere el artículo que precede, la Secretaría en conjunto con las dependencias que conforman el Sistema Estatal de Salud, Incluirán para su análisis en el correspondiente estudio de campo:
-
-I. Los efectos de la publicidad y su incidencia en el abuso de bebidas y tabaco, así como los problemas relacionados con su consumo;
-
-II. Los hábitos de consumo de alcohol y tabaco en los diferentes grupos de población;
-
-III. Efectos del abuso de éstas sustancias en los ámbitos familiar, social, educativo, laboral, deportivo y de espectáculos; y
-
-IV. Los demás casos que ameriten su estudio y Análisis.
 
 ###### ARTICULO 89.
 
@@ -1347,13 +1393,47 @@ Las autoridades competentes mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2007)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XIX. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL CONSUMO DE TABACO
 
-### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+ARTICULO 92 TER.- La Secretaría en conjunto con el Sistema Estatal de Salud, se coordinarán con las autoridades sanitarias federales de conformidad a lo establecido por el artículo quinto fracción II de la presente Ley, para la planeación, ejecución y evaluación en el Estado de los programas contra el alcoholismo y el consumo de tabaco, mismos que comprenderán las siguientes acciones:
+
+A. Programa contra el alcoholismo:
+
+I. La prevención y tratamiento de las personas con problemas de alcoholismo y, en su caso, la rehabilitación de las mismas;
+
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a la infancia y población adolescente, a través de métodos individuales, sociales y de comunicación masiva; y
+
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas vulnerables y en grupos de población considerados de alto riesgo.
+
+B. Programa contra el consumo de tabaco:
+
+I. La Investigación de las causas del tabaquismo;
+
+II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a niños y adolescentes a través de métodos individuales, colectivos y de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+
+III. La prohibición de fumar en el interior de los edificios públicos, con excepción de las áreas reservadas que deberán destinarse para los fumadores; y
+
+IV. La reglamentación para su consumo.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+ARTICULO 92 TER 1.- Aunado a las acciones a que refiere el artículo que precede, la Secretaría en conjunto con las dependencias que conforman el Sistema Estatal de Salud, Incluirán para su análisis en el correspondiente estudio de campo:
+
+I. Los efectos de la publicidad y su incidencia en el abuso de bebidas y tabaco, así como los problemas relacionados con su consumo;
+
+II. Los hábitos de consumo de alcohol y tabaco en los diferentes grupos de población;
+
+III. Efectos del abuso de éstas sustancias en los ámbitos familiar, social, educativo, laboral, deportivo y de espectáculos; y
+
+IV. Los demás casos que ameriten su estudio y Análisis.
+
+### CAPITULO I. AUTORIZACIONES
 
 ## TITULO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 93.
 
@@ -1385,7 +1465,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 100.
 
@@ -1431,7 +1511,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 107.
 
@@ -1465,7 +1545,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 112.
 
@@ -1575,7 +1655,7 @@ En el caso de los productos muestreados en procedimientos de muestreo o verifica
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 125.
 
@@ -1659,7 +1739,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud de las personas.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 133.
 
@@ -1737,7 +1817,7 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 Impuesto el arresto, se hará del conocimiento a la autoridad correspondiente a efecto de que proceda a su ejecución.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 141.
 
@@ -1810,6 +1890,8 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 ###### ARTICULO 150.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente lo hará del conocimiento del Ministerio Público; lo anterior, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 151.
 
@@ -2010,3 +2092,9 @@ P.O. 13 DE DICIEMBRE DE 2014.
 P.O. 7 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Secretaría de Salud emitirá los lineamientos que señalen las características para la colocación, medida y forma del letrero a que alude el artículo 15 BIS 1 de la Ley de Salud del Estado de Colima, en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto.
