@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2014-06-21"
+last_updated: "2015-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2015.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -563,7 +563,7 @@ Quienes se hayan desempeñado como Consejero Presidente, Consejeros Electorales,
 
 f) (DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
-g) El Instituto Electoral y de Participación Ciudadana de Tabasco contará con una Contraloría General, dotada de autonomía técnica y de gestión, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del propio Instituto, sin perjuicio de la función que desarrolla el Órgano Superior de Fiscalización a que se refieren los artículos 40 y 41 de ésta (sic) Constitución;
+g) El Instituto Electoral y de Participación Ciudadana de Tabasco contará con una Contraloría General, dotada de autonomía técnica y de gestión, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del propio Instituto, sin perjuicio de la función que desarrolla el Órgano Superior de Fiscalización a que se refieren los artículos 40 y 41 de ésta Constitución;
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1033,7 +1033,7 @@ XVI.- Legislar de acuerdo con las facultades concedidas por la Constitución Pol
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-XVII. Aprobar el Plan Estatal de Desarrollo que proponga el Titular del Ejecutivo en el plazo que disponga la ley. En caso de que la Cámara de Diputados no se pronuncie en dicho plazo, el Plan se entenderá aprobado;
+XVII.- Aprobar el Plan Estatal de Desarrollo que proponga el Titular del Ejecutivo en el plazo que disponga la ley. En caso de que la Cámara de Diputados no se pronuncie en dicho plazo, el Plan se entenderá aprobado;
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
@@ -1041,7 +1041,7 @@ XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terce
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-XIX. Designar al Fiscal General del Estado y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública;
+XIX.- Designar al Fiscal General del Estado y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -1079,7 +1079,7 @@ XXIX.- Autorizar la enajenación o gravámen de bienes inmuebles del Estado;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-XXX. Recibir la protesta constitucional a los diputados, al gobernador, a los magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de lo Contencioso Administrativo; al titular de la Presidencia de la Comisión Estatal de los Derechos Humanos; al Fiscal General del Estado, al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco; a los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Magistrado Presidente del Tribunal de Conciliación y Arbitraje;
+XXX.- Recibir la protesta constitucional a los diputados, al gobernador, a los magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de lo Contencioso Administrativo; al titular de la Presidencia de la Comisión Estatal de los Derechos Humanos; al Fiscal General del Estado, al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco; a los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Magistrado Presidente del Tribunal de Conciliación y Arbitraje;
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
@@ -1103,13 +1103,13 @@ XXXV.- Cambiar provisional o definitivamente la residencia de los Poderes del Es
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XXXVI. Conceder licencia a los Diputados para separarse del cargo, en los términos establecidos en esta Constitución y en la Ley Orgánica del Congreso;
+XXXVI.- Conceder licencia a los Diputados para separarse del cargo, en los términos establecidos en esta Constitución y en la Ley Orgánica del Congreso;
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
 
 XXXVII.- Crear nuevos Municipios, modificar o suprimir algunos de los existentes, y decretar la erección de pueblos, villas, ciudades y rancherías;
 
-XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesiones ordinarias, la Comisión Permanente que ha de funcionar en los recesos del Congreso; y (sic)
+XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesiones ordinarias, la Comisión Permanente que ha de funcionar en los recesos del Congreso; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2010)</small>
 
@@ -1139,7 +1139,7 @@ XLIII.- Aprobar, en su caso, los puntos de acuerdos legislativos o acuerdos econ
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y (sic)
+XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1149,9 +1149,9 @@ XLV.- Legislar en materia de derechos humanos, y elegir al titular de la preside
 
 XLVI.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue hechos que constituyan violaciones graves de derechos humanos; y
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
 
-XLVII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las demás conferidas por esta Constitución.
+XLVII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las demás conferidas por la Constitución Política de los Estados Unidos Mexicanos, las leyes generales y por esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -1207,11 +1207,13 @@ VIII.- Las que le imponga esta Constitución y las demás disposiciones legales.
 
 ### CAPITULO VII. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 40.
 
-El Órgano Superior de Fiscalización del Estado, dependerá del Congreso, y sin excepción revisará y fiscalizará las cuentas del erario estatal y de los Municipios. Será un órgano técnico auxiliar de naturaleza desconcentrada, que tendrá autonomía funcional y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+El Órgano Superior de Fiscalización del Estado dependerá del Congreso y, sin excepción, revisará y fiscalizará las cuentas del erario estatal, de los municipios y de los organismos autónomos. Será un órgano técnico auxiliar de naturaleza desconcentrada, que tendrá autonomía funcional y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. La función de fiscalización a cargo de esta entidad se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 El Órgano Superior de Fiscalización del Estado, tendrá las siguientes facultades:
 
@@ -1233,19 +1235,31 @@ VII.- Promover, previa autorización del Congreso, ante las autoridades competen
 
 VIII.- Suscribir sin detrimento de sus atribuciones, y para el mejor cumplimiento de sus deberes, convenios de colaboración con el ente público similar de la federación, para los fines de la fiscalización de los recursos que con respecto al Estado o municipios, sean convenidos, transferidos o reasignados por las entidades fiscalizadas del ámbito federal; así como con los órganos de control preventivo de los entes estatales y municipales, obligados a rendir cuenta pública.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
 La mencionada entidad de fiscalización superior del Estado, deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 Los Poderes del Estado, los Municipios y los demás sujetos de fiscalización, facilitarán los auxilios que requiera el órgano superior, en el ejercicio de sus funciones.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2002)</small>
+(REFORMADO, P.O. 9 DE OCTUBRE DE 2002) (F. DE E., P.O. 12 DE OCTUBRE DE 2002)
 
 Para los fines de la revisión, fiscalización y calificación de las cuentas públicas, se entenderá a los Poderes del Estado, y dentro de éstos, en el ámbito del Poder Ejecutivo, como parte de la administración pública estatal, a los organismos descentralizados y autónomos, con personalidad jurídica y patrimonios propios, y demás entidades paraestatales creadas conforme esta Constitución y las Leyes que de ella emanen. En el Poder Judicial, serán sujetos además los organismos autónomos que en términos de ley estén sectorizados al mismo; de igual manera se considerará a las entidades paramunicipales que el Municipio constituyere acorde a las disposiciones de la Ley Orgánica Municipal.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
 Para el debido cumplimiento de sus atribuciones, el Órgano Superior a través de su titular presentará oportunamente el proyecto de presupuesto que se integrará al que de igual forma elabore y autorice el órgano de gobierno del Poder Legislativo para su remisión al Poder Ejecutivo; el cual lo incluirá en el presupuesto anual de egresos del Gobierno del Estado, a efectos de su aprobación formal por el Congreso. La ley secundaria en la materia o la orgánica del Poder Legislativo, determinará la coordinación en las labores o programas de fiscalización y las del orden administrativo, que incluirán las de evaluación y control, que dicho órgano técnico tendrá con relación al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 El titular de la entidad de fiscalización superior del Estado, será designado por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, a propuesta del órgano de gobierno, quien propondrá una terna en términos de la ley de la materia.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
 Durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 Para ser titular del Órgano Superior de Fiscalización del Estado, se requiere:
 
@@ -1261,19 +1275,23 @@ e). Haber residido en el país durante los dos años anteriores al día de la de
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-f) No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento; y
+f). No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento; y
 
 g). Las demás que se señalen en la Ley de Fiscalización Superior del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
 Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 Podrá ser sujeto de juicio político y en su caso, removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 41.
 
-Los tres Poderes del Estado, los órganos autónomos constitucionales y los Municipios, deberán entregar sus cuentas públicas al Congreso del Estado a través del Órgano Superior de Fiscalización, a más tardar el 31 de marzo del año siguiente, para su examen y calificación. La Cuenta Pública deberá contener los estados y la información financiera con los criterios que rigen la contabilidad pública debidamente armonizada, de acuerdo a lo establecido en las disposiciones legales, reglamentarias y administrativas aplicables.
+Los entes públicos deberán entregar sus cuentas públicas al Congreso del Estado a través del Órgano Superior de Fiscalización, a más tardar el 31 de marzo del año siguiente, para su examen y calificación. La cuenta pública deberá contener los estados y la información financiera con los criterios que rigen la contabilidad pública debidamente armonizada, de acuerdo a lo establecido en las disposiciones legales, reglamentarias y administrativas aplicables.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
@@ -1447,9 +1465,9 @@ V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
 
 VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
 
-VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado; asimismo remitir al H. Congreso del Estado, a través del Órgano Superior de Fiscalización, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Así como entregar a dicho órgano, a más tardar el 31 de marzo del año siguiente, la Cuenta Pública, en los términos del artículo 41 de esta Constitución.
+VII.- Remitir al H. Congreso del Estado, a través del Órgano Superior de Fiscalización, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal; así como entregar a dicho órgano, a más tardar el 31 de marzo del ejercicio fiscal siguiente, la cuenta pública, en los términos del artículo 41 de esta Constitución. La cuenta pública deberá contener de manera homogénea, la información financiera, de ingresos y egresos, así como patrimonial, debidamente registrada conforme al sistema de contabilidad gubernamental y las disposiciones que emita el Consejo Nacional de Armonización Contable, a fin de garantizar su armonización a nivel nacional.
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -2043,9 +2061,9 @@ Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán
 
 Cada Ayuntamiento deberá prever las partidas presupuéstales necesarias para solventar las obligaciones contraídas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales y que cuenten con la garantía del Ayuntamiento o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, así como aquellas que se requieran para cubrir los compromisos derivados de contratos de proyectos para prestación de servicios aprobados por el Ayuntamiento conforme a las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2015)</small>
 
-La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado, para tal efecto, aquellos, entregarán a éste mensualmente a través del Órgano Superior de Fiscalización del Estado, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, para su examen y calificación, entregar la Cuenta Pública, a más tardar el 31 de marzo del año siguiente al que corresponda, en los términos del artículo 41 de esta Constitución.
+La cuenta pública de los ayuntamientos o concejos municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado, para tal efecto, aquellos entregarán a éste mensualmente a través del Órgano Superior de Fiscalización del Estado, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, para su examen y calificación, entregarán la cuenta pública a más tardar el 31 de marzo del año siguiente al ejercicio fiscal que corresponda, en los términos del artículo 41 de esta Constitución. La cuenta pública deberá contener de manera homogénea, la información financiera, de ingresos y egresos, así como patrimonial, debidamente registrada conforme al sistema de contabilidad gubernamental y disposiciones que emita el Consejo Nacional de Armonización Contable, a fin de garantizar su armonización a nivel nacional.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
 
@@ -2089,7 +2107,7 @@ En lo conducente y de conformidad con los fines señalados en el párrafo tercer
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-IX. Convocar en los términos establecidos por esta Constitución y las leyes respectivas a consultas populares.
+IX.- Convocar en los términos establecidos por esta Constitución y las leyes respectivas a consultas populares.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
@@ -2319,9 +2337,9 @@ El Estado impulsará también, junto con la Federación, la organización para l
 
 > <small>N. DE E. EN TÉRMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PÁRRAFOS ANTERIORES.</small>
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2015)</small>
 
-Los recursos Económicos de que dispongan el Gobierno del Estado, de los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia y honradez para satisfacer los objetivos a los que estén destinados.
+Los recursos económicos de que dispongan el Gobierno del Estado, los Municipios y los organismos autónomos, así como las respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados. El ejercicio de dichos recursos será objeto de evaluación con la finalidad de propiciar que los recursos económicos que se asignen en los respectivos presupuestos, se administren y ejerzan en los términos de este párrafo.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -2855,17 +2873,17 @@ P.O. 19 DE MARZO DE 1997.
 
 ###### ARTÍCULO ÚNICO.
 
-Este Decreto entrarán en vigor a partir del momento de su aprobación.
+Este Decreto entrará en vigor a partir del momento de su aprobación.
 
 P.O. 26 DE ABRIL DE 1997.
 
 ###### ARTÍCULO ÚNICO.
 
-Este decreto entrarán en vigor a partir de su aprobación.
+Este decreto entrará en vigor a partir de su aprobación.
 
 P.O. 5 DE AGOSTO DE 1998.
 
-PRIMERO.- El presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Por única vez, las cuentas públicas del Estado y de los Municipios, correspondientes a los meses de enero a junio de mil novecientos noventa y ocho, serán calificadas, por ese período semestral, por el Congreso del Estado, a más tardar el treinta de septiembre del presente año; para lo cual la Contaduría Mayor de Hacienda, deberá concluir y glosar dichas cuentas en un término perentorio que vencerá el treinta y uno de agosto del citado año.
 
@@ -3328,3 +3346,17 @@ DÉCIMO.- A partir de la entrada en vigor de las reformas a que se refiere el tr
 DÉCIMO PRIMERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
 
 DÉCIMO SEGUNDO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 14 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 01 de enero de 2015, y será publicado en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones aplicables que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
