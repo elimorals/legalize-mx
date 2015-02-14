@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2014-11-18"
+last_updated: "2015-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE, EN LA FECHA, EN LAS REGIONES Y MEDIANTE LAS MODALIDADES QUE SEÑALA EL CITADO ARTÍCULO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2015.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -109,11 +107,13 @@ Principio de jurisdiccionalidad.
 
 Sólo podrá imponerse una consecuencia jurídica del delito por resolución de la autoridad judicial competente y mediante un procedimiento seguido ante los tribunales previamente establecidos, por lo que ninguna persona podrá ser juzgada por leyes privativas ni por tribunales especiales.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 8.
 
 Delitos por los que procede la prisión preventiva oficiosa.
 
-Son delitos por los que procede ordenar la prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y los previstos en este Código: homicidio doloso en todas sus formas y modalidades tipificado en los artículos 120; 121 en relación al 134; 122 tratándose del provocador así como su fracción II; 123 y 135; violación en todas sus formas y modalidades tipificado por los artículos 144 a 147; pornografía tipificado en el artículo 171 párrafos segundo y tercero; turismo sexual tipificado en el artículo 174; robo calificado tipificado en los artículos 185 apartado B) fracciones I y VIII, 186 párrafo segundo y 188 párrafo segundo, siempre y cuando se colmen las hipótesis señaladas en el artículo 185 apartado B) fracciones I y VIII.
+Son delitos por los que procede ordenar la prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y los previstos en este Código: homicidio doloso en todas sus formas y modalidades tipificado en los artículos 120; 121 en relación al 134; 122 tratándose del provocador así como su fracción II; 123; 123 Bis y 135; violación en todas sus formas y modalidades tipificado por los artículos 144 a 147; pornografía tipificado en el artículo 171 párrafos segundo y tercero; turismo sexual tipificado en el artículo 174; robo calificado tipificado en los artículos 185 apartado B) fracciones I y VIII, 186 párrafo segundo y 188 párrafo segundo, siempre y cuando se colmen las hipótesis señaladas en el artículo 185 apartado B) fracciones I y VIII.
 
 ###### ARTÍCULO 9.
 
@@ -1397,7 +1397,9 @@ Si durante la ejecución de las penas o medidas de seguridad se advierte que se 
 
 Es imprescriptible la acción persecutoria en los siguientes casos:
 
-I. Por el delito de homicidio dolosos (sic) en todas sus formas y modalidades tipificados en los artículos 120, 121 en relación al 123, 124, 134 y 135, y violación en todas sus formas y modalidades tipificado por los artículos 144 a 147, de este Código;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
+
+I. Por el delito de homicidio dolosos (sic) en todas sus formas y modalidades tipificados en los artículos 120,121 en relación al 123, 123 Bis, 124,134 y 135, y violación en todas sus formas y modalidades tipificado por los artículos 144 a 147, de este Código;
 
 II. Por los delitos de peculado, cohecho, enriquecimiento ilegítimo y desaparición forzada de personas; y
 
@@ -1502,6 +1504,28 @@ V. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su 
 A quien cometa feminicidio se le impondrán de treinta y cinco a cincuenta años de prisión y multa por el importe al equivalente de mil a mil quinientos días de salario mínimo.
 
 Si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en las fracciones anteriores, se impondrán de cuarenta a cincuenta años de prisión.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 123 Bis.
+
+Comete el delito de homicidio por razones de orientación sexual ó identidad de género, quien prive de la vida a otra persona y se cumpla por los menos uno de los siguientes supuestos:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida;
+
+III. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+
+IV. Existan elementos de odio, rechazo o discriminación hacia la orientación sexual o identidad de género de la víctima;
+
+V. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+
+La identidad de género, es la vivencia interna e individual del género tal como cada persona la experimenta profundamente, la cual podría corresponder o no con el sexo asignado al momento del nacimiento, incluyendo la vivencia personal del cuerpo (que podría involucrar la modificación de la apariencia o la función corporal a través de medios médicos, quirúrgicos o de otra índole, siempre que la misma sea libremente escogida) y otras expresiones de género como la vestimenta, el modo de hablar y los modales.
+
+A quien cometa homicidio por razones de orientación sexual ó identidad sexual se le impondrán de treinta y cinco a cincuenta años de prisión y multa por el importe al equivalente de mil a mil quinientos días de salario mínimo.
 
 ###### ARTÍCULO 124.
 
@@ -1649,7 +1673,7 @@ Al que induzca o ayude a otro para que se prive de la vida, se le impondrá pris
 
 Si la perdida de la vida no se consuma, se impondrá prisión de uno a cuatro años y multa por un importe equivalente de treinta a cincuenta días de salario mínimo.
 
-En caso de producirse lesiones se aplicará hasta la mitad de las pena de prisión, multa y medidas de seguridad previstas en este Código, correspondientes a las lesiones cometidas y según su respectiva modalidad.
+En caso de producirse lesiones se aplicará hasta la mitad de las (sic) pena de prisión, multa y medidas de seguridad previstas en este Código, correspondientes a las lesiones cometidas y según su respectiva modalidad.
 
 Si la persona a quien se induzca o ayude a privarse de la vida fuere un incapaz, se impondrán las penas del homicidio simple si la pérdida de la vida se consumare, si no se consumare, se impondrán de dos a ocho años de prisión y multa por el importe equivalente de sesenta a cien días de salario mínimo.
 
@@ -3223,8 +3247,10 @@ Dado en Palacio de Gobierno, al día 9 nueve del mes de octubre del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES. Rúbrica.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
