@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2014-07-03"
+last_updated: "2015-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -403,11 +403,59 @@ ARTÍCULO 31
 
 1. Los partidos políticos pueden solicitar ante el Consejo General, para que éste, dentro del ámbito de sus competencias, ordene que se investiguen las actividades de otros partidos, cuando exista motivo fundado para considerar que incumplen algunas de sus obligaciones o que sus actividades no se apegan a los preceptos constitucionales o legales.
 
-### CAPÍTULO IV. DE LOS FRENTES, COALICIONES Y FUSIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO IV. DE LAS CANDIDATURAS COMUNES, FRENTES, COALICIONES Y FUSIONES
 
 ARTÍCULO 32
 
 1. Los partidos políticos, para las elecciones que se celebren en la Entidad Federativa, podrán constituir frentes, coaliciones, así como fusionarse, de conformidad a las disposiciones y reglas establecidas en la Ley General y en la Ley General de Partidos Políticos, para tal efecto.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 32 BIS
+
+1. Los partidos políticos, tendrán derecho a postular candidaturas comunes para la elección de Gobernador, diputados de mayoría y planillas de ayuntamientos. Los partidos políticos que postulen candidato común deberán suscribir un convenio firmado por sus representantes y dirigentes, el que deberán presentar para su registro ante el Consejo General, hasta cinco días antes del inicio del periodo de registro de candidatos de la elección de que se trate.
+
+2. Los partidos políticos que postulen candidato a Gobernador en común deberán también suscribir convenio de candidatura común para los cargos a integrar los ayuntamientos en todos los municipios que conforman la geografía electoral del Estado.
+
+3. El convenio de candidatura común deberá contener:
+
+I. Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
+
+II. Emblema común de los partidos que lo conforman y el color o colores con que se participa;
+
+III. Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento por escrito del candidato;
+
+IV. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
+
+V. La forma en que se acreditarán los votos a cada uno de los partidos políticos que postulan la candidatura común, para efectos de la conservación del registro y para el otorgamiento del financiamiento público, y
+
+VI. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión y a los topes de gastos de campaña determinados por el Consejo General.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 32 TER
+
+1. Al convenio de candidatura común deberá anexársele los siguientes documentos:
+
+I. La documentación que acredite que los partidos políticos postulantes del candidato común entregaron en tiempo y forma su plataforma electoral a la autoridad electoral; y
+
+II. Las actas que acrediten que los órganos internos de los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 32 QUÁTER
+
+1. El Consejo General dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo, mandando publicar su resolución en el Periódico Oficial del Gobierno del Estado.
+
+2. Los partidos políticos que postulen candidatos comunes no podrán postular candidatos propios ni de otros partidos políticos para la elección que convinieron la candidatura común.
+
+3. Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
+
+4. Los votos se computarán a favor del candidato común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante el Consejo General.
+
+5. En la boleta deberá aparecer en un mismo espacio el emblema conjunto de los partidos
 
 ### CAPÍTULO V. DE LOS ASUNTOS INTERNOS DE LOS PARTIDOS POLÍTICOS
 
@@ -695,15 +743,21 @@ ARTÍCULO 65
 
 1. El Consejo General, dentro del plazo máximo de sesenta días naturales contados a partir de la fecha en que conozca de las solicitudes de registro, resolverá lo conducente:
 
-I. Cuando proceda el registro, el Consejo General expedirá el certificado respectivo. En caso de negativa, expresará las causas que la fundan y la motivan, y lo comunicará a la asociación interesada. La resolución correspondiente deberá publicarse en el Periódico Oficial.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
 
-II. El registro de las agrupaciones políticas, cuando hubiese procedido, surtirá efectos a partir del primero de junio del año anterior al de la elección; y
+I. Cuando proceda el registro, el Consejo General expedirá el certificado respectivo. En caso de negativa, expresará las causas que la fundan y la motivan, y lo comunicará a la asociación interesada. La resolución correspondiente deberá publicarse en el Periódico Oficial, y
 
-III. Las agrupaciones políticas con registro, gozaran del régimen fiscal previsto en esta Ley.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
+
+II. El registro de las agrupaciones políticas, cuando hubiese procedido, surtirá efectos a partir del primero de junio del año anterior al de la elección.
+
+III. (DEROGADA, P.O. 15 DE FEBRERO DE 2015)
 
 ARTÍCULO 66
 
-1. Las agrupaciones políticas con registro, a fin de acreditar los gastos realizados, deberán presentar a más tardar el día quince del mes de diciembre de cada año, los comprobantes de los mismos. Ninguna agrupación política podrá recibir más del veinte por ciento del total del fondo constituido para este financiamiento.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2015)</small>
+
+1. Las agrupaciones políticas con registro, a fin de acreditar los gastos realizados, deberán presentar a más tardar el día quince del mes de diciembre de cada año, los comprobantes de los mismos.
 
 2. Las agrupaciones políticas con registro, deberán presentar además a la Comisión de Fiscalización, un informe anual del ejercicio anterior sobre el origen y destino de los recursos que reciban por cualquier modalidad.
 
@@ -1033,7 +1087,7 @@ XI. Remitir para su publicación en el Periódico Oficial, la integración del C
 
 XII. Enviar para su publicación en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad, la relación completa de candidatos registrados por los partidos políticos y candidatos independientes para la elección que corresponda, y de igual forma, la cancelación de registro y sustitución de candidatos, conforme a lo dispuesto por esta Ley;
 
-XIII. Proponer al Consejo General la terna para el nombramiento del Secretario Ejecutivo del Instituto;
+XIII. (DEROGADA, P.O. 15 DE FEBRERO DE 2015)
 
 XIV. Garantizar el orden durante las sesiones del Consejo General, así como la seguridad de sus integrantes y vigilar el desarrollo pacífico de la jornada electoral, pudiendo solicitar el auxilio de la fuerza pública en caso necesario;
 
@@ -2399,7 +2453,9 @@ ARTÍCULO 171
 
 I. Los documentos y materiales electorales deberán elaborarse utilizando materias primas que permitan ser recicladas, una vez que se proceda a su destrucción;
 
-II. En el caso de las boletas electorales deberán elaborarse utilizando los mecanismos de seguridad que apruebe el Instituto;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
+
+II. En el caso de las boletas electorales deberán elaborarse utilizando los mecanismos de seguridad que apruebe el Instituto Nacional Electoral;
 
 III. La destrucción deberá llevarse a cabo empleando métodos que protejan el medio ambiente, según lo apruebe el Consejo General, y
 
@@ -2643,7 +2699,7 @@ ARTÍCULO 191
 
 4. Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
-5. Para los efectos de lo dispuesto por el párrafo séptimo del artículo 134 de la Constitución, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
+5. (DEROGADO, P.O. 15 DE FEBRERO DE 2015)
 
 ARTÍCULO 192
 
@@ -3631,25 +3687,21 @@ II. Haber obtenido cuando menos el tres por ciento de la votación válida en el
 
 2. Cubiertos estos requisitos y constatado el resultado de la elección, la asignación se sujetará al procedimiento siguiente:
 
-I. En los Municipios de Durango; Gómez Palacio y Lerdo, se asignará el sesenta por ciento de los regidores al partido que haya obtenido el triunfo de mayoría relativa. El resto de los regidores se asignará siguiendo el procedimiento siguiente:
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
 
-a). Del total de la votación válida se deducirá la votación obtenida por el partido ganador y la de los partidos que no obtuvieron el dos por ciento;
+I. Del total de la votación válida se deducirá la votación obtenida por aquellos partidos que no hayan alcanzado al menos el tres por ciento;
 
-b). La votación restante se dividirá entre las regidurías que falten de asignar, para obtener un factor común;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
 
-c). Se asignará a cada partido tantos regidores como veces se contenga el factor común en su votación; y
+II. La votación resultante se dividirá entre el total de regidurías a distribuir para obtener un factor común;
 
-d). En caso de que quedaren regidurías por distribuir, éstas se asignarán por el sistema de resto mayor en orden decreciente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 2015)</small>
 
-II. En el resto de los municipios se asignará la totalidad de los regidores de acuerdo con el procedimiento siguiente:
+III. Se asignará a cada partido tantos regidores como veces se contenga el factor común en su votación; y
 
-a). Del total de la votación válida se deducirá la votación obtenida por aquellos partidos que no hayan alcanzado al menos el dos por ciento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 2015)</small>
 
-b). La votación resultante se dividirá entre el total de regidurías a distribuir para obtener un factor común;
-
-c). Se asignará a cada partido tantos regidores como veces se contenga el factor común en su votación; y
-
-d). En caso de que quedasen regidurías por distribuir, éstas se asignarán por el sistema de resto mayor en orden decreciente.
+IV. En caso de que quedasen regidurías por distribuir, éstas se asignarán por el sistema de resto mayor en orden decreciente.
 
 ARTÍCULO 268
 
@@ -3787,9 +3839,13 @@ ARTÍCULO 280
 
 2. Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas que contiendan, la asignación de diputados de representación proporcional se realizará conforme a lo siguiente:
 
-I. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
 
-II. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación de la votación estatal emitida que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor a menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+I. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional; y
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
+
+II. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación de la votación estatal emitida que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor a menor subrepresentación.
 
 ARTÍCULO 281
 
@@ -3803,7 +3859,9 @@ III. De acuerdo con la votación estatal emitida, se asignarán los diputados el
 
 ARTÍCULO 282
 
-1. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido, salvo que se ubique en uno de los límites a los que se refiere esta Ley, caso en el cual, se hará el ajuste correspondiente en términos de lo dispuesto en esta Ley.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2015)</small>
+
+1. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido, salvo que se ubique en uno de los límites a los que se refiere esta Ley, caso en el cual, se hará el ajuste correspondiente en los términos previstos en la misma.
 
 ARTÍCULO 283
 
@@ -3815,7 +3873,9 @@ II. Ajuste para evitar subrepresentación; y
 
 III. Resto mayor.
 
-2. Por cociente natural se entiende el resultado de dividir la votación estatal emitida entre las diputaciones a distribuir, después de haber realizado la asignación mediante el método de porcentaje mínimo a que se refiere esta Ley.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2015)</small>
+
+2. Por cociente natural se entiende el resultado de dividir la votación estatal emitida entre las diputaciones a distribuir.
 
 3. Por ajuste para evitar la subrepresentación, se entiende el método que aplica la autoridad electoral, mediante el cual, ajusta el porcentaje de representación de un partido político, para que no sea menor al porcentaje de votación de la votación estatal emitida que hubiere recibido menos ocho puntos porcentuales. En todo caso, cuando proceda, la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, será de mayor a menor subrepresentación.
 
@@ -3981,9 +4041,17 @@ ARTÍCULO 292
 
 2. Quien pretenda registrarse como candidato independiente, además de los requisitos de elegibilidad correspondientes al cargo por el que desea postularse, deberá satisfacer los siguientes:
 
-I. No haber sido registrado como candidato a cargo alguno de elección popular por algún partido político, en los tres años inmediatos anteriores a la postulación, y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
 
-II. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los tres años inmediatos anteriores a la postulación.
+I. No haber sido registrado como candidato a cargo alguno de elección popular por algún partido político, en los tres años inmediatos anteriores a la postulación;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2015)</small>
+
+II. No haber desempeñado algún cargo de elección popular, con la calidad de propietario, suplente, provisional, interino o sustituto, en los tres años inmediatos anteriores a la postulación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 2015)</small>
+
+III. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los tres años inmediatos anteriores a la postulación.
 
 3. No podrá registrarse como candidato independiente, quien participe en un proceso de selección interno de un partido político, para designar candidatos a cargos de elección popular.
 
@@ -5171,7 +5239,9 @@ ARTÍCULO 395
 
 ARTÍCULO 396
 
-1. Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas a través de los medios de defensa que establezcan el Estatuto y los demás ordenamientos de carácter reglamentario; los interesados podrán optar por la impugnación directa de aquéllas ante el Tribunal Federal de Justicia Fiscal y Administrativa en los términos que fije la ley correspondiente.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2015)</small>
+
+1. Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas a través de los medios de defensa que establezcan el Estatuto y los demás ordenamientos de carácter reglamentario; los interesados podrán optar por la impugnación directa de aquéllas ante el Tribunal Electoral.
 
 ARTÍCULO 397
 
@@ -5256,3 +5326,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2015
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
