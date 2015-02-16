@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-12-22"
+last_updated: "2015-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -173,9 +173,9 @@ El varón y la mujer son iguales ante la ley. Esta protegerá la organización y
 
 Toda persona tiene derecho a decidir, de manera libre, responsable e informada, sobre el número y el espaciamiento de sus hijos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
-El Estado, en sus decisiones y actuaciones, velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los niños, niñas, adolescentes, adultos mayores y personas con discapacidad, tienen derecho a la satisfacción de sus necesidades de alimentación nutritiva, suficiente y de calidad, salud, educación y sano esparcimiento para su desarrollo integral, así como a la convivencia familiar.
+El Estado, en sus decisiones y actuaciones, velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los niños, niñas, adolescentes, adultos mayores y personas con discapacidad, tienen derecho a la satisfacción de sus necesidades de alimentación nutritiva, suficiente y de calidad, salud, educación y sano esparcimiento para su desarrollo integral, así como a la convivencia familiar. Asimismo garantizará a toda persona el derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. Las autoridades municipales exentarán de cobro el derecho por el registro de nacimiento y expedirán gratuitamente la primera copia certificada del acta de nacimiento.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -3702,3 +3702,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para efectos de dar cumplimiento a la reforma del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, aprobada por el Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 10 de febrero de 2014, respecto de que se verifique, al menos, una elección local en la misma fecha en que tenga lugar alguna de las elecciones federales, los integrantes de la LXIII Legislatura del Congreso del Estado, que resulten electos el primer domingo de junio del 2016, durarán por única vez en su encargo dos años, para que la próxima elección de Diputados Locales se verifique el día en que se lleve a cabo la elección federal de 2018.
 
 TERCERO. Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas y adiciones de la Constitución Política del Estado de Hidalgo.
+
+P.O. 16 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
