@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-establece-directrices-para-procurar-el-9043
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-12-05"
-last_updated: "2012-12-05"
+last_updated: "2015-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90435&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-11-21"
 
 ACUERDO GENERAL QUE ESTABLECE DIRECTRICES PARA PROCURAR EL DESEMPEÑO ÓPTIMO EN LAS ACTIVIDADES JURISDICCIONALES E INSTITUCIONALES DE LOS MAGISTRADOS Y MAGISTRADAS DE LAS SALAS REGIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 5 de diciembre de 2012.
 
@@ -43,7 +43,9 @@ PRIMERO. Que de conformidad con el artículo 99 de la Constitución Política de
 
 Así mismo conforme a lo dispuesto en el artículo 186 de la citada Ley Orgánica del Poder Judicial de la Federación, las Salas Regionales del Tribunal Electoral, al ser competentes para conocer y hacerse cargo en su esfera de las resoluciones en materia electoral, se encuentran comprometidas a desahogar con eficacia y eficiencia, principalmente, la actividad jurisdiccional a su cargo, lo cual hace evidente la limitación de sus servidores públicos de más alto rango, de participar en forma generalizada, en actividades de otra índole, cuya atención solo resulta posible como casos de excepción.
 
-SEGUNDO. Que de acuerdo a lo dispuesto por el artículo 185 de la Ley Orgánica del Poder Judicial de la Federación, el Tribunal Electoral funciona en forma permanente con una Sala Superior y con cinco Salas Regionales; sus resoluciones son de carácter permanente.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2015)</small>
+
+SEGUNDO. Que de acuerdo a lo dispuesto por el artículo 185 de la Ley Orgánica del Poder Judicial de la Federación, el Tribunal Electoral funciona en forma permanente con una Sala Superior y con Salas Regionales; sus resoluciones son de carácter permanente. [Modificado mediante Acuerdo 011/S1(20-I-2015)]
 
 TERCERO. Que conforme a los artículos 193 y 194 de la Ley Orgánica del Poder Judicial de la Federación, las Salas Regionales sesionan con la presencia de los tres Magistrados Electorales y sus resoluciones se adoptan por unanimidad o mayoría de votos. En caso de ausencia temporal existe la regulación conforme a la cual dicha ausencia puede ser cubierta por el Secretario General o en su caso por el Secretario de mayor antigüedad de la Sala respectiva; según acuerde el Presidente de la misma.
 
@@ -134,3 +136,17 @@ EL SUSCRITO, LICENCIADO CESAR SILVA-HERZOG URRUTIA, SECRETARIO DE LA COMISION DE
 CERTIFICA
 
 Que el presente documento en 11 fojas útiles, incluyendo la presente, corresponde al ACUERDO GENERAL QUE ESTABLECE DIRECTRICES PARA PROCURAR EL DESEMPEÑO OPTIMO EN LAS ACTIVIDADES JURISDICCIONALES E INSTITUCIONALES DE LOS MAGISTRADOS Y MAGISTRADAS DE LAS SALAS REGIONALES aprobado por la Comisión de Administración mediante acuerdo 395/S11(13-XI-2012), emitido en la Décima Primera Sesión Ordinaria de 2012, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE.- México, Distrito Federal, 21 de noviembre de 2012.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE FEBRERO DE 2015.
+
+TRANSITORIOS DE LA MODIFICACIÓN AL ACUERDO GENERAL, APROBADA POR LA COMISIÓN DE ADMINISTRACIÓN, MEDIANTE ACUERDO 011/S1(20-I-2015), EMITIDO EL 20 DE ENERO DE 2015.
+
+PRIMERO. Se derogan todas aquellas disposiciones que contravengan el presente Acuerdo.
+
+SEGUNDO. Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, en consecuencia, se instruye a la Coordinación de Asuntos Jurídicos para que realice los trámites conducentes.
+
+TERCERO. Para su mayor difusión, publíquense en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación. Adicionalmente, hágase del conocimiento a todas las áreas de este órgano jurisdiccional, a partir de su entrada en vigor.
+
+CUARTO. Todos los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor de las presentes modificaciones se seguirán rigiendo por las disposiciones vigentes en el momento del ingreso de la solicitud correspondiente.
