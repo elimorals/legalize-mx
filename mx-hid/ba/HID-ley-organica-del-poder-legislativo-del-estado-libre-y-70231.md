@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2014-11-24"
+last_updated: "2015-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -1183,7 +1183,9 @@ IV.- A los Ayuntamientos;
 
 V.- Al Procurador General de Justicia del Estado, en su ramo; y
 
-VI.- A los ciudadanos del Estado y personas morales domiciliadas en la Entidad, por conducto de los Ayuntamientos o de los Diputados de sus respectivos Distritos Electorales.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+VI.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores del Estado de Hidalgo, en los términos que señalen las leyes.
 
 ###### ARTÍCULO 125.
 
@@ -1203,9 +1205,45 @@ Toda Iniciativa de Ley o Decreto, presentada por el Gobernador del Estado o por 
 
 Las iniciativas presentadas por los Diputados, Ayuntamientos y Procurador General de Justicia, en los términos del Artículo 125 de esta Ley, después de su lectura ante el Pleno, pasarán a la Comisión respectiva para su Estudio y Dictamen.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 127 BIS.- Las iniciativas presentadas por los ciudadanos, tendrán que reunir los siguientes requisitos:
+
+a) Contener los nombres completos de los ciudadanos, clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres de la misma. En caso de advertirse error en la identificación del ciudadano, siempre y cuando este sea menor al 20% del total requerido, el Instituto Estatal Electoral, prevendrá a los promoventes, para que subsanen el error antes de que concluya del (sic) Periodo Ordinario de Sesiones, debiendo informar de ello al Presidente de la Directiva, de no hacerlo se tendrá por desistida la Iniciativa;
+
+b) Nombre completo y domicilio del representante para oír y recibir notificaciones; y
+
+c) Toda la documentación deberá estar plenamente identificada, señalando en la parte superior de cada hoja, el nombre del Proyecto de Decreto que se propone someter.
+
+Cuando la Iniciativa no cumpla con los requisitos señalados, el Presidente de la Directiva, prevendrá a los promoventes, para que subsanen los errores u omisiones, en un plazo de quince días hábiles a partir de la notificación. En caso de no subsanarse en el plazo establecido, se tendrá por no presentada.
+
 ###### ARTÍCULO 128.
 
 Cuando se presenten al Congreso del Estado, iniciativas o asuntos, cuyo contenido sea ya del conocimiento de alguna Comisión, se turnarán a ésta.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 128 BIS.- En el caso de las iniciativas ciudadanas, se atenderá el siguiente procedimiento:
+
+a) El Presidente de la Directiva, al recibir la Iniciativa ciudadana, antes de dar cuenta al Pleno, solicitará de inmediato al Instituto Estatal Electoral, la verificación de que haya sido suscrita en un número equivalente a cuando menos el cero punto trece por ciento de la lista nominal de electores, dentro de un plazo no mayor a treinta días naturales, contados a partir de la recepción de la misma;
+
+b) El Instituto Estatal Electoral, dentro del plazo a que se refiere el inciso anterior, verificará que los nombres de quienes haya suscrito la Iniciativa ciudadana, aparezcan en las listas nominales de electores y que la suma corresponda en un número equivalente a cuando menos el cero punto trece por ciento de la lista nominal de electores;
+
+Una vez que se alcance el requisito porcentual referido, el Instituto deberá realizar un ejercicio muestral, para corroborar la autenticidad de las firmas, de acuerdo a los criterios que defina al respecto;
+
+c) El Instituto Estatal Electoral, contará con un plazo no mayor a treinta días naturales, contados a partir de la recepción del expediente, para realizar la verificación a que se refiere el inciso anterior;
+
+d) En caso de que el Instituto Estatal Electoral, informe en forma definitiva, que no se cumple con el porcentaje requerido por la Constitución, el Presidente de la Directiva, dará cuenta de ello, al Pleno y procederá a su archivo, como asunto total y definitivamente concluido, notificando a los promoventes, por conducto de su representante;
+
+e) En caso de que el representante de los promoventes, impugne la resolución, el Presidente de la Directiva, suspenderá el trámite correspondiente, mientras el Tribunal Electoral, resuelve lo conducente;
+
+f) En el supuesto de que se verifique el cumplimiento del porcentaje señalado en el inciso a), el Presidente de la Directiva, turnará la Iniciativa a Comisión, para el procedimiento de discusión y aprobación.
+
+g) Durante el análisis en Comisión, el Presidente de la misma, deberá convocar al representante designado por los ciudadanos, para que asista a reunión de la Comisión y exponga el contenido de su propuesta, lo que se constituirá como elemento adicional para elaborar el Dictamen respectivo.
+
+h) El procedimiento de Dictamen, no se interrumpirá, en caso de que el representante no asista a la reunión de Comisión a la que haya sido formalmente convocado.
+
+i) El representante de los ciudadanos, podrá asistir a las reuniones de la Comisión, para conocer del desarrollo de los trabajos y podrá hacer uso de la voz, hasta antes de la aprobación del Dictamen en la Comisión.
 
 ###### ARTÍCULO 129.
 
@@ -2116,3 +2154,7 @@ P.O. 3 DE NOVIEMBRE DE 2014.
 P.O. 24 DE NOVIEMBRE DE 2014.
 
 Único. Envíese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE FEBRERO DE 2015.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
