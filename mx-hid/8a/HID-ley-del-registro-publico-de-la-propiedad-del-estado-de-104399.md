@@ -4,7 +4,7 @@ identifier: "HID-ley-del-registro-publico-de-la-propiedad-del-estado-de-104399"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2014-12-22"
+last_updated: "2015-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS POSTERIORES AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
 
 Ley publicada en el Alcance Dos del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -69,9 +67,11 @@ La presente Ley tiene por objeto establecer las disposiciones legales que regule
 
 El Registro Público de la Propiedad, por conducto de las Oficinas Registrales, es la institución encargada de permitir a las personas que lo soliciten que se enteren, en los términos que señale el Reglamento de la presente Ley, de los asientos que obren en los libros del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro Público, así como certificaciones de existir o no, asiento de ninguna especie o especie determinada sobre bienes señalados o a nombre de cierta persona, así mismo de cumplir con la función de publicitar la situación jurídica de los bienes y derechos en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 4.
 
-El Registro Público de la Propiedad del Estado de Hidalgo es un Órgano Desconcentrado de la Administración Pública, dependerá de la Secretaría de Gobierno y no contará con personalidad jurídica ni patrimonio propio; cuenta con autonomía financiera limitada e irreductible.
+El Registro Público de la Propiedad del Estado de Hidalgo es un Órgano Desconcentrado de la Secretaría de Gobierno, con autonomía técnica y financiera irreductible.
 
 ###### ARTÍCULO 5.
 
@@ -81,9 +81,11 @@ En general, el desempeño de las funciones de los Registradores y demás funcion
 
 Para los efectos de la presente Ley, todos los plazos y términos, salvo excepciones expresamente determinadas, se contarán en días hábiles y comenzarán a correr al día siguiente al de la publicación de la notificación en el Boletín Registral o desde aquel momento en que se extienda la constancia de recibo, cuando así lo requiera la autoridad administrativa o judicial.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 7.
 
-Para el exacto cumplimiento de las disposiciones que sobre la materia se contienen en la presente Ley, entre otros ordenamientos aplicables y atendiendo a la naturaleza de los bienes o actos a inscribirse, el Registro, llevará la función registral, integrando las secciones destinadas a:
+Para el exacto cumplimiento de las disposiciones que sobre la materia se contienen en la presente ley, el Registro, llevará la función registral basada en la técnica del Folio Único Real Electrónico, utilizando el acervo que integran las siguientes secciones para consulta.
 
 I. La Primera, al registro de bienes inmuebles y derechos reales;
 
@@ -93,7 +95,7 @@ III. La Tercera, al registro de personas morales;
 
 IV. La Cuarta, al registro de Planes de Desarrollo del Estado; y
 
-V. La Quinta, al registro de patentes, de Fedatarios Públicos y habilitaciones de Corredurías con ejercicio en el Estado de Hidalgo.
+V. La Quinta, al registro de patentes de Fedatarios Públicos y habilitaciones de Corredurías con ejercicio en el Estado de Hidalgo.
 
 ###### ARTÍCULO 8.
 
@@ -126,6 +128,10 @@ VI. Conversión. Traspaso del Sistema de Libros o Técnica de Folio Transacciona
 VII. Boletín. El Boletín Registral, el cual será electrónico y que publicará diariamente la situación de los documentos de los cuales haya denegado, suspendido o finalizado su tramitación en el Registro.
 
 VIII. Director. El titular del Registro Público de la Propiedad del Estado de Hidalgo.
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+VIII Bis. Dirección General. La Dirección del Registro Público de la Propiedad.
 
 IX. Documento. En sentido amplio comprende tanto los documentos con vocación registral, las solicitudes de publicidad y toda clase de correspondencia dirigida al Registro y a las Oficinas Registrales, tanto en formato físico como electrónico.
 
@@ -179,9 +185,11 @@ El principio de Consentimiento determina que los titulares de los derechos que c
 
 En virtud del principio de Prelación, la preferencia entre los derechos inscritos sobre una finca se establecerá por el estricto orden de la presentación del Título a las oficinas registrales conforme a la fecha, hora y número ordinal que le corresponda, el Sistema Informático llevará un control pormenorizado de las entradas y su orden de ingreso a la Oficina Registral, lo anterior será lo que determinará la prelación y el rango con independencia de la fecha de otorgamiento del documento.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 18.
 
-El principio de Calificación, exige que los documentos presentados a las Oficinas Registrales para su inscripción sean sometidos al examen o calificación del Registrador en cuanto a sus elementos de existencia y validez, por el que se determinará que los actos jurídicos contenidos en los mismos, se ajustan plenamente a la ley.
+El principio de Calificación exige que los documentos presentados a las Oficinas Registrales para su inscripción sean sometidos a la calificación extrínseca del Registrador, por la que se determinará que los actos jurídicos contenidos en los mismos se ajustan plenamente a la ley.
 
 ###### ARTÍCULO 19.
 
@@ -201,9 +209,11 @@ El principio de Tracto Sucesivo, consiste en que para practicar la inscripción 
 
 El Registro depende orgánicamente de la Secretaría de Gobierno que es el Órgano del Poder Ejecutivo al que, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Hidalgo, corresponde la planeación, organización, evaluación y control de las Oficinas del Registro.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 23.
 
-Para efectos de operación, el Registro en el Estado, se podrán crear o suprimir las Unidades Administrativas que requiera el servicio del Registro, de conformidad con la normatividad aplicable. El Reglamento del Registro determinará su organización, los procedimientos, sistemas y métodos de su funcionamiento, así como los requisitos necesarios para desempeñar los cargos que requiera, que no estén expresamente previstos en la presente Ley.
+Para efectos de operación, el Registro en el Estado representado por su titular, podrá crear o suprimir las Unidades Administrativas que requiera el servicio del Registro, de conformidad con la normatividad aplicable. El Reglamento determinará su organización, los procedimientos, sistemas y métodos de su funcionamiento, así como los requisitos necesarios para desempeñar los cargos que requiera, que no estén expresamente previstos en la presente ley.
 
 ### CAPITULO CUARTO. De los Registradores
 
@@ -335,9 +345,11 @@ Las imágenes digitalizadas de los libros físicos contenidas en la base de dato
 
 La guarda y conservación de la documentación registral y de los asientos y constancias en cualquier soporte, estará a cargo del Director del Registro y del Subdirector de Administración del Archivo Histórico Registral, quienes establecerán el sistema de preservación, guarda, custodia y seguridad del acervo registral, procurando para ello el empleo de las prácticas más actualizadas en la materia. No se extraerán de la oficina del Registro los documentos, índices, libros o archivos de que habla esta Ley, salvo por causas excepcionales autorizadas por el Director del Registro. El archivo del Registro contará con las medidas de adecuación necesarias para garantizar la conservación del acervo registral, los libros y las constancias registrales en cualquier soporte, así como para evitar su indebida manipulación o alteración de cualquier tipo.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 50.
 
-Con respecto a todas las inscripciones o anotaciones que consten en el acervo físico o en el archivo electrónico de los Libros transaccionales digitalizados, el Registro podrá expedir excepcionalmente y por razones fundadas, copias simples, sin que las mismas gocen de todos los efectos de que gozan las relativas a inmuebles inmatriculados. También podrán expedirse copias certificadas de los asientos que la parte cite en su solicitud y eventualmente, de la información que con la debida diligencia pudiera identificarse y ubicarse en virtud de las deficiencias de dicha técnica, todo de acuerdo a la forma y requisitos que se determinen en el Reglamento. Al expedirlas, se citará el presente Artículo.
+Con respecto a todas las inscripciones o anotaciones que consten en el acervo físico o en el archivo electrónico de los Libros transaccionales digitalizados, el Registro deberá expedir copias certificadas de los asientos que el interesado cite en su solicitud y, eventualmente, de la información que con la debida diligencia pudiera identificarse y ubicarse en virtud de las deficiencias de dicha técnica, todo de acuerdo a la forma y requisitos que se determinen en el Reglamento. Al expedirlas, se citará el presente artículo.
 
 ###### ARTÍCULO 51.
 
@@ -437,9 +449,11 @@ La resolución correspondiente, se notificará al interesado o persona autorizad
 
 Las notificaciones contenidas en el Boletín Registral deberán expresar el número de entrada, fecha, estado que guarda el trámite, en su caso observaciones, así como las demás que determine el Director como necesarias.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 72.
 
-Sin perjuicio de la calificación registral, la prelación se determinará por la fecha, hora y número de entrada que se registrará en el Sistema Informático para el documento respectivo, salvo lo dispuesto por la fracción V del Articulo 123 de la presente Ley.
+Sin perjuicio de la calificación registral, la prelación se determinará por la fecha, hora y número de entrada que se registrará en el Sistema Informático para el documento respectivo, salvo lo dispuesto por la fracción V del Articulo 113 de la presente ley.
 
 ###### ARTÍCULO 73.
 
@@ -533,13 +547,21 @@ El Registrador hará la anotación o inscripción haciendo constar que fue en ra
 
 Los documentos presentados a registro deberán, de manera enunciativa y no limitativa, reunir los requisitos siguientes:
 
-I. Estar formalizados en escritura pública, acta notarial, documento judicial o administrativo, según corresponda, o provenir de árbitros, cuando las leyes así lo dispongan;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-II. Cumplir las formalidades establecidas por las Leyes y estar autorizados sus originales por quien esté facultado para hacerlo;
+I. Estar formalizados en escritura pública, acta notarial, póliza, Acta de corredor público, documento judicial o administrativo, según corresponda, o provenir de árbitros, cuando las leyes así lo dispongan;
 
-III. Contener orden expresa de la autoridad correspondiente; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-IV. Los demás que establezca (sic) las Leyes y Reglamentos.
+II. Cumplir las formalidades establecidas por las leyes y estar autorizados sus originales por quien esté facultado para hacerlo;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+III. Cumplir las formalidades establecidas por las leyes y estar autorizados sus originales por quien esté facultado para hacerlo; (sic)
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+IV. Los demás que establezca (sic) las leyes y reglamentos.
 
 ###### ARTÍCULO 79.
 
@@ -595,9 +617,11 @@ El costo que se cause con motivo del servicio del Registro, así como sus Oficin
 
 ### CAPÍTULO TERCERO. De los Actos Inscribibles en el Registro Público de la Propiedad Inmueble
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 87.
 
-Los derechos, actos, contratos y resoluciones que pueden inscribirse o anotarse serán los que determinen la adquisición, constitución, traslado, reconocimiento, transmisión, declaración, modificación, gravamen, cesión o extinción de cualquier derecho real sobre un inmueble y excepcionalmente aquellos expresamente determinados por la Ley, sobre derechos personales que recaigan sobre inmuebles, así como los que dispongan medidas cautelares y demás medidas judiciales sobre dichos bienes y aquellos cuyo registro esté ordenado por disposición legal.
+Los derechos, actos, contratos y resoluciones que pueden inscribirse o anotarse serán: los que determinen la adquisición, constitución, traslado, reconocimiento, transmisión, declaración, modificación, gravamen, cesión o extinción de cualquier derecho real sobre un inmueble y, excepcionalmente, aquellos expresamente determinados por la ley, sobre derechos personales que recaigan sobre inmuebles, así como los que dispongan medidas cautelares y demás medidas judiciales y administrativas sobre dichos bienes y aquellos cuyo registro esté ordenado por disposición legal.
 
 ### CAPÍTULO CUARTO. De la Primera Inscripción
 
@@ -681,9 +705,11 @@ Cuando el Registrador determine una calificación suspensoria por haberse observ
 
 Si el defecto fuera subsanado dentro de los plazos antes señalados, se procederá al registro definitivo, y se retrotraerán los efectos a la fecha de presentación del documento, sin perjuicio de lo dispuesto en la presente Ley en relación a los avisos preventivos con reserva de prioridad.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 105.
 
-Una vez transcurrido el plazo para subsanar la falta, y la misma no se haya subsanado, se procederá a calificar el documento como denegado y se pondrá disposición del interesado. Para la inscripción de los documentos subsanados, el plazo para su tramitación se comenzará a contar desde que se aporte la documentación necesaria para subsanar.
+Una vez transcurrido el plazo para subsanar la falta y la misma no se haya subsanado se procederá a calificar el documento como denegado y se pondrá a disposición del interesado. Para la inscripción de los documentos subsanados el plazo para su tramitación se comenzará a contar desde que se aporte la documentación necesaria para subsanar.
 
 ###### ARTÍCULO 106.
 
@@ -691,9 +717,11 @@ Podrá procederse a la inscripción parcial del documento, a petición de parte,
 
 ### CAPÍTULO SÉPTIMO. Del Tracto Sucesivo
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 107.
 
-Conforme al principio de tracto sucesivo, inscrito un título de propiedad en favor de una persona, no se podrá inscribir ningún otro sobre el mismo predio a favor de persona distinta, entre tanto no se decrete por la autoridad competente la nulidad de la inscripción. Cuando existan dos o más inscripciones sobre un mismo predio, será la autoridad competente la que resuelva sobre la que debe prevalecer.
+Conforme al principio de tracto sucesivo, inscrito un título de propiedad en favor de una persona, no se podrá inscribir ningún otro sobre el mismo predio a favor de persona distinta, entre tanto no se decrete por la autoridad competente de conformidad a lo que establezca el reglamento de la presente ley. Cuando existan dos o más inscripciones sobre un mismo predio, será la autoridad competente la que resuelva sobre la que debe prevalecer.
 
 ###### ARTÍCULO 108.
 
@@ -713,21 +741,23 @@ Las escrituras de partición y adjudicación no se inscribirán, sin que estén 
 
 La anotación es el acto por el cual se asienta cualquiera circunstancia que afecte a las inscripciones ya registradas y se hará expresando en ella la fecha en que se hace, su naturaleza o motivo y los datos de referencia, así como la firma electrónica del Registrador.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 112.
 
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario, Corredor Público o autoridad ante quien se haga el otorgamiento, podrá a su criterio, o deberá, a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitar certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho a la libertad de los mismos.
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario, corredor público o autoridad ante quien se haga el otorgamiento, podrá a su criterio, o deberá, a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitar certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho a la libertad de los mismos.
 
-Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. El registrador con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
+Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral, sin cobro de derechos, el registrador hará la anotación del primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
 
-Una vez que se haya otorgado la escritura que produzca cualquiera de las consecuencias a que se hace mención en el párrafo anterior, el notario o autoridad ante quien se suscribió dará al registro dentro de un término de cuarenta y ocho horas un segundo aviso preventivo sobre la operación de que se trata, conteniendo además de los datos mencionados en el párrafo que procede, la fecha de la escritura y la de su firma.
+Una vez que se haya otorgado la escritura que produzca cualquiera de las consecuencias a que se hace mención en el párrafo anterior, el fedatario o autoridad ante quien se suscribió dará al registro, dentro de un término de cuarenta y ocho horas, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo que precede, la fecha de la escritura y la de su firma.
 
-El registrador con el aviso en cuestión y sin cobro de derechos, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá una vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo de referencia se dé dentro del término de treinta días aludidos en el anterior párrafo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diera después de este plazo sólo surtirá efectos desde la fecha y hora de su presentación.
+El registrador con el aviso en cuestión y sin cobro de derechos, hará de inmediato la anotación de tal aviso preventivo que tendrá una vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo de referencia se dé dentro del término de treinta días aludidos en el anterior párrafo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diera después de este plazo sólo surtirá efectos desde la fecha y hora de su presentación.
 
 Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este Artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el Notario, Corredor Público o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios o Corredores Públicos en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el Notario, Corredor Público o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios o Corredores Públicos en el caso de los instrumentos públicos. Si el contrato se ratifica ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
 
-La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
+La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los produjo, siempre y cuando los datos que contenga la solicitud sean correctos y según lo disponga el Reglamento de esta Ley.
 
 ###### ARTÍCULO 113.
 
@@ -825,9 +855,11 @@ VIII. Las demás circunstancias relativas al incidente respectivo, cuando así l
 
 La cancelación de una inscripción o anotación preventiva, se hará mediante un nuevo asiento debidamente relacionado en el folio Único Real electrónico y expresará los datos de la inscripción o anotación que se cancela, las causas por las que se ha extinguido o transmitido el derecho inscrito o anotado en todo o en parte, según corresponda, y la cantidad específica o el derecho, en su caso.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 124.
 
-Las anotaciones preventivas, tales como embargos, fianzas, anotaciones preventivas de demanda cualquiera que sea su origen caducarán a los tres años de su fecha, No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
+Las anotaciones preventivas, tales como embargos, fianzas, anotaciones preventivas de demanda, cualquiera que sea su origen, caducarán a los tres años de su fecha, si así lo resuelve la autoridad que lo ordenó. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
 
 ###### ARTÍCULO 125.
 
@@ -1049,9 +1081,11 @@ El Registro no convalida ni subsana los derechos, actos, contratos, diligencias 
 
 ### CAPÍTULO PRIMERO. Del Registro Público de Bienes Inmuebles y Derechos Reales
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 161.
 
-En la Sección Primera del Registro se inscribirán los bienes inmuebles y derechos reales sobre los mismos, así como aquellos derechos personales que las leyes establezcan. Se inscribirán igualmente en esta Sección los títulos que, por medio de los cuales la Federación, el Estado o los Municipios a través de sus representantes, adquieran en propiedad bienes inmuebles por cualquiera de los medios legales.
+En el Folio Único Real Electrónico se inscribirán los bienes inmuebles y derechos reales sobre los mismos, así como aquellos derechos personales que las leyes establezcan. Se inscribirán igualmente en este Folio los títulos que, por medio de los cuales la Federación, el Estado o los Municipios a través de sus representantes, adquieran en propiedad bienes inmuebles por cualquiera de los medios legales.
 
 ### CAPITULO SEGUNDO. Del Registro Público de Personas Morales Civiles
 
@@ -1067,11 +1101,15 @@ El Registro Público de Personas Morales Civiles tiene a su cargo todo lo relati
 
 Si existen supuestos que determinen que una Persona Moral Civil que se encontraba registrada en otro Estado, ha decidido cambiar su domicilio al Estado de Hidalgo, se abrirá el folio personal electrónico correspondiente a partir de dicho cambio de domicilio, para lo cual deberá contar el documento con la totalidad de los datos que permitan la identificación de la persona moral civil y los datos de donde se encuentra o encontraba inscrita, así como el resto de los datos vigentes relativos a la persona moral civil en cuanto al capital, administración, representación y demás datos que permitan dar una eficiente publicidad y continuar registrando operaciones sobre dicha persona moral civil. Para tal fin se acompañarán documentos que cumplan con todos los requisitos legales pertinentes, que permitan además, que los datos consignados incluyan el cambio de domicilio al acto constitutivo, acompañándose, del Certificado de Libertad de Gravámenes y demás certificaciones emanadas del registro donde se encontraba inscrita con anterioridad.
 
-### CAPÍTULO TERCERO. Del Registro Público de Planes de Desarrollo del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO TERCERO. Del Registro de Planes de Desarrollo del Estado y Municipios
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 165.
 
-En la Sección para el registro de Planes de Desarrollo del Estado se inscribirán:
+Para el registro de Planes de Desarrollo se inscribirán:
 
 I. Los Planes de Desarrollo Urbano que prevé la Ley de la materia;
 
@@ -1079,7 +1117,7 @@ II. Las resoluciones administrativas que se dicten en apoyo a los propios Planes
 
 III. Las declaratorias de provisiones, reservas, usos y destinos; y
 
-IV. Los demás actos previstos por la Legislación de la materia.
+IV. Los demás actos previstos por la legislación de la materia.
 
 ###### ARTÍCULO 166.
 
@@ -1111,11 +1149,11 @@ Las inscripciones relativas a Planes Municipales de Desarrollo Urbano, sus cance
 
 ### CAPÍTULO CUARTO. Del Registro Público de Fedatarios Públicos con ejercicio en el Estado de Hidalgo
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 173.
 
-En esta sección se llevarán constancia de la patente y/o habilitación, licencias, inhabilitaciones y sus respectivas cancelaciones, sello, firma, rúbrica y todo lo relativo a los Notarios y Corredores Públicos del Estado de Hidalgo, previo pago de los servicios correspondientes.
-
-Los Notarios Públicos lo harán ante la Dirección General del Registro y en la Oficina Registral que le corresponda a su adscripción.
+Se llevará constancia de las patentes o habilitaciones, licencias, inhabilitaciones y sus respectivas cancelaciones, sello, firma, rúbrica y todo lo relativo a los notarios y corredores públicos del Estado de Hidalgo, previo pago de los servicios correspondientes y los notarios públicos lo harán ante la Dirección General del Registro y en la Oficina Registral que le corresponda a su adscripción.
 
 ## TÍTULO SÉPTIMO. DE LAS ACTUACIONES Y RESOLUCIONES ADMINISTRATIVAS Y SUS NOTIFICACIONES
 
@@ -1203,9 +1241,11 @@ El Titular del Registro, será quien resolverá el recurso, pudiendo delegar dic
 
 En caso de que el recurso se interponga ante el Titular del Registro, pedirá un informe sobre el particular al Registrador que dictó el acuerdo impugnado, quien deberá dar contestación a tal requerimiento en un plazo no mayor a los cinco días hábiles a partir del día siguiente en el que se le requiera el informe. El Titular del Registro, en un plazo que no excederá de diez días hábiles contados a partir del día siguiente en que se ingrese el escrito de interposición del recurso, resolverá lo que en derecho proceda.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 192.
 
-Si la resolución del Director confirma el acuerdo recurrido, se notificará al recurrente mediante publicación en el Boletín Registral, dejando a su disposición los documentos exhibidos y a salvo sus derechos para hacerlos valer en la vía y forma que prevenga la Ley. En la resolución se ordenará la cancelación de la anotación preventiva que refiere el Artículo 199 siempre y cuando se haya solicitado.
+Si la resolución del Director confirma el acuerdo recurrido, se notificará al recurrente mediante publicación en el Boletín Registral, dejando a su disposición los documentos exhibidos y a salvo sus derechos para hacerlos valer en la vía y forma que prevenga la Ley. En la resolución se ordenará la cancelación de la anotación preventiva que refiere el artículo 189 siempre y cuando se haya solicitado.
 
 ###### ARTÍCULO 193.
 
@@ -1215,9 +1255,11 @@ Si la resolución del Titular del Registro revoca el acuerdo recurrido, se orden
 
 ### CAPÍTULO PRIMERO. Normas Generales
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 194.
 
-En el ejercicio de sus cargos, los servidores públicos del Registro quedan sometidos a la legislación sobre responsabilidades de los servidores públicos del Estado, pero además de las causales de responsabilidad que disponga dicha legislación, en el caso de los titulares de la Dirección, Subdirecciones, Registradores y demás personal, los mismos incurrirán en responsabilidad administrativa y civil, en los siguientes casos:
+En el ejercicio de sus cargos, los servidores públicos del Registro quedan sometidos a la legislación sobre responsabilidades de los servidores públicos del Estado, en los siguientes casos:
 
 I. No emita una resolución dentro del término fijado en la ley;
 
@@ -1231,21 +1273,17 @@ V. Se oponga, dificulte, entorpezca o impida el cumplimiento de una orden judici
 
 VI. Se niegue, sin causa justificada, a entregar las copias certificadas de los registros o archivos documentales físicos públicos del Registro, bajo su resguardo, o cause demoras innecesarias al solicitante;
 
-VII. Se niegue, sin causa justificada, a facilitar la consulta de los registros o archivos documentales públicos del Registro, sean estos físicos o electrónicos, o de preferencia a unos solicitantes sobre otros que le precedieron en la solicitud de atención;
+VII. Se niegue, sin causa justificada, a facilitar la consulta de los registros o archivos documentales públicos del Registro, sean estos físicos o electrónicos, o dé preferencia a unos solicitantes sobre otros que le precedieron en la solicitud de atención;
 
 VIII. No supervise adecuadamente la consulta de registros o archivos documentales físicos o permita el extravío de documentación bajo su custodia; y
 
 IX. Reciba documentos fuera del horario de servicio del Registro o no dé cuenta de los mismos en forma inmediata.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 195.
 
-Por incurrir en las causales de responsabilidad, señaladas en el artículo anterior, el servidor público será sancionado de la siguiente manera:
-
-I. Por cada infracción se le impondrá una multa desde ochenta hasta cuatro cientos días del salario mínimo vigente en la región y suspensión de su cargo, sin goce de sueldo, de hasta tres meses, al servidor público que incurra en los supuestos contemplados en las fracciones III, IV, V, VI y VIII del Artículo anterior;
-
-II. Por cada infracción se le impondrá una multa desde quince hasta ochenta días del salario mínimo vigente en la región y suspensión de su cargo, sin goce de sueldo, de hasta quince días, al servidor público que incurra en los supuestos contemplados en las fracciones I, II, VII, IX y X del Artículo anterior; y
-
-III. Otros incumplimientos, violaciones o infracciones de las disposiciones de esta Ley, cometidos por servidores públicos del Registro serán sancionados con apercibimiento, multa de hasta por tres cientos días del salario mínimo vigente en la región, suspensión o remoción del cargo.
+Por incurrir en las causales de responsabilidad, señaladas en el artículo anterior, el servidor público será sancionado por la autoridad competente de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### ARTÍCULO 196.
 
@@ -1255,9 +1293,11 @@ Además, en todo caso, el servidor público que hubiere incurrido en responsabil
 
 En todos los casos de reincidencia, las multas serán triplicadas y si el servidor incurre en la misma conducta infractora por tercera ocasión será removido de su cargo. Para los efectos de este dispositivo, si pasaren cinco años sin que el servidor público sancionado incurra en alguna causal de responsabilidad, se considerará que carece de antecedentes, para los efectos de calificar sus conductas infractoras como reincidentes.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 198.
 
-En todo caso, para la imposición de las sanciones, las autoridades facultadas para imponerlas, deberán determinar la severidad de la misma tomando en cuenta la gravedad de la infracción, la capacidad económica del infractor, la reincidencia y si la infracción se cometió dolosa o culposamente.
+En todo caso, para la imposición de las sanciones, las autoridades facultadas para imponerlas, estarán a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### ARTÍCULO 199.
 
@@ -1267,55 +1307,29 @@ Cualquier persona que se considere afectada en su trámite ante el Registro u Of
 
 El Titular del Registro llevará una relación o archivo público de la imposición de sanciones a los servidores públicos del Registro.
 
-### CAPÍTULO SEGUNDO. Infracciones y Sanciones
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO SEGUNDO
 
 ###### ARTÍCULO 201.
 
-Se considera infracción, cometida por particulares o fedatarios públicos, a la presente Ley:
-
-I. Manifestar o consignar datos falsos en los documentos que se presenten a la autoridad. La inexactitud negligente, no constituye falsedad, para los efectos de esta provisión;
-
-II. No presentar, oportunamente y en la forma necesaria o solicitada, la información requerida por la legislación, la normatividad o la autoridad, ante la autoridad competente, en los términos de esta Ley;
-
-III. No permitir a las autoridades verificar las circunstancias, de hecho o de derecho, que requieren, para cumplir con sus atribuciones;
-
-IV. Oponerse, dificultar, entorpecer o impedir el cumplimiento de un mandamiento de la autoridad, salvo que lo haga utilizando los medios legales a su alcance;
-
-V. Negarse a entregar la información, requerida por la autoridad con motivación y fundamentación legal suficiente y adecuada, siempre que la misma se encuentre a su disposición; y
-
-VI. Alterar, impedir o perturbar:
-
-a. El contenido informativo de las bases de datos electrónicas de las autoridades o del Registro;
-
-b. La transmisión de datos desde o para con las autoridades o el Registro;
-
-c. La comunicación electrónica de las autoridades o del Registro; y
-
-d. Los sistemas electrónicos de las autoridades o del Registro.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 202.
 
-Por la comisión de las infracciones señaladas, habrá lugar a la imposición de las siguientes sanciones, independientemente de las demás responsabilidades civiles, penales o administrativas que pudieren generarse:
-
-I. Por los supuestos considerados en las fracciones I, II y V del Artículo anterior, multa desde quince hasta doscientos cincuenta días del salario mínimo vigente en la región, o la obligación de prestar trabajos gratuitos, a favor de la comunidad, según el listado de trabajos o servicios públicos pendientes de realizar, a cargo del Estado;
-
-II. Por el supuesto considerado en la fracción III del Artículo anterior, multa desde los ciento cincuenta hasta doscientos cincuenta días de salario mínimo vigente en la región, o la obligación de prestar trabajos gratuitos, a favor de la comunidad, según el listado de trabajos o servicios públicos pendientes de realizar, a cargo del Estado. Si la persona opone resistencia física o amenaza con el uso de violencia, además se le dictará una orden de arresto hasta por un término de treinta y seis horas, ordenándose su detención inmediata, solicitando para ello el apoyo de la fuerza pública;
-
-III. Por el supuesto considerado en, la fracción IV del Artículo anterior, multa desde ciento cincuenta hasta ocho mil días de salario mínimo vigente en la región, o la obligación de prestar trabajos gratuitos, a favor de la comunidad, según el listado de trabajos o servicios públicos pendientes de realizar, a cargo del Estado. Si la persona opone resistencia física o amenaza con el uso de violencia, además se le dictará una orden de arresto hasta por un término de treinta y seis horas, ordenándose su detención inmediata, solicitando para ello el apoyo de la fuerza pública; y
-
-IV. Por el supuesto considerado en la fracción VI del Artículo anterior, multa desde ocho mil hasta ochenta mil días de salario mínimo vigente en la región, o la obligación de prestar trabajos forzosos y gratuitos, a favor de la comunidad, según el listado de trabajos o servicios públicos pendientes de realizar, a cargo del Estado.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 203.
 
-La interposición de incidentes y recursos o la promoción de medios de defensa y el ejercicio de cualquier derecho procedimental o procesal, nunca podrá considerarse como un acto que constituya infracción a la presente Ley.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 204.
 
-En todos los casos la Dirección Jurídica dará vista al Ministerio Público, para los efectos penales a que hubiere lugar. En los casos de reincidencia, las multas serán triplicadas.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 205.
 
-En todo caso, para la imposición de las sanciones, será competente el Titular del Registro, quién deberá, a fin de determinar la severidad de la misma, tomar en cuenta la gravedad de la infracción, la capacidad económica del infractor, la reincidencia y si la infracción se cometió dolosa o culposamente.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 T R A N S I T O R I O S
 
@@ -1342,3 +1356,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DIECINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CATORCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ. RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
