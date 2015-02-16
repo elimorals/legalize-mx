@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2014-07-08"
+last_updated: "2015-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -643,9 +643,9 @@ XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior T
 
 XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que previenen los arts. 89, 90 y 91 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-XXII.- Elegir al Consejero de la Judicatura del Estado a que se refiere el artículo 94, párrafo noveno, de esta Constitución y conocer, para su aprobación, de la propuesta que sobre los cargos de: Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa y Presidente de la Comisión Estatal de Derechos Humanos, le presente el Titular del Poder Ejecutivo.
+XXII.- Elegir al Consejero de la Judicatura del Estado a que se refiere el artículo 94, párrafo noveno, de esta Constitución y conocer, para su aprobación, de la propuesta que sobre los cargos de: Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa y Presidente de la Comisión Estatal de Derechos Humanos, le presente el Titular del Poder Ejecutivo; así como nombrar a los comisionados del organismo garante que establece el artículo 6 de esta Constitución, en los términos establecidos por las disposiciones previstas en la ley;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -779,17 +779,21 @@ L.- Expedir Leyes en materia de revisión y fiscalización de la Cuenta Pública
 
 El Congreso del Estado establecerá los lineamientos para la operación de contralorías sociales como auxiliares del Congreso y de la Auditoría Superior del Estado, facilitando la participación de la ciudadanía en la denuncia, fiscalización y la evaluación del uso de los recursos públicos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2009)</small>
+LI.- Dictar los lineamientos generales de las instalaciones técnicas para la evaluación del uso de recursos, estatales y municipales aplicables a todos los sujetos de fiscalización por parte del Congreso del Estado. Estas funciones de evaluación serán ejercidas por la Auditoría Superior del Estado, sin perjuicio de que los sujetos de fiscalización establezcan sus propias instancias de evaluación;
 
-LI.- Dictar los lineamientos generales de las instancias técnicas para la evaluación del uso de recursos, estatales y municipales aplicables a todos los sujetos de fiscalización por parte del Congreso del Estado. Estas funciones de evaluación serán ejercidas por la Auditoría Superior del Estado, sin perjuicio de que los sujetos de fiscalización establezcan sus propias Instancias de evaluación; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+LII.- Expedir las leyes reglamentarias que desarrollen los principios y bases en materia de transparencia gubernamental, acceso a la información y protección de datos personales en posesión de las autoridades, entidades, órganos y organismos gubernamentales de todos los niveles de gobierno;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-LII.- Ejercer las demás facultades que le otorguen esta Constitución y las Leyes.
+LIII.- Expedir la ley que establezca la organización y administración homogénea de los archivos de los órdenes estatal y municipal; y
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+LIV.- Ejercer las demás facultades que le otorguen esta Constitución y las Leyes.
 
 ###### Art. 64.
 
@@ -2279,21 +2283,55 @@ La manifestación de las ideas no será objeto de ninguna inquisición judicial 
 
 El ejercicio del derecho de acceso a la información, se regirá bajo los siguientes principios y bases:
 
-I.- Toda la información en posesión de cualquier autoridad, dependencia, unidades administrativas, entidad, órgano y organismo estatal y municipal es pública, y sólo podrá ser reservada temporalmente por razones de interés público, en los términos que fije la Ley. Para la interpretación de este derecho, prevalecerá el principio de máxima publicidad;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+I.- Toda la información en posesión de cualquier autoridad, dependencia, unidades administrativas, entidad, órgano u organismo municipal o de los Poderes Ejecutivo, Legislativo, Judicial o del ámbito municipal, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública, y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las Leyes. Para la interpretación de este derecho, prevalecerá el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuáles procederá la declaración de inexistencia de la información;
 
 II.- El ejercicio de este derecho podrá realizarse por escrito, en forma electrónica o verbal, conforme a los medios y modalidades que determine la Ley.
 
-Así mismo, se establecerán mecanismos expeditos de acceso a la información;
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+Se establecerán mecanismos de acceso a la información y procedimientos de inconformidad expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución;
 
 III.- La información relativa a la vida privada y datos personales será protegida en los términos y con las excepciones que determine la Ley;
 
 IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos, en los términos que determine la legislación aplicable;
 
-V.- Un órgano autónomo especializado, con personalidad jurídica y patrimonio propio, conformado por ciudadanos designados por el Poder Legislativo, con las atribuciones, integración y organización que la Ley reglamentaria establezca, será encargado de conocer y resolver de manera imparcial y expedita conforme a los procedimientos de revisión que la misma Ley regule, las controversias que se susciten con motivo del ejercicio de este derecho;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-VI.- Los sujetos obligados, a los que se refiere la fracción I de este Artículo, deberán preservar sus documentos en archivos administrativos actualizados;
+V.- Un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, conformado por ciudadanos designados por el Poder Legislativo, con plena autonomía técnica, de gestión, de capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
 
-VII.- Se establecerán mecanismos eficientes, de universal y fácil acceso, para que los sujetos obligados difundan como mínimo la información completa y actualizada de sus indicadores de gestión y el ejercicio de los recursos públicos, incluso los que entreguen a personas físicas o morales, así como la cultura de la transparencia y el acceso a la información; y
+El organismo autónomo previsto en esta fracción se regirá por la ley en materia de transparencia y acceso a la información pública y protección de datos personales en posesión de sujetos obligados, en los términos que establezca la ley que emita el Congreso del Estado para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+
+En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, dependencia, unidades administrativas, entidad, órgano u organismo municipal o que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal o municipal.
+
+El organismo garante local podrá remitir los procedimientos de inconformidad que por su interés y trascendencia así lo ameriten, al organismo garante federal, para que conozca de los mismos.
+
+La ley establecerá aquella información que se considere reservada o confidencial.
+
+Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+En la conformación del organismo garante se procurará la equidad de género.
+
+El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un período de dos años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante el Congreso del Estado, en los términos que disponga la ley.
+
+El organismo garante tendrá un Consejo Consultivo, integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas por el propio Congreso. Anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+
+La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
+
+El organismo garante coordinará sus acciones con la entidad de fiscalización superior del estado, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, con el objeto de fortalecer la rendición de cuentas del Estado Mexicano;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+VI.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+VII.- Se establecerán mecanismos eficientes, de universal y fácil acceso, para que los sujetos obligados publiquen a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos; así como la cultura de la transparencia y el acceso a la información; y
 
 VIII.- La inobservancia a las disposiciones en materia de transparencia y acceso a la información será sancionada en los términos que disponga la Ley.
 
@@ -3616,3 +3654,7 @@ P.O. 8 DE JULIO DE 2014.
 Primero.- El presente Decreto entrará en vigor en la misma fecha en que lo hagan las modificaciones a la legislación electoral del Estado a que se refiere el Transitorio Segundo siguiente.
 
 Segundo.- Para adecuar el marco jurídico conforme a las disposiciones del presente Decreto, la Legislatura del Estado deberá realizar las modificaciones correspondientes a la Ley Electoral a más tardar el 08 de julio de 2014.
+
+P.O. 16 DE FEBRERO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
