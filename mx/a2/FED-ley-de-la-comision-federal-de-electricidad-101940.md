@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-federal-de-electricidad-101940"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2014-08-11"
+last_updated: "2015-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101940&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-08-11"
 
 LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO POR EL QUE SE EMITE LA DECLARATORIA A QUE SE REFIERE EL DÉCIMO CUARTO TRANSITORIO DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2015, LA SECRETARÍA DE ENERGÍA DECLARA QUE SE ENCUENTRA EN FUNCIONES EL NUEVO CONSEJO DE ADMINISTRACIÓN DE LA COMISIÓN FEDERAL DE ELECTRICIDAD Y ESTÁN EN OPERACIÓN LOS MECANISMOS DE FISCALIZACIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS QUE PREVÉ LA CITADA LEY.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2015.
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -1582,3 +1584,35 @@ Tercero. La reforma al artículo 3o. de la Ley Federal de las Entidades Paraesta
 México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE FEBRERO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+ACUERDO POR EL QUE SE EMITE LA DECLARATORIA A QUE SE REFIERE EL DÉCIMO CUARTO TRANSITORIO DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD.
+
+CONSIDERANDO
+
+Que de conformidad con el artículo 25, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos, el sector público tendrá a su cargo, de manera exclusiva, las áreas estratégicas que se señalan en el artículo 28, párrafo cuarto de la propia Constitución, manteniendo siempre el Gobierno Federal la propiedad y el control sobre los organismos y empresas productivas del Estado que en su caso se establezcan;
+
+Que el Transitorio Tercero del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado el 20 de diciembre de 2013 en el Diario Oficial de la Federación, dispone que la ley establecerá la forma y plazos, los cuales no podrán exceder dos años a partir de la publicación de dicho Decreto, para que los organismos descentralizados denominados Petróleos Mexicanos y Comisión Federal de Electricidad se conviertan en empresas productivas del Estado;
+
+Que con fecha 11 de agosto de 2014, se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de la Comisión Federal de Electricidad, la cual dispone que a partir de su entrada en vigor, la Comisión Federal de Electricidad se transforma por ministerio de ley en una empresa productiva del Estado;
+
+Que la citada ley establece, en su Décimo Cuarto Transitorio, que el régimen especial previsto en la misma para la Comisión Federal de Electricidad y sus empresas productivas subsidiarias, en materia de presupuesto, deuda, adquisiciones, arrendamientos, servicios y obras, responsabilidades administrativas, bienes, remuneraciones y empresas productivas subsidiarias y empresas filiales, entrará en vigor hasta que se encuentre en funciones el nuevo Consejo de Administración de la Comisión Federal de Electricidad y estén en operación los mecanismos de fiscalización, transparencia y rendición de cuentas en ella contenidos;
+
+Que en la misma disposición transitoria, se prevé que para los efectos anteriores el Consejo de Administración de la Comisión Federal de Electricidad notificará a la Secretaría de Energía, la actualización de los supuestos señalados, para que esta última emita la declaratoria respectiva, misma que deberá publicarse en el Diario Oficial de la Federación, y
+
+Que en términos de lo anterior, el Consejo de Administración de la Comisión Federal de Electricidad, durante la sesión 4 ordinaria, celebrada el 27 de enero de 2015, adoptó el Acuerdo número CA-012/2015 en el cual solicitó a la Secretaría de Energía que una vez que entren en vigor las disposiciones aprobadas en la referida sesión, emita la declaratoria de que se encuentran en operación los mecanismos de fiscalización, transparencia y rendición de cuentas previstos en la Ley de la Comisión Federal de Electricidad, por lo que he tenido a bien expedir el siguiente
+
+ACUERDO
+
+###### ARTÍCULO ÚNICO.
+
+La Secretaría de Energía declara que se encuentra en funciones el nuevo Consejo de Administración de la Comisión Federal de Electricidad y están en operación los mecanismos de fiscalización, transparencia y rendición de cuentas que prevé la Ley de la Comisión Federal de Electricidad.
+
+## TRANSITORIO
+
+ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
