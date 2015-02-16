@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-54986"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-16"
-last_updated: "2010-05-07"
+last_updated: "2015-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON --ANTES REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD CIUDADANA Y TRANSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON --
 
-REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
+REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de marzo de 2007.
 
@@ -33,7 +33,7 @@ ACUERDO 2
 
 Con fundamento en los Artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado Libre y Soberano de Nuevo León, 26 inciso a) fracción VII, 164 y 168 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, 52 fracción III inciso f) y g) del Reglamento Interior del Republicano Ayuntamiento de Guadalupe Nuevo León, se aprueba y se expide el:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN.
 
@@ -83,15 +83,23 @@ Elementos: los Servidores Públicos Municipales que integran los cuerpos de Segu
 
 Contraloría: la Secretaría de Contraloría y Desarrollo Administrativo del Municipio de Guadalupe, Nuevo León.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+Responsabilidad Administrativa: Es la conducta de acción u omisión por lo que se da incumplimiento de cualesquiera de las obligaciones establecidas en la Ley y el presente ordenamiento, así como todas aquellas que contravengan la normatividad aplicable en materia de seguridad pública, es decir se incumple con salvaguardar la legalidad, honradez, lealtad, imparcialidad, eficiencia en el desempeño como elemento de los cuerpos de seguridad pública municipal.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 3.
 
-En todo lo no previsto en el presente Reglamento, la legislación supletoria será en primer lugar la Ley, y en segundo lugar el Código de Procedimientos Civiles del Estado de Nuevo León.
+En todo lo no previsto en el presente Reglamento, la legislación supletoria será, la Ley, la Ley de Seguridad Pública para el Estado de Nuevo León, y el Código de Procedimientos Civiles del Estado de Nuevo León.
 
 ### CAPITULO SEGUNDO. DE LA COMISIÓN DE HONOR Y JUSTICIA Y SU INTEGRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 4.
 
-La Comisión es un órgano de carácter administrativo de apoyo al Presidente Municipal, con personalidad jurídica y dotado de autonomía para el conocimiento, trámite y resolución de las quejas y denuncias que presenten los ciudadanos en relación con la actuación de los elementos adscritos a la Secretaría.
+La Comisión es un órgano de carácter administrativo de apoyo al Presidente Municipal, con personalidad jurídica y dotado de autonomía para el conocimiento, trámite y resolución de las quejas y denuncias que presenten los ciudadanos en relación con la actuación de los elementos adscritos a la Secretaría, así como para conocer y resolver los recursos de Inconformidad y revocación que se interpongan contra las determinaciones de la propia Comisión.
 
 Los integrantes de la Comisión durarán en su cargo el periodo constitucional de la administración municipal correspondiente. Los cargos de integrante de la Comisión serán honoríficos.
 
@@ -99,37 +107,39 @@ Los integrantes de la Comisión durarán en su cargo el periodo constitucional d
 
 Corresponde a la Comisión la aplicación de las disposiciones previstas en la Ley y el presente Reglamento, para el caso de sanciones a los elementos de la Secretaría que incurran en responsabilidad administrativa.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 6.
 
-La Comisión se integra con un Presidente, un Secretario que lo será el representante de la Contraloría, y seis vocales, designándose para cada uno de ellos su respectivo suplente. Corresponde al Secretario convocar a las sesiones de la Comisión por escrito y con por lo menos veinticuatro horas de anticipación, señalando lugar, fecha y hora para su celebración.
+La Comisión se integra de la siguiente manera:
+
+I. Un Presidente, que será designado por el Presidente Municipal,
+
+II. Un Secretario, quien será designado por el titular de la Contraloría o por el órgano responsable de control interno municipal que establezca la estructura orgánica vigente,
+
+III. Un Secretario Técnico, quien será designado por el Presidente de uno de los miembros integrantes de la Comisión de Derechos Humanos,
+
+IV. Un Secretario Técnico, quien será designado por el Presidente de uno de los miembros Integrantes de la Comisión de Policía,
+
+V. Vocales:
+
+Uno de los miembros integrantes de la Comisión del R. Ayuntamiento que le corresponda el conocimiento y atribuciones de tránsito y vialidad que designe el Presidente de la misma.
+
+Un vocal designado por el titular de la Coordinación Jurídica adscrita a la Secretaría
+
+Un ex elemento de los cuerpos de seguridad publica jubilado de reconocida trayectoria y calidad moral designado por el Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 7.
 
-El cargo de Presidente recaerá en un ciudadano distinguido de la comunidad guadalupense, preferentemente de profesión abogado.
+El cargo de Presidente recaerá en un ciudadano distinguido de la comunidad guadalupense, preferentemente Licenciado en Derecho.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
-El representante de la Contraloría deberá ser abogado y desempeñará el cargo de Secretario de la Comisión, teniendo sólo derecho de voz y no de voto.
+El representante de la Contraloría ó en su caso del órgano de control interno municipal, deberá ser Licenciado en Derecho y desempeñará el cargo de Secretario de la Comisión.
 
-Las vocalías se integrarán de la siguiente manera:
-
-I. Un representante de la Facultad de Derecho y Criminología de la Universidad Autónoma de Nuevo León;
-
-II. Un representante de la Facultad de Derecho de alguna de las Universidades con presencia en Ciudad Guadalupe, Nuevo León;
-
-III. El Regidor Presidente de la Comisión de Policía del R. Ayuntamiento;
-
-IV. El Regidor Presidente de la Comisión de Derechos Humanos del R. Ayuntamiento;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
-
-V. V. (sic) El Regidor Presidente de la Comisión de Nomenclatura y Vías Públicas del R. Ayuntamiento;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
-
-VI. Un ex-elemento de los Cuerpos de Seguridad Pública jubilado, de reconocida trayectoria y calidad moral.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 8.
 
@@ -163,15 +173,17 @@ III. Por no asistir de manera consecutiva a más de tres sesiones de la Comisió
 
 IV. Por causa grave a juicio del R. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 11.
 
-Los efectos de los nombramientos de los Regidores en la Comisión, correrán la misma suerte que sus correspondientes designaciones como Presidentes de las Comisiones de Policía, Derechos Humanos y Nomenclatura y Vías Públicas del R. Ayuntamiento.
+Los efectos de los nombramientos de los Regidores en la Comisión, correrán la misma suerte que sus correspondientes designaciones como Presidentes de las Comisiones de Policía, Derechos Humanos y el Representante de la Comisión del R. Ayuntamiento que le competa el conocimiento y atribuciones de tránsito.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 12.
 
-La Comisión se auxiliará para el ejercicio de sus atribuciones en la Contraloría o en la entidad responsable de sancionar las infracciones de carácter administrativo de los servidores públicos en el Gobierno Municipal de Guadalupe, Nuevo León.
+La Comisión se auxiliará para el ejercicio de sus atribuciones en la Contraloría ó en su caso el órgano de control interno municipal responsable de sancionar las infracciones de carácter administrativo de los servidores públicos.
 
 ### CAPITULO TERCERO. DE LAS FACULTADES Y FUNCIONAMIENTO DE LA COMISIÓN
 
@@ -213,9 +225,11 @@ Las decisiones, recomendaciones y resoluciones de la Comisión se tomarán por m
 
 Los comisionados deberán abocarse al estudio y análisis de los expedientes que les presente el Secretario en cada sesión, debiendo dictaminar la procedencia de las sanciones a que se refiere la Ley.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 17.
 
-Las resoluciones de la Comisión obligan a las partes y tienen carácter de inapelables una vez que se resuelvan en los términos del presente Reglamento los recursos de inconformidad y revocación, si los hubiere.
+Las resoluciones de la Comisión obligan a las partes y tienen carácter de inapelables una vez que se resuelvan los recursos de inconformidad y revocación en los términos del presente Reglamento.
 
 ###### ARTÍCULO 18.
 
@@ -249,7 +263,7 @@ Cerrada la instrucción, la autoridad dispondrá de diez días hábiles para dic
 
 ###### ARTÍCULO 25.
 
-En todo lo no previsto en el presente Reglamento respecto al procedimiento administrativo de responsabilidad, se atenderá a lo establecido en la Ley.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 ### CAPITULO QUINTO. DE LAS SANCIONES
 
@@ -273,7 +287,7 @@ III. (DEROGADA, P.O. 16 DE ABRIL DE 2008)
 
 ###### ARTÍCULO 27.
 
-En todo lo no previsto en este Capitulo se atenderá a lo dispuesto en la Ley.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 ### CAPITULO SEXTO. DE LOS RECURSOS
 
@@ -335,11 +349,15 @@ Los particulares, instituciones públicas o privadas podrán entregar reconocimi
 
 De todo reconocimiento o condecoración se agregará una copia al expediente personal del elemento.
 
-### CAPITULO OCTAVO. DE LAS REFORMAS AL PRESENTE REGLAMENTO
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+### CAPITULO OCTAVO
+
+DE LAS REFORMAS AL PRESENTE REGLAMENTO.
 
 ###### ARTÍCULO 38.
 
-El presente Reglamento podrá ser modificado, reformado o adicionado por el R. Ayuntamiento, con el fin de preservar su Autoridad Institucional y propiciar el desarrollo armónico de la sociedad guadalupense, para tal efecto deberá realizarse una consulta pública ya sea a través de Internet o de un diario de mayor circulación en el Municipio.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -357,7 +375,7 @@ Envíese a la C. Presidenta Municipal para que tenga a bien instruir al C. Secre
 
 Guadalupe, Nuevo León, a los a los 14-catorce días del mes de marzo de 2007-dos mil siete.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE ABRIL DE 2008.
 
@@ -374,3 +392,11 @@ P.O. 7 DE MAYO DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan el contenido de la presente reforma.
+
+P.O. 16 DE FEBRERO DE 2015.
+
+PRIMERO.- Las presentes reformas por adición y modificación al articulado del REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas al REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN.
+
+TERCERO.- Instrúyase al C. Secretario del Ayuntamiento para que remita a su publicación el presente Acuerdo en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio, a efecto de que circule y se le dé debido cumplimiento.
