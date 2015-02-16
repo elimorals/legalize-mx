@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-60028"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-12-13"
+last_updated: "2015-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY PARA LA PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO
 
-LEY PARA LA PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO
+LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 16 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015 (ABROGADA).
 
 Ley publicada en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -81,7 +83,7 @@ VIII.- Coordinar a las diversas Dependencias y Entidades de la Administración P
 
 En todo lo no previsto en la presente Ley y a falta de disposición expresa, se aplicarán en forma supletoria la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como las demás disposiciones contenidas en otras Leyes, relacionadas con la materia que regula este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -395,7 +397,7 @@ XIV.- La Participación Ciudadana.
 
 #### SECCIÓN PRIMERA. DE LOS PROGRAMAS DE PLANEACIÓN AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 10.
 
@@ -491,7 +493,7 @@ II.- Regional; y
 
 III.- Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 16.
 
@@ -727,7 +729,7 @@ II.- Las obras o actividades de que se trate estén expresamente previstas en lo
 
 III.- Se instalen en zonas o parques industriales autorizados en materia ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -819,7 +821,7 @@ Una vez presentado el estudio de riesgo y el programa de prevención de accident
 
 Sin perjuicio de lo dispuesto en la presente Ley en materia de estudios de riesgo, las personas que realicen actividades riesgosas no reservadas a la Federación, deberán observar las medidas preventivas, de control y correctivas, establecidas en las Normas Oficiales o determinadas por las Autoridades competentes conforme a la Ley de Protección Civil para el Estado de Hidalgo y las demás disposiciones aplicables, para prevenir y controlar accidentes que puedan afectar la integridad de las personas o del ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
@@ -897,7 +899,7 @@ Integrado el expediente, la Procuraduría revisará la información y documentac
 
 Las personas físicas o morales podrán solicitar a la Procuraduría la expedición de un certificado para acreditar que sus actividades son compatibles con la protección al ambiente, previo el análisis correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
@@ -911,7 +913,7 @@ El certificado solo tiene efectos declarativos y tendrá una vigencia de dos añ
 
 La Licencia Ambiental Estatal es el documento por el cual se concentran diversas obligaciones ambientales de los responsables de industrias y servicios que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 48.
 
@@ -1025,7 +1027,7 @@ Para el efecto quienes realicen investigaciones en materia ambiental con recurso
 
 #### SECCIÓN DÉCIMA. SISTEMA DE INFORMACIÓN AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 56.
 
@@ -1037,7 +1039,7 @@ El registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 El Sistema de Información Ambiental, se coordinará y complementará, en lo posible, con el Sistema Nacional de Información Ambiental y de Recursos Naturales, con el Instituto Nacional de Estadística, Geografía e Informática, y con las dependencias, organismos e instituciones académicas o de investigación involucradas en este campo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 58.
 
@@ -1093,7 +1095,7 @@ XX.- Cualquier otro tema de interés relacionado con el ambiente.
 
 La Secretaría publicará en la "Gaceta Ecológica", la cual será solo informativa y de interés general en materia ambiental, así como las disposiciones jurídicas, Decretos, Reglamentos y Acuerdos que se emitan en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 60.
 
@@ -1149,7 +1151,7 @@ La presidencia de dicha Comisión durará un año y deberá ser rotatoria entre 
 
 A fin de garantizar su implementación el Consejo Estatal de Participación Ciudadana Ambiental y de Cambio Climático deberá conocer, dar seguimiento, evaluar y en su caso, recomendar los planes, programas y proyectos que se circunscriban como parte de la Estrategia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 #### SECCIÓN DÉCIMA TERCERA. DE LA PARTICIPACIÓN CIUDADANA, EL CONSEJO ESTATAL DE PARTICIPACIÓN CIUDADANA AMBIENTAL Y DE CAMBIO CLIMÁTICO
 
@@ -1279,7 +1281,7 @@ I.- Zonas de Preservación Ecológica; y
 
 II.- Parques Urbanos Municipales o Jardines Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 67.
 
@@ -1447,7 +1449,7 @@ La Secretaría, en coordinación con los Ayuntamientos, prestará de manera opor
 
 La Secretaría, la Procuraduría y los ayuntamientos, según corresponda, tomando como base los estudios· técnicos y socioeconómicos practicados, podrán solicitar a las autoridades competentes, la cancelación o revocación de permisos, licencias, concesiones o autorizaciones, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico, dentro de un área natural protegida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 86.
 
@@ -1571,7 +1573,7 @@ Los Ayuntamientos, de acuerdo a su competencia, podrán autorizar el derribo, po
 
 Para la preservación y aprovechamiento sustentable de la vida silvestre en el Estado, se considerarán los criterios establecidos en la Ley General de Vida Silvestre y la Ley de Protección y Trato Digno para los Animales en el Estado de Hidalgo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 99.
 
@@ -1605,7 +1607,7 @@ La Secretaría promoverá ante la Autoridad Federal competente, el establecimien
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 102.
 
@@ -1639,7 +1641,7 @@ La Procuraduría es competente para aplicar y vigilar la observancia de las disp
 
 #### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 106.
 
@@ -1733,7 +1735,7 @@ Los vehículos que transporten en el Estado de Hidalgo materiales o residuos pel
 
 Los vehículos que presten el servicio público de transporte o carga en el Estado, deberán utilizar las fuentes de energía, sistemas y equipos que determine la Secretaría en coordinación con la Procuraduría y demás dependencias competentes, para prevenir o minimizar sus emisiones contaminantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 117.
 
@@ -1759,7 +1761,7 @@ Los propietarios o poseedores que se presenten a verificar sus vehículos fuera 
 
 #### SECCIÓN TERCERA. QUEMAS A CIELO ABIERTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 119.
 
@@ -1957,7 +1959,7 @@ II.- Cuando la acción se encuentre sujeta a límites y controles en las normas 
 
 ### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN OCASIONADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, LUMÍNICA Y OLORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Articulo 142.
 
@@ -2127,7 +2129,7 @@ Las personas físicas o morales interesadas en obtener la autorización referida
 
 ### CAPÍTULO IX. REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 160.
 
@@ -2235,7 +2237,7 @@ No podrá prestar servicios ambientales, directamente ni a través de terceros, 
 
 ### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Articulo 172.
 
@@ -2481,7 +2483,7 @@ Si una diligencia se inició en día y hora hábiles, puede llevarse hasta su fi
 
 La Procuraduría o los ayuntamientos, en el ámbito de sus competencias, podrán ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observen en la tramitación del procedimiento para el sólo efecto de regularizar el mismo, sin que ello implique que puedan revocar sus propias determinaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 203.
 
@@ -2495,7 +2497,7 @@ III.- Resulte conveniente el trámite unificado de los asuntos para evitar la em
 
 La misma regla se aplicará en lo conducente, para la separación de los expedientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 204.
 
@@ -2605,7 +2607,7 @@ El procedimiento se iniciará a petición de parte o de oficio por parte de la P
 
 Cuando la Procuraduría o los ayuntamientos, en el ámbito de sus competencias requiera el auxilio de otras autoridades para la obtención de informes, declaraciones o documentos, se dirigirán a éstas por oficio en el que se indique lo que se solicita. La Autoridad requerida desahogará la petición dentro de los cinco días siguientes a su recibo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. DE LOS PROCEDIMIENTOS DE VERIFICACIÓN O SUPERVISIÓN
 
@@ -2685,7 +2687,7 @@ Si al presentarse los visitadores al lugar en donde deba practicarse la diligenc
 
 Para practicar las diligencias a que se refiere este Artículo, el visitador deberá asentar en el acta respectiva los datos que evidencia que se aseguró de estar en el domicilio correcto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 221.
 
@@ -2735,7 +2737,7 @@ En todo caso, las actas complementarias, para ser válidas, deberán integrarse 
 
 Concluida la visita, se dará oportunidad al visitado para que manifieste lo que a su derecho convenga en relación con las circunstancias asentadas en el acta final y para que ofrezca las pruebas que considere convenientes en relación a los hechos u omisiones contenidos en el acta, lo que podrá hacer en un plazo de cinco días hábiles contados a partir del día siguiente de realizada la diligencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 222.
 
@@ -2775,7 +2777,7 @@ Concluido el plazo para alegar, los autos quedarán en estado de resolución.
 
 En el caso en que el visitado durante el procedimiento realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que se imponga una sanción, la Procuraduría o ayuntamiento correspondiente, deberá considerar tal situación como atenuante de la infracción cometida y en caso contrario tomarla en cuenta como una agravante al momento de imponer la sanción respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 227.
 
@@ -2877,7 +2879,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2009.
 
@@ -2900,3 +2902,15 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 16 DE FEBRERO DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley para la Protección al Ambiente para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de fecha 31 de diciembre de 2007 y la última reforma publicada el (sic) periódico oficial el 13 de diciembre de 2010.
+
+TERCERO.- Las controversias que estén tramitándose en el momento de la iniciación de vigencia de esta Ley, se resolverán conforme a lo dispuesto en la Ley que se abroga.
+
+CUARTO.- Los Reglamentos a los que se refiere la presente Ley deberán ser expedidos en un término no mayor a 180 días naturales contados a partir de su entrada en vigor.
+
+QUINTO.- La Secretaría deberá expedir los listados, criterios y lineamientos a los que se refiere la presente Ley, en un término no mayor a 120 días naturales contados a partir de su entrada en vigor.
