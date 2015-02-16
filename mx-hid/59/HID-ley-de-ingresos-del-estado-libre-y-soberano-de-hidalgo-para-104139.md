@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-libre-y-soberano-de-hidalgo-para-104
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-22"
-last_updated: "2014-12-22"
+last_updated: "2015-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO 2015, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
 
-TEXTO ORIGINAL.
-
-Ley Publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
 GOBIERNO DEL ESTADO DE HIDALGO
 
@@ -59,7 +57,17 @@ La Hacienda Pública del Estado de Hidalgo, percibirá durante el ejercicio fisc
 
 CONCEPTO PESOS
 
-TOTAL DE INGRESOS 31,930,164,196.00
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+TOTAL INGRESOS 37,231,247,175.00
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+0 Ingresos Derivados de Financiamientos 5,301,082,979.00
+
+0.1 Endeudamiento Interno 5,301,082,979.00
+
+0.1.2 Financiamiento a largo plazo 5,301,082,979.00
 
 1. Impuestos 791,993,658.00
 
@@ -312,3 +320,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DIECINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CATORCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.-RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
