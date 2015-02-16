@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2009-12-14"
+last_updated: "2015-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE SAN JOSE DE GRACIA, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE SAN JOSE DE GRACIA
+CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -425,7 +425,7 @@ LVII. Acordar la categoría y denominación política que les corresponda a las 
 
 LVIII. Nombrar al Titular de Seguridad Pública y Tránsito Municipal;
 
-LVIX. En materia de igualdad y género:
+LVIX (SIC). En materia de igualdad y género:
 
 a. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
 
@@ -1351,47 +1351,93 @@ En el caso de las faltas temporales de los encargados de las Dependencias Públi
 
 Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes dependencias administrativas:
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+PRESIDENCIA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+SECRETARIA PARTICULAR
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-SECRETARIA DEL H. AYUNTAMIENTO
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+SECRETARÍA DEL H. AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 CONTRALORÍA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 INSTANCIA DE LA MUJER
 
-DIRECCIÓN DE SEGURIDAD PÚBLICA
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+DIRECCIÓN DE SEGURIDAD PÚBLICA Y VIALIDAD
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 DIRECCIÓN DE SERVICIOS PÚBLICOS
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 DIRECCIÓN DE FINANZAS
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 DIRECCIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 DIRECCIÓN DE DESARROLLO SOCIAL
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 DIRECCIÓN DE OBRAS PÚBLICAS
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 DIRECCIÓN DE TURISMO
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+DIRECCIÓN DEL DEPORTE
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+DIRECCIÓN DE DESARROLLO AGROPECUARIO
 
 De las Unidades Administrativas enunciadas dependerá la estructura siguiente:
 
 I. PRESIDENCIA MUNICIPAL
 
-A. Secretario Particular del Presidente
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+A. Secretaría Particular
+
+- Dirección de Atención Ciudadana
 
 B. Asesor del Presidente
 
 II. COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-A. Estará integrado por la Presidenta del Sistema D.l.F. Municipal, ocupándolo quien tenga el carácter de cónyuge. del Presidente Municipal, o en su defecto quién éste designe, y por las personas que se consideren necesarias y se nombren al momento de integrar el propio Comité para el desempeño de sus funciones, todo los cargos serán honoríficos y no podrán ser ocupados por funcionarios públicos de la administración municipal.
+A. Estará integrado por la Presidenta del Sistema D.I.F. Municipal, ocupándolo quien tenga el carácter de cónyuge. del Presidente Municipal, o en su defecto quién éste designe, y por las personas que se consideren necesarias y se nombren al momento de integrar el propio Comité para el desempeño de sus funciones, todo los cargos serán honoríficos y no podrán ser ocupados por funcionarios públicos de la administración municipal.
 
-III. SECRETARIA DEL H. AYUNTAMIENTO
+III. SECRETARÍA DEL H. AYUNTAMIENTO
 
 A. Delegados y Comisarios
 
-B. Departamento Jurídico
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+B. Dirección de Asuntos Jurídicos
 
 C. Departamento de Reglamentos y Licencias
 
@@ -1401,9 +1447,13 @@ E. Área de Servicios Médicos y Trabajo Social
 
 F. Área de Jueces Calificadores
 
-G. Área de Acción Cívica y Deportes
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
-H. Unidad Municipal de Protección Civil
+G. Departamento de Acción Cívica y Cultura
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+H. Coordinación Municipal de Protección Civil
 
 I. Unidad Médica Prehospitalaria
 
@@ -1467,7 +1517,7 @@ A. Subdirección de Desarrollo Social
 
 1. Área de Fomento a la Juventud
 
-2. Área de Desarrollo Agropecuario
+2. (DEROGADO, P.O. 16 DE FEBRERO DE 2015)
 
 3. Área de Desarrollo Económico
 
@@ -1475,7 +1525,7 @@ XII. DIRECCIÓN DE OBRAS PÚBLICAS
 
 A. Subdirección de Obras Públicas
 
-1.Área de Desarrollo Urbano
+1. Área de Desarrollo Urbano
 
 2. Área de Proyectos y Supervisión de Obras
 
@@ -1505,9 +1555,31 @@ VI. Elaborar el plan de trabajo para la realización de proyectos y actividades 
 
 VII. Las demás que le confiera la Legislación vigente, o que le encomiendo (sic) el H. Ayuntamiento a través del Presidente Municipal.
 
-#### SECCIÓN SEGUNDA. De la Secretaría del H. Ayuntamiento
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN TERCERA. De la Contraloría Municipal
+#### SECCIÓN PRIMERA BIS. De la Secretaría Particular
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 142 BIS.- Corresponde a la Secretaría Particular lo siguiente:
+
+I. Elaborar y mantener actualizada la agenda del Presidente Municipal;
+
+II. Atender a los funcionarios, comisionados, representantes de grupos y demás personas que soliciten entrevista con el Presidente Municipal;
+
+III. Coordinar la atención ciudadana;
+
+IV. Organizar, programar y dar seguimiento a las giras y eventos del PresidenteMunicipal (sic) y a los acuerdos que se deriven de las mismas, canalizando las solicitudes a las áreas correspondientes;
+
+V. Encargarse de las relaciones públicas de la Presidencia Municipal;
+
+VI. Representar o designar a quien representará al Presidente Municipal, previoacuerdo (sic) con él mismo, en los eventos que se le encomiende en la atención a los ciudadanos;
+
+VII. Servir de enlace entre el Presidente Municipal y las Dependencias Oficiales, Instituciones Privadas y ciudadanos en particular; y
+
+VIII. Las demás que el Presidente Municipal le encomiende.
+
+#### SECCIÓN SEGUNDA. De la Secretaría del H. Ayuntamiento
 
 ###### ARTÍCULO 143.
 
@@ -1559,7 +1631,9 @@ XXII. Conocer y calificar las infracciones en materia de Comercio, Industria y P
 
 XXIII. Programar y coordinar las actividades de carácter cívico;
 
-XXIV. Expedir las constancias de vecindad, radicación, identidad, según sea el caso;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+XXIV. Expedir las constancias de vecindad, radicación, identidad, según sea el caso; así como las certificaciones de documentos y demás documentos públicos que legalmente procedan o las que acuerde el H Ayuntamiento.
 
 XXV. Expedir, en su caso, los permisos para la celebración de eventos públicos extraordinarios;
 
@@ -1597,7 +1671,7 @@ XI. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y reso
 
 XII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y los demás servicios con que cuente o necesite la comunidad;
 
-XIII. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.l.F., Seguridad Pública, entre otras; y,
+XIII. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras; y,
 
 XIV. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
@@ -1613,7 +1687,7 @@ III. Rendir informe mensual de actividades al Delegado; y,
 
 IV. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCIÓN CUARTA. De la Dirección General del Sistema para el Desarrollo Integral de la Familia
+#### SECCIÓN TERCERA. De la Contraloría Municipal
 
 ###### ARTÍCULO 146.
 
@@ -1643,7 +1717,7 @@ XI. Fincar pliegos preventivos de responsabilidad cuando detecte irregularidades
 
 XII. Informar al Presidente Municipal y al Síndico de Hacienda sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal;
 
-XlII. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución;
+XIII. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución;
 
 XIV. Ejecutar las funciones establecidas en este Código y en la Legislación Federal, Estatal y Municipal aplicables para los órganos internos de control;
 
@@ -1653,7 +1727,7 @@ XVI. Dictar las disposiciones que requiera la Contraloría Municipal para la ade
 
 XVII. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
-#### SECCIÓN QUINTA. De la Instancia de la Mujer
+#### SECCIÓN CUARTA. De la Dirección General del Sistema para el Desarrollo Integral de la Familia
 
 ###### ARTÍCULO 147.
 
@@ -1683,7 +1757,7 @@ XI. Procurar y promover la coordinación con otras instituciones afines, cuyo ob
 
 XII. Las demás que le confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
-#### SECCIÓN SEXTA. De la Dirección de Seguridad Pública y Vialidad
+#### SECCIÓN QUINTA. De la Instancia de la Mujer
 
 ###### ARTÍCULO 148.
 
@@ -1737,7 +1811,7 @@ XXI. Promover e incentivar investigaciones y estudios que contribuyan a profundi
 
 XXII. Las demás que señale el presente Código y otros ordenamientos legales.
 
-#### SECCIÓN SÉPTIMA. De la Dirección de Servicios Públicos
+#### SECCIÓN SEXTA. De la Dirección de Seguridad Pública y Vialidad
 
 ###### ARTÍCULO 150.
 
@@ -1761,7 +1835,7 @@ VIII. Desarrollar y aplicar políticas, programas y acciones en materia de preve
 
 IX. Las demás que le señale la ley, el presente Código, Reglamentos Municipales, o le encomiende el H. Ayuntamiento por Conducto del Presidente Municipal.
 
-#### SECCIÓN OCTAVA. Dirección de Finanzas
+#### SECCIÓN SÉPTIMA. De la Dirección de Servicios Públicos
 
 ###### ARTÍCULO 151.
 
@@ -1839,7 +1913,7 @@ XXXV. Realizar el mantenimiento preventivo y correctivo en los cementerios y, su
 
 XXXVI. Las demás que señalen las leyes, el presente Código, la Reglamentación Municipal y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCIÓN NOVENA. De la Dirección Administrativa
+#### SECCIÓN OCTAVA. Dirección de Finanzas
 
 ###### ARTÍCULO 152.
 
@@ -1863,9 +1937,15 @@ VIII. Vigilar el cumplimiento de las disposiciones contenidas en las leyes fisca
 
 IX. Imponer las multas derivadas de infracciones a las disposiciones fiscales; y,
 
-X. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN DÉCIMA. Dirección de Desarrollo Social
+X. Realizar la contabilidad gubernamental y los informes financieros correspondientes al Ayuntamiento del Municipio de San José de Gracia y administrar el sistema de armonización contable conforme a la legislación aplicable, en coordinación con las diversas dependencias de la Administración Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+XI. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+#### SECCIÓN NOVENA. De la Dirección Administrativa
 
 ###### ARTÍCULO 153.
 
@@ -1937,7 +2017,7 @@ XXXII. Evaluar el impacto de las políticas en materia de informática y mejora 
 
 XXXIII. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCIÓN DÉCIMO PRIMERA. De la Dirección de Obras Públicas
+#### SECCIÓN DÉCIMA. Dirección de Desarrollo Social
 
 ###### ARTÍCULO 154.
 
@@ -1955,19 +2035,21 @@ V. Elaborar, supervisar, evaluar y actualizar los planes y programas de desarrol
 
 VI. Diseñar y aplicar procedimientos técnicos administrativos en la realización de los programas de inversión municipales que tengan por fundamento el presupuesto por programas y observar lo dispuesto en los programas de transferencias de recursos federales y estatales;
 
-VII. Coordinar la prestación de los servicios de educación, cultura, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-VIII. Proponer, coordinar y evaluar las acciones en materia de deporte, cultura física y recreación para la población del Municipio;
+VII. Coordinar las acciones y programas para la correcta prestación de los servicios de educación y salud que se otorgan en el municipio en conjunto con las dependencias federales o estatales según sea el caso;
 
-IX. Integrar equipos, organizar torneos y eventos deportivos así como conformar las escuelas deportivas municipales y los centros de formación y desarrollo deportivo en el Municipio;
+VIII. (DEROGADA, P.O. 16 DE FEBRERO DE 2015)
 
-X. Administrar las instalaciones y espacios deportivos del Municipio;
+IX. (DEROGADA, P.O. 16 DE FEBRERO DE 2015)
+
+X. (DEROGADA, P.O. 16 DE FEBRERO DE 2015)
 
 XI. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, para el logro del bienestar social, del Municipio de San José de Gracia, que permita la participación de la juventud, de las mujeres y las personas con capacidades diferentes;
 
 XII. Promover el autoempleo y el fortalecimiento de las micro y pequeñas empresas en el comercio y los servicios, apoyándose para dicha promoción en el criterio de perspectiva de género;
 
-XIII. Promover proyectos productivos en el área rural;
+XIII. (DEROGADA, P.O. 16 DE FEBRERO DE 2015)
 
 XIV. Coadyuvar, fomentar y promover, en los términos de las leyes y reglamentos de la materia la ejecución de políticas y programas del Municipio en lo referente a la actividad económica, que permita más empleo y el desarrollo del comercio y los servicios, impulsando la participación de las mujeres en igualdad de condiciones y oportunidades que los hombres;
 
@@ -1991,7 +2073,7 @@ XXIII. Apoyar a las micro y pequeñas empresas en las gestiones para la obtenci�
 
 XXIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCIÓN DÉCIMO SEGUNDA. Dirección de Turismo
+#### SECCIÓN DÉCIMO PRIMERA. De la Dirección de Obras Públicas
 
 ###### ARTÍCULO 155.
 
@@ -2107,7 +2189,7 @@ VII. Coordinarse, en el ámbito de sus facultades de acuerdo a su capacidad oper
 
 VIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCIÓN PRIMERA. De las Asociaciones de Vecinos y de las Obras por Cooperación
+#### SECCIÓN DÉCIMO SEGUNDA. Dirección de Turismo
 
 ###### ARTÍCULO 156.
 
@@ -2157,9 +2239,63 @@ XXI. Promover ante el H. Ayuntamiento, a través de la Secretaría del Ayuntamie
 
 XXII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCIÓN SEGUNDA. De los Comités de participación ciudadana
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCIÓN DÉCIMA TERCERA. Dirección del Deporte
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 156 BIS.- Corresponde a la Dirección del Deporte lo siguiente:
+
+I. Proponer, coordinar y evaluar las acciones en materia de deporte, cultura física y recreación para la población del Municipio;
+
+II. Fomentar la actividad deportiva en las instituciones educativas y en la población en general.
+
+III. Coordinar, mantener y promover la utilización de las diversas instalaciones deportivas públicas municipales;
+
+IV. Gestionar recursos y aplicarlos a la mejora de las instalaciones y al fomento de la práctica deportiva;
+
+V. Fomentar la creación de las escuelas deportivas municipales especializadas en algunas disciplinas;
+
+VI. Organizar eventos deportivos tendientes al fomento del deporte y la participación ciudadana en las actividades de la activación física;
+
+VII. Impulsar y estimular los valores deportivos del municipio;
+
+VIII. Conformar y agrupar ligas de asociaciones deportivas;
+
+IX. Atender solicitudes de la ciudadanía para efectos del préstamo de instalaciones deportivas;
+
+X. Elaborar un registro municipal de los atletas de alto rendimiento y seleccionados a las olimpiadas en todas sus fases;
+
+XI. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA CUARTA. Dirección de Desarrollo Agropecuario
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 156 TER.- Corresponde a la Dirección de Desarrollo Agropecuario lo siguiente:
+
+I. Promover proyectos productivos en el área rural del Municipio.
+
+II. Proponer al H. Ayuntamiento a través del Presidente Municipal programas y planes de trabajo que tiendan a promover el desarrollo rural integral y agropecuario del Municipio;
+
+III. Gestionar recursos y aplicarlos a los proyectos y programas agropecuarios en el Municipio;
+
+IV. Establecer una estrecha coordinación y comunicación con las dependencias y organismos públicos y privados que tengan como finalidad apoyar el desarrollo rural;
+
+V. Organizar y coordinar los fondos de apoyo provenientes de los programas productivos destinados a fortalecer a las comunidades rurales;
+
+VI. Promover los proyectos orientados al desarrollo rural y agropecuario a través de programas de colaboración y participación del Municipio, el Estado y la Federación;
+
+VII. Organizar foros temáticos para identificar las demandas del sector en forma conjunta con las instituciones y/o dependencias que corresponda;
+
+VIII. Promover cursos de capacitación que incidan en el desarrollo de lascomunidades (sic) rurales;
+
+IX. Llevar a cabo la aprobación y realización de acciones conjuntas con el Consejo Municipal de Desarrollo Agropecuario, a efecto de beneficiar a los sectores y grupos marginados que son prioritarios, tales como jóvenes, mujeres madres de familia, adultos mayores, y personas con capacidades diferentes;
+
+X. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACION PÚBLICA DESCENTRALIZADA Y DESCONCENTRADA
 
@@ -2593,7 +2729,7 @@ El Director de Finanzas llevará un estricto control de los flujos de efectivo p
 
 ### CAPÍTULO IV. De la Participación Social
 
-#### SECCIÓN SEGUNDA. De las Faltas Contra la Tranquilidad
+#### SECCIÓN PRIMERA. De las Asociaciones de Vecinos y de las Obras por Cooperación
 
 ###### ARTÍCULO 224.
 
@@ -2655,7 +2791,7 @@ Cuando el Municipio un tercero ejecuten las obras, los beneficiarios iniciarán 
 
 Asimismo, los beneficiarios supervisarán la ejecución correcta de los proyectos mediante los vocales de contraloría social que formen parte de los comités o asociaciones.
 
-#### SECCIÓN TERCERA. De las Faltas Contra la Salubridad
+#### SECCIÓN SEGUNDA. De los Comités de participación ciudadana
 
 ###### ARTÍCULO 235.
 
@@ -3735,7 +3871,7 @@ V. De ser aprobado el convenio propuesto, en la misma sesión se nombrará dentr
 
 VI. En todo convenio que se celebre deberá establecerse en forma clara las causas de terminación, rescisión o suspensión del mismo, así como las formas de operar de éstas, para conocimiento de todos los interesados; entre dichas causas, además de las naturales, deberá establecerse el resultado del informe que trimestralmente rinda la comisión de vigilancia;
 
-Vll. Los convenios que se celebren entre dos o más municipios de distintos estados, deberán contar con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento;
+VII. Los convenios que se celebren entre dos o más municipios de distintos estados, deberán contar con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento;
 
 VIII. Los Ayuntamientos podrán celebrar con el Ejecutivo del Estado, convenios para la prestación temporal por parte de éste de los servicios públicos o funciones a cargo del Municipio, o bien para que se ejerzan coordinadamente por ambos, a solicitud del Ayuntamiento y que previamente se hayan reunido los requisitos del presente Artículo; y,
 
@@ -4169,7 +4305,7 @@ XII. Destinar el local exclusivamente al giro o giros señalados en la licencia;
 
 XIII. Respetar los límites de sus locales o lugar y no utilizar áreas comunes ni pasillos o corredores para exhibir o vender sus mercancías o productos;
 
-XlV. Permitir el libre acceso a los verificadores;
+XIV. Permitir el libre acceso a los verificadores;
 
 XV. Cumplir con las normas de seguridad, sanidad e higiene y demás que le impongan otras autoridades competentes;
 
@@ -4455,7 +4591,7 @@ XII. Cuidar de la conservación y limpieza del cementerio;
 
 XIII. Cuidar de que los sepulcros en general, guarden entre sí la distancia señalada en este reglamento y estén numerados convenientemente, para su debida identificación;
 
-XlV. Cuidar de que las lápidas, estatuas, inscripciones, macetones, barandales, cruces o retablos, que coloquen los deudos en los sepulcros, no se extraigan sin autorización;
+XIV. Cuidar de que las lápidas, estatuas, inscripciones, macetones, barandales, cruces o retablos, que coloquen los deudos en los sepulcros, no se extraigan sin autorización;
 
 XV. Exhumar o autorizar, en su caso el depósito en el osario común, o la incineración de los restos humanos que hayan cumplido cinco años en la sepultura y los deudos no hayan gestionado la renovación contractual;
 
@@ -5065,7 +5201,7 @@ XII. El establecimiento de las medidas necesarias para hacer efectiva la prohibi
 
 XIII. La reglamentación, como facultad concurrente con el Estado, de las actividades riesgosas, cuando debido a sus efectos colaterales se afecten ecosistemas o el ambiente de circunscripción municipal; salvo el caso de actividades consideradas “altamente riesgosas”, cuya regulación explícita corresponde a la Federación, de acuerdo con la Ley General de la materia;
 
-XlV. Evaluar el impacto ambiental en materias que caen dentro de la competencia municipal, que implican la realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos o en las Normas Oficiales Mexicanas emitidas por la Federación;
+XIV. Evaluar el impacto ambiental en materias que caen dentro de la competencia municipal, que implican la realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos o en las Normas Oficiales Mexicanas emitidas por la Federación;
 
 XV. Aplicar las Normas Oficiales Mexicanas en la materia;
 
@@ -6171,7 +6307,7 @@ X. Acordar las notas que hayan de ponerse en el expediente personal de servicio 
 
 XI. Otorgar condecoraciones y determinar, estímulos y recompensas, de conformidad con la Ley de Seguridad Pública, el presente Código y demás disposiciones aplicables;
 
-Xll. Celebrar sesiones ordinarias por lo menos una vez al mes y las sesiones extraordinarias que sean necesarias; y,
+XII. Celebrar sesiones ordinarias por lo menos una vez al mes y las sesiones extraordinarias que sean necesarias; y,
 
 XIII. Las demás que le señale la Ley.
 
@@ -6633,7 +6769,7 @@ Agregarán a su reporte el nombre de cualquier servidor público o persona que h
 
 ###### ARTÍCULO 702.
 
-Para efectos de llevara cabo la detención de un vehículo se seguirán los lineamientos señalados en el presente Código, Reglamentos y en la Ley de Vialidad del Estado de Aguascalientes.
+Para efectos de llevar a cabo la detención de un vehículo se seguirán los lineamientos señalados en el presente Código, Reglamentos y en la Ley de Vialidad del Estado de Aguascalientes.
 
 ###### ARTÍCULO 703.
 
@@ -6671,7 +6807,7 @@ XII. Cuando el vehículo haya sido reportado como robado por su propietario, aun
 
 XIII. Cuando el vehículo tenga defectos en su sistema de frenado y resulte peligrosa su circulación;
 
-XlV. Por mandato expedido por autoridad competente; y,
+XIV. Por mandato expedido por autoridad competente; y,
 
 XV. En los demás casos que dispongan las leyes y/o reglamentos respectivos.
 
@@ -7095,7 +7231,7 @@ XII. Crear un fondo para la atención de los casos de alto riesgo, siniestro o d
 
 XIII. Formular la declaración de desastre;
 
-XlV. Elaborar y presentar para su aprobación al Ayuntamiento, el Plan Municipal de contingencias a efecto de dar respuesta eficaz ante la eventualidad de un siniestro o desastre provocado por fenómenos naturales o riesgos humanos que se conozca que puedan ocurrir dentro del Municipio;
+XIV. Elaborar y presentar para su aprobación al Ayuntamiento, el Plan Municipal de contingencias a efecto de dar respuesta eficaz ante la eventualidad de un siniestro o desastre provocado por fenómenos naturales o riesgos humanos que se conozca que puedan ocurrir dentro del Municipio;
 
 XV. Constituir las Comisiones necesarias para su correcto desempeño;
 
@@ -7193,9 +7329,11 @@ III. Un Coordinador de Operaciones; y,
 
 IV. El personal operativo que le asignen para su adecuado funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 769.
 
-Compete a la Unidad de Protección Civil, ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento conforme a los reglamentos, programas y acuerdos que autorice el Consejo Municipal, desarrollando las siguientes funciones:
+Compete a la Coordinación Municipal de Protección Civil, ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento conforme a los reglamentos, programas y acuerdos que autorice el Consejo Municipal, desarrollando las siguientes funciones:
 
 I. Elaborar el proyecto del Programa Municipal de Protección y presentarlo a consideración del Consejo Municipal y en su caso las propuestas para su modificación;
 
@@ -7223,21 +7361,27 @@ XII. Establecer y operar los centros de acopio para recibir y administrar la ayu
 
 XIII. En el ámbito de su competencia practicar inspecciones y otorgar certificaciones de operación a fin de vigilar el cumplimiento de las disposiciones municipales en materia de protección civil y seguridad civil; así como aplicar sanciones, cuando producto de esa vigilancia, se advierta un incumplimiento a tales disposiciones de la materia;
 
-XlV. Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil en el ámbito de competencia; y,
+XIV. Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil en el ámbito de competencia; y,
 
 XV. Las demás que dispongan los reglamentos, programas y convenios o que le asigne el consejo municipal de protección civil.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 770.
 
-La Unidad Municipal de Protección Civil deberá atender con celeridad las situaciones de emergencia; en los servicios ordinarios a toda solicitud que por escrito se formule, habrá de recaer una resolución en un término no mayor de diez días hábiles.
+La Coordinación Municipal de Protección Civil deberá atender con celeridad las situaciones de emergencia; en los servicios ordinarios a toda solicitud que por escrito se formule, habrá de recaer una resolución en un término no mayor de diez días hábiles.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 771.
 
-La Unidad Municipal de Protección Civil revisará periódicamente las instalaciones o edificaciones públicas y privadas para efecto de detectar riesgos y prevenir desastres.
+La Coordinación Municipal de Protección Civil revisará periódicamente las instalaciones o edificaciones públicas y privadas para efecto de detectar riesgos y prevenir desastres.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 772.
 
-La Unidad Municipal de Protección Civil podrá sancionar en forma administrativa a los infractores del presente ordenamiento en la forma y términos que en el mismo se prevén.
+La Coordinación Municipal de Protección Civil podrá sancionar en forma administrativa a los infractores del presente ordenamiento en la forma y términos que en el mismo se prevén.
 
 ### CAPÍTULO IV. De los Comités de Protección Civil
 
@@ -7249,45 +7393,63 @@ Los Comités estarán integrados por el número de miembros que requiera cada co
 
 Corresponde a los Comités:
 
-I. Coadyuvar con la Unidad en la aplicación de los programas de protección civil;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+I. Coadyuvar con la Coordinación Municipal de Protección Civil en la aplicación de los programas de protección civil;
 
 II. Participar en su comunidad en las acciones que correspondan del Programa General;
 
-III. Participar en los cursos de difusión y capacitación que lleve a cabo la Unidad y, a su vez, difundir lo aprendido entre los miembros de la comunidad; y,
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
 
-IV. Ser el enlace entre la comunidad y la Unidad.
+III. Participar en los cursos de difusión y capacitación que lleve a cabo la Coordinación Municipal de Protección Civil y, a su vez, difundir lo aprendido entre los miembros de la comunidad; y
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+IV. Ser el enlace entre la comunidad y la Coordinación Municipal de Protección Civil.
 
 ### CAPÍTULO V. De la Participación Privada, Social y de Grupos Voluntarios
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 775.
 
-El Ayuntamiento fomentará la integración, capacitación y supervisión técnica de las instituciones privadas, sociales y de grupos voluntarios, mediante la Unidad Municipal de Protección Civil.
+El Ayuntamiento fomentará la integración, capacitación y supervisión técnica de las instituciones privadas, sociales y de grupos voluntarios, mediante la Coordinación Municipal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 776.
 
-El Ayuntamiento coordinará y apoyará, en caso de desastre o siniestro a los grupos y brigadas voluntarias a través de la Unidad Municipal de protección Civil.
+El Ayuntamiento coordinará y apoyará, en caso de desastre o siniestro a los grupos y brigadas voluntarias a través de la Coordinación Municipal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 777.
 
-Los grupos y brigadas voluntarias deberán registrarse en la Unidad de Protección Civil. Dicho registro se acreditará mediante certificado expedido por la Unidad, en el que se inscribirá el número de registro, nombre del grupo voluntario, actividades a las que se dedica y adscripción. El registro deberá ser revalidado anualmente.
+Los grupos y brigadas voluntarias deberán registrarse en la Coordinación Municipal de Protección Civil. Dicho registro se acreditará mediante certificado expedido por la Unidad, en el que se inscribirá el número de registro, nombre del grupo voluntario, actividades a las que se dedica y adscripción. El registro deberá ser revalidado anualmente.
 
 ###### ARTÍCULO 778.
 
 Son obligaciones de los participantes voluntarios:
 
-I. Coordinar con la Unidad Municipal de Protección Civil su participación en las actividades de prevención, auxilio y recuperación de la población ante cualquier alto riesgo, siniestro o desastre;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+I. Coordinar con la Coordinación Municipal de Protección Civil su participación en las actividades de prevención, auxilio y recuperación de la población ante cualquier alto riesgo, siniestro o desastre;
 
 II. Cooperar con la difusión de los Programas Municipales y en las actividades de Protección Civil en general;
 
 III. Participar en los Programas de capacitación a la población;
 
-IV. Realizar actividades de monitoreo, pronóstico y aviso a la Unidad Municipal de Protección Civil de la presencia de cualquier situación de probable riesgo o inminente peligro para la población, así como la ocurrencia de cualquier calamidad;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+IV. Realizar actividades de monitoreo, pronóstico y aviso a la Coordinación Municipal de Protección Civil de la presencia de cualquier situación de probable riesgo o inminente peligro para la población, así como la ocurrencia de cualquier calamidad;
 
 V. Participar en todas aquellas actividades que le correspondan dentro de los Subprogramas de prevención, auxilio y recuperación establecidos por el Programa Municipal de Protección Civil;
 
 VI. Constituirse en inspectores honorarios para velar por el debido cumplimiento del presente código; este cargo será honorario y de servicio a la comunidad, además de que se ejercerá de manera permanente y voluntaria, sin percibir remuneración alguna;
 
-VII. Registrarse en forma individual o como grupo voluntario ante la Unidad Municipal de Protección Civil, y,
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+VII. Registrarse en forma individual o como grupo voluntario ante la Coordinación Municipal de Protección Civil, y
 
 VIII. En el caso de los grupos voluntarios, deberá integrarse su representante al Centro Municipal de Operaciones, cuando se ordene la activación de éste.
 
@@ -7305,9 +7467,11 @@ IV. Informar a la Unidad de cualquier violación a las disposiciones aplicables 
 
 ### CAPÍTULO VI. Del Centro Municipal de Operaciones
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 780.
 
-El Centro Municipal de Operaciones se instalará en el domicilio de la Unidad Municipal de Protección Civil, donde se llevarán a cabo acciones de Unidad y Coordinación.
+El Centro Municipal de Operaciones se instalará en el domicilio de la Coordinación Municipal de ProtecciónCivil (sic), donde se llevarán a cabo acciones de unidad y coordinación.
 
 ###### ARTÍCULO 781.
 
@@ -7357,15 +7521,19 @@ I. Instalar, conservar, modificar y construir, en estado óptimo de funcionamien
 
 II. Cumplir y cooperar para que se cumplan las medidas de seguridad y prevención de incendios y cualquier genero de siniestros previstas en este documento; y,
 
-III. Solicitar a la Unidad Municipal de Protección Civil y al servicio de bomberos la revisión y aprobación en su caso de los sistemas o aparatos de seguridad que deberá efectuarse con diez días de anticipación a la fecha de su ocupación misma.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+III. Solicitar a la Coordinación Municipal de ProtecciónCivil (sic) y al servicio de bomberos la revisión y aprobación en su caso de los sistemas o aparatos de seguridad que deberá efectuarse con diez días de anticipación a la fecha de su ocupación misma.
 
 ###### ARTÍCULO 786.
 
 Es responsabilidad del propietario, poseedores, administrador, usuario, arrendatario o detentador de los inmuebles de que se trate, la Seguridad de sus ocupantes, y el debido y correcto funcionamiento de los sistemas y aparatos de seguridad, y el cumplimiento con las contenidas en este Libro y en los demás ordenamientos legales que le sean aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 787.
 
-La Unidad Municipal de Protección Civil podrá practicar visitas de inspección a fin de verificar que se cumplan las disposiciones preventivas previstas en el presente código y las NOM (Normas Oficiales Mexicanas) correspondientes, debiendo realizarlas con las formalidades exigidas en el mismo código.
+La Coordinación Municipal de Protección Civil podrá practicar visitas de inspección a fin de verificar que se cumplan las disposiciones preventivas previstas en el presente código y las NOM (Normas Oficiales Mexicanas) correspondientes, debiendo realizarlas con las formalidades exigidas en el mismo código.
 
 ###### ARTÍCULO 788.
 
@@ -7409,7 +7577,9 @@ II. Los criterios para integrar el Atlas de Riesgo;
 
 III. Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
 
-IV. Las acciones que la Unidad Municipal de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+IV. Las acciones que la Coordinación Municipal de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
 
 V. Los criterios para promover la participación social y la capacitación y aplicación de los recursos que aporten los sectores público, privado y social;
 
@@ -7495,9 +7665,11 @@ Cuando la gravedad del desastre así lo requiera, el Presidente Municipal solici
 
 ### CAPÍTULO XI. De las Inspecciones
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 802.
 
-La unidad municipal de Protección Civil tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de desastres, así como de aplicar las sanciones que proceden por violación al presente ordenamiento, sin perjuicio de las facultades que se confieren a otras dependencias de la administración pública federal y estatal.
+La Coordinación Municipal de Protección Civil tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de desastres, así como de aplicar las sanciones que proceden por violación al presente ordenamiento, sin perjuicio de las facultades que se confieren a otras dependencias de la administración pública federal y estatal.
 
 ###### ARTÍCULO 803.
 
@@ -8017,7 +8189,7 @@ VI. El alineamiento respecto a las vías o espacios públicos de propiedad Feder
 
 VII. La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados, de acuerdo con lo previsto en los programas de desarrollo urbano aplicables;
 
-VIIII. Las restricciones de urbanización y construcción que correspondan de conformidad con el tipo de fraccionamiento, condominio, barrio, colonia o zona;
+VIII. Las restricciones de urbanización y construcción que correspondan de conformidad con el tipo de fraccionamiento, condominio, barrio, colonia o zona;
 
 IX. La valoración de inmuebles del patrimonio natural y cultural;
 
@@ -8403,7 +8575,7 @@ III. Se tendrá opción a solicitar a la propia Dirección, dentro del plazo de 
 
 ###### ARTÍCULO 883.
 
-En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Obras Públicas y el dictamen del lnstituto Nacional de Antropología e Historia.
+En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Obras Públicas y el dictamen del Instituto Nacional de Antropología e Historia.
 
 ###### ARTÍCULO 884.
 
@@ -10871,7 +11043,7 @@ VI. De las 8:00 a las 23:00 horas: Cafeterías y venta de mariscos preparados;
 
 VII. De las 8:00 a las 23:00 horas: Farmacias que no estén en turno, establecimientos de renta de videos, discos compactos, joyerías, centros de cómputo e Internet;
 
-VlII. De las 9:00 a las 22:00 horas: Establecimientos cuyo giro es la renta de mesas de billar y líneas de boliche;
+VIII. De las 9:00 a las 22:00 horas: Establecimientos cuyo giro es la renta de mesas de billar y líneas de boliche;
 
 IX. De las 9:00 a las 22:00 horas: Giros dedicados a la renta de máquinas de juegos de video o electrónicas;
 
@@ -11031,7 +11203,7 @@ Cantina es todo establecimiento dedicado específicamente a la venta y consumo d
 
 ###### ARTÍCULO 1201.
 
-En las cantinas y bares se permitirán los juegos de mesa tales como; ajedrez, damas chinas, dominó y cubilete, sin apuestas; pueden instalarse aparatos de de radio, televisores, fonoeléctricos y similares, siempre que funcionen a un volumen de sonido moderado, y que los mismos no sean atentatorios a la moral y buenas costumbres, entendiéndose por esto, aquellos donde exhiban escenas de contenido erótico o que inciten al sexo. Esta prohibición es aplicable a todos los establecimientos regulados en el presente capitulo.
+En las cantinas y bares se permitirán los juegos de mesa tales como; ajedrez, damas chinas, dominó y cubilete, sin apuestas; pueden instalarse aparatos de radio, televisores, fonoeléctricos y similares, siempre que funcionen a un volumen de sonido moderado, y que los mismos no sean atentatorios a la moral y buenas costumbres, entendiéndose por esto, aquellos donde exhiban escenas de contenido erótico o que inciten al sexo. Esta prohibición es aplicable a todos los establecimientos regulados en el presente capitulo.
 
 ###### ARTÍCULO 1202.
 
@@ -11071,11 +11243,11 @@ Las tiendas de abarrotes, misceláneas, ultramarinos, mini super y supermercados
 
 ###### ARTÍCULO 1211.
 
-Los restaurantes, Ioncherías y cenadurías, previa licencia podrán expender bebidas alcohólicas de cualquier graduación sólo con alimentos, en un horario de las siete a las veintidós horas los primeros, las loncherías de nueve a veintidós y las cenadurías de dieciocho a las veintidós horas.
+Los restaurantes, loncherías y cenadurías, previa licencia podrán expender bebidas alcohólicas de cualquier graduación sólo con alimentos, en un horario de las siete a las veintidós horas los primeros, las loncherías de nueve a veintidós y las cenadurías de dieciocho a las veintidós horas.
 
 ###### ARTÍCULO 1212.
 
-En las fondas, Ioncherías y cenadurías, se permitirá libre acceso a los músicos y trovadores que cuenten con el permiso correspondiente.
+En las fondas, loncherías y cenadurías, se permitirá libre acceso a los músicos y trovadores que cuenten con el permiso correspondiente.
 
 ###### ARTÍCULO 1213.
 
@@ -11339,7 +11511,7 @@ I. Respetar el lugar y el horario que le sea asignado, en el permiso correspondi
 
 II. Dejar perfectamente limpia y aseada el área donde desempeña su actividad;
 
-lll. Utilizar el agua de manera racional, evitando el desperdicio;
+III. Utilizar el agua de manera racional, evitando el desperdicio;
 
 IV. Respetar las limitaciones que les establezca el permiso o licencia correspondiente, y las que les imponga el presente Código;
 
@@ -11475,7 +11647,9 @@ III. Documentación que acredite la propiedad o legítima posesión del inmueble
 
 IV. Constancia de alineamiento y compatibilidad de uso de suelo expedido por la Secretaría de Desarrollo Urbano Municipal;
 
-V. Dictamen Técnico expedido por la Dirección de la Unidad de Protección Civil Municipal;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+
+V. Dictamen Técnico expedido por la Coordinación Municipal de Protección Civil;
 
 VI. Número de cajones de estacionamiento;
 
@@ -12217,7 +12391,7 @@ XII. Reparación del daño, en su caso;
 
 XIII. Aseguramiento de mercancías u objetos cuya venta se realice en contravención a lo dispuesto en el presente Código; y,
 
-XlV. El arresto hasta por 36 horas.
+XIV. El arresto hasta por 36 horas.
 
 ###### ARTÍCULO 1352.
 
@@ -12273,7 +12447,7 @@ Constituye una falta de policía y buen gobierno la acción u omisión, individu
 
 Para efectos del presente Titulo, se entenderá por lugares públicos, todo espacio de uso común y de libre tránsito, incluyendo las plazas, los mercados y los jardines; los inmuebles de acceso general tales como establecimientos comerciales, centros de espectáculos, diversión o recreo, así como los transportes de servicio público.
 
-#### SECCIÓN CUARTA. De las Faltas Contra la Moral y el Civismo
+#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad Pública
 
 ###### ARTÍCULO 1360.
 
@@ -12319,7 +12493,7 @@ XIX. Deambular en notorio estado de intoxicación producido por sustancias estim
 
 XX. Obstruir calles, avenidas, calzadas, puentes u otros lugares públicos sin permiso de la autoridad correspondiente.
 
-#### SECCIÓN QUINTA. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
+#### SECCIÓN SEGUNDA. De las Faltas Contra la Tranquilidad
 
 ###### ARTÍCULO 1361.
 
@@ -12351,11 +12525,11 @@ XII. Efectuar trato diferenciado entre mujeres y hombres en la prestación de cu
 
 XIII. Realizar actos de violencia contra las mujeres en el Municipio, en los términos de la legislación del Estado que regula y define las modalidades y tipos de la violencia de Género;
 
-XlV. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda incitar a algún tipo de violencia, y,
+XIV. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda incitar a algún tipo de violencia, y,
 
 XV. Realizar acoso contra las mujeres, siempre y cuando no constituyan algún ilícito previsto por la Legislación Penal vigente para el Estado de Aguascalientes.
 
-#### SECCIÓN PRIMERA. De las Sanciones en Materia de Servicios Públicos
+#### SECCIÓN TERCERA. De las Faltas Contra la Salubridad
 
 ###### ARTÍCULO 1362.
 
@@ -12375,7 +12549,7 @@ VI. Ejecutar matanza y destazar animales o bien cocinarlos en la vía pública.
 
 Además de las prevenciones contenidas en este artículo se aplicará lo conducente de conformidad al reglamento del limpia.
 
-#### SECCIÓN SEGUNDA. De las Sanciones en Materia de Desarrollo Urbano
+#### SECCIÓN CUARTA. De las Faltas Contra la Moral y el Civismo
 
 ###### ARTÍCULO 1363.
 
@@ -12401,7 +12575,7 @@ IX. Permitir, inducir u obligar a menores de edad para que cometan faltas al pre
 
 X. Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, tóxicos o solventes en cualquier modalidad sin perjuicio de lo dispuesto en otras disposiciones jurídicas.
 
-#### SECCIÓN TERCERA. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+#### SECCIÓN QUINTA. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
 
 ###### ARTÍCULO 1364.
 
@@ -12517,7 +12691,7 @@ El Juez Calificador también podrá imponer como medida de seguridad a los infra
 
 ### CAPÍTULO III. De las Infracciones Administrativas
 
-#### SECCIÓN CUARTA. De las Sanciones en Materia de Espectáculos Públicos
+#### SECCIÓN PRIMERA. De las Sanciones en Materia de Servicios Públicos
 
 ###### ARTÍCULO 1386.
 
@@ -12541,7 +12715,7 @@ b) Por permanecer en los panteones bajo el influjo de alcohol, enervantes, narc�
 
 c) Por profanar fosas en los cementerios, independientemente de su consignación al Ministerio Público y el pago de los daños causados.
 
-#### SECCIÓN QUINTA. De las Sanciones en Materia de Comercio en la Vía Pública
+#### SECCIÓN SEGUNDA. De las Sanciones en Materia de Desarrollo Urbano
 
 ###### ARTÍCULO 1387.
 
@@ -12555,7 +12729,7 @@ III. Cuando el propietario o poseedor de una construcción señalada como peligr
 
 IV. Cuando se invada la vía pública con una construcción;
 
-V. Cuando no se cuente con la licencia de construcción o la obre (sic) no se ajuste al contenido de ésta; y,
+V. Cuando no se cuente con la licencia de construcción o la (sic) obre no se ajuste al contenido de ésta; y,
 
 VI. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
 
@@ -12569,7 +12743,7 @@ Si el propietario o poseedor del predio en el que la Dirección de Obras Públic
 
 ###### ARTÍCULO 1390.
 
-Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección Obras (sic) Públicas podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
+Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección (sic) Obras Públicas podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
 
 I. Cuando la obra se haya ejecutado sin licencia;
 
@@ -12663,7 +12837,7 @@ III. Se hayan emitido por autoridad incompetente; y,
 
 IV. La revocación de licencia será pronunciada por la autoridad que haya emitido el acto o resolución de que se trate o en su caso, por el superior jerárquico de dicha autoridad.
 
-#### SECCIÓN SEXTA. De las Sanciones en Materia de Protección Civil
+#### SECCIÓN TERCERA. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
 
 ###### ARTÍCULO 1398.
 
@@ -12783,7 +12957,7 @@ IV. La reincidencia del Infractor.
 
 Una vez oído al presunto infractor y desahogadas las pruebas ofrecidas y admitidas, se procederá dentro de los diez días siguientes a dictar por escrito la resolución que proceda, la cual se deberá de notificar de manera personal o correo certificado, en términos del presente libro.
 
-#### SECCIÓN SÉPTIMA. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas Administrativas
+#### SECCIÓN CUARTA. De las Sanciones en Materia de Espectáculos Públicos
 
 ###### ARTÍCULO 1404.
 
@@ -12837,6 +13011,8 @@ b) Por alteración del orden que ponga en peligro la seguridad de los asistente;
 
 c) Por detectar el consumo de bebidas alcohólicas sin autorización, de drogas, apuestas o cualquier otra actividad ilícita.
 
+#### SECCIÓN QUINTA. De las Sanciones en Materia de Comercio en la Vía Pública
+
 ###### ARTÍCULO 1405.
 
 Se sancionará de uno a diez veces el salario mínimo general vigente en el Estado de Aguascalientes, suspensión, y/o o cancelación de las actividades del giro, según amerite el caso, cuando:
@@ -12851,7 +13027,7 @@ IV. La falta de pago de los derechos sin causa justificada a la autoridad munici
 
 V. El comerciante o tianguista, cambie el giro, altere la superficie o los días autorizados; y,
 
-VI. El ejercicio de la actividad comercial represente un peligro a la seguridad, comodidad, salud y buenas costumbres de las personas.1405
+VI. El ejercicio de la actividad comercial represente un peligro a la seguridad, comodidad, salud y buenas costumbres de las personas.
 
 ###### ARTÍCULO 1406.
 
@@ -12909,6 +13085,8 @@ Cuando se encuentre algún bien mueble o la estructura del puesto o establecimie
 
 Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo contamine la imagen de la Ciudad.
 
+#### SECCIÓN SEXTA. De las Sanciones en Materia de Protección Civil
+
 ###### ARTÍCULO 1413.
 
 Se aplicarán las sanciones de clausura definitiva, y revocación de la licencia permiso para operar o construir a quienes en un periodo de seis meses reincidan En las mismas infracciones previstas por este ordenamiento.
@@ -12928,6 +13106,8 @@ En todos aquellos casos en que al ocurrir un siniestro, existan responsables, si
 ###### ARTÍCULO 1417.
 
 Se aplicarán las sanciones pecuniarias en los montos establecidos en el apartado correspondiente a la Protección Civil.
+
+#### SECCIÓN SÉPTIMA. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas Administrativas
 
 ###### ARTÍCULO 1418.
 
@@ -13149,7 +13329,7 @@ Al infractor se le notificará que cuenta con el término de treinta días natur
 
 ###### ARTÍCULO 1455.
 
-En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá como abandonadas y se procederá, por conducto del Juez calificador a su donación y entrega del Sistema D.l.F. Municipal para la beneficencia pública, cuando el valor dejas objetos no exceda de diez días de salario mínimo general vigente en el Estado.
+En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá como abandonadas y se procederá, por conducto del Juez calificador a su donación y entrega del Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor dejas objetos no exceda de diez días de salario mínimo general vigente en el Estado.
 
 Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Dirección de Finanzas. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
 
@@ -13277,7 +13457,7 @@ I. Si el particular afirma conocer el acto administrativo materia de la notifica
 
 II. En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación;
 
-III. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo correspondiente ante la autoridad competente para notificar dicho acto. La (sic) citado autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en el que se le deba dar a conocer y el nombre de la persona autorizada para recibirlo, en su caso, si no se señalare domicilio, la autoridad dará a conocer el acto mediante notificación por edictos; si no señalare persona autorizada, se hará mediante notificación personal;
+III. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo correspondiente ante la autoridad competente para notificar dicho acto. La citado (sic) autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en el que se le deba dar a conocer y el nombre de la persona autorizada para recibirlo, en su caso, si no se señalare domicilio, la autoridad dará a conocer el acto mediante notificación por edictos; si no señalare persona autorizada, se hará mediante notificación personal;
 
 IV La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo;
 
@@ -13338,3 +13518,11 @@ Juan Reyes Rodríguez.
 Lic. Pedro González Reyes,
 
 SECRETARIO DEL HONORABLE AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2015.
+
+###### ARTICULO UNICO
+
+Las presentes reformas y adiciones al Código Municipal de San José de Gracia, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
