@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-para-el-estado-de-oaxaca-96002"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-30"
-last_updated: "2015-01-02"
+last_updated: "2015-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA LEY, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2015 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 877 PUBLICADO EN EL P.O. DE 2 DE ENERO DE 2015.</small>
 
 Ley publicada en el número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de agosto del año 2013.
 
