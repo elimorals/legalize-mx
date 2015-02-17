@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-cinematografia-9647
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-11-06"
-last_updated: "2013-11-06"
+last_updated: "2015-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-09-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE CINEMATOGRAFÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE FEBRERO DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de noviembre de 2013.
 
@@ -279,7 +279,9 @@ X. Presentar los informes a la Junta Directiva de las actividades realizadas y d
 
 XI. Participar en las sesiones de los órganos de gobierno de Estudios Churubusco Azteca, S.A., y Centro de Capacitación Cinematográfica, A.C.; en los Comités Técnicos del Fideicomiso para la Cineteca Nacional; del Fondo para la Producción Cinematográfica de Calidad. (FOPROCINE); del Fondo de Inversión y Estímulos al Cine (FIDECINE), así como en aquellos en los que se establezca su intervención y en el Comité Interinstitucional para la Aplicación del Estímulo Fiscal a Proyectos de Inversión en la Producción Cinematográfica Nacional (CIEFICINE);
 
-XII. Presidir el Comité Técnico de El FIDECINE, así como fungir como Secretario Ejecutivo de El FOPROCINE;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2015)</small>
+
+XII. Presidir el Comité Técnico de El FIDECINE.
 
 XIII. Expedir el Manual General de Organización de El Instituto, así como también aquellos manuales de procedimientos y servicios, necesarios para el mejor funcionamiento de la entidad;
 
@@ -291,7 +293,7 @@ XVI. Promover la formación de comisiones y consejos específicos, de carácter 
 
 XVII. Instruir a la Dirección Jurídica registrar el Manual General de Organización, Políticas, Lineamientos, Procedimientos, Guías Técnicas que expidan las áreas de El Instituto y sus fideicomisos, que contribuyan a la modernización de la gestión administrativa de la entidad, y
 
-XVIII. Las demás que expresamente le confieren El Estatuto, los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales, y otras leyes u ordenamientos aplicables; (sic)
+XVIII. Las demás que expresamente le confieren El Estatuto, los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales, y otras leyes u ordenamientos aplicables;
 
 ### CAPÍTULO V. DE LA COORDINACIÓN GENERAL
 
@@ -339,9 +341,13 @@ XIX. Coordinar el establecimiento y operación del programa interno de protecci�
 
 XX. Integrar, dar seguimiento y evaluar el programa anual de actividades para la transparencia y rendición de cuentas de El Instituto;
 
-XXI. Establecer y mantener relaciones de coordinación con la Cámara Nacional de la Industria Cinematográfica y del Videograma, así como con instituciones públicas y privadas del sector cinematográfico, a fin de concertar las acciones que coadyuven a la ejecución de los programas a cargo de El Instituto, y entidades coordinadas;
+> <small>(ADICIONADA, D.O.F. 17 DE FEBRERO DE 2015)</small>
 
-XXII. Las demás que en la materia de su competencia le sean autorizadas por acuerdo expreso del Director General o que le asigne El Estatuto.
+XXI. Fungir como la unidad responsable del FIDECINE, para efectos de aplicación de recursos, actualización y renovación de clave de registro y, transparencia; en términos de lo dispuesto por el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; así como otorgar las manifestaciones a que se refiere el inciso i) de la Cláusula Séptima del Contrato Constitutivo del FIDECINE.
+
+XXII. Establecer y mantener relaciones de coordinación con la Cámara Nacional de la Industria Cinematográfica y del Videograma, así como con instituciones públicas y privadas del sector cinematográfico, a fin de concertar las acciones que coadyuven a la ejecución de los programas a cargo de El Instituto, y entidades coordinadas;
+
+XXIII. Las demás que en la materia de su competencia le sean autorizadas por acuerdo expreso del Director General o que le asigne El Estatuto.
 
 ### CAPÍTULO VI. DE LAS DIRECCIONES DE ÁREA
 
@@ -389,7 +395,7 @@ VI. Participar en la elaboración, revisión y dictamen de los proyectos de leye
 
 VII. Fungir como prosecretario, en el caso de que sea designado, de la Junta Directiva de El Instituto y realizar las actividades que de su cargo se deriven; y, en su caso, apoyar a Estudios Churubusco Azteca, S.A., Centro de Capacitación Cinematográfica, A.C., y al Fideicomiso para la Cineteca Nacional, en lo relativo a sus órganos de gobierno y asambleas generales, cuando así lo requieran.
 
-VIII. Fungir como Secretario de Actas, en su caso, de los fideicomisos Fondo para la Producción Cinematográfica de Calidad (FOPROCINE), y Fondo de Inversión y Estímulos al Cine (FIDECINE);
+VIII. (DEROGADA, D.O.F. 17 DE FEBRERO DE 2015)
 
 IX. Asistir a las sesiones de los comités de apoyo de la entidad;
 
@@ -683,13 +689,15 @@ XXXI. Participar en el control, planeación, programación, presupuestación y e
 
 XXXII. Las demás que le encomiende el Director General del Instituto y el presente Estatuto.
 
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 23.
 
 Corresponde a la Dirección de Apoyo a la Producción Cinematográfica, el ejercicio de las atribuciones siguientes:
 
 I. Implementar el programa anual de producción y de estímulo a los creadores cinematográficos, previa autorización de la Dirección General;
 
-II. Actualizar periódicamente las reglas de operación y evaluación y demás disposiciones de los programas de apoyo que coordine;
+II. Actualizar periódicamente las reglas de operación y evaluación del FOPROCINE y demás disposiciones de los programas de apoyo que coordine;
 
 III. Recibir, analizar, diseñar e integrar cada proyecto cinematográfico como una unidad autónoma de trabajo, con características y requerimientos propios;
 
@@ -705,49 +713,49 @@ VIII. Determinar, en coordinación con la Dirección de Finanzas, Evaluación y 
 
 IX. Proporcionar a las Direcciones de Promoción Cultural Cinematográfica y de Proyectos y Eventos Internacionales, según corresponda, los materiales y documentos, establecidos en los contratos firmados con cada producción fílmica, que puedan contribuir a la generación de materiales promocionales necesarios para la distribución de los filmes;
 
-X. Participar en las sesiones de las Comisiones Consultivas de FOPROCINE y del Consejo Interno del IMCINE para conocer las características y cualidades creativas y técnicas, así como la viabilidad de los proyectos cinematográficos que se presenten; y colaborar con la Dirección General en la revisión y firma de los dictámenes finales del EFICINE;
+X. Fungir como Secretario Ejecutivo del FOPROCINE, y realizar todas las acciones inherentes al cargo.
 
-XI. Integrar el anteproyecto de presupuesto anual de la Dirección y tramitar su autorización a través del área correspondiente, de acuerdo con los lineamientos, políticas y normas establecidas por la Dirección General;
+XI. Fungir como la unidad responsable del FOPROCINE, para efectos de aplicación de recursos, actualización y renovación de clave de registro y, transparencia; en términos de lo dispuesto por el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; así como otorgar las manifestaciones a que se refiere el inciso i) de la Cláusula Séptima del Contrato Constitutivo del FOPROCINE.
 
-XII. Elaborar y solicitar la reprogramación del presupuesto, con base en los recursos fiscales y propios;
+XII. Participar en las sesiones de las Comisiones Consultivas de FOPROCINE y del Consejo Interno del IMCINE para conocer las características y cualidades creativas y técnicas, así como la viabilidad de los proyectos cinematográficos que se presenten; y colaborar con la Dirección General en la revisión y firma de los dictámenes finales del EFICINE;
 
-XIII. Proponer y convocar, cuando se estime necesario, a escritores, guionistas, cineastas, estudiantes de cine y productores privados de cortometrajes en general, a presentar proyectos para su posible realización o coproducción, de acuerdo con los lineamientos previamente establecidos por la Dirección General;
+XIII. Integrar el anteproyecto de presupuesto anual de la Dirección y tramitar su autorización a través del área correspondiente, de acuerdo con los lineamientos, políticas y normas establecidas por la Dirección General;
 
-XIV. Proponer a la Dirección General la creación de Órganos Internos de Consulta y Evaluación para la selección de proyectos para apoyo a la producción o postproducción de cortometrajes y largometrajes, conforme a lo establecido en la fracción XV del artículo 14 de El Estatuto;
+XIV. Elaborar y solicitar la reprogramación del presupuesto, con base en los recursos fiscales y propios;
 
-XV. Reportar a las Direcciones de Finanzas, Evaluación y Rendición de Cuentas, y Jurídica, cuando los cortometrajes o largometrajes sean concluidos en su totalidad, para el cierre de los registros contables correspondientes y el registro de la obra, cuando sea procedente, respectivamente;
+XV. Proponer y convocar, cuando se estime necesario, a escritores, guionistas, cineastas, estudiantes de cine y productores privados de cortometrajes en general, a presentar proyectos para su posible realización o coproducción, de acuerdo con los lineamientos previamente establecidos por la Dirección General;
 
-XVI. Seleccionar y solicitar la contratación de los realizadores, productores y asistentes, que se harán cargo de la planeación, realización y coordinación de los proyectos programados, previa autorización de la Dirección General, cuando se trate de proyectos que El Instituto produzca en forma directa;
+XVI. Proponer a la Dirección General la creación de Órganos Internos de Consulta y Evaluación para la selección de proyectos para apoyo a la producción o postproducción de cortometrajes y largometrajes, conforme a lo establecido en la fracción XV del artículo 14 de El Estatuto;
 
-XVII. Supervisar y dar seguimiento a las listas de necesidades, presupuestos, planes de trabajo y programación de gastos de los cortometrajes y largometrajes autorizados;
+XVII. Reportar a las Direcciones de Finanzas, Evaluación y Rendición de Cuentas, y Jurídica, cuando los cortometrajes o largometrajes sean concluidos en su totalidad, para el cierre de los registros contables correspondientes y el registro de la obra, cuando sea procedente, respectivamente;
 
-XVIII. Proporcionar a la Dirección de Finanzas, Evaluación y Rendición de Cuentas, previa autorización de la Dirección General, los presupuestos reales que contemplen los recursos a ejercer de los cortometrajes o largometrajes autorizados;
+XVIII. Seleccionar y solicitar la contratación de los realizadores, productores y asistentes, que se harán cargo de la planeación, realización y coordinación de los proyectos programados, previa autorización de la Dirección General, cuando se trate de proyectos que El Instituto produzca en forma directa;
 
-XIX. Acordar con la Dirección de Finanzas, Evaluación y Rendición de Cuentas, la programación, ministración, comprobación y justificación de los recursos financieros que se requieran para el cumplimiento de los programas de trabajo y presupuestos autorizados;
+XIX. Supervisar y dar seguimiento a las listas de necesidades, presupuestos, planes de trabajo y programación de gastos de los cortometrajes y largometrajes autorizados;
 
-XX. Coordinar y controlar, de acuerdo con el plan de trabajo autorizado, las diferentes etapas de la producción de los cortometrajes y largometrajes;
+XX. Proporcionar a la Dirección de Finanzas, Evaluación y Rendición de Cuentas, previa autorización de la Dirección General, los presupuestos reales que contemplen los recursos a ejercer de los cortometrajes o largometrajes autorizados;
 
-XXI. Proponer la realización de investigaciones y cursos de capacitación que permitan al personal de la Dirección conocer y aplicar las nuevas técnicas, recursos, medios, efectos especiales y sistemas de producción y post-producción en la realización de los cortometrajes y largometrajes autorizados;
+XXI. Acordar con la Dirección de Finanzas, Evaluación y Rendición de Cuentas, la programación, ministración, comprobación y justificación de los recursos financieros que se requieran para el cumplimiento de los programas de trabajo y presupuestos autorizados;
 
-XXII. Comunicar a las Direcciones de Promoción Cultural Cinematográfica y de Proyectos y Eventos Internacionales, el calendario de conclusión de proyectos para la divulgación y participación de los cortometrajes y largometrajes producidos por El Instituto y/o EL FOPROCINE en festivales y eventos cinematográficos, nacionales e internacionales;
+XXII. Coordinar y controlar, de acuerdo con el plan de trabajo autorizado, las diferentes etapas de la producción de los cortometrajes y largometrajes;
 
-XXIII. Participar en el Comité de Comercialización para conocer los términos y las condiciones de venta a nivel nacional e internacional de los cortometrajes y largometrajes producidos por El Instituto;
+XXIII. Proponer la realización de investigaciones y cursos de capacitación que permitan al personal de la Dirección conocer y aplicar las nuevas técnicas, recursos, medios, efectos especiales y sistemas de producción y post-producción en la realización de los cortometrajes y largometrajes autorizados;
 
-XXIV. Coordinar con la Dirección de Promoción Cultural Cinematográfica, la Cineteca Nacional, así como con los Estudios Churubusco Azteca, S.A., el manejo y control del acervo de cortometrajes y largometrajes de El Instituto;
+XXIV. Comunicar a las Direcciones de Promoción Cultural Cinematográfica y de Proyectos y Eventos Internacionales, el calendario de conclusión de proyectos para la divulgación y participación de los cortometrajes y largometrajes producidos por El Instituto y/o EL FOPROCINE en festivales y eventos cinematográficos, nacionales e internacionales;
 
-XXV. Participar en las sesiones de los comités de apoyo de la entidad;
+XXV. Participar en el Comité de Comercialización para conocer los términos y las condiciones de venta a nivel nacional e internacional de los cortometrajes y largometrajes producidos por El Instituto;
 
-XXVI. Fungir como miembro del Comité Técnico del FOPROCINE;
+XXVI. Coordinar con la Dirección de Promoción Cultural Cinematográfica, la Cineteca Nacional, así como con los Estudios Churubusco Azteca, S.A., el manejo y control del acervo de cortometrajes y largometrajes de El Instituto;
 
-XXVII. Integrar toda la información de los proyectos susceptibles de apoyos para el Comité Técnico del FOPROCINE;
+XXVII. Participar en las sesiones de los comités de apoyo de la entidad;
 
-XXVIII. Llevar los registros y controles de las películas apoyadas con recursos del FOPROCINE;
+XXVIII. Integrar toda la información de los proyectos susceptibles de apoyos para el Comité Técnico del FOPROCINE;
 
-XXIX. Dar seguimiento y atención a las diversas etapas de producción de películas apoyadas por el FOPROCINE;
+XXIX. Llevar los registros y controles de las películas apoyadas con recursos del FOPROCINE;
 
-XXX. Solicitar, en su caso, de los coproductores del FOPROCINE la información y documentación que sea necesaria para conocer el estado de las producciones, tanto en el aspecto técnico, como financiero;
+XXX. Dar seguimiento y atención a las diversas etapas de producción de películas apoyadas por el FOPROCINE;
 
-XXXI. Apoyar a la Secretaría Ejecutiva del FOPROCINE con todas las actividades relacionadas con la operación del Fideicomiso;
+XXXI. Solicitar, en su caso, de los coproductores del FOPROCINE la información y documentación que sea necesaria para conocer el estado de las producciones, tanto en el aspecto técnico, como financiero;
 
 XXXII. Realizar las actividades de promoción y difusión de México, para la atracción de Proyectos Audiovisuales al país;
 
@@ -814,3 +822,11 @@ Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de 
 Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
 
 Aprobado por la H. Junta Directiva del Instituto Mexicano de Cinematografía en su tercera sesión ordinaria del año dos mil trece, celebrada el día veintitrés de septiembre de dos mil trece.- El Presidente Suplente de la Junta Directiva del Instituto Mexicano de Cinematografía, Francisco Cornejo Rodríguez.- Rúbrica.- El Secretario Técnico, Armando Garduño Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE FEBRERO DE 2015.
+
+Primero.- Las presentes modificaciones al Estatuto Orgánico del Instituto Mexicano de Cinematografía entrarán en vigor al día siguiente de su aprobación por su Junta Directiva, debiéndose publicar en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las demás disposiciones internas de carácter administrativo que se opongan a lo previsto en las presentes modificaciones.
