@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2015-01-02"
+last_updated: "2015-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 877 PUBLICADO EN EL P.O. DE 2 DE ENERO DE 2015.</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -879,7 +879,7 @@ B) Satisfechos los requisitos de la solicitud, la Comisión citará a los denunc
 
 Si transcurrido el plazo para contestar sin que se hubiere producido ésta, y sin necesidad de acuse, se hará la declaración de rebeldía y se presumirán confesos los hechos de la solicitud que se dejaron de contestar.
 
-C) Concluido el plazo para de la (sic) contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
+C) Concluido el plazo para de (sic) la contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
 
 Podrán aceptarse pruebas supervenientes a juicio de la Comisión cuando fuesen desconocidas a la fecha de la presentación de la solicitud o habiéndose anunciado hubiesen motivos justificados para no haberlos exhibido en tiempo. La Comisión, en todo tiempo tiene amplia facultad para allegarse los elementos probatorios que estime eficaces e idóneos.
 
@@ -1605,7 +1605,7 @@ Las Leyes de Ingresos Municipales una vez aprobadas por el Congreso del Estado t
 
 ###### ARTÍCULO 123.
 
-La iniciativa de laLey de Ingresos municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos municipales deberá aprobarse por la mayoría calificada del cabildo para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año.
+La iniciativa de la Ley de Ingresos municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos municipales deberá aprobarse por la mayoría calificada del cabildo para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año.
 
 En caso de que la iniciativa de Ley de Ingresos municipales no se apruebe por la Legislatura a mas tardar el 31 de diciembre del año inmediato anterior al en que deba entrar en vigor, se prorrogará por treinta días naturales la última ley de ingresos publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, previniendo al Ayuntamiento para que subsane su omisión.
 
