@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-general-de-gobierno-del-745
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-19"
-last_updated: "2010-01-19"
+last_updated: "2015-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 19 de enero de 2010.
 
@@ -761,7 +763,7 @@ VIII. Procurar que los ejemplares de los Periódicos Oficiales y demás impresos
 
 IX. Realizar con eficiencia y calidad los trabajos de encuadernación de libros, periódicos oficiales, revistas, folletos, membretes y bloks;
 
-X. Suministrar mantenimiento preventivo y correctivo a la maquinaria y demás equipo (sic) de los Talleres Gráficos, para el cumplimiento de las tareas encomendadas;
+X. Suministrar mantenimiento preventivo y correctivo a la maquinaria y demás equipo de los Talleres Gráficos, para el cumplimiento de las tareas encomendadas;
 
 XI. Controlar las entradas y salidas del material que se utiliza en la elaboración del Periódico, así como la existencia de los Periódicos en el almacén que para tal efecto exista; y
 
@@ -898,3 +900,17 @@ ING. JORGE TOLEDO LUIS
 EL SECRETARIO DE ADMINISTRACIÓN
 
 LIC. JOSÉ ANTONIO ESTEFAN GARFIAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interno de la Secretaría General de Gobierno, del Poder Ejecutivo del Estado de Oaxaca, publicado con fecha diecinueve de enero de dos mil diez, en el Extra del Periódico Oficial del Gobierno del Estado.
+
+CUARTO. Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de un Área Administrativa u Órgano Administrativo Desconcentrado a otro u otros, continuarán su trámite y serán resueltos por aquella o aquellas áreas administrativas u órganos a los que se les haya atribuido la competencia correspondiente en este Reglamento.
+
+QUINTO. Las menciones que las leyes, reglamentos y demás disposiciones jurídicas hagan de Servidores Públicos, áreas administrativas y órganos desconcentrados, cuya denominación, facultades o funciones se vean modificadas con motivo de la entrada en vigor de este Reglamento, se entenderán referidas a los Servidores Públicos, áreas administrativas y órganos desconcentrados que, conforme al mismo, sean competentes en la materia de que se trate.
