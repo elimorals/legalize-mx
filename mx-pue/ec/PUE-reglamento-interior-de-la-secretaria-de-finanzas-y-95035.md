@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-finanzas-y-95035"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-28"
-last_updated: "2013-06-28"
+last_updated: "2015-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 28 de junio de 2013.
 
@@ -51,7 +51,7 @@ También tiene por objeto, especificar las atribuciones que ejercerá cada unida
 
 ###### ARTÍCULO 2.
 
-Para efectos del presente Reglamento se entenderá por Secretaría o Dependencia, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla; Gobernador, al Titular del Poder Ejecutivo del Estado Libre y Soberano de Puebla, por Secretario, al Titular de la misma; (sic)
+Para efectos del presente Reglamento se entenderá por Secretaría o Dependencia, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla; Gobernador, al Titular del Poder Ejecutivo del Estado Libre y Soberano de Puebla, por Secretario, al Titular de la misma;
 
 ###### ARTÍCULO 3.
 
@@ -93,11 +93,29 @@ c) Dirección de Ingresos
 
 3. Subdirección de Orientación y Asistencia al Contribuyente
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+3.1. Oficinas Recaudadoras y de Asistencia al Contribuyente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+3.1.1. Oficinas Receptoras de Pago.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+4. Subdirección de Contabilidad de Ingresos.
+
 d) Dirección de Recaudación.
 
-1. Subdirección de Recaudación
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+1. Subdirección de Cobro Persuasivo y Coactivo.
 
 1.1. Departamento Técnico de Ejecución
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+1.1.1. Administraciones de Recaudación.
 
 1.2. Oficinas Recaudadoras y de Asistencia al Contribuyente
 
@@ -113,7 +131,13 @@ e) Dirección de Fiscalización
 
 4. Subdirección de Programación, Evaluación y Análisis
 
-f) Dirección de Verificación de Comercio Exterior
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+5. Subdirección de Procedimientos Legales de Fiscalización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+f) Dirección de Comercio Exterior.
 
 1. Subdirección Técnica de Comercio Exterior
 
@@ -265,11 +289,15 @@ X.- Emitir reglas de carácter general, acuerdos, circulares, normatividad, line
 
 XI.- Recibir en acuerdo a los titulares de las Unidades Administrativas de la Secretaría, para que informen el trámite y resolución de los asuntos de su respectiva competencia;
 
-XII.- Definir la circunscripción territorial de las Oficinas Recaudadoras y de Asistencia al Contribuyente;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XII.- Establecer, reubicar, adscribir o suprimir las Oficinas Registrales y/o Catastrales del Estado; las Oficinas Recaudadoras y de Asistencia al Contribuyente, y las Administraciones de Recaudación; así como definir su circunscripción territorial, en los casos que proceda;
 
 XIII.- Ejercer las atribuciones que en materia fiscal, administrativa y de coordinación hacendaria, contengan los ordenamientos vigentes, los convenios y sus anexos suscritos entre el Gobierno del Estado con la Federación o los Municipios por sí o a través de las Unidades Administrativas que conforme a este Reglamento son facultadas para tal fin;
 
-XIV.- Coordinar con las Dependencias, Entidades Paraestatales y demás organismos a los que correspondan el fomento de las actividades productivas, la elaboración y establecimiento de programas para el otorgamiento de subsidios y estímulos fiscales, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIV.- Coordinar con las Dependencias, Entidades Paraestatales y demás organismos a los que corresponda el fomento de las actividades productivas, la elaboración y establecimiento de programas para el otorgamiento de subsidios, beneficios y/o estímulos fiscales, de conformidad con las disposiciones legales aplicables;
 
 XV.- Autorizar la elaboración de los sistemas, estudios administrativos y técnicos que se requieran para la operación de la Secretaría, previo análisis, propuesta y autorización del Titular del área solicitante;
 
@@ -565,9 +593,17 @@ XXI.- Requerir a cualquier servidor público de la Secretaría, su colaboración
 
 XXII.- Coordinar con las Unidades Administrativas de la Secretaría, la substanciación de las recomendaciones emitidas por la Comisión Nacional de Derechos Humanos o por la Comisión de Derechos Humanos del Estado de Puebla, en relación a la imputación de violaciones a los derechos humanos por parte de los servidores públicos pertenecientes a alguna unidad administrativa de la Dependencia y dar seguimiento a las mismas;
 
-XXIII.- Denunciar, intervenir y/o tramitar las sucesiones testamentarias o intestamentarias en aquellos asuntos susceptibles de incrementar el patrimonio del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XXIV.- Iniciar las acciones judiciales para la regularización de la situación jurídica de los bienes muebles o inmuebles en posesión o al cuidado del Gobierno del Estado, con base en la documentación e información proporcionada por las áreas correspondientes.
+XXIII.- Denunciar, intervenir y/o tramitar las sucesiones testamentarias o intestamentarias en aquellos asuntos susceptibles de incrementar el patrimonio del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIV.- Iniciar las acciones judiciales para la regularización de la situación jurídica de los bienes muebles o inmuebles en posesión o al cuidado del Gobierno del Estado, con base en la documentación e información proporcionada por las áreas correspondientes, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXV.- Supervisar la substanciación y trámite de los recursos administrativos de revisión catastral o recursos administrativos registrales, que integre la Dirección de lo Contencioso Administrativo de su adscripción.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -602,6 +638,14 @@ XII.- Elaborar y proponer al Coordinador General Jurídico la substanciación y 
 XIII.- Proponer al Coordinador General Jurídico la denuncia, intervención y, en su caso, tramitación de las sucesiones testamentarias o intestamentarias en aquellos asuntos susceptibles de incrementar el patrimonio del Gobierno del Estado; y
 
 XIV.- Elaborar y proponer al Coordinador General Jurídico, las respuestas a las solicitudes que formulen las Unidades Administrativas de la Secretaría para el cumplimiento de las normas y procedimientos jurídicos que las rijan, así como respecto de la asesoría en la elaboración de documentos de naturaleza jurídica que sean de su competencia.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XV.- Substanciar y tramitar hasta poner en estado de resolución, los recursos administrativos de revisión catastral o recursos administrativos registrales, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVI.- Elaborar y proponer a las Unidades Administrativas competentes del Instituto Registral y Catastral del Estado, de conformidad con las disposiciones legales, la resolución a los recursos administrativos de revisión catastral o recursos administrativos registrales.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE VINCULACIÓN Y SEGUIMIENTO JURÍDICO
 
@@ -727,9 +771,11 @@ XII.- Elaborar y proponer al Procurador Fiscal, por sí o en coordinación con l
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES DE LA SUBSECRETARÍA DE INGRESOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 17.
 
-La Subsecretaría de Ingresos dependerá jerárquicamente del Secretario y estará a cargo de un Titular, quien será auxiliado por las Direcciones de Inteligencia Tributaria, de Apoyo Técnico y Legal, de Ingresos, de Recaudación, de Fiscalización y de Verificación de Comercio Exterior, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
+La Subsecretaría de Ingresos dependerá jerárquicamente del Secretario y estará a cargo de un titular, quien será auxiliado por las Direcciones de Inteligencia Tributaria, de Apoyo Técnico y Legal, de Ingresos, de Recaudación, de Fiscalización y de Comercio Exterior, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
 
 I.- Proponer al Secretario para su aprobación, las políticas de ingresos y de coordinación fiscal, así como los programas que pretenda instrumentar para cada ejercicio fiscal y asignarlos a las Unidades Administrativas que tenga adscritas;
 
@@ -743,7 +789,9 @@ V.- Elaborar y proponer al Secretario, el Presupuesto de Ingresos del Estado;
 
 VI.- Autorizar las políticas, programas, procedimientos, normatividad, reglas de carácter general, lineamientos, criterios y demás disposiciones que sometan a su consideración las Unidades Administrativas de su adscripción;
 
-VII.- Proponer al Secretario, en el ámbito de su competencia y de conformidad con las disposiciones aplicables y la política establecida por el Gobernador, los programas para el otorgamiento de subsidios o estímulos fiscales que habrán de emitirse mediante acuerdo o incluirse en la Ley de Ingresos del Estado para cada ejercicio fiscal;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VII.- Proponer al Secretario, en el ámbito de su competencia y de conformidad con las disposiciones aplicables y la política establecida por el Gobernador, los programas para el otorgamiento de subsidios, beneficios y/o estímulos fiscales que habrán de emitirse mediante acuerdo o incluirse en la Ley de Ingresos del Estado para cada ejercicio fiscal;
 
 VIII.- Someter a la consideración de la Procuraduría Fiscal, la normatividad para la autorización de pago a plazos ya sea diferido o en parcialidades, las devoluciones de cantidades pagadas indebidamente y las demás que legalmente procedan, así como la dispensa del otorgamiento de la garantía del interés fiscal en materia estatal y municipal coordinada, para el trámite correspondiente;
 
@@ -767,9 +815,13 @@ XVII.- Determinar, de conformidad con las disposiciones fiscales y demás aplica
 
 XVIII.- Conocer y resolver, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía del interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
 
-XIX.- Autorizar de conformidad con las disposiciones fiscales y la normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, el pago a plazos, ya sea diferido o en parcialidades de los créditos fiscales estatales, federales y municipales coordinados;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XX.- Revocar, en los casos que proceda y de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las autorizaciones para pagar a plazos, ya sean diferidos o en parcialidades de los créditos fiscales estatales, federales o municipales coordinados;
+XIX.- Autorizar de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las solicitudes de pago diferido o en parcialidades de los créditos fiscales, mediante garantía de su importe y accesorios legales;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XX.- Revocar, en los casos que proceda y de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las autorizaciones de pago diferido o en parcialidades de los créditos fiscales, estatales, federales o municipales coordinados;
 
 XXI.- Conocer y resolver, de conformidad con las disposiciones fiscales y normatividad aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las solicitudes de devolución de cantidades pagadas indebidamente al fisco y las demás que legalmente procedan;
 
@@ -777,15 +829,25 @@ XXII.- Emitir de conformidad con las disposiciones fiscales y normatividad aplic
 
 XXIII.- Conocer y resolver o, en su caso, proponer al Secretario de conformidad con las disposiciones fiscales y la normatividad aplicables, las solicitudes de condonación y exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios estatales y municipales coordinados;
 
-XXIV.- Emitir o en su caso, proponer al Secretario, las resoluciones relativas a las solicitudes de condonación total o parcial de las multas que se impongan con motivo del ejercicio de las facultades delegadas, de conformidad con las disposiciones fiscales y normatividad aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XXV.- Previo acuerdo con la Procuraduría Fiscal, emitir o proponer al Secretario, de conformidad con las disposiciones fiscales y normatividad aplicables los convenios y sus anexos suscritos entre el Estado y la Federación, los acuerdos para modificar o revocar aquellas resoluciones administrativas de carácter individual no favorables a un particular, emitidas por las Direcciones de Ingresos, de Recaudación, de Fiscalización y de Verificación de Comercio Exterior;
+XXIV.- Emitir o en su caso, proponer al Secretario, las resoluciones relativas a las solicitudes de condonación o reducción total o parcial de las multas que se impongan con motivo del ejercicio de las facultades delegadas, de conformidad con las disposiciones fiscales y normatividad aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación;
 
-XXVI.- Resolver, en términos de las disposiciones fiscales y demás aplicables, las solicitudes que presenten los contribuyentes para declarar la extinción de las facultades de las Autoridades Fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, así como para imponer sanciones por infracciones, competencia de la Secretaría, o para declarar la prescripción de los créditos fiscales;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XXVII.- Analizar, autorizar y proponer al Secretario en los casos que proceda, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la cancelación y depuración de los créditos fiscales;
+XXV.- Emitir o proponer al Secretario, de conformidad con las disposiciones fiscales y normatividad aplicables los convenios y sus anexos suscritos entre el Estado y la Federación, los acuerdos para modificar o revocar aquellas resoluciones administrativas de carácter individual no favorables a un particular, emitidas por las Direcciones de Ingresos, de Recaudación, de Fiscalización y de Comercio Exterior;
 
-XXVIII.- Proponer al Secretario, la creación o extinción de Oficinas Recaudadoras y de Asistencia al Contribuyente, así como su circunscripción territorial;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVI.- Resolver de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios y demás aplicables, las solicitudes que presenten los contribuyentes para declarar la extinción de las facultades de las Autoridades Fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, así como para imponer sanciones por infracciones, competencia de la Secretaría, o para declarar la prescripción de los créditos fiscales;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVII.- Analizar, autorizar y proponer al Secretario en los casos que proceda, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la cancelación de los créditos fiscales en las cuentas públicas por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios; así como, de los requerimientos del cumplimiento de obligaciones fiscales que sean notoriamente improcedentes;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVIII.- Proponer al Secretario, el establecimiento, reubicación, adscripción o supresión de las Oficinas Registrales y/o Catastrales del Estado; de las Oficinas Recaudadoras y de Asistencia al Contribuyente y de las Administraciones de Recaudación; así como su circunscripción territorial;
 
 XXIX.- Aprobar los formatos oficiales de avisos, declaraciones, manifiestos, las formas oficiales valoradas, formas oficiales de reproducción restringida y formas oficiales de libre reproducción y los demás documentos requeridos por las disposiciones fiscales;
 
@@ -802,6 +864,22 @@ XXXIV.- Remitir al Secretario para efectos informativos y en los plazos que ést
 XXXV.- Establecer en las Unidades Administrativas de su adscripción, las medidas correctivas con base en los fallos emitidos por las autoridades en materia contenciosa administrativa, así como por autoridades judiciales, para perfeccionar los procedimientos de fiscalización y recaudación; y
 
 XXXVI.- Participar en el ámbito de su competencia, en los organismos de coordinación fiscal federal, estatal o municipal.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXVII.- Proponer al Secretario, en coordinación con la Procuraduría Fiscal, de conformidad con las disposiciones legales, convenios y sus anexos que le correspondan, los acuerdos para conceder subsidios, beneficios o estímulos fiscales;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXVIII.- Coordinar y vigilar el ejercicio de las funciones de (sic) Registro Público de la Propiedad y de Catastro en la Entidad;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXIX.- Habilitar a terceros, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, para que realicen notificaciones personalmente o por correo certificado con acuse de recibo de citatorios, requerimientos, de solicitudes de informes o documentos y de las resoluciones de acuerdos administrativos que puedan ser recurridos y; por correo electrónico cuando dichos actos no constituyan instancia, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XL.- Determinar y liquidar a los contribuyentes, responsables solidarios y demás obligados, las diferencias que hubiere por haber realizado pagos a plazos, diferidos o en parcialidades, sin tener derecho a ello.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN DE INTELIGENCIA TRIBUTARIA
 
@@ -843,21 +921,31 @@ XVI.- Elaborar los informes que la Secretaría deba rendir a las diferentes auto
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE APOYO TÉCNICO Y LEGAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 19.
 
-La Dirección de Apoyo Técnico y Legal dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un Titular, quien será auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
+La Dirección de Apoyo Técnico y Legal, dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un Titular, quien será auxiliado por los notificadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
 
-I.- Elaborar de conformidad con las disposiciones fiscales aplicables, la normatividad, criterios y reglas de carácter general en materia de contribuciones, productos y aprovechamientos estatales y municipales coordinados, y de multas impuestas por autoridades administrativas estatales y someterlas al Subsecretario de Ingresos para su aprobación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-II.- Difundir entre las Dependencias y Entidades de la Administración Pública del Estado ya (sic) las Unidades Administrativas de la Subsecretaría de Ingresos, los criterios y normatividad que deben aplicar en materia de ingresos, para dar cumplimiento a las disposiciones fiscales;
+I.- Elaborar en coordinación con las unidades administrativas de la Subsecretaría de Ingresos, de conformidad con las disposiciones fiscales aplicables, la normatividad, criterios y reglas de carácter general en materia de contribuciones, productos y aprovechamientos estatales y municipales coordinados, y de multas impuestas por autoridades administrativas estatales y someterlos al Subsecretario de Ingresos para su aprobación;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+II.- Difundir entre las Dependencias y Entidades de la Administración Pública del Estado y las Unidades Administrativas de la Subsecretaría de Ingresos, los criterios y normatividad que deben aplicar en materia de ingresos, para dar cumplimiento a las disposiciones fiscales;
 
 III.- Analizar y dar a conocer a las Unidades Administrativas de la Subsecretaría de Ingresos, los criterios dictados por los tribunales en materia fiscal que incidan en las funciones de aquellas, así como los que se reciban de la Procuraduría Fiscal;
 
 IV.- Elaborar y proponer al Subsecretario de Ingresos, los anteproyectos de iniciativas de leyes fiscales estatales, reglamentos, decretos, acuerdos y demás disposiciones jurídicas que en materia de ingresos resulten procedentes, así como de reforma a las mismas;
 
-V.- Conocer y someter a la consideración del Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación y la normatividad aplicable, las resoluciones a las solicitudes de condonación y/o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios estatales, así como de multas federales impuestas en el ejercicio de las facultades delegadas al Estado;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-VI.- Emitir, o en su caso, someter a la consideración del Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las resoluciones a las consultas y solicitudes que formulen los interesados individualmente y por escrito, sobre situaciones reales y concretas en relación a la aplicación de las disposiciones fiscales estatales, federales y municipales coordinadas;
+V.- Conocer y resolver, o en su caso proponer al Subsecretario de Ingresos los proyectos de resolución, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación y la normatividad aplicables a las solicitudes de condonación y/o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios estatales, así como de multas federales impuestas en el ejercicio de las facultades delegadas al Estado;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VI.- Emitir, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las resoluciones a las consultas y solicitudes que formulen los interesados individualmente y por escrito, sobre situaciones reales y concretas en relación a la aplicación de las disposiciones fiscales estatales, federales y municipales coordinadas;
 
 VII.- Imponer sanciones por el incumplimiento a las disposiciones fiscales estatales, federales y municipales, de conformidad con los ordenamientos aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios;
 
@@ -873,17 +961,47 @@ XII.- Elaborar y proponer al Subsecretario de Ingresos, la normatividad para la 
 
 XIII.- Fungir como enlace en los asuntos de carácter legal de la Subsecretaría de Ingresos con las Unidades Administrativas de la Secretaría;
 
-XIV.- Recibir de las Unidades Administrativas de la Subsecretaría de Ingresos, los expedientes sobre la presunta comisión de delitos fiscales federales, estatales o cualquier otro que se cometa en perjuicio del erario público y remitirlos a la Procuraduría Fiscal para el trámite correspondiente; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XV.- Conocer y proponer al Subsecretario de Ingresos, en términos de las disposiciones fiscales y demás aplicables, las resoluciones a las solicitudes que presenten los contribuyentes para declarar la extinción de las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, así como para imponer sanciones por infracciones, competencia de la Secretaría, o la prescripción de los créditos fiscales.
+XIV.- Recibir de las Unidades Administrativas de la Subsecretaría de Ingresos, los expedientes sobre la presunta comisión de delitos fiscales federales, estatales o cualquier otro que se cometa en perjuicio del erario público y remitirlos a la Procuraduría Fiscal para el trámite correspondiente;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XV.- Conocer y resolver, o en su caso proponer al Subsecretario de Ingresos en términos de las disposiciones fiscales y demás aplicables, las resoluciones a las solicitudes que presenten los contribuyentes para declarar la extinción de las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, así como para imponer sanciones por infracciones, competencia de la Secretaría, o la prescripción de los créditos fiscales;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVI.- Asistir a los Municipios, que así lo requieran en la elaboración e integración de sus iniciativas de Leyes de Ingresos de cada ejercicio fiscal;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVII.- Asistir a las unidades administrativas adscritas a la Subsecretaría de Ingresos, que así lo requieran, a fin de que en los procedimientos administrativos materia de su competencia se cumplan las formalidades previstas en las disposiciones que las regulan;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVIII.- Brindar asesoría técnica y legal al Subsecretario de Ingresos y actuar como órgano de consulta sobre situaciones reales y concretas que le formulen las demás unidades administrativas de la Subsecretaría;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIX.- Coordinar y concertar con la Coordinación General Jurídica o con la Procuraduría Fiscal, según corresponda la procedencia jurídica de los instrumentos en materia de ingresos, y en su caso, someterlos a la consideración del Subsecretario de Ingresos para su firma;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XX.- Notificar los actos administrativos, relacionados con el ejercicio de sus facultades, en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXI.- Expedir oficios de designación, credenciales o constancias de identificación que acrediten a los notificadores de su adscripción, y vigilar que éstos cumplan con las obligaciones inherentes a su cargo.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE INGRESOS
 
 #### SECCIÓN I. DE LA DIRECCIÓN DE INGRESOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-La Dirección de Ingresos dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un Titular, quien será auxiliado por las Subdirecciones Técnica de Ingresos, de Control Vehicular y de Orientación y Asistencia al Contribuyente, los Jefes de Departamento, los verificadores, inspectores, notificadores y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
+La Dirección de Ingresos dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un titular, quien será auxiliado por las Subdirecciones Técnica de Ingresos, de Control Vehicular, de Orientación y Asistencia al Contribuyente, y de Contabilidad de Ingresos, los Jefes de Oficinas Recaudadoras y de Asistencia al Contribuyente, las Receptoras de Pago, los verificadores, inspectores, notificadores, ejecutores y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
 
 I.- Aplicar la política de ingresos correspondiente a cada ejercicio fiscal, así como ejercer las acciones tendientes a la observancia de las disposiciones fiscales estatales, federales y municipales en términos de los convenios y sus anexos, suscritos entre el Estado y la Federación o con los Municipios, en materia de su competencia;
 
@@ -899,7 +1017,9 @@ VI.- Atender, de conformidad con las disposiciones fiscales estatales, federales
 
 VII.- Coordinar con la autoridad competente la elaboración de programas y esquemas de difusión fiscal que deban dirigirse a los contribuyentes;
 
-VIII.- Recibir y proponer al Subsecretario de Ingresos los programas para fomentar la cultura fiscal en el Estado, y una vez autorizados, vigilar en coordinación con la Dirección de Recaudación su aplicación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VIII.- Recibir y proponer al Subsecretario de Ingresos los programas para fomentar la cultura fiscal en el Estado, y una vez autorizados, vigilar su aplicación;
 
 IX.- Recibir de la Subdirección de Orientación y Asistencia al Contribuyente y en su caso, autorizar y, vigilar la aplicación de los programas que se establezcan para orientar y asistir a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales, así como para promover su incorporación voluntaria o actualización de sus datos en los registros estatales de contribuyentes y vehicular;
 
@@ -919,7 +1039,9 @@ XVI.- Autorizar o proponer al Subsecretario de Ingresos, de conformidad con las 
 
 XVII.- Emitir o proponer al Subsecretario de Ingresos de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones de compensación, de créditos fiscales en materia de contribuciones, productos y aprovechamientos y sus accesorios;
 
-XVIII.- Integrar y analizar los ingresos que se obtengan por los servicios que prestan las Dependencias de la Administración Pública del Estado y en su caso, dictar medidas para eficientar las funciones de recaudación y concentración de sus ingresos ante la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVIII.- Integrar y analizar los ingresos que se obtengan por los servicios que prestan las Dependencias de la Administración Pública del Estado y en su caso, requerirles la información necesaria para el análisis del comportamiento de los mismos; así como dictar las medidas para eficientar las funciones de recaudación y concentración de sus ingresos ante la Secretaría;
 
 XIX.- Coordinar el diseño, establecimiento, integración, uso, mantenimiento y depuración de los registros fiscales de contribuyentes y vehicular, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios;
 
@@ -929,9 +1051,53 @@ XXI.- Programar, presupuestar y solicitar a la autoridad competente, la adquisic
 
 XXII.- Supervisar, de conformidad con los lineamientos que para estos efectos se emitan, los procedimientos y mecanismos de adquisición, suministro, control y destrucción de las formas oficiales valoradas que utilicen las Dependencias y Entidades de la Administración Pública Estatal para la prestación de servicios establecidos en la Ley de Ingresos del Estado;
 
-XXIII.- Vigilar que las áreas competentes de su adscripción, proporcionen orientación y asistencia a los contribuyentes para el cumplimiento de sus obligaciones fiscales estatales, federales y municipales coordinadas; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XXIV.- Expedir los oficios de designación, credenciales o constancias de identificación que acrediten a los verificadores, inspectores y/o notificadores de su adscripción y, vigilar que éstos cumplan con las obligaciones inherentes a su cargo.
+XXIII.- Vigilar que las áreas competentes de su adscripción, proporcionen orientación y asistencia a los contribuyentes para el cumplimiento de sus obligaciones fiscales estatales, federales y municipales coordinadas;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIV.- Expedir oficios de designación, credenciales o constancias de identificación que acrediten a los verificadores, inspectores, notificadores y ejecutores de su adscripción, y vigilar que éstos cumplan con las obligaciones inherentes a su cargo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXV.- Someter a consideración del Subsecretario de Ingresos, de conformidad con los ordenamientos aplicables vigentes, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las políticas, programas, métodos, sistemas y procedimientos en materia de registro de los ingresos fiscales, y una vez aprobados, ordenar su exacta aplicación;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVI.- Conocer y resolver, de conformidad con las disposiciones fiscales y demás aplicables, programas y reglas de carácter general, las peticiones que formulen los particulares respecto a la aplicación de subsidios, beneficios y/o estímulos fiscales;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVII.- Validar los programas de supervisión a las Oficinas Recaudadoras y de Asistencia al Contribuyente y ordenar su aplicación;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVIII.- Proponer al Subsecretario de Ingresos, la creación o extinción de Oficinas Recaudadoras y de Asistencia al Contribuyente, así como su circunscripción territorial;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIX.- Coadyuvar con la Dirección de Recaudación, a través de la Subdirección de Orientación y Asistencia al Contribuyente en la evaluación y seguimiento del Procedimiento Administrativo de Ejecución que apliquen las Oficinas Recaudadoras y de Asistencia al Contribuyente de conformidad con la normatividad, procedimientos y políticas que emita la Dirección de Recaudación en materia del Procedimiento Administrativo de Ejecución con base en las disposiciones fiscales aplicables y convenios suscritos entre el Estado, la Federación y los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXX.- Notificar los actos administrativos, relacionados con el ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXI.- Supervisar los procedimientos y mecanismos de recaudación que se realicen a través de las instituciones bancarias, establecimientos autorizados, Oficinas Receptoras de Pago o por medios electrónicos, de los impuestos, derechos, productos y aprovechamientos estatales, federales y municipales coordinados;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXII.- Validar los informes que en materia de recaudación se deban rendir a la Dirección de Contabilidad de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXIII.- Supervisar el procedimiento de elaboración de la cuenta mensual comprobada, para su envío a la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXIV.- Validar las cifras de recaudación de los ingresos municipales coordinados que se remiten a la Dirección de Deuda Pública.
 
 #### SECCIÓN II. DE LA SUBDIRECCIÓN TÉCNICA DE INGRESOS
 
@@ -949,11 +1115,17 @@ IV.- Integrar y analizar los ingresos de las Dependencias de la Administración 
 
 V.- Atender las consultas, solicitudes y acuerdos de las autoridades judiciales, administrativas y ministeriales, referentes a los registros fiscales de contribuyentes de impuestos estatales, así como federales y municipales coordinados;
 
-VI.- Contestar, de conformidad con las disposiciones fiscales estatales, federales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación, las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, en materia de su competencia;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-VII.- Establecer, integrar y controlar, de conformidad con las disposiciones fiscales y demás aplicables, los registros fiscales de contribuyentes de impuestos estatales, federales y municipales coordinados, así como proponer al Director de Ingresos la normatividad para su uso;
+VI.- Contestar, de conformidad con las disposiciones fiscales estatales, federales, municipales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, en materia de su competencia;
 
-VIII.- Actualizar el registro estatal de contribuyentes, con base en las peticiones de los interesados o derivados de los actos de autoridad;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VII.- Establecer, integrar y controlar, de conformidad con las disposiciones fiscales y demás aplicables, los registros fiscales de contribuyentes de impuestos estatales, federales y municipales coordinados, así como proponer al Director de Ingresos la normatividad para su uso y depuración;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VIII.- Actualizar el registro estatal de contribuyentes, con base en las peticiones de los interesados y/o con la información que proporcionen las autoridades fiscales, administrativas y/o judiciales;
 
 IX.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
 
@@ -961,19 +1133,37 @@ X.- Elaborar y someter a la consideración del Director de Ingresos de conformid
 
 XI.- Conocer, resolver y en los casos que proceda, someter a la consideración del Director de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las resoluciones a las solicitudes de devolución de cantidades pagadas indebidamente al fisco y las demás que legalmente procedan;
 
-XII.- Elaborar y proponer al Director de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones de compensación de créditos fiscales en materia de contribuciones, productos y aprovechamientos y sus accesorios;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XIII.- Conocer y resolver, de conformidad con las disposiciones fiscales y demás aplicables, programas y reglas de carácter general, las peticiones que formulen los particulares respecto a la aplicación de subsidios o estímulos fiscales;
+XII.- Elaborar y proponer al Director de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación, las resoluciones de compensación de créditos fiscales en materia de contribuciones, productos y aprovechamientos y sus accesorios;
 
-XIV.- Diseñar y proponer al Director de Ingresos para su aprobación, los formatos oficiales de avisos, declaraciones y manifiestos, las formas oficiales valoradas, formas oficiales de reproducción restringida y formas oficiales de libre reproducción y los demás documentos requeridos por las disposiciones fiscales, en el ámbito de su competencia, así como vigilar su publicación, expedición, reproducción, resguardo y en su caso, destrucción;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XV.- Requerir la compra, suministrar, controlar y destruir en los términos de los lineamientos que para estos efectos se emitan, las formas oficiales valoradas que utilicen las Dependencias y Entidades de la Administración Pública Estatal para la prestación de los servicios establecidos en la Ley de Ingresos del Estado;
+XIII.- Conocer y resolver, o en su caso, proponer al Director de Ingresos, de conformidad con las disposiciones fiscales y demás aplicables, programas y reglas de carácter general, las peticiones que formulen los particulares respecto a la aplicación de subsidios, beneficios y/o estímulos fiscales;
 
-XVI.- Remitir a la Dirección de Recaudación la normatividad, política, procedimientos y toda documentación que en materia de su competencia debe hacerse del conocimiento de las Oficinas Recaudadoras y de Asistencia al Contribuyente para su exacta aplicación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XVII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
+XIV.- Diseñar y proponer al Director de Ingresos para su consideración, los formatos oficiales de avisos, declaraciones y manifiestos, las formas oficiales valoradas, formas oficiales de reproducción restringida y formas oficiales de libre reproducción y los demás documentos requeridos por las disposiciones fiscales, en el ámbito de su competencia, así como vigilar su publicación, expedición, reproducción, resguardo y en su caso, destrucción;
 
-XVIII.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Ingresos.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XV.- Requerir la compra, suministrar y controlar las formas oficiales valoradas que utilicen las Dependencias y Entidades de la Administración Pública Estatal para la prestación de los servicios establecidos en la Ley de Ingresos del Estado; e intervenir en los procesos de su destrucción en los términos de los lineamientos que para estos efectos emita el Secretario de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVI.- Remitir a la Subdirección de Orientación y Asistencia al Contribuyente la normatividad, política, procedimientos y toda documentación que en materia de su competencia debe hacerse del conocimiento de las Oficinas Recaudadoras y de Asistencia al Contribuyente para su exacta aplicación;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVIII.- Elaborar y proponer al Director de Ingresos, la política para la solución administrativa derivada de aclaraciones en materia de avisos, declaraciones, manifiestos y demás documentos de naturaleza análoga, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Ingresos.
 
 #### SECCIÓN III. DE LA SUBDIRECCIÓN DE CONTROL VEHICULAR
 
@@ -983,31 +1173,45 @@ La Subdirección de Control Vehicular dependerá jerárquicamente de la Direcci�
 
 I.- Elaborar y proponer al Director de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, los procedimientos, sistemas y programas en materia de control vehicular;
 
-II.- Establecer, integrar y controlar de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, el registro estatal vehicular, así como proponer al Director de Ingresos la normatividad para su uso;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+II.- Establecer, integrar y controlar de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, el Registro Estatal Vehicular, así como proponer al Director de Ingresos la normatividad para su uso y depuración;
 
 III.- Elaborar en coordinación con la Dirección de Apoyo Técnico y Legal, los criterios y normatividad que en materia de control vehicular deban aplicar las Unidades Administrativas de la Dirección para dar cumplimiento a las disposiciones fiscales;
 
 IV.- Mantener actualizado el catálogo de claves vehiculares en el registro estatal vehicular, de conformidad con las publicaciones que en la materia emita la Secretaría de Hacienda y Crédito Público;
 
-V.- Coordinar con la Secretaría de Transportes del Gobierno del Estado, de conformidad con las disposiciones fiscales y normatividad aplicables, para el mantenimiento del registro estatal vehicular tratándose de vehículos de servicio público de transporte y servicio de transporte mercantil;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-VI.- Actualizar el registro estatal vehicular, con base en las peticiones de los contribuyentes, derivados de los actos de autoridad o con la información que remitan otras Entidades Federativas;
+V.- Coordinar con las autoridades competentes en materia de Transporte, de conformidad con las disposiciones fiscales y normatividad aplicables, el mantenimiento del Registro Estatal Vehicular tratándose de vehículos del Servicio Público de Transporte, Servicio de Transporte Mercantil y Sistema de Transporte Público Masivo, según corresponda;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VI.- Actualizar el Registro Estatal Vehicular, con base en las peticiones de los contribuyentes, derivados de los actos de autoridad, y/o con la información que proporcionen las autoridades fiscales, administrativas y/o judiciales, así como otras Entidades Federativas;
 
 VII.- Proponer al Director de Ingresos, el programa de canje de placas, en términos de la normatividad establecida por la Secretaría de Comunicaciones y Transportes Federal y demás disposiciones aplicables;
 
 VIII.- Proponer al Director de Ingresos el diseño de los formatos oficiales de avisos, declaraciones y manifiestos, así como de las formas oficiales valoradas requeridas por las disposiciones fiscales en materia vehicular, una vez autorizadas, dar conocimiento a la Subdirección Técnica de Ingresos;
 
-IX.- Emitir las políticas y/o normatividad para la concentración de placas de circulación que deben hacer las Oficinas Recaudadoras y de Asistencia al Contribuyente, en los trámites de baja de vehículos automotores;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-X.- Coordinar con la Secretaría de Transportes del Gobierno del Estado, de conformidad con las disposiciones y normatividad aplicables; en lo referente a la expedición de tarjetas de circulación, engomados alfanuméricos, placas de circulación y demás documentos relacionados, en materia de servicio público de transporte y servicio de transporte mercantil;
+IX.- Emitir las políticas y/o normatividad para la concentración de placas de circulación que deben hacer las Oficinas Recaudadoras y de Asistencia al Contribuyente, en los trámites de baja de vehículos automotores e intervenir en el ámbito de su competencia en el proceso de destrucción de las mismas;
 
-XI.- Solicitar a otras Entidades Federativas, de conformidad con las disposiciones fiscales y normatividad aplicables, información sobre el cumplimiento de obligaciones fiscales respecto de los automotores inscritos en su registro estatal vehicular que requieran su registro en el Estado;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+X.- Coordinar las autoridades competentes en materia de Transporte, de conformidad con las disposiciones y normatividad aplicables; en lo referente a la expedición de tarjetas de circulación, engomados alfanuméricos, placas de circulación y demás documentos relacionados, en materia de Servicio Público de Transporte, Servicio de Transporte Mercantil y Sistema de Transporte Público Masivo, según corresponda;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XI.- Solicitar a otras Entidades Federativas, de conformidad con las disposiciones fiscales y normatividad aplicables, información sobre el cumplimiento de obligaciones fiscales respecto de los automotores inscritos en su Registro Estatal Vehicular que requieran el alta o inscripción de unidades vehiculares en esta Entidad Federativa;
 
 XII.- Atender, de conformidad con las disposiciones fiscales y normatividad aplicables, las solicitudes que realicen las Entidades Federativas sobre el cumplimiento de obligaciones fiscales respecto de los automotores inscritos en el Registro Estatal Vehicular;
 
 XIII.- Atender las consultas, solicitudes y acuerdos que formulen las autoridades judiciales, administrativas y ministeriales en materia del registro estatal vehicular;
 
-XIV.- Conocer, resolver y en los casos que proceda, someter a la consideración del Director de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las resoluciones a las solicitudes de devolución de cantidades pagadas indebidamente al fisco y las demás que legalmente procedan, en materia de control vehicular;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIV.- Conocer, resolver y en los casos que proceda someter a la consideración del Director de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las resoluciones a las solicitudes de devolución de cantidades pagadas indebidamente al fisco y las demás que legalmente procedan, en materia de control vehicular;
 
 XV.- Atender, de conformidad con las disposiciones fiscales estatales, federales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación, las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, en materia de control vehicular;
 
@@ -1015,25 +1219,41 @@ XVI.- Llevar a cabo en los casos que proceda y de conformidad con las disposicio
 
 XVII.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
 
-XVIII.- Remitir a la Dirección de Recaudación la normatividad, política, procedimientos y toda documentación que en materia de control vehicular debe hacerse del conocimiento de las Oficinas Recaudadoras y de Asistencia al Contribuyente para su exacta aplicación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVIII.- Remitir a la Subdirección de Orientación y Asistencia al Contribuyente la normatividad, política, procedimientos y toda documentación que en materia de control vehicular debe hacerse del conocimiento de las Oficinas Recaudadoras y de Asistencia al Contribuyente para su exacta aplicación;
 
 XIX.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda;
 
-XX.- Solicitar a las Oficinas Recaudadoras y de Asistencia al Contribuyente los expedientes integrados relativos al Registro Estatal Vehicular, para vigilar la exacta aplicación de los criterios y normatividad emitida en materia de Control vehicular; e informar a la Dirección de Recaudación su resultado; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XXI.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Ingresos.
+XX.- Solicitar a las Oficinas Recaudadoras y de Asistencia al Contribuyente los expedientes integrados relativos al Registro Estatal Vehicular, para vigilar la exacta aplicación de los criterios y normatividad emitida en materia de control vehicular; e informar a la Subdirección de Orientación y Asistencia al Contribuyente su resultado;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXI.- Elaborar y proponer al Director de Ingresos, la política para la solución administrativa derivada de aclaraciones en materia de avisos, declaraciones, manifiestos y demás documentos de naturaleza análoga relativos al control vehicular, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXII.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Ingresos.
 
 #### SECCIÓN IV. DE LA SUBDIRECCIÓN DE ORIENTACIÓN Y ASISTENCIA AL CONTRIBUYENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 23.
 
-La Subdirección de Orientación y Asistencia al Contribuyente dependerá jerárquicamente de la Dirección de Ingresos y estará a cargo de un Titular, quien será auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+La Subdirección de Orientación y Asistencia al Contribuyente, dependerá jerárquicamente de la Dirección de Ingresos y estará a cargo de un titular, quien será auxiliado por los Jefes de la Oficinas Recaudadoras y de Asistencia al Contribuyente, los verificadores, inspectores, notificadores, ejecutores y los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
 
 I.- Elaborar y someter a consideración del Director de Ingresos, en términos de las disposiciones fiscales y normatividad aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o los Municipios, los programas que en materia de orientación, asistencia al contribuyente y difusión fiscal deban instrumentarse para incentivar el cumplimiento voluntario de las obligaciones fiscales;
 
-II.- Elaborar y proponer al Director de Ingresos los programas para fomentar la cultura fiscal en el Estado, y una vez autorizados darlos a conocer a la Dirección de Recaudación para su aplicación en las Oficinas Recaudadoras y de Asistencia al Contribuyente;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-III.- Capacitar, supervisar y coordinar a las Oficinas Recaudadoras y de Asistencia al Contribuyente en materia de orientación, asistencia y difusión fiscal;
+II.- Elaborar y proponer al Director de Ingresos los programas para fomentar la cultura fiscal en el Estado, y una vez autorizados implementar su exacta aplicación en las Oficinas Recaudadoras y de Asistencia al Contribuyente;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+III.- Capacitar, supervisar y coordinar a las Oficinas Recaudadoras y de Asistencia al Contribuyente, en las diferentes materias de su competencia;
 
 IV.- Instrumentar programas para orientar y asistir a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el registro estatal de contribuyentes;
 
@@ -1041,183 +1261,45 @@ V.- Ordenar y practicar, de conformidad con las disposiciones fiscales y normati
 
 VI.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
 
-VII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-VIII.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Ingresos.
+VII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda;
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE RECAUDACIÓN
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN II. DE LA SUBDIRECCIÓN DE RECAUDACIÓN
+VIII.- Vigilar que las Oficinas Recaudadoras y de Asistencia al Contribuyente, proporcionen orientación y asistencia a los contribuyentes para el cumplimiento de sus obligaciones fiscales estatales, federales y municipales coordinadas; así como para promover su incorporación voluntaria o actualización de sus datos en los registros fiscales y vehicular;
 
-#### SECCIÓN III. DEL DEPARTAMENTO TÉCNICO DE EJECUCIÓN
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE RECAUDACIÓN
+IX.- Actualizar los registros fiscales de contribuyentes y vehicular, con base en los avisos, declaraciones, trámites o movimientos que presenten los contribuyentes; así como, con los que resulten de los actos de verificación y comprobación que para estos efectos realice;
 
-#### SECCIÓN IV. DE LAS OFICINAS RECAUDADORAS Y DE ASISTENCIA AL CONTRIBUYENTE
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-###### ARTÍCULO 24.
+X.- Elaborar y proponer al Director de Ingresos los programas de supervisión a las Oficinas Recaudadoras y de Asistencia al Contribuyente, y una vez aprobados, ejecutarlos;
 
-La Dirección de Recaudación dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un Titular, quien será auxiliado por la Subdirección de Recaudación, el Jefe del Departamento Técnico de Ejecución, los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente, notificadores, ejecutores, interventores, depositarios y peritos valuadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-I.- Aplicar la política de ingresos en materia de recaudación correspondiente a cada ejercicio fiscal, así como ejercer las acciones tendientes a la observancia de las disposiciones fiscales estatales, federales y municipales en términos de los convenios y sus anexos, suscritos entre el Estado y la Federación o con los Municipios;
+XI.- Emitir o proponer al Director de Ingresos los oficios de designación, credenciales o constancias de identificación que acrediten a los verificadores, inspectores, notificadores y ejecutores de su adscripción, y vigilar que éstos cumplan con las obligaciones inherentes a su cargo;
 
-II.- Recibir de la Subdirección de Recaudación y, en su caso proponer al Subsecretario de Ingresos, las políticas, programas, métodos, sistemas y procedimientos en materia de recaudación registro de los ingresos fiscales, de conformidad con los ordenamientos aplicables vigentes, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios y una vez aprobados, ordenar su exacta aplicación;
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-III.- Atender, de conformidad con las disposiciones fiscales estatales, federales y municipales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las promociones de carácter administrativo que en materia de su competencia presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados;
+XII.- Vigilar que las Oficinas Recaudadoras y de Asistencia al Contribuyente apliquen los procedimientos, normatividad y políticas que emitan las Direcciones de Ingresos y de Recaudación en materia de su competencia, de conformidad con las disposiciones fiscales aplicables y convenios suscritos entre el Estado, la Federación y los Municipios;
 
-IV.- Recibir de la Subdirección de Recaudación y en su caso, proponer al Subsecretario de Ingresos, la política para la solución administrativa derivada de aclaraciones en materia de requerimientos de cumplimiento de obligaciones fiscales o de pago de contribuciones y demás documentos de naturaleza análoga;
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-V.- Recibir de la Subdirección de Recaudación y en su caso, autorizar los programas de supervisión a las Oficinas Recaudadoras y de Asistencia al Contribuyente y ordenar su aplicación;
+XIII.- Requerir, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la presentación de declaraciones, avisos, así como el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes y responsables solidarios, y en su caso, imponer mediante resolución, las sanciones que procedan por incumplimiento a éstas o a los requerimientos de autoridad, y
 
-VI.- Recibir de las Subdirecciones Técnica de Ingresos y de Control Vehicular de la Dirección de Ingresos, la normatividad, política, procedimientos y toda documentación que en el ámbito de sus respectivas competencias le remitan, a fin de darlos a conocer a las oficinas recaudadoras y de asistencia al contribuyente; así como vigilar su exacta aplicación;
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-VII.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
+XIV.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Ingresos.
 
-VIII.- Requerir, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la presentación de declaraciones, avisos, así como el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes y responsables solidarios, y en su caso, imponer mediante resolución, las sanciones que procedan por incumplimiento a éstas o a los requerimientos de autoridad;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-IX.- Determinar en el ámbito de su competencia, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios la responsabilidad solidaria;
+#### SECCIÓN V. DE LAS OFICINAS RECAUDADORAS Y DE ASISTENCIA AL CONTRIBUYENTE
 
-X.- Ordenar y/o llevar a cabo en términos de las disposiciones fiscales y demás aplicables los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales, coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados;
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XI.- Solicitar a las entidades financieras y sociedades cooperativas de ahorro y préstamo que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de los depósitos, servicios, fideicomisos, o cualquier tipo de operaciones, cuando la información que formule derive del ejercicio de las facultades en relación con el cobro de créditos fiscales a través del procedimiento administrativo de ejecución;
-
-XII.- Ordenar de conformidad con las disposiciones fiscales y demás aplicables los convenios y sus anexos, suscritos entre el Estado y la Federación, la inmovilización que proceda de depósitos bancarios, que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo o de inversiones y valores derivados de créditos fiscales;
-
-XIII.- Girar oficio a la Comisión Nacional Bancaria y de Valores o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta del contribuyente a efecto de que de inmediato la inmovilice y conserve los fondos depositados;
-
-XIV.- Ordenar, de conformidad con las disposiciones fiscales y demás aplicables los convenios y sus anexos suscritos entre el Estado y la Federación, a la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, la transferencia de los depósitos bancarios embargados;
-
-XV.- Conocer o en su caso, proponer al Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía de interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
-
-XVI.- Autorizar o proponer al Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la autorización de pagos a plazos, ya sea diferido o en parcialidades de los créditos fiscales estatales, federales y municipales coordinados;
-
-XVII.- Realizar por sí o proponer al Subsecretario de Ingresos, de acuerdo a la normatividad y de conformidad con las disposiciones fiscales y demás aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la revocación de las autorizaciones para pagar a plazos, ya sea diferido o en parcialidades de los créditos fiscales estatales, federales o municipales coordinados;
-
-XVIII.- Proponer al Subsecretario de Ingresos, la creación o extinción de Oficinas Recaudadoras y de Asistencia al Contribuyente, así como su circunscripción territorial;
-
-XIX.- Vigilar que las oficinas recaudadoras y de asistencia al contribuyente, proporcionen orientación y asistencia a los contribuyentes para el cumplimiento de sus obligaciones fiscales estatales, federales y municipales coordinadas; así como para promover su incorporación voluntaria o actualización de sus datos en los registros estatales de contribuyentes y vehicular;
-
-XX.- Expedir los oficios de designación, credenciales o constancias de identificación que acrediten a los notificadores, ejecutores, depositarios, peritos valuadores e interventores y vigilar que éstos cumplan con las obligaciones inherentes a su cargo;
-
-XXI.- Proponer al Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la cancelación y depuración de créditos fiscales;
-
-XXII.- Autorizar y remitir los informes que en materia de recaudación se deban rendir a la Dirección de Contabilidad;
-
-XXIII.- Autorizar la cuenta mensual comprobada, para su envío a la Secretaría de Hacienda y Crédito Público, turnando copia de conocimiento al Subsecretario de Ingresos;
-
-XXIV.- Informar periódicamente a las Dependencias y Entidades de la Administración Pública Federal y Estatal, así como a los Poderes del Estado, de la situación que guardan las multas administrativas no fiscales que hayan enviado para su cobro; y
-
-XXV.- Remitir a la Dirección de Deuda Pública, las cifras de recaudación de los ingresos municipales coordinados que les correspondan.
-
-#### SECCIÓN V. DE LAS OFICINAS RECEPTORAS DE PAGO
-
-###### ARTÍCULO 25.
-
-La Subdirección de Recaudación dependerá jerárquicamente de la Dirección de Recaudación y estará a cargo de un Titular, quien se auxiliará por el Jefe del Departamento Técnico de Ejecución, los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente, notificadores, ejecutores, interventores, depositarios y peritos valuadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
-
-I.- Recaudar a través de las instituciones bancarias, establecimientos autorizados, Oficinas Receptoras de Pago o por medios electrónicos, los impuestos, derechos, productos y aprovechamientos estatales, federales y municipales coordinados; así como supervisar el procedimiento de recaudación y concentración de fondos y manejo de valores;
-
-II.- Elaborar y proponer al Director de Recaudación, los programas, políticas, sistemas y procedimientos para el desarrollo eficiente de la operación recaudatoria;
-
-III.- Vigilar, de conformidad con las disposiciones fiscales y normatividad aplicables, el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes y responsables solidarios;
-
-IV.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
-
-V.- Requerir, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la presentación de declaraciones, avisos, así como el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes y responsables solidarios, y en su caso, imponer mediante resolución, las sanciones que procedan por incumplimiento a éstas o a los requerimientos de autoridad;
-
-VI.- Integrar y remitir los expedientes a la Dirección de Fiscalización, para determinar la responsabilidad solidaria, en los créditos provenientes del ejercicio de las facultades de comprobación, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios;
-
-VII.- Llevar a cabo en términos de las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados;
-
-VIII.- Recibir del Departamento Técnico de Ejecución y proponer al Director de Recaudación las solicitudes a las entidades financieras y sociedades cooperativas de ahorro y préstamo que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda la información de los depósitos, servicios, fideicomisos o cualquier tipo de operaciones, cuando la información que formule derive del ejercicio de las facultades en relación con el cobro de créditos fiscales a través del procedimiento administrativo de ejecución;
-
-IX.- Recibir del Departamento Técnico de Ejecución y proponer al Director de Recaudación de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, las órdenes de inmovilización que procedan de depósitos bancarios, que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, derivado de créditos fiscales;
-
-X.- Recibir del Departamento Técnico de Ejecución y proponer al Director de Recaudación los oficios a la Comisión Nacional Bancaria y de Valores, o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta del contribuyente a efecto de que de inmediato la inmovilice y conserve los fondos depositados;
-
-XI.- Recibir y proponer al Director de Recaudación de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, las órdenes de transferencia de los depósitos bancarios embargados, dirigidos a la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate;
-
-XII.- Recibir del Departamento Técnico de Ejecución y proponer al Director de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía del interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
-
-XIII.- Proponer al Director de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la autorización de pagos a plazos, ya sea diferido o en parcialidades de los créditos fiscales estatales, federales y municipales coordinados;
-
-XIV.- Proponer al Director de Recaudación, de acuerdo a la normatividad y de conformidad con las disposiciones fiscales y demás aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la revocación de las autorizaciones de pago a plazos o en parcialidades de los créditos fiscales estatales, federales o municipales coordinados;
-
-XV.- Elaborar y proponer al Director de Recaudación, el catálogo de cuentas de recaudación y darlo a conocer a las Unidades Administrativas que correspondan;
-
-XVI.- Registrar diariamente los ingresos de conformidad con el catálogo de cuentas de recaudación, así como aplicar el procedimiento de manejo de valores y concentración de fondos;
-
-XVII.- Turnar al Director de Recaudación, los informes del estado en que se encuentra el cobro de los créditos fiscales estatales, federales y municipales coordinados;
-
-XVIII.- Expedir los oficios de designación, credenciales o constancias de identificación que acrediten a los notificadores, ejecutores, depositarios, peritos valuadores e interventores, y vigilar que éstos cumplan con las obligaciones inherentes a su cargo;
-
-XIX.- Supervisar que el Departamento Técnico de Ejecución, mantenga debidamente actualizados los formatos que deban emplearse en el Procedimiento Administrativo de Ejecución;
-
-XX.- Proponer al Director de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios y la normatividad aplicable, la cancelación y depuración de créditos fiscales;
-
-XXI.- Proponer al Director de Recaudación, los informes que en materia de recaudación se deban rendir a la Dirección de Contabilidad;
-
-XXII.- Elaborar y someter a consideración del Director de Recaudación para su aprobación, la cuenta mensual comprobada para su envío a la Secretaría de Hacienda y Crédito Público;
-
-XXIII.- Elaborar y proponer al Director de Recaudación, la política, para la solución administrativa derivada de aclaraciones en materia de requerimientos de cumplimiento de obligaciones fiscales o de pago de contribuciones y demás documentos de naturaleza análoga, y una vez aprobadas llevar a cabo su aplicación;
-
-XXIV.- Hacer del conocimiento de las Oficinas Recaudadoras y de Asistencia al Contribuyente la normatividad, política, procedimientos y toda documentación que en materia de vigilancia de obligaciones y cobranza coactiva y vigilar su exacta aplicación;
-
-XXV.- Elaborar y proponer al Director de Recaudación, los programas de supervisión a las Oficinas Recaudadoras y de Asistencia al Contribuyente;
-
-XXVI.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
-
-XXVII.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares y convenios, así como las que le confieran el Subsecretario de Ingresos y el Director de Recaudación.
-
-#### SECCIÓN I. DE LA DIRECCIÓN DE FISCALIZACIÓN
-
-###### ARTÍCULO 26.
-
-El Departamento Técnico de Ejecución dependerá jerárquicamente de la Subdirección de Recaudación y estará a cargo de un Titular, quien se auxiliará por los notificadores, ejecutores, interventores, depositarios y peritos valuadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
-
-I.- Recibir de las autoridades federales y estatales, los documentos determinantes de créditos fiscales debidamente notificados y que hayan causado estado, así como aquellos documentos que emitan las Unidades Administrativas de la Secretaría, para que les asigne un número de crédito y en los casos que proceda, turnarlos a las Oficinas Recaudadoras y de Asistencia al Contribuyente para su notificación y cobro a través del Procedimiento Administrativo de Ejecución;
-
-II.- Llevar a cabo en términos de las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados;
-
-III.- Elaborar y proponer al Subdirector de Recaudación las solicitudes a las entidades financieras y sociedades cooperativas de ahorro y préstamo, que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda la información de los depósitos, servicios, fideicomisos o cualquier tipo de operaciones, cuando la información que formule derive del ejercicio de las facultades en relación con el cobro de créditos fiscales a través del procedimiento administrativo de ejecución;
-
-IV.- Elaborar y proponer al Subdirector de Recaudación de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, las órdenes de inmovilización que procedan de depósitos bancarios, que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, derivado de créditos fiscales;
-
-V.- Elaborar y proponer al Subdirector de Recaudación los oficios a la Comisión Nacional Bancaria y de Valores, o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta del contribuyente a efecto de que de inmediato la inmovilice y conserve los fondos depositados;
-
-VI.- Elaborar y proponer al Subdirector de Recaudación de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, las órdenes de transferencia de los depósitos bancarios embargados, dirigidos a la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate;
-
-VII.- Notificar los actos administrativos, en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios;
-
-VIII.- Recibir, calificar y aceptar en los casos que proceda, las garantías ofrecidas para asegurar el interés fiscal, así como vigilar que sean suficientes y estén actualizadas;
-
-IX.- Remitir a la Dirección de Tesorería para su custodia, las pólizas de fianza que se reciban como garantía del interés fiscal y, en el momento en que se hagan exigibles, integrar el expediente en los términos que señalen las leyes de la materia y la normatividad aplicable, para turnarlo a la Procuraduría Fiscal para el trámite correspondiente; asimismo, cancelarlas y devolverlas en los casos que proceda;
-
-X.- Proponer al Subdirector de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía del interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
-
-XI.- Autorizar o proponer al Subdirector de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la autorización de pagos a plazos, ya sea diferido o en parcialidades de los créditos fiscales estatales, federales y municipales coordinados;
-
-XII.- Proponer al Subdirector de Recaudación, de acuerdo con la normatividad y demás disposiciones fiscales aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, la revocación de las autorizaciones para pagar a plazos, ya sea diferido o en parcialidades de los créditos fiscales estatales, federales o municipales coordinados;
-
-XIII.- Diseñar y mantener actualizados los formatos que deban emplearse en el Procedimiento Administrativo de Ejecución;
-
-XIV.- Establecer los programas para que las Oficinas Recaudadoras y de Asistencia al Contribuyente lleven a cabo en términos de las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, el cobro de los créditos fiscales, a través del Procedimiento Administrativo de Ejecución y vigilar su cumplimiento;
-
-XV.- Elaborar y presentar al Subdirector de Recaudación, los informes del estado en que se encuentra el cobro de los créditos fiscales estatales, federales y municipales coordinados; así como las medidas necesarias para eficientar su recaudación;
-
-XVI.- Integrar y concentrar, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, los expedientes de créditos fiscales susceptibles de cancelación y depuración, y proponer al Subdirector de Recaudación el trámite correspondiente;
-
-XVII.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
-
-XVIII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
-
-XIX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares y convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Recaudación y el Subdirector de Recaudación.
-
-#### SECCIÓN II. DE LA SUBDIRECCIÓN DE REVISIONES FEDERALES "A"
-
-###### ARTÍCULO 27.
-
-Las Oficinas Recaudadoras y de Asistencia al Contribuyente dependerán jerárquicamente de la Subdirección de Recaudación y estarán a cargo de un Titular, quien será auxiliado por las Oficinas Receptoras de Pago, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+ARTÍCULO 23 BIS.- Las Oficinas Recaudadoras y de Asistencia al Contribuyente dependerán jerárquicamente de la Subdirección de Orientación y Asistencia al Contribuyente y estarán a cargo de un titular, quien será auxiliado por las Oficinas Receptoras de Pago, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrán las atribuciones siguientes:
 
 I.- Recaudar a través de las Oficinas Receptoras de Pago o de cualquier otro lugar o medio que se autorice, los impuestos, derechos, productos y aprovechamientos, estatales, federales y municipales coordinados;
 
@@ -1229,7 +1311,7 @@ IV.- Requerir, de conformidad con las disposiciones fiscales y demás aplicables
 
 V.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
 
-VI.- Recibir los avisos, declaraciones, manifiestos y demás documentación que deban presentar los contribuyentes, responsables solidarios y demás obligados, en términos de las disposiciones fiscales y demás aplicables;
+VI.- Recibir los avisos, declaraciones, manifiestos, trámites o movimientos y demás documentación que deban presentar los contribuyentes, responsables solidarios y demás obligados, en términos de las disposiciones fiscales y demás aplicables;
 
 VII.- Determinar y hacer efectivas a los contribuyentes, responsables solidarios y demás obligados, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las diferencias por errores aritméticos en los pagos y en las declaraciones, así como el monto de la actualización de las contribuciones, multas, recargos y gastos de ejecución;
 
@@ -1237,25 +1319,25 @@ VIII.- Determinar y hacer efectivos a los contribuyentes, responsables solidario
 
 IX.- Llevar a cabo, en términos de las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados;
 
-X.- Recibir, calificar y aceptar en los casos que proceda, las garantías ofrecidas para asegurar el interés fiscal, así como vigilar que sean suficientes y estén actualizadas;
+X.- Proponer al Director de Recaudación, la constitución, aceptación, rechazo, calificación o cancelación, según proceda, de las garantías para asegurar el interés fiscal, así como sus ampliaciones, disminuciones o sustituciones; de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
 
 XI.- Remitir a la Dirección de Tesorería para su custodia, las pólizas de fianza que se reciban como garantía del interés fiscal y en el momento en que se hagan exigibles, integrar el expediente en los términos que señalen las leyes de la materia y la normatividad aplicable, para turnarlo a la Procuraduría Fiscal para el trámite correspondiente; asimismo, cancelarlas y devolverlas en los casos que procedan;
 
-XII.- Recibir las solicitudes de pago a plazos, ya sea diferido o en parcialidades y turnarlas, dentro de los cinco días posteriores a su recepción al Departamento Técnico de Ejecución, para su trámite correspondiente;
+XII.- Recibir las solicitudes de pago diferido o en parcialidades de los créditos fiscales, mediante garantía de su importe y accesorios legales, inclusive tratándose de aprovechamientos y remitirlas dentro de los cinco días posteriores a su recepción a la Dirección de Recaudación, para su trámite correspondiente;
 
 XIII.- Recibir las solicitudes de condonación y exención total o parcial de pago de contribuciones, productos y aprovechamientos, y turnarlas dentro de los cinco días posteriores a su recepción a la Dirección de Apoyo Técnico y Legal, para su trámite correspondiente;
 
-XIV.- Recibir los medios de defensa que promuevan los contribuyentes o terceros, en contra de los actos de las autoridades fiscales, previstos en las leyes fiscales estatales, federales o municipales, y turnarlos en la fecha de su recepción a la Coordinación General Jurídica o a la Procuraduría Fiscal, según corresponda.
+XIV.- Recibir los medios de defensa que promuevan los contribuyentes o terceros, en contra de los actos de las autoridades fiscales, previstos en las leyes fiscales estatales, federales o municipales, y turnarlos en la fecha de su recepción a la Coordinación General Jurídica o a la Procuraduría Fiscal, según corresponda;
 
 XV.- Proporcionar, de conformidad con las disposiciones fiscales y normatividad aplicables, orientación y asistencia a los contribuyentes para el cumplimiento de sus obligaciones fiscales estatales, federales y municipales coordinadas;
 
 XVI.- Aplicar los programas debidamente autorizados para fomentar la cultura fiscal en el Estado;
 
-XVII.- Actualizar los registros fiscales de contribuyentes y vehicular, con base en las declaraciones, manifiestos y avisos que presenten los contribuyentes;
+XVII.- Actualizar los registros fiscales de contribuyentes y vehicular, con base en las declaraciones, manifiestos, avisos, trámites o movimientos que presenten los contribuyentes;
 
-XVIII.- Aplicar la política para la solución administrativa derivada de aclaraciones en materia de requerimientos, avisos, declaraciones, manifiestos y demás documentos de naturaleza análoga;
+XVIII.- Aplicar la política para la solución administrativa derivada de aclaraciones en materia de requerimientos, avisos, declaraciones, manifiestos y demás documentos de naturaleza análoga; así como cancelar los requerimientos del cumplimiento de obligaciones fiscales que sean notoriamente improcedentes;
 
-XIX.- Integrar, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos, suscritos entre el Estado y la Federación o con los Municipios, los expedientes de créditos fiscales susceptibles de cancelación y depuración, y turnarlos al Departamento Técnico de Ejecución para el trámite correspondiente;
+XIX.- Integrar, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos, suscritos entre el Estado y la Federación y/o con los Municipios, los expedientes susceptibles de cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, y turnarlos al Departamento Técnico de Ejecución para el trámite correspondiente;
 
 XX.- Concentrar en el almacén de la Secretaría, las placas de circulación que hayan sido dadas de baja en sus oficinas, y turnar la relación correspondiente a la Subdirección de Control Vehicular;
 
@@ -1267,15 +1349,25 @@ XXIII.- Expedir en el ámbito de su competencia y a petición de particulares o 
 
 XXIV.- Aplicar los programas en materia de orientación, asistencia al contribuyente y difusión fiscal, así como los demás en los que se incentive el cumplimiento voluntario de las obligaciones fiscales de éstos, en términos de las disposiciones fiscales y normatividad aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o los Municipios;
 
-XXV.- Llevar a cabo los programas para orientar y asistir a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el registro estatal de contribuyentes; y
+XXV.- Llevar a cabo los programas para orientar y asistir a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el registro estatal de contribuyentes;
 
-XXVI.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Recaudación y el Subdirector de Recaudación.
+XXVI.- Ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados o la garantía del interés fiscal sean insuficientes para cubrir los créditos fiscales;
 
-#### SECCIÓN III. DE LA SUBDIRECCIÓN DE REVISIONES FEDERALES "B"
+XXVII.- Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos administrativos de ejecución que lleve a cabo, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
 
-###### ARTÍCULO 28.
+XXVIII.- Proponer al Director de Recaudación la enajenación, dentro o fuera de remate, de bienes y negociaciones embargados a través del procedimiento administrativo de ejecución, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, dando conocimiento a la Subdirección de Orientación y Asistencia al Contribuyente;
 
-Las Oficinas Receptoras de Pago dependerán jerárquicamente de las Oficinas Recaudadoras y de Asistencia al Contribuyente y serán atendidas por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+XXIX.- Formular y proponer al Director de Recaudación la declaración del abandono de los bienes y de las cantidades a favor del Fisco Federal o del Fisco Estatal según el caso, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, dando conocimiento a la Subdirección de Orientación y Asistencia al Contribuyente, y
+
+XXX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Ingresos y el Subdirector de Orientación y Asistencia al Contribuyente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN VI. DE LAS OFICINAS RECEPTORAS DE PAGO
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 23 TER.- Las Oficinas Receptoras de Pago dependerán jerárquicamente de las Oficinas Recaudadoras y de Asistencia al Contribuyente y serán atendidas por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
 
 I.- Cumplir y aplicar las políticas, programas, sistemas de recaudación, normatividad, procedimientos y métodos de trabajo, reglas generales y criterios establecidos en el ámbito de su competencia;
 
@@ -1283,17 +1375,423 @@ II.- Recaudar, de conformidad con las disposiciones fiscales, normatividad y reg
 
 III.- Registrar diariamente los ingresos recaudados, de conformidad con el catálogo de cuentas, realizar los informes y reportes correspondientes, así como concentrar los ingresos y el soporte documental de acuerdo a la normatividad que para estos efectos se emita;
 
-IV.- Resguardar la documentación, expedientes, formas oficiales valoradas y demás bienes relativos al ejercicio de sus funciones; y
+IV.- Resguardar la documentación, expedientes, formas oficiales valoradas y demás bienes relativos al ejercicio de sus funciones, y
 
-V.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Recaudación, el Subdirector de Recaudación y el Jefe de la Oficina Recaudadora y de Asistencia al Contribuyente a la que se encuentren adscritas.
+V.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Ingresos, el Subdirector de Orientación y Asistencia al Contribuyente y las Oficinas Recaudadoras y de Asistencia al Contribuyente a la que se encuentren adscritas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN VII. DE LA SUBDIRECCIÓN DE CONTABILIDAD DE INGRESOS
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 23 QUÁTER.- La Subdirección de Contabilidad de Ingresos dependerá jerárquicamente de la Dirección de Ingresos y estará a cargo de un titular, quien será auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+
+I.- Elaborar y proponer al Director de Ingresos las políticas, programas, métodos, sistemas y procedimientos en materia de recaudación y de registro de ingresos fiscales, de conformidad con los ordenamientos aplicables vigentes, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios y una vez aprobados, implementar su exacta aplicación;
+
+II.- Recaudar a través de las instituciones bancarias, establecimientos autorizados, Oficinas Receptoras de Pago o por medios electrónicos, los impuestos, derechos, productos y aprovechamientos estatales, federales y municipales coordinados;
+
+III.- Autorizar y remitir los informes que en materia de recaudación se deban rendir a la Dirección de Contabilidad de la Secretaría;
+
+IV.- Autorizar la cuenta mensual comprobada, para su envío a la Secretaría de Hacienda y Crédito Público, turnando copia de conocimiento al Subsecretario de Ingresos;
+
+V.- Remitir a la Dirección de Deuda Pública, las cifras de recaudación de los ingresos municipales coordinados que les correspondan;
+
+VI.- Supervisar el procedimiento de recaudación y concentración de fondos y manejo de valores;
+
+VII.- Elaborar y proponer al Director de Ingresos, el catálogo de cuentas de recaudación y darlo a conocer a las Unidades Administrativas que correspondan;
+
+VIII.- Registrar diariamente los ingresos de conformidad con el catálogo de cuentas de recaudación, así como aplicar el procedimiento de manejo de valores y concentración de fondos;
+
+IX.- Expedir a petición de parte o de autoridad competente, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda, y
+
+X.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Ingresos.
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE RECAUDACIÓN
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE RECAUDACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 24.
+
+La Dirección de Recaudación dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un titular, quien será auxiliado por la Subdirección de Cobro Persuasivo y Coactivo, el Jefe del Departamento Técnico de Ejecución, los Administradores de Recaudación, notificadores, ejecutores, interventores, depositarios y peritos valuadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+I.- Aplicar la política de ingresos en materia de cobro persuasivo y coactivo correspondiente a cada ejercicio fiscal, así como ejercer las acciones tendientes a la observancia de las disposiciones fiscales estatales, federales y municipales en términos de los convenios y sus anexos, suscritos entre el Estado y la Federación y/o con los Municipios, en materia de su competencia;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+II.- Recibir de la Subdirección de cobro persuasivo y coactivo, y en su caso, proponer al Subsecretario de Ingresos, las políticas, programas, métodos, sistemas y procedimientos en materia de cobro persuasivo y coactivo, de conformidad con los ordenamientos aplicables vigentes, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios y una vez aprobados, ordenar su exacta aplicación;
+
+III.- Atender, de conformidad con las disposiciones fiscales estatales, federales y municipales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las promociones de carácter administrativo que en materia de su competencia presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados;
+
+IV.- Recibir de la Subdirección de Recaudación y en su caso, proponer al Subsecretario de Ingresos, la política para la solución administrativa derivada de aclaraciones en materia de requerimientos de cumplimiento de obligaciones fiscales o de pago de contribuciones y demás documentos de naturaleza análoga;
+
+V.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+VI.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+VII.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VIII.- Programar y ordenar, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la emisión de requerimientos de presentación de declaraciones, avisos, así como del cumplimiento de obligaciones fiscales a cargo de los contribuyentes y responsables solidarios, y turnarlos a las Oficinas Recaudadoras y de Asistencia al Contribuyente para su firma;
+
+IX.- Determinar en el ámbito de su competencia, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios la responsabilidad solidaria;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+X.- Llevar a cabo en términos de las disposiciones fiscales y demás aplicables los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados; incluyendo el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores y responsables solidarios;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XI.- Solicitar a las entidades financieras y sociedades cooperativas de ahorro y préstamo que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de las cuentas, los depósitos, servicios, fideicomisos, créditos o préstamos otorgados a personas físicas y morales, o cualquier tipo de operaciones, cuando la petición que formule derive del ejercicio de facultades relacionadas con el cobro de créditos fiscales a través del procedimiento administrativo de ejecución;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XII.- Ordenar de conformidad con las disposiciones fiscales y demás aplicables los convenios y sus anexos, suscritos entre el Estado y la Federación a la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda;
+
+XIII.- Girar oficio a la Comisión Nacional Bancaria y de Valores o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta del contribuyente a efecto de que de inmediato la inmovilice y conserve los fondos depositados;
+
+XIV.- Ordenar, de conformidad con las disposiciones fiscales y demás aplicables los convenios y sus anexos suscritos entre el Estado y la Federación, a la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, la transferencia de los depósitos bancarios embargados;
+
+XV.- Conocer o en su caso, proponer al Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía de interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVI.- Conocer y resolver, o en su caso, someter a consideración y firma del Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las resoluciones a las solicitudes de autorización de pago diferido o en parcialidades de los créditos fiscales estatales, federales y municipales coordinados, mediante garantía de su importe y accesorios legales;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVII.- Emitir, o en su caso, proponer al Subsecretario de Ingresos, de acuerdo a la normatividad y de conformidad con las disposiciones fiscales y demás aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la revocación de las autorizaciones de pago diferido o en parcialidades de los créditos fiscales, estatales, federales o municipales coordinados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVIII.- Proponer al Subsecretario de Ingresos, la creación o extinción de las Administraciones de Recaudación;
+
+XIX.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XX.- Expedir oficios de designación, credenciales o constancias de identificación que acrediten a los notificadores y ejecutores de su adscripción, depositarios, peritos valuadores e interventores y vigilar que éstos cumplan con las obligaciones inherentes a su cargo;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXI.- Proponer al Subsecretario de Ingresos, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios;
+
+XXII.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+XXIII.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIV.- Informar periódicamente a las Dependencias y Entidades de la Administración Pública Federal y Estatal, así como a los Poderes del Estado, de la situación que guardan las multas administrativas no fiscales que hayan enviado para su cobro;
+
+XXV.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVI.- Recibir, tramitar, calificar, aceptar, constituir, rechazar, hacer efectivas, ampliar, disminuir, sustituir, cancelar o liberar, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las garantías para asegurar el interés fiscal;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVII.- Ampliar, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, el embargo de bienes del contribuyente o responsable solidario, cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales a su cargo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVIII.- Conocer y resolver, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las solicitudes de aclaración, y en los casos que proceda, cancelar los requerimientos del cumplimiento de obligaciones fiscales que sean notoriamente improcedentes;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIX.- Remitir a la Procuraduría Fiscal a través de la Dirección de Apoyo Técnico y Legal de la Subsecretaría de Ingresos, los expedientes sobre la presunta comisión de delitos fiscales federales o estatales de las que tenga conocimiento, con motivo de las actuaciones de las Unidades Administrativas de su adscripción;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXX.- Recibir de las Oficinas Recaudadoras y de Asistencia al Contribuyente los expedientes de las solicitudes de pago a plazos, ya sea diferido o en parcialidades, de los créditos fiscales para su autorización y seguimiento;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXI.- Notificar los actos administrativos, relacionados con el ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXII.- Enajenar, dentro o fuera de remate, bienes o negociaciones embargados a través del procedimiento administrativo de ejecución, así como expedir el documento que ampare la enajenación de los mismos de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXIII.- Fijar, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, los honorarios de los depositarios, peritos o interventores que se requieran en la aplicación del procedimiento administrativo de ejecución;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXIV.- Declarar el abandono de los bienes y de las cantidades a favor del Fisco Federal o del Fisco Estatal según sea el caso, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXV.- Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que lleve a cabo; así como determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXVI.- Proporcionar a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, información relativa a los créditos fiscales exigibles de los contribuyentes, en el ámbito de su competencia, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXVII.- Determinar y liquidar a los contribuyentes, responsables solidarios y demás obligados, las diferencias que hubiere por haber realizado pagos a plazos, diferidos o en parcialidades, sin tener derecho a ello.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN II. DE LA SUBDIRECCIÓN DE COBRO PERSUASIVO Y COACTIVO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 25.
+
+La Subdirección de Cobro Persuasivo y Coactivo dependerá jerárquicamente de la Dirección de Recaudación y estará a cargo de un titular, quien se auxiliará por el Jefe del Departamento Técnico de Ejecución, los Administradores de Recaudación, notificadores, ejecutores, interventores, depositarios y peritos valuadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+
+I.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+II.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+III.- Vigilar, de conformidad con las disposiciones fiscales y normatividad aplicables, el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes y responsables solidarios;
+
+IV.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+V.- Programar y gestionar, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la emisión de requerimientos de presentación de declaraciones, avisos, así como del cumplimiento de obligaciones fiscales a cargo de los contribuyentes y responsables solidarios, y turnarlos a las Oficinas Recaudadoras y de Asistencia al Contribuyente para su firma;
+
+VI.- Integrar y remitir los expedientes a la Dirección de Fiscalización, para determinar la responsabilidad solidaria, en los créditos provenientes del ejercicio de las facultades de comprobación, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VII.- Llevar a cabo en términos de las disposiciones fiscales y demás aplicables los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados; incluyendo el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores y responsables solidarios, así como hacer efectivas las garantías constituidas para asegurar el interés fiscal;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VIII.- Solicitar a las entidades financieras y sociedades cooperativas de ahorro y préstamo que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de las cuentas, los depósitos, servicios, fideicomisos, créditos o préstamos otorgados a personas físicas y morales, o cualquier tipo de operaciones, cuando la petición que formule derive del ejercicio de facultades relacionadas con el cobro de créditos fiscales a través del procedimiento administrativo de ejecución;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+IX.- Ordenar de conformidad con las disposiciones fiscales y demás aplicables los convenios y sus anexos, suscritos entre el Estado y la Federación a la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda;
+
+X.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XI.- Proponer al Director de Recaudación, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, las órdenes de transferencia de los depósitos bancarios embargados, dirigidos a la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XII.- Someter a consideración del Director de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía del interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIII.- Conocer y resolver, o en su caso, someter a consideración del Director de Recaudación de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las resoluciones a las solicitudes de autorización de pago diferido o en parcialidades de los créditos fiscales estatales, federales y municipales coordinados, mediante garantía de su importe y accesorios legales, inclusive tratándose de aprovechamientos, así como determinar y liquidar a los contribuyentes responsables solidarios y demás obligados, las diferencias que hubiere por haber realizado pago a plazos, diferidos o en parcialidades sin tener derecho a ello;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIV.- Proponer al Director de Recaudación, de acuerdo con la normatividad y de conformidad con las disposiciones fiscales y demás aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la revocación de las autorizaciones de pago diferido o en parcialidades de los créditos fiscales, estatales, federales o municipales coordinados;
+
+XV.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+XVI.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+XVII.- Turnar al Director de Recaudación, los informes del estado en que se encuentra el cobro de los créditos fiscales estatales, federales y municipales coordinados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVIII.- Expedir o proponer al Director de Recaudación, oficios de designación, credenciales o constancias de identificación que acrediten a los notificadores y ejecutores de su adscripción, depositarios, peritos valuadores e interventores, y vigilar que éstos cumplan con las obligaciones inherentes a su cargo;
+
+XIX.- Supervisar que el Departamento Técnico de Ejecución, mantenga debidamente actualizados los formatos que deban emplearse en el Procedimiento Administrativo de Ejecución;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XX.- Proponer al Director de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios y la normatividad aplicable, la cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios;
+
+XXI.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+XXII.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIII.- Elaborar y proponer al Director de Recaudación, la política, para la solución administrativa derivada de aclaraciones en materia de requerimientos de cumplimiento de obligaciones fiscales o de pago de contribuciones y demás documentos de naturaleza análoga, y una vez aprobadas enviar a la Subdirección de Orientación y Asistencia al Contribuyente para su aplicación a través de las Oficinas Recaudadoras y de Asistencia al Contribuyente;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIV.- Remitir a la Subdirección de Orientación y Asistencia al Contribuyente la normatividad, política, procedimientos y toda documentación que en materia de vigilancia de obligaciones y cobranza coactiva deban aplicar las Oficinas Recaudadoras y de Asistencia al Contribuyente;
+
+XXV.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+XXVI.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVII.- Elaborar y someter a la consideración del Director de Recaudación, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las resoluciones a las solicitudes de aclaración de requerimientos del cumplimiento de obligaciones fiscales;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVIII.- Ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, o cuando la garantía del interés fiscal resulte insuficiente, y fijar los honorarios del depositario de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIX.- Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos administrativos de ejecución que lleve a cabo, así como determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXX.- Enajenar, dentro o fuera de remate, bienes o negociaciones embargados a través del procedimiento administrativo de ejecución, así como expedir el documento que ampare la enajenación de los mismos de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXI.- Declarar el abandono de los bienes y de las cantidades a favor del Fisco Federal o del Fisco Estatal según el caso, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXXII.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares y convenios, así como las que le confieran el Subsecretario de Ingresos y el Director de Recaudación.
+
+#### SECCIÓN III. DEL DEPARTAMENTO TÉCNICO DE EJECUCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 26.
+
+El Departamento Técnico de Ejecución dependerá jerárquicamente de la Subdirección de Cobro Persuasivo y Coactivo y estará a cargo de un titular, quien se auxiliará por los Administradores de Recaudación, los notificadores, ejecutores, interventores, depositarios y peritos valuadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+I.- Recibir de las autoridades federales y estatales, así como de las Unidades Administrativas de la Secretaría, los documentos determinantes de créditos fiscales debidamente notificados; asignándoles un número de crédito y en los casos que proceda, turnarlos a las Administraciones de Recaudación o a las Oficinas Recaudadoras y de Asistencia al Contribuyente para la aplicación del Procedimiento Administrativo de Ejecución;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+II.- Llevar a cabo en términos de las disposiciones fiscales y demás aplicables los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales, coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados; incluyendo el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores y responsables solidarios, así como hacer efectivas las garantías constituidas para asegurar el interés fiscal;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+III.- Solicitar a las entidades financieras y sociedades cooperativas de ahorro y préstamo que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de las cuentas, los depósitos, servicios, fideicomisos, créditos o préstamos otorgados a personas físicas y morales, o cualquier tipo de operaciones, cuando la petición que formule derive del ejercicio de facultades relacionadas con el cobro de créditos fiscales a través del procedimiento administrativo de ejecución;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+IV.- Ordenar de conformidad con las disposiciones fiscales y demás aplicables los convenios y sus anexos, suscritos entre el Estado y la Federación a la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda;
+
+V.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VI.- Elaborar y proponer al Subdirector de Cobro Persuasivo y Coactivo, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, las órdenes de transferencia de los depósitos bancarios embargados, dirigidas a la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate;
+
+VII.- Notificar los actos administrativos, en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VIII.- Proponer al Subdirector de Cobro Persuasivo y Coactivo la constitución, aceptación, rechazo, calificación o cancelación, según proceda, de las garantías para asegurar el interés fiscal, así como sus ampliaciones, disminuciones o sustituciones; de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+IX.- Remitir a la Dirección de Tesorería para su custodia, las pólizas de fianza que se reciban como garantía del interés fiscal y, en el momento en que se hagan exigibles, integrar el expediente en los términos que señalen las leyes de la materia y la normatividad aplicable, para turnarlo a la Procuraduría Fiscal para el trámite correspondiente; asimismo, cancelarlas y devolverlas en los casos que proceda;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+X.- Proponer al Subdirector de Cobro Persuasivo y Coactivo, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía del interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XI.- Proponer al Subdirector de Cobro Persuasivo y Coactivo, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, las resoluciones a las solicitudes de pago diferido o en parcialidades de los créditos fiscales estatales, federales y/o municipales coordinados, mediante garantía de su importe y accesorios legales, inclusive tratándose de aprovechamientos;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XII.- Proponer al Subdirector de Cobro Persuasivo y Coactivo, de acuerdo con la normatividad y demás disposiciones fiscales aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la revocación de las autorizaciones de pago diferido o en parcialidades de los créditos fiscales, estatales, federales o municipales coordinados;
+
+XIII.- Diseñar y mantener actualizados los formatos que deban emplearse en el Procedimiento Administrativo de Ejecución;
+
+XIV.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XV.- Elaborar y presentar al Subdirector de Cobro Persuasivo y Coactivo, los informes del estado en que se encuentra el cobro de los créditos fiscales estatales, federales y municipales coordinados; así como las medidas necesarias para eficientar su recaudación;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVI.- Integrar y concentrar, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, los expedientes de créditos fiscales susceptibles de cancelación en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios; y proponer al Subdirector de Cobro Persuasivo y Coactivo el trámite correspondiente;
+
+XVII.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVIII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIX.- Ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, o cuando la garantía del interés fiscal resulte insuficiente, y fijar los honorarios del depositario de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XX.- Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos administrativos de ejecución que lleve a cabo, así como determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXI.- Proponer al Subdirector de cobro persuasivo y coactivo la enajenación, dentro o fuera de remate, bienes y negociaciones embargados a través del procedimiento administrativo de ejecución, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXII.- Proponer al Subdirector de cobro persuasivo y coactivo, la declaración del abandono de los bienes y de las cantidades a favor del Fisco Federal o del Fisco Estatal según el caso, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIII.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares y convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Recaudación y el Subdirector de Cobro Persuasivo y Coactivo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN IV. DE LAS ADMINISTRACIONES DE RECAUDACIÓN
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 27.
+
+Las Administraciones de Recaudación dependerán jerárquicamente del Departamento Técnico de Ejecución y estarán a cargo de un titular, quien se auxiliará por los notificadores, ejecutores, interventores, depositarios y peritos valuadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+
+I.- Recibir del Departamento Técnico de Ejecución, los documentos determinantes de créditos fiscales para el inicio del Procedimiento Administrativo de Ejecución;
+
+II.- Llevar a cabo en términos de las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales estatales, federales y municipales coordinados a cargo de los contribuyentes, responsables solidarios y demás obligados;
+
+III.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados los actos administrativos, en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+IV.- Recibir en los casos que proceda, las garantías ofrecidas por los contribuyentes o responsables solidarios para asegurar el interés fiscal, así como vigilar que sean suficientes y estén actualizadas;
+
+V.- Proponer al Jefe del Departamento Técnico de Ejecución, de conformidad con las disposiciones fiscales y normatividad aplicables, las resoluciones a las solicitudes de dispensa del otorgamiento de la garantía del interés fiscal, en materia de ingresos estatales, federales y municipales coordinados;
+
+VI.- Elaborar y presentar al Jefe del Departamento Técnico de Ejecución, los informes del estado en que se encuentra el cobro de los créditos fiscales estatales, federales y municipales coordinados; así como las medidas necesarias para eficientar su recaudación;
+
+VII.- Integrar y concentrar en el Departamento Técnico de Ejecución, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, los expedientes susceptibles de cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios;
+
+VIII.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, de conformidad con la legislación aplicable y los convenios suscritos, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios, los informes que tengan con motivo de sus funciones;
+
+IX.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda;
+
+X.- Ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, o cuando la garantía del interés fiscal resulte insuficiente, y fijar los honorarios del depositario de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+XI.- Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que lleve a cabo, así como determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+XII.- Proponer al Departamento Técnico de Ejecución la enajenación, dentro o fuera de remate, bienes y negociaciones embargados a través del procedimiento administrativo de ejecución, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios;
+
+XIII.- Proponer al Jefe del Departamento Técnico de Ejecución la declaración del abandono de los bienes y de las cantidades a favor del Fisco Federal o del Fisco Estatal según el caso, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, y
+
+XIV.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares y convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Recaudación, el Subdirector de cobro persuasivo y coactivo y el Jefe del Departamento Técnico de Ejecución.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN V. DE LAS OFICINAS RECEPTORAS DE PAGO
+
+###### ARTÍCULO 28.
+
+(DEROGADO, P.O. 17 DE FEBRERO DE 2015)
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE FISCALIZACIÓN
 
-#### SECCIÓN IV. DE LA SUBDIRECCIÓN DE REVISIONES ESTATALES
+#### SECCIÓN I. DE LA DIRECCIÓN DE FISCALIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 29.
 
-La Dirección de Fiscalización dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un Titular, quien será auxiliado por las Subdirecciones de Revisiones Federales “A”, de Revisiones Federales “B”, de Revisiones Estatales y de Programación, Evaluación y Análisis, así como por los visitadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
+La Dirección de Fiscalización dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un titular, quien será auxiliado por las Subdirecciones de Revisiones Federales "A", de Revisiones Federales "B", de Revisiones Estatales, de Programación, Evaluación y Análisis y, de Procedimientos Legales de Fiscalización, así como por los visitadores, notificadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
 
 I.- Proponer al Subsecretario de Ingresos las políticas, planes, programas, métodos y sistemas que deben observarse en el ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales a cargo de los contribuyentes, responsables solidarios y demás sujetos obligados, en materia estatal y federal coordinada;
 
@@ -1339,7 +1837,9 @@ XXI.- Ordenar o continuar, de conformidad con las disposiciones fiscales federal
 
 XXII.- Solicitar a otras Entidades Federativas, que ordenen o continúen, de conformidad con las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, la práctica de los actos de fiscalización de impuestos federales coordinados que se hayan iniciado en el Estado de Puebla, cuando el contribuyente fiscalizado cambie su domicilio fiscal a la circunscripción territorial de dichas Entidades Federativas;
 
-XXIII.- Expedir los oficios de designación, credenciales o constancias de identificación que acrediten a los visitadores que se autoricen para el ejercicio de las facultades de comprobación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIII.- Expedir oficios de designación, credenciales o constancias de identificación que acrediten a los visitadores que se autoricen para el ejercicio de las facultades de comprobación; así como a los notificadores de su adscripción y vigilar que estos cumplan con las obligaciones inherentes a su cargo;
 
 XXIV.- Difundir entre las áreas de su adscripción, la normatividad aplicable al ejercicio de las facultades de comprobación en materia de contribuciones estatales y federales coordinadas;
 
@@ -1347,15 +1847,25 @@ XXV.- Remitir a la Dirección de Apoyo Técnico y Legal, los expedientes sobre l
 
 XXVI.- Recuperar los incentivos económicos de impuestos federales coordinados, derivados de pagos efectuados por los contribuyentes en Instituciones Bancarias a favor de la Tesorería de la Federación, como resultado de los actos de fiscalización, conforme al Convenio de Colaboración Administrativa y sus anexos respectivos, por los montos que hayan quedado autorizados por el área correspondiente de la Secretaría de Hacienda y Crédito Público;
 
-XXVII.- Evaluar el cumplimiento de los programas estatales, así como de los federales derivados de los convenios y sus anexos suscritos entre el Estado y la Federación, y proporcionar esta información al Subsecretario de Ingresos; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XXVIII.- Remitir a la Dirección de Recaudación para su notificación, control y cobro, los oficios, resoluciones y documentos relacionados con el ejercicio de sus facultades.
+XXVII.- Evaluar el cumplimiento de los programas estatales, así como de los federales derivados de los convenios y sus anexos suscritos entre el Estado y la Federación, y proporcionar esta información al Subsecretario de Ingresos;
 
-#### SECCIÓN V. DE LA SUBDIRECCIÓN DE PROGRAMACIÓN, EVALUACIÓN Y ANÁLISIS
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVIII.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados los actos administrativos inherentes al ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIX.- Remitir a la Dirección de Recaudación para la aplicación del Procedimiento Administrativo de Ejecución los oficios, resoluciones y documentos determinantes de créditos, debidamente notificados.
+
+#### SECCIÓN II. DE LA SUBDIRECCIÓN DE REVISIONES FEDERALES "A"
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 30.
 
-La Subdirección de Revisiones Federales “A” dependerá jerárquicamente de la Dirección de Fiscalización y estará a cargo de un Titular, quien será auxiliado por los visitadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas; llevará a cabo el ejercicio de sus facultades y funciones en la circunscripción territorial del Municipio de Puebla y tendrá las atribuciones siguientes:
+La Subdirección de Revisiones Federales "A" dependerá jerárquicamente de la Dirección de Fiscalización y estará a cargo de un titular, quien será auxiliado por los visitadores, notificadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas; llevará a cabo el ejercicio de sus facultades y funciones en la circunscripción territorial del Municipio de Puebla y tendrá las atribuciones siguientes:
 
 I.- Practicar, de conformidad con las disposiciones fiscales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación, las visitas domiciliarias, así como los demás actos de fiscalización y de comprobación en materia de impuestos federales coordinados;
 
@@ -1389,17 +1899,29 @@ XV.- Someter a consideración del Director de Fiscalización las solicitudes que
 
 XVI.- Proporcionar a la Subdirección de Programación, Evaluación y Análisis, la documentación necesaria para recuperar los incentivos económicos de impuestos federales coordinados, derivados de pagos efectuados por los contribuyentes en instituciones bancarias a favor de la Tesorería de la Federación, como resultado de los actos de fiscalización, conforme al convenio de colaboración administrativa y sus anexos respectivos, por los montos que hayan quedado autorizados por el área correspondiente de la Secretaría de Hacienda y Crédito Público;
 
-XVII.- Remitir al Departamento Técnico de Ejecución a través de la Dirección de Recaudación, los oficios, resoluciones y documentos relacionados con el ejercicio de las facultades de esta Subdirección, para que se les asigne un número de crédito y se lleve a cabo su notificación y cobro;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XVIII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
+XVII.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, los actos administrativos inherentes al ejercicio de sus facultades en los casos y en las formas en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación;
 
-XIX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE VERIFICACIÓN DE COMERCIO EXTERIOR
+XVIII.- Remitir, previo acuerdo con su superior jerárquico, a la Dirección de Recaudación para la aplicación del Procedimiento Administrativo de Ejecución los oficios, resoluciones y documentos determinantes de créditos fiscales, debidamente notificados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIX.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
+
+#### SECCIÓN III. DE LA SUBDIRECCIÓN DE REVISIONES FEDERALES "B"
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 31.
 
-La Subdirección de Revisiones Federales “B” dependerá jerárquicamente de la Dirección de Fiscalización y estará a cargo de un Titular, quien será auxiliado por los visitadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas; llevará a cabo el ejercicio de sus facultades y funciones en la circunscripción territorial de los Municipios del Estado de Puebla, con excepción de la del Municipio de Puebla y tendrá las atribuciones siguientes:
+La Subdirección de Revisiones Federales "B" dependerá jerárquicamente de la Dirección de Fiscalización y estará a cargo de un titular, quien será auxiliado por los visitadores, notificadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas; llevará a cabo el ejercicio de sus facultades y funciones en la circunscripción territorial de los Municipios del Estado de Puebla, con excepción de la del Municipio de Puebla y tendrá las atribuciones siguientes:
 
 I.- Practicar, de conformidad con las disposiciones fiscales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación, las visitas domiciliarias, así como los demás actos de fiscalización y de comprobación en materia de impuestos federales coordinados;
 
@@ -1433,17 +1955,29 @@ XV.- Someter a consideración del director de fiscalización las solicitudes que
 
 XVI.- Proporcionar a la Subdirección de Programación, Evaluación y Análisis, la documentación necesaria para recuperar los incentivos económicos de impuestos federales coordinados, derivados de pagos efectuados por los contribuyentes en instituciones bancarias a favor de la Tesorería de la Federación, como resultado de los actos de fiscalización, conforme al convenio de colaboración administrativa y sus anexos respectivos, por los montos que hayan quedado autorizados por el área correspondiente de la Secretaría de Hacienda y Crédito Público;
 
-XVII.- Remitir al Departamento Técnico de Ejecución a través de la Dirección de Recaudación, los oficios, resoluciones y documentos relacionados con el ejercicio de las facultades de esta Subdirección, para que se les asigne un número de crédito y se lleve a cabo su notificación y cobro;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XVIII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
+XVII.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados los actos administrativos, inherentes al ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación;
 
-XIX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN II. DE LA SUBDIRECCIÓN TÉCNICA DE COMERCIO EXTERIOR
+XVIII.- Remitir, previo acuerdo con su superior jerárquico, a la Dirección de Recaudación para la aplicación del Procedimiento Administrativo de Ejecución los oficios, resoluciones y documentos determinantes de créditos fiscales, debidamente notificados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIX.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
+
+#### SECCIÓN IV. DE LA SUBDIRECCIÓN DE REVISIONES ESTATALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 32.
 
-La Subdirección de Revisiones Estatales dependerá jerárquicamente de la Dirección de Fiscalización y estará a cargo de un Titular, quien será auxiliado por los visitadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+La Subdirección de Revisiones Estatales dependerá jerárquicamente de la Dirección de Fiscalización y estará a cargo de un titular, quien será auxiliado por los visitadores, notificadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
 
 I.- Practicar, de conformidad con las disposiciones fiscales estatales y demás aplicables, las visitas domiciliarias, así como los demás actos de fiscalización y de comprobación en materia de contribuciones estatales;
 
@@ -1467,13 +2001,23 @@ X.- Recabar de los servidores y fedatarios públicos los informes, datos y docum
 
 XI.- Proponer al Director de Fiscalización, de conformidad con las disposiciones fiscales estatales y demás aplicables, los oficios de observaciones, de conclusión o de suspensión de la revisión en materia de contribuciones estatales y los demás inherentes a los actos de fiscalización;
 
-XII.- Remitir al Departamento Técnico de Ejecución a través de la Dirección de Recaudación, los oficios, resoluciones y documentos relacionados con el ejercicio de las facultades de esta Subdirección, para que se les asigne un número de crédito y se lleve a cabo su notificación y cobro;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XIII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
+XII.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados los actos administrativos, inherentes al ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables;
 
-XIV.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN III. DE LA SUBDIRECCIÓN OPERATIVA DE PRESENCIA FISCAL
+XIII.- Remitir, previo acuerdo con su superior jerárquico, a la Dirección de Recaudación para la aplicación del Procedimiento Administrativo de Ejecución los oficios, resoluciones y documentos determinantes de créditos fiscales, debidamente notificados;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XIV.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XV.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
+
+#### SECCIÓN V. DE LA SUBDIRECCIÓN DE PROGRAMACIÓN, EVALUACIÓN Y ANÁLISIS
 
 ###### ARTÍCULO 33.
 
@@ -1485,9 +2029,9 @@ II.- Proponer al Director de Fiscalización las solicitudes de informes o docume
 
 III.- Recibir y remitir a las Subdirecciones de Revisiones Federales “A” o “B”, según corresponda, las solicitudes, información y documentación relativa a los actos de fiscalización de impuestos federales coordinados, que hayan iniciado otras Entidades Federativas, de conformidad con el convenio de colaboración administrativa en materia fiscal federal, cuando el contribuyente revisado cambie de domicilio fiscal y se haya verificado su localización en la circunscripción territorial del Estado de Puebla;
 
-IV.- Difundir entre las áreas de la Dirección, la normatividad aplicable al ejercicio de las facultades de comprobación en materia de contribuciones estatales y federales coordinadas;
+IV.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
 
-V.- Integrar los expedientes sobre presuntas comisiones de delitos fiscales y proponer al Director de Fiscalización su remisión a la autoridad competente para que formule la denuncia o querella que corresponda, de conformidad con las disposiciones fiscales y demás aplicables y los convenios y sus anexos suscritos entre el Estado y la Federación;
+V.- (DEROGADA, P.O. 17 DE FEBRERO DE 2015)
 
 VI.- Coadyuvar con el Director de Fiscalización, a fin de recuperar los incentivos económicos de impuestos federales coordinados, derivados de pagos efectuados por los contribuyentes en instituciones bancarias a favor de la Tesorería de la Federación, como resultado de los actos de fiscalización, conforme al convenio de colaboración administrativa y sus anexos respectivos, por los montos que hayan quedado autorizados por el área correspondiente de la Secretaría de Hacienda y Crédito Público;
 
@@ -1495,15 +2039,55 @@ VII.- Concentrar y analizar la información relativa a las funciones de las áre
 
 VIII.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
 
-#### SECCIÓN IV. DE LA SUBDIRECCIÓN DE INVESTIGACIÓN, INTELIGENCIA ADUANERA Y PROGRAMACIÓN
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE VERIFICACIÓN DE COMERCIO EXTERIOR
+#### SECCIÓN VI. DE LA SUBDIRECCIÓN DE PROCEDIMIENTOS LEGALES DE FISCALIZACIÓN
 
-#### SECCIÓN I. DE LA UNIDAD DE PROGRAMACIÓN Y PRESUPUESTO
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 33 BIS.- La Subdirección de Procedimientos Legales de Fiscalización dependerá jerárquicamente de la Dirección de Fiscalización y estará a cargo de un Titular, quien será auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+
+I.- Validar los aspectos de fundamentación y motivación de los documentos relativos al ejercicio de las facultades de comprobación, elaborados por las Subdirecciones adscritas a la Dirección de Fiscalización;
+
+II.- Asistir a las unidades administrativas adscritas a la Dirección de Fiscalización, a fin de que en los procedimientos administrativos que dichas unidades lleven a cabo se cumplan las formalidades previstas en las disposiciones que los regulan;
+
+III.- Proponer al Director de Fiscalización los medios para solventar las solicitudes y/o requerimientos de información relacionada con el ejercicio de facultades de comprobación de la Dirección de Fiscalización, formulados por las unidades administrativas de la Secretaría o autoridades de la administración pública federal o local;
+
+IV.- Recibir, de la unidades administrativas adscritas a la Dirección de Fiscalización, para su revisión y análisis los proyectos de determinación de créditos fiscales en materia de ingresos estatales y federales coordinados, en los que se precisen las bases para su liquidación y fijarlos en cantidad líquida, sanciones y demás accesorios que correspondan, a cargo de los contribuyentes y responsables solidarios;
+
+V.- Elaborar y someter a consideración del Director de Fiscalización los instructivos de operación de las unidades administrativas adscritas, así como los lineamientos de carácter interno en las materias de su competencia;
+
+VI.- Proponer al Director de Fiscalización, los proyectos de contestación relativos a las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, relativos a actos de fiscalización, de conformidad con las disposiciones fiscales estatales, federales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación;
+
+VII.- Dar a conocer a las unidades administrativas de la Dirección de Fiscalización, los criterios en materia fiscal dictados por los tribunales que incidan en las funciones de la Dirección de Fiscalización, así como los que de a conocer la Procuraduría Fiscal;
+
+VIII.- Elaborar y proponer al Director de Fiscalización los actos que se emitan en cumplimiento de las resoluciones y sentencias dictadas por autoridad judicial competente;
+
+IX.- Integrar los expedientes sobre la presunta comisión de delitos fiscales federales, estatales o cualquier otro que se cometa en perjuicio del erario y someter a consideración del Director de Fiscalización para su envío a la Dirección de Apoyo Técnico Legal o a la autoridad competente en términos de los Convenios de Colaboración respectivos;
+
+X.- Difundir a las Subdirecciones adscritas a la Dirección de Fiscalización, la normatividad aplicable al ejercicio de las facultades de comprobación en materia de contribuciones estatales y federales coordinadas;
+
+XI.- Validar y someter a consideración del Director de Fiscalización, las consultas sobre situaciones reales y concretas que serán remitidas a las autoridades competentes;
+
+XII.- Compilar la normatividad interna de la Dirección de Fiscalización, en la materia fiscal;
+
+XIII.- Promover, dirigir e impartir cursos de capacitación en materia fiscal a las unidades administrativas adscritas a la Dirección de Fiscalización, y
+
+XIV.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Fiscalización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE COMERCIO EXTERIOR
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE COMERCIO EXTERIOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 34.
 
-La Dirección de Verificación de Comercio Exterior dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un Titular, quien será auxiliado por las Subdirecciones Técnica de Comercio Exterior, Operativa de Presencia Fiscal, de Investigación, Inteligencia Aduanera y Programación, por los encargados de los recintos fiscales, visitadores, verificadores y peritos, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
+La Dirección de Comercio Exterior dependerá jerárquicamente de la Subsecretaría de Ingresos y estará a cargo de un titular, quien será auxiliado por las Subdirecciones Técnica de Comercio Exterior, Operativa de Presencia Fiscal, de Investigación, Inteligencia Aduanera y Programación, por los encargados de los recintos fiscales, peritos, oficiales de comercio exterior quienes podrán estar habilitados para fungir como visitadores, verificadores y/o, notificadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
 
 I.- Ejercer y aplicar las disposiciones fiscales federales y aduaneras, en términos de los convenios y sus anexos suscritos entre el Estado y la Federación, así como las reglas generales y los criterios establecidos por el Secretario, en materia de comercio exterior;
 
@@ -1527,7 +2111,9 @@ X.- Proponer al Subsecretario de Ingresos, de conformidad con las disposiciones 
 
 XI.- Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XII.- Constituirse en depositaria de las mercancías, así como custodiar y resguardar los vehículos de procedencia extranjera embargados precautoriamente hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de los mismos;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XII.- Constituirse en depositaria de las mercancías, así como custodiar y resguardar las mercancías y vehículos de procedencia extranjera embargados precautoriamente hasta que quede firme la resolución respectiva, o en su caso, hasta que se resuelva la legal devolución de los mismos;
 
 XIII.- Recabar de los servidores públicos y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones en materia fiscal y aduanera derivadas del convenio de colaboración administrativa en materia fiscal federal y el anexo correspondiente; así como mantener la comunicación y coordinación con las aduanas del país, autoridades federales y estatales para el ejercicio de sus funciones;
 
@@ -1545,7 +2131,9 @@ XIX.- Determinar la existencia de créditos fiscales, precisar las bases para su
 
 XX.- Determinar mediante resolución la responsabilidad solidaria, de acuerdo a las disposiciones fiscales y aduaneras, así como a los convenios y sus anexos suscritos entre el Estado y la Federación;
 
-XXI.- Remitir al Departamento Técnico de Ejecución a través de la Dirección de Recaudación, los oficios, resoluciones y documentos relacionados con el ejercicio de las facultades de esta Dirección, para que se les asigne un número de crédito y se lleve a cabo su notificación y cobro;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXI.- Remitir a la Dirección de Recaudación para la aplicación del Procedimiento Administrativo de Ejecución los oficios, resoluciones y documentos determinantes de créditos fiscales, debidamente notificados;
 
 XXII.- Declarar, de conformidad con la Ley Aduanera, las disposiciones aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación, que las mercancías o vehículos embargados precautoriamente han causado abandono a favor del Fisco Federal, o, que pasan a propiedad del Fisco Federal;
 
@@ -1557,15 +2145,25 @@ XXV.- Habilitar, registrar y administrar de conformidad con las disposiciones ap
 
 XXVI.- Difundir entre las áreas de su adscripción, la normatividad aplicable al ejercicio de las facultades en materia aduanera y de comercio exterior;
 
-XXVII.- Remitir a la Dirección de Apoyo Técnico y Legal, los expedientes sobre la presunta comisión de delitos fiscales federales o estatales, para su trámite correspondiente; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XXVIII.- Rendir, de conformidad con las condiciones y plazos convenidos con la Federación, los informes que deban presentarse ante la Secretaría de Hacienda y Crédito Público, con motivo del ejercicio de sus atribuciones.
+XXVII.- Remitir a la Dirección de Apoyo Técnico y Legal, los expedientes sobre la presunta comisión de delitos fiscales federales o estatales, para su trámite correspondiente;
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE CONTABILIDAD
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXVIII.- Rendir, de conformidad con las condiciones y plazos convenidos con la Federación, los informes que deban presentarse ante la Secretaría de Hacienda y Crédito Público, con motivo del ejercicio de sus atribuciones, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XXIX.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados los actos administrativos, inherentes al ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación.
+
+#### SECCIÓN II. DE LA SUBDIRECCIÓN TÉCNICA DE COMERCIO EXTERIOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 35.
 
-La Subdirección Técnica de Comercio Exterior dependerá jerárquicamente de la Dirección de Verificación de Comercio Exterior y estará a cargo de un Titular, quien será auxiliado por los visitadores, verificadores y peritos, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+La Subdirección Técnica de Comercio Exterior dependerá jerárquicamente de la Dirección de Comercio Exterior y estará a cargo de un Titular, quien será auxiliado por los visitadores, verificadores y peritos, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
 
 I.- Practicar, de conformidad con las disposiciones aplicables y los convenios y sus anexos suscritos entre el Estado y la Federación, visitas domiciliarias y de verificación de mercancías de procedencia extranjera, así como auditorias en centros de almacenamiento, distribución o comercialización, puestos fijos, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en el territorio del Estado, y en su caso, realizar el embargo precautorio;
 
@@ -1579,73 +2177,123 @@ V.- Recabar de los servidores públicos y de los fedatarios, los informes y dato
 
 VI.- Contestar, de conformidad con las disposiciones fiscales federales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación, las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, en materia de su competencia;
 
-VII.- Proponer al Director de Verificación de Comercio Exterior, las resoluciones para determinar la responsabilidad solidaria, de conformidad a las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-VIII.- Remitir al Departamento Técnico de Ejecución a través de la Dirección de Recaudación, los oficios, resoluciones y documentos relacionados con el ejercicio de las facultades de la Dirección de Verificación de Comercio Exterior, para que se les asigne un número de crédito y se lleve a cabo su notificación y cobro;
+VII.- Proponer al Director de Comercio Exterior, las resoluciones para determinar la responsabilidad solidaria, de conformidad a las disposiciones fiscales y demás aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación;
 
-IX.- Difundir entre las áreas de la Dirección de Verificación de Comercio Exterior, la normatividad aplicable al ejercicio de las facultades en materia aduanera y de comercio exterior;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-X.- Someter a consideración del Director de Verificación de Comercio Exterior los acuerdos de adjudicación de los bienes muebles e inmuebles que deriven de los actos realizados en materia de comercio exterior;
+VIII.- Remitir, previo acuerdo con su superior jerárquico, a la Dirección de Recaudación para la aplicación del Procedimiento Administrativo de Ejecución los oficios, resoluciones y documentos determinantes de créditos fiscales, debidamente notificados;
 
-XI.- Proponer al Director de Verificación de Comercio Exterior, el levantamiento del embargo precautorio y la entrega de las mercancías o vehículos embargados precautoriamente, en los casos que resulten procedentes de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+IX.- Difundir entre las áreas de la Dirección de Comercio Exterior, la normatividad aplicable al ejercicio de las facultades en materia aduanera y de comercio exterior;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+X.- Someter a consideración del Director de Comercio Exterior los acuerdos de adjudicación de los bienes muebles e inmuebles que deriven de los actos realizados en materia de comercio exterior;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XI.- Proponer al Director de Comercio Exterior, el levantamiento del embargo precautorio y la entrega de las mercancías o vehículos embargados precautoriamente, en los casos que resulten procedentes de conformidad con las disposiciones legales aplicables;
 
 XII.- Supervisar que los peritos designados emitan los dictámenes técnicos relacionados con las revisiones de las obligaciones de que se trate, conforme a las disposiciones aplicables, los convenios y sus anexos suscritos entre el Estado y la Federación;
 
-XIII.- Integrar los expedientes sobre presuntas comisiones de delitos fiscales o delitos de los servidores públicos en el desempeño de sus funciones, así como de los que pudieran implicar responsabilidad administrativa y proponer al director de verificación de comercio exterior su remisión a la autoridad competente para que se formule la denuncia o querella que corresponda, de conformidad con las disposiciones fiscales aplicables;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-XIV.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los términos de las normas aplicables; y
+XIII.- Integrar los expedientes sobre presuntas comisiones de delitos fiscales o delitos de los servidores públicos en el desempeño de sus funciones, así como de los que pudieran implicar responsabilidad administrativa y proponer al Director de Comercio Exterior su remisión a la autoridad competente para que se formule la denuncia o querella que corresponda, de conformidad con las disposiciones fiscales aplicables;
 
-XV.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Verificación de Comercio Exterior.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE TESORERÍA
+XIV.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los términos de las normas aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XV.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados los actos administrativos, inherentes al ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XVI.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Comercio Exterior.
+
+#### SECCIÓN III. DE LA SUBDIRECCIÓN OPERATIVA DE PRESENCIA FISCAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 36.
 
-La Subdirección Operativa de Presencia Fiscal dependerá jerárquicamente de la Dirección de Verificación de Comercio Exterior y estará a cargo de un Titular, quien será auxiliado por los visitadores y verificadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+La Subdirección Operativa de Presencia Fiscal dependerá jerárquicamente de la Dirección de Comercio Exterior y estará a cargo de un Titular, quien será auxiliado por los visitadores y verificadores, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
 
 I.- Practicar de conformidad con las disposiciones aplicables y los convenios y sus anexos suscritos entre el Estado y la Federación, visitas domiciliarias y de verificación de mercancías de procedencia extranjera, así como auditorías en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en el territorio del Estado, y en su caso, realizar el embargo precautorio;
 
 II.- Practicar, de conformidad con las disposiciones aplicables y los convenios y sus anexos suscritos entre el Estado y la Federación, la verificación de vehículos en circulación y mercancías en transporte, para comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio del Estado, aun cuando no se encuentren en movimiento, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes en los que se realice la exhibición de los mismos para su venta, procediendo, en su caso, al embargo precautorio de los mismos;
 
-III.- Proponer al director de verificación de comercio exterior, el levantamiento del embargo precautorio y la entrega de las mercancías o vehículos embargados precautoriamente, en los casos que resulten procedentes de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+III.- Proponer al Director de Comercio Exterior, el levantamiento del embargo precautorio y la entrega de las mercancías o vehículos embargados precautoriamente, en los casos que resulten procedentes de conformidad con las disposiciones legales aplicables;
 
 IV.- Entregar al responsable del recinto fiscal, para su guarda y custodia las mercancías y los vehículos embargados precautoriamente hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de la mercancía o vehículo de que se trate;
 
-V.- Turnar el mismo día de su recepción a la Subdirección Técnica de Comercio Exterior, los asuntos de naturaleza jurídica que hubieren recibido y que en términos de este ordenamiento, sean competencia de la Dirección de Verificación de Comercio Exterior;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+V.- Turnar el mismo día de su recepción a la Subdirección Técnica de Comercio Exterior, los asuntos de naturaleza jurídica que hubieren recibido y que en términos de este ordenamiento, sean competencia de la Dirección de Comercio Exterior;
 
 VI.- Contestar, de conformidad con las disposiciones fiscales federales y demás aplicables, así como de los convenios y sus anexos suscritos entre el Estado y la Federación, las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, en materia de su competencia;
 
 VII.- Recabar de los servidores públicos y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones en materia fiscal y aduanera derivadas del convenio de colaboración administrativa en materia fiscal federal y el anexo correspondiente; así como mantener la comunicación y coordinación con las aduanas del país, autoridades federales y estatales para el ejercicio de sus funciones;
 
-VIII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-IX.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Verificación de Comercio Exterior.
+VIII.- Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda;
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PROGRAMACIÓN, SEGUIMIENTO Y ANÁLISIS DEL GASTO
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+IX.- Remitir, previo acuerdo con su superior jerárquico, a la Dirección de Recaudación para la aplicación del Procedimiento Administrativo de Ejecución los oficios, resoluciones y documentos determinantes de créditos fiscales, debidamente notificados;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+X.- Notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados los actos administrativos, inherentes al ejercicio de sus facultades en los casos y en la forma en que determinen las disposiciones fiscales, normatividad y acuerdos aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XI.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Comercio Exterior.
+
+#### SECCIÓN IV. DE LA SUBDIRECCIÓN DE INVESTIGACIÓN, INTELIGENCIA ADUANERA Y PROGRAMACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 37.
 
-La Subdirección de Investigación, Inteligencia Aduanera y Programación dependerá jerárquicamente de la Dirección de Verificación de Comercio Exterior y estará a cargo de un Titular, quien será auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
+La Subdirección de Investigación, Inteligencia Aduanera y Programación dependerá jerárquicamente de la Dirección de Comercio Exterior y estará a cargo de un Titular, quien será auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
 
 I.- Planear, diseñar y organizar estrategias que permitan crear e instrumentar mecanismos y sistemas basados en principios de inteligencia tributaria, para la programación eficaz de los actos administrativos en materia de comercio exterior;
 
 II.- Programar los actos de fiscalización en materia de comercio exterior, de conformidad con los ordenamientos vigentes, los convenios y sus anexos suscritos entre el Estado y la Federación y la normatividad aplicable;
 
-III.- Elaborar y proponer al Director de Verificación de Comercio Exterior, las solicitudes de informes o documentos para planear y programar actos de fiscalización;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+III.- Elaborar y proponer al Director de Comercio Exterior, las solicitudes de informes o documentos para planear y programar actos de fiscalización;
 
 IV.- Analizar aquella documentación e informes presentados por los contribuyentes, responsables solidarios y terceros para la programación de actos de fiscalización en materia de comercio exterior;
 
 V.- Elaborar y proponer políticas, sistemas, programas operativos, métodos y procedimientos para practicar visitas domiciliarias, verificaciones de mercancías y verificaciones de vehículos de procedencia extranjera;
 
-VI.- Elaborar y proponer al Director de Verificación de Comercio Exterior, las solicitudes para la recuperación de incentivos económicos de impuestos federales coordinados, derivados de pagos efectuados por los contribuyentes a instituciones bancarias a favor de la Tesorería de la Federación;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
-VII.- Concentrar y analizar la información relativa a las funciones de las áreas de la Dirección de Verificación de Comercio Exterior que sirva de base para evaluar el cumplimiento de los programas federales en materia de comercio exterior;
+VI.- Elaborar y proponer al Director de Comercio Exterior, las solicitudes para la recuperación de incentivos económicos de impuestos federales coordinados, derivados de pagos efectuados por los contribuyentes a instituciones bancarias a favor de la Tesorería de la Federación;
 
-VIII.- Elaborar y proponer al Director de Verificación de Comercio Exterior, los informes que deban presentarse ante la Secretaría de Hacienda y Crédito Público, con motivo del ejercicio de atribuciones;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VII.- Concentrar y analizar la información relativa a las funciones de las áreas de la Dirección de Comercio Exterior que sirva de base para evaluar el cumplimiento de los programas federales en materia de comercio exterior;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+VIII.- Elaborar y proponer al Director de Comercio Exterior, los informes que deban presentarse ante la Secretaría de Hacienda y Crédito Público, con motivo del ejercicio de sus atribuciones;
 
 IX.- Vigilar que los departamentos de su adscripción realicen las investigaciones y visualizaciones de campo, a fin de obtener la información necesaria para la emisión de los actos inherentes a las facultades de comprobación en materia de comercio exterior; y
 
-X.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Verificación de Comercio Exterior.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+X.- Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Comercio Exterior.
 
 ## TÍTULO SÉPTIMO. DE LA SUBSECRETARÍA DE EGRESOS
 
@@ -1733,7 +2381,7 @@ XXXVIII.- Coadyuvar en el ámbito de su competencia, en las acciones que se requ
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA UNIDAD DE PROGRAMACIÓN Y PRESUPUESTO
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE PRESUPUESTO Y POLÍTICA PRESUPUESTAL
+#### SECCIÓN I. DE LA UNIDAD DE PROGRAMACIÓN Y PRESUPUESTO
 
 ###### ARTÍCULO 39.
 
@@ -1831,7 +2479,7 @@ XLV.- Dar seguimiento, en el ámbito de su competencia, a los programas, accione
 
 XLVI.- Analizar, evaluar y en su caso, proponer al Subsecretario de Egresos los mecanismos de transferencia de riesgos contra desastres naturales, para la protección de la infraestructura pública y vivienda del interés del Gobierno del Estado.
 
-#### SECCIÓN I. DE LA UNIDAD DE INVERSIÓN
+#### SECCIÓN II. DE LA DIRECCIÓN DE CONTABILIDAD
 
 ###### ARTÍCULO 40.
 
@@ -1879,7 +2527,7 @@ XIX.- Dar cumplimiento en el ámbito de su competencia, a cualquier acto ordenad
 
 XX.- Elaborar y someter a consideración de la Unidad de Programación y Presupuesto el Manual de Normas y Lineamientos para el ejercicio del Presupuesto y en su caso, su actualización.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN DE PROYECTOS
+#### SECCIÓN III. DE LA DIRECCIÓN DE TESORERÍA
 
 ###### ARTÍCULO 41.
 
@@ -1937,7 +2585,7 @@ XXV.- Recibir de los habilitados pagadores, los cheques de nómina que no hubier
 
 XXVI.- Proporcionar, en el ámbito de su competencia y previa autorización de la Unidad de Programación y Presupuesto, la información que le sea solicitada por las áreas encargadas de la elaboración de los apartados de egresos de los documentos institucionales correspondientes.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE SEGUIMIENTO A LA INVERSIÓN
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PROGRAMACIÓN, SEGUIMIENTO Y ANÁLISIS DEL GASTO
 
 ###### ARTÍCULO 42.
 
@@ -1971,7 +2619,7 @@ XIII.- Coadyuvar en el ámbito de su competencia, con la Dirección de Presupues
 
 XIV.- Proporcionar en el ámbito de su competencia y previa autorización de la Unidad de Programación y Presupuesto, la información que le sea solicitada por las áreas encargadas de la elaboración de documentos de egresos.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE DEUDA PÚBLICA
+#### SECCIÓN V. DE LA DIRECCIÓN DE PRESUPUESTO Y POLÍTICA PRESUPUESTAL
 
 ###### ARTÍCULO 43.
 
@@ -2035,7 +2683,7 @@ XXVIII.- Dar seguimiento e informar al Titular de la Unidad de Programación y P
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA UNIDAD DE INVERSIÓN
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN
+#### SECCIÓN I. DE LA UNIDAD DE INVERSIÓN
 
 ###### ARTÍCULO 44.
 
@@ -2105,7 +2753,7 @@ XXXI.- Previo análisis y validación, proponer al Subsecretario de Egresos las 
 
 XXXII.- Fungir como enlace del Gobierno del Estado ante organismos nacionales e internacionales para gestionar fondos, recursos y financiamientos a los que, de conformidad con las disposiciones legales aplicables, pudiera tener acceso el Estado.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE APOYO Y EVALUACIÓN TECNOLÓGICA
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN DE PROYECTOS
 
 ###### ARTÍCULO 45.
 
@@ -2145,7 +2793,7 @@ XVI.- Participar con las Dependencias y Entidades de la Administración Pública
 
 XVII.- Elaborar y proponer al Titular de la Unidad de Inversión para su aplicación y difusión, la metodología y criterios de medición del impacto social y económico que permitan la evaluación de los programas y proyectos de inversión pública.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE DESARROLLO DE SISTEMAS
+#### SECCIÓN III. DE LA DIRECCIÓN DE SEGUIMIENTO A LA INVERSIÓN
 
 ###### ARTÍCULO 46.
 
@@ -2189,7 +2837,7 @@ XVIII.- Colaborar con las Unidades Administrativas competentes de la Secretaría
 
 XIX.- Proporcionar, en el ámbito de su competencia y previa autorización del Titular de la Unidad de Inversión, la información que le sea solicitada por las áreas encargadas de la elaboración de los apartados de egresos de los documentos institucionales correspondientes.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE INFRAESTRUCTURA Y SOPORTE TÉCNICO
+#### SECCIÓN IV. DE LA DIRECCIÓN DE DEUDA PÚBLICA
 
 ###### ARTÍCULO 47.
 
@@ -2833,7 +3481,9 @@ IX.- Representar a la Secretaría ante las Dependencias y Entidades de la Admini
 
 X.- Representar a la Secretaría en los Comités Técnicos de los fideicomisos en los que intervenga la Dependencia, que se vinculen con el patrimonio mobiliario e inmobiliario del Estado;
 
-XI.- Recibir de las Unidades Administrativas de verificación de comercio exterior, Ingresos, Recaudación y/o fiscalización, los acuerdos de adjudicación de los bienes muebles e inmuebles que deriven del ejercicio de las facultades de la Secretaría, los acuerdos para su incorporación al patrimonio del Gobierno del Estado, y en su caso, al dominio público respecto a dichos bienes, y clasificar e inventariar los mismos, determinando su uso o destino, en términos de la normatividad y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+
+XI.- Recibir de las Direcciones de Ingresos, de Recaudación, de Fiscalización o de Comercio Exterior, los acuerdos de adjudicación de los bienes muebles e inmuebles que deriven del ejercicio de las facultades de la Secretaría, los acuerdos para su incorporación al patrimonio del Gobierno del Estado, y en su caso, al dominio público de dichos bienes, y clasificar e inventariar los mismos, determinando su uso o destino, en términos de la normatividad y demás disposiciones aplicables;
 
 XII.- Verificar que los bienes muebles e inmuebles que sean propiedad o se encuentren al cuidado del Gobierno del Estado, se aprovechen para el cumplimiento de los programas y acciones para los cuales fueron destinados;
 
@@ -2855,11 +3505,11 @@ XX.- Coordinarse con las Dependencias y Entidades de la Administración Pública
 
 XXI.- Proponer al Subsecretario de Administración la normatividad que deberán observar las Dependencias y Entidades de la Administración Pública Estatal, para el uso de los vehículos, así como para el cumplimiento de las obligaciones fiscales y administrativas que generen los mismos y demás bienes que tengan asignados o bajo su resguardo; y
 
-XXII.- Llevar el control de los impuestos y derechos vehiculares a que esté obligada la Secretaría, respecto de los vehículos oficiales que tenga bajo su resguardo; (sic)
+XXII.- Llevar el control de los impuestos y derechos vehiculares a que esté obligada la Secretaría, respecto de los vehículos oficiales que tenga bajo su resguardo;
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE DESARROLLO ADMINISTRATIVO Y MEJORA REGULATORIA
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN
 
 ###### ARTÍCULO 58.
 
@@ -2891,7 +3541,7 @@ XII.- Administrar el uso racional de la Red, para ejecutar los servicios de tran
 
 XIII.- Realizar la planeación y presupuestación en materia de tecnologías de información conforme a los objetivos y plan estratégico de la Secretaría, así como coordinar su ejercicio.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EFICIENCIA GUBERNAMENTAL
+#### SECCIÓN II. DE LA DIRECCIÓN DE APOYO Y EVALUACIÓN TECNOLÓGICA
 
 ###### ARTÍCULO 59.
 
@@ -2917,7 +3567,7 @@ IX.- Supervisar la correcta aplicación de los ordenamientos que incidan en el �
 
 X.- Coordinar la implementación del Manual Administrativo de Aplicación General en Materias de Tecnologías de la Información y Comunicaciones y de Seguridad de la Información en la Secretaría.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROFESIONALIZACIÓN Y EFICIENCIA ORGANIZACIONAL
+#### SECCIÓN III. DE LA DIRECCIÓN DE DESARROLLO DE SISTEMAS
 
 ###### ARTÍCULO 60.
 
@@ -2947,7 +3597,7 @@ XI.- Coordinar el soporte técnico para mantener la operación adecuada de la pl
 
 XII.- Desarrollar e implementar por sí o por terceros los proyectos de desarrollo web para mantener y optimizar el uso adecuado de las plataformas tecnológicas de la Secretaría.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE ADQUISICIONES Y ADJUDICACIONES DE OBRA PÚBLICA
+#### SECCIÓN IV. DE LA DIRECCIÓN DE INFRAESTRUCTURA Y SOPORTE TÉCNICO
 
 ###### ARTÍCULO 61.
 
@@ -2983,7 +3633,7 @@ XIV.- Diseñar, implementar y administrar los servicios proporcionados a través
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE DESARROLLO ADMINISTRATIVO Y MEJORA REGULATORIA
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE ADQUISICIONES DE BIENES Y SERVICIOS
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE DESARROLLO ADMINISTRATIVO Y MEJORA REGULATORIA
 
 ###### ARTÍCULO 62.
 
@@ -3045,7 +3695,7 @@ XXVII.- Emitir previo acuerdo con el Subsecretario de Administración, los linea
 
 XXVIII.- Vincular a los Centros Integrales de Trámites y Servicios con el resto de la Administración Pública del Estado para el óptimo funcionamiento de estos y la entrega de servicios a la ciudadanía.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE ADJUDICACIONES DE OBRA PÚBLICA
+#### SECCIÓN II. DE LA DIRECCIÓN DE EFICIENCIA GUBERNAMENTAL
 
 ###### ARTÍCULO 63.
 
@@ -3121,6 +3771,8 @@ XXXIV.- Realizar o encomendar investigaciones, estudios y análisis en las mater
 
 XXXV.- Impulsar el establecimiento de mecanismos de control en las Dependencias y Entidades de la Administración Pública Estatal, que permitan monitorear el avance de los proyectos que impacten en Indicadores en materia de Desarrollo Administrativo.
 
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROFESIONALIZACIÓN Y EFICIENCIA ORGANIZACIONAL
+
 ###### ARTÍCULO 64.
 
 La Dirección de Profesionalización y Eficiencia Organizacional dependerá jerárquicamente de la Dirección General de Desarrollo Administrativo y Mejora Regulatoria y estará a cargo de un Titular, quien será auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
@@ -3157,6 +3809,8 @@ XV.- Impulsar la certificación de procesos en las Dependencias y Entidades de l
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADQUISICIONES Y ADJUDICACIONES DE OBRA PÚBLICA
 
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE ADQUISICIONES Y ADJUDICACIONES DE OBRA PÚBLICA
+
 ###### ARTÍCULO 65.
 
 La Dirección General de Adquisiciones y Adjudicaciones de Obra Pública dependerá jerárquicamente de la Subsecretaría de Administración y estará a cargo de un Titular, quien será auxiliado por las Direcciones de Adquisiciones de Bienes y Servicios y de Adjudicaciones de Obra Pública, así como por los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 10 de este Reglamento, las siguientes:
@@ -3178,6 +3832,8 @@ VII.- Instruir la elaboración y actualización de catálogos de productos neces
 VIII.- Instruir la elaboración de los contratos que deriven de los procedimientos de adjudicación en materia de adquisiciones, arrendamientos o servicios, y de obra y servicios relacionados con la misma, así como su revisión jurídica y remisión a la Dependencia o Entidad de que se trate, a fin de que sean debidamente formalizados; y
 
 IX.- Presidir por sí o a través de los Directores Generales de Adquisiciones y Adjudicaciones de Obra Pública, en el ámbito de su competencia, o por quien designe, los eventos correspondientes en materia de adquisiciones, arrendamientos y servicios; así como de obra pública y servicios relacionados con la misma.
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE ADQUISICIONES DE BIENES Y SERVICIOS
 
 ###### ARTÍCULO 66.
 
@@ -3228,6 +3884,8 @@ XXI.- Llevar un registro de los procedimientos de adjudicación de adquisiciones
 XXII.- Instrumentar de considerarlo procedente, el procedimiento bajo la modalidad de adjudicación directa, en los casos en los que alguna Dependencia o Entidad de la Administración Pública Estatal, solicite la adjudicación de un contrato en materia de adquisiciones, arrendamientos y servicios bajo esa modalidad, siempre y cuando éste se encuentre estrictamente apegado a los supuestos establecidos en la legislación de la materia; y
 
 XXIII.- Vigilar la elaboración y actualización de catálogos de productos necesarios para la mejor implementación de los procedimientos de adjudicación de las adquisiciones, arrendamientos y servicios, así como los análisis de mercado que se requieran.
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE ADJUDICACIONES DE OBRA PÚBLICA
 
 ###### ARTÍCULO 67.
 
@@ -3473,6 +4131,64 @@ Lo previsto en la fracción V de este artículo, se aplicará sin perjuicio de q
 
 En los casos de ausencias temporales por más de quince días, el Secretario, los Subsecretarios, Coordinador General Jurídico, Procurador Fiscal, Titulares de Unidad, Directores Generales, y Directores, podrán autorizar por escrito a los servidores públicos subalternos para que realicen en su ausencia las funciones y atribuciones que les correspondan.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2015)</small>
+
+## TÍTULO DUODÉCIMO. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO ÚNICO. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 74.
+
+Para la eficiente atención y despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos desconcentrados, que le estarán jerárquicamente subordinados y tendrán las facultades específicas para resolver sobre la materia objeto de la desconcentración, dentro del ámbito de su competencia y de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 75.
+
+Los Órganos Desconcentrados normarán su organización y funcionamiento, de conformidad con la Ley Orgánica de la Administración Pública del Estado, el presente Reglamento, su acuerdo o decreto de creación, su Reglamento Interior y la normatividad que para tales efectos expidan, así como por las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 76.
+
+Son atribuciones de los titulares de los Órganos Desconcentrados:
+
+I.- Establecer, de conformidad con los lineamientos que emita el Secretario o el Subsecretario que corresponda, las normas, sistemas y procedimientos de carácter técnico y administrativo que deban regir a las unidades administrativas con que cuenten;
+
+II.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del órgano desconcentrado;
+
+III.- Acordar con el Secretario o el Subsecretario que corresponda, la resolución de los asuntos encomendados al órgano desconcentrado que así lo ameriten;
+
+IV.- Formular el anteproyecto del Programa de Presupuesto Anual del órgano desconcentrado a su cargo, y una vez aprobado, conducir y verificar su correcta y oportuna ejecución;
+
+V.- Conducir la administración de los recursos humanos, financieros y materiales que se les asignen para el desarrollo de sus actividades, de acuerdo con sus programas y objetivos, de conformidad con las disposiciones legales aplicables;
+
+VI.- Someter a consideración del Secretario o del Subsecretario que corresponda, los convenios, contratos, acuerdos y demás instrumentos jurídicos que se requieran para el ejercicio de las atribuciones del órgano desconcentrado a su cargo;
+
+VII.- Expedir certificaciones de los documentos que obren en los archivos del órgano desconcentrado;
+
+VIII.- Coordinar la ejecución de su programa operativo anual con las unidades administrativas centrales de la Secretaría;
+
+IX.- Promover, formular e instrumentar los programas de simplificación y modernización administrativa en el órgano a su cargo;
+
+X.- Proponer al Secretario o al Subsecretario que corresponda, los anteproyectos relativos a la organización, fusión, modificación o desaparición de las unidades administrativas que integren el órgano a su cargo;
+
+XI.- Someter a la consideración del Secretario, los manuales de organización, de procedimientos y de servicios al público, del órgano a su cargo;
+
+XII.- Participar en los mecanismos de coordinación y concertación; así como en el cumplimiento de los compromisos programáticos que se establezcan con otras dependencias y entidades de la administración pública estatal;
+
+XIII.- Proporcionar la información, datos, y en su caso, cooperación técnica que les sea requerida oficialmente;
+
+XIV.- Vigilar que se cumpla con las disposiciones legales y administrativas en el desahogo de los asuntos de su competencia;
+
+XV.- Cumplir con las normas de control y fiscalización que se establezcan en las disposiciones legales y normatividad aplicables, y
+
+XVI.- Las demás que en materia de su competencia se establezcan en la Ley Orgánica de la Administración Pública, este Reglamento, las demás leyes, reglamentos, decretos, acuerdos, convenios, contratos y otras disposiciones vigentes, así como aquéllas que les confiera el Secretario.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -3490,3 +4206,15 @@ SEXTO.- Se abrogan los Reglamentos Interiores de la Secretaría de Finanzas del 
 SÉPTIMO.- Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los catorce días del mes de junio de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.- El Secretario de Finanzas y Administración.- C. ROBERTO JUAN MOYA CLEMENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Derivado de la entrada en vigor del presente Decreto, en aquéllas disposiciones del Reglamento Interior de la Secretaría de Finanzas y Administración en las que se utilice la referencia de Unidades Administrativas, se entenderá que se refiere también a los Órganos Desconcentrados de dicha Dependencia.
+
+TERCERO. Las Unidades Administrativas con denominación nueva o distinta que se consideren en el presente Reglamento y que tengan competencia en asuntos que anteriormente correspondía a otras Unidades Administrativas, se harán cargo de los mismos, continuarán su substanciación y dictarán las resoluciones respectivas.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
