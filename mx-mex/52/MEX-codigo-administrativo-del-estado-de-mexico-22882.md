@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-01-13"
+last_updated: "2015-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2481,7 +2479,7 @@ VI. Reincidencia por tercera ocasión.
 
 VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-(REUBICADO [N. DE E. ANTES Y REFORMADO ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -10643,7 +10641,7 @@ XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, e
 
 8.- El Director General del IGECEM, además de las atribuciones que este Libro y otros ordenamientos le confieran en materia de información e investigación geográfica, estadística y catastral, tendrá las facultades y obligaciones siguientes:
 
-I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración; actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias; otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
+I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración, actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias, otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
 
 En el caso en que realice actos de transmisión o enajenación de dominio de bienes inmuebles deberá contar con la autorización previa del Consejo Directivo;
 
@@ -11069,7 +11067,7 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
 
 VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
@@ -11763,8 +11761,6 @@ Durante la vigencia de un Proyecto, en la formulación de cada uno de sus presup
 
 14.- La Secretaría emitirá lineamientos que contengan los criterios y políticas prudenciales de finanzas públicas y de gasto que deberán observar las Entidades Contratantes. La Secretaría, con base en la metodología que al respecto incluya en dichos lineamientos, evaluará el impacto del Proyecto en el gasto específico de la dependencia correspondiente; y el impacto del Proyecto en el gasto público y en el presupuesto del Estado.
 
-Los ayuntamientos promoverán la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos; debiendo difundirlos cuando menos tres veces al año; dichos instrumentos deberán ser tomados por las autoridades competentes como base en la definición de los usos de suelo que produzcan un impacto regional, así como para la autorización y construcción de obras de infraestructura o asentamientos humanos.
-
 Si conforme al análisis señalado en el párrafo anterior resultare que algún Proyecto compromete la salud financiera de la Unidad Contratante o la sustentabilidad del gasto público en general, la Secretaría rechazará el desarrollo del proyecto en cuestión como un Proyecto en términos de lo previsto en este Capítulo.
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
@@ -11837,7 +11833,7 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 ###### Artículo 16.
 
-21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecutivo del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigente.
+21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecutivo del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigeñ{nte.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -13121,7 +13117,9 @@ II. Se hayan generado nuevas inversiones, con motivo de adecuaciones u obras y e
 
 III. La Secretaría autorice o convenga con el concesionario nuevas contraprestaciones o incrementos de las ya existentes para el desarrollo de proyectos de infraestructura en comunicaciones del Estado;
 
-IV. Cuando el concesionario haya recuperado su inversión y la tasa de retorno correspondiente; y
+> <small>(REFORMADA, G.G. 17 DE FEBRERO DE 2015)</small>
+
+IV. Cuando el concesionario haya recuperado su inversión y la tasa de retorno correspondiente, la Secretaría podrá determinar que el concesionario continúe con la titularidad de la concesión hasta el plazo convenido en el título respectivo, siempre y cuando se acuerde una nueva contraprestación para el Estado que signifique mayores ingresos, que justifique objetivamente el beneficio en condiciones de mercado frente a otras posibles propuestas, que demuestre las ventajas que representa mantener la modalidad de concesión sobre la posibilidad de operación directa y se asegure la prestación del servicio en mejores condiciones para los usuarios;
 
 V. En general cualquier consideración de carácter financiero que ocurra durante la vigencia de la concesión, debidamente acreditada ante la autoridad.
 
@@ -16743,7 +16741,7 @@ DÉCIMO TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que s
 
 G.G. 18 DE DICIEMBRE DE 2014.
 
-DECRETO NÚMERO 367 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, VI, VIII Y XV DEL ARTÍCULO 1.1, LOS INCISOS A, C Y EL PRIMER PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 5.26, EL PRIMER PÁRRAFO, LAS FRACCIONES IV Y V DEL ARTÍCULO 5.37, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 5.38 DEL LIBRO QUINTO DENOMINADO “DEL ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO DE LOS CENTROS DE POBLACIÓN”, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 7.73, LA DENOMINACIÓN DEL LIBRO OCTAVO, EL ARTÍCULO 8.1, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8.3, LA DENOMINACIÓN DEL TÍTULO TERCERO Y LA DE SU CAPÍTULO SEGUNDO DEL LIBRO OCTAVO, LOS ARTÍCULOS 8.17 BIS, 8.17 TER, 8.17 QUÁTER, 8.17 QUINTUS, 8.17 SEXIES, 8.17 SEPTIES, 8.17 OCTIES, 8.17 NONIES, 8.17 DECIES, 8.17 UNDECIES, LOS ARTÍCULOS 8.23 Y 8.24, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18.20; SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 1.1, LA FRACCIÓN VI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5.37, UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL ACTUAL SEGUNDO PARA SER TERCERO AL ARTÍCULO 7.73, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7.76; Y SE DEROGAN LAS FRACCIONES IX Y XII DEL ARTÍCULO 1.1, LOS ARTÍCULOS 2.37 BIS, 2.37 TER, LA FRACCIÓN VII BIS DEL ARTÍCULO 2.39, LOS ARTÍCULOS 2.47, 2.47 BIS, 2.47 TER, 2.47 QUÁTER, 2.48, 2.48 BIS, 2.48 TER, 2.48 QUÁTER, 2.48 QUINTUS, 2.48 SEXIES, 2.48 SEPTIES, 2.53 BIS, 2.53 TER, LA FRACCIÓN V DEL ARTÍCULO 2.72, EL ARTÍCULO 2.72 BIS, LA FRACCIÓN VII DEL ARTÍCULO 2.75, LOS ARTÍCULOS 8.17 DUODECIES, 8.17 TERDECIES, 8.17 QUÁTERDECIES, LA FRACCIÓN III DEL ARTÍCULO 8.18, Y LOS ARTÍCULOS 8.19 QUÁTER, 8.25, 8.26 Y 8.27, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+DECRETO NÚMERO 367 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, VI, VIII Y XV DEL ARTÍCULO 1.1, LOS INCISOS A, C Y EL PRIMER PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 5.26, EL PRIMER PÁRRAFO, LAS FRACCIONES IV Y V DEL ARTÍCULO 5.37, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 5.38 DEL LIBRO QUINTO DENOMINADO “DEL ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO DE LOS CENTROS DE POBLACIÓN”, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 7.73, LA DENOMINACIÓN DEL LIBRO OCTAVO, EL ARTÍCULO 8.1, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8.3, LA DENOMINACIÓN DEL TÍTULO TERCERO Y LA DE SU CAPÍTULO SEGUNDO DEL LIBRO OCTAVO, LOS ARTÍCULOS 8.17 BIS, 8.17 TER, 8.17 QUÁTER, 8.17 QUINTUS, 8.17 SEXIES, 8.17 SEPTIES, 8.17 OCTIES, 8.17 NONIES, 8.17 DECIES, 8.17 UNDECIES, LOS ARTÍCULOS 8.23 Y 8.24, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18.20; SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 1.1, LA FRACCIÓN VI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5.37, UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL ACTUAL SEGUNDO PARA SER TERCERO AL ARTÍCULO 7.73, UN ÚLTIMO PPARRAFO AL ARTÍCULO 7.76; Y SE DEROGAN LAS FRACCIONES IX Y XII DEL ARTÍCULO 1.1, LOS ARTÍCULOS 2.37 BIS, 2.37 TER, LA FRACCIÓN VII BIS DEL ARTÍCULO 2.39, LOS ARTÍCULOS 2.47, 2.47 BIS, 2.47 TER, 2.47 QUÁTER, 2.48, 2.48 BIS, 2.48 TER, 2.48 QUÁTER, 2.48 QUINTUS, 2.48 SEXIES, 2.48 SEPTIES, 2.53 BIS, 2.53 TER, LA FRACCIÓN V DEL ARTÍCULO 2.72, EL ARTÍCULO 2.72 BIS, LA FRACCIÓN VII DEL ARTÍCULO 2.75, LOS ARTÍCULOS 8.17 DUODECIES, 8.17 TERDECIES, 8.17 QUÁTERDECIES, LA FRACCIÓN III DEL ARTÍCULO 8.18, Y LOS ARTÍCULOS 8.19 QUÁTER, 8.25, 8.26 Y 8.27, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -16780,3 +16778,11 @@ CUARTO.- En un plazo no mayor a treinta días naturales a partir de la entrada e
 QUINTO.- Los Municipios del Estado, dentro de sus respectivos ámbitos de competencia, coadyuvarán al cumplimiento del presente Decreto a través de los mecanismos de coordinación que para tal efecto establezca la Secretaría de Seguridad Ciudadana.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE FEBRERO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado a través de la Secretaría de Comunicaciones deberá rendir a la Legislatura un informe de cada una de las operaciones que se realicen de conformidad con el contenido del presente Decreto y acreditando el cumplimiento señalado en la presente reforma.
