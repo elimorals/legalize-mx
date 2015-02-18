@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-regula-la-operacion-de-las-cooperativas-escolares-87618
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-02"
-last_updated: "2012-05-02"
+last_updated: "2015-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY QUE REGULA, LA OPERACIÓN DE LAS COOPERATIVAS ESCOLARES EN ESCUELAS DE NIVEL BÁSICO EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 2 de mayo de 2012.
 
@@ -197,6 +197,10 @@ Deberá ser integrada por los docentes y alumnos y el comité de padres de famil
 
 Cuando el número de alumnos exceda a doscientos, esta podrá integrarse por representación de los alumnos, en número de cinco por cada cincuenta o fracción que exceda de veinticinco.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+La Asamblea General elegirá en la primera sesión ordinaria por mayoría de los miembros presentes, a un Presidente y a un Secretario Técnico de entre los integrantes de la Asamblea, con el fin de conducir los trabajos de la Asamblea, cargo que durará un ejercicio social, mismo que comprenderá el año escolar respectivo.
+
 ###### Artículo 15.
 
 Corresponde a la Asamblea General:
@@ -209,9 +213,17 @@ III.- Aprobar en su caso los informes de su contabilidad y los demás que se rel
 
 IV.- Vigilar la correcta distribución de los rendimientos económicos conforme a la presente Ley;
 
-V.- Adoptar las disposiciones convenientes para la buena marcha de la cooperativa y sus fines; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
 
-VI.- Designar a los responsables de operar la cooperativa escolar de acuerdo a lo establecido por la fracción IV del artículo 13 de la presente Ley.
+V.- Adoptar las disposiciones convenientes para la buena marcha de la cooperativa y sus fines;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
+
+VI.- Designar a los responsables de operar la cooperativa escolar de acuerdo a lo establecido por la fracción IV, del artículo 13 de la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2015)</small>
+
+VII.- Aprobar el proyecto de necesidades prioritarias para el plantel, como mejoras al equipamiento, mobiliario e instalaciones considerando dentro de éstas últimas el mantenimiento preventivo y reparaciones menores, que presente el Presidente del Consejo de Administración, de conformidad con el fondo social que señala el artículo 29 de esta Ley.
 
 ###### Artículo 16.
 
@@ -255,27 +267,39 @@ IV.- Organizar el funcionamiento de la cooperativa;
 
 V.- Controlar el uso de los bienes de la escuela, al servicio de la cooperativa, recibiéndolos y entregándolos por inventario al final del curso escolar;
 
-VI.- Revisar la venta de los productos adquiridos, producidos y alimentos y bebidas que se expendan en la cooperativa de conformidad con la presente Ley; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
 
-VII.- Presentar a la Asamblea General un informe de todas las actividades de la cooperativa al finalizar el ejercicio social correspondiente.
+VI.- Revisar la venta de los productos adquiridos, producidos y alimentos y bebidas que se expendan en la cooperativa de conformidad con la presente Ley;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
+
+VII.- Presentar a la Asamblea General un informe de todas las actividades de la cooperativa al finalizar el ejercicio social correspondiente, y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2015)</small>
+
+VIII.- Presentar y entregar al finalizar el ejercicio social correspondiente, el monto total del fondo social a la Asamblea General.
 
 ###### Artículo 20.
 
 El Consejo de Administración se reunirá al menos una vez cada dos meses, por convocatoria de su Presidente, el quórum se integrará con la asistencia de la mitad más uno de sus integrantes, y los acuerdos se tomarán por mayoría de votos, en caso de empate el Presidente tendrá voto de calidad. Y durarán en su encargo el tiempo que duré el ejercicio social asentado en el acta constitutiva de creación.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 21.
 
 El Comité de Vigilancia se integrará por:
 
-I.- Un Presidente;
+I.- Presidente;
 
 II.- Un Secretario;
 
-III.- Tres Vocales; y
+III.- Tres Vocales, que serán un alumno, un empleado y un docente, y
 
 IV.- Un miembro del Comité de Padres de Familia.
 
-Todos los miembros del Comité de Vigilancia serán electos por la Asamblea General y por lo menos deberán incluir a dos alumnos, un docente o un empleado. Y durarán en su encargo el tiempo que dure el ejercicio social asentado en el acta constitutiva de creación.
+Todos los miembros del Comité de Vigilancia serán electos por la Asamblea General y durarán en su encargo el tiempo que dure el ejercicio social asentado en el acta constitutiva de su creación.
+
+Los cargos de Presidente y Secretario deberán recaer en un docente y un padre de familia respectivamente.
 
 ###### Artículo 22.
 
@@ -506,3 +530,11 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE FEBRERO DE 2015.
+
+PRIMERO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
