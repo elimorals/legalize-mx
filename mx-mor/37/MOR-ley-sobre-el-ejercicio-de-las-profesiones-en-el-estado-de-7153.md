@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-ejercicio-de-las-profesiones-en-el-estado-de-7153"
 country: "mx"
 rank: "ley"
 publication_date: "1968-01-03"
-last_updated: "2013-10-16"
+last_updated: "2015-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de enero de 1968.
 
@@ -553,9 +553,11 @@ Los profesionales serán civilmente responsables de los daños y perjuicios que 
 
 La Oficina de Profesiones velará porque ninguna agrupación profesional utilice el término "colegio", si no ha llenado las condiciones que este ordenamiento dispone. La infracción de esta norma la castigará con multa hasta de mil pesos, satisfecho el principio constitucional de previa audiencia.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 68.
 
-Cuando un profesionista omita el pago de impuestos a que se refiere la fracción IV del artículo 27 de esta Ley, la Secretaría de Finanzas y Promoción Económica, además de ejercer en su contra las acciones y procedimientos fiscales que procedan, solicitará de la Oficina de Profesiones que suspenda al profesionista en el ejercicio de su profesión mientras tanto no haga el pago de los impuestos omitidos, créditos accesorios y multas fiscales relativas.
+Cuando un profesionista omita el pago de impuestos a que se refiere la Fracción IV de (sic) Artículo 27 de esta Ley, la Secretaría de Hacienda, además de ejercer en su contra las acciones y procedimientos fiscales que procedan, solicitará de la oficina de profesiones que suspenda al profesionista en el ejercicio de su profesión mientras tanto no haga el pago de los impuestos omitidos, créditos accesorios y multas fiscales relativas.
 
 ## TRANSITORIOS
 
@@ -655,7 +657,7 @@ Lic. Fausto Galván Campos.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE DICIEMBRE DE 1972.
 
@@ -674,3 +676,9 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos,
 
 TERCERA.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente decreto.
+
+P.O. 18 DE FEBRERO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
