@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2014-12-31"
+last_updated: "2015-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -389,21 +389,47 @@ Todo ello con el fin de garantizar en sus territorios el derecho de acceso de la
 
 Los servidores públicos que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley Estatal de Responsabilidades de los Servidores Públicos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 16.
 
-La elección de los miembros de los Ayuntamientos, así como los requisitos que deban satisfacer, se regirán por las disposiciones relativas de la Constitución Política y al Código Electoral del Estado.
+La elección de los miembros de los Ayuntamientos, así como los requisitos que deban satisfacer, se regirán por las disposiciones relativas de la Constitución Política, de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 17.
 
-El gobierno municipal está a cargo de un Ayuntamiento, el cual se integra por un Presidente Municipal y un Síndico, electos por el sistema de mayoría relativa; además, con los Regidores electos por el principio de representación proporcional, en el número que corresponda de acuerdo con lo que se dispone en la presente Ley; por cada uno de los miembros del Ayuntamiento se elegirá un suplente.
+El gobierno municipal está a cargo de un Ayuntamiento de elección popular directa, el cual se integra por un Presidente Municipal y un Síndico, electos por el principio de mayoría relativa; además, con los Regidores electos por el principio de representación proporcional, en el número que corresponda de acuerdo con lo que se dispone en la presente Ley; por cada uno de los miembros del Ayuntamiento se elegirá un suplente.
 
-Los Presidentes Municipales, Regidores y Síndicos del Ayuntamiento, electos popularmente por elección directa, deberán reunir los requisitos exigidos por la Constitución Política del Estado, y no podrán ser reelectos para el período inmediato.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE FEBRERO DE 2015)</small>
 
-Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, deberán reunir los requisitos que establece el artículo 117 de la Constitución local, con excepción de la fracción V, y no podrán ser electos para el período inmediato. El Cabildo tomará en cuenta esta designación para previo acuerdo, autorizar de manera inmediata la licencia.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE FEBRERO DE 2015)</small>
 
-Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+Los Presidentes Municipales, Síndicos y Regidores de elección popular directa durarán en su cargo tres años y podrán ser reelectos únicamente para un período inmediato adicional.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+Lo mismo aplicará para quienes siendo suplentes hayan sustituido a los propietarios, siempre y cuando se ajusten a los plazos y condiciones que al respecto señala la ley.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren propuesto, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+Quienes sean postulados por partidos políticos no podrán participar en calidad de candidatos independientes.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+Los candidatos independientes no podrán ser postulados por un partido político o coalición tratándose de la elección inmediata.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2015)</small>
+
+Quienes hayan sido designados en Consejo Municipal podrán ser electos para el periodo inmediato.
 
 ###### Artículo 18.
 
@@ -781,7 +807,7 @@ XIII. Someter a la autorización del Congreso del Estado la celebración de cont
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
-XIII bis.- Someter a la autorización del Congreso del Estado la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos del Municipio o, en su caso, de los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos;
+XIII bis. Someter a la autorización del Congreso del Estado la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos del Municipio o, en su caso, de los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos;
 
 XIV. Supervisar el corte de caja de la Tesorería Municipal que mensualmente presente el Tesorero al Ayuntamiento en Cabildo y aprobarlo en su caso, remitiéndolo al Congreso del Estado dentro de los veinte primeros días del mes siguiente; en el último mes del ejercicio constitucional se remitirá el corte de caja al Congreso quince días antes de la conclusión del ejercicio constitucional del Ayuntamiento;
 
@@ -873,7 +899,7 @@ LII. Analizar y en su caso aprobar la nomenclatura de las calles;
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-LIII.- Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas, la deserción escolar en el nivel básico y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
+LIII. Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas, la deserción escolar en el nivel básico y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
 
@@ -889,9 +915,9 @@ LVIII. Proporcionar instrucción cívica a los ciudadanos del Municipio, con el 
 
 LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
 
-LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras Leyes y reglamentos aplicables, así como también promover, fomentar e instrumentar las condiciones que posibiliten una cultura de igualdad de género e implementar políticas públicas que favorezcan al desarrollo integral de las mujeres a través de la Dirección creada para esa finalidad y dar cumplimiento a lo que establece la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos.
+LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras Leyes y reglamentos aplicables, así como también promover, fomentar e instrumentar las condiciones que posibiliten una cultura de igualdad de género e implementar políticas públicas que favorezcan al desarrollo integral de las mujeres a través de la Dirección creada para esa finalidad y dar cumplimiento a lo que establece la Ley de Igualdad de Derechos y Oportunidades entre Hombres y Mujeres en el Estado de Morelos;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
 
@@ -907,25 +933,25 @@ LXIII. Los Ayuntamientos integrarán la cuenta pública en términos de lo que e
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
 
-LXIV.- Otorgar mediante acuerdo de la mayoría del Ayuntamiento, los beneficios de la seguridad social de sus trabajadores, y de los elementos de Seguridad Pública en lo referente a pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez, así como a los beneficiarios del servidor público por muerte, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Morelos, en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
+LXIV. Otorgar mediante acuerdo de la mayoría del Ayuntamiento, los beneficios de la seguridad social de sus trabajadores, y de los elementos de Seguridad Pública en lo referente a pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez, así como a los beneficiarios del servidor público por muerte, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Morelos, en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
 
-LXV.- Expedir a los trabajadores, a los elementos de seguridad pública o a los beneficiarios de ambos, copia certificada del Acuerdo mediante el cual el Ayuntamiento aprueba y otorga el beneficio de la pensión o jubilación demandada, asimismo, efectuar la autorización y registro de dicho documento.
+LXV. Expedir a los trabajadores, a los elementos de seguridad pública o a los beneficiarios de ambos, copia certificada del Acuerdo mediante el cual el Ayuntamiento aprueba y otorga el beneficio de la pensión o jubilación demandada, asimismo, efectuar la autorización y registro de dicho documento.
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-LXVI.- Los Ayuntamientos, al otorgar los citados beneficios de seguridad social a sus trabajadores, a los elementos de seguridad pública, así como a los beneficiarios de ambos, invariablemente deberán cumplir con los procedimientos legales descritos en la normatividad de la materia, para que en un plazo no mayor de treinta días hábiles, contados a partir de la fecha en que se tenga por recibida y convalidada la documentación requerida para su tramitación, resuelvan y emitan los correspondientes acuerdos de pensión. Para tal fin, los Ayuntamientos deberán contar con los recursos humanos, técnicos, procedimentales y administrativos necesarios.
+LXVI. Los Ayuntamientos, al otorgar los citados beneficios de seguridad social a sus trabajadores, a los elementos de seguridad pública, así como a los beneficiarios de ambos, invariablemente deberán cumplir con los procedimientos legales descritos en la normatividad de la materia, para que en un plazo no mayor de treinta días hábiles, contados a partir de la fecha en que se tenga por recibida y convalidada la documentación requerida para su tramitación, resuelvan y emitan los correspondientes acuerdos de pensión. Para tal fin, los Ayuntamientos deberán contar con los recursos humanos, técnicos, procedimentales y administrativos necesarios.
 
 La autoridad municipal, en el cumplimiento de los beneficios de la seguridad social, en todo momento guiará sus trabajos, atendiendo a los principios de transparencia y eficacia administrativa.
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-LXVII.- Para el caso de que el Cabildo Municipal, emita en sentido negativo algún acuerdo de pensión, éste deberá estar debidamente fundado y motivado, y mediante copia certificada, se notificará al peticionario de dicha resolución, quedando invariablemente reservados sus derechos para hacerlos valer ante la instancia jurisdiccional que considere pertinente.
+LXVII. Para el caso de que el Cabildo Municipal, emita en sentido negativo algún acuerdo de pensión, éste deberá estar debidamente fundado y motivado, y mediante copia certificada, se notificará al peticionario de dicha resolución, quedando invariablemente reservados sus derechos para hacerlos valer ante la instancia jurisdiccional que considere pertinente.
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-LXVIII.- Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
+LXVIII. Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
 
 ###### Artículo 39.
 
@@ -1545,9 +1571,11 @@ III.- Disfrutar de buena fama y no estar procesado ni haber sido sentenciado por
 
 IV.- Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Tener la experiencia y conocimientos suficientes para el desempeño del cargo; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
+
+V.- Tener la experiencia y conocimientos suficientes para el desempeño del cargo y contar con capacitación, especialización y/o actualización en contabilidad en el área gubernamental con un mínimo de cuarenta horas con validez oficial comprobada con el documento correspondiente, actualización que deberá realizarse cada año; y
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
@@ -1653,7 +1681,11 @@ III. Disfrutar de buena fama y no estar procesado, ni haber sido sentenciado por
 
 IV. Contar con título y cédula profesional que lo acredite como profesionista afín al cargo;
 
-V. Tener la experiencia y conocimiento suficientes para el desempeño de su cargo; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
+
+V. Tener la experiencia y conocimientos suficientes para el desempeño del cargo y contar con capacitación, especialización y/o actualización en contabilidad en el área gubernamental con un mínimo de cuarenta horas con validez oficial comprobada con el documento correspondiente, actualización que deberá realizarse cada año; y
 
 VI. Tener como mínimo veinticinco años de edad, cumplidos al día de la designación.
 
@@ -2947,15 +2979,17 @@ Ningún ciudadano, vecino de una municipalidad, podrá excusarse de integrar los
 
 ###### Artículo 188.
 
-Los Concejos Municipales a que se refieren los dos artículos anteriores tendrán las mismas facultades y obligaciones que competen a los Ayuntamientos designados en elección popular, así como el mismo número de miembros en concordia con lo que establece esta Ley.
+Los Concejos Municipales a que se refieren los dos artículos anteriores tendrán las mismas facultades y obligaciones que competen a los Ayuntamientos designados en elección popular, así como el mismo número de miembros en concordia lo que establece esta Ley.
 
 ###### Artículo 189.
 
 En caso de que se declare procedente la desaparición o suspensión definitiva de un Ayuntamiento, el Congreso procederá a nombrar de entre los habitantes del Municipio propuestos por el Ejecutivo, a un Concejo Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
 
 En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
 
@@ -3550,6 +3584,38 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 18 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 2017, POR EL QUE SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 81 Y LA FRACCIÓN V DEL ARTÍCULO 85, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, iniciará su vigencia a partir del día primero del mes de enero del año 2016.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 18 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 2018, POR EL QUE SE REFORMA EL ARTÍCULO 16, SE DEROGAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO Y SE ADICIONAN SEIS PÁRRAFOS AL ARTÍCULO 17, SE REFORMA LA FRACCIÓN LX DEL ARTÍCULO 38 Y EL PRIMER PÁRRAFO, DEL ARTÍCULO 190; TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
 
 ###### ARTÍCULO TERCERO.
 
