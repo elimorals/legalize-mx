@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2015-01-30"
+last_updated: "2015-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -236,17 +236,17 @@ DE LOS MORELENSES.
 
 Los morelenses lo son por nacimiento y por residencia; ambos gozarán de los mismos derechos y obligaciones, en los términos que señale la presente Constitución y las leyes reglamentarias.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 10.
 
 Son morelenses por nacimiento:
 
-I.- Los nacidos dentro del territorio del Estado.
+I.- Los nacidos dentro del territorio del Estado;
 
-II.- Los mexicanos nacidos fuera del territorio estatal, hijos de padre o madre morelenses por nacimiento, y que tengan más de cinco años de vecindad en el Estado.
-
-La adopción no producirá efectos en esta materia.
+II.- Los mexicanos nacidos fuera del territorio estatal, hijos de padre o madre morelenses.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1074,9 +1074,7 @@ XVI.- Revisar el Plan Estatal de Desarrollo y remitir en su caso, al Ejecutivo E
 
 Igual procedimiento seguirán las modificaciones que el Ejecutivo Estatal realice al mismo.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XVII.- Organizar el patrimonio de la familia determinando los bienes que deben constituirlo.
+XVII.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
 XVIII.- (DEROGADA, P.O. 3 DE JUNIO DE 1992)
 
@@ -1166,13 +1164,9 @@ XXI.- Dictar las leyes que estime pertinentes para combatir el alcoholismo y el 
 
 XXII.- Conceder premios por servicios hechos a la nación, al Estado o a la Humanidad.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+XXIII.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
-XXIII.- Rehabilitar en sus derechos cívico políticos a los ciudadanos del Estado, que les hayan sido suspendidos.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XXIV.- Expedir la ley relativa a la expropiación de la propiedad privada por causas de utilidad pública.
+XXIV.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
@@ -1286,31 +1280,13 @@ XLVI.- Expedir leyes o decretos a fin de crear Organismos Descentralizados, empr
 
 XLVII.- Por conducto de la Entidad Superior de Auditoría y Fiscalización, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los Programas Operativos Anuales sectorizados y por Dependencia u Organismo, en su caso con los Programas Financieros o de deuda pública, determinando las responsabilidades que en su caso procedan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XLVIII.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+XLIX.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
-XLVIII.- Legislar dentro del ámbito de su competencia y en lo que no esté expresamente reservado a la Federación, sobre las materias de:
+L.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
-a) Derechos, desarrollo, cultura y educación de las culturas indígenas;
-
-b) Educación Básica y Media Superior;
-
-c) Asentamientos humanos, regularización de la tenencia de la tierra, reservas ecológicas, territoriales y utilización del suelo, y
-
-d) Planeación Estatal del Desarrollo Económico y Social del Estado y sobre programación, promoción, concertación y ejecución de acciones de orden económico;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XLIX.- Expedir las Leyes Orgánicas y la de División Territorial Municipal con sujeción a lo establecido por esta Constitución.
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-L.- Expedir leyes en el ámbito de su competencia, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico; así como de protección civil, previendo la concurrencia y coordinación de los Municipios con el Gobierno del Estado y la Federación.
-
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 1989)</small>
-
-LI.- Expedir la Ley que instituya el tribunal de lo Contencioso-Administrativo del Estado, dotado de plena Autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal o de los Ayuntamientos y los particulares; y establezca las normas para su Organización, su funcionamiento, el procedimiento y los recursos contra su resolución.
+LI.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -2174,11 +2150,11 @@ No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizad
 
 La revisión y fiscalización de las Cuentas Públicas de la Administración Pública Centralizada y Descentralizada de los Poderes y los Municipios, los Organismos Autónomos Constitucionales y, en general, todo Organismo Público, persona física o moral del sector social o privado que por cualquier motivo reciba o haya recibido, administrado, ejerza o disfrute de recursos públicos bajo cualquier concepto, la realizará la Entidad Superior de Auditoría y Fiscalización, que es el órgano técnico de fiscalización, auditoría, control y evaluación del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y de decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley, y estará a cargo de un Auditor General de Fiscalización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE ESTE SEGUNDO PÁRRAFO SE ENCUENTRA INMERSO EN LA REDACCIÓN DEL PÁRRAFO INMEDIATO ANTERIOR, ASIMISMO EL 30 DE ENERO DE 2015 MEDIANTE DECRETO NO. 2062 FUE ADICIONADO ESTE PÁRRAFO SEGUNDO. VÉASE DICHA PUBLICACIÓN.</small>
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
 
-Para la consecución de sus objetivos, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, contará con un Servicio Profesional de Auditoría, el que, mediante concursos de oposición interno y externo, será el mecanismo para el ingreso, permanencia y promoción de su personal. En las etapas de reclutamiento regirán los principios de legalidad, eficiencia, objetividad, calidad, imparcialidad, equidad, competencia por mérito y equidad de género.
+La revisión y fiscalización de las cuentas públicas de la Administración Pública Centralizada y Descentralizada de los Poderes y los Municipios, los Organismos Autónomos Constitucionales y, en general, todo Organismo Público, persona física o moral del sector social o privado que por cualquier motivo reciba o haya recibido, administrado, ejerza o disfrute de recursos públicos bajo cualquier concepto, la realizará el Congreso a través del órgano que se crea denominado Auditoría Superior de Fiscalización del Congreso del Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4897,3 +4873,27 @@ DECRETO NO 2064 POR EL QUE SE REFORMA LA FRACCIÓN XVI, DEL ARTÍCULO 70, DE LA 
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
 
 SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, a través de la Diputación Permanente; en consecuencia, la reforma se tiene como parte de esta Constitución.
+
+P.O. 18 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 2049, POR EL QUE SE DEROGAN LAS FRACCIONES XVII, XXIII, XXIV, XLVIII, XLIX, L Y LI DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado; en consecuencia, la reforma se tiene como parte de esta Constitución.
+
+P.O. 18 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 2050, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 84, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado; en consecuencia, la reforma se tiene como parte de esta Constitución.
+
+P.O. 18 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 2051, POR EL QUE SE REFORMA EL ARTÍCULO 10, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado; en consecuencia, la reformase (sic) tiene como parte de esta Constitución.
