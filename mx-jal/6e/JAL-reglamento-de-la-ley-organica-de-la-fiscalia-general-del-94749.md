@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-94749"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-18"
-last_updated: "2015-02-05"
+last_updated: "2015-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2015.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2015.</small>
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 18 de junio de 2013.
 
