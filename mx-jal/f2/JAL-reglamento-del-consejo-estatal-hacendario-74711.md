@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-consejo-estatal-hacendario-74711"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-02-04"
-last_updated: "1997-02-04"
+last_updated: "2015-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL CONSEJO ESTATAL HACENDARIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el martes 4 de febrero de 1997.
 
@@ -49,11 +49,17 @@ REGLAMENTO DEL CONSEJO ESTATAL HACENDARIO
 
 El Consejo Estatal Hacendario, como órgano de consulta en esta materia, tiene como objetivos los siguientes:
 
-I. Determinar los mecanismos necesarios para el diálogo e información actualizada entre la Secretaría de Finanzas y los H. Ayuntamientos de la Entidad por conducto de sus tesoreros municipales;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2015)</small>
 
-II. Intercambiar experiencias e información de la Secretaría de Finanzas y los H. Ayuntamientos del Estado en este rubro;
+I. Determinar los mecanismos necesarios para el diálogo e información actualizada entre la Secretaría de Planeación, Administración y Finanzas y los H. Ayuntamientos de la Entidad por conducto de sus Encargados de la Hacienda Municipal.
 
-III. Elaborar propuestas en materia hacendaria con observancia a lo estipulado en el artículo 12 de la Ley Orgánica del Poder Ejecutivo del Estado, al Gobernador, para que a su vez, una vez analizadas y aprobadas, las transmita ya sea al H. Congreso local y/o a las autoridades federales correspondientes, para hacer efectivo el acceso a una coordinación hacendaria justa y equitativa;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2015)</small>
+
+II. Intercambiar experiencias e información de la Secretaría de Planeación, Administración y Finanzas y los H. Ayuntamientos del Estado en este rubro;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2015)</small>
+
+III. Elaborar propuestas en materia hacendaria con observancia a lo estipulado en el artículo 11 fracción II de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, al Gobernador, para que, una vez analizadas y aprobadas, las transmita ya sea al H. Congreso local y/o a las autoridades federales correspondientes, para hacer efectivo el acceso a una coordinación hacendaria justa y equitativa;
 
 IV. Promover actualización técnica y jurídica en materia hacendaria, para el desarrollo de las haciendas municipales, y
 
@@ -65,9 +71,13 @@ Para efectos del presente Reglamento, cuando se mencione Consejo se estará alud
 
 El Consejo, para el despacho de los asuntos de su competencia, queda integrado por:
 
-I. De la Secretaría de Finanzas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2015)</small>
 
-1. El Secretario de Finanzas, quien lo presidirá.
+I. De la Secretaría de Planeación, Administración y Finanzas;
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2015)</small>
+
+1. El Secretario de Planeación, Administración y Finanzas, quien lo presidirá.
 
 2. El Director General de Ingresos.
 
@@ -75,9 +85,13 @@ I. De la Secretaría de Finanzas:
 
 4. El Director General de Fondo de Apoyo Municipal.
 
-II. Previa invitación y aceptación, los 124 Ayuntamientos del Estado, que se organizarán en 5 grupos, quienes tendrán 10 representantes en total, que serán dos Tesoreros Municipales de cada uno de los grupos, que una vez integrados los elegirán por voto directo. Dichos representantes durarán en su cargo por el término que permanezca en funciones la administración municipal correspondiente.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2015)</small>
 
-Cada uno de los miembros del Consejo contará con su respectivo suplente, quienes serán nombrados por el titular de la Secretaría de Finanzas respecto a los enunciados en la fracción I de este artículo, y los presidentes municipales correspondientes en cuanto a los referidos en la fracción II. Cada vez que sea necesario cambiar a las personas nombradas como representantes, ya sean titulares o suplentes dentro del Consejo, se deberá de hacer constar en el acta de la siguiente sesión del mismo.
+II. Previa invitación y aceptación, a los 125 Ayuntamientos del Estado, que se organizarán en cinco grupos, quienes tendrán diez representantes en total, que serán dos Encargados de la Hacienda Municipal de cada uno de los grupos, que una vez integrados los elegirán por voto directo. Dichos representantes durarán en su cargo por el término que permanezca en funciones la administración municipal correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2015)</small>
+
+Cada uno de los miembros del Consejo contará con su respectivo suplente, quienes serán nombrados por el titular de la Secretaría de Planeación, Administración y Finanzas respecto a los enunciados en la fracción I de este artículo, y los presidentes municipales correspondientes en cuanto a los referidos en la fracción II. Cada vez que sea necesario cambiar a las personas nombradas como representantes, ya sean titulares o suplentes dentro del Consejo, se deberá de hacer constar en el acta de la siguiente sesión del mismo.
 
 El Consejo nombrará un secretario técnico y un suplente para actas y acuerdos.
 
@@ -97,25 +111,33 @@ Grupo Rango de población
 
 5. 150,000 en adelante
 
-###### Artículo 4º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2015)</small>
 
-El Consejo se reunirá por lo menos una vez cada bimestre, debiendo contar con quórum para que estas reuniones y sus acuerdos sean válidas.
+###### Artículo 4°.
+
+El Consejo se reunirá por lo menos una vez cada semestre, debiendo contar con quórum para que estas reuniones y sus acuerdos sean válidas.
 
 Habrá quórum cuando exista la asistencia de más del 50% cincuenta por ciento del total de los miembros titulares, o en caso de ausencia de éstos, de su respectivo suplente, verificando el quórum el secretario técnico al inicio de cada sesión.
 
 Los suplentes contarán con voto, sólo cuando esté ausente su titular.
 
-Podrán asistir a las sesiones del Consejo como invitados sólo con voz los demás tesoreros municipales.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2015)</small>
+
+Podrán asistir a las sesiones del Consejo como invitados sólo con voz los demás Encargados de la Hacienda Municipal.
 
 En caso de empate en sus sesiones, su presidente tendrá voto de calidad.
 
-Se podrán celebrar reuniones por acuerdo del Presidente del Consejo, del Director General de Ingresos, y por cuatro de los Tesoreros Municipales miembros del Consejo.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2015)</small>
+
+Se podrán celebrar reuniones por acuerdo del Presidente del Consejo, del Director General de Ingresos, y por cuatro de los Encargados de la Hacienda Municipal miembros del Consejo.
 
 ###### Artículo 5º.
 
 El secretario técnico convocará por escrito a los integrantes del Consejo para la celebración de las sesiones, cuando menos con 10 diez días hábiles de anticipación.
 
-Las sesiones del Consejo serán presididas, en ausencia del Secretario de Finanzas, por su suplente, y en caso de ausencia de ambos, serán presididas por quien determinen al inicio de la reunión, los asistentes con derecho a voto.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2015)</small>
+
+Las sesiones del Consejo serán presididas, en ausencia del Secretario de Planeación, Administración y Finanzas, por su suplente, y en caso de ausencia de ambos, serán presididas por quien determinen al inicio de la reunión, los asistentes con derecho a voto.
 
 ###### Artículo 6º.
 
@@ -123,7 +145,9 @@ El Consejo tendrá las siguientes facultades:
 
 I. Preparar las asambleas de autoridades hacendarías estatales y municipales, y establecer los asuntos que en ellas deben tratarse;
 
-II. Proponer al titular del Poder Ejecutivo Estatal, por conducto de la Secretaría General de Gobierno, y a los Gobiernos Municipales, por medio de su Tesorero Municipal, las sugerencias que estime convenientes para actualizar la Coordinación Hacendaria;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2015)</small>
+
+II. Proponer al titular del Poder Ejecutivo Estatal, por conducto de la Secretaría General de Gobierno, y a los Gobiernos Municipales, por medio de su Encargado de la Hacienda Municipal, las sugerencias que estime convenientes para actualizar la Coordinación Hacendaria;
 
 III. Elaborar los reglamentos de funcionamiento del propio Consejo;
 
@@ -154,3 +178,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE FEBRERO DE 2015.
+
+ÚNICO. El presente Acuerdo entrará en vigor a partir del día siguiente su publicación en el Periódico Oficial “El Estado de Jalisco”.
