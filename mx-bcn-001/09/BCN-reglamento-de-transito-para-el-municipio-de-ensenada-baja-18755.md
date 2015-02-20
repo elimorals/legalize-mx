@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2014-12-26"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DE LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -1895,7 +1897,7 @@ VI.- Cuando el propietario de un vehículo tenga conocimiento de que éste ha pa
 
 VII.- Para el esclarecimiento de hechos, tratándose de accidentes de tránsito, se utilizarán los procedimientos, métodos y técnicas que establece computadora de evidencia física “GALLION”.
 
-VIII.- Los resultados que se obtengan del proceso las (sic) evidencias en accidentes de tránsito, una vez aplicado el sistema mencionado en el inciso anterior, se anexarán en todos los casos, al parte de novedades que se rinda considerándose éstos como prueba determinante del grado de responsabilidad.
+VIII.- Los resultados que se obtengan del proceso (sic) las evidencias en accidentes de tránsito, una vez aplicado el sistema mencionado en el inciso anterior, se anexarán en todos los casos, al parte de novedades que se rinda considerándose éstos como prueba determinante del grado de responsabilidad.
 
 ###### ARTICULO 201.
 
@@ -2314,3 +2316,15 @@ P.O. 22 DE AGOSTO DE 2014.
 P.O. 26 DE DICIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente reglamento entrará en vigor a partir de 30 días siguientes de su publicación en el periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Una vez entrando en vigor las disposiciones aquí aprobadas. Se abroga el reglamento de tránsito para el municipio de Ensenada publicado en el periódico oficial del Estado de Baja California No. 55, de fecha 22 de diciembre del 2000.
+
+TERCERO.- El XXI Ayuntamiento y las dependencias municipales indicadas, en la esfera de su competencia, deberán proveer lo necesario para el cumplimiento y observancia del presente reglamento.
+
+La Dirección de Seguridad Pública Municipal ampliará la cobertura de los programas de educación vial, cursos de manejo defensivo y registro de infractores, a fin de atender las solicitudes de conmutación de la multa impuesta, en los términos del presente reglamento, así como actualizarán las boletas de infracción, con la información necesaria para garantizar y preservar los derechos del ciudadano.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan al presente reglamento.
