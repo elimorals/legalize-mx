@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-academico-para-los-alumnos-de-la-universidad-84020"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-18"
-last_updated: "2011-11-18"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO ACADÉMICO PARA LOS ALUMNOS DE LA UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ACADÉMICO PARA LOS ALUMNOS, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 18 de noviembre de 2011.
 
@@ -345,7 +347,7 @@ XX.- Acceder al Recurso de Reconsideración, establecido en el Capítulo IX del 
 
 Para hacer válidas en la Universidad Tecnológica de Querétaro, asignaturas aprobadas en el nivel de Educación Superior que hayan sido cursadas en otra institución, deberán de utilizarse los términos legales establecidos para ello, de acuerdo a lo siguiente:
 
-l.- Revalidación: Es el acto administrativo a través del cual la autoridad educativa otorga validez oficial a aquellos estudios que se realizan en el extranjero. Este acto requiere, para la Universidad Tecnológica de Querétaro, de un acuerdo de revalidación expedido por la Secretaría de Educación Pública Federal.
+I.- Revalidación: Es el acto administrativo a través del cual la autoridad educativa otorga validez oficial a aquellos estudios que se realizan en el extranjero. Este acto requiere, para la Universidad Tecnológica de Querétaro, de un acuerdo de revalidación expedido por la Secretaría de Educación Pública Federal.
 
 II.- Equivalencia: Es el acto administrativo a través del cual la autoridad educativa declara equiparables entre sí estudios realizados dentro del sistema educativo nacional. Éste acto requiere, para la Universidad Tecnológica de Querétaro de un acuerdo de equivalencia expedido por la Secretaría de Educación Pública Federal.
 
@@ -602,3 +604,15 @@ Coordinadora de Apoyo Institucional
 Invitada
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+SEGUNDO.- El presente Reglamento abroga al Reglamento Académico para los Alumnos publicado el 18 de noviembre de 2011, sus Reformas, Adiciones y Modificaciones aprobadas por el Consejo Directivo de la Universidad Tecnológica de Querétaro, con anterioridad a la aprobación del presente instrumento.
+
+TERCERO.- Deberán ser respetados los resultados de los alumnos que hayan obtenido desempeño sobresaliente en el Examen General de Egreso de Técnico Superior Universitario (EGETSU), antes de la entrada en vigor del presente Reglamento.
+
+CUARTO.- El presente Reglamento Académico para los Alumnos es aprobado en la Segunda Sesión Ordinaria del H. Consejo Directivo, de fecha 21 de octubre de 2014.
