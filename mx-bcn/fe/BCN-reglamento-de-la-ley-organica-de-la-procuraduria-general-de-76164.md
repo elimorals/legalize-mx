@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-761
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-06"
-last_updated: "2010-08-06"
+last_updated: "2015-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 6 de agosto de 2010.
 
@@ -441,11 +441,15 @@ I.- Unidad Estatal de Atención al Delito de Secuestro;
 
 II.- Unidad Estatal de Homicidios Dolosos;
 
-III.- Unidad Estatal Investigadora de Personas Extraviadas o Ausentes; y,
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
+III.- Unidad Estatal Investigadora de Búsqueda de Personas No Localizadas; y,
 
 IV.- Los servidores públicos necesarios para el cumplimiento de sus atribuciones.
 
-Cualquier Agencia del Ministerio Público, podrá recibir las denuncias por la comisión del ilícito de secuestro, homicidio doloso, o relacionadas con personas extraviadas o ausentes, la que practicará las diligencias básicas iniciales, brindará la atención necesaria a las víctimas u ofendidos del delito, e inmediatamente hará del conocimiento de tales hechos a la Unidad Estatal correspondiente.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+Cualquier Agencia del Ministerio Público y Unidad de Investigación podrá recibir las denuncias por la comisión del ilícito de secuestro, homicidio doloso, o relacionadas con personas no localizadas, la que practicará las diligencias básicas iniciales, brindará la atención necesaria a las víctimas u ofendidos del delito, e inmediatamente hará del conocimiento de tales hechos a la Unidad Estatal correspondiente.
 
 ###### ARTÍCULO 29.
 
@@ -551,7 +555,9 @@ XVIII.- Informar al Subprocurador contra la Delincuencia Organizada sobre los as
 
 XIX.- Las demás inherentes al cargo, aquellas que permitan la realización oportuna de sus funciones, las encomendadas por el titular de la Subprocuraduría contra la Delincuencia Organizada, así como las previstas en las disposiciones normativas aplicables.
 
-Además de las atribuciones anteriores, desde su primera intervención la Unidad Estatal Investigadora de Personas Extraviadas o Ausentes, deberá conocer, dirigir y supervisar las investigaciones ministeriales relacionadas con personas extraviadas o ausentes, sin perjuicio de aquellas relacionadas con delito diverso y remitiendo éstas, de forma inmediata, al Agente del Ministerio Público que requiera la investigación.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+Además de las atribuciones anteriores, desde su primera intervención la Unidad Estatal Investigadora de Búsqueda de Personas No Localizadas deberá conocer, dirigir y supervisar las investigaciones ministeriales relacionadas con personas no localizadas, sin perjuicio de aquellas relacionadas con delito diverso y, remitiendo éstas de forma inmediata, al Agente del Ministerio Público que requiera la investigación.
 
 ### CAPÍTULO SEGUNDO. DIRECCIÓN DE JUSTICIA PARA ADOLESCENTES
 
@@ -3932,3 +3938,13 @@ CUAUHTÉMOC CARDONA BENAVIDES
 PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 ROMMEL MORENO MANJARREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 28 Y 33, DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las referencias a la Unidad Estatal Investigadora de Personas Extraviadas o Ausentes que hagan las leyes y demás disposiciones normativas, se entenderán realizadas a la Unidad Estatal Investigadora de Búsqueda de Personas No Localizadas.
