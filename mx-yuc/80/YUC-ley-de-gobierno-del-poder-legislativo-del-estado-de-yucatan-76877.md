@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2012-08-23"
+last_updated: "2015-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -105,7 +105,7 @@ IX.- Decreto: resolución del Pleno, que crea situaciones jurídicas colectivas 
 
 X.- Diario de los Debates: libro oficial de la Legislatura, mediante el cual se difunde y registran todos los asuntos desahogados en las sesiones, con sus deliberaciones y resoluciones;
 
-XI.- Diputación Permanente: órgano del Poder Legislativo que funcionará durante los recesos entre los periodos ordinarios de sesiones del Pleno, para atender los asuntos que sean dirigidos al Congreso;
+XI.- Diputación Permanente: órgano del Poder Legislativo que funcionará durante los recesos entre los períodos ordinarios de sesiones del Pleno, para atender los asuntos que sean dirigidos al Congreso;
 
 XII.- Dirección de Evaluación del Presupuesto: unidad técnica dependiente del Congreso que evaluará los resultados de la ejecución de los programas y del ejercicio de los recursos públicos;
 
@@ -127,17 +127,43 @@ XX.- Presidente de la Mesa Directiva: Diputado designado para tal efecto y osten
 
 XXI.- Reglamento: resolución que el Congreso emite, para regular disposiciones generales;
 
-XXII.- Representación Legislativa: Diputado electo por medio de un partido político, coalición o candidatura común, excluyendo a los diputados que se separen de una Fracción Legislativa;
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
 
-XXIII.- Secretaría General del Poder Legislativo: órgano técnico responsable de coordinar y ejecutar las funciones especializadas relativas al desempeño legislativo del Congreso, y
+XXII.- Representación Legislativa: Diputado electo por medio de un partido político, coalición o candidatura común o de manera independiente, excluyendo a los diputados que se separen de una Fracción Legislativa;
 
-XXIV.- Secretarios Técnicos: profesionistas que fungen como auxiliares de las Comisiones Permanentes y Especiales del Congreso, que tienen a su cargo asesorar y coadyuvar en las tareas legislativas de éstas.
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXIII.- Secretaría General del Poder Legislativo: órgano técnico responsable de coordinar y ejecutar las funciones especializadas relativas al desempeño legislativo del Congreso;
+
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXIV.- Secretarios Técnicos: profesionistas que fungen como auxiliares de las Comisiones Permanentes y Especiales del Congreso, que tienen a su cargo asesorar y coadyuvar en las tareas legislativas de éstas;
+
+> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXV.- Períodos Ordinarios: Son las sesiones efectuadas por el Pleno del Congreso dentro de los términos establecidos en el artículo 27 de la Constitución Política del Estado, y
+
+> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXVI.- Períodos Extraordinarios: Son las sesiones efectuadas por el Pleno del Congreso convocadas por la Diputación Permanente dentro de las facultades que le confiere el artículo 43 fracción I de la Constitución Política del Estado. En estas sesiones únicamente se abordarán los asuntos para los cuales se convocó en el acuerdo respectivo mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### Artículo 6.
 
 La sede del Poder Legislativo, es el lugar donde actualmente se realizan las sesiones de Pleno, está ubicada en la ciudad de Mérida, capital del Estado, y sólo por causa justificada podrá ser trasladada provisional o definitivamente a otro sitio.
 
-Para cambiar la sede, provisional o definitiva del Congreso, se requerirá del previo acuerdo de las dos terceras partes de la totalidad de los diputados presentes en la sesión correspondiente.
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+Para cambiar la sede, provisional o definitiva del Congreso, se requerirá de previo acuerdo mediante votación de mayoría absoluta de los diputados que integren el Congreso.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+El recinto se constituye con los inmuebles en los que funciona el Congreso del Estado e incluye el Salón de Sesiones que es el lugar destinado al trabajo del Pleno.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 6 Bis.
+
+La Mesa Directiva, previa consulta con la Junta de Gobierno y Coordinación Política, podrá acordar que una Sesión del Pleno se realice en sitio diverso al del Salón de Sesiones, pero dentro del Recinto del Poder Legislativo cuando así resulte necesario.
 
 ###### Artículo 7.
 
@@ -215,7 +241,21 @@ El Congreso sesionará de manera ordinaria, de conformidad con lo establecido en
 
 No podrán iniciarse las sesiones del Pleno sin la concurrencia de más de la mitad del número total de sus diputados integrantes. Las sesiones serán ordinarias, extraordinarias y solemnes, se celebrarán en la fecha y hora que previamente fueren convocadas por la Mesa Directiva; en dichas sesiones, deberá emplearse el tiempo necesario para resolver todos los asuntos en cartera.
 
-El desarrollo de las sesiones se regirá por el reglamento correspondiente que expida el Congreso.
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+El desarrollo de las sesiones y votaciones se regirá por el reglamento correspondiente que expida el Congreso.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 15 Bis.
+
+En la apertura de la primera sesión de un período, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán abre hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 15 Ter.
+
+El Congreso en la clausura del período de sesiones, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, clausura hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
 
 ### CAPÍTULO IV. De los Diputados
 
@@ -316,6 +356,8 @@ Cuando sin causa justificada, un Diputado faltare a tres sesiones consecutivas, 
 Para suplir a los diputados electos, el Congreso mandará llamar al que deba sustituirlo, conforme a lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán.
 
 ### CAPÍTULO VII. De las Comisiones
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 #### Sección Primera. De su Conformación y Atribuciones
 
@@ -429,9 +471,25 @@ XVII.- Ordenar a la Dirección General de Administración y Finanzas, el descuen
 
 XVIII.- Llamar a los suplentes de la Mesa Directiva, cuando proceda;
 
-XIX.- Recibir del Presidente de cada Comisión, un informe semestral del trabajo y dar cuenta de éste al Pleno, y
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
 
-XX.- Las demás que establezcan esta Ley y las disposiciones reglamentarias aplicables, que se consideren necesarias para el ejercicio de sus facultades y cumplimiento de sus obligaciones.
+XIX.- Recibir del Presidente de cada Comisión, un informe semestral del trabajo y dar cuenta de éste al Pleno;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 20 DE FEBRERO DE 2015)</small>
+
+XX.- Declarar en el Pleno la existencia o falta del cuórum legal, cuando se compruebe mediante el pase de lista;
+
+> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXI.- Declarar recesos durante la Sesión Plenaria, a fin de recabar opiniones, promover acuerdos o procurar condiciones que permitan el adecuado desahogo del orden del día, y
+
+XXII.- Las demás que establezcan esta Ley y las disposiciones reglamentarias aplicables, que se consideren necesarias para el ejercicio de sus facultades y cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 34 Bis.
+
+Los procedimientos para el desahogo de las sesiones del Pleno para los acuerdos, decretos o leyes se harán en base a lo establecido por esta Ley y su Reglamento.
 
 #### Sección Tercera. Del Vicepresidente de la Mesa Directiva
 
@@ -447,7 +505,13 @@ Durante los recesos del Congreso, funcionará una Diputación Permanente; ésta 
 
 La Diputación Permanente fungirá como Mesa Directiva en los períodos extraordinarios que se lleven a cabo.
 
-Para la celebración de los períodos extraordinarios, la Diputación Permanente deberá convocar cuando menos tres días antes de la celebración.
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+Para la celebración de los períodos extraordinarios, la Diputación Permanente deberá convocar cuando menos dos días antes de la celebración de éstos.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+El plazo establecido en el párrafo anterior no será necesario siempre y cuando exista extrema urgencia, calificada ésta por la Diputación Permanente.
 
 ###### Artículo 37.
 
@@ -457,9 +521,11 @@ La Diputación Permanente tendrá las atribuciones consignadas en el artículo 4
 
 La Diputación Permanente se instalará inmediatamente después de que el Congreso cierre el período de sus sesiones. Esta instalación se comunicará a los poderes de la federación, a los del Estado y a las demás Legislaturas de las entidades federativas.
 
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 39.
 
-La Diputación Permanente celebrará sesiones cuando así lo acuerde, para lo cual será necesaria la concurrencia, cuando menos, de dos de sus miembros para celebrar sesión.
+La Diputación Permanente celebrará sesiones cuando así lo acuerde, para lo cual será necesaria la concurrencia, cuando menos, de dos de sus miembros para celebrar sesión. En caso de empate en las votaciones, el Presidente de la Diputación Permanente tendrá el voto de calidad.
 
 ###### Artículo 40.
 
@@ -469,15 +535,17 @@ Al inicio del siguiente período ordinario de sesiones el Presidente de la Diput
 
 ###### Artículo 41.
 
-Para la integración de las Comisiones Permanentes, la Junta de Gobierno y Coordinación Política, tomará en cuenta el criterio de proporcionalidad, para formular las propuestas correspondientes.
+Para la integración de las Comisiones Permanentes, la Junta de Gobierno y Coordinación Política, tomará en cuenta el criterio de proporcionalidad de cada una de las fracciones o representaciones legislativas, para formular las propuestas correspondientes.
 
 ###### Artículo 42.
 
 Los diputados podrán formar parte simultáneamente de dos o más Comisiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 43.
 
-El Congreso designará Comisiones Permanentes que se encargarán del estudio, análisis y dictamen de los asuntos que les sean turnados, de manera individual o conjunta, siendo las siguientes:
+El Congreso designará Comisiones Permanentes que se encargarán del estudio, análisis, investigación, consulta, debate y dictamen de los asuntos que les sean turnados, de manera individual o conjunta, siendo las siguientes:
 
 I.- PUNTOS CONSTITUCIONALES Y GOBERNACIÓN. Tendrá por objeto estudiar, analizar y dictaminar sobre los asuntos relacionados con las reformas a la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado y los relativos con la gobernabilidad Estatal y Municipal, para lo cual conocerá todo lo relativo a:
 
@@ -615,27 +683,39 @@ h) Las comunicaciones y transportes que sean de competencia estatal, y
 
 i) Las disposiciones de vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas.
 
-XII.- EQUIDAD DE GÉNERO, GRUPOS VULNERABLES Y DERECHOS HUMANOS. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el trato imparcial de mujeres y hombres de todas las edades, según sus necesidades y la vigilancia de los derechos de los sujetos comprendidos en los grupos vulnerables por circunstancias de pobreza, origen étnico, estado de salud, edad, género o discapacidad, que se encuentren en una situación de mayor indefensión, así como la protección y defensa de los derechos humanos, en lo referente a:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XII.- IGUALDAD DE GÉNERO. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el trato imparcial de mujeres y hombres de todas las edades, según sus necesidades, en lo referente a:
 
 a) Los proyectos de Ley y reformas a disposiciones legales que tengan relación con el trato igualitario entre mujeres y hombres, bajo los enfoques de igualdad, oportunidad y transversalidad;
 
 b) Las acciones para prevenir, atender y erradicar la violencia en contra de las mujeres;
 
-c) La igualdad de oportunidades para las personas que se encuentran en situación de vulnerabilidad o desventaja por circunstancias de pobreza, origen étnico, estado de salud, edad, género o discapacidad;
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-d) La prevención y erradicación de la discriminación;
+c) Las políticas, planes y programas tendientes al fortalecimiento de los valores universales;
 
-e) Los derechos de las niñas, niños y jóvenes;
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-f) Los derechos de los adultos mayores;
+d) Crear espacios de diálogo, así como de intercambio parlamentario con las instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de las mujeres;
 
-g) Los derechos de las personas con discapacidad;
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-h) Los asuntos de la familia, e
+e) Promover la cultura de equidad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social;
 
-i) La vigilancia del cumplimiento de la política estatal en materia de respeto y defensa de los Derechos Humanos, así como la integración y funcionamiento de la
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-Comisión Estatal de Derechos Humanos.
+f) Promover las medidas de acción positiva que garanticen la igualdad sustantiva entre mujeres y hombres en los ámbitos públicos y privados;
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+g) La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa, preferencias o situación socioeconómica, entre otros, y
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+h) Analizar las condiciones de discriminación y violencia contra las mujeres, con la finalidad de prevenir y erradicar las desigualdades de género.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 263/2015 PUBLICADO EN EL D.O. DEL 20 DE FEBRERO DE 2015, SE ADVIERTE QUE EL CONTENIDO DEL INCISO I DE ESTA FRACCIÓN, PASÓ AL INCISO F) DE LA FRACCIÓN XIV, ADICIONADA EN EL PRESENTE DECRETO.</small>
 
 XIII.- PARA EL RESPETO Y PRESERVACIÓN DE LA CULTURA MAYA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el respeto de los derechos de las personas descendientes del pueblo maya, que conservan y mantienen sus rasgos culturales costumbres, tradiciones o religión como parte de su forma habitual de vida en el Estado, en lo referente a:
 
@@ -653,6 +733,26 @@ f) Los asuntos relacionados con los derechos sociales del pueblo maya con la apl
 
 Los asuntos que no estén descritos en las fracciones que anteceden, pero que guardan relación con los temas competencia de las Comisiones, serán turnados para su estudio, análisis y dictamen a la Comisión correspondiente.
 
+> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XIV.- DERECHOS HUMANOS. Tendrá por objeto analizar y dictaminar todos los asuntos relacionados con los derechos humanos en el estado; así como la vigilancia de los derechos de los sujetos comprendidos en los grupos vulnerables por circunstancias de pobreza, origen étnico, estado de salud, edad o discapacidad, que se encuentren en una situación de mayor indefensión; así como la protección y defensa de los derechos humanos, en lo referente a:
+
+a) La igualdad de oportunidades para las personas que se encuentran en situación de vulnerabilidad o desventaja por circunstancias de pobreza, origen étnico, estado de salud, edad o discapacidad;
+
+b) Los derechos de las niñas, niños y jóvenes, relativos a su desarrollo integral;
+
+c) La legislación relativa a los derechos, protección, apoyo, reconocimiento y desarrollo de las personas adultas mayores, tendientes a mejorar su calidad de vida;
+
+d) Lo relativo a los derechos de las personas con discapacidad y su integración a la sociedad;
+
+e) Los asuntos relacionados con el fortalecimiento de la familia como núcleo básico de la sociedad;
+
+f) La vigilancia del cumplimiento de la política estatal en materia de respeto y defensa de los derechos humanos, así como la integración y funcionamiento de la Comisión Estatal de Derechos Humanos;
+
+g) Los que se refieran a la expedición de reformas, adiciones y derogaciones de la legislación estatal de la materia, y
+
+h) Implementar las reformas constitucionales en materia de derechos humanos; desarrollar acciones para prevenir violaciones a los derechos humanos; proponer acciones para el fortalecimiento de las políticas públicas del Estado en materia de derechos humanos.
+
 ###### Artículo 44.
 
 Las Comisiones Permanentes, tendrán las atribuciones generales siguientes:
@@ -661,7 +761,9 @@ I.- Elaborar su programa anual de trabajo;
 
 II.- Rendir un informe anual de sus actividades a la Junta de Gobierno y Coordinación Política y de manera semestral al Presidente de la Mesa Directiva;
 
-III.- Sesionar al menos una vez al mes y turnar al Pleno un asunto por Período Ordinario;
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+III.- Sesionar las veces que sean necesarias para el cumplimiento de sus funciones;
 
 IV.- Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones turnadas, en los términos de la Agenda Legislativa;
 
@@ -702,6 +804,18 @@ Las sesiones de trabajo de las Comisiones serán públicas, pudiendo ser privada
 En las sesiones, los asistentes deberán guardar el orden y decoro debidos.
 
 El funcionamiento de las Comisiones así como las reglas de discusión y votación de las sesiones se regirán por el reglamento respectivo.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 49 Bis.
+
+Cuando en el transcurso de una legislatura se efectúen cambios en la Presidencia de una Comisión Permanente, el Presidente saliente transferirá al entrante, con auxilio de la Secretaría General, el inventario que contendrá la relación de iniciativas, minutas, proposiciones y demás asuntos que estén pendientes de ser considerados por el Pleno.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 49 Ter.
+
+Cuando no haya cuórum legal después de dos convocatorias sucesivas a reunión por parte de comisiones unidas, sus presidentes lo harán del conocimiento a la Junta de Gobierno y Coordinación Política para que coadyuven a la solución correspondiente.
 
 ###### Artículo 50.
 
@@ -773,9 +887,11 @@ Las Fracciones y Representaciones Legislativas deberán llevar una contabilidad 
 
 Sólo existirá una Fracción Legislativa por cada partido político que esté representado por diputados en el Congreso. Una vez constituida se comunicará al Presidente de la Mesa Directiva, el nombre de su coordinador y demás integrantes, al igual que las modificaciones que ocurran en su conformación, para los fines previstos en esta Ley.
 
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 56.
 
-Los diputados que dejen de pertenecer a una Fracción Legislativa, serán considerados como diputados sin partido, y tendrán derecho a la subvención que acuerde la Junta de Gobierno y Coordinación Política.
+Los diputados que dejen de pertenecer a una Fracción o Representación Legislativa, serán considerados como diputados sin partido, y tendrán derecho a la subvención que acuerde la Junta de Gobierno y Coordinación Política.
 
 ### CAPÍTULO III. De las Áreas Administrativas
 
@@ -799,17 +915,19 @@ A sus sesiones también deberá asistir el Secretario General del Poder Legislat
 
 La sesión de instalación de la Junta, será convocada por el Coordinador de la Fracción Legislativa que tenga el mayor número de diputados.
 
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 59.
 
-Presidirá la Junta durante el período de la Legislatura, el Coordinador de aquella Fracción Legislativa que por sí misma cuente con la mayoría absoluta en el Congreso.
+Presidirá la Junta durante el período de la Legislatura, el Coordinador de aquella Fracción Legislativa que por sí misma cuente con el mayor número de diputados en el Congreso.
 
-El Secretario de la Junta, será el coordinador de la Fracción Legislativa que cuente con la segunda mayoría.
+El Secretario de la Junta, será el coordinador de la Fracción Legislativa que se encuentre en el segundo lugar en número de diputados en el Congreso.
 
-En el caso de que ninguna Fracción Legislativa se encuentre en el supuesto señalado en el primer párrafo de este artículo, la Presidencia de la Junta será ejercida por los coordinadores de las tres Fracciones Legislativas que cuenten con el mayor número de diputados, en forma alternada, correspondiéndole a cada una un año legislativo. El orden anual para presidir este órgano será determinado por la Junta.
+Cuando dos o más fracciones legislativas estén representadas por igual número de diputados, la Presidencia de la Junta será rotativa anualmente, siendo el Presidente de la misma en el primer año el coordinador de la fracción cuyo partido político hubiere obtenido el mayor número de votos en la elección de diputados. El orden anual para los siguientes dos años para presidir este órgano será determinado por el mayor número de votos obtenidos por las restantes fracciones legislativas en la elección de diputados.
 
-En el caso de que sólo haya dos Fracciones Legislativas en una Legislatura, el Coordinador que cuente con el mayor número de diputados presidirá la Junta los dos primeros años.
+En caso de existir solo dos fracciones con igual número de diputados, el tercer año será presidido por la fracción que presidió el primer año.
 
-Cuando dos o más Fracciones Legislativas estén representadas por igual número de diputados, el Presidente de la Junta que fungirá para el primer año de gestión, será el diputado de la fracción cuyo partido político, hubiere obtenido el mayor número de votos, en la elección de diputados. Esta disposición será aplicable para los dos años siguientes.
+En este caso, el Secretario de la Junta será designado de manera rotativa anualmente en estos tres años y será el coordinador de la Fracción Legislativa que acuerde la junta.
 
 ###### Artículo 60.
 
@@ -859,9 +977,11 @@ XVII.- Las demás que le señale esta Ley, el Pleno y la Diputación Permanente,
 
 La Junta deberá integrarse el día de la sesión de instalación y apertura del Primer Período Ordinario de Sesiones, correspondiente al primer año de ejercicio constitucional de la Legislatura, expidiéndose la Minuta de Acuerdo por el Congreso, que será publicada en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 63.
 
-Las decisiones de la Junta se tomarán por mayoría absoluta, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tuviere su Fracción o Representación Legislativa, al momento de la instalación de la legislatura.
+Las decisiones de la Junta se tomarán, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tuviere su Fracción o Representación Legislativa, al momento de la instalación de la Legislatura.
 
 ###### Artículo 64.
 
@@ -1256,3 +1376,13 @@ D.O. 23 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE FEBRERO DE 2015.
+
+Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación Tácita.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
