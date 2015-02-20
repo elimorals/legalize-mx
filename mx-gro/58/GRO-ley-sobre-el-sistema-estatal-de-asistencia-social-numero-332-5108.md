@@ -4,7 +4,7 @@ identifier: "GRO-ley-sobre-el-sistema-estatal-de-asistencia-social-numero-332-51
 country: "mx"
 rank: "ley"
 publication_date: "1986-07-15"
-last_updated: "2008-05-30"
+last_updated: "2015-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NUMERO 332
 
-LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NUMERO 332
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NÚMERO 332
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de julio de 1986.
 
@@ -57,33 +57,43 @@ El Gobierno del Estado, en forma prioritaria proporcionará servicios de asisten
 
 Para los efectos de esta Ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
-En los términos del artículo anterior de esta Ley, son sujetos a la recepción de los servicios de asistencia social preferentemente los siguientes:
+###### ARTICULO 4°.
 
-I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+Tienen derecho a la asistencia social las personas, familias y grupos que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar.
 
-II.- Menores infractores; en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+Con base en lo anterior, son sujetos de la asistencia social, preferentemente los siguientes:
 
-III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
+I.- La familia considerándola como la unidad fundamental de la sociedad;
 
-IV.- Mujeres en período de gestación o lactancia;
+II.- Personas menores de dieciocho años sujetas a maltrato o en estado de abandono, desamparo, desnutrición o con deficiencias en su desarrollo físico o mental,
 
-V.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato.
+III.- Personas menores de dieciocho años infractores en lo referente a servicios de previsión, prevención, atención, promoción, protección y rehabilitación, así como a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que disponga la Ley de Justicia para Adolescentes del Estado Libre y Soberano de Guerrero o los reglamentos aplicables;
 
-VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
+IV.- Alcohólicos, farmacodepedientes e individuos en condiciones de vagancia;
 
-VII.- Indigentes;
+V.- Mujeres en periodos de gestación o lactancia, carentes de recursos económicos o maltratados, dando prioridad a las madres adolescentes que se encuentre(sic) en esta situación;
 
-VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+VI.- Adultos mayores en desamparo, marginación, sujetos a maltrato, violencia en cualquiera de sus modalidades o expuestos a ser víctimas de explotación o con alguna discapacidad;
 
-IX.- Víctimas de la comisión de delitos en estado de abandono;
+VII.- Personas que por su discapacidad tengan limitación para realizar alguna actividad para su desempeño físico, mental, social ocupacional o económico;
 
-X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+VIII.- Indigentes;
 
-XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia, y;
+IX.- Personas que por su extrema pobreza o ignorancia requieran de servicios asistenciales;
 
-XII.- Personas afectadas por desastres.
+X.- Víctimas de la comisión de delitos en estado de abandono, con especial atención a quienes resientan cualquier tipo de violencia, pornografía, trata de personas o cualquier delito sexual;
+
+XI.- Familiares que dependen económicamente de quienes se encuentren privados de su libertad por causas penales y que por ello queden en estado de abandono;
+
+XII.- Habitantes marginados del medio rural o urbano que carezcan de lo indispensable para su subsistencia;
+
+XIII.- Personas afectadas por desastres que queden en estado de necesidad o desamparo;
+
+XIV.- Personas menores de dieciocho años que trabajen en condiciones que afecten su desarrollo e integridad física y mental; y
+
+XV.- Personas que no tengan la capacidad para comprender el significado del hecho, en estado de abandono, maltrato o desamparo.
 
 ###### ARTICULO 5º.
 
@@ -136,6 +146,22 @@ VII.- Coordinar, evaluar y dar seguimiento a los servicios de salud que en mater
 VIII.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social, y;
 
 IX.- Las demás que le otorgan las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+ARTICULO 11° BIS.- Los sujetos de atención de la Asistencia Social tendrán derecho a recibir:
+
+I. Atención, acorde a sus necesidades, por personal profesional calificado, responsable y ético;
+
+II. Estricto respeto, a su condición jurídica y humana;
+
+III. Los servicios sin discriminación por su credo, origen étnico, género, ideología, afinidad o tendencia política;
+
+IV. La confidencialidad respecto a sus condiciones personales y de los servicios que reciban.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+ARTICULO 11° TER.- Los sujetos y las familias, en la medida de sus posibilidades, participarán en los distintos procesos de la asistencia social, como la capacitación, rehabilitación e integración. Los familiares de los sujetos de la asistencia social, serán corresponsables de esa participación y aprovechamiento.
 
 ###### ARTICULO 12º.
 
@@ -513,7 +539,7 @@ El Secretario de Gobierno
 
 Lic. Angel H. Aguirre Rivero
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE MAYO DE 1987.
 
@@ -530,3 +556,13 @@ P.O. 30 DE MAYO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. - Remítase al Titular del Poder Ejecutivo Estatal para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 20 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
