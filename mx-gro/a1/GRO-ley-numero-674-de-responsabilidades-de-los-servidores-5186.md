@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-674-de-responsabilidades-de-los-servidores-5186"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-03"
-last_updated: "1989-06-06"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 674 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO
 
-LEY NUMERO 674 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO.
+LEY NÚMERO 674 DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1989.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 695 DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE GUERRERO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE FEBRERO DE 2015, ORDENAMIENTO QUE ENTRARÁ EN VIGOR A LOS CIENTO OCHENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de febrero de 1984.
 
@@ -794,3 +796,13 @@ LIC. HUMBERTO SALGADO GOMEZ.
 P. O. 6 DE JUNIO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. DE 20 DE FEBRERO DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado el 3 de febrero de 1984 y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+TERCERO.- En un término de noventa días posteriores a la entrada en vigor de la presente Ley, los Municipios elaborarán o actualizaran conforme a los criterios establecidos en esta Ley, su reglamentación correspondiente.
+
+CUARTO.- Los procedimientos cuyo trámite haya iniciado previo a la vigencia de la presente ley, serán sustanciados por las autoridades facultadas para ello, bajo el régimen de la Ley número 674, de Responsabilidades de los Servidores Públicos del Estado de Guerrero. Los procedimientos que se inicien a la entrada en vigor de la presente ley, se regirán por esta.
