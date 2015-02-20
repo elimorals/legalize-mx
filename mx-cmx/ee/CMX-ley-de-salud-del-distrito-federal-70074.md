@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2014-12-18"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE FEBRERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -892,19 +892,29 @@ III. La realización de los estudios de laboratorio y gabinete y aplicación de 
 
 IV. La aplicación del tamiz neonatal;
 
-V. La atención de la salud visual, bucal, auditiva y mental;
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+V. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonidos de cadera o radiografía anteroposterior de pelvis, entre el primer y cuarto mes de vida, a los menores que se detecten en el examen clínico.
 
-VI. La detección temprana de la sordera y su tratamiento, desde los primeros días del nacimiento;
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+VI. La atención de la salud visual, bucal, auditiva y mental;
 
-VII. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en edad escolar, y
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+VII. La detección temprana de la sordera y su tratamiento, desde los primeros días del nacimiento;
 
-VIII. La prevención de la transmisión materno-infantil del VIH-SIDA y de la sífilis congénita, a través del ofrecimiento de pruebas rápidas de detección y, en su caso, atención y tratamiento de las mujeres embarazadas infectadas de VIH-SIDA o sífilis.
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2015)</small>
+
+VIII. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en edad escolar, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE FEBRERO DE 2015)</small>
+
+IX. La prevención de la transmisión materno-infantil del VIH-SIDA y de la sífilis congénita, a través del ofrecimiento de pruebas rápidas de detección y, en su caso, atención y tratamiento de las mujeres embarazadas infectadas de VIH-SIDA o sífilis.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE FEBRERO DE 2015)</small>
+
+X. La atención dirigida a niñas y niños, con el objeto de establecer las acciones necesarias para la detección y prevención oportuna de los tumores pediátricos y establecer los convenios y coordinación necesarios para ese fín.
 
 ###### Artículo 50.
 
@@ -915,6 +925,10 @@ I. Procedimientos que permitan la participación activa de la familia en la prev
 II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y
 
 III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE FEBRERO DE 2015)</small>
+
+IV. Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de los menores de 5 años.
 
 ###### Artículo 51.
 
@@ -3005,3 +3019,17 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 20 DE FEBRERO DE 2015.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente decreto al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito para su mayor difusión.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+La aplicación del presente decreto estará sujeta a la asignación del presupuesto necesario para su instrumentación.
