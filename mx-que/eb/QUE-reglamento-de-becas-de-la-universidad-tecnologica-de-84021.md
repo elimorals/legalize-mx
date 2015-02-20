@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-becas-de-la-universidad-tecnologica-de-84021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-18"
-last_updated: "2011-11-18"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO DE BECAS DE LA UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE BECAS, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 18 de noviembre de 2011.
 
@@ -416,3 +418,13 @@ Coordinadora de Apoyo Institucional
 Invitada
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado, "La Sombra de Arteaga".
+
+SEGUNDO.- Queda abrogado el Reglamento de Becas de la Universidad Tecnológica de Querétaro publicado en el Periódico oficial "La Sombra de Arteaga" en 18 de noviembre de 2011, sus adiciones y reformas aprobadas por el H. Consejo Directivo de la Universidad Tecnológica de Querétaro, con anterioridad a la aprobación del presente instrumento.
+
+TERCERO.- El presente Reglamento de Becas es aprobado en la Segunda Sesión Ordinaria del H. Consejo Directivo, de fecha 21 de Octubre de 2014.
