@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2015-01-27"
+last_updated: "2015-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2015 EN LA GACETA OFICIAL DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ENERO DE 2015.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 20 DE FEBRERO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1503,11 +1503,9 @@ III. Los relacionados por amor, gratitud o estrecha amistad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 13 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VI BIS (SIC). COBRANZA ILEGÍTIMA
+### CAPÍTULO VI TER. COBRANZA ILEGÍTIMA
 
-> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2015)</small>
-
-Artículo 173 Bis (sic).- Al que, con la intención de requerir el pago de una deuda, utilice medios ilegítimos, se valga del engaño o efectúe actos de hostigamiento o intimidación en contra del deudor, de quien funja como aval de éste o de quien haya servido como referencia, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientos días de salario mínimo, además de las sanciones que correspondan si, para tal efecto, se emplearon documentos o sellos falsos o se usurparon funciones públicas o de profesión.
+(ADICIONADO, G.O. 27 DE ENERO DE 2015) (F. DE E., P.O. 20 DE FEBRERO DE 2015)
 
 ###### Artículo 173 Bis.
 
@@ -1517,9 +1515,13 @@ Igual penalidad se aplicará si quien realiza la llamada o envía el mensaje ele
 
 Este delito se perseguirá de oficio.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 27 DE ENERO DE 2015)</small>
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 27 DE ENERO DE 2015) (F. DE E., P.O. 20 DE FEBRERO DE 2015)
 
 ### CAPÍTULO VII. ATAQUES A LA LIBERTAD DE REUNIÓN Y DE EXPRESIÓN
+
+###### Artículo 173 Ter.
+
+Al que, con la intención de requerir el pago de una deuda, utilice medios ilegítimos, se valga del engaño o efectúe actos de hostigamiento o intimidación en contra del deudor, de quien funja como aval de éste o de quien haya servido como referencia, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientos días de salario mínimo, además de las sanciones que correspondan si, para tal efecto, se emplearon documentos o sellos falsos o se usurparon funciones públicas o de profesión.
 
 ### CAPÍTULO VIII. ALLANAMIENTO DE MORADA
 
@@ -4123,6 +4125,8 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 27 DE ENERO DE 2015.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+> <small>(F. DE E., P.O. 20 DE FEBRERO DE 2015)</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
