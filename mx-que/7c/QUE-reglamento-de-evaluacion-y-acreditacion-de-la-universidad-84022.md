@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-evaluacion-y-acreditacion-de-la-universidad-84022
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-18"
-last_updated: "2011-11-18"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO DE EVALUACIÓN Y ACREDITACIÓN DE LA UNIVERSIDAD TECNOLÓGICA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE EVALUACIÓN Y ACREDITACIÓN DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el 18 de noviembre de 2011.
 
@@ -462,3 +464,13 @@ Coordinadora de Apoyo Institucional
 Invitada
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Quedan abrogados el Reglamento de Evaluación y Acreditación, publicado en el periódico oficial la Sombra de Arteaga el 18 de Noviembre de 2011, sus Reformas, Adiciones y Modificaciones aprobadas por el Consejo Directivo de la Universidad Tecnológica de Querétaro, con anterioridad a la aprobación del presente instrumento.
+
+TERCERO.- El presente Reglamento de Evaluación y Acreditación es aprobado en la Segunda Sesión Ordinaria del H. Consejo Directivo, de fecha 21 de octubre de 2014.
