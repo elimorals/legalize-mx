@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-01-09"
+last_updated: "2015-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3255,7 +3255,7 @@ Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela ce
 
 ###### ARTICULO 470.
 
-El que en su testamento, aunque sea una persona persona (sic) menor de dieciocho años de edad no emancipada, deje bienes, ya sea por legado o por herencia, a una persona que no tenga capacidad para comprender el significado del hecho que no este bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+El que en su testamento, aunque sea una persona persona menor de dieciocho años de edad no emancipada, deje bienes, ya sea por legado o por herencia, a una persona que no tenga capacidad para comprender el significado del hecho que no este bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -3425,7 +3425,7 @@ III.- Cuando no hubiere tutor autodesignado.
 
 ###### ARTICULO 493.
 
-El tutor dativo será designado por la persona si esta ya ha cumplido dieciséis años. El Juez de Primera Instancia de lo Familiar confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por la persona, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+El tutor dativo será designado por la persona si ésta ya ha cumplido dieciséis años. El Juez de Primera Instancia de lo Familiar confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por la persona, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -10049,7 +10049,27 @@ La indemnización por daño moral en ningún caso excederá del equivalente a la
 
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración el juez ordenará a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y el alcance de la misma a través de los medios informativos que considere conveniente. En los casos que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia con la misma relevancia que hubiera tenido la difusión original.
 
-No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información en los términos y con las limitaciones de los Artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+Se garantizará el ejercicio de los derechos de opinión, crítica, expresión e información que se realice en los términos y con las limitaciones de los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+ARTICULO 1794 BIS.- Estarán obligados a la reparación del daño moral de acuerdo a lo establecido en el artículo anterior quienes lleven a cabo las conductas siguientes, que se considerarán como hechos ilícitos:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+
+III. El que presente acusaciones calumniosas, entendiéndose por tales aquellas en que su autor imputa un hecho a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reparación del daño moral con relación al párrafo y fracciones anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma manera en que fue difundida o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo octavo del artículo anterior.
+
+La persona que se niegue o sea omisa en publicar la rectificación o respuesta en los términos anteriormente referidos, se le impondrá, por medio del Juez de la materia, los medios de apremio que establece el Código de Procedimientos Civiles para el Estado de Baja California.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
 ###### ARTICULO 1795.
 
@@ -16280,3 +16300,7 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 P.O. 9 DE ENERO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
