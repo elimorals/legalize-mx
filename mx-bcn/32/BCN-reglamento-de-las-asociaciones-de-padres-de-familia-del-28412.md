@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-asociaciones-de-padres-de-familia-del-28412"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-31"
-last_updated: "2003-01-31"
+last_updated: "2015-02-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 31 de enero de 2003.
 
@@ -440,3 +442,15 @@ BERNARDO H. MARTÍNEZ AGUIRRE.
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL,
 
 ALEJANDRO BAHENA FLORES.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+EI presente ordenamiento deja sin efectos el Decreto de fecha 31 de enero de 2003 publicado en el Periódico Oficial del Estado, a través del cual emite el Reglamento de las Asociaciones de Padres de Familia.
