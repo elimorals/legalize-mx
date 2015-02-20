@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-produccion-artesanal-del-estado-de-baja-859
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-20"
-last_updated: "2012-01-20"
+last_updated: "2015-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 20 de enero de 2012.
 
@@ -68,6 +68,10 @@ I.- Promover las artesanías producidas en el Estado, en los mercados local, nac
 II.- Mantener actualizado un registro y directorio de personas físicas y morales dedicadas a la producción distribución y comercialización de artesanías; y
 
 III.- Auxiliar a los artesanos, orientándolos y brindándoles información y asesoría en cuanto al mercado artesanal.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
+IV.- Integrar un catálogo de artesanías por localidad y/o región, identificando las materias primas que las conforman, así como el tipo de artesanía de que se trata, conforme al procedimiento dispuesto en el capítulo VIII de la Ley de Preservación del Patrimonio Cultural del Estado de Baja California.
 
 ###### Artículo 5.
 
@@ -153,7 +157,7 @@ Los artesanos y sus unidades de producción artesanal podrán solicitar a la Sec
 
 ###### Artículo 14.
 
-Los artesanos y sus unidades de producción artesanal, recibirán orientación y apoyo en sus gestiones ante las dependencias que correspondan, para implementar acciones de cuidado al medio ambiente, al uso racional y a la rehabilitación de los recursos naturales que utilicen en la elaboración productos (sic) artesanales.
+Los artesanos y sus unidades de producción artesanal, recibirán orientación y apoyo en sus gestiones ante las dependencias que correspondan, para implementar acciones de cuidado al medio ambiente, al uso racional y a la rehabilitación de los recursos naturales que utilicen en la elaboración (sic) productos artesanales.
 
 ###### Artículo 15.
 
@@ -209,7 +213,7 @@ Corresponde a la Secretaría de Desarrollo Social, a través de la Secretaría d
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-SEGUNDO.- Se abroga la Ley de de Fomento a las Artesanías Indígenas para el Estado de Baja California.
+SEGUNDO.- Se abroga la Ley de Fomento a las Artesanías Indígenas para el Estado de Baja California.
 
 DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los diez días del mes de enero del año dos mil doce.
 
@@ -232,3 +236,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2015.
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
