@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2014-09-05"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -383,9 +383,13 @@ XXVI.- Participar con la Autoridad Educativa Federal en la operación de los mec
 
 XXVII.- Elaborar e implementar por conducto de la Secretaría de Educación y Bienestar Social y la Secretaría de Desarrollo Social del Estado, programas contra la deserción escolar, principalmente contra la que se da en la educación de carácter obligatoria, y
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
-XXVIII.- Las demás atribuciones que emanen del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XXVIII.- Establecer medidas para que directivos y el personal docente de los centros educativos tomen en consideración alternativas excepcionales de estudio y evaluaciones para aquellos estudiantes de educación básica, media superior y superior destacados en la práctica del deporte, mismas que sean compatibles con la exigencia de atender su preparación física y mental, sus entrenamientos o competencias deportivas oficiales, sin descuidar su desempeño académico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2015)</small>
+
+XXIX.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -1980,3 +1984,7 @@ P.O. 1 DE AGOSTO DE 2014.
 P.O. 5 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
