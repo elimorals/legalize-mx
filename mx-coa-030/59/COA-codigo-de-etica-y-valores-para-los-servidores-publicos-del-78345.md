@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-etica-y-valores-para-los-servidores-publicos-del-7834
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-21"
-last_updated: "2010-12-21"
+last_updated: "2015-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 ---
 # CODIGO DE ETICA Y VALORES PARA LOS SERVIDORES PUBLICOS DEL MUNICIPIO DE SALTILLO, COAHUILA
 
-CODIGO DE ETICA Y VALORES PARA LOS SERVIDORES PUBLICOS DEL MUNICIPIO DE SALTILLO, COAHUILA
+CÓDIGO DE ÉTICA Y VALORES PARA LOS SERVIDORES PÚBLICOS DEL R. AYUNTAMIENTO DE SALTILLO, COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 21 de diciembre de 2010.
 
@@ -65,191 +65,259 @@ C O N S I D E R A N D O.
 
 TERCERO: Que en ese orden de ideas los integrantes de la Comisión de Gobernación y Reglamentos del R. Ayuntamiento del Municipio de Saltillo, Coahuila de Zaragoza, estiman conveniente someter a consideración del Honorable Cabildo el siguiente dictamen para su aprobación correspondiente.
 
-CÓDIGO DE ÉTICA Y VALORES PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE SALTILLO
+> <small>N. DE E. EL ACUERDO SIN NÚMERO, EXPEDIDO POR LA COMISIÓN DE GOBERNACIÓN Y REGLAMENTOS DEL REPUBLICANO AYUNTAMIENTO DE SALTILLO, COAHUILA DE ZARAGOZA, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 20 DE FEBRERO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
-## TITULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. DE 20 DE FEBRERO DE 2015)</small>
+
+CÓDIGO DE ÉTICA Y VALORES PARA LOS SERVIDORES PÚBLICOS DEL R. AYUNTAMIENTO DE SALTILLO, COAHUILA DE ZARAGOZA
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+## TÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 1.
 
-El presente Código es de interés público en el territorio del Municipio de Saltillo y será aplicable a todos los servidores públicos del Municipio de Saltillo, Coahuila de Zaragoza.
+El presente Código es de interés público y observancia obligatoria en el territorio del Municipio de Saltillo y será aplicable a todos los servidores públicos del R. Ayuntamiento de Saltillo, Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 2.
 
-Los servidores públicos observarán el presente Código de Ética y Valores, y estará a su cargo la difusión del mismo entre el equipo de colaboradores y demás empleados del municipio.
+Los servidores públicos observarán el presente código el cual se difundirá entre el equipo de colaboradores y demás empleados del Municipio por medio de la Dirección de Servicios Administrativos.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 3.
 
-El presente Código tiene como objeto:
+El presente código tiene como objeto:
 
-I.- Incentivar y mejorar la transparencia, calidad, efectividad y el servicio en la institución gubernamental.
+I.- Establecer las bases, principios, valores y lineamientos de carácter ético y profesional en el ejercicio de la función pública.
 
-II.- Fomentar la conducta ética de los funcionarios públicos que tienen la tarea de servir a la ciudadanía.
+II.- Incentivar y mejorar la transparencia, calidad, efectividad y servicio en la institución gubernamental.
 
-III.- Mejorar la función pública de las diferentes áreas de la administración pública municipal.
+III.- Fomentar la conducta ética de los servidores públicos que tienen la tarea de atender a la ciudadanía.
 
-IV.- Establecer las bases, principios y valores y lineamientos de carácter ético y profesional en el ejercicio de la función pública, así como en el desempeño de cada uno de los servidores públicos del Municipio de Saltillo, sin perjuicio de las demás normas regulan (sic) el desempeño de sus labores.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 4.
 
-Por la propia naturaleza del presente Código, las disposiciones contenidas en el mismo no son de ninguna forma complementarias o sustitutas de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila, toda vez que constituye un conjunto de lineamientos, principios y valores a seguir en el ejercicio y desempeño de todos los servidores públicos del Municipio de Saltillo.
+Para efectos del presente Código, se entenderá por:
+
+R. Ayuntamiento: Órgano creado por la ley que se elige por representación popular. Es el encargado del gobierno y la administración del Municipio, lo integran Alcalde, Regidores y Síndicos.
+
+Servidor Público: Persona física que desempeña un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal.
+
+Ciudadano: Persona que tiene derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 5.
 
-El ejercicio de la función pública exige del servidor público legalidad, honradez, lealtad, imparcialidad y eficiencia en sus actos públicos, conducir su vida privada con probidad. En consecuencia, deberán sujetar sus decisiones y conducta acorde a lo pautado en el presente Código de Ética y Valores para no incurrir en infracciones a las leyes y ser sujetos a las sanciones en ellas previstas, de conformidad a los procedimientos que en cada caso se establecen en las normas vigentes.
+Este Código constituye un conjunto de lineamientos, principios y valores a seguir en el desempeño de los servidores públicos del Municipio de Saltillo.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 6.
 
-En el Gobierno Municipal de Saltillo, los principios que rigen el ejercicio y desempeño de la función pública se sustentan en los siguientes valores: Legalidad, Honradez, Lealtad, Imparcialidad, Eficiencia, Responsabilidad, Transparencia, Rendición de Cuentas, Igualdad y No discriminación, Respeto a los Derechos Fundamentales, Profesionalización y Contexto Cívico, Cultural, Ecológico y Deportivo.
+El ejercicio de la función pública exige del servidor público además de lo estipulado en la Constitución Política de los Estados Unidos Mexicanos: legalidad, honradez, lealtad, imparcialidad y eficiencia en sus actos públicos y de conducir su vida privada con probidad.
 
-## TITULO II. DE LOS PRINCIPIOS EN LA FUNCIÓN PÚBLICA
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+## TÍTULO II. DE LOS PRINCIPIOS EN LA FUNCIÓN PÚBLICA
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 7.
 
-El servidor público respetará, promoverá y vigilará el estado de derecho, por ello realizará sus funciones, apegado a la estricta observancia de la ley bajo los principios de igualdad, publicidad, audiencia y legalidad. Por ello es su obligación conocer, cumplir y hacer cumplir las disposiciones jurídicas que norman la función que se le ha encomendado desarrollar.
+Los principios y valores que rigen el ejercicio y desempeño de la función pública en el R. Ayuntamiento de Saltillo, además de los establecidos en la Constitución Política de los Estados Unidos Mexicanos, son los siguientes:
 
-### CAPÍTULO I. DE LA LEGALIDAD
+a) Bien Común: Anteponer el bienestar de los ciudadanos a los intereses personales.
+
+b) Honestidad: Cumplir las obligaciones y responsabilidades con apego a la ley y a la ética.
+
+c) Transparencia y Rendición de Cuentas: Mantener a los ciudadanos informados clara y oportunamente sobre las acciones que realiza la administración pública municipal.
+
+d) Respeto e Igualdad: Dar un trato amable y sin distinción a los ciudadanos, respetando su dignidad y sus derechos humanos.
+
+e) Trabajo en Equipo: Participar con los compañeros de trabajo para lograr objetivos comunes en cada área de la administración municipal en beneficio de la ciudadanía, respetando la dignidad de las personas en la toma de decisiones, reconociendo la diversidad de ideas y opiniones.
+
+f) Mejora Continua: Conocer el alcance y trascendencia de las responsabilidades del cargo asignado para optimizar permanentemente los procesos y servicios, buscando la mejor forma de realizar el trabajo. Mantenerse actualizado y en constante capacitación para innovar con profesionalismo.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO I. DEL COMPROMISO CON LOS CIUDADANOS
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 8.
 
-El servidor público deberá abstenerse de cualquier acto u omisión que implique incumplimiento o inobservancia de cualquier disposición jurídica relacionada con el servicio público.
+Los servidores públicos deberán ofrecer a los ciudadanos un trato justo, cordial e igualitario, absteniéndose de efectuar cualquier acto, hecho o conducta que provoque distinción, exclusión, restricción o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política o cualquier otra que signifique un detrimento hacia la igualdad de las personas; cumpliendo y respetando los objetivos, deberes y responsabilidades de su cargo, así como lo establecido en los lineamientos de la cláusula anticorrupción del artículo 11 de este Código.
 
-### CAPÍTULO II. DE LA HONRADEZ
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO II. DE LAS RELACIONES INTERPERSONALES ENTRE EMPLEADOS
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 9.
 
-El servidor público debe administrar, aplicar y transparentar los recursos que tenga asignados para el desempeño de su empleo, cargo o comisión exclusivamente para los fines a que conforme a la ley sean destinados.
+Los servidores públicos trabajarán en armonía con todos los compañeros independientemente del nivel jerárquico, actuando de manera cordial con el fin de crear un ambiente de trabajo colaborativo, productivo y eficiente.
 
-### CAPÍTULO III. DE LA LEALTAD
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
-###### ARTÍCULO 10
+### CAPÍTULO III. DE LA LEGALIDAD
 
-El servidor público custodiará y cuidara la documentación e información a la que por razón de su función tenga acceso o conserve bajo su guarda, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebida de las mismas.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO IV. DE LA IMPARCIALIDAD
+###### ARTÍCULO 10.
+
+Es obligación de los servidores públicos conocer, cumplir y en su caso hacer cumplir las disposiciones jurídicas que norman la función que se le ha encomendado desarrollar y deberá abstenerse de cualquier acto u omisión que implique incumplimiento o inobservancia de cualquier disposición jurídica relacionada con el servicio público.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO IV. DEL COMPROMISO CON LOS PROVEEDORES
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 11.
 
-El servidor público utilizará la información reservada a que tenga acceso con motivo de su función, exclusivamente para el adecuado desempeño de su empleo, cargo o comisión y deberá abstenerse en todo momento de utilizar o disponer dicha información para otros fines distintos de los institucionales.
+Los servidores públicos deberán tener un trato institucional, respetuoso y profesional con proveedores y prestadores de servicios, basado en la honradez, equidad e imparcialidad. Los servidores públicos que por razón de su actividad intervengan en la administración, supervisión o ejecución de trabajos, deberán cumplir con los siguientes compromisos de la cláusula anticorrupción.
 
-### CAPÍTULO V. DE LA EFICIENCIA
+El proveedor durante la ejecución de un contrato, ni él, ni sus empleados ofrecerán, prometerán o darán por sí o por interpósita persona, dinero, objetos de valor o cualquier otra dádiva, a servidor público alguno, que puedan constituir un acto ilícito o incumplimiento sustancial del contrato.
+
+El Municipio y el proveedor durante la vigencia de un contrato, se comprometen a actuar con estricto apego a las siguientes reglas de conducta para combatir la extorsión y el soborno.
+
+El proveedor:
+
+1. Vigilar que los empleados que intervengan en la administración, supervisión o ejecución de los trabajos cumplan con los compromisos adquiridos.
+
+2. Actuar siempre con lealtad y mantener confidencialidad sobre la información que el Municipio le haya brindado para la ejecución de los trabajos.
+
+3. Desempeñar con honestidad las actividades que conforman la realización del proyecto.
+
+4. Actuar con integridad profesional cuidando que no se perjudiquen intereses del Municipio, la sociedad o la nación.
+
+5. Rechazar por sí mismo o a través de interpósita persona, incluyendo a sus empleados o representantes, de ofrecer, prometer, dar o aceptar una ganancia indebida para o por los servidores públicos del Municipio, con el fin de obtener o conservar un negocio u otra ventaja ilícita.
+
+6. Denunciar ante las autoridades correspondientes los hechos que le consten y que pudiesen ser constitutivos de responsabilidades administrativas o penales de los servidores públicos.
+
+7. Omitir actitudes y realización de actos que puedan dañar la reputación de las instituciones gubernamentales o de terceros.
+
+El Municipio:
+
+Es obligación de los servidores públicos que por razón de su actividad intervengan en la administración, supervisión o ejecución de los trabajos, cumplir con los compromisos adquiridos y difundirlos entre su personal, así como a terceros que trabajen para el Municipio y que por razones de sus actividades intervengan durante la administración, supervisión o ejecución de los trabajos.
+
+1. Desarrollar sus actividades en la administración, supervisión o ejecución de los trabajos conforme a este Código.
+
+2. Evitar por sí mismo o por medio de sus servidores públicos, arreglos compensatorios o contribuciones destinadas a favorecer indebidamente a un proveedor.
+
+3. Rechazar por sí mismo o por medio de sus servidores públicos, cualquier tipo de compensación que pudiera predisponerle a favorecer a un proveedor u otorgarle ventajas ilícitas.
+
+4. Actuar con honestidad y transparencia durante la administración, supervisión o ejecución de los trabajos.
+
+5. Llevar a cabo sus actividades con integridad.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO V. DEL COMPROMISO CON OTRAS INSTITUCIONES GUBERNAMENTALES
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 12.
 
-El servidor público se abstendrá, de solicitar, aceptar, recibir u otorgar por sí o por interpósita persona, dinero, objetos, ventajas, favores u otras dádivas a cambio de la realización u omisión de cualquier acto, procedimiento o trámite que se encuentre directamente vinculado, regulado o supervisado por el servidor público de que se trate.
+Los servidores públicos deberán establecer y mantener buenas relaciones con todas las instituciones de gobierno, basadas en los valores y principios establecidos en el presente código, respetando los intereses de la ciudadanía.
 
-### CAPÍTULO VI. DE LA RESPONSABILIDAD
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VI. TRABAJO INSTITUCIONAL
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 13.
 
-El servidor público se responsabilizará de usar, cuidar y conservar los insumos, instrumentos, útiles, equipo de tecnología, locales y oficinas que se le proporcionen única y exclusivamente para el desempeño de su trabajo, evitando cualquier acto que provoque en la función que se le ha encomendado desarrollar, destrucción o inutilización.
-
-###### ARTÍCULO 14.
-
-El servidor público deberá, en el desempeño continuo del servicio público asignado, a la consecución del interés general, la satisfacción de las necesidades sociales, el bienestar y el progreso de la población saltillense.
-
-### CAPÍTULO VII. DE LA TRANSPARENCIA
-
-###### ARTÍCULO 22.
-
-La entidad municipal garantizará de conformidad con la legislación aplicable, el derecho de todas las personas a investigar, conocer, recibir, utilizar y difundir la información pública que se derive del ejercicio de sus funciones o del servicio público que presta.
-
-###### ARTÍCULO 23.
-
-La entidad municipal observará los mecanismos y las disposiciones legales aplicables a efecto de garantizar la protección de los ciudadanos respecto del derecho a la intimidad, así como de la información reservada y confidencial.
-
-###### ARTÍCULO 15.
-
-El servidor público deberá actuar de tal modo que el servicio público que realice sea eficiente y transparente y se conducirá en todo momento con respeto, lealtad y probidad respecto a la comunidad saltillense, a la instancia municipal a que pertenezca y hacia sus superiores, compañeros y subordinados.
-
-### CAPÍTULO VIII. DE LA RENDICIÓN DE CUENTAS
-
-###### ARTÍCULO 24.
-
-Los servidores públicos se comprometen a formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y otras normas que determinen el manejo de recursos económicos públicos.
-
-###### ARTÍCULO 25.
-
-Todo servidor público deberá atender con diligencia las instrucciones, requerimientos o resoluciones que reciba del órgano municipal de control correspondiente.
-
-### CAPÍTULO IX. DE LA IGUALDAD Y NO DISCRIMINACIÓN
-
-###### ARTÍCULO 26.
-
-El servidor público deberá observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia y dignidad a las personas con las que con motivo de sus funciones, deban interactuar, procurando la igualdad de oportunidades y de trato, evitando la discriminación y segregación de las personas.
-
-###### ARTÍCULO 27.
-
-El servidor público se abstendrá de efectuar cualquier acto, hecho o conducta que provoque distinción, exclusión, restricción o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política o cualquier otra que signifique un detrimento hacia la igualdad de las personas.
-
-### CAPÍTULO X. DEL RESPETO A LOS DERECHOS FUNDAMENTALES
-
-###### ARTÍCULO 28.
-
-El servidor público se comprometerá a promover, garantizar y respetar los derechos humanos y libertades fundamentales consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que México sea parte, en las leyes federales del país, en la Constitución Política del Estado de Coahuila de Zaragoza y en las leyes estatales.
-
-### CAPÍTULO XI. DE LA PROFESIONALIZACIÓN
-
-###### ARTÍCULO 29.
-
-El servidor público a efecto de actualizarse en los sistemas de operación así como de los instrumentos técnicos y mecánicos para la mejora continua en la prestación y calidad de los servicios y programas municipales, participará en el Programa de Servicio Profesional de Carrera procurando implementar verdaderos procesos de optimización de los recursos humanos y materiales en el desempeño de las funciones encomendadas.
-
-### CAPÍTULO XII. DEL CONTEXTO CIVICO, CULTURAL, ECOLÓGICO Y DEPORTIVO
-
-###### ARTÍCULO 30.
-
-El servidor público desarrollará actividades cívicas y asistirá a las ceremonias conmemorativas de fechas patrióticas cuando en el ejercicio o con motivo de sus funciones sea llamado para ello.
-
-###### ARTÍCULO 31.
-
-El servidor público podrá proponer, desarrollar y participar en actividades deportivas, recreativas y culturales que promuevan la unión familiar, el desarrollo personal, la paz social, el esparcimiento y la convivencia de la comunidad.
-
-###### ARTÍCULO 32.
-
-El servidor público deberá promover y difundir el cuidado del medio ambiente y equilibrio ecológico.
-
-###### ARTÍCULO 16.
-
-Todo servidor público deberá comunicar inmediatamente a sus superiores cualquier acto contrario a las disposiciones de este Código.
-
-## TITULO II (SIC). DISPOSICIONES FINALES
-
-###### ARTÍCULO 33.
-
-El R. Ayuntamiento de Saltillo convencido de la prioridad del talento humano, ha puesto todo su empeño en recuperar en cada uno de los servidores públicos los principios y valores éticos enunciados en el presente Código y en ese sentido espera que los servidores públicos de la administración municipal asuman el reto de participar activamente en la construcción de una mejor administración pública, distinguida por ser justa, honesta y eficiente siempre al servicio de la comunidad.
-
-###### ARTÍCULO 34.
-
-El presente Código de Ética y Valores para los Servidores Públicos del Municipio de Saltillo permanecerá publicado en la Página Web del R. Ayuntamiento de Saltillo.
-
-###### ARTÍCULO 17.
+Los servidores públicos deberán actuar de acuerdo a la normatividad aplicable bajo los principios de lealtad, calidad, honestidad, transparencia y rendición de cuentas.
 
 El servidor público en el desempeño del servicio municipal encomendado deberá actuar con responsabilidad e imparcialidad excusándose de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 14.
+
+El servidor público, en ejercicio de sus funciones o con motivo de ellas, para celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, respetará el derecho de todas las personas a participar en los mismos, rechazando cualquier cuestión que privilegie o beneficie a persona física o entidad moral determinada.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VII. COMUNICACIÓN
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 15.
+
+Los servidores públicos propiciarán el flujo de información en forma clara y oportuna a fin de facilitar la toma de decisiones para mejorar la eficiencia en de (sic) la administración pública municipal.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VIII. PROTECCIÓN DE INFORMACIÓN Y DATOS PERSONALES
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 16.
+
+Los servidores públicos deberán garantizar el derecho de cualquier persona al acceso a la información pública, así mismo la obligación de proteger la información clasificada como reservada o confidencial y garantizar la protección de los datos personales a los cuales tenga acceso con motivo del desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+## TÍTULO III. DEL CONTEXTO CÍVICO, CULTURAL, ECOLÓGICO Y DEPORTIVO
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 17.
+
+El servidor público desarrollará actividades cívicas y asistirá a las ceremonias conmemorativas de fechas patrióticas cuando en el ejercicio o con motivo de sus funciones sea llamado para ello. Además podrá proponer, desarrollar o participar en actividades deportivas, recreativas y culturales que promuevan la unión familiar, el desarrollo personal, la paz social, el esparcimiento y la convivencia de la comunidad.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 18.
 
-El servidor público, en ejercicio de sus funciones o con motivo de ellas, observará los requisitos, trámites y procedimientos legalmente establecidos para celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, respetando en igualdad de circunstancias el derecho de todas las personas a participar en los mismos, rechazando cualquier cuestión que privilegie o beneficie a persona física o entidad moral determinada.
+El servidor público deberá promover y difundir el cuidado del medio ambiente y equilibrio ecológico.
 
-## TITULO III
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+## TÍTULO IV. DE LA RESPONSABILIDAD
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-El servidor público asumirá el ejercicio de sus funciones con la máxima diligencia, absteniéndose de cualquier acto u omisión que cause la suspensión o deficiencia del servicio público encomendado.
+Los servidores públicos que con su conducta infrinjan lo dispuesto por este código, incurrirán en responsabilidad administrativa y serán sujetos de una sanción administrativa que la autoridad competente impondrá de acuerdo a lo establecido por el artículo 56 de la Ley de Responsabilidades de los Servidores Públicos, Estatales y Municipales del Estado de Coahuila de Zaragoza, esto sin perjuicio de las medidas correctivas que imponga la Contraloría Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+## TÍTULO V. DISPOSICIONES FINALES
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 20.
 
-El servidor público se compromete a evitar todo planteamiento dilatorio o formalidad no esencial que obstaculicen la prestación y la administración de los servicios públicos municipales, procurando el menor empleo posible de tiempos, actividades y recursos materiales en la ejecución de las funciones que desempeñe.
+El R. Ayuntamiento de Saltillo convencido de la prioridad del talento humano, fomenta los principios y valores éticos enunciados en el presente Código y en ese sentido espera que los servidores públicos participen activamente en la construcción de una administración municipal justa, honesta y eficiente al servicio de la comunidad.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 21.
 
-Los servidores públicos que con su conducta infrinjan lo dispuesto por este Código, incurrirán en responsabilidad administrativa y serán sujetos de una sanción administrativa que la autoridad competente impondrá de acuerdo a lo establecido por el artículo 56 de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, esto sin perjuicio de las medidas correctivas que imponga la Contraloría Municipal.
+El presente Código permanecerá publicado en el portal de internet del R. Ayuntamiento de Saltillo
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2015)</small>
+
+## TÍTULO VI
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Código de Ética y Valores para los Servidores Públicos del Municipio de Saltillo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, independientemente que se haga lo propio en la Gaceta Municipal.
+PRIMERO.- El presente Código de Ética y Valores para los Servidores Públicos del R. Ayuntamiento de Saltillo, Coahuila de Zaragoza, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, independientemente que se haga lo propio en la Gaceta Municipal.
 
-SEGUNDO.- Los servidores públicos del Municipio de Saltillo, Coahuila, deberán observar, comunicar y dar a conocer el presente Código y fomentar e incentivar su cumplimiento al personal a su cargo.
-
-TERCERO.- Se derogan todas las disposiciones que contravengan al presente Código de Ética y Valores para los Servidores Públicos del Municipio de Saltillo.
+SEGUNDO.- Quedan abrogadas todas aquellas disposiciones que se opongan al presente Código.
 
 Por las razones antes mencionadas y fundamentadas es de resolverse y se resuelve:
 
