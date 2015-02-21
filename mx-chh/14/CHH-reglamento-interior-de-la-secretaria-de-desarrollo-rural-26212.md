@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-desarrollo-rural-26212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-31"
-last_updated: "2006-07-15"
+last_updated: "2015-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de agosto de 2002, y republicado el miércoles 11 de septiembre de 2002.
 
@@ -137,17 +137,19 @@ XI. Las demás que fijen expresamente las Leyes y sus Reglamentos.
 
 Para el estudio, planeación y despacho de los asuntos que son competencia de la Secretaría, tendrá la siguiente estructura orgánica.
 
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2015)</small>
+
 I. La Secretaría comprende a su Titular, del cual dependen las siguientes Direcciones, Departamentos y Asesoría Técnica de manera directa:
 
-a) Dirección de Fomento Agropecuario.
+a) Dirección General de Administración.
 
-b) Dirección de Planeación Rural.
+b) Dirección de Fomento Agropecuario.
 
-c) Dirección de Desarrollo Forestal.
+c) Dirección de Planeación Rural.
 
-d) Departamento Jurídico.
+d) Dirección de Desarrollo Forestal.
 
-e) Departamento de Servicios Administrativos.
+e) Departamento Jurídico.
 
 f) Departamento de Infraestructura Rural.
 
@@ -181,21 +183,23 @@ b) Departamento de Promoción de Productos Forestales.
 
 ### CAPÍTULO PRIMERO. DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 8.
 
 La Secretaría de Desarrollo Rural ejercitará las funciones que las leyes le atribuyan, las cuales serán realizadas por:
 
 I. El Secretario.
 
-II. El Director de Fomento Agropecuario.
+II. El Director General de Administración
 
-III. El Director de Planeación Rural.
+III. El Director de Fomento Agropecuario.
 
-IV. El Director de Desarrollo Forestal.
+IV. El Director de Planeación Rural.
 
-V. El Jefe del Departamento Jurídico.
+V. El Director de Desarrollo Forestal.
 
-VI. El Jefe del Departamento de Servicios Administrativos.
+VI. El Jefe del Departamento Jurídico.
 
 VII. El Jefe del Departamento de Infraestructura Rural.
 
@@ -238,6 +242,68 @@ XIV. Representar al Gobierno en los Comités o Subcomités que sean de competenc
 XV. Vigilar la correcta aplicación e interpretación de este reglamento.
 
 XVI. Las demás que fijen expresamente las leyes y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 9 Bis.
+
+Compete a la Dirección General de Administración:
+
+l. Ejercer las funciones que competan a su Dirección General y, en su caso, someter a la consideración del Secretario la resolución de los asuntos de su competencia;
+
+II. Desempeñar las comisiones y representaciones que el Secretario le encomiende e informarle sobre el desempeño de las mismas;
+
+III. Planear, dirigir y supervisar el desempeño de las funciones de las Direcciones, Departamentos, unidades administrativas, personal técnico, operativo y administrativo de la Secretaría;
+
+IV. Planear, coordinar, vigilar y evaluar las operaciones de las unidades administrativas de la Secretaría;
+
+V. Supervisar la correcta aplicación de los lineamientos y criterios respecto a la administración de los recursos humanos, materiales y financieros de la Secretaría;
+
+VI. Establecer la coordinación para el ejercicio de sus funciones, con las demás unidades administrativas de la Secretaría, así como, en su caso, del Gobierno del Estado, la Federación y los municipios;
+
+VII. Participar, en el ámbito de su competencia, en la formulación y ejecución de los programas a cargo de la Secretaría que se deriven del Plan Estatal de Desarrollo;
+
+VIII. Someter a la consideración del Secretario la elaboración de convenios, contratos y demás instrumentos jurídicos;
+
+IX. Solicitar a los Directores, Jefes de Departamento y demás personal a su cargo, los informes relacionados con el ejercicio de sus funciones, así como fijar la periodicidad de los mismos;
+
+X. Proporcionar la información y la cooperación técnica especializada que soliciten las demás unidades administrativas de la Secretaría, otras dependencias y entidades del Gobierno del Estado o por personas y organismos externos, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás leyes aplicables, así como con las políticas establecidas por el Secretario;
+
+XI. Vigilar y supervisar que los servidores públicos de las unidades administrativas a su cargo, desempeñen eficaz y eficientemente sus funciones y, en su caso, levantar actas administrativas por incumplimiento a sus obligaciones y responsabilidades de conformidad con las disposiciones legales aplicables;
+
+XII. Certificar o expedir constancias de los documentos y archivos que obren en su poder con motivo de sus atribuciones;
+
+XIII. Proporcionar la información o datos a las unidades de información en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, respecto de los asuntos de su competencia;
+
+XIV. Establecer, promover y aplicar las políticas, lineamientos, normas, y procedimientos para la organización y funcionamiento relativo a la administración de los recursos humanos, materiales, financieros y tecnologías de la información de la Secretaría;
+
+XV. Administrar los recursos humanos, materiales y financieros así como promover el desarrollo organizacional y tecnológico de la Secretaría;
+
+XVI. Realizar ante la Secretaría de Hacienda los trámites inherentes a la contratación, inducción y capacitación de los servidores públicos de la Secretaría;
+
+XVII. Realizar ante la Secretaría de Hacienda los trámites de nombramiento, movimientos, remuneración, promoción, cambio de adscripción, licencia, renuncia y baja de los servidores públicos de la Secretaría;
+
+XVIII. Integrar el anteproyecto de presupuesto de egresos de la Secretaría en coordinación con las demás unidades administrativas;
+
+XIX. Informar a las unidades administrativas de la Secretaría sobre sus presupuestos aprobados y las disposiciones normativas relativas al ejercicio presupuestal, así como llevar el control y seguimiento del mismo;
+
+XX. Gestionar ante la Secretaría de Hacienda las solicitudes de arrendamiento y adquisición de bienes y servicios, así como la autorización presupuestal correspondiente;
+
+XXI. Desarrollar y aplicar el sistema de administración de los bienes, adquisiciones, arrendamientos y servicios, sujetándose a la normatividad aplicable y lineamientos que emita el Secretario;
+
+XXII. Suscribir los contratos y convenios relativos al arrendamiento y adquisición de bienes y servicios de la Secretaría;
+
+XXIII. Dar seguimiento a los esquemas de control, mantenimiento y cuidado de los bienes muebles e inmuebles a cargo de la Secretaría, conforme a los criterios y lineamientos establecidos por la Secretaría de Hacienda;
+
+XXIV. Planear, desarrollar y mantener la infraestructura de tecnología de información y comunicación, así como una plataforma de desarrollo de sistemas que permita optimizar las funciones de la Secretaría, conforme a los criterios y lineamientos emitidos por la Secretaría de la Contraloría;
+
+XXV. Desarrollar y administrar el equipo central de cómputo, la red interna de datos, telefonía y los demás servicios informáticos de la Secretaría;
+
+XXVI. Difundir la normatividad y coordinar la elaboración de manuales de organización, de procedimientos, de trámites y demás instrumentos administrativos que desarrollan la estructura y el funcionamiento de las unidades administrativas de la Secretaría;
+
+XXVII. Planear y diseñar las modificaciones a las estructuras de organización y sistemas de información y operación, así como someterlas a consideración de las Secretarías de Hacienda y de la Contraloría, previa autorización del Secretario; y
+
+XXVIII. Las demás que le confiera las disposiciones legales aplicables, el presente Reglamento o le encomiende el Secretario.
 
 ###### ARTÍCULO 10.
 
@@ -449,33 +515,7 @@ XXIV. Las demás que le asigne el Secretario.
 
 ###### ARTÍCULO 18.
 
-Compete al Departamento de Servicios Administrativos:
-
-I. Aplicar las normas, políticas y criterios, en materia de administración de recursos humanos, financieros y materiales de la Secretaría, establecidos por la Secretaría de Finanzas.
-
-II. Formular en coordinación con los titulares de las Direcciones y Departamentos de la Secretaría, los Programas Operativos Anuales de la Secretaría de Finanzas y Administración.
-
-III. Recibir y tramitar la correspondencia de las diversas áreas de la Secretaría.
-
-IV. Efectuar los trámites relativos a las altas, bajas y cambios de adscripción del personal al servicio de la Secretaría y en general gestionar ante el Departamento de Personal de la Secretaría de Finanzas y Administración, los nombramientos, contrataciones, licencias, incrementos, promociones y demás trámites relativos al personal de la Secretaría.
-
-V. Organizar coordinadamente con las demás áreas de la Secretaría, cursos de capacitación técnica para el personal.
-
-VI. Llevar el control de inventario de los bienes propiedad del Gobierno del Estado, asignados a la Secretaría.
-
-VII. Efectuar las cotizaciones y compras de equipo, artículos de oficina, papelería y todo el material necesario para el desarrollo de las funciones de la Secretaría y en general administrar las cuentas desconcentradas por la Secretaría de Finanzas y Administración para la adquisición de bienes, servicios y suministros.
-
-VIII. Mantener la coordinación necesaria en materia de mantenimiento de instalaciones, mobiliarios y equipo, con la Secretaría de Finanzas y Administración.
-
-IX. Llevar los registros administrativos de las operaciones de la Secretaría.
-
-X. Ejecutar las acciones de tipo administrativo contenidas en los convenios y contratos, en las que se obligue la Secretaría.
-
-XI. Efectuar las acciones de tipo administrativo que le corresponden en cuanto al manejo de recursos convenidos con la Federación que tenga participación la Secretaría.
-
-XII. En coordinación con la Secretaría de Finanzas y Administración, aplicar las sanciones administrativas y económicas a que se haga acreedor el personal, de conformidad con las disposiciones legales y reglamentarias que regulan las relaciones entre el Ejecutivo y sus trabajadores, sin perjuicio de las atribuciones reservadas a otras autoridades.
-
-XIII. Las demás que le fije expresamente el Secretario.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 19.
 
@@ -601,7 +641,7 @@ VI. Las demás que le fije el Director de Fomento Agropecuario.
 
 Compete al Departamento de Coordinación de Residentes las siguientes funciones:
 
-I. Representar a la Secretaría en todos los municipios del Estado, asistiendo a los eventos en los que tenga ingerencia la Secretaría, atendiendo las situaciones que se puedan presentar y promoviendo los programas propios de esta Dependencia.
+I. Representar a la Secretaría en todos los municipios del Estado, asistiendo a los eventos en los que tenga ingerencia (sic) la Secretaría, atendiendo las situaciones que se puedan presentar y promoviendo los programas propios de esta Dependencia.
 
 II. La recepción, análisis, validación y trámite de solicitudes de apoyo presentadas por productores, representantes de estos u organizaciones campesinas, para la realización de obras o proyectos productivos.
 
@@ -727,9 +767,11 @@ V. Las demás que le fije el Director de Desarrollo Forestal.
 
 ### CAPÍTULO ÚNICO. DE LA SUPLENCIA TEMPORAL Y LICENCIAS DEL SECRETARIO Y DE LOS TITULARES DE LAS UNIDADES ORGÁNICAS SUBALTERNAS
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 31.
 
-Las ausencias temporales del Secretario serán suplidas por el Director de Fomento Agropecuario o por el funcionario que aquel designe.
+Las ausencias temporales del Secretario serán suplidas por el Director General de Administración o por el funcionario que aquel designe.
 
 ###### ARTÍCULO 32.
 
@@ -743,7 +785,7 @@ III. La ausencia temporal del Director de Desarrollo Forestal será suplida por 
 
 IV. La ausencia temporal del Jefe del Departamento Jurídico será suplida por el Supervisor Administrativo del propio Departamento.
 
-V. La ausencia temporal del Jefe del Departamento de Servicios Administrativos lo suplirá el Supervisor Administrativo de Recursos Financieros ó en su defecto quien designe aquel.
+V. (DEROGADA, P.O. 21 DE FEBRERO DE 2015)
 
 VI. La ausencia temporal del Jefe del Departamento de Infraestructura Rural lo suplirá el Supervisor Administrativo de Administración.
 
@@ -779,7 +821,7 @@ C.P. JOSÉ LUIS GARCÍA MAYAGOITIA
 
 SECRETARIO DE DESARROLLO RURAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE JULIO DE 2006.
 
@@ -790,3 +832,9 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Estado y cúmplase.
+
+P.O. 21 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
