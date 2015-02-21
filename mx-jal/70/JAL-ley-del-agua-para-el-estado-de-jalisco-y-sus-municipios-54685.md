@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2013-11-22"
+last_updated: "2015-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 25296/LX/15, SE ABROGA EL DIVERSO 21915/LVIII/07 PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2007.</small>
+
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2015.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -379,7 +381,7 @@ I. Los Ayuntamientos;
 
 II. La Comisión;
 
-III. Los Organismos Operadores de los servicios de agua y saneamiento, y (sic)
+III. Los Organismos Operadores de los servicios de agua y saneamiento, y
 
 (NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -433,7 +435,7 @@ I. La integración y actualización del inventario de:
 
 a) Las aguas nacionales asignadas o concesionadas en el Estado por autoridad competente,
 
-b) Las aguas que formen parte de reservas constituidas conforme a las leyes en la materia, y (sic)
+b) Las aguas que formen parte de reservas constituidas conforme a las leyes en la materia, y
 
 c) Las aguas de jurisdicción estatal y sus bienes públicos inherentes,
 
@@ -755,13 +757,15 @@ I. Asentar en el libro de actas todos los acuerdos que se tomen en las sesiones 
 
 II. Tramitar los asuntos que le sean encomendados por el Presidente de la Junta o por ésta.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 25296/LX/15, SE ABROGA EL DIVERSO 21915/LVIII/07 PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2007.</small>
+
 ###### Artículo 35.
 
 Son facultades del Director General:
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2015)</small>
 
-I. Representar a la Comisión como apoderado general para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las que requieran cláusula especial de acuerdo con la ley, sin perjuicio de que la Junta de Gobierno otorgue otros poderes a diversas personas. Para ejercer actos de dominio, requerirá autorización expresa de la Junta de Gobierno, a la legislación aplicable; también podrá delegar la representación de apoderado con todas las facultades referidas o limitadas, según sea necesario;
+I. Representar a la Comisión como apoderado general para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las que requieran cláusula especial de acuerdo con la Ley, sin perjuicio de que la Junta de Gobierno otorgue otros poderes a diversas personas. Para ejercer actos de dominio, requerirá la autorización expresa de la Junta de Gobierno, a la legislación aplicable; también podrá delegar la representación de apoderado con todas las facultades referidas o limitadas, según sea necesario;
 
 II. Ejecutar los acuerdos de la Junta de Gobierno;
 
@@ -791,21 +795,19 @@ IX. Someter a la aprobación de la Junta de Gobierno los proyectos de normas té
 
 X. Supervisar los programas aprobados por la Junta de Gobierno y responsabilizarse de su ejecución, así como del ejercicio presupuestal;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2007)</small>
+XI. Nombrar y remover al personal de la Comisión; y
 
-XI. Nombrar y remover al personal de la Comisión;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE FEBRERO DE 2015)</small>
 
 XII. Certificar documentos que existan en los archivos del organismo público descentralizado;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2015)</small>
 
-XIII. Designar, en ausencias temporales al personal subalterno que determine, a efecto de que le sustituya en funciones, y
+XIII. Designar, en ausencias temporales al personal subalterno que determine, a efecto de que le sustituya en funciones; y
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2015)</small>
 
-XIV. Las demás que le señalen la Junta de Gobierno, esta ley y su reglamento y las demás disposiciones legales aplicables.
+XIV. Las demás que le señale la Junta de Gobierno, esta Ley y su Reglamento y las demás disposiciones legales aplicables.
 
 ###### Artículo 36.
 
@@ -871,7 +873,7 @@ En el cumplimiento de sus funciones la Secretaría de Desarrollo Rural deberá:
 
 I. Vigilar el cumplimiento de las obligaciones de las asociaciones de usuarios a que se refiere el artículo anterior, con sujeción a las disposiciones legales aplicables en materia de agua;
 
-II. Integrar el padrón de usuarios precisando los tipos y derechos al uso del agua, incorporándolo al Sistema Estatal de Información del Agua; y (sic)
+II. Integrar el padrón de usuarios precisando los tipos y derechos al uso del agua, incorporándolo al Sistema Estatal de Información del Agua; y
 
 III. Asistir técnicamente a las unidades, distritos de riego, Consejos Locales y Consejo Estatal de Usuarios del agua, así como asesorar a los usuarios de los mismos en la entidad, a efecto de propiciar un aprovechamiento racional del agua.
 
@@ -1503,7 +1505,7 @@ IV. Programa de inversiones, de corto, mediano y largo plazo;
 
 V. Asignaciones de agua a favor del municipio por parte de la autoridad competente en términos de Ley;
 
-VI. Fuentes de abastecimiento de agua, sus condiciones de uso, calidad, y desarrollo potencial de las mismas; y (sic)
+VI. Fuentes de abastecimiento de agua, sus condiciones de uso, calidad, y desarrollo potencial de las mismas; y
 
 VII. Condiciones de la distribución y colecta de aguas en cuanto a. volumen y calidad.
 
@@ -1511,13 +1513,11 @@ VIII. Así como cualquier otra información que se estime pertinente para su int
 
 ### CAPÍTULO II. De los derechos y obligaciones de los usuarios de servicios públicos
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 22 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR DEL ARTÍCULO CONSTABA DE TRES PÁRRAFOS.</small>
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 88.
 
-Todos los usuarios de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales o quien sea beneficiario de los mismos, serán sujetos obligados al pago de cuotas y tarifas que como contraprestación establezcan las Comisiones Tarifarios (sic) derivados de la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, conforme a lo establecido en la Ley del Agua para el Estado de Jalisco y sus municipios.
+Todos los usuarios de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales o quien sea beneficiario de los mismos, serán sujetos obligados al pago de cuotas y tarifas que como contraprestación establezcan las Comisiones Tarifarios derivados de la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, conforme a lo establecido en la Ley del Agua para el Estado de Jalisco y sus municipios.
 
 Los usuarios tendrán la obligación de cuidar que el agua se utilice con eficiencia a la vez que deberán evitar contaminarla fuera de los parámetros que se establezcan en las leyes, reglamentos, normas oficiales mexicanas, normas mexicanas, y normas oficiales estatales.
 
@@ -1535,7 +1535,7 @@ II. Recibir los avisos de cobro y reclamar los errores que contengan tales aviso
 
 III. Interponer recursos legales en contra de actos o resoluciones de las autoridades competentes en materia de agua potable, alcantarillado y saneamiento de conformidad con lo que señala esta ley y su reglamento;
 
-IV. Recibir información sobre los servicios públicos de agua, incluyendo los cambios a las cuotas y tarifas a efecto de hacer valer sus derechos como usuario y ser informados con anticipación de los cortes de servicios públicos de agua a que se refiere el artículo anterior; y (sic)
+IV. Recibir información sobre los servicios públicos de agua, incluyendo los cambios a las cuotas y tarifas a efecto de hacer valer sus derechos como usuario y ser informados con anticipación de los cortes de servicios públicos de agua a que se refiere el artículo anterior; y
 
 V. Denunciar ante la autoridad competente cualquier acción u omisión relacionada con los servicios públicos de agua potable, alcantarillado y saneamiento, cometida por terceras personas que pudieran afectar sus derechos.
 
@@ -1929,6 +1929,8 @@ Para la realización del procedimiento sancionador, la determinación y ejecuci�
 
 Las resoluciones o actos administrativos, así como las sanciones por infracciones a la Ley y su Reglamento podrán ser impugnados por los particulares a través de los recursos legales y procedimientos previstos en las leyes de la materia, así como en Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 25296/LX/15, SE ABROGA EL DIVERSO 21915/LVIII/07 PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2007.</small>
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial El Estado de Jalisco.
@@ -1943,9 +1945,9 @@ Asimismo, la Comisión podrá apoyar a los ayuntamientos para definir las sus (s
 
 CUARTO. Dentro de los doce meses posteriores al día en que entre en vigor esta Ley, tanto los Ayuntamientos como el Poder Ejecutivo del Estado deberán publicar las disposiciones reglamentarias necesarias para la eficaz aplicación y cumplimiento de lo previsto por esta Ley.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
 
-QUINTO. Todos los bienes y recursos materiales, financieros, humanos, tecnológicos y de metodología, obligaciones y derechos de la Comisión Estatal del Agua y Saneamiento (CEAS), pasarán a formar parte de la Comisión Estatal del Agua de Jalisco (CEA).
+QUINTO. Todos los bienes y recursos materiales, financieros, humanos, tecnológicos y de metodología de la Comisión Estatal de Agua y Saneamiento (CEAS), pasarán a formar parte de la Comisión Estatal del Agua de Jalisco (CEA).
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1991,7 +1993,7 @@ P.O. 9 DE OCTUBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-P.O.16 DE MAYO DE 2009.
+P.O. 16 DE MAYO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -2062,3 +2064,13 @@ Tercero. En términos de lo dispuesto por el artículo 98 de la Ley del Gobierno
 Cuarto. En términos de lo dispuesto por las nuevas disposiciones contenidas en el presente decreto, a fin de abatir los rezagos en cobertura de los servicios de agua potable, alcantarillado y saneamiento, garantizar el acceso universal a los mismos, así como eficientar los recursos en la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, se faculta al Ejecutivo del Estado para que por conducto de la Comisión Estatal del Agua, celebre con los Municipios del Estado de Jalisco que no se encuentren incorporados al Sistema Intermunicipal de los Servicios de Agua y Alcantarillado SIAPA, o al Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado, SEAPAL Vallarta, los convenios para que éste se haga cargo de la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, debiendo cubrir los requisitos establecidos para tales efectos en la Ley del Agua para el Estado de Jalisco y sus Municipios y demás disposiciones legales aplicables.
 
 Quinto. Para efectos del presente decreto, las propuestas presentadas por los municipios al Congreso del Estado se les reconoce el carácter de iniciativa, en materia de agua.
+
+P.O. 21 DE FEBRERO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 21 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 25297/LX/15, POR EL QUE SE REFORMAN LOS ARTÍCULOS 35 FRACCIONES I Y II, Y 88; Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 35, Y UN ARTÍCULO QUINTO TRANSITORIO A LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
