@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-tribunal-de-justicia-electoral-del-7564
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-12"
-last_updated: "2010-06-12"
+last_updated: "2015-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 12 de junio de 2010.
 
@@ -765,7 +767,7 @@ VIII.- Se contarán los votos para cada partido, coalición, candidatos no regis
 
 IX.- Se regresará la documentación al paquete electoral, se cerrará, sellará y firmará por las personas que intervienen en la diligencia;
 
-X.- En la diligencia, la intervención de representantes de partidos o coaliciones sólo tendrá relación con el contenido de los votos y a señalar, en forma breve y concisa, el motivo de su oposición: (sic)
+X.- En la diligencia, la intervención de representantes de partidos o coaliciones sólo tendrá relación con el contenido de los votos y a señalar, en forma breve y concisa, el motivo de su oposición:
 
 ###### ARTICULO 52.
 
@@ -901,7 +903,7 @@ g).- Observar respeto y subordinación hacia los superiores jerárquicos inmedia
 
 h).- Participar, en los términos en que sean convocados por el Presidente del Tribunal, en los programas y cursos de formación y desarrollo profesional necesarios para su capacitación o adiestramiento.
 
-i).- Las demás imponga (sic) la ley, este reglamento y disposiciones aplicables.
+i).- Las demás (sic) imponga la ley, este reglamento y disposiciones aplicables.
 
 ###### ARTICULO 67.
 
@@ -1020,3 +1022,11 @@ MAGISTRADO: JOSÉ GONZÁLEZ NÚÑEZ. Rúbrica
 MAGISTRADO: FELIPE GUARDADO MARTÍNEZ. Rúbrica
 
 MAGISTRADA (SIC): ÉDGAR LÓPEZ PÉREZ. Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2015.
+
+Artículo Primero. El presente reglamento entrará en vigor al días (sic) siguiente al de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Tribunal de Justicia Electoral, publicado en el Periódico Oficial, Órgano de Gobierno del Estado de fecha 12 de junio de 2010.
