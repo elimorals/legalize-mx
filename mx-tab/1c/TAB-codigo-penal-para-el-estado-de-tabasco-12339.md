@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2014-12-13"
+last_updated: "2015-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -3625,15 +3625,19 @@ VIII.- A quien realice la extracción de material pétreo en áreas de jurisdicc
 
 IX.- A pesar de haber sido sancionado en dos veces por la autoridad ecológica que legalmente conozca del asunto, persista en la misma conducta dañosa al ambiente;
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2015)</small>
 
-X.- Ilícitamente derribe, tale u ocasione la destrucción de un árbol; y,
+X.- Ilícitamente derribe, tale, arranque, corte, cercene, recorte excesivamente u ocasione la destrucción de uno o más árboles maderables, cualquiera que sea el régimen de tenencia, propiedad, o posesión de la tierra; y
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 XI.- Ilícitamente realice el cambio del uso del suelo en un área natural protegida, área de valor ambiental de competencia del Estado o área verde en suelo urbano, de conformidad con las disposiciones jurídicas aplicables.
 
 Tratándose de los delitos previstos en este Título, la multa o en su caso el trabajo a favor de la comunidad, deberán aplicarse a la protección o restauración del ambiente.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
+No se aplicará pena alguna respecto a lo dispuesto en la fracción X de este artículo, cuando se trate de leña o madera muerta, así como cuando el sujeto activo sea campesino o indígena y realice la actividad con fines de autoconsumo doméstico.
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
@@ -4606,3 +4610,9 @@ DECRETO NÚMERO 130, POR EL QUE SE REFORMAN LAS FRACCIONES IX, XIV Y XV Y SE DER
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2015.
+
+PRIMERO.- E l (sic) presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
