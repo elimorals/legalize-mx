@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-usos-de-agua-del-estado-de-tabasco-44954"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-21"
-last_updated: "2009-10-24"
+last_updated: "2015-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE USOS DE AGUA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 21 de mayo de 2005.
 
@@ -53,11 +53,11 @@ La presente Ley es de orden público e interés social y tiene por objeto promov
 
 Las disposiciones del presente ordenamiento, son aplicables a las aguas de jurisdicción estatal, así como aquellas que la federación haya transmitido al Estado, en administración, posesión o uso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 3.
 
-La facultad de interpretación, aplicación y vigilancia del cumplimiento de esta ley corresponde al Poder Ejecutivo, quien la ejercerá a través de la Secretaría de Recursos Naturales y Protección Ambiental del Estado, sin menoscabo de ejercerla directamente, cuando lo considere necesario, asimismo ejercerá, a través de dicha secretaría, las siguientes atribuciones:
+La facultad de interpretación, aplicación y vigilancia del cumplimiento de esta ley corresponde al Poder Ejecutivo, quien la ejercerá a través de la Secretaría de Energía, Recursos Naturales y Protección Ambiental del Estado, sin menoscabo de ejercerla directamente, cuando lo considere necesario, asimismo ejercerá, a través de dicha secretaría, las siguientes atribuciones:
 
 I. Establecer las políticas y lineamientos generales sobre los cuales se emitirá la normatividad encaminada a prevenir y controlar la contaminación de las aguas de jurisdicción estatal o las que el Estado tenga en administración, posesión, uso o asignación;
 
@@ -91,9 +91,9 @@ VI. Actividades productivas: Los procesos agropecuarios, industriales, agroindus
 
 VII. Comisión: Comisión Estatal de Agua y Saneamiento;
 
-VIII. Comunidad rural: Centro de población con menos de 2,500habitantes;
+VIII. Comunidad rural: Centro de población con menos de 2,500 habitantes;
 
-IX. Comunidad urbana: Centro de población con más de 2,500habitantes;
+IX. Comunidad urbana: Centro de población con más de 2,500 habitantes;
 
 X. Condiciones originales: El estado que tenía inicialmente el agua, antes de ser utilizada en la prestación de servicios u otros de cualesquiera índole;
 
@@ -135,7 +135,7 @@ XXVIII. Obras hidráulicas: La infraestructura construida para la explotación, 
 
 XXIX. Organismo Operador Municipal: Aquellos que realicen obras o acciones que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento dentro del territorio de un Municipio;
 
-XXX. Organismo Operador lntermunicipal: Aquellos que realicen obras o acciones, en dos o más municipios con un solo sistema, que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento;
+XXX. Organismo Operador Intermunicipal: Aquellos que realicen obras o acciones, en dos o más municipios con un solo sistema, que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento;
 
 XXXI. Organismo Operador Regional: Aquellos que realicen obras o acciones, en dos o más municipios con dos o más sistemas, que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento;
 
@@ -173,7 +173,7 @@ XLVII. Sistema de agua: Toda infraestructura destinada a la prestación de los s
 
 XLVIII. Tarifa. La tabla de valores unitarios que sirve de base para determinar los derechos que deben pagar los usuarios como contraprestación por determinado uso, rango de consumo o descarga, en función del tipo de usuario, zona socioeconómica o cualquier otro factor que apruebe la autoridad competente;
 
-XLIX. Toma: Es el punto de interconexión entre la Infraestructura o red secundaria para el abastecimiento de los servicios públicos y la infraestructura intradomiciliaria de cada predio;
+XLIX. Toma: Es el punto de interconexión entre la infraestructura o red secundaria para el abastecimiento de los servicios públicos y la infraestructura intradomiciliaria de cada predio;
 
 L. Uso agropecuario: El uso del agua para satisfacer las necesidades agrícolas y/o ganaderas en el Estado;
 
@@ -333,15 +333,25 @@ II. Vocales que serán:
 
 a) El Secretario de Salud;
 
-b) El Secretario de Administración y Finanzas;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
 
-c) El Secretario de Desarrollo Económico;
+b) El Secretario de Planeación y Finanzas;
 
-d) El Secretario de Recursos Naturales y Protección Ambiental;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
 
-e) El Secretario de Asentamientos y Obras Públicas; y
+c) El Secretario de Desarrollo Económico y Turismo;
 
-f) El Secretario de Planeación;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
+d) El Secretario de Energía, Recursos Naturales y Protección Ambiental;
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
+e) El Secretario de Ordenamiento Territorial y Obras Públicas; y
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
+f) El Secretario de Administración;
 
 III. Un Secretario del Consejo, quien será el Director General de la Comisión, que participará con voz pero sin voto.
 
@@ -442,6 +452,14 @@ XIX. Nombrar y remover a los servidores públicos de la Comisión;
 XX. Someter a la aprobación del Consejo de Administración el proyecto de reglamento interior del organismo; y
 
 XXI. Las demás que señalen expresamente esta Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
+Articulo 6 nonies. La Comisión contará con un órgano de control interno integrado por la figura de un Comisario; designado por el Consejo de Administración a propuesta del Titular de la Secretaría de Contraloría.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
+
+Artículo 6 decies. El Comisario tendrá entre sus funciones la vigilancia del ejercicio del presupuesto autorizado de la Comisión y practicará al efecto las auditorias que correspondan para el buen desempeño de sus funciones: así como observar las reglas, manuales y lineamientos que la Secretaría de Contraloría emita, para el mejor desempeño de su función.
 
 (REUBICADO, P.O. 24 DE OCTUBRE DE 2009)
 
@@ -1289,7 +1307,7 @@ Los comerciantes, talleres, industrias y usuarios tendrán la obligación de con
 
 Queda prohibido a los propietarios o poseedores de un inmueble:
 
-l. Descargar al sistema de drenaje y alcantarillado cualquier tipo de desechos o sustancias que alteren química o biológicamente los efluentes y los cuerpos receptores, o que por sus características pongan en peligro el funcionamiento del sistema o la seguridad de la población o de sus habitantes;
+I. Descargar al sistema de drenaje y alcantarillado cualquier tipo de desechos o sustancias que alteren química o biológicamente los efluentes y los cuerpos receptores, o que por sus características pongan en peligro el funcionamiento del sistema o la seguridad de la población o de sus habitantes;
 
 II. Realizar la conexión clandestina de su descarga al drenaje; y
 
@@ -1303,7 +1321,7 @@ Cuando se trate de una descarga de aguas residuales resultante de actividades pr
 
 Artículo 67 quáter. Podrá suspenderse el servicio de drenaje o alcantarillado cuando:
 
-l. En el inmueble no exista construcción;
+I. En el inmueble no exista construcción;
 
 II. Se deba reparar o dar mantenimiento al sistema; y
 
@@ -1629,7 +1647,7 @@ El organismo operador o el prestador de los servicios públicos podrán realizar
 
 La autoridad estatal, municipal o los organismos operadores, sancionarán conforme a lo previsto por esta Ley, los siguientes hechos:
 
-l. Explotar, usar, o aprovechar aguas estatales sin título cuando lo exija la presente Ley, así como modificar o desviar los cauces, vasos o corrientes cuando sean administrados por el Estado, sin autorización de la Comisión;
+I. Explotar, usar, o aprovechar aguas estatales sin título cuando lo exija la presente Ley, así como modificar o desviar los cauces, vasos o corrientes cuando sean administrados por el Estado, sin autorización de la Comisión;
 
 II. Explotar, usar o aprovechar aguas estatales, sin observar las disposiciones en materia de calidad del agua;
 
@@ -1821,7 +1839,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE OCTUBRE DE 2009.
 
@@ -1844,3 +1862,9 @@ Séptimo. En todas las disposiciones legales, resoluciones, contratos, convenios
 Octavo. Los órganos u organismos que hayan sido constituidos con anterioridad a la entrada en vigor de la presente Ley, en un plazo máximo de un año, ajustarán su organización y funcionamiento a las disposiciones de esta Ley y de los reglamentos que se expidan con base en ella.
 
 Noveno. En la celebración de los Convenios entre algún municipio y el poder ejecutivo estatal para la asunción de la responsabilidad de la prestación de los servicios públicos de agua, se estará a lo dispuesto por la Constitución Política de los Estados Unidos mexicanos, la Constitución del Estado, la Ley Orgánica de los Municipios del Estado de Tabasco, la presente Ley, su Reglamento y demás ordenamientos que resulten aplicables.
+
+P.O. 21 DE FEBRERO DE 2015.
+
+PRIMERO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
