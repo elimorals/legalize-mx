@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2014-03-21"
+last_updated: "2015-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE MARZO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 473 PUBLICADO EN EL P.O. DE 8 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -47,9 +45,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Esta Ley tiene por objeto establecer la estructura, las atribuciones y las bases para la organización y el funcionamiento de la administración pública del Estado de Coahuila de Zaragoza. Para el correcto ejercicio de las atribuciones y el despacho de los asuntos a cargo del gobernador, la administración pública del estado se organiza en centralizada y paraestatal.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-La administración pública centralizada se compone por la Oficina del Gobernador, las secretarías del ramo, la Procuraduría General de Justicia, la Consejería Jurídica y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
+La administración pública centralizada se compone por el Despacho del Gobernador, las secretarías del ramo, la Procuraduría General de Justicia, la Consejería Jurídica y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
 
 La administración pública paraestatal se conforma por los organismos públicos descentralizados, los organismos públicos de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás entidades, sin importar la forma en que sean identificadas.
 
@@ -201,13 +199,19 @@ IX. Concurrir al Congreso del Estado cuando se discuta un proyecto de ley o decr
 
 X. Las que con ese carácter le confieran la Constitución federal, la Constitución Política del Estado y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-El Jefe de la Oficina del Gobernador, la Consejería Jurídica y la Secretaría Particular son unidades administrativas que auxilian al ejecutivo y a la administración pública. Esta ley y los reglamentos que de ella se desprendan, fijarán sus obligaciones y facultades.
+La Secretaría Técnica y de Planeación, la Consejería Jurídica, la Secretaría Particular y la Unidad de Comunicación Social son unidades administrativas que auxilian al ejecutivo y a la administración pública para el despacho de los asuntos que le correspondan. Esta ley y los reglamentos que de ella se desprendan, fijarán sus obligaciones y facultades.
+
+A la Unidad de Comunicación Social corresponde formular y proponer al Gobernador la política de comunicación social y las relaciones con los medios masivos de información, así como suscribir convenios o contratos con los mismos, operar la agenda noticiosa del ejecutivo, además de coordinar y supervisar los programas de comunicación social de las dependencias del sector público estatal.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 11.
 
-Corresponde al Jefe de la Oficina del Gobernador el despacho de los siguientes asuntos:
+Corresponde a la Secretaría Técnica y de Planeación, el despacho de los siguientes asuntos:
 
 I. Atender los asuntos y comisiones que le encomiende el gobernador para la buena marcha de la administración pública;
 
@@ -219,23 +223,31 @@ IV. Promover el adecuado funcionamiento de las políticas públicas en materia d
 
 V. Vigilar el cumplimiento de los avances en la ejecución del Plan Estatal de Desarrollo;
 
-VI. Formular y proponer al gobernador la política de comunicación social y las relaciones con los medios masivos de información, así como operar la agenda noticiosa del ejecutivo;
+VI. Gestionar y administrar los recursos necesarios para el adecuado funcionamiento del Despacho del Ejecutivo;
 
-VII. Coordinar y supervisar los programas de comunicación social de las dependencias del sector público estatal;
+VII. Coordinar a la representación del Gobierno del Estado en el Distrito Federal;
 
-VIII. Gestionar y administrar los recursos necesarios para el adecuado funcionamiento del Despacho del Ejecutivo, y (sic)
+VIII. Conocer e integrar las propuestas de gasto de inversión pública e inversión pública que formulen las dependencias y entidades que integran la administración pública estatal y autorizar los montos globales de inversión pública del estado, en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+IX. Someter al gobernador para su aprobación, los programas de inversión pública y autorizar los proyectos derivados de los mismos;
 
-IX. Coordinar a la representación del Gobierno del Estado en el Distrito Federal;
+X. Programar y operar, los recursos destinados a la inversión pública de las dependencias del ejecutivo, de sus organismos auxiliares y de las entidades paraestatales;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+XI. Establecer y operar un sistema de evaluación y seguimiento de los programas federales y estatales de inversión pública, conforme a las leyes y acuerdos de coordinación;
 
-X. Las demás que le confieran expresamente este ordenamiento, otras disposiciones aplicables y aquellas que le encomiende el gobernador.
+XII. Coordinar y registrar, la entrega oportuna de los fondos descentralizados para inversión pública que la federación participe al estado y de los recursos estatales que se descentralicen a los municipios;
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+XIII. Coadyuvar con la Secretaría de Finanzas, proporcionando información y documentación que le requiera para el cumplimiento de sus atribuciones en el ámbito de su competencia;
 
-A la Oficina del Gobernador, le estarán adscritas la Secretaría Técnica y de Planeación, la unidad de Derechos Humanos, de Comunicación Social, la unidad de administración y la Unidad de Representación del Gobierno del Estado en el Distrito Federal.
+XIV. Programar y revisar la inversión pública en los términos de las leyes y de los convenios aplicables, las participaciones de impuestos federales que les corresponden a los municipios para su distribución;
+
+XV. Tramitar y atender las solicitudes de acceso a la información dirigidas al titular del Ejecutivo;
+
+XVI. Coordinar y desarrollar el sistema estatal de estadística e información geográfica, así como establecer las normas y procedimientos para su organización y funcionamiento;
+
+XVII. Las demás que le confieran expresamente este ordenamiento, otras disposiciones aplicables y aquellas que le encomiende el gobernador.
+
+A la Secretaría Técnica y de Planeación, le estarán adscritas la unidad de Derechos Humanos, la Unidad de Administración, la Unidad de Representación del Gobierno del Estado en el Distrito Federal y la Unidad de Atención de Acceso a la Información Pública. Las facultades y obligaciones correspondientes se fijarán en los reglamentos respectivos.
 
 ###### ARTÍCULO 12.
 
@@ -383,9 +395,9 @@ I. Secretaría de Gobierno;
 
 II. Secretaría de Cultura;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
 
-III. Secretaría de Desarrollo Económico y Competitividad;
+III. Secretaría de Desarrollo Económico, Competitividad y Turismo;
 
 IV. Secretaría de Desarrollo Rural;
 
@@ -423,9 +435,7 @@ XIV. Procuraduría para Niños, Niñas y la Familia
 
 XV. Secretaría del Trabajo;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
-
-XVI. Secretaría de Turismo;
+XVI. (DEROGADA, P.O. 22 DE FEBRERO DE 2015)
 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2012)</small>
 
@@ -517,7 +527,7 @@ XXX. Elaborar, al inicio de cada ejercicio fiscal el programa de austeridad y bu
 
 XXXI. Cuidar el cumplimiento de las normas de protección civil, salud, seguridad e higiene en las oficinas de la dependencia a su cargo y en las políticas públicas que se generen;
 
-XXXII. Cuidar el cumplimiento estricto de los calendarios cívicos nacional y estatal, y promover acciones que fortalezcan el respeto a los símbolos patrios, la identidad coahuilense, el escudo y el himno del estado, y (sic)
+XXXII. Cuidar el cumplimiento estricto de los calendarios cívicos nacional y estatal, y promover acciones que fortalezcan el respeto a los símbolos patrios, la identidad coahuilense, el escudo y el himno del estado, y
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -773,11 +783,11 @@ X. Ejercer las acciones correspondientes para la preservación del patrimonio cu
 
 XI. Fomentar la capacitación y profesionalización cultural y artística en la sociedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 25.
 
-A la Secretaría de Desarrollo Económico y Competitividad le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Económico, Competitividad y Turismo le corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
@@ -809,7 +819,7 @@ XI. Proponer al gabinete y al gobernador el proyecto de estímulos fiscales de c
 
 XII. Promover los incentivos y estímulos fiscales, financieros y de infraestructura para buscar el establecimiento y ampliación de empresas en la entidad;
 
-XIII. Formular estudios técnicos para determinar la factibilidad para la creación de parques y zonas industriales, comerciales y de servicios, y (sic)
+XIII. Formular estudios técnicos para determinar la factibilidad para la creación de parques y zonas industriales, comerciales y de servicios, y
 
 XIV. Supervisar en el ejercicio de sus atribuciones que las empresas, industrias y comercios instalados en el estado ajusten sus actividades a lo establecido en los diversos ordenamientos jurídicos y administrativos.
 
@@ -840,6 +850,38 @@ XX. Elaborar e implementar, en coordinación con las instancias competentes de l
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
 
 XXI. Ejecutar las acciones necesarias que permitan al estado llevar a cabo análisis prospectivos y retrospectivos referentes a la situación socioeconómica, demográfica, y otras características de la población en el contexto estatal, mediante la elaboración de estudios, investigaciones y proyección de escenarios de carácter cuantitativos y cualitativos, con el fin de coadyuvar a la planeación, diseño y seguimiento de estrategias, programas, proyectos y acciones en el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXII. Formular, ejecutar y coordinar la política de desarrollo y promoción de la actividad turística estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXIII. Promover las zonas de desarrollo turístico en la entidad y apoyar el desarrollo de su infraestructura, estimulando la participación de los sectores público, social y privado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXIV. Establecer programas permanentes para alentar el turismo interno y para promover en el mundo las riquezas paleontológicas e históricas y la singularidad de la naturaleza de Coahuila, como un mecanismo de atracción de visitantes especializados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXV. Instrumentar programas con los prestadores de servicios turísticos para incrementar el flujo de turistas a la entidad, además de realizar las visitas de verificación que corresponda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXVI. Estimular la creación de organismos especializados para la promoción y difusión de programas de desarrollo turístico, así como apoyar la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social y los proyectos turísticos en el medio rural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXVII. Impulsar las actividades culturales, eventos y espectáculos que difundan los atractivos turísticos y de negocios del estado
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXVIII. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXIX. Administrar y, en su caso, proponer la concesión de los servicios comerciales y de apoyo al turista, así como promover su mejora, ampliación y modernización.
 
 ###### ARTÍCULO 26.
 
@@ -973,7 +1015,7 @@ XVIII. Regular y coordinar el servicio social de estudiantes y profesionistas;
 
 XIX. Organizar el sistema de bibliotecas y librerías del estado y promover la lectura dentro del sector educativo y en la población en general;
 
-XX. Impulsar la práctica literaria, la edición de libros, recursos didácticos y el desarrollo de programas informáticos y tecnológicos para apoyar el proceso educativo, y (sic)
+XX. Impulsar la práctica literaria, la edición de libros, recursos didácticos y el desarrollo de programas informáticos y tecnológicos para apoyar el proceso educativo, y
 
 XXI. Ajustar, en su caso, el calendario escolar fijado por la autoridad educativa federal para cada ciclo lectivo y coordinar con la Secretaría de Gobierno los eventos y actos cívicos del gobierno del estado.
 
@@ -1053,7 +1095,9 @@ XI. Convenir con los ayuntamientos para que, cuando así se requiera, el Tesorer
 
 XII. Recibir, revisar y distribuir en los términos de las leyes y de los convenios aplicables, las participaciones de impuestos federales que les corresponden a los municipios;
 
-XIII. Recibir, coordinar y registrar, la entrega oportuna de los fondos descentralizados para inversión que la federación participe al estado y de los recursos estatales que se descentralicen a los municipios;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+XIII. Recibir, coordinar y registrar, la entrega oportuna de los fondos descentralizados que la federación participe al estado y de los recursos estatales que se descentralicen a los municipios;
 
 XIV. Obtener, revisar, aplicar y, en su caso, reclamar las participaciones de impuestos federales a favor del estado y acudir en auxilio de los municipios, cuando éstos lo soliciten, para gestionar lo que a ellos les corresponda;
 
@@ -1067,7 +1111,9 @@ XVIII. Presentar al Congreso del Estado la cuenta pública estatal, para efectos
 
 XIX. Proporcionar al Congreso del Estado, por conducto de la Comisión de Hacienda y Cuenta Pública, la información que se solicite con relación al funcionamiento de la dependencia;
 
-XX. Conocer e integrar las propuestas de gasto e inversión que formulen las dependencias y entidades que integran la administración pública estatal y autorizar los montos globales de inversión pública del estado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+XX. Conocer e integrar, las propuestas de gasto corriente que formulen las dependencias y entidades que integran la administración pública estatal;
 
 XXI. Determinar los criterios y montos globales de los estímulos fiscales, estudiar y proyectar sus efectos en los ingresos del estado y evaluar sus resultados conforme a sus objetivos, atendiendo para ello a los sectores beneficiados;
 
@@ -1075,11 +1121,17 @@ XXII. Otorgar los estímulos fiscales necesarios para el desarrollo económico y
 
 XXIII. Otorgar los estímulos y apoyos que apruebe el gabinete para atraer la inversión al estado;
 
-XXIV. Someter al gobernador para su aprobación, los programas de inversión pública y autorizar los proyectos derivados de los mismos;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
 
-XXV. Programar y operar, los recursos destinados a la inversión pública de las dependencias del ejecutivo, de sus organismos auxiliares y de las entidades paraestatales;
+XXIV. Someter al gobernador para su aprobación, los programas y autorizar los proyectos derivados de los mismos;
 
-XXVI. Establecer y operar un sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXV. Programar y operar, los recursos de las dependencias del ejecutivo, de sus organismos auxiliares y de las entidades paraestatales;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+XXVI. Establecer y operar un sistema de seguimiento de los programas federales y estatales, conforme a las leyes y acuerdos de coordinación;
 
 XXVII. Representar al gobernador en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado;
 
@@ -1107,6 +1159,8 @@ Para la recaudación de impuestos, derechos, contribuciones y cualquier otra car
 
 Las funciones de fiscalización, ejecución, representación legal y defensa jurídica de los intereses de la hacienda pública y administración tributaria serán ejercidas por la dependencia a través de la Administración Fiscal General.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 30.
 
 A la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial le corresponde el despacho de los siguientes asuntos:
@@ -1115,55 +1169,81 @@ I. Formular, ejecutar y evaluar las políticas generales de desarrollo urbano y 
 
 II. Participar con los municipios en las políticas que garanticen una mejor calidad para los asentamientos humanos y un uso del suelo eficiente y sustentable;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+III. Promover, apoyar y vigilar el desarrollo urbano sustentable de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos, con estricto apego al artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-III. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes, así como establecer y vigilar el cumplimiento de los programas de adquisición de las mismas en coordinación, en su caso, con los ayuntamientos; el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa;
+IV. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes; así como establecer y vigilar el cumplimiento de los programas de adquisición de las mismas en coordinación, en su caso, con los ayuntamientos; el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa;
 
-IV. Generar esquemas que permitan la construcción de vialidades o desarrollos urbanos mediante la participación privada o social;
+V. Generar esquemas que permitan la construcción de vialidades o desarrollos urbanos mediante la participación privada o social;
 
-V. Formular, ejecutar y evaluar el Plan Estatal de Desarrollo Urbano, los planes parciales y proponer sus modificaciones, así como prestar la asesoría y el apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de desarrollo urbano municipal y de centros de población;
+VI. Formular, ejecutar y evaluar el Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial, los planes parciales y proponer sus modificaciones, así como prestar la asesoría y el apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de desarrollo urbano municipal y de centros de población;
 
-VI. Elaborar, evaluar y, en su caso, modificar los programas sectoriales previstos en la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado, en coordinación con las dependencias u organismos del sector paraestatal competentes;
+VII. Formular y emitir los dictámenes de congruencia de los programas de desarrollo urbano municipal, de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
 
-VII. Promover un desarrollo urbano ordenado de las comunidades y centros de población del estado, así como fomentar y fortalecer la organización de grupos y sectores sociales a través de comisiones orientadas a estudiar y plantear soluciones en la materia;
+VIII. Formular y emitir los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
 
-VIII. Promover la celebración de convenios con los municipios para concurrir o compartir funciones que correspondan a éstos, en materia de desarrollo urbano;
+IX. Elaborar, evaluar y, en su caso, modificar los programas sectoriales y especiales previstos en la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza y otras disposiciones aplicables, en coordinación con las entidades u organismos competentes;
 
-IX. Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos federales y estatales que se dispongan para tal efecto;
+X. Promover y otorgar, asesoría y asistencia técnica, a las autoridades municipales, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano;
 
-X. Participar en los términos de las leyes de la materia en los procesos de expropiación de inmuebles que por causas de utilidad pública emprenda el estado;
+XI. Promover un desarrollo urbano ordenado de las comunidades y centros de población del estado, así como fomentar y fortalecer la organización de grupos y sectores sociales a través de comisiones orientadas a estudiar y plantear soluciones en la materia;
 
-XI. Coordinar y desarrollar el sistema estatal de estadística e información geográfica, así como establecer las normas y procedimientos para su organización y funcionamiento;
+XII. Participar en el ámbito de su competencia, en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo urbano, metropolitano, regional e intermunicipal que establezca el Plan Estatal de Desarrollo y los Programas de Desarrollo Urbano aplicables;
 
-XII. Promover el estudio y análisis de la condición jurídica y social en que se encuentren los diversos fraccionamientos y asentamientos que existen en el estado, así como tomar medidas para corregir los que ilegalmente ocurran;
+XIII. Fomentar y participar en la constitución y administración del patrimonio cultural inmueble conforme a las disposiciones legales aplicables;
 
-XIII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje y alcantarillado de conformidad con las disposiciones aplicables;
+XIV. Promover la celebración de convenios con los municipios para concurrir o compartir funciones que correspondan a éstos, en materia de desarrollo urbano;
 
-XIV. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
+XV. Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos federales y estatales que se dispongan para tal efecto;
 
-XV. Impulsar procesos de estudio en materia hidrológica, que garanticen el cuidado del agua y la posibilidad de su aprovechamiento para el consumo humano, agropecuario e industrial;
+XVI. Participar en los términos de las leyes de la materia en los procesos de expropiación de inmuebles que por causas de utilidad pública emprenda el estado;
 
-XVI. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido;
+XVII. Promover el estudio y análisis de la condición jurídica y social en que se encuentren los diversos fraccionamientos y asentamientos que existen en el estado, así como tomar medidas para corregir los que ilegalmente ocurran;
 
-XVII. Promover y vigilar en coordinación con los ayuntamientos del estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
+XVIII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento de conformidad con las disposiciones aplicables;
 
-XVIII. Instrumentar, en coordinación con las dependencias a que se refieren los artículos 27, 28, 32 y 33 de esta ley, acciones encaminadas a mejorar las condiciones de marginación;
+XIX. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
 
-XIX. Participar en la planeación de la infraestructura urbana que aliente el desarrollo, resuelva los problemas viales, reoriente el crecimiento de las poblaciones y favorezca el crecimiento económico;
+XX. Promover políticas e implementar acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los sistemas de agua potable, drenaje, alcantarillado y saneamiento en zonas urbanas y rurales;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+XXI. Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la Legislación aplicable en la materia;
 
-XX. Coordinar las funciones del catastro y la información territorial, así como las acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios y promover la recaudación municipal en esta materia;
+XXII. Impulsar procesos de estudio en materia hidrológica, que garanticen el cuidado del agua y la posibilidad de su aprovechamiento para el consumo humano, agropecuario e industrial;
 
-XXI. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
+XXIII. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido;
 
-XXII. Supervisar la operación de aeropuertos y aeropistas a cargo del gobierno del estado;
+XXIV. Promover y vigilar en coordinación con los ayuntamientos del estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
 
-XXIII. Normar y supervisar el adecuado funcionamiento del transporte público de competencia estatal, así como otorgar las concesiones y permisos que les correspondan;
+XXV. Instrumentar, en coordinación con las dependencias competentes, acciones encaminadas a mejorar las condiciones de marginación;
 
-XXIV. Expedir, en coordinación con la dependencia competente, las licencias de conducir y demás documentos de identificación relacionados con la circulación de vehículos en el estado, e
+XXVI. Participar en la planeación de la infraestructura urbana que aliente el desarrollo, resuelva los problemas viales, reoriente el crecimiento de las poblaciones y favorezca el crecimiento económico;
 
-XXV. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondientes.
+XXVII. Coordinar las funciones del catastro y la información territorial, en coordinación con los municipios y promover la recaudación municipal en esta materia;
+
+XXVIII. Coordinar las acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica;
+
+XXIX. Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación que corresponda a las Entidades competentes y municipios;
+
+XXX. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
+
+XXXI. Supervisar la operación de aeropuertos y aeropistas a cargo del gobierno del estado;
+
+XXXII. Formular, ejecutar y evaluar El Plan Estatal de Movilidad Sustentable y proponer sus modificaciones, así como brindar asesoría y apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de movilidad municipal;
+
+XXXIII. Realizar las acciones necesarias tendientes a que el servicio público de transporte se realice con eficiencia, calidad y seguridad para los usuarios;
+
+XXXIV. Regular, organizar, orientar, aprobar, controlar y en su caso modificar la prestación de los servicios público (sic) de transporte de competencia estatal con la finalidad de alcanzar el objetivo en materia de movilidad sustentable.
+
+XXXV. Promover la celebración de convenios con los municipios parta concurrir o compartir funciones que corresponda a éstos en materia de movilidad y transporte público;
+
+XXXVI. Normar y supervisar el adecuado funcionamiento del transporte público de competencia estatal, así como otorgar, renovar, prorrogar y cancelar las concesiones y permisos que les correspondan;
+
+XXXVII. Expedir, en coordinación con la dependencia competente, las placas y demás documentos de identificación relacionados con la circulación de los vehículos destinados al servicio público de transporte en el estado;
+
+XXXVIII. Promover una amplia cultura vial a través de programas innovadores en esta materia;
+
+XXXIX. Expedir, en coordinación con la dependencia competente, las licencias de conducir en el estado;
+
+XL. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondiente (sic).
 
 ###### ARTÍCULO 31.
 
@@ -1439,39 +1519,7 @@ XX. Ejecutar los convenios y acuerdos que en materia del trabajo suscriba el Pod
 
 ###### ARTÍCULO 36.
 
-A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
-
-I. Formular, ejecutar y coordinar la política de desarrollo y promoción de la actividad turística estatal;
-
-II. Promover las zonas de desarrollo turístico en la entidad y apoyar el desarrollo de su infraestructura, estimulando la participación de los sectores público, social y privado;
-
-III. Establecer programas permanentes para alentar el turismo interno y para promover en el mundo las riquezas paleontológicas e históricas y la singularidad de la naturaleza de Coahuila, como un mecanismo de atracción de visitantes especializados;
-
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
-
-IV. Auxiliarse de la Secretaría de Desarrollo Económico y Competitividad para alentar el turismo de negocios y generar alternativas de esparcimiento para este tipo de visitantes;
-
-V. Promover aspectos de calidad y competitividad en los programas de desarrollo turístico;
-
-VI. Instrumentar programas con los prestadores de servicios turísticos para incrementar el flujo de turistas a la entidad;
-
-VII. Estimular la creación de organismos especializados para la promoción y difusión de programas de desarrollo turístico, así como apoyar la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social y los proyectos turísticos en el medio rural;
-
-VIII. Promover la capacitación de personal especializado con la finalidad de elevar la calidad en la prestación de los servicios turísticos;
-
-IX. Recopilar, actualizar y difundir la información estadística relacionada con el turismo estatal, así como aquella de orientación a turistas;
-
-X. Brindar asistencia al turista en sus relaciones con prestadores de servicios;
-
-XI. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre;
-
-XII. Realizar visitas de verificación a los prestadores de servicios turísticos;
-
-XIII. En coordinación con la Secretaría de Cultura, promover y difundir la cultura del estado, en beneficio del turismo de la entidad;
-
-XIV. Impulsar las actividades, eventos y espectáculos que difundan los atractivos turísticos del estado, y
-
-XV. Administrar y, en su caso, proponer la concesión de los servicios comerciales y de apoyo al turista, así como promover su mejora, ampliación y modernización.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 37.
 
@@ -1770,3 +1818,21 @@ P.O. 18 DE MARZO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos en trámite, que con motivo de esta reforma deban pasar de la Secretaría de Turismo que desaparece a la Secretaría de Desarrollo Económico, Competitividad y Turismo, permanecerán en el estado que se encuentren hasta que las unidades administrativas que las deban recibir tomen conocimiento de ellos, a excepción, de los asuntos sujetos a plazos improrrogables.
+
+###### ARTÍCULO TERCERO.
+
+En los casos en que otras leyes concedan atribuciones a la Secretaría de Turismo y Secretaría de Desarrollo Económico y Competitividad, se entenderán conferidas a la Secretaría de Desarrollo Económico, Competitividad y Turismo en la forma y términos en que las propias leyes lo dispongan.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de quince días contados a partir de la entrada en vigor del presente decreto, se deberá emitir o en su caso, adecuar la reglamentación correspondiente, a los términos de esta reforma.
