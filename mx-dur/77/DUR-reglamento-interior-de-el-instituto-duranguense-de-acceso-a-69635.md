@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-el-instituto-duranguense-de-acceso-a-696
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-28"
-last_updated: "2009-06-28"
+last_updated: "2015-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,57 +21,125 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE EL INSTITUTO DURANGUENSE DE ACCESO A LA INFORMACION PUBLICA Y DE PROTECCION DE DATOS PERSONALES -- ANTES REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA --
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO INTERIOR DE EL INSTITUTO DURANGUENSE DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL ACUERDO, EXPEDIDO POR EL INSTITUTO DURANGUENSE DE ACCESO A LA INFORMACIÓN PUBLICA Y DE PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL P.O. DE 22 DE FEBRERO DE 2015, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 28 de junio de 2009.
 
 El Pleno de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública del Estado de Durango, en ejercicio de la facultad que le confiere el Artículo 67, fracción XVII de la Ley de Transparencia y Acceso a la Información Pública y en cumplimiento al Artículo Tercero Transitorio parte final del mismo ordenamiento, ha tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 2015)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+REGLAMENTO INTERIOR DE EL INSTITUTO DURANGUENSE DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 1.
 
-El presente ordenamiento es de observancia general y obligatoria para las unidades administrativas de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y su personal, tiene por objeto establecer las normas que regulan el funcionamiento y la operación de su estructura orgánica, para el correcto ejercicio de sus facultades y atribuciones.
+El presente ordenamiento es de observancia general y obligatoria en el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, regula la estructura, atribuciones y funciones del Instituto y su personal, y tiene por objeto establecer las disposiciones que norman el funcionamiento y la operación de su estructura orgánica, para el correcto ejercicio de sus facultades y atribuciones.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 2.
 
-La Comisión, es un órgano constitucionalmente autónomo, especializado e imparcial, con personalidad jurídica y patrimonio propio, con autonomía presupuestaria, operativa, de decisión y de gestión, en materia de transparencia y acceso a la información pública, encargada de dirigir y vigilar el cumplimiento de la Ley en la materia y las normas que de ella deriven, así como de aplicar los principios de certeza, legalidad, independencia, imparcialidad y objetividad en todas sus decisiones.
+El Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, es encargado de dirigir y vigilar el cumplimiento de las Leyes que rigen la materia de su competencia y las normas que de ellas deriven, así como, aplicar en todas sus decisiones los principios establecidos en el apartado A del artículo 6 de la Constitución Política de los Estados Unidos Mexicanos y el Titulo quinto, capítulo III y artículos 29, 136 y 137 de la Constitución Política del Estado Libre y Soberano de Durango, así como en las leyes aplicables.
 
-No se encontrará subordinada a ninguna autoridad para los efectos de sus resoluciones y éstas serán de naturaleza vinculante y definitiva para los sujetos obligados.
+No se encontrará subordinado a ninguna autoridad para los efectos de sus resoluciones y estas serán de naturaleza vinculante y definitiva para los sujetos obligados.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 3.
 
-Para su organización y funcionamiento, la Comisión se regirá por las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, el presente reglamento, y la normatividad que sea aprobada por el Pleno de la Comisión, así como las disposiciones legales y administrativas que resulten aplicables.
+Para su organización y funcionamiento, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales se regirá por las disposiciones que establecen las Leyes que son materia de su competencia, el presente reglamento, y la normatividad que sea aprobada por el Consejo General del Instituto, así como las disposiciones legales y administrativas que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 4.
 
-Además de las definiciones señaladas en el Artículo 4 de la Ley para efectos del presente Reglamento se entenderá por:
+Además de las definiciones señaladas en el Artículo 4 de la Ley de Transparencia y Acceso a la Información Pública del Estado, y Artículo 4 de la Ley de Protección de Datos del Estado, para efectos del presente Reglamento se entenderá por:
 
-I. Reglamento: El Reglamento Interior de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública;
+I. Consejo General: Órgano máximo de dirección del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales;
 
-II. Comisionados: Los Comisionados ratificados por el Congreso del Estado como integrantes del Pleno de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública;
+II. Consejeros (as) Propietarios (as): Los Consejeros (as) ratificados por el Congreso del Estado como integrantes del Consejo General del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales;
 
-III. Pleno: Órgano máximo de dirección de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública;
+III. Consejero (a) Presidente (a): Consejero (a) designado (a) por el Consejo General y representante legal del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales;
 
-IV. Comisionado Presidente: Comisionado designado por el Pleno, y representante legal de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública;
+IV. Instituto: Instituto Duranguense de Acceso a la Información Pública y Protección de Datos Personales.
 
-V. Ley: Ley de Transparencia y Acceso a la Información Pública del Estado de Durango;
+V. IPO: Información Pública de Oficio.
 
-VI. Comisión: La Comisión Estatal para la Transparencia y el Acceso a la Información Pública;
+VI. Ley: Ley de Transparencia y Acceso a la Información Pública del Estado de Durango;
 
-VII. Unidad Administrativa: Cualquier área administrativa que forme parte de la estructura orgánica de la Comisión.
+VII. Ley de Protección de Datos Personales (LPDPED): Ley de Protección de Datos Personales del Estado de Durango;
+
+VIII. Gaceta. Institucional: El órgano oficial de difusión del IDAIP.
+
+IX. Reglamento: El Reglamento Interior del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales.
+
+X. Unidad Administrativa: Área administrativa que forme parte de la estructura orgánica del Instituto.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 5.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Comisión contará con la siguiente estructura:
+El Instituto tiene su sede en la Ciudad de Victoria Durango, Durango, es un órgano constitucional autónomo, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica, de decisión, de gestión, presupuestaria, operativa y facultades de iniciativa en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-I. Pleno;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-II. Comisionado Presidente;
+###### Artículo 6.
+
+Son ejes rectores del Instituto la promoción, respeto, protección, estudio y divulgación de la Ley de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 7.
+
+Los procedimientos que se sigan ante el Instituto, deberán ser breves y sencillos. Para ello se evitarán los formalismos, excepto los ordenados en Ley, la Ley de Protección de Datos Personales, y el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 8.
+
+Los servicios que brinda el Instituto serán gratuitos, lo cual se hará del conocimiento de quienes los soliciten.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 9.
+
+Los servidores públicos del Instituto están obligados a guardar la estricta reserva de la información y datos que deriven de los asuntos a su cargo, con apego a lo dispuesto en la Ley y la Ley de Protección de Datos Personales.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 10.
+
+El personal del Instituto prestará sus servicios con base en los principios de inmediatez, eficiencia, eficacia, rapidez, sencillez, confidencialidad y profesionalismo.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 11.
+
+El Instituto, contará con un órgano oficial de difusión que se denominará "Gaceta Institucional", se publicará por lo menos en forma cuatrimestral y en ella se difundirán las resoluciones o una síntesis de las mismas; disposiciones normativas, criterios, lineamientos, informes anuales e informes especiales, así como actividades relevantes, que requieran darse a conocer a la sociedad.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA DEL INSTITUTO
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 12.
+
+Para el desarrollo y cumplimiento de las funciones y atribuciones que le corresponden, el Instituto contará con los siguientes órganos y estructura administrativa:
+
+I. Consejo General;
+
+II. Consejero (a) Presidente (a);
 
 III. Secretaría Ejecutiva;
 
@@ -81,61 +149,91 @@ V. Órgano Interno de Control;
 
 VI. Coordinaciones de:
 
-a. Administración y Finanzas;
+a) Comunicación Social;
 
-b. Difusión y Comunicación;
+b) Gestión Administrativa;
 
-c. Capacitación y Cultura de la Transparencia;
+c) Contabilidad;
 
-d. Vinculación con los Sujetos Obligados;
+d) Sistemas;
 
-e. Jurídica; y
+e) Verificación y Seguimiento a Sujetos Obligados;
 
-VII. Unidad de Enlace;
+f) Promoción y Vinculación;
 
-VIII. Las demás áreas administrativas y personal necesario que autorice el Pleno, de acuerdo con el presupuesto.
+g) Jurídica;
 
-###### Artículo 6.
+h) Protección de Datos Personales, y
 
-El Pleno es el órgano máximo de autoridad de la Comisión, el cual estará integrado por tres Comisionados propietarios, sus resoluciones son obligatorias para éstos aunque estén ausentes o sean disidentes al momento de tomarlas. Para el desarrollo de las sesiones, el Pleno se auxiliará de la Secretaría Técnica quien tendrá derecho a voz.
+i) Capacitación y Cultura de la Transparencia.
 
-###### Artículo 7.
+VII. Unidad de Enlace, y
 
-El Pleno funcionará y tomará sus decisiones de manera colegiada, ajustándose para ello a los principios de legalidad, imparcialidad, objetividad, igualdad, honradez, lealtad y respeto entre sus integrantes.
+VIII. Las demás áreas administrativas y personal necesario que autorice el Consejo General, de acuerdo con el presupuesto autorizado.
 
-Las decisiones y resoluciones se adoptarán por unanimidad o mayoría de votos de los comisionados presentes. Los expedientes y las actas resolutivas se harán públicos, asegurando que la información reservada o confidencial de los mismos se mantenga con tal carácter.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 8.
+### CAPÍTULO III. DE LAS ATRIBUCIONES
 
-Las sesiones serán presididas por el Comisionado Presidente de la Comisión, y a falta de éste, los presentes elegirán a un comisionado para que presida la reunión, dirija los debates, declare cerrada la discusión cuando lo estime necesario y someta a votación los asuntos correspondientes.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 9.
+#### SECCIÓN I. DEL CONSEJO GENERAL
 
-Las sesiones tendrán el carácter de ordinarias y extraordinarias, bastará la asistencia de dos comisionados para poder sesionar, tomar válidamente acuerdos y emitir resoluciones. Las sesiones ordinarias se celebrarán por lo menos una vez al mes, de acuerdo con el calendario que apruebe previamente el Pleno, enviando la convocatoria a mas tardar el día anterior al de su celebración, y las sesiones extraordinarias podrán ser convocadas en cualquier tiempo, previa convocatoria del Comisionado Presidente o de al menos dos de los Comisionados. En las convocatorias respectivas, se determinará el lugar, la fecha y la hora en que se llevará a cabo la sesión de que se trate, mencionando los asuntos que deban considerarse en las mismas.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 10.
+###### Artículo 13.
 
-Los integrantes del Pleno podrán excusarse de votar cuando expresamente motiven su impedimento en razón de conflicto de intereses. En caso de que exista empate en la votación, quien presida la sesión tendrá voto de calidad.
+El Consejo General es el órgano máximo de autoridad del Instituto, el cual estará integrado por tres Consejeros (as) Propietarios (as), sus resoluciones serán obligatorias para estos, aunque estén ausentes o sean disidentes al momento de tomarlas. Para el desarrollo de las sesiones se auxiliará de la Secretaría Técnica quien tendrá derecho a voz.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Los Comisionados que asistan a las sesiones ordinarias y extraordinarias deberán votar afirmativa o negativamente respecto a los asuntos que se sometan a la consideración del Pleno.
+###### Artículo 14.
 
-De dichas sesiones se levantará el acta correspondiente, en la que se asentarán los acuerdos o resoluciones que hayan sido aprobadas por el Pleno, siendo el responsable de levantar dichas actas el Secretario Técnico.
+El Consejo General funcionará y tomará sus decisiones de manera colegiada, ajustándose para ello a los principios de legalidad, imparcialidad, objetividad, igualdad, honradez, lealtad y respeto entre sus integrantes.
 
-### CAPITULO II. DE LA ESTRUCTURA ORGÁNICA DE LA COMISIÓN
+Las decisiones y resoluciones se adoptarán por unanimidad o mayoría de votos de los consejeros presentes. Los expedientes y las actas resolutivas se harán públicos, asegurando que la información reservada o confidencial de los mismos se mantenga con tal carácter.
 
-###### Artículo 12.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Son facultades del Pleno, además de las atribuciones previstas en el Artículo 67 de la Ley de Transparencia y Acceso a la Información Pública, las siguientes:
+###### Artículo 15.
 
-I. Determinar la forma y términos en que serán ejercidas las atribuciones que a la Comisión le otorga la Ley, así como las demás leyes, reglamentos y disposiciones administrativas que le resulten aplicables;
+Las sesiones serán presididas por el Consejero (a) Presidente (a) del Instituto, y a falta de este, los presentes elegirán a un consejero para que presida la reunión, dirija los debates, declare cerrada la discusión cuando lo estime necesario y someta a votación los asuntos correspondientes.
 
-II. Aprobar las estrategias generales para el cumplimiento de las atribuciones que la Ley asigna a la Comisión, los programas de trabajo anuales de sus coordinaciones, un sistema de rendición de cuentas y de evaluación sobre el cumplimiento de metas;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-III. Conocer el funcionamiento y actividades de las áreas administrativas de la Comisión, mediante los informes que rindan por conducto de la Secretaría Ejecutiva, acerca de su desempeño;
+###### Artículo 16.
 
-IV. Delegar funciones, facultades y/o atribuciones a los órganos de la Comisión, a las áreas administrativas y cualquier servidor público que forme parte de la Comisión;
+Las sesiones tendrán el carácter de ordinarias y extraordinarias, bastará la asistencia de dos consejeros para poder sesionar, tomar válidamente acuerdos y emitir resoluciones. Las sesiones ordinarias se celebrarán por lo menos una vez al mes, de acuerdo con el calendario que apruebe previamente el Consejo General, enviando la convocatoria a más tardar el día anterior al de su celebración, y las sesiones extraordinarias podrán ser convocadas en cualquier tiempo, previa convocatoria del Consejero (a) Presidente (a) o de al menos dos de los Consejeros (as).
+
+En las convocatorias respectivas, se determinará el lugar, la fecha y la hora en que se llevará a cabo la sesión de que se trate, mencionando los asuntos que deban considerarse en las mismas.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 17.
+
+Los integrantes del Consejo General podrán excusarse de votar cuando expresamente motiven su impedimento en razón de conflicto de intereses. En caso de que exista empate en la votación, quien presida la sesión tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 18.
+
+Los Consejeros (as) que asistan a las sesiones ordinarias y extraordinarias deberán votar afirmativa o negativamente respecto a los asuntos que se sometan a la consideración del Consejo General.
+
+De dichas sesiones se levantará el acta correspondiente, en la que se asentarán los acuerdos o resoluciones que hayan sido aprobadas por el Consejo General, siendo el responsable de levantar dichas actas el Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 19.
+
+Son facultades del Consejo General, además de las atribuciones previstas en el Artículo 67 de la Ley, las siguientes:
+
+I. Determinar la forma y términos en que serán ejercidas las atribuciones que al Instituto le otorga la Ley, así como las demás leyes, reglamentos y disposiciones administrativas que le resulten aplicables;
+
+II. Aprobar las estrategias generales para el cumplimiento de las atribuciones que la Ley asigna al Instituto, los programas de trabajo anuales de sus coordinaciones, un sistema de rendición de cuentas y de evaluación sobre el cumplimiento de metas;
+
+III. Conocer el funcionamiento y actividades de las unidades administrativas del Instituto, mediante los informes que rindan por conducto de la Secretaría Ejecutiva y Secretaría Técnica, acerca de su desempeño;
+
+IV. Delegar funciones y facultades a los órganos y unidades administrativas del Instituto, y a cualquier servidor público que forme parte del Instituto;
 
 V. Aprobar el informe anual de actividades y resultados respecto al acceso a la información pública que deberá presentarse ante el H. Congreso del Estado;
 
@@ -143,561 +241,861 @@ VI. Dictar los acuerdos y normatividad necesarios para ejercer las atribuciones 
 
 VII. Interpretar la Ley en términos de lo dispuesto por el artículo sexto de la Constitución Política de los Estados Unidos Mexicanos, y resolver conforme a la Ley en términos de lo dispuesto en el artículo séptimo;
 
-VIII. Expedir las normas, bases y acuerdos para disponer de los activos de la Comisión;
+VIII. Expedir las normas, bases y acuerdos para disponer de los activos del Instituto;
 
-IX. Aprobar mecanismos y acciones que permitan posicionar y fortalecer la identidad de la Comisión;
+IX. Aprobar mecanismos y acciones que permitan posicionar y fortalecer la identidad del Instituto;
 
-X. Aprobar la política laboral de la Comisión, así como sus respectivas actualizaciones;
+X. Aprobar la política laboral del Instituto, así como sus respectivas actualizaciones;
 
-XI. Aprobar la estructura orgánica y funcional de la Comisión, así como su catálogo de puestos y tabulador de sueldos;
+XI. Aprobar la estructura orgánica y funcional del Instituto, así como su catálogo de puestos y tabulador de sueldos;
 
 XII. Aprobar el nombramiento o remoción de los Secretarios Ejecutivo y Técnico, y de los titulares de las coordinaciones a propuesta del Presidente;
 
-XIII. Aprobar el programa operativo anual de trabajo de la Comisión, y el proyecto de presupuesto;
+XIII. Aprobar el programa anual de trabajo del Instituto, y el proyecto de presupuesto;
 
-XIV. Vigilar el correcto ejercicio del presupuesto de la Comisión;
+XIV. Vigilar el correcto ejercicio del presupuesto del Instituto;
 
-XV. Aprobar la política de comunicación social de la Comisión;
+XV. Aprobar la política de comunicación social del Instituto;
 
-XVI. Aprobar programas de participación social en las tareas de transparencia, acceso a la información y rendición de cuentas;
+XVI. Aprobar programas de participación social en las tareas de transparencia, acceso a la información, protección de datos personales, archivos y rendición de cuentas;
 
-XVII. Aprobar la suscripción de convenios y mecanismos de coordinación con los sujetos obligados, así como con sujetos homólogos a nivel federal y otras entidades federativas;
+XVII. Aprobar la suscripción de convenios y mecanismos de coordinación con los sujetos obligados, sujetos homólogos a nivel federal y otras entidades federativas, organismos empresariales, fundaciones, y otros que cumplan con objetivos afines al instituto tanto a nivel nacional como internacional
 
-XVIII. Aprobar la suscripción de convenios y mecanismos de coordinación con instituciones educativas, organismos de la sociedad civil, colegios de (sic)
+XIX (SIC). Autorizar la participación de sus integrantes en los eventos a los que sea invitado el Instituto;
 
-VII (sic). Proponer el anteproyecto de los mecanismos de coordinación con las entidades públicas y otras personas físicas o morales, nacionales o extranjeras;
-
-VIII. Supervisar que las áreas administrativas de la Comisión actualicen la información de oficio, en términos de la Ley, así como revisar los contenidos de la página principal del portal de internet de la Comisión;
-
-IX. Diseñar en colaboración con las diferentes áreas, los indicadores de gestión de la Comisión;
-
-X. Brindar apoyo al Presidente en la supervisión de los trabajos realizados por las áreas administrativas de la Comisión, en su respectivo ámbito de competencia;
-
-XI. Coordinar las actividades encomendadas por el Pleno o por los Comisionados, que la Comisión realice en forma conjunta con organizaciones sociales, políticas y privadas, así como con los sujetos obligados;
-
-XII. Informar al Pleno por conducto de la Presidencia, sobre las actividades a su cargo;
-
-XIII. Coordinar los servicios de atención al público que brinda el módulo de la oficina de acceso a la información de la Comisión; y (sic)
-
-XIV. Recabar en coordinación con la Secretaría Técnica, la información y elementos estadísticos que reflejen el estado de la Comisión;
-
-XV. Las demás disposiciones legales y administrativas que le sean aplicables.
-
-### CAPITULO III. DE LAS ATRIBUCIONES
-
-#### SECCION I. DEL PLENO DE LA COMISIÓN
-
-###### Artículo 14.
-
-Los Comisionados se apoyarán para el debido cumplimiento de sus facultades y atribuciones, en la estructura orgánica propuesta en el numeral 5 del presente Reglamento.
-
-###### Artículo 15.
-
-Son facultades del Comisionado Presidente, además de las atribuciones previstas en el artículo 67 de la Ley, las siguientes:
-
-I. Representar legalmente a la Comisión. Para tal efecto podrá otorgar poderes generales para representar a la Comisión ante cualquier autoridad administrativa, jurisdiccional o (sic)
-
-VIII (sic). Sugerir al Comisionado ponente la celebración de audiencias entre las partes involucradas y proveer al respecto;
-
-IX. Vigilar que se lleve a cabo la notificación de las resoluciones, acuerdos y recomendaciones que emita el Pleno;
-
-X. Representar a la Comisión en los asuntos que el Pleno determine;
-
-XI. Dar seguimiento e informar a los Comisionados trimestralmente y en forma sistemática sobre el cumplimiento de los acuerdos, resoluciones y cualquier determinación emitida por el Pleno;
-
-XII. Elaborar el compendio sobre los procedimientos de acceso a la información pública en el estado;
-
-XIII. Brindar apoyo al Presidente en la supervisión de los trabajos de las unidades administrativas de la Comisión en su respectivo ámbito de competencia;
-
-XIV. Recibir y dar cuenta de la correspondencia institucional, así como coordinar la integración del archivo de trámite;
-
-XV. Realizar en coordinación con, la Secretaría Ejecutiva, los anteproyectos de informes sobre presuntas infracciones a la Ley;
-
-XVI. Informar al Pleno sobre las actividades a su cargo;
-
-XVII. Elaborar el índice de clasificación de archivos de la Comisión; y
-
-XVIII. Las demás disposiciones legales y administrativas que resulten aplicables.
-
-###### Artículo 17.
-
-Para ser Secretario Ejecutivo se requiere:
-
-I. Ser ciudadano mexicano, tener como mínimo 28 años;
-
-II. Contar con título profesional de Licenciatura en general, y experiencia en el área de al menos tres años;
-
-III. No tener antecedentes de una militancia pública o activa y notoria en algún partido político, por lo menos de tres años antes de su designación; y
-
-IV. No haber sido condenado por delito doloso.
-
-###### Artículo 18.
-
-Son atribuciones de la Secretaría Ejecutiva:
-
-I. Apoyar al Pleno y cumplir sus determinaciones, y a los Comisionados en el ejercicio de sus atribuciones;
-
-II. Elaborar el anteproyecto del programa operativo anual y el anteproyecto de presupuesto;
-
-III. Dar seguimiento a los avances del programa operativo anual, informando de manera sistemática a los Comisionados, y presentar al Pleno por conducto del Comisionado Presidente, los informes trimestrales de cada una de las áreas administrativas adscritas a la Comisión respecto a los avances de sus programas de trabajo;
-
-IV. Proponer al Pleno estrategias para un mejor desempeño de las áreas administrativas de la Comisión, así como efectuar el seguimiento a los documentos, estudios, proyectos y asuntos encomendados;
-
-V. Coordinar la elaboración del informe anual de actividades y resultados de la Comisión, que el Comisionado Presidente presentará en el Pleno, para su aprobación, así como al H. Congreso del Estado;
-
-VI. Elaborar los programas y acciones de promoción de la cultura de la transparencia y acceso a la información y ejecutarlos;
-
-profesionistas, organismos empresariales, fundaciones, y otros que cumplan con objetivos afines al instituto tanto a nivel nacional como internacional; (sic)
-
-XIX (sic). Autorizar la participación de sus integrantes en los eventos a los que sea invitada la Comisión;
-
-XX. Emitir recomendaciones y aplicar sanciones económicas a los sujetos obligados que incumplan las disposiciones de la Ley y demás normatividad aplicable en materia de derecho de acceso a la información pública;
+XX. Emitir recomendaciones y aplicar sanciones económicas a los sujetos obligados que incumplan las disposiciones de la Ley y demás normatividad aplicable en materia de derecho de acceso a la información pública y protección de datos personales;
 
 XXI. Aprobar y expedir los lineamientos generales de clasificación y desclasificación de la información pública;
 
-XXII. Establecer los procedimientos de verificación del cumplimiento de los sujetos obligados en relación a la difusión de la información mínima de oficio;
+XXII. Establecer los criterios y procedimientos de verificación del cumplimiento de los sujetos obligados en relación a la difusión de la información pública de oficio;
 
-XXIII. Elegir dentro de sus miembros al Comisionado Presidente, quien ejercerá su cargo por un periodo de dos años, pudiendo ser reelecto por una sola ocasión;
+XXIII. Elegir dentro de sus miembros al Consejero (a) Presidente (a), quien ejercerá su cargo por un período de dos años, pudiendo ser reelecto por una sola ocasión;
 
-XXIV. Autorizar el cambio de adscripción, así como las comisiones temporales de los servidores públicos de la Comisión para desempeñar funciones en otra área de la misma, cuando se requiera por necesidades del servicio, siempre que sea acorde con los conocimientos y con el perfil del puesto requerido por la institución;
+XXIV. Autorizar el cambio de adscripción, así como las comisiones temporales de los servidores públicos del Instituto para desempeñar funciones en otra área de la misma, cuando se requiera por necesidades del servicio, siempre que sea acorde con los conocimientos y con el perfil del puesto requerido por la institución;
 
-XXV. Conceder licencias a los Comisionados, cuando exista causa justificada, siempre que no perjudique el buen funcionamiento de la institución;
+XXV. Conceder licencias a los Consejeros (as), cuando exista causa justificada, siempre que no perjudique el buen funcionamiento de la institución;
 
 XXVI. Gestionar que en los planes y programas de estudio que se impartan en las Instituciones de Educación en el Estado, se incluyan contenidos, que versen sobre el derecho de acceso a la información y la protección de datos personales; y
 
 XXVII. Las demás que se deriven de la Ley y demás disposiciones que resulten aplicables.
 
-Artículo 13 (sic). Son atribuciones de los Comisionados además de las previstas en el artículo 67 de la Ley, las siguientes:
-
-I. Participar en las sesiones del Pleno con voz y voto;
-
-II. Representar a la Comisión en los asuntos que el Pleno determine;
-
-III. Informar al Pleno sobre las actividades y proyectos que éste le encomiende;
-
-IV. Supervisar el cumplimiento del programa operativo anual que implementen las unidades administrativas de la Comisión;
-
-V. Plantear oportunamente ante el Pleno, sus excusas por conflicto de interés;
-
-VI. Conocer de los asuntos que le sean sometidos para su consideración y posible aprobación por el Pleno;
-
-VII. Solicitar informes sobre actividades y ejecución de programas que realice la Comisión;
-
-VIII. Presentar al Pleno proyectos de acuerdos y resoluciones;
-
-IX. Participar en los procesos de selección de los Secretarios Ejecutivo y de Acuerdos, y de los Coordinadores;
-
-X. Solicitar licencia al Pleno para separarse temporalmente de su cargo, por causa justificada
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 20.
 
-Para ser Secretario Técnico se requiere:
+Son atribuciones de los Consejeros (as) además de las previstas en el artículo 67 de la Ley, las siguientes:
 
-I. Ser ciudadano mexicano, tener como mínimo 28 años;
+I. Participar en las sesiones del Consejo General con voz y voto;
 
-II. Contar con título profesional de Licenciado en Derecho, y experiencia en el área de al menos tres años;
+II. Representar al Instituto en los asuntos que el Consejo General determine;
 
-III. No tener antecedentes de una militancia pública o activa y notoria en algún partido político, por lo menos de tres años antes de su designación; y
+III. Informar al Consejo General sobre las actividades y proyectos que este le encomiende;
 
-IV. No haber sido condenado por delito doloso.
+IV. Supervisar el cumplimiento del programa anual de trabajo que implementen las unidades administrativas del Instituto;
+
+V. Plantear oportunamente ante el Consejo General, sus excusas por conflicto de interés;
+
+VI. Conocer de los asuntos que le sean sometidos para su consideración y posible aprobación por el Consejo General;
+
+VII. Solicitar informes sobre actividades y ejecución de programas que realice el Instituto;
+
+VIII. Presentar al Consejo General proyectos de acuerdos y resoluciones;
+
+IX. Participar en los procesos de selección de los (as) Secretarios (as) Ejecutivo (a) y Técnico (a), y de los Coordinadores (as), y
+
+X. Solicitar licencia al Consejo General para separarse temporalmente de su cargo, por causa justificada.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 21.
 
-Son atribuciones de la Secretaría Técnica:
+Los Consejeros (as) se apoyarán para el debido cumplimiento de sus facultades y atribuciones, en la estructura orgánica propuesta en el numeral 12 del presente Reglamento.
 
-I. Elaborar el programa anual de sesiones del Pleno;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
 
-II. Elaborar el proyecto del orden del día de las sesiones ordinarias y extraordinarias, previo acuerdo con el Presidente, así como integrar la documentación que sustenten los asuntos correspondientes;
+#### SECCIÓN II. DE LAS ATRIBUCIONES DEL CONSEJERO (A) PRESIDENTE (A)
 
-III. Citar a los Comisionados a las sesiones ordinarias y extraordinarias oportunamente, remitiendo el orden del día y la documentación necesaria;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-IV. Dar fe de lo actuado y levantar el acta correspondiente de cada sesión, así como los acuerdos y demás disposiciones que se aprueben en las mismas, y recabar la firma de los comisionados que participaron en ellas;
+###### Artículo 22.
 
-V. Participar con derecho a voz en las sesiones del Pleno, auxiliando al Presidente en la conducción de las mismas; declarar la existencia del quórum y certificar sobre lo actuado en las sesiones;
+Son facultades del Consejero (a) Presidente (a), además de las atribuciones previstas en el artículo 67 de la Ley, las siguientes:
 
-VI. Incorporar las modificaciones aprobadas a los documentos sometidos a consideración del Pleno, con el apoyo de las áreas correspondientes;
+I. Representar legalmente al Instituto. Para tal efecto podrá otorgar poderes generales para representar al Instituto ante cualquier autoridad administrativa, jurisdiccional o bien ante particulares; para pleitos y cobranzas con todas las facultades generales y aún las especiales que conforme a la Ley requieran cláusula especial o expresa; y para actos de administración. Para otorgar poderes y para realizar actos de dominio sobre inmuebles destinados al Instituto, el Consejero (a) Presidente (a) requerirá de la autorización del Consejo General;
 
-VII. Proporcionar a los Comisionados el apoyo necesario para la integración y sustanciación de los recursos, peticiones y reclamaciones;
+II. Convocar y presidir las sesiones del Consejo General;
 
-bien ante particulares; para pleitos y cobranzas con todas las facultades generales y aún las especiales que conforme a la Ley requieran cláusula especial o expresa; y para actos de administración. Para otorgar poderes y para realizar actos de dominio sobre inmuebles destinados a la Comisión, el Presidente requerirá de la autorización del Pleno (sic);
+III. Proponer anualmente al Consejo General el anteproyecto de presupuesto del Instituto para su aprobación;
 
-II (sic). Convocar y presidir las sesiones del Pleno;
-
-III. Proponer anualmente al Pleno el anteproyecto de presupuesto de la Comisión para su aprobación;
-
-IV. Someter a la aprobación del Pleno, el Informe Anual sobre actividades y resultados a que se refiere el artículo 70 de la Ley;
+IV. Someter a la aprobación del Consejo General, el Informe Anual sobre actividades y resultados a que se refiere el artículo 70 de la Ley;
 
 V. Establecer vínculos institucionales con los órdenes de gobierno: federal, estatal y municipal; con instituciones del sector académico, social y privado a nivel local, nacional e internacional;
 
-VI. Suscribir convenios en representación de la Comisión con los órganos garantes de las entidades federativas que cuenten con centros o institutos de investigación en materia de acceso a la información, transparencia y rendición de cuentas;
+VI. Suscribir convenios en representación del Instituto con los órganos garantes de las entidades federativas que cuenten con centros o institutos de investigación en materia de acceso a la información, transparencia y rendición de cuentas, y
 
-VII. Las demás que se deriven de la Ley, de otras disposiciones aplicables y las que disponga el Pleno.
+VII. Las demás que se deriven de la Ley, de otras disposiciones aplicables y las que disponga el Consejo General.
 
-#### SECCION IV (SIC). DE LA SECRETARIA TECNICA
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Artículo 19 (sic). La Secretaría Técnica es el área jurídica y técnica de apoyo en el despacho de los asuntos a cargo de la Comisión y de la ejecución de los acuerdos del Pleno; dependerá administrativamente del Pleno, y se integrará por un titular y el personal autorizado en el presupuesto.
+### CAPÍTULO IV. DE LA SECRETARÍA EJECUTIVA
 
-### CAPITULO IV. DEL SERVICIO CIVIL DE CARRERA
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 23.
 
-Para ser encargado del órgano interno de control se requiere:
+El Instituto contará para el cumplimiento de sus funciones con una Secretaría Ejecutiva, su titular, será nombrado por el Consejo General a propuesta del Presidente.
 
-I. Ser ciudadano mexicano, y tener como mínimo 28 años;
-
-II. Contar con título profesional de Contador Público, y experiencia en el área de al menos tres años;
-
-III. No tener antecedentes de una militancia pública o activa y notoria en algún partido político, por lo menos de tres años antes de su designación; y
-
-IV. No haber sido condenado por delito doloso.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 24.
 
-Son atribuciones del órgano interno de control:
+La Secretaría Ejecutiva es la unidad administrativa de apoyo en el despacho de los asuntos a cargo del Instituto y de los acuerdos tomados por el Consejo General; dependerá del Consejo General, se integrará por el titular y el personal autorizado en el presupuesto.
 
-I. Inspeccionar y fiscalizar que el ejercicio del gasto de la Comisión se haya realizado conforme a las disposiciones legales, normas y lineamientos que regulen su ejercicio, verificando que las operaciones financieras se registren contable y presupuestalmente en forma oportuna;
-
-II. Evaluar el cumplimiento programático de las metas y objetivos establecidos en los programas de la Comisión y, en su caso, determinar las desviaciones de los mismos y las causas que le dieron origen;
-
-III. Informar al Pleno acerca del Programa Anual de Auditorias, durante los primeros cuarenta y cinco días naturales del año;
-
-IV. Elaborar la normatividad aplicable a la competencia de la Contraloría, así como un sistema de rendición de cuentas clara, transparente y oportuna, y presentarla al Pleno;
-
-V. Realizar auditorías y revisiones de control a las unidades administrativas de la Comisión, previa programación;
-
-VI. Mostrar el avance de sus respectivos programas y proyectos al Pleno en forma trimestral;
-
-VII. Asistir a los actos de entrega-recepción de los servidores públicos de la Comisión, de mandos medios y superiores, con motivo de la separación del encargo, empleo o comisión;
-
-VIII. Realizar acciones preventivas para el adecuado cumplimiento de las normas aplicables a la operación interna de la Comisión, así como contribuir en el diseño y revisión de los manuales administrativos y demás normas que faciliten su organización y funcionamiento; y
-
-IX. Las demás que señalen las leyes que le resulten aplicables.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 25.
 
-La Comisión para el debido cumplimiento de sus funciones se auxiliará de las siguientes Coordinaciones:
+Para ser Secretario Ejecutivo se requiere:
 
-a. Coordinación de Administración y Finanzas;
+I. Ser ciudadano mexicano (a) tener como mínimo 28 años al día de su nombramiento;
 
-b. Coordinación de Difusión y Comunicación;
+II. Poseer título profesional de Licenciatura en general y cédula profesional, con experiencia mínima en el ejercicio de la profesión de tres años;
 
-c. Coordinación de Capacitación y Cultura de la Transparencia;
+III. No tener antecedentes de una militancia pública o activa y notoria en algún partido político, por lo menos de tres años antes de su designación;
 
-d. Coordinación de Vinculación con los Sujetos Obligados;
+IV. Gozar de buena reputación y de reconocido prestigio, y no haber sido condenado por delito doloso.
 
-e. Coordinación Jurídica;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 26.
 
-Son atribuciones generales de los titulares de las Coordinaciones de la Comisión:
+Son atribuciones de la Secretaría Ejecutiva:
 
-I. Planear, programar y dirigir el desarrollo de los programas y acciones encomendadas a su cargo;
+I. Apoyar al Consejo General y cumplir sus determinaciones, y a los Consejeros en el ejercicio de sus atribuciones;
 
-II. Colaborar en la elaboración del proyecto del programa operativo anual, y el anteproyecto de presupuesto relativo al área a su cargo;
+II. Elaborar el anteproyecto del programa anual de trabajo y el anteproyecto de presupuesto, con la participación de las unidades administrativas;
 
-III. Presentar a través de la Secretaría Ejecutiva, los informes trimestrales sobre los avances y resultados alcanzados, mismos que serán presentados al Pleno;
+III. Dar seguimiento a los avances del programa anual de trabajo, informando de manera sistemática a los Consejeros (as), y presentar al Consejo General por conducto del Consejero (a) Presidente (a), los informes periódicos de cada una de las unidades administrativas de su adscripción, respecto a los avances de sus programas de trabajo;
 
-IV. Actualizar conforme a la periodicidad indicada, la información pública de oficio establecida por la Ley que le corresponda e incorporarla al portal de internet de la Comisión, siendo responsable de la misma;
+IV. Proponer al Consejo General estrategias para un mejor desempeño de las unidades administrativas de su adscripción, dar seguimiento a la implementación de estudios, proyectos y asuntos encomendados;
 
-V. Atender las solicitudes de información pública conforme a la Ley, los lineamientos de Infomex y demás disposiciones en la materia;
+V. Coordinar la elaboración del informe anual de actividades y resultados del Instituto, que el Consejero (a) Presidente (a) presentará en el Consejo General, para su aprobación, así como al H. Congreso del Estado;
 
-VI. Clasificar sus respectivos documentos activos, así como enviar los correspondientes al archivo en trámite, de concentración e histórico de conformidad a la normatividad que para tal efecto se emita;
+VI. Supervisar que las unidades administrativas del Instituto actualicen la información pública de oficio, en términos de la Ley, así como revisar y actualizar los contenidos de la página principal del portal de internet del Instituto;
 
-VII. Asesorar técnicamente en asuntos de su competencia a los Comisionados y demás servidores públicos de la Comisión;
+VII. Diseñar en colaboración con las unidades administrativas del Instituto, los indicadores de gestión del Instituto;
 
-VIII. Coordinarse con los titulares o con los servidores públicos de otras unidades administrativas, cuando así se requiera, para el mejor funcionamiento de la Comisión;
+VIII. Brindar apoyo al Consejero (a) Presidente (a) en la supervisión de los trabajos realizados por las unidades administrativas de su ámbito de competencia;
 
-IX. Formular opiniones, informes y desahogar las consultas relacionadas con el ámbito de su competencia;
+IX. Coordinar las actividades encomendadas por el Consejo General que el Instituto realice en forma conjunta con organizaciones sociales, políticas y privadas, así como con los sujetos obligados;
 
-X. Informar a la Secretaría Técnica sobre el cumplimiento de asuntos aprobados por el Pleno, que sean de su competencia;
+X. Presentar y validar la información, estados financieros y los documentos del ámbito de su competencia que le sean requeridos;
 
-XI. Acordar con el Presidente los asuntos cuya tramitación requiera de su intervención de acuerdo con el ámbito de su competencia;
+XI. Informar al Consejo General por conducto de la Presidencia, sobre las actividades a su cargo;
 
-XII. Proponer al Presidente la designación del personal a su cargo, y participar en su capacitación;
+XII. Recabar en coordinación con la Secretaría Técnica, los informes, reportes, estadísticas, indicadores y demás información, que permitan evaluar el desempeño del Instituto;
 
-XIII. Vigilar el cumplimiento de la Ley, el presente Reglamento y demás disposiciones aplicables; y
+XIII. Las demás que determine el Consejero (a) Presidente (a), y
 
-XIV. Las demás que les confiera el Pleno, así como las disposiciones legales y administrativas que les sean aplicables.
+XIV. Las demás que señalen las disposiciones legales y administrativas que le sean aplicables.
 
-a. Coordinación de Administración y Finanzas
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-### CAPITULO V. DE LAS AUSENCIAS Y LICENCIAS
+### CAPÍTULO V. DE LA SECRETARIA TÉCNICA
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 27.
 
-La Coordinación de Administración y Finanzas depende de la Secretaría Ejecutiva y es la encargada de brindar servicios de atención a los empleados de la Comisión; es responsable de aplicar los recursos financieros y materiales con eficacia, racionalidad y oportunidad, así como administrar los recursos humanos de la Comisión.
+El Instituto contará para el cumplimiento de sus funciones con una Secretaría Técnica, su titular, será nombrado (a) por el Consejo General a propuesta del Presidente.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 28.
 
-Para ser Coordinador de Administración y Finanzas, se requiere:
+La Secretaría Técnica es el área jurídica y técnica de apoyo en el despacho de los asuntos a cargo del Instituto y de la ejecución de los acuerdos del Consejo General; dependerá del Consejo General, y se integrará por un titular y el personal autorizado en el presupuesto.
 
-I. Ser ciudadano mexicano, y tener como mínimo 28 años;
-
-II. Contar con título profesional de Licenciado en Administración de Empresas, o de Contador Público, y experiencia en el área de al menos tres años;
-
-III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación; y
-
-IV. No haber sido condenado por delito doloso.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 29.
 
-Son atribuciones de la Coordinación de Administración y Finanzas:
+Para ser Secretario Técnico se requiere:
 
-I. Administrar los recursos humanos, financieros y materiales asignados a la Comisión;
+I. Ser ciudadano mexicano (a), tener como mínimo 28 años al día de su nombramiento;
 
-II. Definir e implementar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales, así como de prestación de servicios generales en la Comisión;
+II. Poseer título profesional de Licenciado en Derecho y cédula profesional, con experiencia mínima en el ejercicio de la profesión de tres años;
 
-III. Elaborar el anteproyecto de presupuesto, con el apoyo de las áreas, y participar en la integración del proyecto de programa operativo anual de la Comisión;
+III. No tener antecedentes de una militancia pública o activa y notoria en algún partido político, por lo menos de tres años antes de su designación;
 
-IV. Integrar el programa anual de adquisiciones, arrendamientos y prestación de servicios, y de obra pública, así como presidir el Comité correspondiente;
+IV. Gozar de buena reputación y de reconocida probidad, y no haber sido condenado por delito doloso.
 
-V. Coordinar la gestión para el otorgamiento de las prestaciones a los trabajadores de la Comisión;
-
-VI. Cubrir las remuneraciones y prestaciones del personal de la Comisión;
-
-VII. Proponer al Presidente para su autorización, las afectaciones presupuestales que se requieran, así como aquellas que deberán de ser sometidas al Pleno para su autorización;
-
-VIII. Cumplir con todas las normas y disposiciones legales a las que la Comisión se encuentre obligada en materia presupuestal y financiera, de recursos humanos y de recursos materiales, así como fiscal;
-
-IX. Realizar las acciones necesarias para garantizar los servicios médicos básicos y otros servicios que garanticen la salud y bienestar de los trabajadores de la Comisión;
-
-X. Proponer las medidas técnicas, administrativas y financieras para la mejor organización y funcionamiento de la Comisión;
-
-XI. Elaborar conjuntamente con las diversas áreas administrativas de la Comisión, los proyectos del manual de organización, procedimientos y sus actualizaciones respectivas;
-
-XII. Llevar el control de los vehículos al servicio de la Comisión;
-
-XIII. Integrar programas de capacitación permanente para el personal de la Comisión, a fin de actualizar los conocimientos, en materia de acceso a la información, que permitan el mejor desempeño de las funciones;
-
-XIV. Implementar programas de mantenimiento a las instalaciones de la Comisión;
-
-XV. Informar periódicamente al Presidente o a solicitud de éste, de la disponibilidad en el presupuesto para el seguimiento de los proyectos;
-
-XVI. Custodiar el archivo de concentración e histórico de la Comisión;
-
-XVII. Atender y resolver los asuntos administrativos relacionados con el personal de la Comisión; y
-
-XVIII. Las demás disposiciones legales y administrativas que le sean aplicables.
-
-b. Coordinación de Difusión y Comunicación
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 30.
 
-La Coordinación de Difusión y Comunicación depende de la Secretaría Ejecutiva y es el área encargada de establecer, difundir y fortalecer la relación entre la Comisión y los diferentes medios de comunicación, promoviendo con éstos una relación de respeto y de colaboración mutua.
+Son atribuciones de la Secretaría Técnica:
 
-### CAPITULO VI. DE LA RESPONSABILIDAD DEL PERSONAL DE LA COMISIÓN
+I. Elaborar el programa anual de sesiones del Consejo General;
+
+II. Elaborar el proyecto del orden del día de las sesiones ordinarias y extraordinarias, previo acuerdo con el Consejero (a) Presidente (a), así como integrar la documentación que sustenten los asuntos correspondientes;
+
+III. Citar a los Consejeros (as) a las sesiones ordinarias y extraordinarias oportunamente, remitiendo el orden del día y la documentación necesaria;
+
+IV. Dar fe de lo actuado y levantar el acta correspondiente de cada sesión, así como los acuerdos y demás disposiciones que se aprueben en las mismas, y recabar la firma de los consejeros que participaron en ellas;
+
+V. Incorporar las modificaciones aprobadas a los documentos sometidos a consideración del Consejo General, con el apoyo de las áreas correspondientes;
+
+VI. Proporcionar a los Consejeros (as) el apoyo necesario para la integración y sustanciación de los recursos, peticiones y reclamaciones;
+
+VII. Sugerir al Consejero (a) ponente la celebración de audiencias entre las partes involucradas y proveer al respecto;
+
+VIII. Vigilar que se lleve a cabo la notificación de las resoluciones, acuerdos y recomendaciones que emita el Consejo;
+
+IX. Representar al Instituto en los asuntos que el Consejo General determine;
+
+X. Dar seguimiento e informar a los Consejeros (as) trimestralmente y en forma sistemática sobre el cumplimiento de los acuerdos, resoluciones y cualquier determinación emitida por el Consejo General;
+
+XI. Elaborar y ejecutar los planes, programas y proyectos de promoción de la cultura de transparencia, acceso a la información pública y protección de datos personales;
+
+XII. Elaborar el compendio sobre los procedimientos de acceso a la información pública en el estado;
+
+XIII. Brindar apoyo al Presidente (a) en la supervisión de los trabajos de las unidades administrativas del Instituto en su respectivo ámbito de competencia;
+
+XIV. Recibir y dar cuenta de la correspondencia institucional, así como coordinar la integración del archivo de trámite;
+
+XV. Realizar en coordinación con la Secretaría Ejecutiva, los anteproyectos de informes sobre presuntas infracciones a la Ley;
+
+XVI. Informar al Consejo General sobre las actividades a su cargo;
+
+XVII. Coordinar la elaboración del Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental y la Guía Simple de Archivos del Instituto;
+
+XVIII. Proponer proyectos para la adquisición de tecnologías de la información para los archivos, así como para la digitalización de los documentos de archivo o para la gestión, administración y conservación de los documentos electrónicos;
+
+XIX. Participar con derecho a voz en las sesiones del Consejo General, auxiliando al Presidente (a) en la conducción de las mismas; declarar la existencia del quórum y certificar sobre lo actuado en las sesiones, y
+
+XX. Las demás disposiciones legales y administrativas que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 31.
 
-Para ser Coordinador de Difusión y Comunicación, se requiere:
+El órgano interno de control, está dedicado a la prevención e implementación de los controles necesarios para el buen funcionamiento de los recursos; se ubica a nivel staff y depende del Consejo General.
 
-I. Ser ciudadano mexicano, y tener como mínimo 28 anos;
-
-II. Contar con título profesional de licenciatura en general, y experiencia en el área de al menos tres años;
-
-III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres anos antes de su designación; y
-
-IV. No haber sido condenado por delito doloso.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 32.
 
-Son atribuciones de la coordinación de Difusión y Comunicación:
+Para ocupar el cargo de Titular del Órgano Interno de Control se requiere:
 
-I. Elaborar y proponer al Pleno, la política de comunicación social de la Comisión, así como su correspondiente actualización;
+I. Ser ciudadano mexicano(a), tener como mínimo 28 años al día de su nombramiento;
 
-II. Elaborar, ejecutar y evaluar los programas y proyectos de difusión y comunicación social en materia de transparencia y acceso a la información, contenidos en el programa operativo anual aprobado por el Pleno;
+II. Poseer título profesional de Contador Público, con experiencia mínima en el ejercicio de la profesión de tres años;
 
-III. Elaborar los comunicados de prensa necesarios para la difusión de las actividades que realice la Comisión, así como las decisiones del Pleno;
+III. No tener antecedentes de una militancia pública o activa y notoria en algún partido político, por lo menos de tres años antes de su designación;
 
-IV. Coordinar las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades de la Comisión;
+IV. Gozar de buena reputación y de reconocido prestigio, y no haber sido condenado por delito doloso.
 
-V. Implementar los mecanismos que permitan un permanente flujo de información Institucional y atención a los representantes de los medios de comunicación escritos y electrónicos;
-
-VI. Elaborar anualmente las memorias de los eventos realizados por la Comisión, así como el programa editorial de la Comisión, con el apoyo de las unidades administrativas;
-
-VII. Dar seguimiento en los medios de comunicación a los temas que competan a la Comisión;
-
-VIII. Coordinar la distribución de las publicaciones que genere la Comisión, a los sujetos obligados, instituciones académicas, organizaciones sociales y privadas;
-
-IX. Dar seguimiento y difusión a las actividades de las diferentes unidades de la Comisión;
-
-X. Coadyuvar en la elaboración de programas en relación con la difusión de la cultura de la transparencia;
-
-XI. Coordinar con los sujetos obligados la divulgación de información, publicaciones y publicidad de la Comisión, así como concertarla con los sectores social y privado;
-
-XII. Promover el periodismo de investigación como herramienta del acceso a la información; y
-
-XIII. Las demás que le encomiende el Pleno, el Presidente y las que se deriven del presente Reglamento.
-
-c. Coordinación de Capacitación y Cultura de la Transparencia
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 33.
 
-La Coordinación de Capacitación y Cultura de la Transparencia depende de la Secretaría Ejecutiva y es el área encargada de capacitar a los servidores públicos de los diferentes sujetos obligados y a la sociedad civil, así como de promover la cultura de la transparencia y el acceso a la información pública en la sociedad.
+Son atribuciones del órgano interno de control:
 
-### CAPITULO VII. DE LAS REFORMAS AL REGLAMENTO INTERIOR
+I. Inspeccionar y fiscalizar que el ejercicio del gasto del Instituto se haya realizado conforme a las disposiciones legales, normas y lineamientos que regulen su ejercicio, verificando que las operaciones financieras se registren contable y presupuestalmente en forma precisa y oportuna;
+
+II. Dar seguimiento y evaluar el cumplimiento programático de las metas y objetivos establecidos en los programas del Instituto y, en su caso, determinar las desviaciones de los mismos y las causas que le dieron origen;
+
+III. Informar al Consejo General acerca del programa anual de trabajo del Órgano Interno de Control, durante los primeros cuarenta y cinco días naturales del año;
+
+IV. Elaborar y proponer al Consejo General la normatividad aplicable a la competencia de la Contraloría, así como un sistema de rendición de cuentas claro, transparente y oportuno;
+
+V. Realizar auditorías y revisiones de control y evaluación a las unidades administrativas del Instituto, previa programación;
+
+VI. Mostrar el avance de sus respectivos programas y proyectos al Consejo General en forma trimestral;
+
+VII. Vigilar que se lleven a cabo los actos de entrega-recepción de los servidores públicos del Instituto, de mandos medios y superiores, con motivo de la separación del encargo, empleo o comisión;
+
+VIII. Realizar acciones preventivas para el adecuado cumplimiento de las normas aplicables a la operación interna del Instituto, así como contribuir en el diseño y revisión de los manuales administrativos y demás normas que faciliten su organización y funcionamiento;
+
+IX. Iniciar y dar seguimiento a los procedimientos de responsabilidad administrativa que señalan las disposiciones legales aplicables; y
+
+X. Las demás que señalen las leyes que le resulten aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VII. DE LAS COORDINACIONES
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 34.
 
-Para ser Coordinador de Capacitación y Cultura de la Transparencia, se requiere:
+Para el debido cumplimiento de sus atribuciones el instituto se auxiliará de las siguientes coordinaciones:
 
-I. Ser ciudadano mexicano, y tener como mínimo 28 años;
+I. Comunicación Social;
 
-II. Contar con título profesional de licenciatura en general, y experiencia en el área de al menos tres años;
+II. Gestión Administrativa;
+
+III. Contabilidad;
+
+IV. Sistemas;
+
+V. Verificación y Seguimiento a Sujetos Obligados;
+
+VI. Promoción y Vinculación;
+
+VII. Jurídica;
+
+VIII. Protección de Datos Personales, y
+
+IX. Capacitación y Cultura de la Transparencia.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 35.
+
+Son atribuciones generales de las coordinaciones del Instituto:
+
+I. Participar en la planeación, diseño, programación, implementación, seguimiento y evaluación de los proyectos y actividades de la unidad administrativa a su cargo;
+
+II. Colaborar en la elaboración del proyecto del programa anual de trabajo, y el anteproyecto de presupuesto relativo a las actividades y proyectos a su cargo;
+
+III. Elaborar, conforme a los lineamientos establecidos, los informes sobre los avances y resultados alcanzados por la unidad administrativa a su cargo, mismos que serán presentados al Consejo General, por conducto de la Secretaría de su adscripción;
+
+IV. Actualizar, con la periodicidad establecida, la información pública de oficio correspondiente a su área de responsabilidad e incorporarla al portal de internet del Instituto, por conducto de la Coordinación de Sistemas;
+
+V. Atender las solicitudes de información pública conforme a la Ley, el procedimiento establecido y las demás disposiciones aplicables;
+
+VI. Catalogar los documentos activos que se generen en su área, así como enviar los correspondientes al archivo de trámite, de concentración, o histórico, de conformidad a la normatividad vigente;
+
+VII. Asesorar técnicamente en asuntos de su competencia a los consejeros, y demás servidores públicos del Instituto;
+
+VIII. Coordinar sus actividades con los servidores públicos de otras unidades administrativas para el mejor funcionamiento del Instituto;
+
+IX. Formular opiniones, informes y desahogar las consultas relacionadas con su ámbito de competencia;
+
+X. Informar a la Secretaría Técnica o la Secretaría Ejecutiva, según corresponda a su adscripción y, por estos conductos, a la Presidencia y al Consejo, sobre el cumplimiento de acuerdos aprobados por el Consejo, que sean de su competencia;
+
+XI. Acordar con la Secretaría Técnica o la Secretaría Ejecutiva, según corresponda a su adscripción, los asuntos de su competencia cuya ejecución requiera de su intervención y aprobación; y
+
+XII. Las demás que le confiera el Consejo, en el marco de las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN I. DE LA COORDINACION (SIC) COMUNICACIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 36.
+
+La Coordinación de Comunicación Social es la unidad administrativa staff del Consejo General, responsable de establecer, difundir y fortalecer la relación entre el Instituto y los diferentes medios de comunicación, promoviendo con estos una relación de respeto y de colaboración mutua.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 37.
+
+Para ser titular de la Coordinación de comunicación social se requiere:
+
+I. Ser ciudadano mexicano (a), tener como mínimo 28 años al día de su nombramiento;
+
+II. Poseer título profesional de licenciatura en general y cédula profesional, con experiencia mínima en el ejercicio de la profesión de tres años;
+
+III. No tener antecedentes de una militancia pública o activa y notoria en algún partido político, por lo menos de tres años antes de su designación;
+
+IV. Gozar de buena reputación y de reconocido prestigio, y no haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 38.
+
+Son atribuciones de la Coordinación de Comunicación Social:
+
+I. Proponer al Consejo General las políticas y los proyectos de comunicación del Instituto.
+
+II. Ejecutar los programas y proyectos de comunicación social en materia de transparencia, acceso a la información y de protección de datos personales contenidos en el programa anual de trabajo aprobado por el Consejo General;
+
+III. Elaborar los comunicados de prensa necesarios para la difusión de las actividades que realice el Instituto, así como las decisiones del Consejo General;
+
+IV. Coordinar las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades del Instituto;
+
+V. Elaborar una síntesis diaria de las noticias relevantes de los medios de comunicación relacionadas con el Instituto;
+
+VI. Implementar los mecanismos que permitan un permanente flujo de información institucional y atención a los representantes de los medios de comunicación escritos y electrónicos;
+
+V (SIC). Elaborar en conjunto con la Coordinación de Promoción y Vinculación las memorias de los eventos realizados por el Instituto, con el apoyo de las unidades administrativas;
+
+VII (SIC). Coordinar la logística relacionada con la organización y desarrollo de los eventos que realice el Instituto, en conjunto con la Coordinación de Promoción y Vinculación;
+
+VIII. Publicar las actividades de las diversas áreas y resoluciones del Consejo General;
+
+IX. Acatar las políticas de comunicación social aprobadas por el Consejero(a) Presidente;
+
+X. Coadyuvar en la elaboración de programas en relación con comunicación social de la cultura de la transparencia, y las demás que le encomiende el Consejo General.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN II. DE LA COORDINACIÓN DE GESTIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 39.
+
+La Coordinación de Gestión Administrativa, adscrita a la Secretaría Ejecutiva, es responsable de administrar, custodiar y ejercer los recursos financieros y materiales, implementar el servicio profesional de carrera del Instituto, así como gestionar el sistema de recursos humanos, con honradez, imparcialidad, eficacia, eficiencia, transparencia, racionalidad, economía, oportunidad y responsabilidad social.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 40.
+
+Para ser Coordinador (a) de Gestión Administrativa, se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional de licenciado en Administración, Contaduría, o carreras afines, cédula profesional y experiencia en el área de al menos tres años;
+
+III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación, y
+
+IV. No haber sido condenado (a) por delito doloso.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 41.
+
+Son atribuciones de la Coordinación de Gestión Administrativa:
+
+I. Administrar los recursos humanos, financieros y materiales del Instituto;
+
+II. Proponer e instrumentar las bases del servicio profesional de carrera del Instituto, de conformidad con lo establecido en el capítulo IV del presente Reglamento;
+
+III. Proponer e implementar las políticas, lineamientos, normas, procesos y procedimientos para la administración de los recursos humanos, financieros y materiales, y la operación de los servicios generales en el Instituto;
+
+IV. Elaborar y proponer el anteproyecto de presupuesto, con la participación de las unidades administrativas del Instituto, y participar en la integración del proyecto de programa anual de trabajo;
+
+V. Integrar el programa anual de adquisiciones, arrendamientos y prestación de servicios, y de obra pública, así como presidir el Comité correspondiente;
+
+VI. Proponer e implementar la política laboral del Instituto y coordinar la gestión para el otorgamiento de las prestaciones a los trabajadores del Instituto;
+
+VII. Cubrir las remuneraciones y prestaciones del personal del Instituto;
+
+VIII. Proponer al Presidente para su autorización, las afectaciones presupuestarias que se requieran, así como aquellas que deberán de ser sometidas al Consejo General para su autorización;
+
+IX. Cumplir con las disposiciones legales aplicables en materia presupuestaria, fiscal, financiera, laboral, patrimonial, de recursos materiales, seguridad, protección civil y medio ambiente;
+
+X. Realizar las acciones necesarias para garantizar los servicios médicos básicos y otros servicios que garanticen la salud y bienestar del personal del Instituto;
+
+XI. Proponer procesos y medidas técnicas, laborales, administrativas y financieras para la mejora continua de la organización y funcionamiento del Instituto;
+
+XII. Participar conjuntamente con las diversas unidades administrativas del Instituto, en el diseño y operación de procesos de su competencia y en la elaboración de manuales de organización y procedimientos y sus actualizaciones respectivas;
+
+XIII. Llevar el control y mantenimiento de los vehículos al servicio del Instituto.
+
+XIV. Proponer e implementar programas de capacitación permanente para el personal del Instituto, que permitan la mejora continua del desempeño de sus funciones;
+
+XV. Implementar medidas adecuadas de mantenimiento y resguardo de los bienes muebles e infraestructura, instalaciones e inventarios del Instituto;
+
+XVI. Informar al Consejo, por conducto de la Secretaría Ejecutiva, con la periodicidad que se requiera, los avances en el ejercicio del presupuesto.
+
+XVII. Custodiar el archivo de concentración e histórico del Instituto;
+
+XVIII. Atender y resolver, con la colaboración de las unidades administrativas que corresponda, los asuntos administrativos y laborales relacionados con el personal del Instituto; y
+
+XIX. Las demás que le sean asignadas en el marco de las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN III. DE LA COORDINACIÓN DE CONTABILIDAD
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 42.
+
+La Coordinación de Contabilidad se adscribe a la Secretaría Ejecutiva y es la encargada de programar, coordinar y ejecutar los procesos técnicos de contabilidad y control previo, proporcionando información exacta, transparente, adecuada y oportuna para la toma de decisiones, conforme a lo establecido en la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, así como proponer normas, procesos, sistemas y procedimientos para el procesamiento y presentación periódica de los estados financieros contables, presupuestarios y programáticos, y la Cuenta Pública Anual, así como cualquier información contable para usos externo e interno.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 43.
+
+Para ser Coordinador (a) de Contabilidad, se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional de Contador Público o carreras afines y cédula profesional, y experiencia en el área de al menos tres años;
+
+III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación; y
+
+IV. No haber sido condenado (a) por delito doloso.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 44.
+
+Son atribuciones de la Coordinación de Contabilidad:
+
+I. Proponer, coordinar y ejecutar los procesos, métodos y procedimientos necesarios para garantizar que el sistema contable del Instituto facilite el control y la fiscalización de los activos, pasivos, ingresos, costos, gastos, avance en la ejecución de programas y, en general, de manera que permitan medir la eficacia, eficiencia y economía del gasto;
+
+II. Realizar las actividades pertinentes para garantizar que el sistema contable del Instituto, así como las modificaciones que se generen por motivos de su actualización, cuenten con las autorizaciones legales para su funcionamiento y operación;
+
+III. Recopilar y custodiar la documentación comprobatoria, técnica y administrativa necesaria para la operación del sistema de contabilidad del Instituto, en un marco de honradez, legalidad, transparencia, eficiencia y eficacia;
+
+IV. Mantener actualizados los registros contables del Instituto en los términos que establece la Ley General de Contabilidad Gubernamental, la normativa emitida por la (sic) Consejo Nacional de Armonización Contable (CONAC), y demás disposiciones legales aplicables;
+
+V. Emitir por escrito las principales políticas contables necesarias para asegurar que las cuentas se operen bajo bases eficientes y consistentes;
+
+VI. Actualizar el Manual de Contabilidad del Instituto, de manera que satisfagan las necesidades institucionales de control y fiscalización de la información, relativa a los activos, pasivos, ingresos, costos, gastos y avance en la ejecución del presupuesto y el programa anual de trabajo;
+
+VII. Elaborar los estados financieros del Instituto de conformidad con las normas aplicables y en los periodos marcados por las leyes respectivas;
+
+VIII. Realizar conciliaciones bancarias mensuales contra los saldos reportados en los estados de cuenta, para garantizar la exactitud en el registro de fondos, y una correcta toma de decisiones;
+
+IX. Depurar permanentemente los registros contables y presupuestarios;
+
+X. Analizar y validar la información para elaborar los estados financieros;
+
+XI. Preparar los datos que conforman la Cuenta Pública y demás información complementaria que requieran las autoridades fiscalizadoras, relativas al cumplimiento del ejercicio del presupuesto y el desempeño del programa anual de trabajo;
+
+XII. Mantener permanentemente actualizados los archivos de la documentación sustentadora de los registros contables, estableciendo las medidas necesarias para su adecuada custodia, conservación y seguridad;
+
+XIII. Elaborar y presentar al Consejo, por conducto de la Secretaría Ejecutiva, los informes, estados financieros y documentos del ámbito de su competencia que le sean requeridos, conforme a las disposiciones de su competencia, y
+
+XIV. Las demás que le sean asignadas en el marco de las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN IV. DE LA COORDINACIÓN DE SISTEMAS
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 45.
+
+La Coordinación de Sistemas es la unidad administrativa adscrita a la Secretaría Ejecutiva, con el objetivo de otorgar servicios de soporte y administración de la infraestructura tecnológica del Instituto, así como coadyuvar en los procesos de planeación institucional, gestión y seguimiento de los sistemas y tecnologías de la información, con el fin de facilitar la toma de decisiones y agilizar los procesos realizados por usuarios internos y externos.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 46.
+
+Para ser Coordinador (a) de Sistemas, se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional en las áreas de conocimiento afines a las responsabilidades del puesto, cédula profesional, y experiencia en el área de al menos tres años;
 
 III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación, y
 
 IV. No haber sido condenado por delito doloso.
 
-###### Artículo 35.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Son atribuciones de la Coordinación de Capacitación y Cultura de la Transparencia:
+###### Artículo 47.
 
-I. Elaborar, ejecutar y evaluar los programas y proyectos de capacitación en materia de transparencia, acceso a la información, protección de datos personales y demás temas afines;
+Son atribuciones de la Coordinación de Sistemas:
 
-II. Coadyuvar en la elaboración del programa anual de cultura de la transparencia y acceso a la información pública;
+I. Mantener los sistemas informáticos en condiciones estables de seguridad y protección, así como implementar herramientas que apoyen la ejecución y gestión de los procesos internos;
 
-III. Promover la cultura de la transparencia y acceso a la información pública a través de la elaboración y publicación de materiales educativos y formativos, en coordinación con el área de comunicación;
+II. Formular, implantar, ejecutar, controlar, evaluar, actualizar y mejorar continuamente los sistemas institucionales de información y estadística;
 
-IV. Elaborar e implementar el programa de capacitación y actualización para el desarrollo de los servidores públicos de la Comisión;
+III. Coadyuvar con las unidades administrativas que corresponda, en el diseño de procesos y procedimientos para la realización de sondeos y encuestas que se requieran para medir y evaluar el impacto de las actividades y resultados del Instituto;
 
-V. Promover en las instituciones educativas en todos los niveles que incluyan en sus planes y programas de estudio temas que versen sobre transparencia, acceso a la información y rendición de cuentas;
+IV. Gestionar la plataforma tecnológica que permita proveer al Instituto de servicios informáticos de alta disponibilidad, seguridad y confiabilidad;
 
-VI. Realizar en forma conjunta con el área correspondiente la adaptación de documentos de contenido jurídico para el público en general;
+V. Gestionar y mantener servicios de soporte técnico para usuarios internos que permitan la continuidad operativa de su equipo y servicios tecnológicos;
 
-VII. Organizar cursos, seminarios, talleres o cualquier otro evento dirigido a los sujetos obligados y sociedad civil, con la finalidad de actualizar y capacitar permanentemente a los servidores públicos en materia de transparencia, acceso a la información y protección de datos personales;
+VI. Efectuar el mantenimiento preventivo y correctivo del hardware, software y la conectividad institucional de las estaciones de trabajo de los servidores públicos, para asegurar la prestación oportuna de los servicios institucionales;
 
-VIII. Diseñar, instrumentar y evaluar el sistema estadístico, sondeos y encuestas que se requieran;
+VII. Proponer y adoptar las medidas para el resguardo de los sistemas relativos a las atribuciones del Instituto, a efecto de asegurar que se evite su alteración, pérdida o acceso no autorizado;
 
-IX. Establecer mecanismos de capacitación para promover el efecto multiplicador del conocimiento en materia de transparencia y acceso a la información pública para la sociedad en general;
+VIII. Actualizar con la periodicidad requerida la información de la página web del Instituto, en colaboración con las unidades administrativas;
 
-X. Proponer al Pleno, a través del Presidente, los medios para crear el acervo documental en materia de acceso a la información, así como coordinar las acciones que deriven en el establecimiento del Centro de Documentación correspondiente;
+IX. Asesorar y capacitar en materia informática y de tecnologías de la información, al personal del Instituto para la mejora continua del desempeño de sus funciones;
 
-XI. Impulsar la suscripción de convenios con instituciones de educación superior del sector público y privado;
+X. Proponer, implementar y evaluar proyectos y actividades para el desarrollo de sistemas y tecnologías de la información del Instituto;
 
-XII. Elaborar y difundir el material didáctico sobre los procedimientos y trámites materia de la Ley y temas afines; y
+XI. Participar con las demás unidades administrativas en las actividades y proyectos de planeación, organización, seguimiento y evaluación del Instituto;
 
-XIII. Las demás disposiciones legales y administrativas que le sean aplicables.
+XII. Realizar estudios y análisis para la detección de necesidades de sistemas y servicios del Instituto;
 
-d. Coordinación de Vinculación con los Sujetos Obligados
+XIII. Las demás que le confiera el Consejo, en el marco de las disposiciones legales y administrativas aplicables;
 
-#### SECCION III. DE LA SECRETARIA EJECUTIVA
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Artículo 16 (sic). La Secretaría Ejecutiva es el área técnica, académica y administrativa de apoyo en el despacho de los asuntos a cargo de la Comisión y de los acuerdos tomados por el Pleno; dependerá administrativamente del Pleno, y se integrará por el titular y el personal autorizado en el presupuesto.
+#### SECCIÓN V. DE LA COORDINACIÓN DE VERIFICACIÓN Y SEGUIMIENTO A SUJETOS
 
-###### Artículo 36.
+OBLIGADOS
 
-La Coordinación de Vinculación con los Sujetos Obligados depende de la Secretaría Ejecutiva y es el área encargada de establecer contacto con los sujetos obligados por la Ley, para desarrollar lazos de comunicación, vigilar la adecuada aplicación y observancia de la normatividad en materia de acceso a la información.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 37.
+Artículo 47 (sic) .- La Coordinación de Verificación y Seguimiento a Sujetos Obligados, adscrita a la Secretaría Ejecutiva, es la unidad administrativa encargada de revisar, dar seguimiento y evaluar la adecuada aplicación y observancia de la normatividad en materia de información pública de oficio, así como prestar asesoría a los sujetos obligados para integrar sus portales de transparencia en Internet, conforme a los (sic) establecido en la Ley y las demás disposiciones legales y administrativas aplicables.
 
-Para ser Coordinador de Vinculación con los Sujetos Obligados se requiere:
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-I. Ser ciudadano mexicano, y tener como mínimo 28 años;
+###### Artículo 48.
 
-II. Contar con título profesional de licenciatura en general, y experiencia en el área de al menos tres años;
+Para ser Coordinador (a) de Verificación y Seguimiento a Sujetos Obligados se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional de licenciatura en general y cédula profesional, y experiencia en el área de al menos tres años;
+
+III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación; y
+
+IV. No haber sido condenado (a) por delito doloso.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 49.
+
+Son atribuciones de la Coordinación de Verificación y Seguimiento a Sujetos Obligados:
+
+I. Proponer al Consejo General, por conducto de la Secretaría Ejecutiva, la metodología y criterios de evaluación del cumplimiento de las obligaciones establecidas en la Ley para los portales de internet de los sujetos obligados, así como las herramientas y sistemas para tales fines;
+
+II. Evaluar el cumplimiento de los sujetos obligados respecto de las obligaciones de transparencia en portales de Internet, de conformidad con la Ley y demás normatividad aplicable;
+
+III. Diseñar, proponer y aplicar indicadores sobre el registro de las solicitudes de acceso a la información y las obligaciones de transparencia en los portales de internet de los sujetos obligados;
+
+IV. Establecer comunicación permanente con las unidades de enlace y las áreas responsables de publicar y actualizar la Información pública de oficio de los sujetos obligados, para promover el cumplimiento de sus obligaciones de transparencia;
+
+V. Elaborar y actualizar el padrón de los sujetos obligados, el directorio de las unidades de enlace y de responsables de los portales de transparencia;
+
+VI. Identificar e incorporar al padrón, a los nuevos sujetos obligados;
+
+VII. Requerir a los sujetos obligados, con la periodicidad establecida, los informes de las solicitudes de acceso a la información y de protección de datos personales;
+
+VIII. Registrar y mantener actualizada la estadística e indicadores de la información pública de oficio, de las solicitudes de acceso a la información y de protección de datos personales, para efectos de seguimiento, evaluación y mejora continua;
+
+IX. Prestar asesoría al personal de los sujetos obligados para dar cumplimiento a la publicación en internet de la información pública de oficio establecida en la Ley, conforme a los lineamientos y criterios de evaluación establecidos;
+
+X. Elaborar, con la periodicidad que defina el Consejo General, los informes de las verificaciones realizadas a los portales de transparencia de los sujetos obligados, y de las solicitudes de acceso a la información y de protección de datos personales;
+
+XI. Realizar visitas de verificación y seguimiento a las unidades de enlace y elaborar las actas respectivas;
+
+XII. Proponer las medidas de apremio por incumplimiento u omisión de la información pública de oficio de los sujetos obligados, y
+
+XIII. Las demás que le asigne el Consejo General, derivadas de las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 50.
+
+La Coordinación de Promoción y Vinculación es la unidad administrativa adscrita a la Secretaría Técnica, con el objeto de diseñar, proponer, establecer, ejecutar y evaluar las actividades y proyectos de promoción y vinculación institucional, y fortalecer las relaciones de colaboración del Instituto con los sujetos obligados, instituciones educativas y de investigación, así como con los distintos sectores sociales, en el marco del sistema nacional de transparencia.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN VI. DE LA COORDINACIÓN DE PROMOCIÓN Y VINCULACIÓN
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 51.
+
+Para ser Coordinador (a) de Promoción y Vinculación, se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional de licenciatura y cédula profesional, y experiencia en el área de al menos dos años;
+
+III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación; y
+
+IV. No haber sido condenado(a) por delito doloso.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 52.
+
+Son atribuciones de la Coordinación de Promoción y Vinculación
+
+I. Elaborar y actualizar con la periodicidad que se requiera, en colaboración con las demás unidades administrativas, políticas, procesos y mecanismos de promoción y vinculación del Instituto;
+
+II. Promover, con la colaboración de las unidades administrativas que corresponda, la suscripción de convenios con los sujetos obligados, instituciones educativas y de investigación, actores económicos, políticos y sociales, así como participar con las demás unidades administrativas del Instituto en su ejecución, seguimiento y evaluación;
+
+III. Formular, ejecutar, dar seguimiento y evaluar proyectos, actividades y campañas de promoción y vinculación, de las distintas materias tuteladas por el Instituto;
+
+IV. Proponer la organización y desarrollo de los eventos de su competencia que realice el Instituto en conjunto con las demás unidades administrativas;
+
+V. Diseñar y participar en la elaboración de los contenidos de los materiales educativos, didácticos y formativos relativos al derecho de acceso a la información pública, rendición de cuentas, protección de datos personales y archivos, con la colaboración de las demás unidades administrativas del Instituto;
+
+VI. Investigar, integrar y actualizar los acervos en materia de acceso a la información, rendición de cuentas, protección de datos personales y archivos;
+
+VII. Formular, en conjunto con las demás unidades administrativas del Instituto, los informes, reportes y memorias, derivados de los eventos de promoción, vinculación y capacitación, y
+
+VIII. Las demás que le sean asignadas por el Consejo en el marco de las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 53.
+
+La Coordinación Jurídica se adscribe a la Secretaría Técnica, y es la unidad administrativa encargada de realizar los procesos y procedimientos de análisis, propuesta, sustanciación y resolución de los asuntos relativos a los derechos tutelados por el Instituto;
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN VII. DE LA COORDINACIÓN JURÍDICA
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 54.
+
+Para ser Coordinador (a) Jurídico, se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional de licenciatura en Derecho y cédula profesional, y experiencia en el área de al menos tres años;
+
+III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político por lo menos de tres años antes de su designación; y
+
+IV. No haber sido condenado (a) por delito doloso.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 55.
+
+Son atribuciones de la Coordinación Jurídica:
+
+I. Coordinar el trámite de admisión conforme a la Ley, de los recursos de revisión interpuestos ante el Instituto;
+
+II. Substanciar los recursos de revisión, en los términos previstos en la Ley, el presente Reglamento y demás normatividad aplicable, así como elaborar y revisar los proyectos de resolución de los recursos de revisión, apercibimiento y sanción, aplicando los procedimientos establecidos en las Leyes;
+
+III. Proponer las sanciones por las probables violaciones y omisiones a la Ley y, en su caso, dar vista a los órganos internos de control de los sujetos obligados;
+
+IV. Representar al Instituto, previa delegación de atribuciones que le otorgue el Presidente, ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa, en los asuntos en que tenga interés o injerencia jurídica; incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes, y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica del Instituto o los de quien este represente;
+
+V. Dar seguimiento al cumplimiento de las resoluciones aprobadas por el Consejo, derivadas de la interposición de los recursos de revisión, apercibimiento y sanción, así como a la presentación de denuncias por infracciones a la Ley, informando a los Consejeros, por conducto del Presidente;
+
+VI. Notificar los acuerdos que resulten necesarios para el cumplimiento de las resoluciones que emita el Consejo General;
+
+VII. Formular normas, lineamientos, criterios y procedimientos para el acceso a la información, protección de datos personales y archivos;
+
+VIII. Elaborar lineamientos y criterios para la clasificación y desclasificación de la información reservada;
+
+IX. Compilar jurisprudencia de la Suprema Corte de Justicia de la Nación; leyes, decretos y reglamentos, así como cualquier otra disposición de carácter general relacionada con los fines del Instituto que sea publicada en los medios de comunicación oficial de la Federación, Estado y Municipios;
+
+X. Elaborar, analizar y revisar los proyectos de convenio, contratos y cualquier acto jurídico que suscriba el Instituto, así como llevar un registro para su control;
+
+XI. Coadyuvar en la revisión jurídica de las normas internas y demás ordenamientos necesarios para el funcionamiento del Instituto;
+
+XII. Asesorar jurídicamente a las demás unidades administrativas del Instituto;
+
+XIII. Dar vista a los órganos de control interno de los sujetos obligados en caso de incumplimiento a las resoluciones ordenadas por el Consejo General, derivadas de la interposición de los recursos de revisión;
+
+XIV. Coadyuvar con las diferentes unidades administrativas en los asuntos que le sean encomendados por el Consejo General, para el mejor desempeño de las funciones del Instituto;
+
+XV. Colaborar con Instituciones educativas y unidades administrativas del Instituto para desarrollar proyectos de investigación y docencia en el ámbito del derecho de acceso a la información, para su difusión;
+
+XVI. Elaborar los proyectos de normas, lineamientos y criterios que establece la Ley, y los que el Consejo General y el Consejero(a) Presidente le encomienden;
+
+XVII. Expedir copia certificada de todos aquellos documentos que obren en el archivo del Instituto, cuando sean requeridos;
+
+XVIII. Auxiliar a las Secretarías Ejecutiva y Técnica en todo proceso jurisdiccional en el que el Instituto sea parte y representarlo en los mismos procedimientos por acuerdo del Consejo General; y
+
+XIX. Las demás disposiciones legales y administrativas que le sean aplicables
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 56.
+
+La Coordinación de Protección de Datos Personales, adscrita (sic) la Secretaría Técnica, es la unidad administrativa que coadyuva a garantizar la protección de los datos personales en posesión de los sujetos obligados, y el ejercicio de los derechos de Acceso, Rectificación, Cancelación y Oposición (ARCO). Asimismo, encargada de proponer e implementar acciones institucionales para promover la investigación en materia de protección de datos personales y generar y difundir lineamientos y criterios en la materia.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN VIII. DE LA COORDINACIÓN DE PROTECCIÓN DE DATOS PERSONALES
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 57.
+
+Para ser Coordinador (a) de Protección de Datos Personales, se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional de licenciatura en disciplinas sociales y humanísticas, cédula profesional, y experiencia en el área de al menos tres años;
+
+III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación; y
+
+IV. No haber sido condenado (a) por delito doloso;
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 58.
+
+Son atribuciones de la Coordinación de Protección de Datos Personales:
+
+I. Proponer, operar y actualizar el Registro de Sistemas de Datos Personales en posesión de los sujetos obligados;
+
+II. Proponer los lineamientos que deberán observar los sujetos obligados, para elaborar los documentos de seguridad a efecto de asegurar el nivel de protección de los sistemas de datos personales, y demás formatos para recabar el consentimiento del titular de los datos y aviso de privacidad;
+
+III. Capacitar a los sujetos obligados sobre las disposiciones en materia de protección de datos personales, con la colaboración de las unidades administrativas que corresponda;
+
+IV. Promover y difundir a la sociedad la Ley y demás disposiciones administrativas en materia de protección de datos personales, con el apoyo y colaboración de las unidades administrativas que corresponda;
+
+V. Orientar y asesorar a las personas sobre el ejercicio de sus derechos de acceso, rectificación, cancelación y oposición de datos personales.
+
+VI. Diseñar, proponer, dar seguimiento, evaluar y actualizar los criterios y lineamientos de protección de datos personales para su observancia y cumplimiento por parte de los sujetos obligados;
+
+VII. Colaborar con Instituciones educativas y las unidades administrativas del Instituto, en el impulso de proyectos de investigación, docencia y difusión en materia de protección de datos personales;
+
+VIII. Proponer y dar seguimiento a las acciones que deberán observar e implementar los sujetos obligados en materia de protección de datos personales;
+
+IX. Asesorar a las unidades administrativas del Instituto en materia de protección de datos personales;
+
+X. Promover la elaboración de material didáctico en materia de protección de datos personales en posesión de sujetos obligados.
+
+XI. Elaborar y actualizar los informes sobre las actividades y resultados de los asuntos de su competencia, y
+
+XII. Las demás que le encomiende el Consejo y le confieran las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 59.
+
+La Coordinación de Capacitación y Cultura de la Transparencia depende de la Secretaría Técnica y es el área encargada de capacitar a los servidores públicos de los sujetos obligados y a los distintos sectores de la sociedad, en los temas que fomenten la investigación y la cultura de la transparencia, rendición de cuentas, acceso a la información pública, protección de datos personales y archivos.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN IX. DE LA COORDINACIÓN DE CAPACITACIÓN Y CULTURA DE LA TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 60.
+
+Para ser Coordinador (a) de Capacitación y Cultura de la Transparencia, se requiere:
+
+I. Ser ciudadano (a) mexicano (a), y tener como mínimo 28 años;
+
+II. Contar con título profesional de licenciatura y experiencia en el área de al menos tres años;
 
 III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, por lo menos de tres años antes de su designación; y
 
 IV. No haber sido condenado por delito doloso.
 
-###### Artículo 38.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Son atribuciones de la Coordinación de Vinculación y Vigilancia de los Sujetos Obligados:
+###### Artículo 61.
 
-I. Diseñar, actualizar e instrumentar, previa aprobación del Pleno, la metodología y criterios de evaluación del cumplimiento de las obligaciones de transparencia en los portales de internet de los sujetos obligados; así como los instrumentos para el análisis del ejercicio del derecho de acceso a la información pública y la protección de datos personales;
+Son atribuciones de la Coordinación de Capacitación y Cultura:
 
-II. Evaluar el cumplimiento de los sujetos obligados respecto de las obligaciones establecidas en la Ley y demás normatividad aplicable;
+I. Elaborar, ejecutar, dar seguimiento, evaluar y mejorar continuamente las actividades y proyectos de capacitación en materia de transparencia, rendición de cuentas, acceso a la información, protección de datos personales y archivos;
 
-III. Diseñar y aplicar indicadores sobre la evolución del ejercicio del derecho de acceso a la información, de las obligaciones de transparencia en los portales de internet de los sujetos obligados;
+II. Colaborar en la capacitación y actualización de los servidores públicos del Instituto;
 
-IV. Establecer la comunicación institucional con las áreas de acceso a la información pública de los sujetos obligados;
+III. Coadyuvar permanentemente con las demás unidades administrativas del Instituto en la organización y ejecución de los cursos, seminarios, talleres o cualquier otro evento de capacitación, promoción y vinculación dirigido a los sujetos obligados, actores de la sociedad y público en general;
 
-V. Elaborar y actualizar el padrón de los sujetos obligados a las obligaciones establecidas en la Ley, así como también el directorio de los titulares de las unidades de acceso a la información de los sujetos obligados;
+IV. Diseñar, proponer y establecer, en colaboración con las demás unidades administrativas, los sistemas y mecanismos de capacitación para promover el efecto multiplicador y la mejora continua del conocimiento en materia de transparencia, rendición de cuentas, acceso a la información y protección de datos personales;
 
-VI. Requerir a los sujetos obligados los informes respecto al cumplimiento de sus obligaciones conforme a la Ley;
+V. Promover, con las unidades administrativas que corresponda, en las instituciones educativas de todos los niveles, la inclusión en sus planes y programas de estudio, investigación y difusión cultural, de temas y asignaturas relacionadas con el derecho de acceso a la información pública, rendición de cuentas, protección de datos personales y archivos, y
 
-VII. Elaborar y proponer los formatos necesarios para el ejercicio del derecho de acceso a la información;
+VI. Las demás que le sean conferidas por el Consejo, en el marco de las disposiciones legales y administrativas aplicables.
 
-VIII. Proponer a la Secretaría Ejecutiva proyectos que impulsen las actividades sustantivas en el marco de la vinculación interinstitucional;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2015)</small>
 
-IX. Llevar a cabo el registro estadístico de la información pública mínima de oficio y de las solicitudes de acceso a la información;
+###### Artículo 62.
 
-X. Coordinar las relaciones de la Comisión con el sector público;
+La Unidad de Enlace es la encargada de transparentar el ejercicio de la función que realiza el Instituto, así como coadyuvar en el efectivo ejercicio del derecho de acceso a la información pública y la protección de datos personales, y depende de la Secretaría Técnica.
 
-XI. Realizar visitas de inspección periódicas a las unidades de acceso a la información pública; y
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-XII. Las demás disposiciones legales y administrativas que resulten aplicables.
+### CAPÍTULO VIII. DE LA UNIDAD DE ENLACE
 
-e. Coordinación Jurídica
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-#### SECCION II. DEL COMISIONADO PRESIDENTE
-
-###### Artículo 39.
-
-La Coordinación Jurídica depende de la Secretaría Técnica, y es el área técnica encargada de los asuntos legales de la Comisión.
-
-###### Artículo 40.
-
-Para ser Coordinador Jurídico, se requiere:
-
-I. Ser ciudadano mexicano, y tener como mínimo 28 años;
-
-II. Contar con título profesional de licenciatura en Derecho, y experiencia en el área de al menos tres años;
-
-III. No tener antecedentes de una militancia activa o pública y notoria en algún partido político por lo menos de tres años antes de su designación; y
-
-IV. No haber sido condenado por delito doloso.
-
-###### Artículo 41.
-
-Son atribuciones de la Coordinación Jurídica:
-
-I. Admitir a trámite conforme a la Ley los recursos interpuestos ante la Comisión;
-
-II. Substanciar los recursos de revisión; en los términos previstos en la Ley, el presente Reglamento y demás normatividad aplicable, así como elaborar y revisar los proyectos de resolución de los recursos, aplicando el procedimiento establecido en la Ley;
-
-III. Representar a la Comisión, previa delegación de atribuciones que le otorgue el Presidente, ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa, en los asuntos en que tenga interés o injerencia jurídica; incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes, y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica de la Comisión o los de quien esta represente;
-
-IV. Dar seguimiento al cumplimiento de las resoluciones aprobadas por el Pleno, derivadas de la interposición de los recursos de revisión y la presentación de denuncias por infracciones a la Ley, que no son de oficio, informando trimestralmente a los Comisionados, por conducto del Presidente;
-
-V. Notificar los acuerdos que resulten necesarios para el cumplimiento de sus atribuciones;
-
-VI. Elaborar criterios y lineamientos para la clasificación y desclasificación de la información reservada, así como la protección de datos personales;
-
-VII. Compilar leyes, decretos y reglamentos, así como cualquier otra disposición de carácter general que sea publicada en el Periódico Oficial del Gobierno del Estado para el cumplimiento de los fines de la Comisión;
-
-VIII. Elaborar, analizar y revisar los proyectos de convenios, contratos y cualquier acto jurídico que suscriba la Comisión, así como llevar un registro para su control;
-
-IX. Coadyuvar en la revisión jurídica de las normas internas y demás ordenamientos necesarios para el funcionamiento de la Comisión;
-
-X. Asesorar jurídicamente a las demás unidades de la Comisión;
-
-XI. Dar vista a los órganos de control interno de los sujetos obligados en caso de incumplimiento a las resoluciones ordenadas por el Pleno, derivadas de la interposición de los recursos de revisión;
-
-XII. Coadyuvar con las diferentes áreas, para dar continuidad a los trabajos de la Comisión;
-
-XIII. Desarrollar investigaciones en el ámbito de derecho comparado, sobre el derecho de acceso a la información, para su publicación;
-
-XIV. Elaborar los proyectos de normas, lineamientos y criterios que establece la Ley, y los que el Pleno y el Presidente le encomienden;
-
-XV. Expedir copia certificada de todos aquellos documentos que obren en el archivo de la Comisión;
-
-XVI. Colaborar con las demás áreas de la Comisión para la integración y funcionamiento de un centro de investigación, difusión y docencia sobre el derecho de acceso a la información;
-
-XVII. Auxiliar a los Secretarios Ejecutivo y Técnico en todo proceso jurisdiccional en el que la Comisión sea parte y representarla en los mismos procedimientos por acuerdo del Pleno; y
-
-XVIII. Las demás disposiciones legales y administrativas que le sean aplicables.
-
-#### SECCION V. DEL ÓRGANO INTERNO DE CONTROL
-
-Artículo 22 (sic). El órgano interno de control, está dedicado a la prevención e implementación de los controles necesarios para el buen funcionamiento de los recursos; se ubicará a nivel staff y dependerá del Pleno.
-
-###### Artículo 42.
-
-La Unidad de Enlace, es el área encargada de transparentar el ejercicio de la función que realiza la Comisión, así como coadyuvar en el efectivo ejercicio del derecho de acceso a la información pública, y depende de la Secretaría Técnica.
-
-###### Artículo 43.
+###### Artículo 63.
 
 Para ser Responsable de la Unidad de Enlace, se requiere:
 
@@ -709,41 +1107,53 @@ III. No tener antecedentes de una militancia activa o pública y notoria en alg�
 
 IV. No haber sido condenado por delito doloso.
 
-###### Artículo 44.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Son atribuciones del Responsable de la Unidad de Enlace las contempladas en el artículo 60 de la Ley, en el Reglamento para la Transparencia y el Acceso a la Información Pública de la Comisión, y demás disposiciones legales y administrativas que le sean aplicables.
+###### Artículo 64.
 
-#### SECCION VI. DE LAS COORDINACIONES
+Son atribuciones del Responsable de la Unidad de Enlace las contempladas en el artículo 60 de la Ley, en el Reglamento para la Transparencia y el Acceso a la Información Pública del Instituto, y demás disposiciones legales y administrativas que le sean aplicables.
 
-###### Artículo 45.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2015)</small>
 
-El Servicio Civil de Carrera es un Sistema que garantiza el ingreso, desarrollo, y permanencia del personal de la Comisión, en los términos previstos por el artículo 68, párrafo tercero de la Ley. El Sistema se funda en el mérito, las aptitudes y la igualdad de oportunidades. Comprende los procedimientos de convocatoria, selección, ingreso, evaluación del desempeño, otorgamiento de estímulos, capacitación y actualización del personal en los términos establecidos por la Ley, el Reglamento y demás disposiciones aplicables. Todos los procedimientos y reglas para instrumentar el Sistema deberán ser expedidos con claridad, transparencia, imparcialidad y oportunidad.
+###### Artículo 65.
 
-###### Artículo 46.
+El Servicio Civil de Carrera es un Sistema que garantiza el ingreso, desarrollo, y permanencia del personal del Instituto, en los términos previstos por el artículo 68, párrafo tercero de la Ley. El Sistema se funda en el mérito, las aptitudes y la igualdad de oportunidades. Comprende los procedimientos de convocatoria, selección, ingreso, evaluación del desempeño, otorgamiento de estímulos, capacitación y actualización del personal en los términos establecidos por la Ley, el Reglamento y demás disposiciones aplicables. Todos los procedimientos y reglas para instrumentar el Sistema deberán ser expedidos con claridad, transparencia, imparcialidad y oportunidad.
 
-Le corresponde a la Coordinación de Administración y Finanzas instrumentar el Servicio Civil de Carrera, conforme a las bases desarrolladas en este Reglamento y en el Estatuto respectivo.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 47.
+### CAPÍTULO IX. DEL SERVICIO CIVIL DE CARRERA
 
-La Comisión clasificará al personal en dos tipos:
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 66.
+
+Le corresponde a la Coordinación de Gestión Administrativa instrumentar el Servicio Civil de Carrera, conforme a las bases desarrolladas en este Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 67.
+
+El Instituto clasificará al personal en dos tipos:
 
 a) De carrera, y
 
 b) De libre designación
 
-El sistema comprenderá al personal de confianza, en orden ascendente hasta el nivel de Jefe de Unidad.
+El sistema comprenderá al personal de confianza, en orden ascendente hasta el nivel de Coordinación.
 
-Serán puestos de libre designación aquellos asignados o removidos libremente por el Pleno. El personal de libre designación deberá cumplir con los requisitos que previamente se establezcan, y estarán sujetos a la evaluación de su desempeño.
+Serán puestos de libre designación aquellos asignados o removidos libremente por el Consejo General. El personal de libre designación deberá cumplir con los requisitos que previamente se establezcan, y estarán sujetos a la evaluación de su desempeño.
 
-#### SECCION VII. DE LA UNIDAD DE ENLACE
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 48.
+###### Artículo 68.
 
-El Sistema no comprenderá al personal de apoyo de la Presidencia, de los Comisionados y de las Secretarías.
+El Sistema no comprenderá al personal de apoyo de la Presidencia, de los Consejeros y de las Secretarías.
 
-###### Artículo 49.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-El personal de la Comisión tendrá derecho a:
+###### Artículo 69.
+
+El personal del Instituto tendrá derecho a:
 
 I. Estabilidad y permanencia en el servicio;
 
@@ -755,13 +1165,17 @@ IV. Tener acceso a la capacitación y actualización profesional permanente; y
 
 V. Ser evaluado periódicamente y conocer sus resultados dentro de los treinta días siguientes.
 
-###### Artículo 50.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-La Comisión deberá llevar a cabo el procedimiento de selección para ocupar plazas vacantes o de nueva creación mediante convocatorias abiertas que se publicarán en los principales medios de comunicación, precisando los puestos sujetos a concurso, el perfil, requisitos para los exámenes, así como el lugar y fecha de entrega de la documentación, aplicación de los exámenes y del fallo correspondiente.
+###### Artículo 70.
 
-###### Artículo 51.
+El Instituto deberá llevar a cabo el procedimiento de selección para ocupar plazas vacantes o de nueva creación mediante convocatorias abiertas que se publicarán en los principales medios de comunicación, precisando los puestos sujetos a concurso, el perfil, requisitos para los exámenes, así como el lugar y fecha de entrega de la documentación, aplicación de los exámenes y del fallo correspondiente.
 
-La Coordinación de Administración y Finanzas verificará que los aspirantes a ingresar al Sistema cumplan con los siguientes requisitos mínimos:
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 71.
+
+La Coordinación de Gestión Administrativa verificará que los aspirantes a ingresar al Sistema cumplan con los siguientes requisitos mínimos:
 
 I. Ser ciudadano mexicano;
 
@@ -769,43 +1183,71 @@ II. No estar o haber sido inhabilitado para desempeñar un cargo o actividad en 
 
 III. Cumplir con el perfil del puesto y presentar la documentación probatoria de escolaridad y experiencia requeridas para ocupar el cargo.
 
-###### Artículo 52.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-El procedimiento de selección comprenderá exámenes generales de conocimiento y habilidades, entrevistas y análisis de la experiencia del aspirante, que permitan evaluar la idoneidad al puesto concursado.
+###### Artículo 72.
 
-###### Artículo 53.
+El procedimiento de selección comprenderá exámenes generales de conocimientos y habilidades, entrevistas y análisis de la experiencia del aspirante, que permitan evaluar la idoneidad al puesto concursado.
 
-La Coordinación de Administración establecerá los criterios para el diseño, aplicación y calificación de los exámenes, entrevistas y análisis generales indicados en el artículo anterior. De igual forma hará lo propio para determinar los mecanismos adecuados para la promoción y desarrollo del personal que forme parte del Sistema.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 54.
+###### Artículo 73.
 
-Las ausencias temporales del Presidente serán suplidas por cualquiera de los Comisionados, por designación del Pleno.
+La Coordinación de Gestión Administrativa establecerá los criterios para el diseño, aplicación y calificación de los exámenes, entrevistas y análisis generales indicados en el artículo anterior. De igual forma hará lo propio para determinar los mecanismos adecuados para la promoción y desarrollo del personal que forme parte del Sistema.
 
-###### Artículo 55.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Las ausencias del Secretario Ejecutivo, Secretario Técnico y de los titulares de las Coordinaciones, serán cubiertas por el servidor público que el Pleno designe.
+###### Artículo 74.
 
-###### Artículo 56.
+Las ausencias temporales del Presidente (a) serán suplidas por cualquiera de los Consejeros (as), por designación del Consejo General. En caso de ausencia definitiva del Consejero (a) Presidente (a) se procederá a la elección del Consejero (a) que lo sustituya, conforme a las disposiciones aplicables.
 
-En caso de ausencia temporal injustificada por un término mayor a tres días hábiles consecutivos de alguno de los Comisionados, el Presidente lo hará del conocimiento del Pleno para que este tome las providencias que considere conveniente.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 57.
+### CAPÍTULO X. DE LAS AUSENCIAS Y LICENCIAS
 
-Los Comisionados podrán, con la aprobación del Pleno, gozar de licencias para ausentarse en forma justificada por un tiempo máximo de diez días hábiles.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-###### Artículo 58.
+###### Artículo 75.
 
-El personal de la comisión incurre en responsabilidad administrativa cuando divulgue indebidamente la información que obtenga en el ejercicio de sus funciones, sin perjuicio de la responsabilidad civil o penal que pudiera resultar, y cuando altere, sustraiga o destruya alguna de la información contenida en los archivos de la Comisión y cuando dolosamente retrase alguno de los procedimientos que en su seno se desarrollen.
+Las ausencias del Secretario (a) Ejecutivo (a), Secretario (a) Técnico (a) y de los titulares de las Coordinaciones, serán cubiertas por el (la) servidor (a) público (a) que el Consejo General designe.
 
-###### Artículo 59.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
-Es atribución del Pleno de la Comisión aprobar las modificaciones al presente Reglamento, de conformidad con lo siguiente:
+###### Artículo 76.
 
-I. Los Comisionados podrán presentar propuestas de reformas ante el Pleno de la Comisión;
+En caso de ausencia temporal injustificada por un término mayor a tres días hábiles consecutivos de alguno de los Consejeros (as), el Consejero (a) Presidente (a) lo hará del conocimiento del Consejo General para que este tome las providencias que considere convenientes.
 
-II. El Pleno de la Comisión determinará lo conducente aprobando, modificando o rechazando la propuesta de reforma presentada; y
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 77.
+
+Los (as) Consejeros (as) podrán, con la aprobación del Consejo General, gozar de licencias para ausentarse en forma justificada por un tiempo máximo de diez días hábiles.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 78.
+
+El personal del Instituto incurre en responsabilidad administrativa cuando divulgue indebidamente la información que obtenga en el ejercicio de sus funciones, sin perjuicio de la responsabilidad civil o penal que pudiera resultar, y cuando altere, sustraiga o destruya alguna información contenida en los archivos del Instituto y cuando dolosamente retrase alguno de los procedimientos que en su seno se desarrollen, y las que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO XI. DE LA RESPONSABILIDAD DEL PERSONAL DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
+
+###### Artículo 79.
+
+Es atribución del Consejo General del Instituto aprobar las modificaciones al presente Reglamento, de conformidad con lo siguiente:
+
+I. Los Consejeros podrán presentar propuestas de reformas ante el Consejo General del Instituto;
+
+II. El Consejo General del Instituto determinará lo conducente aprobando, modificando o rechazando la propuesta de reforma presentada, y
 
 III. Aprobada la modificación quedará incorporada de inmediato al texto del Reglamento, debiendo ordenarse la publicación respectiva.
+
+### CAPÍTULO XII. DE LAS REFORMAS AL REGLAMENTO INTERIOR
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2015)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -828,3 +1270,13 @@ Comisionada
 Eva Gallegos Díaz
 
 Secretaria Ejecutiva
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2015.
+
+Primero.- El presente Reglamento con sus reformas y adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- El presente Reglamento, con sus reformas y adiciones, se publicará además en la Gaceta Institucional a que se refiere el artículo 11 del presente Reglamento, así como en el portal de internet del Instituto.
+
+Tercero.- Los casos no previstos en el presente Reglamento serán resueltos por el Consejo General del Instituto.
