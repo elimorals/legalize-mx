@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-instituto-oaxaqueno-constructor-de-72874
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-31"
-last_updated: "2009-10-31"
+last_updated: "2015-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO CONSTRUCTOR DE INFRAESTRUCTURA FISICA EDUCATIVA
 
-REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO CONSTRUCTOR DE INFRAESTRUCTURA FISICA EDUCATIVA
+REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO CONSTRUCTOR DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO CONSTRUCTOR DE INFRAESTRUCTURA FÍSICA EDUCATIVA, PUBLICADO EN EL P.O. DE 23 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2009.
 
@@ -433,11 +435,11 @@ XVI. Disponer e informar al Director Administrativo de manera oportuna sobre el 
 
 XVII. Organizar y revisar que el pago a proveedores, contratistas y prestadores de servicios se lleven en forma correcta y oportuna;
 
-XVIII. Revisar que toda la documentación que presenten prestadores de servicios, proveedores y contratistas cumplan con los procedimientos establecidos y este debidamente requisitadas para su pago;
+XVIII. Revisar que toda la documentación que presenten prestadores de servicios, proveedores y contratistas cumplan con los procedimientos establecidos y este debidamente requisitadas (sic) para su pago;
 
 XIX. Proporcionar en Coordinación con las diversas Áreas Administrativas del IOCIFED la información requerida por el IMSS, INFONAVIT y SAT; y
 
-XX. Las demás que le encomiende el Director General el Director Administrativo y las que le señalen las disposiciones legales y reglamentarias vigentes; (sic)
+XX. Las demás que le encomiende el Director General el Director Administrativo y las que le señalen las disposiciones legales y reglamentarias vigentes;
 
 ###### Artículo 17.
 
@@ -732,3 +734,13 @@ REPRESENTANTE DEL ARQ. ERNESTO VELASCO LEON, DIRECTOR GENERAL DEL INSTITUTO NACI
 LIC. BERNARDO JESUS BARRAGAN SALAZAR
 
 SECRETARIO DE LA CONTRALORIA Y COMISARIO DEL CONSEJO DE ADMINISTRACION DEL IOCIFED
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Reglamento prevalecerán sobre aquellas de las (sic) disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interno del Instituto Oaxaqueño Constructor de Infraestructura Física Educativa, de fecha 10 de julio de 2009, publicado en el Periódico Oficial del Gobierno del Estado con fecha 31 de octubre de 2009.
