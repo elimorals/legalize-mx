@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-junta-local-de-conciliacion-y-63291"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-01"
-last_updated: "2008-09-01"
+last_updated: "2015-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección VII del Boletín Oficial del Estado de Sonora, el lunes 1 de septiembre de 2008.
 
@@ -65,7 +65,7 @@ III.- Las Secretarías Generales.
 
 IV.- Las Juntas Especiales.
 
-V.- Las Juntas Permanentes.
+V.- (DEROGADA, B.O. 23 DE FEBRERO DE 2015)
 
 ARTICULO 6
 
@@ -85,7 +85,9 @@ Para el desempeño de las atribuciones que le competan, la Junta Local de Concil
 
 - Actuarios.
 
-- Conciliadores.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+- Funcionarios Conciliadores
 
 - Oficial de Partes.
 
@@ -97,25 +99,43 @@ ARTICULO 7
 
 La representación de la Junta Local de Conciliación y Arbitraje del Estado, ante Autoridades Federales, Estatales, Municipales y otros Tribunales, corresponde al Presidente en el ámbito de su competencia, pudiendo delegar dicha representación a los funcionarios de la propia Junta o cualquier otro que labore para el Gobierno del Estado de Sonora, a través de poderes que para dicho efecto otorgue, debiendo establecer en ellos las facultades que delegue.
 
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
 ARTICULO 8
 
-La Junta Local de Conciliación y Arbitraje del Estado con residencia en Hermosillo Sonora, será competente para conocer los conflictos individuales y colectivos derivados de las relaciones obrero-patronales que se presenten en los Municipios de: Benjamín Hill, Opodepe, Banámichi, Huépac, San Felipe de Jesús, Cumpas, Ures, Villa Hidalgo, San Pedro de la Cueva, Hermosillo, Bacadéhuachi, Bacerac, Sahuaripa, Yécora, Bacanora, Suaqui Grande, Soyopa, Huásabas, Aconchi, Baviácora, Carbó, Rayón, San Miguel de Horcasitas, Moctezuma, Mazatán, Villa Pesqueira, Granados, Huachinera, Nácori Chico, Arívechi, Ónavas, San Javier, La Colorada, Tepache, Caborca, Pitiquito y Altar. Será competente además para conocer de los conflictos colectivos, obrero-patronales que se presenten en los municipios comprendidos en los artículos 9 y 10 del presente reglamento interior.
+La Junta Local de Conciliación y Arbitraje del Estado con residencia en Hermosillo, Sonora, será competente para conocer los conflictos individuales y colectivos derivados de las relaciones obrero-patronales que se presenten en los Municipios de: Benjamín Hill, Opodepe, Banámichi, Huépac, San Felipe de Jesús, Cumpas, Ures, Villa Hidalgo, San Pedro de la Cueva, Hermosillo, Bacadéhuachi, Bacerac, Sahuaripa, Yécora, Bacanora, Suaqui Grande, Soyopa, Huásabas, Aconchi, Baviácora, Carbó, Rayón, San Miguel de Horcasitas, Moctezuma, Mazatán, Villa Pesqueira, Divisaderos Granados, Huachinera, Nácori Chico, Arívechi, Ónavas, San Javier, La Colorada, Tepache, Caborca, Pitiquito y Altar. Será competente además para conocer de los conflictos colectivos, obrero-patronales que se presenten en los municipios comprendidos en los artículos 9 y 10 del presente reglamento interior.
+
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTICULO 8 BIS
+
+La Junta Especial Número 1 de la Local de Conciliación y Arbitraje con residencia en Hermosillo, Sonora, conocerá y resolverá los conflictos individuales derivados de las relaciones obrero-patronales que se encuentran reguladas por el apartado A, del artículo 123 en la Constitución Política de los Estados Unidos Mexicanos, comprendiendo su competencia territorial los municipios de Benjamín Hill, Opodepe, Banámichi, Huépac, San Felipe de Jesús, Cumpas, Ures, Villa Hidalgo, San Pedro de la Cueva, Hermosillo, Bacadéhuachi, Bacerac, Sahuaripa, Yécora, Bacanora, Suaqui Grande, Soyopa Huásabas, Aconchi, Baviacora, Carbó, Rayón, San Miguel de Horcasitas, Moctezuma, Mazatán, Villa Pesqueira, Divisaderos, Granados, Huachinera, Nácori Chico, Arivehci, Ónavas, San Javier, La Colorada, Tepache, Caborca, Pitiquito y Altar, Sonora; sin perjuicio del derecho del trabajador por así convenir de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Estado.
 
 ARTICULO 9
 
 La Junta Especial de Conciliación y Arbitraje del Norte con residencia en Nogales, conocerá y resolverá los conflictos individuales, derivados de las relaciones obreros-patronales que se encuentran reguladas por el apartado A del artículo 123 de la Constitución Política de Los Estados Unidos Mexicanos, comprendiendo su competencia territorial los municipios de Nogales, Santa Cruz, Cananea, Naco, Agua Prieta, Imuris, Santa Ana, Fronteras, Bavispe Nacozari, Bacoachi, Arizpe, Cucurpe, Magdalena, Trincheras, ÁtiI, Tubutama, Sáric y Oquitoa; sin perjuicio del derecho del trabajador de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Estado.
 
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
 ARTICULO 10
 
-La Junta Especial de Conciliación y Arbitraje del Noroeste con residencia en San Luis Río Colorado, Sonora, conocerá y resolverá los conflictos individuales derivado de las relaciones obrero-patronales que se encuentran reguladas por el apartado A), del artículo 123 en la Constitución Política de los Estados Unidos Mexicanos, comprendiendo su competencia territorial los municipios de San Luis Río Colorado, Puerto Peñasco y Plutarco Elías Calles; sin perjuicio del derecho del trabajador por así convenir de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Estado.
+La Junta Especial de Conciliación y Arbitraje del Noroeste con residencia en San Luis Río Colorado, Sonora, conocerá y resolverá los conflictos individuales derivados de las relaciones obrero-patronales que se encuentran reguladas por el apartado A, del artículo 123 en la Constitución Política de los Estados Unidos Mexicanos, comprendiendo su competencia territorial el municipio de San Luis Río Colorado, Sonora; sin perjuicio del derecho del trabajador por así convenir de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Estado.
+
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 BIS
+
+La Junta Especial de Puerto Peñasco de la Local de Conciliación y Arbitraje con residencia en Puerto Peñasco, Sonora, conocerá y resolverá los conflictos individuales derivados de las relaciones obrero-patronales que se encuentran reguladas por el apartado A, del artículo 123 en la Constitución Política de los Estados Unidos Mexicanos, comprendiendo su competencia territorial los municipios de Puerto Peñasco y General Plutarco Elías Calles, Sonora; sin perjuicio del derecho del trabajador por así convenir de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Estado.
 
 ARTICULO 11
 
 La Junta Especial para Asuntos Universitarios e Instituciones de Educación Superior Autónomas por ley de la Local de Conciliación y Arbitraje del Estado conocerá y resolverá los conflictos individuales entre los trabajadores académicos y administrativos y las Instituciones de Educación Superior autónomas por ley comprendiendo su competencia territorial las que se encuentren en el Estado de Sonora.
 
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
 ARTICULO 12
 
-Las Juntas Especiales de Conciliación y Arbitraje y las Permanentes estarán integradas por un Representante del Gobierno del Estado, quien fungirá como Presidente y será designado por el titular del Poder Ejecutivo Estatal, Representante Obrero y Representante del Capital.
+Las Juntas Especiales de Conciliación y Arbitraje estarán integradas por un Representante del Gobierno del Estado, quien fungirá como Presidente y será designado por el titular del Poder Ejecutivo Estatal, Representante Obrero y Representante del Capital.
 
 ### CAPITULO TERCERO. DEL DESPACHO DE LOS NEGOCIOS
 
@@ -151,9 +171,11 @@ ARTICULO 20
 
 Los Secretarios de Acuerdos, al recibir los expedientes por parte del Oficial de Partes, del Archivista, de los Secretarios Generales de la Junta, deberán tomar nota de ellos en un libro de registro, en el que además del número de expediente se anotará la fecha de recepción y el concepto de la entrega.
 
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
 ARTICULO 21
 
-Los Secretarios Generales de la Junta Local, los Secretarios de Acuerdos, Proyectistas y Actuarios, tendrán a su cuidado y bajo su responsabilidad los expedientes que se tramiten ante los mismos, salvo aquellos casos en que éstos se encuentren encargados a determinado personal jurídico de la Junta, para la realización de determinada encomienda procesal, siendo en este caso responsable el funcionario que lo reciba.
+Los Secretarios Generales de la Junta Local, los Secretarios de Acuerdos, Proyectistas, Funcionarios Conciliadores y Actuarios, tendrán a su cuidado y bajo su responsabilidad los expedientes que se tramiten ante los mismos, salvo aquellos casos en que éstos se encuentren encargados a determinado personal jurídico de la Junta, para la realización de determinada encomienda procesal, siendo en este caso responsable el funcionario que lo reciba.
 
 ARTICULO 22
 
@@ -193,9 +215,11 @@ Los Representantes Obrero y Patronal de cada Junta, deberán firmar todas las ac
 
 ### CAPITULO CUARTO. DE LAS RESOLUCIONES
 
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
 ARTICULO 31
 
-Son resoluciones de los Tribunales Laborales: los acuerdos, los autos incidentales o resoluciones interlocutorias, los laudos y las resoluciones administrativas.
+Son resoluciones de los Tribunales Laborales: los acuerdos, los autos incidentales o resoluciones interlocutorias, los laudos, las resoluciones administrativas y los convenios ratificados y aprobados por las Juntas, mismos que producirán los efectos jurídicos inherentes a los laudos ejecutoriados.
 
 ARTICULO 32
 
@@ -231,15 +255,19 @@ Cuando una resolución sea impugnada a través del juicio de Amparo, el Presiden
 
 ### CAPITULO QUINTO. DEL PLENO DE LAS JUNTAS
 
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
 ARTICULO 40
 
-El Pleno se integra con el Presidente de la Junta y la totalidad de los Representantes Obrero y Patronal, conforme lo preceptuado por el artículo 607 de la Ley.
+El Pleno se integrará con el Presidente de la Junta y la totalidad de los Representantes Obrero y Patronal de las Juntas Especiales dependientes de la Junta Local de Conciliación y Arbitraje del Estado.
 
 ARTICULO 41
 
 El Pleno de la Junta, tiene las facultades y obligaciones que le confiere el ordinal 614 de la Ley que consiste en:
 
-I.- Expedir el Reglamento Interior de la Junta;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+I.- Expedir un Reglamento Interior de la Junta y los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los Presidentes de las Juntas Especiales;
 
 II.- Conocer y resolver los conflictos de trabajo cuando afecten a la totalidad de las ramas de la industria y de las actividades representadas en la Junta, relativas a su jurisdicción y competencia;
 
@@ -307,17 +335,27 @@ ARTICULO 51
 
 Requisitos para ser Presidente de la Junta Local de Conciliación y Arbitraje del Estado, de conformidad con el artículo 612 de la Ley Federal del Trabajo, los siguientes:
 
-I.- Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+I.- Ser mexicano por nacimiento que no adquiera otra nacionalidad, mayor de treinta años y estar en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+II.- Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
 III.- Tener cinco años de ejercicio profesional, posteriores a la expedición del título a que se refiere la fracción anterior, por lo menos;
 
-IV.- Haberse distinguido en estudios de Derecho del Trabajo y de la Seguridad Social;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-V.- No pertenecer al estado eclesiástico;
+IV.- Tener experiencia en la materia y haberse distinguido en estudios de Derecho del Trabajo y de la Seguridad Social;
 
-VI.- No haber sido condenado por delito intencional sancionado con pena corporal;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+V.- No ser ministro de culto religioso;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+VI.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena privativa de libertad;
 
 VII.- El Presidente de la Junta Local deberá ser designado por el C. Gobernador del Estado, de conformidad con lo dispuesto en el artículo 79, fracción XXXIII de la Constitución Política Local.
 
@@ -335,23 +373,33 @@ Además de las señaladas por el artículo 617 de la Ley, el Presidente tendrá 
 
 a) Rendir al Subsecretario del Trabajo informes de las actividades desarrolladas en la Junta;
 
-b) Proporcionar a las Autoridades, los informes que en los términos de Ley se le requieran y ordenar que se practiquen las diligencias en la esfera de competencia de la Junta; así como girar los exhortos necesarios que requiera la propia Junta o las Juntas Especiales;
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+b) Proporcionar a las Autoridades, lo (sic) informes que en los términos de Ley se les requieran y ordenar se practiquen las diligencias en la esfera de competencia de la Junta; así como girar los exhortos necesarios que requiera la propia Junta o las Juntas Especiales;
 
 c) Suscribir los oficios necesarios para cumplir las resoluciones dictadas en los negocios de su competencia;
 
-d) Presidir las audiencias de conciliación a celebrarse en el procedimiento de huelga, salvo que delegue sus facultades en otro funcionario;
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+d) Presidir las audiencias de conciliación a celebrarse en el procedimiento de huelga; salvo que delegue sus facultades en otro funcionario;
 
 e) Con la asistencia del Secretario General que corresponda, dictar los acuerdos en aquellos casos que no actúe en forma colegiada esta Junta Local, sean acuerdos o resoluciones dentro de procedimientos, o de carácter administrativo en los que no se requiera la presencia o el voto de los Representantes;
 
-f) Habilitar como Actuarios transitoriamente a los Secretarios de las Juntas;
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-g) Habilitar transitoriamente como Secretarios de Acuerdos a aquellos Actuarios que reúnan los requisitos enumerados en el dispositivo 78 de este mismo Reglamento;
+f) Habilitar como actuarios transitoriamente a los Secretarios de las Juntas;
 
-h) Habilitar como Presidentes de Junta Especial transitoriamente en los casos a que se refiere el Artículo 613 de la Ley Federal del Trabajo, al Secretario General o en su caso a un Secretario de Acuerdos si reúne los requisitos para ocupar dicho cargo;
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+g) Habilitar transitoriamente como Secretarios de Acuerdos a aquellos Actuarios que reúnan los requisitos enumerados en el dispositivo 78 del mismo Reglamento;
+
+h) Habilitar como Presidentes de (sic) Junta Especial transitoriamente en los casos a que se refiere el Artículo 613 de la Ley Federal del Trabajo, al Secretario General o en su caso a un Secretario de Acuerdos si reúne los requisitos para ocupar dicho cargo;
 
 i) Habilitar temporalmente a un Secretario General o en su caso al Presidente de la Junta Especial que corresponda, para que supla las ausencias del Presidente de la Junta Local;
 
-j) En acuerdo con el Secretario General de Asuntos Individuales; podrá designar un local diferente al que ocupa la Junta, para la ubicación y conservación del Archivo Semiactivo, e Inactivo, pudiendo delegar el resguardo del mismo a persona, Institución o Autoridad ajena a la Junta;
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+j) En acuerdo con el Secretario General de Asuntos Individuales, podrá designar un local diferente al que ocupa la Junta, para la ubicación y conservación del Archivo Semiactivo e Inactivo, pudiendo delegar el resguardo del mismo a persona, Institución o Autoridad ajena a la Junta;
 
 k) Citar a las personas cuya presencia estime necesaria;
 
@@ -359,7 +407,13 @@ l) Actuar como órgano de representación, comunicación y relación de la Junta
 
 m) Tener bajo su cuidado y responsabilidad la caja general de valores de la Junta, debiendo llevar el libro o libros generales para el registro y control de ellos;
 
-n) Las demás que le confieran las Leyes aplicables y las que se deriven de las necesidades de la Junta.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+n) Comunicar los cambios de domicilio de las Juntas Especiales y de las Oficinas Auxiliares de la Junta;
+
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+o) Las demás que le confieran las Leyes aplicables y las que se deriven de las necesidades de la Junta.
 
 ARTICULO 55
 
@@ -371,7 +425,9 @@ ARTICULO 56
 
 Los representantes de los trabajadores y patrones, deberán satisfacer los siguientes requisitos:
 
-I. Ser mexicanos, mayores de edad y en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+I. Ser mexicanos, mayores de veinticinco años y en pleno ejercicio de sus derechos;
 
 II. Haber terminado la educación obligatoria;
 
@@ -429,13 +485,21 @@ Son requisitos para ser Secretario General de la Junta Local de Conciliación y 
 
 I.- Ser Mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-III.- Tener cinco años de ejercicio profesional posteriores a la obtención de título de Licenciado en Derecho por lo menos y haberse distinguido en estudios de Derecho del Trabajo;
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-IV.- No pertenecer al estado eclesiástico;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-V.- No haber sido condenado por delito intencional sancionado con pena corporal.
+III.- Tener cinco años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o Licenciado en Derecho, haberse distinguido en estudios de Derecho del Trabajo y experiencia mínima de un año como servidor público en el ámbito del sector laboral;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+IV.- No ser ministro de culto religioso;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
 
 ARTICULO 59
 
@@ -527,6 +591,34 @@ h).- Llevar a cabo el trámite de los Juicios de Titularidad que se presenten en
 
 i).- Desempeñar las demás comisiones que le indique el Presidente.
 
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTICULO 64 BIS
+
+De acuerdo a lo preceptuado en el segundo párrafo del artículo 365 Bis de la Ley Federal del Trabajo, el texto íntegro de las versiones públicas de los estatutos en los sindicatos deberán estar disponibles en el sitio de internet de esta Junta Local de Conciliación y Arbitraje del Estado así como de la Secretaría del Trabajo del Estado, por lo cual, además, le corresponderá a esta Junta:
+
+I. Hacer pública, para consulta de cualquier persona, debidamente actualizada, la información de los registros de los sindicatos; y
+
+II. Asimismo, deberá expedir copias de los documentos que obren en los expedientes de registros que se les soliciten, en términos del artículo 8° Constitucional y de lo dispuesto por la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora.
+
+Los registros de los sindicatos deberán contener, cuando menos, los siguientes datos:
+
+I. Domicilio;
+
+II. Número de registro;
+
+III. Nombre del sindicato;
+
+IV. Nombre de los integrantes del Comité Ejecutivo;
+
+V. Fecha de vigencia del Comité Ejecutivo;
+
+VI. Número de socios; y
+
+VII. Central obrera a la que pertenecen, en su caso.
+
+La actualización de los índices se deberá hacer cada tres meses.
+
 ARTICULO 65
 
 En la tramitación de los procedimientos de Huelga se observará lo siguiente:
@@ -615,15 +707,27 @@ La Junta Local de Conciliación y Arbitraje del Estado, contará con los Coordin
 
 ARTICULO 76
 
-El Proyectista de la Junta Local de Conciliación y Arbitraje del Estado, deberá reunir los siguientes requisitos de acuerdo con el Articulo 627 de la Ley Federal del Trabajo:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-I.- Ser mexicano, mayores de edad y estar en pleno ejercicio de sus derechos;
+El Proyectista de la Junta Local de Conciliación y Arbitraje del Estado, deberá reunir los siguientes requisitos de acuerdo con el artículo 627 de la Ley Federal del Trabajo:
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+I.- Ser mexicano, mayores (sic) de edad y estar en pleno ejercicio de sus derechos;
 
-III.- No pertenecer al estado eclesiástico y;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-IV.- No haber sido condenado por delito intencional sancionado con pena corporal.
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+III.- Haberse distinguido en estudios de derechos del trabajo;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+IV.- No ser ministro de culto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE FEBRERO DE 2015)</small>
+
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
 
 ARTICULO 78 (SIC)
 
@@ -639,29 +743,47 @@ d) Firmar la relación al recibir los expedientes que le sean turnados para su e
 
 e) Ajustarse estrictamente en la formulación de dictámenes y laudos, a los criterios aprobados por el Pleno;
 
-f) Rendir el informe que la H. Junta Local de Conciliación y Arbitraje del Estado, el Presidente y/o su superior jerárquico solicite en relación al desarrollo de sus labores; (sic)
+f) Rendir el informe que la H. Junta Local de Conciliación y Arbitraje del Estado, el Presidente y/o su superior jerárquico solicite en relación al desarrollo de sus labores;
 
 ### CAPITULO DECIMO TERCERO. DE LOS SECRETARIOS DE ACUERDOS
 
 ARTICULO 78
 
-Los Secretarios de Acuerdos deberán satisfacer los requisitos que establece el artículo 627 de la Ley Federal del Trabajo, que son los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-I.- Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
+Los Secretarios de Acuerdos, deberán satisfacer los requisitos que establece el artículo 627 de la Ley Federal del Trabajo, que son los siguientes:
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-III.- No pertenecer al estado eclesiástico; y
+I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 
-IV.- No haber sido condenados por delito intencional sancionado con pena corporal.
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+II. Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+III. Haberse distinguido en estudios de derechos del trabajo;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+IV. No ser ministro de culto; y
+
+> <small>(ADICIONADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
 
 ARTICULO 79
 
-Corresponde a los Secretarios de Acuerdos además de las facultades que les impone la Ley Federal del trabajo:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-a) Vigilar que la celebración de las audiencias, previas notificaciones legales y oportunas;
+Corresponde a los Secretarios de Acuerdos además de las facultades que les impone la Ley Federal del Trabajo:
 
-b) Procurar la celebración de los arreglos conciliatorios entre las partes que dejen concluido el litigio;
+a) Vigilar que (sic) la celebración de las audiencias, previas notificaciones legales y oportunas;
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+b) Procurar la celebración de los arreglos conciliatorios entre las partes que dejen concluido el litigio, sin perjuicio de las atribuciones que tienen encomendadas en este mismo Reglamento los Funcionarios Conciliadores;
 
 c) Interrogar a las personas que intervengan en las audiencias de recepción de pruebas, para el esclarecimiento de la verdad;
 
@@ -689,13 +811,25 @@ ARTICULO 80
 
 Son requisitos para ser Actuarios de la Junta Local de Conciliación y Arbitraje del Estado, de conformidad con lo dispuesto por el artículo 626 de la Ley Federal del Trabajo, los siguientes:
 
-I.- Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-II.- Haber terminado el tercer año o el sexto semestre de la carrera de Licenciado en Derecho, por lo menos;
+I. Ser mexicano, mayores de edad y estar en pleno ejercicio de sus derechos;
 
-III.- No pertenecer al estado eclesiástico; y
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-IV.- No haber sido condenados por delito intencional sancionado con pena corporal.
+II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+III. Haberse distinguido en estudios de derecho del trabajo;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+IV. No ser ministro de culto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE FEBRERO DE 2015)</small>
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
 
 ARTICULO 81
 
@@ -719,23 +853,47 @@ h) Dar cuenta inmediata al Presidente de la Junta de adscripción de las dificul
 
 i) Las demás que les asignen la Ley, el presente Reglamento o sus superiores.
 
-### CAPITULO DECIMO QUINTO. DE LOS CONCILIADORES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPITULO DECIMO QUINTO. DEL SERVICIO PUBLICO DE CONCILIACION
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
 ARTICULO 82
 
-Es el personal jurídico, que tiene como objetivo lograr el equilibrio de los factores de producción mediante una de las principales funciones de este tribunal que es la conciliación, tanto como medio preventivo (previo al juicio) como una vez que existe un procedimiento en trámite (inter procesal).
+El servicio público de conciliación se prestará a través de servidores públicos especializados en la función conciliatoria, denominados funcionarios conciliadores; los integrantes de las Juntas o por su personal jurídico.
+
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTICULO 82 BIS
+
+El Servicio Público de Conciliación, a través de los Funcionarios Conciliadores, tiene como objetivo lograr el equilibrio de los factores de producción mediante una de las principales funciones de este tribunal que es la conciliación, tanto como medio preventivo (previo al juicio) como una vez que existe un procedimiento en trámite (inter procesal).
 
 ARTICULO 83
 
-El Conciliador de la Junta Local de Conciliación y Arbitraje del Estado, deberá reunir los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-I.- Ser mexicano, mayores de edad y estar en pleno ejercicio de sus derechos;
+Los Funcionarios Conciliadores de la Junta Local de Conciliación y Arbitraje del Estado, deberán reunir los siguientes requisitos:
 
-II.- Haber terminado el tercer año o el sexto semestre de la carrera de Licenciado en Derecho, por lo menos;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-III.- No pertenecer al estado eclesiástico; y
+I. Ser mexicanos, mayores de treinta años de edad, y estar en pleno ejercicio de sus derechos;
 
-IV.- No haber sido condenados por delito intencional sancionado con pena corporal.
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+III. Tener dos años de ejercicio profesional en materia laboral, posteriores a la obtención del título de licenciado en derecho, haberse distinguido en estudios de derecho del trabajo y haberse capacitado en materia de conciliación;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+IV. No ser ministro de culto; y
+
+> <small>(ADICIONADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+V. No haber sido condenado por delito intencional sancionado con pena privativa de libertad.
 
 ARTICULO 84
 
@@ -751,27 +909,45 @@ d).- Rendir al Presidente de la Junta Local de Conciliación y Arbitraje del Est
 
 e).- Las demás que le asigne el Presidente de la Junta Local de Conciliación y Arbitraje del Estado y/o el Secretario General de Asuntos Individuales de la misma.
 
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTICULO 84 BIS
+
+Durante todo el procedimiento y hasta antes de dictarse los laudos, las Juntas tendrán la obligación de promover que las partes resuelvan los conflictos mediante la conciliación. Los convenios a que se lleguen, en su caso, una vez ratificados y aprobados por aquéllas, producirán los efectos jurídicos inherentes a los laudos ejecutoriados.
+
 ### CAPITULO DECIMO SEXTO. DE LOS PRESIDENTES DE LAS JUNTAS ESPECIALES
 
 ARTICULO 85
 
-Son requisitos para ser Presidente de la Junta Especial de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 630 de la Ley Federal del Trabajo, los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+Son requisitos para ser Presidente de (sic) Junta Especial de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 630 de la Ley Federal del Trabajo, los siguientes…(sic);
 
 I.- Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-III.- Tener cinco años de ejercicio profesional posteriores a la obtención del título por lo menos y haberse distinguido en estudios de Derecho del Trabajo;
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-IV.- No pertenecer al estado eclesiástico; y
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
 
-V.- No haber sido condenado por delito intencional sancionado con pena corporal.
+III.- Tener cinco años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o Licenciado en Derecho, haberse distinguido en estudios de Derecho del Trabajo y experiencia mínima de un año como servidor público en el ámbito del sector laboral;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+IV.- No ser ministro de culto religioso;
+
+> <small>(REFORMADA, B.O. 23 DE FEBRERO DE 2015)</small>
+
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
 
 ARTICULO 86
 
 Son atribuciones de los Presidentes de las Juntas Especiales, las establecidas por la Ley y las siguientes:
 
-a) Procurar por todos los medios conducentes, que las partes lleguen a un arreglo conciliatorio en el conflicto, en cualquier momento del procedimiento;
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+a) Procurar por todos los medios conducentes, que las partes lleguen a un arreglo conciliatorio en el conflicto, en cualquier momento del procedimiento, sin perjuicio de las atribuciones que tienen encomendadas en este mismo Reglamento los Funcionarios Conciliadores;
 
 b) Exigir en forma invariable la previa identificación de las partes en la primera comparecencia o audiencia, en todos aquellos procedimientos en los que a juicio del Presidente se requiera;
 
@@ -799,49 +975,19 @@ m) Procurar que los Representantes y quienes deben de hacerlo, firmen el acuerdo
 
 n) Las demás que les asigne la Ley, sus Reglamentos, el Presidente de la Junta y este Reglamento.
 
-### CAPITULO DECIMO SEPTIMO. DE LAS JUNTAS PERMANENTES DE CONCILIACION
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 87
+### CAPITULO DECIMO SEPTIMO. ARTICULO 87 (DEROGADO, B.O. 23 DE FEBRERO DE 2015)
 
-La Junta Permanente de Conciliación, es un órgano cuya naturaleza tiene como objeto la avenencia entre los intereses de las partes en conflicto, o bien actuar como Junta de Conciliación y Arbitraje para conocer y resolver los conflictos que tengan como objeto el cobro de prestaciones cuyo monto no exceda del importe de tres meses de salario.
+ARTICULO 88 (DEROGADO, B.O. 23 DE FEBRERO DE 2015)
 
-ARTICULO 88
+ARTICULO 89 (DEROGADO, B.O. 23 DE FEBRERO DE 2015)
 
-La Junta Permanente de Conciliación tendrá las funciones siguientes:
+ARTICULO 90 (DEROGADO, B.O. 23 DE FEBRERO DE 2015)
 
-I. Actuar como instancia conciliatoria potestativa para los trabajadores y los patrones;
+ARTICULO 91 (DEROGADO, B.O. 23 DE FEBRERO DE 2015)
 
-II. Actuar como Junta de Conciliación y Arbitraje cuando se trate de conflictos a que se refiere el artículo anterior;
-
-III. Los demás que les confiera las leyes.
-
-ARTICULO 89
-
-La Junta Permanente de Conciliación con residencia en Puerto Peñasco, Sonora dependerá de la Junta Especial de Conciliación y Arbitraje del Noroeste y se integrara con un representante del Gobierno que fungirá como Presidente que designara directamente el Gobernador del Estado y con un representante de los trabajadores sindicalizados y uno de los patrones, de conformidad con la clasificación y convocatoria que se expida.
-
-ARTICULO 90
-
-Para ser Presidente de la Junta Permanente se requiere:
-
-I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos;
-
-II. Haber terminado la educación secundaria;
-
-III. Demostrar conocimientos suficientes de derecho del trabajo y de la seguridad social;
-
-IV. No pertenecer a las organizaciones de trabajadores o de patrones;
-
-V. No pertenecer al estado eclesiástico;
-
-VI. No haber sido condenado por delito intencional sancionado con pena corporal.
-
-ARTICULO 91
-
-La Junta Permanente de Conciliación, contara con un Secretario General, Secretario de Acuerdos, Actuarios y demás personal administrativo que la presidencia de la Junta asigne para su ejecución y tramitación de los procedimientos de su competencia, los cuales se sujetaran a las disposiciones contenidas en el presente reglamento y relativo al cargo designado.
-
-ARTICULO 92
-
-El despacho de los negocios deberá llevarse a cabo por riguroso turno y durante las horas de oficinas que serán de las 8:00 a.m. a las 15:00 p.m., sin embargo se dará preferencia a las (sic) diligenciación de los exhortos que reciba de la Junta Local y de las Especiales, de los conflictos colectivos y las providencias cautelares.
+ARTICULO 92 (DEROGADO, B.O. 23 DE FEBRERO DE 2015)
 
 ### CAPITULO DECIMO OCTAVO. DE LOS FUNCIONARIOS Y EMPLEADOS DE LAS JUNTAS
 
@@ -927,7 +1073,7 @@ f) Informar al Secretario General que corresponda cualquier deficiencia o irregu
 
 g) Rendir los informes solicitados por el superior jerárquico;
 
-h) Las demás que le sean asignadas por el Presidente, o el Secretario General que corresponda; (sic)
+h) Las demás que le sean asignadas por el Presidente, o el Secretario General que corresponda;
 
 ARTICULO 101
 
@@ -1080,3 +1226,15 @@ REPRESENTANTE OBRERO.
 LIC. OLGA IRAÍS MURRIETA GINÉS.
 
 REPRESENTANTE DEL CAPITAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 23 DE FEBRERO DE 2015.
+
+###### Artículo I.
+
+El presente Reglamento, aprobado en Sesión Extraordinaria del Pleno de la Junta Local de Conciliación y Arbitraje del Estado con residencia en Hermosillo, Sonora, verificada el día 11 de septiembre de 2014 y (sic) entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### Artículo II.
+
+El presente Reglamento modifica el publicado en el Boletín Oficial del Estado Número 18, Sección VII, de fecha 01 de septiembre de 2008.
