@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2014-04-05"
+last_updated: "2015-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -171,15 +171,33 @@ XI. La seguridad pública como función del Estado y de los Municipios en sus re
 
 El Estado y los Municipios en los términos que la ley de la materia señale, establecerán un sistema de seguridad pública y se coordinarán con la Federación con ese fin.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2015)</small>
 
-XII. El derecho de acceso a la información pública y a la transparencia. La información en posesión de los entes públicos se regirá conforme a los principios de máxima publicidad y expedites, sin más limitaciones que las relativas a los datos personales o la información que sea declarada reservada o confidencial, en los términos que disponga la ley.
+XII. El derecho de acceso a la información pública y a la transparencia. La información en posesión de los sujetos obligados se regirá conforme a los principios de máxima publicidad y expedites, sin más limitaciones que las relativas a los datos personales o la información que sea declarada reservada o confidencial, en los términos que disponga la ley.
 
-La ley establecerá el organismo unitario encargado de garantizar la transparencia y el derecho de acceso a la información pública, dotado de autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propios, en cuyo seno funcionará un consejo consultivo en los términos que disponga la ley.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+El Estado contará con un organismo autónomo, especializado, imparcial y colegiado denominado Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, encargado de garantizar la transparencia y el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, dotado de autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propios.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+Dicho organismo se integrará por tres comisionados designados por el Congreso del Estado con el voto de las dos terceras partes de los diputados presentes y durarán en su cargo siete años. Para su designación deberán cumplir con los requisitos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+Los miembros del Instituto no podrán tener otro empleo, cargo o comisión, con excepción de actividades en instituciones docentes, científicas o de beneficencia; solo podrán ser removidos de su cargo en los términos del Título Octavo de esta Constitución y serán sujetos de juicio político.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+El Presidente del Instituto será designado por los propios comisionados mediante voto secreto para un periodo de tres años y seis meses con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe ante el Congreso del Estado en la fecha y en los términos que disponga la Ley.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 Para proteger el derecho fundamental de acceso a la información, se establecen los siguientes criterios, principios y bases:
 
-A. Toda la información en posesión de cualquier autoridad, dependencia, entidad, órgano y organismo estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad en los términos que fijen las leyes. En la interpretación y aplicación de este derecho deberá prevalecer el principio de máxima publicidad.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+A. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad en los términos que fijen las leyes. En la interpretación y aplicación de este derecho deberá prevalecer el principio de máxima publicidad.
 
 B. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
@@ -187,7 +205,9 @@ C. Toda persona, sin necesidad de acreditar interés alguno o justificar su util
 
 D. Los servicios para el acceso a la información serán gratuitos y de costo razonable en la reproducción de documentos. En toda solicitud de información que así se precise, deberá suplirse la deficiencia que hubiese en su formulación.
 
-E. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Los procedimientos se sustanciarán ante el organismo garante cuyo funcionamiento será especializado e imparcial. Sus resoluciones serán definitivas e inatacables para los sujetos obligados y contra ellas no procederá ningún recurso o medio de defensa.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+E. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Los procedimientos se sustanciarán ante el organismo garante de la transparencia en el Estado, cuyo funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Las resoluciones que determinen la reserva, confidencialidad, inexistencia o negativa de la información, podrán ser combatidas por los particulares en los términos que establezca la ley.
 
 F. Los sujetos obligados deberán organizar el uso de la información pública gubernamental y preservar sus documentos en archivos administrativos actualizados, publicando a través de los medios electrónicos disponibles, la información relativa completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
 
@@ -197,7 +217,7 @@ H. La inobservancia a las disposiciones en materia de acceso a la información p
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XIII.- Los derechos sociales que a continuación se enuncian:
+XIII. Los derechos sociales que a continuación se enuncian:
 
 1.- Se reconoce, protege y garantiza el derecho a la vida de todo ser humano desde el momento de la fecundación natural o artificial y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural.
 
@@ -243,13 +263,17 @@ Toda investigación biomédica se orientará preferentemente a aliviar las enfer
 
 10.- Se reconoce el derecho a la práctica del deporte y la cultura física para alcanzar una mejor calidad de vida y desarrollo físico. El Estado y los Municipios impulsarán el fomento, la organización y la promoción de las actividades formativas, recreativas y competitivas del deporte en la Entidad.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+11.- Todo individuo tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. Las autoridades garantizarán el cumplimiento de estos derechos, para lo cual registrarán y expedirán gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-XIV.- Todas las personas gozarán de los derechos humanos y de las garantías consagrados en la Constitución Política de los Estados Unidos Mexicanos, en el presente texto constitucional local, así como los contenidos en los Tratados Internacionales de los que el Estado Mexicano sea parte, cuyo ejercicio no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones previstas en la Constitución Federal.
+XIV. Todas las personas gozarán de los derechos humanos y de las garantías consagrados en la Constitución Política de los Estados Unidos Mexicanos, en el presente texto constitucional local, así como los contenidos en los Tratados Internacionales de los que el Estado Mexicano sea parte, cuyo ejercicio no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones previstas en la Constitución Federal.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-XV.- No podrá librarse orden de aprehensión contra persona alguna, sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+XV. No podrá librarse orden de aprehensión contra persona alguna, sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
 En todo proceso de orden penal, el imputado, la víctima o el ofendido tendrán los derechos y las garantías que señala la Constitución Política de los Estados Unidos Mexicanos, los Tratados internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte, el presente texto constitucional local y las leyes penales del Estado.
 
@@ -263,19 +287,21 @@ Toda persona en el Estado tiene derecho a resolver sus diferencias mediante mét
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-XVI.- Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+XVI. Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
 El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. La ley señalará los términos en que proceda la prisión preventiva oficiosa, de conformidad a los casos y finalidades señaladas expresamente en la Constitución Federal.
 
 La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso. El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la Ley.
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de vinculación a proceso.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
 Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado. La imposición de las penas, su modificación y duración son propias y exclusivas del Poder Judicial, quien en forma concurrente con el Poder Ejecutivo vigilará que la política penitenciaria se ejecute como medio para lograr la reinserción del sentenciado a la sociedad.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-XVII.- El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación e igualdad procesal.
+XVII. El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación e igualdad procesal.
 
 La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conocido del caso previamente, sujetándose a los principios generales siguientes:
 
@@ -515,7 +541,7 @@ Para la asignación de los diputados por el principio de representación proporc
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales, y (sic)
+I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales, y
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE OCTUBRE DE 2010)</small>
 
@@ -2153,11 +2179,11 @@ Las Leyes determinarán casos y circunstancias en los que se deba sancionar pena
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### Art. 124.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Fiscal General, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Fiscal General, los Jueces de Primera Instancia, los Comisionados del organismo garante de la transparencia en el Estado, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -2179,11 +2205,11 @@ Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### Art. 125.
 
-Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Fiscal General, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Fiscal General, los Comisionados del organismo garante de la transparencia en el Estado, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -3229,7 +3255,7 @@ P.O. 20 DE AGOSTO DE 2008.
 
 DECRETO QUE REFORMA EL ARTÍCULO 47, FRACCIÓN XXVI, 121 Y 121 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT.
 
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial, Órgano del Gobierno del Estado, salvo lo previsto en el artículo siguiente.
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial, Órgano del Gobierno del Estado, salvo lo previsto en el artículo siguiente.
 
 Artículo Segundo.- Las formalidades, procedimientos y principios que se establecen en el presente decreto relativa a los procesos de fiscalización que realice el Órgano de Fiscalización Superior entrarán en vigor a partir del primero de enero del año 2009.
 
@@ -3478,3 +3504,15 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 Artículo Cuarto.- Dentro de un plazo de sesenta días contados a partir del día siguiente de la publicación de este Decreto, el Poder Legislativo deberá realizar las adecuaciones a las disposiciones pertinentes de la Ley del Órgano de Fiscalización Superior del Estado.
 
 Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la entidad.
+
+P.O. 23 DE FEBRERO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Las Leyes de Ingresos del Estado y de los Municipios deberán contemplar la exención en el cobro del registro y la expedición de la primera copia certificada del acta de nacimiento.
+
+Tercero.- El Congreso del Estado deberá armonizar la Ley de Transparencia y Acceso a la Información Pública con el presente Decreto.
+
+Cuarto.- Quedan a salvo los derechos adquiridos por el Licenciado Jesús Ramón Velázquez Gutiérrez, actual Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+
+Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
