@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2014-12-10"
+last_updated: "2015-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2015.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -947,11 +947,11 @@ Las promociones de nulidad notoriamente improcedentes se desecharán de plano.
 
 En cualquier etapa de la investigación o procedimiento de responsabilidad administrativa, el órgano competente podrá dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 96.
 
-Durante la investigación, o una vez iniciado el procedimiento de responsabilidad administrativa, el Pleno o la Comisión, previo dictamen de la Secretaría o la Contraloría, podrán determinar como medida cautelar la suspensión temporal del servidor público en su cargo, empleo o comisión, en cuyo caso estará imposibilitado para ocupar un cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelva lo conducente.
-
-En tal supuesto, se suspenderá total o parcialmente el pago de remuneraciones y prestaciones al servidor público, conforme el Pleno o la Comisión lo estimen pertinente.
+El Pleno o, en su caso, la Comisión, previo dictamen de la Secretaría o la Contraloría, en cualquier etapa del trámite de una investigación o procedimiento de responsabilidad administrativa, o en los supuestos establecidos en el artículo 81, fracciones X y XI de la Ley Orgánica, podrán determinar fundada y motivadamente, como medida cautelar la suspensión temporal del servidor público en su cargo, empleo o comisión, en cuyo caso estará imposibilitado para ocupar un cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelva lo conducente.
 
 ###### Artículo 97.
 
@@ -959,37 +959,53 @@ La suspensión temporal surtirá efectos desde el momento de su notificación.
 
 La resolución que determine la suspensión temporal de un servidor público, se notificará personalmente por conducto del servidor público que al efecto se designe.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 98.
 
-Cuando se decrete la suspensión temporal del servidor público, el órgano competente que dicte la medida, determinará si debe continuar recibiendo alguna remuneración económica y fijará, en su caso, el monto de la misma.
+En caso de que se determine la suspensión como medida cautelar, el servidor público sujeto a la misma recibirá una cantidad por concepto de asistencia vital, salvo que se determine su improcedencia por lo relevante y notorio de la gravedad de la conducta que se le imputa.
 
-La remuneración económica se determinará en cantidad líquida, tomando en consideración la gravedad de la conducta que se imputa, las obligaciones económicas que tenga a su cargo el servidor público en cumplimiento de resolución emitida por autoridad judicial, y las circunstancias especiales del caso, como las necesidades del probable responsable y las de sus dependientes económicos.
+El concepto de asistencia vital consistirá en garantizar que se otorgue al servidor público que haya sido suspendido, el treinta y tres por ciento del total de las percepciones relativas al sueldo base y la compensación garantizada que por razón de su cargo le deberían corresponder, mientras dure la medida cautelar.
+
+El total de las percepciones no incluye aquellas cuyo pago, total o parcial, esté condicionado al ejercicio efectivo del servicio público o funciones inherentes al cargo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 99.
 
-El monto de la remuneración económica que se otorgue al servidor público suspendido será aquel que determine el Pleno.
+En cualquier supuesto se deberá salvaguardar el derecho a la salud del servidor público suspendido, por lo que el Consejo adoptará las medidas necesarias para que continúe gozando de los servicios otorgados por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado que le corresponden como derechohabiente, así como del seguro de gastos médicos mayores, lo que en ambos casos se deberá cubrir en la parte proporcional que corresponda.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 100.
 
-Se informará a la Dirección General de Recursos Humanos el monto asignado, a fin de que proceda como corresponda, así como a la Dirección General de Programación y Presupuesto, con el objeto de que establezca las medidas necesarias para crear los pasivos presupuestales que permitan garantizar el reintegro de la parte proporcional de las percepciones económicas que se dejen de pagar al servidor público.
+Se informará a la Dirección General de Recursos Humanos el monto asignado, a fin de que proceda como corresponda, así como a la Dirección General de Programación y Presupuesto, con el objeto de que establezca las medidas necesarias para crear los pasivos presupuestales que permitan garantizar, el reintegro de la parte proporcional de las percepciones económicas que se dejen de pagar al servidor público, en el caso de ser procedente.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 101.
 
-El órgano competente que determine el otorgamiento de la remuneración económica al servidor público suspendido, podrá dejar sin efectos esa determinación cuando éste deje de asistir al procedimiento sin causa justificada o exista imposibilidad para notificarlo; circunstancia que se hará del conocimiento de la Dirección General de Recursos Humanos, así como de la Dirección General de Programación y Presupuesto, para los efectos procedentes.
+El Pleno o la Comisión cuando determinen el otorgamiento de la remuneración económica al servidor público suspendido, dejarán sin efectos la misma cuando éste deje de asistir al procedimiento sin causa justificada, exista imposibilidad para notificarlo o cualquier otra causa que así lo justifique; circunstancia que se hará del conocimiento de la Dirección General de Recursos Humanos, así como de la Dirección General de Programación y Presupuesto, para los efectos procedentes. Para tal efecto, deberá observarse lo dispuesto en el artículo 98 de este Acuerdo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 102.
 
-Cuando se determine imponer al servidor público suspendido sanción definitiva de suspensión, destitución o inhabilitación, no se le pagarán las percepciones económicas retenidas que dejaron de cubrírsele y se cancelarán los pasivos creados, lo que se informará a la Dirección General de Programación y Presupuesto, para los efectos procedentes.
+Cuando se determine imponer al servidor público suspendido sanción definitiva de suspensión, destitución o inhabilitación, no se le pagarán las percepciones que dejaron de cubrírsele y se cancelarán los pasivos creados, lo que se informará a la Dirección General de Programación y Presupuesto, para los efectos procedentes.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 103.
 
-En ningún caso podrá exigirse el reintegro del monto de la percepción económica otorgada durante la suspensión.
+En caso de que se determine improcedente o infundada la queja o denuncia, el no ejercicio de la acción penal, el archivo temporal de la investigación o la reserva de la averiguación previa o bien, se absuelva al servidor público en el proceso penal respectivo, se reintegrará el total de las percepciones que le correspondan y que dejó de percibir a la fecha en que fue decretada la suspensión temporal, considerando los incrementos autorizados.
+
+En los casos en que la sanción impuesta sea apercibimiento privado o público, amonestación privada o pública, o sanción económica, se cubrirán al servidor público las percepciones que se le hayan dejado de cubrir y se cancelarán los pasivos creados, sin que puedan incluirse aquellas percepciones cuyo pago, total o parcial, esté condicionado al ejercicio efectivo del servicio público o funciones inherentes al cargo, en específico las percepciones extraordinarias y, en su caso, las prestaciones.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 23 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 104.
 
-En caso de que en la resolución se determine la improcedencia de la queja o denuncia, o éstas resulten infundadas, se reintegrará al servidor público el total de las percepciones económicas que dejó de percibir a la fecha en que fue decretada la suspensión temporal, considerando los incrementos autorizados.
-
-En los casos en que la sanción impuesta sea apercibimiento privado o público, amonestación privada o pública, o sanción económica, se cubrirán al servidor público las percepciones económicas que se le hayan dejado de cubrir y se cancelarán los pasivos creados, sin que puedan incluirse aquellas percepciones económicas cuyo pago esté condicionado al ejercicio efectivo del servicio público o funciones inherentes al cargo.
+En ningún caso podrá exigirse el reintegro del monto de la percepción otorgada durante la suspensión.
 
 ### CAPÍTULO SEGUNDO. COMPETENCIA
 
@@ -2762,3 +2778,11 @@ D.O.F. 10 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 23 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin afectar los efectos en que se ejecutaron las suspensiones decretadas con anterioridad a la vigencia del presente Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abroga el Acuerdo General 23/2007 del Pleno del Consejo de la Judicatura Federal, que regula el otorgamiento de percepciones a los servidores públicos suspendidos durante el curso de un procedimiento de responsabilidad administrativa o de un proceso penal, y las demás disposiciones que se opongan al presente Acuerdo.
