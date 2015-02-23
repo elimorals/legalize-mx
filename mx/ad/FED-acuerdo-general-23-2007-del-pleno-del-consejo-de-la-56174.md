@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-23-2007-del-pleno-del-consejo-de-la-56174"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-08-08"
-last_updated: "2007-08-08"
+last_updated: "2015-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56174&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-06-20"
 ---
 # ACUERDO GENERAL 23/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REGULA PERCEPCIONES A LOS SERVIDORES PUBLICOS SUSPENDIDOS EN EL CURSO DE UN PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA O DE UN PROCESO PENAL]
 
-ACUERDO GENERAL 23/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL OTORGAMIENTO DE PERCEPCIONES A LOS SERVIDORES PUBLICOS SUSPENDIDOS DURANTE EL CURSO DE UN PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA O DE UN PROCESO PENAL
+ACUERDO GENERAL 23/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL OTORGAMIENTO DE PERCEPCIONES A LOS SERVIDORES PÚBLICOS SUSPENDIDOS DURANTE EL CURSO DE UN PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA O DE UN PROCESO PENAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL D.O.F. DE 23 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 8 de agosto de 2007.
 
@@ -88,3 +90,13 @@ PRIMERO.- Este acuerdo entrará en vigor al día de su publicación.
 SEGUNDO.- Publíquese este Acuerdo General en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página WEB del Consejo de la Judicatura Federal.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 23/2007, del Pleno del Consejo de la Judicatura Federal, que Regula el Otorgamiento de Percepciones a los Servidores Públicos Suspendidos Durante el Curso de un Procedimiento de Responsabilidad Administrativa o de un Proceso Penal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinte de junio de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a uno de agosto de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin afectar los efectos en que se ejecutaron las suspensiones decretadas con anterioridad a la vigencia del presente Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abroga el Acuerdo General 23/2007 del Pleno del Consejo de la Judicatura Federal, que regula el otorgamiento de percepciones a los servidores públicos suspendidos durante el curso de un procedimiento de responsabilidad administrativa o de un proceso penal, y las demás disposiciones que se opongan al presente Acuerdo.
