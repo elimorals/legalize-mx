@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-junta-de-conciliacion-y-arbitraje-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-29"
-last_updated: "2007-10-29"
+last_updated: "2015-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,37 +20,55 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA DE CONCILIACION Y ARBITRAJE DEL SUR DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA JUNTA DE CONCILIACION Y ARBITRAJE DEL SUR DEL ESTADO
+REGLAMENTO INTERIOR DE LA JUNTA DE CONCILIACIÓN Y ARBITRAJE DEL SUR DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
-REGLAMENTO INTERIOR DE LA JUNTA DE CONCILIACIÓN Y ARBITRAJE DEL SUR DEL ESTADO
+> <small>N. DE E. EL PRESENTE REGLAMENTO, APROBADO EN SESIÓN EXTRAORDINARIA DEL PLENO DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO, PUBLICADO EN EL B.O. DE 23 DE FEBRERO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 1
+REGLAMENTO INTERIOR JUNTA DE CONCILIACIÓN Y ARBITRAJE DEL SUR DEL ESTADO
 
-El presente ordenamiento se expide con fundamento en los artículos 614, Fracción I y 623 de la Ley Federal del Trabajo (en lo sucesivo "La Ley") y tiene por objeto reglamentar la organización y funcionamiento de la Junta Local de Conciliación y Arbitraje del Sur de Sonora, estableciendo/as facultades y obligaciones de los servidores públicos y las atribuciones de las áreas que la conforman.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-En cuanto a su estructura y funcionamiento administrativo, corresponde al Ejecutivo Estatal dictar las normas correspondientes, apegándose en todo tiempo a la Constitución Política del Estado de Sonora y a las Leyes y Reglamentos que de ella emanen.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-ARTICULO 2
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-A la Junta Local de Conciliación y Arbitraje del Sur de Sonora le corresponde, de acuerdo con lo dispuesto por la Ley Federal del Trabajo, el conocimiento y resolución de los conflictos laborales dentro de su Jurisdicción Territorial, que no sea de competencia Federal.
+ARTÍCULO 1
 
-### CAPITULO SEGUNDO. COMPETENCIA Y ORGANIZACION DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL SUR DE SONORA
+El presente ordenamiento se expide con fundamento en los artículos 614, Fracción I y 623 de la Ley Federal del Trabajo (en lo sucesivo La Ley) y tiene por objeto reglamentar la organización y funcionamiento de la Junta Local de Conciliación y Arbitraje del Sur del Estado, estableciendo las facultades y obligaciones de los servidores públicos y las atribuciones de las áreas que la conforman.
 
-ARTICULO 3
+En cuanto a su estructura y funcionamiento administrativo, corresponde al Ejecutivo Estatal dictar las normas correspondientes; apegándose en todo tiempo a la Constitución Política del Estado de Sonora y a las Leyes y Reglamentos que de ella emanen.
 
-La Junta funcionará en pleno o en Juntas Permanentes, constituida de acuerdo con la convocatoria expedida en los términos de los articulas 605 y 623 de la Ley, integrada con un Representante del Gobierno del Estado como Presidente de la misma; Representante de los Trabajadores y Representante de los Patrones; Secretarios Generales, Proyectistas, Secretarios de Acuerdos, Actuarios y demás funcionarios y empleados que desempeñarán las funciones que les asigne la Ley, el Presidente de la Junta y este Reglamento.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 4
+ARTÍCULO 2
 
-La Junta Local de Conciliación y Arbitraje del Sur del Estado con residencia en Ciudad Obregón, Sonora, será competente para conocer los conflictos individuales y colectivos derivados de las relaciones obrero-patronales que se presente en los Municipios de: Guaymas, Empalme, San Ignacio Río Muerto, Bacúm, Rosario, Cajeme, Navojoa, Benito Juárez, Huatabampo, Etchojoa, El Quíriego y Alamos.
+A la Junta Local de Conciliación y Arbitraje del Sur del Estado le corresponde, de acuerdo con lo dispuesto por la Ley Federal del Trabajo, el conocimiento y resolución de los conflictos laborales dentro de su Jurisdicción Territorial, que no sea de competencia Federal.
 
-ARTICULO 5
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO SEGUNDO. COMPETENCIA Y ORGANIZACIÓN DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL SUR DEL ESTADO DE SONORA
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 3
+
+La Junta funcionará en Pleno o en Juntas Especiales, constituida de acuerdo con la convocatoria expedida en los términos de los artículos 605 y 623 de la Ley, integrada con un Representante del Gobierno del Estado como Presidente de la misma; Representante de los Trabajadores y Representante de los Patrones; Secretarios Generales, Proyectistas, Secretarios de Acuerdos, Actuarios y demás funcionarios y empleados que desempeñarán las funciones que les asigne la Ley, el Presidente de la Junta y este Reglamento.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 4
+
+La Junta Local de Conciliación y Arbitraje del Sur del Estado con residencia en Ciudad Obregón, Sonora, será competente para conocer los conflictos individuales y colectivos derivados de las relaciones obrero-patronales que se presenten en los Municipios de: Guaymas, Empalme, San Ignacio Río Muerto, Bácum, Rosario, Cajeme, Navojoa, Benito Juárez, Huatabampo, Etchojoa, El Quiriego y Álamos.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 5
 
 La Junta Local de Conciliación y Arbitraje del Sur del Estado con residencia en Ciudad Obregón, Sonora, se compone de las siguientes áreas:
 
@@ -58,173 +76,255 @@ I.- El Pleno.
 
 II.- Presidencia.
 
-III.- Las Secretarias Generales.
+III.- Las Secretarías Generales.
 
-VI (SIC).- Las Juntas Permanentes.
+IV.- Las Juntas Especiales.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
 ARTICULO 6
 
 Para el desempeño de las atribuciones que le competan, la Junta Local de Conciliación y Arbitraje del Sur del Estado con residencia en Ciudad Obregón, Sonora, contará con los siguientes servidores públicos:
 
-Presidente.
+- Presidente.
 
-Secretario General de Asuntos Individuales.
+- Secretario General de Asuntos Individuales.
 
-Secretario General de Asuntos Colectivos.
+- Secretario General de Asuntos Colectivos.
 
-Secretario General de Dictámenes y Amparos.
+- Secretario General de Dictámenes y Amparos.
 
-Secretarios de Acuerdos.
+- Secretarios de Acuerdos.
 
-Proyectistas.
+- Proyectistas.
 
-Actuarios.
+- Actuarios.
 
-Conciliadores.
+- Funcionarios Conciliadores.
 
-Oficial de partes.
+- Oficial de Partes.
 
-Archivista.
+- Archivista.
 
-Personal administrativo.
+- Personal administrativo.
 
-ARTICULO 7
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 7
 
 La representación de la Junta Local de Conciliación y Arbitraje del Sur del Estado con residencia en Ciudad Obregón, ante Autoridades Federales, Estatales, Municipales y otros Tribunales, corresponde al Presidente en el ámbito de su competencia, pudiendo delegar dicha representación a los funcionarios de la propia Junta o cualquier otro que labore para el Gobierno del Estado de Sonora, a través de poderes que para dicho efecto otorgue, debiendo establecer en ellos las facultades que delegue.
 
-ARTICULO 9 (SIC)
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-La Junta Local de Conciliación y Arbitraje del Sur de Sonora con residencia en Ciudad Obregón, Sonora, será competente para conocer los conflictos individuales y colectivos derivados de las relaciones obrero-patronales que se presente en los Municipios de: Guaymas, Empalme, San Ignacio Río Muerto, Bacúm, Rosario, Cajeme, Navojoa, Benito Juárez, Huatabampo, Etchojoa, El Quiriego y Alamos.
+ARTÍCULO 8
 
-ARTICULO 10
+La Junta Local de Conciliación y Arbitraje del Sur del Estado con residencia en Ciudad Obregón, Sonora, será competente para conocer de los conflictos individuales y colectivos derivados de las relaciones obrero-patronales que se presenten en los Municipios de Guaymas, Empalme, San Ignacio Río Muerto, Bácum, Rosario, Cajeme, Navojoa, Benito Juárez, Huatabampo, Etchojoa, El Quiriego y Álamos.
 
-Las Juntas de Conciliación Permanentes se integraran por un representante del Gobierno del Estado, quien fungirá como Presidente y será designado por el titular del Poder Ejecutivo Estatal, Representante Obrero y Representante del Capital.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-### CAPITULO TERCERO. DEL DESPACHO DE LOS NEGOCIOS
+ARTÍCULO 9
 
-ARTICULO 11
+La Junta Especial de Guaymas de la Local de Conciliación y Arbitraje del Sur del Estado con residencia en Guaymas, Sonora, conocerá y resolverá los conflictos individuales derivados de las relaciones obrero-patronales que se encuentren reguladas por el apartado A, del artículo 123 en la Constitución Política de los Estados Unidos Mexicanos, comprendiendo su competencia territorial los municipios de Guaymas y Empalme, Sonora; sin perjuicio del derecho del trabajador por así convenir de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Sur del Estado.
 
-Las horas de despacho serán de las ocho a las quince horas, de lunes a viernes, sin perjuicio que se labore en el turno vespertino. Por lo que se refiere al procedimiento de huelga, todos los días y horas serán hábiles, de conformidad con lo dispuesto por el artículo 928, fracción III de la Ley.
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 12
+ARTÍCULO 9 BIS
 
-Las audiencias serán públicas, salvo que para el mejor de los despachos de los negocios sea necesario se efectúen a puerta cerrada, la Junta podrá hacerlo de oficio o a instancia de parte de acuerdo a lo establecido en el artículo 720 de la ley.
+La Junta Especial en Navojoa de la Local de Conciliación y Arbitraje del Sur del Estado con residencia en Navojoa, Sonora, conocerá y resolverá los conflictos individuales derivados de las relaciones obrero-patronales que se encuentran reguladas por el apartado A, del artículo 123 en la Constitución Política de los Estados Unidos Mexicanos, comprendiendo su competencia territorial los municipios de Navojoa, Álamos, Etchojoa y Huatabampo, Sonora; sin perjuicio del derecho del trabajador por así convenir de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Sur del Estado.
 
-ARTICULO 13
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 10
+
+Las Juntas de Conciliación Especiales se integrarán por un representante del Gobierno del Estado, quien fungirá como Presidente y será designado por el titular del Poder Ejecutivo Estatal, Representante Obrero y Representante del Capital.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO TERCERO. DEL DESPACHO DE LOS NEGOCIOS
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 11
+
+Las horas de despacho serán de las ocho a las quince horas, de lunes a viernes, sin perjuicio que se labore en turno vespertino. Por lo que se refiere al procedimiento de huelga, todos los días y horas serán hábiles, de conformidad con lo dispuesto por el artículo 928, fracción III de la Ley.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 12
+
+Las audiencias serán públicas, salvo que para el mejor de los despachos de los negocios sea necesario se efectúen a puerta cerrada, la Junta podrá hacerla de oficio o a instancia de parte de acuerdo a lo establecido en el artículo 720 de la Ley.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 13
 
 Las promociones y escritos de demanda serán recibidas en Oficialía de Partes en hora y día hábil y se les dará el trámite dentro de las 24 horas, turnándose a la sección correspondiente.
 
-ARTICULO 14
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 14
 
 Las partes presentarán sus escritos en la sección de Oficialía de Partes, excepto los que se presentan en el momento de la audiencia o diligencia respectiva o en los términos previstos por el artículo siguiente.
 
-ARTICULO 15
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 15
 
 Las promociones que se presenten fuera de las labores ordinarias, relacionadas con procedimientos de huelga, juicios de amparo y aquellos cuyo término se cumpla en la fecha de su presentación, exclusivamente, se recibirán por el Secretario General de la Junta Local o quien haga sus veces, en su domicilio particular, quien deberá entregarlas para su registro a Oficialía de Partes a más tardar a las doce horas del día hábil siguiente al de su recepción. El domicilio antes mencionado será hecho del conocimiento público, mediante aviso que se fijará en las vidrieras de este Tribunal Laboral.
 
-ARTICULO 16
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Las actuaciones se practicarán durante las horas mencionadas en el artículo 14 anterior, salvo lo previsto en el artículo 718 de la Ley Federal del Trabajo
+ARTÍCULO 16
 
-ARTICULO 17
+Las actuaciones se practicarán durante las horas mencionadas en el artículo 13 anterior, salvo lo previsto en el artículo 718 de la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 17
 
 Recibida la demanda y una vez acordado el número que se asigna, por el Oficial de Partes previo al registro que haga en el Libro de Gobierno la turnará al Secretario de Acuerdos de Radicaciones, quien formará el expediente para su tramitación.
 
-ARTICULO 18
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 18
 
 Los Secretarios de Acuerdos, al recibir los expedientes por parte del Oficial de Partes, del Archivista, de los Secretarios Generales de la Junta, deberán tomar nota de ellos en un libro de registro, en el que además del número de expediente se anotará la fecha de recepción y el concepto de la entrega.
 
-ARTICULO 19
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Los Secretarios Generales de la Junta Local, los Secretarios de Acuerdos, Proyectistas y Actuarios, tendrán a su cuidado y bajo su responsabilidad los expedientes que se tramiten ante los mismos, salvo aquellos casos en que éstos se encuentren encargados a determinado personal jurídico de la Junta, para la, realización de determinada encomienda procesal, siendo en este caso responsable el funcionario que lo reciba.
+ARTÍCULO 19
 
-ARTICULO 20
+Los Secretarios Generales de la Junta Local, los Secretarios de Acuerdos, Proyectistas, Funcionarios Conciliadores y Actuarios, tendrán a su cuidado y bajo su responsabilidad los expedientes que se tramiten ante los mismos, salvo aquellos casos en que éstos se encuentren encargados a determinado personal jurídico de la Junta, para la realización de determinada encomienda procesal, siendo en este caso responsable el funcionario que lo reciba.
 
-El desahogo de las audiencias estará a cargo de la Junta, del Presidente, de los Secretarios Generales, de los Secretarios de Acuerdos, de los Presidentes o Secretarios de Acuerdos de Juntas Especiales, según la audiencia de que se trate.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 21
+ARTÍCULO 20
 
-En el desahogo de las pruebas, se deberán tomar las providencias necesarias a fin de que iniciada la audiencia, las personas que comparezcan y que hayan sido interrogadas no se comuniquen con las que van a declarar hasta en tanto termine la audiencia correspondiente.
+El deshago de las audiencias estará a cargo de la Junta, del Presidente, de los Secretarios Generales, de los Secretarios de Acuerdos, del Presidente o Secretarios de Acuerdos de Juntas Especiales, o del Funcionario Conciliador, según la audiencia de que se trate.
 
-ARTICULO 22
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Las promociones que se hagan tuera de audiencia, serán acordadas dentro de las cuarenta y ocho horas siguientes y las que se presenten dentro de las mismas, se resolverán o acordarán en el acto.
+ARTÍCULO 21
 
-ARTICULO 23
+En el desahogo de las pruebas, se deberán tomar las providencias necesarias, a fin de que iniciada la audiencia, las personas que comparezcan y que hayan sido interrogadas no se comuniquen con las que van a declarar hasta en tanto termine la audiencia correspondiente.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 22
+
+Las promociones que se hagan fuera de audiencia, serán acordadas dentro de las cuarenta y ocho horas siguientes y las que se presenten dentro de las mismas, se resolverán o acordarán en el acto.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 23
 
 Los expedientes sólo saldrán del local de la Junta, cuando se remitan a las Autoridades Judiciales de la Federación para substanciar el juicio de amparo o cuando deban practicarse diligencias por los Actuarios, Notarios o los que se remitan a diversa Autoridad por incompetencia.
 
-ARTICULO 24
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 24
 
 La reposición de expedientes extraviados se tramitarán en la forma y términos previstos por los artículos 725 y 726 de la Ley.
 
-ARTICULO 25
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 25
 
 Cuando se pueda determinar alguna responsabilidad del funcionario o litigantes que hayan intervenido en la substanciación o pérdida del expediente, se procederá conforme a lo establecido en el artículo 727 de la Ley.
 
-ARTICULO 26
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 26
 
 Los empleados administrativos, al tomar nota de las actuaciones realizadas ante la Junta, no emplearán abreviaturas ni se permitirán raspaduras en las mismas, las fechas se pondrán con letras y las cantidades con letras y números.
 
-ARTICULO 27
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Los espacios o fojas en blanco en los expedientes, se inutilizarán con líneas cruzadas.
+ARTÍCULO 27
 
-Las actuaciones y los escritos se verificarán ordenándose cronológicamente, debiendo quedar foliadas, selladas y firmadas.
+Los espacios o fojas en blanco en los expedientes, se inutilizarán con líneas cruzadas. Las actuaciones y los escritos se verificarán ordenándose cronológicamente, debiendo quedar foliadas, selladas y firmadas.
 
-ARTICULO 28
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Los Representantes Obrero y Patronal de cada Junta, deberán firmar todas las actuaciones realizadas diariamente en su Junta de adscripción y hecho esto, el Secretario General de que se trate, entregará los expedientes al Actuario para los efectos conducentes, recabándose la firma de recibo correspondiente.
+ARTÍCULO 28
 
-### CAPITULO CUARTO. DE LAS RESOLUCIONES
+Los Representantes Obrero y Patronal de cada Junta, una vez revisado y aprobados por ellos deberán firmar todas las actuaciones realizadas diariamente en su Junta de adscripción y hecho esto, el Secretario General de que se trate, entregará los expedientes al Actuario para los efectos conducentes, recabándose la firma de recibo correspondiente.
 
-ARTICULO 29
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Son resoluciones de los Tribunales Laborales: los acuerdos, los autos incidentales o resoluciones interlocutorias, los laudos y las resoluciones administrativas.
+### CAPÍTULO CUARTO. DE LAS RESOLUCIONES
 
-ARTICULO 30
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 29
+
+Son resoluciones de los Tribunales Laborales: los acuerdos, los autos incidentales o resoluciones interlocutorias, los laudos, las resoluciones administrativas y los convenios que se celebren en conciliación entre las partes, una vez ratificados y aprobados por la Junta que corresponda.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 30
 
 El Presidente de la Junta Local de Conciliación y Arbitraje asistido del Secretario General que corresponda, dictará las resoluciones administrativas en todos aquellos casos en donde la Ley Federal del Trabajo o este Reglamento no requiera la asistencia del Pleno, tratándose de Reglamentos, Legajos de Sindicatos y los demás casos no previstos por el artículo 837 de la Ley Laboral en donde se requiera resolver.
 
-ARTICULO 31
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 31
 
 El Presidente de la Junta, una vez que se ha realizado el cierre de instrucción, procederá a turnar los autos a la Secretaría General de Dictámenes y Amparos para efecto de que se realice el proyecto de laudo correspondiente y una vez hecho que sea, lo someterá a votación de los Representantes Obrero y Patronal de la misma Junta, citándolos para una audiencia de votación y discusión del laudo.
 
-ARTICULO 32
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 32
 
 Si están presentes uno o varios de los Representantes, las resoluciones se tomarán por mayoría de votos. En los casos de empate, el voto del ausente se sumará al del Presidente.
 
-ARTICULO 33
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Las resoluciones de la Junta, no admiten ningún recurso. Las Juntas no pueden revocar sus resoluciones tal y como lo estable el numeral 848 de la Ley Federal del Trabajo, sin perjuicio de lo dispuesto por el Artículo 686 del citado ordenamiento.
+ARTÍCULO 33
 
-ARTICULO 34
+Las resoluciones de la Junta, no admiten ningún recurso. Las Juntas no pueden revocar sus resoluciones tal y como lo estable (sic) el numeral 848 de la Ley Federal del Trabajo, sin perjuicio de lo dispuesto por el Artículo 686 del citado ordenamiento.
 
-En los casos de resoluciones incidentales, si están presentes uno o varios de los Representantes, las resoluciones se tomarán por mayoría de votos, si no está presente ninguno de los Representantes, el Presidente dictará la resolución que proceda salvo las que versen sobre personalidad, competencia, aceptación de pruebas, desistimiento de la acción y substitución del patrón, en' cuyo caso el Presidente citará a los Representantes a una audiencia para la resolución de dichas cuestiones y si no concurren, dictará la resolución que proceda.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 35
+ARTÍCULO 34
 
-Sometido a votación el dictamen formulado en cada expediente, el Secretario de la Junta de que se trate, levantará el acta correspondiente con el resultado y hará constar La fecha, húmero del expediente y el nombre de las partes. En caso de modificación al dictamen, además de expresar el sentido de votación, se asentarán en el acta las consideraciones fundamentales de dicha modificación.
+En los casos de resoluciones incidentales, si están presentes uno o varios de los Representantes, las resoluciones se tomarán por mayoría de votos, si no está presente ninguno de los Representantes, el Presidente dictará la resolución que proceda salvo las que versen sobre personalidad, competencia, aceptación de pruebas, desistimiento de la acción y substitución del patrón, en cuyo caso el Presidente citará a los Representantes a una audiencia para la resolución de dichas cuestiones y si no concurren, dictará la resolución que proceda.
 
-ARTICULO 36
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 35
+
+Sometido a votación el dictamen formulado en cada expediente, el Secretario de la Junta de que se trate, levantará el acta correspondiente con el resultado y hará constar la fecha, número del expediente y el nombre de las partes. En caso de modificación al dictamen, además de expresar el sentido de votación, se asentarán en el acta las consideraciones fundamentales de dicha modificación.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 36
 
 Se procederá a obtener tantas copias de los laudos como sean necesarios a efecto de entregar una a cada parte del litigio, conservándose otra para el archivo.
 
-ARTICULO 37
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Cuando una resolución sea impugnada a través del juicio de Amparo, el Presidente de la Junta que sea considerada como Autoridad Responsable, no sólo se concretará a informar enviando las constancias del expediente, argumentando que son ciertos los actos reclamados, más no violatorios de garantías, sino que en el oficio respectivo, plasmará los razonamientos procedentes para tratar de que el Tribunal de Amparo llegue a la conclusión de que el laudo emitido por la Junta, está apegado a derecho.
+ARTÍCULO 37
 
-### CAPITULO QUINTO. DEL PLENO DE LAS JUNTAS
+Cuando una resolución sea impugnada a través del juicio de Amparo, el Presidente de la Junta que sea considerada como Autoridad Responsable, no solo se concretará a informar enviando las constancias del expediente, argumentando que son ciertos los actos reclamados, más no violatorios de garantías, sino que en el oficio respectivo, plasmará los razonamientos procedentes para tratar de que el Tribunal de Amparo llegue a la conclusión de que el laudo emitido por la Junta, está apegado a derecho.
 
-ARTICULO 38
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO QUINTO. DEL PLENO DE LAS JUNTAS
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 38
 
 El Pleno se integra con el Presidente de la Junta y la totalidad de los Representantes Obrero y Patronal, conforme lo preceptuado por el artículo 607 de la Ley.
 
-ARTICULO 39
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 39
 
 El Pleno de la Junta, tiene las facultades y obligaciones que le confiere el ordinal 614 de la Ley que consiste en:
 
-I.- Expedir el Reglamento Interior de la Junta;
+I.- Expedir el Reglamento Interior de la Junta y los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los presidentes de las Juntas Especiales;
 
 II.- Conocer y resolver los conflictos de trabajo cuando afecten a la totalidad de las ramas de la industria y de las actividades representadas en la Junta, relativas a su jurisdicción y competencia;
 
@@ -238,33 +338,47 @@ VI.- Informar al C. Subsecretario del Trabajo, de las deficiencias que observe e
 
 VII.- Las demás que le confieran las leyes.
 
-ARTICULO 40
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Las sesiones del Pleno podrán ser: Ordinarias, Extraordinarias y Especiales. Las sesiones Ordinarias del Pleno de la Junta se llevarán cada 10 días y serán presididas por el Presidente de la Junta que lo es del Pleno, por disposición del Artículo 617 fracción II de la propia Ley. Serán sesiones Extraordinarias, las que se celebren con motivo de asuntos especiales que requiera el buen despacho de los negocios, pudiendo ser convocadas y celebradas en cualquier tiempo. Las sesiones Especiales, son aquellas que traten exclusivamente de uniformar criterios de resolución de las Juntas Especiales, con los requisitos y características particulares que establece el Artículo 615 de la Ley.
+ARTÍCULO 40
 
-El Presidente de la Junta convocará a los miembros del Pleno para celebrar sesiones Ordinarias y Especiales cuando menos con tres días hábiles de anticipación, pudiendo hacerlo a través de la Junta Especial a la cual se encuentren adscritos. En caso de sesiones Extraordinarias la cita podrá efectuarse con tan sólo veinticuatro horas de anticipación.
+Las sesiones del Pleno podrán ser: Ordinarias, Extraordinarias y Especiales. Las sesiones Ordinarias del Pleno de la Junta y serán presididas por el Presidente de la Junta que lo es del Pleno, por disposición del Artículo 617 fracción II de la propia Ley. Serán sesiones Extraordinarias, las que se celebren con motivo de asuntos especiales que requiera el buen despacho de los negocios, pudiendo ser convocadas y celebradas en cualquier tiempo. Las sesiones Especiales, son aquellas que traten exclusivamente de uniformar criterios de resolución de las Juntas Especiales, con los requisitos y características particulares que establece el Artículo 615 de la Ley.
 
-ARTICULO 41
+El Presidente de la Junta convocará a los miembros del Pleno para celebrar sesiones Ordinarias y Especiales cuando menos con tres días hábiles de anticipación, pudiendo hacerlo a través de la Junta Especial a la cual se encuentren adscritos. En caso de sesiones Extraordinarias la cita podrá efectuarse con tan solo veinticuatro horas de anticipación.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 41
 
 Para la celebración de las sesiones Ordinarias y Extraordinarias, se requiere la presencia de la mitad más uno de los representantes.
 
-ARTICULO 42
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-La convocatoria a Pleno Especial para la Unificación de Criterios, deberá de contener un resumen de las diferencias de criterios sobre las que se tratará a fin de que los integrantes de este órgano, estén en aptitud de realizar el estudio legal correspondiente, la cual deberá ser entregada a los Representantes en un término no menor de cinco días hábiles. Aprobada el acta respectiva y para los efectos legales conducentes se ordenará publicar en el Boletín Oficial del Gobierno del Estado.
+ARTÍCULO 42
 
-ARTICULO 43
+La convocatoria a Pleno Especial para la Unificación de Criterios, deberá de contener un resumen de las diferencias de criterios sobre las que se tratará a fin de que, los integrantes de este órgano, estén en aptitud de realizar el estudio legal correspondiente, la cual deberá ser entregada a los Representantes en un término no menor de cinco días hábiles. Aprobada el acta respectiva y para los efectos legales conducentes se ordenará publicar en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 43
 
 Los Presidentes de las Juntas Especiales, deben concurrir al Pleno de Unificación de Criterios con voz informativa.
 
-ARTICULO 44
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Las resoluciones del Pleno se tomarán por mayoría de votos de los Representantes presentes, incluyendo el del Presidente. En caso de empate el Presidente contará con voto de calidad.
+ARTÍCULO 44
 
-ARTICULO 45
+Las resoluciones del Pleno se tomarán por mayoría de votos de los Representantes presentes, incluyendo el del Presidente. En caso de empate, el Presidente contará con voto de calidad.
 
-El Secretaría General que corresponda, actuará como Secretario del Pleno y al efecto levantará el acta de cada sesión y recabará las firmas de los que en ella intervinieron.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 46
+ARTÍCULO 45
+
+El Secretario General que corresponda, actuará como Secretario del Pleno y al efecto levantará el acta de cada sesión y recabará las firmas de los que en ella intervinieron.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 46
 
 Las sesiones del Pleno, se desarrollarán de la siguiente forma:
 
@@ -272,49 +386,63 @@ I.- El Secretario General que corresponda, dará a conocer el orden del día par
 
 II.- Pasar lista de los Representantes y dará lectura a los problemas planteados, informes y demás constancias necesarias para ilustración de los mismos. Acto continuo el Presidente dará cuenta de los asuntos que deban tratarse, pasándose al estudio, deliberación y aprobación de los mismos;
 
-III.-Tomados los acuerdos para cada caso, se harán constar en el acta respectiva, indicándose la forma en que se produjo la votación;
+III.- Tomados los acuerdos para cada caso, se harán constar en el acta respectiva, indicándose la forma en que se produjo la votación;
 
 IV.- Deberá recabar la firma de los Representantes una vez levantada el acta, así como la firma en los laudos o resoluciones inmediatamente después de que se engrosen;
 
-V.- Aprobada el acta respectiva del Pleno, el Secretario General agregará copia de ésta a los expedientes que hubieren sido sometidos al conocimiento de aquel, y los turnará a donde corresponda para los efectos conducentes.
+V.- Aprobada el acta respectiva del Pleno, el Secretario General agregará copia de ésta a los expedientes que hubieren sido sometidos al conocimiento de aquél, y los turnará a donde corresponda para los efectos conducentes.
 
-ARTICULO 47
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 47
 
 Las recomendaciones y disposiciones hechas por los Representantes, tendientes al mejoramiento de la impartición de la justicia laboral, deberán contener o precisar las deficiencias advertidas y las medidas conducentes para corregirlas.
 
-ARTICULO 48
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 48
 
 El Pleno estará asistido por el Secretario General que corresponda, quien dará fe de lo actuado y en su ausencia por quien lo substituya.
 
-### CAPITULO SEXTO. DE LOS PRESIDENTES DE LAS JUNTAS LOCALES DE CONCILIACION Y ARBITRAJE
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 49
+### CAPÍTULO SEXTO. DE LOS PRESIDENTES DE LAS JUNTAS LOCALES DE CONCILIACIÓN Y ARBITRAJE
 
-Requisitos para ser Presidente de la Junta local de Conciliación y Arbitraje, de conformidad con el artículo 612 de la Ley Federal del Trabajo, los siguientes:
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-I.- Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+ARTÍCULO 49
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+Requisitos para ser Presidente de la Junta Local de Conciliación y Arbitraje, de conformidad con el artículo 612 de la Ley Federal del Trabajo, los siguientes:
+
+I.- Ser mexicano, por nacimiento que no adquiera otra nacionalidad, mayor de treinta años y estar en pleno goce de sus derechos civiles y políticos;
+
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
 III.- Tener cinco años de ejercicio profesional, posteriores a la expedición del título a que se refiere la fracción anterior, por lo menos;
 
-IV.- Haberse distinguido en estudios de Derecho del Trabajo y de la Seguridad Social;
+IV.- Tener experiencia en la materia y haberse distinguido en estudios de Derecho del Trabajo y de la Seguridad Social;
 
-V.- No pertenecer al estado eclesiástico;
+V.- No ser ministro de culto religioso;
 
-VI.- No haber sido condenado por delito intencional sancionado con pena corporal;
+VI.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena privativa de libertad;
 
-VII.- El Presidente de la Junta Local deberá ser designado por el C. Gobernador del Estado, de conformidad con lo dispuesto en el artículo 79, fracción XXXIII de la Constitución Política local.
+VII.- El Presidente de la Junta Local deberá ser designado por el C. Gobernador del Estado, de conformidad con lo dispuesto en el artículo 79, fracción XXXIII de la Constitución Política Local.
 
-ARTICULO 50
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 50
 
 Es obligación del Presidente, vigilar que la Junta cumpla con las funciones que la Constitución General de la República, la Local del Estado, la Ley Federal del Trabajo y el presente Reglamento establecen, para los efectos tendrá la facultad de dictar acuerdos, resoluciones o cualquier medida administrativa que sea necesaria y estime pertinente para la mejor distribución de las funciones y expedientes de la Junta, así como en lo relativo a movimientos y reestructuración del personal tanto jurídico como administrativo.
 
-ARTICULO 51
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 51
 
 El Presidente tendrá la facultad de establecer los mecanismos que sean más adecuados a su juicio, para el mejor funcionamiento de la Junta, en lo relativo a puntualidad, asistencia, permisos, horarios y tiempo de descanso, para los efectos de este artículo podrá delegar dichas facultades al Secretario General que corresponda.
 
-ARTICULO 52
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 52
 
 Además de las señaladas por el artículo 617 de la Ley, el Presidente tendrá las siguientes obligaciones y facultades:
 
@@ -332,11 +460,11 @@ f) Habilitar como Actuarios transitoriamente a los Secretarios de las Juntas;
 
 g) Habilitar transitoriamente como Secretarios de Acuerdos a aquellos Actuarios que reúnan los requisitos enumerados en el dispositivo 80 de este mismo Reglamento;
 
-h) Habilitar como Presidentes de Junta Especial transitoriamente en los casos a que se refiere el Artículo 613 de la Ley Federal del Trabajo, al Secretario Generala en su caso a Un Secretario de Acuerdos si reúne los requisitos para ocupar dicho cargo;
+h) Habilitar como Presidentes de Junta Especial transitoriamente en los casos a que se refiere el Artículo 613 de la Ley Federal del Trabajo, al Secretario General o en su caso a un Secretario de Acuerdos si reúne los requisitos para ocupar dicho cargo;
 
 i) Habilitar temporalmente al Secretario General o en su caso al Presidente de la Junta Especial que corresponda, para que supla las ausencias del Presidente de la Junta Local;
 
-j) En acuerdo con el Secretario General, podrá designar un local diferente al que ocupa la Junta, para la ubicación y conservación del Archivo Semiactivo, e Inactivo, pudiendo delegar el resguardo del mismo a persona, Institución o Autoridad ajena a la Junta;
+j) En acuerdo con el Secretario General, podrá designar un local diferente al que ocupa la Junta, para la ubicación y conservación del Archivo Semiactivo, e inactivo, pudiendo delegar el resguardo del mismo a persona, Institución o Autoridad ajena a la Junta;
 
 k) Citar a las personas cuya presencia estime necesaria;
 
@@ -344,21 +472,29 @@ l) Actuar como órgano de representación, comunicación y relación de la Junta
 
 m) Tener bajo su cuidado y responsabilidad la caja general de valores de la Junta, debiendo llevar el libro o libros generales para el registro y control de ellos;
 
-n) Las demás que le confieran las Leyes aplicables y las que se deriven de las necesidades de la Junta.
+n) Comunicar los cambios de domicilio de las Juntas Especiales, dependientes de la Junta;
 
-ARTICULO 53
+o) Las demás que le confieran las Leyes aplicables y las que se deriven de las necesidades de la Junta.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 53
 
 En caso de ser necesaria, por el crecimiento poblacional, incremento de juicios, procedimientos o trámites y si el presupuesto de Egresos así lo permite, el Presidente de la Junta podrá crear, modificar o fusionar los puestos y funciones ya existentes, para lo cual dictará un acuerdo en que se indiquen las funciones y facultades que el encargado de dicha área tenga.
 
-CAPITULO SEPTlMO
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+CAPÍTULO SÉPTlMO
 
 DE LOS REPRESENTANTES DE LOS TRABAJADORES Y PATRONES
 
-ARTICULO 54
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 54
 
 Los representantes de los trabajadores y patrones, deberán satisfacer los siguientes requisitos:
 
-I. Ser mexicanos, mayores de edad y en pleno ejercicio de sus derechos;
+I. Ser mexicanos, mayores de veinticinco años y en pleno ejercicio de sus derechos;
 
 II. Haber terminado la educación obligatoria;
 
@@ -366,19 +502,21 @@ III. No pertenecer al estado eclesiástico;
 
 IV. No haber sido condenado por delito intencional sancionado con pena corporal.
 
-ARTICULO 55
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Sin perjuicio de lo dispuesto en el artículo anterior, los Representantes de los Trabajadores y patrones tendrán las siguientes facultades:
+ARTÍCULO 55
 
-a) Sugerir que los asuntos que estimen pertinentes sean incluidos en el orden del día de las sesiones plenarias de la Junta local de Conciliación y Arbitraje;
+Sin perjuicio de lo dispuesto en el artículo anterior, los Representantes de los trabajadores y patrones tendrán las siguientes facultades;
 
-b) Volar y opinar en los negocios que conozcan y las resoluciones correspondientes;
+a) Sugerir que los asuntos que estimen pertinentes sean incluidos en el orden del día de las sesiones plenarias de la Junta Local de Conciliación y Arbitraje;
 
-c) Dar aviso oportunamente al Presidente de la Junta local de Conciliación y Arbitraje, en los casos que se tenga la necesidad de ausentarse, a fin de que su ausencia sea cubierta por el suplente, o en su caso, sea designado el substituto correspondiente;
+b) Votar y opinar en los negocios que conozcan y las resoluciones correspondientes;
+
+c) Dar aviso oportunamente al Presidente de la Junta Local de Conciliación y Arbitraje, en los casos que se tenga la necesidad de ausentarse, a fin de que su ausencia sea cubierta por el suplente, o en su caso, sea designado el substituto correspondiente.
 
 d) Causas de responsabilidad de los representantes de los trabajadores y de los patrones son:
 
-1) Conocer de un negocio para el que se encuentren impedidos, de conformidad con la ley Federal del Trabajo.
+1) Conocer de un negocio para el que se encuentren impedidos, de conformidad con la Ley Federal del Trabajo.
 
 2) Litigar en alguna otra Junta salvo en causa propia, de sus padres, de su cónyuge o de sus hijos.
 
@@ -386,11 +524,11 @@ d) Causas de responsabilidad de los representantes de los trabajadores y de los 
 
 4) Negarse a emitir su voto en alguna resolución.
 
-5) Negarse a firmar alguna resolución.
+5) Negarse a firmar alguna resolución sin causa justificada.
 
-6) Sustrae de la oficina un expediente, sin otorgar recibo al secretario.
+6) Sustraer de la oficina un expediente, sin otorgar recibo al secretario.
 
-7) Sustraer de algún expediente cualquier constancia o modificar el contenido de las actas después de firmadas por las partes, testarlas, o destruir en todo en parte las fojas de un expediente.
+7) Sustraer de algún expediente cualquier constancia o modificar el contenido de las actas después de firmadas por las partes, testarlas, o destruir en todo o en parte las fojas de un expediente.
 
 8) Retener indebidamente un expediente o negarse a devolverlo al ser requeridos por el secretario.
 
@@ -398,9 +536,9 @@ d) Causas de responsabilidad de los representantes de los trabajadores y de los 
 
 10) Recibir directa o indirectamente cualquier dádiva de las partes en conflicto.
 
-11) Litigar un representante suplente en la Junta en la que se está en funciones el propietario o litigar éste estando en funciones el suplente como lo establece el artículo 671 de la ley Federal del trabajo.
+11) Litigar un representante suplente en la Junta en la que se está en funciones el propietario o litigar éste estando en funciones el suplente como lo establece el artículo 671 de la Ley Federal del trabajo.
 
-e) Son sanciones aplicables a los representantes de los trabajadores y de los patrones son:
+e) Son sanciones aplicables a los representantes de los trabajadores y de los patrones:
 
 1. Amonestación.
 
@@ -410,27 +548,35 @@ e) Son sanciones aplicables a los representantes de los trabajadores y de los pa
 
 Como lo establece el artículo 672 de la Ley Federal del Trabajo.
 
-### CAPITULO OCTAVO. DE LA SECRETARIA GENERAL DE ASUNTOS INDIVIDUALES
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 56
+### CAPÍTULO OCTAVO. DE LA SECRETARÍA GENERAL DE ASUNTOS INDIVIDUALES
 
-La Secretaria General, es un órgano jurídico administrativo que auxilia las labores de la Junta de conformidad con las necesidades de la misma. En términos del artículo 605 de la Ley Federal del Trabajo, la Junta Local de Conciliación y Arbitraje contará con un Secretario General.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 57
+ARTÍCULO 56
 
-Son requisitos para ser Secretario General de la Junta Local de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 629 de la Ley Federal del Trabajo, las siguientes:
+La Secretaría General, es un órgano jurídico administrativo que auxilia las labores de la Junta de conformidad con las necesidades de la misma. En términos del artículo 605 de la Ley Federal del Trabajo, la Junta Local de Conciliación y Arbitraje contará con un Secretario General.
 
-I.- Ser Mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+ARTÍCULO 57
 
-III.- Tener cinco años de ejercicio profesional posteriores a fa obtención de título de Licenciado en Derecho por lo menos y haberse distinguido en estudios de Derecho del Trabajo;
+Son requisitos para ser Secretario General de la Junta Local de Conciliación y Arbitraje del Sur del Estado, de conformidad con lo dispuesto por el artículo 629 de la Ley Federal del Trabajo, las siguientes:
 
-IV.- No pertenecer al estado eclesiástico;
+I.- Ser Mexicano, mayores de veinticinco años y estar en pleno ejercicio de sus derechos;
 
-V.- No haber sido condenado por delito internacional sancionado con pena corporal.
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-ARTICULO 58
+III.- Tener cinco años de ejercicio profesional en materia laboral, posteriores a la obtención de título de abogado o Licenciado en Derecho, haberse distinguido en estudios de Derecho del Trabajo y experiencia mínima de un año como servidor público en el ámbito del sector laboral;
+
+IV.- No ser ministro de culto religioso;
+
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 58
 
 El Secretario General, además de las facultades y obligaciones que le asignan la Ley Federal del Trabajo en vigor, tendrá las siguientes:
 
@@ -438,11 +584,11 @@ a).- Vigilar el orden y disciplina del personal jurídico de la Junta así como 
 
 b).- Proponer al Presidente las disposiciones de carácter general, que estime convenientes para el buen desempeño de las funciones de la Junta;
 
-c).- Aplicar con fa aprobación del Presidente, las normas o procedimientos jurídico-administrativos necesarios para el buen desempeño de las funciones de la Junta;
+c).- Aplicar con la aprobación del Presidente, las normas o procedimientos jurídicos administrativos necesarios para el buen desempeño de las funciones de la Junta;
 
 d).- Dar cuenta inmediata al Presidente de los casos que demanden urgente resolución;
 
-e).- Autorizar los acuerdos de la Junta y los del Presidente, dictados en aquellos negocios que conozca en el ejercicio de sus funciones;
+e).- Autorizar los acuerdos de la Junta y dictados en aquellos negocios que conozca en el ejercicio de sus funciones;
 
 f).- Certificar y expedir las copias de las constancias que obren en los expedientes de la Junta, cuando lo soliciten las partes y lo acuerde la propia Junta o el Presidente;
 
@@ -450,15 +596,17 @@ g).- Cuidar que las Juntas Especiales y los demás Departamentos, cumplan estric
 
 h).- Actuar como Secretario del Pleno;
 
-i).- Redactar las aetas del Pleno de la Junta;
+i).- Redactar las actas del Pleno de la Junta;
 
-j).- Formar una colección de los laudos y una diversa de las resoluciones importantes dictadas por la Junta;
+j).- Formar una colección de las resoluciones importantes dictadas por la Junta;
 
 k).- Autorizar con su firma la lista de acuerdos y de audiencias a celebrarse, las que deberán publicarse en los Estrados de la Junta;
 
 l).- Custodiar bajo su más estricta responsabilidad, las consignaciones y valores que por diversos conceptos se realicen ante la Junta y si se trata de cantidades en efectivo, depositarlas en la caja de seguridad;
 
-m).- Recibir en su domicilio particular los escritos, promociones, demandas, amparos y en general los documentos que sean presentados fuera del horario administrativo, incluso, en días inhábiles, haciendo constar al pie de los mismos, la hora y fecha de su presentación;
+m).- Recibir en su domicilio particular los escritos, promociones, demandas, amparos y
+
+m) (sic).- Recibir en su domicilio particular los escritos, promociones, demandas, amparos y (sic) en general los documentos que sean presentados fuera del horario - administrativo, incluso en días inhábiles, haciendo constar al pie de los mismos, la hora y fecha de su presentación;
 
 n).- Tener a su cargo el archivo, cuidando su funcionamiento y buen manejo;
 
@@ -480,29 +628,39 @@ u).- Suplir a los Secretarios de Juntas Especiales, por acuerdo del Presidente d
 
 v).- Desempeñar las demás comisiones que le indique el Presidente.
 
-ARTICULO 59
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Las ausencias temporales y las definitivas del Secretario General del que se trate, serán cubiertas por el Secretario de Acuerdos de más antigüedad hasta en tanto se haga un nuevo nombramiento.
+ARTÍCULO 59
 
-### CAPITULO NOVENO. DE LA SECRETARIA GENERAL DE ASUNTOS COLECTIVOS
+Las ausencias temporales y las definitivas del Secretario General del que se trate, serán cubiertas por el Secretario de Acuerdos de mas antigüedad hasta en tanto se haga un nuevo nombramiento.
 
-ARTICULO 60
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-La Secretaria General de Asuntos Colectivos, dependerá directamente del Presidente de la Junta, tramitará lo conducente a los expedientes relativos al procedimiento de huelgas y conflictos de naturaleza económica hasta su conclusión, incluyendo los de procedimiento de ejecución que procedan.
+### CAPÍTULO NOVENO. DE LA SECRETARÍA GENERAL DE ASUNTOS COLECTIVOS
 
-ARTICULO 61
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 60
+
+La Secretaría General de Asuntos Colectivos, dependerá directamente del Presidente de la Junta, tramitará lo conducente a los expedientes relativos al procedimiento de huelgas y conflictos de naturaleza económica hasta su conclusión, incluyendo los de procedimiento de ejecución que procedan.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 61
 
 El Secretario General de Asuntos Colectivos, contará con el personal jurídico y administrativo que la Presidencia de la Junta asigne para su ejecución y tramitación de los procedimientos de su competencia.
 
-ARTICULO 62
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 62
 
 Son funciones de esta Secretaría, por lo que respecta al procedimiento de huelgas las siguientes:
 
-a).- Informar al Presidente de la Junta Local de Conciliación y Arbitraje acerca del estado que guardan los expedientes de huelgas en trámite;
+a).- Informar al Presidente de la Junta Local de Conciliación y Arbitraje acerca del estado que guardan los expedientes de huelgas en trámite.
 
-b).- Someter a consideración del Presidente de la Junta Local de Conciliación y Arbitraje, de los Representantes que intervengan en el trámite los proyectos, acuerdos que se requieran en la tramitación de los expedientes de huelgas; para-la aprobación y firma en su caso;
+b).- Someter a consideración del Presidente de la Junta Local de Conciliación y Arbitraje, de los Representantes que intervengan en el trámite los proyectos, acuerdos que se requieran en la tramitación de los expedientes de huelgas; para la aprobación y firma en su caso;
 
-c).- Llevar un registro de sindicatos de obreros y patrones, en el que se anotará el nombramiento de la agrupación y la fecha de la constitución, expresando la clase de sindicato de que se trate y si está afiliado a una Federación, Confederación, anotando igualmente el número de su registro;
+c).- Llevar un registro de sindicatos de obreros y patrones, en el que se anotará el nombramiento de la agrupación y la fecha de la constitución, expresando la clase de sindicato de que se trate y si está afiliado a una Federación, Confederación, anotando igualmente el número de su registro. En el registro de los sindicatos se deberá observar los principios de legalidad, transparencia certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad, autonomía, equidad y democracia sindical.
 
 d).- Rendir los informes que en su caso requiera el Presidente de la Junta Local de Conciliación y Arbitraje;
 
@@ -516,13 +674,15 @@ h).- Llevar a cabo el trámite de los Juicios de Titularidad que se presenten en
 
 i).- Desempeñar las demás comisiones que le indique el Presidente.
 
-ARTICULO 63
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 63
 
 En la tramitación de los procedimientos de Huelga se observará lo siguiente:
 
-a).- Se recibirá de Oficialía de Partes las promociones, oficios, escritos y demás correspondencia relacionadas (sic) con asuntos colectivos que se deban tramitar en esa Secretaria;
+a).- Se recibirá de Oficialía de Partes las promociones, oficios, escritos y demás correspondencia relacionada con asuntos colectivos que se deban tramitar en esa Secretaría;
 
-b).- La documentación a que se refiere el inciso anterior deberá ser tramitada inmediatamente después de Que se reciba;
+b).- La documentación a que se refiere el inciso anterior deberá ser tramitada inmediatamente después de que se reciba;
 
 c).- Vigilar que en la celebración de las audiencias que se estén llevando a cabo, previo a la celebración de las audiencias, vigilar que las partes hayan sido debidamente notificados;
 
@@ -530,25 +690,41 @@ d).- Ajustarse en las prácticas de las diligencias el cumplimiento de lo ordena
 
 e).- Dar cuenta inmediata al Presidente de la Junta adscrito de los obstáculos que se presenten al practicar las diligencias que les hayan sido encomendadas;
 
-f).- Depositar en la caja de valores de la Junta los créditos y valores Que se reciban con motivo del ejercicio de sus funciones;
+f).- Depositar en la caja de valores de la Junta los créditos y valores que se reciban con motivo del ejercicio de sus funciones;
 
 g).- Cumplir con las demás disposiciones señalas en la Ley Federal del Trabajo y las ordenadas por su superior jerárquico.
 
-ARTICULO 64
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Estará a cargo de la Secretaria General de Asuntos Colectivos, atender lo conducente en relación con los recuentos de los trabajadores acordados.
+ARTÍCULO 63 BIS
 
-### CAPITULO DECIMO. DE LA SECRETARIA GENERAL DE DICTÁMENES Y AMPAROS
+La Junta Local de Conciliación y Arbitraje del Sur del Estado y la Secretaría del Trabajo del Estado, harán pública, para consulta de cualquier persona, debidamente actualizada, la información de los registros de los sindicatos; Asimismo, deberá expedir copias de los documentos que obren en los expedientes de registro que se les soliciten, en términos del artículo 8º Constitucional, de los (sic) dispuesto por la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora.
 
-ARTICULO 65
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Corresponde a la Secretaría General de Dictámenes y Amparos, proyectar, vigilar e intervenir en el buen desarrollo de los actos y resoluciones que deban dictar los distintos órganos de la Junta Local de Conciliación y Arbitraje, cuando sean partes en los juicios de amparo que se tramiten ante autoridades judiciales, en contra de los laudos y demás resoluciones dictadas en los asuntos de su competencia. Además tendrá a su cargo el número de proyectistas asignados por el Presidente para que éstos realicen la elaboración de los proyectos de laudos correspondientes.
+ARTÍCULO 64
 
-ARTICULO 66
+Estará a cargo de la Secretaría General de Asuntos Colectivos, atender lo conducente en relación con los recuentos de los trabajadores acordados.
 
-La Secretaria General de Dictámenes y Amparos, estará a cargo de un Secretario General que dependerá directamente del Presidente de la Junta Local y éste tendrá a su cargo distribuir el trabajo interno en la propia Secretaría, vigilando la correcta elaboración de los proyectos de laudos y así como la puntual notificación de los acuerdos relacionados en la sustanciación de los juicios de amparos y para tales efectos se le dotará de Secretarios de Acuerdos, Proyectistas, Actuarios, personal administrativo y medios necesarios para el buen funcionamiento.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 67
+### CAPÍTULO DÉCIMO. DE LA SECRETARÍA GENERAL DE DICTÁMENES Y AMPAROS
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 65
+
+Corresponde a la Secretaría General de Dictámenes y Amparos, proyectar, vigilar e intervenir en el buen desarrollo de los actos y resoluciones que deban dictar los distintos órganos de la Junta Local de Conciliación y Arbitraje, cuando sean partes en los juicios de amparo que se tramiten ante autoridades judiciales, en contra de los laudos y demás resoluciones dictadas en los asuntos de su competencia. Además tendrá a su cargo el número de proyectistas asignados por el Presidente para que estos realicen la elaboración de los proyectos de laudos correspondientes.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 66
+
+La Secretaría General de Dictámenes y Amparos, estará a cargo de un Secretario General que dependerá directamente del Presidente de la Junta Local y éste tendrá a su cargo distribuir el trabajo interno en la propia Secretaría, vigilando la correcta elaboración de los proyectos de laudos y así como la puntual notificación de los acuerdos relacionados en la sustanciación de los juicios de amparos y para tales efectos se le dotará de Secretarios de Acuerdos, Proyectistas, Actuarios, personal administrativo y medios necesarios para el buen funcionamiento.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 67
 
 En la tramitación de los juicios de amparos se observará lo siguiente:
 
@@ -560,61 +736,81 @@ c).- Recibida una demanda de amparo, se solicitará de inmediato el expediente l
 
 d).- Llevar un registro en el Libro de Gobierno correspondiente tanto de amparos directos e indirectos.
 
-ARTICULO 68
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 68
 
 El Secretario General de Dictámenes y Amparos, deberá acompañar a los informes previos y justificados que deba rendir a la Autoridad Judicial competente, los elementos necesarios para comprobar la existencia de las causas legales, que se funden y motiven los actos o procedimientos reclamados.
 
-ARTICULO 69
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 69
 
 Corresponde al Secretario General de Dictámenes y Amparos, expedir copias certificadas de los documentos que obren en el expediente, previo acuerdo de la Junta correspondiente con petición de los interesados cuando vayan a ser presentados como prueba de los juicios de amparos.
 
-ARTICULO 70
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 70
 
 Corresponde al Secretario General de Dictámenes y Amparos, vigilar e intervenir para que las resoluciones de las Autoridades Judiciales, que en materia de amparo hayan causado amparo, sean turnados de inmediato con sus antecedentes a quien corresponda, para el efecto de que se les de el debido cumplimiento.
 
-ARTICULO 71
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 71
 
 El Secretario General de Dictámenes y Amparos deberá hacer del conocimiento a las Autoridades de la Junta Local de Conciliación y Arbitraje señaladas como autoridades en los juicios de amparos, las resoluciones sobre suspensiones y sus modificaciones para otorgamiento de fianza y contra fianza, para el efecto de que, de manera oportuna, se ejecute lo conducente.
 
-ARTICULO 72
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Sin perjuicio de lo que establece la Ley Federal del Trabajo, son obligaciones de los miembros de la Secretaria General de Dictámenes y Amparos:
+ARTÍCULO 72
 
-a) Firmar el recibo de los expedientes que les sean turnados, los que deberán de conservar en su poder, dentro de la oficina correspondiente, por el tiempo necesario para que emitan sus dictámenes;
+Sin perjuicio de lo que establece la Ley Federal del Trabajo, son obligaciones de los miembros de la Secretaría General de Dictámenes y Amparos:
+
+a) Firmar el recibo de los expedientes que le sean turnados, los que deberán de conservar en su poder, dentro de la oficina correspondiente, por el tiempo necesario para que emitan sus dictámenes;
 
 b) Mantener los expedientes a su cargo, hasta la firma del laudo en situación de acuerdo reservado;
 
 c) Dar cumplimiento a la Ley y a los criterios establecidos por la Junta Local, en la forma y contenido de los dictámenes que elabora;
 
-d) Rendir un informe al Presidente de la Junta al que está adscrito acerca de los dictámenes formulados con los datos que identifiquen y el sentido de los dictámenes;
+d) Rendir un informe al Presidente de la Junta al que esta adscrito acerca de los dictámenes formulados con los datos que identifiquen y el sentido de los dictámenes;
 
 e) Formular los laudos ajustándose al resultado de la votación del dictamen;
 
-f) Respetar el criterio jurídico sistemático de las Juntas, entendiéndose por sistemático el criterio expresado sobre un punto de derecho, en tres o más resoluciones;
+f) Respetar el criterio jurídico sistemático de las Juntas, entendiéndose por sistemático el criterio expresado sobre un punto de derecho, en tres o mas resoluciones;
 
-g) Cumplir con las demás disposiciones señaladas por la Ley Federal der Trabajo y las ordenadas por su superior jerárquico.
+g) Cumplir con las demás disposiciones señaladas por la Ley Federal del trabajo y las ordenadas por su superior jerárquico.
 
-### CAPITULO DECIMO PRIMERO. DE LOS COORDINADORES
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 73
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS COORDINADORES
 
-La Junta Local de Conciliación y Arbitraje, contara con los Coordinadores que requiera en las áreas que para tal efecto designe el Presidente de la misma y su función será la de auxiliar operativa mente al Secretario General que corresponda.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-### CAPITULO DECIMO SEGUNDO. DEL PROYECTISTA
+ARTÍCULO 73
 
-ARTICULO 74
+La Junta Local de Conciliación y Arbitraje, contará con los Coordinadores que requiera en las áreas que para tal efecto designe el Presidente de la misma y su función será la de auxiliar operativamente al Secretario General que corresponda.
 
-El Proyectista de la Junta Local de Conciliación y Arbitraje, deberá reunir los siguientes requisitos de acuerdo con el Artículo 627 de la Ley Federal del Trabajo:
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DEL PROYECTISTA
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 74
+
+El Proyectista de la Junta Local de Conciliación y Arbitraje del Estado, deberá reunir los siguientes requisitos de acuerdo con el Artículo 627 de la Ley Federal del Trabajo:
 
 I.- Ser mexicano, mayores de edad y estar en pleno ejercicio de sus derechos;
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III.- No pertenecer al estado eclesiástico y;
+III.- Haberse distinguido en estudios de derechos del trabajo;
 
-IV.- No haber sido condenado-por delito intencional sancionado con pena corporal.
+IV.- No ser ministro de culto; y
 
-ARTICULO 75
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
+
+ARTÍCULO 75
 
 Son facultades y obligaciones del Proyectista, las siguientes:
 
@@ -622,35 +818,43 @@ a) Elaborar los proyectos de dictámenes y/o cumplimentaciones que le sean encom
 
 b) Formar una colección de los dictámenes y laudos que elabore;
 
-c) Formular ponencias, proyectos de resolución, así como auxiliar en fa redacción de acuerdos y correspondencia que le encomiende tanto la H. Junta Local de Conciliación y Arbitraje del Estado, el Presidente, el Secretario General y/o su superior jerárquico;
+c) Formular ponencias, proyectos de resolución, así como auxiliar en la redacción de acuerdos y correspondencia que le encomiende tanto la H. Junta Local de Conciliación y Arbitraje del Estado, el Presidente, el Secretario General y/o su superior jerárquico;
 
 d) Firmar la relación al recibir los expedientes que le sean turnados para su estudio y proyecto de resolución, anotando en un libro los datos de los que devuelva, una vez formulados los dictámenes y laudos;
 
 e) Ajustarse estrictamente en la formulación de dictámenes y laudos, a los criterios aprobados por el Pleno;
 
-f) Rendir el informe que la H. Junta Local de Conciliación y Arbitraje del Estado, el Presidente y/o su superior jerárquico solicite en relación al desarrollo de sus labores; (sic)
+f) Rendir el informe que la H. Junta Local de Conciliación y Arbitraje del Estado, el Presidente y/o su superior jerárquico solicite en relación al desarrollo de sus labores;
 
-### CAPITULO DECIMO TERCERO. DE LOS SECRETARIOS DE ACUERDOS
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 76
+### CAPÍTULO DÉCIMO TERCERO. DE LOS SECRETARIOS DE ACUERDOS
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 76
 
 Los Secretarios de Acuerdos deberán satisfacer los requisitos que establece el artículo 627 de la Ley Federal del Trabajo, que son los siguientes:
 
 I.- Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III.- No pertenecer al estado eclesiástico; y
+III.- Haberse distinguido en estudios de derechos del trabajo;
 
-IV.- No haber sido condenados por delito intencional sancionado con pena corporal.
+IV.- No ser ministro de culto; y
 
-ARTICULO 77
+V.- Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 77
 
 Corresponde a los Secretarios de Acuerdos además de las facultades que les impone la Ley Federal del trabajo:
 
 a) Vigilar que la celebración de las audiencias, previas notificaciones legales y oportunas;
 
-b) Procurar la celebración de los arreglos conciliatorios entre las partes que dejen concluido el litigio;
+b) Procurar la celebración de los arreglos conciliatorios entre las partes que dejen concluido el litigio, sin perjuicio de las atribuciones que tienen encomendadas en este mismo Reglamento los Funcionarios Conciliadores;
 
 c) Interrogar a las personas que intervengan en las audiencias de recepción de pruebas, para el esclarecimiento de la verdad;
 
@@ -658,35 +862,43 @@ d) Vigilar el orden y respeto debido en el interior de la Junta;
 
 e) Vigilar que se asienten las manifestaciones de las partes, así como las declaraciones de los comparecientes, cuidando que no se altere el sentido de las mismas;
 
-f) Recoger previa firma de recibido, todos los días del archivo respectivo, los expedientes en los cuales deben celebrar las audiencias, así como aquellos que deban proveer acuerdos o cualquier otro tramite;
+f) Recoger previa firma de recibido, todos los días del archivo respectivo, los expedientes en los cuales deben celebrar las audiencias, así como aquellos que deban proveer acuerdos o cualquier otro trámite;
 
 g) Proyectar todos los acuerdos que deba emitir el Presidente y la Junta;
 
-h) Turnar a la Secretaria General los expedientes que obren en poder al concluir las labores del día;
+h) Turnar a la Secretaría General los expedientes que obren en poder al concluir las labores del día;
 
 i) Vigilar que los expedientes se encuentren debidamente foliados y sellados;
 
 j) Solicitar en caso de duda a los comparecientes y demás personas que intervengan en las audiencias la identificación, especialmente en desistimientos y pagos;
 
-k) Entregar los informes que solicite el Secretario General y/o el Presidente de la Junta, que son relacionadas a las audiencias celebradas, diferidas, desistimientos, acuerdos dictados, exhortos girados y recibidos, cuantos concluyeron por convenio;
+k) Entregar los informes que solicite el Secretario General y/o el Presidente de la Junta, que son relacionadas (sic) a las audiencias celebradas, diferidas, desistimientos, acuerdos dictados, exhortos girados y recibidos, cuantos concluyeron por convenio;
 
 l) Cumplir con las demás disposiciones señaladas por la Ley Federal del Trabajo y las ordenadas por su superior jerárquico.
 
-### CAPITULO DECIMO CUARTO. DE LOS ACTUARIOS
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 78
+### CAPÍTULO DÉCIMO CUARTO. DE LOS ACTUARIOS
 
-Son requisitos para ser Actuarios de la Junta Local de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 626 de la Ley 'Federal del Trabajo, los siguientes:
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 78
+
+Son requisitos para ser Actuarios de la Junta Local de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 626 de la Ley Federal del Trabajo, los siguientes:
 
 I.- Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 
-II.- Haber terminado el tercer año o el sexto semestre de la carrera de Licenciado en Derecho, por lo menos;
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III.- No pertenecer al estado eclesiástico; y
+III.- Haberse distinguido en estudios de derecho del trabajo;
 
-IV.- No haber sido condenados por delito intencional sancionado con pena corporal.
+IV.- No ser ministro de culto; y
 
-ARTICULO 79
+V.- Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 79
 
 La Junta contará con el número de Actuarios que necesite para cumplir con las funciones que establece la Ley, debiendo ser asignados por el Presidente a cada una de las Juntas Especiales de acuerdo con las necesidades que se presenten, quienes tienen las siguientes facultades y obligaciones:
 
@@ -708,25 +920,41 @@ h) Dar cuenta inmediata al Presidente de la Junta de adscripción de las dificul
 
 i) Las demás que les asignen la ley, el presente Reglamento o sus superiores.
 
-### CAPITULO DECIMO QUINTO. DE LOS CONCILIADORES
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 80
+### CAPÍTULO DÉCIMO QUINTO. DE LOS CONCILIADORES
 
-Es el personal jurídico, que tiene como objetivo lograr el equilibrio de los factores de producción mediante una de las principales funciones de este tribunal que es la conciliación, tanto como medio preventivo (previo al juicio) como una vez que existe un procedimiento en trámite (inter procesal).
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 81
+ARTÍCULO 80
 
-El Conciliador de la Junta Local de Conciliación y Arbitraje, deberá reunir los siguientes requisitos:
+El servicio público de conciliación se prestará a través de servidores públicos especializados en la función conciliatoria, denominados funcionarios conciliadores; los integrantes de las Juntas o por su personal jurídico.
 
-I.- Ser mexicano, mayores de edad y estar en pleno ejercicio de sus derechos;
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-II.- Haber terminado el tercer año o el sexto semestre de la carrera de Licenciado en Derecho, por lo menos;
+ARTÍCULO 80 Bis
 
-III.- No pertenecer al estado eclesiástico; y
+El Servicio Público de Conciliación, a través de los Funcionarios Conciliadores, tiene como objetivo lograr el equilibrio de los factores de producción mediante una de las principales funciones de este tribunal que es la conciliación, tanto como medio preventivo (previo al juicio) como una vez que existe un procedimiento en trámite (inter procesal).
 
-IV.- No haber sido condenados por delito intencional sancionado con pena corporal.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 82
+ARTÍCULO 81
+
+El Conciliador de la Junta Local de Conciliación y Arbitraje del Estado, deberá reunir los siguientes requisitos:
+
+I.- Ser mexicano, mayores de treinta años de edad y estar en pleno ejercicio de sus derechos;
+
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
+
+III.- Tener dos años de ejercicio profesional en materia laboral, posteriores a la obtención del título de licenciado en derecho, haberse distinguido en estudios de derecho del trabajo y haberse capacitado en materia de conciliación;
+
+IV.- No ser ministro de culto; y
+
+V.- No haber sido condenado por delito intencional sancionado con pena privativa de libertad.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 82
 
 Son facultades y obligaciones de los conciliadores:
 
@@ -740,33 +968,45 @@ d).- Rendir al Presidente de la Junta Local un informe de las labores desarrolla
 
 e).- Las demás que le asigne el Presidente de la Junta Local y/o el Secretario General de la misma.
 
-### CAPITULO DECIMO SEXTO. DE LOS PRESIDENTES DE LAS JUNTAS ESPECIALES
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 83
+ARTÍCULO 82 BIS
+
+Durante todo el procedimiento y hasta antes de dictarse los laudos, las Juntas tendrán la obligación de promover que las partes resuelvan los conflictos mediante la conciliación. Los convenios que se lleguen, en su caso, una vez ratificados y aprobados por aquellas; producirán los efectos jurídicos inherentes a los laudos ejecutoriados.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO DÉCIMO SEXTO. DE LOS PRESIDENTES DE LAS JUNTAS ESPECIALES
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 83
 
 Son requisitos para ser Presidente de Junta Especial de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 630 de la Ley Federal del Trabajo, los siguientes:
 
 I.- Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
 
-II.- Tener título legalmente expedido de Licenciado en Derecho;
+II.- Tener título legalmente expedido de abogado o Licenciado en Derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III.- Tener cinco años de ejercicio profesional posteriores a la obtención del título por lo menos y haberse distinguido en estudios de Derecho del Trabajo;
+III.- Tener cinco años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o Licenciado en Derecho, haberse distinguido en estudios de Derecho del Trabajo y experiencia mínima de un año como servidor público en el ámbito del sector laboral;
 
-IV.- No pertenecer al estado eclesiástico; y
+IV.- No ser ministro de culto religioso; y
 
-V.- No haber sido condenado por delito intencional sancionado con plena corporal.
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal.
 
-ARTICULO 84
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 84
 
 Son atribuciones de los Presidentes de las Juntas Especiales, las establecidas por la Ley y las siguientes:
 
-a) Procurar por todos los medios conducentes, que las partes lleguen a un arreglo conciliatorio en el conflicto, en cualquier momento del procedimiento;
+a) Procurar por todos los medios conducentes, que las partes lleguen a un arreglo conciliatorio en el conflicto, en cualquier momento del procedimiento, sin perjuicio de las atribuciones que tienen encomendadas en este mismo Reglamento los Funcionarios Conciliadores;
 
 b) Exigir en forma invariable la previa identificación de las partes en la primera comparecencia o audiencia, en todos aquellos procedimientos en los que a juicio del Presidente se requiera;
 
 c) Asegurarse de que los absolventes, testigos o peritos que comparezcan en el desahogo de pruebas, queden plenamente identificados en autos;
 
-d) Cuidar que se guarde el debido orden en las audiencias y de que no se falte al respeto a los funcionarios de la Junta, estando autorizados para imponer las sanciones que corresponda a quienes incurran en faltas, acorde al artículo 732 y demás relativos y aplicables de la Ley;
+d) Cuidar que se guarde el debido ordenen en las audiencias y de que no se falte al respeto a los funcionarios de la Junta, estando autorizados para imponer las sanciones que corresponda a quienes incurran en faltas, acorde al artículo 732 y demás relativos y aplicables de la Ley.
 
 e) Proveer con expeditez la tramitación de los expedientes y firmar con los miembros de la Junta, los acuerdos y resoluciones que procedan;
 
@@ -776,27 +1016,33 @@ g) Aplicar estrictamente los criterios aprobados por el Pleno y por las reunione
 
 h) Rendir al Presidente de la Junta cuando así lo solicite, un informe de las labores desarrolladas por la Junta Especial correspondiente, en las formas que para tal efecto han sido diseñadas;
 
-i) Proveer lo necesario para que las promociones de las partes sean acordadas dentro de un término no mayor de tres días;
+i) Proveer lo necesario para que las promociones de las partes sean acordadas dentro de un término no mayor de tres días.
 
 j) Cerrada la instrucción, proceder a elaborar el dictamen respectivo dentro de un término de diez días, conforme lo dispuesto en el artículo 885 de la Ley, debiendo guardar debida reserva en tanto no sea firmado el laudo correspondiente;
 
-k) Informar a la Autoridad Federal que conozca del Juicio de Garantías, cuando hayan sobre venido (sic) causas notorias de sobreseimiento, o hubieren cesado los efectos del acto reclamado por el quejoso;
+k) Informar a la Autoridad Federal que conozca del Juicio de Garantías, cuando hayan sobrevenido causas notorias de sobreseimiento, o hubieren cesado los efectos del acto reclamado por el quejoso;
 
-l) Endosar y en su caso entregar previo acuerdo e identificación de quien reciba, los documentos o valores que se encuentren depositados en las Juntas de-su adscripción;
+l) Endosar y en su caso entregar previo acuerdo e identificación de quien reciba, los documentos o valores que se encuentren depositados en las Juntas de su adscripción;
 
-m) Procurar que los Representantes y quienes deben de hacerlo, firmen el acuerdo que se dicte, en los términos de la Ley Federal del Trabajo;
+m) Procurar que los Representantes y quienes deben de hacerla, firmen el acuerdo que se dicte, en los términos de la Ley Federal del Trabajo.
 
 n) Las demás que les asigne la Ley, sus Reglamentos, el Presidente de la Junta y este Reglamento.
 
-### CAPITULO DECIMO SEPTIMO. DE LAS JUNTAS PERMANENTES DE CONCILIACION
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 85
+### CAPÍTULO DÉCIMO SÉPTIMO. DE LAS JUNTAS PERMANENTES DE CONCILIACIÓN
 
-La Junta Permanente de Conciliación, es un órgano cuya naturaleza tiene como objeto la avenencia entre los intereses de las partes en conflicto, o bien actuar como Junta de Conciliación y Arbitraje para conocer y resolver los conflictos que tengan como objeto el cobro de prestaciones cuyo monto no exceda del importe de tres meses de salario.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 86
+ARTÍCULO 85
 
-La Junta Permanente de Conciliación tendrá las funciones siguientes:
+La Junta Especial de Conciliación y Arbitraje, es un órgano cuya naturaleza tiene como objeto la avenencia entre los intereses de las partes en conflicto, o bien actuar como Junta de Conciliación y Arbitraje para conocer y resolver los conflictos que tengan como objeto el cobro de prestaciones cuyo monto no exceda del importe de tres meses de salario.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 86
+
+La Junta Especial de Conciliación y Arbitraje tendrá las funciones siguientes:
 
 I. Actuar como instancia conciliatoria potestativa para los trabajadores y los patrones;
 
@@ -804,15 +1050,19 @@ II. Actuar como Junta de Conciliación y Arbitraje cuando se trate de conflictos
 
 III. Los demás que les confiera las leyes.
 
-ARTICULO 87
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-La Junta Permanente de Conciliación con residencia en Guaymas y Navojoa, Sonora dependerá de la Junta Especial de Conciliación y Arbitraje y se integrara con un representante del Gobierno que fungirá como Presidente que designara directamente el Gobernador del Estado y con un representante de los trabajadores sindical izados y uno de los patrones, de conformidad con la clasificación y convocatoria que se expida.
+ARTÍCULO 87
 
-ARTICULO 88
+La Junta Especial de Conciliación y Arbitraje con residencia en Guaymas y Navojoa, Sonora dependerá de la Junta Local de Conciliación y Arbitraje del Sur de Sonora y se integrará con un representante del Gobierno que fungirá como Presidente que designará directamente el Gobernador del Estado y con un representante de los trabajadores sindicalizados y uno de los patrones, de conformidad con la clasificación y convocatoria que se expida.
 
-Para ser Presidente de la Junta Permanente se requiere:
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-I. Ser mexicano, mayor de edad y estar en pleno ejercicios de sus derechos;
+ARTÍCULO 88
+
+Para ser Presidente de la Junta Especial de Conciliación y Arbitraje se requiere:
+
+I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos;
 
 II. Haber terminado la educación secundaria;
 
@@ -824,25 +1074,37 @@ V. No pertenecer al estado eclesiástico;
 
 VI. No haber sido condenado por delito intencional sancionado con pena corporal.
 
-ARTICULO 89
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-La Junta Permanente de Conciliación, contara con un Secretario General, Secretario de Acuerdos, Actuarios y demás personal administrativo que la presidencia de la Junta asigne para su ejecución y tramitación de los procedimientos de su competencia, los cuales se sujetaran a las disposiciones contenidas en el presente reglamento y relativo al cargo designado.
+ARTÍCULO 89
 
-ARTICULO 90
+La Junta Especial de Conciliación y Arbitraje, contará con un Secretario General, Secretario de Acuerdos, Actuarios y demás personal administrativo que la presidencia de la Junta asigne para su ejecución y tramitación de los procedimientos de su competencia, los cuales se sujetarán a las disposiciones contenidas en el presente reglamento y relativo al cargo designado.
 
-El despacho de los negocios deberá llevarse a cabo por riguroso turno y durante las horas de oficinas que serán de las 8:00 a.m. a las 15:00 p.m., sin embargo se dará preferencia a las diligenciación de los exhortos que reciba de la Junta Local y de las Especiales, de los conflictos colectivos y las providencias cautelares.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-### CAPITULO DECIMO OCTAVO. DE LOS FUNCIONARIOS Y EMPLEADOS DE LAS JUNTAS
+ARTÍCULO 90
 
-ARTICULO 91
+El despacho de los negocios deberá llevarse a cabo por riguroso turno y durante las horas de oficina que serán de las 8:00 a.m. a las 15:00 p.m., sin embargo se dará preferencia a la diligenciación de los exhortos que reciba de la Junta Local y de las Especiales, de los conflictos colectivos y las providencias cautelares.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO DÉCIMO OCTAVO. DE LOS FUNCIONARIOS Y EMPLEADOS DE LAS JUNTAS
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 91
 
 La Junta Local de Conciliación y Arbitraje, contará con el número de funcionarios y empleados que le permita el presupuesto de Egresos y el Gobierno del Estado.
 
-ARTICULO 92
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-El personal de la Junta deberá de observar las disposiciones establecidas por la Ley del Servicio Civil, los que dicte el Presidente de la Junta Local de Conciliación y Arbitraje, los Presidentes de las Juntas Especiales, de las Permanentes y del Secretario General y cumplirán las órdenes de sus jefes inmediatos superiores.
+ARTÍCULO 92
 
-ARTICULO 93
+El Personal de la Junta deberá de observar las disposiciones establecidas por la Ley del Servicio Civil, los que dicte el Presidente de la Junta Local de Conciliación y Arbitraje, los Presidentes de las Juntas Especiales, de las Permanentes y del Secretario General y cumplirán las órdenes de sus jefes inmediatos superiores.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 93
 
 Son obligaciones de los funcionarios y empleados de la Junta:
 
@@ -860,13 +1122,15 @@ f) Observar buena conducta y guardar absoluta reserva en los asuntos que tengan 
 
 g) Guardar respeto en el trato con sus compañeros y empleados;
 
-h) Abstenerse de realizar toda clase de propaganda durante las horas de trabajo; así como efectuar toda clase de rifas, colectas, aetas de comercio y actividades similares;
+h) Abstenerse de realizar toda clase de propaganda durante las horas de trabajo; así como efectuar toda clase de rifas, colectas, actos de comercio y actividades similares;
 
 i) Abstenerse de ingerir alimentos en el local o instalaciones de la Junta, excepto en los lugares destinados expresamente para ello; y
 
 j) Las demás que les asigne la Ley, el presente Reglamento, el Pleno, el Presidente y/o el Secretario General que corresponda.
 
-ARTICULO 94
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 94
 
 Las Secretarias mecanógrafas tienen las obligaciones siguientes:
 
@@ -874,11 +1138,15 @@ a) Levantar las actas en las diligencias, audiencias, acuerdos, dictámenes, lau
 
 b) Acatar las disposiciones dictadas por sus superiores jerárquicos.
 
-ARTICULO 95
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Ningún funcionario, ni empleado de la Junta deberá salir del local para fa atención de asuntos particulares, sin tener la autorización por escrito respectiva. Para el desempeño de diligencias previamente acordada, bastará con dar un simple aviso al superior inmediato, haciendo saber a éste la naturaleza del negocio, el lugar y el tiempo probable que hubiere de requerirse.
+ARTÍCULO 95
 
-ARTICULO 96
+Ningún funcionario, ni empleado de la Junta deberá salir del local para la atención de asuntos particulares, sin tener la autorización por escrito respectiva. Para el desempeño de diligencias previamente acordada, bastará con dar un simple aviso al superior inmediato, haciendo saber a éste la naturaleza del negocio, el lugar y el tiempo probable que hubiere de requerirse.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 96
 
 Los funcionarios y demás empleados de este Tribunal, gozarán de un período de descanso, los que disfrutarán acorde a las necesidades al trabajo que desarrollen. Para efectos del control de asistencia, todos los funcionarios y empleados de la Junta marcarán tarjeta respectiva, salvo que por la naturaleza de su actividad los exima el Presidente de la misma; además se observarán las siguientes disposiciones:
 
@@ -886,23 +1154,29 @@ a) La tarjeta debe ser marcada únicamente por el empleado a quien corresponda, 
 
 b) El arribo al centro de trabajo después de 15 minutos de la hora de entrada, será considerado como retardo, por cada tres retardos en el lapso de treinta días, se sancionará al empleado con la suspensión de un día de actividades sujeto desde luego, a descuento.
 
-c) El trabajador que ocurra al centro de trabajo treinta minutos después de la hora normal de entrada que se le asigne, no será recibido para el desempeño de sus labores, salvo en los casos en que se justifique su retardo, o la presencia del mismo.
+c) El trabajador que ocurra al centro de trabajo treinta minutos después de la hora normal de entrada que se le asigne, no será recibido para el desempeño de sus labores, salvo en los casos en que se justifique su retardo, o la presencia del mismo;
 
-d) Los permisos para ausentarse de sus labores por motivos particulares, serán autorizados por el Jefe Inmediato Superior, en las formas que para tal efecto serán proporcionadas, siempre y cuando sea justificada la ausencia. De dicha forma, el empleado que solicite el permiso conservará el original y el funcionario que lo autorizó, la copia, la cual deberá enviar inmediatamente al Jefe del Departamento Administrativo para que sea anexada al reporte de incidencias correspondiente; constituye falta grave que amerita corrección disciplinaria al otorgar permiso para ausentarse de sus labores a cualquier subordinado sin los requisitos establecidos para ello en el presente capítulo.
+d) Los permisos para ausentarse de sus labores por motivos particulares, serán autorizados por el Jefe Inmediato Superior, en las formas que para tal efecto serán proporcionadas, siempre y cuando sea justificada la ausencia. De dicha forma, el empleado que solicite el permiso conservará el original y el funcionario que lo autorizó, la copia, la cual deberá enviar inmediatamente al Jefe del Departamento Administrativo para que sea anexada al reporte de incidencias correspondiente; constituye falta grave que amerita corrección disciplinaria al otorgar permiso para ausentarse de sus labores a cualquier subordinado sin los requisitos establecidos para ello en el presente capítulo;
 
-e) Los Presidente de las Juntas Especiales y funcionarios que tengan asignado personal a su servicio, son responsables ante la Presidencia de la Junta, de que el mismo cumpla con las disposiciones que le impone este Reglamento.
+e) Los Presidente (sic) de las Juntas Especiales y funcionarios que tengan asignado personal a su servicio, son responsables ante la Presidencia de la Junta de que el mismo cumpla con las disposiciones que le impone este Reglamento.
 
-### CAPITULO DECIMO NOVENO. DEL ARCHIVO GENERAL DE LAS JUNTA LOCALES DE CONCILIACION Y ARBITRAJE
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 97
+### CAPÍTULO DÉCIMO NOVENO. DEL ARCHIVO GENERAL DE LAS JUNTA LOCALES DE CONCILIACIÓN Y ARBITRAJE
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 97
 
 La Junta Local de Conciliación y Arbitraje y las Especiales, tendrán un archivo general bajo la supervisión del Secretario General, correspondiéndole como función el depósito, registro y acuse de recibo de los expedientes de los asuntos que ante el tribunal se tramiten. Con atención al usuario para consulta y préstamo de expedientes a partir de las 8:00 a.m. a 15:00 p.m. de lunes a viernes.
 
-ARTICULO 98
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 98
 
 Son facultades y obligaciones de los encargados de los archivos los siguientes:
 
-a) Guardar y custodiar bajo su más estricta responsabilidad todos los expedientes que sea turnada por la Secretaria General y Oficialía de Partes;
+a) Guardar y custodiar bajo su más estricta responsabilidad todos los expedientes que sea turnada (sic) por la Secretaría General y Oficialía de Partes;
 
 b) Llevar un catálogo de tarjetas de control por año y número progresivo de cada año en cada tarjeta se anotará el número de expediente, nombre de la persona que lo reciba con la firma respectiva, fecha en que se regresa al archivo para su descarga, datos ulteriores del expediente y movimiento del expediente;
 
@@ -916,27 +1190,39 @@ f) Informar al Secretario General de cualquier deficiencia o irregularidad que a
 
 g) Rendir los informes solicitados por el superior jerárquico;
 
-h) las demás que le sean asignadas por el Presidente, o el Secretario General; (sic)
+h) Las demás que le sean asignadas por el Presidente, o el Secretario General;
 
-ARTICULO 99
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 99
 
 Queda prohibido al personal de la Junta, extraer del archivo expedientes sin la autorización correspondiente y sin el previo llenado de la tarjeta de control de préstamo.
 
-ARTICULO 100
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-El archivo contará con dos áreas: la de archivo activo depositándose los expedientes en trámite e inactivo depositándose en ésta los expedientes concluidos.
+ARTÍCULO 100
 
-### CAPITULO VIGESIMO. DE OFICIALIA DE PARTES
+El Archivo contará con dos áreas: la de archivo activo depositándose los expedientes en trámite e inactivo depositándose en ésta los expedientes concluidos.
 
-ARTICULO 101
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-La Junta Local de Conciliación y Arbitraje y las Especiales, cantarán con una Oficialía de Partes, que estará a cargo de un jefe y tendrá los empleados que la necesidad del servicio requiera.
+### CAPÍTULO VIGÉSIMO. DE OFICIALÍA DE PARTES
 
-ARTICULO 102
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 101
+
+La Junta Local de Conciliación y Arbitraje y las Especiales, contarán con una Oficialía de Partes, que estará a cargo de un jefe y tendrá los empleados que la necesidad del servicio requiera.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 102
 
 El horario de Oficialía de Partes será de las 08:00 a.m. a 15:00 p.m. de lunes a viernes.
 
-ARTICULO 103
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 103
 
 Corresponde al Oficial de Partes encargarse de:
 
@@ -948,105 +1234,155 @@ c) Registrar los expedientes que se deberán de formar con motivo de los escrito
 
 d) Llevar al corriente los libros de gobierno a su cargo;
 
-e) En los escritos y demandas recibidas tanto en el original como en las copias respectivas, se pondrá el sello de recibido en el que anotará la hora y la fecha de recibido y el numero progresivo de entrada en su caso. La correspondencia de salida se despachará por medio de facturas numeradas en forma progresiva y separadamente las destinadas a cada Dependencia oficial local, las destinadas al interior del Estado se enviarán por valija;
+e) En los escritos y demandas recibidas tanto en el original como en las copias respectivas, se pondrá el sello de recibido en el que anotará la hora y la fecha de recibido y el número progresivo de entrada en su caso. La correspondencia de salida se despachará por medio de facturas numeradas en forma progresiva y separadamente las destinadas a cada Dependencia oficial local, las destinadas al interior del Estado se enviarán por valija;
 
-f) El jefe de Oficialía de Partes será responsable de los sellos respectivos y asimismo cuidará que no se de mal uso de los mismos.
+f) El jefe de Oficia lía (sic) de Partes será responsable de los sellos respectivos y asimismo cuidará que no se dé mal uso de los mismos.
 
-ARTICULO 104
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 104
 
 El encargado de la Oficialía de Partes, será responsable de que la oficina o área de trabajo permanezcan abiertas durante el horario de trabajo.
 
-ARTICULO 105
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-En toda promoción que se presenta, se asentara mediante el reloj checador, la hora y la fecha de su presentación y quien la reciba anotará además, el número de hojas de que consta y los anexos que se acompañan y rubricarse por el encargado de la Oficialía de Partes o en su defecto por el Secretario General que corresponda.
+ARTÍCULO 105
 
-Cuando por falta de energía eléctrica, defecto u otra cosa no pueda asentarse la fecha y hora de recibido con el reloj checador, se dará cuenta al C. Presidente de la Junta Local para que, mediante certificación de Secretario General que corresponda, se haga constar tal situación, así como para que se autorice las medidas necesarias tendientes a la solución del problema.
+En toda promoción que se presenta, se asentará, mediante el reloj checador, la hora y la fecha de su presentación y quien la reciba anotará además, el número de hojas de que consta y los anexos que se acompañan y rubricarse por el encargado de la Oficialía de Partes o en su defecto por el Secretario General que corresponda.
 
-ARTICULO 106
+Cuando por falta de energía eléctrica, defecto u otra cosa no pueda asentarse la fecha y hora de recibido con el reloj checador, se dará cuenta al C. Presidente de la Junta Local para que, mediante certificación del Secretario General que corresponda, se haga constar tal situación, así como para que se autorice las medidas necesarias tendientes a la solución del problema.
 
-Fuera de las horas y días de labores de la Junta, solo se podrá recibir promociones el Secretario General de la Junta Local, para lo cual su domicilio deberá de fijarse permanentemente en el estrado de la Oficialía de Partes.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 107
+ARTÍCULO 106
 
-Tendrá a su cargo la sección de estadística y para tal efecto llevará a cabo la concentración, procesamiento y diseño gráfico de la información inherente al desarrollo de las actividades en cada una de las áreas de la Junta local de Conciliación y Arbitraje debiendo elaborar mensual y anualmente una síntesis de naturaleza general.
+Fuera de las horas y días de labores de la Junta, sólo podrá recibir promociones el Secretario General de la Junta Local, para lo cual su domicilio deberá de fijarse permanentemente en el estrado de la Oficialía de Partes.
 
-ARTICULO 108
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Las; Juntas Especiales y las secciones que integran la Junté' Local de Conciliación y Arbitraje están obligadas a proporcionar a la sección de estadística los datos que ésta solicite para el desempeño de sus funciones.
+ARTÍCULO 107
 
-ARTICULO 109
+Tendrá a su cargo la sección de estadística y para tal efecto llevará a cabo la concentración, procesamiento y diseño gráfico de la información inherente al desarrollo de las actividades en cada una de las áreas de la Junta Local de Conciliación y Arbitraje, debiendo elaborar mensual y anualmente una síntesis de naturaleza general.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 108
+
+Las Juntas Especiales y las secciones que integran la Junta Local de Conciliación y Arbitraje están obligadas a proporcionar a la sección de estadística los datos que ésta solicite para el desempeño de sus funciones.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 109
 
 La sección de estadística, deberá proporcionar la información que le sea solicitada por autoridades o particulares interesados en ella, previa autorización del Presidente de la Junta Local.
 
-### CAPITULO VIGESIMO PRIMERO. DE LAS CORRECCIONES DISCIPLINARIAS
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 110
+### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS CORRECCIONES DISCIPLINARIAS
 
-Cuando los miembros del personal jurídico o administrativo de la Junta incurran en alguna omisión, falta o incumplimiento de sus obligaciones impuestas por la Ley o este Reglamento, se procederá a levantar un acta por el Secretario General que corresponda, con la que se dará cuenta el Presidente, quién ordenara dar vista al interesado para los efectos de su defensa, procediéndose a sancionar disciplinariamente a criterio de éste.
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-ARTICULO 111
+ARTÍCULO 110
 
-Las correcciones disciplinarias se impondrán en los términos de los articulas 636, 638, 639, 640 y demás relativos de la Ley.
+Cuando los miembros del personal jurídico o administrativo de la Junta incurran en alguna omisión, falta o incumplimiento de sus obligaciones impuestas por la Ley o este Reglamento, se procederá a levantar un acta por el Secretario General que corresponda, con la que se dará cuenta el Presidente, quién ordenará dar vista al interesado para los efectos de su defensa, procediéndose a sancionar disciplinariamente a criterio de éste.
 
-ARTICULO 112
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 111
+
+Las correcciones disciplinarias se impondrán en los términos de los artículos 636, 638, 639, 640 y demás relativos de la Ley.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 112
 
 Si la falta imputada al funcionario o empleado además constituye un delito, en cumplimiento a la Ley, el Presidente o los Secretarios, deberán denunciar al posible responsable, ante las autoridades correspondientes.
 
-ARTICULO 113
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 113
 
 Las sanciones a los Representantes de los Trabajadores y de los Patrones, se impondrán por el Jurado de Responsabilidades de los Representantes, en los términos de los artículos 674 y 675 de la Ley.
 
-ARTICULO 114
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Para los efectos del artículo anterior, se estará a lo dispuesto por los artículos 671, 672, 673 y concordantes de la Ley.
+ARTÍCULO 114
 
-### CAPITULO VIGESIMO SEGUNDO. DE LAS LICENCIAS
+Para los efectos del artículo anterior, se estará a lo dispuesto por los artículos 671, 672, 673 y concordantes de la ley.
 
-ARTICULO 115
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VIGÉSIMO SEGUNDO. DE LAS LICENCIAS
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 115
 
 Los funcionarios y empleados de confianza que presten sus servicios en la Junta Local de Conciliación y Arbitraje, tendrán derecho a que se les conceda licencia para separarse de sus labores por causa justificada a juicio del Presidente de la Junta, o por enfermedad que les impida trabajar, previa comprobación de este último caso, con certificado que deberá extender el Instituto de Seguridad de Servicios Sociales del Estado de Sonora (ISSSTESON).
 
-ARTICULO 116
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 116
 
 El Presidente de la Junta Local de Conciliación será suplido en sus ausencias temporales por el Secretario General de la Junta el cual será habilitado según lo dispuesto por el artículo 55, inciso i), a falta de éste por un Presidente de Junta Especial según lo dispuesto por el mismo artículo de este Reglamento.
 
-ARTICULO 117
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-El Secretaría General que corresponda será suplido en sus ausencias temporales por la persona que designe el Presidente, el cual será habilitado según lo dispuesto el artículo 62 de este reglamento.
+ARTÍCULO 117
 
-ARTICULO 118
+El Secretario General que corresponda será suplido en sus ausencias temporales por la persona que designe el Presidente, el cual será habilitado según lo dispuesto por el artículo 62 de este reglamento.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 118
 
 El Presidente de Junta Especial será suplido en sus ausencias temporales por cualquiera de los Secretarios Generales o de acuerdo a la carga de trabajo de la Junta, por un Secretario de Acuerdos. En ambos casos el funcionario será habilitado según lo dispuesto por el artículo 55, inciso h) del presente ordenamiento.
 
-ARTICULO 119
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-El Secretario de Acuerdos de Junta Especial será suplido en sus ausencias temporales por el Actuario el cual será habilitado según lo dispuesto por el artículo 54, inciso g) del presente reglamento.
+ARTÍCULO 119
 
-### CAPITULO VIGESIMO TERCERO. DE LAS REUNIONES DEL PERSONAL JURIDICO
+El Secretario de Acuerdos de Junta Especial será suplido en sus ausencias temporales por el Actuario el cual será habilitado según lo dispuesto por el artículo 54; inciso g) del presente reglamento.
 
-ARTICULO 120
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-Los integrantes del personal jurídico de la Junta Local de Conciliación y Arbitraje, se reunirán en- forma periódica de acuerdo con el programa de Eventos Especiales que al efecto se elabore.
+### CAPÍTULO VIGÉSIMO TERCERO. DE LAS REUNIONES DEL PERSONAL JURÍDICO
 
-ARTICULO 121
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 120
+
+Los integrantes del personal jurídico de la Junta Local de Conciliación y Arbitraje, se reunirán en forma periódica de acuerdo con el programa de Eventos Especiales que al efecto se elabore.
+
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 121
 
 Es obligación de los miembros del personal jurídico que integran la Junta Local de Conciliación y Arbitraje, asistir con puntualidad a las reuniones que se celebren.
 
-ARTICULO 122
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 122
 
 Las reuniones del personal jurídico, serán presididas por el Presidente de la Junta Local de Conciliación y Arbitraje y/o por el Secretario General de la misma.
 
-ARTICULO 123
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 123
 
 Las reuniones se sujetarán a la orden del día que previamente se les remita a los miembros del personal jurídico mediante oficio, por el C. Secretario General.
 
-ARTICULO 124
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 124
 
 Es obligación de los miembros del personal jurídico, elaborar y presentar los trabajos que les sean encomendados por el Secretario General que corresponda, en la reunión que al efecto se señale.
 
-ARTICULO 125
+> <small>(REFORMADO, B.O. 23 DE FEBRERO DE 2015)</small>
 
-El Secretario General que corresponda, remitirá copia del acta que con motivo de las Reuniones se levante, una vez aprobada a todos y cada uno de los integrantes del Personal Jurídico; (sic)
+ARTÍCULO 125
+
+El Secretario General que corresponda, remitirá copia del acta que con motivo de las Reuniones se levante, una vez aprobada a todos y cada uno de los integrantes del Personal Jurídico.
 
 ## TRANSITORIOS
 
@@ -1071,3 +1407,15 @@ Representante Obrero
 Efrén Manríquez Barreras
 
 Representante Capital
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 23 DE FEBRERO DE 2015.
+
+ARTÍCULO I
+
+El presente Reglamento, aprobado en Sesión Extraordinaria del Pleno de la Junta Local de Conciliación y Arbitraje del Estado con residencia en Ciudad Obregón, Sonora verificada el día 11 de Septiembre de 2014 y entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+ARTÍCULO II
+
+El presente Reglamento modifica el publicado en el Boletín Oficial del Estado Número 35, Sección I, de fecha 29 de Octubre de 2007.
