@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2014-06-10"
+last_updated: "2015-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE ABRIL DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -455,7 +457,7 @@ IV.- Ejecutar las disposiciones que emitan las autoridades del transporte del Es
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
 
-V.- Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y sus Reglamentos, y (sic)
+V.- Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y sus Reglamentos, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1161,7 +1163,7 @@ XII.- Vigencia de la concesión;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-XIII.- Itinerarios en la prestación del servicio; y (sic)
+XIII.- Itinerarios en la prestación del servicio; y
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1847,37 +1849,39 @@ Los conductores de vehículos del Servicio Público de Transporte y del Servicio
 
 ### CAPITULO I. RECURSOS
 
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN PRIMERA. RECURSO DE RECONSIDERACIÓN
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 130.
 
-Las resoluciones dictadas en aplicación de esta Ley y sus Reglamentos, pueden ser revocadas, modificadas o confirmadas, mediante la interposición del Recurso de Inconformidad, el cual se sustanciará y resolverá de acuerdo con el procedimiento señalado en los Reglamentos de este ordenamiento.
+Contra la declaración o acuerdo de rescate o intervención que emita la autoridad competente respecto del servicio público de transporte, procede el Recurso de Reconsideración.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 131.
 
-A quien infrinja las disposiciones contenidas en esta Ley y sus Reglamentos, la autoridad competente le impondrá cualquiera de las siguientes sanciones:
+El Recurso de Reconsideración, se interpondrá por escrito ante la autoridad que haya emitido el acto que se recurra, dentro de los quince días hábiles siguientes a la notificación del acto recurrible y contendrá:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+l. Nombre del titular de la concesión, así como domicilio en la Ciudad de Puebla para recibir notificaciones, si este no se señala, se practicarán por lista;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+II. Documentos que acrediten la personalidad con que se ostenta;
 
-I.- Multa, cuando se trate de infracciones impuestas por revisiones administrativas, de conformidad con el tabulador autorizado;
+III. Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV. Los datos de la concesión afectada y la documentación que acredite la titularidad de la concesión afectada;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+V. Autoridad o autoridades responsables, así como el acto que de cada una de ellas se reclame;
 
-II.- Suspensión o cancelación de licencia;
+VI. La expresión de los agravios que a juicio del recurrente se causen;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VII. Las pruebas que estime convenientes, mismas que deberán guardar estrecha relación con los hechos y agravios aducidos, así como la expresión concreta en cada caso de que es lo que se pretende probar;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+VIII. En su caso, la solicitud de la suspensión del acto reclamado, y
 
-III.- Revocación o suspensión de concesión; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-IV.- Cancelación o suspensión del permiso.
+IX. La firma autógrafa del recurrente, o su huella digital en caso de no saber firmar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1893,71 +1897,197 @@ II.- Retiro y aseguramiento de vehículo; y
 
 III.- Retención de licencia.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 132.
 
-La Secretaría, Carreteras de Cuota-Puebla y la Contraloría, en el ámbito de sus respectivas competencias, por violaciones a la presente Ley y sus Reglamentos, impondrán las sanciones de conformidad con el tabulador autorizado que para tal efecto emitan de manera conjunta.
+Recibido el Recurso de Reconsideración, la autoridad notificará al recurrente la admisión de aquél señalándole, de ser necesario, un plazo de quince días para el desahogo de pruebas, quedando cinco días para presentar alegatos por escrito; la substanciación se llevará a cabo de la siguiente forma:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+I. Serán admisibles todos los medios de prueba que se establecen en el Código de Procedimientos Civiles para el Estado de Puebla, con excepción de la declaración de partes sobre hechos propios o ajenos y la testimonial, conforme a las reglas que para su desahogo se determinan en el mismo;
+
+II. Las pruebas que no tengan relación con los hechos y actos impugnados se desecharán de plano. Las pruebas supervenientes se deberán aportar antes de dictar la resolución definitiva;
+
+III. La autoridad competente podrá pedir o hacerse allegar de los informes que estime pertinentes, por parte de quienes hayan intervenido en la emisión del acto recurrido, y
+
+IV. La autoridad dictará la resolución definitiva dentro del plazo de treinta días hábiles siguientes al término de alegatos.
+
+Los plazos o términos señalados en este artículo se computarán en días y horas hábiles.
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. RECURSO DE REVOCACIÓN
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 133.
 
-La Secretaría, Carreteras de Cuota-Puebla y la Contraloría, en el ámbito de su competencia, podrán impedir en todo momento la circulación de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, que no reúnan los requisitos previstos por esta Ley y sus Reglamentos o que representen un riesgo para la seguridad de los usuarios, de los peatones y de los vehículos en general.
+Contra cualquier acto de la autoridad de transporte que ponga fin a un procedimiento de los establecidos en esta Ley, diverso a los previstos en el artículo 130, procede el Recurso de Revocación.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 134.
 
-Los concesionarios y los permisionarios están obligados a cumplir todas y cada una de las disposiciones que previene esta Ley y sus Reglamentos, o que con el debido fundamento determinen las autoridades competentes para cada tipo de servicio, en la inteligencia de que su incumplimiento podrá dar motivo a la revocación de dichas concesiones o cancelación de los permisos.
+El Recurso de Revocación, se interpondrá por escrito ante la autoridad que haya emitido el acto que se recurra, dentro de los cinco días hábiles siguientes a la notificación del acto recurrible y contendrá:
+
+I. Nombre del recurrente debiendo señalar domicilio en la ciudad de Puebla para recibir notificaciones personales, en caso contrario, se practicarán por estrados;
+
+II. Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
+
+III. Acto recurrido;
+
+IV. Expresión de agravios que causa el acto que se impugna, y
+
+V. En su caso, la solicitud de la suspensión del acto reclamado.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 135.
 
-Un vehículo autorizado para la prestación de determinado servicio, no podrá utilizarse en la prestación de otro diferente, bajo pena de sufrir las sanciones respectivas, salvo lo previsto en la presente Ley y sus Reglamentos.
+La autoridad dictará la resolución definitiva dentro del plazo de treinta días hábiles siguientes.
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2015)</small>
+
+#### SECCIÓN TERCERA. DISPOSICIONES COMUNES A LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 136.
 
-Para el caso de que un vehículo no autorizado, utilice colores, número económico o cualquier otro elemento de identificación del Servicio Público de Transporte y del Servicio Mercantil será retirado de la circulación; se obligará al propietario a despintarlo y, en su caso, a emplacarlo como vehículo particular, sin perjuicio de las demás sanciones que le correspondan.
+La interposición del recurso suspenderá la ejecución del acto impugnado, siempre que concurran los requisitos siguientes:
+
+I. Que lo solicite el recurrente, y
+
+II. Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
+
+Promovida la suspensión del acto impugnado, la autoridad deberá realizar un análisis ponderado de la apariencia del buen derecho y la no afectación del interés social.
+
+El otorgamiento o denegación de la suspensión se acordará en el auto que admita el recurso, mismo que se emitirá en un plazo no mayor a veinticuatro horas.
+
+La suspensión surtirá sus efectos desde el momento en que se pronuncie el acuerdo respectivo.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 137.
 
-Cuando un conductor del Servicio Público de Transporte y del Servicio Mercantil, acumule seis infracciones de cualquier naturaleza, en el período de un año, contado a partir de la primera, será considerado reincidente, y podrá ser privado temporal o definitivamente de la licencia de conducir y del tarjetón de identificación del conductor, en términos de lo dispuesto por la presente Ley y sus Reglamentos.
+En los casos en que la suspensión sea procedente, la autoridad fijará la situación en que habrán de quedar las cosas y tomará las medidas pertinentes para conservar la materia del recurso, pudiendo establecer condiciones de cuyo cumplimiento dependa el que la medida suspensional siga surtiendo efectos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+Atendiendo a la naturaleza del acto reclamado, ordenará que las cosas se mantengan en el estado que guarden, y de ser jurídica y materialmente posible, restablecerá provisionalmente al recurrente en el goce del derecho violado mientras se dicta la resolución definitiva.
+
+En ningún caso, el otorgamiento de la medida cautelar podrá tener por efecto modificar o restringir derechos ni constituir aquéllos que no haya tenido el recurrente antes de la presentación del recurso.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 138.
 
-El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas y Administración.
+Si al examinarse el escrito de interposición se advierte que éste carece de algún requisito formal previsto en esta Ley o que no se adjuntan los documentos respectivos, la autoridad administrativa requerirá al recurrente para que en el término de tres días hábiles aclare y complemente el escrito o exhiba los documentos ofrecidos, apercibiéndolo de que, de no hacerlo, se desechará de plano el escrito o se tendrán por no ofrecidas las pruebas, según sea el caso.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 139.
 
-Para la expedición o reposición de las licencias para conducir, los solicitantes deberán justificar no tener adeudos por infracciones a la presente Ley y sus Reglamentos. Así como otros ordenamientos legales aplicables.
+La resolución que pone fin al recurso, se notificará al interesado en el domicilio señalado para tal efecto y no procederá recurso administrativo alguno en su contra.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 140.
 
-Las violaciones a la Ley y a sus Reglamentos se sancionarán de acuerdo con el tabulador de infracciones, de conformidad con la legislación aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+En relación a los recursos y en todo aquello que no hubiera disposición expresa, será aplicado supletoriamente el Código de Procedimientos Civiles vigente para el Estado de Puebla.
 
 ### CAPITULO II. SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 141.
 
-Para garantizar el pago de las multas impuestas a los infractores, se estará a lo establecido por los Reglamentos de esta Ley.
+A quien infrinja las disposiciones contenidas en esta Ley y sus Reglamentos, la autoridad competente le impondrá cualquiera de las siguientes sanciones:
+
+I. Multa, cuando se trate de infracciones impuestas por revisiones administrativas, de conformidad con el tabulador autorizado;
+
+II. Suspensión o cancelación de licencia;
+
+III. Revocación o suspensión de concesión, y
+
+IV. Cancelación o suspensión del permiso.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 142.
 
-Las notificaciones, citatorios, requerimientos, solicitudes de informes o documentos; así como los acuerdos y resoluciones, dictados en aplicación de esta Ley y sus Reglamentos, se harán y se darán a conocer de conformidad con el procedimiento establecido en el Reglamento aplicable.
+A quien infrinja las disposiciones contenidas en esta Ley y sus Reglamentos, tratándose de acciones de supervisión y vigilancia, la Contraloría le impondrá cualquiera de las siguientes sanciones:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+I. Multa, de conformidad con el tabulador autorizado;
 
-La autoridad competente, procurará implementar mecanismos de notificación a través de los medios de comunicación electrónicos o cualquier otro medio reconocido por el promovente, siempre que pueda comprobarse fehacientemente la recepción de las notificaciones.
+II. Retiro y aseguramiento de vehículo, y
+
+III. Retención de licencia.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 143.
+
+La Secretaría, Carreteras de Cuota-Puebla y la Contraloría, en el ámbito de sus respectivas competencias, por violaciones a la presente Ley y sus Reglamentos, impondrán las sanciones de conformidad con el tabulador autorizado que para tal efecto emitan de manera conjunta.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 144.
+
+La Secretaría, Carreteras de Cuota-Puebla y la Contraloría, en el ámbito de su competencia, podrán impedir en todo momento la circulación de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, que no reúnan los requisitos previstos por esta Ley y sus Reglamentos o que representen un riesgo para la seguridad de los usuarios, de los peatones y de los vehículos en general.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 145.
+
+Los concesionarios y los permisionarios están obligados a cumplir todas y cada una de las disposiciones que previene esta Ley y sus Reglamentos, o que con el debido fundamento determinen las autoridades competentes para cada tipo de servicio, en la inteligencia de que su incumplimiento podrá dar motivo a la revocación de dichas concesiones o cancelación de los permisos.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 146.
+
+Un vehículo autorizado para la prestación de determinado servicio, no podrá, utilizarse en la prestación de otro diferente, bajo pena de sufrir las sanciones respectivas, salvo lo previsto en la presente Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 147.
+
+Para el caso de que un vehículo no autorizado, utilice colores, número económico o cualquier otro elemento de identificación del Servicio Público de Transporte y del Servicio Mercantil será retirado de la circulación; se obligará al propietario a despintarlo, y en su caso, a emplacarlo como vehículo particular, sin perjuicio de las demás sanciones que le correspondan.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 148.
+
+Cuando un conductor del Servicio Público del Transporte y del Servicio Mercantil, acumule seis infracciones de cualquier naturaleza, en el período de un año, contado a partir de la primera, será considerado reincidente, y podrá ser privado temporal o definitivamente de la licencia de conducir y del tarjetón de identificación del conductor, en términos de lo dispuesto por la presente Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 149.
+
+El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 150.
+
+Para la expedición o reposición de las licencias para conducir, los solicitantes deberán justificar no tener adeudos por infracciones a la presente Ley y sus Reglamentos. Así como otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 151.
+
+Las violaciones a la Ley y a sus Reglamentos se sancionarán de acuerdo con el tabulador de infracciones, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 152.
+
+Para garantizar el pago de las multas impuestas a los infractores, se estará a lo establecido por los Reglamentos de esta Ley.
 
 ### CAPITULO III. NOTIFICACIONES
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+
+###### ARTICULO 153.
+
+Las notificaciones, citatorios, requerimientos, solicitudes de informes o documentos; así como los acuerdos y resoluciones, dictados en aplicación de esta Ley y sus Reglamentos, se harán y se darán a conocer aplicando el Código de Procedimiento Civiles para el Estado de Puebla.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2166,3 +2296,9 @@ DÉCIMO.- La substanciación de los expedientes que se encuentren pendientes, se
 DÉCIMO PRIMERO.- El Ejecutivo del Estado realizará las modificaciones a los Reglamentos Interiores de las Dependencias correspondientes.
 
 DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente.
