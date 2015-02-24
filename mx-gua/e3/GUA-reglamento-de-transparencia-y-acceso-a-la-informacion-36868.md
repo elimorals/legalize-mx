@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transparencia-y-acceso-a-la-informacion-36868"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-27"
-last_updated: "2004-02-24"
+last_updated: "2015-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE ALLENDE, GUANAJUATO
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE ALLENDE, GTO.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE ALLENDE, GTO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE SAN MIGUEL DE ALLENDE, GUANAJUATO, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 27 de enero de 2004.
 
@@ -636,3 +638,21 @@ Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de s
 Segundo.- El Presidente Municipal propondrá desde luego, al Ayuntamiento el nombramiento del Titular de la Ventanilla Universal, debiendo iniciar sus funciones a partir de la fecha de su designación, asimismo deberá notificarlo a la Contraloría Municipal que a su vez deberá publicar en los tableros de la Presidencia Municipal, su domicilio, horarios y funcionarios encargados. La conformación de las estructuras a que se refiere esta disposición deberá realizarse con los recursos humanos, materiales y presupuestarios y asignados por lo que no deberán implicar erogaciones adicionales. Los particulares podrán presentar las solicitudes de acceso a la información pública o de acceso y corrección de datos personales a partir del 31 de agosto del año 2004.
 
 Tercero.- Quedan sin efecto las demás disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Allende, Gto, publicado el 27 de Enero de 2004, en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de carácter municipal que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo General de Transparencia y Acceso a la Información Pública comenzara a realizar sus funciones dentro de la vigencia del 5 de octubre del presente año dos mil catorce, al 5 de octubre del 2015 dos mil quince, periodo dentro del cual lo ejercerá la administración municipal 2012-2015, una vez fenecido el periodo de este ayuntamiento, las administraciones municipales subsecuentes, ratificaran, revisarán y en su caso modificaran el presente reglamento.
