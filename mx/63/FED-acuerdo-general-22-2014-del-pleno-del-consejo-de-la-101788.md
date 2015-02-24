@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2014-del-pleno-del-consejo-de-la-101788"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-07-16"
-last_updated: "2014-07-16"
+last_updated: "2015-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101788&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-07-15"
 
 ACUERDO GENERAL 22/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO EN SUS DISTINTAS ESPECIALIDADES, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL ACUERDO GENERAL 9/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN, PUBLICADO EN EL D.O.F. DE 24 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de julio de 2014.
 
@@ -914,3 +916,15 @@ TERCERO. Se abroga el Acuerdo General 6/2013 del Pleno del Consejo de la Judicat
 CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este acuerdo se encuentren en trámite, continuarán realizándose conforme a la convocatoria y al acuerdo aplicable al concurso de que se trate.
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 22/2014, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de juez de Distrito en sus distintas especialidades, mediante concursos internos de oposición, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de nueve de julio de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a quince de julio de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 24 DE FEBRERO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en la página web del Consejo de la Judicatura Federal y en la del Instituto, así como en su sede y extensiones.
+
+TERCERO. Se abroga el Acuerdo General 22/2014 del Pleno del Consejo de la Judicatura Federal y demás disposiciones que se opongan al presente.
+
+CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este acuerdo se encuentren en trámite, continuarán realizándose conforme a la convocatoria y al acuerdo aplicable al concurso de que se trate.
