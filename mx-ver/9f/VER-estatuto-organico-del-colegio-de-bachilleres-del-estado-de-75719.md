@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-del-colegio-de-bachilleres-del-estado-de-7571
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-23"
-last_updated: "2010-07-23"
+last_updated: "2015-02-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 6 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.]</small>
+
 ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE FEBRERO DE 2015.
 
 Estatuto publicado en la Gaceta Oficial del Estado de Veracruz, el viernes 23 de julio de 2010.
 
@@ -53,33 +55,69 @@ EL DIRECTOR GENERAL: El Director General del Colegio.
 
 El Colegio contará con las siguientes Áreas Directivas, para el cumplimiento de su objeto:
 
-I. Dirección General.
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
 
-II. Dirección Académica.
+I. Dirección General;
 
-III. Dirección de Planeación, Programación y Presupuesto.
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
 
-IV. Dirección de Asuntos Jurídicos.
+II. Dirección Académica;
 
-V. Dirección de Operación Regional.
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
 
-VI. Dirección Administrativa.
+III. Dirección de Planeación, Programación y Presupuesto;
 
-VII. Coordinaciones de Zona.
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
 
-VIII. Contraloría Interna.
+IV. Dirección de Asuntos Jurídicos;
 
-IX. Subdirección Académica.
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
 
-X. Enlace Interinstitucional de Coordinadores.
+V. Dirección de Operación Regional;
 
-XI. Jefaturas de Departamento.
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
 
-XII. Jefaturas de Materia.
+VI. Dirección Administrativa;
 
-XIII. Direcciones de Plantel.
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
 
-XIV. Subdirecciones de Plantel.
+VII. Coordinaciones de Zona;
+
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+VIII. Contraloría Interna;
+
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+IX. Subdirección Académica;
+
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+X. Enlace Interinstitucional de Coordinadores;
+
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+XI. Jefaturas de Departamento;
+
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+XII. Unidad de Comunicación Educativa;
+
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+XIII. Unidad de Género;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 24 DE FEBRERO DE 2015)</small>
+
+XIV. Unidad de Acceso a la Información;
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+XV. Direcciones de Plantel;
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+XVI. Subdirecciones de Plantel.
 
 ### CAPÍTULO II. Del Director General
 
@@ -255,51 +293,47 @@ XV. Integrar y difundir la información básica del Colegio y su análisis para 
 
 XVI. Coordinar la evaluación institucional del Colegio y de los programas de trabajo que permitan en su caso, tomar las medidas correctivas pertinentes.
 
-### CAPÍTULO VI. De las Facultades de la Dirección de Asuntos Jurídicos
+> <small>(DEROGADO [N. DE E. REFORMADO], G.O. 24 DE FEBRERO DE 2015)</small>
 
-###### Artículo 8º.
+### CAPÍTULO VI. De las facultades de la Dirección de Asuntos Jurídicos
+
+> <small>(DEROGADO [N. DE E. REFORMADO], G.O. 24 DE FEBRERO DE 2015)</small>
+
+###### Artículo 8°.
 
 Son facultades del Director de Asuntos Jurídicos, las siguientes:
 
-I. Intervenir como representante legal o apoderado del Colegio y del Director General con las más amplias facultades que las leyes civiles, penales, laborales, administrativas o de amparo requieran a efecto, en todos aquellos juicios y procedimientos en los que la dependencia o su titular sea parte y tengan interés jurídico.
+I. Intervenir como apoderado legal del Colegio de Bachilleres del Estado de Veracruz y del Director General, con todo género de facultades, aun las especiales que conforme a la ley requieran de cláusula especial, para comparecer ante cualquier Autoridad Administrativa, Fiscal, Penal, Civil, Laboral, Agrario y ante cualquier Autoridad Federal, Estatal y Municipal, ejercitando las acciones y excepciones o defensas, en todos aquellos juicios y procedimientos en los que el Organismo o el Director General del Colegio, sea parte y tenga interés jurídico en el Juicio;
 
-II. Representar legalmente al Colegio con la autorización del Director General en toda controversia, ejercitando las acciones y excepciones procedentes ante los tribunales municipales, estatales y federales.
+II. Participar en las negociaciones laborales que se lleven a cabo con las Organizaciones Sindicales;
 
-III. Participar en las negociaciones laborales que se lleven a cabo con la organización sindical.
+III. Atender las necesidades jurídicas ante las diversas dependencias y Organismos Gubernamentales Federales, Estatales y Municipales, sean de su competencia o en apoyo a las mismas;
 
-IV. Atender las necesidades jurídicas institucionales ante la dependencia y organismos gubernamentales en asuntos de su competencia.
+IV. Asesorar en materia jurídica a las diferentes Áreas del Colegio, así como a las Coordinaciones de Zona y Planteles del Organismo;
 
-V. Asesorar en materia jurídica a las diferentes dependencias del Colegio.
+V. Rendir informes al Director General, respecto a los asuntos que le sean encomendados;
 
-VI. Interponer en caso necesario, amparo en contra de resoluciones dictadas por las autoridades que afecten los intereses del Colegio.
+VI. Participar en la formulación, revisión, opinión, compilación, análisis y difusión de la normatividad interna del Colegio:
 
-VII. Entregar al Director General los informes que requiera, sobre la situación que de manera expresa le hayan sido encomendados.
+VII. Coadyuvar en la elaboración de proyectos de Reglamentos, Manuales, Contratos, Acuerdos y Circulares, relativas a la competencia del Organismo;
 
-VIII. Participar en la formación, revisión, opinión, compilación, análisis y difusión de la normatividad del Colegio.
+VIII. Gestionar la regularización de las propiedades del Colegio, ante las Autoridades Federales, Estatales y Municipales;
 
-IX. Auxiliar al Director General y a las áreas operativas, en la elaboración de proyectos o iniciativas de leyes, reglamentos, decretos, acuerdos, circulares, órdenes y demás disposiciones legales relativas a los asuntos de la competencia del Colegio.
+IX. Ser representante patronal, con voz y voto, ante la Comisión Mixta de Escalafón, así como de las demás comisiones previstas por la Ley Federal del Trabajo, Contrato Colectivo de Trabajo y de aquellas que le sean asignadas por el Director General del Colegio;
 
-X. Participar como gestor en la regularización de las propiedades con que cuenta el Colegio.
+X. Iniciar y dar seguimiento al Procedimiento Administrativo, previsto en el Contrato Colectivo de Trabajo, a los trabajadores que infrinjan las disposiciones previstas en el mismo, previa resolución que emita, aplicando las sanciones establecidas en el pacto colectivo, cuando la conducta de infractores encuadre en tales hipótesis, incluso rescindir la relación de trabajo, en caso de ser procedente, haciéndolo del conocimiento de las Direcciones Administrativa, Académica y Contraloría Interna;
 
-XI. Formar parte de la comisión mixta de escalafón y de las comisiones que decida el Director General.
+XI. Redactar, registrar, validar y dar seguimiento a los Convenios y Contratos celebrados por el Colegio;
 
-XII. Formar parte de los comités operativos internos del Colegio.
+XII. Recopilar Leyes, Decretos, Circulares y Acuerdos que competan al desempeño de las actividades del Colegio, elaborando los reportes, documentos y demás elementos informativos para las Áreas que resulten involucradas;
 
-XIII. Registrar y compilar los acuerdos normativos que emita la Junta Directiva Consejo Consultivo de Directores y el Director General, así como las circulares que con el mismo fin emitan las direcciones de área.
+XIII. Participar en la Sesiones del Subcomité de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles, en su carácter de Asesor;
 
-XIV. Informar a las direcciones académicas, administrativas y contraloría interna de las actas de hechos levantadas al personal.
+XIV. Certificar, previo cotejo de originales, documentos que a solicitud de parte sean requeridos a la (sic) Áreas del Colegio;
 
-XV. Emitir dictámenes sobre los casos en que los trabajadores violen las Condiciones Generales de Trabajo, la Ley Estatal del Servicio Civil o la Ley de Responsabilidades de los Trabajadores al Servicio del Estado.
+XV. Dar cuenta, con toda oportunidad, a los titulares de las Áreas sobre las resoluciones de los asuntos que sean de su competencia;
 
-XVI. Elaborar, registrar y dar seguimiento a los convenios y contratos celebrados por el Colegio.
-
-XVII. Revisar y en su caso aprobar las garantías que se otorguen al Colegio por los contratos de obras o servicios que celebre el Colegio.
-
-XVIII. Asistir a la recepción fiscal de los planteles y obras nuevas.
-
-XIX. Recopilar leyes, decretos, circulares y acuerdos que coincidan en el desempeño de las actividades del Colegio, elaborando los reportes, documentos y demás elementos informativos para las dependencias que resulten involucradas.
-
-XX. Dar cuenta con toda oportunidad a los titulares de las dependencias sobre las resoluciones de los asuntos cuya instrumentación les corresponda.
+XVI. Participar en el Consejo Consultivo de Directores.
 
 ### CAPÍTULO VII. De las Facultades de la Dirección de Operación Regional
 
@@ -615,9 +649,49 @@ XXVII. Aprobar las compras de materiales y el pago de servicios necesarios para 
 
 XXVIII. Mantener vinculación permanente con el Coordinador de Zona y rendirle informe periódicos de su trabajo.
 
-### CAPÍTULO XVI. De las Facultades de las Subdirecciones de Plantel
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 24 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO XVI. De las facultades de la Unidad de Acceso a la Información
+
+> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 18.
+
+Son facultades del Jefe de la Unidad de Acceso a la Información las siguientes:
+
+I. Recibir, coordinar y dar atención a las solicitudes de Acceso a la Información Pública que se presenten en el Colegio;
+
+II. Llevar un control de las solicitudes de Acceso a la Información Pública en el Colegio y del vencimiento de plazos y términos de éstas;
+
+III. Recibir y tramitar las solicitudes de acceso, rectificación, cancelación y oposición de datos personales que se presenten en el Colegio;
+
+IV. Orientar a los particulares en la presentación de las solicitudes de acceso a la información o en su caso en las solicitudes de acceso, rectificación, cancelación y oposición de datos personales;
+
+V. Solicitar a las Áreas Administrativas del Colegio, los datos o informes que resulten necesarios para dar respuesta a las solicitudes en tiempo y forma;
+
+VI. Realizar las notificaciones a que se refiere la normatividad aplicable;
+
+VII. Elaborar y someter a consideración del Director, los informes que establezca la normatividad aplicable;
+
+VIII. Apoyar a las Áreas Administrativas del Colegio, para que la información a que se refiere el artículo 8 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, cumpla con los lineamientos establecidos;
+
+IX. Someter a consideración del Comité de Información de Acceso Restringido del Colegio, los proyectos de información a clasificar como de acceso restringido o confidencial, remitidos por las Áreas Administrativas;
+
+X. Coadyuvar con las Áreas Administrativas del Colegio, para el cumplimiento de la normatividad y lineamientos emitidos en materia de protección de datos personales;
+
+XI. Coordinar las políticas en materia de protección de datos personales;
+
+XII. Coadyuvar en la elaboración y actualización de los Manuales de Organización y Procedimientos de su competencia;
+
+XIII. Recibir los recursos de revisión interpuestos ante el Instituto Veracruzano de Acceso a la Información Pública (IVAI) y notificar al Área competente del Colegio;
+
+XIV. Integrar y dar contestación de los recursos de revisión interpuestos ante el Instituto Veracruzano de Acceso a la Información Pública (IVAI), presentando las pruebas y manifestaciones en el plazo legal establecido;
+
+XV. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+
+### CAPÍTULO XVII. De las Facultades de las Subdirecciones de Plantel
+
+###### Artículo 19.
 
 Son facultades de los Subdirectores de Plantel, respecto del área que se trate, las siguientes:
 
@@ -637,21 +711,21 @@ VII. Informar conforme a la normatividad aplicable los avances en el programa de
 
 VIII. Las demás que señale el Director de Plantel.
 
-### CAPÍTULO XVII. Disposiciones Generales
-
-###### Artículo 19.
-
-Los Coordinadores de Zona, representarán al Colegio en los asuntos que se indican en el presente estatuto, así como los que adicionalmente les asigne el Director General.
+### CAPÍTULO XVIII. Disposiciones Generales
 
 ###### Artículo 20.
 
-Para la ejecución de los programas estatales y de los que se deriven de los convenios suscritos con organismos públicos nacionales e internaciones y organizaciones privadas, en materia de educación, deporte o cultura, el Director General asignará dichos programas al área que guarde mayor relación con la materia del convenio.
+Los Coordinadores de Zona, representarán al Colegio en los asuntos que se indican en el presente estatuto, así como los que adicionalmente les asigne el Director General.
 
 ###### Artículo 21.
 
-El Director General determinará el personal que considere conveniente para la operación de los programas y convenios, dictará la normatividad interna, nombrará al responsable, asignará el presupuesto necesario y las demás disposiciones técnicas y administrativas para el logro de los objetivos y metas que aquellos señalen.
+Para la ejecución de los programas estatales y de los que se deriven de los convenios suscritos con organismos públicos nacionales e internaciones y organizaciones privadas, en materia de educación, deporte o cultura, el Director General asignará dichos programas al área que guarde mayor relación con la materia del convenio.
 
 ###### Artículo 22.
+
+El Director General determinará el personal que considere conveniente para la operación de los programas y convenios, dictará la normatividad interna, nombrará al responsable, asignará el presupuesto necesario y las demás disposiciones técnicas y administrativas para el logro de los objetivos y metas que aquellos señalen.
+
+###### Artículo 23.
 
 El Director General en sus ausencias mayores de quince días podrá designar un directivo que le ayude a resolver los asuntos urgentes y lo represente en reuniones y eventos oficiales.
 
@@ -670,3 +744,11 @@ Quinto. En los casos en que el presente Estatuto requiera ser adecuado o actuali
 Sexto. Una vez que entre en vigor el presente Estatuto, el Director General del Colegio dispondrá lo necesario para que se circule, difunda y se haga del conocimiento de las instancias correspondientes.
 
 Dado en la Sala de Juntas de la Dirección General del Colegio de Bachilleres del Estado de Veracruz, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los once días del mes de diciembre del año dos mil nueve. Doctor Víctor A. Arredondo Álvarez, secretario de Educación de Veracruz. Licenciado Salvador Sánchez Estrada, secretario de Finanzas y Planeación. Maestra Leticia Perlasca Núñez, directora general y presidenta del Consejo Consultivo de Directores del COBAEV.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 24 DE FEBRERO DE 2015.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Acuerdo.
