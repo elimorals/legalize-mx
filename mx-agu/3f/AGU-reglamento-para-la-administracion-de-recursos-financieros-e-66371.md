@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-la-administracion-de-recursos-financieros-e-663
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-09"
-last_updated: "2014-02-17"
+last_updated: "2015-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO PARA LA ADMINISTRACIÓN DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de febrero de 2009.
 
@@ -42,9 +42,155 @@ CONSIDERANDO:
 
 El presente ordenamiento jurídico administrativo, tiene la finalidad de optimizar, transparentar y dar seguridad al manejo de los recursos económicos del Instituto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO P.O. 17 DE FEBRERO DE 2014)</small>
+###### ARTÍCULO 2º.
+
+Para los efectos del presente Reglamento se entenderá por:
+
+I. Activo Administrado por el Mandatario: El valor de mercado de los Activos Objeto de Inversión del Instituto que se encuentre bajo la gestión financiera de cada Mandatario contratado por el Instituto.
+
+II. Activo Administrado por el Instituto: El valor de mercado de los Activos Objeto de Inversión del Instituto directamente gestionado en materia de inversiones por éste.
+
+III. Activo Total del Instituto: La suma del Activo Administrado por el Instituto incluyendo sus reservas y de los Activos Administrados por los Mandatarios contratados por el Instituto.
+
+IV. Activos Objeto de Inversión: Los Instrumentos, Valores Extranjeros, Inversiones Neutras, Mercancías y operaciones con Derivados, reportos y préstamos de valores.
+
+V. Bancos: Las Instituciones de Crédito, así como las entidades extranjeras que realicen las mismas operaciones que las Instituciones de Crédito.
+
+VI. Calificación de Contraparte: La asignada por las instituciones calificadoras de valores autorizadas por la Comisión Nacional Bancaria y de Valores a los intermediarios para la celebración de operaciones con reportos, préstamo de valores, Derivados o depósitos bancarios.
+
+VII. Certificados Bursátiles: Los títulos de crédito previstos en la Ley del Mercado de Valores, que representan la participación individual de sus tenedores en un crédito colectivo a cargo de personas morales, o de un patrimonio afecto en fideicomiso.
+
+VIII. Comité de Inversiones: El Comité de Inversiones a que se refiere el inciso b) de la fracción I del artículo 5º del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+IX. Comité Técnico: El Comité Técnico del Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto.
+
+X. Comité de Riesgos: El Comité de Riesgos a que se refiere el inciso c) de la fracción I del artículo 5º del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+XI. Componentes de Renta Variable: Los Instrumentos de Renta Variable y Valores Extranjeros de Renta Variable con los que se obtenga exposición a activos accionarios autorizados a través de Vehículos que confieran derechos sobre los mismos, acciones o Derivados.
+
+XII. Contrapartes: Las instituciones financieras con quienes el Instituto puede celebrar operaciones con Derivados, reporto y préstamo de valores, en términos de las Disposiciones del Banco de México, así como aquéllas en las que realicen depósitos bancarios de dinero a la vista.
+
+XIII. Derivados: Las Operaciones a Futuro, de Opción o de Swap, a que se refieren las Disposiciones del Banco de México.
+
+XIV. Disposiciones del Banco de México: Las dirigidas al Instituto, especializadas en fondos para el retiro en materia de operaciones financieras conocidas como derivadas, de reporto y de préstamo de valores, expedidas por el Banco Central.
+
+XV. Divisas: Los dólares de los Estados Unidos de América, euros, yenes y las monedas de los Países Elegibles para Inversiones que el Comité de Riesgos determine, considerando la seguridad de las inversiones y el desarrollo de los mercados, así como otros elementos que dicho cuerpo colegiado juzgue que es necesario analizar.
+
+XVI. Empresas Privadas: Las sociedades mercantiles de nacionalidad mexicana autorizadas para emitir valores, así como las Entidades Financieras.
+
+XVII. Emisores Nacionales: El Gobierno Federal, el Banco de México, Empresas Privadas, entidades federativas, municipios, Gobierno del Distrito Federal y Entidades Paraestatales, que emitan Instrumentos, así como las Entidades Financieras, que emitan, acepten o avalen Instrumentos.
+
+XVIII. Emisores Extranjeros: Los Gobiernos, Bancos Centrales y Agencias Gubernamentales de Países Elegibles para Inversiones, así como las entidades que emitan valores bajo la regulación y supervisión de éstos y los organismos multilaterales de carácter internacional de los que los Estados Unidos Mexicanos no sea parte.
+
+XIX. Entidades Financieras: Las autorizadas conforme a la legislación financiera mexicana para actuar como: almacenes generales de depósito, arrendadoras financieras, casas de bolsa, empresas de factoraje financiero, Instituciones de Crédito, instituciones de fianzas, instituciones de seguros y sociedades financieras de objeto limitado o múltiple.
+
+XX. Estructuras Vinculadas a Subyacentes: Los activos que cumplan con las siguientes características:
+
+a. Ser ofertados mediante un mecanismo de oferta pública en algún País Elegible para Inversiones;
+
+b. Tener una estructura de pago de flujos a los inversionistas integrada por los siguientes dos componentes:
+
+i) Un bono cupón cero no subordinado, o en su caso un pago con estructura financiera similar a éste, a través del cual se devuelve al inversionista en la fecha de vencimiento del título el monto invertido. Este componente puede estar denominado en pesos, Unidades de Inversión o Divisas y puede ser emitido por Emisores Nacionales o Extranjeros.
+
+ii) El pago de cupones, cuyo valor esté vinculado a Divisas, Unidades de Inversión, pesos, tasas de interés, reales o nominales, el índice nacional de precios al consumidor, Mercancías o una combinación de las anteriores. El valor de los cupones en ningún caso podrá ser negativo. Dicho valor podrá determinarse a través de Derivados autorizados.
+
+c. Contar con las calificaciones crediticias previstas en las presentes disposiciones; y
+
+d. El instrumento podrá requerir al inversionista únicamente la aportación del monto de inversión inicial y no deberá requerir a éste la administración ni la aportación de garantías.
+
+XXI. FIBRAS: Los títulos o valores emitidos por fideicomisos que se dediquen a la adquisición o construcción de bienes inmuebles en territorio nacional que se destinen al arrendamiento o a la adquisición del derecho a percibir ingresos provenientes del arrendamiento de dichos bienes, así como a otorgar financiamiento para esos fines, que cumplan con lo previsto en los artículos 187 y 188 de la Ley del Impuesto Sobre la Renta.
+
+XXII. Fideicomiso Maestro: El Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto, en virtud del cual el Instituto, en calidad de fideicomitente, transmite bienes, cantidades de dinero o derechos, presentes o futuros, a una entidad financiera que haga las funciones de fiduciaria, para que ésta administre o invierta los bienes, en beneficio del propio fideicomitente o en beneficio de terceros, llamados fideicomisarios.
+
+XXIII. Fondos Mutuos: Las entidades nacionales o extranjeras, que se encuentren registradas, reguladas y supervisadas por alguna autoridad perteneciente a los Países Elegibles para Inversiones que cumplan con la regulación de su país de origen, así como con las siguientes características:
+
+a. El valor neto de sus activos se debe conocer diariamente a través de los mecanismos que para tales efectos establezcan las autoridades de los Países Elegibles para Inversiones que regulen el fondo de que se trate;
+
+b. La liquidez y redención de las acciones o títulos debe ser diaria, o bien conforme a la periodicidad que determine el Comité de Riesgos;
+
+c. Sus administradores y/o asesores de inversión deben estar registrados, regulados y supervisados por alguna autoridad perteneciente a los Países Elegibles para Inversiones;
+
+d. Deben contar con un prospecto de inversión en el que hagan pública su política de inversión y deben publicar periódicamente su situación financiera; y
+
+e. Los instrumentos en los que inviertan deben ser emitidos mediante oferta pública y observar los criterios aplicables a Activos Objeto de Inversión determinados en las presentes disposiciones.
+
+El Comité de Riesgos determinará los lineamientos que deben cumplir estos fondos con el objeto de proteger los recursos de los trabajadores invertidos en el Instituto.
+
+XXIV. Grado de Inversión: El obtenido por los Instrumentos de Deuda y Valores Extranjeros de Deuda denominados en moneda nacional, Unidades de Inversión o Divisas que ostenten las calificaciones relacionadas en la Tabla “A” de las presentes disposiciones.
+
+XXV. Grupos Financieros: Los constituidos en términos de la Ley para Regular las Agrupaciones Financieras.
+
+XXVI. Instituto: El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+XXVII. Instituciones de Crédito: Las instituciones de banca múltiple y banca de desarrollo nacionales.
+
+XXVIII. Instrumentos: Todos los Instrumentos Bursatilizados, Instrumentos de Deuda e Instrumentos Estructurados denominados en moneda nacional, así como las Unidades de Inversión o Divisas emitidos por Emisores Nacionales, incluidos los Certificados Bursátiles y los Certificados de Participación, los documentos o contratos de deuda a cargo del Gobierno Federal, los depósitos en el Banco de México, los depósitos bancarios de dinero a la vista realizados en Instituciones de Crédito, las Estructuras Vinculadas a Subyacentes, o en su caso los componentes de éstas, emitidos por Emisores Nacionales, así como las Mercancías.
+
+XXIX. Instrumentos Bursatilizados: Los títulos o valores que representen derechos de crédito emitidos a través de Vehículos y cuyos activos subyacentes sean dichos derechos de crédito, no quedando incluido ningún otro instrumento diferente a los antes mencionados, que no reúna los requisitos establecidos en las disposiciones de carácter general en materia financiera de los Sistemas de Ahorro para el Retiro, previo visto bueno del Comité de Riesgos.
+
+XXX. Instrumentos de Deuda: Los siguientes:
+
+a. Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, colocados en mercados nacionales o extranjeros, emitidos por Emisores Nacionales, así como a los Instrumentos Bursatilizados y los depósitos en el Banco de México;
+
+b. Las obligaciones subordinadas no convertibles emitidas por Instituciones de Crédito a que se refiere el artículo 64 de la Ley de Instituciones de Crédito;
+
+c. Las obligaciones subordinadas no convertibles que cumplan con los siguientes requisitos:
+
+1. Que tengan por objeto financiar proyectos de infraestructura en territorio nacional;
+
+2. Que en ninguno de los tramos o series en que se estructuren se establezcan aportaciones adicionales con cargo a los tenedores;
+
+3. Que sin perjuicio del orden de prelación establecido entre dichos tramos o series, en ningún caso se libere al emisor de la obligación de pago del principal, aun cuando dicho principal pueda ser diferido o amortizado anticipadamente; y
+
+4. Que en el caso de que sean emitidas a través de un Vehículo, éste no confiera derechos directa o indirectamente, respecto de Derivados o implique estructuras sujetas a financiamiento.
+
+d. Obligaciones subordinadas no convertibles en acciones.
+
+Se exceptúan de las comprendidas en este inciso, las series contempladas en la emisión de un instrumento financiero que ante cualquier evento distinto al de liquidación o concurso mercantil otorgue derechos de prelación de cobro diferenciados a los tenedores de dichas series, cualquiera que sea su denominación. En particular no quedan contempladas en la presente definición las series subordinadas o mezzanine de los Instrumentos Bursatilizados.
+
+Asimismo, quedan excluidas del presente inciso las distintas obligaciones y series de acciones emitidas por una sociedad anónima especializada en la inversión de recursos financieros.
+
+Los instrumentos a que se refieren los incisos b), c) y d) anteriores, deberán alcanzar las calificaciones mínimas que determine el Comité de Riesgos. En todo caso, las calificaciones deberán ser otorgadas cuando menos por dos instituciones calificadoras de valores autorizadas por la Comisión Nacional Bancaria y de Valores.
+
+XXXI. Instrumentos Estructurados:
+
+a) Los títulos fiduciarios que se destinen a la inversión o al financiamiento de las actividades o proyectos dentro del territorio nacional, de una o varias sociedades, emitidos al amparo de las disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores expedidas por la Comisión Nacional Bancaria y de Valores, incluidos aquéllos que inviertan o financien la adquisición de capital social de sociedades mexicanas cuyas acciones se encuentren cotizadas en la Bolsa Mexicana de Valores, excepto las reguladas por la Ley de Sociedades de Inversión;
+
+b) FIBRAS.
+
+XXXII. Instrumentos de Renta Variable: Los siguientes:
+
+a) Acciones destinadas a la inversión individual o a través de índices accionarios previstos en el presente Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, de Emisores Nacionales listados en la Bolsa Mexicana de Valores;
+
+b) Las acciones de Emisores Nacionales, o los títulos que las representen, que sean objeto de oferta pública inicial, total o parcial, en la Bolsa Mexicana de Valores, o en ésta en conjunto con otras bolsas de valores; y
+
+c) Obligaciones forzosamente convertibles en acciones de Sociedades Anónimas Bursátiles de Emisores Nacionales.
+
+XXXIII. Inversiones Neutras: Las realizadas por el Instituto en Instrumentos emitidos, bajo la regulación y supervisión de autoridades que pertenezcan a los Países Elegibles para Inversiones, por organismos financieros multilaterales de carácter internacional de los que los Estados Unidos Mexicanos sea parte, los cuales se considerarán como Emisores Nacionales.
+
+XXXIV. Ley: Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+XXXV. Mandatarios: Las personas morales especializadas en la inversión de recursos financieros supervisadas y reguladas por autoridades de los Países Elegibles para Inversiones con las que el Instituto haya celebrado contratos de intermediación en los que se otorgue un mandato cuyo ejercicio esté sujeto a los lineamientos que determine el Instituto contratante.
+
+XXXVI. Mejores Prácticas: Los lineamientos para controlar y minimizar el riesgo operativo del Instituto, procedente de las operaciones con Activos Objeto de Inversión, así como del manejo de efectivo y valores en las operaciones de compraventa, registro, administración y custodia de valores en los mercados financieros nacionales y extranjeros, que el Instituto debe adoptar e incorporar a sus programas de autorregulación.
+
+XXXVII. Mercancías: Los subyacentes enunciados en las Disposiciones del Banco de México en materia de operaciones derivadas, que tengan el carácter de bienes fungibles diferentes a las acciones, índices, tasas, derivados, moneda nacional, Divisas, Unidades de Inversión, préstamos y créditos, en los que el Instituto tenga la posición de acreedora.
+
+XXVIII. Países Elegibles para Inversiones: Los países cuyas autoridades reguladoras y supervisoras de mercados financieros pertenezcan al comité técnico de la Organización Internacional de Comisiones de Valores (IOSCO), a la Unión Europea o bien a los países miembros de la Organización para la Cooperación y el Desarrollo Económico (OCDE), con los que México tenga tratados de libre comercio vigentes.
+
+XXXIX. Unidades de Inversión: A las unidades de cuenta cuyo valor publica el Banco de México en el Diario Oficial de la Federación, conforme a los artículos tercero del Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta, publicado en el Diario Oficial de la Federación el 1º de abril de 1995 y 20 ter del Código Fiscal de la Federación.
+
+XL. Valor Compensado: Aquél que resulte de restar al valor de mercado de los Contratos Abiertos, el valor de mercado de las garantías recibidas para asegurar el cumplimiento de las operaciones con Derivados que celebre el Instituto.
+
+XLI. Valores Extranjeros: Todos los Valores Extranjeros de Deuda y Valores Extranjeros de Renta Variable, las Estructuras Vinculadas a Subyacentes, los componentes de éstas referidos en la fracción XX inciso b) subinciso i) o bien la estructura de pagos referida en la fracción XX inciso b) subinciso ii), emitidos por Emisores Extranjeros, así como los depósitos bancarios de dinero a la vista realizados en entidades financieras extranjeras autorizadas para tales fines y los Derivados cuyo subyacente sean Valores Extranjeros de Renta Variable.
+
+XLII. Valores Extranjeros de Deuda: Los Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, así como a los Instrumentos Bursatilizados, emitidos por Emisores Extranjeros.
+
+XLIII. Valores Extranjeros de Renta Variable: Los Activos Objeto de Inversión listados en algún mercado accionario supervisado por una autoridad de los Países Elegibles para Inversiones cuya naturaleza corresponda a capital, emitidos por Emisores Extranjeros.
+
+XLIV. Vehículos: Las sociedades de inversión, Fondos Mutuos, fideicomisos de inversión u otros análogos a los anteriores que, cualquiera que sea su denominación, confieran derechos, directa o indirectamente, respecto de los Activos Objeto de Inversión.
 
 ###### ARTICULO 2°.
 
@@ -396,33 +542,43 @@ La firma de los cheques podrán contener dos firmas "A", podrán ser con firmas 
 
 La prioridad de la administración del Instituto será lograr el rendimiento más atractivo posible de la inversión de recursos o que se haga de la inversión de las reservas actuariales, financieras y económicas, dentro de un esquema que nos permitan las condiciones del mercado en su momento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
-
-###### ARTICULO 34.
+###### ARTÍCULO 34.
 
 De acuerdo a las instrucciones que le sean giradas por el Comité de Inversiones, los recursos que existan en el Fideicomiso Maestro podrán ser invertidos en lo siguiente:
 
 I. Hasta el 100% del Activo Total del Instituto en instrumentos de Deuda emitidos o avalados por el Gobierno Federal, o en Instrumentos de Deuda emitidos por el Banco de México. La inversión a que se refiere el presente párrafo, no incluye a los Instrumentos de Deuda emitidos, avalados o aceptados por las instituciones de banca de desarrollo, salvo cuando en éstos conste en forma expresa el aval del Gobierno Federal.
 
-II. El 100% de los activos invertidos del Instituto debe estar invertido en Instrumentos de Deuda que tengan Grado de Inversión conforme a la Tabla "A".
+II. El 100% de los Activos invertidos en Instrumentos de Deuda deberá contar con calificación de Grado de Inversión conforme a la Tabla “A”.
 
-III. En depósitos de dinero a la vista en Bancos.
+III. Depósitos de dinero a la vista en Bancos.
 
 IV. En las operaciones autorizadas para garantizar Derivados a que se refieren las Disposiciones del Banco de México.
 
-V. Hasta el 20% del Activo de cada Subcuenta del Instituto en Valores Extranjeros. Las inversiones en Valores Extranjeros de Deuda deberán tener Grado de Inversión conforme a la tabla "A".
+V. Hasta el 20% del Activo de cada Subcuenta del Instituto en Valores Extranjeros. Las inversiones en Valores Extranjeros de Deuda deberán tener Grado de Inversión conforme a la tabla “A”.
 
-VI. Hasta el 20% del Activo Total del Instituto en Instrumentos de deuda corporativa que tenga Grado de Inversión conforme a la Tabla "A".
+VI. En Componentes de Renta Variable. La suma de la exposición o en su caso a valor de mercados de las inversiones en Componentes de Renta Variable deberá ser como máximo hasta el 12% del Activo de cada Subcuenta. Las inversiones en Componentes de Renta Variable no deberán exceder los límites de exposición establecidos en la Metodología para calcular la exposición a renta variable del Componente de Renta Variable aprobada por la Junta Directiva del Instituto.
 
-VII. Activos Objeto de Inversión emitidos, avalados o aceptados por sociedades relacionadas entre Sí, podrá ser hasta del 15% del Activo Total del Instituto.
+VII. En Instrumentos Estructurados. La inversión sólo podrá ser hasta el 10% del Activo total del Instituto, de la siguiente manera:
 
-VIII. Hasta el 30% del Activo del Instituto en Instrumentos Bursatilizados que satisfagan los requisitos establecidos en las presentes disposiciones y deberán ser colocados por un emisor independiente de acuerdo con los criterios establecidos en el Anexo 1.
+a) En los Instrumentos Estructurados que se destinen exclusivamente a proyectos de infraestructura o de vivienda en territorio nacional hasta el 5% del Activo Total del Instituto.
 
-IX. Hasta el 15% del Activo Total del Instituto en Instrumentos de deuda pública de otras entidades federativas.
+b) En los demás Instrumentos Estructurados, hasta el 5% de Activo Total del Instituto.
 
-Los recursos no podrán ser invertidos en instrumentos de renta variable incluyendo acciones.
+Los recursos del Instituto podrán ser invertidos en Instrumentos Estructurados que inviertan o financien la adquisición de capital social de sociedades mexicanas cuyas acciones se encuentren cotizadas en la Bolsa Mexicana de Valores, siempre que estas últimas hubieran sido objeto de financiamiento a través de un Instrumento Estructurado previo a su listado en dicho mercado de capitales o bien cuando las citadas sociedades objeto del financiamiento sean elegibles de conformidad con el prospecto de emisión del Instrumento Estructurado en cuyo caso dicho Instrumento Estructurado no podrá adquirir más del 51% del total del capital social que haya sido objeto de oferta pública en los mercados de valores regulados por autoridades de Países Elegibles para Inversiones. La inversión en los Instrumentos Estructurados referidos en el presente párrafo deberá sujetarse a lo establecido en los apartados a) y b) de la presente fracción. Los Instrumentos Estructurados a que se refiere el artículo 2º, fracción XXXI, inciso a) del presente Reglamento, no podrán adquirirse ni mantener exposición a través de Derivados.
+
+VIII. En Mercancías hasta un 5% del Activo Total del Instituto.
+
+IX. Hasta el 20% del Activo Total del Instituto en Valores de Deuda Extranjeros que tenga Grado de Inversión conforme a la Tabla “A”.
+
+X. Hasta el 20% del Activo Total del Instituto en Instrumentos de deuda corporativa que tenga Grado de Inversión conforme a la Tabla “A”.
+
+XI. Activos Objeto de Inversión emitidos, avalados o aceptados por sociedades relacionadas entre Sí, podrá ser hasta del 15% del Activo Total del Instituto.
+
+XII. Hasta el 30% del Activo del Instituto en Instrumentos Bursatilizados que satisfagan los requisitos establecidos en las presentes disposiciones y deberán ser colocados por un emisor independiente de acuerdo con los criterios establecidos en el Anexo 1.
+
+XIII. Hasta el 15% del Activo Total del Instituto en Instrumentos de deuda pública de otras entidades federativas.
 
 El Comité de Inversiones deberá dar su autorización para la adquisición de un Activo Objeto de Inversión, en el caso de que el Intermediario que lo ofrezca, sea el mismo que estructuró la bursatilización del Activo referido.
 
@@ -430,13 +586,15 @@ Para efectos de la presente disposición, la Junta Directiva, oyendo la opinión
 
 La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx AAA o su correspondiente según la Tabla A no podrá exceder del 5% del Activo del Instituto.
 
-La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx AA+ o su correspondiente según la Tabla A no podrá exceder del 3% del Activo del Instituto.
+La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx AA+, AA y AA-(Menos) o su correspondiente según la Tabla A no podrá exceder del 3% del Activo del Instituto.
 
-La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor no podrá exceder del 5% del Activo del Instituto y deberán ostentar las calificaciones previstas en la Tabla "A" de las presentes disposiciones.
+La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx A+ y A o su correspondiente según la Tabla A no podrá exceder del 2% del Activo del Instituto.
 
-El monto adquirido sobre una misma emisión no podrá ser mayor al 35% de la emisión o mayor a $300,000,000.00 (trescientos millones de pesos).
+El monto adquirido sobre una misma emisión no podrá ser mayor al 35% de la emisión o mayor a $500´000,000.00 (quinientos millones de pesos).
 
 > <small>N. DE E. VÉASE TABLA "A" EN EL P.O. DE 17 DE FEBRERO DE 2014, PÁGINA 31.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA “A” EN EL P.O. DE 24 DE FEBRERO DE 2015, PAGINA 7.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -464,25 +622,29 @@ VII. Cumplir con los demás requisitos que determine el Comité de Riesgos. Los 
 
 Los contratos a celebrarse entre el Fideicomiso Maestro y los Mandatarios, deberán presentarse al Comité de Inversiones para su aprobación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
-
-###### ARTICULO 36.
+###### ARTÍCULO 36.
 
 El Fideicomiso Maestro, tendrá prohibido:
 
-I. Adquirir Activos Objeto de Inversión emitidos, aceptados o avalados por Entidades Financieras o casas de bolsa, que se encuentren sujetas a intervención administrativa o gerencial que haya sido declarada por la autoridad supervisora competente del sistema financiero o actos equivalentes ordenados en su caso, por alguna autoridad financiera perteneciente a los Países Elegibles para Inversiones que señale el Comité de inversiones;
+I. Adquirir Activos Objeto de Inversión emitidos, aceptados o avalados por Entidades Financieras o casas de bolsa, que se encuentren sujetas a intervención administrativa o gerencial que haya sido declarada por la autoridad supervisora competente del sistema financiero o actos equivalentes ordenados en su caso, por alguna autoridad financiera perteneciente a los Países Elegibles para Inversiones que señale el Comité de Inversiones;
 
-II. Adquirir Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, aceptados o avalados por Entidades Financieras o casas de bolsa con las que tengan Nexos Patrimoniales, así como invertir en Fondos Mutuos administrados por Entidades Financieras con las que tengan Nexos Patrimoniales;
+II. Adquirir Instrumentos de Deuda, Valores Extranjeros de Deuda y FIBRAS emitidos, aceptados o avalados por Entidades Financieras o casas de bolsa con las que tengan nexos patrimoniales, así como invertir en Fondos Mutuos administrados por Entidades Financieras con las que tengan nexos patrimoniales;
 
 III. Adquirir Instrumentos de Deuda y Valores Extranjeros de Deuda subordinados, salvo que se trate de las obligaciones subordinadas a que se hace referencia en los incisos c) y d), de las definiciones de Instrumentos de Deuda;
 
-IV. Adquirir Instrumentos y Valores Extranjeros que otorguen a sus tenedores derechos o rendimientos referidos, directa o indirectamente, a acciones individuales, a un conjunto de acciones, a variaciones en el precio de mercancías, activos, o instrumentos, que no se encuentren autorizados dentro del régimen de inversión del Instituto;
+IV. Adquirir acciones, así como, Instrumentos de Deuda y Valores Extranjeros de Deuda, convertibles en acciones, salvo que se trate, de las acciones u obligaciones convertibles en acciones a que se hace referencia en las fracciones XXX, inciso b) y XXXII, incisos a), b) y c) del artículo Segundo del Presente Reglamento o de los Valores Extranjeros de Renta Variable que se adquieran a través de Mandatarios;
 
-V. Realizar depósitos bancarios y celebrar operaciones de reporto, préstamo de valores, y Derivados con Entidades Financieras o casas de bolsa con las que tengan Nexos Patrimoniales; y
+V. Adquirir Instrumentos y Valores Extranjeros que otorguen a sus tenedores derechos o rendimientos referidos, directa o indirectamente, a acciones individuales, a un conjunto de acciones, a variaciones en el precio de mercancías, activos, o instrumentos, que no se encuentren autorizados dentro del régimen de inversión del Instituto;
 
-VI. Adquirir Instrumentos de deuda pública del Estado de Aguascalientes.
+VI. Realizar depósitos bancarios y celebrar operaciones de reporto, préstamo de valores, y Derivados con Entidades Financieras o casas de bolsa con las que tengan nexos patrimoniales;
+
+VII. Adquirir Instrumentos de deuda pública del Estado de Aguascalientes;
+
+VIII. Adquirir Valores Extranjeros de Renta Variable, distintos a los Componentes de Renta Variable. Para tal efecto, no se entenderán prohibidos los Valores Extranjeros de Renta Variable que se adquieran a través de Mandatarios; y
+
+IX. Adquirir FIBRAS en las que los bienes inmuebles que formen parte del patrimonio fideicomitido hayan sido aportados por Empresas Privadas, instituciones financieras o casas de bolsa, con las que tengan nexos patrimoniales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -638,7 +800,7 @@ Se abroga el Reglamento para la Administración de Recursos Financieros e Invers
 
 ATENTAMENTE.
 
-EL DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALIENTES, Ing. Oscar Armando González Muñoz.
+EL DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES, Ing. Oscar Armando González Muñoz.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -647,3 +809,9 @@ P.O. 17 DE FEBRERO DE 2014.
 PRIMERO.- Las presentes reformas entrarán en vigencia a los 120 días naturales siguientes al día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación de las presentes reformas, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá designar a los miembros de los Comités de Inversiones y de Riesgos del Instituto.
+
+P.O. 24 DE FEBRERO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de las presentes reformas, el Instituto tendrá un plazo de 360 días naturales para ajustar sus posiciones de valores en exceso a límites establecidos en las presentes disposiciones.
