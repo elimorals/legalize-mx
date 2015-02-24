@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-prestaciones-economicas-del-instituto-de-25185"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-10"
-last_updated: "2002-06-10"
+last_updated: "2015-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE PRESTACIONES ECONOMICAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE PRESTACIONES ECONOMICAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DE PRESTACIONES ECONÓMICAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2002.
 
@@ -470,6 +470,12 @@ El Instituto notificará al aval o avales del servidor público que se retire de
 
 Cuando la obligación de pago se extinga por prescripción, el Instituto declarará cancelado el adeudo así como los intereses pactados y los que se hayan generado después del vencimiento del crédito.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2015)</small>
+
+###### Artículo 61 Bis.
+
+Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual igual al Costo Porcentual Promedio vigente, fijada por el Banco de México en la fecha en que se incurra en mora, sumando los puntos base adicionales que la Junta Directiva autorice cada año, multiplicando la tasa que resulte por uno punto cinco.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -517,3 +523,11 @@ Lic. Abelardo Reyes Sahagún.
 EL DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
 L.A. y E.C.F. Fernando Carrillo López.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de las presentes reformas, el Instituto tendrá un plazo de 360 días naturales para ajustar sus posiciones de valores en exceso a límites establecidos en las presentes disposiciones.
