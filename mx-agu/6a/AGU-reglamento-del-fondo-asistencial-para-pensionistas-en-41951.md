@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-fondo-asistencial-para-pensionistas-en-41951"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-06"
-last_updated: "2014-02-17"
+last_updated: "2015-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL FONDO ASISTENCIAL PARA PENSIONISTAS EN SITUACIÓN EXTRAORDINARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de diciembre de 2004.
 
@@ -161,7 +161,7 @@ V. Coadyuvar a los planes, programas y demás acciones de Gobierno que inciden e
 
 VI. Brindar a los pensionistas amplias posibilidades de desarrollo personal.
 
-VII. Dignificar y elevar la autoestima de los pensionistas.
+VII. (DEROGADA, P.O. 24 DE FEBRERO DE 2015)
 
 ### CAPITULO II. De la Integración del Programa Asistencial para Pensionistas en Situación Extraordinaria
 
@@ -356,3 +356,9 @@ P.O. 17 DE FEBRERO DE 2014.
 PRIMERO.- Las presentes reformas entrarán en vigencia a los 120 días naturales siguientes al día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación de las presentes reformas, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá designar a los miembros de los Comités de Inversiones y de Riesgos del Instituto.
+
+P.O. 24 DE FEBRERO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de las presentes reformas, el Instituto tendrá un plazo de 360 días naturales para ajustar sus posiciones de valores en exceso a límites establecidos en las presentes disposiciones.
