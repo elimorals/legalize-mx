@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-becas-estimulos-educativos-y-apoyos-financieros-del-7395
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2013-03-23"
+last_updated: "2015-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de febrero de 2010.
 
@@ -289,7 +289,7 @@ La Comisión Estatal se integra por:
 
 I. Una o un Coordinador Estatal, que será la o el Secretario de Educación;
 
-II. Una o un Secretario, que será la o el Subsecretario de Planeación y Apoyos a la Educación, y (sic)
+II. Una o un Secretario, que será la o el Subsecretario de Planeación y Apoyos a la Educación, y
 
 III. Una o un Coordinador Ejecutivo, que será la o el titular de la Dirección;
 
@@ -307,7 +307,7 @@ e) Coordinador de Educación Media Superior y Superior;
 
 f) Dirección de Programación, Presupuestación y Control Educativo;
 
-g) Dirección de Participación y Programas Compensatorios, y (sic)
+g) Dirección de Participación y Programas Compensatorios, y
 
 h) Coordinación de Servicios Regionales.
 
@@ -319,7 +319,9 @@ j) Instituto del Deporte del Estado de Zacatecas;
 
 k) Instituto Zacatecano de Cultura;
 
-l) Instituto de la Juventud Zacatecana;
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+l) Subsecretaría de la Juventud;
 
 m) Consejo Nacional de Fomento Educativo;
 
@@ -381,7 +383,11 @@ XI. Dictaminar la asignación de becas por otorgar por las escuelas particulares
 
 XII. Vigilar la actuación de los comités municipales de becas, en estricto apego a lo estipulado en el (sic) presente Ley, y
 
-XIII. Las demás enunciadas en la presente Ley.
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XIII. Optimizar los apoyos económicos a entregar por concepto de becas, estímulos y apoyos financieros a través de la implementación de acciones y mecanismos que permitan una mayor amplitud en el número de beneficiarios evitando la duplicidad de apoyos; y
+
+XIV. Las demás enunciadas en la presente Ley.
 
 Atribuciones de la o el Coordinador de la Comisión Estatal de Becas
 
@@ -485,7 +491,15 @@ XII. Atender al público en general solicitante de becas y capacitar a los comit
 
 XIII. Aplicar las sanciones a que se refiere esta Ley, y
 
-XIV. Otras actividades encomendadas por la Secretaría, necesarias para mejorar la administración y funcionamiento del SIBEZ.
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XIV. La creación y seguimiento del SIBEZ estará a cargo de la Dirección de Becas y Apoyos Financieros;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XV. Concentrar la información de manera coordinada con dependencias del Gobierno del Estado, municipios y Delegaciones Federales sobre el ingreso de todo beneficiario en algún programa de beca, estímulo o apoyo financiero para de esta manera generar su alta en el SIBEZ; y
+
+XVI. Otras actividades encomendadas por la Secretaría, necesarias para mejorar la administración y funcionamiento del SIBEZ.
 
 Atribuciones de la o el Director
 
@@ -535,9 +549,11 @@ XIX. Las demás que le señale la presente Ley, su Reglamento, el Consejo y dem�
 
 Comités Municipales
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 26.
 
-Los comités municipales se integrarán, cuando menos, por dos regidoras o regidores siendo, preferentemente, los asignados a la Comisión de Educación y un representante de la unidad, comisión, departamento, o dirección de educación de la administración municipal.
+Los comités municipales se integrarán por el Titular de Desarrollo Social Municipal, dos regidoras o regidores preferentemente de la Comisión de Educación, el encargado regional de la Secretaría y un representante de la unidad, comisión, departamento, o dirección de educación de la administración municipal.
 
 Atribuciones
 
@@ -603,11 +619,15 @@ Las modalidades de becas, estímulos educativos y apoyos financieros disponibles
 
 I. Becas:
 
-a) Para las o los alumnos de escuelas públicas: Las orientadas a apoyar a las y los alumnos regulares inscritos en instituciones educativas oficiales que cuentan con un promedio sobresaliente y se encuentren en situación económica desfavorable;
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+a) Para las o los alumnos de escuelas públicas: Las orientadas a apoyar a las y los alumnos inscritos en instituciones educativas oficiales que cuentan con un promedio sobresaliente o que se encuentren en una situación económica desfavorable que les impida sobresalir en su educación.
 
 b) Para las y los alumnos de escuelas particulares: Las orientadas a apoyar a las y los alumnos regulares inscritos en instituciones educativas particulares que cuentan con un promedio sobresaliente, y
 
-c) Especiales: Las orientadas a apoyar a las y los alumnos con alguna discapacidad y aquellos que habitan en zonas rurales o urbanas marginadas y en condiciones de pobreza extrema o grupos indígenas.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+c) Especiales: Las orientadas a apoyar a las y los alumnos con alguna discapacidad, aquellos que habitan en zonas rurales o urbanas marginadas, en condiciones de pobreza extrema ó grupos indígenas o aquellos que no cuenten con el apoyo de sus padres ó tutores.
 
 II. Estímulos educativos:
 
@@ -667,7 +687,9 @@ Salvo el requerimiento específico de algún nuevo programa de becas o la especi
 
 I. Quienes cuenten con promedio sobresaliente, sin haber reprobado, salvo causa justificada, alguna asignatura en el ciclo anterior inmediato y necesidad económica;
 
-II. Quienes obtengan el primer lugar en rendimiento académico en su grupo;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+II. Quienes obtengan los tres primeros lugares en rendimiento académico en su grado;
 
 III. Quienes habiten en zonas rurales, urbano marginadas y en condiciones de pobreza extrema, pero con calificaciones aprobatorias;
 
@@ -682,6 +704,14 @@ VII. Quienes provengan de escuelas normativamente consolidadas, donde no exista 
 VIII. Mujeres embarazadas o madres solteras, con promedio sobresaliente, y
 
 IX. Personas que no se encuentren becadas por ningún organismo público o privado al momento de solicitar la beca.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+X. A las y los alumnos que no cuenten con el apoyo económico de sus padres o tutores, y
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XI. A las y los alumnos que estén plenamente rehabilitados después de una adicción o aquellos que estén en un proceso de reinserción social.
 
 ### CAPÍTULO III. OTORGAMIENTO DE BECAS
 
@@ -1015,9 +1045,11 @@ En el caso de las becas comisión, si después de efectuar la supervisión físi
 
 Porcentaje de becas
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 65.
 
-Las escuelas particulares incorporadas con autorización y reconocimiento de validez oficial de estudios, otorgarán un número de becas que no podrá ser menor al 5% de la inscripción total de las y los alumnos de cada ciclo escolar.
+Las escuelas particulares incorporadas con autorización y reconocimiento de validez oficial de estudios, otorgarán un número de becas que no podrá ser menor al 10% de la inscripción total de las y los alumnos de cada ciclo escolar.
 
 Comité de becas
 
@@ -1087,6 +1119,10 @@ IX. Alumna o alumno regular, y
 
 X. Refrendo o renovación.
 
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XI. Alumna o alumno con discapacidad.
+
 Contenido de los expedientes
 
 ###### ARTÍCULO 71.
@@ -1097,7 +1133,9 @@ I. Escrito del solicitante explicando los motivos por los que solicita la beca;
 
 II. Constancia de inscripción del ciclo escolar, para el cual solicita la beca;
 
-III. Comprobante de ingresos del padre, madre o tutor;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+III. Comprobante de ingresos del padre, madre, tutor o, en su caso, estudio socioeconómico expedido por la Secretaría o por la autoridad competente;
 
 IV. Boleta de calificaciones del ciclo anterior, donde aparezca su promedio, y
 
@@ -1252,3 +1290,21 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 25 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección de Becas y Apoyos Financieros contará con un plazo de 60 días para la puesta en marcha del SIBEZ.
+
+###### ARTÍCULO CUARTO.
+
+Las dependencias del Gobierno del Estado, los ayuntamientos y las organizaciones públicas en un lapso de 90 días deberán estar incorporadas al SIBEZ, debiendo hacer llegar a la Dirección de Becas y Apoyos Financieros, toda información solicitada con relación a políticas públicas y programas de becas, estímulos educativos y apoyos financieros a su cargo.
