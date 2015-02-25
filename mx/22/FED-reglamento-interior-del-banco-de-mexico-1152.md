@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2015-01-30"
+last_updated: "2015-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -719,17 +719,21 @@ V. Participar en la expedición de disposiciones, así como en la atención de a
 
 VI. Supervisar el cumplimiento de las disposiciones referidas en la fracción inmediata anterior. La facultad de supervisión comprenderá las de vigilancia e inspección y esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2015)</small>
 
-VII. Participar con la Dirección de Administración de Riesgos en el diseño de los criterios para medir y controlar los riesgos en que incurre el Banco en las operaciones de mercado que realice la institución referidas a la moneda nacional y en divisas frente a esta;
+VII. Participar con la Dirección de Administración de Riesgos en el diseño de los criterios para medir y controlar los riesgos en que incurre el Banco en las operaciones de mercado que este realice, referidas a la moneda nacional y en divisas frente a esta;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2015)</small>
 
-VIII. Participar en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero, y
+VIII. Participar en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero;
 
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 25 DE FEBRERO DE 2015)</small>
 
-IX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
+IX. Dar seguimiento y evaluar el efecto que tienen en los mercados financieros, las acciones que tome el Banco para instrumentar la política monetaria, la cambiaria y las disposiciones que emite para regular el sistema financiero, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2015)</small>
+
+X. Vigilar la actividad en los mercados financieros nacionales, para identificar estrategias en la participación en dichos mercados que pudieren afectar su sano comportamiento.
 
 Los trabajadores del Banco adscritos a la Dirección de Operaciones Nacionales, que cuenten con instrucciones escritas del titular de la Dirección citada, en ejercicio de las funciones que correspondan a la Unidad Administrativa de que dependan, podrán celebrar, en forma individual o mancomunada, las operaciones previstas en la fracción I del presente artículo, realizándolas por escrito, vía telefónica, por medios electrónicos, ópticos o por cualquier otra tecnología, o por signos inequívocos.
 
@@ -763,9 +767,9 @@ XI. Participar en la expedición de disposiciones relacionadas con las atribucio
 
 XII. Supervisar el cumplimiento de las disposiciones referidas en la fracción inmediata anterior. La facultad de supervisión comprenderá las de vigilancia e inspección y esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión;
 
-XIII. Dar seguimiento y evaluar el efecto que tienen en los mercados financieros, las acciones que tome el Banco para instrumentar la política monetaria, la cambiaria y las disposiciones que emite para regular el sistema financiero;
+XIII. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2015)
 
-XIV. Vigilar la actividad en los mercados financieros nacionales, para identificar estrategias en la participación en dichos mercados que pudieren afectar su sano comportamiento;
+XIV. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2015)
 
 XV. Dar seguimiento al cumplimiento de las disposiciones que emita el Banco conforme al artículo 34 de su Ley;
 
@@ -2234,3 +2238,9 @@ Los actos de verificación del cumplimiento de las disposiciones de la Ley del B
 TERCERO. Los recursos de reconsideración y revisión que se encuentren pendientes de resolución se tramitaran en los aspectos procesales conforme a las reglas contenidas en las presentes modificaciones y adiciones, una vez que hayan entrado en vigor.
 
 Las presentes modificaciones al Reglamento Interior del Banco de México, fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del dieciocho de diciembre de dos mil catorce.
+
+D.O.F. 25 DE FEBRERO DE 2015.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legal.
