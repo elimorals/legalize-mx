@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-instituto-electoral-y-de-participacion-74300"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-29"
-last_updated: "2009-04-29"
+last_updated: "2015-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO EN MATERIA DE DENUNCIAS Y QUEJAS
 
-REGLAMENTO DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO EN MATERIA DE DENUNCIAS Y QUEJAS
+REGLAMENTO DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO EN MATERIA DE DENUNCIAS Y QUEJAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE DENUNCIAS Y QUEJAS DEL CONSEJO ESTATAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, PUBLICADO EN EL SUPLEMENTO C DEL P.O. DE 25 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de abril de 2009.
 
@@ -1312,3 +1314,13 @@ DOY FE
 MTRO. ARMANDO XAVIER MALDONADO ACOSTA
 
 SECRETARIO EJECUTIVO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2015.
+
+Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Se abroga el Reglamento aprobado mediante acuerdo número CE/2009/023 de fecha 25 de abril del año de 2009.
+
+Tercero.- Los procedimientos iniciados bajo la vigencia del reglamento anterior deberán de continuar su tramitación y resolución conforme a las reglas de dicho ordenamiento, en lo que no se oponga al presente.
