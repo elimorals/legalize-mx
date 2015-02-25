@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-seguridad-publica-67104"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-11"
-last_updated: "2009-02-11"
+last_updated: "2015-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL PODER EJECUTIVO DEL ESTADO
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL PODER EJECUTIVO DEL ESTADO
+REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 25 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 11 de febrero de 2009.
 
@@ -752,3 +754,19 @@ LIC. JAVIER RUEDA VELÁZQUEZ
 SECRETARIO DE ADMINISTRACIÓN.
 
 LIC. JOSÉ ANTONIO ESTEFAN GARFIAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Secretaria de Seguridad Pública del Poder Ejecutivo del Estado, publicado en el Periódico Oficial del Gobierno del Estado el 11 de febrero de 2009.
+
+TERCERO. Las disposiciones del presente Reglamento Interno, prevalecerán sobre las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+CUARTO. La Oficialía Mayor realizará la transferencia de personal, asuntos, expedientes y recursos materiales, entre las áreas administrativas de la Secretaria, derivados de la entrada en vigor del presente Reglamento Interno, dentro de los sesenta días hábiles siguientes a su publicación.
+
+QUINTO. La emisión de manuales y demás normatividad requerida para el funcionamiento de la Secretaría de Seguridad Pública, deberá realizarse dentro de los ciento veinte días hábiles siguientes a la entrada en vigor del presente Reglamento Interno.
+
+SEXTO. Los expedientes o asuntos pendientes de resolución a la entrada en vigor de este Reglamento, continuarán siendo tramitados hasta su total conclusión por las áreas administrativas a las que hayan sido turnados o, en su defecto, a aquellas a las cuales se les haya conferido la atribución correspondiente.
