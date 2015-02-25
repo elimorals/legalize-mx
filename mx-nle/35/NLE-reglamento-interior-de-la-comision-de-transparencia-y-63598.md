@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-comision-de-transparencia-y-63598"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-20"
-last_updated: "2014-03-26"
+last_updated: "2015-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 20 de agosto de 2008.
 
@@ -71,23 +73,35 @@ VI. Comisionado Supernumerario: Es quien suplirá temporalmente a cualquier Comi
 
 VII. Pleno: El órgano máximo de dirección de la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León, integrado por los 3 Comisionados Propietarios nombrados de conformidad con la Ley.
 
-VIII. Secretario de Actas del Pleno: Es el Comisionado Supernumerario quien funge con tal carácter en el desarrollo de las sesiones ordinarias y extraordinarias de la Comisión, el cual a su vez es auxiliado por la Secretaría Ejecutiva.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+VIII. Secretario de Actas del Pleno: Es el Secretario Ejecutivo quien funge con tal carácter en el desarrollo de las sesiones ordinarias y extraordinarias de la Comisión, el cual a su vez es auxiliado por el Director de Asuntos Jurídicos;
 
 IX. Presidente: El Comisionado Presidente, nombrado de acuerdo con la Ley.
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-X. Secretarías: La Secretaría Ejecutiva y la Secretaría Técnica.
+X. Dirección General: La Dirección General de la Comisión.
 
-XI. Direcciones: Las Direcciones de la Comisión.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+XI. Tesorero: El Tesorero de la Comisión.
 
-XII. Subdirecciones: Las Subdirecciones de la Comisión.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+XII. Secretarías: La Secretaría Ejecutiva y la Secretaría Técnica.
 
-XIII. Jefaturas: Los Jefes de Unidad.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XIII. Direcciones: Las Direcciones de la Comisión.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XIV. Subdirecciones: Las Subdirecciones de la Comisión.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+XV. Jefaturas: Los Jefes de Unidad.
 
 ###### Artículo 4.
 
@@ -113,35 +127,35 @@ II. Comisionados;
 
 III. Comisionado Presidente;
 
-IV. Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2011)</small>
+IV. Dirección General;
 
-V. Secretaría Técnica;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-VI. Direcciones de:
+V. Tesorero;
 
-a) Administración;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-b) Asuntos Jurídicos;
+VI. Secretaría Ejecutiva;
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-c) Capacitación;
+VII. Secretaría Técnica;
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-d) Protección de Datos y Archivo;
+VIII. Direcciones de:
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+a) Asuntos Jurídicos;
 
-e) Desarrollo, Estudios e Investigación.
+b) Capacitación;
 
-f) (DEROGADO, P.O. 26 DE MARZO DE 2014)
+c) Protección de Datos y Archivo;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-VII. Subdirecciones de:
+IX. Subdirecciones de:
 
 a) Vigilancia de Sujetos Obligados;
 
@@ -149,21 +163,9 @@ b) Atención a la Sociedad;
 
 c) Acuerdos y Proyectos;
 
-d) Protección de Datos Personales;
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-e) Archivo;
-
-f) (DEROGADO, P.O. 26 DE MARZO DE 2014)
-
-g) (DEROGADO, P.O. 26 DE MARZO DE 2014)
-
-h) (DEROGADO, P.O. 26 DE MARZO DE 2014)
-
-i) (DEROGADO, P.O. 26 DE MARZO DE 2014)
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-VIII. Como unidades de apoyo adscritas directamente a la Secretaría Ejecutiva:
+X. Como unidades de apoyo adscritas directamente a la Secretaría Ejecutiva:
 
 a) Informática y Sistemas;
 
@@ -171,11 +173,11 @@ b) Comunicación Social;
 
 c) Difusión;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+d) Administración.
 
-IX. Las demás unidades y personal técnico y administrativo que autorice el Pleno
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-X. (DEROGADA, P.O. 26 DE MARZO DE 2014)
+XI. Las demás unidades y personal técnico y administrativo que autorice el Pleno.
 
 ### CAPÍTULO TERCERO. DEL PLENO DE LA COMISIÓN
 
@@ -213,9 +215,9 @@ I. Ejercer las atribuciones que a la Comisión le otorgan la Ley, así como las 
 
 II. Aprobar las modificaciones que procedan a este Reglamento, así como a las demás normas, manuales, acuerdos, políticas, lineamientos e instructivos que rijan la operación, administración y funcionamiento de la Comisión;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-III. Aprobar la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y en general todo tipo de contratos o convenios que conlleven al fortalecimiento funcional de la Comisión;
+III. Aprobar la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y en general todo tipo de contratos o convenios que conlleven al fortalecimiento funcional de la Comisión;
 
 IV. Aprobar la política de comunicación social de la Comisión;
 
@@ -241,17 +243,17 @@ c) Por faltas graves a las normas que rigen el funcionamiento de la Comisión;
 
 En todos los casos las propuestas de remoción deberán estar debidamente fundadas y motivadas. Se turnarán al Pleno de la Comisión, quien resolverá lo conducente previa audiencia en la que el interesado haga valer sus defensas y derechos;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XI. Aprobar el nombramiento de las Secretarías y las Direcciones, de conformidad con el artículo 34, fracción V, de este Reglamento;
+XI. Aprobar el nombramiento de la Dirección General, del Tesorero, de las Secretarías y las Direcciones, de conformidad con el artículo 34 fracción V, de este Reglamento;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XII. Aprobar la remoción de las Secretarías y las Direcciones de conformidad con el artículo 39, fracción V, de este Reglamento;
+XII. Aprobar la remoción de la Dirección General, del Tesorero, de las Secretarías y las Direcciones, de conformidad con el artículo 39 fracción V, de este Reglamento;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XIII. Conceder licencias a los Comisionados, así como a las Secretarías y las Direcciones, cuando exista causa justificada y siempre que no se perjudique el buen funcionamiento de la Comisión;
+XIII. Conceder licencias a los Comisionados, así como a la Dirección General, al Tesorero, a las Secretarías y a las Direcciones, cuando exista causa justificada y siempre que no se perjudique el buen funcionamiento de la Comisión;
 
 XIV. Autorizar la participación de sus integrantes en los eventos a los que sea invitada la Comisión;
 
@@ -261,9 +263,9 @@ XVI. Aprobar la interposición de las denuncias que correspondan ante los órgan
 
 XVII. Conocer de la integración y el funcionamiento de los órganos y unidades administrativas de la Comisión mediante los informes que éstos les rindan sobre su desempeño;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XVIII. Conocer del avance de los programas que periódicamente presenten sus integrantes, las Secretarías, las Direcciones y las unidades administrativas;
+XVIII. Conocer del avance de los programas que periódicamente presenten la Dirección General, el Tesorero, las Secretarías, las Direcciones y las unidades administrativas;
 
 XIX. Aprobar la creación de comisiones, comités de apoyo y grupos de trabajo;
 
@@ -327,13 +329,13 @@ Hasta antes de la aprobación del orden del día de las sesiones ordinarias, los
 
 Cuando se trate de aprobar cuestiones relativas al presupuesto de la Comisión o el envío del informe trimestral correspondiente, los documentos deberán circularse entre los Comisionados Propietarios cuando menos cinco días hábiles antes de la sesión ordinaria, y tres días hábiles cuando se trate de sesión extraordinaria, con el fin de que se realicen los estudios respectivos y las observaciones pertinentes.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 15.
 
-Las sesiones ordinarias tanto como extraordinarias serán públicas, y serán presididas por el Comisionado Presidente fungiendo como Secretario de Actas el Comisionado Supernumerario, auxiliado por la Secretaría Ejecutiva.
+Las sesiones ordinarias tanto como extraordinarias serán públicas, y serán presididas por el Comisionado Presidente fungiendo como Secretario de Actas el Secretario Ejecutivo, auxiliado por el Director de Asuntos Jurídicos.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
-
-En caso de ausencia temporal del Comisionado Supernumerario a alguna sesión ordinaria como extraordinaria o cuando cubra alguna ausencia temporal de un Comisionado Propietario, el Secretario Ejecutivo fungirá como Secretario de Actas solamente para el desarrollo de la sesión de que se trate. En caso de encontrarse ausente el Secretario Ejecutivo el titular de la Dirección de Asuntos Jurídicos fungirá como Secretario de Actas.
+En caso de ausencia del Secretario Ejecutivo a alguna sesión ordinaria como extraordinaria, el Director de Asuntos Jurídicos fungirá como Secretario de Actas solamente para el desarrollo de la sesión de que se trate.
 
 ###### Artículo 16.
 
@@ -483,6 +485,10 @@ II. Mayoría: Aquélla que implique 2 votos de los Comisionados Propietarios en 
 
 La votación se tomará por el Secretario de Actas del Pleno contando el número de votos a favor y, en su caso, el o los votos disidentes, particulares, en abstención o las opiniones si fuere el caso. El sentido de la votación quedará asentado en el acta.
 
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+Cuando existan votos disidentes, particulares o en abstención, el Comisionado de que se trate, deberá expresar en la sesión correspondiente, las razones y motivos de su voto.
+
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 32.
@@ -507,13 +513,13 @@ II. Difundir por los medios a su alcance, entre la sociedad y los organismos pú
 
 III. Llevar a cabo actividades de docencia e investigación en los términos de la Ley, siempre y cuando no obstaculicen el cumplimiento de sus funciones y las tareas encomendadas por el Pleno;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-IV. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y en general todo tipo de contratos o convenios que conlleven al fortalecimiento funcional de la Comisión;
+IV. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y en general todo tipo de contratos o convenios que conlleven al fortalecimiento funcional de la Comisión;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-V. Proponer candidatos para ocupar las Secretarías, Direcciones, Subdirecciones y demás personal de apoyo de la Comisión, de conformidad con los procesos de selección aprobados por el Pleno;
+V. Proponer candidatos para ocupar la Dirección General, la Tesorería, las Secretarías Direcciones, Subdirecciones y demás personal de apoyo de la Comisión, de conformidad con los procesos de selección aprobados por el Pleno;
 
 VI. Brindar asesoría, capacitación y apoyo técnico, por sí o por conducto del personal de la Comisión, a los sujetos obligados, para que cumplan con las disposiciones de la Ley y demás normatividad que les sea aplicable;
 
@@ -551,21 +557,29 @@ XXI. Previa determinación del Pleno, suplir al Comisionado Presidente en sus au
 
 XXII. Las demás que le señalen la Ley, este Reglamento y otras disposiciones legales y administrativas que le sean aplicables.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 34 Bis.
 
-Los Comisionados Propietarios, el Comisionado Supernumerario, los Secretarios y Directores, tendrán la obligación de asistir cuando se les convoque a reuniones de trabajo, eventos oficiales y sesiones del Pleno de la Comisión, con puntualidad y permanecerán en ellas hasta su conclusión y guardarán el decoro propio.
-
-Cuando alguno de ellos no asista a las reuniones de trabajo, a eventos oficiales o a las sesiones del Pleno de la Comisión, le será descontado el equivalente a su percepción diaria bruta, con excepción de los casos a que se refiere el artículo 34 Bis I del presente Reglamento.
-
-En los casos de inasistencias, retrasos o ausencias a las reuniones de trabajo, eventos oficiales o sesiones del Pleno, el Presidente de la Comisión lo hará del conocimiento de la Dirección de Administración al día siguiente, para los efectos legales y administrativos a que haya lugar.
-
-Con los descuentos a que se refiere el presente artículo, se constituirá un fondo que se aplicará para apoyos al personal de la Comisión.
+Los Comisionados Propietarios, el Comisionado Supernumerario, el Director General, el Tesorero, los Secretarios y Directores, tendrán la obligación de asistir cuando se les convoque a reuniones de trabajo, eventos oficiales y sesiones del Pleno de la Comisión, con puntualidad y permanecerán en ellas hasta su conclusión y guardarán el decoro propio.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
 
-Artículo 34 Bis I.- Cuando un Comisionado Propietario, el Comisionado Supernumerario, los Secretarios o Directores, no pudieren asistir a una reunión de trabajo, evento oficial o sesiones del Pleno, deberán comunicarlo por escrito a la Presidencia, cuando menos con 24 horas de anticipación; asimismo, cuando asistan con retraso o no continúen en el evento respectivo lo deberán hacer del conocimiento de la Presidencia.
+Cuando alguno de ellos no asista a las reuniones de trabajo, a eventos oficiales o a las sesiones del Pleno de la Comisión, le será descontado el equivalente a su percepción diaria bruta, con excepción de los casos a que se refiere el artículo 34 Bis I del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+En los casos de inasistencias, retrasos o ausencias a las reuniones de trabajo, eventos oficiales o sesiones del Pleno, el Presidente de la Comisión lo hará del conocimiento de la Dirección de Administración, para los efectos legales y administrativos a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+
+Con los descuentos a que se refiere el presente artículo, se constituirá un fondo que se aplicará para apoyos al personal de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+Artículo 34 Bis I.- Cuando un Comisionado Propietario, el Comisionado Supernumerario, el Director General, el Tesorero, los Secretarios o Directores, no pudieren asistir a una reunión de trabajo, evento oficial o sesiones del Pleno, deberán comunicarlo por escrito a la Presidencia, cuando menos con 24 horas de anticipación; asimismo, cuando asistan con retraso o no continúen en el evento respectivo lo deberán hacer del conocimiento de la Presidencia.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
 
 Para los efectos de este artículo, se considerará que existe justificación, para no asistir, asistir con retraso o no continuar en las reuniones de trabajo, eventos oficiales o sesiones del Pleno, en los casos siguientes:
 
@@ -579,29 +593,39 @@ IV.- Por el nacimiento de un hijo o nieto; y
 
 V.- Por el fallecimiento de algún miembro de la familia consanguínea, hasta en cuarto grado.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+
 Por ningún motivo se podrán justificar las inasistencias, retrasos o ausencia cuando se trate de asuntos de carácter personal que no estén expresamente autorizados por la Presidencia de la Comisión, y en ninguna circunstancia será justificable bajo este concepto las actividades de docencia que obstaculicen el cumplimiento de sus funciones y las tareas encomendadas por el Pleno.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
 
 Los retrasos por más de quince minutos o el retiro de las reuniones de trabajo, eventos oficiales o sesiones del Pleno, se podrán justificar por causas graves o fortuitas, debidamente acreditadas.
 
-Los Comisionados Propietarios y el Comisionado Supernumerario, dispondrán de tres días hábiles, a partir del día siguiente en que se produzca la falta, retraso o retiro, para remitir el justificante correspondiente a la Presidencia, quien lo evaluará, a fin de determinar si está en los supuestos justificables de este artículo.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+Los Comisionados Propietarios, el Comisionado Supernumerario, el Director General, el Tesorero, las Secretarías y las Direcciones, dispondrán de tres días hábiles, a partir del día siguiente en que se produzca la falta, retraso o retiro, para remitir el justificante correspondiente a la Presidencia, quien lo evaluará, a fin de determinar si está en los supuestos justificables de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+Artículo 34 Bis II.- Cuando un Comisionado Propietario no pudiere asistir a una reunión de trabajo, evento oficial o sesiones del Pleno, deberá comunicarlo por escrito a la Presidencia, cuando menos con 24 horas de anticipación, para que esta vía oficio o por correo electrónico, llame al Comisionado Supernumerario para que lo supla en términos del artículo 92 de la Ley.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
-
-Artículo 34 Bis II.- Cuando un Comisionado Propietario no pudiere asistir a una reunión de trabajo, evento oficial o sesiones del Pleno, deberá comunicarlo por escrito a la Presidencia, cuando menos con 24 horas de anticipación, para que esta (sic) vía correo electrónico oficial, llame al Comisionado Supernumerario para que lo supla en términos del artículo 92 de la Ley.
 
 En los casos de conflicto de intereses que obligue a abstenerse a un Comisionado Propietario, o tenga algún impedimento legal de los descritos en la Ley, deberá comunicarlo a la Presidencia cuando menos con 48 horas de anticipación a la celebración de la sesión respectiva, para que a su vez sea llamado el Comisionado Supernumerario en la forma referida en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2015)</small>
 
-Artículo 34 Bis III.- Los Comisionados Propietarios, el Comisionado Supernumerario, los Secretarios y Directores, que acumulen tres faltas injustificadas en el lapso de un mes, serán sancionados con el equivalente a quince días de su percepción diaria bruta.
+Artículo 34 Bis III.- Los Comisionados Propietarios, el Comisionado Supernumerario, el Director General, el Tesorero, los Secretarios y Directores, que acumulen tres faltas injustificadas en el lapso de un mes, serán sancionados con el equivalente a quince días de su percepción diaria bruta.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
 
 Los descuentos a que se refiere el presente artículo, se destinarán al fondo para apoyos al personal de la Comisión.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 35.
 
-Los Comisionados serán auxiliados para el debido cumplimiento de sus funciones, de las Secretarías, Directores, Subdirectores, y demás personal de la Comisión.
+Los Comisionados serán auxiliados para el debido cumplimiento de sus funciones, de la Dirección General y de las Secretarías.
 
 ###### Artículo 36.
 
@@ -615,27 +639,33 @@ Los Comisionados gozarán de todas las prestaciones en materia de seguridad soci
 
 El Comisionado Presidente será elegido mediante votación del Pleno, requiriéndose en todo caso la asistencia de la mayoría de sus integrantes para su elección.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 38.
 
-El Comisionado Presidente ejercerá dicho cargo por un período de dos años, sin posibilidad de reelección; concluida su gestión o, en caso de renuncia o ausencia definitiva en la Presidencia o en la Comisión, se elegirá a quien lo sustituya a través del procedimiento referido en el artículo 93 de la Ley, y 37 de este Reglamento.
+El Comisionado Presidente ejercerá dicho cargo por un período de dos años, con posibilidad de ser reelecto por un periodo igual, de conformidad con lo dispuesto por el artículo 6 fracción V, párrafo octavo, de la Constitución Política del Estado Libre y Soberano de Nuevo León; concluida su gestión o, en caso de renuncia o ausencia definitiva en la Presidencia o en la Comisión, se elegirá a quien lo sustituya a través del procedimiento referido en el artículo respectivo de la Ley, y 37 de este Reglamento.
+
+En caso de que el periodo que le reste al Comisionado, sea menor de dos años, podrá ser elegido o reelecto como Presidente, el tiempo que le reste como Comisionado.
 
 ###### Artículo 39.
 
 Además de las facultades establecidas en el artículo 106 de la Ley, el Comisionado Presidente tendrá las atribuciones siguientes:
 
-I. Fungir como enlace entre la Comisión y los sujetos obligados de la ley, e informar al Pleno regularmente sobre el estado de los asuntos relacionados con éstos, así como también, con los organismos homólogos de las entidades federativas y el Instituto Federal de Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+I. Fungir como enlace entre la Comisión y los sujetos obligados de la ley, e informar al Pleno regularmente sobre el estado de los asuntos relacionados con éstos, así como también, con los organismos homólogos de las entidades federativas y el Instituto Federal de Acceso a la Información y Protección de Datos;
 
 II. Convocar a sesiones ordinarias y extraordinarias de la Comisión, en los términos del presente Reglamento, y presidir las mismas;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-III. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y en general todo tipo de contratos o convenios que conlleven al fortalecimiento funcional de la Comisión;
+III. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y en general todo tipo de contratos o convenios que conlleven al fortalecimiento funcional de la Comisión;
 
 IV. Turnar, a través de la Dirección de Asuntos Jurídicos, al Comisionado Ponente que corresponda, los procedimientos de inconformidad y otros previstos en la Ley;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-V. Proponer al Pleno el nombramiento y la remoción de las Secretarías, los Directores y Subdirectores, y demás personal de la Comisión; de conformidad con lo dispuesto en el Reglamento del Servicio Profesional de Carrera, que al respecto expida la Comisión;
+V. Proponer al Pleno el nombramiento y la remoción de la Dirección General, del Tesorero, las Secretarías, los Directores y Subdirectores, y demás personal de la Comisión; de conformidad con lo dispuesto en el Reglamento del Servicio Profesional de Carrera, que al respecto expida la Comisión;
 
 VI. Coordinar la elaboración y entrega del informe anual de la Comisión al H. Congreso del Estado bajo los lineamientos que establece la Ley;
 
@@ -659,9 +689,9 @@ XIII. Someter a la aprobación del Pleno el calendario anual de labores de la Co
 
 XIV. Ejecutar los acuerdos y resoluciones aprobados por el Pleno y proveer lo necesario para su debido cumplimiento, con el auxilio de las Secretarías y los Directores;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XV. Someter a la aprobación del Pleno las solicitudes de licencias temporales de los Comisionados, las Secretarías, los Directores, Subdirectores, Coordinadores y Jefes de Unidad de la Comisión, así como los respectivos acuerdos de suplencia y/o delegación de facultades;
+XV. Someter a la aprobación del Pleno las solicitudes de licencias temporales de los Comisionados, del Director General, del Tesorero, de las Secretarías, los Directores, Subdirectores, Coordinadores y Jefes de Unidad de la Comisión, así como los respectivos acuerdos de suplencia y/o delegación de facultades;
 
 XVI. Otorgar poderes para pleitos y cobranzas, representación legal y actos de administración.
 
@@ -683,23 +713,129 @@ XIX. Las demás que le señalen la Ley, este Reglamento y las demás disposicion
 
 El Presidente es el vocero oficial de la Comisión y es el responsable, con apoyo de la unidad de Comunicación Social, de coordinar y ejecutar las actividades de difusión y comunicación social, procurando mantener contacto permanente con los representantes de los medios de comunicación, a fin de garantizar la plena y oportuna información hacia la sociedad en general acerca de los programas y todas las actividades que desarrolle la Comisión.
 
-### CAPÍTULO SÉPTIMO. DE LA SECRETARÍA EJECUTIVA
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO OCTAVO. DE LAS DIRECCIONES Y DE LAS UNIDADES
+### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+Artículo 39 Bis I.- El Director General es el área administrativa de apoyo y supervisión en el despacho de los asuntos a cargo de la Comisión y de los acuerdos tomados por el Pleno, dependerá administrativamente de éste.
+
+Son atribuciones de la Dirección General:
+
+I. Cumplir y hacer cumplir los acuerdos del Pleno;
+
+II. Someter al conocimiento del Pleno, informes periódicos sobre los asuntos de su competencia;
+
+III. Coordinar, vigilar y supervisar a las Secretarías, y en su caso, a las unidades administrativas a su cargo, en el desempeño de sus atribuciones y responsabilidades establecidas en la Ley, en este Reglamento y demás leyes y disposiciones aplicables, conforme a los planes y políticas de la Comisión;
+
+IV. Representar a la Comisión en los asuntos que el Presidente o el Pleno determine;
+
+V. Revisar y en su caso proponer modificaciones a la estructura básica de la organización de la Comisión;
+
+VI. Tener a su cargo la supervisión, operación y control de la oficialía de partes, la cual llevará el libro correspondiente tanto para el registro progresivo de los documentos recepcionados, libro de amparos y demás que sean necesarios, así como vigilar que oportunamente sean turnados al área correspondiente;
+
+VII. Ejecutar e implementar las providencias necesarias para la atención de aquellos asuntos de la Comisión que, por su naturaleza o urgencia, así lo requieran. Cuando se trate de asuntos que correspondan a la competencia del Pleno, lo hará del conocimiento inmediato del Presidente para que lo instruya al respecto;
+
+VIII. Formular y presentar, a la aprobación del Pleno, modificaciones al Reglamento Interior de la Comisión, y demás disposiciones generales o particulares que considere necesarios para la buena administración del organismo, y encargarse de su publicación en el Periódico Oficial del Estado cuando proceda;
+
+IX. Aplicar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales de la Comisión;
+
+X. Proveer a los órganos de la Comisión, los elementos necesarios para el cumplimiento de sus funciones de acuerdo a la capacidad presupuestal del organismo;
+
+XI. Realizar en coordinación con el Tesorero, el proyecto del presupuesto anual de egresos de la Comisión, a fin de que el Comisionado Presidente, una vez que lo haya autorizado el Pleno, lo presente al titular del Ejecutivo del Estado, para que éste lo someta a la consideración y, en su caso, aprobación de la Legislatura del Estado;
+
+XII. Elaborar el proyecto anual de trabajo, para la aprobación del Pleno;
+
+XIII. Dar seguimiento a los avances del plan anual de trabajo, manteniendo sistemáticamente informados a los Comisionados, así como presentar al Pleno, por conducto del Presidente, los informes trimestrales de las unidades administrativas de sus respectivos programas de trabajo;
+
+XIV. Elaborar y someter a la consideración del Pleno a través del Presidente, las políticas para disponer de los activos fijos de la Comisión;
+
+XV. Presentar al Pleno a través del Presidente para su autorización, las solicitudes de licencia de los servidores públicos de la Comisión;
+
+XVI. Diseñar en coordinación con las Secretarías, los indicadores de gestión de la Comisión;
+
+XVII. Coordinar la elaboración del Informe Anual de Labores de la Comisión, que el Comisionado Presidente presentará al Pleno para su aprobación, y posterior presentación al H. Congreso del Estado;
+
+XVIII. Vigilar el adecuado tratamiento de los sistemas de datos personales de las unidades administrativas;
+
+XIX. Proponer al Pleno, a través del Presidente, estrategias para un mejor desempeño de las unidades administrativas de la Comisión, así como efectuar el seguimiento a los documentos, estudios, proyectos y asuntos encomendados;
+
+XX. Supervisar la actualización de la información de oficio por parte de las unidades administrativas, en términos de la Ley, así como autorizar los contenidos de la página principal del portal de Internet de la Comisión;
+
+XXI. Elaborar y proponer al Pleno a través del Presidente, el Proyecto de Código de Conducta de los Servidores Públicos de la Comisión, con el objeto de definir los principios éticos que deben regir el comportamiento de los servidores públicos adscritos a la Comisión y, en particular, sobre el deber de confidencialidad respecto del uso y manejo de la información que el personal de la Comisión conozca como resultado de su encargo; y,
+
+XXII. Las demás que le confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+Artículo 39 Bis II.- Son atribuciones del Tesorero:
+
+I. Elaborar el proyecto de presupuesto anual de egresos de la Comisión, de acuerdo con los programas y objetivos de cada una de las unidades de trabajo, y realizar, en su caso, las negociaciones correspondientes con las autoridades respectivas, con el fin de contar con los recursos requeridos de manera suficiente y oportuna;
+
+II. Administrar los recursos financieros de la Comisión, a través de la programación y control presupuestal, asegurando el adecuado flujo de recursos, su registro, control contable y cumplimiento normativo;
+
+III. Elaborar las normas o bases para disponer de los activos fijos de la Comisión y turnarlas al Pleno para su aprobación a través del Presidente;
+
+IV. Elaborar los informes administrativos, presupuestales y financieros, que se reportan ante otras autoridades;
+
+V. Elaborar propuestas para la fijación de los sueldos y prestaciones de los servidores públicos de la Comisión, así como el proyecto de Tabulador de Sueldos, y someterlos a través del Presidente, a la aprobación del Pleno;
+
+VI. Ser el responsable de realizar los pagos y el registro de los recursos ejercidos, así como efectuar las retenciones y pagos ante el INFONAVIT, IMSS, SHCP, y demás cargos fiscales de otra índole;
+
+VII. Llevar la contabilidad general y el control presupuestal, en coordinación con el Presidente;
+
+VIII. Elaborar y proponer al Pleno a través del Presidente, los proyectos, programas, políticas, estrategias y lineamientos en materia de fiscalización, vigilancia, control y seguimiento de la aplicación de los recursos financieros asignados a la Comisión, y ejecutarlos una vez aprobados;
+
+IX. Administrar la nómina de sueldos, salarios y otras remuneraciones del personal de la Comisión;
+
+X. Acordar con el Director General la resolución de los asuntos administrativos de su competencia;
+
+XI. Proponer al Director General los programas de administración para la mejor optimización de los recursos;
+
+XII. Realizar en coordinación con el Director General, el proyecto del presupuesto anual de egresos de la Comisión, a fin de que el Comisionado Presidente, una vez que lo haya autorizado el Pleno, lo presente al titular del Ejecutivo del Estado, para que éste lo someta a la consideración y, en su caso, aprobación de la Legislatura del Estado;
+
+XIII. Informar periódicamente al Director General o a solicitud de éste, de la disponibilidad en el presupuesto para el seguimiento de los proyectos;
+
+XIV. Dar seguimiento a los avances en la atención de los requerimientos que se deriven de las auditorías practicadas a la Comisión, por cualquier instancia;
+
+XV. Participar y cooperar con las auditorías que se practiquen, así como supervisar y vigilar el desarrollo de los trabajos de los auditores externos que sean contratados por la Comisión;
+
+XVI. Cumplir con las obligaciones fiscales de la Comisión;
+
+XVII. Elaborar los avances financieros, así como la cuenta pública que determinen las leyes en materia fiscal y hacendaria que le sean aplicables a la Comisión;
+
+XVIII. Revisar los estados financieros dictaminados;
+
+XIX. Responsabilizarse del adecuado manejo de los sistemas de datos personales bajo su custodia; y
+
+XX. Las demás que le confieran la Ley, este Reglamento y las demás disposiciones legales y administrativas que le sean aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO OCTAVO. DE LAS SECRETARÍAS
 
 ###### Artículo 40.
 
 Son atribuciones de la Secretaría Ejecutiva:
 
-I. Acordar con el Comisionado Supernumerario en su carácter de Secretario de Actas lo conducente para la celebración de las sesiones ordinarias y extraordinarias del Pleno;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+I. Acordar con el Presidente en su carácter (sic) lo conducente para la celebración de las sesiones ordinarias y extraordinarias del Pleno;
 
 II. Cuidar que los documentos y anexos necesarios que serán tratados en las sesiones, sean circulados con la anticipación debida entre los Comisionados para su estudio y discusión;
 
-III. Auxiliar al Comisionado Supernumerario en su carácter de Secretario de Actas a elaborar un informe sobre el cumplimiento de los acuerdos y resolutivos tomados por el Pleno, así como tramitar lo necesario para la ejecución de éstos;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-IV. Representar a la Comisión en los asuntos que el Pleno determine;
+III. Cuando así se requiera, elaborar un informe sobre el cumplimiento de los acuerdos y resolutivos tomados por el Pleno, así como tramitar lo necesario para la ejecución de éstos;
 
-V. Elaborar los proyectos de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley, en coordinación con la Dirección de Asuntos Jurídicos y darles seguimiento;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+IV. Representar a la Comisión en los asuntos que el Presidente o el Pleno determine;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+V. Elaborar los proyectos de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley, en coordinación con la Dirección de Asuntos Jurídicos y darles seguimiento;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
@@ -709,7 +845,9 @@ VII. Expedir certificaciones y constancias de la documentación que obre en pode
 
 VIII. Auxiliar al Presidente en la ejecución de las resoluciones y acuerdos del Pleno, proveyendo lo necesario para su debida publicación y notificación;
 
-IX. Auxiliar al Presidente y a los Comisionados en la elaboración e integración del Informe Anual de la Comisión para entregarlo al H. Congreso del Estado, así como en los demás informes que deban rendir al Pleno;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
+
+IX. Elaborar e integrar el informe anual de actividades de la Comisión para entregarlo al H. Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
@@ -721,35 +859,37 @@ XI. Velar por la seguridad de las instalaciones, personal, patrimonio y resguard
 
 XII. Procurar que se elaboren los manuales de organización, de procedimientos y demás normatividad interna que sea necesaria para el buen desempeño de las atribuciones de la Comisión, y someterlos a la aprobación del Pleno, previa consulta con los Comisionados y el Comisionado Presidente;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XIII. Elaborar y proponer proyectos de reformas al Reglamento Interior y demás normas de operación y administración de la Comisión, y encargarse de su publicación en el Periódico Oficial del Estado cuando proceda;
+XIII. Informar a los Comisionados a través del Comisionado Presidente, sobre la integración y funcionamientos (sic) de las Direcciones y unidades administrativas adscritas a la Secretaría, mediante los informes sobre el desempeño de las mismas;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XIV. Informar a los Comisionados a través del Comisionado Presidente, sobre la integración y funcionamientos de las Direcciones y unidades administrativas adscritas a la Secretaría, mediante los informes sobre el desempeño de las mismas;
+XIV. Recabar la información y elementos estadísticos que reflejen el estado de las funciones de la Comisión en coordinación con las Direcciones;
 
-XV. Revisar y en su caso proponer modificaciones a la estructura básica de la organización de la Comisión;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-XVI. Recabar la información y elementos estadísticos que reflejen el estado de las funciones de la Comisión en coordinación con las Direcciones;
+XV. Tener a su cargo la supervisión, operación y control de la oficialía de partes, la cual llevará el libro correspondiente tanto para el registro progresivo de los documentos recepcionados, libro de amparos y demás que sean necesarios, así como vigilar que oportunamente sean turnados al área correspondiente;
 
-XVII. Tener a su cargo la supervisión, operación y control de la oficialía de partes, la cual llevará el libro correspondiente tanto para el registro progresivo de los documentos recepcionados, libro de amparos y demás que sean necesarios, así como vigilar que oportunamente sean turnados al área correspondiente;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+XVI. Por instrucciones del Pleno, llevar a cabo los procedimientos administrativos respecto de las faltas, infracciones u omisiones de responsabilidades cometidas por los servidores públicos de la Comisión, en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León;
 
-XVIII. Por instrucciones del Pleno, llevar a cabo los procedimientos administrativos respecto de las faltas, infracciones u omisiones de responsabilidades cometidas por los servidores públicos de la Comisión, en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+XVII. Elaborar y mantener actualizado el directorio oficial de los sujetos obligados, incluyendo los responsables de las Unidades de información y Transparencia de cada uno de ellos, en su caso;
 
-XIX. Elaborar y mantener actualizado el directorio oficial de los sujetos obligados, incluyendo los responsables de las Unidades de información y Transparencia de cada uno de ellos, en su caso;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+XVIII. Elaborar y mantener actualizado un directorio de los organismos públicos en materia de transparencia y acceso a la información pública, que contenga el contacto de su Presidente y demás consejeros o comisionados, tanto federales como estatales; así como de los organismos no gubernamentales y asociaciones civiles del Estado, instituciones académicas públicas y privadas, de educación media, media superior y superior; y
 
-XX. Elaborar y mantener actualizado un directorio de los organismos públicos en materia de transparencia y acceso a la información pública, que contenga el contacto de su Presidente y demás consejeros o comisionados, tanto federales como estatales; así como de los organismos no gubernamentales y asociaciones civiles del Estado, instituciones académicas públicas y privadas, de educación media, media superior y superior; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+XIX. Las demás que le confieran el Pleno, la Ley, este reglamento y demás disposiciones legales y administrativas aplicables.
 
-XXI. Las demás que le confieran el Pleno, la Ley, este reglamento y demás disposiciones legales y administrativas aplicables.
+XX. (DEROGADA, P.O. 25 DE FEBRERO DE 2015)
+
+XXI. (DEROGADA, P.O. 25 DE FEBRERO DE 2015)
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
@@ -759,9 +899,9 @@ Son atribuciones de la Secretaría Técnica:
 
 I. Representar a la Comisión en los asuntos que el Presidente o el Pleno determine;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-II. En coordinación con la Secretaría Ejecutiva, proponer los respectivos proyectos de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, Distrito Federal, el Instituto Federal de Acceso a la Información, los respectivos órganos de acceso a la información del país, organismos públicos o privados, instituciones de educación de todos los niveles públicos o privados, así como con institutos de investigación, tanto nacionales como extranjeros, a fin de generar mayor conocimiento y obtener mejores prácticas en materia de protección de datos personales, desarrollo, estudios e investigación;
+II. En coordinación con la Secretaría Ejecutiva, proponer los respectivos proyectos de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, los respectivos órganos de acceso a la información del país, organismos públicos o privados, instituciones de educación de todos los niveles públicos o privados, así como con institutos de investigación, tanto nacionales como extranjeros, a fin de generar mayor conocimiento y obtener mejores prácticas en materia de protección de datos personales, desarrollo, estudios e investigación;
 
 III. Coordinar y vigilar las Direcciones y demás personal técnico y administrativo asignados a su área, en el desempeño de sus atribuciones y responsabilidades establecidas en la Ley, en el presente Reglamento y demás leyes y disposiciones aplicables, conforme a los planes y políticas que determine el Pleno;
 
@@ -773,17 +913,23 @@ V. Integrar, custodiar, actualizar y acrecentar el acervo bibliográfico de la C
 
 VI. En coordinación con la Secretaría Ejecutiva, procurar que se elaboren los manuales de organización, de procedimientos y demás normativa interna de las direcciones a su cargo, necesarios para el buen desempeño de las atribuciones de la Comisión;
 
-VII. Elaborar y proponer proyectos de reformas y adiciones al Reglamento Interior de la Comisión, así como demás normas de operación y administración de su área;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-VIII. En coordinación con la Secretaría Ejecutiva, revisar y proponer modificaciones a la estructura básica de la organización de la Comisión;
+VII. Elaborar y proponer proyectos de reformas y adiciones a las leyes del Estado, en materia de transparencia, acceso a la información pública, protección de datos personales y archivos;
 
-IX. Efectuar y entregar oportunamente el respectivo informe de actividades a la Presidencia de la Comisión, para su debida integración al informe anual del organismo; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-X. Las demás que le sean encomendadas por el Presidente o el Pleno, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+VIII. Efectuar y entregar oportunamente el respectivo informe de actividades a la Presidencia de la Comisión, para su debida integración al informe anual del organismo; y
 
-### CAPÍTULO NOVENO. DE LAS SUBDIRECCIONES
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
+IX. Las demás que le sean encomendadas por el Presidente o el Pleno, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+X. (DEROGADA, P.O. 25 DE FEBRERO DE 2015)
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO NOVENO. DE LAS DIRECCIONES Y DE LAS UNIDADES
 
 ###### Artículo 41.
 
@@ -817,53 +963,9 @@ X. Apoyar al Presidente, a la Secretaría respectiva y a los demás Comisionados
 
 XI. Las demás que les confieran las disposiciones legales y administrativas que les sean aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 42.
-
-Son atribuciones de la Dirección de Administración:
-
-I. Administrar los recursos humanos de la Comisión, a través de los procesos de reclutamiento y selección, altas, bajas y cambios, evaluación del desempeño, remuneración, premios y recompensas y capacitación y desarrollo, para mantener servidores públicos competentes, que respondan a las necesidades de la Comisión, de acuerdo con la normatividad aprobada por el Pleno;
-
-II. Elaborar el proyecto de presupuesto anual de egresos de la Comisión, de acuerdo con los programas y objetivos de cada una de sus unidades de trabajo, y realizar, en su caso, las negociaciones correspondientes con las autoridades respectivas, con el fin de contar con los recursos requeridos de manera suficiente y oportuna;
-
-III. Administrar los recursos financieros de la Comisión, a través de la programación y control presupuestal, asegurando el adecuado flujo de recursos, su registro, control contable y cumplimiento normativo;
-
-IV. Elaborar y ejecutar las políticas y programas institucionales en la parte que le corresponda;
-
-V. Elaborar las normas o bases para disponer de los activos fijos de la Comisión y turnarlas para su aprobación por el Pleno;
-
-VI. Levantar el inventario de bienes de la Comisión y mantenerlo actualizado;
-
-VII. Elaborar propuestas para la fijación de los sueldos y prestaciones de los servidores públicos de la Comisión, así como el proyecto de Tabulador de Sueldos y Catálogo de Puestos y Funciones de la misma, y someterlos a la aprobación del Pleno;
-
-VIII. Realizar los trámites de afiliación del personal a los organismos de seguridad social que corresponda y hacer las modificaciones a que haya lugar;
-
-IX. Elaborar y proponer al Pleno en conjunto con la Secretaría Ejecutiva el Proyecto de Código de Conducta de los Servidores Públicos de la Comisión, con el objeto de definir los principios éticos que deben regir el comportamiento de los servidores públicos adscritos a la Comisión y, en particular, sobre el deber de confidencialidad respecto del uso y manejo de la información que el personal de la Comisión conozca como resultado de su encargo;
-
-X. Representar a la Comisión en los asuntos que el Pleno determine;
-
-XI. Formular los lineamientos y manuales de organización y de procedimientos, que permitan el óptimo aprovechamiento de los bienes y recursos de la Comisión, procurando que las funciones de la misma se cumplan de manera articulada, congruente y eficaz, y turnarlos para su aprobación por el Pleno;
-
-XII. Elaborar y presentar al Pleno, por conducto del Secretario Ejecutivo y del Presidente, el informe anual sobre el ejercicio del presupuesto de egresos y los estados financieros de la Comisión;
-
-XIII. Proceder a la ejecución de las autorizaciones en materia de adquisición de bienes y servicios y de los procesos de licitación pública, de acuerdo con lo que establecen las leyes de la materia;
-
-XIV. Atender las necesidades administrativas de las unidades de la Comisión;
-
-XV. Apoyar al Presidente, al Secretario Ejecutivo y a los demás Comisionados en la elaboración del Informe Anual que la Comisión debe presentar al H. Congreso del Estado, así como en los demás informes de avance y seguimiento de las actividades de la Comisión;
-
-XVI. (DEROGADA, P.O. 28 DE FEBRERO DE 2011)
-
-XVII. Ser el responsable de que se realicen los pagos a los que está obligada la Comisión, así como efectuar las retenciones y pagos ante el INFONAVIT, IMSS, SHCP, y demás cargos fiscales de otra índole;
-
-XVIII. Elaborar y proponer al Pleno los proyectos, programas, políticas, estrategias y lineamientos en materia de fiscalización, vigilancia, control y seguimiento de la aplicación de los recursos humanos, materiales y financieros asignados a la Comisión, y ejecutarlos una vez aprobados;
-
-XIX. Proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
-
-XX. Organizar, clasificar, conservar y custodiar los archivos de trámite y, en su caso, los de concentración que obren en poder del área; y
-
-XXI. Las demás que le confieran la Ley, este Reglamento y las demás disposiciones legales y administrativas que le sean aplicables.
-
-###### Artículo 43.
 
 Son atribuciones de la Dirección de Asuntos Jurídicos:
 
@@ -899,11 +1001,11 @@ XV. Llevar el archivo de los expedientes de los procedimientos de inconformidad 
 
 XVI. Las demás que le confieran el Pleno y las disposiciones legales y administrativas que le sean aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
 
-###### Artículo 44.
+###### Artículo 43.
 
-Son atribuciones de la Dirección de Capacitación:
+Son atribuciones de la Direcciones (sic) de la (sic) Capacitación:
 
 I. Elaborar, ejecutar y evaluar los programas y proyectos de capacitación en materia de transparencia, acceso a la información pública, protección de datos personales y temas afines;
 
@@ -927,13 +1029,13 @@ X. Proponer y organizar cursos, seminarios, talleres o cualquier otro evento dir
 
 XI. Proponer la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, el Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley;
 
-XII. Diseñar y elaborar el Concurso Anual de Investigación Jurídica de la Comisión: “Certamen de Ensayos Escritos”, los concursos de Arte Transparente: “Un derecho de todos” y de Dibujo Infantil; así como de todos aquellos que sean aprobados por el Pleno, para promover y difundir de manera permanente, la cultura de la transparencia, el acceso a la información pública y la protección de datos personales; y
+XII. Diseñar y elaborar el Concurso Anual de Investigación Jurídica de la Comisión: "Certamen de Ensayos Escritos", los concursos de Arte Transparente: "Un derecho de todos" y de Dibujo Infantil; así como de todos aquellos que sean aprobados por el Pleno, para promover y difundir de manera permanente, la cultura de la transparencia, el acceso a la información pública y la protección de datos personales; y
 
 XIII. Las demás que le confieran el Pleno, el Secretario Ejecutivo, la Ley, el presente Reglamento, y las disposiciones legales y administrativas que le sea (sic) aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
 
-###### Artículo 45.
+###### Artículo 44.
 
 Son atribuciones de la Dirección de Protección de Datos y Archivo:
 
@@ -959,51 +1061,53 @@ X. Elaborar y entregar oportunamente los respectivos informes a la Secretaría T
 
 XI. Las demás que le sean encomendadas por el Pleno, el Secretario Técnico, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+
+###### Artículo 45.
+
+Son atribuciones de la Jefatura de Administración:
+
+I. Administrar los recursos humanos de la Comisión, a través de los procesos de reclutamiento y selección, altas, bajas y cambios, evaluación del desempeño, remuneración, premios y recompensas y capacitación y desarrollo, para mantener servidores públicos competentes, que respondan a las necesidades de la Comisión, de acuerdo con la normatividad aprobada por el Pleno;
+
+II. Elaborar y ejecutar las políticas y programas institucionales en la parte que le corresponda;
+
+III. Levar a cabo el procedimiento en materia de adquisición de bienes y servicios, hasta la integración del expediente respectivo, para su presentación al Tesorero para los pagos correspondientes;
+
+IV. Atender las necesidades administrativas de las unidades de la Comisión;
+
+V. Organizar, clasificar, conservar y custodiar los archivos de trámite y, en su caso, los de concentración que obran en poder del área;
+
+VI. Responsabilizarse del adecuado manejo de los sistemas de datos personales bajo su custodia;
+
+VII. Administrar los recursos humanos y materiales asignados a la Comisión;
+
+VIII. Acordar con el Secretario Ejecutivo la resolución de los asuntos administrativos de su competencia;
+
+IX. Llevar el control de los vehículos al servicio de la Comisión;
+
+X. Elaborar los manuales de organización de la Comisión;
+
+XI. Participar en los procesos de entrega recepción de los servidores públicos de la Comisión con motivo de la separación del cargo, empleo o comisión;
+
+XII. Atender los asuntos administrativos relacionados con el personal de la Comisión;
+
+XIII. Conducir las relaciones laborales y contractuales de los trabajadores de la Comisión, mediante la aplicación de la política laboral existente;
+
+XIV. Integrar, custodiar, supervisar y mantener actualizado el inventario patrimonial de la Comisión;
+
+XV. Coordinar las actividades de selección, contratación, inducción y capacitación permanente, del personal de la Comisión;
+
+XVI. Coordinar el desarrollo de actividades culturales, recreativas, deportivas y sociales del personal de la Comisión;
+
+XVII. Elaborar el Manual de Perfiles de Puesto de la Comisión, y someterlo a través del Presidente, a la aprobación del Pleno;
+
+XVIII. Coordinar el apoyo de los prestadores de servicios (sic) social y prácticas profesionales que requiera la Comisión; y
+
+XIX. Las demás que le confieran la Ley, este Reglamento y las demás disposiciones legales y administrativas que le sean aplicables.
 
 ###### Artículo 45 Bis.
 
-Son atribuciones de la Dirección de Desarrollo, Estudios e Investigación:
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-I. Elaborar a solicitud del Comisionado Presidente o del Pleno, opiniones, estudios técnicos, dictámenes o investigaciones sobre temas relacionados con la transparencia, la rendición de cuentas, el acceso a la información, la protección de datos personales y archivo, procurando en todo momento, generar conocimiento sobre la materia;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-II. Realizar a solicitud del Comisionado Presidente o del Pleno, opiniones, estudios técnicos, dictámenes, criterios de interpretación o investigaciones relacionadas con el sentido de las resoluciones definitivas ejecutoriadas dictadas por la Comisión;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-III. Proponer y supervisar en coordinación con la Dirección de Asuntos Jurídicos, la elaboración de reformas o proyectos de leyes, reglamentos, acuerdos, circulares, lineamientos y demás instrumentos jurídicos derivados de la Ley, su Reglamento y demás disposiciones aplicables;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-IV. Sugerir la celebración de convenios de colaboración en materia de estudios e investigación, con universidades públicas o privadas, institutos o instituciones de investigación jurídica especializada y organismos garantes de la información y protección de datos personales a nivel local, nacional e internacional; procurando la creación de un Instituto Internacional de Estudios en materia de información, datos personales y archivo;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-V. Proponer la organización de foros, seminarios, talleres y demás eventos académicos que difundan el acceso a la información pública y la protección de datos personales y archivo, a nivel local, nacional e internacional;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-VI. Colaborar activamente en la inclusión de contenidos sobre el tema de acceso a la información y protección de datos personales en las instituciones públicas y privadas de educación básica, media y superior en el Estado;
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
-
-VII. Localizar, estudiar y analizar la viabilidad de la implementación de proyectos nacionales e internacionales que mantengan resultados exitosos en materia de acceso a la información, protección de datos personales y archivos;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-VIII. Coordinar la publicación de estudios e investigaciones jurídicas de la Comisión, con la participación de universidades, organismos garantes de acceso a la información e Institutos de investigación jurídica a nivel local, nacional e internacional, así como vigilar el debido cumplimiento de los lineamientos establecidos para los proyectos de investigación;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-IX. Elaborar y entregar oportunamente los respectivos informes a la Secretaría Técnica, para su debida integración al informe anual de la Comisión; y
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
-
-X. Las demás que le sean encomendadas por el Secretario Técnico, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+(DEROGADO, P.O. 25 DE FEBRERO DE 2015)
 
 Artículo 45 Bis I.- (DEROGADO, P.O. 26 DE MARZO DE 2014)
 
@@ -1105,11 +1209,11 @@ XVI. Las demás que le confieran el Pleno, su superior jerárquico, la Ley, este
 
 Artículo 46 Bis II.- (DEROGADO, P.O. 26 DE MARZO DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO PRIMERO. DEL HORARIO Y DÍAS DE LABORES
+### CAPÍTULO DÉCIMO. DE LAS SUBDIRECCIONES
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -1177,33 +1281,9 @@ XII. Supervisar la elaboración de la lista de acuerdos de la Dirección de Asun
 
 XIII. Las demás que le confieran su Director de área, la Ley, este Reglamento y las demás disposiciones legales y administrativas que le sean aplicables.
 
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+Artículo 47 Bis II.- (DEROGADO, P.O. 25 DE FEBRERO DE 2015)
 
-Artículo 47 Bis II.- Son atribuciones de la Subdirección de Protección de Datos Personales:
-
-I. Auxiliar, orientar y aconsejar a los sujetos obligados y a la sociedad en general, en materia de protección de datos personales, bajo los lineamientos, planes, programas y políticas aprobadas por la Comisión;
-
-II. Colaborar en la administración y resguardo del documento de seguridad a que alude el artículo 79 de la Ley de la materia, que los sujetos obligados están obligados a remitir a la Comisión;
-
-III. Asistir en la elaboración y actualización del directorio de los responsables del tratamiento de los sistemas de datos personales;
-
-IV. Elaborar y entregar oportunamente los respectivos informes a la Dirección de Datos Personales, para su debida integración al informe anual de la Comisión; y
-
-V. Las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
-
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
-
-Artículo 47 Bis III.- Son atribuciones de la Subdirección de Archivo:
-
-I. Atender, orientar y aconsejar a los sujetos obligados y a la sociedad en general, en materia de archivo, bajo los lineamientos, planes, programas y políticas aprobadas por la Comisión;
-
-II. Colaborar en el diseño, aplicación y actualización de los instrumentos de análisis en materia de archivo;
-
-III. Participar en la elaboración de los esquemas para incentivar mejores prácticas en materia de gestión documental y archivo. Así como el verificar que los sujetos obligados establezcan sistemas de archivo de trámite, de concentración e histórico;
-
-IV. Elaborar y entregar oportunamente los respectivos informes a la Dirección de Datos Personales, para su debida integración al informe anual de la Comisión; y
-
-V. En general, las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+Artículo 47 Bis III.- (DEROGADO, P.O. 25 DE FEBRERO DE 2015)
 
 Artículo 47 Bis IV.- (DEROGADO, P.O. 26 DE MARZO DE 2014)
 
@@ -1215,7 +1295,7 @@ Artículo 47 Bis VII.- (DEROGADO, P.O. 26 DE MARZO DE 2014)
 
 ## TÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS ANTE LA COMISIÓN
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE INCONFORMIDAD
+### CAPÍTULO PRIMERO. DEL HORARIO Y DÍAS DE LABORES
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -1231,7 +1311,9 @@ Se considerarán hábiles todos los días del año, excepto los días de descans
 
 Para efectos legales la recepción de documentos en el recinto oficial de la Comisión se hará de las 9:00 a las 17:00 horas. Para la recepción de documentos a través de medios electrónicos se tendrán las 24 horas, sirviendo como registro la hora que marquen para tal efecto los mismos.
 
-### CAPÍTULO TERCERO. DE LOS ARCHIVOS DE LA COMISIÓN
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 50.
 
@@ -1250,6 +1332,8 @@ Todos los acuerdos de trámite deberán ser firmados por el Comisionado Ponente,
 ###### Artículo 53.
 
 Las notificaciones de resoluciones sobre procedimientos de inconformidad en materia de acceso, rectificación, cancelación u oposición de datos personales, podrán hacerse únicamente al particular titular de los datos personales o a su representante, previa acreditación de su personalidad hecha mediante poder notarial.
+
+### CAPÍTULO TERCERO. DE LOS ARCHIVOS DE LA COMISIÓN
 
 ###### Artículo 54.
 
@@ -1395,7 +1479,7 @@ III. Cumplir con el perfil del puesto, previa verificación de la documentación
 
 ###### Articulo 72.
 
-El Pleno establecerá las condiciones generales de trabajo que regirán al personal de la Comisión, teniendo como supletorias las estipulaciones contenidas en la Ley Federal del Trabajo, el Código de de Procedimientos Civiles del Estado de Nuevo León los principios generales de derecho y la equidad.
+El Pleno establecerá las condiciones generales de trabajo que regirán al personal de la Comisión, teniendo como supletorias las estipulaciones contenidas en la Ley Federal del Trabajo, el Código de Procedimientos Civiles del Estado de Nuevo León los principios generales de derecho y la equidad.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1450,5 +1534,11 @@ SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de
 P.O. 26 DE MARZO DE 2014.
 
 PRIMERO: El presente acuerdo entrará en vigor al momento de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de conformidad con el artículo 104, fracción V, inciso j, de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+P.O. 25 DE FEBRERO DE 2015.
+
+PRIMERO: El presente acuerdo entrará en vigor a los 02-dos días siguientes al de su aprobación.
 
 SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de conformidad con el artículo 104, fracción V, inciso j, de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
