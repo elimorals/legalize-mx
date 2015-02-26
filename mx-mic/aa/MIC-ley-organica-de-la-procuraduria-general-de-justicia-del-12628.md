@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-12628"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-08-31"
-last_updated: "2012-01-18"
+last_updated: "2015-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 26 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -81,7 +83,7 @@ III.- Promover la pronta, expedita y debida procuración e impartición de justi
 
 IV.- Las demás que las disposiciones legales le señalen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 7º.
 
@@ -161,7 +163,7 @@ II.- Proponer al Gobernador del Estado proyectos de ley, reglamentos, decretos y
 
 III. Implementar las medidas necesarias para el mejoramiento de la procuración e impartición de justicia en la Entidad y el desarrollo de estudios en materia de criminología;
 
-IV.- Hacer del conocimiento del Gobernador del Estado y del Supremo Tribunal de Justicia del la Entidad, los abusos e irregularidades que adviertan en los juzgados o tribunales, que afecten la pronta, expedita y debida impartición de justicia;
+IV.- Hacer del conocimiento del Gobernador del Estado y del Supremo Tribunal de Justicia de la Entidad, los abusos e irregularidades que adviertan en los juzgados o tribunales, que afecten la pronta, expedita y debida impartición de justicia;
 
 V.- Auxiliar a las procuradurías de justicia de otras entidades federativas y solicitar apoyo similar de las mismas, en los términos del artículo 119 Constitucional, de los convenios de colaboración que sobre el particular suscriba el Procurador y de lo dispuesto por las demás leyes aplicables;
 
@@ -255,7 +257,7 @@ El Procurador podrá designar agentes especiales para que intervengan, con la mi
 
 II.- Para ingresar como Agente de la Policía Ministerial Investigadora, además de reunir los requisitos de los incisos a), c) y d) de la fracción I, deberá contar al día de su designación como mínimo con veintiún años de edad y como máximo treinta y cinco años de edad, gozar de buena salud y aprobar los exámenes respectivos; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III.- (DEROGADA, P.O. 18 DE ENERO DE 2012)
 
@@ -389,7 +391,7 @@ El Ministerio Público o la Policía Ministerial Investigadora sólo expedirán 
 
 El Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, ampliará en lo conducente las disposiciones de esta ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO IV. DEL FONDO AUXILIAR PARA LA PROCURACION DE JUSTICIA
 
@@ -509,7 +511,7 @@ V. Llevar el libro de las reuniones del Consejo Técnico del Fondo Auxiliar para
 
 VI. Elaborar la documentación relativa a las actividades del Fondo Auxiliar para la Procuración de Justicia;
 
-VIl. Recabar de las unidades administrativas de la Procuraduría General de Justicia del Estado, las necesidades de recursos materiales, y elaborar la propuesta correspondiente del Presupuesto de Egresos del Fondo Auxiliar para la Procuración de Justicia, en términos del artículo 38 de la presente Ley;
+VII. Recabar de las unidades administrativas de la Procuraduría General de Justicia del Estado, las necesidades de recursos materiales, y elaborar la propuesta correspondiente del Presupuesto de Egresos del Fondo Auxiliar para la Procuración de Justicia, en términos del artículo 38 de la presente Ley;
 
 VIII. Elaborar el informe anual de Ingresos y Presupuesto de egresos del Fondo Auxiliar para la Procuración de Justicia y someterlo a la consideración del Consejo Técnico para su análisis y aprobación, en el mes de diciembre de cada año;
 
@@ -567,7 +569,7 @@ II. Se otorgue y se revoque la libertad bajo caución otorgada a indiciados, y p
 
 III. Se decrete el aseguramiento de bienes, instrumentos y objetos producto del delito.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO V. PROCEDIMIENTO DE ENAJENACION EN SUBASTA PUBLICA
 
@@ -721,7 +723,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE AGOSTO DE 2007.
 
@@ -772,3 +774,19 @@ En tanto, se publiquen los reglamentos respectivos, el personal de base, y de co
 ###### ARTÍCULO QUINTO.
 
 Para efectos presupuestales y administrativos a que haya lugar, el Poder Ejecutivo preverá en el presupuesto de egresos del ejercicio fiscal dos mil doce la creación de la unidad responsable correspondiente en la unidad programática presupuestal de organismos descentralizados.
+
+P.O. 26 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Las áreas de la Procuraduría General de Justicia del Estado de Michoacán de Ocampo acordes a la implementación del Sistema Penal Acusatorio entrarán en vigor conforme la declaratoria correspondiente.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Michoacán de Ocampo, publicada mediante Decreto 182 en el Periódico Oficial del Estado, de fecha 31 de agosto del año 1998.
+
+TERCERO. El trámite de los asuntos iniciados ante las Subprocuradurías Regionales de Justicia del Estado de Michoacán de Ocampo, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por las Fiscalías Regionales de Justicia del Estado.
+
+CUARTO. La reglamentación y demás disposiciones correspondientes, deberán expedirse en un plazo no mayor a treinta días hábiles, contados a partir del día siguiente al de su entrada en vigor.
+
+QUINTO. La instalación del Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia del Estado de Michoacán, deberá darse en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor de la presente Ley.
+
+SEXTO. El Ejecutivo del Estado deberá incluir y gestionar una unidad programática presupuestal con los recursos suficientes para la creación, operación y funcionamiento del Instituto Michoacano de Investigación Forense y la Ley que lo regula, en tanto subsistirá la Coordinación General de Servicios Periciales que dependerá directamente de la Procuraduría General de Justicia del Estado como lo contempla la presente Ley.
