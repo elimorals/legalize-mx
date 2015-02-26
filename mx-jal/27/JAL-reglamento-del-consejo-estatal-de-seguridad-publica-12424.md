@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-consejo-estatal-de-seguridad-publica-12424"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2013-12-21"
+last_updated: "2015-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO PUBLICADO EN LA SECCIÓN IV DEL P. O. DE 26 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -145,7 +147,7 @@ III. Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organ
 
 IV. Establecer, supervisar, utilizar y mantener actualizados todos los instrumentos de información del Sistema Estatal;
 
-V. Formular propuestas para el Programa Estatal de Seguridad Pública, así como para llevarlo a cabo y evaluar su desarrollo; y (sic)
+V. Formular propuestas para el Programa Estatal de Seguridad Pública, así como para llevarlo a cabo y evaluar su desarrollo; y
 
 VI. Tomar medidas y realizar acciones y operativos conjuntos;
 
@@ -570,3 +572,7 @@ QUINTO. En un plazo de sesenta días hábiles, se debe llevar a cabo la modifica
 SEXTO. Los actos, acuerdos, resoluciones, convenios o contratos que se hubiesen emitido o suscrito por los titulares de las unidades administrativas del Secretariado Ejecutivo, antes de la entrada en vigor del Reglamento, conservarán su validez y vigencia por el plazo que se haya previsto.
 
 SÉPTIMO. Los procedimientos administrativos o juicios en los que sean partes las autoridades del Secretariado Ejecutivo seguirán atendiéndose por las unidades administrativas de las áreas jurídicas previstas en este Reglamento.
+
+P.O. 26 DE FEBRERO DE 2015.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
