@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-desarrollo-integral-de-la-juventud-para-45993
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2011-10-06"
+last_updated: "2015-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 
@@ -165,7 +165,7 @@ VI. Los demás que contribuyan a su desarrollo armónico e integral.
 
 La juventud tiene derecho a la individualidad, la libertad, al acceso a las instituciones educativas, culturales y recreativas, así como, al disfrute de tiempo en función de un proyecto personal de vida que contribuya a su autorrealización.
 
-Para ello, contará con oportunidades que le permita (sic) participar y desarrollar plenamente sus potencialidades, capacidades y aptitudes. La juventud podrá además:
+Para ello, contará con oportunidades que le permita participar y desarrollar plenamente sus potencialidades, capacidades y aptitudes. La juventud podrá además:
 
 I. Seleccionar el campo de estudio artístico, deportivo, técnico o profesional de su preferencia y laborar en él, generando ingresos que correspondan al trabajo desempeñado;
 
@@ -687,11 +687,15 @@ VI. Las demás que le otorguen otras disposiciones legales.
 
 #### SECCIÓN QUINTA. De las Direcciones Municipales
 
-> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 61.
 
-Los Ayuntamientos, de acuerdo a sus posibilidades presupuestales, podrán crear Direcciones Municipales, las que operarán en el ámbito de su competencia y jurisdicción de manera similar al órgano administrativo responsable. Para que una Dirección Municipal promueva o impulse proyectos definidos en el Programa deberá suscribir el convenio correspondiente con la Secretaría de Gobierno.
+Los Ayuntamientos, de acuerdo a sus posibilidades presupuestales, podrán crear las Direcciones Municipales, las que operarán en el ámbito de su competencia y jurisdicción de manera similar al Órgano Administrativo responsable. Para que una Dirección Municipal promueva o impulse los proyectos definidos en el Programa deberá suscribir Convenio correspondiente con la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2015)</small>
+
+Las Direcciones Municipales podrán obtener, mediante convenios con organismos públicos o privados, la inclusión a programas académicos, políticos, económicos, sociales o de cualquier naturaleza que beneficien a la juventud, mediante la determinación del Cabildo y la autorización del Congreso del Estado.
 
 > <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
@@ -795,7 +799,7 @@ A t e n t a m e n t e
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 22 DE DICIEMBRE DE 2006.
 
@@ -822,3 +826,9 @@ Séptimo. La Contraloría General designará a un liquidador encargado de llevar
 Octavo. Los asuntos en trámite a la entrada en vigor de este Decreto, serán resueltos por la Dependencia a la que se le atribuya la competencia correspondiente.
 
 Noveno. La Secretaría de Gobierno deberá adecuar su Reglamento Interior y demás disposiciones internas aplicables, en un término de sesenta días a partir del inicio de vigencia del presente Decreto.
+
+G.O. 26 DE FEBRERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
