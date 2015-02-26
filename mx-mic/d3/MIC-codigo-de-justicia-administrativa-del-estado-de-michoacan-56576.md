@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2012-12-14"
+last_updated: "2015-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -53,7 +53,9 @@ Las disposiciones del presente Código son de orden público e interés general 
 
 En tratándose de actos y resoluciones administrativas fiscales, este Código será aplicable, únicamente en lo relativo al contenido de los Libros Cuarto y Quinto, quedando a salvo las disposiciones de las leyes fiscales, hasta la emisión de la resolución definitiva por parte de las autoridades fiscales.
 
-Quedan excluidos de la aplicación de este Código, los actos y procedimientos administrativos relacionados con las materias de carácter financiero; los actos relativos a la actuación del Ministerio Público en ejercicio de sus atribuciones constitucionales y legales, relacionadas con la averiguación y persecución del delito; ejecución de las sanciones penales; los de seguridad pública; electoral; participación ciudadana; de la Universidad Michoacana de San Nicolás de Hidalgo y descentralizadas de educación superior; Tribunal de Conciliación y Arbitraje y de la Comisión Estatal de Derechos Humanos, en cuanto a las quejas de que conozca y recomendaciones que formule.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2015)</small>
+
+Quedan excluidos de la aplicación de este Código, los actos y procedimientos administrativos relacionados con las materias de carácter financiero; los actos relativos a la actuación del Ministerio Público en ejercicio de sus atribuciones constitucionales y legales, relacionadas con la averiguación y persecución del delito; ejecución de las sanciones penales; los de seguridad pública; los actos relativos a las sanciones impuestas a los agentes del Ministerio Público, agentes de investigación y análisis, peritos o quienes realicen funciones sustantivas en la Procuraduría General de Justicia del Estado de Michoacán de Ocampo; electoral; participación ciudadana; de la Universidad Michoacana de San Nicolás de Hidalgo y descentralizadas de educación superior; Tribunal de Conciliación y Arbitraje y de la Comisión Estatal de Derechos Humanos, en cuanto a las quejas de que conozca y recomendaciones que formule.
 
 ### Capítulo Segundo. Definiciones
 
@@ -2694,3 +2696,7 @@ P.O. 14 DE DICIEMBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
