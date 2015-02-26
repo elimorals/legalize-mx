@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2014-03-27"
+last_updated: "2015-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE FEBRERO DE 2015.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -181,15 +181,21 @@ III. Secretaría Adjunta de Administración y Presupuesto
 
 A. Dirección General Adjunta de Administración
 
-B. Dirección General Adjunta de Presupuesto y Contabilidad
+> <small>(ADICIONADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+B. Dirección General Adjunta de Recursos Humanos
+
+C. Dirección General Adjunta de Presupuesto y Contabilidad
 
 IV. Dirección General de Planeación Estratégica y Procesos
 
 i. Dirección General Adjunta de Planeación Estratégica y Procesos
 
-V. Dirección General de Comunicación Social
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-i. Dirección General Adjunta de Difusión y Enlace
+V. Dirección General de Comunicación Social y Relaciones Institucionales
+
+i. (DEROGADO, D.O.F. 26 DE FEBRERO DE 2015)
 
 VI. Dirección General de Tecnologías de la Información
 
@@ -223,7 +229,9 @@ El Secretario Adjunto de Protección al Ahorro Bancario será suplido en sus aus
 
 El Secretario Adjunto Jurídico será suplido en sus ausencias por el titular de la Dirección General Jurídica de Protección al Ahorro, por el titular de la Dirección General Jurídica de lo Contencioso, o por el titular de la Dirección General Jurídica de Normatividad y Consulta, en el orden indicado.
 
-El Secretario Adjunto de Administración y Presupuesto será suplido en sus ausencias por el titular de la Dirección General Adjunta de Presupuesto y Contabilidad o por el titular de la Dirección General Adjunta de Administración, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+El Secretario Adjunto de Administración y Presupuesto será suplido en sus ausencias por el titular de la Dirección General Adjunta de Presupuesto y Contabilidad, por el titular de la Dirección General Adjunta de Administración, o por el titular de la Dirección General Adjunta de Recursos Humanos, en el orden indicado.
 
 El Director General de Finanzas será suplido en sus ausencias por el titular de la Dirección General Adjunta de Planeación Financiera, o por el titular de la Dirección General Adjunta de Tesorería, en el orden indicado.
 
@@ -243,13 +251,17 @@ El Director General Jurídico de lo Contencioso será suplido en sus ausencias p
 
 El Director General Jurídico de Normatividad y Consulta será suplido en sus ausencias por el titular de la Dirección General Adjunta Jurídica de Normatividad y Consulta, o por el titular de la Dirección General Adjunta Jurídica de Contrataciones Administrativas y Procedimientos Legales, en el orden indicado.
 
-El Director General Adjunto de Administración será suplido en sus ausencias por el titular de la Dirección de Administración y Desarrollo de Personal, o por el titular de la Dirección de Recursos Materiales y Servicios Generales, o por el titular de la Dirección de Programas Institucionales, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+El Director General Adjunto de Administración será suplido en sus ausencias por el titular de la Dirección de Recursos Materiales y Servicios Generales, o por el titular de la Dirección de Remuneraciones y Programas Institucionales, en el orden indicado.
 
 El Director General Adjunto de Presupuesto y Contabilidad será suplido en sus ausencias por el titular de la Dirección de Programación y Presupuesto, o por el titular de la Dirección de Contabilidad Financiera, en el orden indicado.
 
 El Director General de Planeación Estratégica y Procesos será suplido en sus ausencias por el titular de la Dirección General Adjunta de Planeación Estratégica y Procesos.
 
-El Director General Comunicación (sic) Social será suplido en sus ausencias por el titular de la Dirección General Adjunta de Difusión y Enlace.
+> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+El Director General de Comunicación Social y Relaciones Institucionales será suplido en sus ausencias por el titular de la Dirección de Información, por el titular de la Dirección de Difusión, por el titular de la Dirección de Análisis, o por el titular de la Dirección de Transparencia e Información Pública, en el orden indicado.
 
 El Director General de Tecnologías de la Información será suplido en sus ausencias por el titular de la Dirección de Infraestructura Tecnológica, por el titular de la Dirección de Sistemas, o por el titular de la Dirección de Gestión de Tecnologías de la Información, en el orden indicado.
 
@@ -317,13 +329,17 @@ XXII. Proponer, en coordinación con la Dirección General de Planeación Estrat
 
 XXIII. Suscribir, conjuntamente con el titular de la Secretaría Adjunta Jurídica, los convenios de intercambio de información o acuerdos de coordinación que celebre el Instituto, conforme a los artículos 97, 123 y 143 de la Ley de Instituciones de Crédito;
 
-XXIV. Autorizar, en coordinación con el titular de la Secretaría Adjunta Jurídica y previo acuerdo superior, los programas de autocorrección que presenten al Instituto las Instituciones, así como ordenar modificaciones o correcciones a dichos programas, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
+XXIV. (DEROGADA, D.O.F. 26 DE FEBRERO DE 2015)
 
-XXV. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica y previo acuerdo superior, la opinión que deba otorgar el Instituto a la Comisión Nacional Bancaria y de Valores, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito, así como solicitar a dicha Comisión, cuando lo considere conveniente, que requiera a cualquier Institución la actualización del referido plan;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XXVI. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica, planes de resolución de Instituciones, en términos de lo previsto en el artículo 120 de la Ley de Instituciones de Crédito, y
+XXV. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica y previo acuerdo superior, la opinión que deba otorgar el Instituto a la Comisión Nacional Bancaria y de Valores, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito, así como solicitar a dicha Comisión, cuando lo considere conveniente, que requiera a cualquier Institución la actualización del referido plan, y
 
-XXVII. Hacer del conocimiento de la Comisión Nacional Bancaria y de Valores, en coordinación con el titular de la Secretaría Adjunta Jurídica, sobre cualquier irregularidad detectada en las Instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXVI. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica, planes de resolución de Instituciones, en términos de lo previsto en el artículo 120 de la Ley de Instituciones de Crédito.
+
+XXVII. (DEROGADA, D.O.F. 26 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 14.
 
@@ -333,7 +349,9 @@ I. Brindar apoyo técnico jurídico al Secretario Ejecutivo y unidades administr
 
 II. Establecer el criterio del Instituto cuando las unidades administrativas de la propia Secretaría Adjunta Jurídica emitan opiniones contradictorias en aspectos legales, así como en caso de contradicción de criterios o discrepancia respecto de la participación de las unidades administrativas a que se refiere la fracción XI del artículo 16 del presente Estatuto;
 
-III. Coordinarse con el titular de la Secretaría Adjunta de Protección al Ahorro Bancario, para el ejercicio de las atribuciones previstas en las fracciones V, VIII, IX, XI, XII, XIII, XIV, XVI, XVIII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 13 de este Estatuto Orgánico;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+III. Coordinarse con el titular de la Secretaría Adjunta de Protección al Ahorro Bancario, para el ejercicio de las atribuciones previstas en las fracciones V, VIII, IX, XI, XII, XIII, XIV, XVI, XVIII, XXIII, XXV y XXVI del artículo 13 de este Estatuto;
 
 IV. Coordinar con las unidades administrativas competentes, la elaboración de los proyectos de lineamientos, reglas, acuerdos y demás disposiciones de carácter general que corresponda expedir al Instituto de conformidad con la ley, y proponerlos al Secretario Ejecutivo para su posterior consideración por parte de la Junta de Gobierno del Instituto;
 
@@ -355,7 +373,9 @@ Corresponde al titular de la Secretaría Adjunta de Administración y Presupuest
 
 I. Planear y conducir las políticas de administración de personal, recursos materiales y servicios generales;
 
-II. Planear y conducir la política de capacitación y desarrollo de personal, así como ejecutar los actos que corresponda aplicar al Instituto con motivo de sus relaciones laborales;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+II. Planear y conducir la política de capacitación y desarrollo de personal, así como ejecutar los actos que corresponda aplicar al Instituto con motivo de sus relaciones laborales, así como celebrar los contratos o convenios con institutos, universidades, escuelas, asociaciones, colegios, personas físicas y personas morales en materia de capacitación y desarrollo del personal y de beneficios a los trabajadores del Instituto;
 
 III. Dirigir la aplicación del Servicio Profesional de Carrera del Instituto y supervisar los procesos que lo integran, conforme a las disposiciones aplicables;
 
@@ -409,9 +429,15 @@ IX. Resolver, en el ámbito de su competencia, las solicitudes que formulen los 
 
 X. Hacer del conocimiento de la Dirección General Jurídica de lo Contencioso los hallazgos o situaciones presuntamente constitutivas de infracciones a la Ley, o a la Ley de Instituciones de Crédito, a fin de aplicar las sanciones que resulten procedentes en el ámbito de sus atribuciones, así como atender los requerimientos de información y proporcionar los documentos necesarios, respecto de tales hallazgos o situaciones;
 
-XI. Participar, en el ámbito de su competencia, en la atención de los asuntos que las unidades administrativas deban ejercer de manera coordinada conforme a lo dispuesto en el presente Estatuto, previa solicitud de su titular. Lo anterior, en aquellos casos en que la unidad administrativa no se encuentre expresamente prevista en la disposición correspondiente, y
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XII. Llevar a cabo las demás actividades que conforme a su competencia se deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa les encomiende el Secretario Ejecutivo o el titular de la Secretaría Adjunta correspondiente.
+XI. Participar, en el ámbito de su competencia, en la atención de los asuntos que las unidades administrativas deban ejercer de manera coordinada conforme a lo dispuesto en el presente Estatuto, previa solicitud de su titular. Lo anterior, en aquellos casos en que la unidad administrativa no se encuentre expresamente prevista en la disposición correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XII. Hacer del conocimiento del Director General Jurídico de lo Contencioso cualquier irregularidad detectada en las instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito, en el ámbito de su competencia, y
+
+XIII. Llevar a cabo las demás actividades que conforme a su competencia se deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa les encomiende el Secretario Ejecutivo o el titular de la Secretaría Adjunta correspondiente.
 
 ###### ARTÍCULO 17.
 
@@ -465,9 +491,17 @@ XXIII. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del tit
 
 XXIV. Participar con la Dirección General de Seguimiento de Instituciones y Análisis en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
 
-XXV. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes, y
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XXVI. Participar, en el ámbito de su competencia, en la revisión de la información contenida en los estados financieros del Instituto.
+XXV. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXVI. Participar, en el ámbito de su competencia, en la revisión de la información contenida en los estados financieros del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXVII. Solicitar a la Secretaría de Hacienda y Crédito Público, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, la inscripción de los títulos de crédito, documentos contractuales e instrumentos mediante los cuales se generen pasivos directos o contingentes a cargo del Instituto o sirvan para refinanciar sus obligaciones, en el registro a que se refiere el artículo 27 de la Ley General de Deuda Pública.
 
 ###### ARTÍCULO 18.
 
@@ -485,7 +519,7 @@ V. Solicitar a la Dirección General de Visitas de Inspección la realización d
 
 VI. Emitir las opiniones que le soliciten las unidades administrativas, relacionadas con la situación financiera y económica de las Instituciones, a fin de retroalimentar y fortalecer las actividades preparatorias de una resolución bancaria o para integrar los informes, opiniones o solicitudes que deba realizar el Instituto en el ámbito de sus atribuciones o le requieran otras autoridades del sistema financiero;
 
-VII. Hacer del conocimiento del Secretario Adjunto de Protección al Ahorro Bancario, sobre cualquier irregularidad detectada en las Instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito, en el ámbito de su competencia;
+VII. (DEROGADA, D.O.F. 26 DE FEBRERO DE 2015)
 
 VIII. Desarrollar instrumentos de información financiera de interés para el Instituto;
 
@@ -501,7 +535,9 @@ XIII. Recabar y analizar la información necesaria para el cálculo de las cuota
 
 XIV. Solicitar al Banco de México, conjuntamente con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, se realice el cargo correspondiente al importe de las cuotas que deban pagar las Instituciones;
 
-XV. Participar, con la Dirección General de Visitas de Inspección, en el análisis de los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XV. Resolver, en el ámbito de su competencia, las solicitudes relativas a los programas de autocorrección que presenten las Instituciones en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
 XVI. Elaborar con la participación de las Direcciones Generales de Finanzas, Resoluciones Bancarias, Visitas de Inspección, Administración y Seguimiento de Activos y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito, así como proponer al Secretario Adjunto de Protección al Ahorro Bancario solicitar a dicha Comisión, cuando así lo considere conveniente, que requiera a cualquier Institución la actualización del referido plan;
 
@@ -553,7 +589,9 @@ XVII. Coordinar y ejecutar, en el ámbito de su competencia y con la participaci
 
 XVIII. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, de los derechos corporativos y patrimoniales inherentes a los títulos representativos del capital social de Instituciones respecto de las cuales se implemente un método de resolución en términos de lo establecido en la Ley de Instituciones de Crédito;
 
-XIX. Planear y, previo acuerdo superior y en coordinación con el titular de la Dirección General Jurídica de Protección al Ahorro, realizar los actos necesarios para la constitución y organización de Instituciones por el Instituto, conforme a lo dispuesto por el artículo 27 Bis 1 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XIX. Realizar los actos necesarios para la constitución, organización y operación de las Instituciones a que se refiere el artículo 27 Bis 1 de la Ley de Instituciones de Crédito, previo acuerdo superior y en coordinación con las unidades administrativas competentes del Instituto;
 
 XX. Instrumentar, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los actos para el otorgamiento de los recursos necesarios para la operación de las Instituciones organizadas y operadas por el Instituto;
 
@@ -573,11 +611,17 @@ XXVII. Llevar a cabo en coordinación con la Dirección General Jurídica de Pro
 
 XXVIII. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
 
-XXIX. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto, así como participar, en coordinación con la Dirección General de Visitas, en los procedimientos para realizar el pago de las obligaciones garantizadas y el pago de las obligaciones a que se refiere el artículo 198 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XXX. Solicitar a las Direcciones Generales Jurídica de Normatividad y Consulta y de Comunicación Social, la realización de las publicaciones que correspondan en el ámbito de su competencia;
+XXIX. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto;
 
-XXXI. Hacer del conocimiento del Secretario Adjunto de Protección al Ahorro Bancario, cualquier irregularidad detectada en las Instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito, en el ámbito de su competencia, y
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXX. Solicitar a las Direcciones Generales Jurídica de Normatividad y Consulta y de Comunicación Social y Relaciones Institucionales, la realización de las publicaciones que correspondan en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXXI. Resolver, en el ámbito de su competencia, las solicitudes relativas a los programas de autocorrección que presenten las Instituciones en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito, y
 
 XXXII. Integrar los expedientes documentales o Libros Blancos que correspondan en el ámbito de su competencia.
 
@@ -589,7 +633,9 @@ I. Elaborar, previo acuerdo superior, el programa anual de visitas de inspecció
 
 II. Realizar, en coordinación con la Dirección General Jurídica de Protección al Ahorro, las notificaciones de las visitas de inspección que se realicen a las Instituciones en términos de la Ley, la Ley de Instituciones de Crédito y el Reglamento del Instituto;
 
-III. Realizar, previo acuerdo superior, visitas de inspección a Instituciones, en términos de la Ley de Instituciones de Crédito, para revisar, verificar y evaluar la información que en términos de las disposiciones legales y administrativas aplicables deban proporcionar al Instituto, así como llevar a cabo el seguimiento de los hallazgos que se lleguen a generar y, en su caso, coordinar la participación de la Dirección General de Administración y Seguimiento de Activos, así como las demás unidades administrativas en dichas visitas, conforme a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+III. Realizar las visitas de inspección a las Instituciones, en términos de los artículos 109 Bis 11, 120, 123 y 124 de la Ley de Instituciones de Crédito y 22 de la Ley, y dar seguimiento de los hallazgos derivados de las mismas. Lo anterior, coordinando la participación de las demás unidades administrativas del Instituto, en el ámbito de su competencia;
 
 IV. Solicitar, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, a las Instituciones y a la Comisión Nacional Bancaria y de Valores, la información que en el ámbito de su competencia requiera, en términos de las disposiciones aplicables;
 
@@ -597,7 +643,9 @@ V. Participar con la Dirección General de Seguimiento de Instituciones y Análi
 
 VI. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
 
-VII. Formular, con la participación de las Direcciones Generales de Seguimiento de Instituciones y Análisis, Administración y Seguimiento de Activos, Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, la propuesta de requerimiento de corrección o modificación o aprobación por parte del Secretario Adjunto de Protección al Ahorro Bancario, de los programas de autocorrección que presenten al Instituto las Instituciones, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito, así como supervisar su grado de avance y cumplimiento cuando se estime pertinente;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+VII. Resolver, en el ámbito de su competencia, las solicitudes relativas a los programas de autocorrección que presenten las Instituciones, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
 VIII. Participar, en coordinación con la Dirección General de Resoluciones Bancarias, y dentro del ámbito de su competencia, en la elaboración del estudio técnico o del análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
 
@@ -605,11 +653,29 @@ IX. Participar, con la Dirección General de Resoluciones Bancarias, para aproba
 
 X. Ejecutar, supervisar y dar seguimiento, en coordinación con la Dirección General de Resoluciones Bancarias, a los procesos de transferencia de pasivos que se realicen dentro de la implementación del método de resolución que corresponda, conforme a la Ley de Instituciones de Crédito;
 
-XI. Implementar, en coordinación con las Direcciones Generales de Finanzas, de Resoluciones Bancarias y Jurídica de Protección al Ahorro, los procedimientos para realizar el pago de las obligaciones garantizadas y el pago de las obligaciones a que se refiere el artículo 198 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XII. Realizar, en coordinación con la Dirección General de Finanzas, el pago de las obligaciones a que se refiere la fracción inmediata anterior de este artículo, y
+XI. Implementar, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, y con las demás unidades administrativas competentes, los procedimientos para la realización del pago de las obligaciones garantizadas y de las obligaciones a que se refiere el artículo 198 de la Ley de Instituciones de Crédito;
 
-XIII. Hacer del conocimiento del Secretario Adjunto de Protección al Ahorro Bancario, sobre cualquier irregularidad detectada en las Instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito, en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XII. Realizar, en coordinación con la Dirección General de Finanzas, el pago de las obligaciones a que se refiere la fracción inmediata anterior de este artículo;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XIII. Participar, en el ámbito de su competencia con la Dirección General de Resoluciones Bancarias, en la preparación e implementación de los métodos de resolución a que se refiere el artículo 148 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XIV. Dar seguimiento, en coordinación con la Dirección General Jurídica de Protección al Ahorro, a las solicitudes de pago a que se refieren los artículos 191 y 198 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XV. Coordinar las actividades para informar y atender al público en general, en todo lo relacionado con los procedimientos de pago a que se refieren los artículos 191 y 198 de la Ley de Instituciones de Crédito, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XVI. Desarrollar instrumentos de análisis de información relativa a las visitas de inspección, que tengan por objeto el previsto en el segundo y tercer párrafos del artículo 124 de la Ley de Instituciones de Crédito.
 
 ###### ARTÍCULO 21.
 
@@ -623,7 +689,7 @@ III. Ejecutar, supervisar y dar seguimiento, en coordinación con la Dirección 
 
 IV. Realizar el análisis técnico de la conformación de los activos de las Instituciones y elaborar los reportes que correspondan;
 
-V. Participar, en el ámbito de su competencia y bajo la coordinación de la Dirección General de Visitas de Inspección, en la realización de visitas a Instituciones, en términos de la Ley de Instituciones de Crédito;
+V. (DEROGADA, D.O.F. 26 DE FEBRERO DE 2015)
 
 VI. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
 
@@ -711,7 +777,9 @@ IX. Implementar, previo acuerdo superior y en coordinación con la Dirección Ge
 
 X. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y de Resoluciones Bancarias, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto;
 
-XI. Realizar, previo acuerdo superior y en coordinación con la Dirección General de Resoluciones Bancarias, los actos jurídicos necesarios para la constitución y organización de Instituciones por el Instituto al amparo del artículo 27 Bis 1 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XI. Solicitar a la Secretaría de Hacienda y Crédito Público, conjuntamente con la Dirección General de Finanzas, la inscripción de los títulos de crédito, documentos contractuales e instrumentos mediante los cuales se generen pasivos directos o contingentes a cargo del Instituto o sirvan para refinanciar sus obligaciones, en el registro a que se refiere el artículo 27 de la Ley General de Deuda Pública;
 
 XII. Participar, en coordinación con las Direcciones Generales de Resoluciones Bancarias y de Finanzas, en la celebración de los actos para el otorgamiento de los recursos necesarios para la operación de las Instituciones organizadas y operadas por el Instituto;
 
@@ -753,7 +821,9 @@ XXX. En general, otorgar apoyo y asesoría en relación con los asuntos que, en 
 
 XXXI. Elaborar, en coordinación con las Direcciones Generales de Seguimiento de Instituciones y Análisis y de Investigación y Asuntos Internacionales, la propuesta de convenios de intercambio de información o acuerdos de coordinación que celebre el Instituto, conforme a los artículos 97, 123 y 143 de la Ley de Instituciones de Crédito;
 
-XXXII. Participar con la Dirección General de Visitas de Inspección, en el análisis de los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXXII. Participar con las Direcciones Generales de Visitas de Inspección, de Seguimiento de Instituciones y Análisis y de Resoluciones Bancarias en el análisis para resolver las solicitudes relativas a los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
 XXXIII. Participar con la Dirección General de Seguimiento de Instituciones y Análisis, en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, previo acuerdo del Secretario Adjunto Jurídico, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
 
@@ -795,7 +865,9 @@ XI. Coordinar, previo acuerdo superior, la cobranza por la vía judicial de los 
 
 XII. Ordenar, en el ámbito de su competencia, la realización de las notificaciones que deban practicarse en términos de la Ley, la Ley de Instituciones de Crédito o la Ley Federal de Procedimiento Administrativo;
 
-XIII. Brindar apoyo y asistencia jurídica a la Dirección General Adjunta de Administración en el levantamiento de las actas administrativas y las constancias de hechos referentes al personal del propio Instituto;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XIII. Brindar apoyo y asistencia jurídica a la Dirección General Adjunta de Recursos Humanos en el levantamiento de las actas administrativas y las constancias de hechos referentes al personal del propio Instituto;
 
 XIV. Ratificar ante la autoridad laboral, cualquier tipo de convenio que el Instituto haya celebrado con sus trabajadores en su calidad de patrón;
 
@@ -813,11 +885,21 @@ XX. Auxiliarse en el ejercicio de las atribuciones legales y administrativas de 
 
 XXI. Solicitar al Banco de México, conjuntamente con la Dirección General de Finanzas, se realice el cargo correspondiente al importe de las multas que deban pagar las Instituciones, en términos de lo previsto en los artículos 109 Bis 5 de la Ley de Instituciones de Crédito y 92 de la Ley;
 
-XXII. Participar con la Dirección General de Visitas de Inspección, en el análisis de los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XXIII. Participar, en coordinación con la Dirección General de Resoluciones Bancarias y en el ámbito de su competencia, en la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo en la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, y
+XXII. Participar con las Direcciones Generales de Visitas de Inspección, de Seguimiento de Instituciones y Análisis y de Resoluciones Bancarias en el análisis para resolver las solicitudes relativas a los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
-XXIV. Solicitar a la Dirección General de Comunicación Social, en términos de los lineamientos a que se refieren los artículos 94 de la Ley y 109 Bis 8 de la Ley de Instituciones de Crédito, la publicación de la información a que dichos preceptos se refieren, en el portal de internet del Instituto.
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXIII. Participar, en coordinación con la Dirección General de Resoluciones Bancarias y en el ámbito de su competencia, en la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo en la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXIV. Solicitar a la Dirección General de Comunicación Social y Relaciones Institucionales, en términos de los lineamientos a que se refieren los artículos 94 de la Ley y 109 Bis 8 de la Ley de Instituciones de Crédito, la publicación de la información a que dichos preceptos se refieren, en el portal de Internet del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XXV. Hacer del conocimiento de la Comisión Nacional Bancaria y de Valores cualquier irregularidad detectada en las instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito.
 
 ###### ARTÍCULO 25.
 
@@ -853,23 +935,67 @@ XIV. Identificar, analizar y estudiar el marco legal del Instituto y de las Inst
 
 XV. Fungir como secretario en los comités internos que establezca el Instituto, salvo que en los instrumentos jurídicos que los regulen se establezca que el desempeño de dicho cargo corresponda a otra unidad administrativa;
 
-XVI. Revisar, en coordinación con las unidades administrativas competentes, la información de carácter normativo que se incorpore en la página de Internet del Instituto, y
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XVII. Conocer, dentro del ámbito de su competencia, los requerimientos efectuados al Instituto por la Auditoría Superior de la Federación y otras entidades fiscalizadoras y coordinar lo necesario para su atención con las unidades administrativas del Instituto, así como suscribir conjuntamente con éstas, los documentos con los que se dé atención a dichos requerimientos.
+XVI. Revisar, en coordinación con las unidades administrativas competentes, la información de carácter normativo que se incorpore en la página de Internet del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XVII. Llevar un registro y resguardo de los convenios, acuerdos de coordinación y, en general, instrumentos jurídicos que el Instituto celebre en el ámbito de sus atribuciones, con excepción de los relativos a las contrataciones públicas a que se refiere la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y
+
+XVIII. Conocer, dentro del ámbito de su competencia, los requerimientos efectuados al Instituto por la Auditoría Superior de la Federación y otras entidades fiscalizadoras y coordinar lo necesario para su atención con las unidades administrativas del Instituto, así como suscribir conjuntamente con éstas, los documentos con los que se dé atención a dichos requerimientos.
+
+> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 26.
 
 Corresponde al titular de la Dirección General Adjunta de Administración, el ejercicio de las atribuciones siguientes:
 
-I. Elaborar y aplicar políticas y lineamientos en materia de administración de personal, recursos materiales, adquisiciones y expedientes documentales o Libros Blancos del Instituto;
+I. Elaborar y aplicar políticas y lineamientos en materia de recursos materiales, adquisiciones y expedientes documentales o Libros Blancos del Instituto;
 
-II. Elaborar y aplicar las políticas y procesos de reclutamiento, selección, contratación, movimientos, compensación, administración del desempeño, sanciones y bajas de personal, así como rescindir o cesar la relación del trabajo del Instituto con sus trabajadores;
+II. Efectuar el pago de las remuneraciones al personal del Instituto y la aplicación de descuentos y retenciones autorizadas conforme a la normativa aplicable; efectuar los pagos que se deriven por concepto de seguridad social, impuestos y seguros, entre otros, relativos al personal del Instituto, y llevar a cabo la suspensión de pago, de conformidad con las incidencias que le remita la Dirección General Adjunta de Recursos Humanos;
 
-III. Tramitar los nombramientos y movimientos de personal y resolver, conforme a la legislación aplicable, los casos de terminación de sus efectos, así como imponer las medidas disciplinarias y sanciones administrativas previstas en las disposiciones aplicables;
+III. Integrar y desarrollar en el ámbito de su competencia los programas y acciones institucionales en materia de modernización, innovación, transparencia, simplificación y productividad que establezcan las autoridades correspondientes;
 
-IV. Celebrar cualquier tipo de convenio, en representación del Instituto en su calidad de patrón, con sus trabajadores;
+IV. Integrar y administrar la ejecución del programa anual de adquisiciones, arrendamientos y servicios y de obra pública del Instituto, así como operar el registro, asignación, afectación, baja y destino final de los bienes muebles e inmuebles al servicio del Instituto;
 
-V. Efectuar el pago de las remuneraciones al personal del Instituto y la aplicación de descuentos y retenciones autorizadas conforme a la normativa aplicable; efectuar los pagos que se deriven por concepto de seguridad social, impuestos y seguros, entre otros, relativos al personal del Instituto, y determinar la suspensión de pago;
+V. Suscribir, en representación del Instituto, los documentos, convenios, pedidos y contratos relativos a las adquisiciones, arrendamientos y servicios del Instituto, y demás instrumentos relacionados con dichos bienes, así como a la realización de obra pública y aseguramiento de bienes, y llevar el control de los mismos;
+
+VI. Rescindir los contratos y demás documentos a que se refiere la fracción inmediata anterior, celebrados en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+VII. Coordinar, en el ámbito de su competencia y a solicitud de las unidades administrativas correspondientes, la celebración de conferencias, congresos y seminarios;
+
+VIII. Actualizar e implementar, conforme a las disposiciones aplicables, las acciones relativas a los recursos materiales, financieros, servicios generales y control interno;
+
+IX. Elaborar, emitir y aplicar los lineamientos y las normas para regular la utilización de los bienes muebles e inmuebles, así como para su conservación, mantenimiento y aprovechamiento para el servicio del Instituto;
+
+X. Implementar las actividades correspondientes en materia de seguridad y protección civil, conforme a la normativa vigente;
+
+XI. Compilar el ejemplar de la memoria a que se refiere el artículo 66 de la Ley y proveerlo a las unidades administrativas competentes para su envío al Ejecutivo Federal en los términos de dicha disposición;
+
+XII. Coordinar la integración, resguardo y consulta de información de los expedientes documentales o Libros Blancos de cada una de las operaciones establecidas en la normativa aplicable al Instituto, así como de aquellos que se requieran integrar a solicitud de la Junta de Gobierno, el Secretario Ejecutivo o los Secretarios Adjuntos, en coordinación con las unidades administrativas ejecutoras;
+
+XIII. Coordinar a las unidades administrativas del Instituto para la adecuada organización y funcionamiento de sus archivos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás normativa aplicable;
+
+XIV. Proporcionar, en coordinación con la Dirección General Adjunta de Presupuesto y Contabilidad, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto, y
+
+XV. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local.
+
+> <small>(ADICIONADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 26 Bis.
+
+Corresponde al titular de la Dirección General Adjunta de Recursos Humanos, el ejercicio de las atribuciones siguientes:
+
+I. Elaborar y aplicar las políticas, lineamientos y procesos de reclutamiento, selección, contratación, movimientos, administración del desempeño, sanciones, bajas de personal y demás procesos en materia de administración de personal, así como rescindir o cesar la relación del trabajo del Instituto con sus trabajadores;
+
+II. Tramitar los nombramientos y movimientos de personal y resolver, conforme a la legislación aplicable, los casos de terminación de sus efectos, así como imponer las medidas disciplinarias y sanciones administrativas previstas en las disposiciones aplicables;
+
+III. Celebrar cualquier tipo de convenio, en representación del Instituto en su calidad de patrón, con sus trabajadores;
+
+IV. Celebrar, en representación del Instituto, contratos o convenios con institutos, universidades, escuelas, asociaciones, colegios, personas físicas y personas morales para los cursos, programas, asesorías, seminarios y lo relativo a la capacitación y desarrollo del personal y de beneficios a los trabajadores del Instituto;
+
+V. Para efectos del pago de las remuneraciones al personal del Instituto y la aplicación de descuentos y retenciones autorizadas conforme a la normativa aplicable, enviar las incidencias correspondientes a la Dirección General Adjunta de Administración, relativos al personal del Instituto, y determinar la suspensión de pago;
 
 VI. Coordinar la elaboración y modificaciones de las condiciones generales de trabajo que rigen las relaciones laborales del Instituto, para ser aprobadas por la Junta de Gobierno, e implementar y vigilar su cumplimiento y actualización, así como representar a éste ante las autoridades del trabajo y en materia de seguridad social, sin perjuicio de las atribuciones conferidas a otras unidades administrativas;
 
@@ -877,37 +1003,13 @@ VII. Integrar y operar el servicio profesional de carrera, así como el programa
 
 VIII. Controlar, proponer y actualizar las estructuras orgánicas del Instituto, vigilar que sus unidades administrativas se ajusten a las mismas y registrar sus modificaciones aprobadas ante las dependencias rectoras en la materia;
 
-IX. Fomentar la participación del personal en eventos culturales, deportivos y sociales;
+IX. Fomentar y coordinar la participación del personal en eventos de capacitación, culturales, deportivos y sociales;
 
-X. Integrar y desarrollar los programas y acciones institucionales en materia de modernización, innovación, transparencia, simplificación y productividad que establezcan las autoridades correspondientes;
+X. Integrar y desarrollar los programas y acciones institucionales de recursos humanos que establezcan las autoridades correspondientes;
 
-XI. Integrar y administrar la ejecución del programa anual de adquisiciones, arrendamientos y servicios y de obra pública del Instituto, así como operar el registro, asignación, afectación, baja y destino final de los bienes muebles e inmuebles al servicio del Instituto;
+XI. Desarrollar e implementar programas que permitan mejorar el clima organizacional, fomentar los valores y la retención del talento y capital humano del Instituto, y
 
-XII. Suscribir, en representación del Instituto, los documentos, convenios, pedidos y contratos relativos a las adquisiciones, arrendamientos y servicios del Instituto, así como a la realización de obra pública y aseguramiento de bienes, y llevar el control de los mismos;
-
-XIII. Rescindir los contratos y demás documentos a que se refiere la fracción inmediata anterior, celebrados en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
-
-XIV. Coordinar, en el ámbito de su competencia y a solicitud de las unidades administrativas correspondientes, la celebración de conferencias, congresos y seminarios;
-
-XV. Actualizar e implementar, conforme a las disposiciones aplicables, las acciones relativas a los recursos humanos, materiales, financieros, servicios generales, capacitación y desarrollo de personal y control interno;
-
-XVI. Elaborar, emitir y aplicar los lineamientos y las normas para regular la utilización de los bienes muebles e inmuebles, así como para su conservación, mantenimiento y aprovechamiento para el servicio del Instituto;
-
-XVII. Implementar las actividades correspondientes en materia de seguridad y protección civil, conforme a la normativa vigente;
-
-XVIII. Compilar el ejemplar de la memoria a que se refiere el artículo 66 de la Ley y proveerlo a las unidades administrativas competentes para su envío al Ejecutivo Federal en los términos de dicha disposición;
-
-XIX. Coordinar la integración, resguardo y consulta de información de los expedientes documentales o Libros Blancos de cada una de las operaciones establecidas en la normativa aplicable al Instituto, así como de aquellos que se requieran integrar a solicitud de la Junta de Gobierno, el Secretario Ejecutivo o los Secretarios Adjuntos, en coordinación con las unidades administrativas ejecutoras;
-
-XX. Coordinar a las unidades administrativas del Instituto para la adecuada organización y funcionamiento de sus archivos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás normativa aplicable;
-
-XXI. Proporcionar, en coordinación con la Dirección General Adjunta de Presupuesto y Contabilidad, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto;
-
-XXII. Desarrollar e implementar programas que permitan mejorar el clima organizacional, fomentar los valores y la retención del talento y del capital humano del Instituto;
-
-XXIII. Implementar la suscripción de acuerdos de coordinación con el Banco de México o la Comisión Nacional Bancaria y de Valores para que personal de esas instancias preste temporalmente sus servicios al Instituto en términos de lo dispuesto en el artículo 149 de la Ley de Instituciones de Crédito, y
-
-XXIV. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local.
+XII. Implementar la suscripción de acuerdos de coordinación con el Banco de México o la Comisión Nacional Bancaria y de Valores para que personal de esas instancias preste temporalmente sus servicios al Instituto en términos de lo dispuesto en el artículo 149 de la Ley de Instituciones de Crédito.
 
 ###### ARTÍCULO 27.
 
@@ -945,7 +1047,9 @@ XV. Participar, en el ámbito de su competencia, en el registro de la contabilid
 
 XVI. Proporcionar, en coordinación con la Dirección General Adjunta de Administración, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto, y
 
-XVII. Establecer, conforme a las disposiciones aplicables, los mecanismos y consideraciones para la comprobación del gasto de administración, así como para la glosa, guarda y custodia de la documentación comprobatoria de dicho gasto.
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XVII. Establecer, conforme a las disposiciones aplicables y en coordinación con la Dirección General Adjunta de Administración, en el ámbito de sus competencias, los mecanismos para la comprobación del gasto de administración, así como para la glosa, guarda y custodia de la documentación comprobatoria de dicho gasto.
 
 ###### ARTÍCULO 28.
 
@@ -987,21 +1091,29 @@ XVII. Coordinar la preparación y el desarrollo de simulacros de resoluciones ba
 
 XVIII. Participar con la Dirección General de Resoluciones Bancarias en las actividades vinculadas con los simulacros de ejecución de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponde al titular de la Dirección General de Comunicación Social, el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Dirección General de Comunicación Social y Relaciones Institucionales, el ejercicio de las atribuciones siguientes:
 
-I. Coordinar las actividades en materia de comunicación social del Instituto, así como diseñar la estrategia y los programas correspondientes, así como llevar a cabo su implementación en términos de la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+I. Coordinar las actividades en materia de comunicación social del Instituto, diseñar la estrategia y los programas correspondientes, así como llevar a cabo su implementación en términos de la normatividad aplicable;
 
 II. Coordinar la divulgación a través de medios de comunicación de los contenidos informativos y noticiosos generados por las unidades administrativas;
 
 III. Coordinar las publicaciones que corresponda efectuar al Instituto en medios de comunicación conforme a las disposiciones aplicables;
 
-IV. Elaborar, con la participación de las unidades administrativas competentes del Instituto, los comunicados de prensa que informen sobre las tareas del Instituto y de sus servidores públicos, así como instrumentar su difusión;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+IV. Elaborar, con la participación de las unidades administrativas competentes del Instituto, los comunicados de prensa, así como instrumentar su difusión;
 
 V. Organizar y dar seguimiento a las conferencias de prensa y las entrevistas para medios y empresas de comunicación;
 
-VI. Diseñar y coordinar los contenidos de la página de Internet y otras aplicaciones del Instituto con base en la información y actualizaciones que generen las unidades administrativas;
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+VI. Diseñar y coordinar los contenidos de la página de Internet e Intranet institucional y otras aplicaciones del Instituto con base en la información y actualizaciones que generen las unidades administrativas;
 
 VII. Realizar el seguimiento a la información difundida en medios de comunicación sobre los temas de interés para el Instituto, con la finalidad de mantener informados a los servidores públicos del Instituto;
 
@@ -1017,9 +1129,25 @@ XII. Coordinar, en el ámbito de su competencia, la participación de servidores
 
 XIII. Coordinar la participación del Instituto en materia de Educación Financiera relativa al seguro de depósitos;
 
-XIV. Llevar a cabo, a solicitud de la Dirección General Jurídica de lo Contencioso, en términos de los lineamientos a que se refieren los artículos 94 de la Ley y 109 Bis 8 de la Ley de Instituciones de Crédito, la publicación en el portal de internet del Instituto de la información a que dichos preceptos se refieren, y
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XV. Realizar, a solicitud de la Secretaría de Hacienda y Crédito Público, la publicación en el portal de internet del Instituto de la información a que se refiere el artículo 280 de la Ley de Instituciones de Crédito.
+XIV. Llevar a cabo, a solicitud de la Dirección General Jurídica de lo Contencioso, en términos de los lineamientos a que se refieren los artículos 94 de la Ley y 109 Bis 8 de la Ley de Instituciones de Crédito, la publicación en el portal de Internet del Instituto de la información a que dichos preceptos se refieren;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XV. Realizar, a solicitud de la Secretaría de Hacienda y Crédito Público, la publicación en el portal de Internet del Instituto de la información a que se refiere el artículo 280 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XVI. Coordinar las actividades de comunicación interna del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XVII. Llevar a cabo análisis de información y brindar apoyo a los servidores públicos del Instituto para la atención a los medios de comunicación, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
+XVIII. Elaborar, en coordinación con las unidades administrativas del Instituto, materiales de información sobre el objeto y fines del Instituto para su difusión a través de medios de comunicación, conforme a la normativa aplicable.” (sic)
 
 ###### ARTÍCULO 30.
 
@@ -1112,3 +1240,21 @@ SEXTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineam
 SÉPTIMO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
 
 México, D.F., a 19 de marzo de 2014.- El Secretario Ejecutivo, Lorenzo J. Meade Kuribreña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE FEBRERO DE 2015.
+
+PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procesos de liquidación y concurso mercantil que actualmente se encuentran en proceso y que hayan iniciado previo al 27 de marzo de 2014, continuarán su trámite y corresponderá a la Dirección General de Resoluciones Bancarias su supervisión, así como el desempeño del apoderado liquidador o apoderado síndico, tratándose de procesos conducidos mediante terceros apoderados por el Instituto, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías externas que, en su caso, se practiquen, coordinando para ello la participación de las Direcciones Generales de Finanzas, Administración y Seguimiento de Activos, Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes.
+
+Asimismo corresponderá a la Dirección General de Resoluciones Bancarias ejercer las funciones del Instituto en su carácter de liquidador o síndico de las Instituciones a que se refiere el párrafo anterior, en los casos en que no exista un tercero contratado para ello, coordinando la participación de las Direcciones Generales de Finanzas, Administración y Seguimiento de Activos, Jurídica de Protección al Ahorro, Jurídica de lo Contencioso y Adjunta de Presupuesto y Contabilidad, así como las demás unidades administrativas competentes.
+
+TERCERO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor del presente Acuerdo y que, conforme a éste, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones abrogadas, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+CUARTO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Acuerdo, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose de conformidad con el ámbito de facultades que a cada una corresponda.
+
+QUINTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación o ajustan sus atribuciones, por virtud de la expedición del presente Acuerdo, se entenderán hechas o conferidas a las unidades administrativas o áreas que asuman dichas atribuciones conforme a lo establecido en este ordenamiento. Sin perjuicio de lo anterior, los lineamientos, acuerdos, reglas y demás disposiciones expedidas por el Instituto deberán ajustarse, en lo conducente, a lo dispuesto en el presente Acuerdo.
+
+SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
