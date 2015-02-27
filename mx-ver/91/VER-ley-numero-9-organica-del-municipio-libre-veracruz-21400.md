@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2014-12-30"
+last_updated: "2015-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 9 ORGANICA DEL MUNICIPIO LIBRE, VERACRUZ
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MARZO DE 2015 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -423,6 +425,10 @@ XX. Sujetarse, en las relaciones con sus trabajadores, a las leyes que en esta m
 
 El nombramiento de los trabajadores de confianza únicamente surtirá efectos legales durante el periodo constitucional que corresponda al ayuntamiento que los designó o contrató, salvo que cualquiera de las partes decida dar por terminado el nombramiento o designación anticipadamente; y sin la obligación ni responsabilidad de ninguna índole de ser contratado por el ayuntamiento o el presidente municipal entrante. Al presentar el presupuesto del último año de ejercicio constitucional deberán contemplarse los recursos necesarios para dar cumplimiento a las obligaciones de Ley.
 
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2015)</small>
+
+Cada Ayuntamiento clasificará los puestos de confianza conforme a sus propios catálogos generales de puestos que establezcan dentro de su régimen interno, así como, al momento de iniciar cada administración o contratar al trabajador de confianza, deberá expedir a éste un nombramiento en el que se especifique el cargo que deberá desempeñar de acuerdo con la clasificación que indique el catálogo de puestos correspondiente, señalando claramente las causales del término del nombramiento, tal como lo menciona el párrafo anterior.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
@@ -527,13 +533,13 @@ XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito de
 
 XLVIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; y
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
 
-XLIX. Aprobar el padrón regional de contratistas de acuerdo al registro de la Secretaría de Finanzas y Planeación, para los casos de contratación de obra por adjudicación directa y por invitación restringida, propuesto por la comisión municipal de Comunicaciones y Obras Públicas;
+XLIX. Determinar y expedir los indicadores de desempeño; y
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 27 DE FEBRERO DE 2015)</small>
 
-L. Las demás que expresamente señalen la Constitución local, esta ley y demás leyes del Estado.
+L. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
 ### CAPÍTULO V. DEL SÍNDICO
 
@@ -609,9 +615,13 @@ XXV. Tener bajo su mando al personal que preste en el Municipio el Servicio Púb
 
 XXVI. Proponer al Cabildo a la persona que ejercerá las funciones de Cronista Municipal, misma que deberá cumplir los requisitos que establece esta Ley; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
 
-XXVII. Las demás que expresamente le confieran esta Ley y las demás leyes del Estado.
+XXVII. Vigilar y cumplir el uso de indicadores de desempeño; y
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XXVIII. Las demás que expresamente le confieran esta Ley y demás leyes del Estado.
 
 ### CAPÍTULO VI. DE LOS REGIDORES
 
@@ -681,9 +691,11 @@ VIII. Las demás que expresamente le confieran esta ley y demás leyes del Estad
 
 Las Comisiones Municipales son órganos que se integran por Ediles con el propósito de contribuir a cuidar y vigilar el correcto funcionamiento del Ayuntamiento, en la prestación de los servicios públicos municipales, así como de las dependencias, pudiendo, en su caso, proponer el nombramiento, suspensión o remoción de sus empleados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 40.
 
-El Ayuntamiento tendrá las Comisiones Municipales siguientes:
+El Ayuntamiento tendrá las comisiones Municipales siguientes:
 
 I. Hacienda y Patrimonio Municipal;
 
@@ -752,6 +764,10 @@ XXIII. De Protección Civil.
 > <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 XXIV. Desarrollo Social, Humano y Regional.
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XXV. Desempeño.
 
 ###### Artículo 41.
 
@@ -1257,6 +1273,18 @@ VIII. Impulsar la prestación de servicios públicos, prioritariamente en las co
 
 IX. Las demás que expresamente le señalen esta Ley y las demás Leyes aplicables.
 
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2015)</small>
+
+Artículo 60 decies. Son atribuciones de la Comisión de Desempeño:
+
+I. Participar en la elaboración de los indicadores de desempeño;
+
+II. Proponer al Ayuntamiento los mecanismos de control y seguimiento en los indicadores de desempeño;
+
+III. Vigilar el turno de los indicadores de desempeño a las instancias competentes; y
+
+IV. Las demás que expresamente le señalen esta Ley y demás leyes aplicables.
+
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
 ###### Artículo 61.
@@ -1583,7 +1611,13 @@ XXII. Abstenerse de entregar documento original alguno que pertenezca al archivo
 
 XXIII. Expedir copias certificadas de los documentos que obren en sus archivos; y
 
-XXIV. Las demás que expresamente le otorguen esta ley y demás leyes del Estado.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XXIV. Cumplir con los indicadores de desempeño del ámbito de su competencia y turnarlos a los órganos de control y autoridad competente; y
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XXV. Las demás que expresamente le confieran esta Ley y otras aplicables.
 
 ###### Artículo 73.
 
@@ -3576,3 +3610,19 @@ Primero. Se autoriza al Honorable Ayuntamiento de Medellín, a que declare ofici
 Segundo. Comuníquese el presente Decreto a los ciudadanos Gobernador del Estado, Presidente del Honorable Tribunal Superior de Justicia, Director del Instituto Nacional de Estadística y Geografía, Presidenta del Consejo General del Instituto Electoral Veracruzano, al Órgano de Fiscalización Superior del Estado y al Honorable Ayuntamiento de Medellín, Veracruz de Ignacio de la Llave, para los efectos legales procedentes.
 
 Tercero. Publíquese el presente Decreto en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 27 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 543, POR EL QUE SE REFORMAN LAS FRACCIONES XLIX DEL ARTÍCULO 35; XXVII DEL ARTÍCULO 36 Y XXIV DEL ARTÍCULO 72; Y SE ADICIONAN LAS FRACCIONES L DEL ARTÍCULO 35, XXVIII DEL ARTÍCULO 36, XXV DEL ARTÍCULO 40, EL ARTÍCULO 60 DECIES Y LA FRACCIÓN XXV DEL ARTÍCULO 72, TODOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE VERACRUZ.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 544, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN XX, DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
