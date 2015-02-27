@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2014-del-pleno-del-consejo-de-la-101078"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-05-30"
-last_updated: "2014-08-25"
+last_updated: "2015-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101078&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-05-23"
 
 ACUERDO GENERAL 11/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL ACUERDO GENERAL 8/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO, PUBLICADO EN EL D.O.F. DE 27 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1 DE MARZO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de mayo de 2014.
 
@@ -387,7 +389,7 @@ El engrose de la resolución emitida por el Pleno deberá realizarse dentro de l
 
 Además de las facultades que señala la legislación respectiva, los Plenos conocerán:
 
-I. De las excusas o impedimentos de los magistrados en asuntos competencia (sic) del Pleno.
+I. De las excusas o impedimentos de los magistrados en asuntos competencia del Pleno.
 
 II. Del returno, con motivo de un proyecto retirado, así como de una licencia o ausencia; y
 
@@ -524,3 +526,15 @@ SEGUNDO. El presente acuerdo general entrará en vigor el día siguiente de su a
 El Pleno de Circuito en Materia Administrativa Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones iniciará funciones el 16 de agosto de 2014.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar de inmediato el texto de la reforma al Acuerdo General 11/2014 del Pleno del Consejo de la Judicatura Federal.
+
+D.O.F. 27 DE FEBRERO DE 2015.
+
+PRIMERO. El presente acuerdo general entrará en vigor el 1° de marzo de 2015.
+
+SEGUNDO. Se abroga el Acuerdo General 11/2014, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, publicado en el Diario Oficial de la Federación de fecha treinta de mayo de dos mil catorce.
+
+TERCERO. Los Plenos de Circuito deberán ajustar su integración de conformidad con lo previsto en el presente Acuerdo General, a más tardar dentro del mes siguiente al día de la entrada en vigor, con excepción del Segundo Circuito, respecto del cual se contará con 60 días naturales para modificar su integración, con objeto de dar cumplimiento a lo previsto en el artículo 9° del presente Acuerdo.
+
+CUARTO. Derivado de lo dispuesto en el artículo anterior, por única ocasión esa nueva integración de los Plenos de Circuito tendrá un periodo de abril a diciembre de 2015, toda vez que a partir del 2016 será por año calendario.
+
+QUINTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
