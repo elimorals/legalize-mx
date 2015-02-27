@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-estatal-del-servicio-civil-de-veracruz-6719"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-04"
-last_updated: "2014-08-12"
+last_updated: "2015-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 364 ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MARZO DE 2015 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 
@@ -93,19 +95,25 @@ V.- Los Agentes y Secretarios del Ministerio Público, de la Policía Judicial y
 
 VI.- En el Poder Legislativo y en el Poder Judicial, todas las categorías y cargos que con clasificación de confianza consigne el catálogo de empleos respectivo para cada uno de esos Poderes.
 
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+VII. El personal que con ese carácter se integre a los Ayuntamientos en cada administración, que se encuentre supeditado a las actividades y cargo que se le confiera en su nombramiento de acuerdo con el catálogo de puestos respectivo.
+
 Los trabajadores de confianza gozarán de las medidas de protección al salario y los beneficios de la seguridad social.
 
 ###### ARTICULO 8°
 
 Son trabajadores de base aquellos que no están comprendidos en el artículo anterior.
 
-###### ARTICULO 9°
+###### ARTICULO 9°.
 
 Al crearse categorías o cargos no comprendidos en el artículo 7º, la clasificación de base o de confianza que les corresponda, se determinará expresamente por la disposición legal que formalice su creación.
 
 La clasificación de los puestos de confianza en las Entidades Públicas, atendiendo a lo dispuesto en el artículo 7°, formará parte de su catálogo de puestos.
 
-Los trabajadores de las Entidades Públicas se clasificarán conforme a sus propios catálogos generales de puestos que establezcan dentro de su régimen interno, de conformidad con los lineamientos de esta Ley; en la formulación y actualización de los catálogos de puestos se escuchará la opinión de los sindicatos respectivos.
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2015)</small>
+
+Los trabajadores de las Entidades Públicas se clasificarán conforme a sus propios catálogos generales de puestos que establezcan dentro de su régimen interno, de conformidad con los lineamientos de esta Ley; dichas entidades públicas están obligadas a formular y actualizar anualmente sus catálogos de puestos, para lo que se escuchará la opinión de los sindicatos respectivos.
 
 ###### ARTICULO 10.
 
@@ -319,7 +327,19 @@ XIII.- Pagar a los trabajadores los salarios que dejaron de percibir, cuando sea
 
 XIV.- Pagar a los trabajadores los salarios que dejen de percibir, cuando sean privados de su libertad por la supuesta comisión de delitos que la propia Entidad Pública les haya imputado, cuando demuestren en forma indubitable su inocencia; y
 
-XV.- Las demás que disponga esta Ley.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XV.- En el caso de las entidades municipales, éstas deberán notificar, cuando sea el caso, el término de la relación laboral de los trabajadores, de conformidad con lo que establece la ley en la materia.
+
+El procedimiento descrito en esta fracción deberá iniciarse el día treinta de noviembre, del último año de ejercicio de administración del ayuntamiento correspondiente.
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XVI.- Fijar en sus presupuestos de egresos las cantidades destinadas para el pago de indemnizaciones laborales; y
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XVII.- Las demás que disponga esta Ley.
 
 ### CAPITULO III. De la Suspensión de los Efectos del Nombramiento
 
@@ -441,9 +461,11 @@ El levantamiento del acta no se suspenderá por la inasistencia del trabajador, 
 
 Cuando en el acta circunstanciada aparezcan elementos que hagan presumir que son ciertos los actos imputados al trabajador, el funcionario autorizado para ello, podrá dar por terminados los efectos del nombramiento, comunicándolo al afectado por escrito, al que se acompañará copia del acta de referencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 43.
 
-Si durante el juicio que se siga, no se prueba la causa de un cese, el trabajador tendrá derecho, a su elección, a que se le indemnice con el importe de tres meses de salario o que se le reinstale en el puesto que desempeñaba y, en ambos casos, tendrá derecho al pago de los salarios vencidos desde la fecha de la separación hasta que se cumplimente en definitiva el laudo pronunciado.
+Si durante el juicio que se siga, no se prueba la causa de un cese, el trabajador de base tendrá derecho, a su elección, a que se le indemnice con el importe de tres meses de salario o que se le reinstale en el puesto que desempeñaba y, en ambos casos, tendrá derecho al pago de salarios vencidos computados desde la fecha del despido hasta por un periodo máximo de doce meses.
 
 El trabajador que ocupe la plaza del cesado, tendrá el carácter de interino hasta que no se decida en definitiva el juicio correspondiente. De reinstalarse el trabajador, el interino tendrá que dejar la plaza, sin responsabilidad para la Entidad Pública regresando, en su caso, a su plaza original.
 
@@ -1421,6 +1443,16 @@ Los titulares de las Entidades Públicas podrán nombrar representantes para que
 
 En los juicios promovidos en contra del Poder Ejecutivo, los titulares de las dependencias que, conforme a la Ley de la Administración Pública Estatal actúan como sus auxiliares, tendrán; también la facultad de nombrar representantes legales, en relación con los conflictos laborales que se generen con los trabajadores que presten servicios en sus respectivas Dependencias.
 
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2015)</small>
+
+Tratándose de apoderado de la parte actora, la personalidad se acreditará conforme a las siguientes reglas:
+
+I. Los abogados patronos o asesores legales deberán acreditar ser abogados o licenciados en derecho con cédula profesional o personas que cuenten con carta de pasante vigente, expedida por autoridad competente para ejercer dicha profesión. Sólo se podrá autorizar a otras personas para oír notificaciones y recibir documentos, pero éstos no podrán comparecer en las audiencias ni efectuar promoción alguna;
+
+II. El compareciente podrá acreditar su personalidad mediante testimonio notarial o carta poder otorgada ante dos testigos;
+
+III. Tratándose de los sindicatos, éstos acreditarán su personalidad con la acreditación que les extienda la autoridad registradora correspondiente, de haber quedado inscrita la directiva del sindicato. También podrán comparecer por conducto de apoderado legal, quien en todos los casos deberá ser abogado, licenciado en derecho o pasante, previa comprobación de que quien le otorgue el poder tiene facultades para ello.
+
 ###### ARTICULO 192.
 
 El Tribunal Estatal de Conciliación y Arbitraje o las Salas Especiales Arbitrales en su caso, de oficio deberán declararse incompetentes en cualquier estado del proceso, cuando existan en el expediente elementos que lo justifiquen.
@@ -1468,6 +1500,10 @@ III.- Arresto hasta por treinta y seis horas.
 ###### ARTICULO 199.
 
 Las correcciones disciplinarias y medios de apremio se impondrán de plano, sin sustanciación alguna y deberán estar fundadas y motivadas.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2015)</small>
+
+A los abogados, litigantes o representantes de las partes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se les impondrá una multa de cien a un mil veces el salario mínimo general vigente en la capital del Estado.
 
 ###### ARTICULO 200.
 
@@ -1625,9 +1661,11 @@ VI.- Las razones legales o de equidad, la jurisprudencia y doctrina que le sirva
 
 VII.- Los puntos resolutivos.
 
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 221.
 
-Los laudos se dictarán a verdad saziba (sic) y buena fe guardada apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismo sobre estimación de las pruebas, pero expresarán los motivos y fundamentos legales en que se apoyen.
+Los laudos se dictarán a verdad sabida y buena fe guardada, apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismo sobre estimación de las pruebas, pero expresarán los motivos y fundamentos legales en que se apoyen, y se emitirán a más tardar en doce meses, a partir del auto de inicio, siempre y cuando las actuaciones procesales lo permitan.
 
 ###### ARTICULO 222.
 
@@ -1732,5 +1770,11 @@ Tercero. Para efectos de lo dispuesto en el Artículo Tercero del presente Decre
 G.O. 12 DE AGOSTO DE 2014.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE FEBRERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
