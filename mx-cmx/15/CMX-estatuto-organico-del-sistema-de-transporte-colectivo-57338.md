@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-57338"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-11-06"
-last_updated: "2014-08-27"
+last_updated: "2015-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57338&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,9 +21,7 @@ scjn_last_update: "2024-09-17"
 
 ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ABRIL DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 27 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE FEBRERO DE 2015.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el martes 6 de noviembre de 2007.
 
@@ -175,9 +173,11 @@ El Consejo de Administración como Órgano de Gobierno de la Entidad tiene a su 
 
 Con fundamento en el artículo 50 de la Ley, el Consejo de Administración estará integrado por no menos de cinco ni más de quince miembros propietarios designados por el Jefe de Gobierno del Distrito Federal, y de sus respectivos suplentes. El Consejo de Administración de acuerdo a la estructura antes mencionada estará integrado mayoritariamente por servidores públicos de la Administración Pública del Distrito Federal, sin que en ningún caso existan regímenes especiales de voto que afecten la capacidad de decisión de dichos servidores públicos, tal y como se dispone por el artículo 46 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 7º.
 
-En cumplimiento a los preceptos antes invocados, el Consejo de Administración se integrará con los siguientes miembros propietarios de la Administración Pública Centralizada: El titular de la Secretaría de Transportes y Vialidad, quién será el Presidente del Consejo de Administración, o bien, la persona que éste designe para tal efecto; el titular de la Secretaría de Gobierno; el titular de la Secretaría de Finanzas; el titular de la Secretaría de Obras y Servicios; el titular de la Oficialía Mayor; de la Administración Pública Paraestatal: los titulares de los Organismos Públicos Descentralizados denominados Servicio de Transportes Eléctricos del Distrito Federal; y Red de Transporte de Pasajeros del Distrito Federal. Por parte de la Administración Pública Federal: el Secretario de Comunicaciones y Transportes o la persona que éste designe; el titular del Banco Nacional de Obras y Servicios Públicos S.N.C. o las personas que él designe; y el representante o representantes del Gobierno del Estado de México que en ejercicio de la soberanía de dicha Entidad Federativa designe el Gobierno de la misma.
+En cumplimiento a los preceptos antes invocados, el Consejo de Administración se integrará con los siguientes miembros propietarios de la Administración Pública Centralizada: El titular de la Secretaría de Movilidad, quién será el Presidente del Consejo de Administración, o bien, la persona que éste designe para tal efecto; el titular de la Secretaría de Gobierno; el titular de la Secretaría de Finanzas; el titular de la Secretaría de Obras y Servicios; el titular de la Oficialía Mayor; de la Administración Pública Paraestatal: los titulares de los Organismos Públicos Descentralizados denominados Servicio de Transportes Eléctricos del Distrito Federal; y Red de Transporte de Pasajeros del Distrito Federal. Por parte de la Administración Pública Federal: el Secretario de Comunicaciones y Transportes o la persona que éste designe; el titular del Banco Nacional de Obras y Servicios Públicos S.N.C. o las personas que él designe; y el representante o representantes del Gobierno del Estado de México que en ejercicio de la soberanía de dicha Entidad Federativa designe el Gobierno de la misma.
 
 Como órgano de vigilancia habrá un comisario público propietario y un suplente designado por la Contraloría General del Distrito Federal, de conformidad con el artículo 72 de la Ley, con voz pero sin voto, quienes evaluarán el desempeño general y por funciones del Organismo, para lo cual tendrá las atribuciones que le conceden las leyes, reglamentos y demás disposiciones administrativas vigentes.
 
@@ -241,7 +241,9 @@ XVII.- Aprobar los programas institucionales de acuerdo con lo establecido en la
 
 XVIII.- Dictar los acuerdos y resoluciones que resulten necesarios para preservar la prestación del servicio;
 
-XIX.- Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Secretaría de Transportes y Vialidad;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+XIX.- Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Secretaría de Movilidad;
 
 XX.- Dictar los acuerdos procedentes para el desahogo de los puntos del orden del día que fue convocada la sesión correspondiente; y
 
@@ -645,7 +647,7 @@ XXVII.- Las demás que señalen las leyes, reglamentos, decretos, acuerdos y otr
 
 Corresponde a la Dirección de Medios las siguientes facultades y obligaciones:
 
-I.- Someter a la aprobación de la Dirección General las estrategias de actualización y modernización de la vocación del STC (sic), en concordancia con los parámetros y objetivos de la administración del Gobierno del Distrito Federal;
+I.- Someter a la aprobación de la Dirección General las estrategias de actualización y modernización de la vocación del (sic) STC, en concordancia con los parámetros y objetivos de la administración del Gobierno del Distrito Federal;
 
 II.- Establecer sistemas de comunicación y coordinación de las diferentes dependencias del Sector Público e iniciativa privada, nacional e internacional a efecto de impulsar el crecimiento y modernización del Organismo;
 
@@ -1013,7 +1015,9 @@ III.- Integrar, procesar, administrar, sistematizar y evaluar mediante informes 
 
 IV.- Formular y coordinar la ejecución de los programas de recorridos y guardias permanentes en las estaciones, edificios y talleres del Organismo;
 
-V.- Vigilar el cumplimiento y observancia de las disposiciones contenidas en la Ordenanza emitida por la Asamblea Legislativa del Distrito Federal, la Ley de Transporte y Vialidad del Distrito Federal, y demás disposiciones aplicables, y en su caso, señalar a los infractores que sean sorprendidos en flagrancia ante los cuerpos policiales correspondientes, y éstos con la misma prontitud remitan a las autoridades competentes que procedan, aportando los elementos necesarios para la aplicación de las sanciones que correspondan;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
+
+V.- Vigilar el cumplimiento y observancia de las disposiciones contenidas en la Ordenanza emitida por la Asamblea Legislativa del Distrito Federal, la Ley de Movilidad del Distrito Federal, y demás disposiciones aplicables, y en su caso, señalar a los infractores que sean sorprendidos en flagrancia ante los cuerpos policiales correspondientes, y éstos con la misma prontitud remitan a las autoridades competentes que procedan, aportando los elementos necesarios para la aplicación de las sanciones que correspondan;
 
 VI.- Realizar las investigaciones administrativas que sean necesarias, para esclarecer las pérdidas o daños a los bienes del Sistema, y en su caso, a través de la Gerencia Jurídica presentar las denuncias o querellas que procedan;
 
@@ -1884,3 +1888,9 @@ G.O. 10 DE ABRIL DE 2014.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE FEBRERO DE 2015.
+
+Primero.- Las presentes modificaciones entrarán en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
