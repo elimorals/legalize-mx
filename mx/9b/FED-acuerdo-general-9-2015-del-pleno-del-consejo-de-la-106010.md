@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2015-del-pleno-del-consejo-de-la-106010"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-24"
-last_updated: "2015-02-24"
+last_updated: "2015-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106010&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-02-19"
 ---
 # ACUERDO GENERAL 9/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICION]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2015 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 9/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE FEBRERO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 24 de febrero de 2015.
 
@@ -217,9 +217,15 @@ EXCELENCIA. El juzgador se perfecciona cada día para desarrollar las siguientes
 
 1.17 Honestidad: Observa un comportamiento probo, recto y honrado.
 
+> <small>(F. DE E., D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+###### Artículo 3.
+
 En la convocatoria correspondiente, se deberá señalar con claridad las circunstancias anteriores, será publicada por una sola vez en el Diario Oficial de la Federación y por dos veces en uno de los diarios de mayor circulación nacional, con un intervalo de cinco días hábiles entre cada publicación y además será publicada digitalmente en la página web del Instituto de la Judicatura. (Art. 114, fracción I).
 
-Artículo 4 (SIC). Los requisitos que los aspirantes deben reunir al momento de la designación de acuerdo con el calendario en la convocatoria respectiva, son:
+###### Artículo 4.
+
+Los requisitos que los aspirantes deben reunir al momento de la designación de acuerdo con el calendario en la convocatoria respectiva, son:
 
 I. Los que establecen los artículos 108 y 113, párrafo segundo, de la Ley;
 
@@ -337,7 +343,9 @@ Los requisitos que deberá contener la convocatoria para los concursos internos 
 
 I. La especialidad, en su caso, de juez a la que se convoca a concurso;
 
-II. El número de plazas sujetas a concurso; la sede en la que tendrán lugar los exámenes respectivos y los concursos de inducción que al efecto prevea el Instituto o, en su caso, la precisión de cursos virtuales;
+> <small>(F. DE E., D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+II. El número de plazas sujetas a concurso; la sede en la que tendrán lugar los exámenes respectivos y los cursos de inducción que al efecto prevea el Instituto o, en su caso, la precisión de cursos virtuales;
 
 III. Los requisitos que deberán reunir los aspirantes a la fecha de la designación, conforme a los artículos 108 y 113, párrafo segundo, de la Ley, y los demás señalados en este Acuerdo;
 
