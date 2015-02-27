@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-cultura-fisica-y-deporte-100939
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-05-23"
-last_updated: "2014-05-23"
+last_updated: "2015-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100939&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-16"
 
 REGLAMENTO DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2015
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -47,7 +47,7 @@ I. Deportistas: las personas físicas que practiquen cualquier disciplina o espe
 
 II. Entrenadores: el grupo de personas físicas profesionistas, especialistas o con experiencia reconocida en el Deporte de Alto Rendimiento, en el entrenamiento, medicina, fisioterapia, psicología, nutrición, metodología, biomecánica e investigación del Deporte, responsables de la preparación y desarrollo integral de los Deportistas con la finalidad de obtener sus mejores logros y resultados en Eventos Deportivos;
 
-III. Evento Deportivo: acto, competencia, espectáculo, exhibición, función o representación deportiva organizada por una persona física o moral, en cualquier lugar y tiempo y a la que se convoca al público con fines de ocio, diversión, entretenimiento o recreación, en forma gratuita u onerosa;
+III. (DEROGADA, D.O.F. 27 DE FEBRERO DE 2015)
 
 IV. Programa: Programa Nacional de Cultura Física y Deporte, y
 
@@ -1369,7 +1369,9 @@ h) Tipo de sangre.
 
 En el caso de que los Deportistas salgan sorteados para control de dopaje dentro del conjunto de Eventos Deportivos a que se refiere el artículo 22 de este Reglamento, la cartilla de referencia será elaborada y entregada en el momento de la toma de muestras.
 
-### CAPÍTULO VII. De la Composición y Funcionamiento de la Comisión Especial Contra la Violencia en el Deporte
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VII. De la Composición y Funcionamiento de la Comisión Especial y de las Comisiones Locales Especiales
 
 ###### Artículo 105.
 
@@ -1387,25 +1389,55 @@ V. El Consejero Jurídico, que dará apoyo técnico jurídico al Pleno y al Cons
 
 El Secretario Ejecutivo y el Consejero Jurídico, serán servidores públicos de la CONADE designados por el Presidente del Consejo Directivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 106.
 
-El Pleno de la Comisión Especial estará integrado por los representantes de la CONADE, de los Órganos Estatales, del Distrito Federal y municipales de Cultura Física y Deporte, de las Asociaciones Deportivas Nacionales, del COM, de COPAME, de los CONDE, de las Ligas Profesionales y, en su caso, de las Comisiones Nacionales del Deporte Profesional existentes.
+El Pleno de la Comisión Especial estará integrado por:
 
-El Consejo Directivo se integra por:
+> <small>(REFORMADA, D.O.F. 27 DE FEBRERO DE 2015)</small>
 
-I. Un Presidente, quien convocará a las sesiones, con voz y voto de calidad en caso de empate en las votaciones;
+I. El Presidente;
 
-II. El Secretario Ejecutivo y el Consejero Jurídico, con voz y sin voto en las sesiones del mismo, y
+> <small>(REFORMADA, D.O.F. 27 DE FEBRERO DE 2015)</small>
 
-III. Ocho Vocales, con voz y voto en las sesiones, a saber:
+II. El Secretario Ejecutivo;
 
-a) Un representante del COM;
+> <small>(REFORMADA, D.O.F. 27 DE FEBRERO DE 2015)</small>
 
-b) Tres representantes seleccionados en el Pleno del SINADE de entre las dependencias y entidades de Cultura Física y Deporte de los Estados y el Distrito Federal, de conformidad con la regionalización que establezca dicha instancia colegiada;
+III. El Consejero Jurídico;
 
-c) Tres representantes de asociaciones deportivas nacionales. La participación de estas personas estará sujeta a la aceptación por parte de las mismas, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
 
-d) Un representante de las dependencias y entidades del sector público Federal propuestos por la Junta Directiva de la CONADE.
+IV. Dos representantes de la CONADE;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+V. Ocho representantes de los Órganos Estatales, del Distrito Federal y municipales de Cultura Física y Deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+VI. Ocho representantes de las Asociaciones Deportivas Nacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+VII. Un representante del COM;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+VIII. Un representante del COPAME;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+IX. Tres representantes de los CONDE;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+X. Dos representantes de las Ligas Profesionales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+XI. En su caso, por representantes de cada una de las Comisiones Nacionales del Deporte Profesional existentes.
 
 El procedimiento para la elección y nombramiento de los Vocales así como los lineamientos para el funcionamiento, tanto del Consejo Directivo como del Pleno, se establecerán en las normas emitidas por la propia Comisión Especial.
 
@@ -1422,6 +1454,48 @@ La Comisión Especial podrá contar con Comités de Apoyo Técnico, que desarrol
 ###### Artículo 109.
 
 La organización y funcionamiento de la Comisión Especial y las funciones de sus órganos y Comités de Apoyo Técnico, estarán regulados, en términos de lo dispuesto por el Reglamento Interno.
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+###### Artículo 109 Bis.
+
+Las Comisiones Locales Especiales a que se refiere el penúltimo párrafo del artículo 139 de la Ley contarán, como mínimo, con las instancias de dirección siguientes:
+
+I. Un pleno, que operará como la máxima instancia colegiada;
+
+II. Un consejo directivo, el cual se constituirá como la instancia de representación y de gobierno, con funciones de dirección, control, consulta, evaluación, seguimiento y cumplimiento de las acciones establecidas por el pleno, y
+
+III. El presidente del pleno y del consejo directivo, quien será el titular del órgano estatal o del Distrito Federal en materia de cultura física y deporte que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+###### Artículo 109 Ter.
+
+Las Comisiones Locales Especiales se integrarán por los representantes de:
+
+I. Los órganos de cultura física y deporte estatales, del Distrito Federal y municipales;
+
+II. Los equipos o clubes deportivos;
+
+III. Las ligas deportivas, y
+
+IV. Las asociaciones deportivas municipales, estatales o regionales.
+
+Dicha integración se hará en los términos que establezcan las leyes locales de la materia, así como las demás disposiciones locales aplicables.
+
+El consejo directivo se deberá integrar, como mínimo, por:
+
+I. Un presidente, quien convocará a las sesiones, con voz y voto de calidad en caso de empate en las votaciones, y
+
+II. Los vocales que establezcan las leyes locales de la materia y demás disposiciones locales aplicables.
+
+El procedimiento para la elección y nombramiento de los vocales así como los lineamientos para el funcionamiento, tanto del consejo directivo como del pleno, se establecerán en las normas que emitan las propias Comisiones Locales Especiales.
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2015)</small>
+
+###### Artículo 109 Quater.
+
+Las Comisiones Locales Especiales expedirán sus respectivos Reglamentos Internos de Operación, en los cuales se especificarán su funcionamiento colegiado y la creación y funciones de las instancias internas que en su caso determinen.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES, SANCIONES Y RECURSO DE INCONFORMIDAD
 
@@ -1842,3 +1916,9 @@ SÉPTIMO. Los formatos de inscripción y trámites a que se refiere este Reglame
 OCTAVO. La Comisión Nacional de Cultura Física y Deporte y la Comisión de Apelación y Arbitraje del Deporte realizarán las acciones y gestiones necesarias para que la implementación del presente Reglamento, se realice con los recursos aprobados en su presupuesto, por lo que no se requerirán de recursos adicionales.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Educación Pública, Emilio Chuayffet Chemor.- Rúbrica.- La Secretaria de Salud, María de las Mercedes Martha Juan López.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
