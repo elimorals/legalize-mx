@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-fomento-a-la-investigacion-25738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-20"
-last_updated: "2002-08-20"
+last_updated: "2015-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA, TECNOLOGICA Y A LA INNOVACION PARA EL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE LA LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA, TECNOLOGICA Y A LA INNOVACION PARA EL ESTADO DE GUANAJUATO
+REGLAMENTO DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de agosto de 2002.
 
@@ -514,3 +516,15 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE FEBRERO DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Fomento a la Investigación Científica, Tecnológica y a la Innovación para el Estado de Guanajuato, expedido mediante el Decreto Gubernativo número 125 publicado en el Periódico Oficial del Gobierno del Estado número 99, Segunda Parte, de fecha 20 de agosto de 2002.
