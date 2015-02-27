@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-de-cultura-fisica-y-deporte-del-estado-de-45187"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2005-06-10"
+last_updated: "2015-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 495 DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUERRERO
 
-LEY NUMERO 495, DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUERRERO
+LEY NÚMERO 495, DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 697 DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO, PUBLICADA EN EL P.O. DE 27 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 10 de junio de 2005.
 
@@ -846,3 +848,25 @@ El Secretario General de Gobierno.
 C. LIC. ARMANDO CHAVARRIA BARRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE FEBRERO DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley Número 495 de Cultura Física y Deporte del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado No. 47, de fecha viernes 10 de junio de 2005, y se derogan todas las disposiciones jurídicas que contravengan la presente Ley.
+
+TERCERO. El Reglamento y demás disposiciones reglamentarias a que se refiere esta Ley deberán expedirse dentro de los 180 días siguientes a la entrada en vigor de ésta.
+
+CUARTO. En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+QUINTO. El INDEG desarrollará las nuevas atribuciones que le confiere la presente Ley con los recursos humanos, financieros y materiales que se le asignen en el próximo Presupuesto de Egresos del Estado de Guerrero; mientras tanto el Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, proveerá lo necesario para el buen cumplimiento de estas nuevas atribuciones.
+
+SEXTO. La actualización y adecuaciones necesarias al Decreto Núm. 437 por el que se crea el Organismo Público Descentralizado “Instituto del Deporte de Guerrero”, se harán dentro de los 120 días siguientes a la entrada en vigor de esta Ley y deberán inscribirse en el Registro Público de Entidades Públicas.
+
+SÉPTIMO. La Comisión Estatal de Apelación y Arbitraje del Deporte se ajustará a los recursos humanos, financieros y materiales con los que cuenta actualmente. Respecto del periodo de duración del Presidente y Miembros Titulares que actualmente integran la CEAAD, éste se contabilizará a partir de la fecha en la que fueron designados.
+
+OCTAVO. Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley Número 495 de Cultura Física y Deporte del Estado de Guerrero, se tramitarán y resolverán conforme a las disposiciones de la Ley que se abroga.
+
+NOVENO. Para los efectos de la integración y actualización del Registro Estatal de Cultura Física y Deporte de conformidad con el artículo 29, fracción XVIII de esta Ley, las Asociaciones y Sociedades Deportivas estatales reconocidas en los términos de la anterior Ley, deberán acreditar en un plazo no mayor de 90 días naturales, que cumplen con lo dispuesto en el artículo 109 de esta Ley.
