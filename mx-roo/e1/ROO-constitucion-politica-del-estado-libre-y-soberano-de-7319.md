@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2014-10-15"
+last_updated: "2015-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -267,27 +267,41 @@ La correspondencia que bajo cualquier forma circule en el Estado, estaráexenta 
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de replica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2015)</small>
+
+El derecho de acceso a a (sic) información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre e (sic) ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la nformación (sic) y Protección de Datos Personales de Quintana Roo, el cual tendrá una Junta de Gobierno que será el órgano máximo de dirección compuesto por tres Consejeros Ciudadanos, y entre ellos elegirán a quien fungirá como Presidente, durarán 6 años, y serán nombrados en los términos que prevenga la ley. En la conformación de la Junta de Gobierno del órgano garante se procurará la equidad de género. En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
 > <small>(ADICIONADO P.O. 19 DE MAYO DE 2008)</small>
 
 Para el ejercicio del derecho de acceso a la información, regirán los principios y bases siguientes:
 
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo estatal o municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2015)</small>
+
+I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos públicos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, estatal o municipal, en términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de maxima publicidad. La ley establecerá aquella información que se considere reservada o confidencial.
+
+Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
 II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2015)</small>
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano con autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propio; especializado e imparcial, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información, así como el ejercicio de las atribuciones que determine la ley; dicho órgano deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión. El presupuesto de egresos de dicho órgano deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
+IV.- Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el órgano garante, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como e (sic) ejercicio ce (sic) las atribuciones que determine la ley; asimismo deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
 
-V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
+
+V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
 Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información.
 
 VI. La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2015)</small>
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el órgano garante y sus integrantes para el buen desempeño de sus funciones.
 
 ###### ARTICULO 22.
 
@@ -303,21 +317,35 @@ En los juicios del orden criminal nunca se impondrá por simple analogía ni aú
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y en su deficiencia, ésta se fundará en los principios generales de derecho.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
 
-No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción se establecerá un procedimiento que se regirá por las siguientes reglas:
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
 l.- Será jurisdiccional y autónomo del de materia penal;
 
-II.- Procederá en los casos de delitos de secuestro, robo con violencia, robo de vehículos, extorsión, fraude y trata de personas, respecto de los bienes siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
+
+II.- Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
 a).- Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
 b).- Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
 c).- Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
 d).- Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
 III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
@@ -1343,9 +1371,13 @@ XLVII. Solicitar a la Comisión Nacional de los Derechos Humanos la investigaci�
 
 XLVIII. Expedir leyes encaminadas a combatir el alcoholismo;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2015)</small>
+
+XLIX.- Nombrar a los integrantes de la Junta de Gobierno del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
+
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
 
-XLIX. Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+L.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
@@ -1391,7 +1423,11 @@ XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a 
 
 XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Contralor Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Contralor Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
 
-XIII.- Las demás que le confiera expresamente esta Constitución.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2015)</small>
+
+XIII.- Nombrar a los integrantes de la Junta de Gobierno de (sic) órgano garante previsto en el Artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
+
+XIV.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
@@ -2331,7 +2367,7 @@ X Y
 
 36 315,075.14 2,062, 249.69
 
-37 315,043.39 2,060,361.03
+37 315,043.39 2,060, 361.03
 
 38 322,640.11 2,060, 352.93
 
@@ -3407,7 +3443,7 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 157.
 
@@ -3443,25 +3479,41 @@ Las relaciones laborales entre los Municipios y sus trabajadores se regirán por
 
 ###### ARTICULO 160.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del Gobierno del Estado y de los Ayuntamientos y, en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos, organismos descentralizados de la Administración Pública Estatal o Municipal, empresas de participación estatal o municipal y fideicomisos públicos del Estado o de los Municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del Gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo y del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
 
-I. Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder Judicial, las y los Magistrados de los Tribunales Unitarios, a la o al Titular del Órgano de Fiscalización Superior, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Procurador General de Justicia del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I.- Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y os (sic) Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder ludicial (sic), las y los Magistrados de los Tribunales Unitarios, a la o al Titular del Órgano de Fiscal zación (sic) Superior, a las o los Consejeros Ciudadanos de la Junta de Gobierno del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, as (sic) y los Secretarios y Subsecretarios del Despacho, a la o el Procurador General de Justicia del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados de (sic) Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución de (sic) cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 La Ley correspondiente establecerá el procedimiento del Juicio Político seguido ante la Legislatura, previniendo la forma de oír al acusado en su defensa.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 No procede el Juicio Político por la mera expresión de ideas.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 La Legislatura del Estado conocerá con este procedimiento de los casos que le remita la Cámara de Senadores en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 II. El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Tribunal Superior de Justicia, y los Presidentes Municipales, sólo podrán ser sujetos a Juicio Político por violaciones graves a esta Constitución, y a las Leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 III. La legislación penal del Estado prevendrá como delito común el enriquecimiento ilícito de los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Asimismo perseguirá y sancionará la comisión de delitos por parte de cualquier servidor público.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 IV. Se aplicarán sanciones administrativas a los servidores públicos por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, mismas que serán determinadas en las leyes, reglamentos o decretos de las Dependencias, Instituciones u Organismos que los creen o regulen su funcionamiento, previniendo el procedimiento la autoridad encargada de aplicarla y la forma de oír al responsable en su defensa.
 
@@ -3469,11 +3521,19 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 V. La Ley de Responsabilidades de los Servidores Públicos, determinará las obligaciones de éstos, las sanciones aplicables por los actos u omisiones indebidos que señala este Título, los procedimientos a seguir y las autoridades encargadas de su aplicación.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 VI. La Ley Orgánica Municipal determinará, en los términos del primer párrafo de este artículo y para efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Ayuntamientos.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 VII. En los juicios de orden civil no existe fuero ni inmunidad de ningún servidor público.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 VIII. Las declaraciones y resoluciones que se dicten a quienes se sujeten a Juicio Político son inatacables.
 
@@ -4536,3 +4596,27 @@ SEGUNDO. Los Consejeros Ciudadanos que se encuentran en funciones podrán ser re
 P.O. 15 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 27 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 253, POR EL QUE SE REFORMA EL PÁRRAFO CUARTO Y LA FRACCIÓN II DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 255, POR EL QUE SE REFORMAN LAS FRACCIONES I, IV Y V DEL ARTÍCULO 21; EL PRIMER PÁRRAFO DEL ARTÍCULO 160 Y EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 160; SE ADICIONAN UN TERCER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SIGUIENTE Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 21; UNA FRACCIÓN XLIX AL ARTÍCULO 75 RECORRIÉNDOSE EN SU ORDEN LA SIGUIENTE Y UNA FRACCIÓN XIII AL ARTÍCULO 76 RECORRIÉNDOSE EN SU ORDEN LA SIGUIENTE, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Consejeros Ciudadanos que actualmente conforman el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, continuarán en sus cargos, por los periodos para los cuales fueron designados, en términos de sus nombramientos respectivos e integrando a Junta de Gobierno del ahora denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, que establece el Artículo 21 de este Decreto.
+
+TERCERO. En tanto se modifica la legislación secundaria de la materia, toda mención hecha del Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, se tendrá por hecha al Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo.
+
+CUARTO. Los recursos presupuestales, financieros y materiales, así como los trabajadores adscritos al Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, se transferirán al órgano público autónomo que establece el Artículo 21 de este Decreto, quienes de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
+
+QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán ante el organismo garante que establece el Artículo 21 de esta Constitución, conforme a la legislación aplicable en el momento en que se iniciaron, en todo lo que no se oponga al presente decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
