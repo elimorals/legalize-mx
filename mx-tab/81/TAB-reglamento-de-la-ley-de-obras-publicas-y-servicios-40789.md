@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-obras-publicas-y-servicios-40789"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-03"
-last_updated: "2004-07-03"
+last_updated: "2015-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
+REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL ACUERDO PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2015, VÉASE TRANSITORIO PRIMERO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 3 de julio de 2004.
 
@@ -47,33 +49,47 @@ Para los efectos de este Reglamento además de las definiciones establecidas en 
 
 I. Ley: La Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Tabasco;
 
-II. Padrón de Contratistas: El Padrón de Contratistas del Gobierno del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+II. Registro Único de Contratistas: Listado de las personas físicas o jurídicas colectivas que se dediquen al ramo de la construcción o servicios relacionados; expedido por la Contraloría;
 
 III. Obras: Las señaladas en el artículo 3 de la Ley;
 
 IV. Servicios: Los mencionados en el artículo 4 de la Ley;
 
-V. Superintendente de construcción: el representante del Contratista ante la Dependencia o la Entidad para cumplir con los términos y condiciones pactados en el contrato, en lo relacionado con la ejecución de los trabajos;
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2015)</small>
 
-VI. Bitácora: El instrumento técnico de control de los trabajos, el cual servirá como medio de comunicación convencional entre las partes que firman el contrato y estará vigente durante el desarrollo de los trabajos, y en el que deberán referirse los asuntos importantes que se desarrollen durante la ejecución de las obras y servicios;
+V. Secretaría: La Secretaría de Planeación y Finanzas del Gobierno del Estado;
 
-VII. Especificaciones generales de construcción: El conjunto de condiciones generales que las Dependencias y Entidades tienen establecidas para la ejecución de obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento y supervisión, que comprenden la forma de medición y la base de pago de los conceptos de trabajo;
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2015)</small>
 
-VIII. Especificaciones particulares de construcción: El conjunto de requisitos exigidos por las Dependencias y Entidades para la realización de cada obra, mismas que modifican, adicionan o sustituyen a las especificaciones generales;
+VI. Contraloría: La Secretaría de Contraloría del Gobierno del Estado;
 
-IX. Normas de calidad: Los requisitos mínimos que, conforme a las especificaciones generales y particulares de construcción, las Dependencias y Entidades establecen para asegurar que los materiales y equipos de instalación permanente que se utilizan en cada obra, son los adecuados;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
 
-X. Estimación: La valuación de los trabajos ejecutados en el periodo pactado, aplicando los precios unitarios a las cantidades de los conceptos de trabajos realizados. En contratos a precio alzado, es la valuación de los trabajos realizados en cada actividad de obra conforme a la cédula de avance y al periodo del programa de ejecución;
+VII. Superintendente de construcción: El representante del Contratista ante la Dependencia o la Entidad para cumplir con los términos y condiciones pactados en el contrato, en lo relacionado con la ejecución de los trabajos;
 
-Asimismo, es el documento en el que se consignan las valuaciones mencionadas, para efecto de su pago, considerando, en su caso, la amortización de los anticipos y los ajustes de costos;
+VIII. Bitácora: El instrumento técnico de control de los trabajos, el cual servirá como medio de comunicación convencional entre las partes que firman el contrato y estará vigente durante el desarrollo de los trabajos, y en el que deberán referirse los asuntos importantes que se desarrollen durante la ejecución de las obras y servicios;
 
-XI. Proyecto arquitectónico: El que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
+IX. Especificaciones generales de construcción: El conjunto de condiciones generales que las Dependencias y Entidades tienen establecidas para la ejecución de obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento y supervisión, que comprenden la forma de medición y la base de pago de los conceptos de trabajo;
 
-XII. Proyecto de ingeniería: El que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales aplicables y particulares que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
+X. Especificaciones particulares de construcción: El conjunto de requisitos exigidos por las Dependencias y Entidades para la realización de cada obra, mismas que modifican, adicionan o sustituyen a las especificaciones generales;
 
-XIII. Proyecto ejecutivo: El que comprenda e incluya todos los aspectos arquitectónicos, de ingeniería, estudios y trámites complementarios para la materialización de la Obra, y
+XI. Normas de calidad: Los requisitos mínimos que, conforme a las especificaciones generales y particulares de construcción, las Dependencias y Entidades establecen para asegurar que los materiales y equipos de instalación permanente que se utilizan en cada obra, son los adecuados;
 
-XIV. Propuesta solvente: La que reúna las condiciones legales, técnicas y económicas requeridas, y sea remunerativa de acuerdo a la Ley y este Reglamento.
+XII. Estimación: La valuación de los trabajos ejecutados en el periodo pactado, aplicando los precios unitarios a las cantidades de los conceptos de trabajos realizados. En contratos a precio alzado, es la valuación de los trabajos realizados en cada actividad de obra conforme a la cédula de avance y al periodo del programa de ejecución;
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+Asimismo, es el documento en el que se consignan las valuaciones mencionadas, para efecto de su pago, considerando, en su caso, la amortización de los anticipas (sic) y los ajustes de costos;
+
+XIII. Proyecto arquitectónico: El que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
+
+XIV. Proyecto de ingeniería: El que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales aplicables y particulares que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
+
+XV. Proyecto ejecutivo: El que comprenda e incluya todos los aspectos arquitectónicos, de ingeniería, estudios y trámites complementarios para la materialización de la Obra, y
+
+XVI. Propuesta solvente: La que reúna las condiciones legales, técnicas y económicas requeridas, y sea remunerativa de acuerdo a la Ley y este Reglamento.
 
 ###### Artículo 2.
 
@@ -177,9 +193,17 @@ I. Dependiendo del tipo de contrato, que se cuente con los estudios y proyectos 
 
 II. Tratándose de servicios se deberá contar con los términos de referencia, los programas de prestación de los mismos, la plantilla y organigrama del personal y el presupuesto de los trabajos; estos deberán encontrarse firmados, con el número de cedula profesional y avalados por los responsables correspondientes, titulados y de la especialidad correspondiente;
 
-III. Que se haya garantizado y formalizado el contrato o el acuerdo de ejecución por administración directa, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
 
-IV. Que se haya designado por escrito a las personas que se encargarán de la residencia de obra y de la superintendencia de construcción del contratista, mismas que deberán de presentar su cedula profesional correspondiente.
+III. Que se haya garantizado y formalizado el contrato o el acuerdo de ejecución por administración directa;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+IV. Que se haya designado por escrito a las personas que se encargarán de la residencia de obra y de la superintendencia de construcción del contratista, mismas que deberán de presentar su cedula profesional correspondiente; y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+V. Que los contratistas se encuentren al corriente en el cumplimiento de sus obligaciones fiscales en el Estado.
 
 En la realización de los trabajos, se deberán prever los impactos económicos, sociales y ecológicos que se originen con su ejecución; de realizarse dentro de un centro de población o cerca de él, deberán ser acordes con los programas de desarrollo urbano que determine la ley de la materia, debiendo contar para ello con las autorizaciones, permisos y licencias correspondientes; salvo en los casos enunciados en las fracciones II, IV y V del artículo 45 de la Ley.
 
@@ -197,7 +221,9 @@ II. Observar y opinar sobre los procedimientos de adjudicación, previo al fallo
 
 III. Aprobar, en su caso, los requisitos generales y particulares que tengan que ver con la magnitud y complejidad de una obra en particular;
 
-IV. Dar seguimiento al Padrón de Contratistas, administrado por Contraloría, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+IV. Dar seguimiento al Registro Único de Contratistas expedido y administrado por la Contraloría; y
 
 V. Las demás que le señale el presente Reglamento.
 
@@ -205,13 +231,19 @@ V. Las demás que le señale el presente Reglamento.
 
 Cada Comité de la Obra Pública estará integrado de la siguiente forma:
 
-A.- En las Dependencias y Entidades:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2015)</small>
 
-I. El Titular de la Dependencia o Entidad o, en su caso, el servidor público a quien le sean delegadas expresamente facultades y atribuciones para tales efectos, quien fungirá como su Presidente, con voz y voto de calidad;
+A.- En las Dependencias:
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+I. El Titular de la Dependencia o en su caso, el servidor público a quien le sean delegadas expresamente facultades y atribuciones para tales efectos, quien fungirá como su Presidente, con voz y voto de calidad;
 
 II. El servidor público responsable del procedimiento de adjudicación de los contratos de obra pública, que acudirá con voz y voto;
 
-III. Un representante del área jurídica de la Dependencia o Entidad, quien fungirá como Secretario Técnico de la misma, que acudirá con voz pero sin voto;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+III. Un representante del área jurídica de la Dependencia, quien fungirá como Secretario Técnico de la misma, que acudirá con voz pero sin voto;
 
 IV. Un representante de la Contraloría, que acudirá con voz pero sin voto;
 
@@ -219,7 +251,9 @@ V. Un representante de la Secretaría, que acudirá con voz y voto;
 
 VI. Se deberá de invitar por escrito a un representante de la Cámara que corresponda que acudirá, con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas, y
 
-VII. Se deberá de invitar por escrito a un representante del Colegio mayoritario afín a la materia de la licitación; cuando se trate de estudios y proyectos, que acudirá con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+VII. Se deberá de invitar por escrito a un representante del o de los Colegios afines a la materia de la licitación; cuando se trate de estudios y proyectos, que acudirá con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas.
 
 B.- En los Ayuntamientos:
 
@@ -237,7 +271,29 @@ VI. Un Regidor de la Comisión de Hacienda, que acudirá con voz y voto;
 
 VII. Se deberá de invitar por escrito a un representante de la Cámara que acudirá, con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas, y
 
-VIII. Se deberá de invitar por escrito a un representante del Colegio mayoritario afín a la materia de la licitación; cuando se trate de estudios y proyectos, que acudirá con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+VIII. Se deberá de invitar por escrito a un representante del o de los Colegios afines a la materia de la licitación; cuando se trate de estudios y proyectos, que acudirá con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+C.- En los Organismos Descentralizados, Órganos Administrativos Desconcentrados y Empresas de Participación Estatal Mayoritaria:
+
+I. El titular de la Dependencia que encabeza el sector que le corresponda o en su caso, el servidor público a quien éste delegue expresamente facultades y atribuciones para tales efectos, quien fungirá como su Presidente, con voz y voto de calidad;
+
+II. El Titular del Organismo, Órgano o Empresa de Participación Mayoritaria, que acudirá con voz y voto;
+
+III. El servidor público responsable del procedimiento de adjudicación de los contratos de obra pública, que acudirá con voz y voto;
+
+IV. Un representante de su área jurídica, quien fungirá como Secretario Técnico de la misma, que acudirá con voz pero sin voto;
+
+V. Un representante de la Contraloría, que acudirá con voz pero sin voto;
+
+VI. Un representante de la Secretaría, que acudirá con voz y voto;
+
+VII. Se deberá de invitar por escrito a un representante de la Cámara que corresponda, que acudirá con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas; y
+
+VIII. Se deberá de invitar por escrito a un representante del o de los Colegios afines a la materia de la licitación; cuando se trate de estudios y proyectos, que acudirá con voz y sin voto, para opinar dentro del Comité sobre los actos de convocatoria, visita al sitio de los trabajos, junta de aclaraciones, acto de presentación y apertura de propuestas.
 
 Prevalecerá la regulación del CICOP, para resolver y dictaminar sobre la obra pública, los casos extraordinarios y especiales, de acuerdo a su normatividad vigente.
 
@@ -269,9 +325,11 @@ Es obligación de la Dependencia y Entidad, invitar por escrito a los actos de l
 
 #### SECCIÓN I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 19.
 
-La licitación pública inicia con la publicación de la convocatoria en el Periódico Oficial, y en el caso de invitación a cuando menos cinco personas, con la entrega de la primera invitación a los licitantes y en el caso de adjudicación directa con la entrega de la primera solicitud de cotización a los participantes; todas concluyen con el fallo correspondiente, en todos los casos de licitaciones, invitación a cuando menos cinco personas y adjudicación directa, se le informará por escrito al presidente del Comité de la Obra Pública.
+La licitación pública inicia con la publicación de la convocatoria en el Periódico Oficial; en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación a los licitantes; y en el caso de adjudicación directa, con la entrega de la primera solicitud de cotización a los participantes. Todas concluyen con el fallo correspondiente, ya sea que se trate de licitación pública, invitación a cuando menos tres personas o adjudicación directa, debiéndose informar por escrito de dicha conclusión al Presidente del Comité de la Obra Pública.
 
 ###### Artículo 20.
 
@@ -293,7 +351,9 @@ Las bases podrán ser entregadas a los licitantes a título gratuito. Cuando se 
 
 El pago se hará en la forma y en el lugar indicado en la convocatoria.
 
-Todo interesado antes de pagar el importe de las bases deberá de estar inscrito en el Padrón de Contratistas, o en su caso demostrar que su inscripción se encuentra en trámite mediante un registro provisional.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+Todo interesado, antes de pagar el importe de las bases, deberá estar inscrito en el Registro Único de Contratistas o, en su caso, demostrar que su inscripción o revalidación se encuentra en trámite ante la Contraloría.
 
 Una vez cumplido el requisito del párrafo anterior, al momento de pagar, se le entregará un comprobante, el cual contendrá; el nombre de la Dependencia o Entidad así como sus datos fiscales, fecha de pago, importe con Impuesto al Valor Agregado desglosado, Nombre y número de licitación.
 
@@ -323,7 +383,9 @@ La propuesta será entregada en sobre cerrado de manera inviolable, claramente i
 
 Las Dependencias y Entidades deberán requerir a los licitantes que acompañen a sus propuestas los siguientes documentos:
 
-I. Copia de su registro en el Padrón de Contratistas;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+I. Copia de su inscripción en el Registro Único de Contratistas, expedida por la Contralaría;
 
 II. Copia simple del recibo de pago de las bases;
 
@@ -341,13 +403,15 @@ La presentación de estos documentos servirá para constatar que la persona cump
 
 Para los interesados que decidan agruparse para presentar una propuesta, deberán acreditar en forma individual los requisitos señalados, además de entregar una copia del convenio a que se refiere el artículo 40, párrafo segundo de la Ley, la presentación de los documentos de los integrantes de la agrupación y la del convenio deberá hacerse por el representante común.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 26.
 
-No se podrá recibir ninguna propuesta si la persona física ó jurídica colectiva no se encuentra registrada en el Padrón de Contratistas.
+No se podrá recibir ninguna propuesta si la persona física o jurídica colectiva no se encuentra inscrita en el Registro Único de Contratistas.
 
-Solamente se podrán recibir las propuestas de los licitantes, que comprueben que está iniciado el trámite para su aceptación en el Padrón de Contratistas, con un mínimo de 15 días naturales anteriores a la apertura de las propuestas.
+Solamente se podrán recibir las propuestas de los licitantes, que comprueben que está iniciado el trámite para su aceptación en el Registro Único de Contratistas, con un mínimo de 15 días naturales anteriores a la apertura de propuesta.
 
-No se podrá adjudicar ningún contrato a los licitantes que no cuenten con su registro vigente o bien, iniciado el trámite del mismo.
+No se podrá celebrar contrato con el licitante que no cuente con su registro vigente.
 
 ###### Artículo 27.
 
@@ -391,9 +455,17 @@ XII. Programas de erogaciones calendarizados y cuantificados en partidas y subpa
 
 a). De la mano de obra;
 
-b). De la maquinaria y equipo de construcción, identificando su tipo y características; y
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
 
-c). Del total de los materiales y de los equipos de instalación permanente.
+b). De la maquinaria y equipo de construcción, identificando su tipo y características;
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+c). Del total de los materiales y de los equipos de instalación permanente; y
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+d). De la utilización del personal profesional técnico administrativo y de servicio.
 
 El licitante ganador dentro de los diez días naturales siguientes a la emisión del fallo, previo a la firma del contrato, deberá entregar el programa de ejecución detallado y definitivo de los trabajos que considere todos y cada uno de los conceptos que integran la propuesta, utilizando preferentemente redes de actividades con ruta crítica o diagramas de barras, el cual será firmado de mutuo acuerdo con la Dependencia o Entidad y formará parte del Expediente Unitario.
 
@@ -419,7 +491,9 @@ V. Presupuesto total de los trabajos, el cual deberá dividirse en actividades d
 
 Para participar en una licitación, dos o más interesados podrán agruparse para presentar una sola proposición cumpliendo los siguientes requisitos:
 
-I. Todos los integrantes de la agrupación, deberán de estar inscritos en el Padrón de Contratistas;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+I. Todos los integrantes de la agrupación, deberán de estar inscritos en el Registro Único de Contratistas;
 
 II. Bastará la adquisición de un solo ejemplar de las bases;
 
@@ -449,9 +523,11 @@ No será objeto de evaluación las condiciones establecidas por la convocante qu
 
 Los licitantes son los únicos responsables de que sus propuestas sean entregadas en tiempo y forma en el acto de presentación y apertura de proposiciones.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 30.
 
-La Dependencia o Entidad invitará al acto de apertura de proposiciones a representantes de la Secretaría, la Contraloría y organismos que conforme a sus atribuciones deban asistir, con una anticipación no menor de cinco días naturales a la fecha del acto.
+La Dependencia o Entidad invitará al acto de apertura de proposiciones a representantes de la Secretaría y de la Contraloría; así como a representantes de la Cámara Mexicana de la Industria de la Construcción y de los Colegios de Profesionistas u organismos, que conforme a sus especialidades deban asistir, con una anticipación no menor de cinco días naturales a la fecha del acto
 
 ###### Artículo 31.
 
@@ -525,7 +601,9 @@ b). Que las características, especificaciones y calidad de los materiales y equ
 
 IV. De la mano de obra:
 
-a). Que el personal administrativo, técnico y de obra sea el adecuado y suficiente para ejecutar los trabajos;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+a). Que el personal administrativo, técnico y de obra sea el adecuado y suficiente para ejecutar los trabajos, preferentemente de la localidad;
 
 b). Que los rendimientos considerados se encuentren dentro de los márgenes razonables y aceptables de acuerdo con el procedimiento constructivo propuesto, considerando los rendimientos observados de experiencias anteriores, así como las condiciones ambientales de la zona y las características particulares bajo las cuales deben realizarse los trabajos, y
 
@@ -867,6 +945,14 @@ b). Que se encuentre el licitante en alguno de los supuestos señalados en el ar
 
 c). Las demás que, de acuerdo a las características, magnitud y complejidad de los trabajos a realizar, sean consideradas expresamente en las bases de licitación, estén autorizados por el Comité de la Obra Pública de la Dependencia o Entidad y que sean estrictamente necesarias para la evaluación de las propuestas o la realización de los trabajos.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+Una vez emitido el fallo, la documentación que forman las propuestas, que no fueron ganadoras o que fueron desechadas en la evaluación, deberán ser devueltas en un plazo no mayor a 30 días naturales a las empresas participantes, previa solicitud mediante oficio del licitante.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+La documentación no solicitada por los licitantes dentro del plazo antes indicado, dará pie a su destrucción sin responsabilidad para la dependencia.
+
 ###### Artículo 40.
 
 Cuando las Dependencias y Entidades determinen la cancelación de una licitación en los términos de la Ley, deberán notificar por escrito a los licitantes; y a la Contraloría, dentro de los diez días naturales siguientes a la emisión del acto, explicando las razones que funden y motiven dicha determinación, debiendo cubrir, previa solicitud del licitante, los gastos no recuperables que en su caso procedan, siempre y cuando sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
@@ -921,9 +1007,11 @@ V. Nombre y firma del Titular del área responsable de la ejecución de los trab
 
 VI. El lugar y fecha de su emisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 45.
 
-En todo lo no previsto en los procedimientos de invitación a cuando menos cinco personas, le serán aplicables, en lo procedente, las reglas que para la licitación pública prevé este Reglamento.
+En todo lo no previsto en los procedimientos de invitación a cuando menos tres personas le serán aplicables, en lo procedente, las reglas que para la licitación pública prevé este Reglamento.
 
 Para adjudicación directa se deberá invitar por escrito a presentar cotización a cuando menos tres contratistas, los que deberán aceptar por escrito y entregar sus propuestas en la fecha, hora y lugar señalado en la invitación, la documentación requerida será la que la Dependencia o entidad determine como aplicable dentro de la señalada en el artículo 37 de la Ley, la apertura podrá efectuarse con o sin la presencia de los contratistas.
 
@@ -941,7 +1029,9 @@ El contrato además de cumplir con lo señalado en el artículo 49 de la Ley, de
 
 El área responsable de la contratación, una vez firmado el contrato, deberá entregarle al Contratista un original firmado.
 
-La Dependencia o Entidad, no podrá tener contratado a la vez, con persona física o jurídico colectiva bajo la misma modalidad, obras o servicios por un importe mayor al límite máximo autorizado, para la adjudicación directa o invitación a cuando menos cinco personas, de acuerdo a los montos establecidos por el CICOP.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+La Dependencia o Entidad, no podrá tener contratado a la vez, con persona física o jurídico colectiva bajo la misma modalidad, obras o servicios por un importe mayor al límite autorizado, para la adjudicación directa o invitación a cuando menos tres personas, de acuerdo a los montos establecidos en el CICOP.
 
 ###### Artículo 47.
 
@@ -1333,7 +1423,9 @@ XIV. Las demás que le señale la residencia de obra o la Dependencia o Entidad 
 
 El superintendente de construcción deberá conocer con amplitud el proyecto ejecutivo, normas de calidad y especificaciones de construcción, catálogo de conceptos o actividades de obra, programas de ejecución y de suministros, incluyendo los planos con sus modificaciones, especificaciones generales y particulares de construcción y normas de calidad, bitácora, convenios y demás documentos inherentes, que se generen con motivo de la ejecución de los trabajos.
 
-Asimismo, debe estar facultado por el Contratista, para oír y recibir toda clase de notificaciones relacionadas con los trabajos, aun las de carácter personal, así como contar con las facultades suficientes para la toma de decisiones en todo lo relativo al cumplimiento del contrato.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+Asimismo, debe estar facultado por el Contratista, para oír y recibir toda clase de notificaciones relacionadas con los trabajos, aun las de carácter personal, así como contar con las facultades suficientes para la toma de decisiones en todo lo relativo al cumplimiento del contrato correspondiente para considerar la correcta ejecución de las obras consideradas en la Ley.
 
 La Dependencia o Entidad en el contrato, podrá reservarse el derecho de solicitar en cualquier momento, por causas justificadas y fundadas, la sustitución del superintendente de construcción, y el Contratista tendrá la obligación de nombrar a otro que reúna los requisitos exigidos en el contrato.
 
@@ -2991,7 +3083,9 @@ a). Licitación Pública:
 
 - Registro de la convocatoria en el SECONET;
 
-b). Invitación a cuando menos cinco personas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+b). Invitación a cuando menos tres personas:
 
 1. Que contenga:
 
@@ -3293,7 +3387,9 @@ n). Fianza de vicios ocultos por los trabajos ejecutados; y
 
 La Contraloría para la imposición de las sanciones previstas en la Ley, notificará a la persona física o jurídico colectiva, los hechos presumiblemente constitutivos de la infracción, sujetándose al procedimiento dispuesto en la Ley.
 
-La Contraloría inhabilitará por noventa días naturales para participar en procesos de contratación por invitación a cuando menos cinco personas y adjudicación directa, a contratistas que habiendo aceptado participar por escrito no presenten propuestas, lo anterior en concordancia con lo asentado en el artículo 47 fracción IV de la Ley. La fecha de inicio, será la de la presentación y entrega de propuestas.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
+la Contraloría inhabilitará por noventa días naturales para participar en procesos de contratación por invitación a cuando menos tres personas y adjudicación directa, a contratistas que habiendo aceptado participar por escrito no presenten propuestas, lo anterior en concordancia con lo asentado en el artículo 47 fracción IV de la ley. La fecha de inicio, será la de la presentación y entrega de propuestas.
 
 ###### Artículo 215.
 
@@ -3373,11 +3469,15 @@ La única documentación que la Contraloría estará obligada a conservar, en lo
 
 ## TÍTULO SÉPTIMO
 
-### CAPÍTULO ÚNICO. DEL PADRÓN DE CONTRATISTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO ÚNICO. DEL REGISTRO ÚNICO DE CONTRATISTAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 228.
 
-Para los efectos del artículo 7 de la Ley, el Padrón de Contratistas del Estado de Tabasco será único, de observancia general para Dependencias y Entidades; implementado, integrado y operado por la Secretaría de Contraloría, por lo que las personas interesadas en inscribirse en él, deberán solicitarlo por escrito, acompañando según su naturaleza jurídica y características, la siguiente información y documentos:
+Para los efectos del artículo 7 de la ley, el Registro Único de Contratistas será de observancia general para Dependencias y Entidades; implementado, integrado y operado exclusivamente por la Contraloría, por lo que las personas interesadas en inscribirse en él, deberán solicitarlo por escrito, acompañando según su naturaleza jurídica y características, la siguiente información y documentos:
 
 I. Datos generales de la interesada;
 
@@ -3399,29 +3499,37 @@ IX. Inscripción en el Registro Federal de Contribuyentes;
 
 X. Cédula Profesional del responsable técnico;
 
-XI. Registro en el Instituto Mexicano del Seguro Social, en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en el Sistema de Información Empresarial Mexicano así como tener inscritos en las Secretaría del Trabajo y Previsión Social sus Planes y Programas de Capacitación, Seguridad e Higiene;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2015)</small>
+
+XI. Registro en el Instituto Mexicano del Seguro Social, en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y en el Sistema de Información Empresarial Mexicano;
 
 XII. Comprobante de domicilio fiscal en el Estado; y
 
 XIII. Los demás documentos e información que la Secretaría de Contraloría o el propio interesado considere pertinente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 229.
 
-Las personas físicas o jurídicas colectivas, al inscribirse en el Padrón de Contratistas adquirirán el carácter de contratistas; en consecuencia las Dependencias y Entidades no podrán exigir que éstos se encuentren inscritos en otro registro distinto para licitar o contratar. La Secretaría de Contraloría emitirá las disposiciones administrativas necesarias para la correcta operación del padrón de contratistas.
+las personas físicas o jurídicas colectivas, al inscribirse en el Registro Único de Contratistas adquirirán el carácter de contratistas; en consecuencia, las Dependencias y Entidades no podrán exigir que éstos se encuentren inscritos en otro registro distinto para licitar o contratar. La Contraloría emitirá las disposiciones administrativas necesarias para la correcta operación del Registro Único de Contratistas.
 
 Las Dependencias y Entidades deberán solicitar a la Secretaría de Contraloría la suspensión o cancelación del registro de los contratistas, cuando tengan conocimiento que éstos se encuentran dentro de alguno de los supuestos de suspensión o cancelación que establece en la Ley y el presente Reglamento, fundando y motivando dicha solicitud.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 230.
 
-En el mes de junio de cada año, la Contraloría publicará en el Periódico Oficial del Estado la relación de personas físicas o jurídicas colectivas inscritas en el Padrón de Contratistas e informará trimestralmente a las Dependencias y Entidades de las inscripciones, suspensiones y cancelaciones que se lleven a cabo con posterioridad a la publicación mencionada.
+la Contraloría publicará en el Periódico Oficial del Estado la relación de personas físicas o jurídicas colectivas inscritas en el Registro Único de Contratistas e informará trimestralmente a las Dependencias y Entidades de las inscripciones, suspensiones y cancelaciones que se lleven a cabo con posterioridad de la publicación mencionada. De igual modo, actualizará mensualmente dicho Registro en su página oficial en internet, con los movimientos que se produzcan en ese período.
 
 ###### Artículo 231.
 
 Los contratistas comunicarán por escrito a la Secretaría de Contraloría, las modificaciones relativas a su capacidad técnica y económica y a su especialidad, cuando a su juicio consideren que ello implica un cambio en la clasificación. La Secretaría de Contraloría resolverá lo conducente en un plazo que no excederá de treinta días naturales contados a partir de la fecha en que se presente la comunicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 232.
 
-En el procedimiento para negar la inscripción o para suspender o cancelar el registro en el Padrón de Contratistas, la Secretaría de Contraloría observará las siguientes reglas:
+En el procedimiento para negar la inscripción o para suspender o cancelar el registro en el Registro Único de Contratistas, la Contraloría observará las siguientes reglas:
 
 I. Se comunicará por escrito al contratista los hechos que ameriten la negativa de inscripción, suspensión o cancelación del registro según sea el caso, para que en un plazo no mayor de diez días naturales a partir de su notificación, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
 
@@ -3431,9 +3539,11 @@ III. La Secretaría de Contraloría fundará y motivará debidamente la resoluci
 
 Cuando desaparezcan las causas que originaron la negativa de inscripción, el interesado podrá iniciar nuevamente los trámites de solicitud de inscripción.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 233.
 
-Las personas físicas o jurídicas colectivas que participen en la contratación de obras públicas y servicios relacionados con las mismas, lo harán siempre y cuando posean plena capacidad para celebrar los contratos respectivos, de conformidad con las disposiciones legales que regulan su objeto social o constitución; se encuentren inscritas en el Padrón de Contratistas, su registro se encuentre vigente y satisfaga los demás requisitos que establecen la Ley y este Reglamento.
+Las personas físicas o jurídicas colectivas que participen en la contratación de obras públicas y servicios relacionados con las mismas, lo harán siempre y cuando posean plena capacidad para celebrar los contratos respectivos, de conformidad con las disposiciones legales que regulan su objeto social o constitución; se encuentren inscritas en el Registro Único de Contratistas, su registro se encuentre vigente y satisfagan los demás requisitos que establecen la Ley y este Reglamento.
 
 ###### Artículo 234.
 
@@ -3470,3 +3580,19 @@ SECRETARIO DE GOBIERNO
 ARQ. JESÚS TAPIA MAYANS
 
 SECRETARIO DE COMUNICACIONES, ASENTAMIENTOS Y OBRAS PÚBLICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 30 días hábiles siguientes de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídico administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Las referencias que en este Reglamento se realicen a los titulares de las Dependencias y Entidades, se entenderán hechas a éstos o a los servidores públicos que asuman las atribuciones de aquellos, en los términos de los reglamentos interiores de las propias Dependencias o Entidades.
+
+CUARTO.- La Secretaría de Contraloría, conforme a sus nuevas atribuciones, verificará que los inscritos en el Registro Único de Contratistas se encuentren al corriente en el cumplimiento de sus obligaciones fiscales en el Estado; comunicando a las Dependencias y Entidades los lineamientos relativos y la fecha de su obligatoriedad.
+
+QUINTO.- A los actos y contratos que las Dependencias y Entidades hayan celebrado con anterioridad a la entrada en vigor del presente Reglamento, les serán aplicables las disposiciones legales y administrativas vigentes al momento de su inicio o celebración.
+
+SEXTO.- La Secretaría de Contraloría constituirá y pondrá en marcha el Registro Único de Contratistas del Estado de Tabasco, comunicando a las Dependencias y Entidades y los lineamientos relativos a la fecha de su obligatoriedad.
