@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2015-02-07"
+last_updated: "2015-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2015.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2145,7 +2145,7 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)</small>
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
@@ -2153,35 +2153,11 @@ Cuando además del delito de rapto se cometa algún otro, se observarán las reg
 
 ### CAPITULO VI. TRATA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+271 Bis.- (DEROGADO, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)
 
-271 Bis.- Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, solicite, mantenga, capte, ofrezca, traslade, entregue o reciba para si o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extraer sus órganos, tejidos o sus componentes.
+271 Ter.- (DEROGADO, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)
 
-Para efectos de este artículo se entenderá por explotación, el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o sus componentes.
-
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
-
-271 Ter.- El consentimiento otorgado por la victima en cualquier modalidad del delito de trata de personas, no constituirá causa que excluye el delito.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
-
-271 Quáter.- A quien cometa el delito de trata de personas se le aplicará:
-
-l. De seis a doce años de prisión y multa de cincuenta a cien cuotas;
-
-II. De nueve a dieciocho años de prisión y multa de cincuenta a ciento cincuenta cuotas, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tenerla. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por veinticinco años, de conformidad al procedimiento establecido por la ley.
-
-III. Las penas que resulten de las fracciones I y II de este artículo, se incrementarán hasta una mitad, cuando:
-
-a) El delito es cometido en contra de una persona menor de dieciocho años de edad;
-
-b) El delito es cometido en contra de una persona mayor de sesenta años de edad;
-
-c) El delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho, o
-
-d) El sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
+271 Quáter.- (DEROGADO, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)
 
 ### CAPÍTULO I. DIFAMACION
 
@@ -3864,3 +3840,19 @@ Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan el 
 P.O. 7 DE FEBRERO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Para efectos de aplicación de esta Ley, se dispondrá, en su caso, del Código de Procedimientos Penales para el Estado de Zacatecas o del Código Procesal Penal para el Estado de Zacatecas, hasta la entrada en vigor del Código Nacional de Procedimientos Penales, en la totalidad del Territorio del Estado.
+
+Tercero.- El Reglamento de la presente Ley deberá expedirse dentro de los seis meses siguientes a la fecha en que la Ley entre en vigor.
+
+Cuarto.- El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal a su entrada en vigor.
+
+Quinto.- Se deroga el Capítulo VI del Título Decimoquinto del Código Penal del Estado de Zacatecas, publicado en el Suplemento 2 al número 74 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha quince de septiembre de dos mil siete.
+
+Sexto.- Los procesos penales por el delito de trata de personas en sus diversas modalidades que se encuentren en trámite a la entrada en vigor del presente Decreto y cuyas conductas típicas se hayan realizado con anterioridad, se continuarán aplicando los tipos y las penas que para tales delitos contempla el capítulo citado en el artículo transitorio que antecede.
+
+Séptimo.- Se derogan las disposiciones que contravengan el presente Decreto.
