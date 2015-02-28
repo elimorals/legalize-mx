@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-transportes-para-el-estado-de-41722"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-17"
-last_updated: "2004-11-17"
+last_updated: "2015-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO, PUBLICADO EN EL SUPLEMENTO G DEL P.O. DE 28 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 17 de noviembre de 2004.
 
@@ -1256,3 +1258,13 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Transportes para el Estado de Tabasco publicado en el Suplemento al Periódico Oficial del Estado 6490 del 17 de noviembre de 2004, así como las disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los procedimientos y recursos que se encuentren en trámite a la entrada en vigor de este Reglamento, se sustanciarán y resolverán con arreglo al Reglamento que se abroga.
