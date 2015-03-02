@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2015-01-26"
+last_updated: "2015-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FISCAL DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 26 DE ENERO DE 2015.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 2 DE MARZO DE 2015.</small>
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -1425,7 +1425,7 @@ VIII.- Cuando la infracción no haya tenido ni pueda haber tenido como consecuen
 
 IX.- Cuando las infracciones consistan en hechos, omisiones o falta de requisitos semejantes en documentos o libros, y siempre que no haya tenido como consecuencia la evasión del pago de créditos fiscales, se considerará el conjunto como una sola infracción y se impondrá solamente una multa que no excederá del máximo que fija este código para sancionar cada hecho, omisión o falta de requisitos;
 
-X.- Cuando se omita una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras publicas o minutas extendidas ante notario publico o corredor publico, la sanción se impondrá exclusivamente a los notarios y corredores, y los interesados solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción se aplicará entonces solamente a los mismos interesados;
+X.- Cuando se omita una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras públicas o minutas extendidas ante notario público o corredor publico, la sanción se impondrá exclusivamente a los notarios y corredores, y los interesados solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción se aplicará entonces solamente a los mismos interesados;
 
 XI.- Cuando la liquidación de alguna prestación fiscal este encomendada a funcionarios o empleados del estado o sus municipios, estos serán responsables de las infracciones que se cometan y se les aplicaran las sanciones que correspondan, quedando únicamente obligados los sujetos pasivos a pagar la prestación fiscal omitida, excepto en los casos en que este código o alguna ley fiscal disponga que no se podrá exigir al sujeto pasivo dicho pago; y,
 
@@ -3623,7 +3623,7 @@ B.O. 19 DE DICIEMBRE DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
-EI presente Decreto entrará en vigor, en todo el Estado de Sonora, a partir del 1 de enero de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor, en todo el Estado de Sonora, a partir del 1 de enero de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3654,3 +3654,25 @@ Todas aquellas operaciones en materia de derechos registrales, que se hayan form
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+> <small>(F. DE E., B.O. 2 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza a los Ayuntamientos del Estado, para que puedan afectar como fuente de pago en caso de incumplimiento de sus obligaciones de pago de derechos o aprovechamientos por el uso y/o explotación de aguas nacionales y por uso o aprovechamiento de bienes del dominio público de la nación así como cuerpos receptores de las descargas de aguas residuales, los recursos que le correspondan a cada uno, derivados del Ramo General 33, Fondo IV, denominado: “Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales de (sic) Distrito Federal”.
+
+> <small>(F. DE E., B.O. 2 DE MARZO DE 2015)</small>
+
+Asimismo, se autoriza a los Ayuntamientos del Estado, para que puedan afectar como fuente de pago en caso de incumplimiento de sus obligaciones de pago de derechos o aprovechamientos por el uso y/o explotación de aguas nacionales y por uso o aprovechamiento de bienes del dominio público de la nación así como cuerpos receptores de las descargas de aguas residuales, las participaciones que en ingresos federales les correspondan, bastando para ello el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, sin que tengan la necesidad de acudir ante esta Legislatura para solicitar una autorización ex profeso.
+
+> <small>(F. DE E., B.O. 2 DE MARZO DE 2015)</small>
+
+La afectación de las participaciones federales a que se refiere el párrafo anterior, sólo se podrá llevar a cabo siempre y cuando los recursos provenientes del Ramo General 33, Fondo IV, denominado: “Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal”, no sean suficientes para cubrir el adeudo.
+
+> <small>(F. DE E., B.O. 2 DE MARZO DE 2015)</small>
+
+La afectación de las aportaciones a que se refiere el párrafo primero y, en su caso, la afectación de las participaciones federales a que se refieren los párrafos segundo y tercero de este artículo, se otorgarán a favor del Poder Ejecutivo Federal por conducto del organismo denominado: Comisión Nacional del Agua, quién podrá solicitar al Gobierno del Estado de Sonora, la retención de los recursos afectados por virtud del presente artículo, siempre y cuando los adeudos por morosidad del municipio de que se trate, sean mayores a noventa días naturales.
+
+> <small>(F. DE E., B.O. 2 DE MARZO DE 2015)</small>
+
+Para la ejecución del mecanismo de retención y pago de los adeudos generados que se señalan en el presente artículo, se estará a lo dispuesto por los artículos 9° para el caso de participaciones federales, y 51 en el caso de aportaciones del Ramo General 33 Fondo IV, ambas disposiciones de la Ley de Coordinación Fiscal.
