@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-65918"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-01-26"
-last_updated: "2013-09-23"
+last_updated: "2015-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 2 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2015 (ABROGADO).
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el jueves 26 de enero de 2009.
 
@@ -1147,7 +1149,7 @@ IV. Respecto a los demás que establezcan las disposiciones legales aplicables.
 
 Los supuestos a que se refiere el artículo anterior no se aplicarán en los siguientes casos:
 
-I. En el de contribuciones, incluyendo tasas adicionales sobre la propiedad inmobiliaria, de su fraccionamiento, adicionales que se establezcan sobre la propiedad, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles; y (sic)
+I. En el de contribuciones, incluyendo tasas adicionales sobre la propiedad inmobiliaria, de su fraccionamiento, adicionales que se establezcan sobre la propiedad, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles; y
 
 II. De los impuestos y derechos que establezcan el Estado y los municipios por la prestación de los servicios públicos.
 
@@ -3133,7 +3135,7 @@ I. Los tipos de casilla serán: básica, contigua, especial y extraordinaria;
 
 II. El Consejo Distrital sesionará en el mes de febrero para determinar el número de casillas que se instalarán, con base en:
 
-a) La información que le remita el Consejo, proporcionada por el Instituto Federal Electoral, acerca del número de ciudadanos empadronados en las secciones electorales del distrito; y (sic)
+a) La información que le remita el Consejo, proporcionada por el Instituto Federal Electoral, acerca del número de ciudadanos empadronados en las secciones electorales del distrito; y
 
 b) La propuesta que le formule la Dirección de Capacitación y Organización Electoral sobre el número y ubicación de casillas.
 
@@ -6522,3 +6524,55 @@ P.O. 23 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Electoral del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado deAguascalientes (sic) el 26 de enero del año 2009, mediante Decreto número 149, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+En tanto el Consejo General del Instituto Nacional Electoral realiza la designación del Consejero Presidente y los consejeros electorales del Consejo General del Instituto Estatal Electoral, los actuales consejeros electorales continuarán en funciones y ejercerán las facultades y atribuciones que les correspondan conforme a este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo General del Instituto Estatal Electoral dictará los acuerdos necesarios para aplicar las disposiciones de este Decreto, y dentro de los ciento veinte días de su inicio de vigencia, deberá aprobar los reglamentos que en términos del presente Decreto le competa.
+
+###### ARTÍCULO SEXTO.
+
+EI personal del Instituto Estatal Electoral, adscrito al Servicio Profesional Estatal Electoral conservará sus derechos laborales.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Sala Administrativa y Electoral del Poder Judicial del Estado conocerá de los recursos establecidos en este Decreto, en tanto no se haga la instalación formal del Tribunal Electoral del Estado, instalación que se dará al día siguiente que los magistrados electorales rindan la protesta de ley ante el Senado de la República.
+
+###### ARTÍCULO OCTAVO.
+
+Una vez que las elecciones de Gobernador, diputados y ayuntamientos sean concurrentes con las elecciones federales en forma definitiva, quedará derogado el Título Cuarto "De la Jornada Electoral en Elecciones no Concurrentes" del Libro Tercero de este Código.
+
+###### ARTÍCULO NOVENO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias al Fiscal General del Estado y a la Fiscalía General del Estado contenidas en el presente Decreto, se entenderán hechas al Procurador General de Justicia del Estado y a la Procuraduría General de Justicia del Estado, respectivamente.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, el nombramiento del Fiscal Especial en Delitos Electorales se realizará en términos del artículo 40 de la Ley Orgánica del Ministerio Público del Estado de Aguascalientes.
+
+Una vez que asuma sus funciones el Fiscal General del Estado, se procederá en términos del artículo 295 de este Código a fin de realizar el nombramiento correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+La distribución del financiamiento público estatal para el sostenimiento de actividades ordinarias permanentes referida en el artículo 33, fracciones III, IV y V de este Código, se realizará de la siguiente manera:
+
+l. En el Ejercicio Fiscal correspondiente al año 2015, la primera porción que se distribuirá de forma igualitaria será del 30%, mientras que la segunda porción que se entregará a los partidos políticos de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior, será del 70%;
+
+II. En el Ejercicio Fiscal correspondiente al año 2016, la primera porción que se distribuirá de forma igualitaria será del 35%, mientras que la segunda porción que se entregará a los partidos políticos de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior, será del 65%, y
+
+III. En el primer semestre del Ejercicio Fiscal correspondiente al año 2017, la primera porción que se distribuirá de forma igualitaria será del 37.5%, mientras que la segunda porción que se entregará a los partidos políticos de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior, será del 62.5%. A partir del segundo semestre del Ejercicio Fiscal del año 2017, se aplicará la distribución establecida en el artículo 33 de este Código.
