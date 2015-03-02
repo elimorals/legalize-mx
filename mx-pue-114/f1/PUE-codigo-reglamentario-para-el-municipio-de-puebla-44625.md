@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2015-02-03"
+last_updated: "2015-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 14 DE JULIO DE 2015 Y 28 DE JULIO DE 2015, EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1639,9 +1641,19 @@ DE LAS SANCIONES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2014)</small>
 
-### CAPÍTULO 10. SEGURIDAD VIAL Y TRÁNSITO MUNICIPAL
+### CAPÍTULO 10. TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL
 
-OBJETO Y ALCANCES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PARTE, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+PARTE I
+
+REGLAS DE LOS USUARIOS DE LA VÍA PÚBLICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 155.
 
@@ -3771,643 +3783,1019 @@ Es facultad del Presidente Municipal, resolver cualquier duda, respecto a la int
 
 En contra de las determinaciones que realice el Juez Calificador procederá el Recurso de Inconformidad en la forma y términos establecidos en el artículo 252 de la Ley Orgánica Municipal.
 
+> <small>N. DE E. EL ACUERDO DE REFORMAS, PUBLICADO EN EL P.O. DE 2 DE MARZO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
 ### CAPÍTULO 12. ESPECTÁCULOS PÚBLICOS
 
 DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
 ###### Artículo 253.
 
-Las disposiciones del presente Capítulo tienen por objeto regular la seguridad vial y el tránsito, tanto de peatones como de vehículos, en las vías públicas ubicadas dentro de la extensión territorial del Municipio, así como proveer en el orden de la administración pública municipal al cumplimiento de los preceptos de las disposiciones federales, leyes estatales y reglamentos derivados de las mismas, que resulten aplicables en la materia.
+Las disposiciones del presente Capítulo tienen por objeto regular la seguridad vial, el tránsito municipal y la movilidad de personas y vehículos motorizados y no motorizados, en las Vías Públicas ubicadas dentro de la extensión territorial del Municipio, así como proveer en el orden de la administración pública municipal al cumplimiento de las normas federales y estatales y sus respectivos reglamentos.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 254.
 
 Para efectos de la aplicación del presente Capítulo se entiende por:
 
-I. Acta de Infracción: Documento escrito en el cual se da cuenta de los hechos sucedidos ante cualquier infracción al presente Capítulo;
+I. Acta de Infracción: Documento impreso o digital validado por la autoridad competente en el cual se da cuenta de los hechos sucedidos ante cualquier transgresión al presente Capítulo;
 
-II. Agente: Elemento de la Dirección de Tránsito Municipal;
+II. Agente: Elemento de la Secretaría de Seguridad Pública y Tránsito Municipal adscrito a la Dirección de Tránsito Municipal;
 
-III. Alcoholímetro: Se entiende por alcoholímetro el instrumento destinado a medir la concentración de alcohol en el aire expirado por una persona;
+III. Alcoholímetro: Es el instrumento destinado a medir la concentración de alcohol en el aire espirado por una persona;
 
 IV. Alimentadores: Rutas de desplazamiento de áreas colindantes a la troncal;
 
-V. Áreas de Transferencia o Servicios Complementarios: Aquéllas que incluyen las instalaciones de lugares de resguardo de bicicletas, las terminales urbanas, suburbanas y foráneas, las estaciones de transporte de pasajeros, los paraderos, los sitios, las estaciones para cargar gasolina y gas licuado de petróleo, los estacionamientos públicos, bahías y otras estaciones o áreas similares;
+V. Áreas de Transferencia o Servicios Complementarios: Aquellas que incluyen las instalaciones de lugares de resguardo de bicicletas, las terminales urbanas, suburbanas y foráneas, las estaciones de transporte de pasajeros, los paraderos, los sitios, los estacionamientos públicos, bahías y otras estaciones o áreas similares;
 
-VI. Bolardo: Señalamiento vial horizontal que delimita el carril confinado, con el resto de la vialidad;
+VI. Banqueta: Espacio público destinado al tránsito peatonal para permitir accesos cómodos, seguros y universalmente accesibles en la Vía Pública;
 
-VII. Capítulo: El Capítulo 10 del Código Reglamentario para el Municipio de Puebla;
+VII. Cajón: Espacio delimitado por rayas o trazas, para el estacionamiento de vehículos automotores en la Vía Pública;
 
-VIII. Carril Exclusivo: Extremo de la superficie de rodamiento de una vialidad que conforme a la demanda del servicio, es destinado para el uso de las unidades de transporte público masivo y de vehículos de emergencia;
+VIII. Calle: Espacio público de tránsito e interacción social;
 
-IX. C.E.R.I.: Centro de Emergencia y Respuesta Inmediata;
+IX. Capítulo: El Capítulo 10 del Código Reglamentario para el Municipio de Puebla;
 
-X. Ciclista: Conductor de un vehículo de tracción humana a pedales;
+X. Carril compartido ciclista: Es aquel que da preferencia a las bicicletas en el que se comparte el espacio con los vehículos motorizados;
 
-XI. Ciclo Carril: Carril en la vía destinado exclusivamente para circulación en bicicleta;
+XI. Carril exclusivo: Extremo de la superficie de rodamiento de una vialidad que conforme a la demanda del servicio, es destinado para el uso de las unidades de transporte público masivo, de vehículos de emergencia y/o bicicletas;
 
-XII. Ciclo vía: Vía o selección de ésta exclusiva para la circulación ciclista, físicamente confinada del tránsito automotor;
+XII. Centro Histórico: Núcleo urbano de atracción social, económica, política y cultural que se caracteriza por tener los bienes vinculados con la historia de la ciudad;
 
-XIII. Cinemómetro: Dispositivo para medir en tiempo real la velocidad de los vehículos de motor;
+XIII. Ciclista: Conductor de una bicicleta o triciclo, de tracción a pedales o de sistema híbrido;
 
-XIV. Conductor: Toda persona que maneje un vehículo en cualquiera de sus modalidades;
+XIV. Ciclocarril: Carril en la vía destinado exclusivamente para circulación en bicicleta o triciclo;
 
-XV. Corredor de Transporte Público de Pasajeros: Aquél que forma parte integral del Sistema de Transporte Público Masivo RUTA, el cual funciona mediante operación regulada y controlada, sistema de pago centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas, con infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido con terminales en su origen y destino;
+XV. Ciclovía: Vía exclusiva para la circulación ciclista físicamente confinada del tránsito automotor; pueden ser: unidireccional o bidireccional;
 
-XVI. Departamento de Infracciones: El Departamento de Infracciones de la Dirección de Ingresos de la Tesorería Municipal;
+XVI. Cinemómetro: Dispositivo para medir en tiempo real la velocidad de los vehículos motorizados;
 
-XVII. Dirección de Ingresos: La Dirección de Ingresos de la Tesorería Municipal;
+XVII. Conductor: Toda persona que maneje un vehículo en cualquiera de sus modalidades;
 
-XVIII. Dirección de Tránsito: La Dirección de Tránsito Municipal;
+XVIII. Corredor de Transporte Público: Aquél que forma parte integral del Sistema de Transporte Público Masivo RUTA y contraflujo, el cual funciona mediante operación regulada y controlada, sistema de pago centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas, con infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido con terminales en su origen y destino;
 
-XIX. Dispositivos de Control Vial: Señales, marcas, semáforos y cualquier otro dispositivo, que se colocan sobre o adyacente a las calles y carreteras por una autoridad pública, para prevenir, regular y guiar a los usuarios de las mismas;
+XIX. Departamento de Infracciones: El Departamento de Control de Recaudación e Infracciones de la Dirección de Ingresos de la Tesorería Municipal;
 
-XX. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción:
+XX. Depósito Oficial: Establecimientos autorizados por el Municipio para el resguardo de vehículos, provisto de equipamiento y seguridad de acuerdo con las normas vigentes;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
+XXI. Dirección de Ingresos: La Dirección de Ingresos de la Tesorería Municipal;
 
-XXI. Paraderos:
+XXII. Dirección de Tránsito: La Dirección de Tránsito Municipal;
 
-a) Paradero: Rutas de estación temporal de las unidades que integran el sistema de transporte público masivo RUTA; y
+XXIII. Dispositivos de Control Vial: Señales, marcas, semáforos y cualquier otro dispositivo, para el efecto, que se colocan sobre o adyacente a las calles y carreteras por una autoridad pública, para prevenir, regular y guiar a los usuarios de las mismas;
 
-b) Paradero de bicicletas: Estacionamiento temporal de bicicletas.
+XXIV. Dispositivo de movilidad asistida: Herramienta que permite el desplazamiento de personas con alguna discapacidad o con movilidad limitada, tales como silla de ruedas, silla de ruedas motorizada, andadera, bastón o perro guía;
 
-XXII. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
+XXV. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción;
 
-XXIII. Seguridad Vial: Conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de su tránsito en las vías públicas;
+XXVI. Jerarquía de la movilidad: Es la prioridad que tienen los diferentes usuarios de la Vía Pública en el ejercicio de movilidad de acuerdo al nivel de vulnerabilidad y a su contribución a la productividad;
 
-XXIV. Señalética: El concepto refiere a todos los señalamientos que se perciben en las vías, tanto señalamiento vial como señalamiento comercial y elementos de todo tipo que generan un efecto en los usuarios de las vías;
+XXVII. Movilidad: Forma en que el ser humano se mueve o traslada de un lugar a otro, puede ser por sí mismo o empleando algún medio de transporte motorizado o no motorizado;
 
-XXV. Sistema de Transporte Público Masivo: Es aquél que se presta a través de corredores de transporte público de pasajeros el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público total o parcialmente confinados. El Sistema comprenderá la troncal correspondiente y las rutas alimentadoras del mismo;
+XXVIII. Multa: Es la sanción pecuniaria que se impondrá a quien cometa alguna de las infracciones contenidas en el presente Capítulo, misma que deberá ser calificada y ejecutada por la Dirección de Ingresos, a través del Departamento de Infracciones;
 
-XXVI. Terminal de Transferencia: Punto principal de estación del cual parten las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+XXIX. Municipio: El Municipio de Puebla;
 
-XXVII. Troncal: Consiste en la vía principal de desplazamiento de las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+XXX. Paradero: Lugar de estación temporal de las unidades que integran el sistema de transporte público masivo;
 
-XXVIII. RUTA: Red urbana de trasporte articulado RUTA;
+XXXI. Peatón: Persona que transita a pie, por la Vía Pública, en zonas privadas con acceso al público, y/o auxiliándose de dispositivos de movilidad asistida en el caso de las personas con discapacidad;
 
-XXIX. Vía de Acceso Controlado: Aquélla que presenta dos o más secciones centrales y laterales, en un solo sentido con separador central y accesos y salidas sin cruces a nivel controlados por semáforo;
+XXXII. Persona con discapacidad: Es aquella que tenga deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que al interactuar con diversas barreras puedan impedir su participación en la sociedad en igualdad de condiciones con los demás;
 
-XXX. Vía Primaria: Aquélla que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+XXXIII. Red Urbana de Transporte Articulado (RUTA): Es aquél servicio que se presta a través de corredores de transporte público de pasajeros, el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público total o parcialmente confinados. El sistema comprenderá la troncal correspondiente y las rutas alimentadoras del mismo;
 
-XXXI. Vía Pública: Todo espacio de uso común destinado al libre tránsito y que sea propiedad del Municipio, que cuente con las características y especificaciones señaladas en el Capítulo de construcciones;
+XXXIV. Salario mínimo general vigente: El establecido para la zona económica correspondiente al Municipio;
 
-XXXII. Vía Secundaria: Aquélla que permite la circulación al interior de las colonias, barrios y pueblos, tales como callejones, callejuelas, rinconadas, cerradas, privadas, caminos de terracería, calles peatonales, pasajes, andadores y portales; y
+XXXV. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
 
-XXXIII. Usuarios de la vía pública: El elemento más importante dentro del Sistema, lo constituyen hombre o mujeres que transitan por los caminos en diferentes modalidades como peatón, pasajero o conductor. Creadores de la necesidad de circular, el cual adquiere características diferenciadas según su actitud en el transitar por los caminos.
+XXXVI. Seguridad Vial: Conjunto de medidas tendentes a preservar la integridad física y patrimonial de las personas con motivo de su tránsito en las Vías Públicas;
+
+XXXVII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movilidad;
+
+XXXVIII. Sistema de Transporte Público: Es la interacción entre la red vial, redes de transporte, modos de transporte y operadores que se complementan con el objetivo de garantizar la movilidad de las personas, cumpliendo determinados patrones de eficiencia, seguridad y costo;
+
+XXXIX. Terminal de Transferencia: Punto principal de estación del cual parten las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+
+XL. Terminal electrónica de infracción digital: Una terminal punto de venta que cuenta con un sistema de recepción de pago de infracciones de manera electrónica;
+
+XLI. Troncal: Consiste en la vía principal de desplazamiento de las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+
+XLII. Vía peatonal: Aquella destinada a la circulación exclusiva o prioritaria de peatones y en la que el acceso a vehículos está restringida a reglas especificadas. Éstas incluyen:
+
+a. Cruces peatonales,
+
+b. Banquetas y rampas,
+
+c. Camellones e isletas,
+
+d. Plazas y parques,
+
+e. Puentes peatonales,
+
+f. Calles peatonales y andadores,
+
+g. Calles de prioridad peatonal;
+
+XLIII. Vía Primaria: Aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+
+XLIV. Vía Pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos, así como a la prestación de servicios públicos y colocación de mobiliario urbano;
+
+XLV. Vía Secundaria: Aquella que permite la circulación al interior de las colonias, barrios y pueblos;
+
+XLVI. Zona 30: Espacio urbano cuyo tránsito vehicular permite una velocidad máxima de 30 kilómetros por hora, como son: calles del Centro Histórico, locales, zonas escolares, hospitales, parques, centros comerciales, de espectáculos y demás centros de reunión determinados por la Dirección de Tránsito;
+
+XLVII. Zona de Monumentos: Es la superficie territorial o de terreno urbano, en donde se encuentran ubicados varios inmuebles considerados como patrimonio histórico o cultural, por declaración de autoridad competente; y
+
+XLVIII. Zona escolar: Zona de la vía situada frente a una institución educativa, y que se extiende a los lados de los lugares de acceso, hasta en un radio de 50 metros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 255.
 
-El presente Capítulo será aplicado a todos los vehículos que circulan en las vías públicas en el ámbito territorial del Municipio de Puebla, incluyendo a los vehículos del servicio público en cualquier (sic) de sus modalidades, quedando lo referente al orden administrativo a cargo de la autoridad competente.
+La aplicación del presente Capítulo se basa en los siguientes principios:
+
+I. La movilidad en condiciones de seguridad vial es un derecho, por lo que todas las autoridades en el ámbito de su competencia deben adoptar medidas para garantizarla;
+
+II. La movilidad en la Vía Pública debe efectuarse con cortesía, por lo que los ciudadanos deben observar un trato respetuoso hacia los Agentes y personal de apoyo vial;
+
+III. Los conductores de vehículos motorizados y no motorizados deben responsabilizarse del riesgo que implican para los demás usuarios de la Vía Pública, por lo que su conducción se realizará con prudencia y cautela; y
+
+IV. El uso racional del automóvil particular para mejorar las condiciones de salud y protección del ambiente.
+
+Estos principios deben ser difundidos por autoridades y asociaciones ciudadanas de forma permanente a través de campañas, programas o cursos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN II. JERARQUÍA DE LA MOVILIDAD
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 256.
 
-En las vías públicas ubicadas en la extensión territorial del Municipio, que estén bajo la jurisdicción de las autoridades federales o estatales competentes, no serán aplicables las disposiciones del presente Capítulo, y el Gobierno Municipal carecerá de competencia para aplicar los preceptos que regulen la seguridad vial y el tránsito en dichas vías, salvo acuerdo, convenio o disposición en contrario.
+La Administración Pública Municipal facilitará las condiciones para que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, servicios y oportunidades que ofrece el Municipio. Para el establecimiento de la política pública en la materia se considerará el nivel de vulnerabilidad de los usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad. Se otorgará prioridad en la utilización del espacio público de acuerdo a la siguiente jerarquía de movilidad:
+
+I. Peatones, en especial personas con discapacidad y personas de movilidad reducida;
+
+II. Ciclistas;
+
+III. Usuarios del servicio de transporte público;
+
+IV. Prestadores del servicio de transporte público;
+
+V. Prestadores del servicio de transporte de carga y distribución de mercancías; y
+
+VI. Usuarios de transporte particular automotor.
+
+En el ámbito de sus atribuciones, las autoridades en materia de movilidad deben contemplar lo dispuesto en este artículo como referente y fin último en la elaboración de políticas públicas y programas, procurando en todo momento su cumplimiento y protección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 257.
 
-Los conductores, los patrones de éstos, los padres o tutores sí aquellos son menores de edad o incapaces, los propietarios de vehículos o semovientes y las demás personas que causan daño a las vías públicas o equipamiento urbano del Municipio y sean responsables del mismo, están obligados a pagar el importe de su reparación y a cubrir la sanción a que por tal motivo se hagan acreedores. Lo anterior sin perjuicio de consignar a los probables responsables de estas u otras infracciones al presente Capítulo, ante la autoridad competente, en caso de que el mismo hecho pueda constituir delito o alguna falta administrativa.
+Por su naturaleza, la movilidad se clasifica en:
 
-DE LA COMPETENCIA Y ATRIBUCIONES
+I. Movilidad no motorizada. Comprende el tránsito o movimiento de peatones y vehículos de propulsión mecánica, con asistencia eléctrica, animal y/o humana; y
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+II. Movilidad motorizada. Los vehículos que pueden ser guiados para transitar por la Vía Pública y llevan un motor, generalmente de combustión interna y/o eléctrico que los pone en movimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN III. PEATONES Y PERSONAS CON DISCAPACIDAD
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 258.
 
-El Ayuntamiento, a través de la Secretaría de Seguridad Pública y Tránsito Municipal, la Dirección de Tránsito Municipal, los agentes de vialidad estarán facultados para la aplicación y observancia de las disposiciones contenidas en el presente Capítulo y, en lo conducente, de los preceptos contenidos en los ordenamientos federales y estatales en la materia.
+Los peatones y personas con discapacidad tienen derecho de preferencia sobre el tránsito vehicular, debiendo los conductores hacer alto para cederles el paso y garantizar su integridad física, de conformidad con lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+I. En los pasos peatonales e intersecciones controladas por semáforos, cuando la luz verde les otorgue el paso;
 
-###### Artículo 259.
+II. Cuando les corresponda el paso de acuerdo con el semáforo e iniciado el cruce, no alcancen a cruzar la vía, siendo obligación de los conductores detenerse hasta que lo hubieren hecho sin presionarlos o increparlos;
 
-La Secretaría a través de la Dirección de Tránsito vigilará en forma permanente que el tránsito municipal se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá las siguientes atribuciones:
+III. Cuando los vehículos den vuelta para entrar a otra vía y haya peatones cruzando ésta, el vehículo deberá hacer alto total;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+IV. Si los peatones transitan sobre el acotamiento al no disponer de zona peatonal;
 
-I. Realizar programas y acciones encaminados al mejoramiento, control, fluidez y progreso del tránsito vehicular y peatonal;
-
-II. Evaluar y, en su caso, aprobar los estudios de impacto vial que realicen los interesados, a través del Departamento correspondiente, en asuntos relacionados al otorgamiento de uso de suelo, coadyuvando a definir las estrategias que permitan una mejor planeación en materia de estacionamientos, sitios, terminales y otras construcciones que repercutan directamente en el tránsito municipal;
-
-III. Definir y realizar, en coordinación con las instancias respectivas del Gobierno Federal y Estatal, los operativos, funciones comunes o concurrentes y demás medidas preventivas y de seguridad vial que sean necesarias, conforme a lo dispuesto en el presente Capítulo;
-
-IV. Fomentar e impartir los temas de educación vial y demás temas relativos al tránsito municipal, en coordinación con instituciones, planteles educativos y los demás sectores de la sociedad;
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
-
-V. Autorizar, proporcionar, instalar, fijar, mantener, reponer y coordinar las señales, los moderadores de velocidad y los demás dispositivos necesarios para regular, controlar y proveer a la observancia de las normas en materia de tránsito municipal, haciendo uso de CINEMÓMETROS, que permitan obtener datos para conocer la velocidad de los vehículos automotores y el modo en que circulan en la vía pública, entre otras;
-
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
-
-VI. Vigilar la seguridad vial y la de los usuarios del transporte público, así como salvaguardar la integridad física de los peatones y ciclistas, como establecer medidas que permitan eliminar las conductas que violan las disposiciones en la materia, en términos del presente Capítulo;
-
-VII. Designar, con aprobación del Ayuntamiento, el número de agentes de vialidad que estime necesario para realizar las funciones de su competencia;
-
-VIII. Coordinar, a través del Departamento de Servicios Periciales, los trabajos periciales y la elaboración de dictámenes en materia de tránsito y seguridad vial, en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
-
-IX. Vigilar e inspeccionar los vehículos que circulen en las vías públicas del Municipio, pudiendo realizar los operativos conducentes e implementar tecnologías, mecanismos y metodologías que propicien la vigilancia de las disposiciones en la materia y en su caso la imposición de sanciones;
-
-X. Requerir y verificar la documentación que deben portar los conductores de los vehículos, para que aquellos puedan conducir y éstos circular;
-
-XI. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
-
-XII. Sancionar a los conductores, propietarios de vehículos y peatones, y retirar de la circulación, inmovilizar o asegurar unidades, en su caso, cuando contravengan las disposiciones del presente Capítulo;
-
-XIII. Proponer al Ayuntamiento, a través del Presidente Municipal, la modificación o adición del tabulador de infracciones y sanciones en la materia, que forma parte de este Capítulo;
-
-XIV. Otorgar a las autoridades administrativas y judiciales, el auxilio que requieran de acuerdo a la ley para el debido ejercicio de sus funciones y la ejecución de sus resoluciones, en los casos que proceda;
-
-XV. Proporcionar a las personas físicas o jurídicas colectivas que acrediten conforme a derecho su interés jurídico, copia certificada a su costa de las constancias que le sean útiles para justificar que han cumplido con las disposiciones de la materia o de cualquier otro documento público de naturaleza similar, así como de la información que requieran de los expedientes de la propia Secretaría, siempre que en este caso realicen su petición por escrito, señalen el expediente de que se trata y los datos que requieran, y que la información no sea de carácter confidencial;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XVI. Proponer al Ayuntamiento para su aprobación, a través del Presidente Municipal y por acuerdo del Secretario de Seguridad Pública y Tránsito Municipal, el ordenamiento y los manuales necesarios para determinar y regular el funcionamiento interno de la dependencia; y
-
-XVII. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
-
-###### Artículo 259 Bis.
-
-Para los efectos de la fracción V del artículo anterior se entiende por CINEMÓMETRO una cámara móvil para la detección de la velocidad.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 259 Bis 1.
-
-La Dirección de Tránsito Municipal se encuentra facultada para instalar de manera discrecional CINEMÓMETROS, en las vialidades que para tal efecto designe, a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos que sobre ellas circulen.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 259 Bis 2.
-
-La Dirección de Tránsito Municipal, se encuentra facultada para colocar CINEMÓMETROS, en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 259 Bis 3.
-
-En la hipótesis de que la Secretaría de Seguridad Pública y Tránsito Municipal a través de la Dirección de Tránsito Municipal, proceda a la instalación de CINEMÓMETROS, tendrá como objetivo salvaguardar la vida, salud, integridad física y propiedades de los conductores, de los pasajeros, de los transeúntes y en términos generales de cualquier otra persona que pudiera ser afectada por la inobservancia de las reglas relativas al límite de velocidad.
-
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
-
-###### Artículo 259 Bis 4.
-
-En cada caso, en que la infracción a las disposiciones de tránsito establecidas en el presente Capítulo, sea registrada a través de un CINEMÓMETRO, en ella se establecerá el vehículo, la velocidad y en su caso la placa respectiva.
-
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
-
-###### Artículo 259 Bis 5.
-
-Para los efectos del artículo anterior, será sancionada la persona que aparezca dada de alta en el Registro Estatal de Vehículos, observándose al respecto lo establecido por el artículo 361 Bis del presente ordenamiento legal.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 259 Bis 6.
-
-Si en un mismo evento concurren dos o más infracciones al presente Capítulo, y una de ellas se derive de la aplicación de un CINEMÓMETRO, el agente, se encuentra facultado para dar alcance al vehículo automotor correspondiente, detenerlo, hacerle ver que ha sido detectado por el CINEMÓMETRO por exceder el límite de velocidad y que por ende llegará a su domicilio la infracción respectiva.
-
-Respecto a la infracción concurrente, el agente se encuentra facultado para proceder en términos del presente Capítulo determinando la infracción que en su caso hubiese cometido el conductor en términos del artículo 304 y demás relativos del presente ordenamiento legal.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 259 Bis 7.
-
-Con independencia de lo señalado en los artículos 259 Bis, 259 Bis 1,259 Bis 2, 259 Bis 3, 259 Bis 4, 259 Bis 5 y 259 Bis 6, la Dirección de Tránsito Municipal a través de su personal, mantiene las facultades discrecionales en términos del presente Capítulo, a fin de cerciorarse de que un vehículo ha excedido el límite de velocidad en aquellas vialidades en donde no se encuentre un CINEMÓMETRO, conminando a los conductores a fin de que no incurran nuevamente en una falta por exceso de velocidad y realizando las acciones que en términos del presente Capítulo sean procedentes.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 260.
-
-De acuerdo con el artículo 259 del presente Código, los agentes, están facultados para proceder conforme a las fracciones IX, X y XII del mismo precepto, en los supuestos en que los conductores o propietarios de vehículos y peatones contravengan alguna de las disposiciones del presente Capítulo, aplicando las medidas preventivas y de seguridad que se requieran y levantando las actas de infracción, en su caso, de acuerdo con los procedimientos para el efecto, las cuales se ejecutarán o sancionarán por el Departamento de Infracciones, de conformidad al tabulador de infracciones y sanciones establecido en este Capítulo.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 260 Bis.
-
-La Dirección de Tránsito instalará programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas, para conductores de vehículos para salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 261.
-
-La Dirección de Tránsito Municipal cuidará que las aceras, calles y demás vías públicas o lugares de tránsito para peatones y vehículos estén siempre expeditos para la circulación, debiendo intervenir en todos los casos en que se realicen obras y trabajos que alteren o impidan el libre tránsito, en la colocación de moderadores de velocidad y en la instalación y funcionamiento de centros comerciales o de espectáculos, estacionamientos, expendios de combustible, ferias y demás establecimientos o eventos que impliquen una concentración masiva de personas o vehículos, con el fin de evitar accidentes viales, obstrucciones a la circulación, la ocupación indebida de la vía pública e invasiones al correspondiente derecho de vía.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-Los encargados de ejecutar dichas obras o trabajos, los interesados en colocar moderadores de velocidad y los responsables de los establecimientos o eventos referidos, además de cumplir con las autorizaciones, permisos y licencias municipales correspondientes, tendrán la obligación de colocar las señales de tránsito y dispositivos de seguridad vial que sean necesarios y la de advertir adecuadamente sobre la existencia de excavaciones, materiales acumulados, maquinaria, construcciones en desarrollo u otros obstáculos, que signifiquen un peligro para los vehículos y peatones, debiendo atender todas las indicaciones que la Dirección de Tránsito Municipal les haga al respecto.
-
-Si por desobedecimiento o negligencia en la observancia de lo dispuesto en el párrafo anterior se producen accidentes viales o de tránsito, las personas responsables del incumplimiento deberán resarcir a los conductores y peatones afectados de todos los perjuicios y daños materiales causados por tal motivo.
-
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2013)</small>
-
-###### Artículo 262.
-
-La Dirección de Tránsito Municipal fijará, de manera general, los límites máximo y mínimo de velocidad que puedan desarrollar los vehículos en las vías públicas y ciclo vías públicas del Municipio, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 263.
-
-La Dirección de Tránsito Municipal señalará los lugares autorizados para estacionamiento de vehículos en la vía pública y la forma en que deban hacerlo, tomando en consideración los movimientos, circulación y concentración de vehículos y de personas.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 264.
-
-La Dirección de Tránsito Municipal podrá establecer horarios específicos para operaciones de carga y descarga: dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las vías públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas.
-
-TRÁNSITO MUNICIPAL DE LOS VEHÍCULOS
-
-###### Artículo 265.
-
-Por su naturaleza, los vehículos materia del presente Capítulo se clasifican en:
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-I. Bicicletas a partir de la rodada 16 en adelante;
-
-II. Triciclos;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-III. Moto bicicletas;
-
-IV. Motonetas;
-
-V. Motocicletas;
-
-VI. Automóviles;
-
-VII. Camionetas;
-
-VIII. Camiones;
-
-IX. Trailers;
-
-X. Autobuses;
-
-XI. Remolques;
-
-XII. Grúas;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XIII. Tracto-camiones;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XIV. Equipo Especial Móvil, en el que quedan comprendidos todos los vehículos no especificados en la enumeración anterior; y
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XV. Vehículos del Sistema de Transporte Público Masivo RUTA.
-
-###### Artículo 266.
-
-Para los fines establecidos en el presente Capítulo, los vehículos se clasifican en:
-
-I. Vehículos Particulares. Aquellos que están destinados al servicio particular o privado de sus propietarios, los cuales pueden ser indistintamente de pasajeros o de carga y en ningún caso podrán usar los colores reservados a vehículos de instituciones públicas o destinados al servicio de transporte público y mercantil;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-II. Vehículos destinados al Servicio de Transporte Público o Mercantil. Aquéllos previstos y clasificados en la legislación federal y estatal en materia de transporte, destinados a la transportación de personas o de bienes en sus diferentes modalidades y que operan en virtud de concesiones o permisos, otorgados conforme a dichos ordenamientos;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-III. Equipo Especial Móvil. Aquél que no se encuentra comprendido en las fracciones anteriores y que haga uso de las vías públicas municipales en forma eventual; y
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-IV. Vehículos del Sistema de Transporte Público Masivo RUTA.
-
-###### Artículo 267.
-
-Para que un vehículo pueda transitar regularmente en el Municipio de Puebla, es necesario que con anticipación sea inscrito en términos de las disposiciones federales y estatales aplicables, esté provisto de placas, engomado y tarjeta de circulación o el permiso de circulación vigente y cumpla con los demás requisitos que, en su caso, establezcan de manera especial la legislación y demás disposiciones aplicables en la materia. La baja, cancelación o sustitución de la inscripción antes referida, así como la responsabilidad que surja de su omisión, se regirán por las mismas disposiciones.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-Para el caso de los vehículos que porten placas de circulación del Estado de Puebla, éstas deberán estar vigentes.
-
-###### Artículo 268.
-
-La clasificación, condiciones de uso, obtención canje, reposición y demás aspectos relacionados con las placas, engomados y tarjetas de circulación de los vehículos que transitan en el Municipio, quedan sujetas a la (sic) disposiciones de la legislación fiscal y administrativa que resulten aplicables en la materia, quedando prohibida la circulación de vehículos con placas y tarjeta de circulación correspondientes a otros vehículos.
-
-###### Artículo 269.
-
-La colocación de las placas y los engomados que en su caso correspondan, se rigen por las siguientes disposiciones:
-
-I. En automóviles, camiones y autobuses, las placas se colocarán invariablemente en las partes anterior y posterior de los vehículos, en los lugares destinados para ese objeto, debiendo quedar completamente visibles, y el engomado que en su caso corresponda, en alguno de los vidrios laterales o el medallón del vehículo;
-
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
-
-II. Las placas para motocicletas y otra clase de vehículos distintos de los señalados en la fracción anterior, se colocarán en la parte posterior de los mismos;
-
-III. Se prohíbe que las placas oficiales estén remachadas o soldadas al vehículo y llevar sobre éstas, anexas a las mismas o en lugar de ellas, distintivos, objetos u otras placas, diferentes a las de diseño oficial o con rótulos e inscripciones de cualquier índole, así como micas o reflejantes que oculten, velen o impidan ver con claridad, parcial o totalmente, las letras o números de las mismas; y
-
-IV. En caso de placas de demostración, no se requerirá engomado.
-
-###### Artículo 270.
-
-Se prohíbe la alteración o destrucción indebida, parcial o total, de las placas, engomados, tarjetas de circulación, permisos para circular, números del motor o del chasis. En caso de pérdida, extravío o robo de cualquiera de ellos, el interesado deberá notificarlos inmediatamente a la autoridad correspondientes (sic) y seguir el trámite respectivo para su reposición, dentro de un término no mayor de treinta días contados a partir del día siguiente a aquél en que ocurra alguno de los percances mencionados. Para evitar que la unidad sea retirada de la circulación, el propietario o conductor deberá acreditar el cumplimiento de lo anterior.
-
-###### Artículo 271.
-
-Para que un vehículo pueda circular libremente en las vías públicas, debe contar con los dispositivos, accesorios y condiciones que a continuación se establecen, de conformidad con las características del vehículo y las disposiciones vigentes en materia de tránsito, seguridad vial, transporte, ecología y protección al medio ambiente:
-
-I. Para cualquiera de los vehículos previstos en el artículo 265 del presente Código Reglamentario:
-
-a). Encontrarse en buen estado de funcionamiento y operación, debiendo reunir las condiciones mínimas de seguridad necesarias para los ocupantes y terceros, de acuerdo a la especificaciones de vehículo y las normas oficiales mexicanas aplicables;
-
-b). Estar provistos de algún aparato que sirva para emitir sonidos claros y perceptibles, tales como claxon, bocina o timbre, según la clase del vehículo, considerando que el empleo de sirenas, torretas y luces de emergencia queda reservado a vehículos de policía y seguridad vial, del cuerpo de bomberos, convoyes militares y ambulancias. Se prohíbe el uso de silbatos accionados con el escape de vehículos;
-
-c). Contar con ruedas enllantadas; en ningún caso de madera, metal u otros materiales que puedan dañar la vía pública;
-
-d). Tener luz blanca y fija en la parte delantera y luz roja en la parte posterior, que se acciones e intensifique al aplicar los frenos, las cuales debe servir y operar en condiciones de bruma, neblina u obscuridad, para hacer visible la unidad por ambos lados.
-
-II. Para los vehículos de motor previstos en el artículo 265 del presente Capítulo, además de lo establecido en la fracción anterior:
-
-a). Estar provistos de velocímetro en perfecto estado de funcionamiento y con iluminación durante la noche;
-
-b). Tener fanales delanteros de luz blanca y fija, con dispositivos para disminuir la intensidad de luz en los casos que así lo exija la circulación; luces intermitentes en la parte posterior y delantera; en la parte posterior, luz roja que accione y se intensifique al aplicar los frenos y luz blanca que accione al circular de reversa, y una luz que ilumine la placa posterior después del atardecer;
-
-c). Contar con doble sistema de frenos, de pie y de mano, que sean compatibles entre sí;
-
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2013)</small>
-
-d). Llevar un espejo lateral, al menos, en el lado izquierdo del conductor y, con excepción de las bicicletas, motobicicletas, motonetas y motocicletas, tener instalado un espejo retroscópico en la parte superior media del parabrisas;
-
-e). Estar provistos de dispositivos que eviten ruidos y humo excesivos, quedando expresamente prohibido utilizar válvulas de escape, derivaciones y otros dispositivos que produzcan ruidos molestos o superiores a los noventa y cinco decibeles, cuando circulen por centros poblados;
-
-f). Realizar la verificación vehicular obligatoria en materia de emisión de contaminantes, conforme a la disposiciones respectivas y portar en lugar visible del vehículo la calcomanía o emblema vigente, que demuestre el cumplimiento de dicha obligación;
-
-g). Estar provistos de cinturones de seguridad;
-
-h). Contar con defensas en la parte delantera y posterior del vehículo;
-
-i). Tener limpiadores automáticos en el parabrisas;
-
-j). Estar equipados con una llanta auxiliar cuando menos, en condiciones de sustituir algunas que se inutilizare, y con herramienta necesaria para caso de emergencia;
-
-k). Sujetarse, en cuanto a los límites de carga y dimensiones, a lo establecido por el siguiente artículo y los ordenamientos aplicables en el ámbito federal o estatal, según corresponda, en el entendido de que los bultos, mercancías o cualquier otro objeto similar que se transporte, no deberá rebasar el ancho, largo y alto de las carrocerías respectivas, y cuando esto no sea posible, por las características del vehículo, la carga sólo podrá exceder el alto y longitud de la carrocería hasta dos metros de su extensión, sin que sobrepasen una altura máxima de cuatro metros a partir de la superficie de rodamiento, debiendo en tales casos portar una banderola de color rojo durante el día o bien reflejantes o una linterna del mismo color durante la noche, perfectamente visible a una distancia de cincuenta metros en condiciones atmosféricas normales;
-
-l). Llevar como equipo de emergencia un extinguidor y dos reflejantes o faroles de señalamiento, que deberán utilizarse en caso de que el vehículo sufra alguna descompostura y quede mal estacionado;
-
-Las motobicicletas, motonetas y motocicletas, por su naturaleza, quedan exceptuadas de lo ordenado en los últimos seis incisos de esta fracción; y
-
-III. Para camionetas, camiones, trailers, autobuses, remolques, grúas y tracto-camiones, además de lo previsto en las fracciones anteriores:
-
-a). Estar provistos de escapes que reúnan las condiciones señaladas por las normas aplicables;
-
-b). Ostentar de manera visible las inscripciones que, en su caso, determinen las disposiciones federales y estatales vigentes;
-
-c). Llevar espejos laterales en ambos lados del vehículo;
-
-d). Los remolques que se adapten a otros vehículos deben llevar, en la parte posterior, una lámpara que proyecte luz roja claramente visible a una distancia de cien metros en condiciones atmosféricas normales; la placa posterior de identificación será iluminada por luz blanca y llevará plafones laterales y superiores;
-
-e).- Además del equipo de emergencia exigido por el último inciso de la fracción anterior, llevar un botiquín con medicinas, vendas y otros enseres similares, para brindar primeros auxilios;
-
-f).- Tratándose de vehículos destinados al servicio de transporte público o mercantil, satisfacer los demás requisitos y condiciones que exijan las disposiciones federales y estatales vigentes.
-
-###### Artículo 272.
-
-Con el fin de evitar que se causa (sic) daños en las vías públicas, los camiones de carga, tracto-camiones con doble remolque y vehículos análogos que circulen por las mismas, deben sujetarse a los siguientes límites máximos de carga y dimensiones:
-
-a) Peso total, incluyendo el de la carga: 8,000 kilos
-
-b) Largo máximo: 13 metros
-
-c) Ancho máximo: 3.5 metros
-
-d) Altura máxima desde la superficie de rodamiento: 4 metros
-
-e) Ancho máximo de la carga que se transporte: 2.5 metros
-
-f) Largo total de un camión de carga con remolque: 13 metros
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-Tratándose de camiones que excedan de las características anotadas, se requerirá autorización especial de la Dirección de Tránsito Municipal para que puedan circular en las vías públicas, en las rutas y horarios que ésta determine.
-
-###### Artículo 273.
-
-En los vehículos particulares destinados al transporte de personas que circulen por las vías públicas, queda prohibida la transportación de animales, bultos, paquetes u otros objetos análogos en el habitáculo destinado a los pasajeros, cuando por su condición, volumen, aspecto o mal olor, causen evidentes molestias o afecten la comodidad y seguridad de los mismos, sin perjuicio de lo que dispongan los ordenamientos federales y estatales en materia de transporte. Tratándose de autobuses, la transportación de estos bienes y del equipo de los usuarios, se hará en la forma que determinen las autoridades competentes en la materia.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 274.
-
-La Dirección de Tránsito Municipal podrá realizar inspecciones a los vehículos que circulan en el Municipio, con la finalidad de verificar que se encuentren en condiciones apropiadas para circular, que se sujeten a lo señalado previamente y cumplan con los demás requisitos establecidos en el presente Capítulo, pudiendo retirar de la circulación y asegurar aquellos vehículos que no se ajusten a lo anterior.
-
-DE LOS CONDUCTORES DE VEHÍCULOS
-
-###### Artículo 275.
-
-Para que una persona pueda manejar en el Municipio los vehículos a que se refiere el presente Capítulo, debe portar licencia o permiso para conducir, que esté vigente y corresponda al tipo de vehículo que conduce o pretende guiar, de acuerdo con la ley; pero si la licencia o el permiso fue expedido por autoridad competente en otra entidad federativa, a nivel federal o en el extranjero, en su caso, los titulares deben respetar las limitaciones que las leyes establezcan respecto de la conducción de vehículos destinados al transporte.
-
-No será aplicable lo dispuesto en el párrafo anterior a los conductores de bicicletas, triciclos, carros de mano, transportes de tracción animal y otros vehículos similares o para los que la ley no exija licencia o permiso, sin que por ello queden eximidos de cumplir las demás disposiciones conducentes de este Capítulo, ni de las sanciones a que se hagan acreedores por infringir éste.
-
-###### Artículo 276.
-
-Para efectos de este Capítulo, los conductores de vehículos se clasifican en:
-
-I. Calesero, Cochero o Mayoral. Conductores de carro de mano, transporte de tracción animal y otros vehículos similares que no sean de motor;
-
-II. Ciclistas. Conductores de bicicletas, triciclos sin motor y otros vehículos similares;
-
-III. Motociclistas. Conductores de motonetas, bicicletas con motor de combustión interna y motocicletas de dos, tres o cuatro ruedas;
-
-IV. Automovilistas. Conductores de vehículos destinados al uso particular o privado, cuya capacidad de carga no exceda de mil quinientos kilos;
-
-V. Choferes Particulares. Conductores de vehículos destinados al uso particular o privado, cuya capacidad de carga sea menor o mayor a los mil quinientos kilos, que no estén reservados al servicio público de transporte y que no se trate de los referidos en la fracción III de este artículo;
-
-VI. Choferes para el Servicio Público y el Servicio Mercantil. Conductores de vehículos destinados al servicio público de transporte o al servicio mercantil, sin menos cabo de que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los referidos en la fracción III de este artículo;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-VII. Automovilistas o Motociclistas con Licencia Provisional. Conductores de dieciséis a dieciocho años o que sean mayores de esta última edad y estén aprendiendo a conducir;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-VIII. Choferes del Servicio Público y del Servicio Mercantil, con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio de transporte; y
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-IX. Conductores del Sistema de Transporte Público Masivo RUTA.
-
-###### Artículo 277.
-
-Los titulares de las licencias o permisos para conducir están obligados a solicitar su reposición, refrendo o la expedición de uno nuevo, cuando estén rotos, deteriorados, ilegibles, o no se encuentran vigentes o refrendados, por lo que si conducen con licencias o permisos que se encuentren en dichas condiciones, se harán acreedores a las sanciones por conducir sin licencia.
-
-###### Artículo 278.
-
-Los propietarios y conductores de vehículos deben evitar que éstos sean conducidos por personas que carezcan de licencia o permiso para ello, siendo indistintamente responsables de la infracción a este artículo y de los daños y perjuicios que se causen por tal motivo.
-
-DE LOS PEATONES Y PASAJEROS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
-
-###### Artículo 279.
-
-Los peatones y personas con discapacidad tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-I. En los pasos peatonales la señal del semáforo así lo indique;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-II. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzarla vía;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-III. Los vehículos vayan a dar vuelta para entrar a otra vía y haya peatones cruzando ésta;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-IV. Los vehículos circulen sobre el acotamiento y en éste haya peatones transitando en el caso de que no dispongan de zona peatonal;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-V. Transiten por la banqueta y algún conductor deba cruzarla para entrar o salir de una cochera o estacionamiento; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+V. Si los peatones transitan por la banqueta y algún conductor deba cruzarla para entrar o salir de una cochera o estacionamiento;
 
 VI. Vayan en comitivas organizadas o filas escolares;
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+VII. Accedan a las rampas destinadas para incorporarse a la banqueta;
 
-VII. Accedan a las rampas destinadas para incorporarse a la banqueta.
+VIII. Cuando el señalamiento de tránsito permita el paso simultáneo de vehículos y peatones;
 
-###### Artículo 280.
+IX. En las intersecciones donde no exista señalamiento, semáforo peatonal, Agente, paso peatonal debidamente indicado o algún otro dispositivo de control de tráfico que permita el cruce seguro del peatón;
 
-Se prohíbe a los peatones entorpecer, en cualquier forma, la marcha de columnas militares, escolares, cívicas, de servicios especiales o manifestaciones permitidas, o cruzar las filas de éstas. De igual forma, se prohíbe formar grupos o depositar bultos que obstruyan el tránsito en las aceras o canales de uso exclusivo para los peatones, para seguridad de los mismos.
+X. En las calles de prioridad peatonal, donde podrán circular en todo lo ancho de la vía y en cualquier sentido;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+XI. Los estudiantes gozarán de derecho de preferencia de paso en todas las intersecciones y zonas escolares señaladas al efecto;
 
-###### Artículo 281.
+XII. En vuelta de los vehículos a la derecha o a la izquierda con circulación continua o con señalamiento manual o electrónico; y
 
-Los peatones deberán observar lo siguiente:
+XIII. Para salvaguardar el derecho de preferencia de los peatones establecido en las fracciones anteriores, los conductores de vehículos tienen prohibido rebasar en luz roja, las líneas que protegen las zonas de peatones, o el alineamiento de los edificios, o intersecciones donde no exista señalamiento, semáforo peatonal, líneas de zona peatonal, o Agente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 259.
+
+Los peatones y personas con discapacidad tendrán los siguientes derechos:
+
+I. A la movilidad;
+
+II. Recibir de los Agentes la orientación requerida;
+
+III. Recibir de los Agentes la asistencia o auxilio que requieran;
+
+IV. De preferencia, de conformidad con lo dispuesto en este Capítulo;
+
+V. De accesibilidad universal;
+
+VI. Disfrutar libremente de los espacios públicos y de la vía peatonal; y
+
+VII. Cualquier otro previsto en alguna norma compatible con el presente Capítulo y que resulte aplicable en el Municipio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis 1.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis 2.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis 3.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis 4.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis 5.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis 6.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 259 Bis 7.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 260.
+
+Los peatones tendrán las siguientes obligaciones:
 
 I. Cruzar las vías en las esquinas o zonas marcadas para tal efecto;
 
-II. Utilizar los puentes o pasos peatonales para cruzar la vía;
+II. Utilizar los puentes o pasos peatonales para cruzar la vía. No es obligatorio el uso del puente peatonal cuando las condiciones físicas de la persona se lo impidan, o habiendo cerca las líneas de paso peatonal se lleve a cabo el cruce por medio del paso peatonal y existan las condiciones de seguridad y accesibilidad para dicha acción;
 
-III. Tomar las precauciones necesarias en caso de no existir semáforo;
+III. Cruzar únicamente después de haberse cerciorado que pueden hacerlo con toda seguridad;
 
-IV. Obedecer las indicaciones de los agentes, promotores voluntarios de seguridad vial y las señales de tránsito; y
+IV. Obedecer las indicaciones de los Agentes, promotores voluntarios de seguridad vial y las señales de tránsito;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+V. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con discapacidad y obstáculos que impidan el estacionamiento de vehículos en la Vía Pública;
 
-V. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con discapacidad y/o obstáculos que impidan el estacionamiento de vehículos en la vía pública.
+VI. Abstenerse de cruzar Vías Primarias haciendo uso de audífonos, teléfonos celulares u otros objetos que les cause distracción; y
 
-Los peatones que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+VII. No entorpecer, en cualquier forma, la marcha de columnas militares, escolares, cívicas, de servicios especiales o manifestaciones, o cruzar las filas de éstas.
 
-Las autoridades correspondientes tomarán las medidas que procedan para garantizar la integridad física y el tránsito seguro de los peatones por la banqueta y el correcto flujo vehicular.
+Los peatones que no cumplan con las obligaciones de este Capítulo, serán amonestados verbalmente por los Agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 281 Bis.
+###### Artículo 260 Bis.
 
-Los ciclistas tienen derecho de preferencia sobre el tránsito vehicular cuando:
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 261.
+
+Los menores de edad, las personas con discapacidad, adultos mayores y las mujeres embarazadas, transitarán por el lado interno de la banqueta y tendrán preferencia de paso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN IV. CICLISTAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 262.
+
+Los ciclistas tienen derecho de preferencia sobre el tránsito vehicular siempre y cuando:
 
 I. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía;
 
-II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía y haya ciclistas cruzando ésta, siempre y cuando el ciclista observe las disposiciones de conducción y circulación de vehículos que establece el presente Capitulo; y
+II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía y haya ciclistas cruzando esta, siempre y cuando el ciclista observe las disposiciones de conducción y circulación de vehículos que establece el presente Capítulo;
 
-III. Los vehículos deban circular o cruzar una ciclovía y en ésta haya ciclistas circulando.
+III. Los vehículos deban circular o cruzar una Ciclovía y en esta haya ciclistas circulando; y
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+IV. Circulen sobre un carril de acuerdo a la presente Sección.
 
-###### Artículo 281 Ter.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los ciclistas deben:
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-I. Dar preferencia al peatón, respetar las señales de tránsito y las indicaciones de los Agentes de Tránsito;
+###### Artículo 263.
 
-II. Transitar en el sentido de la circulación vehicular;
+Son obligaciones de los ciclistas, las siguientes:
 
-III. Llevar a bordo sólo al número de personas para el que exista asiento disponible;
+I. Dar preferencia al peatón en todos los casos;
 
-IV. Utilizar el carril de extrema derecha de circulación;
+II. Respetar las señales de tránsito, las indicaciones de los Agentes y los dispositivos de Control Vial;
 
-V. Contar con timbre en su bicicleta;
+III. Transitar en el sentido de la circulación vehicular;
+
+IV. Llevar a bordo sólo al número de personas para el que exista asiento disponible;
+
+V. Utilizar el carril de extrema derecha de circulación, no deberá circular entre carriles, excepto cuando el ciclista se encuentre con tránsito detenido y busque colocarse en lugar visible para reiniciar la marcha;
 
 VI. Rebasar sólo por el carril izquierdo;
 
-VII. El ciclista debe usar aditamentos o bandas reflejantes para uso nocturno;
+VII. Cerciorarse que la bicicleta cumpla con las características de vehículos no motorizados;
 
-VIII. El ciclista circulará preferentemente por las vías destinadas para ello;
+VIII. Circular preferentemente, por las vías destinadas para ello; no podrá circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones;
 
-IX. El ciclista debe compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de la extrema derecha;
+IX. Compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de la extrema derecha;
 
-X. Debe usar las señales apropiadas para dar vuelta a la izquierda o a la derecha y para indicar la dirección de su giro o cambio de carril;
+X. Usar las señales apropiadas para dar vuelta a la izquierda o a la derecha y para indicar la dirección de su giro o cambio de carril;
 
-XI. Los ciclistas tienen los mismos derechos y las mismas obligaciones aplicables para un conductor de cualquier otro vehículo, exceptuando lo establecido en el presente Capítulo, así como todas las provisiones que por naturaleza propia de la bicicleta no tengan aplicación;
+XI. Circular sin mascotas excepto si las transportan en canastillas debidamente aseguradas;
 
-XII. Circular sin mascotas excepto si las transportan en canastillas y debidamente aseguradas;
+XII. Dentro del Centro Histórico, en las calles donde se cuenta con Ciclovía, Ciclocarril o Carril compartido ciclista, los ciclistas deberán circular en ella, y deberán avisar de su presencia mediante su voz o el timbre de su bicicleta a otros usuarios, encontrándose obligados a disminuir su velocidad;
 
-XIII. Dentro del Centro Histórico, en las calles donde se cuenta con ciclovía, los ciclistas deberán circular en ella; y
+XIII. En caso de falla mecánica, efectuarán las reparaciones preferentemente fuera de la superficie de rodamiento de las Ciclovías, Ciclocarril o Carril compartido ciclista;
 
-XIV. Los ciclistas que no cumplan con las obligaciones de este Capítulo, serán amonestados verbalmente por los Agentes de Tránsito y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+XIV. Respetar los carriles confinados para el transporte público de pasajeros (RUTA);
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+XV. Mantener ambas manos sobre el manubrio, y un debido control del vehículo o su necesaria estabilidad, en caso de transportar carga, ésta deberá ser por medio de canastilla o porta bultos;
 
-###### Artículo 281 Quater.
+XVI. No conducir bajo los efectos del alcohol, enervantes, estupefacientes, psicoactivos o cualquier otro que produzca efectos similares;
 
-Se prohíbe a los ciclistas:
+XVII. No sujetarse a otros vehículos en movimiento; y
 
-I. Circular entre carriles, excepto cuando el ciclista se encuentre con tránsito detenido y busque colocarse en lugar visible para reiniciar la marcha;
+XVIII. No hacer uso de audífonos, teléfonos celulares u otros dispositivos electrónicos al cruzar calles, avenidas, Ciclovías, Ciclocarril o cualquier otra vía de circulación.
 
-II. Circular por los carriles confinados para el transporte público de pasajeros (RUTA);
+Los ciclistas que no cumplan con las obligaciones de este Capítulo, serán amonestados verbalmente por los Agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
-III. Circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Transportar pasajero en lugar intermedio entre la persona que conduce y el manubrio;
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
 
-V. Transportar carga que impida mantener ambas manos sobre el manubrio, y un debido control del vehículo o su necesaria estabilidad;
+#### SECCIÓN V. DEL TRANSPORTE PÚBLICO Y SUS USUARIOS
 
-VI. Circular a velocidad mayor de 20 kilómetros por hora;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Circular en estado de ebriedad;
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
 
-VIII. Asirse o sujetarse a otros vehículos en movimiento; y
+APARTADO I
 
-IX. Circular haciendo uso de teléfonos celulares y otros dispositivos electrónicos, haciendo uso también de audífonos.
+DE LOS VEHÍCULOS DESTINADOS AL TRANSPORTE PÚBLICO
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 264.
+
+Los vehículos destinados al servicio de transporte público y mercantil de personas que transiten por las Vías Públicas de jurisdicción municipal, se rigen:
+
+I. Por disposiciones federales, estatales y municipales conducentes, por lo que se refiere a su clasificación, registro, concesión, permisos, tarifas, itinerarios, frecuencias de paso, horarios y demás aspectos relacionados con la prestación del servicio; y
+
+II. Por lo establecido en este Capítulo, en todo lo concerniente a su circulación, requisitos y condiciones para transitar.
+
+Los pasajeros tendrán derecho a exigir al conductor del vehículo y, en su caso, a los Agentes que se cumpla con dichas disposiciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 265.
+
+La circulación de los vehículos del sistema de transporte público y mercantil de personas, RUTA, servicio de transporte de carga y distribución de mercancías o personas queda sujeta a las siguientes disposiciones especiales en materia de tránsito:
+
+I. Las puertas de seguridad deben mantenerse cerradas durante todo el recorrido y solamente se abrirán para el ascenso y descenso del pasaje;
+
+II. Ningún vehículo deberá ponerse en movimiento sin haber cerrado previamente las puertas;
+
+III. Ningún vehículo deberá abastecerse de combustible con pasajeros a bordo;
+
+IV. Las paradas se harán únicamente en los lugares señalados para tal efecto, así mismo se prohíbe realizar las maniobras de ascenso o descenso de pasajeros, en carril distinto al de extrema derecha;
+
+V. Los usuarios serán admitidos únicamente en el interior de los vehículos y no se permitirá que persona alguna viaje en los estribos o en el exterior;
+
+VI. Se prohíbe al conductor transportar animales, bultos u otros objetos que dificulten la prestación del servicio;
+
+VII. Los vehículos destinados al transporte público no deberán romper el cordón de circulación ni rebasarse entre sí, sin causa justificada;
+
+VIII. Se prohíbe a los conductores, mientras el vehículo esté en movimiento, usar dispositivos electrónicos visuales a la vista de los mismos o realizar alguna otra actividad que provoque su distracción o ponga en peligro la seguridad de los pasajeros y terceros, debiendo evitar en lo posible que los usuarios desvíen su atención;
+
+IX. Los vehículos destinados al transporte escolar deben estar acondicionados con una rejilla colocada en los costados exteriores de la carrocería, sobre las ventanillas del vehículo, para protección de los usuarios;
+
+X. Se prohíbe a los conductores circular en extrema izquierda, a excepción de RUTA;
+
+XI. Se prohíbe a los conductores circular fuera de la ruta autorizada por la autoridad competente cuando se encuentre prestando el servicio a los usuarios del transporte público, a excepción de los casos en que el flujo vehicular sea desviado por disposición de la autoridad; y
+
+XII. El Centro Histórico será únicamente de paso, por lo que está prohibido hacer base y/o uso de reloj checador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 266.
+
+Los conductores de vehículos de transporte público y mercantil de personas y RUTA tienen prohibido estacionarlos en la Vía Pública para hacer reparaciones o limpieza de éstos, para abastecerse de las materias o sustancias que transportan, o para realizar algún chequeo con sus concesionarios, permisionarios o de los dependientes de éstos. En el caso de sitios, bases o terminales, se deberá contar con la autorización de las instancias competentes para estacionar las unidades respectivas en la Vía Pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO II
+
+DE LOS USUARIOS DEL TRANSPORTE PÚBLICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 267.
+
+Los usuarios del servicio de transporte público, mercantil de personas y RUTA, tienen los siguientes derechos y obligaciones además de los conferidos en las disposiciones en materia de transporte:
+
+I. Exigir a los conductores que cumplan en todo momento con las disposiciones aplicables en materia de tránsito y seguridad vial y reportar la violación de las mismas a las autoridades competentes;
+
+II. Cumplir las obligaciones que les impone el artículo 295 de este Capítulo;
+
+III. Recibir en su caso, por sí o a través de sus deudos, los beneficios del seguro de accidentes contratado por los concesionarios o permisionarios del servicio de transporte de personas, para proteger a los usuarios de los riesgos que puedan derivarse de la prestación de dicho servicio;
+
+IV. Evitar actos que puedan causar molestias a los demás pasajeros y ensuciar el vehículo en que se transportan o las Vías Públicas por las que éste transite;
+
+V. Hacer las señales de parada en los lugares autorizados para ello;
+
+VI. Cubrir los importes respectivos, por concepto de cuota o tarifa y porte de bienes o equipaje; y
+
+VII. Los demás que este Capítulo y las disposiciones conducentes les confieran.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 268.
+
+Cuando los usuarios del servicio de transporte público no cumplan con cualquiera de las obligaciones de este Capítulo y las demás disposiciones aplicables (sic) les imponen, los conductores de los vehículos estarán obligados a impedirles el acceso o hacer que desciendan, sin perjuicio de que dicha conducta sea sancionada además en términos de éste u otro ordenamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN VI. DE LOS VEHÍCULOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO I
+
+DE LOS VEHÍCULOS MOTORIZADOS Y NO MOTORIZADOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 269.
+
+Por su naturaleza, los vehículos se clasifican en:
+
+I. Vehículos no motorizados; y
+
+II. Vehículos motorizados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 270.
+
+Los vehículos no motorizados, se clasifica (sic) en:
+
+I. Bicicletas;
+
+II. Triciclos; y
+
+III. Carros de mano, transporte arrastrado por semovientes y otros vehículos similares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 271.
+
+Para que un vehículo no motorizado pueda circular en las Vías Públicas, debe contar con los dispositivos, accesorios y condiciones que a continuación se establecen:
+
+I. Encontrarse en buen estado de funcionamiento y operación, debiendo reunir las condiciones mínimas de seguridad necesarias para los ocupantes y terceros, de acuerdo a la especificaciones del vehículo y las normas oficiales mexicanas aplicables;
+
+II. Contar con ruedas enllantadas para ser arrastrados sobre el suelo, piso o pavimento; las que en ningún caso deberán ser de madera, metal u otros materiales que puedan dañar la Vía Pública; y
+
+III. Deberán tener luz blanca fija o reflejantes en la parte delantera y luz roja o reflejante posterior, las cuales deben servir y operar en condiciones de obscuridad, para hacer visible la unidad por ambos lados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 272.
+
+Las cabalgaduras y semovientes que transiten en las Vías Públicas, deben sujetarse a las reglas que sobre circulación establece este Capítulo, excepto, aquellas que por su naturaleza no les sean aplicables. En todo caso, los jinetes o arreadores deberán llevarlos por calles de poco tránsito, y cuando se trate de ganado bravo o bestias peligrosas, deberán ser encajonados previamente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 273.
+
+Los vehículos motorizados se clasifican en:
+
+I. Motobicicletas;
+
+II. Motonetas;
+
+III. Motocicletas;
+
+IV. Automóviles;
+
+V. Camionetas;
+
+VI. Camiones;
+
+VII. Trailers;
+
+VIII. Autobuses;
+
+IX. Remolques;
+
+X. Grúas;
+
+XI. Tractocamiones;
+
+XII. Equipo Especial Móvil, en el que quedan comprendidos todos los vehículos no especificados en la enumeración anterior; y
+
+XIII. RUTA.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 274.
+
+Para que un vehículo motorizado pueda circular en las Vías Públicas, debe contar con:
+
+I. Los dispositivos, accesorios y condiciones que a continuación se establecen, de conformidad con las características del vehículo y las disposiciones vigentes en materia de movilidad y seguridad vial, transporte, ecología y protección al medio ambiente y además:
+
+a) Encontrarse en buen estado de funcionamiento y operación, debiendo reunir las condiciones mínimas de seguridad necesarias para los ocupantes y terceros, de acuerdo a las especificaciones del vehículo y las normas oficiales mexicanas aplicables;
+
+b) Estar provistos de algún aparato que sirva para emitir sonidos claros y perceptibles, tales como claxon o bocina, según la clase del vehículo, considerando que el empleo de sirenas, torretas y luces de emergencia queda reservado a vehículos de seguridad pública, del cuerpo de bomberos, convoyes militares y ambulancias;
+
+c) Contar con ruedas enllantadas; en ningún caso de madera, metal u otros materiales que puedan dañar la Vía Pública;
+
+d) Estar provistos de velocímetro en perfecto estado de funcionamiento y con iluminación durante la noche;
+
+e) Tener fanales delanteros de luz blanca fija, con dispositivos para disminuir la intensidad de luz en los casos que así lo exija la circulación; luces intermitentes en la parte posterior y delantera; en la parte posterior luz roja que accione y se intensifique al aplicar los frenos y luz blanca que accione al circular de reversa y una luz que ilumine la placa de circulación posterior después del atardecer;
+
+f) Contar con doble sistema de frenos, de pie y de mano, que sean compatibles entre sí;
+
+g) Llevar espejos laterales en ambos lados del vehículo y tener instalado un espejo retrovisor en la parte superior media del parabrisas;
+
+h) Estar provistos de dispositivos que eviten ruidos y humo excesivos, quedando expresamente prohibido utilizar válvulas de escape, silbatos accionados con el escape, derivaciones y otros dispositivos que produzcan ruidos molestos o superiores a los noventa y cinco decibeles, cuando circulen por centros poblados;
+
+i) Realizar la verificación vehicular obligatoria en materia de emisión de contaminantes, conforme a las disposiciones respectivas y portar en lugar visible del vehículo la calcomanía, holograma o emblema vigente que demuestre el cumplimiento de dicha obligación;
+
+j) Estar provistos de cinturones de seguridad, por lo que queda prohibido conducir sin el cinturón de seguridad puesto y permitir que el acompañante delantero viaje sin utilizar el cinturón respectivo;
+
+k) Contar con defensas en la parte delantera y posterior del vehículo;
+
+l) Tener limpiadores automáticos en el parabrisas;
+
+m) Estar equipados con una llanta auxiliar cuando menos, en condiciones de sustituir alguna que se inutilizare, y con herramienta necesaria para caso de emergencia;
+
+n) Sujetarse, en cuanto a los límites de carga y dimensiones, a lo establecido por el artículo 281 del presente Capítulo y los ordenamientos aplicables en el ámbito federal o estatal, según corresponda, en el entendido de que los bultos, mercancías o cualquier otro objeto similar que se transporte, no deberá rebasar el ancho, largo y alto de las carrocerías respectivas, y cuando esto no sea posible, por las características del vehículo, la carga sólo podrá exceder el alto y longitud de la carrocería hasta dos metros de su extensión, sin que sobrepasen una altura máxima de cuatro metros a partir de la superficie de rodamiento, debiendo en tales casos portar una banderola de color rojo durante el día o bien reflejantes o una linterna del mismo color durante la noche, perfectamente visible a una distancia de cincuenta metros en condiciones atmosféricas normales;
+
+o) Llevar como equipo de emergencia un extinguidor y dos reflejantes o faroles de señalamiento, que deberán utilizarse en caso de que el vehículo sufra alguna descompostura y quede mal estacionado; y
+
+p) Las motobicicletas, motonetas y motocicletas, por su naturaleza, quedan exceptuadas de lo ordenado en los incisos j), k), l), m), n), y o) de esta fracción, sin embargo, tienen prohibido:
+
+Transportar pasajero para el que no exista asiento disponible, solo pueden transportar carga, bultos u objetos en canastilla o porta bultos, cuando con ello no se impida la visibilidad o entorpezca los movimientos del conductor;
+
+II. Camionetas, camiones, trailers, autobuses, remolques, grúas y tractocamiones, además de lo previsto en la fracción anterior, deberán:
+
+a) Estar provistos de escapes que reúnan las condiciones señaladas por las normas aplicables;
+
+b) Ostentar de manera visible las inscripciones que, en su caso, determinen las disposiciones federales y estatales vigentes;
+
+c) Llevar espejos laterales en ambos lados del vehículo;
+
+d) Los remolques que se adapten a otros vehículos deben llevar, en la parte posterior, una lámpara que proyecte luz roja claramente visible a una distancia de cien metros en condiciones atmosféricas normales; la placa posterior de identificación será iluminada por luz blanca y llevará plafones laterales y superiores; y
+
+e) Además del equipo de emergencia exigido por el último inciso de la fracción anterior, llevar un botiquín con medicinas, vendas y otros enseres similares, para brindar primeros auxilios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 275.
+
+Para que un vehículo motorizado pueda transitar en el Municipio, es necesario que con anticipación sea registrado en términos de las disposiciones federales y estatales aplicables, esté provisto de placas de circulación, engomado alfa numérico y tarjeta de circulación o el permiso de circulación vigente, además de que cumpla con los demás requisitos que, en su caso, establezcan de manera especial la legislación y demás disposiciones aplicables en la materia. La baja, cancelación o sustitución de la inscripción antes referida, así como la responsabilidad que surja de su omisión, se regirán por las mismas disposiciones.
+
+Para el caso de los vehículos motorizados que porten placas de circulación del Estado de Puebla, éstas deberán estar vigentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 276.
+
+Queda prohibida la circulación de vehículos no motorizados y motorizados en las vías de jurisdicción municipal, de conformidad con lo siguiente:
+
+I. Que no cumplan con los requisitos previstos en el artículo 275 de este Capítulo y no cuenten con permiso provisional emitido por autoridad competente para circular sin ellos;
+
+II. Que no satisfagan los dispositivos, accesorios y condiciones a que se refiere el artículo 271 y 274 de este Capítulo;
+
+III. Tratándose de vehículos particulares, que presten servicio de transporte público o mercantil, sin estar debidamente autorizados para ello;
+
+IV. Que resulten ostentosamente contaminantes o no porten la calcomanía o emblema vigente, que demuestre el cumplimiento de la verificación vehicular obligatoria en materia de emisión de contaminantes;
+
+V. Que los vidrios laterales, el medallón o el parabrisas tengan cortinas o estén oscurecidos, entintados, polarizados, ahumados o cambiados de tono por cualquier otro medio que impida la visibilidad hacia el interior del vehículo, salvo que venga así desde la fabricación y se establezca tal circunstancia en los documentos que expida la agencia o se encuentren descritos en la factura o tarjeta de circulación;
+
+VI. Que usen propaganda luminosa, dispositivos reflejantes o faros traseros de luz que causen deslumbramiento a los demás conductores; y
+
+VII. Usar en vehículos particulares colores y/o imágenes reservadas para instituciones públicas y de servicio de transporte público y mercantil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 277.
+
+La clasificación, condiciones de uso, obtención, canje, reposición y demás aspectos relacionados con las placas, engomados y tarjetas de circulación de los vehículos que transitan en el Municipio, quedan sujetas a disposiciones de la legislación fiscal y administrativa que resulten aplicables en la materia, quedando prohibida la circulación de vehículos con placas y tarjeta de circulación correspondientes a otros vehículos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 278.
+
+La colocación de las placas de circulación y los engomados alfa numéricos que en su caso correspondan, se rigen por las siguientes disposiciones:
+
+I. En los vehículos motorizados, las placas de circulación se colocarán invariablemente de forma legible y en las partes destinadas para ello, debiendo quedar completamente visibles, y el engomado alfa numérico que en su caso corresponda, en alguno de los vidrios laterales o el medallón del vehículo;
+
+II. Las placas de circulación para motocicletas y otra clase de vehículos distintos de los señalados en la fracción anterior, se colocarán en la parte posterior de los mismos y destinada para ello;
+
+III. Se prohíbe que las placas de circulación estén remachadas o soldadas al vehículo y llevar sobre éstas, anexas a las mismas o en lugar de ellas, distintivos, objetos u otras placas diferentes a las de diseño oficial o con rótulos e inscripciones de cualquier índole, así como micas o reflejantes que oculten, velen o impidan ver con claridad, parcial o totalmente, la matricula alfa numérica de las mismas; y
+
+IV. En caso de placas de demostración, no se requerirá engomado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 279.
+
+La alteración o destrucción indebida, parcial o total, de las placas de circulación, engomados, tarjetas de circulación, permisos para circular, será motivo de poner a disposición inmediata al conductor y el vehículo ante la autoridad competente, de acuerdo con lo siguiente:
+
+I. En caso de pérdida, extravío o robo de cualquiera de ellos, el interesado deberá notificarlo inmediatamente a la autoridad correspondiente y seguir el trámite respectivo para su reposición, dentro de un término no mayor de treinta días naturales contados a partir del día siguiente a aquél en que ocurra alguno de los percances mencionados. Para evitar que la unidad sea retirada de la circulación, el propietario o conductor deberá acreditar el cumplimiento de lo anterior; y
+
+II. En caso de alteración de números del motor o de cualquier otro medio de identificación del vehículo se pondrá a disposición al conductor y el vehículo ante la autoridad competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 280.
+
+De conformidad con la Norma Oficial Mexicana NOM-012-SCT-2-1995, los vehículos de autotransporte se clasifican en:
+
+I. Autobús;
+
+II. Camión unitario;
+
+III. Camión remolque;
+
+IV. Tractocamión articulado; y
+
+V. Tractocamión doblemente articulado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 281.
+
+Con el fin de evitar que se causen daños en las Vías Públicas del Centro Histórico, Zona de Monumentos y las determinadas por la Dirección de Tránsito, únicamente podrán circular autobús y camión unitario, debiendo sujetarse a los siguientes límites máximos de carga y dimensiones:
+
+I. Peso total, incluyendo el de la carga: 23,000 kilos;
+
+II. Largo máximo: 14 metros;
+
+III. Ancho máximo: 3.5 metros;
+
+IV. Altura máxima desde la superficie de rodamiento: 4 metros; y
+
+V. Ancho máximo de la carga que se transporte: 2.5 metros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 281 Bis.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 281 Ter.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 281 Quáter.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 281 Quinquies.
 
-Los usuarios de las ciclovías:
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-I. Tienen derecho a circular por la ciclovía libremente. Sin más restricciones que las establecidas en el presente Capítulo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Deben avisar de su presencia mediante su voz o el timbre de su bicicleta a otros usuarios, encontrándose obligados a disminuir su velocidad y ceder el paso a los peatones;
-
-III. Solo pueden transportar carga, bultos u objetos en una bicicleta, cuando con ello no se entorpezcan los movimientos del ciclista, ni se estorbe a la circulación por la ciclovía a los demás usuarios;
-
-IV. Están obligados a obedecer la señalización, y en su caso, las indicaciones de los Agentes de Tránsito;
-
-V. En caso de falla mecánica, efectuarán las reparaciones preferentemente fuera de la superficie de rodamiento; y
-
-VI. Deberán observar lo establecido en el artículo 281 Ter, del presente Capítulo y demás relativos.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 282.
 
-Se prohíbe el uso de la vía pública para toda clase de competencia y juegos organizados que requieran autorización específica, así como transitar sobre ella con vehículos no reglamentados que puedan dañar la vía pública o pongan en riesgo la integridad de los usuarios, salvo que el Secretario de Seguridad Pública y Tránsito Municipal otorgue permiso especial para ello. Conforme a lo establecido a este Capítulo, los padres, tutores o encargados de los menores de edad, si se trata de éstos, serán responsables de la infracción a lo dispuesto en este artículo.
+Podrá circular el camión remolque por las vías de circulación del Centro Histórico y Zona de Monumentos con previa solicitud de permiso y autorización de la Dirección de Tránsito, no debiendo exceder de los 14.63 m. de largo, así como cumplir con las especificaciones señaladas en el artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 283.
 
-Los usuarios de un vehículo están obligados a:
+Deberán circular el tractocamión articulado y el tractocamión doblemente articulado en Vías Primarias, previa solicitud de permiso y autorización de la Dirección de Tránsito, quien determinará las rutas y horarios en que podrán hacerlo.
 
-I. Abordar y descender de los vehículos cando (sic) éstos se hayan detenido totalmente y utilizando las banquetas, lugares autorizados o zonas de seguridad destinadas para este objeto;
+Queda estrictamente prohibida la circulación de los autotransportes en las vialidades del Centro Histórico y Zona de Monumentos, así como en las Vías Secundarias y demás vialidades de circulación menor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 284.
+
+Queda prohibido a los conductores de tractocamión articulado o doblemente articulado, estacionarse y pernoctar sobre vialidades primarias y secundarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO II
+
+DE LOS CONDUCTORES Y DE LOS PASAJEROS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 285.
+
+Para que una persona pueda manejar en el Municipio los vehículos motorizados a que se refiere el presente Capítulo, debe portar licencia o permiso para conducir, que esté vigente, no inhabilitada y corresponda al tipo de vehículo que conduce o pretende guiar, de acuerdo con la legislación aplicable; pero si la licencia o el permiso fue expedido por autoridad competente en otra entidad federativa, a nivel federal o en el extranjero, en su caso, los titulares deben respetar las limitaciones que las leyes establezcan respecto de la conducción de vehículos destinados al transporte.
+
+No será aplicable lo dispuesto en el párrafo anterior a los conductores de vehículos no motorizados o para los que la ley no exija licencia o permiso, sin que por ello queden eximidos de cumplir las demás disposiciones de éste Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 286.
+
+Para efectos de este Capítulo, los conductores de vehículos motorizados se clasifican en:
+
+I. Automovilista. Conductores de vehículos destinados al uso particular o privado, cuya capacidad de carga no exceda de 3.5 toneladas;
+
+II. Motociclista. Conductores de motonetas, bicicletas con motor de combustión interna y motocicletas de dos, tres o cuatro ruedas;
+
+III. Chofer Particular. Conductores de vehículos destinados al uso particular o privado, cuya capacidad de carga no exceda de 3.5 toneladas, que no estén reservados al servicio público de transporte y que no se trate de los referidos en la fracción II de este artículo;
+
+IV. Chofer para el Servicio Público de Transporte. Conductores de vehículos destinados al servicio público de transporte, sin menoscabo de conducir toda clase de vehículos, excepto los destinados al servicio de transporte mercantil;
+
+V. Chofer para el Servicio de Transporte Mercantil. Conductores de vehículos destinados al servicio público de transporte o al servicio mercantil, sin menos cabo (sic) de que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los referidos en la fracción II de este artículo;
+
+VI. Automovilistas o Motociclistas con Licencia Provisional. Conductores de dieciséis a dieciocho años o que sean mayores de esta última edad y estén aprendiendo a conducir; y
+
+VII. Choferes del Servicio Público de Transporte y del Servicio de Transporte Mercantil, con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio de transporte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 287.
+
+Los titulares de las licencias o permisos para conducir están obligados a solicitar su reposición, refrendo o la expedición de uno nuevo, cuando estén rotos, deteriorados, ilegibles, o no se encuentren vigentes o refrendados, por lo que si conducen con licencias o permisos que se encuentren en dichas condiciones, se harán acreedores a las sanciones por conducir sin licencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 288.
+
+Los propietarios y conductores de vehículos deben evitar que éstos sean conducidos por personas que carezcan de licencia o permiso para ello, siendo solidariamente responsables de las infracciones a este Capítulo y de los daños y perjuicios que se causen por tal motivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 289.
+
+Los conductores, los patrones de éstos, los padres o tutores sí aquellos son menores de edad o incapaces, los propietarios de vehículos o semovientes que causen daño a las Vías Públicas, bienes de propiedad municipal o equipamiento urbano del Municipio y sean responsables del mismo, están obligados a pagar el importe de su reparación y a cubrir la sanción a que por tal motivo se hagan acreedores. Lo anterior sin perjuicio de consignar a los probables responsables de éstas u otras infracciones al presente Capítulo, ante la autoridad competente, en caso de que el mismo hecho pueda constituir delito o alguna falta administrativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 290.
+
+El conductor que produzca o sufra algún accidente de tránsito, está obligado a detenerse inmediatamente y si hubiere algún lesionado, las personas involucradas deberán solicitar auxilio y no separarse del lugar bajo ninguna circunstancia, hasta que hayan intervenido las autoridades competentes, correspondiendo al área de servicios periciales de la Dirección de Tránsito dictaminar, en su caso, sobre las circunstancias en que se produjo el accidente y las responsabilidades en materia vial derivadas del mismo, para los efectos a que haya lugar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 291.
+
+Queda prohibido a los conductores de vehículos, usar innecesariamente la bocina o claxon, provocar o efectuar con el motor o su escape, ruidos de cualquier naturaleza que molesten a otras personas a manera de ofensa. En los lugares en donde se encuentren ubicados hospitales, sanatorios, escuelas y edificios públicos ésta prohibición es absoluta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 292.
+
+Los conductores de vehículos deberán tener el debido cuidado para evitar atropellamientos y cuando observen sobre el arroyo de la Vía Pública a cualquier persona, disminuirán al mínimo su velocidad y en su caso, deberán detenerse.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 293.
+
+Los conductores de vehículos en movimiento deben conservar entre el suyo y el que va adelante, una distancia no menor de cinco metros, y cuando estén detenidos, el margen no podrá ser inferior a un metro.
+
+En zonas rurales, el conductor de autobús o camión de carga, dejará suficiente espacio para que otro vehículo circule sin peligro, excepto cuando a su vez trate de adelantar al que lo proceda.
+
+Los vehículos que circulen en caravanas o convoyes en zonas rurales, transitarán de manera que haya espacio suficiente entre ellos para que otro pueda ocuparlo sin peligro. Esta disposición no se aplicará a columnas militares ni a cortejos fúnebres.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 294.
+
+Queda prohibido a los conductores de vehículos motorizados:
+
+I. Conducir sin la licencia correspondiente o estando inhabilitada en términos del presente Capítulo;
+
+II. Conducir sin el cinturón de seguridad puesto y permitir que el acompañante delantero viaje sin utilizar el cinturón respectivo;
+
+III. Rebasar en "alto" las líneas que protegen las zonas de peatones, o en su caso, el alineamiento de los edificios;
+
+IV. No respetar lo ordenado en la (sic) señales de tránsito y semáforos;
+
+V. Entorpecer la marcha de columnas militares, escolares, desfiles cívicos y similares; autorizadas por el Ayuntamiento;
+
+VI. Conducir por la Vía Pública en algún nivel de intoxicación etílica, bajo el influjo de sustancias psicoactivas, enervantes, psicotrópicos o cualquier otra sustancia que produzca efectos similares;
+
+Para los efectos del presente artículo, no se permitirá conducir con un grado de intoxicación alcohólica superior a 0.07 miligramos de alcohol por litro (mg/L) en aire espirado. Los niveles de ingesta de alcohol, de conformidad con el proyecto de norma PROY-NMX-CH-153-IMNC-2005, así como el Programa Nacional de Alcoholimetría se establecerán de acuerdo con los siguientes parámetros:
+
+Grado de Alcoholemia Nivel de Intoxicación
+
+Mg/L
+
+0.0 Negativo
+
+0.01 a 0.07 Aliento
+
+0.08 a 0.19 Intoxicación Leve o Primer Periodo
+
+0.20 a 0.39 Intoxicación Moderada o Segundo Periodo
+
+0.40 en adelante Intoxicación Severa o Tercer Periodo
+
+Los menores de edad, operadores de vehículos destinados al servicio de transporte público y mercantil de personas, de carga y distribución de mercancías, y los que transporten sustancias peligrosas o tóxicas, no deben presentar ninguna cantidad de alcohol o bajo los efectos de narcóticos.
+
+Lo dispuesto en esta fracción se sancionará por el Juez Calificador de acuerdo a lo dispuesto en el Capítulo 9 "Policía y Gobierno" del Código Reglamentario para el Municipio de Puebla.
+
+VII. Conducir usando cualquier instrumento que pueda distraer al conductor y ponga en riesgo la seguridad de los pasajeros y peatones, tales como teléfonos celulares, radios de comunicación, televisores, computadoras portátiles, periódicos, agendas o cualquier otro objeto similares a éstos, excepto si se trata de ambulancias, carros de bomberos, patrullas, unidades de emergencia o vehículos de transporte de carga y distribución de mercancías, en el supuesto de radios de comunicación;
+
+VIII. Conducir sin los lentes, prótesis o aparatos auditivos anotados en la licencia;
+
+IX. Conducir vehículos que contaminen ostensiblemente el ambiente;
+
+X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie de rodamiento para delimitar los carriles de circulación, dentro de una Ciclovía o dentro de una isleta, sus marcas de aproximación o zonas de seguridad peatonal;
+
+XI. Llevar entre sus manos alguna persona, dispositivo móvil, animal, bulto o permitir intromisiones sobre el control de dirección;
+
+XII. Permitir que los menores de edad viajen sin utilizar los cinturones o asientos de seguridad respectivos, debiendo colocarse estos últimos en la parte posterior del vehículo;
+
+XIII. Conducir motocicletas, motonetas o motobicicletas, sin el casco de protección correspondiente. Esta prohibición aplica también a los pasajeros;
+
+XIV. Conducir vehículos cuyos vidrios laterales, medallón o parabrisas impidan la visibilidad hacia el interior del vehículo, en los términos y con la salvedad que prevé el presente Capítulo;
+
+XV. Conducir usando audífonos o con el volumen de algún aparato de sonido de tal manera que éste se escuche en el exterior del vehículo;
+
+XVI. Ofender, insultar o denigrar a los Agentes en el desempeño de sus labores;
+
+XVII. Circular en carriles de contraflujo, carriles confinados excepto cuando conduzcan vehículos autorizados para ello;
+
+XVIII. Dar vuelta a la izquierda en carriles confinados;
+
+XIX. Estacionarse en carriles de contraflujo y carriles confinados;
+
+XX. Estacionarse sobre bulevares, avenidas, calles y/o privadas por donde circule RUTA y se tenga la señalética correspondiente;
+
+XXI. Estacionarse en los accesos, salidas, áreas de circulación, zonas de ascenso y descenso de pasaje en las terminales del transporte;
+
+XXII. Obstruir terminales, paraderos y terminales de transferencia;
+
+XXIII. No respetar las señales del semáforo de RUTA;
+
+XXIV. Transitar en Ciclovía y Ciclocarril; y
+
+XXV. Las demás que se deriven del presente Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 295.
+
+Los pasajeros de un vehículo están obligados a:
+
+I. Abordar y descender de los vehículos cuando éstos se hayan detenido totalmente y utilizando las banquetas, lugares autorizados o zonas de seguridad destinadas para este objeto;
 
 II. Viajar en el interior de éste, de manera que ninguna parte de su cuerpo sobresalga del vehículo y pueda ser lesionado, absteniéndose de hacerlo en defensas, salpicaderas, estribos, plataformas, cajas o cualquier otra parte externa de los mismos;
 
@@ -4417,309 +4805,131 @@ IV. No abordar vehículos cuando se exceda en el número de ocupantes permitidos
 
 V. No distraer a los conductores ni realizar actos que puedan afectar la conducción del vehículo o dañar a los demás pasajeros.
 
-El conductor que permita alguna de estas infracciones, será sancionado en los mismo (sic) términos que los usuarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-DE LAS SEÑALES UTILIZADAS PARA REGULAR EL TRÁNSITO
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+APARTADO III
 
-###### Artículo 284.
+DE LOS VEHÍCULOS DESTINADOS AL TRANSPORTE MERCANTIL
 
-La Secretaría de Seguridad Pública y Tránsito Municipal, por conducto de la Dirección de Tránsito Municipal o la instancia que determine el Ayuntamiento, tiene a su cargo, conforme a las disposiciones federales y estatales aplicables, determinar y supervisar la instalación de señales mecánicas y luminosas, reflejantes, aparatos electromecánicos u otros semejantes, que indiquen las prevenciones que deben observar los peatones y conductores de vehículos para su correcta circulación, así como regular las señales realizadas por elementos pertenecientes al personal operativo de la misma Dirección, para dirigir el tránsito de aquellos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El proyecto e instalación de dispositivos y marcas de señalamiento, se harán con base en el Manual para el Control de Tránsito en Calles y Carreteras o en las normas oficiales de carácter técnico que lo sustituyan.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 285.
-
-La Dirección de Tránsito Municipal, utilizará las siguientes señales fijas:
-
-I. PREVENTIVAS.- Que tienen por objeto advertir al usuario la existencia y naturaleza de un peligro en el camino y se usarán en los siguientes casos:
-
-a). Cambio de alineamiento horizontal;
-
-b). Reducción o aumento en el número de carriles;
-
-c). Cambio de ancho en el arrollo (sic) o pavimento;
-
-d). Pendientes y curvas peligrosas;
-
-e). Condiciones deficientes en la superficie de rodamiento;
-
-f).Proximidad de escuelas, hospitales y cruces de peatones;
-
-g).Cruce de ferrocarril a nivel;
-
-h). Acceso a vías rápidas;
-
-i). Posibilidad de encontrar ganado en el camino;
-
-j). Proximidad de semáforos;
-
-k). Cualquier circunstancia que pueda presentar un peligro para la circulación.
-
-II. RESTRICTIVAS.- Que tienen por objeto indicar la existencia de limitaciones físicas, prohibiciones y disposiciones reglamentarias que regulan el tránsito, y que comprenden:
-
-a). Derecho de paso;
-
-b). Movimientos direccionales;
-
-c). Movimientos a lo largo del camino;
-
-d). Limitación de dimensiones y paso de vehículos;
-
-e). Limitación de velocidad;
-
-f). Prohibición de paso a ciertos vehículos;
-
-g). Restricción de estacionamientos;
-
-h). Restricción de peatones;
-
-i). Restricción o limitaciones diversas; y
-
-III. INFORMATIVAS.- Que sirvan para guiar al usuario lo largo de su ruta, indicándole las calles o caminos que encuentre, nombre de poblaciones, lugares de interés, distancia y recomendaciones que debe observar, mismas que compren cuatro grupos:
-
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2013)</small>
-
-a). De ruta: Que identifican los caminos, vías públicas, ciclo vías según el número o nombre que se les haya asignado, así como el sentido que sigan los mismos;
-
-b). De destino: Que Indican al usuario el nombre de la población, delegación, colonia o zona que encuentre sobre la ruta, el número o nombre de ésta y la dirección de deberá seguir;
-
-c). De servicios: Que indican el tipo, su proximidad y los lugares donde se prestan éstos;
-
-d). De información general: Que identifican los lugares, ríos, puentes, poblaciones, sitios de interés turístico, nombre de calles, sentido del tránsito, desviaciones y marcas de kilometraje.
-
-###### Artículo 286.
-
-Los semáforos son dispositivos electromecánicos que sirven para regular y dirigir el tránsito de vehículos y peatones en calles y caminos, mediante la emisión de señales de luz de colores, con el siguiente orden cíclico y significado:
-
-I. VERDE.- Señal de “siga”, para que los vehículos continúen de frente, doblen a la derecha o izquierda siempre y cuando no exista alguna señal que prohíba tal maniobra, y para que los peatones puedan transitar en la forma permitida;
-
-II. AMBAR.- Señal de “prevención” para que los vehículos y peatones que estén frente al semáforo, sepan que está a punto de aparecer la luz roja; y
-
-III. ROJO.- Señal de “alto”, para que todos los vehículos y peatones que avancen hacia el semáforo detengan la marcha inmediatamente, dado que los vehículos de la intersección tendrán la señal de siga.
-
-Las indicaciones de los semáforos tendrán preferencia sobre cualquier otra señal o regla general de circulación y cuando en un crucero los semáforos no estén funcionando ni un agente esté dirigiendo el tránsito, los conductores están obligados a tomar todas las precauciones debidas, debiendo sujetarse a las demás señalas existentes y, en su defecto, a las reglas generales sobre circulación.
-
-###### Artículo 287.
-
-Son aplicables al funcionamiento de los semáforos en el Municipio las siguientes disposiciones:
-
-I. Los dispositivos deben estar ubicados de tal manera que todas sus luces sean claramente visibles a una distancia minina de veinticinco metros, en condiciones atmosféricas normales cuidando que no se dificulte su visibilidad por obstrucción de árboles, vehículos de gran tamaño, señales u otros cuerpos extraños;
-
-II. Las luces deben seguir el mismo orden de colocación en todos los semáforos, de manera que en los verticales las de color verde estén en la parte inferior, la de color ámbar en medio y las rojas en la parte superior, mientras que en los semáforos horizontales seguirán la misma sucesión pero de izquierda a derecha;
-
-III. Los colores se pueden combinar con flechas que hagan referencia a las maniobras de doblar a la derecha o izquierda, permitiendo o impidiendo la realización de la misma;
-
-IV. Las luces de color verde y ámbar pueden parpadear entres (sic) tres y cinco ocasiones consecutivas para indicar que el dispositivo está por cambiar a la luz del color siguiente;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-V. La duración de cada luz será determinada por la Dirección de Tránsito Municipal, de acuerdo con la afluencia de vehículos en cada intersección y su sincronización con los demás semáforos de dicha (sic) vías, y
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-VI. Si en un crucero las luces de los semáforos funcionan de manera intermitente de acuerdo con el horario de funcionamiento que fije la Dirección de Tránsito Municipal, los conductores deberán hacer alto parcial en caso de luz amarilla y total si es roja, antes de proseguir la marcha.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 288.
-
-La Dirección de Tránsito Municipal marcará sobre el pavimento de las calles, con pintura de color blanco o amarillo o con alguna otra señal que considere adecuada, las líneas necesarias para canalizar las diferentes corrientes de circulación y para indicar los lugares en donde los vehículos deben efectuar “alto” al finalizar las calles; así como para delimitar las zonas de seguridad o paso de peatones. En la misma forma se pintarán flechas que indiquen la dirección de (sic) deban tomar los vehículos.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 289.
-
-A la Dirección de Tránsito Municipal le corresponde señalar las zonas o lugares de la vía pública en donde el estacionamiento esté permitido, sujeto a horarios especiales, limitado a vehículos oficiales o prohibido, mandando pintar en el primer caso una franja blanca sobre la guarnición de las banquetas y en los tres supuestos siguientes, un franja de color amarillo sin perjuicio de utilizar o autorizar otro tipo de señalizaciones con el mismo fin. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 290.
-
-Cuando se controle el tránsito por medio de agentes de tránsito se observará el siguiente sistema de señales:
-
-I. ALTO: El frente y la espalda del elemento respectivo;
-
-II. ADELANTE: Los costados del elemento, moviendo los brazos al iniciar esta señal, en el sentido que debe desarrollarse la circulación;
-
-III. PREVENTIVA: Cuando el elemento se encuentre en posición de “adelante” y levante el brazo horizontalmente con la mano extendida hacia arriba, del lado donde proceda la circulación, o ambos si se verifica en dos sentidos. Con esta señal se podrá permitir el paso de vehículos en forma especial, cuando las necesidades de la circulación lo requieran;
-
-IV. ALTO GENERAL: Cuando el elemento levante el brazo derecho en posición vertical. Esta señal se debe hacer en caso de emergencia, motivada por la aproximación de ambulancias, patrullas, vehículos del Cuerpo de Bomberos o algún otro servicio especial, en cuyo caso los peatones y vehículos despejarán el arrollo (sic) para permitir el paso de aquellos.
-
-Para hacer las señales a que se refieren las fracciones anteriores, los elementos pueden emplear silbatos en la siguiente forma:
-
-ALTO, un toque corto;
-
-ADELANTE, dos toques cortos;
-
-PREVENCIÓN, un toque largo;
-
-ALTO GENERAL; tres toques largos.
-
-En los casos de aglomeración de vehículos, darán una serie de toques cortos a fin de activar el paso.
-
-En todos los casos a que se refiere este artículo, los agente (sic) y cadetes de seguridad vial se situarán en lugares donde sean visibles, convenientemente iluminados, y se les proveerá de equipo que los haga notorios.
-
-###### Artículo 291.
-
-Para la debida protección de las señales, se prohíbe:
-
-I. Mover o destruir, parcial o totalmente, las señales o dispositivos de tránsito instalados en las vías públicas del Municipio; y
-
-II. Adosar o colocar propaganda, letreros u otra clase de objetos, cuando por su forma, dibujo o colocación, puedan obstruir, dar lugar a confusión o entorpecer la comprensión de las señales de circulación.
-
-DE LAS VIALIDADES DE INTENSO TRÁNSITO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 292.
-
-La Dirección de Tránsito realizará las acciones necesarias para definir y establecer las vialidades de intenso tránsito en el Municipio, en las que sea necesario establecer disposiciones especiales, horarios o restricciones, para facilitar o hacer más expedita la circulación de vehículos.
-
-Para este objeto, la Dirección de Tránsito debe tomar en cuenta las zonas comerciales, de oficinas públicas, de centros de reunión, de espectáculos, de mercados y todas aquéllas que por su naturaleza determinen una afluencia considerable de vehículos.
-
-DE LOS ESTACIONAMIENTOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 293.
-
-El estacionamiento en las vías públicas se permitirá solamente en los lugares que determine el Ayuntamiento, por conducto de la Dirección de Tránsito Municipal.
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-I. La Dirección de Tránsito Municipal hará el señalamiento de las vialidades en que se permita o prohíba el estacionamiento, así como las zonas y cajones respectivos, usando señales uniformes, claras, visibles, fácilmente compresivas (sic) y colocadas en forma ordenada, pudiendo precisar además el máximo de tiempo que en ellos se permita e instalar los dispositivos que considere convenientes;
-
-II. En las calles en donde se permita el estacionamiento de vehículos, los conductores de éstos están obligados a estacionarlos sobre el lado izquierdo de la dirección en que circulen, salvo casos en que se permita efectuar estacionamientos en el lado opuesto;
-
-III. En todo caso los conductores deben observar estrictamente las disposiciones relativas a estacionamientos en “cordón” o en “batería” que sobre el particular apruebe la misma Dirección, y
-
-IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
-
-###### Artículo 294.
-
-Las personas con discapacidad, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Tránsito la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-I. Vigilar en coordinación con la Unidad de Normatividad y Regulación Comercial que en los estacionamientos, dichos espacios se establezcan en la proporción y con las características reglamentadas por las disposiciones municipales en materia de construcciones;
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
-
-II. En las calles y avenidas en las que se permita el estacionamiento de vehículos, destinar un espacio por cada veinte o fracción a partir de diez, para uso reservado a personas con discapacidad, con una ubicación lo más cercana posible a las rampas establecidas para facilitar el tránsito, la seguridad y la accesibilidad de dichas personas, instalando la señalética de conformidad con la normatividad vigente, destinada para personas con discapacidad, en un lugar fácilmente visible y además pintada sobre el pavimento;
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
-
-III. Garantizar el respeto de los espacios señalados en el presente artículo, cuidando que en los mismos sólo se estacionen vehículos que tengan la autorización oficial o en su caso cuando del vehículo descienda o ascienda alguna persona con una discapacidad;
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
-
-IV. Detectar en su caso, el uso indebido de las autorizaciones a que se refiere la fracción anterior;
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
-
-V. La Dirección de Tránsito Municipal procurará que los espacios de estacionamiento para personas con discapacidad sean señalizados con una dimensión de 3.8 por 5.5 metros, además deberá instalar la señalética destinada para el ascenso y descenso de los usuarios con discapacidad al servicio del transporte público en los lugares para tal efecto; y
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
-
-VI. Sin perjuicio de las atribuciones que correspondan a otras dependencias municipales, determinar y sancionar las infracciones que cometan los particulares con relación con este artículo y las obligaciones derivadas del mismo.
-
-###### Artículo 295.
-
-Cuando algún vehículo sufra desperfectos en la vía pública, deberá ser retirado del arroyo vehicular y colocado junto a la acera, de ser posible lejos de pendientes o curvas peligrosas. En las calles angostas se procurara llevarlos hasta las más próximas, donde no estorbe la circulación.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 296.
 
-Queda prohibido el estacionamiento de vehículos de toda clase en la vía pública por más de treinta minutos, para realizar trabajos de compostura de algún desperfecto o reparaciones motivadas por casos de emergencia o de fuerza mayor. Los talleres o particulares que se dedican a la reparación de automóviles, bajo ningún concepto podrán hacerlo en la vía pública.
+La circulación de los vehículos de transporte de carga y distribución de mercancías, queda sujeta a las siguientes disposiciones especiales en materia de tránsito:
+
+I. Los transportistas de materiales para la construcción deben emplear lonas, cubiertas, carrocerías o cajas apropiadas para el servicio al que están destinados;
+
+II. Los transportistas de líquidos, gases y suspensiones deben estar dotados de un tanque unitario o de una olla revolvedora, que evite que se riegue o fugue;
+
+III. Los transportistas de carnes y/o vísceras deben llevar una caja de carga acondicionada, que garantice el traslado higiénico;
+
+IV. Para transportar alimentos, animales o desechos, será obligatorio, además de llevarlos debidamente cubiertos, contar con el permiso respectivo, en el que de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones sanitarias aplicables;
+
+V. Para el transporte de maquinaria u objetos que excedan de las dimensiones permitidas en el presente Capítulo deberán contar con la previa autorización de la Dirección de Tránsito, en el que de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones aplicables;
+
+VI. El transporte de ganado debe hacerse con las precauciones debidas; y
+
+VII. Los transportistas de carga y distribución de mercancías deberán obedecer las precauciones previstas por la Dirección de Tránsito cuando por el peso de lo transportado se produzca trepidación y no podrán viajar más de dos personas en la cabina del conductor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 297.
 
-Se prohíbe el estacionamiento en los siguientes casos:
+El transporte en vehículos de carga y distribución de mercancías, materiales y sustancias inflamables, explosivas, corrosivas, radioactivas, biológicas, tóxicas o peligrosas, tienen las siguientes restricciones:
 
-I. En una intersección;
+I. Debe efectuarse en vehículos adaptados exclusivamente para tal objeto o en latas o tambores herméticamente cerrados;
 
-II. En el cruce o zona de peatones;
+II. En el caso de materias inflamables, los vehículos deben llevar cadenas metálicas que vayan en contacto con el piso;
 
-III. Dentro de una distancia de 10 metros de un hidrante o toma de agua para el uso de servicios públicos;
+III. En todos los casos, los vehículos deben estar dotados, como mínimo, de un extinguidor de incendio y no podrán circular dentro del primer cuadro de la Ciudad ni en sectores de intenso tránsito o de alta densidad poblacional, salvo que la Dirección de Tránsito, en coordinación con la Unidad Operativa Municipal de Protección Civil, conceda permiso para ello, fijando la ruta y horario respectivo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+IV. No podrán estacionarse en zonas densamente pobladas o unidades habitacionales, más que por el tiempo indispensable para distribuir los productos que transportan;
 
-IV. Frente a accesos vehiculares e inmuebles públicos o privados causando molestias, en cuyo caso se utilizará grúa con cargo al infractor;
+V. Para el transporte de explosivos en el Municipio, es obligatorio contar previamente con permiso de la Secretaría de la Defensa Nacional; y
 
-V. Sobre un puente o paso a desnivel, en una curva o cima, o dentro de una distancia cercana a ellos, no mayor de 20 metros;
+VI. Los vehículos que transporten materias inflamables o explosivas deben usar una bandera roja en la parte posterior del vehículo y en forma ostensible se fijarán rótulos en las posteriores y laterales que contengan la inscripción "PELIGRO, EXPLOSIVOS" o "PELIGRO, INFLAMABLE".
 
-VI. En los lugares en donde haya señales oficiales de no estacionarse o exista algún otro dispositivo o restricción, salvo que se cumplan los lineamientos que en su caso determine la autoridad competente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
 
-VII. En doble o más filas;
+APARTADO IV
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+DEL TRANSPORTE DE CARGA Y DISTRIBUCIÓN DE MERCANCÍAS
 
-VIII. Por estacionarse sobre la banqueta, camellones, calles o vías angostas, donde el estacionarse impida o dificulte el tráfico, tanto vehicular como peatonal, en cuyo caso se utilizará grúa para trasladarlo al depósito vehicular, con cargo al infractor;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX. En lugares permitidos como paradas, estaciones, terminales, bases o sitios, excepto los vehículos autorizados;
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
-
-X. Al Obstaculizar las rampas y demás infraestructura urbana destinada a facilitar el tránsito, la seguridad o la accesibilidad de las personas con discapacidad, u ocupar los espacios de estacionamiento destinados al uso exclusivo de dichas personas sin contar con la autorización oficial;
-
-XI. Dentro de una distancia de 10 metros de un letrero de “alto” o señal de control de tránsito;
-
-XII. Dentro de una distancia de 20 metros del cruce de una línea de ferrocarril;
-
-XIII. Dentro de una distancia de 10 metros de la entra (sic) y salida de ambulancias, carros de bomberos y patrullas de tránsito o policía;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XIV. A una distancia de 50 metros, cuando menos, de donde un vehículo de bomberos se encuentre detenido para atender una emergencia;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XV. En las demás zonas o áreas de la vía pública que determine el Ayuntamiento, conforme a los artículos 289, 293 y 294 del presente Capítulo;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XVI. En el carril exclusivo del Corredor de Transporte Público Masivo RUTA;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XVII. En accesos, salidas, áreas de circulación y zonas de ascenso y descenso de pasaje en las terminales del trasporte colectivo RUTA; y
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XVIII. Sobre las banquetas, rampas, camellones, andadores, retornos, isletas u otras vías y espacio reservados a peatones y ciclistas, para ello es suficiente que cualquier parte del vehículo se encuentre sobre estos espacios.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 298.
 
-El estacionamiento de vehículos en inmuebles distintos a la vía pública estará permitido siempre que el inmueble respectivo cumpla las condiciones y requisitos municipales en materia de desarrollo urbano y construcciones y que el prestador de servicio, tratándose de estacionamientos públicos, cuente con la documentación que se menciona en el Capítulo respectivo y cumpla con las disposiciones que establezca el Ayuntamiento, relativas al funcionamiento de este tipo de establecimientos.
+Las maniobras para carga y descarga de bultos, materiales y mercancía en general, se sujetarán a las siguientes disposiciones:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+I. Tanto en las arterias de tránsito libre, como en las consideradas de circulación restringidas que correspondan a zonas comerciales, oficinas y edificios públicos, se permitirá la circulación de vehículos destinados al servicio de carga y las maniobras de carga y descarga, sólo dentro de las horas que determine la Dirección de Tránsito;
+
+II. Durante las maniobras de carga y descarga, no deberá impedirse la circulación de peatones ni de vehículos, salvo en caso de riesgo, debiendo usarse el equipo adecuado para que tales maniobras se lleven a cabo en condiciones satisfactorias;
+
+III. Las operaciones de carga y descarga se deben hacer empleando el tiempo mínimo compatible con la clase de vehículos que se manejen, su capacidad y los bienes de que se trate; y
+
+IV. Los vehículos dedicados al servicio de inhumaciones podrán efectuar a cualquier hora del día y de la noche, maniobras de carga, descarga y trasporte de cajas mortuorias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 299.
 
-En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la Secretaría de Seguridad Pública y Tránsito Municipal para que, a través de la Dirección de Tránsito Municipal, lo revise y apruebe su impacto en el tránsito municipal. La aprobación del proyecto que en su caso emita el titular de la Secretaría de Seguridad Pública y Tránsito Municipal, será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas.
+La transportación de carga por las vías municipales, se rige por las siguientes disposiciones:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+I. Los vehículos particulares podrán utilizarse para transportar cualquier tipo de carga o bienes, siempre y cuando:
+
+a) Los objetos transportados sean propiedad del dueño, el conductor o los pasajeros del vehículo;
+
+b) No se trate de insumos para la industria o productos que tengan como destino el comercio;
+
+c) No se requieran condiciones especiales para su traslado, conforme a las normas sanitarias o ambientales;
+
+II. En los demás casos la trasportación de bienes u objetos se debe hacer en vehículos autorizados para la prestación del servicio del transporte de carga y distribución de mercancías, que observen las disposiciones fijadas por el artículo 296 del presente Capítulo, reúnan las condiciones mínimas exigidas para el manejo adecuado de la carga y, en su caso, cumplan las normas sanitarias o ambientales aplicables; y
+
+III. Los fabricantes de bebidas alcohólicas y los distribuidores autorizados podrán realizar el transporte con fines mercantiles de este tipo de bienes, siempre que cuenten con los permisos respectivos, reúnan las características exigidas por las normas aplicables y cumplan los demás requisitos establecidos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN VII. REGLAS GENERALES SOBRE CIRCULACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO I
+
+DE LAS OBLIGACIONES PARA LA CIRCULACIÓN DE LOS VEHÍCULOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 300.
 
-Para el cumplimiento de lo dispuesto en el presente Capítulo, la Secretaría de Seguridad Pública y Tránsito Municipal, a través de las áreas que determine su titular, estará facultada para aplicar como medidas de seguridad la inmovilización o el retiro de los vehículos estacionados en forma o lugares prohibidos, utilizando los medios adecuados para hacerlo sin causar daños a los mismos.
+Los conductores que manejen vehículos en el Municipio deben ser aptos para realizar su conducción y contar con la licencia correspondiente.
 
-DE LA CONDUCCIÓN Y CIRCULACIÓN DE VEHÍCULOS DE LA CIRCULACIÓN EN GENERAL
+En caso de que alguna persona tenga una disminución de su capacidad física o mental podrá realizar la conducción del vehículo siempre que demuestre tener tal aptitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 301.
 
-Las personas que manejen vehículos autorizados en el Municipio deben estar en pleno uso de sus facultades físicas y mentales, así como conducirlos con precaución, debiendo observar las disposiciones del presente Capítulo y las indicaciones de los dispositivos para el control de tránsito, que complementan las reglas de circulación.
-
-###### Artículo 302.
-
-Los conductores de vehículos tomarán por regla general el extremo derecho de las vías públicas donde transiten. Esta disposición tolerara las excepciones que las circunstancias exijan, de acuerdo con las prevenciones que al efecto expidan las autoridades de seguridad vial y en los siguientes casos:
+Los conductores de vehículos tomarán por regla general el extremo derecho de las Vías Públicas donde transiten. Esta disposición tolerará las excepciones que las circunstancias exijan, de acuerdo con las prevenciones que al efecto expidan las autoridades de seguridad vial y en los siguientes casos:
 
 I. Para adelantar a otro vehículo;
 
@@ -4729,151 +4939,87 @@ III. Para dar vuelta a la izquierda.
 
 En estos casos los conductores de los vehículos deben circular con todas las precauciones, cediendo el paso a los vehículos que se acerquen en sentido opuesto, y sólo ocuparán el carril transitoriamente, haciendo las señales debidas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 302.
+
+Los conductores están obligados a respetar los límites de velocidad establecidos para cada vía de circulación mediante los señalamientos respectivos, siendo aplicables además las siguientes disposiciones:
+
+I. En Vías Primarias, bulevares, avenidas con camellón o sus similares la velocidad máxima será de setenta kilómetros por hora;
+
+II. En avenidas sin camellón y avenidas de dos carriles de circulación con camellón o sus similares la velocidad máxima será de cincuenta kilómetros por hora en Vías Secundarias;
+
+III. En las vías de circulación determinadas como Zona 30 la velocidad máxima será de treinta kilómetros;
+
+IV. En caso de que un vehículo sea conducido a una velocidad debajo de la mínima establecida, deberá circular siempre por su extrema derecha; y
+
+V. En las zonas de velocidad controlada, así como las curvas, bocacalles y cruceros, queda prohibido adelantar a otro vehículo que marche a la velocidad máxima permitida en esos lugares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
 ###### Artículo 303.
 
-Los conductores están obligados a respetar los límites de velocidad establecidos para cada vía pública mediante los señalamientos respectivos, siendo aplicables además las siguientes disposiciones:
+Solo pueden circular por carriles exclusivos del Corredor de Transporte Público además de los vehículos del servicio de transporte público que cuenten con la autorización respectiva, los vehículos destinados a la prestación de servicios de emergencia y seguridad pública, en cuyo caso deben de circular con torretas encendidas y la sirena abierta.
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Cuando la vía pública carezca de señalamientos, la velocidad máxima será de sesenta kilómetros por hora, siendo aplicable el mismo límite si se trata de vías primarias, rápidas, bulevares o avenidas con camellón, y de cuarenta kilómetros por hora si se trata de vías secundarias, calles del Centro Histórico o avenidas sin camellón;
-
-II. En caso de que un vehículo sea conducido a una velocidad debajo de la mínima establecida, deberá circular siempre por su extrema derecha;
-
-III. Al pasar frente a escuelas, hospitales, lugares de espectáculos y demás centros de reunión, durante las horas en que éstos sean habitualmente frecuentados por el público, los conductores deben disminuir la velocidad de su vehículo a veinte kilómetros por hora o menos, teniendo estrictamente prohibido detenerse en los carriles de circulación para permitir el ascenso o descenso de pasajeros; y
-
-IV. En las zonas de velocidad controlada, así como las curvas, bocacalles y cruceros, queda prohibida adelantar a otro vehículo que marche a la velocidad máxima permitida en esos lugares.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Cuando por el uso de cinemómetros no se pueda identificar al conductor infractor, el propietario del mismo será el responsable solidario en el pago de la multa.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 304.
 
-Queda prohibido a los conductores de vehículos:
-
-I. Conducir sin la licencia correspondiente o estando inhabilitada en términos del presente Capítulo;
-
-II. Conducir sin el cinturón de seguridad puesto y permitir que el acompañante delantero viaje sin utilizar el cinturón respectivo;
-
-III. Rebasar en “alto” las líneas que protegen las zonas de peatones o, en su caso, el alineamiento de los edificios;
-
-IV. No respetar lo ordenado en la señales de tránsito y semáforos;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-V. Entorpecer la marcha de columnas militares, escolares, desfiles cívicos y similares, autorizadas por el Honorable Ayuntamiento;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-VI. Conducir en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efecto similar;
-
-VII. Conducir usando cualquier instrumento que pueda distraer al conductor y ponga en riesgo la seguridad de los pasajeros y peatones, tales como teléfonos celulares, radios de comunicación, televisores, computadoras portátiles, periódicos, agendas o cualquier otro objeto similares a éstos, excepto si se trata de ambulancias, carros de bomberos, patrullas, unidades de emergencia o vehículos de transporte mercantil, en el supuesto de radios de comunicación;
-
-VIII. Conducir sin los lentes, prótesis o aparatos auditivos anotados en la licencia;
-
-IX. Conducir vehículos que contaminen ostensiblemente el ambiente;
-
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
-
-X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie de rodamiento para delimitar los carriles de circulación, dentro de una ciclo vía o dentro de una isleta, sus marcas de aproximación o zonas de seguridad peatonal,
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XI. Llevar a su izquierda o entre sus manos alguna persona, dispositivo móvil, animal, bulto o permitir intromisiones sobre el control de dirección;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XII. Permitir que los menores de edad viajen sin utilizar los cinturones o asientos de seguridad respectivos, debiendo colocarse estos últimos en la parte posterior del vehículo;
-
-XIII. Conducir motocicletas, motonetas o motobicicletas, sin el casco de protección correspondiente;
-
-XIV. Usar o mantener encendidos teléfonos celulares dentro de gasolineras o estaciones de gas licuado de petróleo;
-
-XV. Conducir vehículos cuyos vidrios laterales, medallón y parabrisas impidan la plena visibilidad hacia el interior del vehículo, en los términos y con la salvedad que prevé el presente Capítulo;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XVI. Conducir usando audífonos o con el volumen de algún aparato de sonido, de tal manera que éste se escuche en el exterior del vehículo;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XVII. Ofender, insultar o denigrar a los agentes o personal de tránsito municipal en el desempeño de sus labores;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XVIII. Circular en carriles de contraflujo, carriles confinados excepto cuando conduzcan vehículos autorizados para ello;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XIX. Dar vuelta a la izquierda en carriles confinados;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XX. Estacionarse en carriles de contraflujo y carriles confinados;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XXI. Estacionarse sobre bulevares, avenidas, calles, y/o privadas por donde circule el Sistema de Transporte Público Masivo RUTA y se tenga la señalética correspondiente;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XXII. Estacionarse en los accesos, salidas, áreas de circulación, zonas de ascenso y descenso de pasaje en las terminales del transporte;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XXIII. Obstruir terminales, paraderos y terminales de transferencia;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XXIV. No respetar las señales del semáforo del Sistema de Transporte Público Masivo RUTA;
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XXV. Transitar en ciclo vías y ciclo carriles; y
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
-
-XXVI. Las demás que se deriven del presente Capítulo.
-
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2013)</small>
-
-###### Artículo 304 Bis.
-
-Sólo pueden circular por carriles exclusivos del corredor de transporte público masivo RUTA, o de contraflujo además de los vehículos del servicio de transporte público que cuenten con la autorización respectiva, los vehículos destinados a la prestación de servicios de emergencia Puebla, en cuyo caso deben de circular con torretas encendidas y la sirena abierta.
-
-###### Artículo 305.
-
-Para dar vuelta a una intersección o carril en sentido contrario a la vía en que se circula, los conductores lo harán con precaución, cediendo el paso a los peatones, en la siguiente forma:
+Para dar vuelta en una intersección, los conductores lo harán con precaución, en la siguiente forma:
 
 I. Vuelta a la derecha:
 
-a). Tanto el movimiento para colocarse en posición como la propia maniobra, se harán tomando el extremo derecho del carril adyacente a la acera o a la orilla de la vía.
+a) Tanto el movimiento para colocarse en posición como la propia maniobra, se harán tomando el extremo derecho del carril que esté junto a la orilla de la vía;
 
-b). La vuelta a la derecha será continua en las intersecciones en que existan señalamientos que así lo indique;
+b) Será de manera continua, aún cuando el semáforo se encuentre en rojo, excepto en los casos donde existan señales restrictivas o cuando interfiera en corredores de ciclovía; antes de realizar dicha maniobra se hará alto total observando a ambos lados, dando preferencia de paso al peatón, ciclista y vehículos que transiten sobre la calle a la que se incorporen. Al finalizar la vuelta a la derecha, los conductores deberán tomar oportunamente el extremo derecho al que se incorporen.
 
 II. Vuelta a la izquierda:
 
-a). En cualquier intersección donde el tránsito sea permitido en ambos sentidos en cada una de las vías que se cruza, la aproximación del vehículo se debe hacer sobre la mitad derecha de la vía, junto a la raya central, y después entrar a la intersección cediendo el paso a los vehículos que circulen en sentido contrario a la vía que abandona, dando vuelta a la izquierda de tal manera que al salir de la intersección, se coloque inmediatamente a la derecha de la raya central de la vía a la que se ha incorporado;
+a) En cualquier intersección donde el tránsito sea permitido en ambos sentidos en cada una de las vías que se cruza, la aproximación del vehículo se debe hacer sobre la mitad derecha de la vía, junto a la raya central, y después entrar a la intersección cediendo el paso a los vehículos que circulen en sentido contrario a la vía que abandona, dando vuelta a la izquierda de tal manera que al salir de la intersección, se coloque inmediatamente a la derecha de la raya central de la vía a la que se ha incorporado;
 
-b). En vías de circulación de un solo sentido, tanto el movimiento para colocarse en posición, como el viraje, se hará tomando el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía;
+b) En vías de circulación de un solo sentido, tanto el movimiento para colocarse en posición, como el viraje, se hará tomando el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía;
 
-c). De una vía de un sentido a otra de doble sentido, se hará la aproximación tomando el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía, y después de entrar a la intersección dará vuelta a la izquierda, de tal manera que al salir de aquélla, se coloque inmediatamente a la derecha de la raya central de la vía a que se ha incorporado;
+c) De una vía de un sentido a otra de doble sentido, se hará la aproximación tomando el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía, y después de entrar a la intersección dará vuelta a la izquierda, de tal manera que al salir de aquélla, se coloque inmediatamente a la derecha de la raya central de la vía a que se ha incorporado;
 
-d). De una vía de doble sentido a otra de un solo sentido, la aproximación se debe hacer sobre la mitad derecha de la vía junto a la raya central y, después de entrar a la intersección, dará vuelta a la izquierda de tal manera que al salir de aquélla, se coloquen en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado;
+d) De una vía de doble sentido a otra de un solo sentido, la aproximación se debe hacer sobre la mitad derecha de la vía junto a la raya central y, después de entrar a la intersección, dará vuelta a la izquierda de tal manera que al salir de aquélla, se coloquen en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado;
 
-e). Cuando sea practicable, la vuelta a la izquierda deberá efectuarse dejando a la derecha el centro de la intersección.
+e) Cuando sea practicable, la vuelta a la izquierda deberá efectuarse dejando a la derecha el centro de la intersección, y
 
-III. Vuelta en “U”:
+f) Se prohíbe la vuelta a la izquierda sobre calles o avenidas en las que transita RUTA, aún si faltara la señal que restringe dicha maniobra.
 
-Podrá darse vuelta en “U” en los cortes o intersecciones de calles o avenidas de doble sentido, si no existe señal prohibitiva.
+III. Vuelta en "U":
 
-###### Artículo 306.
+Podrá darse vuelta en "U" en aperturas de camellón autorizadas o en intersecciones de calles o avenidas de doble sentido, si no existe señal prohibitiva.
+
+Se prohíbe la vuelta en "U" sobre calles o avenidas en las que transita RUTA, aún si faltara la señal que restringe dicha maniobra.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 304 Bis.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 305.
 
 Para transitar en torno a una rotonda o glorieta, los vehículos deberán ser conducidos dejando a la izquierda el centro de la misma y, a falta de señales en otro sentido, tendrán preferencia de paso respecto de los que se pretendan incorporar a la misma.
 
-###### Artículo 307.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los conductores de vehículos deben hacer uso de los mecanismos electromecánicos especiales o luces direccionales que estén integrados a los vehículos conforme a las normas aplicables, para hacer las señales relativas al movimiento y circulación de los mismos, las cuales deben iniciarse cuando menos treinta metros antes del lugar donde se pretenda realizar la maniobra. En caso de que estos dispositivos no funcionen adecuadamente, los conductores deberán hacer, con la misma anticipación, las siguientes señas manuales:
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 306.
+
+Los conductores de vehículos deben hacer uso de los mecanismos electrónicos especiales o luces direccionales que estén integrados a los vehículos conforme a las normas aplicables, para hacer las señales relativas al movimiento y circulación de los mismos, las cuales deben iniciarse cuando menos treinta metros antes del lugar donde se pretenda realizar la maniobra. En caso de que estos dispositivos no funcionen adecuadamente, los conductores deberán hacer, con la misma anticipación, las siguientes señas manuales:
 
 I. Para detener la marcha de los vehículos o para disminuir la velocidad, sacarán horizontalmente el brazo por el lado izquierdo, con la mano extendida;
 
@@ -4881,361 +5027,767 @@ II. Para indicar que va a dar vuelta a la derecha, sacar el brazo por el lado iz
 
 III. Para indicar vuelta a la izquierda, sacar el brazo por el lado izquierdo, inclinándolo hacia abajo el antebrazo con la mano extendida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 307.
+
+Cuando el conductor de un vehículo detenga su marcha, deberá hacerlo pegándose a la banqueta de estacionamiento, haciendo las señales necesarias para evitar accidentes o detenciones innecesarias a la corriente de tránsito y respetando las disposiciones de este Capítulo, aplicables en materia de estacionamiento en la Vía Pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
 ###### Artículo 308.
 
-Cuando el conductor de un vehículo detenga su marcha, deberá hacerlo pegándose a la banqueta de estacionamiento, haciendo las señales necesarias para evitar accidentes o detenciones innecesarias a la corriente de tránsito y respetando las disposiciones de este Capítulo, aplicables en materia de estacionamiento en la vía pública.
+Los vehículos particulares y los destinados al servicio de transporte en todas sus modalidades, además de cumplir con las condiciones óptimas para su circulación, deben especificar en la tarjeta de circulación respectiva, el tipo de combustible que requieran y, en caso de utilizar como combustible gas L.P., deberán contar con la autorización correspondiente, reunir las condiciones de seguridad requeridas y abastecerse únicamente en los lugares autorizados para tal efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 309.
 
-Los vehículos particulares y los destinados al servicio de transporte en todas sus modalidades, además de cumplir con las condiciones óptimas para su circulación, deben especificar en la tarjeta de circulación respectiva, el tipo de combustible que requieran y, en caso de utilizar como combustible gas L. P., deberán contar con la autorización correspondiente, reunir las condiciones de seguridad requeridas y abastecerse únicamente en los lugares autorizados para tal efecto.
+Se prohíbe dejar abandonado o detener en la Vía Pública cualquier vehículo con el motor en funcionamiento, así como cargar combustible o descender todos sus ocupantes del mismo, sin suspender previamente el funcionamiento del motor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 310.
 
-Se prohíbe dejar abandonado o detener en la vía pública cualquier vehículo con el motor en funcionamiento, así como cargar combustible o descender todos sus ocupantes del mismo, sin suspender previamente el funcionamiento del motor. El conductor o, en su caso, el propietario será el inmediato responsable de la infracción a este artículo.
+Solamente se dará marcha atrás cuando el movimiento se pueda hacer con seguridad cediendo el paso a los peatones y sin interferir el tránsito, en una distancia no mayor de diez metros. Se prohíbe el movimiento en reversa, en intersecciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 311.
 
-Los conductores de los vehículos de combustión, deberán abstenerse de usar teléfonos celulares o cualquier medio de radio comunicación por ondas, cuando se encuentren abasteciéndose de combustible.
+Al entrar o salir los vehículos de las casas, garajes, estacionamientos u otros lugares, sus conductores tomarán las precauciones necesarias, dando preferencia al paso de peatones y de vehículos; igual conducta observarán al iniciar la marcha encontrándose estacionados al margen de la acera o el acotamiento del camino.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 312.
 
-Solamente se dará marcha atrás, cuando el movimiento se pueda hacer con seguridad y sin interferir el tránsito, en una distancia no mayor de diez metros. Se prohíbe el movimiento en reversa, en intersecciones.
+En las zonas privadas con acceso al público y vías de acceso controladas, como zona de estacionamiento de almacenes, centros comerciales, auditorios, estadios, expendios de combustible y lugares análogos, se prohíbe la entrada y salida de vehículos en lugares distintos expresamente designados para ello.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 313.
 
-Al entrar o salir los vehículos de las casas, garajes, estacionamientos u otros lugares, sus conductores tomarán las precauciones necesarias, dando preferencia al paso de peatones y de vehículos; igual conducta observarán al iniciar la marcha encontrándose estacionados al margen de la acera o el acotamiento del camino.
+Entre vehículos motorizados, tienen preferencia para circular:
 
-###### Artículo 314.
+I. Los que se desplacen sobre rieles;
 
-En las vías de acceso controladas, como zona de estacionamiento de almacenes, centros comerciales, auditorios, estadios y lugares análogos, se prohíbe la entrada y salida de vehículos fuera de los lugares expresamente designados para ello.
+II. Los destinados a los servicios de ambulancias, seguridad pública, cuerpo de bomberos y transportes militares, los cuales deben ajustarse para circular a lo establecido en este Capítulo, debiendo utilizar para su identificación "sirenas" o "faros" que proyecten luz roja en caso de emergencia. Ningún conductor deberá seguir o igualar en velocidad a un vehículo de bomberos u otro que sea de servicio de emergencia, cuando lleven las sirenas encendidas ni detenerse o estacionarse a una distancia menor de cincuenta metros del lugar en donde el equipo de emergencia se encuentre operando;
 
-###### Artículo 315.
-
-Entre vehículos, tienen preferencia para circular:
-
-I. Los que transiten sobre las vías públicas con preferencia de paso, dada ésta por cualquier dispositivo para el control de tránsito, ya sean semáforos o señales instaladas;
-
-II. Los que se desplacen sobre rieles;
-
-III. Los destinados a los servicios de ambulancias, policía, seguridad vial, cuerpo de bomberos y transportes militares, los cuales deben ajustarse para circular a lo establecido en este Capítulo, debiendo utilizar para su identificación “sirenas” o “faros” que proyecten luz roja, en caso de emergencia;
+III. Los que transiten sobre las Vías Públicas con preferencia de paso, dada ésta por cualquier dispositivo para el control de tránsito, ya sean semáforos o señales instaladas;
 
 IV. Los que transiten por avenidas o calles, sobre los que lo hagan por calles, privadas o cerradas;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
-
 V. Los que circulen por calles con camellón central, a los que lo hacen por calles sin camellón;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+VI. Los que transiten por arterias pavimentadas y/o adoquinadas, sobre los que lo hagan por calles que no lo estén; y
 
-VI. Los que transiten por arterias asfaltadas o petrolizadas, sobre los que lo hagan por calles que no lo estén; y
+VII. RUTA.
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Vehículos del Sistema de Transporte Público Masivo RUTA.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-###### Artículo 316.
+###### Artículo 314.
 
-Además de lo dispuesto en el artículo anterior, son aplicables al cruce y acceso a las vías públicas las siguientes disposiciones:
+Además de lo dispuesto en el artículo anterior, son aplicables al cruce y acceso a las Vías Públicas las siguientes disposiciones:
 
-I. En las vías públicas con “preferencia de paso”, los vehículos que en ellas circulen tomarán preferencia sobre los que lo hagan por todas las que le son transversales, a la velocidad permitida;
+I. En las vías de circulación con ''preferencia de paso", los vehículos que en ellas circulen tomarán preferencia sobre los que lo hagan por todas las que le son transversales, a la velocidad permitida;
 
-II. Para cruzar o entrar en las arterias que están consideradas con “preferencia de paso”, los conductores de vehículos están obligados a detener su marcha, efectuando alto completo sin rebasar el límite de las banquetas, e iniciándola nuevamente cuando se haya asegurado de que no se acerque ningún vehículo que circule sobre las citadas arterias;
+II. Para cruzar o entrar en las arterias que están consideradas con ''preferencia de paso", los conductores de vehículos están obligados a detener su marcha, efectuando alto total sin rebasar el límite de las banquetas, e iniciar nuevamente cuando se haya asegurado de que no se acerque ningún vehículo que circule sobre las citadas arterias;
 
-III. En las intersecciones de las vías públicas que carezcan de señalamiento de “preferencia de paso”, los conductores de vehículos deben hacer alto antes de atravesar la misma, cediendo el paso a los peatones, y en caso de que coincidan dos o más vehículos, deben ceder el paso a los que circulen por la vía de su derecha, prosiguiendo su marcha una vez que no exista peligro para hacerlo;
+III. En las intersecciones de las vías de circulación que carezcan de señalamiento de ''preferencia de paso", los conductores de vehículos deben hacer alto antes de atravesar la misma, cediendo el paso a los peatones, y en caso de que coincidan dos o más vehículos, deben ceder el paso a los que circulen por la vía de su derecha, prosiguiendo su marcha una vez que no exista peligro para hacerlo;
 
-IV. En las intersecciones de dos o más arterias con “preferencia de paso”, pero que provisionalmente carezcan de señalamiento, los conductores de vehículos disminuirán su velocidad de acuerdo con las necesidades de circulación en los mismos y hasta un máximo de veinte kilómetros por hora;
+IV. En las intersecciones de dos o más arterias con ''preferencia de paso", pero que provisionalmente carezcan de señalamiento, los conductores de vehículos disminuirán su velocidad de acuerdo con las necesidades de circulación en los mismos y hasta un máximo de veinte kilómetros por hora;
 
-V. Al escuchar la sirena de los vehículos previstos en la fracción III del artículo anterior, los conductores de vehículos, sin excepción, tomarán rápidamente el extremo derecho del lugar en que circulen o, en su caso, el izquierdo, haciendo alto en tanto dejan paso libre a los vehículos de que se trata; tratándose de calles de un solo sentido de circulación, así como de cruceros o boca calles, procurarán no quedar estacionados en forma que obstruyan el paso, con las precauciones debidas;
+V. Al escuchar la sirena de los vehículos previstos en la fracción II del artículo anterior, los conductores de vehículos, sin excepción, tomarán rápidamente el extremo derecho del lugar en que circulen o, en su caso, el izquierdo, haciendo alto dejando libre a los vehículos mencionados; tratándose de calles de un solo sentido de circulación, así como de cruceros o boca calles, procurarán no quedar estacionados en forma que obstruyan el paso, con las precauciones debidas;
 
 VI. Los conductores que vayan a entrar en una vía principal o rápida, deberán tomar el carril de menor velocidad y si no existe tal carril, deberán disminuir su velocidad cediendo el paso a los vehículos que circulen por la vía principal o rápida;
 
 VII. Al salir de la vía principal o rápida, los conductores deben de pasar con suficiente anticipación al carril de su extrema derecha, para tomar desde su inicio el carril de menor velocidad; y
 
-VIII. Aunque los dispositivos para el control de tránsito lo permitan, queda prohibido avanzar sobre una intersección cuando adelante no haya espacio suficiente para que el vehículo la libre.
+VIII. Queda prohibido cruzar una intersección cuando los semáforos lo permitan pero no exista espacio suficiente para terminar de cruzarla y se bloquee el paso de personas o vehículos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 315.
+
+Al oscurecer, los conductores deben encender las luces blancas fijas de los vehículos, usando la media intensidad para las calles iluminadas y sectores de intenso tránsito, quedando el uso de la luz entera para las calzadas y calles con iluminación deficiente, en cuyo caso los conductores, cuando se encuentren con otros vehículos circulando delante o en sentido contrario, estarán obligados a disminuir la intensidad de la misma, procurando, en todo caso evitar deslumbramientos a otros vehículos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO II
+
+DE LAS SEÑALES UTILIZADAS PARA REGULAR EL TRÁNSITO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 316.
+
+La Dirección de Tránsito, utilizará las siguientes señales fijas:
+
+I. PREVENTIVAS.- Son de color amarillo y tienen por objeto advertir al usuario la existencia y naturaleza de un peligro en el camino;
+
+II. RESTRICTIVAS.- Son de color rojo, tienen por objeto indicar la existencia de limitaciones físicas, prohibiciones y disposiciones reglamentarias que regulan el tránsito; y
+
+III. INFORMATIVAS.- Son de color azul, sirven para guiar al usuario a lo largo de su ruta, indicándole las calles o caminos que encuentre, nombre de poblaciones, lugares de interés, distancia y recomendaciones que debe observar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 317.
 
-Los conductores de vehículos en movimiento deben conservar entre el suyo y el que va adelante, una distancia no menor de cinco metros, y cuando estén detenidos, el margen no podrá ser inferior a un metro.
+Los semáforos son Dispositivos de Control Vial que sirven para regular y dirigir el tránsito de vehículos y peatones en calles y caminos, mediante la emisión de señales de luz de colores, con el siguiente orden cíclico y significado:
 
-En zonas rurales, el conductor de autobús o camión de carga, dejará suficiente espacio para que otro vehículo circule sin peligro, excepto cuando a su vez trate de adelantar al que lo proceda.
+I. VERDE.- Señal de "siga", para que los vehículos continúen de frente, doblen a la derecha o izquierda siempre y cuando no exista alguna señal que prohíba tal maniobra, otorgando en todo momento la prioridad del cruce peatonal;
 
-Los vehículos que circulen en caravanas o convoyes en zonas rurales, transitarán de manera que haya espacio suficiente entre ellos para que otro pueda ocuparlo sin peligro. Esta disposición no se aplicará a columnas militares ni a cortejos fúnebres.
+II. AMBAR.- Señal de ''prevención" para que los vehículos y peatones que estén frente al semáforo, disminuyan la velocidad y anticipen que está a punto de aparecer la luz roja; y
+
+III. ROJO.- Señal de "alto", para que todos los vehículos y peatones que avancen hacia el semáforo detengan la marcha inmediatamente, dado que los vehículos de la intersección tendrán la señal de siga.
+
+Las indicaciones de los semáforos tendrán preferencia sobre cualquier otra señal o regla general de circulación y cuando en un crucero los semáforos no estén funcionando y ningún Agente esté dirigiendo el tránsito, los conductores están obligados a tomar todas las precauciones debidas, debiendo sujetarse a las demás señales existentes y, en su defecto, a las reglas generales sobre circulación previstas en la Sección VII del presente Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 318.
 
-Ningún conductor debe seguir o igualar en velocidad a un vehículo de bomberos u otro que sea de servicio de emergencia, cuando lleven las sirenas encendidas ni detenerse o estacionarse a una distancia menor de cincuenta metros del lugar en donde el equipo de emergencia se encuentre operando.
+La interpretación de las indicaciones de los semáforos para peatones será la siguiente:
+
+I. La indicación PARE iluminada en color rojo quiere decir que el peatón no deberá atravesar la calle en dirección a la señal, mientras ésta se encuentra encendida;
+
+II. La indicación de PASE iluminada en color verde fijo significa que los peatones que se encuentran frente al semáforo pueden cruzar la calle en dirección del mismo; y
+
+III. La indicación de PASE en color verde intermitente significa que un peatón no deberá empezar a cruzar la calle en dirección de la señal, porque la luz de ésta va a cambiar a la indicación de PARE; cualquier peatón que haya iniciado su cruce durante la indicación fija deberá acelerar la marcha y seguir hasta la acera o la isla de seguridad. Puede utilizarse con el mismo fin la indicación de PARE intermitente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 319.
 
-Queda prohibido a los conductores de vehículos, usar innecesariamente la bocina o claxon, provocar o efectuar con el motor o su escape, ruidos de cualquier naturaleza que molesten a otras personas a manera de ofensa. Esta prohibición es absoluta en los lugares en donde se encuentren ubicados hospitales, sanatorios, escuelas y edificios públicos.
+Los Agentes podrán coordinar la movilidad mediante el siguiente sistema de señales:
+
+I. ALTO: El frente y la espalda del Agente respectivo;
+
+II. ADELANTE: Los costados del Agente, moviendo los brazos al iniciar esta señal, en el sentido que debe desarrollarse la circulación;
+
+III. PREVENTIVA: Cuando el Agente se encuentre en posición de "adelante" y levante el brazo horizontalmente con la mano extendida hacia arriba, del lado donde proceda la circulación, o ambos si se verifica en dos sentidos. Con esta señal se podrá permitir el paso de vehículos en forma especial, cuando las necesidades de la circulación lo requieran; y
+
+IV. ALTO GENERAL: Cuando el Agente levante el brazo derecho en posición vertical. Esta señal se debe hacer en caso de emergencia, motivada por la aproximación de ambulancias, patrullas, vehículos del Cuerpo de Bomberos o algún otro servicio especial, en cuyo caso los peatones y vehículos despejarán el arroyo para permitir el paso de aquellos.
+
+Para hacer las señales a que se refieren las fracciones anteriores, los Agentes pueden emplear silbatos en la siguiente forma:
+
+ALTO, un toque corto;
+
+ADELANTE, dos toques cortos;
+
+PREVENCIÓN, un toque largo; y
+
+ALTO GENERAL; tres toques largos.
+
+En los casos de aglomeración de vehículos, darán una serie de toques cortos a fin de activar el paso.
+
+En todos los casos a que se refiere este artículo, los Agentes se situarán en lugares donde sean visibles, convenientemente iluminados, y con el equipo que los haga notorios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 320.
 
-Los conductores de vehículos deberán tener el debido cuidado para evitar atropellamientos y cuando observen sobre el arroyo de la vía pública a cualquier persona, disminuirán al mínimo su velocidad y en su caso, deberán detenerse.
+Para la debida protección de las señales, se prohíbe:
 
-En intersecciones o zonas marcadas para paso de peatones, donde no haya semáforo ni agentes que regulen la circulación, los conductores deberán ceder el paso a los peatones que se encuentren sobre la superficie de rodamiento correspondiente al sentido de circulación del vehículo.
+I. Mover o destruir, parcial o totalmente, los Dispositivos de Control Vial instalados en las Vías Públicas del Municipio; y
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+II. Adosar o colocar propaganda, letreros u otra clase de objetos, cuando por su forma, dibujo o colocación, puedan obstruir, dar lugar a confusión o entorpecer la comprensión de la señalética de circulación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO III
+
+DE LAS VÍAS EN GENERAL Y DE INTENSO TRÁNSITO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 321.
 
-El conductor que produzca o sufra algún accidente de tránsito, está obligado a detenerse inmediatamente y si hubiere algún lesionado, las personas involucradas deberán solicitar auxilio y no separarse del lugar bajo ningún pretexto, hasta que hayan intervenido las autoridades competentes, correspondiendo al área de servicios periciales de la Dirección de Tránsito Municipal dictaminar, en su caso, sobre las circunstancias en que se produjo el accidente y las responsabilidades en materia vial derivadas del mismo, para los efectos a que haya lugar.
+Se prohíbe el uso de la Vía Pública para toda clase de competencia y juegos organizados que requieran autorización específica, así como transitar sobre ella con vehículos no reglamentados que puedan dañar la Vía Pública o pongan en riesgo la integridad de los usuarios. Conforme a lo establecido a este Capítulo, los padres, tutores o encargados de los menores de edad, si se trata de éstos, serán responsables de la infracción a lo dispuesto en este artículo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 321 Bis.
 
-Si como resultado de un accidente de tránsito se ocasionaran daños a bienes propiedad municipal y/o equipamiento urbano, los implicados serán responsables del pago de los mismos, independientemente de lo que establezca el Código de Defensa Social para el Estado Libre y Soberano de Puebla y el presente Código Reglamentario.
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 322.
 
-Al oscurecer, los conductores de toda clase de vehículos, deben encender las luces de éstos, usando la media intensidad para las calles iluminadas y sectores de intenso tránsito, quedando el uso de la luz entera para las calzadas y calles con iluminación deficiente, en cuyo caso los conductores, cuando se encuentren con otros vehículos circulando delante o en sentido contrario, estarán obligados a disminuir la intensidad de la misma, procurando, en todo caso evitar deslumbramientos a otros vehículos.
+Las vialidades que de acuerdo al Programa de Desarrollo Urbano vigente sean determinadas como primarias, secundarias, radiales viales, circuitos viales, Centro Histórico además de las que determine la Dirección de Tránsito serán consideradas de intensa movilidad y tránsito.
+
+En estas vialidades se establecerán disposiciones especiales en materia de límites de velocidad, carga y descarga, paraderos bases y sitios, cierres por obras y las demás que establezca la Dirección de Tránsito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO IV
+
+DE LA VÍA PÚBLICA PARA ESTACIONAMIENTO DE VEHÍCULOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 323.
 
-Queda prohibida la circulación de vehículos en las vías de jurisdicción municipal con cualquiera de las siguientes características:
+El estacionamiento en la Vía Pública se permitirá solamente en los lugares que determine el Ayuntamiento, por conducto de la Dirección de Tránsito.
 
-I. Que no cumplan con los requisitos previstos en el artículo 267 y no cuenten con permiso provisional emitido por autoridad competente para circular sin ellos;
+I. La Dirección de Tránsito colocará el señalamiento en las vialidades en que se prohíba el estacionamiento, así como las zonas y cajones respectivos, usando señales uniformes, claras, visibles, fácilmente comprensivas y colocadas en forma ordenada, pudiendo precisar además el máximo de tiempo que en ellos se permita e instalar los dispositivos que considere convenientes;
 
-II. Que no satisfagan los dispositivos, accesorios y condiciones a que se refiere el artículo 271;
+II. En las calles en donde se permita el estacionamiento de vehículos, los conductores de éstos están obligados a estacionarlos sobre el lado izquierdo de la dirección en que circulen, salvo casos en que el análisis técnico permita efectuar estacionamientos en el lado opuesto;
 
-III. Tratándose de vehículos particulares, que presten servicio de transporte público o mercantil, sin estar debidamente autorizados para ello;
+III. En todo caso los conductores deben observar estrictamente las disposiciones relativas a estacionamientos en "cordón" o en "batería" que sobre el particular apruebe la misma Dirección; y
 
-IV. Que resulten ostentosamente contaminantes o no porten la calcomanía o emblema vigente, que demuestre el cumplimiento de la verificación vehicular obligatoria en materia de emisión de contaminantes;
+IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
 
-V. Que los vidrios laterales, el medallón o el parabrisas tengan cortinas o estén oscurecidos, entintados, polarizados, ahumados o cambiados de tono por cualquier otro medios que impida la plena visibilidad hacia el interior del vehículo, salvo que venga así desde la fabricación del vehículo y se establezca tal circunstancia en los documentos que expida la plana o agencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Que ostente frases, leyendas u otras manifestaciones gráficas que lesionan la moral o las buenas costumbres; y
-
-VII. Que usen propaganda luminosa, dispositivos reflejantes o faros traseros de luz blanca que causen deslumbramiento a los demás conductores.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 324.
 
-La Dirección de Tránsito Municipal por conducto de los elementos a su servicio y como medida preventiva o de seguridad, puede retirar de la circulación los vehículos que presenten cualquiera de las características prohibidas en el artículo anterior, hasta que se corrija su situación, debiendo dar parte de inmediato, en su caso, a las autoridades competentes en materia de ecología o transporte, para los efectos legales correspondientes.
+Las personas con discapacidad tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Tránsito la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
+
+I. Vigilar en coordinación con la Unidad de Normatividad y Regulación Comercial que en los estacionamientos, dichos espacios se establezcan en la proporción y con las características reglamentadas por las disposiciones municipales en materia de construcciones;
+
+II. En las calles y avenidas en las que se permita el estacionamiento de vehículos, destinar un espacio por cada veinte Cajones o fracción a partir de diez Cajones para uso reservado a personas con discapacidad, con una ubicación lo más cercana posible a las rampas establecidas para facilitar el ascenso y descenso de los usuarios, la seguridad y la accesibilidad de dichas personas, instalando la señalética de conformidad con la normatividad vigente, en un lugar fácilmente visible y además pintada sobre el pavimento;
+
+III. Garantizar el respeto de los espacios señalados en el presente artículo, cuidando que en los mismos sólo se estacionen vehículos que tengan la autorización oficial, o en su caso, cuando del vehículo descienda o ascienda alguna persona con una discapacidad; y
+
+IV. Detectar en su caso, el uso indebido de las autorizaciones a que se refiere la fracción anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 325.
 
-Los vehículos o semovientes que por su peso, volumen o condiciones particulares, puedan dañar las vías públicas, sólo podrán circular por vías empedradas o terraplenes, siempre que en ellas se permita el libre paso, sin causar daño a la propiedad privada. Excepcionalmente podrá autorizarse su circulación en vías pavimentadas, calzadas, carreteras o caminos públicos; siempre y cuando en el caso de los vehículos estén provistos de ruedas enllantadas, de madera o en orugas.
+Cuando algún vehículo sufra desperfectos en la Vía Pública, deberá ser retirado del arroyo vehicular y colocado junto a la acera, de ser posible lejos de pendientes, curvas peligrosas o lugares prohibidos.
 
-Las cabalgaduras y semovientes que transiten en las vías públicas, deben sujetarse a las reglas que sobre circulación establece este Capítulo, excepto, aquellas que por su naturaleza no les sean aplicables. En todo caso, los jinetes o arreadores deberán llevarlos por lugares alejados del primer cuadro de circulación de las poblaciones y por calles de poco tránsito, y cuando se trate de ganado bravo o bestias peligrosas, deberán ser encajonados previamente.
+En las calles angostas se procurará llevarlos hasta las más próximas, donde no estorbe la circulación.
 
-Tanto los vehículos de tracción animal, como los carruajes o carros de mano, estarán en buen estado y reunirán las condiciones sanitarias y de higiene necesarias, debiendo obedecer las señales de tránsito y las indicaciones de circulación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 326.
 
-Queda prohibido el tránsito por la vía pública de objetos sin ruedas, de cualquier género, que pudieran ser arrastrados sobre el suelo, piso o pavimento y provocar daños al mismo.
+Se prohíbe el estacionamiento en los siguientes casos:
 
-DE LA CIRCULACIÓN DE VEHÍCULOS DESTINADOS AL SERVICIO DE TRANSPORTE
+I. En una intersección;
+
+II. En el cruce o zona de peatones;
+
+III. Dentro de una distancia de 10 metros de un hidrante o toma de agua para el uso de servicios públicos;
+
+IV. Se impida el acceso vehicular en inmuebles públicos o privados causando molestias, en cuyo caso se utilizará grúa con cargo al infractor;
+
+V. Sobre un puente o paso a desnivel, en una curva o cima, o dentro de una distancia cercana a ellos, no mayor de 20 metros;
+
+VI. En los lugares en donde haya señales oficiales de no estacionarse o exista algún otro dispositivo o restricción, salvo que se cumplan los lineamientos que en su caso determine la autoridad competente;
+
+VII. En doble o más filas;
+
+VIII. Sobre la banqueta, camellones, calles o vías angostas, donde el estacionarse impida o dificulte el tránsito, tanto vehicular como peatonal, en cuyo caso se utilizará grúa para trasladarlo al Depósito Oficial, con cargo al infractor;
+
+IX. En lugares de uso destinado a paradas, estaciones, terminales, bases o sitios, excepto los vehículos autorizados;
+
+X. Al obstaculizar las rampas y demás infraestructura urbana destinada a facilitar el tránsito, la seguridad o la accesibilidad de las personas con discapacidad, u ocupar los espacios de estacionamiento destinados al uso exclusivo de dichas personas sin contar con la autorización oficial;
+
+XI. Dentro de una distancia de 10 metros de un letrero de "alto" o señal de control de tránsito;
+
+XII. Dentro de una distancia de 20 metros del cruce de una línea de ferrocarril;
+
+XIII. Dentro de una distancia de 10 metros de la entrada y salida de ambulancias, carros de bomberos y patrullas de tránsito o policía;
+
+XIV. A una distancia de 50 metros, cuando menos, de donde un vehículo de bomberos se encuentre detenido para atender una emergencia;
+
+XV. En las demás zonas o áreas de la Vía Pública que determine el Ayuntamiento, conforme a los artículos 330 fracción XXVII, 323 y 324 del presente Capítulo;
+
+XVI. En el carril exclusivo del Corredor de Transporte Público;
+
+XVII. En accesos, salidas, áreas de circulación y zonas de ascenso y descenso de pasaje en las terminales de RUTA;
+
+XVIII. Sobre las banquetas, rampas, camellones, andadores, retornos, isletas u otras vías y espacio reservados a peatones y ciclistas, para ello es suficiente que cualquier parte del vehículo se encuentre sobre estos espacios; y
+
+XIX. En la Vía Pública por más de treinta minutos para realizar trabajos de compostura de algún desperfecto o reparaciones motivadas por casos de emergencia o de fuerza mayor. Los talleres o particulares que se dedican a la reparación de automóviles, bajo ningún concepto podrán hacerlo en la Vía Pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 327.
 
-Los vehículos destinados al servicio de transporte público o mercantil que transiten por las vías públicas de jurisdicción municipal, se rigen:
+Para el cumplimiento de lo dispuesto en el presente Capítulo, la Secretaría, a través de la Dirección de Tránsito, estará facultada para aplicar como medidas de seguridad la inmovilización o el retiro de los vehículos estacionados en forma o lugares prohibidos, utilizando los medios adecuados para hacerlo sin causar daños a los mismos.
 
-I. Por disposiciones federales, estatales y municipales conducentes, por lo que se refiere a su clasificación, registro, concesión, permisos, tarifas, itinerarios, frecuencias de paso horarios y demás aspectos relacionados con la prestación del servicio; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PARTE, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Por lo establecido en este Capítulo, en todo lo concerniente a su circulación, requisitos y condiciones para transitar.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+PARTE II
 
-Los pasajeros tendrán derecho a exigir al conductor del vehículo y, en su caso, a los agentes de tránsito de la Dirección de Tránsito Municipal, que se cumpla con dichas disposiciones.
+REGLAS GENERALES DE APLICACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN I. AUTORIDADES, COMPETENCIAS Y FACULTADES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 328.
 
-La circulación de los vehículos de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil de personas quedaba (sic) sujeta a las siguientes disposiciones especiales en materia de tránsito:
+El gobierno municipal es competente para aplicar los preceptos que regulen la seguridad vial y movilidad en todo su territorio. En las Vías Públicas ubicadas en la extensión territorial del Municipio que estén bajo la jurisdicción de las autoridades estatales o federales no serán aplicables las disposiciones del presente Capitulo, salvo acuerdo, convenio o disposición en contrario.
 
-I. Las puertas de seguridad deben mantenerse cerradas durante todo el recorrido y solamente se abrirán para el ascenso y descenso del pasaje;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Ningún vehículo deberá ponerse en movimiento sin haber cerrado previamente las puertas;
-
-III. Las paradas se harán únicamente en los lugares autorizados por las autoridades competentes y sólo por el tiempo necesario para el ascenso y descenso de pasajeros;
-
-IV. Los usuarios serán admitidos únicamente en el interior de los vehículos y no se permitirá que persona alguna viaje en los estribos o en el exterior;
-
-V. Los vehículos destinados al transporte público no deberán romper el cordón de circulación ni rebasarse entre sí, sin causa justificada;
-
-VI. Se prohíbe a los conductores, mientras el vehículo esté en movimiento, usar aparatos de televisión a la vista de los mismos o realizar alguna otra actividad que provoque su distracción o ponga en peligro la seguridad de los pasajeros y terceros, debiendo evitar en lo posible que los usuarios desvíen su atención; y
-
-VII. Los vehículos destinados al transporte escolar deben estar acondicionados con una rejilla colocada en los costados exteriores de la carrocería, sobre las ventanillas del vehículo, para protección de los usuarios.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 329.
 
-La circulación de los vehículos de transporte mercantil de carga, queda sujeta a las siguientes disposiciones especiales en materia de tránsito:
+Para la aplicación e interpretación del presente Capítulo, son autoridades dentro de sus respectivas competencias:
 
-I. Los transportistas de materiales para la construcción o que sean susceptibles de esparcirse o derramarse, deben emplear carrocerías o cajas apropiadas para el servicio a que están destinados, que impidan que se riegue o tire lo transportado, o en su defecto, la carga deberá estar cubierta de manera adecuada con una lona que proteja el material transportado y evite que éste se salga, se desprenda o expulse partículas hacia el exterior;
+I. El Ayuntamiento;
 
-II. Los transportistas de líquidos, gases y suspensiones deben estar dotados de un tanque unitario o de una olla revolvedora, que evite que se riegue o fugue;
+II. La Secretaría;
 
-III. Los transporte de carnes y vísceras deben llevar una caja de carga acondicionada, que garantice las condiciones higiénicas indispensables, y se sujetarán, además, a las disposiciones sanitarias que resulten aplicables;
+III. La Dirección de Tránsito;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+IV. Los Agentes; y
 
-IV. Para transportar materias u objetos repugnantes a la vista o al olfato, será obligatorio, además de llevarlos debidamente cubiertos, contar con el permiso respectivo de la Dirección de Tránsito Municipal, en el que, de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones sanitarias aplicables;
+V. La Dirección de Ingresos.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. Para el transporte de maquinaria u objetos cuyo tamaño o peso puedan ocasionar lentitud en la maniobra, entorpecer la libre circulación o causar perjuicio a los pavimentos, debe contarse previamente con la autorización de la Dirección de Tránsito Municipal, la que señalará el horario, ruta o condiciones a que deberá sujetarse el acarreo de dichos objetos;
-
-VI. El transporte de ganado bravo o bestias peligrosas debe hacerse con las precauciones debidas;
-
-VII. En los vehículos de carga de más de 1,500 kilos, sólo se permitirá que viajen en la cabina el conductor y hasta dos personas más;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-VIII. Cuando por el peso de lo transportado se produzca excesiva trepidación, deberán tomarse las precauciones que fije la Dirección de Tránsito Municipal; y
-
-IX. Se prohíbe a los conductores, mientras el vehículo esté en movimiento, usar aparatos de televisión a la vista de los mismos o realizar alguna otra actividad que provoque su distracción o ponga en peligro la seguridad de los pasajeros y terceros.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 330.
 
-El transporte en vehículos de materiales y sustancias inflamables, explosivas, corrosivas, radioactivas, biológicas, toxicas o peligrosas tienen las siguientes restricciones:
+La Secretaría a través de la Dirección de Tránsito vigilará en forma permanente que la movilidad se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá las siguientes atribuciones:
 
-I. Debe efectuarse en vehículos adaptados exclusivamente para tal objeto o en latas o tambores herméticamente cerrados;
+I. Realizar programas y acciones encaminados al mejoramiento, control, fluidez y progreso de la movilidad peatonal, motorizada y no motorizada;
 
-II. En el caso de materias inflamables, los vehículos deben llevar cadenas metálicas que vayan en contacto con el piso;
+II. En el ámbito de su competencia evaluar y, en su caso, aprobar los estudios de impacto vial que soliciten los interesados, en asuntos relacionados al otorgamiento de uso de suelo;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+III. Coadyuvar a definir las estrategias que permitan una mejor planeación en materia de estacionamientos, sitios, terminales y otras construcciones que repercutan directamente en la movilidad;
 
-III. En todos los casos, los vehículos deben estar dotados, como mínimo, de un extinguidor de incendio y no podrán circular dentro del primer cuadro de la Ciudad ni en sectores de intenso tránsito o de alta densidad poblacional, salvo que la Dirección de Tránsito Municipal, en coordinación con la Unidad Operativa Municipal de Protección Civil, conceda permiso para ello, fijando la ruta y horario respectivo;
+IV. Definir y realizar, en coordinación con las instancias respectivas del Gobierno Federal y Estatal, los operativos, funciones comunes o concurrentes y demás medidas preventivas y de seguridad vial que sean necesarias, conforme a lo dispuesto en el presente Capítulo;
 
-IV. No podrán estacionarse en zonas densamente pobladas o unidades habitacionales, más que por el tiempo indispensable para distribuir los productos que transportan;
+V. Fomentar e impartir educación vial y demás temas relativos a la movilidad, en coordinación con instituciones, planteles educativos y los demás sectores de la sociedad;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+VI. Colocar, aplicar y mantener la señalética horizontal y vertical;
 
-V. Para el transporte de explosivos en el Municipio, es obligatorio contar previamente con permiso de la Secretaría de la Defensa Nacional y autorización de la Dirección de Tránsito Municipal que contenga el horario y ruta a que forzosamente habrá de sujetarse el acarreo; y
+VII. Verificar y autorizar la colocación de los moderadores de velocidad;
 
-VI. Los vehículos que transporten materias inflamables o explosivas deben usar una bandeja roja en la parte posterior del vehículo y en forma ostensible se fijaran rótulos en las posteriores y laterales que contengan la inscripción “PELIGRO, EXPLOSIVOS” o “PELIGRO, INFLAMABLE”.
+VIII. Hacer uso de dispositivos tecnológicos que permitan obtener datos para conocer la velocidad de los vehículos motorizados y el modo en que circulan en la Vía Pública, entre otras;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2013)</small>
+IX. Instalar cinemómetros en las vialidades y en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva y a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos;
+
+X. Infraccionar por contravenir las disposiciones del presente Capítulo cuando se registre a través de un cinemómetro que fueron excedidos los límites de velocidad, deberá contener los mismos requisitos que los determinados para un Acta de Infracción;
+
+XI. Instalar programas para la prevención de accidentes generados por la ingesta de alcohol u otras substancias tóxicas, para conductores de vehículos motorizados con el fin de salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones;
+
+XII. Cuidar que las aceras, calles y demás vías de circulación o lugares de tránsito para peatones, ciclistas y vehículos estén siempre dispuestos para la circulación, debiendo intervenir en todos los casos en que se realicen obras y trabajos que alteren o impidan el libre tránsito y movilidad;
+
+XIII. Realizar el estudio para la colocación de reductores de velocidad de acuerdo a la opinión técnica del área competente, con el fin de evitar accidentes viales y obstrucciones a la circulación;
+
+XIV. Fijar de manera general, el límite máximo y mínimo de velocidad con el cual podrán circular los vehículos en las vías, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas;
+
+XV. Señalar los lugares autorizados para estacionamiento de vehículos en la Vía Pública y la forma en que deban hacerlo, tomando en consideración los movimientos, circulación y concentración de vehículos y de personas;
+
+XVI. Coadyuvar en el ámbito de su competencia con las autoridades federales y estatales, en la realización de los estudios técnicos que se requieran para el establecimiento de los horarios, tarifas e itinerarios del servicio público de transporte, los cuales serán determinados por las instancias competentes;
+
+XVII. Vigilar la seguridad vial y la de los usuarios del transporte público, así como salvaguardar la integridad física de los peatones y ciclistas, estableciendo medidas que permitan eliminar las conductas que violan las disposiciones en la materia, en términos del presente Capítulo;
+
+XVIII. Designar los Agentes necesarios para realizar las funciones de su competencia;
+
+XIX. Coordinar a través del Departamento de Servicios Periciales, los trabajos periciales y la elaboración de dictámenes en materia de movilidad y seguridad vial, en el ámbito de su competencia;
+
+XX. Vigilar, verificar o inspeccionar los vehículos que circulen en las Vías Públicas del Municipio, pudiendo realizar los operativos conducentes e implementar tecnologías, mecanismos y metodologías que propicien la prevención y la vigilancia de las disposiciones en la materia y en su caso determinar las infracciones;
+
+XXI. Requerir y verificar la documentación que deben portar los conductores de los vehículos, para que aquellos puedan conducir y éstos circular;
+
+XXII. Otorgar a las autoridades administrativas y judiciales, el auxilio que requieran de acuerdo a la ley para el debido ejercicio de sus funciones y la ejecución de sus resoluciones;
+
+XXIII. Proporcionar a las personas físicas o jurídicas colectivas que acrediten conforme a derecho su interés jurídico, las constancias que le sean útiles para justificar que han cumplido con las disposiciones de la materia o de cualquier otro documento público de naturaleza similar, así como de la información que requieran de los expedientes de la propia Secretaría, siempre que en este caso realicen su petición por escrito, señalen el expediente de que se trata y los datos que requieran, y que la información no sea de carácter reservado o confidencial;
+
+XXIV. Establecer horarios específicos para operaciones de carga y descarga, dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las Vías Públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas;
+
+XXV. Determinar y supervisar la instalación de señales mecánicas y luminosas, reflejantes, así como los dispositivos tecnológicos que indiquen las prevenciones que deben observar los peatones y conductores de vehículos para su correcta circulación, así como regular las señales realizadas por Agentes para dirigir el tránsito;
+
+El proyecto e instalación de dispositivos y marcas de señalamiento, se harán con base en el Manual de Dispositivos para el Control de Tránsito en Calles y Carreteras de la Secretaría de Comunicaciones y Transportes o en las normas oficiales de carácter técnico que lo sustituyan.
+
+XXVI. Establecer medidas de seguridad y ejecutarlas por los Agentes. Se consideran medidas de seguridad:
+
+a) Retención de alguno de los siguientes documentos: licencia de conducir, tarjeta de circulación, placas de vehículos o permiso de circulación;
+
+b) Retiro de la circulación y aseguramiento de vehículos de acuerdo a lo dispuesto por el artículo 352 del presente Capítulo; para lo cual se hará uso de la grúa cuidando no causarles daño;
+
+c) Inmovilización al transporte de carga y distribución de mercancías mediante los medios mecánicos que se consideren adecuados cuidando no causar daño a los vehículos; y
+
+d) Proponer la inhabilitación del infractor para conducir en el Municipio por un tiempo determinado no menor de 15 días, ni mayor de un año.
+
+XXVII. Marcar sobre el pavimento de las calles, con pintura de color blanco o amarillo o con alguna otra señal que considere adecuada, las líneas necesarias para canalizar las diferentes corrientes de circulación y para indicar los lugares en donde los vehículos deben efectuar "alto" al finalizar las calles; así como para delimitar las zonas de seguridad o paso de peatones. En la misma forma se pintarán flechas que indiquen la dirección que deban tomar los vehículos;
+
+XXVIII. Señalar las zonas o lugares de la Vía Pública en donde el estacionamiento esté prohibido o sujeto a horarios especiales, limitado a vehículos oficiales. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos;
+
+XXIX. En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la Secretaría para que, a través de la Dirección de Tránsito lo revise y apruebe su impacto en la movilidad del Municipio. La aprobación del proyecto que en su caso emita el titular de la Secretaría será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas;
+
+El estacionamiento de vehículos en inmuebles distintos a la Vía Pública estará permitido siempre que el inmueble y el prestador del servicio cumplan las condiciones y requisitos municipales en materia de desarrollo urbano y construcciones; y
+
+XXX. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN II. DE LOS PROCEDIMIENTOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO I
+
+GENERALIDADES DEL PROCEDIMIENTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 331.
 
-Los conductores de vehículos de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil tendrán las mismas prohibiciones que el artículo 304 impone a los conductores en general, así como las demás obligaciones y derechos que el presente Capítulo establezca de manera general.
+Los Agentes serán competentes para instrumentar procedimientos relativos a actos de control, verificación, vigilancia, o inspección en materia de movilidad, para lo cual deben conducirse con respeto a los particulares, observar los principios éticos del servicio público, abstenerse de incurrir en responsabilidades u otras faltas y cumplir con las siguientes formalidades:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2013)</small>
+I. Los actos de control, vigilancia, verificación o inspección en materia de movilidad podrán practicarse en cualquier día y hora, consistirán en operativos permanentes y ordenados por la autoridad competente;
+
+II. Para realizar actos de control, vigilancia, verificación o inspección en materia de movilidad, bastará que los Agentes se encuentren debidamente uniformados y cuenten con la identificación oficial que los acredite como tales;
+
+III. Los Agentes detendrán la marcha de algún vehículo cuando observen que ha infringido alguna de las disposiciones previstas en el presente Capítulo;
+
+IV. Los Agentes, al detener algún vehículo se identificarán debidamente con el conductor y le informará el motivo por el que lo detuvieron, mencionando el artículo del presente Capítulo que haya infringido;
+
+V. El conductor estará obligado a permitir que los Agentes realicen las acciones establecidas en el presente Capítulo y proporcionará a los mismos la tarjeta de circulación y licencia de conducir, así como toda clase de información que conduzca a la verificación del cumplimiento de las normas en materia de movilidad y seguridad vial, con las reservas de ley;
+
+VI. El Agente hará de conocimiento del conductor los hechos u omisiones que, en su caso, constituyan la infracción a las disposiciones de este Capítulo; además determinará si, con base en ellas, procede alguna medida de seguridad, y como consecuencia el levantamiento del Acta de Infracción, llenando formas impresas numeradas o ingresando los datos en el dispositivo tecnológico de infracción digital, en las que se harán constar las transgresiones que se hubiesen presentado, la cual deberá contener, cuando menos, los siguientes datos:
+
+a) Los datos de identificación del vehículo, haciendo referencia a número de la placa, marca y uso a que esté destinado el vehículo;
+
+b) Nombre del conductor;
+
+c) Número y tipo de licencia del conductor;
+
+d) Hora, día, mes y año en que se elabora el Acta de Infracción;
+
+e) Lugar en que se cometió la infracción, precisando incluso entre qué calles se ubica el mismo;
+
+f) Especificación del o los artículos que hayan sido infringidos y de la o las medidas que, en su caso, haya determinado imponer conforme a este Capítulo;
+
+g) Nombre, número de placa y firma del Agente que levante el Acta de Infracción;
+
+VII. Al levantar el Acta de Infracción el Agente informará el derecho que tiene el conductor para manifestar lo que estime conveniente, pudiendo quedar asentado en el Acta de Infracción;
+
+VIII. El Agente informará al conductor que a efecto de garantizar el pago de su infracción le será retenida como garantía, ya sea licencia, tarjeta de conducir, tarjeta de circulación, placa del vehículo o permiso de circulación;
+
+IX. Cumplido lo anterior, se procederá a la firma del Acta de Infracción por quienes en ella hayan intervenido, se entregará el original de la misma al conductor y otro tanto se remitirá a la Dirección de Tránsito, en caso de que el conductor se niegue a recibirla, el original de ésta se dejará en el parabrisas;
+
+X. Una vez firmada el Acta de Infracción, hará de conocimiento del conductor la opción que tiene para realizar el pago mediante una terminal electrónica de infracción digital; si el infractor accede, el Agente podrá recibir el pago respectivo por medio de tarjeta de débito o crédito, entregando al conductor el recibo correspondiente. No procederá en este caso, la retención de garantía;
+
+XI. En caso de que se detecte un vehículo infringiendo alguna de las disposiciones del presente Capítulo, y el conductor no se encuentre presente, se procederá a realizar el Acta de Infracción dejándose en el parabrisas y el Agente retirará la placa de circulación como garantía. Si el vehículo no cuenta con placas se procederá a su retiro de la circulación y aseguramiento para ser trasladado al Depósito Oficial; y
+
+XII. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicoactivos o cualquier otra sustancia que produzca efecto similar, se deberá practicar dictamen clínico toxicológico, en todo caso se procederá a la puesta a disposición del Juez Calificador por considerarse una falta a las disposiciones del Capítulo de Policía y Gobierno de este Código Reglamentario y al retiro de la circulación y aseguramiento del vehículo para ser trasladado al Depósito Oficial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 332.
 
-Los conductores de vehículos de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil, tienen prohibido estacionarlos en la vía pública para hacer reparaciones o limpieza de éstos, para abastecerse de las materias o sustancias que transportan, o para realizar algún chequeo con sus concesionarios, permisionarios o de los dependientes de éstos. En el caso de sitios, bases o terminales, se deberá contar con la autorización de las instancias competentes para estacionar las unidades respectivas en la vía pública.
+Con el fin de evitar afectaciones a la movilidad, la salud, el ambiente o el orden público en el Municipio, o para garantizar el pago de las multas impuestas por concepto de infracciones, la Dirección de Tránsito a través de sus Agentes y de acuerdo a las condiciones imperantes, deberá aplicar, las medidas preventivas y de seguridad que establece el presente Capítulo, en el ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+La aplicación de dichas medidas se hará siempre de manera alternativa atendiendo a la brevedad y demás circunstancias del acto; pero tratándose de la retención de documentos, sólo podrá retenerse uno de éstos. Para el retiro de la circulación y aseguramiento de vehículos de la circulación, se hará uso de grúa si fuere necesario y se trasladará al Depósito Oficial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 333.
 
-La Dirección de Tránsito Municipal intervendrá con las autoridades federales y estatales, en la realización de los estudios técnicos que se requieran para el establecimiento de los horarios, tarifas e itinerarios del servicio público de transporte, los cuales serán determinados por las instancias competentes.
+La oposición de cualquier persona a la verificación de los vehículos, el estado de los conductores, sus documentos y demás obligaciones relacionadas con los mismos; a la aplicación de las medidas a que se refiere el artículo anterior; al levantamiento de las Actas de Infracción, o a la realización de cualquier otro acto de control y supervisión en materia de movilidad, se considerará una falta a las disposiciones del Capítulo de Policía y Gobierno de este Código Reglamentario y por lo tanto procederá a su aseguramiento por los Agentes y su puesta a disposición del Juez Calificador respectivo, sin perjuicio de que éste lo pueda poner a disposición del Ministerio Público.
 
-DE LOS USUARIOS DEL SERVICIO DE TRANSPORTE DE PERSONAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 334.
 
-Todo viajero, a cambio del importe de pasaje, recibirá, en las rutas urbanas o interurbanas, un boleto que cumpla con los requisitos que establezcan las disposiciones aplicables en la materia.
+Para efectos del artículo 290 del presente Capítulo la fuga del infractor se considerará desobediencia a un mandato legítimo de autoridad, pero también constituirá una infracción administrativa y será motivo de sanción.
 
-Los pasajeros están obligados a presentar sus boletos cuantas veces lo exijan los empleados o los inspectores de servicio y si no lo hicieren o se niegan a pagar su pasaje, el conductor, concesionario o permisionario tiene derecho a requerirle que abandone el vehículo o dar parte a las autoridades policíacas, por violación a las disposiciones del Capítulo de Policía y Gobierno del Municipio del presente Código Reglamentario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 335.
 
-Además de los derechos y obligaciones que en materia de transporte les confieren las disposiciones conducentes, los usuarios del servicio de transporte público, del Sistema de Transporte Público Masivo RUTA o mercantil de personas, tienen los siguientes:
+Los Agentes podrán solicitar el apoyo de la corporación para cumplir con sus funciones, si alguna o algunas personas obstaculizan o se oponen a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Exigir a los empleados del transporte y del Sistema de Transporte Público Masivo RUTA que cumplan en todo momento con las disposiciones aplicables en materia de tránsito y seguridad vial y reportar la violación de las mismas a las autoridades competentes;
-
-II. Llevar sus bienes en términos del artículo 273;
-
-III. Cumplir las obligaciones que les impone el artículo 283;
-
-IV. Recibir en su caso, por sí o a través de sus deudos, los beneficios del seguro que están obligados a contratar los concesionarios o permisionarios del servicio de transporte de personas, para proteger a los usuarios de los riesgos que puedan derivarse de la prestación de dicho servicio;
-
-V. Evitar actos que puedan causar molestias a los demás pasajeros o por los que se ensucie el vehículo en que se transportan o las vías públicas por las que éste transite;
-
-VI. Hacer las señales de parada y reanudación de marcha, por los medios conducentes, de acuerdo con las normas aplicables y, en el caso de las unidades del servicio público, en los lugares autorizados para ello;
-
-VII. Cubrir los importes respectivos, por concepto de cuota o tarifa y porte de bienes o equipaje; y
-
-VIII. Los demás que este Capítulo y las disposiciones conducentes les confieran.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 336.
 
-Cuando los usuarios del servicio de transporte público o mercantil no cumplan con cualquiera de las obligaciones de este Capítulo y las demás disposiciones aplicables les imponen, los conductores de los vehículos estarán obligados a impedirles el acceso o hacer que desciendan, sin perjuicio de que dicha conducta sea sancionada además en términos de éste u otro ordenamiento.
+En caso de la detección de un vehículo en las condiciones señaladas en el artículo 276 fracción I del presente Capítulo, el Agente deberá informar los datos de identificación a la Dirección de Emergencias y Respuesta Inmediata, para realizar la consulta y elaborar el informe correspondiente; en caso de que el vehículo tenga un reporte de robo, el Agente deberá asegurar al conductor y al vehículo, y ponerlos a disposición de la autoridad competente. En caso contrario, el vehículo deberá trasladarse al Depósito Oficial.
 
-DE LAS ESTACIONES, TERMINALES, BASES Y SITIOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 337.
 
-Para los efectos de estaciones, terminales, bases y/o sitios, se entiende por:
+Cuando se ejecuten operativos de prevención en materia de movilidad que tengan por objeto prevenir el índice de accidentes ocasionados por conductores de vehículos bajo el influjo del alcohol o sustancias psicoactivas, para salvaguardar la vida, la integridad física y la propiedad de los conductores, pasajeros y peatones, se cumplirá por los menos con las siguientes formalidades:
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+I. Los operativos de prevención en materia de movilidad podrán practicarse en cualquier día y hora, podrán ser permanentes y ordenados por la autoridad competente;
 
-I. Estaciones, Estaciones Terminales o Terminales o Terminales de Trasferencia.- Las instalaciones auxiliares del servicio público de transporte, del Sistema de Transporte Público Masivo RUTA y de servicio mercantil, establecidas en el Municipio en los términos previstos por la legislación aplicable, previo dictamen en términos del siguiente artículo, que son destinadas a la llegada, concentración, estacionamiento y salida de vehículos utilizados para la prestación de los servicios; al ascenso, descenso y transbordo de pasajeros, así como a la recepción, almacenamiento, carga, descarga y despacho de equipaje o mercancías, dependiendo del tipo de terminal establecida;
+II. Para realizar los operativos de prevención en materia de movilidad, bastará que los Agentes se encuentren debidamente uniformados y cuenten con la identificación oficial que los acredite como tales;
 
-II. Bases.- Los predios de propiedad particular o superficies de la infraestructura vial, que se pueden determinar como áreas de servicio auxiliar para el transporte público y que se establezcan conforme a la legislación estatal, previo dictamen en términos del siguiente artículo, debiendo estar ubicadas en el único lugar que el itinerario respectivo señale como puntos de origen y destino de cada ruta, para ser destinadas por las empresas o concesionarios del servicio público de transporte a estacionar sus vehículos antes de iniciar o al terminar el recorrido de sus rutas, sin exceder el número de unidades permitido, o en su defecto, a servir de referencia de paso, de acuerdo con las condiciones de operación vehicular de la zona en que estén localizadas; y
+III. Los Agentes detendrán la marcha de algún vehículo y explicarán al conductor la naturaleza del operativo, en caso de detectar aliento etílico, indicará al conductor el lugar en el que deberá estacionar su vehículo;
 
-III. Sitios.- Los predios de propiedad particular o lugares de la vía pública, que se pueden determinar como áreas de servicio auxiliar para el transporte mercantil de personas y que se establezcan conforme a lo previsto por la legislación estatal, previó dictamen en términos del siguiente artículo, para ser destinados por las empresas o permisionarios del servicio de automóviles de alquiler o taxis, a estacionar sus vehículos durante su horario de servicio, sin exceder el número de unidades permitido, y a los que el usuario pueda acudir para su contratación.
+IV. El Agente indicará al conductor que descienda de su vehículo con llaves, licencia para conducir y tarjeta de circulación y que le acompañe al área designada para realizar una prueba con el alcoholímetro;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+V. Una vez realizada la prueba de alcoholímetro y de resultar positivo, el Agente informará al conductor que ha superado los niveles de intoxicación permitidos, por lo que se le pondrá a disposición del Juez Calificador por conducir en la Vía Pública en algún nivel de intoxicación, conforme al artículo 294 fracción VI del presente Capítulo;
+
+VI. El Agente informará al conductor que como medida de seguridad, se procederá al retiro de la circulación y aseguramiento del vehículo para ser trasladado al Depósito Oficial, levantando en presencia del mismo un inventario detallado del vehículo.
+
+Una vez terminado el inventario, el Agente deberá entregar el original al conductor para que éste lo valide y firme, a fin de que proceda a sellar las puertas del vehículo para garantizar la guarda de los objetos que se encuentren en el interior; y
+
+VII. El Agente hará saber al conductor que, para la devolución del vehículo remitido al Depósito Oficial, será indispensable acreditar la propiedad o la posesión legal del mismo, así como el pago de la sanción y derechos que procedan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 338.
 
-Para el establecimiento de terminales de competencia federal o estatal, bases y sitios en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la Secretaría de Seguridad Pública y Tránsito Municipal respecto de su ubicación y funcionamiento, sin perjuicio de la (sic) demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
+El propietario del vehículo dispondrá de un plazo de treinta días naturales contados a partir del día siguiente a la fecha en que se impuso la medida de seguridad, para cubrirla, así como los demás gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará a la autoridad fiscal competente, para su cobro y ejecución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 339.
 
-Para que el dictamen a que se refiere el artículo anterior resulte favorable, las terminales, bases y/o sitios que se pretendan establecer en el Municipio de Puebla, deberán cumplir los siguientes requisitos:
+Después de recibir las Actas de Infracción que se levanten de manera impresa o digital, el Departamento de Infracciones procederá a ejecutar las sanciones correspondientes, las cuales se determinarán, individualizarán, calificarán e impondrán, conforme a lo dispuesto por este Capítulo y demás ordenamientos que resulten aplicables, en los términos establecidos en el tabulador de infracciones y multas, sin perjuicio de las sanciones que procedan conforme a las leyes penales u otras disposiciones.
 
-I. En el caso de terminales, establecerse en lugares distintos a la vía pública, dentro de predios o locales amplios, adecuados para permitir la concentración y estacionamiento de los vehículos, con las oficinas, dependencias instalaciones que sean necesarias;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. En el caso de bases y sitios, establecerse, de manera preferente, en lugares distintos a la vía pública, dentro de predios adecuados o, en su defecto, en áreas de la infraestructura vial desarrolladas especialmente para ello;
-
-III. Que los lugares a que refieren las dos fracciones anteriores estén ubicados en zonas permitidas de acuerdo con el Programa de Desarrollo Urbano del Municipio, con uso de suelo compatible y de tal manera que el impacto en el tránsito municipal de dichos lugares no resulte negativo;
-
-IV. Que la ubicación de bases y sitios no se encuentre en calles o avenidas de gran densidad de circulación, por donde circulen dos o más líneas de servicio público de transporte ni a menos de 400 metros de otra base o sitio ya establecido; y
-
-V. Los demás que determinen las autoridades competentes, en los diferente (sic) rubros relacionados con la autorización, instalación, operación y modificación de terminales, bases y sitios.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 340.
 
-La tramitación de los dictámenes a que se refiere esta Sección, se sujetará a las siguientes disposiciones:
+Cuando se presuma que el conductor es menor de edad y éste haya cometido una infracción, el Agente procederá de conformidad a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+I. Hará la señal correspondiente para detener el vehículo;
 
-I. La solicitud se hará por escrito ante la Dirección de Tránsito Municipal, proporcionando los siguientes datos:
+II. Una vez que el vehículo no se encuentre en marcha, solicitará al presunto menor de edad descienda del vehículo;
 
-a). Nombre y dirección del solicitante;
+III. Una vez fuera del vehículo, el Agente solicitará la licencia de conducir o la licencia provisional;
 
-b). Lugar en donde se pretenda establecer la estación, terminal, base o sitio, precisando si se trata de vía pública o predio particular;
+IV. En caso de que no cuente con la licencia correspondiente, solicitará que acredite su mayoría de edad;
 
-c). Acompañar los documentos que justifiquen que se han realizado los trabajos y gestiones necesarios para destinarlo a dicho uso;
+V. El Agente informará al presunto menor de edad que como medida de seguridad, se procederá al retiro de la circulación y aseguramiento del vehículo;
 
-d). Las características de los vehículos motivo de la solicitud, indicando si han sido o no registrados para el servicio de que se trata y, en su caso, proporcionar los datos relativos;
+VI. Retendrá la licencia provisional para su envió a la autoridad correspondiente en términos del artículo 354 del presente Capítulo, y notificará por cualquier medio a los padres o a quien tenga su representación legal, que el menor ha cometido una infracción al presente Capítulo;
 
-e). La clase de servicio que se pretenda prestar y el número de vehículos que vayan a estacionarse.
+VII. El Agente deberá remitirlo al Juzgado Calificador, debiendo permanecer en el mismo hasta que se resuelva la situación legal del presunto menor de edad; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+VIII. En su caso dará aviso a la autoridad competente de los hechos u omisiones para que proceda a la suspensión o cancelación de la licencia o permiso correspondiente.
 
-II. Admitida la solicitud, la Dirección de Tránsito Municipal procederá a inspeccionar el lugar de que se trate y verificará el cumplimiento de los requisitos respectivos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Secretario de Seguridad Pública y Tránsito Municipal resolverá lo conducente; y
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-IV. En caso de ser favorable el dictamen, el Secretario de Seguridad Pública y Tránsito Municipal debe indicar en éste el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la vía pública, o si, tratándose de una base, sólo servirá de referencia de paso o control.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 341.
 
+Si los hechos u omisiones asentados en el Acta de Infracción corresponde a alguno de los supuestos que, de acuerdo con las disposiciones aplicables en materia de licencias, se deben sancionar con la suspensión, cancelación de la licencia respectiva o inhabilitación del conductor, la Dirección de Tránsito deberá hacerlo de conocimiento de la autoridad competente, remitiendo copia certificada del expediente que corresponda, para que ésta determine en consecuencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 342.
+
+Para efectos de este Capítulo y salvo disposiciones en contrario, motivan la solicitud de suspensión o cancelación de la licencia las siguientes causas:
+
+I. Para suspender temporalmente la licencia:
+
+a) Conducir un vehículo en estado de ebriedad o bajo influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares;
+
+b) Por acumular cuatro infracciones de cualquier naturaleza a las disposiciones vigentes en materia de seguridad vial o transporte, en el transcurso de un año; y
+
+c) Por resolución judicial en tal sentido.
+
+II. Para cancelar definitivamente las licencias:
+
+a) Cuando el titular ocasione un daño grave que merezca sanción corporal;
+
+b) Por sentencia judicial en tal sentido;
+
+c) Cuando el titular de la misma haya conducido vehículo en estado de ebriedad o bajo el influjo de drogas o enervantes, en dos o más ocasiones dentro de un término de sesenta días naturales;
+
+d) Por hacer uso de una licencia alterada o falsificada;
+
+e) Por dos o más suspensiones dictadas por la autoridad competente; y
+
+f) En los casos de licencia provisional cuando el conductor de dieciséis a dieciocho años o que sea mayor de edad y esté aprendiendo a conducir, maneje en el Municipio en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 343.
+
+Suspendida o cancelada una licencia, la Dirección de Tránsito tomará nota en los registros respectivos y coadyuvará con las autoridades competentes apoyando en la aplicación de las resoluciones respectivas, mediante la retención de la licencia que hubiere sido suspendida o cancelada y la remisión del titular al Ministerio Público, cuando haya desobedecido dicha resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 344.
+
+Los encargados de ejecutar obras o trabajos en la Vía Pública deberán colocar moderadores de velocidad; los responsables de centros comerciales, espectáculos, estacionamientos, gasolineras, ferias y los que impliquen una concentración masiva de personas o vehículos, además de cumplir con las autorizaciones, permisos y licencias municipales correspondientes, tendrán la obligación de colocar las señales de tránsito y Dispositivos de Control Vial que sean necesarios e implementar señalética que advierta la existencia de excavaciones, materiales acumulados, maquinaria, construcciones en desarrollo y otros obstáculos, que signifiquen un peligro para los vehículos y peatones, debiendo atender todas las indicaciones que la Dirección de Tránsito efectúe.
+
+En caso de desobediencia o negligencia de lo dispuesto en el párrafo anterior, la Dirección de Tránsito deberá informar a la autoridad competente para que aplique las sanciones correspondientes. Si se produce algún accidente de tránsito, las personas responsables del incumplimiento deberán resarcir a los conductores y peatones afectados los daños y perjuicios causados por tal motivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+
+APARTADO II
+
+BASES, SITIOS Y PARADEROS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 345.
+
+Para los efectos de estaciones, terminales, bases y/o sitios, se entiende por:
+
+I. Estaciones, Estaciones Terminales, Terminales o Terminales de Trasferencia.- Las instalaciones auxiliares del transporte público, mercantil de personas, RUTA y de transporte de carga y distribución de mercancías, establecidas en el Municipio en los términos previstos por la legislación aplicable, que son destinadas a la llegada, concentración, estacionamiento y salida de vehículos utilizados para la prestación de los servicios; el ascenso, descenso y transbordo de pasajeros, así como a la recepción, almacenamiento, carga, descarga y despacho de equipaje o mercancías, dependiendo del tipo de terminal establecida, requerirán dictamen emitido por la Dirección de Tránsito;
+
+II. Bases.- Los predios de propiedad particular o superficies de la infraestructura vial, que se pueden determinar como áreas de servicio auxiliar para el transporte público y que se establezcan conforme a la legislación estatal, debiendo estar ubicadas en el lugar que el itinerario respectivo señale como puntos de origen y destino, para ser utilizadas para estacionar sus vehículos antes de iniciar o al terminar el recorrido de sus rutas por las empresas o concesionarios del servicio público de transporte, sin exceder el número de unidades permitido, o en su defecto, servir de referencia de paso, de acuerdo con las condiciones de operación vehicular de la zona en que estén localizadas. Las bases requerirán dictamen emitido por la Dirección de Tránsito; y
+
+III. Sitios.- Los predios de propiedad particular o lugares de la Vía Pública, que se determinen como áreas de servicio auxiliar para el transporte mercantil de personas y que se establezcan conforme a lo previsto por la legislación estatal, para ser utilizadas por las empresas o permisionarios a estacionar sus vehículos durante su horario de servicio, sin exceder el número de unidades permitido, y a los que el usuario pueda acudir para su contratación. Los sitios requerirán dictamen emitido por la Dirección de Tránsito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 346.
+
+Para el establecimiento de terminales de competencia federal o estatal, bases y sitios en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la Secretaría respecto de su ubicación y funcionamiento, sin perjuicio de las demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 347.
+
+Para que los interesados obtengan dictamen favorable emitido por la Dirección de Tránsito, deberán cumplir los siguientes requisitos:
+
+I. En el caso de terminales, establecerse en lugares distintos a la Vía Pública, dentro de predios o locales amplios, adecuados para permitir la concentración y estacionamiento de los vehículos, con las oficinas e instalaciones que sean necesarias;
+
+II. En el caso de bases y sitios, establecerse de manera preferente, en lugares distintos a la Vía Pública, dentro de predios adecuados o, en su defecto, en áreas de la infraestructura vial desarrolladas especialmente para ello;
+
+III. Que los lugares a que se refieren las dos fracciones anteriores, estén ubicados en zonas permitidas de acuerdo con el Programa de Desarrollo Urbano del Municipio, con uso de suelo compatible y de tal manera que el impacto en el tránsito municipal de dichos lugares no resulte negativo;
+
+IV. Que la ubicación de bases y sitios no se encuentre en calles o avenidas de gran densidad de circulación, por donde transiten dos o más líneas de servicio público de transporte ni a menos de 500 metros de otra base o sitio ya establecido; y
+
+V. Los demás que determinen las autoridades competentes, en los diferentes rubros relacionados con la autorización, instalación, operación y modificación de terminales, bases y sitios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 348.
+
+La tramitación de los dictámenes a que se refiere esta Sección, se sujetará a las siguientes disposiciones:
+
+I. La solicitud se hará por escrito ante la Dirección de Tránsito, proporcionando los siguientes datos:
+
+a) Nombre y dirección del solicitante;
+
+b) Lugar en donde se pretenda establecer la estación, terminal, base o sitio, precisando si se trata de Vía Pública o predio particular;
+
+c) Acompañar los documentos que justifiquen que se han realizado los trabajos y gestiones necesarios para destinarlo a dicho uso;
+
+d) Las características de los vehículos motivo de la solicitud, indicando si han sido o no registrados para el servicio de que se trata y, en su caso, proporcionar los datos relativos;
+
+e) La clase de servicio que se pretenda prestar y el número de vehículos que vayan a estacionarse.
+
+II. Admitida la solicitud, la Dirección de Tránsito procederá a inspeccionar el lugar de que se trate y verificará el cumplimiento de los requisitos respectivos;
+
+III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Secretario de Seguridad Pública y Tránsito Municipal resolverá lo conducente; y
+
+IV. En caso de ser favorable el dictamen, el Secretario de Seguridad Pública y Tránsito Municipal debe indicar el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la Vía Pública; tratándose de una base, si sólo servirá de referencia de paso o control.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 349.
+
 Las empresas, concesionarios, permisionarios y demás personas interesadas en la instalación y funcionamiento de los servicios auxiliares a que se refiere esta Sección, están obligados a:
 
-I. Impedir que se hagan reparaciones o adecuaciones a los vehículos, si las bases o sitios se encuentran en la vía pública;
+I. Impedir que se hagan reparaciones o adecuaciones a los vehículos, si las bases o sitios se encuentran en la Vía Pública;
 
-II. Vigilar que los vehículos se estacionen precisamente dentro de las zonas señaladas y sin infringir el presente Capítulo;
+II. Vigilar que los vehículos se estacionen dentro de las zonas señaladas y sin infringir el presente Capítulo;
 
-III. Evitar que los vehículos se estacionen de manera que bloqueen o dificulten la visibilidad de las señales de tránsito y los semáforos;
+III. Evitar que los vehículos se estacionen de manera que bloqueen o dificulten la visibilidad de la señalética y Dispositivos de Control Vial;
 
 IV. Cuidar que las aceras o camellones correspondientes a los lugares autorizados se conserven en buen estado de limpieza y que el personal al servicio de las unidades guarde en ellos la debida compostura y atienda al público con cortesía;
 
@@ -5243,341 +5795,143 @@ V. Prevenir y evitar que en dichos lugares se propicien o realicen actos graves,
 
 VI. Las demás que se contengan en los ordenamientos vigentes o establezcan las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 342.
-
-En caso de que la Dirección de Tránsito Municipal considere conveniente para el tránsito municipal, suprimir o cambiar de ubicación las estaciones, terminales, bases o sitios que constituyan un problema para la circulación, podrá concertar con los interesados las medidas conducentes, sin perjuicio de que el Ayuntamiento, en cualquier tiempo, pueda solicitar al Gobierno del Estado que autorice su supresión su cambio de ubicación, incluso que cancele el permiso o revoque la concesión otorgada, cuando se incumpla lo dispuesto en este Capítulo o de alguna otra forma se afecte el interés público.
-
-Si la instancia competente autoriza la supresión o cambio de ubicación de alguna base o sitio, el interesado podrá solicitar que se le autorice otro lugar para el establecimiento de la nueva base o sitio de acuerdo con esta Sección, o bien, su incorporación a otros ya establecidos.
-
-DE LA CARGA, DESCARGA Y TRANSPORTE DE BIENES
-
-###### Artículo 343.
-
-Las maniobras para carga y descarga de bultos, materiales y mercancía en general, se sujetaran a las siguientes disposiciones:
-
-I. Tanto en las arterias de tránsito libre, como en las consideradas de circulación restringidas que correspondan a zonas comerciales, oficinas y edificios públicos, se permitirá la circulación de vehículos destinado al servicio de carga y las maniobras de cargas y descarga, sólo dentro de las horas que señale el Ayuntamiento;
-
-II. Durante las maniobras de carga y descarga, no deberá impedirse la circulación de peatones ni de vehículos, salvo en caso de riesgo, debiendo usarse el equipo adecuado para que tales maniobras se lleven a cabo en condiciones satisfactorias;
-
-III. Las operaciones de carga y descarga se deben hacer empleando el tiempo mínimo compatible con la clase de vehículos que se manejen, su capacidad y los bienes de que se trate; y
-
-IV. Los vehículos dedicados al servicio de inhumaciones podrán efectuar a cualquier hora del día y de la noche, maniobras de carga, descarga y trasporte de cajas mortuorias.
-
-###### Artículo 344.
-
-La transportación de bienes por las vías municipales, se rige por las siguientes disposiciones:
-
-I. Los vehículos particulares podrán utilizarse para transportar cualquier tipo de carga o bienes, siempre y cuando:
-
-a). Los objetos transportados sean propiedad del dueño, el conductor o los pasajeros del vehículo;
-
-b). No se trate de insumos para la industria o productos que tengan como destino el comercio;
-
-c). No se requieran condiciones especiales para su traslado, conforme a las normas sanitarias o ambientales;
-
-d). Se observe lo dispuesto tanto en el inciso k de la fracción II del artículo 271 como en la fracción I del artículo 329 del presente Capítulo.
-
-II. En los demás casos, la trasportación de bienes u objetos se debe hacer en vehículos autorizados para la prestación del servicio del transporte mercantil, que observen las disposiciones fijadas por el artículo 329 del presente Capítulo, reúnan las condiciones mínimas exigidas para el manejo adecuado de la carga y, en su caso, cumplan las normas sanitarias o ambientales aplicables; y
-
-III. Sólo los fabricantes de bebidas alcohólicas y los distribuidos (sic) autorizados podrán realizar el transporte mercantil de este tipo de bienes, siempre que cuenten con los permisos respectivos, reúnan las características exigidas por las normas aplicables y cumplan los demás requisitos establecidos.
-
-DE LA OBSERVANCIA DE LAS DISPOSICIONES EN MATERIA DE TRÁNSITO Y
-
-SEGURIDAD VIAL
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-###### Artículo 345.
-
-El Ayuntamiento, a través de la Secretaría de Seguridad Pública y Tránsito Municipal, ejercerá las funciones de prevención, vigilancia, dirección, inspección y control que el presente Capítulo establece en materia de seguridad vial, tránsito municipal y estacionamiento en la vía pública, así como las demás que se desprendan de los convenios o acuerdos de coordinación que suscriban con el Estado y otros Municipios, en ésta u otras materias relacionadas.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 346.
-
-La Secretaría de Seguridad Pública y Tránsito Municipal, aplicará las medidas preventivas y de seguridad que se requieran y sancionará las transgresiones a lo establecido por el presente Capítulo y las demás disposiciones relativas, por conducto de la Dirección de Tránsito Municipal y los agentes adscritos a la misma, en los términos que este mismo ordenamiento establece y sin perjuicio de las atribuciones que correspondan a otras autoridades, conforme a las normas vigentes en materia fiscal, sanitaria, de transporte mercantil o cualquier otra relacionada con el tránsito vehicular.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 347.
-
-La Secretaría de Seguridad Pública y Tránsito Municipal, por acuerdo del Presidente Municipal, podrá coordinarse de manera operativa con las autoridades federales, estatales y de otros Municipios, competentes, en la materia o en otros ámbitos relacionados con la misma, para el mejor cumplimiento de sus respectivas atribuciones, debiendo sujetarse en tales casos a los convenios, acuerdos e instrucciones correspondientes.
-
-DE LOS PROCEDIMIENTOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 348.
-
-Los agentes de la Dirección de Tránsito Municipal serán competentes para instrumentar el procedimiento relativo a los actos de control y supervisión del Ayuntamiento en materia de tránsito y seguridad vial, para lo cual deben conducirse con respeto en su trato hacia los particulares, observar los principios éticos del servicio público, abstenerse de incurrir en responsabilidades u otras faltas y cumplir con las siguientes formalidades.
-
-I. Estos actos podrán practicarse en cualquier día y hora, pudiendo consistir en operativo de vigilancia y seguridad vial permanentes u ordenados por la autoridad competente y en acción de verificación de los vehículos, el estado de los conductores, sus documentos y demás obligaciones relacionados con los mismos;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-II. Para realizar estas diligencias, bastará que los agentes de la Dirección de Tránsito Municipal que estén de turno se encuentren debidamente uniformados y cuenten con la identificación oficial que los acredite como tales, requiriéndose orden escrita sólo en los casos que se pretenda inspeccionar un inmueble distinto de la vía pública, siendo aplicables a tal supuesto las disposiciones municipales en materia de visitas de inspección;
-
-III. Los agentes, a detener algún vehículo e iniciar acciones de verificación se identificarán debidamente con el conductor o la persona con quien se entienda la diligencia o, en su defecto, asentarán en el acta de infracción que no se halló ninguna persona en ese momento que tuviera relación con el vehículo o área objeto de la supervisión;
-
-IV. La persona con quien, en su caso, se entienda la diligencia estará obligada a permitir que los agentes realicen las acciones que procedan, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de las normas en materia de tránsito y seguridad vial, con las reservas de ley;
-
-V. Los agentes de seguridad vial podrán solicitar el auxilio de la fuerza pública para cumplir con sus funciones, si alguna o algunas personas obstaculizan o se oponen a la práctica de la diligencia, independientemente de las sanciones a que haya lugar;
-
-VI. El agente que haya detenido el vehículo o realizado la verificación, dará fe de los hechos u omisiones que, en su caso, constituyan una infracción a las disposiciones de este Capítulo, haciéndoselos saber al conductor o persona con quien se entienda la diligencia, en su caso; determinará si, con base en ellos, procede alguna otra medida en términos de esta Sección y, como consecuencia, levantará un acta de infracción, llenando formas impresas numeradas, en las que se harán constar las transgresiones que se hubiesen presentado, debiendo contener los siguientes datos:
-
-a). Las referencias del vehículo, del área inspeccionada y del conductor o persona con quien se hubiere entendido la diligencia, en su caso;
-
-b). Número de especificación de la placa del vehículo objeto de la diligencia (sic) de manejar del conductor, en su caso;
-
-c). Clase, marca y uso a que esté destinado el vehículo;
-
-d). Hora, día, mes y año en que se concluya la diligencia;
-
-e). Calle, número, colonia, población, junta auxiliar o sector en que se encuentre ubicado el lugar en que se practique la diligencia, precisando incluso entre qué calles se ubica el mismo;
-
-f). Especificación del o los artículos del presente Código Reglamentario que hayan sido violados y de la o las medidas que, en su caso, haya determinado imponer conforme a este Capítulo;
-
-g). Nombre, número y firma del agente de seguridad vial que levante el acta de infracción;
-
-h). El tabulador de infracciones y multas;
-
-i). Los demás datos relativos a la actuación.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-En caso de la detección de un vehículo en las condiciones citadas en la fracción I del artículo 323, el Agente de Tránsito Municipal deberá informar de las características de los vehículos como marca, modelo, tipo, línea, así como el Número de Identificación Vehicular (NIV), y en su caso número de motor y número de legalización al número telefónico del Centro de Emergencia y Respuesta Inmediata, así como al personal que cuenta con la clave de acceso al Sistema Nacional de Seguridad Pública, para realizar la consulta a la Base de Datos y elaborar el informe correspondiente; en caso de que el vehículo tenga un reporte de robo, el Agente deberá asegurar al conductor y el vehículo, y ponerlos a disposición de la autoridad competente. En caso de no tener reporte en la Base de Datos, el vehículo deberá trasladarse al Depósito Vehicular que corresponda a la ubicación donde fuere detenido observando lo dispuesto por el artículo 350 Quinquies del presente Código.
-
-VII. Al levantar el acta de infracción, el agente de seguridad vial debe dar oportunidad a la persona con la que se entendió la diligencia, para que en el mismo acto, si lo desea, declare lo que estime conveniente;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-VIII. Cumplido lo anterior, se procederá a la firma del acta por quienes en ella hayan intervenido, se entregará el original de la misma al interesado y otro tanto se remitirá a la Dirección de Tránsito Municipal;
-
-IX. Si el conductor o la persona con quien se entendió la diligencia se negaré a firmar, o a aceptar el original del acta levantada, ello no afectará el valor jurídico de la misma ni su eficacia, siempre y cuando el agente de seguridad vial haga constar dichas circunstancias y asiente las razones relativas; y
-
-X. En caso de que el infractor no esté presente en el momento en que se levante el acta de infracción o se niegue a recibirla, el original de ésta se dejara en lugar visible del vehículo;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XI. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efecto similar, se deberá practicar el dictamen médico y toxicológico, para determinar la sanción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 349.
-
-Con el fin de evitar mayores afectaciones al tránsito, la seguridad vial, la salud, el ambiente o el orden público en el Municipio, así como de garantizar el pago de las multas impuestas por concepto de infracciones, la Dirección de Tránsito Municipal, a través de sus agentes y de acuerdo a las condiciones imperantes, deberá aplicar, las medidas preventivas y de seguridad que establece el presente Capítulo, en el ámbito de su competencia.
-
-La aplicación de dichas medidas se hará siempre de manera alternativa atendiendo a la brevedad y demás circunstancias del acto; pero tratándose de la retención de documentos, sólo podrá retenerse uno de éstos. Para el retiro de vehículos de la circulación, se hará uso de grúa si fuere necesario.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 350.
 
-La oposición de cualquier persona a la verificación de los vehículos, el estado de los conductores, sus documentos y demás obligaciones relacionadas con los mismos; a la aplicación de las medidas a que se refiere el artículo anterior; al levantamiento de las actas de infracción, o a la realización de cualquier otro acto de control y supervisión en materia de tránsito y seguridad vial, se considerará una falta a las disposiciones del Capítulo de Policía y Gobierno de este Código Reglamentario y por lo tanto procederá su detención por los mismos agentes de seguridad vial, y su remisión al Juez Calificador respectivo, sin perjuicio de que éste lo pueda poner a disposición del Ministerio Público.
+En caso de que la Dirección de Tránsito considere conveniente para la movilidad del Municipio, suprimir o cambiar de ubicación las estaciones, terminales, bases o sitios que constituyan un problema para la circulación, podrá concertar con los interesados las medidas conducentes, sin perjuicio de que el Ayuntamiento, en cualquier tiempo, pueda solicitar al Gobierno del Estado que autorice su supresión, su cambio de ubicación, incluso que cancele el permiso o revoque la concesión otorgada, cuando se incumpla lo dispuesto en este Capítulo o de alguna otra forma se afecte el interés público.
 
-La fuga del infractor se considerará desobediencia a un mandato legítimo de autoridad, pero también constituirá una infracción administrativa y será motivo de sanción.
+Si la instancia competente autoriza la supresión o cambio de ubicación de alguna base o sitio, el interesado podrá solicitar que se le autorice otro lugar para el establecimiento de la nueva base o sitio de acuerdo con esta Sección, o bien, su incorporación a otros ya establecidos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Los agentes también podrán detener para su remisión a las Autoridades competentes, a los conductores que se encuentren en estado de ebriedad, o bajo el efecto de alguna droga, o que denoten peligrosidad, o la intención de evadirse.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 350 Bis.
 
-Ninguna persona podrá conducir vehículos por la vía pública, superior al grado de intoxicación alcohólica o psicotrópica que establece la Norma Oficial Mexicana que señala los diferentes periodos de intoxicación etílica. Los operadores de vehículos destinados al servicio de transporte de pasajeros, de carga, sustancias peligrosas o tóxicas, no deben presentar ninguna cantidad de alcoholo bajo los efectos de narcóticos.
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 350 Ter.
 
-Los agentes pueden detener la marcha de un vehículo cuando los conductores u operadores de vehículos presenten señas aparentes de circular bajo el influjo de cualquiera de estas sustancias.
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 350 Quáter.
 
-Cuando se ejecuten operativos de prevención que tengan por objeto evitar que haya conductores que manejen sus vehículos en estado de ebriedad o bajo los influjos de narcóticos o substancias psicotrópicas, se procederá de la siguiente manera:
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
-
-I. Los agentes de Tránsito indicarán la detención del vehículo;
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
-
-II. Solicitarán al conductor que proceda a realizar las pruebas a que haya lugar;
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
-
-III. Una vez realizada la prueba y habiendo resultado positiva, se procederá a remitir al conductor al Juzgado Calificador a efecto de que se desahogue el procedimiento administrativo; y se determine la sanción correspondiente contemplada en el Capítulo 9 del presente Código.
-
-IV. (DEROGADA, P.O. 23 DE ENERO DE 2013)
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
-
-V. El agente de Tránsito entregará un ejemplar del comprobante de los resultados de la prueba para la detección del grado de intoxicación al Juez Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 350 Quinquies.
 
-En los casos que proceda la remisión del vehículo al depósito oficial y previamente a que se inicie el procedimiento de arrastre, los Agentes deberán realizar un inventario detallado del vehículo y sus pertenencias, posteriormente deberá ser sellado y entregarse al conductor el original del inventario, lo anterior para garantizar la guarda y custodia de los objetos que en él se encuentren; si el conductor fuese menor de 16 años, el Agente levantará la infracción que corresponda y remitirá el vehículo al depósito.
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los agentes que hubieren llevado a cabo la remisión al depósito, informarán de inmediato al centro de control correspondiente los datos del depósito, como lo son número de placas, marca y tipo del vehículo y depósito oficial de vehículos.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Para la devolución de los vehículos remitidos al encierro, será indispensable la comprobación de la propiedad o la posesión legal del mismo, pago de las multas y derechos que procedan.
-
-###### Artículo 351.
-
-El propietario del vehículo objeto de la infracción y de la medida preventiva o de seguridad, en su caso, dispondrá de un plazo de veinte días naturales contados a partir del día siguiente a la fecha en que se impuso la medida preventiva o de seguridad o se fijo la multa, para cubrirla, así como los demás gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará a la autoridad fiscal competente, para su cobro y ejecución.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 352.
-
-Después de recibir las actas de infracción que se levanten, el Departamento de Infracciones dependiente de la Dirección de Ingresos de la Tesorería Municipal procederá a aplicar las sanciones correspondientes, las cuales se determinarán, individualizarán, calificarán, impondrán y en su caso ejecutarán, conforme a lo dispuesto por este Capítulo y demás ordenamientos que resulten aplicables, en los términos establecidos en el tabulador de infracciones y multas, sin perjuicio de las sanciones que procedan conforme a las leyes penales u otras disposiciones.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 353.
-
-Si los hechos u omisiones asentados en el acta de infracción corresponde a alguno de los supuestos que, de acuerdo con las disposiciones aplicables en materia de licencias, se deben sancionar con la suspensión o cancelación de la licencia respectiva, la Dirección de Tránsito deberá hacerlo del conocimiento de la autoridad competente, enviando dentro del término que señala el artículo siguiente, copia certificada del expediente formado, para que ésta pueda iniciar el procedimiento que corresponda, participando la Dirección de Tránsito en los términos conducentes.
-
-###### Artículo 354.
-
-Para efectos de este Capítulo y salvo disposiciones en contrario, motivan la suspensión o cancelación de las licencias las siguientes causas:
-
-I. Para suspender temporalmente las licencias:
-
-a). Conducir un vehículo en estado de ebriedad o bajo influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares;
-
-b). Acumular indistintamente, en el plazo de un año, más de seis sanciones por exceso de velocidad, no respetar las señales de alto, invadir la circulación contraria o falta de precaución provocando un accidente;
-
-c). Por acumular seis infracciones de cualquier naturaleza a las disposiciones vigente en materia de seguridad vial o transporte, en el transcurso de un año;
-
-d). Por resolución judicial en tal sentido;
-
-II. Para cancelar definitivamente las licencias;
-
-a). Cuando el titular ocasione un daño grave que merezca sanción corporal;
-
-b). Cuando se compruebe mediante dictamen pericial, que su titular ha quedado imposibilitado física o psíquicamente para conducir vehículos;
-
-c). Por sentencia judicial en tal sentido;
-
-d). Cuando el titular de la misma haya conducido vehículo en estado de ebriedad o bajo el influjo de drogas o enervantes, en dos o más ocasiones dentro de un término de sesenta días naturales;
-
-e). Por hacer uso de una licencia alterado o falsificada;
-
-f). Por dos o más suspensiones dictadas por la autoridad competente;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-g) Para la licencia provisional cuando el conductor de dieciséis a dieciocho años o que sean mayor de esta última edad y esté aprendiendo a conducir, maneje en el Municipio, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 355.
-
-Una vez que la Dirección de Tránsito Municipal tenga conocimiento de que ha ocurrido cualquiera de los casos que motiven la suspensión o cancelación de licencias procederá, dentro de las setenta y dos horas siguientes, a dictar un acuerdo por el que ordene remitir el expediente interno de la Dirección a la autoridad competente, para que ésta tramite y determine si así procede la suspensión o cancelación de la licencia e imponga las demás medidas de seguridad que resulten conducentes.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-###### Artículo 356.
-
-Suspendida o cancelada una licencia, la Dirección de Tránsito Municipal tomará nota en los registros respectivos y coadyuvará con las autoridades competentes en materia de licencia apoyando en la aplicación de las resoluciones respectivas, mediante la retención de las licencias que hubieren sido suspendidas o canceladas y la remisión del titular al Ministerio Público, cuando hubiere desobedecido dicha resolución.
+APARTADO III
 
 DE LAS FALTAS, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 357.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-La Dirección de Tránsito Municipal, aplicará a los propietarios o conductores de vehículos, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo.
+###### Artículo 351.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+La Dirección de Tránsito aplicará a los propietarios o conductores de vehículos, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo.
 
-###### Artículo 358.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Son medidas de seguridad las disposiciones que dicte la Dirección de Tránsito a través de los agentes autorizados, con el fin de proteger el orden, la seguridad, los servicios públicos o el patrimonio municipal, y de garantizar el pago de las multas que se impongan con motivo de la comisión de alguna falta, considerándose como tales medidas, para efectos de este Capítulo, las siguientes:
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+###### Artículo 352.
 
-I. Retención de licencia de conducir, tarjetas de circulación, placas de vehículos, o permisos de circulación;
+Las medidas de seguridad previstas en el presente Capítulo serán ejecutadas por la Dirección de Tránsito, a través de los Agentes, de conformidad con lo siguiente:
 
-II. La inmovilización de vehículos, en los supuestos a que se refiere el artículo 329 del presente Capítulo;
+I. La retención de licencia de conducir, tarjetas de circulación, placas de vehículos, o permisos de circulación, se ejecutará para garantizar el pago de las multas;
 
-III. El retiro de la circulación y aseguramiento de vehículos, el cual será procedente sólo en los supuestos de los artículos 270, 300, 304 fracción VI y 324 de este Capítulo, o si una de las multas a imponer, de acuerdo con el tabulador de infracciones viales, pude ser superior al importe de diez días de salario mínimo; y
+II. El retiro de la circulación y aseguramiento de vehículos, procederá en los siguientes casos:
 
-IV. La inhabilitación del infractor para conducir en el Municipio de Puebla, por un término determinado, no menor de quince días ni mayor de un año;
+a) No estar provisto de placas, engomado, tarjeta de circulación o permiso de circulación vigente;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+b) Estacionarse en forma o lugares prohibidos;
 
-V. Cuando se presuma que un conductor es menor de edad, el agente procederá a realizar lo siguiente:
+c) Conducir sin licencia vigente o estar inhabilitado para conducir;
 
-a) Hará la señal correspondiente para detener el vehículo;
+d) Conducir vehículos en algún nivel de intoxicación etílica, bajo el influjo de sustancias psicoactivas, enervantes, psicotrópicas o cualquier otra sustancia que produzca efectos similares; y
 
-b) El presunto menor de edad procederá a bajar del vehículo;
+e) Que los vidrios laterales o parabrisas estén polarizados o entintados que impida la visibilidad hacia el interior del vehículo, salvo los que se encuentren fabricados con esas características.
 
-c) Una vez fuera del vehículo el agente solicitará la licencia de conducir o la licencia provisional;
+III. Inmovilización al transporte de carga y distribución de mercancías se realizará en los siguientes casos:
 
-d) En caso de que no cuente con la licencia correspondiente, solicitará que acredite su mayoría de edad;
+a) Los transportistas de materiales para la construcción que no empleen lonas, cubiertas, carrocerías o cajas apropiadas para el servicio al que están destinados;
 
-e) El agente impedirá la circulación del vehículo retirándolo de la circulación y asegurándolo;
+b) Los transportistas de líquidos, gases o suspensiones que no estén dotados de un tanque unitario o de una olla revolvedora;
 
-f) Retendrá la licencia provisional para su envió a la Autoridad correspondiente en términos del artículo 355 del presente Código Reglamentario, y notificará en caso de ser menor de edad por cualquier medio a los padres o a quien tenga su representación legal que el menor ha cometido una infracción al presente Capítulo;
+c) Los transportistas de carnes y vísceras que no cuenten con una caja de carga acondicionada que garantice el traslado higiénico;
 
-g) Cuando se trate de menores de edad invariablemente deberá remitirlo al Juzgado Calificador para su resguardo, debiendo permanecer en las oficinas hasta que se resuelva su situación legal; y
+d) Los transportistas que requieran permiso de la Dirección de Tránsito y que no cuenten con éste al trasladar alimentos, animales o desechos y deban cumplir con las disposiciones sanitarias correspondientes;
 
-h) Dará aviso a la Autoridad competente de los hechos u omisiones para que proceda a la suspensión o cancelación de la licencia o permiso correspondiente.
+e) Los transportistas de maquinarias u objetos que excedan de las dimensiones permitidas en el presente Capítulo y que no cuenten con la previa autorización de la Dirección de Tránsito;
 
-Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario y para la inmovilización de los mismos los medios mecánicos que se consideren pertinentes, cuidando en ambos casos no dañar los vehículos.
+f) Si los transportistas no obedecen las precauciones previstas por la Dirección de Tránsito al transportar ganado; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+g) Si los transportistas no obedecen las precauciones previstas por la Dirección de Tránsito cuando por el peso de lo transportado se produzca trepidación o viajen más de tres personas en la cabina del conductor.
 
-###### Artículo 359.
+IV. La inhabilitación o suspensión del infractor para conducir en el Municipio, en los términos que determine la autoridad judicial.
 
-Las faltas y violaciones a las disposiciones de este Capítulo que comentan los sujetos del mismo serán sancionadas administrativamente por el Ayuntamiento, a través de la Dirección de Tránsito Municipal; y serán ejecutadas por el Departamento de Infracciones de la Dirección de Ingresos de la Tesorería Municipal, según sea el caso, por una o más de las siguientes sanciones:
+Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario, debiendo ser trasladados al Depósito Oficial de Vehículos y para la inmovilización de los mismos, los medios mecánicos que se consideren pertinentes, cuidando en ambos casos no dañar los vehículos.
 
-I. Amonestación verbal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-II. Multa por el importe de 2 a 100 días de salario mínimo general vigente en el Municipio de Puebla, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones vigente.
+###### Artículo 353.
 
-Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código de Defensa Social del Estado de Puebla, el Capítulo de Policía y Gobierno de este Código Reglamentario o algún otro ordenamiento que resulte aplicable.
+Las faltas y violaciones a las disposiciones de este Capítulo que cometan los sujetos del mismo serán sancionadas administrativamente por el Ayuntamiento, y serán ejecutadas por el Departamento de Infracciones, según sea el caso y corresponderá a la imposición de una multa por el importe de 2 a 100 días de salario mínimo general vigente en el Municipio, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
+La Dirección de Tránsito podrá realizar amonestación verbal en los casos que así proceda.
 
-###### Artículo 360.
+Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código Penal del Estado de Puebla, Código Reglamentario para el Municipio de Puebla, o algún otro ordenamiento que resulte aplicable.
 
-Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la base de datos de la Dirección de Tránsito, sólo se le sancionará de manera preventiva, imponiendo una amonestación verbal, salvo en caso de trasgresión a los artículos 261, 262, 268, 291 fracción I, 297 fracción X, 301, 303, 304 fracciones I y VI, 309, 321, 338 y 373 de este mismo ordenamiento. En estos últimos supuestos o a partir de la segunda infracción en los demás casos, las violaciones se sancionarán con la amonestación o la imposición de la multa señalada para cada falta de manera específica, y con equivalencia a las ordenadas estatalmente, en el siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-TABULADORES DE INFRACCIONES Y SANCIONES
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-(VÉASE ARCHIVO ANEXO)
+###### Artículo 354.
 
-###### Artículo 361.
+Cuando una persona infrinja alguno de los supuestos establecidos en el presente Capítulo, las violaciones se sancionarán con amonestación o la imposición de la multa, conforme al siguiente:
+
+TABULADOR DE INFRACCIONES Y SANCIONES
+
+De las infracciones en general y otras obligaciones.
+
+> <small>N. DE E. VÉASE TABLA EN LA CUARTA SECCIÓN DEL P.O. DE 2 DE MARZO DE 2015, PÁGINAS DE LA 46 A LA 55.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 355.
 
 Una vez calificadas e impuestas las sanciones dentro de los términos respectivos, las autoridades municipales ejecutoras deberán proceder conforme a las disposiciones aplicables para su ejecución y las personas a quienes en su carácter de infractores y responsables solidarios se les impongan sanciones en los términos del presente Capítulo, tendrán la obligación de cumplir con las mismas.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+El Ayuntamiento, por conducto de la Dirección de Ingresos y las demás instancias competentes, señalarán un plazo de 30 días naturales contados a partir del día siguiente a la fecha en que se levantó el Acta de Infracción o en su caso a partir del día siguiente de su notificación, a efecto de que se cumpla con el pago respectivo, apercibiendo al infractor que en caso de no efectuarlo se volverán fiscalmente exigibles y se procederá a su ejecución forzosa en términos de la legislación aplicable.
 
-El Ayuntamiento, por conducto de la Dirección de Ingresos de la Tesorería Municipal y las demás instancias competentes, señalará los plazos establecidos por este Capítulo, a las personas sancionadas a efecto de que cumplan con el pago respectivo, apercibiéndolos de que en caso de que no efectúen el pago de las multas impuestas, éstas se volverán fiscalmente exigibles y se procederá a su ejecución forzosa en términos de la legislación aplicable.
+De igual forma autorizará el uso de terminales electrónicas de pago a los Agentes que la Dirección de Tránsito designe, con la finalidad de que éstos, al momento de levantar una infracción, puedan recibir el pago correspondiente a las multas impuestas, debiendo entregar a la Dirección de Ingresos los recibos de pago que se hayan generado en su jornada de trabajo, a fin de que se dé por finiquitada la sanción impuesta al conductor.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 361 Bis.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-Cuando por el uso de CINEMÓMETROS se determine una infracción a las disposiciones del presente Capítulo y no se pueda identificar al conductor del vehículo infractor y sea distinto al propietario del mismo, este último será responsable solidario del conductor infractor, por motivo del tránsito de vehículos en atención a la responsabilidad objetiva en que incurre.
+###### Artículo 356.
 
-###### Artículo 362.
-
-Para la imposición de las medidas de seguridad y sanciones de este Capítulo, las instancias municipales facultadas para ello deben considerar, además del modo, tiempo y lugar en que se cometieron las infracciones, las siguientes condiciones y circunstancias:
+Para la imposición de las sanciones de este Capítulo, las autoridades competentes deberán considerar, además del modo, tiempo y lugar en que se cometieron las infracciones, las siguientes condiciones y circunstancias:
 
 I. Su gravedad, considerando el impacto en la seguridad, el orden, la salud o los servicios públicos;
 
@@ -5585,145 +5939,221 @@ II. Si se puso en peligro a las personas o sus bienes o hubo oposición del infr
 
 III. El carácter intencional o negligente de la acción u omisión respectiva;
 
-IV. El grado de participación e intervención en la realización de la infracción;
+IV. El grado de participación e intervención en la realización de la infracción; y
 
-V. La edad y las condiciones físicas, económicas, sociales y culturales del infractor;
+V. La reincidencia o habitualidad si las hubiera.
 
-VI. La reincidencia o habitualidad si las hubiera; y
+En caso de que la infracción sea cometida por el conductor de un vehículo destinado al servicio de transporte público o mercantil de personas y que al momento de producirse ésta, hubiere uno o más pasajeros en el vehículo, se aplicará siempre el importe máximo de la multa, fijado en el Tabulador de este Capítulo para la infracción respectiva.
 
-VII. Las demás atenuantes o agravantes que pudieran incidir.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En caso de que la infracción sea cometida por el conductor de un vehículo destinado al servicio de transporte público o mercantil de personas y que al momento de producirse ésta, hubiere uno o más pasajeros en el vehículo, se aplicará siempre el importe máximo de la multa, fijado en el tabulador de este Capítulo para la infracción respectiva.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+###### Artículo 357.
 
-###### Artículo 363.
+El infractor que pague la multa a través de una terminal electrónica ante el Agente previamente facultado para ello, o bien lo haga de manera espontánea dentro de los cinco días naturales siguientes a la fecha de la infracción, se beneficiará con la reducción automática del monto debido en un cincuenta por ciento, en tanto que si el pago lo hace después de los cinco días naturales, sin exceder de diez, la reducción será del veinticinco por ciento. Entre el onceavo y el trigésimo día no se concederá descuento alguno y después de vencido el término, se estará a lo fijado en las disposiciones fiscales correspondientes.
 
-Las multas impuestas como sanción deberán pagarse dentro del término de veinte días naturales, contados a partir del día siguiente a la fecha en que se levantó el acta de infracción.
+Los descuentos contemplados en el presente artículo no serán aplicables para el servicio de transporte público y mercantil de personas.
 
-El infractor que de manera espontánea pague la multa dentro de los cinco días siguientes a la fecha de la infracción, se beneficiará con la reducción automática del monto debido en un cincuenta por ciento, en tanto que si el pago lo hace después de los cinco días, sin exceder de diez, la reducción será del veinticinco por ciento. Entre el onceavo y el vigésimo día no se concederá descuento alguno y después de vencido el término, se estará a lo fijado en las disposiciones fiscales correspondientes, no será aplicable dicho descuento al infractor por transgresiones a lo señalado en los artículos 301 y 304 fracción VI del presente Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-###### Artículo 364.
+###### Artículo 358.
 
-En caso de reincidencia o habitualidad, el importe de las multas que correspondan a cada una de las faltas o infracciones cometidas se aumentarán un tanto más, excepto aquélla que se derive de la detención de un vehículo en términos del artículo 323 fracción I, aplicándose la sanción correspondiente más alta contemplada en el tabulador de infracciones, sin perjuicio de las medidas de seguridad y demás sanciones que correspondan conforme a otros ordenamientos.
+En caso de reincidencia o habitualidad, el importe de las multas que correspondan a cada una de las faltas o infracciones cometidas se aumentarán un tanto más, excepto aquélla que se derive de la detención de un vehículo en términos del artículo 276 fracción I de este Capítulo, aplicándose la sanción correspondiente más alta contemplada en el Tabulador de Infracciones, sin perjuicio de las medidas de seguridad y demás sanciones que correspondan conforme a otros ordenamientos.
 
-###### Artículo 365.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Para los efectos de lo establecido en el presente Capítulo se considerará reincidente, al infractor que incurra más de dos veces en conductas que impliquen la comisión repetida de una misma falta, en un periodo de un año, contando a partir de que se haya realizado la primera falta o infracción, siempre que éstas no hubieren sido desvirtuadas; en tanto que por habitualidad se entiende que el infractor cometa distintas violaciones a las disposiciones de este Capítulo, cinco o más veces, dentro del periodo de un año, contado a partir de la fecha en que se le imponga la sanción correspondiente a la primera falta o infracción.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+###### Artículo 359.
 
-###### Artículo 366.
+Para los efectos de lo establecido en el presente Capítulo se considerará reincidente, al infractor que incurra más de una vez en conductas que impliquen la comisión repetida de una misma falta, en un periodo de un año, contando a partir de que se haya realizado la primera falta o infracción, siempre que éstas no hubieren sido desvirtuadas; en tanto que por habitualidad se entiende que el infractor cometa distintas violaciones a las disposiciones de este Capítulo, cinco o más veces, dentro del periodo de un año, contado a partir de la fecha en que se le imponga la sanción correspondiente a la primera falta o infracción.
 
-El tabulador de infracciones se elaborará, modificará o adicionará, por el Ayuntamiento, en Sesión de Cabildo, tomando en cuenta la propuesta que envíe la Secretaría de Seguridad Pública y Tránsito Municipal, así como la Dirección de Ingresos de la Tesorería Municipal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 367.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 360.
+
+El Tabulador de Infracciones se elaborará, modificará o adicionará, por el Ayuntamiento, en Sesión de Cabildo, tomando en cuenta la propuesta que envíe la Secretaría, así como la Dirección de Ingresos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 361.
 
 Cuando el infractor cometa varias transgresiones al presente Capítulo en un mismo acto, se le acumularán las sanciones correspondientes a cada una de ellas.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 368.
+###### Artículo 361 Bis.
 
-Una vez determinada la falta o infracción que se hubiere cometido, el Ayuntamiento, por conducto del Departamento de Infracciones dependiente de la Dirección de Ingresos de la Tesorería Municipal, procederá a individualizar, calificar e imponer la sanción o sanciones específicas correspondientes.
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 369.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-Para la aplicación del presente Capítulo, se estará en todo caso a lo establecido en las leyes y reglamentos federales, estatales y las disposiciones que al efecto determine el Ayuntamiento por conducto de la Dirección de Tránsito Municipal.
-
-###### Artículo 370.
-
-En caso de que el infractor no esté presente en el momento en que se levante el acta de infracción, una copia de ésta se dejará en el parabrisas del vehículo. En tal caso no serán aplicables las fracciones I y II del artículo siguiente. La fuga del infractor también será motivo de sanción.
-
-###### Artículo 371.
-
-Las infracciones se harán constar en actas de infracción, llenando formas impresas numeradas, que deberán contener los siguientes datos:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-I. Fundamento Jurídico:
-
-a) Artículos que prevén la infracción cometida; y
-
-b) Artículos que prevén la sanción impuesta.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-II. Motivación:
-
-a) Día, hora, lugar y breve descripción del hecho o conducta infractora;
-
-b) Nombre y domicilio del infractor, salvo que no esté presente o no los proporcione;
-
-c) Número de matrícula o en su caso número del permiso de circulación del vehículo;
-
-d) En su caso número y tipo de Licencia o Permiso para conducir; y
-
-e) Marca, tipo de vehículo y uso a que esté destinado el mismo.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-III. Nombre, número de placa, sector al que pertenece y firma del agente que imponga la sanción.
-
-Todas las actas de infracción tendrán el señalamiento en el anverso de que en contra de actos y resoluciones realizadas y emitidas por las Autoridades Municipales en materia de seguridad vial y tránsito procede el Recurso de Revisión que establece el artículo 373 de este Código;
-
-IV. Clase, marca y uso a que esté destinado el vehículo;
-
-V. Infracción cometida y especificación del o de los artículos del Código Reglamentario violados, y de los documentos que se retengan;
-
-VI. Lugar, fecha y hora en que ésta fue cometida;
-
-VII. Señalamiento en el anverso de que en contra de los actos y resoluciones realizados y emitidos por las autoridades municipales en materia de seguridad vial y tránsito, procede el recurso de revisión que establece el artículo 373 de este ordenamiento; y
-
-VIII. Nombre, número y firma de la gente de vialidad que levante la infracción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 372.
-
-El conductor que pudiera ser responsable de una falta administrativa o infracción a las disposiciones del Capítulo 9 denominado "Policía y Gobierno" del presente Código, será puesto a disposición de la Autoridad Administrativa correspondiente, según sea el caso, siendo también responsable del pago de las multas impuestas conforme al presente Capítulo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Los agentes de tránsito o la Dirección de Tránsito, además de remitir en su caso los vehículos involucrados en algunos de los hechos referidos en el párrafo anterior, deben denunciar ante el Ministerio Público correspondiente, bajo su responsabilidad, a los conductores que cometan alguno de los siguientes hechos:
-
-I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
-
-II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
-
-III. Quitar o destruir las señales, dispositivos o marcas de señalamiento, utilizadas para la seguridad del tránsito en vías públicas de jurisdicción municipal;
-
-IV. Destruir, deteriorar u obstruir, por cualquier medio, las citadas vías de comunicación;
-
-V. Debilitar, por cualquier medio, un puente, haciendo insegura la vía de comunicación en donde se encuentre;
-
-VI. Abandonar un vehículo de motor en movimiento o, de cualquier otro modo, hacer imposible el control de su movimiento o velocidad y pudiendo causar daño; y
-
-VII. Causar homicidio, lesiones, daño en propiedad ajena o algún otro delito por el tránsito de su vehículo, en forma culposa o intencional.
-
-DEL MEDIO DE IMPUGNACIÓN
-
-###### Artículo 373.
-
-En contra de los actos y resoluciones realizados y emitidas, con motivo de la aplicación del presente Capítulo, lo asentado en acta de infracción o la sanción calificada impuesta, procede el recurso de revisión, cuya tramitación se sujetará a las disposiciones que el Código Fiscal y Presupuestario para el Municipio establece para dicho recurso.
-
-###### Artículo 374.
-
-Las facultades contenidas en los artículos 328, 329, 330 y 335, así como las infracciones e imposición de sanciones contenidas en los apartados VIII y IX del artículo 360 del presente Código Reglamentario, se ejecutaran previo acuerdo suscrito con el Gobierno del Estado a través de la instancia que corresponda.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 375.
+###### Artículo 362.
 
 Para la aplicación del presente Capítulo, se estará en todo caso a lo establecido en las leyes y reglamentos federales, estatales y las disposiciones que al efecto determine el Ayuntamiento por conducto de la Dirección de Tránsito.
 
-###### Artículo 376.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 363.
+
+Las infracciones se harán constar en Actas de Infracción, llenando formas impresas numeradas; así como Actas de Infracción que se generen por el uso de Dispositivos de Control Vial que deberán contener los siguientes datos:
+
+I. Fundamento Jurídico:
+
+a) Artículos que prevén la infracción cometida y la sanción que le corresponda; y
+
+b) Artículos que prevén la retención de los documentos que sirven como garantía de pago.
+
+II. Motivación:
+
+a) Descripción del modo, tiempo y lugar que determina el hecho o conducta infractora.
+
+III. Datos del infractor:
+
+a) Nombre y domicilio del infractor, salvo que no esté presente o no los proporcione;
+
+b) Número de matrícula o en su caso número del permiso de circulación del vehículo;
+
+c) Número y tipo de Licencia o Permiso para conducir; y
+
+d) Marca, tipo de vehículo y uso a que esté destinado el mismo.
+
+IV. Datos del Agente:
+
+a) Nombre;
+
+b) Número de placa;
+
+c) Sector al que pertenece; y
+
+d) Firma del Agente que imponga la sanción.
+
+Todas las Actas de Infracción tendrán el señalamiento en el anverso de que en contra de actos y resoluciones realizadas y emitidas por las autoridades municipales en materia de seguridad vial y tránsito procede el Recurso de Revisión que establece el artículo 366 de este ordenamiento.
+
+V. Los documentos que se retengan; y
+
+VI. Señalamiento en el anverso de que en contra de los actos y resoluciones realizados y emitidos por las autoridades municipales en materia de seguridad vial y tránsito, procede el Recurso de Revisión que establece el artículo 366 de este ordenamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 364.
+
+Para los efectos del artículo anterior, y fuera de las disposiciones no previstas en el artículo 331 de este Capítulo, las infracciones serán notificadas al propietario del vehículo, quien será en todo caso responsable solidario para efectos del pago de la misma.
+
+Las notificaciones surtirán sus efectos a partir del día hábil siguiente a aquél en que fueron realizadas y deberá proporcionarse al interesado o a la persona con la que se entienda la diligencia; pudiendo ser personal, realizada con quien deba entenderse; o bien por medios electrónicos.
+
+En caso de notificaciones por correo certificado, cuando no sea posible notificar al propietario del vehículo en el domicilio señalado, se realizará una segunda visita por parte del servicio de correspondencia; no obstante lo anterior, si no es posible recabarse la firma del destinatario, se atenderá la diligencia con quien en su nombre lo reciba o si estos no se encuentran en su domicilio, se levantará constancia de ello.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 365.
+
+El conductor que pudiera ser responsable de una falta administrativa o infracción a las disposiciones del Capítulo 9 denominado "Policía y Gobierno" del presente Código, será puesto a disposición del Juzgado Calificador, según sea el caso, siendo también responsable del pago de las multas impuestas conforme al presente Capítulo.
+
+Los Agentes o la Dirección de Tránsito, además de remitir en su caso los vehículos involucrados en algunos de los hechos referidos en el párrafo anterior, deben denunciar ante el Ministerio Público correspondiente, bajo su responsabilidad, a los conductores que cometan alguno de los siguientes hechos:
+
+I. Quitar o destruir las señales, dispositivos o marcas de señalamiento, utilizadas para la seguridad del tránsito en vías de circulación de jurisdicción municipal;
+
+II. Destruir, deteriorar u obstruir, por cualquier medio, las citadas vías de circulación;
+
+III. Debilitar, por cualquier medio, un puente, haciendo insegura la vía de circulación en donde se encuentre;
+
+IV. Abandonar un vehículo de motor en movimiento o, de cualquier otro modo, hacer imposible el control de su movimiento o velocidad y pudiendo causar daño; y
+
+V. Causar homicidio, lesiones, daño en propiedad ajena o algún otro delito por el tránsito de su vehículo, en forma culposa o intencional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+#### SECCIÓN III. DEL RECURSO DE REVISIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 366.
+
+En contra de los actos y resoluciones realizados y emitidas, con motivo de la aplicación del presente Capítulo, lo asentado en el Acta de Infracción o la sanción calificada impuesta, procede el Recurso de Revisión, cuya tramitación se sujetará a las disposiciones que el Código Fiscal y Presupuestario para el Municipio establece para dicho recurso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 367.
+
+Las facultades contenidas en los artículos 264, 267, 296 y 297 de este Capítulo, así como las infracciones e imposición de sanciones contenidas en los apartados: "De los vehículos destinados al transporte público y De los usuarios del transporte público" de la Sección V del presente Código Reglamentario, se ejecutarán previo acuerdo suscrito con el Gobierno del Estado a través de la instancia que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+
+###### Artículo 368.
 
 En caso de duda, se faculta al Presidente Municipal para la interpretación de las disposiciones del presente Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 369.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 370.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 371.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 372.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 373.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 374.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 375.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### Artículo 376.
+
+(DEROGADO, P.O. 2 DE MARZO DE 2015)
 
 ### CAPÍTULO 13. ESPECTACULOS TAURINOS
 
@@ -21603,7 +22033,7 @@ LI. Residuos Peligrosos: Son aquéllos que posean alguna de las características
 
 LII. Residuos Sólidos: El material generado en los centros de población, en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados e instituciones educativas, así como el derivado de las actividades comerciales o de servicio, proceso de extracción, beneficio, transformación o producción industrial; excluyendo los de demoliciones y construcciones y los de características peligrosas, de acuerdo con la Norma Oficial Mexicana en vigor, que establece las características de los residuos peligrosos, el listado de los mismos y los límites que hacen peligrosos a un residuo por su clasificación cretib, es decir, es corrosivo, reactivo, explosivo, tóxico, inflamable o biológico infeccioso;
 
-LIII. Residuos Sólidos Biodegradables: Son aquéllos susceptibles de ser disgregados en sus compuestos básicos por la acción de agentes biológicos naturales, formados particularmente por bacterias y otros microorganimos (sic) y bajo condiciones particulares de temperatura y humedad;
+LIII. Residuos Sólidos Biodegradables: Son aquéllos susceptibles de ser disgregados en sus compuestos básicos por la acción de agentes biológicos naturales, formados particularmente por bacterias y otros microorganimos (sic)y bajo condiciones particulares de temperatura y humedad;
 
 LIV. Residuos Sólidos No Biodegradables: Son aquéllos formados por materia inorgánica, cuyo cambio de composición se realiza mediante procesos físico químicos;
 
@@ -36400,3 +36830,11 @@ P.O. 3 DE FEBRERO DE 2015.
 ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2280, 2328 BIS, 2328 TER, 2328 QUATER, 2328 QUINQUIES, 2328 SEXIES, 2328 SEPTIES Y 2328 OCTIES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
 
 ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 2 DE MARZO DE 2015.
+
+PRIMERO.- El presente Dictamen entrará en vigor a los 180 días naturales siguientes de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+TERCERO.- La Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla, deberá de emitir o adecuar los manuales de organización, de procedimiento y de operación correspondientes, en un término de 160 días naturales a partir de la publicación del presente Dictamen en el Periódico Oficial del Estado de Puebla.
