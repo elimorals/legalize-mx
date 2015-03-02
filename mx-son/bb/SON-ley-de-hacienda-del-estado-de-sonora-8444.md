@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2015-01-26"
+last_updated: "2015-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE HACIENDA DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 26 DE ENERO DE 2015.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 2 DE MARZO DE 2015.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1677,7 +1677,7 @@ II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de créd
 
 III.- De operaciones por las cuales se causa el Impuesto al Valor Agregado o el Impuesto General al Comercio, Industria y Prestación de Servicios;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 IV.- De operaciones celebradas con empresas o instituciones de crédito y organizaciones auxiliares, instituciones de seguros o fianzas, que solamente la Federación puede gravar.
 
@@ -1687,7 +1687,7 @@ V.- De dividendos.
 
 ###### Artículo 203.
 
-El impuesto deberá ser pagado o enterado dentro del mes siguiente a aquel en que se percibió el ingreso gravado, mediante la presentación de una declaración en la Oficina Receptora correspondiente al domicilio del sujeto pasivo o en la oficina receptora del domicilio del responsable solidario, según el caso.
+El impuesto deberá ser pagado o enterado dentro del mes siguiente a aquél en que se percibió el ingreso gravado, mediante la presentación de una declaración en la Oficina Receptora correspondiente al domicilio del sujeto pasivo o en la oficina receptora del domicilio del responsable solidario, según el caso.
 
 ###### Artículo 204.
 
@@ -4091,9 +4091,7 @@ a).- Copia simple $17.00
 
 b).- Copia certificada. $64.00
 
-4.- Por rendir informe sobre existencia o no de testamento, a la autoridad judicial, por cada autor
-
-de la sucesión. $77.00
+4.- Por rendir informe sobre existencia o no de testamento, a la autoridad judicial, por cada autor de la sucesión. $77.00
 
 5.- Por autorización de protocolos para uso de los notarios (sellado y certificado) por cada libro. $146.00
 
@@ -6795,7 +6793,7 @@ B.O. 31 DE DICIEMBRE DE 1981.
 
 PRIMERO: Esta Ley entrará en vigor, el día 1o. de Enero de 1982, previa publicación en el Boletín Oficial del Estado.
 
-SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a los preceptuados (sic) en dichas reformas o adiciones.
+SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a los preceptuados en dichas reformas o adiciones.
 
 B.O. 30 DE DICIEMBRE DE 1982.
 
@@ -6935,7 +6933,7 @@ I.- Los contribuyentes que realicen actividades empresariales y generen en forma
 
 Para efectos de la disposición anterior, se considerarán nuevos empleos, todos aquellos que se contraten en forma adicional a la plantilla de personal que tengan las empresas al 15 de diciembre de 1995.
 
-II.- Los contribuyentes que inciden actividades empresariales en el Estado gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal durante dicho período.
+II.- Los contribuyentes que inicien actividades empresariales en el Estado gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal durante dicho período.
 
 Para los efectos del párrafo anterior, se entiende como fecha de iniciación de operaciones aquella en que tenga lugar la apertura del establecimiento.
 
@@ -6945,7 +6943,7 @@ III.- Tratándose de la inscripción de escrituras constitutivas de sociedades m
 
 ###### ARTICULO TERCERO.
 
-Se autoriza una reducción del 50% en el Impuesto Sobre Traslación de Dominio de Bienes Muebles a que se refiere el Artículo 183 de la Ley de Hacienda del Estado, respecto de operaciones de vehículos usados modelo 1995 y anteriores, que se pague durante los meses de enero a abril de 1996.
+Se autoriza una reducción del 50% en el Impuesto Sobre Traslación de Dominio de Bienes Muebles a que se refiere el Artículo 183 de la Ley de Hacienda del Estado, respecto de operaciones de vehículos usados modelos 1995 y anteriores, que se pague durante los meses de enero a abril de 1996.
 
 ###### ARTICULO CUARTO.
 
@@ -7173,13 +7171,13 @@ El Registro Estatal Vehicular a que se refiere el primer párrafo de este artíc
 
 Artículo Cuarto.- Para los efectos de las modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, previstas en el artículo anterior se estará a lo siguiente:
 
-I.- Los permisionarios que se ubiquen dentro del supuesto a qué se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
+I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
 
 Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del ejercicio de 2014, debiendo presentarse para tales efectos, los requisitos correspondientes.
+II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2014, debiendo presentarse para tales efectos, los requisitos correspondientes.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
 
@@ -7235,7 +7233,7 @@ Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Es
 
 ###### ARTÍCULO CUARTO.
 
-Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
+Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
 
 B.O. 9 DE ENERO DE 2014.
 
@@ -7294,6 +7292,20 @@ Todas aquellas operaciones en materia de derechos registrales, que se hayan form
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+> <small>(F. DE E., B.O. 2 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza a los Ayuntamientos del Estado, para que puedan afectar como fuente de pago en caso de incumplimiento de sus obligaciones de pago de derechos o aprovechamientos por el uso y/o explotación de aguas nacionales y por uso o aprovechamiento de bienes del dominio público de la nación así como cuerpos receptores de las descargas de aguas residuales, los recursos que le correspondan a cada uno, derivados del Ramo General 33, Fondo IV, denominado: “Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales de Distrito Federal”.
+
+Asimismo, se autoriza a los Ayuntamientos del Estado, para que puedan afectar como fuente de pago en caso de incumplimiento de sus obligaciones de pago de derechos o aprovechamientos por el uso y/o explotación de aguas nacionales y por uso o aprovechamiento de bienes del dominio público de la nación así como cuerpos receptores de las descargas de aguas residuales, las participaciones que en ingresos federales les correspondan, bastando para ello el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, sin que tengan la necesidad de acudir ante esta Legislatura para solicitar una autorización ex profeso.
+
+La afectación de las participaciones federales a que se refiere el párrafo anterior, sólo se podrá llevar a cabo siempre y cuando los recursos provenientes del Ramo General 33, Fondo IV, denominado: “Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal”, no sean suficientes para cubrir el adeudo.
+
+La afectación de las aportaciones a que se refiere el párrafo primero y, en su caso, la afectación de las participaciones federales a que se refieren los párrafos segundo y tercero de este artículo, se otorgarán a favor del Poder Ejecutivo Federal por conducto del organismo denominado: Comisión Nacional del Agua, quién podrá solicitar al Gobierno del Estado de Sonora, la retención de los recursos afectados por virtud del presente artículo, siempre y cuando los adeudos por morosidad del municipio de que se trate, sean mayores a noventa días naturales.
+
+Para la ejecución del mecanismo de retención y pago de los adeudos generados que se señalan en el presente artículo, se estará a lo dispuesto por los artículos 9° para el caso de participaciones federales, y 51 en el caso de aportaciones del Ramo General 33 Fondo IV, ambas disposiciones de la Ley de Coordinación Fiscal”.
 
 B.O. 22 DE DICIEMBRE DE 2014.
 
