@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-3-2014-de-la-comision-de-creacion-de-nuevos-98207"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-31"
-last_updated: "2014-10-28"
+last_updated: "2015-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98207&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-01-20"
 
 ACUERDO CCNO/3/2014, DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON SEDE EN ZAPOPAN, Y EL JUZGADO TERCERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR EN LA MISMA RESIDENCIA, PARA CONOCER DE JUICIOS ORALES MERCANTILES Y JUICIOS EJECUTIVOS MERCANTILES DE CUANTÍA MENOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO CCNO/5/2015 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F DE 2 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MARZO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de enero de 2014.
 
@@ -96,3 +98,15 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar el texto de la reforma, al Acuerdo CCNO/3/2014 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal.
+
+D.O.F. 2 DE MARZO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los asuntos ejecutivos mercantiles de cuantía menor que a la fecha de entrada en vigor de la medida ordenada en el presente acuerdo se encuentren en trámite ante el Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco, continuarán substanciándose hasta su conclusión y archivo definitivo. Así también, las comunicaciones oficiales en trámite, recibidas en auxilio de otros órganos jurisdiccionales y relacionados con juicios ejecutivos mercantiles de cuantía menor, continuarán diligenciándose hasta su eventual desahogo y devolución. En consecuencia, a partir de la fecha señalada en el punto primero de este acuerdo, cesará la competencia del Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco, para conocer de nuevos juicios ejecutivos mercantiles de cuantía menor y de las comunicaciones oficiales relacionadas con éstos.
+
+Los asuntos orales mercantiles que a la fecha de entrada en vigor de la medida ordenada en el presente acuerdo se encuentren en trámite ante los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, continuarán substanciándose hasta se (sic) conclusión y archivo definitivo.
+
+TERCERO. A partir de la fecha señalada en el punto primero del presente acuerdo, se abroga el diverso CCNO/3/2014 de la Comisión de Creación de Nuevos Órganos.
+
+CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
