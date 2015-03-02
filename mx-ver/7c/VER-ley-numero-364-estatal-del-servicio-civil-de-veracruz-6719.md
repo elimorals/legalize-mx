@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-estatal-del-servicio-civil-de-veracruz-6719"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-04"
-last_updated: "2015-02-27"
+last_updated: "2015-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 364 ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MARZO DE 2015 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. DE 2 DE MARZO DE 2015.</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 
@@ -1451,7 +1451,9 @@ I. Los abogados patronos o asesores legales deberán acreditar ser abogados o li
 
 II. El compareciente podrá acreditar su personalidad mediante testimonio notarial o carta poder otorgada ante dos testigos;
 
-III. Tratándose de los sindicatos, éstos acreditarán su personalidad con la acreditación que les extienda la autoridad registradora correspondiente, de haber quedado inscrita la directiva del sindicato. También podrán comparecer por conducto de apoderado legal, quien en todos los casos deberá ser abogado, licenciado en derecho o pasante, previa comprobación de que quien le otorgue el poder tiene facultades para ello.
+(F. D E., G.O. 2 DE MARZO DE 2015)
+
+Tratándose de los sindicatos, éstos acreditarán su personalidad con la acreditación que les extienda la autoridad registradora correspondiente, de haber quedado inscrita la directiva del sindicato. También podrán comparecer por conducto de apoderado legal, quien en todos los casos deberá ser abogado, licenciado en derecho o pasante, previa comprobación de que quien le otorgue el poder tiene facultades para ello.
 
 ###### ARTICULO 192.
 
