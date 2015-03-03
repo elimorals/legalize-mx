@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2013-11-25"
+last_updated: "2015-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA -- ANTES LEY DE PROTECCION A LOS ADULTOS MAYORES PARA EL ESTADO DE PUEBLA --
 
-LEY DE PROTECCIÓN A LOS ADULTOS MAYORES PARA EL ESTADO DE PUEBLA
+LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -57,109 +57,111 @@ En el anterior contexto, resulta importante destacar las aportaciones que realiz
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64, 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y X, 64 fracción II, 65, 66 de la Ley Orgánica del Poder Legislativo del Estado; 19, 23 fracciones I y X del Reglamento Interior del H. Congreso del Estado, se emite la siguiente:
 
-LEY DE PROTECCIÓN A LOS ADULTOS MAYORES PARA EL ESTADO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
+
+LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social; y tiene por objeto establecer las condiciones necesarias para lograr la protección, atención, bienestar y desarrollo de los hombres y mujeres a partir de los sesenta años de edad, sin distinción de raza, sexo, credo, religión, situación económica o nivel cultural, para lograr su plena integración al desarrollo social, económico, político y cultural.
+La presente Ley es de orden público e interés social; y tiene por objeto establecer las condiciones necesarias para lograr la protección, atención, bienestar y desarrollo de las personas a partir de los sesenta años de edad, sin distinción de raza, sexo, credo, religión, situación económica o nivel cultural, para lograr su plena integración al desarrollo social, económico, político y cultural.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 2.
 
-Para los efectos de la presente Ley, se entenderá por "senescentes" o "adultos mayores", a los hombres y mujeres a partir de los sesenta años de edad.
+Para los efectos de la presente Ley, se entenderá por "personas adultas mayores", a las personas a partir de los sesenta años de edad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 3.
 
-Para efectos de esta Ley, se le denominará “Instituto” al Instituto de Adultos Mayores que tendrá a su cargo las siguientes atribuciones:
+Para efectos de esta Ley, se le denominará "SEDIF" al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, que tendrá a su cargo las siguientes atribuciones:
+
+I.- Llevar a cabo o proporcionar apoyo para realizar investigaciones que permitan identificar los problemas más frecuentes a los cuales se enfrenten;
+
+II.- Promover, a través de cursos y de los medios de comunicación masiva, su respeto, conocimiento y reconocimiento;
+
+III.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con la Secretaría de Competitividad, Trabajo y Desarrollo Económico, programas de capacitación, financiamiento y autoempleo;
+
+IV.- Celebrar cursos de capacitación y actualización para el personal que labore en las instituciones públicas, privadas y sociales, encargadas de su atención;
+
+V.- Concertar en coordinación con el Instituto Nacional de las Personas Adultas Mayores, descuentos en servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales;
+
+VI.- Impulsar la evolución y actualización permanente de las políticas públicas a favor de los adultos mayores del Estado;
+
+VII.- Promover y diseñar, de manera coordinada con la Secretaría de Turismo y demás autoridades competentes, acciones para fomentar actividades turísticas para adultos mayores;
+
+VIII.- Impulsar con los sectores público, social y privado políticas preferenciales para las personas adultas mayores, que comprendan precios especiales o gratuitos en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y transporte;
+
+IX.- Implementar programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto y dignificación hacia ellas, y
+
+X.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2015)</small>
+
+ARTÍCULO 3 BIS.- Para efectos de esta Ley, se le denominará "SMDIF" a los Sistemas Municipales DIF, que tendrán a su cargo las siguientes atribuciones:
 
 I.- Proporcionar información gerontológica de prevención y autocuidado;
 
 II.- Prestar servicios de asistencia jurídica y de orientación social;
 
-III.- Llevar a cabo o proporcionar apoyo para realizar investigaciones que permitan identificar los problemas más frecuentes a los cuales se enfrenten;
+III.- Implementar programas de prevención de enfermedades y accidentes que se presenten con mayor frecuencia;
 
-IV.- Implementar programas de prevención de enfermedades y accidentes que se presenten con mayor frecuencia;
+IV.- Efectuar visitas a las instituciones públicas, privadas y sociales, encargadas de su atención, a efecto de verificar su buen funcionamiento y comunicar a las autoridades competentes, las irregularidades de las cuales se percate, para la adopción de las medidas correspondientes;
 
 V.- Realizar actividades recreativas, deportivas, culturales, de estudio y de aprendizaje especiales;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+VI.- Procurar que vivan en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, que requiera internamiento en instituciones especializadas;
 
-VI.- Promover, a través de cursos y de los medios de comunicación masiva, su respeto, conocimiento y reconocimiento;
+VII.- Llevar a cabo las acciones procedentes para su afiliación al Instituto Nacional de las Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+VIII.- Informar a la Procuraduría General de Justicia del Estado, de la probable comisión de delitos en su contra, de los cuales se tenga conocimiento;
 
-VII.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con la Secretaría de Competitividad, Trabajo y Desarrollo Económico, programas de capacitación, financiamiento y empleo;
+IX.- Implementar programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto y dignificación hacia ellas;
 
-VIII.- Procurar que vivan en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, contagiosa o mental, que requiera internamiento en instituciones especializadas;
+X.- Fomentar la participación social, así como impulsar la creación de establecimientos en los cuales se dé atención a las personas adultas mayores desamparadas;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+XI.- Tramitar ante las autoridades competentes, la condonación de impuestos estatales y municipales;
 
-IX.- Llevar a cabo las acciones procedentes para su afiliación al Instituto y el Instituto Nacional de la Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
+XII.- Informar oportunamente de las condonaciones y descuentos a que se refieren las fracciones anteriores;
 
-X.- Otorgar atención inmediata a todo senescente que se encuentre abandonado en la vía pública y remitirlo a los Sistemas Estatal o Municipales para el Desarrollo Integral de la Familia, según corresponda;
+XIII.- Promover y gestionar apoyos en colaboración con dependencias o entidades de los tres órdenes de gobierno, a aquéllos que carezcan de los medios necesarios para subsistir, y
 
-XI.- Informar a la Procuraduría General de Justicia del Estado, de la probable comisión de delitos en su contra, de los cuales se tenga conocimiento;
+XIV.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
 
-XII.- Impulsar la creación de establecimientos en los cuales se dé atención a los senescentes desamparados;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
 
-XIII.- Efectuar visitas a las instituciones públicas, privadas y sociales, encargadas de su atención, a efecto de verificar su buen funcionamiento y comunicar a las autoridades competentes, las irregularidades de las cuales se percate, para la adopción de las medidas correspondientes;
+### CAPÍTULO II. DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-XIV.- Celebrar cursos de capacitación y actualización para el personal que labore en las instituciones públicas, privadas y sociales, encargadas de su atención;
-
-XV.- Establecer programas, en coordinación con las autoridades competentes, dirigidos a la obtención de créditos accesibles para que adquieran una vivienda propia o realicen mejoras en caso de ya contar con una;
-
-XVI.- Tramitar ante las autoridades competentes, la condonación de impuestos estatales y municipales;
-
-REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)
-
-XVII.- Concertar en coordinación con el Instituto Nacional de las Personas Adultas Mayores, descuentos en servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales;
-
-XVIII.- Informar oportunamente de las condonaciones y descuentos a que se refieren las fracciones anteriores;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
-
-XIX.- Dar apoyos, de acuerdo a sus recursos presupuestales, a aquéllos que carezcan de los medios necesarios para subsistir;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
-
-XX.- Impulsar la evolución y actualización permanente de las políticas públicas a favor de los adultos mayores del Estado;
-
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
-
-XXI.- Promover y diseñar, de manera coordinada con la Secretaría de Turismo y demás autoridades competentes, acciones para fomentar actividades turísticas para adultos mayores;
-
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
-
-XXII.- Impulsar con los sectores público, social y privado políticas preferenciales para las personas adultos mayores, que comprendan precios especiales y/o gratuitos en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y transporte; y
-
-> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN XX, PERO DEL ANÁLISIS DE LA APLICACIÓN DE LA REFORMA DE 25 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXIII.</small>
-
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
-
-XXIII.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
-
-### CAPÍTULO II. DE LOS DERECHOS DE LOS SENESCENTES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 4.
 
-La presente Ley reconoce como derechos de los adultos mayores:
+La presente Ley reconoce como derechos de las personas adultas mayores:
 
-I.- Tener acceso a toda la información gerontológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la senectud;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
 
-II.- Recibir orientación jurídica y social, por parte del Organismo, quien en forma conjunta con otros organismos públicos y privados, implementará programas de atención para los senescentes;
+I.- Tener acceso a toda la información gerontológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la adultez mayor;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+
+II.- Recibir orientación jurídica y social, por parte de los SMDIF, quienes en forma conjunta con otros organismos públicos y privados, implementarán programas de atención para las personas adultas mayores;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia física, verbal o económica que ponga en peligro su vida, salud y/o patrimonio;
 
-IV.- Residir dignamente en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, contagiosa o mental, que requiera de internamiento en instituciones especializadas;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
 
-V.- Gozar del respeto y reconocimiento de su dignidad como hombres y mujeres senescentes y ser protegidos contra toda forma de explotación;
+IV.- Residir dignamente en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, que requiera de internamiento en instituciones especializadas;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+
+V.- Gozar del respeto y reconocimiento de su dignidad como personas adultas mayores y ser protegidas contra toda forma de explotación;
 
 VI.- Seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente;
 
@@ -183,21 +185,31 @@ XV.- Prestar labor social, sin que esto implique que puedan ser obligados a real
 
 XVI.- Los demás que dimanen de la presente Ley y otras disposiciones aplicables.
 
-### CAPÍTULO III. DE LAS ACCIONES A FAVOR DE LOS SENESCENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
+
+### CAPÍTULO III. DE LAS ACCIONES A FAVOR DE LAS PERSONAS ADULTAS MAYORES
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 5.
 
-El Organismo elaborará programas dirigidos a los senescentes, para que reciban información gerontológica de prevención y autocuidado, así como para incitarlos a realizar alguna actividad productiva y prepararlos física y mentalmente para vivir con plenitud la senectud.
+Los SMDIF elaborarán programas dirigidos a las personas adultas mayores, para que reciban información gerontológica de prevención y autocuidado, así como para incitarlos a realizar alguna actividad productiva y prepararlos física y mentalmente para vivir con plenitud la adultez mayor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 6.
 
-Los programas dirigidos a los senescentes a que se refiere el artículo anterior, comprenderán acciones tendientes a:
+Los programas dirigidos a las personas adultas mayores que refiere el artículo anterior, comprenderán acciones tendientes a:
 
-I.- Involucrarlos en alguna actividad productiva de manera permanente, para así ser útiles a la sociedad y a sí mismos, incrementando de esta manera su autoestima y preservando su potencialidad;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+
+I.- Involucrarlos en alguna actividad productiva de manera permanente, incrementando de esta manera su autoestima y preservando su potencialidad;
 
 II.- Alfabetizarlos y poner a su alcance los medios necesarios para aumentar su educación y capacitación, estar actualizados y poder acceder a oportunidades de empleo;
 
-III.- Lograr que tengan un mejor conocimiento de sí mismos y buscar puntos de apoyo familiar y social, para que mantengan una buena autoestima y un excelente grado de socialización, para hacer más tolerante esta etapa de la vida;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+
+III.- Lograr que tengan un mejor conocimiento de sí mismos y buscar puntos de apoyo familiar y social, para que mantengan una buena autoestima y un excelente grado de socialización, para disfrutar plenamente esta etapa de la vida;
 
 IV.- Llevar a cabo encuentros entre distintos grupos de adultos mayores, con la finalidad de intercambiar sus valiosas vivencias para que las nuevas generaciones las valoren;
 
@@ -213,7 +225,9 @@ VIII.- Constituir clubes de tercera edad y asociaciones similares, tanto en el �
 
 IX.- Llevar a cabo las acciones procedentes para su afiliación al Instituto y al Instituto Nacional de las Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
 
-X.- Obtener créditos accesibles para que adquieran una vivienda propia, o realicen mejoras en caso de que ya cuenten con una; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+
+X.- Promover y gestionar en colaboración con las dependencias o entidades competentes, créditos accesibles para que adquieran una vivienda propia, o realicen mejoras en caso de que ya cuenten con una;
 
 XI.- Darles a conocer, así como a la sociedad en general, el contenido de la presente Ley y de otras disposiciones legales aplicables.
 
@@ -221,23 +235,33 @@ XI.- Darles a conocer, así como a la sociedad en general, el contenido de la pr
 
 XII.- Desarrollar acciones tendientes a combatir la violencia de cualquier tipo en contra de los adultos mayores, a través de los programas y políticas que para tal efecto se establezcan.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 7.
 
-El Organismo llevará a cabo convenios de colaboración con las instituciones públicas, privadas y sociales, que organicen actividades especiales de recreación, estudio o aprendizaje, para que, de manera gratuita se presten dichos servicios.
+Los SMDIF llevarán a cabo convenios de colaboración con las instituciones públicas, privadas y sociales, que organicen actividades especiales de recreación, estudio o aprendizaje, para que, de manera gratuita se presten dichos servicios.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 8.
 
-El Organismo realizará actividades recreativas y de enseñanza, en las áreas que correspondan a las aficiones y vocación de los senescentes a quienes atienda.
+Los SMDIF realizarán actividades recreativas y de enseñanza, en las áreas que correspondan a las aficiones y vocación de las personas adultas mayores a quienes atienda.
 
-### CAPÍTULO IV. DE LA SALUD DE LOS SENESCENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
+
+### CAPÍTULO IV. DE LA SALUD DE LAS PERSONAS ADULTAS MAYORES
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 9.
 
-Para efectos de esta Ley, son acciones básicas de asistencia social, aquéllas tendientes a lograr la atención y protección física, mental y social de los senescentes.
+Para efectos de esta Ley, son acciones básicas de asistencia social, aquéllas tendientes a lograr la atención y protección física, mental y social de las personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 10.
 
-El derecho de los senescentes a la salud y protección social, tiene las siguientes finalidades:
+El derecho de las personas adultas mayores a la salud y protección social, tiene las siguientes finalidades:
 
 I.- El bienestar físico y mental, para lograr el ejercicio pleno de sus capacidades, en beneficio de la sociedad y de sí mismo;
 
@@ -261,43 +285,63 @@ IV.- La superación de las imposibilidades físicas y funcionales, cualquiera qu
 
 V.- La terapia oportuna e idónea para atender las enfermedades y anomalías adquiridas.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-El Organismo, de acuerdo con las posibilidades económicas, podrá coordinarse con las autoridades federales y municipales, y con instituciones de los sectores privado y social, que presten servicios de salud y bienestar social, a fin de que puedan extender sus beneficios.
+Los SMDIF, de acuerdo con la disponibilidad presupuestal, podrán coordinarse con las autoridades federales, estatales y con instituciones de los sectores privado y social, que presten servicios de salud y bienestar social, a fin de que puedan extender sus beneficios.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 13.
 
-El Organismo podrá coordinarse con las instituciones oficiales, privadas y sociales que lleven a cabo actividades recreativas, deportivas y culturales, a fin de que dentro de dichas actividades se incluya a los senescentes.
+Los SMDIF podrán coordinarse con las instituciones oficiales, privadas y sociales que lleven a cabo actividades recreativas, deportivas y culturales, a fin de que dentro de dichas actividades se incluya a las personas adultas mayores.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 14.
 
-Las autoridades estatales y municipales, así como las instituciones de protección social, públicas o privadas, en coordinación con la Secretaría de Salud, atenderán de manera inmediata al senescente que se encuentre abandonado en la vía pública y de ser necesario, lo canalizarán a los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia.
+Las instituciones de protección social, públicas o privadas, indistintamente en coordinación con el Sistema Estatal de Salud, deberán atender a la persona adulta mayor que se encuentre abandonada en la vía pública, en términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 15.
 
-Cuando algún particular o autoridad se percatare de una situación irregular, de necesidad o de riesgo en que se encuentre un senescente, inmediatamente deberá informar este hecho al Organismo o a las autoridades asistenciales especializadas, para que, con la debida prontitud intervenga para su atención o informen a la Procuraduría General de Justicia, en caso de tratarse de la probable comisión de delitos en contra de un senescente.
+Cuando algún particular o autoridad se percatare de una situación irregular, de necesidad o de riesgo en que se encuentre una persona adulta mayor, inmediatamente deberá informar este hecho a las autoridades asistenciales especializadas, para que, con la debida prontitud intervenga para su atención o informen a la Procuraduría General de Justicia, en caso de tratarse de la probable comisión de delitos en contra de una persona adulta mayor.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 16.
 
-Cuando se requiera localizar a un senescente, las autoridades competentes, de acuerdo con sus programas y posibilidades, utilizarán los medios de difusión ya establecidos.
+Cuando se requiera localizar a una persona adulta mayor, las autoridades competentes, de acuerdo con sus programas y posibilidades, utilizarán los medios de difusión ya establecidos.
 
-### CAPÍTULO V. DE LAS INSTITUCIONES DE ATENCIÓN A LOS SENESCENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
+
+### CAPÍTULO V. DE LAS INSTITUCIONES DE ATENCIÓN A LAS PERSONAS ADULTAS MAYORES
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 17.
 
-El Organismo y las instituciones públicas, privadas y sociales, que se dediquen a la atención de los senescentes, se entienden constituidas exclusivamente para su beneficio.
+Los SMDIF y las instituciones públicas, privadas y sociales, que se dediquen a la atención de las personas adultas mayores, contarán con personal plenamente capacitado para tal fin.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 18.
 
-El personal de cualquier categoría que preste sus servicios en el Organismo y en las instituciones públicas, privadas y sociales, que se dediquen a la atención de los senescentes, preferentemente deberán reunir los requisitos que al efecto establezca dicho Organismo.
+El personal de cualquier categoría que preste sus servicios en los SMDIF y en las instituciones públicas, privadas y sociales, que se dediquen a la atención de las personas adultas mayores, preferentemente deberán reunir los requisitos que al efecto establezca el SEDIF.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-El personal que labore en instituciones públicas, privadas o sociales, dedicadas a la atención de los senescentes, recibirán los cursos de capacitación y actualización, que establezca el Organismo, quien fomentará la formación de auxiliares geriátricos, para el mejor desempeño de sus actividades.
+El personal que labore en instituciones públicas, privadas o sociales, dedicadas a la atención de las personas adultas mayores, recibirán los cursos de capacitación y actualización, que establezca el SEDIF, quien fomentará la formación de auxiliares geriátricos, para el mejor desempeño de sus actividades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 20.
 
-Cuando una institución pública, privada o social, se haga cargo de un senescente estará obligada a:
+Cuando una institución pública, privada o social, se haga cargo de una persona adulta mayor estará obligada a:
 
 I.- Atender adecuadamente su alimentación, habitación y asistencia médica;
 
@@ -309,29 +353,39 @@ IV.- Integrar un expediente personal con la historia clínica y un registro con 
 
 V.- Obtener, en caso de ser posible, los nombres, domicilios, teléfonos y trabajos de sus familiares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 21.
 
-Quedan prohibidas para el trato con los senescentes y serán sancionadas conforme a las leyes respectivas, las siguientes conductas:
+Quedan prohibidas, para el trato con las personas adultas mayores y serán sancionadas conforme a las leyes respectivas, las siguientes conductas:
 
 I.- Crueldad o violencia de cualquier tipo; y
 
 II.- Aislamiento, marginación y explotación.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 22.
 
-Cuando una institución otorgue atención a un senescente, examinará, en primer término, la posibilidad de su reintegración familiar.
+Cuando una institución otorgue atención a una persona adulta mayor, examinará, en primer término, la posibilidad de su reintegración familiar.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 23.
 
-El Organismo y las demás instancias asistenciales, en la medida de sus posibilidades, dispondrán de los medios adecuados para proporcionar a los senescentes que carezcan de recursos, los medios necesarios para subsistir.
+Los SMDIF y las demás instancias asistenciales, en la medida de sus posibilidades, dispondrán de los medios adecuados para proporcionar a las personas adultas mayores que carezcan de recursos, los medios necesarios para subsistir.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 24.
 
-El Organismo efectuará visitas a las instituciones públicas, privadas y sociales, encargadas de la atención de los senescentes, a efecto de verificar su buen funcionamiento, debiendo comunicar a las autoridades competentes, las irregularidades de las cuales se percate, para la adopción de las medidas que correspondan.
+Los SMDIF efectuarán visitas a las instituciones públicas, privadas y sociales, encargadas de la atención de las personas adultas mayores, a efecto de verificar su buen funcionamiento, debiendo comunicar a las autoridades competentes, las irregularidades de las cuales se percate, para la adopción de las medidas que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 25.
 
-Para los efectos de esta Ley, se consideran situaciones irregulares de riesgo para los senescentes:
+Para los efectos de esta Ley, se consideran situaciones irregulares de riesgo para las personas adultas mayores:
 
 I.- Privarlos de las condiciones esenciales de subsistencia y salud;
 
@@ -345,93 +399,111 @@ V.- Carecer de habitación.
 
 ### CAPÍTULO VI. DE LAS ACTIVIDADES CULTURALES, RECREATIVAS Y DEPORTIVAS
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 26.
 
-El Instituto, previo convenio que celebre con el Instituto Nacional de las Personas Adultas Mayores y con otras instituciones públicas, privadas y sociales, implementará cursos sobre diversas materias para que los adultos mayores y sus familiares alcancen mejores conocimientos y aptitudes.
+Los SMDIF, previo convenio que celebre con el Instituto Nacional de las Personas Adultas Mayores y con otras instituciones públicas, privadas y sociales, implementarán cursos sobre diversas materias para que las personas adultas mayores y sus familiares alcancen mejores conocimientos y aptitudes.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 27.
 
-Los senescentes tienen derecho a participar de manera activa, en las festividades cívicas y tradicionales que se celebren en su comunidad, promoviendo que ellos sean los transmisores del valor y significado histórico de las costumbres, efemérides y de los actos que se celebren.
+Las personas adultas mayores tienen derecho a participar de manera activa, en las festividades cívicas y tradicionales que se celebren en su comunidad, promoviendo que ellos sean los transmisores del valor y significado histórico de las costumbres, efemérides y de los actos que se celebren.
 
-Para tal efecto, los Gobiernos Estatal y Municipales, promoverán la realización de eventos a cargo de los senescentes en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación.
+Para tal efecto, los Gobiernos Estatal y Municipales, promoverán la realización de eventos a cargo de las personas adultas mayores en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación.
 
-Las dependencias y entidades respectivas facilitarán a los senescentes el acceso a la expresión artística a través de talleres, exposiciones, concursos y eventos culturales.
+Las dependencias y entidades respectivas facilitarán a las personas adultas mayores el acceso a la expresión artística a través de talleres, exposiciones, concursos y eventos culturales.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 28.
 
-El Instituto, en coordinación con las autoridades competentes Federales, Estatales y Municipales, promoverá la creación de organizaciones de adultos mayores para la realización de actividades deportivas, proporcionando entrenamiento en forma individual o en equipos, para participar en competencias a nivel municipal, estatal, nacional e internacional en las modalidades previstas para ellos, apoyándolos con asesoría especializada.
+Los SMDIF, en coordinación con las autoridades competentes Federales, Estatales y Municipales, promoverán la creación de organizaciones de personas adultas mayores para la realización de actividades deportivas, proporcionando entrenamiento en forma individual o en equipos, para participar en competencias a nivel municipal, estatal, nacional e internacional en las modalidades previstas para ellos, apoyándolos con asesoría especializada.
 
 ### CAPÍTULO VII. DE LA PROTECCIÓN FAMILIAR
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 29.
 
-Cuando los senescentes se encuentren viviendo con un familiar, no se interrumpirá dicha convivencia, a menos de que su integridad física, afectiva y moral se encuentre en riesgo, ya sea por voluntad del adulto mayor, por situaciones de violencia en su contra o por resolución médica que así lo establezca.
+Cuando las personas adultas mayores se encuentren viviendo con un familiar, no se interrumpirá dicha convivencia, a menos de que su integridad física, afectiva y moral se encuentre en riesgo, ya sea por voluntad de la persona adulta mayor, por situaciones de violencia en su contra o por resolución médica o judicial que así lo establezca.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 30.
 
-Los senescentes tienen derecho a que sus familiares cubran oportuna y adecuadamente su alimentación, vestido, habitación y el cuidado de su salud física y mental, de acuerdo a sus posibilidades económicas, conforme a lo dispuesto por el Código Civil para el Estado.
+Las personas adultas mayores tienen derecho a que sus familiares cubran oportuna y adecuadamente su alimentación, vestido, habitación y el cuidado de su salud física y mental, de acuerdo a sus posibilidades económicas, conforme a lo dispuesto por el Código Civil para el Estado.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 31.
 
-Si un senescente carece de familiares, será atendido en los establecimientos especializados de asistencia social dependientes de la Secretaría de Salud, de los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia y del Instituto Nacional de la Senectud, de acuerdo a los convenios que al efecto se celebren.
+Si una persona adulta mayor carece de familiares, será atendido en los establecimientos especializados de asistencia social dependientes de la Secretaría de Salud, de los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia y del Instituto Nacional de las Personas Adultas Mayores, de acuerdo a los convenios que al efecto se celebren.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 32.
 
-Cualquier persona podrá hacer del conocimiento de las autoridades competentes, los casos de los senescentes abandonados o maltratados, de acuerdo a lo establecido por las disposiciones jurídicas vigentes.
+Cualquier persona podrá hacer del conocimiento de las autoridades competentes, los casos de las personas adultas mayores abandonadas o maltratadas, de acuerdo a lo establecido por las disposiciones jurídicas vigentes.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 33.
 
-La familia de los senescentes, estará obligada a:
+La familia de las personas adultas mayores, estará obligada a:
 
-I.- Evitar que alguno de sus integrantes cometa actos de discriminación, abuso, aislamiento, prepotencia o violencia, en contra del senescente;
+I.- Evitar que alguno de sus integrantes cometa actos de discriminación, abuso, aislamiento, prepotencia o violencia, en contra de la persona adulta mayor;
 
-II.- Abstenerse de obligar al senescente a realizar cualquier acto que ponga en riesgo su persona, bienes o derechos; y
+II.- Abstenerse de obligar a la persona adulta mayor a realizar cualquier acto que ponga en riesgo su persona, bienes o derechos, y
 
-III.- Abstenerse de forzar al senescente a realizar actos de mendicidad, que atenten a su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física o mental.
+III.- Abstenerse de forzar a la persona adulta mayor a realizar actos de mendicidad, que atenten a su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física o mental.
 
 ### CAPÍTULO VIII. DEL EMPLEO Y LA CAPACITACIÓN
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 34.
 
-Los senescentes tienen derecho a seguir siendo parte activa de la sociedad y en consecuencia a recibir de ella la oportunidad de ser ocupados en actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad, sin más restricción que sus limitaciones físicas o mentales, declaradas por autoridad competente.
+Las personas adultas mayores tienen derecho a seguir siendo parte activa de la sociedad y en consecuencia a recibir de ella la oportunidad de ser ocupados en actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad, sin más restricción que sus limitaciones físicas o mentales, declaradas por autoridad competente.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 35.
 
-De conformidad con las leyes aplicables, los senescentes podrán continuar trabajando y decidirán libremente el momento en el que deseen iniciar los trámites de jubilación, sin que para ello influya su edad cronológica.
+De conformidad con las leyes aplicables, las personas adultas mayores podrán continuar trabajando y decidirán libremente el momento en el que deseen iniciar los trámites de jubilación, sin que para ello influya su edad cronológica.
 
 De igual forma, sus actividades laborales, serán siempre acordes a sus aptitudes y capacidad física y mental, debiendo abstenerse de asignarles trabajos denigrantes o disminuirles el salario.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 36.
 
-En caso de que los senescentes no puedan alcanzar los beneficios de una jubilación o los relativos al logro de una atención por vejez o cesantía, consignados en nuestras leyes, por no satisfacer requisitos de tiempo o los de cumplir con determinado número de aportaciones, según el caso, la empresa o patrón que utilice sus servicios, en la medida de sus posibilidades y atendiendo a su capacidad, procurará ubicarlos en labores acordes a su edad.
+En caso de que las personas adultas mayores no puedan alcanzar los beneficios de una jubilación o los relativos al logro de una atención por vejez o cesantía, consignados en nuestras leyes, por no satisfacer requisitos de tiempo o los de cumplir con determinado número de aportaciones, según el caso, la empresa o patrón que utilice sus servicios, en la medida de sus posibilidades y atendiendo a su capacidad, procurará ubicarlos en labores acordes a su edad.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 37.
 
-El Organismo establecerá programas de capacitación y empleo, dirigidos a los senescentes.
+El SEDIF y los SMDIF establecerán programas de capacitación y empleo, dirigidos a las personas adultas mayores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO IX. DE LA ATENCIÓN A LOS ADULTOS MAYORES
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 38.
 
-Las Dependencias y Entidades de la Administración Pública Estatal, en los ámbitos de su competencia, observarán y promoverán los derechos de los Adultos Mayores.
+Las Dependencias y Entidades de la Administración Pública Estatal, en los ámbitos de su competencia, observarán y promoverán los derechos de las personas adultas mayores.
 
-En las Dependencias y Entidades de la Administración Pública Estatal en las que se realicen trámites y procedimientos administrativos, se procurará la atención preferente de los Adultos Mayores, debiendo implementar mecanismos que permitan a éstos realizar sugerencias o quejas para hacer eficientes los trámites respectivos.
+En las Dependencias y Entidades de la Administración Pública Estatal en las que se realicen trámites y procedimientos administrativos, se procurará la atención preferente de las personas adultas mayores, debiendo implementar mecanismos que permitan a éstas realizar sugerencias o quejas para hacer eficientes los trámites respectivos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 39.
 
-Las oficinas de la Administración Pública Estatal donde se presten servicios al público, establecerán mecanismos para la efectiva atención de los Adultos Mayores, incluyendo aquellos que aclaren y especifiquen la atención preferente, y en su caso, la adaptación de dichas oficinas.
+Las oficinas de la Administración Pública Estatal y Municipal donde se presten servicios al público, establecerán mecanismos para la efectiva atención de las personas adultas mayores, incluyendo aquéllos que aclaren y especifiquen la atención preferente, y en su caso, la adaptación de dichas oficinas.
 
 ## TRANSITORIOS
 
@@ -458,3 +530,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En todas las disposiciones de la presente Ley que se mencione "Organismo", se entenderá como el Instituto de Adultos Mayores del Estado de Puebla, en virtud del Decreto publicado en el Periódico Oficial del Estado el 21 de julio de 2004.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
