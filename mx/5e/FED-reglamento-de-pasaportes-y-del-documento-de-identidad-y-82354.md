@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-pasaportes-y-del-documento-de-identidad-y-82354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-05"
-last_updated: "2013-08-21"
+last_updated: "2015-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82354&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-07-29"
 
 REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 5 de agosto de 2011.
 
@@ -153,13 +153,29 @@ II. Entregar la solicitud de pasaporte debidamente requisitada y firmada. La sol
 
 III. Cubrir el pago correspondiente en los términos previstos en la Ley Federal de Derechos;
 
-IV. Presentar dos fotografías tamaño pasaporte sin lentes, cabeza descubierta, de frente, a color con fondo blanco y que haya sido tomada hasta 30 días antes de presentar la solicitud de expedición de pasaporte;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. Acreditar la nacionalidad mexicana mediante la entrega de alguno de los siguientes documentos:
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
-a) Copia certificada del acta de nacimiento expedida por la oficina del registro civil mexicano, tomando en consideración lo dispuesto por el artículo 15 del presente Reglamento;
+IV. Permitir ser fotografiado con los dispositivos de la Secretaría. En su caso, la fotografía deberá tomarse de frente, con la cabeza descubierta, sin lentes, a color y con el fondo blanco.
 
-b) Copia certificada del acta de nacimiento expedida por las oficinas consulares;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+V. Acreditar la nacionalidad mexicana mediante la entrega en original o copia certificada de alguno de los siguientes documentos:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+a) Acta de nacimiento expedida por la oficina del registro civil mexicano, tomando en consideración lo dispuesto por el artículo 15 del presente Reglamento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+b) Acta de nacimiento expedida por las oficinas consulares;
 
 c) Certificado de nacionalidad mexicana;
 
@@ -173,13 +189,23 @@ g) Certificado de Matrícula Consular a que se refiere el artículo 3, fracción
 
 A falta de los documentos probatorios mencionados en los incisos anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la Ley de Nacionalidad, lleve a la Secretaría a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
 
-En el caso de los documentos señalados en los incisos c) a g) de la presente fracción, se deberá entregar original y copia para su compulsa, devolviéndose el original al interesado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+Las documentales señaladas en los incisos c) a g) de la presente fracción, deberán devolverse al solicitante.
 
 En el extranjero, el interesado podrá presentar aquellos otros documentos que la práctica consular permita.
 
-VI. Acreditar su identidad, presentando original y copia de alguno de los siguientes documentos oficiales con fotografía, cuyos datos deberán concordar fielmente con los del documento con el que esté acreditando la nacionalidad. Se deberá entregar original y copia para su compulsa, devolviéndose el original al interesado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-a) Credencial para votar expedida por el Instituto Federal Electoral;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+VI. Acreditar su identidad, presentando original de alguno de los siguientes documentos oficiales con fotografía, cuyos datos deberán concordar fielmente con los del documento con el que esté acreditando la nacionalidad:
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+a) Credencial para votar expedida por el Instituto Nacional Electoral;
 
 b) Cartilla de Identidad del Servicio Militar Nacional Liberada;
 
@@ -197,7 +223,17 @@ A falta de las identificaciones mencionadas en la presente fracción el interesa
 
 En el extranjero, el interesado podrá presentar aquellos otros documentos probatorios que la práctica consular permita.
 
-Sin perjuicio de lo antes citado, en aquellos casos en que la documentación o información presentada tenga inconsistencias o irregularidades, la Secretaría verificará su autenticidad ante la autoridad emisora y podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad e identidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+La documentación mencionada en la fracción VI de este artículo será devuelta al interesado, a reserva de que la Secretaría determine ejercer la atribución prevista en el siguiente párrafo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+Sin perjuicio de lo previsto en el párrafo anterior, en aquellos casos en que del análisis de la documentación o información presentada a la que se refiere el presente artículo, o del resultado de la entrevista realizada al solicitante, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas, ante la autoridad emisora de éstas; además podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad e identidad.
 
 ###### ARTÍCULO 15.
 
@@ -237,11 +273,23 @@ I. Comparecer personalmente en compañía de la persona menor de edad ante las o
 
 II. Entregar la solicitud de pasaporte debidamente requisitada;
 
-III. Acreditar la nacionalidad mexicana de la persona menor de edad, mediante la entrega de alguno de los siguientes documentos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-a) Copia certificada del acta de nacimiento expedida por la oficina del registro civil mexicano;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2015)</small>
 
-b) Copia certificada del acta de nacimiento expedida por las oficinas consulares;
+III. Acreditar la nacionalidad mexicana de la persona menor de edad, mediante la entrega en original o copia certificada de alguno de los siguientes documentos:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+a) Acta de nacimiento expedida por la oficina del registro civil mexicano;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+b) Acta de nacimiento expedida por las oficinas consulares;
 
 c) Carta de naturalización, o
 
@@ -249,11 +297,19 @@ d) Certificado de Matrícula Consular a que se refiere el artículo 3, fracción
 
 A falta de los documentos probatorios mencionados en los incisos anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la Ley de Nacionalidad, lleve a la Secretaría a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
 
-En el caso de los documentos señalados en los incisos c) y d) de la presente fracción, se deberá entregar original y copia para su compulsa, devolviéndose a los padres o quien o quienes ejerzan la patria potestad o tutela, el original del documento. Tratándose de los incisos a) y b) se entregará copia certificada y copia fotostática.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+En el caso de las documentales señaladas en los incisos c) y d) de la presente fracción, se devolverán a los padres o quien o quienes ejerzan la patria potestad o tutela.
 
 Cuando el registro de nacimiento de la persona menor de edad haya sido realizado con posterioridad a un año a aquél en que tuvo lugar, los padres o quien o quienes ejerzan la patria potestad o tutela deberán cumplir con lo dispuesto por el artículo 15 del presente Reglamento.
 
-IV. Acreditar su identidad con cualquiera de los documentos señalados en el artículo 14, fracción VI, así como la de la persona menor de edad, con alguno de los siguientes documentos oficiales con fotografía, cuyos datos deberán concordar fielmente con los del documento con el que se esté acreditando la nacionalidad y filiación:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+IV. Acreditar su identidad con cualquiera de los documentos señalados en el artículo 14, fracción VI, así como la de la persona menor de edad, con alguno de los siguientes documentos oficiales en original y con fotografía, cuyos datos deberán concordar fielmente con los del documento con el que se esté acreditando la nacionalidad y filiación:
 
 a) Certificado escolar de educación primaria, secundaria, de bachillerato o su equivalente;
 
@@ -271,13 +327,27 @@ g) En el extranjero, y exclusivamente para las personas menores de 7 años, a fa
 
 h) Cualquier otro medio de prueba que a juicio de la Secretaría u oficina consular acredite la identidad de los solicitantes, mismos que serán reguladas en disposiciones administrativas con fundamento en el artículo 1 del presente Reglamento.
 
-V. Presentar dos fotografías tamaño pasaporte sin lentes, cabeza descubierta, de frente, a color con fondo blanco y que haya sido tomada hasta 30 días antes de presentar la solicitud de expedición de pasaporte;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+V. Permitir que la persona menor de edad sea fotografiada con los dispositivos de la Secretaría. En su caso, la fotografía deberá tomarse de frente, con la cabeza descubierta, sin lentes, a color y con el fondo blanco.
 
 VI. Cubrir el pago correspondiente en los términos previstos en la Ley Federal de Derechos, y
 
 VII. Otorgar su consentimiento conforme lo disponen los artículos siguientes.
 
-Sin perjuicio de lo antes citado, en aquellos casos en que la documentación o información presentada tenga inconsistencias o irregularidades, la Secretaría verificará su autenticidad ante la autoridad emisora y podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad e identidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+La documentación mencionada en la fracción IV, con excepción de los incisos b) y f) de este artículo será devuelta al interesado, a reserva de que la Secretaría determine ejercer la atribución prevista en el siguiente párrafo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+Sin perjuicio de lo previsto en el párrafo anterior, en aquellos casos en que del análisis de la documentación o información presentada a la que se refiere el presente artículo, o del resultado de la entrevista realizada a los solicitantes, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas ante la autoridad emisora de éstas; además podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad, identidad y filiación.
 
 ###### ARTÍCULO 19.
 
@@ -357,7 +427,7 @@ El pasaporte ordinario tendrá una vigencia de 1, 3, 6 ó 10 años.
 
 I. Será de 1 año en los siguientes casos:
 
-a) Para los menores de 3 años de edad;
+a) (DEROGADO, D.O.F. 3 DE MARZO DE 2015)
 
 b) Para las personas que requieran atención médica de urgencia fuera de territorio nacional debidamente justificada ante la Secretaría y que no puedan cumplir con alguno de los requisitos señalados en el presente Reglamento. Asimismo, la urgencia médica podrá ser invocada por el solicitante si quien requiere la atención médica es su cónyuge o conviviente, concubina, concubinario o un pariente consanguíneo en línea recta ascendente o descendente y colateral hasta el segundo grado, y
 
@@ -366,6 +436,10 @@ c) Para los interesados que no puedan cumplir con algún requisito señalado en 
 En los supuestos antes citados, el pasaporte expedido podrá ser renovado cumpliendo con los requisitos establecidos en el artículo 14 y, en su caso, en los artículos 15, 18 al 27 del presente Reglamento, para lo cual se deberá presentar el pasaporte emitido bajo alguna de las circunstancias previstas en esta fracción.
 
 El pasaporte ordinario podrá tener una vigencia menor a un año cuando así lo determine la autoridad judicial competente.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+I Bis. Será de 1 ó 3 años para los menores de 3 años de edad;
 
 II. Será de 3 ó 6 años para los interesados de 3 años y menores de 18 años de edad, y
 
@@ -401,15 +475,19 @@ Para renovar un pasaporte ordinario los interesados mayores de edad deberán cum
 
 En el caso de las personas menores de edad, los padres o quien o quienes ejerzan la patria potestad o tutela deberán cumplir con los requisitos establecidos en el artículo 18 y, en su caso, con los establecidos en los artículos 19 a 27 del presente Reglamento.
 
-El documento que se presente para acreditar la filiación de la persona menor de edad será en términos del artículo 18, fracción III y deberá exhibirse en original y copia para su compulsa, devolviéndose el original al interesado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+El documento que se presente para acreditar la filiación de la persona menor de edad será en términos del artículo 18, fracción III y deberá exhibirse en original o copia certificada, devolviéndose al interesado.
 
 Con excepción de lo dispuesto en la fracción V del artículo anterior, el solicitante deberá entregar el pasaporte que se pretenda renovar a la Secretaría o a la oficina consular. Dicho pasaporte deberá ser cancelado, inutilizado y devuelto al interesado.
 
 El pasaporte que se presente para su renovación servirá para acreditar plenamente la nacionalidad e identidad del interesado, excepto en los casos en que exista variación de alguno o algunos de los datos personales.
 
-> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
 
-Sin perjuicio de lo anterior, en aquellos casos en que la documentación o información presentada tenga inconsistencias o irregularidades, la Secretaría verificará su autenticidad ante la autoridad emisora y podrá requerir al solicitante información y documentación adicional que demuestre fehacientemente su nacionalidad e identidad.
+Sin perjuicio de lo previsto en los párrafos anteriores de este artículo, en aquellos casos en que del análisis de la documentación o información presentada a la que se refiere el presente artículo, o del resultado de la entrevista realizada a los solicitantes, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas ante la autoridad emisora de éstas; además podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad, identidad y filiación.
 
 ###### ARTÍCULO 31.
 
@@ -429,15 +507,23 @@ Si derivado de un error o variación de alguno o algunos de los datos personales
 
 Los pasaportes oficiales se expedirán a las siguientes personas:
 
-I. Senadores y Diputados del Congreso de la Unión, que viajen en comisión oficial al extranjero;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+I. Senadores y Diputados del Congreso de la Unión;
 
 II. Consejeros de la Judicatura Federal, Magistrados de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, Magistrados y Jueces Federales, que viajen en comisión oficial al extranjero;
 
-III. Titulares de las entidades paraestatales de la Administración Pública Federal, que viajen al extranjero en comisión oficial;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
-IV. Servidores públicos de la Presidencia de la República y de las dependencias de la Administración Pública Federal, que tengan el rango mínimo de director general o equiparable, que viajen al extranjero en comisión oficial y cuando la naturaleza de la misma lo justifique;
+III. Titulares de las entidades paraestatales de la Administración Pública Federal, incluyendo las empresas productivas del Estado, que viajen al extranjero en comisión oficial;
 
-V. Servidores públicos de las secretarías de Relaciones Exteriores, de la Defensa Nacional, de Marina, de Seguridad Pública, así como los servidores públicos de la Procuraduría General de la República y del Estado Mayor Presidencial, sin distinción de rango, que viajen al extranjero en comisión oficial y cuando la naturaleza de la misma lo justifique, y
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+IV. Servidores públicos de las dependencias y entidades de la Administración Pública Federal, o de los organismos constitucionales autónomos, que tengan el rango mínimo de director de área o equiparable, que viajen al extranjero en comisión oficial y cuando la naturaleza de la misma lo justifique;
+
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+V. Servidores públicos de la Presidencia de la República, de las secretarías de Relaciones Exteriores, de la Defensa Nacional, de Marina y de Gobernación, así como los servidores públicos de la Procuraduría General de la República y del Estado Mayor Presidencial, sin distinción de rango, que viajen al extranjero en comisión oficial y cuando la naturaleza de la misma lo justifique, y
 
 VI. Servidores públicos que no se ubiquen en los supuestos de las fracciones anteriores y que deban viajar al extranjero en comisión oficial, cuando la naturaleza de la misma implique la representación del Estado Mexicano ante un foro extranjero, internacional o la participación de la Nación en emergencias o conflictos que recaigan en el ámbito de la cooperación internacional para el desarrollo.
 
@@ -449,11 +535,13 @@ En caso de nombramientos de mexicanos que desempeñen un cargo de tipo honorario
 
 La solicitud para la expedición del pasaporte oficial deberá formularse:
 
-I. Por el Secretario General de la Cámara correspondiente, en el caso de Senadores y Diputados del Congreso de la Unión y por el Consejo de la Judicatura Federal, en el caso de los integrantes del Poder Judicial de la Federación, y
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+I. Por el Secretario General de la Cámara correspondiente, en el caso de Senadores y Diputados del Congreso de la Unión y por el Oficial Mayor del Consejo de la Judicatura Federal, en el caso de los integrantes del Poder Judicial de la Federación, y
 
-II. Por el Coordinador General de Administración de la Presidencia de la República; por el Subjefe Administrativo del Estado Mayor Presidencial; por el Oficial Mayor de la dependencia o su equivalente en la entidad correspondiente, en el caso de los servidores públicos a que se refieren las fracciones III, IV, V y VI del artículo anterior.
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+II. Por el Coordinador General de Administración de la Presidencia de la República; por el Subjefe Operativo del Estado Mayor de la Secretaría de la Defensa Nacional; por el Subjefe Operativo del Estado Mayor General de la Armada de México; por el Subjefe Administrativo del Estado Mayor Presidencial; por el Oficial Mayor de la dependencia o su equivalente en la entidad correspondiente, en el caso de los servidores públicos a que se refieren las fracciones III, IV, V y VI del artículo anterior.
 
 En los casos de las fracciones III, IV, V y VI del artículo anterior, la solicitud deberá señalar la justificación y naturaleza de la comisión, duración de la misma y el país o países que visitará.
 
@@ -469,11 +557,15 @@ Concluida la comisión o cuando el servidor público deje su encargo, el pasapor
 
 #### SECCIÓN TERCERA. DE LA VIGENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 36.
 
-La vigencia del pasaporte oficial será de 2 años, salvo para los Senadores y Diputados, en cuyo caso, la vigencia será equivalente a la duración del encargo.
+La vigencia del pasaporte oficial será de 3 años, salvo para los Senadores y Diputados, en cuyo caso, la vigencia será equivalente a la duración del encargo.
 
-Para los casos de la fracción VI del artículo 33, el pasaporte tendrá una vigencia limitada a la duración de la comisión y no podrá ser mayor a un año.
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+Para los casos de la fracción VI del artículo 33, el pasaporte tendrá una vigencia limitada a la duración de la comisión y no podrá ser mayor a 2 años.
 
 La renovación del pasaporte oficial se realizará en función de la duración del encargo, previo cumplimiento de lo dispuesto en el artículo 29 y 30 y, en su caso, los artículos 31 y 32 del presente Reglamento, además de acreditar el nombramiento correspondiente.
 
@@ -495,7 +587,9 @@ IV. Ministros de la Suprema Corte de Justicia de la Nación y Magistrados de la 
 
 V. Gobernadores de los Estados y Jefe de Gobierno del Distrito Federal;
 
-VI. Secretarios de Estado y Consejero Jurídico del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+VI. Secretarios y Subsecretarios de Estado, así como al Consejero Jurídico del Ejecutivo Federal;
 
 VII. Procurador General de la República;
 
@@ -503,9 +597,13 @@ VII. Procurador General de la República;
 
 VIII. Jefe de la Oficina de la Presidencia, Secretario Particular y Coordinador de Asesores del Presidente de los Estados Unidos Mexicanos, Coordinador de Comunicación Social de la Presidencia de la República, Secretario Técnico del Consejo de Seguridad Nacional, y Jefe del Estado Mayor Presidencial;
 
-IX. Subsecretarios, Oficial Mayor, Consultor Jurídico, Jefes de Unidad, Directores Generales y Directores Generales Adjuntos de la Secretaría;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
-X. Titulares o quienes presidan Organismos Constitucionales Autónomos;
+IX. Oficial Mayor, Consultor Jurídico, Jefes de Unidad, Directores Generales y Directores Generales Adjuntos de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+X. Titulares o quienes presidan organismos constitucionales autónomos, así como quienes integren sus órganos superiores de dirección u órganos máximos de gobierno, independientemente de la denominación que tengan;
 
 XI. Miembros del Servicio Exterior Mexicano;
 
@@ -565,15 +663,21 @@ La vigencia del pasaporte diplomático será la siguiente:
 
 I. En los casos de los servidores públicos mencionados en las fracciones I, III a la X y a sus familiares y dependientes económicos mencionados en la fracción XIV del artículo 37 del presente Reglamento, tendrá una vigencia equivalente a la duración de su encargo, la cual no será mayor a 6 años;
 
-> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
-I Bis. En los casos de las personas mencionadas en las fracciones XIII Bis y XVI del artículo 37 del presente Reglamento, tendrá una vigencia máxima de 1 año;
+I Bis. En el caso de las personas mencionadas en la fracción XIII Bis del artículo 37 del presente Reglamento, tendrá una vigencia de hasta 3 años, pero no podrá rebasar el periodo que corresponda a la duración de su encargo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+I Ter. En el caso de las personas mencionadas en la fracción XVI del artículo 37 del presente Reglamento, tendrá una vigencia de hasta 2 años;
 
 II. En los casos de las personas mencionadas en las fracciones II, XII y XIII y a sus familiares y dependientes económicos mencionados en la fracción XIV del artículo 37 del presente Reglamento, será de hasta 6 años, y
 
 III. Para los servidores públicos contemplados en la fracción XI y sus familiares y dependientes económicos mencionados en las fracciones XIV y XV del artículo 37 del presente Reglamento, será hasta de 4 años.
 
-En todos los casos, tratándose de menores de tres años la vigencia del pasaporte diplomático será de 1 año.
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+En todos los casos, tratándose de menores de 3 años de edad, la vigencia del pasaporte diplomático será de 3 años.
 
 La renovación del pasaporte diplomático se realizará en función de la duración del encargo, previo cumplimiento de lo dispuesto en los artículos 29 al 32 del presente Reglamento, además de acreditar el nombramiento correspondiente en el caso de las personas mencionadas en el artículo 37 con excepción de la fracción II.
 
@@ -641,15 +745,33 @@ Independientemente de las acciones que conforme a derecho correspondan, la Secre
 
 I. A quien intente obtener un pasaporte o documento de identidad y viaje en contravención con las disposiciones del presente Reglamento;
 
-II. A quien presente ante la Secretaría información y documentos falsos, previa verificación con la autoridad competente;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
-III. Cuando alguna de las personas que ejerce la patria potestad sobre una persona menor de edad, manifieste su temor de que otro, pretenda sustraer del país a la persona menor de edad sin su consentimiento;
+II. A quien presente ante la Secretaría información o documentos falsos, previa verificación con la autoridad competente;
 
-IV. A quien haya obtenido un pasaporte mexicano o documento de identidad y viaje con documentos o información falsa, y
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
-V. A quien sea solicitado en extradición internacional.
+III. Cuando alguna de las personas que ejerce la patria potestad sobre una persona menor de edad, o tutela sobre una persona mayor de edad, exponga su temor de que otro pretenda sustraerlo del país sin su consentimiento;
 
-Se procederá a la baja del impedimento administrativo cuando las causas que lo originaron dejen de subsistir.
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+IV. A quien haya obtenido un pasaporte mexicano o documento de identidad y viaje con documentos o información falsa;
+
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+V. A quien sea solicitado en extradición internacional;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+VI. A quien alguna autoridad judicial o administrativa, solicite se le restrinja la expedición o renovación de pasaporte o se impida la salida del territorio nacional, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2015)</small>
+
+VII. A quien intente o haya obtenido pasaporte o documento de identidad y viaje usurpando la identidad de otra persona u ostentando una nacionalidad que no le corresponde.
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+
+Se procederá a la baja del impedimento cuando las causas que lo originaron dejen de subsistir y el interesado acredite fehacientemente su nacionalidad, identidad y, en su caso, filiación, en términos de lo establecido en el presente Reglamento.
 
 ## TRANSITORIOS
 
@@ -676,3 +798,19 @@ D.O.F. 21 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las erogaciones que, en su caso, sean necesarias para cumplir con la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado de la Secretaría de Relaciones Exteriores, por lo que no requerirá de recursos adicionales para tales efectos y no incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
+
+D.O.F. 3 DE MARZO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación, a excepción de lo previsto en el artículo siguiente.
+
+SEGUNDO.- Para los trámites y servicios que la Secretaría efectúa a través de las Oficinas de Enlace, entrarán en vigor a partir del día 1 de octubre de 2015 las siguientes reformas y adiciones previstas en el presente Decreto:
+
+a) Las reformas a las fracciones IV, V, primer párrafo, incisos a) y b), y tercer párrafo, y VI, primer párrafo. La adición de un segundo párrafo, recorriendo en su orden el actual segundo párrafo para ser tercero, todos del artículo 14;
+
+b) Las reformas a las fracciones III, primer párrafo, incisos a) y b), y tercer párrafo, IV, primer párrafo, y V. La adición de un segundo párrafo recorriendo en su orden el actual segundo párrafo para ser tercero, todos del artículo 18, y
+
+c) La reforma del tercer párrafo del artículo 30.
+
+TERCERO.- Las erogaciones que sean necesarias para cumplir con la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado de la Secretaría de Relaciones Exteriores, por lo que no requerirá de recursos adicionales para tales efectos y no incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
+
+CUARTO.- Las credenciales para votar con fotografía emitidas válidamente por el Instituto Federal Electoral, surtirán todos sus efectos legales, por lo que, para realizar los trámites previstos en el presente Reglamento, se mantendrán vigentes hasta la fecha de su vencimiento, conforme a lo previsto en el artículo vigésimo primero transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, así como en el artículo octavo transitorio de la Ley General de Instituciones y Procedimientos Electorales, publicada en el Diario Oficial de la Federación el 23 de mayo de 2014.
