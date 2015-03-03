@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2014-12-19"
+last_updated: "2015-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -825,7 +825,7 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE OCTUBRE DE 2010)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE OCTUBRE DE 2010)
 
 ### CAPÍTULO VIII. DE LA PROTECCIÓN SOCIAL EN SALUD
 
@@ -873,9 +873,11 @@ Para el ejercicio de actividades técnicas y auxiliares que requieran conocimien
 
 Las autoridades educativas del Estado proporcionarán a las autoridades sanitarias estatales la relación de títulos, diplomas y certificados del área de la salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria sobre la materia que sea necesaria. En el caso en que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+
 ###### Artículo 74.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional.Iguales (sic) menciones deberán considerarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares, y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán considerarse en los documentos, receta médica y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
 
 ### CAPITULO UNICO
 
@@ -1089,13 +1091,17 @@ La educación para la salud tiene por objeto:
 
 I. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y proteger de los riesgos que pongan en peligro su salud;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
 
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, así como medidas de adaptación a los efectos del cambio climático; y
+II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgo de automedicación, prevención del alcoholismo, tabaquismo, farmacodependencia y otras adicciones a sustancias psicoactivas, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2015)</small>
+
+IV. Recomendar a la población actividades físicas, de salud nutricional e insumos para la salud, para desacelerar las tendencias de enfermedades crónico degenerativas con base en los datos que se deberán incluir en las recetas médicas tales como edad, peso, talla, circunferencia de cintura e índices de masa corporal.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -1409,7 +1415,7 @@ Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1863,29 +1869,25 @@ VI. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 156.
 
-La Secretaría de Salud del Estado ejercerá la vigilancia y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas de cualquier tipo, de conformidad con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud del Gobierno Federal y las disposiciones de la Ley Estatal de Salud y la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza.
+La Secretaría de Salud del Estado ejercerá la vigilancia, control y promoverá el fomento sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas de cualquier tipo, de conformidad con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud del Gobierno Federal y las disposiciones de la Ley Estatal de Salud y la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+En materia de fomento sanitario la autoridad correspondiente exhortará a los establecimientos que expendan o suministren al público alimentos y bebidas de cualquier tipo, para lo siguiente:
 
-Las instituciones que tengan por objeto recibir la donación de alimentos y el suministro o distribución de los mismos con la finalidad de satisfacer las necesidades de nutrición y alimentación de los sectores vulnerables del Estado, quedan sujetas a control sanitario y, además de cumplir con lo establecido en esta Ley y demás disposiciones aplicables, deberán:
+a) Retirar la sal común, la cual solo podrá ser colocada a petición expresa del cliente; los establecimientos podrán ofrecer sal de bajo contenido en sodio o sustitutos de la misma;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+b) Colocar en lugares visibles información sobre las enfermedades provocadas por el alto consumo de sal; y
+
+c) Promover dentro de sus cortesías un vaso de agua natural purificada a la llegada de los comensales.
+
+Las instituciones públicas o privadas que tengan por objeto recibir la donación de alimentos y el suministro o distribución de los mismos con la finalidad de satisfacer las necesidades de nutrición y alimentación de los sectores vulnerables del Estado, quedan sujetas a control sanitario y, además de cumplir con lo establecido en esta Ley y demás disposiciones aplicables, deberán:
 
 I. Tener establecimientos que reúnan las condiciones sanitarias adecuadas para el manejo de alimentos;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
-
-II. Contar con personal capacitado y equipo para la conservación, análisis bacteriológico, manejo y transporte higiénico de alimentos;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+II. Contar con personal capacitado y equipo, que en su caso se requiera, para la conservación, análisis bacteriológico, manejo y transporte higiénico de alimentos;
 
 III. Realizar la distribución de los alimentos oportunamente, a fin de evitar su contaminación, alteración o descomposición, y
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
-
 IV. Adoptar las medidas de control sanitario, que en su caso, les señale la autoridad competente.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 Se considerará responsable exclusivo del suministro de alimentos que por alguna circunstancia se encuentren en estado de descomposición y que por esta razón causen un daño a la salud, a la persona o institución que hubiere efectuado su distribución.
 
@@ -2407,7 +2409,7 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
@@ -2831,7 +2833,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
 
 #### SECCIÓN ÚNICA. DELITOS
 
@@ -3168,3 +3170,9 @@ En un plazo no mayor a un año, posterior a la publicación del presente decreto
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 3 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
