@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-02-05"
+last_updated: "2015-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1655,7 +1655,7 @@ II. Los hijos de los padres trabajadores viudos;
 
 III. Los hijos de los padres trabajadores divorciados que tengan la custodia exclusiva por resolución judicial; y
 
-IV. Los menores que estén bajo la custodia de mujer trabajadora casada o soltera, o bien, hombre trabajador soltero, que por resolución judicial ejerza la tutoría.
+IV. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
 ###### Artículo 130.
 
@@ -1669,11 +1669,7 @@ Este servicio no podrá ser proporcionado a las personas contratadas bajo el ré
 
 ###### Artículo 132.
 
-Los servidores públicos que se encuentren en los supuestos de las fracciones III y IV del artículo 129 de este Acuerdo, deberán acreditar su situación legal con la exhibición de copia certificada y simple de la resolución judicial respectiva.
-
-La prestación del servicio se suspenderá cuando por resolución judicial los servidores públicos a que se refiere el párrafo anterior pierdan la custodia o la tutoría.
-
-El padre trabajador viudo, a que se refiere la fracción II del artículo 129 de este Acuerdo, acreditará su situación con la exhibición de copia certificada del acta de defunción del cónyuge, expedida por el Registro Civil.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
 ###### Artículo 133.
 
@@ -1693,7 +1689,7 @@ Los servidores públicos que soliciten el ingreso de sus hijos a un CENDI deber�
 
 ###### Artículo 137.
 
-Los servidores públicos que soliciten el ingreso de un infante con capacidades diferentes deberán presentar un dictamen emitido por médico especialista en el que se especifique el grado de discapacidad y los recursos mínimos indispensables para su atención. El Director del CENDI valorará la información proporcionada para determinar si se cuenta con los medios adecuados para la atención e integración del infante al CENDI, y la resolución que se adopte será informada por escrito al servidor público solicitante.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
 ###### Artículo 138.
 
@@ -2057,7 +2053,7 @@ El Director del CENDI verificará que se integre y se resguarde la documentació
 
 El servidor público que no cumpla con los requisitos previstos en los artículos 192, 193 y 194 de este Acuerdo no podrá solicitar la reinscripción.
 
-Tampoco será factible autorizar la reinscripción en el caso de que el servidor público se encuentre sancionado con una suspensión definitiva del servicio público o cuando se diagnostique que el infante requiere de atención educativa, psicológica o médica especializada y el CENDI no cuente con los recursos para su adecuada atención.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA TERCERA. OBLIGACIONES DEL PERSONAL
 
@@ -2147,7 +2143,7 @@ II. Entregar los útiles y enseres diarios necesarios que le sean requeridos pre
 
 III. Actualizar sus datos personales, laborales y la vigencia de sus credenciales de autorización al inicio de cada ciclo escolar o cuando le sean requeridos;
 
-IV. Abstenerse de llevar al infante al CENDI cuando presente síntomas de padecimiento transmisible o incapacitante;
+IV. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
 V. Presentar al servicio médico, cada seis meses, el resultado de los exámenes de laboratorio que se solicite practicar a los infantes;
 
@@ -2241,7 +2237,7 @@ IV. Cuando el servidor público no presente los materiales y artículos para el 
 
 V. Cuando el servidor público presente al infante con alimentos no autorizados, juguetes u objetos de valor;
 
-VI. Cuando el servidor público solicite al personal cuidados especiales para el infante;
+VI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
 VII. Cuando el servidor público no atienda los requerimientos y acate las medidas disciplinarias y recomendaciones que le formulen el Director del CENDI y su personal;
 
@@ -2259,9 +2255,9 @@ XII. Cuando el servidor público no cumpla con lo dispuesto en el artículo 145 
 
 Serán motivo de suspensión por causas de salud:
 
-I. Cuando el infante presente alguna enfermedad transmisible o crónica, o algún padecimiento físico o mental que requiera de atención especializada de acuerdo con el reporte que efectúe el médico o el psicólogo del CENDI;
+I. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
-II. Cuando el infante tenga un hermano en el CENDI que sea suspendido conforme a las fracciones I y IV de este artículo;
+II. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
 III. Cuando el servidor público muestre una actitud negligente y poco cooperadora durante la aplicación de un programa o tratamiento que haya sido indicado por el médico o psicólogo del CENDI para resolver algún problema que presente el infante;
 
@@ -2291,7 +2287,7 @@ V. Se compruebe que la documentación proporcionada por el servidor público al 
 
 VI. El servidor público altere u omita información requerida por el CENDI para la prestación del servicio;
 
-VII. El servidor público divorciado, viudo o tutor pierda la custodia o tutoría del infante;
+VII. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015);
 
 VIII. El servidor público o las personas autorizadas para recoger al infante se presenten en estado de ebriedad o bajo los efectos de algún enervante o tóxico;
 
@@ -2299,7 +2295,7 @@ IX. El servidor público o las personas autorizadas para recoger al infante agre
 
 X. Se compruebe que el servidor público otorga gratificaciones al personal;
 
-XI. Cuando progrese la discapacidad de un infante y, previa valoración del médico pediatra o el psicólogo del CENDI, se advierta la imposibilidad del menor para integrarse adecuadamente a las actividades del grupo en el que se encuentre inscrito, por requerir atención especializada;
+XI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
 XII. Exista un trastorno emocional o de conducta que impida la integración del infante a las actividades del CENDI, y a pesar de seguir el tratamiento indicado por el médico especialista al cual haya sido canalizado, no manifieste mejora en su comportamiento, y tal circunstancia afecte el desarrollo del trabajo educativo del grupo; y
 
@@ -4843,7 +4839,7 @@ Los contratos celebrados en la materia objeto de este Capítulo podrán darse po
 
 I. Por cumplimiento de su objeto;
 
-lI. Por nulidad;
+II. Por nulidad;
 
 III. Por rescisión;
 
@@ -9845,9 +9841,7 @@ Corresponde al Presidente de cada Unidad Interna de Protección Civil:
 
 I. Presidir las sesiones de la Unidad;
 
-II. Representar a la Unidad a su cargo ante la Dirección General de Protección Civil y Salud
-
-en el Trabajo;
+II. Representar a la Unidad a su cargo ante la Dirección General de Protección Civil y Salud en el Trabajo;
 
 III. Presentar a la Dirección General de Protección Civil y Salud en el Trabajo, durante el mes de febrero de cada año, el Programa Interno de Protección Civil y Planes de Emergencia Específicos del o los inmuebles a su cargo, para su aprobación, previo visto bueno de la Unidad Interna, asimismo, en los inmuebles en los que se ubiquen Centros de Desarrollo Infantil, el Presidente de la Unidad Interna deberá integrar el Programa Interno de dicho Centro al Programa Interno de Protección Civil del inmueble a su cargo, mismos que se presentarán a la Dirección General de Protección Civil y Salud en el Trabajo para su aprobación y en su caso, la asesoría técnica especializada correspondiente;
 
@@ -10328,3 +10322,13 @@ QUINTO. La Dirección General de Tecnologías de la Información deberá realiza
 En relación a las autoridades usuarias de la Ventana Electrónica de Trámite por la cual se realizan en línea las solicitudes de cateos, arraigos e intervención de comunicaciones, éstas podrán seguir utilizando la firma electrónica denominada FESE con la que actualmente cuentan; sin embargo, en el supuesto que, por cualquier motivo, requieran que se les emita una nueva, deberán tramitar la FIREL.
 
 En aquellos casos en que por razones técnicas no sea posible obtener la FIREL, se podrán expedir a dichas autoridades y a los servidores públicos de los tribunales de Circuito y juzgados de Distrito, así como del Consejo de la Judicatura Federal, provisionalmente, certificados digitales de firma electrónica, de acuerdo al procedimiento que establezca para tal efecto la Unidad para el Control de Certificación de Firmas y las especificaciones técnicas que ésta determine; sin perjuicio de que se tramite la FIREL en cuanto concluyan las causas que dieron origen a la expedición de dichos certificados.
+
+D.O.F. 4 DE MARZO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que dentro de los quince días hábiles siguientes a la aprobación del presente Acuerdo, someta a la consideración del Pleno del Consejo de la Judicatura Federal las adecuaciones al Capítulo Cuarto, intitulado “Centros de Desarrollo Infantil”, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
+
+CUARTO. En tanto el Pleno del Consejo de la Judicatura Federal apruebe las adecuaciones a que se refiere el transitorio tercero de este acuerdo, cualquier cuestión relacionada con la atención de los centros de desarrollo infantil será planteada a través de la Dirección General de Servicios Médicos y Desarrollo Infantil, y resuelta por la Dirección General de la Presidencia, previo acuerdo con el Presidente del Consejo de la Judicatura Federal.
