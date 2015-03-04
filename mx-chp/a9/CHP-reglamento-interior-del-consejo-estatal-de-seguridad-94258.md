@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-estatal-de-seguridad-94258"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2015-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de marzo de 2013.
 
@@ -221,7 +223,7 @@ VIII. Proponer y asesorar al Secretario Ejecutivo, sobre las normas, políticas 
 
 IX. Vigilar que se ejecuten con eficiencia las actividades técnicas, administrativas y financieras de los Órganos Administrativos a su cargo.
 
-X. Vigilar el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones relacionadas con el funcionamiento y los servicios encomendados a los Órgano (sic) Administrativo (sic) a su cargo.
+X. Vigilar el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones relacionadas con el funcionamiento y los servicios encomendados a los Órgano Administrativo (sic) a su cargo.
 
 XI. Proponer y participar en la organización de cursos de capacitación y conferencias, en el ámbito de su competencia, que se impartan al personal de los Órganos Administrativos a su cargo.
 
@@ -498,3 +500,23 @@ Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8° de la L
 Dado en el Salón de Sesiones de la Junta de Gobierno del Consejo Estatal de Seguridad Pública, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 21 días del mes de noviembre del año 2012 dos mil doce.
 
 Integrantes de la Junta de Gobierno: Presidente: Héctor Luna García, Secretario Particular del Ejecutivo Estatal y Representante del Gobernador del Estado.- Secretario Técnico: Marcial Reyes Agustín Jefe de la Unidad de Apoyo Administrativo del Consejo Estatal de Seguridad Pública.- Vocales: L.A.E. Juan Antonio Castro Gasca, Asesor de la Secretaria General de Gobierno en Representación del C. Secretario General de Gobierno.- Lic. Pacífico Hugo Orantes Montes, Director de Organismos y Empresas Públicas en Representación del C. Secretario de Hacienda.- Moisés Grajales Monterrosa, Secretario de Seguridad y Protección Ciudadana.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MARZO DE 2015.
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Consejo Estatal de Seguridad Pública, de fecha 27 de marzo de 2013, publicado en el Periódico Oficial número 024, Tomo III, mediante Publicación número 065-A-2013.
+
+Artículo Tercero.- Para las cuestiones no previstas en el presente Reglamento Interior, y en los casos en que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario Ejecutivo resolverá lo conducente.
+
+Artículo Cuarto.- Los casos no previstos en el presente Reglamento Interior, respecto al funcionamiento de los órganos administrativos, el Secretario Ejecutivo resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización del Secretariado Ejecutivo, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario Ejecutivo resolverá las incidencias de procedimientos o de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- El Secretariado Ejecutivo, deberá establecer, controlar y evaluar el Programa Interno de Protección Civil pará el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
