@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-744
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-30"
-last_updated: "2011-01-19"
+last_updated: "2015-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de marzo de 2010.
 
@@ -1063,10 +1065,22 @@ LIC. EDUARDO OVANDO MARTÍNEZ
 
 La presente hoja forma parte integral del Reglamento Interior de la Secretaría de Gobierno del Estado de Quintana Roo, expedido el ocho de marzo de año dos mil diez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ENERO DE 2011.
 
 PRIMERO. Publíquese la presente reforma al Reglamento Interior de la Secretaría de Gobierno, en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. La presente reforma al Reglamento Interior de la Secretaría de Gobierno, comenzará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 4 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobierno, publicado en el Periódico Oficial del Estado el treinta de marzo del año dos mil diez, así como todas las reformas y adiciones al mismo.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO.- Las Unidades Administrativas de la Secretaría de Gobierno, deberán actualizar o en su caso elaborar, los manuales de organización, de procedimientos, y de servicios y atención al público, en un término que no exceda de sesenta días naturales a partir de la vigencia del presente Reglamento.
+
+QUINTO.- Los asuntos que se encuentren en trámite en las unidades administrativas cuyas facultades se reforman, serán atendidos y resueltos en los términos de las competencias que establece el presente Reglamento.
