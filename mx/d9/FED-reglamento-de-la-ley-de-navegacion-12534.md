@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-navegacion-12534"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-16"
-last_updated: "2005-04-19"
+last_updated: "2015-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-11-10"
 ---
 # REGLAMENTO DE LA LEY DE NAVEGACION
 
-REGLAMENTO DE LA LEY DE NAVEGACION
+REGLAMENTO DE LA LEY DE NAVEGACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y TERCERO DEL REGLAMENTO DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS, PUBLICADO EN EL D.O.F. DE 4 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO TREINTA DÍAS NATURALES DESPUÉS DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de noviembre de 1998.
 
@@ -147,7 +149,7 @@ Las inspecciones de cubierta y máquinas y, en su caso, la verificación del arq
 
 Las inspecciones y, en su caso, la verificación del arqueo, se harán por la autoridad, pero también podrán ser realizadas por personas físicas o morales mexicanas o sociedades clasificadoras de embarcaciones debidamente autorizadas para ello, las cuales serán responsables de los certificados que expidan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 11.
 
@@ -157,7 +159,7 @@ Si el interesado lo solicita, el capitán de puerto se trasladará a bordo de la
 
 En seguida se izará la bandera nacional y se levantará un acta que suscribirán la autoridad y el propietario o su representante. El original de la misma se enviará a la Secretaría y una copia se agregará al expediente que debe formarse en la capitanía de puerto de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 12.
 
@@ -167,7 +169,7 @@ En estos casos, la capitanía de puerto efectuará, dentro de los diez días há
 
 De no haberse efectuado oportunamente la aludida visita, la Secretaría matriculará la embarcación y expedirá los certificados correspondientes dentro de los cinco días hábiles siguientes al vencimiento de los plazos a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 13.
 
@@ -181,7 +183,7 @@ Las embarcaciones y artefactos navales que se adquieran en el extranjero podrán
 
 El cónsul que expida un pasavante de navegación tiene la obligación de dar aviso a la Secretaría inmediatamente después de hacerlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 15.
 
@@ -233,7 +235,7 @@ Todas las embarcaciones que no hayan tocado el puerto de su matrícula durante u
 
 ### Capítulo III. De los pasavantes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 22.
 
@@ -249,7 +251,7 @@ Una vez que la capitanía de puerto reciba el aviso de venta de una embarcación
 
 ### Capítulo IV. De la dimisión de bandera
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 24.
 
@@ -257,11 +259,11 @@ La dimisión de bandera se autorizará si está garantizado el interés del fisc
 
 La dimisión de bandera de la embarcación llevará consigo la cancelación del certificado de matrícula.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ## Título tercero. Del programa de abanderamiento
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ### Capítulo I. De la inscripción en el programa de abanderamiento
 
@@ -285,11 +287,11 @@ La dimisión de bandera de la embarcación llevará consigo la cancelación del 
 
 (DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ### Capítulo II. De las obligaciones y de los derechos de las Empresas
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARÁ VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000.</small>
 
 ###### Artículo 30.
 
@@ -297,29 +299,29 @@ En la aplicación de sus respectivos programas y de conformidad con el calendari
 
 Al término del plazo autorizado para proceder al abanderamiento de la embarcación, toda la tripulación deberá ser mexicana.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARÁ VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000.</small>
 
 ###### Artículo 31.
 
 Las Empresas que cuenten con embarcaciones inscritas en el Programa deberán informar a la Secretaría, semestralmente, sobre el cumplimiento que hayan dado a los compromisos asumidos por ellas.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARÁ VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000.</small>
 
 ###### Artículo 32.
 
 Una Empresa podrá transferir la embarcación inscrita en el Programa, con todos sus derechos y obligaciones, a otra que reúna los requisitos señalados en las fracciones I y II del artículo 27 del presente Reglamento. Una vez cubiertos estos requisitos, la Secretaría procederá a inscribir la transferencia previo el pago de los derechos correspondientes.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARÁ VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000.</small>
 
 ###### Artículo 33.
 
 En caso de que una Empresa tuviere opción de compra de una embarcación inscrita en el Programa y no la ejerciere, podrá substituirla por otra de características similares conforme a los criterios establecidos en este Reglamento, y abanderarla como mexicana dentro del plazo aprobado por la Secretaría para la embarcación original. Para estos efectos, la Empresa dará el aviso respectivo a la Secretaría, y exhibirá los documentos a que se refieren las fracciones II y III del artículo 27 de este Reglamento. Una vez cumplidos estos requisitos, la Secretaría procederá a inscribir la embarcación en el Registro, previo pago de los derechos correspondientes.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ### Capítulo III. Del incumplimiento del programa de abanderamiento y de las infracciones
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARÁ VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000.</small>
 
 ###### Artículo 34.
 
@@ -335,7 +337,7 @@ IV. La Empresa retire voluntariamente su embarcación del Programa.
 
 En los casos de las fracciones I a III, la Secretaría concederá a la Empresa un plazo de quince días hábiles para que manifieste lo que a su derecho convenga y presente sus pruebas y defensas. Con base en éstas, dictará la resolución correspondiente dentro de los siguientes quince días hábiles.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARÁ VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000.</small>
 
 ###### Artículo 35.
 
@@ -453,7 +455,7 @@ Los documentos que requieran de inscripción deberán presentarse por los intere
 
 Cuando en una oficina que no sea la competente se presente una solicitud de registro o algún documento que deba inscribirse en un folio que ya esté abierto en otra oficina, la receptora remitirá la solicitud a la que sea competente. La presentación surtirá efectos a partir del momento en que la última lo reciba.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 45.
 
@@ -475,7 +477,7 @@ Si el registrador suspende o deniega la inscripción, lo notificará al interesa
 
 Si en el plazo mencionado el interesado no cumple con los requisitos exigidos, ni interpone el recurso que proceda, el documento respectivo se le devolverá o se pondrá a su disposición.
 
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 Los documentos que no sean retirados dentro de los treinta días hábiles siguientes a la notificación serán remitidos al archivo general del Registro.
 
@@ -771,7 +773,7 @@ III. Establecer contacto físico, fuera de puerto, con otra embarcación que efe
 
 ### Capítulo III. De los servicios en navegación interior o de cabotaje
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 73.
 
@@ -805,7 +807,7 @@ Para prestar los servicios que se mencionan en la fracción I del artículo 35 d
 
 (DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 79.
 
@@ -871,7 +873,7 @@ II. Seguros para cubrir cualquier siniestro, daños a instalaciones marinas y co
 
 III. En su caso, permiso de pesca expedido por la autoridad federal competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 81.
 
@@ -1041,7 +1043,7 @@ Cada comprobante deberá especificar el número consecutivo de maniobras, la fec
 
 El comprobante contendrá la leyenda de que su expedición no motiva cobro alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2005)</small>
 
 ###### Artículo 99.
 
@@ -1261,7 +1263,7 @@ Para ser miembro del Resguardo Marítimo Federal se deberán aprobar los exámen
 
 ### Capítulo único. De las bases tarifarias del transporte de pasajeros
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 131.
 
@@ -1313,7 +1315,7 @@ CUARTO. Las solicitudes que se encuentren en trámite al momento de la entrada e
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 8 DE AGOSTO DE 2000.
 
@@ -1334,3 +1336,55 @@ D.O.F. 19 DE ABRIL DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE MARZO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor treinta días naturales después de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento para la formación y capacitación de los tripulantes de la Marina Mercante y para la expedición de títulos, certificados, Libretas de Mar y de identidad marítima, publicado en el Diario Oficial de la Federación el 12 de noviembre de 1982.
+
+Tercero.- Se abroga el Reglamento de la Ley de Navegación publicado en el Diario Oficial de la Federación el 16 de noviembre de 1998.
+
+Cuarto.- Se abroga el Reglamento General para el Sistema de Organización y Control del Tráfico Marítimo Nacional, publicado en el Diario Oficial de la Federación el 13 de enero de 1988.
+
+Quinto.- Se abroga el Reglamento de Inspección de Seguridad Marítima publicado en el Diario Oficial de la Federación el 12 de mayo de 2004.
+
+Sexto.- Se abroga el Reglamento de Turismo Náutico publicado en el Diario Oficial de la Federación el 1 de octubre de 2004.
+
+Séptimo.- Se abroga el Reglamento para el Arqueo de Embarcaciones Mercantes publicado en el Diario Oficial de la Federación el 31 de octubre de 1988.
+
+Octavo.- Se abroga el Reglamento de Uniformes, Insignias y Distintivos para el uso del personal perteneciente a la Marina Mercante de México publicado en el Diario Oficial de la Federación el 21 de mayo de 1980.
+
+Noveno.- Los manuales de organización y procedimientos de la Secretaría, deberán actualizarse conforme a las disposiciones de este Reglamento y publicarse dentro de los ciento ochenta días hábiles a partir de su entrada en vigor.
+
+Décimo.- Los procedimientos y demás actos administrativos que se originaron con base en las disposiciones de los reglamentos que se abrogan y que se encuentren aún pendientes de resolución al momento de la entrada en vigor del presente Reglamento, continuarán su trámite y se resolverán conforme a las disposiciones de éste, en lo que beneficie a los gobernados.
+
+Décimo Primero.- Los Centros de Control de Tráfico Marítimo que no cuenten con Reglas de Operación autorizadas por la Dirección General, deberán dentro de un plazo de noventa días naturales a partir de la entrada en vigor de este Reglamento, presentarlas para tal fin ante dicha autoridad.
+
+Décimo Segundo.- Para cumplir con lo señalado en el artículo 423 del presente Reglamento, quienes operen Unidades Móviles de Perforación Mar Adentro podrán tener al mando de las mismas a cualquier personal profesional egresado de una Institución Educativa Náutica Mercante Mexicana, hasta los tres años posteriores a la entrada en vigor de éste y transcurrido dicho plazo, únicamente se podrá otorgar el mando a un Capitán de Altura o Jefe de Máquinas.
+
+Décimo Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+Décimo Cuarto.- Las Embarcaciones existentes de pasaje y las que presten servicio de Turismo Náutico a terceros con eslora igual o superior a quince metros, deberán contar con el cuaderno de estabilidad indicado en el Capítulo correspondiente de este Reglamento, a más tardar un año después de la entrada en vigor de este ordenamiento.
+
+Décimo Quinto.- Las Embarcaciones existentes que están en el supuesto del artículo 364 de este Reglamento deberán cumplir con lo señalado en dicho artículo a más tardar tres años después de la entrada en vigor de este ordenamiento.
+
+Décimo Sexto.- A partir de la entrada en vigor del presente ordenamiento, estará prohibida la operación en aguas de jurisdicción nacional de todo buque tanque petrolero inferior de seiscientas toneladas de peso muerto de casco sencillo.
+
+Décimo Séptimo.- Toda Embarcación o Artefacto Naval existente, dedicado al transporte de Hidrocarburos cuya edad sea superior a los veinticinco años, al que sea aplicable el artículo 406 de este Reglamento, cumplirá las prescripciones del mismo a más tardar el 31 de diciembre de 2017 o en el aniversario de la fecha de entrega del buque o el año especificados en el siguiente cuadro:
+
+Tipo Fecha o año para el retiro de operaciones
+
+Buques/Embarcaciones 31 de diciembre de 2015 para los buques
+
+entregados el 31 de diciembre de 1987 o anteriormente.
+
+Artefactos Navales
+
+Barcazas 2016 para los buques entregados en 1988.
+
+Chalanes 2017 para los buques entregados en 1989 o posteriormente.
+
+Décimo Octavo.- Lo establecido por el artículo 36 de este Reglamento, no será aplicable a las Embarcaciones matriculadas al amparo de las disposiciones del Reglamento de la Ley de Navegación que se abroga, excepto cuando cambien de Propietario.
+
+Décimo Noveno.- La Secretaría expedirá los Manuales y Manuales Técnicos a que hace referencia este Reglamento, en un plazo de un año a partir de la entrada en vigor del presente Reglamento.
