@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-inspeccion-de-seguridad-maritima-38974"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-12"
-last_updated: "2004-05-12"
+last_updated: "2015-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38974&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-05-04"
 ---
 # REGLAMENTO DE INSPECCION DE SEGURIDAD MARITIMA
 
-REGLAMENTO DE INSPECCION DE SEGURIDAD MARITIMA
+REGLAMENTO DE INSPECCIÓN DE SEGURIDAD MARÍTIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y QUINTO DEL REGLAMENTO DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS, PUBLICADO EN EL D.O.F. DE 4 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO TREINTA DÍAS NATURALES DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el miércoles 12 de mayo de 2004.
 
@@ -711,7 +713,7 @@ I. Embarcaciones de pasaje:
 
 a) En rosca;
 
-b) A plena carga con los depósitos de combustible y agua Ilenos, pertrechos al máximo y con el máximo permisible de pasajeros, con su equipaje;
+b) A plena carga con los depósitos de combustible y agua llenos, pertrechos al máximo y con el máximo permisible de pasajeros, con su equipaje;
 
 c) A plena carga, con el máximo número de pasajeros y su equipaje pero con sólo el 10% de combustible, agua y pertrechos;
 
@@ -1758,3 +1760,53 @@ CUARTO.- Los trámites iniciados con anterioridad a la entrada en vigor del pres
 QUINTO.- Las personas que en la fecha de entrada en vigor de este Reglamento, estén autorizadas o registradas para actuar como inspector naval independiente, contarán con un plazo de sesenta días hábiles contados a partir de la fecha antes indicada, para presentar solicitud ante la Secretaría, a fin de obtener el documento de aprobación, en los términos del presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de mayo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE MARZO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor treinta días naturales después de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento para la formación y capacitación de los tripulantes de la Marina Mercante y para la expedición de títulos, certificados, Libretas de Mar y de identidad marítima, publicado en el Diario Oficial de la Federación el 12 de noviembre de 1982.
+
+Tercero.- Se abroga el Reglamento de la Ley de Navegación publicado en el Diario Oficial de la Federación el 16 de noviembre de 1998.
+
+Cuarto.- Se abroga el Reglamento General para el Sistema de Organización y Control del Tráfico Marítimo Nacional, publicado en el Diario Oficial de la Federación el 13 de enero de 1988.
+
+Quinto.- Se abroga el Reglamento de Inspección de Seguridad Marítima publicado en el Diario Oficial de la Federación el 12 de mayo de 2004.
+
+Sexto.- Se abroga el Reglamento de Turismo Náutico publicado en el Diario Oficial de la Federación el 1 de octubre de 2004.
+
+Séptimo.- Se abroga el Reglamento para el Arqueo de Embarcaciones Mercantes publicado en el Diario Oficial de la Federación el 31 de octubre de 1988.
+
+Octavo.- Se abroga el Reglamento de Uniformes, Insignias y Distintivos para el uso del personal perteneciente a la Marina Mercante de México publicado en el Diario Oficial de la Federación el 21 de mayo de 1980.
+
+Noveno.- Los manuales de organización y procedimientos de la Secretaría, deberán actualizarse conforme a las disposiciones de este Reglamento y publicarse dentro de los ciento ochenta días hábiles a partir de su entrada en vigor.
+
+Décimo.- Los procedimientos y demás actos administrativos que se originaron con base en las disposiciones de los reglamentos que se abrogan y que se encuentren aún pendientes de resolución al momento de la entrada en vigor del presente Reglamento, continuarán su trámite y se resolverán conforme a las disposiciones de éste, en lo que beneficie a los gobernados.
+
+Décimo Primero.- Los Centros de Control de Tráfico Marítimo que no cuenten con Reglas de Operación autorizadas por la Dirección General, deberán dentro de un plazo de noventa días naturales a partir de la entrada en vigor de este Reglamento, presentarlas para tal fin ante dicha autoridad.
+
+Décimo Segundo.- Para cumplir con lo señalado en el artículo 423 del presente Reglamento, quienes operen Unidades Móviles de Perforación Mar Adentro podrán tener al mando de las mismas a cualquier personal profesional egresado de una Institución Educativa Náutica Mercante Mexicana, hasta los tres años posteriores a la entrada en vigor de éste y transcurrido dicho plazo, únicamente se podrá otorgar el mando a un Capitán de Altura o Jefe de Máquinas.
+
+Décimo Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+Décimo Cuarto.- Las Embarcaciones existentes de pasaje y las que presten servicio de Turismo Náutico a terceros con eslora igual o superior a quince metros, deberán contar con el cuaderno de estabilidad indicado en el Capítulo correspondiente de este Reglamento, a más tardar un año después de la entrada en vigor de este ordenamiento.
+
+Décimo Quinto.- Las Embarcaciones existentes que están en el supuesto del artículo 364 de este Reglamento deberán cumplir con lo señalado en dicho artículo a más tardar tres años después de la entrada en vigor de este ordenamiento.
+
+Décimo Sexto.- A partir de la entrada en vigor del presente ordenamiento, estará prohibida la operación en aguas de jurisdicción nacional de todo buque tanque petrolero inferior de seiscientas toneladas de peso muerto de casco sencillo.
+
+Décimo Séptimo.- Toda Embarcación o Artefacto Naval existente, dedicado al transporte de Hidrocarburos cuya edad sea superior a los veinticinco años, al que sea aplicable el artículo 406 de este Reglamento, cumplirá las prescripciones del mismo a más tardar el 31 de diciembre de 2017 o en el aniversario de la fecha de entrega del buque o el año especificados en el siguiente cuadro:
+
+Tipo Fecha o año para el retiro de operaciones
+
+Buques/Embarcaciones 31 de diciembre de 2015 para los buques entregados el 31 de diciembre de 1987 o Artefactos Navales anteriormente.
+
+Barcazas 2016 para los buques entregados en 1988.
+
+Chalanes 2017 para los buques entregados en 1989 o posteriormente.
+
+Décimo Octavo.- Lo establecido por el artículo 36 de este Reglamento, no será aplicable a las Embarcaciones matriculadas al amparo de las disposiciones del Reglamento de la Ley de Navegación que se abroga, excepto cuando cambien de Propietario.
+
+Décimo Noveno.- La Secretaría expedirá los Manuales y Manuales Técnicos a que hace referencia este Reglamento, en un plazo de un año a partir de la entrada en vigor del presente Reglamento.
