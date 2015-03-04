@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-la-administracion-de-los-recursos-del-50719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-27"
-last_updated: "2006-05-27"
+last_updated: "2015-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO PARA LA ADMINISTRACION DE LOS RECURSOS DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-REGLAMENTO PARA LA ADMINISTRACION DE LOS RECURSOS DEL INSTITUTO
+REGLAMENTO PARA LA ADMINISTRACIÓN DE LOS RECURSOS DEL INSTITUTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 27 de mayo de 2006.
 
@@ -391,13 +391,21 @@ a) Someter, al Consejo a más tardar en el mes de octubre del año inmediato ant
 
 b) Ejercer las partidas presupuestales aprobadas por el Consejo; y
 
-c) En forma mancomunada con el Director de Administración expedir los cheques;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2015)</small>
+
+c) Firmar, en su caso, los cheques en forma mancomunada con el Titular de la Dirección de Administración.
 
 III. En materia de recursos materiales:
 
 a) Proveer a las direcciones ejecutivas y a los órganos del Instituto los elementos materiales necesarios para el cumplimiento de sus tareas; y
 
 b) Publicar en el Periódico Oficial, Órgano del Gobierno del Estado, los Acuerdos y Resoluciones que determine el Consejo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2015)</small>
+
+###### Artículo 9 Bis.
+
+A efecto de agilizar la dotación de recursos y el cumplimiento de obligaciones del Instituto, respecto de su propio personal o ante terceros, los cheques se emitirán en forma mancomunada, siempre con dos firmas que indistintamente serán la del Consejero Presidente y el Titular de la Dirección de Administración o la del Secretario Ejecutivo y el Titular de la Dirección de Administración.
 
 ###### Artículo 10.
 
@@ -495,6 +503,10 @@ b) Autorizar en coordinación con el Consejero Presidente los recursos financier
 
 c) Proveer a los órganos del Instituto, de los elementos necesarios para el cumplimiento de sus fines.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2015)</small>
+
+d) Firmar, en su caso, los cheques en forma mancomunada con el Titular de la Dirección de Administración.
+
 III. En materia de recursos materiales:
 
 a) Atender las necesidades administrativas de los órganos del Instituto;
@@ -550,6 +562,10 @@ k) Coadyuvar con el Consejero Presidente y Secretario Ejecutivo en dirigir la ad
 l) Aplicar las políticas de racionalidad y disciplina presupuestal;
 
 m) Revisar permanentemente que se observen las normas, políticas y procedimientos a que se refiere este Reglamento y proponer acciones preventivas y correctivas, en su caso, así como el mejoramiento de los mismos.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2015)</small>
+
+n) Firmar los cheques en forma mancomunada con el Consejero Presidente o el Secretario Ejecutivo.
 
 I. En materia de recursos materiales:
 
@@ -849,7 +865,7 @@ DE LAS POLÍTICAS Y PROCEDIMIENTOS
 
 La administración de los recursos humanos, financieros y materiales se regirá bajo las políticas y procedimientos de los siguientes apartados:
 
-l. De los Recursos Humanos
+I. De los Recursos Humanos
 
 1. Elaboración del Anteproyecto Anual de Presupuesto de Remuneraciones al Personal
 
@@ -905,7 +921,7 @@ III. De los Recursos Financieros
 
 9. Entrega del Financiamiento Público a Partidos Políticos
 
-10. lntegración del Anteproyecto de Presupuesto
+10. Integración del Anteproyecto de Presupuesto
 
 11. Aplicación Presupuestal
 
@@ -917,7 +933,7 @@ III. De los Recursos Financieros
 
 15. Licitación Pública
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ## Transitorios
 
@@ -957,4 +973,16 @@ FORMATOS PARA TRÁMITES ADMINISTRATIVOS
 
 - CANCELACIÓN DE FONDO REVOLVENTE
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MARZO DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO. …
+
+SEGUNDO. Las reformas y adiciones a diversas disposiciones del Reglamento para la Administración de los Recursos del Instituto Electoral, entrarán en vigor a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de Zacatecas.
+
+TERCERO. Publíquese el presente Acuerdo y su anexo en el Periódico Oficial, Órgano del Gobierno del Estado y en la página de internet www.ieez.org.mx, para los efectos a que haya lugar.
