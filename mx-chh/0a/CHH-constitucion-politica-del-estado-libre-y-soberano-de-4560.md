@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-02-11"
+last_updated: "2015-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2299,7 +2299,7 @@ Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales y
 
 Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan y en forma especial con los ingresos siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 I.- Impuestos:
 
@@ -2315,9 +2315,9 @@ E.- Aumento del valor y mejoría específica de la propiedad, y
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-F.- Contribuciones extraordinarias;
+F.- Contribuciones extraordinarias.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 II.- Derechos:
 
@@ -2351,7 +2351,7 @@ I.- Por los servicios públicos siguientes:
 
 J. Los demás que establezca la ley.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 III.- Los productos y aprovechamientos que la ley determine.
 
@@ -2795,11 +2795,11 @@ V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar
 
 El Supremo Tribunal de Justicia, el Instituto Estatal Electoral, el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y la Comisión Estatal de los Derechos Humanos, por conducto de sus respectivos presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2015)</small>
 
 ###### Art. 167.
 
-Cuando estuviere por agotarse alguna asignación en cualquier partida del presupuesto, el Secretario de Finanzas y Administración deberá dar aviso al Gobernador para que éste promueva lo conducente.
+Cuando estuviere por agotarse alguna asignación en cualquier partida del presupuesto, el encargado de las finanzas del Estado, deberá dar aviso al Gobernador para que este promueva lo conducente.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -4126,6 +4126,16 @@ P.O. 11 DE FEBRERO DE 2015.
 ###### ARTÍCULO PRIMERO.
 
 Remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado; lo anterior, en cumplimiento a lo establecido por el artículo 202 de la Constitución local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado. Lo anterior, en cumplimiento a lo establecido por el artículo 202 de la Constitución local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
