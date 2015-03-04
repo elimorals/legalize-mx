@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-prestaciones-de-seguridad-social-de-las-97737"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-22"
-last_updated: "2014-01-22"
+last_updated: "2015-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESTACIONES DE SEGURIDAD SOCIAL DE LAS INSTITUCIONES POLICIALES Y DE PROCURACIÓN DE JUSTICIA DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 22 de enero de 2014.
 
@@ -53,7 +53,9 @@ Son sujetos de esta Ley, los miembros de las Instituciones Policiales y de Procu
 
 I.- Dentro de las Instituciones Policiales: Estatales.- El Secretario de Seguridad Pública, el Secretario Ejecutivo, los Titulares, Mandos Superiores y Mandos Medios de la Secretaría de Seguridad Pública, los elementos de Policía Preventiva Estatal con sus grupos de investigación, de Policía Ministerial, los elementos de vigilancia y custodia de los establecimientos penitenciarios, así como los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolecentes como de adultos. Municipales.- El Secretario de Seguridad Pública, los Titulares, Mandos Superiores y Mandos Medios de la Secretaría de Seguridad Pública Municipal, los elementos policiacos y operativos de Seguridad Pública; y
 
-II.- Dentro de las Instituciones de Procuración de Justicia: El Procurador General de Justicia, los Agentes del Ministerio Público y los Peritos.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2015)</small>
+
+II.- Dentro de las Instituciones de Procuración de Justicia: El Fiscal General, los Agentes del Ministerio Público y los Peritos.
 
 ###### Artículo 3.
 
@@ -508,3 +510,11 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MARZO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Peri-dico (sic) Oficial "Tierra y LibertadÓ (sic) Órgano de difusión del Gobierno del Estado de Morelos.
