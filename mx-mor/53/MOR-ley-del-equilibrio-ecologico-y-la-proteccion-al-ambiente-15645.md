@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2014-06-25"
+last_updated: "2015-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -107,7 +107,7 @@ VII. La preservación y protección de la biodiversidad conforme a los acuerdos 
 
 VIII. La preservación, restauración y mejoramiento del ambiente del territorio de la entidad;
 
-IX. La prevención y el control de la contaminación del aire, agua y suelo dentro del ámbito de competencia estatal, estableciendo los mecanismos de participación del Estado; y (sic)
+IX. La prevención y el control de la contaminación del aire, agua y suelo dentro del ámbito de competencia estatal, estableciendo los mecanismos de participación del Estado; y
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -707,9 +707,11 @@ Además se apoyará la vinculación de estas instituciones y centros con los gru
 
 Las medidas de protección del equilibrio ecológico y del ambiente que se instauren deben tener un componente de educación y de información a fin de que puedan ser utilizadas y realizadas por la población y comunidad estudiantil.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría General de Gobierno a través de la Secretaría de Desarrollo Económico, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece ésta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
+La Secretaría de Gobierno a través de la Secretaría de Economía, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece ésta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
 
 ### CAPÍTULO III. Regulación de obras y actividades
 
@@ -735,7 +737,7 @@ VII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera 
 
 VIII. En las construcciones habitacionales se deberá fomentar la incorporación de innovaciones tecnológicas ambientales tales como el uso de la energía solar, la utilización de letrinas o baños secos, la recuperación de agua de lluvia, así mismo, emplear para la construcción materiales apropiados a las condiciones regionales;
 
-IX. En la planeación urbana se respetará la proporción de áreas verdes y áreas de construcción, así como, el paisaje y la seguridad en el establecimiento de carteles espectaculares; y (sic)
+IX. En la planeación urbana se respetará la proporción de áreas verdes y áreas de construcción, así como, el paisaje y la seguridad en el establecimiento de carteles espectaculares; y
 
 X. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población, y a la vez, prever las tendencias de crecimiento de los asentamientos humanos, para mantener una relación armónica entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida;
 
@@ -1059,7 +1061,7 @@ II. El aprovechamiento sustentable del agua y de los recursos naturales que invo
 
 III. Para mantener la integridad y el equilibrio de los elementos naturales que se involucran en el ciclo hidrológico, se deberá considerar la protección del suelo y áreas boscosas y selváticas, así como, el mantenimiento de los caudales naturales básicos de las corrientes de agua y la capacidad de recarga de los mantos acuíferos;
 
-IV. La preservación, calidad y aprovechamiento sustentable del agua y de los ecosistemas acuáticos, es responsabilidad de las autoridades, sus usuarios y de quienes realicen obras o actividades que afecten o puedan afectar dichos recursos; y (sic)
+IV. La preservación, calidad y aprovechamiento sustentable del agua y de los ecosistemas acuáticos, es responsabilidad de las autoridades, sus usuarios y de quienes realicen obras o actividades que afecten o puedan afectar dichos recursos; y
 
 V. Las Normas Oficiales Mexicanas correspondientes;
 
@@ -1083,7 +1085,7 @@ V. Las previsiones contenidas en los planes de desarrollo municipal y programas 
 
 VI. La regulación de las descargas de aguas residuales, de carácter municipal, industrial, agropecuario o de servicios, que se efectúen a los sistemas de drenaje y alcantarrillado;
 
-VII. Las políticas y programas para la protección de especies acuáticas endémicas, amenazadas, en peligro de extinción o sujetas a protección especial; y (sic)
+VII. Las políticas y programas para la protección de especies acuáticas endémicas, amenazadas, en peligro de extinción o sujetas a protección especial; y
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -2085,7 +2087,7 @@ La Secretaría podrá promover ante la autoridad competente, la ejecución de al
 
 ###### ARTÍCULO 175.
 
-Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
+Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en ésta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
 
 ### CAPÍTULO V. Recurso de revisión
 
@@ -2680,3 +2682,13 @@ Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artí
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
+
+P.O. 4 DE MARZO DE 2015.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Peri-dico (sic) Oficial “Tierra y libertadÓ (sic) Órgano de difusión del Gobierno del Estado de Morelos.
