@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-la-transparencia-y-el-acceso-a-la-38110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-03"
-last_updated: "2004-03-03"
+last_updated: "2015-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE MORELOS
 
-REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE MORELOS
+REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO PARA LA UNIDAD DE INFORMACIÓN PÚBLICA Y DEL CONSEJO DE INFORMACIÓN CLASIFICADA AMBOS DEL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015 (DEROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Morelos, el lunes 3 de marzo de 2004.
 
@@ -247,7 +249,7 @@ El Poder Legislativo sistematizará la información para facilitar el acceso de 
 
 De igual manera, proveerá la información contenida en documentos escritos, fotografías, gráficos, grabaciones, soporte electrónico o digital, o en cualquier otro medio o formato, que se encuentre en su posesión o bajo su control.
 
-En la Biblioteca del Congreso del Estado se preverá la instalación de por lo menos un equipó de cómputo que facilite el acceso a la información básica, garantizada en este capítulo.
+En la Biblioteca del Congreso del Estado se preverá la instalación de por lo menos un equipo de cómputo que facilite el acceso a la información básica, garantizada en este capítulo.
 
 ###### Artículo 14.
 
@@ -670,3 +672,13 @@ DIP. FRANCISCO TOMÁS RODRÍGUEZ MONTERO
 SECRETARIO.
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MARZO DE 2015.
+
+PRIMERO.- El presente Acuerdo y Reglamento entró en vigor el día de su aprobación por el Pleno del Congreso del Estado.
+
+SEGUNDO.- Remítase el presente Acuerdo y Reglamento para su publicación en el Periódico Oficial “Tierra y LibertadÓÓrgano (sic) de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se reforma el Acuerdo que crea la Unidad de Información Pública y el Consejo de Información Clasificada del Poder Legislativo del Estado de Morelos y se deroga el Reglamento para la Transparencia y el Acceso a la Información Pública del Poder Legislativo del Estado de Morelos, publicado en el Peri-dico (sic) Oficial “Tierra y LibertadÓnúmero (sic) 4315 de fecha tres de marzo del año dos mil cuatro, y se expide el Reglamento para la Unidad de Información Pública y del Consejo de Información Clasificada ambos del Congreso del Estado de Morelos.
