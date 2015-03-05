@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2014-12-28"
+last_updated: "2015-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN IV DEL ARTÍCULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, LAS REFORMAS PUBLICADAS EN EL P.O. 19 DE FEBRERO DE 2009 Y POSTERIORES RELACIONADAS CON EL SISTEMA PROCESAL PENAL ACUSATORIO DEL PRESENTE ORDENAMIENTO ENTRAN EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.
+NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN IV DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, LAS REFORMAS PUBLICADAS EN EL P.O. 19 DE FEBRERO DE 2009 Y POSTERIORES RELACIONADAS CON EL SISTEMA PROCESAL PENAL ACUSATORIO DEL PRESENTE ORDENAMIENTO ENTRAN EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.
 
 NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 139 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, INTEGRADOS DE LA SIGUIENTE MANERA: SEGUNDO DISTRITO: CIUDAD LERDO COMO RESIDENCIA, COMPRENDE LOS MUNICIPIOS DE LERDO Y MAPIMÍ, EXCEPTO EN MATERIA PENAL QUE CORRESPONDE AL TERCER DISTRITO; TERCER DISTRITO: GÓMEZ PALACIO COMO RESIDENCIA; COMPRENDE EL MUNICIPIO DEL MISMO NOMBRE Y EL DE TLAHUALILO, POR LO QUE AL MISMO TIEMPO ENTRARÁ EN VIGOR LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO, RELACIONADAS CON EL SISTEMA PROCESAL PENAL ACUSATORIO, APROBADAS MEDIANTE DECRETO NÚMERO 259 DEL 18 DE FEBRERO DE 2009, PUBLICADAS EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, NÚMERO 15 BIS DE FECHA 19 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY EN LA MATERIA, PARA QUE SURTA SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+NOTA 3. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO PRIMERO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES DEL ESTADO DE DURANGO QUE COMPRENDEN LOS SIGUIENTES MUNICIPIOS: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) Y NOMBRE DE DIOS (XIII), PUBLICADO EN EL P.O. 5 DE MARZO DE 2015, LAS REFORMAS PUBLICADAS EN EL P.O. 19 DE FEBRERO DE 2009 Y POSTERIORES RELACIONADAS CON EL SISTEMA PROCESAL PENAL ACUSATORIO DEL PRESENTE ORDENAMIENTO ENTRAN EN VIGOR EN LOS DISTRITO JUDICIALES SEÑALADOS, A PARTIR DE LAS CERO HORAS DEL DÍA 7 DE MAYO DE 2015.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -491,7 +491,7 @@ XI. Promover una amplia participación de la comunidad en el análisis y soluci�
 
 XII. Expedir los reglamentos en materia de seguridad pública, que le presente la
 
-Secretaría General a propuesta de la Secretaría de Seguridad; y (sic)
+Secretaría General a propuesta de la Secretaría de Seguridad; y
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -997,7 +997,7 @@ XVI. Remitir a la instancia que corresponda la información recopilada, en el cu
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
-XVII. Obtener y mantener actualizado su Certificado Único Policial; y (sic)
+XVII. Obtener y mantener actualizado su Certificado Único Policial; y
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
 
@@ -1347,11 +1347,11 @@ VII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que prod
 
 VIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público, ni estar sujeto a procedimiento administrativo alguno, en los términos de las normas aplicables;
 
-IX. No tener antecedentes negativos en los Registros de Personal de Seguridad Pública Nacional y Estatal que integran el subsistema de información de seguridad pública; y (sic)
+IX. No tener antecedentes negativos en los Registros de Personal de Seguridad Pública Nacional y Estatal que integran el subsistema de información de seguridad pública; y
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
-X. Tratándose de personal operativo de seguridad y vigilancia, haber aprobado satisfactoriamente los cursos de adiestramiento y capacitación correspondientes, impartidos por los Institutos para la formación policial, estatal o municipal, en los términos que señalan los reglamentos respectivos; y (sic)
+X. Tratándose de personal operativo de seguridad y vigilancia, haber aprobado satisfactoriamente los cursos de adiestramiento y capacitación correspondientes, impartidos por los Institutos para la formación policial, estatal o municipal, en los términos que señalan los reglamentos respectivos; y
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1955,7 +1955,7 @@ IV.- El Comisario General; y
 
 V.- Cinco Titulares de Seguridad Pública Municipales.
 
-VI.- Cinco Titulares de Seguridad Pública Municipales. (sic)
+VI.- Cinco Titulares de Seguridad Pública Municipales.
 
 Se podrán establecer coordinaciones regionales operativas, participando además los Titulares de seguridad pública de los Municipios que pertenezcan a la región determinada.
 
@@ -3554,3 +3554,27 @@ Se abroga la Ley de Seguridad Pública, publicada mediante Decreto No. 134 de la
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE MARZO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO EN LOS DISTRITOS JUDICIALES DEL IV AL XIII DEL ESTADO DE DURANGO.</small>
+
+Artículo Primero. Se adopta el Sistema Penal Acusatorio, en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII), por lo que al mismo tiempo entrarán en vigor los siguientes ordenamientos:
+
+I. Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 284 de fecha 11 de junio de 2009, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 48 de fecha 14 de junio de 2009.
+
+II. Ley de Seguridad Pública para el Estado de Durango, relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto número 259 del 18 de febrero de 2009, publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 15 Bis de fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la materia.
+
+Artículo Segundo. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII).
+
+Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 9 Bis, de fecha 30 de enero de 1992; el Título Décimo Primero del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 extraordinario, de fecha 05 de diciembre de 2008 y el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004, y sus reformas posteriores; en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII), sin embargo, respecto de los procedimientos penales iniciados por hechos que hayan ocurrido antes de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante decreto 284 y el Código Nacional de Procedimientos Penales, y que se encuentren en trámite continuarán sus sustanciación hasta el final de los mismas, de conformidad con la legislación aplicable al momento del inicio de los mismos.
+
+Artículo Cuarto. Se declara la entrada en vigor de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en la totalidad de los distritos judiciales que comprenden el Estado de Durango, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado de Durango, a partir del 07 de mayo de 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO EN LOS DISTRITOS JUDICIALES DEL IV AL XIII DEL ESTADO DE DURANGO.</small>
+
+Primero. Publíquese el presente Decreto que contiene las Declaratorias antes aludidas, en el Periódico Oficial del Gobierno del Estado de Durango, para que surta sus efectos a partir de las cero horas del día 7 de mayo de 2015.
+
+Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable Congreso de la Unión, a las demás legislaturas estatales y a la Asamblea Legislativa del Distrito Federal, copia de la presente Declaratoria.
+
+Tercero. Hágase del conocimiento a los habitantes de todo el Estado de Durango, la presente Declaratoria, mediante medios impresos, televisivos y electrónicos.
