@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2013-04-21"
+last_updated: "2015-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -37,27 +37,49 @@ LEY DE AGUA PARA EL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto regular en el Estado Libre y Soberano de Durango:
+La presente Ley es reglamentaria del artículo 19 de la Constitución Política del Estado Libre y Soberano de Durango; tiene por objeto regular en el Estado de Durango la participación de las autoridades estatales y municipales, en el ámbito de sus competencias, así como de los sectores privado y social, en la planeación, administración, manejo y conservación del recurso agua.
 
-I.- El Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MARZO DE 2015)</small>
+
+Se declara de utilidad pública e interés social la prestación de los servicios de agua, drenaje, alcantarillado, tratamiento de aguas residuales y disposición final de lodos, así como la realización de los estudios, proyectos y obras relacionados con los recursos hídricos en el marco del desarrollo sustentable del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO PRIMER PÁRRAFO], P.O. 5 DE MARZO DE 2015)</small>
+
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto regular en el Estado Libre y Soberano de Durango las siguientes disposiciones:
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+I.- La planeación, administración, conservación, ejecución de proyectos y obras relacionadas con los recursos hídricos en el marco del desarrollo sustentable del Estado;
 
 II.- La administración y conservación de las aguas de jurisdicción estatal, en los términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos e inciso a), párrafo segundo del artículo 109 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de aguas;
 
-III.- La organización, revisión y funcionamiento de los organismos operadores del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-IV.- La prestación de los servicios públicos de agua potable, alcantarillado y saneamiento;
+III.- La planeación, administración y conservación de los sistemas de agua, drenaje, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales;
 
-V.- La prestación total o parcial, por los grupos sociales organizados y los particulares, de los servicios públicos de agua potable, alcantarillado y saneamiento, en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-VI.- La recuperación de los gastos y costos de inversión, operación y conservación del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento;
+IV.- La prestación de los servicios públicos de agua potable, drenaje, alcantarillado, saneamiento y disposición de aguas residuales;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+V.- La prestación total o parcial, a cargo de los grupos sociales organizados y los particulares, de los servicios públicos (sic) agua potable, drenaje, alcantarillado, saneamiento y disposición de aguas residuales en los términos de la presente ley;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+VI.- La recuperación de los gastos y costos de inversión, operación y conservación del sistema estatal agua potable, drenaje, alcantarillado, saneamiento y disposición de aguas residuales.
 
 VII.- La coordinación entre los municipios y el Estado y entre éste y la Federación para la realización de las acciones relacionadas con la explotación, uso y aprovechamiento del agua;
 
 VIII.- La organización, funcionamiento y atribuciones de la Comisión;
 
-IX.- Las relaciones entre las autoridades, los prestadores de los servicios públicos del agua potable, alcantarillado y saneamiento los contratistas y los usuarios de dichos servicios;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+IX.- Las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, drenaje, alcantarillado, saneamiento y disposición de aguas residuales, con los contratistas y los usuarios de dichos servicios; y
 
 X.- Las sanciones e infracciones que incurren los usuarios y los servidores públicos, en los términos de esta Ley.
 
@@ -69,7 +91,9 @@ I.- AGUAS DE JURISDICCIÓN ESTATAL: Aquellas que, conforme a lo establecido en e
 
 II.- AGUA POTABLE: Aquella que reúne las características de calidad propias para ser ingerida por los seres humanos sin provocar efectos nocivos a la salud, conforme a lo establecido en las Normas Oficiales Mexicanas correspondientes;
 
-III.- AGUA RESIDUAL: El líquido de composición variada, resultante de cualquier uso primario del agua por el cual haya sufrido la degradación de sus propiedades originales;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+III.- AGUA RESIDUAL: El agua de composición variada proveniente de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
 
 IV.- AGUA RESIDUAL TRATADA: El líquido de composición variada que proviene de un conjunto de operaciones y procesos de tratamiento a los cuales es sometida el agua residual;
 
@@ -193,6 +217,40 @@ IV.- Expedir, por causas de utilidad pública, los decretos de expropiación, de
 
 V.- Las demás atribuciones que señale la Ley.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### Artículo 4 Bis.
+
+Los principios que sustentan la política hídrica en el Estado son los siguientes:
+
+I.- El agua es un bien de dominio público, vital, vulnerable y finito, con valor económico, social y ambiental, cuya preservación en cantidad, calidad y sustentabilidad es tarea fundamental del estado y la sociedad;
+
+II.- El aprovechamiento del agua debe realizarse con eficiencia y debe promoverse su reúso;
+
+III.- El Estado promoverá que los municipios a través de sus órganos competentes y en razón de los convenios y acuerdos que estos determinen, se hagan responsables de la prestación de los servicios de agua potable, alcantarillado, y saneamiento, así como la gestión de las aguas nacionales en cantidad y calidad que tengan asignadas o concesionadas; en particular, el Estado establecerá las medidas necesarias para mantener una adecuada calidad del agua para consumo humano y con ello incidir en la salud pública;
+
+IV.- Las autoridades municipales fomentarán a través de sus órganos competentes el establecimiento de programas para fortalecer una nueva cultura del uso eficiente y racional de agua.
+
+V.- La gestión del agua debe generar recursos económicos y financieros necesarios para realizar sus tareas inherentes, bajo el principio de que el agua paga el agua;
+
+VI.- Los usuarios del agua deben pagar por su uso bajo el principio de usuario pagador, de acuerdo con las disposiciones legales aplicables;
+
+VII.- Las personas físicas o morales que contaminen los recursos hídricos son responsables de restaurar su calidad, y se aplicará el principio de que el que contamina, paga;
+
+VIII.- El derecho de la sociedad y sus instituciones, a la información oportuna, plena y fidedigna acerca de la disponibilidad y necesidades de agua, superficial y subterránea, en el espacio geográfico y en el tiempo, así como a la relacionada con fenómenos del ciclo hidrológico;
+
+IX.- La participación informada y responsable de la sociedad, es la base para la mejor gestión del agua y particularmente para su conservación; por tanto, es esencial la educación ambiental en materia de agua, orientada a la gestión integrada de los recursos naturales;
+
+X.- El uso doméstico y público urbano, agrícola, pecuario, ambiental e industrial, en ese orden, tendrán prelación en relación con cualesquier otro uso;
+
+XI.- La gestión integrada de los recursos hídricos por cuenca hidrográfica es la base de la política hídrica estatal;
+
+XII.- La atención de las necesidades de agua provenientes de la sociedad para su bienestar, de la economía para su desarrollo y del ambiente para su equilibrio y conservación; particularmente, la atención especial de dichas necesidades para la población marginada y menos favorecida económicamente; y
+
+XIII.- El Estado coadyuvará con la Federación en la regulación de los usos del agua en las cuencas hidrológicas, incluyendo los acuíferos y los trasvases entre cuencas.
+
+Los principios de política hídrica estatal, serán fundamentales en la aplicación e interpretación de las disposiciones contenidas en esta Ley y en sus reglamentos, y guiarán los contenidos de la programación hídrica estatal.
+
 ### CAPÍTULO II. DEL SISTEMA ESTATAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
 ###### Artículo 5.
@@ -241,7 +299,9 @@ El Gobierno del Estado, a través de la Comisión, tendrá a su cargo:
 
 I.- Administrar y consolidar la planeación y desarrollo integral del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento;
 
-II.- La definición y establecimiento de las políticas que permitan el desarrollo sustentable de la Entidad, conforme a lo dispuesto en la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+II.- La definición y establecimiento de las políticas que permitan el desarrollo sustentable de la Entidad, conforme a lo dispuesto en la Ley de Gestión Ambiental Sustentable para el Estado de Durango.
 
 III.- Administrar las aguas de jurisdicción estatal y fijar políticas, estrategias, objetivos, programas y normas que conlleven a su aprovechamiento óptimo, uso benéfico y justa distribución entre las diversas comunidades de la Entidad;
 
@@ -407,9 +467,11 @@ XXXVIII.- Participar como asesor en los procesos de licitación de concesiones p
 
 XXXIX.- Emitir opinión sobre la procedencia de la revocación de concesiones o rescisión de los contratos que celebren los organismos operadores, en los términos de los artículos 103, 104 y 116 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### Artículo 16.
 
-En todas las controversias o incumplimientos a la presente Ley y en los casos en que la Comisión esté prestando los servicios públicos, la facultad señalada en la fracción XXXVII del artículo anterior, será competencia del Tribunal Contencioso Administrativo del Estado de Durango, el que conocerá y resolverá sobre los mismos.
+En todas las controversias o incumplimientos a la presente Ley y en los casos en que la Comisión esté prestando los servicios públicos, la facultad señalada en la fracción XXXVII del artículo anterior, será competencia del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Durango, el que conocerá y resolverá sobre los mismos.
 
 ###### Artículo 17.
 
@@ -461,7 +523,7 @@ V.- Un representante de la Comisión Nacional del Agua, quien será invitado a f
 
 VI.- El presidente del Consejo Consultivo de la Comisión.
 
-VI.- El presidente del Consejo Consultivo de la Comisión. (sic)
+VI.- El presidente del Consejo Consultivo de la Comisión.
 
 Por cada representante propietario se designará a su respectivo suplente.
 
@@ -495,7 +557,7 @@ VI.- Aprobar el Proyecto Estratégico de Desarrollo de la Comisión que le prese
 
 VII.- Resolver sobre los asuntos que en materia de servicios públicos y reuso someta a su consideración el Director General;
 
-VIII.- Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos y (sic)
+VIII.- Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos y
 
 IX.- Administrar el patrimonio de la Comisión y cuidar de su adecuado manejo;
 
@@ -565,9 +627,11 @@ XXI.- Proponer a la Comisión la imposición de sanciones que hay (sic) determin
 
 XXII.- Las demás que señale la Junta de Gobierno, esta Ley y el Estatuto Orgánico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### Artículo 26.
 
-El Comisario Público se designará en los términos del artículo 11 de la Ley Orgánica de la Administración Pública y participará en las sesiones de la Junta de Gobierno, con voz, pero sin voto; y sus atribuciones serán:
+El comisario público se designará en los términos del artículo 11 de la Ley Orgánica de la Administración Pública del Estado de Durango y participará en las sesiones de la Junta de Gobierno, con voz, pero sin voto; y sus atribuciones serán:
 
 I.- Practicar auditoría al organismo, al término de cada ejercicio fiscal;
 
@@ -1149,7 +1213,9 @@ El Presidente, los Vicepresidentes y el representante designado por el Ejecutivo
 
 Lo dispuesto en este capítulo será independiente de que el Congreso del Estado resuelva lo conducente cuando, por causa de interés público o para la más eficiente prestación de los servicios de agua potable, alcantarillado y saneamiento, se requiera crear un organismo operador intermunicipal, en cuyo caso se estará a lo dispuesto en esta Ley respecto de la constitución de sus distintos órganos y las reglas para su funcionamiento.
 
-### CAPÍTULO V. ADMINISTRACIÓN DE LOS SERVICIOS POR LA COMISIÓN ESTATAL DEL AGUA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE MARZO DE 2015)</small>
+
+### CAPÍTULO V. ADMINISTRACIÓN DE LOS SERVICIOS POR LA COMISIÓN DEL AGUA DEL ESTADO DE DURANGO
 
 ###### Artículo 76.
 
@@ -1503,9 +1569,13 @@ Los distintos usos a que se refiere el artículo 120 del presente ordenamiento, 
 
 Están obligados a contratar y cumplir con el pago y requisitos que establece la presente Ley y el reglamento del organismo operador y tienen derecho a recibir y usar los servicios de agua potable, alcantarillado y saneamiento, incluido el suministro de agua residual tratada, en los lugares donde existan dichos servicios:
 
-I.- Los propietarios o poseedores a cualquier título de predios edificados;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-II.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2009)
+I.- Los propietarios o poseedores a cualquier título de predios edificados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2015)</small>
+
+II.- Los propietarios o poseedores de giros mercantiles, industriales o de cualquier otra actividad que por su naturaleza estén obligados a conectarse a los sistemas de abastecimiento de agua potable, alcantarillado y saneamiento, incluido el suministro de agua residual tratada:
 
 III.- Los propietarios o poseedores de giros mercantiles, industriales o de cualquier otra actividad que por su naturaleza estén obligados a conectarse a los sistemas de abastecimiento de agua potable, alcantarillado y saneamiento, incluido el suministro de agua residual tratada.
 
@@ -1563,21 +1633,25 @@ Las personas físicas o morales obligadas a contratar los servicios de agua pota
 
 Cuando la solicitud para contratar los servicios de agua potable, alcantarillado y saneamiento, que presenten los interesados no cumpla con los requisitos necesarios, se prevendrá a éstos para que los satisfagan dentro del término de cinco días hábiles contados a partir de la fecha en que reciban la comunicación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 133.
 
-Presentada la solicitud debidamente requisitada, dentro de los dos días hábiles siguientes, se practicará una inspección de la unidad habitacional, predio, giro o establecimiento de que se trate. La inspección a que se refiere este artículo tendrá por objeto:
+Presentada la solicitud debidamente requisitada, dentro de los cinco días hábiles siguientes, se practicará una inspección de la unidad habitacional, predio, giro o establecimiento de que se trate. La inspección a que se refiere este artículo tendrá por objeto:
 
 I.- Corroborar la veracidad de los datos proporcionados por el solicitante;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-II.- Conocer las circunstancias que el organismo operador considere necesarias para determinar sobre la prestación de los servicios;
+II.- Conocer las circunstancias que el organismo operador considere necesarias para determinar sobre la prestación de los servicios y el presupuesto correspondiente;
 
-III.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2009)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2015)</small>
 
-IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2009)
+III.- Estimar el presupuesto que comprenderá el importe del material necesario y la mano de obra, ruptura y reposición de banqueta, guarnición y pavimento si lo hubiese, así como cualquier otro trabajo que se requiera para estar en condiciones de prestar los servicios solicitados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2015)</small>
+
+IV.- Pagar la factibilidad de servicios solicitados.
 
 ###### Artículo 134.
 
@@ -1847,6 +1921,14 @@ El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisi�
 
 El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, que tengan a cargo los servicios de agua potable, alcantarillado y saneamiento, serán responsables de vigilar el cumplimiento de las disposiciones de este Capítulo.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### Artículo 168 Bis.
+
+La Comisión promoverá con la participación del Gobierno del Estado, los Ayuntamientos, las instituciones de educación superior y de las organizaciones no gubernamentales relacionadas con el tema las acciones que inculquen a la sociedad toda, una nueva cultura del cuidado y uso eficiente del agua, su preservación en calidad y cantidad para evitar la contaminación y agotamiento de las fuentes de abastecimiento, las relativas al pago del servicio, así como contribuir a la prevención y control de la contaminación de este recurso vital.
+
+La Comisión del Agua del Estado de Durango, conjuntamente con la Secretaría de Educación del Estado, desarrollarán un programa que permita instituir en el Sistema Estatal de Educación, la materia de cultura y uso eficiente del agua en el proceso educativo de educación básica, con la premisa de que el agua es un recurso finito y vulnerable, esencial para sostener la vida, el desarrollo y el medio ambiente de los ciudadanos del Estado.
+
 ### CAPÍTULO VI. DE LAS CUOTAS Y TARIFAS
 
 ###### Artículo 169.
@@ -1997,11 +2079,11 @@ El encargado del Registro Público de la Propiedad, para inscribir cualquier ins
 
 El Ayuntamiento, el organismo operador correspondiente o, en su defecto, la Comisión, contará con el número de inspectores que se requiera, con base en su propio presupuesto, para la verificación de los servicios que prestan.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 186.
 
-Para dar cumplimiento a las disposiciones de esta Ley y la Reglamentación respectiva, el Ayuntamiento, el organismo operador correspondiente o, en su defecto, la Comisión, ordenarán que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado, estén o no concesionados los servicios, observando lo dispuesto por el Código de Justicia Administrativa para el Estado de Durango.
+Para dar cumplimiento a las disposiciones de esta Ley y la reglamentación respectiva, el Ayuntamiento, el organismo operador correspondiente o, en su defecto, la Comisión, ordenarán que se realicen visitas de inspección programadas o por denuncia expresa, las que se efectuarán por personal debidamente calificado y autorizado, estén o no concesionados los servicios, observando lo dispuesto por la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
 ###### Artículo 187.
 
@@ -2221,13 +2303,17 @@ II.- Promover, ejecutar y operar la infraestructura y los servicios necesarios p
 
 III.- Formular planes y programas integrales de protección de los recursos hidráulicos del Estado, considerando las relaciones existentes entre los usos del suelo y la cantidad y calidad del agua;
 
-IV.- Vigilar el cumplimiento de las condiciones particulares de descarga que deben de satisfacer las aguas residuales que se generen y viertan directamente en aguas y zonas de jurisdicción estatal y bienes del Estado, y en los demás casos previstos por la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente del Estado de Durango;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+IV.- Vigilar el cumplimiento de las condiciones particulares de descarga que deben de satisfacer las aguas residuales, de acuerdo a la normativa vigente, que se generen y viertan directamente en aguas y zonas de jurisdicción estatal y bienes del Estado, y en los demás casos previstos por la Ley de Gestión Ambiental Sustentable para el Estado de Durango.
 
 V.- Vigilar que el agua suministrada para el consumo humano, por el Sistema de Abastecimiento de Agua Potable, Alcantarillado y Saneamiento, cumpla las normas de calidad correspondientes y que el uso de las aguas residuales con tratamiento previo o sin él, cumpla con las normas de calidad del agua emitidas para tal efecto;
 
 VI.- Promover, coordinar, supervisar y realizar, en su caso, las medidas necesarias para evitar que la basura, desechos materiales, sustancias tóxicas y lodos producto de tratamientos, contaminen las aguas superficiales o del subsuelo, tanto nacionales como de jurisdicción estatal; y,
 
-VII.- Ejercer las atribuciones que le correspondan en materia de prevención y control de la contaminación del agua y de su fiscalización y sanción, conforme a la Ley Orgánica de la Administración Pública Estatal o Municipal y de la Ley de Protección al Ambiente en el Estado de Durango.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+VII.- Ejercer las atribuciones que le correspondan en materia de prevención y control de la contaminación del agua y de su fiscalización y sanción, conforme a la Ley Orgánica de la Administración Pública Estatal o Municipal y de la Ley de Gestión Ambiental Sustentable para el Estado de Durango.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -2235,11 +2321,11 @@ VII.- Ejercer las atribuciones que le correspondan en materia de prevención y c
 
 Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, los Ayuntamientos, los organismos operadores correspondientes y la Comisión, en el ámbito de su competencia respectiva, promoverán el establecimiento de procesos de potabilización y; en su caso, de tratamiento de aguas residuales y de manejo y disposición de Iodos, así como el fomento de instalaciones alternas que sustituyan al alcantarillado sanitario, cuando este no pueda construirse; y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 228.
 
-Para los efectos del artículo anterior, las autoridades y organismos operadores correspondientes, en los términos de la presente Ley, en coordinación con las autoridades federales competentes y atentos a lo dispuesto en las Leyes General y Estatal del Equilibrio Ecológico y la Protección al Ambiente:
+Para los efectos del artículo anterior, las autoridades y organismos operadores correspondientes, en los términos de la presente Ley, en coordinación con las autoridades federales competentes y atentos a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y en la Ley de Gestión Ambiental Sustentable para el Estado de Durango:
 
 I.- Podrán autorizar y otorgar el permiso para efectuar las descargas de aguas residuales en los sistemas de alcantarillado respectivos, a las personas físicas o morales que por el uso o aprovechamiento de agua en actividades productivas contaminen el recurso, en los términos y las condiciones que se señalen en esta Ley y su Reglamento;
 
@@ -2251,7 +2337,9 @@ IV.- Establecerán las cuotas, tarifas o precios públicos que deberán cubrir l
 
 V.- Vigilarán y promoverán la aplicación de las disposiciones y normas oficiales mexicanas vigentes sobre equilibrio ecológico y protección al ambiente, en materia de prevención y control de la contaminación del agua y de los ecosistemas acuáticos; así como la potabilización del agua, principalmente para uso doméstico;
 
-VI.- Intervendrán en la aplicación de las Leyes General y Estatal del Equilibrio Ecológico y la Protección al Ambiente, en los términos de las mismas.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+VI.- Intervendrán en la aplicación de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como de la Ley de Gestión Ambiental Sustentable para el Estado de Durango, en los términos de las mismas.
 
 ###### Artículo 229.
 
@@ -2343,11 +2431,35 @@ VIII.- Proponer a la Comisión la imposición de las sanciones a los organismos 
 
 IX.- Las demás que determine la comisión y el reglamento correspondiente:
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE MARZO DE 2015)</small>
+
+### CAPÍTULO VI. DE LA INVESTIGACIÓN Y DESARROLLO TECNOLÓGICO DEL AGUA
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### Artículo 239 Bis.
+
+La Comisión a fin de garantizar el suministro de agua en cantidad y calidad adecuadas a la población del Estado, realizará la investigación y desarrollo de nuevas tecnologías en el uso y aprovechamiento de este recurso, para la prestación de servicios públicos así como, el registro de lo que realicen instituciones afines mediante las actividades siguientes:
+
+I.- La investigación y desarrollo de nuevas tecnologías en el uso y aprovechamiento del agua para la prestación de los servicios públicos, la innovación en tecnología de sistemas de riego, captación de agua de lluvia, entre otras, en coordinación con instituciones de educación superior; así como el registro de los avances que sobre la materia logren instituciones locales y nacionales dedicadas a la investigación en la materia;
+
+II.- La orientación y coordinación con instituciones de educación superior en la ejecución de programas de investigación, desarrollo tecnológico, consultoría especializada, información técnica, formación y capacitación de alto nivel en materia de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; de geohidrología, hidrología e hidráulica de acuíferos y ríos del Estado para atender la demanda de los servicios públicos y asegurar el aprovechamiento y manejo sustentable e integral del agua para los mismos;
+
+III.- El establecimiento en coordinación con las autoridades competentes de los mecanismos de regulación para el cumplimiento de normas y certificar la calidad del equipo y maquinaria asociados al uso y aprovechamiento del agua; la promoción de la cultura del agua, considerando este bien como un recurso vital, escaso y que requiere el cuidado de su calidad y desarrollo sustentable;
+
+IV.- La participación con autoridades competentes en la elaboración de proyectos de normas sobre calidad del agua y en la acreditación de laboratorios; el establecimiento de indicadores de gestión en el ámbito de competencia estatal;
+
+V.- La realización de los estudios necesarios sobre la viabilidad técnica y financiera de las concesiones a que se refiere esta ley; y
+
+VI.- La elaboración y coordinación de los demás programas y proyectos análogos para la evaluación de los mismos.
+
 ### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES
+
+## TÍTULO SEXTO. INFRACCIONES Y SANCIONES
 
 ### CAPÍTULO ÚNICO. DE LOS MEDIOS DE DEFENSA
 
-## TÍTULO SEXTO. INFRACCIONES Y SANCIONES
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 240.
 
@@ -2527,13 +2639,19 @@ Los recursos mencionados en el párrafo anterior serán depositados en un Fideic
 
 El uso de los recursos de que se habla en el primer párrafo del presente artículo, se realizará conforme a las disposiciones que se establezcan en la reglamentación correspondiente.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### Artículo 253 Bis.
+
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante las autoridades competentes, todo hecho, acto u omisión que impacten negativamente en los recursos hídricos o en sus bienes inherentes, de conformidad a las disposiciones normativas aplicables.
+
 ## TÍTULO SÉPTIMO. RECURSO ADMINISTRATIVO
 
-###### Artículo 254.
+###### ARTÍCULO 254.
 
-En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento y Normas Oficiales Mexicanas, se podrá interponer el recurso de inconformidad, previsto en el Código de Justicia Administrativa para el Estado de Durango.
+En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento y Normas Oficiales Mexicanas, se podrá interponer el recurso de inconformidad, previsto en la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
-La interposición del recurso de inconformidad, podrá ser optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado de Durango.
+La interposición del recurso de inconformidad, podrá ser optativa para el interesado antes de acudir al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Durango.
 
 ## TRANSITORIOS
 
@@ -2623,7 +2741,7 @@ Artículo Décimo Tercero.- En tanto se determinen las cuotas y tarifas por la p
 
 Artículo Décimo Cuarto.- La Comisión deberá integrar al Comité a que hace mención el capítulo VI título Sexto de esta Ley, en un plazo no mayor a sesenta días a la entrada en vigor de esta Ley.
 
-Dado en el Salón de de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (10) diez días del mes de junio del año (2005) dos mil cinco.
+Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (10) diez días del mes de junio del año (2005) dos mil cinco.
 
 DIP. HÉCTOR EDUARDO VELA VALENZUELA
 
@@ -2692,3 +2810,13 @@ P.O. 21 DE ABRIL DE 2013.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 5 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
