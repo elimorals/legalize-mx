@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "2014-05-08"
+last_updated: "2015-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,9 @@ NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y PRIMERO TRANSITORIO DEL DECR
 
 NOTA 3. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, TERCERO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 139 POR EL QUE SE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES SEGUNDO Y TERCERO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014 (ABROGADO DE MODO SUCESIVO POR DISTRITO JUDICIAL).
+NOTA 4. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES DEL ESTADO DE DURANGO QUE COMPRENDEN LOS SIGUIENTES MUNICIPIOS: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) Y NOMBRE DE DIOS (XIII), PUBLICADO EN EL P.O. 5 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN LOS DISTRITO JUDICIALES SEÑALADOS, A PARTIR DE LAS CERO HORAS DEL DÍA 7 DE MAYO DE 2015.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -3515,7 +3517,7 @@ II. Ley de Seguridad Pública para el Estado de Durango, relacionadas con el Sis
 
 Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 9 Bis, de fecha 30 de enero de 1992; el Título Décimo Primero del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232, en vigor en dichos distritos judiciales y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 extraordinario, de fecha 05 de diciembre de 2008 y el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004, y sus reformas posteriores; sin embargo, respecto de los procedimientos penales iniciados por hechos que hayan ocurrido antes de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante decreto 284 y el Código Nacional de Procedimientos Penales, y que se encuentren en trámite continuarán sus (sic) sustanciación hasta el final de los mismas (sic), de conformidad con la legislación aplicable al momento del inicio de los mismos.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
 
 Primero. Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno del Estado de Durango, para que surta sus efectos a partir de las cero horas del día 10 de junio de 2014.
 
@@ -3524,3 +3526,27 @@ Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable
 Tercero. Hágase del conocimiento a los habitantes del Segundo y Tercer Distritos Judiciales del Estado de Durango, la presente Declaratoria, mediante Sesión Solemne que se llevará a cabo el día 10 de junio de 2014, en la ciudad de Gómez Palacio, Durango, así como por medios impresos, televisivos y electrónicos de dicha región.
 
 Cuarto. A medida que en los restantes distritos judiciales de nuestro Estado, se implemente el Sistema de Justicia Penal Acusatorio, se hará la Declaratoria respectiva para la aplicación del Código Nacional de Procedimientos Penales, la cual no deberá exceder del 18 de junio de 2016.
+
+P.O. 5 DE MARZO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES DEL IV AL XIII DEL ESTADO DE DURANGO</small>
+
+Artículo Primero. Se adopta el Sistema Penal Acusatorio, en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII), por lo que al mismo tiempo entrarán en vigor los siguientes ordenamientos:
+
+I. Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 284 de fecha 11 de junio de 2009, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 48 de fecha 14 de junio de 2009.
+
+II. Ley de Seguridad Pública para el Estado de Durango, relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto número 259 del 18 de febrero de 2009, publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 15 Bis de fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la materia.
+
+Artículo Segundo. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII).
+
+Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 9 Bis, de fecha 30 de enero de 1992; el Título Décimo Primero del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 extraordinario, de fecha 05 de diciembre de 2008 y el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004, y sus reformas posteriores; en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII), sin embargo, respecto de los procedimientos penales iniciados por hechos que hayan ocurrido antes de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante decreto 284 y el Código Nacional de Procedimientos Penales, y que se encuentren en trámite continuarán sus sustanciación hasta el final de los mismas, de conformidad con la legislación aplicable al momento del inicio de los mismos.
+
+Artículo Cuarto. Se declara la entrada en vigor de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en la totalidad de los distritos judiciales que comprenden el Estado de Durango, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado de Durango, a partir del 07 de mayo de 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES DEL IV AL XIII DEL ESTADO DE DURANGO.</small>
+
+Primero. Publíquese el presente Decreto que contiene las Declaratorias antes aludidas, en el Periódico Oficial del Gobierno del Estado de Durango, para que surta sus efectos a partir de las cero horas del día 7 de mayo de 2015.
+
+Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable Congreso de la Unión, a las demás legislaturas estatales y a la Asamblea Legislativa del Distrito Federal, copia de la presente Declaratoria.
+
+Tercero. Hágase del conocimiento a los habitantes de todo el Estado de Durango, la presente Declaratoria, mediante medios impresos, televisivos y electrónicos.
