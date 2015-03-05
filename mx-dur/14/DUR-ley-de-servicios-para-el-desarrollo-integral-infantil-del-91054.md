@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-servicios-para-el-desarrollo-integral-infantil-del-91054
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-23"
-last_updated: "2012-12-23"
+last_updated: "2015-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2012.
 
@@ -51,9 +51,11 @@ LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Durango, y tiene por objeto regular la participación del Estado y municipios, en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, garantizando el acceso de niñas y niños a estos servicios en condiciones de igualdad, calidad, calidez, seguridad y protección adecuada, que promuevan el ejercicio pleno de sus derechos fundamentales.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Durango, y tiene por objeto regular la participación del Estado y municipios, en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, garantizando el acceso de los menores a estos servicios en condiciones de igualdad, calidad, calidez, seguridad y protección adecuada, que promuevan el ejercicio pleno de sus derechos fundamentales.
 
 ###### ARTÍCULO 2.
 
@@ -67,7 +69,9 @@ I. Centros de Atención: A los espacios, cualquiera que sea su denominación, de
 
 II. Consejo: Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
-III. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+III. Desarrollo Integral Infantil: Es el derecho que tienen los menores a formarse física, mental, emocional y socialmente en condiciones de igualdad;
 
 IV. Ley: Ley de Servicios para el Desarrollo Integral Infantil del Estado de Durango;
 
@@ -87,9 +91,21 @@ XI. Registro Estatal: Catálogo público de los Centros de Atención, bajo cualq
 
 XII. Reglamento: Reglamento de la Ley de Servicios para el Desarrollo Integral Infantil del Estado de Durango;
 
-XIII. Secretaría: Secretaría de Salud del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-XIV. Servicios para la atención, cuidado, y desarrollo integral infantil: Medidas dirigidas a niñas y niños en los Centros de Atención, consistentes en la atención y cuidado para su desarrollo integral infantil.
+XIII. Secretaría: Secretaría de Salud del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+XIV. Servicios para la atención, cuidado y desarrollo integral infantil: Medidas dirigidas a los menores en los Centros de Atención, consistentes en la atención y cuidado para su desarrollo integral infantil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2015)</small>
+
+XV. Los menores: las (sic) niños y niñas que reciben los servicios de los Centros de Atención; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2015)</small>
+
+XVI. Usuario del menor: La madre o padre, o en su caso el tutor o quien ejerza la patria potestad del menor que utiliza los servicios del Centro de Atención.
 
 ###### ARTÍCULO 4.
 
@@ -101,17 +117,23 @@ Los Centros de Atención y prestadores de servicios para la atención, cuidado y
 
 ### Capítulo II. De los Sujetos del Desarrollo Integral Infantil
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 6.
 
-Las niñas y los niños tienen derecho a recibir los servicios para atención, cuidado y desarrollo integral infantil en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad, garantizando el interés superior de la niñez.
+Los menores tienen derecho a recibir los servicios para atención, cuidado y desarrollo integral infantil en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad, garantizando el interés superior de la niñez.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 7.
 
-La (sic) niñas; niños a partir de los cuarenta y cinco días de nacido y hasta los tres años de edad tendrán derecho a recibir los servicios para la atención, cuidado y desarrollo Integral infantil; sin discriminación de ningún tipo, en términos de lo dispuesto por el artículo primero de la Constitución Política de los Estados Unidos Mexicanos, correlativo al artículo segundo de la Constitución Política del Estado Libre y Soberano de Durango.
+Los menores a partir de los cuarenta y cinco días de nacido y hasta los tres años de edad tendrán derecho a recibir los servicios para la atención, cuidado y desarrollo Integral infantil; sin discriminación de ningún tipo, en términos de lo dispuesto por el artículo primero de la Constitución Política de los Estados Unidos Mexicanos, y los artículos 34 y 36 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 8.
 
-El Ejecutivo del Estado y los Municipios de conformidad con lo establecido en el artículo 2 de la presente ley deberán garantizar en el ámbito de sus competencias, que la prestación de los servicios para la atención, cuidado y desarrollo integral infantil, que brinden los Centros de Atención se oriente a lograr la observancia y ejercicio de los siguientes derechos de niñas y niños:
+El Ejecutivo del Estado y los Municipios de conformidad con lo establecido en el artículo 2 de la presente ley deberán garantizar en el ámbito de sus competencias, que la prestación de los servicios para la atención, cuidado y desarrollo integral infantil, que brinden los Centros de Atención se oriente a lograr la observancia y ejercicio de los siguientes derechos de los menores:
 
 I. A un entorno seguro, afectivo y libre de violencia;
 
@@ -139,29 +161,43 @@ III. Fomentar el cuidado de la salud;
 
 IV. Brindar atención médica en caso de urgencia, a través de instituciones de salud públicas o privadas;
 
-V. Brindar alimentación adecuada, y suficiente para su nutrición a las niñas y niños;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-VI. Fomentar la comprensión y el ejercicio de los derechos de niñas y niños;
+V. Brindar alimentación adecuada, y suficiente para su nutrición a los menores;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+VI. Fomentar la comprensión y el ejercicio de los derechos de los menores;
 
 VII. Brindar descanso, esparcimiento, juego y actividades recreativas propias de su edad;
 
-VIII. Brindar apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socioafectivo de niñas y niños;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+VIII. Brindar apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo de los menores;
 
 IX. Brindar enseñanza del lenguaje y comunicación;
 
-X. Brindar Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+X. Brindar Información y apoyo a los usuarios, para fortalecer la comprensión de sus funciones en la educación de los menores;
 
 XI. Fomentar la no discriminación;
 
-XII. Brindar la atención requerida a las niñas y niños con alguna discapacidad;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-XIII. Vigilar que todas las niñas y niños están al corriente de sus vacunas; y
+XII. Brindar la atención requerida a los menores con alguna discapacidad;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+XIII. Vigilar que todos los menores están al corriente de sus vacunas; y
 
 XIV. Contribuir y establecer hábitos higiénicos y de sana convivencia acorde a su edad y a la realidad social.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-El ingreso de niñas y niños a los centros de atención se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso.
+El ingreso de los menores a los centros de atención se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso.
 
 ### Capítulo III. De la Política Estatal en Materia de Servicios para el Desarrollo Integral Infantil
 
@@ -179,15 +215,21 @@ Los integrantes del Consejo deberán promover en todo tiempo el cumplimiento de 
 
 La política estatal a la que se refiere el presente capítulo, deberá tener al menos los siguientes objetivos:
 
-I. Garantizar el reconocimiento de la dignidad de niñas y niños, a partir de la creación de las condiciones necesarias de respeto, protección y ejercicio pleno de sus derechos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-II. Promover el acceso de niñas y niños a los servicios que señala esta ley sin importar sus condiciones económicas, físicas, intelectuales o sensoriales acorde con los modelos de atención que corresponda cuando se encuentren en algunos de los supuestos siguientes: a) tenga alguna discapacidad, b) se encuentren en situación de calle, c) que habiten en el medio rural y sean de escasos recursos d) sean migrantes, agrícolas, y de comunidades indígenas y en general los que habiten en zonas marginadas o de extrema pobreza;
+I. Garantizar el reconocimiento de la dignidad de los menores, a partir de la creación de las condiciones necesarias de respeto, protección y ejercicio pleno de sus derechos;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+II. Promover el acceso de los menores a los servicios que señala esta ley sin importar sus condiciones económicas, físicas, intelectuales o sensoriales acorde con los modelos de atención que corresponda cuando se encuentren en algunos de los supuestos siguientes: a) tenga alguna discapacidad, b) se encuentren en situación de calle, c) sean migrantes, agrícolas, y de comunidades indígenas y en general los que habiten en zonas marginadas o de extrema pobreza;
 
 III. Establecer criterios estandarizados de calidad y seguridad;
 
 IV. Contribuir al mejoramiento progresivo así como al fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
 
-V. Promover y fomentar pautas de convivencia familiar y comunitaria, fundadas en el respeto, protección y ejercicio de los derechos de niñas y niños;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+V. Promover y fomentar pautas de convivencia familiar y comunitaria, fundadas en el respeto, protección y ejercicio de los derechos de los menores;
 
 VI. Fomentar la equidad de género; y
 
@@ -379,13 +421,19 @@ La tipología anterior, se ajustará a las normas de cada institución y al Regl
 
 ### Capítulo VIII. De los Centros de Atención
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 30.
 
-Para poder funcionar los Centros de Atención deberán contar, como mínimo, con los requisitos que se enumeran a continuación, los cuales deberán ser adecuados a la edad de las niñas y niños:
+Para poder funcionar los Centros de Atención deberán contar, como mínimo, con los requisitos que se enumeran a continuación, los cuales deberán ser adecuados a la edad de los menores:
 
-I. Mantener secciones de acuerdo al uso y a la edad de las niñas y niños, para las actividades diversas de atención, de educación y recreación, así como los accesos para las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-II. Instalaciones sanitarias adecuadas para ambos sexos que aseguren la higiene y la seguridad de los niños y las niñas, debiendo tener el personal del Centro de Atención sanitarios diferentes a los de los menores;
+I. Mantener secciones de acuerdo al uso y a la edad de los menores, para las actividades diversas de atención, de educación y recreación, así como los accesos para los menores con discapacidad;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+II. Instalaciones sanitarias adecuadas para ambos sexos que aseguren la higiene y la seguridad de los menores, debiendo tener el personal del Centro de Atención sanitarios diferentes a los de los menores;
 
 III. Botiquín de primeros auxilios, así como los números telefónicos de emergencia a la vista;
 
@@ -393,73 +441,207 @@ IV. Área de nutrición, que deberá ser adecuada de acuerdo al reglamento respe
 
 V. Personal capacitado especialmente al efecto;
 
-VI. Medidas de seguridad y vigilancia en el período del cuidado a los niños y las niñas;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-VII. El Mobiliario, juguetes, materiales didácticos y pedagógicos de acuerdo a las disposiciones reglamentarias; y
+VI. Medidas de seguridad y vigilancia en el período del cuidado a los menores.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+VII. El mobiliario, juguetes, materiales didácticos y pedagógicos de acuerdo a las disposiciones reglamentarias; y
 
 VIII. Los demás enseres, equipo, mobiliario y utensilios necesarios que establezcan las disposiciones reglamentarias respectivas.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 31.
 
-El Reglamento determina la cantidad y calidad de los bienes y del personal con que deberá operar cada Centro de Atención, los cuales deberán ser suficientes para cubrir las necesidades básicas de seguridad, salud, alimentación, aseo, esparcimiento y atención de las niñas y niños a su cargo. Asimismo, determinará lo relativo al estado físico de las instalaciones.
+El Reglamento determina la cantidad y calidad de los bienes y del personal con que deberá operar cada Centro de Atención, los cuales deberán ser suficientes para cubrir las necesidades básicas de seguridad, salud, alimentación, aseo, esparcimiento y atención de los menores a su cargo. Asimismo, determinará lo relativo al estado físico de las instalaciones.
 
-### Capítulo IX. De las Medidas de Seguridad y Protección Civil
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+### Capítulo IX. De los Menores con Discapacidad
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 32.
+
+Para los efectos de esta Ley, se entenderá por menores con discapacidad aquellos que tengan alguna restricción o ausencia de la capacidad de realizar una actividad de la forma o dentro del margen que se considera normal para un ser humano. En los Centros de Atención, se admitirán a menores con discapacidad, de conformidad con la modalidad, tipo y modelo de atención, que les resulte aplicable, en términos de las Normas Oficiales Mexicanas y del reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 33.
+
+El ingreso de los menores con discapacidad quedará sujeto a la disponibilidad de lugares con que cuenta cada Centro de Atención con respecto de la admisión general. Para menores con discapacidad, cada Centro de Atención reservará al menos el 5% de su cupo.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 34.
+
+Los prestadores de servicios para la atención, cuidado y desarrollo infantil, que otorguen servicios a menores con discapacidad, deberán acreditar ante la autoridad competente, que cuentan con personal capacitado para atender a dichos usuarios.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 35.
+
+Los prestadores de servicios deberán proporcionarles a los menores, oportunidades iguales para participar en todos los programas y servicios que ahí se brinden, deberán implementar programas de sensibilización y capacitación continua para el personal encargado de los mismos, lo que fomentará el trato no discriminatorio y la convivencia en un ambiente de inclusión y respeto a sus derechos en condiciones de igualdad.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 36.
+
+Los Centros de Atención deberán contar con la infraestructura adecuada que garantice las medidas de seguridad y accesibilidad para la atención, cuidado y desarrollo de los menores con discapacidad, así como cumplir con las medidas preventivas establecidas por la Unidad Estatal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+### Capítulo X. De las Obligaciones de los Usuarios
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 37.
+
+Para que el usuario tenga derecho de utilizar los servicios de los Centros de Atención, deberá cumplir con las siguientes obligaciones:
+
+I. Permanecer atento del desarrollo del menor, así como conocer las políticas del Centro de Atención respectivo;
+
+II. Mantener informado al personal que labora en el Centro de Atención sobre cambios de números de teléfono, de domicilio, de centro de trabajo así como cualquier otro dato relacionado con las personas autorizadas para recoger a los menores.
+
+III. Informar al personal de los Centros de Atención todos aquellos datos biológicos, psíquicos o sociales, relacionados con el menor que se consideren necesarios para su cuidado;
+
+IV. Permanecer atento a la salud del menor, atendiendo las observaciones que en este respecto pudieren realizar el personal autorizado del Centro de Atención;
+
+V. Presentar al menor con sus artículos de uso personal en la cantidad y con las características señaladas en el Reglamento.
+
+VI. Cumplir con las disposiciones de la presente Ley y su Reglamento, así como con las políticas y disposiciones internas del Centro de Atención, que al efecto se emitan.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 38.
+
+El usuario no enviará a los menores a los Centros de Atención con objetos que puedan causar daño a su persona o a terceros.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 39.
+
+El usuario informará sobre el estado de salud del menor, lo cual quedará asentado en el registro diario del filtro sanitario del menor.
+
+En caso de que se informe que el menor sufrió algún accidente o presentó alteraciones en su estado de salud, el usuario deberá esperar el resultado del filtro sanitario que se haga para su aceptación o rechazo para ese día, en este último caso, el usuario se encargará de trasladar al menor al centro de salud o la unidad médica que corresponda.
+
+La omisión de proporcionar la información mencionada en el presente artículo, eximirá de responsabilidad al personal de los Centros de Atención.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 40.
+
+Es obligación del usuario informar al personal las causas que hayan originado las lesiones físicas que presente el menor, que sean detectadas al realizar el filtro sanitario o durante su estancia en el Centro de Atención.
+
+Dependiendo de la gravedad de las lesiones y en caso de que éstas se aprecien reiteradamente en el cuerpo del menor, el responsable del Centro de Atención tomará las medidas médicas, administrativas y legales que correspondan, dando aviso a las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 41.
+
+En caso de administrarse algún medicamento o alimento especial al menor durante su estancia, será siempre a solicitud del usuario en la forma que señale la receta médica que entregará al momento de presentarlo en el Centro de Atención, para lo cual se seguirán los siguientes lineamientos:
+
+I. El usuario entregará la receta médica al momento de presentar al menor en el Centro de Atención, misma que deberá cumplir con los siguientes requisitos:
+
+a) Tener fecha de expedición no mayor de siete días anteriores a su presentación;
+
+b) Nombre del médico que la expide;
+
+c) Matrícula o cédula profesional;
+
+d) Firma del médico responsable;
+
+e) Medicamento o alimento que deba de administrarse; y
+
+f) La dosis y forma de administrarlo.
+
+II. La falta de presentación de la receta médica para la administración de medicamentos o alimentos especiales al menor, será causa de no admisión.
+
+En el caso de que el usuario solicite para el menor el suministro de alimentos o la aplicación de medicamentos cuya venta no requiera receta médica, deberá entregar el medicamento o alimento así como un escrito en el cual indique la dosis y la forma de administrarlo.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 42.
+
+El usuario o la persona autorizada, está obligada a acudir al Centro de Atención, en las circunstancias siguientes:
+
+I. Cuando se requiera su presencia por motivos de salud del menor;
+
+II. Para realizar trámites administrativos;
+
+III. Cuando se requiera su participación activa en los programas y actividades de integración del menor; y
+
+IV. Cuando se le cite a reuniones de orientación, jornadas de trabajo o pláticas informativas, siempre que lo convoquen los responsables del Centro de Atención o la persona responsable de la atención del menor.
+
+### Capítulo XI. De las Medidas de Seguridad y Protección Civil
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 43.
 
 Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio.
 
 El Programa Interno deberá ser aprobado por la Unidad Estatal de Protección Civil de Durango y en su caso, por la Dirección Municipal de Protección Civil, y será sujeto a evaluación de manera periódica, por las instancias correspondientes, conforme a sus reglamentos aplicables.
 
-###### ARTÍCULO 33.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 44.
 
 Los Centros de Atención deberán contar con instalaciones adecuadas y en buen estado, de acuerdo con los reglamentos correspondientes establecidos por el Estado y los municipios.
 
-Ningún Centro de Atención podrá operar a una distancia menor a cincuenta metros de cualquier establecimiento que por su naturaleza afecten la moral pública, salud o ponga en riesgo la integridad física y emocional cerca de fabricas que produzcan sustancias contaminantes o frente a vías altamente transitadas, ni en general, en lugares peligrosos para las niñas y niños, o las demás personas que concurran a los mismos.
+Ningún Centro de Atención podrá operar a una distancia menor a cincuenta metros de cualquier establecimiento que por su naturaleza afecten la moral pública, salud o ponga en riesgo la integridad física y emocional cerca de fábricas que produzcan sustancias contaminantes o frente a vías altamente transitadas, ni en general, en lugares peligrosos para los menores, o las demás personas que concurran a los mismos.
 
-Así mismo deberán contar como mínimo para su funcionamiento, a fin de prevenir y/o proteger de cualquier situación de riesgo o emergencia con:
+Los Centros de Atención deberán contar como mínimo para su funcionamiento, a fin de prevenir y/o proteger de cualquier situación de riesgo o emergencia con:
 
 I. Contar con salidas de emergencia adecuadas, rutas de evacuación, alarmas, pasillos de circulación, equipo contra incendios, mecanismos de alerta, señalizaciones y sistema de iluminación de emergencia;
 
 II. Tener los extintores y detectores de humo necesarios; el Reglamento definirá la cantidad, calidad, ubicación y señalización atendiendo a su modalidad y tipo correspondiente;
 
-III. Habilitar espacios en el Centro de Atención específicos y adecuados, alejados del alcance de las niñas y los niños para el almacenamiento de elementos combustibles o inflamables, los cuales no podrán situarse en sótanos, semisótanos, por debajo de escaleras y en lugares próximos a radiadores de calor; así mismo identificar y colocar dichos elementos en recipientes herméticos, cerrados;
+III. Habilitar espacios en el Centro de Atención específicos y adecuados, alejados del alcance de los menores para el almacenamiento de elementos combustibles o inflamables, los cuales no podrán situarse en sótanos, semisótanos, por debajo de escaleras y en lugares próximos a radiadores de calor; así mismo identificar y colocar dichos elementos en recipientes herméticos, cerrados;
 
 IV. Contar con las condiciones de ventilación adecuadas en las áreas donde se almacenan o utilizan productos que desprendan gases o vapores inflamables;
 
-V. Evitar que las instalaciones eléctricas estén al alcance de niñas y niños; y
+V. Evitar que las instalaciones eléctricas estén al alcance de los menores;
 
-VI. Las demás que ordenen los· Reglamentos correspondientes, las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables.
+VI. Las demás que ordenen los Reglamentos correspondientes, las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables.
 
 Las rutas de evacuación, la señalización correspondiente y avisos de protección civil, deberán cumplir con las especificaciones establecidas en el Programa Interno, el Reglamento respectivo y otras disposiciones jurídicas aplicables. Las mismas se deberán comprobar periódicamente así como las salidas de emergencia en caso de riesgo, de manera trimestral por parte de la Unidad Estatal de Protección Civil de Durango o en su caso, por la Dirección Municipal de Protección Civil.
 
 Así mismo con la misma periodicidad se deberá realizar un simulacro con la participación de todas las personas que ocupen regularmente el Centro de Atención, y llevarse a cabo sesiones informativas, con el objeto de transmitir a los ocupantes las instrucciones de comportamiento frente a situaciones de emergencia.
 
-###### ARTÍCULO 34.
+### Capítulo XII. De las Autorizaciones
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 45.
 
 El Estado de acuerdo a lo establecido por el artículo 22 fracción VIII otorgará la licencia de funcionamiento final a los Centros de Atención, así mismo los Municipios, en el ámbito de sus respectivas competencias, y conforme lo determine los Reglamentos correspondientes, otorgarán las licencias, permisos o autorizaciones que correspondan para el funcionamiento de dichos centros en sus municipios.
 
-###### ARTÍCULO 35.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 46.
 
 Los interesados en abrir u operar Centros de Atención, deberán cumplir con lo establecido en la presente ley así como observar lo siguiente:
 
-I. Obtener o contar con las licencias, permisos o autorizaciones correspondientes que le sean otorgados por el Ayuntamiento correspondiente, para el funcionamiento del Centro de Atención;
+I. Obtener o contar con las licencias, permisos o autorizaciones correspondientes que le sean otorgados por el Ayuntamiento correspondiente, para el funcionamiento del Centro de Atención:
 
 II. Presentar la solicitud en la que al menos se indique: la población por atender, los servicios que se proponen ofrecer, los horarios de funcionamiento, el nombre y datos generales del o los responsables, el personal con que se contará y su ubicación;
 
-III. Contar con una póliza de seguro ante eventualidades que pongan en riesgo la vida y la integridad física delas (sic) niñas y los niños durante su permanencia en los Centros de Atención. Asimismo, esta póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros, a consecuencia de un hecho que cause daño. Las condiciones de las pólizas deberán ajustarse a lo dispuesto por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, así como a las disposiciones que al efecto se expidan;
+III. Contar con una póliza de seguro ante eventualidades que pongan en riesgo la vida y la integridad física de los menores durante su permanencia en los Centros de Atención. Asimismo, esta póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros, a consecuencia de un hecho que cause daño. Las condiciones de las pólizas deberán ajustarse a lo dispuesto por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, así como a las disposiciones que al efecto se expidan;
 
-IV. Contar con un Reglamento Interno que contenga las condiciones de trabajo, los derechos y obligaciones de los padres de familia y de los menores inscritos en los Centros de Atención;
+IV. Contar con un Reglamento Interno que contenga las condiciones de trabajo, los derechos y obligaciones de los usuarios y de los menores inscritos en los Centros de Atención acorde a lo establecido en la presente Ley;
 
 V. Contar con manuales técnico-administrativos de operación y seguridad;
 
-VI. Contar con manual para las madres, padres o quienes tengan la tutela, custodia o la responsabilidad de crianza y cuidado de la niña o del niño;
+VI. Contar con un manual para los usuarios.
 
 VII. Contar con un programa de trabajo que contenga las actividades que se desarrollarán en los Centros de Atención;
 
-VIII. Contar con la infraestructura, instalaciones y equipamiento que garanticen la prestación del servicio en condiciones de seguridad para las niñas los niños y el personal;
+VIII. Contar con la infraestructura, instalaciones y equipamiento que garanticen la prestación del servicio en condiciones de seguridad para los menores y el personal;
 
-IX. Contar con un Programa Interno de Protección Civil, de conformidad con el artículo 33 de la presente Ley;
+IX. Contar con un Programa Interno de Protección Civil, de conformidad con el artículo 43 de la presente Ley;
 
 X. Cumplir con las licencias, permisos y demás autorizaciones en materia de protección civil, uso de suelo, funcionamiento, ocupación, seguridad y operaciones, seguridad estructural del inmueble y aspectos de carácter sanitario.
 
@@ -471,65 +653,81 @@ XII. Contar con información de los recursos financieros, mobiliario, equipo, ma
 
 XIII. Cumplir con los requerimientos previstos para la modalidad y tipo correspondiente que establezca el Reglamento de esta Ley que emita el Ejecutivo del Estado y las Normas Oficiales, disposiciones normativas y técnicas, aplicables.
 
-###### ARTÍCULO 36.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 47.
 
 Las autorizaciones a que se refiere el artículo anterior, tendrán una vigencia de por lo menos un año, sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables. Ningún Centro de Atención podrá prestar servicios para la atención, cuidado y desarrollo integral infantil, sin contar con la autorización que corresponda en materia de protección civil.
 
-### Capítulo X. De las Autorizaciones
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-###### ARTÍCULO 37.
+###### ARTÍCULO 48.
 
-El programa de trabajo a que se refiere la fracción VI del artículo 49 de la presente Ley, deberá contener al menos la siguiente información:
+El programa de trabajo a que se refiere la fracción VII del artículo 46 de la presente Ley, deberá contener al menos la siguiente información:
 
-I. Los derechos de las niñas y los niños enumerados en el artículo 9 de la presente Ley;
+I. Los derechos de los menores enumerados en el artículo 8 de la presente Ley;
 
 II. Actividades formativas y educativas y los resultados esperados;
 
-III. La forma en que se dará cumplimiento a cada una de las actividades que señala el artículo 10 de la presente Ley;
+III. La forma en que se dará cumplimiento a cada una de las actividades que señala el artículo 9 de la presente Ley;
 
-IV. El perfil de cada una de las personas que laborarán en el Centro de Atención directamente vinculadas al trabajo con niñas y niños, así como las actividades concretas que se les encomendarán;
+IV. El perfil de cada una de las personas que laborarán en el Centro de Atención directamente vinculadas al trabajo con los menores, así como las actividades concretas que se les encomendarán;
 
-V. Las formas y actividades de apoyo a los padres, las personas que ejerzan la tutela o custodia, o quien sea responsable del cuidado y crianza, para fortalecer la comprensión de sus funciones en la atención, cuidado y desarrollo integral de la niña o del niño;
+V. Las formas y actividades de apoyo a los usuarios, para fortalecer la comprensión de sus funciones en la atención, cuidado y desarrollo integral de los menores;
 
-VI. El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a niñas y niños;
+VI. El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a los menores;
 
-VII. Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de niñas, niños, la madre, el padre o quien ejerza la custodia legal; y
+VII. Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de los menores y usuarios; y
 
-VIII. El procedimiento para la entrega de información a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza, sobre el desempeño y desarrollo integral de las niñas y los niños.
+VIII. El procedimiento para la entrega de información a los usuarios, sobre el desempeño y desarrollo integral de los menores.
 
-###### ARTÍCULO 38.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-La información y los documentos a que se refiere el artículo 49 de esta Ley, estarán siempre a disposición de las personas que tengan la tutela o custodia o de quienes tengan la responsabilidad del cuidado y crianza de lasniñas (sic) y los niños.
+###### ARTÍCULO 49.
 
-###### ARTÍCULO 39.
+La información y los documentos a que se refiere el artículo 46 de esta Ley, estarán siempre a disposición de los usuarios.
 
-Para la obtención de la licencia, la persona física o moral que pretenda instalar un Centro de Atención, deberá contar con la certificación de capacitación que expida la que Secretaría de Educación.
+### Capítulo XIII. De la Capacitación y Certificación
 
-###### ARTÍCULO 40.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 50.
+
+Para la obtención de la licencia, la persona física o moral que pretenda instalar un Centro de Atención, deberá contar con la certificación de capacitación que expida la Secretaría de Educación.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 51.
 
 El personal que labore en los Centros de Atención que presten servicios, estará obligado a participar en los programas de formación, actualización, capacitación y certificación de competencias, así como de protección civil que establezcan las autoridades competentes.
 
-###### ARTÍCULO 41.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 52.
 
 Los prestadores de servicios, para la atención, cuidado y desarrollo integral infantil, promoverán la capacitación de su personal, por lo que deberán brindarles las facilidades necesarias para este efecto, de acuerdo a la modalidad correspondiente y sin perjuicio de lo establecido por la legislación laboral.
 
-###### ARTÍCULO 42.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-El Estado y Municipios, determinarán conforme a la modalidad y tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinará los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, educación, seguridad e integridad física y psicológica delas (sic) niñas y los niños.
+###### ARTÍCULO 53.
 
-### Capítulo XI. De la Capacitación y Certificación
+El Estado y Municipios, determinarán conforme a la modalidad y tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinará los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, educación, seguridad e integridad física y psicológica de los menores.
 
-###### ARTÍCULO 43.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-La capacitación del personal que labore en los Centros de Atención, tendrán como objetivo garantizar un ambiente de respeto en el marco de los derechos de las niñas y los niños y cumplir con lo establecido en el artículo 10 de la presente ley.
+###### ARTÍCULO 54.
 
-###### ARTÍCULO 44.
+La capacitación del personal que labore en los Centros de Atención, tendrán como objetivo garantizar un ambiente de respeto en el marco de los derechos de los menores y cumplir con lo establecido en el artículo 8 de la presente ley.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 55.
 
 El Estado y los Municipios implementarán acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención.
 
-### Capítulo XII. De la Participación de los Sectores Social y Privado
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-###### ARTÍCULO 45.
+###### ARTÍCULO 56.
 
 Los cursos y programas de capacitación y actualización, así como talleres que organice e implemente la autoridad competente, tendrán por objeto:
 
@@ -541,29 +739,41 @@ III. Emitir certificados de calidad a favor de los Centros de Atención; y
 
 IV. Estimular y reconocer, conforme a las disposiciones del Reglamento, la calidad en la prestación del servicio.
 
-###### ARTÍCULO 46.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 57.
 
 El reglamento establecerá las bases del programa de certificación a que se refiere este Capítulo.
 
-###### ARTÍCULO 47.
+### Capítulo XIV. De la Participación de los Sectores Social y Privado
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 58.
 
 A través de las políticas públicas relacionadas con la prestación de servicios para el cuidado, atención y desarrollo integral infantil, se fomentará la participación de los sectores social y privado, en la consecución del objeto de esta Ley y de conformidad con la política nacional en la materia.
 
-###### ARTÍCULO 48.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 59.
 
 El Estado y los municipios, promoverán las acciones desarrolladas por los particulares en la consecución del objeto de la presente Ley.
 
-###### ARTÍCULO 49.
+### Capítulo XV. De la Inspección y Vigilancia
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 60.
 
 El Estado y los Municipios, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, deberán efectuar, cuando menos cada seis meses, visitas de verificación administrativa a los Centros de Atención, de conformidad con la presente ley.
 
-### Capítulo XIII. De la Inspección y Vigilancia
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-###### ARTÍCULO 50.
+###### ARTÍCULO 61.
 
 Las visitas a que se refiere el artículo anterior, tendrán los siguientes objetivos:
 
-I. Verificar el cumplimiento de los requisitos señalados por esta Ley y demás ordenamientos aplicables por parte de los prestadores de servicios para la atención, cuidado y desarrollo integra (sic) infantil;
+I. Verificar el cumplimiento de los requisitos señalados por esta Ley y demás ordenamientos aplicables por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil;
 
 II. Inspeccionar las condiciones de seguridad, comodidad e higiene de los Centros de Atención;
 
@@ -571,19 +781,25 @@ III. Vigilar que los Centros de Atención cuenten con personal capacitado y sufi
 
 IV. Requerir a los directivos la documentación correspondiente para su funcionamiento;
 
-V. Informar a la autoridad responsable de la detención oportuna de cualquier riesgo para la integridad física o psicológica de las niñas y los niños, solicitando su oportuna actuación; y
+V. Informar a la autoridad responsable de la detección oportuna de cualquier riesgo para la integridad física o psicológica de los menores, solicitando su oportuna actuación; y
 
 VI. Las demás que señale el reglamento.
 
-###### ARTÍCULO 51.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 62.
 
 Los directivos y encargados de los Centros de Atención deberán permitir a los verificadores el acceso a las instalaciones, asimismo deberán proporcionar los documentos y demás información requerida para el cumplimiento de sus atribuciones.
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 63.
 
 Cuando los verificadores, por motivo del ejercicio de sus atribuciones, tengan conocimiento de una infracción a las disposiciones de la presente Ley o su reglamento, asentarán dichas circunstancias en las actas respectivas para el conocimiento de la autoridad competente, a fin de que se dicten las medidas y apliquen las sanciones que correspondan.
 
-###### ARTÍCULO 53.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 64.
 
 El Consejo, en coordinación con el Estado y, en su caso, los municipios, implementarán el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, el cual tendrá los siguientes objetivos:
 
@@ -593,21 +809,33 @@ II. Establecer, en el marco de la coordinación entre dependencias y entidades e
 
 III. Evitar la discrecionalidad y la corrupción en la asignación de autorizaciones para prestar servicios para la atención, cuidado y desarrollo integral infantil; y
 
-IV. Garantizar la detección y corrección oportuna de cualquier riesgo para la integridad física o psicológica de las niñas y los niños.
+IV. Garantizar la detección y corrección oportuna de cualquier riesgo para la integridad física o psicológica de los menores.
 
-###### ARTÍCULO 54.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-La madre, el padre, tutor o la persona que tenga la responsabilidad de cuidado y crianza, podrá solicitar la intervención de la autoridad correspondiente para reportar cualquier irregularidad o incumplimiento a la normatividad o factor que pueda constituir un riesgo en los Centros de Atención.
+###### ARTÍCULO 65.
 
-###### ARTÍCULO 55.
+Los usuarios, podrán solicitar la intervención de la autoridad correspondiente para reportar cualquier irregularidad o incumplimiento a la normatividad o factor que pueda constituir un riesgo en los Centros de Atención.
 
-La evaluación de la política estatal de servicios para la atención, cuidado y desarrollo integral infantil, estará a cargo del Consejo. Esta evaluación permitirá conocer el grado de cumplimiento de los principios, objetivos, criterios, lineamientos y directrices a seguir por las dependencias y entidades en la materia, así como medir el impacto de la prestación de los servicios en las niñas y los niños.
+### Capítulo XVI. De la Evaluación
 
-###### ARTÍCULO 56.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-El Consejo llevará a cabo la evaluación a través de uno o varios organismos independientes que podrán ser instituciones de educación superior, de investigación científica u organizaciones no gubernamentales sin fines de lucro.
+###### ARTÍCULO 66.
 
-###### ARTÍCULO 57.
+La evaluación de la política estatal de servicios para la atención, cuidado y desarrollo integral infantil, estará a cargo del Consejo. Esta evaluación permitirá conocer el grado de cumplimiento de los principios, objetivos, criterios, lineamientos y directrices a seguir por las dependencias y entidades en la materia, así como medir el impacto de la prestación de los servicios en los menores.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 67.
+
+El Consejo llevará a cabo la evaluación a través de uno o varios organismos independientes que podrán ser instituciones de educación superior, de investigación científica u organizaciones no gubernamentales sin fines de lucro, a través de la celebración de los convenios correspondientes.
+
+### Capítulo XVII. De las Medidas Precautorias
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 68.
 
 Las autoridades verificadoras competentes, podrán imponer medidas precautorias en los Centros de Atención, cuando adviertan situaciones que pudieran poner en riesgo la integridad de los sujetos de atención, cuidado y desarrollo integral infantil. Estas medidas son:
 
@@ -617,13 +845,17 @@ II. Apercibimiento escrito, el cual procederá en caso de que no se atienda la r
 
 III. Suspensión total o parcial de actividades en el Centro de Atención, que se mantendrá hasta en tanto se corrija la situación que le dio origen, cuando a juicio de la autoridad la causa lo amerite, esta medida podrá imponerse con independencia de las demás señaladas en este artículo.
 
-### Capítulo XIV. De la Evaluación
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
 
-###### ARTÍCULO 58.
+###### ARTÍCULO 69.
 
 Los plazos a que se refiere el artículo anterior, podrán ampliarse siempre y cuando ello se justifique, a partir de la situación específica que originó la medida.
 
-###### ARTÍCULO 59.
+### Capítulo XVIII. De las Infracciones y Sanciones
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 70.
 
 Las autoridades competentes podrán imponer las siguientes sanciones administrativas:
 
@@ -633,15 +865,15 @@ II. Suspensión temporal de la autorización a que se refiere esta Ley; y
 
 III. Revocación de la autorización a que se refiere esta Ley y la cancelación del registro.
 
-### Capítulo XV. De las Medidas Precautorias
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
 
-###### ARTÍCULO 60.
+###### ARTÍCULO 71.
 
 La multa administrativa será impuesta, de conformidad con lo dispuesto en la normatividad aplicable y en los siguientes casos:
 
 I. Impedir total o parcialmente el desarrollo de la visita por parte de los supervisores correspondientes;
 
-II. No elaborar los alimentos ofrecidos a las niñas y los niños, conforme al plan nutricional respectivo, y/o no cumplir con los requisitos mínimos de alimentación balanceada establecidos en la Norma Oficial respectiva;
+II. No elaborar los alimentos ofrecidos a los menores, conforme al plan nutricional respectivo, y/o no cumplir con los requisitos mínimos de alimentación balanceada establecidos en la Norma Oficial respectiva;
 
 III. Modificar la estructura del inmueble o la distribución de los espacios, sin contar con los permisos de la autoridad competente;
 
@@ -649,7 +881,9 @@ IV. Incumplir con las medidas de salud y atención médica, en los términos que
 
 V. Realizar, por parte del personal de los Centros de Atención, algún acto de discriminación contra cualquiera de sus integrantes.
 
-###### ARTÍCULO 61.
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 72.
 
 Las causas de suspensión temporal serán impuestas, de conformidad con lo dispuesto en la normatividad aplicable y en los siguientes casos:
 
@@ -657,53 +891,63 @@ I. No contar con el personal competente o suficiente para brindar los servicios 
 
 II. No regularizar la situación que dio origen a la imposición de la multa, de tal forma que las causas que originaron a la misma sigan vigentes;
 
-III. Realizar actividades con las niñas y los niños fuera de las instalaciones del Centro de Atención, sin el previo consentimiento de los padres, tutores o quienes tengan la responsabilidad de su atención, cuidado y crianza;
+III. Realizar actividades con los menores fuera de las instalaciones del Centro de Atención, sin el previo consentimiento de los usuarios;
 
 IV. El incumplimiento de los estándares mínimos de calidad y seguridad;
 
-V. El descuido por parte del personal que ponga en peligro la salud o la integridad física o psicológica de las niñas y los niños;
+V. El descuido por parte del personal que ponga en peligro la salud o la integridad física o psicológica de los menores;
 
 VI. Reincidir en alguna de las causas que originen las sanciones contenidas en el artículo que antecede; y
 
-VII. En caso de pérdida de la vida o la existencia de lesiones graves en una niña o un niño, en tanto se deslinde la responsabilidad al Centro de Atención o personal relacionado con el mismo.
+VII. En caso de pérdida de la vida o la existencia de lesiones graves en un menor, en tanto se deslinde la responsabilidad al Centro de Atención o personal relacionado con el mismo.
 
-###### ARTÍCULO 62.
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 73.
 
 Son causas de revocación de la autorización y cancelación del registro y será impuesta, de conformidad con lo dispuesto en la normatividad aplicable y en los siguientes casos:
 
-I. La pérdida de la vida o la existencia de lesiones graves en una niña o niño, acreditadas mediante sentencia ejecutoria que haya causado estado y sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley;
+I. La pérdida de la vida o la existencia de lesiones graves en un menor, acreditadas mediante sentencia ejecutoria que haya causado estado y sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley;
 
-II. La existencia de cualquier delito sexual acreditado al personal del Centro de Atención, mediante sentencia ejecutoria que haya, causado estado; y
+II. La existencia de cualquier delito sexual acreditado al personal del Centro de Atención, mediante sentencia ejecutoria que haya causado estado; y
 
 III. La no regularización de la situación que dio origen a la imposición de una suspensión temporal, de tal forma que las causas que originaron a la misma sigan vigentes.
 
-###### ARTÍCULO 63.
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 74.
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos del Estado o municipios, constituyen infracción y serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Durango, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
-###### ARTÍCULO 64.
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
 
-Será sancionada la comisión de delitos en contra de las niñas y los niños en los Centros de Atención, de acuerdo a lo establecido en la legislación penal correspondiente.
+###### ARTÍCULO 75.
 
-###### ARTÍCULO 65.
+Será sancionada la comisión de delitos en contra de los menores en los Centros de Atención, de acuerdo a lo establecido en la legislación penal correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 76.
 
 Para la defensa jurídica de los particulares, se establece el recurso de revisión y de inconformidad previsto en la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
-### Capítulo XVI. De las Infracciones y Sanciones
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
 
-###### ARTÍCULO 66.
+###### ARTÍCULO 77.
 
 La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, cuando lo solicite el interesado y no cause perjuicio al interés general.
 
-En ningún caso procederá la suspensión si existe riesgo para la salud física o emocional de los infantes o menores.
+En ningún caso procederá la suspensión si existe riesgo para la salud física o emocional de los menores.
 
-###### ARTÍCULO 67.
+### Capítulo XIX. Disposiciones Finales
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 78.
 
 Cualquier particular, bajo su responsabilidad y ofreciendo los medios de prueba a su disposición, podrá denunciar las conductas que constituyan una infracción a esta Ley, los reglamentos que de ella deriven y, en general, a las condiciones de operación establecidas en la licencia que refiere esta Ley.
 
-De igual forma deberá hacer del conocimiento la lista en forma personal a todas las personas que acudan a la Secretaría de Educación, con la finalidad de que los padres o tutores encuentren una seguridad y tranquilidad de que el establecimiento esta funcionando conforme a los requisitos de Ley.
-
-### Capítulo XVII. Disposiciones Finales
+De igual forma deberá hacer del conocimiento la lista en forma personal a todas las personas que acudan a la Secretaría de Educación, con la finalidad de que los usuarios encuentren una seguridad y tranquilidad de que el establecimiento está funcionando conforme a los requisitos de Ley.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -748,3 +992,19 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El reglamento de esta Ley deberá modificarse en los términos del presente dictamen dentro de los 180 días siguientes a la entrada en vigor del mismo.
