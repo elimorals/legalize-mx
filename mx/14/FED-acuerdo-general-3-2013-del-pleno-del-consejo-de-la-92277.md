@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-02-27"
+last_updated: "2015-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2015.
+N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2015, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL DIECISÉIS DE MARZO DE DOS MIL QUINCE.
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -811,6 +813,16 @@ QUINTO BIS. Centros de Justicia Penal Federal:
 
 Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2015)</small>
+
+3. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por cuatro jueces de Distrito especializados en el sistema penal acusatorio, y un Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio, todos con residencia en Mérida, Yucatán.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2015)</small>
+
+4. El Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito especializados en el sistema penal acusatorio, y un tribunal unitario de Circuito con competencia especializada en el sistema penal acusatorio, todos con residencia en la ciudad del mismo nombre.
+
+Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia.
+
 > <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
 
 SEXTO. Órganos Jurisdiccionales en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal, y Jurisdicción en toda la República, integrado por: dos juzgados de distrito y dos tribunales colegiados de circuito.
@@ -1488,3 +1500,9 @@ JUZGADO TERCERO DE DISTRITO EN MATERIA DE TRABAJO EN EL DISTRITO FEDERAL ENERO D
 Y ASÍ SUCESIVAMENTE DE MANERA MENSUAL.
 
 CUARTO. La Secretaría Ejecutiva de Administración del Consejo de la Judicatura Federal, con el apoyo de las áreas administrativas a su cargo, dotará a los nuevos órganos jurisdiccionales del equipamiento necesario para el desempeño de sus funciones.
+
+D.O.F. 5 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de marzo de dos mil quince.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
