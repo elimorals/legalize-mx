@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2014-11-27"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -2939,7 +2939,9 @@ III.- Sur: el 21 de mayo de 2014;
 
 IV.- Sur-Oriente: el 17 de septiembre de 2014;
 
-V.- Centro-Poniente: el 17 marzo de 2015; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+V.- Centro-Poniente: el 17 de junio de 2016; y
 
 VI.- Centro: el 17 de junio de 2016.
 
@@ -3004,3 +3006,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Para las regiones judiciales en las que no esté vigente el Código Nacional de Procedimientos Penales, el presente Decreto entrará en vigor atendiendo los artículos Segundo Transitorio del Decreto publicado el día viernes diecisiete de junio de dos mil once en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica del Poder Judicial del Estado y el artículo Único Transitorio del Decreto publicado el trece de septiembre de dos mil trece en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman las fracciones II y III del mismo ordenamiento.
 
 CUARTO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Sistema Penal Acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto, en términos de lo dispuesto en el Artículo Cuarto Transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación con fecha dieciocho de junio de 2008.
+
+P.O. 6 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
