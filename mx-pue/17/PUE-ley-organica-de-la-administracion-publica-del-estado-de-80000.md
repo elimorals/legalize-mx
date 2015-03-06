@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2014-03-14"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -201,11 +201,11 @@ I. SECRETARÍA GENERAL DE GOBIERNO;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II.- SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN;
+II. SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 IV. SECRETARÍA DE LA CONTRALORÍA;
 
@@ -215,11 +215,13 @@ VI. SECRETARÍA DE TURISMO;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VII.- SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL;
+VII. SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL;
 
-VIII. SECRETARÍA DE INFRAESTRUCTURA;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-IX. SECRETARÍA DE TRANSPORTES;
+VIII. SECRETARÍA DE INFRAESTRUCTURA Y TRANSPORTES;
+
+IX. (DEROGADA, P.O. 6 DE MARZO DE 2015)
 
 X. SECRETARÍA DE SALUD;
 
@@ -229,13 +231,13 @@ XII. PROCURADURÍA GENERAL DE JUSTICIA;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
+XIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 XIV. SECRETARÍA DE DESARROLLO SOCIAL;
 
-XV. SECRETARÍA DE SEGURIDAD PÚBLICA; y (SIC)
+XV. SECRETARÍA DE SEGURIDAD PÚBLICA; y
 
-XVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
+XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 ###### ARTÍCULO 18.
 
@@ -723,13 +725,13 @@ LXII.- Analizar, y en su caso, autorizar las propuestas de modificación de las 
 
 LXIII.- Organizar, dirigir, administrar y supervisar la flota aérea del Gobierno del Estado y los servicios aeroportuarios relacionados con ésta;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-LXIV.- Suscribir mancomunadamente con la Secretaría de Transportes, tarjetas de circulación de transporte público, mercantil y particular;
+LXIV.- Suscribir mancomunadamente con la Secretaría de Infraestructura y Transportes, tarjetas de circulación de transporte público, mercantil y particular;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-LXV.- Establecer, administrar y mantener de manera coordinada con la Secretaría de Transportes, el registro y control de las concesiones, permisos y autorizaciones que de conformidad con la legislación aplicable le corresponda otorgar a ésta última;
+LXV.- Establecer, administrar y mantener de manera coordinada con la Secretaría de Infraestructura y Transportes, el registro y control de las concesiones, permisos y autorizaciones que de conformidad con la legislación aplicable en materia de transporte le corresponda otorgar a esta última;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -1015,11 +1017,9 @@ LII.- Vigilar e inspeccionar el cumplimiento y operación en los términos de la
 
 LIII.- Celebrar convenios con la Federación, Estados y Municipios para cumplir con las facultades y atribuciones que le otorga la ley y demás ordenamientos legales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-LIV.- Conjuntamente con la Secretaría de Transportes del Estado o de manera directa, vigilar, verificar e inspeccionar el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
+LIV.- Conjuntamente con la Secretaría de Infraestructura y Transportes o de manera directa, vigilar, verificar e inspeccionar el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1497,19 +1497,27 @@ LXI.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su 
 
 LXII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE INFRAESTRUCTURA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2015)</small>
+
+### CAPÍTULO IX. DE LA SECRETARÍA DE INFRAESTRUCTURA Y TRANSPORTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 41.
 
-A la Secretaría de Infraestructura, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura y Transportes, corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-I.- Formular y conducir las políticas generales en materia de obra pública, servicios relacionados con la misma y comunicación, así como la parte relativa a obra de los proyectos para prestación de servicios.
+I.- Formular y conducir las políticas generales en materia de obra pública, servicios relacionados con la misma, comunicación y de transporte, así como la parte relativa a obra de los proyectos para prestación de servicios;
 
-II.- Establecer normas y lineamientos generales y específicos en materia de infraestructura de comunicaciones y obra pública;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-III.- Participar en los estudios de vialidad, comunicaciones y transportes en el Estado, a fin de que se cumplan las disposiciones legales relativas a obra pública;
+II.- Establecer normas y lineamientos generales y específicos en materia de infraestructura de comunicaciones y de transporte, así como de obra pública;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+III.- Supervisar que en los estudios de vialidad, comunicaciones y transportes en el Estado, se cumplan las disposiciones legales relativas a obra pública;
 
 IV.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública a que deben sujetarse los sectores público, social y privado;
 
@@ -1529,47 +1537,81 @@ XI.- Realizar la planeación, dirección, control y evaluación de los Programas
 
 XII.- Ejecutar y aplicar programas y proyectos integrales de carácter regional, subregional o parcial en materia de infraestructura, concertando y coordinando su realización con las diferentes autoridades Federales, Estatales y Municipales que pudieran tener competencia en dichos proyectos;
 
-XIII.- Apoyar a las Autoridades Federales, Estatales y Municipales en la planeación, elaboración y desarrollo de proyectos de Desarrollo Urbano en la Entidad;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XIII.- Apoyar a las autoridades Federales y Municipales en la planeación, elaboración y desarrollo de proyectos de Desarrollo Urbano y de transporte en la Entidad;
 
 XIV.- Establecer estrategias de desarrollo de infraestructura y todas aquellas que resulten necesarias para su ejecución;
 
-XV.- Proponer al Gobernador del Estado las políticas y programas relativos a la infraestructura de comunicaciones en la Entidad, en concordancia con los planes y programas establecidos;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-XVI.- Dirigir, coordinar y controlar la ejecución de los programas de comunicaciones en la Entidad, que realice directamente o en forma concertada con la Federación o los Municipios;
+XV.- Proponer al Gobernador del Estado las políticas y programas relativos a transportes y a la infraestructura de comunicaciones en la Entidad, en concordancia con los planes y programas establecidos;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XVI.- Dirigir, coordinar y controlar la ejecución de los programas de comunicaciones y de transportes en la Entidad, que realice directamente o en forma concertada con la Federación o los municipios;
 
 XVII.- Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia para la aplicación de las leyes en la materia;
 
-XVIII.- Elaborar los planes, estudios y proyectos, directamente o a través de terceros, en materia de comunicaciones dentro del ámbito de competencia que le señalen las leyes federales y estatales en esta materia;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-XIX.- Realizar las acciones de planeación, programación y presupuestación para la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura de comunicaciones en la Entidad, así como de sus servicios auxiliares;
+XVIII.- Elaborar los planes, estudios y proyectos, directamente o a través de terceros, en materia de comunicaciones y de transportes, dentro del ámbito de su competencia que le señalen las leyes federales y estatales;
 
-XX.- Establecer normas técnicas para el funcionamiento y operación de los servicios de infraestructura de comunicaciones de la Entidad;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-XXI.- Promover y fomentar la participación de los diversos sectores de la sociedad con el objeto de conocer su problemática en materia de caminos, puentes y telecomunicaciones;
+XIX.- Realizar las acciones de planeación, programación y presupuestación para la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura de comunicaciones y transportes en la Entidad, así como de sus servicios auxiliares, de conformidad con la legislación aplicable;
 
-XXII.- Regular y supervisar la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura de comunicaciones que se efectúen en el Estado, directamente o a través de terceros;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-XXIII.- Llevar a cabo las acciones de modernización y ampliación de las obras existentes, así como continuar y concluir por sí o a través de terceros, las obras en proceso en materia de comunicaciones;
+XX.- Establecer normas técnicas para el funcionamiento y operación de los servicios de infraestructura de comunicaciones y de transportes en la Entidad;
 
-XXIV.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones para la explotación de la infraestructura de comunicaciones, vigilando e inspeccionando su cumplimiento y operación en los términos de las leyes respectivas;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-XXV.- Celebrar convenios, contratos y demás actos jurídicos, así como emitir las opiniones que procedan con relación a los actos en los que intervengan los prestadores de servicios de comunicaciones;
+XXI.- Promover y fomentar la participación de los diversos sectores de la sociedad con el objeto de conocer su problemática en materia de caminos, puentes, comunicaciones y de transporte y servicios auxiliares;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXII.- Regular y supervisar la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura de comunicaciones y de transportes, así como de sus servicios auxiliares que se efectúen en el Estado, directamente o a través de terceros;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXIII.- Llevar a cabo las acciones de modernización y ampliación de las obras existentes, así como continuar y concluir por sí o a través de terceros, las obras en proceso en materia de comunicaciones y transportes;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXIV.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones en materia de administración y explotación de la infraestructura de comunicaciones, de transportes y de los servicios auxiliares, vigilando e inspeccionando su cumplimiento y operación en los términos de las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXV.- Celebrar convenios, contratos y demás actos jurídicos, así como emitir los dictámenes y opiniones que procedan con relación a los actos en los que intervengan los prestadores de servicios de comunicaciones o de transportes;
 
 XXVI.- Celebrar, previo acuerdo del Titular del Poder Ejecutivo del Estado, convenios con la Federación, Estados y Municipios para cumplir con los objetivos que le atribuyan las diversas disposiciones legales aplicables en la materia;
 
-XXVII.- Construir, reconstruir, conservar, mantener y modernizar caminos y puentes en la Entidad, directamente o a través de terceros, pudiendo coordinarse con los Gobiernos Federal, de Entidades Federativas y con los Municipios del Estado;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-XXVIII.- Llevar a cabo por sí o a través de terceros las acciones tendientes a promover el cumplimiento de las disposiciones federales y estatales en materia de conservación del ambiente en el desarrollo, explotación y operación de las comunicaciones;
+XXVII.- Construir, reconstruir, conservar, mantener y modernizar la infraestructura vial en la Entidad, directamente o a través de terceros, pudiendo coordinarse con los Gobiernos Federal, de Entidades Federativas y con los Municipios del Estado;
 
-XXIX.- Fomentar la organización de sociedades cuyo objeto sea la prestación de servicios de comunicaciones;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXVIII.- Llevar a cabo por sí o a través de terceros las acciones tendientes a promover el cumplimiento de las disposiciones federales y estatales en materia de conservación del ambiente en el desarrollo, explotación y operación de las comunicaciones o de los transportes;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXIX.- Fomentar la organización de sociedades cuyo objeto sea la prestación de servicios de comunicaciones o de transportes;
 
 XXX.- Vigilar, verificar e inspeccionar el uso adecuado de la infraestructura de comunicaciones de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
 
-XXXI.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-XXXII.- Expedir la documentación para la prestación del servicio de comunicaciones prevista en la ley y reglamento de la materia;
+XXXI.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y de transportes;
 
-XXXIII.- Promover y fomentar la seguridad a los conductores que transiten por las vialidades del Estado a través de los estudios correspondientes;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXXII.- Expedir la documentación para la prestación del servicio de comunicaciones y de transporte, prevista en la Ley y Reglamento de la materia;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XXXIII.- Promover y fomentar la seguridad y protección a los conductores y usuarios que transiten por las vialidades del Estado, proporcionándolas directamente o a través de terceros mediante autorización;
 
 XXXIV.- Coadyuvar con las autoridades federales en la vigilancia y cumplimiento de las disposiciones en materia de radio, televisión y comunicaciones dentro de la circunscripción territorial del Estado;
 
@@ -1579,113 +1621,61 @@ XXXVI.- Establecer la comunicación y coordinación con las autoridades federale
 
 XXXVII.- Contratar y, en su caso, concesionar los servicios que las diversas leyes le atribuyan;
 
-XXXVIII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+XXXVIII.- Coordinar con la instancia competente, la elaboración del Programa Estatal de Obras de infraestructura hídrica, ejecutadas total o parcialmente con recursos estatales;
 
-XXXIX.- Coordinar con la instancia competente, la elaboración del Programa Estatal de Obras de infraestructura hídrica, ejecutadas total o parcialmente con recursos estatales;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+XXXIX.- Vigilar, verificar e inspeccionar, de manera directa o conjunta con la Secretaría de la Contraloría, el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
 
-XL.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+XL.- Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito, de transporte público mercantil, así como determinar la instalación y mantenimiento de la señalización en las obras viales del Estado;
 
-XLI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
-### CAPÍTULO X. DE LA SECRETARÍA DE TRANSPORTES
+XLI.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando y actualizando su correcta aplicación;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLII.- Suscribir mancomunadamente con la Secretaría de Finanzas y Administración, tarjetas de circulación de transporte público, mercantil y particular. En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte mercantil previstos en la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLIII.- Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como expedir las licencias, permisos, concesiones y autorizaciones respectivas;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLIV.- Regular, el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLV.- Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y mercantil y sus servicios auxiliares cuando se justifique su necesidad e interés colectivo;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLVI.- Establecer, administrar y mantener actualizado el registro y control de las concesiones, permisos y autorizaciones, que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría; para estos efectos, se coordinará con la Secretaría de Finanzas y Administración;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia, y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XLIX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2015)</small>
+
+### CAPÍTULO X
 
 ###### ARTÍCULO 42.
 
-A la Secretaría de Transportes del Estado, corresponde el despacho de los siguientes asuntos:
-
-I.- Proponer al Gobernador del Estado las políticas y programas relativos a transportes en la Entidad;
-
-II.- Dirigir, coordinar y controlar la ejecución de los programas de transportes en la Entidad, que realice directamente o en forma concertada con la Federación o los Municipios;
-
-III.- Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia, para la aplicación de las leyes en la materia;
-
-IV.- Elaborar los planes, estudios y proyectos, directamente o a través de terceros en materia de transportes dentro del ámbito de su competencia, que le señalen las leyes federales y estatales en estas materias;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-V.- Someter a consideración de las instancias competentes las acciones de planeación, programación y presupuestación para la modernización de la infraestructura de transportes que se efectúen en el Estado;
-
-VI.- Coadyuvar con las autoridades Federales, Estatales y Municipales en la planeación, elaboración y desarrollo de proyectos de transporte en la Entidad;
-
-VII.- Fijar normas técnicas para el funcionamiento y operación de los servicios de transportes de la Entidad;
-
-VIII.- Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de conocer su problemática en materia de transporte y servicios auxiliares;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-IX.- Promover la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura de transportes que se efectúen en el Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-X.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones para la administración y explotación de la infraestructura de transportes y de los servicios auxiliares, vigilando en el ámbito de su competencia, su cumplimiento y operación en los términos de las leyes respectivas;
-
-XI.- Celebrar convenios, contratos y demás actos jurídicos, así como emitir las opiniones que procedan con relación a los actos en los que intervengan los prestadores de servicios de transportes;
-
-XII.- Celebrar, previo acuerdo del Titular del Ejecutivo del Estado, convenios con la Federación, Estados y Municipios para cumplir con los objetivos que le atribuyan las diversas disposiciones legales aplicables en la materia;
-
-XIII.- Llevar a cabo por sí o a través de terceros, las acciones tendientes a promover el cumplimiento de las disposiciones federales y estatales en materia de conservación del ambiente en el desarrollo, explotación y operación de los transportes;
-
-XIV.- Fomentar la organización de sociedades cuyo objeto sea la prestación de servicios de transportes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-XV.- Vigilar, verificar e inspeccionar, de manera directa o conjunta con la Secretaría de la Contraloría, el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
-
-XVI.- Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito, de transporte público mercantil, así como proponer la instalación y mantenimiento de la señalización en las obras viales del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-XVII.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando y actualizando su correcta aplicación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XVIII.- Suscribir mancomunadamente con la Secretaría de Finanzas y Administración, tarjetas de circulación de transporte público, mercantil y particular. En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte mercantil previstos en la Ley de la materia;
-
-XIX.- Expedir la documentación para la prestación del servicio de transporte, prevista en la ley y reglamento de la materia;
-
-XX.- Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como expedir las licencias, permisos, concesiones y autorizaciones respectivas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-XXI.- Regular, el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XXII.- Promover medidas que fomenten la protección a los conductores y usuarios que transiten por las vías generales de comunicación del Estado, proporcionándolo directamente o a través de terceros mediante autorización;
-
-XXIII.- Promover y fomentar la seguridad a los conductores que transiten por las vialidades del Estado;
-
-XXIV.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transportes en la Entidad;
-
-XXV.- Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y mercantil y sus servicios auxiliares cuando se justifique su necesidad e interés colectivo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXVI.- Establecer, administrar y mantener actualizado el registro y control de las concesiones, permisos y autorizaciones, que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría; para estos efectos, se coordinará con la Secretaría de Finanzas y Administración;
-
-XXVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
-
-XXVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia; y
-
-XXIX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+(DEROGADO, P.O. 6 DE MARZO DE 2015)
 
 ### CAPÍTULO XI. DE LA SECRETARÍA DE SALUD
 
@@ -2508,3 +2498,29 @@ SEXTO.- Las erogaciones que se deriven de la aplicación de este Decreto estará
 SÉPTIMO.- A la publicación de este Decreto quedarán sin efecto todos los convenios, acuerdos y contratos, que contravengan al contenido de lo señalado en el presente Decreto.
 
 OCTAVO.- La Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado, la Secretaría General de Gobierno y la Secretaría de la Contraloría, en los ámbitos de competencia que corresponda, acordarán lo necesario para que en un plazo no mayor de noventa días naturales contados a partir del día de la entrada en vigor de este Decreto, se transfieran los archivos y los recursos humanos que sean necesarios, así como los recursos materiales y financieros existentes destinados para la atención de los asuntos relacionados con la materia de este Decreto.
+
+P.O. 6 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para el cumplimiento de este Decreto, las instancias competentes, podrán reorganizar la estructura de la Secretaría de Infraestructura y Transportes, así como crear, fusionar, escindir o disolver las unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo previsto en la Ley de Egresos del Estado de Puebla.
+
+TERCERO. Las Secretarías de la Contraloría y de Finanzas y Administración, coordinarán la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental existentes relativos a la Secretaría de Transportes que se extingue, hacia la Secretaría de Infraestructura y Transportes, en un plazo que no exceda de sesenta días naturales.
+
+CUARTO. Las unidades administrativas encargadas de los asuntos que por virtud de este Decreto pasen a formar parte de la Secretaría de Infraestructura y Transportes, se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales asignados a aquellas.
+
+QUINTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar a la Secretaría de Infraestructura y Transportes, continuarán tramitándose por dicha Dependencia a través de las unidades administrativas competentes.
+
+SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Secretaría de Transportes, se entenderá asignado a la Secretaría de Infraestructura y Transportes.
+
+Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad y eficiencia para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación de la Dependencia que como consecuencia de esta reforma se suprime, se seguirán utilizando hasta que se agoten.
+
+SÉPTIMO. Los derechos y obligaciones contractuales contraídos por la Secretaría de Transportes, se entenderán asignados a la Secretaría de Infraestructura y Transportes.
+
+OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+NOVENO. El Ejecutivo del Estado realizará las modificaciones normativas que correspondan.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, la Secretaría de Infraestructura y Transportes, seguirán aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
+
+DÉCIMO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
