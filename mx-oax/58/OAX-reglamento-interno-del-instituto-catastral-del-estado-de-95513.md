@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-instituto-catastral-del-estado-de-95513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-10"
-last_updated: "2013-08-10"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de agosto de 2013.
 
@@ -433,7 +435,7 @@ XVI.- Representar al Instituto íntegramente ante los Municipios que le correspo
 
 XVII.- Realizar compulsas aleatorias a los inmuebles manifestados en los avalúos practicados por peritos con registros ante el Instituto con el propósito de verificar la veracidad de los datos manifestados así como las operaciones efectuadas, llenando la Cédula Catastral respectiva.
 
-XVIII.- Realizar verificaciones físicas a los inmuebles manifestados en las solicitudes de trámites catastrales, con el propósito de verificar la veracidad de 1os datos manifestados así como las operaciones efectuadas, mediante los formatos oficiales.
+XVIII.- Realizar verificaciones físicas a los inmuebles manifestados en las solicitudes de trámites catastrales, con el propósito de verificar la veracidad de los datos manifestados así como las operaciones efectuadas, mediante los formatos oficiales.
 
 XIX.- Presentar periódicamente al Instituto el informe de las verificaciones físicas realizadas.
 
@@ -720,3 +722,13 @@ SECRETARIO DE ADMINISTRACIÓN
 LIC. VÍCTOR HUGO ALEJO TORRES
 
 CONSEJERO JURÍDICO DEL GOBIERNO DEL ESTADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO.- Se abroga el Reglamento de fecha seis de mayo del 2013, publicado en el Periódico Oficial del Gobierno del Estado de fecha 10 de agosto del 2013 en su número 32.
