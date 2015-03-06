@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2015-del-pleno-del-consejo-de-la-106010"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-24"
-last_updated: "2015-02-27"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106010&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2015-02-19"
 
 ACUERDO GENERAL 9/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 24 de febrero de 2015.
 
@@ -267,15 +265,17 @@ Se practicará en el lugar señalado en la convocatoria respectiva por el Jurado
 
 Dentro de esta fase, el Jurado valuará los factores de evaluación judicial de los participantes.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 6.
 
 Los parámetros para la evaluación final de los concursantes serán los siguientes:
 
 I. Hasta 45 puntos la calificación obtenida en el caso práctico;
 
-II. Hasta 35 puntos la que se obtenga en el examen oral; y,
+II. Hasta 45 puntos la que se obtenga en el examen oral; y,
 
-III. Hasta 20 puntos los factores de evaluación judicial.
+III. Hasta 10 puntos los factores de evaluación judicial.
 
 ###### Artículo 7.
 
@@ -690,3 +690,11 @@ TERCERO. Se abroga el Acuerdo General 22/2014 del Pleno del Consejo de la Judica
 CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este acuerdo se encuentren en trámite, continuarán realizándose conforme a la convocatoria y al acuerdo aplicable al concurso de que se trate.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 9/2015, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de juez de Distrito, mediante concursos internos de oposición, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de dieciocho de febrero de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a diecinueve de febrero de dos mil quince.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE MARZO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
