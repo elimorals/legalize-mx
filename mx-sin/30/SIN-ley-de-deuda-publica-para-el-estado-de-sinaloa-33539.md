@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-deuda-publica-para-el-estado-de-sinaloa-33539"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-20"
-last_updated: "2013-06-21"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE SINALOA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2018.]</small>
+
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 20 de agosto de 2003.
 
@@ -233,11 +235,15 @@ XIV. Vigilar que los recursos obtenidos de las operaciones a que se refiere esta
 
 XV. Vigilar que se incluya anualmente, dentro de la Iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago del servicio de la deuda pública directa del Estado correspondiente al ejercicio fiscal de que se trate;
 
-XVI. Solicitar de las entidades los informes necesarios para verificar que las operaciones de endeudamiento sean realizadas conforme a las disposiciones legales aplicables y a las autorizaciones respectivas, formulando, en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar; y (sic),
+XVI. Solicitar de las entidades los informes necesarios para verificar que las operaciones de endeudamiento sean realizadas conforme a las disposiciones legales aplicables y a las autorizaciones respectivas, formulando, en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar; y,
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 XVII. Autorizar al Estado y a los Municipios a transmitir a los fideicomisos señalados en el artículo 58 de ésta Ley, los derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualquier otro ingreso de los que puedan disponer de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+
+XVII bis. Autorizar al Ejecutivo Estatal para la implementación de esquemas globales de financiamiento y garantías o fuentes de pago, con afectación a las aportaciones federales, así como los procedimientos para efectuar dicha afectación en términos del artículo 50 de la Ley de Coordinación Fiscal.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -313,7 +319,7 @@ XXVII. Publicar anualmente, en un diario de circulación local y en un diario de
 
 XXVIII. Publicar anualmente, en el Periódico Oficial "El Estado de Sinaloa", la información relativa a los registros de la deuda pública estatal que consten en el Registro Estatal de Deuda Pública;
 
-XXIX. Asesorar a las entidades señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública; y (sic),
+XXIX. Asesorar a las entidades señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública; y,
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -441,7 +447,7 @@ XIX. Solicitar al Registro Estatal de Deuda Pública, la expedición de las cert
 
 XX. Llevar un Registro de Deuda Pública de la entidad e inscribir en el mismo las operaciones de endeudamiento correspondientes a la deuda pública a su cargo;
 
-XXI. Publicar, cuando así corresponda de acuerdo a lo previsto por el artículo 91, fracción III de esta Ley, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que las mismas consideren relevante, incluyendo el saldo actualizado de la deuda pública paraestatal o paramunicipal, según corresponda; y (sic),
+XXI. Publicar, cuando así corresponda de acuerdo a lo previsto por el artículo 91, fracción III de esta Ley, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que las mismas consideren relevante, incluyendo el saldo actualizado de la deuda pública paraestatal o paramunicipal, según corresponda; y,
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -501,6 +507,10 @@ En los casos en que el Congreso del Estado autorice créditos o empréstitos que
 
 En adición a lo anterior, en el caso de empréstitos a Municipios, los Ayuntamientos, antes de contraer los empréstitos respectivos, deberán realizar los ajustes correspondientes en sus presupuestos de egresos, y en lo relativo a las entidades de la administración pública paraestatal y paramunicipal, antes de contraer los créditos respectivos deberán realizar los ajustes pertinentes a sus presupuestos de ingresos y de egresos, notificando de ello a la Secretaría y a los Ayuntamientos correspondientes.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2015)</small>
+
+Cuando el empréstito sea autorizado en términos de la fracción XVII bis del artículo 12 de esta Ley y el financiamiento se contrate y ejerza a través de fideicomiso, no será considerado parte de la administración pública paraestatal ni paramunicipal.
+
 ###### Artículo 29.
 
 Los financiamientos cuya autorización soliciten las entidades deberán ser, en todo caso, acordes con la capacidad de pago de las mismas.
@@ -550,6 +560,20 @@ La contratación de empréstitos a cargo de los Municipios, deberá ser previame
 Las entidades de la administración pública paraestatal, sólo podrán celebrar créditos si cuentan con la autorización previa de sus Órganos de Gobierno y de la Secretaría, otorgada de acuerdo con lo previsto por los artículos 14 fracción XIX y 19 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso del Estado.
 
 Las entidades de la administración pública paramunicipal, únicamente podrán celebrar créditos si cuentan con la autorización previa de sus Órganos de Gobierno y del Ayuntamiento correspondiente, otorgadas de acuerdo con lo previsto por los artículos 16 fracción XX y 20 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2015)</small>
+
+Artículo 35 bis. El Ejecutivo del Estado a iniciativa propia o a solicitud de los Municipios, podrá someter a la autorización del Congreso del Estado, la implementación de esquemas globales de financiamiento y garantías o fuente de pago cuando se requiera, con afectación a los fondos federales a que se refieren las fracciones III y VIII del artículo 25 de la Ley de Coordinación Fiscal, debiendo proponerse la autorización de los procedimientos de afectación a dichas aportaciones.
+
+La autorización otorgada por el Congreso del Estado comprenderá el periodo constitucional de la administración Estatal y Municipal que se adhiera a ese esquema global de financiamiento.
+
+Cuando esta facultad sea ejercida por el Ejecutivo, los Municipios que cuenten con la aprobación de sus Ayuntamientos y cumplan además con los requisitos previstos en la Ley de Coordinación Fiscal, podrán adherirse a los esquemas globales antes mencionados, otorgando como garantía o fuente de pago las cantidades que les correspondan de manera individual por concepto de aportación federal.
+
+La afectación de las aportaciones federales para el Estado o los Municipios se realizará en los términos y modalidades que señala la Ley de Coordinación Fiscal.
+
+Cuando el financiamiento se contrate y ejerza a través de fideicomiso, éste podrá captar la totalidad de las aportaciones que se determinen en el decreto de autorización expedido por el Congreso del Estado, siempre y cuando estas no excedan la totalidad de las aportaciones susceptibles de afectarse de conformidad con la legislación aplicable.
+
+El Gobierno del Estado y los Ayuntamientos que se adhieran a los esquemas globales de financiamiento, contarán con línea directa de crédito por el período constitucional que les correspondan. Los empréstitos autorizados deberán ser pagaderos invariablemente por el monto que le corresponda en cada ejercicio fiscal.
 
 ###### Artículo 36.
 
@@ -940,3 +964,9 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 6 DE MARZO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se derogan las demas disposiciones que se opongan al presente Decreto.
