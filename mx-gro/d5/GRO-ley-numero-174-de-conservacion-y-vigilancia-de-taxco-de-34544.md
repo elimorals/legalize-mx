@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-174-de-conservacion-y-vigilancia-de-taxco-de-34544"
 country: "mx"
 rank: "ley"
 publication_date: "1978-01-18"
-last_updated: "2012-09-18"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY NÚMERO 174 DE CONSERVACIÓN Y VIGILANCIA DE TASCO DE ALARCÓN, GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 685 DE CONSERVACIÓN Y VIGILANCIA DE LA CIUDAD DE TAXCO DE ALARCÓN GUERRERO, PUBLICADA EN EL P.O. DE 6 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 18 de enero de 1978.
 
@@ -278,3 +280,35 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales conducentes.
+
+P.O. 6 DE MARZO DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 685 DE CONSERVACIÓN Y VIGILANCIA DE LA CIUDAD DE TAXCO DE ALARCÓN GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley número 174 de Conservación y Vigilancia de la ciudad de Tasco de Alarcón; Guerrero, publicada en el periódico oficial en Enero del año de 1978.
+
+###### ARTÍCULO TERCERO.
+
+Las declaratorias de monumentos que hubieren sido expedidas al amparo de Leyes anteriores, subsisten en todos sus efectos.
+
+###### ARTÍCULO CUARTO.
+
+Se respetan todos los derechos adquiridos sobre la materia por Leyes anteriores, debiendo sus titulares en el ejercicio de esos derechos, adecuarse a las disposiciones de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de la presente Ley, la Junta contara con 180 días para la formulación de las disposiciones reglamentarias que no contravengan lo dispuesto en esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los propietarios de anuncios que no reúnan los requisitos señalados en la presente Ley, contaran 200 días naturales, para ajustarse a las bases indicadas en esta Ley. De no ajustarse, se procederá a ordenar se retiren los mismo. En su caso, los casos particulares los resolverá la Junta Vigilancia y Conservación, buscando la conciliación y el acuerdo.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Junta de Conservación y Vigilancia, se integrara de conformidad a lo dispuesto en esta Ley a partir de la tercera semana del inicio de su vigencia. Y contara con 180 días partir de su integración para formular y presentar el Programa para Trámites, Servicios o Asuntos Diversos en Ventanilla Única establecido en esta norma. Instaurándose los convenios de colaboración o coordinación interinstitucional necesarios, según sea el caso.
