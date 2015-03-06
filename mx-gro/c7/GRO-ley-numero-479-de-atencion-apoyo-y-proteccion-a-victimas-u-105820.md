@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-479-de-atencion-apoyo-y-proteccion-a-victimas-u-1058
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-04"
-last_updated: "2014-07-04"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GRO"
 
 LEY NÚMERO 479 DE ATENCIÓN, APOYO Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE GUERRERO
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 60 DÍAS NATURALES POSTERIORES A LA DECLARATORIA QUE EMITA ESTE PODER LEGISLATIVO, PREVIA SOLICITUD DE LA AUTORIDAD ENCARGADA DE LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY NÚMERO 694 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADA EN EL P.O. DE 6 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 4 de julio de 2014.
 
@@ -1242,3 +1242,29 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. JESÚS MARTÍNEZ GARNELO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE MARZO DE 2015.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Gobierno del Estado, sus dependencias y entidades deberán adecuar la normatividad que les resulte aplicable, así como redistribuir los recursos materiales, económicos y humanos previamente existentes para la atención de víctimas y realizar lo previsto en esta Ley a partir del año de ejercicio fiscal posterior al de su publicación.
+
+TERCERO. Los procedimientos iniciados así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y regularán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+CUARTO. El Gobierno del Estado y los Municipios del Estado deberán emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia estatal, que se deriven de la presente Ley de conformidad al presupuesto aprobado, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+El Reglamento Interno deberá elaborarse en un término no mayor a tres meses, contados a partir de la fecha de publicación.
+
+QUINTO. Se abroga la Ley de Atención y Protección a Víctimas u Ofendidos del Delito para el Estado de Guerrero publicada en el Periódico Oficial del Gobierno del Estado de Guerrero número 53 Alcance V, del 4 de julio de 2014.
+
+SEXTO. La Comisión Ejecutiva Estatal deberá elegirse dentro de los treinta días naturales posteriores a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. La Comisión Ejecutiva Estatal se instalará por primera vez con la designación de tres comisionados.
+
+El Sistema Estatal deberá instalarse dentro de los tres meses posteriores a la publicación de la presente ley.
+
+OCTAVO. Las instituciones del Estado y de los Municipios deberán reglamentar sobre la capacitación de los servidores públicos a su cargo sobre el contenido del rubro denominado De la Capacitación, Formación, Actualización y Especialización, en la presente Ley.
+
+NOVENO. El Gobierno del Estado deberá hacer previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el presupuesto de egresos del estado para el ejercicio fiscal a su entrada en vigor.
