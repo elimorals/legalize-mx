@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2014-12-12"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -2195,7 +2195,9 @@ VII.- Centro Social Cívico y Cultural Riviera de Ensenada;
 
 VIII.- COPLADEM: Comité de Planeación para el Desarrollo Municipal;
 
-IX.- IMCYDE: Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+
+IX.- IMCUDHE: Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
 
 X.- INMUJERE: Instituto Municipal de la Mujer de Ensenada;
 
@@ -2586,3 +2588,7 @@ PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periód
 SEGUNDO.- Una vez aprobada la presente reforma, la Unidad de Asuntos Religiosos y Asociaciones Civiles iniciará sus funciones a partir del día primero de Enero del año 2015.
 
 TERCERO.- Contémplese en el Presupuesto de Egresos del año 2015.
+
+P.O. 6 DE MARZO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
