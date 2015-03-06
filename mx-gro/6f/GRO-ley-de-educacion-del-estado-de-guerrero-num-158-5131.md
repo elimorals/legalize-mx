@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2014-03-14"
+last_updated: "2015-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE EDUCACION DEL ESTADO DE GUERRERO NUM. 158
 
-LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NUM. 158
+LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NÚM. 158
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -717,9 +717,7 @@ XVII.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivo
 
 El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
-
-A fin de contribuir a la disminución de las brechas de desigualdad e inequidad social en el acceso a los servicios de educación básica, el Estado a través de la Secretaría de Educación Guerrero, entregará al inicio de cada ciclo escolar, uniformes y útiles escolares conforme a las listas oficiales, en forma gratuita y universal, a todos los alumnos y alumnas regularmente inscritos en el nivel de primaria, este apoyo será otorgado mediante un programa especial administrado y operado por la Secretaria de Educación Guerrero, previo al presupuesto aprobado para cada ejercicio fiscal.
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DE LA LEY NÚMERO 699 QUE ESTABLECE EL DERECHO AL ACCESO DE ÚTILES ESCOLARES, ZAPATOS Y UNIFORMES GRATUITOS, PARA LAS NIÑAS Y LOS NIÑOS DE LOS NIVELES DE PREESCOLAR, PRIMARIA Y SECUNDARIA DEL ESTADO DE GUERRERO, P.O. 6 DE MARZO DE 2015; SE SUGIERE CONSULTAR TAMBIÉN DECRETO NÚMERO 836 DE 23 DE DICIEMBRE DE 2011, PÁGINA 17)</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
@@ -1978,3 +1976,19 @@ III. Obtenga resultados insuficientes en el tercer proceso de evaluación previs
 DÉCIMO.- Las disposiciones previstas en la Ley General del Servicio Profesional Docente y Ley del Instituto Nacional para la Evaluación de la Educación, deberán cumplirse en la Entidad, dentro de los plazos y términos previstos en dichas Leyes, de conformidad con lo dispuesto en el Título Octavo de la presente Ley.
 
 DÉCIMO PRIMERO.- Para el personal que regula la Ley General del Servicio profesional Docente, se derogan las disposiciones del Reglamento de Escalafón de los Trabajadores al Servicio de la Secretaría de Educación Guerrero, afiliados al Sindicato Nacional de Trabajadores de la Educación sección 14, así como lo (sic) afiliados al Sindicato Único de los Servidores Públicos del Estado de Guerrero y el Acuerdo por el que se Crea la Comisión Estatal Mixta de Cambios y Subcomisiones Mixtas de Cambios de Educación Básica en el Estado de Guerrero, SEG-SNTE sección 14.
+
+P.O. 6 DE MARZO DE 2015.
+
+PRIMERO. Se deroga el último parrafo de la fracción XIV del artículo 33 de la Ley de Educación del Estado de Guerrero Número 158.
+
+SEGUNDO. Se emite la presente la (sic) Ley que Establece el Derecho al Acceso de Útiles Escolares, Zapatos y Uniformes Gratuitos para las Niñas y los Niños de los niveles de Preescolar, Primaria y Secundaria del Estado de Guerrero.
+
+TERCERO: Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado de Guerrero, y entrará en vigor al día siguiente de su publicación.
+
+CUARTO: Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva
+
+QUINTO. El Ejecutivo Estatal, con base en la disponibilidad presupuestal, procurará otorgar el mayor número de útiles escolares a los beneficiarios de la presente Ley, y otorgar la cobertura universal al cien por ciento de los beneficiarios en el menor tiempo posible. Para dar cumplimiento al presente ordenamiento, el Ejecutivo Estatal deberá de incluir en el Presupuesto de Egresos de cada Ejercicio Fiscal la partida correspondiente, de igual manera el Congreso del Estado de Guerrero, aprobará las asignaciones presupuestales, a efecto de garantizar la cobertura universal y la vigencia del derecho establecido en el presente ordenamiento.
+
+SEXTO. El Titular del Poder Ejecutivo del Estado de Guerrero, deberá expedir el Reglamento de la presente Ley, dentro de los noventa días naturales a la entrada en vigor de este ordenamiento.
+
+SÉPTIMO. El presente decreto surtirá sus efectos el día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
