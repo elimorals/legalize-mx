@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2008-10-03"
+last_updated: "2015-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -49,49 +49,59 @@ REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 1.
 
 El presente reglamento es de orden público e interés general sus disposiciones constituyen normas de observancia general y obligatoria en el Municipio de Ensenada, Baja California, y tienen por objeto ordenar y regular la prestación de los servicios de transporte de pasajeros y de carga en todas sus modalidades, así como el equipamiento auxiliar de transporte, sea cualesquiera el tipo de vehículos y sus sistemas de propulsión, a fin de que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población; las garantías de los peatones y los usuarios del transporte.
 
 De conformidad con las facultades que le otorga al Municipio, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California, la Ley General de Transporte Público del Estado, es responsabilidad del Ayuntamiento administrar, planear, controlar y supervisar, permisos y concesiones para asegurar, promover y vigilar que los servicios de transporte de pasajeros y de carga, se efectúen con apego a este reglamento y su reglamentación aplicable en la materia.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 2.
 
 El presente reglamento es de aplicación directa, en relación con los transportes y actividades auxiliares o complementarias de los mismos, su aplicación y competencia corresponde al Ayuntamiento y serán ejercidas por:
 
-El Presidente Municipal a través de la Dirección de Transportes Municipal; y como auxiliares de la autoridad municipal del transporte las corporaciones policíacas ministeriales, agentes del ministerio público en el estado de Baja California, la dependencia o entidad de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, a la preservación del orden público y la seguridad; también los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, conforme a los preceptos de este reglamento.
+El Presidente Municipal a través de la Unidad Municipal de Transporte; y como auxiliares de la autoridad municipal del transporte las corporaciones policíacas ministeriales, agentes del ministerio público en el estado de Baja California, la dependencia o entidad de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, a la preservación del orden público y la seguridad; también los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, conforme a los preceptos de este reglamento.
 
-En todo lo no previsto por este reglamento, serán aplicables de forma supletoria, la Ley General de Trasporte (sic) Público del Estado de Baja California, la Ley de Ecología para el Estado de Baja California, los Códigos Penales, Civiles, así como los de Procedimientos Penales y Procedimientos Civiles para el Estado de Baja California.
+En todo lo no previsto por este reglamento, serán aplicables de forma supletoria, la Ley General de Trasporte Público del Estado de Baja California, la Ley de Ecología para el Estado de Bajo California, los Códigos Penales, Civiles, así como los de Procedimientos Penales y Procedimientos Civiles para el Estado de Baja California.
 
 Serán órganos auxiliares de consulta y participación del Ayuntamiento en lo relativo a la aplicación del presente reglamento, los Consejos Municipales del Transporte, las instituciones de educación superior y demás institutos, asociaciones u organizaciones especializadas en transporte.
 
 El Ayuntamiento promoverá la adecuada satisfacción de las necesidades de transporte de los ciudadanos, en el conjunto del territorio municipal, en condiciones idóneas de seguridad, con atención especial a las categorías sociales desfavorecidas y a las personas con capacidades diferentes, así como a las zonas y núcleos de población alejados o de difícil acceso.
 
-La eficacia del sistema de transportes (sic) deberá, en todo caso, quedar asegurada mediante la adecuada utilización de los recursos disponibles, que posibiliten la obtención del máximo rendimiento de los mismos.
+La eficacia del sistema de transportes deberá, en todo caso, quedar asegurada mediante la adecuada utilización de los recursos disponibles, que posibiliten la obtención del máximo rendimiento de los mismos.
 
-El Ayuntamiento en coordinación con el resto de los poderes públicos velarán, al respecto, por la coordinación de actuaciones, unidad de criterios, celeridad, simplificación procedimental y eficacia en la gestión administrativa, dentro de sus respectivas competencias.
+El Ayuntamiento en coordinación con el resto de los poderes públicos velará, al respecto, por la coordinación de actuaciones, unidad de criterios, celeridad, simplificación procedimental y eficacia en la gestión administrativa, dentro de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 3.
 
 En el marco del principio de unidad de mercado, el Ayuntamiento buscará la armonización de las condiciones de competencia entre los diferentes modos y personas físicas o morales de transporte, tenderán a evitar situaciones de competencia desleal, y protegerán el derecho de libre elección del usuario, y la libertad de gestión empresarial, que únicamente podrán ser limitadas por razones inherentes a la necesidad de promover el máximo aprovechamiento de los recursos y la eficaz prestación de los servicios.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 4.
 
 La prestación del servicio de transporte público de pasajeros y de carga corresponde al Municipio, en el ejercicio de esta facultad, el Ayuntamiento decidirá si en vista de las necesidades del público usuario, la prestación de dicho servicio debe hacerse por el propio Ayuntamiento o encomendarlo a personas físicas o morales, mediante permisos o concesiones que se encargará de regular, controlar y vigilar, sujetándose a lo establecido en la Ley General del Transporte Público del Estado y el presente reglamento. De conformidad con los criterios señalados en este y los artículos anteriores, corresponde al Ayuntamiento:
 
-I.- Formular las directrices y objetivos sociales de las políticas económicas de transportes terrestres en sus distintos niveles.
+Formular las directrices y objetivos sociales de las políticas económicas de transportes terrestres en sus distintos niveles.
 
-II.- Planificar o programar el sistema de transportes terrestres en los términos establecidos en el presente reglamento.
+Planificar o programar el sistema de transportes terrestres en los términos establecidos en el presente reglamento.
 
-III.- Expedir las normas necesarias para la adecuada ordenación de los transportes, en desarrollo o en concordancia con el presente reglamento.
+Expedir las normas necesarias para la adecuada ordenación de los transportes, en desarrollo o en concordancia con el presente reglamento.
 
-IV.- Administrar directamente los servicios asumidos como propios, de conformidad con lo previsto en este reglamento, por razones de interés público.
+Administrar directamente los servicios asumidos como propios, de conformidad con lo previsto en este reglamento, por razones de interés público.
 
-V.- Una vez Autorizados por el Ayuntamiento, la Dirección de Transportes expedirán los correspondientes permisos, que habiliten a los particulares para la prestación de servicios y la realización de actividades de transporte, sujetos a control por razones de orden e interés público.
+Una vez Autorizados por el Ayuntamiento, la Unidad Municipal de Transporte expedirá los correspondientes permisos, que habiliten a los particulares para la prestación de servicios y la realización de actividades de transporte, sujetos a control por razones de orden e interés público.
 
-VI.- Ejercer las funciones de inspección y sanción en relación con los servicios y actividades de transporte.
+Ejercer las funciones de inspección y sanción en relación con los servicios y actividades de transporte.
 
-VII.- Adoptar en general las medidas necesarias para asegurar el correcto funcionamiento del sistema municipal de transportes.
+Adoptar en general las medidas necesarias para asegurar el correcto funcionamiento del sistema municipal de transportes.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 5.
 
@@ -101,11 +111,13 @@ a.- Establecimiento de un sistema de transportes en todo el Municipio, mediante 
 
 b.- Satisfacción de las necesidades de la comunidad con el máximo grado de eficacia y con el mínimo costo económico social.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 6.
 
 Para la aplicación, interpretación y efectos del presente reglamento se establecen las siguientes definiciones y principios:
 
-Adecuación.- Es aquella solicitud por medio de la cual un permisionario solicita al Presidente Municipal, sea adecuada la modalidad original bajo el argumento de que no le esta siendo rentable y por lo mismo esta afectando la calidad del servicio. Esta solicitud no podrá presentarse sino hasta después de por lo menos 10 meses de servicio.
+Adecuación.- Es aquella solicitud por medio de la cual un permisionario solicita al Presidente Municipal, sea adecuada la modalidad original bajo el argumento de que no le está siendo rentable y por lo mismo está afectando la calidad del servicio. Esta solicitud no podrá presentarse sino hasta después de por lo menos 10 meses de servicio.
 
 Amonestación de Supervisión Mecánica.- Tiempo otorgado a permisionarios o concesionarios para efectuar las reparaciones mecánicas de las unidades.
 
@@ -115,25 +127,23 @@ Autoridad Municipal del Transporte.- El Ayuntamiento, la dependencia, entidad o 
 
 Base de Servicio.- Son los espacios físicos autorizados a los permisionarios o concesionarios del servicio público de transporte de pasajeros y de carga, para el ascenso, descenso, transferencia de los usuarios y en su caso contratación del servicio.
 
-Ceypse.- Centro de Estudios y Planeación del Desarrollo Sustentable de Ensenada.
-
 Cierre de circuito.- Son los espacios físicos autorizados en los que, sin realizar base, se efectúa el despacho de las unidades destinadas al servicio público de transporte de pasajeros y de carga, para iniciar o terminar su itinerario y en el que se controla el intervalo de salidas entre una y otra unidad.
 
-Concesión.- Acto administrativo mediante el cual el ayuntamiento otorga a una persona moral, la prestación del servicio publico de transporte masivo de pasajeros bajo las modalidades que establece la ley y el presente reglamento.
+Concesión.- Acto administrativo mediante el cual el ayuntamiento otorga a una persona moral, la prestación del servicio público de transporte masivo de pasajeros bajo las modalidades que establece la ley y el presente reglamento.
 
 Conductor.- Toda persona que maneje un vehículo en cualquiera de sus modalidades.
 
 Consejo.- Consejo Municipal del Transporte.
 
-Dirección.- La Dirección de Transportes del Ayuntamiento.
-
 Equipamiento Auxiliar de Transporte.- Son todos los accesorios directos e indirectos que resulten complementarios a la prestación del servicio público de transporte de pasajeros y de carga, que sean susceptibles de permiso por parte del Ayuntamiento.
 
 Hoja de ruta.- Es el documento por medio del cual se fija el recorrido por el que se expide el permiso o concesión correspondiente.
 
-Hoja de supervisión mecánica.- Documento extendido por la autoridad municipal del transporte, en la cual se refrenda que el vehículo revisado reúne los condiciones de seguridad, comodidad, y presentación que deberá reunir las unidades de Transporte Público de Pasajeros y de Carga.
+Hoja de supervisión mecánica.- Documento extendido por la autoridad municipal del transporte, en la cual se refrenda que el vehículo revisado reúne los (sic) condiciones de seguridad, comodidad, y presentación que deberá reunir las unidades de Transporte Público de Pasajeros y de Carga.
 
 Horario.- Hora de inicio y término a que deberá sujetarse la prestación del servicio público de transporte de pasajeros.
+
+IMIP.- Instituto Municipal de Investigación y Planeación.
 
 Itinerario.- Recorrido o trayecto que realizan las unidades de transporte público de pasajeros.
 
@@ -161,9 +171,9 @@ Plan Maestro de Vialidad y Transporte.- Conjunto de políticas, lineamientos, es
 
 Póliza de Seguro de viajero.- Documento mediante el cual el permisionario o concesionario acredita contar con seguro de cobertura amplia para en caso de accidente en unidades de transporte público.
 
-Recorrido.- Descripción detallada de las vialidades por las que transitan las unidades de transporte público.
+Recorrido.- Descripción detallado (sic) de las vialidades por las que transitan las unidades de transporte público.
 
-Registro Público de Transporte.- Es aquel por medio del cual se asienta fehacientemente todos los permisos, permisionarios, concesiones y concesionarios, así como los titulares y usufructuarios, chóferes y en general todas (sic) aquellos documentos que generen derechos y obligaciones para dar servicio público en las distintas modalidades de la ley y este reglamento.
+Registro Público de Transporte.- Es aquel por medio del cual se asienta fehacientemente todos los permisos, permisionarios, concesiones y concesionarios, así como los titulares y usufructuarios, chóferes y en general todas aquellos (sic) documentos que generen derechos y obligaciones para dar servicio público en las distintas modalidades de la ley y este reglamento.
 
 Reglamento.- El Reglamento de Transporte Público para el Municipio de Ensenada.
 
@@ -171,17 +181,17 @@ Reincidencia.- Violación repetida de lo estipulado en las leyes y reglamentos d
 
 Revista Vehicular.- Es la inspección física de las unidades, equipamiento auxiliar e infraestructura de los servicios de transporte público, a fin de comprobar el cumplimiento de las disposiciones en materia de equipo, aditamentos, sistemas y en general las condiciones de seguridad, operación y especificaciones técnicas para la óptima prestación del servicio.
 
-Ruta alimentadora.- Son las que operan recorridos con distancias de menor longitud que las denominadas rutas troncales, considerándose entre ellas las que efectúan el servicio público de la periferia de la ciudad abasteciendo a una ruta troncal o express.
+Ruta alimentadora.- Son las que operan recorridos con distancias de menor longitud que las denominadas rutas troncales, considerándose entre ellas las que efectúan el servicio público de la periferia de la ciudad abasteciendo a una ruta troncal o exprés.
 
-Ruta express.- Son las que operan por vías y corredores principales.
+Ruta exprés.- Son las que operan por vías y corredores principales.
 
 Ruta local.- Son las que operan por vialidades locales solo en tramos cortos de vialidades secundarias, como apoyo a las rutas alimentadoras, transportando y distribuyendo usuarios en las colonias de la periferia.
 
 Ruta troncal.- Son aquellas que operan por vías y corredores principales de la ciudad, uniendo puntos de transferencia de una ruta a otra.
 
-Ruta.- El recorrido realizado por vehículos de transporte público de pasajeros y de carga, clasificándose de la siguiente manera: ruta troncal, ruta alimentadora, ruta local, ruta express y ruta de servicio, las cuales deberán atender a su origen y destino.
+Ruta.- El recorrido realizado por vehículos de transporte público de pasajeros y de carga, clasificándose de la siguiente manera: ruta troncal, ruta alimentadora, ruta local, ruta exprés y ruta de servicio, las cuales deberán atender a su origen y destino.
 
-Servicio Especial de Transporte a Campos Agrícolas.- Es la actividad por virtud de la cual, las personas físicas llevan a cabo servicio de transporte de trabajadores del campo hacia los campos agrícolas y de regreso a su lugar de abordaje.
+Servicio Especial de Transporte a Campos Agrícolas.- Es la actividad por virtud de la cual las personas físicas llevan a cabo servicio de transporte de trabajadores del campo hacia los campos agrícolas y de regreso a su lugar de abordaje.
 
 Servicio Público de Transporte.- Es aquel a través del cual el Ayuntamiento satisface las necesidades de transporte de pasajeros o carga, por sí, o a través de permisionarios o concesionarios, que se ofrece en forma continua, uniforme, regular, permanente e ininterrumpida a persona indeterminada o al público en general, mediante diversos medios.
 
@@ -197,7 +207,7 @@ Terminal.- Es la estación vehicular autorizada por la autoridad municipal del t
 
 Transferencia de derechos.- Acto jurídico mediante el cual se ceden los derechos de un permiso de servicio público a otra persona, previa autorización de la autoridad municipal del transporte.
 
-Transporte Colectivo urbano o suburbano.- los destinados al traslado masivo de personas, que operan sujetos a itinerario, horario y tarifa fija. Este servicio se presta en unidades (sic) microbús, minibús, autobús con capacidad de origen de fábrica para pasajeros y otras modalidades de mayor capacidad que requieran de su propia infraestructura y equipamiento para su funcionamiento. Las cuales se dividen en:
+Transporte Colectivo urbano o suburbano.- Los destinados al traslado masivo de personas, que operan sujetos a itinerario, horario y tarifa fija. Este servicio se presta en unidades microbús, minibús, autobús con capacidad de origen de fábrica para pasajeros y otras modalidades de mayor capacidad que requieran de su propia infraestructura y equipamiento para su funcionamiento. Las cuales se dividen en:
 
 Trasporte de Alquiler.- Los destinados al transporte de personas, contratados por viaje o por tiempo determinado y autorizados en sitios. Entre estos vehículos se consideran los denominados de ruta, sujetos a tarifa fija o variable.
 
@@ -207,7 +217,9 @@ Transporte de Personal.- Los destinados al transporte de trabajadores a las empr
 
 Transporte Masivo.- Modalidad de transporte público que se caracteriza por desplazar grandes volúmenes de usuarios en pocas unidades de transporte.
 
-Transporte Turístico.- Los destinados al transporte de pasajeros solamente a lugares de interés turístico, arqueológico, arquitectónico, panorámico o artístico, mediante la renta por horas o días del vehículo y conductor, no estando sujeto a horario y tarifa fija, este servicio se presta en autobuses de distintas capacidades, o en su caso vehículos de propulsión humana o animal, bicitaxis, calandrias etc. acondicionados especialmente para brindar comodidad a los pasajeros.
+Transporte Turístico.- Los destinados al transporte de pasajeros solamente a lugares de interés turístico, arqueológico, arquitectónico, panorámico o artístico, mediante la renta por horas o días del vehículo y conductor, no estando sujeto a horario y tarifa fija, este servicio se presta en autobuses de distintas capacidades, o en su caso vehículos de propulsión humana o animal, bici taxis, calandrias etc. acondicionados especialmente para brindar comodidad a los pasajeros.
+
+Unidad.- La Unidad Municipal de Transporte del Ayuntamiento.
 
 Usuario.- Persona física o moral que hace uso del servicio público de transporte de pasajeros, de carga y del equipamiento auxiliar de transporte.
 
@@ -225,19 +237,27 @@ Vehículos para servicio de carga de servicio de grúa y remolques.- Los destina
 
 Vías públicas.- Las plazas, glorietas, calles, avenidas, calzadas, periféricos, paseos, puentes, vías de transporte colectivo, caminos vecinales y demás vías públicas de comunicación destinadas temporal o transitoriamente al servicio del público.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 7.
 
-Para los efectos administrativos la Dirección tiene la obligación de aplicar, fundamentando y motivando las resoluciones individuales o generales que emita. Será responsabilidad de la Dirección, que la aplicación e instrumentación del presente reglamento, se realice bajo los criterios de simplificación administrativa, descentralización de funciones, efectiva delegación de facultades y transparencia de trámites.
+Para los efectos administrativos la Unidad Municipal de Transporte tiene la obligación de aplicar, fundamentando y motivando las resoluciones individuales o generales que emita. Será responsabilidad de la Unidad, que la aplicación e instrumentación del presente reglamento, se realice bajo los criterios de simplificación administrativa, descentralización de funciones, efectiva delegación de facultades y transparencia de trámites.
 
-### CAPITULO II. DE LAS FACULTADES DE LA DIRECCION
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
+### CAPÍTULO II. DE LAS FACULTADES DE LA UNIDAD MUNICIPAL DE TRANSPORTE
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 8.
 
-Salvo disposición en contrario, los términos y plazos establecidos en este reglamento se contarán por días hábiles. Si el último día del plazo o la fecha determinada son inhábiles o las oficinas de la Dirección en donde deba realizarse el trámite permanecen cerradas durante el horario normal de labores, se prorrogará automáticamente el plazo hasta el siguiente día hábil.
+Salvo disposición en contrario, los términos y plazos establecidos en este reglamento se contarán por días hábiles. Si el último día del plazo o la fecha determinada son inhábiles o las oficinas de la Unidad Municipal de Transporte en donde deba realizarse el trámite permanecen cerradas durante el horario normal de labores, se prorrogará automáticamente el plazo hasta el siguiente día hábil.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 9.
 
-Para el cumplimiento del presente reglamento y los ordenamientos que de ella emanen, la Dirección, tendrá las siguientes funciones:
+Para el cumplimiento del presente reglamento y los ordenamientos que de ella emanen, la Unidad, tendrá las siguientes funciones:
 
 I.- Ordenar, regular fomentar, impulsar y estimular, el desarrollo del transporte público en el Municipio;
 
@@ -245,9 +265,9 @@ II.- Realizar todas aquellas acciones tendientes a que los servicios públicos d
 
 III.- Realizar los estudios sobre la oferta y la demanda de servicio público de transporte dentro del periodo que determine el Reglamento;
 
-IV.- Elaborar en coordinación con el Ceypse y someter a aprobación del Cabildo el Plan Maestro de Vialidad y Transporte que deberá ajustarse a los objetivos, políticas, metas y previsiones establecidos en el Plan Municipal de Desarrollo del Municipio. La Dirección dictará las medidas necesarias para garantizar el debido cumplimiento del Programa Integral de Transporte y para su actualización, acorde con las necesidades e infraestructura de las ciudades y centros poblacionales;
+IV.- Elaborar en coordinación con el IMIP y someter a aprobación del Cabildo el Plan Maestro de Vialidad y Transporte que deberá ajustarse a los objetivos, políticas, metas y previsiones establecidos en el Plan Municipal de Desarrollo del Municipio. La Unidad Municipal de Transporte dictará las medidas necesarias para garantizar el debido cumplimiento del Programa Integral de Transporte y para su actualización, acorde con las necesidades e infraestructura de las ciudades y centros poblacionales;
 
-V.- Organizar, regular, programar, orientar, y en su caso modificar la prestación de los servicios público (sic) de transporte de pasajeros y de carga en el municipio, conforme a lo prescrito en este Reglamento y demás disposiciones jurídicas y administrativas aplicables de acuerdo a las necesidades del municipio;
+V.- Organizar, regular, programar, orientar, y en su caso modificar la prestación de los servicios público de transporte de pasajeros y de carga en el municipio, conforme a lo prescrito en este Reglamento y demás disposiciones jurídicas y administrativas aplicables de acuerdo a las necesidades del municipio;
 
 VI.- Promover, impulsar y fomentar los sistemas de transporte que no sean de combustión interna, como el eléctrico, así como otros medios de transporte alterno;
 
@@ -261,15 +281,15 @@ X.- Otorgar autorizaciones temporales que no podrán exceder de 30 días para la
 
 XI.- Diseñar las vialidades necesarias y los dispositivos de control de tránsito, con base en los estudios integrales que para tal efecto se realicen;
 
-XII.- Coordinar las acciones, que en materia de protección al medio ambiente lleven a cabo las autoridades competentes en relación con la prestación de los servicios público (sic) de transporte así como promover el uso de combustibles alternos;
+XII.- Coordinar las acciones, que en materia de protección al medio ambiente lleven a cabo las autoridades competentes en relación con la prestación de los servicios público de transporte así como promover el uso de combustibles alternos;
 
 XIII.- Llevar a cabo los estudios que sustenten la necesidad de otorgar nuevos permisos para la prestación del servicio público de transporte de pasajeros, así como para autorizar el establecimiento de nuevos sistemas y rutas de transporte en el Municipio, y las modificaciones de las actualmente existentes; tomando como base los objetivos, metas y previsiones establecidas en el Plan Maestro de Vialidad y Transporte, la opinión del Consejo Municipal del Transporte y en su caso, de las comisiones correspondientes;
 
 XIV.- Proponer al Ayuntamiento para su aprobación el Dictamen Técnico donde se sustente la necesidad de redistribuir, modificar y adecuar los itinerarios, rutas y recorridos, de acuerdo con las necesidades y las condiciones impuestas por la planeación del transporte;
 
-XV.- Dictar los acuerdos necesarios para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público (sic) de transporte de pasajeros y de carga, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+XV.- Dictar los acuerdos necesarios para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público de transporte de pasajeros y de carga, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
 
-XVI.- Calificar las infracciones e imponer las sanciones correspondientes por violaciones al presente reglamento, en lo que se refiere a la prestación de los servicios público (sic) de transporte de pasajeros y carga, excepto en materia de tránsito y vialidad;
+XVI.- Calificar las infracciones e imponer las sanciones correspondientes por violaciones al presente reglamento, en lo que se refiere a la prestación de los servicios público de transporte de pasajeros y carga, excepto en materia de tránsito y vialidad;
 
 XVII.- Decretar la suspensión temporal de los permisos, en los casos que conforme al reglamento sea procedente;
 
@@ -279,7 +299,7 @@ XIX.- Instrumentar en coordinación con otras Dependencias, programas y campaña
 
 XX.- Promover en coordinación con las autoridades estatales y federales los mecanismos necesarios para regular rutas, reubicar terminales y en su caso, ampliar o restringir el tránsito del transporte de pasajeros y de carga del servicio público federal, tomando en cuenta las zonas urbanas, el impacto ambiental y el uso del suelo;
 
-XXI.- Llevar y mantener actualizado un Registro Público del Transporte de conformidad con lo dispuesto por este reglamento, y que, además incluya los vehículos que integran todas las modalidades del transporte en el municipio; permisos, concesiones, licencias de conducir, infracciones, sanciones, reincidencias y delitos del transporte; representantes, apoderados y mandatarios legales autorizados para realizar trámites y gestiones relacionados con los permisos y concesiones de transporte, y los demás registros que sean necesarios a juicio de la Dirección y de sus fines de orden y control;
+XXI.- Llevar y mantener actualizado un Registro Público del Transporte de conformidad con lo dispuesto por este reglamento, y que, además incluya los vehículos que integran todas las modalidades del transporte en el municipio; permisos, concesiones, licencias de conducir, infracciones, sanciones, reincidencias y delitos del transporte; representantes, apoderados y mandatarios legales autorizados para realizar trámites y gestiones relacionados con los permisos y concesiones de transporte, y los demás registros que sean necesarios a juicio de la Unidad Municipal de Transporte y de sus fines de orden y control;
 
 XXII.- Regular la publicidad en los vehículos de transporte en el municipio;
 
@@ -301,6 +321,8 @@ XXX.- Las demás que le confieran las leyes, o las disposiciones jurídicas y ad
 
 ### CAPITULO III. DEL CONSEJO MUNICIPAL DEL TRANSPORTE
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 10.
 
 El Ayuntamiento conformará un Consejo Técnico como órgano de consulta de carácter multisectorial e interinstitucional, para el estudio, análisis, discusión y evaluación de la problemática general en materia de transporte público, así como para la emisión de opiniones y recomendaciones que para su mejoramiento se estimen procedentes, mismas que se remitirán a las autoridades competentes.
@@ -313,11 +335,11 @@ II.- Formular anteproyectos de Reglamento, normas técnicas y acuerdos, remitié
 
 III.- Recomendar políticas y criterios para el otorgamiento de concesiones y permisos;
 
-IV.- Revisar y opinar respecto de las solicitudes de modificación de tarifas;
+IV.- Revisar y opinar respecto de las solicitudes de modificación de tarifas.
 
-V.- Revisar y emitir opinión del Plan Maestro de Vialidad y Transporte;
+V.- Revisar y emitir opinión del Plan Maestro de Vialidad y Transporte.
 
-VI.- Analizar la problemática de los servicios de transporte proponiendo alternativas viables para su solución;
+VI.- Analizar la problemática de los servicios de transporte proponiendo alternativas viables para su solución.
 
 VII.- Emitir su Reglamento Interior y normatividad de funcionamiento;
 
@@ -329,11 +351,13 @@ X.- Promover y difundir programas para concienciar a los usuarios, respecto del 
 
 XI.- Promover los estudios de combustibles alternos para unidades del transporte;
 
-XII.- Fomentar e impulsar dentro de su cobertura geográfica, una cultura del transporte;
+XII.- Fomentar e impulsar dentro de su cobertura geográfica, una cultura del transporte.
 
 XIII.- Las demás que establezca este Reglamento y ordenamientos legales de la materia.
 
 DE LA INTEGRACIÓN DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 11.
 
@@ -341,19 +365,21 @@ El Consejo se integrará por:
 
 I.- El Presidente Municipal o quien él designe;
 
-II.- Un representante de los permisionarios y concesionarios por cada modalidad del transporte público;
+II.- Un representante de los permisionarios y concesionarios por cada modalidad del transporte público.
 
-III.- El Regidor que presida la comisión del Ayuntamiento relativa a la materia;
+III.- El Regidor que presida la comisión del Ayuntamiento relativa a la materia.
 
-IV.- Un representante ciudadano en número igual a los anteriores;
+IV.- Un representante ciudadano en número igual a los anteriores.
 
 En los casos que así lo determine el Consejo, podrán integrarse al mismo con voz, pero sin derecho a voto, representantes de autoridades de transporte estatal y federal.
 
 Su conformación se realizará mediante convocatoria pública que emita el Ayuntamiento y el nombramiento de consejero tendrá el carácter de honorífico, debiendo durar en el cargo un período de un año.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 12.
 
-DE LA CONVOCATORIA PUBLICA.
+DE LA CONVOCATORIA PÚBLICA.
 
 La elección de los representantes de los transportistas y ciudadanos se realizará mediante convocatoria pública que emita el Ayuntamiento con quince días de anticipación a la fecha en que vaya a verificarse, publicándose en uno de los diarios de mayor circulación en el Municipio.
 
@@ -373,11 +399,15 @@ IV.- Presentar solicitud con fotografía;
 
 También deberá indicarse en la convocatoria, término, horario y lugar en que deberá presentarse la solicitud, así como el procedimiento a seguir para la elección de los representantes de los permisionarios y concesionarios por cada modalidad del transporte público, que en todo caso será a través del voto directo y secreto de los representantes legales de los concesionarios, quienes decidirán entre los candidatos registrados para la modalidad a la que pertenezcan.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 14.
 
 DEL PROCESO DE ELECCIÓN.
 
 De acuerdo a lo establecido en el presente reglamento, la elección del representante del consejo del transporte será por insaculación, el representante de la modalidad correspondiente no podrá ser reelecto, como miembro del consejo de transporte para el período inmediato siguiente y solo podrá ser reelecto una vez que todos los representantes de todos los medios de transporte de la modalidad de que se trate hayan sido parte integrante del consejo o bien hayan renunciado a dicho derecho.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 15.
 
@@ -387,29 +417,31 @@ Para ser integrante del Consejo se requiere:
 
 I.- Tratándose de representantes de los transportistas:
 
-a) En caso de concesionarios, deberá de ser el Presidente del Consejo de Administración o la persona que ejerza la Dirección y/o Administración del grupo concesionario;
+En caso de concesionarios, deberá ser el Presidente del Consejo de Administración o la persona que ejerza la dirección o administración del grupo concesionario;
 
-b) En el caso de permisionarios, contar con permiso vigente para prestar el servicio público de transporte;
+En el caso de permisionarios, contar con permiso vigente para prestar el servicio público de transporte;
 
-c) Resultar electo por el proceso de insaculación en la modalidad de transporte público a la que pertenezca, por tener permiso o concesión para prestar el servicio y
+Resultar electo por los permisionarios o concesionarios de la modalidad de transporte público a la que pertenezca, por tener permiso o concesión para prestar el servicio y
 
-d) No contar con más de tres amonestaciones en un periodo de seis meses.
+No contar con más de tres amonestaciones en un periodo de seis meses.
 
 II.- Tratándose de representantes Ciudadanos:
 
-a) No ser permisionario o miembro de una empresa o sociedad concesionaria, ni operador de una unidad de transporte;
+No ser permisionario o miembro de una empresa o sociedad concesionaria, ni operador de una unidad de transporte;
 
-b) Ser residente del Municipio de Ensenada, con una antigüedad de por lo menos cinco años;
+Ser residente del Municipio de Ensenada, con una antigüedad de por lo menos cinco años;
 
-c) No ser Funcionario Público o tener cargo de elección popular;
+No ser Funcionario Público o tener cargo de elección popular;
 
-d) No pertenecer a ningún Sindicato relacionado con los transportistas o ser miembro activo del mismo;
+No pertenecer a ningún Sindicato relacionado con los transportistas o ser miembro activo del mismo;
 
-e) Ser designado por Organismo o Institución al que pertenezca y represente;
+Ser designado por Organismo o Institución al que pertenezca y represente.
 
-f) No tener algún cargo en partido político o asignación de cargos dentro del Consejo;
+No tener algún cargo en partido político o asignación de cargos dentro del Consejo.
 
-g) El Ayuntamiento es el responsable de la organización, desarrollo y sanción del proceso.
+El Ayuntamiento es el responsable de la organización, desarrollo y sanción del proceso.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 16.
 
@@ -417,27 +449,39 @@ DE LOS DERECHOS DE LOS INTEGRANTES.
 
 Los integrantes del Consejo tendrán derecho a voz y voto y desempeñarán sus funciones en forma honorífica. Por cada miembro propietario se nombrará un suplente quien tendrá las facultades del primero durante sus ausencias.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 17.
 
-DE LA INVITACIÓN A SESIONES.
+DE LA INVITACIÓN A SESIONES
 
 El Presidente podrá invitar a participar en las sesiones del Consejo a los integrantes de otras dependencias, entidades o agrupaciones o miembros de la sociedad cuya opinión se considere conveniente escuchar en virtud de los asuntos que se traten; los invitados a participar tendrán derecho al uso de la voz, pero no tendrán derecho a voto.
 
 DE LAS FUNCIONES DEL PRESIDENTE Y DEL SECRETARIO TÉCNICO.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ### CAPITULO IV. DE LOS USUARIOS Y PEATONES
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 27.
 
 Este Reglamento y los ordenamientos que de él emanen otorgarán el derecho de preferencia al usuario y al peatón, por lo que se establecerán las medidas necesarias a fin de garantizar al usuario la prestación del servicio público de transporte de pasajeros y de carga con estricto apego a la normatividad aplicable, y asimismo para que en las vialidades se implementen los mecanismos e infraestructura que garanticen su seguridad personal.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 28.
 
 El Ayuntamiento deberá garantizar mediante la infraestructura y los señalamientos viales necesarios, el tránsito seguro de los usuarios y peatones y la posibilidad de conectarse entre medios de transporte y vialidades, ya sea mediante corredores, andenes, semáforos, puentes, pasos a nivel o a desnivel, y otros dispositivos y protecciones necesarias. Asimismo, evitar, en coordinación con otras Dependencias que dichas vialidades e infraestructura en lo que respecta a los servicios y operación del transporte sean obstaculizadas o invadidas.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 29.
 
-La Dirección promoverá las acciones necesarias para que las vialidades peatonales existentes, los corredores, andenes y en general la infraestructura de conexión de los diversos medios de transporte, se mantengan en buen estado, con el fin de proporcionar a los usuarios y peatones el tránsito seguro por estas, llevando a cabo las medidas necesarias para que en las vialidades se establezcan facilidades para el acceso de la población infantil, escolar, personas con discapacidad, de la tercera edad y mujeres en periodo de gestación.
+La Unidad Municipal de Transporte promoverá las acciones necesarias para que las vialidades peatonales existentes, los corredores, andenes y en general la infraestructura de conexión de los diversos medios de transporte, se mantengan en buen estado, con el fin de proporcionar a los usuarios y peatones el tránsito seguro por estas, llevando a cabo las medidas necesarias para que en las vialidades se establezcan facilidades para el acceso de la población infantil, escolar, personas con discapacidad, de la tercera edad y mujeres en periodo de gestación.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 30.
 
@@ -459,15 +503,19 @@ b.- Con excepción de las cargas a granel, cuando la carga no esté debidamente 
 
 c.- Cuando el solicitante no declare o se niegue a declarar el contenido de la carga.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 31.
 
 Toda unidad que tenga como fin la prestación del servicio público de transporte de pasajeros o de carga, deberá contar con póliza de seguro de viajero vigente que ampare por lo menos los daños y perjuicios que con motivo de dicha actividad pudiesen ocasionarse a los usuarios, y a terceros, en su persona o patrimonio.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 32.
 
-Los usuarios tienen derecho a denunciar ante la Dirección cualquier irregularidad en la prestación del servicio público de transporte, mediante los procedimientos que la propia Dirección establezca bajo los principios de prontitud, expedites, imparcialidad, integridad y gratuidad a que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
+Los usuarios tienen derecho a denunciar ante la Unidad cualquier irregularidad en la prestación del servicio público de transporte, mediante los procedimientos que la propia Unidad Municipal de Transporte establezca bajo los principios de prontitud, expedites, imparcialidad, integridad y gratuidad a que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Para este efecto, independientemente de los órganos de control, la Dirección establecerá en las áreas administrativas de las dependencias, organismos descentralizados, personas físicas o morales de participación y, en su caso, órganos desconcentrados relacionados con la prestación de los servicios públicos de transporte, Unidades de Información y Quejas que posibiliten a los interesados ejercer el derecho consignado en el párrafo que antecede.
+Para este efecto, independientemente de los órganos de control, la Unidad Municipal de Transporte establecerá en las áreas administrativas de las dependencias, organismos descentralizados, personas físicas o morales de participación y, en su caso, órganos desconcentrados relacionados con la prestación de los servicios públicos de transporte, Unidades de Información y Quejas que posibiliten a los interesados ejercer el derecho consignado en el párrafo que antecede.
 
 ###### Artículo 18.
 
@@ -479,7 +527,7 @@ II.- Iniciar, concluir o suspender, en su caso, las sesiones del Consejo y fungi
 
 III.- Proponer en cada caso, el orden del día que deberá desahogarse en la sesión correspondiente;
 
-IV.- Proporcionar a los miembros del Consejo, por conducto del Secretario Técnico, la información necesaria para tratar los asuntos relacionados con el transporte público;
+IV.- Proporcionar a los miembros del Consejo, por conducto del Secretario Técnico, la información necesaria para tratar los asuntos relacionados con el transporte público.
 
 V.- Someter a aprobación los asuntos de las sesiones del Consejo;
 
@@ -493,17 +541,19 @@ IX.- Presentar informes trimestrales al Consejo, de acuerdo a los asuntos tratad
 
 X.- Las demás que le conceda el Consejo.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 19.
 
-DE LAS FUNCIONES DEL SECRETARIO TÉCNICO.
+DE LAS FUNCIONES DEL SECRETARIO TÉCNICO
 
 I.- Recibir la documentación en que consten los nombramientos y substituciones de los miembros del Consejo;
 
 II.- Elaborar el orden del día conforme a las instrucciones del Presidente del Consejo, y el acta de las sesiones;
 
-III.- Notificar a los miembros del Consejo la fecha y hora de las sesiones, haciéndoles llegar copia del orden del día y los proyectos que se encuentren listados, cuando menos con tres días de anticipación a la fecha de la sesión;
+III.- Notificar a los miembros del Consejo la fecha y hora de las sesiones, haciéndoles llegar copia del orden del día y los proyectos que se encuentren listados, cuando menos con tres días de anticipación a la fecha de la sesión.
 
-IV.- Computar y verificar el quórum, dando cuenta de ello al Presidente del Consejo;
+IV.- Computar y verificar el quórum, dando cuenta de ello al Presidente del Consejo.
 
 V.- Dar lectura al acta de la sesión anterior y formular la correspondiente a la que se celebre, asentando en forma detallada el desarrollo de la misma;
 
@@ -517,19 +567,29 @@ IX.- En general, llevar a cabo todas las actividades que específicamente le enc
 
 DEL FUNCIONAMIENTO DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 20.
 
 DE LOS MIEMBROS.
 
-Los miembros del Consejo, tendrán las atribuciones que determine en su reglamento interior. El Consejo deberá sesionar cuando menos una vez por mes, y en forma extraordinaria en cualquier tiempo, principalmente por circunstancias urgentes o graves, previa convocatoria de su Presidente.
+Los miembros del Consejo, tendrán las atribuciones que determine en su reglamento interior.
+
+El Consejo deberá sesionar cuando menos una vez por mes, y en forma extraordinaria en cualquier tiempo, principalmente por circunstancias urgentes o graves, previa convocatoria de su Presidente.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 21.
 
-DE LA CONVOCATORIA A SESIONES.
+DE LA CONVOCATORIA A SESIONES
 
 El Consejo, por medio de su Presidente, convocará por escrito y con 72 horas de anticipación a las sesiones ordinarias y extraordinarias que se requieran, acompañando en su caso el orden del día y la documentación e información necesaria.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ### CAPITULO V. DE LA CAPACITACION Y EDUCACIÓN VIAL
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 33.
 
@@ -537,9 +597,11 @@ Los Gobiernos Municipales promoverán las acciones permanentes necesarias en mat
 
 Diseñará e instrumentará programas permanentes de seguridad, educación vial y prevención de accidentes, que tengan como propósito fundamental crear en los habitantes del municipio, conciencia, hábitos y cultura de respeto a los ordenamientos legales en materia de transporte.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 34.
 
-Además de las políticas precisadas en el artículo anterior, la Dirección creará un Centro de Estudios y Capacitación para el Transporte y Vialidad e instrumentará las acciones tendientes a hacer efectivos los programas y cursos de capacitación y actualización que se impartan en los mismos, que tendrá, entre otras las siguientes facultades:
+Además de las políticas precisadas en el artículo anterior, la Unidad Municipal de Transporte creará un Centro de Estudios y Capacitación para el Transporte y Vialidad e instrumentará las acciones tendientes a hacer efectivos los programas y cursos de capacitación y actualización que se impartan en los mismos, que tendrá, entre otras las siguientes facultades:
 
 a.- Crear la infraestructura necesaria para poder impartir con práctica y teoría, educación y cursos de manejo para aspirantes a chóferes de servicio público de transporte y cursos, seminarios y conferencias de actualización para los chóferes, permisionarios y concesionarios operadores del sistema de transporte municipal;
 
@@ -549,9 +611,11 @@ c.- Certificar a los aspirantes a obtener licencia de conducir; y
 
 d.- Promover con los permisionarios y concesionarios, la capacitación que estos impartan;
 
-La Dirección establecerá en coordinación con las autoridades competentes, los programas y cursos de capacitación a los cuales deberán sujetarse los conductores de vehículos de transporte en todas sus modalidades, los concesionarios, los permisionarios, y en general, los transportistas.
+La Unidad Municipal de Transporte establecerá en coordinación con las autoridades competentes, los programas y cursos de capacitación a los cuales deberán sujetarse los conductores de vehículos de transporte en todas sus modalidades, los concesionarios, los permisionarios, y en general, los transportistas.
 
 ### CAPITULO VI. DEL SERVICIO DE TRANSPORTE Y EL EQUIPAMIENTO AUXILIAR DE TRANSPORTE
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 35.
 
@@ -561,13 +625,13 @@ I.- Vehículos para el servicio de pasajeros:
 
 a.- De transporte colectivo, urbano o suburbano.- Los destinados al transporte masivo de personas, sujetos a itinerario, horario, frecuencia y tarifa fija;
 
-b.- De alquiler.- Los destinados al transporte de personas, contratados por viaje o por tiempo determinado y autorizados en sitios. Entre estos vehículos se consideran los denominados de ruta, sujetos a tarifa fija o variable; los de (sic) denominados de operación mixta, sujetos a la posibilidad de alternar en sitio y libre, en intervalos quincenales. Esta modalidad es de carácter especial tiene por objeto despresurizar sitios y espacios en las vías publicas; y los denominados libres que ofrecen servicio público de transporte individual de pasajeros, sin itinerario fijo, ni adscripción permanente a alguna base de servicio en el ámbito territorial de Ensenada y que operan con Taxímetro que indica el costo del viaje conforme a la tarifa autorizada, calculado de acuerdo a la distancia recorrida, tiempo de espera, demora del tránsito, cargo o banderazo inicial, número de pasajeros y otros cargos autorizados;
+b.- De alquiler.- Los destinados al transporte de personas, contratados por viaje o por tiempo determinado y autorizados en sitios. Entre estos vehículos se consideran los denominados de ruta, sujetos a tarifa fija o variable; los de denominados de operación mixta, sujetos a la posibilidad de alternar en sitio y libre, en intervalos quincenales. Esta modalidad es de carácter especial tiene por objeto despresurizar sitios y espacios en las vías públicas; y los denominados libres que ofrecen servicio público de transporte individual de pasajeros, sin itinerario fijo, ni adscripción permanente a alguna base de servicio en el ámbito territorial de Ensenada y que operan con Taxímetro que indica el costo del viaje conforme a la tarifa autorizada, calculado de acuerdo a la distancia recorrida, tiempo de espera, demora del tránsito, cargo o banderazo inicial, número de pasajeros y otros cargos autorizados.
 
 c.- De servicio de transporte turístico.- Los destinados al transporte de personas a lugares de interés turístico, arqueológico, arquitectónico, panorámico o artístico, mediante renta por horas o días con chofer;
 
-d.- De servicio de transporte escolar.- Los destinados al transporte de estudiantes de las instituciones educativas por parte de los permisionarios de servicio público dentro de esta modalidad; y (sic)
+d.- De servicio de transporte escolar.- Los destinados al transporte de estudiantes de las instituciones educativas por parte de los permisionarios de servicio público dentro de esta modalidad; y
 
-e.- De servicio de transporte de personal.- Los destinados al transporte de trabajadores que labore en empresas o industrias establecidas en el Municipio, ante la falta de cobertura del transporte colectivo sujeto a itinerario fijo o como consecuencia de los horarios en las jornadas de trabajo. En ningún caso esta modalidad podrá realizar la operación de ascenso y descenso de pasaje en las rutas establecidas;
+e.- De servicio de transporte de personal.- Los destinados al transporte de trabajadores que labore en empresas o industrias establecidas en el Municipio, ante la falta de cobertura del transporte colectivo sujeto a itinerario fijo o como consecuencia de los horarios en las jornadas de trabajo. En ningún caso esta modalidad podrá realizar la operación de ascenso y descenso de pasaje en las rutas establecidas.
 
 f.- De Transporte a Campos Agrícolas.- Por la especial naturaleza de este servicio que eminentemente es de temporada, es aquel destinado a transportar exclusivamente a trabajadores del campo hacia los campos agrícolas y de regreso a su lugar de abordaje, esta modalidad especial requiere de cartas de intención, convenios o contratos entre empresas agrícolas y el transportista en las que se especifique que la contratante es la que cubrirá el costo de la transportación, así como el itinerario el cual será motivo de revisión para, en su caso, autorización expresa de tiempo, modo y lugar. Por la especial naturaleza de este servicio que eminentemente es de temporada se requiere de permiso.
 
@@ -579,31 +643,45 @@ b.- De servicio especializado.- Los destinados a transportar un tipo específico
 
 c.- De servicio de grúa y remolques.- Los destinados a transportar o remolcar otros vehículos.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 36.
 
 El servicio de transporte de tracción animal, que se destina tanto al transporte de pasajeros como al de carga se sujetará a las disposiciones reglamentarias municipales.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 37.
 
-El servicio de transporte en todas sus modalidades se ajustará a los Programas de Transporte, a fin de satisfacer las necesidades de la población y la demanda de los usuarios del servicio de transporte, la Dirección deberá procurar la homologación de tarifas, horarios, intercambios, frecuencias y demás infraestructura, y condiciones en las que se proporciona, buscando la conexión de las rutas, con especial atención a las zonas que carecen de medios de transporte o que se encuentran mal comunicadas.
+El servicio de transporte en todas sus modalidades se ajustará a los Programas de Transporte, a fin de satisfacer las necesidades de la población y la demanda de los usuarios del servicio de transporte, la Unidad Municipal de Transporte deberá procurar la homologación de tarifas, horarios, intercambios, frecuencias y demás infraestructura, y condiciones en las que se proporciona, buscando la conexión de las rutas, con especial atención a las zonas que carecen de medios de transporte o que se encuentran mal comunicadas.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 38.
 
 El Plan Maestro de Vialidad y Transporte, deberá considerar todas las medidas administrativas y operativas que garanticen el adecuado funcionamiento del transporte de pasajeros y de carga, en función del máximo aprovechamiento del diseño de las vialidades, tomando siempre en cuenta la obligación de garantizar tanto al usuario como al peatón, las condiciones e infraestructura para su tránsito.
 
-Corresponde a la Dirección en coordinación con otras autoridades competentes la correcta aplicación de ese Programa, el que deberá actualizarse en forma permanente.
+Corresponde a la Unidad Municipal de Transporte en coordinación con otras autoridades competentes la correcta aplicación de ese Programa, el que deberá actualizarse en forma permanente.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 39.
 
-Las unidades destinadas a la prestación del servicio de transporte se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expida la Dirección, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos, especiales para usuarios con capacidades diferentes, y económicos correspondientes, sujetándose en lo aplicable a las disposiciones de las leyes de la materia.
+Las unidades destinadas a la prestación del servicio de transporte se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expido la Unidad, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos, especiales para usuarios con capacidades diferentes, y económicos correspondientes, sujetándose en lo aplicable a las disposiciones de las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 40.
 
-El servicio público de transporte y el equipamiento auxiliar, se ajustarán a los lineamientos que fije la Dirección en lo relacionado con las modalidades para su explotación, las condiciones de operación, el número y tipo de unidades, las rutas y demás infraestructura que resulte necesaria.
+El servicio público de transporte y el equipamiento auxiliar, se ajustarán a los lineamientos que fije la Unidad Municipal de Transporte en lo relacionado con las modalidades para su explotación, las condiciones de operación, el número y tipo de unidades, las rutas y demás infraestructura que resulte necesaria.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 41.
 
-La Dirección llevará a cabo, el control, atención y tratamiento de los permisionarios y concesionarios de los servicios de transporte, en un plano de igualdad y establecerá los mecanismos necesarios para privilegiar el servicio público de transporte, con objeto de garantizar su acceso a todos los sectores de la población, sobre todo a las zonas populares o aquellas en donde el servicio proporcionado por los permisionarios o concesionarios sea insuficiente.
+La Unidad Municipal de Transporte llevará a cabo, el control, atención y tratamiento de los permisionarios y concesionarios de los servicios de transporte, en un plano de igualdad y establecerá los mecanismos necesarios para privilegiar el servicio público de transporte, con objeto de garantizar su acceso a todos los sectores de la población, sobre todo a las zonas populares o aquellas en donde el servicio proporcionado por los permisionarios o concesionarios sea insuficiente.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 42.
 
@@ -612,6 +690,8 @@ Los vehículos destinados al servicio público de transporte de pasajeros y de c
 Asimismo, deberán cumplir con las condiciones que se establezcan en el permiso o concesión correspondiente, relacionadas con aspectos técnicos, ecológicos, físicos, antropométricos, de seguridad, capacidad y comodidad, y de forma obligatoria tratándose de unidades destinadas al servicio público de transporte de pasajeros, las condiciones de accesibilidad para personas con capacidades diferentes, personas de la tercera edad y mujeres en período de gestación.
 
 ### CAPITULO VII. DE LOS PERMISOS
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 43.
 
@@ -629,25 +709,25 @@ III.- Servicio de Transporte Turístico.
 
 a).- Autobuses, minibuses.
 
-b).- Mototaxis.
+b).- Moto taxis.
 
-c).- Vehículos de propulsión humana Bicitaxis.
+c).- Vehículos de propulsión humana Bici taxis.
 
-d).- Vehículos de propulsión animal, (Calandrias).
+d).- Vehículos de propulsión animal. (Calandrias).
 
 IV.- Servicio de Transporte de Carga.
 
 a).- De servicio general, destinados a cualquier tipo de carga.
 
-b).- De servicio especializado, destinado a transportar un tipo especifico de carga.
+b).-·De servicio especializado, destinado a transportar un tipo especifico de carga.
 
 V.- Servicio de Grúas o Remolque de Vehículos.
 
-VI.- Las demás que establezcan (sic) el Reglamento.
+VI.- Las demás que establezcan el Reglamento.
 
-Los vehículos destinados al transporte público deberán de presentar para su registro, el permiso autorizado por el Ayuntamiento donde se prestará el servicio.
+Los vehículos destinados al transporte público deberán de presentar para su registro, el permiso autorizado por el Ayuntamiento donde se prestará el servicio. El tiempo de duración será de 6 años y podrán ser prorrogables por periodos iguales y sucesivos.
 
-El tiempo de duración será de 6 años y podrán ser prorrogables por periodos iguales y sucesivos.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 44.
 
@@ -665,6 +745,8 @@ Los permisionarios de la misma modalidad en materia de servicio público de tran
 
 Para la expedición de permisos en las demás modalidades, se estará a lo dispuesto en el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 45.
 
 Previo al otorgamiento del permiso para la prestación del servicio público de transporte, deberán haberse acreditado como mínimo los siguientes requisitos e información de las personas físicas titulares, según corresponda.
@@ -679,43 +761,53 @@ IV.- Presentar carta en la que ponga de manifiesto la forma en que el interesado
 
 V.- Cumplir con los requisitos exigidos en otras leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 46.
 
 Las solicitudes de refrendo, revalidación, prórroga, modificación o adecuación de los permisos y equipamiento auxiliar de transporte que presenten los permisionarios, deberán acompañarse de los estudios técnicos correspondientes y los programas de explotación respectivos, los cuales estarán certificados por un perito o técnico en materia de transporte y sujetos a la aprobación respectiva.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 47.
 
 La duración de los permisos será de seis años y podrán ser prorrogados por períodos iguales y sucesivos, conforme lo establezca este reglamento, siempre que se hubieren cumplido y respetado en todos sus términos, las condiciones establecidas en el permiso.
 
-Los permisos que otorgue el Ayuntamiento y en consecuencia expida la Dirección de conformidad con esta reglamentación municipal deberán señalar con precisión su tiempo de vigencia.
+Los permisos que otorgue el Ayuntamiento y en consecuencia expida la Unidad Municipal de Transporte de conformidad con esta reglamentación municipal deberán señalar con precisión su tiempo de vigencia.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 48.
 
 El término de vigencia de los permisos podrá prorrogarse, siempre y cuando se den los siguientes supuestos:
 
-I.- Que el permisionario haya cumplido a satisfacción de la Dirección con todas y cada una de las condiciones y requisitos establecidos en el permiso, en el reglamento y en las demás disposiciones jurídicas y administrativas aplicables;
+I.- Que el permisionario haya cumplido a satisfacción de la Unidad Municipal de Transporte con todas y cada una de las condiciones y requisitos establecidos en el permiso, en el reglamento y en las demás disposiciones jurídicas y administrativas aplicables;
 
 II.- Que derivado del estudio técnico que se realice, se determine la necesidad de que el servicio se siga proporcionando;
 
 III.- Que no exista conflicto respecto a la personalidad, ni controversia de titularidad respecto al permiso o infraestructura, bienes, vialidades, itinerarios o rutas y demás elementos que son inherentes a la misma;
 
-IV.- Que en todo caso el permisionario acepte las modificaciones que por cuestiones de interés general o mejoramiento del servicio, le sean impuestas por la Dirección.
+IV.- Que en todo caso el permisionario acepte las modificaciones que por cuestiones de interés general o mejoramiento del servicio, le sean impuestas por la Unidad.
 
 La solicitud de prórroga deberá presentarse por escrito ante el Presidente Municipal dentro del cuarto mes anterior al vencimiento del permiso, previa solicitud que realice el permisionario, conforme a los datos que obren en el Registro Público de Transportes.
 
-La falta de solicitud no afectará el ejercicio de las facultades de la Dirección, respecto a la extinción y en su caso, adjudicación del permiso en términos de este reglamento, a fin de no lesionar los derechos de los usuarios.
+La falta de solicitud no afectará el ejercicio de las facultades de la Unidad, respecto a la extinción y en su caso, adjudicación del permiso en términos de este reglamento, a fin de no lesionar los derechos de los usuarios.
 
-Si la solicitud es presentada en tiempo y forma, la Dirección tendrá como máximo un plazo de tres meses a partir de la fecha de presentación de la solicitud para resolver sobre su procedencia; si transcurrido dicho plazo la Dirección no da respuesta, se entenderá que la prórroga esta aprobada y el permisionario deberá presentar dentro de los cinco días siguientes los comprobantes de pago de derechos y los documentos e información necesaria, para que dentro de los quince días posteriores le sea otorgado el documento correspondiente.
+Si la solicitud es presentada en tiempo y forma, la Unidad Municipal de Transporte tendrá como máximo un plazo de tres meses a partir de la fecha de presentación de la solicitud para resolver sobre su procedencia; si transcurrido dicho plazo la Unidad no da respuesta, se entenderá que la prórroga esta aprobada y el permisionario deberá presentar dentro de los cinco días siguientes los comprobantes de pago de derechos y los documentos e información necesaria, para que dentro de los quince días posteriores le sea otorgado el documento correspondiente.
 
 La falta de presentación de la solicitud de prórroga en el término señalado, implicará la extinción automática del permiso sin necesidad de resolución alguna.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 49.
 
-Los derechos y obligaciones derivados de un permiso para la prestación del servicio público de transporte, no podrán transferirse y menos aun enajenarse sin la previa autorización expresa y por escrito de la Dirección. Cualquier tipo de enajenación que se realice sin cumplir con dicho requisito, será nula y no surtirá efecto legal alguno.
+Los derechos y obligaciones derivados de un permiso para la prestación del servicio público de transporte, no podrán transferirse y menos aun enajenarse sin la previa autorización expresa y por escrito de la Unidad. Cualquier tipo de enajenación que se realice sin cumplir con dicho requisito, será nula y no surtirá efecto legal alguno.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 50.
 
-La Dirección deberá autorizar la cesión de los derechos y obligaciones derivados de un permiso, siempre y cuando se den los siguientes supuestos:
+La Unidad Municipal de Transporte deberá autorizar la cesión de los derechos y obligaciones derivados de un permiso, siempre y cuando se den los siguientes supuestos:
 
 I.- Que el permiso hubiere estado a nombre del titular por un lapso no menor de tres años;
 
@@ -723,21 +815,27 @@ II.- Que el titular haya cumplido con todas las obligaciones establecidas en el 
 
 III.- Que el titular propuesto reúna los requisitos establecidos en el permiso y en las demás disposiciones jurídicas y administrativas aplicables; y
 
-IV.- Que el titular propuesto acepte expresamente, en su caso, las modificaciones establecidas por la Dirección para garantizar la adecuada prestación del servicio.
+IV.- Que el titular propuesto acepte expresamente, en su caso, las modificaciones establecidas por la Unidad Municipal de Transporte para garantizar la adecuada prestación del servicio.
 
-De autorizarse la cesión de un permiso, el nuevo titular se subrogará en los derechos y obligaciones que le son inherentes y será responsable de la prestación del servicio en los términos y condiciones en que fue inicialmente expedido el permiso correspondiente y las modificaciones que en su caso hubiere realizado la Dirección.
+De autorizarse la cesión de un permiso, el nuevo titular se subrogará en los derechos y obligaciones que le son inherentes y será responsable de la prestación del servicio en los términos y condiciones en que fue inicialmente expedido el permiso correspondiente y las modificaciones que en su caso hubiere realizado la Unidad.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 51.
 
-La Dirección resolverá la solicitud de cesión o transmisión de los derechos derivados de un permiso, en un término que no excederá de sesenta días a partir de que se hayan satisfecho todos los requisitos.
+La Unidad Municipal de Transporte resolverá la solicitud de cesión o transmisión de los derechos derivados de un permiso, en un término que no excederá de sesenta días a partir de que se hayan satisfecho todos los requisitos.
 
 Si agotado el plazo mencionado no se ha resuelto la petición respectiva, se entenderá como favorable para los efectos legales procedentes sin necesidad de certificación alguna y el interesado deberá presentar dentro de los cinco días siguientes, los comprobantes de pago de derechos y la documentación e información respectiva, para que dentro de los quince días posteriores le sea otorgado el documento correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 52.
 
-Los derechos derivados de un permiso, el equipamiento auxiliar de transporte, los bienes muebles e inmuebles, las unidades y sus accesorios que estén afectos a la prestación del servicio público de transporte de pasajeros, sólo podrán ser enajenados o gravados por el permisionario mediante la conformidad expresa y por escrito de la Dirección, sin cuyo requisito no surtirá efecto legal alguno la operación que se realice.
+Los derechos derivados de un permiso, el equipamiento auxiliar de transporte, los bienes muebles e inmuebles, las unidades y sus accesorios que estén afectos a la prestación del servicio público de transporte de pasajeros, sólo podrán ser enajenados o gravados por el permisionario mediante la conformidad expresa y por escrito de la Unidad, sin cuyo requisito no surtirá efecto legal alguno la operación que se realice.
 
 ### CAPITULO VIII. DE LAS CONCESIONES
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 53.
 
@@ -757,9 +855,13 @@ d).- De servicio de transporte escolar.
 
 e).- De servicio de transporte de personal.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 54.
 
 Previo acuerdo que adopte el Ayuntamiento en el cual declare la imposibilidad de prestar directamente el servicio de transporte masivo de pasajeros, de transporte de personal o de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, la Secretaría del Ayuntamiento emitirá la convocatoria para sujetar al régimen de concesión la prestación del o los servicios públicos descritos, la cual deberá incluir los términos, condiciones y caducidad bajo los cuales habrá de otorgar y el procedimiento al que se sujetará.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 55.
 
@@ -777,21 +879,27 @@ V.- Presentar un proyecto ejecutivo que contenga el padrón de conductores, el c
 
 VI.- Indicar el lugar de encierro de las unidades y estudios de planeación que acrediten se garantice en el corto y largo plazo, que no se utilizarán una o varias vialidades como lanzaderas, estacionamientos, sitios, cierres de circuito, paraderos, zona de ascenso y descenso y en general toda actividad que perjudique la (sic) libre flujo de la vialidad o vialidades colindantes con el lugar o lugares de encierro de las unidades;
 
-VII.- Acreditar el pago de los derechos correspondientes; y (sic)
+VII.- Acreditar el pago de los derechos correspondientes; y
 
 VIII.- Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables;
 
 IX.- Los solicitantes deberán establecer las garantías de seguridad, calidad, suficiencia y regularidad en la prestación del servicio público sujeto a régimen de concesión a que se refiere el artículo 17 de la Ley de Régimen Municipal para el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 56.
 
 La duración de las concesiones será de cinco y hasta treinta años y podrán ser prorrogados por períodos iguales y sucesivos, a petición expresa de los interesados y previo estudio que así lo determine. Las Concesiones que otorgue el Ayuntamiento de conformidad con esta reglamentación municipal deberán indicar en cada caso el número y tipo de vehículos que ampare la misma así como señalar con precisión su tiempo de vigencia.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 57.
 
 Previo al otorgamiento de una concesión o permiso para la prestación del servicio público de transporte se deberá cumplir lo estipulado en el artículo 22 de la Ley General de Transporte Público del Estado de Baja California.
 
 ### CAPITULO IX. DE LAS OBLIGACIONES DE LOS PERMISIONARIOS Y CONCESIONARIOS
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 58.
 
@@ -801,15 +909,15 @@ I.- Prestar el servicio público en los términos y condiciones señalados en el
 
 II.- No interrumpir la prestación del servicio, salvo por las causas establecidas en este reglamento;
 
-III.- Cumplir con todas las disposiciones legales, fiscales y administrativas en materia de tránsito, transporte y vialidad, así como con las políticas y programas de la Dirección;
+III.- Cumplir con todas las disposiciones legales, fiscales y administrativas en materia de tránsito, transporte y vialidad, así como con las políticas y programas de la Unidad;
 
 IV.- Construir, ampliar y adecuar, con sus propios recursos, el equipamiento auxiliar de transporte, para la debida prestación del servicio público concesionado o permisionado;
 
-V.- Proporcionar a la Dirección, cuando lo requiera, todos los informes, datos y documentos necesarios para conocer y evaluar la prestación del servicio público encomendado;
+V.- Proporcionar a la Unidad, cuando lo requiera, todos los informes, datos y documentos necesarios para conocer y evaluar la prestación del servicio público encomendado;
 
 VI.- Prestar el servicio público de transporte de manera gratuita, cuando por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias, movimientos sociales o cuestiones de seguridad pública así se requiera;
 
-VII.- Proporcionar capacitación continua y permanente a sus operadores y demás personas que tengan relación con el servicio proporcionado, en los términos de este reglamento y demás disposiciones jurídicas y administrativas aplicables;
+VII.- Proporcionar capacitación continúa y permanente a sus operadores y demás personas que tengan relación con el servicio proporcionado, en los términos de este reglamento y demás disposiciones jurídicas y administrativas aplicables;
 
 VIII.- Cumplir con las disposiciones jurídicas y administrativas aplicables en materia ambiental;
 
@@ -819,19 +927,21 @@ X.- Contar con póliza de seguro vigente para responder de los daños y perjuici
 
 XI.- Tratándose de personas morales, contar con un 15% del total de unidades destinadas a la prestación del servicio, acondicionadas con aditamentos especiales que permitan a las personas con discapacidad temporal o permanente y de la tercera edad, hacer uso del servicio público de transporte en condiciones de accesibilidad, seguridad, comodidad, higiene y eficiencia;
 
-XII.- Mantener actualizados sus registros ante la Dirección, respecto a su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores, y demás datos relacionados con el permiso o concesión otorgados, debiendo utilizar las formas que al efecto autorice la Dirección, las cuales, se publicarán en el (sic) la Gaceta Municipal Órgano Oficial del Ayuntamiento;
+XII.- Mantener actualizados sus registros ante la Unidad, respecto a su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores, y demás datos relacionados con el permiso o concesión otorgados, debiendo utilizar las formas que al efecto autorice la Unidad, las cuales, se publicarán en la Gaceta Municipal Órgano Oficial del Ayuntamiento;
 
 XIII.- Realizar el pago de los derechos correspondientes a todos y cada uno de los trámites administrativos, permisos y concesiones otorgados, para la explotación del servicio;
 
 XIV.- Ejercer el control, guarda, custodia y responsabilidad de los documentos e infraestructura para la prestación del servicio concesionado o permisionado;
 
-XV.- No encomendar la realización de trámites, gestiones o procedimientos relacionados con el permiso, la concesión y el equipamiento auxiliar de transporte, a personas que no estén legalmente acreditadas con poder notarial para actos de administración ante la Dirección;
+XV.- No encomendar la realización de trámites, gestiones o procedimientos relacionados con el permiso, la concesión y el equipamiento auxiliar de transporte, a personas que no estén legalmente acreditadas con poder notarial para actos de administración ante la Unidad;
 
-XVI.- Constituir en tiempo y forma las garantías que de acuerdo con la naturaleza de la concesión o permiso y el término de vigencia de la misma, determine la Dirección; y
+XVI.- Constituir en tiempo y forma las garantías que de acuerdo con la naturaleza de la concesión o permiso y el término de vigencia de la misma, determine la Unidad; y
 
 XVII.- En general, cumplir con los preceptos de este reglamento y las disposiciones jurídicas fiscales y administrativas aplicables a la materia.
 
 ### CAPITULO X. DE LAS CAUSAS DE REVOCACION DE PERMISOS Y CONCESIONES
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 59.
 
@@ -849,7 +959,7 @@ V.- Cuando deje de estar constituida conforme a las leyes de la materia, en el c
 
 VI.- Cambiar, modificar o alterar las condiciones de prestación del servicio en materia de horarios, tarifas, itinerarios, sin la previa autorización;
 
-VII.- Cuando no se reemplace el parque vehicular que haya sido retirado de circulación por orden de la autoridad municipal del transporte, o no acatar las ordenes de esta relativas a la reparación de equipo cuando deje de satisfacer las condiciones de eficiencia, seguridad, higiene y comodidad inherente a la prestación del servicio de que se trate;
+VII.- Cuando no se reemplace el parque vehicular que haya sido retirado de circulación por orden de la autoridad municipal del transporte, o no acatar las órdenes de esta relativas a la reparación de equipo cuando deje de satisfacer las condiciones de eficiencia, seguridad, higiene y comodidad inherente a la prestación del servicio de que se trate;
 
 VIII.- Por no acatar las disposiciones relativas al aumento de capacidad, modificación de ruta, especificaciones, sistema de operación y demás condiciones en que deba prestarse el servicio público de que se trate, o cualquier otra irregularidad cometida en la prestación del servicio, conforme a la reglamentación Municipal correspondiente;
 
@@ -861,7 +971,7 @@ XI.- No pagar el permisionario o concesionario, los derechos correspondientes po
 
 XII.- No cubrir las indemnizaciones por daños o perjuicios que se originen al Gobierno Municipal, Estatal o Federal, a los usuarios, peatones, conductores o terceros, con motivo de la prestación del servicio público de transporte;
 
-XIII.- Que el permisionario o concesionario por si mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, se haga acreedor a dos sanciones en un periodo de tres meses, cuatro sanciones en un periodo de seis meses u ocho sanciones en un periodo de un año, por incumplir con las obligaciones o condiciones establecidas en el presente reglamento, y en las disposiciones jurídicas y administrativas aplicables;
+XIII.- Que el permisionario o concesionario por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, se haga acreedor a dos sanciones en un periodo de tres meses, cuatro sanciones en un periodo de seis meses u ocho sanciones en un periodo de un año, por incumplir con las obligaciones o condiciones establecidas en el presente reglamento, y en las disposiciones jurídicas y administrativas aplicables;
 
 XIV.- Ubicarse el permisionario o el concesionario por causas que le sean imputables, en conflictos de titularidad respecto a los derechos derivados del permiso, concesión o equipamiento auxiliar, así como en controversia respecto a la personalidad jurídica o representatividad, en el caso de personas morales;
 
@@ -869,11 +979,13 @@ XV.- Cuando se exhiba documentación apócrifa, o se proporcionen informes o dat
 
 XVI.- Por así exigirlo el interés social.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 60.
 
-La revocación de un permiso por cualquiera de las causas establecidas en este u otros ordenamientos, será solicitada administrativamente por la Dirección, para que sean valorados los datos y el expediente relativo por el Secretario Fedatario y emita acuerdo para iniciar con el siguiente procedimiento:
+La revocación de un permiso por cualquiera de las causas establecidas en este u otros ordenamientos, será solicitada administrativamente por la Unidad, para que sean valorados los datos y el expediente relativo por el Secretario Fedatario y emita acuerdo para iniciar con el siguiente procedimiento:
 
-I.- La Dirección de Transportes notificará por escrito al permisionario los motivos de caducidad, revocación, o extinción en que a su juicio haya incurrido y le señalará un plazo de 10 días para qué presente pruebas, alegatos y manifieste lo que a su derecho convenga;
+I.- La Unidad Municipal de Transporte notificará por escrito al permisionario los motivos de caducidad, revocación, o extinción en que a su juicio haya incurrido y le señalará un plazo de 10 días para qué presente pruebas, alegatos y manifieste lo que a su derecho convenga;
 
 II.- Transcurrido dicho plazo el Secretario Fedatario emitirá acuerdo en el que en su caso, por la naturaleza de las pruebas ofrecidas, se señale una fecha dentro de los 15 días siguientes para su desahogo;
 
@@ -881,13 +993,13 @@ III.- Concluido el periodo probatorio, El Secretario Fedatario cuenta con un té
 
 En el caso de que se declare la revocación del permiso por cualquiera de los supuestos legales procedentes, el permisionario no tendrá derecho a compensación o indemnización alguna.
 
-La Secretaría está facultada para abstenerse de revocar los permisos, por una sola vez al titular, cuando lo estime pertinente y se justifique de manera fehaciente que se trata de hechos que no revisten gravedad, no constituyen delito y no se afecta la prestación del servicio.
+La Secretaría está facultada para abstenerse de revocar los permisos, por una sola vez al titular, cuando lo estime pertinente y se justifique de manera fehaciente que se trata de hechos que no revisten gravedad, no constituyen delito y no se afecta la prestación del servicio. En este caso, tomando en cuenta los antecedentes y condiciones del permisionario, el daño causado y las circunstancias de ejecución de la conducta infractora, aplicará una suspensión del permiso por un término de un mes a un año.
 
-En este caso, tomando en cuenta los antecedentes y condiciones del permisionario, el daño causado y las circunstancias de ejecución de la conducta infractora, aplicará una suspensión del permiso por un término de un mes a un año.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 61.
 
-La revocación de una concesión por cualquiera de las causas establecidas en este u otros ordenamientos, será solicitada administrativamente por la Dirección, para que sean valorados los datos y el expediente relativo por el Presidente Municipal y emita conjuntamente con el Secretario del Ayuntamiento acuerdo de procedencia bajo el siguiente procedimiento:
+La revocación de una concesión por cualquiera de las causas establecidas en este u otros ordenamientos, será solicitada administrativamente por la Unidad, para que sean valorados los datos y el expediente relativo por el Presidente Municipal y emita conjuntamente con el Secretario del Ayuntamiento acuerdo de procedencia bajo el siguiente procedimiento:
 
 I.- El Secretario Fedatario notificará por escrito al concesionario los motivos de caducidad, revocación, o extinción en que haya incurrido y le señalará un plazo de 10 días para que presente pruebas, alegatos y manifieste lo que a su derecho convenga;
 
@@ -899,13 +1011,17 @@ En el caso de que se declare la revocación del permiso por cualquiera de los su
 
 ### CAPITULO XI. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE LOS VEHÍCULOS DE TRANSPORTE PÚBLICO
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 62.
 
 Es obligación de los conductores de vehículos de transporte público, obtener y traer consigo licencia de chofer vigente que corresponda a cada modalidad y la documentación establecida por este reglamento y otras disposiciones jurídicas y administrativas aplicables, de acuerdo con las categorías, modalidades y tipo de servicio.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 63.
 
-La Dirección está facultada para suspender en forma temporal a los conductores el uso de licencia, por un término de tres a seis meses, en los siguientes casos:
+La Unidad Municipal de Transporte está facultada para suspender en forma temporal a los conductores el uso de licencia, por un término de tres a seis meses, en los siguientes casos:
 
 I.- Cuando el titular de la misma sea sancionado por cometer alguna infracción al presente reglamento, conduciendo por primera vez en un año en estado de ebriedad;
 
@@ -915,9 +1031,11 @@ III.- Cuando el titular de la misma reincida en el exceso de los límites de vel
 
 IV.- Cuando dolosamente el titular de la misma haya causado algún daño, o durante la prestación del servicio cometa algún delito.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 64.
 
-La Dirección podrá solicitar se cancelen las licencias de los chóferes por las siguientes causas:
+La Unidad Municipal de Transporte podrá solicitar se cancelen las licencias de los chóferes por las siguientes causas:
 
 I.- Cuando el titular cometa alguna infracción al presente reglamento por segunda vez en un año, conduciendo un vehículo en estado de ebriedad;
 
@@ -931,21 +1049,29 @@ V.- Cuando por motivo de su negligencia, impericia, falta de cuidado o irrespons
 
 En el supuesto de haber sido cancelada o durante el término de suspensión de una licencia, no procederá su expedición. En el primer caso el titular deberá reintegrarla en un término de cinco días a partir de la respectiva notificación a la autoridad que la expidió.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 65.
 
-Los conductores y propietarios de vehículos de servicio público, están obligados a responder por los daños y perjuicios causados a terceros en su persona y patrimonio. La Dirección vigilará y fomentará que todo vehículo matriculado, cuente con póliza de seguro vigente para este efecto.
+Los conductores y propietarios de vehículos de servicio público, están obligados a responder por los daños y perjuicios causados a terceros en su persona y patrimonio. La Unidad Municipal de Transporte vigilará y fomentará que todo vehículo matriculado, cuente con póliza de seguro vigente para este efecto.
 
 Para cumplir con la obligación anterior, los vehículos matriculados deberán contar con póliza de seguro, que cubra los daños y perjuicios que puedan causarse a terceros en su persona. A quien no cumpla con esta obligación se le aplicará una sanción de veinte veces el salario mínimo general vigente.
 
 ### CAPITULO XII. DEL REGISTRO PÚBLICO DE TRANSPORTE MUNICIPAL
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 66.
 
-El Registro Público de Transporte Municipal estará a cargo de la Dirección, la cual tiene encomendado el desempeño de la función registral en todos (sic) sus órdenes, de acuerdo con éste reglamento y las disposiciones jurídicas y administrativas aplicables.
+El Registro Público de Transporte Municipal estará a cargo de la Unidad, la cual tiene encomendado el desempeño de la función registral en todos sus órdenes, de acuerdo con éste reglamento y las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 67.
 
 El Registro Público de Transporte Municipal a través de su titular, será el depositario de la fe pública y registral de los actos jurídicos y documentos relacionados con el transporte público.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 68.
 
@@ -961,23 +1087,31 @@ IV.- Registro de vehículos de transporte público matriculados en el Municipio;
 
 V.- Registro de infracciones, sanciones y delitos; y
 
-VI.- Las demás que sean necesarias a juicio de la Dirección.
+VI.- Las demás que sean necesarias a juicio de la Unidad.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 69.
 
 Sólo se permitirá el acceso al público en general, respecto a los datos relacionados en las fracciones I y V del artículo que antecede, y estrictamente en cuanto a información que no involucre cuestiones personales y confidenciales de los titulares de los derechos respectivos.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 70.
 
 El Director como titular del Registro Público de Transporte Municipal será el responsable de la confidencialidad, guarda y reserva de los registros e información contenida en éste.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 71.
 
 Fuera de los supuestos contenidos en las fracciones I y V del artículo 68, el Registro Público de Transporte únicamente podrá proporcionar información en los siguientes casos:
 
-I.- Que el solicitante acredite ser titular de algún derecho o registro ante la Dirección; y
+I.- Que el solicitante acredite ser titular de algún derecho o registro ante la Unidad; y
 
 II.- A solicitud formal y por escrito de autoridad competente, que funde y motive la necesidad de la información.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 72.
 
@@ -985,29 +1119,39 @@ De toda información, registro, folio o certificación que realice el Registro P
 
 ### CAPITULO XIII. DE LA FIJACIÓN, REVISIÓN Y MODIFICACIÓN DE LAS TARIFAS DEL TRANSPORTE PÚBLICO DE PASAJEROS
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 73.
 
 Las tarifas para el cobro del transporte público de pasajeros, se fijarán de acuerdo con las condiciones y circunstancias de la prestación del servicio, de modo que permitan a los concesionarios y permisionarios, una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones en equipo e instalaciones adecuadas para el servicio.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 74.
 
-Para la propuesta de fijación o modificación de tarifas para el servicio público de transporte, la Dirección deberá considerar el tipo de servicio, el salario mínimo general vigente, el precio unitario del energético de que se trate, el precio de gobierno de las unidades, el índice nacional de precios al consumidor y en general todos los costos directos o indirectos que incidan en la prestación del servicio.
+Para la propuesta de fijación o modificación de tarifas para el servicio público de transporte, la Unidad Municipal de Transporte deberá considerar el tipo de servicio, el salario mínimo general vigente, el precio unitario del energético de que se trate, el precio de gobierno de las unidades, el índice nacional de precios al consumidor y en general todos los costos directos o indirectos que incidan en la prestación del servicio.
 
-Para este efecto la Dirección elaborará un estudio técnico, previo al establecimiento o modificación de las tarifas, en el cual podrá (sic) participar los permisionarios, personas físicas o morales, organismos descentralizados, y demás prestadores del servicio público de transporte los cuales deberán presentar estudios con base en los referentes a que se refiere el párrafo anterior, para ser tomados en cuenta en la determinación de las tarifas.
+Para este efecto la Unidad Municipal de Transporte elaborará un estudio técnico, previo al establecimiento o modificación de las tarifas, en el cual podrá (sic) participar los permisionarios, personas físicas o morales, organismos descentralizados, y demás prestadores del servicio público de transporte los cuales deberán presentar estudios con base en los referentes a que se refiere el párrafo anterior, para ser tomados en cuenta en la determinación de las tarifas.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 75.
 
 El establecimiento de tarifas obligatorias previsto en el artículo anterior, deberá venir determinado por razones de ordenación del transporte vinculadas a la necesidad de las mismas para proteger la posición de los usuarios y/o de los transportistas, para asegurar el mantenimiento y continuidad de los servicios o actividades de transporte o para la realización de los mismos en condiciones adecuadas.
 
-La Dirección establecerá los sistemas para el cobro de las tarifas de servicio público, incorporando en lo posible los avances tecnológicos existentes.
+La Unidad Municipal de Transporte establecerá los sistemas para el cobro de las tarifas de servicio público, incorporando en lo posible los avances tecnológicos existentes.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 76.
 
-La revisión de las tarifas, se realizará por la Dirección, de oficio o a petición de los titulares de los servicios o actividades de transporte o, en su caso, de las asociaciones de usuarios.
+La revisión de las tarifas, se realizará por la Unidad, de oficio o a petición de los titulares de los servicios o actividades de transporte o en su caso, de las asociaciones de usuarios.
 
 La revisión podrá ser individualizada o de carácter general para los transportes de una determinada clase, y procederá cuando hayan sufrido variación la estructura de costos de modo que se altere significativamente el equilibrio económico del servicio o de la actividad.
 
 Tanto la fijación inicial como las sucesivas revisiones de las tarifas, deberán realizarse teniendo en cuenta la situación, las modificaciones y la interacción recíproca del conjunto de variables que se determinen como elementos integrantes de la estructura tarifaría.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 77.
 
@@ -1015,23 +1159,31 @@ Las tarifas del transporte público y de las actividades auxiliares y complement
 
 La estructura tarifaría se ajustará a las características del transporte o de la actividad auxiliar o complementaria del mismo de que en cada caso se trate, y se configurará de forma que fomente la inversión, la seguridad y la calidad.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 78.
 
-Tomando en cuenta las circunstancias de interés general, la conveniencia de eficientizar el servicio público de transporte, el Presidente Municipal a propuesta de la Dirección podrá, no obstante lo previsto en el primer párrafo del artículo anterior, excepcionalmente establecer en los servicios en los que existan motivos económicos o sociales para ello, tarifas a cargo del usuario más bajas de las que resultarían por aplicación de los dispuesto en dicho punto, estableciéndose un régimen especial de compensación económica y otras fórmulas de apoyo por parte de los afectados o interesados.
+Tomando en cuenta las circunstancias de interés general, la conveniencia de eficientizar el servicio público de transporte, el Presidente Municipal a propuesta de la Unidad Municipal de Transporte podrá, no obstante lo previsto en el primer párrafo del artículo anterior, excepcionalmente establecer en los servicios en los que existan motivos económicos o sociales para ello, tarifas a cargo del usuario más bajas de las que resultarían por aplicación de los dispuesto en dicho punto, estableciéndose un régimen especial de compensación económica y otras fórmulas de apoyo por parte de los afectados o interesados.
 
-Dicho régimen especial de apoyo podrá extenderse a otras clases de transporte, por razones de perfeccionamiento tecnológico o mejoras del sistema de transporte que se lleven a cabo en supuestos determinados, estas excepciones serán acordadas por el cabildo previo dictamen que al respecto se presente al pleno y en el cual consten los estudios técnicos y financieros fehacientes que justifiquen las tarifas. En ningún caso se admitirán subvenciones o apoyos que cubran déficit imputables a una inadecuada gestión empresarial.
+Dicho régimen especial de apoyo podrá extenderse a otras clases de transporte, por razones de perfeccionamiento tecnológico o mejoras del sistema de transporte que se lleven a cabo en supuestos determinados, estas excepciones serán acordadas por el cabildo previo dictamen que al respecto se presente al pleno y en el cual consten los estudios técnicos y financieros fehacientes que justifiquen las tarifas. En ningún caso se admitirán subvenciones o apoyos que cubran déficit imputable a una inadecuada gestión empresarial.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 79.
 
-La Dirección, cuando existan motivos sociales que lo justifiquen, podrá imponer a las personas físicas o morales titulares de servicios regulares de viajeros obligaciones de servicio público, entendiéndose por tales, aquéllas que la empresa no asumiría, o no lo haría en la misma medida y condiciones, si considerase exclusivamente su propio interés comercial.
+La Unidad, cuando existan motivos sociales que lo justifiquen, podrá imponer a las personas físicas o morales titulares de servicios regulares de viajeros obligaciones de servicio público, entendiéndose por tales, aquéllas que la empresa no asumiría, o no lo haría en la misma medida y condiciones, si considerase exclusivamente su propio interés comercial.
 
-Cuando se realice la imposición de obligaciones de servicio público, ya consistan las mismas en reducciones o bonificaciones tarifarías, o en la prestación de servicios o realización de actividades económicamente no justificados, la Dirección estará obligada a compensar a las personas físicas o morales el costo de la obligación, a no ser que la misma venga impuesta expresamente en el permiso respectivo con el carácter de no indemnizable con cargo a aportaciones económicas distintas de las tarifarías.
+Cuando se realice la imposición de obligaciones de servicio público, ya consistan las mismas en reducciones o bonificaciones tarifarías, o en la prestación de servicios o realización de actividades económicamente no justificados, la Unidad Municipal de Transporte estará obligada a compensar a las personas físicas o morales el costo de la obligación, a no ser que la misma venga impuesta expresamente en el permiso respectivo con el carácter de no indemnizable con cargo a aportaciones económicas distintas de las tarifarías.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 80.
 
 Las tarifas de transporte público de pasajeros en todas sus modalidades, se publicarán en la Gaceta Municipal Órgano Oficial del Ayuntamiento de Ensenada y en dos de los periódicos de mayor circulación en el municipio, cuando menos con 10 días de anticipación a su entrada en vigor, para conocimiento de los usuarios.
 
 Los prestadores del servicio deberán exhibir en forma permanente y en lugares visibles de sus vehículos, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa autorizada del servicio de que se trate.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 81.
 
@@ -1047,27 +1199,37 @@ Especial.- Es el precio que se cubre por la prestación del servicio, derivado d
 
 ### CAPITULO XIV. DE LA INSPECCION Y VERIFICACION
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 82.
 
 La actuación inspectora tendente a garantizar el cumplimiento de las normas reguladoras del transporte y de las actividades complementarias y auxiliares del mismo, está encomendada a los servicios de inspección del transporte.
 
-Los miembros de la inspección del transporte, en casos de necesidad para un eficaz cumplimiento de su función, podrán solicitar el apoyo necesario de las corporaciones policíacas, ministeriales, agentes del ministerio público en el estado, de la dependencia o entidad de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, conforme a los preceptos de este reglamento.
+Los miembros de la inspección del transporte, en casos de necesidad para un eficaz cumplimiento de su función, podrán solicitar el apoyo necesario de las corporaciones policiacas, ministeriales, agentes del ministerio público en el estado, de la dependencia o entidad de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, conforme a los preceptos de este reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 83.
 
 La función inspectora podrá ser ejercida de oficio o como consecuencia de petición fundada de los usuarios, de sus asociaciones, así como de las personas físicas o morales o asociaciones del sector del transporte.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 84.
 
-A fin de comprobar que los prestadores de los servicios público (sic), de transporte en cualquiera de sus modalidades, proporcionen el servicio en los términos y condiciones señaladas en los permisos y concesiones otorgadas, así como el cumplimiento de las disposiciones jurídicas y administrativas aplicables en materia de tránsito, transporte y vialidad; la Dirección podrá realizar visitas de inspección o verificación y solicitar en cualquier momento y las veces que sea necesario a los permisionarios y concesionarios, los datos e informes técnicos, administrativos y estadísticos relacionados con las condiciones de operación del servicio que realicen, por virtud de los permisos y concesiones de los que sean titulares.
+A fin de comprobar que los prestadores de los servicios público, de transporte en cualquiera de sus modalidades, proporcionen el servicio en los términos y condiciones señaladas en los permisos y concesiones otorgadas, así como el cumplimiento de las disposiciones jurídicas y administrativas aplicables en materia de tránsito, transporte y vialidad; la Unidad Municipal de Transporte podrá realizar visitas de inspección o verificación y solicitar en cualquier momento y las veces que sea necesario a los permisionarios y concesionarios, los datos e informes técnicos, administrativos y estadísticos relacionados con las condiciones de operación del servicio que realicen, por virtud de los permisos y concesiones de los que sean titulares.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 85.
 
-Para poder efectuar la revisión correspondiente, la Dirección podrá requerir a los prestadores del servicio público de transporte, ya sea en sus domicilios, establecimientos, rutas, bases de servicio, terminales, cierres de circuito, centros de transferencia modal, en el lugar donde se encuentren prestando el servicio o en las propias oficinas de la Dirección, que exhiban la documentación relacionada con el permiso o concesión otorgado, así como datos, informes, bienes y demás elementos necesarios.
+Para poder efectuar la revisión correspondiente, la Unidad Municipal de Transporte podrá requerir a los prestadores del servicio público de transporte, ya sea en sus domicilios, establecimientos, rutas, bases de servicio, terminales, cierres de circuito, centros de transferencia modal, en el lugar donde se encuentren prestando el servicio o en las propias oficinas de la Unidad, que exhiban la documentación relacionada con el permiso o concesión otorgado, así como datos, informes, bienes y demás elementos necesarios.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 86.
 
-Las visitas de inspección y verificación practicadas por la Dirección deberán sujetarse y contener por lo menos los requisitos siguientes:
+Las visitas de inspección y verificación practicadas por la Unidad Municipal de Transporte deberán sujetarse y contener por lo menos los requisitos siguientes:
 
 I.- Constar por escrito y ser emitida por autoridad competente, conteniendo nombre, cargo y firma autógrafa del Titular de la Dependencia que la emite;
 
@@ -1083,19 +1245,25 @@ VI.- Deberá levantarse acta circunstanciada de visita por escrito.
 
 El acto administrativo estará debidamente fundado y motivado, expresando con claridad y precisión la resolución, objeto o propósito de que se trate. Ninguna visita de inspección o verificación podrá realizarse sin orden de inspección o verificación de autoridad competente.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 87.
 
-Los prestadores de los servicios público (sic) de transporte están obligados a proporcionar la documentación, datos, información y demás elementos que sean inherentes a la naturaleza del permiso o concesión otorgadas, y en el supuesto de negativa o desobediencia, la autoridad podrá imponer la sanción que corresponda en los términos de este reglamento y requerirá la presentación del documento o informe omitido en un plazo de quince días para el primero y seis días para los subsecuentes requerimientos.
+Los prestadores de los servicios público de transporte están obligados a proporcionar la documentación, datos, información y demás elementos que sean inherentes a la naturaleza del permiso o concesión otorgadas, y en el supuesto de negativa o desobediencia, la autoridad podrá imponer la sanción que corresponda en los términos de este reglamento y requerirá la presentación del documento o informe omitido en un plazo de quince días para el primero y seis días para los subsecuentes requerimientos.
 
-En ningún caso la Dirección formulará más de tres requerimientos por una omisión y una vez agotados los actos de requerimiento, se pondrán los hechos en conocimiento de autoridad competente, a fin de que proceda por desobediencia a mandato legítimo de autoridad competente.
+En ningún caso la Unidad Municipal de Transporte formulará más de tres requerimientos por una omisión y una vez agotados los actos de requerimiento, se pondrán los hechos en conocimiento de autoridad competente, a fin de que proceda por desobediencia a mandato legítimo de autoridad competente.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 88.
 
-Si de las visitas de inspección y verificación, se desprendiera la posible comisión de un delito, la Dirección deberá hacerlo del conocimiento de las autoridades competentes en términos del presente reglamento y demás disposiciones jurídicas, fiscales y administrativas aplicables.
+Si de las visitas de inspección y verificación, se desprendiera la posible comisión de un delito, la Unidad Municipal de Transporte deberá hacerlo del conocimiento de las autoridades competentes en términos del presente reglamento y demás disposiciones jurídicas, fiscales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 89.
 
-Las visitas de inspección y verificación que la Dirección realice a los permisionarios o concesionarios, se deberán sujetar a la formalidad y procedimiento (sic) siguientes:
+Las visitas de inspección y verificación que la Unidad Municipal de Transporte realice o los permisionarios o concesionarios, se deberán sujetar a la formalidad y procedimiento siguientes:
 
 I.- La visita se realizará en el lugar o lugares indicados en la orden de visita;
 
@@ -1105,7 +1273,7 @@ III.- Los verificadores que intervengan deberán identificarse plenamente ante l
 
 IV.- Se requerirá al visitado designe dos testigos, y si éstos no son designados lo hará en su rebeldía el verificador, haciendo constar dicha circunstancia en el acta correspondiente;
 
-V.- Los visitados, sus representantes o la persona con quién se lleve a cabo la visita de inspección y verificación, deberá permitir a los verificadores el acceso al lugar objeto de la misma así como proporcionar los datos, informes, documentos y demás elementos que sean solicitados, así como también se deberá permitir la verificación de bienes muebles o inmuebles que tenga el visitado y sean objeto del permiso otorgado;
+V.- Los visitados, sus representantes o la persona con quien se lleve a cabo la visita de inspección y verificación, deberá permitir a los verificadores el acceso al lugar objeto de la misma así como proporcionar los datos, informes, documentos y demás elementos que sean solicitados, así como también se deberá permitir la verificación de bienes muebles o inmuebles que tenga el visitado y sean objeto del permiso otorgado;
 
 VI.- Se entregará copia del acta de visita o verificación al interesado;
 
@@ -1117,19 +1285,27 @@ IX.- Una vez finalizada la visita, deberá ser firmada el acta que al efecto se 
 
 La negativa de firmar las actas de visita por parte del permisionario o concesionario o persona con quién se haya entendido la diligencia, así como de los testigos que asistieron en la misma, no afecta su validez pero deberá hacerse constar en el acta. El acta es válida con la firma de uno sólo de los visitadores, aún cuando actúen dos o más.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 90.
 
 Al momento de realizarse la visita, los visitados podrán formular las observaciones que consideren procedentes y aportar las documentos que para el caso consideren necesarias; de no ser así podrán hacer uso de su derecho dentro del término de los cinco días hábiles siguientes a la fecha de conclusión de la visita de inspección o verificación.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 91.
 
-A fin de llevar a cabo las visitas de inspección y verificación, la Dirección podrá solicitar el auxilio de otras autoridades competentes para que se pueda efectuar la diligencia y en su oportunidad concluir con la misma, o en su caso, requerirles los informes o documentos que sean necesarios para el objeto de la inspección.
+A fin de llevar a cabo las visitas de inspección y verificación, la Unidad Municipal de Transporte podrá solicitar el auxilio de otras autoridades competentes para que se pueda efectuar la diligencia y en su oportunidad concluir con la misma, o en su caso, requerirles los informes o documentos que sean necesarios para el objeto de la inspección.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 92.
 
 La inspección y verificación en las vías federales ubicadas dentro del territorio de los municipios, se sujetarán a lo establecido en los convenios respectivos y acorde con las disposiciones jurídicas y administrativas aplicables.
 
 ### CAPITULO XV. DE LAS INFRACCIONES Y MULTAS Y DEL REGIMEN SANCIONADOR MUNICIPAL
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 93.
 
@@ -1143,9 +1319,13 @@ En las infracciones cometidas por remitentes o cargadores, usuarios y, en genera
 
 La responsabilidad administrativa se exigirá a las personas físicas o morales a que se refiere el párrafo tercero, sin perjuicio de que éstas puedan deducir las acciones que resulten procedentes contra las personas a las que sean materialmente imputables las infracciones.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 94.
 
 Las infracciones de las normas reguladoras del transporte se clasifican en leves, graves y muy graves.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 95.
 
@@ -1173,6 +1353,8 @@ X.- La carencia o falta de datos esenciales de la hoja de ruta y otra documentac
 
 XI.- Cualquiera de las infracciones previstas cuando por su naturaleza, ocasión o circunstancia no deba ser calificado como grave.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 96.
 
 Se considerarán infracciones graves:
@@ -1191,7 +1373,7 @@ f.- El exceso sobre el peso máximo autorizado superior a los porcentajes compre
 
 g.- El reiterado incumplimiento no justificado de los horarios en los servicios en que éstos vengan prefijados con el permiso o concesión correspondiente.
 
-h.- Carecer del documento en el que se anuncien los teléfonos y dirección en donde deben formularse las reclamaciones de los usuarios.
+h.- Carecer del documento en el que se anuncien los teléfonos y Unidad Municipal de Transporte en donde deben formularse las reclamaciones de los usuarios.
 
 i.- La negativa y obstrucción a la actuación de los servicios de inspección cuando no se den las circunstancias previstas en este reglamento.
 
@@ -1209,9 +1391,11 @@ n.- Cualquier otra infracción no incluida en los apartados siguientes, que las 
 
 o.- El trato desconsiderado con los usuarios, pasajeros y peatones. La infracción a que se refiere este apartado se sancionará teniendo en cuenta los supuestos que al respecto contemple la normativa sobre los derechos de los usuario (sic), pasajeros y peatones.
 
-p.- La no comunicación de los datos esenciales que reglamentariamente se determinen y que deban ser inscritos en el Registro Público del Transporte, o puestos por otra causa en conocimiento de la Dirección. Cuando dicha falta de comunicación fuera determinante para el conocimiento por la Dirección de hechos sancionables, se considerará interrumpido el plazo de prescripción hasta que la comunicación se produzca.
+p.- La no comunicación de los datos esenciales que reglamentariamente se determinen y que deban ser inscritos en el Registro Público del Transporte, o puestos por otra causa en conocimiento de la Unidad. Cuando dicha falta de comunicación fuera determinante para el conocimiento por la Unidad Municipal de Transporte de hechos sancionables, se considerará interrumpido el plazo de prescripción hasta que la comunicación se produzca.
 
-No obstante lo anterior, en la calificación de la infracción señalada en este apartado, se estará a lo que se dispone en material (sic) de agravantes del presente reglamento.
+No obstante lo anterior, en la calificación de la infracción señalada en este apartado, se estará a lo que se dispone en material de agravantes del presente reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 97.
 
@@ -1229,11 +1413,13 @@ d.- Llevar en lugar visible del vehículo el distintivo correspondiente a un ám
 
 e.- La reincidencia a la negativa y obstrucción de la actuación de los servicios de inspección que impida el ejercicio de las funciones que legal o reglamentariamente tengan éstos atribuidas.
 
-f.- La utilización de permisos expedidos a nombre de otras personas sin realizar previamente la transmisión de los mismos, de conformidad con establecido en este reglamento. La responsabilidad por esta infracción corresponderá, tanto a los que utilicen permisos ajenos, como a las personas a cuyo nombre estén éstos, salvo que demuestren que la utilización se ha hecho sin su consentimiento.
+f.- La utilización de permisos expedidos a nombre de otras personas sin realizar previamente la transmisión de los mismos, de conformidad con (sic) establecido en este reglamento. La responsabilidad por esta infracción corresponderá, tanto a los que utilicen permisos ajenos, como a las personas a cuyo nombre estén éstos, salvo que demuestren que la utilización se ha hecho sin su consentimiento.
 
 g.- La reincidencia en las infracciones que se hayan calificado como graves de acuerdo con lo previsto en este reglamento, cuando en los doce meses anteriores a su comisión el responsable de la misma haya sido objeto de sanción mediante resolución definitiva por infracción tipificada en un mismo apartado de dicho artículo. No obstante lo anterior, en la calificación de la infracción se estará a las agravantes que determina el presente reglamento.
 
-h.- El abandono de la concesión o paralización de los servicios, sin que haya tenido lugar la finalización del plazo de la concesión, sin el consentimiento de la Administración y su puesta en conocimiento, esta falta no invalida por modo alguno el ejercicio de otras disposiciones que señale le (sic) ley y el presente reglamento.
+h.· El abandono de la concesión o paralización de los servicios, sin que haya tenido lugar la finalización del plazo de la concesión, sin el consentimiento de la Administración y su puesta en conocimiento, esta falta no invalida por modo alguno el ejercicio de otras disposiciones que señale le (sic) ley y el presente reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 98.
 
@@ -1247,13 +1433,15 @@ La infracción prevista en el apartado f) del artículo 97, además de la sanci�
 
 Cuando los responsables de las infracciones previstas en el artículo 97 hayan sido sancionados mediante resolución definitiva por infracción tipificada en el mismo apartado de dicho artículo, en los doce meses anteriores a la comisión de la misma, la infracción llevará a la suspensión temporal del correspondiente permiso, al amparo del cual se realizaba la actividad o se prestaba el servicio, por el plazo máximo de un año. La tercera y sucesivas infracciones en el citado plazo de doce meses, llevarán a la suspensión temporal o definitiva de la autorización. En el cómputo del referido plazo no se tendrán en cuenta los períodos en que no haya sido posible realizar la actividad o prestar el servicio por haber sido temporalmente retirada la autorización.
 
-Cuando sean detectadas infracciones que deban ser denunciadas de acuerdo con lo previsto en los apartados a), b) y c) del artículo 97 y del artículo 96 en sus apartados f), y l), podrá ordenarse la inmediata paralización del vehículo hasta que se supriman los motivos determinantes de la infracción, pudiendo la Dirección adoptar las medidas necesarias a fin de que los usuarios sufran la menor perturbación posible.
+Cuando sean detectadas infracciones que deban ser denunciadas de acuerdo con lo previsto en los apartados a), b) y c) del artículo 97 y del artículo 96 en sus apartados f), y l), podrá ordenarse la inmediata paralización del vehículo hasta que se supriman los motivos determinantes de la infracción, pudiendo la Unidad Municipal de Transporte adoptar las medidas necesarias a fin de que los usuarios sufran la menor perturbación posible.
 
 Independientemente de las sanciones que correspondan de conformidad con este reglamento el incumplimiento reiterado o de manifiesta gravedad de las condiciones esenciales del permiso, podrá dar lugar a la revocación del permiso, en ambos casos con pérdida de la respectiva fianza.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 99.
 
-La competencia para la imposición de las sanciones previstas en el presente reglamento corresponde al Director de Transportes Municipal y a los inspectores que para tales efectos se habiliten; así como previa solicitud por escrito y aceptación de la misma a las corporaciones policíacas ministeriales, agentes del ministerio público en el estado de Baja California, las dependencias o entidades de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, a la preservación del orden público y la seguridad; también los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, en los términos del artículo 2 del presente reglamento.
+La competencia para la imposición de las sanciones previstas en el presente reglamento corresponde al Director de la Unidad Municipal de Transporte y a los inspectores que para tales efectos se habiliten; así como previa solicitud por escrito y aceptación de la misma a las corporaciones policíacas ministeriales, agentes del ministerio público en el estado de Baja California, las dependencias o entidades de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, a la preservación del orden público y la seguridad; también los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, en los términos del artículo 2 del presente reglamento.
 
 En la imposición y ejecución de las sanciones por infracciones cometidas por personas que no acrediten su residencia dentro del territorio municipal, serán de aplicación las reglas específicas que reglamentariamente se determinen, las cuales se basarán en las normas establecidas para similares supuestos en los reglamentos y leyes respectivas.
 
@@ -1263,6 +1451,8 @@ El pago de las sanciones pecuniarias, impuestas por resolución definitiva, ser�
 
 Asimismo, la realización de dicho pago de sanciones será requisito exigible para que proceda la autorización administrativa a la transferencia de los vehículos con los que se hayan cometido las infracciones a las que las referidas sanciones correspondan.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 100.
 
 Independientemente de las sanciones previstas en los numerales que anteceden, las unidades de transporte público de pasajeros o de carga, serán impedidas de circular y remitidas a los depósitos de guarda y custodia de vehículos infraccionados, por las siguientes causas:
@@ -1271,7 +1461,7 @@ I.- No contar con el permiso o concesión para realizar el servicio público (si
 
 II.- Por falta de una o ambas placas, excepto que cuenten con el comprobante vigente de reposición o con el acta levantada ante el Agente del Ministerio Público, cuya fecha no sea mayor a cinco días de antelación;
 
-III.- No haber acreditado la revista vehicular en el término fijado por la Dirección, o no portar la póliza de seguro vigente;
+III.- No haber acreditado la revista vehicular en el término fijado por la Unidad, o no portar la póliza de seguro vigente;
 
 IV.- Prestar el servicio público fuera de la ruta autorizada en su caso, o hacer base en lugar no autorizado;
 
@@ -1279,7 +1469,7 @@ V.- Alterar las tarifas vigentes;
 
 VI.- Cuando el conductor no porte licencia o no sea la que corresponda al tipo modalidad o prestación del servicio;
 
-VII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Dirección; y
+VII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Unidad; y
 
 VIII.- En caso de que el conductor se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica.
 
@@ -1319,7 +1509,7 @@ LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2004.
 
@@ -1329,6 +1519,10 @@ P.O. 3 DE OCTUBRE DE 2008.
 
 UNICO.- Una vez aprobado el presente punto de acuerdo, publíquese en el Periódico Oficial del Gobierno del Estado.
 
+P.O. 6 DE MARZO DE 2015.
+
+Artículo Primero.- El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y la Gaceta Municipal Órgano Oficial del Ayuntamiento.
+
 ###### Artículo 22.
 
 DEL QUÓRUM LEGAL.
@@ -1337,9 +1531,11 @@ El quórum legal en las sesiones del Consejo se integrará con la asistencia de 
 
 Cuando en la primera convocatoria no se integre el quórum, se convocará 30 minutos después a la segunda y se podrá sesionar con la presencia del Presidente, Secretario Técnico y los miembros presentes en la sesión.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 23.
 
-DE LA MAYORIA SIMPLE DE LOS MIEMBROS.
+DE LA MAYORÍA SIMPLE DE LOS MIEMBROS
 
 Las resoluciones del Consejo se tomarán preferentemente por consenso:
 
@@ -1347,17 +1543,23 @@ I.- En caso de no darse, el Presidente del Consejo solicitará al Secretario Té
 
 II.- Si no fuese posible lograrlo, el Presidente, por mayoría simple de los miembros reunidos, calificará la urgencia o normalidad de la situación analizada, y, de ser urgente, se decidirá su resolución por la mitad más uno de los miembros presentes, con base al interés social que el transporte reviste dada su naturaleza jurídica. En caso de no ser considerado urgente el asunto, se postergará su tratamiento y resolución.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 24.
 
-DE LAS APORTACONES (SIC).
+DE LAS APORTACIONES
 
 Para el desarrollo de sus actividades y cumplimiento de sus atribuciones, el Consejo podrá aceptar aportaciones económicas, técnicas y administrativas, que a su favor le otorgue el Ayuntamiento, el Estado, las Instituciones, Organizaciones Públicas y Privadas.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+
 ###### Artículo 25.
 
-DE LOS INFORMES.
+DE LOS INFORMES
 
 El Presidente del Consejo rendirá al Ayuntamiento por conducto del Secretario Técnico un informe trimestral sobre el estado y situación del servicio público de transporte en el Municipio, así como los informes que se estimen necesarios.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 26.
 
