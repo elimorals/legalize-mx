@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2014-02-08"
+last_updated: "2015-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -171,7 +171,9 @@ VI. Fomentar entre los docentes y los educandos actitudes que estimulen la inves
 
 VII. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen nuestro patrimonio cultural;
 
-VIII. Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2015)</small>
+
+VIII. Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte, realizando acciones ante la autoridad correspondiente para que, por lo menos, se lleven a cabo tres sesiones de actividad física o deporte por semana, en cada una de las escuelas de educación básica, con absoluto respeto al interés superior del niño, derecho a la recreación, el derecho a la integridad física y el derecho a la participación;
 
 IX. Crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
@@ -649,7 +651,7 @@ El ingreso al servicio en la educación básica y media superior que imparta la 
 
 ###### ARTÍCULO 45.
 
-Para el ingreso al servicio profesional docente en la educación básica, la autoridad educativa, deberá:
+Para el Ingreso al servicio profesional docente en la educación básica, la autoridad educativa, deberá:
 
 I. Expedir las convocatorias para el ingreso al servicio profesional docente, con base en la información derivada del Sistema de Información y Gestión Educativa.
 
@@ -809,7 +811,7 @@ Para la educación básica, los programas de regularización serán definidos de
 
 ###### ARTÍCULO 65.
 
-Para la determinación de los perfiles, parámetros e indicadores, en el ámbito de la educación básica y media superior, la autoridad educativa estatal se sujetará a lo previsto en el Título Tercero de la Ley General del Servicio Profesional Docente.
+Para la determinación de los perfiles, parámetros e indicadores, en el ámbito de la educación básica y media superior, la autoridad educativa estatal se sujetará a lo previsto en el Titulo Tercero de la Ley General del Servicio Profesional Docente.
 
 #### SECCIÓN NOVENA. Derechos y obligaciones en materia de Servicio Profesional Docente
 
@@ -975,7 +977,7 @@ Por su parte la autoridad educativa municipal coadyuvará al logro de la equidad
 
 Para alcanzar la equidad en la educación la autoridad educativa estatal y municipal, en el ámbito de sus respectivas competencias llevará a cabo las acciones siguientes:
 
-I. Atenderá de manera especial las escuelas en que, por estar en localidades aisladas y zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades;
+I. Atenderla de manera especial las escuelas en que, por estar en localidades aisladas y zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades;
 
 II. Desarrollará programas de apoyo que la autoridad educativa federal establezca para los maestros que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
 
@@ -1013,7 +1015,7 @@ El Instituto Nacional para la Evaluación de la Educación y las autoridades edu
 
 ###### ARTÍCULO 91.
 
-La autoridad educativa estatal, podrá celebrar con las autoridades educativas federal y municipal, convenios para coordinar las actividades a que el presente capítulo se refiere.
+La autoridad educativa estatal, podrá celebrar con las autoridades educativas federal y municipal, convenios para coordinar las actividades a que el presente capitulo se refiere.
 
 ### CAPÍTULO VI. DEL PROCESO EDUCATIVO
 
@@ -1065,7 +1067,7 @@ La educación especial está destinada a personas con discapacidad, transitoria 
 
 Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
-Para la identificación y atención educativa de los alumnos con capacidades y aptitudes sobresalientes, las instituciones que integran el sistema educativo estatal se sujetarán a los lineamientos establecidos por la autoridad educativa federal en la materia, con base en la disponibilidad presupuestaria.
+Para la identificación y atención educativa de los alumnos con capacidades y aptitudes sobresalientes. Las instituciones que integran el sistema educativo estatal se sujetarán a los lineamientos establecidos por la autoridad educativa federal en la materia, con base en la disponibilidad presupuestaria.
 
 Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a alumnos con capacidades y aptitudes sobresalientes.
 
@@ -1125,7 +1127,7 @@ La autorización o reconocimiento de validez oficial de estudios a particulares 
 
 I. Cumplir con los planes y programas de estudio que la autoridad educativa estatal considere procedentes; y tratándose de la educación básica, normal y demás para la formación de docentes de educación básica deberán ajustarse a los que determine la autoridad educativa federal;
 
-II. Impartir educación con el personal que acredite la preparación profesional y adecuada para el nivel de que se trate, de conformidad con las disposiciones emitidas por la autoridad educativa estatal; y tratándose de educación básica y media superior, someterse a las evaluaciones del desempeño obligatorias, obtener la certificación correspondiente, y en su caso, participar en los cursos de capacitación y/o programas de regularización que determine dicha autoridad, en los términos de lo dispuesto por el párrafo segundo del artículo 21 de la Ley General de Educación; y
+II. Impartir educación con el personal que acredite la preparación profesional y adecuada para el nivel de que se trate, de conformidad con las disposiciones emitidas por la autoridad educativa estatal; y tratándose de educación básica y media superior, someterse a las evaluaciones del desempeño obligatorias, obtener la certificación correspondiente, y en su caso, participar en los cursos de capacitación y/o programas de regularización que determine dicha autoridad, en los términos de lo dispuesto por el párrafo segundo del artículo 21 de la ley General de Educación; y
 
 III. Contar con instalaciones adecuadas, laboratorios, talleres, bibliotecas, campos deportivos y demás instalaciones necesarias en cada caso, que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa estatal determine. Para establecer una sede adicional del mismo plantel se requerirá, según sea el caso, una nueva autorización o un nuevo reconocimiento.
 
@@ -1538,3 +1540,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 05 cinco del mes de febrero del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE EDUCACIÓN, MTRO. JOSÉ GUILLERMO RANGEL LOZANO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MARZO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
