@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2013-01-21"
+last_updated: "2015-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -71,7 +71,7 @@ b).- La Dirección del Periódico Oficial del Estado;
 
 c).- La Dirección del Notariado;
 
-d).- La Dirección del Registro Público de la Propiedad y de Comercio; y (sic)
+d).- (DEROGADO, P.O. 7 DE MARZO DE 2015)
 
 e).- La Dirección del Registro Civil.
 
@@ -121,7 +121,7 @@ g).- La Coordinación de Zona Huasteca.
 
 VIII.- La Dirección de Informática y Sistemas;
 
-IX.- La Coordinación General de Apoyo Administrativo; y (sic)
+IX.- La Coordinación General de Apoyo Administrativo; y
 
 X.- La Contraloría Interna.
 
@@ -265,7 +265,7 @@ X.- Analizar el marco normativo que regule el ejercicio de sus atribuciones y pr
 
 XI.- Presentar al Subsecretario del ramo los proyectos de Manuales de Organización, Procedimientos y de Servicios al Público, en las unidades a su cargo;
 
-XII.- Acordar con el Subsecretario al que esté adscrito (sic) la resolución de los asuntos substanciales que se tramiten en el área de su competencia;
+XII.- Acordar con el Subsecretario al que esté adscrito la resolución de los asuntos substanciales que se tramiten en el área de su competencia;
 
 XIII.- Conjuntamente con la Coordinación General de Apoyo Administrativo y previa la autorización, en su caso, del superior inmediato, proponer al Secretario la reestructuración de las áreas administrativas, de conformidad con los lineamientos emitidos por la Oficialía Mayor;
 
@@ -329,7 +329,7 @@ III.- Fomentar y promover sistemas eficientes de coordinación en materia de pro
 
 IV.- Formular estudios e investigaciones y recabar, integrar y sistematizar la información y documentación que faciliten a las autoridades competentes la investigación y análisis para la prevención y atención de desastres o siniestros que afecten a la población;
 
-V.- Elaborar y proponer al Subsecretario del ramo los proyectos anuales de calendarios oficial (sic) y de actos cívicos, mismos que, una vez aprobados, quedarán bajo su administración para su cabal observancia.
+V.- Elaborar y proponer al Subsecretario del ramo los proyectos anuales de calendarios oficial y de actos cívicos, mismos que, una vez aprobados, quedarán bajo su administración para su cabal observancia.
 
 VI.- En los términos de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, intervenir en el cumplimiento de la misma y dictar al efecto las medidas que procedan para promover el culto a los símbolos patrios;
 
@@ -525,33 +525,7 @@ VII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y ma
 
 ###### ARTICULO 19.
 
-Competen a la Dirección del Registro Público de la Propiedad y de Comercio las siguientes atribuciones:
-
-I.- Ser el conducto del Ejecutivo para dar estricto cumplimiento a la Ley del Registro Público de la Propiedad y de Comercio, su reglamento y las demás disposiciones legales relacionadas con la actividad registral;
-
-II.- Coordinar, vigilar y evaluar el servicio de todo el sistema registral;
-
-III.- Asentar, con oportunidad, veracidad y claridad, todos los actos jurídicos que deban ser inscritos;
-
-IV.- Permitir a las personas que lo soliciten, tomar conocimiento de las inscripciones existentes en sus libros y de los documentos que obren en su archivo;
-
-V.- Expedir copias certificadas de las inscripciones o constancias que obren en sus libros, así como certificaciones de inexistencia de registros sobre bienes específicos o a cargo de personas determinadas;
-
-VI.- Promover planes, programas y métodos que contribuyan a que el sistema registral cuente con los elementos humanos, científicos y tecnológicos que requiera;
-
-VII.- Realizar los actos necesarios para regularizar e incluir en el sistema registral los bienes del dominio del poder público, en debida coordinación con las dependencias y organismos auxiliares, federales y municipales que lleven al cabo programas específicos sobre la materia;
-
-VIII.- Proponer y llevar al cabo la programación, normatividad y procedimientos que contribuyan a la unificación racional del sistema registral;
-
-IX.- Establecer la coordinación con las oficinas de catastro para intercambiar información que permita la ubicación y registro de la propiedad inmobiliaria;
-
-X.- Ordenar, en su caso, la reposición y restauración de libros, documentos, unidades de almacenamiento de datos que estén deteriorados, destruidos o extraviados, de acuerdo con las constancias existentes en las oficinas registrales y las que proporcionen las autoridades, los notarios o los interesados;
-
-XI.- Instaurar y operar los sistemas de cómputo de registro y atención al público que permitan un rápido acceso a la información y la eficiencia del servicio a los usuarios;
-
-XII.- Establecer y operar programas de capacitación y adiestramiento del personal en el manejo de los sistemas registrales y de atención al público; y
-
-XIII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
+(DEROGADO, P.O. 7 DE MARZO DE 2015)
 
 ###### ARTICULO 20.
 
@@ -1094,3 +1068,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los presentes cambios reglamentarios se realizan sin demérito del estricto cumplimiento de los Artículos Quinto y Séptimo Transitorios del invocado Decreto Legislativo 95 correspondiente a las reformas y adiciones a los artículos 32 y 41 Quáter, de la Ley Orgánica de la Administración Pública del Estado, toda vez que, está en trámite en el proceso administrativo de entrega-recepción de los recursos públicos que tenía bajo su responsabilidad la Secretaría General de Gobierno y que serán transferidos a la Secretaría de Seguridad Pública y, en consecuencia, hasta en tanto se concluya la transferencia administrativa y presupuestal, los asuntos que no admitan demora o sean urgentes los seguirá conociendo la Secretaría General de Gobierno.
 
 Tercero. Realícense las gestiones administrativas necesarias para que se lleve a cabo la conformación operativa y del personal que estará asignado a la Subsecretaría de Enlace Interinstitucional.
+
+P.O. 7 DE MARZO DE 2015.
+
+Primero (sic). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
