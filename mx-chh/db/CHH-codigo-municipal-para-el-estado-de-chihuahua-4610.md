@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2015-01-31"
+last_updated: "2015-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -325,15 +325,11 @@ V.- Que el Ejecutivo del Estado, rinda asimismo, un informe al Congreso sobre di
 
 VI.- Que a criterio del Congreso del Estado, no afecte la subsistencia del, o los Municipios de cuyo territorio se trate.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. LA FRACCIÓN VI NO CUENTA CON UN SEGUNDO PÁRRAFO], P.O. 7 DE AGOSTO DE 2004)</small>
-
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 VII.- Cuando la solicitud sea presentada por el diez por ciento de los electores residentes en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa popular.
 
-> <small>N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL ARTÍCULO 13 BIS ADICIONADO, P.O. 7 DE AGOSTO DE 2004.</small>
-
-Los centros de población de los Municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. La reglamentación respectiva determinará las características, condiciones y requisitos que deberán reunir los centros de población para que el Ayuntamiento del que se trate, acuerde la denominación que le corresponda.
+> <small>(DEROGADO SEGUNDO PÁRRAFO P.O. 7 DE AGOSTO DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
 
@@ -551,7 +547,7 @@ III.- Vigilar que los actos de las autoridades municipales, observen los requisi
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2010)</small>
 
-IV. Crear organismos descentralizados, fideicomisos y empresas de participación municipal.
+IV.- Crear organismos descentralizados, fideicomisos y empresas de participación municipal.
 
 En la creación de estos organismos descentralizados, fideicomisos y empresas de participación municipal, podrán participar dos o más ayuntamientos, constituyendo organismos intermunicipales, celebrando el convenio de coordinación respectivo, con la aprobación de dos terceras partes de los integrantes del Ayuntamiento;
 
@@ -585,15 +581,21 @@ XI.- Conceder a sus miembros licencia para separarse de su cargo por causa debid
 
 XII.- Aprobar, en su caso, el anteproyecto de Ley de Ingresos, que a su consideración presente el Presidente Municipal y remitirlo al Congreso del Estado, antes del día 30 de noviembre del año del ejercicio;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2015)</small>
 
-XIII.- Aprobar el Presupuesto de Egresos de acuerdo con los ingresos que hubiere autorizado el Congreso y remitirlo al Ejecutivo del Estado para su publicación en el Periódico Oficial, a más tardar el día 31 de diciembre, siendo aplicable en lo conducente lo dispuesto por el Capitulo Único del Titulo Cuarto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado, así como la Ley General de Contabilidad Gubernamental.
+XIII.- Aprobar el Presupuesto de Egresos de acuerdo con los ingresos que hubiere autorizado el Congreso, aplicando, en su caso, lo dispuesto por la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado.
 
-Los presupuestos, sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+
+En la formulación de dicho documento, los Ayuntamientos habrán de tomar en cuenta, en lo conducente, las propuestas efectuadas por las secciones municipales, en los términos del Artículo 40, fracción V de este Código, y deberá remitirse al Ejecutivo del Estado, a fin de que lo publique, a más tardar, el día 31 de diciembre en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2015)</small>
+
+Los presupuestos sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
-Aprobar las partidas plurianuales en los Presupuestos de Egresos que corresponda, para cubrir el pago de las obligaciones derivadas de los Proyectos de Inversión Pública a largo Plazo.
+Aprobar las partidas plurianuales en los Presupuestos de Egresos que corresponda, para cubrir el pago de las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo.
 
 XIV.- Vigilar que se dé publicidad mensualmente, por cualquiera de los medios de que se disponga, del movimiento de ingresos y egresos del mes correspondiente;
 
@@ -637,19 +639,19 @@ XXIV.- En materia de bebidas alcohólicas ejercer las funciones que le confiere 
 
 XXV.- Concurrir con los gobiernos Estatal y Federal en:
 
-A).- El proceso de planeación del desarrollo Estatal y Nacional, de acuerdo con lo que establezcan las leyes;
+a) El proceso de planeación del desarrollo Estatal y Nacional, de acuerdo con lo que establezcan las leyes;
 
-B).- El desarrollo de programas de vivienda y urbanismo;
+b) El desarrollo de programas de vivienda y urbanismo;
 
-C).- La previsión de necesidades de tierra para vivienda y desarrollo urbano;
+c) La previsión de necesidades de tierra para vivienda y desarrollo urbano;
 
-D).- La ejecución de programas de regularización de tenencia del suelo urbano;
+d) La ejecución de programas de regularización de tenencia del suelo urbano;
 
-E).- La aplicación de normas y programas que se establezcan para la preservación y restauración del equilibrio ecológico y protección al ambiente;
+e) La aplicación de normas y programas que se establezcan para la preservación y restauración del equilibrio ecológico y protección al ambiente;
 
-F).- La ejecución de programas de abasto;
+f) La ejecución de programas de abasto;
 
-G).- En general, coordinarse conforme a las leyes, para la ejecución y operación de obras y la prestación de servicios públicos;
+g) En general, coordinarse conforme a las leyes, para la ejecución y operación de obras y la prestación de servicios públicos;
 
 XXVI.- Aprobar y ordenar la publicación en el Periódico Oficial del Estado, el plan municipal de desarrollo, correspondiente a su periodo constitucional de gobierno y derivar de éste, los programas anuales para la ejecución de obras y la prestación de los servicios de su competencia;
 
@@ -687,7 +689,7 @@ XXXVIII.- Intervenir en la formulación y aplicación de programas de transporte
 
 XXXIX.- Celebrar convenios para la administración y custodia de zonas federales;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado;
 
@@ -785,7 +787,7 @@ XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de la
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a largo Plazo del Estado de Chihuahua.
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -1081,11 +1083,15 @@ III.- Asignar a cada Regidor, los ramos que considere convenientes para su mejor
 
 IV.- Conceder licencia al Presidente Seccional, por un término mayor de diez días, en ese caso, debe llamarse al suplente y en su defecto nombrar Presidente seccional interino, entre sus miembros;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2015)</small>
 
-V.- Aprobar el Anteproyecto de Presupuesto de Egresos elaborado de acuerdo a las necesidades administrativas y al porcentaje de población que representan, tomando como referencia el último censo del Instituto Nacional de Estadística y Geografía, y remitirlo al Ayuntamiento para su aprobación e integración en el presupuesto de egresos del municipio.
+V.- Aprobar el Anteproyecto de Presupuesto de Egresos elaborado de acuerdo a las necesidades administrativas y al porcentaje de población que representan, tomando como referencia el último censo del Instituto Nacional de Estadística y Geografía, y remitirlo, a más tardar el 15 de diciembre al Ayuntamiento, para su aprobación e integración en el presupuesto de egresos del municipio.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
 El ayuntamiento, al momento de realizar el cálculo y elaborar el Presupuesto de Egresos del Municipio, atenderá en lo conducente las necesidades contenidas en el Anteproyecto de Egresos enviado por las juntas municipales.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
 Los Ayuntamientos, al aprobar el Presupuesto de Egresos Municipal, deberán autorizar las partidas que fueren necesarias para el pago de la administración seccional y la prestación, a cargo de ésta, de los servicios públicos que le competan y la realización de las obras que correspondan. En caso de que el Ayuntamiento no autorice las partidas solicitadas por las secciones municipales, la negativa correspondiente deberá estar debidamente fundada y motivada.
 
@@ -1525,7 +1531,7 @@ XIII.- Las demás que fijen las leyes, reglamentos y manuales de organización.
 
 ###### ARTICULO 65.
 
-El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
+El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía suficiente que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
 
 A).- Fianza, deberá ser otorgada por una institución autorizada para dichos fines.
 
@@ -1909,7 +1915,7 @@ Las empresas de participación minoritaria, quedan sujetas a la vigilancia del A
 
 En cada Municipio, deberán funcionar los comités de vecinos, en la forma y términos que establezca el Reglamento Interior, estarán integrados cuando menos por tres miembros, fungiendo como Presidente y serán electos en forma directa por la población de la zona que corresponda.
 
-En la promoción, organización funcionamiento control y supresión de los comités sólo podrá intervenir el Ayuntamiento, con la participación que corresponda a los vecinos.
+En la promoción, organización funcionamiento control y supresión de los comités sólo podrán intervenir el Ayuntamiento, con la participación que corresponda a los vecinos.
 
 ###### ARTICULO 84.
 
@@ -3435,7 +3441,7 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
@@ -3883,7 +3889,7 @@ Todos aquellos especialistas en valuación que cuenten con título que los acred
 
 ###### ARTICULO TERCERO.
 
-Para efecto del presente Decreto, se considerará especialista a todo profesionista con estudios de posgrado en materia de valuación y, para el caso, el Departamento Estatal de Profesiones podrá apoyarse en las comisiones técnicas que se señalan en la Ley de Profesiones para el Estado de Chihuahua.
+Para efecto del presente Decreto, se considerará especialista a todo profesionista con estudios de postgrado en materia de valuación y, para el caso, el Departamento Estatal de Profesiones podrá apoyarse en las comisiones técnicas que se señalan en la Ley de Profesiones para el Estado de Chihuahua.
 
 P.O. 8 DE MARZO DE 2003.
 
@@ -4019,13 +4025,13 @@ De 4,800.55 en adelante 4,800.54 1,179,080 .006
 
 Las variables de la fórmula se definen de la siguiente manera:
 
-IMPUESTO CAUSADO 2004: Es el Impuesto Predial directo anual que causa, sin descuentos ni recargos o sanciones, cada cuenta del padrón al 31 de diciembre de 2004, aplicando las tasas correspondientes a este ejercicio.
+IMPUESTO CAUSADO 2004: Es el Impuesto Predial directo anual que causa, sin descuentos ni recargos o sanciones, cada cuenta del padrón al 31 de diciembre de 2004, aplicando las tasas correspondientes a ese ejercicio.
 
 CUOTA FIJA: Es el pago fijo expresado en moneda nacional de cada límite de rango en la tarifa para el pago del Impuesto Predial urbano, prevista en el artículo 149 del Código Municipal, que entrará en vigor en el ejercicio 2005.
 
 LÍMITE INFERIOR DEL RANGO: Son límites de rango expresados en pesos de la tarifa para el cálculo del Impuesto Predial, prevista por el artículo 149 del Código Municipal para el ejercicio 2005.
 
-TASA APLICABLE: Son Las tasas progresivas por grados, que se aplicarán para el cálculo del Impuesto Predial a partir del año 2005.
+TASA APLICABLE: Son las tasas progresivas por grados, que se aplicarán para el cálculo del Impuesto Predial a partir del año 2005.
 
 Para los predios rústicos:
 
@@ -4041,13 +4047,13 @@ IMPUESTO CAUSADO 2004
 
 ###### ARTÍCULO TERCERO
 
-Las actualizaciones que resulten de la aplicación del artículo transitorio anterior, serán impugnables en los términos del artículo 32 de la Ley de Catastro del Estado de chihuahua.
+Las actualizaciones que resulten de la aplicación del artículo transitorio anterior, serán impugnables en los términos del artículo 32 de la Ley de Catastro del Estado de Chihuahua.
 
 ###### ARTÍCULO CUARTO
 
-Todos los municipios deberán realizar una investigación con la participación de peritos valuadores autorizados, a fin de obtener el Estudio Integral de Valores de Mercado y con base en ello elaborarán las tablas de valores, que someterán a la consideración del congreso del Estado, en los términos de este decreto, para entrar en vigor en el año 2006. Así mismo, realizarán un programa intensivo de actualización catastral para captar predios omisos y nuevas construcciones.
+Todos los municipios deberán realizar una investigación con la participación de peritos valuadores autorizados, a fin de obtener el Estudio Integral de Valores de Mercado y con base en ello elaborarán las tablas de valores, que someterán a la consideración del Congreso del Estado, en los términos de este decreto, para entrar en vigor en el año 2006. Así mismo, realizarán un programa intensivo de actualización catastral para captar predios omisos y nuevas construcciones.
 
-La inobservancia de lo anterior será sancionada en los términos del artículo 23, fracciones XVII y XVIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+La inobservancia de lo anterior será sancionado en los términos del artículo 23, fracciones XVII y XVIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
 
 P.O. 19 DE ENERO DE 2005.
 
@@ -4570,6 +4576,12 @@ P.O. 24 DE DICIEMBRE DE 2014.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE ENERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MARZO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
