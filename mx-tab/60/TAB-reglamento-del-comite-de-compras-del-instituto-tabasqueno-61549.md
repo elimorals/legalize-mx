@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-compras-del-instituto-tabasqueno-61549
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-21"
-last_updated: "2008-05-21"
+last_updated: "2015-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61549&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO DEL COMITE DE COMPRAS DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-REGLAMENTO DEL COMITE DE COMPRAS DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO DEL COMITÉ DE COMPRAS DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de mayo de 2008.
 
@@ -73,7 +73,9 @@ I. Un Presidente: Titular de la Dirección de Administración y Finanzas;
 
 II. Un Secretario: Titular de la Subdirección de Administración y Finanzas; y
 
-III. Un Vocal: Titular de la Dirección Jurídica Consultiva;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2015)</small>
+
+III. Tres Vocales conformados por: Un Consejero Propietario designado por el Órgano de Gobierno, el Titular de la Secretaria Ejecutiva, y el Titular de la Dirección Jurídica Consultiva;
 
 Además, asistirá a las reuniones de éste con derecho a voz, un Representante del Órgano de Control Interno, mismo que no forma parte de su estructura.
 
@@ -143,7 +145,9 @@ VI. Integrar, operar y mantener actualizado el archivo de los asuntos del Comit�
 
 VII. Las demás que le confiera la Ley, su Reglamento, el presente ordenamiento, las demás disposiciones legales.
 
-SÉPTIMO.- El Vocal tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2015)</small>
+
+SÉPTIMO.- Los Vocales tendrán las atribuciones siguientes:
 
 I. Participar en las reuniones del Comité;
 
@@ -153,7 +157,9 @@ III. Apoyar en la interpretación jurídica y emitir recomendaciones al respecto
 
 IV. Apoyar al Secretario con la fundamentación de los acuerdos que se hayan tomado, para que éste lo asiente en el Acta de sesión respectiva;
 
-V. Las demás que le confiera la Ley, su Reglamento, el presente ordenamiento y las demás disposiciones legales.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2015)</small>
+
+V. Las demás que les confiera la Ley, su Reglamento, el presente ordenamiento y las demás disposiciones legales.
 
 El Representante del Órgano de Control Interno podrá participar de la siguiente manera:
 
@@ -220,3 +226,11 @@ M. D. KARLA CANTORAL DOMINGUEZ
 SECRETARIA EJECUTIVA
 
 El presente reglamento fue aprobado, en forma unánime, por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, en sesión ordinaria del día 15 de mayo de 2008.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MARZO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
