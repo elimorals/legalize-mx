@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-de-asistencia-promocion-humana-y-11786"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-04"
-last_updated: "1995-11-04"
+last_updated: "2015-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE INSTITUCIONES DE ASISTENCIA, PROMOCION HUMANA Y DESARROLLO SOCIAL PRIVADAS DEL ESTADO DE OAXACA
 
-LEY DE INSTITUCIONES DE ASISTENCIA, PROMOCION HUMANA Y DESARROLLO SOCIAL PRIVADAS DEL ESTADO DE OAXACA.
+LEY DE INSTITUCIONES DE ASISTENCIA, PROMOCIÓN HUMANA Y DESARROLLO SOCIAL PRIVADAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1178, PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -177,7 +179,7 @@ XIII.- Asesorar a los Patronatos a la buena administración de los bienes de las
 
 XIV.- Vigilar que el patrimonio de las Instituciones y las operaciones que las afecten tengan las debidas seguridades y, en su caso, rentabilidad;
 
-Vigilar que lo Patronatos empleen los ingresos con estricto apego a lo que disponga (sic) sus presupuestos de egresos e inversiones de activos fijos;
+Vigilar que los Patronatos empleen los ingresos con estricto apego a lo que disponga (sic) sus presupuestos de egresos e inversiones de activos fijos;
 
 XV.- Verificar que los recursos financieros y materiales suministrados a través de la Junta, cumplan la finalidad para que fueran otorgados;
 
@@ -247,19 +249,19 @@ IX.- Asistir a las sesiones de la Junta para informar del cumplimiento de sus fu
 
 FUNCIONES DE LA JUNTA.
 
-###### ARTICULO 21.
+###### Artículo 21.
 
 La Junta podrá proponer al Gobernador del Estado, la celebración de acuerdos de coordinación con los Gobiernos de las demás Entidades Federativas que favorezcan la creación y desarrollo de Instituciones del ramo.
 
-###### ARTICULO 22.
+###### Artículo 22.
 
 Los visitadores, auditores, o inspectores que conforme a la presente Ley y sus reglamentos intervengan en la contabilidad de las Instituciones, serán personas de notorios conocimientos y suficiente experiencia en materia contable, y no podrán ser funcionarios o empleados de las Instituciones sujetas a inspección, salvo el caso de los trabajos de carácter docente o de otros de carácter técnico, previa autorización de la Junta. Tampoco podrán obtener de las Instituciones préstamos o ser sus deudores por cualquier título, bajo la pena de destitución inmediata.
 
-###### ARTICULO 23.
+###### Artículo 23.
 
 Las visitas de inspección se practicarán, cuando así lo determine la Junta, su Presidente o el Delegado Ejecutivo, en el domicilio legal de las Instituciones y en los establecimientos que de éstas dependan.
 
-###### ARTICULO 24.
+###### Artículo 24.
 
 Los delegados, visitadores, auditores o inspectores de la Junta, podrán realizar con entera libertad, las visitas o inspecciones que practiquen conforme al artículo anterior:
 
@@ -321,7 +323,7 @@ Cuando correspondan bienes al ramo de la asistencia, de la promoción humana o d
 
 ###### Artículo 33.
 
-La Junta será representante de las Instituciones defraudadas cuando se ejerciten acciones de responsabilidad civil o penal; en este ultimo caso como coadyuvante del Ministerio Público, en contra de las personas que desempeñen o hayan desempeñado el cargo de Patronos de una Institución.
+La Junta será representante de las Instituciones defraudadas cuando se ejerciten acciones de responsabilidad civil o penal; en este último caso como coadyuvante del Ministerio Público, en contra de las personas que desempeñen o hayan desempeñado el cargo de Patronos de una Institución.
 
 ###### Artículo 34.
 
@@ -751,7 +753,7 @@ Cuando la Junta resuelva la extinción y liquidación de una Institución, se no
 
 ###### Artículo 99.
 
-Al declarar la extinción y liquidación de una Institución, la Junta resolverá respecto de los actos que puedan practicarse durante la liquidación, y tomará las mediadas que estime oportunas en relación con las personas que hayan venido siendo beneficiadas por la Institución.
+Al declarar la extinción y liquidación de una Institución, la Junta resolverá respecto de los actos que puedan practicarse durante la liquidación, y tomará las medidas que estime oportunas en relación con las personas que hayan venido siendo beneficiadas por la Institución.
 
 ###### Artículo 100.
 
@@ -917,7 +919,7 @@ Las sanciones que establece esta Ley para los Jueces, a petición de la junta, s
 
 ###### ARTICULO PRIMERO.
 
-Aquellas Asociaciones de Beneficencia que al entrar en vigor la presente Ley, tengan el carácter de Asociaciones Civiles. Solicitarán (sic) a la Junta su transformación a Instituciones de Asistencia Privada, sin que pierdan los derechos y prerrogativas que tuvieran.
+Aquellas Asociaciones de Beneficencia que al entrar en vigor la presente Ley, tengan el carácter de Asociaciones Civiles Solicitarán a la Junta su transformación a Instituciones de Asistencia Privada, sin que pierdan los derechos y prerrogativas que tuvieran.
 
 ###### ARTICULO SEGUNDO.
 
@@ -968,3 +970,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley de Instituciones de Asistencia, Promoción Humana y Desarrollo Social Privadas del Estado de Oaxaca.
