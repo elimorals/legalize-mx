@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2015-01-31"
+last_updated: "2015-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3757,6 +3757,10 @@ A quien elabore o altere, sin permiso de la autoridad competente, una placa, el 
 
 Las mismas penas se impondrán al que adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente; así mismo, al que con cualquier finalidad instale en un vehículo placas de circulación o autorización oficial para circular, que no le correspondan legalmente, o a sabiendas de esta circunstancia haga uso del mismo.
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+
 ###### Artículo 330.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
@@ -4175,6 +4179,46 @@ b) Al que viole, deteriore o destruya los sellos o marcas colocados con finalida
 
 Independientemente de las medidas de carácter administrativo a que se refiere la fracción I del artículo 94 del Código Fiscal del Estado de Chihuahua, se impondrá de seis meses a tres años de prisión al causante que deliberadamente y con el fin de defraudar al fisco, falsee sus declaraciones o realice maniobras tendientes a ocultar sus verdaderos ingresos, sin perjuicio de exigirse el pago del adeudo y de las sanciones fiscales procedentes.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2015)</small>
+
+TÍTULO TRIGÉSIMO
+
+DELITOS CONTRA EL DESARROLLO FITOSANITARIO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2015)</small>
+
+###### Artículo 370.
+
+Al que ingrese, envíe o movilice dentro del Estado, vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, cuando los mismos ocasionen o puedan ocasionar daños a la agricultura estatal, sin contar con la documentación fitosanitaria, se le impondrá pena de dos a cinco años de prisión y de mil a diez mil días multa.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+
+###### Artículo 371.
+
+Al que evada un Punto de Verificación Interna, teniendo la obligación de ser inspeccionado en el mismo, al ingresar o movilizar en el Estado, vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, se le impondrá pena de uno a cuatro años de prisión y de mil a diez mil días multa.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+
+###### Artículo 372.
+
+No se aplicará pena alguna respecto a lo dispuesto por los dos artículos que anteceden, cuando el sujeto activo realice la actividad exclusivamente con fines de autoconsumo. Lo anterior, sin perjuicio de la aplicación de medidas administrativas necesarias para la preservación del desarrollo fitosanitario.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+
+###### Artículo 373.
+
+Se sancionará con pena de dos a cinco años de prisión y de mil a diez mil días multa, sin perjuicio de las sanciones administrativas a las que se hiciera acreedor:
+
+I. Al que expida, emita o suscriba certificados en materia fitosanitaria y de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales y condición fitosanitaria de los mismos, sin verificar que los vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, cumplan con los requerimientos exigidos por la normatividad correspondiente, y
+
+II. Al que permita o autorice, por cualquier medio, el ingreso o movilización dentro del territorio estatal, de vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, que no cumplan con los requisitos exigidos por la normatividad respectiva.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+
+###### Artículo 374.
+
+Si en la comisión de cualquiera de las conductas previstas en los artículos anteriores se afecta el estatus fitosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -4216,6 +4260,8 @@ Cuando algún ordenamiento jurídico local haga referencia a la figura de la acc
 ###### ARTÍCULO SÉPTIMO.
 
 (DEROGADO, P.O. 9 DE FEBRERO DE 2013)
+
+.
 
 DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los treinta días del mes de noviembre del año dos mil seis.
 
@@ -4630,6 +4676,12 @@ DECRETO NÚMERO 720/2014 I P.O. POR EL QUE ADICIONA AL TÍTULO DÉCIMO SEGUNDO, 
 P.O. 31 DE ENERO DE 2015.
 
 DECRETO NÚMERO 832/2014 I P.O. POR EL QUE SE ADICIONA CON UN ÚLTIMO PÁRRAFO EL ARTÍCULO 138 DEL CÓDIGO PENAL DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MARZO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
