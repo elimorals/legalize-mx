@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-de-los-servicios-de-salud-de-zacatecas-106234
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-02-07"
-last_updated: "2015-02-07"
+last_updated: "2015-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DE LOS SERVICIOS DE SALUD DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2015.</small>
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 7 de febrero de 2015.
 
@@ -615,13 +615,17 @@ V. Gestionar los recursos para la acreditación de Unidades Hospitalarias para a
 
 VI. Planear y programar las acciones para la afiliación de familias objeto del Seguro Médico Siglo XXI;
 
-VII. Gestionar los recursos humanos, materiales y financieros necesarios para la operación, supervisión, evaluación y seguimiento del Programa Desarrollo Humano Oportunidades;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2015)</small>
+
+VII. Gestionar los recursos humanos, materiales y financieros necesarios para la operación, supervisión, evaluación y seguimiento del Programa de Inclusión Social Prospera;
 
 VIII. Elaborar, operar y evaluar los Acuerdos de Gestión entre el Régimen Estatal de Protección Social en Salud (REPSS) y los Hospitales y Jurisdicciones de Servicios de Salud de Zacatecas para la atención médica de los afiliados al Seguro Popular;
 
 IX. Gestionar los recursos financieros del Fondo de Previsión Presupuestal para apoyo de la infraestructura en salud, teniendo como base el Programa de Fortalecimiento de Infraestructura de unidades médicas;
 
-X. Coordinar, analizar y validar el Programa Operativo Anual del Programa Desarrollo Humano Prospera, a nivel estatal y nivel jurisdiccional;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2015)</small>
+
+X. Coordinar, analizar y validar el Programa Operativo Anual del Programa de Inclusión Social Prospera;
 
 XI. Proponer mecanismos innovadores que mejoren la atención médica con la finalidad de garantizar el cumplimiento de los derechos de los afiliados al Sistema de Protección Social en Salud;
 
@@ -1257,4 +1261,6 @@ Tercero.- Se derogan las disposiciones administrativas que contravengan el prese
 
 Cuarto.- Dentro del término de 180 días hábiles se expedirá el Manual de Organización, a partir de la entrada en vigor de (sic) presente ordenamiento.
 
-APROBADO POR LA JUNTA DE GOBIENO (SIC) DE SERVICIOS DE SALUD, EN SESIÓN ORDINARIA CELEBRADA EL DÍA VEINTIDÓS DE NOVIEMBRE DEL 2013, EN LA CIUDAD DE ZACATECAS, ZAC.- RÚBRICAS.
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2015)</small>
+
+APROBADO POR LA JUNTA DE GOBIERNO DE SERVICIOS DE SALUD, EN SESIÓN ORDINARIA CELEBRADA EL DÍA VEINTIDÓS DE NOVIEMBRE DEL 2013, EN LA CIUDAD DE ZACATECAS, ZAC.- RÚBRICAS.
