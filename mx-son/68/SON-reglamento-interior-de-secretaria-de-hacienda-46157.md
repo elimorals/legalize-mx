@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-secretaria-de-hacienda-46157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-18"
-last_updated: "2008-12-04"
+last_updated: "2015-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2008
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA, PUBLICADO EN EL B.O. DE 9 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 30 DÍAS SIGUIENTES AL DÍA DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 18 de agosto de 2005.
 
@@ -2277,7 +2279,7 @@ ORGANIGRAMA ESTRUCTURAL DE LA SECRETARÍA DE HACIENDA
 
 > <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DEL 4 DE DICIEMBRE DE 2008, PAGINA 29.</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 B. O. 13 DE JULIO DE 2006.
 
@@ -2296,3 +2298,37 @@ B.O. 4 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 9 DE MARZO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor a los 30 días siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Reglamento Interior, se abroga el Reglamento Interior de la Secretaría de Hacienda, publicado en el Boletín Oficial del Gobierno del Estado No. 14, Sección I, de fecha 18 de agosto de 2005; y sus reformas del 13 de julio de 2006, Boletín Oficial 4, Sección I; 04 de agosto de 2008, Boletín Oficial 10, Sección II y 04 de diciembre de 2008, Boletín Oficial 45, Sección I.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Secretaría de Hacienda deberán expedirse dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Reglamento Interior. En tanto se expiden los mencionados manuales administrativos, el Secretario queda facultado para resolver las cuestiones que se presenten en relación con los aspectos que los mismos deben prever.
+
+###### ARTÍCULO CUARTO.
+
+Cuando los ordenamientos jurídicos hagan referencia a la Dirección General del Sistema Integral de Información y Administración Financiera, se entenderá que se refieren a la Dirección General del Sistema de Información Financiera. Asimismo, las facultades que dichos ordenamientos confieren a la Dirección General del Sistema Integral de Información y Administración Financiera, le corresponderán a la Dirección General del Sistema de Información Financiera, a la entrada en vigor del presente Reglamento Interior.
+
+###### ARTÍCULO QUINTO.
+
+Cuando los ordenamientos jurídicos hagan referencia a la Dirección General de Auditoría Fiscal, se entenderá que se refieren a la Coordinación Ejecutiva de Auditoría Fiscal. Asimismo, las facultades que dichos ordenamientos confieren a la Dirección General de Auditoría Fiscal, le corresponderán, a la entrada en vigor del presente Reglamento Interior, a la Coordinación Ejecutiva de Auditoría Fiscal.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos pendientes de resolver al entrar en vigor el presente Reglamento Interior continuarán su trámite y se resolverán por la unidad administrativa a la que se le haya otorgado la competencia en el presente ordenamiento.
+
+Para efectos de las facultades de comprobación iniciadas por las unidades administrativas de la Secretaría de Hacienda con anterioridad a la entrada en vigor de este Reglamento Interior serán sustanciadas y concluidas por las unidades administrativas a las que se les haya conferido esa competencia en este ordenamiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos humanos, financieros y materiales de la Dirección General de Auditoría Fiscal que se contemplaba en el Reglamento Interior de la Secretaría de Hacienda que se abroga, pasan a formar parte de la Coordinación Ejecutiva de Auditoría Fiscal establecida por medio de este Reglamento Interior, motivo por el cual las dependencias de la Administración Pública Estatal competentes realizarán los trámites correspondientes.
