@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-01-12"
+last_updated: "2015-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1641,7 +1641,7 @@ Departamento de Recursos Naturales y Biodiversidad.
 
 Departamento de Educación Ambiental y Participación Ciudadana.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
 
 XVIII.- COORDINACIÓN GENERAL DE DELEGACIONES URBANAS Y RURALES
 
@@ -1685,8 +1685,6 @@ Departamento de Desarrollo Social.
 
 Comisarios Municipales.
 
-Coordinación de Delegaciones Rurales.
-
 Delegación Rural Cañada Honda.
 
 Comisarios Municipales.
@@ -1702,6 +1700,8 @@ Comisarios Municipales.
 Delegación Rural Salto de los Salado.
 
 Comisarios Municipales.
+
+Dirección de Desarrollo Rural.
 
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
@@ -22544,3 +22544,7 @@ SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día hábil s
 P.O. 12 DE ENERO DE 2015.
 
 ÚNICO.- La presente adición y reformas al Código Municipal de Aguascalientes y reformas al Reglamento Interior de Trabajo del Municipio de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y solo por lo que ve al Reglamento Interior de Trabajo del Municipio de Aguascalientes su respectivo depósito ante el H. Tribunal de Arbitraje del Estado de Aguascalientes, el cual también deberá de ser dado a conocer por cada una de las áreas administrativas a las y los servidores públicos del Municipio de Aguascalientes.
+
+P.O. 9 DE MARZO DE 2015.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
