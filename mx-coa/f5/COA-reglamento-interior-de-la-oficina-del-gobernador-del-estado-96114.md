@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-oficina-del-gobernador-del-estado-961
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-27"
-last_updated: "2013-09-27"
+last_updated: "2015-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA OFICINA DEL GOBERNADOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA TÉCNICA Y DE PLANEACIÓN, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de septiembre de 2013.
 
@@ -368,3 +370,15 @@ LA JEFA DE LA OFICINA DEL GOBERNADOR
 MARÍA ESTHER MONSIVÁIS GUAJARDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MARZO DE 2015.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Oficina del Gobernador del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el día 27 de septiembre de 2013 y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- De conformidad a lo dispuesto en el artículo tercero transitorio del Decreto No. 9 publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza el día 22 de febrero de 2015, el cual reforma a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, las atribuciones y recursos de la Jefatura de Oficina y de la Secretaría de Finanzas necesarios para el funcionamiento, se transferirán a la Secretaría Técnica y de Planeación.
+
+CUARTO.- Los manuales de organización establecerán las atribuciones derivadas del presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
