@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-95702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-20"
-last_updated: "2014-08-08"
+last_updated: "2015-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, COMPETITIVIDAD Y TURISMO DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 20 de agosto de 2013.
 
@@ -922,3 +924,15 @@ P.O. 8 DE AGOSTO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico y Competitividad, publicado en la Primera Sección del Periódico Oficial del Gobierno del Estado de fecha 20 de agosto de 2013, la reforma publicada en el Periódico Oficial del Gobierno del Estado en fecha 09 de mayo de 2013 y la reforma publicada en el Periódico Oficial del Gobierno del Estado de fecha 08 de agosto de 2014; asimismo se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Turismo del Estado de Coahuila de Zaragoza, publicado en la Primera Sección del Periódico Oficial del Gobierno del Estado de fecha 17 de mayo de 2013.
+
+CUARTO.- De conformidad a lo dispuesto en el artículo tercero transitorio del Decreto No. 9 publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza el día 22 de febrero de 2015, el cual reforma a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, las atribuciones y recursos de la Secretaría de Turismo, se transferirán a la Secretaría de Desarrollo Económico, Competitividad y Turismo.
+
+QUINTO.- Los manuales de organización precisarán lo no previsto en el presente Reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
