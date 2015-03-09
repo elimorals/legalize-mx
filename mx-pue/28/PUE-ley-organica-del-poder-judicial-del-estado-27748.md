@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2015-03-06"
+last_updated: "2015-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -2569,9 +2569,9 @@ II.- Los militares en servicio activo;
 
 III.- Los servidores y empleados de la Federación en ejercicio;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
 
-IV.- El Gobernador, el Secretario General de Gobierno, el Procurador General de Justicia, los Diputados, los Agentes del Ministerio Público, los Presidentes Municipales, los Regidores, los Empleados del Estado y de los Ayuntamientos, los Notarios y los Corredores Públicos; a no ser que se separen de sus respectivos cargos por renuncia presentada, por lo menos, con un año de anticipación;
+IV.- El Gobernador, el Secretario General de Gobierno, el Procurador General de Justicia, los Diputados, los Presidentes Municipales, los Regidores, los Empleados del Estado y de los Ayuntamientos, los Notarios y los Corredores Públicos; a no ser que se separen de sus respectivos cargos por renuncia presentada, por lo menos, con un año de anticipación;
 
 V.- Todas aquellas personas que desempeñen un cargo o comisión dentro de algún otro Poder del Estado o de la Federación, aunque disfruten de licencia en cuanto al mismo;
 
@@ -3012,3 +3012,9 @@ P.O. 6 DE MARZO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 9 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
