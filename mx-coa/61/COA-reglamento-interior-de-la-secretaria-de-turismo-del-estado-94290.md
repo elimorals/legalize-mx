@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-turismo-del-estado-9429
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-17"
-last_updated: "2013-05-17"
+last_updated: "2015-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, COMPETITIVIDAD Y TURISMO DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial de Estado de Coahuila, el viernes 17 de mayo de 2013.
 
@@ -217,7 +219,7 @@ V. Despachar y turnar en forma clara, oportuna y expedita, los asuntos y documen
 
 VI. Mantener una coordinación permanente con las demás unidades administrativas de la Secretaría, así como con las demás dependencias, y entidades de la administración pública estatal sobre las actividades diarias del o la titular de la Secretaría, y
 
-VII. Las demás que le confiera este Reglamento, otras disposiciones aplicables y las indicaciones que le gire el o la titular de la Secretaría(sic)
+VII. Las demás que le confiera este Reglamento, otras disposiciones aplicables y las indicaciones que le gire el o la titular de la Secretaría
 
 #### SECCIÓN III. DE LA SECRETARÍA TÉCNICA Y JURÍDICA
 
@@ -315,7 +317,7 @@ XV. Formular la política de modernización, simplificación y desregulación ad
 
 XVI. Coordinar el trámite de las entregas financieras de la Secretaría de Finanzas a las OCV's, y supervisar que se lleven los registros contables de éstas
 
-XVII. Proporcionar la información necesaria solicitada por las autoridades competentes en las auditorías administrativas, financieras y fiscales que sean requeridas por las mismas, sea cual fuere su nivel municipal, estatal, federal o privado, y(sic);
+XVII. Proporcionar la información necesaria solicitada por las autoridades competentes en las auditorías administrativas, financieras y fiscales que sean requeridas por las mismas, sea cual fuere su nivel municipal, estatal, federal o privado, y;
 
 XVIII. Llevar a cabo los trámites correspondientes a documentos directamente liberados por la Coordinación Administrativa así como las diferentes áreas administrativas de la Secretaría ante las dependencias correspondientes;
 
@@ -361,7 +363,7 @@ El o la titular de la Subsecretaría tendrá las siguientes facultades:
 
 I. Acordar con el o la titular de la Secretaría los asuntos que les correspondan y los de las unidades administrativas bajo su responsabilidad;
 
-II. Desempeñar las comisiones y representaciones que le encomiende el O (sic) la titular de la Secretaría;
+II. Desempeñar las comisiones y representaciones que le encomiende el O la titular de la Secretaría;
 
 III. Coordinar a las áreas bajo su responsabilidad en la elaboración del anteproyecto del programa del presupuesto anual y una vez aprobado vigilar su correcta aplicación;
 
@@ -379,7 +381,7 @@ IX. Proponer al o la titular de la Secretaria, la delegación de facultades que 
 
 X. Participar en la actualización o formulación de documentos rectores de la Secretaría e informe de gobierno en el ámbito del sector turístico, y
 
-XI. Las demás que les confiera este Reglamento, el o la titular de la Secretaría y otras disposiciones aplicables, y;(sic)
+XI. Las demás que les confiera este Reglamento, el o la titular de la Secretaría y otras disposiciones aplicables, y;
 
 ###### ARTÍCULO 15.
 
@@ -431,7 +433,7 @@ XXII. Proponer al o la titular de la Secretaría el establecimiento de convenios
 
 XXIII. Coordinar la formulación y propuesta al o la titular de la Secretaría de convenios de concurrencia presupuestal con dependencias públicas y privadas estableciendo tiempos y calendarios para la aplicación de recursos y responsabilidades, obligaciones y derechos de las partes; y
 
-XXIV. Las demás que le confiera este Reglamento, el O (sic) la titular de la Secretaría y otras disposiciones aplicables.
+XXIV. Las demás que le confiera este Reglamento, el O la titular de la Secretaría y otras disposiciones aplicables.
 
 #### SECCIÓN I. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -583,7 +585,7 @@ XIV. Presentar a la autoridad inmediata superior reportes detallados del desarro
 
 XV. Promover la atracción fílmica en el estado tal como películas, series y cualquier producto derivado de la industria audiovisual además de la formación difusión, exhibición y producción cinematográfica.
 
-XVI. Fomentar la educación y conciencia acerca de la conservación del hábitat y especies en el estado, a través de la producción y difusión de videos, documentales, folletos, exposiciones temporales sobre caza cinegética, pesca deportiva, golf, ecoturismo y turismo rural; y(sic)
+XVI. Fomentar la educación y conciencia acerca de la conservación del hábitat y especies en el estado, a través de la producción y difusión de videos, documentales, folletos, exposiciones temporales sobre caza cinegética, pesca deportiva, golf, ecoturismo y turismo rural; y
 
 XVII. Coordinar la elaboración y proponer criterios, normas y estrategias para la promoción de la oferta de servicios y centros turísticos desarrollados en el estado;
 
@@ -595,7 +597,7 @@ XX. Proponer a la autoridad inmediata superior el diseño y colocación estraté
 
 XXI. Coordinar y participar en la administración y funcionamiento de la "Casa del Artesano", incorporando acciones de capacitación artesanal, registro de marcas, exposición y venta de productos y presentación de eventos culturales;
 
-XXII. En coordinación con dependencias federales, estatales y municipales, promover el desarrollo de proyectos productivos vinculados con productos tangibles e intangibles que representen la cultura y tradiciones de cada municipio y región, focalizados(sic) en las comunidades rurales;
+XXII. En coordinación con dependencias federales, estatales y municipales, promover el desarrollo de proyectos productivos vinculados con productos tangibles e intangibles que representen la cultura y tradiciones de cada municipio y región, focalizados (sic) en las comunidades rurales;
 
 XXIII. Formular y proponer a su superior jerárquico mecanismos que permitan el desarrollo y crecimiento de los productos;
 
@@ -729,7 +731,7 @@ XXVII. Formular y presentar para su autorización proyectos y programas especial
 
 XXVIII. Proponer al o la titular de la Secretaría acuerdos con sindicatos y empresas para la ejecución de un programa de turismo de incentivos para sus trabajadores;
 
-XXIX. Colaborar con universidades, centros de educación superior y organismos no gubernamentales para implementar el programa de Escuelas de Verano y otros intercambios susceptibles a promoverse en otros países;(sic)
+XXIX. Colaborar con universidades, centros de educación superior y organismos no gubernamentales para implementar el programa de Escuelas de Verano y otros intercambios susceptibles a promoverse en otros países;
 
 ### CAPÍTULO V. EL CONSEJO ESTATAL DE TURISMO
 
@@ -944,3 +946,17 @@ LA SECRETARIA DE TURISMO
 CLAUDIA ELISA MORALES SALAZAR
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico y Competitividad, publicado en la Primera Sección del Periódico Oficial del Gobierno del Estado de fecha 20 de agosto de 2013, la reforma publicada en el Periódico Oficial del Gobierno del Estado en fecha 09 de mayo de 2013 y la reforma publicada en el Periódico Oficial del Gobierno del Estado de fecha 08 de agosto de 2014; asimismo se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Turismo del Estado de Coahuila de Zaragoza, publicado en la Primera Sección del Periódico Oficial del Gobierno del Estado de fecha 17 de mayo de 2013.
+
+CUARTO.- De conformidad a lo dispuesto en el artículo tercero transitorio del Decreto No. 9 publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza el día 22 de febrero de 2015, el cual reforma a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, las atribuciones y recursos de la Secretaría de Turismo, se transferirán a la Secretaría de Desarrollo Económico, Competitividad y Turismo.
+
+QUINTO.- Los manuales de organización precisarán lo no previsto en el presente Reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
