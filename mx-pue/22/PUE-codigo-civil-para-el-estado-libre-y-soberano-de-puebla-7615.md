@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2014-12-31"
+last_updated: "2015-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -18343,6 +18345,8 @@ IV.- Si renuncian a su derecho.
 
 #### Sección Segunda.- Testamento Público Abierto
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2015)</small>
+
 ###### Artículo 3259.
 
 El testamento en cuanto a su forma es público o privado.
@@ -18459,19 +18463,33 @@ El Juez o Notario que inicie un procedimiento sucesorio, deberá recabar el info
 
 ###### Artículo 3275.
 
-El testamento público abierto se dictará de manera clara y terminante por el testador, en presencia de tres testigos y el Notario.
+El testamento público abierto se dictará de manera clara y terminante por el testador en presencia del Notario, y de dos testigos en los siguientes casos:
+
+I.- Cuando el testador declare que no puede o no sabe firmar el testamento;
+
+II.- Cuando el testador fuere enteramente sordo pero sabe leer;
+
+III.- Cuando el testador sea ciego o no pueda o sepa leer, y
+
+IV.- Cuando el testador o Notario lo soliciten.
+
+Los testigos instrumentales a que se refiere este artículo podrán intervenir, además como testigos de conocimiento.
 
 ###### Artículo 3276.
 
 El Notario redactará las cláusulas y las leerá en voz alta, para que el testador manifieste si está conforme, y si lo estuviere, firmarán todos el instrumento, asentándose el lugar, la hora, el día, el mes y el año en que hubiere sido otorgado.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2015)</small>
+
 ###### Artículo 3277.
 
-De los testigos a que se refiere el artículo 3275 por lo menos dos deben saber leer y escribir.
+De los testigos a que se refiere el artículo 3275 por lo menos uno deberá saber leer y escribir.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2015)</small>
 
 ###### Artículo 3278.
 
-Si uno de los tres testigos instrumentales no sabe o no puede firmar, imprimirá la huella de su pulgar derecho y además firmará por él, otro de los testigos.
+Si uno de los testigos instrumentales no sabe o no puede firmar, imprimirá la huella de su pulgar derecho y además firmará por él, otro de los testigos.
 
 ###### Artículo 3279.
 
@@ -18493,9 +18511,11 @@ Cuando el testador ignore el idioma del país, si puede escribirá personalmente
 
 Si el testador, en el caso del artículo anterior, no puede o no sabe escribir, uno de los intérpretes escribirá en el protocolo el testamento que dicte el testador y leído y aprobado por éste, se traducirá al español por ambos intérpretes, procediéndose como lo dispone el artículo anterior.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2015)</small>
+
 ###### Artículo 3284.
 
-El testamento se dictará y redactará en un solo acto, y durante éste el testador, Notario, escribiente y testigos no podrán separarse del local en que se otorgue aquél y, salvo disposición expresa de la ley, no podrá presenciar el acto del otorgamiento otra persona distinta de las mencionadas en los artículos anteriores.
+El testamento se dictará y redactará en un solo acto, y durante éste el testador, Notario, escribiente y en su caso los testigos no podrán separarse del local en que se otorgue aquél y, salvo disposición expresa de la ley, no podrá presenciar el acto del otorgamiento otra persona distinta de las mencionadas en los Artículos anteriores.
 
 ###### Artículo 3285.
 
@@ -20142,3 +20162,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Las disposiciones reglamentarias que deriven de las presentes reformas se efectuarán dentro del plazo de sesenta días hábiles, a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
