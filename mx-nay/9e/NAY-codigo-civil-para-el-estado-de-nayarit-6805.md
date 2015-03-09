@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2014-05-21"
+last_updated: "2015-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -14129,7 +14129,9 @@ III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga biene
 
 IV.- A los ascendientes;
 
-V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o quien tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho solo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueran varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los dos años que precedieron inmediatamente a su muerte o quien tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho solo subsistirá mientas (sic) la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueran varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -15313,7 +15315,7 @@ A falta de descendientes y ascendientes, el cónyuge sucederá en todos los bien
 
 ### CAPITULO VI. De la sucesión de los concubinos
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2015)</small>
 
 ###### Artículo 2744.
 
@@ -15345,7 +15347,7 @@ De la sucesión del Estado.
 
 ###### Artículo 2749.
 
-La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido juntos como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. Si al morir el autor de la herencia le sobreviven varias concubinas o concubinarios en las condiciones mencionadas al principio de este artículo ninguno de ellos heredará.
+La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido juntos como si fueran cónyuges durante los dos años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. Si al morir el autor de la herencia le sobreviven varias concubinas o concubinarios en las condiciones mencionadas al principio de este artículo ninguno de ellos heredará.
 
 ### CAPITULO I
 
@@ -16302,3 +16304,9 @@ Artículo único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 21 DE MAYO DE 2014.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE MARZO DE 2015.
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Esta reforma se aplicará a las Sucesiones en las que el De Cujus haya fallecido después de la entrada en vigor del presente Decreto.
