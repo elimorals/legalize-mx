@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2014-11-27"
+last_updated: "2015-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2015, ENTRA EN VIGOR A LOS QUINCE DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3129,11 +3131,21 @@ I.- Al que, sin ser servidor público, se atribuya este carácter y ejerza algun
 
 II.- Al que, sin tener título legal, se atribuya el carácter de profesional y ejerza actos propios de la profesión; y
 
-III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1995)</small>
+III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho;
 
-IV.- Al que preste servicios privados de seguridad o se ostente como prestador de los mismos, sin contar con la autorización y registro legalmente requeridos.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+
+IV.- Al que preste servicios privados de seguridad o se ostente como prestador de los mismos, sin contar con la autorización y registro legalmente requeridos, y
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2015)</small>
+
+V.- A quien sin derecho use, posea, instale o permita el uso o instalación de torretas, equipo de macrofonía, sirena, insignias, luces estroboscópicas o cualquier otro aditamento o equipo propio de las funciones de las instituciones policiales, en un vehículo particular.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2015)</small>
+
+La sanción se duplicará si alguno de estos aditamentos es utilizado para cometer o intentar cometer otro delito.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
@@ -6172,3 +6184,9 @@ SEGUNDO.- Se derogan las disposiciones de igual o menor rango, en lo que se opon
 TERCERO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Sistema Penal Acusatorio y de este Decreto, serán concluidos conforme a las disposiciones vigentes al momento de su inicio.
 
 CUARTO.- En términos del artículo 142 Bis del Código Penal del Estado Libre y Soberano de Puebla, la potestad punitiva y los efectos de procedimiento penal del delito de extorsión referido en el artículo 415, derogado por este Decreto, no se extinguen, por permanecer la descripción de la conducta sancionada penalmente en el artículo 292 Bis en el mismo ordenamiento legal.
+
+P.O. 9 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
