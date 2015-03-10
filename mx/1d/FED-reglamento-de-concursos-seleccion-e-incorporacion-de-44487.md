@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-concursos-seleccion-e-incorporacion-de-44487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-20"
-last_updated: "2011-07-14"
+last_updated: "2015-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-04-05"
 ---
 # REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
+REGLAMENTO DE CONCURSOS, SELECCIÓN E INCORPORACIÓN DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 2/2015, DEL TRIBUNAL SUPERIOR AGRARIO POR EL QUE SE APRUEBA EL REGLAMENTO DE CONCURSOS, SELECCIÓN E INCORPORACIÓN DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS, PUBLICADO EN EL D.O.F. DE 10 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 20 de abril de 2005.
 
@@ -99,7 +101,7 @@ Las convocatorias internas para celebrar concursos cerrados, se fijarán en los 
 
 Las convocatorias señalarán las categorías y número de plazas vacantes sujetas a concurso, de acuerdo con la disponibilidad presupuestal; el lugar, día y hora en que se llevarán a cabo los exámenes; así como el plazo y lugar de inscripción. Además llevarán anexo un temario de estudios para cada una de las plazas a concursar.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
 
 ###### Artículo 6o.
 
@@ -247,7 +249,7 @@ Redacción.
 
 El resultado de la evaluación oral se determinará con base en el promedio que se obtenga de las calificaciones que cada miembro del jurado le asigne al sustentante.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 16.
 
@@ -257,7 +259,7 @@ El jurado calificará a los concursantes en una escala de cero a cien. Para que 
 
 Cuando ningún sustentante alcance el porcentaje mínimo requerido, el concurso se declarará desierto y se expedirá nueva convocatoria. En caso de que no se alcance a cubrir la totalidad de las plazas en el concurso correspondiente se declararán vacantes y quedarán sujetas a nuevo concurso, que tendrá verificativo dentro de los seis meses siguientes.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -323,7 +325,7 @@ SEGUNDO.- Se deroga el acuerdo 93-94/89 aprobado por el Pleno el 25 de agosto de
 
 Así lo aprobó el Tribunal Superior Agrario, en sesión celebrada el día cinco de abril de dos mil cinco.- El Magistrado Presidente del Tribunal Superior Agrario, Ricardo García Villalobos Gálvez.- Rúbrica.- Los Magistrados: Luis Octavio Porte Petit Moreno, Rodolfo Veloz Bañuelos, Marco Vinicio Martínez Guerrero, Luis Angel López Escutia, integrantes del Tribunal Superior Agrario.- Rúbricas.- El Secretario General de Acuerdos, Humberto Jesús Quintana Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 5 DE SEPTIEMBRE DE 2005.
 
@@ -344,3 +346,11 @@ TERCERO.- Publíquese en el Diario Oficial de la Federación.
 D.O.F. 14 DE JULIO DE 2011.
 
 UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Publíquese.
+
+SEGUNDO.- Se abroga el acuerdo 2/2005 aprobado por el Pleno el veinte de abril de dos mil cinco, así como el diverso Reglamento de Concursos, Selección e Incorporación de Personal y Carrera Jurisdiccional en los Tribunales Agrarios, publicado en el Diario Oficial de la Federación el catorce de julio de dos mil once.
+
+TERCERO.- Quienes al momento de la publicación del presente Reglamento ocupen las plazas de Jefe de Unidad Administrativa o de Audiencia Campesina seguirán en su desempeño y su nombramiento tendrá carácter de permanente, y solo las plazas vacantes que se vayan generando, se someterán a concurso en términos del reglamento aplicable.
