@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2015-02-05"
+last_updated: "2015-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2015.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -4149,7 +4149,7 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 ### CAPITULO V. De la tutela de los menores en situación de desamparo
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 482.
 
@@ -4231,11 +4231,17 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 ###### ARTICULO 492.
 
-La ley coloca a los menores en situación de desamparo bajo la tutela de la institución autorizada que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
+La Ley coloca a los menores de edad en situación de desamparo bajo la tutela de la institución autorizada que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
 
-Se entiende por expósito, al menor que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2015)</small>
 
-Se considera como situación de desamparo, la que se produce de un hecho a causa de la imposibilidad, del incumplimiento o inapropiado ejercicio de los deberes de protección establecidos por las leyes para la patria potestad, tutela o custodia de los menores, cuando éstos queden privados de la necesaria asistencia material o moral; ya sea en carácter de expósitos o abandonados.
+Se entiende por expósito, al menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor de edad cuyo origen se conoce, se considerara abandonado.
+
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2015)</small>
+
+Se considera como situación de desamparo, la que se produce de un hecho a causa de la imposibilidad, del incumplimiento o inapropiado ejercicio de los deberes de protección establecidos por las leyes para la patria potestad, tutela o custodia de los menores de edad, cuando estos queden privados de la necesaria asistencia material o moral; ya sea en carácter de expósitos o abandonados.
+
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
 El acogimiento tiene por objeto la protección inmediata del menor, si éste tiene bienes, el juez decidirá sobre la administración de los mismos.
 
@@ -4243,13 +4249,29 @@ El acogimiento tiene por objeto la protección inmediata del menor, si éste tie
 
 En todos los casos, quien haya acogido a un menor, deberá dar aviso al Ministerio Público dentro de las cuarenta y ocho horas siguientes, quien después de realizar las diligencias necesarias, en su caso, lo pondrá de inmediato bajo el cuidado y atención del Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2015)</small>
+
+ARTICULO 492 A.- El acogimiento es la acción de asumir de manera temporal el cuidado y atención integral del menor de edad en situación de desamparo en estricto respeto a los derechos humanos. Cuando exista controversia del orden familiar en materia de patria potestad, guarda y custodia o régimen de visitas se deberá estar a lo que determine el Juez de lo Familiar que conozca y resuelva el asunto.
+
+De acuerdo a su temporalidad el acogimiento puede ser de urgencia, de corto plazo para evaluación y de largo plazo.
+
+De acuerdo al ámbito en el que se otorgue el acogimiento puede ser en familia extensa, en familia ajena o acogimiento residencial.
+
+Los menores de seis años de edad en condición de desamparo serán puestos inmediatamente en acogimiento de corto plazo para evaluación en su familia extensa o en familia ajena. Se evitará en la mayor medida posible su acogimiento en espacios residenciales. Atendiendo al interés superior de la niñez se evitará su institucionalización.
+
+Todas las autoridades están obligadas a promover, proteger, respetar y garantizar los derechos de las niñas y los niños que se encuentren en alguna modalidad de acogimiento.
+
+La ley de cuidados alternativos para la infancia en el Distrito Federal regulará los aspectos relativos al acogimiento.
+
+Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán a las personas que tengan parentesco con el menor de edad o a las personas físicas o morales que por cualquier circunstancia brinden el acogimiento.
+
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 493.
 
-Los responsables de las casas de asistencia privada u organizaciones civiles previamente autorizadas, donde se reciban menores en situación de desamparo, desempeñarán la tutela de éstos con arreglo a las leyes.
+Los responsables de las casas de asistencia privada u organizaciones civiles previamente autorizadas, donde se reciban menores de edad en situación de desamparo, desempeñaran la tutela de estos con arreglo a las leyes.
 
-Tratándose de violencia familiar, sólo tendrán los cuidados y atención de los menores en los mismos términos del párrafo anterior, hasta en tanto se defina la situación legal de éstos.
+Tratándose de violencia familiar, sólo tendrán los cuidados y atención de los menores de edad en los mismos términos del párrafo anterior, hasta en tanto se defina la situación legal de estos.
 
 ###### ARTICULO 494.
 
@@ -4257,43 +4279,29 @@ Tratándose de violencia familiar, sólo tendrán los cuidados y atención de lo
 
 > <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
 
-###### Artículo 494-A.
+ARTICULO 494 A.- El Gobierno del Distrito Federal, a través del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, ejercerá la tutela de los menores en situación de desamparo que no hayan sido acogidos por instituciones de asistencia social, en cuyo caso tendrá las obligaciones, facultades y restricciones establecidas en este Código.
 
-El Gobierno del Distrito Federal, a través del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, ejercerá la tutela de los menores en situación de desamparo que no hayan sido acogidos por instituciones de asistencia social, en cuyo caso tendrá las obligaciones, facultades y restricciones establecidas en este Código.
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+ARTICULO 494 B.- El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, para efecto de los (sic) dispuesto en el artículo anterior contará con un comité técnico como órgano de apoyo cuyo objeto será vigilar y garantizar el estricto respeto a los derechos fundamentales de las niñas y los niños con base en el interés superior del menor, adoptando las medidas necesarias de protección para su cuidado y atención.
 
-###### Artículo 494-B.
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2015)</small>
 
-El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, para efecto de lo dispuesto en el artículo anterior contará con un Comité Técnico interinstitucional e interdisciplinario como órgano de apoyo cuyo objeto será vigilar y garantizar el estricto respeto a los derechos fundamentales de las niñas y los niños con base en el interés superior del menor, adoptando las medidas necesarias de protección para su cuidado y atención.
+ARTICULO 494 C.- El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, adoptará todas las medidas necesarias para la atención, protección y tratamiento para el ejercicio pleno de los derechos de los menores en situación de desamparo de acuerdo a las necesidades especificas y edad del menor de edad, procurando siempre y en todo momento el sano desarrollo físico, mental, espiritual, moral y social, dando prioridad a los menores de edad con problemas de adicción a estupefacientes, sustancias psicotrópicas y alcoholismo.
 
-> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, realizara las acciones de prevención y protección a menores de edad para incorporarlos al núcleo familiar o integrarlos en alguna modalidad de acogimiento para su formación e instrucción, y garantizará en todo momento su situación jurídica conforme a lo previsto en este código.
 
-###### Artículo 494-C.
-
-Cuando el Sistema para el Desarrollo Integral de la Familia del Distrito Federal tenga conocimiento de que un menor se encuentra en situación de desamparo, practicará la diligencia de acogimiento respectiva con la participación del Comité Técnico interinstitucional e interdisciplinario, dando aviso en el acto al Ministerio Público Especializado, quien después de realizar las diligencias necesarias, lo pondrá de inmediato bajo el cuidado y atención de dicha institución.
-
-El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, adoptará todas las medidas necesarias para la atención, protección y tratamiento para el ejercicio pleno de sus derechos de acuerdo a las necesidades específicas y edad del menor, procurando siempre y en todo momento el sano desarrollo físico, mental, espiritual, moral y social, dando prioridad a los menores con problemas de adicción a estupefacientes, sustancias psicotrópicas y alcoholismo.
-
-El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, realizará las acciones de prevención y protección a menores para incorporarlos al núcleo familiar, hogares sustitutos o en espacios residenciales adecuados para su formación e instrucción, y garantizará en todo momento su situación jurídica conforme a lo previsto en este Código.
-
-El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, tendrá legitimación para, en su caso, promover ante el Juez de lo Familiar las acciones correspondientes a resolver la situación definitiva del menor, dentro del término de 10 días contados a partir de aquel en el que el Comité Técnico Interinstitucional e Interdisciplinario emitirá el dictamen técnico correspondiente, ateniendo a las circunstancias de cada caso en el plazo que señale el reglamento.
-
-La asunción de la tutela atribuida al Gobierno del Distrito Federal, en términos del Código de Procedimientos Civiles para el Distrito Federal, lleva consigo la suspensión provisional de la patria potestad y la tutela ordinarias; no obstante serán válidos los actos de contenido patrimonial que realicen los padres o tutores en representación del menor y que sean beneficiosos para él.
+La asunción de la tutela atribuida al Gobierno del Distrito Federal, en términos del Código de Procedimientos Civiles para el Distrito Federal, lleva consigo la suspensión provisional de la patria potestad y la tutela ordinarias; no obstante serán validos los actos de contenido patrimonial que realicen los padres o tutores en representación del menor de edad y que sean beneficiosos para él.
 
 > <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
 
-###### Artículo 494-D.
-
-El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, integrará a los menores que permanezcan bajo su cuidado y atención, en los espacios residenciales de instituciones u organizaciones civiles, previamente autorizados que se destinen para tal efecto con el fin de garantizar sus derechos de alimentación, salud, educación y sano esparcimiento en áreas especializadas que aseguren su desarrollo integral, de conformidad con el reglamento.
+Artículo 494 D.- El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, integrará a los menores que permanezcan bajo su cuidado y atención, en los espacios residenciales de instituciones u organizaciones civiles, previamente autorizados que se destinen para tal efecto con el fin de garantizar sus derechos de alimentación, salud, educación y sano esparcimiento en áreas especializadas que aseguren su desarrollo integral, de conformidad con el reglamento.
 
 Se buscará siempre el interés superior del menor y se procurará cuando no sea contrario a ese interés, su reinserción en la propia familia.
 
-> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2015)</small>
 
-###### Artículo 494-E.
-
-En el caso de que exista oposición de parte legítima después de efectuados los actos comprendidos en este capítulo, se reservará el derecho al opositor para que lo haga valer en la vía y forma que corresponda ante el Juez de lo Familiar.
+ARTICULO 494 E.- En el caso de que exista oposición de parte legítima después de efectuados cualquiera de los acogimientos y actos comprendidos en este capitulo, se reservará el derecho al opositor para que lo haga valer en la vía y forma que corresponda ante el juez de lo familiar.
 
 ### CAPITULO VIII. De las excusas para el desempeño de la tutela
 
@@ -14714,3 +14722,33 @@ CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del
 G.O. 5 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor a los 30 días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE MARZO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1° de enero de 2015.
+
+SEGUNDO. El Ejecutivo local deberá incorporar, por conducto de la Secretaría de Finanzas, a partir del proyecto de presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal 2015, el presupuesto necesario para la correcta entrada en vigor del presente Decreto.
+
+TERCERO. El Ejecutivo local, por conducto de la Secretaría de Finanzas, diseñará la estructura financiera necesaria para dotar de recursos con carácter de permanente a las disposiciones contenidas en el presente Decreto.
+
+CUARTO. Los entes ejecutores de gasto que participan en la presente Ley deberán de remitir a las (sic) Secretaría de Finanzas, a más tardar el 30 de octubre de 2014 los requerimientos presupuestales necesarios a efecto de que dicha Secretaría esté en posibilidades de dar cumplimiento a lo dispuesto en los Transitorios Segundo y Tercero.
+
+QUINTO. Para la ejecución de la presente Ley, la Asamblea Legislativa del Distrito Federal aprobará el presupuesto necesario y suficiente que permita a las distintas instancias involucradas llevar acabo de manera óptima sus responsabilidades de conformidad con las atribuciones que les han sido conferidas en la presente Ley y demás normatividad aplicable.
+
+SEXTO. La Secretaría Técnica del Consejo Promotor de los Derechos de las Niñas y los Niños, en sesión plenaria integrará la Comisión de Cuidados Alternativos en un plazo máximo de 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. El Sistema para el Desarrollo Integral de la Familia deberá analizar la situación jurídica de todas las niñas, niños y adolescentes que se encuentren institucionalizados a la entrada en vigor de la presente Ley, de conformidad con las disposiciones contenidas en el presente ordenamiento, con la finalidad de que se determine la modalidad de acogimiento más adecuada conforme a su interés superior. Lo anterior no podrá exceder un plazo mayor a 18 meses, a partir de la entrada en vigor de esta Ley.
+
+OCTAVO. El Sistema para el Desarrollo Integral de la Familia emitirá los lineamientos internos y constituirá el Comité Técnico en un plazo de 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+NOVENO. El Sistema para el Desarrollo Integral de la Familia emitirá los Lineamientos relativos al Acogimiento en Familias Extensas o Ajenas, en un plazo de 120 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO. El Sistema para el Desarrollo Integral de la Familia dispondrá de 180 días naturales, contados a partir de la entrada en vigor de la presente Ley, para emitir los Lineamientos relativos a la conformación y funcionamiento del Sistema de Información de Cuidados Alternativos, para que una vez emitidos, comiencen su integración de manera progresiva y permanente.
+
+DÉCIMO PRIMERO. El Instituto para la Asistencia e Integración Social emitirá los lineamientos internos y constituirá el Comité de Supervisión, Vigilancia y Seguimiento en un plazo máximo de 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO SEGUNDO. El Comité de Supervisión, Vigilancia y Seguimiento emitirá el Reglamento de las Instituciones de Cuidados Alternativos en un plazo máximo de 120 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO TERCERO. Una vez publicados los reglamentos y lineamientos, previstos en la presente Ley, quedará abrogada la Ley de Albergues Públicos y privados para Niñas y Niños del Distrito Federal.
+
+DÉCIMO CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
