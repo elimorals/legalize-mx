@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2011-10-22"
+last_updated: "2015-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -85,9 +85,17 @@ XI. Ayuntamiento: los ayuntamientos del Estado de San Luis Potosí;
 
 XII. Organismos auxiliares: las organizaciones civiles cuyo objeto esencial sea la protección del patrimonio cultural en el Estado;
 
-XIII. Patrimonio cultural tangible: es el conjunto de bienes materiales muebles e inmuebles, públicos y privados que se generan en una sociedad en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-XIV. Patrimonio cultural intangible: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron.
+XIII. Patrimonio cultural tangible: es el conjunto de bienes materiales muebles e inmuebles, públicos y privados que se generan en una sociedad en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+XIV. Patrimonio cultural intangible: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron, y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2015)</small>
+
+XV. CONGRESO: El Honorable Congreso del Estado.
 
 ###### ARTICULO 6º.
 
@@ -297,6 +305,10 @@ e) Coordinación Estatal.
 
 f) La Universidad Autónoma de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2015)</small>
+
+g) Dos representantes del CONGRESO.
+
 ###### ARTICULO 20.
 
 Los integrantes de la COTEPAC tendrán nombramiento de carácter honorífico; a excepción del Coordinador General, el Secretario y el personal necesario que se le asigne.
@@ -405,23 +417,33 @@ VIII. Proponer reconocimientos o estímulos por méritos o acciones destacadas, 
 
 Las propuestas de declaratorias podrán realizarlas de manera conjunta o independiente, las autoridades e instituciones estatales y municipales, los organismos auxiliares, así como los particulares.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 33.
 
-Las propuestas a que se refiere el artículo anterior deberán ser presentadas ante la SECULT, quien las turnará a la COTEPAC para su opinión correspondiente.
+Las propuestas a que se refiere el artículo anterior deberán ser presentadas ante el CONGRESO, o la SECULT.
 
-Una vez que se cuente con la opinión de la COTEPAC, la SECULT elaborará el proyecto de decreto administrativo para someterlo a la consideración del titular del Ejecutivo del Estado.
+En el caso del CONGRESO, se turnará a la comisión respectiva, para iniciar el proceso legislativo detallado en su Ley Orgánica, y en su Reglamento para el Gobierno Interior del mismo, solicitando la opinión técnica respectiva a la COTEPAC.
+
+En el caso de la SECULT, la turnará a la COTEPAC para su opinión correspondiente, y una vez que ésta se manifieste al respecto, la SECULT elaborará el proyecto de decreto administrativo para someterlo a la consideración del titular del Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 34.
 
-El titular del Ejecutivo Estatal tendrá la facultad para decretar y revocar declaratorias de patrimonio cultural, sobre los bienes contemplados en el artículo 7º de esta Ley, tomando en cuenta la opinión de la COTEPAC, a través de la SECULT.
+El titular del Ejecutivo Estatal; y el CONGRESO, tienen la facultad para decretar declaratorias de patrimonio cultural, sobre los bienes contemplados en el artículo 7° de esta Ley; y sólo el Ejecutivo tendrá la facultad de revocarlos.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 35.
 
-El titular del Ejecutivo del Estado, mediante Decreto Administrativo, hará las declaratorias correspondientes, que deberán publicarse en el Periódico Oficial del Estado; asimismo, deberán notificarse en forma personal al interesado o solicitante, a los organismos responsables de su cuidado y a los posibles afectados que tengan interés jurídico. En caso de ignorarse su nombre o domicilio, surtirá efectos de notificación personal la citada publicación.
+El titular del Ejecutivo del Estado; y el CONGRESO, mediante Decreto, Administrativo; y Legislativo, respectivamente, expedirán las declaratorias correspondientes, que deberán publicarse en el Periódico Oficial del Estado; asimismo, lo notificarán en forma personal al interesado o solicitante; a los organismos responsables de su cuidado; y a los posibles afectados que tengan interés jurídico. En caso de ignorarse nombre o domicilio de éstos últimos, surtirá efectos de notificación personal la citada publicación oficial.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 36.
 
-En el decreto administrativo se ordenará la inscripción de la declaratoria que corresponda, en el Registro Estatal del Patrimonio Cultural a cargo de la SECULT, y en el caso deberá indicarse su asociación con el bien inmueble a que pertenecen o pertenecieron.
+En el Decreto, Administrativo, o Legislativo, que corresponda, se ordenará la inscripción de la declaratoria, en el Registro Estatal del Patrimonio Cultural, a cargo de la SECULT y, en su caso, indicarse su asociación con el bien inmueble a que pertenecen o pertenecieron.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
@@ -701,10 +723,16 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones normativas de igual o inferior jerarquía jurídica que se opongan al presente Decreto.
