@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2014-05-02"
+last_updated: "2015-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -78,7 +78,9 @@ d) Establecer las facultades y obligaciones de la Administración Pública para 
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Abandono: La situación de desamparo que vive una niña o niño cuando los progenitores, tutores o responsables de su cuidado dejan de proporcionales los medios básicos de subsistencia y los cuidados necesarios para su desarrollo integral sin perjuicio de lo que prevengan otras leyes;
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2015)</small>
+
+I. Desamparo: La situación que se produce de un hecho a causa de la imposibilidad, del incumplimiento o inapropiado ejercicio de los deberes de protección establecidos por las leyes para la patria potestad, tutela o custodia de los menores de edad, cuando estos queden privados de la necesaria asistencia material o moral; ya sea en carácter de expósitos o abandonados.
 
 II. Acciones de Participación: Aquéllas que deben realizarse por los órganos locales de gobierno, familia y sociedad a fin de que las niñas y niños estén informados, se formen una opinión propia, que la expresen y puedan participar y organizarse en torno a sus intereses;
 
@@ -102,9 +104,9 @@ XI. Consejo: Al Consejo Promotor de los Derechos de las Niñas y niños del Dist
 
 XII. Delegaciones: A los órganos politico-administrativos de las demarcaciones territoriales del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2015)</small>
 
-XIII. Hogar Provisional: El núcleo familiar que proporciona alojamiento temporal, cuidados y atenciones a una niña o niño en situación de desamparo, con el objeto de brindarle un ambiente propicio para su atención integral, en tanto se determina su situación jurídica;
+XIII. Acogimiento o cuidado alternativo: es la institución o figura jurídica mediante la cual una persona asume, de manera temporal, el cuidado y atención integral de un niño, niña o adolescente en situación de desamparo, en estricto respeto a sus derechos.
 
 XIV. Ley: A la presente Ley de los Derechos de las niñas y niños en el Distrito Federal.
 
@@ -164,7 +166,7 @@ IV. El de la familia como espacio preferente para el desarrollo de las niñas y 
 
 V. El de que la niña o niño tienen diversas etapas de desarrollo y diversas necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, dependiendo de la etapa de desarrollo en la que se encuentre, con el objeto de procurar que todas las niñas y niños ejerzan sus derechos con equidad;
 
-VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y (sic)
+VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y
 
 VII. El del respeto universal a la diversidad cultural, étnica y religiosa.
 
@@ -306,7 +308,7 @@ V. Realizar los trámites de inscripción para que reciban la educación obligat
 
 VI. Incentivarlos para que realicen actividades culturales, recreativas, deportivas y de esparcimiento, que les ayuden a su desarrollo integral;
 
-VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y (sic)
+VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y
 
 VIII. Darles a conocer sus derechos, así como brindarles orientación y dirección para su ejercicio y debida observancia.
 
@@ -330,17 +332,19 @@ Le Secretaría de Desarrollo Social en coordinación con el Sistema para el Desa
 
 El Jefe de Gobierno a través de la Secretaría de Desarrollo y el Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, en coordinación con las demás instancias locales y federales establecerá las normas y los mecanismos necesarios a fin de que, cuando una niña o niño se vea separado de su familia de origen, se procure su reencuentro con ella, o bien, para la localización de sus familiares en los casos de abandono, sustracción o retención ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
 
-> <small>(REFORMADO, G.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2015)</small>
 
 ###### Artículo 14.
 
-Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo de la Secretaría de Desarrollo Social y del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle un hogar provisional. La carencia de recursos económicos o materiales no será motivo central para la separación de niñas o niños de su familia.
+Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo de la Secretaría de Desarrollo Social y del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle una medida de acogimiento. La carencia de recursos económicos o materiales no será motivo central para la separación de niñas o niños de su familia.
 
 ###### Artículo 15.
 
 El Sistema para el Desarrollo Integral de la Familia en el Distrito Federal establecerá los mecanismos para que se logre que las niñas y niños que lo requieran ejerzan plenamente los derechos estipulados en este capítulo, propiciando:
 
-I. La participación de hogares provisionales en su cuidado y protección cuando se encuentren privados de su familia de origen, como una de las opciones temporales garantizando la determinación de su certeza jurídica ante autoridad; y
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2015)</small>
+
+I. Su integración en alguna modalidad de acogimiento para su cuidado y protección cuando se encuentren privados de su familia de origen, como una de las opciones temporales garantizando la determinación de su certeza jurídica ante autoridad; y
 
 II. La adopción de conformidad con el Código Civil.
 
@@ -486,19 +490,19 @@ X. Diseñar programas para garantizar la atención, en los servicios integrales 
 
 XI. Orientar a la comunidad sobre el significado de la maternidad y paternidad responsables, del parto y de los cuidados personales de la madre y de la niña o niño;
 
-XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y (sic)
+XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2008)</small>
 
-XIII.- Realizar la evaluación del estado nutricional mediante indicadores antropométricos, y promover campañas de información nutricional, prevención y atención médica para las y los niños con desnutrición, sobrepeso, obesidad, particularmente aquellos con obesidad mórbida, trastornos alimenticios como bulimia, anorexia, y adicciones;
+XIII. Realizar la evaluación del estado nutricional mediante indicadores antropométricos, y promover campañas de información nutricional, prevención y atención médica para las y los niños con desnutrición, sobrepeso, obesidad, particularmente aquellos con obesidad mórbida, trastornos alimenticios como bulimia, anorexia, y adicciones;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E., ADICIONADA], G.O. 27 DE OCTUBRE DE 2008)</small>
 
-XIV.- Las demás que le confieran la Ley de Salud para el Distrito Federal y otros ordenamientos jurídicos.
+XIV. Las demás que le confieran la Ley de Salud para el Distrito Federal y otros ordenamientos jurídicos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -512,7 +516,7 @@ I. Reducir la mortalidad infantil;
 
 II. Asegurar la prestación de la asistencia médica necesaria;
 
-III. Asegurar que todos los sectores de la sociedad, y en particular los padres, madres, niñas y niños conozcan los principios básicos de la salud y la nutrición, así como las ventajas de la lactancia materna, la higiene y las medidas de prevención de accidentes; y (sic)
+III. Asegurar que todos los sectores de la sociedad, y en particular los padres, madres, niñas y niños conozcan los principios básicos de la salud y la nutrición, así como las ventajas de la lactancia materna, la higiene y las medidas de prevención de accidentes; y
 
 IV. Desarrollar campañas en materia de educación sexual, encaminadas a la prevención de embarazos no deseados y enfermedades de transmisión sexual;
 
@@ -536,7 +540,9 @@ I. Realizar las actividades de Asistencia Social, así como fomentar y promover 
 
 II. Proporcionar en forma gratuita los servicios de asistencia jurídica y orientación a las niñas y niños, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado. Patrocinar y representar a las niñas y niños ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con estos;
 
-III. Realizar acciones de prevención y protección a niñas y niños maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su custodia, formación e instrucción, así como garantizar en todo momento su situación jurídica conforme a lo previsto en el Código Civil;
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2015)</small>
+
+III. Realizar acciones de prevención y protección a niñas y niños maltratados, en desamparo o con problemas sociales para incorporarlos al núcleo familiar o integrarlos en una medida de acogimiento para otorgarles atención y cuidado integral.
 
 IV. Coadyuvar con la Procuraduría en la atención y tratamiento de las niñas y niños víctimas del delito;
 
@@ -552,7 +558,9 @@ IX. Denunciar ante las autoridades competentes cualquier caso de maltrato, lesio
 
 X. Poner a disposición del Ministerio Público o de cualquier órgano jurisdiccional los elementos a su alcance para la protección de las niñas y niños y proporcionar a aquellos la información que les requieran sobre el particular;
 
-XI. Procurar que las niñas y niños que se encuentren o vivan en circunstancias de desventaja social, cuenten con un lugar donde vivir, que tengan los espacios suficientes para cubrir sus necesidades básicas, dentro de una familia u hogar provisional o instituciones de asistencia pública o privada;
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2015)</small>
+
+XI. Procurar que las niñas y niños que se encuentren o vivan en circunstancias de desventaja social, cuenten con un lugar donde vivir, que tengan los espacios suficientes para cubrir sus necesidades básicas, dentro de alguna modalidad de acogimiento o cuidado alternativo.
 
 XII. Vigilar que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a las niñas y niños, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social;
 
@@ -566,19 +574,19 @@ XVI. Promover la filiación de las niñas y niños, para efectos de su identidad
 
 XVII. Comparecer ante las autoridades o instituciones competentes, en los casos en que corresponda o se le designe para ejercer la guarda y custodia provisional y en su caso, la tutela de las niñas y niños en los términos de las disposiciones legales aplicables;
 
-XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y (sic)
+XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2008)</small>
 
-XIX.- Realizar campañas sobre educación nutricional y formación de hábitos alimenticios, de prevención del sobrepeso y la obesidad, trastornos alimenticios, como anorexia, bulimia, y adicciones; así como de detección y canalización de las y los niños que sufran dichas enfermedades a las instituciones competentes para que reciban la ayuda pertinente;
+XIX. Realizar campañas sobre educación nutricional y formación de hábitos alimenticios, de prevención del sobrepeso y la obesidad, trastornos alimenticios, como anorexia, bulimia, y adicciones; así como de detección y canalización de las y los niños que sufran dichas enfermedades a las instituciones competentes para que reciban la ayuda pertinente;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2008)</small>
 
-XX.- Las demás que le confieran otros ordenamientos jurídicos.
+XX. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPITULO V. DE LOS JEFES DELEGACIONALES
 
@@ -740,7 +748,7 @@ I. Garantizar el acceso a todas las niñas y niños a escuelas dignas, seguras y
 
 II. Propiciar la integración de las niñas y niños discapacitados a planteles de educación básica;
 
-III. Fomentar el otorgamiento de becas en las instituciones particulares a fin de apoyar a las familias de escasos recursos para que sus hijos continúen con su formación educativa; y (sic)
+III. Fomentar el otorgamiento de becas en las instituciones particulares a fin de apoyar a las familias de escasos recursos para que sus hijos continúen con su formación educativa; y
 
 IV. Impulsar programas de fomento educativo con los padres, educandos y maestros;
 
@@ -940,7 +948,9 @@ II. Intercambiar experiencias sobre los modelos de atención que aplica cada ins
 
 III. Garantizar un sistema de canalización y seguimiento a los casos de niñas y niños sujetos a tutela dativa definitiva y de las demás figuras que prevé el Código Civil, para que estos sean enviados a las instituciones que ofrezcan servicios adecuados a sus circunstancias y necesidades; y
 
-IV. Propiciar los apoyos que requieran los programas de atención de las instituciones y organizaciones que integren la red.
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2015)</small>
+
+IV. Coordinarse con el Sistema para el Desarrollo Integral de la Familia en el Distrito Federal cuando se requiera integrar a la niña o niño a una modalidad de acogimiento; para garantizar en términos del articulo 24 fracción II de esta ley, la certeza de su situación jurídica;
 
 ###### Artículo 59.
 
@@ -954,9 +964,11 @@ III. Disponer de los medios que permitan una atención adecuada; y
 
 IV. Observar las normas para la atención a niñas y niños, emitidas por las autoridades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2015)</small>
+
 ###### Artículo 60.
 
-Son derechos de las niñas y niños sujetos a la guarda y custodia en centros de alojamiento o albergues, los siguientes:
+Son derechos de las niñas y niños integrados en alguna modalidad de acogimiento:
 
 I. Ser atendidos sin ningún tipo de discriminación;
 
@@ -979,6 +991,10 @@ IX. Participar de manera activa en la elaboración normativa y programática de 
 X. Conocer su situación legal en todo momento y a participar en la elaboración de su proyecto individual de vida; y
 
 XI. Ser escuchados en las decisiones de trascendencia.
+
+> <small>(ADICIONADA, G.O. 10 DE MARZO DE 2015)</small>
+
+XII. Contar con un programa personalizado de reincorporación a su familia de origen cuando esto no contravenga a su interés superior, o bien contar con un programa de integración a una modalidad de acogimiento.
 
 A R T Í C U L O S T R A N S I T O R I O S
 
@@ -1067,3 +1083,33 @@ G.O. 2 DE MAYO DE 2014.
 PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE MARZO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1° de enero de 2015.
+
+SEGUNDO. El Ejecutivo local deberá incorporar, por conducto de la Secretaría de Finanzas, a partir del proyecto de presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal 2015, el presupuesto necesario para la correcta entrada en vigor del presente Decreto.
+
+TERCERO. El Ejecutivo local, por conducto de la Secretaría de Finanzas, diseñará la estructura financiera necesaria para dotar de recursos con carácter de permanente a las disposiciones contenidas en el presente Decreto.
+
+CUARTO. Los entes ejecutores de gasto que participan en la presente Ley deberán de remitir a las (sic) Secretaría de Finanzas, a más tardar el 30 de octubre de 2014 los requerimientos presupuestales necesarios a efecto de que dicha Secretaría esté en posibilidades de dar cumplimiento a lo dispuesto en los Transitorios Segundo y Tercero.
+
+QUINTO. Para la ejecución de la presente Ley, la Asamblea Legislativa del Distrito Federal aprobará el presupuesto necesario y suficiente que permita a las distintas instancias involucradas llevar acabo de manera óptima sus responsabilidades de conformidad con las atribuciones que les han sido conferidas en la presente Ley y demás normatividad aplicable.
+
+SEXTO. La Secretaría Técnica del Consejo Promotor de los Derechos de las Niñas y los Niños, en sesión plenaria integrará la Comisión de Cuidados Alternativos en un plazo máximo de 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. El Sistema para el Desarrollo Integral de la Familia deberá analizar la situación jurídica de todas las niñas, niños y adolescentes que se encuentren institucionalizados a la entrada en vigor de la presente Ley, de conformidad con las disposiciones contenidas en el presente ordenamiento, con la finalidad de que se determine la modalidad de acogimiento más adecuada conforme a su interés superior. Lo anterior no podrá exceder un plazo mayor a 18 meses, a partir de la entrada en vigor de esta Ley.
+
+OCTAVO. El Sistema para el Desarrollo Integral de la Familia emitirá los lineamientos internos y constituirá el Comité Técnico en un plazo de 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+NOVENO. El Sistema para el Desarrollo Integral de la Familia emitirá los Lineamientos relativos al Acogimiento en Familias Extensas o Ajenas, en un plazo de 120 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO. El Sistema para el Desarrollo Integral de la Familia dispondrá de 180 días naturales, contados a partir de la entrada en vigor de la presente Ley, para emitir los Lineamientos relativos a la conformación y funcionamiento del Sistema de Información de Cuidados Alternativos, para que una vez emitidos, comiencen su integración de manera progresiva y permanente.
+
+DÉCIMO PRIMERO. El Instituto para la Asistencia e Integración Social emitirá los lineamientos internos y constituirá el Comité de Supervisión, Vigilancia y Seguimiento en un plazo máximo de 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO SEGUNDO. El Comité de Supervisión, Vigilancia y Seguimiento emitirá el Reglamento de las Instituciones de Cuidados Alternativos en un plazo máximo de 120 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO TERCERO. Una vez publicados los reglamentos y lineamientos, previstos en la presente Ley, quedará abrogada la Ley de Albergues Públicos y privados para Niñas y Niños del Distrito Federal.
+
+DÉCIMO CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
