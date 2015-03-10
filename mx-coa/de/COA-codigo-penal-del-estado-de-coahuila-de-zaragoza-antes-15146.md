@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2014-11-25"
+last_updated: "2015-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3547,6 +3547,12 @@ V. EJERCICIO INDEBIDO DE FUNCIONES. Ejerza funciones o atribuciones que no le co
 
 VI. ABANDONO DEL CARGO. Abandone sin causa justificada un cargo, empleo o comisión; o lo abandone sin que antes se le admita su renuncia o de que se presente la persona que lo reemplace si es que así se le previno; siempre y cuando ello motive perjuicio al servicio.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2015)</small>
+
+ARTÍCULO 213 BIS. SANCIONES Y FIGURA TÍPICA DE NOMBRAMIENTO O DESIGNACIÓN INDEBIDA DE PERSONAL DE SEGURIDAD PÚBLICA. Se aplicará prisión de uno a tres años, multa de cincuenta a quinientos días y destitución e inhabilitación de uno a tres años para desempeñar el cargo, empleo o comisión, al servidor público que teniendo a su cargo el nombramiento o la designación de elementos de las fuerzas de seguridad pública estatales y municipales, así como del personal administrativo de las áreas de seguridad pública de ambos órdenes de gobierno y de procuración de justicia, lo realice sin haber aprobado los exámenes de evaluación y control de confianza en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza.
+
+La misma pena se aplicará al servidor público que sabiendo que un elemento de las fuerzas de seguridad pública en funciones o personal administrativo de los mencionados en el párrafo que antecede, no haya aprobado los exámenes de control de confianza a los que fuere sometido para efectos de su permanencia en el cargo, omita realizar los trámites necesarios en el ámbito de su competencia para proceder a su destitución.
+
 #### SECCIÓN DÉCIMA. USURPACIÓN DE FUNCIONES PÚBLICAS
 
 ###### ARTÍCULO 214.
@@ -6904,3 +6910,9 @@ Los nombramientos expedidos con anterioridad continuarán generando sus efectos 
 ###### ARTÍCULO OCTAVO.
 
 Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
+
+P.O. 10 DE MARZO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
