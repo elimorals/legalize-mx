@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-19"
-last_updated: "2014-09-09"
+last_updated: "2015-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de junio de 2009.
 
@@ -149,13 +149,15 @@ VIII. Constitución del Estado: La Constitución Política del Estado de Coahuil
 
 IX. Constitución General: La Constitución Política de los Estados Unidos Mexicanos;
 
-X. Dependencias o instituciones: Las Subsecretarías, Subprocuradurías, direcciones generales, delegaciones regionales, direcciones de área, subdirecciones, centros, unidades y, en general, a toda organización interior, tanto de la Secretaría de Seguridad Pública como de la Procuraduría General de Justicia del Estado o de los gobiernos del estado y los municipios;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+X. Dependencias o instituciones: Las Subprocuradurías, Direcciones Generales, Delegaciones Regionales, Direcciones de Área, Subdirecciones, Centros, Unidades y, en general, a toda organización interior, tanto de la Comisión Estatal de Seguridad como de la Procuraduría General de Justicia del Estado o de los Gobiernos del Estado y los Municipios;
 
 XI. Estado: El Estado de Coahuila de Zaragoza;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-XII. Fuerzas de seguridad pública estatales: Las corporaciones policiales de la Secretaría de Seguridad Pública, de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza y de la Procuraduría para Niños, Niñas y la Familia;
+XII. Fuerzas de seguridad pública estatales: Las corporaciones policiales de la Comisión Estatal de Seguridad, de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza y de la Procuraduría para Niños, Niñas y la Familia;
 
 XIII. Fuerzas de seguridad pública municipales: Las fuerzas de seguridad pública de los Municipios;
 
@@ -181,11 +183,17 @@ XXIII. Programa Estatal: El Programa Estatal de Seguridad Pública;
 
 XXIV. Programa Rector de Profesionalización: Programa Rector de Profesionalización Ministerial, Pericial y Policial;
 
-XXV. Reglamento Interior: El Reglamento Interior de la Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-XXVI. Secretaría de Seguridad: La Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza;
+XXV. Ley Orgánica: Ley Orgánica de la Comisión Estatal de Seguridad del Estado de Coahuila de Zaragoza;
 
-XXVII. Secretario de Seguridad: El titular de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+XXVI. Comisión Estatal de Seguridad: La Comisión Estatal de Seguridad;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+XXVII. Comisionado de Seguridad: El titular de la Comisión Estatal de Seguridad;
 
 XXVIII. Servicio de Carrera Policial: Servicio Profesional de Carrera Policial;
 
@@ -195,7 +203,7 @@ XXX. Sistema Nacional: El Sistema Nacional de Seguridad Pública;
 
 XXXI. Subprocuradores: Los titulares de las subprocuradurías de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza, y
 
-XXXII. Subsecretarios: Los titulares de las subsecretarías de Operación Policial; de Desarrollo Policial; de Políticas Públicas e Información, de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza.
+XXXII. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
 ## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -227,15 +235,15 @@ III. Mantener, una relación de respeto y de colaboración mutua para el desarro
 
 IV. Celebrar los convenios de coordinación;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-V. Entregar a la Secretaría de Seguridad la información de personal, criminal y estadística relativa a seguridad pública;
+V. Entregar a la Comisión Estatal de Seguridad la información de personal, criminal y estadística relativa a seguridad pública;
 
 VI. Consultar a través del Registro de Seguridad Pública del Estado, los registros nacionales y estatales, antes de aceptar a los aspirantes y de contratar a los agentes de la policía;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-VII. Profesionalizar a los agentes de la policía, del Ministerio Público y a los peritos, de conformidad con las instituciones, planes y programas de la Secretaría de Seguridad y la Procuraduría, así como con el Programa Rector de Profesionalización;
+VII. Profesionalizar a los agentes de la policía, del Ministerio Público y a los peritos, de conformidad con las instituciones, planes y programas de la Comisión Estatal de Seguridad y la Procuraduría, así como con el Programa Rector de Profesionalización; relativa a seguridad pública;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -283,9 +291,9 @@ VIII. Promover la participación de los sectores sociales en el estudio y soluci
 
 IX. Formar parte, a través de los Presidentes Municipales, del Sistema Estatal, el Consejo Estatal y el Consejo Municipal de Seguridad Pública; así como a cumplir y hacer cumplir cabalmente las disposiciones que dicten esos organismos;
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-X. Proporcionar a la Secretaría de Seguridad la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad, y
+X. Proporcionar a la Comisión Estatal de Seguridad la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad, y
 
 XI. Las demás que contemple la legislación aplicable.
 
@@ -297,9 +305,9 @@ El Sistema Estatal se integra por:
 
 I. El Titular del Ejecutivo Estatal, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-II. La Secretaría de Seguridad;
+II. La Comisión Estatal de Seguridad;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -335,7 +343,9 @@ Intervención Subsidiaria del Estado
 
 En caso de ocurrir situaciones graves que pongan en riesgo el orden y la paz pública de una comunidad o la corporación de policía preventiva municipal no cuente con recursos humanos profesionales o de equipamiento suficientes, el Estado a petición del propio municipio o, de manera oficiosa, podrá asumir el mando temporal de la policía preventiva municipal a través de la Secretaría de Seguridad, hasta en tanto se restablezcan las condiciones de normalidad.
 
-Frente a una situación de emergencia, natural o humana, que rebase las posibilidades de los municipios afectados, el mando y la coordinación de las policías preventivas municipales quedará bajo la responsabilidad de la Secretaría de Seguridad, a través del subsecretario de operación policial, hasta en tanto cese la emergencia.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+
+Frente a una situación de emergencia, natural o humana, que rebase las posibilidades de los municipios afectados, el mando y la coordinación de las policías preventivas municipales quedará bajo la responsabilidad de la Comisión Estatal de Seguridad.
 
 Intervención Convencional del Estado
 
@@ -507,15 +517,15 @@ Concepto
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución General y por la Constitución del Estado, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado en los términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Resguardo de Instalaciones Estatales
+Resguardo de instalaciones estatales
 
 ###### ARTÍCULO 27.
 
-La Secretaría de Seguridad y la Procuraduría tienen la obligación de proteger sus propias instalaciones, y de coadyuvar en la protección de la integridad física y las operaciones de las instalaciones estratégicas estatales y municipales en los casos urgentes, o cuando se le solicite y sea procedente.
+La Comisión Estatal de Seguridad y la Procuraduría tienen la obligación de proteger sus propias instalaciones, y de coadyuvar en la protección de la integridad física y las operaciones de las instalaciones estratégicas estatales y municipales en los casos urgentes, o cuando se le solicite y sea procedente.
 
-El resguardo de las instalaciones estratégicas estatales estará a cargo de la Secretaría de Seguridad.
+El resguardo de las instalaciones estratégicas estará a cargo de la Comisión Estatal de Seguridad.
 
 Instalaciones Estratégicas Estatales
 
@@ -523,13 +533,13 @@ Instalaciones Estratégicas Estatales
 
 Son instalaciones estratégicas estatales los bienes inmuebles y muebles, incluyendo documentos, fotografías y todo tipo de materiales y objetos de cómputo y electrónicos, que las leyes y reglamentos que así los clasifiquen, o que estén destinados a funciones prioritarias de gobierno, de salubridad, comunicaciones o seguridad pública.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Coadyuvancia Municipal
+Coadyuvancia municipal
 
 ###### ARTÍCULO 29.
 
-Los municipios están obligados a auxiliar a la Secretaría de Seguridad y a la Procuraduría en la vigilancia y el mantenimiento o, en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
+Los municipios están obligados a auxiliar a la Comisión Estatal de Seguridad y a la Procuraduría en la vigilancia y el mantenimiento, o en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
 
 Instalaciones Estratégicas Municipales
 
@@ -537,21 +547,21 @@ Instalaciones Estratégicas Municipales
 
 El resguardo de las instalaciones estratégicas municipales estará a cargo de los Municipios a través de los Presidentes Municipales y de las Direcciones de Policía Preventiva Municipales.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Solicitud de auxilio
 
 ###### ARTÍCULO 31.
 
-Los municipios podrán solicitar el auxilio de la Secretaría de Seguridad y la Procuraduría para la vigilancia y el mantenimiento o, en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
+Los municipios podrán solicitar el auxilio de la Comisión Estatal de Seguridad y la Procuraduría para la vigilancia y el mantenimiento o, en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Coadyuvancia con la Federación
+Coadyuvancia con la federación
 
 ###### ARTÍCULO 32.
 
-La Secretaría de Seguridad, la Procuraduría y los municipios tienen la obligación de coadyuvar con las autoridades federales en la protección y desarrollo de las acciones necesarias para vigilar y garantizar la integridad y operación de las instalaciones estratégicas nacionales destinadas al funcionamiento, mantenimiento y operación de las actividades así calificadas en la Constitución General; así como aquellas que se usen en las funciones relativas al mantenimiento de la integridad, estabilidad y permanencia del Estado Mexicano.
+La Comisión Estatal de Seguridad, la Procuraduría y los municipios tienen la obligación de coadyuvar con las autoridades federales en la protección y desarrollo de las acciones necesarias para vigilar y garantizar la integridad y operación de las instalaciones estratégicas nacionales destinadas al funcionamiento, mantenimiento y operación de las actividades así calificadas en la Constitución General; así como aquellas que se usen en las funciones relativas al mantenimiento de la integridad, estabilidad y permanencia del Estado Mexicano.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -567,9 +577,9 @@ Subsistema Estatal de Prevención Social de la Delincuencia
 
 Dentro del Sistema Estatal de Seguridad Pública se establecerá el subsistema de prevención social de la delincuencia. El Centro de Prevención, en coordinación con el Secretariado Ejecutivo, son las autoridades competentes para llevar a cabo las acciones previstas en esta ley y en los demás ordenamientos correspondientes en materia de prevención social de la violencia y la delincuencia.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-La Secretaría de Seguridad, la Procuraduría, la Procuraduría para Niños, Niñas y la Familia y los municipios incorporarán en el programa estatal y en los programas municipales de seguridad pública, los subprogramas necesarios para fomentar la cultura de la prevención de la violencia y la delincuencia y el desarrollo de los valores sociales.
+La Comisión Estatal de Seguridad, la Procuraduría, la Procuraduría para Niños, Niñas y la Familia y los municipios incorporarán en el programa estatal y en los programas municipales de seguridad pública, los subprogramas necesarios para fomentar la cultura de la prevención de la violencia y la delincuencia y el desarrollo de los valores sociales.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
@@ -605,15 +615,13 @@ Propósitos
 
 El estado y los municipios concretizarán la práctica de los propósitos, fines y materias de la coordinación en el programa estatal.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Contenido
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
-
 ###### ARTÍCULO 36.
 
-El programa estatal es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Secretaría de Seguridad, la Procuraduría, la Procuraduría para Niños, Niñas y la Familia, y los Municipios
+El programa estatal es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Comisión Estatal de Seguridad, la Procuraduría, la Procuraduría para Niños, Niñas y la Familia, y los municipios.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -627,11 +635,11 @@ El programa estatal se integra en el estado al Plan Estatal de Desarrollo, y en 
 
 Autoridad y término para la elaboración y aprobación de los programas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 38.
 
-El proyecto del programa estatal lo elaborará la Secretaría de Seguridad, integrando en lo conducente el proyecto que presente la Procuraduría General y la Procuraduría para Niños, Niñas y la Familia, y deberá presentarlo oportunamente al gobernador, para su aprobación, quien lo someterá a consideración del Consejo de Estado y lo dará a conocer al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
+El proyecto del programa estatal lo elaborará la Comisión Estatal de Seguridad, integrando en lo conducente el proyecto que presente la Procuraduría General y la Procuraduría para Niños, Niñas y la Familia, y deberá presentarlo oportunamente al gobernador para su aprobación, quien lo someterá a consideración del Consejo de Estado y lo dará a conocer al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -663,7 +671,9 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Presidente del Tribunal Superior de Justicia del Estado;
 
-III. El titular de la Secretaría de Seguridad;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+III. El titular de la Comisión Estatal de Seguridad;
 
 IV El titular de la Procuraduría;
 
@@ -751,9 +761,7 @@ IV.- No haber desempeñado durante los últimos seis años un cargo en entidad P
 
 V.- No haber pertenecido a las fuerzas armadas en activo, durante los últimos seis años;
 
-VI.- Contar con 5 años de experiencia, públicamente reconocida y comprobable en materias relacionadas con Prevención del Delito, Seguridad Pública, Seguridad (sic)
-
-Nacional, Policía, Procuración de Justicia, Impartición de Justicia, Reinserción Social o Transparencia y rendición de cuentas;
+VI.- Contar con 5 años de experiencia, públicamente reconocida y comprobable en materias relacionadas con Prevención del Delito, Seguridad Pública, Seguridad Nacional, Policía, Procuración de Justicia, Impartición de Justicia, Reinserción Social o Transparencia y rendición de cuentas;
 
 VII.- No haber ocupado durante los últimos cinco años cargos de dirección en partidos políticos o asociaciones políticas nacionales; y
 
@@ -867,7 +875,7 @@ Consejos Regionales
 
 ###### ARTÍCULO 47.
 
-Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación de dos o más municipios, por la problemática específica de criminalidad que se presente, se establecerán (sic), previo convenio de las dependencias intervinientes, Consejos Regionales de coordinación, con carácter temporal o permanente.
+Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación de dos o más municipios, por la problemática específica de criminalidad que se presente, se establecerán, previo convenio de las dependencias intervinientes, Consejos Regionales de coordinación, con carácter temporal o permanente.
 
 Coordinación de Funciones
 
@@ -877,37 +885,39 @@ Los Consejos Consultivos Municipales y los Regionales, en coordinación con las 
 
 #### SECCIÓN TERCERA. DE LA AUTORIDAD COORDINADORA
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Competencia
 
 ###### ARTÍCULO 49.
 
-La Secretaría de Seguridad es la dependencia competente para organizar, coordinar, dirigir y supervisar la operación del sistema estatal, los acuerdos del consejo estatal y el programa estatal.
+La Comisión Estatal de Seguridad es la dependencia competente para organizar, coordinar, dirigir y supervisar la operación del sistema estatal, los acuerdos del consejo estatal y el programa estatal.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Funciones
 
 ###### ARTÍCULO 50.
 
-Las funciones de la Secretaría de Seguridad dentro del Sistema Estatal son las previstas en las legislaciones federal y estatal aplicables, en esta ley, en su propio reglamento interior y otras disposiciones aplicables.
+Las funciones de la Comisión Estatal de Seguridad dentro del Sistema Estatal son las previstas en las legislaciones federal y estatal aplicables, en esta ley, en su propio reglamento interior y otras disposiciones aplicables.
 
 ## TÍTULO TERCERO. DEL PRESUPUESTO DEL SISTEMA ESTATAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 8 DE ABRIL DE 2012)</small>
 
 Patrimonio de la Secretaría de Seguridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 51.
 
-Para el cumplimiento de las materias de seguridad pública, la Secretaría de Seguridad contará con los siguientes recursos:
+Para el cumplimiento de las materias de seguridad pública, la Comisión Estatal de Seguridad contará con los siguientes recursos:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-I. Los que se asignen en el presupuesto estatal a la Secretaría de Seguridad;
+I. Los que se asignen en el presupuesto estatal a la Comisión Estatal de Seguridad;
 
 II. Los fondos que asignen la Federación y el Sistema Nacional al Estado; y
 
@@ -925,33 +935,33 @@ II. Los fondos que asignen la Federación y el Sistema Nacional a los Municipios
 
 III. Los derechos y fondos que perciba con motivo de convenios o productos relativos a la prestación de servicios de seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Otras Fuentes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 53.
 
-El gobernador por sí o por conducto del Secretario de Seguridad, y los municipios implementarán las medidas que contribuyan a la recaudación y obtención de fondos y recursos para el financiamiento de la seguridad pública, conforme a las siguientes disposiciones:
+El gobernador, por sí o por conducto del Comisionado de Seguridad, y los municipios implementarán las medidas que contribuyan a la recaudación y obtención de fondos y recursos para el financiamiento de la seguridad pública, conforme a las siguientes disposiciones:
 
 I. Las formas y actividades de recaudación, obtención o de financiamiento que se implementen serán independientes de las aportaciones que el Presupuesto de Egresos del Estado, la Federación y el Sistema Nacional destinen a la seguridad pública, y
 
 II. Para la obtención de recursos para la seguridad pública los gobiernos del Estado y de los Municipios fomentarán la participación de los diversos grupos sociales, debiendo asegurarse que sean de procedencia lícita.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Administración de Recursos e Ingresos
+Administración de recursos e ingresos
 
 ###### ARTÍCULO 54.
 
-La Secretaría de Seguridad y los municipios percibirán los recursos e ingresos referidos en los artículos anteriores y, según corresponda, los administrarán y responderán por ellos de manera independiente.
+La Comisión Estatal de Seguridad y los municipios percibirán los recursos e ingresos referidos en los artículos anteriores, y según corresponda, los administrarán y responderán por ellos de manera independiente.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Fiscalización de Fondos Municipales
+Fiscalización de fondos municipales
 
 ###### ARTÍCULO 55.
 
-La Secretaría de de (sic) Fiscalización y Rendición de Cuentas, a través de la unidad administrativa que designe el titular, y con auxilio de la unidad correspondiente de la Secretaría de Seguridad Pública, fiscalizará el uso de los recursos estatales y federales que, en virtud de esta Ley, se destinen a los municipios.
+La Auditoria Superior del Estado, y con auxilio de la unidad correspondiente de la Comisión Estatal de Seguridad Pública, fiscalizará el uso de los recursos estatales y federales que, en virtud de esta Ley, se destinen a los municipios.
 
 ### CAPÍTULO SEGUNDO. DE LOS FONDOS FEDERALES
 
@@ -963,17 +973,17 @@ Los fondos de ayuda federal para la seguridad pública, referidos en el artícul
 
 I. El ejercicio, control, vigilancia, información, evaluación y fiscalización de los recursos que se reciban de los fondos de ayuda federal y sus rendimientos, estarán sujetos a la Ley de Coordinación Fiscal y únicamente podrán ser destinados a los fines de seguridad pública referidos en dicha Ley;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-II. La Secretaría de Seguridad y los municipios, en sus respectivas esferas de competencia y de manera separada, concentrarán los recursos provenientes de los fondos de ayuda federal y sus rendimientos en cuentas específicas propias, para identificarlos y separarlos del resto de los recursos de sus presupuestos destinados a seguridad pública;
+II. La Comisión Estatal de Seguridad y los municipios, en sus respectivas esferas de competencia y de manera separada, concentrarán los recursos provenientes de los fondos de ayuda federal y sus rendimientos en cuentas específicas propias, para identificarlos y separarlos del resto de los recursos de sus presupuestos destinados a seguridad pública;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-III. La Secretaría de Seguridad y los municipios, por sí o por conducto de la autoridad competente, rendirán informes trimestrales al secretariado ejecutivo del sistema nacional de seguridad pública, sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos y su destino; así como de los recursos comprometidos, devengados y pagados, y
+III. La Comisión Estatal de Seguridad y los municipios, por sí o por conducto de la autoridad competente, rendirán informes trimestrales al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos y su destino; así como de los recursos comprometidos, devengados y pagados, y
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-IV. La Secretaría de Seguridad y los municipios acatarán los convenios generales o específicos que establezcan obligaciones para asegurar el destino y fortalecer la adecuada rendición de cuentas, la transparencia, vigilancia y fiscalización de los recursos provenientes de los fondos de ayuda federal.
+IV. La Comisión Estatal de Seguridad y los municipios acatarán los convenios generales o específicos que establezcan obligaciones para asegurar el destino y fortalecer la adecuada rendición de cuentas, la transparencia, vigilancia y fiscalización de los recursos provenientes de los fondos de ayuda federal.
 
 Distribución de Fondos Federales
 
@@ -1015,7 +1025,9 @@ I. El Gobernador;
 
 II. El Secretario de Gobierno;
 
-III. El Secretario de Seguridad;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+III. El Comisionado de Seguridad;
 
 IV. El Procurador;
 
@@ -1023,7 +1035,7 @@ V. El Subprocurador Ministerial;
 
 VI. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-VII. El Subsecretario de Operación Policial;
+VII. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
 VIII. El Director General de la Policía Investigadora;
 
@@ -1109,9 +1121,9 @@ IV. Cumplir y hacer cumplir los programas, acciones y disposiciones del Sistema 
 
 V. Emitir las políticas y reglamentos para establecer la coordinación efectiva entre el Estado y los Municipios;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-VI. Autorizar, por conducto de la Secretaría de Seguridad, la prestación de servicios de seguridad privada por personas físicas o morales;
+VI. Autorizar, por conducto de la Comisión Estatal de Seguridad, la prestación de servicios de seguridad privada por personas físicas o morales;
 
 VII. Promover que la ciudadanía participe en el análisis de la problemática sobre seguridad pública, y
 
@@ -1155,17 +1167,19 @@ VIII. Propiciar la participación de la ciudadanía en el análisis de la proble
 
 IX. Las demás que le confieran las demás disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2015)</small>
 
-#### SECCIÓN TERCERA. DEL SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
+#### SECCIÓN TERCERA. DEL COMISIONADO ESTATAL DE SEGURIDAD
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Atribuciones y deberes del Secretario de Seguridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 67.
 
-Son atribuciones y deberes del Secretario de Seguridad además de las previstas en la Constitución del Estado y la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, las siguientes:
+Son atribuciones y deberes del Comisionado Estatal de Seguridad, además de las previstas en la Constitución del Estado y la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, las siguientes:
 
 I. Formar parte del Sistema Nacional y de las Conferencias Nacionales de Seguridad Pública;
 
@@ -1189,61 +1203,23 @@ XI. Velar por el cumplimiento de las disposiciones, programas y acciones del sis
 
 XII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, utilizando los resultados para implementar las medidas y acciones que procedan, y
 
-XIII. Las demás que le confieran las demás (sic) disposiciones legales aplicables.
+XIII. Las demás que le confieran las demás disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE MARZO DE 2015)</small>
 
-#### SECCIÓN CUARTA. DEL SUBSECRETARIO DE DESARROLLO POLICIAL
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+#### SECCIÓN CUARTA
 
 ###### ARTÍCULO 68.
 
-Son atribuciones y deberes del Subsecretario de Desarrollo Policial, las siguientes:
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
-I. Operar y supervisar el servicio de carrera y la aplicación de las políticas públicas necesarias en materia de prevención del delito, atención a víctimas y respeto a los derechos humanos;
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE MARZO DE 2015)</small>
 
-II. Proponer al Secretario de Seguridad Pública, de acuerdo al Programa Rector de Profesionalización, los planes y programas de capacitación policial, acreditación y certificación de estudios para el Estado y los Municipios;
-
-III. Dirigir la organización, operación y supervisión de los institutos, academias y centros de estudio del Estado;
-
-IV. Coadyuvar a la implementación y operación de los planes y programas aprobados en los institutos, academias y centros de los Municipios;
-
-V. Supervisar que en los institutos, academias y centros de estudio del Estado y de los Municipios se observen los programas y métodos aprobados;
-
-VI. Colaborar con el Secretario de Seguridad Pública, en los convenios que éste celebre con las autoridades federales, estatales y municipales en el Estado, así como organismos no gubernamentales e instituciones académicas del Estado, o de otras entidades federativas, en todo lo relativo a las materias de su competencia;
-
-VII. Generar y operar programas de prevención del delito con la información que proporcione la Subsecretaria de Políticas Públicas e Información; así como los programas que en esta materia genere el Sistema Nacional; y
-
-VIII. Las demás que le confieran el reglamento interior de la Secretaria de Seguridad Pública, y otros ordenamientos jurídicos aplicables.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
-
-#### SECCIÓN QUINTA. DEL SUBSECRETARIO DE POLÍTICAS PÚBLICAS E INFORMACIÓN
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Atribuciones y deberes del Subsecretario de Políticas Públicas e Información
+#### SECCIÓN QUINTA
 
 ###### ARTÍCULO 69.
 
-Son atribuciones y deberes del Subsecretario de Políticas Públicas e Información, las siguientes:
-
-I. Elaborar el proyecto del programa estatal y presentarlo al Secretario de Seguridad;
-
-II. Coordinar, dirigir y supervisar los centros de información y el registro de seguridad pública del estado;
-
-III. Instrumentar, coordinar y supervisar que los programas, planes y acciones en las materias de captación, clasificación e interpretación de la información del personal de seguridad y de las actividades delictivas, se acaten y cumplan por las instituciones de seguridad pública del estado y de los municipios;
-
-IV. Supervisar y, en su caso, obligar a las instituciones de seguridad pública del estado y de los municipios a que proporcionen de manera oportuna y de conformidad con los manuales e instrucciones del caso, la información que se les requiera y que estén obligadas legalmente a proporcionar;
-
-V. Intervenir, por acuerdo del Secretario de Seguridad, en los convenios con las autoridades federales, de otras entidades federativas, del estado y de los municipios en todo lo relativo a la seguridad pública;
-
-VI. Representar al Secretario de Seguridad en las materias de su competencia, cuando así se requiera y la ley lo permita;
-
-VII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, sirviéndose de los resultados para implementar las medidas y acciones que procedan, y
-
-VIII. Las demás que le confieran esta ley, el reglamento interior y otros ordenamientos aplicables.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -1297,9 +1273,9 @@ III. Supervisar la elaboración del Plan Municipal y su presentación al Consejo
 
 IV. Celebrar los convenios previamente aprobados por el Ayuntamiento, y en su caso por el Congreso, con:
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-1. El Gobierno del Estado, por conducto del Secretario de Seguridad.
+1. El Gobierno del Estado, por conducto del Comisionado de Seguridad.
 
 2. Los Ayuntamientos de los Municipios del Estado.
 
@@ -1433,33 +1409,21 @@ II. Policía Investigadora; y
 
 III. Cuerpo Especializado de Seguridad Pública de la Procuraduría para Niños, Niñas y la Familia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. DE LA SUBSECRETARIA DE OPERACIÓN POLICIAL
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Competencia
+#### SECCIÓN SEGUNDA. DE LA POLICÍA OPERATIVA DEL ESTADO
 
 ###### ARTÍCULO 81.
 
-El Subsecretario de Operación Policial de conformidad con lo previsto en esta ley y el reglamento interior es la autoridad competente para coordinar y realizar las acciones de seguridad pública en las fases de prevención, detección y disuasión delictiva; y de la investigación para hacer efectiva la prevención, en sus áreas exclusivas y de manera conjunta con las policías municipales, cuando sea procedente, se convenga o así se requiera.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Atribuciones
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ###### ARTÍCULO 82.
 
-El Subsecretario de Operación Policial ejercerá las obligaciones y facultades previstas en esta ley y el reglamento interior.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Coordinación
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ###### ARTÍCULO 83.
 
-El Subsecretario de Operación Policial coordinará la ejecución de acciones de seguridad con las policías municipales a través de sus mandos.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -1477,13 +1441,11 @@ Coparticipación
 
 Para la adecuada coordinación de las acciones de su competencia, la Policía Operativa del Estado y las policías municipales preventivas, acatarán las disposiciones previstas en esta ley y demás disposiciones aplicables
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Operativos
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 86.
 
-La Policía Operativa del Estado realizará, coordinará y, en su caso, dirigirá los operativos específicos autorizados por la Secretaría de Seguridad
+La Policía Operativa del Estado realizará, coordinará, y en su caso, dirigirá, los operativos específicos autorizados por la Comisión Estatal de Seguridad.
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE LA DIVISIÓN INVESTIGADORA
 
@@ -1553,7 +1515,7 @@ Identificación
 
 Todo servidor público tiene la obligación de identificarse, salvo los casos previstos en la ley, a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
 
-El documento de identificación de los integrantes de las instituciones seguridad pública (sic) deberá contener al menos el nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional y Estatal de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad.
+El documento de identificación de los integrantes de las instituciones (sic) seguridad pública deberá contener al menos el nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional y Estatal de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad.
 
 Informe Policial Homologado
 
@@ -1601,13 +1563,11 @@ El informe debe ser completo, los hechos deben describirse con continuidad, cron
 
 ### CAPÍTULO PRIMERO. DE LA NATURALEZA, OBJETO Y FACULTADES
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Naturaleza
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 93.
 
-La Secretaría de Seguridad, en los casos en que se requiera y convenga al interés general, podrá autorizar la prestación de servicios de seguridad privada a cargo de particulares.
+La Comisión Estatal de Seguridad, en los casos en que se requiera y convenga al interés general, podrá autorizar la prestación de servicios de seguridad privada a cargo de particulares.
 
 Objeto
 
@@ -1615,13 +1575,13 @@ Objeto
 
 Los servicios de seguridad privada, tendrán por objeto la protección y vigilancia custodia de personas, establecimientos o bienes, el traslado y custodia de fondos y valores, investigaciones encaminadas a proporcionar informes sobre la solvencia, localización o actividades de personas y la operación de sistemas de alarmas y equipos de seguridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Facultades en materia de seguridad privada
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 95.
 
-La Secretaría de Seguridad, respecto a los servicios de seguridad privada tendrá las siguientes facultades:
+La Comisión Estatal de Seguridad, respecto a los servicios de seguridad privada, tendrá las siguientes facultades:
 
 I. Autorizar a las personas físicas o morales la prestación de servicios de seguridad privada en la entidad;
 
@@ -1669,7 +1629,9 @@ Prórrogas
 
 Para la prórroga de la autorización, el interesado deberá presentar la solicitud correspondiente, a más tardar treinta días hábiles previos a la conclusión de la vigencia de la autorización respectiva, anexando el formato que para tal efecto le sea proporcionado por la propia Secretaría de Seguridad, así como la constancia de actualización de la fianza de conformidad con lo establecido en el reglamento aplicable.
 
-La Secretaría de Seguridad deberá notificar al interesado dentro de los diez días hábiles anteriores a la fecha fijada para la conclusión de la autorización.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+
+La Comisión Estatal de Seguridad deberá notificar al interesado dentro de los diez días hábiles anteriores a la fecha fijada para la conclusión de la autorización.
 
 Autorizaciones Federales
 
@@ -1677,9 +1639,9 @@ Autorizaciones Federales
 
 Las personas morales que tengan autorización federal para la prestación del servicio de seguridad privada, deberán de tramitar y obtener la autorización estatal e inscribirse en el Registro de Seguridad Pública del Estado, salvo que únicamente presten sus servicios en espacios de jurisdicción federal, en cuyo caso sólo deberán de cumplir con el requisito de la inscripción.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-En todos los casos, la Secretaría de Seguridad será la autoridad competente para supervisar que en la prestación del servicio de seguridad privada se respeten los requisitos y condiciones de las autorizaciones, y las normas legales y técnicas aplicables.
+En todos los casos, la Comisión Estatal de Seguridad será la autoridad competente para supervisar que en la prestación del servicio de seguridad privada se respeten los requisitos y condiciones de las autorizaciones, y las normas legales y técnicas aplicables.
 
 Carácter Auxiliar
 
@@ -1777,13 +1739,13 @@ III. Suspensión temporal de la autorización correspondiente, cuando preste ser
 
 IV. Cancelación definitiva de la autorización correspondiente, cuando reitere las conductas previstas en las dos fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Autoridad competente
 
 ###### ARTÍCULO 109.
 
-El Secretario de Seguridad, es la autoridad competente para imponer las sanciones. En el caso de las multas se girará oficio a la Secretaría de Finanzas a fin de que se hagan efectivas en el procedimiento económico coactivo y que se destinen al fondo de procuración de justicia. Tratándose de la prohibición del servicio, suspensiones y cancelaciones, se harán del conocimiento al infractor para que se cumplan en sus términos, informando de ello al Registro de Seguridad Pública del Estado.
+El Comisionado de Seguridad, es la autoridad competente para imponer las sanciones. En el caso de las multas se girará oficio a la Secretaría de Finanzas a fin de que se hagan efectivas en el procedimiento económico coactivo y que se destinen al fondo de procuración de justicia. Tratándose de la prohibición del servicio, suspensiones y cancelaciones, se harán del conocimiento al infractor para que se cumplan en sus términos, informando de ello al Registro de Seguridad Pública del Estado.
 
 Autonomía de las sanciones
 
@@ -1801,21 +1763,21 @@ El incumplimiento o la violación por parte de los servidores públicos de las d
 
 ### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN PREVENTIVA PARA LA SEGURIDAD DE INMUEBLES Y ESTABLECIMIENTOS
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Medidas preventivas en inmuebles de servicio al público
 
 ###### ARTÍCULO 112.
 
-La Secretaría de Seguridad y los municipios en sus respectivos ámbitos de competencia establecerán los reglamentos y certificaciones de los parámetros en materia de seguridad para el funcionamiento de aquellos bienes inmuebles donde se preste un servicio de atención al público, por lo que los propietarios o poseedores de éstos deberán colaborar estableciendo las medidas de seguridad privada, así como procedimientos, mecanismos y sistemas tecnológicos que prevengan, disuadan y, en su caso, proporcionen la información para el esclarecimiento de una posible conducta ilícita.
+La Comisión Estatal de Seguridad y los municipios en sus respectivos ámbitos de competencia establecerán los reglamentos y certificaciones de los parámetros en materia de seguridad para el funcionamiento de aquellos bienes inmuebles donde se preste un servicio de atención al público, por lo que los propietarios o poseedores de éstos deberán colaborar estableciendo las medidas de seguridad privada, así como procedimientos, mecanismos y sistemas tecnológicos que prevengan, disuadan, y en su caso, proporcionen la información para el esclarecimiento de una posible conducta ilícita.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Autoridades competentes
+Legislación aplicable
 
 ###### ARTÍCULO 113.
 
-La Secretaría de Seguridad y los municipios, en sus respectivos ámbitos de competencia, tendrán facultades para verificar el cumplimiento de las medidas preventivas anteriores.
+La Comisión Estatal de Seguridad y los municipios, en sus respectivos ámbitos de competencia, tendrán facultades para verificar el cumplimiento de las medidas preventivas anteriores.
 
 ## TÍTULO SÉPTIMO. DEL SERVICIO DE CARRERA EN LA INSTITUCIÓN DEL MINISTERIO PÚBLICO Y SERVICIOS PERICIALES
 
@@ -2093,13 +2055,13 @@ Legislación aplicable
 
 Todo lo relativo a la organización, dirección, operación y supervisión del servicio de carrera policial se llevará a cabo conforme a las normas establecidas en la ley general del sistema nacional, en la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables por lo que en todo lo no previsto se considerarán como supletorias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Autoridad competente y funciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 135.
 
-Los centros de profesionalización de la Secretaría de Seguridad y de la Procuraduría, son la autoridad competente para ejercer las acciones previstas en el artículo anterior y tienen, además de los deberes y atribuciones previstos en las disposiciones jurídicas antes mencionadas, los siguientes:
+Los centros de profesionalización de la Comisión Estatal de Seguridad y de la Procuraduría, son la autoridad competente para ejercer las acciones previstas en el artículo anterior y tienen, además de los deberes y atribuciones previstos en las disposiciones jurídicas antes mencionadas, los siguientes:
 
 I. Organizar y operar el Servicio de Carrera Policial;
 
@@ -2123,13 +2085,13 @@ Objeto del servicio de carrera
 
 El Servicio de Carrera Policial tiene por objeto es (sic) el desarrollo profesional de las fuerzas de seguridad pública del Estado y los Municipios.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Policía de Carrera
+Policía de carrera
 
 ###### ARTÍCULO 138.
 
-Se considerará policía de carrera a todo aquel agente de policía que haya aprobado el curso básico de conformidad con el plan de estudios definido por la Secretaría de Seguridad y la Procuraduría de acuerdo al programa rector de profesionalización, así como aquellos elementos que aprueben las evaluaciones de control de confianza y los cursos de actualización, conforme a los planes y programas de permanencia
+Se considerará policía de carrera a todo aquel agente de policía que haya aprobado el curso básico de conformidad con el plan de estudios definido por la Comisión Estatal de Seguridad y la Procuraduría de acuerdo al programa rector de profesionalización, así como aquellos elementos que aprueben las evaluaciones de control de confianza y los cursos de actualización, conforme a los planes y programas de permanencia.
 
 #### SECCIÓN PRIMERA. DE LOS FINES
 
@@ -2589,13 +2551,13 @@ Se considerará escala de rangos policiales a la relación que contenga a todos 
 
 #### SECCIÓN QUINTA. DEL REGISTRO DE ANTIGÜEDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Antigüedades
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 176.
 
-La Secretaría de Seguridad y la Procuraduría, a través del registro de seguridad pública del estado, llevarán el control de las antigüedades en el servicio de carrera policial de cada uno de sus agentes, las inscripciones contendrán, al menos los siguientes datos:
+La Comisión Estatal de Seguridad y la Procuraduría, a través del Registro de Seguridad Pública del Estado, llevará el control de las antigüedades en el servicio de carrera policial de cada uno de sus agentes, las inscripciones contendrán, al menos los siguientes datos:
 
 I. Antigüedad en el servicio, a partir de la fecha de su ingreso a las instituciones policiales.
 
@@ -2649,29 +2611,29 @@ Los integrantes de las instituciones policiales que hayan alcanzado las edades l
 
 ### CAPÍTULO PRIMERO. DEL CENTRO DE PROFESIONALIZACIÓN, ACREDITACIÓN, CERTIFICACIÓN Y CARRERA
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Sistema
 
 ###### ARTÍCULO 181.
 
-La Secretaría de Seguridad y la Procuraduría contarán, cada una de ellas, con un centro de profesionalización, acreditación, certificación y carrera que, además de las atribuciones y deberes que les imponen la ley (sic) procuración de justicia, el reglamento interior y demás disposiciones aplicables, serán los responsables de implementar y supervisar que en los centros, academias e institutos estatales y municipales se observe y acate el programa rector de profesionalización, así como los lineamientos, planes y programas académicos que establezcan los propios centros.
+La Comisión Estatal de Seguridad y la Procuraduría contarán, cada una de ellas, con un centro de profesionalización, acreditación, certificación y carrera que, además de las atribuciones y deberes que les imponen la Ley (sic) Procuración de Justicia, la Ley Orgánica y demás disposiciones aplicables, serán los responsables de implementar y supervisar que en los centros, academias e institutos estatales y municipales se observe y acate el programa rector de profesionalización, así como los lineamientos, planes y programas académicos que establezcan los propios centros.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Mando del Centro
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 182.
 
-El centro de profesionalización está bajo el mando de la Subsecretaría de Desarrollo Policial y de la Subprocuraduría Jurídica, en lo que a cada institución corresponde.
+Las relaciones de supra o subordinación del Centro de Profesionalización se determinarán en la Ley Orgánica de la Comisión Estatal de Seguridad, en lo que a esta institución se refiere; por lo que hace a la Procuraduría, el mismo estará bajo el mando de la Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y Proyectos.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Principios de los programas y clases
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 183.
 
-El Instituto Superior de Estudios de Seguridad Pública del Estado es una unidad administrativa que dependerá de la Subsecretaria de Desarrollo Policial; y que tendrá por objeto la preparación profesional, teórica y práctica de los aspirantes a integrar las fuerzas de seguridad pública en las áreas de prevención, readaptación social y adaptación de menores infractores; estará a cargo de un Director General y la misión, fines, estructura orgánica y funcional, así como las facultades y atribuciones, estarán contenidas en el Reglamento Interior de la Secretaría de Seguridad Pública.
+El Instituto Superior de Estudios de Seguridad Pública del Estado es una unidad administrativa de la Comisión Estatal de Seguridad que tendrá por objeto la preparación profesional, teórica y práctica de los aspirantes a integrar las fuerzas de seguridad pública en las áreas de prevención, readaptación social y adaptación de menores infractores; estará a cargo de un director general, y la misión, fines, estructura orgánica y funcional, así como las facultades y atribuciones, estarán contenidas en la Ley Orgánica.
 
 El Instituto Superior de Estudios de Seguridad Pública del Estado encaminará sus actividades al propósito de formar policías en el Estado de Coahuila de Zaragoza, que normen su desempeño por los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, así como el respeto a los derechos humanos de los ciudadanos.
 
@@ -2701,13 +2663,13 @@ Requisitos de ingreso y permanencia
 
 Los requisitos de ingreso y permanencia del personal de las instituciones de seguridad pública del estado y los municipios, contendrán las disposiciones de la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables, y deberán de observar lo establecido en el programa rector de profesionalización y las disposiciones de la ley general del sistema nacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Cumplimiento de acciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 187.
 
-Los institutos y academias que establezcan y operen la Secretaría de Seguridad, la Procuraduría y los municipios, dentro de las bases establecidas en el programa rector de profesionalización, serán responsables de aplicar, entre otras, las siguientes acciones:
+Los institutos y academias que establezcan y operen la Comisión Estatal de Seguridad, la Procuraduría y los municipios, dentro de las bases establecidas en el programa rector de profesionalización, serán responsables de aplicar, entre otras, las siguientes acciones:
 
 I. Aplicar los procedimientos homologados del Sistema;
 
@@ -2751,31 +2713,29 @@ Obligatoriedad de los cursos
 
 El programa rector de profesionalización, así como los planes y programas de los centros de profesionalización son obligatorios para el ingreso, la permanencia y los ascensos en el servicio de seguridad pública estatal y municipal.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Correspondencia
 
 ###### ARTÍCULO 189.
 
-Las personas que estudien con apoyo de la Secretaría de Seguridad y de la Procuraduría en reciprocidad, estarán obligadas a ser instructores o maestros de los institutos y academias, así como a cumplir con los requisitos que marquen los reglamentos. La negativa será causa de separación del cargo o de aplicación de sanciones.
+Las personas que estudien con apoyo de la Comisión Estatal de Seguridad y de la Procuraduría, en reciprocidad podrán prestar sus servicios como instructores o maestros de los institutos y academias, cumpliendo con los requisitos que marquen los reglamentos.
 
 ### CAPÍTULO TERCERO. DE LA CERTIFICACIÓN DE ESTUDIOS
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Autoridad competente
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 190.
 
-La Subsecretaría de Desarrollo Policial y la Subprocuraduría Jurídica a cuya estructura orgánica pertenecen los centros de profesionalización, son los órganos competentes para certificar el grado de aprovechamiento, experiencia y estudios de los agentes del servicio de carrera policial estatales y municipales, en lo que a cada uno de ellos corresponde.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+La Comisión Estatal de Seguridad Pública, por conducto de la unidad administrativa a la que se encuentren adscritos los centros de profesionalización en términos de su ley orgánica, y la Procuraduría, a través de la Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y Proyectos, a cuya estructura orgánica pertenecen los centros de profesionalización, son los órganos competente (sic) para certificar el grado de aprovechamiento, experiencia y estudios de los agentes del servicio de carrera policial estatales y municipales, en lo que a cada uno de ellos corresponde.
 
 Proceso de Certificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 191.
 
-La certificación de estudios se lleva a cabo mediante los procedimientos de evaluaciones periódicas establecidas por los centros de profesionalización para comprobar el cumplimiento y avances de los programas y cursos impartidos de conformidad con el programa rector de profesionalización y los diseñados por la Secretaría de Seguridad y la Procuraduría.
+La certificación de estudios se lleva a cabo mediante los procedimientos de evaluaciones periódicas establecidas por los centros de profesionalización para comprobar el cumplimiento y avances de los programas y cursos impartidos de conformidad con el programa rector de profesionalización y los diseñados por la Comisión Estatal de Seguridad y la Procuraduría.
 
 La certificación de estudios incluye:
 
@@ -2789,21 +2749,17 @@ III. Reconocer habilidades, destrezas, actitudes, conocimientos generales y espe
 
 ### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Autoridad competente
 
 ###### ARTÍCULO 192.
 
-La Secretaría de Seguridad, a través de la Subsecretaría de Políticas Públicas e Información, es la autoridad competente para elaborar, establecer y organizar la operación de las políticas públicas y las estrategias estatales, así como, los sistemas de informática, estadística y registro de seguridad pública del estado y los municipios, lo que hará acatando las disposiciones de esta ley, la ley general del sistema nacional, el reglamento interior y demás disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-Atribuciones y deberes
+La Comisión Estatal de Seguridad, a través de la unidad administrativa encargada de las Políticas Públicas e Información, en términos de su Ley Orgánica, será la autoridad competente para elaborar, establecer y organizar la operación de las políticas públicas y las estrategias estatales, así como, los sistemas de informática, estadística y registro de seguridad pública del estado y los municipios, lo que hará acatando las disposiciones de esta ley, la ley general del sistema nacional, el reglamento interior y demás disposiciones aplicables.
 
 ###### ARTÍCULO 193.
 
-El (sic) Subsecretaría de Políticas Públicas e Información es la responsable de organizar, dirigir y supervisar la obtención, análisis, clasificación y manejo de la información estatal y municipal necesaria para establecer las políticas, estrategias y sistemas referidos en el artículo anterior; de acuerdo con lo establecido en esta ley, la ley general del sistema nacional, el reglamento interior y en las demás disposiciones aplicables.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -2849,9 +2805,9 @@ III. La Dirección General de Políticas Preventivas, compuesta por:
 
 IV. Las demás que se establezcan.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Sus atribuciones, facultades y obligaciones estarán reguladas en el Reglamento Interior de la Secretaría de Seguridad Pública.
+Sus atribuciones, facultades y obligaciones estarán reguladas en la Ley Orgánica de la Comisión Estatal de Seguridad.
 
 #### SECCIÓN PRIMERA. DEL CENTRO DE COMUNICACIONES, CÓMPUTO, CONTROL Y COMANDO
 
@@ -2973,13 +2929,13 @@ Obligación de Consulta al Sistema Nacional
 
 En las actividades de seguridad pública es obligación consultar la base nacional de datos del Sistema Único de Información Criminal, sobre personas indiciadas, procesadas o sentenciadas, donde se incluyan su perfil criminológico, medios de identificación, recursos y modos de operación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Estructura administrativa del Registro
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 211.
 
-El registro de seguridad pública del estado estará bajo el mando del Subsecretario de Políticas Públicas e Información, quien además de sus funciones estará autorizado para certificar los documentos que expida el registro. Contará para la integración, operación, organización y supervisión con la siguiente estructura:
+El registro de seguridad pública del estado estará bajo el mando de la unidad administrativa que en términos de la Ley Orgánica de la Comisión Estatal de Seguridad, se encargue del manejo de las Políticas Públicas e Información, quien además de sus funciones estará autorizado para certificar los documentos que expida el registro. Contará para la integración, operación, organización y supervisión con la siguiente estructura:
 
 I. El Director General del Centro de Comunicaciones, Cómputo, Control y Comando, será a la vez el titular del Registro;
 
@@ -3125,13 +3081,13 @@ Obligatoriedad de su consulta
 
 La consulta al Registro será obligatoria y previa al ingreso o reingreso de toda persona al Instituto Superior de Estudios o a cualquier institución policial estatal o municipal; así como en el caso de las empresas privadas de seguridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Resultados de Consulta
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 225.
 
-De conformidad con los resultados de la consulta, el Subsecretario de Políticas Públicas e Información, por conducto del titular del registro, emitirá los siguientes tipos de opiniones:
+De conformidad con los resultados de la consulta, el titular de la unidad administrativa encargada del manejo de Políticas Públicas e Información, por conducto del titular del registro, emitirá los siguientes tipos de opiniones:
 
 I. De procedencia, para la contratación cuando de la consulta resulte que la persona no tiene historial en instituciones de seguridad pública o de seguridad privada; o bien, que sus antecedentes son positivos;
 
@@ -3151,13 +3107,15 @@ III. De improcedencia, cuando la persona tenga antecedentes negativos graves. Se
 
 6. Por las demás causas de las que la autoridad tenga conocimiento y consideren suficientes para no contratarlo.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Sanciones a las Autoridades por la Omisión de Consultar
+Sanciones a las autoridades
 
 ###### ARTÍCULO 226.
 
-Los responsables de las fuerzas de seguridad pública estatal y municipales que den de alta a una persona sin consultar previamente al registro, serán sancionados en los términos de lo dispuesto por la Ley de Responsabilidades de Servidores Públicos Estatales y Municipales para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables.
+Los responsables de las fuerzas de seguridad pública estatal y municipales que den de alta a una persona sin consultar previamente al registro, serán sancionados en los términos de lo dispuesto por la Ley de Responsabilidades y demás ordenamientos aplicables.
+
+Los procesos de designación, ingreso y permanencia de las fuerzas de seguridad pública estatales y municipales, así como del personal administrativo de las áreas de seguridad pública de ambos órdenes de gobierno y de procuración de justicia, sin observar los procesos de evaluación y control de confianza, será motivo de responsabilidad administrativa para el Comisionado de Seguridad, el Procurador y los alcaldes de los ayuntamientos incluyendo, demás servidores públicos que intervengan en los mismos de acuerdo con la normativa aplicable.
 
 Sanciones a las Empresas de Seguridad por la omisión de consultar
 
@@ -3165,13 +3123,13 @@ Sanciones a las Empresas de Seguridad por la omisión de consultar
 
 Las empresas y las personas físicas autorizadas a prestar servicios de seguridad privada, que omitan consultar previamente al Registro para dar de alta a una persona, serán sancionados (sic) en los términos previstos por esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Información al Registro Nacional
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 228.
 
-El Subsecretario de Políticas Públicas e Información entregará al Registro Nacional de Personal de Seguridad Pública, en los términos que acuerden las conferencias nacionales de seguridad pública, la información actualizada, relativa a los integrantes de las instituciones policiales del estado y los municipios, la cual contendrá, por lo menos:
+El titular de la unidad administrativa encargada del manejo de Políticas Públicas e Información, entregará al Registro Nacional de Personal de Seguridad Pública, en los términos que acuerden las conferencias nacionales de seguridad pública, la información actualizada, relativa a los integrantes de las instituciones policiales del estado y los municipios, la cual contendrá, por lo menos:
 
 I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad pública;
 
@@ -3201,21 +3159,21 @@ Las credenciales, en su caso, tendrán inserta la autorización para la portaci�
 
 Se prohíbe la expedición y el uso de credenciales metálicas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Autorización de las credenciales
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 231.
 
-Todas las credenciales deberán de firmarse por el Secretario de Seguridad, por el Procurador General o por la persona titular de la Procuraduría para Niños, Niñas y la Familia, según corresponda, y en su caso, por el titular de la licencia oficial colectiva para uso de armas de fuego, expedida por la Secretaría de la Defensa Nacional. Sin ese requisito no tendrán validez oficial.
+Todas las credenciales deberán de firmarse por el Comisionado de Seguridad, por el Procurador General o por la persona titular de la Procuraduría para Niños, Niñas y la Familia, según corresponda, y en su caso, por el titular de la licencia oficial colectiva para uso de armas de fuego, expedida por la Secretaría de la Defensa Nacional. Sin ese requisito no tendrán validez oficial.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 Las credenciales deberán ser firmadas también por los siguientes funcionarios:
 
-I. Tratándose del personal de la policía del estado por el Subsecretario de Operación Policial o por el Subprocurador Ministerial, según corresponda, y por el agente de policía;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+I. Tratándose del personal de la policía del estado adscrito a la Procuraduría, por el Subprocurador Ministerial y por el agente de policía;
 
 II. Por lo que hace a las fuerzas de seguridad pública municipales, el Presidente Municipal y el agente de policía, y
 
@@ -3481,13 +3439,15 @@ Cultura de la prevención del delito
 
 La Dirección General de Políticas Preventivas, será la responsable de establecer la política pública integral que fomente la cultura de la prevención del delito y de la seguridad pública; y de desarrollar valores sociales para el fortalecimiento de la justicia, la libertad y la democracia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 8 DE ABRIL DE 2012)</small>
 
 Estructura de la Dirección General de Políticas Preventivas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 263.
 
-La Dirección General de Políticas Preventivas tendrá la estructura consignada en el reglamento interior y conforme lo permita el presupuesto el Secretario de Seguridad creará las dependencias, designará a los titulares de conformidad con las disposiciones aplicables, para cubrir las funciones de:
+La Dirección General de Políticas Preventivas tendrá la estructura consignada en el reglamento interior, y conforme lo permita el presupuesto, el Comisionado de Seguridad creará las dependencias, designará a los titulares de conformidad con las disposiciones aplicables, para cubrir las funciones de:
 
 I. Análisis Criminológico;
 
@@ -3501,13 +3461,13 @@ IV. Las demás que se establezcan en la legislación aplicable.
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA ESTATAL
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Legislación
 
 ###### ARTÍCULO 264.
 
-Las relaciones laborales de los servidores públicos del estado, en materia de seguridad pública, se rigen por las disposiciones de las constituciones general y del estado, esta ley, el Estatuto Jurídico de los Trabajadores al Servicio del Estado de Coahuila; la ley de procuración de justicia, el reglamento interior y las demás disposiciones aplicables.
+Las relaciones laborales de los servidores públicos del estado, en materia de seguridad pública, se rigen por las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado de Coahuila de Zaragoza, esta ley, el Estatuto Jurídico de los Trabajadores al Servicio del Estado de Coahuila, la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza, la Ley Orgánica y las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -3519,13 +3479,13 @@ Autoridad estatal competente
 
 La Dirección General de Responsabilidades de la Procuraduría, el órgano interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública y el órgano de control interno de la Procuraduría para Niños, Niñas y la Familia, serán los responsables, en el ámbito de su competencia, de vigilar que todos los servidores públicos, cumplan cabalmente con las obligaciones que les correspondan y de ejercer los derechos y acciones a que haya lugar.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Obligaciones de la Secretaría de Seguridad
+Obligaciones de la Comisión Estatal de Seguridad
 
 ###### ARTÍCULO 266.
 
-La Secretaría de Seguridad únicamente será responsable de las obligaciones que generen las relaciones laborales y administrativas con el personal a su servicio. Las acciones de coordinación con los municipios, no generan relaciones laborales o administrativas con la Secretaría de Seguridad, ni ésta será responsable de los hechos que deriven de dichas acciones. Por las mismas circunstancias, el personal al servicio de la Secretaría de Seguridad tampoco tendrá derecho alguno ni acción en contra de los municipios.
+La Comisión Estatal de Seguridad únicamente será responsable de las obligaciones que generen las relaciones laborales y administrativas con el personal a su servicio. Las acciones de coordinación con los municipios, no generan relaciones laborales o administrativas con la Comisión Estatal de Seguridad, ni ésta será responsable de los hechos que deriven de dichas acciones. Por las mismas circunstancias, el personal al servicio de la Comisión Estatal de Seguridad tampoco tendrá derecho alguno ni acción en contra de los municipios.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA MUNICIPAL
 
@@ -3547,37 +3507,35 @@ Obligaciones de los Municipios
 
 Cada uno de los Municipios únicamente será responsable de las obligaciones que generen las relaciones laborales y administrativas con el personal a su servicio.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
-Las personas al servicio de los municipios no tendrán ningún derecho ni acción, de carácter laboral o administrativo en contra de la Secretaría de Seguridad o de alguna otra dependencia del estado, con motivo de las acciones de coordinación que realicen conjuntamente.
+Las personas al servicio de los municipios no tendrán ningún derecho ni acción, de carácter laboral o administrativo en contra de la Comisión Estatal de Seguridad o de alguna otra dependencia del estado, con motivo de las acciones de coordinación que realicen conjuntamente.
 
 ### CAPÍTULO TERCERO. DE LAS RELACIONES ADMINISTRATIVAS
 
 #### SECCIÓN PRIMERA. DEL ESTADO
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Normatividad
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+###### ARTÍCULO 270.
 
-###### Artículo 270.
-
-Las relaciones de los agentes del Ministerio Público, los policías y peritos de la Procuraduría, así como los policías de la Secretaría de Seguridad y el cuerpo especializado de seguridad pública de la Procuraduría para Niños, Niñas y la Familia, son de naturaleza administrativa y se regirán por lo dispuesto en la fracción XIII, apartado "B" del artículo 123 de la constitución general, en la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables.
+Las relaciones de los agentes del Ministerio Público, los policías y peritos de la Procuraduría, así como los policías de la Comisión Estatal de Seguridad y el cuerpo especializado de seguridad pública de la Procuraduría para Niños, Niñas y la Familia, son de naturaleza administrativa y se regirán por lo dispuesto en la fracción XIII, apartado "B" del artículo 123 de la Constitución General, en la Ley de Procuración de Justicia, el Reglamento interior y demás disposiciones aplicables.
 
 ###### ARTÍCULO 271.
 
 Los integrantes de las instituciones policiales estatales podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, No procederá su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa empleado para combatir la separación; y en su caso, sólo procederá la indemnización correspondiente. Las separaciones se informarán inmediatamente, por escrito, al Registro de Seguridad Pública del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Derechos
 
 ###### ARTÍCULO 272.
 
-Los agentes del Ministerio Público, los policías y peritos, con motivo de la prestación de sus servicios a la Procuraduría y a la Secretaría de Seguridad, gozarán al menos de las prestaciones previstas como mínimas para los trabajadores al servicio del estado.
+Los agentes del Ministerio Público, los policías y peritos, con motivo de la prestación de sus servicios a la Procuraduría y a la Comisión Estatal de Seguridad, gozarán al menos de las prestaciones previstas como mínimas para los trabajadores al servicio del estado.
 
-Los servidores que laboren en materia de seguridad pública para los municipios, gozarán al menos, de las prestaciones previstas como mínimas para sus trabajadores.
+Los servidores que laboren en materia de seguridad pública para los municipios gozarán al menos, de las prestaciones previstas como mínimas para sus trabajadores.
 
 Indemnización
 
@@ -3585,13 +3543,13 @@ Indemnización
 
 El monto de las indemnizaciones que correspondan en los casos de separaciones previstas en esta sección será el establecido de manera general en el Estatuto Jurídico de los Trabajadores al Servicio del Estado; o en su caso el que contemple el reglamento especial que se expida para tal efecto.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Autoridad competente
 
 ###### ARTÍCULO 274.
 
-El órgano interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública y la Dirección de Responsabilidades de los Servidores Públicos de la Procuraduría General de Justicia, son los competentes para atender y resolver lo previsto en este capítulo, en los casos en que personal al servicio de la Secretaría de Seguridad y de la Procuraduría General de Justicia, violen las disposiciones o realicen los actos y hechos prohibidos en esta ley, la ley de procuración de justicia, reglamento interior, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+El órgano interno que se designe en La Ley Orgánica de la Comisión Estatal de Seguridad Pública y la Dirección de Responsabilidades de los Servidores Públicos de la Procuraduría General de Justicia, son los competentes para atender y resolver lo previsto en este capítulo, en los casos en que personal al servicio de la Comisión Estatal de Seguridad y de la Procuraduría General de Justicia, violen las disposiciones o realicen los actos y hechos prohibidos en esta ley, la ley de procuración de justicia, el reglamento interior, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DEL MUNICIPIO
 
@@ -3655,15 +3613,13 @@ Las instituciones de seguridad pública estatales y municipales, conforme a lo d
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Obligatoriedad
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+###### ARTÍCULO 282.
 
-###### Artículo 282.
-
-Todo el personal de la Secretaría de Seguridad, de la Procuraduría, de la Procuraduría para Niños, Niñas y la Familia y de seguridad pública de los municipios están obligados a someterse al proceso de evaluación y certificación de confianza, en los términos de las disposiciones.
+Todo el personal de la Comisión Estatal de Seguridad, de la Procuraduría, de la Procuraduría para Niños, Niñas y la Familia y de seguridad pública de los municipios, están obligados a someterse al proceso de evaluación y certificación de confianza en los términos de las disposiciones aplicables: la aprobación de estos procesos será un requisito indispensable para su ingreso y permanencia en sus cargos.
 
 Periodicidad
 
@@ -3759,23 +3715,23 @@ Coordinación
 
 El centro de evaluación se coordinará con la Subsecretaría de Desarrollo Policial, para efectuar los procesos de selección, ingreso, permanencia, profesionalización y retiro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Objeto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 290.
 
-La evaluación tendrá como objeto verificar que los servidores públicos de la Secretaría de Seguridad cumplan sus funciones de manera profesional, eficiente, imparcial, confiable y honesta, para alcanzar los objetivos y metas institucionales.
+La evaluación tendrá como objeto verificar que los servidores públicos de la Comisión Estatal de Seguridad Pública, Procuraduría General de Justicia del Estado e instituciones de seguridad pública estatales y municipales cumplan sus funciones de manera profesional, eficiente, imparcial, confiable y honesta, para alcanzar los objetivos y metas institucionales.
 
 Los resultados de la evaluación serán confidenciales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
 Regulación de los procedimientos y evaluaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 291.
 
-Los procedimientos conforme a los cuales se llevarán a cabo los procesos de evaluación de control de confianza y su calificación, estarán regulados por el Reglamento de Evaluación y Certificación del personal de seguridad pública que expedirá el Gobernador del Estado.
+Los procedimientos conforme a los cuales se llevarán a cabo los procesos de evaluación de control de confianza y su calificación, estarán regulados por el Reglamento de Evaluación y Certificación del personal de seguridad pública que se expida para tal efecto. Que deberá ser alineado al modelo nacional.
 
 En dicho ordenamiento también se regularán las consecuencias de la no presentación a la evaluación, así como del resultado negativo de la misma.
 
@@ -3783,31 +3739,29 @@ En dicho ordenamiento también se regularán las consecuencias de la no presenta
 
 ### CAPÍTULO PRIMERO. DE LOS SERVIDORES DEL ESTADO
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Legislación aplicable
 
-> <small>(REFORMADO, P.O. 18 DE MARZO 2014)</small>
-
 ###### ARTÍCULO 292.
 
-Todas las personas al servicio de la Secretaría de Seguridad y de la Procuraduría para Niños, Niñas y la Familia para garantizar que cumplan sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al régimen de responsabilidades administrativas, instituido y regulado por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza. Por lo que hace a los integrantes de la Procuraduría, se sujetarán a las disposiciones de la Ley de Procuración de Justicia.
+Todas las personas al servicio de la Comisión Estatal de Seguridad y de la Procuraduría para Niños, Niñas y la Familia para garantizar que cumplan sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al régimen de responsabilidades administrativas, instituido y regulado por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza. Por lo que hace a los integrantes de la Procuraduría, se sujetarán a las disposiciones de la Ley de Procuración de Justicia.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Autoridad competente
 
 ###### ARTÍCULO 293.
 
-Las funciones del régimen de responsabilidades administrativas, están encomendadas al órgano de control interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública y a la Dirección de Responsabilidades de los Servidores Públicos de la Procuraduría General de Justicia, en el ámbito de su aplicación, sin perjuicio de lo previsto en la Ley de Responsabilidades.
+Las funciones del régimen de responsabilidades administrativas, están encomendadas al órgano de control interno que se designe en el Reglamento Interior de la Comisión Estatal de Seguridad y a la Dirección de Responsabilidades de los Servidores Públicos de la Procuraduría General de Justicia, en el ámbito de su aplicación, sin perjuicio de lo previsto en la Ley de Responsabilidades.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Obligaciones y prohibiciones
 
 ###### ARTÍCULO 294.
 
-Todos los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia, deberán de cumplir las obligaciones genéricas y específicas que correspondan a sus puestos, cargos o comisiones; e igualmente deberán de abstenerse de realizar los hechos y los actos prohibidos en la Ley de Procuración de Justicia y el Reglamento Interior de la Secretaría de Seguridad Pública, y en los demás ordenamientos aplicables.
+Todos los servidores públicos de la Comisión Estatal de Seguridad y de la Procuraduría General de Justicia, deberán de cumplir las obligaciones genéricas y específicas que correspondan a sus puestos, cargos o comisiones; e igualmente deberán de abstenerse de realizar los hechos y los actos prohibidos en la Ley de Procuración de Justicia y la Ley Orgánica de la Comisión Estatal de Seguridad Pública, y en los demás ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -3825,13 +3779,13 @@ Autoridad municipal competente
 
 Todas las personas al servicio de los Municipios en materia de seguridad, para garantizar el cumplimiento de sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al régimen de responsabilidades administrativas instituido y regulado en sus propias leyes, códigos y reglamentos.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
 
 Autoridad estatal competente
 
 ###### ARTÍCULO 297.
 
-En los casos de ejecución de programas, acciones y operativos de seguridad pública organizados por la Secretaría de Seguridad, los agentes de las policías preventivas municipales estarán sujetos al régimen de responsabilidades administrativas, instituido y regulado en esta Ley y la Ley de Responsabilidades.
+En los casos de ejecución de programas, acciones y operativos de seguridad pública organizados por la Comisión Estatal de Seguridad, los agentes de las policías preventivas municipales estarán sujetos al régimen de responsabilidades administrativas, instituido y regulado en esta Ley y la Ley de Responsabilidades.
 
 ### CAPÍTULO TERCERO. DEL RÉGIMEN DISCIPLINARIO
 
@@ -4108,6 +4062,12 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 9 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE MARZO DE 2015.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
