@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2013-12-21"
+last_updated: "2015-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -187,7 +187,7 @@ X. Las demás facultades que le confieren esta Ley y los ordenamientos legales a
 
 ###### ARTICULO 10.
 
-El Secretario General de Gobierno coordinará las acciones en el Estado en materia de prevención, capacitación y combate de incendios forestales, en congruencia con los programas respectivos en los términos de la Ley de Protección Civil del Estado.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ###### ARTICULO 11.
 
@@ -209,9 +209,7 @@ VI. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comuni
 
 VII. Participar de conformidad con los acuerdos y convenios que se celebren con la federación, en la inspección y vigilancia forestal en el Estado, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales;
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
-
-VIII. Implementar e impulsar programas y mecanismos que eviten el uso inadecuado del fuego en actividades agrícolas y forestales, y
+VIII. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
 IX. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
 
@@ -263,7 +261,9 @@ X. Autorizar en las áreas urbanas el manejo de sus áreas forestales;
 
 XI. Hacer del conocimiento a las autoridades competentes, y en su caso, denunciar las infracciones o delitos que se cometan en materia forestal;
 
-XII. Participar y coadyuvar en las acciones de prevención y combate de incendios forestales, en coordinación con los gobiernos federal y estatal, y participar en la atención en general, de las emergencias y contingencias forestales, de acuerdo con los programas de protección civil, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+XII. Participar y coadyuvar, en coordinación con los gobiernos federal y estatal, en la atencioin (sic) en general, de las emergencias y contingencias forestales, de acuerdo con los programas de proteccioin (sic) civil, y
 
 XIII. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
 
@@ -315,7 +315,7 @@ II. Proponer la formulación, aplicación y revisión de la política forestal e
 
 III. Participar en la inspección y vigilancia en la materia forestal;
 
-IV. Coadyuvar en la prevención y atención de los incendios forestales, y
+IV. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
 V. Proponer alternativas de solución a los conflictos, vacíos e incertidumbres en la aplicación de las facultades concurrentes en la materia.
 
@@ -327,7 +327,9 @@ Los recursos humanos, financieros y materiales que se requieran para el cumplimi
 
 El Estado podrá suscribir convenios o acuerdos de coordinación con la federación, que tengan por objeto:
 
-I. Programar y operar las tareas de prevención, detección y combate de incendios forestales en la Entidad, así como los de control de plagas y enfermedades;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+I. Programar y operar las tareas de control de plagas y enfermedades forestales;
 
 II. Llevar a cabo la inspección y vigilancia forestales;
 
@@ -591,39 +593,37 @@ Sí como resultado de la investigación se detecta una plaga o enfermedad forest
 
 Las dependencias y entidades federales, del gobierno del Estado y, en su caso, las de los gobiernos municipales, en los términos de los acuerdos y convenios que celebren, ejercerán las inspecciones y evaluaciones citadas en la Ley General en forma coordinada, para detectar, diagnosticar, prevenir, controlar y combatir plagas y enfermedades forestales.
 
-### CAPITULO IV. Del Uso del Fuego con Fines Agrícolas
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN P.O. 10 DE MARZO DE 2015)</small>
+
+### CAPITULO IV
 
 ###### ARTICULO 54.
 
-Compete a la Secretaría General de Gobierno, en coordinación con la Comisión y la SEDARH, la planificación, coordinación y ejecución de las medidas precisas para la regulación del uso del fuego.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ###### ARTICULO 55.
 
-Para realizar cualquier tipo de quema en terrenos agrícolas, que puedan afectar terrenos forestales y preferentemente forestales, los interesados deberán dar aviso a la autoridad municipal para obtener el permiso correspondiente, quien deberá dar respuesta en un plazo no mayor de tres días hábiles, entendiéndose que sí no dá respuesta será en sentido positivo. En todo caso, las quemas agrícolas deberán atenerse a lo previsto en la Norma Oficial Mexicana correspondiente.
-
-La autoridad municipal deberá a su vez informar de la quema autorizada, a la autoridad estatal, para que lleve el registro correspondiente.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ###### ARTICULO 56.
 
-Toda quema que se realice en terrenos preferentemente forestales, con fines agrícolas, se sujetará a lo dispuesto en el Reglamento de esta Ley y normas oficiales correspondientes.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
-### CAPITULO V. De la Prevención, Combate y Control de Incendios Forestales
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN P.O. 10 DE MARZO DE 2015)</small>
+
+### CAPITULO V
 
 ###### ARTICULO 57.
 
-La Secretaría General de Gobierno, por conducto de la Unidad Estatal de Protección Civil, en coordinación con la Comisión y la SEDARH, promoverá la celebración de convenios y acuerdos de colaboración con los ayuntamientos, organizaciones y asociaciones, en las regiones que así se requiera, con la finalidad de constituir agrupaciones de defensa forestal, que tendrán como objeto planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
-
-Las organizaciones de defensa forestal se organizarán conforme a lo establecido en el Reglamento de esta Ley.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ###### ARTICULO 58.
 
-La autoridad municipal deberá atender la prevención, combate y control de incendios; y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la instancia estatal correspondiente. Si ésta resultase insuficiente, se procederá a informar a la Comisión, la cual actuará de acuerdo con los programas y procedimientos respectivos.
-
-La SEDARH procurará la participación de los organismos de los sectores social y privado, para los efectos señalados en el párrafo que antecede, y organizarán campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ###### ARTICULO 59.
 
-El Estado y municipios en el ámbito de su competencia, y de acuerdo a sus leyes de ingresos y presupuestos de egresos, otorgarán estímulos económico-fiscales para el aprovechamiento y restauración de los recursos forestales, a los propietarios de los terrenos forestales o preferentemente forestales, que no hayan sido afectados por incendios en el plazo que fije el Reglamento de esta Ley.
+(DEROGADO, P.O. 10 DE MARZO DE 2015)
 
 ### CAPITULO VI. De la Reforestación y Forestación
 
@@ -647,7 +647,7 @@ Cuando por causa de utilidad pública sea necesario reforestar en predios de pro
 
 ###### ARTICULO 63.
 
-El Estado, así como lo municipios en el ámbito de su competencia, establecerán incentivos económicos y fiscales para el efecto de estimular la forestación y reforestación.
+El Estado, así como lo (sic) municipios en el ámbito de su competencia, establecerán incentivos económicos y fiscales para el efecto de estimular la forestación y reforestación.
 
 ## TITULO SEXTO. DEL FOMENTO AL DESARROLLO FORESTAL
 
@@ -721,7 +721,9 @@ II. Recomendar la actualización constante de los planes de estudios de carreras
 
 III. Organizar programas de formación continua y actualización de los servidores públicos del ramo forestal, estatal y municipal;
 
-IV. Impulsar programas de educación y capacitación forestal destinados a propietarios y productores forestales, así como de los pobladores de regiones forestales, en materia de conservación, protección, restauración y aprovechamiento sustentable de los recursos forestales, así como en materia de contingencias, emergencias e incendios forestales, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+IV. Impulsar programas de educación y capacitación forestal destinados a propietarios y productores forestales, así como de los pobladores de regiones forestales, en materia de conservación, protección, restauración y aprovechamiento sustentable de los recursos forestales, así como en materia de contingencias y emergencias forestales, y
 
 V. Formular programas de becas para la formación y capacitación forestal.
 
@@ -801,9 +803,9 @@ IV. Incumplir los términos establecidos en las autorizaciones de los programas 
 
 V. Cambiar la utilización de los terrenos forestales, sin contar con la autorización correspondiente;
 
-VI. Omitir realizar guardarrayas de protección contra el fuego en terrenos forestales y preferentemente forestales, de acuerdo con lo previsto en esta Ley;
+VI. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
-VII. Realizar las quemas en terrenos agropecuarios en forma negligente, que propicie la propagación del fuego a terrenos forestales vecinos;
+VII. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
 VIII. Realizar limpia de milcahual sin la autorización correspondiente;
 
@@ -823,11 +825,15 @@ XV. Prestar servicios técnicos forestales sin haber obtenido previamente, las i
 
 XVI. Contravenir las disposiciones contenidas en los decretos por los que se establezcan vedas forestales;
 
-XVII. Omitir la prevención, el combate o el control, estando legalmente obligado para ello, de las plagas, enfermedades o incendios forestales que se detecten;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-XVIII. Negarse sin causa justificada, a prevenir o combatir las plagas, enfermedades o incendios forestales que afectan la vegetación forestal, en desacato de mandato legítimo de autoridad;
+XVII. Omitir la prevención, o el control, estando legalmente obligado para ello, de las plagas y enfermedades forestales que se detecten;
 
-XIX. Provocar intencionalmente o por imprudencia, incendios en terrenos forestales o preferentemente forestales;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+XVIII. Negarse sin causa justificada, a prevenir o combatir las plagas o enfermedades forestales que afectan la vegetación forestal, en desacato de mandato legítimo de autoridad;
+
+XIX. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
 XX. Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales, y
 
@@ -857,9 +863,13 @@ Las sanciones anteriores se impondrán sin perjuicio de la responsabilidad civil
 
 Las multas a que se refiere el artículo anterior, se determinarán en la forma siguiente:
 
-I. Con el equivalente de cuarenta a mil veces de salario mínimo, a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI y XVIII del artículo 81 de esta Ley, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
 
-II. Con el equivalente de cien a veinte mil veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XX y XXI del artículo 81 de esta Ley.
+I. Con el equivalente de cuarenta a mil veces de salario miinimo (sic), a quien cometa las infracciones senpaladas (sic) en las fracciones V, VIII, XII, XV, XVI y XVIII del artículo 81 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+
+II. Con el equivalente de cien a veinte mil veces de salario miinimo (sic) a quien cometa las infracciones senpaladas (sic) en las fracciones; I, II, III, IV, IX, X, XI, XIII, XIV, XVII, XX, y XXI, del artículo 81 de esta Ley.
 
 Para la imposición de las multas servirá de base el salario mínimo general diario vigente en la zona económica del Estado, al momento de cometerse la infracción.
 
@@ -950,6 +960,12 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
