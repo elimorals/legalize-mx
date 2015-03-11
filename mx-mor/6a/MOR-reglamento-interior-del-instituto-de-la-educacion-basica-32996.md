@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-de-la-educacion-basica-32996"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-23"
-last_updated: "2010-03-24"
+last_updated: "2015-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE LA EDUCACION BASICA DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE LA EDUCACION BASICA DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DEL INSTITUTO DE LA EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE LA EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2003.
 
@@ -1017,11 +1019,11 @@ XI. Proponer al Director General del IEBEM quien a su vez, previa aprobación de
 
 XII. Realizar las demás actividades que le señale este Reglamento, el Reglamento que lo rige, así como las que le encomiende el Director General del IEBEM, en relación con su objeto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2010)</small>
 
 ### CAPÍTULO XIX. DE LA SUBDIRECCIÓN DE DESARROLLO ORGANIZACIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 43.
 
@@ -1047,7 +1049,7 @@ VI. Diseñar y analizar las estructuras orgánicas, dirigir la elaboración de p
 
 VII. Implementar en las áreas del Instituto una política de simplificación de trámites, así como elaborar los manuales de organización, de políticas y procedimientos de las diferentes áreas, así como una mejora continua del IEBEM y una reingeniería de procesos;
 
-VIII. Promover el mejoramiento continuo de la calidad, utilizando técnicas y enfoques del mejoramiento de la organización, incluyendo el empleo de círculos de calidad, equipos y grupos comandos autodirigidos, y una participación muy extensa de los empleados, y (sic)
+VIII. Promover el mejoramiento continuo de la calidad, utilizando técnicas y enfoques del mejoramiento de la organización, incluyendo el empleo de círculos de calidad, equipos y grupos comandos autodirigidos, y una participación muy extensa de los empleados, y
 
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
@@ -1131,7 +1133,7 @@ M. EN C. FRANCISCO RAMÓN TALLABS ORTEGA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 4 DE NOVIEMBRE DE 2009.
 
@@ -1150,3 +1152,19 @@ SEGUNDO.- Se derogan todas las disposiciones de igual o inferior rango que se op
 TERCERO.- Los Manuales de Organización y de Políticas y Procedimientos, y demás instrumentos administrativos de identificación, deberán adecuarse al presente Reglamento en un plazo no mayor de 6 meses a partir de la entrada en vigor del presente Decreto a efecto de armonizarlos con el contenido del presente instrumento.
 
 CUARTO.- Inscríbase el presente Decreto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por la fracción II del artículo 35 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+P.O. 11 DE MARZO DE 2015.
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los cinco días hábiles, contados a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abrogan el Reglamento del Consejo Estatal Técnico de la Educación, publicado el veintiuno de noviembre de 1979 en el Periódico Oficial "Tierra y Libertad", número 2936; y el Reglamento Interior del Instituto de la Educación Básica del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4267, de fecha veintitrés de julio de 2003; así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que contravengan lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. Dentro del término de 180 días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Estatuto Orgánico, se deberán expedir los Manuales Administrativos, respectivos, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada unidad administrativa según su ámbito de competencia.
+
+CUARTA. Los casos no previstos en el presente Estatuto Orgánico se resolverán de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, las demás disposiciones jurídicas aplicables y por la Juta (sic) de Gobierno del IEBEM.
+
+QUINTA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por el artículo 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+SEXTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; el Instituto de la Educación Básica del Estado de Morelos, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SÉPTIMA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, el Instituto de la Educación Básica del Estado de Morelos deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
