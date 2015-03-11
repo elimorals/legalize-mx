@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-turismo-del-estado-de-morelos-68337"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-29"
-last_updated: "2009-04-29"
+last_updated: "2015-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE TURISMO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 29 de abril de 2009.
 
@@ -163,9 +163,17 @@ II. La información contenida en los catálogos de prestadores de servicios y de
 
 III. La prestación de servicios de orientación y emergencia mecánica en coordinación con las dependencias federales o municipales;
 
-IV. Llevar a cabo acciones de vinculación y acompañamiento a los turistas ante otras autoridades federales o locales, y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2015)</small>
 
-V. El establecimiento de módulos de información y orientación en las terminales aéreas, de autobuses, cruceros carreteros o puntos estratégicos.
+IV. Llevar a cabo acciones de vinculación y acompañamiento a los turistas ante otras autoridades Federales o Locales;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2015)</small>
+
+V. El establecimiento de módulos de información y orientación en las terminales aéreas, de autobuses, cruceros carreteros o puntos estratégicos, y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2015)</small>
+
+VI. Otorgar a los turistas, cuando así sea solicitado, información sobre los horarios de atención y domicilio de la Comisión de Derechos Humanos del Estado de Morelos, mediante instrumentos impresos y conforme a la necesidad del turista, a través de los módulos señalados en la fracción V, de este artículo.
 
 ###### Artículo 9.
 
@@ -524,3 +532,11 @@ EL SECRETARIO DE TURISMO
 MARCOS MANUEL SUÁREZ GERARD
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MARZO DE 2015.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
