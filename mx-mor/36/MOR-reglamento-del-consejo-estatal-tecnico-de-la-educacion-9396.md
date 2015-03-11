@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-consejo-estatal-tecnico-de-la-educacion-9396"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-11-21"
-last_updated: "1979-11-21"
+last_updated: "2015-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # REGLAMENTO DEL CONSEJO ESTATAL TECNICO DE LA EDUCACION
 
-REGLAMENTO DEL CONSEJO ESTATAL TECNICO DE LA EDUCACION
+REGLAMENTO DEL CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LAS DISPOSICIONES TRANSITORIAS PRIMERA Y SEGUNDA DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE LA EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CINCO DÍAS HÁBILES, CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN.</small>
 
-Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 21 de noviembre de1979.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2015 (ABROGADO).
+
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 21 de noviembre de 1979.
 
 DELEGACION GENERAL DE LA S.E.P. EN EL ESTADO DE MORELOS
 
@@ -218,3 +220,21 @@ EL SECRETARIO DE GOBIERNO
 Lic. Fausto González Hernández
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MARZO DE 2015.
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los cinco días hábiles, contados a partir del día siguiente al de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abrogan el Reglamento del Consejo Estatal Técnico de la Educación, publicado el veintiuno de noviembre de 1979 en el Periódico Oficial "Tierra y Libertad", número 2936; y el Reglamento Interior del Instituto de la Educación Básica del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4267, de fecha veintitrés de julio de 2003; así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que contravengan lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. Dentro del término de 180 días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Estatuto Orgánico, se deberán expedir los Manuales Administrativos, respectivos, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada unidad administrativa según su ámbito de competencia.
+
+CUARTA. Los casos no previstos en el presente Estatuto Orgánico se resolverán de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, las demás disposiciones jurídicas aplicables y por la Juta (sic) de Gobierno del IEBEM.
+
+QUINTA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por el artículo 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+SEXTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; el Instituto de la Educación Básica del Estado de Morelos, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SÉPTIMA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, el Instituto de la Educación Básica del Estado de Morelos deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
