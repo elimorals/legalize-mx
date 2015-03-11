@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2014-11-29"
+last_updated: "2015-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MARZO DE 2015.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -459,7 +459,7 @@ XXIII. Coadyuvar con la Consejería Jurídica en los procedimientos que se sigan
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXIV. Coadyuvar con la Consejería Jurídica en los procedimientos, recursos o juicios que se sigan ante alguna autoridad administrativa o jurisdiccional, en la presentación de denuncias o querellas y demandas, así como en la interposición y desistimientos de toda clase de recursos o juicios, incluidos el de amparo; el otorgamiento del perdón y transigir en árbitros; en el ejercicio de acciones, oposición de excepciones y defensas, ofrecimiento y objeción de pruebas, la tacha testigos (sic), la formulación y absolución de posiciones y la suscripción de convenios judiciales de pago;
+XXIV. Coadyuvar con la Consejería Jurídica en los procedimientos, recursos o juicios que se sigan ante alguna autoridad administrativa o jurisdiccional, en la presentación de denuncias o querellas y demandas, así como en la interposición y desistimientos de toda clase de recursos o juicios, incluidos el de amparo; el otorgamiento del perdón y transigir en árbitros; en el ejercicio de acciones, oposición de excepciones y defensas, ofrecimiento y objeción de pruebas, la tacha (sic) testigos, la formulación y absolución de posiciones y la suscripción de convenios judiciales de pago;
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -1583,7 +1583,7 @@ III. Autorizar las Cuentas por Liberar Certificadas que le presenten las depende
 
 IV. Asignar los recursos provenientes de fondos de aportaciones federales y de reasignaciones del Presupuesto de Egresos de la Federación, a los programas, actividades y demás intervenciones públicas conforme a las disposiciones normativas y legales aplicables;
 
-V. Coordinar, con la participación de la Secretaría Técnica del Gabinete, Planeación y Evaluación, los trabajos de las dependencias y entidades de la Administración Pública del Estado para la elaboración sus (sic) programas operativos anuales y su integración en el Programa Operativo Anual Global;
+V. Coordinar, con la participación de la Secretaría Técnica del Gabinete, Planeación y Evaluación, los trabajos de las dependencias y entidades de la Administración Pública del Estado para la elaboración (sic) sus programas operativos anuales y su integración en el Programa Operativo Anual Global;
 
 VI. Asesorar y apoyar a las dependencias y entidades de la Administración Pública del Estado en la formulación y ejercicio de sus presupuestos;
 
@@ -2669,7 +2669,7 @@ XX. Informar al Titular del Ejecutivo del Estado, el resultado de las evaluacion
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
-XXI. Someter a la aprobación del Titular del Ejecutivo del Estado los procedimientos que deberán observarse, dentro del ámbito administrativo y presupuestal, para la administración de los bienes, derechos y valores que integran el Patrimonio de la Beneficencia Pública y propiciar su encauzamiento (sic) hacia los programas de salud, y
+XXI. Someter a la aprobación del Titular del Ejecutivo del Estado los procedimientos que deberán observarse, dentro del ámbito administrativo y presupuestal, para la administración de los bienes, derechos y valores que integran el Patrimonio de la Beneficencia Pública y propiciar su encauzamiento hacia los programas de salud, y
 
 XXII. Las demás que le encomienden este Reglamento y otras disposiciones normativas aplicables.
 
@@ -4321,6 +4321,10 @@ g) Unidad de Transportes, y
 
 h) Las demás que sean necesarias por acuerdo del Titular del Poder Ejecutivo a propuesta del Secretario.
 
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2015)</small>
+
+C) Unidad de la Policía Vecinal.
+
 IV. Subsecretaría de Servicios Viales:
 
 A) Dirección de Servicios Viales;
@@ -4573,7 +4577,7 @@ IX. Realizar cualquier investigación relacionada con las funciones propias de e
 
 X. Coordinar y realizar acciones policiales especificas que aseguren la obtención, el análisis y aprovechamiento de información de inteligencia, para ubicar, identificar, prevenir y combatir la comisión de delitos;
 
-XI. Informar de forma inmediata al Secretario de las quejas o denuncias en las que se encuentre involucrado el personal de esta Secretaría, a si como de las investigaciones que le corresponda realizar, y
+XI. Informar de forma inmediata al Secretario de las quejas o denuncias en las que se encuentre involucrado el personal de esta Secretaría, a si (sic) como de las investigaciones que le corresponda realizar, y
 
 XII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -4823,7 +4827,7 @@ III. Unidad Marítima.
 
 ###### Artículo 205.
 
-Al Subsecretario Seguridad (sic) Ciudadana le corresponde el despacho de los siguientes asuntos:
+Al Subsecretario (sic) Seguridad Ciudadana le corresponde el despacho de los siguientes asuntos:
 
 I. Brindar protección a los ciudadanos y a sus bienes y prevenir cualquier ilícito;
 
@@ -5017,7 +5021,7 @@ La Secretaría contará con una Unidad de Transportes, especializada en el manej
 
 ###### Artículo 218.
 
-El nombramiento de los Comandantes de Cuartel, serán propuestas por los Subsecretarios correspondientes, y estarán sujetos a la aprobación del Secretario, de quien dependerán directamente.
+El nombramiento de los Comandantes de Cuartel, serán propuestas (sic) por los Subsecretarios correspondientes, y estarán sujetos a la aprobación del Secretario, de quien dependerán directamente.
 
 ###### Artículo 219.
 
@@ -5164,6 +5168,24 @@ XIII. Mantener cerrado el acceso a los depósitos y atender a los elementos en l
 XIV. Mantener limpia su área y establecer las medidas de seguridad necesarias para evitar cualquier accidente, y
 
 XV. Las demás que le confieran el Secretario, el Subsecretario o Director que corresponda; las que se encuentren previstas en este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2015)</small>
+
+###### Artículo 231 Bis.
+
+Al Titular de la Unidad de la Policía Vecinal, en términos de lo dispuesto por el artículo 81 Ter de la Ley de Seguridad Pública del Estado de Yucatán, le corresponde el despacho de los siguientes asuntos:
+
+I. Implementar programas que impulsen y fortalezcan la unión entre los vecinos de las colonias, así como la participación social en las tareas de seguridad;
+
+II. Proponer mecanismos de vigilancia y prevención vecinal del delito para su implementación en las colonias o determinadas aéreas (sic) geográficas;
+
+III. Dar seguimiento a las políticas y programas vinculados con la prevención del delito a cargo de los comités ciudadanos de seguridad y los comisarios de manzana;
+
+IV. Difundir las campañas de promoción de la denuncia en coordinación con los comités ciudadanos de seguridad pública y los comisarios de manzana;
+
+V. Desarrollar con el apoyo de los comités ciudadanos de seguridad pública y los comisarios de manzana cursos de capacitación en materia de seguridad, y
+
+VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 232.
 
@@ -5589,7 +5611,7 @@ III. Proponer a la Dirección General de Administración estrategias de desarrol
 
 IV. Supervisar el desarrollo del personal que convenga con esta Secretaría, el servicio social de pasantía, y el cumplimiento de los compromisos establecidos en los convenios;
 
-V. Registrar, coordinar y dar seguimiento a la documentación y correspondencia recibida, canalizándola las (sic) instancias correspondientes de acuerdo a indicaciones del Director General de Administración;
+V. Registrar, coordinar y dar seguimiento a la documentación y correspondencia recibida, canalizándola (sic) las instancias correspondientes de acuerdo a indicaciones del Director General de Administración;
 
 VI. Coadyuvar el cumplimiento de las políticas presupuestales y optimización del gasto;
 
@@ -10919,7 +10941,7 @@ IX. Las demás que establezcan este Reglamento y otras disposiciones legales apl
 
 ###### Artículo 569.
 
-Al Titular de la Unidad Estadística (sic) Laboral e Informática le corresponde el despacho de los siguientes asuntos:
+Al Titular de la Unidad (sic) Estadística Laboral e Informática le corresponde el despacho de los siguientes asuntos:
 
 I. Actualizar permanentemente la información estadística que le competa a la Secretaría;
 
@@ -11375,7 +11397,7 @@ El Director de Asuntos y Servicios Jurídicos tendrá las siguientes facultades 
 
 I. Elaborar y revisar los instrumentos jurídicos que la Secretaría celebre con las diversas Dependencias y Entidades de los tres órdenes de gobierno, asociaciones y personas físicas o morales, así como visarlos y someterlos a la consideración del Secretario;
 
-II. Registrar y llevar el control los (sic) contratos, convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Secretaría;
+II. Registrar y llevar el control (sic) los contratos, convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Secretaría;
 
 III. Participar en los procesos de actualización y adecuación del orden jurídico que rige el funcionamiento de la Secretaría;
 
@@ -11449,9 +11471,7 @@ Para el cumplimiento de sus atribuciones, la Dirección de Normatividad y Polít
 
 ## TÍTULO ÚNICO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DE GOBIERNO DE LAS ENTIDADES PARAESTATALES
 
-### CAPÍTULO II. Del Fondo Estatal para la Cultura y las Artes
-
-(FONECULTA)
+### CAPÍTULO II. Del Fondo Estatal para la Cultura y las Artes (FONECULTA)
 
 ###### Artículo 585.
 
@@ -11683,9 +11703,9 @@ El Presidente de la Junta de Gobierno o su equivalente tendrá las siguientes fa
 
 I. Presidir las sesiones de la Junta de Gobierno o su equivalente;
 
-II. Participar con voz y voto en las sesiones Junta (sic) de Gobierno o su equivalente. En caso de empate, emitir voto de calidad;
+II. Participar con voz y voto en las sesiones (sic) Junta de Gobierno o su equivalente. En caso de empate, emitir voto de calidad;
 
-III. Someter las propuestas de acuerdos a la consideración y votación de los miembros Junta (sic) de Gobierno o su equivalente
+III. Someter las propuestas de acuerdos a la consideración y votación de los miembros (sic) Junta de Gobierno o su equivalente
 
 IV. Promover y vigilar el cumplimiento de los acuerdos adoptados en sesiones, de conformidad con los plazos establecidos y las responsabilidades asignadas;
 
@@ -11693,7 +11713,7 @@ V. Proponer la celebración de sesiones extraordinarias;
 
 VI. Proponer la participación de invitados en las sesiones, y
 
-VII. Poner a consideración Junta (sic) de Gobierno o su equivalente, la Orden del
+VII. Poner a consideración (sic) Junta de Gobierno o su equivalente, la Orden del
 
 Día de las sesiones.
 
@@ -11905,7 +11925,7 @@ Todos los miembros la Junta de Gobierno o su equivalente deberán emitir su voto
 
 ###### Artículo 633.
 
-Para dar seguimiento a la toma de decisiones la (sic) Junta de Gobierno o su equivalente, el Secretario de Actas y Acuerdos registrará en el Acta, los acuerdos que se adopten, los cuales deberán relacionarse en orden consecutivo e identificarse de conformidad al número de sesión y el carácter de la misma.
+Para dar seguimiento a la toma de decisiones (sic) la Junta de Gobierno o su equivalente, el Secretario de Actas y Acuerdos registrará en el Acta, los acuerdos que se adopten, los cuales deberán relacionarse en orden consecutivo e identificarse de conformidad al número de sesión y el carácter de la misma.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -12434,3 +12454,13 @@ La Secretaría General de Gobierno, la Secretaría de Desarrollo Social y la Sec
 Tercero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto
+
+D.O. 11 DE MARZO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
