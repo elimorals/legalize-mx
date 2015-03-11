@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-de-la-comision-estatal-del-agua-66957"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-31"
-last_updated: "2009-01-31"
+last_updated: "2015-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DEL AGUA, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de enero de 2009.
 
@@ -841,7 +843,7 @@ XXVII. Las demás que le confieran las disposiciones legales y reglamentarias vi
 
 ###### ARTÍCULO 42.
 
-En términos de las disposiciones de la Ley de Transparencia La (sic) Unidad de Enlace estará a cargo del Área Administrativa que designe el Director General, quien tendrá las siguientes atribuciones:
+En términos de las disposiciones de la Ley de Transparencia La Unidad de Enlace estará a cargo del Área Administrativa que designe el Director General, quien tendrá las siguientes atribuciones:
 
 I. Informar al Director General sobre los asuntos que tenga a su cargo derivados de la Ley de Transparencia.
 
@@ -942,3 +944,13 @@ COMISARIO
 C.P. JOSÉ LUIS MORALES MARTÍNEZ
 
 DELEGADO CONTRALOR EN LA COMISIÓN ESTATAL DEL AGUA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO.- Se abroga el Reglamento Interno de la Comisión Estatal del Agua, publicado en el Periódico Oficial del Gobierno del Estado de fecha 31 de enero de 2009.
