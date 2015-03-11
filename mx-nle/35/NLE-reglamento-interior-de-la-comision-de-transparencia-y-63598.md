@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-comision-de-transparencia-y-63598"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-20"
-last_updated: "2015-02-25"
+last_updated: "2015-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 11 DE MARZO DE 2015.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 20 de agosto de 2008.
 
@@ -567,9 +567,9 @@ Los Comisionados Propietarios, el Comisionado Supernumerario, el Director Genera
 
 Cuando alguno de ellos no asista a las reuniones de trabajo, a eventos oficiales o a las sesiones del Pleno de la Comisión, le será descontado el equivalente a su percepción diaria bruta, con excepción de los casos a que se refiere el artículo 34 Bis I del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+(REFORMADO, P.O. 25 DE FEBRERO DE 2015) (F. DE E., P.O. 11 DE MARZO DE 2015)
 
-En los casos de inasistencias, retrasos o ausencias a las reuniones de trabajo, eventos oficiales o sesiones del Pleno, el Presidente de la Comisión lo hará del conocimiento de la Dirección de Administración, para los efectos legales y administrativos a que haya lugar.
+En los casos de inasistencias, retrasos o ausencias a las reuniones de trabajo, eventos oficiales o sesiones del Pleno, el Presidente de la Comisión lo hará del conocimiento de la Jefatura de Administración, para los efectos legales y administrativos a que haya lugar.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
 
