@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2014-12-23"
+last_updated: "2015-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE MARZO DE 2015.</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -8579,8 +8577,8 @@ CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco j
 
 P.O. 5 DE DICIEMBRE DE 2014.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2015)</small>
 
-PRIMERO.- Este decreto entrará en vigor a los 180 días hábiles siguientes, previa su publicación en el Periódico Oficial del Estado.
+PRIMERO.- Este decreto entrará en vigor el 1° de abril de 2016, previa su publicación en el Periódico oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido de este decreto
