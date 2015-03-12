@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-adquisiciones-arrendamientos-servicios-y-obra-855
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-27"
-last_updated: "2013-08-06"
+last_updated: "2015-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE MARZO DE 2015.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de enero de 2012.
 
@@ -113,7 +113,7 @@ Lo dispuesto en el presente Reglamento no será aplicable en los casos siguiente
 
 > <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
 
-l. Respecto de los contratos o convenios de colaboración que el Tribunal celebre con dependencias o entidades públicas, tanto Federales, Estatales o Municipales;
+I. Respecto de los contratos o convenios de colaboración que el Tribunal celebre con dependencias o entidades públicas, tanto Federales, Estatales o Municipales;
 
 II. En la contratación de servicios subordinados y profesionales bajo el régimen de honorarios que se rigen por la ley laboral y civil respectivamente, así como la contratación de servicios de auditoría externa u otros en los que se requiera confidencialidad, y
 
@@ -389,7 +389,7 @@ Excepciones
 
 Se podrán contratar adquisiciones, arrendamientos y servicios mediante adjudicación directa, aun cuando el valor máximo exceda del límite establecido en el acuerdo general a que alude el artículo 20, en los siguientes supuestos:
 
-l. Cuando el contrato sólo pueda celebrarse con un determinado proveedor por tratarse de bienes o servicios con características técnicas o marcas específicas, obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
+I. Cuando el contrato sólo pueda celebrarse con un determinado proveedor por tratarse de bienes o servicios con características técnicas o marcas específicas, obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
 II. Cuando se trate de adquisiciones y arrendamientos de bienes y contratación de servicios, que a consideración del Comité de Adquisiciones, de no efectuarse de manera inmediata pongan en peligro la implementación u operación de los fines, programas, planes o funcionamiento del Tribunal;
 
@@ -683,7 +683,7 @@ Requisitos de inscripción en el Padrón de Proveedores
 
 Para obtener la inscripción en el Padrón de Proveedores del Tribunal, los interesados deberán satisfacer los siguientes requisitos:
 
-l. Las personas físicas:
+I. Las personas físicas:
 
 a) Presentar solicitud en el formato que apruebe la Unidad de Administración del Tribunal;
 
@@ -949,10 +949,22 @@ D.O. 6 DE AGOSTO DE 2013.
 
 El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 12 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Las personas físicas o morales inscritas en el Padrón de Proveedores del Tribunal Superior de Justicia durante el año 2012 prorrogarán su registro hasta el 31 de diciembre de 2014.
+Las personas físicas o morales inscritas en el Padrón de Proveedores del Tribunal Superior de Justicia durante el año 2012 prorrogarán su registro hasta el 31 de marzo del año 2015. Los proveedores y contratistas que se encuentren en el caso antes señalado y que deseen continuar inscritos en dicho padrón, deberán solicitar por escrito su renovación, a más tardar en la fecha en que expira su registro, cumpliendo los requisitos que señala el artículo 47 del Reglamento de Adquisiciones, Arrendamientos, Servicios y Obra Pública del Tribunal Superior de Justicia del Estado de Yucatán.
 
 ###### ARTÍCULO TERCERO.
 
 Las personas físicas o morales inscritas en el Padrón de Proveedores del Tribunal Superior de Justicia a partir del primero de enero de 2013 y hasta la fecha de entrada en vigor de este Acuerdo General prorrogarán su registro hasta el 31 de diciembre de 2015.
+
+D.O. 12 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye al titular de la Unidad de Administración del Tribunal Superior de Justicia para que notifique el presente Acuerdo General a las personas físicas o morales inscritas en el Padrón de Proveedores del referido ente durante el año 2012.
