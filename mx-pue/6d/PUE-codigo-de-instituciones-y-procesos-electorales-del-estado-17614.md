@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2014-03-31"
+last_updated: "2015-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -381,7 +381,7 @@ La falta absoluta de algún Diputado electo por el principio de representación 
 
 ###### ARTÍCULO 17.
 
-El ejercicio del Poder Ejecutivo de la Entidad se deposita en un sólo individuo que se denomina Gobernador del Estado de Puebla, el cual será electo cada seis años en forma directa, secreta, uninominal y por mayoría relativa en el territorio del Estado.
+El ejercicio del Poder Ejecutivo de la Entidad se deposita en un solo individuo que se denomina Gobernador del Estado de Puebla, el cual será electo cada seis años en forma directa, secreta, uninominal y por mayoría relativa en el territorio del Estado.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -541,7 +541,7 @@ III.- La integración de su Consejo Directivo u organismo equivalente en el Esta
 
 En caso de que un partido político nacional haya perdido su registro y que tal hecho haya quedado firme por acuerdo de las autoridades e instancias competentes a nivel federal, de conformidad con las disposiciones aplicables, el Consejo General resolverá declarando que el partido político afectado ha perdido los derechos y prerrogativas que hubiera tenido en el ámbito estatal.
 
-La resolución que emita el Consejo General surtirá sus efectos en forma inmediata, salvo el caso de que se esté desarrollando un proceso electoral. En esta circunstancia, la resolución surtirá efectos, una vez que aquel haya concluido.
+La resolución que emita el Consejo General surtirá sus efectos en forma inmediata, salvo el caso de que se esté desarrollando un proceso electoral. En esta circunstancia, la resolución surtirá efectos, una vez que aquél haya concluido.
 
 ### CAPÍTULO III. DE LOS PARTIDOS POLÍTICOS ESTATALES
 
@@ -735,7 +735,7 @@ a) El sostenimiento de sus actividades ordinarias permanentes;
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-b) Las actividades tendientes a la obtención del voto; y (sic)
+b) Las actividades tendientes a la obtención del voto; y
 
 c) (DEROGADO, P.O. 20 DE FEBRERO DE 2012)
 
@@ -805,7 +805,7 @@ El financiamiento privado se integra con las aportaciones de recursos económico
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-I.- Financiamiento por sus militantes, el cual se conformará por las cuotas y aportaciones ordinarias y extraordinarias de sus afiliados por las aportaciones de sus organizaciones sociales o por las cuotas voluntarias y personales que lo aspirantes a candidatos o candidatos a cargos de elección popular aporten para sus precampañas o campañas, respectivamente;
+I.- Financiamiento por sus militantes, el cual se conformará por las cuotas y aportaciones ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales o por las cuotas voluntarias y personales que los aspirantes a candidatos o candidatos a cargos de elección popular aporten para sus precampañas o campañas, respectivamente;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
@@ -1065,7 +1065,7 @@ I.- Propio, donde hubiere candidatos de la coalición de la que ellos formen par
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-II.- Propio, a quien haya sido registrado como candidato por alguna coalición; y (sic)
+II.- Propio, a quien haya sido registrado como candidato por alguna coalición; y
 
 III.- (DEROGADA, P.O. 20 DE FEBRERO DE 2012)
 
@@ -1217,7 +1217,7 @@ La pérdida de registro de un partido político, no tiene efectos en relación c
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-ARTÍCULO 70 bis.- Cuando los partidos políticos a que se refiere el artículo anterior, hayan perdido su registro, los bienes muebles e inmuebles que hayan sido adquiridos a través del financiamiento público pasarán a ser parte del patrimonio del Estado de Puebla. La resolución del Consejo General a la que hace referencia el artículo 70, establecerá la obligación para los partidos políticos que hayan perdido su registro a presentar en un plazo de 10 días hábiles, el inventario final de todos los bienes con que cuenten y dentro de los 30 días naturales siguientes, contados a partir de que hayan presentado el inventario final, entregarán al Consejo General los bienes muebles e inmuebles que adquirieron con el financiamiento público.
+ARTÍCULO 70 bis.- Cuando los partidos politicos, a que se refiere el artículo anterior, hayan perdido su registro, los bienes muebles e inmuebles que hayan sido adquiridos a través del financiamiento público, pasarán a ser parte del patrimonio del Estado de Puebla. La resolución del Consejo General a la que hace referencia el artículo 70, establecerá la obligación para los partidos políticos que hayan perdido su registro a presentar en un plazo de 10 días hábiles, el inventario final de todos los bienes con que cuenten y dentro de los 30 días naturales siguientes, contados a partir de que hayan presentado el inventario final, entregarán al Consejo General los bienes muebles e inmuebles que adquirieron con el financiamiento público.
 
 Sin perjuicio de lo anterior, los partidos políticos que hayan perdido su registro seguirán sujetos a la fiscalización que realice la autoridad electoral respecto de los recursos utilizados en el último proceso electoral en el que hubieren participado. Asimismo, la pérdida del registro no exime a dichos partidos políticos de las responsabilidades en que hayan incurrido con motivo del ejercicio de sus derechos y prerrogativas, ni a sus dirigentes.
 
@@ -1379,7 +1379,7 @@ VII.- En caso de ausencia definitiva de algún Consejero Electoral, el Congreso 
 
 VIII.- La designación de los Consejeros Electorales y del Consejero Presidente, deberá realizarse a más tardar en el mes de octubre del año anterior al de la elección, para un periodo de siete años; y
 
-IX.- El Congreso del Estado podrá remover a los Consejeros Electorales en los casos que establece el artículo 173 de éste Código.
+IX.- El Congreso del Estado podrá remover a los Consejeros Electorales en los casos que establece el artículo 173 de este Código.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1572,8 +1572,6 @@ LVI.- Autorizar al Presidente y al Secretario Ejecutivo, de ser el caso, a celeb
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 LVII.- Organizar los procedimientos y mecanismos para promover y recabar el voto de los poblanos residentes en el extranjero únicamente para la elección de Gobernador del Estado; para lo cual podrá aprobar los acuerdos y suscribir los convenios correspondientes, así como elaborar el listado de poblanos residentes en el extranjero; y
-
-> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN LVII, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 29 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER LVIII.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -1935,7 +1933,7 @@ II.- Capacitación Electoral y Educación Cívica;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
-III.- Prerrogativas, Partidos Políticos y Medios de Comunicación; y (sic)
+III.- Prerrogativas, Partidos Políticos y Medios de Comunicación; y
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -2729,7 +2727,7 @@ VIII.- No tener ni haber tenido cargo alguno de elección popular, ni haber sido
 
 IX.- No desempeñar o haber desempeñado cargo de dirección nacional, estatal, distrital o municipal de organizaciones o asociaciones vinculadas a algún partido político, en los seis años anteriores a la fecha de su designación;
 
-X.- No ser ni haber sido Procurador General Justicia ni del Ciudadano, Secretario o Subsecretario de la administración pública estatal, Agente del Ministerio Público, Secretario General, Tesorero, Contralor ni Director de Ayuntamiento o Delegado de la administración pública federal en el Estado, durante los seis años anteriores a la fecha de su designación; y
+X.- No ser ni haber sido Procurador General de Justicia ni del Ciudadano, Secretario o Subsecretario de la administración pública estatal, Agente del Ministerio Público, Secretario General, Tesorero, Contralor ni Director de Ayuntamiento o Delegado de la administración pública federal en el Estado, durante los seis años anteriores a la fecha de su designación; y
 
 XI.- No ser ni haber sido Ministro de culto religioso alguno, en términos de la legislación aplicable.
 
@@ -3045,7 +3043,7 @@ VI.- Las demás que les confiere este Código y las disposiciones relativas.
 
 ###### ARTÍCULO 146.
 
-Los Presidentes de la Casillas tendrán las atribuciones siguientes:
+Los Presidentes de las Casillas tendrán las atribuciones siguientes:
 
 I.- Vigilar el cumplimiento de este Código sobre los aspectos relativos al funcionamiento de las Casillas;
 
@@ -3133,7 +3131,7 @@ Los Consejos Distritales y Municipales deberán contar con un número de emplead
 
 ###### ARTÍCULO 151.
 
-Los empleados eventuales serán aquellos que se contraten por un tiempo determinado y para la realización de una actividad específica.
+Los empleados eventuales serán aquéllos que se contraten por un tiempo determinado y para la realización de una actividad específica.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -3209,7 +3207,7 @@ VI.- Las demás que expresamente les confieran los Consejos Distritales, Consejo
 
 ###### ARTÍCULO 153.
 
-La función establecida en la fracción I del apartado B del artículo que antecede, será realizada previamente a la jornada electoral, y una vez cumplida, los Auxiliares Electorales se avocarán (sic) al desempeño de las restantes.
+La función establecida en la fracción I del apartado B del artículo que antecede, será realizada previamente a la jornada electoral, y una vez cumplida, los Auxiliares Electorales se avocarán al desempeño de las restantes.
 
 ## TÍTULO CUARTO. DISPOSICIONES COMUNES AL CONSEJO GENERAL Y A LOS CONSEJOS DISTRITALES Y MUNICIPALES
 
@@ -3415,7 +3413,7 @@ f) El monto autorizado para gastos de precampaña.
 
 IV.- Los partidos políticos dispondrán lo necesario a fin de que los aspirantes a candidatos, sean reconocidos como tales, extendiéndoles la constancia de registro respectiva; se exceptúan los municipios en donde el candidato de los partidos políticos se determine mediante el método de usos y costumbres;
 
-V.- La propaganda de las precampañas se sujetará a las disposiciones contenidas en el presente Código relativas a la propaganda electoral así como a los lineamientos que expida el Consejo Cultural;
+V.- La propaganda de las precampañas se sujetará a las disposiciones contenidas en el presente Código relativas a la propaganda electoral así como a los lineamientos que expida el Consejo General;
 
 VI.- Una vez terminadas las precampañas que realicen los partidos políticos, en la fase de precandidaturas, la propaganda que se utilizó deberá ser retirada en términos de la fracción XIII del artículo 54 por los aspirantes a candidato o por el partido político al que pertenece o bajo el que hizo precampaña.
 
@@ -3921,7 +3919,7 @@ V.- Al concluir dicha sesión los Consejeros Presidentes de los Consejos respect
 
 ###### ARTÍCULO 214.
 
-El Consejero Presidente del Consejo General enviará para su publicación oportuna, por solo una vez, en el Periódico Oficial del Estado y en los periódicos de mayor circulación, la relación completa de candidatos registrados, el cargo y el partido político que los postulan.
+El Consejero Presidente del Consejo General enviará para su publicación oportuna, por sólo una vez, en el Periódico Oficial del Estado y en los periódicos de mayor circulación, la relación completa de candidatos registrados, el cargo y el partido político que los postulan.
 
 De igual manera se publicarán las cancelaciones de registro o sustituciones de candidatos que procedan.
 
@@ -4071,7 +4069,7 @@ II.- Se colocará o fijará en inmuebles de propiedad privada, siempre que medie
 
 III.- Previo acuerdo con las autoridades correspondientes y conforme a las bases que el propio Consejo General establezca, podrá fijarse en los lugares de uso común que determinen los Consejos Distritales; para tal efecto, los Ayuntamientos de los Municipios de la Entidad deberán remitir al Consejo General, a más tardar en el mes de junio del año de la elección, la relación de lugares de uso común que se podrán utilizar para ese fin;
 
-IV.- No podrá adherirse o pintarse en elementos del equipamiento urbano, carretero o ferroviario ni en accidentes geográficos o árboles, cualquiera que sea su régimen jurídico;
+IV.- No podrá adherirse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos o árboles, cualquiera que sea su régimen jurídico;
 
 V.- No podrá colgarse, fijarse ni pintarse en monumentos, construcciones y zonas de valor histórico o cultural determinadas por las autoridades competentes, ni en los edificios públicos;
 
@@ -4095,7 +4093,7 @@ En los casos previstos en los dos artículos anteriores, los órganos del Instit
 
 ###### ARTÍCULO 235.
 
-Los partidos políticos deberán retirar su propaganda electoral utilizada dentro de un plazo no mayor de treinta días posteriores a la jornada electoral de que se trate, e informar de inmediato al Consejo General del cumplimiento de ésta obligación. Al efecto, los partidos políticos podrán convenir con los Ayuntamientos respectivos el costo por el retiro de su propaganda.
+Los partidos políticos deberán retirar su propaganda electoral utilizada dentro de un plazo no mayor de treinta días posteriores a la jornada electoral de que se trate, e informar de inmediato al Consejo General del cumplimiento de esta obligación. Al efecto, los partidos políticos podrán convenir con los Ayuntamientos respectivos el costo por el retiro de su propaganda.
 
 Los partidos políticos, coaliciones, en su caso, y candidatos que utilicen material biodegradable en su propaganda electoral, no estarán sujetos a lo dispuesto en el párrafo anterior.
 
@@ -4541,7 +4539,7 @@ Igualmente no podrán aprehender a un elector, sino hasta después de que haya v
 
 El día de la jornada electoral y el anterior a ella, estará prohibida la venta de bebidas embriagantes, por lo que deberán permanecer cerrados durante esos días los lugares, locales, puestos ambulantes o establecimientos que en cualquiera de sus giros los expendan. Las autoridades competentes deberán vigilar en todo momento el cumplimiento incondicional de esta disposición.
 
-En el día de la jornada electoral, solo podrán portar armas los miembros uniformados de las fuerzas públicas encargadas del orden.
+En el día de la jornada electoral, sólo podrán portar armas los miembros uniformados de las fuerzas públicas encargadas del orden.
 
 ### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DE LOS PAQUETES ELECTORALES
 
@@ -4573,7 +4571,7 @@ Si a las ocho horas con quince minutos no estuviera integrada debidamente la Cas
 
 I.- Si estuviera el Presidente pero no se presentara alguno o algunos de los propietarios, aquél designará al suplente o suplentes generales o a los electores presentes necesarios que entrarán en funciones;
 
-II.- En ausencia del Presidente, pero no del Secretario, éste último asumirá las funciones de Presidente y procederá a la instalación de la Casilla en términos de la fracción anterior;
+II.- En ausencia del Presidente, pero no del Secretario, este último asumirá las funciones de Presidente y procederá a la instalación de la Casilla en términos de la fracción anterior;
 
 III.- Faltando el Presidente y el Secretario, pero estando presente alguno de los escrutadores, éste asumirá las funciones de Presidente y procederá a la instalación de la Casilla en términos de la fracción I de este artículo;
 
@@ -4667,7 +4665,7 @@ III.- Los Notarios Públicos en ejercicio, los Jueces de Primera Instancia y Men
 
 IV.- Los funcionarios de los órganos del Instituto que fueren llamados por el Presidente de la Casilla.
 
-Los representantes generales permanecerán en la Casilla el tiempo necesario para cumplir con las funciones que les fija éste Código. El Presidente de la Casilla podrá conminarlos a cumplir con sus funciones y, en su caso, ordenar su retiro cuando el representante deje de cumplir con su función, coaccione a los electores o en cualquier forma afecte el desarrollo normal de la votación.
+Los representantes generales permanecerán en la Casilla el tiempo necesario para cumplir con las funciones que les fija este Código. El Presidente de la Casilla podrá conminarlos a cumplir con sus funciones y, en su caso, ordenar su retiro cuando el representante deje de cumplir con su función, coaccione a los electores o en cualquier forma afecte el desarrollo normal de la votación.
 
 En ningún caso se permitirá el acceso a la Casilla a personas que se encuentran privadas de sus facultades mentales, intoxicadas bajo el influjo de enervantes, en estado de ebriedad, embozadas o armadas.
 
@@ -4747,11 +4745,11 @@ IV.- Boletas sobrantes.
 
 Para el llenado del acta de escrutinio y cómputo deberá estarse a lo siguiente:
 
-I.- Voto válido será aquella boleta electoral en la que el ciudadano marcó un sólo emblema;
+I.- Voto válido será aquella boleta electoral en la que el ciudadano marcó un solo emblema;
 
-II.- Voto nulo será aquella boleta electoral en la que el ciudadano no marcó un sólo emblema;
+II.- Voto nulo será aquella boleta electoral en la que el ciudadano no marcó un solo emblema;
 
-III.- Boletas electorales sobrantes serán aquellas que habiendo sido entregadas a la Casilla, no fueron utilizadas por los electores;
+III.- Boletas electorales sobrantes serán aquéllas que habiendo sido entregadas a la Casilla, no fueron utilizadas por los electores;
 
 IV.- Los votos emitidos en favor de candidatos no registrados se asentarán en el renglón respectivo; y
 
@@ -5079,7 +5077,7 @@ II.- Cómputo final de la elección de Diputados por el principio de mayoría re
 
 III.- Cómputo distrital de la elección de Diputados por el principio de representación proporcional.
 
-Los Consejos Distritales practicarán los cómputos en forma ininterrumpida hasta concluir cada uno de estos.
+Los Consejos Distritales practicarán los cómputos en forma ininterrumpida hasta concluir cada uno de éstos.
 
 ###### ARTÍCULO 314.
 
@@ -5397,13 +5395,13 @@ La remuneración que perciban los Magistrados durante el tiempo que duren en el 
 
 Los Magistrados en funciones no podrán desempeñar empleo, cargo o comisión de la Federación, de los Estados, de los Municipios o de los partidos políticos.
 
-Los Magistrados no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+Los Magistrados no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Tribunal y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 333.
 
-El Magistrado que por cualquier razón tenga interés personal que pudiera afectar su imparcialidad en la resolución de algún recurso, deberá excusarse de inmediato una vez que conozca del impedimento, dando aviso de ello al Pleno. Si se trata del Magistrado designado como Ponente, deberá excusarse al día siguiente de aquel en que haya recibido la impugnación.
+El Magistrado que por cualquier razón tenga interés personal que pudiera afectar su imparcialidad en la resolución de algún recurso, deberá excusarse de inmediato una vez que conozca del impedimento, dando aviso de ello al Pleno. Si se trata del Magistrado designado como Ponente, deberá excusarse al día siguiente de aquél en que haya recibido la impugnación.
 
 Los Magistrados y demás servidores públicos del Tribunal, deberán guardar absoluta reserva sobre los asuntos del Tribunal.
 
@@ -5423,7 +5421,7 @@ III.- La incapacidad total y permanente que le impida ejercer el cargo.
 
 ###### ARTÍCULO 336.
 
-Se considerarán ausencias temporales, aquellas que por su duración no cumplan con los extremos del artículo anterior y sean justificadas con los documentos conducentes.
+Se considerarán ausencias temporales, aquéllas que por su duración no cumplan con los extremos del artículo anterior y sean justificadas con los documentos conducentes.
 
 ###### ARTÍCULO 337.
 
@@ -5603,7 +5601,7 @@ III.- Inconformidad.
 
 ###### ARTÍCULO 349.
 
-La revisión es el recurso administrativo a través del cual se combaten los actos o resoluciones de los Consejos Distritales o Municipales o aquellos que produzcan efectos similares. El término para interponerlo será de tres días, contados a partir del día siguiente a aquél en que se tenga conocimiento del acto que se recurre.
+La revisión es el recurso administrativo a través del cual se combaten los actos o resoluciones de los Consejos Distritales o Municipales o aquéllos que produzcan efectos similares. El término para interponerlo será de tres días, contados a partir del día siguiente a aquél en que se tenga conocimiento del acto que se recurre.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -5701,7 +5699,7 @@ b) Los documentos que expidan las demás autoridades federales, estatales o muni
 
 c) Los documentos realizados por quienes se les confiere fe pública y en los que consten hechos que les sean propios.
 
-II.- Documentales privadas, aquellas que no se encuentran contempladas en la fracción anterior, que sean ofrecidas por las partes y sean correspondientes;
+II.- Documentales privadas, aquéllas que no se encuentran contempladas en la fracción anterior, que sean ofrecidas por las partes y sean correspondientes;
 
 III.- Las pruebas técnicas son aquellos medios de producción de imagen y sonidos. El oferente deberá señalar concretamente y por escrito el hecho que intenta probar y las circunstancias de modo, tiempo y persona que se aprecian en la prueba; y
 
@@ -5825,7 +5823,7 @@ VIII.- No se cumpla con alguno de los requisitos que este Código exige.
 
 ###### ARTÍCULO 370.
 
-En caso de que el recurrente señale erróneamente las disposiciones legales presuntamente violadas o las omita, el recurso será resuelto con fundamento en aquellas que le sean aplicables.
+En caso de que el recurrente señale erróneamente las disposiciones legales presuntamente violadas o las omita, el recurso será resuelto con fundamento en aquéllas que le sean aplicables.
 
 Para la resolución de los recursos, el juzgador deberá suplir, en su caso, la deficiencia en la expresión de agravios, si los mismos pueden deducirse de los hechos expuestos por el recurrente.
 
@@ -6080,6 +6078,10 @@ En toda resolución que emita el Tribunal deberán valorarse las circunstancias 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
 El pago de las multas a que se refiere este artículo deberá ser realizado por los sujetos sancionados, ante la Secretaría de Finanzas del Estado, dentro de los quince días siguientes a aquél en que se les notifique la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2015)</small>
+
+Los recursos obtenidos por la aplicación de sanciones económicas, derivadas de infracciones, cometidas por los sujetos del régimen sancionador electoral, serán destinados al Consejo de Ciencia y Tecnología del Estado de Puebla, en los términos de este Código y la legislación aplicable.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -6340,3 +6342,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Lo dispuesto por el presente Decreto no se aplicará a los procedimientos electorales extraordinarios de los Municipios de Cuapiaxtla de Madero y Acajete.
+
+P.O. 12 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
