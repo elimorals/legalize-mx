@@ -4,7 +4,7 @@ identifier: "LFPPIPP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-06-08"
-last_updated: "2012-06-08"
+last_updated: "2015-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPPIPP"
 
 LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de junio de 2012.
 
@@ -204,9 +204,11 @@ La Unidad contará con un área de análisis de riesgo que apoyará en la elabor
 
 ### CAPÍTULO IV. DEL PROGRAMA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 13.
 
-El presente Programa tendrá aplicación exclusivamente para aquellos casos en los que se encuentren relacionadas personas que estén en una situación de riesgo por su participación de forma directa o indirecta en un procedimiento penal que verse sobre delitos graves o delincuencia organizada.
+El presente Programa tendrá aplicación exclusivamente para aquellos casos en los que se encuentren relacionadas personas que estén en una situación de riesgo por su participación de forma directa o indirecta en un procedimiento penal que verse sobre delitos graves, delincuencia organizada o cuando las disposiciones de los Tratados Internacionales de los que el Estado mexicano sea parte establezcan expresamente la obligación de proporcionar dicha protección.
 
 En los demás casos corresponderá al Ministerio Público y a sus auxiliares dictar y ejecutar las medidas de protección distintas a las de aplicación exclusiva por el Director del Centro, tendientes a garantizar la seguridad de las personas que se encuentren en una situación de riesgo, por su participación dentro de alguna de las etapas del procedimiento penal, entre las cuales se podrán tomar en cuenta las previstas en los artículos 17, fracciones I, II y V, y 18, fracciones I, incisos a) y b), II, IV, V, VIII, incisos a), b) y c) y X del presente ordenamiento; así como las demás que estime pertinentes o las que se encuentren previstas en los ordenamientos legales aplicables.
 
@@ -651,3 +653,9 @@ CUARTO. Se derogan todas aquellas disposiciones contrarias al objeto de esta Ley
 México, D.F., a 27 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Mariano Quihuis Fragoso, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE MARZO DE 2015.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
