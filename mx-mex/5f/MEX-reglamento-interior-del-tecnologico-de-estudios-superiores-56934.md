@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-5693
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-13"
-last_updated: "2014-03-05"
+last_updated: "2015-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE JOCOTITLÁN
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 13 de agosto de 2007.
 
@@ -145,7 +145,21 @@ XI. División de Ingeniería Mecatrónica.
 
 XII. División de Licenciatura en Contaduría.
 
-XIII. Unidad Jurídica.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2015)</small>
+
+XIII. División de Ingeniería en Gestión Empresarial.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2015)</small>
+
+XIV. División de Ingeniería Química.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2015)</small>
+
+XV. División de Ingeniería en Materiales.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2015)</small>
+
+XVI. Unidad Jurídica.
 
 (REPUBLICADO, G.G. 5 DE MARZO DE 2014)
 
@@ -209,11 +223,11 @@ XIX. Las demás que le señalen otras disposiciones legales y aquellas que le en
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
-> <small>(REFORMADO, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 12 DE MARZO DE 2015)</small>
 
 ###### Artículo 14.
 
-Corresponde a la Dirección Académica planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería electromecánica, ingeniería industrial, ingeniería en sistemas computacionales, arquitectura, ingeniería mecatrónica y licenciatura en contaduría, así como coordinar los servicios escolares y de cómputo y promover el desarrollo académico y de investigación del Tecnológico.
+Corresponde a la Dirección Académica planear, coordinar. Dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería electromecánica, Ingeniería Industrial, Ingeniería en Sistemas Computacionales, Arquitectura, Ingeniería Mecatrónica, Licenciatura en Contaduría, Ingeniería en gestión Empresarial, Ingeniería Química e Ingeniería en Materiales, así como coordinar los Servicios de Computo, promover el desarrollo académico y de investigación del Tecnológico.
 
 > <small>(REFORMADO, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
 
@@ -236,6 +250,18 @@ VI. División de Arquitectura.
 VII. División de Ingeniería Mecatrónica.
 
 VIII. División de Licenciatura en Contaduría.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2015)</small>
+
+IX. División de Ingeniería en Gestión Empresarial.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2015)</small>
+
+X. División de Ingeniería Química.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2015)</small>
+
+XI. División de Ingeniería en Materiales.
 
 ###### Artículo 16.
 
@@ -512,6 +538,14 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
 
 G.G. 5 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 12 DE MARZO DE 2015.
 
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
