@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-los-derechos-de-las-ninas-los-25112"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2014-07-06"
+last_updated: "2015-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de mayo de 2002.
 
@@ -1022,3 +1024,27 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Durango aprobada mediante Decreto No. 61 de la LXII Legislatura de fecha 30 de Abril de 2002, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 41 de fecha 23 de Mayo de 2002 y sus reformas posteriores.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, deberá constituirse a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Para el presente ejercicio presupuestal funcionará con los recursos humanos, materiales y financieros que tiene asignados la Procuraduría de la Defensa del Menor, la Mujer y la Familia, y aquellos, que en su caso le asigne la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
+
+A partir del siguiente ejercicio presupuestal, de acuerdo a la disponibilidad con que cuente el Estado en su Ley de Egresos, le serán asignados los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos del artículo anterior, el Sistema para el Desarrollo Integral de la Familia del Estado de Durango deberá reformar su Estatuto Orgánico, a fin de que la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, quede integrada con las respectivas unidades administrativas para su adecuado funcionamiento.
+
+###### ARTÍCULO QUINTO.
+
+Los Sistemas Municipales deberán reformar su normativa orgánica en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, a fin de ajustarse a lo dispuesto por la Ley general.
