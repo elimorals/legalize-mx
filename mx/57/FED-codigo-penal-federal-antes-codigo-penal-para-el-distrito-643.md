@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2014-07-14"
+last_updated: "2015-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2015.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3173,13 +3173,13 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 ARTICULO 222 bis.- Se impondrán las penas previstas en el artículo anterior al que con el propósito de obtener o retener para sí o para otra persona ventajas indebidas en el desarrollo o conducción de transacciones comerciales internacionales, ofrezca, prometa o dé, por sí o por interpósita persona, dinero o cualquiera otra dádiva, ya sea en bienes o servicios:
 
-> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2015)</small>
 
-I. A un servidor público extranjero o a un tercero que éste determine, para que dicho servidor público gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
+I. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
 
-> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2015)</small>
 
-II. A un servidor público extranjero, o a un tercero que éste determine, para que dicho servidor público lleve a cabo la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión, o
+II. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión, o
 
 III. A cualquier persona para que acuda ante un servidor público extranjero y le requiera o le proponga llevar a cabo la tramitación o resolución de cualquier asunto relacionado con las funciones inherentes al empleo, cargo o comisión de este último.
 
@@ -3271,9 +3271,13 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 Cometen el delito de cohecho:
 
-I.- El servidor público que por sí, o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquiera otra dádiva, o acepte una promesa, para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones, y
+> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2015)</small>
 
-II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto justo o injusto relacionado con sus funciones.
+I. El servidor público que por sí, o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquiera otra dádiva, o acepte una promesa, para hacer o dejar de realizar un acto relacionado con sus funciones inherentes a su empleo, cargo o comisión, y
+
+> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2015)</small>
+
+II. El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión.
 
 Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 
@@ -7220,6 +7224,10 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 12 DE MARZO DE 2015.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
