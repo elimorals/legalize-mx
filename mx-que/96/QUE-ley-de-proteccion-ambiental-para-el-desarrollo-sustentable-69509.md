@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-ambiental-para-el-desarrollo-sustentable-6950
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2012-10-05"
+last_updated: "2015-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -109,123 +109,147 @@ IV. Ambiente: el conjunto de elementos naturales o inducidos por el ser humano, 
 
 V. Aprovechamiento sustentable: la utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte;
 
-VI. Áreas naturales protegidas: las zonas de la Entidad que han quedado sujetas al régimen de protección, para preservar y conservar ambientes naturales y salvaguardar la biodiversidad, lograr el aprovechamiento sustentable de los recursos naturales, preservar y mejorar la calidad del entorno y los servicios ambientales que los ecosistemas otorgan;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
-VII. Auditoría ambiental: los procesos de verificación y autorregulación ambiental que desarrollen voluntariamente las empresas, productores y organizaciones empresariales, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y alcanzar mayores niveles, metas o beneficios en materia de protección ambiental;
+VI. Arbolado: las formaciones vegetales que van desde ejemplares aislados a árboles sistemáticamente ordenados, que se ubican en terrenos periurbanos, sistemas agroforestales, parques, jardines y áreas verdes urbanas. Se caracterizan por presentar un tallo leñoso, de ciclo perene que crecen y se desarrollan de forma natural o inducida, muestran un solo tallo principal o en el caso de arbustos que están presentes en el monte bajo, varios tallos que forman una copa definida, se incluyen las especies crasas y exóticas;
 
-VIII. Banco de material: depósito natural o yacimiento geológico de grava, piedra, tezontle, tepetate, arena, arenilla, tepecil o cualquier material no metálico derivado de las rocas o de procesos de sedimentación o metamorfismo que sean susceptibles de utilizarse como material de construcción, como agregado de estos o como elementos de ornamentación;
+VII. Áreas naturales protegidas: las zonas de la Entidad que han quedado sujetas al régimen de protección, para preservar y conservar ambientes naturales y salvaguardar la biodiversidad, lograr el aprovechamiento sustentable de los recursos naturales, preservar y mejorar la calidad del entorno y los servicios ambientales que los ecosistemas otorgan;
 
-IX. Biodiversidad: la variedad de la vida y sus procesos; de los organismos vivos, sus diferencias genéticas, las comunidades y ecosistemas en los cuales ocurren y los mantienen funcionando, cambiando y adaptándose;
+VIII. Auditoría ambiental: los procesos de verificación y autorregulación ambiental que desarrollen voluntariamente las empresas, productores y organizaciones empresariales, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y alcanzar mayores niveles, metas o beneficios en materia de protección ambiental;
 
-X. Cambio climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
-XI. Conservación: la gestión de los recursos naturales tales como el aire, agua, suelo y organismos vivos, que incluye el estudio, investigación, legislación, administración, preservación, utilización, educación y formación de la cultura ambiental;
+IX. Autorización de desmonte de arbolado y limpieza de terrenos: el documento emitido por la autoridad municipal correspondiente, mediante el cual se le da permiso al propietario de un terreno para realizar acciones de desmonte de arbolado y limpieza;
 
-XII. Contaminación: la presencia en el ambiente de contaminantes en cantidades, concentraciones o niveles capaces de interferir negativamente en el bienestar y la salud de los organismos vivos;
+X. Banco de material: depósito natural o yacimiento geológico de grava, piedra, tezontle, tepetate, arena, arenilla, tepecil o cualquier material no metálico derivado de las rocas o de procesos de sedimentación o metamorfismo que sean susceptibles de utilizarse como material de construcción, como agregado de estos o como elementos de ornamentación;
 
-XIII. Contaminación visual: la alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio, cuya presencia resulte no armónica con la estética del lugar;
+XI. Biodiversidad: la variedad de la vida y sus procesos; de los organismos vivos, sus diferencias genéticas, las comunidades y ecosistemas en los cuales ocurren y los mantienen funcionando, cambiando y adaptándose;
 
-XIV. Contaminante: toda materia o energía que al incorporarse al ambiente resulte nociva para los organismos vivos que lo habitan;
+XII. Cambio climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables;
 
-XV. Contingencia ambiental: la situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
+XIII. Conservación: la gestión de los recursos naturales tales como el aire, agua, suelo y organismos vivos, que incluye el estudio, investigación, legislación, administración, preservación, utilización, educación y formación de la cultura ambiental;
 
-XVI. Control: los actos de inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+XIV. Contaminación: la presencia en el ambiente de contaminantes en cantidades, concentraciones o niveles capaces de interferir negativamente en el bienestar y la salud de los organismos vivos;
 
-XVII. Criterios ambientales: los lineamientos obligatorios derivados de la presente Ley y demás disposiciones legales aplicables, orientados a restaurar y preservar el equilibrio ecológico, proteger el ambiente y propiciar el desarrollo sustentable;
+XV. Contaminación visual: la alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio, cuya presencia resulte no armónica con la estética del lugar;
 
-XVIII. Cultura ambiental: el conjunto de conocimientos, hábitos y actitudes que estimulan a la sociedad a actuar en armonía con la naturaleza;
+XVI. Contaminante: toda materia o energía que al incorporarse al ambiente resulte nociva para los organismos vivos que lo habitan;
 
-XIX. Daño ambiental: el menoscabo actual o remoto que se ocasiona o puede ocasionarse a los intereses particulares o colectivos, a partir de los efectos adversos que operan sobre la calidad de vida de los seres vivos;
+XVII. Contingencia ambiental: la situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
 
-XX. Desarrollo sustentable: el proceso participativo para mejorar continuamente la calidad de vida de las actuales y futuras generaciones, que implica el respeto a la naturaleza y la distribución equitativa de los beneficios del progreso;
+XVIII. Control: los actos de inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XXI. Ecosistema: la unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el medio físico, en un espacio y tiempo determinados;
+XIX. Criterios ambientales: los lineamientos obligatorios derivados de la presente Ley y demás disposiciones legales aplicables, orientados a restaurar y preservar el equilibrio ecológico, proteger el ambiente y propiciar el desarrollo sustentable;
 
-XXII. Educación ambiental: el proceso permanente y sistematizado de enseñanza aprendizaje, mediante el cual el individuo adquiere conciencia de ser parte integrante de la naturaleza, para actuar positivamente hacia ella;
+XX. Cultura ambiental: el conjunto de conocimientos, hábitos y actitudes que estimulan a la sociedad a actuar en armonía con la naturaleza;
 
-XXIII. Elementos naturales: los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin inducción del ser humano;
+XXI. Daño ambiental: el menoscabo actual o remoto que se ocasiona o puede ocasionarse a los intereses particulares o colectivos, a partir de los efectos adversos que operan sobre la calidad de vida de los seres vivos;
 
-XXIV. Emergencia ambiental: la situación derivada de actividades humanas o fenómenos naturales que, al afectar severamente a sus elementos, pone en peligro la integridad de uno o varios ecosistemas;
+XXII. Desarrollo sustentable: el proceso participativo para mejorar continuamente la calidad de vida de las actuales y futuras generaciones, que implica el respeto a la naturaleza y la distribución equitativa de los beneficios del progreso;
 
-XXV. Equilibrio ecológico: la relación armónica de interdependencia entre los elementos que conforman el ambiente y hace posible la existencia, transformación y desarrollo de los seres vivos;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
-XXVI. Especie amenazada: la especie que se encuentra amenazada de extinción por factores que ocasionen el deterioro o modificación de su hábitat o que disminuyan sus poblaciones;
+XXIII. Desmonte de arbolado: el retiro total o parcial del arbolado, que por exclusión, no es de competencia federal al no caracterizarse el terreno como forestal;
 
-XXVII. Especie endémica: aquélla cuyo ámbito de distribución natural se encuentra circunscrito únicamente al territorio nacional y las zonas donde la Nación ejerce su soberanía y jurisdicción;
+XXIV. Ecosistema: la unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el medio físico, en un espacio y tiempo determinados;
 
-XXVIII. Especie en peligro de extinción: la especie cuyas áreas de distribución o tamaño poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica en todo su rango de distribución;
+XXV. Educación ambiental: el proceso permanente y sistematizado de enseñanza aprendizaje, mediante el cual el individuo adquiere conciencia de ser parte integrante de la naturaleza, para actuar positivamente hacia ella;
 
-XXIX. Especie rara: la especie cuya población es biológicamente viable, pero muy escasa de manera natural, pudiendo estar restringida a un área de distribución reducida o hábitats muy específicos;
+XXVI. Elementos naturales: los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin inducción del ser humano;
 
-XXX. Especie sujeta a protección especial: la especie sujeta a limitaciones o vedas en su aprovechamiento, por tener poblaciones reducidas o una distribución geográfica restringida o para propiciar su recuperación y conservación o la recuperación y conservación de especies asociadas;
+XXVII. Emergencia ambiental: la situación derivada de actividades humanas o fenómenos naturales que, al afectar severamente a sus elementos, pone en peligro la integridad de uno o varios ecosistemas;
 
-XXXI. Evaluación de impacto ambiental: el procedimiento mediante el cual las autoridades competentes determinan la pertinencia de la ejecución de obras o actividades específicas, estableciendo, en su caso, las condiciones a que éstas deban sujetarse para evitar o atenuar sus efectos negativos en el equilibrio ecológico o al ambiente;
+XXVIII. Equilibrio ecológico: la relación armónica de interdependencia entre los elementos que conforman el ambiente y hace posible la existencia, transformación y desarrollo de los seres vivos;
 
-XXXII. Fauna silvestre: las especies animales terrestres que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio estatal y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del ser humano, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+XXIX. Especie amenazada: la especie que se encuentra amenazada de extinción por factores que ocasionen el deterioro o modificación de su hábitat o que disminuyan sus poblaciones;
 
-XXXIII. Flora silvestre: las especies vegetales terrestres que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal, incluyendo las poblaciones o individuos de éstas, que se encuentran bajo control del ser humano;
+XXX. Especie endémica: aquélla cuyo ámbito de distribución natural se encuentra circunscrito únicamente al territorio nacional y las zonas donde la Nación ejerce su soberanía y jurisdicción;
 
-XXXIV. Flora y fauna acuáticas: las especies biológicas y elementos biogénicos que tienen medio de vida temporal, parcial o permanentemente el agua;
+XXXI. Especie en peligro de extinción: la especie cuyas áreas de distribución o tamaño poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica en todo su rango de distribución;
 
-XXXV. Fondo Ambiental: el Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro;
+XXXII. Especie rara: la especie cuya población es biológicamente viable, pero muy escasa de manera natural, pudiendo estar restringida a un área de distribución reducida o hábitats muy específicos;
 
-XXXVI. Gestión ambiental: las acciones de las entidades de la administración pública y de los particulares, que se realizan o tienen efectos sobre el ambiente;
+XXXIII. Especie sujeta a protección especial: la especie sujeta a limitaciones o vedas en su aprovechamiento, por tener poblaciones reducidas o una distribución geográfica restringida o para propiciar su recuperación y conservación o la recuperación y conservación de especies asociadas;
 
-XXXVII. Impacto ambiental: la modificación del ambiente ocasionada por la acción de la naturaleza o del ser humano;
+XXXIV. Evaluación de impacto ambiental: el procedimiento mediante el cual las autoridades competentes determinan la pertinencia de la ejecución de obras o actividades específicas, estableciendo, en su caso, las condiciones a que éstas deban sujetarse para evitar o atenuar sus efectos negativos en el equilibrio ecológico o al ambiente;
 
-XXXVIII. Información ambiental: la información en materia de agua, aire, suelo, flora, fauna y recursos naturales, en general, así como de las actividades o medidas relacionadas con su adaptación, preservación, mitigación, restauración o afectación;
+XXXV. Fauna silvestre: las especies animales terrestres que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio estatal y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del ser humano, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-XXXIX. Licencia ambiental: documento por el cual la Secretaría autoriza las condiciones de operación y funcionamiento de los establecimientos de competencial (sic) estatal en materia de prevención y control de contaminación atmosférica;
+XXXVI. Flora silvestre: las especies vegetales terrestres que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal, incluyendo las poblaciones o individuos de éstas, que se encuentran bajo control del ser humano;
 
-XL. Manejo integral: el conjunto de operaciones que incluyen recolección, separación, almacenamiento temporal, tratamiento, transferencia, transporte y disposición final de los residuos sólidos urbanos y de manejo especial;
+XXXVII. Flora y fauna acuáticas: las especies biológicas y elementos biogénicos que tienen como medio de vida temporal, parcial o permanentemente el agua;
 
-XLI. Manifestación de impacto ambiental: el documento mediante el cual se da a conocer el impacto ambiental significativo que podría generar la ejecución de una obra o actividad específicas, así como la forma de evitarlo o atenuarlo, si fuere éste negativo;
+XXXVIII. Fondo Ambiental: el Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro;
 
-XLII. Material peligroso: el elemento, sustancia, compuesto o la mezcla o residuo de ellos que, independientemente de su forma o estado físico, represente riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XXXIX. Gestión ambiental: las acciones de las entidades de la administración pública y de los particulares, que se realizan o tienen efectos sobre el ambiente;
 
-XLIII. Mercado local de bonos de carbono: mecanismo de transacción para el mercado local del Estado, regulado y voluntario de bonos de carbono que permite mitigar la generación de gases invernadero, haciendo pagar a las que emiten más de lo permitido;
+XL. Impacto ambiental: la modificación del ambiente ocasionada por la acción de la naturaleza o del ser humano;
 
-XLIV. Norma Oficial Mexicana: la regla, método o parámetro científico o tecnológico emitido por la dependencia federal competente, para establecer los requisitos, especificaciones, condicionantes, procedimientos o límites permisibles a observarse en el desarrollo de las actividades humanas o destino de bienes que causen o puedan causar desequilibrio ecológico o que permitan uniformar los principios, criterios y políticas en la materia;
+XLI. Información ambiental: la información en materia de agua, aire, suelo, flora, fauna y recursos naturales, en general, así como de las actividades o medidas relacionadas con su adaptación, preservación, mitigación, restauración o afectación;
 
-XLV. Norma técnica ambiental estatal: la regla, método o parámetro científico o tecnológico emitido por la dependencia competente del Estado de Querétaro, para establecer los requisitos, especificaciones, condicionantes, procedimientos o límites permisibles a observarse en el desarrollo de las actividades humanas o destino de bienes que causen o puedan causar desequilibrio ecológico o que permitan uniformar los principios, criterios y políticas en la materia;
+XLII. Licencia ambiental: documento por el cual la Secretaría autoriza las condiciones de operación y funcionamiento de los establecimientos de competencial (sic) estatal en materia de prevención y control de contaminación atmosférica;
 
-XLVI. Ordenamiento ecológico: instrumento de política ambiental integrada por el proceso de planeación y aplicación de las medidas conducentes para regular, inducir y evaluar el uso de suelo y programar el manejo de los recursos naturales y de las actividades productivas, a fin de proteger el ambiente y lograr su aprovechamiento sustentable, con base en el análisis de su deterioro, su posible recuperación y las potencialidades de su aprovechamiento;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
-XLVII. Política ambiental: conjunto de principios, lineamientos, criterios e instrumentos ambientales, para orientar la estrategia y planeación del desarrollo; la formulación de programas y proyectos; la aplicación en las acciones; y la observancia en los derechos y obligaciones de la sociedad;
+XLIII. Limpieza de terrenos: el recogimiento de todo tipo de residuos, excluyendo los considerados como peligrosos o de manejo especial y de la vegetación herbácea inducida o estacional que se encuentra en predios ubicados en zonas urbanas y rurales;
 
-XLVIII. Preservación: el conjunto de medidas y políticas para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
+XLIV. Manejo integral: el conjunto de operaciones que incluyen recolección, separación, almacenamiento temporal, tratamiento, transferencia, transporte y disposición final de los residuos sólidos urbanos y de manejo especial;
 
-XLIX. Prestadores de servicios ambientales: las personas físicas o morales que realicen asesorías, estudios, proyectos, actividades y mediciones relacionados con aspectos de los componentes ambientales y con la prevención y control de la contaminación;
+XLV. Manifestación de impacto ambiental: el documento mediante el cual se da a conocer el impacto ambiental significativo que podría generar la ejecución de una obra o actividad específicas, así como la forma de evitarlo o atenuarlo, si fuere éste negativo;
 
-L. Prevención: el conjunto de disposiciones y medidas anticipadas para prevenir y evitar el deterioro del ambiente;
+XLVI. Material peligroso: el elemento, sustancia, compuesto o la mezcla o residuo de ellos que, independientemente de su forma o estado físico, represente riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-LI. Procuraduría: la Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano;
+XLVII. Mercado local de bonos de carbono: mecanismo de transacción para el mercado local del Estado, regulado y voluntario de bonos de carbono que permite mitigar la generación de gases invernadero, haciendo pagar a las que emiten más de lo permitido;
 
-LII. Protección: el conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+XLVIII. Norma Oficial Mexicana: la regla, método o parámetro científico o tecnológico emitido por la dependencia federal competente, para establecer los requisitos, especificaciones, condicionantes, procedimientos o límites permisibles a observarse en el desarrollo de las actividades humanas o destino de bienes que causen o puedan causar desequilibrio ecológico o que permitan uniformar los principios, criterios y políticas en la materia;
 
-LIII. Recurso natural: el elemento natural susceptible de ser aprovechado por el ser humano;
+XLIX. Norma técnica ambiental estatal: la regla, método o parámetro científico o tecnológico emitido por la dependencia competente del Estado de Querétaro, para establecer los requisitos, especificaciones, condicionantes, procedimientos o límites permisibles a observarse en el desarrollo de las actividades humanas o destino de bienes que causen o puedan causar desequilibrio ecológico o que permitan uniformar los principios, criterios y políticas en la materia;
 
-LIV. Registro de Emisiones y Transferencias de Contaminantes: es el instrumento por el que se integra la información de los establecimientos sujetos a reportes sobre emisiones y transferencias de contaminantes, materiales y residuos que alteran el aire, agua, suelo y subsuelo del territorio, cuya información se integrará con los datos de las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones emitidos por las autoridades competentes en materia ambiental;
+L. Ordenamiento ecológico: instrumento de política ambiental integrada por el proceso de planeación y aplicación de las medidas conducentes para regular, inducir y evaluar el uso de suelo y programar el manejo de los recursos naturales y de las actividades productivas, a fin de proteger el ambiente y lograr su aprovechamiento sustentable, con base en el análisis de su deterioro, su posible recuperación y las potencialidades de su aprovechamiento;
 
-LV. Residuo: el material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+LI. Política ambiental: conjunto de principios, lineamientos, criterios e instrumentos ambientales, para orientar la estrategia y planeación del desarrollo; la formulación de programas y proyectos; la aplicación en las acciones; y la observancia en los derechos y obligaciones de la sociedad;
 
-LVI. Residuos peligrosos: todos aquellos residuos en cualquier estado físico, que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que les confieran peligrosidad y representen un peligro para el equilibrio ecológico o el ambiente;
+LII. Preservación: el conjunto de medidas y políticas para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LVII. Restauración: el conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones previas al disturbio que propician la evolución y continuidad de los procesos naturales;
+LIII. Prestadores de servicios ambientales: las personas físicas o morales que realicen asesorías, estudios, proyectos, actividades y mediciones relacionados con aspectos de los componentes ambientales y con la prevención y control de la contaminación;
 
-LVIII. Secretaría: la Secretaría de Desarrollo Sustentable del Estado de Querétaro;
+LIV. Prevención: el conjunto de disposiciones y medidas anticipadas para prevenir y evitar el deterioro del ambiente;
 
-LIX. Servicios ambientales: el conjunto de componentes, condiciones y procesos naturales, incluyendo especies y genes, que la sociedad puede utilizar y que ofrecen las áreas naturales protegidas por su simple existencia, tales como la biodiversidad, el mantenimiento del germoplasma con uso potencial para el beneficio humano, el mantenimiento de valores estéticos y filosóficos, la estabilidad climática, la contribución a ciclos básicos del agua, carbono y otros nutrientes y la conservación de suelos, entre otros;
+LV. Procuraduría: la Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano;
 
-LX. Tratamiento de agua residual: el proceso a que se someten las aguas residuales, con el objetivo de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
-LXI. Unidad de gestión ambiental: unidad mínima del territorio a la que se asignan determinados atributos, lineamientos y estrategias ecológicas;
+LVI. Programa de rescate y reubicación: el conjunto de actividades planeadas que gravita en cambiar un árbol, arbusto o cualquier planta del lugar físico donde se encuentra a uno distinto que presente las mismas condiciones ambientales del sitio de donde fue extraído;
 
-LXII. Visita de inspección: la supervisión que realiza el personal autorizado para verificar el cumplimiento de medidas, condicionantes u otras obligaciones a cargo del visitado, establecidas en el acto administrativo correspondiente;
+LVII. Protección: el conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-LXIII. Vocación natural: la aptitud que por sus condiciones presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos y para mantener la capacidad de renovación de las especies; y
+LVIII. Recurso natural: el elemento natural susceptible de ser aprovechado por el ser humano;
 
-LXIV. Zona de Influencia: aquella superficie aledaña a un área natural protegida, que mantiene una estrecha interacción, ecológica, social y económica con ésta.
+LIX. Registro de Emisiones y Transferencias de Contaminantes: es el instrumento por el que se integra la información de los establecimientos sujetos a reportes sobre emisiones y transferencias de contaminantes, materiales y residuos que alteran el aire, agua, suelo y subsuelo del territorio, cuya información se integrará con los datos de las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones emitidos por las autoridades competentes en materia ambiental;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LX. Rescate y reubicación de especies de flora: la actividad tendiente a cambiar de un sitio a otro los árboles, arbustos y otras especies, incluidas las crasas que, por razones de su ubicación, no son compatibles con el proyecto de arquitectura de paisaje, es necesaria su reubicación a consecuencia de la introducción de infraestructura, presentan un estado de salud físico bueno y sin daño aparente que permite prever un éxito en su trasplante, o que por motivos de representación de la especie o legado cultural, amerita ser rescatado y preservado;
+
+LXI. Residuo: el material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+LXII. Residuos peligrosos: todos aquellos residuos en cualquier estado físico, que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que les confieran peligrosidad y representen un peligro para el equilibrio ecológico o el ambiente;
+
+LXIII. Restauración: el conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones previas al disturbio que propician la evolución y continuidad de los procesos naturales;
+
+LXIV. Secretaría: la Secretaría de Desarrollo Sustentable del Estado de Querétaro;
+
+LXV. Servicios ambientales: el conjunto de componentes, condiciones y procesos naturales, incluyendo especies y genes, que la sociedad puede utilizar y que ofrecen las áreas naturales protegidas por su simple existencia, tales como la biodiversidad, el mantenimiento del germoplasma con uso potencial para el beneficio humano, el mantenimiento de valores estéticos y filosóficos, la estabilidad climática, la contribución a ciclos básicos del agua, carbono y otros nutrientes y la conservación de suelos, entre otros;
+
+LXVI. Tratamiento de agua residual: el proceso a que se someten las aguas residuales, con el objetivo de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+
+LXVII. Unidad de gestión ambiental: unidad mínima del territorio a la que se asignan determinados atributos, lineamientos y estrategias ecológicas;
+
+LXVIII. Visita de inspección: la supervisión que realiza el personal autorizado para verificar el cumplimiento de medidas, condicionantes u otras obligaciones a cargo del visitado, establecidas en el acto administrativo correspondiente;
+
+LXIX. Vocación natural: la aptitud que por sus condiciones presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos y para mantener la capacidad de renovación de las especies; y
+
+LXX. Zona de Influencia: aquella superficie aledaña a un área natural protegida, que mantiene una estrecha interacción, ecológica, social y económica con ésta.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2012)</small>
 
@@ -237,7 +261,7 @@ LXIV. Zona de Influencia: aquella superficie aledaña a un área natural protegi
 
 Son autoridades responsables de aplicar la presente Ley:
 
-I. El Poder Ejecutivo del Estado, directamente o a través de la Secretaría o de las dependencias o entidades paraestatales que por disposición de esta Ley o de cualquier otro ordenamiento legal, deban participar en las actividades relacionadas con la protección del ambiente y el desarrollo sustentable en el Estado de Querétaro; y (sic)
+I. El Poder Ejecutivo del Estado, directamente o a través de la Secretaría o de las dependencias o entidades paraestatales que por disposición de esta Ley o de cualquier otro ordenamiento legal, deban participar en las actividades relacionadas con la protección del ambiente y el desarrollo sustentable en el Estado de Querétaro; y
 
 II. Las autoridades municipales del Estado de Querétaro, atendiendo a su naturaleza y competencia.
 
@@ -463,9 +487,9 @@ XIX. Establecer, implementar y expedir los instrumentos legales, técnicos, admi
 
 XX. Crear el Fondo Municipal para la Protección Ambiental y el Desarrollo Sustentable, de conformidad con lo establecido en el Reglamento de esta Ley;
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-XXI. Expedir los permisos y autorizaciones que, por exclusión, no sean de competencia federal en materia de desmonte de arbolado y limpieza de terrenos, en coordinación con la Secretaría y demás autoridades competentes;
+XXI. Expedir los permisos y autorizaciones que, por exclusión, no sean terrenos con vegetación forestal de competencia federal en materia de desmonte y limpieza de terrenos, en coordinación con la Secretaría y demás autoridades competentes; la norma técnica ambiental estatal en la materia fijará las bases para su aplicación;
 
 > <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
@@ -1215,9 +1239,17 @@ IV. El desarrollo de programas de investigación de los problemas ambientales qu
 
 V. El reuso y reciclaje de los residuos sólidos no peligrosos;
 
-VI. La creación y puesta en marcha de cursos, talleres, conferencias, seminarios o posgrados en materia de educación ambiental; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-VII. La capacitación de promotores ambientales ciudadanos.
+VI. La creación y puesta en marcha de cursos, talleres, conferencias, seminarios o posgrados en materia de educación ambiental;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+VII. La capacitación de promotores ambientales ciudadanos; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+VIII. La promoción de la cultura para valorar la importancia en la adecuada selección de especies a plantar en la zona urbana, dependiendo del suelo y el entorno, así como de su cuidado y mantenimiento.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
@@ -1429,7 +1461,7 @@ IV. Amortiguar los impactos ocasionados por los centros de población, vías de 
 
 V. Proteger sitios escénicos para asegurar la calidad del ambiente y promover el turismo sustentable;
 
-VI. Dotar a la población de áreas para su esparcimiento, a fin de contribuir a formar conciencia ecológica sobre el valor e importancia de los recursos naturales; y (sic)
+VI. Dotar a la población de áreas para su esparcimiento, a fin de contribuir a formar conciencia ecológica sobre el valor e importancia de los recursos naturales; y
 
 VII. Asegurar, evaluar e incrementar servicios ambientales a los asentamientos humanos, que permitan mejorar la calidad de vida e incluir en el pago de estos servicios a los poseedores de terrenos con valor ambiental.
 
@@ -1777,7 +1809,7 @@ III. Los planes y programas de desarrollo urbano, relacionados con el ordenamien
 
 IV. La planeación y ejecución de campañas de reforestación;
 
-V. Los aprovechamientos cinegéticos y de flora silvestre; y (sic)
+V. Los aprovechamientos cinegéticos y de flora silvestre; y
 
 VI. El establecimiento, conservación, administración, desarrollo y vigilancia de áreas naturales protegidas.
 
@@ -2317,7 +2349,7 @@ II. La generación de residuos sólidos debe ser controlada desde su origen, red
 
 III. La utilización de plaguicidas, fertilizantes y substancias tóxicas, debe manejarse con criterios preventivos y evitar la contaminación del suelo y la biodiversidad, considerando sus efectos sobre la salud humana y la peligrosidad de su utilización;
 
-IV. Los residuos sólidos contienen materiales reusables y reciclables cuya recuperación contribuye a racionalizar la generación de esos residuos; y (sic)
+IV. Los residuos sólidos contienen materiales reusables y reciclables cuya recuperación contribuye a racionalizar la generación de esos residuos; y
 
 V. La coparticipación entre los municipios y el Poder Ejecutivo el (sic) Estado, en el marco de políticas regionales, es una medida conveniente para el tratamiento de los residuos generados en la Entidad.
 
@@ -2545,7 +2577,7 @@ II. Los de servicio público o social;
 
 III. Aquellos que utilicen para su locomoción energía solar o eléctrica, en apego a lo establecido por las normas oficiales mexicanas que al efecto se expidan;
 
-IV. Los de transporte para personas discapacitadas, siempre que cumplan con los requisitos correspondientes; y (sic)
+IV. Los de transporte para personas discapacitadas, siempre que cumplan con los requisitos correspondientes; y
 
 V. Los de uso particular, cuando se acredite o sea manifiesta una emergencia médica o causa suficientemente justificada a criterio de la autoridad competente.
 
@@ -2691,7 +2723,7 @@ c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimient
 
 IV. Suspensión o revocación de concesiones, permisos, licencias o autorizaciones;
 
-V. Arresto administrativo hasta por treinta y seis horas; y (sic)
+V. Arresto administrativo hasta por treinta y seis horas; y
 
 VI. Restricción de la circulación de fuentes móviles de contaminación.
 
@@ -2968,3 +3000,11 @@ Artículo Tercero. El titular del Poder Ejecutivo del Estado emitirá las normas
 Artículo Cuarto. La Secretaría tendrá un plazo no mayor a ciento veinte días naturales contados a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" para expedir las guías y el listado relativos a las actividades riesgosas.
 
 Artículo Quinto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias exclusivas de su competencia.
+
+P.O. 13 DE MARZO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Dentro de los 180 días naturales siguientes a la entrada en vigor de esta Ley, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro, emitirá la norma técnica ambiental estatal a que hace referencia el artículo 8, fracción XXI, de la presente Ley.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
