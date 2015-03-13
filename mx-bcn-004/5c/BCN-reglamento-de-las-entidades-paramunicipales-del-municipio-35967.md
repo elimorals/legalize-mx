@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2014-12-08"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -165,11 +165,15 @@ II.- Tres Regidores, Presidentes de las Comisiones relacionadas a la actividad d
 
 III.- Tres representantes de organismos sociales de la ciudad.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
-ARTICULO 13 BIS.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, únicamente la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia, se integrará de la siguiente manera:
+ARTICULO 13 BIS.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia, se integrara de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
 I.- El Presidente o Presidenta Municipal, quien presidirá la Junta de Gobierno:
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
 II.- Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes, y relacionadas a la actividad del Organismo:
 
@@ -181,7 +185,27 @@ c) Comisión de Gobernación y Legislación, y
 
 d) Comisión de la Familia.
 
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
 III.- Cuatro integrantes de organismos representativos de la sociedad, cuyo objeto sea la promoción de la salud, la asistencia social y humana, la educación o el desarrollo integral de la niñez.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTICULO 13 TER.- Con excepción a lo dispuesto por los artículos 12 y 13 del presente reglamento, la Junta de Gobierno del Sistema Municipal de Parques Temáticos de Tijuana, se integrara de la siguiente manera:
+
+I.- El Presidente o Presidenta Municipal, quien presidirá la Junta de Gobierno;
+
+II.- Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes:
+
+a) Comisión de Desarrollo Social;
+
+b) Comisión de Desarrollo Urbano, Obras y Servicios Públicos;
+
+c) Comisión de Gobernación y Legislación, y
+
+d) Comisión de Medio ambiente y Desarrollo sustentable.
+
+Cuatro integrantes de organismos representativos de la sociedad, cuyo perfil se identifique o relacione con los objetivos del Sistema Municipal de Parques Temáticos de Tijuana, Baja California.
 
 ###### ARTICULO 14.
 
@@ -786,3 +810,11 @@ SEGUNDO.- La presente reforma entrara en vigor al día siguiente de su publicaci
 TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
 
 CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 13 DE MARZO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al el (sic) día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+TERCERO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración municipal, para la implementación inmediata de las reformas aprobadas.
