@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-542-hacendario-para-el-municipio-de-orizaba-68076
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-07"
-last_updated: "2014-01-10"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 7 de abril de 2009.
 
@@ -2641,7 +2641,7 @@ cobrará por metro cuadrado
 
 o fracción: 0.33
 
-### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNCIPIO
+### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNCIPIO (SIC)
 
 ###### Artículo 213.
 
@@ -3395,13 +3395,9 @@ Los derechos a que se refiere este Capítulo se causarán y pagarán, en salario
 
 Derechos Salarios mínimos
 
-I. Por la expedición ordinaria de copias
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-de actas del Registro Civil, dentro del
-
-plazo de dos días, incluyendo el papel
-
-sellado, por cada hoja 1.00
+I. Por la expedición ordinaria de copias de actas del Registro Civil, dentro del plazo de dos días, 1.00 incluyendo el papel sellado, por cada hoja, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Por la expedición extraordinaria de las
 
@@ -5622,3 +5618,11 @@ G.O. 10 DE ENERO DE 2014.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 235 QUE REFORMA EL ARTÍCULO 122, PÁRRAFO PRIMERO, DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y EL ARTÍCULO 5, FRACCIÓN I, DE LA LEY DE INGRESOS DEL MUNICIPIO DE ORIZABA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2014”.]
 
 Único. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 13 DE MARZO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 548 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 246 DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y LOS CORRELATIVOS DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, ORIZABA, TIERRA BLANCA Y VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
