@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2014-03-13"
+last_updated: "2015-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -419,9 +419,11 @@ En los casos en que el Gobernador del Estado, Diputados, Magistrados del Tribuna
 
 ### CAPÍTULO I. OBLIGACIONES Y PROHIBICIONES DEL SERVIDOR PUBLICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 46.
 
-Todo servidor público debe desempeñar su función, empleo, cargo o comisión observando siempre los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, actuando dentro del orden jurídico, respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California y las Leyes, Decretos y Acuerdos que de una y otra emanen.
+Todo servidor público debe desempeñar su función, empleo, cargo o comisión observando siempre los principios de Legalidad, Honradez, Perspectiva de Equidad de Género, Lealtad, Imparcialidad y Eficiencia, actuando dentro del orden jurídico, respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California y las Leyes, Decretos y Acuerdos que de una y otra emanen.
 
 En tal virtud, los servidores públicos tienen las siguientes obligaciones:
 
@@ -521,7 +523,7 @@ Las autoridades señaladas en el artículo 5 de esta ley, en sus respectivos ám
 
 XV. Aumentar su patrimonio ilícitamente, como consecuencia del ejercicio de su empleo, cargo o comisión;
 
-XVI. Intervenir en el ejercicio de sus funciones o con motivo de ellas en la atención, tramitación o resolución de asuntos, celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza, la contratación de obra pública y servicios relacionados con la misma, en los que se tenga interés personal, familiar o de negocios, incluyendo aquellos de los que puede resultar algún beneficio para el servidor público, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público a las personas antes referidas formen o hayan formado parte, sin la autorización previa y específica, según sea el caso, de los Síndicos Procuradores, del Órgano de Control o de la Dirección cuando sea procedente a propuesta razonada, del Titular de las dependencias y entidades de la Administración Pública Estatal o Municipal conforme a las disposiciones legales aplicables; y (sic),
+XVI. Intervenir en el ejercicio de sus funciones o con motivo de ellas en la atención, tramitación o resolución de asuntos, celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza, la contratación de obra pública y servicios relacionados con la misma, en los que se tenga interés personal, familiar o de negocios, incluyendo aquellos de los que puede resultar algún beneficio para el servidor público, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público a las personas antes referidas formen o hayan formado parte, sin la autorización previa y específica, según sea el caso, de los Síndicos Procuradores, del Órgano de Control o de la Dirección cuando sea procedente a propuesta razonada, del Titular de las dependencias y entidades de la Administración Pública Estatal o Municipal conforme a las disposiciones legales aplicables; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -609,7 +611,7 @@ II. La suspensión: Consiste en la separación temporal, que no podrá exceder d
 
 III. La destitución: Consiste en la separación definitiva del cargo, empleo o comisión decretada mediante el procedimiento de responsabilidad;
 
-IV. La sanción económica: Es el pago en dinero que en concepto de retribución debe hacer el servidor público responsable a favor del erario Estatal o Municipal, por la infracción cometida, la cual será exclusivamente en los casos en que se obtenga lucro o se ocasione daños o perjuicios al erario Estatal o Municipal; y (sic)
+IV. La sanción económica: Es el pago en dinero que en concepto de retribución debe hacer el servidor público responsable a favor del erario Estatal o Municipal, por la infracción cometida, la cual será exclusivamente en los casos en que se obtenga lucro o se ocasione daños o perjuicios al erario Estatal o Municipal; y
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
@@ -1076,3 +1078,7 @@ SEGUNDO.- Los Órganos de Control, en el ámbito de sus competencias, en un plaz
 P.O. 13 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
