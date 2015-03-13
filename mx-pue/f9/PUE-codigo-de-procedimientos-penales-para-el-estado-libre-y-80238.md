@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-penales-para-el-estado-libre-y-80238"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-02-21"
-last_updated: "2014-03-19"
+last_updated: "2015-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO PUBLICADO EL 19 DE MARZO DE 2014, QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE PUEBLA, SE ABROGA EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO POR DECRETO DEL HONORABLE CONGRESO DEL ESTADO DE PUEBLA DE VEINTIUNO DE FEBRERO DE DOS MIL ONCE, CON EXCEPCIÓN DEL TÍTULO DÉCIMO RELATIVO A LA "EJECUCIÓN DE LA SENTENCIA", EL CUAL DEBERÁ MANTENERSE VIGENTE HASTA QUE EL CONGRESO DE LA UNIÓN EXPIDA LA LEGISLACIÓN ÚNICA EN MATERIA DE EJECUCIÓN DE PENAS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 13 DE MARZO DE 2015.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de febrero de 2011.
 
@@ -3187,11 +3189,9 @@ b) Asalto y Atraco, previsto en los artículos 294, 295 y 298;
 
 c) Robo Calificado previsto en el artículo 373, en relación con las fracciones I y II del artículo 380;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
-
-d) Daño en Propiedad Ajena, previsto en los artículos 412 y 413;
+d) Daño en Propiedad Ajena, previsto en los artículos 412, 413, y la fracción III del 413 Ter;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3271,7 +3271,7 @@ Al decidir sobre la medida cautelar de garantía económica, el Juez fijará el 
 
 La garantía será presentada por el imputado u otra persona mediante el depósito de dinero, valores, prenda o hipoteca sobre bienes libres de gravámenes, pólizas abiertas por todo el tiempo que dura el proceso con cargo a una empresa afianzadora, entrega de bienes, fianza solidaria de una o más personas solventes o cualquier otro medio idóneo.
 
-Se hará saber al garante, en la audiencia en la que se decida la medida, las consecuencias del incumplimiento por parte de su fiado (sic).
+Se hará saber al garante, en la audiencia en la que se decida la medida, las consecuencias del incumplimiento por parte de su fiado.
 
 El imputado y el garante podrán sustituirla por otra equivalente, previa autorización del Juez.
 
@@ -4311,7 +4311,7 @@ Registro de actos definitivos e irreproductibles.
 
 ###### ARTÍCULO 338.
 
-Cuando sea necesario practicar un reconocimiento, reconstrucción, peritación o inspección que por su naturaleza o características deban ser considerados como actos definitivos e irreproductibles, el Ministerio Público ordenará su práctica, dejando registro fehaciente, para en su caso, incorporarlo ajuicio.
+Cuando sea necesario practicar un reconocimiento, reconstrucción, peritación o inspección que por su naturaleza o características deban ser considerados como actos definitivos e irreproductibles, el Ministerio Público ordenará su práctica, dejando registro fehaciente, para en su caso, incorporarlo a juicio.
 
 #### SECCIÓN OCTAVA. REGISTRO DE LA INVESTIGACIÓN Y CADENA DE CUSTODIA
 
@@ -6289,7 +6289,7 @@ Interposición del recurso de casación.
 
 El recurso de casación se interpondrá ante el Tribunal que conoció del Juicio Oral, dentro de los diez días siguientes a la notificación de la resolución impugnada, mediante escrito en el que se precisarán las disposiciones legales que se consideren inobservadas o erróneamente aplicadas y se expresarán los motivos de agravio correspondientes.
 
-El Tribunal de Juicio Oral, una vez recibido el recurso, lo remitirá sin substanciar artículo (sic) al Tribunal de Alzada respectivo.
+El Tribunal de Juicio Oral, una vez recibido el recurso, lo remitirá sin substanciar (sic) artículo al Tribunal de Alzada respectivo.
 
 Efectos de la interposición del recurso.
 
@@ -7088,3 +7088,15 @@ Se exceptúan de la abrogación del Código de Procedimientos Penales para el Es
 CUARTO.- La entrada en vigor del Código Nacional de Procedimientos Penales surtirá sus efectos en el territorio del Estado, a partir del veintiuno de mayo de dos mil catorce en las Regiones Judiciales Oriente, Norte y Sur del Estado de Puebla, de acuerdo a lo que establece el artículo 10 Bis de la Ley Orgánica del Poder Judicial del Estado de Puebla y en el resto del territorio del Estado, de acuerdo a lo que establece el artículo Segundo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Puebla, conforme a los Decretos publicados en el Periódico Oficial del Estado de fechas diecisiete de junio de dos mil once y trece de septiembre de dos mil trece.
 
 QUINTO.- No procede la acumulación de procesos penales cuando uno de ellos se esté tramitando conforme al Código Nacional de Procedimientos Penales y el otro conforme a la legislación adjetiva abrogada.
+
+P.O. 13 DE MARZO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL INCISO D), DE LA FRACCIÓN III, DEL APARTADO A DEL ARTÍCULO 248 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos de los Municipios de la Entidad en el ámbito de sus respectivas competencias, deberán prever y realizar las acciones conducentes para fomentar las expresiones o manifestaciones artísticas o culturales de los habitantes de sus jurisdicciones.
+
+CUARTO. El presente Decreto en cuanto a la materia procedimental penal estará vigente, hasta en tanto, surta efectos a plenitud la entrada en vigor del Código Nacional de Procedimientos Penales en el territorio del Estado, conforme a lo que establecen el artículo 10 Bis de la Ley Orgánica del Poder Judicial del Estado de Puebla, y el artículo Segundo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Puebla, Decretos publicados en el Periódico Oficial del Estado de fecha diecisiete de junio de dos mil once y trece de septiembre de dos mil trece, respectivamente.
