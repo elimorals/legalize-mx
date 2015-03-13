@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2014-11-19"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -77,6 +77,10 @@ VI. Comisiones permanentes: las que determine el Acuerdo General del Pleno del C
 
 VII. Consejo: Consejo de la Judicatura Federal;
 
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+
+VII. Bis. Jueces de Distrito especializados en el sistema penal acusatorio: jueces de Control y tribunales de Enjuiciamiento;
+
 VIII. Juez de Control: Juez de Distrito competente para intervenir desde el principio del procedimiento hasta el dictado de apertura a juicio;
 
 IX. Juez de Ejecución: Juez de Distrito especializado en ejecución de sanciones penales;
@@ -113,43 +117,41 @@ Los órganos jurisdiccionales tendrán a su cargo a los servidores públicos que
 
 Al frente de cada Administración del Centro estará un Administrador, quien se auxiliará para el ejercicio de sus atribuciones de las áreas especializadas que se determinen en el manual correspondiente de los Centros.
 
-El Administrador estará adscrito a la Comisión de Administración y será el responsable de la administración del Centro.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+
+El Administrador será el responsable de la administración del Centro.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 7.
 
-Los requisitos para ser Administrador son los siguientes:
+Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, por un año y de forma rotativa en el orden de su denominación.
 
-I. Contar con título y cédula profesional de licenciatura expedidos por autoridad competente, y acreditar los conocimientos necesarios mediante los exámenes que determine el Consejo;
-
-II. Acreditar cuando menos cinco años de experiencia profesional;
-
-III. Ser mayor de treinta años al momento de la designación;
-
-IV. Estar en pleno goce de derechos civiles y políticos;
-
-V. Gozar de buena reputación; y
-
-VI. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor a un año.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 8.
 
-Los Administradores de los Centros serán designados por la Comisión de Administración, de entre los finalistas del procedimiento de selección que al efecto se convoque o de la lista de reservistas.
+Los jueces de Distrito que funjan como Administradores no podrán ejercer funciones jurisdiccionales, salvo en aquellos casos en que les corresponda actuar en suplencia de otro juez de Distrito adscrito al Centro; o cuando sea necesario para no afectar el funcionamiento del mismo, caso en el cual deberán fundamentar y motivar su actuación.
 
-Los procedimientos de selección serán internos o abiertos, según lo determine el Pleno en la convocatoria respectiva.
-
-El nombramiento inicial del Administrador será de tres o seis meses, según lo determine la Comisión de Administración.
-
-Antes del vencimiento del nombramiento inicial por tres meses, la Dirección General de Recursos Humanos pondrá a consideración de la Comisión de Administración la prórroga por tres meses más, o bien, si se otorgó por seis meses la propuesta será por tiempo indefinido.
-
-La terminación anticipada del nombramiento, por cualquier causa, será resuelta por la Comisión de Administración a propuesta de la Dirección General de Recursos Humanos, y de ser procedente será notificada por ésta.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 9.
 
-El Administrador propondrá a la Comisión de Administración, por conducto de la Dirección General de Recursos Humanos, al candidato a ocupar un puesto vacante dependiente del mismo, previo desahogo del procedimiento de selección que al efecto se convoque o de entre la lista de reservistas, según lo determine la Comisión de Administración.
+El personal de confianza de la Administración del Centro será seleccionado mediante los cursos de capacitación que al efecto imparta el Instituto de la Judicatura, conforme a las bases que defina el Pleno.
+
+Al concluir el curso, el Instituto de la Judicatura comunicará a la Dirección General de Recursos Humanos la lista de resultados aprobatorios, por cada categoría, dentro del curso impartido.
+
+La Dirección General de Recursos Humanos expedirá el nombramiento inicial a la persona que obtenga las calificaciones más altas en la categoría respectiva, dentro del curso que al efecto se imparta.
+
+En caso de que existan vacantes de forma ulterior, el nombramiento se expedirá al siguiente participante de la lista a que se refiere este artículo, siempre y cuando el candidato manifieste su aceptación. En caso contrario, el nombramiento se expedirá en favor del siguiente participante que manifieste su aceptación.
+
+De no existir candidatos para cubrir las vacantes, el Instituto de la Judicatura convocará a un nuevo curso de capacitación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 10.
 
-El nombramiento inicial del personal de confianza dependiente del Administrador, será de tres o seis meses, salvo en los siguientes casos:
+El nombramiento inicial del personal de confianza dependiente del Administrador, será de tres meses, salvo en los siguientes casos:
 
 I. Que el nombramiento se expida a favor del servidor público que cubra algún tipo de licencia u ocupe una plaza temporal. En este caso el nombramiento no podrá ser menor de siete días;
 
@@ -157,7 +159,7 @@ II. Que la propuesta de nombramiento contenga características especiales, debid
 
 III. Que el servidor público con antigüedad en el puesto de seis meses, cause baja por renuncia o por fin de nombramiento y el Administrador le extienda nuevo nombramiento en el mismo puesto. En este caso se elaborará de forma indefinida, siempre y cuando no exista interrupción entre ambos nombramientos.
 
-El Administrador propondrá a la Comisión de Administración la temporalidad inicial del nombramiento, a efecto de evaluar el desempeño laboral del servidor público.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 11.
 
@@ -165,59 +167,29 @@ La Dirección General de Recursos Humanos pondrá a consideración de la Comisi�
 
 I. El Administrador, previo al término del nombramiento inicial, así lo solicite, o
 
-II. Transcurran seis meses continuos de nombramiento en el mismo puesto y el titular respectivo solicite su renovación, aun cuando dicha petición sea por tiempo determinado.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
-El Administrador podrá determinar la terminación anticipada del nombramiento, misma que deberá notificar al interesado, y dar aviso de inmediato a la Dirección General de Recursos Humanos, para que someta a la consideración de la Comisión de Administración la realización de un nuevo procedimiento de selección o la utilización de la lista de reservistas.
+II. Transcurran seis meses continuos de nombramiento en el mismo puesto y el Administrador solicite su renovación, aun cuando dicha petición sea por tiempo determinado.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+
+El Administrador podrá determinar la terminación anticipada del nombramiento, misma que deberá notificar al interesado, y dar aviso de inmediato a la Dirección General de Recursos Humanos para los efectos administrativos respectivos.
 
 ###### Artículo 12.
 
-Las convocatorias de los procedimientos de selección que se emitan deberán contener:
-
-I. Las plazas sujetas al procedimiento de selección y lugar de adscripción;
-
-II. Lugar de inscripción;
-
-III. El perfil que debe reunir la persona que ocupe el puesto;
-
-IV. Los requisitos que deban cumplir los aspirantes y la forma de acreditarlos;
-
-V. Lugar, día y hora en que deben presentarse los candidatos;
-
-VI. El responsable del desahogo del procedimiento de selección;
-
-VII. Las etapas del procedimiento de selección, la forma de su desahogo y las fechas para ello;
-
-VIII. La atribución de la Dirección General de Recursos Humanos de verificar la autenticidad y veracidad de los documentos e información que proporcionen los aspirantes;
-
-IX. La prohibición de los aspirantes de realizar gestiones personales relativas al desahogo del procedimiento; y
-
-X. Los demás aspectos que determine el Pleno o la Comisión de Administración.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)
 
 ###### Artículo 13.
 
-Si el procedimiento es abierto la convocatoria se publicará en el Diario Oficial de la Federación, en un periódico de mayor circulación nacional, en otro de la entidad federativa en que se realice el procedimiento, y en la página de internet del Consejo. En caso de que sea interno sólo en este último medio.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)
 
 ###### Artículo 14.
 
-Corresponde a la Dirección General de Recursos Humanos:
-
-I. Proponer a la Comisión de Administración que se lleve a cabo un procedimiento de selección o se haga uso de la lista de reservistas, en cuanto tenga conocimiento de una vacante de Administrador o del personal que le esté adscrito;
-
-II. Elaborar las convocatorias de los procedimientos de selección;
-
-III. El desahogo de los procedimientos de selección;
-
-IV. Integrar la lista de reservistas; y
-
-V. Las demás que determine el Pleno y la Comisión de Administración.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)
 
 ###### Artículo 15.
 
-La lista de reservistas se integrará por los finalistas en los procedimientos de selección que no hayan sido designados.
-
-La vigencia de cada uno de los registros en la lista será de tres años, sin perjuicio de que la Dirección General de Recursos Humanos, verifique que los integrantes de la lista siguen cumpliendo con los requisitos para ocupar el cargo, antes de que la misma se presente a la consideración de la Comisión de Administración o del Administrador.
-
-La incorporación en la lista de reservistas será voluntaria y no generará derecho alguno a los integrantes de la misma.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)
 
 ###### Artículo 16.
 
@@ -704,3 +676,13 @@ DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Just
 DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 36/2014, del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y que reforma y adiciona disposiciones de diversos acuerdos generales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de doce de noviembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a doce de noviembre de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los nombramientos de los Administradores de los Centros de Justicia Penal federal, que antes de la entrada en vigor del presente Acuerdo hayan sido designados, cesan sus efectos, de conformidad con las disposiciones laborales aplicables.
