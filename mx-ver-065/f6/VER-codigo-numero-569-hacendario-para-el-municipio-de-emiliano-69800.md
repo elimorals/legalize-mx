@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-569-hacendario-para-el-municipio-de-emiliano-6980
 country: "mx"
 rank: "codigo"
 publication_date: "2009-08-07"
-last_updated: "2009-08-07"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 569 HACENDARIO PARA EL MUNICIPIO DE EMILIANO ZAPATA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 569 HACENDARIO PARA EL MUNICIPIO DE EMILIANO ZAPATA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NÚMERO 569 HACENDARIO PARA EL MUNICIPIO DE EMILIANO ZAPATA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 7 de agosto de 2009.
 
@@ -2027,7 +2027,9 @@ Cuando la ley establezca la obligación de pago de un refrendo de permisos, lice
 
 Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
 
-Artículo196. Los propietarios de negociaciones comerciales, industriales, de prestación de servicios y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
+###### Artículo 196.
+
+Los propietarios de negociaciones comerciales, industriales, de prestación de servicios y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
 
 ###### Artículo 197.
 
@@ -3743,7 +3745,9 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, uno;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, uno (sic), con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Registro de nacimientos ordinarios y extemporáneos, uno;
 
@@ -5734,3 +5738,11 @@ Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la
 A t e n t a m e n t e
 
 Sufragio efectivo. No reelección Licenciado Fidel Herrera Beltrán Gobernador del Estado Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
