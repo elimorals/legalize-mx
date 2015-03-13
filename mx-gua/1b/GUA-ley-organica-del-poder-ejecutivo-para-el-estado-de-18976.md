@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2013-05-21"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -67,7 +67,7 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- Sectorización: El acto administrativo por medio del cual el Gobernador del Estado agrupa a las entidades bajo la coordinación de una dependencia de la Administración Pública, atendiendo a su objeto y atribuciones;
 
-II.- Sector: El agrupamiento de entidades de la Administración Pública, coordinadas por la dependencia que en cada caso designe el Gobernador del Estado, atendiendo a los objetos y metas comunes; y (sic)
+II.- Sector: El agrupamiento de entidades de la Administración Pública, coordinadas por la dependencia que en cada caso designe el Gobernador del Estado, atendiendo a los objetos y metas comunes; y
 
 III.- Coordinadora de Sector: La dependencia de la Administración Pública que regula un conjunto de entidades paraestatales.
 
@@ -231,6 +231,10 @@ Para el trámite de los asuntos de su competencia, las dependencias del Poder Ej
 
 Corresponde a los titulares de las dependencias del Poder Ejecutivo o por quien haga sus veces, el trámite y resolución de los asuntos de su competencia. Para la mejor organización del trabajo, podrán delegar en sus colaboradores cualesquiera de las actividades que no estén expresamente señaladas en las leyes o reglamentos como exclusivas de los propios titulares.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+Los titulares de las dependencias podrán, previa autorización del Gobernador del Estado, suscribir convenios para cumplir con las atribuciones que esta Ley y demás ordenamientos les establezcan, remitiéndole la información del instrumento, por conducto de la unidad que se establezca en la reglamentación.
+
 Asimismo, deberán instrumentar las acciones concernientes para que los servicios a su cargo se otorguen con calidad.
 
 ###### Artículo 19.
@@ -287,7 +291,9 @@ a) Conducir las relaciones del Poder Ejecutivo con los demás Poderes del Estado
 
 b) Cumplir y hacer cumplir acuerdos, órdenes, circulares y demás disposiciones emanadas del Poder Ejecutivo del Estado;
 
-c) Vigilar el cumplimiento de los preceptos constitucionales por parte de las entidades y dependencias del Poder Ejecutivo, especialmente el respeto de las garantías individuales y dictar las medidas administrativas conducentes;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
+c) Vigilar el cumplimiento de los preceptos constitucionales por parte de las entidades y dependencias del Poder Ejecutivo, especialmente el respeto de los derechos humanos y dictar las medidas administrativas conducentes;
 
 d) Prestar al Poder Judicial del Estado, cuando lo solicite, el auxilio para el debido cumplimiento de sus funciones;
 
@@ -385,11 +391,7 @@ e) Tramitar lo relacionado con los nombramientos y reelecciones de los Magistrad
 
 f) Tramitar los nombramientos, licencias y renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-g) Tramitar los nombramientos y renuncias de los magistrados del Tribunal Electoral del Estado de Guanajuato, que corresponda proponer al Poder Ejecutivo;
+g) (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 h) Publicar en el Periódico Oficial del Gobierno del Estado los actos y resoluciones que requieran tal requisito conforme a las leyes y reglamentos aplicables;
 
@@ -397,7 +399,7 @@ h) Publicar en el Periódico Oficial del Gobierno del Estado los actos y resoluc
 
 El Periódico Oficial se editará en forma impresa y electrónica, ambas ediciones tendrán carácter oficial e idénticas características y contenido.
 
-i) Administrar el Archivo General del Estado;
+i) (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
@@ -551,7 +553,9 @@ g) Establecer anualmente el Calendario Oficial que regirá en la Administración
 
 h) Emitir disposiciones generales para el otorgamiento de prestaciones a los servidores públicos de la Administración Pública Estatal conforme a la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios;
 
-VI.- En materia de información:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+
+VI. En materia de archivos e información:
 
 a) Fijar los lineamientos e integrar la documentación que sirvan de base para la elaboración del informe anual que debe rendir el Gobernador ante el Congreso del Estado, en coordinación con las demás dependencias y entidades del Poder Ejecutivo y, en particular, con el despacho del Gobernador del Estado;
 
@@ -562,6 +566,10 @@ a) Fijar los lineamientos e integrar la documentación que sirvan de base para l
 b) Normar y coordinar los servicios de informática de la Administración Pública Estatal;
 
 c) Establecer planes, programas y estrategias para coordinar las operaciones de la Administración Pública Estatal en materia de servicios de tecnología de información, desarrollando y manteniendo una infraestructura de informática que facilite la comunicación y operación eficiente de los sistemas y procesos; y
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+d) Administrar el Archivo General de (sic) Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1209,7 +1217,7 @@ III.- En materia de fiscalización:
 
 a) Verificar y evaluar en coordinación con los municipios, la aplicación de los fondos federales y estatales, de conformidad con la legislación respectiva y los convenios y acuerdos que al respecto se celebren;
 
-b) Fungir como órgano de asesoría y capacitación hacia las demás áreas de la Administración Pública Estatal y a los municipios que así lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa; y (sic)
+b) Fungir como órgano de asesoría y capacitación hacia las demás áreas de la Administración Pública Estatal y a los municipios que así lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
@@ -1219,7 +1227,7 @@ a) Promover la calidad en la prestación de los servicios a la población por pa
 
 b) Difundir los valores que deben distinguir a los servidores públicos en su función;
 
-c) Fomentar la cultura de la denuncia respecto de los actos indebidos de los servidores públicos; y (sic)
+c) Fomentar la cultura de la denuncia respecto de los actos indebidos de los servidores públicos; y
 
 d) Recibir y dar seguimiento a las sugerencias, quejas y denuncias de la población, con respecto a la actuación de los servidores públicos.
 
@@ -1319,7 +1327,7 @@ XIII.- Promover la coordinación entre los prestadores de servicios turísticos;
 
 > <small>(REFORMADA P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas, Inversión y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y (sic)
+XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas, Inversión y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2013)</small>
 
@@ -2030,3 +2038,9 @@ En tanto se realizan los ajustes en el Reglamento Interior y demás normatividad
 Artículo Cuarto. La Secretaría de Turismo sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Turístico.
 
 Para todos los efectos legales correspondientes, la Secretaría de Turismo a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Turístico, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+P.O. 13 DE MARZO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Para dar cumplimiento al presente decreto, la Secretaría de Finanzas, Inversión y Administración efectuará los ajustes presupuestales para el traslado del Archivo General del Estado de la Secretaría de Gobierno a aquélla.
