@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-531-hacendario-para-el-municipio-de-medellin-6770
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-16"
-last_updated: "2009-02-16"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 531 HACENDARIO PARA EL MUNICIPIO DE MEDELLIN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 531 HACENDARIO PARA EL MUNICIPIO DE MEDELLIN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NÚMERO 531 HACENDARIO PARA EL MUNICIPIO DE MEDELLÍN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 16 de febrero de 2009.
 
@@ -187,7 +187,7 @@ l. El Ayuntamiento;
 
 II. El Presidente;
 
-lll. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
+III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
 
 IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
 
@@ -221,7 +221,7 @@ l. La recaudación de contribuciones municipales;
 
 ll. Los productos y aprovechamientos;
 
-lll. Las transferencias de recursos por concepto de participaciones y aportaciones federales; y
+III. Las transferencias de recursos por concepto de participaciones y aportaciones federales; y
 
 IV. Los demás que establezca el presente Código, las leyes aplicables y los convenios celebrados con la Federación, el Estado, otras Entidades Federativas, Municipios y los particulares.
 
@@ -243,7 +243,7 @@ l. Impuestos: Son las contribuciones establecidas en ley que deben pagar las per
 
 ll. Derechos: Son las contribuciones establecidas en ley por recibir servicios que prestan las dependencias y entidades de la Administración Pública Municipal, en sus funciones de derecho público, así como por el uso o disfrute de los bienes del dominio público del Municipio, salvo en los casos que dichos bienes o servicios se encuentren concesionados a particulares para su explotación; y
 
-lll. Contribuciones por mejoras: Son las establecidas en este Código, a cargo de las personas físicas o morales que, con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas.
+III. Contribuciones por mejoras: Son las establecidas en este Código, a cargo de las personas físicas o morales que, con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas.
 
 ###### Artículo 21.
 
@@ -307,11 +307,11 @@ En los plazos establecidos por períodos se computarán todos los días. Cuando 
 
 Las autoridades fiscales municipales tendrán las atribuciones que establece el Código de Procedimientos Administrativos en materia de:
 
-l. Requisitos de los actos y procedimientos administrativos;
+I. Requisitos de los actos y procedimientos administrativos;
 
-ll. Procedimiento administrativo ordinario;
+II. Procedimiento administrativo ordinario;
 
-lll. Procedimientos administrativos especiales de visitas de verificación, visitas domiciliarias, control de obligaciones y determinación presuntiva;
+III. Procedimientos administrativos especiales de visitas de verificación, visitas domiciliarias, control de obligaciones y determinación presuntiva;
 
 IV. Procedimiento administrativo de ejecución; y
 
@@ -403,7 +403,7 @@ c) Si existen varios establecimientos, aquel en donde se encuentre la administra
 
 d) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
-lll. Tratándose de personas físicas o morales residentes fuera del territorio del Municipio y que realicen actividades gravadas en el mismo, el de su representante, y a falta de éste, el lugar en que se haya realizado el hecho generador de la obligación fiscal; y
+III. Tratándose de personas físicas o morales residentes fuera del territorio del Municipio y que realicen actividades gravadas en el mismo, el de su representante, y a falta de éste, el lugar en que se haya realizado el hecho generador de la obligación fiscal; y
 
 IV. Tratándose de personas físicas o morales sujetas al pago de contribuciones sobre la propiedad inmobiliaria y sólo en caso de que no señalen su domicilio fiscal, se considerará como tal el de la ubicación del inmueble que origine la obligación fiscal.
 
@@ -601,7 +601,7 @@ l. Resulte imposible localizar al contribuyente o responsables solidarios y ni u
 
 ll. Por insolvencia de los deudores; y
 
-lll. Por incosteabilidad en el cobro.
+III. Por incosteabilidad en el cobro.
 
 Las disposiciones reglamentarias que expida el Ayuntamiento deberán indicar los requisitos que habrá de observar la autoridad fiscal para la cancelación de créditos fiscales a que se refiere este artículo.
 
@@ -675,7 +675,7 @@ l. El nombre completo de la persona física o moral afianzada, el importe de la 
 
 ll. La anuencia de la compañía afianzadora para pagar hasta el importe total de la suma afianzada, en caso de que se actualice el incumplimiento de su afianzado a las obligaciones fiscales adquiridas ante la Tesorería, sin reservarse los beneficios de orden y excusión; y
 
-lll. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
+III. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
 
 La fianza solamente podrá cancelarse mediante autorización escrita de la Tesorería.
 
@@ -701,7 +701,7 @@ I. Se otorgue una nueva garantía que sustituya a otra, previa su calificación 
 
 II. Se cubra la totalidad del crédito fiscal garantizado, a satisfacción de la autoridad fiscal y se emita el comprobante de pago correspondiente; o
 
-lll. En definitiva, quede sin efecto la resolución que dio origen al otorgamiento de la garantía. Para que proceda la cancelación de la garantía, el interesado presentará solicitud por escrito ante la Tesorería, acompañando los documentos que demuestren la procedencia de la cancelación, de conformidad con lo previsto en el presente Código.
+III. En definitiva, quede sin efecto la resolución que dio origen al otorgamiento de la garantía. Para que proceda la cancelación de la garantía, el interesado presentará solicitud por escrito ante la Tesorería, acompañando los documentos que demuestren la procedencia de la cancelación, de conformidad con lo previsto en el presente Código.
 
 Procederá la cancelación, por parte de la autoridad, aun cuando no medie solicitud del particular, en aquellos casos en que, de las constancias que obren en los archivos en su poder, se desprenda que se han dado uno o varios de los supuestos señalados en el presente artículo.
 
@@ -719,7 +719,7 @@ I. Inscribirse en el padrón municipal que les corresponda, dentro de los treint
 
 II. Señalar domicilio fiscal dentro del territorio municipal, y, en su caso, domicilio para recibir notificaciones;
 
-lll. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
+III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
 
 IV. Presentar los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes, en las formas oficiales autorizadas por la Tesorería, o bien, previa autorización de la misma dependencia, cumpliendo con los requisitos legales;
 
@@ -1281,7 +1281,7 @@ Comete el delito de falsificación fiscal quien, con el fin de obtener un lucro 
 
 I. De nueve meses a cuatro años de prisión, a quien falsifique sellos, contraseñas o marcas oficiales, firmas, rúbricas en forma total o parcial, grabe o manufacture, sin autorización de la autoridad fiscal, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia autoridad usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
 
-II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele, sin autorización de la autoridad fiscal, cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen como medios de control fiscal; y (sic)
+II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele, sin autorización de la autoridad fiscal, cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen como medios de control fiscal; y
 
 III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal; y IV. De seis meses a dos años de prisión y una multa de treinta a quinientos días de salario mínimo, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
 
@@ -1563,9 +1563,9 @@ Con la forma oficial de declaración deberán acompañarse:
 
 I. Certificado de Valor Catastral o Catastral Provisional;
 
-II. Copia de la constancia de no adeudo y de la boleta de pago del impuesto predial correspondiente al ejercicio en que se realice la operación; y (sic)
+II. Copia de la constancia de no adeudo y de la boleta de pago del impuesto predial correspondiente al ejercicio en que se realice la operación; y
 
-lll. Cédula catastral, correspondiente al ejercicio en que se realice la operación;
+III. Cédula catastral, correspondiente al ejercicio en que se realice la operación;
 
 IV. En el caso de tratarse de Traslados de dominio en lotes afectos a fusiones, subdivisiones, relotificaciones y fraccionamientos deberá de cumplir con los requisitos que exige los reglamentos y leyes vigentes en materia de Planeación Urbana, Asentamientos Humanos y Catastro; tendrán que presentar las licencias, planos y permisos expedidos por la Dirección de planeación Urbana y Obras publicas municipal y entidades Estatales respectivas según sea el caso. Mismos que se insertaran en los Testimonios que se expidan.
 
@@ -2653,7 +2653,9 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
 
-I. Por la expedición de copias de actas del Registro Civil, Incluyendo el papel sellado, por cada hoja 1.20
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.20, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción:
 
 II. Registro de nacimientos ordinarios y
 
@@ -4516,3 +4518,11 @@ HUGO ALBERTO VÁSQUEZ ZÁRATE
 DIPUTADO SECRETARIO
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
