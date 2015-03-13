@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2013-12-06"
+last_updated: "2015-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -867,7 +867,7 @@ XIV.- Comisión de Desarrollo Económico;
 
 XV.- Comisión de Protección Civil;
 
-XVI.- Comisión de Asuntos Fronterizos, y (sic)
+XVI.- Comisión de Asuntos Fronterizos, y
 
 XVII.- Comisión Reguladora de Bebidas Alcohólicas.
 
@@ -971,7 +971,7 @@ I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativ
 
 II.- Vigilar la elaboración y actualización de los programas de desarrollo urbano del Municipio, así como llevar a cabo las inspecciones de campo necesarias para dictaminar la procedencia de los expedientes que se turnen a esta Comisión, relativos a incorporaciones y desincorporaciones de bienes inmuebles del dominio público o privado.
 
-III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para eficientizar los programas de desarrollo urbano que implemente el Gobierno Municipal, y (sic)
+III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para eficientizar los programas de desarrollo urbano que implemente el Gobierno Municipal, y
 
 IV.- Dictaminar respecto de los proyectos de reglamento y disposiciones normativas de observancia general en materia de obras y servicios públicos.
 
@@ -985,27 +985,35 @@ VIII.- Dictaminar respecto de de (sic) los proyectos de disposiciones normativas
 
 XI.- Proponer al Cabildo proyectos para la ejecución de obras públicas.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 85.
 
-Comisión de Medio Ambiente Y Desarrollo Sustentable.- La Comisión de Medio Ambiente y Desarrollo Sustentable tendrá las siguientes atribuciones:
+La Comisión de Medio Ambiente, Desarrollo Sustentable y Salud, tendrá las siguientes atribuciones:
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general encaminadas hacia la protección del medio ambiente y desarrollo sustentable.
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de medio ambiente, salud pública y desarrollo sustentable;
 
-II.- Proponer al Cabildo mecanismos e instrumentos que resulten necesarios para eficientar los programas de Ecología y Medio Ambiente.
+II.- Proponer al Cabildo mecanismos para promover la participación y la responsabilidad de los sectores social y privado en la formulación de las políticas de salud pública y ecología, la aplicación de sus instrumentos, las acciones de información y vigilancia y, en general, en las acciones ecológicas que emprenda el Municipio.
 
-III.- Promover la protección y restauración de las Áreas Naturales Protegidas, para conservar e impulsar la biodiversidad bajo acciones que la hagan compatible con el desarrollo económico y social de los ciudadanos.
+III.- Proponer al Cabildo mecanismos e instrumentos para promover estudios e investigaciones de carácter científico y tecnológico, en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-IV.- Proponer políticas públicas encaminadas a difundir una cultura ecológica;
+IV.- Proponer al cabildo políticas públicas encaminadas a difundir y promover la salud pública, cultura y los valores ecológicos.
 
-V.- Promover la orientación hacia un desarrollo sustentable y preservación de los recursos naturales.
+V.- Analizar, dictaminar y proponer al cabildo sistemas que puedan beneficiar al ambiente y la ecología en el municipio.
 
-VI.- Impulsar políticas de desarrollo que reconozcan el vínculo directo entre pobreza y desarrollo sustentable, así como fomentar la participación activa de la sociedad en programas para el ahorro de energía;
+VI.- Proponer al cabildo la emisión de recomendaciones a las autoridades federales, estatales y municipales con el propósito de promover el cumplimiento de la legislación ambiental y de salud.
 
-VII.- Proponer los programas y planes de ordenamiento ecológico municipal.
+VII.- Dictaminar sobre los asuntos que tengan que ver con los servicios públicos que el Ayuntamiento está obligado a prestar, para que estos cumplan con los estándares nacionales e internacionales de protección al medio ambiente, enunciados en los (sic) fracciones I, II, III, V, VI y VII del Apartado B del el artículo 82 de (sic) Constitución Política del Estado Libre y Soberano de Baja California;
 
-VIII.- En General, aquellas que el cabildo encomiende.
+VIII.- Proponer al Cabildo los Mecanismos e Instrumentos necesarios para el adecuado cumplimiento de las funciones que como autoridad sanitaria le corresponden ejercer al Ayuntamiento, de acuerdo a los ordenamientos legales aplicables;
+
+IX.- Proponer al cabildo políticas públicas encaminadas a promover y garantizar el bienestar, protección y control Animal;
+
+X.- Dictaminar y promover los programas tendientes a mejorar la salud pública en el municipio.
+
+XI.- Proponer la creación y fomento de establecimientos de asistencia pública, conservar y mejorarlos (sic) existentes y favorecer la beneficencia privada.
+
+XII.- En general, aquellas que el Cabildo le encomiende.
 
 ###### ARTICULO 86.
 
@@ -1075,7 +1083,7 @@ Comisión de Juventud y Deportes.- La Comisión de Juventud y Deportes tendrá l
 
 I.- Proponer al Cabildo la ejecución de programas especiales encaminados a fomentar la participación de los jóvenes en asuntos de interés público;
 
-II.- Proponer al Cabildo la ejecución de programas especiales para combatir la drogadicción, el alcoholismo, el vandalismo y la delincuencia entre la juventud del Municipio, y (sic)
+II.- Proponer al Cabildo la ejecución de programas especiales para combatir la drogadicción, el alcoholismo, el vandalismo y la delincuencia entre la juventud del Municipio, y
 
 III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la práctica del deporte en el municipio especialmente entre los jóvenes;
 
@@ -1197,7 +1205,7 @@ II.- Proponer al Cabildo políticas públicas, así como promover y realizar inv
 
 III.- Dar seguimiento y supervisar las acciones de la administración pública municipal con la finalidad de verificar la plena observancia de las disposiciones constitucionales en materia de igualdad entre el hombre y la mujer;
 
-IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de desarrollo integral de la mujer, y (sic)
+IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de desarrollo integral de la mujer, y
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2010)</small>
 
@@ -1590,3 +1598,11 @@ P.O. 6 DE DICIEMBRE DE 2013.
 ACTA NÚMERO 79 POR LA QUE SE APRUEBAN LAS REFORMAS COLATERALES DE DIVERSOS REGLAMENTOS MUNICIPALES, PARA CONTEMPLAR LA FIGURA DEL SÍNDICO SOCIAL DEL H. AYUNTAMIENTO DE TIJUANA BAJA CALIFORNIA, SIENDO ESTOS: REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 13 DE MARZO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal y/o en un diario de mayor circulación de la localidad para el conocimiento de los ciudadanos.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales, que se opongan al presente Reglamento.
