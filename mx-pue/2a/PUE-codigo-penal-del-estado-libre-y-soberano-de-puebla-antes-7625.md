@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2015-03-09"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2015, ENTRA EN VIGOR A LOS QUINCE DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA QUINTA SECCIÓN DEL P.O. EL 13 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN LA TERCERA SECCIÓN DEL P.O. DE 13 DE MARZO DE 2015.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4939,21 +4939,23 @@ VI.- En una embarcación, vagón, coche o cualquier otro vehículo destinado al 
 
 Cuando el dueño de una cosa la incendie para defraudar a sus acreedores, o para perjudicar a otra persona, o para exigir indemnización por el incendio, se le impondrán las sanciones establecidas en el artículo que precede y, además las que correspondan al fraude, en su respectivo grado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 413 Bis.
 
-Al que sin consentimiento de quien deba darlo, causare daño, destrucción o deterioro de bien ajeno por medio de pintar signos, leyendas, dibujos o cualquiera otra manifestación gráfica, se aplicarán las siguientes sanciones:
+Al que sin consentimiento de quien deba darlo, causare daño, destrucción o deterioro de bien ajeno por medio de pintar signos, leyendas, dibujos, imágenes o cualquiera otra manifestación gráfica, se aplicarán por autoridad judicial las sanciones siguientes:
 
-I.- Si se realizare en bienes de propiedad privada, se le impondrá de treinta días a tres años de prisión y multa de diez a doscientos cincuenta días de salario; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-II.- Si se realizare en bienes de dominio público, se le impondrá de cuarenta días a cuatro años de prisión y multa de veinte a trescientos días de salario.
+I.- Si se realizare en bienes de propiedad privada, se le impondrá de uno a tres años de prisión y de treinta a noventa días de trabajo a favor de la comunidad; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+II.- Si se realizare en bienes de dominio público, se le impondrá de dos a cuatro años de prisión y de treinta a noventa días de trabajo en favor de la comunidad.
 
-En los casos previstos en este artículo, el restablecimiento indemnatos obtenido a través del procedimiento de mediación de los delitos de oficio tiene como consecuencia la extinción de la acción penal o la terminación de la prosecución procesal.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
+En los casos previstos en este artículo y en las fracciones I y II del numeral siguiente, el restablecimiento indemnatos obtenido a través del procedimiento de mediación de los delitos de oficio tiene como consecuencia la extinción de la acción penal o la terminación de la prosecución procesal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4970,6 +4972,18 @@ La sanción podrá ser sustituida por trabajo a favor de la comunidad en institu
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 413 Ter.
+
+Fuera de los casos previstos en las fracciones I y II del artículo anterior, se aplicarán las sanciones siguientes:
+
+I.- A quien en forma dolosa cause daño, alteración, destrucción o deterioro al equipamiento o infraestructura urbana, a algún bien mueble o inmueble destinado a la prestación de un servicio público, de dos a tres años de prisión y de ciento ochenta a trescientos sesenta días de trabajo a favor de la comunidad;
+
+II.- A quien en forma dolosa cause daño, alteración, destrucción o deterioro a algún bien mueble o inmueble destinado a la prestación del servicio público de transporte, de tres a cinco años de prisión y de ciento ochenta a trescientos sesenta días de trabajo a favor de la comunidad; y
+
+III.- A quien en forma dolosa cause daño, alteración, destrucción o deterioro al patrimonio histórico, artístico, arquitectónico y/o cultural del Estado, de tres a seis años de prisión.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -5133,7 +5147,7 @@ XIX.- No dictar auto de formal prisión o de libertad a un detenido, dentro de l
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
 
-XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o cuando no preceda denuncia, acusación o querella; y (sic)
+XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o cuando no preceda denuncia, acusación o querella; y
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -6190,3 +6204,13 @@ P.O. 9 DE MARZO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos de los Municipios de la Entidad en el ámbito de sus respectivas competencias, deberán prever y realizar las acciones conducentes para fomentar las expresiones o manifestaciones artísticas o culturales de los habitantes de sus jurisdicciones.
+
+CUARTO. El presente Decreto en cuanto a la materia procedimental penal estará vigente, hasta en tanto, surta efectos a plenitud la entrada en vigor del Código Nacional de Procedimientos Penales en el territorio del Estado, conforme a lo que establecen el artículo 10 Bis de la Ley Orgánica del Poder Judicial del Estado de Puebla, y el artículo Segundo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Puebla, Decretos publicados en el Periódico Oficial del Estado de fecha diecisiete de junio de dos mil once y trece de septiembre de dos mil trece, respectivamente.
