@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-juventud-del-estado-de-guanajuato-104426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-16"
-last_updated: "2014-12-16"
+last_updated: "2015-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS NOVENTA DÍAS POSTERIORES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 16 de diciembre de 2014.
 
@@ -49,7 +49,7 @@ Naturaleza y objeto de la Ley
 
 La presente ley es de orden público e interés social, y tiene por objeto reconocer los derechos de los jóvenes, así como generar las medidas y marco normativo que regulen las políticas públicas transversales que permitan al Estado y los municipios garantizar el desarrollo integral e inclusión social de la juventud, reconociéndoles su nivel de importancia, y, se les conciba como actores sociales estratégicos para la transformación y el mejoramiento del Estado.
 
-El ejercicio de los derechos de los jóvenes no tendrá más limitantes que las que deriven de la Constitución Política de los Estados Unidos Mexicanos, la Constitución para el Estado de Guanajuato y demás ordenamientos legales aplicables.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
 Glosario
 
@@ -71,7 +71,9 @@ VI. Factores de riesgo y alteraciones del desarrollo. Todos aquellos eventos, co
 
 VII. Instituto. El Instituto de la Juventud Guanajuatense;
 
-VIII. Joven. El ser humano ubicado en el rango de edad entre los 12 y 29 años cumplidos;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+VIII. Joven. El ser humano ubicado en el rango de edad entre los 18 y 29 años cumplidos;
 
 IX. Organismo municipal. La dependencia, organismo desconcentrado o entidad paramunicipal con que cuente cada municipio para el cumplimiento de esta Ley;
 
@@ -129,69 +131,39 @@ IX. La participación de los jóvenes en la consolidación del sistema democrát
 
 Derechos humanos
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 5.
 
-Son derechos humanos de los jóvenes los reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y demás ordenamientos aplicables, sin distinción de edad, origen étnico, raza, género, discapacidad, condición social, nacionalidad, condiciones de salud, lengua, religión, opiniones, preferencias, ideología, estado civil, o cualquier otra característica o situación que pudiera significar discriminación alguna.
+Son derechos humanos de los jóvenes los reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y demás ordenamientos aplicables, sin discriminación alguna.
 
-Derechos de los jóvenes
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
+Ejercicio de derechos de los jóvenes
 
 ###### Artículo 6.
 
-Son derechos humanos de los jóvenes:
+El ejercicio de los derechos de los jóvenes, no tendrá más limitantes que las que deriven de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, y demás ordenamientos legales aplicables.
 
-I. El pleno goce y disfrute de los derechos civiles, políticos, económicos, laborales, sociales y culturales emanados de la Constitución Política de los Estados Unidos Mexicanos, los pactos, tratados y convenios internacionales suscritos por el estado mexicano, así como de la Constitución Política para el Estado de Guanajuato;
-
-II. El ejercicio y respeto de su libertad, pensamiento, conciencia y religión, sin ser coartados ni limitados en las actividades que deriven de ella; prohibiéndose cualquier acto de persecución, represión del pensamiento y, en general, todo acto que atente contra su integridad física y mental o su seguridad;
-
-III. La igualdad en cuanto a la protección legal;
-
-IV. La preferencia sexual y ejercicio responsable de la sexualidad, de modo que la práctica de ella contribuya a la seguridad de cada joven y a su identidad y realización personal, evitando cualquier tipo de marginación y condena social por razón de su vida sexual;
-
-V. A las garantías del debido proceso; así como a no ser detenido de manera arbitraria;
-
-VI. El no ser discriminado; y
-
-VII. No ser molestado por autoridad sin causa justificada.
+Tratándose de jóvenes mayores de edad que tengan alguna incapacidad en los términos de lo que disponga el Código Civil para el Estado de Guanajuato, el ejercicio de sus derechos se hará por conducto de quien legalmente los represente.
 
 Derechos de los Jóvenes con discapacidad
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 7.
 
-Los jóvenes con discapacidad, tendrán además los siguientes derechos:
-
-I. Acceder en igualdad a la capacitación laboral y su incorporación a la vida productiva;
-
-II. A ejercer de manera responsable e informada su sexualidad, libre de prejuicios;
-
-III. A decidir con responsabilidad el ejercicio de su paternidad y maternidad;
-
-IV. Contar con el apoyo de las autoridades en la materia y demás entidades estatales y municipales en lo relativo a la garantía, ejercicio y respeto de sus derechos;
-
-V. Desplazarse libremente y con seguridad en los espacios públicos, instituciones educativas, y en el transporte de pasajeros, y para garantizar el cumplimiento; los gobiernos Estatal y municipales deberán proveer y promover la generación de acciones, en los ámbitos público y privado; y
-
-VI. Recibir educación libre de barreras culturales y sociales.
+Los jóvenes con discapacidad, tienen derecho a la inclusión en un marco de igualdad, desarrollo social y equiparación de oportunidades en todos los ámbitos de su vida.
 
 #### Sección Segunda. Derecho a una vida digna
 
-Garantía del Estado a una vida digna
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
+Vida digna
 
 ###### Artículo 8.
 
-Los jóvenes son inviolables en su dignidad, el Estado garantizará el goce y disfrute que hagan posible la materialización de este derecho que permita el disfrutar de los servicios y beneficios sociales, económicos, políticos, culturales, informativos, de desarrollo y convivencia para un desarrollo físico, moral e intelectual.
-
-Además, tendrán derecho a:
-
-I. Reconocimiento incondicional a su persona y a su integridad física, intelectual, psicoemocional y sexual;
-
-II. Un trato cordial y respetuoso;
-
-III. Una vida libre de violencia y de cualquier tipo de explotación;
-
-IV. Mantener bajo confidencialidad, su estado de salud físico y mental, así como los tratamientos que le sean prescritos, de conformidad con la legislación aplicable;
-
-V. Disfrutar y gozar de sus derechos humanos y libertades fundamentales, cuando residan en hogares o instituciones donde se les brinden cuidados o tratamientos con pleno respeto a su dignidad, creencias, necesidades e intimidad; y
-
-VI. Los demás que contribuyan a su desarrollo armónico e integral.
+Las autoridades estatales y municipales, así como los organismos públicos autónomos y la sociedad civil, garantizarán el respeto a la dignidad de los jóvenes en condiciones que propicien su desarrollo integral.
 
 Promoción y apoyo de iniciativas
 
@@ -207,55 +179,27 @@ Medio ambiente sano
 
 Los jóvenes tienen derecho a disfrutar de un medio ambiente sano para su desarrollo y bienestar que respalde su desarrollo integral, el Estado y los municipios promoverán, por todos los medios a su alcance una cultura que permita, la conservación, vigilancia y uso responsable de los recursos naturales, en la que participen los jóvenes.
 
-#### Sección Cuarta. Derecho a la libertad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2015)</small>
 
-Libertad
+#### Sección Cuarta. Derecho a la Igualdad
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
+Igualdad
 
 ###### Artículo 11.
 
-Los jóvenes tienen derecho a la individualidad, la libertad, al acceso a las instituciones educativas, culturales y recreativas; así como al disfrute de su tiempo, en función de un proyecto personal de vida que contribuya a su autorrealización.
-
-Para ello, contarán con oportunidades que les permitan participar y desarrollar plenamente sus potencialidades, capacidades y aptitudes. Los jóvenes podrán, además:
-
-I. Disfrutar de las libertades de pensamiento, credo, tránsito, expresión, manifestación, reunión y asociación;
-
-II. Seleccionar el campo de estudio artístico, deportivo, técnico o profesional de su preferencia y laborar en él, generando ingresos que correspondan al trabajo desempeñado;
-
-III. Tener acceso a programas educativos y de capacitación que le permitan alfabetizarse o continuar preparándose para su desarrollo personal, social y profesional;
-
-IV. Tomar decisiones sobre el cuidado y su calidad de vida, siempre y cuando, no afecte su desarrollo integral y no contravenga disposición legal alguna;
-
-V. Votar y participar en los procesos democráticos de elección popular establecidos en la Constitución Política para el Estado de Guanajuato y en la Ley de Participación Ciudadana, promoviendo más y mejores oportunidades de participación;
-
-VI. Mantener su identidad cultural, costumbres y tradiciones, así como, transmitirlas a sus descendientes; y
-
-VII. Las demás que contribuyan a su desarrollo armónico e integral.
+Los jóvenes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades estatales y municipales, así como los organismos públicos autónomos, implementarán políticas públicas transversales que garanticen y fomenten la igualdad en favor de los jóvenes.
 
 #### Sección Quinta. Derecho a la identidad y familia
 
 Identidad y familia
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 12.
 
-Los jóvenes tienen derecho a:
-
-I. Proponer acciones legislativas, políticas públicas, estrategias y programas en materia de juventud en el estado y sus municipios por medio de las instancias correspondientes;
-
-II. Tener una identidad, tomando como base el conjunto de atributos y derechos de la personalidad, conforme a lo previsto en el Código Civil para el Estado de Guanajuato;
-
-III. Solicitar y recibir información sobre su origen y la identidad de sus padres, salvo las excepciones previstas en la ley de la materia;
-
-IV. Recibir, analizar, sistematizar y difundir información objetiva y oportuna que sea de interés para sus proyectos de vida, sus intereses colectivos y para el bien del Estado;
-
-V. Vivir y crecer en el seno de una familia;
-
-VI. Integrarse a una familia y recibir los beneficios de la adopción. En caso de incapacidad, deberá tomarse en cuenta la opinión de quien ejerza la tutela;
-
-VII. Emitir su opinión en todos los asuntos que le afecten, salvo los casos de incapacidad que prevea el Código Civil para el Estado de Guanajuato;
-
-VIII. Recibir un trato digno y apropiado cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones o delitos; y
-
-IX. Los demás que contribuyan a su desarrollo armónico e integral.
+Los jóvenes tienen derecho a vivir y crecer en el seno de una familia, así como a conocer su origen; el Estado garantizará su derecho a la identidad y a la protección cuando así la requieran.
 
 #### Sección Sexta. Derecho a la autorrealización, inclusión y participación
 
@@ -287,49 +231,33 @@ X. Las demás que contribuyan a su desarrollo armónico e integral.
 
 #### Sección Séptima. Derecho a la salud
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
 Salud
 
 ###### Artículo 14.
 
-En materia de salud, los jóvenes tienen derecho a:
+En materia de salud, los jóvenes tienen derecho a recibir los servicios de salud pública de conformidad con el Sistema Nacional de Salud y los programas estatales en la materia.
 
-I. Recibir los servicios médicos necesarios, para la prevención, tratamiento, atención y rehabilitación de enfermedades y discapacidades, de acuerdo con las bases y modalidades que establezcan las disposiciones jurídicas de la materia;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2015)</small>
 
-II. Recibir de los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia, centros de salud comunitarios u otras dependencias federales, estatales o municipales, los beneficios de programas propios para jóvenes, sobre orientación y capacitación en materia de salud; nutrición, higiene, saneamiento comunitario y ambiental, ejercicio de su sexualidad de manera responsable, así como todo aquello que favorezca su cuidado personal;
+#### Sección Octava. Derecho a la asistencia social y a la información sexual
 
-III. Ser orientados por las entidades de la Administración Pública competentes, a través de los programas que al respecto se formulen, sobre los efectos del consumo de drogas, estupefacientes o cualquier otra cosa que les genere un estado de dependencia o adicción;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
 
-IV. Contar con una línea de atención telefónica por parte de la Secretaria de Salud para atender crisis psicológicas;
-
-V. Conocer las acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para los jóvenes, adicciones, VIH-SIDA, infecciones de transmisión sexual, nutrición, salud pública y comunitaria;
-
-VI. Tener acceso a las campañas permanentes e intensivas dirigidas a los jóvenes, a fin de prevenir el sobrepeso, la obesidad y otros trastornos alimenticios que para tales fines organice el Gobierno del Estado y los municipios;
-
-VII. Solicitar información y atención a la Secretaría de Salud del Estado de Guanajuato, para conocer las medidas de prevención y tratamiento del sobrepeso y la obesidad, así como de los trastornos alimenticios;
-
-VIII. Recibir de la Secretaría de Salud del Estado de Guanajuato atención a los jóvenes que padezcan sobrepeso, obesidad, o cualquier trastorno alimenticio. Para ello, el gobierno deberá destinar recursos presupuestales suficientes a la prevención y tratamiento del sobrepeso y la obesidad, así como de los trastornos alimenticios; y
-
-IX. Las demás que contribuyan a su desarrollo armónico e integral.
-
-Las autoridades de salud en el Estado, deberán implementar políticas y establecer los mecanismos necesarios que permitan a la juventud obtener los servicios médicos dependientes del Estado, promoviéndolos y difundiéndolos en lugares públicos para el conocimiento de los mismos.
-
-#### Sección Octava. Derecho a la asistencia social, derechos sexuales y reproductivos
-
-Asistencia social, derechos sexuales y reproductivos
+Asistencia social
 
 ###### Artículo 15.
 
-Los jóvenes serán sujetos de programas de asistencia social, cuando se encuentren o vivan en circunstancias de vulnerabilidad social, que coadyuven en su protección integral, en tanto puedan valerse por sí mismos y que se les auxilie para recuperar su salud y equilibrio personal. En caso de jóvenes con daño físico irreversible o mental, los programas de asistencia social serán implementados a través de los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia u otras dependencias federales, estatales o municipales en el Estado.
+Los jóvenes tienen derecho al acceso a los programas de asistencia social que operen en el Estado, a fin de que se contribuya a modificar y mejorar las circunstancias de carácter social para propiciar su desarrollo integral. Asimismo, a que se garantice su protección física mental y social por el grado de necesidad o vulnerabilidad en el que se encuentren, hasta lograr su incorporación a una vida plena y productiva.
 
-El Gobierno del Estado implementará programas de apoyo y sensibilización que permitan a los jóvenes ejercer y disfrutar de una maternidad y paternidad responsable.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
 
-Derecho a decidir de forma libre y responsable
+Derecho a la información en materia sexual
 
 ###### Artículo 16.
 
-Los jóvenes tienen derecho a recibir información completa, científica y laica sobre sexualidad. Tendrán acceso a los servicios de salud sexual y salud reproductiva, así como el derecho a decidir, de manera consciente y plenamente informada, el momento y el número de hijos que deseen tener.
-
-Los programas que para tal efecto se emitan, deberán incluir lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud reproductiva, ejercicio responsable de la sexualidad, enfermedades de transmisión sexual, educación sexual, embarazo en adolescentes, maternidad y paternidad, entre otros.
+Los jóvenes tienen derecho a recibir información completa y científica sobre sexualidad.
 
 #### Sección Novena. Derecho a la educación
 
@@ -517,6 +445,8 @@ Respetar y cumplir
 
 Deberes y obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 43.
 
 Es deber de los jóvenes respetar y cumplir las disposiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes que de ellas emanen, en concordancia con el respeto, práctica y promoción de los valores humanos con el fin de promover la convivencia pacífica con la sociedad, y la familia.
@@ -527,7 +457,7 @@ Competencia del Ejecutivo del Estado
 
 ###### Artículo 44.
 
-Los jóvenes tendrán, en general, los siguientes deberes y obligaciones:
+Los jóvenes tendrán en general, los siguientes deberes y obligaciones:
 
 I. Asumir el proceso de su formación, aprovechando de manera óptima las oportunidades educativas y de capacitación que brinden las instituciones para superarse en forma continua;
 
@@ -535,7 +465,9 @@ II. Preservar su salud a través del autocuidado, prácticas de vida sana, ejecu
 
 III. Procurar el aprendizaje y práctica de los valores cívicos y éticos que lo conduzcan al pleno desarrollo de su persona;
 
-IV. Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico, sino también el afectivo, los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+IV. Informarse debidamente en materia de sexualidad humana y sobre paternidad responsable; y
 
 V. Conocer acerca de los efectos y daños irreversibles a la salud que produce el alcohol, el tabaco, las drogas y sobre qué hacer para evitar su consumo.
 
@@ -545,7 +477,9 @@ Deberes y obligaciones con la familia
 
 En relación con su familia, los jóvenes tendrán los siguientes deberes y obligaciones:
 
-I. Convenir con sus padres y miembros de la familia, normas de convivencia en el hogar en un marco de respeto y tolerancia;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+I. Participar en el desarrollo armónico de las relaciones familiares en un marco de respeto y tolerancia;
 
 II. Contribuir en el cuidado, educación y enseñanza de otros miembros de la familia que lo requieran;
 
@@ -1238,3 +1172,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MARZO DE 2015.
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia el día dieciséis de marzo de dos mil quince previa publicación en el Periódico Oficial del Gobierno del Estado.
