@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-536-hacendario-para-el-municipio-de-tierra-67702"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-16"
-last_updated: "2009-02-16"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 536 HACENDARIO PARA EL MUNICIPIO DE TIERRA BLANCA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 536 HACENDARIO PARA EL MUNICIPIO DE TIERRA BLANCA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NÚMERO 536 HACENDARIO PARA EL MUNICIPIO DE TIERRA BLANCA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 16 de febrero de 2009.
 
@@ -2693,7 +2693,7 @@ Agropecuario 20
 
 De Servicio 20
 
-De más de1,000 M2.
+De más de 1,000 M2.
 
 Salarios Mínimos
 
@@ -3853,11 +3853,9 @@ Los derechos a que se refiere este Capítulo se causarán y pagarán, en salario
 
 Salarios Mínimos
 
-I. Por la expedición de copias de
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-actas del Registro Civil, incluyendo
-
-el papel sellado, por cada hoja 1.00
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.00, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Registro de nacimientos ordinarios
 
@@ -5117,7 +5115,7 @@ La deuda pública que contrate el Municipio será ordinaria y extraordinaria. La
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 400, contratarán su deuda pública, con base en las autorizaciones específicas del H. Congreso.
 
-También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio par ala contratación de financiamientos que se destinen a inversiones públicas productivas.
+También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio par ala (sic) contratación de financiamientos que se destinen a inversiones públicas productivas.
 
 ### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
@@ -5787,7 +5785,7 @@ III. Dicho acuerdo será notificado de manera personal a los colindantes;
 
 IV. Transcurrido el término señalado en la fracción II, y no existiendo oposición legítima de terceros, el Ayuntamiento emitirá el acuerdo declarando que el bien sujeto al procedimiento pasa a ser propiedad del Municipio; y
 
-V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del palacio municipal y en la Gaceta Oficia del estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad que corresponda, para que se inscriba por primera vez como título de propiedad a favor del Municipio.
+V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del palacio municipal y en la Gaceta Oficial del estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad que corresponda, para que se inscriba por primera vez como título de propiedad a favor del Municipio.
 
 ## TÍTULO TERCERO. DE LA RESCISIÓN ADMINISTRATIVA
 
@@ -5872,3 +5870,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
