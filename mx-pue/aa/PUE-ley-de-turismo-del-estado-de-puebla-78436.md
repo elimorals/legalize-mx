@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2013-04-01"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -144,6 +144,30 @@ XX.- Turismo de Salud: Actividad generada por las personas que se trasladan fuer
 XXI.- Prestadores de Servicios relacionados con el Turismo de Salud: Todos aquéllos que a criterio de la Secretaría de Salud del Estado y de los Servicios de Salud del Estado de Puebla, brinden servicios terapéuticos como: Spa, masajes, medicina alópata y aguas termales. Estos Prestadores de Servicios deberán ser previamente certificados conjuntamente por la Secretaría, la Secretaría de Salud del Estado y por los Servicios de Salud del Estado de Puebla.
 
 Las certificaciones correspondientes se tramitarán de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXII.- Congresos: Toda reunión profesional que tiene por objeto realizar una discusión y un intercambio profesional y/o académico en torno a un tema de interés. La iniciativa de realizar el Congreso puede ser Gremial o Institucional, la convocatoria es abierta y la participación voluntaria;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXIII.- Convenciones: Toda reunión gremial o empresarial cuyo objetivo es el tratar asuntos comerciales entre los participantes en torno a un mercado, producto o marca. La iniciativa suele ser empresarial, la convocatoria es cerrada (limitada a un público personalizado y relacionado con el tema) y la participación suele ser por invitación;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXIV.- Ferias y Exposiciones: Son muestras o exhibiciones públicas que organizan profesionalmente empresas, asociaciones o individuos y cuya finalidad es la venta de productos o servicios de un sector determinado de la economía;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXV.- Viajes de Incentivo: Es una estrategia moderna gerencial utilizada para lograr metas empresariales fuera de lo común al premiar a los participantes con una experiencia extraordinaria de viaje, una vez lograda esa parte que les corresponde a las metas fuera de lo común;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXVI.- Reuniones de Negocios Grupal: Es el tipo de turismo en donde el destino es seleccionado por un mercado o producto que es el principal interés del negocio a realizar. Este tipo de turismo tiene la posibilidad de seleccionar el destino turístico donde se realice un congreso, convención o viaje de incentivos, siempre y cuando cumpla con los requisitos para su organización;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXVII.- Reuniones de Negocios Individual: Se entiende por la persona que se desplaza y visita un destino turístico específico, en función de las actividades laborales y profesionales que desarrolla, además de realizar actividades basadas en el negocio por el cual viaja, frecuentemente llamados viajeros de negocios.
 
 ###### Artículo 4.
 
@@ -505,7 +529,9 @@ La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencia
 
 Lo anterior, se llevará a cabo, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Sistema de Información Turística del Estado.
 
-### CAPÍTULO VI. DEL TURISMO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2015)</small>
+
+### CAPÍTULO VI. DEL TURISMO SOCIAL Y TURISMO DEPORTIVO
 
 ###### Artículo 33.
 
@@ -518,6 +544,14 @@ Las Dependencias y las Entidades de la Administración Pública Estatal, coordin
 La Secretaría, con la participación de las distintas dependencias y entidades promoverá la suscripción de convenios con prestadores de servicios turísticos para el cumplimiento de los objetivos de este Capítulo.
 
 Las dependencias y entidades del sector público del Poder Ejecutivo Estatal y de los Municipios, promoverán entre sus trabajadores el turismo social.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 34 Bis.
+
+Se define al Turismo Deportivo como aquella actividad que realizan los visitantes con el fin de practicar algún deporte, competir o ser espectador de algún evento deportivo en sus diferentes modalidades.
+
+La Secretaría, con el apoyo y en coordinación de las Dependencias y Entidades competentes y aprovechando la vasta riqueza con la que cuenta el Estado de Puebla, promoverán el turismo deportivo a nivel nacional e internacional.
 
 ### CAPÍTULO VII. DEL TURISMO DE NATURALEZA
 
@@ -534,6 +568,24 @@ I.- El ecoturismo, que implica la recreación basada en la observación, conocim
 II.- El turismo de aventura, que incluye diferentes actividades deportivas y recreativas, donde se participa en armonía con el ambiente, respetando el patrimonio natural, cultural e histórico; y
 
 III.- El turismo rural, en el cual el turista participa en actividades propias de las comunidades, los ejidos y los pueblos indígenas, que le permiten conocer los valores tradicionales, forma de vida, manejo ambiental, usos y costumbres y aspectos de su historia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 36 Bis.
+
+El Turismo Sustentable es una actividad comprometida a hacer un bajo impacto sobre el medio ambiente y cultura local, al tiempo que contribuye a generar ingresos y empleo para la población local.
+
+Para la realización o práctica del Turismo Sustentable se deberá observar en todo momento los siguientes principios:
+
+a) Los recursos naturales y culturales se conservan para su uso continuado en el futuro, al tiempo que reportan beneficios;
+
+b) El desarrollo turístico se planifica y gestiona de forma que no cause serios problemas ambientales o socioculturales;
+
+c) La calidad ambiental se mantiene y mejora;
+
+d) Se procura mantener un elevado nivel de satisfacción de los visitantes y el destino retiene su prestigio y potencial comercial, y
+
+e) Los beneficios del turismo se reparten ampliamente entre toda la sociedad.
 
 ###### Artículo 37.
 
@@ -615,13 +667,45 @@ La Secretaría, en coordinación con la Secretaría de Salud y con los Servicios
 
 Los prestadores de servicios relacionados con el Turismo de Salud se sujetarán a los lineamientos y disposiciones establecidos en la Ley General de Salud, Ley Estatal de Salud, Normas Oficiales Mexicanas y demás legislación sanitaria aplicable para tal efecto.
 
-> <small>(REFORMADA EN SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2015)</small>
 
-### CAPÍTULO IX. DE LA CULTURA TURÍSTICA Y DEL TURISMO CULTURAL
+### CAPÍTULO VIII QUÁTER. DEL TURISMO DE REUNIONES DE NEGOCIOS, DE LUJO Y TURISMO DE BODAS
 
-### CAPÍTULO X. DEL ORDENAMIENTO TURÍSTICO DEL TERRITORIO
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
 
-### CAPÍTULO XI. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
+###### Artículo 41 Septies.
+
+El Turismo de Reuniones de Negocios grupal o individual, es un conjunto de corrientes turísticas cuyo motivo de viaje está vinculado con la realización de actividades laborales y profesionales, llevadas a cabo en reuniones de negocios con diferentes propósitos y magnitudes, tales como: congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 41 Octies.
+
+La Secretaría, en coordinación con las Dependencias y Entidades competentes de la Administración Pública Estatal y Municipal, Prestadores de Servicios y Sectores Social y Privado, fomentarán el Turismo de Reuniones de Negocios en nuestro Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 41 Nonies.
+
+El Turismo de Lujo o Premium, es un segmento del turismo, dirigido al turista con un alto nivel de exigencia y selectividad, que gusta vivir experiencias de élite.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 41 Decies.
+
+El Turismo de Bodas, se define como el viaje que realiza una persona fuera del lugar de su residencia, con la finalidad de contraer matrimonio o por motivo de la celebración de éste.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE MARZO DE 2015)</small>
+
+### CAPÍTULO VIII QUINQUIES. DEL TURISMO DE SEGUNDAS RESIDENCIAS
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+Artículo 41 Undecies.- El Turismo de Segundas Residencias o Residenciado, es aquel que protagonizan las personas normalmente agrupadas en unidades familiares, que en un proceso temporal determinado, se trasladan a ciertos espacios, habitualmente destinos turísticos tradicionales, vinculándose a los mismos por largos períodos de tiempo mediante relaciones inmobiliarias.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2015)</small>
+
+### CAPÍTULO IX. DE LA CULTURA TURÍSTICA Y DEL TURISMO CULTURAL, DEL TURISMO RELIGIOSO Y TURISMO ARQUEOLÓGICO
 
 ###### Artículo 42.
 
@@ -643,7 +727,19 @@ Turismo Cultural, es el viaje turístico motivado por conocer, comprender y disf
 
 La Secretaría, con el apoyo y en coordinación de las Dependencias y Entidades competentes, promoverán el turismo cultural a nivel nacional e internacional, como una atracción turística de nuestro Estado e implementarán programas que impulsen el desarrollo del mismo.
 
-### CAPÍTULO XII. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 43 Quater.
+
+El Turismo Religioso, es aquel viaje motivado para conocer o visitar santuarios o lugares sagrados, peregrinaciones, tumbas, criptas, así como el de asistir y participar en celebraciones religiosas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 43 Quinquies.
+
+El Arqueoturismo o Turismo Arqueológico, es una forma alternativa de turismo cultural y se define como el traslado de visitantes, con el fin de conocer la arqueología, los yacimientos y lugares históricos del destino.
+
+### CAPÍTULO X. DEL ORDENAMIENTO TURÍSTICO DEL TERRITORIO
 
 ###### Artículo 44.
 
@@ -697,7 +793,7 @@ IV.- Propiciará la participación de los prestadores de servicios en la elabora
 
 V.- En caso de que un programa de ordenamiento turístico local incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado considerando las disposiciones legales y administrativas correspondientes.
 
-### CAPÍTULO XIII. DE LA EVALUACIÓN
+### CAPÍTULO XI. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
 ###### Artículo 48.
 
@@ -719,7 +815,7 @@ En el Reglamento de la Ley se establecerán los lineamientos de coordinación pa
 
 La Secretaría y los Ayuntamientos, en coordinación con la Secretaría de Turismo Federal, formularán los programas de manejo correspondiente para cada zona.
 
-### CAPÍTULO ÚNICO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
+### CAPÍTULO XII. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### Artículo 53.
 
@@ -731,7 +827,7 @@ La Secretaría será la instancia competente para emitir las Declaratorias de la
 
 Toda área, municipio o región que haya sido declarada como Zona de Desarrollo Turístico Prioritario, recibirá los apoyos que contemple la Secretaría dentro del Programa Estatal de Turismo.
 
-### CAPÍTULO I. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
+### CAPÍTULO XIII. DE LA EVALUACIÓN
 
 ###### Artículo 55.
 
@@ -753,7 +849,7 @@ Evaluados los resultados de la aplicación de la política, programas y acciones
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO II. DEL REGISTRO DE PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO ÚNICO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
 
 ###### Artículo 59.
 
@@ -797,7 +893,7 @@ Los Municipios podrán coordinarse con la Secretaría para el desarrollo de las 
 
 ###### Artículo 63.
 
-La Secretaría en el ejercicio de sus atribuciones en materia de promoción turística, determinará las políticas que aplicará a través de los diversos organismos estatales, dependencias y entidades estatales: (sic)
+La Secretaría en el ejercicio de sus atribuciones en materia de promoción turística, determinará las políticas que aplicará a través de los diversos organismos estatales, dependencias y entidades estatales:
 
 ###### Artículo 64.
 
@@ -839,7 +935,7 @@ Los recursos para integrar el fideicomiso podrán provenir de las aportaciones q
 
 ## TÍTULO CUARTO. DE LOS ASPECTOS OPERATIVOS
 
-### CAPÍTULO III. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
+### CAPÍTULO I. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
 
 ###### Artículo 72.
 
@@ -865,7 +961,7 @@ VI.- Los demás aspectos que sean necesarios para contar con un sistema completo
 
 Para efectos de lo señalado en el artículo anterior, la Secretaría deberá integrar, analizar y difundir la información que recabe y, con base en ello, diseñará un programa permanente de difusión turística a nivel local, nacional e internacional.
 
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO II. DEL REGISTRO DE PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 75.
 
@@ -883,7 +979,7 @@ La inscripción al Registro Nacional de Turismo será obligatoria para los prest
 
 La Secretaría podrá constatar a través de los medios legales que considere pertinentes la información que proporcionen los prestadores de servicios turísticos del Estado de Puebla, correspondiendo a la Secretaría de Turismo Federal la expedición del certificado respectivo, mediante el cual se acredite su carácter.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
+### CAPÍTULO III. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
 ###### Artículo 79.
 
@@ -893,7 +989,7 @@ Las relaciones entre los prestadores de servicios turísticos y el turista se re
 
 Para operar los prestadores de servicios turísticos, deberán cumplir con los elementos y requisitos que determinen la Secretaría de Turismo Federal mediante las disposiciones reglamentarias correspondientes, y las Normas Oficiales Mexicanas, y de forma concurrente la Secretaría, sin perjuicio de las obligaciones establecidas en otras disposiciones aplicables.
 
-### CAPÍTULO VI. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 81.
 
@@ -985,7 +1081,7 @@ Los prestadores de servicios turísticos, también están obligados a respetar l
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
 
-### CAPÍTULO VII. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
 
 ###### Artículo 86.
 
@@ -1033,7 +1129,7 @@ V.- Gestionar ante las autoridades competentes la oportuna y eficaz atención al
 
 VI.- Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
 
-### CAPÍTULO VIII. DE LA VERIFICACIÓN
+### CAPÍTULO VI. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 89.
 
@@ -1048,6 +1144,8 @@ III.- El diseño y ejecución de acciones de coordinación entre dependencias y 
 IV.- La realización de acciones para favorecer las inversiones y proyectos turísticos de alto impacto en el sector, así como agilizar los mecanismos y procedimientos administrativos que faciliten su desarrollo y conclusión; y
 
 V.- Fomentar la profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad proporcionando entre otros: conocimientos en áreas de accesibilidad, tanto en infraestructura, como en la atención de las personas con discapacidad; trato preferencial, y manejo ecológico de los desechos.
+
+### CAPÍTULO VII. DE LA CAPACITACIÓN TURÍSTICA
 
 ###### Artículo 90.
 
@@ -1076,6 +1174,8 @@ V.- Capacitar a sus trabajadores y empleados en materia de accesibilidad, trato 
 VI.- Intervenir en programas de capacitación a guías de turistas; y
 
 VII.- Las demás acciones que sean necesarias para la formación de recursos humanos profesionales que requiere el desarrollo turístico del Estado.
+
+### CAPÍTULO VIII. DE LA VERIFICACIÓN
 
 ###### Artículo 93.
 
@@ -1128,3 +1228,9 @@ P.O. 1 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
