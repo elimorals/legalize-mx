@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-carrera-judicial-21558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-10"
-last_updated: "2008-06-06"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "BCN"
 ---
 # REGLAMENTO DE CARRERA JUDICIAL
 
-LEY DE INGRESOS DEL MUNICIPIO DE YAUHQUEMEHCAN, TLAXCALA, PARA EL EJERCICIO FISCAL 2022
+REGLAMENTO DE CARRERA JUDICIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
-Ley publicada en la Décima Cuarta Sección del Número 51 del Periódico Oficial del Estado de Tlaxcala, el miércoles 22 de diciembre de 2021.
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de noviembre de 2000.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+El Consejo de la Judicatura del Estado de Baja California, en cumplimiento al Acuerdo 4.41, emitido en sesión ordinaria de fecha 22 de agosto del año dos mil, y con fundamento en lo dispuesto por los artículos 58.63 fracción VI, 64 y 65 de la Constitución Política del Estado Libre y Soberano de Baja California, así como de los artículos 155, 159, 168 fracción II y los correspondientes al Título XII de la Ley Orgánica del Poder Judicial del Estado de Baja California, se hace del conocimiento del público en general, que con esta fecha se expide el siguiente:
+
+REGLAMENTO DE CARRERA JUDICIAL
 
 ## TÍTULO PRIMERO. DE LOS FINES DE LA CARRERA JUDICIAL
 
@@ -81,6 +83,8 @@ El escalafón permitirá al personal de carácter jurisdiccional pasar progresiv
 
 El escalafón será uniforme para todos los Partidos Judiciales del Estado y no se interrumpirá con el traslado de uno a otro Partido Judicial.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### Artículo 7.
 
 La carrera judicial se integra por las siguientes categorías:
@@ -91,7 +95,7 @@ b) Jueces;
 
 c) Secretario General de Acuerdos del Tribunal Superior de Justicia;
 
-d) Secretarios de Estudio y Cuenta adscritos a cada Magistrado que integran Salas en el Tribunal;
+d) Secretarios de Estudio y Cuenta adscritos a cada Magistrado que integran Sala en el Tribunal;
 
 e) Secretarios Auxiliares del Tribunal Superior de Justicia;
 
@@ -99,7 +103,7 @@ f) Secretarios de Acuerdos; y
 
 g) Actuarios del Poder Judicial.
 
-Las asignaciones a los cargos anteriores se hará mediante concurso de oposición o de mérito, según corresponda, en los términos que para cada uno de ellos se establecen en la Constitución, en la Ley Orgánica y en este Reglamento.
+Las asignaciones a los cargos anteriores se hará mediante concurso, en los términos que para cada uno de ellos se establece en la Constitución, en la Ley Orgánica y en este Reglamento.
 
 ###### Artículo 8.
 
@@ -159,11 +163,11 @@ El Instituto aplicará los exámenes que correspondan a los aspirantes a ocupar 
 
 Para asegurar el eficaz cumplimiento de esta disposición, el Director del Instituto y el Presidente de la Comisión de Carrera Judicial del Consejo, realizarán dicha función de manera coordinada.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### Artículo 12.
 
-Los aspirantes a las categorías indicadas en los incisos b) al g) del numeral 7 de este Reglamento, serán electos por el Tribunal, de entre aquéllos que integren la lista que al efecto les presente el Consejo, de los aspirantes que hubieren aprobado todas y cada una de las etapas del concurso de oposición respectivo.
-
-Los Secretarios de Estudio y Cuenta serán propuestos por los Magistrados y será el Pleno del Tribunal el encargado de decidir sobre su elección, dependiendo del grado de preparación, conocimientos y desempeño en sus funciones.
+Los aspirantes a las categorías indicadas en los incisos b) al g) del numeral 7 de este reglamento, serán electos por las autoridades judiciales competentes, de entre aquéllos que integren la lista que al efecto les proporcione el Consejo, de los aspirantes que hubieren aprobado las etapas del concurso respectivo.
 
 ### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA
 
@@ -267,9 +271,7 @@ La Comisión de Carrera Judicial, recabará los reportes de la Comisión de Vigi
 
 ###### Artículo 31.
 
-Son obligaciones de los mexicanos:
-
-IV. Contribuir para los gastos públicos, así de la Federación como de los Estados, de la Ciudad de México y del Municipio en que residan de la manera proporcional y equitativa que dispongan las leyes.
+El Consejo aprobará, en su caso, los proyectos de dictamen de evaluación del desempeño en el cargo que la Comisión de Carrera Judicial le presente, sobre la base de las calificaciones que ésta haya calculado.
 
 ###### Artículo 32.
 
@@ -305,43 +307,7 @@ Se exceptúa de lo dispuesto en este artículo, los exámenes que corresponden a
 
 ###### Artículo 38.
 
-Por la expedición de certificaciones, constancias o reposición de documentos, se causarán derechos equivalentes a la forma siguiente:
-
-(NOTA: EL 13 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-l. POR BÚSQUEDA Y COPIA CERTIFICADA DE DOCUMENTOS, 1 UMA POR LAS PRIMERAS DIEZ FOJAS UTILIZADAS, Y 0.02 UMA POR CADA FOJA ADICIONAL.
-
-(NOTA: EL 13 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II. POR BÚSQUEDA Y COPIA SIMPLE DE DOCUMENTOS, 0.05 UMA POR LA BÚSQUEDA Y POR LAS PRIMERAS DIEZ FOJAS, EL 0.02 UMA POR CADA FOJA ADICIONAL.
-
-III. Por la expedición de certificaciones oficiales, 2 UMA.
-
-IV. Por la expedición de constancia de inscripción de predios y de no adeudo predial, 2.5 UMA.
-
-V. Por la expedición de las siguientes constancias, 1 UMA.
-
-a) Constancia de radicación.
-
-b) Constancia de dependencia económica.
-
-c) Constancia de ingresos.
-
-d) Constancia de identidad.
-
-e) Constancia de concubinato.
-
-VI. Por la expedición de otras constancias, 1 UMA.
-
-VII. Por el refrendo anual de licencia de funcionamiento municipal, 30 por ciento de los montos fijados en el artículo 40 de la presente Ley.
-
-VIII. Por la reposición por perdida del formato de licencia de funcionamiento, 4 UMA.
-
-IX. Por la expedición de Guía de Transito Local, 1 UMA.
-
-X. Derechos por publicación de edictos, 2 UMA.
-
-(NOTA: EL 13 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Los miembros de nuevo ingreso a la carrera judicial, incluyendo a quienes ocupan plazas interinas o provisionales, tendrán la obligación de presentar los exámenes de las materias del programa a partir de los seis meses posteriores a su incorporación.
 
 ###### Artículo 39.
 
@@ -495,247 +461,7 @@ g) Tener por lo menos cinco años de antigüedad en el Poder Judicial del Estado
 
 ###### Artículo 58.
 
-Se entiende por ''DAP" los derechos que se pagan con el carácter de recuperación de los gastos que le genera al Municipio por el uso y/o aprovechamiento de la prestación del servicio del alumbrado público, con la finalidad (sic) proporcionar el bienestar público por medio de la iluminación artificial de las vías públicas, edificios y áreas públicas, durante doce horas continuas y los 365 días del año, con el fin de que prevalezca la seguridad pública, así como el tránsito
-
-seguro de las personas y vehículos.
-
-El servicio de alumbrado público que se presta a la colectividad de forma regular (debe ser eficaz, eficiente y oportuna) y continúa (Que no puede interrumpirse sin causa justificada) es un servicio básico.
-
-Introducción
-
-A. Alcance
-
-A1. De la prestación del servicio de alumbrado público que proporciona el Municipio, en todo el territorio municipal, donde la base gravable son los gastos que le genera al Municipio, se encuentra relacionado con el hecho imponible y que sí corresponde a la actividad del ente público, que es precisamente la prestación de este servicio.
-
-La prestación del servicio de alumbrado público, se refiere a que el Municipio cuenta con uua iufraestructura (sic) para la iluminación de las calles, parques públicos, centros ceremoniales, bulevares de entradas a los ceutros (sic) de población, zonas
-
-de áreas deportivas, áreas de recreo, paraderos del transporte público etcétera y es necesario hacer que este en buenas coudiciones (sic) para el buen funcionamieuto (sic) durante los 365 días del año, proporcionando la iluminación artificial doce horas nocturnas de forma continua y regular, por lo que los equipos que hacen llegar este servicio a todo el territorio municipal como son: trasformadores, postes metálicos, luminarias en tecnología leds, y/o de cualquier otro tipo, cables de alimentaciones eléctricas, foto controles y todo lo necesario para que funcione y proporcione el alumbrado público adecuadamente, por lo que es indispeusable (sic) evitar gastos como son:
-
-a. Gastos por el Municipio para el pago mensual del suministro eléctrico que consume a cada noche las luminarias durante 12 horas coutiuuas (sic) y durante los 365 días del año, a la empresa suministradora de energía.
-
-b. Gastos para proporcionar el mantenimiento a esa infraestructura como sou (sic) reparaciones de las luminarias (fuente luminosa, driver / balastro, carcasa/ gabinete, foto controles, cables eléctricos, conexiones menores), reparaciones de postes metálicos, reparaciones de transformadores en algunos casos, así como por robos (vandalismo) a la infraestructura y reponer componentes eléctricos varias veces.
-
-Pago al personal que se encarga de proporcionar el mantenimiento, tanto preventivo como correctivo etcétera y cada cinco años por depreciación, sustituir luminarias que dejan de funcionar por obsolescencia tecnológica y/o por terminación de vida útil.
-
-c. Gastos para el coutrol (sic) interno de la administración del servicio del alumbrado público, que se da de forma regular y continúa.
-
-B. De la aplicación:
-
-Para la determinación de los montos de contribución para el cobro de los derechos de alumbrado público (DAP), según su beneficio dado en metros luz, de cada sujeto pasivo, se aplica la fórmula MDSIAP=SIAP incluido en la propia Ley de Ingresos de este Municipio para el ejercicio fiscal 2022, donde si el sujeto pasivo difiere del monto de contribución aplicado, ya sea a la alta o la baja, tiene un medio de defensa que debe aplicar el recurso de revisión que se encuentra en esta misma Ley y debe presentarse a la tesorería de esté Ayuntamiento, elaborando una solicitud de corrección de su monto de contribución DAP 2022, aplicando la fórmula ya descrita y revisando su beneficio dado en metros luz, que la dirección de obras públicas corroborará en físico.
-
-B1. Presupuesto de egresos.
-
-a.-Tabla A.
-
-Este municipio tiene en cuenta, el presupuesto de egresos para la prestación del servicio de alumbrado público, y se puede ver en la Tabla A: (Gastos del presupuesto anual que el municipio hace para la prestación del servicio de alumbrado público) y que se destinan a la satisfacción de las atribuciones del estado relacionadas con las necesidades colectivas o sociales o de servicios públicos, se hace la observación que las contribuciones de los gastos públicos constituye un (sic) obligación de carácter público, siendo que para este ejercicio fiscal 2022 asciende a la cantidad de $5,420,703.60 (CINCO MILLONES CUATROCIENTOS VEINTE MIL SETECIENTOS TRES PESOS 60/100 M.N.) es importante ver qué el número de usuarios registrados en la empresa suministradora de energía son un total de 13,158 (Trece mil ciento cincuenta y ocho usuarios) más beneficiarios de la iluminación pública no registrados.
-
-b.-Tabla B.
-
-En la tabla B se hacen los respectivos cálculos para la determinación de 3 variables que integran la fórmula MDSIAP=SIAP, como se calculan el CML PÚBLICOS, CML COMUN, CU.
-
-c.-Tabla C.
-
-En la tabla C se hace la conversión de pesos a UMA de las tres variables, CML PÚBLICOS, CML COMÚN, C.U., que son las que se encuentran en los seis bloques según su beneficio dado en METROS LUZ y su monto de contribución dado en
-
-UMA.
-
-B2. Ingresos para la recuperación de los gastos que le genera al Municipio la prestación del servicio de alumbrado público.
-
-Para mayor certeza del sujeto pasivo en cuanto al cálculo del monto de su aportación mensual, bimestral, y/o anual anexamos en seis bloques el monto de contribución según el beneficio dado en metros luz, para que de manera particular cualquier beneficiario del servicio de alumbrado público pueda hacer el respectivo cálculo de su monto de contribución, aplicando nuestra fórmula del MDSIAP=SIAP, siendo en el bloque uno y dos, montos bimestrales y del bloque tres al seis, montos mensuales.
-
-La manera en la que cualquier beneficiario del servicio del alumbrado público pueda calcular su monto de contribución mensual, bimestral y/o anual es insertando el frente que tiene a la vía pública, aplicar la fórmula en cualquiera de los 3 supuestos utilizando los factores de la tabla C y así calcular automáticamente su monto de contribución mensual, bimestral y/o anual de acuerdo a la clasificación que se localiza en seis bloques.
-
-a. El Municipio para hacer la recaudación del derecho de alumbrado público utiliza dos opciones del ingreso:
-
-a1. El primero, por medio de un convenio de recaudación del derecho de alumbrado público (DAP), que se lleva a cabo con la empresa suministradora de energía se recauda en los recibos de luz de forma bimestral y/o mensual según el bloque en que se clasifique.
-
-a2. El segundo, el beneficiario del servicio de alumbrado público quiera hacer su aportación del derecho de alumbrado público para ser recaudado por la tesorería, el sujeto en todos los casos hará su solicitud y pedirá su corrección de su beueficio (sic) dado en metros luz, de frente a su inmueble aplicando el recurso de revisión que se localiza en el anexo III de la preseute (sic) Ley y presentando su comprobante donde se pueda verificar su beneficio de la iluminación pública, la tesorería después de aplicar la fórmula MDSIAP=SIAP con el freute (sic), se hará el nuevo cálculo de su aportación y pagará al mes o bimestres y/o anual a esta tesorería, y el Municipio lo dará de baja del sistema de cobro de los recibos de luz de la empresa suministradora de energía para ya no ser incluidos.
-
-B3. Elementos que contiene la Ley de Ingresos del Municipio de Yauhquemehcan, para el ejercicio fiscal 2022: definición, objeto, sujeto, base gravable, cálculo del monto de la contribución con la fórmnla (sic) MDSIAP en tres supuestos que se encuentre el sujeto pasivo, época de pago, y recurso de revisión.
-
-a. Consumibles: Para su funcionamiento de las luminarias el Municipio comprará la energía eléctrica a una empresa suministradora de energía y se pagará la factura por el gasto de euergía (sic) que hace el sistema de alumbrado público, de manera mensual, ya sea que esta energía sea utilizada para luminarias que se encuentren en servicios medidos y/o servicios directos, de no pagar el Municipio en tiempo y forma y de acuerdo a las condiciones de la suministradora de energía, podría llegar al corte del suministro eléctrico y sí sucede esto, las calles se vuelven obscuras e inseguras.
-
-b. Depreciación y mantenimiento de la infraestructura del alumbrado público: Para que las luminarias que se localizan en las vías públicas operen 12 horas diarias y los 365 días del año es necesario también proporcionar el mantenimiento ya sea preventivo o correctivo de toda la infraestructura que hace funcionar el sistema del alumbrado público como: reparación de transformadores propiedad del Municipio, de cables subterráneos y aéreos de redes eléctricas municipales, de postes metálicos, de brazos y abrazaderas, de componentes internos de las luminarias, (balastros, focos, fotoceldas, driver, leds etcétera), así como su reposición por (depreciación) terminación de vida útil, de las luminarias completas, el Municipio proporciona también la instalación de iluminaciones de temporada y/o artísticas.
-
-c. Personal administrativo: Se utiliza para el pago al personal que lleva a cabo la administración del sistema de alumbrado público municipal, ellos serán los encargados de hacer funcionar de forma oportuna y programada tanto el funciouamiento (sic) del sistema como el control del mantenimiento en todo el territorio municipal, los 365 días del año.
-
-Los tres conceptos sumados a, b y c, actúan de forma conjunta y esto proporciona de forma eficiente y oportuna, la prestación del servicio de alumbrado público municipal.
-
-Tarifa=Monto de la contribución:
-
-El monto de la contribución se obtiene por la división de la base gravable entre el número de usuarios registrados en Comisión Federal de Electricidad, de acuerdo a acción de Inconstitucioualidad (sic) 15/2007 y que será obtenida dependiendo en el supuesto en que se encuentre el sujeto pasivo y de la aplicación de las 3 fórmulas:
-
-a. Primera, si el sujeto tiene iluminación pública en su frente.
-
-b. Segunda, si no tiene iluminación pública en su frente.
-
-c. Tercera, si está en tipo condominio.
-
-Fórmula aplicada en tres supuestos que pudiera estar el sujeto pasivo:
-
-Fórmnlas (sic) de aplicación del (DAP)
-
-En las fórmulas aplicadas para el cálculo de las tarifas, subsiste una correlación entre el costo del servicio prestado y el monto de la tarifa aplicada ya que entre ellos existe una íntima relación al grado que resultan ser interdependientes, igualmente las tarifas resultantes guardan una congruencia razonable entre los gastos que hace el Municipio por mantener la prestación del servicio y siendo igual para los que reciben idéntico servicio, así las cosas, esta contribución encuentra su hecho generador en la prestación del servicio de alumbrado público.
-
-El Municipio en cuestión que atiende a los criterios anteriores hace el cálculo de los montos de contribución (MDSIAP=SIAP) que cada sujeto pasivo debe aportar para recuperar los gastos que le genera al Municipio por la prestación del servicio de alumbrado público, y se determina por las siguientes fórmulas de aplicación:
-
-APLICACIÓN UNO:
-
-A. Para sujetos pasivos que tengan alumbrado público frente a su casa, hasta antes de 50 m eu (sic) cualquier dirección, partiendo del límite de su propiedad o predio.
-
-MDSIAP=SIAP= FRENTE* (CML PÚBLICOS + CML COMÚN) + CU
-
-APLICACIÓN DOS:
-
-B. Para sujetos pasivos que no tengan alumbrado público frente a su casa, después de 50 m en cualquier dirección, partiendo del límite de su propiedad o predio. Solo será aplicable esta fórmula a petición escrita del contribuyente, dirigida a la tesorería dentro de los primeros 30 días naturales siguientes al inicio del ejercicio fiscal de que se trate o del mes de causación de que se trate en adelante, siempre que acredite fehacientemente la distancia igual o mayor a 50 m en cualquier dirección del último punto de luz hasta el límite de su propiedad o de su predio.
-
-El escrito deberá estar acompañado de copias simples de escrituras más original o copia certificada para cotejo, original de boleta predial y pago de las contribuciones por servicios públicos al corriente y licencia de funcionamiento vigente en tratándose de comercios o industrias.
-
-MDSIAP=SIAP= FRENTE* (CML PÚBLICOS) + CU
-
-APLICACIÓN TRES:
-
-C. Para determinar el monto de la contribución unitaria de los sujetos pasivos que tengan un frente común, ya sea porque se trate de una vivienda en condominio o edificio horizontal y/o vertical, o que el mismo inmueble de que se trate tenga más de un medio de recaudación contratado y goce del alumbrado público frente a su casa, dentro de un radio de 50 metros lineales en cualquier dirección, partiendo del límite de su propiedad o predio. Solo será aplicable esta fórmula a petición escrita del contribuyente dirigida a la tesorería dentro de los primeros 30 días naturales siguientes al inicio del ejercicio fiscal de que se trate o del mes de causación de que se trate en adelante, siempre que acredite fehacientemente la distancia igual o mayor a 50 m en cualquier dirección del último punto de luz hasta el límite de su propiedad o de su predio y la existencia de un frente compartido o que se trate del mismo inmueble con más de un medio de captación del derecho de alumbrado público.
-
-El escrito deberá estar acompañado de copias simples de escrituras, más original o copia cotejo de boleta predial y pago de las coutribuciones (sic) por servicios públicos al corriente y licencia de funcionamiento vigente en tratándose de comercios o industrias.
-
-A los predios, que no cuenten con contrato en la empresa suministradora de energía y/o predios baldíos que sí, se beneficien del servicio de alumbrado público en su frente el cual brinda el Municipio, el cobro de este derecho será de 3 UMA anuales, que deberán cubrirse de manera conjunta con el impuesto predial.
-
-MDSIAP=SIAP=FRENTE/NÚMERO DE SUJETOS PASIVOS CONDÓMINOS O QUE GOCEN DE UN FRENTE COMÚN A TODOS* (CML COMÚN + CML PÚBLICOS) + CU
-
-El Ayuntamiento deberá publicar en el Periódico Oficial del Gobierno (sic) Estado, cada ejercicio fiscal, los valores de CML PUBLICOS, CML COMUN, C.U.
-
-Fundamentos jurídicos: Mismos que se integran en el anexo I de la preseute (sic) Ley.
-
-Motivación, Finalidad y Objeto: Se eucuentran (sic) en el anexo II de la presente Ley.
-
-Recurso de Revisión: Las inconformidades deberán impugnarse mediante el recurso de revisión, contenidos en el anexo III de la presente Ley.
-
-Este Municipio presenta sus respectivos gastos que le genera el prestar el servicio de alumbrado público para el ejercicio fiscal 2022, en tres tablas y de esta forma llega a calcular sus tres factores, dados en UMA:
-
-TABLA A: Presupuesto de egresos con los datos estadísticos por el Municipio para la prestación del servicio de alumbrado público.
-
-TABLA B: Se presentan los respectivos cálculos de valores de los factores que integran la fórmula y expresados en pesos de CML. PÚBLICOS, CML. COMÚN, C.U.
-
-TABLA C: La conversión de los tres valores de los factores (CML COMÚN, CML PÚBLICOS, C.U.) de pesos a UMA, mismas qne (sic) integran la fórmula.
-
-Así basados en las anteriores consideraciones matemáticas. El Municipio en cuestión, tiene a bien determinar cómo aplicable para el ejercicio fiscal 2022, los valores siguientes:
-
-VALORES EN UMA
-
-CML. PÚBLICOS (0.0335 UMA)
-
-CML. COMÚN (0.0312 UMA)
-
-CU. (0.0382 UMA)
-
-VER ORIGEN DE LAS TABLAS DE CÁLCULO: A, B Y C
-
-PRESUPUESTO DE EGRESOS QUE LE GENERA AL MUNICIPIO DE YAUHQUEMEHCAN, PARA EL EJERCICIO 2022, POR LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO
-
-TABLA A: PRESUPUESTO ANUAL DE EGRESOS POR LA PRESTACION DEL SERVICIO DE ALUMBRADO PÚBLICO CONTINUO, QUE SE PROPORCIONA EN LAS AREAS PÚBLICAS, PARA HACER FUNCIONAR LAS LUMINARIAS DEL SISTEMA DEL ALUMBRADO PÚBLICO PARA EL EJERCICIO FISCAL 2022, DURANTE 12 HORAS DIARIAS Y LOS 365 DIAS AL AÑO, DEL MUNICIPIO
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINAS 25, 26 Y 27.]</small>
-
-TABLA B, CÁLCULOS DE LOS VALORES DE LOS FACTORES: BASADOS EN EL PRESUPUESTO DE EGRESOS DEL EJERCICIO FISCAL 2022 DEL MUNICIPIO, QUE SE LOCALIZA EN LA TABLA A, EN ESTA TABLA B, SE LLEVAN A CABO LOS RESPECTIVOS CÁLCULOS DE LOS TRES FACTORES COMO SON CML PÚBLICOS, CML COMÚN y C.U. QUE ACTUANDO EN CONJUNTO SIRVEN DE BASE PARA QUE SEAN APLICADOS EN LAS FORMULAS MDSIAP=SIAP, Y QUE DE ACUERDO A EL FRENTE ILUMINADO DE CADA SUJETO SEAN CALCULADOS LOS MONTOS DE CONTRIBUCIÓN
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINAS 27 Y 28.]</small>
-
-VALORES DADOS EN UMA
-
-TABLA C: CONCENTRADO DE CÁLCULOS DE VALORES DE: CML. PÚBLICOS, CML. CÓMUN, CU, PARA APLICACIÓN EN FÓRMULA DATOS EN UMA
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINA 28.]</small>
-
-INGRESOS PARA LA RECUPERACION DE LOS GASTOS
-
-INGRESOS DEL MUNICIPIO PARA LA RECUPERACION DEL (SIC) LOS GASTOS QUE LE GENERA LA PRESTACION DEL SERVICIO DE ALUMBRADO PUBLICO, DURANTE 12 HORAS DIARIAS Y POR LOS 365 DIAS DEL AÑO FISCAL 2022.
-
-El ingreso del Municipio es recaudado por dos opciones, en una es por la propia tesorería del Ayuntamiento siempre a solicitud del sujeto pasivo y la otra es por la empresa suministradora de energía, en cualquiera de los dos casos se debe aplicar la misma fórmula MDSIAP= SIAP el sujeto puede hacer valer su recurso de revisión, que se localiza en el anexo III de esta Ley de Ingresos para el ejercicio fiscal 2022.
-
-Este ingreso del Municipio es utilizado para la recuperación de los gastos que le genera, por la prestación del servicio de alumbrado público y para mayor facilidad se anexan seis bloques, dando cumplimiento a lo establecido en el Artículo 31 fracción IV de la Constitución Política de los Estados Unidos Mexicanos, que a la letra dice: "Contribuir para los gastos públicos, así de la Federación, como de los Estados, de la Ciudad de México y del Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes".
-
-En la columna A del bloque uno al bloque seis, están referenciados el nivel de beneficio y que es calculado con la fórmula MDSIAP 1 hasta el nivel de beneficio MDSIAP 54, en la columna F se expresan los metros luz de frente a la vía pública dado en metros luz que tiene el sujeto pasivo, y por último en la columna G es el resultado del monto de contribución dado en UMA, pero en los seis bloques se utiliza la misma fórmula MDSIAP= SIAP.
-
-BLOQUE UNO
-
-APLICACIÓN DE VALORES DE CML, PÚBLICOS, CML COMÚN, Y CU, VIVIENDAS DATOS DADOS EN UMA
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINA 29.]</small>
-
-BLOQUE UNO: VIVIENDAS (APLICACIÓN BIMESTRAL)
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINA 29.]</small>
-
-BLOQUE DOS
-
-APLICACIÓN DE VALORES DE CML, PÚBLICOS, CML COMÚN, Y CU. EN BLOQUE DOS: NEGOCIOS Y/O COMERCIOS PEQUEÑOS, DATOS DADOS EN UMA
-
-BLOQUE DOS: NEGOCIOS/COMERCIOS (APLICACIÓN BIMESTRAL)
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINA 30.]</small>
-
-BLOQUE TRES
-
-APLICACIÓN DE VALORES DE CML, PÚBLICOS, CML COMÚN, Y CU. EN BLOQUE TRES: INDUSTRIAS Y/O COMERCIOS, DATOS DADOS EN UMA
-
-BLOQUE TRES: EMPRESAS INDUSTRIAL Y/O COMERCIAL PEQUEÑOS (APLICACIÓN MENSUAL)
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINAS 30 Y 31.]</small>
-
-BLOQUE CUATRO
-
-APLICACIÓN DE VALORES DE CML, PÚBLICOS, CML COMÚN, Y CU. EN BLOQUE CUATRO: INDUSTRIAS Y/O COMERCIOS, DATOS DADOS EN UMA
-
-BLOQUE CUATRO: EMPRESAS INDUSTRIAL Y/O COMERCIAL MEDIANOS (APLICACIÓN MENSUAL)
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINA 31.]</small>
-
-BLOQUE CINCO
-
-APLICACIÓN DE VALORES DE CML, PÚBLICOS, CML COMÚN, Y CU. EN BLOQUE CINCO: INDUSTRIAS Y/O COMERCIOS, DATOS DADOS EN UMA
-
-BLOQUE CINCO: EMPRESAS INDUSTRIAL Y/O COMERCIAL GRANDES (APLICACIÓN MENSUAL)
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINAS 31 Y 32.]</small>
-
-BLOQUE SEIS
-
-APLICACIÓN DE VALORES DE CML, PÚBLICOS, CML COMÚN, Y CU. EN BLOQUE SEIS: INDUSTRIAS Y/O COMERCIOS, DATOS DADOS EN UMA
-
-BLOQUE SEIS: EMPRESAS INDUSTRIAL Y/O COMERCIAL SUPER GRANDES (APLICACIÓN MENSUAL)
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O DE 22 DE DICIEMBRE DE 2021, PÁGINA 32.]</small>
-
-En los seis bloques fue aplicada la misma fórmula para el cálculo de monto de la contribución para cada clasificación de sujeto pasivo, pero en todos los casos se utilizan los mismo (sic) 3 factores que se localizan en la tabla C, si el sujeto pasivo, considera que su aplicación real debe ser menor porque es menor su beneficio dado en metros luz, en este caso primero presentará su solicitud al Municipio para pedir su revisión de acuerdo al recurso de revisión.
-
-La tesorería, enviará a verificar su frente que tiene de beneficio el sujeto pasivo dado en metros luz y aplicará la fórmula MDSIAP=SIAP y reconsiderará su nuevo monto de contribución la cual deberá pagar en la misma tesorería, y de acuerdo a la elaboración de un convenio interno entre las dos partes, dándose de baja del software de (sic) empresa suministradora de energía, para no duplicar dicho monto de contribución.
-
-Época de pago:
-
-El cobro de derecho de alumbrado público podrá ser:
-
-De manera mensual, y/o bimestral, cuando se realice por medio de la empresa suministradora de energía.
-
-De manera mensual, cuando se realice a través del sistema operador del agua potable.
-
-De manera mensual, bimestral y/o anual, cuando se realice por la Tesorería por convenio.
-
-De forma anual cuando se trate de predios urbanos, rústicos o baldíos que no cuenten con contrato de energía eléctrica.
-
-Equilibrio del egreso con el ingreso DAP, 2022.
-
-De igual forma, el Municipio podrá convenir con la suministradora de energía eléctrica, que los excedentes de la recaudación por concepto de derechos de alumbrado público (DAP) sean devueltos al Municipio, para que este último los aplique en el mantenimiento y administración del sistema de alumbrado público.
-
-La tesorería deberá asignar el monto total del dinero excedente únicamente para la constante modernización, mejora y mantenimiento de los sistemas de alumbrado público municipal.
-
-(NOTA: EL 13 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL ANEXO I, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-ANEXO I (Artículo 58) ALUMBRADO PÚBLICO
-
-FUNDAMENTOS JURÍDICOS
-
-Constitución Política de los Estados Unidos Mexicanos artículos 31, 73, 115 y 134.
+Independientemente de haber calificado para el otorgamiento de la beca solicitada y habiéndose obtenido, el Consejo de la Judicatura podrá suspender el apoyo económico que importe la misma, por razones presupuestales, o bien, porque no se acrediten los estudios de manera satisfactoria por el becado, en los términos de este Reglamento y de aquellas disposiciones de carácter general emitidas por el Pleno del Consejo.
 
 ###### Artículo 59.
 
@@ -771,13 +497,15 @@ La Comisión Académica vigilará con oportunidad el debido cumplimiento de la p
 
 ### CAPÍTULO PRIMERO. PREVISIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### Artículo 63.
 
 Este título tiene por objeto establecer las disposiciones que precisan los deberes y obligaciones de los órganos que intervienen en los concursos de oposición; los derechos y obligaciones de los concursantes y la regulación del procedimiento a seguir, mediante el cual los aspirantes a las categorías de la carrera judicial deberán obtener un resultado favorable, como uno de los requisitos para ser nombrados.
 
-Para los efectos de este Reglamento, se entenderá por concurso de oposición al procedimiento público para seleccionar y elegir al personal de carácter jurisdiccional, mediante una auténtica evaluación de sus merecimientos, a la que se llega a través de la realización de un conjunto de pruebas para apreciar la preparación y capacidad académica y profesional de los candidatos, y el examen de sus conocimientos, aptitudes de liderazgo y desarrollo organizacional, experiencia profesional y trabajos de investigación jurídica.
+Para los efectos de este reglamento, se entenderá por concurso de oposición al procedimiento público para seleccionar y elegir al personal de carácter jurisdiccional, mediante una auténtica evaluación de sus merecimientos, a la que se llega a través de la realización de un conjunto de pruebas para apreciar la preparación y capacidad académica y profesional de los candidatos, y el examen de sus conocimientos, aptitudes de liderazgo y desarrollo organizacional, experiencia profesional y trabajos de investigación jurídica.
 
-Los candidatos a la categoría de Magistrado, quedan exceptuados de la aplicación del presente título. Los requisitos y procedimientos para aspirar a la categoría de referencia, se ajustarán de conformidad con lo dispuesto por la Constitución Política del Estado, la Ley Orgánica del Poder Judicial del Estado y el título VIII del presente Reglamento.
+Los candidatos a las categorías de Magistrado y Juez, quedan exceptuados de la aplicación del presente título. Los requisitos y procedimientos para aspirar a las categorías de referencia, se ajustarán a lo dispuesto por la Constitución Política del Estado, la Ley Orgánica del Poder Judicial del Estado y los títulos VIII y IX del presente Reglamento.
 
 ###### Artículo 64.
 
@@ -879,9 +607,19 @@ En caso de que los aspirantes no satisfagan los requisitos establecidos en la co
 
 ###### Artículo 73.
 
-El Congreso tiene facultad:
+La solicitud para concursar deberá ser escrita y contener:
 
-X. Para legislar en toda la República sobre hidrocarburos, minería, sustancias químicas, explosivos, pirotecnia, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear y para expedir las leyes del trabajo reglamentarias del artículo 123.
+a) Nombre del aspirante.
+
+b) Domicilio y teléfono donde puede ser localizado.
+
+c) La expresión de su interés en participar en el concurso de que se trate y los motivos por los que aspira a la vacante que se concursa.
+
+d) Expresión del compromiso de ajustarse a las reglas que se determinen para el desarrollo de los exámenes.
+
+e) Manifestación bajo protesta de decir verdad, que se está en pleno ejercicio de sus derechos civiles y políticos y,
+
+f) Lugar y fecha de la solicitud, y firma autógrafa.
 
 ###### Artículo 74.
 
@@ -1207,27 +945,21 @@ La Comisión Académica, con el apoyo del Instituto y en coordinación con las d
 
 ###### Artículo 115.
 
-Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes:
+El Consejo de la Judicatura, inmediatamente que haya recibido la resolución del Congreso del Estado sobre la renuncia, remoción, falta absoluta o vacantes con motivo de la no ratificación de Magistrados al Tribunal Superior de Justicia, lanzará una convocatoria pública para ocupar dichos cargos.
 
-III .....
+La convocatoria se publicará por dos veces en el Boletín Judicial y dos veces en dos diarios de mayor circulación en el Estado, con un intervalo de cinco días hábiles entre cada publicación. La convocatoria deberá contener al menos las siguientes bases:
 
-b) Alumbrado público.
+a) La categoría y el número de plazas sujetas al mismo, así como los requisitos que deben reunir los aspirantes;
 
-l. Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les perteuezcan (sic), así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor, y en todo caso:
+b) El lugar, plazo y documentos necesarios para la inscripción;
 
-a) Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los Estados sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
+c) Reglas que regulan a las autoridades, jurados y resultados del examen;
 
-Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+d) La fecha, hora y lugar donde tendrán verificativo las diferentes etapas del examen;
 
-b) Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados.
+e) El material de apoyo;
 
-c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
-
-Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a y c, ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de las entidades federativas o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
-
-Los ayuntamieutos (sic), en el ámbito de su competencia, propondrán a las legislaturas estatales las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
-
-Las legislaturas de los Estados aprobarán las leyes de iugresos (sic) de los municipios, revisarán y fiscalizarán sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 127 de la Constitución.
+f) La manera en que se realizará la notificación de los resultados.
 
 ###### Artículo 116.
 
@@ -1245,139 +977,583 @@ Los criterios para las evaluaciones de referencia, se atenderán conforme a lo d
 
 Concluida la última etapa del examen, el Consejo a más tardar dentro de los 5 días hábiles posteriores, integrará una lista de aquéllos que hayan resultado aprobados y la entregará al Presidente del Tribunal Superior de Justicia, para que éste a su vez la remita al Congreso del Estado, en los términos previstos por el artículo 58 Constitucional.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+
+## TÍTULO NOVENO. DE LOS CONCURSOS PARA LA DESIGNACIÓN DE JUECES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO PRIMERO. REGLAS GENERALES
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 118.
+
+Este título tiene por objeto establecer las disposiciones que precisan los deberes y obligaciones de los órganos que intervienen en los concursos para la designación de jueces; los derechos y obligaciones de los concursantes y la regulación del procedimiento a seguir, mediante el cual los aspirantes deberán obtener un resultado favorable, como uno de los requisitos para ser nombrados.
+
+Para los efectos de este Reglamento, se entenderá por concurso al procedimiento mediante el cual a través de la aplicación de exámenes psicométricos, de oposición y de méritos, se evalúen el perfil psicológico; requisitos de elegibilidad; conocimientos jurídicos; preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante); experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales); así mismo, el prestigio profesional de los aspirantes a la categoría de juez a efecto de determinar su idoneidad para ser designados por la autoridad judicial competente y lograr que la excelencia, profesionalismo, objetividad, imparcialidad e independencia sean los principios rectores en la actuación de los jueces.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 119.
+
+Los exámenes que se aplican en los concursos, para el ingreso o promoción a la categoría de juez, tienen por objeto final asignar la plaza para la que se concursa, bajo los lineamientos y condiciones establecidas en la Constitución, Ley Orgánica, Reglamento de Carrera Judicial y los acuerdos que al efecto se tomen por el Pleno del Consejo y el Pleno del Tribunal Superior de Justicia, en los que a cada uno corresponda.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 120.
+
+Las plazas vacantes en la categoría de juez que deban cubrirse con nombramiento definitivo, se cubrirán mediante concurso interno o libre. En el concurso interno participarán únicamente quienes ya laboren en el Poder Judicial del Estado y en el concurso libre participarán estos y los profesionales del derecho que no formen parte de la plantilla del personal de dicho Poder Judicial.
+
+La clase de concurso se determinará en la proporción que acuerde el Pleno del Consejo, observando las circunstancias de la vacante sometida a concurso, para propiciar el nombramiento de quienes ya laboran en el Poder Judicial del Estado e impulsar de esta manera la carrera judicial y en su caso, dar oportunidad a la incorporación de destacados profesionales del derecho que deseen ocupar el cargo de juez.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 121.
+
+Es obligación del Consejo, fijar las bases, convocar y realizar el procedimiento para cubrir las vacantes al cargo de juez y corresponde al Pleno del Tribunal, hacer la designación de manera fundada y motivada de entre los concursantes que aparezcan en la lista que al efecto les proporcione el Consejo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 122.
+
+Para acceder a sustentar los exámenes, los aspirantes a efecto de identificarse, deberán presentar en original cualquiera de los siguientes documentos, en los que aparezca su fotografía: credencial para votar expedida por el Instituto Federal Electoral, Registro Federal de Electores; pasaporte extendido por la Secretaría de Relaciones Exteriores; cédula profesional expedida por la Secretaría de Educación Pública; cédula profesional expedida por la Secretaría de Educación y Bienestar Social, Departamento de Profesiones del Estado; credencial de empleado emitida por el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 123.
+
+Son obligaciones de la Comisión de Carrera Judicial:
+
+l. Presentar ante el Pleno del Consejo para su análisis, las propuestas respecto a la convocatoria, así como, el lugar, día y hora en el que habrán de realizarse los exámenes, lo cual deberá estar determinado antes de la publicación de la convocatoria.
+
+II. Recibir las solicitudes de inscripción y los documentos señalados en la convocatoria.
+
+III. Registrar las solicitudes y asignarles un número de inscripción al concurso.
+
+IV. Integrar el expediente de cada aspirante.
+
+V. Efectuar los análisis documentales y someterlos a la autorización del Consejo de la Judicatura.
+
+VI. Elaborar una relación de participantes, agrupándolos por ramo, instancia y vacante respectiva.
+
+VII. Formular las propuestas necesarias al Consejo de la Judicatura, para la determinación de los acuerdos procedentes.
+
+VIII. Las demás que les señale la Constitución, Ley Orgánica, Reglamento Interior del Consejo, este Reglamento y los acuerdos del Pleno del Consejo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 124.
+
+Los concursos se desarrollarán conforme a las bases señaladas en la Constitución, Ley Orgánica, Reglamento Interior del Consejo de la Judicatura, este Reglamento y demás acuerdos que al efecto determine el Pleno del Consejo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO SEGUNDO. DE LA CONVOCATORIA
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 125.
+
+La convocatoria será publicada por una ocasión en el Boletín Judicial del Estado y en un periódico de mayor circulación, sin embargo, tratándose de concurso interno, la convocatoria se difundirá además por los medios que el Consejo estime convenientes entre los servidores públicos que laboren en el Poder Judicial.
+
+La convocatoria deberá expedirse por lo menos quince días naturales anteriores a la fecha señalada para el inicio de los exámenes respectivos, computados a partir de su publicación.
+
+Una vez publicada la convocatoria correspondiente, así como durante el desarrollo del concurso, los participantes deberán abstenerse de realizar directa o indirectamente alguna gestión ante los miembros del Consejo o del Jurado, tendiente a beneficiarse en dicho concurso.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 126.
+
+En la convocatoria se especificará:
+
+I. La clase de concurso (interno o libre).
+
+II. La categoría y número de vacantes sujetas a concurso.
+
+III. Las bases y trámites a los que queda sujeto el concurso.
+
+IV. Las etapas del concurso, especificando su objeto.
+
+V. La calificación mínima aprobatoria exigida.
+
+VI. El lugar, así como, las fechas y horas de inicio y fin para la presentación de la solicitud de inscripción y los otros documentos respectivos, lo cual podrá realizarse por conducto de un tercero. Así también, que no se admitirán solicitudes ni documentos fuera del plazo previsto en la convocatoria de que se trate.
+
+La solicitud de inscripción se pondrá a disposición de los interesados en la página web del Poder Judicial del Estado, misma que deberá contener como mínimo, el nombre del aspirante, domicilio y teléfono donde pueda ser localizado, lugar y fecha de presentación, será llenada íntegramente y deberá plasmarse además la firma autógrafa del aspirante.
+
+VII. El lugar, la fecha y hora en los que se llevarán a cabo los exámenes conducentes.
+
+VIII. La guía de temas en derecho penal, civil, mercantil, familiar y amparo, dependiendo de la materia relacionada con la plaza que se concursa; guía previamente determinada por el Pleno del Consejo de la Judicatura, la cual será la base del examen de conocimientos.
+
+IX. El señalamiento de que corresponderá a la Comisión de Carrera Judicial, verificar que las solicitudes contienen todos los datos necesarios y que están acompañadas de los documentos requeridos.
+
+X. El señalamiento de que la presentación de la solicitud implica, necesariamente, que el solicitante conoce los requisitos exigidos para la inscripción y participación en el concurso, así como su conformidad con ellos.
+
+XI. La inserción íntegra de cuales son las causas de descalificación del aspirante.
+
+XII. En la convocatoria se mencionará, que la lista con los nombres de los aspirantes que resulten aprobados en la etapa de conocimientos, será publicada con el fin de que se puedan recibir observaciones u objeciones conforme a lo previsto por este mismo ordenamiento. Así también, que el Consejo de la Judicatura deberá escuchar la opinión escrita de agrupaciones profesionales de abogados de esta entidad Federativa, que se encuentren registrados en el Departamento de Profesiones del Estado, así como de las Facultades y Escuelas de Derecho de Baja California.
+
+XIII. En la convocatoria se establecerá que la lista que se remita a la autoridad que vaya a efectuar la designación, solamente se incluirán los nombres de los aspirantes que hayan acreditado todas las etapas que comprenden el concurso, la cual será publicada una sola vez, para efectos de notificación en el Boletín Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 127.
+
+Para los efectos de la fracción III del artículo 126, la convocatoria deberá contener los requisitos legales para ocupar la plaza que se concursa; los cuales tendrán que acreditarse.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 128.
+
+En los términos de la fracción VI del artículo 126 de este Reglamento, deben presentarse en original o copia certificada por Notario Público, los siguientes documentos:
+
+a) Acta de nacimiento.
+
+b) Título profesional de Licenciado en Derecho o Abogado, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello.
+
+c) Cédulas profesionales expedidas por la Secretaría de Educación Pública y la Secretaría de Educación y Bienestar Social, Departamento de Profesiones del Estado.
+
+d) Carta expedida por la autoridad competente en la que se establezca que el aspirante no registra antecedente penal y en el supuesto de registrarlo, que el antecedente no sea por la comisión de algún ilícito de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público; así también, que el delito por el que fue condenado no sea intencional ni amerite pena corporal de mas de un año de prisión.
+
+e) Constancia de no inhabilitación.
+
+f) Carta de residencia, en la que se acredite que el aspirante ha residido en el Estado durante los últimos cinco años anteriores a la designación.
+
+g) Currículum vitae actualizado y debidamente acompañado de los documentos que acrediten lo ahí asentado, en el cual deberá establecerse como mínimo la preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante) y la experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales).
+
+h) Carta compromiso de ajustarse a las reglas que se determinen para el desarrollo de los exámenes.
+
+i) Escrito en el que bajo protesta de decir verdad, manifieste el aspirante encontrarse en pleno goce de sus derechos políticos y civiles.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 129.
+
+En caso de que los aspirantes no satisfagan los requisitos establecidos en la convocatoria a la cual se sometieron o en el supuesto que haya únicamente uno que si los reúna, el Pleno del Consejo de la Judicatura declarará desierto el concurso respectivo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO TERCERO. DE LAS ETAPAS DEL CONCURSO EN LO GENERAL
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 130.
+
+Los concursos, constarán de las siguientes etapas:
+
+I. DE LOS REQUISITOS DE ELEGIBILIDAD. Consiste en determinar si el aspirante reúne o no los requisitos legales para ocupar la plaza que se concursa.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+II. DE LA EVALUACIÓN DE CONOCIMIENTOS. Consta de dos exámenes, uno teórico y el otro práctico, con el objeto de tasar los conocimientos jurídicos del aspirante.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+III. DE LA EVALUACIÓN PSICOMÉTRICA. Estriba en un estudio psicológico que incluye diversas pruebas y una entrevista, a efecto de determinar si el aspirante es aceptable o no psicológicamente para desempeñar la plaza concursada.
+
+La entrevista será privada y tiene por objeto la valoración de las siguientes áreas:
+
+a) Personalidad en general. Evaluación de factores de personalidad tales como carácter, gustos, interés, motivaciones, actitudes, valores y demás similares.
+
+b) Emocional. Evaluación de la condición psicológica actual, reacción ante el estrés, manejo de conflictos y demás similares.
+
+c) Relaciones interpersonales. Evaluación de las relaciones en el ámbito personal, familiar y laboral.
+
+d) Metas laborales. Evaluación de intereses, metas, objetivos y motivaciones en el ámbito laboral.
+
+e) Estilo de trabajo. Evaluación de la forma de trabajo, gustos, preferencias, capacidades, manejo de conflictos.
+
+f) Liderazgo. Evaluación del estilo y tipo de liderazgo.
+
+IV. ENTREVISTA. Consiste en el examen del aspirante, bajo los siguientes aspectos: integridad profesional (rectitud, probidad, ética), presentación (imagen), seguridad (confianza), habilidad de comunicación, madurez (buen juicio o prudencia, sensatez) y objetividad.
+
+V. DE LA EVALUACION DE MÉRITOS. Radica en la calificación de los méritos del aspirante, tales como la preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante); la experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales); así mismo, el prestigio profesional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO CUARTO. DE LA APLICACIÓN DE LOS EXAMENES EN EL CONCURSO
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 131.
+
+Cerrado el plazo para la inscripción, la Comisión de Carrera Judicial elaborará un dictamen en el que determinará si los aspirantes cumplen o no con los requisitos legales para desempeñar el cargo que se concursa, el cual será presentado ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva si el aspirante satisface o no los requisitos legales.
+
+La lista con los nombres de las personas que acrediten los requisitos legales será publicada como mínimo una vez en el Boletín Judicial y estos aspirantes tendrán derecho a acceder a la siguiente etapa del concurso, quienes no figuren en la lista no podrán participar en la ulterior fase.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 132.
+
+El personal especializado adscrito al Departamento de Recursos Humanos del Consejo de la Judicatura, aplicará a los aspirantes un examen psicométrico que incluye diversas pruebas y una entrevista a efecto de determinar si el aspirante es aceptable o no psicológicamente para desempeñar la plaza concursada.
+
+Con lo obtenido de dicho examen se levantará un reporte el cual será remitido con su soporte documental a la Comisión de Carrera Judicial para que elabore una lista con el resultado de los aspirantes, la cual será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
+
+La lista con los nombres de las personas que acrediten esta fase será publicada como mínimo una vez en el Boletín Judicial y estos aspirantes tendrán derecho a acceder a la siguiente etapa del concurso; no así, quienes no aparezcan en la lista.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 133.
+
+Los aspirantes tendrán que presentarse en la fecha, hora y lugar señalados en la convocatoria para la aplicación de los exámenes psicométricos, de conocimientos teóricos y prácticos, así como para sustentar la entrevista, sin que se admita la participación de los que se presenten tardíamente.
+
+Las circunstancias de tiempo y lugar pueden ser modificadas mediante determinación del Consejo, en los casos de fuerza mayor; sin embargo, la nueva fecha, hora o lugar se hará del conocimiento de los aspirantes con veinticuatro horas de anticipación al desarrollo del examen correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### Artículo 134.
 
-Los recursos económicos de que dispongan la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los qne (sic) estén destinados.
+El examen teórico será un cuestionario en un formato de opción múltiple, cuyo contenido versara sobre las materias que se relacionen con la función de la plaza que se concursa, otorgando igualdad de condiciones a todos los aspirantes del mismo concurso ya sea por ramo, instancia o vacante.
 
-Los resnltados (sic) del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezcan, respectivamente, la Federación y las entidades federativas, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo precedente.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-(NOTA: EL 13 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL ANEXO II, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+###### Artículo 135.
 
-(Artículo 58) ANEXO II
+La Comisión de Carrera Judicial, será la encargada de elaborar una base de datos de cuando menos doscientos cincuenta preguntas, de las cuales se seleccionarán de manera aleatoria, las preguntas que integren el cuestionario. La base se actualizará de oficio excluyendo las preguntas ya seleccionadas en los exámenes.
 
-MOTIVACIÓN, FINALIDAD Y OBJETO
+Las preguntas deben elaborarse de tal forma, que su respuesta implique la aplicación de un criterio jurídico, prescindiendo de cualquier planteamiento cuya solución se base esencialmente, en la memorización de textos legales, tesis de jurisprudencia o conceptos doctrinarios. Así mismo, los distractores planteados como respuestas posibles no deben ser considerados respuestas jurídicamente correctas.
 
-MOTIVACIÓN.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-Los Ayuntamientos eu (sic) el ámbito de su competencia, propondrá a las legislaturas estatales las cuotas y tarifas aplicables a impuesto y derechos (en nuestro caso propondrá las tarifas para el cobro del derecho del alumbrado público) con el objeto de propiciar los recursos económicos que asigne el Municipio en su respectivo presupuesto para satisfacer la prestación del servicio de alumbrado público.
+###### Artículo 136.
 
-FINALIDAD
+El examen teórico podrá aplicarse mediante la utilización de un programa de cómputo, que permita obtener la calificación de manera automatizada e inmediata una vez finalizado el examen y bajo dicho supuesto, se hará del conocimiento en ese momento al aspirante, para todos los efectos legales correspondientes. No obstante, con independencia de la manera en que se aplique el examen, la Comisión de Carrera Judicial, elaborará una lista con el resultado obtenido por todos los aspirantes, misma que será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
 
-Es que el Municipio logre el bienestar público, con una eficiente iluminación nocturna en toda la extensión de su territorio, durante 12 horas diarias y los 365 días del año fiscal.
+La lista con los nombres de las personas que acrediten el examen teórico cuya calificación, mínima aprobatoria es de 80 puntos, en una escala de 0 a 100, será publicada conjuntamente con la calificación obtenida, como mínimo una vez en el Boletín Judicial y únicamente estos aspirantes tendrán derecho a participar en la ulterior fase del concurso.
 
-Descripción del contenido para la recuperación de los gastos que le genera al Municipio la prestación del servicio de alumbrado público que se proporciona en las calles públicas, de manera regular y continúa.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-OBJETO
+###### Artículo 137.
 
-Es la prestación del servicio de alumbrado público para los habitantes del Municipio de Yauhquemehcan en las vías públicas, edificios y áreas públicas, localizadas dentro del territorio municipal.
+El examen práctico consistirá en la elaboración de un proyecto de resolución de un caso real, resuelto en un juzgado. El examen práctico será igual para todos los participantes.
 
-Teniendo en cuenta que la prestación del servicio de alumbrado público incluye como parte integrante del servicio los siguientes conceptos: Consumibles, depreciación y mantenimiento de la infraestructura del alumbrado público y personal administrativo.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-(NOTA: EL 13 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL ANEXO III, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+###### Artículo 138.
 
-(Artículo 58) ANEXO III RECURSO DE REVISIÓN
+Al inicio del examen práctico, se entregará a cada participante un sobre que contenga un talón con código de barras y un espacio en el que el sustentante deberá asentar su nombre completo; dicho sobre contendrá, además, un disquete u otra unidad análoga removible y veinte etiquetas (una para cada hoja del examen) con el mismo código de barras del talón de identificación. Este talón será recogido por personal de la Comisión de Carrera Judicial antes de iniciar la elaboración del proyecto. Los talones quedarán en resguardo de la Comisión de Carrera Judicial.
 
-Las inconformidades en contra del cobro del derecho de alumbrado público deberán impugnarse mediante el recurso de revisión, mismo que será procedente en los siguientes casos:
+Una vez que el sustentante concluya la elaboración del proyecto, deberá adherir una de las etiquetas en la unidad removible en la que haya guardado su proyecto. Las demás etiquetas correspondientes a cada una de las hojas del proyecto del participante, serán adheridas por éste y el personal de la Comisión de Carrera Judicial al llevar a cabo la impresión correspondiente en el momento de la entrega.
 
-I. Cuando la cantidad de metros luz asignados al contribuyente difieran de su beneficio real.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-II. El plazo para interponer el recurso será de veinte días naturales, contados a partir del día siguiente a aquel en que ocurrió el acto por el cual solicita la aclaración y deberán tener por lo menos los siguientes reqnisitos (sic):
+###### Artículo 139.
 
-a) Oficio dirigido al Presidente Municipal.
+La selección del caso práctico, se hará conforme a los lineamientos que señale la Comisión de Carrera Judicial, consistentes en:
 
-b) Nombre completo del promovente, la denominación o razón social, domicilio para oír y recibir notificaciones, así como número telefónico.
+I. Hacer un análisis y revisión de expedientes previamente recabados de los órganos jurisdiccionales.
 
-c) Los hechos que den motivo al recurso, bajo protesta de decir verdad.
+II. El caso práctico será elegido de aquéllos con el mayor número de incidencia en los Juzgados y atendiendo a la especialización de la vacante concursada, cuando de ello se trate.
 
-d) Los agravios que le cause y los propósitos de su promoción.
+III. Se entregarán a cada participante, las constancias contenidas en el expediente seleccionado. Para tal efecto, la Comisión de Carrera Judicial deberá fotocopiar íntegramente aquél.
 
-e) Se deberán incluir las pruebas documentales públicas o privadas que acrediten la cantidad exacta de metros luz cuya aplicación solicitan, con excepción de cuando se trate de una solicitud de descuento, en cuyo caso deberá acreditar los requisitos de los incisos del a) al f) únicamente.
+IV. Que el concursante, al proponer la solución del caso práctico, pueda demostrar sus conocimientos; y
 
-f) Además, se deberá anexar los documentales que den evidencia y probanza visual de frente iluminado y sus dimensiones.
+V. El grado de dificultad del caso deberá ser de tal forma que pueda resolverse de manera razonable, dentro del tiempo concedido al sustentante.
 
-g) Fecha, nombre y firma autógrafa.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-En cuyo caso de que no sepa escribir se estará a lo dispuesto por el Código de Procedimientos Civiles para el Estado de Tlaxcala.
+###### Artículo 140.
 
-Tratándose de negocios, comercios de bienes o servicios, deberán adjuntar la copia de la licencia de funcionamiento vigente y en el caso de predios rústicos, o aquellos que se encuentren en el proceso de construcción, presentarán construcción correspondiente, clave catastral y original o copia certificada de escritura pública que acredite la legítima propiedad o posesión.
+El caso práctico, deberá resolverse conforme a las siguientes condiciones:
 
-En todos los casos se deberá presentar copia de boleta predial y pago de contribuciones por servicios públicos al corrieute (sic) y sus originales para cotejo.
+I. No podrá asentarse, en ninguna parte del proyecto el nombre del concursante;
 
-Se deberá adjuntar al recnrso (sic) de revisión:
+II. La Comisión permitirá el uso de materiales de consulta tales como leyes, códigos, tesis jurisprudenciales, para la elaboración del proyecto;
 
-I. Una copia de los documentos.
+III. El Consejo de la Judicatura, podrá proporcionar al concursante que lo solicite, el apoyo de personal mecanográfico; auxilio que tendrá que pedir mediante escrito dirigido a la Comisión de Carrera Judicial en un plazo no menor a cuarenta y ocho horas previas a la aplicación del examen;
 
-II. El documento que acredite su personalidad cuando actúen en nombre de otro o de personas morales.
+IV. El aspirante contará con cinco horas como mínimo para la elaboración del proyecto, tiempo que podrá ser ampliado previamente por determinación de la Comisión de Carrera Judicial, otorgando igualdad de condiciones a todos los aspirantes del mismo concurso ya sea por ramo, instancia o vacante; y
 
-No serán admisibles ni la tercería ni la gestión de negocios.
+V. Sólo se exigirá que en el proyecto, el aspirante realice las consideraciones relativas a la solución del caso jurídico asignado, mediante las argumentaciones que el sustentante considere pertinentes, incluyendo las transcripciones necesarias a esa argumentación y las tesis que estime aplicables. En todo caso, el aspirante deberá determinar los puntos resolutivos concretos que proponga, por lo que no será necesario que se inserten en el proyecto, las razones que determinen la competencia por materia o por territorio del juzgado.
 
-III. La documentación original de recibo de luz, copia de boleta predial y pago de contribuciones por servicios públicos al corriente y sus originales para cotejo.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-En la interposición del recurso procederá la suspensión, siempre y cuando:
+###### Artículo 141.
 
-l. La solicite expresamente el promovente.
+La calificación del caso práctico, estará a cargo del Jurado de evaluación y deberá asignarse en una escala de 0 a 100, conforme a lo siguiente:
 
-II. Sea procedente el recurso.
+I. Motivación: hasta 40 puntos;
 
-III. Se presente la garantía por el o los períodos recurridos que le sean determinados por la autoridad administrativa.
+II. Fundamentación: hasta 20 puntos;
 
-La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los siguientes cinco días hábiles.
+III. Fijar la litis: hasta 10 puntos;
 
-Se tendrá por no interpuesto el recurso cuando:
+IV. Estructura de la resolución: hasta 10 puntos;
 
-l. Se presente fuera de plazo.
+V. Desarrollo del tema y contenido de los considerandos y resolutivos: hasta 10 puntos; y
 
-II. No se haya acompañado la documentación que acredite la personalidad del promovente, y la copia de boleta predial y pago de contribuciones por servicios públicos al corriente, licencias y permisos municipales y sus originales para cotejo.
+VI. Sentido del fallo: hasta 10 puntos.
 
-III. El recurso no ostente la firma o huella del promovente.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-Se desechará por improcedente el recurso:
+###### Artículo 142.
 
-l. Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado.
+La Comisión de Carrera Judicial, entregará a los miembros del Jurado designado, cada uno de los proyectos formulados por los participantes, para que realicen la evaluación del examen práctico y en el formato correspondiente, asienten la calificación que personalmente consideren debe otorgarse conforme a las reglas establecidas en el artículo inmediato anterior, dentro de un plazo que no exceda de cinco días hábiles contados a partir del día siguiente a aquél en que se realizó el examen. Una vez asignadas las calificaciones de manera individual, por cada integrante del Jurado en el formato debidamente firmado, su presidente citará a una sesión privada con el objeto de discutir la calificación conjunta que deba darse al concursante. De esta reunión, se levantará acta circunstanciada que firmarán todos los miembros del Jurado, la que deberá estar acompañada de los dictámenes que elaboren cada uno de los integrantes, en los que expongan las razones que tomaron en cuenta para evaluar el caso práctico.
 
-II. Contra actos que no afecten los intereses jurídicos del promovente.
+El acta correspondiente con sus anexos, deberá ser enviada a la Comisión de Carrera Judicial para que elabore una lista con el resultado obtenido por los aspirantes, la cual será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
 
-III. Contra actos consentidos expresamente.
+La lista con los nombres de las personas que acrediten el examen práctico cuya calificación mínima aprobatoria es de 80 puntos, en una escala de 0 a 100, será publicada conjuntamente con la calificación obtenida, como mínimo una vez en el Boletín Judicial y únicamente estos aspirantes tendrán derecho a participar en la ulterior fase del concurso.
 
-IV. Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-Son consentidos expresamente los actos que, durante los primeros veinte días naturales, contados a partir del día hábil siguiente a su ejecución, no fueron impugnados por cualqnier (sic) medio de defensa.
+###### Artículo 143.
 
-Será sobreseído el recurso cuando:
+En el texto de la lista de los aspirantes que hayan acreditado la etapa de conocimientos, se deberá señalar que su publicación en el Boletín Judicial tiene también el efecto de que cualquier persona, dentro de los cinco días siguientes, pueda presentar ante la Comisión de Carrera Judicial algún escrito en el que, de manera respetuosa, fundada y motivada, haga las observaciones u objeciones que considere pertinentes respecto de alguno o algunos de los candidatos de la lista y, en su caso, acompañe los documentos indispensables para corroborar sus afirmaciones. Los escritos de observaciones u objeciones se tratarán de manera confidencial y se someterán a consideración del Pleno del Consejo.
 
-l. El promovente se desista expresamente.
+Así mismo, el Consejo de la Judicatura deberá escuchar la opinión escrita de agrupaciones profesionales de abogados de esta entidad Federativa, que se encuentren registrados en el Departamento de Profesiones del Estado, así como de las Facultades y Escuelas de Derecho de Baja California.
 
-II. El agraviado fallezca durante el procedimiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
-III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el párrafo anterior.
+###### Artículo 144.
 
-IV. Por falta de objeto o materia del acto respectivo.
+La entrevista será en audiencia pública y la efectuará el Jurado de Evaluación integrado de conformidad a lo dispuesto por el artículo 204 de la Ley Orgánica del Poder Judicial del Estado.
 
-V. No se probare la existencia del acto respectivo.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-La autoridad encargada de resolver el recurso podrá:
+Los participantes serán citados para que comparezcan ante el Jurado, en el lugar, fecha y hora determinados en el calendario y serán examinados en estricto orden alfabético de acuerdo a sus apellidos. El desarrollo de la entrevista deberá constar en video, grabadora o algún instrumento análogo.
 
-Retirar total o parcialmente el subsidio durante la tramitación del recurso o con posterioridad a su resolución y podrá restituirlo a petición de parte, así como aumentarlo o disminuirlo discrecionalmente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2015)</small>
 
-La autoridad administrativa, dentro de los veinte días hábiles siguientes a aquel en que se presentó el recurso de aclaración, deberá resolver de forma escrita y por notificación en estrados del ayuntamiento al recurrente, previa valoración de las pruebas presentadas por el recurrente, si ha probado o no su dicho y, en su caso, podrá:
+Podrán asistir a la entrevista todos los ciudadanos y medios de comunicación que lo estimen conveniente, aunado a lo anterior, será transmitida en la página de internet del Poder Judicial del Estado.
 
-I. Desecharlo por improcedente o sobreseerlo.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
-II. Confirmar el acto administrativo.
+###### Artículo 145.
 
-III. Modificar el acto recurrido o dictar uno nuevo que le sustituya.
+La calificación de la entrevista estará a cargo del Jurado de evaluación y deberá asignarse en una escala de 0 a 100, conforme a lo siguiente:
 
-IV. Dejar sin efecto el acto recurrido.
+I. Integridad profesional (rectitud, probidad, ética) hasta 25 puntos;
 
-V. Revocar el cobro del derecho de alumbrado público.
+II. Presentación (imagen) hasta 10 puntos;
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios; pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
+III. Seguridad (confianza) hasta 10 puntos;
 
-En caso de no ser notificada la resolución del recurso por estrados, el recurrente podrá solicitarla ante la autoridad administrativa recurrida, quien deberá hacerlo entonces, dentro de los tres días hábiles siguientes a la segunda solicitud.
+IV. Habilidad de comunicación hasta 15 puntos;
 
-DE LA EJECUCIÓN
+V. Madurez (buen juicio o prudencia, sensatez) hasta 15 puntos; y
 
-El recurso de revisión se tramitará y resolverá en los términos previstos en esta Ley y en su defecto se aplicarán, de manera supletoria, las disposiciones contenidas en el Código Financiero.
+VI. Objetividad hasta 25 puntos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 146.
+
+La entrevista, se desarrollara conforme a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+I. Se procederá a recibir al aspirante, a quien se le preguntará su nombre completo;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+II. El aspirante contará con un tiempo no mayor a diez minutos para realizar una breve exposición sobre el cargo a ocupar, sus méritos profesionales y las acciones a desarrollar en caso de ser nombrado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+
+III. El Jurado formulará al sustentante el número de preguntas que considere necesarias y en el orden que así lo convengan sus miembros.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+
+IV. La duración de la entrevista, será determinada por los miembros del Jurado, lo cual se hará del conocimiento de los participantes con la debida oportunidad.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 147.
+
+La Comisión de Carrera Judicial, entregará a los miembros del Jurado formatos para que asienten la calificación que personalmente consideren debe otorgarse a cada aspirante conforme a las reglas establecidas en el artículo 145.
+
+Una vez finalizada la entrevista y de manera privada, el Jurado procederá a deliberar y asignar de manera motivada la calificación final y se levantará el acta correspondiente, la cual junto con los anexos será enviada a la Comisión de Carrera Judicial para que elabore una lista con el resultado obtenido por los aspirantes, la cual será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
+
+La lista con los nombres de las personas que acrediten la entrevista cuya calificación mínima aprobatoria es de 80 puntos, en una escala de 0 a 100, será publicada conjuntamente con la calificación obtenida, como mínimo una vez en el Boletín Judicial y únicamente estos aspirantes tendrán derecho a participar en la siguiente etapa del concurso.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 148.
+
+En el examen de méritos se calificarán los méritos del aspirante, tales como preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante); experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales); así mismo, el prestigio profesional.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 149.
+
+La valoración de los méritos se hará conforme al puntaje siguiente:
+
+I. Preparación académica: hasta 35 puntos
+
+a) Grado académico: doctorado 35 puntos; una maestría 25 puntos; dos o más maestrías 35 puntos.
+
+b) Especialización: una especialidad 10 puntos; dos o más especialidades 15 puntos.
+
+c) Diplomado: un diplomado 3 puntos; dos o más diplomados 6 puntos; destacando que solamente se consideran aquellos que se hubieren realizado durante los últimos cinco años.
+
+d) Cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante: se otorgará 1 punto por cada diez eventos, tomando en consideración solamente aquellos que se hubieren realizado durante los últimos cinco años; sin que se pueda otorgar más de 5 puntos.
+
+II. Experiencia profesional: hasta 60 Puntos
+
+a) Ejercicio profesional: Se otorgarán por 25 años de ejercicio profesional 50 puntos; por 20 años 45 puntos; por 15 años 40 puntos; por 10 años 35 puntos y por 5 años 15 puntos.
+
+b) Docencia: Se otorgarán por el ejercicio de la docencia a nivel de posgrado 10 puntos y a nivel de licenciatura 5 puntos, para otorgar dicho puntaje el aspirante deberá acreditar que fungió como docente por lo menos un año.
+
+Así mismo se otorgarán por cada cinco eventos en los cuales el aspirante se hubiere desempeñado como expositor dentro del Poder Judicial del Estado de Baja California, 2 puntos, sin exceder de 6 puntos; tomando en consideración solamente aquellos que se hubieren realizado durante los últimos cinco años.
+
+c) Investigación jurídica: se otorgarán (sic) 1 punto por cada trabajo formal de investigación que hubiere realizado durante los últimos tres años, sin exceder de 3 puntos.
+
+d) Publicación jurídica: se otorgará (sic) 3 puntos por cada cinco publicaciones, tomando en consideración solamente aquellas que se hubieren realizado durante los últimos cinco años, sin exceder de 6 puntos.
+
+e) Antigüedad en cargos jurisdiccionales: Si el aspirante dentro de su ejercicio profesional ha desempeñado cargos jurisdiccionales, se le otorgará un puntaje adicional al señalado en el inciso a) de este artículo, el cual no excederá de 10 puntos, siempre y cuando se encuentre en cualquiera de las hipótesis siguientes: haberse desempeñado como Juez al menos durante cinco años; como Secretario General de Acuerdos, Secretario de Estudio y Cuenta, Secretario Auxiliar, Secretario de Acuerdos y Secretario Actuario por un lapso no menor a tres años.
+
+III. Prestigio profesional: hasta 5 puntos.
+
+Un punto por cada opinión emitida por agrupaciones profesionales de abogados de esta entidad Federativa, que se encuentren registrados en el Departamento de Profesiones del Estado, así como de las Facultades y Escuelas de Derecho de Baja California, siempre y cuando sea consecuencia del acuerdo que tome el órgano competente en la asamblea correspondiente, debiendo acompañar a dicha opinión copia del acta de dicha asamblea.
+
+La puntuación de este artículo será acumulativa y no podrá exceder del límite máximo establecido.
+
+###### Artículo 150.
+
+(DEROGADO, P.O. 13 DE MARZO DE 2015)
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 151.
+
+La Comisión de Carrera Judicial elaborará una lista con el resultado obtenido por los aspirantes en el examen de méritos, la cual será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
+
+Una vez efectuado esto por parte del Consejo, la Comisión de Carrera Judicial procederá a realizar la suma de las calificaciones obtenidas por los aspirantes y con dicho resultado, se elaborará y enviará nueva lista al Pleno del Consejo para su análisis; una vez aprobada esta se publicará especificando el puntaje obtenido por los concursantes en cada uno de los exámenes.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 152.
+
+En la lista que remita el Consejo de la Judicatura a la autoridad judicial que vaya a efectuar la designación o selección, se establecerá en orden descendente y en su caso alfabético, los aspirantes que hubiesen acreditado todas las etapas del concurso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO QUINTO. REGLAS COMPLEMENTARIAS
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 153.
+
+Son causas de descalificación del aspirante:
+
+I. No acreditar los requisitos de elegibilidad en los términos de la Constitución, Ley Orgánica y este Reglamento.
+
+II. Obtener en el examen psicométrico resultado de no aceptable.
+
+III. No alcanzar la calificación mínima señalada en las etapas conducentes.
+
+IV. La omisión o falsedad de cualquiera de las manifestaciones hechas bajo protesta de decir verdad.
+
+V. No presentarse el día, lugar y hora señalados, para la realización de los exámenes psicométrico, de conocimientos o la entrevista.
+
+VI. La impresión en los documentos de los exámenes de conocimiento, mediante escritura, dibujo o adherencia, de cualquier seña, figura o nombre no autorizados, que pueda servir para identificar al sustentante.
+
+VII. Una vez publicada la convocatoria correspondiente, así como durante el desarrollo del concurso, realizar directa o indirectamente el aspirante alguna gestión ante los miembros del Consejo o del Jurado, tendiente a obtener algún beneficio en dicho concurso.
+
+La actualización de alguna de las causas señaladas en este mismo artículo, traerá como consecuencia la descalificación del candidato, cualquiera que sea la etapa del concurso en que se advierta. Para resolver sobre la descalificación de un concursante, por la actualización de una causa, con excepción de las contenidas en las fracciones I, II y III de este artículo que operarán de pleno derecho, la Comisión emitirá un dictamen fundado y motivado que elevará al Pleno del Consejo para su análisis y en su caso aprobación. Si se considera procedente la descalificación, se notificará dicha resolución al afectado de manera personal.
+
+La descalificación se decretará, sin perjuicio del inicio de los procedimientos de responsabilidad y otros que procedan.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 154.
+
+Las circunstancias no previstas en la Ley, en este reglamento o en la convocatoria respectiva, serán resueltas por el Pleno del Consejo, la Comisión o el Jurado, según su ámbito de competencia.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 155.
+
+Todo miembro del Jurado, se tendrá por impedido y deberá excusarse de participar en cualquier fase del concurso respectivo en el caso que sea cónyuge de algún aspirante o tenga parentesco con este ya sea por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo grado.
+
+La calificación del impedimento será ponderada por los mismos integrantes del Jurado, quienes harán la comunicación respectiva al Presidente de la Comisión de Carrera Judicial, para que se someta a la consideración del Pleno del Consejo la circunstancia o circunstancias tomadas en cuenta, a fin de que se acuerde lo procedente.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 156.
+
+Los miembros del Jurado, podrán ser separados de dicho Jurado por parte del Consejo en cualquier tiempo, en los casos de algún impedimento a que se refiere el artículo anterior o bien, cuando existan situaciones justificadas que pudiesen afectar la imparcialidad e independencia, a juicio del Consejo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 157.
+
+El Consejo tendrá la facultad de declarar desierto el concurso fundada y motivadamente, cuando advierta alguna causa que lo haga ineficaz.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 158.
+
+En caso de que algún participante no sea aprobado en el concurso, podrá inscribirse al siguiente concurso que se convoque.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 159.
+
+La Comisión de Carrera Judicial será la responsable de la elaboración, custodia y aplicación de los exámenes y deberá comunicar al Consejo de la Judicatura los resultados de los mismos, a la brevedad posible.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 160.
+
+La Comisión de Carrera Judicial, tendrá a su cargo el procedimiento relacionado al concurso; participará en la organización y aplicación de los exámenes, así como en el control y seguimiento de las actividades que deberán realizar los concursantes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO SEXTO. DEL RECURSO DE REVISIÓN
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 161.
+
+En los concursos no se admitirá mas recurso que el de revisión. El plazo para la interposición del recurso es dentro de las cuarenta y ocho horas siguientes a aquélla en la que se le hubiere dado a conocer el resultado al aspirante en los términos previstos en el presente reglamento.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 162.
+
+Procede el recurso de revisión en contra de:
+
+I. El resultado obtenido en la evaluación de los requisitos de elegibilidad.
+
+II. El resultado obtenido en el examen psicométrico.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+III. La calificación no aprobatoria obtenida en el examen de conocimientos teórico.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+IV. La calificación no aprobatoria obtenida en el examen de conocimientos práctico.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+V. La calificación no aprobatoria obtenida en la entrevista.
+
+VI. La calificación obtenida en el examen de méritos.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 163.
+
+El recurso de revisión se interpondrá por escrito, en el cual el recurrente expresará los motivos de inconformidad en contra de la determinación impugnada. La autoridad revisora se limitará a analizar los motivos expresados sin que pueda suplirlos.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 164.
+
+Dentro de las cuarenta y ocho horas siguientes a la interposición del recurso, el Consejo resolverá si lo admite o lo desecha de plano, en los supuestos que haya sido interpuesto fuera del plazo previsto para hacerlo o si no se expresaron motivos de inconformidad.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+###### Artículo 165.
+
+Admitido el recurso de revisión, se integrará una Comisión Revisora, presidida por el Consejero Presidente de la Comisión de Carrera Judicial y los funcionarios que determine el Consejo de la Judicatura, por tal motivo el Presidente de la Comisión de Carrera Judicial no deberá integrar el Jurado de Evaluación.
+
+Dentro de los tres días siguientes a aquel en el que la Comisión Revisora haya quedado legalmente constituida, resolverá sobre el recurso interpuesto, en contra de cuya determinación no procederá recurso alguno.
+
+La determinación de la Comisión Revisora se dará a conocer al recurrente.
 
 ## TRANSITORIOS
 
@@ -1435,8 +1611,28 @@ LA SECRETARIA GENERAL DE ACUERDOS DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
 LIC. IRMA MEZA CÁRDENAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE MAYO DE 2001.
 
 UNICO.- La presente reforma entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y el Boletín Judicial.
+
+P.O. 6 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El Pleno del Consejo de la Judicatura, estará facultado para la interpretación de este Reglamento, así como para resolver las cuestiones no previstas en el mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial y el Boletín Judicial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones generales contenidas en los reglamentos y acuerdos expedidos por el Consejo de la Judicatura del Estado de Baja California, que se contrapongan a las presentes disposiciones especiales únicamente respecto a los concursos para la designación de jueces.
+
+P.O. 13 DE MARZO DE 2015.
+
+Artículo Primero.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial y el Boletín Judicial del Estado.
+
+Artículo Segundo.- El Pleno del Consejo de la Judicatura, estará facultado para la interpretación de este Reglamento, así como para resolver cuestiones no previstas en el mismo.
