@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-820-hacendario-para-el-municipio-de-coatepec-7314
 country: "mx"
 rank: "codigo"
 publication_date: "2010-02-19"
-last_updated: "2010-02-19"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 820 HACENDARIO PARA EL MUNICIPIO DE COATEPEC DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 820 HACENDARIO PARA EL MUNICIPIO DE COATEPEC DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NUMERO 820 HACENDARIO PARA EL MUNICIPIO DE COATEPEC DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 19 de febrero de 2010.
 
@@ -3955,7 +3955,9 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado; uno;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado; uno, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Registro de nacimientos ordinarios y extemporáneos, uno;
 
@@ -5944,3 +5946,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
