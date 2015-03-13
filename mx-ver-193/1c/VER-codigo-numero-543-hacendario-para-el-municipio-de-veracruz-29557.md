@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2008-12-31"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 543 HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -1191,7 +1191,7 @@ a) De cinco a quince días de salario mínimo, por infracción a las fracciones 
 
 > <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones IXX, XXI y XXII.
+b) De quince a treinta días de salario mínimo, por infracción a las fracciones XIX, XXI y XXII.
 
 c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
@@ -1293,7 +1293,7 @@ II. Si resultare culpable, ordenar el cese definitivo y turnar el expediente a l
 
 ###### Artículo 103.
 
-Se considera que hay tentativa en los delitos fiscales, cuando exista en el sujeto activo del delito intención dirigida a cometerlos y se exteriorice en un principio de ejecución o en la realización de actos que debieran producirlos, si no se consuma (sic) por causas ajenas a su voluntad.
+Se considera que hay tentativa en los delitos fiscales, cuando exista en el sujeto activo del delito intención dirigida a cometerlos y se exteriorice en un principio de ejecución o en la realización de actos que debieran producirlos, si no se consuma por causas ajenas a su voluntad.
 
 La tentativa se sancionará con prisión de hasta las dos terceras partes de la que corresponda por el delito de que se trate, si éste se hubiese consumado.
 
@@ -2583,7 +2583,7 @@ c) En los casos a que se refieren las fracciones anteriores, cuando se escriba p
 
 d) Copias certificadas de planos de construcción, 5 salarios mínimos.
 
-En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.30 salarios mínimos;
+En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.30 salarios mínimos;
 
 III. Evaluación de impacto ambiental, 21 salarios mínimos;
 
@@ -2847,7 +2847,7 @@ No pagarán los derechos por la expedición del Certificado de Inscripción Cata
 
 a) La Federación, el Estado y el Municipio, respecto de los bienes de dominio público y los partidos políticos nacionales, siempre que los inmuebles se destinen al cumplimiento de sus fines;
 
-b) Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o reevaluaciones (sic) masivas por la ejecución de programas de catastro;
+b) Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o reevaluaciones masivas por la ejecución de programas de catastro;
 
 c) Por cambios o modificaciones de los registros catastrales debidos a:
 
@@ -2883,11 +2883,19 @@ Salarios
 
 Mínimos
 
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
 I. Por la expedición de copias de actas del
 
 Registro Civil, incluyendo el papel sellado,
 
-por cada hoja. 1.20
+por cada hoja 1.20, con excepción de la primera
+
+copia certificada del acta de registro
+
+de nacimiento de una persona y, en su caso, del
+
+acta de adopción; 1.20
 
 II. Registro de nacimientos ordinarios y
 
@@ -3153,7 +3161,7 @@ a) Si las obras son realizadas en avenidas o calles de circulación intensa de v
 
 b) Si las obras son realizadas en avenidas o calles de zonas residenciales de menor circulación de vehículos o personas setenta y cinco por ciento;
 
-c) Si las obras son realizadas en calles que sean utilizadas preponderantemente por quienes habiten los predios ochenta y cinco por ciento; (sic)
+c) Si las obras son realizadas en calles que sean utilizadas preponderantemente por quienes habiten los predios ochenta y cinco por ciento;
 
 ###### Artículo 251.
 
@@ -5120,3 +5128,9 @@ G.O. 31 DE DICIEMBRE DE 2008.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
