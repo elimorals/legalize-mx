@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-12-30"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SO
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 13 DE MARZO DE 2015.</small>
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1073,9 +1075,9 @@ N.- Robo de ganado, previsto en el artículo 390, en relación con los artículo
 
 Ñ.- Robo de frutos, previsto en el artículo 391, en relación con el artículo 394, fracción IV;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
 
-O.- Daño en propiedad ajena, previsto en los artículos 412 y 413;
+O.- Daño en propiedad ajena, previsto en los artículos 412, 413, y la fracción III del 413 Ter;
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4368,3 +4370,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las cauciones de las indagatorias de las que a la entrada en vigor del presente Decreto, exista determinación firme del no ejercicio de la acción penal y no sean reclamadas dentro de los quince días hábiles siguientes al de su publicación, se aplicarán al Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL APARTADO O DEL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos de los Municipios de la Entidad en el ámbito de sus respectivas competencias, deberán prever y realizar las acciones conducentes para fomentar las expresiones o manifestaciones artísticas o culturales de los habitantes de sus jurisdicciones.
+
+CUARTO. El presente Decreto en cuanto a la materia procedimental penal estará vigente, hasta en tanto, surta efectos a plenitud la entrada en vigor del Código Nacional de Procedimientos Penales en el territorio del Estado, conforme a lo que establecen el artículo 10 Bis de la Ley Orgánica del Poder Judicial del Estado de Puebla, y el artículo Segundo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Puebla, Decretos publicados en el Periódico Oficial del Estado de fecha diecisiete de junio de dos mil once y trece de septiembre de dos mil trece, respectivamente.
