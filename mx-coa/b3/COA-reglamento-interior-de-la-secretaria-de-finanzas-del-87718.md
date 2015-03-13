@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-finanzas-del-87718"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-08"
-last_updated: "2015-03-09"
+last_updated: "2015-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de mayo de 2012.
 
 RUBÉN IGNACIO MOREIRA VALDEZ, Gobernador Constitucional del Estado de Coahuila de Zaragoza, en ejercicio de las facultades que me confieren los artículos 82 fracción XVIII, 85 párrafo tercero y 92 de la Constitución Política del Estado de Coahuila de Zaragoza, y los artículos 6 y 9 inciso A fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anterior he tenido a bien emitir el siguiente:
 
@@ -85,13 +85,15 @@ La Secretaría de Finanzas es la dependencia de la administración pública esta
 
 Al frente de la Secretaría habrá un Secretario, quien tendrá a su cargo el despacho de los asuntos encomendados a la Secretaría y que para el efecto se auxiliará de las siguientes unidades administrativas:
 
-I. Subsecretaría de Egresos
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+I. Subsecretaría de Egresos y Administración;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
 
 II. Subsecretaría de Ingresos y Crédito;
 
-III. Subsecretaría de Administración;
+III. (DEROGADA, P.O. 13 DE MARZO DE 2015)
 
 IV. (DEROGADA, P.O. 9 DE MARZO DE 2015)
 
@@ -105,7 +107,9 @@ VII. Jefatura de la Oficina del Secretario.
 
 Las unidades administrativas a que se refiere el artículo anterior, tendrán adscritas a su vez, las siguientes áreas:
 
-I. Adscritas a la Subsecretaría de Egresos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+
+I. Adscritas a la Subsecretaría de Egresos y Administración:
 
 a) Dirección General de Gasto Público.
 
@@ -125,7 +129,45 @@ f) Dirección General de Caja General.
 
 g) Dirección General de Control y Evaluación de Presupuesto
 
-h) (DEROGADO, P.O. 9 DE MARZO DE 2015)
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+h) Dirección General de Administración de Personal.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+i) Dirección General de Adquisiciones.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+j) Dirección General de Servicios Generales.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+k) Dirección General de Apoyo Administrativo.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+l) Dirección General de Procedimientos Legales y Contratos.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+m) Dirección de Entidades Paraestatales.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+n) Dirección General de Informática.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+o) Dirección General de Patrimonio.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+p) Dirección General de Evaluación y Seguimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+q) Dirección de Nóminas Estatales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
 
@@ -149,37 +191,11 @@ d) Secretaría Técnica.
 
 e) Dirección General de Política de Crédito.
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
-
-III. Adscritas a la Subsecretaría de Administración:
-
-a) Dirección General de Administración de Personal.
-
-b) Dirección General de Adquisiciones.
-
-c) Dirección General de Servicios Generales.
-
-d) Dirección General de Apoyo Administrativo.
-
-e) Dirección General de Procedimientos Legales y Contratos.
-
-f) Dirección de Entidades Paraestatales.
-
-g) Dirección general de Informática.
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2015)</small>
-
-h) Dirección General de Patrimonio
-
-i) Dirección General de Evaluación y Seguimiento.
-
-j) Dirección de Nóminas Estatales.
+III. (DEROGADA, P.O. 13 DE MARZO DE 2015)
 
 IV. (DEROGADA, P.O. 9 DE MARZO DE 2015)
 
-V. Adscritas a la Coordinación General de Patrimonio:
-
-a) Dirección General de Operación Patrimonial.
+V. (DEROGADA, P.O. 13 DE MARZO DE 2015)
 
 VI. Adscritas a la Coordinación General de Asuntos Jurídicos:
 
@@ -315,9 +331,11 @@ XIX. Coadyuvar con la Coordinación General de Asuntos Jurídicos para la implem
 
 XX. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-Corresponde al Subsecretario de Egresos:
+Corresponde al Subsecretario de Egresos y Administración:
 
 I. Revisar los proyectos de los presupuestos que presenten las dependencias de los poderes Ejecutivo, Legislativo y Judicial, organismos públicos autónomos y entidades de la administración pública estatal, a efecto de elaborar el anteproyecto del programa general del gasto público y someterlo a la aprobación del Secretario.
 
@@ -365,15 +383,193 @@ XX. Emitir las constancias anuales de retención de impuestos de los servidores 
 
 XXI. Someter a la aprobación del Secretario los lineamientos que regulen la formación y aplicación del presupuesto de egresos.
 
-XXII. (DEROGADA, P.O. 11 DE ENERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
 
-XXIII. (DEROGADA, P.O. 11 DE ENERO DE 2014)
+XXII. Administrar y operar el Sistema Integral de Adquisiciones para la integración del programa estimado anual de adquisiciones, la consolidación de los requerimientos de la Secretaría y las dependencias de la administración pública estatal, así como el desarrollo de los diversos procesos de compra de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-XXIV. (DEROGADA, P.O. 11 DE ENERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
 
-XXV. (DEROGADA, P.O. 11 DE ENERO DE 2014)
+XXIII. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, así como planear y ejecutar todas las acciones de administración y operación previstas en dichos ordenamientos en los términos de los convenios correspondientes de las entidades, dependencias y los municipios cuando así lo autoricen sus cabildos.
 
-XXVI. (DEROGADA, P.O. 11 DE ENERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+
+XXIV. Realizar las gestiones necesarias para la administración y resguardo de la existencia de materiales de consumo de la Secretaría y dependencias de la administración pública estatal en los almacenes correspondientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+
+XXV. Elaborar documentos con los costos de los materiales de consumo, bienes muebles y demás programas de compras abastecidos a la Secretaría y dependencias, a través de cuentas por pagar y pólizas de diario para su correspondiente trámite de pago ante la Subsecretaría de Egresos y Administración.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+
+XXVI. Participar y coordinar las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza y del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obras Públicas.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXVII. Analizar y autorizar los programas de compras de acuerdo a las requisiciones de las dependencias de la administración pública estatal, con base al presupuesto autorizado por el Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXVIII. Verificar que se realice la distribución de materiales y equipos solicitados por las diversas dependencias de la administración pública estatal de acuerdo al programa de compras autorizado.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXIX. Establecer y someter a la aprobación del Secretario los lineamientos que deban observarse para la contratación de servicios diversos de las dependencias de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXX. Participar en el ámbito de su competencia y conforme a las disposiciones aplicables en los contratos que haya suscrito la Secretaría con particulares para la prestación de servicios o la adquisición de bienes.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXI. Celebrar los convenios, contratos de compraventa, arrendamiento, prestación de servicios y los derivados de los procesos de licitación, en representación de la Secretaría y demás dependencias de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXII. Autorizar las cuentas por pagar de las diversas unidades administrativas de la Secretaría y/o dependencias de la administración pública estatal que afectan los diversos capítulos del presupuesto autorizado a las mismas.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXIII. Celebrar convenios de colaboración con las distintas dependencias y entidades de la administración pública para realizar los procedimientos correspondientes para las adquisiciones, arrendamientos y prestación de servicios y de obra pública, que puede comprender la licitación, adjudicación y la celebración de los contratos correspondientes en representación y con cargo a la dependencia o entidad que así lo convenga.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXIV. Coordinar y operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales (COMPRANET), para programar y elaborar las convocatorias y licitar las obras, adquisiciones y servicios que lleva a cabo la Secretaría, revisando que las bases de licitación y demás documentación cumpla con las disposiciones aplicables, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXV. Recibir, despachar y distribuir la correspondencia oficial de la Subsecretaría y sus unidades administrativas.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXVI. Establecer y someter a la aprobación del Secretario los lineamientos que deban observarse para la contratación de servicios diversos de las dependencias de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXVII. Celebrar los convenios, contratos de compraventa, arrendamiento, prestación de servicios y los derivados de la Dirección General de Servicios Generales en representación de la Secretaría y demás dependencias de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXVIII. Elaborar en coordinación con las demás unidades administrativas de la Secretaría, los manuales de organización y procedimientos y de servicios al público, que se refieran a la competencia de la Secretaría.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXXIX. Dirigir y operar con base en políticas, normas y procedimientos aprobados por el Secretario, los sistemas de administración y nómina del personal al servicio de la administración pública estatal, así como la nómina correspondiente a los pensionados por decreto.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XL. Evaluar y autorizar, en su caso, los cambios que propongan las dependencias y entidades en la estructura de la administración pública estatal y sus efectos presupuestales, presentando al Secretario el dictamen correspondiente.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLI. Realizar los trámites relativos a la contratación, licencias, ceses, suspensiones, remociones, retiros, pensiones y jubilaciones de los servidores públicos de las dependencias y entidades de la administración pública estatal, autorizados por el Secretario.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLII. Elaborar los nombramientos de los servidores públicos de las dependencias y entidades de la administración pública estatal, distintos a aquellos que deban ser emitidos por el Titular del Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLIII. Emitir la credencial de identificación de los servidores públicos de las dependencias de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLIV. Definir las normas y lineamientos para la integración y control de los expedientes de los servidores públicos de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLV. Conducir las relaciones de la Secretaría con el Sindicato Único de Trabajadores al Servicio del Gobierno del Estado con el apoyo de la Coordinación General de Asuntos Jurídicos, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLVI. Participar con apoyo de la Coordinación General de Asuntos Jurídicos en la elaboración de las condiciones generales de trabajo de los servidores públicos.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLVII. Aplicar los sistemas de motivación al personal, otorgar los estímulos y recompensas que establezcan las disposiciones aplicables y las condiciones generales de trabajo, así como operar en base a las mismas y de acuerdo a los lineamientos que señale el Secretario.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLVIII. Ejecutar las sanciones administrativas impuestas a los trabajadores al servicio de la administración pública estatal en los términos en que las autoridades competentes lo determinen.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XLIX. Promover la capacitación y desarrollo del personal al servicio de la administración pública estatal, mediante la realización de foros, eventos, cursos y demás actividades idóneas para este fin.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+L. Operar administrativamente lo relativo a la suspensión y terminación de los efectos del nombramiento de los servidores públicos de la Secretaría y demás dependencias y entidades de la administración pública estatal cuando así se lo soliciten.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LI. Coordinar la actuación de las unidades responsables de los proyectos de profesionalización del personal del servicio público estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LII. Verificar y autorizar que los movimientos de plazas de personal de las dependencias y entidades de la administración pública estatal se sujeten al presupuesto establecido y normatividad vigente.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LIII. Operar las solicitudes de pago de prestaciones económicas otorgadas por convenios al personal adscrito a las dependencias integradas dentro del sistema burócrata.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LIV. Operar las solicitudes de descuentos y retenciones a los servidores públicos, requeridas por autoridades competentes o por el propio trabajador, efectuándose de acuerdo al procedimiento de aplicación del pago a burócratas.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LV. Atender y resolver las inconsistencias, dudas e inquietudes de los servidores públicos que se susciten por la aplicación de las funciones correspondientes.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LVI. Vigilar que se proporcionen de conformidad con las disposiciones aplicables, los servicios de mantenimiento, reparaciones, mensajería, seguros y abastecimiento de combustible a las dependencias de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LVII. Proporcionar los espacios para el servicio de archivo que contenga documentos y expedientes de la Secretaría y sus unidades administrativas, en lugares destinados para tal efecto.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LVIII. Vigilar que el diseño e instrumentación de los sistemas, procesos de trabajo contenidos en manuales de organización, de procedimientos y de control interno, cumplan con las disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LIX. Coadyuvar en las actividades inherentes al sistema de calidad implementado por la Secretaría.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LX. Administrar, controlar y vigilar los almacenes o lugares en donde se depositen bienes o valores del Estado.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXI. Generar políticas que garanticen el respeto a los derecho (sic) humanos, la no discriminación y el cuidado del medio ambiente en la Secretaría.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXII. Fomentar las acciones que fortalezcan la perspectiva de género y alienten a la cultura de la Secretaría.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXIII. Llevar el registro de las entidades paraestatales y expedir las certificaciones del registro oficial.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXIV. Requerir, revisar y validar la información financiera y contable que se considere necesaria para el cumplimiento de las funciones de las entidades de la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXV. Designar el personal que acuda a las juntas directivas de las entidades paraestatales, para informar al Secretario de los acuerdos tomados.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXVI. Participar en el comité técnico de los fideicomisos de las entidades paraestatales, en los que la Secretaría funja como representante del Ejecutivo, previo acuerdo del Secretario.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXVII. Poner a la consideración del Secretario las personas que serán miembros del órgano de gobierno y/o consejos de administración y vigilancia de las entidades paraestatales, siempre que no se contraríe lo dispuesto en otros ordenamientos aplicables; así como los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales integrantes del capital social de las empresas de participación estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+LXVIII. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
 
@@ -397,9 +593,9 @@ III. Formular y presentar a la consideración del Secretario, los anteproyectos 
 
 IV. Analizar y presentar al Secretario las alternativas de política de ingresos de la Secretaría, para cada ejercicio fiscal, estimando las metas de recaudación, y señalando los objetivos que debe alcanzar, en congruencia con la política económica y social del Estado.
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-V. Informar al Secretario y al Subsecretario de Egresos sobre las aportaciones federales que se reciban.
+V. Informar al Secretario y al Subsecretario de Egresos y Administración sobre las aportaciones federales que se reciban.
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -479,103 +675,7 @@ XXIV. Suscribir los títulos de crédito que, conforme a derecho procedan, en re
 
 XXV. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
-
-ARTÍCULO 13 A. Corresponde al Subsecretario de Administración:
-
-I. Administrar y operar el Sistema Integral de Adquisiciones para la integración del programa estimado anual de adquisiciones, la consolidación de los requerimientos de la Secretaría y las dependencias de la administración pública estatal, así como el desarrollo de los diversos procesos de compra de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
-
-II. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas de conformidad con la Ley de de (sic) Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, así como planear y ejecutar todas las acciones de administración y operación previstas en dichos ordenamientos en los términos de los convenios correspondientes de las entidades, dependencias y los municipios cuando así lo autoricen sus cabildos.
-
-III. Realizar las gestiones necesarias para la administración y resguardo de la existencia de materiales de consumo de la Secretaría y dependencias de la administración pública estatal en los almacenes correspondientes.
-
-IV. Elaborar documentos con los costos de los materiales de consumo, bienes muebles y demás programas de compras abastecidos a la Secretaría y dependencias, a través de cuentas por pagar y pólizas de diario para su correspondiente trámite de pago ante la Subsecretaría de Egresos.
-
-V. Participar y coordinar las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza y del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obras Públicas.
-
-VI. Analizar y autorizar los programas de compras de acuerdo a las requisiciones de las dependencias de la administración pública estatal, con base al presupuesto autorizado por el Congreso del Estado.
-
-VII. Verificar que se realice la distribución de materiales y equipos solicitados por las diversas dependencias de la administración pública estatal de acuerdo al programa de compras autorizado.
-
-VIII. Establecer y someter a la aprobación del Secretario los lineamientos que deban observarse para la contratación de servicios diversos de las dependencias de la administración pública estatal.
-
-IX. Participar en el ámbito de su competencia y conforme a las disposiciones aplicables en los contratos que haya suscrito la Secretaría con particulares para la prestación de servicios o la adquisición de bienes.
-
-X. Celebrar los convenios, contratos de compraventa, arrendamiento, prestación de servicios y los derivados de los procesos de licitación, en representación de la Secretaría y demás dependencias de la administración pública estatal.
-
-XI. Autorizar las cuentas por pagar de las diversas unidades administrativas de la Secretaría y/o dependencias de la administración pública estatal que afectan los diversos capítulos del presupuesto autorizado a las mismas.
-
-XII. Celebrar convenios de colaboración con las distintas dependencias y entidades de la administración pública para realizar los procedimientos correspondientes para las adquisiciones, arrendamientos y prestación de servicios y de obra pública, que puede comprender la licitación, adjudicación y la celebración de los contratos correspondientes en representación y con cargo a la dependencia o entidad que así lo convenga,
-
-XIII. Coordinar y operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales (COMPRANET), para programar y elaborar las convocatorias y licitar las obras, adquisiciones y servicios que lleva a cabo la Secretaría, revisando que las bases de licitación y demás documentación cumpla con las disposiciones aplicables, en el ámbito de su competencia;
-
-XIV. Recibir, despachar y distribuir la correspondencia oficial de la Subsecretaría y sus unidades administrativas.
-
-XV. Establecer y someter a la aprobación del Secretario los lineamientos que deban observarse para la contratación de servicios diversos de las dependencias de la administración pública estatal.
-
-XVI. Celebrar los convenios, contratos de compraventa, arrendamiento, prestación de servicios y los derivados de la Dirección General de Servicios Generales en representación de la Secretaría y demás dependencias de la administración pública estatal.
-
-XVII. Elaborar en coordinación con las demás unidades administrativas de la Secretaría, los manuales de organización y procedimientos y de servicios al público, que se refieran a la competencia de la Secretaría.
-
-XVIII. Dirigir y operar con base en políticas, normas y procedimientos aprobados por el Secretario, los sistemas de administración y nómina del personal al servicio de la administración pública estatal, así como la nómina correspondiente a los pensionados por decreto.
-
-XIX. Evaluar y autorizar, en su caso, los cambios que propongan las dependencias y entidades en la estructura de la administración pública estatal y sus efectos presupuestales, presentando al Secretario el dictamen correspondiente.
-
-XX. Realizar los trámites relativos a la contratación, licencias, ceses, suspensiones, remociones, retiros, pensiones y jubilaciones de los servidores públicos de las dependencias y entidades de la administración pública estatal autorizados por el Secretario.
-
-XXI. Elaborar los nombramientos de los servidores públicos de las dependencias y entidades de la administración pública estatal, distintos a aquellos que deban ser emitidos por el Titular del Ejecutivo.
-
-XXII. Emitir la credencial de identificación de los servidores públicos de las dependencias de la administración pública estatal.
-
-XXIII. Definir las normas y lineamientos para la integración y control de los expedientes de los servidores públicos de la administración pública estatal.
-
-XXIV. Conducir las relaciones de la Secretaría con el Sindicato Único de Trabajadores al Servicio del Gobierno del Estado con el apoyo de la Coordinación General de Asuntos Jurídicos, en los términos de las disposiciones aplicables.
-
-XXV. Participar con apoyo de la Coordinación General de Asuntos Jurídicos en la elaboración de las condiciones generales de trabajo de los servidores públicos.
-
-XXVI. Aplicar los sistemas de motivación al personal, otorgar los estímulos y recompensas que establezcan las disposiciones aplicables y las condiciones generales de trabajo, así como operar en base a las mismas y de acuerdo a los lineamientos que señale el Secretario.
-
-XXVII. Ejecutar las sanciones administrativas impuestas a los trabajadores al servicio de la administración pública estatal en los términos en que las autoridades competentes lo determinen.
-
-XXVIII. Promover la capacitación y desarrollo del personal al servicio de la administración pública estatal, mediante la realización de foros, eventos, cursos y demás actividades idóneas para este fin;
-
-XXIX. Operar administrativamente lo relativo a la suspensión y terminación de los efectos del nombramiento de los servidores públicos de la Secretaría y demás dependencias y entidades de la administración pública estatal cuando así se lo soliciten;
-
-XXX. Coordinar la actuación de las unidades responsables de los proyectos de profesionalización del personal del servicio público estatal;
-
-XXXI. Verificar y autorizar que los movimientos de plazas de personal de las dependencias y entidades de la administración pública estatal se sujeten al presupuesto establecido y normatividad vigente;
-
-XXXII. Operar las solicitudes de pago de prestaciones económicas otorgadas por convenios al personal adscrito a las dependencias integradas dentro del sistema burócrata;
-
-XXXIII. Operar las solicitudes de descuentos y retenciones a los servidores públicos, requeridas por autoridades competentes o por el propio trabajador, efectuándose de acuerdo al procedimiento de aplicación del pago a burócratas;
-
-XXXIV. Atender y resolver las inconsistencias, dudas e inquietudes de los servidores públicos que se susciten por la aplicación de las funciones correspondientes.
-
-XXXV. Vigilar que se proporcionen de conformidad con las disposiciones aplicables, los servicios de mantenimiento, reparaciones, mensajería, seguros y abastecimiento de combustible a las dependencias de la administración pública estatal.
-
-XXXVI. Proporcionar los espacios para el servicio de archivo que contenga documentos y expedientes de la Secretaría y sus unidades administrativas, en lugares destinados para tal efecto.
-
-XXXVII. Vigilar que el diseño e instrumentación de los sistemas, procesos de trabajo contenidos en manuales de organización, de procedimientos y de control interno, cumplan con las disposiciones aplicables.
-
-XXXVIII. Coadyuvar en las actividades inherentes al sistema de calidad implementado por la Secretaría.
-
-XXXIX. Administrar, controlar y vigilar los almacenes o lugares en donde se depositen bienes o valores del Estado.
-
-XL. Generar políticas que garanticen el respeto a los derechos humanos, la no discriminación y el cuidado del medio ambiente en la Secretaría.
-
-XLI. Fomentar las acciones que fortalezcan la perspectiva de género y alienten a la cultura de la Secretaría.
-
-XLII. Llevar el registro de las entidades paraestatales y expedir las certificaciones del registro oficial.
-
-XLIII. Requerir, revisar y validar la información financiera y contable que se considere necesaria para el cumplimiento de las funciones de las entidades de la administración pública estatal.
-
-XLIV. Designar el personal que acuda a las juntas directivas de las entidades paraestatales, para informar al Secretario de los acuerdos tomados.
-
-XLV. Participar en el comité técnico de los fideicomisos de las entidades paraestatales, en los que la Secretaría funja como representante del Ejecutivo, previo acuerdo del Secretario.
-
-XLVI. Poner a la consideración del Secretario las personas que serán miembros del órgano de gobierno y/o consejos de administración y vigilancia de las entidades paraestatales, siempre que no se contraríe lo dispuesto en otros ordenamientos aplicables; así como los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales integrantes del capital social de las empresas de participación estatal.
-
-XLVII. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
+ARTÍCULO 13 A. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 ###### ARTÍCULO 14.
 
@@ -613,13 +713,13 @@ X. Formular y presentar oportunamente a la consideración del Secretario, los an
 
 XI. Vigilar, en el ámbito de su competencia, el cumplimiento y la aplicación de las leyes, reglamentos y demás disposiciones de carácter fiscal y proponer al Secretario reformas o modificaciones tendientes a mejorar la defensa jurídica de los intereses de la hacienda pública.
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-XII. Coadyuvar con la Subsecretaría de Administración en las relaciones de la Secretaría con el Sindicato Único de Trabajadores al Servicio del Gobierno del Estado, en los términos previstos por las disposiciones aplicables.
+XII. Coadyuvar con la Subsecretaría de Egresos y Administración en las relaciones de la Secretaría con el Sindicato Único de Trabajadores al Servicio del Gobierno del Estado, en los términos previstos por las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-XIII. Apoyar a la Subsecretaría de Administración en el establecimiento de las condiciones generales de trabajo de los servidores públicos de confianza, de base y sindicalizados; así como vigilar su cumplimiento y promover su difusión
+XIII. Apoyar a la Subsecretaría de Egresos y Administración en el establecimiento de las condiciones generales de trabajo de los servidores públicos de confianza, de base y sindicalizados; así como vigilar su cumplimiento y promover su difusión.
 
 XIV. Autorizar y tramitar las prestaciones y derechos previstos en los convenios laborales celebrados con las organizaciones sindicales, verificando que se dé total cumplimento a lo ahí convenido.
 
@@ -627,9 +727,9 @@ XV. Opinar sobre las sanciones administrativas impuestas a los trabajadores al s
 
 XVI. Dictaminar sobre la suspensión y terminación de los efectos del nombramiento de los servidores públicos de la Secretaría, así como revisar y elaborar las liquidaciones a que tengan derecho conforme a lo dispuesto por la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-XVII. Analizar y opinar sobre las licencias, ceses y remociones de los servidores públicos que para tal efecto presenten (sic) la Subsecretaría de Administración.
+XVII. Analizar y opinar sobre las licencias, ceses y remociones de los servidores públicos que para tal efecto presenten (sic) la Subsecretaría de Egresos y Administración.
 
 XVIII. Proporcionar asesoría a las dependencias y entidades de la administración pública estatal que lo soliciten en materia laboral y prestaciones económicas de los servidores públicos.
 
@@ -771,13 +871,17 @@ XII. Delegar en los funcionarios adscritos a su área, para la mejor organizaci�
 
 XIII. Las demás que las disposiciones aplicables les atribuyan, así como aquellas que les confiera el Secretario y su superior jerárquico inmediato.
 
-#### SECCIÓN PRIMERA. DIRECCIONES ADSCRITAS A LA SUBSECRETARÍA DE EGRESOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2015)</small>
+
+#### SECCIÓN PRIMERA. DIRECCIONES ADSCRITAS A LA SUBSECRETARÍA DE EGRESOS Y ADMINISTRACIÓN
 
 ###### ARTÍCULO 23.
 
 Corresponde al Director General de Gasto Público:
 
-I. Elaborar los proyectos de lineamientos para la elaboración del presupuesto de egresos y someterlos a consideración del Subsecretario de Egresos para los efectos procedentes.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+I. Elaborar los proyectos de lineamientos para la elaboración del presupuesto de egresos y someterlos a consideración del Subsecretario de Egresos y Administración para los efectos procedentes.
 
 II. Elaborar el anteproyecto del programa general del gasto público.
 
@@ -789,7 +893,9 @@ IV. Integrar al presupuesto anual de egresos la información relacionada con las
 
 V. Estimar en coordinación con la unidad administrativa competente en materia de contabilidad, el monto de pasivos que queden por pagar durante cada ejercicio e integrarlos al proyecto del presupuesto anual de egresos.
 
-VI. Vigilar que los pagos que corresponda efectuar, conforme a los programas autorizados, se hagan oportunamente e informar al Subsecretario de Egresos sobre el ejercicio del gasto público y el estado de las amortizaciones de capital.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+VI. Vigilar que los pagos que corresponda efectuar, conforme a los programas autorizados, se hagan oportunamente e informar al Subsecretario de Egresos y Administración sobre el ejercicio del gasto público y el estado de las amortizaciones de capital.
 
 VII. Controlar el ejercicio del presupuesto asignado, modificado y ejercido en base a los compromisos válidamente adquiridos por las dependencias y entidades de la administración pública estatal.
 
@@ -803,7 +909,9 @@ XI. Programar la emisión y entrega de cheques para cubrir los compromisos de la
 
 XII. Proponer las normas a que deberá sujetarse el ejercicio del gasto en casos especiales relacionados con reposiciones de fondo, viáticos, combustible y otros de similar naturaleza que determine la autoridad competente.
 
-XIII. Proponer al Subsecretario de Egresos para su autorización, los límites del ejercicio de los fondos revolventes, y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XIII. Proponer al Subsecretario de Egresos y Administración para su autorización, los límites del ejercicio de los fondos revolventes, y
 
 XIV. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
@@ -815,11 +923,17 @@ I. Elaborar en coordinación con las dependencias y entidades de la administraci
 
 II. Analizar los presupuestos respectivos con la Dirección General de Gasto Público para su registro y planeación presupuestal.
 
-III. Integrar al presupuesto anual de egresos la información relacionada con las obligaciones y compromisos provenientes de las dependencias y entidades de la administración pública estatal que perciban directamente recursos federales para el ejercicio de las respectivas actividades y programas, así como participar en sus comités, asambleas o juntas de gobierno, previo acuerdo del Secretario.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-IV. Participar en las negociaciones sobre peticiones de incrementos salariales y prestaciones del personal en los convenios que se realice entre el gobierno del Estado y las organizaciones sindicales del sector educativo e informar al Subsecretario de Egresos al respecto.
+III. Participar en las negociaciones sobre peticiones de incrementos salariales y prestaciones del personal en los convenios que se realice entre el gobierno del Estado y las organizaciones sindicales del sector educativo e informar al Subsecretario de Egresos y Administración al respecto.
 
-V. Vigilar que los pagos que corresponda efectuar conforme a los programas autorizados se hagan oportunamente e informar mensualmente al Subsecretario de Egresos sobre el ejercicio del gasto y el estado de montos pendientes de cubrir.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+IV. Vigilar que los pagos que corresponda efectuar conforme a los programas autorizados se hagan oportunamente e informar mensualmente al Subsecretario de Egresos y Administración sobre el ejercicio del gasto y el estado de montos pendientes de cubrir.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+V. Controlar el ejercicio del presupuesto asignado, modificado y ejercido en base a los compromisos válidamente adquiridos por las dependencias y entidades de la administración pública estatal, que perciban directamente recursos federales e informar al Subsecretario de Egresos y Administración.
 
 VI. Controlar el ejercicio del presupuesto asignado, modificado y ejercido en base a los compromisos válidamente adquiridos por las dependencias y entidades de la administración pública estatal, que perciban directamente recursos federales e informar al Subsecretario de Egresos.
 
@@ -893,7 +1007,9 @@ III. Solicitar a la Dirección General de Contabilidad la validación de la disp
 
 IV. Elaborar y presentar ante la Dirección General de Gasto Público las cuentas por pagar que amparan las solicitudes de liberaciones de recursos presentadas y validadas por la Secretaría Técnica y de Planeación, correspondientes a la inversión pública.
 
-V. Vigilar que el ejercicio presupuestal de los programas de inversión pública se sujeten a los techos presupuestales; así como, que la disposición de los recursos se lleve conforme a los calendarios aprobados y en su defecto, proponer las medidas necesarias para su observancia; informando periódicamente a la Subsecretaría de Egresos sobre sus avances y variaciones.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+V. Vigilar que el ejercicio presupuestal de los programas de inversión pública se sujeten a los techos presupuestales; así como, que la disposición de los recursos se lleve conforme a los calendarios aprobados y en su defecto, proponer las medidas necesarias para su observancia; informando periódicamente a la Subsecretaría de egresos y administración sobre sus avances y variaciones.
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
 
@@ -977,19 +1093,29 @@ XXV. Las demás que le atribuyan este reglamento y otras disposiciones aplicable
 
 Corresponde al Director General de Caja General:
 
-I. Llevar el control de disponibilidad bancaria de los recursos de la administración pública estatal e informar oportunamente a la Subsecretaría de Egresos.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+I. Llevar el control de disponibilidad bancaria de los recursos de la administración pública estatal e informar oportunamente a la Subsecretaría de Egresos y Administración.
 
 II. Concentrar, registrar y controlar los fondos provenientes de la aplicación de la Ley de Ingresos del Estado, así como cualquier tipo de ingreso que perciba la administración pública estatal.
 
-III. Realizar convenios con las instituciones de crédito relativos a la prestación de servicios bancarios que requiera la administración pública estatal, previo acuerdo del Secretario y/o Subsecretario de Egresos.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+III. Realizar convenios con las instituciones de crédito relativos a la prestaciónde (sic) servicios bancarios que requiera la administración pública estatal, previo acuerdo del Secretario y/o Subsecretario de Egresos y Administración.
 
 IV. Establecer y llevar un control de las cuentas corrientes de depósitos en efectivo propiedad de la administración pública estatal, que tenga a su cargo.
 
-V. Transferir a las autoridades fiscales federales, estatales y municipales los recursos financieros que les correspondan, previo acuerdo del Subsecretario de Egresos.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-VI. Operar la transferencia por concepto de créditos entre la administración pública estatal y los municipios, previo acuerdo del Subsecretario de Egresos.
+V. Transferir a las autoridades fiscales federales, estatales y municipales los recursos financieros que les correspondan, previo acuerdo del Subsecretario de Egresos y Administración.
 
-VII. Efectuar los pagos que se autoricen por la Subsecretaría de Egresos.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+VI. Operar la transferencia por concepto de créditos entre la administración pública estatal y los municipios, previo acuerdo del Subsecretario de Egresos y Administración.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+VII. Efectuar los pagos que se autoricen por la Subsecretaría de Egresos y Administración.
 
 VIII. Efectuar el corte diario de caja y llevar los registros necesarios para el control de los movimientos de ingresos y egresos.
 
@@ -1033,6 +1159,346 @@ XI. Coadyuvar con el área competente en el registro de los fondos descentraliza
 
 XII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 A. Corresponde al Director General de Administración de Personal:
+
+I. Definir, conducir y evaluar las políticas en materia de administración de personal, así como emitir los lineamientos y procedimientos para el análisis y operación del pago que por concepto de sueldos y demás prestaciones deba efectuarse a los servidores públicos adscritos a las dependencias y entidades de la administración pública estatal.
+
+II. Operar conforme a los procedimientos establecidos, los sistemas de altas, bajas y movimientos de los servidores públicos de las dependencias y entidades de la administración pública estatal.
+
+III. Aplicar el pago de aportaciones y descuentos que la administración pública estatal tenga que realizar a instituciones que presten servicios al Gobierno del Estado de Coahuila de Zaragoza.
+
+IV. Elaborar y poner a consideración del Subsecretario de Egresos y Administración el anteproyecto de presupuesto correspondiente a servicios personales.
+
+V. Proyectar, ejecutar y evaluar conforme a las disposiciones aplicables, los programas de capacitación para los servidores públicos de la administración pública estatal, a fin de fomentar el desarrollo profesional de los mismos.
+
+VI. Intervenir, en el ámbito de su competencia, en los cálculos de las negociaciones de los convenios que se celebren con las representaciones sindicales.
+
+VII. Actualizar y evaluar las normas y procedimientos para la elaboración de los proyectos de manuales de organización de las dependencias y entidades de la administración pública estatal.
+
+VIII. Sugerir a su superior jerárquico inmediato la implementación de sistemas de motivación a los servidores públicos, de conformidad con lo dispuesto por las disposiciones aplicables y las condiciones generales de trabajo.
+
+IX. Revisar, evaluar y actualizar las modificaciones de plantilla que sean solicitadas por las dependencias y entidades de la administración pública estatal, así como las modificaciones en la estructura orgánica que procedan, previa autorización del Subsecretario.
+
+X. Asesorar en materia de administración de personal a las dependencias y entidades de la administración pública estatal que así lo soliciten.
+
+XI. Mantener estrecha comunicación con los coordinadores administrativos de las dependencias y entidades de la administración pública estatal, con la finalidad de hacer más eficiente la administración del personal.
+
+XII. Revisar y tramitar el pago de prestaciones proporcionales e indemnizaciones por terminación de la relación laboral de los servidores públicos de la administración pública estatal, previa solicitud de las dependencias y entidades.
+
+XIII. Elaborar y tramitar la credencial de identificación para los servidores públicos adscritos a la administración pública estatal, previa autorización del Subsecretario de Egresos y Administración.
+
+XIV. Operar los trámites de altas, bajas y modificaciones de salario ante las instituciones de seguridad social a las que se encuentren afiliados de (sic) los trabajadores de las dependencias y entidades de la administración pública estatal.
+
+XV. Validar, autorizar y operar, conforme a los lineamientos establecidos, las prestaciones y deducciones solicitadas.
+
+XVI. Operar mediante el sistema de administración del personal sus prestaciones y derechos, previstos en los convenios celebrados con las organizaciones sindicales.
+
+XVII. Aplicar los descuentos y retenciones a los servidores públicos, requeridas por autoridades competentes o por el propio trabajador, efectuándose de acuerdo al procedimiento de aplicación del pago a burócratas.
+
+XVIII. XVIII (SIC). Atender y resolver las inconsistencias, dudas e inquietudes de los servidores públicos que se susciten en cuanto a las percepciones y deducciones salariales, y;
+
+XIX. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTICULO 29 B. Corresponde al Director General de Adquisiciones:
+
+I. Coordinar e implementar la consolidación del Programa Anual de Adquisiciones de laSecretaría (sic) y las distintas dependencias de la administración pública estatal.
+
+II. Integrar y operar los programas de compras en general, derivados de la demanda existente de la Secretaría y las dependencias, de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y los montos autorizados anualmente por el Congreso del Estado y demás disposiciones aplicables.
+
+III. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas, así como planear y ejecutar todas las acciones de administración y operación de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables de acuerdo a los convenios celebrados con las dependencias y entidades de la administración pública y municipios cuando así lo autoricen sus cabildos.
+
+IV. Presidir los actos de las licitaciones y los concursos, levantando las actas correspondientes, conforme a las leyes de la materia y a las disposiciones aplicables;
+
+V. Formular y elaborar las solicitudes de cotización para contratar por adjudicación directa, las obras, adquisiciones de bienes y servicios de las diversas áreas adscritas a la Secretaría y demás dependencias, en el ámbito de su competencia;
+
+VI. Abastecer los requerimientos de materiales de consumo y bienes muebles diversos demandados por la Secretaría y las dependencias de la administración pública estatal de acuerdo a los tiempos y procedimientos marcados por la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y los montos autorizados anualmente por el Congreso del Estado y demás disposiciones aplicables.
+
+VII. Operar el Sistema Integral de Adquisiciones para la integración del programa estimado anual de adquisiciones, la consolidación de los requerimientos de la Secretaría y las dependencias de la administración pública estatal, así como el desarrollo de los diversos procesos de compra de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+
+VIII. Realizar las gestiones necesarias para la administración y resguardo de la existencia de materiales de consumo de la Secretaría y dependencias de la administración pública estatal en los almacenes correspondientes.
+
+IX. Elaborar documentos con los costos de los materiales de consumo, bienes muebles y demás programas de compras abastecidos a la Secretaría y dependencias, a través de cuentas por pagar y pólizas de diario para su correspondiente trámite de pago ante la Subsecretaría de Egresos y Administración.
+
+X. Participar y coordinar las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza y del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obras Públicas.
+
+XI. Verificar que los procesos de adquisiciones se realicen con estricto apego a la normatividad aplicable y se integre el expediente correspondiente.
+
+XII. Generar información de la operación de los procesos elaborados en la dirección, relativos a la planeación de adquisiciones, requerimientos, compra de bienes y materiales, entre otros informes.
+
+XIII. Definir en coordinación con su jefe inmediato y con apego a la normatividad vigente, los lineamientos a seguir para la integración y control de los expedientes unitarios de la obra pública, que dan soporte legal, administrativo y técnico a la actuación de la Secretaría en lo relativo a la obra gubernamental que por su conducto se realice;
+
+XIV. Inscribir a los contratistas o proveedores participantes en cada concurso, siempre que hubieran cumplido con los requisitos establecidos en la invitación correspondiente;
+
+XV. Integrar los expedientes unitarios de las licitaciones, concursos y contratos, verificando que cuenten con toda la documentación requerida y el control del archivo correspondiente;
+
+XVI. Integrar los archivos correspondientes a los registros de proveedores y contratistas que controlan (sic) obra y proveen un bien o servicio a la Secretaría y demás dependencias.
+
+XVII. Proponer y promover la modernización de los sistemas de integración y control de archivo de los expedientes unitarios de la obra pública que permitan su eficiente operación;
+
+XVIII. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de obras, adquisición de bienes y contratación de servicios;
+
+XIX. Operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales (COMPRANET), para programar y elaborar las convocatorias y licitar las obras, adquisiciones y servicios que lleva a cabo la Secretaría, revisando que las bases de licitación y demás documentación cumpla con las disposiciones aplicables, en el ámbito de su competencia;
+
+XX. Coadyuvar con la Dirección General de Procesos Legales y Contratos para la formulación y elaboración de los contratos y convenios adicionales o modificatorios de obra, adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, verificando que se hayan cubierto los requerimientos para su autorización.
+
+XXI. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 C. Corresponde al Director General de Servicios Generales:
+
+I. Operar, evaluar y contratar los servicios de conformidad con las disposiciones aplicables para el mantenimiento y reparación de edificios, mantenimiento de equipos de talleres gráficos, parque vehicular, instalaciones, mobiliario y equipo, servicios de agua, energía eléctrica, teléfono, copiado, pólizas de seguros, mensajería, vigilancia, arrendamiento de bienes muebles e inmuebles, fletes y abasto de combustible para las dependencias y entidades de la administración pública estatal.
+
+II. Coordinar, supervisar, fiscalizar y regularizar en su caso, los servicios contratados por las dependencias y entidades de la administración pública estatal, para la adecuada operación de sus funciones.
+
+III. Vigilar el cumplimiento de los contratos que celebre la Secretaría y en su caso, realizar los trámites para hacer efectivas las sanciones y penas legales o convencionales en que incurran los prestadores de servicios, en conjunto con la Coordinación General de Asuntos Jurídicos.
+
+IV. Someter a la aprobación del Secretario a través del superior jerárquico, los lineamientos que deban observarse para la contratación de servicios de las dependencias y entidades de la administración pública estatal.
+
+V. Establecer en el ámbito de su competencia de conformidad con las disposiciones aplicables que a cada caso correspondan, las políticas y procedimientos para la celebración de contratos de bienes y servicios para la Secretaría.
+
+VI. Definir y proponer las normas técnicas y procedimientos que correspondan en lo relativo a los servicios otorgados a las dependencias y entidades de la administración pública estatal.
+
+VII. Realizar la afectación presupuestal por los costos de los servicios contratados a las dependencias y entidades de la administración pública estatal.
+
+VIII. Coordinar con la Dirección General de Informática la instalación de los servicios de tecnologías de voz, datos, video e internet, requeridos por las dependencias de la administración pública estatal, y;
+
+IX. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 D. Corresponde al Director General de Apoyo Administrativo:
+
+I. Operar conforme a las disposiciones aplicables los sistemas de altas, bajas y cambios de personal, así como los demás procedimientos internos que en materia de recursos humanos se implementen en la Secretaría.
+
+II. Implementar procedimientos administrativos y de control interno para el adecuado funcionamiento de la Secretaría y vigilar su debido cumplimiento.
+
+III. Controlar la estructura orgánica y plantilla de personal de la Secretaría.
+
+IV. Efectuar los trámites de prestaciones del personal de la Secretaría, relacionados con servicio médico, seguros de vida, aguinaldo, vacaciones y prima vacacional proporcional, y demás relativos.
+
+V. Verificar que se lleve a cabo el control de incidencias de personal y la elaboración de los reportes correspondientes.
+
+VI. Emitir las constancias de trabajo y gestionar lo relacionado con los nombramientos y las credenciales de identificación del personal de la Secretaría.
+
+VII. Asesorar y apoyar a las unidades administrativas de la Secretaría en lo referente a los trámites de los recursos humanos.
+
+VIII. Tramitar la elaboración de cuentas por pagar respecto a préstamos de caja, afectaciones al presupuesto de los capítulos 2000, 3000 y 5000 del presupuesto de egresos. Así como el fondo revolvente de la Subsecretaría de Egresos y Administración y las direcciones generales de Administración de Personal, Adquisiciones, Servicios Generales y la Dirección General de Apoyo Administrativo.
+
+IX. Apoyar en la elaboración del anteproyecto de presupuesto de egresos para el ejercicio anual de la Subsecretaría de Egresos y Administración y sus Direcciones Generales.
+
+X. Controlar y supervisar los servicios internos de limpieza y jardinería de la Secretaría.
+
+XI. Proporcionar el servicio de mensajería que requieran las diversas áreas de la Secretaría.
+
+XII. Verificar que se lleve un control adecuado del acceso y salida de personal a los edificios de la Secretaría.
+
+XIII. Controlar la entrada y salida de los vehículos en el estacionamiento de la Secretaría.
+
+XIV. Supervisar y controlar la flotilla de vehículos de la Secretaría.
+
+XV. Vigilar el adecuado mantenimiento vehicular, distribución de combustibles y otros servicios de la Secretaría.
+
+XVI. Elaborar en coordinación con el área correspondiente, el programa estimado anual de adquisiciones, así como las requisiciones trimestrales de materiales de la Secretaría.
+
+XVII. Implementar los lineamientos necesarios para el adecuado manejo y resguardo de los archivos públicos de la Secretaría, de conformidad con las disposiciones aplicables.
+
+XVIII. Coordinar y dirigir los eventos organizados por la Secretaría.
+
+XIX. Vigilar el cumplimiento de las normas de protección civil, salud, seguridad e higiene en las oficinas de la Secretaría.
+
+XX. Vigilar el cumplimiento estricto de los calendarios cívicos nacional y estatal, y promover acciones que fortalezcan el respeto a los símbolos patrios, la identidad coahuilense, el escudo y el himno del Estado.
+
+XXI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 E. Corresponde al Director General de Procesos Legales y Contratos:
+
+I. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de obras, adquisición de bienes y contratación de servicios;
+
+II. Formular y elaborar los contratos y convenios adicionales o modificatorios de obra, adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, con base en los lineamientos y políticas que para el efecto proporcione la Dirección General de Adquisiciones y la Subsecretaría de Egresos y Administración;
+
+III. Formular los convenios a celebrar por la Secretaría con las demás dependencias y entidades de la administración pública estatal, para llevar a cabo los procesos de licitación para la adquisición de bienes y contratación de obras públicas.
+
+IV. Representar a la Secretaría de Finanzas ante autoridades estatales, municipales y federales que corresponda en las controversias que se susciten con motivo de las licitaciones y contratos que tenga a su cargo esta Subsecretaría.
+
+V. Dirigir las actividades de recepción, registro, revisión, evaluación y seguimiento de documentos que deberán quedar integrados como anexos a los diversos contratos y convenios adicionales o modificatorios relativos a los procesos de licitación para la adquisición de bienes y contratación de obras públicas, que se suscriban en la Secretaría;
+
+VI. Elaborar el informe relativo a la estadística y registro de licitaciones, concursos, contratos y convenios adicionales o modificatorios adjudicados por la Secretaría;
+
+VII. Tramitar, en el ámbito de su competencia, la cancelación de las fianzas de anticipo y de cumplimientos de contratos y convenios cuando proceda, de acuerdo a lo previsto en los contratos y convenios correspondientes;
+
+VIII. Participar en el ámbito de su competencia con la Secretaría de Fiscalización y Rendición de Cuentas del Estado en la actualización y cambios en convocatorias, bases de licitación, sus anexos y modelo de contrato para los procesos de contratación de obras públicas y servicios relacionados con las mismas, y
+
+IX. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 F. Corresponde al Director de Entidades Paraestatales:
+
+I. Requerir a los titulares de las entidades paraestatales y en caso de ser necesario a la dependencia a la que se encuentre sectorizada la información financiera y contable que considere necesaria para el cumplimiento de sus funciones.
+
+II. Vigilar que la aplicación del presupuesto en las entidades paraestatales se ejerza estrictamente apegada a las disposiciones aplicables, realizando únicamente los gastos comprendidos en el presupuesto de egresos o aquellos autorizados por el órgano de gobierno de la entidad paraestatal.
+
+III. Evaluar el funcionamiento de las entidades paraestatales e informar al Subsecretario de Egresos y Administración sobre su desempeño general y por funciones de las entidades paraestatales.
+
+IV. Revisar y analizar los proyectos de presupuesto que presenten las entidades paraestatales para someterlos a consideración del Subsecretario de Egresos y Administración y confirmar la suficiencia presupuestal, con el área competente.
+
+V. Asistir, participar y coadyuvar con el área competente, en la validación de la información que para efectos de informes de ingresos, egresos, inversión pública, rendición de cuenta pública, o cualquier otro, deban proporcionar a la Secretaria las entidades paraestatales, en atención a las disposiciones aplicables.
+
+VI. Promover la implementación de indicadores básicos que permitan la evaluación en materia de operación y productividad financiera en el Estado.
+
+VII. Supervisar y vigilar los programas de compras de acuerdo a las requisiciones de las entidades paraestatales, con base al presupuesto autorizado por el Congreso del Estado.
+
+VIII. Vigilar la aplicación de las reglas que deban observarse para la contratación de servicios diversos de las entidades paraestatales.
+
+IX. Participar en el comité técnico de los fideicomisos en los que la Secretaria funja como representante del Ejecutivo y en los órganos de gobierno de las entidades paraestatales, previo acuerdo del Subsecretario de Egresos y Administración.
+
+X. Asistir a las juntas directivas o consejos de administración en representación del Secretario, salvo que éste designe a otro servidor público, así como realizar las observaciones que considere pertinentes.
+
+XI. Informar al Subsecretario de Egresos y Administración de los acuerdos tomados en las juntas directivas o consejos de administración de las entidades paraestatales en las que este participe.
+
+XII. Requerir al titular o a su equivalente en las entidades paraestatales la documentación, informes y datos que integren la administración de la entidad de la administración pública estatal.
+
+XIII. Llevar el registro de entidades paraestatales y expedir las certificaciones de su registro oficial.
+
+XIV. Enterar al Subsecretario de Egresos y Administración sobre la extinción de las entidades paraestatales cuando estas hayan cumplido con el finiquito de las funciones que emanen de los decretos con apego a la ley.
+
+XV. Recibir dentro de los primeros quince días de cada mes, los informes financieros y presupuestales de las entidades de la administración pública estatal, para su validación correspondiente.
+
+XVI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 G. Corresponde al Director General de Informática:
+
+I. Desarrollar el plan de informática con la participación de las demás áreas de la Secretaría.
+
+II. Planear, implementar, administrar y operar la infraestructura de telecomunicaciones que soporta la red de voz y datos de la administración pública estatal, asegurando su mantenimiento, crecimiento, operación y confiabilidad.
+
+III. Proponer al Subsecretario de Egresos y Administración la implementación de tecnología de vanguardia en lo que a informática y telecomunicaciones concierne, promoviendo y apoyando los programas de modernización administrativa.
+
+IV. Establecer acorde a la normatividad vigente, las políticas, normas, sistemas, procedimientos técnicos y administrativos que en materia de informática y telecomunicaciones procedan.
+
+V. Administrar el sitio central de información e infraestructura de telecomunicaciones de la Secretaría.
+
+VI. Vigilar, regular y asegurar el crecimiento adecuado de los sistemas de información en el ámbito de su competencia.
+
+VII. Analizar, evaluar, seleccionar e implementar los proyectos, instalacionesy (sic) servicios concernientes a las tecnologías de voz, datos, video e internet, requeridos por las dependencias de la administración pública estatal.
+
+VIII. Promover seminarios de capacitación entre las unidades administrativas de la Secretaría en materia de informática.
+
+IX. Llevar a cabo la operación, mantenimiento preventivo y correctivo de los sistemas, equipos de cómputo y telecomunicaciones de su competencia.
+
+X. Definir modelos de integración y estandarización de plataformas tecnológicas de cómputo y telecomunicaciones para la administración pública estatal.
+
+XI. Mantener y garantizar la calidad de los servicios y productos a su cargo.
+
+XII. Mantener y garantizar la seguridad de las bases de datos, los sistemas de información y la infraestructura de telecomunicaciones, estableciendo todas las medidas, mecanismos, procedimientos y normas que considere pertinentes para tal propósito.
+
+XIII. Participar como apoyo técnico en la definición de estándares y selección del equipo de cómputo, herramientas de sistemas y telecomunicaciones en los procesos de adquisición que se celebren por parte de las dependencias de la administración pública estatal.
+
+XIV. Concentrar, resguardar, mantener y operar las bases de datos de los diferentes sistemas de información con que cuenten las unidades administrativas de la Secretaría, definiendo las normas, disposiciones, prevenciones, lineamientos y medidas que considere necesarias, con el fin de garantizar la integridad, seguridad y disponibilidad de las mismas.
+
+XV. Asesorar, encausar y apoyar a las dependencias y entidades de la administración pública estatal en materia de informática y telecomunicaciones.
+
+XVI. Procesar datos mediante la realización de cálculos electrónicos para la elaboración de los productos de información correspondientes a las diferentes nóminas de la administración pública estatal.
+
+XVII. Planear, analizar, diseñar, definir, codificar, elaborar, resguardar y mantener los sistemas de cómputo que requieran las unidades administrativas de la Secretaría para el desempeño de sus funciones.
+
+XVIII. Proponer al Subsecretario de Egresos y Administración las medidas tendientes al mejoramiento, modernización e innovación de servicios y sistemas informáticos de la Secretaría; así como la reingeniería y estandarización de los procesos administrativos de la misma.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 H. Corresponde al Director General de Patrimonio:
+
+I. Formular, controlar y mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del Estado, así como la contabilidad patrimonial.
+
+II. Registrar y llevar el control de los almacenes o lugares en donde se depositen bienes o valores del Estado que hayan sido dados de baja del inventario.
+
+III. Participar en el Comité de Adquisiciones y Control de Operaciones Patrimoniales en los términos previstos por las disposiciones aplicables.
+
+IV. Expedir y evaluar las políticas, normas y procedimientos para el control de la distribución, recepción y resguardo de los bienes muebles e inmuebles adscritos a las dependencias y entidades de la administración pública estatal, vigilando su estricto cumplimiento.
+
+V. Intervenir en los términos que autorice el Subsecretario de Egresos y Administración, conforme a las normas aplicables a cada caso y en coordinación con las dependencias y entidades de la administración pública estatal; en la celebración de contratos de compraventa, donación, comodato, seguros, arrendamiento y los demás en que se afecte el patrimonio del Estado; así como formular los proyectos de convenios y contratos en que intervenga la Secretaría y llevar el registro de los mismos.
+
+VI. Recibir, analizar y evaluar las solicitudes de liberación de derechos de vía, para la construcción y modernización de vías de comunicación y la adquisición de predios para la construcción de obra pública que formulen las dependencias y entidades de la administración pública estatal y las que se convengan con el Gobierno Federal y en su caso celebrar los convenios y contratos de afectación que se deriven de las negociaciones con los propietarios.
+
+VII. Someter a la consideración del Subsecretario de Egresos y Administración, las solicitudes y proyectos de expropiación de bienes que por causa de utilidad pública procedan para la construcción o modernización de vías de comunicación y para obra pública, a fin de que sean propuestas para su aprobación ante el Ejecutivo.
+
+VIII. Llevar a cabo las indemnizaciones a los titulares de predios que resultaren afectados con motivo de la construcción de vías de comunicación y por obra pública, previa autorización del Subsecretario de Egresos y Administración.
+
+IX. Intervenir en las ventas y remates de los bienes muebles e inmuebles que sean propiedad de (sic) Gobierno del Estado.
+
+X. Formular los proyectos de iniciativas de decretos para la desincorporación y/o enajenación de bienes muebles, inmuebles, de concesiones, permutas y todo cuanto afecte al patrimonio del Estado.
+
+XI. Determinar, supervisar y vigilar la correcta y adecuada utilización y custodia de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
+
+XII. Expedir normas técnicas, autorizar, y en su caso, rehabilitar, conservar o administrar directamente o a través de terceros, los edificios públicos y en general, los bienes inmuebles propiedad del Gobierno del Estado, a fin de obtener el mayor provecho del uso y goce de los mismos.
+
+XIII. Reunir, revisar y determinar las normas y procedimientos para realizar y mantener actualizado el avalúo de los bienes inmuebles propiedad del Gobierno del Estado.
+
+XIV. Revisar y autorizar las operaciones inmobiliarias que realicen las dependencias y en su caso las entidades, respecto a bienes del dominio público. Cuando se trate de enajenación, dichos bienes serán previamente desincorporados del dominio público y deberá cumplirse con lo dispuesto en los ordenamientos jurídicos aplicables.
+
+XV. Establecer normas específicas de recepción y entrega de los bienes propiedad del Gobierno del Estado, a cargo de las dependencias y entidades de la administración pública estatal, y vigilar su cumplimiento, en coordinación con la Secretaría (sic) Fiscalización y Rendición de Cuentas.
+
+XVI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 I. Corresponde a la Dirección General de Evaluación y Seguimiento:
+
+I. Planear, dirigir, controlar y evaluar la organización y funcionamiento de las áreas adscritas a la Subsecretaría de Egresos y Administración;
+
+II. Elaborar y presentar ante la Subsecretaría de Egresos y Administración el Programa Anual de Trabajo;
+
+III. Informar periódicamente los resultados de sus operaciones a su superior jerárquico y autoridades competentes;
+
+IV. Coordinar la elaboración de los Manuales de Organización y de políticas y Procedimientos Administrativos de la Secretaría y de los Organismos que correspondan;
+
+V. Brindar asesoría y apoyo técnico en las áreas administrativas adscritas a la Secretaría;
+
+VI. Validar la información relativa a los procesos de Entrega-Recepción de los servidores públicos de la Secretaría y los Organismos que correspondan;
+
+VII. Evaluar las actividades inherentes al manejo de los Recursos Humanos, financieros y Materiales de las unidades administrativas adscritas a la Secretaría;
+
+VIII. Promover e implementar en las unidades administrativas, mecanismos de control preventivos y correctivos, de acuerdo a la normatividad vigente en la materia;
+
+IX. Establecer programas de supervisión interna para evaluar la operación y funcionamiento de las áreas administrativas de la Secretaría, sus órganos desconcentrados y de los Organismos que correspondan;
+
+X. Dar seguimiento a los asuntos encomendados por la Subsecretaría de Administración;
+
+XI. Aplicar y vigilar el cumplimiento de Leyes, Normas y Políticas vigentes en la materia;
+
+XII. Las demás funciones encomendadas por la Subsecretaría de Egresos y Administración y las que le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+
+ARTÍCULO 29 J. Corresponde a la Dirección de Nóminas Estatales:
+
+I. Procesar y emitir las nóminas para el pago de los servidores públicos de las dependencias y entidades de la administración pública estatal en coordinación de las unidades administrativas competentes.
+
+II. Programar las nóminas ordinarias y extraordinarias del personal al servicio de la administración pública estatal para su registro y programación de pago correspondiente.
+
+III. Elaborar, validar y tramitar ante la Dirección General de Gasto Público las cuentas por pagar de las afectaciones del capítulo 1000 para su pago, así como verificar el depósito global de las nóminas y tramitar con las instituciones bancarias el tiempo y la forma en que se realicen los pagos de las mismas.
+
+IV. Tramitar las cancelaciones de cheques y retenciones de depósitos bancarios y verificar que las retenciones se efectúen correctamente para su recuperación dentro del presupuesto.
+
+V. Ejercer y supervisar los recursos del capítulo 1000 del presupuesto de egresos, correspondientes a las dependencias y entidades de la administración pública estatal.
+
+VI. Elaborar en conjunto con la Dirección General de Administración de Personal y poner a consideración del Subsecretario de Egresos y Administración el anteproyecto de presupuesto correspondiente a servicios personales.
+
+VII. Elaborar análisis y proyectos para la planeación y administración del presupuesto destinado para los recursos humanos de la administración pública estatal.
+
+VIII. Proponer al Subsecretario de Egresos y Administración lineamientos aplicables para el correcto ejercicio de los recursos del capítulo 1000.
+
+IX. Elaborar y proponer para su autorización el tabulador de sueldos de los servidores públicos de la administración pública estatal.
+
 ###### ARTÍCULO 30.
 
 (DEROGADO, P.O. 9 DE MARZO DE 2015)
@@ -1043,9 +1509,7 @@ XII. Las demás que le atribuyan este reglamento y otras disposiciones aplicable
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
 
-###### ARTÍCULO 30-A.
-
-Corresponde al Director General de Política de Ingresos:
+ARTÍCULO 30 A. Corresponde al Director General de Política de Ingresos:
 
 I. Proponer, al Subsecretario la política fiscal estatal para cada ejercicio fiscal en congruencia con la Federal.
 
@@ -1133,7 +1597,9 @@ IV. Verificar que los financiamientos que se pretendan contratar por las depende
 
 V. Realizar ante la Secretaría de Hacienda y Crédito Público, los trámites necesarios para registrar los nuevos financiamientos, en los que se establezca como garantía las participaciones que en ingresos federales correspondan al Estado o a los municipios, así como las aportaciones federales y las demás que procedan
 
-VI. Otorgar a la Subsecretaría de Egresos, la información específica de los créditos, empréstitos y obligaciones contraídas por concepto de deuda pública y/o emisión de valores, para que la Subsecretaría de Egresos pueda registrar contablemente dichas acciones, en apego a la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+VI. Otorgar a la Subsecretaría de Egresos y Administración, la información específica de los créditos, empréstitos y obligaciones contraídas por concepto de deuda pública y/o emisión de valores, para que la Subsecretaría de Egresos y Administración pueda registrar contablemente dichas acciones, en apego a la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
 
 VII. Detectar áreas de oportunidad en materia de financiamiento y proponer las medidas necesarias para acceder a él cuando a su juicio proceda.
 
@@ -1153,391 +1619,37 @@ XIV. Vigilar el exacto cumplimiento de las disposiciones aplicables en materia d
 
 XV. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. DIRECCIONES ADSCRITAS A LA SUBSECRETARÍA DE ADMINISTRACIÓN
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
+#### SECCIÓN SEGUNDA
 
 ###### ARTÍCULO 31.
 
-Corresponde al Director General de Administración de Personal:
-
-I. Definir, conducir y evaluar las políticas en materia de administración de personal, así como emitir los lineamientos y procedimientos para el análisis y operación del pago que por concepto de sueldos y demás prestaciones deba efectuarse a los servidores públicos adscritos a las dependencias y entidades de la administración pública estatal.
-
-II. Operar conforme a los procedimientos establecidos, los sistemas de altas, bajas y movimientos de los servidores públicos de las dependencias y entidades de la administración pública estatal.
-
-III. Aplicar el pago de aportaciones y descuentos que la administración pública estatal tenga que realizar a instituciones que presten servicios al Gobierno del Estado de Coahuila de Zaragoza.
-
-IV. Elaborar y poner a consideración del Subsecretario de Administración el anteproyecto de presupuesto correspondiente a servicios personales.
-
-V. Proyectar, ejecutar y evaluar conforme a las disposiciones aplicables, los programas de capacitación para los servidores públicos de la administración pública estatal, a fin de fomentar el desarrollo profesional de los mismos.
-
-VI. Intervenir, en el ámbito de su competencia, en los cálculos de las negociaciones de los convenios que se celebren con las representaciones sindicales.
-
-VII. Actualizar y evaluar las normas y procedimientos para la elaboración de los proyectos de manuales de organización de las dependencias y entidades de la administración pública estatal.
-
-VIII. Sugerir a su superior jerárquico inmediato la implementación de sistemas de motivación a los servidores públicos, de conformidad con lo dispuesto por las disposiciones aplicables y las condiciones generales de trabajo.
-
-IX. Revisar, evaluar y actualizar las modificaciones de plantilla que sean solicitadas por las dependencias y entidades de la administración pública estatal, así como las modificaciones en la estructura orgánica que procedan, previa autorización del Subsecretario.
-
-X. Asesorar en materia de administración de personal a las dependencias y entidades de la administración pública estatal que así lo soliciten.
-
-XI. Mantener estrecha comunicación con los coordinadores administrativos de las dependencias y entidades de la administración pública estatal, con la finalidad de hacer más eficiente la administración del personal.
-
-XII. Revisar y tramitar el pago de prestaciones proporcionales e indemnizaciones por terminación de la relación laboral de los servidores públicos de la administración pública estatal, previa solicitud de las dependencias y entidades.
-
-XIII. Elaborar y tramitar la credencial de identificación para los servidores públicos adscritos a la administración pública estatal, previa autorización del Subsecretario de Administración.
-
-XIV. Operar los trámites de altas, bajas y modificaciones de salario ante las instituciones de seguridad social a las que se encuentren afiliados de los trabajadores de las dependencias y entidades de la administración pública estatal.
-
-XV. Validar, autorizar y operar, conforme a los lineamientos establecidos, las prestaciones y deducciones solicitadas.
-
-XVI. Operar mediante el sistema de administración del personal sus prestaciones y derechos, previstos en los convenios celebrados con las organizaciones sindicales.
-
-XVII. Aplicar los descuentos y retenciones a los servidores públicos, requeridas por autoridades competentes o por el propio trabajador, efectuándose de acuerdo al procedimiento de aplicación del pago a burócratas.
-
-XVIII. Atender y resolver las inconsistencias, dudas e inquietudes de los servidores públicos que se susciten en cuanto a las percepciones y deducciones salariales, y;
-
-XIX. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2014)</small>
+(DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 ###### ARTÍCULO 32.
 
-Corresponde al Director General de Adquisiciones:
-
-I. Coordinar e implementar la consolidación del Programa Anual de Adquisiciones de la Secretaría y las distintas dependencias de la administración pública estatal.
-
-II. Integrar y operar los programas de compras en general, derivados de la demanda existente de la Secretaría y las dependencias, de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y los montos autorizados anualmente por el Congreso del Estado y demás disposiciones aplicables.
-
-III. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas, así como planear y ejecutar todas las acciones de administración y operación de conformidad con la Ley de de (sic) Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables de acuerdo a los convenios celebrados con las dependencias y entidades de la administración pública y municipios cuando así lo autoricen sus cabildos.
-
-IV. Presidir los actos de las licitaciones y los concursos, levantando las actas correspondientes, conforme a las leyes de la materia y a las disposiciones aplicables;
-
-V. Formular y elaborar las solicitudes de cotización para contratar por adjudicación directa, las obras, adquisiciones de bienes y servicios de las diversas áreas adscritas a la Secretaría y demás dependencias, en el ámbito de su competencia;
-
-VI. Abastecer los requerimientos de materiales de consumo y bienes muebles diversos demandados por la Secretaría y las dependencias de la administración pública estatal de acuerdo a los tiempos y procedimientos marcados por la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y los montos autorizados anualmente por el Congreso del Estado y demás disposiciones aplicables.
-
-VII. Operar el Sistema Integral de Adquisiciones para la integración del programa estimado anual de adquisiciones, la consolidación de los requerimientos de la Secretaría y las dependencias de la administración pública estatal, así como el desarrollo de los diversos procesos de compra de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
-
-VIII. Realizar las gestiones necesarias para la administración y resguardo de la existencia de materiales de consumo de la Secretaría y dependencias de la administración pública estatal en los almacenes correspondientes.
-
-IX. Elaborar documentos con los costos de los materiales de consumo, bienes muebles y demás programas de compras abastecidos a la Secretaría y dependencias, a través de cuentas por pagar y pólizas de diario para su correspondiente trámite de pago ante la Subsecretaría de Egresos.
-
-X. Participar y coordinar las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza y del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obras Públicas.
-
-XI. Verificar que los procesos de adquisiciones se realicen con estricto apego a la normatividad aplicable y se integre el expediente correspondiente.
-
-XII. Generar información de la operación de los procesos elaborados en la dirección, relativos a la planeación de adquisiciones, requerimientos, compra de bienes y materiales, entre otros informes.
-
-XIII. Definir en coordinación con su jefe inmediato y con apego a la normatividad vigente, los lineamientos a seguir para la integración y control de los expedientes unitarios de la obra pública, que dan soporte legal, administrativo y técnico a la actuación de la Secretaría en lo relativo a la obra gubernamental que por su conducto se realice;
-
-XIV. Inscribir a los contratistas o proveedores participantes en cada concurso, siempre que hubieran cumplido con los requisitos establecidos en la invitación correspondiente;
-
-XV. Integrar los expedientes unitarios de las licitaciones, concursos y contratos, verificando que cuenten con toda la documentación requerida y el control del archivo correspondiente;
-
-XVI. Integrar los archivos correspondientes a los registros de proveedores y contratistas que controlan obra y proveen un bien o servicio a la Secretaría y demás dependencias.
-
-XVII. Proponer y promover la modernización de los sistemas de integración y control de archivo de los expedientes unitarios de la obra pública que permitan su eficiente operación;
-
-XVIII. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de obras, adquisición de bienes y contratación de servicios;
-
-XIX. Operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales (COMPRANET), para programar y elaborar las convocatorias y licitar las obras, adquisiciones y servicios que lleva a cabo la Secretaría, revisando que las bases de licitación y demás documentación cumpla con las disposiciones aplicables, en el ámbito de su competencia;
-
-XX. Coadyuvar con la Dirección General de Procesos Legales y Contratos para la formulación y elaboración de los contratos y convenios adicionales o modificatorios de obra, adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, verificando que se hayan cubierto los requerimientos para su autorización.
-
-XXI. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
+(DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 ###### ARTÍCULO 33.
 
-Corresponde al Director General de Servicios Generales:
-
-I. Operar, evaluar y contratar los servicios de conformidad con las disposiciones aplicables para el mantenimiento y reparación de edificios, mantenimiento de equipos de talleres gráficos, parque vehicular, instalaciones, mobiliario y equipo, servicios de agua, energía eléctrica, teléfono, copiado, pólizas de seguros, mensajería, vigilancia, arrendamiento de bienes muebles e inmuebles, fletes y abasto de combustible para las dependencias y entidades de la administración pública estatal.
-
-II. Coordinar, supervisar, fiscalizar y regularizar en su caso, los servicios contratados por las dependencias y entidades de la administración pública estatal, para la adecuada operación de sus funciones.
-
-III. Vigilar el cumplimiento de los contratos que celebre la Secretaría y en su caso, realizar los trámites para hacer efectivas las sanciones y penas legales o convencionales en que incurran los prestadores de servicios, en conjunto con la Coordinación General de Asuntos Jurídicos.
-
-IV. Someter a la aprobación del Secretario a través del superior jerárquico, los lineamientos que deban observarse para la contratación de servicios de las dependencias y entidades de la administración pública estatal.
-
-V. Establecer en el ámbito de su competencia de conformidad con las disposiciones aplicables que a cada caso correspondan, las políticas y procedimientos para la celebración de contratos de bienes y servicios para la Secretaría.
-
-VI. Definir y proponer las normas técnicas y procedimientos que correspondan en lo relativo a los servicios otorgados a las dependencias y entidades de la administración pública estatal.
-
-VII. Realizar la afectación presupuestal por los costos de los servicios contratados a las dependencias y entidades de la administración pública estatal.
-
-VIII. Coordinar con la Dirección General de Informática la instalación de los servicios de tecnologías de voz, datos, video e internet, requeridos por las dependencias de la administración pública estatal, y;
-
-IX. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+(DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 ###### ARTÍCULO 34.
 
-Corresponde al Director General de Apoyo Administrativo:
+(DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-I. Operar conforme a las disposiciones aplicables los sistemas de altas, bajas y cambios de personal, así como los demás procedimientos internos que en materia de recursos humanos se implementen en la Secretaría.
+ARTÍCULO 34 A. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-II. Implementar procedimientos administrativos y de control interno para el adecuado funcionamiento de la Secretaría y vigilar su debido cumplimiento.
+ARTÍCULO 34 B. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-III. Controlar la estructura orgánica y plantilla de personal de la Secretaría.
+ARTÍCULO 34 C. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-IV. Efectuar los trámites de prestaciones del personal de la Secretaría, relacionados con servicio médico, seguros de vida, aguinaldo, vacaciones y prima vacacional proporcional, y demás relativos.
+ARTÍCULO 34 D. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-V. Verificar que se lleve a cabo el control de incidencias de personal y la elaboración de los reportes correspondientes.
+ARTÍCULO 34 E. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-VI. Emitir las constancias de trabajo y gestionar lo relacionado con los nombramientos y las credenciales de identificación del personal de la Secretaría.
-
-VII. Asesorar y apoyar a las unidades administrativas de la Secretaría en lo referente a los trámites de los recursos humanos.
-
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
-
-VIII. Tramitar la elaboración de cuentas por pagar respecto a préstamos de caja, afectaciones al presupuesto de los capítulos 2000, 3000 y 5000 del presupuesto de egresos. Así como el fondo revolvente de la Subsecretaría de Administración y las direcciones generales de administración de personal, adquisiciones, servicios generales y la Dirección General de Apoyo Administrativo.
-
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
-
-IX. Apoyar en la elaboración del anteproyecto de presupuesto de egresos para el ejercicio anual de la Subsecretaría de Administración y sus Direcciones Generales.
-
-X. Controlar y supervisar los servicios internos de limpieza y jardinería de la Secretaría.
-
-XI. Proporcionar el servicio de mensajería que requieran las diversas áreas de la Secretaría.
-
-XII. Verificar que se lleve un control adecuado del acceso y salida de personal a los edificios de la Secretaría.
-
-XIII. Controlar la entrada y salida de los vehículos en el estacionamiento de la Secretaría.
-
-XIV. Supervisar y controlar la flotilla de vehículos de la Secretaría.
-
-XV. Vigilar el adecuado mantenimiento vehicular, distribución de combustibles y otros servicios de la Secretaría.
-
-XVI. Elaborar en coordinación con el área correspondiente, el programa estimado anual de adquisiciones, así como las requisiciones trimestrales de materiales de la Secretaría.
-
-XVII. Implementar los lineamientos necesarios para el adecuado manejo y resguardo de los archivos públicos de la Secretaría, de conformidad con las disposiciones aplicables.
-
-XVIII. Coordinar y dirigir los eventos organizados por la Secretaría.
-
-XIX. Vigilar el cumplimiento de las normas de protección civil, salud, seguridad e higiene en las oficinas de la Secretaría.
-
-XX. Vigilar el cumplimiento estricto de los calendarios cívicos nacional y estatal, y promover acciones que fortalezcan el respeto a los símbolos patrios, la identidad coahuilense, el escudo y el himno del Estado.
-
-XXI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
-
-ARTÍCULO 34 A. Corresponde al Director General de Procesos Legales y Contratos:
-
-I. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de obras, adquisición de bienes y contratación de servicios;
-
-II. Formular y elaborar los contratos y convenios adicionales o modificatorios de obra, adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, con base en los lineamientos y políticas que para el efecto proporcione la Dirección General de Adquisiciones y la Subsecretaría de Administración;
-
-III. Formular los convenios a celebrar por la Secretaría con las demás dependencias y entidades de la administración pública estatal, para llevar a cabo los procesos de licitación para la adquisición de bienes y contratación de obras públicas.
-
-IV. Representar a la Secretaría de Finanzas ante autoridades estatales, municipales y federales que corresponda en las controversias que se susciten con motivo de las licitaciones y contratos que tenga a su cargo esta Subsecretaría.
-
-V. Dirigir las actividades de recepción, registro, revisión, evaluación y seguimiento de documentos que deberán quedar integrados como anexos a los diversos contratos y convenios adicionales o modificatorios relativos a los procesos de licitación para la adquisición de bienes y contratación de obras públicas, que se suscriban en la Secretaría;
-
-VI. Elaborar el informe relativo a la estadística y registro de licitaciones, concursos, contratos y convenios adicionales o modificatorios adjudicados por la Secretaría;
-
-VII. Tramitar, en el ámbito de su competencia, la cancelación de las fianzas de anticipo y de cumplimientos de contratos y convenios cuando proceda, de acuerdo a lo previsto en los contratos y convenios correspondientes;
-
-VIII. Participar en el ámbito de su competencia con la Secretaría de Fiscalización y Rendición de Cuentas del Estado en la actualización y cambios en convocatorias, bases de licitación, sus anexos y modelo de contrato para los procesos de contratación de obras públicas y servicios relacionados con las mismas, y
-
-IX. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
-
-ARTÍCULO 34 B. Corresponde al Director de Entidades Paraestatales:
-
-I. Requerir a los titulares de las entidades paraestatales y en caso de ser necesario a la dependencia a la que se encuentre sectorizada la información financiera y contable que considere necesaria para el cumplimiento de sus funciones.
-
-II. Vigilar que la aplicación del presupuesto en las entidades paraestatales se ejerza estrictamente apegada a las disposiciones aplicables, realizando únicamente los gastos comprendidos en el presupuesto de egresos o aquellos autorizados por el órgano de gobierno de la entidad paraestatal.
-
-III. Evaluar el funcionamiento de las entidades paraestatales e informar al Subsecretario de Administración sobre su desempeño general y por funciones de las entidades paraestatales.
-
-IV. Revisar y analizar los proyectos de presupuesto que presenten las entidades paraestatales para someterlos a consideración del Subsecretario de Administración y confirmar la suficiencia presupuestal, con el área competente.
-
-V. Asistir, participar y coadyuvar con el área competente, en la validación de la información que para efectos de informes de ingresos, egresos, inversión pública, rendición de cuenta pública, o cualquier otro, deban proporcionar a la Secretaria las entidades paraestatales, en atención a las disposiciones aplicables.
-
-VI. Promover la implementación de indicadores básicos que permitan la evaluación en materia de operación y productividad financiera en el Estado.
-
-VII. Supervisar y vigilar los programas de compras de acuerdo a las requisiciones de las entidades paraestatales, con base al presupuesto autorizado por el Congreso del Estado.
-
-VIII. Vigilar la aplicación de las reglas que deban observarse para la contratación de servicios diversos de las entidades paraestatales.
-
-IX. Participar en el comité técnico de los fideicomisos en los que la Secretaria funja como representante del Ejecutivo y en los órganos de gobierno de las entidades paraestatales, previo acuerdo del Subsecretario de Administración.
-
-X. Asistir a las juntas directivas o consejos de administración en representación del Secretario, salvo que éste designe a otro servidor público, así como realizar las observaciones que considere pertinentes.
-
-XI. Informar al Subsecretario de Administración de los acuerdos tomados en las juntas directivas o consejos de administración de las entidades paraestatales en las que este participe.
-
-XII. Requerir al titular o a su equivalente en las entidades paraestatales la documentación, informes y datos que integren la administración de la entidad de la administración pública estatal.
-
-XIII. Llevar el registro de entidades paraestatales y expedir las certificaciones de su registro oficial.
-
-XIV. Enterar al Subsecretario de Administración sobre la extinción de las entidades paraestatales cuando estas hayan cumplido con el finiquito de las funciones que emanen de los decretos con apego a la ley.
-
-XV. Recibir dentro de los primeros quince días de cada mes, los informes financieros y presupuestales de las entidades de la administración pública estatal, para su validación correspondiente.
-
-XVI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
-
-ARTÍCULO 34 C. Corresponde al Director General de Informática:
-
-I. Desarrollar el plan de informática con la participación de las demás áreas de la Secretaría.
-
-II. Planear, implementar, administrar y operar la infraestructura de telecomunicaciones que soporta la red de voz y datos de la administración pública estatal, asegurando su mantenimiento, crecimiento, operación y confiabilidad.
-
-III. Proponer al Subsecretario de Administración la implementación de tecnología de vanguardia en lo que a informática y telecomunicaciones concierne, promoviendo y apoyando los programas de modernización administrativa.
-
-IV. Establecer acorde a la normatividad vigente, las políticas, normas, sistemas, procedimientos técnicos y administrativos que en materia de informática y telecomunicaciones procedan.
-
-V. Administrar el sitio central de información e infraestructura de telecomunicaciones de la Secretaría.
-
-VI. Vigilar, regular y asegurar el crecimiento adecuado de los sistemas de información en el ámbito de su competencia.
-
-VII. Analizar, evaluar, seleccionar e implementar los proyectos, instalaciones y servicios concernientes a las tecnologías de voz, datos, video e internet, requeridos por las dependencias de la administración pública estatal.
-
-VIII. Promover seminarios de capacitación entre las unidades administrativas de la Secretaría en materia de informática.
-
-IX. Llevar a cabo la operación, mantenimiento preventivo y correctivo de los sistemas, equipos de cómputo y telecomunicaciones de su competencia.
-
-X. Definir modelos de integración y estandarización de plataformas tecnológicas de cómputo y telecomunicaciones para la administración pública estatal.
-
-XI. Mantener y garantizar la calidad de los servicios y productos a su cargo.
-
-XII. Mantener y garantizar la seguridad de las bases de datos, los sistemas de información y la infraestructura de telecomunicaciones, estableciendo todas las medidas, mecanismos, procedimientos y normas que considere pertinentes para tal propósito.
-
-XIII. Participar como apoyo técnico en la definición de estándares y selección del equipo de cómputo, herramientas de sistemas y telecomunicaciones en los procesos de adquisición que se celebren por parte de las dependencias de la administración pública estatal.
-
-XIV. Concentrar, resguardar, mantener y operar las bases de datos de los diferentes sistemas de información con que cuenten las unidades administrativas de la Secretaría, definiendo las normas, disposiciones, prevenciones, lineamientos y medidas que considere necesarias, con el fin de garantizar la integridad, seguridad y disponibilidad de las mismas.
-
-XV. Asesorar, encausar y apoyar a las dependencias y entidades de la administración pública estatal en materia de informática y telecomunicaciones.
-
-XVI. Procesar datos mediante la realización de cálculos electrónicos para la elaboración de los productos de información correspondientes a las diferentes nóminas de la administración pública estatal.
-
-XVII. Planear, analizar, diseñar, definir, codificar, elaborar, resguardar y mantener los sistemas de cómputo que requieran las unidades administrativas de la Secretaría para el desempeño de sus funciones.
-
-XVIII. Proponer al Subsecretario de Administración las medidas tendientes al mejoramiento, modernización e innovación de servicios y sistemas informáticos de la Secretaría; así como la reingeniería y estandarización de los procesos administrativos de la misma.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2015)</small>
-
-###### ARTÍCULO 34-D.
-
-Corresponde al Director General de Patrimonio:
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-I. Formular, controlar y mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del Estado, así como la contabilidad patrimonial.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-II. Registrar y llevar el control de los almacenes o lugares en donde se depositen bienes o valores del Estado que hayan sido dados de baja del inventario.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-III. Participar en el Comité de Adquisiciones y Control de Operaciones Patrimoniales en los términos previstos por las disposiciones aplicables.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-IV. Expedir y evaluar las políticas, normas y procedimientos para el control de la distribución, recepción y resguardo de los bienes muebles e inmuebles adscritos a las dependencias y entidades de la administración pública estatal, vigilando su estricto cumplimiento.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-V. Intervenir en los términos que autorice el Subsecretario de Administración, conforme a las normas aplicables a cada caso y en coordinación con las dependencias y entidades de la administración pública estatal; en la celebración de contratos de compraventa, donación, comodato, seguros, arrendamiento y los demás en que se afecte el patrimonio del Estado; así como formular los proyectos de convenios y contratos en que intervenga la Secretaría y llevar el registro de los mismos.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-VI. Recibir, analizar y evaluar las solicitudes de liberación de derechos de vía, para la construcción y modernización de vías de comunicación y la adquisición de predios para la construcción de obra pública que formulen las dependencias y entidades de la administración pública estatal y las que se convengan con el Gobierno Federal y en su caso celebrar los convenios y contratos de afectación que se deriven de las negociaciones con los propietarios.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-VII. Someter a la consideración del Subsecretario de Administración, las solicitudes y proyectos de expropiación de bienes que por causa de utilidad pública procedan para la construcción o modernización de vías de comunicación y para obra pública, a fin de que sean propuestas para su aprobación ante el Ejecutivo.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-VIII. Llevar a cabo las indemnizaciones a los titulares de predios que resultaren afectados con motivo de la construcción de vías de comunicación y por obra pública, previa autorización del Subsecretario de Administración.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-IX. Intervenir en las ventas y remates de los bienes muebles e inmuebles que sean propiedad de (sic) Gobierno del Estado.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-X. Formular los proyectos de iniciativas de decretos para la desincorporación y/o enajenación de bienes muebles, inmuebles, de concesiones, permutas y todo cuanto afecte al patrimonio del Estado.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-XI. Determinar, supervisar y vigilar la correcta y adecuada utilización y custodia de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-XII. Expedir normas técnicas, autorizar, y en su caso, rehabilitar, conservar o administrar directamente o a través de terceros, los edificios públicos y en general, los bienes inmuebles propiedad del Gobierno del Estado, a fin de obtener el mayor provecho del uso y goce de los mismos.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-XIII. Reunir, revisar y determinar las normas y procedimientos para realizar y mantener actualizado el avalúo de los bienes inmuebles propiedad del Gobierno del Estado.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-XIV. Revisar y autorizar las operaciones inmobiliarias que realicen las dependencias y en su caso las entidades, respecto a bienes del dominio público. Cuando se trate de enajenación, dichos bienes serán previamente desincorporados del dominio público y deberá cumplirse con lo dispuesto en los ordenamientos jurídicos aplicables.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-XV. Establecer normas específicas de recepción y entrega de los bienes propiedad del Gobierno del Estado, a cargo de las dependencias y entidades de la administración pública estatal, y vigilar su cumplimiento, en coordinación con la Secretaría Fiscalización y Rendición de Cuentas.
-
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
-
-XVI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
-
-ARTÍCULO 34 E. Corresponde a la Dirección General de Evaluación y Seguimiento:
-
-I. Planear, dirigir, controlar y evaluar la organización y funcionamiento de las áreas adscritas a la Subsecretaría de Administración;
-
-II. Elaborar y presentar ante la Subsecretaría de Administración el Programa Anual de Trabajo;
-
-III. Informar periódicamente los resultados de sus operaciones a su superior jerárquico y autoridades competentes;
-
-IV. Coordinar la elaboración de los Manuales de Organización y de políticas y Procedimientos Administrativos de la Secretaría y de los Organismos que correspondan:
-
-V. Brindar asesoría y apoyo técnico en las áreas administrativas adscritas a la Secretaría;
-
-VI. Validar la información relativa a los procesos de Entrega- Recepción de los servidores públicos de la Secretaría y los Organismos que correspondan;
-
-VII. Evaluar las actividades inherentes al manejo de los Recursos Humanos, financieros y Materiales de las unidades administrativas adscritas a la Secretaría;
-
-VIII. Promover e implementar en las unidades administrativas, mecanismos de control preventivos y correctivos, de acuerdo a la normatividad vigente en la materia;
-
-IX. Establecer programas de supervisión interna para evaluar la operación y funcionamiento de las áreas administrativas de la Secretaría, sus órganos desconcentrados y de los Organismos que correspondan;
-
-X. Dar seguimiento a los asuntos encomendados por la Subsecretaría de Administración;
-
-XI. Aplicar y vigilar el cumplimiento de Leyes, Normas y Políticas vigentes en la materia;
-
-XII. Las demás funciones encomendadas por la Subsecretaría de Administración y las que le confieran otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
-
-ARTÍCULO 34 F. Corresponde a la Dirección de Nóminas Estatales:
-
-I. Procesar y emitir las nóminas para el pago de los servidores públicos de las dependencias y entidades de la administración pública estatal en coordinación de (sic) las unidades administrativas competentes.
-
-II. Programar las nóminas ordinarias y extraordinarias del personal al servicio de la administración pública estatal para su registro y programación de pago correspondiente.
-
-III. Elaborar, validar y tramitar ante la Dirección General de Gasto Público las cuentas por pagar de las afectaciones del capítulo 1000 para su pago, así como verificar el depósito global de las nóminas y tramitar con las instituciones bancarias el tiempo y la forma en que se realicen los pagos de las mismas.
-
-IV. Tramitar las cancelaciones de cheques y retenciones de depósitos bancarios y verificar que las retenciones se efectúen correctamente para su recuperación dentro del presupuesto.
-
-V. Ejercer y supervisar los recursos del capítulo 1000 del presupuesto de egresos, correspondientes a las dependencias y entidades de la administración pública estatal.
-
-VI. Elaborar en conjunto con la Dirección General de Administración de Personal y poner a consideración del Subsecretario de Administración el anteproyecto de presupuesto correspondiente a servicios personales.
-
-VII. Elaborar análisis y proyectos para la planeación y administración del presupuesto destinado para los recursos humanos de la administración pública estatal.
-
-VIII. Proponer al Subsecretario de Administración lineamientos aplicables para el correcto ejercicio de los recursos del capítulo 1000.
-
-IX. Elaborar y proponer para su autorización el tabulador de sueldos de los servidores públicos de la administración pública estatal.
+ARTÍCULO 34 F. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE MARZO DE 2015)</small>
 
@@ -1555,43 +1667,13 @@ IX. Elaborar y proponer para su autorización el tabulador de sueldos de los ser
 
 (DEROGADO, P.O. 9 DE MARZO DE 2015)
 
-#### SECCIÓN CUARTA. DIRECCIONES ADSCRITAS A LA COORDINACIÓN GENERAL DE PATRIMONIO
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE MARZO DE 2015)</small>
+
+#### SECCIÓN CUARTA
 
 ###### ARTÍCULO 38.
 
-Corresponde al Director General de Operación Patrimonial:
-
-I. Ejecutar las políticas contables para el registro del patrimonio del Gobierno del estado, de conformidad con los lineamientos y ordenamientos expedidos para tal efecto.
-
-II. Elaborar el informe anual sobre el estado que guarden los bienes muebles e inmuebles de las dependencias y entidades de la administración pública estatal.
-
-III. Proponer al Coordinador General de Patrimonio para su aprobación, las ventas de bienes muebles e inmuebles de las dependencias y entidades de la administración pública estatal.
-
-IV. Inscribir en el Registro Público, y en su caso en el Registro Agrario Nacional, los bienes inmuebles que conforman el patrimonio del Estado.
-
-V. Proponer al Coordinador General de Patrimonio, para autorización del Secretario, las solicitudes de arrendamiento de bienes inmuebles, adscritos al patrimonio estatal.
-
-VI. Integrar los registros del padrón y de transferencia de los bienes muebles e inmuebles que conforman el patrimonio del Estado.
-
-VII. Llevar el control patrimonial y registro de los almacenes en que se resguarden los bienes que conforman el patrimonio del Estado.
-
-VIII. Participar en el Comité de Adquisiciones en los términos previstos por las disposiciones aplicables en la materia.
-
-IX. Integrar y mantener actualizado el inventario de los bienes muebles e inmuebles de las dependencias y entidades de la administración pública estatal.
-
-X. Efectuar las altas y bajas en el inventario de bienes patrimoniales, del mobiliario y equipo de las dependencias y entidades de la administración pública estatal.
-
-XI. Formular los proyectos de solicitudes de expropiación de bienes inmuebles y de terrenos ejidales o comunales que procedan para causa de utilidad pública.
-
-XII. Recibir, analizar y evaluar las solicitudes de liberación de derechos de vía, para la construcción y modernización de vías de comunicación y la adquisición de predios para la construcción de obra pública que formulen las dependencias y entidades de la administración pública estatal y las que se convengan con el gobierno federal y en su caso celebrar los convenios y contratos de afectación que se deriven de las negociaciones con los propietarios.
-
-XIII. Elaborar los proyectos de las indemnizaciones para los titulares de predios que resultaren afectados con motivo de la construcción de vías de comunicación y por obra pública.
-
-XIV. Intervenir en las ventas y remates de los bienes muebles e inmuebles que sean propiedad de gobierno del estado.
-
-XV. Formular los proyectos de iniciativas de decretos para la desincorporación y/o enajenación de bienes muebles, inmuebles, de concesiones, permutas y todo cuanto afecte al patrimonio del Estado, y;
-
-XVI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+(DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 #### SECCIÓN QUINTA. ADSCRITAS A LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
 
@@ -1637,13 +1719,13 @@ I. Establecer los lineamientos y coadyuvar a mantener en equilibrio los derechos
 
 II. Tramitar y representar a la Secretaría en los juicios laborales en que sea parte, incluyendo el juicio de amparo para rendir informes previos y justificados, así como articular y formular posiciones dentro de los procedimientos. Dicha facultad podrá ser delegada en los funcionarios que corresponda.
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-III. Coadyuvar con la Subsecretaría de Administración para llevar las relaciones de la Secretaría con el Sindicato Único de Trabajadores al Servicio del Gobierno del Estado, en los términos previstos por las disposiciones aplicables.
+III. Coadyuvar con la Subsecretaría de Egresos y Administración para llevar las relaciones de la Secretaría con el Sindicato Único de Trabajadores al Servicio del Gobierno del Estado, en los términos previstos por las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-IV. Apoyar a la Subsecretaría de Administración en el establecimiento de las condiciones generales de trabajo de los servidores públicos de confianza, base y sindicalizados. Así como, vigilar su cumplimiento y promover la difusión de ellas.
+IV. Apoyar a la Subsecretaría de Egresos y Administración en el establecimiento de las condiciones generales de trabajo de los servidores públicos de confianza, base y sindicalizados. Así como, vigilar su cumplimiento y promover la difusión de ellas.
 
 V. Autorizar y tramitar las prestaciones y derechos previstos en los convenios laborales celebrados con las organizaciones sindicales, verificando que se dé total cumplimientos a lo ahí convenido.
 
@@ -1653,7 +1735,9 @@ VII. Emitir opinión sobre las sanciones administrativas impuestas a los trabaja
 
 VIII. Dictaminar sobre la suspensión y terminación de los efectos del nombramiento de los servidores públicos de la Secretaría; revisar y elaborar las liquidaciones a que tengan derecho conforme a lo dispuesto por la legislación aplicable. Así mismo, analizar y asesorar las demás dependencias del Ejecutivo y órganos de gobierno cuando así se lo soliciten.
 
-IX. Analizar y opinar sobre las licencias, ceses y remociones de los servidores públicos que para tal efecto presente la Coordinación General de Administración, previa autorización del Coordinador General de Asuntos Jurídicos.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+IX. Analizar y opinar sobre las licencias, ceses y remociones de los servidores públicos que para tal efecto presente la Subsecretaría de Egresos y Administración, previa autorización del Coordinador General de Asuntos Jurídicos.
 
 X. Asesorar a las unidades administrativas de la Secretaría en la aplicación del procedimiento previsto en la Ley de Responsabilidad de los Servidores Públicos Estatales y Municipales del Estado de Coahuila o en cualquier otro ordenamiento legal aplicable.
 
@@ -1739,9 +1823,11 @@ La Administración Fiscal General tendrá la naturaleza de órgano desconcentrad
 
 ### CAPÍTULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 50.
 
-El Secretario será suplido en sus ausencias temporales por el Subsecretario de Egresos o por el funcionario que para tal efecto designe el propio Secretario informando de ello al Ejecutivo.
+El Secretario será suplido en sus ausencias temporales por el Subsecretariode (sic) Egresos y Administración o por el funcionario que para tal efecto designe el propio Secretario informando de ello al Ejecutivo.
 
 ###### ARTÍCULO 51.
 
@@ -1801,7 +1887,7 @@ JESÚS JUAN OCHOA GALINDO
 
 (RÚBRICA)
 
-EL SECRETARIO FISCALIZACIÓN (SIC) Y RENDICIÓN DE CUENTAS
+EL SECRETARIO (SIC) FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
@@ -1828,6 +1914,12 @@ PRIMERO.- El presente decreto de modificación entrará en vigor el día de su p
 SEGUNDO.- Los manuales de organización y procedimientos de la Secretaría de Finanzas deberán adecuarse en un término no mayor de 30 días a partir de la entrada en vigor del presente decreto.
 
 P.O. 9 DE MARZO DE 2015.
+
+PRIMERO.- El presente decreto de modificación entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los manuales de organización y procedimientos de la Secretaría de Finanzas deberán adecuarse en un término no mayor de 30 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 13 DE MARZO DE 2015.
 
 PRIMERO.- El presente decreto de modificación entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
