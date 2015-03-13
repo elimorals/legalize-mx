@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-distribucion-de-participaciones-y-aportaciones-1047
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-23"
-last_updated: "2014-12-23"
+last_updated: "2015-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY PARA LA DISTRIBUCION DE PARTICIPACIONES Y APORTACIONES FEDERALES A LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 13 DE MARZO DE 2015 Y EL 24 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA DISTRIBUCIÓN DE PARTICIPACIONES Y APORTACIONES FEDERALES A LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MARZO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 23 de diciembre de 2014.
 
@@ -499,7 +499,9 @@ El Ejecutivo del Estado tendrá a su cargo emitir la normatividad aplicable a lo
 
 Las aportaciones que con cargo a los Fondos de Aportaciones para la Infraestructura Social y para el Fortalecimiento de los Municipios y sus accesorios, no serán embargables, ni los gobiernos municipales podrán, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos para ellos en los artículos 15, 17 y 19 de esta Ley.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios, podrá afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua y consumo de energía eléctrica cuando así lo determine la legislación correspondiente.
+> <small>(F. DE E., P.O. 13 DE MARZO DE 2015)</small>
+
+El fondo de Aportaciones para el Fortalecimiento de los Municipios, podrá afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua, descarga de aguas residuales y consumo de energía eléctrica cuando así lo determine la legislación correspondiente.
 
 ###### ARTÍCULO 23.
 
