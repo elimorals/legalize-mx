@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2008-07-25"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ-LLAVE
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -450,6 +450,12 @@ En caso de cambio de nomenclatura o numeración oficial, la autoridad fiscal act
 La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
 
 Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Artículo 34 bis.- Se causarán honorarios por concepto de entrega de notificaciones por requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales. Serán pagados por el notificado por un monto equivalente a un salario mínimo.
+
+La obligación de pago se hará del conocimiento del infractor conjuntamente con la notificación de la infracción de que se trate. Los honorarios deberán ser cubiertos a más tardar en la fecha en que se cumpla con el requerimiento.
 
 ###### Artículo 35.
 
@@ -1417,6 +1423,10 @@ IV. Los nudopropietarios, los titulares de certificados de vivienda y de partici
 
 V. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
 
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+
+VI. Los poseedores que, por cualquier título, tengan la concesión o permiso del uso, goce y destino de bienes de dominio público de la Federación, Estado o Municipio;
+
 ###### Artículo 115.
 
 Son sujetos con responsabilidad solidaria los siguientes:
@@ -1463,11 +1473,19 @@ El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a 
 
 El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
 
-Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al Congreso.
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Por acuerdo de Cabildo el plazo para el pago del impuesto predial podrá prorrogarse durante el mes de febrero, comunicándolo al Congreso, con un descuento hasta del 20% a quienes realicen el pago anual en una sola exhibición.
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 119.
 
-Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios.
+Están exentos del pago del Impuesto Predial los bienes de dominio público de la Federación, del Estado y del Municipio, salvo que estos bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines distintos de los de su objeto público.
 
 ###### Artículo 120.
 
@@ -1577,9 +1595,11 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 133.
 
-Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional.
+Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional, con base en las Tablas de Valores publicadas en la Gaceta Oficial, Órgano del Gobierno del Estado, en términos de la Ley de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
@@ -1591,9 +1611,11 @@ En los inmuebles adquiridos durante el periodo de tres años anteriores, contado
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 134.
 
-Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto.
+Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto, con base en las Tablas de Valores publicadas en la Gaceta Oficial, Órgano del Gobierno del Estado, en términos de la Ley de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 135.
 
@@ -1605,9 +1627,11 @@ Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vige
 
 Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del uno por ciento.
+El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del 1.5 por ciento.
 
 ###### Artículo 137.
 
@@ -1761,7 +1785,9 @@ e) El número de cada clase de localidades de que conste el local donde vaya a c
 
 II. Al serles concedida la autorización:
 
-a) Presentar a la Tesorería la emisión total del boletaje de entrada a la diversión o espectáculo público, cuando menos cuatro días hábiles anteriores a aquél en que de comienzo la función, con el propósito de que sean autorizados con el sello correspondiente;
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
+a) Presentar a la Tesorería la emisión total del boletaje de entrada a la diversión o espectáculo público, cuando menos cuatro días hábiles anteriores a aquél en que dé comienzo la función, con el propósito de que sean autorizados con el sello correspondiente. En caso de que se trate de venta y distribución de boletos electrónicos o a través de software comercial, ya sea de forma directa o por medio de un tercero, deberá cumplir con los requisitos que en su caso establezca la Tesorería al momento de conceder la autorización.
 
 b) Cada boleto deberá estar numerado progresivamente y contener el nombre de la empresa o persona que realice la función, precio de entrada o admisión, la identificación de la localidad a que de derecho, lugar, fecha y hora de la función;
 
@@ -2093,21 +2119,19 @@ Las licencias, permisos o autorizaciones son intransferibles, otorgados para una
 
 Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 202.
 
-La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
+La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el Reglamento Municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-Por la expedición de licencias a que este artículo se refiere, se pagarán las cuotas siguientes:
+Por la expedición de licencias a que este artículo se refiere se pagarán las cuotas siguientes:
 
-Giro: Costo de la
+Giro: Costo de la licencia
 
-licencia en
+en número de
 
-número de
-
-salarios
-
-mínimos:
+salarios mínimos:
 
 Abarrotes con venta de cerveza 250
 
@@ -2143,11 +2167,15 @@ Kermeses, ferias y bailes públicos 600
 
 Licorerías 550
 
-Loncherías, taquerías, marisquerías, fondas, coctelerías, torterías, pizzerías y similares 350
+Loncherías, taquerías, marisquerías, fondas,
+
+coctelerías, torterías, pizzerías y similares 350
 
 Minisúper 650
 
-Peñas, canta bar, café bar, video bar y café cantante 1,300
+Peñas, canta bar, café bar, video bar
+
+y café cantante 1,300
 
 Restaurante 500
 
@@ -2159,7 +2187,33 @@ Supermercados 1,500
 
 Centros comerciales 2,300
 
-Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo de la licencia.
+Establecimientos en los que se lleven a
+
+cabo juegos con apuestas y sorteos o casinos 3,500
+
+Los derechos por refrendos anuales se calcularán a razón del veinte por ciento del costo de la licencia.
+
+Por la ampliación de horario de servicio de los establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, se causará el pago de derechos por las horas autorizadas, conforme a la siguiente tabla y cuota en salarios mínimos:
+
+Giro Por c/hora
+
+Cantina 6
+
+Peña 6
+
+Bar 6
+
+Cervecería 6
+
+Centro nocturno o cabaret 6
+
+Discoteca 6
+
+Tiendas de abarrotes, misceláneas, ultramarinos,
+
+minisúper y supermercados, depósitos de cerveza y
+
+depósitos de vinos y licores 0.06
 
 #### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
@@ -2485,9 +2539,17 @@ Los servicios de deslinde de predios tendrán como base la superficie del predio
 
 Son objeto de estos derechos:
 
-I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-II. La evaluación de impacto ambiental.
+I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales;
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+II. La evaluación de impacto ambiental; y
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+
+III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo electrónico de almacenamiento o disco compacto, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la información Pública para el Estado.
 
 ###### Artículo 222.
 
@@ -2528,6 +2590,24 @@ VIII. Constancias expedidas por las dependencias de Desarrollo Urbano, por cada 
 a) Interés Social y Popular, 2 salarios mínimos, y
 
 b) Residencial, Industrial y Comercial, 10 salarios mínimos.
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+
+IX. Por diversas constancias en materia ambiental, 20 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+
+X. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
+
+a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.02 salarios mínimos;
+
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 salarios mínimos;
+
+c) Por información grabada en dispositivo electrónico de almacenamiento o disco compacto, por copia: 0.03 salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -2645,7 +2725,9 @@ Interés social 0.3
 
 Popular 0.2
 
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.010 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+II. . Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
 
 Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
 
@@ -2763,27 +2845,51 @@ Los derechos a que se refiere este Capítulo se causarán y pagarán, en salario
 
 Salarios Mínimos
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.20
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.20, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Registro de nacimientos ordinarios y extemporáneos 1.20
 
-III. Reconocimientos de hijos 1.20
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-IV. Adopciones 2.50
+III. Reconocimiento de hijos 2.5
 
-V. Celebración de matrimonios en oficina 10
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-VI. Celebración de matrimonios a domicilio 50
+IV. Celebración de matrimonios en oficina
 
-VII. Inscripción de sentencias 13.20
+a) Lunes a Jueves (Matutino) 10
 
-VIII. Divorcios 17.5
+b) Lunes a Jueves (Vespertino) 17.5
 
-IX. Expedición de certificados de vecindad 1.20
+c) Viernes 20
 
-X. Notas marginales en los libros de actas 2.5
+d) Sábado 25
 
-Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, cuando no se proporcionen los datos exactos para su localización.
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+V. Celebración de matrimonios a domicilio 60
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+VI. Inscripción de sentencias 13.20
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+VII. Divorcios 17.5
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+VIII. Notas marginales en los libros de actas 2.5
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+IX. Inscripción de actas del extranjero 13.20
+
+X. (DEROGADA, G.O. 13 DE MARZO DE 2015)
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, por cada diez años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
 
 En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
@@ -2825,17 +2931,95 @@ b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de
 
 VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.075 salarios mínimos.
 
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+
+VIII. En los casos de ocupación de espacios en vía pública o áreas municipales, por líneas aéreas, subterráneas o terrestres, se pagará diariamente por metro lineal; 0.05 salarios mínimos; y
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+
+IX. La ocupación de espacios en vía pública, en el caso de banquetas, por medio de mesas, sillas o cualquier otro tipo de muebles, previa autorización, se pagará una cuota por día de 0.075 salarios mínimos por metro cuadrado o fracción.
+
 El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 13 DE MARZO DE 2015)</small>
+
+### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 247 Bis.
+
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+
+I. Por la emisión de dictámenes técnicos de instalaciones públicas y privadas, existentes y futuras.
+
+Alto Riesgo
+
+1 a 166 metros cuadrados de superficie 26
+
+167 a 332 metros cuadrados de superficie 52
+
+333 a 500 metros cuadrados de superficie 80
+
+Riesgo Medio
+
+1 a 166 metros cuadrados de superficie 23
+
+167 a 332 metros cuadrados de superficie 46
+
+333 a 500 metros cuadrados de superficie 70
+
+Bajo Riesgo
+
+1 a 60 metros cuadrados de superficie 7
+
+61 a 125 metros cuadrados de superficie 14
+
+126 a 190 metros cuadrados de superficie 21
+
+191 a 250 metros cuadrados de superficie 28
+
+251 a 315 metros cuadrados de superficie 35
+
+316 a 380 metros cuadrados de superficie 42
+
+381 a 500 metros cuadrados de superficie 60
+
+En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+II. Por impartición de cada curso de capacitación a personas morales o físicas como entidades del sector privado:
+
+Persona Física 2
+
+Persona Moral 60
+
+III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo vulnerabilidad, programas internos y especiales:
+
+Persona Física: 25
+
+IV. Renovación de registro como terceros acreditados.
+
+Persona Física: 12
+
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio de Boca del Río para promotores particulares, se pagará:
+
+Aforo del evento:
+
+De 1 a 1,000 asistentes: 40
+
+De 1,001 a 5,000 asistentes: 60
+
+De 5,001 a 10,000 asistentes: 80
+
+De 10,001 en adelante: 90
 
 ### CAPÍTULO ÚNICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
-
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 248.
 
@@ -3073,7 +3257,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 269.
 
@@ -3133,7 +3317,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### Artículo 274.
 
@@ -3153,7 +3337,7 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 277.
 
@@ -3165,7 +3349,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 278.
 
@@ -3195,7 +3379,7 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
 ###### Artículo 283.
 
@@ -3265,7 +3449,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
 ###### Artículo 294.
 
@@ -3283,7 +3467,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
 #### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -3357,9 +3541,11 @@ XI. En general, toda la información que se considere útil para mostrar la prop
 
 Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de los recursos públicos, la Comisión de Hacienda, el Presidente y el Tesorero analizarán e integrarán, durante la segunda quincena de agosto, los proyectos de presupuestos de egresos elaborados por las Comisiones, así como de las dependencias y entidades.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 307.
 
-La Comisión de Hacienda presentará al Cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de Ingresos y de Egresos del Municipio, durante el mes de septiembre del año anterior al de su vigencia, para su posterior remisión al Congreso.
+La Comisión de Hacienda presentará al Cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de Ingresos y de Egresos del Municipio, durante la primera quincena del mes de septiembre del año anterior al de su vigencia, para su posterior remisión al Congreso.
 
 ###### Artículo 308.
 
@@ -3391,7 +3577,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
 #### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
@@ -3451,7 +3637,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 #### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
@@ -3631,23 +3817,27 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 #### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
 ###### Artículo 353.
 
-La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, de conformidad con lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables, con el propósito de incluir las cuentas para registrar los activos, pasivos, hacienda pública o patrimonio, ingresos, gastos y otras pérdidas, cuentas de cierre o corte contable, cuentas de orden contables, cuentas de orden presupuestarias y cuentas de liquidación y cierre presupuestario.
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 354.
 
-La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
+Los registros contables del Ayuntamiento y los correspondientes a las entidades se llevarán con base acumulativa, que se registrarán en los momentos contables correspondientes para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones, así como a la verificación y evaluación de las actividades realizadas.
 
-Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+Los sistemas de contabilidad que establezcan los manuales e instructivos que el H. Congreso del Estado apruebe, se operarán en forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos, avances del ejercicio de los presupuestos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 355.
 
-Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
+Las dependencias y entidades suministrarán a la Tesorería, mensualmente, la información contable, presupuestal, programática y de otra índole que requiera la propia Tesorería.
 
 Será responsabilidad de cada entidad la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
 
@@ -3659,17 +3849,21 @@ La Tesorería emitirá las instrucciones sobre la forma y términos en que las e
 
 Las entidades someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 357.
 
-Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
+Los estados financieros y demás información contable, presupuestal y programática, serán consolidados por la Tesorería, la que será responsable de:
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
+I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos de lo dispuesto por la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
 II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
 
-III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+III. Coadyuvar con el presidente y la Comisión de Hacienda a solventar las observaciones del Órgano de Fiscalización Superior del Estado, y las que se le notifiquen por su propio desempeño o responsabilidad.
 
 IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
 
@@ -3681,39 +3875,43 @@ VII. Participar en la depuración de cuentas de balance; y
 
 VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 358.
 
-El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el Congreso.
+El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades deberán llevarse a cabo de acuerdo con los postulados básicos de contabilidad gubernamental, así como con las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades o instancias competentes.
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 359.
 
-El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
+El H. Congreso del Estado, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas y clasificadores por rubros de ingresos y por objeto del gasto a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Los catálogos y clasificadores se sujetarán a lo establecido en la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables. Los catálogos contables se integran por los siguientes grupos de cuentas:
 
 I. Activo;
 
 II. Pasivo;
 
-III. Hacienda Pública;
+III. Hacienda Pública/patrimonio;
 
 IV. Ingresos;
 
-V. Egresos;
+V. Gastos y otras pérdidas;
 
-VI. Cuentas de Orden, y
+VI. Cuentas de cierre o corte contable;
 
-VII. Presupuesto.
+VII. Cuentas de orden contables;
+
+VIII. Cuentas presupuestarias; y
+
+IX. Cuentas de liquidación y cierre presupuestario.
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 360.
 
-El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, destinadas a captar los procesos siguientes:
-
-I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
-
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
-
-III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
+El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades, se efectuará en las cuentas que para tal efecto establezca el H. Congreso del Estado, las que deberán reflejar los momentos contables de los ingresos y de los egresos.
 
 ###### Artículo 361.
 
@@ -3727,9 +3925,11 @@ Será responsabilidad de las dependencias y entidades la desagregación de las s
 
 La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 364.
 
-El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
+El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance, ingresos, gastos, presupuestarias y de orden.
 
 ###### Artículo 365.
 
@@ -3739,31 +3939,19 @@ El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su 
 
 El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 367.
 
-Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
-
-I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto;
-
-II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago; y
-
-III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el Congreso.
+El registro contable de los pagos correspondientes al pasivo a corto plazo, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará de acuerdo con lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código, las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades competentes.
 
 #### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 368.
 
-La Tesorería consolidará mensualmente la información que a continuación se detalla:
-
-I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
-
-II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
-
-III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
-
-IV. Estado de Deuda Pública; y
-
-V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un periodo y la evolución de las finanzas públicas.
+Para efectos de su integración y remisión, los estados financieros mensuales que elabore la Tesorería deberán contener los rubros de información previstos para la cuenta pública en la Ley de Fiscalización Superior, correspondiente al lapso que se informa.
 
 ###### Artículo 369.
 
@@ -3779,6 +3967,8 @@ La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las depende
 
 #### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 372.
 
 La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública del Municipio, a más tardar el día treinta de noviembre de cada año. En el último año de la administración, el plazo vencerá el treinta de septiembre.
@@ -3787,9 +3977,11 @@ La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lin
 
 Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 374.
 
-Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere el artículo 371.
+Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 375.
 
@@ -3805,9 +3997,11 @@ La Tesorería será responsable de integrar la cuenta pública del Municipio, la
 
 La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+
 ###### Artículo 378.
 
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año.
 
 ###### Artículo 379.
 
@@ -3815,7 +4009,7 @@ El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación
 
 De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 #### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
 
@@ -3823,11 +4017,15 @@ De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los int
 
 El control y la evaluación del gasto público municipal comprenden:
 
-I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. La supervisión permanente de los activos, pasivos, ingresos y egresos;
 
 II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
 
-III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+III. El establecimiento de indicadores para la medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
 
 ###### Artículo 381.
 
@@ -3837,9 +4035,17 @@ I. La contabilidad de las dependencias y entidades;
 
 II. Los análisis de las evaluaciones que en materia de presupuesto y gasto público se realicen a las dependencias y entidades conforme a los criterios que fije la Tesorería para tal efecto;
 
-III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-IV. Las demás fuentes y medios que se juzguen convenientes.
+III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas;
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+IV. Los indicadores de resultados; y
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+V. Las demás fuentes y medios que se juzguen convenientes.
 
 ###### Artículo 382.
 
@@ -3967,7 +4173,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 397.
 
@@ -4031,9 +4237,7 @@ También se considera deuda extraordinaria la que autorice el H. Congreso del Es
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 398, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
 
-### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 404.
 
@@ -4113,7 +4317,9 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 408.
 
@@ -4147,7 +4353,7 @@ XII. Los demás requisitos que fije el Congreso.
 
 El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 410.
 
@@ -4211,7 +4417,7 @@ Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
 
 ###### Artículo 420.
 
@@ -4255,7 +4461,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 423.
 
@@ -4343,7 +4549,7 @@ Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismo
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO III. DEL INVENTARIO
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 434.
 
@@ -4371,7 +4577,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO III. DEL INVENTARIO
 
 ###### Artículo 436.
 
@@ -4423,13 +4629,31 @@ V. La totalidad o la parcialidad de los bienes del dominio público, que sean de
 
 VI. Los bienes que adquiera el Municipio o que ingresen por vía de derecho público y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano, ecológico y habitacional o la regularización de la tenencia de la tierra;
 
-VII. Los materiales y suministros adquiridos por el Municipio para la prestación de servicios públicos e igualmente para la ejecución de obras por administración directa o por contrato, cuando aquél hubiere asumido la obligación de adquirir los materiales; y
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+VII. Los materiales y suministros adquiridos por el Municipio no afectos a la prestación de servicios públicos; y
 
 VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a título de propios.
 
 ###### Artículo 440.
 
 Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+En ningún caso se podrán embargar los bienes muebles e inmuebles afectos a un servicio público, así como los ingresos propios, ni los provenientes de participaciones o aportaciones federales.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Tampoco podrán embargarse las cuentas bancarias inscritas a nombre del Municipio.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Los magistrados, jueces, actuarios, secretarios y demás funcionarios judiciales que ordenen, tramiten o ejecuten diligencias o traben embargos en contravención a lo dispuesto en este artículo, incurrirán en la responsabilidad civil, administrativa o penal que establece la legislación estatal.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Sólo podrán embargarse los bienes del dominio privado del Municipio a que se refiere el artículo 441 de este Código.
 
 ###### Artículo 441.
 
@@ -4445,7 +4669,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPÍTULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### Artículo 444.
 
@@ -4475,7 +4699,7 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+### CAPÍTULO II. DE LOS BIENES INMUEBLES
 
 ###### Artículo 445.
 
@@ -4512,6 +4736,8 @@ Lo anterior, sin perjuicio de la integración y actualización de los propios ca
 La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
+
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
 
 ###### Artículo 449.
 
@@ -4817,7 +5043,7 @@ Licenciado Miguel Alemán Velazco
 
 Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 18 DE MARZO DE 2003.
 
@@ -4850,5 +5076,21 @@ G.O. 9 DE ENERO DE 2007.
 G.O. 25 DE JULIO DE 2008.
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE MARZO DE 2015.
+
+DECRETO NÚMERO 548, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 245 DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 13 DE MARZO DE 2015.
+
+DECRETO NÚMERO 551, POR EL QUE SE ADICIONAN EL ARTÍCULO 34 BIS; LA FRACCIÓN VI AL ARTÍCULO 114; UN TERCER PÁRRAFO AL ARTÍCULO 118; LA FRACCIÓN III AL ARTÍCULO 221; LAS FRACCIONES IX Y X Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 223; LAS FRACCIONES VIII Y IX AL ARTÍCULO 247; EL CAPÍTULO XIV DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL, CON SU ARTÍCULO 247 BIS; LA FRACCIÓN V DEL ARTÍCULO 381; Y UN SEGUNDO, TERCERO, CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 440; Y SE REFORMAN LOS ARTÍCULOS 118 PÁRRAFO SEGUNDO, 119, 133 PRIMER PÁRRAFO, 134, 136, 149 FRACCIÓN II INCISO A), 202, 221 FRACCIONES I Y II, 234 FRACCIÓN II, 245 FRACCIONES III A IX Y PENÚLTIMO PÁRRAFO, 307, 353, 354, 355 PRIMER PÁRRAFO; 357 PRIMER PÁRRAFO Y FRACCIONES I Y III, 358, 359, 360, 364, 367, 368, 374, 378, 380 FRACCIONES I Y III, 381 FRACCIONES III Y IV, Y 439 FRACCIÓN VII; Y SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 245 DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ.
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
