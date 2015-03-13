@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2012-02-15"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -2349,7 +2349,7 @@ Las autoridades municipales no autorizarán el traspaso o traslado de un giro me
 
 Son objeto de estos derechos:
 
-I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y (sic)
+I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y
 
 II. La evaluación de impacto ambiental;
 
@@ -2639,7 +2639,9 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, por los servicios siguientes:
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Registro de nacimientos ordinarios y extemporáneos;
 
@@ -3123,7 +3125,7 @@ En las entidades paramunicipales creadas por dos o más ayuntamientos los crédi
 
 ###### Artículo 292.
 
-En caso de que el Ayuntamiento cuente con varías cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
+En caso de que el Ayuntamiento cuente con varias cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
 
 I. Efectuar visitas, inspecciones y auditorías que tengan por objeto la revisión de operaciones de los ingresos y los egresos, examinando los aspectos contables y legales correspondientes;
 
@@ -3549,7 +3551,7 @@ Los sistemas de contabilidad que establezcan los manuales e instructivos que el 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 357.
 
@@ -3651,13 +3653,13 @@ VII. Cuentas de orden contables;
 
 VIII. Cuentas presupuestarias; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO..</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
 
 IX. Cuentas de liquidación y cierre presupuestario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -4179,7 +4181,7 @@ Las entidades mencionadas en las fracciones II a IV del artículo 400 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE FEBRERO DE 2008)</small>
 
 ### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
 
@@ -5022,3 +5024,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Las tasas, cuotas y tarifas relativas al cobro de las contribuciones municipales, materia del presente Decreto, se incluirán anualmente en las Leyes de Ingresos de los Municipios a partir de las correspondientes al ejercicio fiscal inmediato posterior al del inicio de vigencia de este Decreto.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
