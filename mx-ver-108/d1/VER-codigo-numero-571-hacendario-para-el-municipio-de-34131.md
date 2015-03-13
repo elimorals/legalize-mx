@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-571-hacendario-para-el-municipio-de-34131"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-08-26"
-last_updated: "2006-12-20"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 571 HACENDARIO PARA EL MUNICIPIO DE MINATITLAN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLAN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLÁN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 26 de agosto de 2003.
 
@@ -97,7 +97,7 @@ XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la 
 
 XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
 
-XVII. Municipio: el de Minatitlán del Estado de Veracruz de Ignacio de la Llave;
+XVII. Municipio: el de Minatitlán, del Estado de Veracruz de Ignacio de la Llave;
 
 XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
 
@@ -107,7 +107,7 @@ XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo
 
 XXI. Síndico: El Síndico del Ayuntamiento;
 
-XXII. Tesorería: La Tesorería del Ayuntamiento; y (sic)
+XXII. Tesorería: La Tesorería del Ayuntamiento; y
 
 XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento;
 
@@ -3851,7 +3851,9 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, 1.042 salarios mínimos;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, 1.042 salarios mínimos, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Registro de nacimientos ordinarios y extemporáneos, 1.042 salarios mínimos;
 
@@ -4125,10 +4127,16 @@ Sufragio efectivo. No reelección.
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 20 DE DICIEMBRE DE 2006.
 
 Primero. El presente decreto entrará en vigor el día primero de enero de 2007, previa publicación en la Gaceta Oficial del estado.
 
-Segundo. Se derogan todas l as disposiciones que se opongan al presente decreto.
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
