@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-salud-del-distrito-federal-82118"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-07"
-last_updated: "2011-07-07"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82118&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-07-06"
 
 REGLAMENTO DE LA LEY DE SALUD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 7 de julio de 2011.
 
@@ -64,61 +64,95 @@ IX. CENTRO.- El Centro de Inteligencia y Preparación de Respuesta Epidemiológi
 
 X. CENTRO REGULADOR DE URGENCIAS MÉDICAS (CRUM).- La instancia técnico-médico-administrativa, responsabilidad de la Secretaría, que establece la secuencia de las actividades específicas para la atención pre-hospitalaria, otorgada por las ambulancias que acuden al sitio del evento crítico, llevando a cabo el traslado y la recepción en el establecimiento designado, con la finalidad de brindar atención médica oportuna y especializada las 24 horas, los 365 días del año;
 
-XI. CONSULTORIO.- Establecimiento público, social o privado, independiente o ligado a una clínica, sanatorio o servicio hospitalario, que tenga como fin prestar atención a la salud de los usuarios ambulatorios.
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XII. CONSULTORIO DE MEDICINA GENERAL O FAMILIAR.- es el establecimiento donde se desarrollan las actividades de promoción, prevención, diagnóstico, tratamiento y rehabilitación de pacientes ambulatorios.
+XI. CONSENTIMIENTO INFORMADO.- Documento a través del cual el paciente o su representante legal o pariente por consanguinidad o afinidad hasta el cuarto grado, acepta un procedimiento médico o quirúrgico con fines diagnósticos, terapéuticos, rehabilitatorios, paliativos o de investigación, una vez que se ha recibido información de los riesgos y beneficios esperados para el paciente;
 
-XIII. CUIDADOS PALIATIVOS.- El cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo e incluyen el control de dolor y otros síntomas, así como la atención psicológica del paciente;
+XII. CONSULTORIO.- Establecimiento público, social o privado, independiente o ligado a una clínica, sanatorio o servicio hospitalario, que tenga como fin prestar atención a la salud de los usuarios ambulatorios.
 
-XIV. DEMANDANTE.- Toda aquella persona que para sí o para otro, solicite la prestación de servicios de atención médica;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XV. ESTABLECIMIENTO PARA LA ATENCIÓN MEDICA.- Todo aquel espacio público, social o privado, fijo o móvil, cualquiera que sea su denominación, que preste servicios de atención médica, ya sea ambulatoria o para internamiento de enfermos;
+XIII. CONSULTORIO DE MEDICINA GENERAL O FAMILIAR.- Es el establecimiento donde se desarrollan las actividades de promoción, prevención, diagnóstico, tratamiento y rehabilitación de pacientes ambulatorios;
 
-XVI. GABINETE DE RADIODIAGNÓSTICO.- Al servicio público, social o privado, independiente o ligado a alguna unidad de atención medica, que utilice aparatos de rayos X para estudios con fines diagnósticos que requieran o no medios de contraste;
+XIV. CUIDADOS PALIATIVOS.- El cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo e incluyen el control de dolor y otros síntomas, así como la atención psicológica del paciente;
 
-XVII. GABINETE DE ULTRASONIDO.- Al establecimiento fijo o móvil, público, social o privado, independiente o ligado a alguna unidad de atención medica, que utilice aparato de ultrasonido para realizar estudios con fines diagnósticos;
+XV. DEMANDANTE.- Toda aquella persona que para sí o para otro, solicite la prestación de servicios de atención médica;
 
-XVIII. GOBIERNO.- Al Gobierno del Distrito Federal;
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XIX. HOSPITAL.- Establecimiento público, social o privado, cualquiera que sea su denominación y que tenga como finalidad la atención de enfermos que se internen para su diagnóstico, tratamiento o rehabilitación. Puede también tratar enfermos ambulatorios y efectuar actividades de formación y desarrollo de personal para la salud y de investigación;
+XVI. DIGITALIZADOR DE FIRMAS.- Dispositivo que registra el trazo de la firma autógrafa de una persona, las firmas recabadas se integrarán en el documento electrónico correspondiente que formará parte del expediente clínico electrónico;
 
-XX. HOSPITAL GINECO-OBSTETRICO.- Todo establecimiento médico especializado, que tenga como fin la atención de las enfermedades del aparato genital femenino, del embarazo, el parto y el puerperio;
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXI. HOSPITAL PEDIATRICO.- Todo establecimiento médico especializado, que tenga como fin primordial la atención médica a menores de 18 años;
+XVII. DOCUMENTO ELECTRÓNICO.-Formato digital que ofrece información de naturaleza médica y que ha pasado por un proceso de elaboración mediante algún sistema informático o computacional para la atención en salud;
 
-XXII. LABORATORIO CLÍNICO.- El establecimiento público, social o privado, independiente o ligado a un establecimiento de atención medica, dedicado al análisis físico, químico y biológico de diversos componentes y productos del cuerpo humano, que tenga como fin realizar análisis clínicos y así coadyuvar en el estudio, prevención, diagnostico, resolución y tratamiento de los problemas de salud;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXIII. LEY.- Ley de Salud del Distrito Federal;
+XVIII. ESTABLECIMIENTO PARA LA ATENCIÓN MÉDICA.- Todo aquel espacio público, social o privado, fijo o móvil, cualquiera que sea su denominación, que preste servicios de atención médica, ya sea ambulatoria o para internamiento de enfermos;
 
-XXIV. LEY GENERAL.- Ley General de Salud;
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXV. LINEAMIENTO TÉCNICO.- La regulación técnica de observancia obligatoria expedida por las dependencias competentes, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación;
+XIX. EXPEDIENTE CLÍNICO ELECTRÓNICO.- Sistema Informático que almacena los datos del paciente en formato digital, que se intercambian de manera segura y puede ser accesado por múltiples usuarios autorizados.
 
-XXVI. PACIENTE AMBULATORIO.- Todo aquel usuario de servicios de atención médica que no necesite hospitalización, o que por su enfermedad sea candidato para atención médica quirúrgica ambulatoria;
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXVII. PERSONAL DE SALUD.- Son los profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
+XX. FIRMA GRAFOMÉTRICA.- Entiéndase esta como la digitalización del gesto manual análogo a la firma manuscrita en papel, que se obtiene mediante un dispositivo de aplicación portátil y que tiene validez jurídica equivalente al de la firma autógrafa;
 
-XXVIII. POBLACIÓN DE ESCASOS RECURSOS.- Las personas que tengan ingresos diarios equivalentes o inferiores al salario mínimo vigente en la zona económica correspondiente, así como sus dependientes económicos;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXIX. REGLAMENTO.- El Reglamento de la Ley de Salud del Distrito Federal;
+XXI. GABINETE DE RADIODIAGNÓSTICO.- Al servicio público, social o privado, independientemente (sic) o ligado a alguna unidad de atención médica, que utilice aparatos de rayos X para estudios con fines diagnósticos que requieran o no medios de contraste;
 
-XXX. SECRETARÍA.- La Secretaría de Salud del Distrito Federal;
+XXII. GABINETE DE ULTRASONIDO.- Al establecimiento fijo o móvil, público, social o privado, independientemente (sic) o ligado a alguna unidad de atención médica, que utilice aparato de ultrasonido para realizar estudios con fines diagnósticos;
 
-XXXI. SECRETARÍA FEDERAL.- La Secretaría de Salud Federal;
+XXIII. GOBIERNO.- Al Gobierno del Distrito Federal;
 
-XXXII. SERVICIO DE ATENCIÓN MEDICA.- El conjunto de recursos que intervienen sistemáticamente para la prevención y curación de las enfermedades que afectan a los individuos, así como de la rehabilitación de los mismos;
+XXIV. HOSPITAL.- Establecimiento público, social o privado, cualquiera que sea su denominación y que tenga como finalidad la atención de enfermos que se internen para su diagnóstico, tratamiento o rehabilitación. Puede también tratar enfermos ambulatorios y efectuar actividades de formación y desarrollo de personal para la salud y de investigación;
 
-XXXIII. SERVICIOS DE SALUD.- Todas aquellas acciones que se realizan en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad. Los servicios públicos de salud se clasifican en tres: los prestados por el Gobierno de la ciudad, a través de la Secretaría de Salud; los prestados por la Secretaría de Salud del Gobierno Federal, directamente o a través de sus órganos desconcentrados y organismos descentralizados, y los prestados por las Instituciones de Seguridad Social, regulados por las leyes que los rigen;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXXIV. SERVICIO DE URGENCIAS.- El área de las unidades hospitalarias donde los pacientes son evaluados, clasificados y atendidos con celeridad en caso de padecimientos súbitos, accidentes;
+XXV. HOSPITAL GINECO-OBSTETRICO.- Todo establecimiento médico especializado, que tenga como fin la atención de las enfermedades del aparato genital femenino, del embarazo, el parto y el puerperio;
 
-XXXV. SISTEMA DE SALUD DEL DISTRITO FEDERAL.- Al conjunto de dependencias, órganos desconcentrados y organismos descentralizados del Gobierno, y de personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como a los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la Administración Pública Federal;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXXVI. UNIDAD DE URGENCIAS.- Al conjunto de aéreas y espacios destinados a la atención inmediata de problemas medico quirúrgicos que ponen en peligro la vida, un órgano o una función del paciente, disminuyendo, el riesgo de alteraciones mayores;
+XXVI. HOSPITAL PEDIATRICO.- Todo establecimiento médico especializado, que tenga como fin primordial la atención médica a menores de 18 años;
 
-XXXVII. URGENCIA.- Todo problema médico quirúrgico agudo que requiere atención inmediata por poner en peligro la vida, un órgano, o una función de un órgano del paciente; y
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-XXXVIII. USUARIO DEL SERVICIO DE SALUD.- Toda persona que solicite y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en la Ley, este Reglamento y demás disposiciones aplicables.
+XXVII. LABORATORIO CLÍNICO.- El establecimiento público, social o privado, independiente o ligado a un establecimiento de atención médica, dedicado al análisis físico, químico y biológico de diversos componentes y productos del cuerpo humano, que tenga como fin realizar análisis clínicos y así coadyuvar en el estudio, prevención, diagnóstico, resolución y tratamiento de los problemas de salud;
+
+XXVIII. LEY.- Ley de Salud del Distrito Federal;
+
+XXIX. LEY GENERAL.- Ley General de Salud;
+
+XXX. LINEAMIENTO TÉCNICO.- La regulación técnica de observancia obligatoria expedida por las dependencias competentes, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación;
+
+XXXI. PACIENTE AMBULATORIO.- Todo aquel usuario de servicios de atención médica que no necesite hospitalización, o que por su enfermedad sea candidato para atención médica quirúrgica ambulatoria;
+
+XXXII. PERSONAL DE SALUD.- Son los profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
+
+XXXIII. POBLACIÓN DE ESCASOS RECURSOS.- Las personas que tengan ingresos diarios equivalentes o inferiores al salario mínimo vigente en la zona económica correspondiente, así como sus dependientes económicos;
+
+XXXIV. REGLAMENTO.- El Reglamento de la Ley de Salud del Distrito Federal;
+
+XXXV. SECRETARÍA.- La Secretaría de Salud del Distrito Federal;
+
+XXXVI. SECRETARÍA FEDERAL.- La Secretaría de Salud Federal;
+
+XXXVII. SERVICIO DE ATENCIÓN MEDICA.- El conjunto de recursos que intervienen sistemáticamente para la prevención y curación de las enfermedades que afectan a los individuos, así como de la rehabilitación de los mismos;
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+XXXVIII. SERVICIOS DE SALUD.- Todas aquellas acciones que se realizan en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad. Los servicios públicos de salud se clasifican en tres: Los prestados por el Gobierno de la ciudad, a través de la Secretaría de Salud; los prestados por la Secretaría de Salud del Gobierno Federal, directamente o a través de sus órganos desconcentrados y organismos descentralizados, y los prestados por las Instituciones de Seguridad Social, regulados por las leyes que los rigen;
+
+XXXIX. SERVICIO DE URGENCIAS.- El área de las unidades hospitalarias donde los pacientes son evaluados, clasificados y atendidos con celeridad en caso de padecimientos súbitos, accidentes;
+
+XL. SISTEMA DE SALUD DEL DISTRITO FEDERAL.- Al conjunto de dependencias, órganos desconcentrados y organismos descentralizados del Gobierno, y de personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como a los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la Administración Pública Federal;
+
+XLI. UNIDAD DE URGENCIAS.- Al conjunto de aéreas (sic) y espacios destinados a la atención inmediata de problemas medico quirúrgicos que ponen en peligro la vida, un órgano o una función del paciente, disminuyendo, el riesgo de alteraciones mayores;
+
+XLII. URGENCIA.- Todo problema médico quirúrgico agudo que requiere atención inmediata por poner en peligro la vida, un órgano, o una función de un órgano del paciente; y
+
+XLIII. USUARIO DEL SERVICIO DE SALUD.- Toda persona que solicite y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en la Ley, este Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 3.
 
@@ -190,9 +224,35 @@ La proporción y términos para la prestación de estos servicios podrán fijars
 
 El Sistema de Salud del Distrito Federal, así como sus dependencias y entidades, promoverán y apoyarán la formación de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades, accidentes y rehabilitación.
 
-### CAPÍTULO II. Del Sistema de Salud del Gobierno del Distrito Federal
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE MARZO DE 2015)</small>
 
-### CAPÍTULO III. Del Consejo de Salud del Distrito Federal
+### CAPÍTULO I BIS. De la Firma Grafométrica en el Sistema de Salud del Distrito Federal
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 15 Bis.
+
+La firma grafométrica debe ser utilizada para el caso de los documentos electrónicos que deban ser integrados en un sistema informático en salud y que requieran ser firmados por el paciente, representante legal o pariente por consanguinidad o afinidad hasta el cuarto grado, misma que se asentará a través del digitalizador de firmas que para tales efectos proporcione el establecimiento.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+###### Artículo 15 Ter.
+
+La firma grafométrica debe ser recabada mediante un digitalizador de firmas el cual registra el trazo de la firma autógrafa para integrarse en el documento electrónico correspondiente.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+Artículo 15 Quarter.- La firma grafométrica será utilizada en los documentos que integren un expediente clínico electrónico y que requieran una autorización expresa del paciente, representante legal o pariente por consanguinidad o afinidad hasta el cuarto grado.
+
+La persona que realice una firma grafométrica la reconoce como propia y autentica, misma que será plasmada a través del digitalizador de firmas que para tal efecto proporcione el establecimiento, únicamente en el documento electrónico que se exponga en el acto y que requiera una firma de autorización. A través de la firma, aceptará que expresa su voluntad para todos los efectos médicos y legales relacionados con estos.
+
+Los documentos que contengan o se realicen con el uso de la firma grafométrica tendrán la misma validez legal que los documentos generados en papel.
+
+La firma grafométrica sólo será utilizada para el documento electrónico que en el acto se firme, no podrá ser reproducida ni utilizada en otras ocasiones para otros documentos.
+
+En caso que la firma grafométrica se requiera para diversos documentos, ésta deberá ser trazada las veces que sea necesario a través del digitalizador de firmas para cada documento electrónico.
+
+### CAPÍTULO II. Del Sistema de Salud del Gobierno del Distrito Federal
 
 ###### Artículo 16.
 
@@ -260,7 +320,7 @@ Las instituciones que integran el Sistema de Salud del Gobierno del Distrito Fed
 
 Las dependencias, entidades, organismos descentralizados y órganos desconcentrados, que desarrollen programas que presten servicios de salud, además de lo dispuesto en este capítulo, se estarán a los demás requisitos previstos en la Ley y este Reglamento.
 
-### CAPÍTULO IV. De la Secretaría de Salud del Distrito Federal
+### CAPÍTULO III. Del Consejo de Salud del Distrito Federal
 
 ###### Artículo 22.
 
@@ -352,7 +412,7 @@ III. Observar y cumplir las Reglas de Operación del Consejo.
 
 El Consejo sesionará en forma ordinaria cuatrimestralmente y en forma extraordinaria cuando la importancia de algún asunto así lo requiera. En cada sesión deberá levantarse acta debidamente circunstanciada que será enviada oportunamente a los participantes.
 
-### CAPÍTULO V. De los Servicios de Salud Pública del Distrito Federal
+### CAPÍTULO IV. De la Secretaría de Salud del Distrito Federal
 
 ###### Artículo 32.
 
@@ -388,7 +448,7 @@ La Secretaría, en el ámbito del Sistema de Salud del Gobierno del Distrito Fed
 
 La Secretaría suscribirá instrumentos jurídicos necesarios que permitan fortalecer el cumplimiento de los programas en materia de salud con la finalidad mejorar (sic) la atención de la población, así como los servicios de salud que presta el Gobierno del Distrito Federal.
 
-### CAPÍTULO I. De la Prestación de Servicios de Atención Médica
+### CAPÍTULO V. De los Servicios de Salud Pública del Distrito Federal
 
 ###### Artículo 38.
 
@@ -426,7 +486,7 @@ VI. Proporcionar la información y cooperación técnica que les sea requerida p
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO II. De los Cuidados Paliativos a los Enfermos en situación Terminal
+### CAPÍTULO I. De la Prestación de Servicios de Atención Médica
 
 ###### Artículo 40.
 
@@ -578,6 +638,10 @@ Los profesionales, técnicos y auxiliares de las disciplinas de la salud, deber�
 
 Los establecimientos para el internamiento de enfermos, estarán obligados a conservar los expedientes clínicos de los usuarios, por un periodo mínimo de cinco años.
 
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+
+El expediente clínico electrónico será respaldado y guardado de manera indefinida en los medios electrónicos habilitados para tal fin.
+
 ###### Artículo 63.
 
 En todos los establecimientos de atención médica, a excepción de los laboratorios y gabinetes, podrán ser aplicadas las vacunas que ordene la Ley y las que, en su caso, señalen los reglamentos, las Normas Técnicas y los Lineamientos Técnicos que determine la Secretaría Federal.
@@ -634,7 +698,7 @@ III. Al personal del establecimiento, celebrar contratos con el usuario, salvo l
 
 Además de lo dispuesto en el presente capitulo, para dar cumplimiento a las acciones para la atención del cáncer de mama, se estará a las disposiciones establecidas en la Ley para la Atención Integral del Cáncer de Mama del Distrito Federal y la normativa aplicable.
 
-### CAPÍTULO III. Disposiciones para la Prestación de Servicios de Hospitales
+### CAPÍTULO II. De los Cuidados Paliativos a los Enfermos en situación Terminal
 
 ###### Artículo 72.
 
@@ -772,7 +836,7 @@ El Síntoma Refractario, es el síntoma que no puede ser adecuadamente controlad
 
 En caso de presencia de síntomas refractarios en pacientes con posibilidad de muerte inminente, se debe acordar con el paciente y la familia los aspectos de hidratación, nutrición, ordenes de resucitación, diálisis, transfusiones o terapias que se llevarán a cabo para no acortar o terminar la vida del paciente, en tal caso, se estará sujeto a las disposiciones penales aplicables.
 
-### CAPÍTULO IV. De las Urgencias Médicas y Atención Prehospitalaria
+### CAPÍTULO III. Disposiciones para la Prestación de Servicios de Hospitales
 
 ###### Artículo 86.
 
@@ -888,7 +952,7 @@ En el caso de muerte violenta o presuntamente vinculada a la comisión de hechos
 
 Los hospitales deberán contar con una dotación de medicamentos para su operatividad, las veinticuatro horas del día durante todo el año.
 
-### CAPÍTULO V. Disposiciones para la Prestación de Servicios de Consultorios
+### CAPÍTULO IV. De las Urgencias Médicas y Atención Prehospitalaria
 
 ###### Artículo 105.
 
@@ -996,7 +1060,7 @@ VII. No llevar a bordo tripulación mayor a cuatro integrantes y un máximo de d
 
 VIII. No destinar la ambulancia para un objeto distinto del permitido;
 
-IX. No ejecutar maniobras terapéuticas no autorizadas, y (sic)
+IX. No ejecutar maniobras terapéuticas no autorizadas, y
 
 X. Acatar las indicaciones señaladas en el Reglamento de Tránsito Metropolitano, en cuanto a las normas generales de circulación, y
 
@@ -1046,7 +1110,7 @@ El traslado se llevará a cabo con recursos propios de la unidad que hace el env
 
 De no contarse con los medios de transporte adecuados, se utilizarán los de la institución receptora.
 
-### CAPÍTULO VI. Medicina Preventiva
+### CAPÍTULO V. Disposiciones para la Prestación de Servicios de Consultorios
 
 ###### Artículo 127.
 
@@ -1080,7 +1144,7 @@ Las recetas expedidas por especialistas de la medicina, además de lo mencionado
 
 Los requisitos mínimos de infraestructura y equipamiento para hospitales y consultorios de atención médica especializada, incluyendo la infraestructura y el equipamiento para ejercer actividades directivas y de formación de personal de salud, establecido como obligatorio por la Ley General y su Reglamento en materia de prestación de Servicios de Atención Médica, deberán apegarse a lo establecido en las Normas Oficiales Mexicanas.
 
-### CAPÍTULO VII. Sistema de Alerta Sanitaria y Comité Científico de Vigilancia Epidemiológica y Sanitaria de la Ciudad de México
+### CAPÍTULO VI. Medicina Preventiva
 
 ###### Artículo 135.
 
@@ -1106,13 +1170,13 @@ II. El tratamiento y vigilancia epidemiológica del cáncer de la mama,
 
 III. La promoción y educación para la salud en materia alimentaria,
 
-IV. La evaluación de riesgos a la salud, como consecuencia de agentes ambientales, y (sic)
+IV. La evaluación de riesgos a la salud, como consecuencia de agentes ambientales, y
 
 V. El funcionamiento y atención en los servicios de urgencias de los establecimientos de atención médica, y
 
 VI. Los (sic) demás reguladas por la Ley.
 
-### CAPÍTULO VIII. Centro de Inteligencia y preparación de respuesta Epidemiológica de la Ciudad de México
+### CAPÍTULO VII. Sistema de Alerta Sanitaria y Comité Científico de Vigilancia Epidemiológica y Sanitaria de la Ciudad de México
 
 ###### Artículo 137.
 
@@ -1272,7 +1336,7 @@ El Comité señalará las medidas específicas de protección que deberán adopt
 
 Para la vigilancia epidemiológica se estará a lo dispuesto por la Norma Oficial Mexicana que se expida para tal efecto.
 
-### CAPÍTULO IX. Disposiciones para la prestación de servicios de Atención Materno-Infantil
+### CAPÍTULO VIII. Centro de Inteligencia y preparación de respuesta Epidemiológica de la Ciudad de México
 
 ###### Artículo 151.
 
@@ -1342,7 +1406,7 @@ XIX. Participar, en el ámbito de su competencia, en la instrumentación del Sis
 
 XX. Las demás que determinen el Jefe de Gobierno y el Secretario de Salud.
 
-### CAPÍTULO X. Disposiciones para la prestación de servicios de Salud Sexual, Reproductiva y de Planificación Familiar
+### CAPÍTULO IX. Disposiciones para la prestación de servicios de Atención Materno-Infantil
 
 ###### Artículo 154.
 
@@ -1452,7 +1516,7 @@ Podrán ser nombrados como responsables de un hospital pediátrico los médicos 
 
 Podrá ser Director de Hospital General y/o Materno Infantil, los médicos generales, con título y cédula, que cuenten con especialidad avalada por Institución de Salud y Universidad, con diploma universitario y cédula de especialista; con estudios de administración de Hospitales con reconocimiento universitario.
 
-### CAPÍTULO XI. VIH-SIDA
+### CAPÍTULO X. Disposiciones para la prestación de servicios de Salud Sexual, Reproductiva y de Planificación Familiar
 
 ###### Artículo 170.
 
@@ -1520,7 +1584,7 @@ Para la realización de salpingoclasias y vasectomías, será indispensable obte
 
 Dichas intervenciones deberán llevarse a efecto de conformidad con las Normas Técnicas correspondientes.
 
-### CAPÍTULO XII. Disposiciones para la prestación de servicios médicos para la Interrupción del Embarazo
+### CAPÍTULO XI. VIH-SIDA
 
 ###### Artículo 180.
 
@@ -1558,7 +1622,7 @@ El programa de VIH-SIDA del Distrito Federal a cargo de la Secretaría, privileg
 
 La Secretaría, en coordinación con las autoridades competentes, impulsará en los establecimientos mercantiles, en los que sea procedente, la adopción de medidas que permitan la realización de acciones específicas de prevención y fomento al cuidado personal de la salud en materia de VIH-SIDA y otras infecciones de transmisión sexual. Estas medidas incluirán, entre otras, la disponibilidad al público de información en la materia y condones, de conformidad a los términos que se establezcan en las disposiciones aplicables.
 
-### CAPÍTULO XIII. Salud Bucal
+### CAPÍTULO XII. Disposiciones para la prestación de servicios médicos para la Interrupción del Embarazo
 
 ###### Artículo 185.
 
@@ -1660,7 +1724,7 @@ El expediente clínico de las usuarias atendidas por interrupción del embarazo,
 
 Las autoridades de la unidad hospitalaria, están obligadas a realizar el registro correspondiente de los procedimientos de Interrupción del Embarazo que se lleven a cabo en la (sic) Unidades Médicas autorizadas, información que se deberá enviar a la Dirección de Informática en Salud de la Secretaría.
 
-### CAPÍTULO XIV. Disposiciones para la prestación de servicios de Salud Mental
+### CAPÍTULO XIII. Salud Bucal
 
 ###### Artículo 203.
 
@@ -1720,7 +1784,7 @@ V. Exploración, inspección, palpación, percusión, sondaje, movilidad y trans
 
 VI. Auxiliares de diagnóstico como estudios de gabinete y de laboratorio, de acuerdo con las necesidades del caso.
 
-### CAPÍTULO XV. Atención Médica de los Adultos Mayores
+### CAPÍTULO XIV. Disposiciones para la prestación de servicios de Salud Mental
 
 ###### Artículo 210.
 
@@ -1754,7 +1818,7 @@ La capacitación en materia prevención (sic), deberá incluir el manejo de pobl
 
 Además de lo dispuesto en el presente capitulo, para dar cumplimiento a las acciones para la atención de la salud mental, se estará a las disposiciones establecidas en la Ley de Salud Mental del Distrito Federal y la normatividad aplicable.
 
-### CAPÍTULO XVI. Del Sistema de Protección Social en Salud
+### CAPÍTULO XV. Atención Médica de los Adultos Mayores
 
 ###### Artículo 218.
 
@@ -1764,7 +1828,7 @@ I. Persona adulta mayor, aquella que cuenta con sesenta años o más de edad y e
 
 II. Atención médica, al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud, y
 
-III. Geriatría, al servicio brindado para la tención de la salud de las personas adultas mayores.
+III. Geriatría, al servicio brindado para la tención (sic) de la salud de las personas adultas mayores.
 
 ###### Artículo 219.
 
@@ -1812,7 +1876,7 @@ Las Instituciones Públicas, privadas y sociales, que otorguen atención médica
 
 En todos los servicios especializados en atención médica de los adultos mayores, geriatría, gerontología, vinculados con las enfermedades y padecimientos del adulto mayor, deberán cumplir con lo dispuesto en la Ley de los Derechos de las Personas Adultas Mayores en el Distrito Federal y con las Normas Oficiales correspondientes.
 
-### CAPÍTULO XVII. Recursos Humanos de los Servicios de Salud
+### CAPÍTULO XVI. Del Sistema de Protección Social en Salud
 
 ###### Artículo 224.
 
@@ -1858,7 +1922,7 @@ El envío de pacientes, de una unidad médica de la Red a los Hospitales Federal
 
 Se deberán establecer instrumentos de evaluación que permitan medir el nivel de satisfacción de los usuarios del Sistema de Protección Social en Salud, de conformidad con lo estipulado en los documentos normativos aplicables en la materia.
 
-### CAPÍTULO XVIII. Investigación para la Salud
+### CAPÍTULO XVII. Recursos Humanos de los Servicios de Salud
 
 ###### Artículo 231.
 
@@ -1876,7 +1940,7 @@ V. El desarrollo de capacidades para el trabajo interdisciplinario y multicultur
 
 VI. La formación ética del personal, con especial atención a principios y valores tales como la solidaridad, la igualdad y el respeto a la dignidad de las personas.
 
-### CAPÍTULO XIX. Promoción de la Salud
+### CAPÍTULO XVIII. Investigación para la Salud
 
 ###### Artículo 232.
 
@@ -1902,7 +1966,7 @@ III. Salud mental y comportamientos adictivos; y
 
 IV. Enfermedades emergentes y re-emergentes.
 
-### CAPÍTULO XX. Nutrición, Obesidad y Trastornos Alimenticios
+### CAPÍTULO XIX. Promoción de la Salud
 
 ###### Artículo 236.
 
@@ -1922,7 +1986,7 @@ II. Asumir los objetivos de la educación para la salud y la promoción de la pa
 
 III. Llevarla a cabo con énfasis en los ámbitos escolar, familiar y laboral, especialmente en los grupos de alto riesgo.
 
-### CAPÍTULO XXI. Efectos del Medio Ambiente en la Salud
+### CAPÍTULO XX. Nutrición, Obesidad y Trastornos Alimenticios
 
 ###### Artículo 239.
 
@@ -1964,7 +2028,7 @@ La Secretaría, forma parte del Consejo para la Prevención y la Atención Integ
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, desarrollarán acciones para dar cumplimiento al objeto de la Ley para la Prevención y el Tratamiento de la Obesidad y los Trastornos Alimenticios del Distrito Federal.
 
-### CAPÍTULO XXII. Enfermedades Transmisibles y No Transmisibles
+### CAPÍTULO XXI. Efectos del Medio Ambiente en la Salud
 
 ###### Artículo 244.
 
@@ -1994,7 +2058,7 @@ VIII. El almacenamiento, distribución, uso y manejo del gas natural, del gas li
 
 Todo lo relacionado a los efectos del medio ambiente en la salud, se regirá conforme a lo establecido por la Secretaría del Medio Ambiente y Recursos Naturales, Comisión Ambiental Metropolitana, Secretaría de Ecología, Instituto Nacional de Enfermedades Respiratorias, Universidad Nacional Autónoma de México y demás instituciones de investigación.
 
-### CAPÍTULO XXIII. Adicciones
+### CAPÍTULO XXII. Enfermedades Transmisibles y No Transmisibles
 
 ###### Artículo 247.
 
@@ -2092,7 +2156,7 @@ VI. Las demás que sean necesarias para la prevención, tratamiento y control de
 
 La Secretaría coordinará sus actividades con otras dependencias y entidades públicas, y con los gobiernos de las entidades federativas, para la investigación, prevención y control de las enfermedades no transmisibles.
 
-### CAPÍTULO XXIV. Prevención y Atención Médica de Accidentes
+### CAPÍTULO XXIII. Adicciones
 
 ###### Artículo 257.
 
@@ -2184,7 +2248,7 @@ Las adicciones se consideran dentro del grupo de las enfermedades no transmisibl
 
 Además de lo dispuesto en el presente capitulo, se estará a las disposiciones establecidas en la Ley para la Atención Integral del Consumo de Sustancias Psicoactivas del Distrito Federal y la normatividad aplicable.
 
-### CAPÍTULO XXV. Disposiciones para la prestación de servicios de Rehabilitación
+### CAPÍTULO XXIV. Prevención y Atención Médica de Accidentes
 
 ###### Artículo 268.
 
@@ -2198,7 +2262,7 @@ II. Accidente doméstico: Aquel que ocurre en la vivienda propiamente dicha; pat
 
 La Secretaría elaborará y desarrollará, los programas y acciones de prevención y control de accidentes en el hogar, la escuela, el trabajo y los lugares públicos.
 
-### CAPÍTULO XXVI. De la Donación y Trasplantes en el Distrito Federal
+### CAPÍTULO XXV. Disposiciones para la prestación de servicios de Rehabilitación
 
 ###### Artículo 270.
 
@@ -2224,7 +2288,7 @@ VIII. UNIDAD DE REHABILITACIÓN.- La unidad que formando parte o no de un hospit
 
 Las disposiciones previstas en este Reglamento, serán aplicables a toda institución para la rehabilitación de discapacitados, aún cuando se denomine, ostente o constituya bajo otra modalidad, debiendo sujetarse a los Lineamientos Técnicos que emita la Secretaría Federal.
 
-### CAPÍTULO XXVII. Centro de Transfusión Sanguínea del Distrito Federal
+### CAPÍTULO XXVI. De la Donación y Trasplantes en el Distrito Federal
 
 ###### Artículo 272.
 
@@ -2428,7 +2492,7 @@ Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por
 
 Para los efectos de este Reglamento, todo lo relacionado a la donación y trasplantes en el Distrito Federal de órganos y tejidos de seres humanos con fines terapéuticos, se regirá conforme a lo establecido en la Ley General, su reglamento y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO XXVIII. Servicios de Salud en Centros de Reclusión del Distrito Federal
+### CAPÍTULO XXVII. Centro de Transfusión Sanguínea del Distrito Federal
 
 ###### Artículo 295.
 
@@ -2472,7 +2536,7 @@ II. Vigilar que se cumplan con los procesos de bio-seguridad previstos en las no
 
 III. Las demás que le confiera expresamente el Titular de la Secretaría, y demás disposiciones aplicables.
 
-### CAPÍTULO XXIX. Prácticas y Conocimientos Tradicionales en Salud
+### CAPÍTULO XXVIII. Servicios de Salud en Centros de Reclusión del Distrito Federal
 
 ###### Artículo 302.
 
@@ -2490,7 +2554,7 @@ Cuando el personal médico de los Servicios de Salud determine necesario traslad
 
 El Director de cada Centro de Reclusión cuidará que las instalaciones de los Servicios de Salud cuenten con el personal de seguridad y custodia suficiente para garantizar la seguridad y el orden de la Unidad.
 
-### CAPÍTULO XXX. Medicina Integrativa
+### CAPÍTULO XXIX. Prácticas y Conocimientos Tradicionales en Salud
 
 ###### Artículo 304.
 
@@ -2586,7 +2650,7 @@ El control de las substancias utilizadas por los practicantes de medicina tradic
 
 La vigilancia de estas actividades estará a cargo de la Secretaría. La violación a los preceptos de la Ley, de este reglamento y demás disposiciones que emanen, serán sancionados por la Agencia, de conformidad con lo establecido en la Ley, sin perjuicio de las demás disposiciones aplicables, así como las penas que correspondan cuando sean constitutivas de delitos.
 
-### CAPÍTULO XXXI. De la Vigilancia e Inspección
+### CAPÍTULO XXX. Medicina Integrativa
 
 ###### Artículo 318.
 
@@ -2716,7 +2780,7 @@ La publicidad para el consultorio, centro de atención o método para el manejo 
 
 Sólo se podrán publicitar para el manejo de la acupuntura, aquellos establecimientos que cumplan con los requisitos señalados en este Reglamento.
 
-### CAPÍTULO XXXII. De las Medidas de Seguridad
+### CAPÍTULO XXXI. De la Vigilancia e Inspección
 
 ###### Artículo 345.
 
@@ -2726,7 +2790,7 @@ Corresponde a la Agencia, la vigilancia del cumplimiento de este Reglamento y de
 
 La vigilancia sanitaria, se realizará conforme al Título Décimo Séptimo de la Ley General.
 
-### CAPÍTULO XXXIII. De las Sanciones Administrativas
+### CAPÍTULO XXXII. De las Medidas de Seguridad
 
 ###### Artículo 347.
 
@@ -2740,17 +2804,19 @@ III. La prohibición de actos de uso; y
 
 IV. Las demás de índole sanitaria que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
-### CAPÍTULO XXXIV. Procedimiento para aplicar Sanciones y Medidas de Seguridad
+### CAPÍTULO XXXIII. De las Sanciones Administrativas
 
 ###### Artículo 348.
 
 Las violaciones a las disposiciones de este Reglamento, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
-### CAPÍTULO XXXV. Del Recurso de Inconformidad
+### CAPÍTULO XXXIV. Procedimiento para aplicar Sanciones y Medidas de Seguridad
 
 ###### Artículo 349.
 
 Los procedimientos para la aplicación de las medidas de seguridad y sanciones se ajustarán a lo establecido en la Ley.
+
+### CAPÍTULO XXXV. Del Recurso de Inconformidad
 
 ###### Artículo 350.
 
@@ -2763,3 +2829,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y Diario Oficial
 SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Dado en la residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los seis días del mes de julio del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
