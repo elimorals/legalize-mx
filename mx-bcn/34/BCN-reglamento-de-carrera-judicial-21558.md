@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-carrera-judicial-21558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-10"
-last_updated: "2008-06-06"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE CARRERA JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de noviembre de 2000.
 
@@ -977,11 +977,11 @@ Los criterios para las evaluaciones de referencia, se atenderán conforme a lo d
 
 Concluida la última etapa del examen, el Consejo a más tardar dentro de los 5 días hábiles posteriores, integrará una lista de aquéllos que hayan resultado aprobados y la entregará al Presidente del Tribunal Superior de Justicia, para que éste a su vez la remita al Congreso del Estado, en los términos previstos por el artículo 58 Constitucional.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
 
 ## TÍTULO NOVENO. DE LOS CONCURSOS PARA LA DESIGNACIÓN DE JUECES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO PRIMERO. REGLAS GENERALES
 
@@ -1047,7 +1047,7 @@ VIII. Las demás que les señale la Constitución, Ley Orgánica, Reglamento Int
 
 Los concursos se desarrollarán conforme a las bases señaladas en la Constitución, Ley Orgánica, Reglamento Interior del Consejo de la Judicatura, este Reglamento y demás acuerdos que al efecto determine el Pleno del Consejo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA CONVOCATORIA
 
@@ -1131,7 +1131,7 @@ i) Escrito en el que bajo protesta de decir verdad, manifieste el aspirante enco
 
 En caso de que los aspirantes no satisfagan los requisitos establecidos en la convocatoria a la cual se sometieron o en el supuesto que haya únicamente uno que si los reúna, el Pleno del Consejo de la Judicatura declarará desierto el concurso respectivo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO TERCERO. DE LAS ETAPAS DEL CONCURSO EN LO GENERAL
 
@@ -1143,7 +1143,13 @@ Los concursos, constarán de las siguientes etapas:
 
 I. DE LOS REQUISITOS DE ELEGIBILIDAD. Consiste en determinar si el aspirante reúne o no los requisitos legales para ocupar la plaza que se concursa.
 
-II. DE LA EVALUACIÓN PSICOMÉTRICA. Estriba en un estudio psicológico que incluye diversas pruebas y una entrevista, a efecto de determinar si el aspirante es aceptable o no psicológicamente para desempeñar la plaza concursada.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+II. DE LA EVALUACIÓN DE CONOCIMIENTOS. Consta de dos exámenes, uno teórico y el otro práctico, con el objeto de tasar los conocimientos jurídicos del aspirante.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+III. DE LA EVALUACIÓN PSICOMÉTRICA. Estriba en un estudio psicológico que incluye diversas pruebas y una entrevista, a efecto de determinar si el aspirante es aceptable o no psicológicamente para desempeñar la plaza concursada.
 
 La entrevista será privada y tiene por objeto la valoración de las siguientes áreas:
 
@@ -1159,13 +1165,11 @@ e) Estilo de trabajo. Evaluación de la forma de trabajo, gustos, preferencias, 
 
 f) Liderazgo. Evaluación del estilo y tipo de liderazgo.
 
-III. DE LA EVALUACIÓN DE CONOCIMIENTOS. Consta de dos exámenes, uno teórico y el otro práctico, con el objeto de tasar los conocimientos jurídicos del aspirante.
-
 IV. ENTREVISTA. Consiste en el examen del aspirante, bajo los siguientes aspectos: integridad profesional (rectitud, probidad, ética), presentación (imagen), seguridad (confianza), habilidad de comunicación, madurez (buen juicio o prudencia, sensatez) y objetividad.
 
-V. DE LA EVALUACIONDE MÉRITOS. Radica en la calificación de los méritos del aspirante, tales como la preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante); la experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales); así mismo, el prestigio profesional.
+V. DE LA EVALUACION DE MÉRITOS. Radica en la calificación de los méritos del aspirante, tales como la preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante); la experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales); así mismo, el prestigio profesional.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO CUARTO. DE LA APLICACIÓN DE LOS EXAMENES EN EL CONCURSO
 
@@ -1237,7 +1241,7 @@ Una vez que el sustentante concluya la elaboración del proyecto, deberá adheri
 
 La selección del caso práctico, se hará conforme a los lineamientos que señale la Comisión de Carrera Judicial, consistentes en:
 
-l. Hacer un análisis y revisión de expedientes previamente recabados de los órganos jurisdiccionales.
+I. Hacer un análisis y revisión de expedientes previamente recabados de los órganos jurisdiccionales.
 
 II. El caso práctico será elegido de aquéllos con el mayor número de incidencia en los Juzgados y atendiendo a la especialización de la vacante concursada, cuando de ello se trate.
 
@@ -1299,13 +1303,19 @@ En el texto de la lista de los aspirantes que hayan acreditado la etapa de conoc
 
 Así mismo, el Consejo de la Judicatura deberá escuchar la opinión escrita de agrupaciones profesionales de abogados de esta entidad Federativa, que se encuentren registrados en el Departamento de Profesiones del Estado, así como de las Facultades y Escuelas de Derecho de Baja California.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 144.
 
-La entrevista será pública y la efectuará el Jurado que para tal fin se integre, de conformidad a lo dispuesto por el artículo 204 de la Ley Orgánica del Poder Judicial del Estado.
+La entrevista será en audiencia pública y la efectuará el Jurado de Evaluación integrado de conformidad a lo dispuesto por el artículo 204 de la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 Los participantes serán citados para que comparezcan ante el Jurado, en el lugar, fecha y hora determinados en el calendario y serán examinados en estricto orden alfabético de acuerdo a sus apellidos. El desarrollo de la entrevista deberá constar en video, grabadora o algún instrumento análogo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2015)</small>
+
+Podrán asistir a la entrevista todos los ciudadanos y medios de comunicación que lo estimen conveniente, aunado a lo anterior, será transmitida en la página de internet del Poder Judicial del Estado.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1325,15 +1335,27 @@ V. Madurez (buen juicio o prudencia, sensatez) hasta 15 puntos; y
 
 VI. Objetividad hasta 25 puntos.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 146.
 
-La entrevista, se realizará conforme a lo siguiente:
+La entrevista, se desarrollara conforme a lo siguiente:
 
-l. Se procederá a recibir al aspirante, a quien se le preguntará su nombre completo;
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-II. El Jurado formulará al sustentante el número de preguntas que considere necesarias y en el orden que así lo convengan sus miembros.
+I. Se procederá a recibir al aspirante, a quien se le preguntará su nombre completo;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+II. El aspirante contará con un tiempo no mayor a diez minutos para realizar una breve exposición sobre el cargo a ocupar, sus méritos profesionales y las acciones a desarrollar en caso de ser nombrado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+
+III. El Jurado formulará al sustentante el número de preguntas que considere necesarias y en el orden que así lo convengan sus miembros.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+
+IV. La duración de la entrevista, será determinada por los miembros del Jurado, lo cual se hará del conocimiento de los participantes con la debida oportunidad.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1351,35 +1373,35 @@ La lista con los nombres de las personas que acrediten la entrevista cuya califi
 
 En el examen de méritos se calificarán los méritos del aspirante, tales como preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante); experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales); así mismo, el prestigio profesional.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 149.
 
 La valoración de los méritos se hará conforme al puntaje siguiente:
 
-1. Preparación académica: hasta 50 puntos
+I. Preparación académica: hasta 35 puntos
 
-a) Grado académico: doctorado 50 puntos; maestría 30 puntos.
+a) Grado académico: doctorado 35 puntos; una maestría 25 puntos; dos o más maestrías 35 puntos.
 
-b) Especialización: especialidad 15 puntos.
+b) Especialización: una especialidad 10 puntos; dos o más especialidades 15 puntos.
 
-c) Diplomado: 5 puntos.
+c) Diplomado: un diplomado 3 puntos; dos o más diplomados 6 puntos; destacando que solamente se consideran aquellos que se hubieren realizado durante los últimos cinco años.
 
-d) Cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante: se otorgará 1 punto por cada cinco eventos, tomando en consideración solamente aquellos que se hubieren realizado durante los últimos cinco años.
+d) Cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante: se otorgará 1 punto por cada diez eventos, tomando en consideración solamente aquellos que se hubieren realizado durante los últimos cinco años; sin que se pueda otorgar más de 5 puntos.
 
-II. Experiencia profesional: hasta 45 Puntos
+II. Experiencia profesional: hasta 60 Puntos
 
-a) Ejercicio profesional: Se otorgarán por 25 años de ejercicio profesional 40 puntos; por 20 años 35 puntos; por 15 años 30 puntos; por 10 años 25 puntos y por 5 años 20 puntos.
+a) Ejercicio profesional: Se otorgarán por 25 años de ejercicio profesional 50 puntos; por 20 años 45 puntos; por 15 años 40 puntos; por 10 años 35 puntos y por 5 años 15 puntos.
 
 b) Docencia: Se otorgarán por el ejercicio de la docencia a nivel de posgrado 10 puntos y a nivel de licenciatura 5 puntos, para otorgar dicho puntaje el aspirante deberá acreditar que fungió como docente por lo menos un año.
 
-Así mismo se otorgarán por cada cinco eventos en los cuales el aspirante se hubiere desempeñado como expositor 2 puntos, sin exceder de 6 puntos.
+Así mismo se otorgarán por cada cinco eventos en los cuales el aspirante se hubiere desempeñado como expositor dentro del Poder Judicial del Estado de Baja California, 2 puntos, sin exceder de 6 puntos; tomando en consideración solamente aquellos que se hubieren realizado durante los últimos cinco años.
 
-c) Investigación jurídica: se otorgarán 3 puntos por cada trabajo formal de investigación que hubiere realizado durante los últimos tres años, sin exceder de 9 puntos.
+c) Investigación jurídica: se otorgarán (sic) 1 punto por cada trabajo formal de investigación que hubiere realizado durante los últimos tres años, sin exceder de 3 puntos.
 
-d) Publicación jurídica: se otorgará 1 punto por cada cinco publicaciones, tomando en consideración solamente aquellas que se hubieren realizado durante los últimos cinco años, sin exceder de 6 puntos.
+d) Publicación jurídica: se otorgará (sic) 3 puntos por cada cinco publicaciones, tomando en consideración solamente aquellas que se hubieren realizado durante los últimos cinco años, sin exceder de 6 puntos.
 
-e) Antigüedad en cargos jurisdiccionales: Si el aspirante dentro de su ejercicio profesional ha desempeñado cargos jurisdiccionales, se le otorgará un puntaje adicional al señalado en el inciso a) de este artículo, el cual no excederá de 5 puntos, siempre y cuando se encuentre en cualquiera de las hipótesis siguientes: haberse desempeñado como Juez al menos durante un año; como Secretario General de Acuerdos o Secretario de Estudio y Cuenta como mínimo por dos años; como Secretario Auxiliar o Secretario de Acuerdos por un lapso no menor a tres años o como Actuario por lo menos durante cinco años.
+e) Antigüedad en cargos jurisdiccionales: Si el aspirante dentro de su ejercicio profesional ha desempeñado cargos jurisdiccionales, se le otorgará un puntaje adicional al señalado en el inciso a) de este artículo, el cual no excederá de 10 puntos, siempre y cuando se encuentre en cualquiera de las hipótesis siguientes: haberse desempeñado como Juez al menos durante cinco años; como Secretario General de Acuerdos, Secretario de Estudio y Cuenta, Secretario Auxiliar, Secretario de Acuerdos y Secretario Actuario por un lapso no menor a tres años.
 
 III. Prestigio profesional: hasta 5 puntos.
 
@@ -1387,15 +1409,9 @@ Un punto por cada opinión emitida por agrupaciones profesionales de abogados de
 
 La puntuación de este artículo será acumulativa y no podrá exceder del límite máximo establecido.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
-
 ###### Artículo 150.
 
-Se otorgarán los 50 puntos de la preparación académica y los 45 puntos de la experiencia profesional, al aspirante que 9credite:
-
-I. Tener más de 60 años de edad y como mínimo 30 años de ejercicio profesional como licenciado en derecho o abogado.
-
-II. Contar con una antigüedad de 30 años o mas en el Poder Judicial del Estado, siempre y cuando el aspirante se haya desempeñado en dos o más de las categorías que integran la carrera judicial.
+(DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1411,7 +1427,7 @@ Una vez efectuado esto por parte del Consejo, la Comisión de Carrera Judicial p
 
 En la lista que remita el Consejo de la Judicatura a la autoridad judicial que vaya a efectuar la designación o selección, se establecerá en orden descendente y en su caso alfabético, los aspirantes que hubiesen acreditado todas las etapas del concurso.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO QUINTO. REGLAS COMPLEMENTARIAS
 
@@ -1483,7 +1499,7 @@ La Comisión de Carrera Judicial será la responsable de la elaboración, custod
 
 La Comisión de Carrera Judicial, tendrá a su cargo el procedimiento relacionado al concurso; participará en la organización y aplicación de los exámenes, así como en el control y seguimiento de las actividades que deberán realizar los concursantes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO SEXTO. DEL RECURSO DE REVISIÓN
 
@@ -1503,11 +1519,17 @@ I. El resultado obtenido en la evaluación de los requisitos de elegibilidad.
 
 II. El resultado obtenido en el examen psicométrico.
 
-III. La calificación obtenida en el examen de conocimientos teórico.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
-IV. La calificación obtenida en el examen de conocimientos práctico.
+III. La calificación no aprobatoria obtenida en el examen de conocimientos teórico.
 
-V. La calificación obtenida en la entrevista.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+IV. La calificación no aprobatoria obtenida en el examen de conocimientos práctico.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+
+V. La calificación no aprobatoria obtenida en la entrevista.
 
 VI. La calificación obtenida en el examen de méritos.
 
@@ -1589,7 +1611,7 @@ LA SECRETARIA GENERAL DE ACUERDOS DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
 LIC. IRMA MEZA CÁRDENAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE MAYO DE 2001.
 
@@ -1608,3 +1630,9 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones generales contenidas en los reglamentos y acuerdos expedidos por el Consejo de la Judicatura del Estado de Baja California, que se contrapongan a las presentes disposiciones especiales únicamente respecto a los concursos para la designación de jueces.
+
+P.O. 13 DE MARZO DE 2015.
+
+Artículo Primero.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial y el Boletín Judicial del Estado.
+
+Artículo Segundo.- El Pleno del Consejo de la Judicatura, estará facultado para la interpretación de este Reglamento, así como para resolver cuestiones no previstas en el mismo.
