@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-hacendario-para-el-municipio-de-70963"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NÚMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 4 de noviembre de 2009.
 
@@ -2701,11 +2701,19 @@ Los derechos a que se refiere este Capítulo se causarán y pagarán, en salario
 
 Salarios Mínimos
 
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
 I. Por la expedición de copias de actas del
 
 Registro Civil, incluyendo el papel sellado,
 
-por cada hoja 1.20
+por cada hoja 1.20. con excepción de la primera
+
+copia certificada del acta de registro
+
+de nacimiento de una persona y, en su caso, del
+
+acta de adopción: 1.20
 
 II. Registro de nacimientos ordinarios
 
@@ -4688,3 +4696,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
