@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-570-hacendario-para-el-municipio-de-46214"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-08-20"
-last_updated: "2008-07-25"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 570 HACENDARIO PARA EL MUNICIPIO DE COATZACOALCOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO HACENDARIO PARA EL MUNICIPIO DE COATZACOALCOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE COATZACOALCOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 20 de agosto de 2003.
 
@@ -2737,7 +2737,9 @@ Salarios
 
 Mínimos
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.20
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.20, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 II. Registro de nacimientos ordinarios y extemporáneos 1.20
 
@@ -3341,11 +3343,7 @@ La división de los capítulos en conceptos y partidas específicas se hará con
 
 El presupuesto se ejercerá con base en los calendarios financieros y de metas que se establezcan, conforme a los criterios, manuales y lineamientos que determine la Tesorería.
 
-SECIÓN II
-
-DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
-
-#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
+#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
 ###### Artículo 310.
 
@@ -3367,7 +3365,7 @@ La formulación de los programas institucionales se sujetará a la estructura pr
 
 ### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
-#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
+#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
 ###### Artículo 314.
 
@@ -3427,7 +3425,7 @@ El Cabildo podrá autorizar la participación municipal en empresas, sociedades 
 
 ### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
+#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
 ###### Artículo 324.
 
@@ -3475,7 +3473,7 @@ Las entidades se sujetarán a las disposiciones legales referentes a la aprobaci
 
 Las entidades también reportarán en tiempo y forma a la Tesorería la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Municipio.
 
-#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
+#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
 
 ###### Artículo 333.
 
@@ -3557,7 +3555,7 @@ De los movimientos que se efectúen en los términos de este artículo, el Ayunt
 
 Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
 
-#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
+#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
 ###### Artículo 345.
 
@@ -3607,7 +3605,7 @@ Si existen contratos por honorarios, no incrementarán sus percepciones ni obten
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-#### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
+#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
 ###### Artículo 353.
 
@@ -3657,7 +3655,7 @@ VIII. Las demás que le indique el Presidente y las que se deriven de otros orde
 
 El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el Congreso.
 
-#### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
+#### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
 ###### Artículo 359.
 
@@ -3721,7 +3719,7 @@ II. Cuando se trate de gastos que se eroguen en forma continua, como son los ser
 
 III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el Congreso.
 
-#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+#### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
 ###### Artículo 368.
 
@@ -3749,7 +3747,7 @@ Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Mun
 
 La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las dependencias y entidades sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
 
-#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
+#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 372.
 
@@ -3767,7 +3765,7 @@ Para la integración de la cuenta pública anual del Municipio, las entidades, p
 
 Corresponde a las entidades consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Tesorería. Las entidades cuidarán que la información consolidada que proporcionen a la Tesorería cumpla con las normas y lineamientos establecidos.
 
-#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
+#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
 
 ###### Artículo 376.
 
@@ -3791,7 +3789,7 @@ De no presentar en tiempo la cuenta pública anual al Congreso, el Presidente, l
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
-#### SECCIÓN II. DE LA CONTRALORÍA
+#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
 ###### Artículo 380.
 
@@ -3837,7 +3835,7 @@ III. Fincamiento de las responsabilidades que procedan, y
 
 IV. Determinación de las previsiones que constituyan una de las bases para la programación - presupuestación del ejercicio siguiente.
 
-#### SECCIÓN PRIMERA. DEL DOMINIO DE LOS BIENES
+#### SECCIÓN II. DE LA CONTRALORÍA
 
 ###### Artículo 384.
 
@@ -4527,7 +4525,7 @@ I. Validar los avalúos de los inmuebles objeto de la operación de adquisición
 
 II. Validar la justipreciación de las rentas que el Municipio deba recaudar o pagar cuando tenga el carácter de arrendador o arrendatario.
 
-#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
+#### SECCIÓN PRIMERA. DEL DOMINIO DE LOS BIENES
 
 ###### Artículo 457.
 
@@ -4610,6 +4608,8 @@ Lo dispuesto en este artículo y en el anterior, no será aplicable en el caso e
 El Ayuntamiento procederá a regularizar las demasías a que se refiere la fracción III del artículo 439 de este Código, mediante requerimiento al poseedor de las mismas para que entere el pago a la Tesorería, de lo cual se informará al Registro Público de la Propiedad para que éste realice la rectificación correspondiente.
 
 El valor de las superficies a que se refiere el párrafo anterior se fijará conforme a lo dispuesto por la fracción XI del artículo 444.
+
+#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
 
 ###### Artículo 470.
 
@@ -4750,3 +4750,9 @@ G.O. 25 DE JULIO DE 2008.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
