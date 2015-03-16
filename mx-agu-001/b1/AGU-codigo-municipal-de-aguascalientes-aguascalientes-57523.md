@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-03-09"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2879,6 +2879,10 @@ Todo lo relacionado con los riesgos profesionales y accidentes de trabajo, será
 
 Las faltas de asistencia injustificadas que tengan los trabajadores se sancionarán, reduciendo de su salario el día no trabajado, y en caso de que compute más de tres faltas en el término de treinta días será motivo suficiente para rescindir la relación laboral, sin responsabilidad para el H. Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2015)</small>
+
+ARTÍCULO 135 BIS.- Se otorgara un permiso especial con goce de sueldo a los trabajadores de cinco días laborales, por el nacimiento de sus hijos o hijas, de igual manera para los trámites de adopción de un infante, debiendo comprobarse eficazmente tal situación.
+
 APARTADO CUARTO
 
 Medidas Disciplinarias
@@ -3091,9 +3095,9 @@ VII. Adoptar las medidas de higiene y seguridad previstas por las leyes de la ma
 
 VIII. Adoptar medidas para informar, atender y sancionar la discriminación, la violencia laboral, el acoso y hostigamiento sexual;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
 
-IX. Adoptar criterios de equidad de género que se vean reflejados en la igualdad laboral y no discriminación previstas por las leyes de la materia;
+IX. Adoptar criterios de equidad de género que se vean reflejados en la igualdad laboral y la no discriminación previstas por las leyes de la materia, atendiendo en todo momento a lo dispuesto en el artículo 135 BIS de este Ordenamiento.
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -22548,3 +22552,17 @@ P.O. 12 DE ENERO DE 2015.
 P.O. 9 DE MARZO DE 2015.
 
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MARZO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Deposítese ante el H. Tribunal de Arbitraje del Estado de Aguascalientes el presente Decreto en lo que respecta al Reglamento Interior de Trabajo del Municipio de Aguascalientes,
+
+TERCERO.- Las áreas administrativas del Municipio de Aguascalientes deberán dar la debida publicidad para el conocimiento de sus trabajadores.
+
+CUARTO.- En concordancia con lo anterior esta Administración Pública actuará acorde a la misión y visión que a partir de esta publicación son las siguientes:
+
+Visión: Aguascalientes es una comunidad armónica en la que la gente buena vive en paz y con tranquilidad, en un entorno respetuoso de los derechos humanos.
+
+Misión: Ser impulsor de la inclusión social, la igualdad y el desarrollo armónico de la población de Aguascalientes, a través de una administración eficiente y transparente de los recursos, que permita a las personas recobrar la confianza y la credibilidad en las instancias municipales.
