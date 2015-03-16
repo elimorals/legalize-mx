@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2011-08-08"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -225,7 +225,7 @@ Las autoridades a las que esta Ley hace referencia quedan obligadas a difundir, 
 
 Las autoridades encargadas de aplicar y vigilar el cumplimiento de la presente Ley, podrán solicitar asesoría y apoyo de las asociaciones protectoras de animales o grupos ecologistas, para efectos de custodia temporal o definitiva de animales, así como para todos aquellos temas en que se estime procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 Corresponde a la Secretaría y a los municipios, en el marco de sus respectivas competencias, el ejercicio de las siguientes facultades:
 
@@ -239,7 +239,7 @@ IV. Crear los instrumentos económicos adecuados para incentivar a las organizac
 
 V. Las demás que le confiera esta Ley, su Reglamento y ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 5º.
 
@@ -359,7 +359,11 @@ VI. La venta o adiestramiento de animales en áreas comunes o en áreas en las q
 
 VII. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+
+VIII. Realizar espectáculos circenses que ofrezcan, ya sea como atractivo principal o secundario, la exhibición y/o participación de animales silvestres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 10.
 
@@ -519,7 +523,7 @@ En el sacrificio humanitario de los animales en general se deberá llevar a cabo
 
 Antes del sacrificio de los animales de abasto, se les deberá mantener en descanso en los corrales del rastro por un tiempo mínimo de doce horas, durante el cual deberán recibir agua limpia y alimento suficiente, salvo los animales lactantes y las aves que deberán sacrificarse inmediatamente después de su ingreso al rastro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 21.
 
@@ -543,7 +547,7 @@ b). Sacrificio.- Desangrado por corte de yugular. Este se deberá realizar antes
 
 II.- Equinos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
 
 a). Insensibilización.- Se debe utilizar una pistola de perno cautivo de penetración, aplicándose 2 cm. arriba de un punto donde se cruzan dos líneas imaginarias que unen la comisura interna del ojo con la base de la oreja opuesta. El cañón del pistolete será colocado en posición perpendicular al hueso frontal con dirección hacia la garganta, como se indica en el Apéndice C (Normativos).
 
@@ -577,7 +581,7 @@ c). Sacrificio.- Desangrado por corte de vena cava anterior. Este se deberá rea
 
 IV.- Ovinos y caprinos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
 
 a) Insensibilización.- Se debe utilizar una pistola de perno cautivo de penetración, colocada en la línea media, en el punto más alto del cráneo en la región frontal, dirigida hacia la garganta o la boca en animales adultos sin cuernos y animales jóvenes, como se indica en el Apéndice E (Normativo). En animales adultos con cuernos, se aplicará en la región frontal dirigiendo el cañón del pistolete hacia la cavidad bucal, como se indica en el Apéndice F (Normativo).
 
@@ -629,7 +633,7 @@ El sacrifico de un animal doméstico no destinado al consumo humano, sólo podr�
 
 Ningún animal podrá ser sacrificado en la vía pública, sólo en el caso de fuerza mayor o que se ponga en riesgo la integridad de las personas, los bienes o la salud pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
 
 El sacrificio de los animales de compañía, de tiro, de carga y de trabajo como perros, gatos, equinos, bovinos, entre otros, deberá realizarse de manera humanitaria, con personal capacitado y con equipo adecuado y debidamente regulado y verificado de acuerdo a la Norma Oficial Mexicana NOM-033-ZOO-1995, siguiendo las siguientes disposiciones y procedimientos:
 
@@ -671,7 +675,7 @@ Los Municipios deberán promover el establecimiento de Centros de Control, Atenc
 
 El personal que intervenga en el sacrificio de animales, deberá estar plenamente autorizado, capacitado y certificado en la aplicación de las diversas técnicas de manejo de sustancias y conocimiento de sus efectos, vías de administración y dosis requeridas, así como en métodos para el sacrificio humanitario, en estricto cumplimiento de las Normas Oficiales Mexicanas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 28.
 
@@ -689,7 +693,7 @@ III.- Realizar campañas que fomenten la conciencia de responsabilidad sobre los
 
 IV.- Proporcionar los collares de identificación de vacunación antirrábica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 29.
 
@@ -765,7 +769,7 @@ Los Centros de Control, Atención y Bienestar Animal o similares y demás depend
 
 ### CAPITULO VII. De la Experimentación con Animales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 35.
 
@@ -779,7 +783,7 @@ Ningún alumno podrá ser obligado a experimentar con animales en contra de su v
 
 Se deberá levantar un reporte por las autoridades de la Institución, respecto de la cantidad y tipo de animales por utilizar y su periodicidad, describiendo las técnicas empleadas para evitar su sufrimiento, así como los objetivos que con ello se persiguen, reporte que podrá ser auditado las veces que se estime necesario por las autoridades encargadas de aplicar la presente Ley; siendo procedente la revocación de la autorización para la experimentación con animales, de resultar falso el contenido de dicho reporte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 36.
 
@@ -1011,7 +1015,7 @@ Las disposiciones contenidas en este Capítulo se aplicarán de igual forma en l
 
 ### CAPITULO X. De la Difusión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 57.
 
@@ -1099,11 +1103,11 @@ Las autoridades impulsarán el fortalecimiento de la educación para la protecci
 
 La autoridad, en coordinación con las sociedades protectoras de animales y los productores de alimentos y academias, organizarán encuentros y concursos de habilidades de animales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
 ### CAPITULO XI BIS. Del Fondo para la Protección a los Animales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 67 Bis.
 
@@ -1129,7 +1133,7 @@ IV.- El desarrollo de las acciones establecidas en los convenios que la Secretar
 
 V.- Las demás que esta Ley, su Reglamento y otros ordenamientos jurídicos establezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 67 Ter.
 
@@ -1415,7 +1419,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE NOVIEMBRE DE 2003.
 
@@ -1456,3 +1460,9 @@ P.O. 8 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
