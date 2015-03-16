@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2014-07-07"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL P.O. 7 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -1147,19 +1145,19 @@ En los casos previstos en las fracciones II y III del presente artículo, se cum
 
 ### CAPITULO I. INSTALACION
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
 ###### Artículo 83.
 
-La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada pluralmente por ocho Diputados.
+La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada pluralmente por ocho diputados propietarios y ocho diputados suplentes que cubrirán las ausencias de los propietarios.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
 ###### Artículo 84.
 
-Por el orden de su designación se ocuparán los cargos de Presidente, Vice-Presidente, Primer Secretario, Segundo Secretario y cuatro vocales.
+Por el orden de su designación se ocuparán los cargos de Presidente, Vicepresidente, Primer Secretario, Segundo Secretario y cuatro Vocales, cada uno con sus respectivos suplentes.
 
-Los cargos señalados serán para todo el Período de Receso. Las ausencias del Presidente se cubrirán por el Vice-Presidente y las del Primer Secretario se cubrirán por el segundo secretario. Los vocales cubrirán las ausencias en los otros cargos en la forma en que se determine por acuerdo de la mayoría de los presentes.
+Los cargos señalados serán para todo el Período de Receso.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
 
@@ -1167,15 +1165,11 @@ Los cargos señalados serán para todo el Período de Receso. Las ausencias del 
 
 La Diputación Permanente tendrá Sesiones Ordinarias los viernes de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco miembros de la Permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
 ###### Artículo 86.
 
-Si para sesionar la Diputación Permanente no contare con la asistencia de uno o varios diputados que se desempeñen como vocales y por ese motivo no hubiese mayoría, se llamará a alguno o algunos de los integrantes del Congreso, preferentemente los que representen los distritos del área metropolitana, por su cercanía, para lograr la integración de esa mayoría, por lo que hace a cubrir la inasistencia de dichos vocales. De no llevarse a cabo la sesión, se pospondrá para la semana siguiente, salvo caso de urgencia, en que citará a Sesión Extraordinaria.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1998)</small>
-
-Los acuerdos de la Diputación Permanente se tomarán por el voto de la mayoría de los presentes; en caso de empate, el Presidente de la misma tendrá voto de calidad.
+Los acuerdos de la Diputación Permanente se tomarán por el voto de la mayoría de los presentes; en caso de empate; el Presidente de la misma tendrá voto de calidad.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1426,3 +1420,7 @@ P.O. 2 DE ABRIL DE 2014.
 P.O. 25 DE JUNIO DE 2014.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
