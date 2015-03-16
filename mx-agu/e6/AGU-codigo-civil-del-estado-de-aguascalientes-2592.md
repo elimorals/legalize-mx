@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2015-02-02"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -4911,9 +4911,19 @@ El patrimonio familiar es una institución de interés público, que tiene por o
 
 I.- La casa-habitación de la familia;
 
-II.- Los lotes destinados a la construcción de casa-habitación y los derechos derivados del acto jurídico que transmita la propiedad sobre el terreno objeto de este fin, siempre que la familia no cuente con casa-habitación o contando con ella, ésta no sea acorde con las necesidades o circunstancias particulares de la familia; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+
+II.- Los lotes destinados a la construcción de casa-habitación y los derechos derivados del acto jurídico que transmita la propiedad sobre el terreno objeto de este fin, siempre que la familia no cuente con casa-habitación o contando con ella, ésta no sea acorde con las necesidades o circunstancias particulares de la familia;
 
 III.- Los bienes muebles de la casa de conformidad con lo dispuesto en el Artículo 786 de este mismo Código.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+
+IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en caso de que uno o varios miembros de la familia se dediquen a esta actividad; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+
+V.- Un vehículo automotriz cuya propiedad esté debidamente acreditada y que en su primera factura de enajenación la suma de su valor total y del Impuesto al Valor Agregado no exceda los 4515 días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -12497,6 +12507,10 @@ La aceptación de las donaciones se hará en la misma forma en que éstas deban 
 
 Es nula la donación que comprenda la totalidad de los bienes del donante, si este no se reserva en propiedad o en usufructo lo necesario para vivir según sus circunstancias.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2015)</small>
+
+El donante deberá acreditar ante notario que cuenta con otros bienes para garantizar su subsistencia, tratándose de bienes inmuebles mediante la certificación que expida la Dirección General del Registro Público de la Propiedad y del Comercio del Estado o con el documento idóneo tratándose de bienes de naturaleza diversa.
+
 ###### Artículo 2219.
 
 Las donaciones serán inoficiosas en cuanto perjudiquen la obligación del donante de ministrar alimentos a aquellas personas a quienes los debe conforme a la ley.
@@ -12504,6 +12518,10 @@ Las donaciones serán inoficiosas en cuanto perjudiquen la obligación del donan
 ###### Artículo 2220.
 
 Si el que hace donación general de todos sus bienes, se reserva algunos para testar, sin otra declaración, se entenderá reservada la mitad de los bienes donados.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2015)</small>
+
+El donante deberá acreditar ante notario que cuenta con otros bienes para garantizar su subsistencia, en términos de lo dispuesto por el Artículo 2218 del presente Código.
 
 ###### Artículo 2221.
 
@@ -16329,25 +16347,23 @@ Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscri
 
 Artículo 2890 BIS.- El principio de la prioridad o prelación, consiste en que la preferencia entre derechos reales sobre un mismo inmueble o finca se determina por el orden de la presentación en el Registro y no por la fecha del título o documento que contiene el acto jurídico a registrar. La preferencia entre dos o más inscripciones o anotaciones relativas al mismo inmueble, se establecerá por la prioridad de su inscripción en el Registro Público, cualquiera que sea la fecha de su constitución. La prelación entre los diversos documentos ingresados al Registro Público, se establecerá por el día y hora, así como por el número de presentación que les sea asignado, salvo lo dispuesto en el Artículo siguiente.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
 ###### Artículo 2891.
 
-Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el Notario, deberá solicitar del Registro Público de la Propiedad el certificado sobre la existencia o inexistencia de la inscripción a favor del titular registral, sobre las anotaciones preventivas y los gravámenes que reporte el inmueble o derecho o la libertad de los mismos.
+Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse, deberá solicitar del Registro Público de la Propiedad el certificado sobre la existencia o inexistencia de la inscripción a favor del titular registral, sobre las anotaciones preventivas y los gravámenes que reporte el inmueble o derecho, o la libertad de los mismos.
 
-En dicha solicitud, deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral, requisitos sin cuyo cumplimiento será rechazada la solicitud. Una vez recibido el certificado que haya expedido el Registro Público de la Propiedad en el Estado y una vez que se haya otorgado la escritura, dará un primer aviso preventivo, dentro de los dos días hábiles siguientes, para lo cual acompañará copia certificada de la referida escritura. El registrador, una vez recibido el aviso y sin cobro de derechos, hará inmediatamente el asiento de presentación y hará la anotación de primer aviso preventivo, que tendrá vigencia por un término de 30 días hábiles contados a partir de la fecha de su presentación.
+En dicha solicitud, que surtirá efectos de primer aviso preventivo, deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con esta solicitud, y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales contados a partir de la fecha de su presentación.
 
-Derivado del primer aviso dado, se podrá expedir a costa del solicitante el Certificado correspondiente, en el que se hagan constar las anotaciones a que se refiere el primer párrafo de este Artículo.
+Derivado de la solicitud referida, se deberá expedir a costa del solicitante el certificado correspondiente, en el que se hagan constar las anotaciones a que se refiere el primer párrafo de este Artículo.
 
-Si mientras tanto se presentaren al Registro otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los treinta días hábiles posteriores al primer aviso del Notario no se hubiere dado el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada y autorizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
+Si mientras tanto se presentare al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los treinta días naturales posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
 
-Dentro del plazo de treinta días a que se refiere el párrafo segundo de este Artículo, el Notario ante quien se otorgó la escritura, dará al Registro, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo segundo, la fecha de la escritura y la de su firma, el instrumento y volumen, de lo que se tomará razón. El Registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan. Una vez dado el segundo aviso preventivo el Registrador en los subsecuentes certificados que expida dejará constancia del mismo.
+Una vez firmada una escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo primero, el Notario ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo segundo de este Artículo, la fecha de la escritura y la de su firma, el instrumento y volumen, de lo que se tomará razón. El Registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan. Una vez dado el segundo aviso preventivo el Registrador en los subsecuentes certificados que expida dejará constancia del mismo.
 
-En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de treinta días que se ha señalado, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
+En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de treinta días a que se refiere el párrafo segundo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
 
-Si el testimonio respectivo se presenta al Registro dentro del término de treinta días que se ha señalado, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
-
-La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
+Si el testimonio respectivo se presenta al Registro dentro del término a que se refiere el párrafo segundo de este Artículo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
@@ -16924,3 +16940,27 @@ P.O. 2 DE FEBRERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+DECRETO NÚMERO 156, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2218 Y AL ARTÍCULO 2220 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+DECRETO NÚMERO 160, POR EL QUE SE REFORMAN LA FRACCIÓN II, ASIMISMO SE ADICIONAN LAS FRACCIONES IV Y V AL ARTÍCULO 746 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+DECRETO NÚMERO 161, POR EL QUE SE REFORMA EL ARTÍCULO 2891 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
