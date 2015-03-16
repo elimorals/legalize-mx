@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-para-la-regularizacion-de-739
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-30"
-last_updated: "2010-01-30"
+last_updated: "2015-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA URBANA DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA COMISION PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA URBANA DEL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA COMISIÓN PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA URBANA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA URBANA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 30 de enero de 2010.
 
@@ -518,3 +520,13 @@ DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE ECOLOGIA
 COMISARIO
 
 LIC. ANGELICA VERONICA BAÑOS DIAZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 16 DE MARZO DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Comisión para la Regularización de la Tenencia de la Tierra Urbana del Estado de Oaxaca publicado el 30 de enero del 2010, en el Periódico Oficial del Gobierno del Estado de Oaxaca No. 5.
+
+TERCERO. Las disposiciones contenidas en el presente Reglamento Interno prevalecerán sobre aquellas de igual o menor rango que se opongan, aún cuando no estén expresamente abrogadas.
