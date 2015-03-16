@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2010-12-24"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
 
-LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -73,13 +73,23 @@ IX.- Menores, ancianos o inválidos que dependan económicamente de quien se enc
 
 X.- Habitantes del medio rural y del urbano marginados, que carezcan de lo indispensable para su subsistencia y estén incapacitados para valerse por sí mismos;
 
-XI.- Mujeres en estado de gestación o de lactancia que no puedan valerse por sí mismas, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
 
-XII.- Personas víctimas de desastres.
+XI.- Mujeres en estado de gestación o de lactancia que no puedan valerse por sí mismas;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+
+XII.- Personas víctimas de desastres; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+
+XIII.- Personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 5o.
 
-Los servicios de salud en materia de asistencia social comprenderán las medidas necesarias de prevención para evitar el aumento de los suejtos (sic) receptores de dichos servicios.
+Los servicios de salud en materia de asistencia social comprenderán las medidas necesarias de prevención para evitar el aumento de los sujetos receptores de dichos servicios, así como de atención conforme a los apoyos que gestione el Organismo para las personas con padecimientos crónicos u oncológicos en los términos del artículo 13 de esta Ley.
 
 ###### ARTICULO 6o.
 
@@ -147,7 +157,11 @@ XVII.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás vici
 
 XVIII.- La prestación de servicios para la prevención y la atención de las causas y los efectos de la violencia familiar;
 
-XIX.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+
+XIX.- Apoyo a personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permite valerse por sí mismas; y
+
+XX.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
 
@@ -231,11 +245,15 @@ XXIV.- Participar en coordinación con la Secretaría Estatal de Salud en el est
 
 XXV.- Establecer y dar seguimiento a los programas tendientes a prevenir y atender las causas y efectos de la violencia familiar;
 
-> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
 
-XXVI.- Brindar atención psicológica a los menores u otros incapaces sujetos a violencia familiar así como a los abandonados y en general a quienes requieran de este apoyo, incluyendo en su caso a los sujetos generadores de violencia familiar, en los términos y condiciones que dictamine el propio Organismo u ordene la autoridad judicial competente; y
+XXVI.- Brindar atención psicológica a los menores u otros incapaces sujetos a violencia familiar así como a los abandonados y en general a quienes requieran de este apoyo, incluyendo en su caso a los sujetos generadores de violencia familiar, en los términos y condiciones que dictamine el propio Organismo u ordene la autoridad judicial competente;
 
-XXVII.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+
+XXVII.- Gestionar apoyos a personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas; y
+
+XXVIII.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 14o.
 
@@ -501,7 +519,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE ENERO DE 1996.
 
@@ -532,5 +550,9 @@ P.O. 26 DE MAYO DE 2010.
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
