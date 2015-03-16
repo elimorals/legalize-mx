@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2014-09-29"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -75,7 +75,9 @@ La violencia de género contra las mujeres, de manera enunciativa, no limitativa
 
 I. La violencia doméstica;
 
-II. El embarazo y su interrupción obligados;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+
+II. La originada con motivo de embarazo y su interrupción obligados, así como la solicitud de certificados de no gravidez para ocupar un puesto laboral;
 
 III. La selección prenatal del sexo;
 
@@ -157,7 +159,9 @@ III. La violencia sexual: Es la acción u omisión mediante la cual se induce o 
 
 IV. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a bienes comunes o propios de la víctima;
 
-V. La violencia económica: Es toda acción u omisión del hombre violento que afecta la supervivencia económica de la mujer. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso económico, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+
+V. La violencia económica y laboral: La económica es toda acción u omisión del hombre violento que afecta la supervivencia económica de la mujer. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso económico, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; la laboral es aquella ejercida en tal ámbito en términos del Artículo 12 de la presente Ley, así como cualquier limitación para que una mujer pueda ocupar un cargo o puesto laboral por encontrarse en estado de gravidez; y
 
 VI. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
@@ -1152,3 +1156,9 @@ P.O. 29 DE SEPTIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
