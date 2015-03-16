@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-aguascalentense-para-la-6196
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2012-12-10"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL AGUASCALENTENSE PARA LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de julio de 2008.
 
@@ -171,27 +171,35 @@ II. La Directora o el Director General del Instituto.
 
 III. El Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 8°.
 
 La Junta de Gobierno estará integrada por:
 
-I. La Presidenta o el Presidente Municipal, quien tendrá el carácter de Presidente/a de la Junta.
+I. El Presidente Municipal, quien fungirá como Presidente de la Junta;
 
-II. La Regidora o el Regidor Presidente/a de la Comisión de Educación y Cultura del Honorable Ayuntamiento, quien tendrá el carácter de Secretaria Técnica o Secretario Técnico de la Junta.
+II. Titular Presidente(a) de la Comisión Permanente de Cultura, quien tendrá el carácter de Secretario(a) Técnico(a) de la Junta;
 
-III. La Regidora o el Regidor Presidente/a de la Comisión de Gobernación del Honorable Ayuntamiento.
+III. Titular Presidente(a) de la Comisión Permanente de Educación, Juventud y Deporte;
 
-IV. La Regidora o el Regidor Presidente/a de la Comisión de Desarrollo Económico, Turismo y Asuntos Internacionales del Honorable Ayuntamiento.
+IV. Titular Presidente(a) de la Comisión Permanente de Desarrollo Económico, Turismo y Asuntos Internacionales;
 
-V. La Secretaria o Secretario del H. Ayuntamiento y Directora o Director General de Gobierno del Municipio.
+V. Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-VI. La Secretaria o Secretario de Finanzas Públicas del Municipio.
+VI. Titular de la Secretaría de Finanzas;
 
-VII. La Secretaria o Secretario de Integración Social del Municipio.
+VII. Titular de la Secretaría de Desarrollo Social;
 
-VIII. Por dos miembros más, designados por el Consejo Consultivo para la Cultura y las Artes del Municipio de Aguascalientes, prefiriéndose para ello a personas que tengan una destacada trayectoria cultural. Las o los integrantes de la Junta de Gobierno deberán proponer una persona que los supla, en el caso de que no puedan acudir a alguna de las sesiones de la misma. La persona propuesta como suplente deberá ser aprobada por la misma Junta. A convocatoria de la Secretaria Técnica o el Secretario Técnico de la Junta de Gobierno, ésta se reunirá, en forma ordinaria, cada seis meses y, en forma extraordinaria, cuando haya asuntos urgentes que tratar.
+VIII. Dos integrantes representantes del Consejo Consultivo para la Cultura y las Artes del Municipio, quienes serán designados por dicho órgano de consulta en función de una destacada trayectoria cultural.
+
+Todos los integrantes de la Junta contarán con voz y voto. En caso de empate, el Presidente contará con voto de calidad.
+
+Los integrantes de la Junta tendrán una representación exclusivamente honorifica y no podrán recibir compensación alguna por este motivo.
+
+Los integrantes de la Junta de Gobierno podrán nombrar un suplente que los represente en casos de ausencia. Dicha suplencia deberá ser aprobada por la Junta de Gobierno y contará con los mismos derechos del propietario.
+
+A convocatoria del Secretario(a) Técnico(a), la Junta de Gobierno sesionará de forma ordinaria en los meses de enero y julio, y de manera extraordinaria cuando haya asuntos urgentes que tratar.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -516,3 +524,9 @@ TERCERO. Los procedimientos de contratación, de aplicación de sanciones, y de 
 Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Reglamento, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
 
 CUARTO. En tanto no sean publicadas las Normas de comprobación de gastos por viáticos, caja chica y realización de eventos por personal del Instituto Municipal Aguascalentense para la Cultura se aplicarán las disposiciones jurídicas contenidas en las Nomas de Control que para tal efecto emite la Contraloría Municipal para la comprobación de dichos gastos.
+
+P.O. 16 DE MARZO DE 2015.
+
+PRIMERO.-La presente reforma al Reglamento del Instituto Municipal Aguascalentense para la Cultura entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Una vez que la presente reforma entre en vigor, la Junta de Gobierno del Instituto Municipal Aguascalentense para la Cultura deberá tomar protesta al Titular Presidente(a) de la Comisión Permanente de Educación, Juventud y Deporte y a su suplente, dentro su próxima sesión a convocarse.
