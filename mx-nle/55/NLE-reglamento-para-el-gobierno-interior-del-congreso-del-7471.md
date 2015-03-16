@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2014-12-17"
+last_updated: "2015-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1727,11 +1727,13 @@ El dictamen será leído por uno o varios miembros de la comisión que lo presen
 
 La Asamblea podrá acordar aplazar su discusión y aprobación fijando una fecha posterior para ello.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
 ###### Artículo 112.
 
-Todo dictamen relativo a una iniciativa de Ley, se conocerá y discutirá en lo general, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. De aprobarse en lo general, en esa misma sesión, se discutirá la iniciativa de Ley en lo particular, separando los artículos que lo ameriten y solamente éstos se someterán a votación de la Asamblea.
+Todo dictamen relativo a una iniciativa de Ley se conocerá por la Asamblea; acto seguido, el Presidente preguntará si existen reservas en lo particular por parte de los Diputados, las cuales únicamente serán enunciadas por el número de artículo. Las reservas en lo particular serán anotadas por el Primer Secretario.
+
+Posteriormente se discutirá el dictamen en lo general y se someterá a votación; en caso de no ser aprobado en tal sentido, se tendrá por desechado. En caso de aprobarse en lo general, acto seguido se discutirán los artículos reservados en lo particular en forma creciente de número de artículo, quedando aprobados todos los artículos no reservados. Si se desechan por parte de la Asamblea las propuestas de los artículos reservados, se tendrán por aprobados en la forma que se contienen en el dictamen correspondiente. En caso de que se aprueben por la Asamblea las propuestas de los artículos reservados, se incorporará el nuevo texto aprobado en el Decreto respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2006)</small>
 
@@ -2432,3 +2434,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 17 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
