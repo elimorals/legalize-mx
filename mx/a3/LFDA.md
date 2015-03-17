@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2014-07-14"
+last_updated: "2015-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -1116,9 +1116,17 @@ Las personas morales no podrán valerse de lo dispuesto en esta fracción salvo 
 
 V. Reproducción de una sola copia, por parte de un archivo o biblioteca, por razones de seguridad y preservación, y que se encuentre agotada, descatalogada y en peligro de desaparecer;
 
-VI. Reproducción para constancia en un procedimiento judicial o administrativo, y
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2015)</small>
 
-VII. Reproducción, comunicación y distribución por medio de dibujos, pinturas, fotografías y procedimientos audiovisuales de las obras que sean visibles desde lugares públicos.
+VI. Reproducción para constancia en un procedimiento judicial o administrativo;
+
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2015)</small>
+
+VII. Reproducción, comunicación y distribución por medio de dibujos, pinturas, fotografías y procedimientos audiovisuales de las obras que sean visibles desde lugares públicos; y
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
+
+VIII. Publicación de obra artística y literaria sin fines de lucro para personas con discapacidad.
 
 ###### Artículo 149.
 
@@ -1514,7 +1522,7 @@ No prescriben en favor de las sociedades de gestión colectiva y en contra de lo
 
 ###### Artículo 199.
 
-El Instituto otorgará las autorizaciones a que se refiere el artículo 193 concurren (sic) las siguientes condiciones:
+El Instituto otorgará las autorizaciones a que se refiere el artículo 193 concurren las siguientes condiciones:
 
 I. Que los estatutos de la sociedad de gestión colectiva solicitante cumplan, a juicio del Instituto, con los requisitos establecidos en esta Ley;
 
@@ -2265,6 +2273,10 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 17 DE MARZO DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
