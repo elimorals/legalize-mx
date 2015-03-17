@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-del-transporte-para-el-estado-de-puebla-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-13"
-last_updated: "2014-01-20"
+last_updated: "2015-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2014
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2015.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de agosto de 1999.
 
@@ -55,27 +55,29 @@ El presente Reglamento tiene por objeto proveer en el orden administrativo, el c
 
 Las disposiciones contenidas en este Reglamento son de orden público y de aplicación en todo el Estado, debiendo ceñirse a ellas autoridades y particulares.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 3.
 
-Corresponde a la Secretaría y a la Contraloría, en el respectivo ámbito de sus competencias, la aplicación e interpretación del Reglamento, en términos del artículo 2 de la Ley del Transporte para el Estado de Puebla.
+Corresponde a la Secretaría, a Carreteras de Cuota-Puebla y a la Contraloría, en el respectivo ámbito de sus competencias, la aplicación e interpretación del Reglamento, en términos del artículo 2 de la Ley del Transporte para el Estado de Puebla.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 4.
 
 Para efectos de este Reglamento, se entenderá por:
 
-I. Secretaría: La Secretaría de Transportes;
+I.- Secretaría: La Secretaría de Infraestructura y Transportes;
 
-II. Contraloría: La Secretaría de la Contraloría;
+II.- Carreteras de Cuota-Puebla: el Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla;
 
-III. Ley: La Ley del Transporte para el Estado de Puebla;
+III.- Contraloría: La Secretaría de la Contraloría;
 
-IV. Reglamento: El Reglamento de la Ley del Transporte para el Estado de Puebla, y
+IV.- Ley: La Ley del Transporte para el Estado de Puebla;
 
-V. Secretario: El Secretario de Transportes.
+V.- Reglamento: El Reglamento de la Ley del Transporte para el Estado de Puebla, y
+
+VI.- Secretario: El Secretario de Infraestructura y Transportes.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES DEL TRANSPORTE Y LOS SUPERVISORES
 
@@ -85,13 +87,15 @@ V. Secretario: El Secretario de Transportes.
 
 Las autoridades reconocidas por la Ley y en el presente Reglamento, en el ámbito de sus respectivas competencias, podrán en todo momento, fundando y motivando su actuación, cancelar o dejar sin efectos sus actos administrativos.
 
-En contra de dicha resolución, procederá el Recurso de Inconformidad, mismo que deberá ser promovido ante la Dependencia del cual haya emanado el acto que se recurra.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+En contra de dicha resolución, procederá el recurso administrativo correspondiente, que deberá ser promovido ante la autoridad que haya emitido el acto que se recurra.
 
-ARTÍCULO 5 BIS.- La Secretaría, en el ejercicio de las atribuciones previstas en la Ley y el presente Reglamento, tendrá la facultad de elaborar boletas de infracción e imponer las sanciones correspondientes, cuando derivado de revisiones administrativas se observe el incumplimiento de las disposiciones contenidas en la Ley y este Reglamento.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-Asimismo, la Secretaría, en el ámbito de su competencia, revisará la documentación necesaria que deben portar los conductores de los vehículos, para la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de la documentación personal relativa al servicio que prestan.
+ARTÍCULO 5 BIS.- La Secretaría y Carreteras de Cuota-Puebla, en el ejercicio de las atribuciones previstas en la Ley y el presente Reglamento, tendrán la facultad de elaborar boletas de infracción e imponer las sanciones correspondientes, cuando derivado de revisiones administrativas se observe el incumplimiento de las disposiciones contenidas en la Ley y este Reglamento.
+
+Asimismo, la Secretaría y Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, revisarán la documentación necesaria que deben portar los conductores de los vehículos, para la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de la documentación personal relativa al servicio que prestan.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -101,7 +105,9 @@ La Contraloría vigilará en forma permanente que el Servicio Público de Transp
 
 En la práctica de supervisiones e inspecciones con motivo de la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil, así como de los Servicios Auxiliares, la Contraloría podrá hacer uso de todos aquellos elementos o instrumentos aportados por la ciencia y la tecnología.
 
-La Contraloría remitirá a la Secretaría la información que resulte de las actividades de supervisión y vigilancia, que sean necesarias para que la Secretaría ejerza las facultades que le corresponden.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+La Contraloría remitirá a la Secretaría o a Carreteras de Cuota-Puebla, según sea el caso, la información que resulte de las actividades de supervisión y vigilancia, que sean necesarias para que ejerzan las facultades correspondientes.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -125,7 +131,7 @@ III.- Practicar Inspecciones a los vehículos del Servicio Público de Transport
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Participar conjuntamente con las autoridades correspondientes en la supervisión de las instalaciones de gas y en los operativos que se realicen a los lugares no autorizados para la carga de combustible de los vehículos automotores del Servicio Público de Transporte y del Servicio Mercantil;
+IV.- Participar conjuntamente con las autoridades correspondientes en la supervisión de las instalaciones de gas y en los operativos que se realicen a los lugares no autorizados para la carga de combustible de los vehículos automotores del Servicio Público de Transporte y del Servicio Mercantil, y
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -143,11 +149,11 @@ VII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los 
 
 VIII.- Las demás que les confiera la Ley y el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 9.
 
-Los supervisores están facultados para proceder en los casos en que los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, contravengan alguna de las disposiciones de la Ley y el presente Reglamento, levantando, en su caso, las boletas de infracciones en los términos que establecen la Ley, el presente Reglamento y demás ordenamientos vigentes en la materia, mismas que se sancionarán de acuerdo al tabulador autorizado por la Secretaría y por la Contraloría.
+Los supervisores están facultados para proceder en los casos en que los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, contravengan alguna de las disposiciones de la Ley y el presente Reglamento, levantando, de ser procedente, las boletas de infracciones en los términos que establecen la Ley, el presente Reglamento y demás ordenamientos vigentes en la materia, mismas que se sancionarán de acuerdo al tabulador autorizado por la Secretaría o por Carreteras de Cuota-Puebla, en su caso, o por la Contraloría.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -245,27 +251,31 @@ f).- Giros Restringidos.
 
 IV.- Servicio de Transporte Complementario.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 16.
 
-El Servicio Público de Transporte a que se refiere la fracción I del artículo anterior, tendrá paradas preestablecidas, de acuerdo a lo que se determine en función del estudio técnico que la Secretaría lleve a cabo.
+El Servicio Público de Transporte a que se refiere la fracción I del artículo anterior, tendrá paradas preestablecidas, de acuerdo a lo que se determine en función del estudio técnico que la autoridad competente lleve a cabo.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 17.
 
-Se consideran vehículos del Servicio Público de Transporte, aquéllos con los que se lleva a cabo de manera continua, uniforme, regular y permanente, el traslado de pasajeros en la infraestructura vial, para satisfacer necesidades de la comunidad y en el cual los usuarios cubrirán como contraprestación la tarifa previamente autorizada por la Secretaría.
+Se consideran vehículos del Servicio Público de Transporte, aquéllos con los que se lleva a cabo de manera continua, uniforme, regular y permanente, el traslado de pasajeros en la infraestructura vial, para satisfacer necesidades de la comunidad y en el cual los usuarios cubrirán como contraprestación la tarifa previamente autorizada por la Secretaría o por Carreteras de Cuota-Puebla, en su caso.
 
 ###### ARTÍCULO 18.
 
 Son vehículos del Servicio de Transporte Mercantil, aquéllos que sin prestar un servicio público, por el tipo de actividad comercial que desarrollan sus propietarios o poseedores, prestan un servicio a terceros, o que llevan a cabo los propietarios de los vehículos, como parte de sus actividades comerciales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-Estando comprendido el transporte de pasajeros dentro de los servicios urbano y suburbano, los vehículos que la Secretaría autorice para su prestación, deberán cumplir con todas las condiciones operativas que obligan a los concesionarios del Servicio Público de Transporte y con las limitaciones que para el tipo de vehículos de transporte de pasajeros imponen los ordenamientos aplicables.
+Estando comprendido el transporte de pasajeros dentro de los servicios urbano y suburbano, los vehículos que la Secretaría o Carreteras de Cuota-Puebla apruebe para su prestación, deberán cumplir con todas las condiciones operativas que obligan a los concesionarios del Servicio Público de Transporte y con las limitaciones que para el tipo de vehículos de transporte de pasajeros imponen los ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
-Los autobuses, minibuses y microbuses o los vehículos que a juicio de la Secretaría reúnan las condiciones para prestar el Servicio Público de Transporte de Pasajeros, deberán reunir como mínimo, los siguientes requisitos:
+Los autobuses, minibuses y microbuses o los vehículos que a juicio de la autoridad reúnan las condiciones para prestar el Servicio Público de Transporte de Pasajeros, deberán reunir como mínimo, los siguientes requisitos:
 
 I.- Los asientos deberán ser cubiertos de material susceptible de fácil aseo y que ofrezca presentación y comodidad para los usuarios;
 
@@ -287,19 +297,21 @@ VIII.- Los autobuses deberán estar provistos de defensas, colocadas sin sobresa
 
 IX.- La alimentación de combustible, no deberá quedar instalada en el interior de la carrocería, el tapón del tanque del combustible estará en el exterior del vehículo;
 
-X.- Deberán llevar en el interior del vehículo los avisos de subida y bajada, la prohibición de fumar y tirar basura en el interior, la velocidad máxima autorizada y todos aquéllos que a juicio de la Secretaría, deban anotarse para la seguridad de los usuarios y la del vehículo;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+X.- Deberán llevar en el interior del vehículo los avisos de subida y bajada, la prohibición de fumar y tirar basura en el interior, la velocidad máxima autorizada y todos aquéllos que a juicio de la autoridad competente, deban anotarse para la seguridad de los usuarios y la del vehículo;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-XI.- Estarán equipados con sistema de ventilación indirecta, procurando que la renovación del aire en el interior resulte efectiva;
+XI.- Estarán equipados con sistema de ventilación indirecta, procurando que la renovación del aire en el interior resulte efectiva, y
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 XII.- Contarán con el equipo de emergencia, que previene la fracción IX del artículo 24 de este Reglamento; y
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XIII.- El exterior del vehículo deberá estar rotulado con los colores y número económico que le asigne la Secretaría, sin menoscabo de las especificaciones técnicas establecidas o aquéllas que sean requeridas por ésta para el exterior e interior del vehículo.
+XIII.- El exterior del vehículo deberá estar rotulado con los colores y número económico que le asigne la autoridad del transporte competente, sin menoscabo de las especificaciones técnicas establecidas o aquéllas que sean requeridas por ésta para el exterior e interior del vehículo.
 
 ###### ARTÍCULO 20.
 
@@ -317,7 +329,7 @@ II.- De Sitio.- Sujetándose a las mismas condiciones del servicio anterior, los
 
 Los vehículos que se utilicen para prestar el servicio de Transporte Mercantil de Personas, en automóviles de alquiler o taxi, deberán satisfacer los siguientes requisitos:
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 I.- Los que tengan registro para prestar el servicio en la jurisdicción del Municipio de Puebla, deberán estar pintados de color negro con el toldo en color amarillo tránsito; los que tengan registro para prestar el servicio en los demás Municipios del Estado, será obligatorio estar pintados en color azul claro y las puertas en color crema, a excepción de los que no pertenezcan a las cabeceras municipales los que además deberán estar pintados con una franja de color naranja de 30 centímetros de ancho, que atraviese la parte central del cofre, toldo y cajuela del vehículo.
 
@@ -377,11 +389,15 @@ XV. Cristales, medallón y parabrisas en óptimo estado, con limpiadores automá
 
 XVI. Con defensas, delantera y posterior;
 
-XVII. Dispositivos que eviten toda clase de contaminación atmosférica, por ruido o visual. Queda prohibido utilizar válvulas de escape, derivaciones u otras adaptaciones que produzcan contaminación por ruido, así como utilizar equipos de sonido no autorizados por la Secretaría, en el ámbito de su competencia. Los escapes de los autobuses deben ser instalados en forma horizontal;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XVII. Dispositivos que eviten toda clase de contaminación atmosférica, por ruido o visual. Queda prohibido utilizar válvulas de escape, derivaciones u otras adaptaciones que produzcan contaminación por ruido, así como utilizar equipos de sonido no aprobados por la autoridad del transporte competente. Los escapes de los autobuses deben ser instalados en forma horizontal;
 
 XVIII. Un extintor contra incendios y triángulos reflejantes o señales luminosas para el caso de quedar estacionado durante la noche;
 
-XIX. Con un dispositivo electrónico o mecánico, en su caso, que regule la velocidad para que circulen a una máxima de sesenta kilómetros por hora para las rutas urbanas y para el resto con los dispositivos y la velocidad que determine la Secretaría, previo estudio técnico que para tal efecto se elabore, conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XIX. Con un dispositivo electrónico o mecánico, en su caso, que regule la velocidad para que circulen a una máxima de sesenta kilómetros por hora para las rutas urbanas y para el resto con los dispositivos y la velocidad que determine la Secretaría o Carreteras de Cuota-Puebla, según corresponda, previo estudio técnico que para tal efecto se elabore, conforme a la normatividad aplicable;
 
 XX. De un contador de pasajeros, y
 
@@ -391,7 +407,9 @@ Los documentos previstos en las fracciones I, II, V, VI y VII invariablemente de
 
 Los documentos previstos en las fracciones III y IV podrán ser portados en original o copia certificada.
 
-Además los concesionarios están obligados a que los vehículos reúnan los requisitos de seguridad, funcionalidad y comodidad que señale la Secretaría, la Ley y sus Reglamentos.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Además los concesionarios y permisionarios están obligados a que los vehículos reúnan los requisitos de seguridad, funcionalidad y comodidad que señale la Secretaría o Carreteras de Cuota-Puebla, según el caso, la Ley y sus Reglamentos.
 
 ###### ARTÍCULO 25.
 
@@ -493,13 +511,17 @@ Los objetos, mercancías y bultos que se transporten, no deben sobresalir de la 
 
 Los remolques que se adapten a otros vehículos deberán llevar en la parte posterior un señalamiento que proyecte luz roja claramente visible a una distancia de cien metros; la placa posterior de identificación será iluminada por luz blanca y llevará indicadores de la altura de este tipo de vehículos, con el señalamiento correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 40.
 
-Los vehículos del Servicio Público de Transporte o Servicio de Transporte Mercantil de Pasajeros que realicen viajes especiales o de servicio extraordinario, además de solicitar un permiso especial a la Secretaría, deberán ajustarse a las normas que al respecto fijen las leyes de la materia del servicio de que se trate.
+Los vehículos del Servicio Público de Transporte o Servicio de Transporte Mercantil de Pasajeros que realicen viajes especiales o de servicio extraordinario, además de solicitar un permiso especial a la Secretaría, o a Carreteras de Cuota-Puebla, según corresponda, deberán ajustarse a las normas que al respecto fijen las leyes de la materia del servicio de que se trate.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 41.
 
-La sustitución o cambio de los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil deberán sujetarse a la autorización previa que, de manera general o particular, expida la Secretaría en los términos que fijen el Manual de Procedimientos, los ordenamientos respectivos y el presente Reglamento, estando prohibido circular con placas que no correspondan al vehículo autorizado.
+La sustitución o cambio de los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil deberán sujetarse a la autorización previa que, de manera general o particular, expida la Secretaría o Carreteras de Cuota-Puebla, según corresponda, en los términos que fijen el Manual de Procedimientos, los ordenamientos respectivos y el presente Reglamento, estando prohibido circular con placas que no correspondan al vehículo autorizado.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -509,31 +531,39 @@ La Contraloría tiene la facultad de retirar temporal o definitivamente de la ci
 
 Asimismo, podrá retirar vehículos cuyos conductores porten licencia, tarjetón de concesión o de identificación falsos o apócrifos.
 
-### CAPÍTULO II. DEL REGISTRO ESTATAL VEHICULAR, DE CONCESIONES Y PERMISOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+### CAPÍTULO II. DE LOS REGISTROS ESTATALES VEHICULARES, DE CONCESIONES Y PERMISOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 43.
 
-La Secretaría integrará y operará los registros que contengan la información relativa a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, así como de las concesiones, permisos, autorizaciones, licencias, líneas, rutas, sitios, bases e itinerarios.
+La Secretaría integrará y operará los registros que contengan la información relativa a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, así como de las concesiones, permisos, autorizaciones, licencias, líneas, rutas, sitios, bases e itinerarios. Carreteras de Cuota-Puebla llevará un registro respecto del Sistema de Transporte Público Masivo.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 La Contraloría para el correcto ejercicio de las atribuciones que le otorga la Ley de la materia, podrá acceder, en términos del convenio que para tal efecto se celebre, a los registros señalados en el párrafo anterior, y de ser necesario a los expedientes respectivos.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-ARTÍCULO 43 BIS.- Las rutas del Servicio Público de Transporte estarán integradas por el número de concesiones que correspondan, de conformidad con el itinerario autorizado por la Secretaría. Independientemente de la forma de integración de la ruta, ya sea por personas físicas y/o jurídicas, éstas deberán designar un representante común ante la Secretaría, quien podrá presentar la solicitud o solicitudes de la ruta para su trámite correspondiente.
+ARTICULO 43 BIS.- Las rutas del Servicio Público de Transporte estarán integradas por el número de concesiones que correspondan, de conformidad con el itinerario autorizado por la Secretaría o por Carreteras de Cuota-Puebla, según sea el caso. Independientemente de la forma de integración de la ruta, ya sea por personas físicas o jurídicas, éstas deberán designar un representante común ante la autoridad del transporte competente, quien podrá presentar la solicitud o solicitudes de la ruta para su trámite respectivo.
 
-La Secretaría expedirá el documento en que reconozca y acredite con tal carácter a quien haya sido designado para este efecto.
+La Secretaría y Carreteras de Cuota-Puebla, en el ámbito de sus competencias, expedirán el documento en que se reconozca y acredite con tal carácter a quien haya sido designado para este efecto.
 
-Las rutas a que hace referencia este artículo deberán contar con la clave única, que será asignada conforme al acuerdo correspondiente que emita la Secretaría.
+Las rutas a que hace referencia este artículo deberán contar con la clave única, que será asignada conforme al acuerdo correspondiente que emita la Secretaría o Carreteras de Cuota-Puebla, según sea el caso.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 44.
 
-La Secretaría en cumplimiento de las disposiciones relativas de la Ley, tomará las medidas necesarias para integrar el registro a que hace referencia el artículo anterior, el cual deberá mantener permanentemente actualizada toda la información.
+La Secretaría y Carreteras de Cuota-Puebla en cumplimiento de las disposiciones relativas de la Ley, y en el ámbito de sus respectivas competencias, tomarán las medidas necesarias para integrar los registros a que hace referencia el artículo 43, los que deberán mantener permanentemente actualizada toda la información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 45.
 
-Los datos con los que se integrará el Registro Estatal Vehicular y de Concesiones y Permisos, serán los siguientes en forma enunciativa:
+Los datos con los que se integrarán los Registros Estatales Vehiculares y de Concesiones y Permisos, serán los siguientes en forma enunciativa:
 
 I.- Número de concesión o permiso;
 
@@ -553,9 +583,9 @@ VIII.- Clave de itinerario;
 
 IX.- Número del expediente que ampare la documentación de la concesión o permiso, y
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-X.- El número económico del vehículo otorgado por la Secretaría.
+X.- El número económico del vehículo otorgado por la Secretaría o por Carreteras de Cuota-Puebla, según corresponda
 
 ###### ARTÍCULO 46.
 
@@ -565,9 +595,11 @@ Los vehículos destinados a la prestación del Servicio Público de Transporte y
 
 De conformidad con lo señalado en los artículos anteriores, se expedirá el tipo de placas así como la documentación necesaria para vehículos del Servicio Público de Transporte y del Servicio Mercantil, en sus distintas clases de servicio.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 48.
 
-Las placas para los vehículos del Servicio Público de Transporte y del Servicio Mercantil se colocarán invariablemente en las partes anterior y posterior de los vehículos, en los lugares destinados para ese objeto, debiendo quedar completamente visibles. La Secretaría, proporcionará además dos calcomanías, una con el número de placas y otra con un código de barras, que deberá colocarse en el interior del vehículo en el lugar que se designe. En caso de substitución del vehículo se deberá tramitar un nuevo juego de placas y calcomanías que substituyan a las anteriores, previo el procedimiento que fije la Secretaría.
+Las placas para los vehículos del Servicio Público de Transporte y del Servicio Mercantil se colocarán invariablemente en las partes anterior y posterior de los vehículos, en los lugares destinados para ese objeto, debiendo quedar completamente visibles. La autoridad competente proporcionará además dos calcomanías, una con el número de placas y otras con un código de barras, que deberá colocarse en el interior del vehículo en lugar que se designe. En caso de substitución del vehículo se deberá tramitar un nuevo juego de placas y calcomanías que substituyan a los anteriores, previo el procedimiento que fije la autoridad competente.
 
 ###### ARTÍCULO 49.
 
@@ -583,31 +615,43 @@ Se negará o cancelará el registro; o se anulará cualquier trámite encaminado
 
 Cuando se trate de la substitución de un vehículo destinado al Servicio Público de Pasajeros, el trámite se hará cubriendo los siguientes requisitos:
 
-I.- Presentar solicitud por triplicado de acuerdo con el modelo que proporcionará la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+I.- Presentar solicitud por triplicado de acuerdo con el modelo que proporcionará la autoridad del transporte competente;
 
 II.- Justificar que el propietario del vehículo substituto se encuentra al corriente en el pago de impuestos, derechos o multas que sean consecuencia de la propiedad del vehículo;
 
-III.- Entregar a la Secretaría la tarjeta de circulación y las placas con las que haya circulado el vehículo;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-IV.- Exhibir la documentación que ampare la propiedad del vehículo que substituirá al anterior, cuyo modelo deberá sujetarse a las disposiciones que marque al respecto, el Titular de la Secretaría, y
+III.- Entregar a la autoridad del transporte competente la tarjeta de circulación y las placas con las que haya circulado el vehículo;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+IV.- Exhibir la documentación que ampare la propiedad del vehículo que substituirá al anterior, cuyo modelo deberá sujetarse a las disposiciones que marque al respecto, la autoridad del transporte competente, y
 
 V.- Exhibir carta compromiso para adquirir dentro del término de treinta días el seguro a que se refiere el artículo 38 de la Ley, una vez que se haya aprobado la substitución del vehículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 52.
 
-Las placas y tarjetas de circulación de los vehículos del Servicio Público de Transporte y del Servicio Mercantil son intransferibles. En caso de cambio de propietario del vehículo, por venta, permuta, adjudicación o cualquier otro medio de traslación de la propiedad, previa autorización de la Secretaría el propietario anterior debe darlo de baja para que la Secretaría haga la anotación correspondiente en el expediente y registro vehicular.
+Las placas y tarjetas de circulación de los vehículos del Servicio Público de Transporte y del Servicio Mercantil son intransferibles. En caso de cambio de propietario del vehículo, por venta, permuta, adjudicación o cualquier otro medio de traslación de la propiedad, previa autorización de la autoridad competente, el propietario anterior debe darlo de baja para que se haga la anotación correspondiente en el expediente y registro vehicular respectivo.
 
 En caso de cesión de derechos de la concesión, podrá seguir el mismo vehículo que ampare la concesión, dándose los avisos correspondientes para que se anoten en el expediente y el registro vehicular, en el entendido que dicho acto deberá ajustarse a lo que dispone el artículo 54 de la Ley de la Materia.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 53.
 
-En caso de robo o pérdida de una o ambas placas o de la tarjeta de circulación el interesado deberá presentar la denuncia correspondiente ante el Ministerio Público; notificarlo inmediatamente a la Secretaría adjuntando copia certificada de la denuncia ante la Autoridad Ministerial correspondiente y tramitar su reposición, previo el pago de derechos que señale la Ley de Ingresos vigente. Los interesados ampararán este hecho con la copia certificada respectiva.
+En caso de robo o pérdida de una o ambas placas o de la tarjeta de circulación el interesado deberá presentar la denuncia correspondiente ante el Ministerio Público; notificarlo inmediatamente a la autoridad del transporte competente, adjuntando copia certificada de la denuncia ante la Autoridad Ministerial correspondiente y tramitar su reposición, previo el pago de derechos que señale la Ley de Ingresos vigente. Los interesados ampararán este hecho con la copia certificada respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 En caso de que el interesado no realice el trámite señalado en el párrafo anterior el vehículo será retirado de circulación, hasta obtener las placas o tarjeta de circulación respectivas.
 
-Sin perjuicio de lo anterior, la Secretaría tomará las medidas necesarias para prevenir el mal uso de las placas o de la tarjeta de circulación según corresponda.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Sin perjuicio de lo anterior, la Secretaría o Carreteras de Cuota-Puebla, tomarán las medidas necesarias para prevenir el mal uso de las placas o de la tarjeta de circulación, según corresponda.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -615,13 +659,17 @@ Sin perjuicio de lo anterior, la Secretaría tomará las medidas necesarias para
 
 Los concesionarios o permisionarios del Servicio Público de Transporte y del Servicio Mercantil, podrán solicitar permisos provisionales para el caso de robo, descompostura o baja del vehículo, por un tiempo que no exceda de noventa días naturales, debiendo entregar en su caso a la autoridad, en depósito las placas correspondientes, en tanto no se haga la acreditación de la que habla la tramitación de cambio de vehículo que señala el presente Reglamento, en el entendido de que el transportista deberá comprobar fehacientemente con documentos idóneos las circunstancias de que se trate.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 55.
 
-En caso de fallecimiento del legítimo propietario de un vehículo destinado al Servicio Público, las personas que legalmente lo representen, están obligadas a comunicarlo por escrito a la Secretaría, para que en el registro vehicular y expediente respectivo se haga la anotación correspondiente; dicho aviso deberá hacerse dentro del término de treinta días contados a partir de la fecha del fallecimiento, con el apercibimiento que de no hacerlo, serán responsables de la infracción correspondiente y de los daños y perjuicios que se causen por esta omisión.
+En caso de fallecimiento del legítimo propietario de un vehículo destinado al Servicio Público, las personas que legalmente lo representen, están obligadas a comunicarlo por escrito a la Secretaría, o en su caso, a Carreteras de Cuota-Puebla, para que en el registro vehicular y expediente respectivo se haga la anotación correspondiente; dicho aviso deberá hacerse dentro del término de treinta días contados a partir de la fecha del fallecimiento, con el apercibimiento que de no hacerlo, serán responsables de la infracción correspondiente y de los daños y perjuicios que se causen por esta omisión.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 56.
 
-Queda prohibido remarcar, cambiar o alterar los números del chasis de la carrocería; ya que de ser detectado por la Secretaría se procederá a la detención del vehículo y se pondrá a disposición de la Autoridad Judicial competente, cuando ésta sea cambiada, en caso de substitución de la parte del chasis donde lleva el número de serie, el propietario estará obligado a comunicarlo a la Secretaría y exhibir la factura respectiva, para que se haga la anotación correspondiente.
+Queda prohibido remarcar, cambiar o alterar los números del chasis de la carrocería; ya que de ser detectado por la Secretaría o por Carreteras de Cuota-Puebla, según corresponda, se procederá a la detención del vehículo y se pondrá a disposición de la Autoridad Judicial competente, cuando ésta sea cambiada, en caso de substitución de la parte del chasis donde lleva el número de serie, el propietario estará obligado a comunicarlo, a la Secretaría o a Carreteras de Cuota-Puebla, según sea el caso, y exhibir la factura respectiva, para que se haga la anotación correspondiente.
 
 ## TÍTULO TERCERO. DE LAS LICENCIAS
 
@@ -641,7 +689,7 @@ La licencia para conducir vehículos automotores a que hace referencia este Regl
 
 ###### ARTÍCULO 59.
 
-De conformidad con los tipos de servicio y licencia para conducir que se solicite, la Secretaría expedirá el tipo de licencia que se requiera; es obligación del interesado realizar directamente el trámite correspondiente, debiendo cumplir con los requisitos que prevé la Ley, este Reglamento y demás normatividad aplicable.
+De conformidad con los tipos de servicio y licencia para conducir que se soliciten, la Secretaría expedirá el tipo de licencia que se requiera; es obligación del interesado realizar directamente el trámite correspondiente, debiendo cumplir con los requisitos que prevé la Ley, este Reglamento y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -919,11 +967,11 @@ VI.- Por dos o más suspensiones de las que trata el artículo anterior.
 
 La licencia además podrá ser suspendida, hasta por un periodo de seis meses, si el conductor acumula seis infracciones de cualquier naturaleza al presente Reglamento en el transcurso de un año.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 72.
 
-La Secretaría, se coordinará con la Contraloría y con las demás autoridades competentes en materia de seguridad vial, las que conforme a sus atribuciones, deberán hacer del conocimiento a la Secretaría, cualquier infracción relacionada con este Reglamento, lo anterior para el cumplimiento a lo dispuesto en este Capítulo respecto de la suspensión y cancelación de licencia.
+Las autoridades del transporte, se coordinarán con la Contraloría y con las demás autoridades competentes en materia de seguridad vial, las que conforme a sus atribuciones, deberán hacer del conocimiento de aquéllas, cualquier infracción relacionada con este Reglamento, lo anterior para el cumplimiento a lo dispuesto en este Capítulo respecto de la suspensión y cancelación de licencia.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -959,21 +1007,21 @@ Siendo el transporte un servicio público, atributo del Estado, éste tendrá en
 
 Los tipos a que se refiere el párrafo anterior consistirán en el servicio que presten cada una de las mismas de conformidad con los itinerarios, tarifas, horarios, terminales de transferencia, y todo aquello que exijan las necesidades del público, congruentes con el desarrollo social y económico de la Entidad.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-La Secretaría expedirá las concesiones en forma potestativa y discrecional, atendiendo a las condiciones peculiares que concurran específicamente en cada caso, evitando siempre las prácticas monopólicas, y teniendo la facultad de revocarlas en la forma y términos que establezcan la Ley y este Reglamento.
+La Secretaría y Carreteras de Cuota-Puebla, en el ámbito de su competencia, expedirán las concesiones en forma potestativa y discrecional, atendiendo a las condiciones peculiares que concurran específicamente en cada caso, evitando siempre las prácticas monopólicas y teniendo la facultad de darlas por terminadas en la forma y términos que establezcan la Ley y este Reglamento.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-No obstante lo anterior, la Secretaría procurará otorgar las concesiones a través de licitación pública, para lo cual deberá, elaborar y publicar en el Periódico Oficial del Estado y en un diario de mayor circulación, conjuntamente con la declaratoria de necesidad respectiva, los estudios técnicos integrales que justifiquen la necesidad de incrementar las concesiones existentes, el cual deberá mantener el balance entre la oferta y la demanda del servicio materia de la concesión, de acuerdo con la modalidad de que se trate.
+No obstante lo anterior, la Secretaría o Carreteras de Cuota-Puebla, según corresponda, procurarán otorgar las concesiones a través de licitación pública, para lo cual deberá, elaborar y publicar en el Periódico Oficial del Estado y en un diario de mayor circulación, conjuntamente con la declaratoria de necesidad respectiva, los estudios técnicos integrales que justifiquen la necesidad de incrementar las concesiones existentes, el cual deberá mantener el balance entre la oferta y la demanda del servicio materia de la concesión, de acuerdo con la modalidad de que se trate.
 
 ###### ARTÍCULO 78.
 
 Las concesiones que se otorguen para la prestación de cualquiera de los tipos del Servicio Público de Transporte, requieren el cumplimiento de todas las condiciones que establece la Ley, este Reglamento y el Título de Concesión correspondiente.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-ARTÍCULO 78 BIS.- Las concesiones que otorgue la Secretaría autorizan a su titular a usar, aprovechar y explotar el Servicio Público de Transporte, de acuerdo con las obligaciones que establece la Ley, este Reglamento, el Título de Concesión y las disposiciones administrativas aplicables. La Secretaría tomando en cuenta el interés social y el orden público, podrá prorrogar la vigencia de la misma.
+ARTÍCULO 78 BIS.- Las concesiones que otorgue la Secretaría o Carreteras de Cuota-Puebla, según sea el caso, autorizan a su titular a usar, aprovechar y explotar el Servicio Público de Transporte o alguna de sus modalidades, de acuerdo con las obligaciones que establece la Ley, este Reglamento, el Título de Concesión y las disposiciones administrativas aplicables. La Secretaría, o en su caso, Carreteras de Cuota-Puebla, tomando en cuenta el interés social y el orden público, podrán prorrogar la vigencia de las mismas.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -985,11 +1033,11 @@ I.- Los resultados de los estudios técnicos integrales que justifiquen su otorg
 
 II.- El lugar donde se prestará el servicio, la modalidad y el número de concesiones a expedir;
 
-III.-El tipo y características de los vehículos que se requieran;
+III.- El tipo y características de los vehículos que se requieran;
 
 IV.- Las condiciones generales para la prestación del servicio;
 
-V.- El número de concesiones y vehículos autorizados basta ese momento para prestar el servicio, en la modalidad correspondiente; y,
+V.- El número de concesiones y vehículos autorizados hasta ese momento para prestar el servicio, en la modalidad correspondiente; y,
 
 VI.- Las demás que señalen las disposiciones jurídicas y administrativas.
 
@@ -1013,15 +1061,17 @@ IV.- Transporte mixto de personas y de bienes, y
 
 V.- Sistema de Transporte Público Masivo.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 81.
 
-De conformidad con lo que establece la Ley, las concesiones serán expedidas por la Secretaría, una vez que los interesados hayan satisfecho en su totalidad los requisitos y las condiciones establecidas por la propia Ley y este Reglamento.
+Las concesiones serán expedidas por la Secretaría o por Carreteras de Cuota-Puebla, según corresponda, una vez que los interesados hayan satisfecho en su totalidad los requisitos y las condiciones establecidas por la propia Ley y este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 82.
 
-Previo al otorgamiento de una concesión para la prestación del Servicio Público de Transporte, la Secretaría deberá:
+Previo al otorgamiento de una concesión para la prestación del Servicio Público de Transporte en cualquiera de sus modalidades, la Secretaría o en su caso, Carreteras de Cuota-Puebla deberá:
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1045,11 +1095,11 @@ Emitidos los estudios a que hace referencia la fracción I del párrafo anterior
 
 Realizado todo lo anterior y satisfechos los demás requisitos establecidos en la Ley y el presente Reglamento, se otorgará la concesión, emitiéndose el Título de Concesión respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 83.
 
-Para ser concesionario de alguno de los servicios a que se refiere la Ley y este Reglamento, es necesario presentar ante la Secretaría una solicitud por duplicado. Dicha solicitud deberá contener lo siguiente:
+Para ser concesionario de alguno de los servicios a que se refiere la Ley y este Reglamento, es necesario presentar ante la Secretaría o ante Carreteras de Cuota-Puebla, según corresponda una solicitud por duplicado. Dicha solicitud deberá contener lo siguiente:
 
 I.- Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física, o denominación legal y domicilio social, si es una persona moral la solicitante;
 
@@ -1065,7 +1115,9 @@ V.- Garantía otorgada a favor de la Secretaría de Finanzas y Administración, 
 
 VI.- Carta compromiso por la cual se obliga a contratar el seguro del viajero, dentro del término de treinta días hábiles contados a partir del día siguiente del otorgamiento de la concesión, a fin de proteger a los usuarios y terceros sobre cualquier daño que puedan sufrir con motivo de la prestación del servicio;
 
-VII.- La manifestación de conocer las causas de revocación de la concesión, establecidas en el presente Reglamento;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+VII.- La manifestación de conocer las causas de terminación de la concesión, establecidas en el presente Reglamento;
 
 VIII.- La manifestación del tipo de vehículo que pretende utilizar, y
 
@@ -1093,13 +1145,15 @@ VIII.- Constancia de antecedentes no penales, expedida por la Procuraduría Gene
 
 IX.- Comprobante del depósito de garantia del trámite correspondiente.
 
-Por cada solicitud se formará un expediente que contendrá todos los documentos exhibidos, así como la resolución que declare procedente o improcedente el otorgamiento de la concesión. Los interesados podrán solicitar copia certificada a su costa de las constancias que les sean útiles, las que serán expedidas por conducto de la Subsecretaría del Transporte, recibiéndolas personalmente el peticionario.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+Por cada solicitud se formará un expediente que contendrá todos los documentos exhibidos, así como la resolución que declare procedente o improcedente el otorgamiento de la concesión. Los interesados podrán solicitar copia certificada a su costa de las constancias que les sean útiles, las que serán expedidas por conducto de la Secretaría o en su caso, por Carreteras de Cuota-Puebla, recibiéndolas personalmente el peticionario.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 85.
 
-La garantía que se debe otorgar a favor de la Secretaría de Finanzas y Administración para asegurar la continuidad de los trámites correspondientes, deberá ser equivalente al veinte por ciento del pago de derechos, por el otorgamiento de cada una de las concesiones, de conformidad con lo establecido en la Ley de Ingresos del Estado vigente.
+La garantía que se debe otorgar a favor del Gobierno del Estado para asegurar la continuidad de los trámites correspondientes, deberá ser equivalente al veinte por ciento del pago de derechos, por el otorgamiento de cada una de las concesiones, de conformidad con lo establecido en la Ley de Ingresos del Estado vigente.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1107,7 +1161,9 @@ La garantía que se debe otorgar a favor de la Secretaría de Finanzas y Adminis
 
 La garantía a que se refiere el artículo anterior, será devuelta al solicitante, otorgada o no la concesión correspondiente.
 
-En caso de que al solicitante se le requiera para presentar documentación o realizar algún trámite al que esté obligado y no lo solvente en un término de treinta días naturales, la Secretaría declarará el abandono del trámite. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+En caso de que al solicitante se le requiera para presentar documentación o realizar algún trámite al que esté obligado y no lo solvente en un término de treinta días naturales, la Secretaría o Carreteras de Cuota-Puebla, según corresponda declarará el abandono del trámite. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1115,9 +1171,13 @@ En caso de que al solicitante se le requiera para presentar documentación o rea
 
 Para el otorgamiento de la concesión, los vehículos con los que se pretenda prestar el Servicio Público de Transporte para las rutas urbanas, deberán tener una antigüedad máxima de tres años a la fecha de otorgamiento de la concesión, y en los demás casos hasta cinco años.
 
-Una vez que la Secretaría determine que es procedente el otorgamiento de la concesión y lo notifique al interesado, éste deberá presentar el vehículo o vehículos con los que pretenda prestar el servicio, así como la documentación en original y dos copias con la que acredite su propiedad, en un término que no exceda de sesenta días naturales; si aquel no cumple, la Secretaría declarará el abandono del trámite, sin responsabilidad para ésta. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-Autorizado el vehículo o vehículos por la Secretaría, se expedirá la orden de pago de las contribuciones correspondientes, previo acuerdo de otorgamiento de la concesión.
+Una vez que la autoridad competente determine que es procedente el otorgamiento de la concesión y lo notifique al interesado, éste deberá presentar el vehículo o vehículos con los que pretenda prestar el servicio, así como la documentación en original y dos copias con la que acredite su propiedad, en un término que no exceda de sesenta días naturales; si aquél no cumple, la Secretaría declarará el abandono del trámite, sin responsabilidad para ésta. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Autorizado el vehículo o vehículos por la autoridad competente, se expedirá la orden de pago de las contribuciones correspondientes, previo acuerdo de otorgamiento de la concesión.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1127,29 +1187,33 @@ ARTÍCULO 87 BIS.- Las concesiones que se otorguen a las personas físicas o jur
 
 Respecto a las concesiones otorgadas, los concesionarios tienen la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad para las rutas urbanas y doce años de antigüedad para las rutas suburbanas y foráneas, así como realizar el trámite anual que deberá efectuar en las Oficinas Recaudadoras y de Orientación al Contribuyente de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado vigente. Los años de antigüedad referidos se contarán a partir del año modelo.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-Tratándose del Sistema de Transporte Público Masivo, la Secretaría además de lo previsto en la Ley podrá, mediante reglas de carácter general establecer los términos y condiciones que deban cumplir las personas jurídicas en relación a los vehículos que operen bajo esta modalidad.
+Tratándose del Sistema de Transporte Público Masivo, Carreteras de Cuota-Puebla además de lo previsto en la Ley podrá, mediante reglas de carácter general establecer los términos y condiciones que deban cumplir las personas jurídicas en relación a los vehículos que operen bajo esta modalidad.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 88.
 
-Los formularios de la solicitud, deberán recabarse sin costo alguno en la Secretaría.
+Los formularios de la solicitud, deberán recabarse sin costo alguno en la Secretaría o en su caso, en Carreteras de Cuota-Puebla.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 89.
 
-Las solicitudes deberán presentarse debidamente requisitadas ante la Secretaría, quien sellará una copia para el solicitante, anotando la fecha y hora de su presentación y efectuando el registro de la misma, en el libro previamente autorizado para este fin por el Secretario.
+Las solicitudes deberán presentarse debidamente integradas ante la Secretaría o ante Carreteras de Cuota-Puebla, según corresponda, quienes sellarán una copia para el solicitante anotando la fecha y hora de su presentación y efectuando el registro de la misma, en el libro previamente autorizado para este fin por el Secretario, o en su caso, por Carreteras de Cuota-Puebla.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 90.
 
-Una vez que la solicitud con todos sus documentos complementarios haya sido recibida se procederá, dentro de los cuarenta días hábiles siguientes a su examen, para determinar sí han sido cubiertos los requisitos iniciales en forma satisfactoria; en caso contrario, el solicitante dispondrá de treinta días naturales para subsanar cualquier deficiencia, en su caso, la Secretaría procederá en términos de lo dispuesto por el artículo 86.
+Una vez que la solicitud con todos sus documentos complementarios haya sido recibida se procederá, dentro de los cuarenta días hábiles siguientes a su examen, para determinar si han sido cubiertos los requisitos iniciales en forma satisfactoria; en caso contrario, el solicitante dispondrá de treinta días naturales para subsanar cualquier deficiencia, la Secretaría o en su caso, Carreteras de Cuota-Puebla, procederá en términos de lo dispuesto por el artículo 86.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 91.
 
-Cuando el solicitante haya cubierto satisfactoriamente los requisitos señalados en los artículos anteriores, los técnicos de la Secretaría dedicados al análisis, estudio y calificación de la documentación, procederán a elaborar el dictamen correspondiente, el cual deberá tomar en cuenta todos los factores que en su conjunto garanticen la prestación del servicio, de conformidad con lo señalado por la Ley y este Reglamento. Si el dictamen determina como improcedente el otorgamiento de la concesión, la Secretaría procederá a notificado al interesado, quien deberá solicitar por escrito dentro de un plazo de treinta días naturales, la devolución de la garantía que hubiere otorgado.
+Cuando el solicitante haya cubierto satisfactoriamente los requisitos señalados en los artículos anteriores, los técnicos de la Secretaría o de Carreteras de Cuota-Puebla, según corresponda, dedicados al análisis, estudio y calificación de la documentación, procederán a elaborar el dictamen correspondiente, el cual deberá tomar en cuenta todos los factores que en su conjunto garanticen la prestación del servicio, de conformidad con lo señalado por la Ley y este Reglamento. Si el dictamen determina como improcedente el otorgamiento de la concesión, la Secretaría o Carreteras de Cuota-Puebla, según sea el caso, procederán a notificarlo al interesado, quien deberá solicitar por escrito dentro de un plazo de treinta días naturales, la devolución de la garantía que hubiere otorgado.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1191,7 +1255,7 @@ II.- Cuando del estudio técnico integral se determine que es improcedente dicho
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Cuando del análisis del expediente administrativo de otorgamiento de concesión o permiso se derive que hay falsedad en los informes y documentos presentados, sin perjuicio de las sanciones que en materia penal procedan; y (sic)
+III.- Cuando del análisis del expediente administrativo de otorgamiento de concesión o permiso se derive que hay falsedad en los informes y documentos presentados, sin perjuicio de las sanciones que en materia penal procedan; y
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1201,41 +1265,53 @@ IV.- La no vigencia de los estudios técnicos a que hace referencia el artículo
 
 V.- Cuando el solicitante haya sido sujeto a un procedimiento de revocación de la concesión o permiso de transporte en términos de este Reglamento.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 95.
 
-La Secretaría está facultada para establecer el número de concesiones, que conforme a los estudios realizados, se requieran para prestar en forma eficiente y continua cada tipo de servicio, pero velará porque no se constituyan monopolios ni se incurra en prácticas que tiendan a propiciarlos.
+La Secretaría, y en su caso, Carreteras de Cuota-Puebla están facultadas para establecer el número de concesiones, que conforme a los estudios realizados, se requieran para prestar en forma eficiente y continua cada tipo de servicio, pero velarán porque no se constituyan monopolios ni se incurra en prácticas que tiendan a propiciarlos.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 96.
 
-El Secretario, expedirá el Titulo de Concesión, cuando se hayan cumplido y obren en el expediente administrativo, como mínimo los siguientes requisitos:
+El Secretario, o en su caso, Carreteras de Cuota-Puebla, expedirá el Título de Concesión, cuando se hayan cumplido y obren en el expediente administrativo, como mínimo los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 I.- Estudio Técnico respectivo o en su caso la declaratoria de necesidad correspondiente publicada en el Periódico Oficial del Estado;
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 II.- Notificación de procedencia de otorgamiento de concesión, ya que el mismo es requisito indispensable para su otorgamiento;
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 III.- La orden y el comprobante de pago de los derechos de otorgamiento de concesión; y
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 IV.- Los demás que en su caso procedan.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 97.
 
-El "Título de Concesión" es el documento que se otorga al concesionario, para hacer constar el acto jurídico-administrativo por el cual el Ejecutivo del Estado, a través de la Secretaría, autoriza a una persona física o moral a prestar un Servicio Público de Transporte bajo el cumplimiento de determinadas condiciones.
+El "Título de Concesión" es el documento que se otorga al concesionario, para hacer constar el acto jurídico-administrativo por el cual el Ejecutivo del Estado, a través de la Secretaría o de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, autoriza a una persona física o moral a prestar un Servicio Público de Transporte bajo el cumplimiento de determinadas condiciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 98.
 
-Los derechos y obligaciones derivados de una concesión o permiso para la prestación del Servicio Público de Transporte o del Servicio Mercantil a que hace referencia la Ley o este Reglamento, se consideran bienes fuera de comercio, por lo que cualquier transmisión a título gratuito u oneroso que se realice por acto entre vivos o por causa de muerte, será nula, sin la autorización previa de la Secretaría.
+Los derechos y obligaciones derivados de una concesión o permiso para la prestación del Servicio Público de Transporte o del Servicio Mercantil a que hace referencia la Ley o este Reglamento, se consideran bienes fuera de comercio, por lo que cualquier transmisión a título gratuito u oneroso que se realice por acto entre vivos o por causa de muerte, será nula, sin la autorización previa de la Secretaría o de Carreteras de Cuota-Puebla, según corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
-Las partes se sujetaran únicamente a la cesión de derechos, figura jurídica que la Secretaría podrá autorizar cuando se satisfagan los requisitos respectivos conforme al procedimiento siguiente:
+Las partes se sujetarán únicamente a la cesión de derechos, figura jurídica que la Secretaría, y en su caso, Carreteras de Cuota-Puebla podrá autorizar cuando se satisfagan los requisitos respectivos conforme al procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-I.- El cedente y el cesionario interesados, deberán solicitar por escrito la autorización previa a la Secretaría, acompañando la documentación necesaria, que pruebe la vigencia de la concesión;
+I.- El cedente y el cesionario interesados, deberán solicitar por escrito la autorización previa a la Secretaría o a Carreteras de Cuota-Puebla, según corresponda, acompañando la documentación necesaria, que pruebe la vigencia de la concesión o permiso;
 
 II.- El interesado en obtener la concesión deberá reunir los mismos requisitos para ser concesionario señalados en los ordenamientos legales vigentes en la materia;
 
@@ -1245,17 +1321,17 @@ III.- El cedente y el cesionario, manifestarán bajo protesta de decir verdad, l
 
 IV.- Que la concesión o permiso de que se trate, haya estado a nombre del titular por un lapso no menor de dos años;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-V.- En caso de autorizarse la cesión de una concesión o permiso, el nuevo titular tendrá los derechos y obligaciones inherentes al título respectivo y será responsable de la prestación del servido en los términos y condiciones que establece la Ley y este Reglamento, así como por las disposiciones que establezca la Secretaría para garantizar su adecuada prestación.
+V.- En caso de autorizarse la cesión de una concesión o permiso, el nuevo titular tendrá los derechos y obligaciones inherentes al título respectivo y será responsable de la prestación del servicio en los términos y condiciones que establece la Ley y este Reglamento, así como por las disposiciones que establezca la Secretaría, o en su caso, Carreteras de Cuota-Puebla, para garantizar su adecuada prestación.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-Queda al prudente arbitrio de la Secretaría autorizar la cesión de la concesión o permiso conforme al artículo 92 BIS de la Ley. La persona que haya cedido los derechos de la concesión o permiso de la cual fue titular, no podrá adquirir nuevas concesiones o permisos.
+Queda al prudente arbitrio de la Secretaría o de Carreteras de Cuota-Puebla, según corresponda, autorizar la cesión de la concesión o permiso conforme al artículo 92 BIS de la Ley. La persona que haya cedido los derechos de la concesión o permiso de la cual fue titular, no podrá adquirir nuevas concesiones o permisos.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-Una vez autorizada la cesión de la concesión o permiso de que se trate y cubiertos los derechos correspondientes, el titular de ésta deberá nombrar beneficiario y beneficiarios substitutos, para que se inscriban en el título respectivo, a falta de nombramiento de éstos se estará a lo dispuesto por el Código Civil del Estado de Puebla; realizado lo anterior la Secretaría procederá a emitir el título correspondiente, en términos del acuerdo que se emita para este efecto.
+Una vez autorizada la cesión de la concesión o permiso de que se trate y cubiertos los derechos correspondientes, el titular de ésta deberá nombrar beneficiario y beneficiarios substitutos, para que se inscriban en el título respectivo, a falta de nombramiento de éstos se estará a lo dispuesto por el Código Civil del Estado de Puebla; realizado lo anterior, la Secretaría, o en su caso, Carreteras de Cuota-Puebla, se procederá a emitir el título correspondiente, en términos del acuerdo que se emita para este efecto.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1309,7 +1385,7 @@ VIII.- Lugar, fecha de expedición y firmas de la autoridad y del concesionario;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-IX.- Tipo de vehículo, marca, número de motor, número de serie, numero de placas y capacidad de pasajeros;
+IX.- Tipo de vehículo, marca, número de motor, número de serie, número de placas y capacidad de pasajeros;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1323,19 +1399,23 @@ XI.- Facultades de las autoridades para vigilar y controlar la prestación del s
 
 XII.- Si es persona física, el nombre del beneficiario y beneficiarios substitutos;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XIII.- Vigencia de la concesión; y
+XIII.- Vigencia de la concesión;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XIV.- El itinerario autorizado para las rutas fijas y ubicación del sitio autorizado, según sea el caso.
+XIV.- La prevención de que la autoridad competente podrá rescatar e intervenir la concesión por causas de utilidad pública, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XV.- El itinerario autorizado para las rutas fijas y ubicación del sitio autorizado, según sea el caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 100.
 
-Para acreditarse como concesionario, la Secretaría expedirá un tarjetón de concesión que contendrá los siguientes datos:
+Para acreditarse como concesionario, la autoridad de transporte competente expedirá un tarjetón de concesión que contendrá los siguientes datos:
 
 I.- Fecha de expedición del tarjetón;
 
@@ -1357,7 +1437,9 @@ IX.- Tipo de servicio;
 
 X.- Firma del concesionario o del representante legal;
 
-XI.- Firma del Secretario;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XI.- Firma de la autoridad competente para emitirla;
 
 XII.- En el reverso, el tarjetón deberá contener los siguientes datos:
 
@@ -1373,7 +1455,9 @@ d).- Número económico autorizado.
 
 XIII.- Un recuadro de revalidación con el número y fecha del recibo oficial, con el que se pagan los derechos correspondientes, y
 
-XIV.- Sello de la Secretaría del año que está revalidando.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XIV.- Sello de la Secretaría, o de Carreteras de Cuota-Puebla, según corresponda, del año que está revalidando.
 
 En el mismo tarjetón se contemplará los casos en que se suscite el cambio de los vehículos, poniendo el número del acuerdo correspondiente, la fecha y folio del recibo de pago.
 
@@ -1383,21 +1467,31 @@ En el mismo tarjetón se contemplará los casos en que se suscite el cambio de l
 
 El Servicio de Autotransporte Federal que cuente con el permiso otorgado por la autoridad competente, deberá solicitar a la Secretaría la autorización, a efecto de que pueda prestar el servicio de transporte de pasajeros en los tramos de la infraestructura vial de la jurisdicción estatal, previo estudio correspondiente.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
-ARTÍCULO 101 BIS.- La Secretaría podrá en todo momento otorgar autorizaciones con carácter de provisionales, gratuitas y renovables, las cuales no excederán del término de tres meses en los siguientes casos:
+ARTÍCULO 101 BIS.- La Secretaría, o Carreteras de Cuota-Puebla, según corresponda, podrá en todo momento otorgar autorizaciones con carácter de provisionales, gratuitas y renovables, las cuales no excederán del término de tres meses en los siguientes casos:
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
 
 a).- Cuando se trate de experimentar una ruta nueva en el Estado; y
 
-b).- Cuando exista mayor demanda de transporte, motivada por ferias, exposiciones y excursiones o por cualquier otra circunstancia que a criterio de la Secretaría, justifique tal situación.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+b).- Cuando exista mayor demanda de transporte, motivada por ferias, exposiciones y excursiones o por cualquier otra circunstancia que a criterio de la Secretaría, o en su caso, Carreteras de Cuota-Puebla, justifique tal situación.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
 
 Las autorizaciones provisionales concedidas, dejarán de surtir sus efectos en cuanto el estudio técnico determine la improcedencia o procedencia de otorgamiento de concesiones.
 
-### CAPÍTULO II. REVOCACIÓN DE LAS CONCESIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2015)</small>
+
+### CAPÍTULO II. REVOCACIÓN Y RESCATE DE LAS CONCESIONES
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 102.
 
-Las concesiones podrán ser revocadas cuando los prestadores del servicio de que se trate se encuentren en los supuestos que señala el artículo siguiente, así como por cualquier otra circunstancia que implique la prestación irregular y deficiente del servicio de un modo permanente.
+Las concesiones podrán ser revocadas cuando los prestadores del servicio de que se trate se encuentren en los supuestos que señala el artículo siguiente, así como por cualquiera otra circunstancia que implique la prestación irregular y deficiente del servicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1407,29 +1501,29 @@ Las concesiones, que se otorgan para la prestación de los servicios a que hace 
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-I.- Porque se preste el Servidor Público de Transporte en forma diferente a lo autorizado en la concesión;
+I.- Porque se preste el Servicio Público de Transporte en forma diferente a lo autorizado en la concesión;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
 II.- Porque los vehículos con los que se presta el servicio no conserven de un modo permanente las características para el tipo de que se trate;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-III.- Acumular dos apercibimientos debidamente fundados y motivados por la Secretaría, por no prestar el servicio con la eficiencia, uniformidad y regularidad requeridas;
+III.- Acumular dos apercibimientos debidamente fundados y motivados por la autoridad del transporte competente, por no prestar el servicio con la eficiencia, uniformidad y regularidad requeridas;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-IV.- Por sustituir o vender el vehículo sin la autorización previa de la Secretaría, o por no sustituirlo dentro de sesenta días naturales, cuando se haya solicitado o dado su baja en operación o no realizar el alta de la unidad correspondiente;
+IV.- Por sustituir o vender el vehículo sin la autorización previa de la autoridad del transporte competente, o por no sustituirlo dentro de sesenta días naturales, cuando se haya solicitado o dado su baja en operación o no realizar el alta de la unidad correspondiente;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-V.- Porque el concesionario no realice ante la Secretaría, la transmisión de la concesión, así como los derechos en ella conferidos;
+V.- Porque el concesionario no realice ante la autoridad del transporte competente, la transmisión de la concesión, así como los derechos en ella conferidos;
 
 VI.- Porque se suspenda o interrumpa el servicio sin justificación, no existiendo motivos de causa mayor o caso fortuito que hagan materialmente imposible su prestación;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-VII.- Por alteración a las tarifas establecidas por la Secretaría, cometida por el concesionario o su conductor, para cada tipo de servicio;
+VII.- Por alteración a las tarifas establecidas, cometida por el concesionario o su conductor, para cada tipo de servicio;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1437,9 +1531,9 @@ VIII.- Por circular con placas del Servicio Público de Transporte, que no corre
 
 IX.- Por bloquear intencionalmente la infraestructura vial del Estado, utilizando los vehículos del Servicio Público de Transporte;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-X.- Por reincidir tres veces en un periodo de seis meses, en la comisión de infracciones por el concesionario o su conductor, que represente grave riesgo para la seguridad de los usuarios o de terceros;
+X.- Por reincidir dos veces en un periodo de seis meses, en la comisión de infracciones por el concesionario o su conductor, que representen grave riesgo para la seguridad de los usuarios o de terceros;
 
 XI.- Por cometer un hecho delictuoso relacionado con el carácter de concesionario, previa sentencia ejecutoriada;
 
@@ -1457,7 +1551,7 @@ XIV.- Por no registrar en el mes de enero de cada año, la póliza de seguro del
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
 
-XV.- Por circular más de tres veces fuera del itinerario o la ruta señalada en el Titulo de Concesión o prestar el servicio en un Municipio distinto al autorizado;
+XV.- Por circular más de tres veces fuera del itinerario o la ruta señalada en el Título de Concesión o prestar el servicio en un Municipio distinto al autorizado;
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1475,21 +1569,21 @@ XVIII.- Porque el concesionario que preste el Servicio a través de choferes exi
 
 XIX.- Porque los concesionarios no respondan solidariamente respecto de los daños y perjuicios que por acción u omisión causen los choferes o conductores de sus vehículos con motivo de la prestación del Servicio Público de Transporte;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XX.- Porque el titular de la concesión no informe cada tres meses a la Secretaría el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación de su título correspondiente;
+XX.- Porque el titular de la concesión no informe cada tres meses a la autoridad del transporte competente el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación de su título correspondiente;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 XXI.- Porque el vehículo destinado a la prestación del Servicio Público de Transporte no esté provisto en términos de la Ley y este Reglamento con el regulador de velocidad o en su caso, porque esté alterado;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XXII.- Otorgar en garantía el título de concesión sin la autorización previa de la Secretaría;
+XXII.- Otorgar en garantía el título de concesión sin la autorización previa de la autoridad del transporte competente;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XXIII.- Incumplir el titular de la concesión con las obligaciones contraídas con la Secretaría, en caso de otorgar en garantía el título respectivo; y
+XXIII.- Incumplir el titular de la concesión con las obligaciones contraídas con la autoridad del transporte competente, en caso de otorgar en garantía el titulo respectivo, y
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1497,9 +1591,9 @@ XXIV.- Por cualquier otra circunstancia que implique la prestación irregular y 
 
 La revocación de las concesiones operará previo cumplimiento del procedimiento que al efecto señala la Ley y el presente Reglamento.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-La actualización de las causales establecidas en las fracciones I, II, III, VI, VII, VIII, IX, X, XI, XIV, XV, XXI, XXIII y XXIV de este artículo deberán ser informadas por la Contraloría a la Secretaría para el inicio del procedimiento al que se refiere el presente Capítulo.
+La actualización de las causales establecidas en las fracciones I, II, III, VI, VII, VIII, IX, X, XI, XIV, XV, XXI, XXIII y XXIV de este artículo deberán ser informadas por la Contraloría a la Secretaría o a Carreteras de Cuota-Puebla, según corresponda, para el inicio del procedimiento al que se refiere el presente Capítulo.
 
 ###### ARTÍCULO 104.
 
@@ -1517,27 +1611,39 @@ V.- Por quiebra, para lo cual se estará a lo dispuesto por la Ley de la materia
 
 La revocación de las concesiones a que hace referencia el presente artículo operará desde el momento en que se presente cualquiera de las causas enumeradas.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 105.
 
-La revocación de las concesiones será declarada administrativa mente por el Secretaría de conformidad con las atribuciones que le confieren los ordenamientos legales vigentes y de acuerdo al procedimiento siguiente:
+La revocación de las concesiones será declarada administrativamente por el Secretario o Carreteras de Cuota-Puebla de conformidad con las atribuciones que le confieren los ordenamientos legales vigentes y de acuerdo al procedimiento siguiente:
 
-I.- La Secretaría notificará personalmente y por escrito al concesionario, los motivos de revocación en que a su juicio haya incurrido;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-II.- Le señalará un término de veinticinco días hábiles, de los cuales los primeros cinco serán para el ofrecimiento de pruebas y admitidas éstas, se contará con quince para su desahogo, quedando cinco para la presentación de alegatos y manifestación de lo que a su derecho convenga;
+I.- La autoridad notificará por escrito al concesionario, los motivos de revocación en que a su juicio haya incurrido;
 
-III.- Serán admisibles todos los medios de prueba, excepto la confesional de la autoridad, así como las que fueren contra la moral o el derecho;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-IV.- No se tendrán por ofrecidas, las pruebas que se presenten fuera del término señalado para tal efecto en el presente Reglamento, así corno las que no tengan relación con los hechos impugnados, con excepción de las pruebas supervenientes las que se admitirán antes de dictarse la resolución definitiva; y
+II.- Le señalará un término de cinco días para el ofrecimiento de pruebas y admitidas éstas, se contará con tres días para su desahogo, acordándose un término (sic) tres días para la presentación de alegatos y manifestación de lo que a su derecho convenga;
 
-V.- Concluida la fase anterior, la Secretaría contará con un término de veinticinco días hábiles para dictar la resolución correspondiente.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-Contra la resolución que revoque la concesión procede el Recurso de Inconformidad.
+III.- Podrán ofrecerse las pruebas que se establecen en el Código de Procedimientos Civiles para el Estado de Puebla, con excepción de la declaración de partes sobre hechos propios o ajenos y la testimonial, conforme a las reglas que para su desahogo se determinan en el mismo.
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+IV.- No se tendrán por ofrecidas, las pruebas que se presenten fuera del término señalado para tal efecto en el presente Reglamento, así como las que no tengan relación con los hechos impugnados, con excepción de las pruebas supervenientes las que se admitirán antes de dictarse la resolución definitiva; y
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+V.- Concluida la fase anterior, la autoridad competente contará con un término de cinco días hábiles para dictar la resolución correspondiente.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 106.
 
-La revocación de las concesiones será declarada administrativamente por el Secretario, de conformidad con las atribuciones que le confieren los ordenamientos legales vigentes, haciéndolo del conocimiento al concesionario mediante la resolución que se dicte.
+La revocación de las concesiones será declarada administrativamente por el Secretario o Carreteras de Cuota-Puebla, según corresponda, de conformidad con las atribuciones que les confieren los ordenamientos legales vigentes, haciéndolo del conocimiento al concesionario mediante la resolución que se dicte.
 
 ###### ARTÍCULO 107.
 
@@ -1549,9 +1655,23 @@ La revocación de una concesión operará sin perjuicio de la aplicación de las
 
 Las personas físicas o morales, a quienes se les haya revocado una concesión, están imposibilitadas para gestionar otra.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+ARTÍCULO 108 BIS.- En los casos en que se haya declarado la revocación, la autoridad del transporte competente estará facultada para otorgar una nueva directamente, cuando medien circunstancias que afecten la prestación eficiente y continua del servicio público de transporte.
+
 ###### ARTÍCULO 109.
 
 Todos los concesionarios de cualquiera de los Servicios Públicos de Transporte, están obligados a cumplir con las disposiciones contenidas en la Ley y este Reglamento, así como con las normas técnicas derivadas de los citados ordenamientos, que hayan sido publicadas en la forma establecida y con las condiciones especificadas en el "Título de Concesión".
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+ARTÍCULO 109 BIS.- La Secretaría o Carreteras de Cuota-Puebla, según corresponda, podrán rescatar las concesiones sobre el servicio público de transporte, por causa de utilidad o interés público y mediante indemnización.
+
+Los bienes, equipos e instalaciones destinados directa o inmediatamente a los fines de la concesión, ingresarán al patrimonio del Estado, autorizándose al concesionario, en su caso, a retirar y disponer de los bienes, equipo e instalaciones de su propiedad afectos a la concesión cuando no fueran útiles al Gobierno del Estado.
+
+En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que haya de cubrirse al concesionario; pero en ningún caso podrá tomarse como base para fijarlo el valor intrínseco de los bienes afectos a la concesión.
+
+Si el afectado no estuviese conforme con el monto de la indemnización se determinará por la autoridad judicial a petición del interesado, quien deberá formularla dentro del plazo de quince días, contados a partir de la fecha en que se le notifique la resolución que determine el monto de la indemnización.
 
 ### CAPÍTULO III. DE LAS SOCIEDADES TRANSPORTISTAS
 
@@ -1561,23 +1681,31 @@ Todos los concesionarios de cualquiera de los Servicios Públicos de Transporte,
 
 De conformidad con las disposiciones de la Ley, las personas jurídicas cuyo objeto social sea la prestación del Servicio Público de Transporte y del Servicio Mercantil de Transporte de Personas en vehículos de alquiler o taxi, podrán adoptar cualquiera de las sociedades mercantiles y cooperativas reconocidas por las leyes mexicanas.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 111.
 
-Las Sociedades Transportistas debidamente constituidas y cuya personalidad se encuentre reconocida por la Secretaría, deberán presentar a la misma el Reglamento de Operación relativo a la prestación del Servicio Público de Transporte o de la prestación del Servicio Mercantil cuando sea el caso.
+Las Sociedades Transportistas debidamente constituidas y cuya personalidad se encuentre reconocida por la Secretaría o por Carreteras de Cuota-Puebla, según sea el caso, deberán presentar ante dichas autoridades el Reglamento de Operación relativo a la prestación del Servicio Público de Transporte o de la prestación del Servicio Mercantil cuando sea el caso.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 112.
 
-Las sociedades mercantiles y cooperativas cuyo objeto sea la prestación del Servicio Público de Transporte y de Servicio Mercantil de Transporte de Personas en vehículos de alquiler o taxi, deberán tramitar ante la Secretaría el reconocimiento de su personalidad, por lo que deberán presentar ante la misma, copia certificada del acta constitutiva debidamente requisitada y formalizada, de conformidad con lo establecido en las leyes que amparen su creación, así como el padrón actualizado de sus integrantes.
+Las Sociedades mercantiles y cooperativas cuyo objeto sea la prestación de Servicio Público de Transporte y de Servicio Mercantil de Transporte de Personas en vehículos de alquiler o taxi, deberán tramitar ante la Secretaría o ante Carreteras de Cuota-Puebla, según sea el caso, el reconocimiento de su personalidad, por lo que deberán presentar ante la autoridad, copia certificada del acta constitutiva debidamente integrada y formalizada, de conformidad con lo establecido en las Leyes que amparen su creación, así como el padrón actualizado de sus integrantes.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 113.
 
-Las Sociedades Transportistas deberán dar aviso a la Secretaría, de los cambios que sufra la escritura constitutiva dentro de un término no mayor a treinta días naturales, posteriores a la fecha de su formalización, para lo que deberán presentar ante la misma copia certificada del acta de asamblea en la que se aprobaron los cambios respectivos.
+Las Sociedades Transportistas deberán dar aviso a la Secretaría o en su caso, a Carreteras de Cuota-Puebla, de los cambios que sufra la escritura constitutiva dentro de un término no mayor a treinta días naturales, posteriores a la fecha de su formalización, para lo que deberán presentar ante la autoridad copia certificada del acta de asamblea en la que se aprobaron los cambios respectivos.
 
 ###### ARTÍCULO 114.
 
 Cuando la Sociedad Mercantil destinada al Transporte Público, se constituya con concesionarios individuales; en caso de disolución, liquidación o por cualquiera otra causa con arreglo a la legislación mercantil, los concesionarios individuales recobrarán las concesiones de las que son titulares y continuarán operando en forma individual.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Lo dispuesto en el párrafo anterior no será procedente para el caso de concesiones del Sistema de Transporte Público Masivo.
 
 ### CAPÍTULO IV. DE LOS PERMISOS PARA EL SERVICIO DEL TRANSPORTE MERCANTIL
 
@@ -1665,7 +1793,7 @@ VIII.- Registro federal de contribuyentes;
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
 
-IX.- Factura, carta factura o contrato de arrendamiento financiero. En caso de vehículos extranjeros comprobar regularización ante la Secretaria de Hacienda y Crédito Público;
+IX.- Factura, carta factura o contrato de arrendamiento financiero. En caso de vehículos extranjeros comprobar regularización ante la Secretaría de Hacienda y Crédito Público;
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1715,7 +1843,7 @@ Sin perjuicio de lo establecido en los artículos anteriores, tanto las personas
 
 ###### ARTÍCULO 123.
 
-El Secretario, expedirá el Titulo de Permiso, cuando se hayan cumplido y obren en el expediente administrativo, como mínimo los siguientes requisitos:
+El Secretario, expedirá el Título de Permiso, cuando se hayan cumplido y obren en el expediente administrativo, como mínimo los siguientes requisitos:
 
 I.- Estudio Técnico respectivo o en su caso la declaratoria de necesidad correspondiente publicada en el Periódico Oficial del Estado;
 
@@ -1753,9 +1881,11 @@ Si el permisionario no cumple con las disposiciones legales, el Secretario podr�
 
 Los permisos para Transporte Mercantil, serán cancelados si se demuestra que realizan actividades distintas a las autorizadas, sin perjuicio de las sanciones que procedan.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 129.
 
-Para realizar viajes especiales o de servicio extraordinario con vehículos destinados al Servicio del Transporte Público o al Servicio Mercantil, los permisionarios o concesionarios, estarán obligados a solicitar un permiso especial a la Secretaría, cuando el servicio se preste dentro del territorio del Estado, o en otra Entidad Federativa, deberán ajustarse a las normas que al respecto fijen las Leyes aplicables en la materia del servicio de que se trate.
+Para realizar viajes especiales o de servicio extraordinario con vehículos destinados al Servicio del Transporte Público o al Servicio Mercantil, los permisionarios o concesionarios, estarán obligados a solicitar un permiso especial a la Secretaría o a Carreteras de Cuota-Puebla, según corresponda, cuando el servicio se preste dentro del territorio del Estado, o en otra Entidad Federativa, deberán ajustarse a las normas que al respecto fijen las Leyes aplicables en la materia del servicio de que se trate.
 
 ### CAPÍTULO V. CANCELACIÓN DE LOS PERMISOS
 
@@ -1811,7 +1941,7 @@ XI.- Por haber presentado el permisionario, documentación falsa o alterada para
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
 
-XII.- Por no registraren el mes de enero de cada año, la póliza del seguro del viajero y daños a terceros vigente;
+XII.- Por no registrar en el mes de enero de cada año, la póliza del seguro del viajero y daños a terceros vigente;
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1827,7 +1957,7 @@ XV.- Por sentencia ejecutoriada;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-XVI.- Si decretada la suspensión provisional, subsistiera el incumplimiento en el pago de los adeudas correspondientes por concepto de revalidación de concesión;
+XVI.- Si decretada la suspensión provisional, subsistiera el incumplimiento en el pago de los adeudos correspondientes por concepto de revalidación de concesión;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1927,21 +2057,25 @@ VIII.- Colaborar con las Autoridades de Transporte y Vialidad, en la preparació
 
 IX.- Permitir que las autoridades competentes, en los términos de la Ley y este Reglamento, puedan llevar a cabo la inspección de los vehículos de transporte, así como de las instalaciones y documentos relacionados con la concesión o el permiso de que se trate;
 
-X.- Solicitar la autorización previa de la Secretaría, para realizar los cambios, modificaciones y demás actos relacionados con los vehículos, el servicio o la propia empresa transportista, que afecten la naturaleza de la concesión o del permiso;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+X. Solicitar la autorización previa de la Secretaría o de Carreteras de Cuota-Puebla, según corresponda, para realizar los cambios, modificaciones y demás actos relacionados con los vehículos, el servicio o la propia empresa transportista, que afecten la naturaleza de la concesión o del permiso;
 
 XI.- Abstenerse de realizar cualquier acto que implique competencia desleal o lesione derechos adquiridos por los demás concesionarios y permisionarios;
 
-XII.- Cada una de las rutas o líneas del Servicio Público de Transporte, del Servicio de Transporte Mercantil en Automóviles de Alquiler o Taxis que pertenezcan a un sitio, deberán presentar a la Secretaría su reglamento interior de operación, para su revisión, mencionando entre otros aspectos el nombre del representante o delegado de la ruta, para lo que deberá acompañarse copia certificada del tarjetón de concesión o permiso, Título de Concesión y el itinerario marcado por la línea o ruta;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XII.- Cada una de las rutas o líneas del Servicio Público de Transporte, del Servicio de Transporte Mercantil en Automóviles de Alquiler o Taxis que pertenezcan a un sitio, deberán presentar a la Secretaría o en su caso a Carreteras de Cuota-Puebla, su reglamento interior de operación, para su revisión, mencionando entre otros aspectos el nombre del representante o delegado de la ruta, para lo que deberá acompañarse copia certificada del tarjetón de concesión o permiso, Título de Concesión y el itinerario marcado por la línea o ruta;
 
 XIII.- Adquirir el seguro para cubrir los daños que se ocasionen a terceros, en bienes y personas derivados de la prestación del servicio en términos de lo dispuesto por el artículo 38 de la Ley;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XIV.- Informar a la Secretaría el tipo de combustible que utilizan sus vehículos;
+XIV.- Informar a la Secretaría o a Carreteras de Cuota-Puebla, según corresponda, el tipo de combustible que utilizan sus vehículos;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XV.- Informar cada tres meses a la Secretaría el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación de su titulo que corresponda, así como verificar que aquellos cuenten con la licencia para conducir autorizada y vigente;
+XV.- Informar cada tres meses a la Secretaría o en su caso a Carreteras de Cuota-Puebla, el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación de su título que corresponda, así como verificar que aquellos cuenten con la licencia para conducir autorizada y vigente;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1951,29 +2085,33 @@ XVI.- Abstenerse de colocar o aplicar por sí o a través de terceros dispositiv
 
 XVII.- Abstenerse de alterar o desinstalar del vehículo destinado a la prestación del Servicio Público de Transporte, el regulador de velocidad o el contador de pasajeros;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XVIII.- Obtener el permiso para colocar publicidad o propaganda en el vehículo destinado a la prestación del Servicio de Transporte de que se trate y en su caso, retirarla al término de aquel o cuando se incumpla con las disposiciones legales y administrativas aplicables, dando aviso a la Secretaría dentro del plazo de tres días hábiles;
+XVIII.- Obtener el permiso para colocar publicidad o propaganda en el vehículo destinado a la prestación del Servicio de Transporte de que se trate y en su caso, retirarla al término de aquél o cuando se incumpla con las disposiciones legales y administrativas aplicables, dando aviso a la Secretaría o a Carreteras de Cuota-Puebla, según corresponda, dentro del plazo de tres días hábiles;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 XIX.- Cumplir con las obligaciones que correspondan, en caso de otorgar en garantía los títulos respectivos, para obtener financiamiento destinado a la renovación del parque vehicular; y
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-XX.- Cumplir con todas las obligaciones que se desprendan de la Ley, este Reglamento y demás normas que dicte la Secretaria.
+XX.- Cumplir con todas las obligaciones que se desprendan de la Ley, este Reglamento y demás normas que dicte la Secretaría o Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 138.
 
 Los concesionarios y permisionarios del Servicio de Transporte de Pasajeros o de Carga, están obligados a cumplir con todos los requisitos que en materia de contaminación y preservación del medio ambiente establezcan las Leyes, este Reglamento y los demás ordenamientos de carácter Federal o Estatal aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 139.
 
-Los concesionarios y permisionarios de los Servicios de Transporte deberán colaborar con las autoridades, cuando se requiera, en la prestación de los servicios de emergencia que se hagan necesarios para auxiliar a las poblaciones que sean víctimas de alguna catástrofe o calamidad. La colaboración de los transportistas se llevará a cabo, bajo situaciones especiales que determinará la Secretaría, dentro de la zona donde presten el servicio regularmente y conforme a las instrucciones que reciba de las autoridades correspondientes, siempre y cuando la condición y el tipo de los vehículos así lo permita.
+Los concesionarios y permisionarios de los Servicios de Transporte deberán colaborar con las autoridades, cuando se requiera, en la prestación de los servicios de emergencia que se hagan necesarios para auxiliar a las poblaciones que sean víctimas de alguna catástrofe o calamidad. La colaboración de los transportistas se llevará a cabo, bajo situaciones especiales que determinará la Secretaría y en su caso, Carreteras de Cuota-Puebla, dentro de la zona donde presten el servicio regularmente y conforme a las instrucciones que reciba de las autoridades correspondientes, siempre y cuando la condición y el tipo de los vehículos así lo permita.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 140.
 
-Los concesionarios y permisionarios están obligados a prestar el servicio de que se trate a todo el público que lo requiera y pague el importe de las tarifas autorizadas, sin establecer distinciones, salvo aquéllas que resulten de la propia naturaleza del servicio o en los casos que la Secretaría lo determine.
+Los concesionarios y permisionarios están obligados a prestar el servicio de que se trate a todo el público que lo requiera y pague el importe de las tarifas autorizadas, sin establecer distinciones, salvo aquéllas que resulten de la propia naturaleza del servicio o en los casos que la Secretaría o Carreteras de Cuota de Puebla, según corresponda, lo determine.
 
 ###### ARTÍCULO 141.
 
@@ -1989,19 +2127,19 @@ El seguro a que se refiere el artículo anterior, deberá cubrir una indemnizaci
 
 Tratándose del transporte de objetos, mercancía o bienes, el seguro deberá amparar la carga desde el momento en que dicha mercancía sea recepcionada por el prestador del servicio hasta que se reciba por el consignatario o destinatario, en el lugar señalado en la guía de carga o factura correspondiente.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 144.
 
-Los seguros a los que hacen referencia los artículos 38 de la Ley y 142 de este Reglamento, deben inscribirse en el mes de enero o julio de cada año y, deberán contratarse con una institución legalmente autorizada por la autoridad competente, con la cobertura que a criterio de la Secretaria resulte la más conveniente para la prestación del servicio de que se trate.
+Los seguros a los que hacen referencia los artículos 38 de la Ley y 142 de este Reglamento, deben inscribirse en el mes de enero o julio de cada año y, deberán contratarse con una institución legalmente autorizada por la autoridad competente, con la cobertura que a criterio de la Secretaría o de Carreteras de Cuota-Puebla, según corresponda, resulte la más conveniente para la prestación del servicio de que se trate.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 145.
 
-Los vehículos del Servicio Público del Transporte y del Servicio Mercantil en sus distintos tipos de servicio, pasarán revista vehicular obligatoria de acuerdo a la programación y a las reglas de operación que determine la Secretaría, a fin de evaluar el cumplimiento de las condiciones y características de los vehículos, marcadas en el presente Reglamento y el manual correspondiente.
+Los vehículos del Servicio Público del Transporte y del Servicio Mercantil en sus distintos tipos de servicio, pasarán revista vehicular obligatoria de acuerdo a la programación y a las reglas de operación que determine la Secretaría o en su caso, Carreteras de Cuota-Puebla, a fin de evaluar el cumplimiento de las condiciones y características de los vehículos, marcadas en el presente Reglamento y el manual correspondiente.
 
-Para efectos del párrafo anterior, la Secretaría contará con el personal que resulte necesario, a fin de efectuar la revista vehicular.
+Para efectos del párrafo anterior, la Secretaría y Carreteras de Cuota-Puebla contarán con el personal que resulte necesario, a fin de efectuar la revista vehicular.
 
 ###### ARTÍCULO 146.
 
@@ -2021,7 +2159,9 @@ III.- Por caso fortuito o fuerza mayor.
 
 ARTÍCULO 146 BIS.- Los concesionarios o permisionarios que pretendan colocar, fijar o instalar publicidad o propaganda en el exterior o interior del vehículo destinado a la prestación del Servicio Público de Transporte o del Servicio Mercantil, que tenga por objeto exhibir, promover, proyectar, difundir, publicar o prestar productos, bienes o servicios, o en su caso, la promoción o difusión de la materia político-electoral, deberán obtener de la autoridad competente el permiso correspondiente.
 
-Para colocar publicidad o propaganda en vehículos destinados a la prestación del Servicio de Transporte, previo a obtener el permiso mencionado en el párrafo que antecede, se deberá presentar ante la Secretaria para su autorización la solicitud respectiva, manifestando la imagen, mensaje, escrito, grabación, proyección, expresión gráfica o escrita, que se pretenda colocar o instalar.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Para colocar publicidad o propaganda en vehículos destinados a la prestación del Servicio de Transporte, previo a obtener el permiso mencionado en el párrafo que antecede, se deberá presentar ante la Secretaría o ante Carreteras de Cuota-Puebla, según sea el caso, para su autorización la solicitud respectiva, manifestando la imagen, mensaje, escrito, grabación, proyección, expresión gráfica o escrita, que se pretenda colocar o instalar.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2037,13 +2177,17 @@ IV.- Identificación oficial en caso de personas físicas;
 
 V.- Instrumento notarial que acredite la representación en caso de personas jurídicas;
 
-VI.- Cuando se trate de anuncio por accesorio, presentar original y copia de la póliza del seguro que a criterio de la Secretaría resulte la más conveniente para la prestación del servicio de que se trate;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+VI.- Cuando se trate de anuncio por accesorio, presentar original y copia de la póliza del seguro que a criterio de la Secretaría o de Carreteras de Cuota-Puebla, según corresponda, resulte la más conveniente para la prestación del servicio de que se trate;
 
 VII.- Póliza de seguro del vehículo vigente;
 
 VIII.- Comprobante de domicilio; y
 
-IX.- Las especificaciones técnicas de la propaganda o publicidad que se pretenda colocar o instalar; en todo caso, se deberán observar los Lineamientos que para tal efecto establezca la Secretaría en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+IX.- Las especificaciones técnicas de la propaganda o publicidad que se pretenda colocar o instalar; en todo caso, se deberán observar los lineamientos que para tal efecto establezcan la Secretaría o Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2059,21 +2203,25 @@ a).- Las especificaciones o información interna dirigida tanto a pasajeros como
 
 b).- Los elementos o dispositivos de seguridad, o de operación de carácter interno del vehículo respectivo;
 
-IV.- Retirar, en su caso, la publicidad o propaganda colocada o instalada en el vehículo correspondiente al término del permiso o cuando se incumpla con las disposiciones legales y administrativas aplicables y dar aviso a la Secretaría dentro del plazo de tres días hábiles; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+IV.- Retirar, en su caso, la publicidad o propaganda colocada o instalada en el vehículo correspondiente al término del permiso o cuando se incumpla con las disposiciones legales y administrativas aplicables y dar aviso a la Secretaría o a Carreteras de Cuota-Puebla, según corresponda, dentro del plazo de tres días hábiles, y
 
 V.- Los sistemas de audio y/o video se podrán colocar en lugares que no obstruyan, distraigan o impidan la operación del conductor o chofer del vehículo; se deberán observar en todo caso, las disposiciones legales aplicables respecto a la contaminación por ruido. El contenido de los mensajes o imágenes que se proyecten o difundan a través de los sistemas respectivos se sujetarán a lo dispuesto por la normatividad de la materia.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-La Secretaría y la Contraloría en el ámbito de sus respectivas competencias, vigilarán que se cumplan las disposiciones legales y administrativas aplicables.
+La Secretaría, Carreteras de Cuota-Puebla y la Contraloría en el ámbito de sus respectivas competencias, vigilarán que se cumplan las disposiciones legales y administrativas aplicables.
 
 ## TÍTULO QUINTO. DEL RÉGIMEN DE LAS TARIFAS, ITINERARIOS, FRECUENCIAS DE PASO Y HORARIOS, EN EL SERVICIO PÚBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
 
 ### CAPÍTULO I. DE LAS TARIFAS
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 147.
 
-El establecimiento de las tarifas y sus elementos de aplicación, corresponde a la Secretaría, una vez que haya sido realizado el estudio correspondiente.
+El establecimiento de las tarifas y sus elementos de aplicación, corresponde a la Secretaría o a Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, una vez que haya sido realizado el estudio correspondiente.
 
 ###### ARTÍCULO 148.
 
@@ -2093,15 +2241,17 @@ VI.- Oferta del servicio y demanda del mismo, y
 
 VII.- Seguridad, incremento en la eficiencia y calidad en el servicio hacia el usuario así como la modernización del parque vehicular.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 149.
 
-Cuando la Secretaría determine un aumento a la tarifa, deberán precisarse los compromisos que se adquieran por parte de los prestadores del servicio.
+Cuando la Secretaría o en su caso Carreteras de Cuota Puebla, determine un aumento a la tarifa, deberán precisarse los compromisos que se adquieran por parte de los prestadores del servicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 150.
 
-La vigencia de las tarifas, itinerarios, frecuencias de paso y horarios serán determinadas por la Secretaría, pero ésta podrá modificarlas en cualquier momento, por causas de interés público y en base a un estudio socioeconómico sobre la costeabilidad del servicio.
+La vigencia de las tarifas, itinerarios, frecuencias de paso y horarios serán determinadas por la Secretaría o por Carreteras de Cuota-Puebla, según sea el caso, pero éstas podrán modificarlas en cualquier momento, por causas de interés público y en base a un estudio socioeconómico sobre la costeabilidad del servicio.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -2111,11 +2261,11 @@ Respecto a las tarifas, itinerarios, frecuencias de paso y horarios, serán supe
 
 Las tarifas autorizadas para el Servicio Público de Transporte, así como cualquier modificación y ajuste que se haga a las mismas, deberán ser publicadas en el Periódico Oficial del Estado, así como en un diario de los de mayor circulación en la Entidad, por lo menos con cinco días de anticipación al de su entrada en vigor. Las tarifas autorizadas deberán fijarse en lugar visible de las bases, terminales de transferencias, sitios y unidades.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 152.
 
-Corresponde a la Contraloría, vigilar que el público usuario no se vea afectado en sus intereses por la alteración de las tarifas, por lo que, en caso de cobros no autorizados, la Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, tomarán las medidas que procedan con base en lo dispuesto en la Ley, el presente Reglamento y demás disposiciones legales aplicables.
+Corresponde a la Contraloría, vigilar que el público usuario no se vea afectado en sus intereses por la alteración de las tarifas, por lo que, en caso de cobros no autorizados, la Secretaría, Carreteras de Cuota-Puebla y la Contraloría, en el ámbito de sus respectivas competencias, tomarán las medidas que procedan con base en lo dispuesto en la Ley, el presente Reglamento y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 153.
 
@@ -2125,17 +2275,23 @@ Los Servicios Públicos de Transporte tendrán una tarifa que corresponda en cad
 
 En el caso particular de los automóviles de alquiler o taxis, la tarifa a cobrar por la prestación del servicio, será determinada por la Secretaría bajo los lineamientos que señala el artículo 148 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 155.
 
-Para la realización de los estudios de tarifas que deberán elaborar las autoridades, la Secretaría, podrá solicitar a los concesionarios y permisionarios, cuando lo estime conveniente, sus registros de ingresos, egresos, demandas de pasaje o carga, y demás datos relativos, por lo que los transportistas deberán llevar este tipo de información, de manera sistemática y obligatoria. La Secretaría podrá corroborar los datos que le proporcionen los concesionarios y permisionarios.
+Para la realización de los estudios de tarifas que deberán elaborar las autoridades, la Secretaría o Carreteras de Cuota-Puebla, según corresponda, podrán solicitar a los concesionarios y permisionarios, cuando lo estimen conveniente, sus registros de ingresos, egresos, demandas de pasaje o carga, y demás datos relativos, por lo que los transportistas deberán llevar este tipo de información, de manera sistemática y obligatoria. La Secretaría o Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, podrán corroborar los datos que les proporcionen los concesionarios y permisionarios.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 156.
 
-En todo caso, ya se trate de los estudios llevados a cabo por la Secretaría o de los elaborados por los propios concesionarios o permisionarios, será el Secretario quien autorice y haga efectiva la aplicación de las tarifas correspondientes.
+En todo caso, ya se trate de los estudios llevados a cabo por la Secretaría, Carreteras de Cuota-Puebla o de los elaborados por los propios concesionarios o permisionario, será el Secretario o Carreteras de Cuota-Puebla, según sea el caso, quien autorice y haga efectiva la aplicación de las tarifas correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 157.
 
-De conformidad con lo establecido por la Secretaría, la Ley y este Reglamento, el incremento de las tarifas autorizadas dará lugar a la revocación definitiva de la concesión o permiso de que se trate, sin perjuicio de la aplicación de otras sanciones que procedan.
+De conformidad con lo establecido por la Secretaría, Carreteras de Cuota-Puebla, la Ley y este Reglamento, el incremento de las tarifas autorizadas dará lugar a la revocación definitiva de la concesión o permiso de que se trate, sin perjuicio de la aplicación de otras sanciones que procedan.
 
 ### CAPÍTULO II. DE LOS ITINERARIOS
 
@@ -2157,21 +2313,27 @@ VI.- Localización de los lugares de parada obligatoria en los puntos intermedio
 
 VII.- Tiempo total en que se hace el recorrido.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 159.
 
-Las modificaciones relativas a los horarios, itinerarios, frecuencias de paso y al incremento de los vehículos asignados, deberán ser solicitados por escrito por los concesionarios que integren la ruta a la Secretaría, cumpliendo con los requisitos que para el efecto determine la misma, conforme a la Ley y este Reglamento y se otorgarán por ésta si no se lesionan los derechos de los servicios establecidos y previo estudio técnico por parte de la Secretaría que determine si es o no procedente.
+Las modificaciones relativas a los horarios, itinerarios, frecuencias de paso y al incremento de los vehículos asignados, deberán ser solicitados por escrito por los concesionarios que integren la ruta a la Secretaría o en su caso, a Carreteras de Cuota-Puebla, cumpliendo con los requisitos que para el efecto determine la autoridad, conforme a la Ley y este Reglamento y se otorgarán por ésta si no se lesionan los derechos de los servicios establecidos y previo estudio técnico por parte de la Secretaría o Carreteras de Cuota Puebla en el ámbito de su competencia, que determine si es o no procedente.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ARTÍCULO 159 BIS.- Se entiende por fusión de rutas, a la unión de dos o más recorridos para conformar una sola, éste itinerario puede ser radial, sobrepuesto o perimetral; el resultado de la fusión en algunos casos podrá ser diametral.
 
-Las rutas interesadas en fusionarse deberán presentar la solicitud correspondiente ante la Secretaría, o bien, se podrá realizar a propuesta de las autoridades del transporte~ en todo caso se deberá observar lo dispuesto por la Ley y el Título Cuarto de este Reglamento. Los interesados deberán constituirse como persona jurídica de acuerdo a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Las rutas interesadas en fusionarse deberán presentar la solicitud correspondiente ante la autoridad competente, o bien, se podrá realizar a propuesta de las autoridades del transporte; en todo caso se deberá observar lo dispuesto por la Ley y el Título Cuarto de este Reglamento. Los interesados deberán constituirse como persona jurídica de acuerdo a las disposiciones legales aplicables.
 
 Autorizada la fusión, las rutas involucradas tendrán una sola clave de ruta, integrada por el número de las concesiones respectivas y el itinerario, conforme al acuerdo que determine su procedencia.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 160.
 
-Servirán de base para el establecimiento de las tarifas, itinerarios, frecuencias de paso y horarios, los estudios que practique la Secretaría, atendiendo siempre a la capacidad de la ruta, distancia, recorrido, estado del camino y servicio que se preste.
+Servirán de base para el establecimiento de las tarifas, itinerarios, frecuencias de pasos y horarios, los estudios que practique la Secretaría o en su caso, Carreteras de Cuota-Puebla, atendiendo siempre a la capacidad de la ruta, distancia, recorrido, estado del camino y servicio que se preste.
 
 ### CAPÍTULO III. DE LOS HORARIOS
 
@@ -2185,27 +2347,27 @@ Los concesionarios están obligados a fijar en las terminales de pasajeros, term
 
 ### CAPÍTULO I. OBLIGACIONES DE LOS CONDUCTORES DE LOS VEHÍCULOS
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 162.
 
-Para que una persona pueda conducir cualquier vehículo del Servicio Público de Transporte y del Servicio de Transporte Mercantil, deberá poseer y portar durante todo el tiempo en que esté prestando el servicio, la licencia para conducir, y cuando corresponda el Gafete de Identificación; estos documentos deberán estar vigentes y haber sido expedidos por la Secretaría.
+Para que una persona pueda conducir cualquier vehículo del Servicio Público de Transporte y del Servicio de Transporte Mercantil, deberá poseer y portar durante todo el tiempo en que esté prestando el servicio, la licencia para conducir, y cuando corresponda el Gafete de Identificación; estos documentos deberán estar vigentes y haber sido expedidos por la autoridad del transporte competente.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 163.
 
-Los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberán someterse a los exámenes médicos que sean necesarios, para verificar que sus condiciones de salud sean satisfactorias y que no representen ningún riesgo para la seguridad de los usuarios y de terceros. Los exámenes médicos a que se hace referencia, se practicarán con la periodicidad que determine la Secretaría y se verificarán por parte de la Contraloría.
+Los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberán someterse a los exámenes médicos que sean necesarios, para verificar que sus condiciones de salud sean satisfactorias y que no representen ningún riesgo para la seguridad de los usuarios y de terceros. Los exámenes médicos a que se hace referencia, se practicarán con la periodicidad que determine la autoridad del transporte competente, y se verificarán por parte de la Contraloría.
 
 ###### ARTÍCULO 164.
 
 Los conductores deberán realizar su trabajo en condiciones físicas y mentales adecuadas, por lo que no podrán conducir los vehículos si han ingerido bebidas alcohólicas o cualquier tipo de sustancias psicotrópicas o enervantes. En caso de contravenir esta norma se harán acreedores a la aplicación de las sanciones que establecen al efecto la Ley y este Reglamento, sin perjuicio de la responsabilidad penal en que pudieran incurrir.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 165.
 
-Los conductores del Servicio Público de Transporte, deberán hacer las paradas únicamente en los lugares autorizados por la Secretaría; el cumplimiento de tal disposición se verificará por parte de la Contraloría. El tiempo de parada deberá limitarse para el ascenso y descenso de pasajeros, además, deberán mantener cerradas las puertas durante el recorrido y solamente se abrirán para el ascenso y descenso del pasaje.
+Los conductores del Servicio Público de Transporte, deberán hacer las paradas únicamente en los lugares autorizados por la Secretaría o por Carreteras de Cuota Puebla, según sea el caso; el cumplimiento de tal disposición se verificará por parte de la Contraloría. El tiempo de parada deberá limitarse para el ascenso y descenso de pasajeros, además, deberán mantener cerradas las puertas durante el recorrido y solamente se abrirán para el ascenso y descenso del pasaje.
 
 ###### ARTÍCULO 166.
 
@@ -2261,9 +2423,11 @@ XV.- Violar las normas de vialidad que la autoridad respectiva haya emitido para
 
 ### CAPÍTULO II. DERECHOS DE LOS USUARIOS
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 169.
 
-Los usuarios de los vehículos del Servicio Público de Transporte deberán recibir, al pagar el importe de su pasaje, un boleto cuyas características determine la Secretaría.
+Los usuarios de los vehículos del Servicio Público de Transporte deberán recibir, al pagar el importe de su pasaje, un boleto cuyas características determine la Secretaría, excepto cuando se trate del Sistema de Transporte Público Masivo.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -2307,11 +2471,17 @@ IX.- Cubrir el importe del boleto por pago del derecho correspondiente para la p
 
 X.- Solicitar con anticipación su descenso en la parada autorizada;
 
-XI.- Abstenerse de tirar basura dentro y fuera o maltratar y pintar, las unidades del Servicio Público de Transporte y del Servicio Mercantil, y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+XI.- Abstenerse de tirar basura dentro y fuera o maltratar y pintar, las unidades del Servicio Público de Transporte y del Servicio Mercantil;
 
-XII. Denunciar toda anomalía que observe en la prestación del Servicio Público de Transporte y del Servicio Mercantil ante la Secretaría y la Contraloría.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XII.- Denunciar toda anomalía que observe en la prestación del Servicio Público de Transporte y del Servicio Mercantil ante la autoridad del transporte competente, y la Contraloría, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2015)</small>
+
+XIII.- En caso de Sistema de Transporte Público Masivo, adquirir la tarjeta o medio de prepago que previamente haya autorizado Carreteras de Cuota-Puebla, debiendo utilizarla como único medio de pago.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -2329,7 +2499,9 @@ Los usuarios deberán viajar en el interior de los vehículos, absteniéndose de
 
 Son Servicios Auxiliares los bienes muebles e inmuebles inherentes a la prestación del Servicio Público de Transporte y del Servicio Mercantil, previstos en la Ley y este Reglamento.
 
-La Secretaría regulará los Servicios Auxiliares siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
+La Secretaría o Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, regularán los Servicios Auxiliares siguientes:
 
 I. Las terminales de pasajeros;
 
@@ -2359,17 +2531,21 @@ XIII. Los demás que sean necesarios para el mejoramiento del Servicio Público 
 
 ### CAPÍTULO II. DE LAS TERMINALES
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 175.
 
-Para los efectos de este Reglamento, se entiende por terminales, los lugares autorizados en donde las empresas que presten el Servicio Público de Transporte de Pasajeros o del Servicio Mercantil de Carga, sujetos a itinerarios previamente autorizados por la Secretaría y que estarán debidamente supervisados y vigilados por la Contraloría, estacionen sus vehículos antes de iniciar o al terminar el recorrido de su ruta.
+Para los efectos de este Reglamento, se entiende por terminales, los lugares autorizados en donde las empresas que presten el Servicio Público de Transporte de Pasajeros o del Servicio Mercantil de Carga, sujetos a itinerarios previamente autorizados por la autoridad del transporte competente y que estarán debidamente supervisados y vigilados por la Contraloría, estacionen sus vehículos antes de iniciar o al terminar el recorrido de su ruta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 176.
 
-Los concesionarios y permisionarios del Servicio Público de Transporte y del Servicio Mercantil, para el establecimiento de terminales, solicitarán la autorización correspondiente por parte de la Secretaría, la cual deberá reunir los requisitos siguientes:
+Los concesionarios y permisionarios del Servicio Público de Transporte y del Servicio Mercantil, para el establecimiento de terminales, solicitarán la autorización correspondiente por parte de la autoridad del transporte competente, la cual deberá reunir los requisitos siguientes:
 
-I.- Presentar su solicitud por triplicado de acuerdo con el modelo que proporcionará la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+I.- Presentar su solicitud por triplicado de acuerdo con el modelo que proporcionará la autoridad del transporte competente;
 
 II.- Presentar el proyecto ejecutivo de la construcción de la obra;
 
@@ -2389,9 +2565,13 @@ IX.- Acreditar el nombre o personalidad de la persona física o moral que repres
 
 X.- Exhibir copia del reglamento interno que deberán observar los permisionarios y concesionarios que hagan uso de la terminal, y
 
-XI.- Las que se establezcan por la Secretaría en el formato respectivo.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-La respuesta a la autorización deberá pronunciarse dentro de un término máximo de sesenta días hábiles, por parte de la Secretaría.
+XI.- Las que se establezcan por la autoridad del transporte competente, en el formato respectivo.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+La respuesta a la autorización deberá pronunciarse dentro de un término máximo de sesenta días hábiles.
 
 ###### ARTÍCULO 177.
 
@@ -2405,9 +2585,9 @@ Las terminales deberán ubicarse en lugares donde no interrumpan la circulación
 
 Los concesionarios o permisionarios de las lineas del Servicio Público de Transporte o del Servicio Mercantil, en sus respectivas terminales, colocarán rótulos con la denominación de la línea de que se trate, de los lugares que cubre y el horario de llegada y salida del servicio; fijarán en igual forma el precio del importe del pasaje, la clase de servicio y darán toda la información necesaria a los usuarios.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-Cuidarán que las instalaciones se conserven en buen estado de limpieza e higiene, que cuenten con el personal especializado para atención del público usuario y no permitirán que los vehículos pertenecientes a sus líneas, suban o desciendan pasaje fuera de las instalaciones de la terminal o hagan estacionamiento en vía pública, fuera de los lugares determinados por la Secretaría para tal efecto. El cabal cumplimiento de lo dispuesto en este artículo será supervisado y vigilado por la Contraloría.
+Cuidarán que las instalaciones se conserven en buen estado de limpieza e higiene, que cuenten con el personal especializado para atención del público usuario y no permitirán que los vehículos pertenecientes a sus líneas, suban o desciendan pasaje fuera de las instalaciones de la terminal o hagan estacionamiento en vía pública, fuera de los lugares determinados por la autoridad del transporte competente para tal efecto. El cabal cumplimiento de lo dispuesto en este artículo será supervisado y vigilado por la Contraloría.
 
 ###### ARTÍCULO 180.
 
@@ -2425,11 +2605,11 @@ DE LOS SITIOS, BASES, CENTROS Y/O TERMINALES DE TRANSFERENCIA DEL SISTEMA DE TRA
 
 Para los efectos de este Reglamento se entiende por sitio el lugar de la vía pública o el predio particular, donde previa autorización de la Secretaría, se estacionen vehículos destinados al Servicio Mercantil, a los que el usuario pueda acudir para su contratación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 182.
 
-Para establecer un sitio, base o terminal de transferencia del sistema de transporte público masivo, los centros y/o terminales de transferencia multimodal del sistema de transporte público masivo, los talleres de mantenimiento del sistema de transporte público masivo, los patios de encierro del sistema de transporte público masivo, terminales de transferencia y demás, será necesario la autorización de la Secretaría, que se solicite por escrito y se reúnan los siguientes requisitos:
+Para establecer un sitio, base o terminal de transferencia del sistema de transporte público masivo, los centros y/o terminales de transferencia multimodal del sistema de transporte público masivo, los talleres de mantenimiento del sistema de transporte público masivo, los patios de encierro del sistema de transporte público masivo, terminales de transferencia y demás, será necesario la autorización de Carreteras de Cuota-Puebla, que se solicite por escrito y se reúnan los siguientes requisitos:
 
 I.- Nombre y domicilio de la persona física o moral que lo solicite;
 
@@ -2443,19 +2623,23 @@ IV.- Croquis de localización del predio, describiendo la zona de influencia en 
 
 V.- Fotografías del lugar específico y de vista general;
 
-VI.- Las demás que se establezcan por la Secretaría para el estudio técnico, y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+VI.- Las demás que se establezcan por Carreteras de Cuota-Puebla para el estudio técnico, y
 
 VII.- Número de unidades y listados de concesionarios o permisionarios que realizan sitio, base o terminal en el lugar propuesto.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 183.
 
-La Secretaria, previa inspección del lugar de que se trate, resolverá, si es o no de concederse la autorización, atendiendo las necesidades del público y a que la ubicación del sitio no se encuentre en calles de intensa circulación o en un radio menor de doscientos cincuenta metros con respecto a otro sitio en las zonas urbanas y de ciento cincuenta metros en cuanto a otro tipo de zonas.
+La autoridad de transporte, previa inspección del lugar de que se trate, resolverá, si es o no de concederse la autorización, atendiendo las necesidades del público y a que la ubicación del sitio no se encuentre en calles de intensa circulación o en un radio menor de doscientos cincuenta metros con respecto a otro sitio en las zonas urbanas y de ciento cincuenta metros en cuanto a otro tipo de zonas.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 184.
 
-La Secretaría podrá suspender la autorización o cambiar de ubicación, los sitios que constituyan un problema para la circulación, o para los usuarios, previa audiencia de los interesados.
+La autoridad de transporte, podrá suspender la autorización o cambiar de ubicación, los sitios que constituyan un problema para la circulación, o para los usuarios, previa audiencia de los interesados.
 
 ###### ARTÍCULO 185.
 
@@ -2467,7 +2651,9 @@ II.- Porque el lugar de su ubicación sea utilizado para otros fines diferentes 
 
 III.- Por no revalidarse los permisos o concesiones de los vehículos autorizados para hacer sitio, dentro de los términos que establece la Ley y el presente Reglamento;
 
-IV.- Por actos graves que a juicio de la Secretaría, pongan en peligro los intereses del público, y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+IV.- Por actos graves que a juicio de la autoridad del transporte competente, pongan en peligro los intereses del público, y
 
 V.- Por causas de interés social.
 
@@ -2497,19 +2683,25 @@ I.- Censo poblacional de las localidades, colonias o comunidades beneficiadas, a
 
 II.- Número de unidades solicitadas y su modalidad.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 190.
 
-Para efectos de este Reglamento se entiende por terminal de transferencia, los lugares en que las líneas o rutas del Servicio de Transporte Público convergen, al iniciar o terminar su recorrido, autorizados por la Secretaría y propiedad del Gobierno del Estado, en los cuales los usuarios pueden transbordar otros vehículos sin salir de dicha instalación.
+Para efectos de este Reglamento se entiende por terminal de transferencia, los lugares en que las líneas o rutas del Servicio de Transporte Público convergen, al iniciar o terminar su recorrido, autorizados por la autoridad del transporte competente, y propiedad del Gobierno del Estado, en los cuales los usuarios puedan transbordar otros vehículos sin salir de dicha instalación.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 191.
 
-Las terminales de transferencia, pueden ser concesionadas a personas físicas y morales sujetándose en lo conducente a los requisitos y condiciones que previenen los artículos 117, 118 y 121 del presente Reglamento, así como en los ordenamientos legales aplicables y los que dicte la Secretaría.
+Las terminales de transferencia, pueden ser concesionadas a personas físicas y morales sujetándose en lo conducente a los requisitos y condiciones que previenen los artículos 117, 118 y 121 del presente Reglamento, así como en los ordenamientos legales aplicables y los que dicte la autoridad del transporte competente.
 
 ### CAPÍTULO IV. ARRASTRE, TRASLADO Y DEPÓSITO PARA VEHÍCULOS DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE SERVICIO MERCANTIL
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 192.
 
-Las personas físicas o morales que cuenten con la concesión correspondiente y que dispongan de vehículos con grua para el arrastre y traslado de vehículos hacia los depósitos que opere directamente la Secretaría o los concesionados a particulares, podrán realizar este servicio siempre que cumplan con los requisitos previamente establecidos por la misma.
+Las personas físicas o morales que cuenten con la concesión correspondiente y que dispongan de vehículos con grúa para el arrastre y traslado de vehículos hacia los depósitos que opere directamente la autoridad del transporte, o los concesionados a particulares, podrán realizar este servicio siempre que cumplan con los requisitos previamente establecidos por la misma.
 
 ###### ARTÍCULO 193.
 
@@ -2527,13 +2719,17 @@ III.- Grúa tipo "C", con capacidad de 12 toneladas, que se utilizará para el a
 
 IV.- Grúa tipo "D" con capacidad de 25 toneladas, que se utilizará para el arrastre de autobuses cuyo peso bruto no rebase los 17,000 kilogramos, o para tractocamiones cuyo peso bruto no exceda los 18,000 kilogramos.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 195.
 
-Los depósitos de vehículos que opere la Secretaría, podrán ser concesionados a personas físicas o morales, cuando éstas en lo conducente, reúnan los requisitos y condiciones que previenen los artículos 117, 118 y 121 del presente Reglamento, así como en los ordenamientos legales aplicables y los que dicte la Secretaría.
+Los depósitos de vehículos que opere la autoridad del transporte competente, podrán ser concesionados a personas físicas o morales, cuando éstas en lo conducente, reúnan los requisitos y condiciones que previenen los artículos 117, 118 y 121 del presente Reglamento, así como en los ordenamientos legales aplicables y los que dicte la autoridad del transporte competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 196.
 
-Los Servicios Auxiliares susceptibles de concesión, autorización o permiso, podrán ser cancelados por la Secretaría cuando:
+Los Servicios Auxiliares susceptibles de concesión, autorización o permiso, podrán ser cancelados o revocados por la autoridad del transporte competente, cuando:
 
 I.- Se afecte el interés público;
 
@@ -2549,81 +2745,139 @@ La cancelación o revocación de la concesión, autorización o permiso de los S
 
 ### CAPÍTULO V. CENTROS DE CAPACITACIÓN, ADIESTRAMIENTO O PROFESIONALIZACIÓN
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 197.
 
-La Secretaría promoverá la creación de los centros de capacitación, adiestramiento o profesionalización para aquellos conductores de vehículos destinados a la prestación del servicio público de transporte y del servicio de transporte mercantil.
+La autoridad del transporte competente, promoverán la creación de los centros de capacitación, adiestramiento o profesionalización para aquellos conductores de vehículos destinados a la prestación del servicio público de transporte y del servicio de transporte mercantil.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 198.
 
-Los interesados en operar un centro de capacitación, adiestramiento o profesionalización para los conductores de los vehículos del servicio público de transporte y del servicio de transporte mercantil, deberán contar con la autorización otorgada por la Secretaría, previo pago de derechos en su caso, la que se otorgará cuando en lo conducente se satisfagan los requisitos previstos en los ordenamientos legales aplicables que dicte la Secretaría, además acreditar:
+Los interesados en operar un centro de capacitación, adiestramiento o profesionalización para los conductores de los vehículos del servicio público de transporte y del servicio de transporte mercantil, deberán contar con la autorización otorgada por la autoridad del transporte, previo pago de derechos en su caso, la que se otorgará cuando en lo conducente se satisfagan los requisitos previstos en los ordenamientos legales y disposiciones administrativas aplicables, además acreditar:
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 I. Contar con plantilla de instructores capacitados experimentados en materia de vialidad, tránsito y transporte;
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 II. Contar con programas de estudios avalado por alguna institución de educación superior u organismo público o privado con experiencia y prestigio en materia de capacitación, para su revisión, el cual deberá estar conformado de los siguientes módulos:
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 BÁSICOS
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 a) Educación Vial.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 b) Manejo a la Defensiva.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 c) Relaciones Humanas, incluyendo sensibilización en la atención a personas discapacitadas, adultos mayores y demás grupos vulnerables, y en apego al Modelo de Equidad de Género.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 d) Marco Legal.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 e) Educación Ambiental.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 f) Mecánica Básica.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 g) Primeros Auxilios.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 OPCIONALES
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 a) Orientación Turística.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 b) Administración de Recursos para concesionarios, permisionarios, sociedades u organizaciones transportistas.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 III. Contar con instalaciones adecuadas, aulas funcionales y equipadas con medios didácticos audiovisuales, compatible con el uso de las tecnologías actuales;
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 IV. Contar con los elementos para realizar examen práctico de manejo;
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 V. Presentar el procedimiento para acreditar que el conductor tomó y aprobó el curso y garantizar que efectivamente está apto para conducir vehículos del Servicio Público de Transporte o del Servicio Mercantil;
 
-VI. Someter a consideración de la Secretaría el costo del curso;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-VII. Integrar una base de datos con cada uno de los egresados, con la información que la Secretaría determine;
+VI.- Someter a consideración de la autoridad del transporte, el costo del curso;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+VII.- Integrar una base de datos con cada uno de los egresados, con la información que la autoridad del transporte determine;
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 VIII. Que el curso propuesto tenga una duración mínima de veinte horas, y
 
-IX. Presentar a la Secretaría los informes de capacitación de acuerdo con las características que la misma solicite.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+IX.- Presentar a la autoridad del transporte los informes de capacitación de acuerdo con las características que la misma solicite.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 De igual forma estarán obligados a proporcionar en todo tiempo a los supervisores, los datos, informes y documentos relativos a la prestación del servicio que le sean requeridos y permitir el acceso a las instalaciones.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+ARTÍCULO 198 BIS.- La autoridad del transporte competente impartirá y promoverá la realización de cursos de capacitación, adiestramiento o profesionalización, para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil, así como aquellos destinados a la conducción de vehículos particulares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
+ARTÍCULO 198 TER.- El curso de capacitación y adiestramiento impartido por la autoridad del transporte competente, tendrá vigencia de un año, emitiendo la acreditación correspondiente.
+
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
-
-ARTÍCULO 198 BIS.- La Secretaría impartirá y promoverá la realización de cursos de capacitación, adiestramiento y/o profesionalización, para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil, así como aquellos destinados a la conducción de vehículos particulares.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
-
-ARTÍCULO 198 TER.- El curso de capacitación y adiestramiento impartido por la Secretaría tendrá vigencia de un año, emitiendo la acreditación correspondiente.
 
 REQUISITOS:
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
 I. Saber leer y escribir;
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
 
 II. Copia certificada del acta de nacimiento expedida por el Registro Civil;
 
-III. Acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que la Secretaría determine;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+III. Acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que (sic) autoridad del transporte competente determine;
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
 
 IV. Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses, o recibo de pago que cubra la totalidad del ejercicio fiscal vigente;
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
 V. Dos fotografías recientes;
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
 VI. Aprobar examen de conocimientos, y
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
 
 VII. Pago de derechos correspondientes.
 
@@ -2633,7 +2887,9 @@ VII. Pago de derechos correspondientes.
 
 La autorización a la que se refiere el artículo 198 del presente Reglamento, podrá ser revocada por las siguientes causas:
 
-I. No cumplir con el programa aprobado por la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+I. No cumplir con el programa aprobado por la autoridad del transporte competente;
 
 II. Detectar corrupción en el proceso para otorgar la acreditación de las personas capacitadas, y
 
@@ -2647,177 +2903,59 @@ Todos los Servicios Auxiliares susceptibles de concesión, se regirán por lo es
 
 ### CAPÍTULO I. RECURSOS
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
 ###### ARTÍCULO 201.
 
-Contra actos definitivos de la autoridad, que el particular, el concesionario o el permisionario consideren violen sus derechos, procede el Recurso de Inconformidad.
-
-Se entiende por acto definitivo aquel que pone fin a un procedimiento de los establecidos en la Ley y el presente Reglamento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 202.
 
-El Recurso de Inconformidad se interpondrá por escrito, dependiendo de la autoridad que haya emitido el acto que se recurra, ante la Coordinación General de Asuntos Jurídicos de la Secretaría o ante el Instituto de Supervisión y Vigilancia, según sea el caso, el cual deberá ser presentado dentro de los ocho días siguientes a la notificación del acto recurrible y contendrá:
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-I.- Nombre del recurrente debiendo acompañar el documento con el que acredite la personalidad con la que se ostente y, señalar domicilio en la ciudad de Puebla para recibir notificaciones personales, en caso contrario, se practicarán por estrados;
-
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
-
-II.- Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-III.- Acto recurrido y fecha en que se le notificó o tuvo conocimiento del mismo y autoridad o autoridades responsables, así como el acto que de cada una de ellas se reclame;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-IV.-Manifestación del inconforme, bajo protesta de decir verdad, de los hechos y abstenciones que tengan relación con el acto reclamado;
-
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
-
-V.- Expresión de agravios que causa el acto que se impugna, conceptos de violación y disposiciones legales que estime violadas;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VI.- El ofrecimiento y aportación de pruebas; y
-
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
-
-VII.- En su caso, la solicitud de la suspensión del acto reclamado.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-Con el escrito de inconformidad se deberán acompañar sendas copias para la autoridad o autoridades responsables y para la persona señalada en la fracción II de este artículo.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
-
-ARTÍCULO 202 BIS.- Procede la suspensión del acto que se impugna, cuando:
-
-I.- Lo solicite el agraviado;
-
-II.- No se cause perjuicio al interés social, o se contravengan normas de orden público; y
-
-III.- Sean de difícil reparación los daños y perjuicios que se causen al agraviado con la ejecución del acto.
-
-El otorgamiento o negación de la suspensión se acordará en el auto que admita el Recurso de Inconformidad.
-
-Al concederse la suspensión, se procurará fijar la situación en que habrán de quedar las cosas y se tomarán las medidas pertinentes para conservar la materia del recurso hasta la terminación del mismo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+ARTÍCULO 202 BIS.- (DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 203.
 
-Recibido el recurso la autoridad notificará al recurrente la admisión de aquél dentro de los diez días siguientes, señalándole un plazo de quince días para el desahogo de pruebas, quedando cinco días para presentar alegatos por escrito; los plazos o términos señalados en este artículo se computarán en días y horas hábiles, y la substanciación se llevará a cabo de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-I.- Serán admisibles todos los medios de prueba, excepto la confesional o declaración de parte de la autoridad, así como de las que fueren contra la moral o el derecho;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-II.- No se tendrán por ofrecidas y aportadas, las pruebas que se presenten fuera del término señalado para tal efecto; las que no tengan relación con los hechos y actos impugnados se desecharán de plano, con excepción de las pruebas supervenientes las que se deberán aportar antes de dictar la resolución definitiva;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-III.- La autoridad competente podrá pedir o hacerse allegar de los informes que estime pertinentes, por parte de quienes hayan intervenido en la emisión del acto recurrido;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-IV.- La autoridad dictará la resolución definitiva dentro del plazo de treinta días hábiles siguientes al término de alegatos; y
-
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
-
-V.- En relación al presente recurso y en todo aquello que no hubiera disposición expresa, será aplicado supletoriamente el Código de Procedimientos Civiles vigente para el Estado de Puebla.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 204.
 
-El recurso de inconformidad se tendrá por no interpuesto y se desechará de plano cuando:
-
-I.- No se presente en el tiempo y forma que establece este Reglamento;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-II.- No se interponga por quien esté legitimado o no se haya acompañado la documentación que acredite la personalidad con la que se ostenta el recurrente; y
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-III.- No se presente firmado en forma autógrafa por el promovente.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 205.
 
-Se desechará por improcedente el recurso de inconformidad, en los siguientes casos:
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
-
-I.- Cuando se impugnen actos que no sean definitivos;
-
-II.- Cuando los actos sean materia de otro recurso que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el mismo acto impugnado;
-
-III.- Cuando los actos no afecten los intereses jurídicos del promovente;
-
-IV.- Cuando sean actos consentidos tácita o expresamente, y
-
-V.- Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal, interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto materia del recurso;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VI.- Cuando los actos hayan cesado, dejado de surtir sus efectos o se hayan consumado de modo irreparable.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
-
-ARTÍCULO 205 BIS.- Operará la caducidad procesal y se mandará a archivar el asunto como totalmente concluido, cuando cualquiera que sea el estado del recurso no se haya efectuado algún acto procesal dentro del término de noventa días naturales, ni el recurrente promueva en ese lapso.
+ARTÍCULO 205 BIS.- (DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 206.
 
-La resolución que pone fin al recurso de inconformidad, se notificará personalmente al interesado en el domicilio señalado para tal efecto y no procederá recurso administrativo alguno en su contra.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ### CAPÍTULO II. DE LAS NOTIFICACIONES
 
 ###### ARTÍCULO 207.
 
-Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos, así como los acuerdos, resoluciones y demás disposiciones dictadas en la aplicación de la Ley y el presente Reglamento, podrán realizarse:
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-I.- Personalmente con quien debe entenderse la diligencia, en el domicilio del interesado señalado en la ciudad de Puebla;
-
-II.- Por correo certificado, con acuse de recibo;
-
-III.- Por telefax o cualquier otro medio por el que se pueda comprobar fehacientemente, la recepción del documento, y
-
-IV.- En los casos en que no se hubiere señalado domicilio, que éste no corresponda al del interesado o su representante legal o a solicitud de éstos, o por estrados.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 208.
 
-En las notificaciones personales, se aplicarán las siguientes disposiciones:
-
-I.- Se hará en el domicilio del interesado o en el último domicilio que la persona a quien deba de notificarse, haya señalado ante esta Secretaría en el procedimiento administrativo de que se trate. En todo caso, el notificador deberá cerciorarse de que se trata del domicilio de la persona que ha de ser notificada y deberá entregar original o copia autorizada del acto que se le notifica, señalando la fecha y hora en que se efectúa; recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega a recibirla se hará constar en el acta de notificación, sin que ello afecte su validez;
-
-II.- Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato, y
-
-III.- Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y de negarse ésta a recibirla o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 209.
 
-Cuando no se tenga domicilio cierto de quien deba ser notificado, las notificaciones se harán por estrados.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTÍCULO 210.
 
-Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos para la interposición de recursos empezarán a correr a partir del día siguiente a aquél en que haya surtido efectos la notificación.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
-Se tendrá como fecha de notificación por correo certificado, la que conste en el acuse de recibo.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 211.
 
-En las boletas de infracción que al efecto elaboren los supervisores con motivo de alguna o algunas violaciones a las normas previstas en la Ley y este Reglamento, surtirán sus efectos legales desde el momento de su realización y el plazo para la interposición del Recurso que señale este Reglamento, empezará a transcurrir a partir del día hábil siguiente a aquél en que se haya emitido la referida boleta de infracción.
+En las boletas de infracción que al efecto elaboren los supervisores con motivo de alguna o algunas violaciones a las normas previstas en la Ley y este Reglamento, surtirán sus efectos legales desde el momento de su realización y el plazo para la interposición del Recurso que señale la Ley, empezará a transcurrir a partir del día hábil siguiente a aquél en que se haya emitido la referida boleta de infracción.
 
-En las boletas de infracción que elabore la Secretaría en su respectivo ámbito de competencia con motivo de alguna o algunas violaciones a las normas previstas en la Ley y este Reglamento, surtirán sus efectos legales desde el momento de su realización y el plazo para la interposición del Recurso que señale este Reglamento, empezará a transcurrir a partir del día hábil siguiente a aquél en que se haya emitido la referida acta de infracción.
+En las boletas de infracción que elabore la autoridad de transporte competente, en su respectivo ámbito de competencia con motivo de alguna o algunas violaciones a las normas previstas en la Ley y este Reglamento, surtirán sus efectos legales desde el momento de su realización y el plazo para la interposición del Recurso que señale la Ley, empezará a transcurrir a partir del día hábil siguiente a aquél en que se haya emitido la referida acta de infracción.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -2833,17 +2971,25 @@ Para el caso de que el infractor no se encuentre presente, el supervisor elabora
 
 ### CAPÍTULO III. SANCIONES
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 214.
 
-Los propietarios de los vehículos que, con base a lo establecido en la Ley, este Reglamento y otros ordenamientos legales, sean retirados de la vía pública y llevados a los depósitos autorizados por la Secretaría, se harán acreedores a la sanción que corresponda por la falta cometida, sin perjuicio de cubrir el pago por concepto de arrastre y depósito de acuerdo con las tarifas autorizadas. Dichas sanciones podrán consistir en:
+Los propietarios de los vehículos que, con base a lo establecido en la Ley, este Reglamento y otros ordenamientos legales, sean retirados de la vía pública y llevados a los depósitos autorizados por la Secretaría o por Carreteras de Cuota-Puebla, según sea el caso, se harán acreedores a la sanción que corresponda por la falta cometida, sin perjuicio de cubrir el pago por concepto de arrastre y depósito de acuerdo con las tarifas autorizadas. Dichas sanciones podrán consistir en:
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 I.- Multa;
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 II.- Apercibimiento;
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 III.- Suspensión de la concesión y/o permiso; y
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 IV.- Revocación de la concesión o cancelación del permiso, de conformidad con lo establecido en el presente Reglamento.
 
@@ -2867,9 +3013,13 @@ III.- Por conducir el chofer o conductor del vehículo destinado a prestar el Se
 
 ARTÍCULO 214 TER.- La suspensión provisional de las concesiones o permisos, se sujetará al procedimiento siguiente:
 
-I.- La Secretaría notificará personalmente y por escrito al concesionario o permisionario, las causas que originan el inicio del procedimiento;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
 
-II.- El concesionario o permisionario al término de cinco días hábiles, contados a partir del día siguiente en que se le haya notificado el inicio del procedimiento, podrá de forma escrita apersonarse ante la Secretaría y manifestar lo que a su derecho convenga y presentar y ofrecer las pruebas que estime convenientes, que deben estar relacionadas con las causas que originan el procedimiento;
+I.- La Secretaría, o en su caso, Carreteras de Cuota-Puebla, notificará personalmente y por escrito al concesionario o permisionario, las causas que originan el inicio del procedimiento;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+II.- El concesionario, o permisionario al término de cinco días hábiles, contados a partir del día siguiente en que se le haya notificado el inicio del procedimiento, podrá de forma escrita apersonarse ante la Secretaría o ante Carreteras de Cuota-Puebla, según corresponda, y manifestar lo que a su derecho convenga y presentar y ofrecer las pruebas que estime convenientes, que deben estar relacionadas con las causas que originan el procedimiento;
 
 III.- Serán admitidos todos los medios de prueba, excepto la confesional y declaración de parte de las autoridades, así como las que fueren contra la moral o el derecho;
 
@@ -2881,9 +3031,15 @@ VI.- Fenecido el término anterior, se notificará al interesado para que en un 
 
 VII.- Concluido lo anterior, las autoridades competentes tendrán un plazo de veinte días hábiles para dictar la resolución correspondiente.
 
-Contra la resolución que suspenda de forma provisional la concesión o permiso, procede el Recurso de inconformidad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 (ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)ARTÍCULO 214 QUÁTER.- La resolución dictada por las autoridades competentes por la que se suspenda provisionalmente una concesión o permiso, subsistirá sin menoscabo de la aplicación de las leyes penales y civiles, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+ARTÍCULO 214 QUINQUIES.- Tratándose del Sistema de Transporte Público Masivo, la suspensión de las concesiones únicamente podrá aplicarse en el caso de que el servicio no se preste en forma eficiente o continua, o se preste en forma irregular.
+
+Los vehículos afectos al Sistema de Transporte Público Masivo que sean detenidos por alguna infracción cometida por su conductor, serán llevados a las terminales o base que les corresponda y quedarán puestos a disposición de Carreteras de Cuota-Puebla, quien determinará lo procedente para no afectar la continuidad de la prestación del servicio.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2899,17 +3055,17 @@ El infractor que pague la multa dentro de los cinco días hábiles siguientes a 
 
 No se dará curso a ningún trámite relativo a licencias, concesiones o permisos, sin que previamente se hayan cubierto las multas correspondientes y se exhiba, en su caso, el comprobante respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 218.
 
-Las sanciones que la Secretaría y la Contraloría apliquen por cualquier violación a la Ley y el presente Reglamento, se impondrán sin perjuicio de las que procedan conforme a la Legislación Penal.
+Las sanciones que la Secretaría, Carreteras de Cuota-Puebla o la Contraloría apliquen por cualquier violación a la Ley y el presente Reglamento, se impondrán sin perjuicio de las que procedan conforme a la Legislación Penal.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 219.
 
-El tabulador de infracciones se elaborará, modificará o adicionará de forma coordinada por la Secretaría y la Contraloría.
+El tabulador de infracciones se elaborará, modificará o adicionará de forma coordinada por la Secretaría o Carreteras de Cuota-Puebla, según corresponda, y la Contraloría.
 
 ###### ARTÍCULO 220.
 
@@ -2934,6 +3090,10 @@ La fuga del infractor también será motivo de sanción.
 Para garantizar el pago de las multas impuestas a los concesionarios o permisionarios con motivo del servicio, se deberá retener por la Contraloría, a través de sus supervisores, la licencia de conducir, la tarjeta de circulación, una de las placas o el vehículo con el que se presta el servicio, pero ésta última medida sólo será procedente en caso de que al menos una de las multas impuestas sea igual o superior a cincuenta días de salario mínimo de acuerdo con el tabulador de infracciones.
 
 El propietario del vehículo dispondrá de un plazo de veinte días naturales contados a partir de la fecha en que se fijó la multa para cubrirla, así como los gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará a la Secretaría de Finanzas y Administración, para su cobro.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Por cuanto hace al Sistema de Transporte Público Masivo, Carreteras de Cuota Puebla resolverá lo conducente en términos de las características particulares del caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
 
@@ -2965,25 +3125,25 @@ Para la devolución de la licencia para conducir, la tarjeta de circulación o l
 
 En caso de que el vehículo no esté autorizado para prestar el Servicio Público de Transporte o el Servicio Mercantil, la devolución del mismo se hará cubriendo los requisitos señalados en las fracciones I, III, IV, V y VI del artículo 225 del presente Reglamento; además, deberá exhibir las placas de circulación del vehículo en cuestión y despintar el mismo si tiene los colores relativos al Servicio Público de Transporte o al Servicio Mercantil.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 228.
 
-El trámite de devolución de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberá hacerse por el propietario o por su representante legal debidamente acreditado ante la Secretaría, si es persona física, o a través de su representante legal, si es persona moral.
+El trámite de devolución de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberá hacerse por el propietario o por su representante legal debidamente acreditado ante la Secretaría o ante Carreteras de Cuota-Puebla, según sea el caso, si es persona física, o a través de su representante legal, si es persona moral.
 
 ###### ARTÍCULO 229.
 
 En la detención de vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil por violación a cualquiera de las normas de la Ley y este Reglamento, y los ordenamientos legales correspondientes, se elaborará un inventario del vehículo detenido, de acuerdo al formato impreso, el cual será firmado por el conductor infractor, el conductor de la grúa que lo traslade en caso de utilizarse y el responsable del resguardo. En caso de que el infractor se negare a firmar, se asentará razón de dicha negativa, sin que ello afecte su validez.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-Los vehículos se depositarán en los corralones a cargo de la Secretaría.
+Los vehículos se depositarán en los corralones a cargo de la Secretaría, o en su caso, de Carreteras de Cuota-Puebla.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 230.
 
-Cualquier trámite que se realice ante la Secretaría o la Contraloría, a que se refiere la Ley y este reglamento, deberá presentarse por escrito, y firmado por el interesado, en los casos en que el Reglamento no disponga otra cosa. Si dentro del término de treinta días hábiles posteriores al inicio de cualquier trámite, el promovente no realiza ninguna actuación, se declarará el abandono del mismo, quedando sin efecto alguno y considerándose como no iniciado.
+Cualquier trámite que se realice ante la Secretaría, Carreteras de Cuota-Puebla o la Contraloría, a que se refiere la Ley y este Reglamento, deberá presentarse por escrito, y firmado por el interesado, en los casos en que el Reglamento no disponga otra cosa. Si dentro del término de treinta días hábiles posteriores al inicio de cualquier trámite, el promovente no realiza ninguna actuación, se declarará el abandono del mismo, quedando sin efecto alguno y considerándose como no iniciado.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -3047,7 +3207,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Las licencias para conducir otorgadas por la Secretaría hasta antes de la entrada en vigor de este Decreto, conservarán su vigencia en los términos correspondientes.
 
-CUARTO.- Los conductores o choferes que hayan obtenido la licencia temporal de entrenamiento de chofer del Servicio Público y del Servido Mercantil, conforme a las disposiciones que se derogan por el presente Decreto, podrán obtener la licencia de chofer para el Servicio Público de Transporte o la licencia de chofer para el Servido de Transporte Mercantil, según corresponda.
+CUARTO.- Los conductores o choferes que hayan obtenido la licencia temporal de entrenamiento de chofer del Servicio Público y del Servicio Mercantil, conforme a las disposiciones que se derogan por el presente Decreto, podrán obtener la licencia de chofer para el Servicio Público de Transporte o la licencia de chofer para el Servicio de Transporte Mercantil, según corresponda.
 
 P.O. 20 DE ENERO DE 2014.
 
@@ -3058,3 +3218,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Reglamen
 TERCERO.- Es facultad de los Titulares de la Secretaría y de la Contraloría, interpretar en el ámbito de su competencia, las disposiciones de este Reglamento y resolver cualquier duda que suscite su aplicación.
 
 CUARTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto a que se refiere el artículo primero transitorio y que se relaciona con las facultades dadas a la Secretaría de la Contraloría, se sustanciarán por la Secretaría de Transportes en el ámbito de su competencia hasta su total solución.
+
+P.O. 17 DE MARZO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente.
