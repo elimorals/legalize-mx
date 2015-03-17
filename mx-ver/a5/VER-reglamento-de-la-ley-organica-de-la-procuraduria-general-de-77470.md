@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-774
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-17"
-last_updated: "2014-12-26"
+last_updated: "2015-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DECIMOCUARTO Y DECIMOQUINTO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 17 DE MARZO DE 2015, HASTA EN TANTO SE CUMPLA EN SU TOTALIDAD CON LOS PLAZOS ESTABLECIDOS EN EL DECRETO NÚMERO 297, PUBLICADO EL 10 DE SEPTIEMBRE DE 2014 EN LA GACETA OFICIAL DEL ESTADO, NÚMERO EXTRAORDINARIO 362, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 17 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 17 de noviembre de 2010.
 
@@ -4598,3 +4600,45 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 17 DE MARZO DE 2015.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las facultades otorgadas al Procurador General de Justicia, en las leyes, reglamentos y demás disposiciones normativas, se entenderán conferidas al Fiscal o a la Fiscalía General, siempre que éstas sean compatibles con las atribuciones que le otorga la Constitución Política del Estado de Veracruz de Ignacio de la Llave y con su condición de órgano constitucional autónomo, de conformidad con el artículo octavo, párrafo segundo, del Decreto número 536 que reforma y deroga diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
+
+Tercero. Para todos los efectos legales procedentes, cualquier mención a los Agentes del Ministerio Público, Subprocuradores Regionales, Subprocuradores Especializados, y al Subprocurador General de Supervisión y Control, se entenderá que se refiere a los Fiscales, Fiscales Regionales, Fiscales Coordinadores Especializados y al Visitador General.
+
+Cuarto. Para todos los efectos legales procedentes, cualquier mención al Director General Jurídico, al Director General de Administración, al Director General de Control de Procesos y Litigación, al Director del Centro de Información y al Coordinador del Centro de Evaluación y Control de Confianza, se entenderá que se refiere al Abogado General, al Oficial Mayor, al Director de Control de Procesos, al Director del Centro de Información e Infraestructura Tecnológica y al Director General del Centro de Evaluación y Control de Confianza.
+
+Quinto. Para todos los efectos legales procedentes, cualquier mención a la Agencia Veracruzana de Investigaciones, se entenderá que se refiere a la Policía Ministerial de la Fiscalía General, y al Director de la Agencia Veracruzana de Investigaciones, se entenderá que se refiere al Director General de la Policía Ministerial de la Fiscalía General.
+
+Sexto. Los Fiscales Regionales y Fiscales Coordinadores Especializados, previo acuerdo con el Fiscal General, designaran al o a los o las Fiscales que se requieran para efecto de concluir las carpetas de investigación que se hayan iniciado de conformidad con el Código de Procedimientos Penales para el Estado de Veracruz de Ignacio de la Llave, que de acuerdo a la declaratoria corresponda.
+
+Séptimo. Los Síndicos de los Ayuntamientos Municipales en donde no exista un Fiscal Municipal designado por el Fiscal General, actuarán como tal, sin necesidad de nombramiento especial para el ejercicio de sus funciones y dependerán en lo relativo a la investigación del hecho delictivo y, en lo relativo al proceso, al Fiscal en turno adscrito a la Unidad Integral del Distrito Judicial respectivo, hasta en tanto entra en vigor el Sistema Acusatorio en los lugares de residencia de los mismos, acorde al Decreto 297 por el que se emite la declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Veracruz de Ignacio de la Llave, y establece los términos de su aplicación gradual en los Distritos Judiciales del Estado, publicado el 10 de Septiembre del 2014 en la Gaceta Oficial del Estado, número extraordinario 362; debiéndose estar a lo dispuesto por el artículo 50 de la Ley Orgánica, hasta en tanto la Fiscalía General cuente con el personal suficiente y presupuesto, para brindar y garantizar el acceso a la Justicia en los municipios donde no se cuente con Fiscales, en un plazo que no excederá del mes de junio del año 2017.
+
+Octavo. Los Fiscales que aún tengan nombramiento de Agentes del Ministerio Público Adscritos a los Juzgados Penales, seguirán en funciones en los Juzgados que por acuerdo del Consejo de la Judicatura permanezcan en los Distritos Judiciales en donde se aplique el Sistema de Justicia Penal Acusatorio Adversarial, para abatir el rezago en los procedimientos incoados conforme al sistema de justicia penal anterior, y estarán subordinados jerárquicamente a la Dirección de Control de Procesos; por lo que los demás Fiscales que fungían como Agentes del Ministerio Público Adscritos en Materia Penal, se readscribirán a las Unidades Integrales donde se requieran por las necesidades del servicio.
+
+Noveno. Los procedimientos jurisdiccionales y administrativos, relacionados con la separación, remoción, cese o cualquier otra forma de conclusión de los servicios de trabajadores o empleados al servicio de la Procuraduría General de Justicia que estuviesen en trámite a la entrada en vigor de la Ley Orgánica de la Fiscalía General, se concluirán conforme a la normatividad que les era aplicable al inicio del procedimiento de que se trate.
+
+Los procedimientos iniciados después de la entrada en vigor de la Ley Orgánica de la Fiscalía General, este Reglamento y los ordenamientos administrativos correspondientes, se tramitarán conforme a éstos.
+
+Los procedimientos administrativos de responsabilidad iniciados, a la fecha, a los servidores públicos de la Procuraduría General de Justicia del Estado que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley Orgánica de la Fiscalía General, continuarán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento, vigilando el debido proceso y las garantías del servidor público.
+
+Décimo. El personal de la Procuraduría General de Justicia del Estado encargado de llevar a cabo las funciones del Ministerio Público, antes de la entrada en vigor de la Ley Orgánica de la Fiscalía General del Estado, deberá ser evaluado por el Centro de Evaluación y Control de Confianza, dentro del plazo y bajo las condiciones señaladas en las disposiciones legales aplicables, sin embargo las certificaciones para la permanencia que se les haya expedidos seguirán siendo válidos aunque haya cambiado su denominación por la de Fiscales.
+
+Decimoprimero. Serán dispensados, por única ocasión, de los requisitos previstos para ingresar a laborar, los trabajadores que ya se encuentren laborando actualmente en las áreas operativas de la Fiscalía General del Estado; sin embargo, no se les dispensarán los requisitos de permanencia, que establecen las disposiciones legales aplicables.
+
+Decimosegundo. Los superiores jerárquicos de las unidades administrativas creadas en este Reglamento, podrán ejercer las atribuciones de éstas, con el personal que actualmente cuenta, hasta en tanto las condiciones presupuestales permitan la implementación de las nuevas unidades y el nombramiento del personal necesario para su funcionamiento.
+
+Decimotercero. El Oficial Mayor deberá realizar todas y cada una de las actividades que, en ejercicio de sus funciones, le señalen este Reglamento y demás disposiciones normativas aplicables, que sean necesarias para el funcionamiento administrativo, material, financiero y humano para la Fiscalía General del Estado.
+
+Decimocuarto. El Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial de fecha 17 de noviembre de 2010, quedará abrogado una vez que se cumplan los plazos señalados en el artículo Transitorio siguiente, o se concluyan los asuntos iniciados en la vigencia del sistema procesal penal anterior.
+
+Decimoquinto. Las disposiciones del Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Veracruz vigente, continuarán aplicándose, por cuanto hace a las atribuciones del personal operativo adscrito a los Distritos Judiciales en donde aún se aplique el Sistema de Justicia Penal anterior, hasta en tanto se cumpla en su totalidad con los plazos establecidos en el Decreto número 297 que Declara la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Veracruz de Ignacio de la Llave y establece los Términos de su aplicación gradual en los Distritos Judiciales del Estado, publicado el 10 de Septiembre de 2014 en la Gaceta Oficial del Estado, número extraordinario 362.
+
+Por lo tanto, dicho personal operativo tramitará los asuntos de su competencia, conforme a las facultades y obligaciones establecidas en este Reglamento y en el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia en lo que no se opongan, hasta que este último quede abrogado en su totalidad una vez que se cumplan los plazos que establece el Decreto antes citado, o se concluyan los asuntos iniciados en el sistema procesal penal anterior.
+
+Decimosexto. En tanto se actualizan los Manuales de Organización y de Procedimientos, se expedirán los acuerdos y circulares que sean necesarias para resolver las cuestiones que dichos Manuales deban regular.
+
+Decimoséptimo. Se derogan todas las disposiciones que se opongan al presente Reglamento.
