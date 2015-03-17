@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2015-01-30"
+last_updated: "2015-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1415,17 +1415,17 @@ El Pleno podrá acordar el otorgamiento de otro tipo de estímulos a los servido
 
 El Consejo establecerá, en un acuerdo reglamentario de este artículo, un sistema de pensiones complementarias a las otorgadas por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, mediante un fondo suficiente, conforme a las siguientes bases:
 
-PRIMERA. Los jueces de distrito y los magistrados de circuito al retirarse del cargo, ya sea por haber cumplido la edad para el retiro forzoso a que se refiere la Ley Orgánica del Poder Judicial de la Federación o por sufrir incapacidad permanente debidamente dictaminada, recibirán una pensión vitalicia equivalente al ochenta por ciento del ingreso mensual que corresponda a los mismos funcionarios en activo.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 172 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE MARZO DE 2015)</small>
 
-Cuando los jueces de distrito o los magistrados de circuito se retiren del cargo antes de cumplirse alguno de los supuestos a que se refiere el párrafo anterior, tendrán derecho a una pensión vitalicia equivalente a la parte proporcional de la pensión señalada en este artículo, conforme a la edad y a los años de servicio en el Poder Judicial de la Federación que se establecen en la base segunda de este artículo.
+PRIMERA. Los jueces de Distrito y los magistrados de Circuito al retirarse del cargo, ya sea por haber cumplido la edad para el retiro forzoso a que se refiere la Ley Orgánica del Poder Judicial de la Federación o por sufrir incapacidad permanente debidamente dictaminada, recibirán una pensión vitalicia equivalente al ochenta por ciento del ingreso mensual que corresponda a los mismos funcionarios en activo.
 
-El derecho a la pensión se perderá de manera irrevocable si el Juez de Distrito o el Magistrado de Circuito retirados se desempeñaren, dentro de los dos años siguientes al retiro del cargo, como asesores, consejeros jurídicos, abogados patronos o cualquiera otra forma del ejercicio profesional de licenciados en derecho, o cualquier encargo similar, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+Cuando los jueces de Distrito o los magistrados de Circuito se retiren del cargo antes de cumplirse alguno de los supuestos a que se refiere el párrafo anterior, tendrán derecho a una pensión vitalicia equivalente a la parte proporcional de la pensión señalada en este artículo, conforme a la edad y a los años de servicio en el Poder Judicial de la Federación que se establecen en la base segunda de este artículo.
 
-En caso de fallecimiento del Juez de Distrito o del Magistrado de Circuito durante el ejercicio del cargo, el cónyuge supérstite o concubina y sus hijos menores o incapaces tendrán derecho a una pensión mensual equivalente al cincuenta por ciento de la remuneración mensual que le hubiera correspondido al propio funcionario, en términos del primer párrafo de la Base Primera de este artículo.
+El derecho a la pensión se perderá de manera irrevocable si el juez de Distrito o el magistrado de Circuito retirados se desempeñaren, dentro de los dos años siguientes al retiro del cargo, como asesores, consejeros jurídicos, abogados patronos o cualquiera otra forma del ejercicio profesional de licenciados en derecho, o cualquier encargo similar, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
-Si el Magistrado de Circuito o Juez de Distrito falleciere después de concluido el ejercicio de su cargo, habiendo reunido los requisitos mínimos para tener derecho a la pensión complementaria a que se refiere este artículo, el cónyuge supérstite o concubina y sus hijos menores o incapaces tendrán derecho a una pensión mensual equivalente al cincuenta por ciento de la que le hubiera correspondido al propio funcionario, en términos del segundo párrafo de la Base Primera de este artículo.
+En caso de fallecimiento del juez de Distrito o del magistrado de Circuito durante el ejercicio del cargo, su cónyuge o concubina, así como sus hijos menores o incapaces tendrán derecho a una pensión mensual equivalente al cincuenta por ciento de la remuneración mensual que le hubiera correspondido al propio funcionario, en términos del primer párrafo de la Base Primera de este artículo.
 
-La cónyuge o concubina dejará de tener derecho a este beneficio al contraer matrimonio o al entrar en concubinato, y los menores, excepto los incapaces, al cumplir la mayoría de edad. Tratándose del cónyuge varón sólo podrá tener derecho a este beneficio cuando carezca de recursos económicos para su subsistencia y, además, se encuentre imposibilitado para trabajar.
+Si el magistrado de Circuito o juez de Distrito falleciere después de concluido el ejercicio de su cargo, habiendo reunido los requisitos mínimos para tener derecho a la pensión complementaria a que se refiere este artículo, su cónyuge o concubina, así como sus hijos menores o incapaces tendrán derecho a una pensión mensual equivalente al cincuenta por ciento de la que le hubiera correspondido al propio funcionario, en términos del segundo párrafo de la Base Primera de este artículo. Esas personas supérstites dejarán de tener derecho a este beneficio si contraen matrimonio, entran en concubinato o sociedad de convivencia; los menores, excepto los incapaces, al cumplir la mayoría de edad.
 
 SEGUNDA. El monto de las pensiones por retiro anticipado, a que se refiere el segundo párrafo de la base primera, se determinará conforme a la tabla que, mediante acuerdo general, establezca el Consejo de la Judicatura Federal. Para la elaboración de la tabla mencionada y el consiguiente cálculo proporcional ascendente de la pensión correspondiente, se deberán tomar en consideración un mínimo de veinticinco años de servicios efectivos en el Poder Judicial de la Federación y una edad mínima de sesenta y cinco años; en este caso la pensión mínima será equivalente al cuarenta y cinco por ciento del ingreso mensual que corresponda a los mismos funcionarios en activo.
 
@@ -1876,3 +1876,9 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
+
+D.O.F. 17 DE MARZO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
