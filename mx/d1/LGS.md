@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2014-12-19"
+last_updated: "2015-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -1948,13 +1948,13 @@ III.- Las disposiciones de esta Ley y demás normas jurídicas aplicables, y
 
 IV.- Las leyes que expidan los estados, con fundamento en los artículos 5o. y 121, fracción V, de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 79.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2007)</small>
-
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2782,11 +2782,11 @@ III.- Vehículo de enfermedades transmisibles al hombre, a través de sus produc
 
 Se prohibe la introducción o el transporte por el territorio nacional de animales que padezcan una enfermedad transmisible al hombre, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohibe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria considere infectadas.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 157 Bis.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA y demás enfermedades de transmisión sexual.
 
 ### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
 
@@ -7292,17 +7292,17 @@ En materia de medicamentos se aplicarán las penas que a continuación se mencio
 
 I.- A quien adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de medicamentos, fármacos, materias primas o aditivos, de sus envases finales para uso o consumo humanos o los fabrique sin los registros, licencias o autorizaciones que señala esta Ley, se le aplicará una pena de tres a quince años de prisión y multa de cincuenta mil a cien mil días de salario mínimo general vigente en la zona económica de que se trate;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
+II.- A quien falsifique o adultere o permita la adulteración o falsificación de material para envase o empaque de medicamentos, etiquetado, sus leyendas, la información que contenga o sus números o claves de identificación, se le aplicará una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate;
 
-II.- A quien falsifique o adultere o permita la adulteración o falsificación de material para envase o empaque de medicamentos, etiquetado, sus leyendas, la información que contenga o sus números o claves de identificación, se le aplicará una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate, y
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III.- A quien venda u ofrezca en venta, comercie, distribuya o transporte medicamentos, fármacos, materias primas o aditivos falsificados, alterados, contaminados o adulterados, ya sea en establecimientos o en cualquier otro lugar, o bien venda u ofrezca en venta, comercie, distribuya o transporte materiales para envase o empaque de medicamentos, fármacos, materias primas o aditivos, sus leyendas, información que contenga números o claves de identificación, que se encuentran falsificados, alterados o adulterados, le será impuesta una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate, y
 
-> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
 
-III.- A quien venda u ofrezca en venta, comercie, distribuya o transporte medicamentos, fármacos, materias primas o aditivos falsificados, alterados, contaminados o adulterados, ya sea en establecimientos o en cualquier otro lugar, o bien venda u ofrezca en venta, comercie, distribuya o transporte materiales para envase o empaque de medicamentos, fármacos, materias primas o aditivos, sus leyendas, información que contenga números o claves de identificación, que se encuentran falsificados, alterados o adulterados, le será impuesta una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate.
+IV. A quien venda, ofrezca en venta o comercie muestras médicas, le será impuesta una pena de uno a nueve años de prisión y multa equivalente de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2006)</small>
 
@@ -7324,7 +7324,7 @@ La mujer casada no podrá otorgar su consentimiento para ser inseminada sin la c
 
 Al que induzca o propicie que menores de edad o incapaces consuman, mediante cualquier forma, substancias que produzcan efectos psicotrópicos, se le aplicará de siete a quince años de prisión.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO “EN LA PORCIÓN NORMATIVA QUE REMITE A LA FRACCIÓN IV DEL ARTÍCULO 245 DE LA PROPIA LEY”, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 1 DE DICIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO "EN LA PORCIÓN NORMATIVA QUE REMITE A LA FRACCIÓN IV DEL ARTÍCULO 245 DE LA PROPIA LEY", LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -8211,3 +8211,21 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud establecerá la normatividad para la instalación y el funcionamiento de los lactarios.
 
 Asimismo, las acciones que deban realizar las dependencias o entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto en el presente Decreto, en términos de la normatividad que la Secretaría de Salud emita para tal efecto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
+
+D.O.F. 17 DE MARZO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 157 BIS DE LA LEY GENERAL DE SALUD.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MARZO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 79 DE LA LEY GENERAL DE SALUD.
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MARZO DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 464 TER DE LA LEY GENERAL DE SALUD.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
