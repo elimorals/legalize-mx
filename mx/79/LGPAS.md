@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2014-12-05"
+last_updated: "2015-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -498,9 +498,33 @@ VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental
 
 VIII. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en los que se encuentran las autoridades administrativas competentes en materia de pesca y acuacultura adoptarán el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones;
 
-IX. La transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores, y
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
 
-X. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
+IX. Posicionar los productos pesqueros y acuícolas nacionales en los mercados de alto valor, garantizando la eficiencia y sanidad a lo largo de la cadena productiva, dándoles valor agregado;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
+
+X. Impulsar el establecimiento de una cultura de inocuidad en el manejo, distribución y comercialización de productos pesqueros y acuícolas;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
+
+XI. Los sectores pesquero y acuícola se desarrollarán desde una perspectiva sostenible, que integre y concilie los factores económicos, sociales y ambientales, a través de un enfoque estratégico y ecoeficiente;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
+
+XII. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario para el fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena productiva, que aumente la productividad y mejore la competitividad;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
+
+XIII. Impulso regional equilibrado y equitativo, que priorice el desarrollo de las comunidades y pueblos indígenas;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
+
+XIV. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura;
+
+XV. La transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores, y
+
+XVI. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
 
 ###### ARTÍCULO 18.
 
@@ -2121,3 +2145,9 @@ D.O.F. 5 DE DICIEMBRE DE 2014.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN VI, 82 Y 84, FRACCIÓN V DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES.
 
 Único. El presente decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad pesquera y acuícola, estarán sujetas a lo establecido en las Leyes de Ingresos, Federal de Presupuesto y Responsabilidad Hacendaria y de Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda.
