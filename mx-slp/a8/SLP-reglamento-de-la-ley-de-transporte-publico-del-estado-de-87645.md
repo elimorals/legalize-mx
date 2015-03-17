@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-transporte-publico-del-estado-de-87645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-19"
-last_updated: "2013-01-12"
+last_updated: "2015-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2015.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -133,13 +133,17 @@ Toda resolución de carácter general en materia de características técnicas s
 
 Para modificar, sustituir o extinguir las resoluciones de carácter general en materia de características técnicas a que se refiere el presente Capítulo, se observará el mismo procedimiento que para su expedición establece el artículo anterior.
 
-## TITULO TERCERO. DEL REGIMEN DE CONCESIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2015)</small>
+
+## TITULO TERCERO. DEL RÉGIMEN DE CONCESIONES Y PERMISOS TEMPORALES
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 10.
 
-Los interesados en obtener concesiones para la prestación del servicio público de transporte, deberán cumplir con los requisitos y trámites que señalan la Ley y este Reglamento.
+Los interesados en obtener concesiones y permisos temporales para la prestación del servicio público de transporte, deberán cumplir con los requisitos y trámites que señalan la Ley y este Reglamento.
 
 ###### ARTICULO 11.
 
@@ -163,13 +167,17 @@ VIII. Los demás que establezcan las disposiciones legales aplicables vigentes e
 
 Contra la presentación de la solicitud se extenderá una constancia de inscripción, una vez que se verifique que la misma reúne los requisitos señalados en las fracciones precedentes y en el artículo 18 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 12.
 
-Los trámites y procedimientos inherentes al otorgamiento de las concesiones, a que se refiere la Ley y este Reglamento, serán realizados por la Secretaría, la que, además, vigilará el exacto cumplimiento de las condiciones y términos establecidos.
+Los trámites y procedimientos inherentes al otorgamiento de concesiones y permisos temporales, a que se refiere la Ley y este Reglamento, serán realizados por la Secretaría, la que, además, vigilará el exacto cumplimiento de las condiciones y términos establecidos.
 
 No se considerará otorgada una concesión hasta que físicamente sea entregado el título respectivo, previo pago de los derechos correspondientes y el cumplimiento de los requisitos que señalan la Ley y este Reglamento.
 
-### CAPITULO II. DE LAS CONCESIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2015)</small>
+
+### CAPITULO II. DE LAS CONCESIONES Y PERMISOS TEMPORALES
 
 #### Sección Primera. Del otorgamiento de las concesiones
 
@@ -187,11 +195,21 @@ En términos de lo dispuesto por el segundo párrafo del artículo 31 de la Ley,
 
 I. Concurso, tratándose de transporte urbano, suburbano, foráneo, y automóvil de alquiler en sitio o ruleteo y
 
-II. Asignación directa, en el caso de transporte rural, servicios especiales y carga, de acuerdo con las bases que se asientan en las fracciones I, II y III del propio artículo 31 de la Ley.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+II. Asignación directa, en el caso de servicios especiales previsto en el artículo 21 fracción V inciso c) de la Ley y de acuerdo con las bases establecidas en las fracciones I, II y III del propio artículo 31 de la Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+###### ARTICULO 14. Bis.
+
+El otorgamiento de permisos temporales se realizará por asignación directa, de conformidad a lo establecido en el párrafo cuarto, fracciones I, II y III del artículo 31 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 15.
 
-En los procedimientos para el otorgamiento de concesiones de transporte público susceptibles de ser otorgadas a personas morales deben observarse las siguientes disposiciones:
+En los procedimientos para el otorgamiento de concesiones o permisos temporales de transporte público susceptibles de ser otorgadas a personas morales deben observarse las siguientes disposiciones:
 
 I. Para efectos de acreditar la capacidad de inversión para la compra, arrendamiento o financiamiento de unidades, instalaciones e infraestructura, se deben presentar estados financieros debidamente dictaminados o bien, en el caso de las empresas de creación menor a un año, inventario y avalúo bancario de los bienes que formen el activo fijo de la empresa así como los estados de cuenta bancarios;
 
@@ -203,9 +221,11 @@ b) Programas de capacitación, incentivos, renovación de flota, medidas de prot
 
 c) Experiencia en materia de transporte presentando para tal efecto, el historial correspondiente y los datos para su comprobación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 16.
 
-En los procedimientos para el otorgamiento de concesiones de transporte público susceptibles de ser otorgadas a personas físicas deben observarse las siguientes disposiciones:
+En los procedimientos para el otorgamiento de concesiones o permisos temporales de transporte público susceptibles de ser otorgadas a personas físicas deben observarse las siguientes disposiciones:
 
 I. Para efectos de que la Secretaría lleve a cabo el estudio socioeconómico, los concursantes o solicitantes según sea el caso, deben acreditar a través de estados de cuenta bancarios, contar con los recursos económicos para la adquisición a precio comercial determinado por las agencias distribuidoras en el caso de vehículos nuevos o por el tabulador contenido en el "libro azul" en el caso de vehículos usados; o bien, acreditar mediante la factura correspondiente, ser propietarios de un vehículo que cumpla con las características de la modalidad de que se trate, o en su defecto, con su declaración patrimonial que determine su capacidad crediticia avalada con los documentos correspondientes.
 
@@ -247,11 +267,17 @@ La calificación que se otorga al resto de los participantes es el resultado de 
 
 Tratándose de municipios en los que no se cuenten con antecedentes que acrediten la antigüedad de los interesados como operadores o solicitantes, se atenderá, en el orden que sigue, a:
 
-1. La solicitud con mayor antigüedad, para lo que se tomarán en cuenta la hora, los minutos y segundos del reloj receptor de la Secretaría.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
-2. Los originarios y vecinos del Estado de San Luis Potosí.
+1. La solicitud con mayor antigüedad, para lo que se tomará en cuenta la hora del reloj receptor de la Secretaría.
 
-3. Los originarios y vecinos del municipio del Estado de San Luis Potosí que corresponda.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+2. Los originarios y vecinos de la comunidad y municipio del Estado de San Luis Potosí que corresponda.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+3. Los originarios y vecinos del Estado de San Luis Potosí.
 
 Apartado B
 
@@ -273,7 +299,9 @@ V. Para efectos de revisión, cotejo y recepción de documentos a los concursant
 
 VI. Durante el proceso de recepción de propuestas y entrega de documentos, la Comisión debe estar presente, y
 
-VII. Las notificaciones a los interesados se realizarán por corro (sic) electrónico o por estrados de la Secretaría, por lo que en toda solicitud de concesión deberá señalarse, invariablemente, la dirección de correo electrónico para recibir notificaciones.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2015)</small>
+
+VII. Las notificaciones a los interesados se realizarán por correo electrónico y por estrados de la Secretaría, por lo que en toda solicitud de concesión deberá señalarse, invariablemente, la dirección de correo electrónico para recibir notificaciones, así como su aceptación expresa para recibir las mismas a través de estos medios, en términos de lo señalado en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, de aplicación supletoria.
 
 ###### ARTICULO 19.
 
@@ -287,13 +315,17 @@ III. Una vez que se concluya con el procedimiento a que se refiere el numeral qu
 
 IV. La sesión para concurso será declarada permanente, iniciará con la instalación y concluirá con la emisión y publicación del fallo respectivo, debiéndose declarar los recesos que fueran necesarios.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2015)</small>
+
 Apartado C
 
-Del procedimiento de asignación directa
+Del procedimiento de asignación directa para obtener concesiones y permisos temporales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 20.
 
-En el procedimiento de otorgamiento de concesiones en forma directa a que se refieren las fracciones IV y V del artículo 21 y 22 de la Ley, se debe observar lo siguiente:
+En el procedimiento de otorgamiento de concesiones en forma directa a que se refiere la fracción V, inciso c) del artículo 21 de la Ley, se observará lo siguiente:
 
 I. En la convocatoria podrán participar quienes a la fecha de la publicación de la Declaratoria de Necesidades tengan presentada su solicitud ante la Secretaría, y cumplan con los requisitos establecidos en la Ley y la invocada convocatoria;
 
@@ -303,13 +335,21 @@ III. El análisis, evaluación y cómputo de los documentos presentados por los 
 
 IV. Satisfechos los requisitos jurídicos y administrativos, y el pago de derechos correspondientes, en su caso, el Titular del Poder Ejecutivo emitirá el título de concesión respectivo, conforme a las disposiciones de la Ley y el presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+###### ARTICULO 20. Bis.
+
+En el procedimiento de asignación directa de permisos temporales, se observará el procedimiento señalado para la asignación directa de concesiones, cumpliendo los requisitos que señala la Ley.
+
 Apartado D
 
 De la Comisión de Vigilancia de los procedimientos de concurso y asignación directa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 21.
 
-La Comisión es un órgano colegiado de carácter honorífico, encargado de velar por que los procedimientos de concurso y asignación directa se realicen de acuerdo con las disposiciones de la Ley y del presente Reglamento, y con respeto irrestricto a los principios de objetividad, imparcialidad y equidad.
+La Comisión es un órgano colegiado de carácter honorífico, encargado de velar por que los procedimientos de concurso y asignación directa de las concesiones se realicen de acuerdo con las disposiciones de la Ley y del presente Reglamento, y con respeto irrestricto a los principios de objetividad, imparcialidad y equidad.
 
 La integración, atribuciones y funcionamiento de la Comisión se regirá por las bases siguientes:
 
@@ -1145,39 +1185,9 @@ VIII. Las resoluciones que dicte la Secretaría en materia de indemnización a u
 
 Las tarifas determinadas y ajustadas conforme las disposiciones de la Ley y del presente Reglamento, serán aplicables a las modalidades de transporte público de pasajeros a que se refieren las fracciones I, II, III y IV del artículo 21 de la propia Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2013)</small>
-
 ###### ARTICULO 78.
 
-Para la determinación de tarifas del servicio público de pasajeros, El Congreso del Estado, la Secretaría, el Consejo, los Consejos Municipales, y los concesionarios y permisionarios, se estarán a lo siguiente:
-
-I. Los concesionarios, solicitarán la expedición de nuevas tarifas ante el Consejo Estatal o el consejo municipal que corresponda, por escrito que deberá indicar, cuando menos:
-
-a) La modalidad de transporte a la que aplicará la tarifa.
-
-b) El costo o costos que para los usuarios se pretende tenga la tarifa, de acuerdo con los rangos de servicio que presente la modalidad de que se trate.
-
-c) Las operaciones que demuestren que la tarifa nueva que se solicita es resultado de la aplicación de la fórmula a que se refiere el artículo 93 de la Ley;
-
-d) El detalle de los elementos que para la aplicación de la fórmula de determinación de la tarifa fueron utilizados conforme al citado artículo 93 de la Ley;
-
-e) Las fuentes de donde se obtuvieron los elementos para la aplicación de la tarifa, las que deberán encontrarse debidamente soportados con documentación comprobatoria.
-
-La solicitud deberá encontrarse firmada por, cuando menos, la tercera parte del padrón de concesionarios de la modalidad del servicio y a la ubicación geográfica que correspondan, por sí o a través de la asociación que legalmente los represente.
-
-II. Recepcionada la solicitud por el Consejo o el consejo municipal, su presidente deberá hacerla del conocimiento del respectivo consejo, en la siguiente reunión ordinaria, siempre que entre la fecha de recepción y la reunión no transcurrieran más de 15 días naturales, o en su defecto, en reunión extraordinaria que para ese fin se convoque dentro del plazo citado. En esa reunión se determinará si el estudio técnico para la expedición de las tarifas lo realizará el Consejo por sí mismo o en colaboración con la Secretaría;
-
-III. A partir de la recepción de la solicitud, el Consejo o el Consejo Municipal, o la Secretaría, según sea el caso, contarán con dos meses para la elaboración del estudio técnico correspondiente;
-
-IV. Una vez elaborado el estudio técnico, se dará vista de con él a los solicitantes, directamente o a través de su representante común, otorgándoles un plazo de 15 días hábiles para que presenten las observaciones que en su caso tuvieren;
-
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
-
-V. Concluido el plazo anterior, con observaciones o sin ellas, el Consejo, el Consejo Municipal que corresponda o la Secretaría, deberá elaborar con base en el estudio técnico la propuesta de nuevas tarifas y remitirlas al Congreso del Estado para su autorización; una vez autorizadas serán enviadas al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, y
-
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2013)</small>
-
-VI. Previa a la autorización de la propuesta tarifaria respectiva, el Congreso del Estado podrá solicitar al Consejo, a los Consejos Municipales y a los concesionarios o permisionarios los informes o documentos que estime necesarios para verificar el contenido de la misma y del estudio técnico en que se apoye.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 ###### ARTICULO 79.
 
@@ -1189,17 +1199,21 @@ El promedio aritmético de la variación de los indicadores por el período que 
 
 El ajuste será aplicable a partir del segundo sábado del mes de febrero del año de su publicación.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
-
 ###### ARTICULO 80.
 
-Sin perjuicio de lo preceptuado en el artículo anterior, el Congreso del Estado, tiene la atribución de proponer en cualquier tiempo nuevas tarifas en función del costo total de la prestación de los servicios de transporte público de pasajeros en una o en todas sus modalidades, para cuyo efecto iniciará ante el consejo respectivo el procedimiento que se establece en el artículo 78 de este Reglamento.
+(DEROGADO, P.O. 17 DE MARZO DE 2015)
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 81.
 
 En los procesos de expedición y ajuste de tarifas para transporte colectivo urbano, el Congreso del Estado deberá incluir y mantener tarifas especiales que beneficien a los menores de seis años, estudiantes, personas con discapacidad, adultos mayores y jubilados.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+###### ARTICULO 81. Bis.
+
+Tratándose de la tarifa de automóvil de alquiler en los lugares en donde se utilice el taxímetro, el costo del incremento en tiempo (caída), será el resultante de la división del costo por kilometro entre cuatro.
 
 ### CAPITULO X. DE LOS SERVICIOS AUXILIARES
 
@@ -1311,7 +1325,11 @@ III. Soportes de impresión, y
 
 IV. Elementos de iluminación e instalación eléctrica.
 
-ARTICULO 94 (SIC). Los elementos constitutivos de los anuncios permitidos en los vehículos de transporte público de pasajeros, se sujetarán a las siguientes especificaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
+
+###### ARTICULO 93.
+
+Los elementos constitutivos de los anuncios permitidos en los vehículos de transporte público de pasajeros, se sujetarán a las siguientes especificaciones:
 
 I. Base o estructura:
 
@@ -1447,7 +1465,9 @@ Adosados o adheridos en superficies laminadas autoadheribles, que:
 
 V. Anuncios integrales: se entiende por anuncios integrales aquéllos que utilicen como base de aplicación la superficie integral laminada exterior de la carrocería en las unidades de transporte, mediante inscripciones e imágenes integradas o adosadas, para un solo producto o servicio por vehículo.
 
-Los anuncios integrales podrán colocarse exclusivamente en autobuses, para lo cual la Secretaría evaluará y dictaminará la propuesta de anuncios integrales que impliquen la modificación de cortes de pintura, instituciones o la ubicación del logotipo del sistema de transporte de que se trate.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
+
+Los anuncios integrales podrán colocarse en autobuses y sobre automóvil de alquiler, para lo cual la Secretaría evaluará y dictaminará la propuesta de anuncios integrales que impliquen la modificación de colores de pintura, instituciones o la ubicación del logotipo del sistema de transporte de que se trate.
 
 Los anuncios integrales deberán requerir las especificaciones técnicas siguientes:
 
@@ -1467,11 +1487,15 @@ g) Los anuncios deberán garantizar una vida útil mínima de un año y soportar
 
 h) En la conformidad de anuncios integrales de deberá evitar deslumbrar a los peatones y a los conductores de otros vehículos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2015)</small>
+
+i) Tratándose de anuncios integrales para automóvil de alquiler, solo podrán ser colocados en el toldo del vehículo, con materiales que no dañen la base ni la pintura, en dimensiones que no excedan de 70 centímetros de largo, 50 centímetros de ancho y 30 centímetros de altura, observando los requerimientos señalados por este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 96.
 
-Las licencias publicitarias para comercializar anuncios en los vehículos de uso público, cubrirá los derechos establecidos en la Ley de Hacienda para el Estado de San Luis Potosí y, para obtenerlas, las personas físicas o morales deberán presentar solicitud ante la Secretaría, en los formatos que ésta autorice, que serán gratuitos, con los datos, documentos y requisitos siguientes:
+Las licencias publicitarias para comercializar anuncios en los vehículos de uso público, cubrirán los derechos establecidos en la Ley de Hacienda para el Estado de San Luis Potosí y para obtenerlas, las personas físicas o morales deberán presentar su solicitud ante la Secretaría, en los formatos que ésta autorice, que serán gratuitos, con los datos, documentos y requisitos siguientes:
 
 I. Nombre o razón social y domicilio del solicitante. Tratándose de personas morales, se deberá exhibir el documento con el que acredite su constitución y personalidad de quien la represente. En ambos casos se deberá exhibir el registro federal de contribuyentes;
 
@@ -2040,3 +2064,9 @@ P.O. 12 DE ENERO DE 2013.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2015.
+
+Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
