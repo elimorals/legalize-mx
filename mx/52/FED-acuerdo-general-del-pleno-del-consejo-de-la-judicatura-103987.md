@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-03-04"
+last_updated: "2015-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -9547,7 +9547,7 @@ Queda bajo la estricta responsabilidad de los administradores del contrato y de 
 
 ###### Artículo 932.
 
-Queda restringido el acceso a menores de edad a las instalaciones, salvo los casos autorizados por los titulares de las áreas administrativas, órganos jurisdiccionales, o a quienes estos autoricen para tal efecto.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 18 DE MARZO DE 2015)
 
 ###### Artículo 933.
 
@@ -10332,3 +10332,11 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que dentro de los quince días hábiles siguientes a la aprobación del presente Acuerdo, someta a la consideración del Pleno del Consejo de la Judicatura Federal las adecuaciones al Capítulo Cuarto, intitulado “Centros de Desarrollo Infantil”, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
 
 CUARTO. En tanto el Pleno del Consejo de la Judicatura Federal apruebe las adecuaciones a que se refiere el transitorio tercero de este acuerdo, cualquier cuestión relacionada con la atención de los centros de desarrollo infantil será planteada a través de la Dirección General de Servicios Médicos y Desarrollo Infantil, y resuelta por la Dirección General de la Presidencia, previo acuerdo con el Presidente del Consejo de la Judicatura Federal.
+
+D.O.F. 18 DE MARZO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que dentro de los quince días hábiles siguientes a la aprobación del presente Acuerdo, revise la normativa del Consejo de la Judicatura sobre el acceso de los menores de edad a los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral y, en su caso, realice una propuesta de reformas.
