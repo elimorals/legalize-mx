@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mejora-regulatoria-para-el-estado-de-tamaulipas-43159"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2012-04-19"
+last_updated: "2015-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 18 DE MARZO DE 2015; ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 30 DÍAS POSTERIORES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2015.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -690,3 +692,33 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días posteriores al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal de Mejora Regulatoria, deberá quedar instalado a más tardar a los 30 días siguientes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión, el Programa Estatal de Mejora Regulatoria, deberá ser publicado en el Periódico Oficial del Estado a más tardar el 30 de junio del 2015.
+
+###### ARTÍCULO CUARTO.
+
+Las dependencias y entidades de la administración pública estatal y los Ayuntamientos, deberán publicar en el Portal de Internet del Gobierno del Estado y de cada Municipio, respectivamente, los Registros Estatales y Municipales de Trámites y Servicios, a más tardar a los 180 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo expedirá el Reglamento de esta ley, el cual se publicará en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley de Mejora Regulatoria para el Estado de Tamaulipas, publicada en el Periódico Oficial del Estado anexo al número 156 de fecha 29 de diciembre del 2004, así como sus subsecuentes reformas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
