@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2014-03-31"
+last_updated: "2015-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -647,6 +647,78 @@ De no realizarse el pago, una vez que hayan quedado firmes las multas, serán co
 
 Las demás causas que constituyan incumplimiento en las obligaciones de los ordenamientos jurídicos que regulen los servicios y actividades materia de esta Ley, así como las sanciones aplicables a cada una de ellas, serán determinadas por el Reglamento, y las demás leyes aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2015)</small>
+
+### CAPÍTULO III. DEL RECURSO DE REVOCACIÓN
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 43.
+
+Contra cualquier resolución definitiva de la autoridad procede el Recurso de Revocación.
+
+Se entiende por resolución definitiva todas aquéllas que pongan fin a un procedimiento de los previstos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 44.
+
+El Recurso de Revocación se interpondrá por escrito ante la autoridad que haya emitido el acto que se recurra, dentro de los cinco días hábiles siguientes a la notificación del acto recurrible y contendrá:
+
+I. Nombre del recurrente debiendo señalar domicilio en la ciudad de Puebla para recibir notificaciones personales, en caso contrario, se practicarán por estrados;
+
+II. Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
+
+III. Acto recurrido;
+
+IV. Expresión de agravios que causa el acto que se impugna, y
+
+V. En su caso, la solicitud de la suspensión del acto reclamado.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 45.
+
+La autoridad dictará la resolución definitiva dentro del plazo de treinta días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 46.
+
+La interposición del recurso suspenderá la ejecución del acto impugnado, siempre que concurran los requisitos siguientes:
+
+I. Que lo solicite el recurrente, y
+
+II. Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
+
+Promovida la suspensión del acto impugnado, la autoridad deberá realizar un análisis ponderado de la apariencia del buen derecho y la no afectación del interés social.
+
+El otorgamiento o denegación de la suspensión se acordará en el auto que admita el Recurso, mismo que se emitirá en un plazo no mayor a veinticuatro horas.
+
+La suspensión surtirá sus efectos desde el momento en que se pronuncie el acuerdo respectivo.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 47.
+
+En los casos en que la suspensión sea procedente, la autoridad fijará la situación en que habrán de quedar las cosas y tomará las medidas pertinentes para conservar la materia del recurso, pudiendo establecer condiciones de cuyo cumplimiento dependa el que la medida suspensional siga surtiendo efectos.
+
+Atendiendo a la naturaleza del acto reclamado, ordenará que las cosas se mantengan en el estado que guarden, y de ser jurídica y materialmente posible, restablecerá provisionalmente al recurrente en el goce del derecho violado mientras se dicta la resolución definitiva.
+
+En ningún caso, el otorgamiento de la medida cautelar podrá tener por efecto modificar o restringir derechos ni constituir aquéllos que no haya tenido el recurrente antes de la presentación del recurso.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 48.
+
+Si al examinarse el escrito de interposición se advierte que éste carece de algún requisito formal previsto en esta Ley o que no se adjuntan los documentos respectivos, la autoridad administrativa requerirá al recurrente para que en el término de tres días hábiles aclare y complemente el escrito o exhiba los documentos ofrecidos, apercibiéndolo de que, de no hacerlo, se desechará de plano el escrito o se tendrán por no ofrecidas las pruebas, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 49.
+
+La resolución que pone fin al recurso, se notificará al interesado en el domicilio señalado para tal efecto y no procederá recurso administrativo alguno en su contra.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -676,3 +748,9 @@ P.O. 31 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
