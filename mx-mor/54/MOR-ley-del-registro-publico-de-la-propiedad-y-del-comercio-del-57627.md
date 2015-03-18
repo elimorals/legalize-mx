@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-registro-publico-de-la-propiedad-y-del-comercio-del-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-28"
-last_updated: "2012-12-19"
+last_updated: "2015-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LA DISPOSICIÓN SÉPTIMA TRANSITORIA DEL PRESENTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2012, EN TODOS LOS ORDENAMIENTOS LEGALES Y ADMINISTRATIVOS EN DONDE SE HAGA REFERENCIA AL INSTITUTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO, SE ENTENDERÁ AL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 28 de noviembre de 2007.
 
@@ -195,15 +193,23 @@ INTEGRACIÓN DE LA JUNTA DE GOBIERNO. La Junta de Gobierno estará integrada por
 
 I. La persona titular de la Secretaría de Gobierno, quien la presidirá;
 
-II. La persona titular de la Secretaría de Finanzas y Planeación;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2015)</small>
 
-III. La persona titular de la Secretaría de Desarrollo Económico;
+II. La persona titular de la Secretaría de Hacienda;
 
-IV. La persona titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2015)</small>
+
+III. La persona titular de la Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2015)</small>
+
+IV. La persona titular de la Secretaría de Desarrollo Sustentable;
 
 V. La persona titular de la Consejería Jurídica;
 
-VI. La persona titular de la Oficialía Mayor, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2015)</small>
+
+VI. La persona titular de la Secretaría de Administración, y
 
 VII. La persona que presida el Colegio de Notarios del Estado de Morelos.
 
@@ -1334,3 +1340,9 @@ SEXTA.- Los convenios suscritos entre los municipios y el Ejecutivo del Estado p
 SÉPTIMA.- En todos los ordenamientos legales y administrativos en donde se haga referencia al Instituto del Registro Público de la Propiedad y del Comercio del Estado, se entenderá al Instituto de Servicios Registrales y Catastrales del Estado de Morelos; así mismo, las facultades conferidas en otros ordenamientos al Director General del Sistema de Información Catastral pasarán al Director General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
 
 OCTAVA.- Los convenios y compromisos suscritos por el Ejecutivo del Estado con el Gobierno Federal, respecto del Sistema de Información Catastral, deberán continuarse hasta su total conclusión por parte de la Subsecretaría de Ingresos del Gobierno del Estado.
+
+P.O. 18 DE MARZO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
