@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-52157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-25"
-last_updated: "2009-02-23"
+last_updated: "2015-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 18 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 25 de octubre se 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2015 (ABROGADO).
+
+Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 25 de octubre de 2006.
 
 EL H. Consejo Directivo del Organismo Público Descentralizado denominado Servicios Educativos Integrados al Estado de México, adscrito a la Secretaría de Educación del Gobierno del Estado de México, en uso de las atribuciones que le confieren las fracciones I, II, y VI del artículo 10 de su Ley de creación, publicada en la Gaceta del Gobierno de fecha 3 de junio de 1992; y,
 
@@ -151,7 +153,7 @@ X. Analizar y evaluar la formulación y ejercicio del presupuesto y de las dispo
 
 XI. Emitir opinión sobre los asuntos que el Consejo Directivo y/o el Director General le encomiende.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 8.
 
@@ -427,7 +429,7 @@ Director General de SEIEM y Secretario del Consejo Directivo
 
 (Rúbrica).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 23 DE FEBRERO DE 2009.
 
@@ -436,3 +438,13 @@ PRIMERO: Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO: Se derogan las disposiciones de igual o menor rango que se opongan al presente Acuerdo.
+
+G.G. 18 DE MARZO DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del COCOE aprobado el veinticuatro de agosto de dos mil seis.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por el propio Comité de Control y Evaluación.
