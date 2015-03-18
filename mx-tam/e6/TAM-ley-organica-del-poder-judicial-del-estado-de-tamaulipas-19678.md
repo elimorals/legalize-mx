@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2014-10-30"
+last_updated: "2015-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO No. LXII-249, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL 1° DE JULIO DE 2014, Y DE MANERA SUCESIVA, CONFORME A LAS FECHAS DE APLICACIÓN QUE SE ESTABLECEN EN EL ARTÍCULO ÚNICO DEL DECRETO No. LXII-232 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 53 DE FECHA 01 DE MAYO DEL 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE OCTUBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO No. LXII-275 PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -351,17 +349,17 @@ Primer Distrito Judicial: Cabecera en Victoria, y comprende los Distritos Judici
 
 Segundo Distrito Judicial: Cabecera en Altamira, y comprende los Distritos Judiciales II y XV.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2015)</small>
 
-Tercer Distrito Judicial: Cabecera en Nuevo Laredo, y comprende los Distritos Judiciales III y VI.
+Tercer Distrito Judicial: Cabecera en Nuevo Laredo, y comprende el Distrito Judicial III.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 Cuarto Distrito Judicial: Cabecera en Matamoros, y comprende los Distritos Judiciales IV, XI y XIV.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2015)</small>
 
-Quinto Distrito Judicial: Cabecera en Reynosa, y comprende los Distritos Judiciales V y XIII.
+Quinto Distrito Judicial: Cabecera en Reynosa, y comprende los Distritos Judiciales V, VI y XIII.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3986,3 +3984,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos de queja administrativa que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
+
+P.O. 18 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
