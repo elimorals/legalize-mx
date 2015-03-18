@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-hospital-de-la-ninez-oaxaquena-76034"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-03"
-last_updated: "2010-07-03"
+last_updated: "2015-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL HOSPITAL DE LA NIÑEZ OAXAQUEÑA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL HOSPITAL DE LA NIÑEZ OAXAQUEÑA, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 3 de julio de 2010.
 
 LA JUNTA DE GOBIERNO DEL HOSPITAL DE LA NIÑEZ OAXAQUEÑA, DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS 56 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, 8º FRACCIÓN III DEL DECRETO No 234 DE CREACIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO, DENOMINADO HOSPITAL DE LA NIÑEZ OAXAQUEÑA; Y
 
-C O N S I D E R A N D O:.
+C O N S I D E R A N D O:...
 
 En razón de lo anterior esta Junta de Gobierno ha tenido a bien expedir el siguiente
 
@@ -135,7 +137,7 @@ VI.- Recibir en acuerdo a los servidores públicos del Hospital y al público pa
 
 VII.- Presentar a la Junta de Gobierno el informe del ejercicio de sus funciones y el desarrollo de las actividades del Hospital;
 
-VIII.- Presidir las juntas cientifícas, socio-culturales y todas aquellas que con tal carácter le sean conferidas por la ley;
+VIII.- Presidir las juntas científicas, socio-culturales y todas aquellas que con tal carácter le sean conferidas por la ley;
 
 IX.- Presentar ante la Junta de Gobierno los Manuales Administrativos del Hospital para su aprobación y publicación cuando así lo establezca la normatividad vigente;
 
@@ -431,4 +433,14 @@ Representante de la Secretaria de Administración
 
 COMISARIO SUPLENTE DE LA CONTRALORÍA
 
-C. p. Teresa Liudma (sic) Cuevas Pérez
+C. p. Teresa Liudma Cuevas Pérez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las disposiciones contenidas en el presente Reglamento prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se le opongan, aun cuando no estén expresamente derogadas.
+
+TERCERO.- Se abroga el Reglamento Interno (sic) del Hospital de la Niñez, de fecha treinta y uno de agosto del año dos mil nueve publicado en el Periódico Oficial del Gobierno del Estado el tres de julio del año dos mil diez.
