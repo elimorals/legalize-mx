@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-48326"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-29"
-last_updated: "2013-05-07"
+last_updated: "2015-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 19 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 29 de diciembre de 2005.
 
@@ -802,3 +804,19 @@ P.O. 7 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2015.
+
+PRIMERO. Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor de este Ordenamiento, se abroga la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el veintinueve de diciembre de dos mil cinco, mediante el Decreto Legislativo No. 409.
+
+TERCERO. Los establecimientos que se encuentren funcionando legalmente al amparo de disposiciones anteriores, deberán regularizar su licencia, presentando, por única vez, la información y documentación que establece esta Ley, dentro del plazo de seis meses contado a partir del su entrada en vigor; transcurrido el plazo anterior, las licencias que no hayan sido regularizadas, dejarán de ser válidas.
+
+CUARTO. Los establecimientos con licencia para venta de bebidas alcohólicas que tengan licencia regular y vigente, podrán continuar funcionando al entrar en vigor esta Ley, no obstante la distancia respecto de establecimientos similares.
+
+QUINTO. Los asuntos que se encuentren en trámite a la entrada en vigor de esta Ley, cualquiera que sea su estado, seguirán el procedimiento de acuerdo a los ordenamientos y disposiciones legales vigentes en la fecha en que se iniciaron, y ante la autoridad que conoció de los mismos, salvo que sean incompatibles con esta nueva Ley, caso en el cual el o los interesados deberán de adecuar su solicitud para cumplir con las nuevas disposiciones, dentro del plazo señalado en el artículo Tercero transitorio anterior; de no hacerlo, se tendrá como no presentada la solicitud.
+
+SEXTO. El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley, dentro de los noventa días naturales siguientes a partir de la entrada en vigor de la misma.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
