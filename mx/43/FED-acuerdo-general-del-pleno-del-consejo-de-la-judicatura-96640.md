@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-02-18"
+last_updated: "2015-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -269,9 +269,11 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
-VIII. Otorgar licencias que no excedan de treinta días a los magistrados de Circuito, jueces de Distrito, secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Implementación de la Reforma Penal, directores generales y personal subalterno del Pleno; cuando éstas tengan como motivo asistir a eventos académicos nacionales o internacionales, podrá solicitar la opinión de las instancias que correspondan;
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Implementación de la Reforma Penal, directores generales y personal subalterno del Pleno.
+
+Cuando las licencias solicitadas por los servidores públicos a que se refiere el párrafo anterior, con excepción de los titulares de órganos jurisdiccionales, tengan como motivo asistir a eventos académicos nacionales o internacionales, podrá solicitar la opinión de las instancias que correspondan;
 
 IX. Firmar las resoluciones del Pleno, conjuntamente con el Secretario Ejecutivo respectivo y el ponente, así como con quien haya hecho suyo el proyecto, en su caso;
 
@@ -1117,7 +1119,11 @@ III. Apoyar en el ejercicio de sus facultades al Pleno y a las Comisiones;
 
 IV. Participar, en el ámbito de su competencia, en la elaboración del Anteproyecto de Presupuesto del Poder Judicial de la Federación, en términos de las disposiciones aplicables;
 
-V. Desempeñar las funciones que la Comisión respectiva les confiera y mantenerla informada sobre el desarrollo de las mismas;
+> <small>(REFORMADA POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+V. Desempeñar las funciones que la Comisión respectiva les confiera y mantenerla informada sobre el desarrollo de las mismas.
+
+Adicionalmente, los secretarios ejecutivos darán fe y cuenta de los asuntos que se ventilen en las sesiones de la Comisión respectiva;
 
 VI. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las áreas adscritas a la unidad administrativa a su cargo;
 
@@ -4998,3 +5004,15 @@ Los asuntos que no se relacionen con las atribuciones a que se refiere el párra
 Los asuntos en trámite del conocimiento de la Oficialía Mayor serán atendidos por la Secretaría Ejecutiva de Administración.
 
 DÉCIMO PRIMERO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
+
+D.O.F. 19 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo surte sus efectos a partir del 16 de enero de 2015, sin perjuicio de las determinaciones adoptadas por el Pleno del Consejo de la Judicatura Federal con motivo de la aprobación de la reestructura de la Institución.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
+
+CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
