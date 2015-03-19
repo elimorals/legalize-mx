@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2015-02-23"
+last_updated: "2015-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -135,9 +135,9 @@ XXX. Secretaría: Secretaría Ejecutiva de Disciplina del Consejo de la Judicatu
 
 XXXI. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación; y
 
-> <small>(REFORMADA POR EL ARTÍCULO DÉCIMO TERCERO DEL ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
-XXXII. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, Coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones o de Comités, direcciones generales, las Administraciones de los Centros de Justicia Penal, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
+XXXII. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, Coordinaciones, Unidad para la Implementación de la Reforma Penal, secretarías técnicas de Comisiones o de Comités, direcciones generales, las Administraciones de los Centros de Justicia Penal, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
 
 ### CAPÍTULO SEGUNDO. MEDIDAS PREVENTIVAS
 
@@ -383,7 +383,7 @@ II. En las áreas administrativas:
 
 1. Consejero;
 
-2. Oficial Mayor;
+2. (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)
 
 3. Titular de Órgano Auxiliar;
 
@@ -2457,7 +2457,9 @@ INICIO DEL ACTA
 
 (4) Señalar con letra la fecha (día, mes y año) en que se inicia el levantamiento del acta.
 
-(5) Anotar el título que corresponda (oficina del servidor público que entrega, Oficialía Mayor, Secretaría General, Secretaría Ejecutiva, Dirección General, Coordinación, Unidad, Dirección de Área, etc.).
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+(5) Anotar el título que corresponda (oficina del servidor público que entrega, Secretaría Ejecutiva, Dirección General, Coordinación, Unidad, Dirección de Área, etc.).
 
 (6) Nombre de la calle, número exterior e interior, colonia, código postal y ciudad.
 
@@ -2786,3 +2788,15 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se abroga el Acuerdo General 23/2007 del Pleno del Consejo de la Judicatura Federal, que regula el otorgamiento de percepciones a los servidores públicos suspendidos durante el curso de un procedimiento de responsabilidad administrativa o de un proceso penal, y las demás disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 19 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo surte sus efectos a partir del 16 de enero de 2015, sin perjuicio de las determinaciones adoptadas por el Pleno del Consejo de la Judicatura Federal con motivo de la aprobación de la reestructura de la Institución.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
+
+CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
