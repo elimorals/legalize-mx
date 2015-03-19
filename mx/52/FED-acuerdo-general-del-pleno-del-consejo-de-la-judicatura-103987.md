@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-03-18"
+last_updated: "2015-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -117,7 +117,9 @@ III. Establecer las disposiciones relacionadas con recursos financieros, en espe
 
 a) Reglamentar, en el Consejo, lo previsto en los artículos 100, 126, 127 y 134 de la Constitución; los artículos 68 y 81, fracciones II, XIII, XVII, XVIII, XXX y XXXIV de la Ley Orgánica; las disposiciones aplicables de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; y demás emitidas por el Pleno, en materia de programación, presupuestación, ejercicio, control y evaluación de los ingresos y egresos del Poder Judicial de Federación;
 
-b) La regulación de la toma de decisiones en materia de inversión de los recursos financieros, presupuestales y no presupuestales, del Consejo; y
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+b) La regulación para la toma de decisiones en materia de inversión de los recursos financieros, de carácter presupuestal y no presupuestal administrados por el Consejo, para el óptimo manejo de sus recursos; y
 
 c) Las relativas a la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia, de conformidad con lo previsto en el Título Décimo Segundo de la Ley Orgánica del Poder Judicial de la Federación;
 
@@ -479,7 +481,9 @@ II. Coordinación de Seguridad: La Coordinación de Seguridad del Poder Judicial
 
 III. Instalaciones: Los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
 
-IV. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá al Secretario General;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+IV. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá al Presidente;
 
 V. Personal de Seguridad: Los Servidores Públicos adscritos a la Coordinación de Seguridad, que tienen como actividad preponderante la operación, supervisión y coordinación de los sistemas de seguridad implementados en las instalaciones;
 
@@ -621,9 +625,11 @@ XXV. Usuarios Finales: Los servidores públicos del Consejo y de los órganos ju
 
 ### CAPÍTULO PRIMERO. NOMBRAMIENTOS Y PRÓRROGAS DEL PERSONAL DE CONFIANZA
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 16.
 
-Las disposiciones de este Capítulo son de observancia general en el Consejo, correspondiendo a su Presidente, Consejeros, Oficial Mayor, Secretario Ejecutivo del Pleno y de la Presidencia, Coordinadores, secretarios ejecutivos, titulares de los órganos auxiliares y directores generales velar por su debido cumplimiento.
+Las disposiciones de este Capítulo son de observancia general en el Consejo, correspondiendo a su Presidente, Consejeros y titulares de las áreas administrativas velar por su debido cumplimiento.
 
 ###### Artículo 17.
 
@@ -1509,7 +1515,9 @@ I. Las aportaciones ordinarias de los servidores públicos;
 
 II. Las aportaciones ordinarias del Consejo;
 
-III. Los rendimientos devengados por las aportaciones ordinarias y adicionales; y
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+III. Los rendimientos devengados por las aportaciones ordinarias; y
 
 IV. Los intereses que generen los préstamos.
 
@@ -2793,13 +2801,19 @@ El Comité es un cuerpo multidisciplinario con carácter permanente, que tiene p
 
 El Comité estará integrado en los siguientes términos:
 
-I. Presidente: El titular de la Oficialía Mayor; y
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
-II. Vocales: Los titulares de la Secretaría Ejecutiva de Administración y de la Coordinación de Administración Regional.
+I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
+
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+II. Vocales: Los titulares de la Coordinación de Administración Regional, y de la Dirección General de Programación y Presupuesto.
 
 Los citados integrantes tendrán derecho a voz y voto durante las sesiones, y no podrán ser representados en éstas.
 
-Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes y en caso de ausencia del presidente del Comité, asumirá las funciones correspondientes el titular de la Secretaría Ejecutiva de Administración.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes y en caso de ausencia del presidente del Comité, asumirá las funciones correspondientes el titular de la Coordinación de Administración Regional.
 
 La responsabilidad de cada integrante del Comité quedará limitada al voto o comentario que emita u omita, en lo particular, respecto al asunto sometido a su consideración, con base en la documentación que le sea presentada. En este sentido, las determinaciones y opiniones de los miembros del Comité, no comprenden las acciones u omisiones que posteriormente se generen durante el desarrollo de los procedimientos de contratación o en el cumplimiento de los contratos.
 
@@ -2953,7 +2967,9 @@ El Consejo conformará de modo permanente el Comité Interinstitucional de Coord
 
 Las compras consolidadas se refieren a las adquisiciones, arrendamientos, prestación de servicios y obra pública para cubrir, de manera conjunta, las necesidades del Consejo, la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, mediante un procedimiento de contratación tramitado por cualquiera de éstos.
 
-El Consejo podrá realizar compras consolidadas mediante un procedimiento de contratación tramitado por la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, previa autorización del Oficial Mayor, para incorporarse a dicho procedimiento y exceptuar la aplicación del artículo 288, último párrafo, de este Acuerdo.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+El Consejo podrá realizar compras consolidadas mediante un procedimiento de contratación tramitado por la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, previa autorización del Secretario Ejecutivo de Administración, para incorporarse a dicho procedimiento y exceptuar la aplicación del artículo 288, último párrafo, de este Acuerdo.
 
 SUBSECCIÓN QUINTA
 
@@ -3077,9 +3093,11 @@ Cuando se realicen obras públicas y servicios relacionados, el Consejo y los co
 
 El titular del área de obras, cuando sea el caso, previamente a la realización de los trabajos, deberá tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía, sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 286.
 
-Para la formulación de los Programas de Ejecución a que se refiere este Capítulo, se deberán tomar en cuenta prioritariamente, los requerimientos necesarios para la creación de nuevos órganos jurisdiccionales, en coordinación con las áreas administrativas competentes, tomando como base la información que proporcione la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos y la Dirección General de Estadística Judicial.
+Para la formulación de los Programas de Ejecución a que se refiere este Capítulo, se deberán tomar en cuenta prioritariamente, los requerimientos necesarios para la creación de nuevos órganos jurisdiccionales, en coordinación con las áreas administrativas competentes, tomando como base la información que proporcione la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos y la Dirección General de Estadística Judicial.
 
 ###### Artículo 287.
 
@@ -3221,7 +3239,9 @@ VII. Servicios que por razones de seguridad o confidencialidad para el Consejo, 
 
 VIII. Asuntos urgentes derivados de caso fortuito o fuerza mayor, siempre que no sea posible llevar a cabo los procedimientos de licitación pública o los que correspondan, de conformidad con el monto de la operación, en el tiempo requerido para atender la eventualidad independientemente del costo estimado. Dicha contratación será aprobada en sesión extraordinaria y deberá limitarse a lo estrictamente necesario para afrontar la eventualidad.
 
-De manera excepcional y cuando por las condiciones se tuviese que atender una contingencia, el Oficial Mayor podrá autorizar la contratación y presentará el informe al Comité con la justificación correspondiente;
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+De manera excepcional y cuando por las condiciones se tuviese que atender una contingencia, el Secretario Ejecutivo de Administración podrá autorizar la contratación y presentará el informe al Comité con la justificación correspondiente;
 
 IX. Servicios profesionales prestados por una persona física, siempre que sean realizados por ella misma sin requerir de la utilización de más de un especialista o técnico;
 
@@ -3869,7 +3889,9 @@ II. Cuando ninguna de las propuestas presentadas reúna los requisitos estableci
 
 III. Cuando los precios propuestos no fueren aceptables, de conformidad con la información con que se cuente.
 
-En caso de ser declarada desierta la licitación, el Secretario Ejecutivo de Administración, previo acuerdo con el Oficial Mayor, autorizará iniciar un procedimiento de invitación a cuando menos tres o, en su caso, el procedimiento de adjudicación directa, para lo cual deberá justificar su determinación.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+En caso de ser declarada desierta la licitación, el Secretario Ejecutivo de Administración, autorizará iniciar un procedimiento de invitación a cuando menos tres o, en su caso, el procedimiento de adjudicación directa, para lo cual deberá justificar su determinación.
 
 Tratándose de licitaciones en las que una o varias partidas se declaren desiertas en virtud de los supuestos antes enunciados, se procederá a su contratación mediante adjudicación directa, cuando así lo justifique su monto.
 
@@ -4017,17 +4039,23 @@ La subasta a la inversa podrá ser utilizada para la adquisición de bienes mueb
 
 La adjudicación se realizará a la oferta que ofrezca mejor precio y condiciones de pago, entrega de bienes, obra pública, prestación de servicios u otros elementos de valoración objetiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 345.
 
-El Secretario Ejecutivo de Administración, previo acuerdo con el Oficial Mayor, autorizará el procedimiento de subasta a la inversa presencial o electrónica, cuando el parámetro de adjudicación corresponda al de licitación pública. En parámetros menores, lo podrá autorizar el titular del área de adquisiciones o de obras, según corresponda.
+El Secretario Ejecutivo de Administración autorizará el procedimiento de subasta a la inversa presencial o electrónica, cuando el parámetro de adjudicación corresponda al de licitación pública. En parámetros menores, lo podrá autorizar el titular del área de adquisiciones o de obras, según corresponda.
 
-Cuando se incluya la subasta a la inversa como modalidad en el procedimiento de licitación pública o de invitación a cuando menos tres proveedores o contratistas, la autorización recaerá en el Secretario Ejecutivo de Administración, previo acuerdo con el Oficial Mayor.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+Cuando se incluya la subasta a la inversa como modalidad en el procedimiento de licitación pública o de invitación a cuando menos tres proveedores o contratistas, la autorización recaerá en el Secretario Ejecutivo de Administración.
 
 Todo proveedor o contratista interesado en participar, deberá cumplir con los términos señalados en las bases del procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 346.
 
-La Secretaría Ejecutiva de Administración con apoyo de la Dirección General de Tecnologías de la Información implementará y administrará un sistema electrónico en el portal de Internet del Consejo, que permitirá realizar las subastas a la inversa en forma electrónica.
+La Secretaría Ejecutiva de Administración a través de la Dirección General de Tecnologías de la Información implementará y administrará un sistema electrónico en el portal de Internet del Consejo, que permitirá realizar las subastas a la inversa en forma electrónica.
 
 Las comunicaciones, intercambio y almacenamiento de información en el portal, se realizarán de modo que se garantice la protección e integridad de los datos ahí contenidos.
 
@@ -4777,27 +4805,35 @@ SUBSECCIÓN SEGUNDA
 
 PENAS CONVENCIONALES
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 409.
 
 El incumplimiento de cualquiera de las obligaciones adquiridas por parte del proveedor o contratista en los contratos o pedidos, dará lugar a la imposición de una pena convencional.
 
 En caso de incumplimiento parcial, la pena se ajustará proporcionalmente al porcentaje incumplido.
 
-###### Artículo 410.
-
-En el caso de que no se otorgue prórroga al proveedor o contratista respecto al cumplimiento de los plazos establecidos en el contrato por causas imputables a él, se aplicará una pena convencional por atraso en la entrega de los bienes, prestación de los servicios o trabajos, equivalente al monto que resulte de aplicar el diez al millar diario a la cantidad que importen los bienes pendientes de entrega, los servicios no prestados o trabajos.
-
-En determinados servicios o trabajos en que su prestación se requiera bajo condiciones especiales para el Consejo, el Comité podrá autorizar que en las bases y en los pedidos o contratos, se establezca una pena convencional bajo criterios diferentes a los señalados en el párrafo anterior, que invariablemente deberá ser proporcional al incumplimiento o retraso en la ejecución de tales servicios.
-
-El importe que resulte de la pena por atraso se descontará del pago que se le deba al proveedor o contratista.
-
-En materia de obra pública las penas serán determinadas en función del importe de los trabajos que no se hayan ejecutado o prestado oportunamente, conforme al programa de ejecución general, aun en el caso de los contratos a precio alzado, y se aplicarán en los de precios unitarios o en su parte del mixto considerando los ajustes de costos, sin aplicar el impuesto al valor agregado.
-
 Las penas convencionales en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento.
 
-En caso de rescisión del contrato por causas imputables al contratista, una vez emitida la determinación respectiva, el Consejo desde el inicio de la misma, se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito en el plazo que conforme al contrato proceda. En el finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, hayan sido entregados.
+En caso de rescisión del contrato por causas imputables al contratista, una vez emitida la determinación respectiva, el Consejo desde el inicio de la misma, se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito en el plazo que conforme al contrato proceda.
 
-El Secretario Ejecutivo de Administración podrá optar entre aplicar las penas convencionales o el sobrecosto que resulte de la rescisión, debiendo motivar las causas de la aplicación de uno o de otro.
+En el finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, hayan sido entregados.
+
+El Secretario Ejecutivo de Administración, a propuesta y opinión técnica del Titular del área operativa, podrá optar entre aplicar las penas convencionales o el sobrecosto que resulte de la rescisión, debiendo motivar las causas de la aplicación de uno o de otro.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+###### Artículo 410.
+
+En el caso de que no se otorgue la modificación de los plazos al proveedor o contratista respecto al cumplimiento de lo establecido en el contrato por causas imputables a él, se aplicará una pena convencional por atraso en la entrega de los bienes, prestación de los servicios o terminación de trabajos. La pena convencional se calculará tomando como base el importe de los bienes, servicios o trabajos que únicamente se encuentren pendientes de entrega, prestación o terminación, en la fecha fijada para el cumplimiento. Esta base se multiplicará por el diez al millar diario hasta el cumplimiento total. El importe resultante de la base será ajustado de manera proporcional al cumplimiento pendiente aplicando la misma fórmula.
+
+En el supuesto de incumplimiento por atraso sólo será aplicable la pena por ese concepto, salvo los casos en que existan incumplimientos diversos, en los cuales se aplicará la pena convencional que corresponda a cada uno de ellos, sin perjuicio de las deductivas que procedan.
+
+El Comité podrá autorizar que en las bases, en los pedidos, contratos o convenios, se establezca una pena convencional bajo criterios diferentes a los señalados en el primer párrafo, en aquellos casos en que considere que resulta favorable para el Consejo, que invariablemente deberá ser proporcional al incumplimiento o retraso en la ejecución de tales servicios.
+
+En materia de obra pública y servicios relacionados con ésta, las penas serán determinadas en función del importe de los trabajos que no se hayan ejecutado o prestado oportunamente, conforme al programa de ejecución general, aun en el caso de los contratos a precio alzado, y se aplicarán en los de precios unitarios o en su parte del mixto considerando los ajustes de costos, sin aplicar el Impuesto al Valor Agregado.
+
+El importe que resulte de la pena por atraso se descontará del pago que se le deba al proveedor o contratista.
 
 ###### Artículo 411.
 
@@ -4986,6 +5022,8 @@ Al respecto, el área operativa efectuará el análisis correspondiente y emitir
 En los casos de rescisión o terminación anticipada de contratos en que se hayan otorgado anticipos, el saldo pendiente de amortizar se reintegrará al Consejo en un plazo no mayor de quince días hábiles, contados a partir de la fecha en que le sea comunicada la rescisión o terminación al proveedor; en caso contrario, se hará efectiva la garantía presentada para la debida inversión del anticipo, haciéndose del conocimiento del Comité, quien oportunamente lo informará a la Comisión de Administración.
 
 #### SECCIÓN QUINTA. ARRENDAMIENTOS
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 430.
 
@@ -5281,9 +5319,13 @@ El Comité de Administración Inmobiliaria, es de carácter permanente, y tendr�
 
 El Comité de Administración Inmobiliaria estará integrado en los siguientes términos:
 
-I. Presidente: Oficial Mayor; y
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
-II. Vocales: Secretario Ejecutivo de Administración y Coordinador de Administración Regional.
+I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
+
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+II. Vocales: Los titulares de la Coordinación de Administración Regional y de la Dirección General de Programación y Presupuesto.
 
 ###### Artículo 458.
 
@@ -5409,7 +5451,9 @@ Las sesiones del Comité se celebrarán de la siguiente forma:
 
 I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad;
 
-II. Para la validez de las sesiones será necesaria la presencia del presidente y un vocal. En casos estrictamente necesarios, en ausencia del presidente, las sesiones serán presididas por el Secretario Ejecutivo de Administración, con la asistencia del otro vocal;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+II. Para la validez de las sesiones será necesaria la presencia del presidente y un vocal. En casos estrictamente necesarios, en ausencia del presidente, las sesiones serán presididas por el titular de la Coordinación de Administración Regional, con la asistencia del otro vocal;
 
 III. La convocatoria se notificará a los miembros del Comité con un día hábil de anticipación; sin embargo, en sesiones extraordinarias dicho término podrá reducirse;
 
@@ -5531,7 +5575,7 @@ Antes de formalizar el arrendamiento, la Dirección General de Inmuebles y Mante
 
 ###### Artículo 473.
 
-Los titulares de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos; de la Coordinación de Administración Regional y de la Dirección General de Recursos Materiales presentarán al Comité de Administración Inmobiliaria, las necesidades de espacio para la instalación o reubicación de órganos jurisdiccionales, auxiliares o áreas administrativas.
+Los titulares de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos; de la Coordinación de Administración Regional y de la Dirección General de Recursos Materiales presentarán al Comité de Administración Inmobiliaria, las necesidades de espacio para la instalación o reubicación de órganos jurisdiccionales o áreas administrativas.
 
 ###### Artículo 474.
 
@@ -6243,7 +6287,9 @@ El Comité estará integrado en los siguientes términos:
 
 I. Presidente: El Secretario Ejecutivo de Administración; y
 
-II. Vocales: El Director General de Programación y Presupuesto y el Titular de la unidad administrativa que designe el Oficial Mayor.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+II. Vocales: Los titulares de la Coordinación de Administración Regional y de la Dirección General de Programación y Presupuesto.
 
 Los citados integrantes, que siempre serán tres, salvo la ausencia de alguno de ellos, tendrán derecho a voz y voto durante las sesiones.
 
@@ -7417,7 +7463,9 @@ El Comité de Informática estará integrado en los siguientes términos:
 
 I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
 
-II. Vocales: Los titulares de la Dirección General de Programación y Presupuesto y el Titular del área administrativa que designe el Oficial Mayor.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+II. Vocales: Los titulares de la Coordinación de Administración Regional y de la Dirección General de Programación y Presupuesto.
 
 Los integrantes tendrán derecho a voz y voto durante las sesiones.
 
@@ -7863,7 +7911,9 @@ El Pleno podrá autorizar la recepción o transferencia de recursos financieros,
 
 En el marco de la autonomía e independencia que la Constitución otorga al Poder Judicial de la Federación, y bajo el principio de respeto institucional entre Poderes, el Consejo podrá establecer canales de comunicación y colaboración institucional con las Cámaras de Senadores y de Diputados del Congreso de la Unión, con los Congresos Locales y con las dependencias de la Administración Pública Federal y de las Entidades Federativas, que coadyuven al cumplimiento de sus funciones.
 
-Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través del Oficial Mayor, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través de la Secretaría Ejecutiva de Administración, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
 
 #### SECCIÓN PRIMERA. SISTEMA DE CONTABILIDAD
 
@@ -7883,15 +7933,19 @@ Las unidades ejecutoras de gasto, en términos del artículo 45 de la Ley de Pre
 
 El Presupuesto de Egresos del Poder Judicial de la Federación se administrará por resultados, para lo cual, las unidades ejecutoras de gasto deberán establecer y registrar ante la Dirección General de Programación y Presupuesto, los compromisos de resultados que permitan alcanzar un ejercicio eficiente y eficaz del gasto en el Consejo, así como una efectiva rendición de cuentas. En consecuencia, las unidades ejecutoras de gasto se sujetarán a los controles presupuestarios correspondientes, conforme a sus presupuestos autorizados y a las disposiciones generales aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 709.
 
-La Comisión de Administración, a través de la Oficialía Mayor, administrará los recursos del Consejo, con apego al Presupuesto de Egresos del Poder Judicial de la Federación, a los acuerdos determinados por el Pleno y conforme a los principios de honestidad, economía, eficiencia y eficacia.
+La Comisión de Administración, a través de la Secretaría Ejecutiva de Administración, administrará los recursos del Consejo, con apego al Presupuesto de Egresos del Poder Judicial de la Federación, a los acuerdos determinados por el Pleno y conforme a los principios de honestidad, economía, eficiencia y eficacia.
 
-La Oficialía Mayor apoyará a la citada Comisión en la administración de los recursos financieros del Consejo, a través de las áreas administrativas, atendiendo al calendario del ejercicio presupuestal autorizado y de conformidad con este Título, a la Ley de Presupuesto, al Presupuesto de Egresos y a los lineamientos que al respecto emita el Pleno; asimismo presentará a los órganos facultados y al Pleno los informes relativos al ejercicio presupuestal conforme a los plazos legales y términos establecidos, proponiendo en el área de su competencia, sistemas de control y de evaluaciones internas del ejercicio presupuestal.
+La Secretaría Ejecutiva de Administración apoyará a la citada Comisión en la administración de los recursos financieros del Consejo, a través de las áreas administrativas, atendiendo al calendario del ejercicio presupuestal autorizado y de conformidad con este Título, la Ley de Presupuesto, el Presupuesto de Egresos y los lineamientos que al respecto emita el Pleno; asimismo presentará a los órganos facultados y al Pleno los informes relativos al ejercicio presupuestal conforme a los plazos legales y términos establecidos, proponiendo en el área de su competencia, sistemas de control y de evaluaciones internas del ejercicio presupuestal.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 710.
 
-La Oficialía Mayor establecerá la coordinación y comunicación adecuada para que exista un flujo de información ágil y oportuna.
+La Secretaría Ejecutiva de Administración establecerá la coordinación y comunicación adecuada para que exista un flujo de información ágil y oportuna.
 
 ###### Artículo 711.
 
@@ -7957,9 +8011,11 @@ II. La funcional y programática, la cual agrupa a las previsiones de gasto con 
 
 III. La económica, la cual agrupa las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, transferencias y, en su caso, subsidios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 719.
 
-El anteproyecto de Presupuesto de Egresos del Consejo, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán presentados a la consideración del Pleno por el Oficial Mayor, previa aprobación de la Comisión de Administración.
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán presentados a la consideración del Pleno por el Secretario Ejecutivo de Administración, previa aprobación de la Comisión de Administración. La elaboración del proyecto de los criterios y lineamientos será elaborado por la Dirección General de Programación y Presupuesto.
 
 La elaboración del proyecto de los criterios y lineamientos será elaborado por la Dirección General de Programación y Presupuesto.
 
@@ -7993,15 +8049,19 @@ III. Registrar cada programa y proyecto de inversión en la cartera que integra 
 
 ### CAPÍTULO PRIMERO. COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 #### SECCIÓN CUARTA. INTEGRACIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 724.
 
 El ejercicio del gasto público en el Consejo se efectuará con base en el calendario del ejercicio presupuestal autorizado por el Pleno. Dicho ejercicio comprenderá el manejo y aplicación que de los recursos realice el Consejo, por medio de las unidades ejecutoras de gasto, para dar cumplimiento a los objetivos y metas de los programas contenidos en el Presupuesto de Egresos del Poder Judicial de la Federación aprobado anualmente.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 725.
 
-Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán definidos anualmente por la Comisión de Administración a propuesta de la Dirección General de Programación y Presupuesto por conducto de la Oficialía Mayor, para autorización del Pleno y dándose a conocer a las unidades ejecutoras de gasto para su estricta observancia, las cuales tendrán vigencia hasta que sean emitidas las que las sustituyan.
+Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán definidos anualmente por la Comisión de Administración a propuesta de la Dirección General de Programación y Presupuesto por conducto de la Secretaría Ejecutiva de Administración, para autorización del Pleno y dándose a conocer a las unidades ejecutoras de gasto para su estricta observancia, las cuales tendrán vigencia hasta que sean emitidas las que las sustituyan.
 
 ###### Artículo 726.
 
@@ -8153,9 +8213,11 @@ I. Con cargo a los programas y, en su caso, los subprogramas, proyectos y unidad
 
 II. Con sujeción al Clasificador por Objeto del Gasto del propio Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 741.
 
-Cuando los capítulos, partidas o conceptos del Clasificador por Objeto del gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Oficialía Mayor a través de la Dirección General de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
+Cuando los capítulos, partidas o conceptos del Clasificador por Objeto del Gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Secretaría Ejecutiva de Administración a través de la Dirección General de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
 
 Las partidas del Clasificador por Objeto del Gasto podrán desagregarse en subpartidas, que correspondan con la estructura y contenido genérico de los capítulos y conceptos de gasto del mismo, previa autorización de la Comisión de Administración.
 
@@ -8525,9 +8587,11 @@ IV. Cualquier otro documento que por su naturaleza sea considerado ingreso.
 
 En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, y se desconozca el origen del ingreso, la Dirección General de Programación y Presupuesto registrará con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 784.
 
-Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, por hasta tres millones de pesos 00/100 moneda nacional en un sólo mes, deberán ser reintegradas a la Tesorería de la Federación por conducto de la Oficialía Mayor, a través de la Dirección General de Programación y Presupuesto, de conformidad con las disposiciones legales aplicables. Los reintegros mayores a tres millones de pesos 00/100 moneda nacional, deberán contar con la autorización previa de la Comisión de Administración. Los reintegros por montos iguales o menores se efectuarán directamente por la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría.
+Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, por hasta tres millones de pesos 00/100 moneda nacional en un sólo mes, deberán ser reintegradas a la Tesorería de la Federación por conducto de la Secretaría Ejecutiva de Administración, a través de la Dirección General de Programación y Presupuesto, de conformidad con las disposiciones legales aplicables. Los reintegros mayores a tres millones de pesos 00/100 moneda nacional, deberán contar con la autorización previa de la Comisión de Administración. Los reintegros por montos iguales o menores se efectuarán directamente por la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría.
 
 ###### Artículo 785.
 
@@ -8617,9 +8681,11 @@ En los casos que no se cuente con los elementos suficientes para la depuración 
 
 Para efectos de la formulación de estados financieros, la Dirección General de Programación y Presupuesto deberá elaborar el balance general o estado de situación financiera; estado de resultados; estado de origen y aplicación de recursos; estado de modificación al patrimonio; y demás información financiera y presupuestal que emane de la contabilidad y forme parte integrante de la misma.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 797.
 
-La Dirección General de Programación y Presupuesto deberá elaborar, autorizar y enviar a la Oficialía Mayor y a la Contraloría, los estados financieros de manera mensual y en los términos establecidos en las disposiciones legales y normativas aplicables.
+La Dirección General de Programación y Presupuesto deberá elaborar, autorizar y enviar a la Secretaría Ejecutiva de Administración y a la Contraloría, los estados financieros de manera mensual y en los términos establecidos en las disposiciones aplicables.
 
 ###### Artículo 798.
 
@@ -8643,9 +8709,11 @@ Asimismo, aplicará las normas de auditoría para verificar que los sistemas, pr
 
 Como resultado de la elaboración y consolidación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con lo establecido en las disposiciones legales aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 801.
 
-La Oficialía Mayor presentará a consideración de la Comisión de Administración la Cuenta Pública del Consejo, para que con su visto bueno, sea remitida al Pleno para su aprobación, y envío a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de la Ley.
+La Secretaría Ejecutiva de Administración presentará a consideración de la Comisión de Administración la Cuenta Pública del Consejo, para que con su visto bueno, sea remitida al Pleno para su aprobación, y envío a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de la Ley.
 
 #### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
 
@@ -8893,55 +8961,71 @@ Para efectos del artículo anterior, las unidades ejecutoras de gasto observará
 
 ###### Artículo 836.
 
-El Comité de Inversión de Recursos Financieros, es de carácter permanente, y tiene por objeto ejecutar todas las acciones que en materia de inversión de sus recursos financieros sea necesario implementar, para obtener un óptimo aprovechamiento de éstos, a través del análisis y selección de las diversas opciones de inversión que ofrezcan las instituciones financieras y de banca legalmente autorizadas.
+El Comité de Inversión de Recursos Financieros, es de carácter permanente, y tiene por objeto analizar, aprobar, instruir, evaluar y, en su caso, proponer la conducción de la inversión de los recursos financieros del Consejo, a las instituciones financieras por éste contratadas.
 
-Por lo que hace a los recursos patrimonio del Fondo de Apoyo, previstos en el Título Décimo Segundo de la Ley Orgánica, corresponde al Comité proporcionar asesoría en la materia de su especialización, a solicitud de la secretaría técnica del Fondo, de conformidad con las disposiciones aplicables.
+El Comité de Inversión de Recursos Financieros y la Secretaría Técnica del Fondo de Apoyo, podrán intercambiar información y emprender acciones conjuntas, a efecto de alinear las acciones de inversión de los recursos financieros a cargo del Consejo, de así convenir a los intereses del mismo.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 837.
 
-Los recursos financieros del Consejo son los siguientes:
+Los recursos financieros del Consejo que son objeto de este Capítulo, son los siguientes:
 
-I. Recursos presupuestales, son los autorizados anualmente al Poder Judicial de la Federación en el Presupuesto de Egresos de la Federación; y
+I. Recursos presupuestales, exclusivamente referidos a los recursos de fideicomisos que se provean de recursos presupuestales;
 
-II. Recursos no presupuestales, constituidos por capital que por cualquier título le corresponda administrar al Consejo.
+II. Recursos no presupuestales, constituidos por capital que por cualquier título le corresponda administrar al Consejo, como fideicomisos, fondos de ahorro, entre otros:
+
+a) Fideicomiso para la administración del "Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación", de conformidad con este Acuerdo;
+
+b) Fideicomiso para la administración del Fondo por concepto de aportaciones para el "Programa de Mantenimiento de Viviendas de Magistrados y Jueces del Poder Judicial de la Federación";
+
+c) Fideicomiso para la administración del "Plan de Apoyos Médicos Complementarios y de Apoyo Económico Extraordinario para los Servidores Públicos del Poder Judicial de la Federación con excepción de los de la Suprema Corte de Justicia de la Nación"; y
+
+d) Fondo de Reserva Individualizado, de conformidad con este Acuerdo; y
+
+III. Todos aquellos recursos de idéntica naturaleza que en lo futuro le corresponda administrar al Consejo, previa autorización del Pleno o de la Comisión de Administración.
 
 ###### Artículo 838.
 
 El Comité de Inversión de Recursos Financieros estará integrado de la siguiente forma:
 
-I. Presidente: El Titular del área administrativa que sea designado por el Oficial Mayor; y
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
-II. Vocales: El Secretario Ejecutivo de Administración y el Director General de Tesorería.
+I. Presidente: El Secretario Ejecutivo de Administración; y
+
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+II. Vocales: Los directores generales de Tesorería y de Programación y Presupuesto.
 
 Los integrantes del Comité tendrán derecho a voz y voto, y no podrán ser representados en las sesiones.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 839.
 
 El Comité de Inversión de Recursos Financieros tendrá las siguientes funciones:
 
-I. Decidir la estrategia de inversión de los recursos del Consejo, en la que se deberán especificar los montos, instituciones, plazos y tasas. No obstante lo anterior, el Comité podrá enviar el asunto a conocimiento de la Comisión de Administración cuando considere que, por su trascendencia, deba ser resuelto por ésta, la que a su vez, de considerarlo pertinente, podrá someterlo a la consideración del Pleno;
+I. Aprobar, con base en la información, estudios y análisis elaborados por las áreas competentes del Consejo y por la o las instituciones financieras con las que el Consejo tenga relación contractual, la estrategia de inversión de sus recursos financieros, de conformidad con las disposiciones normativas aplicables, con su naturaleza jurídica, su objetivo y fin. De esta determinación informará a la Comisión de Administración en la siguiente sesión ordinaria;
 
 II. Autorizar las políticas y procedimientos que permitan el mejor aprovechamiento de los recursos financieros, las que deberán hacerse del conocimiento de la Comisión de Administración en la siguiente sesión ordinaria;
 
-III. Determinar los niveles aceptables de rentabilidad en las inversiones para su contratación;
+III. Determinar los niveles aceptables de riesgo y rentabilidad de acuerdo con las estrategias de inversión autorizadas en cada caso;
 
-IV. Definir y autorizar las estrategias aplicables a las operaciones de inversión de los recursos financieros, dentro de los niveles de rentabilidad aceptados, determinando posturas de compra o venta, así como los montos y plazos de inversión;
+IV. Autorizar y supervisar que la o las instituciones financieras contratadas por el Consejo, apliquen debidamente las estrategias autorizadas, a fin de que las operaciones de inversión de los recursos financieros se mantengan dentro de los niveles de riesgo y rentabilidad previamente determinados;
 
-V. Autorizar la celebración de los contratos y demás instrumentos jurídicos que se requieran para la inversión de los recursos del Consejo con las instituciones seleccionadas cada vez que lo considere necesario, justificando sus propuestas. De todo contrato que se celebre el Comité deberá informar a la Comisión de Administración;
+V. Autorizar los criterios para la contratación de la o las instituciones financieras, garantizando las mejores condiciones de inversión y de administración de los recursos del Consejo. Para tal efecto, las áreas competentes deberán presentar un estudio de las condiciones del mercado y de las ofertas recibidas, así como la justificación de su propuesta, e informar de ello a la Comisión de Administración;
 
-VI. Autorizar los procedimientos mediante los cuales se lleven a cabo las operaciones con las instituciones financieras, lo que deberá ser informado a la Comisión de Administración;
+VI. Autorizar la celebración, modificación, renovación o cancelación de contratos y demás instrumentos jurídicos que se requieran para la inversión de los recursos del Consejo.
 
-VII. Autorizar la cancelación o la nueva contratación de inversiones con las diversas instituciones autorizadas, lo que deberá ser informado a la Comisión de Administración;
+De todo contrato que se celebre, modifique o cancele, el Comité de Inversión de Recursos Financieros, deberá contar con el dictamen de la Dirección General de Asuntos Jurídicos;
 
-VIII. Analizar los resultados de las estrategias aplicadas en las operaciones de inversión y sus rendimientos;
+VII. Analizar los resultados de las estrategias aplicadas en las operaciones de inversión y sus rendimientos;
 
-IX. Rendir un informe a la Comisión de Administración sobre el comportamiento de las inversiones de los recursos financieros del Consejo, dentro de los primeros siete días de cada mes;
+VIII. Rendir trimestralmente un informe a la Comisión de Administración sobre el comportamiento de las inversiones de los recursos financieros del Consejo;
 
-X. Proporcionar a la Comisión de Administración y al Pleno los informes que requieran respecto a los rendimientos que se tengan de cada una de las inversiones;
+IX. Proporcionar a la Comisión de Administración y al Pleno los informes que requieran respecto a los rendimientos que se tengan de cada una de las inversiones; y
 
-XI. Proporcionar la asesoría que solicite la secretaría técnica del Fondo de Apoyo, así como las demás que disponga el Capítulo siguiente de este Acuerdo; la Sección Única del Capítulo Quinto del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo; y las que el Pleno o la Comisión de Administración le asignen, en relación con los recursos propios o administrados por el Consejo; y
-
-XII. Las demás (sic) determine el Pleno o la Comisión de Admnistración (sic).
+X. Las demás que le sean conferidas por el Pleno y la Comisión de Administración.
 
 ###### Artículo 840.
 
@@ -9009,11 +9093,25 @@ IX. Formular el calendario anual de sesiones ordinarias a más tardar en los pri
 
 X. Intervenir con voz, pero sin voto, en las sesiones del Comité;
 
-XI. Negociar y cerrar las inversiones con las instituciones financieras autorizadas, en estricto apego a la estrategia y acuerdos que dicte el Comité, mediante el uso de herramientas informáticas que aseguren una adecuada transparencia para la selección de la mejor opción de inversión;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
-XII. Comunicar al Director General de Tesorería para que, en los términos acordados, realice la transferencia de recursos; y
+XI. Verificar que las operaciones efectuadas por la o las instituciones financieras se realicen conforme lo instruido por el Comité, debiendo presentar a los integrantes del propio Comité los reportes de cumplimiento con la periodicidad que éste determine;
 
-XIII. Las demás que le encomiende la Comisión de Administración, el Comité o el presidente del Comité.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+XII. Elaborar el informe trimestral del comportamiento de las inversiones de los recursos financieros del Consejo;
+
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+XIII. Elaborar el informe semestral de la gestión del Comité;
+
+> <small>(ADICIONADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+XIV. En su caso, gestionar las operaciones de cierre de mesa de dinero respecto de aquellos recursos financieros que al efecto establezca el Comité, así como, informar oportunamente los resultados obtenidos a la Dirección General de Tesorería; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+XV. Las demás que le encomiende la Comisión de Administración, el Comité o el presidente del Comité.
 
 ###### Artículo 844.
 
@@ -9021,25 +9119,25 @@ Las funciones del secretario técnico del Fondo de Apoyo son independientes de l
 
 ###### Artículo 845.
 
-La operación de las estrategias de inversión adoptadas por el Comité comprende las siguientes acciones:
-
-I. La negociación y cierre de las mesas de dinero, cuyo desarrollo corresponderá al secretario técnico del Comité; y
-
-II. La transferencia de los recursos a la o las instituciones financieras previamente determinadas, cuya realización corresponderá al Director General de Tesorería.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)
 
 ###### Artículo 846.
 
-El Director General de Tesorería deberá ejecutar la instrucción que, a efecto de finiquitar la operación de las estrategias de inversión, le comunique el secretario técnico del Comité.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)
 
 ###### Artículo 847.
 
 Las sesiones del Comité se celebrarán de conformidad con lo siguiente:
 
-I. El Comité sesionará de manera ordinaria por lo menos una vez al mes y de forma extraordinaria cuando así lo convoque su presidente;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+I. El Comité sesionará de manera ordinaria trimestralmente y de forma extraordinaria, cuando alguno de los miembros del mismo lo solicite;
 
 II. Las decisiones se tomarán por mayoría de votos de sus miembros presentes y, en caso de empate, el presidente del Comité tendrá voto de calidad;
 
-III. Deberán concurrir todos los integrantes del Comité; sin embargo, podrá llevarse a cabo la sesión con la presencia del presidente y cuando menos un vocal. En ausencia del presidente, éste podrá ser sustituido, en los casos debidamente justificados y previo aviso a la Comisión de Administración o al presidente de dicha Comisión, por el Secretario Ejecutivo de Administración, quien una vez designado ejercerá las atribuciones propias del cargo;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+III. Deberán concurrir todos los integrantes del Comité; sin embargo, podrá llevarse a cabo la sesión con la presencia del presidente y cuando menos un vocal. En ausencia del presidente, éste podrá ser sustituido, en los casos debidamente justificados y previo aviso a la Comisión de Administración o al presidente de dicha Comisión, por el Director General de Programación y Presupuesto, quien ejercerá las atribuciones propias del cargo;
 
 IV. La convocatoria y el orden del día, junto con la documentación soporte, se entregará a los miembros del Comité, secretario y asesores, con tres días hábiles de anticipación a la celebración de la sesión; sin embargo, podrá reducirse el tiempo señalado, cuando exista causa que lo amerite;
 
@@ -9047,27 +9145,37 @@ V. De cada sesión se levantará un acta con los acuerdos tomados, la que será 
 
 VI. Los asuntos que se sometan a la consideración del Comité, se presentarán en listados que contengan la información resumida de los casos que se dictaminen en cada sesión;
 
-VII. En cada sesión ordinaria el Director General de Tesorería deberá presentar a la consideración del Comité, el informe de la situación actual de los mercados financieros y la propuesta de inversión por el período correspondiente para su aprobación, en su caso, así como el informe de posición de caja y de flujo de efectivo, en el que se deberá contemplar la información de las disponibilidades financieras, tales como el saldo inicial, los ingresos, los egresos, el saldo final y el comparativo entre los recursos que se vayan obteniendo;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+VII. El Secretario Técnico del Comité requerirá a la o las instituciones financieras un informe trimestral de resultados, para que se presente en la sesión del Comité. Este informe deberá ser presentado en los formatos y bajo las indicaciones instruidas por el Comité;
 
 VIII. El orden del día deberá contener un rubro de seguimiento de los acuerdos adoptados por el Comité; y
 
-IX. El Comité deberá presentar un informe mensual a la Comisión de Administración en el que se indique el estado que guarden las inversiones realizadas y de los rendimientos generados por éstas.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+IX. El Comité deberá presentar trimestralmente, un informe a la Comisión de Administración en el que se indique el estado que guarden las inversiones realizadas y de los rendimientos generados por éstas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 848.
 
-El titular de la Dirección General de Asuntos Jurídicos será asesor permanente del Comité, con las siguientes atribuciones:
+El titular de la Dirección General de Asuntos Jurídicos será asesor permanente del Comité de Inversión de Recursos Financieros, con las siguientes funciones:
 
 I. Asistir a las sesiones del Comité con derecho a voz, pero sin voto;
 
 II. Analizar los documentos relacionados con la competencia del Comité;
 
-III. Opinar y proporcionar la asesoría que le sea requerida en los asuntos de su especialización; y
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+III. Asesorar en el ámbito de su competencia respecto de los asuntos que le sean requeridos; y
 
 IV. Proponer alternativas de solución cuando le sean solicitadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 849.
 
-El Contralor tendrá el carácter de supervisor permanente en las sesiones del Comité de Inversión de Recursos Financieros, con las siguientes atribuciones:
+El Contralor por sí o por conducto de la Dirección General de Auditoría asistirá con voz en carácter de supervisor permanente a las sesiones del Comité de Inversión de Recursos Financieros, con las siguientes funciones:
 
 I. Asistir obligatoriamente a las sesiones del Comité;
 
@@ -9079,21 +9187,29 @@ III. Informar a la Comisión de Administración, con la periodicidad que ésta i
 
 El secretario técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité, con derecho a voz, pero sin voto.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 851.
 
-El Comité podrá invitar a las sesiones a los representantes de los grupos financieros que requiera, entendidos éstos como las instituciones bancarias y financieras debidamente autorizadas, con quienes se tengan celebrados contratos o cualquier otro instrumento jurídico.
+El Comité de Inversión de Recursos Financieros podrá invitar a las sesiones a los representantes de la o las instituciones financieras con las que guarde relación, así como a especialistas en la materia, que resulten de importancia para el mejor manejo de las inversiones del Consejo.
 
-La participación de los representantes de los grupos financieros se sujetará a lo siguiente:
+La participación de dichos representantes se sujetará a lo siguiente:
 
-I. Los representantes acreditados de los grupos financieros podrán participar en las sesiones del Comité, única y exclusivamente, cuando sean convocados como invitados;
+I. En el orden del día deberá consignarse el asunto y propósito de la invitación, especificando los motivos por los cuales se está requiriendo a la institución en lo particular;
 
-II. Los representantes de los grupos financieros, cuando sean requeridos para ello, podrán exponer ante los integrantes del Comité sus propuestas de inversión y los rendimientos que ofrecen; y
+II. Los representantes acreditados podrán participar en las sesiones del Comité, única y exclusivamente, cuando sean convocados como invitados;
 
-III. En ningún momento los grupos financieros podrán tener conocimiento de las estrategias de inversión ni de la información financiera del Consejo, ni de cualquier otro acervo que pudiera estar contemplado como información reservada, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables.
+III. Los representantes cuando sean requeridos para ello, podrán exponer ante los integrantes del Comité sus propuestas de inversión y los rendimientos que ofrecen; y
+
+IV. El Comité no podrá revelar información a los grupos financieros que se haya clasificado como reservada, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y demás disposiciones aplicables.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 852.
 
-Los contratos y demás instrumentos jurídicos que se requieran para la inversión de recursos que el Consejo autorice celebrar, tomarán en cuenta los rendimientos que la institución financiera otorgue en cada período de inversión, y será potestad del Comité de Inversión de Recursos Financieros incrementar o disminuir el monto de dicha inversión de conformidad con los resultados que se observen.
+Los contratos, convenios y demás instrumentos jurídicos que se requiera suscribir para realizar las inversiones de los recursos del Consejo, deberán cumplir con los requisitos que el Banco de México, la Comisión Nacional Bancaria y de Valores, y demás instituciones nacionales e internacionales establezcan para tal fin. En dichos instrumentos se cuidará en todo momento las mejores condiciones de inversión de los recursos que el Consejo administra o en los cuales es fideicomitente.
+
+La Dirección General de Asuntos Jurídicos deberá considerar las disposiciones jurídicas aplicables para emitir su dictamen, el cual no comprenderá la determinación de la institución financiera, ni las condiciones de inversión, situación que quedará bajo la responsabilidad del Comité de Inversión de Recursos Financieros.
 
 ###### Artículo 853.
 
@@ -9377,6 +9493,8 @@ Se procurará que los billetes, certificados o instrumentos de depósito se pued
 
 #### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 901.
 
 De conformidad con lo dispuesto en el artículo 248 de la Ley Orgánica y los artículos 855 y 891 de este Acuerdo, el Comité determinará a la o las instituciones de crédito, casas de bolsa u operadoras de sociedades de inversión en las que se administrarán los recursos del Fondo de Apoyo y podrá solicitar la opinión del Comité de Inversión al respecto.
@@ -9404,6 +9522,8 @@ La institución depositaria debe informar a la secretaría técnica del Fondo, p
 Los informes de la institución depositaria deberán rendirse de forma que permitan la conciliación oportuna, completa y precisa de los ingresos, egresos y rendimientos. En caso de inconsistencias en los estados de cuenta, la secretaría técnica del Fondo de Apoyo deberá promover las aclaraciones correspondientes en un término no mayor de treinta días posteriores a que tenga conocimiento de ellas.
 
 #### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 907.
 
@@ -9471,11 +9591,13 @@ La Dirección General de Comunicación Social deberá presentar al Pleno y a la 
 
 Las disposiciones de este Capítulo son de observancia obligatoria para todos los servidores públicos y visitantes que pretendan ingresar o se encuentren dentro de las instalaciones.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 919.
 
-La Coordinación de Seguridad es la responsable de la seguridad institucional, conforme a lo dispuesto por los artículos 92 y 93 del Acuerdo General del Pleno, que reglamenta la organización y funcionamiento del propio Consejo y lo establecido en este Acuerdo.
+La Coordinación de Seguridad es la responsable de la seguridad institucional, conforme a lo dispuesto por los artículos 92 y 93 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo y lo establecido en este Acuerdo.
 
-La Coordinación de Seguridad, con el visto bueno del titular de la Secretaría Ejecutiva del Pleno y de la Presidencia, deberá instrumentar el Plan Estratégico de Seguridad Institucional, tomando como ejes rectores, entre otros, las bases normativas y orgánicas y los programas en la materia.
+La Coordinación de Seguridad deberá instrumentar el Plan Estratégico de Seguridad Institucional, tomando como ejes rectores, entre otros, las bases normativas y orgánicas y los programas en la materia.
 
 ###### Artículo 920.
 
@@ -9495,11 +9617,13 @@ En las instalaciones, la Administración de Inmuebles deberá colocar en lugar v
 
 ###### Artículo 922.
 
-La Coordinación de Seguridad con el visto bueno del Secretario Ejecutivo del Pleno y de la Presidencia presentará para su consideración y, en su caso, aprobación del Pleno, el Plan Estratégico de Seguridad Institucional, el cual se mantendrá actualizado en todo momento.
+La Coordinación de Seguridad presentará al Pleno para su consideración y, en su caso, aprobación, el Plan Estratégico de Seguridad Institucional, el cual se mantendrá actualizado en todo momento.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 923.
 
-La Coordinación de Seguridad, elaborará las propuestas y desarrollos de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones y demás bienes del Poder Judicial de la Federación, los cuales deberán contar con el visto bueno del Secretario Ejecutivo del Pleno y de la Presidencia y, en su caso, se someterán a la aprobación de la Comisión correspondiente.
+La Coordinación de Seguridad, elaborará las propuestas y desarrollos de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones y demás bienes del Poder Judicial de la Federación, los cuales se someterán a la aprobación de la Comisión correspondiente.
 
 ###### Artículo 924.
 
@@ -9525,7 +9649,9 @@ La Coordinación de Seguridad atenderá los requerimientos que en materia de seg
 
 ###### Artículo 927.
 
-Los servidores públicos y visitantes que deseen ingresar a las instalaciones, deberán sujetarse a los controles de revisión, registro y demás medidas en materia de seguridad institucional, previstas en este Capítulo y demás disposiciones aplicables.
+Los servidores públicos y visitantes que deseen ingresar a las instalaciones, deberán sujetarse a los controles de revisión, registro y demás medidas en materia de seguridad institucional, previstas en este Capítulo y demás disposiciones aplicables. Dichas medidas deberán ser acordes con el respeto a la dignidad de las personas.
+
+En ningún caso podrá implementarse la revisión vehicular como medida de seguridad institucional.
 
 ###### Artículo 928.
 
@@ -9567,9 +9693,11 @@ La Coordinación de Seguridad tendrá bajo su mando y supervisión los centros d
 
 La Coordinación de Seguridad determinará, conforme al protocolo o manual correspondiente y previo análisis técnico de seguridad, las características del equipo, la logística de ubicación y las reglas para el manejo y control operativo de los centros de control y monitoreo. La administración de inmuebles dará todas las facilidades a la Coordinación de Seguridad para que se instalen dichos sistemas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 937.
 
-La información que se genere por el uso de los equipos mencionados en el artículo anterior, en casos relevantes de riesgo o hechos probablemente ilícitos, se hará del conocimiento del Presidente, Consejeros, Secretario Ejecutivo del Pleno y de la Presidencia y, en caso necesario, de las autoridades competentes, ya sea por requerimiento en los términos de las leyes respectivas o cuando el Consejo deba comunicarlas de manera directa.
+La información que se genere por el uso de los equipos mencionados en el artículo anterior, en casos relevantes de riesgo o hechos probablemente ilícitos, se hará del conocimiento del Presidente y de los Consejeros y, en caso necesario, de las autoridades competentes, ya sea por requerimiento en los términos de las leyes respectivas o cuando el Consejo deba comunicarlas de manera directa.
 
 El manejo, resguardo y entrega de la información generada por dichos sistemas, se regulará por los manuales, procedimientos y sistemas establecidos por la Coordinación de Seguridad, en ellos se privilegiará en todo momento la protección de los datos personales, con las excepciones que las leyes determinen. El mal uso de dicha información quedará bajo la responsabilidad de quien la controle y divulgue.
 
@@ -9615,9 +9743,11 @@ En estos casos de excepción, los administradores de los inmuebles deberán abri
 
 De esos expedientes remitirán copia a la Secretaría Ejecutiva de Administración, para efectos de control, expidiendo a los autorizados la tarjeta de identificación correspondiente.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 945.
 
-Los administradores de los inmuebles y las personas encargadas de seguridad, serán responsables del cumplimiento de las disposiciones de este Capítulo, por lo que con el apoyo de la Coordinación de Seguridad deberán instrumentar las estrategias necesarias a fin de evitar la entrada de vendedores y prestadores de servicio a dichas instalaciones, incluyendo la revisión de todos los vehículos del personal, con excepción de magistrados de Circuito, jueces de Distrito y titulares de áreas administrativas, para impedir que introduzcan cualquier tipo de mercancía.
+Los administradores de los inmuebles y las personas encargadas de la seguridad, serán responsables del cumplimiento de las disposiciones de este Capítulo, por lo que con el apoyo de la Coordinación de Seguridad deberán instrumentar las estrategias necesarias a fin de evitar la entrada de vendedores y prestadores de servicio a dichas instalaciones.
 
 ###### Artículo 946.
 
@@ -10340,3 +10470,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que dentro de los quince días hábiles siguientes a la aprobación del presente Acuerdo, revise la normativa del Consejo de la Judicatura sobre el acceso de los menores de edad a los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral y, en su caso, realice una propuesta de reformas.
+
+D.O.F. 19 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo surte sus efectos a partir del 16 de enero de 2015, sin perjuicio de las determinaciones adoptadas por el Pleno del Consejo de la Judicatura Federal con motivo de la aprobación de la reestructura de la Institución.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
+
+CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
