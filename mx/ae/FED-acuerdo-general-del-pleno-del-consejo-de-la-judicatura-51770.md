@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2015-03-17"
+last_updated: "2015-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -73,7 +73,7 @@ VIII. Comisión: Comisión de Carrera Judicial del Consejo de la Judicatura Fede
 
 IX. Titulares: magistrados de circuito y jueces de distrito;
 
-X. Secretario Ejecutivo: Secretario Ejecutivo de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
+X. (DEROGADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)
 
 XI. Instituto: Instituto de la Judicatura Federal;
 
@@ -229,11 +229,11 @@ Los dictámenes que emita el Pleno respecto de adscripción o readscripción, co
 
 Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, deberán notificarse a todos los interesados, para los efectos del Título Séptimo, Capítulo III, de la Ley.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 24 Bis.
 
-Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, serán resguardados en la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos y deberán remitirse en copia certificada a la Dirección General de Recursos Humanos, acorde a lo dispuesto en los Acuerdos Generales 28/2000 y 59/2004 del Pleno del Consejo de la Judicatura Federal.
+Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, serán resguardados en la Secretaría Ejecutiva de Adscripción y deberán remitirse en copia certificada a la Dirección General de Recursos Humanos, de conformidad con lo dispuesto en las disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL ORDENAMIENTO QUE MODIFICA EL ACUERDO.</small>
 
@@ -243,9 +243,11 @@ Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, serán
 
 A efecto de determinar la antigüedad en el Poder Judicial de la Federación, a que se refieren los artículos 119 y 120 de la Ley, se tomará en consideración el orden de prelación de las categorías que establece el diverso numeral 110 de tal cuerpo normativo.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 26.
 
-La Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, tan pronto reciba la correspondencia relativa al área de adscripciones, remitirá copia de ésta a la Secretaría Técnica de la Comisión de Adscripción.
+La Secretaría Ejecutiva de Adscripción, tan pronto reciba la correspondencia relativa al área de adscripciones, remitirá copia de ésta a la Secretaría Técnica de la Comisión de Adscripción.
 
 ###### Artículo 27.
 
@@ -491,9 +493,11 @@ V. Suspensión: menos ocho puntos; y
 
 VI. Visitas de inspección: menos un punto. Unicamente serán objeto de valoración las últimas tres visitas de inspección y se descontará el puntaje señalado cuando de su análisis se advierta que no se han acatado las recomendaciones que, en su caso, se hayan formulado.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 43.
 
-Si la plaza vacante en determinado órgano jurisdiccional es interina, a fin de resolver sobre la readscripción, la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos hará del conocimiento de los solicitantes tal circunstancia, para que dentro del término de tres días, y por escrito dirigido a la Comisión de Adscripción, manifiesten si insisten en dicho cambio; la falta de contestación oportuna se entenderá en sentido negativo y, por ende, no se atenderá ninguna de dichas solicitudes.
+Si la plaza vacante en determinado órgano jurisdiccional es interina, a fin de resolver sobre la readscripción, la Secretaría Ejecutiva de Adscripción hará del conocimiento de los solicitantes tal circunstancia, para que dentro del término de tres días, y por escrito dirigido a la Comisión de Adscripción, manifiesten si insisten en dicho cambio; la falta de contestación oportuna se entenderá en sentido negativo y, por ende, no se atenderá ninguna de dichas solicitudes.
 
 ## TITULO QUINTO. De la Ratificación
 
@@ -509,25 +513,31 @@ II. Tener seis años en el desempeño como juzgador federal, ya sea durante el t
 
 La garantía de permanencia se reconocerá, según el caso, a través de una resolución de ratificación.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 45.
 
-El trámite de los expedientes de ratificación corresponderá al Presidente, por conducto del Secretario Ejecutivo.
+El trámite de los expedientes de ratificación corresponderá al Presidente, por conducto del Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 46.
 
-El Director General de Recursos Humanos levantará, con seis meses de antelación, una certificación en el expediente personal del funcionario de que se trate, en la que hará constar el vencimiento del plazo de seis años a que alude el artículo 97, párrafo primero, de la Constitución. Acto seguido, comunicará dicha situación al Secretario Ejecutivo y le remitirá el citado expediente. Asimismo, informará al Secretario Ejecutivo de Disciplina para que remita, a la brevedad, informe sobre los procedimientos administrativos disciplinarios formulados en contra del servidor público.
+El Director General de Recursos Humanos levantará, con seis meses de antelación, una certificación en el expediente personal del funcionario de que se trate, en la que hará constar el vencimiento del plazo de seis años a que alude el artículo 97, párrafo primero, de la Constitución. Acto seguido, comunicará dicha situación al Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos y le remitirá el citado expediente. Asimismo, informará al Secretario Ejecutivo de Disciplina para que remita, a la brevedad, informe sobre los procedimientos administrativos disciplinarios formulados en contra del servidor público.
 
 El Magistrado de Circuito o Juez de Distrito podrá hacer del conocimiento de cualquiera de dichos Secretarios Ejecutivos, el vencimiento del plazo, con la oportunidad mencionada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 47.
 
-El Secretario Ejecutivo dará cuenta con la certificación a que se refiere el artículo anterior, al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
+El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos dará cuenta con la certificación a que se refiere el artículo anterior al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
 
 De estimarse improcedente el inicio del procedimiento de ratificación, el Presidente ordenará la devolución del expediente a Recursos Humanos.
 
-De ser procedente el inicio del procedimiento de ratificación, el Secretario Ejecutivo:
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
+De ser procedente el inicio del procedimiento de ratificación, el Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos:
 
 I. Dispondrá que se forme y registre el expediente de ratificación bajo el número que le corresponda, al cual deberá agregarse copia autorizada de la certificación a que se refiere el artículo anterior y, en su caso, el comunicado del funcionario;
 
@@ -547,9 +557,11 @@ VII. Turnará el expediente a un Consejero a fin de que elabore el dictamen corr
 
 VIII. El original del dictamen que al efecto se elabore, así como los documentos a que hacen referencia las fracciones II y III de este artículo, deberán enviarse al expediente personal del servidor público que obra en Recursos Humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 48.
 
-El Secretario Ejecutivo debe vigilar la tramitación y seguimiento del procedimiento de ratificación en los términos establecidos en las disposiciones que al efecto emita el Pleno.
+El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos debe vigilar la tramitación y seguimiento del procedimiento de ratificación en los términos establecidos en las disposiciones que al efecto emita el Pleno.
 
 La existencia de procedimientos de responsabilidad administrativa en trámite no impide la continuación y emisión de la resolución correspondiente a la ratificación.
 
@@ -875,9 +887,11 @@ Cuando haya sido sancionado con cese un servidor público de algún órgano juri
 
 ## TITULO SEPTIMO. De las Actuaciones
 
+REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)
+
 ###### Artículo 89.
 
-El aviso a que se refiere el segundo párrafo del artículo 156 de la Ley podrá hacerse, también, mediante fax o correo electrónico, el cual deberá enviarse al Secretario Ejecutivo.
+El aviso a que se refiere el segundo párrafo del artículo 156 de la Ley podrá hacerse, también, mediante fax o correo electrónico, el cual deberá enviarse al Secretario Ejecutivo de Adscripción.
 
 ###### Artículo 90.
 
@@ -949,9 +963,11 @@ En los lugares en donde existan dos o más tribunales unitarios de circuito o ju
 
 Para la efectividad de la regla anterior, los magistrados de circuito y los jueces de distrito deberán comunicarlo al Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 102.
 
-La comunicación a que se refiere el artículo anterior deberá ser dirigida mediante oficio, con cinco días naturales de anticipación, al Secretario Ejecutivo para que éste lo haga del conocimiento de la Comisión con la debida oportunidad.
+La comunicación a que se refiere el artículo anterior deberá ser dirigida mediante oficio, con cinco días naturales de anticipación, al Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos para que éste lo haga del conocimiento de la Comisión con la debida oportunidad.
 
 Los períodos vacacionales de los mencionados servidores públicos podrán ser modificados por el Pleno por necesidades del servicio.
 
@@ -1017,15 +1033,25 @@ Las licencias mayores de seis meses sólo podrán ser otorgadas de manera extrao
 
 Cuando se otorguen licencias por un término mayor a seis meses, no podrá concederse otra en el transcurso de un año; y si hubiese gozado de una menor a seis meses, en el transcurso de cuatro meses no podrá solicitarse licencia de carácter personal con goce de sueldo.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 111.
 
-Las licencias con o sin goce de sueldo, hasta por treinta días, de los magistrados de circuito y jueces de distrito serán concedidas por el Presidente; las que excedan de este término serán concedidas por el Pleno.
+El trámite de las licencias con o sin goce de sueldo de los magistrados de Circuito y jueces de Distrito corresponde:
+
+I. Al Presidente tratándose de licencias de carácter personal o médico, hasta por treinta días;
+
+II. A la Comisión respecto de las licencias de carácter oficial o académico hasta por treinta días; y
+
+III. Al Pleno cuando la duración de la licencia sea mayor a treinta días, independientemente del carácter de la misma.
+
+En aquellos casos en que por los plazos la solicitud de licencia de carácter oficial o académico no pueda ser resuelta por la Comisión sin que tenga efectos retroactivos, será tramitada por el Presidente.
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 112.
 
-Las solicitudes de licencias de magistrados de circuito y jueces de distrito por motivos oficiales, de capacitación, médicos o personales, de hasta treinta días serán tramitadas ante la Secretaría Ejecutiva del Pleno, instancia que las someterá a la consideración del Presidente.
-
-Las licencias que excedan del término a que se refiere el párrafo anterior, se tramitarán ante la Secretaría Ejecutiva del Pleno, cuyo titular las enviará a la Comisión, la que emitirá el dictamen correspondiente para la consideración y, en su caso, aprobación del Pleno.
+Las solicitudes a que se refieren las fracciones I y III del artículo anterior serán presentadas ante la Secretaría Ejecutiva del Pleno, y las previstas en la fracción II del mismo precepto ante la Comisión.
 
 ###### Artículo 113.
 
@@ -1327,9 +1353,11 @@ La Comisión presentará un informe anual al Pleno sobre los períodos sabático
 
 Al concluir el primer año sabático se iniciará el cómputo de seis años para estar en posibilidad de solicitar un segundo.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 158.
 
-El Secretario Ejecutivo llevará el registro de los períodos sabáticos otorgados, así como de los resultados de éstos.
+El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos llevará el registro de los períodos sabáticos otorgados, así como de los resultados de éstos.
 
 ###### Artículo 159.
 
@@ -1447,11 +1475,11 @@ El Pleno podrá acordar la publicación de una memoria de la labor desempeñada 
 
 El Pleno podrá modificar el contenido del presente Acuerdo cuando así lo requiera el funcionamiento del Consejo, por iniciativa del Presidente, de cualquiera de los Consejeros o de las Comisiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 177.
 
-Las modificaciones que en lo sucesivo se realicen al presente Acuerdo, deberán incorporarse por la Secretaría Ejecutiva de Vigilancia, Información y Evaluación al texto de este instrumento, a efecto de que se sustituyan, adicionen o supriman en el articulado.
-
-Por virtud de lo anterior, a los acuerdos generales que tengan por objeto modificar este Acuerdo, no se les asignará número alguno, bastando para efectos de su identificación, con la fecha de su publicación en el Diario Oficial de la Federación.
+A los acuerdos generales que tengan por objeto reformar, adicionar o derogar disposiciones de este Acuerdo, no se les asignará número alguno, bastando para efectos de su identificación, con la fecha de su publicación en el Diario Oficial de la Federación.
 
 ## TRANSITORIOS
 
@@ -1882,3 +1910,15 @@ D.O.F. 17 DE MARZO DE 2015.
 PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 19 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo surte sus efectos a partir del 16 de enero de 2015, sin perjuicio de las determinaciones adoptadas por el Pleno del Consejo de la Judicatura Federal con motivo de la aprobación de la reestructura de la Institución.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
+
+CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
