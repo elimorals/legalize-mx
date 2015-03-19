@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-01-15"
+last_updated: "2015-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -155,9 +155,11 @@ I. Que se devengue efectivamente la contraprestación que recibe el servidor pú
 
 II. Que las justificaciones por omisiones de registro de entrada, salida, así como de retardos y faltas del personal de su adscripción, únicamente se efectúen cuando haya existido causa justificada que se acredite en términos de los lineamientos a que alude este artículo.
 
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 8.
 
-La Oficialía Mayor, a través del área correspondiente, se encargará de instrumentar la aplicación de este Capítulo, así como de atender las dudas o consultas que surjan por parte de los titulares y demás servidores públicos adscritos a los órganos jurisdiccionales.
+La Secretaría Ejecutiva de Administración, a través del área correspondiente, se encargará de instrumentar la aplicación de este Capítulo, así como de atender las dudas o consultas que surjan por parte de los titulares y demás servidores públicos adscritos a los órganos jurisdiccionales.
 
 ### CAPÍTULO SEGUNDO. DÍAS INHÁBILES Y DE DESCANSO
 
@@ -197,9 +199,11 @@ XIV. Aquellos en que los órganos jurisdiccionales competentes en materia de amp
 
 XV. Los demás que determine el Pleno.
 
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 10.
 
-En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, los titulares de los juzgados de Distrito; de los tribunales Unitarios de Circuito, así como el presidente de los tribunales Colegiados de Circuito deberán comunicar de inmediato, la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno y de la Presidencia, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
+En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, los titulares de los juzgados de Distrito; de los tribunales Unitarios de Circuito, así como el presidente de los tribunales Colegiados de Circuito deberán comunicar de inmediato, la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
 
 ### CAPÍTULO TERCERO. PERÍODOS VACACIONALES DE TRIBUNALES COLEGIADOS DE CIRCUITO
 
@@ -221,9 +225,11 @@ El número de los órganos jurisdiccionales podrá aumentar, cuando resulte nece
 
 De no existir acuerdo, corresponderá a la Comisión de Carrera Judicial o, en su caso, a la Comisión de Receso, determinar la quincena en que deban tomarse los períodos vacacionales.
 
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 13.
 
-Los magistrados de Circuito integrantes de los tribunales Colegiados de Circuito comunicarán, cuando menos con quince días de anticipación, al titular de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos, los términos acordados para el disfrute de sus periodos vacacionales, para que informe a la Comisión de Carrera Judicial, y lleve el control de las autorizaciones.
+Los magistrados de Circuito integrantes de los tribunales Colegiados de Circuito comunicarán, cuando menos con quince días de anticipación, al titular de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, los términos acordados para el disfrute de sus periodos vacacionales, para que informe a la Comisión de Carrera Judicial, y lleve el control de las autorizaciones.
 
 ###### Artículo 14.
 
@@ -2844,3 +2850,17 @@ SEXTO. Se derogan todas las disposiciones que opongan al presente Acuerdo.
 > <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 15 DE ENERO DE 2015, PÁGINAS DE LA 95 A LA 105.</small>
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de doce de noviembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a seis de enero de dos mil quince.- Conste.- Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo surte sus efectos a partir del 16 de enero de 2015, sin perjuicio de las determinaciones adoptadas por el Pleno del Consejo de la Judicatura Federal con motivo de la aprobación de la reestructura de la Institución.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
+
+CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
