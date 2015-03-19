@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-98413"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-06"
-last_updated: "2014-12-05"
+last_updated: "2015-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98413&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de febrero de 2014.
 
@@ -955,9 +955,11 @@ En caso de que el área administrativa o el órgano jurisdiccional niegue en tod
 
 El Comité es la instancia ejecutiva, encargada de instrumentar las medidas necesarias para coordinar las acciones tendentes a cumplir con la publicidad de la información, asegurar el ejercicio del derecho de acceso a la información y proteger los datos personales en posesión de las áreas administrativas y órganos jurisdiccionales, conforme a lo dispuesto en la Ley, el Reglamento y las demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+
 ###### Artículo 102.
 
-El Comité estará integrado por los Titulares de la Coordinación para la Transparencia, quién lo presidirá, de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos y de la Dirección General de Asuntos Jurídicos, los que tendrán voz y voto en las resoluciones que se tomen. Igualmente, formará parte del Comité, con voz y voto, el titular del Archivo General, en aquéllos casos relacionados con la materia archivística.
+El Comité estará integrado por los Titulares de la Coordinación para la Transparencia, quién lo presidirá, de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos y de la Dirección General de Asuntos Jurídicos, los que tendrán voz y voto en las resoluciones que se tomen. Igualmente, formará parte del Comité, con voz y voto, el titular del Archivo General, en aquéllos casos relacionados con la materia archivística.
 
 ###### Artículo 103.
 
@@ -2198,3 +2200,15 @@ TERCERO. El domicilio y fecha de inicio de operaciones del Centro de Manejo Docu
 CUARTO. El titular del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal someterá a consideración y, en su caso, aprobación, de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo de la Judicatura Federal, los manuales del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal, dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Acuerdo.
 
 QUINTO. La digitalización de los expedientes se llevará a cabo conforme a la calendarización que determine la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal, a propuesta del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal.
+
+D.O.F. 19 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo surte sus efectos a partir del 16 de enero de 2015, sin perjuicio de las determinaciones adoptadas por el Pleno del Consejo de la Judicatura Federal con motivo de la aprobación de la reestructura de la Institución.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
+
+CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
