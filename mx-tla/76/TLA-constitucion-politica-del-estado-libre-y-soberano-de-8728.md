@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2012-12-05"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -2273,6 +2273,10 @@ En la planeación, conducción, orientación y dirección de las actividades eco
 
 Las estrategias rectoras para alcanzar al desarrollo integral, serán incluidas en el Plan Estatal de Desarrollo con proyección a largo plazo.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+El Gobierno del Estado impulsará la organización, promoción, y fortalecimiento del sector social que participa en la economía, a través de políticas públicas que contribuyan a la equitativa distribución de ingresos, así como a la mayor generación del patrimonio de este sector.
+
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 100.
@@ -2997,7 +3001,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 ###### ARTÍCULO TERCERO.
 
-Los integrantes de la actual Comisión de Transparencia del Estado de Tlaxcala y Secretario Técnico de la misma, terminarán su encargo en la fecha señalada para el que fueron nombrados y ratificados por el Pleno del Congreso del Estado; en tal virtud la autoridad máxima en esta materia hasta el nombramiento de los miembros del Consejo General de la Comisión de Acceso a la información (sic) Pública y Protección de Datos Personales, será la Sala Electoral-Administrativa del Honorable Tribunal Superior de Justicia del Estado.
+Los integrantes de la actual Comisión de Transparencia del Estado de Tlaxcala y Secretario Técnico de la misma, terminarán su encargo en la fecha señalada para el que fueron nombrados y ratificados por el Pleno del Congreso del Estado; en tal virtud la autoridad máxima en esta materia hasta el nombramiento de los miembros del Consejo General de la Comisión de Acceso a la información Pública y Protección de Datos Personales, será la Sala Electoral-Administrativa del Honorable Tribunal Superior de Justicia del Estado.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3047,7 +3051,7 @@ El presente Decreto entrará en vigor a partir del primer día hábil del mes de
 
 a). La Magistrada en funciones de la Sala Laboral Burocrática del Honorable Tribunal Superior de Justicia del Estado, Licenciada Maria Esther Juanita Munguia Herrera, concluirá su encargo a las veinticuatro horas del día doce de enero del año dos mil ocho:
 
-b). Del primer día hábil a la entrada en vigor de este Decreto y hasta el día once de enero del año dos mil ocho, el Tribunal de Conciliación y Arbitraje del Estado de Tlaxcala, deberá estar formalmente integrado; sus integrantes tomarán protesta y se instalarán el día trece de enero del mismo año, durante este plazo se dará cumplimiento a lo dispuesto por el artículo segundo transitorio, e (sic)
+b). Del primer día hábil a la entrada en vigor de este Decreto y hasta el día once de enero del año dos mil ocho, el Tribunal de Conciliación y Arbitraje del Estado de Tlaxcala, deberá estar formalmente integrado; sus integrantes tomarán protesta y se instalarán el día trece de enero del mismo año, durante este plazo se dará cumplimiento a lo dispuesto por el artículo segundo transitorio, e
 
 c). Dentro del plazo del primer día hábil en que entre en vigor este Decreto al doce de enero del año dos mil ocho, se suspenden los términos y plazos procesales, ni se dictarán laudos en los asuntos o juicios que se estén ventilando conforme a la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios, salvo los que tuvieren plazos o términos fatales.
 
@@ -3210,3 +3214,17 @@ El Congreso del Estado adecuará la Ley de la Comisión Estatal de Derechos Huma
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se contrapongan al contenido de este Decreto.
+
+P.O. 20 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
