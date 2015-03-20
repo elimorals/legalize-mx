@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2012-12-28"
+last_updated: "2015-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -111,7 +111,29 @@ IV.- Establecer mecanismos para ampliar la cobertura de atención y protección 
 
 V.- Concertar acciones con instituciones públicas o privadas para prestar las medidas de atención y protección que no este en posibilidades de proporcionar directamente; y,
 
-VI.- Las demás que le otorgue ésta Ley.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
+
+VI.- Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral y administrativa;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+VII.- Informar a la víctima, respecto al sentido y alcance de las medidas de protección y en su caso, solicitarlas ante el ministerio público;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+VIII.- Dar el seguimiento a todos los trámites de medidas de protección que sean necesarias para garantizar la integridad física y psicológica de las víctimas, así como su plena recuperación;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+IX.- Informar, asesorar y canalizar a las víctimas y sus familiares, a las instituciones y servicios con que cuenta el Estado para brindarle asistencia, asesoría, ayudas de carácter social, familiar y laboral, representación legal y demás derechos establecidos en esta Ley, en los Tratados Internacionales y demás leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+X.- Llevar un registro puntual de las acciones realizadas y formar un expediente del caso; y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+XI.- Las demás que le otorgue ésta Ley.
 
 ### CAPÍTULO TERCERO. LOS DERECHOS DE LA VÍCTIMA O EL OFENDIDO
 
@@ -135,7 +157,9 @@ V.- A que la exploración, la atención médica, psiquiátrica, ginecológica o 
 
 VI.- A la reparación del daño cuando legalmente proceda;
 
-VII.- A que la autoridad investigadora o jurisdiccional dicte las providencias legales y medidas de seguridad necesarias para proteger su vida, integridad física y moral, bienes, posesiones o derechos, incluyendo los de familiares directos, cuando existan datos que hagan presumir que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
+
+VII.- A que la autoridad investigadora o jurisdiccional dicte las providencias legales y medidas de protección necesarias para proteger su vida, integridad física y moral, bienes, posesiones o derechos, incluyendo los de familiares directos, cuando existan datos que hagan presumir que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados;
 
 VIII.- Coadyuvar con el Ministerio Público en el proceso penal en los términos previstos por el Código de Procedimientos Penales;
 
@@ -169,9 +193,17 @@ Las medidas de atención y protección a la víctima o el ofendido comprenderán
 
 I.- Asesoría Jurídica;
 
-II.- Atención médica, psicológica y psiquiátrica de urgencia, pudiendo gestionar aquella que no esté en condiciones de proporcionar directamente; y,
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
 
-III.- Orientación preventiva victimológica.
+II.- Atención médica, psicológica y psiquiátrica de urgencia, pudiendo gestionar aquella que no esté en condiciones de proporcionar directamente,
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
+
+III.- Orientación preventiva victimológica; y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+IV.- Protección durante la averiguación previa.
 
 ###### ARTÍCULO 10.
 
@@ -199,9 +231,49 @@ II.- La orientación respecto de los factores victimológicos que coadyuvaron a 
 
 III.- La orientación respecto a las reacciones mediatas e inmediatas que deban tener al ser víctimas u ofendidos.
 
-###### ARTÍCULO 13.
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
 
 Con el propósito de proteger a la víctima o el ofendido de los delitos, el Ministerio Público velará porque no se ejerza coacción física o moral sobre ellas al rendir sus declaraciones en cualquier etapa del procedimiento penal.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 13.
+
+Las medidas de protección a las víctimas se implementarán con base en los principios de confidencialidad, de necesidad y proporcionalidad, de oportunidad y eficacia, y de protección, en los términos de la Ley General de Víctimas, y estas deberán ser acordes con la amenaza que tratan de conjurar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad.
+
+Inmediatamente que el Ministerio Público tenga conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias en atención a las facultades previstas el artículo 20 del Código de Procedimientos Penales.
+
+El Ministerio Público bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el inculpado representa un riesgo inminente en contra de la seguridad de la víctima, el ofendido o testigo.
+
+Son medidas de protección durante la averiguación previa, las siguientes:
+
+I.- Prohibición al inculpado de acercarse o comunicarse con la víctima, ofendido o testigo;
+
+II.- Limitación al inculpado para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;
+
+III.- Separación inmediata al inculpado del domicilio de la víctima u ofendido o del lugar donde se encuentre;
+
+IV.- La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el inculpado;
+
+V.- La prohibición al inculpado de realizar conductas de intimidación o molestia por cualquiera que sea la vía a la víctima, el ofendido o testigo, o a personas relacionados (sic) con ellos;
+
+VI.- Vigilancia en el domicilio de la víctima u ofendido;
+
+VII.- Protección policial de la víctima u ofendido;
+
+VIII.- Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
+
+IX.- Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes;
+
+X.- El reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad; y
+
+XI.- Las demás que se encuentran previstas en el Código de Procedimientos Penales.
+
+La imposición de las medidas de protección tendrá una duración máxima de sesenta días naturales, prorrogables a petición de la víctima u ofendido hasta por treinta días más.
+
+Las medidas de protección podrán ser canceladas, ratificadas o modificadas mediante imposición de medidas cautelares que dicte el juez.
+
+Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el Inculpado o su Defensor podrán solicitar al Ministerio Público o al Juez que la deje sin efectos.
 
 ### CAPÍTULO QUINTO. DE LOS RESPONSABLES DE PROPORCIONAR ATENCIÓN Y PROTECCION
 
@@ -386,3 +458,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor a las cero horas del día pr
 SEGUNDO.- En un término no mayor al de tres meses contados a partir de la entrada en vigor de las presentes reformas, la Procuraduría General de Justicia del Estado, constituirá el fideicomiso Fondo General de Reparaciones a las Víctimas u Ofendidos, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California y demás disposiciones aplicables.
 
 TERCERO.- El Ejecutivo deberá asignar en el presupuesto la partida correspondiente para la integración del fondo en estudio.
+
+P.O. 20 DE MARZO DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
