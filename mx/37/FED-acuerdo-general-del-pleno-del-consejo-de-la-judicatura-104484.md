@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-03-19"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -711,9 +711,11 @@ Tratándose de ausencia de un técnico de enlace administrativo OCC por un plazo
 
 La Dirección General de Estadística Judicial autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
 ###### Artículo 68.
 
-La Dirección General de Estadística Judicial contará con un grupo de técnicos de enlace administrativo OCC, los que fungirán como capacitadores del personal de las oficinas de correspondencia común, los cuales en caso de vacancias que excedan de tres días podrán sustituir al personal respectivo, en cualquier lugar del país.
+La Dirección General de Estadística Judicial planteará al Instituto de la Judicatura las necesidades de capacitación del personal de las oficinas de correspondencia común.
 
 ###### Artículo 69.
 
@@ -2401,7 +2403,9 @@ VI. Mantener actualizada la plantilla de los servidores públicos del órgano ju
 
 VII. Enviar mensualmente los reportes estadísticos a la Dirección General de Estadística Judicial;
 
-VIII. Capacitar a la persona que designe el titular del órgano jurisdiccional, a efecto de que exista quien pueda suplirlo en sus ausencias temporales o definitivas;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VIII. Asesorar a la persona que designe el titular del órgano jurisdiccional, a efecto de que exista quien pueda suplirlo en sus ausencias temporales o definitivas;
 
 IX. Apoyar al titular o presidente del órgano jurisdiccional con los listados o reportes de asuntos, necesarios para preparar la visita de inspección o aquellos que se requieran durante la misma, así como en la elaboración del informe circunstanciado correspondiente; y
 
@@ -2619,7 +2623,9 @@ La fase previa al proceso sistemático es el diseño conceptual de los programas
 
 I. Captación de datos sobre la actividad jurisdiccional en estudio: como son la adecuación, ampliación y modificación de los cuestionarios, formatos digitalizados de reportes estadísticos y esquemas de captura de datos en el seguimiento integral de los juicios, procedimientos y recursos federales, que en su conjunto son los medios de recolección de la información;
 
-II. Esquemas de solución de problemas en las fases de captación y procesamiento de la información: como son el diseño de materiales de apoyo, actividades de capacitación y asesoría continua; tratamiento de la información; control y organización administrativa para su codificación en medios digitales; depuración y filtrado de los datos estadísticos judiciales; y mantenimiento del inventario de información y su actualización conforme a la aplicación de nuevas tecnologías; y
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+II. Esquemas de solución de problemas en las fases de captación y procesamiento de la información: como son el diseño de materiales de apoyo, actividades de asesoría; tratamiento de la información; control y organización administrativa para su codificación en medios digitales; depuración y filtrado de los datos estadísticos judiciales; y mantenimiento del inventario de información y su actualización conforme a la aplicación de nuevas tecnologías; y
 
 III. Presentación de resultados bajo esquemas específicos de contenidos en productos, así como su divulgación e intercambio.
 
@@ -2864,3 +2870,19 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. 
 CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
+
+D.O.F. 20 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los recursos humanos, financieros y materiales con los que cuentan las direcciones generales de Estadística Judicial; Servicios al Personal; Derechos Humanos, Equidad de Género, y Asuntos Internacionales; Protección Civil y Salud en el Trabajo, y Tecnologías de la Información así como la Coordinación para la Transparencia, Acceso a la Información y Archivos, que estén asignados para el ejercicio de sus atribuciones en materia de capacitación, se transfieren al Instituto de la Judicatura. Para lo cual se deberán suscribir las respectivas actas de entrega-recepción, con la intervención de la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones.
+
+Tratándose de los recursos humanos, se transferirán las plantillas que hayan estado autorizadas al 18 de febrero de 2015. En el caso de los recursos materiales y financieros se transferirán aquellos con los que se contaba en esa fecha siempre y cuando no hayan sido ejercidos a la entrada en vigor del presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por conducto de sus áreas administrativas competentes, se lleven a cabo las acciones necesarias para la implementación administrativa del presente Acuerdo, dentro de los cuarenta y cinco días naturales posteriores a la entrada en vigor del mismo.
+
+QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
+
+SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
