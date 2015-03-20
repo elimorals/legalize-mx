@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-03-19"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1133,7 +1133,9 @@ VIII. Dictar las medidas de coordinación que deben darse entre las unidades adm
 
 IX. Proponer o designar, conforme a la normativa aplicable, al personal de la unidad administrativa a su cargo;
 
-X. Plantear a la unidad administrativa competente sus necesidades en materia de capacitación para el personal a su cargo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+X. Plantear al Instituto de la Judicatura sus necesidades en materia de capacitación para el personal a su cargo;
 
 XI. Recibir en acuerdo ordinario a los titulares de las unidades administrativas de su adscripción y en acuerdo extraordinario a cualquier otro servidor público subalterno;
 
@@ -1377,7 +1379,7 @@ I. Planificar, coordinar, supervisar y evaluar las actividades de las unidades a
 
 II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Poder Judicial de la Federación;
 
-III. Dirigir y supervisar la propuesta del Programa Anual de Capacitación Administrativa e informar los resultados de su ejecución;
+III. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1823,7 +1825,9 @@ IV. Proponer la designación, cambio de adscripción y remoción de servidores p
 
 V. Implantar, ejecutar, dar seguimiento y evaluar los programas que en materia de recursos humanos, materiales y financieros se determinen para el ámbito regional, salvo en materia de informática, sistemas, telefonía, redes y cableado estructurado;
 
-VI. Proponer y coordinar reuniones nacionales para actualizar, capacitar, implantar y evaluar programas, sistemas y procedimientos inherentes a la función administrativa regional, apoyándose en las áreas administrativas centrales competentes;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VI. Proponer y coordinar reuniones nacionales para actualizar, implantar y evaluar programas, sistemas y procedimientos inherentes a la función administrativa regional, apoyándose en las áreas administrativas centrales competentes;
 
 VII. Gestionar los requerimientos de recursos humanos, materiales y financieros para la operación de los órganos jurisdiccionales que se ubican en el interior de la República y de las administraciones regionales y delegaciones administrativas;
 
@@ -1863,7 +1867,9 @@ V. Coordinar acciones para intercambiar información con los órganos jurisdicci
 
 VI. Coordinarse con las áreas administrativas que le soliciten auxilio para el cumplimiento de su objeto y atribuciones;
 
-VII. Elaborar, difundir, e implementar en coordinación con la Dirección General de Servicios al Personal, los programas de capacitación y desarrollo en materia de seguridad;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VII. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de seguridad;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1931,7 +1937,9 @@ X. Publicar en Internet las sentencias ejecutorias o resoluciones públicas rele
 
 XI. Operar y mantener actualizado el diccionario biográfico;
 
-XII. Coordinar la impartición de cursos de capacitación en materias de transparencia, acceso a la información, protección de datos y archivos a los servidores públicos de las áreas administrativas y de los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+XII. Plantear al Instituto de la Judicatura las necesidades de capacitación, en materias de transparencia, acceso a la información, protección de datos y archivos a los servidores públicos de las áreas administrativas y de los órganos jurisdiccionales;
 
 XIII. Planear, programar, dirigir y evaluar el funcionamiento de las unidades administrativas a su cargo;
 
@@ -2037,7 +2045,9 @@ VIII. Coordinar las vacaciones del personal a su cargo, autorizar los permisos e
 
 IX. Participar en la elaboración de los manuales de organización y procedimientos internos del órgano auxiliar a su cargo;
 
-X. Proponer al Pleno el sistema de capacitación para el personal a su cargo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+X. Plantear al Instituto de la Judicatura las necesidades de capacitación para el personal a su cargo;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -2155,9 +2165,27 @@ II. Dirección General de Responsabilidades; y
 
 III. Las demás que determine el Pleno.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
 ###### Artículo 109.
 
-El funcionamiento del Instituto de la Judicatura Federal se regirá por la Ley, su propio reglamento y los acuerdos generales del Pleno que le sean aplicables.
+El funcionamiento del Instituto de la Judicatura se regirá por la Ley, su propio reglamento y los acuerdos generales del Pleno que le sean aplicables.
+
+Corresponde al Instituto de la Judicatura auxiliar al Consejo en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste. Para tal fin el Instituto podrá celebrar convenios de colaboración con instituciones públicas, privadas y sociales, informando lo conducente al Pleno.
+
+Los programas y cursos que imparta el Instituto de la Judicatura tendrán como objeto lograr que los integrantes del Poder Judicial de la Federación o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial y administrativa.
+
+Para efectos de lo relacionado con la función administrativa, el Instituto de la Judicatura deberá elaborar y proponer al Pleno, previo visto bueno de la Comisión de Administración, el Programa Anual de Capacitación Administrativa, el cual, en su caso, tomará en consideración las necesidades que las áreas administrativas le hayan planteado.
+
+Las áreas administrativas brindarán el apoyo necesario al Instituto de la Judicatura, que se relacione con el Programa Anual de Capacitación Administrativa, en su ámbito de competencia.
+
+El Instituto de la Judicatura podrá auxiliar al Instituto Federal de Defensoría Pública en la ejecución de su Plan Anual de Capacitación y Estímulo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+###### Artículo 109 Bis.
+
+El Instituto de la Judicatura evaluará periódicamente y propondrá mejoras a los programas de becas; y tramitará el otorgamiento de las mismas, con la participación que, en su caso, corresponda a otras áreas administrativas.
 
 ###### Artículo 110.
 
@@ -2165,15 +2193,17 @@ El Instituto Federal de Defensoría Pública se regirá conforme a la Ley, a la 
 
 El Instituto está vinculado al Consejo en lo administrativo y en lo presupuestal.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
 ###### Artículo 111.
 
-El Director General del Instituto de la Judicatura Federal rendirá ante el Pleno un informe anual de actividades, relativo al desempeño de sus funciones, lo cual tendrá lugar durante los primeros quince días de noviembre de cada año.
+El Director General del Instituto de la Judicatura rendirá ante el Pleno un informe anual de actividades, relativo al desempeño de sus funciones, lo cual tendrá lugar durante los primeros quince días de noviembre de cada año.
 
-El informe anual que rendirá el Director General del Instituto de la Judicatura Federal contendrá todas las actividades que dicho Instituto haya realizado en el ámbito nacional, en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste.
+El informe anual que rendirá el Director General del Instituto de la Judicatura contendrá todas las actividades que dicho Instituto haya realizado en el ámbito nacional, en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste.
 
 Por cuanto hace al ámbito internacional, el informe anual contendrá todo lo relativo a los convenios de colaboración en materia académica, de capacitación, de investigación, docencia, difusión, control y supervisión de actividades relacionadas con la función judicial.
 
-El informe anual será presentado en el salón de usos múltiples del edificio sede del Consejo.
+Asimismo, dicho informe contendrá los resultados del Programa Anual de Capacitación Administrativa.
 
 ###### Artículo 112.
 
@@ -2543,9 +2573,9 @@ VII. Formular dictámenes, opiniones e informes que le sean requeridos, en aquel
 
 VIII. Proponer al superior jerárquico, para autorización, los nombramientos del personal a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
-IX. Proponer los programas específicos de capacitación y desarrollo del personal a su cargo, a su superior jerárquico;
+IX. Previo acuerdo con su superior jerárquico, plantear al Instituto de la Judicatura, las necesidades de capacitación para el personal a su cargo;
 
 X. Coordinar con los titulares de las otras direcciones generales, cuando así se requiera, las acciones para el desarrollo de las atribuciones que les correspondan;
 
@@ -2631,7 +2661,9 @@ VIII. Mantener actualizado el padrón de analistas jurídicos encargados de la o
 
 IX. Informar a las áreas administrativas correspondientes, acerca del seguimiento de las observaciones y manifestaciones contenidas en las actas de visita de inspección practicadas e informes circunstanciados de los órganos jurisdiccionales, en relación con la supervisión de los reportes estadísticos;
 
-X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas, coordinar la capacitación que se requiera, así como proponer a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas; así como proponer a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
 
 XI. Proponer a la Comisión de Administración a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común, cuya aprobación hará del conocimiento de la Dirección General de Recursos Humanos para la debida expedición de sus nombramientos, así como la remoción del personal adscrito a dichas oficinas, y determinar la prórroga de los nombramientos respectivos;
 
@@ -2639,7 +2671,9 @@ XII. Solicitar, concentrar, analizar y sistematizar la información administrati
 
 XIII. Colaborar en el diseño e integración del anexo estadístico del Informe Anual de Labores del Presidente;
 
-XIV. Proporcionar la capacitación, asesoría y orientación necesarias para el uso y operación de los diferentes módulos que conforman el Sistema Integral de Seguimiento de Expedientes;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+XIV. Proporcionar la asesoría y orientación necesarias para el uso y operación de los diferentes módulos que conforman el Sistema Integral de Seguimiento de Expedientes; así como plantear al Instituto de la Judicatura las necesidades de capacitación en la materia;
 
 XV. Asesorar al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, en relación con los datos obtenidos del Sistema Integral de Seguimiento de Expedientes;
 
@@ -2809,7 +2843,9 @@ V. Realizar la investigación tecnológica y elaborar los estudios correspondien
 
 VI. Elaborar el anteproyecto de presupuesto anual correspondiente al Plan Estratégico de Tecnologías de la Información y Comunicaciones;
 
-VII. Elaborar e implementar, en coordinación con la Dirección General de Servicios al Personal, la planeación, diseño, programación y ejecución de los cursos de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VII. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
 
 VIII. Elaborar e implementar las medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos;
 
@@ -3051,19 +3087,25 @@ El titular de la Dirección General de Derechos Humanos, Equidad de Género y As
 
 I. Ejecutar los programas que establezca el Pleno y las acciones que determine el Presidente en materia de derechos humanos, equidad de género y asuntos internacionales;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
-II. Elaborar los programas relativos a la capacitación, promoción, fomento y defensa de los derechos humanos y proponer al Presidente las acciones conducentes en la materia;
+II. Elaborar los programas relativos a la promoción, fomento y defensa de los derechos humanos y proponer al Presidente las acciones conducentes en la materia;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
-III. Elaborar los programas respecto a la capacitación y transversalidad de la perspectiva de género y proponer al Presidente las acciones conducentes en la materia;
+III. Elaborar los programas respecto a la transversalidad de la perspectiva de género y proponer al Presidente las acciones conducentes en la materia;
 
 IV. Fungir como enlace y apoyo del Consejo para la atención de asuntos internacionales;
 
 V. Tramitar y dar seguimiento a los casos relacionados con derechos humanos y equidad de género, que incidan en el ámbito de competencia del Consejo;
 
-VI. Coordinar las acciones de capacitación y difusión que en materia de derechos humanos, equidad de género y asuntos internacionales determine el Presidente;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VI. Coordinar las acciones de difusión que en materia de derechos humanos, equidad de género y asuntos internacionales determine el Presidente;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VI. Bis. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de derechos humanos, equidad de género y asuntos internacionales;
 
 VII. Promover y coordinar la celebración de convenios de colaboración con instituciones públicas, privadas y de la sociedad civil que promuevan y defiendan los derechos humanos y las acciones de transversalidad de la perspectiva de género;
 
@@ -3191,7 +3233,9 @@ IV. Elaborar estudios del entorno físico en el que los servidores públicos des
 
 V. Hacer del conocimiento del área administrativa competente las necesidades en materia de mantenimiento preventivo y correctivo de los bienes muebles e inmuebles del Consejo, y dar seguimiento a la gestión;
 
-VI. Elaborar, implementar y difundir, en coordinación con la Dirección General de Servicios al Personal, el programa de capacitación de Protección Civil, para el personal del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VI. Plantear al Instituto de la Judicatura las necesidades de capacitación de Protección Civil, para el personal del Poder Judicial de la Federación;
 
 VII. Tramitar y dar seguimiento a las inconformidades que presenten los trabajadores ante las Comisiones de Seguridad y Salud en el Trabajo, y participar dentro de su competencia en su solución;
 
@@ -3347,9 +3391,11 @@ XIX. Informar al superior jerárquico sobre el funcionamiento de la unidad admin
 
 XX. Las demás que establezcan el Pleno y las Comisiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
 ###### Artículo 173.
 
-La Dirección General de Servicios al Personal será la responsable de la capacitación y desarrollo, así como de todo lo referente a las prestaciones, seguros y servicios de los servidores públicos del Poder Judicial de la Federación.
+La Dirección General de Servicios al Personal será la responsable de todo lo referente a las prestaciones, seguros y servicios de los servidores públicos del Poder Judicial de la Federación.
 
 ###### Artículo 174.
 
@@ -3357,13 +3403,17 @@ El titular de la Dirección General de Servicios al Personal tendrá las atribuc
 
 I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan optimizar el aprovechamiento de los recursos del Consejo;
 
-II. Elaborar propuestas para el diseño de los sistemas de capacitación integral y desarrollo del personal administrativo;
+II. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
 
-III. Proponer políticas y programas relativos al subsistema de capacitación, desarrollo prestaciones y servicios en las áreas y materias que no correspondan al Instituto de la Judicatura Federal;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
-IV. Vigilar la ejecución de políticas, programas y normas que regulan la capacitación administrativa y el desarrollo del personal, así como el otorgamiento de prestaciones y servicios autorizados;
+III. Proponer políticas y programas relativos al subsistema de prestaciones y servicios en las áreas y materias que no correspondan a otra área administrativa;
 
-V. Evaluar periódicamente y proponer mejoras a los programas de formación, capacitación y becas con la participación del Instituto de la Judicatura Federal;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+IV. Vigilar la ejecución de políticas, programas y normas que regulan el otorgamiento de prestaciones y servicios autorizados;
+
+V. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
 
 VI. Realizar trámites ante terceros en lo relativo a prestaciones, seguros y servicios para el personal del Poder Judicial de la Federación y difundir esa información entre los servidores públicos;
 
@@ -3569,7 +3619,9 @@ VIII. Recibir y llevar el registro de las declaraciones patrimoniales que presen
 
 IX. Proponer al Contralor del Poder Judicial de la Federación tanto los formatos de declaración patrimonial que deban emplearse por los servidores públicos, como los manuales e instructivos para su llenado;
 
-X. Asesorar a los servidores públicos sobre el llenado de los formatos de declaración patrimonial y capacitar a los administradores regionales foráneos para que, en auxilio del personal de la dirección, brinden esa asesoría;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+X. Asesorar a los servidores públicos sobre el llenado de los formatos de declaración patrimonial; y a los administradores regionales foráneos para que, en auxilio del personal de la dirección, también la brinden;
 
 XI. Proponer al Contralor del Poder Judicial de la Federación que haga del conocimiento del Pleno la necesidad de formular la declaratoria a que se refiere el artículo 46 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en los casos que proceda;
 
@@ -3709,7 +3761,9 @@ III. Participar en la elaboración de las propuestas de la normativa relativa a 
 
 IV. Formar parte del Comité de Acceso a la Información y Protección de Datos Personales del Consejo con voz y voto, en aquellos casos relacionados con la materia archivística;
 
-V. Proporcionar capacitación archivística de conformidad con el programa que para tal efecto apruebe la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, previa autorización de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+V. Plantear al Instituto de la Judicatura las necesidades de capacitación archivística;
 
 VI. Asesorar en materia archivística a los órganos jurisdiccionales y áreas administrativas del Consejo;
 
@@ -3783,7 +3837,9 @@ IV. Auxiliar a los órganos jurisdiccionales en las gestiones necesarias para el
 
 V. Apoyar a los órganos jurisdiccionales en las actividades relativas a la desintegración material del papel en desuso correspondiente a las constancias de los expedientes previamente desincorporados por los propios órganos;
 
-VI. Elaborar el programa de capacitación permanente, en coordinación con la Dirección General de Servicios al Personal, para los servidores públicos del Poder Judicial de la Federación en materia de manejo documental y digitalización;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+VI. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de manejo documental y digitalización;
 
 VII. Asesorar al personal de los órganos jurisdiccionales, en las acciones de rescate de expedientes judiciales siniestrados, cuando así lo instruya el Pleno o la Comisión para la Transparencia, Acceso a la información y Protección de Datos Personales del Consejo;
 
@@ -3853,7 +3909,9 @@ XIX. Presentar al Comité de Acceso a la Información y Protección de Datos Per
 
 XX. Proponer actividades para la difusión entre los servidores públicos y los particulares, de los beneficios que se derivan del manejo público de la información, de las responsabilidades en el manejo, uso y conservación de los datos de carácter personal, a fin de generar la cultura de transparencia;
 
-XXI. Diseñar e instrumentar cursos de capacitación en materia de acceso a la información y protección de datos de carácter personal para los servidores públicos;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+XXI. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de acceso a la información y protección de datos de carácter personal para los servidores públicos;
 
 XXII. Comunicar al Comité de Acceso a la Información y Protección de Datos Personales del Consejo sobre cualquier problema o dificultad que se presente en la atención de las solicitudes de acceso a la información pública y de datos de carácter personal; y
 
@@ -3947,9 +4005,13 @@ I. Aplicar los programas de administración y evaluación del personal, así com
 
 II. Aplicar y difundir las políticas, normas y criterios vigentes en materia de administración de recursos humanos y proponer a la Dirección General de Recursos Humanos los que se consideren necesarios;
 
-III. Aplicar y difundir las políticas, normas y criterios del sistema escalafonario, de capacitación y desarrollo del personal, y aplicar los premios, estímulos y recompensas que sean de su competencia;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
-IV. Apoyar en la aplicación de los programas de formación, capacitación y becas, así como de servicio social de pasantes, con la participación del Instituto de la Judicatura;
+III. Aplicar y difundir las políticas, normas y criterios del sistema escalafonario; y aplicar los premios, estímulos y recompensas que sean de su competencia;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+IV. Apoyar en la aplicación del programa de servicio social;
 
 V. Aplicar y difundir las normas que regulan las relaciones laborales, así como los reglamentos de las Comisiones de Seguridad y Salud en el trabajo, vigilando su cumplimiento;
 
@@ -3963,7 +4025,7 @@ IX. Mantener actualizado el sistema de registro de información en materia de pe
 
 X. Atender los asuntos planteados por los representantes sindicales;
 
-XI. Proporcionar el apoyo logístico para la impartición de cursos de capacitación al personal de las Unidades Foráneas, así como efectuar la capacitación y desarrollo de su personal, con el fin de alcanzar una prestación eficiente del servicio encomendado;
+XI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
 
 XII. Participar en el Programa de Protección Civil, en coordinación con las áreas administrativas competentes;
 
@@ -4409,7 +4471,9 @@ III. Proponer estudios que contribuyan a la prevención de siniestros y gestiona
 
 IV. Verificar el cumplimiento de los programas de mantenimiento preventivo y correctivo en los centros de trabajo;
 
-V. Coordinar los cursos de orientación y capacitación que en materia de Seguridad e Higiene se lleven a cabo, así como la difusión de los distintos programas de la propia Comisión;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+V. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de seguridad e higiene; así como la difusión de los distintos programas de la propia Comisión;
 
 VI. Instalar, coordinar y supervisar el funcionamiento de las Comisiones Auxiliares de Seguridad y Salud en el Trabajo, a fin de detectar las necesidades en materia de Seguridad e Higiene;
 
@@ -4701,9 +4765,9 @@ II. Cotejar los documentos originales que presenten las asociaciones civiles par
 
 III. Certificar las copias de los documentos a que se refiere la fracción anterior, y remitirlas, digitalizadas a través de medios electrónicos, a la Dirección General de Asuntos Jurídicos.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
-La Coordinación de Administración Regional, capacitará a los servidores públicos adscritos a las Administraciones Regionales y Delegaciones Administrativas, en el uso del sistema electrónico de Registro, en coordinación con las Direcciones Generales de Asuntos Jurídicos y de Tecnologías de la Información. La Secretaría Ejecutiva del Pleno llevará a cabo la capacitación en los mismos términos respecto del personal de la Oficialía de Partes y Certificación del Edificio Sede del Consejo.
+La Coordinación de Administración Regional, asesorará a los servidores públicos adscritos a las Administraciones Regionales y Delegaciones Administrativas, en el uso del sistema electrónico de Registro, en coordinación con las Direcciones Generales de Asuntos Jurídicos y de Tecnologías de la Información. La Secretaría Ejecutiva del Pleno llevará a cabo la asesoría en los mismos términos respecto del personal de la Oficialía de Partes y Certificación del Edificio Sede del Consejo.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -5016,3 +5080,19 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. 
 CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
+
+D.O.F. 20 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los recursos humanos, financieros y materiales con los que cuentan las direcciones generales de Estadística Judicial; Servicios al Personal; Derechos Humanos, Equidad de Género, y Asuntos Internacionales; Protección Civil y Salud en el Trabajo, y Tecnologías de la Información así como la Coordinación para la Transparencia, Acceso a la Información y Archivos, que estén asignados para el ejercicio de sus atribuciones en materia de capacitación, se transfieren al Instituto de la Judicatura. Para lo cual se deberán suscribir las respectivas actas de entrega-recepción, con la intervención de la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones.
+
+Tratándose de los recursos humanos, se transferirán las plantillas que hayan estado autorizadas al 18 de febrero de 2015. En el caso de los recursos materiales y financieros se transferirán aquellos con los que se contaba en esa fecha siempre y cuando no hayan sido ejercidos a la entrada en vigor del presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por conducto de sus áreas administrativas competentes, se lleven a cabo las acciones necesarias para la implementación administrativa del presente Acuerdo, dentro de los cuarenta y cinco días naturales posteriores a la entrada en vigor del mismo.
+
+QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
+
+SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
