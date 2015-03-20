@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-03-06"
+last_updated: "2015-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1561,6 +1561,24 @@ VIII. Inspecciones y Denuncias; y
 
 La Dirección de Catastro y Control Urbano, contará con una oficina de despacho en la Zona Sur del Municipio.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+ARTÍCULO 72 BIS.- A la Subdirección le corresponde:
+
+La supervisión, coordinación y organización de todas las áreas que integran la Dirección de Catastro y Control Urbano en ausencia del Director; así como las siguientes:
+
+I.- Coordinar y supervisar las actividades de todas las áreas que integran la Dirección de Catastro y Control Urbano;
+
+II.- Proponer al Director de Catastro y Control Urbano, la forma de atender situaciones que por su simpleza no amerite el estudio pormenorizado del director, como lo son las inspecciones y las solicitudes ciudadanas.
+
+III.- Revisar la operación de la Dirección de Catastro y Control Urbano con el fin de que esta funcione de manera eficiente y de conformidad a las leyes y reglamentos aplicables;
+
+IV.- Proponer al Director de Catastro y Control Urbano a los Profesionistas o personal necesario para realizar cualquier clase (sic) proyecto a realizarse, así como de proponerle al director el personal adecuado para cubrir las vacantes que pudieran generarse en la dependencia;
+
+V.- Proponer al Directo (sic) de Catastro y Control Urbano las medidas preventivas que la dependencia estime necesarias para la buena administración de los bienes del municipio, y así como el correcto ejercicio del gasto público municipal;
+
+VI.- Las demás que el Director de Catastro y Control Urbano le asigne.
+
 ###### ARTÍCULO 73.
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2014)
@@ -2592,3 +2610,7 @@ TERCERO.- Contémplese en el Presupuesto de Egresos del año 2015.
 P.O. 6 DE MARZO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+P.O. 20 DE MARZO DE 2015.
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
