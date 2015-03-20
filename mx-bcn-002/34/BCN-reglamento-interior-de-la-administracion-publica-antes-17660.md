@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2014-10-31"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -469,7 +469,7 @@ XIV.- Dirección de Cultura;
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-XV.- Dirección de Administración Urbana; y (sic),
+XV.- Dirección de Administración Urbana; y,
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
@@ -623,7 +623,7 @@ XII.- Supervisar las actividades que desarrollen los Jueces Calificadores;
 
 XIII.- Ejercer las atribuciones que correspondan al gobierno municipal, en materia de control de la venta, almacenaje y consumo de bebidas con graduación alcohólica;
 
-XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic),
+XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y,
 
 XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento;
 
@@ -865,9 +865,17 @@ IV.- Conocer y resolver los recursos de inconformidad que interpongan contra las
 
 V.- Visitar los lugares destinados al cumplimiento de los arrestos administrativos, a efecto de detectar irregularidades o deficiencias, y proponer su corrección;
 
-VI.- A través del titular del Departamento, establecer relaciones de coordinación de los jueces con las diferentes dependencias y entidades, a efecto de obtener su cooperación para el exacto cumplimiento de sus determinaciones; y,
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
 
-VII.- Capacitar y supervisar a los Delegados Municipales en su función de Jueces calificadores.
+VI.- A través del titular del Departamento, establecer relaciones de coordinación de los jueces con las diferentes dependencias y entidades, a efecto de obtener su cooperación para el exacto cumplimiento de sus determinaciones;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
+
+VII.- Capacitar y supervisar a los Delegados Municipales en su función de jueces calificadores, y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+VIII.- Emitir las órdenes de protección a que se refieren los artículos 23 y 24 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el estado de Baja California.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
@@ -1421,7 +1429,7 @@ El Departamento de Depósitos Vehiculares tendrá como función, otorgar el serv
 
 I.- Resguardar los vehículos y bienes bajo su custodia;
 
-II.- Administrar los depósitos de vehículos y bienes con los que cuente; y (sic),
+II.- Administrar los depósitos de vehículos y bienes con los que cuente; y,
 
 III.- Auxiliar a las dependencias, en la aplicación de leyes y reglamentos, en lo relativo al salvamento, arrastre y almacenaje de vehículos u otro tipo de bienes;
 
@@ -1697,7 +1705,7 @@ l. Planeación y gestión ambiental;
 
 II. Educación y difusión ambiental; y
 
-III. Auditoría y regulación ambiental; (sic)
+III. Auditoría y regulación ambiental;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2797,7 +2805,7 @@ III.- Las facultades y obligaciones de la persona u órgano que actuará como re
 
 IV.- Los recursos y bienes que integrarán su patrimonio;
 
-V.- El órgano facultado para determinar su estructura orgánica y aprobar su reglamento interior; y (sic),
+V.- El órgano facultado para determinar su estructura orgánica y aprobar su reglamento interior; y ,
 
 VI.- La forma en que se informará al Ayuntamiento sobre los resultados de gestión de la entidad;
 
@@ -2997,7 +3005,7 @@ VI.- Intervenir en todas las etapas del proceso de licitación de la obra públi
 
 > <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
 
-VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y (sic)
+VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y
 
 > <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
 
@@ -3650,5 +3658,9 @@ P.O. 31 DE OCTUBRE DE 2014.
 PRIMERO.- La presente reforma de adición al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO.- Dentro de los sesenta días siguientes a la entrada en vigor del presente, la Tesorería Municipal y la Oficialía Mayor deberán realizar los ajustes de recursos presupuestales, materiales y humanos correspondientes, que sean necesarios para que desempeñe sus labores la Sindicatura Social.
+
+P.O. 20 DE MARZO DE 2015.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
