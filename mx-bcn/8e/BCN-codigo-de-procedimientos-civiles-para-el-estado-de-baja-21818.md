@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2014-12-31"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -625,9 +625,9 @@ ART. 80.- Todas las resoluciones de primera y segunda instancia serán autorizad
 
 ART. 81.- Las sentencias deben ser claras, precisas y congruentes con las demandas y las contestaciones, y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando éstos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
-(REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 82.- Quedan abolidas las antiguas fórmulas de las sentencias, las que contendrán una relación suscinta de las cuestiones planteadas y de las pruebas rendidas, la apreciación de éstas y las consideraciones jurídicas que sirvan de apoyo a la decisión.
+ART. 82.- Quedan abolidas las antiguas fórmulas de las sentencias, las que contendrán una relación sucinta de las cuestiones planteadas y de las pruebas rendidas, la apreciación de éstas y las consideraciones jurídicas que sirvan de apoyo a la decisión.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2542,6 +2542,26 @@ A quien proporcione domicilio inexacto o inexistente de algún testigo o de comp
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 353.- A los ancianos de más de setenta años y a los enfermos podrá el Juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+ART. 353 BIS.- En las controversias de orden familiar, tratándose de la prueba testimonial a cargo de menores de dieciocho años, previo a su admisión, el Juzgador deberá tomar las providencias necesarias para preparar el desahogo, ordenando lo siguiente:
+
+I.- Cuando el Juez así lo considere pertinente, realizar la práctica de un examen psicológico para estar en condiciones de no causar daño a la salud mental del menor;
+
+II.- El menor deberá estar asistido por profesionales expertos en la materia, quienes lo guiarán durante el desarrollo de la diligencia;
+
+III.- Familiarizarlo con el procedimiento antes de su comparecencia;
+
+IV.- Protegerlo de cualquier intimidación y vigilar el lenguaje utilizado;
+
+V.- Limitar su permanencia en el Tribunal y el número de preguntas que se le puedan hacer, previo cuestionario y calificación de las mismas, así como establecer descansos;
+
+VI.- Programar su asistencia en atención a su vida cotidiana, evitando en lo posible interferir en horas de escuela o en horas tardías;
+
+VII.- Implementar medidas de seguridad para evitar el contacto con las partes; y
+
+VIII.- Todas las demás que el Juzgador considere pertinentes para el adecuado desahogo de la probanza protegiendo el interés superior del menor.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4525,17 +4545,17 @@ ART. 660.- Cuando ambos consortes convengan en divorciarse, en los términos del
 
 ART. 661.- Hecha la solicitud citará el Tribunal a los cónyuges, al Ministerio Público y al Sistema para el Desarrollo Integral de la Familia, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos y no se encuentran en el supuesto del artículo siguiente, en ese mismo acto oirán el convenio en el que quedaren garantizados los derechos de los cónyuges y el Tribunal dictará sentencia a través de la cual quedará disuelto el vínculo matrimonial.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2015)</small>
 
-ART. 662.- Cuando en el matrimonio existan hijos menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal citará a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada, y en ella volverá a exhortar a aquellos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal oyendo el parecer del representante del Ministerio Público y del Sistema para el Desarrollo Integral de la Familia sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
+ART. 662.- Cuando en el matrimonio existan hijos menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal revisará el convenio que presenten las partes, debiendo quedar bien garantizados los derechos de los hijos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal oyendo el parecer del representante del Ministerio Público y del Sistema para el Desarrollo Integral de la Familia sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ART. 663.- El cónyuge persona menor de dieciocho años de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2015)</small>
 
-ART. 664.- Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 661 y 662, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+ART. 664.- Los cónyuges no pueden hacerse representar por procurador en la junta a que se refiere el artículo 661, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6133,7 +6153,7 @@ V.- UN CONSEJERO: Que será designado y en su caso removido por el Director Gene
 
 VI.- UN VOCAL: Que será un Psicólogo designado y en su caso removido por el Director General del Sistema para el desarrollo Integral de la Familia en el Estado.
 
-VlI.- CINCO VOCALES: Que serán cada uno de los Titulares de la Presidencia del Sistema para el Desarrollo Integral de la Familia a nivel municipal, de los cinco municipios en la Entidad, que participaran en forma directa o exclusivamente por conducto del Director del Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda.
+VII.- CINCO VOCALES: Que serán cada uno de los Titulares de la Presidencia del Sistema para el Desarrollo Integral de la Familia a nivel municipal, de los cinco municipios en la Entidad, que participaran en forma directa o exclusivamente por conducto del Director del Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda.
 
 Su representación será honorífica y no recibirán retribución alguna por el desempeño de la misma.
 
@@ -7016,3 +7036,17 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 P.O. 31 DE DICIEMBRE DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2015.
+
+DECRETO NÚMERO 225, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 662 Y 664 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos iniciados antes de la entrada en vigor del presente decreto se desarrollarán y concluirán de conformidad con las disposiciones vigentes al momento de la admisión de la solicitud de divorcio.
+
+P.O. 20 DE MARZO DE 2015.
+
+DECRETO NO. 226, POR EL QUE SE APRUEBA ADICIÓN DEL ARTÍCULO 353 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
