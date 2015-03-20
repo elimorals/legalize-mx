@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2014-12-31"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1305,19 +1305,29 @@ Parentesco no consanguíneo.- Al que dolosamente prive de la vida de su cónyuge
 
 ### CAPITULO III. FEMINICIDIO
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012) (F. DE E., P.O. 7 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2015)</small>
 
 ###### Artículo 129.
 
-Tipo y punibilidad.- Comete el delito de feminicidio la persona que dolosamente prive de la vida a una o varias mujeres por motivos o razones de género y se le impondrán de 20 a 50 años de prisión, además de una multa de hasta 500 días.
+FEMINICIDIO: Comete el delito de Feminicidio el que dolosamente prive de la vida a una o varias mujeres por razones de Género. Se considera que existen razones de género, cuando se dé una o más de las siguientes circunstancias:
 
-Para los efectos del párrafo anterior, se consideran razones de género, cuando además de que se acredite la manifestación de expresiones de misoginia a (sic) desprecio al género femenino realizados por el sujeto activo:
+I.- Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o amistad;
 
-I.- Existan antecedentes de que el sujeto activo ejerció amenazas, acoso, tratos infamantes o cualquier forma de violencia en contra de la víctima; o
+II.- Haya existido entre el activo y la víctima una relación laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
 
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2012)</small>
+III. La víctima presente signos de violencia sexual de cualquier tipo;
 
-II.- Al momento de la comisión del delito, el sujeto activo ejerció violencia sexual en contra de la víctima.
+IV. A la víctima se le hayan infringido lesiones infamantes, degradantes o mutilaciones previa o posterior a la privación de la vida;
+
+V. Existan antecedentes de amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
+
+VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
+
+VII. La víctima haya sido incomunicada.
+
+A quien cometa el delito de feminicidio se le impondrá una sanción de veinte a cincuenta años de prisión, además de una multa de 200 a 500 días de salario mínimo vigente.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
 ###### Artículo 130.
 
@@ -3607,6 +3617,10 @@ XIV.- El Servidor Público que teniendo la obligación legal de enterar a las in
 
 XV.- El servidor público que omita presentar al Congreso del Estado la Cuenta Pública o el Informe de Avance de Gestión Financiera, a los que alude la Ley especial de la materia, una vez que haya sido requerido por dicha omisión y no la atendiera dentro del plazo que ésta señala.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+XVI. Cuando el servidor público retarde o entorpezca maliciosamente, la procuración o administración de justicia respecto del tipo penal previsto en el artículo 129 de este código.
+
 Los delitos a que se refiere este capítulo producen acción popular.
 
 ### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
@@ -5146,3 +5160,9 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 P.O. 31 DE DICIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
