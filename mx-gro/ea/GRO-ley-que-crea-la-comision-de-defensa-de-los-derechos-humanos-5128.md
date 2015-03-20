@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-crea-la-comision-de-defensa-de-los-derechos-humanos-512
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-26"
-last_updated: "1992-12-22"
+last_updated: "2015-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY QUE CREA LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS Y ESTABLECE EL PROCEDIMIENTO EN MATERIA DE DESAPARICION INVOLUNTARIA DE PERSONAS
 
-LEY QUE CREA LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS Y ESTABLECE EL PROCEDIMIENTO EN MATERIA DE DESAPARICION INVOLUNTARIA DE PERSONAS
+LEY QUE CREA LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS Y ESTABLECE EL PROCEDIMIENTO EN MATERIA DE DESAPARICIÓN INVOLUNTARIA DE PERSONAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY NUMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 26 de septiembre de 1990.
 
@@ -465,7 +467,7 @@ XI. Podrá realizar las demás acciones que a su juicio resulten pertinentes, la
 
 Si como resultado del desahogo del procedimiento a que refiere el artículo anterior, la Comisión concluyera fehacientemente con datos que lleven a definir el paradero o destino de la persona desaparecida involuntariamente, se informará de inmediato a los interesados y si también se presumiera la comisión de algún delito o delitos, el Visitador General promoverá, o en su caso, iniciará ante el Ministerio Público, la averiguación previa respectiva para la investigación y esclarecimiento de los hechos.
 
-Si además, hubiere elementos para identificar a los presuntos responsables de los hechos, el Visitador General hará ante el Ministerio Público, las promociones legales para que se lleve acabo su persecución y sanción, en los términos del Código Penal, según se trate de homicidio, tortura, lesiones, privación ilegal de la libertad o cualquier otra conducta ilícita.
+Si además, hubiere elementos para identificar a los presuntos responsables de los hechos, el Visitador General hará ante el Ministerio Público, las promociones legales para que se lleve a cabo su persecución y sanción, en los términos del Código Penal, según se trate de homicidio, tortura, lesiones, privación ilegal de la libertad o cualquier otra conducta ilícita.
 
 ###### ARTICULO 38.
 
@@ -627,8 +629,56 @@ El Secretario General de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE DICIEMBRE DE 1992.
 
 UNICO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez publicada la presente ley, la Comisión de los Derechos Humanos del Estado de Guerrero contará con un plazo de noventa días naturales para emitir su reglamento interno, el cual deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que crea la Comisión de Defensa de los Derechos Humanos y establece el procedimiento en materia de desaparición involuntaria de personas en el estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado el 26 de septiembre de 1990, y demás disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales y financieros con que cuente la “Comisión de Defensa de los Derechos Humanos del Estado de Guerrero”, se tendrán por transferidos al órgano autónomo denominado: “Comisión de los Derechos Humanos del Estado de Guerrero”.
+
+###### ARTÍCULO QUINTO.
+
+En lo relativo a los procedimientos y trámites iniciados con anterioridad a la entrada en vigor de esta ley, se sustanciarán y resolverán hasta su conclusión; y en lo que fuere procedente, que resulte en beneficio de los interesados, serán aplicables las disposiciones que en ella se contienen.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Consultivo, emitirá las disposiciones reglamentarias del Servicio Civil de Carrera, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente ley, el cual deberá ser publicado en el órgano de difusión de la Comisión.
+
+###### ARTÍCULO SÉPTIMO.
+
+La expedición de las Convocatorias públicas para la designación del Presidente e integrantes del Consejo Consultivo, se efectuara dentro del plazo de hasta treinta días naturales a partir de la entrada en vigor de esta ley, para esta primera designación.
+
+En posteriores designaciones, el término de expedición de las convocatorias se ajustara al procedimiento para cada elección previsto en esta ley.
+
+###### ARTÍCULO OCTAVO.
+
+La instalación de (sic) Consejo Consultivo que integra la Comisión, se realizara a más tardar dentro del plazo de sesenta días naturales a partir del nombramiento del Presidente e Integrantes del Consejo Consultivo realizada por el Pleno del H. Congreso del Estado.
+
+###### ARTÍCULO NOVENO.
+
+El encargado de despacho de la Comisión y los integrantes del Consejo, permanecerán en el ejercicio de sus funciones, hasta en tanto hayan rendido protesta constitucional quienes deban sustituirlos.
+
+###### ARTÍCULO DÉCIMO.
+
+Comuníquese el presente decreto al titular del Poder Ejecutivo del estado para su conocimiento y efectos legales conducentes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Publíquese la presente ley en el Periódico Oficial del Gobierno (sic) Estado de Guerrero y en la Página web de este Poder Legislativo.
