@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-337
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-30"
-last_updated: "2013-06-28"
+last_updated: "2015-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 30 de abril de 1969.
 
@@ -1047,29 +1047,133 @@ En materia de prescripción y cancelación de créditos, se estará a lo dispues
 
 DEL REUSO DEL AGUA
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 111.
 
-Son aguas para reuso las aguas residuales previamente tratadas, que cumplen con las características de calidad de acuerdo con las Normas Oficiales Mexicanas.
+Corresponde a los Organismos encargados del servicio:
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+I.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas vigentes para regular las descargas de aguas residuales en los sistemas de drenaje y alcantarillado en el Estado, y en su caso, aplicar las sanciones establecidas en esta Ley en los siguientes supuestos:
+
+a).- Por daños a la infraestructura de los sistemas de alcantarillado;
+
+b).- Por azolves en tuberías y cárcamos;
+
+c).- Por el vertido de contaminantes por arriba de los límites permisibles requeridos por la Norma Oficial Mexicana aplicable; y
+
+d).- Por afectación del proceso de depuración en las plantas de tratamiento que operan los Organismos.
+
+II. Establecer los criterios técnicos, reglas y procedimientos para el control y la prevención de la contaminación por la descarga de aguas residuales al sistema de drenaje y alcantarillado, con base en las Normas Oficiales Mexicanas y las normas ambientales del Estado;
+
+III. Vigilar el cumplimiento de las disposiciones en materia de calidad de las descargas de aguas residuales;
+
+IV. Monitorear la calidad de las aguas tratadas;
+
+V. Revisar y aprobar los proyectos de los sistemas de tratamiento de aguas residuales públicos y privados;
+
+VI. Establecer y vigilar las condiciones específicas de operación de los sistemas de pretratamiento y tratamiento para asegurar el cumplimiento en la remoción y reducción de la concentración de contaminantes previo a su descarga;
+
+VII. Otorgar los permisos de descarga de aguas residuales provenientes de usuarios no domésticos, y en su caso constancias de cumplimiento acorde a la normatividad aplicable,
+
+VIII. Revisar los proyectos de las obras de los sistemas de tratamiento que se pretenden construir por parte de los particulares, que descarguen a los sistemas de drenaje y, en su caso, recomendar las modificaciones que se estimen convenientes, y
+
+IX. Las que expresamente se le otorguen por esta Ley y demás disposiciones que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 112.
 
-Las aguas de reuso serán aplicadas en:
+Corresponde a los Organismos encargados del servicio realizar el tratamiento de aguas residuales, así como a los particulares en los términos previstos en la presente Ley.
 
-I.- Los establecimientos mercantiles de servicios de recreación y centros comerciales para sus actividades de limpieza, de instalaciones, parque vehicular y áreas verdes;
+El tratamiento de aguas residuales deberá cumplir con las disposiciones contenidas en las Normas Oficiales Mexicanas y las normas ambientales del Estado.
 
-II.- Las industrias ubicadas dentro del Estado que en todos sus procesos productivos no requieran necesariamente de agua potable;
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
 
-III.- Las obras en construcción mayores de dos mil quinientos metros cuadrados, así como terracerías y compactación de suelos;
+###### ARTICULO 113.
 
-IV.- Los establecimientos dedicados al lavado de autos;
+Los Organismos encargados del servicio llevarán un inventario de las descargas de aguas residuales que se vierten al sistema de drenaje, así como los permisos de descarga que en su caso otorguen.
 
-V.- La agricultura; y,
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
 
-VI.- Los demás que determinen las disposiciones reglamentarias respectivas.
+###### ARTICULO 114.
+
+Corresponde a los usuarios no domésticos que efectúen descargas de aguas residuales a los sistemas de drenaje y alcantarillado, cumplir con lo estipulado en las Normas Oficiales Mexicanas correspondientes, con las normas ambientales del Estado y con las condiciones particulares de descarga que le imponga el organismo encargado del servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 115.
+
+Se prohíbe descargar a los sistemas de drenaje y alcantarillado, ríos, manantiales, arroyos, corrientes, colectores o canales localizados en el territorio del Estado, desechos tóxicos, sólidos o líquidos, productos de procesos industriales u otros clasificados como peligrosos conforme a las disposiciones de esta Ley y demás que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 116.
+
+Cuando los usuarios no domésticos contravengan lo dispuesto en el artículo anterior, o efectúen descargas de aguas residuales a los sistemas de drenaje y alcantarillado, sin cumplir con lo estipulado en esta ley, en las Normas Oficiales Mexicanas correspondientes, con las normas ambientales del Estado o condiciones particulares de descarga, podrán optar por un tratamiento conjunto con el Organismo operador con cargo al usuario de los costos que deriven de ello hasta en tanto los usuarios instalen el sistema de tratamiento para el cumplimiento de la ley en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 117.
+
+En los sistemas de tratamiento de aguas residuales particulares, invariablemente se deberán considerar y realizar los proyectos para el manejo y disposición final de lodos, en los términos de las disposiciones respectivas. Asimismo, se deberán construir las trampas de sólidos y las desnatadoras de grasas que se requieran para cumplir con las condiciones especiales de descarga que determine el Organismo prestador del servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 118.
+
+Los Organismos encargados del servicio, promoverán el ahorro y el uso eficiente del agua potable, así como el reúso de las aguas residuales procedentes de las plantas de tratamiento si su calidad así lo permite de acuerdo con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 119.
+
+Los Organismos encargados del servicio vigilarán que el reúso de las aguas se ajuste a los términos establecidos en las Normas Oficiales Mexicanas, las normas ambientales del Estado y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 120.
+
+Se impulsarán medidas que incentiven, principalmente a los usuarios no domésticos, a desarrollar infraestructura que permita el tratamiento de aguas residuales y su reúso.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 121.
+
+Los Organismos encargados del servicio, desarrollarán infraestructura que permita el aprovechamiento de las aguas residuales tratadas, donde así se justifique técnica, económica y ambientalmente.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 122.
+
+Se impulsarán medidas que incentiven a los desarrolladores de vivienda y/o fraccionadores, para crear la infraestructura necesaria con el objeto de que en las áreas verdes y demás actividades que resulten procedentes, se reúsen aguas provenientes de uso doméstico en los términos que establezca la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+###### ARTICULO 123.
+
+Es obligatorio utilizar agua residual tratada, donde exista la infraestructura necesaria y la calidad del agua se encuentre dentro de los límites establecidos por las Normas Oficiales Mexicanas aplicables, en los casos siguientes:
+
+I.- Para las actividades de limpieza de instalaciones, parque vehicular y en los establecimientos industriales, comerciales y de servicios, así como en las instalaciones del sector público, para el riego de áreas verdes públicas;
+
+II.- Para los sistemas industriales de enfriamiento, lavado y procesos productivos que no requieran necesariamente agua potable, conforme a las normas y especificaciones técnicas aplicables;
+
+III.- Para las obras en construcciones, así como para la construcción de terracerías y la compactación de suelos;
+
+IV.- Para el lavado de vehículos a nivel comercial;
+
+V.- Para la agricultura;
+
+VI.- Para hidrantes contra incendios;
+
+VII.- Para fuentes públicas de ornato;
+
+VIII.- Áreas verdes de campos deportivos;
+
+IX.- Riego de terrenos particulares;
+
+X.- En la industria, en edificios corporativos, escuelas públicas y privadas y en oficinas públicas y privadas y giros mercantiles: se deberá utilizar agua residual tratada para la limpieza y aseo de áreas de servicios, en mingitorios y muebles sanitarios; y
+
+XI.- En los demás casos previstos en este y en otras disposiciones aplicables.
 
 T R A N S I T O R I O S :
 
@@ -1154,3 +1258,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE MARZO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
