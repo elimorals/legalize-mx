@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-de-policia-y-transito-60262
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2014-12-26"
+last_updated: "2015-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA SUBDIRECCIÓN DE POLICÍA Y TRÁNSITO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -135,11 +135,11 @@ La Subdirección de Policía y Tránsito Municipal tendrá atribuciones normativ
 
 La atribución normativa consiste en el diseño y definición de políticas, programas y acciones a ejecutar en los campos de prevención de los delitos, siniestros, vialidad y tránsito, vigilancia, sistemas de alarma, radio comunicación y participación ciudadana, en los términos del presente Reglamento y de la Ley de Seguridad Pública para el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 7.
 
-Son atribuciones operativas de la Subdirección de Policía y Tránsito Municipal:
+Son atribuciones operativas de la Dirección de Policía y Tránsito Municipal:
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -155,9 +155,13 @@ V. Combatir toda manifestación pornográfica, el consumo de bebidas embriagante
 
 VI. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2014)
 
-(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
 
-VII. Los demás que les confieran las Leyes y los Reglamentos Municipales.
+VII. Implementar, cuando así lo dicte un juez calificador, las órdenes de protección señaladas en el art 3° del Bando de Policía y Gobierno para el Municipio de Ensenada, y;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+VIII. Los demás que les confieran las Leyes y los Reglamentos Municipales.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -177,7 +181,7 @@ La Subdirección (sic) Policía y Tránsito Municipal, como cuerpo preventivo de
 
 ###### ARTÍCULO 10.
 
-El personal operativo de la Subdirección de Policía y Tránsito Municipal, tiene como atribuciones las siguientes:
+El personal operativo de la Dirección de Policía y Tránsito Municipal, tiene como atribuciones las siguientes:
 
 (REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
 
@@ -266,6 +270,10 @@ XXXII.- Prevenir la comisión de toda clase de delitos y el incurrir en la viola
 (REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
 
 XXXIII.- En los casos en que se encuentren ante infracciones flagrantes que no ameriten inmediata presentación ante el Juez Calificador, entregar al infractor el correspondiente citatorio para que se presente ante el Juez Calificador o la autoridad competente para calificar su falta, con las formalidades que marque el reglamento respectivo.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
+
+XXXIII (SIC). Auxiliar en la ejecución de las órdenes de protección, pudiendo utilizar en caso de ser necesaria la fuerza pública para su efectividad, de conformidad con este reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -798,3 +806,7 @@ TERCERO.- SIENDO APROBADO EL PRESENTE DICTAMEN, PUBLÍQUESE EN EL PERIÓDICO OFI
 P.O. 26 DE DICIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE MARZO DE 2015.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California y/o en la Gaceta Municipal para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B.C.
