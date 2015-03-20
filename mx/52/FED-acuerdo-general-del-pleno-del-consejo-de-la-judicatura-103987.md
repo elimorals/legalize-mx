@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-03-19"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1037,7 +1037,9 @@ Para efectos del Registro, son casusas de justificación por omisión de registr
 
 I. Por caso fortuito o fuerza mayor: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, por alguna de esas circunstancias;
 
-II. Por formación, capacitación y actualización: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, cuando el servidor público realice estudios para la obtención de grado académico con reconocimiento y validez oficial en instituciones de educación superior que estén debidamente acreditadas, se encuentre inscrito en curso impartido por el Instituto de la Judicatura Federal o auspiciados por el Consejo. En estos supuestos sólo se podrá justificar el retardo en la entrada o la salida anticipada;
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+II. Por formación, capacitación y actualización: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, cuando el servidor público realice estudios para la obtención de grado académico con reconocimiento y validez oficial en instituciones de educación superior que estén debidamente acreditadas, o se encuentre inscrito en curso impartido por el Instituto de la Judicatura o por el Instituto Federal de Defensoría Pública. En estos supuestos sólo se podrá justificar el retardo en la entrada o la salida anticipada;
 
 III. Por servicio público: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa para el cumplimiento de las funciones a cargo del servidor público;
 
@@ -7491,7 +7493,7 @@ VIII. Determinar acciones de seguimiento y evaluación de los resultados de los 
 
 IX. Determinar la integración de grupos de trabajo, de carácter temporal o permanente, que actúen como instancias auxiliares del mismo Comité, convocando a las áreas que considere conveniente;
 
-X. Conocer y emitir opinión respecto del programa anual en materia de capacitación informática;
+X. (DEROGADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
 
 XI. Conocer y emitir opinión respecto de los asuntos relevantes que en su ámbito de competencia le presente la Dirección General de Tecnologías de la Información;
 
@@ -8949,7 +8951,11 @@ Para efectos del artículo anterior, las unidades ejecutoras de gasto observará
 
 ### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
 
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
 ### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -9835,7 +9841,9 @@ VII. Implementar, difundir y vigilar el cumplimiento de la normativa y disposici
 
 VIII. Vigilar el cumplimiento de las disposiciones normativas que en materia de Protección Civil se establezcan, así como en su caso, atender los criterios de orden general regulados por el Sistema Nacional de Protección Civil, a través de disposiciones, medidas y acciones contenidas en la Gestión Integral de Riesgos ante la eventualidad de un desastre y en su caso, someter a consideración de la Comisión de Administración, las acciones que deban aplicarse en los inmuebles que administra el Poder Judicial de la Federación;
 
-IX. Promover la realización de eventos de capacitación a Brigadistas y otros servidores públicos, para la formación de competencias que permitan aplicar los conocimientos, habilidades y destrezas ante la eventualidad de algún riesgo, emergencia o desastre de origen natural o humano;
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+IX. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de protección civil;
 
 X. Dar seguimiento a las evaluaciones que en materia de Protección Civil realicen las Unidades Internas de Protección Civil en cada uno de los inmuebles, así como de la participación de los Brigadistas en el desarrollo de las mismas;
 
@@ -9851,7 +9859,9 @@ XV. Proponer el Programa Anual de Protección Civil y someterlo a la autorizaci�
 
 XVI. Someter a consideración de la Comisión, las normas, lineamientos, programas, procedimientos y proyectos de Protección Civil que sean elaboradas por la misma Dirección General para instrumentarse en el Poder Judicial de la Federación;
 
-XVII. Suscribir convenios de colaboración con los sectores público, privado y académico en acciones de prevención y mitigación del riesgo, así como de capacitación teórica práctica en materia de protección civil;
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+XVII. Suscribir convenios de colaboración con los sectores público, privado y académico en acciones de prevención y mitigación del riesgo;
 
 XVIII. Difundir la normatividad en materia de protección civil aplicable a los Programas Internos de Protección Civil; así como, supervisar su aplicación y cumplimiento;
 
@@ -9863,7 +9873,9 @@ XXI. Elaborar los programas de recorridos de verificación en los inmuebles, a e
 
 XXII. Dar seguimiento a las recomendaciones emitidas a los presidentes de las Unidades Internas de Protección Civil;
 
-XXIII. Proponer la suscripción de convenios de colaboración con los sectores público, privado y académico en acciones de prevención y mitigación del riesgo, así como de capacitación teórica práctica en materia de protección civil;
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+XXIII. Proponer la suscripción de convenios de colaboración con los sectores público, privado y académico en acciones de prevención y mitigación del riesgo;
 
 XXIV. Promover y evaluar los análisis de riesgos, desarrollo de estudios y modelaciones de posibles efectos de agentes perturbadores sobre los inmuebles del Poder Judicial de la Federación;
 
@@ -9879,7 +9891,7 @@ XXIX. Evaluar los dictámenes técnicos correspondientes, relativos a la adquisi
 
 XXX. Elaborar los planes de operación e implementar los dispositivos en los eventos que coordine el Poder Judicial de la Federación;
 
-XXXI. Desarrollar y coordinar los planes y programas de capacitación especializados en materia de protección civil para el personal del Poder Judicial de la Federación;
+XXXI. (DEROGADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
 
 XXXII. Dictaminar en caso de requerirse la validación de los Programas Internos de Protección Civil, propuestas por las Unidades Internas de Protección Civil de los inmuebles; y
 
@@ -9957,7 +9969,9 @@ VII. Presentar a la Dirección General de Protección Civil y Salud en el Trabaj
 
 VIII. Mantener actualizado el Padrón de Brigadistas de los inmuebles a su cargo, e informar, a la brevedad, a la Dirección General de Protección Civil y Salud en el Trabajo de los cambios que ocurran;
 
-IX. Detectar las necesidades de capacitación específica para los Brigadistas en los inmuebles a su cargo, solicitar los cursos necesarios, supervisar se lleven a cabo y cumplan con el objetivo previamente establecido;
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+IX. Detectar las necesidades de capacitación específica para los Brigadistas en los inmuebles a su cargo, y comunicarlas a la Dirección General de Protección Civil y Salud en el Trabajo, para que ésta, de estimarlo procedente, las planteé al Instituto de la Judicatura;
 
 X. Dotar a las brigadas constituidas, del material y equipo necesario para su correcto funcionamiento;
 
@@ -10055,13 +10069,15 @@ IV. Al realizar simulacros, establecer el puesto de mando e informar los resulta
 
 ###### Artículo 970.
 
-Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo elaborar, implementar y difundir en coordinación con la Dirección General de Servicios al Personal, el Programa de Capacitación de Protección Civil, para el personal del Poder Judicial de la Federación, con base en la detección de necesidades que las Unidades Internas de Protección Civil envíen; así como mantener actualizado el padrón nacional de brigadistas.
+Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo mantener actualizado el padrón nacional de brigadistas.
 
 ###### Artículo 971.
 
 Los Brigadistas son los servidores públicos que de forma voluntaria conformarán una estructura operativa capacitada y adiestrada en funciones básicas de respuesta a emergencias de primeros auxilios, combate de conato de incendio, evacuación, búsqueda, rescate y recuperación, ante situaciones de riesgo, emergencias o desastres, colaborando en la protección de la integridad física de los servidores públicos, visitantes, así como de los bienes del Poder Judicial de la Federación.
 
-Serán organizados por las Unidades Internas de Protección Civil, encargadas de detectar sus necesidades de capacitación, mismas que serán coordinadas por la Dirección General de Protección Civil y Salud en el Trabajo.
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+Serán organizados por las Unidades Internas de Protección Civil mismas que serán coordinadas por la Dirección General de Protección Civil y Salud en el Trabajo.
 
 ###### Artículo 972.
 
@@ -10087,7 +10103,7 @@ Asimismo, proporcionarán información a los brigadistas de los pasos necesarios
 
 ###### Artículo 975.
 
-La capacitación en materia de Protección Civil será coordinada por la Dirección General de Protección Civil y Salud en el Trabajo; la cual, se orientará a fortalecer y ampliar los conocimientos en dicha materia para los brigadistas servidores públicos del Poder Judicial de la Federación.
+La capacitación en materia de Protección Civil se orientará a fortalecer y ampliar los conocimientos en dicha materia para los brigadistas servidores públicos del Poder Judicial de la Federación.
 
 ## TÍTULO QUINTO. COMPILACIÓN NORMATIVA
 
@@ -10482,3 +10498,19 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. 
 CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
+
+D.O.F. 20 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los recursos humanos, financieros y materiales con los que cuentan las direcciones generales de Estadística Judicial; Servicios al Personal; Derechos Humanos, Equidad de Género, y Asuntos Internacionales; Protección Civil y Salud en el Trabajo, y Tecnologías de la Información así como la Coordinación para la Transparencia, Acceso a la Información y Archivos, que estén asignados para el ejercicio de sus atribuciones en materia de capacitación, se transfieren al Instituto de la Judicatura. Para lo cual se deberán suscribir las respectivas actas de entrega-recepción, con la intervención de la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones.
+
+Tratándose de los recursos humanos, se transferirán las plantillas que hayan estado autorizadas al 18 de febrero de 2015. En el caso de los recursos materiales y financieros se transferirán aquellos con los que se contaba en esa fecha siempre y cuando no hayan sido ejercidos a la entrada en vigor del presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por conducto de sus áreas administrativas competentes, se lleven a cabo las acciones necesarias para la implementación administrativa del presente Acuerdo, dentro de los cuarenta y cinco días naturales posteriores a la entrada en vigor del mismo.
+
+QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
+
+SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
