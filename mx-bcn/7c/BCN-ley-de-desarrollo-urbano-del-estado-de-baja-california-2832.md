@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2013-08-02"
+last_updated: "2015-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -507,7 +507,13 @@ XVII. Participar en la creación y administración de las zonas sujetas a conser
 
 XVIII. Promover inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los centros de población;
 
-XIX. Expedir los reglamentos y disposiciones administrativas que fueren necesarias, de conformidad con los fines señalados en los Artículos 27 y 115 de la Constitución Política de los Estados Unidos Mexicanos, las bases normativas que expida el Congreso del Estado y las disposiciones de la presente Ley;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2015)</small>
+
+XIX. Expedir los reglamentos y disposiciones administrativas que fueren necesarias, de conformidad con los fines señalados en los Artículos 27 y 115 de la Constitución Política de los Estados Unidos Mexicanos, las bases normativas que expida el Congreso del Estado y las disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+Así mismo deberá asegurarse que los reglamentos y disposiciones a los que se refiere el párrafo anterior, se encuentren en apego con los instrumentos de planeación urbana que para los fines citados haya autorizado la autoridad estatal.
 
 XX. Otorgar o negar las autorizaciones y licencias de construcción, de acciones de urbanización y de uso del suelo en los términos de esta Ley, la Ley de Edificaciones del Estado de Baja California, sus Reglamentos, Planes y Programas de Desarrollo Urbano y declaratorias en vigor;
 
@@ -2754,3 +2760,7 @@ P.O. 24 DE MAYO DE 2013.
 P.O. 2 DE AGOSTO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 20 DE MARZO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
