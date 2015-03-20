@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2014-12-26"
+last_updated: "2015-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1003,7 +1003,7 @@ III (SIC).- MAYORIA ABSOLUTA:
 
 Es aquella que corresponde a más de la mitad de los integrantes del Ayuntamiento; y
 
-II.- MAYORIA CALIFICADA:
+II (SIC).- MAYORIA CALIFICADA:
 
 Es aquella que corresponde a cuando menos las dos terceras partes de los integrantes del Ayuntamiento, elevando en su caso las fracciones al número entero;
 
@@ -1509,7 +1509,9 @@ I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos,
 
 II.- Proponer al Ayuntamiento los mecanismos e instrumentos de investigación, planeación, y participación social, que resulten necesarios para promover el equilibrio en las políticas de desarrollo del Municipio, que garanticen la continuidad de los procesos de planeación del desarrollo municipal; y
 
-III.- Vigilar la elaboración y actualización del Plan Municipal de Desarrollo y los programas de la Administración Pública Municipal que se derivan del mismo, y llevar a cabo acciones de evaluación y seguimiento respecto de su cumplimiento, de conformidad con los procesos establecidos en la Ley y el Reglamento de la materia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2015)</small>
+
+III.- Dictaminar y vigilar la elaboración y actualización del Plan Municipal de Desarrollo, del Plan Estratégico Municipal y los programas de la Administración Pública Municipal que se derivan de ambos, requerir al Comité de Planeación del Desarrollo del Municipio de Ensenada (COPLADEM) y al Instituto Municipal de Investigación y Planeación de Ensenada (IMIP) la información que sea necesaria para realizar estas funciones y llevar a cabo acciones de evaluación y seguimiento respecto de su cumplimiento, de conformidad con los procesos establecidos en la Ley y el Reglamento de la materia;
 
 IV.- Participar en los organismos que promuevan el desarrollo económico en los que tenga injerencia el ayuntamiento, a través de sus dependencias;
 
@@ -1653,7 +1655,7 @@ V.- Participar en la integración del Consejo Consultivo de Pesca Y Acuacultura 
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
-ARTÍCULO 127 QUÁRTER (SIC).- Atribuciones:
+ARTÍCULO 127 QUÁRTER.- Atribuciones:
 
 I.- Dictaminar respecto de los asuntos relativos a proyectos de reformas constitucionales, iniciativas de Ley o decreto, Reglamentos, y Disposiciones Normativas de Observancia General, por si misma o en conjunto con la Comisión o las Comisiones especializadas en la materia de que se trate;
 
@@ -1951,7 +1953,7 @@ P.O. 6 DE MARZO DE 2009.
 
 PRIMERO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
 
-SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a contenido (sic) de la presente reforma.
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
 
 TERCERO.- El Ayuntamiento designara a propuesta del presidente municipal, a los Regidores integrantes de la Nueva Comisión de Asuntos Indígenas, así como al Regidor Coordinador, un Secretario y un Vocal.
 
@@ -2042,3 +2044,9 @@ P.O. 26 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+P.O. 20 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
