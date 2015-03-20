@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-98413"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-06"
-last_updated: "2015-03-19"
+last_updated: "2015-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98413&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de febrero de 2014.
 
@@ -547,7 +547,9 @@ I. La emisión de criterios específicos sobre el manejo, mantenimiento, segurid
 
 II. La difusión de la normativa entre el personal involucrado en el manejo de los sistemas de datos personales; y
 
-III. La elaboración de un plan de capacitación para los responsables y encargados del tratamiento, o usuarios de datos personales, en materia de seguridad de dichos datos.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+III. Plantear al Instituto de la Judicatura las necesidades de capacitación para los responsables y encargados del tratamiento, o usuarios de datos personales, en materia de seguridad de dichos datos.
 
 ###### Artículo 45.
 
@@ -1007,7 +1009,9 @@ XVI. Elaborar y presentar a la Comisión los informes necesarios sobre las activ
 
 XVII. Informar a la Comisión sobre presuntas infracciones y cualquier problema o dificultad que se presente en el cumplimiento de la Ley, el Reglamento y demás disposiciones aplicables;
 
-XVIII. Organizar y promover cursos de capacitación en materia de acceso a la información y protección de datos personales para los servidores públicos;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+XVIII. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de acceso a la información y protección de datos personales para los servidores públicos;
 
 XIX. Proponer a la Comisión la organización de actividades para la difusión entre los servidores públicos y los particulares, de los beneficios que se derivan del manejo público de la información, así como las responsabilidades en el buen uso y conservación de aquélla, a fin de generar la cultura de transparencia;
 
@@ -1607,7 +1611,9 @@ III. Recibir y despachar la correspondencia de salida del área correspondiente;
 
 IV. Colaborar con el responsable del archivo de trámite en el registro, clasificación de documentos e integración de expedientes; y
 
-V. Asistir a los cursos de capacitación en materia archivística que promueva el Archivo General.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
+V. Asistir a los cursos de capacitación en materia archivística que imparta el Instituto de la Judicatura.
 
 La designación de los servidores públicos responsables del control de gestión, se hará del conocimiento del Archivo General para su respectivo registro y control.
 
@@ -2212,3 +2218,19 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. 
 CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
+
+D.O.F. 20 DE MARZO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los recursos humanos, financieros y materiales con los que cuentan las direcciones generales de Estadística Judicial; Servicios al Personal; Derechos Humanos, Equidad de Género, y Asuntos Internacionales; Protección Civil y Salud en el Trabajo, y Tecnologías de la Información así como la Coordinación para la Transparencia, Acceso a la Información y Archivos, que estén asignados para el ejercicio de sus atribuciones en materia de capacitación, se transfieren al Instituto de la Judicatura. Para lo cual se deberán suscribir las respectivas actas de entrega-recepción, con la intervención de la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones.
+
+Tratándose de los recursos humanos, se transferirán las plantillas que hayan estado autorizadas al 18 de febrero de 2015. En el caso de los recursos materiales y financieros se transferirán aquellos con los que se contaba en esa fecha siempre y cuando no hayan sido ejercidos a la entrada en vigor del presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por conducto de sus áreas administrativas competentes, se lleven a cabo las acciones necesarias para la implementación administrativa del presente Acuerdo, dentro de los cuarenta y cinco días naturales posteriores a la entrada en vigor del mismo.
+
+QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
+
+SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
