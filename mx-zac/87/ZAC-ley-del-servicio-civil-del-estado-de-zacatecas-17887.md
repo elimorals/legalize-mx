@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2013-03-23"
+last_updated: "2015-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -487,7 +487,7 @@ X.- Las y los trabajadores que manejen fondos, valores o bienes, podrán ser sus
 
 ###### Artículo 24.
 
-En los casos del artículo anterior no tendrá la o el titular de la entidad pública la obligación de pagar el salario a la o a el trabajador, salvo en el caso de la fracción III, cuando la prisión derive de un acto de la o de el trabajador realizado en defensa de los intereses de la entidad pública, en el que tendrá la o el titular de la misma la obligación de pagar los salarios durante el tiempo en que permanezca privado de la libertad.
+En los casos del artículo anterior no tendrá la o el titular de la entidad pública la obligación de pagar el salario a la o a el trabajador, salvo en el caso de la fracción III, cuando la prisión derive de un acto de la o de el trabajador (sic) realizado en defensa de los intereses de la entidad pública, en el que tendrá la o el titular de la misma la obligación de pagar los salarios durante el tiempo en que permanezca privado de la libertad.
 
 ###### Artículo 25.
 
@@ -1941,7 +1941,7 @@ b) Dentro de un sindicato, o entre sindicatos;
 
 II.- Conceder el registro de los sindicatos o secciones, o en su caso, determinar la cancelación de los mismos;
 
-III.- Conocer y resolver de los conflictos entre asegurados y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas, con motivo de la aplicación de las prestaciones sociales que concede el Instituto de acuerdo a su ley;
+III.- (REFORMADA [N. DE E. DEROGADA], P.O. 21 DE MARZO DE 2015)
 
 IV.- Dictar los acuerdos de: depósito de las condiciones generales de trabajo, reglamentos de escalafón, reglamentos de las diferentes comisiones mixtas y de los estatutos de los sindicatos;
 
@@ -2039,7 +2039,7 @@ IV.- Negarse a emitir su voto en alguna resolución;
 
 V.- Votar una resolución notoriamente ilegal o injusta;
 
-VI.- Recibir cualquier dádiva de las partes en conflicto; y (sic)
+VI.- Recibir cualquier dádiva de las partes en conflicto; y
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2645,7 +2645,7 @@ II.- Listas de raya o nómina de personal, cuando se lleven en el centro de trab
 
 III.- Controles de asistencia, cuando se lleven en el centro de trabajo;
 
-IV.- Comprobantes de pago de vacaciones, de aguinaldos, así como de las primas a que se refiere esta ley; y (sic)
+IV.- Comprobantes de pago de vacaciones, de aguinaldos, así como de las primas a que se refiere esta ley; y
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2965,7 +2965,7 @@ I.- Las partes comparecerán personalmente a la audiencia o a través de sus apo
 
 II.- El Tribunal procurará la conciliación de las partes exhortándolas para que lleguen a un convenio. Si así fuere, el convenio aprobado por el Tribunal producirá todos los efectos inherentes a un laudo. Una vez comprobado en autos su cumplimiento, se dará por terminado el conflicto, ordenándose el archivo del expediente como asunto concluido;
 
-III.- Las partes, de acuerdo entre sí, podrán solicitar se suspenda la audiencia con objeto de conciliarse. El Tribunal, por una sola vez suspenderá y fijará su reanudación dentro de los ocho días siguientes quedando notificadas las partes, con los apercibimientos de ley; y (sic)
+III.- Las partes, de acuerdo entre sí, podrán solicitar se suspenda la audiencia con objeto de conciliarse. El Tribunal, por una sola vez suspenderá y fijará su reanudación dentro de los ocho días siguientes quedando notificadas las partes, con los apercibimientos de ley; y
 
 IV.- Si las partes no llegan a un acuerdo, se les tendrá por inconformes con todo arreglo y se pasará a la etapa de demanda y excepciones;
 
@@ -3396,3 +3396,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 21 DE MARZO DE 2015.
+
+Artículo Primero. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo Tercero. Los juicios iniciados con base en las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
