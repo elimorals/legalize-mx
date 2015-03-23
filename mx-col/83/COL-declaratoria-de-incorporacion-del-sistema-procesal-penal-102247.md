@@ -4,7 +4,7 @@ identifier: "COL-declaratoria-de-incorporacion-del-sistema-procesal-penal-102247
 country: "mx"
 rank: "otro"
 publication_date: "2014-08-30"
-last_updated: "2014-11-18"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Declaratoria publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 2014.
 
@@ -317,9 +317,11 @@ Que de conformidad a lo establecido en el artículo cuarto transitorio del Decre
 
 Quedarán derogados, de manera progresiva y gradual, los preceptos del Código de Procedimientos Penales para el Estado de Colima, contenido en el Decreto Número 308 publicado en el Periódico Oficial "El Estado de Colima" el 2 de agosto de 1997, así como sus reformas, esto conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos de este Decreto, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Que el Sistema Procesal Penal Acusatorio se adoptará en la Ley de Justicia Penal para Adolecentes y se incorporará a los ordenamientos enunciados, mismas que entrarán en vigor a las cero horas del día 01 de abril del 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal vigente.
+Que el Sistema Procesal Penal Acusatorio Adversarial se adoptará en la Ley de Justicia Penal para Adolecentes (sic) y se incorporará a los ordenamientos enunciados, mismas que entrarán en vigor a las cero horas del día 12 de agosto del 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal vigente.
 
 ###### ARTÍCULO QUINTO.
 
@@ -352,3 +354,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. E
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE MARZO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "El Estado de Colima".
