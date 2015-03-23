@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2014-12-31"
+last_updated: "2015-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -767,9 +767,9 @@ XXXVIII. Recabar los conceptos del Fondo que establece la Ley de Atención y Pro
 
 XXXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo; y
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-XL. Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado, así como autorizar aquellos que se constituyan por las entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario.
+XL. Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado, así como autorizar aquellos que se constituyan, se modifiquen o se extingan por las entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario.
 
 #### SECCIÓN CUARTA. De la Procuraduría General de Justicia
 
@@ -1473,9 +1473,11 @@ XVI. Dictar los lineamientos para la operación de los Sistemas Electrónicos me
 
 XVII. Desarrollar, regular, administrar y supervisar los servicios de informática, vinculados a la administración de los recursos y servicios de las dependencias y entidades de la Administración Pública Estatal, promoviendo su adecuada organización y mantenimiento;
 
-XVIII. Vigilar el debido cumplimiento de la normatividad aplicable en materia de administración y enajenación de bienes del patrimonio del Gobierno del Estado, así como de las normas y criterios para su adquisición, uso y destino, conforme a los ordenamientos jurídicos aplicables;
+XVIII. (DEROGADA, P.O. 23 DE MARZO DE 2015)
 
-XIX. Apoyar a las Dependencias en la programación de la adquisición de sus bienes, servicios y recursos materiales, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XIX. Apoyar a las Dependencias en la programación de la adquisición de sus bienes muebles, servicios y recursos materiales, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
 
 XX. Establecer programas para la conservación y el mantenimiento de los bienes inmuebles del Gobierno del Estado;
 
@@ -1485,9 +1487,11 @@ XXII. Administrar, controlar y vigilar los Almacenes Generales de bienes consumi
 
 XXIII. Promover y coadyuvar en la ejecución de los programas y acciones de modernización, desarrollo informático y de calidad que requieran las Dependencias y Entidades de la Administración Pública Estatal;
 
-XXIV. Programar, realizar y celebrar los contratos relativos a las adquisiciones, suministros de bienes muebles e inmuebles, equipo informático y los servicios necesarios para el cumplimiento de los fines de la Administración Pública del Estado, y presidir el Comité de Adquisiciones y Servicios;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-XXV. Intervenir en los procedimientos de contratación y celebrar los contratos de compraventa, comodato, donación y demás en los que se afecte el patrimonio del Gobierno del Estado, en los términos previstos en las leyes de la materia;
+XXIV. Programar, realizar y celebrar los contratos relativos a las adquisiciones, suministros de bienes muebles, equipo informático y los servicios necesarios para el cumplimiento de los fines de la Administración Pública Centralizada, y presidir el Comité de Adquisiciones y Servicios;
+
+XXV. (DEROGADA, P.O. 23 DE MARZO DE 2015)
 
 XXVI. Llevar el registro de proveedores de bienes y servicios de la Administración Pública Estatal;
 
@@ -1549,9 +1553,15 @@ XIX. Conocer, investigar y resolver sobre los actos y/o omisiones de los servido
 
 XX. Presentar las denuncias o querellas penales cuando la conducta del servidor público pueda constituir la comisión de algún delito;
 
-XXI. Designar a los auditores externos que de acuerdo a las leyes específicas, deban intervenir en la realización de auditorías especiales; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-XXII. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XXI. Designar a los auditores externos que de acuerdo a las leyes específicas, deban intervenir en la realización de auditorías especiales;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXII. Intervenir en los procedimientos de contratación y celebrar los contratos de compraventa, comodato, donación y demás actos de dominio respecto del patrimonio inmobiliario del Gobierno del Estado, en los términos previstos en las leyes de la materia; y
+
+XXIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE JUNIO DE 2013)</small>
 
@@ -1946,3 +1956,37 @@ Toda referencia al Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto P
 ###### ARTÍCULO SEXTO.
 
 Los Municipios, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, establecerán la instancia técnica de evaluación a que se refiere el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Patrimonial del Estado de Aguascalientes, publicada en Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000, así como sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigencia del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley Patrimonial del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los contratos celebrados antes de la entrada en vigencia del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley Patrimonial del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de conciliación, inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigencia del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones aplicables al momento de haberse iniciado tales procedimientos.
+
+###### ARTÍCULO SEXTO.
+
+Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estado de Aguascalientes en materia del procedimiento para la aplicación de las sanciones o multas previsto en el Título Cuarto, Capítulo Único o denuncias por inconformidades, en los términos establecidos en el Título Quinto, Capítulo I de esa Ley, se entenderán referidos al Título Noveno, Capítulo Único y Título Décimo, Capítulo Primero, respectivamente, de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, contenida en este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estado de Aguascalientes en materia de adquisiciones, arrendamientos y servicios, se entenderán referidos a la citada Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, contenida en este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estado de Aguascalientes en materia de conservación, mantenimiento, control, arrendamiento, registro de bienes muebles e inmuebles y la adquisición de bienes inmuebles del Gobierno del Estado, se entenderá referido a la Ley de Bienes del Estado de Aguascalientes contenida en este Decreto.
