@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-organo-superior-de-fiscalizacion-84909"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-16"
-last_updated: "2012-01-16"
+last_updated: "2015-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de enero de 2012.
 
@@ -71,7 +71,7 @@ IV. Ley: Ley de Fiscalización Superior del Estado de Aguascalientes;
 
 V. Órgano Superior de Fiscalización: El Órgano Superior de Fiscalización del Estado de Aguascalientes a que hace referencia la Fracción V, párrafo tercero, del Artículo 27 de la Constitución Política local; y
 
-VI. Reglamento: Reglamento Interior del Órgano Superior de Fiscalización del Estado de Aguascalientes; (sic)
+VI. Reglamento: Reglamento Interior del Órgano Superior de Fiscalización del Estado de Aguascalientes;
 
 ###### ARTÍCULO 4º.
 
@@ -305,7 +305,7 @@ IV. Elaborar los proyectos de contratos o convenios relacionados con las adquisi
 
 V. Coadyuvar con el Auditor Superior para gestionar la incorporación, destino y desincorporación de bienes muebles e inmuebles del dominio público del Estado afectos a su servicio;
 
-VI. Llevar el control de inventarios, altas y bajas de los bienes del Órgano Superior Fiscalización (sic);
+VI. Llevar el control de inventarios, altas y bajas de los bienes del Órgano Superior (sic) Fiscalización;
 
 VII. Elaborar los nombramientos, así como tramitar los movimientos y los casos de terminación de las relaciones laborales de los servidores públicos del Órgano Superior de Fiscalización, atendiendo los términos de la legislación aplicable;
 
@@ -557,57 +557,29 @@ Todos los integrantes del Consejo tendrán derecho a voz y voto. El Presidente p
 
 Podrán ser convocados otros servidores públicos del Órgano Superior de Fiscalización para que participen en las reuniones, pero únicamente tendrán derecho a voz.
 
-### CAPÍTULO VIII. De la Unidad de Evaluación y Control del Órgano Superior de Fiscalización
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2015)</small>
+
+### CAPÍTULO VIII
 
 ###### ARTÍCULO 24.
 
-Como parte de la estructura de la Comisión de Vigilancia del Congreso del Estado de Aguascalientes, se establece la Unidad de Evaluación y Control del Órgano Superior de Fiscalización, conforme al Artículo 115 de la Ley, y para tal efecto se deberá emitir el Reglamento Interior de la Unidad de Evaluación y Control del Órgano Superior de Fiscalización.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 25.
 
-La Unidad de Evaluación y Control del Órgano Superior de Fiscalización, tendrá como propósito apoyar técnicamente a la Comisión en el cumplimiento de sus atribuciones, será la encargada de vigilar el estricto desempeño de las funciones a cargo de los servidores públicos del Órgano Superior de Fiscalización.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 26.
 
-La Unidad de Evaluación y Control del Órgano Superior de Fiscalización podrá aplicar, en su caso, las medidas disciplinarias y sanciones administrativas previstas en el Reglamento Interior de la Unidad de Evaluación y Control del Órgano Superior de Fiscalización.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 27.
 
-La Unidad de Evaluación y Control del Órgano Superior de Fiscalización tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
-I. Vigilar que los servidores públicos del Órgano Superior de Fiscalización se conduzcan en términos de lo dispuesto por este Reglamento y demás disposiciones legales aplicables;
+ARTÍCULOS (SIC) 28.- (DEROGADO, P.O. 23 DE MARZO DE 2015)
 
-II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores del Órgano Superior de Fiscalización, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
-
-III. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte del Auditor Superior, directores y demás servidores públicos del Órgano Superior de Fiscalización, iniciar investigaciones y, en su caso, con la aprobación de la Comisión, fincar las responsabilidades a que hubiere lugar e imponer las sanciones que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
-
-IV. Coadyuvar con la Contraloría Interna del Congreso para resolver el recurso de revocación que interpongan los servidores públicos sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
-
-V. Participar en los actos de entrega recepción de los servidores públicos de mando superior del Órgano Superior de Fiscalización;
-
-VI. Coadyuvar con la Contraloría Interna del Congreso en la presentación de denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos del Órgano Superior de Fiscalización;
-
-VII. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe del Resultado y demás documentos que le envíe el Órgano Superior de Fiscalización;
-
-VIII. Proponer a la Comisión los sistemas de evaluación del desempeño de la propia Unidad y del Órgano Superior de Fiscalización, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
-
-IX. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones; y
-
-X. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
-
-ARTÍCULOS (SIC) 28.- La Unidad de Evaluación y Control del Órgano Superior de Fiscalización estará integrada por un Coordinador de la Unidad y nueve auxiliares, mismos que serán designados por la Comisión.
-
-Los servidores públicos de la Unidad deberán cumplir los perfiles académicos de especialidad que se determinen en el Reglamento Interior de la Unidad de Evaluación y Control del Órgano Superior de Fiscalización, preferentemente en materias de fiscalización, evaluación del desempeño y control.
-
-ARTÍCULOS (SIC) 29.- Son atribuciones del Coordinador de la Unidad:
-
-I. Planear y programar auditorías a las diversas áreas que integran el Órgano Superior de Fiscalización;
-
-II. Requerir a las unidades administrativas del Órgano Superior de Fiscalización la información necesaria para cumplir con sus atribuciones;
-
-III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad; y
-
-IV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+ARTÍCULOS (SIC) 29.- (DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 T R A N S I T O R I O S
 
@@ -644,3 +616,19 @@ PRIMER SECRETARIO.
 Dip. José Luis Novales Arellano,
 
 SEGUNDO SECRETARIO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de revisión de la Cuenta Pública iniciados antes de la vigencia del presente Decreto, serán concluidos con sujeción a las disposiciones legales y administrativas aplicadas en su momento.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor de ciento ochenta días hábiles contados a partir de la publicación de este Decreto, deberán adecuarse las disposiciones legales y reglamentarias que procedan.
