@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2013-11-20"
+last_updated: "2015-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 164, PUBLICADO EN EL P.O. DE 23 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -403,7 +405,7 @@ V. La existencia en cantidad suficiente de los bienes, así como la calidad y la
 
 VI. En su caso, los proyectos, especificaciones y programas de ejecución;
 
-VII. Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles a su cargo; y (sic)
+VII. Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles a su cargo; y
 
 VIII. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones.
 
@@ -1506,3 +1508,37 @@ P.O. 20 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Patrimonial del Estado de Aguascalientes, publicada en (sic) Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000, así como sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigencia del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley Patrimonial del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los contratos celebrados antes de la entrada en vigencia del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley Patrimonial del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de conciliación, inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigencia del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones aplicables al momento de haberse iniciado tales procedimientos.
+
+###### ARTÍCULO SEXTO.
+
+Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estado de Aguascalientes en materia del procedimiento para la aplicación de las sanciones o multas previsto en el Título Cuarto, Capítulo Único o denuncias por inconformidades, en los términos establecidos en el Título Quinto, Capítulo I de esa Ley, se entenderán referidos al Título Noveno, Capítulo Único y Título Décimo, Capítulo Primero, respectivamente, de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, contenida en este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estado de Aguascalientes en materia de adquisiciones, arrendamientos y servicios, se entenderán referidos a la citada Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, contenida en este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estado de Aguascalientes en materia de conservación, mantenimiento, control, arrendamiento, registro de bienes muebles e inmuebles y la adquisición de bienes inmuebles del Gobierno del Estado, se entenderá referido a la Ley de Bienes del Estado de Aguascalientes contenida en este Decreto.
