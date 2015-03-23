@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2015-03-16"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 235 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -143,9 +141,25 @@ IV.- Violencia económica.- Es toda acción u omisión del agresor que afecta la
 
 V.- Violencia sexual.- Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño o limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; y
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-VI.- La violencia obstétrica.- Es la omisión de atención oportuna y eficaz de las emergencias obstétricas, a través de los métodos que causen el menor daño a la salud e integridad de las mujeres, practicados sin obtener su consentimiento voluntario, expreso e informado.
+VI.- Violencia Obstétrica: Aquella ejercida por el sistema de salud o cualquier agente ajeno que asista a la mujer, o incida directamente en ella en el proceso de embarazo, parto o puerperio, y que puede ser expresada de cualquiera de las siguientes formas:
+
+a) Atención inoportuna e ineficaz de las urgencias obstétricas;
+
+b) Trato deshumanizado;
+
+c) Patologización del proceso de embarazo, parto o puerperio;
+
+d) Medicalizar sin causa justificada el proceso de embarazo, parto o puerperio;
+
+e) Negativa u obstaculización del apego precoz del recién nacido con su madre sin justificación terapéutica; o
+
+f) Impedir el libre ejercicio de sus derechos sexuales y reproductivos, atentando contra su privacidad y dignidad ante la pérdida de su autonomía.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+VII.- Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
 
@@ -781,9 +795,27 @@ c).- El tipo de violencia por la cual se atendió a la víctima;
 
 d).- Los efectos causados por la violencia en las mujeres;
 
-e).- Los recursos erogados en la atención de las víctimas; y
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-XII.- Las demás previstas para el cumplimiento de la presente Ley.
+e) Los recursos erogados en la atención de las víctimas;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XII.- También, de acuerdo a su disponibilidad presupuestaria, deberá:
+
+a) Garantizar que los servicios de salud cuenten con los establecimientos, bienes, servicios de salud y personal capacitado e idóneo que contribuya a asegurar el derecho de la mujer embarazada y puérpera;
+
+b) Promover, tanto en el sector público como privado, la reducción en el número de cesáreas, hasta llegar a los estándares recomendados por la Organización Mundial de la Salud;
+
+c) Capacitar y sensibilizar al personal del sector salud, con el fin de prevenir actos de violencia obstétrica;
+
+d) Ejecutar acciones de información y difusión, dirigidas al público en general en las que se incluyan los derechos con los que cuentan y los medios administrativos y judiciales, para hacer del conocimiento de las autoridades los actos de violencia obstétrica en su contra, considerando las lenguas indígenas que se hablan en la Entidad;
+
+e) Establecer mecanismos de monitoreo y sanciones administrativas que permitan visibilizar y sancionar la violencia obstétrica;
+
+f) Promover servicios especializados de atención a mujeres que hayan sido víctimas de violencia obstétrica; y
+
+XIII.- Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1110,3 +1142,7 @@ P.O. 22 DE DICIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 Segundo. Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las empresas, instituciones, dependencias y en general, todos los obligados conforme a esta ley efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones establecidas.
+
+P.O. 23 DE MARZO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
