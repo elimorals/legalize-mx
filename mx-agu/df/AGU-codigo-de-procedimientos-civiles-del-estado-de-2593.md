@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2013-11-11"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -625,6 +625,14 @@ Los exhortos y despachos que expidan los Jueces para ser diligenciados por los J
 
 Las diligencias que no puedan practicarse en el partido en que se sigue el juicio, deberán encomendarse precisamente al tribunal de aquel en que han de ejecutarse.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Cuando un Juez del Estado deba intervenir directamente en la práctica de una diligencia, la cual haya de efectuarse en un partido judicial del Estado distinto al que pertenece, se sustanciará vía exhorto correspondiente. Cuando la diligencia consista en la práctica de un embargo o la ejecución de una resolución, no será necesario la remisión de exhorto, bastando para la práctica de la diligencia, la solicitud dirigida a la Dirección de Ejecutores o al Ministro Ejecutor adscrito al Juzgado, a quien se turnará el expediente respectivo para su sustanciación.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Si el objeto de la diligencia señalada en el párrafo anterior consiste en requerir a autoridades administrativas o a terceros mediante oficio, éste se remitirá sin necesidad de exhorto, a fin de cumplir con el mandato respectivo. Dicho oficio a solicitud expresa podrá ser entregado para su debido trámite al interesado.
+
 ###### ARTICULO 99.
 
 Los tribunales superiores pueden, en su caso, encomendar la práctica de las diligencias a los jueces inferiores de su jurisdicción.
@@ -643,9 +651,13 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir, s
 
 ### CAPITULO V. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 103.
 
-Las notificaciones, emplazamientos y citaciones se verificarán a más tardar el día siguiente del en que se dicten las resoluciones que las prevengan, siempre que el juez no disponga en éstas otra cosa.
+Las notificaciones, emplazamientos y citaciones se verificarán a partir del momento en que se dicten las resoluciones que las prevengan.
+
+Cuando la notificación, emplazamiento o citación deba efectuarse en un partido judicial distinto al del Juez que lo decretó, éste remitirá de inmediato a la Dirección de Notificadores o al Notificador que corresponda la cédula y los demás documentos necesarios para que se proceda a su inmediata diligencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5649,7 +5661,7 @@ Podrá decretarse el depósito:
 
 I.- De menores o incapacitados sujetos a patria potestad o a tutela, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
 
-II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo encargo estuvieren; y (sic)
+II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo encargo estuvieren; y
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -6152,3 +6164,9 @@ DECRETO NÚMERO 410 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 79; S
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
