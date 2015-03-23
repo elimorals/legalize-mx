@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2015-02-02"
+last_updated: "2015-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO DE LA DECLARATORIA Y PRIMERO TRANSITORIO DEL DECRETO No. 63 DEL P.O. 11 DE JUNIO DE 2014, POR EL QUE SE APRUEBA LA INCORPORACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES, ASÍ COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS EL SIETE DE SEPTIEMBRE DE DOS MIL CATORCE PARA EL INICIO DE VIGENCIA DEL REFERIDO CÓDIGO, POR LO QUE QUEDARÁN DEROGADOS, DE MANERA PROGRESIVA Y GRADUAL, LOS PRECEPTOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES, CON LA SALVEDAD DE LOS PROCEDIMIENTOS QUE SE ESTÉN TRAMITANDO CON BASE EN SUS DISPOSICIONES, EN CUYO CASO SE SEGUIRÁN APLICANDO HASTA SU RESOLUCIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -921,6 +919,10 @@ Habrá en el Estado los Juzgados de Primera Instancia Civiles, Mercantiles, Fami
 
 Habrá en el Estado los partidos judiciales que sean necesarios para la pronta administración de justicia que apruebe el Consejo de la Judicatura de conformidad con su disponibilidad presupuestal, el cual determinará la competencia territorial y, en su caso, la especialización por materia de los juzgados.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Tratándose de diligencias que deban de practicarse en partido judicial distinto al del Juez competente, se estará a lo que dispone el artículo 98 del Código de Procedimientos Civiles del Estado de Aguascalientes, en asuntos de materia civil, mercantil y familiar.
+
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 36.
@@ -1125,15 +1127,15 @@ XI.- Sobre el cumplimiento de la sanción impuesta; y
 
 XII.- De las demás atribuciones que le confieran la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes y demás leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 42.
 
-En cada uno de los Juzgados Civiles, Mercantiles y Familiares, habrá Secretarios de Acuerdos numerados progresivamente, y un Secretario de Estudio y Proyectos, dos Notificadores, dos Ejecutores como mínimo, y los servidores que fije el Presupuesto de Egresos.
+En cada uno de los Juzgados Civiles, Mercantiles, Familiares y Mixtos, habrá Secretarios de Acuerdos numerados progresivamente, y un Secretario de Estudio y Proyectos, los Notificadores y Ejecutores necesarios que disponga el Supremo Tribunal de Justicia, y los servidores que fije el Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1995)</small>
+El Primer Secretario será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de ella de acuerdo con las instrucciones del Juez.
 
-El funcionamiento de los Notificadores y de los Ejecutores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia, el Primer Secretario será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de ella de acuerdo con las instrucciones del Juez.
+La adscripción de los Notificadores y Ejecutores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia del Estado. Para la debida ejecución de las diligencias que les sean encomendadas, los Notificadores y Ejecutores ejercerán sus atribuciones en todo el territorio del Estado, independientemente de la Dirección o Juzgado al que hayan sido adscritos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2360,3 +2362,9 @@ DECRETO NO. 141 POR EL QUE SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 11, DE LA LE
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
