@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2013-02-11"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -59,7 +59,13 @@ I. La revisión de los ingresos, los egresos y la deuda pública; los subsidios,
 
 II. La evaluación de los resultados de la Gestión Financiera de las Entidades Fiscalizadas, en sus programas y procesos concluidos; así como, comprobar si se observó lo dispuesto en el Presupuesto de Egresos, la Ley de Ingresos y demás disposiciones aplicables;
 
-III. La práctica de Auditorías sobre el desempeño para verificar el cumplimiento de los Planes con sus programas, metas y objetivos, tanto federales, estatales y municipales, conforme a los principios señalados en el primer párrafo de este Artículo.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+III. La práctica de Auditorías sobre el desempeño para verificar el cumplimiento de los Planes con sus programas, metas y objetivos, tanto federales, estatales y municipales, conforme a los principios señalados en el primer párrafo de este Artículo; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+IV. Las Revisiones Contemporáneas.
 
 ###### ARTÍCULO 3º.
 
@@ -79,7 +85,7 @@ VI. Congreso: El Congreso del Estado;
 
 VII. Comisión: La Comisión de Vigilancia del Congreso del Estado;
 
-VIII. Unidad: La Unidad de Evaluación y Control;
+VIII. (DEROGADA, P.O. 23 DE MARZO DE 2015)
 
 IX. Órgano Superior de Fiscalización: El Órgano Superior de Fiscalización del Estado de Aguascalientes a que hace referencia la Fracción V, párrafo tercero, del Artículo 27 de la Constitución Política del Estado de Aguascalientes;
 
@@ -111,9 +117,29 @@ XXII. Programas: Los contenidos en los planes de desarrollo, en los programas op
 
 XXIII. Servidores Públicos: Los que se consideran como tales en la Constitución Política del Estado de Aguascalientes y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
 
-XXIV. Revisiones contemporáneas: Aquéllas que realice el Órgano Superior de Fiscalización del Estado de Aguascalientes de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, sin perjuicio de aquéllas que realice de manera posterior a la presentación de cuentas públicas; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-XXV. Ley: Ley de Fiscalización Superior del Estado de Aguascalientes.
+XXIV. Revisiones Contemporáneas: Aquellas que realice el Órgano Superior de Fiscalización del Estado de Aguascalientes, a solicitud de las Entidades Fiscalizadas, a la Comisión, por conducto de quien legalmente las represente, y en el caso de los Municipios con el acuerdo del Ayuntamiento, de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXV. Ley: Ley de Fiscalización Superior del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXVI. Beneficio Económico: La ganancia, utilidad o provecho indebido, que obtiene una persona en la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio y aplicación de recursos, fondos, bienes o valores públicos, para sí o para las personas a las que se refiere en (sic) inciso A) de la fracción I del artículo 61 de la Ley; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXVII. Normas Generales de Auditoría: Requisitos mínimos de calidad previstos en el presente ordenamiento relativos a la personalidad del auditor, el trabajo que desempeña e información que produce como resultado de sus revisiones.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXVIII. Observaciones Preliminares: Documento elaborado en términos del Artículo 22 de la Ley, para dar a conocer a los Entes Fiscalizados el resultado de la revisión y fiscalización de la Cuenta Pública, a efecto de que solventen o desvirtúen en un plazo de veinte días hábiles a partir de su notificación, las presuntas discrepancias detectadas, de conformidad con lo previsto por el Artículo 41 de la Ley.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXIX. Pliego de Observaciones: Documento derivado de la revisión y Fiscalización Superior de las Cuentas Públicas, en el que se presume la existencia de hechos o conductas que produzcan daños o perjuicios, o ambos, en contra de las Haciendas Públicas o Patrimonio de los Entes Fiscalizados, en el que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato.
 
 ###### ARTÍCULO 4º.
 
@@ -129,15 +155,23 @@ Como órgano auxiliar del Congreso del Estado, estará sujeto a los lineamientos
 
 Son sujetos de Fiscalización Superior, los Entes Públicos Estatales, los Entes Públicos Municipales y Entidades Fiscalizadas a que se refieren las Fracciones II, III, IV, V y XIII del Artículo 3º de esta Ley, que hayan captado, recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales, y los federales que le competa revisar al Órgano Superior de Fiscalización mediante convenio que haya suscrito con la Auditoría Superior de la Federación.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 6º.
 
-La Fiscalización Superior que realice el Órgano Superior de Fiscalización se ejerce de manera posterior a la Gestión Financiera o Administrativa, o al ejercicio fiscal o programático de los Planes que corresponda, tiene carácter externo y por lo tanto, se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen las instancias de control competentes.
+La Fiscalización Superior que realice el órgano Superior de Fiscalización se ejerce de manera posterior a la Gestión Financiera o Administrativa, o al ejercicio fiscal o programático de los Planes que corresponda, tiene carácter externo y por lo tanto, se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen las instancias de control competentes.
 
-La Fiscalización Superior se podrá realizar de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales en los casos que corresponda, así como de manera posterior a la presentación de las cuentas públicas, de manera externa, independiente y autónoma de cualquier forma de control y evaluación internos de las entidades fiscalizables y de conformidad con lo establecido en la presente Ley.
+La Fiscalización Superior se podrá realizar de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales tratándose de Revisiones Contemporáneas, así como de manera posterior a la presentación de las cuentas públicas, de manera externa, independiente y autónoma de cualquier forma de control y evaluación internos de las entidades fiscalizables y de conformidad con lo establecido en la presente Ley.
 
-###### ARTÍCULO 7º.
+La Fiscalización Superior, se realizará conforme a las Normas Generales de Auditoría y demás disposiciones contenidas en la Ley y otros ordenamientos aplicables.
 
-A falta de disposición expresa en esta Ley se aplicarán, en forma supletoria y en lo conducente, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes, la Ley de Deuda Pública para el Estado de Aguascalientes, el Código Fiscal del Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes, así como la normatividad civil del Estado sustantiva y adjetiva, en lo que no contravengan las bases esenciales de esta Ley.
+El objeto de las Revisiones Contemporáneas será el análisis tanto del contenido de los avances de gestión financiera como de la información mencionada en el Artículo 14 de esta Ley, y que para tales efectos remitan las Entidades Fiscalizadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 7°
+
+A falta de disposición expresa en esta Ley se aplicarán, en forma supletoria y en lo conducente, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, la Ley de Deuda Pública para el Estado de Aguascalientes, el Código Fiscal del Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, esta última, únicamente en materia de procedimiento, la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes, así como la normatividad civil del Estado sustantiva y adjetiva, en lo que no contravengan las bases esenciales de esta Ley.
 
 El Órgano Superior de Fiscalización deberá emitir los criterios relativos a la ejecución de auditorías, mismos que deberán sujetarse a las disposiciones establecidas en la presente Ley y publicarse en el Periódico Oficial del Estado.
 
@@ -279,7 +313,9 @@ Las Cuentas Públicas del año anterior deberán ser presentadas al Congreso por
 
 Asimismo, los Poderes del Estado, los Municipios y los Organismos Autónomos rendirán al Congreso, a más tardar el día veinte de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo, por los periodos correspondientes al primer, segundo y tercer trimestres respectivamente, del ejercicio fiscal en curso. Dicho informe será consolidado y remitido por cada uno de los titulares de los Poderes del Estado o por el Organismo Autónomo correspondiente. El titular del Poder Ejecutivo del Estado, podrá hacerlo a través de la Secretaría de Finanzas, y los Municipios por conducto de su Presidente Municipal.
 
-La omisión injustificada de la presentación de la Cuenta Pública en los plazos establecidos en este Artículo será causa de responsabilidad en los términos de la presente Ley.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+La omisión injustificada de la presentación de la Cuenta Pública en los plazos establecidos en este Artículo será causa de imposición de una medida de apremio en los términos de la presente Ley.
 
 ###### ARTÍCULO 16.
 
@@ -303,7 +339,7 @@ IV. La evaluación y, en su caso, reformulación de los programas.
 
 El Órgano Superior de Fiscalización realizará un análisis del informe del Avance de Gestión Financiera dentro de los treinta días hábiles siguientes a la fecha de su presentación y lo entregará a la Comisión para los efectos que considere pertinentes.
 
-Si derivado del análisis de dicho informe, se detectaran irregularidades, el Órgano Superior de Fiscalización procederá de forma inmediata a ejercer sus facultades de revisión, sin perjuicio del principio de anualidad.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
@@ -311,9 +347,11 @@ Las bases y normas para la baja de documentos justificatorios y comprobatorios p
 
 Los microfilms y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior, tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables a las operaciones en que aquéllos se apliquen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-El Órgano Superior de Fiscalización conservará en su poder las Cuentas Públicas del Estado y los Municipios de cada ejercicio fiscal y los informes de resultados de su revisión, mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las supuestas irregularidades que se detecten en las operaciones objeto de revisión. También se conservarán las copias autógrafas de las resoluciones en las que se finquen responsabilidades y los documentos que contengan las denuncias o querellas penales que se hubieren formulado como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión y los documentos comprobatorios que conforman las Cuentas Públicas.
+El Órgano Superior de Fiscalización conservará en su poder las Cuentas Públicas del Estado y los Municipios de cada ejercicio fiscal y los informes de resultados de su revisión, mientras no prescriban o caduquen sus facultades para fincar las responsabilidades derivadas de las supuestas irregularidades que se detecten en las operaciones objeto de revisión. También se conservarán las copias autógrafas de las resoluciones de las que se finquen responsabilidades y los documentos que contengan las denuncias o querellas penales que se hubieren formulado como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión y los documentos comprobatorios que conforman las Cuentas Públicas.
 
 El Órgano Superior de Fiscalización podrá devolver a los entes fiscalizados o destruir la documentación que obre en sus archivos después de cinco años de dictaminada la cuenta pública, siendo opcional, digitalizarla o escanearla.
 
@@ -349,11 +387,19 @@ A) Mediante la realización de auditorías del desempeño de los programas, veri
 
 B) Si se cumplieron las metas de los indicadores aprobados en el presupuesto y si dicho cumplimiento tiene relación con el plan de desarrollo y los programas sectoriales, las metas y los avances físicos y financieros del ejercicio fiscal anterior; e incluir en el anteproyecto de los entes, indicadores que permitan establecer parámetros de medición de los logros a alcanzar, en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad.
 
-IV. En forma posterior a la conclusión de los procesos correspondientes, revisar el resultado de la Gestión Financiera de los Poderes del Estado, los Municipios y los Entes Públicos Estatales y Municipales;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-V. Determinar las responsabilidades a que haya lugar;
+IV. En forma posterior a la conclusión de los procesos o trimestres correspondientes, revisar el resultado de la Gestión Financiera de los Poderes del Estado, los Municipios y los Entes Públicos Estatales y Municipales;
 
-VI. La imposición de multas y las sanciones resarcitorias correspondientes en los términos de esta Ley; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+V. Fincar las responsabilidades resarcitorias, ante la omisión injustificada de la Instancia de Control Competente de iniciar los procedimientos resarcitorios.
+
+Para los efectos de esta Ley, se entenderá que existe omisión injustificada de la Instancia de Control Competente para iniciar los procedimientos correspondientes, cuando transcurridos 60 días naturales adicionales al plazo señalado en el cuarto párrafo del Artículo 68 de la Ley, la Instancia de Control no haya comunicado al Órgano Superior de Fiscalización sobre el inicio de las investigaciones para la procedencia o improcedencia de los procedimientos resarcitorios;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+VI. La imposición de medidas de apremio correspondientes en los términos de esta Ley; y
 
 VII. Realizar auditorías forenses, con el propósito de documentar con pruebas válidas y suficientes las conclusiones derivadas de los hallazgos e irregularidades detectadas, apoyándose cuando así se requiera, con la tecnología y herramienta forense para el desarrollo de sus investigaciones.
 
@@ -381,11 +427,15 @@ III. Establecer, verificar y evaluar las normas, procedimientos, y métodos que 
 
 IV. Analizar los Informes de Avance de Gestión Financiera respecto de los avances físico y financiero de los programas autorizados y sobre procesos concluidos;
 
-V. Evaluar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales, conforme a los indicadores estratégicos y de gestión, aprobados en los presupuestos, tomando en cuenta el plan de desarrollo, los planes sectoriales, los planes regionales, los programas operativos anuales, los programas de las Entidades Fiscalizadas, entro otros, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; lo anterior, con independencia de las atribuciones similares que tengan otras instancias;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+V. Evaluar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales, conforme a los indicadores estratégicos y de gestión, aprobados en los presupuestos, tomando en cuenta el plan de desarrollo, los planes sectoriales, los planes regionales, los programas operativos anuales, los programas de las Entidades Fiscalizadas, entro otros, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; lo anterior, con independencia de las atribuciones similares que tengan otras instancias, en donde únicamente podrá emitir recomendaciones para la mejora en el desempeño de los mismos;
 
 VI. Evaluar el desempeño y los resultados de las Entidades Fiscalizadas, con independencia de otras instancias que tengan atribuciones similares, y en su caso, evaluar el trabajo de dichas instancias. A este fin, el Órgano Superior de Fiscalización podrá establecer los indicadores de desempeño y cualquier otro recurso metodológico que a su juicio permita cumplir con lo dispuesto en esta Fracción;
 
-VII. Realizar revisiones que comprendan periodos trimestrales concluidos del ejercicio fiscalizado, las cuales tendrán carácter provisional, lo anterior, sin perjuicio del principio de anualidad al que hace referencia el Artículo 27 A párrafo segundo de la Constitución Política del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+VII. Realizar Revisiones Contemporáneas;
 
 VIII. Verificar físicamente la documentación y los sistemas de administración financiera, presupuestaria, contable y programática;
 
@@ -393,7 +443,9 @@ IX. Verificar documentalmente que las Entidades Fiscalizadas que hubieren captad
 
 X. Verificar que las operaciones que realicen las Entidades Fiscalizadas sean acordes con las leyes de ingresos y los presupuestos de egresos del Estado y los Municipios y se efectúen con apego a las disposiciones legales y administrativas aplicables en la materia;
 
-XI. Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados a las Entidades Fiscalizadas se han aplicado legal y eficientemente para el logro de los objetivos y metas de los programas aprobados;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XI. Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados a las Entidades Fiscalizadas se han aplicado legal y eficientemente cumpliendo con los objetivos y metas de los programas aprobados;
 
 XII. Requerir a los auditores externos copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas;
 
@@ -413,13 +465,27 @@ XVIII. Formular recomendaciones al desempeño para mejorar los resultados, la ef
 
 XIX. Formular recomendaciones, solicitudes de aclaración, y pliegos de observaciones; promover la intervención de la Instancia de Control Competente, el ejercicio de las facultades de comprobación fiscal y de responsabilidad administrativa sancionatoria; así como formular denuncias de hechos y de juicio político;
 
-XX. Determinar los daños y perjuicios que afecten a las haciendas públicas del Estado y de los Municipios o al patrimonio de los Entes Públicos Estatales y Municipales y fincar a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
 
-Para el fincamiento de las responsabilidades a que se refiere el párrafo anterior, se deberá de solicitar previamente las actuaciones de los órganos internos de control, en caso de omisión de actuación de los órganos de control interno, el Órgano Superior de Fiscalización tramitará, substanciará y resolverá el procedimiento para el fincamiento de las responsabilidades resarcitorias previsto en este ordenamiento, por las irregularidades en que incurran los servidores públicos por actos u omisiones de los que resulte un daño o perjuicio, o ambos, estimable en dinero que afecten al Estado o a los Municipios en su hacienda pública o al patrimonio de los Entes Públicos Estatales y Municipales, detectadas conforme a los ordenamientos legales, reglamentarios y administrativos aplicables;
+XX. Determinar los daños y perjuicios que afecten a las haciendas públicas del Estado y de los Municipios o al patrimonio de los Entes Públicos Estatales y Municipales y fincar a los responsables las indemnizaciones correspondientes;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Para el fincamiento de las responsabilidades resarcitorias a que se refiere el párrafo anterior, se deberá de solicitar previamente las actuaciones de los órganos internos de control, en caso de omisión injustificada de la Instancia de Control Competente para iniciar el procedimiento resarcitorio, el Órgano Superior de Fiscalización tramitará, substanciará y resolverá el procedimiento para el fincamiento de las responsabilidades resarcitorias previsto en este ordenamiento, por las conductas descritas en el Artículo 61 de esta Ley;
 
 Así como promover, y dar seguimiento, ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Capítulo Décimo Sexto de la Constitución Política del Estado de Aguascalientes y presentar las denuncias y querellas penales;
 
-XXI. Fincar las responsabilidades e imponer las sanciones correspondientes a los responsables, por el incumplimiento a sus requerimientos de información y documentación en el caso de las revisiones que haya ordenado tratándose de las situaciones excepcionales que determina esta Ley;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2015)</small>
+
+Imponer las medidas de apremio establecidas en el Capítulo IV del Título Quinto de esta Ley, en cuyo caso, cuando el Órgano Superior de Fiscalización, conozca cualquiera de las conductas contenidas en el Artículo 76 Bis de esta Ley, dará vista a la Instancia de Control Competente que corresponda con el fin de que la misma desahogue el procedimiento e imponga en su caso, la sanción que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2015)</small>
+
+Si transcurrido el plazo de 60 días hábiles contados a partir de la Instancia de Control Competente no comunica al Órgano Superior de Fiscalización, la procedencia o en su caso improcedencia de iniciar la de iniciar (sic) el procedimiento mencionado en el párrafo que antecede, el Órgano Superior de Fiscalización iniciará el procedimiento e impondrá las sanciones que en su caso procedan de conformidad por lo dispuesto en el Artículo 76 Ter de esta Ley.
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXI. Fincar las responsabilidades e imponer las medidas de apremio correspondientes a los responsables, por el incumplimiento a sus requerimientos de información y documentación en el caso de las revisiones que haya ordenado tratándose de las situaciones excepcionales que determina esta Ley;
 
 XXII. Conocer y resolver sobre el recurso de revocación que se interponga en contra de las resoluciones y sanciones que aplique;
 
@@ -431,7 +497,9 @@ XXV. Celebrar convenios con la Auditoría Superior de la Federación, con las en
 
 XXVI. Establecer las bases para la entrega-recepción de la documentación comprobatoria y justificativa de las Cuentas Públicas del Estado y Municipios;
 
-XXVII. Practicar auditorías, mediante visitas o inspecciones, solicitando información y documentación durante el desarrollo de las mismas para ser revisada en las instalaciones de las propias Entidades Fiscalizadas o en las oficinas del Órgano Superior de Fiscalización. Igualmente, solicitar información preliminar a las Entidades Fiscalizadas, para la planeación de la revisión de la Cuenta Pública o realizar visitas antes de abrir formalmente las auditorías siempre y cuando haya terminado el ejercicio fiscal;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXVII. Practicar auditorías conforme a las Normas Generales de Auditoría, mediante visitas o inspecciones, solicitando información y documentación durante el desarrollo de las mismas para ser revisada en las instalaciones de las propias Entidades Fiscalizadas o en las oficinas del Órgano Superior de Fiscalización. Igualmente, solicitar información preliminar a las Entidades Fiscalizadas, para la planeación de la revisión de la Cuenta Pública o realizar visitas antes de abrir formalmente las auditorías siempre y cuando haya terminado el ejercicio fiscal a menos de que se trate de Revisiones contemporáneas;
 
 XXVIII. Obtener durante el desarrollo de las auditorías copia de los documentos originales que tengan a la vista, mediante cotejo con sus originales. Igualmente podrá expedir certificaciones de los documentos que obren en sus archivos;
 
@@ -441,7 +509,9 @@ XXX. Fiscalizar la deuda pública en su contratación, registro, renegociación,
 
 XXXI. Requerir a las instancias de control competentes, en el ámbito de sus atribuciones, copia de todos los informes y dictámenes de las auditorías por ellos practicadas;
 
-XXXII. Solicitar la presencia de representantes de las Entidades Fiscalizadas en la fecha y lugar que se les señale, para celebrar una reunión en la que se les dé a conocer la parte que les corresponda de los resultados y, en su caso, las observaciones preliminares de las auditorías que se les practicaron conforme a lo previsto en los Artículos 25 y 26 de esta Ley;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XXXII. Solicitar la presencia de representantes de las Entidades Fiscalizadas así como de los exfuncionarios de las mismas, cuando el proceso de fiscalización, corresponda al periodo de su gestión, en la fecha y lugar que se les señale, para celebrar una reunión en la que se les dé a conocer la parte que les corresponda de los resultados y, en su caso, las observaciones de las auditorías que se les practicaron conforme a esta Ley;
 
 XXXIII. Establecer un programa anual de auditorías, señalando, de la totalidad de las Entidades Fiscalizadas, las que serán objeto de auditoría, conforme a los criterios y prioridades siguientes:
 
@@ -449,25 +519,41 @@ A) Las que tuvieron mayor número de irregularidades en el ejercicio anterior;
 
 B) Las que tienen más tiempo sin ser fiscalizadas ni auditadas;
 
-C) Las que tengan denuncias ciudadanas; y
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-D) Las demás que se determinen, ya sea por insaculación o por cualquier otro método.
+C) Las que tengan denuncias ciudadanas;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+D) Las demás que se determinen, ya sea por insaculación o por cualquier otro método; y
 
 XXXIV. Las demás que le sean conferidas por esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-Respecto de los informes trimestrales, el Órgano Superior de Fiscalización auditará los conceptos reportados en ellos como procesos concluidos. Al efecto, el Órgano Superior de Fiscalización realizará observaciones, disponiendo las entidades fiscalizables de hasta quince días hábiles para formular los comentarios que procedan.
+Sin perjuicio del principio de posterioridad, a solicitud de las Entidades Fiscalizadas, el Órgano Superior de Fiscalización podrá realizar Revisiones Contemporáneas con el fin de revisar los conceptos mencionados en los Artículos 6° y 14 de esta Ley, como procesos o períodos concluidos, así como la parte ejecutada de los procesos no concluidos.
 
-Si transcurrido el plazo que como límite señala el párrafo precedente, la entidad fiscalizable, sin causa justificada, no presenta los comentarios respectivos el Auditor Superior impondrá la medida de apremio que estime conveniente.
+Al efecto, podrá realizar observaciones a las Entidades Fiscalizadas de que se trate, quienes contarán con 10 días hábiles, contados a partir del día siguiente a aquel en que sea notificada, para realizar las aclaraciones, comprobaciones y/o solventaciones que se le requieran. Dicho plazo podrá ser ampliado por el Órgano de Fiscalización, por una única vez, por un periodo de diez días hábiles, a contar a partir del día siguiente del vencimiento del primer plazo, previa solicitud escrita fundada y justificada de las Entidades Fiscalizadas de que se trate.
+
+El Órgano Superior de Fiscalización deberá pronunciarse sobre las respuestas emitidas por las Entidades Fiscalizadas, dentro de los veinte días naturales contados a partir del día en que estas hayan respondido, por lo que en caso de que el Órgano Superior de Fiscalización no emita pronunciamiento, se tendrán por atendidas y solventadas las recomendaciones y acciones promovidas.
+
+En el supuesto de que las Entidades Fiscalizadas no presenten los elementos necesarios para la solventación de las acciones determinadas, el Órgano Superior de Fiscalización procederá a fincar el pliego de observaciones.
+
+EL Órgano Superior de Fiscalización, al concluir las revisiones materia del presente artículo, emitirá un informe de resultados de Revisiones Contemporáneas, mismo que deberá ser notificado a las Entidades Fiscalizadas y se dará vista a la Comisión, y que formará parte del Informe del Resultado de la Cuenta Pública del ejercicio de que se trate.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 26.
 
-Las observaciones a que se refiere el Artículo anterior, deberán notificarse a las entidades fiscalizables dentro de los cinco días hábiles siguientes al en que haya concluido la revisión de que se trate, con el propósito de que sus comentarios se integren al informe de resultados de la revisión de la Cuenta Pública correspondiente.
+Los resultados de la fiscalización a que se refiere el Artículo 25 inmediato anterior tendrán el carácter de definitivo y deberán incorporarse al Informe de Resultados derivado de la fiscalización de la Cuenta Pública del ejercicio de que se trate, por lo que al igual que el Informe del Resultado, los procesos o períodos revisados al amparo de Revisiones Contemporáneas, no podrán reaperturarse ni podrán volver a ser revisados.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 27.
 
-El Órgano Superior de Fiscalización, en ejercicio de sus facultades de fiscalización, podrá realizar visitas y auditorías con la finalidad de allegarse de la información necesaria para la revisión, examen y fiscalización de las Cuentas Públicas, así como por las revisiones que se ordenen por las situaciones excepcionales que marca la presente Ley.
+El Órgano Superior de Fiscalización, en ejercicio de sus facultades de fiscalización y conforme a las Normas Generales de Auditoría, podrá realizar visitas y auditorías con la finalidad de allegarse de la información necesaria para la revisión, examen y fiscalización de las Cuentas Públicas.
 
 ###### ARTÍCULO 28.
 
@@ -489,9 +575,17 @@ La información y datos que para el cumplimiento de lo previsto en los Artículo
 
 ### CAPÍTULO III. De las Visitas
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 32.
 
-Las auditorías, visitas e inspecciones que se efectúen en los términos de este Título, se practicarán por servidores públicos expresamente comisionados para tal efecto por el Órgano Superior de Fiscalización.
+Las auditorías, visitas e inspecciones que se efectúen en los términos de este Título, se practicarán de conformidad con las Normas Generales de Auditoría y por servidores públicos expresamente comisionados para tal efecto por el Órgano Superior de Fiscalización.
+
+Dichas diligencias deberán comenzar notificando el inicio correspondiente a los representantes de las Entidades Fiscalizadas, y en su caso, con la correspondiente notificación a los ex funcionarios de las Entidades Fiscalizadas, cuando el proceso de fiscalización, corresponda al período de su gestión.
+
+Para efecto de notificar a los ex funcionarios de las Entidades Fiscalizadas, al concluir su cargo público, estos deberán dar a conocer por escrito al Órgano Superior de Fiscalización un domicilio para oír y recibir notificaciones en el Estado, ya que de lo contrario, la misma se realizará en los estrados del domicilio del Órgano Superior de Fiscalización.
+
+Lo dispuesto en el párrafo anterior será aplicable para lo previsto en los artículos 41 y 67 de esta Ley.
 
 ###### ARTÍCULO 33.
 
@@ -585,17 +679,23 @@ El plazo a que se refiere la Fracción anterior, podrá ampliarse por el Órgano
 
 El incumplimiento a las obligaciones previstas en esta disposición se sancionará con una multa de cien a seiscientas veces el monto del salario mínimo general vigente en el Estado. En caso de reincidencia la multa será hasta por el doble de la impuesta en la primera ocasión.
 
-### CAPÍTULO IV. Del Contenido del Informe del Resultado, su Análisis y Etapa de Aclaración
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2015)</small>
+
+### CAPÍTULO IV. Del Contenido del Informe de Observaciones Preliminares, del Informe del Resultado, su Análisis y Etapa de Aclaración
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 41.
 
-El Órgano Superior de Fiscalización enviará a las Entidades Fiscalizadas, y de ser procedente a otras autoridades competentes, a más tardar el treinta y uno de julio el informe del resultado, las recomendaciones y acciones promovidas que correspondan en términos del Artículo 22 de esta Ley.
+El Órgano Superior de Fiscalización enviará a las Entidades Fiscalizadas y a sus ex funcionarios cuando el proceso de fiscalización corresponda al período de su gestión, y de ser procedente a otras autoridades competentes, a más tardar el treinta y uno de julio el Informe de Observaciones Preliminares, las recomendaciones y acciones promovidas que correspondan en términos del Artículo 22 de esta Ley.
 
 Las Entidades Fiscalizadas deberán presentar la información y las consideraciones que estimen pertinentes al Órgano Superior de Fiscalización para su solventación o atención dentro de un plazo de veinte días hábiles, contados a partir de la fecha en que reciban las observaciones, recomendaciones y acciones promovidas. En caso de no hacerlo, el Órgano Superior de Fiscalización podrá aplicar a los titulares de las áreas administrativas auditadas una multa de cien a seiscientas veces el monto del salario mínimo diario general vigente en el Estado, además de promover las acciones legales que correspondan. Lo anterior, no aplicará a los pliegos de observaciones y a las promociones de responsabilidad administrativa sancionatoria, las cuales se sujetarán a los procedimientos y términos que establezca la presente Ley.
 
-Las acciones promovidas a que se refiere el párrafo anterior, no serán formuladas o emitidas, cuando las Entidades Fiscalizadas aporten elementos que solventen las observaciones respectivas, situación que se hará del conocimiento de las mismas y del Congreso por escrito.
+Los ex funcionarios de las Entidades Fiscalizadas, tendrán el derecho de contestar las observaciones que formule el Órgano Superior de Fiscalización con motivo de los procesos de fiscalización que correspondan al periodo de su gestión, dentro del plazo señalado en el párrafo inmediato anterior. Para el efecto de contestar las observaciones tendrán derecho a solicitar por escrito la información que consideren pertinente a las Entidades Fiscalizadas, quienes estarán obligadas a entregar al órgano de Fiscalización Superior la información con que se cuente en sus archivos, dentro de un plazo improrrogable de diez días hábiles contados a partir del día siguiente al de la fecha de la presentación de la solicitud correspondiente. También tendrán derecho a solicitar las copias certificadas que requieran.
 
-El Órgano Superior de Fiscalización tendrá un plazo que vence el treinta de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el correspondiente Informe de Resultados, mismo que tendrá carácter público; mientras ello no suceda, el Órgano Superior de Fiscalización deberá guardar reserva de sus actuaciones e informaciones.
+Las acciones promovidas a que se refiere el segundo párrafo de este Artículo, no serán formuladas o emitidas, cuando las Entidades Fiscalizadas o sus ex funcionarios, aporten elementos que solventen las observaciones respectivas, situación que se hará del conocimiento de las mismas y del Congreso por escrito.
+
+El órgano Superior de Fiscalización tendrá un plazo que vence el treinta de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el correspondiente informe del resultado, mismo que tendrá carácter público o una vez que sea sometido al Pleno el dictamen respectivo; mientras ello no suceda, el Órgano Superior de Fiscalización deberá guardar reserva de sus actuaciones e informaciones.
 
 Sólo en el caso de que haya sido autorizada la prórroga prevista en el Artículo 15 de la presente Ley, el Órgano Superior de Fiscalización, contará con el mismo tiempo adicional para la presentación del Informe del Resultado.
 
@@ -615,17 +715,27 @@ V. En su caso, el análisis de las desviaciones presupuestales;
 
 VI. Los comentarios de los auditados;
 
-VII. Las irregularidades que se detecten en el uso y manejo de los recursos; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-VIII. Las observaciones y recomendaciones que se deriven de la revisión.
+VII. Las irregularidades que se detecten en el uso y manejo de los recursos;
 
-Para el caso de las revisiones especiales que puedan realizarse de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales de conformidad con los Artículos 6º párrafo segundo y 24 en su Fracción I de esta Ley, el Órgano Superior de Fiscalización del Estado de Aguascalientes, deberá informar a la Comisión de la Legislatura en un plazo no mayor a quince días hábiles posteriores a que concluya la revisión, sobre los resultados obtenidos de la misma.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+VIII. Las observaciones y recomendaciones que se deriven de la revisión; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+IX. En su caso, el informe del resultado de las Revisiones Contemporáneas.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
 
 El informe de resultados deberá elaborarse considerando los principios de contabilidad gubernamental y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 43.
 
-Si del ejercicio de las atribuciones de fiscalización del Órgano Superior de Fiscalización, se observa o determina alguna irregularidad que implique daño a la hacienda pública estatal o municipal o al patrimonio de las entidades fiscalizables, se deberá iniciar una etapa de aclaración en cualquier momento, previo al inicio del procedimiento resarcitorio.
+Si del ejercicio de las atribuciones de fiscalización del Órgano Superior de Fiscalización, se observa o determina alguna irregularidad que implique daño a la hacienda pública estatal o municipal o al patrimonio de las entidades fiscalizables necesariamente vinculada a un Beneficio Económico, se deberá iniciar una etapa de aclaración en cualquier momento, previo al inicio del procedimiento resarcitorio.
 
 La etapa de aclaración tiene como finalidad dar oportunidad a las entidades fiscalizables para solventar y aclarar el contenido de las observaciones o la determinación del daño y, en su caso, cubrir el monto a que ascienda y quede resarcido.
 
@@ -639,7 +749,9 @@ II. La Entidad Fiscalizable, dentro del plazo concedido, presentará los element
 
 III. Si el Órgano Superior de Fiscalización concluye que las observaciones han quedado debidamente solventadas o el daño reparado, dictará la determinación correspondiente, misma que notificará a la Entidad Fiscalizable; y
 
-IV. Si el Órgano Superior de Fiscalización concluye que las observaciones no fueron debidamente solventadas o el daño reparado, iniciará o promoverá en su caso, el procedimiento resarcitorio.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+IV. Si el Órgano Superior de Fiscalización concluye que las observaciones no fueron debidamente solventadas o el daño reparado, promoverá en su caso, el procedimiento resarcitorio en los términos establecidos en la fracción XX del Artículo 24 de esta Ley.
 
 ### CAPÍTULO V. De la Conclusión de la Revisión de la Cuenta Pública
 
@@ -677,9 +789,11 @@ El Auditor Superior, con sujeción a los convenios celebrados, acordará la form
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 50.
 
-Sin perjuicio del principio de posterioridad, cuando se presenten denuncias debidamente fundadas con documentos o evidencias, o que por otras circunstancias pueda acreditarse el presunto manejo, aplicación, custodia irregular o desvió de recursos públicos federales, estatales y municipales, el Órgano Superior de Fiscalización procederá a requerir a las Entidades Fiscalizadas, para que rindan un informe de situación excepcional durante el ejercicio fiscal en curso sobre los conceptos específicos, temas o situaciones vinculados de manera directa a las denuncias presentadas.
+Sin perjuicio del principio de posterioridad, cuando se presenten denuncias en las que se acredite con los medios de prueba reconocidos por las disposiciones legales aplicables, los actos contemplados en el Artículo 52 de la Ley, el Órgano Superior de Fiscalización procederá a requerir a las Entidades Fiscalizadas, para que rindan un informe de situación excepcional durante el ejercicio fiscal en curso sobre los conceptos específicos, temas o situaciones vinculados de manera directa a las denuncias presentadas.
 
 El Órgano Superior de Fiscalización, deberá acompañar al requerimiento formulado a las Entidades Fiscalizadas, los documentos o evidencias presentados por los denunciantes.
 
@@ -693,13 +807,15 @@ Sin perjuicio de lo previsto en este Artículo, el Órgano Superior de Fiscaliza
 
 Los resultados del informe de situación excepcional y, en su caso, de las sanciones impuestas o promovidas, deberán incluirse en el informe que se envíe al Congreso.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 52.
 
-Para los efectos de esta Ley, se entenderá por situaciones excepcionales aquéllas en las cuales, de la denuncia que al efecto se presente, se deduzca alguna de las circunstancias siguientes:
+Para los efectos de esta Ley, se entenderá por situaciones excepcionales aquéllas en las cuales, de la denuncia que al efecto se presente, se acredite alguna de las circunstancias siguientes:
 
-I. Un daño patrimonial que afecte a las haciendas públicas estatal (sic) o municipales o al patrimonio de los Entes Públicos Estatales y Municipales, por un monto que resulte superior a seis mil veces el monto del salario mínimo general vigente en el Estado;
+I. Un daño patrimonial provocado por las conductas previstas en el Artículo 61 de esta Ley, que afecte a las haciendas públicas estatal o municipal o al patrimonio de los Entes Públicos Estatales y Municipales, por un monto que resulte superior a seis mil veces el monto del salario mínimo general vigente en el Estado;
 
-II. Posibles actos de corrupción;
+II. La presunta comisión de actos que actualicen tipos penales protectores de la Administración Pública en los términos de la legislación penal vigente y aplicable;
 
 III. La afectación de áreas estratégicas o prioritarias de la economía;
 
@@ -707,7 +823,7 @@ IV. El riesgo de que se paralice la prestación de servicios públicos esenciale
 
 V. El desabasto de productos de primera necesidad; o
 
-VI. Desvío flagrante de recursos hacia fines distintos a los que están autorizados.
+VI. Desvío flagrante de recursos en los términos del inciso A) de la fracción I del Artículo 61 de esta Ley.
 
 ###### ARTÍCULO 53.
 
@@ -753,13 +869,17 @@ Para imponer la multa que corresponda, el Órgano Superior de Fiscalización deb
 
 Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por el Órgano Superior de Fiscalización ni del fincamiento de otras responsabilidades.
 
-## TÍTULO QUINTO. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2015)</small>
+
+## TÍTULO QUINTO. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS, DEL FINCAMIENTO DE RESPONSABILIDADES Y DE LA IMPOSICIÓN DE MEDIDAS DE APREMIO
 
 ### CAPÍTULO I. De la Determinación de Daños y Perjuicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 60.
 
-Si de la revisión y Fiscalización Superior de las Cuentas Públicas, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños o perjuicios a las haciendas públicas estatal (sic) y municipales o al patrimonio de los Entes Públicos Estatales y Municipales, el Órgano Superior de Fiscalización procederá a:
+Si de la revisión y Fiscalización Superior de las Cuentas Públicas, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños o perjuicios a las haciendas públicas estatal y municipal o al patrimonio de los Entes Públicos Estatales y Municipales necesariamente vinculados con un Beneficio Económico, el Órgano Superior de Fiscalización procederá a:
 
 I. Determinar los daños y perjuicios correspondientes y las responsabilidades resarcitorias por medio de indemnizaciones y sanciones en los términos de esta Ley;
 
@@ -767,59 +887,49 @@ II. Promover ante las autoridades competentes el fincamiento de procedimientos r
 
 III. Promover las acciones de responsabilidad a que se refiere el Capítulo Décimo Sexto de la Constitución Política del Estado de Aguascalientes;
 
-IV. Presentar las denuncias y querellas penales, a que haya lugar; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-V. Coadyuvar con el Ministerio Público en los procesos penales investigatorios y judiciales correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión del Órgano Superior de Fiscalización, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
+IV. Presentar las denuncias y querellas penales, a que haya lugar;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+V. Coadyuvar con el Ministerio Público en los procesos penales investigatorios y judiciales correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión del Órgano Superior de Fiscalización, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+VI. Fincar las responsabilidades resarcitorias en caso de omisión de actuación de la Instancia de Control Competente.
 
 ### CAPÍTULO II. Del Fincamiento de Responsabilidades Resarcitorias
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 61.
 
 Para los efectos de esta Ley incurren en responsabilidad con motivo de la revisión a la Cuenta Pública:
 
-I. Los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen los siguientes daños y perjuicios a las haciendas públicas estatal (sic) y municipales o al patrimonio de los Entes Públicos Estatales y Municipales que estén implicados en:
+I. Los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen los siguientes daños y perjuicios a las haciendas públicas estatal y municipal o al patrimonio de los Entes Públicos Estatales y Municipales necesariamente vinculados con un Beneficio Económico que estén implicados en:
 
-A) Desvío de recursos para beneficio de él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+A) Desvío de recursos para beneficio de él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte; y
 
-B) Adquirir bienes o servicios con un precio superior al valor real de mercado de los mismos;
+B) Adquirir bienes o servicios con un precio superior al valor real de mercado de los mismos.
 
-C) Los demás supuestos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-II. Los servidores públicos de las Entidades Fiscalizadas que no rindan o dejen de rendir sus informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por el Órgano Superior de Fiscalización, y en su caso, que no atiendan de manera justificada las acciones promovidas de conformidad con el Artículo 22 de esta Ley;
-
-III. Los servidores públicos del Órgano Superior de Fiscalización, cuando al revisar las Cuentas Públicas no formulen las observaciones sobre las situaciones irregulares que detecten o debieron detectar;
-
-IV. Las Entidades Fiscalizadas que no remitan la información solicitada por el Órgano Superior de Fiscalización, con motivo de la revisión, examen y fiscalización de las Cuentas Públicas;
-
-V. Las personas físicas o morales que:
-
-A) Omitan presentar los informes, datos o documentos que legalmente exija el Órgano Superior de Fiscalización o lo hagan en forma incompleta o de manera extemporánea;
-
-B) Obstaculicen o impidan de cualquier forma el ejercicio de las facultades de revisión y fiscalización del Órgano Superior de Fiscalización.
-
-VI. Los Servidores Públicos que por causas imputables de acción u omisión incumplan los Planes aprobados en términos de esta Ley;
-
-Las responsabilidades previstas en el presente Artículo serán sancionadas de conformidad con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 62.
 
 Las sanciones por responsabilidades a las que se refiere el Artículo anterior serán:
 
-I. Apercibimiento;
-
-II. Amonestación por escrito;
-
-III. Multas de cien a seiscientas veces el monto del salario mínimo diario general vigente en el Estado;
-
-IV. Restitución de los daños y perjuicios causados a la Hacienda Pública.
+I. Restitución de los daños y perjuicios causados a la Hacienda Pública.
 
 ###### ARTÍCULO 63.
 
 Las responsabilidades que conforme a esta Ley se finquen, tienen por objeto resarcir al Estado, Municipios y demás Entidades Fiscalizadas, el monto de los daños y perjuicios estimables en dinero que se hayan causado, respectivamente, a sus haciendas públicas y a su patrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 64.
 
-Las responsabilidades resarcitorias para obtener las indemnizaciones y sanciones pecuniarias correspondientes a que se refiere este Capítulo se constituirán en primer término a los servidores públicos o a los particulares, personas físicas o morales que directamente hayan ejecutado los actos o incurran en las omisiones que las hayan originado y, en ese orden al servidor público jerárquicamente inmediato superior que por la índole de sus funciones, haya omitido la revisión o autorizado tales actos, por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+Las responsabilidades resarcitorias para obtener las indemnizaciones y sanciones pecuniarias correspondientes a que se refiere este Capítulo se constituirán a los servidores públicos o a los particulares, personas físicas o morales que directamente hayan ejecutado los actos o incurran en las omisiones que las hayan originado por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
 
 Serán responsables solidarios con los servidores públicos, los particulares, persona física o moral, en los casos en que hayan participado y originado una responsabilidad resarcitoria.
 
@@ -833,21 +943,53 @@ Las responsabilidades que se finquen a los servidores públicos de los Poderes d
 
 Las sanciones que determine el Órgano Superior de Fiscalización, deberán ser acordes al daño y perjuicio que hubiere sufrido el erario, de manera que exista resarcimiento al Estado, Municipios o sus entes públicos, según se trate. En estas se incluirá la indemnización y multas que podrán ascender hasta dos tantos del lucro obtenido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 67.
 
-El Congreso con base en las disposiciones de esta Ley, formulará y notificará a las Entidades Fiscalizadas los pliegos de observaciones derivados de la revisión y Fiscalización Superior y aprobación de las Cuentas Públicas, en los que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato.
+El Órgano Superior de Fiscalización con base en las disposiciones de esta Ley, formulará y notificará a las Entidades Fiscalizadas y a los ex funcionarios de las mismas cuando el proceso de revisión corresponda al período de su gestión, los pliegos de observaciones derivados de la revisión y Fiscalización Superior de las Cuentas Públicas, en los que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato.
 
 En los casos en que la irregularidad no exceda de cien veces el monto del salario mínimo diario general vigente en el Estado en la fecha en que se cometa la infracción, no se formulará el pliego de observaciones respectivo, sin perjuicio de las acciones que se promuevan ante las instancias de control competentes para el fincamiento de responsabilidades administrativas sancionatorias.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTÍCULO 68.
 
-Las Entidades Fiscalizadas, deberán solventar los pliegos de observaciones como lo establece la presente Ley, ante el Órgano Superior de Fiscalización, el cual notificará de ello al Congreso.
+Las Entidades Fiscalizadas y sus ex funcionarios en su caso, deberán solventar los pliegos de observaciones como lo establece la presente Ley, ante el Órgano Superior de Fiscalización, el cual notificará de ello al Congreso.
 
-Cuando los pliegos de observaciones no sean atendidos dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio del Órgano Superior de Fiscalización para solventar las observaciones, iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente capítulo, y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta Ley.
+Cuando los pliegos de observaciones no sean atendidos dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio del Órgano Superior de Fiscalización para solventar las observaciones, solicitará a la Instancia de Control Competente, el inicio del procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente capítulo.
 
-El Órgano Superior de Fiscalización solicitará en los pliegos de observaciones, la intervención de las instancias de control competentes, para que, en el ámbito de su competencia, investiguen e inicien, en su caso, el procedimiento sancionatorio o resarcitorio por los actos u omisiones de los servidores públicos de las Entidades Fiscalizadas de los cuales pudieran desprenderse responsabilidades administrativas.
+De la misma manera, el Órgano Superior de Fiscalización solicitará en los pliegos de observaciones, la intervención de las instancias de control competentes, para que, en el ámbito de su competencia, investiguen e inicien el procedimiento sancionatorio por los actos u omisiones de los servidores públicos de las Entidades Fiscalizadas de los cuales pudieran desprenderse responsabilidades administrativas.
 
-Una vez que las instancias de control competentes cuenten con la información de las auditorías practicadas por el Órgano Superior de Fiscalización, deberán comunicar a éste, dentro de los treinta días hábiles siguientes, sobre la procedencia de iniciar el procedimiento administrativo de responsabilidades.
+Una vez que las instancias de control competentes cuenten con la información de las auditorías practicadas por el Órgano Superior de Fiscalización, deberán comunicar a éste, dentro de los treinta días hábiles siguientes, sobre el inicio de las investigaciones, o bien sobre la procedencia o improcedencia de iniciar el procedimiento resarcitorio o administrativo de responsabilidades.
+
+Las decisiones de la Instancia de Control Competente podrán versar sobre lo siguiente:
+
+I. El inicio de las investigaciones para determinar la procedencia o improcedencia de procedimientos resarcitorio (sic).
+
+II. La procedencia o improcedencia de iniciar el procedimiento resarcitorio derivado de las causales contempladas en la Ley.
+
+III. La imposición o absolución de responsabilidades resarcitorias derivadas de las causales contempladas en la Ley.
+
+IV. Los demás supuestos contemplados en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes.
+
+Las decisiones de la Instancia de Control Competente deberán justificarse en los motivos y fundamentos adecuados para cada caso, y las mismas serán definitivas tanto para las Entidades Fiscalizadas como para el Órgano Superior de Fiscalización.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+ARTÍCULO 68 BIS.- La Contraloría interna del Congreso, procederá en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, a instaurar los procedimientos administrativos disciplinarios, aplicando las sanciones correspondientes, cuando los servidores públicos del Órgano Superior de Fiscalización, al revisar las Cuentas Públicas:
+
+I. No formulen las observaciones sobre las situaciones irregulares que detecten o debieron detectar;
+
+II. No guarden secreto y revelen los hechos, datos o circunstancias de que tengan conocimiento en el desempeño de su trabajo;
+
+III. Desempeñen su trabajo con notoria negligencia;
+
+IV. Incumplan las Normas Generales de Auditoría Gubernamental; y
+
+V. Realicen observaciones e rentes de motivos y fundamentos.
+
+Las conductas contenidas en este Artículo, serán sancionadas en los términos del Artículo 80 de la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes.
 
 ### CAPÍTULO III. Del Procedimiento para el Fincamiento de Responsabilidades Resarcitorias
 
@@ -915,11 +1057,47 @@ El Órgano Superior de Fiscalización llevará un registro actualizado de los se
 
 El registro al que se hace referencia en el párrafo anterior será actualizado cada tres meses.
 
-### CAPÍTULO IV. De la Prescripción y la Caducidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2015)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. Medidas de Apremio
 
-> <small>(REFORMADO PRIMER PÁRRAFO. P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+ARTÍCULO 76 BIS.- De conformidad con el Artículo 9 de esta Ley, el Órgano Superior de Fiscalización con el objeto de hacer cumplir sus determinaciones y asegurar la continuidad de sus actuaciones, podrá imponer sanciones al presentarse los siguientes supuestos, lo anterior sin perjuicio de las demás consecuencias legales a que haya lugar:
+
+I. Cuando los servidores públicos de las Entidades Fiscalizadas no rindan o dejen de rendir sus informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por el Órgano Superior de Fiscalización, y en su caso, no atiendan de manera justificada las acciones promovidas de conformidad con el Artículo 22 de esta Ley;
+
+II. Cuando las Entidades Fiscalizadas no remitan la información solicitada por el Órgano Superior de Fiscalización, o por los ex funcionarios de las Entidades Fiscalizadas con motivo de revisión, examen y fiscalización de las Cuentas Públicas;
+
+III. Cuando las personas físicas o morales:
+
+A) Omitan presentar los informes, datos o documentos que legalmente exija el Órgano Superior de Fiscalización o lo hagan en forma incompleta o de manera extemporánea;
+
+B) Obstaculicen o impidan de cualquier forma el ejercicio de las facultades de revisión y fiscalización del Órgano Superior de Fiscalización.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+ARTÍCULO 76 TER.- Las sanciones por las conductas a las que se refiere el Artículo anterior serán:
+
+I. Apercibimiento;
+
+II. Amonestación por escrito;
+
+III. Multas de cien a seiscientas veces el monto del salario mínimo diario general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+ARTÍCULO 76 QUATER.- Cuando el Órgano Superior de Fiscalización, advierta cualquiera de las conductas contenidas en el Artículo 76 Bis de esta Ley, dará vista al órgano de control que corresponda con el fin de que dicho órgano de control desahogue el procedimiento e imponga en su caso, la sanción que corresponda.
+
+En caso de que sin causa justificada, el órgano de control correspondiente no inicie el procedimiento mencionado en el párrafo que antecede, el Órgano Superior de Fiscalización iniciará el procedimiento e impondrá las sanciones que en su caso procedan de acuerdo con el Artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+ARTÍCULO 76 QUINQUIES.- Para la aplicación de las sanciones mencionadas en el presente capítulo se observará el procedimiento previsto en los artículos 69 a 76 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+### CAPÍTULO V. De la Prescripción y la Caducidad
 
 ###### ARTÍCULO 77.
 
@@ -939,7 +1117,9 @@ Las facultades del Congreso del Estado para la revisión del Informe de Resultad
 
 ## TÍTULO SEXTO. DEL RECURSO DE REVOCACIÓN
 
-### CAPÍTULO ÚNICO. De la Comisión
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO. P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1053,7 +1233,7 @@ Los interesados en todo momento durante el procedimiento a que se refiere el Art
 
 ## TÍTULO SÉPTIMO. RELACIONES CON EL CONGRESO
 
-### CAPÍTULO I. Integración y Organización
+### CAPÍTULO ÚNICO. De la Comisión
 
 ###### ARTÍCULO 91.
 
@@ -1075,29 +1255,43 @@ IV. Conocer el programa anual de actividades que para el debido cumplimiento de 
 
 V. Citar, por conducto de su Presidente, al Auditor Superior para conocer en lo específico el Informe del Resultado de la revisión de las Cuentas Públicas;
 
-VI. Evaluar el desempeño del Órgano Superior de Fiscalización respecto al cumplimiento de su mandato, atribuciones y ejecución de las auditorías y proveer lo necesario para garantizar su autonomía técnica y de gestión, así como el respeto a su personalidad jurídica y patrimonio propio.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-La evaluación del desempeño tendrá por objeto conocer si el Órgano Superior de Fiscalización cumple con las atribuciones que conforme a la Constitución Política del Estado de Aguascalientes, a la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes y la presente Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la Gestión Financiera y el desempeño de las Entidades Fiscalizadas, en los resultados de los programas y proyectos autorizados en el Presupuesto, y en la administración de los recursos públicos que ejerzan;
+VI. Evaluar al Órgano Superior de Fiscalización en los siguientes aspectos:
+
+a). El cumplimiento de los objetivos y metas de los programas, así como fiscalizar, por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo del mismo;
+
+b). El cumplimiento de las funciones que conforme a la Constitución del Estado, esta Ley y demás ordenamientos le corresponden; y proveer lo necesario para garantizar su autonomía técnica y de gestión; y
+
+c). Vigilar que el funcionamiento del Órgano Superior de Fiscalización y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta Ley, y demás disposiciones aplicables, dando la intervención que corresponda a la contraloría Interna del Congreso, para que en su caso aplique las sanciones a que haya lugar.
 
 VII. Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor Superior;
 
 VIII. Dictaminar acerca de la solicitud de licencia o remoción del Auditor Superior;
 
-IX. Proponer al Congreso al Titular de la Unidad y los recursos materiales, humanos y presupuestarios con los que debe contar la propia Unidad;
+IX. (DEROGADA, P.O. 23 DE MARZO DE 2015)
 
-X. Proponer al Congreso el Reglamento Interior de la Unidad;
+X. (DEROGADA, P.O. 23 DE MARZO DE 2015)
 
-XI. Aprobar el programa de actividades de la Unidad y requerirle todo tipo de información relativa a sus funciones; de igual forma, aprobar políticas, lineamientos y manuales que la Unidad requiera para el ejercicio de sus funciones;
+XI. (DEROGADA, P.O. 23 DE MARZO DE 2015)
 
-XII. Ordenar a la Unidad la práctica de auditorías al Órgano Superior de Fiscalización;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XII. Ordenar la práctica de auditorías al Órgano Superior de Fiscalización;
 
 XIII. Elaborar los formatos conforme a los cuales el Órgano Superior de Fiscalización deberá presentar el informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas;
 
-XIV. Aprobar los indicadores que utilizará la Unidad para la evaluación del desempeño del Órgano Superior de Fiscalización y, en su caso, los elementos metodológicos que sean necesarios para dicho efecto;
+XIV. (DEROGADA, P.O. 23 DE MARZO DE 2015)
 
 XV. Revisar el proyecto de Presupuesto Anual del Órgano Superior de Fiscalización que le envíe el Auditor Superior y remitirlo al Congreso para los efectos legales;
 
-XVI. Las demás que establezca la presente Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XVI. Recibir las solicitudes de Revisiones Contemporáneas y en su caso instruir al Órgano Superior de Fiscalización para su ejecución, tomando en cuenta la capacidad operativa del Órgano Superior de Fiscalización.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XVII. Las demás que establezca la presente Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 93.
 
@@ -1105,7 +1299,7 @@ La Comisión presentará directamente al Órgano Superior de Fiscalización, un 
 
 ## TÍTULO OCTAVO. ORGANIZACIÓN DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN
 
-### CAPÍTULO II. De la Unidad de Evaluación y Control del Órgano Superior de Fiscalización
+### CAPÍTULO I. Integración y Organización
 
 ###### ARTÍCULO 94.
 
@@ -1195,7 +1389,9 @@ XVIII. Solventar o dar por concluidas las observaciones, recomendaciones y accio
 
 XIX. Concertar y celebrar convenios de coordinación o colaboración con los Poderes del Estado, los Gobiernos municipales, la Auditoría Superior de la Federación, las entidades de Fiscalización Superior de las entidades federativas, con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de su facultad fiscalizadora, así como con los organismos nacionales e internacionales que agrupen a entidades de Fiscalización Superior homólogas, con éstas directamente, con el sector privado, con colegios de profesionales, instituciones educativas;
 
-XX. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, a más tardar el 28 de febrero del año siguiente al que corresponda su ejercicio, mismo que será revisado por conducto de la Comisión y de la Unidad en los términos y plazos establecidos en esta Ley;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+XX. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, a más tardar el 28 de febrero del año siguiente al que corresponda su ejercicio, mismo que será revisado por conducto de la Comisión en los términos y plazos establecidos en esta Ley;
 
 XXI. Solicitar ante las autoridades competentes el cobro de las multas y sanciones resarcitorias que se impongan en los términos de esta Ley, así como solicitar la aplicación del embargo precautorio en bienes de los presuntos responsables;
 
@@ -1355,81 +1551,49 @@ Todos los servidores públicos del Órgano Superior de Fiscalización serán con
 
 La relación jurídica de trabajo se entiende establecida entre el Órgano Superior de Fiscalización y los trabajadores a su servicio para todos los efectos legales.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2015)</small>
+
+### CAPÍTULO II. De la Evaluación y Control del Órgano Superior de Fiscalización
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 114.
 
 El Auditor Superior, los directores y los demás servidores públicos del Órgano Superior de Fiscalización en el desempeño de sus funciones, se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y a las demás disposiciones legales aplicables.
 
+La Comisión en caso de considerarlo necesario podrá constituir un grupo de trabajo con conocimiento en la materia para verificar que el Órgano Superior de Fiscalización dio cumplimiento al programa anual de actividades y al programa anual de auditorías, así como la aplicación de su presupuesto aprobado.
+
 ###### ARTÍCULO 115.
 
-Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones existirá la Unidad, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos del Órgano Superior de Fiscalización, la cual formará parte de la estructura de la Comisión.
-
-La Unidad podrá aplicar, en su caso, las medidas disciplinarias y sanciones administrativas previstas en el marco jurídico y proporcionar apoyo técnico a la Comisión en la evaluación del desempeño del Órgano Superior de Fiscalización.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 116.
 
-La Unidad tendrá las siguientes atribuciones:
-
-I. Vigilar que los servidores públicos del Órgano Superior de Fiscalización se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
-
-II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores del Órgano Superior de Fiscalización, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
-
-III. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte del Auditor Superior, directores y demás servidores públicos del Órgano Superior de Fiscalización, iniciar investigaciones y, en su caso, con la aprobación de la Comisión, fincar las responsabilidades a que hubiere lugar e imponer las sanciones que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
-
-IV. Coadyuvar con la Contraloría Interna del Congreso para resolver el recurso de revocación que interpongan los servidores públicos sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
-
-V. (DEROGADA, P.O. 2 DE ENERO DE 2012)
-
-VI. Participar en los actos de entrega recepción de los servidores públicos de mando superior del Órgano Superior de Fiscalización;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
-
-VII. Coadyuvar con la Contraloría Interna del Congreso en la presentación de denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos del Órgano Superior de Fiscalización;
-
-VIII. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe del Resultado y demás documentos que le envíe el Órgano Superior de Fiscalización;
-
-IX. Proponer a la Comisión los sistemas de evaluación del desempeño de la propia Unidad y del Órgano Superior de Fiscalización, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
-
-X. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones; y
-
-XI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
-
-Las Entidades Fiscalizadas tendrán la facultad de formular queja ante la Unidad sobre los actos del Auditor Superior que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 117.
 
-El coordinador de la Unidad será propuesto por la propia Comisión y designado por el Congreso, mediante el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva, debiendo cumplir los requisitos que la Constitución Política del Estado de Aguascalientes y esta Ley establece para el Auditor Superior.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 118.
 
-El coordinador de la Unidad será responsable administrativamente ante el Congreso, al cual deberá rendir un informe anual de su gestión, con independencia de que pueda ser citado extraordinariamente por éste, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 119.
 
-Son atribuciones del coordinador de la Unidad:
-
-I. Planear y programar auditorías a las diversas áreas que integran el Órgano Superior de Fiscalización;
-
-II. Requerir a las unidades administrativas del Órgano Superior de Fiscalización la información necesaria para cumplir con sus atribuciones;
-
-III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad; y
-
-IV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 120.
 
-Para el ejercicio de las atribuciones que tiene conferidas la Unidad, contará con los servidores públicos y los recursos económicos que, a propuesta de la Comisión, apruebe el Congreso y se determinen en el presupuesto del mismo.
-
-El Reglamento Interior de la Unidad que expida el Congreso establecerá la competencia de los servidores públicos a los que se alude en el párrafo anterior.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ###### ARTÍCULO 121.
 
-Los servidores públicos de la Unidad deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento Interior, preferentemente en materias de fiscalización, evaluación del desempeño y control.
+(DEROGADO, P.O. 23 DE MARZO DE 2015)
 
 ## TÍTULO NOVENO. MECANISMOS DE PARTICIPACIÓN CIUDADANA
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 122.
 
@@ -1438,6 +1602,280 @@ La Comisión recibirá peticiones, solicitudes y denuncias fundadas y motivadas 
 ###### ARTÍCULO 123.
 
 La Comisión recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce el Órgano Superior de Fiscalización a efecto de participar, aportar y contribuir a mejorar el funcionamiento de la revisión de la Cuenta Pública.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2015)</small>
+
+## TÍTULO DÉCIMO. NORMAS GENERALES DE AUDITORÍA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2015)</small>
+
+### CAPÍTULO I. De la Auditoría
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 124.
+
+Los procedimientos de auditoría son los métodos prácticos de investigación y prueba que el auditor utiliza para respaldar los resultados de las auditorías y las respectivas recomendaciones, así como el informe sobre la razonabilidad de la información reportada por las Entidades Fiscalizadas; tendrán por objeto proporcionar al auditor los elementos de juicio y de evidencia suficiente y adecuada para poder emitir una opinión objetiva y profesional; así como verificar la gestión pública, la revisión y examen de las operaciones, mejorar las operaciones y actividades de las Entidades Fiscalizadas con base en la identificación de hallazgos, la formulación de conclusiones y la presentación de recomendaciones; su ejecución, parte de las Normas Generales de Auditoría, que orienten y sustenten los trabajos de fiscalización de las operaciones y acciones ejecutadas por las Entidades Fiscalizadas.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 125.
+
+Los procedimientos de auditoría se regularán por las reglas siguientes:
+
+I. En la fiscalización de los recursos públicos se verificará la aplicación de la Ley General de Contabilidad Gubernamental;
+
+II. Todo acto de auditoría debe ser motivado, fundamentado y emitido por autoridad competente;
+
+III. Presunción de probidad de los funcionarios y servidores públicos, así como de terceras personas relacionadas con las operaciones y transacciones de las Entidades Fiscalizadas, salvo que haya evidencia formal en contrario.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 126.
+
+Corresponden al auditor las siguientes atribuciones:
+
+I. Realizar auditorías, visitas, inspecciones, evaluaciones y diligencias para las cuales sea comisionado, sujetándose a la legislación y normatividad aplicable;
+
+II. Levantar actas circunstanciadas, en presencia de dos testigos;
+
+III. Investigar actos u omisiones que impliquen alguna irregularidad;
+
+IV. Revisar y evaluar información y documentación en la práctica de auditorías, visitas e inspecciones, para verificar el cumplimiento de parte de las Entidades Fiscalizadas del marco legal y normativo conforme al objetivo de la auditoría;
+
+V. Recabar y elaborar los papeles de trabajo correspondientes a cada auditoría;
+
+VI. Elaborar cédulas de observaciones;
+
+VII. Elaborar un informe de auditoría;
+
+VIII. Integrar, organizar, clasificar, archivar y salvaguardar, de acuerdo a las disposiciones aplicables, los expedientes de las auditorías, con los papeles de trabajo, cédulas de observaciones y la documentación que se derive de las mismas;
+
+IX. Requerir y recibir de las Entidades Fiscalizadas y de los terceros que celebren operaciones con aquellos, la información, documentación y aclaraciones que sean necesarias para:
+
+a) La etapa de planeación de las auditorías, visitas e inspecciones, evaluaciones y diligencias; y
+
+b) La ejecución de las auditorías, visitas e inspecciones evaluaciones y diligencias;
+
+XI (SIC). Durante el desarrollo de las auditorías, visitas e inspecciones, evaluaciones y diligencias; obtener, para los fines legales que procedan copias certificadas y realizar cotejos de los documentos originales que tengan a la vista;
+
+XII. Recabar, integrar y presentar, la documentación necesaria para ejercitar las acciones legales que procedan como resultado de las observaciones que se detecten de las auditorías, visitas e inspecciones evaluaciones y diligencias que practiquen;
+
+XIII. Certificar y cotejar, la documentación e información que se relacione con los trabajos de fiscalización;
+
+XIV. Guardar estricta reserva y confidencialidad de los asuntos de su conocimiento con motivo de la función que ejercen;
+
+XV. Elaborar los dictámenes para la formulación de pliegos de observaciones e integrar los expedientes respectivos para tal fin; y
+
+XVI. Las demás que otorguen la Ley y la normatividad aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2015)</small>
+
+### CAPÍTULO II. De las Normas Generales de Auditoría
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 127.
+
+El auditor al planear y ejecutar auditorías y preparar informes, deberá observar estricta y cuidadosamente las normas de orden público y observancia obligatoria aplicables, así como las Normas Generales de Auditoría; conduciéndose con imparcialidad y objetividad.
+
+Las Normas Generales de Auditoría Gubernamental se clasifican en:
+
+I. Personales, que establecen los requisitos exigidos para que los auditores en la práctica de auditorías y preparación de informes, ejerzan sus atribuciones y funciones con capacidad profesional, independencia, objetividad, cuidado y diligencia profesional;
+
+II. De ejecución del trabajo, que establecen los criterios generales que el auditor debe seguir para dirigir y llevar a cabo la fiscalización para alcanzar resultados objetivos, imparciales y concretos que constituyen la fuente principal del contenido de sus opiniones o informes; estas normas regulan la planeación, estudio y evaluación el control interno, la obtención de evidencia suficiente y adecuada, la elaboración de papeles de trabajo y la supervisión del trabajo; así como el aseguramiento de la calidad;
+
+III. De preparación de informes de auditoría, que regulan los requisitos para la elaboración y presentación de los resultados de la fiscalización, valoración del trabajo desarrollado y sustentan las conclusiones.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 128.
+
+El auditor debe mantenerse permanentemente actualizado en materia de normas, procedimientos y técnicas aplicables a auditoría y tiene la obligación de poseer los conocimientos y habilidades que se requieran para llevar a cabo la auditoria, así como, la experiencia profesional y madurez de juicio; además es necesario que el auditor mantenga la actualización de sus conocimientos en aspectos técnicos, contables, administrativos, financieros y de normatividad gubernamental.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 129.
+
+El auditor en el desarrollo de su trabajo debe estar libre de impedimentos e influencias de terceros que comprometan su independencia y que garantice la fiscalización y credibilidad de sus resultados; por lo que deberá:
+
+I. Superar cualquier obstáculo que enfrente en la aplicación de técnicas y procedimientos de auditoría;
+
+II. Abstenerse de involucrarse en intereses económicos o de especie con las Entidades Fiscalizadas y servidores públicos que audite;
+
+III. Abstenerse de intervenir, en los casos de que existan hechos, situaciones o relaciones que impidan su independencia y/o vulneren su imparcialidad, o bien, concurran circunstancias que influyan sobre su juicio, o en aquellos casos en que pueda existir duda razonable sobre su independencia y objetividad; debiendo excusarse cuando ocurra impedimento personal para ejercer sus funciones de manera imparcial; y
+
+IV. No infringir ninguno de los supuestos previstos en la Ley de Responsabilidades de los Servidores Públicos.
+
+Cuando el auditor se encuentre en alguno de los supuestos que señala esta fracción, se excusará y lo comunicará a su superior jerárquico, quien determinará lo conducente dentro de los tres días hábiles siguientes.
+
+Contra las determinaciones en materia de impedimentos, excusas y recusaciones no procederá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 130.
+
+El auditor debe planear y desempeñar su trabajo con una actitud de escepticismo profesional para obtener evidencia suficiente y adecuada sobre si la información del asunto en revisión está libre de errores.
+
+Una actitud de escepticismo profesional significa que el auditor hace una evaluación crítica, con una actitud crítica, de la validez de la evidencia obtenida y está alerta a evidencia que contradiga o ponga en duda la confiabilidad de los documentos o confirmaciones de la parte responsable.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 131.
+
+El auditor debe conservar el adecuado criterio en las auditorías que practique, ejerciendo al máximo sus conocimientos, experiencia y capacidad profesional, garantizando en forma clara y transparente el alcance y objetivos de la fiscalización.
+
+Durante los trabajos de auditoría, el auditor, deberá identificar medios de control preventivo y de reducción de riesgos, daños o desperdicios de recursos oferten (sic) la oportunidad, suficiencia, utilidad y confiabilidad de la información financiera y de gestión, así como aumentar la eficiencia en el uso de los recursos.
+
+El auditor debe actuar con dedicación, honestidad y calidad profesional, desempeñando la función encomendada con la capacidad, habilidad profesional, minuciosidad, esmero, buena fe e integridad; verificando que los trabajos de auditoría e informes se realicen de conformidad con:
+
+I. El adecuado empleo de metodología, pruebas, procedimientos y alcance de la fiscalización, garantizando la seguridad razonable en el cumplimiento de los objetivos de la auditoría;
+
+II. La debida fundamentación y motivación de los hallazgos y conclusiones que se presenten en los informes, así como con su debido sustento en la evidencia suficiente y adecuada;
+
+III. La objetiva validación de la evidencia obtenida relacionada con los hallazgos y conclusiones;
+
+IV. La idónea, oportuna y constante supervisión de los trabajos de auditoría; y
+
+V. El sustento profesional y objetivo de los informes de auditoría, absteniéndose de incurrir en juicios de valor.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 132.
+
+El auditor está obligado a guardar la confidencialidad de la información que obtenga acerca del sujeto fiscalizado durante el curso de las auditorías; lo que implica abstenerse de divulgar la información obtenida y de utilizarla para su beneficio personal o de terceros; a excepción de requerimiento fundado y motivado de autoridad competente.
+
+La confidencialidad se conserva cuando se intercambie información con las instancias de supervisión del trabajo de auditoría.
+
+La entidad de fiscalización y el auditor, en ningún caso, deben divulgar información de sus papeles de trabajo, a excepción de ser requerida por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 133.
+
+De manera previa a la ejecución de la auditoría, el auditor debe planificar el desarrollo y práctica de los trabajos de auditoría, a fin de establecer sus objetivos, alcances, procedimientos, recursos, tiempos y oportunidad en la integración del programa de trabajo, asegurando la calidad y eficacia de la auditoría a realizar.
+
+Asimismo, deberá cerciorarse de la existencia de libros blancos, ya que en caso de existir, estos serán la fuente principal de consulta, y su contenido, salvo prueba en contrario, se presumirá verídica (sic). Por tal motivo, al llevar a cabo el Programa Anual de Auditoría y la planeación de la auditoría, se deberán tomar en cuenta los libros blancos que hayan sido elaborados conforme a la normatividad aplicable, como elemento probatorio de fiscalización y rendición de cuentas.
+
+Previamente a la ejecución de la auditoría, el auditor debe realizar una estrategia de auditoría para definir objetivos, alcances, procedimientos, recursos, tiempo y oportunidad de las pruebas, precisándolos en sus programas de trabajo; para tal efecto, deberá preparar un plan por escrito, flexible, con el fin de permitir modificaciones como resultado del surgimiento de eventos inesperados, de cambios en las condiciones iniciales y de información obtenidos como resultado de los procedimientos de auditoría efectuados o con base en la evaluación de los riesgos de auditoría.
+
+El plan general de auditoría garantizará la adecuada cobertura de aspectos prioritarios de las Entidades Fiscalizadas, programas a revisar, prever los recursos necesarios e informar a los niveles competentes acerca del trabajo a realizar.
+
+Para cumplir los objetivos de la fiscalización, el auditor debe diseñar acciones y procedimientos que ofrezcan una garantía razonable de que las operaciones auditadas se realizaron de conformidad a las leyes, reglamentos y normatividad que resulte aplicable.
+
+Los resultados de la revisión previa a la ejecución de la auditoría, conjuntamente con los factores de importancia relativa, riesgos potenciales y la calidad del control interno deberán tomarse en consideración, para identificar las áreas, programas, operaciones o recursos prioritarios y determinar la auditoría a aplicar, así como su alcance.
+
+El auditor para establecer y definir los alcances de la auditoría, el método a emplear, la profundidad de las pruebas y procedimientos a aplicar, como mínimo deberá considerar:
+
+I. Los requerimientos necesarios para cumplir los objetivos establecidos en los programas de auditoría;
+
+II. La trascendencia, importancia y significado de conceptos, aplicación y viabilidad de métodos, técnicas, pruebas y procedimientos;
+
+III. El resultado del estudio y evaluación de los controles internos establecidos por el sujeto fiscalizado;
+
+IV. Experiencia sobre la posible existencia de transacciones de mayor riesgo o errores;
+
+V. El análisis de las partidas que integran el universo de las operaciones a revisar, y
+
+VI. Los plazos en que deben presentarse los informes; tomado (sic) en cuenta que la calidad de la auditoría debe prevalecer.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 134.
+
+Dependiendo del tipo de auditoría, se deberán estudiar y evaluar adecuadamente los controles existentes en las Entidades Fiscalizadas a fin de establecer el grado de confianza que el auditor va a depositar en ellos para determinar el alcance de la auditoría. La extensión del examen y la evaluación de los controles dependerán de los objetivos de la auditoría y del grado de exactitud que se pretende; para ello, el auditor deberá seleccionar, de forma clara y precisa los controles y procedimientos auditados, determinando sus características de prevención, proceso o comprobación que asumen, así como las pruebas de controles y procedimientos sustantivos que puedan soportar.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 135.
+
+El estudio y evaluación de la efectividad del control interno y el enfoque de dicha evaluación, se determinarán de acuerdo con los objetivos de auditoría, consecuentemente:
+
+I. El auditor debe programar pruebas y procedimientos de auditoría para verificar la eficiencia de los controles establecidos o de las prácticas usadas; y
+
+II. La evaluación del control interno es un elemento natural de una auditoría para ejecutar un programa, servicio, actividad o función. El auditor debe planear las pruebas y procedimientos de auditoría necesarios para comprobar que los controles se hayan implantado y que son adecuados para alcanzar los objetivos establecidos.
+
+La evaluación del sistema de control interno establecido por el sujeto fiscalizado deberá ser considerada obligatoria; tomando como base que el adecuado control interno reduce el riesgo de errores e irregularidades.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 136.
+
+Con base en la planeación de la auditoría, se deberá definir:
+
+I. Objetivos específicos, precisando clara y congruentemente sus fines, encaminados a la obtención de elementos y hallazgos, que sustenten la objetividad de los informes de auditoría;
+
+II. Alcance de la auditoría;
+
+III. Metodología a utilizar que permita recabar y analizar información que sustente los resultados, conclusiones y recomendaciones;
+
+IV. Criterios de evaluación del objeto de la auditoría, precisando en el plan de auditoría, los criterios a aplicarse,
+
+V. La coordinación, en términos de ley, con otros órganos públicos, a fin de evitar la duplicidad de los esfuerzos y evitar resultados contradictorios; y
+
+VI. Designación y asignación de personal, seleccionando que el personal que vaya a intervenir cuente con experiencia profesional necesaria, asignando responsabilidades y cargas de trabajo durante el desarrollo, ejecución y supervisión de los trabajos de auditoria.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 137.
+
+El auditor debe contar con las pruebas suficientes, adecuadas, competentes, pertinentes y relevantes para fundamentar los juicios y conclusiones que formule respecto a las Entidades Fiscalizadas, programa, actividad, ingreso, gasto o función fiscalizada; asimismo, deberá justificar documentalmente, de manera adecuada, todos los hechos relativos a la fiscalización, incluso los antecedentes, y la extensión de la planeación, del trabajo realizado y de los hechos manifestados en los reportes o informes de auditoría.
+
+El auditor en el ejercicio de sus funciones se apoyará en las metodologías más apropiadas para obtener, hechos y evidencias que lo lleven al convencimiento objetivo y razonable de la realidad o veracidad de los actos, documentos o situaciones examinados, que le permitan conformar de manera fundada y motivada sus juicios, opiniones, informes y dictámenes, con la obligación de informar honestamente la verdad, sin reservas, sobre los resultados que obtuvo al cumplir el trabajo para el que fue designado.
+
+La evidencia es el conjunto de elementos que soportan el cumplimiento de los objetivos de la auditoría, los hallazgos y opiniones expresadas en el informe de auditoría; su objetivo es obtener elementos técnica y jurídicamente viables que permitan contar con el grado razonable de certeza respecto de la realidad de los hechos y las situaciones observadas.
+
+La validez e idoneidad de la documentación revisada y la confiabilidad de los sistemas y registros examinados, conformarán el acervo probatorio en que se funden y motiven las opiniones, conclusiones, resultados, observaciones, irregularidades y promoción de acciones que se generen.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 138.
+
+El auditor planificará y ejecutará la auditoria con celo y escepticismo profesional y valorará de manera crítica la evidencia que obtenga en los trabajos de auditoría, cerciorándose que los datos obtenidos sean fiables y pertinentes.
+
+Cuando la evidencia no se consistente, fiable y pertinente y se cuestione la confiabilidad de la información, el auditor deberá determinar las modificaciones o procedimientos supletorios de auditoría, necesarios para verificar la veracidad de la información.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 139.
+
+El auditor debe conservar un registro del trabajo efectuado en forma de papeles de trabajo u otros medios informáticos, todas las observaciones de la auditoría deben estar documentadas. Los papeles de trabajo deben formularse claramente, con pulcritud y exactitud; contener los datos del análisis, comprobación, opinión y conclusiones o situaciones específicos examinados.
+
+El Órgano Superior de Fiscalización, en el ejercicio de sus respectivas facultades, deberá vigilar que el auditor prepare oportunamente la documentación que proporcione evidencia suficiente y adecuada de que la auditoría se planificó y ejecutó de conformidad con las normas de auditoría y requerimientos legales aplicables, y que asegure el cumplimiento de los objetivos de la auditoría, con suficiente detalle para respaldar la información relacionada con cualquier reporte o informe de auditoría.
+
+Los papeles de trabajo del auditor son propiedad exclusiva del Órgano Superior de Fiscalización y su información es confidencial y reservada. El auditor solo podrá proporcionarlos, por requerimiento de autoridad competente.
+
+Los papeles de trabajo deben ser completos y detallados con información y análisis suficientes para permitir que un auditor experimentado, que no haya tenido previa relación con la auditoría, obtenga de ellos el trabajo realizado que respalde las conclusiones y juicios significativos de la misma.
+
+El Órgano Superior de Fiscalización mantendrá en resguardo y custodia los papeles de trabajo por el período señalado en la normatividad aplicable y deberá preservar su integridad dentro de dicho plazo.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 140.
+
+Al concluir los trabajos, el auditor emitirá por escrito de manera independiente, objetiva e imparcial el informe de auditoría conforme a normas que prevé el presente ordenamiento, precisando los trabajos realizados, obstáculos e impedimentos, hallazgos, conclusiones y recomendaciones a que llegó en razón a los objetivos propuestos; su contenido deberá ser de fácil comprensión y carecer de vaguedades o ambigüedades e incluirá solamente información debidamente documentada; atendiendo al tipo de auditoría, se deberán incluir las referencias técnicas a la naturaleza, objetivos y alcance específico de la fiscalización.
+
+El informe deberá basarse exclusivamente en pruebas obtenidas y unificadas de acuerdo con las disposiciones de la Ley y demás normatividad aplicable.
+
+De manera previa a la presentación final del informe de auditoría, deberá ser confrontado con el titular o representante de las Entidades Fiscalizadas y los responsables de las áreas auditadas.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 141.
+
+El Órgano Superior de Fiscalización regulará las formalidades, requisitos, estructura y forma que deban satisfacer los informes de auditoría.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 142.
+
+Las observaciones se deberán clasificar y precisar por su relevancia, claridad u objetividad, así como cuantificarse cuando sea posible.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTÍCULO 143.
+
+Los hallazgos, observaciones, juicios y recomendaciones contenidas en el informe de auditoría, serán responsabilidad del auditor encargado de la ejecución de la auditoria.
 
 T R A N S I T O R I O S :
 
@@ -1536,3 +1974,17 @@ P.O. 11 DE FEBRERO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de revisión de la Cuenta Pública iniciados antes de la vigencia del presente Decreto, serán concluidos con sujeción a las disposiciones legales y administrativas aplicadas en su momento.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor de ciento ochenta días hábiles contados a partir de la publicación de este Decreto, deberán adecuarse las disposiciones legales y reglamentarias que procedan.
