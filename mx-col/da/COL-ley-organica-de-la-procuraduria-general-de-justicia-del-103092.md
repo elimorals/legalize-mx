@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-procuraduria-general-de-justicia-del-103092"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-25"
-last_updated: "2014-11-18"
+last_updated: "2015-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR DE MANERA PROGRESIVA Y GRADUAL EN LA FECHA, EN LAS REGIONES Y MEDIANTE LAS MODALIDADES QUE SEÑALA EL CITADO ARTÍCULO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima el sábado 25 de octubre de 2014.
 
@@ -2011,7 +2011,9 @@ I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álv
 
 II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
-III. En materia de Justicia Penal para Adolecentes entrará en vigor el 1º de abril del año 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+III. En materia de Justicia Penal para Adolecentes (sic) entrará en vigor el 12 de agosto del año 2015, en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
 
 IV. El 5 de agosto del año 2015, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
 
@@ -2074,3 +2076,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. E
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 23 DE MARZO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "El Estado de Colima".
