@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2014-11-28"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -127,6 +127,10 @@ XVIII. Ley General: La Ley General de Asentamientos Humanos;
 XIX. Medidas de integración urbana: Las condiciones que deben cumplir las personas físicas o morales que construyan, amplíen, reparen o modifiquen una obra con el fin de integrarla al entorno urbano, a la vialidad, a la estructura socioeconómica, a la infraestructura y a la imagen urbana;
 
 XX. Mobiliario Urbano: Los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos formando parte de la imagen de la Ciudad, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería, así como aquellos otros muebles que determinen la Secretaría y la Comisión Mixta de Mobiliario Urbano;
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2015)</small>
+
+Dentro del mobiliario urbano de los parques públicos, se consideran los bebederos de agua potable a cargo de las delegaciones, los cuales deben ser diseñados y construidos de modo tal que no posean un flujo de agua permanente, a efectos de evitar su derroche. Sus mecanismos de accionamiento y provisión deben reunir condiciones de higiene estrictas, evitando contacto de labios y manos que ofrezcan riesgos de transmisión de enfermedades;
 
 XXI. Norma de Ordenación: las que regulan la intensidad, la ocupación y formas de aprovechamiento del suelo y el espacio urbano; asi como las características de las edificaciones, las construcciones, la transferencia de potencialidades de desarrollo urbano, el impacto urbano y las demás que señala esta ley; dichas normas se establecerán en los programas y en el reglamento de esta ley;
 
@@ -1274,13 +1278,13 @@ V. La prohibición de actos de utilización; y
 
 VI. La demolición de construcciones.
 
-> <small>(REFORMADA [N.DE E. ADICIONADA], G.O. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE ENERO DE 2014)</small>
 
 VII. La Secretaría y las Delegaciones podrán ordenar al Registro Público de la Propiedad y de Comercio del Distrito Federal, la custodia del folio real del predio de manera fundada y motivada, cuando se trate de un procedimiento administrativo de revocación, relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
 
 Las medidas de seguridad serán ordenadas por las autoridades competentes del Distrito Federal en caso de riesgo. El reglamento establecerá las disposiciones aplicables a los inmuebles afectos al patrimonio cultural urbano que se encuentren en situación de riesgo. Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas. La aplicación de estas medidas se sujetará a lo dispuesto en la Ley de Protección Civil y la Ley de Procedimiento Administrativo, ambas del Distrito Federal.
 
-> <small>(REFORMADO [N.DE E. ADICIONADO], G.O. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE ENERO DE 2014)</small>
 
 También podrán ordenar la custodia del folio real del predio, relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
 
@@ -1513,3 +1517,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 23 DE MARZO DE 2015.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El establecimiento en parques y oficinas públicas del Gobierno del Distrito Federal de bebederos o estaciones de recarga de agua potable, será de manera paulatina y programada, estará sujeto a la suficiencia presupuestal que al efecto se determine en el presupuesto de egresos correspondiente a cada uno de los ejercicios fiscales aprobados por la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- Los titulares y/o administradores de las plazas comerciales a que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles del Distrito Federal, contarán con un plazo no mayor a 120 días para instalar y/o adecuar los bebederos o estaciones de agua potable en sus inmuebles.
+
+CUARTO.- La presente reforma entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
