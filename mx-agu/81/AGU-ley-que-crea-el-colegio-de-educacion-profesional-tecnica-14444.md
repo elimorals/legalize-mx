@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-colegio-de-educacion-profesional-tecnica-14444"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-30"
-last_updated: "1999-05-30"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY QUE CREA EL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE AGUASCALIENTES
 
-LEY QUE CREA EL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE AGUASCALIENTES
+LEY QUE CREA EL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 30 de mayo de 1999.
 
@@ -49,75 +49,97 @@ LEY QUE CREA EL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE AGUASCALI
 
 Se crea el Colegio de Educación Profesional Técnica del Estado de Aguascalientes, como Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 2º.
 
-El Colegio de Educación Profesional Técnica del Estado de Aguascalientes, al que se le denominará "CEPTEA", forma parte del Sistema Nacional de Colegios de Educación Profesional Técnica.
+El Colegio de Educación Profesional Técnica del Estado de Aguascalientes, en adelante el "CONALEP Aguascalientes", forma parte del Sistema Nacional de Colegios de Educación Profesional Técnica, en adelante el "Sistema CONALEP".
 
-###### ARTICULO 3º.
+El Sistema CONALEP opera en dos niveles:
 
-El domicilio del Colegio estará en la ciudad de Aguascalientes, capital del Estado del mismo nombre, pudiendo establecer planteles en cualquier Municipio o localidad, dentro del Estado, contando en todo momento con la aprobación que emita la Secretaría de Educación Pública del Gobierno Federal y la opinión técnica del Colegio Nacional de Educación Profesional Técnica.
+I. El estatal, constituido por los Organismos Públicos Descentralizados creados por cada una de las Entidades Federativas, denominados Colegios Estatales y los Planteles ubicados en su territorio; y
+
+II. El federal, representado por el Colegio Nacional de Educación Profesional Técnica, en adelante el "CONALEP" que tiene como principal objetivo estandarizar y coordinar en el país, la educación profesional técnica y profesional técnica bachiller.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+###### ARTICULO 3°.
+
+El domicilio del CONALEP Aguascalientes estará en la ciudad de Aguascalientes, capital del Estado del mismo nombre, pudiendo establecer planteles en cualquier Municipio o localidad, dentro del Estado, contando en todo momento con la aprobación que emita la Secretaría de Educación Pública del Gobierno Federal y la opinión técnica del CONALEP.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 4°.
 
-El Colegio tendrá por objeto contribuir al desarrollo estatal mediante la formación de recursos humanos calificados, conforme a los requerimientos y necesidades del sector productivo y de la superación profesional del individuo.
+El CONALEP Aguascalientes tendrá por objeto impartir educación de tipo medio superior a nivel Profesional Técnico, con la finalidad de satisfacer la demanda de personal técnico calificado para el sistema productivo del país, así como a nivel Profesional Técnico Bachiller el cual, refrenda la formación profesional técnica e incorpora las (sic) formación básica y propedéutica que sus egresados requieren para continuar sus estudios en instituciones de educación superior, o bien logren su pronta inserción en el mercado laboral.
 
-###### ARTICULO 5º.
+Asimismo, podrá prestar servicios educativos complementarios, de capacitación, evaluación y certificación de competencias laborales y servicios tecnológicos, contribuyendo a elevar la productividad y competitividad del país.
 
-El Colegio tendrá las siguiente facultades:
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-I.- Operar por medio de los planteles que se transfieren, la prestación de servicios de educación profesional, técnica y de capacitación;
+###### ARTÍCULO 5°.
 
-II.- Coordinar y supervisar la impartición de la Educación Profesional Técnica, así como la prestación de los servicios de capacitación y los tecnológicos que realicen los planteles a su cargo, así como los servicios de apoyo y atención a la comunidad;
+El CONALEP Aguascalientes para el logro de su objeto tiene las siguientes facultades:
 
-III.- Participar en la definición de la oferta de los servicios de Educación Profesional Técnica, de los de capacitación y tecnológicos, así como de apoyo y de atención a la comunidad;
+I. Operar los planteles educativos que requiera;
 
-IV.- Realizar, conjuntamente con el Colegio Nacional de Educación Profesional Técnica, la planeación de mediano y largo plazo del desarrollo institucional;
+II. Coordinar y supervisar la impartición de la Educación Profesional Técnica y Profesional Técnica Bachiller, así como la prestación de los servicios de capacitación, evaluación y certificación de competencias laborales y servicios tecnológicos y que realicen los planteles a su cargo, así como los servicios de apoyo y atención a la comunidad;
 
-V.- Establecer coordinadamente con los planteles y los comités de vinculación, los mecanismos e instancias permanentes de vinculación con los sectores productivos, público, social, privado y educativo;
+III. Participar en la definición de la oferta de los servicios de Educación Profesional Técnica y Profesional Técnica Bachiller, así como los de capacitación evaluación y certificación de competencias laborales y servicios tecnológicos;
 
-VI.- Llevar a cabo las acciones de vinculación e intercambio con organismos e instituciones internacionales, de conformidad con los lineamientos que establezca el Colegio Nacional de Educación Profesional Técnica;
+IV. Realizar, conjuntamente con el CONALEP, la planeación de mediano y largo plazo del desarrollo institucional y de actividades de investigación y prospección educativa;
 
-VII.- Tramitar la revalidación y equivalencias de estudio para el ingreso a sus planteles en términos de la normatividad aplicable;
+V. Establecer coordinadamente con los planteles y su propio Comité de Vinculación, los mecanismos e instancias permanentes de vinculación con los sectores productivos, público, social, privado, educativo y científico;
 
-VIII.- Tramitar el reconocimiento de validez oficial a los estudios de escuelas particulares que deseen impartir la Educación Profesional Técnica a nivel post-secundaria, de conformidad con los lineamientos establecidos por el Colegio Nacional de Educación Profesional Técnica y ejercer la supervisión de las mismas, de conformidad con las disposiciones aplicables;
+VI. Llevar a cabo las acciones de vinculación e intercambio académico, científico y tecnológico con organismos e instituciones nacionales e internacionales, de conformidad con los lineamientos que establezca el CONALEP;
 
-IX.- Ministrar los recursos financieros y supervisar la operación administrativa de los planteles y unidades administrativas que estén bajo su coordinación;
+VII. Tramitar la revalidación y equivalencias de estudio para el ingreso a sus planteles en términos de la normatividad aplicable;
 
-X.- Asesorar y brindar apoyo informático en la solución de problemas específicos en la operación de los planteles;
+VIII. Otorgar el reconocimiento de validez oficial a los estudios de escuelas particulares que deseen impartir la Educación Profesional Técnica y Profesional Técnica Bachiller a nivel post-secundaria, de conformidad con los lineamientos establecidos por el CONALEP y ejercer la supervisión de las mismas, de acuerdo con las disposiciones aplicables;
 
-XI.- Enviar propuestas de necesidades de materiales didácticos al Colegio Nacional de Educación Profesional Técnica, y posteriormente realizar su distribución en sus planteles, en los casos en que el propio Colegio Nacional de Educación Profesional Técnica autorice su producción;
+IX. Administrar los recursos financieros y supervisar la operación administrativa de los planteles y unidades administrativas que estén bajo su coordinación;
 
-XII.- Integrar el anteproyecto del programa operativo anual, incluyendo el de planteles;
+X. Asesorar y brindar apoyo informático en la solución de problemas específicos en la operación de los planteles;
 
-XIII.- Aplicar las políticas de mantenimiento preventivo y correctivo a la infraestructura y equipo;
+XI. Enviar propuestas de necesidades de materiales didácticos al CONALEP, y posteriormente realizar su distribución en sus planteles, en los casos en que el propio CONALEP autorice su producción;
 
-XIV.- Definir los montos de las cuotas de recuperación de los servicios y supervisar su cobro y aplicación, conforme a las políticas y criterios generales establecidos por el Colegio Nacional de Educación Profesional Técnica;
+XII. Integrar el anteproyecto del programa operativo anual, incluyendo el de sus planteles;
 
-XV.- Administrar y aplicar los recursos propios que generen los planteles;
+XIII. Aplicar las políticas de mantenimiento preventivo y correctivo a la infraestructura y equipo;
 
-XVI.- Consolidar, validar y remitir la información de planteles requerida por el Colegio Nacional de Educación Profesional Técnica;
+XIV. Definir los montos de las cuotas de recuperación de los servicios y supervisar su cobro y aplicación conforme a las políticas y criterios generales establecidos por el CONALEP
 
-XVII.- Coordinar y supervisar que las adquisiciones de bienes y servicios se hagan, en el ámbito de su competencia, conforme a la normatividad aplicable, atendiendo al origen de los recursos;
+XV. Administrar y aplicar los recursos propios que generen los planteles;
 
-XVIII.- Brindar asesoría y apoyo legal y administrativo a los planteles;
+XVI. Consolidar, validar y remitir la información de planteles requerida por el CONALEP;
 
-XIX.- Aplicar las políticas y normas de promoción y difusión estatal de los servicios de Educación Profesional Técnica, de capacitación y tecnológicos, así como de atención y apoyo a la comunidad;
+XVII. Coordinar y supervisar que las adquisiciones de bienes y servicios se hagan en el ámbito de su competencia y conforme a la normatividad aplicable;
 
-XX.- Promover y desarrollar actividades culturales, recreativas y deportivas que coadyuven al desarrollo integral y armónico del educando, en beneficio de la comunidad de los planteles bajo su coordinación y de la sociedad en general;
+XVIII. Brindar asesoría y apoyo legal y administrativo a los planteles;
 
-XXI.- Supervisar la custodia, uso y destino de los bienes muebles e inmuebles de los planteles bajo su cargo, sujetándose a las disposiciones legales aplicables y a las disposiciones emitidas por parte de la Contraloría General del Estado;
+XIX. Aplicar las políticas y normas de promoción y difusión estatal de los servicios de Educación Profesional Técnico y Profesional Técnico Bachiller, los de capacitación evaluación y certificación de competencias laborales y servicios tecnológicos, así como de atención y apoyo a la comunidad;
 
-XXII.- Verificar la aplicación de la normatividad correspondiente en los planteles de su competencia;
+XX. Promover y desarrollar actividades culturales, cívicas, recreativas y deportivas que coadyuven al desarrollo integral y armónico del educando y capacitando, en beneficio de la comunidad de los planteles bajo su coordinación y de la sociedad en general;
 
-XXIII.- Impulsar y supervisar en planteles, los lineamientos y estándares de calidad establecidos, y;
+XXI. Utilizar los bienes y supervisar la custodia, uso y destino de los bienes muebles e inmuebles de conformidad con la normatividad aplicable;
 
-XXIV.- Las demás que sean afines a su naturaleza o que se deriven de otras disposiciones legales.
+XXII. Supervisar la aplicación de la normatividad correspondiente en los planteles a su cargo;
+
+XXIII. Impulsar y supervisar en planteles, los lineamientos y estándares de calidad establecidos;
+
+XXIV. Expedir títulos de Profesional Técnico y Profesional Técnico Bachiller, así como los certificados;
+
+XXV. Otorgar constancias y diplomas a quienes participen y acrediten los programas de capacitación, evaluación y certificación de competencias laborales y servicios tecnológicos; y
+
+XXVI. Las demás que se requieran para el cumplimiento de su objeto o que se deriven de otras disposiciones legales.
 
 ### CAPITULO II. Del Patrimonio
 
-###### ARTICULO 6º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
 
-El patrimonio del Colegio de Educación Profesional Técnica del Estado estará constituido por lo siguiente:
+###### ARTICULO 6°.
+
+El patrimonio del CONALEP Aguascalientes estará constituido por lo siguiente:
 
 I.- Todos los bienes muebles e inmuebles que se le afecten, transfieran o adquiera;
 
@@ -131,175 +153,261 @@ V.- Los subsidios que le otorguen el Gobierno del Estado y los Municipios, y;
 
 VI.- Los demás ingresos, derechos y bienes que adquiera por cualquier título legal.
 
-###### ARTICULO 7º.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-Los bienes inmuebles que formen parte del patrimonio del Colegio serán inalienables e imprescriptibles y en ningún caso podrán constituirse gravámenes sobre ellos.
+###### ARTICULO 7°.
+
+Los bienes inmuebles que formen parte del patrimonio del CONALEP Aguascalientes serán inalienables e imprescriptibles y en ningún caso podrán constituirse gravámenes sobre ellos.
 
 ### CAPITULO III. De la Organización
 
-###### ARTICULO 8º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
 
-Para su administración el Colegio contará con:
+###### ARTICULO 8°.
+
+Para su administración el CONALEP Aguascalientes contará con:
 
 I.- Una Junta Directiva;
 
 II.- Un Director Estatal.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-La Junta Directiva será el Organo de Gobierno del Colegio y se integrará de la siguiente manera:
+###### ARTICULO 9°.
 
-I.- Por el titular del Instituto de Educación de Aguascalientes, en representación del titular del Ejecutivo Estatal, quien lo presidirá;
+La Junta Directiva será el Órgano de Gobierno del CONALEP Aguascalientes y se integrará de la siguiente manera:
 
-II.- Por un representante del Instituto de Educación de Aguascalientes;
+I. Por el titular del Ejecutivo Estatal, quien lo presidirá y podrá ser representado por el titular del Instituto de Educación de Aguascalientes;
 
-III.- Por el titular de la Secretaría de Finanzas;
+II. Por un representante del Instituto de Educación de Aguascalientes;
 
-IV.- Por el titular de la Contraloría General del Estado;
+III. Por el Titular de la Secretaría de Finanzas;
 
-V.- Por tres representantes del sector productivo del Estado, miembros del Comité de Vinculación Estatal, designados por el titular del Ejecutivo, y;
+IV. Por el Titular de la Secretaría de Fiscalización y Rendición de Cuentas;
 
-VI.- Por dos representantes del Gobierno Federal, designados uno por la Secretaría de Educación Pública y el otro por el Colegio Nacional de Educación Profesional Técnica.
+V. Por tres representantes del sector productivo del Estado, miembros del Comité de Vinculación Estatal; y
 
-Por cada miembro de la junta se nombrará un suplente que actuará en caso de faltas temporales del titular, en los términos que fije el reglamento interior.
+VI. Por dos representantes del Gobierno Federal, designados uno por la Secretaría de Educación Pública y otro por el CONALEP.
 
-Asimismo, la Junta Directiva podrá invitar a sus sesiones a quienes estime que con sus opiniones puedan coadyuvar a la mejor realización del objeto del organismo, con voz pero sin voto.
+Por cada miembro propietario se podrá designar a su respectivo suplente.
 
-En las sesiones de la Junta Directiva participará el Director del Colegio con voz pero sin voto.
+El Director Estatal de la institución participará en las sesiones con voz, pero sin voto.
 
-El titular del Instituto de Educación de Aguascalientes, en su calidad de presidente propondrá a la Junta Directiva a la persona que fungirá como Secretario Técnico, quien tendrá bajo su responsabilidad la calendarización de reuniones, elaboración y difusión de las convocatorias, desahogo de la orden del día, levantamiento, registro y resguardo de las actas de la Junta Directiva.
+Asimismo, la Junta Directiva podrá invitar a personas que por sus capacidades específicas puedan dar opinión sobre los asuntos a tratar y con ello coadyuvar a la mejor realización del objeto quienes participarán con voz pero sin voto.
 
-En ningún caso la Junta Directiva podrá tener más de nueve miembros titulares.
+El Presidente de la Junta Directiva, propondrá y removerá a las personas que fungirán como Secretario Técnico y al Prosecretario, en su caso, quien tendrá bajo su responsabilidad la calendarización de reuniones, elaboración y difusión de las convocatorias, desahogo del orden del día, levantamiento, registro y reguardo (sic) de las actas de la Junta Directiva.
+
+En ningún caso la Junta directiva podrá tener más de nueve titulares.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 10.
 
-La Junta Directiva tendrá las siguientes facultades:
+La Junta Directiva tendrá las siguientes atribuciones y facultades:
 
-I.- Autorizar las políticas del Colegio conforme a los lineamientos emitidos en el Sistema Nacional de Colegios de Educación Profesional Técnica;
+I. Autorizar las políticas del CONALEP Aguascalientes conforme a los lineamientos emitidos en el Sistema CONALEP;
 
-II.- Aprobar el anteproyecto del presupuesto anual de ingresos y egresos del Colegio, de conformidad con las disposiciones legales aplicables;
+II. Aprobar en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el CONALEP Aguascalientes, relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
-III.- Aprobar su reglamento interior y la organización administrativa en términos de las políticas y lineamientos generales que emita el Colegio Nacional de Educación Profesional Técnica, las disposiciones aplicables y las emitidas por la Contraloría General del Estado;
+III. Aprobar los mecanismos y estrategias para que los objetivos del CONALEP Aguascalientes se logren y aplicar las medidas correctivas a que hubiera lugar, con base en los informes que en control y auditoría le sean turnados;
 
-IV.- Aprobar, previo informe de la instancia de control y dictamen de la auditoría externa, los estados financieros del Colegio y autorizar la publicación de los mismos;
+IV. Aprobar los criterios de racionalidad, austeridad y disciplina para el ejercicio del presupuesto autorizado, de acuerdo con los lineamientos vigentes;
 
-V.- Aprobar y autorizar el nombramiento de los Directores del plantel, así como servidores públicos de confianza del Colegio que la misma determine, de conformidad con los criterios generales del Sistema Nacional de Colegios de Educación Profesional Técnica;
+V. Aprobar el anteproyecto del presupuesto anual de ingresos y egresos del CONALEP Aguascalientes, de conformidad con las disposiciones legales aplicables y remitirlos a la Secretaría de Finanzas del Estado, para que sean incluidos en el Proyecto de Ley de Ingresos y el Presupuesto de Egresos de (sic) Gobierno del Estado;
 
-VI.- Conocer y en su caso, aprobar los informes periódicos que rinda el Director Estatal;
+VI. Aprobar la estructura orgánica, así como el reglamento interior en que se establezcan las facultades y funciones que correspondan a las distintas áreas del CONALEP Aguascalientes;
 
-VII.- Aprobar el uso de los ingresos propios que se generen;
+VII. Aprobar, previo informe de la instancia de control y dictamen de la auditoría externa, los estados financieros del CONALEP Aguascalientes, para integrarlos a la Cuenta Pública del Estado;
 
-VIII.- Aprobar los planes y programas del Colegio conforme a la normatividad aplicable;
+VIII. Aprobar las cuotas por los servicios que preste el CONALEP Aguascalientes;
 
-IX.- Proponer la creación de unidades desconcentradas; y
+IX. Nombrar y remover a propuesta del Director Estatal, a los servidores públicos que ocupen cargos en el segundo nivel jerárquico inferior al de aquél;
 
-X.- Las demás que con este carácter le confieran las disposiciones legales aplicables.
+X. Aprobar la fijación de sueldos y prestaciones de acuerdo al tabulador actualizado;
+
+XI. Conocer y, en su caso, aprobar los informes periódicos que rinda el Director Estatal;
+
+XII. Proponer al CONALEP las modificaciones pertinentes de los planes y programas de estudio del CONALEP Aguascalientes y de las carreras y cursos de capacitación que se impartan en el Estado;
+
+XIII. Autorizar la creación de órganos de apoyo que sean necesarios para el cumplimiento del objeto del CONALEP Aguascalientes;
+
+XIV. Aprobar la contratación de los préstamos para el financiamiento del CONALEP Aguascalientes, de conformidad con la normatividad aplicable y la disponibilidad presupuestal;
+
+XV. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director Estatal pueda disponer de los activos fijos del CONALEP Aguascalientes que no correspondan a las operaciones propias del objeto de la misma;
+
+XVI. Proponer al Ejecutivo Estatal por conducto de la Secretaría de Fiscalización y Rendición de Cuentas, los convenios de fusión con otras entidades;
+
+XVII. Aprobar la constitución de reservas y aplicación de los ingresos extraordinarios del CONALEP Aguascalientes;
+
+XVIII. Aprobar las normas y bases para negociar convenios cuando terceros tengan adeudos a favor del CONALEP Aguascalientes y fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Fiscalización y Rendición de Cuentas;
+
+XIX. Establecer con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, enajenación y arrendamiento de bienes inmuebles que el CONALEP Aguascalientes requiera para sus fines;
+
+XX. Interpretar esta ley para efectos administrativos;
+
+XXI. Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados; y
+
+XXII. Las demás que con este carácter le confiera la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 11.
 
-La Junta Directiva sesionará de manera ordinaria cada tres meses. Dichas sesiones serán válidas con la asistencia de por lo menos la mitad más uno de sus miembros presentes, entre los cuales deberán estar los representantes del Gobierno Federal, teniendo su presidente voto de calidad para el caso de empate.
+Las sesiones de la Junta Directiva se verificarán conforme a las reglas siguientes:
+
+I. Sesionará por lo menos cuatro veces al año. Dichas sesiones serán válidas con la asistencia de por lo menos la mitad más uno de sus integrantes;
+
+II. Serán convocadas por el Secretario Técnico con tres días hábiles de anticipación por lo menos;
+
+III. La convocatoria señalará el lugar, día y hora de la sesión y contendrá el orden del día y se acompañará de la documentación relativa a los puntos a tratar;
+
+IV. Si la reunión convocada no pudiera llevarse a cabo en la fecha programada por falta de quórum, se convocará a una nueva sesión que deberá celebrarse entre los cinco y quince días hábiles siguientes, la cual se llevará a cabo con los integrantes que asistan;
+
+V. Las resoluciones se tomarán por la mayoría de los miembros presentes; en caso de empate el Presidente tendrá el voto de calidad; y
+
+VI. De cada reunión se levantará acta, misma que se firmará por los asistentes y se asentará en el libro de registros que se lleve para tal efecto.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 12.
 
-El Director del Colegio será designado y removido por la Junta Directiva a propuesta del titular del Poder Ejecutivo del Estado, y permanecerá en su cargo cuatro años, pudiendo ser removido por la Junta Directiva antes del término señalado, podrá ser ratificado en su encargo por única vez, para un siguiente período.
+El Director Estatal y los servidores públicos del primer nivel jerárquico inferior al de aquel serán designados y removidos por el Gobernador Constitucional del Estado.
 
-Deberá ser ciudadano mexicano, contar con título profesional y experiencia en el campo tecnológico de la educación y administración pública
+Para efectos del nombramiento de los Directores de Plantel, se estará a lo dispuesto en el Artículo 17 de esta Ley.
 
-###### ARTICULO 13.
+El Director Estatal deberá ser ciudadano mexicano, contar con título profesional y tener experiencia en el campo tecnológico de la educación y la administración pública de acuerdo con los criterios generales del Sistema CONALEP.
 
-El Director del Colegio tendrá las siguientes atribuciones:
+El Director Estatal será suplido en ausencias temporales o accidentales menores a 30 días por el Director que el mismo designe. En ausencias mayores será suplido por quien designe el Gobernador Constitucional del Estado.
 
-I.- Actuar como representante legal del Colegio, con las modalidades y facultades que fije la Junta Directiva;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-II.- Dirigir técnica y administrativamente al Colegio;
+###### ARTÍCULO 13.
 
-III.- Proponer a la Junta Directiva los planteles necesarios para el desarrollo de las actividades del Colegio, conforme a la normatividad anterior y a las políticas, lineamientos y criterios generales que establezca el Colegio Nacional de Educación Profesional Técnica;
+El Director Estatal tendrá las facultades siguientes:
 
-IV.- Proponer la designación de los Directores de los planteles y de los servidores públicos del Colegio, de conformidad con las disposiciones aplicables;
+I. Dirigir, administrar y representar legalmente al CONALEP Aguascalientes;
 
-V.- Participar con voz pero sin voto, en las sesiones de la Junta Directiva;
+II. Proponer a la Junta Directiva los planteles necesarios para el desarrollo de las actividades del CONALEP Aguascalientes, conforme a la normatividad vigente y a las políticas, lineamientos y criterios generales que establezca el CONALEP;
 
-VI.- Cumplir y hacer cumplir la legislación, el estatuto y las demás disposiciones aplicables al Colegio;
+III. Participar con voz pero sin voto en las sesiones de la Junta Directiva;
 
-VII.- Cumplir los acuerdos que emita la Junta Directiva;
+IV. Cumplir y hacer cumplir la normatividad, el reglamento interior y las demás disposiciones aplicables.
 
-VIII.- Proponer a la Junta Directiva el estatuto y organización administrativa en términos de las políticas y lineamientos generales que emita el Colegio Nacional de Educación Profesional Técnica;
+V. Cumplir y hacer cumplir los acuerdos que emita la Junta Directiva;
 
-IX.- Cumplir con las disposiciones que deriven del Sistema Nacional de Colegios de Educación Profesional Técnica;
+VI. Proponer a la Junta Directiva el reglamento interior y la estructura orgánica de la entidad;
 
-X.- Elaborar y presentar los proyectos de programas, planes y presupuestos a la Junta Directiva y a la Coordinación del Sistema Nacional de Colegios de Educación Profesional Técnica y una vez aprobados aplicarlos;
+VII. Elaborar y presentar los proyectos de programas, planes y presupuestos a la Junta Directiva para su aprobación y una vez aprobados, aplicarlos;
 
-XI.- Elaborar y presentar ante la Junta Directiva los estados financieros trimestralmente;
+VIII. Elaborar y presentar trimestralmente ante la Junta Directiva el informe de actividades de la entidad incluyendo el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
 
-XII.- Proporcionar a la instancia de control las facilidades y el apoyo técnico y administrativo que requiera para su eficiente funcionamiento, y;
+IX. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la entidad paraestatal;
 
-XIII.- Las demás afines a las anteriores que le asigne la Junta Directiva o se deriven de las disposiciones legales aplicables.
+X. Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
+
+XI. Proponer al Órgano de Gobierno el nombramiento o remoción de los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de él, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado;
+
+XII. Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paraestatal para así, poder mejorar la gestión de la misma;
+
+XIII. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
+XIV. Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia, con que se desempeñe la entidad y presentar a la Junta Directiva, por lo menos dos veces al año la evaluación de gestión con el detalle que previamente se acuerde con dicho órgano;
+
+XV. Proporcionar a la (sic) instancias de control y vigilancia las facilidades y apoyo técnico y administrativo que requieran para el cumplimiento de sus funciones; y
+
+XVI. Las demás que le asigne la Junta Directiva o se deriven de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 14.
 
-En el Colegio funcionará un comité de vinculación estatal, integrado por representantes de los sectores productivos, público, social y privado, nombrados por el Gobernador del Estado, encargados de asesorar al Director Estatal en la supervisión de los servicios que prestan los planteles y en la vinculación de los sectores productivos.
+En el CONALEP Aguascalientes funcionará un Comité de Vinculación Estatal, y uno por cada Plantel, integrados por representantes de los sectores productivos, público, social y privado.
 
-En cada plantel se constituirá un comité de vinculación que funcionará como mecanismo propositivos, que permita la participación de la comunidad y de los sectores productivos, público, social y educativo en sus actividades.
+Los Comités de Vinculación además de ser los encargados de la vinculación con los sectores productivos, tendrán por objeto orientar y apoyar al CONALEP Aguascalientes y a los planteles, en la promoción de la actividad económica del entorno, así como en la aplicación de estrategias y políticas que permitan la obtención de recursos y fuentes de financiamiento entre el sector productivo para fortalecer el desarrollo del Sistema CONALEP y el modelo académico vigente.
 
-Estos comités funcionan en los términos de la normatividad que para tal efecto se expida.
+Las acciones de vinculación de estos órganos, incluirán programas de investigación e innovación tecnológica al desarrollo de estudios de prospección y evaluación e innovación educativa.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 15.
 
-El Colegio contará con las instancias y mecanismos de vigilancia, fiscalización y control previstos en la legislación estatal.
+El CONALEP Aguascalientes contará con las instancias y mecanismos de vigilancia, fiscalización y control previstos en la normatividad aplicable.
 
-### CAPITULO IV. De los Planteles y de las Unidades Desconcentradas
+Al efecto se designará a un titular del Órgano de Control Interno y a un Comisario, quienes tendrán las facultades y obligaciones que se establecen en la Ley para el Control de la (sic) Entidades Paraestatales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2015)</small>
+
+### CAPÍTULO IV. De los Planteles
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 16.
 
-Para el desarrollo y cumplimiento de sus objetivos, el Colegio operará desconcentradamente a través de planteles y unidades, las cuales se organizarán conforme al convenio suscrito con el Ejecutivo Federal y con base en los lineamientos y criterios generales establecidos por el Colegio Nacional de Educación Profesional Técnica.
+Para el desarrollo y cumplimiento de sus objetivos, el CONALEP Aguascalientes operará por medio de planteles, los cuales serán encargados de impartir la Educación Profesional Técnica y Profesional Técnica Bachiller, los servicios de capacitación, evaluación y certificación de competencias laborales y servicios tecnológicos, así como los servicios de apoyo y atención a la comunidad.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 17.
 
-Cada plantel será administrado por un Director, quien será designado por la Junta Directiva a propuesta del Director Estatal conforme a la normatividad aplicable; permanecerá en su cargo cuatro años, pudiendo ser removido por la Junta Directiva antes del término señalado; podrá ser ratificado en su encargado por única vez, para un siguiente período.
+Cada plantel será administrado por un Director, quien será nombrado y removido de acuerdo a lo establecido en la Ley General del Servicio Profesional Docente.
+
+En ausencias temporales de los directores de área y de plantel, así como del demás personal administrativo, será por el Director Estatal o por la persona que éste designe, según se establezca en el Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 18.
 
-Los planteles coadyuvarán con el Colegio para el cumplimiento de su objeto y tendrán las siguientes atribuciones:
+Los planteles tendrán las siguientes atribuciones:
 
-I.- Impartir educación profesional técnica y prestar directamente los servicios de capacitación:
+I. Impartir Educación Profesional Técnica y Profesional Técnica Bachiller, así como los servicios de capacitación, evaluación y certificación de competencias laborales y servicios tecnológicos;
 
-II.- Operar los servicios de atención a la comunidad;
+II. Operar los servicios de apoyo y atención a la comunidad;
 
-III.- Realizar acciones de vinculación con los sectores productivos, público, social y privado;
+III. Realizar a través de los Comités de Vinculación respectivos, las acciones de vinculación con los sectores productivos, público, social, privado, educativo y científico;
 
-IV.- Aplicar las políticas, normas y lineamientos para estandarizar su operación y garantizar la calidad de sus servicios;
+IV. Aplicar las políticas, normas y lineamientos para estandarizar su operación y garantizar la calidad de sus servicios;
 
-V.- Operar los proyectos internacionales que tengan a su cargo;
+V. Operar los proyectos nacionales e internacionales que tengan a su cargo;
 
-VI.- Operar los sistemas de gestión administrativa y académica;
+VI. Operar los sistemas de gestión administrativa y académica:
 
-VII.- Registrar y conservar la información y documentación de los alumnos, personal académico y administrativo;
+VII. Registrar y conservar la información y documentación de los alumnos, personal académico y administrativo;
 
-VIII.- Promover y difundir los servicios que otorga;
+VIII. Promover y difundir los servicios que otorga;
 
-IX.- Otorgar el mantenimiento al equipamiento e instalaciones;
+IX. Realizar el mantenimiento al equipamiento e instalaciones;
 
-X.- Proporcionar servicios profesionales de apoyo y asesoría a entidades y organismos de los sectores público, social, educativo y privado, respecto al desarrollo de proyectos productivos, así como para la solución de problemas específicos de la actividad técnica, y;
+X. Proporcionar servicios profesionales de apoyo y asesoría a entidades y organismos de los sectores público, social, privado, educativo y científico, respecto al desarrollo de proyectos productivos; y
 
-XI.- Las demás que sean afines a su naturaleza o que se deriven de este instrumento o de otras disposiciones legales.
+XI. Las demás que sean afines a su naturaleza o que se deriven de este instrumento o de otras disposiciones legales.
 
-###### ARTICULO 19.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-Los Directores de los planteles tendrán las siguientes atribuciones:
+###### ARTÍCULO 19.
 
-I.- Dirigir académica, técnica y administrativamente al plantel;
+Los Directores de los Planteles tendrán las atribuciones siguientes:
 
-II.- Cumplir en el ámbito de su competencia las directrices, acuerdos, resoluciones y disposiciones que deriven del Sistema Nacional de Colegios de Educación Profesional Técnica, así como de la Junta Directiva y del titular del Colegio de Educación Profesional Técnica del Estado;
+I. Dirigir académica, técnica y administrativamente al plantel, de acuerdo con la normatividad aplicable;
 
-III.- Proveer lo necesario para el correcto funcionamiento de sus comités de vinculación;
+II. Cumplir, en el ámbito de su competencia, las directrices, acuerdos, resoluciones y disposiciones de la Junta Directiva y del Director Estatal;
 
-IV.- Las demás que le confiera la normatividad aplicable;
+III. Proveer lo necesario para el correcto funcionamiento del Comité de Vinculación respectivo;
 
-V.- Presentar informe trimestral al Director General;
+IV. Organizar y operar la administración escolar y docente del plantel, así como administrar los recursos asignados;
 
-VI.- Conocer en primera instancia de las infracciones de los trabajadores a las condiciones generales de trabajo y hacer del conocimiento de la Dirección General aquéllas que por su gravedad ameriten sanción en términos de las disposiciones legales aplicables, y;
+V. Expedir constancias de asistencia a cursos impartidos en el plantel;
 
-VII.- Las demás que le confiera la Ley y disposiciones vigentes aplicables.
+VI. Promover y difundir los servicios de capacitación, evaluación y certificación de competencias laborales y servicios tecnológicos, así como los de apoyo y atención a la comunidad;
+
+VII. Coordinar el correcto funcionamiento de los comités técnico escolar, de titulación, de becas, de seguridad e higiene, academias, y cualquier otra estructura interna del plantel que le corresponda;
+
+VIII. Presentar informe -trimestral al Director Estatal;
+
+IX. Conocer en primera instancia de las infracciones de los trabajadores a las condiciones generales de trabajo y hacer del conocimiento de la Dirección Estatal aquellas que por su gravedad ameriten sanción en términos de las disposiciones legales aplicables;
+
+X. Participar en la promoción de la oferta de capacitación, evaluación y certificación de competencias laborales e impartir los cursos conforme a los programas establecidos; y
+
+XI. Las demás que les confieran otras disposiciones legales y reglamentarias aplicables o que expresamente les encomiende la Junta Directiva o el Director Estatal.
 
 ### CAPITULO V. Disposiciones Generales
 
@@ -358,3 +466,19 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán adecuar al presente Decreto las disposiciones reglamentarias, normativas y administrativas respectivas, en un plazo de 180 días naturales contados a partir de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a las reformas de la presente Ley.
