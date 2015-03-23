@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2014-12-18"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -311,6 +311,10 @@ En caso de negativa exhortarlo a que abandone el establecimiento, y ante una seg
 d) La capacidad de aforo manifestada en el Aviso o Solicitud de Permiso.
 
 X. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con personal capacitado y botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios;
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2015)</small>
+
+En las plazas comerciales con un aforo mayor al señalado en el párrafo anterior, se deberán instalar bebederos o estaciones con agua potable para el libre consumo de clientes y empleados.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1543,3 +1547,13 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 23 DE MARZO DE 2015.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El establecimiento en parques y oficinas públicas del Gobierno del Distrito Federal de bebederos o estaciones de recarga de agua potable, será de manera paulatina y programada, estará sujeto a la suficiencia presupuestal que al efecto se determine en el presupuesto de egresos correspondiente a cada uno de los ejercicios fiscales aprobados por la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- Los titulares y/o administradores de las plazas comerciales a que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles del Distrito Federal, contarán con un plazo no mayor a 120 días para instalar y/o adecuar los bebederos o estaciones de agua potable en sus inmuebles.
+
+CUARTO.- La presente reforma entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
