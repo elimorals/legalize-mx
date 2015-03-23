@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2015-02-02"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1063,7 +1063,9 @@ I. El asedio que se haga, con fines lascivos, sobre personas de cualquier sexo p
 
 II. El asedio con fines lascivos para sí o por tercera persona, a personas de cualquier sexo, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima.
 
-Al responsable de Hostigamiento Sexual se le aplicarán de 1 a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Al responsable de Hostigamiento Sexual se le aplicarán de 1 a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad.
 
 ###### ARTÍCULO 115.
 
@@ -1071,9 +1073,13 @@ Atentados al pudor. Los Atentados al Pudor consisten en la ejecución de actos e
 
 También se equipara a los Atentados al Pudor la conducta de carácter erótico sexual de quién sin llegar al contacto físico, exhiba ante la víctima, sin su consentimiento o con su consentimiento tratándose de menores de doce años, el pene, senos, glúteos o la vagina.
 
-Al responsable del delito de Atentados al Pudor o Atentados al Pudor equiparado se le impondrá de seis meses a tres años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-Si el inculpado hiciere uso de violencia física o moral, se le aplicarán de dos a seis años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable del delito de Atentados al Pudor o Atentados al Pudor equiparado se le impondrá de 6 meses a 3 años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de doce años pero menor de 18 años de edad, al inculpado se le aplicará de 1 año con 6 meses a 3 años de prisión, de 50 a 250 días de multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Si el inculpado hiciere uso de violencia física o moral, las punibilidades referidas en el párrafo anterior incrementarán y se aplicarán de 2 a 6 años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 Si la víctima es menor de doce años de edad o por cualquier causa no puede resistir la conducta del sujeto activo, al responsable se le aplicarán de tres a seis años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -1083,15 +1089,27 @@ Corrupción de menores e incapaces. La Corrupción de Menores e incapaces consis
 
 I. La inducción que se realice sobre una persona menor de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
 
-II. La inducción que se realice sobre una persona menor de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, para que lleve a cabo actos de exhibicionismo corporal o de carácter sexual; o
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
-III. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares.
+II. La inducción que se realice sobre una persona menor de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, para que lleve a cabo actos de exhibicionismo corporal o de carácter sexual;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+
+III. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares; o
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
+IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando presten sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente.
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá mostrar la vagina, pene, senos, glúteos o ano.
 
-Al responsable de Corrupción de Menores e incapaces se le aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-La punibilidad descrita en el párrafo anterior se duplicará cuando el inculpado sea ascendiente, padrastro, o madrastra de la víctima, o cuando el inculpado habite en el mismo domicilio de la víctima, y se aplicará como pena la privación de los derechos de familia que el inculpado tenga en relación con la víctima.
+Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II y III se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de la Fracción IV, al responsable se le aplicarán de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Las punibilidades descritas en el párrafo anterior se duplicarán cuando el inculpado sea ascendiente, padrastro, o madrastra de la víctima, o cuando el inculpado habite en el mismo domicilio de la víctima, y se aplicará como pena la privación de los derechos de familia que el inculpado tenga en relación con la víctima.
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
@@ -1109,9 +1127,13 @@ IV. El almacenamiento o posesión, con fines de comercialización, de fotografí
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá, mostrar la vagina, pene, senos, glúteos o ano.
 
-Al responsable de Pornografía infantil y de incapaces se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
-La punibilidad descrita en el párrafo anterior se duplicará cuando el inculpado sea ascendiente, padrastro, o madrastra de la víctima, o cuando el inculpado habite en el mismo domicilio de la víctima, y se aplicará como pena la privación de los derechos de familia que el inculpado tenga en relación con la víctima.
+Al responsable de Pornografía infantil y de incapaces se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de 12 años de edad, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Si el inculpado es ascendiente, padrastro, o madrastra de la víctima, o habita el mismo domicilio de la víctima, las penas referidas en el párrafo anterior se incrementarán, aplicándose de 14 a 28 años de prisión, de 600 a 1400 días multa, el pago total de la reparación de los daños y perjuicios ocasionados y privación de los derechos de familia que el inculpado tenga en relación con la víctima.
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
@@ -1119,7 +1141,9 @@ Si el inculpado labora en organizaciones dedicadas al cuidado o atención de men
 
 Estupro. El estupro consiste en realizar cópula con persona mayor de doce y menor de dieciséis años de edad, obteniendo su consentimiento por medio de seducción o engaño.
 
-Al responsable de Estupro se le aplicarán de 1 a 5 años de prisión y de 25 a 75 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Al responsable de Estupro se le aplicarán de 1 a 6 años de prisión y de 25 a 75 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 La reparación del daño, comprenderá además el pago de los alimentos a la víctima y también a los hijos si los hubiera.
 
@@ -1129,7 +1153,9 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 Violación. La Violación consiste en realizar cópula con persona de cualquier sexo, utilizando fuerza física, moral o psicológica, para lograr el sometimiento de la víctima.
 
-Al responsable de Violación se le aplicarán de 10 a 16 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Al responsable de Violación se le aplicarán de 10 a 16 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de 12 años pero menor de 18 años de edad, al responsable se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial o de concubinato, se impondrá la pena prevista en el presente Artículo.
 
@@ -1151,11 +1177,15 @@ IV.- El llevar a cabo la introducción descrita en la Fracción III en persona m
 
 V.- El llevar a cabo la introducción descrita en la Fracción III en persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
 
-Al responsable de Violación Equiparada descrita en las Fracciones I y II se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable hace uso de la fuerza física, moral o psicológica sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 15 a 25 años de prisión y de 250 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Al responsable de Violación Equiparada descrita en las Fracciones I y II se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable hace uso de la fuerza física o moral sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 15 a 25 años de prisión y de 250 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 Al responsable de Violación Equiparada descrita en la Fracción III se le aplicarán de 5 a 10 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Al responsable de Violación Equiparada descrita en las Fracciones IV y V se le aplicarán de 6 a 12 años de prisión y de 120 a 240 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 7 a 14 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+
+Al responsable de Violación Equiparada descrita en las Fracciones IV y V se le aplicarán de 6 a 12 años de prisión y de 120 a 240 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 8 a 15 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 121.
 
@@ -2524,3 +2554,9 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado,
 ###### ARTÍCULO SEXTO.
 
 En tanto no inicie su vigencia el Sistema Penal Acusatorio las referencias hechas en el presente Decreto a delitos de prisión preventiva oficiosa se entenderán realizada (sic) a delitos graves, según sea el caso.
+
+P.O. 23 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
