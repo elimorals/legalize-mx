@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2015-01-29"
+last_updated: "2015-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -95,6 +95,10 @@ IV QUATER. AGUA PLUVIAL POTABILIZADA.- Los volúmenes de agua pluvial cosechada 
 V. AGUA RESIDUAL.- La proveniente de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad que, por el uso de que ha sido objeto, contiene materia orgánica y otras sustancias químicas que alteran su calidad y composición original;
 
 VI. AGUA TRATADA.- La resultante de haber sido sometida a procesos de tratamiento para remover sus cargas contaminantes;
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2015)</small>
+
+VI BIS. BEBEDEROS O ESTACIONES DE RECARGA DE AGUA POTABLE: los primeros son muebles para el suministro de agua potable bebible de manera intermitente, a fin de evitar su derroche; y los segundos son muebles de abastecimiento de agua potable bebible, mediante el flujo intermitente para su recarga en recipientes portátiles.
 
 VII. CAUCE.- El canal natural o artificial con capacidad necesaria para llevar las aguas de una creciente máxima o mínima ordinaria de una corriente;
 
@@ -215,6 +219,10 @@ Cuando se suspenda el servicio de suministro de agua, en caso de uso domestico, 
 > <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 La suspensión o restricción del suministro de agua ordenada por el Sistema de Aguas, se sustenta en los criterios establecidos en el párrafo anterior, salvaguardando, en todo momento, el derecho al acceso de agua para consumo humano.
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2015)</small>
+
+Para garantizar a la población el libre acceso al agua para su consumo humano, se deberán establecer en los parques; plazas comerciales, y oficinas públicas del Gobierno del Distrito Federal bebederos o estaciones de recarga de agua potable.
 
 ###### Artículo 6º.
 
@@ -502,6 +510,10 @@ I. Ejecutar los programas delegacionales de obras para el abastecimiento de agua
 
 II. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado que mediante acuerdo le otorgue el Sistema de Aguas, atendiendo los lineamientos que al efecto se expidan así como analizar y emitir opinión en relación con las tarifas correspondientes;
 
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2015)</small>
+
+Establecer bebederos en los parques de su demarcación territorial, así como en las oficinas de su administración; en cumplimiento a lo establecido en el párrafo cuarto del artículo 5° de esta ley, así como darles mantenimiento, monitoreando la calidad del agua potable con apoyo de la Secretaría de Salud.
+
 III. Aplicar las disposiciones de su competencia establecidas en el Programa de Gestión Integral de los Recursos Hídricos y el Programa para el Uso Eficiente y Ahorro del Agua;
 
 IV. Dar mantenimiento preventivo y correctivo a las redes secundarias de agua potable, drenaje y alcantarillado, conforme a la autorización y normas que al efecto expida el Sistema de Aguas, así como coadyuvar en la reparación de fugas;
@@ -755,6 +767,10 @@ XIV. Será obligatorio para los prestadores de servicios, fijar en lugares visib
 > <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 XV. Instalar en los edificios públicos y de servicios, mingitorios sin agua, inodoros de bajo consumo, regaderas, llaves, tuberías y accesorios sanitarios ahorradores de agua potable, los cuales deberán recibir mantenimiento periódicamente para conservarse en condiciones optimas de servicio e higiene.
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2015)</small>
+
+XVI. En los edificios públicos y de servicios del Gobierno del Distrito Federal, se deberán instalar bebederos o estaciones de recarga de agua potable, debiéndose dar mantenimiento constante para garantizar su servicio e higiene.
 
 > <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
@@ -2195,3 +2211,13 @@ SEGUNDO.- Dentro de los treinta días hábiles a la promulgación del presente D
 TERCERO.- Hasta en tanto no se realice el ajuste correspondiente al Arancel de Notarios del Distrito Federal, se estará a lo dispuesto en la fracción V del Artículo 35 de dicho Arancel.
 
 CUARTO.- Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE MARZO DE 2015.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El establecimiento en parques y oficinas públicas del Gobierno del Distrito Federal de bebederos o estaciones de recarga de agua potable, será de manera paulatina y programada, estará sujeto a la suficiencia presupuestal que al efecto se determine en el presupuesto de egresos correspondiente a cada uno de los ejercicios fiscales aprobados por la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- Los titulares y/o administradores de las plazas comerciales a que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles del Distrito Federal, contarán con un plazo no mayor a 120 días para instalar y/o adecuar los bebederos o estaciones de agua potable en sus inmuebles.
+
+CUARTO.- La presente reforma entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
