@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2014-12-19"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,6 +25,8 @@ LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUIL
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MARZO DE 2015.</small>
+
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
 EL C. ROGELIO MONTEMAYOR SEGUY, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
@@ -41,15 +43,11 @@ LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA 
 
 ### CAPITULO I. DE LOS OBJETIVOS Y DE LAS DEFINICIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 1°.
 
 La presente ley es reglamentaria del artículo 172 de la Constitución Política del Estado de Coahuila de Zaragoza, de orden público e interés social, así como de observancia general en la entidad y tiene por objeto establecer las bases jurídicas necesarias para:
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
-
-En todo lo no previsto en la presente Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza y en su defecto el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
 
 I.- Garantizar el derecho de toda persona a vivir en un medio ambiente adecuado para su desarrollo, salud y bienestar;
 
@@ -74,6 +72,10 @@ IX.- Establecer los mecanismos de coordinación, inducción y concertación de a
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
 X.- Establecer las atribuciones que, en el ámbito de sus respectivas competencias, correspondan al Gobierno del Estado y a los gobiernos municipales en materia ambiental, así como las que les competan bajo el principio de fidelidad municipal, conforme lo previsto por el artículo 172 de la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+
+(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
+
+En todo lo no previsto en la presente Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza y en su defecto el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 2º.
 
@@ -203,9 +205,9 @@ XLVIII.- Recursos biológicos: Los recursos genéticos, los organismos o partes 
 
 XLIX.- Recursos genéticos: El material genético de valor real o potencial.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
 
-XL (SIC).- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
+L.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -2323,7 +2325,7 @@ Las notificaciones por rotulón surtirán sus efectos al día hábil siguiente a
 
 ARTICULO 178 BIS 3.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y (sic) plazo para su interposición.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
 
 ###### ARTICULO 179.
 
