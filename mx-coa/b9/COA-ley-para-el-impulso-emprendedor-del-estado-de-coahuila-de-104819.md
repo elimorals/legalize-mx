@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2014-12-30"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MARZO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -159,7 +159,9 @@ II. El Programa Estratégico;
 
 III. Los fondos para financiar el fomento a la cultura emprendedora y el impulso a los emprendedores; y
 
-V (SIC). Entidades de apoyo a emprendedores.
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+IV. Entidades de apoyo a emprendedores.
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN Y COORDINACIÓN PARA DESARROLLO DE UNA SOCIEDAD EMPRENDEDORA EN EL ESTADO
 
@@ -399,15 +401,25 @@ m) Incorporación de investigadores, tecnólogos y profesionistas de alto nivel 
 
 n) Apoyo y fomento a la integración de sistemas regionales de innovación, alianzas estratégicas, consorcios, agrupamientos empresariales, incubadoras de empresas, aceleradoras de negocios y empresas de reciente creación;
 
-o) Conformación y supervisión de vehículos e instrumentos de capital de riesgo y capital semilla, aplicables al Estado, para la creación de nuevas empresas y el desarrollo de empresas de reciente creación, cuya operación sea sustentable y mediante personal profesional en esta materia;
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
 
-p) Cooperación y colaboración con organismos y entidades de origen nacional e internacional relacionados con los objetivos de la presente Ley;
+ñ) Conformación y supervisión de vehículos e instrumentos de capital de riesgo y capital semilla, aplicables al Estado, para la creación de nuevas empresas y el desarrollo de empresas de reciente creación, cuya operación sea sustentable y mediante personal profesional en esta materia;
 
-q) Establecimiento del Premio al Emprendedor del Año, brindando apoyos económicos tales como recursos financieros, entrenamientos, asesorías, mentorías, acompañamientos, acceso a ferias y exposiciones estatales, nacionales e internacionales, becas a emprendedores, y todo aquel apoyo que represente un beneficio a los galardonados con el premio;
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
 
-r) Asignación de recursos económicos y financieros para el diseño, creación, equipamiento, operación y divulgación de un sistema integral de información que otorgue transparencia en el uso, la prioridad de asignación y la justificación de los recursos económicos y financieros destinados a las actividades contempladas dentro esta Ley, que permita la evaluación del desempeño y los resultados obtenidos por las entidades que reciban recursos económicos y financieros para realizar actividades en el marco de la presente Ley; y
+o) Cooperación y colaboración con organismos y entidades de origen nacional e internacional relacionados con los objetivos de la presente Ley;
 
-s) Las demás que determine el Consejo General Ciudadano.
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+p) Establecimiento del Premio al Emprendedor del Año, brindando apoyos económicos tales como recursos financieros, entrenamientos, asesorías, mentorías, acompañamientos, acceso a ferias y exposiciones estatales, nacionales e internacionales, becas a emprendedores, y todo aquel apoyo que represente un beneficio a los galardonados con el premio;
+
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+q) Asignación de recursos económicos y financieros para el diseño, creación, equipamiento, operación y divulgación de un sistema integral de información que otorgue transparencia en el uso, la prioridad de asignación y la justificación de los recursos económicos y financieros destinados a las actividades contempladas dentro (sic) esta Ley, que permita la evaluación del desempeño y los resultados obtenidos por las entidades que reciban recursos económicos y financieros para realizar actividades en el marco de la presente Ley; y
+
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+r) Las demás que determine el Consejo General Ciudadano.
 
 VI. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y largo plazos, por parte de los sectores público, social y privado, para que el Estado alcance niveles de desarrollo económico y social mediante la aplicación de conocimientos e innovaciones empresariales equiparables a los de los países más desarrollados; y
 
@@ -515,11 +527,19 @@ Para lograr los objetivos y fines de esta Ley, se contara con la partida que sea
 
 Podrá recibir recursos de los fondos estatales existentes destinados al impulso de emprendedores en proceso de creación de nuevas empresas, al desarrollo de empresas de reciente creación y al fomento de la cultura emprendedora basada en la innovación manteniendo las reglas de operación y legislación correspondiente según el fondo.
 
-Artículo 38 (sic).- Se crea el Fondo Estatal para Fomentar la Cultura Emprendedora e Impulsar a los Emprendedores, con la partida anual que se establezca en la Ley de Egresos del Estado de Coahuila de Zaragoza.
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+###### Artículo 26.
+
+Se crea el Fondo Estatal para Fomentar la Cultura Emprendedora e Impulsar a los Emprendedores, con la partida anual que se establezca en la Ley de Egresos del Estado de Coahuila de Zaragoza.
+
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
 
 Su integración, funcionamiento y operación estará a cargo de la Dirección General para las Micro, Pequeñas y Medianas Empresas, o por quien designe la Junta de Gobierno y se aplicarán sus recursos conforme a lo dispuesto en esta Ley.
 
-Artículo 26 (sic).- El Fondo Estatal para Fomentar la Cultura Emprendedora e Impulsar a los emprendedores será participativo e incluyente de las dependencias y entidades de la Administración Pública Estatal y podrá contar con la participación de los sectores académico, científico y tecnológico, público, social, financiero y privado, relacionadas con el objeto del fondo y las materias establecidas en el Programa Estratégico, en los términos que se establezcan en sus reglas de operación.
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+El Fondo Estatal para Fomentar la Cultura Emprendedora e Impulsar a los emprendedores será participativo e incluyente de las dependencias y entidades de la Administración Pública Estatal y podrá contar con la participación de los sectores académico, científico y tecnológico, público, social, financiero y privado, relacionadas con el objeto del fondo y las materias establecidas en el Programa Estratégico, en los términos que se establezcan en sus reglas de operación.
 
 ###### Artículo 27.
 
@@ -575,7 +595,9 @@ c) Los términos de referencia de los proyectos y la forma de aplicación de apo
 
 El Gobierno del Estado, así como el Fondo Estatal para Fomentar la Cultura Emprendedora e Impulsar a los Emprendedores, podrá constituir otros fondos de manera coordinada con dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, con los gobiernos de otras entidades federativas, con universidades, instituciones, organismos nacionales y extranjeros y con cualquier otra persona física o moral, pública o privada, cuya finalidad principal sea el logro y cumplimiento del objeto y objetivos de esta Ley y el Programa Estratégico.
 
-Los recursos de estos fondos se ejercerán conforme a las reglas de operación establecidas en el artículo 28 de esta Ley.
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+Los recursos de estos fondos se ejercerán conforme a las reglas de operación establecidas en el artículo 27 de esta Ley.
 
 Los fondos de participación extranjera a que se refiere este artículo serán constituidos en términos de la Ley de Inversión Extranjera.
 
