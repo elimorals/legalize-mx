@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2014-12-17"
+last_updated: "2015-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE NO. LXII-390 PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2014, LA PRESENTE REFORMA ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -927,21 +925,15 @@ XVI. Elaborar y presentar al Ejecutivo del Estado el proyecto del Programa Estat
 
 XVII. Diseñar, proponer y ejecutar la política estatal de atención a la juventud, promoviéndose la adopción de políticas en materia de educación sexual, prevención de enfermedades, oportunidades de empleo, expresión cultural y artística y lucha contra las adicciones y la delincuencia;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
 
-XVIII. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Mujer Tamaulipeca, del Instituto Tamaulipeco de la Juventud y del Instituto Tamaulipeco de Vivienda y Urbanismo;
+XVIII. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Mujer Tamaulipeca y del Instituto de la Juventud de Tamaulipas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
+XIX. (DEROGADA, P.O. 24 DE MARZO DE 2015)
 
-XIX. Expedir y suscribir, por acuerdo del Ejecutivo y por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, las escrituras y títulos de propiedad que deba otorgar en cumplimiento de sus atribuciones;
+XX. (DEROGADA, P.O. 24 DE MARZO DE 2015)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
-
-XX. Formular, coordinar, promover y ejecutar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, los programas de vivienda, particularmente de las de bajo costo, edificios multifamiliares y zonas habitacionales para trabajadores de escasos recursos, y procurar la regeneración de zonas marginadas y viviendas insalubres e inadecuadas;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
-
-XXI. Fomentar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, la organización de sociedades cooperativas de vivienda y materiales para construcción;
+XXI. (DEROGADA, P.O. 24 DE MARZO DE 2015)
 
 XXII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
@@ -1163,11 +1155,17 @@ XXXIX. Recibir, investigar y atender o, en su caso, canalizar a las autoridades 
 
 XL. Coordinar la política estatal sobre cambio climático y sobre la protección de la capa de ozono, de acuerdo con las competencias de las autoridades federales;
 
-XLI. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2015)</small>
 
-XLII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+XLI. Expedir y suscribir, por acuerdo del Ejecutivo y por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, las escrituras y títulos de propiedad que deba otorgar en cumplimiento de sus atribuciones;
 
-XLIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2015)</small>
+
+XLII. Formular, coordinar, promover y ejecutar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, los programas de vivienda, particularmente de las de bajo costo, edificios multifamiliares y zonas habitacionales para trabajadores de escasos recursos, y procurar la regeneración de zonas marginadas y viviendas insalubres e inadecuadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2015)</small>
+
+XLIII. Fomentar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, la organización de sociedades cooperativas de vivienda y materiales para construcción;
 
 XLIV. Establecer los lineamientos urbanísticos a que deben ajustarse los proyectos de obra pública y desarrollo urbano que realicen las dependencias y entidades oficiales o particulares;
 
@@ -1191,11 +1189,61 @@ LIII. Vigilar y opinar previamente a la modificación o demolición de inmuebles
 
 LIV. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
 
-LV. Coordinar administrativamente las actividades de la Comisión Estatal de Áreas Naturales Protegidas; la Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; la Comisión Estatal de Agua de Tamaulipas; Comisiones Municipales de Agua Potable y Alcantarillado que se encuentren a cargo del Estado en tanto organismos descentralizados, así como de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
+LV. Coordinar administrativamente las actividades de la Comisión Estatal de Áreas Naturales Protegidas; la Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; el Instituto Tamaulipeco de Vivienda y Urbanismo; la Comisión Estatal de Agua de Tamaulipas; las Comisiones Municipales de Agua Potable y Alcantarillado que se encuentren a cargo del Estado en tanto organismos descentralizados, así como de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
-LVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LVI. El desarrollo urbano con criterios uniformes respecto de la planeación, control y crecimiento con calidad de las ciudades y zonas metropolitanas del Estado, además de los centros de población en general, así como su respectiva infraestructura de comunicaciones y de servicios;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LVII. Proyectar la distribución de la población y la ordenación territorial de los centros de población;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LVIII. Promover y concertar programas de vivienda y de desarrollo urbano y metropolitano, y apoyar su ejecución, con la participación del gobierno federal y municipales, así como de los sectores social y privado, a efecto de que el desarrollo estatal en la materia se oriente hacia una planeación sustentable y de integración;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LIX. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LX. Planear, diseñar, promover, apoyar y evaluar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias de la Administración Pública Federal correspondientes, de los gobiernos municipales, de las instituciones de crédito y de los diversos grupos sociales;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXI. Facilitar las acciones de coordinación de los entes públicos responsables de la planeación urbana y metropolitana en los municipios cuando así lo convengan;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXII. Proyectar y coordinar, con la participación que corresponda a los gobiernos municipales, la planeación regional del desarrollo;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXIII. Elaborar los programas regionales y especiales que le señale el Ejecutivo Estatal tomando en cuenta las propuestas que para el efecto realicen las dependencias de la Administración Pública y los gobiernos municipales;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXIV. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos municipales y con la participación de los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXV. Planear, proponer y elaborar programas urbanos para el fortalecimiento de un sistema de ciudades que atiendan el balance urbano y rural;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXVI. Diseñar modelos de planeación urbana logística metropolitana;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXVII. Convenir en materia de Desarrollo urbano con los municipios involucrados y en su caso con las dependencias federales, lo referente a la red vial, cuando ésta sea de carácter estatal, intermunicipal e incida en zona conurbada; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+LXVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2056,3 +2104,21 @@ Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
+###### ARTÍCULO TERCERO.
+
+Se faculta al Ejecutivo Estatal para llevar a cabo las reformas necesarias al Decreto de Creación del Instituto Tamaulipeco de Vivienda y Urbanismo y demás normas administrativas correspondientes, para armonizarlo con lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
