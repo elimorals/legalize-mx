@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2014-12-30"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE DESARROLLO ECONOMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MARZO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -41,9 +41,11 @@ LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el territorio del Estado de Coahuila de Zaragoza y tiene por objeto establecer las bases para fomentar el desarrollo económico del Estado por medio de la competitividad, la planeación, generación de las condiciones económicas propicia, la instalación de la infraestructura necesaria para incentivar la inversión nacional y extranjera; y la generación de empleos permanentes y remunerativos, para lograr un entorno favorable para el desarrollo económico local, regional, nacional e internacional.
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el territorio del Estado de Coahuila de Zaragoza y tiene por objeto establecer las bases para fomentar el desarrollo económico del Estado por medio de la competitividad, la planeación, generación de las condiciones económicas propicias, la instalación de la infraestructura necesaria para incentivar la inversión nacional y extranjera; y la generación de empleos permanentes y remunerativos, para lograr un entorno favorable para el desarrollo económico local, regional, nacional e internacional.
 
 ###### Artículo 2.
 
@@ -79,9 +81,13 @@ XII. Instrumentos de Desarrollo Económico: Mecanismos jurídicos que crean, mod
 
 XIII. Ley: Ley de Desarrollo Económico para el Estado de Coahuila de Zaragoza;
 
-XIV. Micro, Pequeña y Mediana Empresa: Empresas legalmente constituidas, con base en la estratificación establecida en la fracción III del Artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y en el Acuerdo por el que se establece las estratificación de las micro, pequeñas y medianas empresas, publicado en el Diario Oficial de la Federación el 30 de junio de 2009.
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINA 36.</small>
+XIV. Micro, Pequeña y Mediana Empresa: Empresas legalmente constituidas, con base en la estratificación establecida en la fracción III del Artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y en el Acuerdo por el que se establece las (sic) estratificación de las micro, pequeñas y medianas empresas, publicado en el Diario Oficial de la Federación el 30 de junio de 2009.
+
+* Tope Máximo Combinado = (Trabajadores) X 10% + (Ventas Anuales) X 90%
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE MARZO DE 2015, PÁGINA 34.</small>
 
 XV. Secretaría: Secretaría de Desarrollo Económico y Competitividad del Gobierno del Estado de Coahuila de Zaragoza;
 
@@ -313,7 +319,9 @@ Los estímulos e incentivos a que se refiere la presente Ley se otorgarán confo
 
 I. Las empresas que los soliciten deberán presentar su petición debidamente requisitada a la Secretaría o al municipio que corresponda, cuando se trate de estímulos o incentivos municipales;
 
-II. La Secretaría, tomará en cuenta los criterios de rentabilidad social que se señalan en el artículo 14 y elaborará una propuesta de paquete de incentivos que presentará al Gobernador del Estado para su valoración, en los términos de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza;
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+II. La Secretaría, tomará en cuenta los criterios de rentabilidad social que se señalan en el artículo 13 y elaborará una propuesta de paquete de incentivos que presentará al Gobernador del Estado para su valoración, en los términos de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza;
 
 III. La o el titular de la Consejería Jurídica convocará a sesión de Consejo de Estado, turnará para deliberación la propuesta de paquete de incentivos al mismo, quien votara sobre la procedencia del paquete de incentivos de proyectos específicos;
 
@@ -537,7 +545,9 @@ En caso de que se determine la cancelación o suspensión de los incentivos o ap
 
 Asimismo, el infractor que hubiere gozado de los estímulos de carácter fiscal que se señalan en la presente Ley, deberá pagar a la Secretaría de Finanzas, las contribuciones que hubiere dejado de pagar, adicionando los recargos, actualizaciones y multas, con base en las leyes fiscales aplicables, tomando en cuenta para calcularlos, las fechas en que deberían haberse pagado, de no haberse resuelto favorablemente su solicitud de incentivo.
 
-En el caso de incurrir en la falta señalada en la fracción I del artículo 41, la cancelación será definitiva.
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
+En el caso de incurrir en la falta señalada en la fracción I del artículo 38, la cancelación será definitiva.
 
 ###### Artículo 40.
 
@@ -551,9 +561,11 @@ III. Las condiciones económicas de la empresa infractora, así como su tamaño;
 
 IV. La reincidencia, en cuyo caso el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto.
 
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+
 ###### Artículo 41.
 
-Cuando la Secretaría tenga conocimiento de cualquiera de las infracciones señaladas en el artículo 41 de esta Ley, lo notificará a la empresa correspondiente, para que dentro del término de cinco días hábiles siguientes a su notificación, comparezca por escrito a defender sus derechos y, en su caso, a ofrecer las pruebas que estime pertinentes.
+Cuando la Secretaría tenga conocimiento de cualquiera de las infracciones señaladas en el artículo 38 de esta Ley, lo notificará a la empresa correspondiente, para que dentro del término de cinco días hábiles siguientes a su notificación, comparezca por escrito a defender sus derechos y, en su caso, a ofrecer las pruebas que estime pertinentes.
 
 ###### Artículo 42.
 
