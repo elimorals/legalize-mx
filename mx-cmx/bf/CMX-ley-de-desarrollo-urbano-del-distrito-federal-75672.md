@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2015-03-23"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -1236,11 +1236,15 @@ Cuando las autoridades tengan conocimiento de documentos que presuman apócrifos
 
 En los actos administrativos contemplados en este capítulo que guarden, en su caso, relación con los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, se observarán las normas que prevean concurrencia en el ámbito de sus competencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2015)</small>
+
 ###### Artículo 92.
 
-El Registro de Planes y Programas expedirá los certificados únicos de zonificación de uso del suelo, y en su caso, los de acreditación de uso del suelo por derechos adquiridos.
+El Registro de Planes y Programas expedirá los certificados únicos de zonificación de uso del suelo; Certificados Únicos de Zonificación de Uso del Suelo Digitales, y en su caso, los de acreditación de uso del suelo por derechos adquiridos.
 
-Se entenderá por Certificado Único de Zonificación de Uso del Suelo el documento público en el que se hacen constar las disposiciones específicas que para un predio o inmueble determinado establecen los instrumentos de planeación del desarrollo urbano.
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2015)</small>
+
+Se entenderá por Certificado Único de Zonificación de Uso del Suelo Digital el documento público en el que se hacen constar las disposiciones específicas que para un predio o inmueble determinado establecen los instrumentos de planeación del desarrollo urbano.
 
 Se entenderá por Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, el documento público que tiene por objeto reconocer los derechos de uso del suelo y superficie que por el aprovechamiento legítimo y continuo tienen los propietarios, poseedores o causahabientes de un bien inmueble, en su totalidad o en unidades identificables de éste, con anterioridad a la entrada en vigor del Programa que los prohibió.
 
@@ -1527,3 +1531,17 @@ SEGUNDO.- El establecimiento en parques y oficinas públicas del Gobierno del Di
 TERCERO.- Los titulares y/o administradores de las plazas comerciales a que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles del Distrito Federal, contarán con un plazo no mayor a 120 días para instalar y/o adecuar los bebederos o estaciones de agua potable en sus inmuebles.
 
 CUARTO.- La presente reforma entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno del Distrito Federal para su publicación en el diario oficial del Distrito Federal para su debida observancia y aplicación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Jefe de Gobierno del Distrito Federal, en uso de su facultad reglamentaria deberá modificar el respectivo reglamento, a fin de cumplir con la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Desarrollo Urbano y Vivienda deberá instrumentar la expedición de Certificados Únicos de Zonificación de Uso del Suelo Digitales, en un plazo de 365 días, para lo cual se le deberá de asignar los recursos necesarios para su implementación.
