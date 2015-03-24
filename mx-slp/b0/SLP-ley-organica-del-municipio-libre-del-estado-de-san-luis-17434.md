@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2015-01-10"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -245,7 +245,7 @@ II. Villa: Centro de población que cuente con más de siete mil quinientos mil 
 
 III. Pueblo: Centro de población que cuente con más de mil habitantes; más servicios públicos básicos, oficinas para las autoridades del lugar; panteón e instituciones de enseñanza preescolar y primaria, y
 
-IV. Ranchería: Centro de población con menos mil (sic) habitantes.
+IV. Ranchería: Centro de población con menos (sic) mil habitantes.
 
 El Congreso del Estado, previa solicitud del Ayuntamiento respectivo, otorgará la categoría que corresponda, cuya declaratoria deberá publicarse en el Periódico Oficial del Estado.
 
@@ -1385,15 +1385,21 @@ VIII. Participar en la elaboración y actualización de los inventarios generale
 
 IX. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de cabildo; además llevar un registro referente a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos en la administración municipal, así como los medios de impugnación y su resolución con carácter definitivo, para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrita en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades de los Servidores Públicos;
 
-X. Informar oportunamente a los servidores públicos municipales acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2007)</small>
+X. Informar oportunamente a los servidores públicos municipales acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley;
 
-XI. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, enajenaciones, arrendamientos, usos y conservación del patrimonio municipal, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2007)</small>
+XI. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, enajenaciones, arrendamientos, usos y conservación del patrimonio municipal;
 
-XII. Las demás que le señalen las leyes y reglamentos municipales.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
+
+XII. Remitir, al Congreso del Estado, al término de su encargo, informe final que contenga la situación de las acciones tomadas, y las observaciones que durante su gestión hayan sido resueltas, o que se encuentren en trámite; que detalle cómo se resolvieron o qué sanción se impuso. Además de las que continúen pendientes de resolver, donde se justifique de manera fehaciente el motivo por el cual no se ha iniciado procedimiento o, en su caso, dictado resolución; todo ello para que el nuevo titular prosiga o inicie el procedimiento o trámites que se venían realizando, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+
+XIII. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO VIII. Del Departamento de Asuntos Indígenas
 
@@ -2680,3 +2686,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Ejecutivo del Estado contará con un término de noventa días contados a partir de la publicación del presente Decreto, para expedir el Reglamento a que se refiere el artículo 107 Bis que se adiciona por medio del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE MARZO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
