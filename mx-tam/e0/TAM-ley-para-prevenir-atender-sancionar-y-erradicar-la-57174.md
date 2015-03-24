@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2015-03-05"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -537,6 +537,10 @@ j) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
 
+### Capítulo VII. De las Responsabilidades y Sanciones
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2015)</small>
+
 ###### Artículo 21.
 
 1. Toda autoridad estatal o municipal, en el ámbito de sus atribuciones, deberá prestar atención a las víctimas de la violencia en contra de las mujeres. A su vez, deberá fomentar la adopción y aplicación de programas y acciones de protección a las víctimas de esos hechos.
@@ -603,6 +607,12 @@ f) dotar de todo aquello que sea necesario para la protección y atención de la
 
 2. En ningún caso se podrá mantener a las mujeres víctimas de la violencia en los refugios, en contra de su voluntad.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE MARZO DE 2015)</small>
+
+###### Artículo 26.
+
+Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
+
 T R A N S I T O R I O S
 
 Artículo Primero. La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -660,3 +670,9 @@ P.O. 5 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación.
