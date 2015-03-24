@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-sanidad-inocuidad-y-calidad-agroalimentaria-del-89731"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-15"
-last_updated: "2012-09-15"
+last_updated: "2015-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de septiembre de 2012.
 
@@ -129,7 +129,7 @@ XXXIII. Guía de tránsito: documento obligatorio oficial del Gobierno del Estad
 
 XXXIV. Inocuidad alimentaria: condición de los alimentos de origen animal o vegetal que garantizan un mínimo de riesgo de contaminación física, química o microbiológica, de diversos productos y subproductos, indicando que son sanos y no causan daño a la salud del consumidor;
 
-XXXV. Inspector oficial estatal fitozoosanitario: profesional contratado por Gobierno (sic) del Estado que realiza la vigilancia, verificación, inspección y levantamiento de actuaciones oficiales para constatar el cumplimiento de las disposiciones fitozoosanitarias vigentes;
+XXXV. Inspector oficial estatal fitozoosanitario: profesional contratado por (sic) Gobierno del Estado que realiza la vigilancia, verificación, inspección y levantamiento de actuaciones oficiales para constatar el cumplimiento de las disposiciones fitozoosanitarias vigentes;
 
 XXXVI. Inspección: acto que realiza la SEDARH para constatar mediante la verificación el cumplimiento de esta Ley y de las disposiciones que de ella deriven;
 
@@ -377,7 +377,7 @@ XII. Comunicar a la organización ganadera de la localidad y autoridades de los 
 
 XIII. Autorizar el funcionamiento de los rastros y establecimientos similares, previa la opinión de las autoridades correspondientes;
 
-XlV. Llevar en los rastros un libro de control para el sacrificio de animales que contenga los siguientes requisitos:
+XIV. Llevar en los rastros un libro de control para el sacrificio de animales que contenga los siguientes requisitos:
 
 a) Folio, nombre del propietario del animal, y demás datos que se incluyan en la guía de tránsito.
 
@@ -461,7 +461,7 @@ III. Las demás que señalen las leyes, reglamentos, normatividad aplicable, as�
 
 ## TITULO TERCERO. DE LOS ORGANISMOS AUXILIARES
 
-### Capítulo I. De los Organismos de Auxiliares (sic)
+### Capítulo I. De los Organismos de (sic) Auxiliares
 
 ###### ARTICULO 17.
 
@@ -515,7 +515,7 @@ II. Proponer a la SEDARH la implementación de proyectos en materia de sanidad, 
 
 El Consejo Estatal Consultivo Fitozoosanitario será el órgano auxiliar del titular del Ejecutivo y tendrá a su cargo el estudio, discusión y evaluación de la aplicación de los programas en materia de sanidad, inocuidad y calidad agroalimentaria de la entidad y recomendar las acciones para su mejor aplicación, y estará integrado de la siguiente manera:
 
-I. Por el Secretario de Desarrollo Agropecuario y Recursos Hidráulicos de Gobierno (sic) del Estado, quien fungirá como presidente;
+I. Por el Secretario de Desarrollo Agropecuario y Recursos Hidráulicos de (sic) Gobierno del Estado, quien fungirá como presidente;
 
 II. Los Directores del área de Sanidad Animal y Sanidad Vegetal de la SEDARH, fungirán como Vocal de Sanidad Animal y Vocal de Sanidad Vegetal, respectivamente;
 
@@ -763,13 +763,13 @@ La SEDARH, en coordinación con las· autoridades federales, los productores y o
 
 ###### ARTICULO 42.
 
-El productor agrícola realizará el establecimiento del cultivo, el periodo de cosecha y el periodo de destrucción de los residuos de cosecha conforme a las fechas establecidas en artículo (sic) anterior.
+El productor agrícola realizará el establecimiento del cultivo, el periodo de cosecha y el periodo de destrucción de los residuos de cosecha conforme a las fechas establecidas en (sic) artículo anterior.
 
 ### Capítulo II. Del Control Zoosanitario
 
 ###### ARTICULO 43.
 
-La prevención, control y erradicación de las plagas y enfermedades que afecten a las especies pecuarias en el Estado, será de interés público y obligatorio, (sic)
+La prevención, control y erradicación de las plagas y enfermedades que afecten a las especies pecuarias en el Estado, será de interés público y obligatorio,
 
 ###### ARTICULO 44.
 
@@ -1109,7 +1109,7 @@ Los productores y transportistas que no acaten lo anterior, se harán acreedores
 
 ###### ARTICULO 90.
 
-Los animales, vegetales, sus productos y subproductos transiten (sic) sin la guía de tránsito correspondiente, o los datos que en ella se asienten no concuerden con los animales, vegetales, sus productos y subproductos de que se trate, serán asegurados, incluyendo su medio de transporte, poniéndolos en su caso a disposición de la autoridad correspondiente.
+Los animales, vegetales, sus productos y subproductos (sic) transiten sin la guía de tránsito correspondiente, o los datos que en ella se asienten no concuerden con los animales, vegetales, sus productos y subproductos de que se trate, serán asegurados, incluyendo su medio de transporte, poniéndolos en su caso a disposición de la autoridad correspondiente.
 
 Así mismo se debe considerar lo siguiente:
 
@@ -1179,7 +1179,7 @@ En caso de extravío de una o varias TIIGA, se dará vista de forma inmediata al
 
 ###### ARTICULO 101.
 
-Las tarjetas TIIGA serán recogidas en los centros de sacrificio o en el último PVI cuando el embarque tiene su destino otro (sic) Estado, éstas tarjetas serán dadas de baja del padrón ganadero estatal por la SEDARH.
+Las tarjetas TIIGA serán recogidas en los centros de sacrificio o en el último PVI cuando el embarque tiene su destino (sic) otro Estado, éstas tarjetas serán dadas de baja del padrón ganadero estatal por la SEDARH.
 
 ###### ARTICULO 102.
 
@@ -1337,7 +1337,7 @@ Los inspectores y verificadores asignados a los PVI's del Estado tendrán el car
 
 ###### ARTICULO 120.
 
-En su relación administrativa serán empleados de confianza por lo que podrán ser removidos libremente de su cargo, si no cumplen con los requisitos que la normatividad vigente, que en el momento de la remoción señale para permanecer en dichas instituciones, sin que en ningún caso proceda la reinstalación o restitución de la plaza, cargo o comisión, cualquiera que sea el juicio o medio de defensa utilizado para acto (sic), y en su caso sólo procederá la indemnización.
+En su relación administrativa serán empleados de confianza por lo que podrán ser removidos libremente de su cargo, si no cumplen con los requisitos que la normatividad vigente, que en el momento de la remoción señale para permanecer en dichas instituciones, sin que en ningún caso proceda la reinstalación o restitución de la plaza, cargo o comisión, cualquiera que sea el juicio o medio de defensa utilizado para (sic) acto, y en su caso sólo procederá la indemnización.
 
 ### Capítulo VII. Del Control de la Movilización de Vegetales, sus Productos y Subproductos
 
@@ -1491,7 +1491,9 @@ Cada rastro o establecimiento similar, deberá contar con uno o más médicos ve
 
 I. Verificar que los animales a sacrificio dispongan de la documentación legal correspondiente, o en su caso, si así procede, elaborar la guía de tránsito correspondiente o bien, retornar o retener el embarque y ponerlo a disposición de la autoridad competente;
 
-II. Que cumplan con las especificaciones establecidas en la revisión ante mortem;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
+
+II. Que cumplan con las especificaciones establecidas en la revisión ante mortem; vigilando la aplicación de los métodos de insensibilización y trato humanitario en el sacrificio de animales, contemplados en la Norma Oficial Mexicana NOM-033-ZOO-1995, y demás que resulten aplicables;
 
 III. Realizar la inspección pos mortem reglamentaria, para comprobar que los productos y subproductos derivados del sacrificio sean aptos para el consumo humano y su comercialización, y
 
@@ -1866,3 +1868,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MARZO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
