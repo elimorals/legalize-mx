@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2014-11-01"
+last_updated: "2015-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -443,7 +443,9 @@ El Gobierno del Estado brindará protección y defensa a los derechos humanos de
 
 El Estado combatirá en sus causas la migración que lesiona la dignidad humana
 
-Se crea el Instituto Estatal de Migración, con la estructura y fines que señale el correspondiente decreto del Ejecutivo, sin contravenir a lo dispuesto por la legislación federal
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
+
+El Poder Ejecutivo contará con una dependencia encargada de proponer, regular, conducir, aplicar y evaluar la política estatal en materia de migración, con la estructura y fines que señale la ley, sin contravenir a lo dispuesto por la legislación federal.
 
 ###### Artículo 25.
 
@@ -529,7 +531,9 @@ La educación que se imparta en el Estado, en todos sus grados y niveles, tender
 
 El sistema educativo estatal formará a los alumnos para que sus vidas se orienten por los conceptos de: justicia, democracia, respeto al Estado de Derecho y respeto a los derechos humanos. Fomentará en ellos, la cultura de la legalidad y la cultura de la paz. Facilitará el conocimiento de los valores de la paz para lograr el entendimiento y la concordia entre los seres humanos, el respeto, la tolerancia y el diálogo; difundirá como métodos de solución de conflictos: la negociación, la conciliación y la mediación, a fin de que los educandos erradiquen toda clase de violencia y aprendan a vivir en paz.
 
-El desarrollo educativo y cultural, científico y tecnológico, es tarea primordial del Estado. Los particulares podrán coadyuvar en estas acciones en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
+
+Toda persona tiene el derecho al acceso a la ciencia, la tecnología y la innovación. El Estado lo garantizará.
 
 Las universidades públicas e instituciones estatales de educación superior tienen derecho a recibir del Estado un subsidio anual, para el cumplimiento de sus fines.
 
@@ -572,6 +576,10 @@ VII. La inobservancia a las disposiciones en materia de acceso a la información
 Todo individuo tiene derecho a disfrutar de un medio ambiente adecuado y sano que propicie el desarrollo integral de manera sustentable.
 
 El Estado dictará, en el ámbito de su competencia, las medidas apropiadas que garanticen la preservación del equilibrio ecológico, la protección del ambiente y el aprovechamiento racional de los recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de generaciones futuras.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2015)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento del agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado deberá garantizar este derecho y la ley definirá los mecanismos, bases, apoyos y modalidades para el acceso, uso equitativo y sustentable de los recursos hídricos, estableciendo y delimitando la participación del Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
 ###### Artículo 31.
 
@@ -3416,3 +3424,27 @@ Artículo primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
 Artículo tercero.- Los procedimientos, auditorías y revisiones incoados con anterioridad a la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión, conforme a las disposiciones vigentes al momento de iniciados los mismos.
+
+P.O. 25 DE MARZO DE 2015.
+
+DECRETO NÚMERO 325, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE MARZO DE 2015.
+
+DECRETO NÚMERO 326, POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE MARZO DE 2015.
+
+DECRETO NÚMERO 327 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
