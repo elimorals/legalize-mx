@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2014-09-08"
+last_updated: "2015-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -1066,7 +1066,7 @@ En el caso de dictámenes que atiendan iniciativas preferentes, estos podrán in
 
 2. Un asunto podrá ser sometido a discusión y votación del Pleno sin que se presente el dictamen de comisión respectivo cuando:
 
-I. Se tramite de urgente u obvia resolución, y (sic)
+I. Se tramite de urgente u obvia resolución, y
 
 II. Se trate de iniciativas y minutas que no hubieran sido dictaminadas por la comisión responsable, en los plazos establecidos en este Reglamento y deban ser presentadas en sus términos ante el Pleno, sólo cuando hayan cumplido el requisito de declaratoria de publicidad que deberá hacerse, con una anticipación de al menos, dos sesiones previas a la que se discuta.
 
@@ -1926,7 +1926,9 @@ III. Terminada la votación, la Secretaría comunicará el resultado al Presiden
 
 ###### Artículo 148.
 
-1. Las comisiones o comités, para el despacho de los asuntos, deberán contar con asesores parlamentarios de carrera que proporcionará el Comité de Administración conforme a la disponibilidad de los recursos humanos y el perfil del conocimiento requerido para cada tema.
+> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 2015)</small>
+
+1. Las comisiones o comités, para el despacho de los asuntos, deberán contar con un Secretario Técnico y asesores parlamentarios, preferentemente del servicio de carrera, que autorizará el Comité de Administración conforme a la disponibilidad de los recursos humanos y el perfil del conocimiento requerido para cada tema.
 
 2. Podrán además, en los casos que así lo amerite, tener personal de confianza y, en su caso, de base, que reúna el perfil del conocimiento requerido para cada tema.
 
@@ -2053,6 +2055,26 @@ VIII. Proponer al Presidente de la comisión o comité el nombramiento de sus as
 IX. Remitir las versiones estenográficas de las reuniones en que se discutan predictámenes, al Archivo General, así como a la Biblioteca de la Cámara, especificando las que revistan el carácter de reservadas o confidenciales, de conformidad con la normatividad aplicable, y
 
 X. Aquellas que le sean encomendadas por el Presidente de la Junta Directiva.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2015)</small>
+
+2. Serán tareas y atribuciones del Secretario Técnico:
+
+I. Coordinar los trabajos de la comisión o comité, bajo la dirección del Presidente de la Junta Directiva;
+
+II. Desarrollar el análisis y las investigaciones correspondientes para el desahogo de los asuntos turnados a la comisión o comité;
+
+III. Elaborar las actas de las reuniones;
+
+IV. Llevar el registro de los integrantes y del estado que guarden los asuntos turnados a la comisión o comité;
+
+V. Asistir a la Junta Directiva de la comisión o comité en la planeación y organización de sus actividades, así como formular las convocatorias de las reuniones, órdenes del día, informes, memorias y publicaciones;
+
+VI. Llevar el archivo de la comisión, con el apoyo y articulación de los servicios a la sesión, a las comisiones y el archivo;
+
+VII. Dirigir los trabajos de los asesores y del personal administrativo de apoyo a la Junta Directiva, y
+
+VIII. Atender y dar cumplimiento a los acuerdos de la Junta Directiva y del pleno de las comisiones y comités.
 
 #### Sección Cuarta. Subcomisiones
 
@@ -3632,7 +3654,7 @@ d) El Acuerdo de la Mesa Directiva mediante el cual se especifican los criterios
 
 e) El Acuerdo de la Mesa Directiva, mediante el cual se define la fecha en que habrá de aplicarse el acuerdo que establece los lineamientos para acreditar las asistencias de las diputadas y los diputados a las Sesiones Plenarias, así como la justificación de las inasistencias, en términos del artículo 20, numeral 1, inciso b), de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 28 de octubre de 2006;
 
-f) El Acuerdo de la Mesa Directiva por el que se determina continuar observando y aplicando los acuerdos relacionados con la conducción y el funcionamiento de los trabajos del Pleno formulados por la Conferencia, en tanto se realizan las modificaciones pertinentes o en su caso, se expiden los que correspondan para la LXI Legislatura, publicado en la Gaceta Parlamentaria, año XII, número 2848, el viernes 18 de septiembre de 2009, el 18 de septiembre de 2009 (sic);
+f) El Acuerdo de la Mesa Directiva por el que se determina continuar observando y aplicando los acuerdos relacionados con la conducción y el funcionamiento de los trabajos del Pleno formulados por la Conferencia, en tanto se realizan las modificaciones pertinentes o en su caso, se expiden los que correspondan para la LXI Legislatura, publicado en la Gaceta Parlamentaria, año XII, número 2848, el viernes 18 de septiembre de 2009, el 18 de septiembre de 2009;
 
 g) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, mediante el que se determina que las directivas de las comisiones deberán informar a ese órgano parlamentario sobre la asistencia de servidores públicos federales, aprobado el 28 de febrero de 2007, y
 
@@ -3713,3 +3735,7 @@ D.O.F. 8 DE SEPTIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 25 DE MARZO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
