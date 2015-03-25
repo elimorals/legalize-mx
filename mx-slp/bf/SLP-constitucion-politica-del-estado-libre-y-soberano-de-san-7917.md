@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-11-08"
+last_updated: "2015-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -261,7 +261,7 @@ Las autoridades asumirán el ejercicio de todas las atribuciones que les confier
 
 El dominio de los bienes se extinguirá por declaración judicial a petición del Ministerio Público, conforme a la ley que para tal fin se expida, previo procedimiento que se regirá por las reglas siguientes:
 
-l. Será jurisdiccional y autónomo del de materia penal;
+I. Será jurisdiccional y autónomo del de materia penal;
 
 II. Procederá en los casos de, secuestro, robo de vehículos, y trata de personas, respecto de los bienes siguientes:
 
@@ -1293,11 +1293,13 @@ XIX.- Celebrar y ejecutar actos de dominio sobre bienes muebles propiedad del Es
 
 XX.- Con la autorización del Congreso, concertar empréstitos y avalar los que soliciten los Ayuntamientos u otros organismos públicos;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
 
-XXI.- Organizar el sistema penitenciario en el Estado siempre sobre la base del respeto a los derechos humanos, el trabajo, la educación, el deporte y las actividades culturales y recreativas, como medios de readaptación social; así como fijar el lugar y establecimiento donde los internos deban compurgar las penas impuestas por los tribunales;
+XXI. Organizar el sistema penitenciario en el Estado, siempre sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte, y las actividades culturales y recreativas, para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir. Y determinar el lugar y establecimiento donde los sentenciados deban compurgar las penas de prisión impuestas por los tribunales;
 
-XXII.- Celebrar convenios de carácter general con la Federación, para que los sentenciados por delitos del orden común cumplan su condena en establecimientos dependientes del Poder Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+
+XXII. Celebrar convenios de carácter general con la Federación, para que los sentenciados por el delito del orden común cumplan su condena en establecimientos dependientes del Poder Ejecutivo Federal, o del fuero federal en centros de reinserción estatales;
 
 XXIII.- Asistir a las reuniones de los Ayuntamientos, a solicitud de los mismos;
 
@@ -1413,11 +1415,11 @@ A solicitud de los Ayuntamientos y sus entidades, el Consejero Jurídico prestar
 
 Para la preservación de la tranquilidad y el orden público se organizará la fuerza competente de seguridad pública, en los términos y con las corporaciones que establezcan las leyes relativas.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 89.
 
-Los miembros de los cuerpos de seguridad pública, por la naturaleza de su función y atendiendo a lo establecido en lo conducente por el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, tendrán el carácter de agentes depositarios de autoridad y su relación con la administración pública será de carácter administrativo y se regirá por sus propias leyes.
+El personal de las instituciones de seguridad pública del Estado y los municipios, por la naturaleza de su función y atendiendo a lo establecido en lo conducente por el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, tendrán el carácter de agentes depositarios de autoridad, y su relación con la administración pública será de carácter administrativo y se regirá por sus propias leyes.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1573,7 +1575,9 @@ Los magistrados del Supremo Tribunal de Justicia durarán en su encargo seis añ
 
 Para ser ratificado se requerirá el voto favorable de cuando menos las dos terceras partes de los miembros del Congreso. En caso contrario se declarará la vacante, debiendo procederse en consecuencia.
 
-El cargo de magistrado en ningún caso podrá ser ejercido durante un período mayor de quince años. Al vencimiento de su período tendrá derecho a un haber de retiro, en los términos que marque la ley.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
+
+El cargo de magistrado en ningún caso podrá ser ejercido después de los setenta y tres años de edad, ni por un periodo mayor de quince años. Al vencimiento de su periodo o término de su función, tendrá derecho a un haber de retiro en los términos que marque la ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1597,7 +1601,9 @@ Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
 I.- Ser mexicano por nacimiento, y ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Tener cuando menos treinta y cinco años de edad el día de su nombramiento;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+
+II.- Tener cuando menos treinta y cinco años el día de su nombramiento, y no más de setenta y tres años de edad;
 
 III.- Tener al día de su nombramiento, título profesional de licenciado en derecho con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
 
@@ -1631,7 +1637,9 @@ En cada Distrito Judicial, que comprenderá los municipios que designe la Ley Or
 
 Los jueces de primera instancia serán nombrados, removidos, ratificados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos que establezca la ley para la carrera judicial. Durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
-El cargo de juez no podrá ejercerse después de los setenta años de edad.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
+
+El cargo de juez no podrá ejercerse después de los setenta y tres años de edad. Al término de su función tendrá derecho al haber de retiro que marque la ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2920,3 +2928,21 @@ P.O. 8 DE NOVIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2015.
+
+DECRETO NO. 736 POR EL QUE SE REFORMAN LOS ARTÍCULOS, 80 EN SUS FRACCIONES XXI Y XXII, Y 89, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2015.
+
+DECRETO NO. 737, POR EL QUE SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los magistrados del Supremo Tribunal de Justicia del Estado de San Luis Potosí que se encuentran en funciones, y que hayan sido electos con anterioridad a la entrada en vigor de este Decreto, se regirán por la ley vigente en el momento de su elección. Los jueces que se encuentran en funciones al momento de la entrada en vigor del presente Decreto, podrán elegir entre los setenta o setenta y tres años como edad para su retiro.
