@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-transparencia-acceso-a-818
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-20"
-last_updated: "2011-06-20"
+last_updated: "2015-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MEXICO Y MUNICIPIOS -ANTES REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS-
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS
+REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MÉXICO Y MUNICIPIOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 20 de junio de 2011.
 
@@ -123,7 +123,9 @@ A c u e r d o
 
 Único.- Se aprueba el Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
-Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 25 DE MARZO DE 2015)</small>
+
+Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios.
 
 # LIBRO I DE LAS DISPOSICIONES GENERALES
 
@@ -181,49 +183,69 @@ Subsección Séptima De las Coordinaciones de Proyecto
 
 ### CAPÍTULO I. Del Objeto del Reglamento
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
+
 ###### Artículo 1º.
 
-El presente Reglamento Interior tiene por objeto establecer la estructura orgánica del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, definir las atribuciones y deberes de los órganos que lo integran, regular los procesos internos para su adecuado funcionamiento y, en general, proveer lo necesario para el ejercicio de las facultades conferidas por mandato de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+El presente Reglamento Interior tiene por objeto establecer la estructura orgánica del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, definir las atribuciones y deberes de los órganos que lo integran, regular los procesos internos para su adecuado funcionamiento y, en general, proveer lo necesario para el ejercicio de las facultades conferidas en la materia, por mandato de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y de la Ley de Protección de Datos Personales del Estado de México.
 
-###### Artículo 2º.
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
 
-El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios es un órgano constitucionalmente autónomo, especializado e imparcial, con personalidad jurídica y patrimonio propio, con autonomía presupuestaria, operativa, de decisión y de gestión, encargado de promover y difundir el ejercicio del derecho de acceso a la información, la protección de datos y resolver sobre los procedimientos de inconformidad en materia de acceso a la información pública y datos personales, con residencia y domicilio en la capital del Estado.
+###### Artículo 2°.
+
+El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios es un órgano constitucionalmente autónomo, especializado e imparcial, con personalidad jurídica y patrimonio propio, con autonomía presupuestaria, operativa, de decisión y de gestión, encargado de promover y difundir el ejercicio de los derechos de acceso a la información pública y protección de datos personales, así como de resolver sobre los procedimientos de inconformidad en materia de acceso a la información pública y datos personales, con residencia y domicilio en el Estado de México, conforme a lo establecido por la legislación de la materia y los acuerdos que el Pleno emita para tal efecto.
 
 ### CAPÍTULO II. De los Fines del Reglamento
 
-###### Artículo 3º.
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
 
-Es fin de este Reglamento organizar la estructura del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, para darle eficacia y funcionalidad en el ejercicio de las atribuciones que le han sido conferidas, en razón de los objetivos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y los planes, programas y metas presupuestados establecidos al efecto.
+###### Artículo 3°.
 
-###### Artículo 4º.
+Es fin de este Reglamento organizar la estructura del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, para darle eficacia y funcionalidad en el ejercicio de las atribuciones que le han sido conferidas, en razón de los objetivos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, la Ley de Protección de Datos Personales del Estado de México y los planes, programas y metas presupuestados establecidos al efecto.
 
-Los servidores públicos del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios se ajustarán a los principios y objetivos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, el presente Reglamento Interior, los lineamientos que al efecto emita el Instituto y demás disposiciones legales y administrativas que sean aplicables.
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
 
-###### Artículo 5º.
+###### Artículo 4°.
 
-Por la naturaleza de las funciones que desempeña el Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, todos los servidores públicos que presten en él sus servicios, en cualquier categoría, serán considerados trabajadores de confianza.
+Los servidores públicos del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios se ajustarán a los principios y objetivos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, la Ley de Protección de Datos Personales del Estado de México, el presente Reglamento Interior, los lineamientos que al efecto emita el Instituto y demás disposiciones legales y administrativas que sean aplicables.
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
+
+###### Artículo 5°.
+
+Por la naturaleza de las funciones que desempeña el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, todos los servidores públicos que presten en él sus servicios, en cualquier categoría, serán considerados trabajadores de confianza.
 
 ## TÍTULO SEGUNDO. De las Definiciones
 
 ### CAPÍTULO ÚNICO. De las Definiciones
 
-###### Artículo 6º.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2015)</small>
 
-Además de las definiciones establecidas en el artículo 2 de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, para los efectos de este Reglamento, se entenderá por:
+###### Artículo 6°.
+
+Además de las definiciones establecidas en el artículo 2 de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y el artículo 4 de la Ley de Protección de Datos Personales del Estado de México, para los efectos de este Reglamento, se entenderá por:
 
 I. Comisionado. El servidor público integrante del Pleno del Instituto designado por la Legislatura del Estado de México, en términos del artículo 61 de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
 II. Comisionado Presidente. El servidor público designado por la Legislatura del Estado de México, en términos del artículo 61 de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
-III. Comisiones. Las comisiones permanentes, especiales o temporales del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, responsables de atender asuntos operativos, de estudio, de dictamen y de trámite, para su posterior aprobación por parte del Pleno;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-IV. Contraloría. La Contraloría Interna y Órgano de Control y Vigilancia;
+III. Comisiones. Las comisiones permanentes, especiales o temporales del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios responsables de atender asuntos operativos, de estudio, de dictamen y de trámite, para su posterior aprobación por parte del Pleno;
 
-V. Direcciones. Direcciones del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+IV. Contraloría. La Contraloría Interna y Órgano de Vigilancia;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+V. Direcciones. Direcciones del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios;
 
 VI. Gaceta de Gobierno. El periódico oficial del Gobierno del Estado Libre y Soberano de México;
 
-VII. Instituto. El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+VII. Instituto. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios;
 
 VIII. Ley. La Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
@@ -255,17 +277,29 @@ III. Comisionados;
 
 IV. Direcciones:
 
-a) De Administración;
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
+
+a) De Administración y Finanzas;
 
 b) De Capacitación y Comunicación Social;
 
-c) De Informática, y
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
 
-d) Jurídica y de Verificación.
+c) De Informática;
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
+
+d) Jurídica y de Verificación, y
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2015)</small>
+
+e) De Protección de Datos Personales.
 
 V. Órgano de Control y Vigilancia:
 
-a) Contraloría Interna y Órgano de Control y Vigilancia.
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
+
+a) Contraloría Interna y Órgano de Vigilancia.
 
 VI. Secretaría;
 
@@ -285,9 +319,13 @@ El Pleno es el órgano máximo de decisión del Instituto, el cual tomará sus d
 
 Los acuerdos, resoluciones y demás determinaciones que se emitan por parte del Pleno serán obligatorios para los Comisionados, sean ausentes o disidentes al momento de tomarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2015)</small>
+
 ###### Artículo 10.
 
-Además de las atribuciones que le señala la Constitución, el artículo 60 de la Ley, este Reglamento, así como las demás leyes, reglamentos y disposiciones legales que le resulten aplicables, corresponde al Pleno:
+Además de las atribuciones que le señala la Constitución, el artículo 60 de la Ley, el artículo 66 de la Ley de Protección de Datos Personales del Estado de México y este Reglamento, así como las demás leyes, reglamentos y disposiciones legales que le resulten aplicables, corresponde al Pleno:
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
 I. Tutelar y garantizar a toda persona el ejercicio del derecho de acceso a la información pública, así como el ejercicio de los derechos para la protección de los datos personales que se encuentren en posesión de los Sujetos Obligados;
 
@@ -295,7 +333,9 @@ II. Facilitar el acceso de los particulares a la información pública y a los d
 
 III. Contribuir a la mejora de la gestión pública y a la toma de decisiones en las políticas gubernamentales, mediante mecanismos que alienten la participación ciudadana en el acceso a la información;
 
-IV. Aprobar las estrategias generales para el cumplimiento de las facultades que la Ley, el Reglamento y demás disposiciones administrativas confieren al Instituto, el programa anual de trabajo y el sistema para rendición de cuentas y de evaluación sobre el cumplimiento de metas, en términos de la legislación vigente en el Estado;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+IV. Aprobar las estrategias generales para el cumplimiento de las facultades que las Leyes en la materia, el Reglamento y demás disposiciones administrativas confieren al Instituto, el programa anual de trabajo y el sistema para rendición de cuentas y de evaluación sobre el cumplimiento de metas, en términos de la legislación vigente en el Estado;
 
 V. Instruir o dar vista al Área competente cuando, a petición de parte o de oficio, se deban realizar investigaciones;
 
@@ -315,9 +355,13 @@ XII. Convocar a los titulares de las Áreas para que informen sobre programas, a
 
 XIII. Resolver sobre la responsabilidad administrativa y, en su caso, sobre las sanciones aplicables a los servidores públicos de los Sujetos Obligados, conforme a los dictámenes que, en estado de resolución, emita el órgano instructor, en términos de la Ley de Responsabilidades y el Título Séptimo de la Ley;
 
-XIV. Conocer y resolver cualquier asunto relacionado con la materia objeto de la Ley y de este Reglamento;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XV. Aprobar las políticas, planes y programas para la promoción de la cultura de la transparencia, acceso a la información, protección de datos personales y rendición de cuentas;
+XIV. Conocer y resolver cualquier asunto relacionado con la materia objeto de las Leyes en la materia y de este Reglamento;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XV. Aprobar las políticas, planes y programas para la promoción de la cultura de la transparencia, acceso a la información pública, protección de datos personales y rendición de cuentas;
 
 XVI. Ratificar la celebración de convenios, acuerdos, bases de colaboración y demás mecanismos de coordinación con los Sujetos Obligados, con órganos homólogos del país, con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como internacionales, que previamente suscriba el Comisionado Presidente;
 
@@ -351,7 +395,9 @@ XXX. Aprobar la política de comunicación e imagen institucional;
 
 XXXI. Establecer el calendario de labores del Instituto, y
 
-XXXII. Las demás que señale la Constitución Política del Estado Libre y Soberano de México, la Ley, este Reglamento y otras disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXII. Las demás que señale la Constitución Política del Estado Libre y Soberano de México, la Ley, la Ley de Protección de Datos Personales del Estado de México, este Reglamento y otras disposiciones legales y administrativas aplicables."
 
 ###### Artículo 11.
 
@@ -365,7 +411,9 @@ Las sesiones ordinarias se realizarán con la periodicidad que determine el Plen
 
 Las sesiones ordinarias se celebrarán por lo menos una vez a la semana, en las fechas y horas que determine el Pleno.
 
-Las sesiones extraordinarias se celebrarán cuando el caso lo amerite, por lo que serán convocadas por el Comisionado Presidente o cualquiera de los Comisionados, mediante aviso por escrito al Secretario, con un día hábil de anticipación a la fecha en la cual se pretenda llevar a cabo dicha sesión, para que éste realice la convocatoria y la notificación a los demás Comisionados.
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
+
+Las sesiones extraordinarias se celebrarán cuando el caso lo amerite, por lo que serán convocadas por el Comisionado Presidente o cualquiera de los Comisionados, mediante aviso por escrito o correo electrónico institucional al Secretario, con un día hábil de anticipación a la fecha en la cual se pretenda llevar a cabo dicha sesión, para que éste realice la convocatoria y la notificación a los demás Comisionados.
 
 En caso de que se encuentren presentes los Comisionados y estén de acuerdo en llevar a cabo una sesión extraordinaria, se omitirá la convocatoria y la notificación.
 
@@ -535,13 +583,17 @@ El Pleno será competente para conocer de los asuntos administrativos relacionad
 
 #### Sección Segunda. Del Comisionado Presidente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2015)</small>
+
 ###### Artículo 29.
 
 El Comisionado Presidente tendrá las siguientes facultades, además de las precisadas en la Ley:
 
 I. Fungir como enlace entre el Instituto y los Sujetos Obligados e informar al Pleno regularmente sobre el estado de los asuntos relacionados con éstos;
 
-II. Solicitar a los Sujetos Obligados la información necesaria para el ejercicio adecuado de las atribuciones que la Ley otorga al Instituto;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+II. Solicitar a los Sujetos Obligados la información necesaria para el ejercicio adecuado de las atribuciones que las Leyes en la materia otorgan al Instituto;
 
 III. Elaborar y remitir al titular del Poder Ejecutivo, previa aprobación del Pleno, el proyecto de presupuesto de egresos del Instituto;
 
@@ -567,9 +619,13 @@ XIII. Elaborar y expedir, con acuerdo del Pleno, el calendario de labores del In
 
 XIV. Presentar el proyecto de política de comunicación social del Instituto y, previo acuerdo del Pleno, ordenar su ejecución, y
 
-XV. Las demás que señale la Constitución Política del Estado Libre y Soberano de México, la Ley, este Reglamento, aquéllas que acuerde el Pleno y demás disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XV. Las demás que señale la Constitución Política del Estado Libre y Soberano de México, las Leyes en la materia, aquéllas que acuerde el Pleno y demás disposiciones legales y administrativas aplicables.
 
 #### Sección Tercera. De los Comisionados
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2015)</small>
 
 ###### Artículo 30.
 
@@ -579,7 +635,9 @@ I. Asistir a las sesiones del Pleno, con voz y voto;
 
 II. Realizar, por sí mismos o por medio del personal adscrito a su Ponencia, las diligencias para mejor proveer, cuando así lo estimen conveniente en los asuntos de su competencia;
 
-III. Celebrar, por sí mismos o por medio del personal adscrito a su Ponencia, las audiencias necesarias con las partes, en asuntos relativos a los recursos de revisión que substancien y atendiendo a la naturaleza de estos asuntos;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+III. Celebrar, por sí mismos o por medio del personal adscrito a su Ponencia, las audiencias necesarias con las partes y procurar la conciliación entre las autoridades y los titulares de los datos en asuntos relativos a los recursos de revisión que sustancien y atendiendo a la naturaleza de estos asuntos;
 
 IV. Instruir los recursos de revisión que les sean turnados y formular los proyectos de resolución correspondientes;
 
@@ -603,7 +661,9 @@ XIII. Suscribir las actas de las sesiones del Pleno;
 
 XIV. Elaborar las propuestas necesarias para reformar los reglamentos, los lineamientos y los formatos vigentes, para que, por conducto del Comisionado Presidente, se incorporen a la iniciativa correspondiente;
 
-XV. Promover, difundir e investigar acerca de los objetivos de la Ley, con apoyo del Área respectiva del Instituto;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XV. Promover, difundir e investigar acerca de los objetivos de las Leyes en la materia, con apoyo del Área respectiva del Instituto;
 
 XVI. Suplir las ausencias del Comisionado Presidente;
 
@@ -621,7 +681,9 @@ XXII. Convocar a los titulares de las Áreas del Instituto para que informen sob
 
 XXIII. Solicitar información a las Áreas del Instituto sobre asuntos de su competencia, y
 
-XXIV. Las demás que señale la Constitución Política del Estado Libre y Soberano de México, la Ley, este Reglamento, aquéllas que acuerde el Pleno y demás disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXIV. Las demás que señale la Constitución Política del Estado Libre y Soberano de México, las Leyes en la materia, este Reglamento, aquéllas que acuerde el Pleno y demás disposiciones legales y administrativas aplicables.
 
 ###### Artículo 31.
 
@@ -639,9 +701,21 @@ a) De Administración;
 
 b) De Asuntos Jurídicos;
 
-c) De Capacitación y Comunicación Social, y
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
 
-d) De Informática.
+c) De Capacitación y Comunicación Social;
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2015)</small>
+
+d) De Informática;
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2015)</small>
+
+e) De Protección de Datos Personales, y
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2015)</small>
+
+f) De Archivos.
 
 II. De carácter temporal, que serán creadas por el Pleno cuando se les considere necesarias para el desempeño de sus atribuciones.
 
@@ -675,9 +749,13 @@ III. Proporcionar al Pleno, al Comisionado Presidente y a los Comisionados la in
 
 IV. Rendir al Pleno el informe anual de las actividades desarrolladas en ejercicio de sus atribuciones durante el año calendario, el cual se realizará a partir de los tres primeros informes trimestrales que se rendirán dentro de los primeros diez días hábiles del mes siguiente a aquel en que concluya el periodo respectivo;
 
-V. Lo anterior, con independencia de la información que aporten para la elaboración del informe anual que el Instituto rinde, por conducto del Comisionado Presidente, a la Legislatura del Estado;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-VI. Remitir al titular de la Unidad de Información del Instituto la Información Pública de Oficio que se genere en cada una de las Direcciones, para la actualización del portal electrónico institucional, a partir del momento en que dicha información sea publicable;
+V. Remitir la información correspondiente a su Área para la elaboración del informe anual que el Instituto rinde, por conducto del Comisionado Presidente, a la Legislatura del Estado;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+VI. Registrar, en el sistema electrónico institucional en materia de Información Pública de Oficio, la Información Pública de Oficio que le corresponda en el ámbito de su competencia, a partir del momento en que dicha información sea publicable;
 
 VII. Elaborar los anteproyectos del programa de presupuesto anual que les corresponda y vigilar, una vez aprobados, su correcta aplicación;
 
@@ -687,9 +765,13 @@ IX. Observar y ejecutar las normas, lineamientos y programas de trabajo que apru
 
 X. Contar con los servidores públicos que apruebe el Pleno para el desempeño de sus atribuciones;
 
-XI. Administrar y controlar responsablemente el personal y los recursos materiales que les autoricen para el buen desempeño de sus funciones;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XII. Ejercer las atribuciones que tengan a cargo, en congruencia con lo establecido en el artículo 60 de la Ley y en total apego a la suficiencia presupuestal establecida para los planes, programas y metas aprobadas por el Pleno;
+XI. Administrar y controlar responsablemente los recursos humanos, materiales financieros y técnicos, así como los servicios generales que les autoricen para el buen desempeño de sus funciones;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XII. Ejercer las atribuciones que tengan a cargo, en congruencia con lo establecido en el artículo 60 de la Ley y 66 de la Ley de Protección de Datos Personales del Estado de México, en total apego a la suficiencia presupuestal establecida para los planes, programas y metas aprobadas por el Pleno, así como coadyuvar con las demás Áreas del Instituto, para dar cumplimiento a las atribuciones comunes en el ámbito de sus respectivas competencias;
 
 XIII. Expedir copias certificadas de los documentos que hayan emitido en el ejercicio de sus atribuciones;
 
@@ -697,31 +779,75 @@ XIV. Habilitar a sus servidores públicos, así como días y horas inhábiles, p
 
 XV. Participar, en coordinación con el Área competente, en la capacitación a los Sujetos Obligados y a los ciudadanos, en materia de acceso a la información, clasificación de la información, protección de datos personales e Información Pública de Oficio;
 
-XVI. Auxiliarse de los servidores públicos adscritos para la atención de los asuntos y de los procedimientos a su cargo, quienes podrán desempeñar las atribuciones que se les otorguen mediante acuerdo delegatorio;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XVI. Auxiliarse de los servidores públicos adscritos para la atención de los asuntos y de los procedimientos a su cargo, quienes podrán desempeñar directamente las atribuciones que se les otorguen mediante acuerdo delegatorio para casos específicos o que, en su caso, se encuentren descritas en los manuales, lineamientos y demás normatividad aplicable;
 
 XVII. Conservar, catalogar y describir los documentos que generen en el ejercicio de las atribuciones a su cargo, con base en la normatividad que al respecto se expida, y
 
 XVIII. Proporcionar a los Comisionados el apoyo que requieran en el área de competencia a su cargo.
 
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XIX. Emitir acuerdos o respuestas a los escritos en que se ejerza derecho de petición hacia los Comisionados, el Pleno o el Instituto, en los asuntos de su competencia y hacerlos conocer en breve término a los peticionarios;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XX. Delegar sus atribuciones en el personal de su adscripción, a través de acuerdo aprobado por el Pleno del Instituto, siempre y cuando no exista impedimento para ello;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXI. Implementar el uso de las tecnologías de la información para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXII. Fungir como responsables de los sistemas de datos personales de su competencia;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXIII. Formular los manuales de operación y de procedimientos del Área de su competencia y someterlos ante el Pleno para su aprobación, los cuales deberán ser revisados y actualizados periódicamente;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXIV. Notificar y habilitar notificadores para la atención de los asuntos de su competencia;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXV. Informar sobre las actividades realizadas con la periodicidad que determine el Pleno, así como generar estadísticas e indicadores relativos al ejercicio y resultado de sus atribuciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 25 DE MARZO DE 2015)</small>
+
 Subsección Primera
 
-De la Dirección de Administración
+De la Dirección de Administración y Finanzas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2015)</small>
 
 ###### Artículo 37.
 
-Son atribuciones de la Dirección de Administración:
+Son atribuciones de la Dirección de Administración y Finanzas:
 
-I. Establecer las políticas, normas, sistemas y procedimientos para la administración del personal y de los recursos financieros y materiales del Instituto;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-II. Establecer e informar a las unidades administrativas del Instituto las normas para el proceso de programación, evaluación e información presupuestal y someter a consideración del Pleno el anteproyecto de presupuesto;
+I. Establecer, con la aprobación del Pleno, políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Instituto y la prestación de servicios generales de apoyo;
 
-III. Elaborar quincenalmente los resúmenes de nómina;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+II. Coordinar, formular y presentar al Pleno el anteproyecto del presupuesto anual de egresos del Instituto, para los efectos conducentes, así como establecer e informar a las unidades administrativas del Instituto las normas para el proceso de programación, evaluación e información presupuestal;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+III. Realizar las altas, bajas y modificaciones de los servidores públicos adscritos al Instituto, de conformidad con la legislación y normatividad aplicable, y elaborar quincenalmente los resúmenes de nómina;
 
 IV. Vigilar la aplicación de medidas disciplinarias al personal del Instituto que incurra en irregularidades o faltas de carácter laboral, así como coordinar el sistema de premios, estímulos y recompensas;
 
-V. Coordinar la capacitación de los servidores públicos del Instituto, con base en el programa aprobado por la Comisión de Capacitación y Comunicación Social;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-VI. Coordinar las adquisiciones de bienes y servicios a solicitud de las Áreas del Instituto, a través de los procedimientos que establezca la normatividad correspondiente, así como emitir los dictámenes relacionados con las adquisiciones;
+V. Coordinar la capacitación de los servidores públicos del Instituto y coadyuvar con la Comisión de Capacitación y Comunicación Social, para la formulación e implementación de programas de capacitación y desarrollo que mejoren el desempeño y las competencias laborales o fomenten la investigación;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+VI. Formular, integrar y ejecutar el programa anual de adquisiciones, de acuerdo con las necesidades operativas del Instituto, así como coordinar las adquisiciones de bienes y servicios a solicitud de las Áreas del Instituto, a través de los procedimientos que establezca la normatividad correspondiente, y emitir los dictámenes relacionados con las adquisiciones;
 
 VII. Vigilar la aplicación de las normas y políticas para la administración, adquisición y suministro de los recursos materiales y servicios generales;
 
@@ -733,11 +859,17 @@ X. Mantener el enlace de comunicación y coordinación en materia de recursos ma
 
 XI. Proponer y, en su caso, llevar a cabo los ajustes que, en materia de programación y presupuesto, deban aplicarse al Instituto;
 
-XII. Diseñar y proponer instrumentos técnico-administrativos para mejorar la administración de los recursos asignados al Instituto;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XIII. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios, Bienes Muebles y Servicios del Instituto, e impulsar el cumplimiento de sus funciones, de acuerdo con la normatividad aplicable;
+XII. Proponer las políticas, normas, sistemas y procedimientos para la administración del personal y de los recursos financieros y materiales del Instituto, así como, en general, coadyuvar en el diseño e implementación de los procesos de planeación, programación y presupuestación del Instituto y los instrumentos técnico-administrativos, para mejorar la administración de los recursos asignados al Instituto;
 
-XIV. Realizar el registro de bienes muebles e inmuebles del Instituto y promover su mantenimiento y conservación;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XIII. Presidir los Comités de Adquisiciones y Servicios, de Arrendamientos, Adquisición de Inmuebles y Enajenaciones, e impulsar el cumplimiento de sus funciones, de acuerdo con la normatividad aplicable, así como, en general, asistir y participar en las sesiones de Comités y Subcomités del Instituto, conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XIV. Resguardar, registrar y controlar el patrimonio del Instituto, así como los bienes muebles asignados a las unidades administrativas, conforme lo establecen las leyes y demás disposiciones aplicables, y promover su mantenimiento y conservación;
 
 XV. Notificar a la Dirección Jurídica y de Verificación del Instituto el incumplimiento de contratos de adquisiciones de bienes y servicios por parte de los proveedores;
 
@@ -745,9 +877,31 @@ XVI. Rescindir administrativamente los contratos de adquisición de bienes y pre
 
 XVII. Avisar a la Dirección Jurídica y de Verificación sobre el incumplimiento de algún contrato, para que se proceda conforme a Derecho;
 
-XVIII. Llevar el control del archivo de concentración del Instituto, y
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XIX. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
+XVIII. Coordinar, controlar, resguardar y apoyar técnicamente en la identificación, clasificación, catalogación, conservación, restauración, reproducción y depuración del archivo de concentración del Instituto, salvo las excepciones que establezca el presente Reglamento, las disposiciones normativas y los lineamientos respectivos;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XIX. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar los contratos, convenios y demás actos jurídicos de carácter administrativo, dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XX. Coordinar, elaborar, ejecutar y evaluar el programa operativo anual y el presupuesto de egresos, estableciendo los mecanismos y sistemas que permitan su adecuado manejo y cumplimiento, de acuerdo con las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXI. Formular e implementar los programas administrativos de trabajo que contribuyan al mejor desempeño del Instituto, así como, en general, coordinar la elaboración, el desarrollo y la implantación de los instrumentos administrativos necesarios para la adecuada organización y funcionamiento del Instituto;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXII. Atender las necesidades administrativas de los Comisionados, considerando la administración de los recursos referida en la fracción I;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXIII. Establecer medidas generales de seguridad para las instalaciones del Instituto, así como, en general, coordinar la instrumentación de políticas sobre protección civil, clima laboral y demás que resulten pertinentes para el correcto desarrollo de las actividades de las Áreas;
+
+XXIV. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
 
 Subsección Segunda
 
@@ -817,7 +971,81 @@ XIII. Diseñar, desarrollar, implementar y actualizar la imagen gráfica, instit
 
 XIV. Desarrollar las aplicaciones de acuerdo con la imagen aprobada, y
 
-XV. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XV. Diseñar, implementar, desarrollar, modificar, soportar, administrar, mantener y actualizar los sistemas informáticos a cargo del Instituto;
+
+XVI. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 25 DE MARZO DE 2015)</small>
+
+Subsección Tercera Bis
+
+De la Dirección de Protección de Datos Personales
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2015)</small>
+
+###### Artículo 39 Bis.
+
+Son atribuciones de la Dirección de Protección de Datos Personales:
+
+I. Interpretar, en el orden administrativo, la Ley de Protección de Datos Personales del Estado de México;
+
+II. Orientar y asesorar a los particulares acerca de las solicitudes en materia de la Ley de Protección de Datos Personales del Estado de México;
+
+III. Proponer a las Comisiones y al Pleno los lineamientos, procedimientos, políticas, criterios y demás normatividad en materia de protección de datos personales;
+
+IV. Diseñar y proponer al Pleno los formatos de solicitudes de acceso, rectificación, cancelación y oposición de datos personales, así como los demás que se requieran para el cumplimiento de la Ley de Protección de Datos Personales del Estado de México y la normatividad que de ella derive;
+
+V. Realizar el dictamen, inscripción, modificación y baja de los sistemas de datos personales en posesión de los Sujetos Obligados en el registro electrónico creado por el Instituto para tal efecto;
+
+VI. Revisar, registrar y proponer el nivel de seguridad aplicable a los sistemas de datos personales en posesión de los Sujetos Obligados, así como los estándares mínimos que deberán contener los documentos de seguridad, con el objeto de que los requerimientos se encuentren vigentes y sean adecuados para los fines previstos por los Lineamientos expedidos para tal efecto;
+
+VII. Proponer al Pleno o, en su caso, emitir observaciones y recomendaciones a los Sujetos Obligados que incumplan la Ley de Protección de Datos Personales del Estado de México;
+
+VIII. Proporcionar apoyo técnico y asesoría a los Sujetos Obligados en materia de protección de datos personales, así como promover la celebración de convenios de colaboración entre el Instituto y los Sujetos Obligados, orientados a apoyar la capacitación de los servidores públicos responsables de los sistemas de datos personales;
+
+IX. Diseñar, administrar y mantener, en coordinación con la Dirección de Informática, un sitio web que deberá contener, cuando menos, información pública de oficio, así como cualquier información que se considere conveniente difundir en materia de protección de datos personales;
+
+X. Proponer al Pleno las guías que se requieran para orientar a los Sujetos Obligados y los particulares sobre los procedimientos previstos en la Ley de Protección de Datos Personales del Estado de México y demás normatividad aplicable, así como sus actualizaciones;
+
+XI. Proponer, a consideración del Pleno, manifestaciones de impacto a la privacidad a petición de los Sujetos Obligados, las cuales serán emitidas por el propio Pleno o, en su caso, por el Director de Protección de Datos Personales, según se determine en el acuerdo respectivo;
+
+XII. Capacitar a los servidores públicos en materia de protección de datos personales;
+
+XIII. Realizar visitas de verificación en materia de seguridad de los sistemas de datos personales en posesión de los Sujetos Obligados;
+
+XIV. Investigar las posibles violaciones a las disposiciones de la Ley de Protección de Datos Personales del Estado de México;
+
+XV. Requerir de los titulares de derechos, de los responsables de sistemas de datos personales y, en su caso, del tercero interesado, la información y/o documentación necesaria para el desahogo de los procedimientos de su competencia, así como allegarse, por parte de autoridades y particulares, cualquier información necesaria para el ejercicio de sus atribuciones;
+
+XVI. Hacer del conocimiento del Órgano Interno de Control del Sujeto Obligado que corresponda, del Órgano de Control y Vigilancia de este Instituto o, en su caso, de la Dirección Jurídica y de Verificación, el informe sobre las presuntas infracciones cometidas a la Ley de Protección de Datos Personales del Estado de México para la promoción de responsabilidades y sanciones, así como dar seguimiento al resultado de los procedimientos instaurados;
+
+XVII. Generar estadísticas e indicadores en materia de protección de datos personales, que consideren, al menos, la información a la que hace referencia el artículo 69 de la Ley de Protección de Datos Personales del Estado de México y, en su caso, en derecho comparado a nivel nacional e internacional, en los rubros que determine el Pleno;
+
+XVIII. Promover, entre la sociedad civil e instituciones educativas públicas y privadas, la difusión de la cultura de protección de datos personales;
+
+XIX. Elaborar y publicar estudios e investigaciones, así como organizar seminarios, cursos, talleres y demás actividades que permitan difundir y ampliar el conocimiento sobre la materia de la Ley de Protección de Datos Personales del Estado de México;
+
+XX. Iniciar, substanciar y poner en estado de resolución los procedimientos que resulten necesarios para verificar el cumplimiento de la Ley de Protección de Datos Personales del Estado de México por parte de los Sujetos Obligados;
+
+XXI. Autorizar, en los supuestos en que resulte procedente, la implementación de medidas compensatorias;
+
+XXII. Integrar y actualizar permanentemente el directorio de los responsables y encargados, así como el registro de los sistemas de datos personales;
+
+XXIII. Formular los dictámenes, opiniones, informes, estudios e investigaciones en materia de datos personales que le soliciten los Comisionados o el Pleno;
+
+XXIV. Asesorar y capacitar a las áreas administrativas del Instituto, para dar cumplimiento a las obligaciones de la Ley de Protección de Datos Personales del Estado de México, en su carácter de Sujeto Obligado;
+
+XXV. Autorizar la creación y modificación de los libros y registros de los expedientes a su cargo;
+
+XXVI. Brindar asesorías personales, telefónicas, por escrito, correo electrónico y en línea a los Sujetos Obligados y a los particulares, en materia de protección de datos personales;
+
+XXVII. Representar jurídicamente al Instituto en procedimientos, juicios, procesos y convenios, ante cualquier tipo de autoridades, juzgados, tribunales, organismos y particulares, sobre las materias y procedimientos regulados por la Ley de Protección de Datos Personales del Estado de México y demás normatividad que derive de aquélla;
+
+XXVIII. Elaborar los proyectos de reforma y adición de la Ley de Protección de Datos Personales del Estado de México y demás legislación relacionada con la materia, que le instruya el Pleno;
+
+XXIX. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
 
 Subsección Cuarta
 
@@ -835,7 +1063,9 @@ III. Vigilar los portales de transparencia de los Sujetos Obligados y verificar 
 
 IV. Calificar el desempeño de los Sujetos Obligados en el cumplimiento de las obligaciones legales en materia de transparencia y acceso a la información, a través de la Información Pública de Oficio que publiquen en los portales de transparencia, y elaborar la estadística correspondiente, en términos de los Lineamientos que expida el Instituto;
 
-V. Presentar denuncias a nombre del Instituto, previo el poder otorgado para tales efectos, ante las autoridades competentes de los hechos de que tenga conocimiento y puedan ser constitutivos de delitos, derivado del ejercicio de sus funciones;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+V. Presentar denuncias a nombre del Instituto, previa aprobación por el Pleno, ante las autoridades competentes, sobre hechos de que tenga conocimiento y puedan ser constitutivos de delitos, derivados del ejercicio de sus funciones;
 
 VI. Compilar y emitir opinión de las normas jurídicas relacionadas con el ejercicio de las atribuciones del Instituto;
 
@@ -843,35 +1073,99 @@ VII. Asesorar jurídicamente a las diversas Áreas administrativas del Instituto
 
 VIII. Coadyuvar con las Áreas requirentes en la elaboración de los proyectos de convenios, contratos, instrumentos de coordinación y demás actos administrativos a celebrarse con terceros, para que sean sometidos a la consideración del Pleno;
 
-IX. Representar al Instituto ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa en los asuntos en que éste tenga interés o injerencia jurídica; así como promover el juicio de amparo en contra de los actos que afecten la esfera jurídica del Instituto;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-X. Elaborar proyectos de interpretación de la Ley y de este Reglamento, de lineamientos y criterios en los diversos rubros de competencia del Instituto, conforme a las fracciones I, III, IV, V y XIII del artículo 60 de la Ley, para que sean sometidos a consideración del Pleno, por conducto del Comisionado que lo solicitó;
+IX. Representar legalmente al Instituto ante particulares, autoridades administrativas o jurisdiccionales, federales o del fuero común, en procedimientos, procesos y juicios en los cuales el Instituto sea requerido, tenga o pueda tener el carácter de parte o autoridad responsable, con las facultades de un apoderado general para pleitos y cobranzas, actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia, y sustituir y delegar esta representación en uno o más apoderados o subalternos, para que la ejerzan individual o conjuntamente. Para actos de dominio, requerirá de la autorización expresa del Pleno;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+X. Elaborar proyectos de interpretación de la Ley y de este Reglamento, de lineamientos y criterios en los diversos rubros de competencia del Instituto, conforme a las fracciones I, III, V y XIII del artículo 60 de la Ley, para que sean sometidos a consideración del Pleno, por conducto del Comisionado que lo solicitó;
 
 XI. Formular los dictámenes, opiniones, informes, estudios e investigaciones en materia jurídica que le soliciten los Comisionados o el Pleno;
 
-XII. Realizar todas las actuaciones procesales en los juicios y procedimientos judiciales o administrativos ante las autoridades competentes, previo otorgamiento de poderes por parte del Comisionado Presidente;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XIII. Brindar asesorías personales, telefónicas y en línea a los Sujetos Obligados y a los particulares, en materia de acceso a la información, clasificación de la información, protección de datos personales e Información Pública de Oficio;
+XII. Ejercitar las acciones judiciales en los juicios en los que el Instituto sea parte; demandar; contestar demandas; promover; presentar pruebas y alegatos; interponer recursos, medios de impugnación y demandas de amparo, y actuar en defensa de los intereses jurídicos del Instituto, dando el debido seguimiento a los procedimientos, procesos y juicios en que actúe;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XIII. Brindar asesorías personales, telefónicas y en línea a los sujetos obligados y a los particulares, en materia de acceso a la información, clasificación de la información e Información Pública de Oficio;
 
 XIV. Gestionar la publicación en Gaceta de Gobierno de la normatividad aplicable y de los acuerdos y resoluciones del Pleno, cuando el Comisionado Presidente así lo instruya;
 
 XV. Elaborar y actualizar el registro de Sujetos Obligados e informarlo a las Áreas del Instituto para las acciones conducentes;
 
-XVI. Registrar los expedientes a su cargo en los libros correspondientes;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XVI. Autorizar la creación y modificación de los libros y registros de los expedientes a su cargo;
 
 XVII. Coordinar el centro de documentación del Instituto;
 
 XVIII. Elaborar y actualizar, cada seis meses, el directorio de los Comités y de las Unidades de Información, así como de los Servidores Públicos Habilitados de cada uno de los Sujetos Obligados, y
 
-XIX. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XIX. Elaborar los proyectos de reforma y adición de la Ley y demás legislación relacionada con la materia, que le instruya el Pleno;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XX. Demandar, a solicitud del Pleno, las controversias constitucionales y acciones de inconstitucionalidad que procedan;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXI. Participar como vocal en los Comités de Adquisiciones y Servicios y Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones; en los Comités de Testigos Sociales del Estado de México y, con tal carácter, emitir dictámenes para el registro o prórroga de solicitudes de testigos sociales, así como en los demás comités y comisiones en que se requiera su intervención;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXII. Asumir la representación y responsabilidad de la Unidad de Información del Instituto;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXIII. Substanciar y emitir proyecto de resolución en cualquier procedimiento administrativo común, especial o innominado que se promueva ante el Instituto, que no cuente con un procedimiento específico de tramitación ante un Área diversa, así como ordenar la suspensión provisional de los actos y resoluciones del Instituto, siempre y cuando exista exigencia legal y una causa urgente que así lo justifique, dando cuenta a la brevedad ante el Comisionado Presidente;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXIV. Requerir y allegarse, por parte de autoridades y particulares, cualquier información necesaria para el ejercicio de sus atribuciones;
+
+XXV. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquellas instruidas por el Pleno.
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2015)</small>
+
+###### Artículo 40 Bis.
+
+Son atribuciones de la Dirección Jurídica y de Verificación, como Responsable de la Unidad de Información del Instituto, las siguientes:
+
+I. Atender oportunamente las solicitudes de acceso a la información pública y ejercicio de los derechos de acceso, rectificación, cancelación y oposición de datos personales y entregar, en su caso, la información solicitada;
+
+II. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre el lugar donde les pueden proporcionar la información que solicitan;
+
+III. Efectuar las notificaciones a los particulares en los asuntos de su competencia;
+
+IV. Proponer al Comité los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
+
+V. Proponer, a quien preside el Comité de Información, los Servidores Públicos Habilitados en cada unidad administrativa;
+
+VI. Presentar ante el Comité el proyecto de clasificación de información;
+
+VII. Realizar las actividades que resulten necesarias para facilitar el acceso a la información;
+
+VIII. Validar la Información Pública de Oficio que los Servidores Públicos Habilitados del Instituto den de alta en el sistema electrónico institucional sobre Información Pública de Oficio;
+
+IX. Publicar la Información Pública de Oficio del Instituto, previa validación de ésta, y
+
+X. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 25 DE MARZO DE 2015)</small>
 
 Subsección Quinta
 
-De la Contraloría Interna y Órgano de Control y Vigilancia
+De la Contraloría Interna y Órgano de Vigilancia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2015)</small>
 
 ###### Artículo 41.
 
-Son atribuciones de la Contraloría Interna y Órgano de Control y Vigilancia:
+Son atribuciones de la Contraloría Interna y Órgano de Vigilancia:
 
 I. Vigilar que las normas, procedimientos administrativos y contables se apliquen eficientemente, conforme a los lineamientos establecidos por las leyes en la materia para las diferentes Áreas administrativas;
 
@@ -897,7 +1191,9 @@ XI. Coordinar, supervisar, resguardar y actualizar el padrón de servidores púb
 
 XII. Recibir las quejas o denuncias en contra de los servidores públicos del Instituto, investigar las irregularidades que le dieron origen y, en su caso, determinar lo que a Derecho corresponde, con excepción de los Comisionados;
 
-XIII. Citar al servidor público del Instituto e iniciar el procedimiento administrativo de responsabilidades, llevar la sustanciación del mismo, y, en su caso, determinar la responsabilidad a que haya lugar e imponer las sanciones aplicables en los términos de la normatividad, con excepción de los Comisionados;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XIII. Citar a los servidores públicos del Instituto, con excepción de los Comisionados, e iniciar, en su caso, el procedimiento administrativo de responsabilidades, llevar la sustanciación de éste y fincar preventivamente los pliegos a que haya lugar, así como realizar el fincamiento en definitiva de responsabilidad, emitir la resolución y la aplicación de las sanciones correspondientes, previa aprobación que realice el Pleno sobre el proyecto presentado;
 
 XIV. Determinar, a título de medida cautelar, la suspensión temporal del servidor público de su empleo, cargo o comisión, si así conviene a la conducción y la continuación de las investigaciones, con excepción de los Comisionados;
 
@@ -921,37 +1217,85 @@ XXIII. Denunciar, ante las autoridades competentes, los hechos de que tenga cono
 
 XXIV. Vigilar el cumplimiento que los Sujetos Obligados deben observar en la atención de las resoluciones de los recursos de revisión;
 
-XXV. Iniciar investigaciones sobre presuntas violaciones de los Sujetos Obligados a la Ley y proponer al Pleno, por conducto de la Comisión respectiva, el inicio de procedimientos de responsabilidad administrativa, conforme al Título Séptimo de la Ley y de la Ley de Responsabilidades;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XXVI. Instruir el procedimiento de responsabilidad administrativa conforme a la fracción anterior y elaborar el dictamen o proyecto de resolución, que será sometido al Pleno para los efectos conducentes;
+XXV. Iniciar investigaciones sobre presuntas violaciones de los Sujetos Obligados a las Leyes de la materia y proponer al Pleno, por conducto de la Comisión respectiva, el inicio de procedimientos de responsabilidad administrativa, conforme al Título Séptimo de la Ley y de la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXVI. Iniciar y fincar procedimientos de responsabilidad administrativa en contra de los servidores públicos de los Sujetos Obligados, substanciarlos, llevar a cabo su fincamiento en definitiva y emitir resolución, previa aprobación que realice el Pleno del proyecto correspondiente;
 
 XXVII. Elaborar el informe justificado o circunstancial, en caso de que, con motivo de los actos emanados de la Contraloría o del Órgano de Control y Vigilancia, el particular promueva juicio de amparo;
 
-XXVIII. Notificar a las autoridades correspondientes las sanciones impuestas a los servidores públicos de los Sujetos Obligados, derivadas del incumplimiento de la Ley, de conformidad con lo dispuesto por la Ley de Responsabilidades;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XXIX. Solicitar a los Sujetos Obligados el informe correspondiente a la aplicación de las sanciones derivadas del incumplimiento de la Ley a los servidores públicos sancionados, de conformidad con lo dispuesto por la Ley de Responsabilidades;
+XXVIII. Notificar a las autoridades correspondientes las sanciones impuestas a los servidores públicos de los Sujetos Obligados, derivadas del incumplimiento de las Leyes de la materia, de conformidad con lo dispuesto por la Ley de Responsabilidades;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXIX. Solicitar a los Sujetos Obligados el informe correspondiente a la aplicación de las sanciones derivadas del incumplimiento de Las leyes de la materia a los servidores públicos sancionados, de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios;
 
 XXX. Elaborar un registro de extrañamientos, exhortos, vistas al Ministerio Público y comunicados a Sujetos Obligados que hayan incumplido con las resoluciones del Pleno;
 
-XXXI. Elaborar los acuerdos sobre el cumplimiento o la inobservancia de las resoluciones de los recursos emitidas por el Pleno y elaborar, en su caso, el aviso al superior jerárquico del servidor público que cometa el desacato;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
 
-XXXII. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno.
+XXXI. Elaborar los acuerdos sobre el cumplimiento o la inobservancia de las resoluciones de los recursos emitidos por el Pleno y elaborar, en su caso, el aviso al superior jerárquico del servidor público que incumpla la resolución;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXII. Promover ante los órganos de control interno de los sujetos obligados las acciones y responsabilidades a que hubiera lugar;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXIII. Vigilar que los servidores públicos del Instituto lleven a cabo la debida atención de las observaciones y recomendaciones emitidas por entidades externas, fincando los procedimientos de responsabilidad correspondientes, en caso de incumplimiento;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXIV. Autorizar la creación y modificación de los libros y registros de los expedientes a su cargo;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXV. Analizar el informe del comportamiento del ejercicio presupuestal y el informe del avance programático en forma mensual y trimestral, respectivamente, para la revisión, seguimiento y evaluación del cumplimiento de los objetivos y metas establecidas en los proyectos aprobados en relación con el presupuesto y ejercicio, al desempeño de las unidades administrativas del Instituto, y formular recomendaciones ante el Pleno, derivadas de su revisión;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXVI. Apercibir, imponer y, en su caso, ejecutar medios o medidas de apremio, para hacer cumplir sus determinaciones, la atención de las solicitudes de información, las resoluciones del Instituto, así como, en general, cualquier acto del Instituto;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXVII. Requerir a los servidores públicos de los Sujetos Obligados que se encuentren obligados directamente, en términos de la legislación de la materia; aquéllos que, en el ámbito de sus atribuciones, deban realizar la entrega de la información, o, en cualquiera de los casos, a los superiores jerárquicos, el cumplimiento de la atención de las solicitudes de información o de las resoluciones emitidas por el Instituto, así como instruir, substanciar y resolver los procedimientos a que haya lugar para tal efecto, con independencia de las responsabilidades que, en su caso, se desprendan;
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXVIII. Solicitar ante la autoridad competente la ejecución de los medios o medidas de apremio impuestos por este Instituto, en términos de lo previsto por el Código Financiero del Estado de México y Municipios, y
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXXIX. Requerir a particulares y autoridades la información y/o documentación necesaria para el desahogo de los procedimientos de su competencia, la relativa a las condiciones socioeconómicas de los servidores públicos sujetos a procedimientos de responsabilidad y a la imposición de medios de apremio, coordinándose, cuando resulte posible, con las Contralorías Internas, así como allegarse, por parte de autoridades y particulares, cualquier información necesaria para el ejercicio de sus atribuciones;
+
+XL. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquellas instruidas por el Pleno.
 
 ###### Artículo 42.
 
 El Contralor no podrá delegar la facultad de emitir resoluciones que concluyan procedimientos disciplinarios o resarcitorios.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 25 DE MARZO DE 2015)</small>
+
 Subsección Sexta
 
-De la Secretaría
+De la Secretaría Técnica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2015)</small>
 
 ###### Artículo 43.
 
-La Secretaría tiene las siguientes atribuciones:
+La Secretaría Técnica tiene las siguientes atribuciones:
 
 I. Actuar como Secretario del Pleno;
 
-II. Notificar, ejecutar y supervisar el cumplimiento de los acuerdos del Pleno;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+II. Notificar, ejecutar, dar seguimiento y supervisar el cumplimiento de los acuerdos del Pleno;
 
 III. Elaborar el calendario oficial institucional;
 
@@ -991,7 +1335,11 @@ XX. Expedir copias certificadas de los documentos que obren en sus archivos y lo
 
 XXI. Elaborar una base de datos que refleje el estado que guardan las resoluciones emitidas por el Pleno; y
 
-XXII. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno y el Comisionado Presidente.
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2015)</small>
+
+XXII. Llevar a cabo la administración, organización y conservación de los archivos de los recursos de revisión resueltos, acuerdos, actas y demás documentación y estadística emitida por el Pleno del Instituto, así como cualquier documentación entregada por las ponencias para dichos efectos, durante el tiempo en el cual dicha documentación se encuentre en trámite y, excepcionalmente, en archivo de concentración, en coordinación con la Dirección de Administración y Finanzas;
+
+XXIII. Las demás que señalen este Reglamento, las disposiciones legales y administrativas aplicables y aquéllas instruidas por el Pleno y el Comisionado Presidente.
 
 Subsección Séptima
 
@@ -1118,3 +1466,21 @@ Iovjayi Garrido Canabal P.
 Secretario del Pleno
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 25 DE MARZO DE 2015.
+
+Primero.- Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno", instruyendo al Secretario Técnico del Pleno que provea lo conducente para tal efecto.
+
+Segundo.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+Tercero.- Los recursos financieros, materiales y humanos otorgados al Área de Protección de Datos Personales, quedan transferidos a los de la Dirección de Protección de Datos Personales, en los términos aprobados en la Cuadragésima Sexta Sesión Ordinaria del ejercicio dos mil catorce de fecha dieciséis de diciembre de dos mil catorce.
+
+Cuarto.- Se modifican las denominaciones de los cargos señalados en los nombramientos aprobados mediante puntos de acuerdo INFOEM/ORD/05/XXVI/2014, INFOEM/ORD/05/XXVI/2014 (sic), INFOEM/ORD/30/XXV/2014 e INFOEM/ORD/38/XXXIV/ 2014, emitidos en Sesiones Ordinarias Quinta, Trigésima y Trigésima Octava del ejercicio dos mil catorce, efectuadas en fechas cinco de febrero, veintiséis de agosto y veintiuno de octubre del año dos mil catorce; para quedar como Director de Protección de Datos Personales, Director de Administración y Finanzas, y, Contralor Interno y Titular del Órgano de Vigilancia, respectivamente.
+
+Quinto.- Se ordena a la Dirección de Administración y Finanzas realice las adecuaciones correspondientes en el ámbito de su competencia; dentro de los quince días hábiles siguientes a la entrada en vigor del presente acuerdo.
+
+Sexto.- Se ordena a la Dirección de Administración y Finanzas la emisión de sellos oficiales y demás adecuaciones conducentes para que la Dirección de Protección de Datos Personales se encuentre en aptitud de ejercer sus atribuciones; lo anterior, dentro de los quince días hábiles siguientes a la entrada en vigor del presente acuerdo.
+
+Séptimo.- Se instruye a las Direcciones de Informática y Jurídica y de Verificación, para que en un plazo de quince días hábiles siguientes a la entrada en vigor del presente acuerdo, lleven a cabo la entrega formal de los asuntos y archivos que se encuentran bajo su resguardo, que en términos del presente acuerdo, forman parte de las atribuciones de la Dirección de Protección de Datos Personales.
