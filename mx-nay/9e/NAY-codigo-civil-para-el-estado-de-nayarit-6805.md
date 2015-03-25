@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2015-03-09"
+last_updated: "2015-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -471,17 +471,23 @@ Las Oficialías del Registro Civil estarán bajo la coordinación, inspección y
 
 De las actas de nacimiento.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
 
 ###### Artículo 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en el lugar donde aquél se encuentra.
+Las declaraciones de nacimiento se harán presentando a la persona a registrar ante el Oficial del Registro Civil, en su oficina o en el lugar donde aquél se encuentra, acompañando el certificado de nacimiento.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+Cuando por causas de fuerza mayor, no exista el certificado de nacimiento se deberá presentar denuncia de hechos ante el Ministerio Público en que se haga constar las circunstancias de los hechos, así como otros medios de convicción, que permitan identificar a la persona a registrar.
+
+Los Ayuntamientos periódicamente instrumentarán campañas de registro de nacimiento en zonas lejanas geográficamente y de difícil acceso, en coordinación con los agentes del Ministerio Público de cada municipalidad.
+
+Una vez realizado el registro, el certificado de nacimiento, será conservado por la Oficialía del Registro Civil para evitar la duplicidad de registros.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
 
 ###### Artículo 55.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, y a su falta, los abuelos paternos o maternos, a más tardar dentro de los ciento ochenta días naturales siguientes.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, y a su falta, los abuelos paternos o maternos, a más tardar dentro de los sesenta días naturales siguientes.
 
 ###### Artículo 56.
 
@@ -747,7 +753,7 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio, ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 183 y 205, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado. Si de acuerdo con lo dispuesto en el artículo 179 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
 
-VI.- Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la de sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y (sic)
+VI.- Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la de sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
 VII.- Copia de la dispensa de impedimentos, si los hubo;
 
@@ -16310,3 +16316,7 @@ P.O. 9 DE MARZO DE 2015.
 Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Esta reforma se aplicará a las Sucesiones en las que el De Cujus haya fallecido después de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE MARZO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
