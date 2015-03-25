@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2014-12-24"
+last_updated: "2015-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -1463,7 +1463,7 @@ X.- Helmintiasis intestinales y extraintestinales;
 
 XI.- Toxoplasmosis;
 
-XII.- Síndrome de lnmunodeficiencia Adquirida (SIDA), y
+XII.- Síndrome de Inmunodeficiencia Adquirida (SIDA), y
 
 XIII.- Las demás que determine el Consejo de Salubridad General y otros Tratados y Convenciones Internacionales en los que los Estados Unidos Mexicanos sean parte.
 
@@ -2491,13 +2491,29 @@ Para los efectos de esta Ley, se entiende por Certificado la constancia expedida
 
 Para fines sanitarios se extenderán los siguientes certificados:
 
-I.- Prenupciales;
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2015)</small>
 
-II.- De defunción;
+I.- De nacimiento;
 
-III.- De muerte fetal;
+II.- Prenupciales;
 
-IV.- Los demás que determine la Ley General de Salud.
+III.- De defunción;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+
+IV.- De muerte fetal, y
+
+V.- Los demás que determine la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2015)</small>
+
+ARTICULO 253 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+
+El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2015)</small>
+
+ARTICULO 253 TER.- El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona.
 
 ###### ARTICULO 254.
 
@@ -2855,7 +2871,7 @@ XI.- Buena fe.
 
 ###### ARTICULO 296.
 
-La Secretaría de Salud del Estado por conducto de los Servicios de Salud y los Municipios con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 265 de esta Ley podrán citar (sic) las medidas para corregir las irregularidades que se hubieran encontrado en los establecimientos a que se refiere la fracción XVIII, Apartado "A", del Artículo 4, así como los establecimientos y servicios que se enumeran en las diversas fracciones del Apartado "B" de dicho precepto, notificándolas por escrito y en forma personal al interesado y dándole un plazo de treinta días para su corrección.
+La Secretaría de Salud del Estado por conducto de los Servicios de Salud y los Municipios con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 265 de esta Ley podrán citar las medidas para corregir las irregularidades que se hubieran encontrado en los establecimientos a que se refiere la fracción XVIII, Apartado "A", del Artículo 4, así como los establecimientos y servicios que se enumeran en las diversas fracciones del Apartado "B" de dicho precepto, notificándolas por escrito y en forma personal al interesado y dándole un plazo de treinta días para su corrección.
 
 ###### ARTICULO 297.
 
@@ -3100,3 +3116,7 @@ P.O. 24 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit
+
+P.O. 25 DE MARZO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
