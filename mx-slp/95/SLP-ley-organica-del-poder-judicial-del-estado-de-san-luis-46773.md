@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2014-09-29"
+last_updated: "2015-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -201,13 +201,17 @@ V. Si el dictamen del Ejecutivo propone la ratificación del Magistrado, el Cong
 
 Los magistrados que sean ratificados en su encargo, gozarán de inamovilidad en términos de lo dispuesto en la Constitución Política del Estado, y sólo podrán ser removidos conforme a lo que establece la propia Constitución, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 9º.
 
-El haber por retiro a que se refiere el artículo 97 de la Constitución Política del Estado, consiste en un único pago equivalente a tres meses de salario, más doce días por cada año de servicios, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Este pago se cubrirá cuando el Magistrado:
+El haber por retiro a que se refieren los artículos 97 y 102 de la Constitución Política del Estado, consiste en un único pago equivalente a tres meses de salario, más doce días por cada año de servicios, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Este pago se cubrirá cuando el Magistrado o Juez:
 
 I. No haya sido ratificado en el cargo;
 
-II. Se retire del desempeño del cargo por haber cumplido quince años en el mismo, o
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+
+II. El primero se retire del desempeño del cargo por haber cumplido quince años en el mismo, o bien, cualquiera de ellos haya cumplido setenta y tres años de edad, o
 
 III. Padezca incapacidad física o mental permanente para el desempeño de su cargo.
 
@@ -2364,3 +2368,13 @@ PRIMERO. El presente decreto entrará en vigor el treinta de septiembre de dos m
 SEGUNDO. Todos los productos relacionados con procesos penales, iniciados hasta el veintinueve de septiembre de dos mil catorce, en el Segundo Distrito Judicial, perteneciente a la Segunda Región Judicial, continuarán ingresándose al Fondo de Apoyo para la Administración de Justicia, que prevén los artículos 190 al 194 de la Ley Orgánica del Poder Judicial del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los magistrados del Supremo Tribunal de Justicia del Estado de San Luis Potosí que se encuentran en funciones, y que hayan sido electos con anterioridad a la entrada en vigor de este Decreto, se regirán por la ley vigente en el momento de su elección. Los jueces que se encuentran en funciones al momento de la entrada en vigor del presente Decreto, podrán elegir entre los setenta o setenta y tres años como edad para su retiro.
