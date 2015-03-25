@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-de-la-defensoria-publica-del-estado-de-92530"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2014-05-09"
+last_updated: "2015-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SERVICIO DE DEFENSORÍA PÚBLICA DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 25 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento S del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
 
@@ -892,3 +894,23 @@ SECRETARIO DE GOBIERNO.
 P.O. 9 DE MAYO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga la Ley del Instituto de la Defensoría Pública del Estado de Tabasco, aprobada mediante Decreto número 269 y publicada en el suplemento 7337 S del Periódico Oficial del Estado de fecha 29 de diciembre de 2012.
+
+TERCERO.- Se derogan todas las demás disposiciones que contravengan lo establecido en la presente Ley.
+
+CUARTO.- En atención a que no cambia de denominación ni de naturaleza jurídica, el actual Instituto de la Defensoría Pública del Estado de Tabasco continuará funcionado con los recursos humanos, materiales y presupuesto que tiene asignados y realizando las atribuciones que le establece la presente Ley.
+
+En todo caso, el Consejo Directivo deberá aprobar el Reglamento Interior del órgano desconcentrado, a más tardar dentro de los noventa días siguientes a la publicación del presente Decreto. Mientras tanto, se continuarán aplicando, en lo conducente, las disposiciones administrativas actualmente en vigor.
+
+QUINTO.- El nombramiento del actual Director General del Instituto de la Defensoría Pública del Estado de Tabasco, se tiene por ratificado a partir de la entrada en vigor del presente Decreto.
+
+El personal que presta sus servicios en el Instituto de la Defensoría Pública continuará desempeñado sus actuales funciones y tareas, hasta que sea emitido el Reglamento Interior que defina su nueva estructura.
+
+En todo caso, los defensores públicos del Instituto que se encuentren participando en procedimientos jurisdiccionales, seguirán llevando los asuntos conforme a las disposiciones procesales aplicables a cada uno de ellos.
+
+SEXTO.- Los procedimientos administrativos relativos al personal dependiente del Instituto de la Defensoría Pública del Estado de Tabasco, que actualmente se encuentren en desarrollo, se continuarán tramitando conforme a las disposiciones bajo las cuales se iniciaron, hasta su conclusión.
