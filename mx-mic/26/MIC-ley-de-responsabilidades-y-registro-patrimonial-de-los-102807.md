@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-y-registro-patrimonial-de-los-102807"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-14"
-last_updated: "2014-10-14"
+last_updated: "2015-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2014.
 
@@ -613,9 +613,11 @@ Cumplidos los requisitos señalados, en la sesión inmediata siguiente se hará 
 
 ### CAPÍTULO VII. Registro patrimonial
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+
 ###### Artículo 47.
 
-Registro patrimonial. Los órganos de control llevarán el registro de la situación patrimonial de los servidores públicos respectivos.
+Registro patrimonial. Los órganos de control estarán encargados del registro, custodia y vigilancia de las declaraciones de situación patrimonial de los servidores públicos respectivos, a excepción de los órganos de control de los ayuntamientos y de los organismos municipales descentralizados, cuyos servidores públicos presentarán sus declaraciones de situación patrimonial en los mismos plazos y términos ante la Auditoría Superior de Michoacán para los efectos establecidos en la Ley de Fiscalización Superior del Estado de Michoacán de Ocampo y en esta ley.
 
 ###### Artículo 48.
 
@@ -623,7 +625,9 @@ Sujetos. Tienen obligación de presentar declaración de situación patrimonial:
 
 I. En el Poder Legislativo, desde jefes de departamento, o sus equivalentes hasta diputados, incluido el personal de la Auditoría Superior de Michoacán y de la Contraloría Interna y todos aquéllos servidores que manejen recursos públicos;
 
-II. En el Poder Ejecutivo, los servidores públicos de las dependencias, de las empresas de participación estatal organismos descentralizados, fideicomisos públicos, desde jefes de departamento hasta los titulares de las dependencias, incluyendo al Gobernador del Estado, notarios públicos, defensores de oficio, agentes del Ministerio Público, peritos, y aquellos que manejen, recauden o administren fondos y recursos públicos. En la Coordinación de Contraloría y sus órganos internos de control, todos sus servidores públicos;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
+
+II. En el Poder Ejecutivo, los servidores públicos de las dependencias, de las empresas de participación estatal, organismos descentralizados, fideicomisos públicos, desde jefes de departamento hasta los titulares, incluyendo al Gobernador del Estado, defensores públicos, agentes del Ministerio Público, peritos, y aquellos que manejen, recauden o administren fondos y recursos públicos. En la Coordinación de Contraloría y sus órganos internos de control, todos sus servidores públicos;
 
 III. En el Poder Judicial, desde jefes de Departamento hasta magistrados y consejeros, incluidos jueces, secretarios proyectistas, actuarios, de cualquier categoría o designación, así como todos aquellos que manejen, recauden o administren fondos o recursos públicos;
 
@@ -703,6 +707,10 @@ Artículo Quinto. Las autoridades garantes publicarán el Código de Ética resp
 
 Artículo Sexto. Las acciones u omisiones irregulares relativas al servicio público, así como los procedimientos iniciados antes de la entrada en vigor del presente Decreto, seguirán rigiéndose conforme la normatividad aplicable al momento de su ejecución o inicio.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2015)</small>
+
+Artículo Séptimo. Los servidores públicos a que hace referencia el artículo 48 fracción I y que en el ejercicio 2015 concluyan el periodo constitucional para el que fueron electos, no estarán obligados a presentar la declaración a que hace referencia el artículo 49 fracción III durante el mes de mayo de 2015 y presentarán únicamente la declaración a que se refiere el artículo 49 fracción II.
+
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 19 diecinueve días del mes de septiembre de 2014 dos mil catorce.
@@ -712,3 +720,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 09 nueve días del mes de octubre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO, MTRO. JAIME DARÍO OSEGUERA MÉNDEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto a los 113 Ayuntamientos del Estado de Michoacán de Ocampo, para su conocimiento.
