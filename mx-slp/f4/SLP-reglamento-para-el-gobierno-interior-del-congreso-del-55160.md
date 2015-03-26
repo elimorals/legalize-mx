@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2014-12-20"
+last_updated: "2015-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -673,7 +673,7 @@ En la exposición de motivos de una iniciativa habrán de explicarse los anteced
 
 ###### ARTICULO 66.
 
-La estructura jurídica o cuerpo de ley deberá estar conformada por un orden lógico-jurídico en cada una de sus partes, de lo general a lo particular, como se indica en la fracción II del artículo 63 de este Reglamento.
+(DEROGADO, P.O. 26 DE MARZO DE 2015)
 
 ### CAPITULO II. DE LAS FORMALIDADES DE LAS INICIATIVAS DE DECRETOS
 
@@ -1633,7 +1633,7 @@ II. La Coordinación de Servicios Internos;
 
 III. La Coordinación de Informática;
 
-IV. La Oficialía de Partes, y
+IV. La Oficialí a (sic) de Partes, y
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -1919,9 +1919,9 @@ XIV. Elaborar las certificaciones de documentos propios del proceso legislativo;
 
 XV. Apoyar a los secretarios de la Directiva para verificar el quórum de asistencia, así como para levantar el cómputo y registro de las votaciones;
 
-XVI Proponer habitualmente a la Directiva, o a la Diputación Permanente, el programa de sesiones plenarias; y de la Diputación Permanente, y
+XVI. Proponer habitualmente a la Directiva, o a la Diputación Permanente, el programa de sesiones plenarias; y de la Diputación Permanente, y
 
-XVII, Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
+XVII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
 
 ### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
 
@@ -1971,7 +1971,7 @@ A los asesores corresponde:
 
 I. Elaborar los proyectos de dictámenes sobre los asuntos que les sean turnados, conforme a los lineamientos que establezca la comisión respectiva;
 
-II. Elaborar pronunciamientos, posicionamientos, opiniones jurídicas o técnicas, según corresponda; y demás proyectos de resolución sobre asuntos que le sean encomendados por la coordinación;
+II. Elaborar pronunciamientos, posicionamientos, opiniones jurí dicas (sic) o técnicas, según corresponda; y demás proyectos de resolución sobre asuntos que le sean encomendados por la coordinación;
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
@@ -2394,5 +2394,11 @@ TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 20 DE DICIEMBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
