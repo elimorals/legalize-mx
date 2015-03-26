@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2013-06-07"
+last_updated: "2015-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -632,11 +632,17 @@ d) Los recursos que se obtengan por la comercialización de sus obras literarias
 
 e) Los demás bienes, derechos y aprovechamientos que le fijen las Leyes y reglamentos o que provengan de otros fondos o aportaciones.
 
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 20.
 
-La Comisión tendrá como órgano de gobierno a una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por los titulares de las Secretarías de la Defensa Nacional; Hacienda y Crédito Público; Desarrollo Social; Medio Ambiente y Recursos Naturales; Economía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Reforma Agraria y Turismo, así como de la Comisión Nacional del Agua. La Junta será presidida por el titular de la Secretaría.
+La Comisión tendrá como órgano de gobierno a una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por los titulares de las Secretarías de la Defensa Nacional; Hacienda y Crédito Público; Desarrollo Social; Medio Ambiente y Recursos Naturales; Economía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Desarrollo Agrario, Territorial y Urbano; y Turismo, así como de la Comisión Nacional del Agua.
 
-Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma. Por cada integrante de este órgano colegiado deberá nombrar un suplente con nivel jerárquico de Subsecretario; en el caso de la Comisión Nacional del Agua, deberá tener nivel de Subdirector General.
+Los titulares a los que se refiere el párrafo anterior deberán nombrar un suplente quien deberá tener por lo menos el cargo de Director General o su equivalente. La Junta será presidida por el Titular de la Secretaría o el suplente.
+
+Los nombramientos de suplentes podrán ser actualizados en el momento que el titular correspondiente lo estime necesario.
+
+Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma; al designar a los suplentes, deberán considerar las demás obligaciones que éstos deban cumplir en función de su cargo, a efecto de que cuenten con la disponibilidad necesaria para atender con diligencia y oportunidad los asuntos inherentes a su suplencia.
 
 ###### ARTICULO 21.
 
@@ -946,7 +952,7 @@ VII. Sistema Nacional de Gestión Forestal
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-VIII. Estudio Satelital anual, del Índice de Cobertura Forestal; (sic)
+VIII. Estudio Satelital anual, del Índice de Cobertura Forestal;
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de política forestal, se deberán observar los objetivos y criterios de política forestal y demás disposiciones previstas en esta Ley.
 
@@ -1062,7 +1068,7 @@ VII. Los inventarios sobre la infraestructura forestal existente;
 
 > <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-VIII. Las áreas forestales con mayor vulnerabilidad a los efectos del cambio climático, y (sic)
+VIII. Las áreas forestales con mayor vulnerabilidad a los efectos del cambio climático, y
 
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2012)</small>
 
@@ -1202,7 +1208,7 @@ Con base en el Sistema Nacional de Información Forestal, la Secretaría deberá
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-#### Sección Octava: (sic). Del Estudio Satelital Anual del Índice de Cobertura Forestal
+#### Sección Octava:. Del Estudio Satelital Anual del Índice de Cobertura Forestal
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -2511,5 +2517,9 @@ TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán 
 D.O.F. 7 DE JUNIO DE 2013.
 
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 51, FRACCIÓN IX; 116 Y 139, FRACCIÓN XVII; Y SE ADICIONA UNA FRACCIÓN XIII, RECORRIÉNDOSE LA SIGUIENTE AL ARTÍCULO 62, TODOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE MARZO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
