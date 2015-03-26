@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-finanzas-51391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2014-03-07"
+last_updated: "2015-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de julio de 2006.
 
@@ -147,11 +147,9 @@ Los asuntos competencia de la Secretaría, así como su representación, corresp
 
 Cuando las leyes y reglamentos otorguen atribuciones a la Secretaría y éstas no se encuentren asignadas en el presente reglamento a las unidades administrativas que la integran, se entenderá que corresponden al Secretario, quien las podrá delegar mediante acuerdo, de manera general o específica, por tiempo definido o permanentemente, en las unidades administrativas o áreas que forman parte de la Secretaría.
 
-(ADICIONADO, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 3 DE JUNIO DE 2008, SE APRECIA LA EXISTENCIA DE ESTE PÁRRAFO.
+> <small>(ADICIONADO, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 En materia de impuestos federales coordinados, el Secretario podrá delegar sus atribuciones, en cumplimiento a los convenios y acuerdos de coordinación fiscal, en los servidores públicos subalternos, dentro de las facultades otorgadas en el presente reglamento, excepto aquéllas que por disposición de ley o del reglamento, deban ser ejercidas directamente por él.
-
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL TERCER PÁRRAFO DE FECHA 14 DE OCTUBRE DE 2013, PASÓ A SER UN NUEVO CUARTO PÁRRAFO.</small>
 
 El Secretario podrá ejercer directamente en cualquier momento las atribuciones que corresponden a esta dependencia.
 
@@ -265,15 +263,13 @@ XXXVI. Otorgar poder especial para actos de dominio, que impliquen adquisición 
 
 XXXVII. Otorgar poderes para pleitos y cobranzas, para formular y presentar demandas o contestaciones; desistirse; transigir; articular y absolver posiciones; elaborar informes previos y justificados; formular apersonamientos; recusar; recibir pagos; promover incidentes; solicitar sobreseimientos y otorgar perdón, ofrecer o rendir pruebas; alegar; interponer recursos y seguir los juicios y procedimientos hasta ejecutar las resoluciones emitidas en toda clase de juicios: civiles, penales, administrativos, fiscales y de amparo, así como en los procedimientos laborales y los administrativos tramitados por la Comisión de Derechos Humanos y en general ejercer las mismas atribuciones que un mandatario con todas las facultades generales y las particulares que requieran cláusulas especiales conforme a la ley, a favor de las diversas unidades administrativas de la dependencia, y de terceros, debiendo éstos, rendir cuenta de los resultados alcanzados.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 10 DE ENERO DE 2012, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXXVIII. Dirimir las controversias que se susciten entre las unidades administrativas de la Secretaría, con motivo de la aplicación de este Reglamento o la interpretación de alguna disposición jurídica.
 
 > <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXXIX. Autorizar la constitución de fideicomisos.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXXIV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XL.</small>
 
 XL. Las demás que con este carácter le confieran otras disposiciones legales o que le encomiende el Gobernador del Estado.
 
@@ -397,9 +393,9 @@ XVII. Las demás que les señalen otras disposiciones legales y las que les enco
 
 Corresponde al Subsecretario de Ingresos:
 
-> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-I. Proponer al Secretario, la política de ingresos en materia fiscal, de recaudación, de fiscalización, de regulación de casas de empeño y de asistencia al contribuyente.
+I. Proponer al Secretario, la política de ingresos en materia fiscal, de recaudación, de fiscalización, de regulación de casas de empeño y comercializadoras y de asistencia al contribuyente.
 
 II. Proponer al Secretario, reformas a las leyes, reglamentos, decretos y disposiciones de orden financiero, fiscal y administrativo.
 
@@ -477,19 +473,23 @@ IV. Dirección General de Regulación.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE RECAUDACIÓN
 
-> <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE MARZO DE 2015)</small>
 
 ###### Artículo 12.
 
-La Dirección General de Recaudación tendrá jurisdicción en todo el territorio del Estado y estará a cargo de un Director General quien en el ejercicio de sus atribuciones se auxiliará de los directores de área de Administración Tributaria, Jurídico Consultivo, de Operación, de Administración de Cartera, del Registro Estatal de Vehículos, de Atención al Contribuyente, de Vinculación con municipios y organismos auxiliares, de Administración y Servicios Generales y de Desarrollo de Sistemas e Informática, subdirectores, jefes de departamento, delegados fiscales, titulares de los centros de servicios fiscales, subdelegados de Administración Tributaria, Jurídico Consultivo y de Administración de Cartera, notificadores, ejecutores, verificadores y demás servidores públicos que se requieran para satisfacer las necesidades del servicio, de acuerdo con la estructura de organización autorizada y con el presupuesto de egresos respectivo.
-
-Asimismo, el Director General se auxiliará de los servidores públicos subalternos señalados en el párrafo anterior para el despacho de los asuntos de su competencia en materia de impuestos federales coordinados, en cumplimiento de los convenios y acuerdos de coordinación fiscal, dentro de las facultades otorgadas en el presente reglamento, excepto aquéllas que por disposición de ley o del reglamento deban ser ejercidas por el Director General de Recaudación.
+La Dirección General de Recaudación tendrá jurisdicción en todo el territorio del Estado y estará a cargo de un Director General quien en el ejercicio de sus atribuciones se auxiliará de los directores de área de Administración Tributaria, Jurídico Consultivo, de Operación, de Administración de Cartera, del Registro Estatal de Vehículos, de Atención al Contribuyente, de Vinculación con municipios y organismos auxiliares, de Administración y Servicios Generales y de Desarrollo de Sistemas e Informática, subdirectores, jefes de departamento, delegados fiscales, titulares de los centros de servicios fiscales, subdelegados de Administración Tributaria y de Administración de Cartera, enlaces jurídicos de la Dirección Jurídica Consultiva, notificadores, ejecutores, verificadores y demás servidores públicos que se requieran para satisfacer las necesidades del servicio, de acuerdo con la estructura de organización autorizada y con el presupuesto de egresos respectivo.
 
 > <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2013)</small>
 
+Asimismo, el Director General se auxiliará de los servidores públicos subalternos señalados en el párrafo anterior para el despacho de los asuntos de su competencia en materia de impuestos federales coordinados, en cumplimiento de los convenios y acuerdos de coordinación fiscal, dentro de las facultades otorgadas en el presente reglamento, excepto aquéllas que por disposición de ley o del reglamento deban ser ejercidas por el Director General de Recaudación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE MARZO DE 2015)</small>
+
 ###### Artículo 13.
 
-Los delegados fiscales estarán al frente de las delegaciones fiscales, quienes en ejercicio de sus funciones se auxiliarán de los subdelegados de Administración Tributaria, Jurídico Consultivo y de Administración de Cartera y tendrán a su cargo centros de servicios fiscales con jurisdicción en los municipios siguientes:
+Los delegados fiscales estarán al frente de las delegaciones fiscales, quienes en ejercicio de sus funciones se auxiliarán de los subdelegados de Administración Tributaria, y de Administración de Cartera, enlaces jurídicos de la Dirección Jurídica Consultiva y tendrán a su cargo centros de servicios fiscales con jurisdicción en los municipios siguientes:
+
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 I. Delegación Fiscal Ecatepec:
 
@@ -497,7 +497,9 @@ A) Centro de Servicios Fiscales Ecatepec:
 
 1. Ecatepec de Morelos
 
-B) Centro de Servicios Fiscales Valle de Anáhuac:
+> <small>(REFORMADO, G.G. 26 DE MARZO DE 2015)</small>
+
+B). Centro de Servicios Fiscales Coacalco:
 
 1. Coacalco de Berriozábal
 
@@ -541,6 +543,8 @@ F) Centro de Servicios Fiscales Zumpango:
 
 6. Zumpango
 
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
+
 II. Delegación Fiscal Naucalpan:
 
 A) Centro de Servicios Fiscales Naucalpan:
@@ -563,9 +567,13 @@ E) Centro de Servicios Fiscales Huixquilucan:
 
 l. Huixquilucan
 
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
+
 III. Delegación Fiscal Nezahualcóyotl:
 
-A) Centro de Servicios Fiscales de Chalco:
+> <small>(REFORMADO, G.G. 26 DE MARZO DE 2015)</small>
+
+A). Centro de Servicios Fiscales Chalco:
 
 1. Cocotitlán
 
@@ -621,6 +629,8 @@ D) Centro de Servicios Fiscales Texcoco:
 
 7. Texcoco
 
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
+
 IV. Delegación Fiscal Tlalnepantla:
 
 A) Centro de Servicios Fiscales Atizapán de Zaragoza:
@@ -666,6 +676,8 @@ E) Centro de Servicios Fiscales Plazas de la Colina:
 F) Centro de Servicios Fiscales Tultitlán:
 
 1. Tultitlán
+
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 V. Delegación Fiscal Toluca:
 
@@ -959,9 +971,9 @@ XXXVI. Vigilar que se encuentre debidamente garantizado el interés fiscal y, en
 
 XXXVII. Informar, coadyuvar y remitir la documentación que le requiera la Procuraduría Fiscal y la Contraloría Interna de la Secretaría, respecto de la presunta comisión de delitos fiscales y de cualquier otra naturaleza, de los que tenga conocimiento en el ejercicio de sus funciones, así como de las infracciones administrativas cometidas por servidores públicos de su área.
 
-> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XXXVIII. Proponer al Subsecretario de Ingresos, en el ámbito de su competencia, las reglas de carácter general en materia fiscal o medidas relacionadas con la administración, control, forma de pago y procedimientos relativos a las contribuciones y aprovechamientos, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+XXXVIII. Proponer al Subsecretario de Ingresos, en el ámbito de su competencia, las reglas de carácter general en materia fiscal o medidas relacionadas con la administración, control, forma de pago, procedimientos y requisitos para estos trámites administrativos, relativos a las contribuciones y aprovechamientos, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
 
 XXXIX. Declarar, a petición de parte, en términos de las disposiciones fiscales, la existencia de subsidios, condonaciones y exenciones a su favor.
 
@@ -1053,7 +1065,9 @@ LXIV. Requerir información de la Secretaría de Transporte, de los Ayuntamiento
 
 LXV. Consultar con las entidades federativas el registro de automotores y el cumplimiento de obligaciones fiscales, respecto de los cuales se pretendan realizar trámites de control vehicular en el Estado de México.
 
-LXVI. (DEROGADA, G.G. 3 DE JUNIO DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE MARZO DE 2015)</small>
+
+LXVI. Implementar los sistemas o aplicativos que permitan al contribuyente realizar trámites o servicios por medios electrónicos, así como vigilar su correcto funcionamiento.
 
 > <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2008)</small>
 
@@ -1071,11 +1085,9 @@ LXIX. Presentar a su superior jerárquico los planes operativos de trabajo, así
 
 LXX. Elaborar y someter a aprobación del Subsecretario, las resoluciones de condonación parcial o total, a favor de los particulares, respecto de las multas y recargos previstos en el Código Financiero del Estado de México y Municipios.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 10 DE ENERO DE 2012, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 LXXI. Celebrar o suscribir contratos con instituciones bancarias, para la apertura de cuentas de cheques para la administración de los recursos autorizados a través del Fondo Fijo de Caja.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN LVII, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER LXXII.</small>
 
 LXXII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Ingresos.
 
@@ -1171,7 +1183,7 @@ XXIV. Requerir a los contadores públicos que hayan formulado dictamen sobre la 
 
 XXV. Recibir y revisar los dictámenes sobre la determinación y pago del impuesto sobre erogaciones por remuneraciones al trabajo personal, así como los avisos, solicitudes, aclaraciones y manifestaciones relacionadas con los mismos, que presenten los contribuyentes o los contadores públicos autorizados.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 6 DE JUNIO DE 2008, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXVI. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por:
 
@@ -1183,9 +1195,15 @@ c) Que los datos asentados en el comprobante fiscal correspondan a persona disti
 
 d) No contar con controles volumétricos.
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXII, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXVII.</small>
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XXVII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Ingresos.
+XXVII. Emitir los oficios de observaciones a cargo de los contribuyentes, responsables solidarios o terceros, en ejercicio de sus facultades de comprobación.
+
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XXVIII. Tramitar y ejecutar los procedimientos y acciones para dar destino final a los bienes adjudicados a favor del Fisco Federal con motivo del ejercicio de sus facultades de comprobación en materia de comercio exterior.
+
+XXIX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Ingresos.
 
 > <small>(ADICIONADO, G.G. 14 DE OCTUBRE DE 2013)</small>
 
@@ -1495,13 +1513,17 @@ V. Determinar y calcular las participaciones que correspondan a los municipios y
 
 VI. Analizar la evolución de las finanzas públicas, para elaborar e integrar las proyecciones fiscales.
 
-> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-VII. Proponer la actualización o modificación de precios, tasas, cuotas o tarifas, de los ingresos propios, previa identificación y análisis de los mismos.
+VII. Proponer la actualización o modificación de precios, tasas, cuotas o tarifas, de los ingresos que lo requieran, previa identificación y análisis.
 
-VIII. Calcular los ingresos ordinarios del Gobierno del Estado, del ejercicio fiscal inmediato posterior, y proporcionar las cifras a la Subsecretaría de Planeación y Presupuesto, así como la información del comportamiento mensual de los ingresos, para efectos del control del ejercicio del gasto público.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+VIII. Calcular los ingresos ordinarios del Gobierno del Estado del ejercicio fiscal inmediato posterior, y proporcionar las cifras a la Subsecretaría de Planeación y Presupuesto, así como la información del comportamiento mensual de los ingresos, para efectos del control del ejercicio del gasto público.
 
 IX. Registrar y clasificar los ingresos provenientes de la Federación, para evaluar su comportamiento.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
 X. Proporcionar mensualmente cifras proyectadas de ingresos al Secretario, al Subsecretario de Ingresos, al Subsecretario de Tesorería y al Subsecretario de Planeación y Presupuesto.
 
@@ -1511,9 +1533,9 @@ XII. Colaborar, en el ámbito de su competencia, con los organismos que integran
 
 XIII. Ejercer, en el ámbito de su competencia, las atribuciones que se deriven de los convenios y acuerdos que se celebren dentro del marco de los sistemas: Nacional de Coordinación Fiscal y Estatal de Coordinación Hacendaria.
 
-> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XIV. Elaborar para su publicación, el acuerdo por el que se dan a conocer las participaciones federales y estatales que recibirá cada municipio en el ejercicio fiscal, de las recibidas trimestralmente, así como del Ajuste Anual Definitivo de participaciones del ejercicio fiscal inmediato anterior.
+XIV. Elaborar, para su publicación, las reglas para la asignación de las participaciones federales y estatales a los municipios del Estado de México en el ejercicio fiscal, el acuerdo por el que se dan a conocer las participaciones federales y estatales que recibirá cada municipio en el ejercicio fiscal, de las recibidas trimestralmente, y del ajuste anual definitivo de participaciones del ejercicio fiscal inmediato anterior.
 
 > <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2008)</small>
 
@@ -1523,15 +1545,19 @@ XV. Realizar estudios que sirvan como base para la elaboración del anteproyecto
 
 XVI. Analizar la suscripción de convenios con el gobierno federal y municipios del Estado de México en materia de ingresos.
 
-> <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XVII. Proponer al Subsecretario de Ingresos, la modificación de los precios y tarifas que le sean informados por las Entidades Públicas, previo análisis que de éstos se hagan.
+XVI Bis. Realizar el análisis jurídico y económico sobre la viabilidad de las solicitudes sobre aprovechamientos, productos, precios y tarifas que se reciban de las dependencias y entidades públicas.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XVII. Proponer al Subsecretario de Ingresos, la modificación de los precios, tarifas, cuotas y montos que sean informados por las Entidades Públicas y Dependencias, previo análisis que de éstos se hagan.
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
 
 XVIII. Determinar las retenciones o afectaciones a las aportaciones federales que correspondan conforme a las leyes, códigos, reglamentos y demás disposiciones jurídicas en materia fiscal.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 10 DE ENERO DE 2012, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XIX. Reunir y enviar a la Secretaría de Hacienda y Crédito Público, la información de la recaudación del impuesto predial y derechos de agua de los municipios del Estado de México, del ejercicio fiscal inmediato anterior.
 
@@ -1539,7 +1565,7 @@ XIX. Reunir y enviar a la Secretaría de Hacienda y Crédito Público, la inform
 
 XX. Elaborar para su publicación, el acuerdo por el que se da a conocer la actualización de las cuotas y tarifas de derechos para el ejercicio fiscal.
 
-(REFORMADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXI.
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXI. Las demás que le señalan otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Ingresos.
 
@@ -1565,43 +1591,75 @@ La Dirección General de Regulación estará a cargo de un Director General quie
 
 Corresponde a la Dirección General de Regulación:
 
-I. Recibir, analizar y calificar las solicitudes para la expedición, revalidación, reposición, modificación y cancelación de los permisos.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-II. Integrar el expediente e inscribir en el registro estatal las casas de empeño que obtengan permiso para funcionar.
+I. Recibir, analizar y calificar las solicitudes para la expedición, revalidación, reposición, modificación y cancelación de los permisos, para las casas de empeño y comercializadoras.
 
-III. Integrar y actualizar el registro de valuadores que presten sus servicios en las casas de empeño.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-IV. Registrar y expedir constancia de inscripción al registro de valuadores que presten sus servicios en las casas de empeño.
+II. Integrar el expediente e inscribir en el registro estatal las casas de empeño y comercializadoras que obtengan permiso para funcionar.
 
-V. Coordinarse con la Procuraduría General de Justicia del Estado de México los reportes mensuales relacionados con las operaciones que realizan las casas de empeño.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-VI. Sancionar a los permisionarios por infracciones a la Ley que Regula las Casas de Empeño en el Estado de México y su Reglamento.
+III. Integrar y actualizar el registro de valuadores que presten sus servicios en las casas de empeño y comercializadoras.
 
-VII. Notificar las sanciones por infracciones a las disposiciones de la Ley que Regula las Casas de Empeño en el Estado de México y proveer lo conducente a su ejecución.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-VIII. Notificar las resoluciones sobre la expedición, modificación, revalidación, reposición y cancelación del permiso para casa de empeño.
+IV. Registrar y expedir constancia de inscripción al registro de valuadores que presten sus servicios en las casas de empeño y comercializadoras.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+V. Coordinarse con la Procuraduría General de Justicia del Estado de México respecto a los reportes mensuales relacionados con las operaciones que realizan las casas de empeño y comercializadoras.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+VI. Sancionar a los permisionarios por infracciones a la Ley de Competitividad y Ordenamiento Comercial del Estado de México y su Reglamento.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+VII. Notificar las sanciones por infracciones a las disposiciones de la Ley de Competitividad y Ordenamiento Comercial del Estado de México y su Reglamento y proveer lo conducente a su ejecución.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+VIII. Notificar las resoluciones sobre la expedición, modificación, revalidación, reposición y cancelación del permiso para las casas de empeño y comercializadoras.
 
 IX. Notificar las resoluciones recaídas al procedimiento administrativo de imposición de sanciones.
 
-X. Elaborar formatos de documentos relativos a la solicitud de expedición, revalidación, reposición, modificación y cancelación de permiso y demás papelería oficial necesaria para el cumplimiento de la Ley que Regula las Casas de Empeño en el Estado de México.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XI. Autorizar a solicitud expresa de parte interesada los libros auxiliares en forma digital que lleven las casas de empeño.
+X. Elaborar formatos de documentos relativos a la solicitud de expedición, revalidación, reposición, modificación y cancelación de permiso y demás papelería oficial necesaria para el cumplimiento de la Ley de Competitividad y Ordenamiento Comercial del Estado de México y su Reglamento.
 
-XII. Emitir las resoluciones correspondientes a las solicitudes de expedición, modificación, revalidación y cancelación de permisos para la instalación y funcionamiento de casas de empeño.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XIII. Llevar a cabo las visitas de inspección y verificación, con las formalidades que establece la Ley que Regula las Casas de Empeño en el Estado de México y su Reglamento.
+XI. Autorizar a solicitud expresa de parte interesada los libros auxiliares en forma digital que lleven las casas de empeño y comercializadoras.
 
-XIV. Tener bajo guarda y custodia los datos personales que obtenga de las casas de empeño.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XV. Publicar cada año en el periódico oficial "Gaceta del Gobierno" y de forma permanente en su sitio de internet la lista actualizada de las casas de empeño inscritas con registro vigente.
+XII. Emitir las resoluciones correspondientes a las solicitudes de expedición, modificación, revalidación y cancelación de permisos para la instalación y funcionamiento de casas de empeño y comercializadoras.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XIII. Llevar a cabo las visitas de inspección y verificación, con las formalidades que establece la Ley de Competitividad y Ordenamiento Comercial del Estado de México, su Reglamento, así como el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XIV. Tener bajo guarda y custodia los datos personales que obtenga de las casas de empeño y comercializadoras.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XV. Publicar cada año en el periódico oficial "Gaceta del Gobierno" y de forma permanente en su sitio de internet la lista actualizada de las casas de empeño y comercializadoras inscritas con registro vigente.
 
 XVI. Llevar a cabo la audiencia de ofrecimiento y desahogo de pruebas en relación con los hechos constitutivos de la infracción y alegatos del procedimiento administrativo para la imposición de sanciones.
 
 XVII. Conocer, estudiar, analizar, sustanciar y resolver el procedimiento administrativo para la imposición de sanciones.
 
-XVIII. Remitir a la Procuraduría Fiscal del Estado los recursos de inconformidad presentados por las casas de empeño contra las resoluciones que emita la Dirección General.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XIX. Requerir al solicitante de un permiso para casas de empeño, que subsane las deficiencias que se detecten en su solicitud.
+XVIII. Remitir a la Procuraduría Fiscal del Estado los recursos de inconformidad presentados por las casas de empeño y comercializadoras contra las resoluciones que emita la Dirección General.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XIX. Requerir al solicitante de constancia de inscripción de valuador para casas de empeño y comercializadoras, que subsane las deficiencias que se detecten en su solicitud.
 
 XX. Requerir la exhibición de la póliza de fianza o contrato de seguro cuando se resuelva favorablemente la solicitud de un permiso para casas de empeño.
 
@@ -1777,7 +1835,7 @@ XIX. Cumplir con las obligaciones fiscales a cargo de las dependencias, Procurad
 
 XX. Proponer al Secretario, a través del Subsecretario de Planeación y Presupuesto, la cancelación de cuentas incobrables de las dependencias, Procuraduría General de Justicia y tribunales administrativos, para acuerdo del Titular del Ejecutivo del Gobierno del Estado.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 5 DE JULIO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXI. Atender los requerimientos de auditoría, revisión, verificación y actos de fiscalización que realicen las instancias facultadas para la fiscalización, auditoría, verificación, evaluación y control al ejercicio de los recursos públicos de las dependencias, Procuraduría General de Justicia, organismos auxiliares y tribunales administrativos.
 
@@ -1788,8 +1846,6 @@ XXII. Atender las solicitudes de información relativas al ejercicio de los recu
 > <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXIII. Implementar la normatividad emitida por el Consejo Nacional de Armonización Contable en materia de Contabilidad Gubernamental y dar seguimiento al cumplimiento por parte de los entes públicos del ámbito estatal y municipal respecto de las obligaciones contenidas en la Ley General de Contabilidad Gubernamental.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXIV.</small>
 
 XXIV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Planeación y Presupuesto.
 
@@ -1829,11 +1885,9 @@ X. Solicitar a la Dirección General de Financiamiento de Proyectos, explorar fu
 
 XI. Revisar, verificar, evaluar y dictaminar los análisis costo-beneficio y la actualización que de los mismos se hagan, con relación a la autorización de Proyectos para Prestación de Servicios.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 3 DE JUNIO DE 2008, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XII. Suscribir toda la documentación necesaria, en representación de la Secretaría de Finanzas y la Coordinación General del Comité de Planeación para el Desarrollo del Estado de México y de los Municipios (COPLADEM), para el ejercicio correspondiente, de los recursos que autoriza la Secretaría de Desarrollo Social a los municipios y en los que tenga intervención el Gobierno del Estado de México a través de esta Secretaría, del Fondo para la Infraestructura Social Municipal, del cual se desprende el Programa de Desarrollo Institucional Municipal, así como lo relativo a los actos e instrumentos jurídicos relacionados con Programas de Desarrollo Social.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XIII.</small>
 
 XIII. Las demás que le confieran otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Planeación y Presupuesto.
 
@@ -1907,7 +1961,7 @@ XXVI. Llevar el registro y seguimiento de los fideicomisos constituidos por el P
 
 XXVII. Acordar con el Comité Técnico u Órgano de Gobierno del fideicomiso, las modificaciones a los contratos de fideicomiso y su posible extinción, cuando exista alguna causa que lo justifique; con excepción de los señalados en los artículos 265-A y 265 B Bis del Código Financiero del Estado de México y Municipios.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 10 DE ENERO DE 2012, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXVIII. Administrar los recursos provenientes de los convenios de inversión que sean suscritos con el ejecutivo estatal.
 
@@ -1915,9 +1969,7 @@ XXVIII. Administrar los recursos provenientes de los convenios de inversión que
 
 XXIX. Solicitar información financiera a las dependencias del Poder Ejecutivo, organismos auxiliares y municipios del Estado.
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXIV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXX.</small>
-
-XXX. Las demás que le confieran otros ordenamientos jurídicos y aquellas que le encomiende el Secretario.
+Las demás que le confieran otros ordenamientos jurídicos y aquellas que le encomiende el Secretario.
 
 ###### Artículo 24.
 
@@ -2039,9 +2091,9 @@ VII. Analizar y determinar a solicitud de los gobiernos municipales, en cantidad
 
 VIII. Analizar y proponer el otorgamiento, en su caso, del aval del Gobierno del Estado, para garantizar el cumplimiento de las obligaciones contraídas por los ayuntamientos y organismos auxiliares.
 
-> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-IX. Administrar, operar e inscribir en el Registro de Deuda Pública del Gobierno del Estado de México las obligaciones y empréstitos del Estado y municipios, así como establecer los procedimientos para evaluar su situación crediticia y, en su caso, solicitar su inscripción ante el Registro de Obligaciones y Empréstitos de Entidades Federativas que lleva la Secretaría de Hacienda y Crédito Público.
+IX. Administrar, operar e inscribir en el Registro de Deuda Pública del Gobierno del Estado de México de conformidad con lo establecido en el artículo 273 del Código Financiero del Estado de México y Municipios, las obligaciones y empréstitos del Estado y municipios, así como establecer los procedimientos para evaluar su situación crediticia y, en su caso, solicitar su inscripción ante el Registro de Obligaciones y Empréstitos de Entidades Federativas que lleva la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
@@ -2069,23 +2121,21 @@ XV. Analizar las propuestas de constitución de fideicomisos en que intervenga e
 
 XVI. Inscribir y dar seguimiento en el Registro de Fideicomisos del Estado de México a los fideicomisos constituidos por el Poder Ejecutivo del Estado, a través de sus dependencias y organismos auxiliares; así como establecer el procedimiento para su registro.
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XVII. Solicitar información Financiera de los fideicomisos constituidos por el Poder Ejecutivo del Estado a través de sus dependencias y organismos auxiliares; así como información de los recursos fideicomitidos cuando se afecten como fuente de pago y/o garantía a otro fideicomiso público o privado.
+XVII. Solicitar información Financiera de los fideicomisos constituidos por el Poder Ejecutivo del Estado a través de sus dependencias y organismos auxiliares; así como información de los recursos fideicomitidos, cuando se afecten como fuente de pago y/o garantía.
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
 
 XVIII. Proponer al Subsecretario, previo análisis, las modificaciones a los contratos de fideicomiso y su posible extinción cuando exista alguna causa que lo justifique.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 10 DE ENERO DE 2012, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XIX. Elaborar, a solicitud de las dependencias y organismos auxiliares del Poder Ejecutivo Estatal, los pagarés derivados de contratos de obra pública financiada.
 
 > <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XX. Establecer programas financieros que procuren el ahorro de los ayuntamientos a través de Fondos comunes que apoyen la hacienda municipal.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XVIII, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXI.</small>
 
 XXI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Tesorería.
 
@@ -2241,11 +2291,9 @@ XXXIII. Asesorar y orientar a las dependencias, organismos auxiliares y municipi
 
 XXXIV. Constituir y controlar el fondo fijo que administra la Caja General de Gobierno, de conformidad con los lineamientos que emita el Subsecretario de Tesorería.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 3 DE JUNIO DE 2008, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XXXV. Recibir, conservar y custodiar las garantías a favor del Gobierno del Estado.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXXIV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXXVI.</small>
 
 XXXVI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario, el Subsecretario de Tesorería o el Director General de Tesorería.
 
@@ -2419,9 +2467,7 @@ V. Expedir las cédulas de proveedores de bienes y prestadores de servicios en l
 
 VI. Ejecutar y dar seguimiento al programa anual de adquisiciones que emitan las dependencias del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
-
-VII. Integrar, ejecutar y dar seguimiento al programa anual de adquisiciones que requieran las dependencias del Poder Ejecutivo del Estado.
+VII. (DEROGADA, G.G. 26 DE MARZO DE 2015)
 
 > <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
@@ -2525,9 +2571,9 @@ XXXVI. Integrar con la documentación técnica, jurídica y administrativa, los 
 
 XXXVII. Tramitar y ejecutar los procedimientos y acciones necesarias para regularizar la propiedad del patrimonio inmobiliario estatal, representando legalmente a la Secretaría ante cualquier autoridad y coadyuvar, en lo relativo con el sector auxiliar.
 
-> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XXXVIII. Realizar los trámites necesarios para el mantenimiento, conservación y remodelación de las oficinas públicas de propiedad estatal, que requieran las dependencias del Poder Ejecutivo del Gobierno del Estado.
+XXXVIII. Dictaminar o en su caso realizar los trámites, para el mantenimiento, conservación y remodelación de las oficinas públicas de propiedad estatal, que requieran las dependencias del Poder Ejecutivo del Gobierno del Estado.
 
 > <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
@@ -2543,15 +2589,13 @@ XLII. Formular y someter a la aprobación del Secretario, por conducto del Subse
 
 XLIII. Suscribir los convenios de liquidación en los casos de indemnización, cuando intervenga una reaseguradora.
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 5 DE JULIO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XLIV. Informar a la Dirección General de Recaudación el incumplimiento de las empresas o personas físicas que fueron sancionadas al pago de una multa en el procedimiento administrativo sancionador, solicitándole la recepción del pago y, a falta de éste, en ejercicio de sus atribuciones realice el cobro de la multa a través del procedimiento administrativo de ejecución.
 
 > <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XLV. Solicitar el apoyo administrativo de otras unidades administrativas de la Secretaría, en materia de adquisición de bienes, servicios y otras actividades relacionadas con sus atribuciones.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XLIV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XLVI.</small>
 
 XLVI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Administración.
 
@@ -2563,25 +2607,35 @@ DE LA DIRECCIÓN GENERAL DE INNOVACIÓN.
 
 Corresponde a la Dirección General de Innovación:
 
-I. Elaborar y proponer al Subsecretario de Administración, los lineamientos y mecanismos para formular, ejecutar y evaluar acciones en materia de calidad.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+I. Elaborar y proponer al Subsecretario de Administración, los lineamientos y mecanismos para formular, ejecutar y evaluar los programas y acciones en materia de modernización, innovación, simplificación, reingeniería y calidad en la administración pública estatal.
 
 II. Desarrollar y, en su caso, operar herramientas de gestión que coadyuven a la modernización de la función pública.
 
-III. Proponer acciones de modernización administrativa y calidad en trámites y servicios estratégicos del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-IV. Promover que los trámites y servicios gubernamentales, así como los procesos para su modernización, se orienten a dar valor al usuario.
+III. Proponer acciones de modernización, simplificación y calidad en trámites y servicios estratégicos del Gobierno del Estado, así como en procesos de soporte.
 
-V. Asesorar y apoyar a las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado, en la formulación, ejecución y evaluación de acciones de modernización y calidad.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+IV. Promover que los trámites y servicios gubernamentales, así como los procesos para su modernización, simplificación y reingeniería, se orienten a dar valor al usuario.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+V. Asesorar y apoyar a las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado, en la formulación, ejecución y evaluación de acciones de modernización, innovación, simplificación, reingeniería y calidad.
 
 VI. Promover la certificación de procesos de trabajo en la administración pública estatal.
 
-VII. Revisar las estructuras orgánicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado, a fin de impulsar su dinamismo, funcionalidad, racionalidad y congruencia con los programas gubernamentales.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-VIII. Verificar que las estructuras orgánicas de las dependencias y organismos auxiliares, respondan a las prioridades de los planes y programas estratégicos de gobierno.
+VII. Revisar y, en su caso, proponer modificaciones a las estructuras orgánicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado, a fin de impulsar su dinamismo, funcionalidad, racionalidad, eficiencia y congruencia con las atribuciones, planes y programas gubernamentales estratégicos.
+
+VIII. (DEROGADA, G.G. 26 DE MARZO DE 2015)
 
 IX. Promover la desconcentración de funciones de las áreas sustantivas y de atención directa a la ciudadanía y fortalecer su capacidad de respuesta para cumplir con las prioridades de la administración pública estatal.
 
-X. Verificar la congruencia entre las atribuciones y las estructuras orgánicas, a fin de eficientar y dinamizar el desempeño de las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
+X. (DEROGADA, G.G. 26 DE MARZO DE 2015)
 
 XI. Dictaminar sobre la procedencia de creación, modificación o disolución de las unidades administrativas de las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
 
@@ -2589,23 +2643,45 @@ XII. Elaborar, registrar y resguardar los organigramas autorizados de las depend
 
 XIII. Auxiliar a las dependencias en la elaboración de los anteproyectos de sus reglamentos interiores, así como revisar y autorizar los proyectos de reglamentos interiores de los organismos auxiliares.
 
-XIV. Elaborar criterios y guías para que las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado, elaboren sus manuales de procedimientos, así como asesorarlos cuando lo soliciten.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2008)</small>
+XIV. Elaborar criterios y guías técnicas para que las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado, elaboren sus manuales administrativos, así como proporcionar asesorías cuando éstas lo soliciten.
 
-XV. Elaborar y aprobar, con el concurso de las dependencias sus manuales administrativos, así como aprobar o validar, según sea el caso, los que correspondan a los organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XV. Revisar, dictaminar y aprobar los manuales administrativos de las dependencias y organismos auxiliares, así como sus actualizaciones, de conformidad con los criterios técnicos establecidos.
 
 XVI. Elaborar y proporcionar los servicios de orientación e información sobre el directorio de servidores públicos, trámites, servicios y oficinas gubernamentales.
 
-XVII. Coordinar la operación del Sistema Estatal de Documentación y administrar el Archivo General del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-XVIII. Recopilar, procesar y disponer para su consulta, los documentos relativos a informes del Gobernador del Estado, Gacetas del Gobierno, Diarios Oficiales, planes y programas gubernamentales, estudios sobre administración pública y otros de carácter especial del gobierno.
+XVII. Coordinar la operación normativa y técnica del Sistema Estatal de Documentación y administrar el Archivo General del Poder Ejecutivo.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XVIII. Recopilar, procesar y disponer para su consulta, materiales bibliográficos, hemerográficos y no convencionales, generados por los gobiernos de los ámbitos estatal, municipal y federal, así como publicaciones y documentos relacionados con la administración pública y otras materias afines.
 
 XIX. Proporcionar asesoría técnica en materia de administración de documentos a las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
 
 XX. Integrar y editar el órgano informativo de los servidores públicos del Poder Ejecutivo del Gobierno del Estado.
 
-XXI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Administración.
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XXI. Elaborar estudios comparativos sobre modelos de desarrollo administrativo, vinculados con trámites y servicios gubernamentales.
+
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XXII. Coordinar la operación del Centro de Atención Telefónica del Gobierno del Estado de México y facilitar la prestación de servicios de orientación e información a la ciudadanía en materia de trámites y servicios, directorio de servidores públicos y programas gubernamentales.
+
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XXIII. Elaborar diagnósticos organizacionales por sí o a solicitud de las dependencias u organismos auxiliares, que contribuyan a direccionar el cambio planeado para el cumplimiento de la misión, visión y estrategias gubernamentales.
+
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XXIV. Participar y contribuir en el análisis de los procesos administrativos para su automatización e interoperabilidad, así como en lo relativo a las acciones de Mejora Regulatoria.
+
+XXV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Administración.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN GENERAL DEL SISTEMA ESTATAL DE INFORMÁTICA
 
@@ -2621,7 +2697,9 @@ II. Formular y aplicar políticas y procedimientos para asegurar la integridad y
 
 III. (DEROGADA, G.G. 14 DE OCTUBRE DE 2013)
 
-IV. (DEROGADA, G.G. 14 DE OCTUBRE DE 2013)
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
+
+IV. Realizar el seguimiento de la evolución de las tecnologías de información y comunicaciones, para mantener actualizado el conocimiento que en la materia sea aplicable a las dependencias y organismos auxiliares de la Administración Pública Estatal.
 
 > <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
@@ -2651,7 +2729,9 @@ XI. Formular y aplicar políticas y procedimientos para la implementación, admi
 
 XII. Crear e implementar estándares, lineamientos y procesos en materia de tecnologías de información y comunicaciones a la administración pública estatal.
 
-XIII. (DEROGADA, G.G. 14 DE OCTUBRE DE 2013)
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XIII. Administrar el Portal Ciudadano del Gobierno del Estado de México así como promover la difusión, por medios electrónicos de la información, necesaria para la coordinación e impulso del desarrollo de las tecnologías de información y comunicaciones en la entidad.
 
 > <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
@@ -2703,7 +2783,9 @@ I. Planear, presupuestar, operar, controlar y evaluar el Sistema de Profesionali
 
 II. Formular normas, políticas y procedimientos para operar el Subsistema de Formación y Desarrollo, del Sistema de Profesionalización para los servidores públicos del Poder Ejecutivo del Estado, con la participación que corresponda a sus dependencias y organismos auxiliares.
 
-III. Desarrollar, coordinar, controlar y evaluar los programas generales de profesionalización y establecer los lineamientos y metodologías que integrarán y ejecutarán los programas específicos de capacitación de las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+III. Desarrollar, coordinar, controlar y evaluar los programas generales de profesionalización y establecer los lineamientos y metodologías que integrarán y ejecutarán los programas específicos de formación y desarrollo de las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
 
 IV. Analizar y autorizar las acciones o eventos en materia de profesionalización específica que, en su caso, soliciten las dependencias del Poder Ejecutivo del Gobierno del Estado, y que no se incluyan en los programas que ofrece el Instituto.
 
@@ -2711,9 +2793,13 @@ V. Establecer los lineamientos y modalidades para la certificación de los servi
 
 VI. Establecer los lineamientos para la evaluación del aprovechamiento de los servidores públicos en los programas de profesionalización, definiendo los instrumentos de evaluación y los tabuladores de valor curricular de cada programa, incluidos aquellos que desarrollen las dependencias y organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
 
-VII. Proporcionar información y asesoría respecto de las pruebas técnicas, instrumentos de evaluación y demás requeridos para la operación de concursos escalafonarios, relacionados con la acreditación de conocimientos y capacitación de los servidores públicos generales del Poder Ejecutivo del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
 
-VIII. Validar y emitir, según el caso, las constancias correspondientes a los resultados de profesionalización de los servidores públicos al servicio del Poder Ejecutivo del Gobierno del Estado, para los efectos conducentes en los concursos escalafonarios, así como corroborar, la validez de eventos y programas de capacitación y desarrollo que los servidores públicos hayan concluido por sus propios medios.
+VII. Proporcionar información y asesoría respecto de las pruebas técnicas, instrumentos de evaluación y demás requeridos para la operación de concursos escalafonarios, relacionados con la acreditación de conocimientos, y la formación y desarrollo de los servidores públicos generales del Poder Ejecutivo del Gobierno del Estado.
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+VIII. Validar y emitir, según el caso, las constancias correspondientes a los resultados de profesionalización de los servidores públicos al servicio del Poder Ejecutivo del Gobierno del Estado, para los efectos conducentes en los concursos escalafonarios, así como corroborar, la validez de eventos y programas de formación y desarrollo que los servidores públicos hayan concluido por sus propios medios.
 
 IX. Realimentar los programas de profesionalización, mediante los resultados de la evaluación del desempeño.
 
@@ -2727,7 +2813,9 @@ XIII. Establecer mecanismos de coordinación y cooperación con instituciones af
 
 XIV. Validar los convenios de colaboración con instancias de los sectores públicos, social y privado, que promuevan las dependencias del Poder Ejecutivo del Gobierno del Estado, en los casos que involucren acciones de profesionalización de los servidores públicos que formen parte de las mismas.
 
-XV. Suscribir convenios y acuerdos con instituciones educativas, para la ejecución de investigaciones en materia de profesionalización y programas e impartición de eventos de formación y desarrollo, y vigilar su cumplimiento.
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2015)</small>
+
+XV. Suscribir convenios y acuerdos con instituciones públicas, para la ejecución de investigaciones en materia de profesionalización y programas e impartición de eventos de formación y desarrollo, y vigilar su cumplimiento.
 
 XVI. Las demás que le confieran otras disposiciones legales y las que le encomiende el Secretario y el Subsecretario de Administración.
 
@@ -2953,11 +3041,9 @@ XVII. Informar oportunamente al Secretario sobre el estado que guarden los asunt
 
 XVIII. (DEROGADA, G.G. 14 DE OCTUBRE DE 2013)
 
-(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 3 DE JUNIO DE 2008, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 XIX. Contribuir, coadyuvar y auxiliar en la sustanciación de los procedimientos de adquisición de bienes y servicios, a petición de la unidad administrativa de la Secretaría encargada de realizarlos. Así como ejecutar los actos de adquisición de bienes y servicios que le correspondan en términos de la normatividad correspondiente.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XVIII, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 14 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XX.</small>
 
 XX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
@@ -3030,6 +3116,14 @@ En caso de ausencia definitiva y en tanto se designa al nuevo titular, el Secret
 Los Directores Generales o equivalentes serán suplidos en sus ausencias temporales hasta por 15 días, por el director o el servidor público de la jerarquía inmediata inferior que aquellos designen. En las mayores de 15 días, por el servidor público que designe el Secretario.
 
 En caso de ausencia definitiva y en tanto se designa al nuevo titular, el Secretario podrá designar un encargado de despacho.
+
+> <small>(ADICIONADO, G.G. 26 DE MARZO DE 2015)</small>
+
+Los titulares de las demás unidades administrativas, serán suplidos en sus ausencias temporales, por el servidor público que designe el Director General o equivalente.
+
+> <small>(ADICIONADO, G.G. 26 DE MARZO DE 2015)</small>
+
+En caso de ausencia definitiva y en tanto se designa al nuevo titular, el Director General o su equivalente podrá designar un encargado de despacho.
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2012)</small>
 
@@ -3134,6 +3228,14 @@ G.G. 7 DE MARZO DE 2014.
 PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE MARZO DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de las fracciones del artículo 17 Ter, que entrarán en vigor el día que inicie la vigencia de la Ley de Competitividad y Ordenamiento Comercial del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 862 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 36 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
 
