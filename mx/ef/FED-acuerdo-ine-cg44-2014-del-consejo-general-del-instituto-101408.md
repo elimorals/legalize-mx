@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg44-2014-del-consejo-general-del-instituto-101408"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-06-16"
-last_updated: "2014-06-16"
+last_updated: "2015-03-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101408&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-06-06"
 ---
 # ACUERDO INE/CG44/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA DESIGNACION DE CONSEJEROS PRESIDENTES Y CONSEJEROS ELECTORALES DE LOS ORGANISMOS PUBLICOS LOCALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO INE/CG86/2015 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y LA REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES, PUBLICADO EN LA TERCERA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA DESIGNACIÓN DE CONSEJEROS PRESIDENTES Y CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2015 (SIN EFECTOS).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de Junio de 2014.
 
@@ -610,3 +612,17 @@ En tanto no se constituya la Unidad Técnica de Vinculación con los Organismo (
 Segundo
 
 La Convocatoria para el primer proceso de selección y designación que se instaure en términos de lo dispuesto en el artículo transitorio noveno del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución en materia política-electoral, publicado en el Diario Oficial de la Federación el dos de febrero de dos mil catorce, así como en el artículo transitorio décimo del Decreto que expide la Ley General, publicado en el Diario Oficial de la Federación el veintitrés de mayo pasado, deberá publicarse a más tardar el treinta de junio del dos mil catorce.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE MARZO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deja sin efectos el acuerdo INE/CG44/2014 por el que emitieron los Lineamientos del Instituto Nacional Electoral para la designación de los Consejeros Presidentes y Consejeros Electorales de los Organismos Públicos Locales.
+
+TERCERO. La designación de la o el Consejero Presidente, las y los Consejeros Electorales de los Organismos Públicos Locales Electorales en los estados de Aguascalientes, Baja California, Chihuahua, Coahuila, Hidalgo, Durango, Nayarit, Puebla, Quintana Roo, Sinaloa, Tamaulipas, Tlaxcala y Veracruz, que se encuentra pendiente de realizar, será por los siguientes periodos: tres consejeras o consejeros electorales serán designados por tres años; tres Consejeras o Consejeros electorales por seis años, y la o el Consejero Presidente por siete años; de conformidad con lo dispuesto en el artículo Décimo Transitorio de la Ley General de Instituciones y Procedimientos Electorales.
+
+CUARTO. El requisito previsto en el artículo 100, párrafo 2, inciso k) de la Ley General, y 9, párrafo 1, inciso k) del presente Reglamento, cobrará vigencia una vez que se integre el Servicio Profesional Electoral Nacional, por lo que no será aplicable en el proceso de selección y designación de la o el Consejero Presidente, y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales en los estados señalados en el transitorio anterior.
+
+QUINTO. En el caso de las quejas a que se refiere el Libro Segundo, Título Segundo del presente Reglamento, presentadas con anterioridad a la aprobación de este instrumento, los plazos a que se refiere el mismo comenzarán a correr a partir de su entrada en vigor.
