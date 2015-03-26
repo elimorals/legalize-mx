@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2014-04-03"
+last_updated: "2015-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -413,7 +413,7 @@ XVII. Movilizarlos por medio de golpes, instrumentos punzo cortantes, eléctrico
 
 XVIII. El uso de animales en la celebración de ritos y usos tradicionales que puedan afectar el bienestar animal; y
 
-XIX. Hacer ingerir bebidas alcohólicas o suministrar drogas sin fines terapéuticos a un animal; (sic)
+XIX. Hacer ingerir bebidas alcohólicas o suministrar drogas sin fines terapéuticos a un animal;
 
 ### CAPITULO IX. DE LOS ANIMALES DOMESTICOS
 
@@ -546,6 +546,12 @@ Se les deberá proporcionar agua, alimento y protección contra las inclemencias
 En toda exhibición o espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo en el que participen animales vivos, debe garantizarse su trato digno y respetuoso durante todo el tiempo que dure su utilización, así como en su traslado y en los tiempos de espera, permitiendo la presencia de un representante de alguna Asociación Protectora de Animales legalmente constituida y registrada como observador de las actividades que se realicen.
 
 Los sitios que se dediquen a la exhibición de especies acuáticas deberán disponer de un tirante de agua suficiente para evitar el sobrecalentamiento del agua y además deberán aplicar las disposiciones dictadas por las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2015)</small>
+
+ARTICULO 26 BIS.- Queda prohibido en el Estado el uso de ejemplares de vida silvestre en circos.
+
+A quien o quienes transgredan lo establecido en el párrafo anterior, se aplicará el arresto a que se refieren los artículos 57, fracción III y 59 de la presente Ley, según corresponda.
 
 ### CAPITULO XIII. DE LOS ANIMALES MANIFIESTAMENTE PELIGROSOS
 
@@ -935,7 +941,7 @@ Recibida el acta de inspección por la autoridad ordenadora, se requerirá al in
 
 El tiempo para el desahogo de pruebas será de quince días. De ser el caso y cuando la naturaleza de las pruebas lo amerite, la Agencia Ambiental o los Ayuntamientos, según corresponda, podrán acordar la ampliación para el desahogo de las pruebas.
 
-Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo transcurrido el plazo a que se refiere el párrafo anterior sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones para que en un plazo tres (sic) días hábiles presente por escrito sus alegatos. Sin importar que el interesado haya hecho uso o no de su derecho de ofrecer pruebas, la autoridad deberá acordar lo conducente.
+Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo transcurrido el plazo a que se refiere el párrafo anterior sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones para que en un plazo (sic) tres días hábiles presente por escrito sus alegatos. Sin importar que el interesado haya hecho uso o no de su derecho de ofrecer pruebas, la autoridad deberá acordar lo conducente.
 
 Una vez oído el presunto infractor, recibidas y desahogadas las pruebas que ofreciere, en caso de que el interesado no haya hecho uso del derecho que le concede el párrafo anterior dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado.
 
@@ -1152,3 +1158,13 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor en el mismo plazo que establece el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General de Vida Silvestre, publicado el 9 de enero de 2015 en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado, en el ámbito de su respectiva competencia, deben realizar las modificaciones a los ordenamientos que correspondan dentro del plazo de 30 días naturales posteriores a la entrada en vigor de este Decreto, para dar cumplimiento a éste.
