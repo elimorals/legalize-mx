@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2014-12-17"
+last_updated: "2015-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1261,9 +1261,13 @@ II.- (DEROGADA, P.O. 12 DE MAYO DE 2004)
 
 III.- Los Consejos de Colaboración Vecinal.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 82.
 
-En cada Municipio podrá crearse una Comisión Consultiva de Desarrollo Urbano, para el estudio, asesoría y solución de los problemas que afecten a la comunidad. Asimismo, en el seno de la Comisión podrán integrarse los subcomités técnicos necesarios, conforme a las características de cada Municipio.
+En los Municipios con población mayor de cincuenta mil habitantes, deberá crearse una Comisión Consultiva de Desarrollo Urbano, para el estudio, asesoría y solución de los problemas que afecten a la comunidad. Asimismo, en el seno de la citada comisión podrán integrarse los subcomités técnicos necesarios, conforme a las características de cada Municipio.
+
+Los Municipios con población menor a la establecida en el párrafo anterior, podrán crear dicha Comisión en los mismos términos.
 
 ###### ARTICULO 83.
 
@@ -2739,6 +2743,8 @@ Las horas extras de trabajo se pagarán con un cien por ciento más del salario 
 
 ### CAPITULO IX. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 228.
 
 Son obligaciones del Ayuntamiento:
@@ -2881,21 +2887,25 @@ En el supuesto de que por causa justificada no se efectúe la notificación refe
 
 ###### ARTICULO 232.
 
-El sindicato es la asociación de trabajadores de base que laboran al servicio de un mismo Ayuntamiento, constituido para el estudio, mejoramiento y defensa de sus intereses comunes.
+El sindicato es la asociación de trabajadores que laboran al servicio de un mismo Ayuntamiento, constituido para el estudio, mejoramiento y defensa de sus intereses comunes.
 
-Los sindicatos tienen derecho a redactar sus estatutos y reglamentos, elegir libremente a sus representantes sindicales, a organizar su administración y actividades y a formular sus programas de acción.
+Los sindicatos tienen derecho a redactar sus estatutos y reglamentos, elegir libremente a sus representantes sindicales, a organizar su administración y actividades y a formular sus programas de acción. También tienen los derechos que otras normas y principios laborales les reconozcan.
 
 ###### ARTICULO 233.
 
-En cada Ayuntamiento sólo podrá haber un sindicato de trabajadores. En el caso de que concurran varios grupos de trabajadores que pretenden ese derecho, el Tribunal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+(DEROGADO, P.O. 26 DE MARZO DE 2015)
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 234.
 
-El trabajador de confianza no podrá formar parte de la organización sindical; si perteneciera a ésta por haber sido trabajador de base, quedarán en suspenso sus obligaciones y derechos para con el sindicato, mientras desempeña puesto de confianza, al concluir estas funciones podrá reintegrarse a su plaza de base.
+El trabajador de confianza no podrá formar parte de la organización sindical de los trabajadores de base; si perteneciera a ésta por haber sido trabajador de base, quedarán en suspenso sus obligaciones y derechos para con el sindicato, mientras desempeña puesto de confianza, al concluir estas funciones podrá reintegrarse a su plaza de base. Los trabajadores de confianza podrán formar sindicatos, en los términos de ley.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 235.
 
-Para que se constituya un Sindicato se requiere que lo formen veinte trabajadores o más en servicio activo y que no exista dentro del Ayuntamiento otra agrupación sindical que cuente con mayor número de miembros.
+Para que se constituya un Sindicato se requiere que lo formen veinte trabajadores o más en servicio activo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2915,9 +2925,11 @@ IV.- Una lista de los miembros de que se componga el Sindicato, con expresión d
 
 Al recibir la solicitud de registro, el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios comprobará, por los medios que estime más prácticos y eficaces, la veracidad de los datos. Satisfechos los requisitos, en su caso, concederá el registro.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 237.
 
-El registro de un sindicato se cancelará por disolución del mismo o cuando se registre diversa agrupación sindical que fuere mayoritaria. La solicitud de cancelación podrá hacerse por persona autorizada y el Tribunal, en los casos de conflicto entre dos organizaciones que pretendan ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano.
+El registro de un sindicato se cancelará por disolución del mismo. La solicitud de cancelación podrá hacerse por persona autorizada y el Tribunal resolverá de plano.
 
 ###### ARTICULO 238.
 
@@ -2925,7 +2937,7 @@ Los trabajadores que por su conducta o falta de solidaridad fueren expulsados de
 
 ###### ARTICULO 239.
 
-Queda prohibido todo acto de reelección dentro de los sindicatos.
+(DEROGADO, P.O. 26 DE MARZO DE 2015)
 
 ###### ARTICULO 240.
 
@@ -5668,6 +5680,22 @@ Los Ayuntamientos expedirán la convocatoria a que hace alusión el artículo 33
 El Ayuntamiento que corresponda, mediante el voto de las dos terceras partes de los miembros presentes podrá declarar la disolución del Tribunal Municipal de Justicia Administrativa. Para tal efecto deberá establecer de manera clara fundando y motivando las causas por las cuales ha tomado esa determinación. Previo a la fecha de extinción del Tribunal Municipal de Justicia Administrativa deberán concluirse los asuntos en trámite.
 
 P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 2015.
+
+DECRETO LXII - 561 POR EL QUE SE REFORMAN LOS ARTÍCULOS 232, 234, 235, Y 237; SE DEROGAN LOS ARTÍCULOS 233 Y 239 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 2015.
+
+DECRETO NÚMERO LXII - 564 POR EL QUE SE REFORMA EL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
