@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-capacitacion-y-desarrollo-para-los-servidores-151
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-10"
-last_updated: "1999-08-10"
+last_updated: "2015-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE CAPACITACION Y DESARROLLO PARA LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE MEXICO
 
-REGLAMENTO DE CAPACITACION Y DESARROLLO PARA LOS SERVIDORES PUBLlCOS DEL PODER EJECUTIVO DEL ESTADO DE MEXICO
+REGLAMENTO DE CAPACITACIÓN Y DESARROLLO PARA LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON TRANSITORIO TERCERO DEL REGLAMENTO DE PROFESIONALIZACIÓN PARA LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 26 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 10 de agosto de 1999.
 
@@ -1130,3 +1132,17 @@ EL SECRETARIO DE ADMINISTRACION
 LIC. ERNESTO NEMER ALVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 26 DE MARZO DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de Capacitación y Desarrollo para los Servidores Públicos del Poder Ejecutivo del Estado de México, publicado en el periódico oficial "Gaceta del Gobierno" el 10 de agosto de 1999.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+QUINTO. En los casos no previstos por este Reglamento, se estará a lo que resuelva la Comisión Mixta de Capacitación y Desarrollo.
