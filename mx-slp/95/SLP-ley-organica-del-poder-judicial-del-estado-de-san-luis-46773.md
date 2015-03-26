@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2015-03-25"
+last_updated: "2015-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -201,7 +201,21 @@ V. Si el dictamen del Ejecutivo propone la ratificación del Magistrado, el Cong
 
 Los magistrados que sean ratificados en su encargo, gozarán de inamovilidad en términos de lo dispuesto en la Constitución Política del Estado, y sólo podrán ser removidos conforme a lo que establece la propia Constitución, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2015)</small>
+
+###### ARTICULO 9°.
+
+El haber por retiro a que se refiere el artículo 97 de la Constitución Política del Estado, consiste en un único pago equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que correspondan. Este pago se cubrirá con base en el último salario percibido, cuando el Magistrado:
+
+I. No haya sido ratificado en el cargo;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+
+II. El primero se retire del desempeño del cargo por haber cumplido quince años en el mismo, o bien, cualquiera de ellos haya cumplido setenta y tres años de edad, o
+
+III. Padezca incapacidad física o mental permanente para el desempeño de su cargo.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 9º.
 
@@ -1383,6 +1397,8 @@ El Secretariado Ejecutivo de Administración se auxiliará por el personal que a
 
 Los asuntos concernientes a la vigilancia y disciplina del Poder Judicial, estarán al cargo del Secretariado Ejecutivo de Vigilancia y Disciplina, del que dependerán la Contraloría y la Visitaduría Judicial.
 
++
+
 El Secretariado Ejecutivo de Vigilancia y Disciplina se auxiliará para su mejor desempeño, del personal que autorice el Consejo de la Judicatura, de acuerdo a su presupuesto.
 
 ###### ARTICULO 106.
@@ -1671,7 +1687,7 @@ La biblioteca estará al servicio de los funcionarios judiciales y del público 
 
 ###### ARTICULO 145.
 
-El Poder Judicial contará con una Gaceta que publicará por lo menos en forma trimestral- (sic) y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar y penal, y en materia de justicia para menores y, de ejecución de sentencias y medidas de seguridad, por las salas y el Pleno del Supremo Tribunal de Justicia- (sic) así como los trabajos, artículos jurídicos y ejecutorias de amparo que se estimen importantes.
+El Poder Judicial contará con una Gaceta que publicará por lo menos en forma trimestral- y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar y penal, y en materia de justicia para menores y, de ejecución de sentencias y medidas de seguridad, por las salas y el Pleno del Supremo Tribunal de Justicia- así como los trabajos, artículos jurídicos y ejecutorias de amparo que se estimen importantes.
 
 ###### ARTICULO 146.
 
@@ -2378,3 +2394,13 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los magistrados del Supremo Tribunal de Justicia del Estado de San Luis Potosí que se encuentran en funciones, y que hayan sido electos con anterioridad a la entrada en vigor de este Decreto, se regirán por la ley vigente en el momento de su elección. Los jueces que se encuentran en funciones al momento de la entrada en vigor del presente Decreto, podrán elegir entre los setenta o setenta y tres años como edad para su retiro.
+
+P.O. 26 DE MARZO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Lo establecido en la fracción II del artículo 17 del presente Decreto, entrará en vigor a los doce meses posteriores a la publicación del mismo.
+
+TERCERO. El Supremo Tribunal de Justicia del Estado instruirá las acciones necesarias al Consejo de la Judicatura para que, en aquellos casos en que se actualicen los supuestos materia del presente Decreto, tramite y pague el haber de retiro correspondiente.
+
+CUARTO. Se derogan todas aquellas disposiciones legales o reglamentarias que se opongan al presente Decreto.
