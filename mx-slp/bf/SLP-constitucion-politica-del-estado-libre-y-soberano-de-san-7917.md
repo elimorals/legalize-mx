@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2015-03-25"
+last_updated: "2015-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -295,57 +295,89 @@ El Estado de San Luis Potosí reconoce la vida humana como fundamento de todos l
 
 No es punible la muerte dada al producto de la concepción, cuando sea consecuencia de una acción culposa de la mujer; el embarazo sea resultado de una violación o de una inseminación indebida; o de no provocarse el aborto la mujer corra peligro de muerte.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2015)</small>
 
-## TÍTULO TERCERO. DE LOS ORGANISMOS DE DEFENSORÍA SOCIAL
+## TÍTULO TERCERO. DE LOS SISTEMAS DE PROTECCIÓN DE DERECHOS, Y EL MEDIO DE ATENCIÓN DE CONTROVERSIAS
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2015)</small>
 
-### CAPÍTULO I. De la Comisión Estatal de Derechos Humanos
+### CAPÍTULO I. De los Sistemas de Protección de Derechos
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 17.
 
-La Comisión Estatal de Derechos Humanos es un organismo público, de participación ciudadana y de servicio gratuito; dotado de plena autonomía presupuestal, técnica y de gestión; que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos.
+El Congreso del Estado expedirá las leyes a las que deban ajustarse los servidores públicos y las autoridades, para facilitar el acceso al ejercicio de los derechos de sus ciudadanos; esos ordenamientos deberán atender:
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
+I. El sistema de protección no jurisdiccional de derechos humanos. El que corresponde a la Comisión Estatal de Derechos Humanos, que es un organismo público, de participación ciudadana y de servicio gratuito; dotado de plena autonomía presupuestal, técnica y de gestión; que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos.
 
 La Comisión será la encargada de conocer de las peticiones, quejas y denuncias en contra de los actos y omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, estatal o municipal, que violen los derechos humanos reconocidos por el orden jurídico mexicano e internacional; pero no será competente para conocer de asuntos electorales, y jurisdiccionales. Sus recomendaciones serán públicas, autónomas y no vinculatorias; y podrá presentar denuncias y quejas ante las autoridades respectivas.
 
-La ley determinará la organización, integración y atribuciones de la Comisión.
+La ley determinará la organización, integración y atribuciones de la Comisión;
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE OCTUBRE DE 2007)</small>
+II. El sistema penal acusatorio y oral. En el Estado de San Luis Potosí se garantiza la tutela integral en el acceso a la justicia y la protección a las víctimas, ofendidos, testigos y, en general, de todos los sujetos que intervengan en el proceso.
 
-### CAPÍTULO I BIS. De la Comisión Estatal de Garantía de Acceso a la Información Pública
+Para cumplimentar estos fines y derechos en beneficio de los habitantes del Estado, el proceso penal será acusatorio y oral, con la misma configuración de principios, reglas, garantías y derechos a favor del imputado, la víctima o el ofendido, asumidos por la Constitución Política de los Estados Unidos Mexicanos y que en lo concerniente el Estado adopta como propios.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2007)</small>
+La ley establecerá las bases para fijar el lugar y establecimientos donde los sentenciados deban compurgar la pena de prisión impuesta por los jueces y tribunales.
 
-ARTÍCULO 17 BIS.- En el Estado de San Luis Potosí es prerrogativa de todas las personas, conocer y acceder a la información pública, con las excepciones previstas en esta Constitución y en la ley de la materia.
+Los jueces de ejecución de sentencias controlarán y vigilarán la legalidad y respeto a los derechos del sentenciado.
 
-Del mismo modo, toda persona tiene el derecho a acceder a la información sobre sí misma o sus bienes, asentada en archivos, bases de datos y registros públicos o privados de quienes tengan el carácter de entes obligados conforme a la ley, así como a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley. En cualquier caso, la ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
+Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño, y establecerán los casos en los que se requerirá supervisión judicial, y
 
-La Comisión Estatal de Garantía de Acceso a la Información Pública, es un organismo público con autonomía presupuestaria, operativa, de gestión y de decisión; encargado de garantizar el ejercicio de las prerrogativas asentadas en este precepto; y vigilar la aplicación y cumplimiento de la ley de la materia, resolviendo sobre actos u omisiones de naturaleza administrativa que incumplan el derecho de acceso a la información pública, por parte de los Poderes del Estado, los municipios y sus entidades, concesionarios de bienes y servicios, organismos constitucionales autónomos, partidos políticos y demás entes obligados; imponer a los servidores públicos sanciones pecuniarias por infracciones a la ley, y por incumplimiento de las resoluciones que dicte en la materia; y promover ante las autoridades competentes, las responsabilidades y las sanciones administrativas que correspondan; así como presentar denuncias ante los órganos de autoridad que correspondan.
+III. El sistema para garantizar el acceso a la información pública. En el Estado de San Luis Potosí es prerrogativa de todas las personas, conocer y acceder a la información pública, con las excepciones previstas en esta Constitución, y en la ley de la materia.
 
-Dependiente de la Comisión habrá un Sistema Estatal de Documentación y Archivos, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información, en posesión de las entidades públicas.
+Toda persona tiene el derecho a acceder a la información sobre sí misma o sus bienes, asentada en archivos, bases de datos y registros públicos o privados de quienes tengan el carácter de entes obligados conforme a la ley, así como a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley. En cualquier caso, la ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
 
-La Comisión estará integrada por tres comisionados numerarios, y tres supernumerarios, que serán electos por cuando menos el voto de las dos terceras partes de los miembros del Congreso del Estado, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
+El sistema de protección especializada tendrá asiento en la Comisión Estatal de Garantía de Acceso a la Información Pública, CEGAIP, que es un organismo público con autonomía presupuestaria, operativa, de gestión y de decisión; encargado de:
 
-Los comisionados durarán en su cargo cuatro años, y, en ese tiempo, no podrán ser removidos sino por las causas y a través de los procedimientos previstos por el Título Décimo Segundo de esta Constitución.
+a) Garantizar el ejercicio de las prerrogativas asentadas en este precepto.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+b) Vigilar la aplicación y cumplimiento de la ley de la materia, resolviendo sobre actos u omisiones de naturaleza administrativa que incumplan el derecho de acceso a la información pública, por parte de los Poderes del Estado, los municipios y sus entidades, concesionarios de bienes y servicios, organismos constitucionales autónomos, partidos políticos y demás entes obligados.
 
-### CAPÍTULO II. De la Defensoría Social
+c) Imponer a los servidores públicos sanciones pecuniarias por infracciones a la ley, y por incumplimiento de las resoluciones que dicte en la materia.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+d) Promover ante las autoridades competentes, las responsabilidades y las sanciones administrativas que correspondan.
+
+e) Presentar denuncias ante los órganos de autoridad que correspondan.
+
+Dependiente de la CEGAIP habrá un sistema estatal de documentación y archivos, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información, en posesión de las entidades públicas.
+
+La CEGAIP estará integrada por tres comisionados numerarios, y tres supernumerarios, que serán electos por cuando menos el voto de las dos terceras partes de los miembros del Congreso del Estado, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
+
+Los comisionados durarán en su cargo cuatro años y, en ese tiempo, no podrán ser removidos sino por las causas y a través de los procedimientos previstos por el Titulo Décimo Segundo de esta Constitución.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MARZO DE 2015)</small>
+
+### CAPÍTULO I BIS. ARTÍCULO 17 BIS.- (DEROGADO, P.O. 26 DE MARZO DE 2015)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2015)</small>
+
+### CAPÍTULO II. MEDIO DE ATENCIÓN DE CONTROVERSIAS
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 18.
 
-Los habitantes del Estado tendrán derecho a una adecuada defensa ante cualquier autoridad y también a ser asesorados en toda controversia jurisdiccional. Para tal efecto, la ley organizará la defensoría social que se encargará de defender, patrocinar y asesorar en forma gratuita a aquellas personas que carezcan de medios económicos para contratar los servicios de un abogado particular.
+Toda persona tendrá derecho a la adecuada defensa, representación y asesoramiento de sus derechos ante las autoridades estatales en toda controversia jurisdiccional.
+
+La ley organizará la Defensoría Pública, que se encargará de representar, patrocinar, asesorar y defender en forma gratuita a las personas que carezcan de medios económicos para contratar servicios de un abogado particular.
+
+El servicio que brinde la Defensoría Pública se prestará bajo los principios de probidad, honradez, profesionalismo, calidad, y de manera obligatoria en términos que establezca la ley.
+
+El Estado asegurará las condiciones para un servicio profesional de carrera para los defensores públicos.
+
+En materia penal, la Defensoría Pública proporcionará una defensa técnica y de calidad a los indiciados, imputados, acusados, y sentenciados, que no tengan defensor.
+
+Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público y, a su vez, éstas no serán inferiores a las de aquéllos.
+
+La Defensoría tendrá autonomía técnica y de gestión.
+
+Las autoridades estatales y municipales están obligadas a colaborar con las funciones de la Defensoría Pública del Estado.
 
 El Estado prestará la asesoría en materia laboral, a través de la Procuraduría de la Defensa del Trabajo, de conformidad con lo establecido en la ley de la materia.
 
-Tratándose de personas indígenas, los defensores sociales deberán hablar y escribir, además del idioma español, la lengua del grupo étnico al que las mismas pertenezcan.
+Tratándose de personas indígenas que no hablen o comprendan suficientemente el español, la Defensoría Pública asignará un defensor bilingüe y garantizará que en todo el juicio o procedimiento se cumpla con la garantía de la asistencia de un traductor o intérprete, tomando en cuenta sus costumbres y especificidades culturales del pueblo indígena y comunidad indígena a la que pertenezcan, para proporcionar una defensa técnica y de calidad sustentada en la legislación estatal, federal y los tratados internacionales.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1293,31 +1325,49 @@ XIX.- Celebrar y ejecutar actos de dominio sobre bienes muebles propiedad del Es
 
 XX.- Con la autorización del Congreso, concertar empréstitos y avalar los que soliciten los Ayuntamientos u otros organismos públicos;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
 
-XXI. Organizar el sistema penitenciario en el Estado, siempre sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte, y las actividades culturales y recreativas, para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir. Y determinar el lugar y establecimiento donde los sentenciados deban compurgar las penas de prisión impuestas por los tribunales;
+XXI.- Organizar el sistema penitenciario en el Estado, siempre sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte y las actividades culturales y recreativas, para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
 
-XXII. Celebrar convenios de carácter general con la Federación, para que los sentenciados por el delito del orden común cumplan su condena en establecimientos dependientes del Poder Ejecutivo Federal, o del fuero federal en centros de reinserción estatales;
+XXII.- Determinar el lugar y establecimiento donde los sentenciados deban compurgar las penas de prisión impuestas por los jueces o tribunales;
 
-XXIII.- Asistir a las reuniones de los Ayuntamientos, a solicitud de los mismos;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
 
-XXIV.- Determinar, en casos urgentes e imprevistos, las medidas que juzgue necesarias para preservar el orden y la seguridad pública en el Estado, dando cuenta inmediata al Congreso;
+XXIII.- Celebrar convenios de carácter general con la Federación, para que los sentenciados por delitos del orden común cumplan su condena en establecimientos dependientes del Poder Ejecutivo Federal o del fuero federal en centros estatales;
 
-XXV.- En los casos de riesgo, siniestro o desastre graves, aplicar las medidas que fueren necesarias para hacer frente a estas contingencias, las que serán por tiempo limitado, de carácter general y únicamente en las zonas afectadas.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
+
+XXIV.- Asistir a las reuniones de los ayuntamientos, a solicitud de los mismos;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
+
+XXV.- Determinar, en casos urgentes e imprevistos, las medidas que juzgue necesarias para preservar el orden y la seguridad pública en el Estado, dando cuenta inmediata al Congreso;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
+
+XXVI.- En los casos de riesgo, siniestro o desastre graves, aplicar las medidas que fueren necesarias para hacer frente a estas contingencias, las que serán por tiempo limitado, de carácter general, y únicamente en las zonas afectadas.
 
 En estos casos, también podrá disponer de los recursos públicos que fueren necesarios, sin autorización previa del Congreso del Estado, dando cuenta de inmediato al mismo.
 
 Asimismo, podrá requerir la cooperación y colaboración de los habitantes del Estado;
 
-XXVI.- Otorgar y revocar las concesiones y comisiones que le competan;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
 
-XXVII.- Someter a la consulta de los ciudadanos del Estado los actos que determine, a través del referéndum y plebiscito;
+XXVII.- Otorgar y revocar las concesiones y comisiones que le competan;
 
-XXVIII.- Representar al Estado en sus relaciones con el Gobierno Federal, con los gobiernos de otros Estados, con los ayuntamientos y con otros organismos y entidades de derecho público y privado; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
 
-XXIX.- Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen.
+XXVIII.- Someter a la consulta de los ciudadanos del Estado los actos que determine, a través del referéndum, y plebiscito;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
+
+XXIX.- Representar al Estado en sus relaciones con el Gobierno Federal, con los gobiernos de otros Estados, con los ayuntamientos, y con otros organismos y entidades de derecho público y privado, y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2015)</small>
+
+XXX.- Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1367,29 +1417,37 @@ Los titulares de las dependencias del Ejecutivo serán responsables de todas las
 
 ### CAPÍTULO IV. Del Ministerio Público
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 85.
 
-La ley organizará el Ministerio Público del Estado, cuyos funcionarios serán nombrados y separados de su cargo libremente por el titular del Ejecutivo del Estado.
+La ley organizará al Ministerio Público del Estado, cuyos funcionarios con responsabilidad de mando serán nombrados y separados libremente por el titular del Ejecutivo del Estado, reservándose la designación, adscripción, ratificación y remoción de los demás funcionarios a las tareas de un Consejo del Ministerio Público del Estado, que cuidará el servicio profesional de carrera.
 
-El Ministerio Público estará presidido por un Procurador General de Justicia, quien deberá llenar los requisitos exigidos para ser Magistrado del Supremo Tribunal de Justicia. Será designado por el Gobernador, con la ratificación de la mayoría de los miembros del Congreso del Estado y podrá ser removido libremente por aquél.
+Además de las obligaciones, deberes y principios que vinculan a los funcionarios del Ministerio Público en el sistema penal acusatorio, para asegurar el debido proceso en el Estado de San Luis Potosí, éstos se regirán por igual con los principios de mínima intervención, oportunidad, presunción de inocencia y proporcionalidad.
 
-Los requisitos para ser Subprocurador de Justicia, Agente del Ministerio Público o Agente de la Policía Ministerial serán establecidos por la ley orgánica respectiva. No podrán desempeñar dichos cargos quienes hayan sido cesados en el desempeño de iguales o similares empleos en ésta o cualquier otra entidad federativa o en la administración pública federal.
+El Ministerio Público estará presidido por un Procurador General de Justicia, quien deberá llenar los requisitos exigidos para ser Magistrado del Supremo Tribunal de Justicia. Será designado por el Gobernador, con la ratificación de la mayoría de los miembros del Congreso del Estado, y podrá ser removido libremente por aquél.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+Los requisitos para ser subprocurador de Justicia, agente del Ministerio Público, o agente de la Policía Ministerial, serán establecidos por la ley orgánica respectiva. No podrán desempeñar dichos cargos quienes hayan sido cesados en el desempeño de iguales o similares empleos en ésta o cualquier otra Entidad federativa, o en la administración pública federal.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 86.
 
-Estará a cargo del Ministerio Público y de la Policía Ministerial a sus órdenes, la averiguación, investigación y persecución ante los Tribunales de todos los delitos del orden común y, por lo mismo, a él corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; vigilar que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta, expedita, imparcial y completa; pedir la aplicación de las penas, la reparación de los daños causados a las víctimas de los delitos e intervenir en todos los negocios que la ley determine.
+Corresponde al Ministerio Público y a las policías la investigación de los delitos; y al primero, cuando proceda, el ejercicio de la acción penal.
 
-El Procurador General de Justicia intervendrá personalmente en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando se vea afectado el interés del Estado o de alguno de sus Municipios.
+Las policías actuarán bajo la conducción y mando del Ministerio Público en la investigación de los delitos, y tendrán las atribuciones y estructura que la ley establezca.
 
-El Procurador intervendrá en todos los negocios en que el Estado fuera parte o en los que se vea afectado el interés público. En los demás casos en que deba intervenir el Ministerio Público, podrá hacerlo por sí o por medio de sus agentes.
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley, la que señalará los casos en que serán objeto de revisión judicial.
 
-El Procurador y sus agentes se someterán estrictamente a las disposiciones de la ley y serán responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+Los particulares, en su caso, podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la ley.
 
-En la persecución de los delitos y en las indagatorias que practique el Ministerio Público y la Policía a su mando, los demás cuerpos de seguridad pública del Estado y sus Municipios deberán prestarles su colaboración.
+El Procurador General de Justicia intervendrá personalmente en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando se vea afectado el interés del Estado o de alguno de sus municipios.
+
+El Procurador General de Justicia intervendrá en todos los negocios en que el Estado fuera parte, o en los que se vea afectado el interés público. En los demás casos en que deba intervenir el Ministerio Público, podrá hacerlo por sí o por medio de sus agentes.
+
+El Procurador General de Justicia y sus agentes se someterán estrictamente a las disposiciones de la ley; y serán responsables de toda falta, omisión, o violación en que incurran con motivo de sus funciones.
+
+En la investigación de los delitos que practique el Ministerio Público y la policía a su mando, los demás cuerpos de seguridad pública del Estado y sus municipios deberán prestarle su colaboración.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1415,11 +1473,21 @@ A solicitud de los Ayuntamientos y sus entidades, el Consejero Jurídico prestar
 
 Para la preservación de la tranquilidad y el orden público se organizará la fuerza competente de seguridad pública, en los términos y con las corporaciones que establezcan las leyes relativas.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2015)</small>
+
+La seguridad pública es una función a cargo del Estado y los municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva; así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías y los derechos humanos reconocidos en esta Constitución.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2015)</small>
+
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional; deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública, y conformarán el Sistema Nacional de Seguridad Pública en los términos de la Ley General de Sistema Nacional de Seguridad Pública, así como de la correspondiente ley local en la materia.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 89.
 
-El personal de las instituciones de seguridad pública del Estado y los municipios, por la naturaleza de su función y atendiendo a lo establecido en lo conducente por el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, tendrán el carácter de agentes depositarios de autoridad, y su relación con la administración pública será de carácter administrativo y se regirá por sus propias leyes.
+El personal de las instituciones de seguridad pública del Estado y los municipios, por la naturaleza de su función y atendiendo a lo establecido en lo conducente por el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, tendrá el carácter de agente depositario de autoridad y su relación con la administración pública será de carácter administrativo y se regirá por sus propias leyes.
+
+Los agentes del Ministerio Público, los peritos, y el personal de las instituciones policiales del Estado y los municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado y los municipios sólo estarán obligados a pagar la indemnización y demás prestaciones a que tenga derecho sin que, en ningún caso, proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1591,9 +1659,9 @@ Los nombramientos de los Magistrados supernumerarios serán por seis años y pod
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO III. De los Jueces de Primera Instancia y Jueces Menores
+### CAPÍTULO III. De los Jueces y Tribunales
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1625,23 +1693,23 @@ Los nombramientos de los magistrados deberán recaer preferentemente entre aquel
 
 El cargo de Magistrado no es renunciable, sino por causa justificada calificada por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 101.
 
-En cada Distrito Judicial, que comprenderá los municipios que designe la Ley Orgánica del Poder Judicial, habrá uno o más Jueces de Primera Instancia, los que conocerán de los negocios judiciales que les competan. La ley establecerá la forma de cubrir sus faltas temporales.
+En cada Distrito o Región Judicial, que comprenderán los municipios que establezca la Ley Orgánica del Poder Judicial, habrá los jueces y tribunales que determine el Consejo de la Judicatura, los que conocerán de los negocios judiciales que les competan. La ley establecerá la forma de cubrir sus faltas temporales.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 102.
 
-Los jueces de primera instancia serán nombrados, removidos, ratificados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos que establezca la ley para la carrera judicial. Durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+Los jueces serán nombrados, removidos, ratificados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos que establezca la ley para la carrera judicial. Durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
 
 El cargo de juez no podrá ejercerse después de los setenta y tres años de edad. Al término de su función tendrá derecho al haber de retiro que marque la ley.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2015)</small>
 
 ### CAPÍTULO IV. De los Jueces Auxiliares
 
@@ -1649,13 +1717,21 @@ El cargo de juez no podrá ejercerse después de los setenta y tres años de eda
 
 ###### ARTÍCULO 103.
 
-Para ser Juez de Primera Instancia se requiere:
+Para ser Juez se requiere:
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 I.- Ser ciudadano potosino en pleno ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 II.- Tener cuando menos veintiocho años de edad al día de su designación;
 
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 III.- Tener, al día de su nombramiento, título profesional de licenciado en derecho con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo; y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
@@ -2946,3 +3022,13 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los magistrados del Supremo Tribunal de Justicia del Estado de San Luis Potosí que se encuentran en funciones, y que hayan sido electos con anterioridad a la entrada en vigor de este Decreto, se regirán por la ley vigente en el momento de su elección. Los jueces que se encuentran en funciones al momento de la entrada en vigor del presente Decreto, podrán elegir entre los setenta o setenta y tres años como edad para su retiro.
+
+P.O. 26 DE MARZO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Lo establecido en la fracción II del artículo 17 del presente Decreto, entrará en vigor a los doce meses posteriores a la publicación del mismo.
+
+TERCERO. El Supremo Tribunal de Justicia del Estado instruirá las acciones necesarias al Consejo de la Judicatura para que, en aquellos casos en que se actualicen los supuestos materia del presente Decreto, tramite y pague el haber de retiro correspondiente.
+
+CUARTO. Se derogan todas aquellas disposiciones legales o reglamentarias que se opongan al presente Decreto.
