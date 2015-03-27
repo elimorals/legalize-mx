@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-impulso-a-la-eficiencia-energetica-para-el-estado-de-882
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-15"
-last_updated: "2012-06-15"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE IMPULSO A LA EFICIENCIA ENERGÉTICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 15 de junio de 2012.
 
@@ -99,6 +99,10 @@ VI. Establecer una estrategia para la modernización del transporte colectivo de
 
 VII. Formular una estrategia para la sustitución de lámparas incandescentes por lámparas fluorescentes ahorradoras de energía eléctrica.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
+
+VIII.- Promover una estrategia para implementar técnicas de ecoeficiencia de la planta industrial, para la reducción en la emisión de gases, vapores, polvos y toda sustancia que genere contaminantes, que afecten la calidad del aire, debiendo sujetarse a sistemas, mecanismos y procedimientos con metas indicativas para cada año en relación al tipo de industria.
+
 ###### Artículo 8.
 
 La Comisión elaborará el Programa en los términos de la Ley de Planeación para el Estado de Baja California.
@@ -117,7 +121,7 @@ El Programa se revisará por la Comisión con la periodicidad que se determine e
 
 La Comisión tendrá las facultades siguientes:
 
-l. Fomentar programas que impulsen el uso óptimo de la energía;
+I. Fomentar programas que impulsen el uso óptimo de la energía;
 
 II. Proponer a las instancias federales correspondientes la creación o revisión de las Normas Oficiales Mexicanas a fin de propiciar la eficiencia energética;
 
@@ -147,7 +151,7 @@ XII. Elaborar su Plan de Trabajo.
 
 El Sistema Estatal de Información sobre Eficiencia Energética tiene por objeto registrar, organizar, actualizar y difundir la información sobre los siguientes temas:
 
-l. El consumo de energía en los principales usos finales de la misma, en los sectores y subsectores que la requieren y en las distintas zonas o áreas de aplicación en el Estado;
+I. El consumo de energía en los principales usos finales de la misma, en los sectores y subsectores que la requieren y en las distintas zonas o áreas de aplicación en el Estado;
 
 II. Los factores que impulsan los usos finales referidos en la fracción anterior;
 
@@ -159,7 +163,7 @@ IV. Los indicadores de eficiencia energética de otras regiones del país o esta
 
 Para la integración y actualización del Sistema, las dependencias y entidades del Gobierno del Estado y de los Gobiernos Municipales, deberán proporcionar a la Comisión, la siguiente información sobre la utilización energética obtenida en el año inmediato anterior:
 
-l. La producción, exportación, importación y consumo de energía, por tipo energético;
+I. La producción, exportación, importación y consumo de energía, por tipo energético;
 
 II. Eficiencia energética en el consumo;
 
@@ -204,3 +208,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
