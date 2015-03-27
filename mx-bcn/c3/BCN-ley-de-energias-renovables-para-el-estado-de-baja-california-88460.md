@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-energias-renovables-para-el-estado-de-baja-california-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-22"
-last_updated: "2012-06-22"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 LEY DE ENERGÍAS RENOVABLES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de Junio de 2012.
 
-JOSÉ GUADALUPE OSUNA MILLÁN GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLlCACION, EL DECRETO No. 188, CUYO TEXTO ES EL SIGUIENTE:
+JOSÉ GUADALUPE OSUNA MILLÁN GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACION, EL DECRETO No. 188, CUYO TEXTO ES EL SIGUIENTE:
 
 LA H. XX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, EXPIDE EL SIGUIENTE:
 
@@ -53,7 +53,7 @@ II. Fuentes Renovables de Energía. Aquellas reguladas por la Ley para el Aprove
 
 III. Programa. El Programa Estatal de Energías Renovables y Sustentabilidad Energética; y
 
-IV. Sustentabilidad energética. Uso óptimo de la energía en todos los procesos y actividades para su explotación, producción, transformación, distribución y consumo, incluyendo la eficiencia energética; (sic)
+IV. Sustentabilidad energética. Uso óptimo de la energía en todos los procesos y actividades para su explotación, producción, transformación, distribución y consumo, incluyendo la eficiencia energética;
 
 ###### Artículo 3.
 
@@ -73,7 +73,7 @@ II.- Los Gobiernos Municipales;
 
 III.- Las Secretarías y dependencias del Estado previstas por ésta Ley, en el ámbito de las competencias establecidas.
 
-IV.- La Comisión Estatal de Energía; (sic)
+IV.- La Comisión Estatal de Energía;
 
 ###### Artículo 5.
 
@@ -137,7 +137,9 @@ Corresponde a la Secretaría de Desarrollo Económico del Estado, llevar a cabo 
 
 I. Elaborar programas de impulso al desarrollo de los sectores productivos, relacionados con la sustentabilidad energética y la aplicación de fuentes de energía renovables;
 
-II. Fomentar proyectos encaminados a la aplicación y aprovechamiento de las fuentes de energía renovables, en los sectores productivos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+II. Fomentar proyectos encaminados a la aplicación y aprovechamiento de las fuentes de energía renovables, en los sectores productivos; impulsando prioritariamente la estrategia para implementar técnicas de ecoeficiencia de la planta industrial;
 
 III. Elaborar un catálogo con las principales empresas relacionadas con el mercado de las fuentes de energía renovables de energía y la sustentabilidad energética, con el propósito de promover la oferta de productos y servicios en esta materia; y
 
@@ -165,7 +167,13 @@ II. Diseñar programas para el aprovechamiento la utilización de las fuentes re
 
 III. Cuantificar la mitigación de Gases de Efecto Invernadero en el Estado mediante la aplicación de las metodologías emitidas por la Convención Marco de las Naciones Unidas Sobre el Cambio Climático; y
 
-IV. Las demás que sean necesarias para el cumplimiento del objeto de la presente Ley.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+IV. Impulsar y vigilar el cumplimiento de la estrategia para implementar técnicas (sic) ecoeficiencia de la planta industrial, para la reducción en la emisión de gases, vapores, polvos y toda sustancia que genere contaminantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2015)</small>
+
+V. Las demás que sean necesarias para el cumplimiento del objeto de la presente Ley.
 
 ###### Artículo 12.
 
@@ -334,3 +342,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
