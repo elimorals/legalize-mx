@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2013-07-19"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -109,7 +109,7 @@ XVIII.- Coadyuvar con el Ministerio Público de la Federación y con el de las d
 
 XIX.- Certificar copias sobre constancias de actuaciones o registros que obren en su poder en los casos que permita la Ley;
 
-XX.- Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley de Seguridad Pública del Estado y las disposiciones respectivas; y (sic)
+XX.- Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley de Seguridad Pública del Estado y las disposiciones respectivas; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -183,17 +183,23 @@ XXXI.- Recibir del Ministerio Público de la Federación o de quien para tal efe
 
 XXXII.- Preparar y ejercer la acción de extinción de dominio, así como ejercer las atribuciones que le correspondan en el procedimiento respectivo, de conformidad con la ley de la materia, y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 227 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-XXXIII.- Ejercer las acciones que las disposiciones normativas en materia de extinción de dominio de bienes prevean a favor o en beneficio de las víctimas y ofendidos, y
+XXXIII.- Ejercer las acciones que las disposiciones normativas en materia de extinción de dominio de bienes prevean a favor o en beneficio de las víctimas y ofendidos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 227 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-XXXIV.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
+XXXIV.- En los casos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, asistir gratuitamente a las víctimas u ofendidos a fin de facilitar la promoción, orientación y posibilidad efectiva de reclamar sus derechos, así como una defensa jurídica para obtener la restitución o reparación en el goce de los mismos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 227 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2015)</small>
+
+XXXV.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -828,3 +834,13 @@ P.O. 8 DE MARZO DE 2013.
 P.O. 19 DE JULIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo establecido en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal y demás disposiciones que resulten aplicables.
+
+SEGUNDO.- De conformidad con lo que establecen los artículos segundo transitorio de la reforma a la fracción XXI del artículo 73 de la Constitución Federal publicada en el Diario Oficial de la Federación de fecha 4 de mayo de 2009 y segundo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, los procedimientos penales iniciados antes del 28 de febrero del año 2011 se seguirán tramitando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto a la ejecución de las penas correspondientes. Las sentencias dictadas bajo las citadas disposiciones no se verán afectadas.
+
+TERCERO.- En virtud de lo dispuesto por los artículos 22 y Séptimo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, el Consejo Estatal de Seguridad Pública y los Municipios del Estado, conforme a los acuerdos que se generen en el marco del Sistema Nacional de Seguridad Pública, deberán elaborar en un plazo de seis meses, el programa estatal y municipal, respectivamente, para prevenir, perseguir y sancionar las conductas previstas en la citada Ley, a efecto de remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana.
+
+La elaboración de la propuesta del programa estatal estará a cargo de la Procuraduría General de Justicia del Estado, quien deberá coordinar los trabajos para su elaboración con las dependencias e instancias correspondientes, previo a su remisión al Consejo Estatal de Seguridad Pública, para la aprobación correspondiente.
