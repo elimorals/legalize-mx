@@ -4,7 +4,7 @@ identifier: "VER-ley-de-prevencion-y-atencion-del-acoso-escolar-para-el-83622"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-01"
-last_updated: "2011-11-01"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE PREVENCION Y ATENCION DEL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE - ANTES LEY NUMERO 303 CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE-
 
-LEY NUMERO 303 CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 303 CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 1 de noviembre de 2011.
 
@@ -49,9 +49,13 @@ CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar en las instituciones educativas públicas y privadas del Estado, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana y la paz entre los educandos. Todo alumno tiene derecho a un ambiente escolar libre de acoso y violencia.
+La presente Ley es de orden público e interés social y tiene por objeto complementar la prevención y erradicación del acoso escolar en los centros educativos públicos y privados del Estado, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana y la paz entre los educandos.
+
+Todo alumno tiene derecho a un ambiente escolar libre de acoso y violencia.
 
 ###### Artículo 2.
 
@@ -76,6 +80,10 @@ VI. Promover la participación social en la instrumentación de políticas para 
 VII. Crear el Registro Estatal para el Control del Acoso Escolar; y
 
 VIII. Propiciar, en el ambiente escolar, el desarrollo de una cultura de protección y de ejercicio de los derechos humanos y, de manera particular, los principios de equidad y no discriminación, la dignidad humana y la paz.
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2015)</small>
+
+IX. Regular la creación y funcionamiento de los Centros de Mediación Escolar en las Instituciones Educativas del Estado.
 
 ###### Artículo 4.
 
@@ -116,6 +124,10 @@ XI. Personal capacitado: El que haya sido capacitado por la Secretaría o aquel 
 XII. Registro Estatal para el Control del Acoso Escolar: La compilación detallada de la incidencia del acoso escolar en el Estado, que realizará la Secretaría; y
 
 XIII. Secretaría: La Secretaría de Educación del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2015)</small>
+
+XIV. Centro de Mediación Escolar: El organismo que tiene por objeto la solución de los conflictos de acoso escolar que se originen en las instituciones educativas, mediante el acuerdo voluntario de las partes involucradas con la intervención de mediador capacitado.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES, DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -477,11 +489,69 @@ V. En todos los casos, el informe reservará los datos personales de los involuc
 
 Las escuelas deberán presentar un Informe Semestral a la Secretaría, con respecto a los incidentes de acoso y violencia escolar, a efecto de (sic) éste sea considerado en el Registro Estatal para el Control del Acoso Escolar.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 27 DE MARZO DE 2015)</small>
+
+### CAPÍTULO VII. DE LOS CENTROS DE MEDIACIÓN ESCOLAR
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 A. Las instituciones escolares, sean públicas o privadas, contarán con un Centro de Mediación Escolar para la resolución pacífica de hechos que constituyan acoso escolar.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 B. Los Centros de Mediación Escolar se integrarán con el Director o Directora de la Institución educativa, un representante de la Sociedad de Padres de Familia y un representante de los maestros, quienes deberán ser capacitados como mediadores por la Secretaría.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 C. Los Centros de Mediación Escolar deberán capacitarse anualmente o cuando así lo determine la Secretaría.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 D. El Director de la Institución Educativa, que fungirá como encargado del Centro de Mediación Escolar, tendrá las siguientes facultades y obligaciones:
+
+I. Designar entre los integrantes del Centro al mediador capacitado para la atención y solución de los casos de violencia y acoso escolar u otros conflictos que se presenten en el centro educativo, o en su caso, aplicar el plan de intervención para realizar las denuncias ante las autoridades que correspondan;
+
+II. Citar a las partes involucradas en el conflicto por sí o por quien designe;
+
+III. Recibir las denuncias de actos de violencia o de conflictos de cualquier índole entre educandos;
+
+IV. Validar los acuerdos a los que se haya arribado al finalizar las sesiones;
+
+V. Mantener permanentemente la capacitación correspondiente al Centro de Mediación; y
+
+VI. Llevar la estadística de los casos de acoso escolar, e informar trimestralmente al Registro Estatal para el Control de Acoso Escolar, para su compilación e informe anual a que se refiere la Ley.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 E. Los Centros de Mediación Escolar estarán obligados a guardar reserva sobre la información de que dispongan acerca de las circunstancias personales y familiares del alumno, que surgiere de los casos en los que intervengan.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 F. La Secretaría de Educación llevará un registro de las Instituciones que cuenten con Centros de Mediación Escolar.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 G. Serán nulos aquellos procedimientos iniciados en los que alguna de las partes demuestre la existencia de un acuerdo previo y su cumplimiento.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2015)</small>
+
+Artículo 42 H. Los procedimientos de Mediación Escolar deberán regirse por los siguientes principios:
+
+I Confidencialidad;
+
+II Equidad;
+
+III Respeto entre las partes;
+
+IV Respeto a las formas culturales de las partes;
+
+V Respeto de las tradiciones locales según el caso; y
+
+VI Voluntariedad.
 
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN SOCIAL Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO I. DE LAS SANCIONES PARA LOS AUTORES Y CÓMPLICES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 43.
 
@@ -491,7 +561,7 @@ La Secretaría garantizará el libre, pleno y permanente acceso a la informació
 
 ## TÍTULO CUARTO. DE LA VIGILANCIA Y SANCIONES
 
-### CAPÍTULO II. DE LAS SANCIONES PARA EL PERSONAL ESCOLAR
+### CAPÍTULO I. DE LAS SANCIONES PARA LOS AUTORES Y CÓMPLICES
 
 ###### Artículo 44.
 
@@ -513,7 +583,7 @@ Los directores escolares o su designado serán los responsables de aplicar, prev
 
 Cuando la gravedad de la conducta de acoso escolar tenga consecuencias penales se procederá conforme al Plan de Intervención, dando parte a la autoridad competente.
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LAS SANCIONES PARA EL PERSONAL ESCOLAR
 
 ###### Artículo 47.
 
@@ -546,6 +616,8 @@ II. Suspensión en el ejercicio de sus labores docentes o administrativas, hasta
 III. Inhabilitación para desempeñarse en cualquier cargo del personal escolar por un año o más, o en forma definitiva.
 
 La Secretaría podrá apercibir de manera privada a la institución educativa que incumpla con las obligaciones de esta Ley, amonestarla públicamente cuando se reincida en el incumplimiento o proceder a su clausura cuando las dos sanciones anteriores hayan sido insuficientes para subsanar el incumplimiento.
+
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 49.
 
@@ -584,3 +656,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE MARZO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se establece un plazo de tres meses a partir del día siguiente de la entrada en vigor del presente Decreto, para la creación de los Centros de Mediación Escolar, en las Instituciones Educativas del Estado.
