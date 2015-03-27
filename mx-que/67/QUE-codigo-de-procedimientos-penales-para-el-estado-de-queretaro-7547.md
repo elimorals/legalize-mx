@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2014-03-29"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, DECLARA QUE EN LA LEGISLACIÓN LOCAL HA QUEDADO INCORPORADO EL SISTEMA PROCESAL PENAL ACUSATORIO Y DECLARA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL 02 DE JUNIO DE 2014; NO OBSTANTE, SEGUIRÁ RIGIENDO EN LO CONDUCENTE, CONFORME A LA GRADUALIDAD ESTABLECIDA EN EL ARTÍCULO TERCERO DE ESTE DECRETO, RESPECTO DE LOS PROCEDIMIENTOS INICIADOS DURANTE SU VIGENCIA Y HASTA EN TANTO QUEDEN CONCLUIDOS, DEBIENDO OBSERVARSE PARA ELLOS LAS DISPOSICIONES PROCESALES VIGENTES AL MOMENTO DE LA COMISIÓN DE LOS HECHOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, DECLARA QUE EN LA LEGISLACIÓN LOCAL HA QUEDADO INCORPORADO EL SISTEMA PROCESAL PENAL ACUSATORIO Y DECLARA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2014 Y REFORMADO EN EL P.O. DE 27 MARZO DE 2015, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL 02 DE JUNIO DE 2014, NO OBSTANTE, SEGUIRÁ RIGIENDO EN LO CONDUCENTE, CONFORME A LA GRADUALIDAD ESTABLECIDA EN EL ARTÍCULO TERCERO DE ESTE DECRETO, RESPECTO DE LOS PROCEDIMIENTOS INICIADOS DURANTE SU VIGENCIA Y HASTA EN TANTO QUEDEN CONCLUIDOS, DEBIENDO OBSERVARSE PARA ELLOS LAS DISPOSICIONES PROCESALES VIGENTES AL MOMENTO DE LA COMISIÓN DE LOS HECHOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -3105,7 +3105,9 @@ a) El 02 de junio de 2014: en los Distritos Judiciales de San Juan del Río, que
 
 b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán, que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra, que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
 
-c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+
+c) El 1 de septiembre de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
 
 Artículo Segundo. La Quincuagésima Séptima Legislatura del Estado de Querétaro, observando lo mandatado por el Artículo Segundo Transitorio, párrafo segundo, de la Ley que reforma los artículos 2 y 24 de la Constitución Política del Estado de Querétaro, declara que el Sistema Procesal Penal Acusatorio previsto en la Constitución Política de los Estados Unidos Mexicanos, ha quedado incorporado en la Constitución Política del Estado de Querétaro y en la legislación local secundaria aplicable en la materia.
 
@@ -3117,7 +3119,9 @@ a) El 02 de junio de 2014: en los Distritos Judiciales de San Juan del Río, que
 
 b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán, que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra, que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
 
-c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+
+c) El 1 de septiembre de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
 
 ## TRANSITORIOS
 
@@ -3140,3 +3144,11 @@ LEY QUE ABROGA LA LEY DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERÉTARO.
 > <small>N. DE E. VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL P.O. DE 27 DE JULIO DE 2013.</small>
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE MARZO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. En seguimiento al proceso de implementación del Sistema Procesal Penal Acusatorio en el Estado, los días 14, 15 y 16 de abril de 2015, se desahogarán reuniones de trabajo en las que la Comisión para la Implementación de la Reforma Penal y la Modernización de la Justicia en el Estado de Querétaro (CEI), presentará ante las Comisiones de Administración y Procuración de Justicia y de Planeación y Presupuesto de la Quincuagésima Séptima Legislatura del Estado de Querétaro, los avances y proyecciones para el inicio de operación del mencionado Sistema en el Distrito Judicial de Querétaro. En las reuniones participarán con sus exposiciones, el día 14 el Procurador General de Justicia; el día 15 el Presidente del Tribunal Superior de Justicia; y el día 16 el Secretario de Planeación y Finanzas del Poder Ejecutivo, todos del Estado de Querétaro.
