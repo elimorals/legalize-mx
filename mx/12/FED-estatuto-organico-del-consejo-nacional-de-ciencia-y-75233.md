@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-75233"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-10"
-last_updated: "2014-09-02"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-05-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2015.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de junio de 2010.
 
@@ -1361,6 +1361,10 @@ Los Titulares de las Direcciones Adjuntas, Unidad de Asuntos Jurídicos, el Ofic
 
 Las ausencias del Titular del Organo Interno de Control, así como la de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, serán suplidas de conformidad con lo dispuesto en el Reglamento Interior de la SFP.
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2015)</small>
+
+En caso de ausencias definitivas, el Director General podrá designar encargados del despacho hasta por cuarenta y cinco días, a funcionarios de los dos niveles jerárquicos inferiores al suyo, debiéndose convocar a la brevedad al órgano de gobierno para resolver sobre el nombramiento respectivo.
+
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
@@ -1390,3 +1394,7 @@ D.O.F. 17 DE ENERO DE 2014.
 D.O.F. 2 DE SEPTIEMBRE DE 2014.
 
 UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MARZO DE 2015.
+
+ÚNICO.- La presente modificación al Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
