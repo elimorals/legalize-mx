@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2014-05-09"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1119,6 +1119,10 @@ VIII. De Contraloría; y
 
 IX. De Igualdad de Género.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
+
+X. De Medio Ambiente.
+
 ### Capítulo X. De la Desaparición de Ayuntamientos o Concejos Municipales
 
 Declaración de desaparición
@@ -1393,11 +1397,15 @@ I. El Presidente Municipal, quien lo presidirá;
 
 II. El titular del organismo municipal de planeación, quien será el secretario técnico;
 
-III. Representantes de la sociedad organizada que participen en las comisiones de trabajo, designados en los términos que señale el reglamento;
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
 
-IV. Los funcionarios municipales que acuerde el Ayuntamiento; y
+III. El presidente de la comisión anual de Medio Ambiente;
 
-V. Los funcionarios estatales que el Ayuntamiento invite a participar.
+IV. Representantes de la sociedad organizada que participen en las comisiones de trabajo, designados en los términos que señale el reglamento;
+
+V. Los funcionarios municipales que acuerde el Ayuntamiento; y
+
+VI. Los funcionarios estatales que el Ayuntamiento invite a participar.
 
 Cuando el Municipio forme parte de un área conurbada o zona metropolitana se invitará a un representante de la comisión respectiva.
 
@@ -1553,11 +1561,15 @@ VI. Desarrollo Social;
 
 VII. Seguridad Pública;
 
-VIII. Oficialía Mayor o la dependencia que realice funciones análogas a ésta;
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
 
-IX. Unidad de acceso a la información pública; y
+VIII. Medio Ambiente;
 
-X. Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+IX. Oficialía Mayor o la dependencia que realice funciones análogas a ésta;
+
+X. Unidad de acceso a la información pública; y
+
+XI. Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
 
 Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias señaladas en las fracciones IV a IX de este artículo; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
 
@@ -3388,3 +3400,13 @@ P.O. 9 DE MAYO DE 2014
 Artículo Primero. El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 Artículo Segundo. El último párrafo del artículo 140-1 entrará en vigencia a partir del uno de enero del año dos mil quince.
+
+P.O. 27 DE MARZO DE 2015.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los municipios del estado contarán con un período de 90 días para modificar sus reglamentos a fin de prever la creación de la Comisión anual de Medio Ambiente.
+
+Artículo Tercero. Los municipios del estado contarán con un período de 90 días para modificar su reglamento del Consejo de Planeación de Desarrollo Municipal para los efectos del presente Decreto.
+
+Artículo Cuarto. Los municipios del estado contarán con un período máximo de 8 meses, para emitir el acuerdo de creación de la dependencia de Medio Ambiente, así como contemplar la partida presupuestal para tal efecto.
