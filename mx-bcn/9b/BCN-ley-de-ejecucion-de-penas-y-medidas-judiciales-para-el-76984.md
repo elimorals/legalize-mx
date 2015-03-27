@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2013-10-25"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -330,6 +330,12 @@ Los Internos deberán vestir el uniforme reglamentario, de acuerdo a las disposi
 ###### ARTÍCULO 32.
 
 Los objetos de valor, ropas y otros bienes que el Interno posea a su ingreso o que adquiera posteriormente y que de conformidad al reglamento no pueden conservarse, serán entregados a la persona que el Interno designe o puestos en depósito de la Dirección, previo inventario que el Interno firmará, conservando copia del mismo. La obligación de la recepción estará a cargo del área de trabajo social, y la custodia a cargo de la administración del Centro.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+LOS INTERNOS POR LAS CONDUCTAS PREVISTAS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, SÓLO PODRÁN TENER LOS OBJETOS QUE LES SEAN ENTREGADOS POR CONDUCTO DE LAS AUTORIDADES ESTATALES COMPETENTES.
 
 ###### ARTÍCULO 33.
 
@@ -857,7 +863,7 @@ IV. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
 V. Revocar la suspensión condicional de la ejecución de la pena, los sustitutivos penales, la libertad preparatoria, la preliberación, remisión parcial de la pena y la modificación de las condiciones de aplicación de la pena;
 
-VI. Notificar a la Dirección de Ejecución, de todas las resoluciones en materia de ejecución y modificación de penas y medidas de judiciales (sic), y
+VI. Notificar a la Dirección de Ejecución, de todas las resoluciones en materia de ejecución y modificación de penas y medidas de (sic) judiciales, y
 
 VII. Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
 
@@ -1125,7 +1131,7 @@ III.- Que acredite tener un oficio, arte o profesión que le permita solventar s
 
 IV.- Que el Consejo Técnico lo recomiende para su reinserción;
 
-V.- Que haya pagado o garantizado la reparación del daño causado, cuando proceda; y (sic)
+V.- Que haya pagado o garantizado la reparación del daño causado, cuando proceda; y
 
 VI.- Que no haya sido Sentenciado por los delitos de secuestro, violación u homicidio doloso;
 
@@ -1193,6 +1199,12 @@ La remisión parcial de la pena consiste en el descuento de un día de prisión 
 
 Sólo contarán para la remisión parcial de la pena, las jornadas efectivamente laboradas y las actividades académicas realizadas bajo el régimen del tratamiento penitenciario, llevándose una estricta contabilidad de las mismas para notificar al Interno, al principio de cada año, el número de días remitidos por causa del trabajo. A los Internos que realicen labores no convencionales de apoyo así como en actividades deportivas, educativas o culturales, se les contabilizaran los días como trabajo para los mismos efectos.
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+TRATÁNDOSE DE LOS DELITOS DE SECUESTRO NO PROCEDERÁ ESTE BENEFICIO, SALVO QUE LA AUTORIDAD RESUELVA CONCEDERLO A LOS SENTENCIADOS QUE HAYAN COLABORADO PROPORCIONANDO DATOS FEHACIENTES O SUFICIENTES ELEMENTOS DE CONVICCIÓN PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE OTROS MIEMBROS DE LA DELINCUENCIA ORGANIZADA O DE BANDAS DE PERSONAS DEDICADAS A LA COMISIÓN DE DELITOS EN MATERIA DE SECUESTRO, ASÍ COMO PARA LA LOCALIZACIÓN Y LIBERACIÓN DE LAS VÍCTIMAS, SIEMPRE Y CUANDO SE REÚNAN LAS CONDICIONES ESTABLECIDAS EN LA LEY GENERAL DE LA MATERIA.
+
 ###### ARTÍCULO 154.
 
 El cómputo de los términos para el otorgamiento del beneficio de remisión parcial de la pena se realizará tomando en cuenta la pena privativa de libertad impuesta, sin perjuicio de que se haya dictado una nueva sentencia condenatoria.
@@ -1208,6 +1220,12 @@ El beneficio de la pre liberación consistirá en el traslado a centros de trata
 Este beneficio sólo se concederá a los Sentenciados que estén próximos a su liberación, dentro de los dos años anteriores, considerando la suma que resulte del tiempo compurgado y los días bonificados por las actividades laborales, educativas, deportivas o culturales desarrolladas en el Centro, que se contabilicen como día trabajo, considerando, entre otros elementos, el dictamen emitido por el Consejo Técnico, que reflejen la reinserción social del Sentenciado.
 
 Queda exceptuado el otorgamiento del presente beneficio, a los Sentenciados por los delitos de homicidio doloso, secuestro o violación.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+ARTÍCULO 156 BIS.- Tratándose de los delitos de secuestro no procederá el beneficio de la pre liberación, salvo que la autoridad resuelva concederlo a los sentenciados que hayan colaborado proporcionando datos fehacientes o suficientes elementos de convicción para la investigación y persecución de otros miembros de la delincuencia organizada o de bandas de personas dedicadas a la comisión de delitos en materia de secuestro, así como para la localización y liberación de las víctimas, siempre y cuando se reúnan las condiciones establecidas en la ley general de la materia.
 
 ###### ARTÍCULO 157.
 
@@ -1286,6 +1304,12 @@ Al cumplimiento de la pena o medida de seguridad u otorgamiento de cualquier ben
 Ningún funcionario público puede, sin causa justificada, aplazar, demorar u omitir el cumplimiento de lo dispuesto en el párrafo anterior, de hacerlo, incurrirá en responsabilidad.
 
 La libertad definitiva que se otorgue conforme a este artículo, será comunicada a la Dirección de Programas, para los fines de asistencia pos penitenciaria a que se refiere la presente Ley.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+CUANDO SE TRATE DE INTERNOS CONDENADOS POR LOS DELITOS DE SECUESTRO CONTEMPLADOS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA AUTORIDAD JUDICIAL PODRÁ ORDENAR SE SUJETEN A VIGILANCIA IMPUESTA EN LA SENTENCIA, POR CONDUCTO DE LA DIRECCIÓN DE EJECUCIÓN QUE PODRÁ AUXILIARSE DE CUALQUIER AUTORIDAD POLICIAL PARA SU DEBIDO CUMPLIMIENTO.
 
 ###### ARTÍCULO 165.
 
@@ -1444,3 +1468,13 @@ SEGUNDO.- Dentro de los doce meses siguientes a la entrada en vigor de la presen
 P.O. 25 DE OCTUBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo establecido en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal y demás disposiciones que resulten aplicables.
+
+SEGUNDO.- De conformidad con lo que establecen los artículos segundo transitorio de la reforma a la fracción XXI del artículo 73 de la Constitución Federal publicada en el Diario Oficial de la Federación de fecha 4 de mayo de 2009 y segundo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, los procedimientos penales iniciados antes del 28 de febrero del año 2011 se seguirán tramitando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto a la ejecución de las penas correspondientes. Las sentencias dictadas bajo las citadas disposiciones no se verán afectadas.
+
+TERCERO.- En virtud de lo dispuesto por los artículos 22 y Séptimo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, el Consejo Estatal de Seguridad Pública y los Municipios del Estado, conforme a los acuerdos que se generen en el marco del Sistema Nacional de Seguridad Pública, deberán elaborar en un plazo de seis meses, el programa estatal y municipal, respectivamente, para prevenir, perseguir y sancionar las conductas previstas en la citada Ley, a efecto de remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana.
+
+La elaboración de la propuesta del programa estatal estará a cargo de la Procuraduría General de Justicia del Estado, quien deberá coordinar los trabajos para su elaboración con las dependencias e instancias correspondientes, previo a su remisión al Consejo Estatal de Seguridad Pública, para la aprobación correspondiente.
