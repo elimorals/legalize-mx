@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-defensoria-publica-y-asistencia-juridica-del-estado-9975
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2014-11-29"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -809,7 +809,9 @@ Artículo Tercero. Se derogan todas las demás disposiciones de igual o menor je
 
 Artículo Cuarto. El Estatuto de Servicio Profesional de Carrera de la Defensoría Pública, será expedido por el Gobernador del Estado, a más tardar 30 días naturales previos al 02 de junio de 2014 y (sic) partir de tal fecha tendrá vigor en todo el territorio del Estado.
 
-Artículo Quinto. El Gobernador del Estado nombrará al Director General del Instituto, a más tardar el 29 de marzo de 2015.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2015)</small>
+
+Artículo Quinto. El Gobernador del Estado nombrará al Director General del Instituto, a más tardar el 31 de agosto de 2015.
 
 En el mismo plazo mencionado en el primer párrafo de este artículo, el Consejo Directivo del Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, celebrará su sesión de instalación.
 
@@ -874,3 +876,11 @@ P.O. 29 DE NOVIEMBRE DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 27 DE MARZO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. En seguimiento al proceso de implementación del Sistema Procesal Penal Acusatorio en el Estado, los días 14, 15 y 16 de abril de 2015, se desahogarán reuniones de trabajo en las que la Comisión para la Implementación de la Reforma Penal y la Modernización de la Justicia en el Estado de Querétaro (CEI), presentará ante las Comisiones de Administración y Procuración de Justicia y de Planeación y Presupuesto de la Quincuagésima Séptima Legislatura del Estado de Querétaro, los avances y proyecciones para el inicio de operación del mencionado Sistema en el Distrito Judicial de Querétaro. En las reuniones participarán con sus exposiciones, el día 14 el Procurador General de Justicia; el día 15 el Presidente del Tribunal Superior de Justicia; y el día 16 el Secretario de Planeación y Finanzas del Poder Ejecutivo, todos del Estado de Querétaro.
