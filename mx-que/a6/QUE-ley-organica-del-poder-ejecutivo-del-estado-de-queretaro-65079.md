@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2014-11-29"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -181,13 +181,29 @@ X. La Secretaría de Salud;
 
 XI. La Oficialía Mayor;
 
-XII. La Procuraduría General de Justicia, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+XII. La Procuraduría General de Justicia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
 XIII. La Secretaría de Seguridad Ciudadana;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. La Secretaría de la Juventud.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+XIV. La Secretaría de la Juventud; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
+
+XV. La Secretaría de Desarrollo Social.
 
 ###### Artículo 20.
 
@@ -973,6 +989,50 @@ XIX. Generar la información estadística desagregada del sector juvenil, corres
 
 XX. Las demás que le confieran otras leyes o reglamentos, sin perjuicio de las atribuciones de otras dependencias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE MARZO DE 2015)</small>
+
+### Capítulo Décimo Quinto. De la Secretaría de Desarrollo Social
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2015)</small>
+
+###### Artículo 35.
+
+La Secretaría de Desarrollo Social es la dependencia encargada de coordinar, por delegación del Gobernador del Estado, las políticas, programas y acciones del desarrollo social. Le corresponde el despacho de los siguientes asuntos:
+
+I. Proponer al titular del Poder Ejecutivo del Estado, los lineamientos generales de las políticas públicas estatales, así como los programas y acciones en materia de desarrollo social;
+
+II. Elaborar los programas de desarrollo social en el Estado, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia, de conformidad con lo establecido en la Ley de Planeación del Estado de Querétaro;
+
+III. Promover la celebración de convenios y mecanismos de coordinación con dependencias y entidades del Poder Ejecutivo federal y estatal, así como con las organizaciones legalmente constituidas con el propósito de realizar actividades relacionadas con el bienestar y desarrollo social de la población, sin fines de lucro; y con el sector social de la economía, para la realización de los programas relacionados con el desarrollo social;
+
+IV. Coordinar con la federación y los ayuntamientos, los programas y acciones en materia de desarrollo social;
+
+V. Diseñar las reglas de operación para la ejecución anual de los programas, en el ámbito de su competencia;
+
+VI. Promover y fomentar la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de la política pública estatal, de las metas y de los objetivos de los programas de desarrollo social;
+
+VII. Proporcionar la información que requiera el Consejo Consultivo Estatal para el Desarrollo Social, para el cumplimiento de sus atribuciones;
+
+VIII. Generar, promover y apoyar instrumentos de financiamiento popular y de apoyos a proyectos productivos para el desarrollo social;
+
+IX. Promover y apoyar procesos de educación participativa que faciliten el involucramiento corresponsable de la población en el desarrollo social;
+
+X. Implementar los mecanismos de coordinación para ejercer los fondos y recursos federales transferidos o convenidos en materia social, en los términos de las leyes respectivas; así como informar a la Secretaría de Desarrollo Social del Gobierno Federal, sobre el avance y resultados generados con los mismos;
+
+XI. Informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el ejercicio de los fondos y recursos federales que los ayuntamientos realicen, en los términos de los convenios específicos;
+
+XII. Informar a la sociedad sobre las acciones en torno al desarrollo social de la Entidad;
+
+XIII. Definir los mecanismos de evaluación de los programas y acciones de desarrollo social;
+
+XIV. Promover y fomentar la organización y participación social para acercar programas, servicios y acciones en torno al desarrollo social; y
+
+XV. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
+
 ## TRANSITORIOS
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
@@ -1196,3 +1256,13 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 Artículo Tercero. Para los efectos legales a que haya lugar, la Oficialía Mayor del Poder Ejecutivo del Estado de Querétaro, sustituirá a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro en los procedimientos contenciosos en materia laboral a que se refiere esta Ley, así como en los actos jurídicos derivados y también de los que se deriven de tales juicios, que se inicien en forma posterior a la entrada en vigor de esta Ley.
 
 Artículo Cuarto. Dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley, deberán realizarse las adecuaciones que correspondan a los reglamentos interiores de la Secretaría de Gobierno y de la Oficialía Mayor, respectivamente, para armonizarlos con la presente Ley.
+
+P.O. 27 DE MARZO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 1 de enero de 2016.
+
+Artículo Segundo. Una vez que entre en vigor la presente Ley, el titular del Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia, deberán expedir las disposiciones reglamentarias correspondientes en un término de sesenta días.
+
+Artículo Tercero. El Consejo Consultivo Estatal para el Desarrollo Social deberá quedar integrado en un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley. En el mismo plazo deberá iniciar sus funciones el Sistema Estatal de Desarrollo Social y el Padrón Estatal de Beneficiarios de Programas de Desarrollo Social deberá integrarse dentro de los sesenta días siguientes al inicio de funciones del Sistema.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan la presente Ley.
