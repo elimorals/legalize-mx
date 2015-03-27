@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-para-los-servidores-publicos-del-municipio-7589
 country: "mx"
 rank: "codigo"
 publication_date: "2010-07-21"
-last_updated: "2010-07-21"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,17 @@ state: "NLE"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE ÉTICA Y CONDUCTA PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015 (ABROGADO).
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Nuevo León, el miércoles 21 de julio de 2010.
 
 EL CIUDADANO ING. MAURICIO FERNÁNDEZ GARZA, PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, A TODOS LOS HABITANTES DE ESTE MUNICIPIO HAGO SABER:
 
-QUE EL REPUBLICANO AYUNTAMIENTO DE ESTE MUNICIPIO, EN SESIÓN ORDINARIA CELEBRADA EL DIA 13 DE JULIO DEL AÑO 2010, HA TENIDO A BIEN EMITIR LO SIGUIENTE:
+QUE EL REPUBLICANO AYUNTAMIENTO DE ESTE MUNICIPIO, EN SESIÓN ORDINARIA CELEBRADA EL DÍA 13 DE JULIO DEL AÑO 2010, HA TENIDO A BIEN EMITIR LO SIGUIENTE:
 
 AL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN.
 
@@ -174,3 +176,17 @@ C. PRESIDENTE MUNICIPAL
 LIC. FERNANDO CANALES STELZER
 
 C. SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2015.
+
+PRIMERO: El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Código de Conducta aprobado en fecha 8 de Marzo de 2006, publicada en el Periódico Oficial del Estado en fecha 15 de Mayo de 2006.
+
+TERCERO: Se abroga el Código de Ética aprobado en sesión ordinaria de cabildo de fecha 25 de mayo de 2005, publicado en el Periódico Oficial del Estado de fecha 15 de junio de 2005.
+
+CUARTO: Se abroga el Código de Ética aprobado en sesión ordinaria de cabildo de fecha 13 de julio de 2010, publicado en el Periódico Oficial del Estado de fecha 21 de julio de 2010.
+
+QUINTO: El presente ordenamiento será aplicable para todo el personal administrativo perteneciente al Gobierno Municipal, tanto para el que ya labora en el mismo, como aquel que ingrese a partir de la aprobación del presente código, por lo tanto, el contenido del documento debe ser de conocimiento del personal que actualmente labora en el Municipio.
