@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2015-03-20"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -715,13 +715,25 @@ III. La Cámara Nacional de la Industria de la Transformación;
 
 IV. La Cámara Nacional de la Industria de la Construcción;
 
-V. Los Colegios de Arquitectos debidamente registrados en el Departamento de Profesiones del Estado de Baja California;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-VI. Los Colegios de Ingenieros Civiles debidamente registrados en el Departamento de Profesiones del Estado de Baja California;
+V. La Cámara Nacional para el Fomento y Desarrollo de la Industria de la Vivienda;
 
-VII. El Colegio de Notarios del Estado de Baja California;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-VIII. Los organismos promotores de vivienda y bienes inmuebles del Estado de Baja California.
+VI. Los Colegios de Arquitectos debidamente registrados en el Departamento de Profesiones del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+VII. Los Colegios de Ingenieros Civiles debidamente registrados en el Departamento de Profesiones del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+VIII. El Colegio de Notarios del Estado de Baja California; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2015)</small>
+
+IX. Los organismos promotores de vivienda y bienes inmuebles del Estado de Baja California.
 
 ## TITULO SEGUNDO. DE LA PLANEACION DEL DESARROLLO URBANO
 
@@ -2764,3 +2776,7 @@ P.O. 2 DE AGOSTO DE 2013.
 P.O. 20 DE MARZO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
