@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-88104"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-01"
-last_updated: "2012-06-01"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -181,9 +181,11 @@ XIII. El Subsecretario de Protección al Ambiente, quien fungirá como Secretari
 
 El Consejo funcionará con base en lo que disponga su Reglamento Interior, y sus integrantes ejercerán su labor de manera honorifica.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+
 ###### Artículo 8.
 
-El Consejo podrá convocar a otras dependencias y entidades gubernamentales, e invitar a representantes del Poder Legislativo Estatal, de los Gobiernos Municipales, Organismos o Instituciones de la Sociedad, a participar en sus trabajos cuando se aborden temas relacionados con el ámbito de su competencia u objeto.
+El Consejo podrá convocar a otras dependencias y entidades gubernamentales, e invitar a representantes del Poder Judicial, del Congreso del Estado, de los Ayuntamientos del Estado de Baja California, de los Organismos Constitucionales Autónomos, y de Organismos o Instituciones de la Sociedad, a participar en sus trabajos cuando se aborden temas relacionados con el ámbito de su competencia u objeto.
 
 En los términos del Reglamento que al efecto se expida, al Consejo se integrarán miembros provenientes de la sociedad civil, organismos privados y académicos con experiencia en temas de cambio climático, quienes serán designados por el Presidente del Consejo a propuesta de sus integrantes, debiendo garantizarse el equilibrio en la representación.
 
@@ -209,15 +211,21 @@ VI. Llevar a cabo la implementación, monitoreo, seguimiento y evaluación del P
 
 VII. Aprobar las reglas de operación del Fondo Ambiental del Estado.
 
-VIII. Establecer las bases técnicas y jurídicas que se requieran para fomentar la participación de empresas en las acciones de Prevención, Mitigación y Adaptación al Cambio Climático.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+VIII. Establecer las bases técnicas y jurídicas que se requieran para fomentar la participación de empresas, con prioridad en el sector de (sic) industrial, en las acciones de Prevención, Mitigación y Adaptación al Cambio Climático.
 
 IX. Promover, difundir y en su caso, aprobar proyectos de reducción o captura de emisiones, en términos del mercado, del Protocolo de Kyoto, así como de otros instrumentos firmados y ratificados por el Gobierno Federal que estén orientados al mismo objetivo.
 
-X. Proponer la implementación de estímulos para promover inversiones y cambios de conducta en actividades industriales, comerciales y de servicios, que generan emisiones de efecto invernadero, así como para otorgar incentivos a quienes realicen acciones para la protección, preservación o restauración del equilibrio climático.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+X. Proponer la implementación de estímulos para promover inversiones y cambios de conducta en actividades industriales, comerciales y de servicios, que generan emisiones de efecto invernadero, así como para otorgar incentivos a quienes realicen acciones para la protección, preservación o restauración del equilibrio climático, y a quienes se apeguen a los Programas estatales de eficiencia energética, de energías renovables y sustentabilidad energética.
 
 XI. Analizar el desarrollo e integración de un marco jurídico estatal congruente con la política pública en materia de cambio climático a nivel nacional.
 
-XII. Convocar a otras dependencias y entidades gubernamentales e invitar a representantes de órganos autónomos del Poder Legislativo y Judicial, y de otras Entidades Federativas, a participar en sus trabajos cuando se aborden temas relacionados en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+XII. Convocar a otras dependencias y entidades gubernamentales e invitar a representantes del Poder Judicial, del Congreso del Estado, de los Ayuntamientos del Estado de Baja California, de los Organismos Constitucionales Autónomos, y de otras Entidades Federativas, a participar en sus trabajos cuando se aborden temas relacionados en el ámbito de su competencia.
 
 XIII. Establecer las normas técnicas ambientales estatales en materia de cambio climático, y las medidas de vigilancia para su cumplimiento en la materia.
 
@@ -241,11 +249,13 @@ Quienes realicen programas de investigación y de desarrollo tecnológico y soci
 
 ###### Artículo 14.
 
-Para enfrentar los retos del cambio climático, se atenderán de manera prioritaria las necesidades; de adaptación en el corto, mediano y largo plazos, conforme a las directrices siguientes:
+Para enfrentar los retos del cambio climático, se atenderán de manera prioritaria las necesidades de adaptación en el corto, mediano y largo plazos, conforme a las directrices siguientes:
 
 I. En materia de protección civil, en los mapas de riesgo, se considerarán los escenarios de vulnerabilidad;
 
-II. En materia de seguridad agroalimentaria, se impulsará la investigación de posibles escenarios climáticos, para ubicar cultivos prioritarios o señalar la oportunidad de cambio de cultivos o del método de beneficiarlos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+II.- En materia de seguridad agroalimentaria, se impulsará la investigación de posibles escenarios climáticos, para ubicar cultivos prioritarios o señalar la oportunidad de cambio de cultivos, proponer la reconversión productiva sustentable o del método de beneficiarlos;
 
 III. Se implementará un Plan Estatal de Ordenamiento Ecológico Territorial y Desarrollo Urbano que considere los efectos del cambio climático;
 
@@ -640,3 +650,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
