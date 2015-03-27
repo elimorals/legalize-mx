@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2015-03-20"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -72,6 +72,12 @@ Principio de Jurisdiccionalidad.- La pena o la medida de seguridad serán impues
 ###### Artículo 6.
 
 Principio de territorialidad y extraterritorialidad de la Ley penal.- Este Código se aplicará por los delitos que se cometan en el Estado de Baja California y sean de la competencia de sus Tribunales. Asimismo por los que se inicien, preparen o cometan en otra Entidad Federativa cuando sus efectos se produzcan en el territorio del Estado; y por los delitos continuados o permanentes, cuando en un momento cualquiera de su ejecución éstos se realicen dentro del citado territorio.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+LAS CONDUCTAS PREVISTAS EN EL CAPÍTULO II DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, TENDRÁN EL CARÁCTER DE DELITOS PARA LOS EFECTOS DE ESTE CÓDIGO, SIEMPRE QUE SE COLME EL SUPUESTO DEL ARTÍCULO 23, PÁRRAFO SEGUNDO DE DICHA LEY GENERAL.
 
 ### CAPITULO II. APLICACION DE LA LEY EN EL TIEMPO
 
@@ -409,6 +415,12 @@ II.- La reparación del daño material y la indemnización de los perjuicios der
 
 III.- La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+EN LOS CASOS DE LAS VÍCTIMAS DE LOS DELITOS DE SECUESTRO, LA REPARACIÓN COMPRENDERÁ TAMBIÉN LOS GASTOS ALIMENTARIOS, DE TRANSPORTE Y HOSPEDAJE A CARGO DE ÉSTA, CON MOTIVO DEL PROCEDIMIENTO PENAL.
+
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 34.
@@ -535,7 +547,9 @@ V.- Abuso sexual mediante violencia;
 
 VI.- Privación de la libertad personal agravada;
 
-VII.- Secuestro.
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VII DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VII.- SECUESTRO.
 
 VIII.- (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
 
@@ -907,6 +921,12 @@ II.- Cuando no exceda de cuatro años por tratamiento en libertad; y
 
 III.- Cuando no exceda de cinco años por semilibertad o trabajo en favor de la comunidad.
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+TRATÁNDOSE DE LOS DELITOS DE SECUESTRO NO PROCEDERÁ LA SUBSTITUCIÓN DE LA PENA, SALVO QUE LA AUTORIDAD RESUELVA CONCEDER ESTE BENEFICIO A LOS SENTENCIADOS QUE HAYAN COLABORADO PROPORCIONANDO DATOS FEHACIENTES O SUFICIENTES ELEMENTOS DE CONVICCIÓN PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE OTROS MIEMBROS DE LA DELINCUENCIA ORGANIZADA O DE BANDAS DE PERSONAS DEDICADAS A LA COMISIÓN DE DELITOS EN MATERIA DE SECUESTRO, ASÍ COMO PARA LA LOCALIZACIÓN Y LIBERACIÓN DE LAS VÍCTIMAS, SIEMPRE Y CUANDO SE REÚNAN LAS CONDICIONES ESTABLECIDAS EN LA LEY GENERAL DE LA MATERIA.
+
 ###### Artículo 86.
 
 Requisitos para la substitución.- Para los efectos de la substitución, se requerira, además, que:
@@ -1189,9 +1209,17 @@ Si además de la pena de prisión el delito mereciere otra accesoria o una alter
 
 En los demás casos, la pretensión punitiva prescribirá en dos años.
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2009)</small>
 
-Artículo 114 BIS.- En los delitos de homicidio, secuestro, violación, trata de personas y terrorismo, que refiere este Código, el plazo de la prescripción de la pretensión punitiva será el equivalente a la pena máxima señalada para el delito de que se trate.
+Artículo 114 BIS.- En los delitos de homicidio, SECUESTRO, violación, trata de personas y terrorismo, que refiere este Código, el plazo de la prescripción de la pretensión punitiva será el equivalente a la pena máxima señalada para el delito de que se trate.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+TRATÁNDOSE DE LOS DELITOS CONTEMPLADOS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EL EJERCICIO DE LA ACCIÓN PENAL SERÁ IMPRESCRIPTIBLE.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1230,6 +1258,12 @@ Lo prevenido en los párrafos anteriores de este artículo no comprende el caso 
 ###### Artículo 119.
 
 Plazos para la prescripción.- Los plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se substraiga a la acción de la justicia, si las penas o medidas de seguridad fueren privativas o restrictivas de la libertad, y si no lo son desde la fecha de la sentencia ejecutoria o del momento en que expresamente lo disponga la Ley.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+LA EJECUCIÓN DE SANCIONES SERÁ IMPRESCRIPTIBLE EN LOS DELITOS PREVISTOS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1605,6 +1639,8 @@ Artículo 160 BIS.- Para los efectos de este Código, tendrán el carácter de d
 
 ### CAPITULO II. SECUESTRO
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO II BIS. DESAPARICION FORZADA DE PERSONAS
@@ -1667,6 +1703,8 @@ II.- Que la autoridad o particulares realicen o dejen de hacer un acto de cualqu
 
 III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionado con él.
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 Artículo 164 BIS.- Secuestro equiparado.- Se equipara al secuestro y se castigará de siete a quince años de prisión y hasta trescientos días multa a quien:
@@ -1674,6 +1712,8 @@ Artículo 164 BIS.- Secuestro equiparado.- Se equipara al secuestro y se castiga
 I.- Secuestro express.- Prive de la libertad a otro y lo persuada u obligue de cualquier modo a realizar directa o indirectamente retiro de dinero en cajeros electrónicos u operaciones o transacciones bancarias, mercantiles, civiles o cualquier otra que produzca liberaciones de obligaciones, obtenga o no el beneficio.
 
 II.- Auto Secuestro.- Simule encontrarse secuestrado con amenaza de un daño a su persona con el propósito de obtener un beneficio indebido, o con la intención de que la autoridad o particular realice o deje de realizar un acto cualquiera.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
@@ -1701,6 +1741,8 @@ IV.- Que se realice con violencia, se veje o se torture a la víctima o,
 
 V.- Que la víctima sea menor de edad o mayor de sesenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del agente.
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 Artículo 165 BIS.- Se impondrá de uno a ocho años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas mencionadas en los artículos 164, 164 BIS y 165 de este Código y fuera de las causas de exclusión del delito:
@@ -1713,9 +1755,15 @@ I.- Actúe como intermediario en las negociaciones del rescate, sin el acuerdo d
 
 II.- Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
 ###### Artículo 166.
 
-(DEROGADO, P.O. 31 DE AGOSTO DE 2007)
+El juez además de la pena de prisión que corresponda, podrá imponer la vigilancia de la autoridad policial, de seis meses hasta cinco años posteriores a su liberación, tratándose de sentenciados por los delitos de secuestro previstos en la ley general de la materia.
+
+(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Artículo 167.
 
@@ -5166,3 +5214,15 @@ P.O. 20 DE MARZO DE 2015.
 PRIMERO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 27 DE MARZO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo establecido en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal y demás disposiciones que resulten aplicables.
+
+SEGUNDO.- De conformidad con lo que establecen los artículos segundo transitorio de la reforma a la fracción XXI del artículo 73 de la Constitución Federal publicada en el Diario Oficial de la Federación de fecha 4 de mayo de 2009 y segundo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, los procedimientos penales iniciados antes del 28 de febrero del año 2011 se seguirán tramitando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto a la ejecución de las penas correspondientes. Las sentencias dictadas bajo las citadas disposiciones no se verán afectadas.
+
+TERCERO.- Las disposiciones normativas contenidas en los artículos 164, 164 BIS, 165, 165 BIS y 167 del Código Penal para el Estado de Baja California no resultarán aplicables a los hechos delictivos que se cometan a partir del 28 de febrero del año 2011, por lo que sólo continuarán vigentes para ser observados en los procedimientos y sentencias que se señalan en la disposición transitoria anterior.
+
+CUARTO.- En virtud de lo dispuesto por los artículos 22 y Séptimo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, el Consejo Estatal de Seguridad Pública y los Municipios del Estado, conforme a los acuerdos que se generen en el marco del Sistema Nacional de Seguridad Pública, deberán elaborar en un plazo de seis meses, el programa estatal y municipal, respectivamente, para prevenir, perseguir y sancionar las conductas previstas en la citada Ley, a efecto de remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana.
+
+La elaboración de la propuesta del programa estatal estará a cargo de la Procuraduría General de Justicia del Estado, quien deberá coordinar los trabajos para su elaboración con las dependencias e instancias correspondientes, previo a su remisión al Consejo Estatal de Seguridad Publica, para la aprobación correspondiente.
