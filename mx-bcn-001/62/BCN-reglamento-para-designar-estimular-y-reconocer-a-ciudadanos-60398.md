@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-designar-estimular-y-reconocer-a-ciudadanos-603
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2014-11-28"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUESPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 27 DE MARZO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de marzo de 2008.
 
@@ -333,15 +333,17 @@ III.- Una vez aprobado el dictamen por el Comité, deberá ser presentado por co
 
 IV.- Toda aquella documentación que se considere necesaria para comprobar los actos o actividades que hace mención la fracción anterior.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 27 DE MARZO DE 2015)
 
 ARTÍCULO 20 BIS.- Una vez que ha sido recibida la documentación en la Secretaria General del Ayuntamiento de Ensenada se seguirá el siguiente procedimiento:
 
-1.- El Comité tendrá un plazo de quince días naturales para emitir el dictamen, una vez que se cumpla el término para la recepción de solicitudes ante la Secretaría General, de acuerdo a la convocatoria.
+I. Se enlistará en el orden del día de la siguiente sesión de cabildo para ser turnado a la Comisión de Educación, Cultura, Ciencia y Tecnología, o conjuntamente con las comisiones que así se considere.
 
-2.- El Comité será convocado por el Secretario General del Ayuntamiento, a las reuniones para conocer las propuestas y emitir el dictamen correspondiente.
+II. La Comisión solicitará inmediatamente el dictamen correspondiente del Comité a través de la Secretaria General, esto última será la responsable de convocar a los miembros del mismo.
 
-3.- Una vez aprobado el Dictamen por el Comité, deberá ser presentado por conducto del Presidente Municipal en la Sesión de Cabildo más próxima, para que el Ayuntamiento determine lo conducente.
+III. El Comité tendrá un término no mayor o 15 días naturales para emitir el dictamen, el cual a su vez deberá remitir a la comisión a través de la Secretaria General. En Caso de no dar respuesta en el término fijado y una vez cerciorado que si se convocó y remitió la información al comité, la comisión resolverá lo conducente.
+
+IV. Una vez que se reciba el dictamen del comité y analizado que fuese el tema por parte de la comisión, esta última elaborará el dictamen definitivo que será presentado ante el Pleno del Cabildo para su correspondiente aprobación.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
