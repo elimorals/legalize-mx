@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-municipio-de-san-pedro-garza-garcia-5061
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-15"
-last_updated: "2006-05-15"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-CODIGO DE CONDUCTA DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, N.L.
+CÓDIGO DE CONDUCTA DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA Y CONDUCTA PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de mayo de 2006.
 
@@ -336,3 +338,17 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILIA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2015.
+
+PRIMERO: El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Código de Conducta aprobado en fecha 8 de Marzo de 2006, publicada en el Periódico Oficial del Estado en fecha 15 de Mayo de 2006.
+
+TERCERO: Se abroga el Código de Ética aprobado en sesión ordinaria de cabildo de fecha 25 de mayo de 2005, publicado en el Periódico Oficial del Estado de fecha 15 de junio de 2005.
+
+CUARTO: Se abroga el Código de Ética aprobado en sesión ordinaria de cabildo de fecha 13 de julio de 2010, publicado en el Periódico Oficial del Estado de fecha 21 de julio de 2010.
+
+QUINTO: El presente ordenamiento será aplicable para todo el personal administrativo perteneciente al Gobierno Municipal, tanto para el que ya labora en el mismo, como aquel que ingrese a partir de la aprobación del presente código, por lo tanto, el contenido del documento debe ser de conocimiento del personal que actualmente labora en el Municipio.
