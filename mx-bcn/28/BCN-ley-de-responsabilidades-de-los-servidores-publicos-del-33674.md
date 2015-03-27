@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2015-03-13"
+last_updated: "2015-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -701,7 +701,9 @@ I. El procedimiento se iniciará con el acuerdo que dicte el Síndico Procurador
 
 Cuando la acusación recaiga sobre los Titulares de algún Órgano de Control, Dependencia o Entidad, el Acuerdo lo dictará la Dirección, la Contraloría Interna del Congreso, el Consejo de la Judicatura o los Síndicos Procuradores, en el ámbito de su competencia.
 
-II. Las autoridades señaladas en la fracción anterior, según sea el caso, citarán al servidor público presunto responsable para que comparezca personalmente a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a declarar sobre los hechos que se le imputan, a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor. Entre la fecha de la notificación y la audiencia deberá mediar un periodo no menor de cinco ni mayor de diez días hábiles, haciéndole saber que el expediente en que se actúa se encuentra a su disposición para su consulta en días y horas hábiles;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+
+II. Las autoridades señaladas en la fracción anterior, según sea el caso, citarán al servidor público presunto responsable para que comparezca personalmente a una audiencia, asistido de su Defensor Particular y en caso de no contar con él, se le asignará Defensor Público, en los términos previstos en la Ley Orgánica de la Defensoría Pública del Estado de Baja California, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a declarar sobre los hechos que se le imputan, a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por si o por medio de su defensor. Entre la fecha de la notificación y la audiencia deberá mediar un periodo no menor de cinco ni mayor de diez días hábiles, haciéndole saber que el expediente en que se actúa se encuentra a su disposición para su consulta en días y horas hábiles;
 
 III. La notificación se hará en el domicilio del centro de labores donde el servidor público presente sus servicios y si éste ya no trabaja en el servicio público, en su domicilio particular, o donde se encuentre; para el caso de que la notificación sea en el domicilio particular y no se encuentre el presunto responsable, se dejará el citatorio con cualquier persona que se encuentre en éste, para que el presunto responsable espere a una hora fija del día hábil siguiente, en caso de no estar o de negarse a recibirlo, se efectuará por cédula que contendrá el nombre de la Autoridad que la dicta; expediente en el cual se dicta, transcripción en lo conducente de la actuación o resolución que se le notifique, día y hora en que se hace dicha diligencia, y nombre y firma de la persona en poder con la cual se deja, expresándose, además, el motivo por el cual no se hizo personalmente. Si el que deba ser notificado se niega a recibir al encargado de la notificación; o si las personas que residan (sic) el domicilio se rehusaren a recibir la cédula, o no se encuentra nadie en el lugar, se fijará cédula en la puerta de entrada, asentándose razón de todas y cada una de las circunstancias observadas en la diligencia de notificación. En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia simple del documento a que se refiere la notificación;
 
@@ -1082,3 +1084,7 @@ P.O. 13 DE MARZO DE 2014.
 P.O. 13 DE MARZO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
