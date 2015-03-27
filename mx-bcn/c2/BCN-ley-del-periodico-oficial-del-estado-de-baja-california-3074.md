@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-periodico-oficial-del-estado-de-baja-california-3074"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-10"
-last_updated: "2013-09-27"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1992.
 
@@ -65,7 +65,7 @@ V.- Los acuerdos y circulares de las Dependencias del Ejecutivo del Estado que s
 
 VI.- Los convenios celebrados por el Gobierno del Estado de Baja California;
 
-VII.- Los edictos, convocatorias, avisos, balances, estados financieros, resultados financieros o inserciones similares, y (sic)
+VII.- Los edictos, convocatorias, avisos, balances, estados financieros, resultados financieros o inserciones similares, y
 
 VIII.- Los actos y resoluciones que la Constitución Política del Estado de Baja California y las leyes, ordenen se publiquen en el Periódico oficial; y
 
@@ -91,13 +91,23 @@ c) Tomo, fecha y número de publicación; y
 
 d) Indice del contenido.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 6.
 
-Solo serán publicados en el Periódico Oficial del Estado, los documentos que en original y copia, se reciban en Oficialía Mayor de Gobierno, a más tardar cinco días hábiles antes de la fecha de publicación, observándose lo dispuesto en la Fracción III del Artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Baja California.
+Serán publicados en el Periódico Oficial del estado, los documentos que en original y copia se reciban en Oficialía Mayor de gobierno, observándose lo dispuesto en la fracción III del Artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
 ###### ARTICULO 7.
 
 El Periódico Oficial se editará por la Oficialía Mayor de Gobierno, la cual a su vez establecerá el sistema adecuado y eficaz para su distribución oportuna y en cantidad suficiente que garantice la demanda en todo el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+La oficialía Mayor de Gobierno, recibirá en custodia la documentación que habrá de publicarse, como soporte de la edición respectiva, la cual deberá ser resguardada en el archivo general a su cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+
+La publicación impresa en el Periódico Oficial de los documentos a que se refiere el artículo 3 de esta Ley, bastará para acreditar su autenticidad y la integridad de su contenido.
 
 ###### ARTICULO 8.
 
@@ -105,15 +115,13 @@ El Periódico Oficial del Estado, será publicado los viernes de cada semana; cu
 
 En caso de notoria urgencia, se publicarán en cualquier fecha, las leyes, decretos, reglamentos, acuerdos y demás actos expedidos por los Poderes del Estado, en números especiales.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+
 ###### ARTICULO 9.
 
-La Oficialía Mayor de Gobierno propondrá el precio de venta por ejemplar del día, atrasados del año en curso, de años anteriores y de ediciones especiales, así como suscripciones anuales y el cobro por inserciones, para que sea comprendido en la Ley de Ingresos del Estado en vigor para el año de que se trate.
+La Oficialía Mayor de Gobierno propondrá el precio de venta por ejemplar del día, atrasados del año en curso, de años anteriores y ediciones especiales, así como suscripciones anuales, expedición de copias simples o certificadas y el cobro por inserciones, para que sea comprendido en la Ley de Ingresos del Estado en vigor para el año de que se trate.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1999)</small>
-
-Los Ayuntamientos del Estado no estarán obligados al pago de contribuciones tratándose de las publicaciones de Acuerdos de Cabildo, Leyes de Ingresos, Tablas de Valores Catastrales, Presupuestos de Egresos, Reglamentos y de sus Estados Financieros.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1999)</small>
+Los Ayuntamientos del Estado no estarán obligados al pago de contribuciones tratándose de las publicaciones de Leyes de Ingresos, Tablas de Valores Catastrales, Presupuestos de Egresos y Reglamentos; también estarán exentos del pago las publicaciones de Acuerdos de Cabildo y Estados Financieros que por ley estén obligados a su publicación.
 
 En los casos de los Tres Poderes del Estado y de los Ayuntamientos de los Municipios el Periódico Oficial será distribuido gratuitamente.
 
@@ -121,11 +129,11 @@ En los casos de los Tres Poderes del Estado y de los Ayuntamientos de los Munici
 
 ### CAPÍTULO SEGUNDO. DE LA DIVULGACIÓN DEL PERIÓDICO OFICIAL POR MEDIOS ELECTRÓNICOS
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría General de Gobierno administrará la página electrónica del Periódico Oficial en la Internet.
+La Oficialía Mayor de Gobierno administrara la página electrónica del Periódico oficial en internet.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
 
@@ -145,11 +153,11 @@ La publicación del Periódico Oficial en la página electrónica correspondient
 
 La publicación electrónica del Periódico Oficial será únicamente para efectos de divulgación, por lo que no afecta la entrada en vigor ni el contenido oficial de los materiales publicados en el formato impreso.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 14.
 
-La Secretaría General de Gobierno procurará editar compilaciones electrónicas del Periódico Oficial para facilitar su colección y análisis.
+La Oficialía Mayor de Gobierno procurará editar compilaciones electrónicas del Periódico Oficial para facilitar su colección y análisis.
 
 T R A N S I T O R I O S
 
@@ -200,3 +208,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 20 DE JULIO DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los tres meses siguientes a la publicación del presente Decreto, el Ejecutivo del Estado deberá emitir las disposiciones reglamentarias conducentes.
