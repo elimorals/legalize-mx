@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-comision-de-carrera-judicial-57647"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-23"
-last_updated: "2013-02-01"
+last_updated: "2015-03-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO DE LA COMISIÓN DE CARRERA JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA COMISIÓN DE CARRERA JUDICIAL DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 23 de noviembre de 2007.
 
@@ -275,7 +277,7 @@ I. Claridad;
 
 II. Precisión;
 
-Ill. Congruencia;
+III. Congruencia;
 
 IV. Motivación;
 
@@ -426,3 +428,11 @@ P.O. 1 DE FEBRERO DE 2013.
 PRIMERO. Publíquese la presente adición en el Periódico Oficial del Estado.
 
 SEGUNDO. La presente adición entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2015.
+
+PRIMERO. Publíquese en el Periódico Oficial y en la página de Internet del Poder Judicial.
+
+SEGUNDO. El presente Reglamento iniciará vigencia al día siguiente de su publicación en el Periódico a que se refiere el artículo anterior.
+
+TERCERO. Queda sin efectos el Reglamento de la Comisión de Carrera Judicial aprobado por el Consejo en fecha 17 diecisiete de octubre de 2007 dos mil siete.
