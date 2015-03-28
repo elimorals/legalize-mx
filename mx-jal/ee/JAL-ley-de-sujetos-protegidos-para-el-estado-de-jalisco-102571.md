@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-sujetos-protegidos-para-el-estado-de-jalisco-102571"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-27"
-last_updated: "2014-09-27"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR CONFORME A LO DISPUESTO EN EL DECRETO 24864, APROBADO EL DÍA 10 DE ABRIL DE 2014, POR EL QUE SE DECLARA LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, AL ORDEN JURÍDICO DEL ESTADO DE JALISCO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2014.
 
@@ -327,23 +327,17 @@ Una vez recibido el requerimiento de protección por el sujeto o testigo, para s
 
 El Ministerio Público, procederá de inmediato a la aplicación de medidas de protección, cuando respecto de alguno de los sujetos de la Ley exista amenaza, riesgo o peligro inminente de daño en su integridad, libertad, bienes materiales o menoscabo sustancial de sus derechos fundamentales.
 
-En caso de que el testigo, allegado a éste u otro sujeto en riesgo no esté de acuerdo con las medidas de protección, podrá ocurrir ante el órgano jurisdiccional competente en los términos del Código Nacional de Procedimientos Penales regula para las mediadas (sic) de protección.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
-La interposición del recurso no suspenderá la ejecución o efectos de la medida impugnada.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 32.
 
-El mismo trámite se seguirá en los casos en que el Ministerio Público se niegue a otorgar una medida de protección, la suspenda o la cancele.
+(DEROGADO, P.O. 28 DE MARZO DE 2015)
 
 ###### ARTÍCULO 33.
 
-La competencia para resolver el conflicto a que se refiere el artículo anterior, corresponderá:
-
-I. Al Juez, si se promueve previo o durante la fase de investigación y hasta el auto de apertura de juicio oral;
-
-II. Al Juez o al Presidente del Tribunal de Juicio Oral, desde el dictado del auto de apertura de juicio oral; durante la audiencia de debate y en la fase de ejecución de penas y medidas de seguridad; y
-
-III. A las Salas Penales del Supremo Tribunal de Justicia del Estado, cuando sea la autoridad judicial la que determine el resguardo de identidad u otros datos personales.
+(DEROGADO, P.O. 28 DE MARZO DE 2015)
 
 ###### ARTÍCULO 34.
 
@@ -422,3 +416,9 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
