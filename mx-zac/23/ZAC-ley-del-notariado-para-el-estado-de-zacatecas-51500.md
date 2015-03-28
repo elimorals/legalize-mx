@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-notariado-para-el-estado-de-zacatecas-51500"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-02"
-last_updated: "2014-07-05"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL CONSIDERANDO ÚNICO DEL DECRETO GUBERNATIVO MEDIANTE EL CUAL SE REPONE EL ACTO PROMULGATORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2015, SE PRECISA QUE EL ORDENAMIENTO QUE NOS OCUPA SUFRE EL VICIO FORMAL DE CREACIÓN PUES FUE OMITIDO POR PARTE DEL SECRETARIO DEL RAMO EL REFRENDO A DICHA NORMA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 2 de agosto de 2006.
 
@@ -35,7 +37,7 @@ DECRETO # 309
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA:
 
-.
+...
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 14, fracción I de la Ley Orgánica del Poder Legislativo, 86, párrafo I, 87, 90 y demás relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -881,7 +883,9 @@ II. La fecha en que se otorgó;
 
 III. Los números de los folios en los que se asentó;
 
-IV. El nombre completo (sic) las personas que intervinieron, ya sean físicas o morales;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
+
+IV. El nombre completo, (sic) las personas que intervinieron, ya sean físicas o morales;
 
 V. La naturaleza del acto o hecho consignado; y
 
@@ -1842,3 +1846,9 @@ P.O. 5 DE JULIO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 28 DE MARZO DE 2015.
+
+Primero.- El presente Decreto Gubernativo entrará en vigor el mismo día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- El Reglamento de la Ley del Notariado del Estado de Zacatecas, publicado en el Suplemento al número 35 del Periódico Oficial, Órgano del Gobierno del Estado en fecha 30 de Abril de 2008, así como su correspondiente reforma publicada en fecha 26 de Septiembre de 2009, subsisten en su (sic) términos, en razón a que ambos instrumentos retoman la norma que en este decreto se transcribe, y como ha quedado señalado en el Considerando, deviene de un proceso legislativo que la califica de perfecta y valida, aunado a esto, el Reglamento como su posterior reforma, cuentan con el correspondiente refrendo por parte del Secretario del Ramo, y por tanto, tales instrumentos no requieren la reposición del acto promulgatorio.
