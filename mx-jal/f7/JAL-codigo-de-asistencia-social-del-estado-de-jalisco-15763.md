@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2014-12-02"
+last_updated: "2015-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -73,9 +73,9 @@ IV. Sistema Estatal.- Es el Sistema Estatal de Asistencia Social del Estado de J
 
 El Gobierno del Estado y los ayuntamientos dentro del ámbito de sus jurisdicciones, reglamentarán, promoverán y prestarán servicios de asistencia social a través de las siguientes instituciones:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-I. La Secretaría.- Es la Secretaría de Desarrollo Humano del Estado;
+I. La Secretaría.- Es la Secretaría de Desarrollo e Integración Social;
 
 II. Organismo Estatal.- Es el organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
 
@@ -211,11 +211,11 @@ El Sistema Estatal tiene por objeto llevar a cabo coordinadamente, los servicios
 
 El Sistema Estatal se integra por las dependencias, organismos públicos descentralizados y entidades de la administración pública, tanto estatal como municipal y por las personas físicas y jurídicas privadas, que presten servicios de asistencia social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 10.
 
-El titular del Poder Ejecutivo a través de la Secretaría de Desarrollo Humano tendrá respecto de la asistencia social las siguientes atribuciones:
+El titular del Poder Ejecutivo a través de la Secretaría tendrá, respecto de la asistencia social, las siguientes atribuciones:
 
 I. Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de asistencia social, así como la difusión de las mismas;
 
@@ -237,11 +237,11 @@ IX. Las demás que le otorguen las leyes aplicables.
 
 ### CAPITULO III. De la Coordinación
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 11.
 
-El Titular del Poder Ejecutivo a través de la Secretaría de Desarrollo Humano coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal y del Instituto, en el ámbito de sus respectivas competencias. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.
+El Titular del Poder Ejecutivo a través de la Secretaría coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal y del Instituto, en el ámbito de sus respectivas competencias. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.
 
 ###### Artículo 12.
 
@@ -479,9 +479,9 @@ I. Un Presidente, que será designado por el Titular del Poder Ejecutivo del Est
 
 II. Hasta doce Consejeros, los cuales serán designados por el Gobernador del Estado, entre los cuales se encontrarán los siguientes:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
-a) Los titulares de la Secretaría de Desarrollo Humano y de la Procuraduría Social, o sus respectivos representantes;
+a) Los titulares de la Secretaría y de la Procuraduría Social, o sus respectivos representantes;
 
 b) El Director General del Instituto;
 
@@ -957,7 +957,9 @@ VIII. El producto que se obtenga de la venta en subasta pública de los bienes m
 
 IX. Los productos que por los servicios de guarda y custodia se realicen en la actualidad o que en el futuro establezcan, de aquellos bienes que le sean remitidos en depósito legal por autoridades federales, estatales o municipales.
 
-La Secretaria de Finanzas del Gobierno del Estado ejercitará la facultad económica coactiva en contra de los propietarios de dichos bienes puestos en depósito, que adeuden 180 días o más de pensión, sin que sus propietarios o titulares de los derechos hayan tramitado su devolución ante las autoridades competentes, o que habiéndolo realizado, no lo notifique oportunamente al Instituto, y
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+
+La Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado ejercitará la facultad económica coactiva en contra de los propietarios de dichos bienes puestos en depósito, que adeuden 180 días o más de pensión, sin que sus propietarios o titulares de los derechos hayan tramitado su devolución ante las autoridades competentes, o que habiéndolo realizado, no lo notifique oportunamente al Instituto; y
 
 X. Los demás bienes, derechos e ingresos que obtengan por cualquier título.
 
@@ -1005,9 +1007,9 @@ II. Un Secretario, que será la persona que ocupe el cargo de Secretario y Procu
 
 III. El Director General del Instituto;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-IV. El Titular de la Secretaría de Desarrollo Humano o su representante;
+IV. El Titular de la Secretaría o su representante;
 
 V. Un representante del Colegio de Notarios de Jalisco;
 
@@ -1387,7 +1389,9 @@ III. Hasta 15 Consejeros.
 
 El Presidente será designado por el Titular del Poder Ejecutivo del Estado; así mismo, también podrá designar hasta ocho Consejeros, entre los cuales se deberán de encontrar los siguientes:
 
-a) Los titulares de la Secretaría de Desarrollo Humano, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+
+a) Los titulares de la Secretaría, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes;
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -3297,7 +3301,7 @@ P.O. 22 DE JUNIO DE 2006.
 
 P.O. 22 DE AGOSTO DE 2006.
 
-ÚNICO.- el (sic) presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- el presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 28 DE DICIEMBRE DE 2006.
 
@@ -3378,3 +3382,7 @@ P.O. 9 DE AGOSTO DE 2014.
 P.O. 2 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MARZO DE 2015.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
