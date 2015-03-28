@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-la-administracion-de-documentos-publicos-e-11864
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-08"
-last_updated: "2005-01-06"
+last_updated: "2015-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY QUE REGULA LA ADMINISTRACION DE DOCUMENTOS PUBLICOS E HISTORICOS DEL ESTADO DE JALISCO
 
-LEY QUE REGULA LA ADMINISTRACION DE DOCUMENTOS PUBLICOS E HISTORICOS DEL ESTADO DE JALISCO
+LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 8 de enero de 1998.
 
@@ -271,15 +271,21 @@ Esta constancia la deberá otorgar el titular del archivo de que se trate y el r
 
 Los documentos que por su estado de deterioro no puedan ser sometidos a restauración y, ante la eminente desaparición de los mismos, deberán ser reproducidos de manera facsimilar, en la medida que lo permita su condición de degradación.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 15.
 
-Para efectos del proceso de depuración, el archivo de trámite que corresponda, deberá elaborar una tarjeta informativa que contenga la relación de los documentos que se dan de baja y el tiempo que falta para que transcurran los veinte años, a fin de que dichos documentos sean sometidos al proceso de depuración.
+Para efectos del proceso de depuración, el archivo de trámite que corresponda, deberá elaborar una tarjeta informativa que contenga la relación de los documentos que se dan de baja y el tiempo que falta para que transcurran los diez años, a fin de que dichos documentos sean sometidos al proceso de depuración.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
 Los documentos y la tarjeta informativa a que se refiere el párrafo anterior, deberán remitirse al archivo general que corresponda para que éstos a su vez, los tengan recibidos bajo su custodia.
 
-Una vez transcurrido el plazo de veinte años, según sea la antigüedad de los documentos, los archivos histórico o generales, deberán concentrar y entregar el acervo documental que ya no esté activo, a la Comisión Dictaminadora, quien deberá dictaminar su utilidad e importancia, de acuerdo con los criterios establecidos en la ley; si procede la eliminación de dichos documentos o, en su caso, por el contenido de información, si se consideran como testimonio histórico, cultural o de interés público.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+
+Una vez transcurrido el plazo de diez años, según sea la antigüedad de los documentos, los archivos históricos o generales, deberán concentrar y entregar el acervo documental que ya no esté activo, a la Comisión quien deberá dictaminar su utilidad e importancia, de acuerdo con los criterios establecidos en la ley; si procede la eliminación de dichos documentos o, en su caso, por el contenido de información, si se consideran como testimonio histórico, cultural o de interés público.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
 Todo lo anterior sin perjuicio de los procedimientos de acceso a la información, según sea el tipo de documento de que se trate.
 
@@ -611,11 +617,11 @@ El Comité Técnico, contará con un Consejo Consultivo como órgano de consulta
 
 ### Capítulo V. De la Comisión Dictaminadora de Depuración de Documentos y del Consejo Consultivo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 45.
 
-La Comisión Dictaminadora es nombrada por el Comité Técnico, la cual se encargará de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público y que se encuentren en los archivos de trámite o hayan sido remitidos a los archivos generales, una vez transcurridos veinte años de haber sido generados o, en caso de documentos que contengan información reservada, una vez que haya transcurrido un plazo igual al de su reserva.
+La Comisión es nombrada por el Comité Técnico, la cual se encargará de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público y que se encuentren en los archivos de trámite o hayan sido remitidos a los archivos generales, una vez transcurridos diez años de haber sido generados o, en caso de documentos que contengan información reservada, una vez que haya transcurrido un plazo igual al de su reserva.
 
 Esta Comisión se integrará cada tres años por un mínimo de cinco especialistas en la materia, que serán seleccionados entre los miembros del Sistema Estatal. En dicha comisión participará invariablemente el titular del Archivo Histórico del Estado de Jalisco.
 
@@ -733,7 +739,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE JULIO DE 2002 .
 
@@ -760,3 +766,7 @@ SEXTO.- Antes de la entrada en vigor de la Ley, los sujetos obligados deberán i
 SEPTIMO.- De no designarse las unidades de transparencia e información en el plazo establecido en el artículo anterior, se considerará como tal, en lo relativo a la recepción y entrega de solicitudes, a la Oficialía de partes de cada una de las entidades que, de acuerdo a la normatividad aplicable, conforman la estructura orgánica de los sujetos obligados.
 
 OCTAVO.- A la entrada en vigor del presente decreto, quedará abrogada la Ley de Transparencia e Información Pública del Estado de Jalisco publicada el 22 de enero de 2002 mediante decreto número 19446.
+
+P.O. 28 DE MARZO DE 2015.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
