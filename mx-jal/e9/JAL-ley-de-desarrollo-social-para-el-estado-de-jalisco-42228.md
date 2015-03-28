@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2014-08-09"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -159,9 +159,17 @@ IV. El derecho a vivienda digna y decorosa;
 
 V. El derecho a un medio ambiente sano;
 
-VI. El derecho al trabajo y la seguridad social; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-VII. El derecho a la equidad y la igualdad.
+VI. El derecho al trabajo y la seguridad social;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
+
+VII. El derecho a la equidad y la igualdad; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+VIII. El derecho a recibir apoyo al transporte para estudiantes de los niveles de educación secundaria, media superior y superior, adultos mayores y personas con discapacidad.
 
 ###### Artículo 8.
 
@@ -816,3 +824,7 @@ P.O. 9 DE AGOSTO DE 2014.
 DECRETO NÚMERO 2933/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4, 42 Y 49 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MARZO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
