@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2014-04-08"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -90,6 +90,12 @@ IX. Reconocer como gestor cultural a toda persona que actúe como agente de camb
 ###### Artículo 2 Bis.
 
 Cultura es el conjunto de elementos tangibles e intangibles, así como los valores que a través del tiempo construyen un sistema significante de la realidad, que define la identidad específica de una comunidad y vincula a sus miembros con respecto de ésta, bajo esquemas de identidad individual y sentido de pertenencia social.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2015)</small>
+
+###### Artículo 2 Ter.
+
+El Estado y los ayuntamientos promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
 
 ###### Artículo 3.
 
@@ -311,7 +317,7 @@ k) La Secretaría de Trabajo y Previsión Social del Estado;
 
 l) El Comité Técnico de la Orquesta Filarmónica de Jalisco;
 
-m) Uno de cada una de las regiones que conforman el Estado de Jalisco; y (sic)
+m) Uno de cada una de las regiones que conforman el Estado de Jalisco; y
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -477,7 +483,7 @@ f) Tres representantes de música;
 
 g) Tres representantes de artesanías;
 
-h) Tres representantes de cultura popular; y (sic)
+h) Tres representantes de cultura popular; y
 
 i) Tres representantes de culturas indígenas.
 
@@ -505,7 +511,7 @@ V. Un representante de la Universidad de Guadalajara;
 
 VI. Un representante del Colegio de Jalisco;
 
-VII. Un representante de la Benemérita Sociedad de Geografía y Estadística, Capítulo Jalisco; y (sic)
+VII. Un representante de la Benemérita Sociedad de Geografía y Estadística, Capítulo Jalisco; y
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -521,7 +527,9 @@ En el Reglamento de esta Ley se establecerán las disposiciones relativas al fun
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
-Artículo 20 bis.- Para la elección del Presidente del Consejo, deberá seguirse el siguiente procedimiento:
+###### Artículo 20 Bis.
+
+Para la elección del Presidente del Consejo, deberá seguirse el siguiente procedimiento:
 
 I. Los consejeros elegirán de entre ellos mismos y mediante el voto de las dos terceras partes de los consejeros presentes, a quien consideren tiene el perfil y la aptitud necesarias para ocupar el cargo de Presidente; y
 
@@ -565,7 +573,7 @@ XII. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 El Consejo sesionará en forma ordinaria y extraordinaria. Celebrará tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de su Presidente o de una tercera parte de sus integrantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO,[N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, [N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -749,7 +757,9 @@ VI. Otorgar los premios, estímulos o reconocimientos a quienes se distingan en 
 
 VII. Promover las actividades de concertación pertinentes para unificar programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado.
 
-### Capítulo II. De la cultura popular, festividades y tradiciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2015)</small>
+
+### Capítulo II. De la Cultura Popular, Urbana, Festividades y Tradiciones
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -762,6 +772,18 @@ Se declara de interés público la preservación de las tradiciones, costumbres,
 ###### Artículo 37.
 
 Las autoridades estatales y municipales se coordinarán para la elaboración y actualización de un registro de las festividades y manifestaciones populares que se realizan en la entidad, haciéndolo del conocimiento del Sistema y del Consejo.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2015)</small>
+
+###### Artículo 37 Bis.
+
+Por cultura urbana se entienden todas las expresiones y manifestaciones que comparten los individuos en un determinado espacio urbano; entre las que se encuentran la música, la forma de vestir, el arte, toda expresión resultante de la combinación de destrezas físicas o artísticas ya sea en forma unipersonal o grupal, las maneras de comunicarse y cualquier manifestación de esta índole que se desarrolle en espacios públicos.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2015)</small>
+
+###### Artículo 37 Ter.
+
+El Estado y los municipios promoverán la apertura y utilización de espacios públicos, para el desarrollo de las expresiones culturales urbanas, así como la creación de concursos, exposiciones y festivales.
 
 ### Capítulo III. Del fomento al libro y la lectura
 
@@ -1018,3 +1040,7 @@ SEGUNDO. El Poder Ejecutivo del Estado tendrá un plazo no mayor de seis meses p
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MARZO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
