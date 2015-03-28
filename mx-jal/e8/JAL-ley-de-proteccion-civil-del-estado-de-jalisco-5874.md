@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2014-12-02"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -71,151 +71,99 @@ El Ejecutivo del Estado podrá establecer una partida especial llamada Fondo Est
 
 La prevención así como las acciones de auxilio a la población y restablecimiento de los servicios públicos vitales en condiciones de emergencia, son funciones de carácter público que deben atender el Estado y los municipios a través de la Unidad Estatal o Municipal, y de los organismos y dependencias que se requieran y que para ello se instituyan, conforme las atribuciones que define la presente ley, promoviendo la participación de la sociedad civil.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 4.
 
 Para los efectos de esta ley, se entiende por:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+I. Actividades pirotécnicas: la fabricación, uso, venta, transporte, almacenamiento, comercialización y exhibición de objetos pirotécnicos;
 
-I. Siniestro: determinado evento concentrado en tiempo y espacio, en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial, de tal manera que afecta su vida normal;
+II. Acumulación de riesgos: situación que suma o encadena los peligros que conllevan a un riesgo pudiendo ser dentro de un espacio específico o un objetivo técnico en una zona determinada por los alcances del daño que puedan ocasionar las acciones de la naturaleza y los productos o materiales utilizados por el género humano, animal o vegetal;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+III. Afectado: personas, sistemas o territorios sobre los cuales actúa un fenómeno, y cuyos efectos sean perturbaciones o daños;
 
-II. Desastre: determinado evento concentrado en tiempo y espacio en el cual una sociedad o una parte de ella sufre un daño severo o pérdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;
+IV. Agente pirotécnico: persona física o moral dedicada a las actividades pirotécnicas;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+V. Albergue: lugar físico destinado a prestar asilo, amparo, alojamiento y resguardo a personas ante la amenaza, inminencia u ocurrencia de un fenómeno destructivo;
 
-III. Alto riesgo: la probable o inminente ocurrencia de un siniestro o desastre;
+VI. Albergue permanente: aquel, que dependiendo del tipo de calamidad, rebasa su operación por más de treinta días de duración;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+VII. Albergue provisional: aquel, que dependiendo del tipo de calamidad, no rebasa su operación treinta días de duración;
 
-IV. Prevención: las acciones dirigidas a identificar y controlar riesgos, evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
+VIII. Alerta: mensaje de advertencia de una situación de riesgo latente;
 
-V. Auxilio: al conjunto de acciones destinadas primordialmente a rescatar y salvaguardar la integridad física de las personas, sus bienes y el medio ambiente;
+IX. Alto riesgo: la probable o inminente ocurrencia de un siniestro o desastre;
 
-VI. Recuperación o restablecimiento: a las acciones encaminadas a volver a las condiciones de normalidad, una vez que ha pasado el siniestro o desastre;
+X. Artificios pirotécnicos: los ingenios o artificios cargados de materias o mezclas pirotécnicas, generalmente de flagrantes;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XI. Atlas de Riesgos: documento que establece los peligros y estudios de vulnerabilidad de una superficie determinada, en la que la interpolación de estas dos variables permite conocer en forma cualitativa y cuantitativa el riesgo existente. Dicho instrumento de prevención proyectará los escenarios de riesgo a corto, mediano y largo plazo y servirá de base referencial para delimitar la planeación urbana, turística e industrial; crecimiento urbano;
 
-VII. Riesgo: es el resultado de calcular la potencial acción de una amenaza con las condiciones de vulnerabilidad de una comunidad o sistema;
+XII. Auxilio: al conjunto de acciones destinadas primordialmente a rescatar y salvaguardar la integridad física de las personas, sus bienes y el medio ambiente;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XIII. Castillería pirotécnica: artificios pirotécnicos que por sus riesgos; su uso, venta, transporte, almacenamiento y exhibición quedan reservados a los profesionales de la pirotecnia;
 
-VIII. Requisa: Acto unilateral de la administración pública consistente en posesionarse de bienes de los particulares o en exigirles a estos mismos la prestación de algún trabajo lícito o servicio para asegurar el cumplimiento de algún servicio de interés público, en casos extraordinarios y urgentes;
+XIV. Consultor: persona experta en la materia de protección civil con capacidad debidamente acreditada ante la Unidad Estatal de Protección Civil y Bomberos o la Unidad Municipal conforme a la competencia que señalan los reglamentos para la realización de estudios de riesgos y programas específicos en materia de protección civil y que presta sus servicios profesionales a terceros;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XV. Desastre: determinado evento concentrado en tiempo y espacio en el cual una sociedad o una parte de ella sufre un daño severo o pérdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;
 
-IX. Alerta: Mensaje de advertencia de una situación de riesgo latente;
+XVI. Emergencia: situación súbita que requiere de atención urgente e inmediata;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XVII. Establecimiento pirotécnico: espacio físico donde se fabrican, almacena (sic) y comercializan objetos pirotécnicos.
 
-X. Emergencia: Situación súbita que requiere de atención urgente e inmediata;
+XVIII. Estudio de riesgo: documento que integra la caracterización de riesgos, y la información técnica empleada en su evaluación; las premisas y criterios aplicados; la metodología de análisis empleada; limitaciones del estudio y el catálogo de los escenarios de riesgos, entre otros, que debe considerar los riesgos internos y externos de origen antropogénicos y naturales, además de que debe identificar peligros o condiciones peligrosas en los materiales y sustancias o en los procesos; analizar y modelar las consecuencias en caso de fuga o falla y la frecuencia con que pueden ocurrir, y caracterizar y jerarquizar el riesgo resultante a fin de determinar la posibilidad de pérdida tanto en vidas humanas como en bienes o en capacidad de producción;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XIX. Exposición: se refiere a la cantidad de personas, bienes y sistemas que se encuentran en el sitio y que son factibles de ser dañados;
 
-XI. Afectado: Personas, sistemas o territorios sobre los cuales actúa un fenómeno, y cuyos efectos sean perturbaciones o daños;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XII. Refugio temporal o transitorio: Aquel, que dependiendo del tipo de calamidad, opera por tiempos cortos definidos y no rebasa una semana de instalación;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XIII. Albergue provisional: Aquel, que dependiendo del tipo de calamidad, no rebasa su operación treinta días de duración;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XIV. Albergue permanente: Aquel, que dependiendo del tipo de calamidad, rebasa su operación por más de treinta días de duración;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XV. Vulnerabilidad: Ente o ser que es propenso de afectación, susceptible de sufrir daños por situación de riesgo;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XVI. Programa de Protección Civil: documento elaborado para hacer frente a los fenómenos destructivos cuyo contenido refiere las acciones preventivas, de respuesta a la emergencia, de recuperación inicial y de reconstrucción;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XVII. Fenómenos destructivos: los enunciados en los grupos del orden geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico y socio-organizativo y las subdivisiones de éstos;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XVIII. Zona de amortiguamiento: el espacio que debe de existir para evitar que se intercepten dos o más áreas que puedan representar riesgo o peligro;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XIX. Zona de Riesgo: espacio territorial donde persiste amenaza de un accidente o acción susceptible de causar daño o perjuicio a alguien o a algo, derivado de circunstancias que se pueden prever pero no eludir;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
-
-XX. Voluntario: persona que por propia voluntad participa en las actividades operativas de la protección civil, generalmente recibe una capacitación básica para cumplir con eficiencia las labores que se le asignan;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XX. Fenómenos destructivos: los enunciados en los grupos del orden geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico y socio-organizativo y las subdivisiones de éstos;
 
 XXI. Grupo de Voluntarios: asociación de personas que coadyuvan en las tareas operativas de protección civil, generalmente durante la emergencia; junto con la población, integran la organización participativa del Sistema Nacional de Protección Civil;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XXII. Juguetería pirotécnica: artificios pirotécnicos que por sus características, puede ser de acceso generalizado;
 
-XXII. Atlas de Riesgos: documento que establece los peligros y estudios de vulnerabilidad de una superficie determinada, en la que la interpolación de estas dos variables permite conocer en forma cualitativa y cuantitativa el riesgo existente. Dicho instrumento de prevención proyectará los escenarios de riesgo a corto, mediano y largo plazo y servirá de base referencial para delimitar la planeación urbana, turística e industrial; crecimiento urbano.
+XXIII. Materias pirotécnicas: materias o mezclas de materias destinadas a producir efectos caloríficos, luminosos, sonoros, gaseosos o fumígenos, o con una combinación de estos efectos, como consecuencia de reacciones químicas exotérmicas o autosostenidas detonantes y no detonantes;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XXIV. Objetos pirotécnicos: materiales, artificios, juguetería y castillería pirotécnicos;
 
-XXIII. Peligro: es la ocurrencia de un proceso o un evento, natural o inducido por el hombre, con el potencial de crear pérdidas.
+XXV. Peligro: es la probabilidad de que un área en particular sea afectada por algunas de las manifestaciones destructivas de la calamidad; ya sea por la ocurrencia de un proceso o un evento, natural o inducido por el hombre, con el potencial de crear pérdidas;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XXVI. Prevención: las acciones dirigidas a identificar y controlar riesgos, evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
 
-XXIV. Albergue: Lugar físico destinado a prestar asilo, amparo, alojamiento y resguardo a personas ante la amenaza, inminencia u ocurrencia de un fenómeno destructivo;
+XXVII. Programa de Protección Civil: documento elaborado para hacer frente a los fenómenos destructivos cuyo contenido refiere las acciones preventivas, de respuesta a la emergencia, de recuperación inicial y de reconstrucción;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XXVIII. Programa Específico de Protección Civil: aquel que se circunscribe al ámbito de una dependencia, entidad, institución y organismo, pertenecientes a los sectores público (sic) en sus tres ámbitos de gobierno, privado y social y se aplica en los inmuebles correspondientes con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital ante la ocurrencia de una calamidad.
 
-XXV. Acumulación de riesgos: Situación que suma o encadena los peligros que conllevan a un riesgo pudiendo ser dentro de un espacio especifico o un objetivo técnico en una zona determinada por los alcances del daño que puedan ocasionar las acciones de la naturaleza y los productos o materiales utilizados por el género humano, animal o vegetal;
+XXIX. Programa Externo de Protección Civil o Programa General: el que se dirige a proteger a la población, sus bienes y su entorno ante la presencia de fenómenos destructivos de origen natural o humano. De conformidad con su ámbito de acción, estos programas pueden ser:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+a) Estatal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área de una entidad federativa, y conlleva la participación de las autoridades gubernamentales y de los sectores privado y social correspondientes; y
 
-XXVI. Unidad Estatal: Unidad Estatal de Protección Civil y Bomberos; y (sic)
+b) Municipal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área del municipio, y conlleva la participación de las autoridades, de los sectores privado y social y de la población en general circunscrita a ese ámbito;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XXX. Recuperación o restablecimiento: a las acciones encaminadas a volver a las condiciones de normalidad, una vez que ha pasado el siniestro o desastre;
 
-XXVII. Reglamento: el Reglamento de la Ley Estatal de Protección Civil del Estado de Jalisco.
+XXXI. Refugio temporal o transitorio: aquel, que dependiendo del tipo de calamidad, opera por tiempos cortos definidos y no rebasa una semana de instalación;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+XXXII. Reglamento: el Reglamento de la Ley Estatal de Protección Civil del Estado de Jalisco.
 
-XXVIII. Consultor: persona experta en la materia de protección civil con capacidad debidamente acreditada ante la Unidad Estatal de Protección Civil y Bomberos o la Unidad Municipal conforme a la competencia que señalan los reglamentos para la realización de estudios de riesgos y programas específicos en materia de protección civil y que presta sus servicios profesionales a terceros;
+XXXIII. Requisa: acto unilateral de la administración pública consistente en posesionarse de bienes de los particulares o en exigirles a estos mismos la prestación de algún trabajo lícito o servicio para asegurar el cumplimiento de algún servicio de interés público, en casos extraordinarios y urgentes;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+XXXIV. Riesgo: es el resultado de calcular la potencial acción de una amenaza con las condiciones de vulnerabilidad de una comunidad o sistema; de manera cualitativa es la probabilidad de ocurrencia de daños, pérdidas o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia del impacto de eventos o fenómenos perturbadores, y de manera cuantitativa se puede representar de forma matemática como: riesgo = vulnerabilidad x valor x peligro;
 
-XXIX. Estudio de riesgo: documento que integra la caracterización de riesgos, y la información técnica empleada en su evaluación; las premisas y criterios aplicados; la metodología de análisis empleada; limitaciones del estudio y el catálogo de los escenarios de riesgos, entre otros, que debe considerar los riesgos internos y externos de origen antropogénicos y naturales, además de que debe identificar peligros o condiciones peligrosas en los materiales y sustancias o en los procesos; analizar y modelar las consecuencias en caso de fuga o falla y la frecuencia con que pueden ocurrir, y caracterizar y jerarquizar el riesgo resultante a fin de determinar la posibilidad de pérdida tanto en vidas humanas como en bienes o en capacidad de producción;
+XXXV. Siniestro: determinado evento concentrado en tiempo y espacio, en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial, de tal manera que afecta su vida normal;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+XXXVI. Unidad Estatal: Unidad Estatal de Protección Civil y Bomberos;
 
-XXX. Riesgo: de manera cualitativa es la probabilidad de ocurrencia de daños, pérdidas o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia del impacto de eventos o fenómenos perturbadores, y de manera cuantitativa se puede representar de forma matemática como: riesgo = vulnerabilidad x valor x peligro;
+XXXVII. Voluntario: persona que por propia voluntad participa en las actividades operativas de la protección civil, generalmente recibe una capacitación básica para cumplir con eficiencia las labores que se le asignan;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+XXXVIII. Vulnerabilidad: es la susceptibilidad o propensión de los sistemas expuestos a ser afectados o dañados por el efecto de un fenómeno perturbador, es decir, el grado de pérdidas esperadas, que puede ser expresado en porcentaje;
 
-XXXI. Peligro: es la probabilidad de que un área en particular sea afectada por algunas de las manifestaciones destructivas de la calamidad:
+XXXIX. Vulnerable: ente o ser que es propenso de afectación, susceptible de sufrir daños por situación de riesgo;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+XL. Zona de amortiguamiento: el espacio que debe de existir para evitar que se intercepten dos o más áreas que puedan representar riesgo o peligro;
 
-XXXII. Vulnerabilidad: es la susceptibilidad o propensión de los sistemas expuestos a ser afectados o dañados por el efecto de un fenómeno perturbador, es decir, el grado de pérdidas esperadas, que puede ser expresado en porcentaje;
+XLI. Zona de Riesgo: espacio territorial donde persiste amenaza de un accidente o acción susceptible de causar daño o perjuicio a alguien o a algo, derivado de circunstancias que se pueden prever pero no eludir; y
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
-
-XXXIII Exposición: se refiere a la cantidad de personas, bienes y sistemas que se encuentran en el sitio y que son factibles de ser dañados;
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
-
-XXXIV. Programa Externo de Protección Civil o Programa General: el que se dirige a proteger a la población, sus bienes y su entorno ante la presencia de fenómenos destructivos de origen natural o humano. De conformidad con su ámbito de acción, estos programas pueden ser:
-
-a) Estatal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área de una entidad federativa, y conlleva la participación de las autoridades gubernamentales y de los sectores privado y social correspondientes, y
-
-b) Municipal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área del municipio, y conlleva la participación de las autoridades, de los sectores privado y social y de la población en general circunscrita a ese ámbito.
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
-
-XXXV. Programa Específico de Protección Civil: aquel que se circunscribe al ámbito de una dependencia, entidad, institución y organismo, pertenecientes a los sectores público en sus tres ámbitos de gobierno, privado y social y se aplica en los inmuebles correspondientes con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital ante la ocurrencia de una calamidad.
+XLII. Zonas pirotécnicas de riesgo: espacios físicos, no urbanos en los que se procesan o almacenan sustancias pirotécnicas consideradas como productos controlados o de riesgo por parte de las Autoridades Federales competentes mediante la emisión de Normas Oficiales.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
@@ -463,7 +411,7 @@ XVIII. Aplicar las disposiciones de esta ley e instrumentar sus programas en coo
 
 XIX. Vigilar a través de la Unidad Municipal de Protección Civil, el cumplimiento de esta Ley por parte de las instituciones, organismos y empresas de los sectores público, social y privado, en el ámbito de su competencia y de conformidad con los convenios de coordinación que celebre con el Estado y la Federación;
 
-XX. Tramitar y resolver el recurso administrativo previsto en esta Ley; y (sic)
+XX. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
 
 XXI. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables;
 
@@ -615,7 +563,7 @@ IV. El Programa Estatal y planes de protección civil;
 
 V. Los programas municipales y sus planes de protección civil;
 
-VI. Los programas institucionales; y (sic)
+VI. Los programas institucionales; y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -777,43 +725,53 @@ e) (DEROGADO, P.O. 3 DE JULIO DE 2004)
 
 V. Un representante por cada una de las dependencias del Poder Ejecutivo Estatal siguientes:
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2015)</small>
 
 a) Fiscalía General;
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2015)</small>
 
 b) Secretaría de Infraestructura y Obra Pública;
 
-c) Desarrollo Integral de la Familia DIF Jalisco;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+c) Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
 
-d) Secretaría del Medio Ambiente y Desarrollo Territorial SEMADET;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
-e) Secretaría de Salud SS;
+d) Secretaría del Medio Ambiente y Desarrollo Territorial;
 
-f) Secretaría de Desarrollo Rural SEDER;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+e) Secretaría de Salud;
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+
+f) Secretaría de Desarrollo Rural;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2015)</small>
 
 g) Secretaría de Planeación, Administración y Finanzas;
 
-h) (DEROGADO, P.O. 2 DE DICIEMBRE DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2015)</small>
 
-i) Secretaría de Educación SE;
+h) Secretaría de Innovación, Ciencia y Tecnología;
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+
+i) Secretaría de Educación;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2015)</small>
 
 j) Secretaría de Desarrollo e Integración Social;
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
-k) Comisión Estatal de Agua y Saneamiento; y
+k) Comisión Estatal del Agua; e
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
-l) Inmobiliaria y Promotora de Vivienda de Interés Público del Estado.
+l) Instituto Jalisciense de la Vivienda.
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
@@ -1065,7 +1023,7 @@ I. Una Junta de Gobierno que se integrará por un Presidente que será designado
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-II. El Centro Estatal de Operaciones; y (sic)
+II. El Centro Estatal de Operaciones; y
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
@@ -1079,11 +1037,11 @@ IV. El Centro de Análisis del Riesgo.
 
 El Reglamento Interno de la Unidad Estatal determinará su estructura orgánica, atribuciones específicas y procedimientos de operación.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 37.
 
-La Fiscalía General del Estado dispondrá se adscriba a la Unidad Estatal, una agencia del Ministerio Público especializada en esta materia.
+La Fiscalía General dispondrá se adscriba a la Unidad Estatal, una agencia del Ministerio Público especializada en esta materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1103,9 +1061,9 @@ III. Identificar los riesgos que se presentan en la entidad integrando el Atlas 
 
 IV. Establecer y ejecutar los subprogramas básicos de prevención, auxilio y recuperación o restablecimiento;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-V. Promover, estructurar programas y realizar acciones de educación, capacitación y difusión a la comunidad en materia de simulacros, señalización y uso de equipos de seguridad personal para la protección civil, proponer programas específicos ante la Secretaría de Educación impulsando la formación del personal que pueda ejercer esas funciones con la acreditación y aval correspondiente, así como realizar convenios con instituciones de educación superior, organismos internacionales o gobiernos extranjeros a través de los conductos correspondientes, para que los mejores elementos adscritos a la unidad de protección civil o a los cuerpos voluntarios se puedan capacitar tanto en México como en el extranjero a través de becas de intercambios o participación;
+V. Promover, estructurar programas y realizar acciones de educación, capacitación y difusión a la comunidad en materia de simulacros, señalización y uso de equipos de seguridad personal para la protección civil, proponer programas específicos ante las Secretarías de Educación y de Innovación, Ciencia y Tecnología impulsando la formación del personal que pueda ejercer esas funciones con la acreditación y aval correspondiente, así como realizar convenios con instituciones de educación superior, organismos internacionales o gobiernos extranjeros a través de los conductos correspondientes, para que los mejores elementos adscritos a la unidad de protección civil o a los cuerpos voluntarios se puedan capacitar tanto en México como en el extranjero a través de becas de intercambios o participación;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1139,7 +1097,7 @@ XII. Establecer y operar los centros de acopio para recibir y proporcionar ayuda
 
 XIII. Practicar inspecciones, en la forma y términos que establece esta ley, a fin de vigilar elcumplimiento (sic) de las disposiciones legales y reglamentarias en materia de protección civil. Para el efecto, la Unidad Estatal propondrá al titular del Poder Ejecutivo las medidas de seguridad que sea necesario establecer en la legislación local;
 
-XIV. Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil; y (sic)
+XIV. Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil; y
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1147,15 +1105,67 @@ XV. Operar dentro de su estructura el Centro de Análisis del Riesgo, integrando
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
-XVI. Convocar semestralmente a encuentros con las unidades municipales existentes de la entidad, a efecto de actualizar conocimientos, intercambiar experiencias, homologar criterios, coordinar planes y programas; y (sic)
+XVI. Convocar semestralmente a encuentros con las unidades municipales existentes de la entidad, a efecto de actualizar conocimientos, intercambiar experiencias, homologar criterios, coordinar planes y programas; y
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-XVII. Evaluar y emitir los dictámenes favorables de los programas específicos de protección civil y, en su caso, aprobar o negar los estudios de riesgo, según sea el caso, emitiendo el dictamen correspondiente, y
+XVII. Evaluar y emitir los dictámenes de los programas específicos de protección civil y, en su caso, aprobar o negar los estudios de riesgo, según corresponda, emitiendo el dictamen respectivo;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-XVIII. Las demás que dispongan los reglamentos, programas y convenio o que le asigne el Consejo Estatal de Protección Civil.
+XVIII. Coordinarse, en el ámbito de sus atribuciones, con las autoridades competentes en la elaboración, aplicación y evaluación de programas de atención integral para los agentes pirotécnicos;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XIX. Registrar en un padrón a los agentes pirotécnicos en el Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XX. Verificar, en coordinación con la Secretaría de la Defensa Nacional en los términos del convenio de colaboración respectivo, que los agentes pirotécnicos reúnan las condiciones de seguridad para desempeñar actividades pirotécnicas y solicitar el dictamen de seguridad correspondiente;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXI. Vigilar las medidas de seguridad para las actividades pirotécnicas y el certificado de seguridad municipal, y en su caso, cuando hayan cambiado las condiciones de seguridad correspondientes, dar aviso a la Secretaría de la Defensa Nacional, y en su caso, aplicar las medidas de seguridad establecidas en la presente ley;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXII. Otorgar la constancia correspondiente a los agentes pirotécnicos que cumplan con las condiciones que se señalen en el dictamen de seguridad que emita la autoridad municipal;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXIII. Llevar un registro de los dictámenes de seguridad y certificaciones solicitados y presentados por los pirotécnicos;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXIV. Informar de inmediato a la Secretaría de la Defensa Nacional y demás autoridades federales y estatales competentes para ejecutar las medidas de seguridad necesarias, cuando se detecten establecimientos clandestinos dedicados a las actividades pirotécnicas;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXV. Requerir a los agentes pirotécnicos la elaboración del estudio de riesgo para su evaluación e instrumentar las estrategias y medidas preventivas y de seguridad necesarias en función de los riesgos derivados de las actividades pirotécnicas;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXVI. Coordinarse conjuntamente con las autoridades competentes, en el ámbito de sus respectivas competencias, y asesorar a los municipios que lo soliciten, respecto de las acciones preventivas en zonas y lugares de riesgo donde se exhiban, quemen y comercialicen objetos pirotécnicos;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXVII. Coordinarse conjuntamente con las autoridades competentes, así como asesorar a los municipios que lo soliciten, respecto de la creación y establecimiento de zonas pirotécnicas de riesgo en el Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXVIII. Promover ante las instancias competentes, la realización de estudios e investigaciones pirotécnicas, para generar información estadística y difundir los resultados entre la población y las autoridades;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXIX. Coordinarse, en el ámbito de sus atribuciones, con las autoridades competentes para desarrollar programas y acciones de difusión, capacitación, especialización, formación y asistencia técnica, dirigidos a los agentes pirotécnicos, así como a la población en general;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXX. Coordinarse con las autoridades competentes para instrumentar las acciones necesarias para el cumplimiento de esta ley; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XXXI. Las demás que dispongan los reglamentos, programas y convenios o que le asigne el Consejo Estatal de Protección Civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1219,7 +1229,7 @@ V. Ordenar visitas domiciliarias, así como autorizar al personal adscrito a la 
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
-VI. Convocar y presidir las reuniones semestrales con las unidades municipales de protección civil en la Entidad; y (sic)
+VI. Convocar y presidir las reuniones semestrales con las unidades municipales de protección civil en la Entidad; y
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1235,11 +1245,11 @@ IX. Establecer los mecanismos para la recaudación de los ingresos económicos a
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
-X. Administrar y aplicar los recursos económicos del fondo Estatal de Desastres Naturales en forma eficiente y en base a lo que establezcan las Reglas de Operación que para tal efecto se expidan; y (sic)
+X. Administrar y aplicar los recursos económicos del fondo Estatal de Desastres Naturales en forma eficiente y en base a lo que establezcan las Reglas de Operación que para tal efecto se expidan; y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
-XI. Todas las demás que le confieran esta Ley, El (sic) consejo Estatal y otras disposiciones legales.
+XI. Todas las demás que le confieran esta Ley, El consejo Estatal y otras disposiciones legales.
 
 XII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2006)
 
@@ -1329,7 +1339,7 @@ Los grupos voluntarios deberán organizarse con base en los aspectos siguientes:
 
 I. Territorial. Formados por los habitantes de una colonia, zona, centro de población, municipio, región del Estado en su conjunto;
 
-II. Profesional o de oficio. Constituidos de acuerdo a la profesión que tengan o al oficio que desempeñen; y (sic)
+II. Profesional o de oficio. Constituidos de acuerdo a la profesión que tengan o al oficio que desempeñen; y
 
 III. Actividad específica. Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de rescate, de salvamento, de evacuación u otras;
 
@@ -1417,7 +1427,7 @@ I. De prevención;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
-II. De Auxilio; y (sic)
+II. De Auxilio; y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1559,11 +1569,11 @@ El Consejo Estatal y los consejos municipales realizarán campañas permanentes 
 
 El Consejo Estatal promoverá ante las autoridades educativas, que se proporcione información y capacitación en materia de protección civil con la colaboración de la Unidad Estatal y la unidad municipal que corresponda, y fomentará este tipo de acciones en organismos sociales y asociaciones de vecinos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 73.
 
-El Sistema Educativo Estatal implementará en todas las escuelas de la entidad, el Programa Nacional de Seguridad Emergencia Escolar, coordinado por la Secretaría de Educación.
+El Sistema Educativo Estatal implementará en todas las escuelas de la entidad, el Programa Nacional de Seguridad de Emergencia Escolar, coordinado por las Secretarías de Educación y de Innovación, Ciencia y Tecnología, en su respectivo ámbito de atribuciones.
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1993)</small>
 
@@ -1699,7 +1709,7 @@ IV. Posteriormente, se le requerirá al visitado para que designe a dos testigos
 
 V. Las visitas domiciliarias podrán durar un máximo de cinco días naturales y deberán realizarse de forma continua desde su inicio hasta el final, pudiendo prorrogar este término hasta por un tanto más siempre y cuando se justifique la urgente necesidad de la medida, habiendo recesos por razones necesarias o fuerza mayor, debiendo asentar en el acta estas circunstancias. Sólo habrá recesos de máximo treinta minutos por cada ocho horas durante el término que dure la visita.
 
-Solamente las personas autorizadas podrán realizar la visita, sin embargo, éstos no tendrán la obligación de estar presentes durante todo el tiempo que dure la misma, siempre y cuando por lo menos una de estas la continúe. La misma situación será aplicable para los testigos, propietarios, poseedores, representantes legales, encargado y/o dependiente del inmueble, negociación o centro laboral.
+Solamente las personas autorizadas podrán realizar la visita, sin embargo, éstos (sic) no tendrán la obligación de estar presentes durante todo el tiempo que dure la misma, siempre y cuando por lo menos una de estas la continúe. La misma situación será aplicable para los testigos, propietarios, poseedores, representantes legales, encargado y/o dependiente del inmueble, negociación o centro laboral.
 
 VI. De toda visita se levantará acta en la que constarán los hechos, omisiones y circunstancias de carácter concreto que se hubieren encontrado durante el desarrollo de la misma.
 
@@ -1777,7 +1787,7 @@ II. Multa por el equivalente de hasta veinticuatro mil días de salario mínimo 
 
 III. Arresto administrativo hasta por treinta y seis horas;
 
-IV. Decomiso definitivo de materiales, bienes muebles, animales o residuos de éstos, directamente relacionados con las infracciones generadas de siniestros, desastres, riesgos, altos riesgos, fenómenos destructivos y peligro; y (sic)
+IV. Decomiso definitivo de materiales, bienes muebles, animales o residuos de éstos, directamente relacionados con las infracciones generadas de siniestros, desastres, riesgos, altos riesgos, fenómenos destructivos y peligro; y
 
 V. Suspensión o revocación de permisos, licencias o autorizaciones que se hubieran otorgado por la Unidad Estatal o municipal;
 
@@ -1821,11 +1831,11 @@ VII. El beneficio directo o indirecto, que haya obtenido o pueda obtener el infr
 
 VIII. El cumplimiento que realice el infractor respecto de las medidas de seguridad o de las relativas a subsanar las conductas infractoras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
 ###### Artículo 83.
 
-Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Planeación, Administración y Finanzas o la Tesorería Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda.
+Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Planeación, Administración y Finanzas o la Oficina de la Hacienda Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse a el procedimiento económico coactivo, se sujetará a las disposiciones de las leyes hacendarias aplicables.
 
@@ -2074,3 +2084,15 @@ P.O. 12 DE OCTUBRE DE 2013.
 P.O. 2 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MARZO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Decreto 20580 que crea el Instituto Jalisciense de la Pirotecnia.
+
+TERCERO. Se autoriza a la Secretaría de Planeación, Administración y Finanzas y a las demás autoridades competentes, a realizar las gestiones y actos jurídicos necesarios para el cumplimiento de este Decreto.
+
+CUARTO. Las solicitudes y demás trámites que, hasta antes de la entrada en vigor del presente Decreto, hayan sido entablados ante el Instituto Jalisciense de la Pirotecnia, se seguirán sustanciando y resolverán por la Unidad Estatal de Protección Civil y Bomberos, aplicando las disposiciones vigentes al momento de su iniciación.
+
+QUINTO. Las dependencias de la Administración Pública Estatal, en el respectivo ámbito de sus competencias, promoverán los productos pirotécnicos jaliscienses y el fortalecimiento de sus organizaciones, así mismo fomentarán su comercialización, considerado (sic) integralmente los procesos de fabricación, transportación, almacenamiento y medidas de seguridad.
