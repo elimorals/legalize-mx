@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-de-informacion-estadistica-y-96852"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-07"
-last_updated: "2013-12-07"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 2013.
 
@@ -71,9 +71,17 @@ II. Diseñar, constituir, desarrollar, establecer, operar, administrar, resguard
 
 III. Fungir como órgano de consulta de las instituciones públicas y del público en general respecto de la Información Estadística;
 
-IV. Coordinar las acciones en la materia con las instituciones públicas para que la información mantenga una estructura conceptual homogénea, sea comparable, veraz y oportuna; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-V. Coadyuvar con la dependencia estatal responsable de la innovación tecnológica gubernamental en el establecimiento de los lineamientos y políticas en la materia de las tecnologías de información, con la finalidad de generar e igualar criterios; así como optimizar procesos y recursos inherentes a la generación de información estadística.
+IV. Coordinar las acciones en la materia con las instituciones públicas para que la información mantenga una estructura conceptual homogénea, sea comparable, veraz y oportuna;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
+
+V. Coadyuvar con la dependencia estatal responsable de la innovación tecnológica gubernamental en el establecimiento de los lineamientos y políticas en la materia de las tecnologías de información, con la finalidad de generar e igualar criterios; así como optimizar procesos y recursos inherentes a la generación de información estadística; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2015)</small>
+
+VI. Coadyuvar con las autoridades competentes respecto a la delimitación territorial de los Municipios del Estado de Jalisco y entre las entidades colindantes.
 
 ###### Artículo 4.
 
@@ -155,9 +163,17 @@ XVII. Realizar estudios especiales que se le encomienden, con la finalidad de qu
 
 XVIII. Coordinarse con las autoridades federales y municipales para el cumplimiento del objeto de la presente ley;
 
-XIX. Elaborar su Reglamento interior; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
 
-XX. Las demás que resulten necesarias para la consecución de sus objetivos, así como las que se establezcan en otras disposiciones jurídicas aplicables.
+XIX. Elaborar su Reglamento interior;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
+
+XX. Participar en auxilio y asesoría técnica a las autoridades competentes, en deslinde, descripción y trazo de los límites divisorios entre el Estado y las entidades colindantes, así como de los límites de los municipios que lo integran; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2015)</small>
+
+XXI. Las demás que resulten necesarias para la consecución de sus objetivos, así como las que se establezcan en otras disposiciones jurídicas aplicables.
 
 ### Capítulo IV. Patrimonio del Instituto
 
@@ -464,3 +480,9 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2015.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
