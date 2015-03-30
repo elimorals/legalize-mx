@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-evaluacion-educativa-56763
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-22"
-last_updated: "2007-08-22"
+last_updated: "2015-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACION EDUCATIVA DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACION EDUCATIVA DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACIÓN EDUCATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACIÓN EDUCATIVA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 22 de agosto de 2007.
 
@@ -31,7 +33,7 @@ LICENCIADO ENRIQUE PEÑA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO,
 
 C O N S I D E R A N D O...
 
-En mérito de lo expuesto, he tenido ha bien expedir el siguiente:
+En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACIÓN EDUCATIVA DEL ESTADO DE MÉXICO
 
@@ -244,3 +246,17 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE MARZO DE 2015.
+
+PRIMERO.- El presente Reglamento será publicado en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las funciones de control serán ejercidas por la Secretaría de la Contraloría, hasta en tanto se tenga suficiencia presupuestal para crear la unidad administrativa específica.
+
+CUARTO.- Se abroga el Reglamento Interior del Instituto de Evaluación Educativa del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 22 de agosto de 2007.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
