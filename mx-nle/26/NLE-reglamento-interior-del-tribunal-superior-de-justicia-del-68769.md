@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2014-02-03"
+last_updated: "2015-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -469,19 +469,15 @@ La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas uni
 
 La Quinta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Novena, Décimo Tercera y Décimo Cuarta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO POR EL QUE SE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2015)</small>
 
 ###### Artículo 38.
 
 Competencia de las Salas Colegiadas Civiles. Las Salas Colegiadas Civiles conocerán de cualquier recurso de apelación derivado de los procedimientos de extinción de dominio. Asimismo, serán competentes para conocer de las apelaciones contra sentencias definitivas en materia civil deducidas de los procedimientos que a continuación se indican:
 
-I. Juicios Ordinarios Civiles;
+I. Juicios ordinarios civiles; e,
 
-II. Juicios Especiales de Arrendamiento; e,
-
-III. Informaciones de Dominio.
+II. Informaciones de dominio.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2014)</small>
 
@@ -810,5 +806,11 @@ Las anteriores determinaciones se tomaron en la sesión ordinaria del Pleno del 
 P.O. 3 DE FEBRERO DE 2014.
 
 PRIMERO: Las presentes reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 30 DE MARZO DE 2015.
+
+PRIMERO: La reforma al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenida en este Acuerdo General, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
