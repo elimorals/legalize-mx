@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-102648
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-06"
-last_updated: "2014-12-01"
+last_updated: "2015-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102648&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2014-09-05"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 30 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de octubre de 2014.
 
@@ -920,3 +920,19 @@ Dado en la Ciudad de México, Distrito Federal, a los cinco días del mes de sep
 Atentamente,
 
 El Secretario General, Héctor Franco Rey.- Rúbrica.- El Prosecretario, Javier Delgado Parra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo número 1721, tomado en la sesión ordinaria número ciento siete de la Asamblea General, celebrada los días siete y ocho de abril de dos mil catorce, el cual fue publicado en el Diario Oficial de la Federación el seis de octubre de dos mil catorce.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Estatuto Orgánico entrará en vigor a partir de su aprobación en la sesión ordinaria número ciento ocho, celebrada el día nueve de diciembre de dos mil catorce, de la Asamblea General del Infonavit.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena su publicación en el Diario Oficial de la Federación.
