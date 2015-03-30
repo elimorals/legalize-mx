@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prevencion-y-la-gestion-integral-de-residuos-58189"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2012-04-30"
+last_updated: "2015-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA PREVENCIÓN Y LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -99,7 +99,7 @@ En el ámbito de su respectiva competencia, el ejecutivo del Estado a través de
 
 Para los efectos de la presente Ley, se entenderá por:
 
-l.- Acopio: Acción de reunir los residuos de una o diferentes fuentes para su manejo;
+I.- Acopio: Acción de reunir los residuos de una o diferentes fuentes para su manejo;
 
 II.- Almacenamiento: Retención temporal de los residuos en lugares propicios para prevenir daños al ambiente, los recursos naturales y a la salud de la población en tanto son recolectados para su reutilización, reciclado, co-procesamiento, tratamiento o disposición final;
 
@@ -131,9 +131,9 @@ XIV.- Gestión Integral: Conjunto articulado e interrelacionado de acciones y no
 
 XV.- Impactos Ambientales Significativos: Aquellos provocados por las actividades humanas que sobrepasen los límites permisibles en las normas oficiales mexicanas, las disposiciones ambientales del Estado o bien aquellos producidos por efectos naturales que impliquen daños al ambiente;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2015)</small>
 
-XVI.- Incineración.- Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
+XVI.- Incineración: Proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y el plasma, cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno.
 
 XVII.- LEEPA: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo;
 
@@ -213,7 +213,7 @@ LI.- Valorización: Conjunto de acciones cuyo objetivo es recuperar el valor rem
 
 Son autoridades competentes para la aplicación de la presente Ley:
 
-l.- El Ejecutivo del Estado;
+I.- El Ejecutivo del Estado;
 
 II.- La Secretaría;
 
@@ -263,7 +263,7 @@ XVIII.- Definir estrategias y la realización de acciones de manera coordinada p
 
 XIX.- Imponer las medidas de emergencia necesarias para hacer frente a la contingencia tratándose de contaminación de sitios a causa del incorrecto manejo de los Residuos, de causa fortuita o de fuerza mayor, a efecto de no poner en riesgo la salud o el medio ambiente, sin eximir de las responsabilidades que de esta materia le corresponda a los Municipios;
 
-XX.- Participar en coordinación con el Sistema Estatal de Protección Civil en el marco del Sistema Nacional de Protección Civil y en coordinación con la Federación en el establecimiento y operación de un sistema para la prevención y control de contingencias y emergencias ambientales derivadas de la gestión de Residuos de su competencia; y (sic)
+XX.- Participar en coordinación con el Sistema Estatal de Protección Civil en el marco del Sistema Nacional de Protección Civil y en coordinación con la Federación en el establecimiento y operación de un sistema para la prevención y control de contingencias y emergencias ambientales derivadas de la gestión de Residuos de su competencia; y
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -327,7 +327,7 @@ XXII.- Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento 
 
 XXIII.- Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
 
-XXIV.- Integrar a la política municipal la información y difusión en materia ambiental los asuntos relacionados con la realización del servicio de aseo de su competencia; y (sic)
+XXIV.- Integrar a la política municipal la información y difusión en materia ambiental los asuntos relacionados con la realización del servicio de aseo de su competencia; y
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -705,13 +705,13 @@ Están prohibidos el abandono, el vertido o la eliminación incontrolada de Resi
 
 De acuerdo con esta ley y sin perjuicio de las sanciones establecidas en las disposiciones administrativas civiles o penales aplicables se consideran actividades ilegales de manejo y disposición de residuos o de uso de equipamiento urbano en el Estado:
 
-l.- Arrojarlos o abandonarlos en la vía pública, áreas comunes, lotes baldíos, parques y en general en sitios no autorizados;
+I.- Arrojarlos o abandonarlos en la vía pública, áreas comunes, lotes baldíos, parques y en general en sitios no autorizados;
 
 II.- Arrojarlos a la vía pública o depositarios en los recipientes de almacenamiento de uso público cuando contengan sustancias tóxicas o peligrosas para la salud y el ambiente;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2015)</small>
 
-III.- La incineración de residuos sólidos urbanos;
+III.- La Incineración de residuos sólidos urbanos o de manejo especial o utilizarlos en calderas u otros equipos de combustión sin autorización y de manera contraria a lo dispuesto en esta Ley, la LGPGIR, su reglamento, la normatividad aplicable y las disposiciones en la materia de los Convenios Internacionales de los que México sea parte.
 
 IV.- Arrojarlos al mar o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas;
 
@@ -721,7 +721,7 @@ VI.- Colocar propaganda política en el equipamiento urbano destinado a los serv
 
 VII.- Creación de basureros y tiraderos clandestinos;
 
-VIII.- El depósito o confinamiento fuera de los sitios destinados para dicho fin, en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica y otros lugares no autorizados; y (sic)
+VIII.- El depósito o confinamiento fuera de los sitios destinados para dicho fin, en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica y otros lugares no autorizados; y
 
 IX.- La dilución o mezcla de Residuos Sólidos con líquidos para su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
@@ -957,9 +957,9 @@ En las actividades de manejo, se prohíbe:
 
 I.- Verter Residuos en las vías o lugares públicos, lotes baldíos, barrancas, cañadas, redes de drenaje, cableado eléctrico o telefónico subterráneo, instalaciones de gas, cuerpos de agua, cavidades subterráneas, áreas naturales protegidas o áreas privadas de conservación, así como en todo lugar no autorizado para tales fines;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2015)</small>
 
-II.-· Incinerar residuos de manejo especial o utilizarlos en calderas u otros equipos de combustión sin autorización y de manera contraria a lo dispuesto en esta Ley, la LGPGIR, su Reglamento, la normatividad aplicable y las disposiciones en la materia de los Convenios Internacionales de los que México sea parte;
+II. Incinerar residuos sólidos urbanos o de manejo especial o utilizarlos en calderas u otros equipos de combustión sin autorización y de manera contraria a lo dispuesto en esta Ley, la LGPGIR, su reglamento, la normatividad aplicable y las disposiciones en la materia de los Convenios Internacionales de los que México sea parte;
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
 
@@ -971,19 +971,19 @@ IV.- Disponer Residuos en áreas no autorizadas para dichos fines;
 
 V.- Otorgar a título gratuito en los establecimientos comerciales bolsas de plástico no biodegradable para el transporte de las mercancías; y
 
-> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2012)</small>
+VI. (DEROGADA, P.O. 30 DE MARZO DE 2015)
 
-VI.- Incinerar residuos sólidos urbanos.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2015)</small>
 
 ###### Artículo 72.
 
-Las actividades de tratamiento de Residuos Sólidos Urbanos y de Manejo Especial se llevarán a cabo conforme a lo que establezca esta Ley y su Reglamento; la legislación federal de la materia, las Normas Oficiales Mexicanas y las normas técnicas ambientales estatales, así como las disposiciones reglamentarias que establezcan los municipios.
+Las actividades de tratamiento de residuos sólidos urbanos y de manejo especial se llevarán a cabo conforme a lo que establezca esta Ley y su Reglamento, la legislación federal de la materia, las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales Estatales y su Reglamento, las disposiciones reglamentarias que establezcan los Municipios, así como la normatividad aplicable y las disposiciones en la materia de los Convenios Internacionales de los que México sea parte.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2015)</small>
 
 ###### Artículo 73.
 
-La selección del tratamiento térmico de los residuos de manejo especial solo será posible de no existir la posibilidad de valorizarlos o tratarlos por otros medios de manera ambientalmente adecuada y económicamente viable, siempre y cuando sean autorizados por la Secretaría de acuerdo al reglamento de esta ley y cuando dichos tratamientos cumplan con las disposiciones jurídicas y las disposiciones de los Convenios Internacionales que resulten aplicables.
+La selección del tratamiento térmico de los residuos sólidos urbanos o de manejo especial solo será posible de no existir la posibilidad de valorizarlos o tratarlos por otros medios de manera ambientalmente adecuada y económicamente viable, siempre y cuando sean autorizados por la Secretaría de acuerdo al Reglamento de esta Ley y cuando dichos tratamientos cumplan con las disposiciones jurídicas y las disposiciones de los Convenios Internacionales que resulten aplicables.
 
 ###### Artículo 74.
 
@@ -1398,3 +1398,9 @@ CUARTO.- El Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 9
 P.O. 30 DE ABRIL DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE MARZO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Ejecutivo del Estado y los Ayuntamientos contarán con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente decreto, para realizar la adecuación reglamentaria correspondiente en los mismos términos del presente decreto, la Ley General para la Prevención y Gestión Integral de los Residuos, las Normas Oficiales Mexicanas, los Convenios Internacionales de los que México sea parte y demás normatividad aplicable.
