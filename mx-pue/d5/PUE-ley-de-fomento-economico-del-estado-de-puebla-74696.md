@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-economico-del-estado-de-puebla-74696"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-16"
-last_updated: "2014-03-19"
+last_updated: "2015-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE FOMENTO ECONÓMICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 30 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2015 (ABROGADA).
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de abril de 2010.
 
@@ -1386,3 +1388,49 @@ P.O. 19 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento Económico del Estado de Puebla.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado expedirá el Reglamento y las demás disposiciones que resulten necesarias para el cumplimiento de esta Ley en un término que no exceda de ciento ochenta días naturales contados a partir de la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado deberá convocar al Subcomité referido en el artículo 9 en los términos de la Ley de Planeación para el Desarrollo del Estado y a los Consejos Regionales a que se refiere el artículo 11, en un plazo no mayor a un año contado a partir del día siguiente de la publicación de la Ley.
+
+###### ARTÍCULO SEXTO.
+
+La obligación establecida en el artículo 15 entrará en vigor a partir del primero de enero del año inmediato siguiente a la publicación de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Durante el tiempo comprendido entre la publicación de la Ley y la entrada en vigor de la obligación descrita en el artículo 15, el Gobierno del Estado, a través de la Secretaría, deberá dar difusión, entre las empresas, de la mencionada obligación.
+
+###### ARTÍCULO OCTAVO.
+
+Las empresas que hubieren obtenido incentivos con anterioridad a la publicación de esta Ley no estarán sujetas a ella en lo referente a esos incentivos.
+
+###### ARTÍCULO NOVENO.
+
+Aquellos parques industriales que al momento de la publicación de esta Ley no cuenten con las condiciones de infraestructura necesarias para satisfacer la Norma Oficial Mexicana NMX-R-046-SCFI-2011 contarán con un plazo de hasta dos años para desarrollarla. En caso de no hacerlo, el Gobierno del Estado, en coordinación con los Municipios en los que estén asentados los parques, podrá realizar la inversión en dicha infraestructura cuyo valor cargará de manera proporcional en las cuentas prediales de los predios que conforman el parque industrial.
+
+###### ARTÍCULO DÉCIMO.
+
+Los incentivos otorgados por el Gobierno del Estado previo a la publicación de esta Ley, estarán a lo dispuesto en la Ley vigente al momento de su otorgamiento.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Las erogaciones que se deriven de la aplicación de esta Ley estarán sujetas a la suficiencia presupuestaria correspondiente.
