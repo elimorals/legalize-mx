@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2006-08-30"
+last_updated: "2015-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 1999.
 
@@ -51,9 +51,9 @@ V.- Bicicleta.- Vehículo de dos ruedas accionadas por el esfuerzo del propio co
 
 VI.- Bicimoto.- Bicicleta provista de un motor auxiliar cuyo desplazamiento embolar no exceda de 50 centímetros cúbicos.
 
-VII. Calle.- Vía pública comprendida dentro de una zona urbana.
+VII.- Calle.- Vía pública comprendida dentro de una zona urbana.
 
-VIII. Camellón.- Franja intermedia para separar la circulación en sentido opuesto.
+VIII.- Camellón.- Franja intermedia para separar la circulación en sentido opuesto.
 
 IX.- Camión.- Vehículo de motor destinado al transporte de carga, de cuatro ruedas o más.
 
@@ -65,7 +65,7 @@ XII.- Carril.- Una de las fajas de circulación en que puede estar dividida la s
 
 XIII.- Ceder el paso.- Tomar todas las precauciones del caso, inclusive detener la marcha si es necesario, para que otros vehículos no se vean obligados a modificar su dirección o velocidad.
 
-XIV. Concesión.- Autorización definitiva para la explotación de un servicio público federal, estatal o Municipal.
+XIV.- Concesión.- Autorización definitiva para la explotación de un servicio público federal, estatal o Municipal.
 
 XV.- Conductor.- Persona que lleva el dominio del movimiento de un vehículo.
 
@@ -175,17 +175,17 @@ LXIV.- Zona de paso o cruce de peatones.- Área de la superficie de rodamiento m
 
 LXV.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
-LXVI.- Vías primarias.- Son aquellas de mayor longitud, las cuales tienen mayor afluencias (sic) vehicular, pueden ser carreteras, calles de primer cuadro de la ciudad, avenidas, bulevares, ejes viales y otras en las que no se permitirá el estacionamiento ni el tránsito de vehículos muy lentos o muy pesados.
+LXVI.- Vías Primarias: Son aquellas de mayor longitud, las cuales tienen mayor afluencias (sic) vehicular, pueden ser carreteras, calles de primer cuadro de la ciudad, avenidas, bulevares, ejes viales y otras en las que no se permitirá el estacionamiento ni el tránsito de vehículos muy lentos o muy pesados.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
-LXVII.- Vías secundarias.- Son las que distribuyen el tránsito de las vías locales o domiciliarias a las vías primarias o viceverza (sic) y pueden ser entre otras avenidas las calles de apoyo de tipo residencial o industrial.
+LXVII.- Vías Secundarias: Son las que distribuyen el tránsito de las vías locales o domiciliarias a las vías primarias o viceversa y pueden ser entre otras avenidas las calles de apoyo de tipo residencial o industrial.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
-LXVIII.- Vías terciarias.- Son aquellas calles locales que permiten el acceso directo a las áreas habitacionales, entre otras pueden ser calles rinconadas, cerradas y privadas.
+LXVIII.- Vías Terciarias: Son aquellas calles locales que permiten su acceso directo a las áreas habitacionales, entre otras pueden ser calles rinconadas, cerradas y privadas.
 
 ###### Artículo 3.
 
@@ -193,15 +193,19 @@ Son autoridades de Tránsito:
 
 I.- El Presidente Municipal;
 
-II.- El Regidor Presidente de la Comisión de Seguridad Pública y Tránsito.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
 
-II.- El Director de Tránsito Municipal;
+II.- El Director General de Seguridad Pública y Tránsito Municipal
 
-III.- Los Subdirectores, los Coordinadores y los Supervisores de la Dirección de Tránsito Municipal;
+III.- El Regidor Presidente de la Comisión de Seguridad Pública y Tránsito.
 
-lV.- Los Policías o Agentes de Tránsito de la Dirección de Tránsito Municipal, y
+IV.- El Director de Tránsito Municipal;
 
-V.- Aquellos a quienes el Presidente Municipal les otorguen tal facultad.
+V.- Los Subdirectores, los Coordinadores y los Supervisores de la Dirección de Tránsito Municipal;
+
+VI.- Los Policías o Agentes de Tránsito de la Dirección de Tránsito Municipal, y
+
+VII.- Aquellos a quienes el Presidente Municipal les otorguen (sic) tal facultad.
 
 ###### Artículo 4.
 
@@ -235,7 +239,7 @@ XI.- Implementar nuevas modalidades en el manejo del tránsito, mediante conveni
 
 XII.- Coordinar las acciones de las autoridades auxiliares en materia de tránsito;
 
-XlII.- Señalar el sentido de la circulación, así como determinar la zona de estacionamiento, ubicación de señalamientos y demás modalidades que conduzcan a satisfacer el interés social, la prevención de accidentes y la mayor fluidez en el tránsito de personas y de vehículos, e
+XIII.- Señalar el sentido de la circulación, así como determinar la zona de estacionamiento, ubicación de señalamientos y demás modalidades que conduzcan a satisfacer el interés social, la prevención de accidentes y la mayor fluidez en el tránsito de personas y de vehículos, e
 
 XIV.- Imponer las sanciones de este Reglamento.
 
@@ -413,7 +417,17 @@ El transporte de materiales explosivos o inflamables se regirá por las disposic
 
 Los Policías de la Dirección de Tránsito Municipal deberán impedir la circulación de vehículos y remitirlos al corralón cuando así lo ordene la autoridad judicial o administrativa competente.
 
-Para la devolución del vehículo será indispensable la comprobación de su propiedad o legal posesión presentándose la factura del vehículo en original, previo pago de las multas y derechos que procedan.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
+Para la devolución del vehículo será indispensable la comprobación de su propiedad o legal posesión previo pago de las multas y derechos que procedan, presentando en original y copia:
+
+I.- Factura o carta factura;
+
+II.- Tarjeta de circulación vigente;
+
+III.- Licencia vigente del propietario o infractor; y
+
+IV.- Identificación oficial del propietario.
 
 ###### Artículo 27.
 
@@ -575,21 +589,29 @@ Las personas que transporten bicicletas en exterior de vehículos automotores es
 
 ### CAPÍTULO IV. LICENCIAS Y PERMISOS
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 51.
 
-Para conducir vehículos automotores en vías y carreteras del Municipio de Solidaridad, será necesario obtener la correspondiente licencia expedida por la Dirección de Tránsito Municipal.
+Para conducir vehículos automotores en vías y carreteras del Municipio de Solidaridad, el conductor deberá portar o llevar consigo la licencia o permiso de conducir vigente.
 
-El conductor de un vehículo automotor deberá obtener y llevar consigo la licencia o permiso respectivo vigentes para conducir el vehículo que corresponda al propio documento.
+La licencia o permiso de conducir que porte el conductor deberá corresponder al tipo de vehículo o transporte de que se trate.
 
-En caso de que el conductor haya cometido una infracción al presente Reglamento, deberá entregar a la autoridad de tránsito la documentación que ésta le solicite, para efecto de llenar la boleta de infracción correspondiente, quedando obligado el policía de tránsito a su devolución, salvo lo dispuesto en el Artículo 195 de este ordenamiento
+En caso de que el conductor haya cometido una infracción al presente Reglamento, deberá entregar a la autoridad de tránsito la licencia para conducir o el permiso provisional, según sea el caso, así como la tarjeta de circulación correspondiente, reteniendo en garantía de pago de la multa impuesta, solo uno de estos.
+
+Sólo en caso de estar ausente el conductor del vehículo, la autoridad de tránsito emitirá la boleta de infracción correspondiente y retendrá en garantía de pago por la sanción impuesta una de las placas de circulación.
 
 ###### Artículo 52.
 
 Toda persona que porte licencia de conducir vigente, expedida por autoridad facultada para ello, de otra entidad federativa o del extranjero, podrá manejar en el Municipio de Solidaridad el tipo de vehículo que la misma señale, independientemente del lugar en que se haya registrado el vehículo. No procederá esta disposición para los operadores de vehículos de servicio público de transporte.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 53.
 
-La Dirección de Tránsito expedirá las licencias de conducción de vehículos que podrán tener validez de 2 a 5 años, para ello, fijará los requisitos que deberán cumplir los interesados.
+La Dirección de Tránsito expedirá las licencias de conducción de vehículos que podrán tener una vigencia de 2 a 5 años. En caso de licencias de conducir para el servicio público sólo se expedirán licencias con vigencia máxima de 1 año.
+
+No serán válidos las licencias o permisos de conducir, ya sean locales, nacionales o extranjeros, que presenten tachaduras, enmendaduras, alteraciones o cualesquier daño que impida la legibilidad de alguno de los datos contenidos en el documento.
 
 ###### Artículo 54.
 
@@ -651,15 +673,19 @@ VII.- Cubrir los derechos de expedición de la misma, y
 
 VIII.- Tratándose de extranjeros, además de satisfacer los requisitos anteriores, deberán presentar la constancia que compruebe su legal estancia en el país.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 57.
 
-Se concederán licencias tipo "D" de servicio público, a los conductores de vehículos del servicio público y unidades diesel, cubriendo los siguientes requisitos:
+Se concederán licencias tipo “D” de servicio público, a los conductores de vehículos del servicio público, cubriendo los siguientes requisitos:
 
 I.- Haber cumplido 18 años;
 
 II.- Presentar copia fotostática del acta de nacimiento o de la credencial para votar con fotografía;
 
-III.- Presentar certificado médico general, incluyendo el tipo sanguíneo.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2015)</small>
+
+III.- Presentar certificado médico general, incluyendo el tipo sanguíneo, así como aprobar el examen toxicológico de 5 reactivos, mismo que será practicado por el personal de la Dirección General de Seguridad Pública y Tránsito Municipal;
 
 IV.- Presentar examen médico de la vista;
 
@@ -669,7 +695,23 @@ VI.- Aprobar el examen escrito sobre el conocimiento de este Reglamento;
 
 VII.- Aprobar el examen de que se tienen nociones elementales sobre el funcionamiento de motores de combustión interna y partes esenciales de automóviles y camiones, y
 
-VIII.- Cubrir los derechos de expedición de la misma
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
+
+VIII.- Presentar Constancia de Antecedentes No Penales expedida por la Procuraduría General de Justicia del Estado.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
+
+IX.- Presentar oficio del Sindicato e identificación que lo acredita como miembro activo del mismo.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
+
+X.- Llevar a cabo el registro de sus huellas dactilares en el Sistema Nacional de Plataforma México;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
+
+XI.- Presentar constancia de residencia expedida por la Secretaria General del Ayuntamiento de Solidaridad; y
+
+XII.- Cubrir los derechos de expedición de la misma.
 
 ###### Artículo 58.
 
@@ -689,9 +731,15 @@ II.- Entregar certificado médico correspondiente al examen de la vista, y
 
 III.- Para las licencias tipo B y C, además deberá presentar el examen de conservación de aptitudes de manejo.
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
+
+IV.- Para la licencia tipo D se deberán cubrir nuevamente todos y cada uno de los requisitos establecidos en el Artículo 57 del presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 61.
 
-Los conductores únicamente podrán tener una licencia de conducir. Toda persona que haya obtenido licencia de conducir podrá hacer uso de ella durante su vigencia, siempre que conserve las aptitudes físicas y mentales necesarias para dirigir vehículos de motor.
+Los conductores deberán tener una licencia de conducir para el tipo de vehículo que utilicen o servicio que presten. Toda persona que haya obtenido licencia de conducir podrá hacer uso de ella durante su vigencia.
 
 Si durante la vigencia de la licencia, sobreviene alguna disminución en las aptitudes físicas y mentales necesarias para conducir vehículos de motor se le suspenderá la licencia durante el tiempo que dure la incapacidad.
 
@@ -723,7 +771,7 @@ I.- Cuando la licencia esté suspendida o cancelada;
 
 II.- Cuando la autoridad correspondiente compruebe que el solicitante ha sido previamente calificado de cualquier incapacidad mental o física que le impida conducir vehículos de motor y no demuestre mediante certificado médico, haberse rehabilitado;
 
-lll.- Cuando la documentación exhibida sea falsa o bien proporcione informes falsos en la solicitud correspondiente, y
+III.- Cuando la documentación exhibida sea falsa o bien proporcione informes falsos en la solicitud correspondiente, y
 
 IV.- Cuando tenga una licencia infraccionada o exista duplicidad de licencias.
 
@@ -743,7 +791,7 @@ V.- Por faltas a la autoridad de tránsito;
 
 VI.- Por resolución judicial;
 
-Vll.- Por resolución administrativa en materia de medicina preventiva, y
+VII.- Por resolución administrativa en materia de medicina preventiva, y
 
 VIII.- Cuando permita el uso ilegal o fraudulento de su licencia.
 
@@ -779,33 +827,33 @@ A.- Ligeros, hasta 3.5 toneladas de peso bruto vehicular:
 
 I.- Bicicletas y motocicletas.
 
-ll.- Bicimotos y Triciclos automotores
+II.- Bicimotos y Triciclos automotores
 
 III.- Motocicletas y motonetas;
 
-lV.- Automóviles.
+IV.- Automóviles.
 
 V.- Camionetas.
 
-Vl.- Remolques.
+VI.- Remolques.
 
 B.- Pesados, con más de 3.5 toneladas de peso bruto vehicular:
 
 I.- Micifuces;
 
-ll.- Autobuses;
+II.- Autobuses;
 
-lll.- Camiones de 2 o más ejes;
+III.- Camiones de 2 o más ejes;
 
-lV.- Tractores con semi-remolque
+IV.- Tractores con semi-remolque
 
 V.- Camiones con remolque;
 
-Vl.- Vehículos agrícolas;
+VI.- Vehículos agrícolas;
 
-Vll.- Equipo especial movible y;
+VII.- Equipo especial movible y;
 
-Vlll.- Vehículos con grúa.
+VIII.- Vehículos con grúa.
 
 Los vehículos de carga ligeros, mercantiles públicos, cuyas características de fabricación sean modificadas para aumentar su capacidad de carga, y rebasan con ello las 3.5. toneladas de peso bruto vehicular, serán considerados como vehículos pesados.
 
@@ -945,25 +993,27 @@ II.- Los vehículos particulares que estén registrados en otros municipios y en
 
 III.- Cuando se trate de un vehículo de procedencia extranjera en trámite de introducción, su propietario solicitará permiso para operar el vehículo hasta por 90 días, previa demostración de haber iniciado dicho trámite ante la autoridad federal correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 75.
 
-Para efectuar el tránsito de vehículos por vías y carreteras del municipio, será necesario que estos cuenten con los siguientes documentos:
+Para efectuar el tránsito de vehículos por vías y carreteras del municipio, será necesario que estos cuenten con los siguientes documentos originales, vigentes y legibles:
 
 I.- Tarjeta de circulación.
 
 II.- Placas vigentes.
 
-III. Calcomanía identificadora.
+III.- Calcomanía identificadora.
 
 IV.- Documento que sustituya, o en su caso permiso provisional.
 
-V.- Permiso provisional, permiso temporal o concesión, cuando se trate de
+V.- Permiso provisional, permiso temporal o concesión, cuando se trate de servicio público.
 
-servicio público.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2015)</small>
 
-VI.- Revista mecánica.
+VI.- Revista mecánica cuando se trate de vehículos de Servicio Público.
 
-VII.- Reglamento de Tránsito del Municipio de Solidaridad.
+VII.- (DEROGADA, P.O. 31 DE MARZO DE 2015)
 
 ###### Artículo 76.
 
@@ -1025,9 +1075,13 @@ Para llevar a cabo las funciones de registro de vehículos y de expedición de t
 
 Cuando el propietario del vehículo registrado transfiera la propiedad de su vehículo a otra persona no cesará su responsabilidad por infracciones al presente reglamento o la responsabilidad civil que se derive de cualquier hecho de tránsito, hasta en tanto no cumpla con la obligación de dar el aviso correspondiente a la Dirección de tránsito. El registro expirará una vez que se haya dado aviso de baja y el adquiriente esté obligado a solicitar una nueva matrícula antes de operar o permitir que se opere el vehículo.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 84.
 
-Todos los vehículos portarán las placas o el documento que las sustituya en un lugar visible, colocadas firmemente, una en la parte frontal y otra en la parte posterior del vehículo, excepto que se trate de motocicletas, bicicletas y remolques que solo llevarán una sola placa en la parte posterior.
+Todos los vehículos portarán las placas colocadas firmemente en su límite exterior una en la parte frontal y otra en la parte posterior, o el documento que las sustituya en un lugar visible, excepto que se trate de motocicletas, bicicletas y remolques que sólo llevarán una sola placa en la parte posterior.
+
+Se prohíbe el uso de remaches u o cualquier otro medio de sujeción que obstaculice el retiro de las placas como garantía de pago por la infracción impuesta. En estos casos, los daños ocasionados para su retiro serán exclusiva responsabilidad del propietario y/o conductor del vehículo.
 
 ###### Artículo 85.
 
@@ -1071,7 +1125,13 @@ II.- Anchura 2.50 metros incluyendo la carga del vehículo, y
 
 III.- Longitud 12.00 metros.
 
-Todo vehículo que exceda de estas dimensiones para circular dentro de la circunscripción Municipal, deberá hacerlo previo permiso especial concedido por la Dirección de Tránsito y únicamente por las calles que se autorice, pudiendo suspender la circulación de todo aquél que no reúna los requisitos antes señalados.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
+Todo vehículo y/o maquinaria pesada que exceda de estas dimensiones para circular dentro de la circunscripción Municipal, deberá hacerlo debidamente abanderado, contando con el medio de transporte adecuado y vehículo escolta; en caso contrario la presente dirección podrá suspender la circulación de todo aquél que no reúna los requisitos antes señalados y proceder con su envió al corralón.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2015)</small>
+
+Para efectos del presente artículo deberá entenderse por maquinaria pesada, como aquella maquinaria que utiliza un gran consumo de combustible para funcionar accionada por un conductor y es utilizada para realizar tareas como el movimiento de tierra, levantamiento de objetos pesados, demolición, excavación o el transporte de material.
 
 ### CAPÍTULO VI. EQUIPAMIENTO DE VEHÍCULOS
 
@@ -1165,9 +1225,11 @@ Además del equipo establecido en el presente Capítulo en su parte relativa, la
 
 Se prohíbe en los vehículos:
 
-l.- La instalación y uso de torretas, faros rojos en la parte delantera, o blancos en la trasera, sirenas y accesorios de uso exclusivo para vehículos policiales y de emergencia, y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2015)</small>
 
-ll.- Utilizar los colores y emblemas privativos de vehículos policiales y de emergencia.
+I.- La instalación y uso de torretas, faros rojos en la parte delantera, o blancos en la trasera, sirenas estrobos, flashes y accesorios de uso exclusivo para vehículos policiales y de emergencia, y
+
+II.- Utilizar los colores y emblemas privativos de vehículos policiales y de emergencia.
 
 ###### Artículo 105.
 
@@ -1219,9 +1281,15 @@ Todo vehículo automotor deberá estar provisto de dos o más espejos retrovisor
 
 Los cristales del parabrisas deberán estar fabricados con material cuya transparencia no altere ni deforme los objetos vistos a través de ello y permitan al conductor conservar la suficiente visibilidad en caso de rotura. El parabrisas deberá estar provisto de un dispositivo que lo libre de la lluvia u otra humedad que dificulte la visibilidad, dicho dispositivo deberá estar instalado de modo que pueda estar accionado por el conductor del vehículo. Los materiales transparentes utilizados en el parabrisas, ventana posterior, ventanilla y aletas laterales deberá ser inastillables para que en caso de rotura el peligro de lesiones se reduzca al mínimo.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 112.
 
-Se autoriza el tránsito de vehículos con cristales polarizados del denominado hasta de dos humos. Quedando prohibido el uso de todo tipo de material con acabado de espejo o cualquier otro acabado en los cristales de los vehículos que impida la visión hacia el interior del mismo.
+Se prohíbe la circulación de vehículos equipados con parabrisas y ventanillas obscurecidas con polarizados mayores a dos humos, así como por micas, acabados de espejo, tintes especiales, micro perforado o cualquier otro acabado que impida la visibilidad hacia el interior del vehículo.
+
+En el caso de los vehículos destinados al servicio público de trasporte no será permitido el uso de ningún tipo de polarizado, acabado tipo espejo, micro perforado y/o cualquier otro que impida la visión hacia el interior del vehículo.
+
+Para efectos del presente artículo se tiene por excepción, los polarizados que hayan sido instalados por el fabricante del vehículo.
 
 ###### Artículo 113.
 
@@ -1305,7 +1373,7 @@ Los conductores que por causa fortuita o de fuerza mayor detengan sus vehículos
 
 I.- Si la vía es de un solo sentido o se trata de una vía de circulación continua, se colocará atrás del vehículo, a la orilla exterior del carril;
 
-ll.- Si la vía es de dos sentidos de circulación deberá colocarse a 100 metros hacia adelante de la orilla exterior del otro carril. En zona urbana deberá colocarse un dispositivo a 20 metros atrás del vehículo inhabilitado;
+II.- Si la vía es de dos sentidos de circulación deberá colocarse a 100 metros hacia adelante de la orilla exterior del otro carril. En zona urbana deberá colocarse un dispositivo a 20 metros atrás del vehículo inhabilitado;
 
 III.- Los conductores de vehículos que se detengan fuera del arroyo y a menos de dos metros de éste, seguirán las mismas reglas, con la salvedad de que los dispositivos de advertencia serán colocados en la orilla de la superficie de rodamiento;
 
@@ -1355,41 +1423,43 @@ XIII.- Frente a estacionamientos bancarios que manejen valores;
 
 XIV.- Frente a tomas de agua para bomberos;
 
-XV.- Frente a rampas especiales de acceso a la banqueta para discapacitados; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2015)</small>
+
+XV.- Frente a rampas especiales de acceso para personas con discapacidad, así como en los lugares de estacionamiento designados o marcados con señalamientos para éstas u obstruir de alguna forma su libre acceso. Los usuarios de estos espacios deberán identificar correctamente su vehículo por medio del engomado o calcomanía oficial expedida por la autoridad correspondiente.
 
 XVI.- En zonas o vías públicas en donde exista un señalamiento para este efecto.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
 XVII.- Junto a una excavación u obstáculo de tal manera que al hacerlo dificulte el tránsito de los vehículos.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
-XVIII.- A menos de 50 mts. de un vehículo estacionado en el lado opuesto de la carretera de dos carriles con doble sentido.
+XVIII.- A menos de 50 metros de un vehículo estacionado en el lado opuesto de la carretera de dos carriles con doble sentido.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
 XIX.- Se prohíbe estacionar vehículos en las glorietas.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
-XX.- Se prohíbe el estacionamiento simultáneo en ambos lados de las calles, de un solo sentido o de doble sentido de la circulación.
+XX.- Se prohíbe el estacionamiento simultáneo en ambos lados de las calles de doble sentido de la circulación en las que previamente se encuentre señalada dicha prohibición mediante franja amarilla o el letrero correspondiente.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
-XXI.- Se prohíbe estacionar un vehículo en una intersección o a menos de 15 mts. de la misma.
+XXI.- Se prohíbe estacionar un vehículo en una intersección o a menos de 10 metros de la misma.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
-XXII.- Se prohibe estacionar un vehículo en lugares marcados con franja amarilla, roja, conos u otro dispositivo de tránsito.
+XXII.- Se prohíbe estacionar un vehículo en lugares marcados con franja color amarilla, roja, conos u otros dispositivos de tránsito.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
 
-La Dirección de Tránsito podrá mediante el señalamiento respectivo sujetar a determinados horarios y días de la semana la prohibición de estacionarse en la vía pública en las vialidades cuya afluencia vehicular lo permita.
+XXIII.- Se prohíbe dejar sobre la vía pública cualquier vehículo que carezca de motor (semi-remolque, Dolly, camper, etc.) debido a que por su naturaleza de uso sólo podrán ser aparcados en lotes privados o áreas específicas para estos.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
 
-Los señalamientos de tránsito ya sea restrictivos o de cualquier índole serán validos y aplicables los días domingos y festivos.
+XXIV.- Se prohíbe a los prestadores de servicios, vendedores de vehículos y/o todo aquel que cuente con varios vehículos, el utilizar la vía pública como estacionamiento particular, solo podrán aparcar o resguardar el excedente de sus vehículos en lotes privados.
 
 ###### Artículo 127.
 
@@ -1513,7 +1583,7 @@ VIII.- Derrame o esparza cualquier tipo de carga en la vía pública.
 
 ###### Artículo 144.
 
-La Dirección de Tránsito se coordinará con las dependencias y entidades de la administración pública federal, estatal y Municipal, a fin de diseñar e instrumentar en el Municipio programas permanentes de seguridad y educación vial, encaminados a crear conciencia y hábitos de respecto a los ordenamientos legales en materia de tránsito y vialidad a fin de prevenir accidentes de tránsito y salvar vidas, orientados :
+La Dirección de Tránsito se coordinará con las dependencias y entidades de la administración pública federal, estatal y Municipal, a fin de diseñar e instrumentar en el Municipio programas permanentes de seguridad y educación vial, encaminados a crear conciencia y hábitos de respecto a los ordenamientos legales en materia de tránsito y vialidad a fin de prevenir accidentes de tránsito y salvar vidas, orientados:
 
 I.- A los alumnos de educación preescolar, básica y media;
 
@@ -1559,7 +1629,7 @@ Todo el personal de tránsito tendrá la obligación de prestar información que
 
 ###### Artículo 148.
 
-Las señales de Tránsito se clasificarán en :
+Las señales de Tránsito se clasificarán en:
 
 I.- Preventivas.- Aquéllas que tienen por objeto advertir la existencia y naturaleza de un peligro en el camino.
 
@@ -1651,19 +1721,19 @@ En intersecciones o zonas marcadas de paso de peatones, donde no haya semáforos
 
 El conductor de un vehículo que se acerque a una intersección y no haya señalamiento, cederá el paso a todo vehículo que ya se encuentre ostensiblemente dentro de dicha intersección.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2015)</small>
 
-En las intersecciones de vías públicas que no estén controladas por policías de tránsito, señales o semáforos, se consideran preferentes las indicadas seguidamente:
+En las intersecciones de las vías públicas que no estén controladas por policías de tránsito, señales o semáforos, se consideran preferentes las indicadas seguidamente:
 
 I.- La circulación de los vehículos que transiten por avenidas o calles en que se permita velocidad mayor, sobre los que transiten en vías públicas en que la velocidad permitida sea menor.
 
-II.- La de los que circulen en calles más anchas respecto a los que lo hagan por otras angostas.
+II.- La de los que circulen en calles más anchas respecto a los que hagan por otras angostas.
 
-III.- La de los que transiten por vías asfaltadas o petrolizadas sobre los que circulen por las que no lo están.
+III.- La de los que transiten por vías asfaltas o petrolarizadas sobre los que circulen por las que no lo están.
 
-IV.- Los conductores que transiten sobre las calles que rematan en intersecciones "T" (ciegas), están obligados a cederles el paso a los que transiten en las vías transversal.
+IV.- Los conductores que transiten sobre las calles que rematan en Intersecciones “T” (Ciegas), están obligados a cederles el paso a los que transiten en las vías transversales.
 
-V.- En caso de un hecho de tránsito, la preferencia, dejará de existir cuando el vehículo que transita sobre la vía preferente no observe alguna de las disposiciones contenidas en el presente Reglamento que le infiera responsabilidad en el hecho.
+V.- En caso de un hecho de tránsito, la preferencia, dejara de existir cuando el vehículo que transita sobre la vía preferente no observe alguna de las disposiciones contenidas en el presente reglamento que le infiera responsabilidad en el hecho.
 
 ###### Artículo 155.
 
@@ -1817,6 +1887,12 @@ XIV.- El uso de televisiones dentro del vehículo.
 
 XV.- El uso de audífonos que impidan al conductor tener percepción auditiva externa.
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2015)</small>
+
+XVI.- Arrastrar un vehículo por medio de cuerda, cadena u otros medios similares.
+
+En caso de que un particular necesite arrastrar su vehículo, sólo podrá realizar esta maniobra por medio de una grúa o vehículo debidamente equipados para tal efecto.
+
 ###### Artículo 172.
 
 Solamente se dará marcha atrás cuando el movimiento pueda hacerse con seguridad, y sin interferir el tránsito. Se prohíbe dar marcha atrás en una vía de accesos controlados.
@@ -1855,13 +1931,13 @@ El conductor de cualquier vehículo implicado en un hecho de tránsito con saldo
 
 Los conductores de vehículos y los peatones que pasen por el lugar de un hecho de tránsito, estarán obligados a detenerse a la indicación que se les haga y a colaborar en el auxilio o traslado de los lesionados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
 
 ###### Artículo 180.
 
-Si a consecuencia de un hecho de tránsito no resultaran muertos ni lesionados y solamente se causarán daños materiales, las partes pueden llegar a un entendimiento sobre la reparación de los daños mediante los datos e informes que recíprocamente se intercambien los involucrados respecto a sus nombres, domicilios, placas de sus vehículos, fecha y lugar del hecho, desligándose por tal motivo la Dirección de Tránsito Municipal de cualquier incumplimiento al convenio acordado entre los involucrados. En caso de que las partes no lleguen a un acuerdo satisfactorio se levantará el parte informativo y peritaje correspondiente y se procederá a su consignación a la autoridad competente.
+Si como consecuencia de un hecho de tránsito no resultaran muertos ni lesionados y solamente se causaran daños materiales, las partes pueden llegar a un entendimiento sobre la reparación de los daños, mediante los datos e informes que recíprocamente se intercambien los involucrados respecto a sus nombres y domicilios, placas de sus vehículos, fecha y lugar del hecho. En este caso, se eximirá a la autoridad de Tránsito de cualquier responsabilidad o incumplimiento al acuerdo celebrado entre los involucrados.
 
-Una vez que los involucrados completen y firmen el formato del acuerdo proporcionado, el policía de tránsito lo anexará a su parte informativo a fin de que obre en los archivos de la Dirección de Tránsito Municipal.
+En caso de que las partes no lleguen a un acuerdo, se levantará el parte informativo e informe pericial correspondiente y se procederá con los vehículos y conductores involucrados a su presentación ante la autoridad competente.
 
 ###### Artículo 181.
 
@@ -1889,9 +1965,11 @@ VI.- Evitar toda discusión al levantar la boleta de infracción.
 
 De la boleta de infracción que se levante se entregará el original al conductor, que le servirá para suplir por cinco días hábiles a partir de la fecha de infracción, su falta de licencia o permiso provisional, de tarjeta de circulación o de las placas en caso de que le hubieren sido retenidas.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
 ###### Artículo 184.
 
-- En caso de inconformidad por la infracción determinada por el policía de tránsito, el interesado podrá recurrirla en los términos previstos en el Artículo 215 del presente Reglamento.
+En caso de inconformidad por la infracción determinada por el policía de tránsito, el interesado podrá recurrirla en los términos previstos en el Artículo 212 del presente Reglamento.
 
 ### CAPÍTULO XVII. SANCIONES
 
@@ -1937,27 +2015,31 @@ VIII.- Causarán multa por la cantidad de treinta días de salario mínimo gener
 
 Si como resultado de las infracciones al presente Reglamento se produce un hecho de tránsito, en el cual resulten daños, se afecte la integridad corporal de alguna persona o en caso de reincidencia, dichas infracciones causarán multas hasta por el doble de la cantidad señalada, de acuerdo a las violaciones de que se trate.
 
-Los policías de tránsito, en los casos que lo estimen necesario, y por motivos originados por el conductor, podrá retener en garantía del pago de las infracciones cometidas al presente Reglamento, uno solo de los siguientes documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2015)</small>
+
+Cuando los conductores de vehículos cometan alguna falta al presente Reglamento, los policías de tránsito, deberán retener en garantía de pago de las infracciones cometidas en uno de los siguientes documentos:
 
 I. La licencia para conducir o el permiso provisional, según sea el caso.
 
 II.- La tarjeta de circulación.
 
-III.- Las placas de circulación, cuando el vehículo se encuentre estacionado en lugar prohibido y no se encuentre el conductor o el propietario del vehículo o estando presentes, uno u otro, no muevan voluntariamente el vehículo.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2015)</small>
+
+III.- Una de las placas de circulación, sólo en caso de que el vehículo se encuentre estacionado en lugar prohibido y no se encuentre el conductor o el propietario del vehículo o estando presentes, uno u otro, no exhiban la documentación a que se refieren las fracciones I y II del presente Artículo, o se nieguen a mover el vehículo.
 
 ###### Artículo 187.
 
 Para la imposición de multas la Dirección de Tránsito se ajustará a las tarifas establecidas, que serán calificadas análogamente y de acuerdo a la tabla de valoración establecida en el artículo 185.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
 
 ###### Artículo 188.
 
-Se reducirá la multa hasta en un 50 % de la sanción establecida para la infracción en caso de que se efectuare el pago de la misma destro (sic) del término de 5 días hábiles a partir de la fecha de la imposición de la infracción. Esta reducción solamente será procedente cuando el infractor no se hubiere inconformado con la sanción. Para efectuar los pagos al que se refiere el presente artículo, el infractor podrá realizarlos tanto en las oficinas de la Tesorería Municipal como en las instituciones de crédito que en su caso señale la Dirección de Tránsito Municipal.
+Se reducirá la multa hasta en un 50% de la sanción mínima que corresponda a una infracción, en caso de que se efectuara el pago correspondiente, dentro del término de cinco días hábiles a partir de la fecha de la infracción. El pago de (sic) a que se refiere el presente artículo, deberá hacerlos (sic) el infractor en cajas de la Tesorería Municipal o en los módulos e instituciones señaladas para este efecto por el Municipio.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+Solamente procederá este descuento cuando el infractor no presente recurso o juicio en el que recurra la sanción impuesta.
 
-Se exceptúan de lo anterior los casos de violaciones graves al presente Reglamento y las cuales son la falta a los artículos 65, 167, 171, frac. VI y VII, 178, 192, así como cuando se produzca una violación al Reglamento de Tránsito con motivo de un accidente.
+No procederá descuento alguno en los casos de infracciones graves al presente Reglamento, es decir, la violación a lo dispuesto en los artículos 65, 167, 171, fracciones VI y VII, 178, 192 así como cuando se produzca un accidente con motivo de la infracción al presente Reglamento.
 
 ###### Artículo 189.
 
@@ -2023,11 +2105,11 @@ El Presidente Municipal, a través de la Dirección de Tránsito Municipal, reso
 
 Cuando las infracciones que se cometan con motivo del tránsito constituyan hechos delictuosos, el policía que intervenga en los mismos, procederá a asegurar a los responsables y ponerlos de inmediato a disposición de las autoridades correspondientes.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
 
 ###### Artículo 200.
 
-A los particulares o instituciones civiles o privadas de beneficencia pública, que sean sorprendidos utilizando los dispositivos de emergencia existentes, llámese torretas, sirenas o cualquier otro de manera innecesaria o de falsa alarma, será sancionado con una multa de 25 salarios mínimos generales vigentes para esta zona.
+La persona que se le detenga por conducir un vehículo bajo la influencia de enervantes o estupefacientes, será puesto a disposición de la autoridad competente, sin perjuicio de lo establecido en el Artículo 26 del presente Reglamento.
 
 ### CAPÍTULO XVIII. DEL ARRASTRE Y DEPÓSITO DE VEHÍCULOS INFRACCIONADOS
 
@@ -2043,7 +2125,9 @@ a) Cuando el conductor no tenga abordo del vehículo la documentación necesaria
 
 b) Cuando el conductor se encuentre en evidente estado de ebriedad o bajo el influjo de cualquier tipo de droga, sea o no prescrita médicamente.
 
-c) Cuando se encuentre estacionado en lugar prohibido y el conductor no se encuentre presente para retirarlo y recibir su boleta de infracción.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+
+c) Cuando se encuentre estacionado en lugar prohibido y el conductor no se encuentre presente para retirarlo y recibir su boleta de infracción, o cuando el vehículo carezca de placas o las tenga en el interior del vehículo.
 
 d) Cuando obstruya la vialidad y su conductor no se encuentre presente para retirarlo y recibir su boleta de infracción.
 
@@ -2114,3 +2198,7 @@ P.O. 30 DE AGOSTO DE 2006.
 PRIMERO.- LAS PRESENTES ADICIONES Y REFORMAS ENTRARAN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 SEGUNDO.- PUBLÍQUESE EL PRESENTE ACUERDO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO PARA LOS EFECTOS LEGALES CORRESPONDIENTES.
+
+P.O. 31 DE MARZO DE 2015.
+
+Único.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
