@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2014-12-31"
+last_updated: "2015-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2015.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -14477,7 +14477,13 @@ El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor ni de registro. La hipoteca constituida, para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos deberá únicamente notificarlos al deudor.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2015)</small>
+
+Las Instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás Entidades Financieras y los Institutos de Seguridad Social podrán ceder los créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso que el cedente deje de llevar la administración de los créditos deberá únicamente notificarlo por escrito al deudor.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2015)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta, sin que se pueda variar de ninguna forma las condiciones originales del crédito.
 
 ###### Artículo 2837.
 
@@ -15602,3 +15608,9 @@ B.O. 20 DE NOVIEMBRE DE 2014.
 B.O. 31 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2015
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente decreto no se aplicara en forma retroactiva en perjuicio de persona alguna, ni en perjuicio de quienes hayan celebrado la constitución de contratos de crédito de mutuo con interés y garantía hipotecaria o contrato de créditos con garantía hipotecaria de vivienda en cualesquiera de sus modalidades otorgados por los institutos de seguridad social a sus derechohabientes en fecha anterior a la entrada en vigor del presente Decreto.
