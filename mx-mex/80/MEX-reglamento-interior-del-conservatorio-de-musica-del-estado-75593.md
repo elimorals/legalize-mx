@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-conservatorio-de-musica-del-estado-7559
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "1999-08-09"
+last_updated: "2015-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,284 +21,564 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL CONSERVATORIO DE MUSICA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DE LA UNION DE ISIDORO MONTES DE OCA, DEL ESTADO DE GUERRERO
+REGLAMENTO INTERIOR DEL CONSERVATORIO DE MÚSICA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Alcance IV al Número 85 del Periódico Oficial del Estado de Guerrero, el viernes 24 de octubre de 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2015 (ABROGADO).
 
-ACUERDO POR EL QUE SE CREA LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE LA UNIÓN DE ISIDORO MONTES DE OCA, ESTADO DE GUERRERO, Y SE EMITE SU REGLAMENTO.
+Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de agosto de 1999.
 
-EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE LA UNION DE ISIDORO MONTES DE OCA, ESTADO DE GUERRERO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULO 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 178 FRACCIONES I Y II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO; 26, 27 Y 61, FRACCIONES I, III, XXVI Y XXX DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO, Y EN USO DE LAS FACULTADES QUE NOS CONFIEREN LOS ARTÍCULOS 72, 73, 77 Y 98 DE LA LEY ORGÁNICA ANTES MENCIONADA.
+EL CONSEJO TECNICO DEL CONSERVATORIO DE MUSICA DEL ESTADO DE MEXICO, CON FUNDAMENTO EN EL ARTICULO 5 FRACCION VI DEL ACUERDO DEL EJECUTIVO DEL ESTADO PUBLICADO EN LA GACETA DEL GOBIERNO EL 28 DE ENERO DE 1999; Y
 
-C O N S I D E R A N D O
+C O N S I D E R A N D O.
 
-[...]
+En mérito de lo anterior, se expide el siguiente:
 
-Por lo anteriormente expuesto y fundado, el Honorable Ayuntamiento del Municipio de la Unión de Isidoro Montes de Oca, Estado de Guerrero, tiene a bien crear y emitir el siguiente:
+REGLAMENTO INTERIOR DEL CONSERVATORIO DE MUSICA DEL ESTADO DE MEXICO
 
-ACUERDO POR EL QUE SE CREA LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE LA UNIÓN DE ISIDORO MONTES DE OCA, ESTADO DE GUERRERO, Y SE EMITE SU REGLAMENTO.
-
-### Capítulo I. Disposiciones Generales
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-El presente Reglamento es de interés público y observancia general y tiene por objeto regular la elaboración, publicación y distribución de la Gaceta Municipal del Municipio de la Unión de Isidoro Montes de Oca, Estado de Guerrero; así como establecer las bases generales de su contenido y difusión entre los habitantes y el público en general que en materia municipal sean aprobados por el Congreso del Estado como acuerdos, resoluciones, reglamentos, presupuesto de egresos e ingresos, iniciativas de ley, decretos, edictos, disposiciones administrativas de observancia general y demás determinaciones que expidan las y los integrantes del H. Ayuntamiento.
+El presente reglamento tiene por objeto regular la organización y el funcionamiento del Conservatorio de Música del Estado de México.
 
 ###### Artículo 2.
 
-La Gaceta Municipal es el órgano oficial de difusión, comunicación y divulgación del Honorable Ayuntamiento del Municipio de la Unión de Isidoro Montes de Oca, del Estado de Guerrero, es de carácter permanente, social e interés público; cuya función es hacer del conocimiento a la ciudadanía respecto de los decretos, bandos, circulares, resoluciones, acuerdos, edictos, reglamentos vigentes y los aprobados para el municipio; disposiciones administrativas de observancia general, y demás acuerdos; para efectos de su difusión y aplicación que sean emitidos por las y los integrantes del H. Ayuntamiento.
-
-A efecto de que el Honorable Ayuntamiento cumpla con la obligación que refiere el párrafo anterior, se auxiliará de la Secretaria o Secretario General del Ayuntamiento, quien éste a su vez contará con una unidad administrativa denominada Gaceta Municipal a cargo de una persona titular, creada con la estructura que el presupuesto autorizado le permita.
+El Conservatorio de Música del Estado de México es un organismo público desconcentrado de la Secretaría de Educación, Cultura y Bienestar Social.
 
 ###### Artículo 3.
 
-La aplicación y vigilancia del presente Reglamento, corresponde a las autoridades siguientes:
+Para efectos del presente reglamento, se entenderá por:
 
-I. La Presidenta o Presidente Municipal;
+Acuerdo, al Acuerdo del Ejecutivo del Estado por el que se modifica el diverso que crea el Conservatorio de Música del Estado de México.
 
-II. La Síndica o Síndico Procurador (administrativo);
+Secretaría, a la Secretaría de Educación, Cultura y Bienestar Social.
 
-III. La Secretaria o Secretario General, y
+Conservatorio, al Conservatorio de Música del Estado de México.
 
-IV. La persona titular de la Gaceta Municipal.
+Consejo, al Consejo Técnico del Conservatorio de Música del Estado de México.
 
-###### Artículo 4.
-
-Las autoridades señaladas en el artículo anterior, además de las atribuciones citadas en la Ley Orgánica del Municipio Libre del Estado de Guerrero, les corresponde vigilar las publicaciones efectuadas en la Gaceta Municipal.
-
-###### Artículo 5.
-
-Corresponde a la Secretaria o Secretario General del Ayuntamiento lo siguiente:
-
-I. Coordinar y disponer lo necesario para la publicación fiel y oportuna de los reglamentos, circulares, acuerdos, edictos, resoluciones y demás disposiciones que mandate el cabildo, en la Gaceta Municipal;
-
-II. Realizar la Fe de Erratas a los textos publicados, así como corregirlos cuando lo justifiquen plenamente ante la persona titular de la Gaceta Municipal, o lo determinen las y los integrantes del H. Ayuntamiento, y
-
-III. Las demás que señale la normatividad aplicable.
-
-###### Artículo 1.
-
-Se crea la Gaceta Municipal, órgano oficial de difusión, comunicación y divulgación municipal del Honorable Ayuntamiento del Municipio de la Unión de Isidoro Montes de Oca, del Estado de Guerrero, unidad administrativa subordinada a la Secretaría General del Ayuntamiento.
-
-###### Artículo 2.
-
-La Gaceta Municipal (sic) los ayuntamientos podrán publicar los decretos, reglamentos, bandos, circulares, disposiciones administrativas, notificaciones, edictos, avisos y cualquier otra información o comunicación oficial que por disposición legal deba de publicarse para su vigencia, aplicación o entrada en vigor.
-
-###### Artículo 3.
-
-En la Gaceta Municipal podrán publicarse, además:
-
-I. Los actos jurídicos y comunicaciones privados por disposición legal;
-
-II. La información generada por la persona titular de la Gaceta Municipal relativa a la divulgación y rescate de los valores humanos, históricos, culturales y sociales del Municipio de la Unión de Isidoro Montes de Oca, Estado de Guerrero;
-
-III. La publicación o inserción de anuncios o publicaciones comerciales respecto a actividades lícitas siempre y cuando su contenido no atente contra las buenas costumbres, y
-
-IV. Demás documentos que por acuerdo del cabildo se considere de importancia su difusión.
+Consejo Académico, al Consejo Académico del Conservatorio de Música del Estado de México.
 
 ###### Artículo 4.
 
-La Gaceta Municipal será impresa en soporte papel y difundida a través de la página de internet del H. Ayuntamiento de la Unión de Isidoro Montes de Oca, Estado de Guerrero, atendiendo a las exigencias de los tiempos actuales.
+Para el estudio, planeación y despacho de los asuntos que le corresponden, el Conservatorio tendrá:
 
-### Capítulo II. Publicación
+I. Un Consejo Técnico;
+
+II. Una Dirección;
+
+III. Una Subdirección Académica;
+
+IV. Una Subdirección Administrativa y Finanzas;
+
+V. Una coordinación de licenciatura; y
+
+VI. Una coordinación de carreras técnicas.
+
+La dirección, subdirecciones y coordinaciones, conducirán sus actividades de conformidad con los planes y programas de estudio aprobados por el Consejo.
+
+### CAPITULO SEGUNDO. DEL CONSEJO TECNICO
 
 ###### Artículo 5.
 
-El H. Ayuntamiento realizará las acciones presupuestarias necesarias para la operación de la Gaceta Municipal.
-
-Para la organización, administración, edición y funcionamiento de la Gaceta Municipal, contará con el personal técnico y administrativo necesario, conforme a sus posibilidades presupuestarias y al reglamento que al efecto se expide en los términos siguientes:
-
-REGLAMENTO DE LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DE LA UNIÓN DE ISIDORO MONTES DE OCA, DEL ESTADO DE GUERRERO.
+El Consejo es el órgano de gobierno del Conservatorio, sus determinaciones serán obligatorias para la Dirección, Subdirecciones y Coordinaciones.
 
 ###### Artículo 6.
 
-La persona titular de la Gaceta Municipal tendrá las atribuciones siguientes:
-
-I. Realizar la publicación fiel y oportuna de los reglamentos, circulares, acuerdos, edictos, resoluciones y demás disposiciones administrativas de observancia general, en la Gaceta Municipal;
-
-II. Conservar y organizar cada una de las publicaciones de la Gaceta Municipal, en plena observancia de la ley de archivos y demás normas aplicables, y
-
-III. Las demás que sean encomendadas por la Secretaria o Secretario General del Ayuntamiento y otras disposiciones legales aplicables.
+Corresponde al Consejo el ejercicio de las atribuciones que se señalan en el Acuerdo.
 
 ###### Artículo 7.
 
-La Gaceta Municipal de la Unión de Isidoro Montes de Oca, Estado de Guerrero, deberá ser publicada, en forma ordinaria, dentro de los primeros cinco días naturales de cada mes y será de manera extraordinaria las veces que sea necesaria su publicación, cuando así lo acuerden las y los integrantes del H. Ayuntamiento, ya que por su importancia y contenido no podrá esperar a la publicación ordinaria correspondiente.
+El Consejo se integrará con:
 
-En ningún caso será publicado documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente firmado y plenamente comprobada la procedencia.
+I. Un presidente, quien será el titular de la Secretaría;
 
-En la publicación del documento se podrá omitir la impresión de las firmas autógrafas y en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “RÚBRICA”, teniendo plena validez jurídica el contenido de la publicación.
+II. Un vicepresidente, quien será el Subsecretario de Educación Media Superior y Superior.
+
+III. Un secretario, quien será el Director del Conservatorio;
+
+IV. Cinco vocales, que serán:
+
+a) El Director General del Instituto Mexiquense de Cultura;
+
+b) El Coordinador de Administración y Finanzas de la Secretaría;
+
+c) El Contralor Interno de la Secretaría;
+
+d) El representante del Consejo Académico del Conservatorio.
+
+A invitación del presidente:
+
+e) Un representante del sector social, relacionado con las actividades artísticas de la entidad quién durará en su encargo dos años, pudiendo ser ratificado por un período igual.
 
 ###### Artículo 8.
 
-En la Gaceta Municipal se publicará lo siguiente:
-
-I. Reglamentos, bandos, circulares, acuerdos, edictos, decretos, resoluciones y demás disposiciones administrativas de observancia general;
-
-II. Convenios o cualquier otro compromiso de interés para el municipio y sus habitantes;
-
-III. Información de carácter institucional o reseñas culturales, biográficas y geográficas de interés para los habitantes del municipio;
-
-IV. Información financiera relativa a las cuentas públicas e informes trimestrales de las auditorías;
-
-V. Notificaciones administrativas o judiciales que por disposición de la ley sean susceptibles de publicarse;
-
-VI. Convocatorias y licitaciones públicas para la adquisición de bienes y servicios, así como para la concesión de servicios y obra pública;
-
-VII. Aquellos actos y resoluciones que por su propia importancia lo determinen las y los integrantes del H. Ayuntamiento;
-
-VIII. Un extracto del informe anual del Ejecutivo Municipal rendido en la primera quincena del mes de septiembre de cada año, y
-
-IX. Demás documentos que por acuerdo del cabildo se considere de importancia su difusión.
+Los miembros del Consejo podrán nombrar un suplente, a excepción del presidente el que en sus ausencias será suplido por el vicepresidente.
 
 ###### Artículo 9.
 
-Las publicaciones instadas por particulares que se efectúen en la Gaceta Municipal, se realizarán previo pago de los derechos conforme a las cuotas que establezca la Ley de Ingresos, ante la Tesorería Municipal.
+El cargo de miembro del Consejo será honorífico.
 
 ###### Artículo 10.
 
-La Secretaría o Secretario General, podrá expedir copias certificadas de la edición impresa de la Gaceta Municipal, el costo de las mismas será el que determine su Ley de Ingresos Municipal.
+Los miembros del Consejo, tendrán las atribuciones que se determinan en el Acuerdo.
 
 ###### Artículo 11.
 
-La Gaceta Municipal para su publicación, deberá contener mínimamente los datos siguientes:
+El Consejo sesionará ordinariamente cada tres meses y en forma extraordinaria cuando el presidente lo estime necesario.
 
-I. La denominación «Gaceta Municipal» y la leyenda: «Órgano Oficial de Publicación del Municipio de la Unión de Isidoro Montes de Oca, Estado de Guerrero»;
-
-II. El Escudo Oficial del Ayuntamiento;
-
-III. Fecha y número de publicación de la edición correspondiente;
-
-IV. Nombre de la persona titular responsable;
-
-V. Índice del contenido, y
-
-VI. El nombre de las personas integrantes del H. Ayuntamiento.
+Para que los acuerdos del Consejo sean válidos será necesaria la concurrencia de la mayoría de sus integrantes entre los que deberá estar el presidente o quien lo supla y el secretario.
 
 ###### Artículo 12.
 
-La Gaceta Municipal será editada en el H. Ayuntamiento de la Unión de Isidoro Montes de Oca, Estado de Guerrero, y su publicación será realizada de manera mensual y en cantidad suficiente para garantizar la demanda del municipio.
+Los miembros del Consejo tendrán voz y voto, excepto el secretario y el contralor interno de la Secretaría, quienes solo tendrán voz.
+
+Los acuerdos del Consejo se tomarán por mayoría de votos, en caso de empate el presidente tendrá voto de calidad.
 
 ###### Artículo 13.
 
-La Gaceta Municipal, será distribuida dentro de la jurisdicción territorial del Municipio de la Unión de Isidoro Montes de Oca, Estado de Guerrero.
+El Consejo, podrá invitar a sus sesiones a personas que estén relacionadas con el rescate y la preservación de las diversas manifestaciones musicales.
 
 ###### Artículo 14.
 
-El ejemplar ordinario y extraordinario de la Gaceta Municipal tendrá un costo de recuperación, pero se destinará el porcentaje que determine el H. Ayuntamiento para su distribución gratuita. Los ejemplares de fechas atrasadas de la Gaceta Municipal, tendrán un costo adicional.
+Las sesiones ordinarias del Consejo se desarrollarán conforme al orden siguiente:
+
+I. Lista de asistencia y declaratoria de quórum;
+
+II. Lectura y aprobación del orden del día;
+
+III. Lectura, aprobación y firma en su caso, del acta de la sesión anterior;
+
+IV. Informe del seguimiento de acuerdos;
+
+V. Asuntos en cartera; y
+
+VI. Asuntos generales.
 
 ###### Artículo 15.
 
-La operación y difusión de la Gaceta Municipal, no exime al Ayuntamiento de realizar las publicaciones en el Periódico Oficial del Gobierno del Estado, de aquellos actos y ordenamientos municipales que requieran tal requisito conforme a las leyes y reglamentos aplicables.
+La deliberación y resolución de los asuntos se hará conforme a las reglas que el Consejo determine.
 
 ###### Artículo 16.
 
-La Gaceta Municipal será distribuida en forma impresa y digital principalmente, a través de internet en el portal del H. Ayuntamiento o en el que cree para este efecto.
+El Consejo podrá integrar comisiones para estudiar y dictaminar sobre algún asunto.
 
 ###### Artículo 17.
 
-Cuando en la Gaceta Municipal se publique algún reglamento, circular, decreto, acuerdo, edicto, resolución o disposiciones administrativas de observancia general que revista singular importancia, deberá remitirse un ejemplar a las bibliotecas del Municipio de la Unión de Isidoro Montes de Oca, Estado de Guerrero; a la Coordinación General de Fortalecimiento Municipal; a los órganos auxiliares y al archivo municipal.
+Las comisiones deberán presentar por escrito el dictamen de los asuntos que se les hubiere turnado, en un plazo no mayor de treinta días, salvo los acordados previamente.
 
-### Capítulo III. Distribución de la Gaceta Municipal
+### CAPITULO TERCERO. DE LA DIRECCION DEL CONSERVATORIO
 
 ###### Artículo 18.
 
-Fe de Erratas es la corrección que demanden el buen uso del lenguaje y la claridad de los textos exclusivamente, realizada en la Gaceta Municipal de las Publicaciones que en la misma se hayan realizado y no podrá modificar, cambiar o variar el sentido o efecto con el que fue aprobada.
+La Dirección estará a cargo de un director que será nombrado por el Gobernador del Estado, durará en su cargo cuatro años y podrá ser confirmado para un período más.
 
 ###### Artículo 19.
 
-La Fe de Erratas solo será procedente previo oficio de autorización por parte de la Secretaria o Secretario General del Ayuntamiento, cuando se verifique plenamente la existencia de la discrepancia entre el texto del documento aprobado y la publicación efectuada en la Gaceta Municipal.
+Además de lo señalado en el Acuerdo, el Director del Conservatorio tendrá las siguientes atribuciones:
+
+I. Representar legalmente al Conservatorio;
+
+II. Dirigir académica, técnica y administrativamente el Conservatorio en términos de las disposiciones aplicables;
+
+III. Proponer al Consejo las políticas institucionales en materia de docencia, difusión y vinculación con instituciones similares;
+
+IV. Suscribir los documentos que acrediten los estudios que se realicen en el Conservatorio;
+
+V. Elaborar y someter a la aprobación del Consejo las disposiciones que regulen la actividad académica del Conservatorio;
+
+VI. Ejecutar los acuerdos y disposiciones de tipo académico que emita el Consejo;
+
+VII. Presentar anualmente al Consejo, el programa de actividades del Conservatorio, así como el informe correspondiente;
+
+VIII. Evaluar las actividades desarrolladas por el Conservatorio;
+
+IX. Elaborar el proyecto del presupuesto y someterlo a la consideración de las instancias correspondientes;
+
+X. Concurrir a las sesiones del Consejo con voz pero sin voto; y
+
+XI. Las demás que le confiera el Consejo o el Presidente, y que sean consecuentes con los objetivos del Conservatorio.
+
+###### Artículo 20.
+
+Para el estudio, planeación y despacho de los asuntos de su competencia el director del Conservatorio podrá contar con las unidades administrativas que sean necesarias, conforme al presupuesto asignado al Conservatorio.
+
+###### Artículo 21.
+
+El director sólo podrá ser removido por acuerdo del Ejecutivo cuando exista causa justificada para ello, previa solicitud del Consejo, aplicándose en lo conducente la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+
+### CAPITULO CUARTO. DE LOS SUBDIRECTORES DEL CONSERVATORIO
+
+###### Artículo 22.
+
+Los subdirectores del Conservatorio serán nombrados por el titular de la Secretaría, a propuesta del director, conforme al presupuesto asignado al Conservatorio.
+
+###### Artículo 23.
+
+Los subdirectores tendrán las atribuciones genéricas siguientes:
+
+I. Planear, programar, organizar y evaluar las funciones de las unidades administrativas que integren la subdirección;
+
+II. Elaborar y proponer al director los programas anuales de actividades;
+
+III. Acordar con el director los asuntos que correspondan a la subdirección a su cargo;
+
+IV. Formular los dictámenes, opiniones e informes que le sean solicitados por el director del Conservatorio;
+
+V. Asesorar y apoyar técnicamente en asuntos de su competencia a las unidades administrativas del Conservatorio;
+
+VI. Proponer al director el ingreso, promoción, remoción y licencia del personal de las unidades administrativas a su cargo;
+
+VII. Elaborar y proponer al director el presupuesto de egresos de su subdirección;
+
+VIII. Supervisar el desempeño del personal a su cargo;
+
+IX. Desempeñar las funciones y comisiones que le encomiende el director e informarle sobre el desarrollo de las mismas; y
+
+X. Las demás que le confieran las disposiciones legales aplicables y que le encomiende el director.
+
+###### Artículo 24.
+
+Corresponde a la Subdirección de Administración y Finanzas el ejercicio de las siguientes atribuciones específicas:
+
+I. Formular los planes y programas de estudio de los distintos niveles educativos que se imparten y vigilar su cumplimiento;
+
+II. Elaborar el programa anual de los servicios educativos a su cargo y someterlo a la consideración de la dirección;
+
+III. Instrumentar los mecanismos de ingreso, promoción y permanencia de los alumnos, así como la correcta aplicación del Reglamento de Alumnos del Conservatorio;
+
+IV. Verificar la expedición de diplomas, certificados, títulos y demás documentación oficial que sea suscrita por el director;
+
+V. Coordinar y vigilar la prestación del servicio social de los alumnos del Conservatorio, en términos de la normatividad correspondiente;
+
+VI. Organizar y vigilar el proceso de titulación de los egresados de las carreras técnicas y licenciaturas;
+
+VII. Establecer lineamientos y mecanismos de selección, formación y perfeccionamiento del personal académico del Conservatorio;
+
+VIII. Formular y difundir las normas y procedimientos técnicos y administrativos necesarios para la adecuada organización y evaluación del proceso educativo y verificar su cumplimiento;
+
+IX. Establecer los procedimientos de evaluación y control escolar del alumnado;
+
+X. Organizar, vigilar y mantener actualizados los acervos musical, documental e informático del Conservatorio;
+
+XI. Elaborar, desarrollar y proponer al director, los programas de difusión cultural del Conservatorio;
+
+XII. Formular y desarrollar los programas de rescate y preservación del acervo musical de la entidad.
+
+XIII. Coordinar las actividades correspondientes a la educación continua que ofrezca el Conservatorio;
+
+XIV. Vigilar el cumplimiento de los programas de intercambio académico y vinculación del Conservatorio con instituciones análogas, nacionales o extranjeras;
+
+XV. Proponer al director los lineamientos y mecanismos para evaluar la prestación de los servicios que ofrece el Conservatorio;
+
+XVI. Apoyar la celebración de eventos culturales; y
+
+XVII. Las demás que le encomiende el director.
+
+###### Artículo 25.
+
+Corresponde a la Subdirección Administrativa y Finanzas, el ejercicio de las siguientes atribuciones específicas:
+
+I. Ejecutar las políticas y lineamientos que en materia de administración de personal, adquisiciones, servicios, control presupuestal y evaluación programática, establezcan las disposiciones legales y administrativas;
+
+II. Elaborar el proyecto de presupuesto de ingresos y egresos del Conservatorio y someterlo a la consideración del director;
+
+III. Formular y ejecutar el programa anual de adquisiciones;
+
+IV. Integrar y actualizar el inventario de los bienes muebles e inmuebles del Conservatorio;
+
+V. Elaborar y mantener actualizada la plantilla del personal de la institución y llevar el registro y control de asistencias;
+
+VI. Elaborar la documentación y hacer los trámites necesarios para la contratación y permanencia del personal administrativo, técnico y manual del Conservatorio, así como de las prestaciones que les correspondan;
+
+VII. Proporcionar los servicios generales que requieran las unidades administrativas del Conservatorio;
+
+VIII. Administrar los fondos y valores del Conservatorio;
+
+IX. Registrar, consolidar las operaciones y emitir los estados presupuestales y financieros correspondientes;
+
+X. Mantener en buen estado las instalaciones y el equipo del Conservatorio; y
+
+XI. Las demás que le encomiende el director.
+
+### CAPITULO QUINTO. DE LOS COORDINADORES DEL CONSERVATORIO
+
+###### Artículo 26.
+
+Al frente de cada coordinación habrá un coordinador, quien será nombrado por el titular de la Secretaría, a propuesta del director, se auxiliará de las unidades administrativas que las necesidades del servicio requieran, de acuerdo a su organización interna aprobada y al presupuesto de egresos respectivo.
+
+###### Artículo 27.
+
+Los coordinadores tendrán las atribuciones genéricas siguientes:
+
+I. Programar, desarrollar, supervisar y evaluar las actividades de las unidades administrativas bajo su responsabilidad;
+
+II. Elaborar y proponer al subdirector de su área los proyectos de programas anuales de actividades;
+
+III. Acordar con el subdirector la resolución de los asuntos que correspondan a la coordinación a su cargo;
+
+IV. Formular los dictámenes, opiniones e informes que le sean solicitados por el subdirector;
+
+V. Proponer al subdirector el ingreso, promoción, remoción y licencias del personal de las unidades administrativas a su cargo;
+
+VI. Proporcionar, previo acuerdo con el subdirector, la asesoría, información, datos o cooperación técnica que le sean requeridos por las demás unidades administrativas del Conservatorio;
+
+VII. Supervisar el desempeño del personal a su cargo;
+
+VIII. Elaborar y proponer al subdirector el proyecto de presupuesto de su coordinación;
+
+IX. Desempeñar las funciones y comisiones que le encomiende el subdirector e informarle sobre el desarrollo de las mismas; y
+
+X. Las demás que sean necesarias para el cumplimiento de sus funciones y aquellas que le encomiende el subdirector.
+
+###### Artículo 28.
+
+Corresponde a la Coordinación de Licenciatura, el ejercicio de las siguientes atribuciones específicas:
+
+I. Impartir los estudios de educación superior que ofrezca el Conservatorio;
+
+II. Formular y proponer a la subdirección académica la incorporación de contenidos a los planes y programas de estudio que imparta el Conservatorio;
+
+III. Formular las disposiciones técnico-administrativas para la organización, operación y evaluación de los planes y programas de estudio de educación superior;
+
+IV. Proponer a la subdirección académica los lineamientos para la evaluación del servicio;
+
+V. Sugerir a la subdirección académica las medidas que se juzguen necesarias para el mejoramiento académico de los estudios que imparta el Conservatorio;
+
+VI. Desarrollar los programas de extensión académica del Conservatorio;
+
+VII. Elaborar y proponer al Subdirector Académico las convocatorias de ingreso y calendario escolar;
+
+VIII. Diseñar y proponer al Subdirector Académico los mecanismos de ingreso y permanencia de alumnos y docentes de la Institución; y
+
+IX. Las demás que sean necesarias para el cumplimiento de las funciones y aquellas que le encomiende el Subdirector Académico.
+
+###### Artículo 29.
+
+Corresponde a la Coordinación de Carreras Técnicas, el ejercicio de las siguientes atribuciones específicas:
+
+I. Formular y proponer al Subdirector Académico los programas de formación musical;
+
+II. Evaluar la capacidad artística de los aspirantes a ingresar al Conservatorio;
+
+III. Apoyar el desarrollo de las habilidades musicales de los alumnos;
+
+IV. Elaborar, desarrollar y proponer al Subdirector Académico los programas de difusión cultural del Conservatorio;
+
+V. Proponer la actualización del acervo musical del Conservatorio;
+
+VI. Apoyar la celebración de eventos culturales, preferentemente de carácter musical;
+
+VII. Coordinar la actividad de los talleres musicales;
+
+VIII. Proponer los programas de formación académica del personal de su área;
+
+IX. Formular y presentar los informes y opiniones que le sean solicitados por el Subdirector Académico;
+
+X. Supervisar el desempeño del personal académico en el área de su competencia;
+
+XI. Supervisar las labores de control escolar de su área;
+
+XII. Las demás que sean necesarias para el cumplimiento de sus funciones y aquellas que le encomiende el Subdirector Académico.
+
+### CAPITULO SEXTO. DEL CONSEJO ACADÉMICO
+
+###### Artículo 30.
+
+El Consejo Académico del Conservatorio es un órgano de consulta y tendrá las atribuciones siguientes:
+
+I. Estudiar y dictaminar los proyectos e iniciativas de carácter académico que le presente el Presidente, el Vicepresidente, el Director, los miembros del personal docente y los alumnos, o los que surjan entre sus integrantes;
+
+II. Dictaminar sobre los planes y programas de estudio del Conservatorio;
+
+III. Participar en las iniciativas de proyectos de investigación musical y actividades de difusión cultural;
+
+IV. Conocer y dictaminar sobre proyectos de creación de carreras, especialidades, diplomados o cualquier otra modalidad académica que el Conservatorio pretenda realizar, para someterlas por conducto de su Director a la consideración del Consejo Técnico;
+
+V. Dictaminar sobre la sistematización de asignaturas que conformen las áreas académicas de los diferentes niveles de estudio que ofrezca el Conservatorio;
+
+VI. Dictaminar sobre los programas académicos y evaluar los informes de las diferentes áreas académicas; y
+
+VII. Las demás que sean necesarias para el buen funcionamiento académico del Conservatorio.
+
+###### Artículo 31.
+
+El Consejo Académico estará integrado por:
+
+I. El Director del Conservatorio, quien lo presidirá;
+
+II. El Subdirector Académico del Conservatorio, quien será el secretario; y
+
+III. Los vocales que serán los presidentes de las áreas académicas del nivel propedéutico y/o técnico; del nivel superior y del nivel posgrado, en su caso.
+
+###### Artículo 32.
+
+El Consejo Académico podrá nombrar comisiones para el estudio de los asuntos de su competencia, realizar actividades de difusión y extensión o promover la investigación musical.
+
+###### Artículo 33.
+
+Las decisiones del Consejo Académico se tomarán por mayoría de votos, en caso de empate, el presidente o quien lo sustituya, tendrá voto de calidad. El secretario concurrirá a las sesiones con voz, pero sin voto.
+
+Para que el Consejo Académico pueda sesionar será necesaria la concurrencia de la mayoría de sus integrantes entre los que deberán estar el presidente o quien lo sustituya y el secretario.
+
+En caso de ausencia del presidente del Consejo Académico lo suplirá el Secretario Académico, fungiendo como secretario, el presidente del área académica que éste determine.
+
+###### Artículo 34.
+
+El Consejo Académico sesionará cuando sea convocado por su presidente.
+
+A las sesiones del Consejo Académico, podrán concurrir las personas que el presidente estime convenientes para la mejor atención de los asuntos.
+
+###### Artículo 35.
+
+El Consejo Académico se regirá conforme al reglamento que para tal efecto se expida.
+
+### CAPITULO SEPTIMO. DE LAS AREAS ACADÉMICAS
+
+###### Artículo 36.
+
+Las asignaturas que integran los planes de estudio de las diversas modalidades se sistematizarán en áreas académicas. El Consejo Académico resolverá sobre el número, así como la denominación y materias que integran las áreas académicas.
+
+###### Artículo 37.
+
+Son atribuciones de las áreas académicas:
+
+I. Estudiar los problemas relativos a la enseñanza musical de las materias;
+
+II. Revisar al término de cada semestre, los programas de las materias proponiendo en su caso las modificaciones correspondientes;
+
+III. Proponer y participar en la realización de las actividades culturales del Conservatorio;
+
+IV. Procurar el mejoramiento de las actividades del Conservatorio mediante proyectos de investigación musical; y
+
+V. Presentar iniciativas al Consejo Académico, para que sean analizadas y dictaminadas en el Consejo Técnico.
+
+### CAPITULO OCTAVO. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
+
+###### Artículo 38.
+
+Cada modalidad de planes de estudio que ofrezca el Conservatorio, se cursará de acuerdo a los programas que sancione el Consejo Académico y apruebe el Consejo Técnico.
+
+###### Artículo 39.
+
+Los planes de estudio incluirán;
+
+I. El objetivo general de la carrera y características;
+
+II. Perfil de ingreso y egreso del alumnado;
+
+III. Descripción de asignaturas;
+
+IV. Mapa curricular;
+
+V. Lista de créditos;
+
+VI. Areas académicas; y
+
+VII. Flujo de matrícula.
+
+###### Artículo 40.
+
+Los programas de estudio incluirán:
+
+I. Los datos de identificación de la asignatura (clave, créditos);
+
+II. La relación de materiales antecedentes y consecuentes en caso de seriación académica;
+
+III. El objetivo general de la asignatura;
+
+IV. Los objetivos de cada unidad y de cada tema, en su caso;
+
+V. Los métodos de enseñanza que se emplearán;
+
+VI. Sistema de evaluación; y
+
+VII. Bibliografía y datos metodológicos que se estimen pertinentes.
+
+### CAPITULO NOVENO. DE LA SUPLENCIA DE LOS TITULARES
+
+###### Artículo 41.
+
+El director será suplido en sus ausencias temporales menores de quince días, por el subdirector que él designe. En las mayores de quince días, el Secretario de Educación, Cultura y Bienestar Social, designará un encargado del despacho, en tanto el Ejecutivo del Estado, designa al sustituto.
+
+###### Artículo 42.
+
+Los subdirectores serán suplidos en sus ausencias temporales menores de quince días, por quienes designe el director. En las mayores de de quince días, el director solicitará la opinión del Secretario de Educación, Cultura y Bienestar Social, para la designación del sustituto.
+
+###### Artículo 43.
+
+Los coordinadores serán suplidos en sus ausencias temporales menores de quince días, por quien designe el subdirector. En las mayores de de quince días, el director propondrá al titular de la Secretaría al sustituto.
 
 T R A N S I T O R I O S
 
-Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+PRIMERO.- El presente reglamento deberá publicarse en la "Gaceta del Gobierno" y entrará en vigor el día de su publicación.
 
-Segundo. El H. Ayuntamiento, tomará las medidas conducentes con la finalidad de que la Gaceta Municipal, cuente con los recursos, materiales y financieros que sean necesarios para sus actividades.
+SEGUNDO.- Se abroga el Reglamento Interior del Conservatorio de Música del Estado de México aprobado en sesión de Consejo Técnico, el año de 1993.
 
-Tercero. El H. Ayuntamiento está facultado para resolver los casos no previstos en el presente Acuerdo, tomando en consideración el interés público y la garantía de los gobernados.
+TERCERO.- Publíquese en el órgano de difusión interno del Conservatorio de Música del Estado de México.
 
-Cuarto. Se abroga la Gaceta Municipal anterior, edición número 13, de fecha 13 de febrero del año 2024, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, Con motivo de que entrará en vigor la presente, actual y nueva gaceta municipal, la cual es la que tendrá validez para todos los efectos legales a que haya lugar.
+Dado en el salón de sesiones del Consejo Técnico del Conservatorio de Música del Estado de México, el quince de junio de mil novecientos noventa y nueve.
 
-Dado en sesión ordinaria de Cabildo en el Palacio Municipal, sede oficial del H. Ayuntamiento de la Unión de Isidoro Montes de Oca, Guerrero, a los 10 días del mes de octubre del año dos mil veinticinco.
+M. EN C. EFREN ROJAS DAVILA
 
-C. PROF. JOSE FRANCISCO SUAZO ESPINO.
+PRESIDENTE
 
-Presidente Municipal Constitucional.
+(RUBRICA).
 
-Rúbrica.
+M. EN C. ARLETTE LOPEZ TRUJILLO
 
-C. MARIA SANCHEZ RAMIREZ.
+VICEPRESIDENTE
 
-Síndica Procuradora.
+(RUBRICA).
 
-Rúbrica.
+MTRO. LASZLO FRATER HARTING
 
-REGIDORES
+SECRETARIO
 
-C. ORLANDO IBARRA ZARCO.
+(RUBRICA).
 
-Regidor de Desarrollo Urbano y Obras Pública (sic).
+DR. JUAN UGARTE CORTES
 
-Rúbrica.
+PRIMER VOCAL
 
-C. LIC. LISETH MUÑOZ RAMIREZ.
+(RUBRICA).
 
-Regidora de Desarrollo Rural y Pesca.
+C.P. HORACIO REYES GOMEZ
 
-Rúbrica.
+SEGUNDO VOCAL
 
-C. EDILIA SANCHEZ MORENO.
+(RUBRICA).
 
-Regidora de Equidad de Género.
+C.P. FRANCISCO J. LARA HERNANDEZ
 
-Rúbrica.
+TERCER VOCAL
 
-C. EFRAIN GALENA ALVAREZ.
+(RUBRICA).
 
-Regidor de Seguridad Pública.
+MTRO. FERNANDO LIPKAU RODRIGUEZ
 
-Rúbrica.
+CUARTO VOCAL
 
-C. LIC. CLAUDIA ROSAS RUIZ.
+(RUBRICA).
 
-Regidora de Educación y Juventud.
+LIC. VICTOR ALVAREZ HERRERA
 
-Rúbrica.
+QUINTO VOCAL
 
-C. FELIPE PEREZ SILVA.
+(RUBRICA).
 
-Regidor de Comercio y Abasto Popular.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Rúbrica.
+G.G. 31 DE MARZO DE 2015.
 
-C. PATRICIA CANO RAMIREZ.
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Regidora de Salud Pública y Asistencia Social.
+SEGUNDO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura publicado en el Periódico Oficial "Gaceta del Gobierno" el 8 de septiembre de 2011.
 
-Rúbrica.
+TERCERO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura Física y Deporte publicado en el Periódico Oficial "Gaceta del Gobierno" el 17 de septiembre de 2009.
 
-C. HOMERO PERALTA AYALA.
+CUARTO. Se abroga el Reglamento Interior del Conservatorio de Música del Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno" el 9 de agosto de 1999.
 
-Regidor de Medio Ambiente y Recursos Naturales.
-
-Rúbrica.
-
-C. LIC. ADOLFO VILLANUEVA VARGAS.
-
-Secretario General.
-
-Rúbrica.
-
-EL SUSCRITO C. LIC. ADOLFO VILLANUEVA VARGAS, SECRETARIO DEL AYUNTAMIENTO DEL MUNICIPIO DE LA UNION DE ISIDORO MONTES DE OCA, GUERRERO, PARA EL PERIODO CONSTITUCIONAL 2024-2027, CON FUNDAMENTO EN EL CONTENIDO DE LA FRACCIÓN IX DEL ARTÍCULO 98 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO, HACE CONSTAR Y
-
-C E R T I F I C A
-
-QUE LAS PRESENTES REPRODUCCIÓNES FOTOSTATICAS COMPUESTAS DE NUEVE FOJAS ÚTILES, ESCRITAS SOLO POR ANVERSO, Y QUE SE REFIEREN AL REGLAMENTO DE LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DE LA UNIÓN DE ISIDORO MONTES DE OCA, DEL ESTADO DE GUERRERO, SON FIELES TOMADAS DE SU ORIGINAL HACIENDO CONSTAR QUE DE ACUERDO AL COTEJO CONCUERDAN EN TODAS Y CADA UNA DE SUS PARTES, POR LO QUE DOY FE Y CERTIFICO, EN LA CIUDAD DE LA UNIÓN DE ISIDORO MONTES DE OCA, GUERRERO, A LOS DIECISEIS DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL VEINTICINCO, PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR.
-
-ATENTAMENTE
-
-EL SECRETARIO DEL H. AYUNTAMIENTO
-
-C. LIC. ADOLFO VILLANUEVA VARGAS
-
-### Capítulo IV. Fe de Erratas
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
