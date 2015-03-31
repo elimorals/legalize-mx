@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-cultura-70174"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-17"
-last_updated: "2009-09-17"
+last_updated: "2015-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA FISICA Y DEPORTE
 
-REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA FISICA Y DEPORTE
+REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA FÍSICA Y DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA, PUBLICADO EN LA SECCIÓN QUINTA DE LA G.G. DE 31 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 2009.
 
@@ -478,3 +480,17 @@ C.P. CARLOS ALBERTO ACRA ALVA
 DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DE CULTURA FÍSICA Y DEPORTE Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 31 DE MARZO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura publicado en el Periódico Oficial "Gaceta del Gobierno" el 8 de septiembre de 2011.
+
+TERCERO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura Física y Deporte publicado en el Periódico Oficial "Gaceta del Gobierno" el 17 de septiembre de 2009.
+
+CUARTO. Se abroga el Reglamento Interior del Conservatorio de Música del Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno" el 9 de agosto de 1999.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
