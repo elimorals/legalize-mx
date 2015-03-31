@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-conservatorio-de-musica-del-estado-7559
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "1999-08-09"
+last_updated: "2015-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL CONSERVATORIO DE MUSICA DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL CONSERVATORIO DE MUSICA DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL CONSERVATORIO DE MÚSICA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de agosto de 1999.
 
@@ -566,3 +568,17 @@ LIC. VICTOR ALVAREZ HERRERA
 QUINTO VOCAL
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 31 DE MARZO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura publicado en el Periódico Oficial "Gaceta del Gobierno" el 8 de septiembre de 2011.
+
+TERCERO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura Física y Deporte publicado en el Periódico Oficial "Gaceta del Gobierno" el 17 de septiembre de 2009.
+
+CUARTO. Se abroga el Reglamento Interior del Conservatorio de Música del Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno" el 9 de agosto de 1999.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
