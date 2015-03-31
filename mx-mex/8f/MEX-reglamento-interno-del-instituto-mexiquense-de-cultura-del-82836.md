@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-cultura-del-8283
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-08"
-last_updated: "2014-07-22"
+last_updated: "2015-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 8 de septiembre de 2011.
 
@@ -383,7 +385,7 @@ X. Las demás que le confieran otras disposiciones legales y aquellas que le enc
 
 ###### Artículo 18.
 
-Corresponde al Conservatorio Música (sic) del Estado de México:
+Corresponde al Conservatorio (sic) Música del Estado de México:
 
 I. Impartir educación musical en sus diversas modalidades, conforme a la normatividad establecida.
 
@@ -574,3 +576,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 31 DE MARZO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura publicado en el Periódico Oficial “Gaceta del Gobierno” el 8 de septiembre de 2011.
+
+TERCERO. Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura Física y Deporte publicado en el Periódico Oficial “Gaceta del Gobierno” el 17 de septiembre de 2009.
+
+CUARTO. Se abroga el Reglamento Interior del Conservatorio de Música del Estado de México publicado en el Periódico Oficial “Gaceta del Gobierno” el 9 de agosto de 1999.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
