@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2015-01-14"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -524,6 +524,10 @@ Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un dí
 ###### ARTICULO 92.
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos, después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos, procurándose adecuar un espacio para ello.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2015)</small>
+
+Los hombres tendrán un permiso de paternidad de cinco días laborables, con goce de sueldo, por el nacimiento de sus hijos o hijas, contados a partir del parto y, de igual manera, en el caso de la adopción de un infante.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
@@ -11106,6 +11110,12 @@ P.O. 28 DE JUNIO DE 2014.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE ENERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
