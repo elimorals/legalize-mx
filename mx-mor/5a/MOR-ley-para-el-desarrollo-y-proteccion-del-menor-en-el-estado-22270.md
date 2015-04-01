@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "2014-12-10"
+last_updated: "2015-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DEL MENOR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -409,9 +409,11 @@ IX.- Solicitar como actor subsidiario la reparación del daño y perjuicio ocasi
 
 X.- Las demás que en protección del interés superior del menor le confieran los ordenamientos respectivos.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 26.
 
-El Procurador General de Justicia, podrá instrumentar campañas de prevención del delito, dirigidos a los menores de edad y sus familias; para tal efecto contará con el auxilio y colaboración de las autoridades del Estado, de los Municipios y las Instituciones Académicas de carácter público que requiera, en el logro de tal propósito.
+El Fiscal General, podrá instrumentar campañas de prevención del delito, dirigidos (sic) a los menores de edad y sus familias; para tal efecto contará con el auxilio y colaboración de las autoridades del Estado, de los Municipios y las Instituciones Académicas de carácter público que requiera, en el logro de tal propósito.
 
 ## TITULO CUARTO. DEL SISTEMA ESTATAL DE JUSTICIA DEL MENOR INFRACTOR
 
@@ -445,7 +447,9 @@ III.- Dos representantes del Consejo Tutelar para Menores Infractores;
 
 IV.- La Procuraduría de la Defensa del Menor, cuyo representante actuará como secretario;
 
-V.- Un representante de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+V.- Un representante de la Fiscalía General del Estado;
 
 VI.- Profesionistas a nivel licenciatura en Pedagogía, Psicología, Sociología y Pediatría;
 
@@ -529,7 +533,7 @@ Todas aquellas personas físicas o jurídicas colectivas que constituyan albergu
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-###### ARTÍCULO 37.
+###### ARTICULO 37.
 
 Toda persona que conozca y advierta de acciones u omisiones de maltrato, abandono, negligencia, abuso y, en general, de cualquier agresión que sufra un menor de edad a su integridad física, moral o psíquica, bienes o derechos, está obligada a denunciarlas ante la Procuraduría de la Defensa del Menor, a efecto de que ésta lo ponga en conocimiento de las autoridades competentes, se inicien las acciones legales respectivas y se provea de protección y asistencia al menor victimado.
 
@@ -894,3 +898,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto, entrará en Vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad', Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
