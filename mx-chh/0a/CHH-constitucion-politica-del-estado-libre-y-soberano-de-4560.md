@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-03-04"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -351,9 +351,9 @@ Son derechos de los ciudadanos chihuahuenses:
 
 I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios y de referéndum;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
 
-II.- Poder ser votados para todos los cargos de elección popular y nombrados para cualquier empleo o comisión, teniendo las demás cualidades que las leyes establezcan.
+II.- Poder ser votados para todos los cargos de elección popular y nombrados para cualquier empleo o comisión, teniendo las demás cualidades que las leyes establezcan. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la Ley Electoral;
 
 III.- Tomar las armas en la Guardia Nacional.
 
@@ -451,9 +451,11 @@ Las autoridades electorales solamente podrán intervenir en los asuntos internos
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
 
-Art. 27 bis.- La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+Art. 27 bis.- La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. Los candidatos independientes tendrán derecho de acceso a prerrogativas para las campañas electorales en los términos que establezca la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 El financiamiento público para los partidos políticos que mantengan el derecho a participar en su distribución después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgarán conforme a lo siguiente y a lo que disponga la ley:
 
@@ -465,7 +467,11 @@ II.- El financiamiento público para las actividades tendientes a la obtención 
 
 III.- El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
 La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña a Gobernador; así mismo, ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Asistencia Social Pública.
 
@@ -4140,3 +4146,13 @@ Remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Co
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERO.- Conforme lo dispone el último párrafo del Artículo 202 de la Constitución Política del Estado, apruébese el presente Decreto siguiendo el procedimiento ordinario establecido en el Capítulo V del Título VII.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Una vez que el presente Decreto entre en vigor, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes.
+
+CUARTO.- Instrúyase a la Secretaría a que dentro de las veinticuatro horas siguientes a la aprobación del presente Decreto, rinda un Informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
