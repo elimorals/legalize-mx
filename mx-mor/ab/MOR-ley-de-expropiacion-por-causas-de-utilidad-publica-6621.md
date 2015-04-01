@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-expropiacion-por-causas-de-utilidad-publica-6621"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-24"
-last_updated: "1994-08-24"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE EXPROPIACION POR CAUSAS DE UTILIDAD PUBLICA
 
-LEY DE EXPROPIACION POR CAUSAS DE UTILIDAD PUBLICA
+LEY DE EXPROPIACIÓN POR CAUSAS DE UTILIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 24 de agosto de 1994.
 
@@ -113,11 +113,15 @@ A).- De diez días hábiles a partir de la notificación personal.
 
 B).- De treinta días naturales, cuando la notificación sea por edictos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 7o.
 
-El recurso de inconformidad se interpondrá ante el titular de la Procuraduría General de Justicia en el Estado, quien en vista de las alegaciones del recurrente pedirá informe al Secretario General de Gobierno, quien deberá rendirlo en el término de cinco días acompañando el expediente y decreto impugnado.
+El recurso de inconformidad se interpondrá ante el titular de la Fiscalía General del Estado, quien en vista de las alegaciones del recurrente pedirá informe al Secretario General de Gobierno, quien deberá rendirlo en el término de cinco días acompañando el expediente y decreto impugnado.
 
-Cuando el recurrente hubiere ofrecido pruebas al interponer el recurso, el titular de la Dirección Jurídica de la Procuraduría abrirá una dilación probatoria por diez días, agotadas las pruebas y formulados los alegatos que en su caso se presentarán en el término de tres días contados a partir de la conclusión de la dilación probatoria, la autoridad instructora dará cuenta al Ejecutivo del Estado para que resuelva lo que corresponda.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
+Cuando el recurrente hubiere ofrecido pruebas al interponer el recurso, el titular de la Dirección Jurídica de la Fiscalía General, abrirá una dilación probatoria por diez días, agotadas la (sic) pruebas y formulados los alegatos que en su caso se presentarán en el término de tres días, contados a partir de la conclusión de la dilación probatoria, la autoridad instructora dará cuenta al Ejecutivo del Estado para que resuelva lo que corresponda.
 
 Contra la resolución administrativa del recurso, el afectado podrá ejercer las acciones legales que procedan ante el órgano jurisdiccional competente.
 
@@ -210,3 +214,11 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
