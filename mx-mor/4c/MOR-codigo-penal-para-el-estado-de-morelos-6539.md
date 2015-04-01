@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2015-02-18"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1423,7 +1423,7 @@ Para quienes se encuentren fuera del territorio nacional, se suspenderá la pres
 
 Si se trata de los servidores públicos de los que se requiera la declaratoria de procedencia por parte del Congreso del Estado y esta no fuere concedida, se suspenderá la prescripción y se empezará a contar a partir del día que dejen de tener tal carácter.
 
-SECCIN (sic) SEGUNDA
+SECCIN (SIC) SEGUNDA
 
 PRESCRIPCION DE LA PRETENSION
 
@@ -4071,7 +4071,9 @@ II. Funcionarios partidistas, los dirigentes de los partidos políticos nacional
 
 III. Funcionarios públicos, los servidores públicos a que se refiere el título séptimo de la Constitución Política Local;
 
-IV. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales, municipales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+IV. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales, municipales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Morelense de Procesos Electorales y Participación Ciudadana.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
@@ -4149,7 +4151,9 @@ V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar 
 
 VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por el Código Electoral, la instale en lugar distinto al legalmente señalado, o impida su instalación;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por el Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, la instale en lugar distinto al legalmente señalado, o impida su instalación;
 
 VIII. Al que expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la ley le concede;
 
@@ -4183,7 +4187,9 @@ IV. Obstaculice el desarrollo normal de la votación sin mediar causa justificad
 
 V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; y
 
-VI. Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por el Código Electoral.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+VI. Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por el Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
@@ -4660,3 +4666,9 @@ P.O. 18 DE FEBRERO DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
