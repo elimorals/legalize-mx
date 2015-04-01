@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-capacitacion-para-el-trabajo-del-22258"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-08"
-last_updated: "2010-06-23"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MORELOS
 
-LEY DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MORELOS
+LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el martes 8 de julio de 1992.
 
@@ -45,7 +45,7 @@ Acorde con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo 1988-19
 
 III.- El Programa para la Modernización Educativa de 1989-1994, en su capítulo relativo a la capacitación formal para el trabajo dispone:
 
-"La capacitación formal para el trabajo se ofrece a personas adolescentes y adultas a efecto de que puedan incorporarse productivamente al mercado laboral o bien autoemplearse. es el proceso educativo que permite adquirir los conocimientos, habilidades, destrezas y actitudes necesarias para desempeñar tareas que contribuyan al desarrollo personal y colectivo."
+"La capacitación formal para el trabajo se ofrece a personas adolescentes y adultas a efecto de que puedan incorporarse productivamente al mercado laboral o bien autoemplearse... es el proceso educativo que permite adquirir los conocimientos, habilidades, destrezas y actitudes necesarias para desempeñar tareas que contribuyan al desarrollo personal y colectivo."
 
 Dentro del sistema educativo nacional -continua el capítulo en cita- existen varias instituciones que proporcionan servicios de capacitación formal para el trabajo, entre los que destacan los centros de capacitación para el trabajo de la Secretaría de Educación Pública.
 
@@ -77,11 +77,11 @@ LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE MORELOS.
 
 DEL OBJETO DEL INSTITUTO.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 1.
 
-Se crea "El Instituto de Capacitación para el Trabajo del Estado de Morelos", como organismo público descentralizado del Poder Ejecutivo del Gobierno del Estado, con personalidad jurídica y patrimonio propios, y con domicilio en la ciudad de Cuernavaca, Morelos, sectorizado a la Secretaría del Trabajo y Productividad.
+Se crea "El Instituto de Capacitación para el Trabajo del Estado de Morelos", como organismo público descentralizado del Poder Ejecutivo del Gobierno del Estado, con personalidad jurídica y patrimonio propios, y con domicilio en la ciudad de Cuernavaca, Morelos, sectorizado a la Secretaría del Trabajo.
 
 ###### ARTICULO 2.
 
@@ -159,13 +159,13 @@ I.- La persona titular de la Dependencia coordinadora de sector, quien la presid
 
 II.- Dos representantes del Gobierno Federal que serán designados por el Secretario de Educación Pública;
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
 
-III.- La persona titular de la Secretaría de Finanzas y Planeación;
+III.- La persona titular de la Secretaría de Hacienda;
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
 
-IV.- La persona titular de la Secretaría de Gestión e Innovación;
+IV.- La persona titular de la Secretaría de Administración;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
@@ -539,9 +539,11 @@ Serán alumnos del Instituto de capacitación para el trabajo del Estado de More
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 32.
 
-La Junta Directiva o el Gobernador del Estado podrán ordenar la práctica de auditorias en la contabilidad y archivo del organismo descentralizado que se crea, por conducto de la Secretaría de la Contraloría General del Estado.
+La Junta Directiva o el Gobernador del Estado podrán ordenar la práctica de auditorías en la contabilidad y archivo del organismo descentralizado que se crea, por conducto de la Secretaría de la Contraloría del Estado.
 
 ## TRANSITORIOS.
 
@@ -577,8 +579,14 @@ ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE JUNIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
