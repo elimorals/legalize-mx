@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-comite-de-adquisiciones-del-poder-82927
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-22"
-last_updated: "2011-09-22"
+last_updated: "2015-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE ADQUISICIONES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO INTERIOR DEL COMITE DE ADQUISICIONES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN
+REGLAMENTO INTERIOR DEL COMITÉ DE ADQUISICIONES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COMITÉ DE ADQUISICIONES DEL PODER EJECUTIVO, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 22 de septiembre de 2011.
 
@@ -354,3 +356,11 @@ LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN
 MIRELLA GUZMÁN ROSAS
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2015.
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Comité de Adquisiciones del Poder Ejecutivo del Estado de Michoacán de Ocampo, publicado en la Quinta Sección Tomo CLII del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo de fecha 22 de septiembre de 2011, y se dejan sin efecto todas las disposiciones de carácter administrativo en lo que se oponga al presente Reglamento.
