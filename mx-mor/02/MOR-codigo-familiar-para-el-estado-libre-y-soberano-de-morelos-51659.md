@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-12-24"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -349,13 +349,13 @@ CAPACIDAD. La capacidad es la idoneidad para ser sujeto de relaciones jurídicas
 
 ### CAPÍTULO II. DE LAS PERSONAS JURÍDICAS INDIVIDUALES
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 3.
 
-CAPACIDAD DE GOCE Y SU PROTECCIÓN. La capacidad de goce de las personas jurídicas individuales se adquiere por el nacimiento y se pierde por la muerte, pero entran bajo la protección de la Ley desde el momento en que los individuos son concebidos; y si nacen vivos y viables.
+CAPACIDAD DE GOCE Y SU PROTECCIÓN. La capacidad de goce de las personas jurídicas individuales se adquiere por el nacimiento y se pierde por la muerte, pero entran bajo la protección de la Ley desde el momento en que los individuos son concebidos; y si nacen viables.
 
-Para los efectos legales, sólo se reputa viable el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al registro civil. Faltando alguna de estas circunstancias nunca podrá entablarse demanda sobre la paternidad o maternidad.
+Para los efectos legales, sólo se reputa viable el producto de la concepción que desprendido enteramente del seno materno, respire o dé cualquier otra señal de vida. Faltando alguna de estas circunstancias nunca podrá entablarse demanda sobre la paternidad o maternidad.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -463,11 +463,11 @@ PLURALIDAD DE PATRIMONIOS. Cuando se afecte un conjunto de bienes, derechos y ob
 
 ### CAPÍTULO VII. DEL ESTADO CIVIL
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-ESTADO CIVIL DE LA PERSONA JURÍDICA INDIVIDUAL. Sólo la persona jurídica individual tiene estado civil, entendido como la situación jurídica concreta, de un hombre o de una mujer en relación con la familia que podrá ser de soltero, casado, divorciado o las que se desprendan de los actos del registro civil.
+ESTADO CIVIL DE LA PERSONA JURÍDICA INDIVIDUAL. Sólo la persona jurídica individual tiene estado civil, entendido como la situación jurídica concreta, de un hombre o de una mujer en relación con la familia que podrá ser de soltero o casado.
 
 # LIBRO SEGUNDO. DEL DERECHO DE FAMILIA
 
@@ -507,11 +507,11 @@ DE LA ATENCIÓN PROFESIONAL A LA FAMILIA. El Tribunal Superior de Justicia del E
 
 ### CAPÍTULO II. DEL PARENTESCO
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 26.
 
-CLASES DE PARENTESCO.- Este Código reconoce únicamente los parentescos de consanguinidad, afinidad y civil.
+CLASES DE PARENTESCO.- Este Código reconoce únicamente los parentescos de consanguinidad y afinidad.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -519,11 +519,11 @@ CLASES DE PARENTESCO.- Este Código reconoce únicamente los parentescos de cons
 
 PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor, o el equivalente por adopción plena.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 28.
 
-PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio o concubinato, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
+PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
 
 ###### ARTÍCULO 28 Bis.
 
@@ -6204,3 +6204,35 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Dese cuenta a la Cámara de Diputados, en contestación a los exhortos contenidos en los oficios DGPL-62-II-5-694, CP2R2A.-337.16 y CP2R2A.-1400.16, de fecha veinticuatro de abril de dos mil trece, 21 de mayo de 2014 y 25 de junio de 2014, mediante el cual se exhorta a las Legislaturas de los Estados, para que en el ámbito de sus respectivas competencias, revisen su legislación civil, con el fin de aumentar la edad mínima para que ambos contrayentes puedan celebrar matrimonio.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL SETENTA Y NUEVE POR EL QUE SE REFORMA EL ARTÍCULO 3, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL OCHENTA POR EL QUE SE REFORMA EL ARTÍCULO 19, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL OCHENTA Y UNO POR EL QUE SE REFORMA EL ARTÍCULO 26, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO ONCE POR EL QUE SE REFORMA EL ARTÍCULO 28, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
