@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-para-8419
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -403,9 +403,7 @@ Relación de procesos, que especifique tipo de juicio, autoridad que tiene el ju
 
 En general los aspectos relacionados con la situación administrativa, desarrollo, cumplimiento o en su caso modificación de programas y demás información y documentación relativa que señale la presente Ley.
 
-La información a que se refiere este artículo, deberá detallarse de tal manera que contenga todos los datos necesarios y suficientes para determinar, ubicar e identificar con facilidad el concepto de que se trata, así como para determinar la situación y estado en que se encuentre, pudiendo la entidad o dependencia que se encuentre en este proceso, en cuanto a la entrega de expedientes, almacenar los mismos en los medios electrónicos que estén a su
-
-alcance.
+La información a que se refiere este artículo, deberá detallarse de tal manera que contenga todos los datos necesarios y suficientes para determinar, ubicar e identificar con facilidad el concepto de que se trata, así como para determinar la situación y estado en que se encuentre, pudiendo la entidad o dependencia que se encuentre en este proceso, en cuanto a la entrega de expedientes, almacenar los mismos en los medios electrónicos que estén a su alcance.
 
 Los servidores públicos municipales, además de la documentación señalada en el presente artículo, de acuerdo a la naturaleza de la actividad desarrollada, deberán entregar la siguiente:
 
@@ -513,9 +511,11 @@ En caso de los servidores públicos entrantes de los municipios y entidades para
 
 ### CAPÍTULO TERCERO. DE LA ENTREGA-RECEPCIÓN AL CAMBIO DE ADMINISTRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### Artículo 25.
 
-Al término e inicio de un ejercicio constitucional el procedimiento de entrega-recepción podrá iniciarse a partir de que el servidor público entrante estatal o municipal haya sido legalmente reconocido por el Instituto Estatal Electoral.
+Al término e inicio de un ejercicio constitucional el procedimiento de entrega-recepción podrá iniciarse a partir de que el servidor público entrante estatal o municipal haya sido legalmente reconocido por el Instituto Morelense de Procesos Electorales y Participación Ciudadana.
 
 La comisión receptora deberá tomar conocimiento de la situación que guarda la administración, desarrollo y cumplimiento de los programas y proyectos, y en su caso, obras públicas en proceso, de tal manera que al momento de concretarse el relevo en la titularidad de los cargos, se continúe de manera segura y eficiente la marcha de la actividad pública correspondiente.
 
@@ -629,7 +629,7 @@ Si no obstante el requerimiento realizado, el servidor público saliente dejare 
 
 La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Secretaría de la Contraloría y del Consejo de la Judicatura del Poder Judicial, así como de los órganos internos de control de los organismos públicos autónomos y de la Contraloría Municipal y el órgano de la Auditoría Superior de Fiscalización que la Ley establezca en el caso de los ayuntamientos de los municipios del Estado.
 
-…
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
 
 ## TRANSITORIOS
 
@@ -660,3 +660,21 @@ SECRETARIO DE GOBIERNO
 Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2074, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO, DEL ARTICULO 25, DE LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA El ESTADO DE MORELOS Y SUS MUNICIPIOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL SETENTA Y SIETE POR EL QUE SE DEROGA EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 40, DE LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectivamente, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrara en vigor a partir del día siguiente de su publicación en el periódico Oficial “Tierra y Liberta”, Órgano de difusión del Gobierno del Estado de Morelos.
