@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-regimen-de-condominio-de-inmuebles-para-el-22267"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-02"
-last_updated: "2014-05-28"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL RÉGIMEN DE CONDOMINIO DE INMUEBLES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 2 de febrero de 1994.
 
@@ -103,9 +103,11 @@ XIV.- REGLAMENTO: Es el Reglamento de la presente Ley que cada municipio apruebe
 
 XV.- UNIDAD CONDOMINIAL: Cada una de las partes de propiedad singular y exclusiva, en que de conformidad como lo establece el Código Civil, se divide un inmueble sujeto al régimen de condominio.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 3.
 
-Para la constitución del régimen de condominio en cualquiera de sus modalidades, se requiere que los interesados obtengan de las autoridades competentes de conformidad con lo que establezcan las leyes y reglamentos estatales y municipales, una declaración en el sentido de ser realizable el proyecto por hallarse dentro de las previsiones de los planes de desarrollo urbano de la localidad de que se trate. En lo administrativo, será aplicable la Ley de Fraccionamientos, Condominios y Conjuntos Habitacionales.
+Para la constitución del régimen de condominio en cualquiera de sus modalidades, se requiere que los interesados obtengan de las autoridades competentes de conformidad con lo que establezcan las Leyes y Reglamentos Estatales y Municipales, una declaración en el sentido de ser realizable el Proyecto por hallarse dentro de las previsiones de los Planes de Desarrollo Urbano de la localidad de que se trate. En cuanto a las autorizaciones a que se refiere este artículo será aplicable la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos.
 
 ### CAPITULO II. DEL REGIMEN DE CONDOMINIO
 
@@ -175,13 +177,17 @@ Al apéndice de la escritura se agregarán copias debidamente certificadas por e
 
 De la documentación anterior y de la demás que se juzgue necesaria, se entregarán al administrador copias notarialmente certificadas, para el debido desempeño de su cargo.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 10.
 
-En los casos en que la declaración unilateral de voluntad para constituir el régimen de condominio sea expresada por las dependencias o entidades de la Administración Pública, sea ésta Federal, Estatal o Municipal, incluyendo a los Institutos, Fondos, Fideicomisos, Comisiones u otros organismos que legalmente operen en materia de vivienda o de Titulación de la Tierra, podrá hacerse constar en escrito privado que reúna las características a que se refiere el artículo 1805 del Código Civil, excepto el otorgamiento de fianza mismo que se inscribirá en el Registro Público de la Propiedad.
+En los casos en que la declaración unilateral de voluntad para constituir el régimen de condominio sea expresada por las Dependencias o Entidades de la Administración Pública, sea ésta Federal, Estatal o Municipal, incluyendo a los Institutos, Fondos, Fideicomisos, Comisiones u otros Organismos que legalmente operen en materia de vivienda o de Titulación de la Tierra, podrá hacerse constar en escrito privado que reúna las características a que se refiere el artículo 1805 del Código Civil, excepto el otorgamiento de fianza mismo que se inscribirá en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 11.
 
-La escritura o en su caso el documento privado de constitución del régimen de condominio de inmuebles que reúna los requisitos de ley deberá inscribirse en el Registro Público de la Propiedad.
+La escritura o en su caso el documento privado de constitución del régimen de condominio de inmuebles que reúna los requisitos de Ley deberá inscribirse en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
 
 ###### ARTICULO 12.
 
@@ -373,7 +379,7 @@ XI.- Rendir a la asamblea de condóminos la cuenta anual de su gestión, y formu
 
 XII.- Exigir la responsabilidad en que incurran los condóminos por infracción a lo dispuesto por el artículo 23 de esta Ley;
 
-XIII.- Cuidar de la debida observancia de las disposiciones de esta Ley, el Reglamento de Condominio y de la escritura constitutiva; y (sic)
+XIII.- Cuidar de la debida observancia de las disposiciones de esta Ley, el Reglamento de Condominio y de la escritura constitutiva; y
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -583,9 +589,11 @@ El reglamento de condominio será obligatorio para nuevos adquirentes y causahab
 
 Para modificar el reglamento de condominio en la convocatoria a la celebración de asamblea, se deberán incluir las modificaciones que se propongan. Los acuerdos de modificación deberán ser tomados por el voto de la mayoría del número de condóminos y, además, por la representación de las tres cuartas partes del valor del condominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 38.
 
-Toda modificación deberá ser inscrita en el Registro Público de la Propiedad.
+Toda modificación deberá ser inscrita en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -639,7 +647,9 @@ Cada condómino responderá sólo del gravamen que corresponda a su unidad condo
 
 Los créditos que se originen por las obligaciones contenidas en las escrituras constitutivas y de traslación de dominio, por el reglamento de condominio o por esta ley y demás disposiciones legales aplicables, gozan de garantía real sobre las unidades condominiales, aunque éstas se trasmitan a terceros.
 
-La inscripción de este gravamen en el Registro Público de la Propiedad, da derecho a todo interesado para obtener del administrador y de cualquier acreedor una liquidación de adeudos pendientes. La liquidación del administrador sólo surtirá efectos legales si va suscrita por el presidente del comité de vigilancia o quien lo sustituya.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
+La inscripción de este gravamen en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, da derecho a todo interesado para obtener del administrador y de cualquier acreedor una liquidación de adeudos pendientes. La liquidación del administrador sólo surtirá efectos legales si va suscrita por el presidente del comité de vigilancia o quien lo sustituya.
 
 ### CAPITULO IX. DESTRUCCION, RUINA Y RECONSTRUCCION DEL CONDOMINIO
 
@@ -681,7 +691,9 @@ Toda obra de construcción, mejora, adaptación o modificación en los mercados 
 
 El condominio de mercados legalmente constituido, sujetará su funcionamiento y control administrativo, como servicio público, a las disposiciones de la Ley de Mercados y demás leyes y reglamentos aplicables.
 
-Los derechos y obligaciones de los condóminos se regirán por las disposiciones del Código Civil, la presente Ley, la Ley de Fraccionamientos, Condominios y Conjuntos Habitacionales y su Reglamento, la Escritura Constitutiva y el Reglamento de Condominio.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
+Los derechos y obligaciones de los condóminos se regirán por las disposiciones del Código Civil, la presente Ley, la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos y su Reglamento, la Escritura Constitutiva y el Reglamento de Condominio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -711,7 +723,7 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- Se deroga la "Ley sobre el Régimen de Propiedad y Condominio de los Edificios divididos en pisos, departamentos, viviendas o locales del Estado de Morelos", de fecha 24 de diciembre de 1956 y publicada el día 26 de diciembre de 1956, así como las disposiciones legales que se opongan a la presente Ley.
 
-TERCERO.- Las normas relativas al Régimen de Condominio, de la Ley de Fraccionamientos, Conjuntos Habitacionales y Condominios continuará (sic) aplicándose en materia administrativa siempre que no contravengan el presente ordenamiento.
+TERCERO.- Las normas relativas al Régimen de Condominio, de la Ley de Fraccionamientos, Conjuntos Habitacionales y Condominios continuará aplicándose en materia administrativa siempre que no contravengan el presente ordenamiento.
 
 Salón de Sesiones del H. Congreso del Estado a los treinta y un días del mes de enero de mil novecientos noventa y cuatro.
 
@@ -762,3 +774,19 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2070, POR EL QUE SE REFORMA EL ARTÍCULO 3 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 53, AMBOS DE LA LEY SOBRE EL RÉGIMEN DE CONDOMINIO DE INMUEBLES PARA EL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2109, POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, 11, PRIMER PÁRRAFO DEL ARTÍCULO 38 Y EL SEGUNDO PÁRRAFO DEL PRECEPTO LEGAL 47, TODOS ELLOS DE LA LEY SOBRE EL RÉGIMEN DE CONDOMINIO DE INMUEBLES PARA EL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
