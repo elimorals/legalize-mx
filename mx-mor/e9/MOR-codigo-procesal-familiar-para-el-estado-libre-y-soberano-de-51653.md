@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-12-10"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1577,7 +1577,7 @@ AMPLIACIÓN DEL PLAZO POR DILIGENCIAS FORÁNEAS. Siempre que la práctica de un 
 
 ###### ARTÍCULO 147.
 
-AUSENCIA DE SEÑALAMIENTO DE PLAZOS. Cuando este código no señale términos para las prácticas de algún acto judicial o para el ejercicio de algún derecho, se tendrá por señalado los siguientes (sic):
+AUSENCIA DE SEÑALAMIENTO DE PLAZOS. Cuando este código no señale términos para las prácticas de algún acto judicial o para el ejercicio de algún derecho, se tendrá por señalado los siguientes:
 
 I. Cinco días para interponer el recurso de apelación de sentencia definitiva;
 
@@ -2327,17 +2327,21 @@ Cuando el deudor no perciba sueldo, los alimentos se cubrirán en cantidad líqu
 
 En la diligencia de requerimiento de pago, si el deudor se negase a efectuarlo, se procederá al embargo y la venta de sus bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 260.
 
-REQUISITOS PARA SOLICITAR LOS ALIMENTOS. Para pedir que se decreten provisionalmente los alimentos, deberán acreditarse el título en cuya virtud se piden, la posibilidad de quien deba darlos y la urgencia de la medida.
+REQUISITOS PARA SOLICITAR LOS ALIMENTOS. Para pedir que se decreten provisionalmente los alimentos, deberán acreditarse el título en cuya virtud se piden, la posibilidad de quien deba darlos y la urgencia de la medida, ésta última se acreditará, preferentemente, sólo con lo expuesto en la demanda.
 
 Cuando se soliciten por razón de parentesco, deberá acreditarse éste. Si se fundan en testamento, contrato o convenio, debe exhibirse el documento en que consten.
 
 Si se piden como medida provisional en un juicio de divorcio se señalarán y asegurarán los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 261.
 
-FIJACIÓN DEL MONTO DE LOS ALIMENTOS. Rendida la justificación a que se refiere el artículo anterior, el Juez determinará la suma a que deben ascender los alimentos, mandando abonarlos por quincenas o semanas anticipadas.
+FIJACIÓN DEL MONTO DE LOS ALIMENTOS. Rendida la justificación a que se refiere el artículo anterior, y de ser posible en el mismo acuerdo de admisión, el Juez determinará la suma a que deben ascender los alimentos, mandando abonarlos por quincenas o semanas anticipadas.
 
 La providencia se ejecutará sin necesidad de otorgar caución.
 
@@ -3679,7 +3683,7 @@ REGISTRO DE LA SENTENCIA EJECUTORIADA. Ejecutoriada la sentencia de divorcio, el
 
 ###### ARTÍCULO 442.
 
-IMPUGNACIÓN DE LAS SENTENCIAS. La sentencia de fondo es apelable en el efecto suspensivo pero podrá ejecutarse en lo que se refiera a pensión alimentaría (sic).
+IMPUGNACIÓN DE LAS SENTENCIAS. La sentencia de fondo es apelable en el efecto suspensivo pero podrá ejecutarse en lo que se refiera a pensión alimentaría.
 
 ### CAPÍTULO IV. DE LOS JUICIOS SOBRE PATERNIDAD, FILIACIÓN Y PATRIA POTESTAD
 
@@ -4237,7 +4241,7 @@ PROHIBICIÓN A LOS CÓNYUGES RECONCILIADOS DE PROMOVER UN NUEVO DIVORCIO. Los c�
 
 ###### ARTÍCULO 500.
 
-APELACIÓN DE LA SENTENCIA QUE DECRETA EL DIVORCIO. La sentencia de fondo es apelable en el efecto devolutivo, pero no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimentaría (sic). La que lo niegue es apelable en el efecto suspensivo.
+APELACIÓN DE LA SENTENCIA QUE DECRETA EL DIVORCIO. La sentencia de fondo es apelable en el efecto devolutivo, pero no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimentaría. La que lo niegue es apelable en el efecto suspensivo.
 
 ###### ARTÍCULO 501.
 
@@ -6868,3 +6872,9 @@ P.O. 10 DE DICIEMBRE DE 2014.
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
