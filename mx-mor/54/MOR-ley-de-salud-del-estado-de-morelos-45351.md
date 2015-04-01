@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2014-12-24"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -291,7 +291,9 @@ El Sistema Estatal de Salud está constituido por las dependencias y entidades p
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo los problemas sanitarios prioritarios del estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
 II.- Contribuir al desarrollo demográfico armónico del Estado;
 
@@ -349,9 +351,13 @@ XV.- Promover e impulsar la participación de la comunidad del Estado en el cuid
 
 XVI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-XVII.- Llevar el Registro de Agrupaciones para la Salud; y
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
 
-XVIII.- Las demás atribuciones, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XVII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+
+XVIII.- Llevar el Registro de Agrupaciones para la Salud, y
+
+XIX.- Las demás atribuciones, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -607,9 +613,11 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimientos crónico-degenerativos o en etapa terminal;
+III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimientos crónico-degenerativos o en etapa terminal.
+
+Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -871,7 +879,9 @@ II.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
 III.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
-IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y la realización de campañas para fomentar el hábito de consumo de la misma; así como medios sanitarios de eliminación de excreta;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1420,6 +1430,10 @@ En los programas a que se refiere el artículo anterior; se incorporarán accion
 ###### Artículo 113 Bis.
 
 Como parte de las acciones que en materia de nutrición desarrollen la Secretaría de Salud del Estado, los Servicios de Salud de Morelos y los Ayuntamientos, en sus respectivos ámbitos de competencia, deberán implementar medidas para que en los establecimientos en los que se vendan alimentos preparados prevalezca la disminución del consumo de sal, y se retiren al efecto los saleros de las mesas, además de que se coloque en lugares visibles información sobre las enfermedades que ocasiona el consumo excesivo de sal.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2015)</small>
+
+En estos establecimientos también se deberá proporcionar, de manera obligatoria y gratuita, agua potable a los clientes que así lo soliciten.
 
 Por el cumplimiento a estas disposiciones, la Secretaría de Salud del Estado, podrá otorgar la certificación "Empresa Saludablemente Responsable", por lo que promoverá e incentivará la obtención de dicha certificación entre las empresas dedicadas a la venta de alimentos preparados, además de que habrá de difundir entre la población cuáles empresas han sido certificadas.
 
@@ -2001,23 +2015,23 @@ IV.- Los maestros, las asociaciones de padres de familia y asociaciones de alumn
 
 ###### Artículo 170.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 171.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 172.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 173.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 174.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO ÚNICO
 
@@ -4048,3 +4062,27 @@ P.O. 24 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo para los efectos constitucionales procedentes.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO TREINTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 13; SE ADICIONA UNA FRACCIÓN PARA SER XVII, RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES QUE ERAN XVII Y XVIII PARA SER XVIII Y XIX EN EL ARTÍCULO 14; Y SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 37; TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO TREINTA Y SEIS POR EL QUE SE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 72; Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL QUE ERA SEGUNDO PÁRRAFO PARA QUEDAR COMO TERCERO, EN EL ARTÍCULO 113 BIS; AMBOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
