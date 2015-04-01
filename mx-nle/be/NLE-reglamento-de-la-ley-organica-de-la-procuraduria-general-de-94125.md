@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-941
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-20"
-last_updated: "2014-10-27"
+last_updated: "2015-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 20 de abril de 2013.
 
@@ -1217,25 +1217,85 @@ VIII. Las que le encomiende el Director General de Atención Ciudadana y Justici
 
 De la Unidad Especializada Antisecuestros
 
-La Unidad Especializada Antisecuestros depende directamente del Procurador, es un unidad administrativa central desconcentrada de la Procuraduría, con autonomía técnica y operativa en el ejercicio de sus funciones; tendrá por objeto llevar a cabo la investigación y persecución de delitos en materia de secuestro y de aquellos que se encuentren relacionados con esa especialidad o los que así lo disponga el Procurador, siendo competente para lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
 
-I. Dirigir y supervisar la debida integración y determinación de las Investigaciones relacionadas con los delitos en materia de secuestro que se llevan a cabo de las Agencias del Ministerio Público adscritas a la Unidad;
+La Unidad Especializada Antisecuestros depende directamente del Procurador, es un (sic) unidad administrativa central desconcentrada de la Procuraduría, con autonomía técnica y operativa en el ejercicio de sus funciones; tendrá por objeto llevar a cabo la investigación y persecución de delitos en materia de secuestro y de aquellos que se encuentren relacionados con esa especialidad o los que así lo disponga el Procurador, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+I. Dirigir y supervisar la debida integración y determinación de las Investigaciones relacionadas con los delitos en materia de secuestro que se llevan a cabo en las Unidades de Investigación adscritas a la Unidad;
 
 II. Auxiliar al Ministerio Público de la Federación, de otras Entidades Federativas o del Distrito Federal, en los términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos, en la realización de diligencias solicitadas;
 
-III. Coordinar los procesos de manejo de crisis, negociación y atención a familiares y víctimas de los delitos materia de secuestros o que se relacionen con esa especialidad;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+III. Coordinar los procesos de manejo de crisis, negociación y atención a familiares y víctimas de los delitos materia de secuestro o que se relacionen con esa especialidad;
 
 IV. Dirigir los procesos de planeación estratégica, jurídica, táctica y operativa que orientan la investigación, persecución y esclarecimiento de los demos que conozca la Unidad;
 
 V. Desarrollar y supervisar un sistema de información que auxilie en las labores de la unidad;
 
-VI. Planear los operativos y dirigir al equipo de investigación policial, con el fin de obtener elementos de prueba que coadyuven a la integración y fortalecimiento de las indagatorias, a la liberación de las víctimas del secuestro y a la consignación de los presuntos responsables;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
 
-VII. Planear y coordinar los operativos que se deriven de órdenes judiciales que permitan la preservación de la integridad física de las víctimas, su liberación y la consignación de los presuntos responsables de los delitos de privación ilegal de la libertad en su modalidad de secuestro;
+VI. Planear los operativos y dirigir al equipo de investigación policial, con el fin de obtener elementos de prueba que coadyuven a la integración y fortalecimiento de las indagatorias, la liberación de las víctimas del secuestro y la acreditación de la responsabilidad de los imputados;
 
-VIII. Establecer y administrar el vinculo con el sistema de información criminal, desarrollado por el gobierno federal para el intercambio de información sobre los delitos materia de secuestro, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
 
-IX. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+VII. Planear y coordinar los operativos que se deriven de órdenes judiciales que permitan la preservación de la integridad física de las víctimas, su liberación y la acreditación de la responsabilidad de los imputados de los delitos de secuestro;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+VIII. Establecer y administrar el vínculo con el sistema de información criminal, desarrollado por el gobierno federal para el intercambio de información sobre los delitos materia de secuestro;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+IX. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+X. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la Segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XI. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XII. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XIII. Someter a la aprobación del Procurador los casos en los que se pretenda prescindir, total o parcialmente, de la persecución penal, que se limite a alguno o varios hechos o a alguna de las personas que participaron en su realización, debiendo adoptar los criterios de oportunidad señalados en la ley aplicable;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XIV. Poner a la consideración del Procurador, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XV. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XVI. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que las víctimas y ofendidos por delitos reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, a sus familiares o testigos;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XVII. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XVIII. Aplicar los métodos y lineamientos establecidos por el Procurador para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XIX. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2015)</small>
+
+XX. Tener a su cargo la actuación procesal del Ministerio Público en el sistema procesal penal acusatorio, y
+
+XXI. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
 ###### Artículo 41.
 
@@ -1961,7 +2021,7 @@ II. Llevar el registro de los casos iniciados, así como de su seguimiento y res
 
 III. Realizar entrevistas, visitas o cualquier otra acción para verificar el cumplimiento de los acuerdo (sic) reparatorios y suspensiones del proceso a prueba;
 
-IV. Informar al Agente del Ministerio Público correspondiente sobre el incumplimiento de los acuerdo reparatorios y suspensiones del proceso a prueba, y
+IV. Informar al Agente del Ministerio Público correspondiente sobre el incumplimiento de los acuerdo (sic) reparatorios y suspensiones del proceso a prueba, y
 
 V. Las demás que le encomiende el Director General de Atención Ciudadana y Justicia Penal Alternativa o le otorguen el Código Procesal Penal, la Ley, este Reglamento y demás normas aplicables.
 
@@ -2466,3 +2526,7 @@ P.O. 27 DE OCTUBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO. La Fiscalía Especializada de Operaciones Estratégicas entrará en funciones el día 1 de abril de 2015.
+
+P.O. 1 DE ABRIL DE 2015.
+
+ÚNICO. El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de abril de 2015.
