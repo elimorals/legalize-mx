@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-juventud-para-el-estado-de-morelos-45770"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-03"
-last_updated: "2005-08-03"
+last_updated: "2015-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de agosto de 2005.
 
@@ -446,3 +448,29 @@ SECRETARIO DE GOBIERNO.
 JESÚS GILES SÁNCHEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERA. Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano informativo del Gobierno del Estado de Morelos, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+TERCERA. Se abroga la Ley de la Juventud para el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4405, el día 3 de agosto de 2005 y el Decreto que crea al Instituto Morelense de la Juventud, publicado en el Periódico Oficial "Tierra y Libertad" número 4424, el 07 de Noviembre del año 2005.
+
+CUARTA. Las disposiciones reglamentarias y administrativas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley de las Personas Adolescentes y Jóvenes en el Estado de Morelos que se expide por virtud de la presente Ley.
+
+QUINTA. El Ejecutivo del Estado, a través del Instituto Morelense de las Personas Adolescentes y Jóvenes deberá emitir, dentro de noventa días hábiles siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos establecidos en la Ley de las Personas Adolescentes y Jóvenes en el Estado de Morelos, que se expide por virtud de la presente Ley.
+
+SEXTA. Sin perjuicio de lo establecido en esta Ley y en la normatividad que al efecto se emita, las acciones, procedimientos de responsabilidad administrativa y de separación del cargo, realizadas con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados hasta su terminación.
+
+SÉPTIMA. El Ejecutivo del Estado realizará las acciones tendientes a instalar el Sistema Estatal de Políticas con las Juventudes y desde las Juventudes el veinticuatro de octubre, en el marco del Día Mundial de Información Sobre el Desarrollo.
+
+OCTAVA. El Director del Instituto Morelense de las Personas Adolescentes y Jóvenes, deberá realizar el procedimiento establecido en la presente Ley, para emitir la Convocatoria Pública para la selección por concurso de oposición, formulación de una terna y designación de los tres profesionales de la Oficina de Políticas con las Juventudes y desde las Juventudes.
+
+NOVENA. El impacto presupuestario que se genere con motivo de la entrada en vigor de la presente Ley relacionado con el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Morelense de las Personas Adolescentes, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados del Congreso del Estado de Morelos a dicho organismo.
+
+DÉCIMA. Los recursos humanos, presupuestales, financieros y materiales del Instituto Morelense de la Juventud, pasarán a formar parte del Instituto Morelense de las Personas Adolescentes y Jóvenes, una vez que se nombre a su Director, sin menoscabo de los derechos laborales de sus trabajadores; debiendo el Gobierno del Estado dictar los instrumentos necesarios a las Secretarías de despacho correspondientes, para el cumplimiento de esta disposición.
+
+UNDÉCIMA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Instituto Morelense de la Juventud, de su Titular en cualquier ordenamiento legal, así como en Contratos, Convenios o Acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, así como con cualquier persona física o moral, serán asumidos por el Instituto Morelense de las Personas Adolescentes y Jóvenes, de acuerdo con las atribuciones que mediante la presente Ley se les otorga.
