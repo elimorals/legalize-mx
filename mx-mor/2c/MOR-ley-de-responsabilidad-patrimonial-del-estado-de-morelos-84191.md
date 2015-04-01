@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-responsabilidad-patrimonial-del-estado-de-morelos-84191"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -225,7 +225,9 @@ Con motivo del procedimiento administrativo de reclamación, los documentos, con
 
 La dependencia o unidad que tenga a su cargo la atención de los asuntos jurídicos del ente público, o el órgano de control o vigilancia, no serán competentes en los términos previstos en el primer párrafo de este artículo, cuando la reclamación les atribuya, directa o indirectamente, hechos u omisiones que sean causa probable de responsabilidad patrimonial; en este caso, la autoridad máxima del ente público, determinará la autoridad competente para conocer y resolver.
 
-Así mismo, tratándose del Poder Ejecutivo del Estado de Morelos, cuando el probable daño causado, involucre a dos o más entes públicos sectorizados a dicho poder; la autoridad competente lo será el titular de la Consejería Jurídica del citado Poder Ejecutivo local; a quien corresponderá sustanciar dicho procedimiento, emitiendo la resolución que proceda, con la sanción del titular de la Secretaría de la Contraloría. En el supuesto en que se acredite la existencia de daño patrimonial, la resolución determinará la parte que corresponda cubrir por indemnización a cada ente público involucrado, previa opinión de la Secretaría de Finanzas y Planeación, respecto del gasto presupuestal que cada ente tenga autorizado. En este supuesto, cada una de las unidades de asuntos jurídicos pondrá en conocimiento de la Consejería Jurídica las reclamaciones que involucren a dos o más entes públicos, remitiendo los documentos anexos a las promociones. Lo anterior no será obstáculo para que la propia Consejería Jurídica sea quien solicite la remisión de dichos asuntos.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+
+Así mismo, tratándose del Poder Ejecutivo del Estado de Morelos, cuando el probable daño causado, involucre a dos o más entes públicos sectorizados a dicho poder; la autoridad competente lo será el titular de la Consejería Jurídica del citado Poder Ejecutivo Local; a quien corresponderá sustanciar dicho procedimiento, emitiendo la resolución que proceda, con la sanción del titular de la Secretaría de la Contraloría. En el supuesto en que se acredite la existencia de daño patrimonial, la resolución determinará la parte que corresponda cubrir por indemnización a cada Ente Público involucrado, previa opinión de la Secretaría de Hacienda, respecto del gasto presupuestal que cada ente tenga autorizado. En este supuesto, cada una de las Unidades de Asuntos Jurídicos pondrá en conocimiento de la Consejería Jurídica las reclamaciones que involucren a dos o más Entes Públicos, remitiendo los documentos anexos a las promociones. Lo anterior, no será obstáculo para que la propia Consejería Jurídica sea quien solicite la remisión de dichos asuntos.
 
 Si iniciado el procedimiento de responsabilidad patrimonial, se encontrare pendiente, alguno de los procedimientos por los que el particular haya impugnado el acto de autoridad que se reputa como dañoso, el procedimiento de responsabilidad patrimonial se suspenderá hasta en tanto en los otros procedimientos, la autoridad competente no haya dictado una resolución que cause estado.
 
@@ -412,3 +414,11 @@ SECRETARIO DE GOBIERNO
 Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
