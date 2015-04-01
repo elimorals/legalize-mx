@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-96523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-20"
-last_updated: "2013-10-22"
+last_updated: "2015-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2015.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 20 de diciembre de 2012.
 
@@ -55,11 +55,17 @@ IV. Instituto.- El Instituto Estatal de Acceso a la Información Pública;
 
 V. Consejo.- El Consejo General del Instituto Estatal de Acceso a la Información Pública;
 
-VI. Unidad de Acceso.- La Unidad de Acceso a la Información Pública del Instituto;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-VII. Unidades Administrativas.- Las Unidades del Instituto Estatal de Acceso a la Información Pública que posean, generen y procesen la información pública;
+VI. Centro de Formación.- El Centro de Formación en Transparencia, Acceso a la Información y Archivos Públicos;
 
-VIII. Sujetos Obligados:
+VII. Unidad de Acceso.- La Unidad de Acceso a la Información Pública del Instituto;
+
+VIII. Unidades Administrativas.- Las Unidades del Instituto Estatal de Acceso a la Información Pública que posean, generen y procesen la información pública;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+IX. Sujetos Obligados:
 
 a. El Poder Legislativo;
 
@@ -119,9 +125,13 @@ VII. Dirección de Administración y Finanzas:
 
 a) Coordinación de Administración y Finanzas;
 
-VIII. Dirección de Capacitación y Proyectos Educativos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2015)</small>
 
-a) Coordinación de Capacitación y Educación;
+VIII. Centro de Formación en Transparencia, Acceso a la Información y Archivos Públicos:
+
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2015)</small>
+
+a) Coordinación de Capacitación y Proyectos Educativos;
 
 IX. Dirección de Difusión y Vinculación:
 
@@ -267,6 +277,14 @@ XLVII. Habilitar al personal para recepción de promociones fuera de horario de 
 
 XLVIII. Las demás que emanen de las disposiciones legales, vigentes.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE ABRIL DE 2015)</small>
+
+L (SIC). Evaluar las acciones de capacitación que realicen los Sujetos Obligados con motivo de la Ley, a través del Centro de Formación; y
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+LI. Las demás tareas que le confieran las disposiciones legales, así como aquéllas que le asigne el Consejo General.
+
 #### SECCIÓN SEGUNDA. CONSEJERO PRESIDENTE
 
 ###### Artículo 9.
@@ -349,7 +367,7 @@ VI. Suplir al Consejero Presidente en sus funciones específicas en caso de falt
 
 VII. Solicitar y obtener de las diferentes Direcciones del Instituto, la información y apoyo necesarios para el cumplimiento de sus atribuciones; y
 
-VIII. Las demás que emanen de las disposiciones legales, vigentes, o determine el Consejo General y el Consejero Presidente del Instituto; (sic)
+VIII. Las demás que emanen de las disposiciones legales, vigentes, o determine el Consejo General y el Consejero Presidente del Instituto;
 
 #### SECCIÓN CUARTA. COORDINACIÓN DE APOYO PLENARIO Y ARCHIVO ADMINISTRATIVO
 
@@ -485,7 +503,7 @@ XIV. Supervisar la administración, registro, control, uso mantenimiento y conse
 
 XV. Supervisar el diseño, organización, promoción y realización de cursos, seminarios o diplomados que promuevan la cultura del Derecho de Acceso a la Información Pública;
 
-XVI. Evaluar las acciones de capacitación que realicen los Sujetos Obligados con motivo de la Ley, a través de la Dirección correspondiente;
+XVI. (DEROGADA, D.O. 1 DE ABRIL DE 2015)
 
 XVII. (DEROGADA, D.O. 22 DE OCTUBRE DE 2013)
 
@@ -521,7 +539,7 @@ XXXII. (DEROGADA, D.O. 22 DE OCTUBRE DE 2013)
 
 XXXIII. Someter a la consideración del Consejo General del Instituto, los programas de verificación y vigilancia a los Sujetos Obligados a través de las visitas físicas a sus Unidades de Acceso y revisiones a los sitios Web correspondientes;
 
-XXXIV. Presentar al Consejo General el informe, sobre presuntas infracciones a la Ley, por parte de los Sujetos Obligados; y (sic)
+XXXIV. Presentar al Consejo General el informe, sobre presuntas infracciones a la Ley, por parte de los Sujetos Obligados; y
 
 > <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2013)</small>
 
@@ -581,13 +599,17 @@ VIII. Las demás que le señale el Secretario Ejecutivo.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2015)</small>
+
 ###### Artículo 19.
 
-La Secretaría Técnica y los Directores establecerán las atribuciones concernientes a sus Coordinadores, de acuerdo con las necesidades de cada una de sus áreas, previa autorización del Secretario Ejecutivo o Consejo General, según sea el caso.
+El Secretario Técnico, el Director General del Centro de Formación, y los Directores, establecerán las atribuciones concernientes a sus Jefes de Departamento o Coordinadores, de acuerdo con las necesidades de cada una de sus áreas, previa autorización del Secretario Ejecutivo o Consejo General, según sea el caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2015)</small>
 
 ###### Artículo 20.
 
-Corresponde a la Secretaría Técnica y Directores de área:
+Corresponde al Secretario Técnico, Director General del Centro de Formación y Directores de área:
 
 I. Cumplir y hacer cumplir la Ley y el presente Reglamento;
 
@@ -773,43 +795,107 @@ XIX. Asistir al personal en las cartas de entrega-recepción, por términos del 
 
 XX. Las demás tareas que le confieran las disposiciones legales, o bien, el Secretario Ejecutivo.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE CAPACITACIÓN Y PROYECTOS EDUCATIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE ABRIL DE 2015)</small>
+
+#### SECCIÓN CUARTA. DEL CENTRO DE FORMACIÓN EN TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y ARCHIVOS PÚBLICOS, DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2015)</small>
 
 ###### Artículo 23.
 
-Son atribuciones y obligaciones del Titular de la Dirección de Capacitación y Proyectos Educativos:
+Son atribuciones y obligaciones del Director General del Centro de Formación:
 
-I. Implementar un sistema para la detección de necesidades de capacitación y educación, para el personal del Instituto, los sujetos obligados y la sociedad;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-II. Proponer los programas de capacitación y contenidos educativos que fomenten el conocimiento del derecho de acceso a la información pública, la cultura de la transparencia y la protección de datos personales;
+I. Elaborar los planes y programas de capacitación y adiestramiento que fomenten el conocimiento del derecho de acceso a la información pública, la cultura de la transparencia y la protección de datos personales;
 
-III. Organizar cursos, seminarios, talleres o cualquier otro evento dirigido a los Sujetos Obligados, con la finalidad de capacitar y actualizar a los servidores públicos en la cultura de acceso a la información pública, la protección de datos personales y otros temas relacionados que contribuyan al cumplimiento adecuado de los objetivos de la Ley;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-IV. Orientar en el ejercicio del derecho de acceso a la información pública y protección de datos personales a los particulares que lo soliciten;
+II. Organizar e impartir cursos, seminarios, talleres o cualquier otro evento dirigido a los Sujetos Obligados, con la finalidad de capacitar y actualizar a los servidores públicos en la cultura de acceso a la información pública, la protección de datos personales y otros temas relacionados que contribuyan al cumplimiento adecuado de los objetivos de la Ley;
 
-V. Elaborar en coordinación con la Dirección de Difusión y Vinculación los proyectos de publicaciones, folletos, trípticos, estudios, obras y demás materiales didácticos que contengan temas relativos a la transparencia, acceso a la información pública y temas afines que contribuyan al conocimiento, uso y aprovechamiento de la información pública;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-VI. Coordinar y supervisar la prestación del servicio social con las diversas instancias educativas, de conformidad con la legislación correspondiente;
+III. Administrar el Centro de Evaluación de Competencias Laborales del INAIP;
 
-VII. Integrar los programas de capacitación para el personal del Instituto, a fin de actualizar los conocimientos que permitan el mejor desempeño de sus labores;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-VIII. Coadyuvar con las otras Direcciones en la elaboración de contenidos técnico pedagógicos de los eventos de capacitación en los que participe u organice el Instituto;
+IV. Organizar e impartir cursos y talleres para los particulares, con el objeto de promover en la sociedad el conocimiento, uso y aprovechamiento de la información pública, así como, el ejercicio de los derechos de acceso a la información pública y protección de datos personales;
 
-IX. Promover y operar la creación y funcionamiento de un centro de documentación especializada en materia de transparencia y acceso a la información pública;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-X. Promover en las instituciones de educación superior la investigación y docencia sobre el derecho de acceso a la información pública;
+V. Realizar las gestiones necesarias para solicitar y obtener el reconocimiento de validez oficial a los programas de estudio que se elaboren en materia de transparencia, acceso a la información, protección de datos personales, archivos públicos y otros temas que contribuyan al cumplimiento de la Ley;
 
-XI. Proponer los contenidos curriculares de asignaturas que versen sobre la importancia social del Derecho de acceso a la Información Pública;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-XII. Elaborar las estadísticas de los diferentes eventos de capacitación o educación que organice o participe el Instituto;
+VI. Atender las funciones que se deriven del ejercicio de las actividades educativas y académicas que realice el Instituto;
 
-XIII. Proponer la metodología y criterios para reconocer el cumplimiento de las obligaciones de capacitación que realicen los Sujetos Obligados con motivo de la Ley;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-XIV. Realizar análisis y estudios para difundir el conocimiento de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, así como para medir el desarrollo e impacto del ejercicio del derecho de acceso a la información pública y de protección de datos personales;
+VII. Promover en las instituciones de educación superior la investigación y docencia sobre los derechos de acceso a la información pública y protección de datos personales;
 
-XV. Implementar esquemas para incentivar mejores prácticas e innovaciones en materia de transparencia, acceso a la información pública y protección de datos personales entre los Sujetos Obligados; y
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-XVI. Las demás tareas que le confieran las disposiciones legales, o bien, el Secretario Ejecutivo.
+VIII. Expedir las constancias correspondientes por las actividades educativas, académicas y de capacitación;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+IX. Orientar en el ejercicio del derecho de acceso a la información pública y protección de datos personales a los particulares que lo soliciten;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+X. Proponer los contenidos curriculares de asignaturas que versen sobre la importancia de los derechos de acceso a la información pública y protección de datos personales;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XI. Planear, programar y dirigir la realización de investigaciones, análisis y estudios para mejorar la enseñanza de los derechos de acceso a la información pública y protección de datos personales, así como, la profesionalización del sector laboral vinculado con el ejercicio de estos derechos;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XII. Integrar los programas de capacitación para el personal del Instituto, a fin de actualizar los conocimientos que permitan el mejor desempeño de sus labores;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XIII. Implementar proyectos para incentivar mejores prácticas en materia de transparencia, acceso a la información pública y protección de datos personales entre los Sujetos Obligados;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XIV. Atender las funciones que se deriven de la inscripción del Instituto en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas (RENIECYT), del Consejo Nacional de Ciencia y Tecnología;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XV. Elaborar las estadísticas de los diferentes eventos de capacitación o educación que organice o participe el Instituto;
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XVI. Atender las funciones que se deriven por el ejercicio de las actividades editoriales del Instituto;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XVII. Elaborar los proyectos de publicaciones y materiales didácticos que contengan temas relativos a la transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XVIII. Resguardar el acervo documental en materia de transparencia, acceso a la información pública, protección de datos personales y archivos públicos;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XIX. Promover el intercambio bibliográfico y hemerográfico en temas vinculados con la transparencia, archivos públicos y los derechos de acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XX. Gestionar y proponer al Consejo General del Instituto, la celebración de convenios académicos, para investigación, intercambio de publicaciones, edición, coedición, asesoría técnica, con instituciones afines y casas editoriales, nacionales e internacionales;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XXI. Gestionar fondos de organismos nacionales e internacionales para el mejor cumplimiento de las atribuciones del Instituto, en materia de capacitación, investigación y docencia;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XXII. Coordinar y supervisar la prestación del servicio social con las diversas instancias educativas, de conformidad con la legislación correspondiente; y
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+XXIII. Las demás tareas que le confieran las disposiciones legales, o bien, el Consejo General.
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
 
@@ -899,7 +985,7 @@ VIII. Llevar el registro y control de los nombramientos de los Titulares de las 
 
 IX. Supervisar la recepción, trámite, validación y publicación de la información pública obligatoria de los Sujetos Obligados, conforme a lo establecido en el último párrafo del artículo 9 de la Ley;
 
-X. Asesorar y mantener una colaboración y coordinación con los Sujetos Obligados, a efecto de fortalecer el cumplimiento de sus obligaciones establecidas en la Ley; y (sic)
+X. Asesorar y mantener una colaboración y coordinación con los Sujetos Obligados, a efecto de fortalecer el cumplimiento de sus obligaciones establecidas en la Ley; y
 
 > <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2013)</small>
 
@@ -1101,15 +1187,31 @@ I. La Secretaría Técnica;
 
 II. Las Direcciones;
 
-III. La Coordinación de Apoyo Plenario y Archivo Administrativo;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-IV. El Asistente del Secretario Ejecutivo;
+III. Centro de Formación;
 
-V. El encargado de la Oficialía de Partes; y
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
 
-VI. Cualquier funcionario que por las actividades que desempeñe tenga bajo su custodia y archivo cualquier documento.
+IV. Las Direcciones;
 
-El Consejo y el Secretario Ejecutivo serán Unidades Administrativas única y exclusivamente a través de los antes señalados.
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+V. La Coordinación de Apoyo Plenario y Archivo Administrativo;
+
+VI. (DEROGADA, D.O. 1 DE ABRIL DE 2015)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE ABRIL DE 2015)</small>
+
+VII. El encargado de la Oficialía de Partes; y
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2015)</small>
+
+VIII. Cualquier funcionario que por las actividades que desempeñe tenga bajo su custodia y archivo cualquier documento.
+
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2015)</small>
+
+El Consejo será Unidad Administrativa única y exclusivamente a través de los antes señalados.
 
 ###### Artículo 49.
 
@@ -1164,3 +1266,9 @@ Artículo Primero.- El presente acuerdo entrará en vigor el día siguiente al d
 Artículo Segundo.- Para la sustanciación y resolución de los recursos de inconformidad interpuestos, previo a la entrada en vigor del Decreto número 84 publicado el veinticinco de julio de dos mil trece, en el Diario Oficial del Gobierno del Estado de Yucatán, y los procedimientos de cumplimiento que de éstos deriven, seguirá aplicándose el Reglamento Interior del Instituto Estatal de Acceso a la Información Pública del Estado de Yucatán, difundido en el referido medio de publicación oficial, el día veinte de diciembre de dos mil doce.
 
 Artículo Tercero.- Quedan sin efectos todas las disposiciones legales emitidas por el Instituto, que se contrapongan a las establecidas en el presente acuerdo.
+
+D.O. 1 DE ABRIL DE 2015.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Quedan sin efectos todas las disposiciones legales emitidas por el Instituto, que se contrapongan a las establecidas en el presente Reglamento.
