@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2014-12-29"
+last_updated: "2015-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -357,6 +357,10 @@ X. Elaborar e integrar, en colaboración con el INECC, la información de las ca
 XI. Vigilar y promover, en el ámbito de su competencia, el cumplimiento de esta ley, sus disposiciones reglamentarias y los demás ordenamientos que deriven de ella, y
 
 XII. Las demás que señale esta ley y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+Los municipios, con acuerdo de sus ayuntamientos podrán coordinarse y/o asociarse para una eficiente implementación de las disposiciones previstas en este artículo.
 
 ###### Artículo 10.
 
@@ -1699,3 +1703,7 @@ D.O.F. 16 DE OCTUBRE DE 2014.
 D.O.F. 29 DE DICIEMBRE DE 2014.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación
