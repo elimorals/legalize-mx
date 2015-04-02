@@ -4,7 +4,7 @@ identifier: "LIMJ"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "2013-05-14"
+last_updated: "2015-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIMJ"
 
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -40,9 +40,11 @@ LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+
 ###### Artículo 1.
 
-Se crea el Instituto Mexicano de la Juventud como organismo público descentralizado, con personalidad jurídica, patrimonio propio y domicilio en el Distrito Federal.
+Se crea el Instituto Mexicano de la Juventud como un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio, autonomía técnica, operativa y de gestión y con domicilio en el Distrito Federal.
 
 Cuando la presente Ley se refiera al Instituto, se entenderá por éste al Instituto Mexicano de la Juventud.
 
@@ -76,29 +78,43 @@ VI. Promover coordinadamente con las autoridades de los tres órdenes de gobiern
 
 VII. Fungir como representante del Gobierno Federal en materia de juventud, ante los Gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación.
 
-> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2015)</small>
 
 ###### Artículo 3 Bis.
 
-El Instituto en la definición e instrumentación de la política nacional de juventud a la que hace referencia la fracción II del artículo 3, deberá considerar los siguientes lineamientos:
+El Instituto en la definición e instrumentación de la política nacional de juventud a la que hace referencia la fracción II del artículo 3, deberá trabajar en colaboración con la Secretaría de Desarrollo Social, conforme los siguientes lineamientos:
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 I. Impulsar el mejoramiento de la calidad de vida de los jóvenes;
 
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 II. Promover una cultura de conocimiento, ejercicio y respeto de los derechos de los jóvenes, en los distintos ámbitos;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 III. Garantizar a los jóvenes el acceso y disfrute de oportunidades en condiciones de equidad.
 
 Los jóvenes, por su condición humana particular, representan un potencial humano que los hace formadores de cambios sociales y actores estratégicos para el desarrollo de nuestra sociedad;
 
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 IV. Fomentar en los distintos ámbitos en los que se desenvuelven los jóvenes el conocimiento de sus derechos, su comprensión, aprobación y los medios para hacerlos exigibles;
 
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 V. Observar los criterios de integralidad y transversalidad en la ejecución de programas y acciones que procuren cubrir las necesidades básicas de los jóvenes y promover su desarrollo personal, social y económico. Asimismo, se impulsará un federalismo institucional en la ejecución de los programas y acciones que, en su caso, se coordinen entre las distintas dependencias y entidades de la Administración Pública Federal, en el ámbito de su competencia, con los gobiernos de las entidades federativas y a través de ellos con los municipios.
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 VI. Proponer en el ámbito de su competencia la asignación y distribución presupuestal suficiente que permita cumplir con la política nacional de juventud.
 
 El presupuesto tendrá un enfoque de juventud que impulse un gasto público que tenga como objetivos: satisfacer las necesidades básicas de la juventud; promover su reconocimiento social, y potencializar a los jóvenes como agentes estratégicos para el desarrollo del país.
 
 Para la institucionalización del presupuesto con enfoque de juventud, se identificarán los recursos destinados para cumplir los fines señalados en el párrafo anterior, asignados en el Presupuesto de Egresos de la Federación, de conformidad con la normatividad aplicable, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 VII. Considerar a la familia, como institución social básica transmisora de los valores culturales de la sociedad, en la que los jóvenes representan el elemento más importante de enlace intergeneracional.
 
@@ -200,7 +216,9 @@ La Junta Directiva se integrará por diecisiete miembros, de los cuales serán:
 
 I. Diez Miembros Propietarios:
 
-a) El Secretario de Educación Pública, quien lo presidirá;
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+a) El Secretario de Desarrollo Social, quien la presidirá;
 
 b) El Secretario de Hacienda y Crédito Público;
 
@@ -214,7 +232,9 @@ e) El Secretario del Trabajo y Previsión Social;
 
 f) El Secretario de Salud;
 
-g) El Secretario de Desarrollo Social;
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+g) El Secretario de Educación Pública;
 
 h) El Secretario de Economía;
 
@@ -222,7 +242,9 @@ i) El Secretario de Comunicaciones y Transportes, y
 
 j) El Director General de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
 
-Por cada Miembro Propietario, el titular podrá nombrar a un suplente, y
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+Por cada Miembro Propietario, el titular podrá nombrar a un suplente, quien deberá tener el nivel de Director General Adjunto o equivalente, y
 
 II. Siete miembros más que serán:
 
@@ -232,7 +254,9 @@ b) Dos rectores o directores de universidades o instituciones públicas de educa
 
 c) Dos jóvenes, integrantes del Consejo de Seguimiento de Proyectos y Programas.
 
-Estos siete miembros formarán parte de la Junta Directiva a invitación del Secretario de Educación Pública, durarán en su encargo un año y serán designados de acuerdo al procedimiento que se señale en el Estatuto Orgánico.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+Estos siete miembros formarán parte de la Junta Directiva a invitación del titular de la Secretaría de Desarrollo Social, durarán en su encargo un año y serán designados de acuerdo al procedimiento que se señale en el Estatuto Orgánico.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -274,7 +298,9 @@ XII. Aprobar el Estatuto Orgánico del Instituto y el proyecto de estructura org
 
 XIII. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General, con la intervención que corresponda al Comisario.
 
-XIV. Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad práctica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Educación Pública, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+XIV. Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad práctica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Desarrollo Social, y
 
 XV. Las demás que, con el carácter de indelegables, se le atribuyan en los términos de la Ley Federal de Entidades Paraestatales y otras disposiciones legales aplicables.
 
@@ -390,7 +416,7 @@ México, D.F., a 21 de diciembre de 1998.- Sen. Mario Vargas Aguiar, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventra (sic) y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 20 DE MARZO DE 2006.
 
@@ -425,3 +451,15 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 14 DE MAYO DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 BIS, PRIMER PÁRRAFO Y 9, FRACCIÓN XIV DE LA LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD.
+
+Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 Y 8, FRACCIONES I, INCISOS A) Y G) Y II, INCISO C), SEGUNDO PÁRRAFO, DE LA LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD.
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
