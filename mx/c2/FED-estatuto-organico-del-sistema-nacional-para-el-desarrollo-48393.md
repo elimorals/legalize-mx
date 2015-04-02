@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-48393
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-02-08"
-last_updated: "2011-08-22"
+last_updated: "2015-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48393&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-01-23"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO QUE EXPIDE EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EN EL D.O.F. DE 2 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 8 de febrero de 2006.
 
@@ -143,7 +145,7 @@ XXX. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de ni�
 
 XXXI. Las demás que establezcan las disposiciones legales aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 3.
 
@@ -525,7 +527,7 @@ XXIV. Celebrar acuerdos con los titulares y demás personal de las unidades admi
 
 XXV. Delegar en sus subalternos atribuciones que tenga encomendadas, previo acuerdo con el Titular del Organismo;
 
-> <small>(REFORMADA, D.O.F.17 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2007)</small>
 
 XXVI. Suscribir los documentos, convenios y contratos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia, así como iniciar los procedimientos de rescisión de contratos y pedidos y suscribir las determinaciones, comunicaciones y notificaciones correspondientes de la rescisión;
 
@@ -679,7 +681,7 @@ XXXIV. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
 XXXV. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXXVI (SIC). (DEROGADA, D.O.F. 27 DE MAYO DE 2008)
+XXXVI. (DEROGADA, D.O.F. 27 DE MAYO DE 2008)
 
 > <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2008)</small>
 
@@ -1105,7 +1107,7 @@ III. Establecer y difundir a las unidades administrativas del Organismo, las pol
 
 IV. Conducir los procesos licitatorios para la adquisición o contratación de bienes, arrendamientos, obras públicas y servicios del Organismo, correspondientes a su ámbito de competencia;
 
-> <small>(REFORMADA, D.O.F.17 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2007)</small>
 
 V. Suscribir los pedidos y contratos, derivados de la adquisición de bienes y contratación de los arrendamientos y los servicios bajo su responsabilidad, así como iniciar los procedimientos de rescisión de contratos y pedidos y suscribir las determinaciones, comunicaciones y notificaciones correspondientes de la rescisión;
 
@@ -1213,7 +1215,7 @@ Se expide en la Ciudad de México, Distrito Federal, el día dieciséis de enero
 
 México, D. F., a 23 de enero de 2006.- La Responsable de la Información y Titular del Sistema Nacional para el Desarrollo Integral de la Familia, Ana Rosa Payán Cervera.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 17 DE AGOSTO DE 2007.
 
@@ -1236,3 +1238,13 @@ D.O.F. 22 DE AGOSTO DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos pendientes a la entrada en vigor de la modificación a este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquélla a la que se le haya atribuido la competencia correspondiente.
+
+D.O.F. 2 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el 8 de febrero de 2006, así como el Acuerdo por el que se expiden modificaciones y adiciones al Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado el 22 de agosto de 2011 en el Diario Oficial de la Federación.
+
+TERCERO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
+
+CUARTO. La Procuraduría Federal de Protección, deberá crearse en el presente ejercicio presupuestario, a efecto de dar cumplimiento a lo establecido en la Ley General de los Derechos de las Niñas, Niños y Adolescentes.
