@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2015-01-27"
+last_updated: "2015-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -712,11 +712,13 @@ IX.- Aportación a la cultura política y a la democracia, y
 
 X.- Ciencia y tecnología.
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 73.
 
-Este premio se tramitará en la Secretaría de Educación Pública, por conducto del Consejo de Premiación, que presidirá el titular de dicho ramo y que lo integrará junto con representantes de las Secretarías de Gobernación, del Trabajo y Previsión Social y de Desarrollo Social, el Director del Instituto Mexicano de la Juventud, más un representante de cada una de las Cámaras del Congreso de la Unión.
+Este premio se tramitará en la Secretaría de Desarrollo Social, por conducto del Consejo de Premiación, que presidirá el titular de dicho ramo y que lo integrará junto con representantes de las Secretarías de Gobernación, del Trabajo y Previsión Social, y de Educación Pública, el Director del Instituto Mexicano de la Juventud, más un representante de cada una de las Cámaras del Congreso de la Unión.
+
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 En todo caso formará parte del jurado un representante del Instituto Mexicano de la Juventud.
 
@@ -1357,3 +1359,7 @@ SEGUNDO. Los Premios Nacionales de Deportes y de Mérito Deportivo correspondien
 D.O.F. 27 DE ENERO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2015.
+
+Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
