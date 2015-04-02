@@ -4,7 +4,7 @@ identifier: "LFLL"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-24"
-last_updated: "2008-07-24"
+last_updated: "2015-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFLL"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 24 de julio de 2008.
 
@@ -216,9 +216,33 @@ VII. El presidente de la Sociedad General de Escritores de México;
 
 VIII. El Director General de Materiales Educativos de la Secretaría de Educación Pública;
 
-IX. El Director General de Publicaciones del Consejo Nacional para la Cultura y las Artes, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2015)</small>
 
-X. El Director General de Bibliotecas del Consejo Nacional para la Cultura y las Artes.
+IX. El Director General de Publicaciones del Consejo Nacional para la Cultura y las Artes;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+X. El Director General de Bibliotecas del Consejo Nacional para la Cultura y las Artes;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+XI. El Director General del Fondo de Cultura Económica;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+XII. El Director General del Instituto Nacional del Derecho de Autor;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+XIII. El Director General de la Comisión Nacional de Libros de Texto Gratuitos;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+XIV. El Presidente de la Comisión de Biblioteca y Asuntos Editoriales de la Cámara de Senadores, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+
+XV. El Presidente de la Comisión Bicamaral del Sistemas de Bibliotecas del Congreso de la Unión.
 
 Por acuerdo del Consejo se podrá convocar para participar con carácter de invitado no permanente a los titulares de las Secretarías, Consejos e Institutos de Cultura de las entidades federativas y el Distrito Federal, o a cualquier persona o institución pública o privada que se considere necesario para el cumplimiento pleno de sus funciones.
 
@@ -333,3 +357,9 @@ Artículo Quinto.- El Programa de Fomento para el Libro y la Lectura establecido
 México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE ABRIL DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
