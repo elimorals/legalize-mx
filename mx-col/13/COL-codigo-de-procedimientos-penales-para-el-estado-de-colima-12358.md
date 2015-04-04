@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2015-03-23"
+last_updated: "2015-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO No. 372 DE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ DEROGADO, DE MANERA PROGRESIVA Y GRADUAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -1045,7 +1045,7 @@ Toda orden de aprehensión dictada se transcribirá inmediatamente al Ministerio
 
 Siempre que se realice una aprehensión en cumplimiento de orden judicial, salvo lo que se previene en el artículo siguiente, cuando el imputado voluntariamente se ponga a disposición del Ministerio Público o del Juez, se deberá poner sin dilación alguna al aprehendido a disposición del Órgano Jurisdiccional respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó.
 
-Entratándose (sic) de delitos que permitan libertad provisional bajo caución, el juez asentará esta circunstancia al transcribirse la orden respectiva. Se ejecutarán las órdenes de aprehensión, en forma que permita que el trámite del benéfico sea posible realizarlo sin tardanza y sin motivar que se prolongue la privación de la libertad.
+Entratándose de delitos que permitan libertad provisional bajo caución, el juez asentará esta circunstancia al transcribirse la orden respectiva. Se ejecutarán las órdenes de aprehensión, en forma que permita que el trámite del benéfico sea posible realizarlo sin tardanza y sin motivar que se prolongue la privación de la libertad.
 
 Se entenderá que el imputado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que sea puesto a su disposición en la prisión preventiva o en un centro hospitalario, si el imputado amerita atención médica urgente. El encargado del reclusorio o del centro hospitalario asentará en el documento que ordene la internación, el día y hora del recibo de detenido.
 
@@ -3765,11 +3765,17 @@ De conformidad con la Constitución Política para el Estado de Colima y el Cód
 
 I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
-II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
 
-III. El 5 de agosto del año 2015, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
-IV. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+III. El 29 de septiembre del año 2015; En el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+IV. El 29 de septiembre del año 2015 en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 En consecuencia, comenzarán a regular la forma y términos en que se substanciarán los procedimientos penales en la Entidad Federativa.
 
@@ -3781,11 +3787,11 @@ Que de conformidad a lo establecido en el artículo cuarto transitorio del Decre
 
 Quedarán derogados, de manera progresiva y gradual, los preceptos del Código de Procedimientos Penales para el Estado de Colima, contenido en el Decreto Número 308 publicado en el Periódico Oficial "El Estado de Colima" el 2 de agosto de 1997, así como sus reformas, esto conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos de este Decreto, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Que el Sistema Procesal Penal Acusatorio Adversarial se adoptará en la Ley de Justicia Penal para Adolecentes y se incorporará a los ordenamientos enunciados, mismas que entrarán en vigor a las cero horas del día 12 de agosto del 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal vigente.
+Que el Sistema Procesal Penal Acusatorio se adoptará en la Ley de Justicia Penal para Adolescentes y se incorporará a los ordenamientos enunciados, misma que entrarán (sic) en vigor a las cero horas del día 29 de septiembre del año 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal vigente.
 
 ###### ARTÍCULO QUINTO.
 
@@ -3808,3 +3814,9 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 P.O. 23 DE MARZO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
