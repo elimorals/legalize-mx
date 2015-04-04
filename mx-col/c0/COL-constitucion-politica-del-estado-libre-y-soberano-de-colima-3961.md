@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2014-08-23"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1791,11 +1791,11 @@ A).- Impartir la educación con apego a los mismos fines y criterios, así como 
 
 B).- Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
 
 ###### Artículo 99.
 
-Además de impartir educación básica, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación superior necesarios para el desarrollo del Estado y la nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+Además de impartir educación básica, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial, especial y superior necesaria para el desarrollo del Estado y la nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -3280,6 +3280,12 @@ P.O. 23 DE AGOSTO DE 2014.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 371 ES DE APROBARSE Y SE APRUEBA ADICIONAR UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1° BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 486 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 ###### ARTÍCULO ÚNICO.
 
