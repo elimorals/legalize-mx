@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-procuraduria-general-de-justicia-del-103092"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-25"
-last_updated: "2015-03-23"
+last_updated: "2015-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR DE MANERA PROGRESIVA Y GRADUAL EN LA FECHA, EN LAS REGIONES Y MEDIANTE LAS MODALIDADES QUE SEÑALA EL CITADO ARTÍCULO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima el sábado 25 de octubre de 2014.
 
@@ -2009,15 +2009,21 @@ Previa publicación en el Periódico Oficial “El Estado de Colima”, el prese
 
 I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
-II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
-III. En materia de Justicia Penal para Adolecentes (sic) entrará en vigor el 12 de agosto del año 2015, en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
 
-IV. El 5 de agosto del año 2015, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+III. En materia de Justicia Penal para Adolescentes entrará en vigor el 29 de septiembre del año 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
 
-V. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+IV. El 29 de septiembre del año 2015: En el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+V. El 29 de septiembre del año 2015 en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 En consecuencia, comenzará a regular la forma y términos en que se substanciará (sic) los procedimientos penales en la Entidad.
 
@@ -2080,3 +2086,9 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 P.O. 23 DE MARZO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
