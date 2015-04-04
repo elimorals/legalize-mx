@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2014-11-18"
+last_updated: "2015-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
-Ley publicada en el Suplemento No.3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
+Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
 DEL GOBIERNO DEL ESTADO PODER LEGISLATIVO DECRETO No. 405 POR EL QUE SE APRUEBA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA.
 
@@ -4161,11 +4161,17 @@ VIGÉSIMO TERCERO. Las disposiciones previstas en el capítulo IV denominado "De
 
 I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
-II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
 
-III. El 5 de agosto del año 2015, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
+II. El 1 de septiembre del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
-IV. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+III. El 29 de septiembre del año 2015, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+IV. El 29 de septiembre del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 Así como de conformidad con lo dispuesto por el artículo SEGUNDO TRANSITORIO del Código Nacional de Procedimientos Penales, debiendo atenderse en los términos del Código Penal para el Estado de Colima; por lo que no podrán suspenderse ni prorrogarse las acciones tendientes a los nombramientos de los operadores y demás personal necesario para su debida implementación.
 
@@ -4190,3 +4196,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. E
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
