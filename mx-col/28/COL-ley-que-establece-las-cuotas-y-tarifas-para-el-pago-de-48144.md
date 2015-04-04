@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2014-12-27"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -1069,6 +1069,14 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 Para el ejercicio fiscal 2012, los usuarios obtendrán un subsidio del 20% en el servicio de saneamiento, sea bimestral o anualmente adelantado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2015)</small>
+
+CUARTO (SIC).- Por concepto de estímulo fiscal, a los contribuyentes que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad adelantada durante el mes de abril del ejercicio fiscal 2015, se les concederá una bonificación del 06 por ciento del monto pagado; así como una bonificación del 100 por ciento del monto de las multas y recargos correspondientes al ejercicio 2015 generados hasta el 30 de abril de 2015.
+
+Asimismo, a quienes paguen dentro del plazo antes señalado adeudos del ejercicio 2014 y anteriores, por concepto de servicio de agua potable, alcantarillado y saneamiento, se les condonarán al 100% las multas y recargos generados en el ejercicio fiscal 2014 y anteriores.
+
+Lo dispuesto por el segundo párrafo del presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
+
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
 Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
@@ -1160,6 +1168,10 @@ Para el ejercicio fiscal 2013, los usuarios obtendrán un subsidio del 10 % en e
 P.O. 27 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del 01 de enero de 2015, previa publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de abril de 2015, mismo que deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 ###### ARTICULO UNICO.
 
