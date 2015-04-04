@@ -4,7 +4,7 @@ identifier: "COL-ley-del-servicio-profesional-de-carrera-en-procuracion-de-10338
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-18"
-last_updated: "2014-10-18"
+last_updated: "2015-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA EN PROCURACIÓN DE JUSTICIA DEL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 13 DE AGOSTO DE 2015.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 30 DE SEPTIEMBRE DE 2015.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 18 de octubre de 2014.
 
@@ -1855,9 +1855,11 @@ Cancelación de Certificado. Toda separación o remoción de que sea sujeto el s
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el 13 de agosto de 2015, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+La presente Ley entrará en vigor el 30 de septiembre de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1878,3 +1880,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 15 quince del mes de octubre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
