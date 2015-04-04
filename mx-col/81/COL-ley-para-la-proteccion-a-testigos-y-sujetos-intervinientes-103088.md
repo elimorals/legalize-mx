@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-a-testigos-y-sujetos-intervinientes-1030
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-25"
-last_updated: "2015-03-23"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN A TESTIGOS Y SUJETOS INTERVINIENTES EN EL PROCEDIMIENTO PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de octubre de 2014.
 
@@ -279,7 +279,7 @@ II. Podrá ser trasladado a otro centro penitenciario con las mismas o superiore
 
 III. Las demás que se consideren por la Unidad a fin de garantizar la protección de las personas incorporadas al Programa.
 
-Las autoridades penitenciarias otorgarÁn todas las facilidades a la Unidad para garantizar las medidas de seguridad de los internos que se encuentran incorporados al Programa.
+Las autoridades penitenciarias otorgarÁn (sic) todas las facilidades a la Unidad para garantizar las medidas de seguridad de los internos que se encuentran incorporados al Programa.
 
 ###### ARTÍCULO 17.
 
@@ -887,15 +887,21 @@ PRIMERO.- Previa publicación en el Periódico Oficial "El Estado de Colima", la
 
 I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
-II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
-III. En materia de Justicia Penal para Adolecentes (sic) entrará en vigor el 12 de agosto del año 2015, en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
 
-IV. El 5 de agosto del año 2015, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
+III. En materia de Justicia Penal para Adolescentes entrará en vigor el 29 de septiembre del año 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
 
-V. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+IV. El 29 de septiembre del año 2015: En el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+V. El 29 de septiembre del año 2015 en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 SEGUNDO.- La Procuraduría General de Justicia del Estado de Colima, deberá instalar y poner en operación el Programa de Protección a Testigos y demás Sujetos intervinientes en el proceso penal, en los plazos señalados en el artículo transitorio anterior.
 
@@ -924,3 +930,9 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 P.O. 23 DE MARZO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
