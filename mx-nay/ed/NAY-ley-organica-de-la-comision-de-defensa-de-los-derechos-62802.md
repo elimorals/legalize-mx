@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2014-03-08"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -157,7 +157,7 @@ La Comisión gozará respecto de su patrimonio, de las franquicias, exenciones y
 
 ###### ARTÍCULO 9.
 
-En el caso de responsabilidades derivadas del manejo del patrimonio del organismo, se observarán, en lo conducente, las disposiciones previstas en el Titulo Octavo de la Constitución, la Ley de Responsabilidades y demás disposiciones jurídicas aplicables.
+En el caso de responsabilidades derivadas del manejo del patrimonio del organismo, se observarán, en lo conducente, las disposiciones previstas en el Título Octavo de la Constitución, la Ley de Responsabilidades y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -483,7 +483,7 @@ XIX. Determinar los lineamientos generales a los que se sujetará el funcionamie
 
 XX. Presidir, dirigir, administrar y coordinar el desarrollo de las actividades operativas, técnicas y administrativas de la Comisión y dictar los acuerdos tendientes a dicho fin;
 
-XXI. Establecer los sistemas de control necesarios para alcanzar los objetivos y metas propuestas por la Comisión; Para (sic) tal efecto, por conducto de la Dirección de Administración determinará los criterios de evaluación para medir la eficiencia y la eficacia del funcionamiento de la Comisión;
+XXI. Establecer los sistemas de control necesarios para alcanzar los objetivos y metas propuestas por la Comisión; Para tal efecto, por conducto de la Dirección de Administración determinará los criterios de evaluación para medir la eficiencia y la eficacia del funcionamiento de la Comisión;
 
 XXII. Promover y supervisar los programas tendientes a fortalecer el estudio y la enseñanza de los Derechos Humanos dentro del Sistema Educativo Estatal;
 
@@ -1205,21 +1205,17 @@ El proyecto de recomendación será presentado al Visitador General para que és
 
 En caso de que se compruebe que las autoridades y/o servidores públicos no hayan cometido las violaciones de Derechos Humanos que se les hubiesen señalado, el visitador formulará el proyecto del acuerdo de no responsabilidad, mismo que turnará al Presidente.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 107.
 
 Una vez notificada la recomendación, la autoridad o el servidor público de que se trate, informará dentro de los diez días hábiles siguientes a su notificación, si acepta dicha recomendación. En otros diez días hábiles adicionales, entregará en su caso, las pruebas correspondientes de que ha cumplido con los puntos señalados en ella. Dicho plazo podrá ser ampliado por diez días hábiles más cuando la naturaleza de la recomendación así lo amerite. La Comisión determinará si se han satisfecho los extremos de la resolución no jurisdiccional por la autoridad.
 
-En el caso de que la autoridad o el servidor público informen que no aceptan la recomendación, o en su caso, no han dado cumplimiento cabal a esta, éstos deberán fundar, motivar y hacer pública su negativa.
+Cuando la autoridad o el servidor público informen que no aceptan la recomendación o no han dado cumplimiento cabal a la misma, deberán fundar, motivar y hacer pública su negativa.
 
-En caso de negativa o ausencia de respuesta de conformidad a lo previsto por la ley, a solicitud del organismo, el servidor público o autoridad podrá ser llamado a comparecer ante el Congreso del Estado en los siguientes términos:
+La Comisión, en caso de negativa de aceptación, incumplimiento de la recomendación o ausencia de respuesta, podrá solicitar al Congreso que requiera la comparecencia de la autoridad o servidor público a efecto de que funde y motive las razones de su negativa.
 
-I. Una vez formulada por parte de la Comisión, la solicitud para que se cite a comparecer al servidor público o autoridad responsable, el asunto será turnado a la Comisión de Justicia y Derechos Humanos para que dictamine lo conducente;
-
-II. La Comisión de Justicia y Derechos Humanos emitirá dictamen para poner a la consideración de la Asamblea Legislativa o Diputación Permanente, ante qué órgano de gobierno interior del Congreso deberá comparecer el servidor público o autoridad responsable para que personalmente justifique, funde y motive las razones de su negativa, y
-
-III. La modalidad y condiciones de la comparecencia será establecida mediante el acuerdo que se dicte para tal efecto.
+El procedimiento referido en el párrafo anterior se regulará de conformidad a la normatividad interna del Congreso del Estado.
 
 ###### ARTÍCULO 108.
 
@@ -1526,3 +1522,7 @@ Artículo único.- EI presente decreto entrará en vigor al día siguiente de su
 P.O. 8 DE MARZO DE 2014.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 4 DE ABRIL DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
