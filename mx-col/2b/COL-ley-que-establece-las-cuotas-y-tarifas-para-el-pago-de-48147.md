@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48147"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2014-12-27"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -435,21 +435,15 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 19, fracción II de ésta ley, se amplía hasta el 31 de mayo del citado año. Dicho plazo se aplicará de igual manera en el caso de la fracción V, con una tasa del 8%, no generando los recargos correspondientes en dichas prórrogas inclusive los especificados en las fracciones III y IV de ese mismo artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO TERCERO.
 
-Por concepto de estímulo fiscal, en el ejercicio fiscal 2014, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio fiscal 2014 y anteriores, en los periodos y porcentajes que a continuación se establecen:
+Por concepto de estímulo fiscal, a los contribuyentes que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad adelantada durante el mes de abril del ejercicio fiscal 2015, se les concederá una bonificación del 06 por ciento del monto pagado, así como una bonificación del 100 por ciento del monto de las multas y recargos correspondientes al ejercicio 2015 generados hasta el 30 de abril de 2015.
 
-PERIODO JULIO Y SEPTIEMBRE Y NOVIEMBRE Y
+Asimismo, a quienes paguen dentro del plazo antes señalado adeudos del ejercicio 2014 y anteriores, por concepto de servicio de agua potable, alcantarillado y saneamiento, se les condonarán al 100% las multas y recargos generados en el ejercicio fiscal 2014 y anteriores.
 
-AGOSTO OCTUBRE DICIEMBRE
-
-BASE 100% 80% 60%
-
-Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
+Lo dispuesto por el segundo párrafo del presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -512,3 +506,7 @@ P.O. 27 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de abril de 2015, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
