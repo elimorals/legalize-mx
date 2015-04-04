@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-12-20"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -497,7 +497,7 @@ Tampoco pueden alegarla las personas menores de edad, si han presentado certific
 
 ###### Art. 56.
 
-El matrimonio de quien es menor de edad produce su emancipación. Aunque el vínculo matrimonial se extinga, el cónyuge emancipado no perderá esa calidad.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
 ###### Art. 57.
 
@@ -1589,9 +1589,11 @@ Concedida la autorización por la Secretaría de Relaciones Exteriores y satisfe
 
 ### CAPITULO I. Disposiciones generales
 
+(NOTA: EL 26 DE ENERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2015, DECLARÓ POR VÍA DE CONSECUENCIA LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ENERO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 ###### Art. 258.
 
-El matrimonio es una institución de carácter público e interés social, por medio de la cual un hombre y una mujer deciden compartir un estado de vida para la búsqueda de su realización personal y la fundación de una familia.
+El matrimonio es una institución de carácter público e interés social, por medio de la cual UN HOMBRE Y UNA MUJER deciden compartir un estado de vida para la búsqueda de su realización personal y la fundación de una familia.
 
 ###### Art. 259.
 
@@ -1623,45 +1625,47 @@ Los esposos tienen el derecho natural e inalienable de fundar una familia y deci
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
 
+(NOTA: EL 26 DE ENERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ENERO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+
 ###### Art. 260.
 
-Para contraer matrimonio, el hombre y la mujer necesitan haber cumplido dieciséis años. Los jueces de la residencia de los interesados pueden conceder dispensa de edad por causas graves y justificadas.
+Para contraer matrimonio, EL HOMBRE Y LA MUJER necesitan contar con cuando menos dieciocho años de edad de conformidad a lo dispuesto por el artículo 45 de la Ley General de las Niñas, Niños y Adolescentes.
 
 ###### Art. 261.
 
-La mujer que hubiere cumplido catorce años y se encuentre embarazada no requiere del trámite ante el Consejo de Familia siempre y cuando cuente con el consentimiento de quienes ejercen sobre ella la patria potestad.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
 ###### Art. 262.
 
-Quien no haya cumplido dieciocho años, no puede contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva, aun cuando hubieren contraido segundas o posteriores nupcias, si el hijo vive con cualesquiera de ellos.
-
-Cuando se ignore el paradero de cualesquiera de los padres, bastará el consentimiento de uno solo de ellos, asentándose razón de este hecho y quedando facultado el Oficial del Registro Civil a investigar por cualquier medio que estime pertinente, la veracidad de esta circunstancia.
-
-A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos con quienes viva el interesado en contraer matrimonio, si los dos existieren, o del que sobreviva.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
 ###### Art. 263.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; si no los hubiera el Consejo de Familia de la residencia del menor, suplirá el consentimiento, en su caso.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
 ###### Art. 264.
 
-Los interesados pueden ocurrir al Consejo de Familia respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
 ###### Art. 265.
 
-El ascendiente o tutor que ha prestado su consentimiento, haciéndolo constar ante el Oficial del Registro Civil en forma auténtica, no puede revocarlo después, a menos que obre causa justa para ello.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
 ###### Art. 266.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio, falleciere antes de que se celebre éste, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; salvo que haya alguna causa superviniente y siempre que el matrimonio se verifique conforme a las disposiciones de la Ley del Registro Civil del Estado.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
 ###### Art. 267.
 
-El Consejo de Familia que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO, P.O. 4 DE ABRIL DE 2015)
+
+(NOTA: EL 26 DE ENERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2015, DECLARÓ POR VÍA DE CONSECUENCIA LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ENERO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
 
-Art. 267 bis.- El hombre y la mujer, acreditarán ante el Oficial del Registro Civil haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre los derechos y obligaciones que se contraen con el vinculo del matrimonio de acuerdo a los capítulos correspondientes de este código, el cual deberá contener un apartado sobre la igualdad y la equidad de género, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia.
+Art. 267 bis.- EL HOMBRE Y LA MUJER, acreditarán ante el Oficial del Registro Civil haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre los derechos y obligaciones que se contraen con el vínculo del matrimonio de acuerdo a los capítulos correspondientes de este código, el cual deberá contener un apartado sobre la igualdad y la equidad de género, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Art. 268.
 
@@ -18730,3 +18734,9 @@ P.O. 20 DE DICIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los procedimientos penales iniciados antes de entrada en vigor del presente decreto en materia de maltrato al infante, al que se refiere el articulo 205 bis del Código Penal del Estado de Jalisco, así como las agravantes mencionadas en el artículo 142-Ñ, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le den origen.
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO. El presente decreto entrará (sic) vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los matrimonios celebrados por personas menores de edad con antelación a la entrada en vigor del presente decreto serán validos de pleno derecho.
