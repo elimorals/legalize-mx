@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2014-11-29"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -5127,13 +5127,13 @@ PRIMERO.- La presente Ley entrará en vigor el día primero de enero de 1993, pr
 
 SEGUNDO.- Se abroga la Ley de Hacienda del Estado expedida el 23 de diciembre de 1981, y publicada en el Periódico Oficial "EL ESTADO DE COLIMA", el 26 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
 
-TERCERO.- En el ejercicio fiscal 2013, el plazo señalado en el Artículo 41 Z BIS 12 de la Ley de Hacienda del Estado de Colima, para el pago del Impuesto Sobre Tenencia o Uso de Vehículos se amplía hasta el día 19 de abril del mismo año.
+TERCERO.- En el ejercicio fiscal 2015, el plazo señalado en el Artículo 41 Z BIS 12 de la Ley de Hacienda del Estado de Colima, para el pago del Impuesto Sobre Tenencia o Uso de Vehículos se amplía hasta el día 30 de abril del mismo año.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
 
-CUARTO.- En el ejercicio fiscal 2013, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 19 de abril del mismo año.
+CUARTO.- En el ejercicio fiscal 2015, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 30 de abril del mismo año.
 
 El Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
 
@@ -5659,7 +5659,9 @@ b) Impuestos, derechos y multas federales, administrados por el Gobierno del Est
 
 c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima; y
 
-II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2015 que resulte procedente, se efectúe de enero a marzo de dicho año.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2015 que resulte procedente, se efectúe de enero a abril de dicho año.
 
 CUARTO.- Durante el ejercicio fiscal 2015, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, que se inscriban en el Registro Público Vehicular en el ejercicio fiscal 2015, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el mismo ejercicio, siempre que cumplan con los siguientes requisitos:
 
@@ -5680,3 +5682,9 @@ c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las aut
 Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero. De igual forma se entenderá que los 30 días hábiles a que se refiere la fracción III de este Transitorio, contarán a partir de la fecha en que se realice la entrega material de la unidad vehicular al adquirente, lo cual podrá acreditarse con la presentación de una constancia expedida por el distribuidor que realizó la venta, en la que se señale la fecha en que se realizó la entrega material del vehículo al adquirente.
 
 El subsidio a que se refiere este Transitorio, no será aplicable respecto de los vehículos propiedad de los gobiernos federal, estatal y municipales, ni de sus organismos descentralizados y autónomos.
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de abril de 2015, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para efectos del cálculo del pago de los impuestos contenidos en el artículo segundo del presente Decreto, se hará con base en el salario mínimo vigente en el Estado al 1°. de marzo de 2015.
