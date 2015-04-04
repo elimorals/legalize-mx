@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-103926"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-11-29"
-last_updated: "2014-11-29"
+last_updated: "2015-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2015
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1o. DE ENERO DE 2015 PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2014.
 
@@ -121,7 +119,9 @@ a) Durante el ejercicio fiscal 2015, las personas físicas y morales, tenedoras 
 
 1.3. Impuesto Predial, Derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima; y
 
-2. Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2015 que resulte procedente, se efectúe de enero a marzo de dicho año.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+
+2. Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2015 que resulte procedente, se efectúe de enero a abril de dicho año.
 
 b) Durante el ejercicio fiscal 2015, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, que se inscriban en el Registro Público Vehicular en el ejercicio fiscal 2015, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el mismo ejercicio, siempre que cumplan con los siguientes requisitos:
 
@@ -170,3 +170,11 @@ Por tanto mando se imnprima (sic), publique, circule y observe.
 Dado en Palacio de Gobierno, el día 27 veintisiete del mes de Noviembre del año 2014 dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ.-Rúbrica.- LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de abril de 2015, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para efectos del cálculo del pago de los impuestos contenidos en el artículo segundo del presente Decreto, se hará con base en el salario mínimo vigente en el Estado al 1°. de marzo de 2015.
