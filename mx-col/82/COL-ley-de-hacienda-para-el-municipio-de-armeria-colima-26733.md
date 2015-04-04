@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2014-06-21"
+last_updated: "2015-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERÍA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -389,7 +389,7 @@ IX. Quienes reciban la propiedad de bienes inmuebles como dación en pago;
 
 X. Los usufructuarios, los cesionarios de los derechos de usufructo o los adquirentes de la nuda propiedad; y
 
-XI. Los cesionarios o adquirentes de inmuebles por adjudicación, prescripción o por cualquier otro hecho, acto, resolución o contrato.
+XI. Los adquirentes de inmuebles por adjudicación, prescripción o por cualquier otro hecho, acto, resolución o contrato.
 
 ###### ARTICULO 23.
 
@@ -1071,7 +1071,7 @@ i) Zona rural 0.05
 
 j) Otros de 0.06 a 0.31
 
-II. Designación de número oficial, por evento, incluyendo placas de numeración, de conformidad con la siguiente clasificación:
+II. Designación del número oficial, por evento, incluyendo placas de numeración, de conformidad con la siguiente clasificación:
 
 a) Habitacional densidad alta 0.36
 
@@ -1085,7 +1085,7 @@ e) Comercio y servicios 2.47
 
 f) Oficinas administrativas 2.47
 
-g) Abastos, almacenamientos y talleres especiales 1.85
+g) Abastos, almacenamientos y talleres 0.36
 
 h) Manufacturas y usos industriales:
 
@@ -1125,7 +1125,7 @@ especiales 0.08
 
 h) Manufacturas y usos industriales 0.04
 
-i) Otros de 0.05 a 0.15
+Otros de 0.05 a 0.15
 
 IV. Dictamen de vocación del suelo, por evento:
 
@@ -1163,7 +1163,7 @@ c) Habitacional densidad baja 9.68
 
 d) Vivienda campestre o aislada 12.10
 
-e) Comercio y servicios 9.68
+e) Comercio y servicios de 9.68
 
 f) Turístico de 14.52 a 24.20
 
@@ -1211,7 +1211,7 @@ i) Otros de 2.42 a 24.20
 
 V. Servicios de certificaciones y dictámenes
 
-no previstos en este artículo, por M2 de 1.95 a 19.41
+no previstos en este artículo, por m2 de 1.95 a 19.41
 
 ###### ARTICULO 65.
 
@@ -1241,7 +1241,7 @@ Unidad de salario
 
 a) Empedrado o terracería 1.00
 
-b) Asfalto 1.60
+b) Asfalto 0.60
 
 c) Concreto 3.00
 
@@ -3325,17 +3325,15 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
 
-###### ARTICULO SEPTIMO.
+###### ARTÍCULO SÉPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial correspondiente al ejercicio fiscal 2014 y anteriores, dentro de los meses de julio a diciembre del actual ejercicio fiscal, se les aplicará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 0% al 40%, en los siguientes periodos:
+Durante el ejercicio fiscal 2015 se concede el 08 por ciento de bonificación a los contribuyentes que paguen durante el mes de abril del ejercicio 2015 el impuesto predial por anualidad adelantada, en términos del segundo párrafo del artículo 19 de esta ley, así como una bonificación del 100 por ciento del monto de los recargos y multas correspondientes al ejercicio 2015 generados hasta el 30 de abril de 2015.
 
-PERIÓDO JULIO AGOSTO SEPTIEMBRE OCTUBRE NOVIEMBRE DICIEMBRE
+Asimismo, a quienes paguen dentro del plazo antes señalado adeudos del ejercicio 2014 y anteriores, por concepto de impuesto predial, se les condonarán al 100% las multas y recargos generados en el ejercicio fiscal 2014 y anteriores.
 
-BASE 0% 20% 40%
-
-Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
+Lo dispuesto por segundo párrafo del presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -3484,3 +3482,7 @@ P.O. 5 DE ABRIL DE 2014.
 P.O. 21 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de abril de 2015, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
