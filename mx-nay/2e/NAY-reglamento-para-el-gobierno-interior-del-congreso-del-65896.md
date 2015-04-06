@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2014-12-24"
+last_updated: "2015-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2015.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -929,9 +929,9 @@ j) Los de índole judicial y administrativa en los cuales el Congreso fuere part
 
 k) Los que tengan por objeto la determinación de sanciones a los diputados, en los términos de la Ley y el Reglamento, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2015)</small>
 
-l) (DEROGADO, P.O. 2 DE JULIO DE 2011)
+l) Los relativos al desahogo del procedimiento de comparecencias de autoridades o servidores públicos a solicitud de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, con motivo de la no aceptación, ausencia de respuesta o incumplimiento de sus recomendaciones.
 
 IV. Asuntos Indígenas.
 
@@ -2473,17 +2473,39 @@ A las citadas comparecencias se hará una invitación especial a todos los medio
 
 Las versiones literales de las sesiones de comparecencia serán impresas en los tantos necesarios a fin de que un ejemplar sea remitido al Gobernador del Estado, uno al funcionario que compareció, otro al archivo de la Legislatura y los correspondientes ejemplares por los medios idóneos a los diputados integrantes del Congreso.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ABRIL DE 2015)</small>
+
+### Capítulo III Bis. De las Comparecencias de Autoridades o Servidores Públicos a solicitud de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2015)</small>
+
+###### Artículo 149 Bis.
+
+Las comparecencias de las autoridades o servidores públicos a los que se hace alusión en el tercer párrafo del artículo 101 de la Constitución Local, se sujetarán al siguiente procedimiento:
+
+I. Una vez que la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit realice la solicitud de comparecencia, se hará del conocimiento de la Comisión Legislativa de Justicia y Derechos Humanos, para que esta dentro de un plazo que no exceda de 15 días hábiles, posteriores a la notificación, lleve a cabo la citada comparecencia;
+
+II. Previo a la comparecencia se celebrará reunión preparatoria entre la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit y la Comisión Legislativa de Justicia y Derechos Humanos;
+
+III. La comparecencia tendrá como finalidad que la autoridad o servidor público justifique las razones de su conducta, debiendo señalar en el citatorio el día, hora y lugar en donde se desarrollará la misma; asimismo, se informará al Presidente de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit y a las personas que resultaron agraviadas;
+
+IV. Deberá garantizarse la publicidad de la comparecencia;
+
+V. Las personas que resultaron agraviadas dentro del expediente de la recomendación podrán observar sin derecho a voz el desarrollo de la comparecencia de la autoridad o servidor público;
+
+VI. La comparecencia se ocupará exclusivamente sobre los motivos de la negativa de aceptar la recomendación o a dar cumplimiento a las que fueron aceptadas;
+
+VII. La Presidencia de la Comisión Legislativa de Justicia y Derechos Humanos, le otorgará el uso de la voz a la autoridad o servidor público, para que de manera fundada y motivada, exprese los motivos que originaron la no aceptación o la falta de cumplimiento a la recomendación emitida;
+
+VIII. Con posterioridad, la Presidencia de la Comisión Legislativa de Justicia y Derechos Humanos concederá el uso de la palabra a los legisladores integrantes de la misma que así lo soliciten, los cuales podrán realizar preguntas que sean necesarias a la autoridad o servidor público compareciente, quien deberá responder al terminar su participación cada legislador, y
+
+IX. Una vez concluida la comparecencia, la Comisión Legislativa de Justicia y Derechos Humanos emitirá el Acuerdo de trámite respectivo, que deberá ser enviado a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit para que sea integrado al expediente de la recomendación respectiva.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ### Capítulo IV. Del uso de las Tecnologías de Información y Medios de Difusión Oficial
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
-
-### Capítulo I. Estructura Técnica y Administrativa del Congreso
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
@@ -2637,9 +2659,11 @@ Para su archivo y resguardo, la Secretaría General llevará un registro y contr
 
 ## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
 
-### Capítulo II. Secretaría General del Congreso
+### Capítulo I. Estructura Técnica y Administrativa del Congreso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 158.
 
@@ -2719,11 +2743,9 @@ III. Conducirse con parcialidad en el ejercicio de su encargo, cuando con ello s
 
 La Comisión de Gobierno, por conducto de su presidente, dirigirá y coordinará jerárquicamente las actividades de sus dependencias; para tal efecto, dicha Comisión emitirá los manuales administrativos, circulares o disposiciones administrativas de carácter general, de conformidad a la Ley y este Reglamento, con la finalidad de establecer la organización, evaluar y controlar las funciones de las dependencias y, en general, la política administrativa del Congreso. En ese sentido, presentará a la Legislatura o a la Diputación Permanente, los informes que se le soliciten.
 
-### Capítulo III. Oficialía Mayor
+### Capítulo II. Secretaría General del Congreso
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 165.
 
@@ -3341,7 +3363,7 @@ VII. Promover y llevar a cabo encuestas de opinión acerca de los temas que form
 
 VIII. Las demás que le encomienden sus superiores y los órganos de Gobierno en apego a lo establecido por la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
 
-### Capítulo IV. Contraloría Interna
+### Capítulo III. Oficialía Mayor
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
@@ -3863,7 +3885,7 @@ Artículo 188 J.- El Departamento de Almacén es la dependencia de la Dirección
 
 I. Recibir, verificar, registrar y almacenar los artículos y materiales de oficina, insumos, artículos de limpieza, alimentos y demás bienes resguardados en el almacén o los espacios físicos destinados para ello;
 
-II. Suministrar los artículos mencionados para su entrega por medio de la recepción de formatos de requisiciones de materiales de papelería e insumos debidamente autorizado;
+II. Suministrar los artículos mencionados para su entrega por medio de la recepción de formatos de requisiciones de materiales de papelería e insumos debidamente autorizado (sic);
 
 III. Mantener y controlar la existencia de artículos de consumo necesario para la operación de las oficinas de los Diputados y demás unidades administrativas;
 
@@ -3981,7 +4003,7 @@ VII. Coadyuvar en la operación de aquellos otros eventos que tengan que ver con
 
 VIII. Las demás actividades que las disposiciones legales le atribuyan, así como aquellas que le sean encomendadas por el Titular de la Dirección de Adquisiciones, Servicios Generales, Control de Bienes y Almacén.
 
-### Capítulo V. Áreas de Apoyo Técnico Administrativo
+### Capítulo IV. Contraloría Interna
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
@@ -4095,7 +4117,11 @@ VI. En apoyo a la Comisión de Hacienda, Cuenta Publica y Presupuesto, elaborar 
 
 VII. Las que le encomiende el Contralor Interno, la Comisión de Gobierno y las demás que las disposiciones legales le faculten.
 
-### Capítulo I. Disposiciones Generales 2
+### Capítulo V. Áreas de Apoyo Técnico Administrativo
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 192.
 
@@ -4389,21 +4415,23 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ## TÍTULO PRIMERO. Poder Legislativo
 
+### Capítulo I. Disposiciones Generales 2
+
 ### Capítulo II. Instalación de la Legislatura 3
 
 ### Capítulo III. Derechos y Obligaciones de los Diputados 5
 
 ### Capítulo IV. Asistencia, Permanencia y Orden 8
 
-### Capítulo V. Medidas Disciplinarias 9
-
 #### Sección Primera. Justificaciones 8
 
 #### Sección Segunda. Permanencia 9
 
-### Capítulo I. Asamblea Legislativa 10
+### Capítulo V. Medidas Disciplinarias 9
 
 ## TÍTULO SEGUNDO. Organización y Funcionamiento del Congreso
+
+### Capítulo I. Asamblea Legislativa 10
 
 ### Capítulo II. Comisión de Gobierno Legislativo 11
 
@@ -4411,19 +4439,17 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ### Capítulo IV. Atribuciones de la Mesa Directiva 15
 
-### Capítulo V. Grupos Parlamentarios 20
-
 #### Sección Primera. Presidente de la Mesa Directiva 16
 
 #### Sección Segunda. Vicepresidencia de la Mesa Directiva 18
 
 #### Sección Tercera. Secretarios de la Mesa Directiva 19
 
+### Capítulo V. Grupos Parlamentarios 20
+
 ### Capítulo VI. Diputación Permanente 21
 
 ### Capítulo VII. Comisiones Legislativas 22
-
-### Capítulo I. Las sesiones 40
 
 #### Sección Primera. Disposiciones Generales 22
 
@@ -4435,7 +4461,7 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ## TÍTULO TERCERO. Proceso legislativo
 
-### Capítulo II. Procedimiento Legislativo 47
+### Capítulo I. Las sesiones 40
 
 #### Sección Primera. Clasificación y Reglas Generales 40
 
@@ -4447,7 +4473,7 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 #### Sección Quinta. Ceremonial y Protocolo de las Sesiones 46
 
-### Capítulo III. Informe de Gobierno 64
+### Capítulo II. Procedimiento Legislativo 47
 
 #### Sección Primera. Formalidades 47
 
@@ -4469,15 +4495,15 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 #### Sección Décima. Diario de los Debates 64
 
-### Capítulo I. Estructura Técnica y Administrativa del Congreso 66
+### Capítulo III. Informe de Gobierno 64
 
 #### Sección Única. Comparecencias e Interpelaciones 64
 
 ## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
 
-### Capítulo II. Secretaría General del Congreso 67
+### Capítulo I. Estructura Técnica y Administrativa del Congreso 66
 
-### Capítulo III. Oficialía Mayor 79
+### Capítulo II. Secretaría General del Congreso 67
 
 #### Sección Primera. Disposiciones Generales para los Directores y
 
@@ -4497,7 +4523,7 @@ Coordinadores Adscritos a la Secretaria General 70
 
 #### Sección Octava. Archivo 78
 
-### Capítulo IV. Contraloría Interna 85
+### Capítulo III. Oficialía Mayor 79
 
 #### Sección Primera. Dirección de Administración 81
 
@@ -4511,11 +4537,13 @@ Generales 83
 
 #### Sección Quinta. Unidad de Capacitación y Formación Permanente 85
 
-### Capítulo V. Áreas de Apoyo Técnico Administrativo 88
+### Capítulo IV. Contraloría Interna 85
 
 #### Sección Primera. Departamento de Auditoría Financiera 86
 
 #### Sección Segunda. Departamento de Auditoría Operacional y Administrativa 87
+
+### Capítulo V. Áreas de Apoyo Técnico Administrativo 88
 
 #### Sección Primera. Coordinación de Comunicación Social 88
 
@@ -4572,3 +4600,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 24 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE ABRIL DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
