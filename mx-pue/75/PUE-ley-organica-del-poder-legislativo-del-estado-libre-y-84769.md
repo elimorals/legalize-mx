@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2014-03-05"
+last_updated: "2015-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -129,7 +129,7 @@ Los casos no previstos en la presente Ley y el Reglamento Interior del Congreso,
 
 ###### ARTÍCULO 6.
 
-Para cumplir con las funciones y principios administrativos de eficacia y eficiencia; así como ejercer sus atribuciones, el Congreso del Estado cuenta con personalidad jurídica y patrimonio propios (sic); así como los recursos humanos, financieros y materiales suficientes, de conformidad con lo previsto en los ordenamientos aplicables.
+Para cumplir con las funciones y principios administrativos de eficacia y eficiencia; así como ejercer sus atribuciones, el Congreso del Estado cuenta con personalidad jurídica y patrimonio propios; así como los recursos humanos, financieros y materiales suficientes, de conformidad con lo previsto en los ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
@@ -391,7 +391,13 @@ I.- Rendir la protesta de Ley, en términos de lo dispuesto por los ordenamiento
 
 II.- Asistir con puntualidad a las sesiones y reuniones que celebre el Congreso, las Comisiones y los Comités de los que sean miembros;
 
-III.- Realizar la justificación de la falta o retardo que corresponda de forma fundada, motivada y de acuerdo con lo dispuesto en la presente Ley y en su Reglamento Interior. En caso de tres faltas injustificadas se reducirá de su dieta el equivalente a un día de trabajo;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2015)</small>
+
+III.- Realizar la justificación de la falta o retardo que corresponda de forma fundada, motivada y de acuerdo con lo dispuesto en la presente Ley y en su Reglamento Interior. Por cada falta injustificada a sesión del Pleno se reducirá de su dieta el equivalente a un día de trabajo.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2015)</small>
+
+Queda exceptuado de la anterior disposición, el caso concreto en que los Diputados tengan alguna comisión de carácter oficial o que tengan por objeto coadyuvar en asuntos de gobernabilidad del Estado, así como los pertinentes a las comisiones generales a las que pertenezcan;
 
 IV.- Cumplir oportuna y eficazmente con las comisiones que les encomiende los Órganos Legislativos;
 
@@ -567,7 +573,9 @@ I.- Acumule dos o más amonestaciones con constancia en el acta, en un periodo d
 
 II.- Se haya conducido con violencia en el desarrollo de una sesión; y
 
-III.- Falte injustificadamente a tres sesiones del Pleno.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2015)</small>
+
+III.- Falte injustificadamente a alguna sesión del Pleno.
 
 ###### ARTÍCULO 59.
 
@@ -1743,7 +1751,9 @@ Podrán utilizarse medios electrónicos, si así lo dispusiera la Mesa Directiva
 
 Las votaciones económicas se realizarán de la forma siguiente:
 
-I.- El Presidente solicitará que se pongan de pie los Diputados que se pronuncien a favor, después los que se pronuncien en contra, y por último los que se manifiesten en abstención, dando a conocer los Secretarios en voz alta el resultado de la votación para que el Presidente haga la declaratoria correspondiente; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2015)</small>
+
+I.- El Presidente solicitará que levanten la mano los Diputados que se pronuncien a favor, después los que se pronuncien en contra, y por último los que se manifiesten en abstención, dando a conocer los Secretarios en voz alta el resultado de la votación para que el Presidente haga la declaratoria correspondiente; y
 
 II.- En caso de existencia de medios electrónicos, la votación se efectuará a través de ese medio.
 
@@ -2386,3 +2396,9 @@ CUARTO.- El cambio en la denominación del Comité de Tecnologías de la Informa
 QUINTO.- Los asuntos en trámite que hayan sido turnados al Comité de Tecnologías de la Información, pasarán a ser competencia del Comité de Innovación y Tecnología.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
