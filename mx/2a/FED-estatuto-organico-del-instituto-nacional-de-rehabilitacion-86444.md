@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-rehabilitacion-8644
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-03-02"
-last_updated: "2012-03-02"
+last_updated: "2015-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-03-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE REHABILITACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ABRIL DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 2 de marzo de 2012.
 
@@ -129,7 +129,9 @@ III.- UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS:
 
 a. Direcciones:
 
-- Dirección Médica
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2015)</small>
+
+- Dirección de Educación en Salud.
 
 - Dirección Quirúrgica
 
@@ -281,7 +283,7 @@ VII. Las demás que se consideren necesarias para el cumplimiento de las anterio
 
 El Secretario de la Junta de Gobierno será un servidor público del Sector Salud, ajeno laboralmente al Instituto. Será nombrado y removido por la Junta, a propuesta de su Presidente; su cargo será honorífico, por lo que no percibirá retribución, emolumento o compensación alguna, y tendrá las siguientes funciones:
 
-I. Definir el contenido del orden del día de las sesiones; y (sic)
+I. Definir el contenido del orden del día de las sesiones; y
 
 II. Convocar la celebración de sesiones ordinarias;
 
@@ -511,7 +513,9 @@ IV. Analizar y proponer las necesidades de equipo especializado para el desarrol
 
 V. Participar en la Comisión de Investigación Científica para proyectos de investigación a desarrollar en el Instituto Nacional de Rehabilitación, considerando la disponibilidad de los recursos necesarios para tal fin;
 
-VI. Contribuir a la formación de recursos humanos especializados en el ámbito de la rehabilitación, en coordinación con la Dirección de Enseñanza;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2015)</small>
+
+VI. Contribuir a la formación de recursos humanos especializados en el ámbito de la rehabilitación, en coordinación con la Dirección de Educación en Salud.
 
 VII. Establecer, desarrollar y efectuar la evaluación del programa general de investigación científica y los subprogramas específicos que se apliquen en el Instituto Nacional de Rehabilitación para la instrumentación operación de presupuestos por programas;
 
@@ -539,9 +543,11 @@ XVIII. Asistir a las sesiones de los comités y comisiones institucionales en ma
 
 XIX. Las demás funciones que le asigne el Director General dentro del ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 32.
 
-La Dirección de Enseñanza tendrá las siguientes funciones:
+La Dirección de Educación en Salud tendrá las siguientes funciones:
 
 I. Dirigir y coordinar la realización de actividades tendientes a la formación de recursos humanos especializados en el área de la rehabilitación;
 
@@ -573,7 +579,9 @@ XIV. Coordinar las acciones para la adquisición, acceso y conservación de la b
 
 XV. Supervisar la elaboración de manuales de organización, de procedimientos e instructivos del área de su competencia;
 
-XVI. Dirigir acciones para el óptimo aprovechamiento de los equipos, insumos, materiales y recursos con que cuente la Dirección de Enseñanza;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2015)</small>
+
+XVI. Dirigir acciones para el óptimo aprovechamiento de los equipos, insumos, materiales y recursos con que cuente la Dirección de Educación en Salud;
 
 XVII. Asistir a las sesiones de los comités y comisiones institucionales en materia de enseñanza en los que participe el Instituto;
 
@@ -583,11 +591,15 @@ XVIII. Las demás funciones que le asigne el Director General dentro del ámbito
 
 La Dirección de Administración tendrá las siguientes funciones:
 
-I. Conducir en coordinación con las direcciones Médica, Quirúrgica, de Investigación y de Enseñanza la formulación del Programa Operativo Anual del Instituto y someterlo a la autorización del Director General;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2015)</small>
+
+I. Conducir en coordinación con las direcciones Médica, Quirúrgica, de Investigación y de Educación en Salud la formulación del Programa Operativo Anual del Instituto y someterlo a la autorización del Director General;
 
 II. Coordinar y supervisar el seguimiento del ejercicio presupuestal informar periódicamente a las instancias correspondientes sobre la aplicación del mismo y establecer los mecanismos de corrección sobre eventuales observaciones administrativas;
 
-III. Coordinar con las direcciones Médica, Quirúrgica, de Investigación y de Enseñanza, la formulación, implantación y actualización del sistema de cuotas de recuperación de los servicios institucionales y asegurar su correcta administración, conforme a la normatividad vigente;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2015)</small>
+
+III. Coordinar con las direcciones Médica, Quirúrgica, de Investigación y de Educación en Salud, la formulación, implantación y actualización del sistema de cuotas de recuperación de los servicios institucionales y asegurar su correcta administración, conforme a la normatividad vigente;
 
 IV. Coordinar y supervisar la gestión de los recursos humanos adscritos al Instituto, así como del sistema de remuneraciones, conforme a las disposiciones normativas aplicables;
 
@@ -706,3 +718,19 @@ El Director General del Instituto deberá inscribir este Estatuto en el Registro
 El Manual de Organización del Instituto y las Reglas Internas de Operación a que se refieren los artículos 20, 24 y 27 del presente Estatuto serán expedidos en un término no mayor de ciento ochenta días naturales, contados a partir de las modificaciones y/o adecuaciones aprobadas de este instrumento.
 
 La suscrita Dra. Maricela Verdejo Silva, prosecretaria de la Junta de Gobierno del Instituto Nacional de Rehabilitación, con fundamento en lo dispuesto por el articulo 12, fracción VI del Estatuto Orgánico del Instituto Nacional de Rehabilitación, hace constar que en la primera sesión ordinaria de la Junta de Gobierno de esta Entidad Paraestatal, celebrada el día 3 de marzo del 2011, se presento al pleno de dicho órgano de gobierno las modificaciones al Estatuto Orgánico referido, las cuales fueron aprobadas por unanimidad de votos de sus integrantes, mismos que entraron en vigor al día siguiente de su aprobación de conformidad con el Artículo Primero Transitorio.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Estatuto Orgánico del Instituto Nacional de Rehabilitación entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Director General del Instituto Nacional de Rehabilitación deberá inscribir la presente modificación en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
+
+###### ARTÍCULO TERCERO.
+
+Con fundamento en el artículo 33, fracción XI del Estatuto del Instituto Nacional de Rehabilitación, la Dirección de Administración será la encargada de llevar a cabo la modificación y la actualización del Manual de Organización del Instituto Nacional de Rehabilitación con motivo de los cambios de denominación aprobados en la presente reforma.
