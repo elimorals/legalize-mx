@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2015-02-02"
+last_updated: "2015-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
