@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-de-administracion-tributaria-del-estado-de-9789
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2015-02-02"
+last_updated: "2015-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DEL SISTEMA DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el martes 31 de Diciembre de 2013.
 
@@ -351,7 +351,7 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 P.O. 22 DE DICIEMBRE DE 2014.
 
-PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
