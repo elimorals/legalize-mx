@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-catastral-del-estado-de-hidalgo-92865"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-25"
-last_updated: "2015-02-02"
+last_updated: "2015-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL INSTITUTO CATASTRAL DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de febrero de 2013.
 
