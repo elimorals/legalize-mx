@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2015-02-02"
+last_updated: "2015-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚM. 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚM. 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -1063,7 +1063,7 @@ e).- De 751 a 1,000 m2
 
 f).- De 1,001 a 1,500 m2
 
-g).- De 1,501 a 2,000m2
+g).- De 1,501 a 2,000 m2
 
 h).- De 2,001 a 2,500 m2
 
