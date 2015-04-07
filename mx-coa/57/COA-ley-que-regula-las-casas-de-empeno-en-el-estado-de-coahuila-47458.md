@@ -4,7 +4,7 @@ identifier: "COA-ley-que-regula-las-casas-de-empeno-en-el-estado-de-coahuila-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-27"
-last_updated: "2005-12-27"
+last_updated: "2015-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO PRIMERO DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 7 DE ABRIL DE 2015; ORDENAMIENTO QUE ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de diciembre de 2005.
 
@@ -39,7 +41,7 @@ LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1°.
+###### ARTÍCULO 1°.
 
 La presente Ley es de orden público e interés social, y tiene por objeto regular la instalación y funcionamiento de establecimientos cuya finalidad sea ofertar al público la celebración de contratos de mutuo con interés y garantía prendaria.
 
@@ -437,11 +439,11 @@ I El pignorante presentará al valuador la prenda que va a empeñar.
 
 II El valuador procederá a verificar la autenticidad de la prenda; si no es auténtica la devuelve al pignorante; si lo es, procede a valuarla y a ofrecer la cantidad que presta por ella.
 
-III. Si el pignorante no la acepta, se le devuelve la prenda; si la acepta se procede a la identificación y almacenamiento de la prenda.
+III Si el pignorante no la acepta, se le devuelve la prenda; si la acepta se procede a la identificación y almacenamiento de la prenda.
 
 IV Se solicita identificación al pignorante y se procede a elaborar la boleta de empeño.
 
-V. Se entrega la boleta al pignorante para que cobre y,
+V Se entrega la boleta al pignorante para que cobre y,
 
 VI El cajero de empeño, revisa, firma y paga el préstamo al pignorante.
 
@@ -451,7 +453,7 @@ El procedimiento de desempeño se sujetará a las reglas siguientes:
 
 I El pignorante presenta al cajero de empeño el billete de identificación con el pago correspondiente.
 
-II. El cajero verifica datos.
+II El cajero verifica datos.
 
 III Si el cajero no acepta el desempeño, se pasa a revisión de almoneda.
 
@@ -674,3 +676,13 @@ EL SECRETARIO DE FINANZAS
 LIC. JORGE TORRES LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE ABRIL DE 2015.
+
+PRIMERO.- Se abroga la Ley que Regula las Casas de Empeño en el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado el 27 de diciembre de 2005.
+
+SEGUNDO.- Esta Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Una vez que haya entrado en vigor esta Ley, las casas de empeño ya instaladas y que se encuentren funcionando en el Estado con anterioridad, deberán cumplir dentro de los 90 días hábiles siguientes con las disposiciones de la misma.
