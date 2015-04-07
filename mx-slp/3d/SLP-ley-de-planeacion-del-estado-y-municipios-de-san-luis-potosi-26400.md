@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2012-07-12"
+last_updated: "2015-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -41,17 +41,19 @@ LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto constituir el Sistema Estatal de Planeación Democrática, y determinar las bases y principios de la planeación en las administraciones públicas estatal y municipales, así como las normas de integración, coordinación y participación de autoridades, órganos y sectores sociales y privados que forman al sistema.
+###### ARTICULO 1°.
+
+Las disposiciones de esta Ley son de orden público e interés social; tienen por objeto constituir el Sistema Estatal de Planeación Democrática y Deliberativa, así como determinar las bases y principios de la planeación en las administraciones públicas estatal y municipales; además, las normas de integración, coordinación y participación de autoridades, órganos y sectores sociales y privados que forman al sistema.
 
 ###### ARTICULO 2º.
 
 Para efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2015)</small>
 
-I. Sistema Estatal de Planeación Democrática, al conjunto de actividades, procedimientos, instancias e instituciones en el que participan las dependencias y entidades de la administración pública federal, estatal y municipal; los sistemas de información y consulta; los organismos de los sectores social y privado, y ciudadanos en general vinculados funcionalmente para llevar a cabo en forma coordinada y concertada el proceso de planeación del desarrollo en la Entidad; así como el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí.
+I. Sistema Estatal de Planeación Democrática y Deliberativa, al conjunto de actividades, procedimientos, instancias e instituciones en el que participan las dependencias y entidades de la administración pública federal, estatal, y municipal; los sistemas de información y consulta; los organismos de los sectores social y privado, y ciudadanos en general vinculados funcionalmente para llevar a cabo en forma coordinada y concertada el proceso de planeación del desarrollo en la Entidad; así como el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí;
 
 II. Planeación Estatal del Desarrollo, la ordenación racional y sistemática de las acciones gubernamentales, cuyo propósito es la transformación de las condiciones económicas y sociales prevalecientes en la Entidad de conformidad con las normas y principios legales establecidos, y
 
@@ -83,7 +85,31 @@ Los objetivos y prioridades de la planeación estatal serán congruentes con los
 
 Los planes y programas derivados del proceso de planeación estratégica serán obligatorios para las dependencias y entidades de la Administración Pública Estatal y Municipal; asimismo, serán la base para la coordinación de acciones entre los tres ámbitos de gobierno y servirán para inducir la participación de los sectores social y privado. Estos planes y programas estarán sujetos a un procedimiento permanente de revisión y actualización que permita ajustarlos a la realidad cambiante del Estado y sus regiones.
 
-### CAPITULO II. DEL SISTEMA ESTATAL DE PLANEACION DEMOCRATICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ABRIL DE 2015)</small>
+
+### CAPITULO II. DEL SISTEMA ESTATAL DE PLANEACION DEMOCRATICA Y DELIBERATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
+
+###### ARTICULO 6°.
+
+El Sistema Estatal de Planeación Democrática y Deliberativa se soportará en los esfuerzos de las administraciones públicas federal, estatal y municipales, de los sectores sociales y privado, y de los ciudadanos interesados en el proceso de desarrollo, conforme a las siguientes etapas:
+
+I. En la etapa de formulación se elaborarán los planes estatal y municipales, y los programas regionales, sectoriales, especiales e institucionales con una visión de mediano y largo plazo. Comprende los criterios de coordinación y concertación con los organismos sociales, privados y con la ciudadanía en general; la preparación de diagnósticos económicos, sociales, regionales y sectoriales; y la definición de estrategias, objetivos, metas, prioridades, políticas y acciones;
+
+II. En la etapa de instrumentación se traducirán los lineamientos y estrategias de los planes estatal y municipales, y de los programas regionales, sectoriales, especiales e institucionales en programas operativos anuales, precisando metas, indicadores de evaluación, asignando recursos, determinando responsables y fijando tiempos de ejecución;
+
+III. En la etapa de control se vigilará que las acciones realizadas cumplan con las normas administrativas, presupuestarias, contables y jurídicas, y que la ejecución de los programas logre los objetivos y prioridades de los planes;
+
+IV. En la etapa de información se reportarán los avances del Plan Estatal de Desarrollo y de los programas regionales, sectoriales, especiales e institucionales al Sistema Estatal de Información, a través de un sistema de indicadores concertados con las dependencias y entidades de la administración pública estatal.
+
+Asimismo, se informará del avance del Plan Municipal y de los programas regionales, sectoriales, especiales e institucionales al cabildo del municipio respectivo, mediante un sistema de indicadores concertados con las dependencias y entidades de la administración pública municipal;
+
+V. En la etapa de evaluación se valorarán cualitativa y cuantitativamente los resultados de los planes Estatal y municipales de Desarrollo, y de los programas regionales, sectoriales, especiales e institucionales por la autoridad estatal o municipal, según corresponda, y
+
+VI. En la etapa de actualización se adecuarán los planes Estatal y municipales de Desarrollo, y los programas regionales, sectoriales, especiales e institucionales a las transformaciones del entorno político, económico, social y cultural del Estado, municipios y sus regiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 6º.
 
@@ -103,9 +129,9 @@ V. En la etapa de evaluación se valorarán cualitativa y cuantitativamente los 
 
 VI. En la etapa de actualización se adecuarán los planes Estatal y municipales de Desarrollo, y los programas regionales, sectoriales, especiales e institucionales a las transformaciones del entorno político, económico, social y cultural del Estado, municipios y sus regiones.
 
-###### ARTICULO 7º.
+###### ARTICULO 7°.
 
-El Sistema de Planeación Democrática de San Luis Potosí estará formado por:
+El Sistema de Planeación Democrática y Deliberativa de San Luis Potosí estará formado por:
 
 I. El Congreso del Estado;
 
@@ -121,9 +147,11 @@ VI. Los Comités de Planeación del Desarrollo Municipal (COPLADEM), y
 
 VII. Las organizaciones sociales y privadas cuyas actividades deben ser consideradas en la Planeación del Desarrollo del Estado conforme a esta Ley.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
 
-En el Sistema de Planeación Democrática las atribuciones y funciones de planeación serán las siguientes:
+###### ARTICULO 8°.
+
+En el Sistema de Planeación Democrática y Deliberativa las atribuciones y funciones de planeación serán las siguientes:
 
 I. Del Congreso del Estado:
 
@@ -243,9 +271,11 @@ Las dependencias y entidades federales tendrán la participación que les otorgu
 
 ### CAPITULO III. DE LA PLANEACION ESTATAL DEL DESARROLLO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 10.
 
-El Sistema Estatal de Planeación Democrática se sustenta en los siguientes instrumentos:
+El Sistema Estatal de Planeación Democrática y Deliberativa se sustenta en los siguientes instrumentos:
 
 I. Normativos:
 
@@ -305,9 +335,11 @@ f ) Informes sectoriales, regionales, institucionales y especiales, y
 
 g) Sistema de indicadores de la gestión gubernamental.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 11.
 
-El Plan Estatal de Desarrollo es el documento orientador del Sistema Estatal de Planeación. Deberá elaborarse, aprobarse y publicarse en un plazo no mayor a seis meses a partir de la fecha de toma de posesión del Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda.
+El Plan Estatal de Desarrollo es el documento orientador del Sistema Estatal de Planeación Democrática y Deliberativa. Deberá elaborarse, aprobarse y publicarse en un plazo no mayor a seis meses a partir de la fecha de toma de posesión del Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda.
 
 ###### ARTICULO 12.
 
@@ -373,13 +405,17 @@ En los presupuestos de egresos se comprenderán las erogaciones sobre programas 
 
 Para la ejecución de los planes Estatal y municipal, así como los programas regionales, sectoriales, especiales e institucionales, las administraciones públicas Estatal y Municipal, elaborarán programas operativos anuales que incluirán los aspectos administrativos y de política económica y social correspondientes, además de indicadores estratégicos que permitan evaluar el ejercicio presupuestal. Estos programas deberán ser congruentes entre sí y servirán de base para la integración de los presupuestos anuales.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 23.
 
-La definición de los lineamientos para la integración de los programas operativos de las dependencias y entidades de la Administración Pública Estatal, así como su revisión, serán responsabilidad de la Secretaría de Planeación del Desarrollo.
+La definición de los lineamientos para la integración de los programas operativos de las dependencias y entidades de la Administración Pública Estatal, así como su revisión, serán responsabilidad de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 24.
 
-Cuando el desarrollo de una región dentro del Estado requiera que se realicen acciones de integración programática y presupuestal entre municipios y el Estado, ésta se llevará a cabo a través de la Secretaría de Planeación del Desarrollo.
+Cuando el desarrollo de una región dentro del Estado requiera que se realicen acciones de integración programática y presupuestal entre municipios y el Estado, ésta se llevará a cabo a través de la Secretaría de Finanzas.
 
 ###### ARTICULO 25.
 
@@ -415,7 +451,9 @@ El Ejecutivo Estatal ordenará la publicación en el Periódico Oficial del Esta
 
 La evaluación es el medio para cotejar las metas establecidas y los resultados alcanzados en el proceso de ejecución de los planes y programas estatales y municipales, a través de un Sistema de Indicadores que mide los logros de la gestión gubernamental en términos de cobertura, efectividad, impacto y calidad de las políticas públicas.
 
-El Sistema de Indicadores de la Gestión Pública Estatal, será definido por las dependencias y entidades de la Administración Pública Estatal, de acuerdo a los lineamientos emitidos por la Secretaría de Planeación del Desarrollo; tales indicadores serán proporcionados al Sistema Estatal de Información.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
+
+El Sistema de Indicadores de la Gestión Pública Estatal, será definido por las dependencias y entidades de la Administración Pública Estatal, de acuerdo a los lineamientos emitidos por la Secretaría de Finanzas; tales indicadores serán proporcionados al Sistema Estatal de Información.
 
 El Sistema de Indicadores de la Gestión Pública Municipal, será definido por las dependencias y entidades de la Administración Pública Municipal, de acuerdo a los lineamientos emitidos por la Dirección de Planeación Municipal o su equivalente; tales indicadores serán proporcionados al Sistema Municipal de Información que lleve cada municipio.
 
@@ -509,9 +547,11 @@ Los proyectos derivados de los Programas de Desarrollo Microregional, serán aqu
 
 Los proyectos microregionales serán la base para la promoción, coordinación y concertación de acciones y concurrencia de recursos entre los municipios y los sectores público, privado y social.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 39.
 
-En el ámbito del Sistema Estatal de Planeación Democrática, se dará la participación y consulta de los diversos grupos sociales y privados, con el objeto de que la población exprese sus opiniones para la formulación, instrumentación, evaluación y ejecución del Plan Estatal, los planes municipales y los programas regionales, sectoriales, especiales e institucionales a que se refiere esta Ley.
+En el ámbito del Sistema Estatal de Planeación Democrática y Deliberativa, se dará la participación y consulta de los diversos grupos sociales y privados, con el objeto de que la población exprese sus opiniones para la formulación, instrumentación, evaluación y ejecución del Plan Estatal, los planes municipales y los programas regionales, sectoriales, especiales e institucionales a que se refiere esta Ley.
 
 ###### ARTICULO 40.
 
@@ -606,3 +646,9 @@ P.O. 12 DE JULIO DE 2012.
 PRIMERO. Estas reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se abrogan y derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE ABRIL DE 2015.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
