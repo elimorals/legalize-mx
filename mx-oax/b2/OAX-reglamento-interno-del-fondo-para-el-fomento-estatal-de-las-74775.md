@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-fondo-para-el-fomento-estatal-de-las-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-20"
-last_updated: "2010-03-20"
+last_updated: "2015-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "OAX"
 
 REGLAMENTO INTERNO DEL FONDO PARA EL FOMENTO ESTATAL DE LAS ACTIVIDADES PRODUCTIVAS DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL FONDO PARA EL FOMENTO ESTATAL DE LAS ACTIVIDADES PRODUCTIVAS DE OAXACA, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de marzo de 2010.
 
 EL COMITÉ TÉCNICO DEL FONDO PARA EL FOMENTO ESTATAL DE LAS ACTIVIDADES PRODUCTIVAS DE OAXACA DE CONFORMIDAD CON EL ARTÍCULO 56 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; ARTÍCULOS 12, FRACCIÓN XIV, 13 FRACCIÓN VIII, DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 En razón a lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -331,7 +333,7 @@ XIV. Supervisar que se apliquen las disposiciones jurídicas, en materia normati
 
 XV. Vigilar la actualización permanente de la normatividad del Fondo;
 
-XVI. Dictaminar en coordinación con la Dirección Crédito (sic) los expedientes de crédito considerados como irrecuperables de acuerdo a lo establecido en el Manual General de Organización y Manual de Normas y Políticas del Fondo;
+XVI. Dictaminar en coordinación con la Dirección (sic) Crédito los expedientes de crédito considerados como irrecuperables de acuerdo a lo establecido en el Manual General de Organización y Manual de Normas y Políticas del Fondo;
 
 XVII. Presentar al Director General la propuesta de los expedientes de créditos considerados como irrecuperables;
 
@@ -538,3 +540,13 @@ DIRECTOR GENERAL DE FIDEAPO Y SECRETARIO TÉCNICO DEL COMITÉ TÉCNICO
 LIC. MA DE JESÚS MORALES BARENCA
 
 DIRECTOR JURÍDICO DE FIDEAPO Y SECRETARIO DE ACTAS DEL COMITÉ TÉCNICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO.- Se abroga, el Reglamento Interno del Fondo para el Fomento Estatal de las Actividades Productivas de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado el 20 de marzo del año 2010.
