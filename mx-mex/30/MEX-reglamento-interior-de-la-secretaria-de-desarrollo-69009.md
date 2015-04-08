@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-69009"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-11"
-last_updated: "2009-06-11"
+last_updated: "2015-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO METROPOLITANO
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO METROPOLITANO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO METROPOLITANO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y METROPOLITANO, PUBLICADO EN LA G.G. DE 8 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 11 de junio de 2009.
 
@@ -412,3 +414,17 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 8 DE ABRIL DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano publicado en el Periódico Oficial "Gaceta del Gobierno" el 22 de marzo de 2007.
+
+CUARTO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Metropolitano publicado en el Periódico Oficial "Gaceta del Gobierno" el 11 de junio de 2009.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
