@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-victimas-para-el-estado-de-san-luis-potosi-102830"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-07"
-last_updated: "2014-10-07"
+last_updated: "2015-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí el martes 7 de octubre de 2014.
 
@@ -1399,7 +1399,15 @@ Las personas que con motivo del desempeño de funciones públicas atiendan a ví
 
 ## TRANSITORIOS
 
-PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2015)</small>
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; con excepción del capítulo II del Título Séptimo; así como los capítulos, I, y II, del Título Octavo; y todas aquéllas disposiciones referentes a la intervención y funcionamiento de la Comisión Ejecutiva.
+
+El capítulo II del Título Séptimo; así como los capítulos, I, y II, del Título Octavo de este Decreto, entrarán en vigor el uno de julio de dos mil quince, por lo que el Poder Ejecutivo del Estado deberá modificar ella (sic) vigente Ley del Presupuesto de Egresos del Estado, a fin de incluir los recursos necesarios para la operación y funcionamiento del organismo a que se refieren tales disposiciones.
+
+Por tanto, el cargo de comisionada, o comisionado, de la Comisión Ejecutiva Estatal de Víctimas, será honorífico desde su elección, y hasta el treinta y uno de diciembre de dos mil quince.
+
+Los poderes, Ejecutivo; y Legislativo del Estado deberán contemplar en la Ley del Presupuesto de Egresos a partir del ejercicio fiscal dos mil dieciséis, las percepciones de las, o los comisionados, así como los recursos necesarios para la operación y funcionamiento de la Comisión Ejecutiva Estatal de Víctimas; así como el porcentaje del Presupuesto de Egresos del Estado, que dispone la ley, para la conformación del Fondo de Ayuda, Asistencia, y Reparación Integral del Estado.
 
 SEGUNDO. Se abroga la Ley de Derechos y Atención de la Víctima del Delito para el Estado de San Luis Potosí, publicada como Decreto Legislativo No. 1159, en el Periódico Oficial del Estado el seis de octubre del dos mil doce.
 
@@ -1413,7 +1421,9 @@ El Reglamento que para el efecto emita el Ejecutivo Estatal habrá de precisar c
 
 SEXTO. Los municipios del Estado de San Luis Potosí, sus dependencias y entidades deberán adecuar la normatividad que les resulte aplicable, así como emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia municipal, que se deriven de la presente Ley, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la Ley.
 
-SÉPTIMO. La Comisión Ejecutiva Estatal deberá elegirse conforme a las disposiciones de esta Ley, dentro de los noventa días naturales posteriores a la entrada en vigor de la misma.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2015)</small>
+
+SÉPTIMO. La Comisión Ejecutiva Estatal deberá elegirse conforme a las disposiciones de esta Ley, entre el uno y el quince de julio de dos mil quince, e iniciará sus funciones el dieciséis de julio del mismo año.
 
 OCTAVO. La Comisión Ejecutiva Estatal se instalará con la designación de tres comisionados. La o el designado de los propuestos por el Supremo Tribunal de Justicia durará en su encargo un año; la o el designado de los propuestos por el titular del Poder Ejecutivo durará tres años; y la o el designado por el Congreso del Estado durará cinco años.
 
@@ -1458,3 +1468,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
