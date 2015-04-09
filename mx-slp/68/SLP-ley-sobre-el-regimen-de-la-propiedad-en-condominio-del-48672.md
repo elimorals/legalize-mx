@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-la-propiedad-en-condominio-del-48672"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-27"
-last_updated: "2011-12-24"
+last_updated: "2015-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY SOBRE EL RÉGIMEN DE LA PROPIEDAD EN CONDOMINIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 27 de diciembre de 2005.
 
@@ -37,7 +39,7 @@ EXPOSICION DE MOTIVOS
 
 La Ley sobre el Régimen de Propiedad y Condominio de los Edificios Divididos en Pisos, Departamentos, Viviendas o Locales, publicada mediante el Decreto N°. 232, en el Periódico Oficial del Estado, el 3 de febrero de 1966, y que consta de 48 artículos, no ha sido objeto de reformas desde su publicación; por lo que dado el avance de la urbanización y el crecimiento de las zonas habitacionales de nuestro Estado, este ordenamiento ha quedado obsoleto en su aplicación.
 
-El crecimiento económico se ha visto rebasado desde hace muchos años por el poblacional (sic), lo que trae como consecuencia la falta de empleo y, por lo tanto, inseguridad; por lo que es cada día más común que los ciudadanos nos organicemos para formar fraccionamientos y centros comerciales, para ofrecer nuestros productos, cerrados y con vigilancia para protección de nuestras familias y clientes; creando con más frecuencia vivienda y comercio que se encuentra constituido como la propiedad en condominio, lo que alude a un gran compromiso de quienes loas habitan.
+El crecimiento económico se ha visto rebasado desde hace muchos años por el poblacional, lo que trae como consecuencia la falta de empleo y, por lo tanto, inseguridad; por lo que es cada día más común que los ciudadanos nos organicemos para formar fraccionamientos y centros comerciales, para ofrecer nuestros productos, cerrados y con vigilancia para protección de nuestras familias y clientes; creando con más frecuencia vivienda y comercio que se encuentra constituido como la propiedad en condominio, lo que alude a un gran compromiso de quienes loas habitan.
 
 Los condominios representan hoy en día una opción viable de desarrollo urbano, ya que ocupan menos espacios físicos y brindan a la población una opción concreta de vivienda en zonas de alta ocupación habitacional; sin embargo, el hecho de compartir espacios y servicios comunes de manera necesaria, da lugar a una serie de responsabilidades y obligaciones que deben cumplirse de una forma compartida y responsable, por todos aquellos que habitan en los condominios a fin de mantener la armonía, la salubridad, el orden y el buen estado de los bienes materiales de los mismos, en beneficio de todos sus ocupantes.
 
@@ -948,3 +950,23 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2015.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor de este Ordenamiento, se abroga la Ley sobre el Régimen de la Propiedad en Condominio del Estado de San Luis Potosí, publicada en edición extraordinaria del Periódico Oficial del Estado, el martes 27 de diciembre de 2005; y se derogan todas las disposiciones que se opongan a lo dispuesto en esta nueva Ley.
+
+TERCERO. Los ayuntamientos del Estado tendrán un plazo de ciento ochenta días naturales, para expedir el formato que sirva para la elaboración del Reglamento Interno de Condominios, que establece la presente Ley.
+
+CUARTO. Los ayuntamientos tendrán un plazo de noventa días para resolver y publicar en estrados, en su órgano de difusión, y en diarios locales, las áreas administrativas municipales que se harán cargo de:
+
+1. Autorizar la construcción de un inmueble con las características de un condominio.
+
+2. Autorizar y conservar el reglamento interno de los condominios, tanto el de origen, como el que ratifique la asamblea, y sus modificaciones.
+
+3. Atender las quejas y solicitudes de mediación que formulen los condóminos y sus administradores.
+
+4. Capacitar a los administradores; difundir esta Ley y los reglamentos internos, así como promover la cultura condominal.
+
+5. Resolver la clasificación de un condominio como de interés social y popular, así como recibir y gestionar las solicitudes de servicios que éstos formulen.
