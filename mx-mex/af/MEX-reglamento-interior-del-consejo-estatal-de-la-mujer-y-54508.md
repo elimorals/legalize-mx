@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-estatal-de-la-mujer-y-54508"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2007-01-29"
+last_updated: "2015-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL
 
-REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 9 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 29 de enero de 2007.
 
@@ -412,3 +414,15 @@ M. EN C. ARLETTE LÓPEZ TRUJILLO
 VOCAL EJECUTIVA DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL Y SECRETARIA DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE ABRIL DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento Interior del Consejo Estatal de la Mujer y Bienestar Social, publicado en el Periódico Oficial “Gaceta del Gobierno” el 29 de enero de 2007.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
