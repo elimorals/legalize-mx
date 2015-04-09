@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2015-01-09"
+last_updated: "2015-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2015 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 2015.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -80,6 +78,10 @@ El Estado tiene como base de su división territorial y de su organización pol�
 El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley.
 
 La libertad del hombre y de la mujer no tiene más límite que la prohibición de la ley; por tanto, toda persona tiene el deber de acatar los ordenamientos expedidos por autoridad competente. Las autoridades sólo tienen las atribuciones concedidas expresamente por la ley.
+
+> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 2015)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. En el Estado de Veracruz se garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -2403,7 +2405,7 @@ Los Jueces municipales que se encuentran en ejercicio quedan designa dos provisi
 
 ###### ARTICULO VIGESIMO SEPTIMO.
 
-Los Juzgados de Paz, funcionarán en los locales que ocupan los Juzgados Municipales. El Consejo de la Judicatura, llevará al cabo (sic) los trámites necesarios para que los Juzgados de Paz cuenten con locales propios.
+Los Juzgados de Paz, funcionarán en los locales que ocupan los Juzgados Municipales. El Consejo de la Judicatura, llevará al (sic) cabo los trámites necesarios para que los Juzgados de Paz cuenten con locales propios.
 
 ###### ARTICULO VIGESIMO OCTAVO.
 
@@ -2788,3 +2790,9 @@ NOVENO. Las reformas y derogaciones previstas para los artículos 52, 53, 54, 56
 Los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General a partir de la declaratoria prevista en el párrafo anterior.
 
 DÉCIMO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 9 DE ABRIL DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio (sic) la Llave.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
