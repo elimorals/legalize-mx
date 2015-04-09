@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-estatal-de-la-mujer-y-54508"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2007-01-29"
+last_updated: "2015-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,288 +21,408 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL
 
-REGLAMENTO DE LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DE CHILPANCINGO DE LOS BRAVO, GUERRERO
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 9 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Alcance IV del Número 77 del Periódico Oficial del Estado de Guerrero, el viernes 26 de septiembre de 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2015 (ABROGADO).
 
-OCTAVA SESIÓN ORDINARIA DE CABILDO DE FECHA 17 DE JUNIO DE 2025, EN LA CUAL SE APROBÓ EL ACUERDO POR EL QUE SE CREA LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE CHILPANCINGO DE LOS BRAVO, GUERRERO; Y SE EMITE SU REGLAMENTO.
+Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 29 de enero de 2007.
 
-[…]
+LA JUNTA DIRECTIVA DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 11 FRACCIÓN V DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL; Y
 
-En seguida el Presidente Municipal Gustavo Alarcón Herrera, dio instrucciones al Secretario General para que procediera con la lectura al punto tres del Orden del Día, manifestando el Secretario General Axel Campos Martínez, que el punto número tres es el relativo al acuerdo mediante el cual el ciudadano Gustavo Alarcón Herrera, Presidente Municipal Constitucional, propone para su aprobación el Reglamento de la Gaceta Municipal del Honorable Ayuntamiento de Chilpancingo de los Bravo, Guerrero. Seguidamente el Presidente Municipal Gustavo Alarcón Herrera, dijo: ¿si alguien desea hacer el uso de la voz en este punto? De no haber comentarios al respecto, solicito al secretario tome el sentido de su votación. Seguidamente el Secretario General Axel Campos Martínez, comentó: atendiendo la instrucción les preguntó, los que estén a favor, en contra, alguna abstención, expresada la votación con quince votos a favor, cero en contra y cero abstenciones. Seguidamente el C. Presidente Municipal Gustavo Alarcón Herrera, dijo: Se aprueba por unanimidad de votos el Reglamento de la Gaceta Municipal del Honorable Ayuntamiento de Chilpancingo de los Bravo, Guerrero. Se instruye a la Secretaría General, lo haga del conocimiento de las áreas Municipales y órganos estatales para los efectos legales correspondientes; agregándose a la presente acta, en términos del artículo 56 de la Ley Orgánica del Municipio Libre del Estado de Guerrero, el siguiente:
+C O N S I D E R A N D O.
 
-REGLAMENTO DE LA GACETA MUNICIPAL DEL HONORABLE AYUNTAMIENTO DE CHILPANCINGO DE LOS BRAVO, GUERRERO.
+En razón de lo expuesto, ha tenido a bien expedir el siguiente:
 
-### Capítulo I. Disposiciones Generales
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL
+
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-El presente Reglamento es de interés público y observancia general y tiene por objeto regular la elaboración, publicación y distribución de la Gaceta Municipal del Municipio de Chilpancingo de los Bravo, Guerrero; así como establecer las bases generales de su contenido y difusión entre los habitantes y el público en general que en materia municipal sean aprobados por el Congreso del Estado como acuerdos, resoluciones, reglamentos, presupuesto de egresos e ingresos, iniciativas de ley, decretos, edictos, disposiciones administrativas de observancia general y demás determinaciones que expidan las y los integrantes del H. Ayuntamiento
+El presente Reglamento tiene por objeto regular la organización y el funcionamiento del Consejo Estatal de la Mujer y Bienestar Social.
 
 ###### Artículo 2.
 
-La Gaceta Municipal es el órgano oficial de difusión, comunicación divulgación del Honorable Ayuntamiento del Municipio de Chilpancingo de los Bravo; Guerrero; es de carácter permanente y social interés público cuya función es hacer del conocimiento a la ciudadanía respecto de los decretos, bandos, circulares, resoluciones, acuerdos, edictos, reglamentos vigentes y los aprobados para el Municipio; disposiciones administrativas de observancia general, y demás acuerdos para efectos de su difusión y aplicación que sean emitidos por las y los integrantes del H. Ayuntamiento.
+Para efectos del presente Reglamento se entiende por:
 
-A efecto de que el Honorable Ayuntamiento cumpla con la obligación que refiere el párrafo anterior, se auxiliará de la Secretaria o Secretario General del Ayuntamiento, quien éste a su vez, contará con una unidad administrativa denominada Gaceta Municipal a cargo de una persona titular, creada con la estructura que el presupuesto autorizado le permita.
+I. Decreto, al Decreto del Ejecutivo del Estado por el que se crea el organismo público descentralizado de carácter estatal denominado Consejo Estatal de la Mujer y Bienestar Social.
+
+II. Consejo Estatal u Organismo, al Consejo Estatal de la Mujer y Bienestar Social.
+
+III. Junta Directiva, a la Junta Directiva del Consejo Estatal de la Mujer y Bienestar Social.
+
+IV. Vocal Ejecutivo, al Vocal Ejecutivo del Consejo Estatal de la Mujer y Bienestar Social.
 
 ###### Artículo 3.
 
-La aplicación y vigilancia del presente Reglamento, corresponde a las autoridades siguientes:
-
-I. La Presidenta o Presidente Municipal;
-
-II. La Síndica o Síndico Procurador (administrativo);
-
-III. La Secretaria o Secretario General, y
-
-IV. La persona titular de la Gaceta Municipal.
+El Consejo Estatal es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le confieren el Decreto y otras disposiciones legales.
 
 ###### Artículo 4.
 
-Las autoridades señaladas en el artículo anterior, además de las atribuciones citadas en la Ley Orgánica del Municipio Libre del Estado de Guerrero, les corresponde vigilar las publicaciones efectuadas en la Gaceta Municipal.
+El Consejo Estatal se sujetará a lo dispuesto por el Decreto, por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su reglamento, y por lo que establezcan otros ordenamientos aplicables.
 
 ###### Artículo 5.
 
-Corresponde a la Secretaria o Secretario General del Ayuntamiento lo siguiente:
-
-I. Coordinar y disponer lo necesario para la publicación fiel y oportuna de los reglamentos, circulares, acuerdos, edictos, resoluciones y demás disposiciones que mandate el cabildo, en la Gaceta Municipal;
-
-II. Realizar la Fe de Erratas a los textos publicados, así como corregirlos cuando lo justifiquen plenamente ante la persona titular de la Gaceta Municipal, o lo determinen las y los integrantes del H. Ayuntamiento, y
-
-III. Las demás que señale la normatividad aplicable.
+El Consejo Estatal conducirá sus actividades en forma programada, con base en lo señalado en el Plan de Desarrollo del Estado de México y en los programas a su cargo o en los que participe, de conformidad con la legislación en la materia.
 
 ###### Artículo 6.
 
-La persona titular de la Gaceta Municipal tendrá las atribuciones siguientes:
+La dirección y administración del Consejo Estatal corresponde:
 
-I. Realizar la publicación fiel y oportuna de los reglamentos, circulares, acuerdos, edictos, resoluciones y demás disposiciones administrativas de observancia general, en la Gaceta Municipal;
+I. A la Junta Directiva; y
 
-II. Conservar y organizar cada una de las publicaciones de la Gaceta Municipal, en plena observancia de la ley de archivos y demás normas aplicables, y
+II. Al Vocal Ejecutivo.
 
-III. Las demás que sean encomendadas por la Secretaria o Secretario General del Ayuntamiento y otras disposiciones legales aplicables.
-
-### Capitulo II. Publicación
+### CAPÍTULO II. DE LA JUNTA DIRECTIVA
 
 ###### Artículo 7.
 
-La Gaceta Municipal del Municipio de Chilpancingo de los Bravo, Guerrero; deberá ser publicada en forma ordinaria, dentro de los primeros cinco días naturales de cada mes y será de manera extraordinaria las veces que sea necesaria su publicación, cuando así lo acuerden las y los integrantes del H. Ayuntamiento, ya que por su importancia y contenido no podrá esperar a la publicación ordinaria correspondiente.
-
-En ningún caso será publicado documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente firmado y plenamente comprobada la procedencia.
-
-En la publicación del documento se podrá omitir la impresión de las firmas autógrafas y en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra "RÚBRICA", teniendo plena validez jurídica el contenido de la publicación.
+La Junta Directiva es el órgano de gobierno del Consejo Estatal, sus determinaciones serán obligatorias para el Vocal Ejecutivo y las unidades administrativas que integran al Organismo.
 
 ###### Artículo 8.
 
-En la Gaceta Municipal se publicará lo siguiente:
-
-I. Reglamentos, bandos, circulares, acuerdos, edictos, decretos, resoluciones y demás disposiciones administrativas de observancia general;
-
-II. Convenios o cualquier otro compromiso de interés para el municipio y sus habitantes;
-
-III. Información de carácter institucional o reseñas culturales, biográficas geográficas de interés para los habitantes del municipio;
-
-IV. Información financiera relativa a las cuentas públicas e informes trimestrales de las auditorías de la Secretaría de Hacienda, el Sistema de Recursos Federales Transferibles (SRFT) y la Matriz de Inversión para el Desarrollo Social (MIDS);
-
-V. Notificaciones administrativas o judiciales que por disposición de la ley sean susceptibles de publicarse;
-
-VI. Convocatorias y licitaciones públicas para la adquisición de bienes y servicios, así como para la concesión de servicios y obra pública;
-
-VII. Aquellos actos y resoluciones que por su propia importancia lo determinen las y los integrantes del H. Ayuntamiento;
-
-VIII. Un extracto del informe anual del Ejecutivo Municipal rendido en la primera quincena del mes de septiembre de cada año, y
-
-IX. Demás documentos que por acuerdo del cabildo se considere de importancia su difusión.
+La Junta Directiva se integrará de conformidad con lo establecido en el Decreto y funcionará de acuerdo con las disposiciones aplicables.
 
 ###### Artículo 9.
 
-Las publicaciones instadas por particulares que se efectúen en la Gaceta Municipal, se realizarán previo pago de los derechos conforme a las cuotas que establezca la Ley de Ingresos, ante la Secretaría de Finanzas y Administración.
+Corresponde a la Junta Directiva el ejercicio de las atribuciones señaladas en el Decreto, así como el cumplimiento de las obligaciones que le señalen otros ordenamientos legales.
 
-### Capítulo III. Distribución de la Gaceta Municipal
+### CAPÍTULO III. DE LAS ATRIBUCIONES DEL VOCAL EJECUTIVO
 
 ###### Artículo 10.
 
-La Secretaria o Secretario General, podrá expedir copias certificadas de la edición impresa de la Gaceta Municipal, el costo de estas será el que determine su Ley de Ingresos Municipal.
+Corresponde al Vocal Ejecutivo, además de las señaladas en el Decreto, las atribuciones siguientes:
+
+I. Planear, programar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas al Consejo Estatal.
+
+II. Promover ante los gobiernos municipales la instalación de consejos municipales de la mujer y bienestar social.
+
+III. Establecer lineamientos y mecanismos que contribuyan a dar cumplimiento al objeto y atribuciones del Consejo Estatal.
+
+IV. Coordinar la realización de estudios e investigaciones para atender a las mujeres en situación de violencia y a los adultos mayores, a fin de contribuir a su bienestar social.
+
+V. Vigilar y evaluar el cumplimiento de los programas y atribuciones de las unidades administrativas a su cargo, así como promover que sus funciones se realicen de manera coordinada.
+
+VI. Promover la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece el Consejo Estatal.
+
+VII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
+
+VIII. Las demás que le confieren otras disposiciones legales y las que le encomiende la Junta Directiva.
 
 ###### Artículo 11.
 
-La Gaceta Municipal para su publicación, deberá contener mínimamente los datos siguientes:
+Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las acciones de control y evaluación que le corresponden, el Vocal Ejecutivo se auxiliará de las unidades administrativas básicas siguientes:
 
-I. La denominación -Gaceta Municipal- y la leyenda: -Órgano Oficial de Publicación del Municipio de Chilpancingo de los Bravo, Guerrero-;
+I. Dirección de Bienestar Social para la Mujer.
 
-II. El Escudo Oficial del Ayuntamiento;
+II. Dirección de Bienestar Social para Adultos Mayores.
 
-III. Fecha y número de publicación de la edición correspondiente:
+III. Subdirección Operativa.
 
-IV. Nombre de la persona titular responsable;
+IV. Subdirección de Asistencia Jurídica y Psicológica.
 
-V. Índice del contenido y
+V. Delegaciones Regionales.
 
-VI. El nombre de las personas integrantes del H. Ayuntamiento
+VI. Unidad de Apoyo Administrativo.
 
-### Capítulo IV. Fe de Erratas
+VII. Contraloría Interna.
+
+El Consejo Estatal contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con su estructura orgánica, pre supuesto de egresos y normatividad aplicable.
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LOS DIRECTORES, SUBDIRECTORES Y DELEGADOS REGIONALES
 
 ###### Artículo 12.
 
-La Gaceta Municipal será editada en el H. Ayuntamiento de Chilpancingo de los Bravo, Guerrero; y su publicación será realizada de manera mensual y en cantidad suficiente para garantizar la demanda del municipio.
+Al frente de cada Dirección, Subdirección y Delegación Regional habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura de organización autorizada y con el presupuesto de egresos respectivo.
 
 ###### Artículo 13.
 
-La Gaceta Municipal, será distribuida dentro de la jurisdicción territorial del Municipio de Chilpancingo de los Bravo, Guerrero.
+Corresponde a los Directores, Subdirectores y Delegados Regionales:
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de la unidad administrativa a su cargo.
+
+II. Acordar con el Vocal Ejecutivo el despacho de los asuntos a su cargo que requieran de su intervención.
+
+III. Formular los dictámenes, resoluciones, opiniones, estudios, proyectos e informes que les sean solicitados por el Vocal Ejecutivo o los que les correspondan en razón de sus atribuciones.
+
+IV. Elaborar y proponer los anteproyectos de programas anuales de actividades y de presupuesto de egresos de la unidad administrativa a su cargo.
+
+V. Disponer las acciones necesarias para la ejecución de los programas, proyectos y funciones de la unidad administrativa a su cargo, así como vigilar su cumplimiento.
+
+VI. Proponer al Vocal Ejecutivo la expedición o modificación de disposiciones jurídicas y administrativas para mejorar la organización y el funcionamiento de la unidad administrativa a su cargo y vigilar su cumplimiento.
+
+VII. Coordinar sus actividades con los titulares de las demás unidades administrativas del Consejo Estatal, cuando la ejecución de los programas, proyectos y acciones a su cargo así lo requieran.
+
+VIII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos e instituciones que lo soliciten.
+
+IX. Promover la elaboración, actualización y aplicación de los manuales administrativos y demás disposiciones que rijan la organización y el funcionamiento de la unidad administrativa a su cargo.
+
+X. Proponer y coordinar la ejecución de acciones de simplificación administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo.
+
+XI. Someter a la consideración del Vocal Ejecutivo el ingreso, licencia, promoción, remoción y cese de los titulares de las unidades administrativas a su cargo.
+
+XII. Desempeñar las comisiones y funciones que les encomiende el Vocal Ejecutivo y mantenerlo informado respecto de su desarrollo y cumplimiento.
+
+XIII. Expedir constancias o certificar copias de documentos existentes en los archivos del Consejo Estatal, cuando se refieran a asuntos de su competencia.
+
+XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia.
+
+XV. Las demás que les confieren otras disposiciones legales y las que les encomiende el Vocal Ejecutivo.
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES, SUBDIRECCIONES, UNIDAD DE APOYO ADMINISTRATIVO Y CONTRALORÍA INTERNA
 
 ###### Artículo 14.
 
-El ejemplar ordinario y extraordinario de la Gaceta Municipal tendrá un costo de recuperación, pero se destinará el porcentaje que determine el H. Ayuntamiento para su distribución gratuita. Los ejemplares de fechas atrasadas de la Gaceta Municipal tendrán un costo adicional.
+Corresponde a la Dirección de Bienestar Social para la Mujer:
+
+I. Coordinar la formulación, ejecución y evaluación de los programas estratégicos de atención a la mujer, así como diseñar mecanismos de vinculación y gestión para su cumplimiento.
+
+II. Proponer y, en su caso, realizar estudios tendientes a elevar la eficiencia, eficacia y coherencia de los programas y acciones de atención a la mujer.
+
+III. Proponer políticas, sistemas y procedimientos de carácter técnico que contribuyan al cumplimiento de los programas y acciones de atención a la mujer.
+
+IV. Fomentar la actitud empresarial de las mujeres para el desarrollo de proyectos productivos.
+
+V. Impulsar la participación de las mujeres en obras de carácter comunitario.
+
+VI. Promover la implementación de programas de capacitación para las mujeres.
+
+VII. Difundir información sobre el mercado laboral disponible para las mujeres.
+
+VIII. Participar en la difusión de acciones de atención de la mujer, en materia de medicina preventiva, sexualidad, planificación familiar, prevención de adicciones, salud mental, derechos humanos y combate a la violencia.
+
+IX. Participar, con las instancias correspondientes, en el diseño, ejecución y evaluación de proyectos de atención a la mujer.
+
+X. Las demás que le confieren otras disposiciones legales y las que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 15.
 
-La operación y difusión de la Gaceta Municipal, no exime al Ayuntamiento de realizar las publicaciones en el Periódico Oficial del Gobierno del Estado, de aquellos actos y ordenamientos municipales que requieran tal requisito conforme a las leyes y reglamentos aplicables.
+Corresponde a la Dirección de Bienestar Social para Adultos Mayores:
+
+I. Coordinar la formulación, ejecución y evaluación de los programas estratégicos de atención a los adultos mayores, así como diseñar mecanismos de vinculación y gestión para su cumplimiento.
+
+II. Proponer y, en su caso, realizar estudios tendientes a elevar la eficiencia, eficacia y coherencia de los programas y acciones de atención a los adultos mayores.
+
+III. Proponer políticas, sistemas y procedimientos de carácter técnico que contribuyan al cumplimiento de los programas y acciones de atención a los adultos mayores.
+
+IV. Promover la implementación de programas de capacitación para el bienestar social de los adultos mayores.
+
+V. Difundir información sobre el mercado laboral disponible para los adultos mayores.
+
+VI. Participar en la difusión de acciones en materia de medicina preventiva para los adultos mayores.
+
+VII. Participar, con las instancias correspondientes, en el diseño, ejecución y evaluación de proyectos de atención a los adultos mayores.
+
+VIII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 16.
 
-La Gaceta Municipal será distribuida en forma impresa y digital principalmente, a través de internet en el portal del H. Ayuntamiento o en el que cree para este efecto.
+Corresponde a la Subdirección Operativa:
+
+I. Promover, en coordinación con los sectores público, social y privado, la incorporación plena y activa de la mujer y de los adultos mayores en los ámbitos económico, social, político y recreativo.
+
+II. Coordinar sus acciones con los gobiernos municipales, en el marco de los convenios que al respecto se celebren, para la instalación de consejos municipales de la mujer y bienestar social.
+
+III. Organizar y operar el Centro de Documentación del Consejo Estatal.
+
+IV. Proponer al Vocal Ejecutivo la celebración de convenios con instituciones públicas, privadas y sociales para el desarrollo de programas de atención a la mujer y al adulto mayor.
+
+V. Gestionar ante organismos públicos y privados el otorgamiento de becas para estimular la formación, superación, capacitación, especialización y profesionalización de la mujer y del adulto mayor.
+
+VI. Realizar el seguimiento de los acuerdos aprobados por el Comité de Planeación para el Desarrollo del Estado de México en los que participe el Consejo Estatal.
+
+VII. Integrar y operar un sistema con información relativa a grupos y organizaciones de apoyo a la mujer y al adulto mayor.
+
+VIII. Impulsar y coordinar las acciones que realicen las delegaciones regionales a su cargo y vigilar su cumplimiento.
+
+IX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 17.
 
-Cuando en la Gaceta Municipal se publique algún reglamento, circular decreto, acuerdo, edicto, resolución o disposiciones administrativas de observancia general que revista singular importancia, deberá remitirse un ejemplar a las bibliotecas del Municipio de Chilpancingo de los Bravo, Guerrero, a la Coordinación General de Fortalecimiento Municipal; a los órganos de auxiliares y al archivo municipal.
+Corresponde a la Subdirección de Asistencia Jurídica y Psicológica:
+
+I. Proponer políticas en materia jurídica, orientadas al cumplimiento del objeto del Consejo Estatal.
+
+II. Intervenir en los asuntos de carácter legal en los que tenga injerencia el Consejo Estatal.
+
+III. Emitir opinión jurídica a los titulares de las unidades administrativas del Consejo Estatal que lo soliciten, respecto a asuntos relacionados con sus funciones.
+
+IV. Formular a nombre del Consejo Estatal las denuncias y querellas que procedan y tramitar la reparación del daño y la restitución en el goce de sus derechos.
+
+V. Promover ante los tribunales federales o del fuero común los asuntos legales del Consejo Estatal, previo acuerdo del Vocal Ejecutivo.
+
+VI. Elaborar proyectos de ordenamientos jurídicos orientados a impulsar el bienestar social de la mujer y de los adultos mayores.
+
+VII. Formular los proyectos de convenios, acuerdos y contratos que pretenda suscribir o celebrar el Vocal Ejecutivo.
+
+VIII. Brindar asesoría jurídica y atención psicológica a la mujer y a los adultos mayores, a fin de impulsar su bienestar social.
+
+IX. Proporcionar orientación, patrocinio jurídico, asistencia y terapia individual o grupal a las mujeres y adultos mayores en situación económica precaria que lo soliciten o canalizarlos a las instancias correspondientes.
+
+X. Participar, en el ámbito de su competencia, en la difusión de los derechos de las mujeres y adultos mayores.
+
+XI. Impartir talleres y cursos para difundir la cultura de equidad de género, así como los programas de bienestar social que lleva a cabo el Consejo Estatal.
+
+XII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 18.
 
-Fe de Erratas es la corrección que demanden el buen uso del lenguaje y la claridad de los textos exclusivamente, realizada en la Gaceta Municipal de las Publicaciones que en la misma se hayan realizado y no podrá modificar, cambiar o variar el sentido o efecto con el que fue aprobada
+Corresponde a la Unidad de Apoyo Administrativo:
+
+I. Programar, administrar y controlar el suministro y aplicación de los recursos humanos, materiales, financieros y técnicos del Consejo Estatal, así como los servicios generales necesarios para el funcionamiento de sus unidades administrativas.
+
+II. Integrar los anteproyectos de presupuesto de ingresos y de egresos del Consejo Estatal y someterlos a la consideración de la Secretaría de Finanzas, así como realizar la calendarización de los recursos del presupuesto autorizado.
+
+III. Cumplir y hacer cumplir las normas y políticas aplicables en materia de administración de recursos humanos, materiales y financieros.
+
+IV. Diseñar y proponer instrumentos técnico administrativos para mejorar la administración de los recursos asignados al Consejo Estatal.
+
+V. Tramitar, operar y controlar el ejercicio del presupuesto de las unidades administrativas del Consejo Estatal y vigilar su aplicación.
+
+VI. Dictaminar la procedencia de traspasos presupuestarios de las partidas autorizadas, con base en las necesidades de operación del Consejo Estatal.
+
+VII. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto del Consejo Estatal e informar al Vocal Ejecutivo sobre el comportamiento del mismo.
+
+VIII. Llevar la contabilidad general del Organismo conforme a las disposiciones aplicables.
+
+IX. Establecer sistemas y procedimientos para la administración, control y desarrollo de personal del Consejo Estatal, así como vigilar su aplicación.
+
+X. Integrar los programas anuales de adquisiciones, arrendamientos, mantenimientos y servicios del Consejo Estatal, en coordinación con las unidades administrativas correspondientes.
+
+XI. Presidir el Comité de Adquisiciones y Servicios del Consejo Estatal e impulsar el cumplimiento de sus funciones, de acuerdo con la normatividad aplicable.
+
+XII. Coordinar y, en su caso, ejecutar los procedimientos para la adquisición de bienes y contratación de servicios que requiera el Consejo Estatal, en términos de las disposiciones legales.
+
+XIII. Suscribir contratos y convenios derivados de los procesos adquisitivos de bienes y contratación de servicios, con base en la normatividad aplicable y vigilar su cumplimiento.
+
+XIV. Realizar el registro de los bienes muebles e inmuebles del Consejo Estatal y promover su mantenimiento y conservación.
+
+XV. Integrar y mantener actualizados, con la participación de las demás unidades administrativas, los manuales administrativos del Consejo Estatal y someterlos a la aprobación de la Secretaría de Finanzas.
+
+XVI. Promover y coordinar las actividades de capacitación y motivación dirigidas a los servidores públicos del Consejo Estatal.
+
+XVII. Promover, coordinar y vigilar la aplicación de las condiciones generales de trabajo del Consejo Estatal.
+
+XVIII. Administrar el almacén del Consejo Estatal y establecer lineamientos y mecanismos para eficientar el control de inventario.
+
+XIX. Proponer y operar sistemas automatizados para el funcionamiento del Consejo Estatal.
+
+XX. Expedir constancias o copia certificada de los documentos que emita en ejercicio de sus atribuciones y funciones.
+
+XXI. Las demás que le confieren otras disposiciones legales y las que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 19.
 
-La Fe de Erratas solo será procedente previo oficio de autorización por parte de la Secretaria o Secretario General del Ayuntamiento, cuando se verifique plenamente la existencia de la discrepancia entre el texto del documento aprobado y la publicación efectuada en la Gaceta Municipal.
+Corresponde a la Contraloría Interna:
+
+I. Vigilar, en el ámbito de su competencia, el cumplimiento de los programas de las unidades administrativas del Consejo Estatal e informar al Vocal Ejecutivo de los resultados obtenidos.
+
+II. Realizar supervisiones, revisiones, auditorias y evaluaciones administrativas, financieras, contables, operacionales, técnicas y jurídicas a las unidades administrativas del Consejo Estatal, tendientes a verificar su desempeño institucional y el cumplimiento de las normas y disposiciones que regulan la prestación del servicio encomendado, así como las relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados al Organismo, y dar seguimiento a la atención de las observaciones derivadas de tales acciones.
+
+III. Participar en los actos de entrega y recepción de las unidades administrativas del Consejo Estatal, verificando su apego a la normatividad en la materia.
+
+IV. Vigilar el adecuado ejercicio del presupuesto autorizado al Consejo Estatal, de acuerdo con el avance programático y las disposiciones de racionalidad, austeridad y disciplina presupuestaria.
+
+V. Vigilar el cumplimiento de las disposiciones que emita la Secretaría de la Contraloría para la ejecución, preparación y entrega de los dictámenes e informes por parte de los despachos de auditoría externa asignados al Consejo Estatal.
+
+VI. Recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos del Consejo Estatal, por probable responsabilidad administrativa.
+
+VII. Iniciar, tramitar y resolver los procedimientos administrativos disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+VIII. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y tramitarlos ante la Secretaría de la Contraloría para su instrucción y resolución.
+
+IX. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Consejo Estatal.
+
+X. Promover la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos adscritos al Consejo Estatal, sujetos a esta obligación.
+
+XI. Proponer al Vocal Ejecutivo la implementación de normas complementarias en materia de control.
+
+XII. Elaborar periódicamente diagnósticos sobre el desempeño del Consejo Estatal e informar lo conducente a la Secretaría de la Contraloría y al Vocal Ejecutivo.
+
+XIII. Difundir entre el personal del Consejo Estatal las disposiciones en materia de control que incidan en el desarrollo de sus labores.
+
+XIV. Promover acciones de control preventivo y de autocontrol tendientes a modernizar la gestión de las unidades administrativas del Consejo Estatal.
+
+XV. Evaluar las acciones de modernización administrativa que realice el Consejo Estatal y, en su caso, proponer mejoras que contribuyan a su cumplimiento.
+
+XVI. Las demás que le confieren otras disposiciones legales y las que le encomiende la Secretaría de la Contraloría.
+
+### CAPÍTULO VI. DE LAS DELEGACIONES REGIONALES
+
+###### Artículo 20.
+
+Para el cumplimiento de sus atribuciones, el Consejo Estatal contará con Delegaciones Regionales que estarán adscritas directamente a la Subdirección Operativa.
+
+###### Artículo 21.
+
+Corresponde a los Delegados Regionales, en su respectivo ámbito territorial:
+
+I. Recibir las demandas, sugerencias y quejas relacionadas con la equidad de género y adultos mayores, así como atenderlas o canalizarlas, en su caso, a las instancias correspondientes.
+
+II. Gestionar los apoyos necesarios para la ejecución de los programas, proyectos y acciones de atención a la mujer y a los adultos mayores.
+
+III. Ejecutar los programas institucionales para atender a las mujeres y a los adultos mayores en situación de vulnerabilidad, en coordinación con las autoridades competentes.
+
+IV. Concertar la ejecución de acciones para crear consejos municipales de la mujer y bienestar social.
+
+V. Identificar la problemática de las mujeres y adultos mayores en los municipios de su región y proponer alternativas para que sean atendidos.
+
+VI. Promover la participación de grupos de mujeres y de adultos mayores voluntarios en la ejecución de los programas a cargo del Consejo Estatal.
+
+VII. Ejecutar, en el ámbito de su competencia, las acciones en materia de educación, desarrollo social y familiar, vivienda, cultura, deporte y derechos humanos que promueva el Consejo Estatal.
+
+VIII. Coordinar la realización de campañas, foros, seminarios, talleres, pláticas y demás eventos orientados a mejorar la condición social de la mujer y de los adultos mayores.
+
+IX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Vocal Ejecutivo y el Subdirector Operativo.
+
+### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
+
+###### Artículo 22.
+
+El Vocal Ejecutivo será suplido en sus ausencias temporales hasta por 15 días, por el Director de Bienestar Social para la Mujer. En las mayores de 15 días, por el servidor público que designe la Junta Directiva.
+
+###### Artículo 23.
+
+Los Directores serán suplidos en sus ausencias temporales, por el servidor público que designe el Vocal Ejecutivo.
+
+###### Artículo 24.
+
+Los Subdirectores, Jefes de Unidad y Delegados Regionales, serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que aquéllos designen. En las mayores de 15 días, por el servidor público de la jerarquía inmediata inferior que designe su superior inmediato.
 
 T R A N S I T O R I O S
 
-Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+PRIMERO.- Publíquese el presente Reglamento Interior en el periódico oficial "Gaceta del Gobierno".
 
-Segundo. Se derogan todas aquellas disposiciones vigentes en el Municipio, relativas al presente Reglamento y Acuerdo de creación de la Gaceta Municipal, que se opongan específicamente a su contenido.
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-Tercero. El H. Ayuntamiento, tomará las medidas conducentes con la finalidad de que la Gaceta Municipal, cuente con los recursos materiales y financieros que sean necesarios para sus actividades.
+TERCERO.- Se abroga el Reglamento Interior del Instituto Mexiquense de la Mujer, publicado en el periódico oficial "Gaceta del Gobierno" el 25 de febrero de 2003.
 
-Cuarto. El Secretario o Secretaria General está facultado para resolver los casos no previstos en el presente Reglamento, tomando en consideración el interés público y la garantía de los gobernados.
+CUARTO.- Los asuntos que se encuentran en trámite en la Dirección de Programación y Vinculación, en las Subdirecciones de Programas Estratégicos y de Vinculación y Gestión y en la Unidad Jurídica del entonces denominado Instituto Mexiquense de la Mujer, en la fecha de entrada en vigor del presente Reglamento, serán atendidos por las unidades administrativas señaladas en este ordenamiento jurídico, de conformidad con las atribuciones que les son encomendadas.
 
-Dado en la Octava Sesión Ordinaria de Cabildo en el Palacio Municipal, sede oficial del H. Ayuntamiento de Chilpancingo de los Bravo, Guerrero, a los días treinta días del mes de mayo del año dos mil veinticinco.
+Aprobado por la Junta Directiva del Consejo Estatal de la Mujer y Bienestar Social, según consta en acta de la Segunda Sesión Extraordinaria, celebrada en la ciudad de Toluca de Lerdo, capital del Estado de México, a los tres días del mes de agosto de dos mil seis.
 
-ATENTAMENTE
+LIC. ERNESTO NÉMER ÁLVAREZ
 
-FIRMA DE EDILES
+SECRETARIO DE DESARROLLO SOCIAL Y PRESIDENTE DE LA JUNTA DIRECTIVA
 
-En seguida el Presidente Municipal Gustavo Alarcón Herrera, dio instrucciones al Secretario General para que procediera con la lectura al punto cuatro del Orden del Día, manifestando el Secretario General Axel Campos Martínez, que el punto número cuatro del orden del día es el relativo a los Asuntos Generales. Seguidamente el C. Presidente Municipal Gustavo Alarcón Herrera, dijo: Ciudadanas y ciudadanos de este Honorable Cabildo ¿Alguien desea hacer uso de la voz en este punto? Al no existir participaciones solicito al secretario pasar al siguiente punto.
+(RUBRICA).
 
-Enseguida el Presidente Municipal Gustavo Alarcón Herrera, dio instrucciones al Secretario General para que procediera con la lectura al punto cinco del Orden del Día, manifestando el Secretario General que el punto número cinco es el relativo a la Clausura de la Sesión. Procediendo el Presidente Municipal Gustavo Alarcón Herrera, a realizarla en los siguientes términos: Siendo las once horas con treinta minutos, del día de hoy diecisiete de junio del año dos mil veinticinco, procedo a dar clausurados los trabajos de la Octava Sesión Ordinaria de Cabildo, siendo válidos los Acuerdos aquí tomados esperando siempre que sean en beneficio del Municipio de Chilpancingo de los Bravo.- Se levanta la presente Acta para debida constancia legal.
+M. EN C. ARLETTE LÓPEZ TRUJILLO
 
-C O N S T E
+VOCAL EJECUTIVA DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL Y SECRETARIA DE LA JUNTA DIRECTIVA
 
-Los Ediles integrantes del Honorable Ayuntamiento del Municipio de Chilpancingo de los Bravo, Guerrero.
+(RUBRICA).
 
-C. Gustavo Alarcón Herrera.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Presidente Municipal.
+G.G. 9 DE ABRIL DE 2015.
 
-Rúbrica.
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
 
-C. Jacaranda Argentina Solís Guerrero.
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-Primera Síndica Procuradora.
+TERCERO.- Se abroga el Reglamento Interior del Consejo Estatal de la Mujer y Bienestar Social, publicado en el Periódico Oficial “Gaceta del Gobierno” el 29 de enero de 2007.
 
-Rúbrica. C.
-
-Jonathan Ibáñez Rivera.
-
-Segundo Síndico Procurador.
-
-Rúbrica.
-
-C. María Adela Herrera de la O.
-
-Regidora de Desarrollo Urbano y Protección al Medio Ambiente y Ecología.
-
-Rúbrica.
-
-C. Víctor Hugo Soto Martínez.
-
-Regidor de Servicios Públicos.
-
-Rúbrica.
-
-C. Miriam Ortega Jiménez.
-
-Regidora de Planeación y Presupuesto.
-
-Rúbrica. C.
-
-Ernesto Franco Pérez.
-
-Regidor de Seguridad Publica y Protección Civil.
-
-Rúbrica.
-
-C. Nahomy Nicole Cambray Valdez.
-
-Regidora de Asistencia y Bienestar Social.
-
-Rúbrica.
-
-C. Diana Natividad Carbajal Sánchez.
-
-Regidora de Gobernación, Comercio y Abasto.
-
-Rúbrica.
-
-C. Blanca Esthela Nava Peralta.
-
-Regidora de Participación Social de la Mujer.
-
-Rúbrica.
-
-C. Beatriz Adriana Millán Morales.
-
-Regidora de Desarrollo Rural.
-
-Rúbrica.
-
-C. Pavel Raymundo Casarrubias Sánchez.
-
-Regidor de Hacienda.
-
-Rúbrica.
-
-C. Lizeth Guadalupe Calvo Soberanis.
-
-Regidora de Educación y Cultura.
-
-Rúbrica.
-
-C. Alejandro Anwar Peralta Cruz.
-
-Regidor de Obras Públicas.
-
-Rúbrica.
-
-C. Suli Yanet Bello Suárez.
-
-Regidora de Salud.
-
-Rúbrica.
-
-C. Axel Campos Martínez.
-
-Secretario General del H. Ayuntamiento.
-
-Rúbrica.
-
-EL SUSCRITO C. AXEL CAMPOS MARTÍNEZ, SECRETARIO GENERAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE CHILPANCINGO DE LOS BRAVO, GUERRERO, PARA EL PERIODO CONSTITUCIONAL 2024-2027, CON FUNDAMENTO EN EL CONTENIDO DE LA FRACCIÓN IX DEL ARTÍCULO 98 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO, HACE CONSTAR Y; ----------------------------------------------------------------------------------
-
-C E R T I F I C A.
-
-QUE LA PRESENTE REPRODUCCIÓN FOTOSTÁTICA COMPUESTA POR TRECE FOJAS ÚTILES POR SU LADO ADVERSO ES COPIA FIEL SACADA DE SU ORIGINAL, QUE OBRA EN EL ARCHIVO DE LA SECRETARÍA GENERAL Y QUE TUVE A LA VISTA PARA REALIZAR LA COMPULSA CORRESPONDIENTE, HACIENDO CONSTAR QUE AMBAS CONCUERDAN EN TODAS Y CADA UNA DE SUS PARTES, LA CUAL EXPIDO POR AUTORIZACIÓN DEL CABILDO EN LA 3ª SESIÓN EXTRAORDINARIA DE FECHA 11 DE OCTUBRE DE 2024, EN LA CIUDAD DE CHILPANCINGO DE LOS BRAVO, GUERRERO, A LOS DIECISIETE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO 2025, PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR. -----------------------------------------------------------------
-
-ATENTAMENTE
-
-EL SECRETARIO GENERAL DEL AYUNTAMIENTO
-
-C. AXEL CAMPOS MARTÍNEZ
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
