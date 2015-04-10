@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2014-04-04"
+last_updated: "2015-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO -- ANTES LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO --
 
-LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -31,7 +31,9 @@ DECRETO NÚMERO 82.
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2015)</small>
+
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
 ## Título Primero. Disposiciones Preliminares
 
@@ -93,7 +95,9 @@ A más tardar el 21 de septiembre se integrará el Comité de Transición de con
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-Artículo 10 bis.- La Diputación Permanente deberá integrar un expediente que entregará a más tardar el 22 de septiembre al Comité de Transición que contendrá, por lo menos:
+###### Artículo 10 Bis.
+
+La Diputación Permanente deberá integrar un expediente que entregará a más tardar el 22 de septiembre al Comité de Transición que contendrá, por lo menos:
 
 I. El Diario de los Debates y las actas levantadas con motivo de las sesiones del Pleno, de la Diputación Permanente y de la Mesa Directiva;
 
@@ -115,7 +119,9 @@ IX. La demás información que se estime procedente.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-Artículo 10 ter.- El Comité de Transición verificará que el expediente contenga la información a que se refiere el artículo anterior y se levantará un acta de entrega-recepción en la que los diputados en funciones, en nombre de la Legislatura saliente, entregarán el expediente respectivo a los diputados electos, quienes lo recibirán en nombre de la Legislatura entrante.
+###### Artículo 10 Ter.
+
+El Comité de Transición verificará que el expediente contenga la información a que se refiere el artículo anterior y se levantará un acta de entrega-recepción en la que los diputados en funciones, en nombre de la Legislatura saliente, entregarán el expediente respectivo a los diputados electos, quienes lo recibirán en nombre de la Legislatura entrante.
 
 ### Capítulo Segundo. De los Actos Preparatorios de la Instalación
 
@@ -135,7 +141,9 @@ III.- Con base en las constancias de mayoría y de validez y de asignación prop
 
 Los diputados electos con motivo de los comicios ordinarios para la renovación del Congreso del Estado que hayan recibido su constancia de mayoría y validez, así como los diputados electos que figuren en la constancia de asignación proporcional expedida a los partidos políticos de conformidad con lo previsto en la Ley de la materia, se reunirán en el Salón de Sesiones del Congreso del Estado el día 24 de septiembre de ese año, a las 23:30 horas, con objeto de celebrar la Junta Preparatoria señalada en la fracción IV del Artículo 65 de la Constitución Política para el Estado.
 
-En los términos de los supuestos previstos por esta Ley para la conformación de los Grupos Parlamentarios, los diputados electos que hayan obtenido su constancia de mayoría y validez o que hubieren recibido constancia de asignación proporcional, comunicarán al Congreso del Estado, por conducto de su Secretario General, hasta antes de la celebración de la Junta Preparatoria, la integración de los Grupos Parlamentarios y en su caso, de las Representaciones Parlamentarias, en los términos previstos por esta Ley.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+En los términos de los supuestos previstos por esta Ley para la conformación de los Grupos Parlamentarios, los diputados electos que hayan obtenido su constancia de mayoría y validez o que hubieren recibido constancia de asignación proporcional, comunicarán al Congreso del Estado, por conducto de la Secretaría General, hasta antes de la celebración de la Junta Preparatoria, la integración de los Grupos Parlamentarios y en su caso, de las Representaciones Parlamentarias, en los términos previstos por esta Ley.
 
 ###### Artículo 13.
 
@@ -211,39 +219,57 @@ Los diputados son responsables por los delitos, faltas u omisiones que cometan d
 
 Los diputados ejercerán las facultades y desempeñarán las funciones que esta Ley les atribuye, debiendo guardar el debido respeto y compostura en el desempeño de las mismas.
 
-Los diputados asistirán con voz y voto a las sesiones del Pleno del Congreso. Los diputados integrantes de la Diputación Permanente asistirán a sus sesiones con voz y voto.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-Se entiende que los diputados que falten a más de tres sesiones consecutivas, sin causa justificada o sin previo aviso a la presidencia, renuncian a concurrir a sesiones hasta el periodo inmediato siguiente, llamándose desde luego a los suplentes. Los diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisión, por causas justificadas en los términos de esta Ley.
+Los diputados asistirán con voz y voto a las sesiones del Pleno del Congreso. Los diputados integrantes de la Diputación Permanente asistirán a las sesiones con voz y voto, quienes no formen parte de la misma sólo podrán participar de las discusiones con voz.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Se entiende que los diputados que falten a más de tres sesiones consecutivas, sin causa justificada o sin previo aviso a la presidencia, renuncian a concurrir a sesiones hasta el periodo inmediato siguiente, llamándose a los suplentes. Los diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisión, por causas justificadas en los términos de esta Ley.
 
 > <small>(DEROGADO TERCER PÁRRAFO [N. DE E. CUARTO PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-Los diputados que no formen parte de la Diputación Permanente podrán asistir a la sesión, así como a las comisiones de las que no sean miembros, con voz pero sin voto.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### Artículo 18 Bis.
 
 Los diputados tendrán la obligación de formar parte, al menos, de una Comisión.
 
+Los diputados podrán asistir a las comisiones de las que no formen parte, con voz pero sin voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 19.
 
-Se justificará la ausencia de un diputado, cuando previamente a la sesión a la que falte, haya dado aviso por escrito por sí o por conducto de otro diputado que exponga el motivo de su inasistencia al Presidente del Congreso y éste último haya calificado de justificada su falta. Si la inasistencia fuere del Presidente, el aviso deberá darlo al Vicepresidente o a la Secretaría, en ausencia de aquél. La falta sin previo aviso, solamente se justificará por caso fortuito o fuerza mayor que haya imposibilitado dar dicho aviso.
+Se justificará la ausencia de un diputado, cuando previamente a la sesión a la que falte, haya dado aviso por escrito por sí o por conducto de otro diputado que exponga el motivo de su inasistencia al Presidente del Congreso, acompañando en su caso, los documentos que lo acrediten y éste último haya calificado de justificada su falta. Si la inasistencia fuere del Presidente, el aviso deberá darlo al Vicepresidente o a la Secretaría, en ausencia de aquél. La falta sin previo aviso, solamente se justificará por caso fortuito o fuerza mayor que haya imposibilitado dar dicho aviso.
 
 Tratándose de las Comisiones, las ausencias de los diputados se justificarán por el Presidente de la Comisión que corresponda, aplicando lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-Para efecto de las sanciones por inasistencia al Pleno, a la Diputación Permanente o a Comisión, el diputado contará con un término de tres días hábiles para justificar su inasistencia, contados a partir de la celebración de la sesión o reunión.
+De no presentarse el justificante, de conformidad con lo dispuesto por el primer párrafo de este artículo, el diputado contará con un término de tres días hábiles para justificar su inasistencia, contados a partir de la celebración de la sesión o reunión.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 El Secretario General informará por escrito al Presidente del Órgano Legislativo de que se trate, previamente al inicio de la sesión o reunión correspondiente, de la imposibilidad de algún diputado para asistir a la misma, siempre que la inasistencia se origine porque el diputado esté desempeñando una función propia de su encargo. El Secretario General remitirá además la documentación relativa a la encomienda que se encuentre desempeñando el diputado. En este supuesto la inasistencia será justificada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 20.
 
-Los diputados en funciones tendrán el derecho a percibir la dieta que se determine en la Ley del Presupuesto General de Egresos del Estado de Guanajuato, misma que establecerá los recursos necesarios para cumplir con sus obligaciones.
+Los diputados en funciones tendrán el derecho a percibir la dieta que se determine en la Ley del Presupuesto General de Egresos del Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-Asimismo, los diputados, conforme a las previsiones que se contengan en la Ley del Presupuesto General de Egresos del Estado de Guanajuato y de acuerdo a las disposiciones que emita la Comisión de Administración, tendrán derecho a que se les sufraguen los gastos médicos por enfermedad de ellos mismos, de su cónyuge, concubina o concubinario y de sus hijos dependientes económicamente.
+Asimismo, los diputados, conforme a la partida presupuestal que se prevea en la Ley del Presupuesto General de Egresos del Estado de Guanajuato y de acuerdo a las disposiciones que emita la Comisión de Administración, tendrán derecho a que se les sufraguen los gastos médicos por enfermedad de ellos mismos, de su cónyuge, concubina o concubinario y de sus hijos menores de edad, o con alguna discapacidad, siempre y cuando no cuenten con algún servicio de seguridad social.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Dicha partida podrá modificarse por determinación expresa del Pleno del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -251,15 +277,19 @@ Asimismo, los diputados, conforme a las previsiones que se contengan en la Ley d
 
 Los diputados deberán permanecer en las sesiones del Congreso, de la Diputación Permanente y en las reuniones de comisiones de que formen parte hasta su conclusión. Se considerará como inasistencia, cuando un diputado abandone definitivamente la sesión o la reunión de la Comisión, sin permiso de la presidencia.
 
-Para los efectos del párrafo anterior, el secretario del órgano legislativo correspondiente levantará la certificación cuando el diputado hubiere abandonado la sesión o la reunión de la Comisión sin contar con el permiso de la presidencia.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Para los efectos del párrafo anterior, el secretario del órgano legislativo correspondiente levantará la certificación del abandono del diputado a la sesión o la reunión de la Comisión sin contar con el permiso de la presidencia, mediante el pase de lista previo al término de la sesión o reunión.
 
 ###### Artículo 22.
 
 Los diputados estarán obligados a efectuar su declaración patrimonial en los términos de la Ley de la materia, ante la Contraloría Interna del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 23.
 
-Los diputados deberán guardar la reserva de todos aquellos asuntos tratados en las sesiones de Pleno y reuniones de Comisión que tengan el carácter de secretas.
+Los diputados deberán guardar la reserva de todos aquellos asuntos tratados en las sesiones de Pleno o Diputación Permanente y reuniones de Comisión, atendiendo a la naturaleza de la información, de sesiones y reuniones que tengan el carácter de secretas.
 
 ###### Artículo 24.
 
@@ -269,11 +299,11 @@ Los diputados deberán abstenerse de invocar o hacer uso de su condición de par
 
 Los diputados deberán observar en todo momento las normas sobre incompatibilidades, establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes que de ellas emanen. El diputado que se encuentre en el supuesto de incompatibilidad tendrá quince días para optar entre la diputación y el cargo incompatible. Si no ejerciera la opción en el plazo señalado, se entenderá que pide licencia por tiempo indefinido a su función legislativa.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 26.
 
-Los diputados deberán abstenerse de desempeñar algún otro empleo, cargo o comisión públicos por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero. En tanto se encuentren desempeñando dicho cargo, empleo o comisión públicos cesarán en su función representativa. La infracción de esta disposición será castigada con la pérdida del carácter de diputado. Se exceptúan los cargos o empleos docentes.
+Los diputados deberán abstenerse de desempeñar algún otro empleo, cargo o comisión públicos por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero. La infracción de esta disposición será castigada con la suspensión de la condición de diputado. Se exceptúan los cargos o empleos docentes. En tanto se encuentren desempeñando otro cargo, empleo o comisión públicos cesarán en su función representativa.
 
 ###### Artículo 27.
 
@@ -289,7 +319,17 @@ I.- Cuando se emita por el Congreso la declaratoria de procedencia de formación
 
 II.- Por sentencia judicial firme que declare el estado de interdicción; y
 
-III.- Cuando se conceda licencia para separarse del cargo, en los términos de la Constitución Política para el Estado de Guanajuato y de esta Ley.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+III.- Por faltar a más de tres sesiones consecutivas, sin causa justificada o sin previo aviso a la presidencia, en los términos referidos en el último párrafo del artículo 18 de esta ley;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+IV.- Por desempeñar algún otro empleo, cargo o comisión públicos por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, en los términos referidos en el artículo 26 de esta ley; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+V.- Cuando se conceda licencia para separarse del cargo, en los términos de la Constitución Política para el Estado de Guanajuato y de esta Ley.
 
 ###### Artículo 29.
 
@@ -409,13 +449,43 @@ Para el procedimiento establecido en este artículo será aplicable de manera su
 
 Para el efecto de las sanciones contempladas en las fracciones I a III del artículo 34 de esta Ley, el derecho de audiencia se sustanciará de plano por la mesa directiva o la presidencia de la comisión, según corresponda, en la misma sesión o reunión en que se solicita la sanción, concediéndose al diputado en contra de quien se solicita, manifieste por sí o a través de otro diputado lo que a su interés convenga.
 
-## Título Cuarto. De la Organización del Congreso del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2015)</small>
 
-### Capítulo Primero. De la Mesa Directiva
+## Título Cuarto. Del Funcionamiento del Congreso
 
-### Capítulo Segundo. De la Diputación Permanente
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ABRIL DE 2015)</small>
 
-### Capítulo Tercero. De la Junta de Gobierno y Coordinación Política
+### Capítulo Primero. De los Órganos del Congreso del Estado
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### Artículo 41 Bis.
+
+Para el conocimiento, análisis, resolución y seguimiento de los asuntos de su competencia, el Congreso del Estado se organiza y funciona de la siguiente manera:
+
+I.- El Pleno del Congreso del Estado;
+
+II.- La Mesa Directiva;
+
+III.- La Diputación Permanente;
+
+IV.- La Junta de Gobierno y Coordinación Política; y
+
+V.- Las comisiones permanentes o especiales.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ABRIL DE 2015)</small>
+
+### Capítulo Segundo. Del Pleno
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### Artículo 41 Ter.
+
+El Pleno es el órgano máximo de decisión del Congreso del Estado y se integra por las diputadas y los diputados electos en la forma y términos que establecen la Constitución Política para el Estado y la ley de la materia.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO PRIMERO], P.O. 10 DE ABRIL DE 2015)
+
+### Capítulo Tercero. De la Mesa Directiva
 
 ###### Artículo 42.
 
@@ -439,7 +509,7 @@ La elección de la Mesa Directiva se hará previamente al inicio de cada periodo
 
 La Mesa Directiva tendrá las siguientes atribuciones:
 
-I.- Establecer el calendario de sesiones;
+I.- (DEROGADA, P.O. 10 DE ABRIL DE 2015);
 
 II.- Asegurar el adecuado desarrollo de las sesiones;
 
@@ -521,6 +591,10 @@ IX.- Firmar, en unión de los secretarios, las leyes y decretos que se manden al
 
 X.- Dar el curso a los negocios y dictar los trámites que deban recaer en los asuntos con que se de cuenta a la Asamblea, así como proponer los acuerdos de trámite que recaigan a las comunicaciones y correspondencia que se dirijan al Congreso;
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+En el caso de las iniciativas que aborden temas referentes a la igualdad de género además de turnarlas a la Comisión correspondiente para su estudio y dictamen, las remitirá para opinión a la Comisión para la Igualdad de Género;
+
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 XI.- Exhortar a los diputados que falten a las sesiones, para que ocurran a las siguientes y notificarles, en su caso, la sanción a que se hayan hecho acreedores;
@@ -569,17 +643,19 @@ XXI.- Designar comisiones de cortesía y de protocolo que resulten pertinentes p
 
 XXII.- Comunicar al Secretario General las instrucciones, observaciones y propuestas que sobre las tareas a su cargo formule la Mesa Directiva;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-XXIII.- Nombrar al término de la sesión de clausura del periodo ordinario de sesiones, dos comisiones para que comuniquen al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia, la clausura del periodo; y
+XXIII. Comunicar al Gobernador del Estado y al Presidente del Supremo Tribunal la apertura y clausura de los periodos ordinarios de sesiones; y
 
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 XXIV.- Las demás que le señale esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 50.
 
-Cuando el Presidente tome la palabra en el ejercicio de sus atribuciones permanecerá sentado, pero si quisiere entrar en la discusión de algún asunto, hará uso de la tribuna como los demás diputados, en el turno que le corresponda. En este caso, se procederá como se tiene previsto en esta Ley.
+Cuando el Presidente tome la palabra en el ejercicio de sus atribuciones permanecerá en su lugar, pero si quisiere entrar en la discusión de algún asunto, hará uso de la tribuna como los demás diputados, en el turno que le corresponda. En este caso, se procederá como se tiene previsto en esta Ley.
 
 ###### Artículo 51.
 
@@ -609,11 +685,13 @@ VII.- Revisar que las actas y minutas de decreto una vez aprobadas, sean elabora
 
 VIII.- Asentar en todos los expedientes los trámites que se les dieren, expresando la fecha de cada uno y cuidando que no se alteren ni enmienden las proposiciones o proyectos de Ley o decreto aprobados, una vez en poder de la secretaría;
 
-IX.- Expedir las certificaciones que disponga el Presidente del Congreso; y
+IX.- (DEROGADA, P.O. 10 DE ABRIL DE 2015); y
 
 X.- Las demás que señale esta Ley.
 
-### Capítulo Cuarto. De la Conferencia Parlamentaria
+(REUBICADO [N. DE E. ANTES CAPÍTULO SEGUNDO], P.O. 10 DE ABRIL DE 2015)
+
+### Capítulo Cuarto. De la Diputación Permanente
 
 ###### Artículo 54.
 
@@ -633,7 +711,19 @@ La Diputación Permanente adoptará sus resoluciones por mayoría de votos de su
 
 La Diputación Permanente sesionará por lo menos dos veces al mes.
 
-### Capítulo Quinto. De las Comisiones
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### Artículo 57 Bis.
+
+Las ausencias de los diputados propietarios de la Diputación Permanente se cubrirán con diputados suplentes de la misma, procurando que estos últimos sean integrantes del mismo Grupo Parlamentario que el propietario.
+
+En todo caso, la lista de asistencia se integrará con el nombre del diputado suplente.
+
+En caso de ausencia de un diputado propietario que no sea cubierta por un diputado suplente, se considerará inasistencia del primero.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO TERCERO], P.O. 10 DE ABRIL DE 2015)
+
+### Capítulo Quinto. De la Junta de Gobierno y Coordinación Política
 
 ###### Artículo 58.
 
@@ -645,7 +735,9 @@ Será Presidente de la Junta, por la duración de la Legislatura, el coordinador
 
 El Vicepresidente de la Junta será el diputado coordinador del Grupo Parlamentario que represente la primera minoría y durará en su encargo el mismo tiempo que el Presidente y, en su caso, suplirá las faltas de éste.
 
-En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo tercero, la responsabilidad de presidir la Junta tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los coordinadores de los grupos, en orden decreciente del número de legisladores que los integren.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo tercero de este artículo, la Presidencia de la Junta será ejercida, en forma alternada y para cada año legislativo, por los coordinadores de los dos Grupos Parlamentarios que cuenten con el mayor número de diputados, comenzando por el Grupo Parlamentario que cuente con el número mayor.
 
 ###### Artículo 59.
 
@@ -663,7 +755,9 @@ IV.- Presentar a la Mesa Directiva y al Pleno, proyectos de puntos de acuerdo, p
 
 V.- Proponer al Pleno la integración de las comisiones permanentes y especiales;
 
-VI.- Proponer al Pleno para su aprobación, los nombramientos del Secretario General, del Contralor Interno, del Coordinador de Comunicación Social, del Titular del Instituto de Investigaciones Legislativas, del Director General de Administración, del Director General de Apoyo Parlamentario y del Titular de la Unidad de Estudios de las Finanzas Públicas, atendiendo a lo dispuesto por esta Ley sobre el servicio civil de carrera;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VI.- Proponer al Pleno para su aprobación, los nombramientos del Secretario General, y del Contralor Interno;
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -671,9 +765,9 @@ VII.- Proponer la terna para la designación del titular del Órgano de Fiscaliz
 
 VIII.- Los relativos a la ratificación de los funcionarios del Órgano de Fiscalización Superior;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-IX.- Proponer la remoción del titular del Órgano de Fiscalización Superior cuando se actualice alguna de las causas previstas en el artículo 62 de la Ley de Fiscalización Superior del Estado;
+IX. Proponer la remoción del Secretario General cuando se actualice alguna de las causas señaladas en esta Ley, así como la del titular del Órgano de Fiscalización Superior, cuando se actualice alguna de las causas previstas en el artículo 62 de la Ley de Fiscalización Superior del Estado;
 
 X.- Ser el conducto para proponer al Pleno la solicitud al Gobernador del Estado, para que comparezcan funcionarios del Poder Ejecutivo para que, informen cuando se discuta o estudie un asunto relativo a las funciones que aquellos ejerzan;
 
@@ -683,7 +777,9 @@ XII.- Proponer al Pleno, los reglamentos, manuales de organización y procedimie
 
 XIII.- Coordinar los trabajos administrativos del Poder Legislativo y evaluar su eficiencia y calidad; pudiendo solicitar a las distintas dependencias del Congreso los informes que estime pertinentes con la periodicidad que requiera;
 
-XIV.- Proponer al Pleno, la designación de los representantes del Congreso ante el Consejo General del Instituto Electoral del Estado, en los términos de la Ley de la materia;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XIV.- Aprobar el nombramiento del Director de Comunicación Social, del titular del Instituto de Investigaciones Legislativas, del Director General de Administración, del Director General de Apoyo Parlamentario y del titular de la Unidad de Estudios de las Finanzas Públicas, a propuesta del Secretario General;
 
 XV.- Autorizar a solicitud de sus integrantes o de las comisiones, la contratación de asesorías externas o de especialistas para el trabajo de las mismas, atendiendo a la naturaleza del asunto de que se trate, a la conveniencia y oportunidad de la asesoría; así como la celebración de reuniones fuera del Recinto Oficial o la celebración de congresos, seminarios, simposiums y eventos similares, atendiendo a la disponibilidad presupuestaria;
 
@@ -709,7 +805,9 @@ Sus decisiones se tomarán por mayoría absoluta mediante el sistema de voto pon
 
 El Secretario General del Congreso fungirá como Secretario Técnico de la Junta de Gobierno y Coordinación Política.
 
-### Capítulo Sexto. De la Junta de Enlace en Materia Financiera
+(REUBICADO [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 10 DE ABRIL DE 2015)
+
+### Capítulo Sexto. De la Conferencia Parlamentaria
 
 ###### Artículo 62.
 
@@ -719,23 +817,37 @@ El Secretario General del Congreso fungirá como Secretario Técnico de la Junta
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2009)
 
-### Capítulo Único. De los Grupos Parlamentarios y Representaciones Parlamentarias
+(REUBICADO [N. DE E. ANTES CAPÍTULO QUINTO], P.O. 10 DE ABRIL DE 2015)
+
+### Capítulo Séptimo. De las Comisiones
 
 #### Sección Primera. De la Elección de las Comisiones
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 64.
 
-El Pleno elegirá a los integrantes de las comisiones permanentes, a propuesta de la Junta de Gobierno y Coordinación Política, en votación por cédula, a más tardar en la segunda sesión ordinaria del Primer Periodo Ordinario del Primer año de ejercicio de la Legislatura.
+El Pleno elegirá a los integrantes de las comisiones permanentes, a propuesta de la Junta de Gobierno y Coordinación Política, en votación por cédula, a más tardar en la segunda sesión ordinaria del Primer Periodo Ordinario del Primer año de ejercicio de la Legislatura y deberán instalarse dentro de los quince días siguientes.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 La integración de las comisiones podrá modificarse en cualquier tiempo.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 Para la integración de las comisiones, la Junta de Gobierno y Coordinación Política tomará en cuenta la pluralidad representada en el Congreso y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 Al proponer la integración de las comisiones, la Junta postulará también a los diputados que deban presidirlas y fungir como secretarios. Al hacerlo, cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos Grupos Parlamentarios y Representaciones Parlamentarias, de tal suerte que se refleje la proporción que representen en el Pleno, y tome en cuenta los antecedentes y la experiencia legislativa de los diputados.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 Si un diputado se separa del Grupo Parlamentario al que pertenecía en el momento de conformarse las comisiones, el Coordinador del propio grupo podrá solicitar su sustitución.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Las comisiones clausurarán sus trabajos durante la primera quincena del mes de septiembre del último año de ejercicio constitucional, salvo que por acuerdo de la Junta de Gobierno y Coordinación Política tengan que atender un asunto de carácter extraordinario o urgente.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -767,7 +879,9 @@ Los diputados que constituyan la mayoría de la Comisión podrán solicitar por 
 
 Para que las comisiones se reúnan válidamente se requiere de la presencia de la mayoría de sus integrantes.
 
-Las comisiones tomarán sus decisiones por mayoría de votos de sus miembros. En caso de empate en la votación de un proyecto de dictamen o resolución deberá repetirse la votación en la misma reunión, y si resultase empate por segunda vez, se discutirá y votará de nuevo el asunto en la reunión inmediata.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Las comisiones tomarán sus decisiones por mayoría de votos de sus integrantes presentes. En caso de empate en la votación de un proyecto de dictamen o resolución deberá repetirse la votación en la misma reunión, y si resultase empate por segunda vez, se discutirá y votará de nuevo el asunto en la reunión inmediata.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -803,21 +917,43 @@ Los titulares de las entidades señaladas en el artículo anterior están obliga
 
 #### Sección Tercera. De las Discusiones y Votaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 74.
 
-El análisis del asunto, proposición o iniciativa comenzará sometiéndose a la consideración de los diputados integrantes de las comisiones, discutiéndose primeramente en lo general, y después en lo particular.
+El análisis del asunto, iniciativa, proposición o dictamen comenzará sometiéndose a la consideración de los diputados integrantes de las comisiones, discutiéndose primeramente en lo general, y después en lo particular.
 
-Para tal efecto, el Secretario dará lectura a los documentos conducentes, a menos que hayan sido entregadas copias de éstos a cada uno de los integrantes de la Comisión con veinticuatro horas de anticipación y la lectura sea dispensada.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Para tal efecto, el Secretario dará lectura a los documentos conducentes, a menos que hayan sido distribuidos o puestos a disposición de cada uno de los integrantes de la Comisión con veinticuatro horas de anticipación y la lectura sea dispensada.
 
 En las reuniones de trabajo de las comisiones no habrá límite en las participaciones, ni en el tiempo de las mismas, sin embargo, en cualquier momento el presidente podrá preguntar a los integrantes de la Comisión si el asunto de que se trate se considera suficientemente discutido y en caso afirmativo se concluirá la discusión.
 
-Cuando se discuta un dictamen y se expresen votos particulares, se deberán formular de manera independiente al dictamen y lo comunicarán al Presidente de la Comisión, para el trámite parlamentario que señala esta Ley.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-El voto particular deberá contener las consideraciones del diputado para formular una propuesta distinta a la contenida en el dictamen. Los diputados podrán solicitar que en el dictamen se exprese el sentido de su voto y, en su caso, las razones del mismo.
+Terminada la discusión se recabará votación y en su caso se expresarán los votos particulares si los hubiera.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Los diputados podrán solicitar que en el dictamen se exprese el sentido de su voto y, en su caso, las razones del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ABRIL DE 2015)</small>
+
+Para que haya dictamen de Comisión, deberá éste presentarse firmado por la mayoría de los diputados que la componen. Si alguno o algunos de ellos disintieren del parecer de dicha mayoría, firmarán el dictamen haciendo constar su voto en contra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ABRIL DE 2015)</small>
+
+Aprobado un dictamen, se pondrá a disposición de la Mesa Directiva, para su inclusión en el orden del día de la sesión que determine ésta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 75.
 
-Para que haya dictamen de Comisión, deberá éste presentarse firmado por la mayoría de los diputados que la componen. Si alguno o algunos de ellos disintieren del parecer de dicha mayoría, firmarán el dictamen haciendo constar su voto en contra.
+Cuando se discuta un dictamen y se expresen votos particulares, se deberán formular de manera independiente al dictamen y lo comunicarán al Presidente de la Comisión, para el trámite parlamentario que señala esta ley.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+El voto particular deberá contener las consideraciones del diputado para formular una propuesta distinta a la contenida en el dictamen.
 
 El voto particular podrá ser presentado por uno o más integrantes de la Comisión correspondiente, deberá contar con las características de un dictamen y se desahogará de acuerdo a lo que se establece en el Capítulo Tercero del Titulo Séptimo de esta Ley, relativo a las discusiones, y deberá contener:
 
@@ -831,7 +967,7 @@ El voto particular se turnará al Presidente de la Mesa Directiva para el trámi
 
 Ningún diputado podrá abstenerse de votar, salvo que tenga interés personal en el asunto o fije su posición política.
 
-Aprobado un dictamen, se pondrá a disposición de la Mesa Directiva, para su inclusión en el orden del día de la sesión que determine ésta.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
 #### Sección Cuarta. De la Directiva de las Comisiones
 
@@ -857,7 +993,9 @@ VII.- Establecer la vinculación con los Poderes de la Federación, dependencias
 
 VIII.- Solicitar a la Junta de Gobierno y Coordinación Política, la contratación de asesorías externas; y
 
-IX.- Acordar actividades de difusión, consulta e información sobre las acciones que realizan o sobre los ordenamientos jurídicos que haya aprobado el Congreso del Estado.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+IX.- Acordar actividades de consulta e información sobre las actividades que realizan.
 
 ###### Artículo 77.
 
@@ -869,7 +1007,9 @@ La falta del Presidente será suplida por el Secretario. En este caso la Comisi�
 
 Cuando el Presidente del Congreso turne un asunto a Comisiones Unidas, fungirá como Presidente quien lo sea de la primer Comisión nombrada en el turno correspondiente y será Secretario el Presidente de la segunda.
 
-Las Comisiones Unidas se reunirán para tratar los asuntos que les hayan sido turnados por el Presidente del Congreso.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Las Comisiones Unidas se reunirán para tratar los asuntos que les hayan sido turnados por el Presidente del Congreso. Las Comisiones Unidas deberán clausurarse de conformidad a lo dispuesto por el artículo 64 de esta ley.
 
 ###### Artículo 79.
 
@@ -941,7 +1081,7 @@ La Legislatura deberá designar por lo menos, las siguientes comisiones con car�
 
 I. Administración;
 
-II. Aguas;
+II.- (DEROGADA, P.O. 10 DE ABRIL DE 2015);
 
 III. Asuntos Electorales;
 
@@ -995,9 +1135,7 @@ XV. Medio Ambiente;
 
 XVI. Para la Igualdad de Género;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
-
-XVII. Participación Ciudadana y Gestión Social;
+XVII. DEROGADA, P.O. 10 DE ABRIL DE 2015;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
@@ -1031,7 +1169,9 @@ Corresponde a la Comisión de Administración, el conocimiento de los asuntos si
 
 I.- La administración de los recursos presupuestales del Congreso, con la facultad de ordenar el pago inmediato de los gastos, de conformidad con el presupuesto de egresos aprobado;
 
-II.- Presentar al Pleno del Congreso en la última sesión de cada mes, para efectos de su aprobación, los conceptos generales de los estados financieros referidos del mes anterior.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
+II.- Presentar al Pleno del Congreso en la última sesión de cada mes, para efectos de su aprobación, los informes de los conceptos generales de los estados financieros de los recursos presupuestales referidos del mes anterior. Los informes correspondientes a los meses comprendidos en los periodos de receso se presentarán para su aprobación en la segunda sesión del periodo ordinario de sesiones siguiente.
 
 El Pleno del Congreso podrá solicitar información adicional sobre la rendición de cuentas y la Comisión deberá dar respuesta en la misma o en la siguiente sesión respectiva;
 
@@ -1043,33 +1183,23 @@ V.- Aprobar previa consulta con la Junta de Gobierno y Coordinación Política, 
 
 VI.- Formar inventario de los muebles y enseres del Congreso y sus dependencias, así como vigilar que los responsables directos cuiden de la conservación de los mismos;
 
-VII.- Aplicar el presupuesto aprobado de conformidad con los programas y montos establecidos;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-VIII.- Informar al pleno, en la segunda sesión del periodo ordinario de sesiones siguiente, sobre la administración de los recursos presupuestales del Congreso, durante el periodo de receso;
+VII.- Verificar la aplicación del presupuesto aprobado, de conformidad con los programas y montos establecidos;
+
+VIII.- (DEROGADA, P.O. 10 DE ABRIL DE 2015);
 
 IX.- Proponer a la Junta de Gobierno y Coordinación Política, las bases para el otorgamiento de incentivos;
 
 X.- Dictaminar las propuestas de reformas al Estatuto del Servicio Civil de Carrera y vigilar su aplicación;
 
-XI.- Informar al Pleno de los movimientos de personal; y
+XI.- (DEROGADA, P.O. 10 DE ABRIL DE 2015); y
 
 XII.- Otros análogos que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 ###### Artículo 86.
 
-Corresponde a la Comisión de Aguas, el conocimiento y dictamen de los asuntos siguientes:
-
-I.- Los relativos a la legislación en materia de agua, de competencia estatal;
-
-II.- Atender los asuntos relacionados con el suministro de agua para consumo humano y para uso agropecuario;
-
-III.- Participar en el ámbito de su competencia con el Ejecutivo del Estado y los Ayuntamientos, en los programas de aprovechamiento y uso racional del agua;
-
-IV.- Participar en la atención de las demandas ciudadanas relacionadas con el agua;
-
-V.- Los que se refieran al saneamiento de ríos, arroyos y presas; y
-
-VI.- Otros análogos que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+(DEROGADO, P.O. 10 DE ABRIL DE 2015)
 
 ###### Artículo 87.
 
@@ -1079,7 +1209,7 @@ I.- La declaratoria de Gobernador electo a que se refiere la fracción IX del Ar
 
 II.- Los relativos a la legislación electoral;
 
-III.- Conocer y dictaminar las propuestas de consejeros ciudadanos para la integración del Consejo General del Instituto Electoral del Estado de Guanajuato; y
+III.- (DEROGADA, P.O. 10 DE ABRIL DE 2015); y
 
 IV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
@@ -1101,7 +1231,9 @@ VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de 
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-Artículo 88 bis.- Corresponde a la Comisión de Atención al Migrante, el conocimiento y dictamen de los asuntos siguientes:
+###### Artículo 88 Bis.
+
+Corresponde a la Comisión de Atención al Migrante, el conocimiento y dictamen de los asuntos siguientes:
 
 I.- Los relacionados con los planes, programas, estrategias y políticas para atender las causas que generan la migración en el Estado;
 
@@ -1183,7 +1315,17 @@ I.- Los relacionados con la legislación en materia de desarrollo urbano, obra p
 
 II.- Los relacionados con las acciones del Gobierno del Estado y los Ayuntamientos en materia de asentamientos humanos, desarrollo urbano, obra pública, servicios e infraestructura básica, vivienda y fraccionamientos; y
 
-III.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+III.- Los relativos a la legislación en materia de agua, de jurisdicción estatal;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+IV.- Participar en la gestión, conservación, preservación y atención de los asuntos en materia de agua y saneamiento; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+V.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 ###### Artículo 92.
 
@@ -1261,7 +1403,13 @@ XIV.- Los que atañen a la Ley de Ingresos del Estado y a las leyes de ingresos 
 
 XV.- Los referentes a la aprobación del Presupuesto General de Egresos del Estado; y
 
-XVI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XVI.- Los referentes a los nombramientos y renuncias de los consejeros del Instituto de Acceso a la Información Pública; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XVII.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1311,9 +1459,13 @@ XII.- Los relativos a la aprobación de los montos máximos y límites para la c
 
 XIII.- Los relativos a los informes de resultados que emita el Órgano de Fiscalización Superior; y
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-XIV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+XIV. Los relativos a los proyectos de prestación de servicios que deben ser aprobados por el Congreso del Estado, conforme a la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1337,9 +1489,7 @@ IV.- Los referentes a las designaciones y a las reelecciones de Magistrados del 
 
 V.- Los referentes a las designaciones y ratificaciones de Magistrados del Tribunal de lo Contencioso Administrativo;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
-
-VI.- Los referentes a las designaciones y ratificaciones de Magistrados del Tribunal Electoral del Estado de Guanajuato;
+VI.- (DEROGADA, P.O. 10 DE ABRIL DE 2015);
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1377,7 +1527,7 @@ II.- Los relacionados con la legislación en materia forestal, de vida silvestre
 
 III.- La protección y preservación de las áreas naturales protegidas;
 
-IV.- Los que se refieran al tratamiento de aguas residuales de plantas industriales;
+IV.- (DEROGADA, P.O. 10 DE ABRIL DE 2015);
 
 V.- Los relativos a la contaminación del ambiente por cualquier causa; y
 
@@ -1385,7 +1535,9 @@ VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de 
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-Artículo 99 bis.- Corresponde a la Comisión para la Igualdad de Género, el conocimiento y dictamen de los siguientes asuntos:
+###### Artículo 99 Bis.
+
+Corresponde a la Comisión para la Igualdad de Género, el conocimiento y dictamen de los siguientes asuntos:
 
 I.- Los que se refieran a las iniciativas de ley, reformas y adiciones relacionadas con la igualdad de género;
 
@@ -1395,23 +1547,15 @@ III.- Los que se relacionen con la discriminación o maltrato por razones de sex
 
 IV.- Proponer que las autoridades competentes lleven a cabo acciones impulsando una cultura de igualdad de género;
 
-V.- Emitir opinión, en el proceso de dictaminación de las otras comisiones cuando el asunto o iniciativa en análisis tenga relación con la igualdad de género. Dicha opinión no será vinculante; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+V.- Emitir opinión, en el proceso de dictaminación de las otras comisiones cuando el asunto o iniciativa en análisis tenga relación con la igualdad de género, previo turno de la presidencia del Congreso. Dicha opinión no será vinculante; y
 
 VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 ###### Artículo 100.
 
-Corresponde a la Comisión de Participación Ciudadana y Gestión Social, la atención de los asuntos siguientes:
-
-I.- Los relacionados con la participación ciudadana;
-
-II.- Promover la corresponsabilidad entre el gobierno municipal y la sociedad civil, en el logro de los objetivos municipales;
-
-III.- La atención a las peticiones de los particulares, que se formulen por escrito de manera pacífica y respetuosa;
-
-IV.- Canalizar a las autoridades competentes las demandas y peticiones de los ciudadanos y darles seguimiento; y
-
-V.- Otros análogos, que a juicio del del (sic) Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+(DEROGADO, P.O. 10 DE ABRIL DE 2015)
 
 ###### Artículo 101.
 
@@ -1453,7 +1597,9 @@ IV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de 
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-Artículo 103 bis.- Corresponde a la Comisión de Turismo, conocer y dictaminar los asuntos siguientes:
+###### Artículo 103 Bis.
+
+Corresponde a la Comisión de Turismo, conocer y dictaminar los asuntos siguientes:
 
 I.- Los relativos a la legislación en materia de turismo, de competencia estatal;
 
@@ -1463,9 +1609,9 @@ III.- Los relativos a las acciones de los gobiernos estatal y municipales, así 
 
 IV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
-### Capítulo Primero. De la Apertura y Clausura de los Periodos de Sesiones
+(REUBICADO [N. DE E. ANTES CAPÍTULO SEXTO], P.O. 10 DE ABRIL DE 2015)
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+### Capítulo Octavo. De la Junta de Enlace en Materia Financiera
 
 ###### Artículo 104.
 
@@ -1495,7 +1641,7 @@ La junta será convocada y coordinada por el Presidente de la Comisión de Hacie
 
 ## Título Quinto
 
-### Capítulo Segundo. De las Sesiones
+### Capítulo Único. De los Grupos Parlamentarios y Representaciones Parlamentarias
 
 ###### Artículo 107.
 
@@ -1553,15 +1699,19 @@ La aplicación de las cantidades a que se hace referencia en este Artículo, deb
 
 ## Título Sexto. De la Práctica Parlamentaria
 
-### Capítulo Tercero. Del Ceremonial
+### Capítulo Primero. De la Apertura y Clausura de los Periodos de Sesiones
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 116.
 
 El Congreso del Estado sesionará en los periodos ordinarios que señale la Constitución.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 117.
 
-Antes de cada periodo ordinario de sesiones, el Presidente del Congreso citará a los diputados para la Junta Preparatoria, que tendrá verificativo a las diez horas del día de la apertura de sesiones, para constatar la presencia de la mayoría de los diputados, elegir la Mesa Directiva que fungirá durante el periodo y para nombrar dos comisiones de protocolo para comunicar la apertura del periodo al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia.
+Antes de cada periodo ordinario de sesiones, el Presidente del Congreso citará a los diputados para la Junta Preparatoria, que tendrá verificativo a las diez horas del día de la apertura de sesiones, para constatar la presencia de la mayoría de los diputados y elegir la Mesa Directiva que fungirá durante el periodo.
 
 ###### Artículo 118.
 
@@ -1577,7 +1727,7 @@ El presidente hará la declaratoria sobre el periodo ordinario o extraordinario 
 
 La apertura y clausura de los periodos ordinarios y extraordinarios de sesiones, se comunicarán al Gobernador del Estado, al Presidente del Supremo Tribunal de Justicia, a la Cámara de Diputados del Congreso de la Unión, al Senado de la República, al Presidente de la República, al Presidente de la Suprema Corte de Justicia de la Nación, a los órganos legislativos de los Estados y del Distrito Federal, y a los Ayuntamientos del Estado.
 
-### Capítulo Cuarto. Del Orden del Público en las Sesiones
+### Capítulo Segundo. De las Sesiones
 
 ###### Artículo 120.
 
@@ -1693,19 +1843,29 @@ En los casos en que se solicite la comparecencia ante el Congreso de los servido
 
 Los servidores públicos que comparezcan ante el Congreso para los efectos del Artículo anterior, sólo podrán dar información en relación a los asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 132.
 
-Lo acontecido en las sesiones a las que se refiere este Capítulo, será consignado en un medio de difusión oficial denominado Diario de los Debates, en el que se publicará la fecha y lugar donde se verifiquen, el sumario, nombre de quien presida, copia fiel del acta de sesión anterior, la trascripción de la versión magnetofónica de las discusiones en el orden que se desarrollen e inserción de todos los asuntos con que se de cuenta.
+Lo acontecido en las sesiones a las que se refiere este Capítulo, será consignado en un medio de difusión oficial denominado Diario de los Debates, en el que se publicará la fecha y lugar donde se verifiquen, el sumario, nombre de quien presida, copia fiel del acta de sesión anterior, la trascripción de la versión en audio y video de las discusiones en el orden que se desarrollen e inserción de todos los asuntos con que se de cuenta.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+No se publicarán las discusiones y documentos relacionados con las sesiones secretas, lo anterior sin perjuicio de lo dispuesto en el artículo 17, relacionado con la fracción XV del artículo 16 de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
-No se publicarán las discusiones y documentos relacionados con las sesiones secretas, lo anterior sin perjuicio de lo dispuesto en el artículo 16 en relación con la fracción XIV del artículo 15 de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-### Capítulo Primero. De las Iniciativas
+###### Artículo 132 Bis.
+
+Los asuntos generales que se presenten en sesión no podrán exceder de diez minutos; en caso de contener alguna propuesta de acuerdo o iniciativa, éstas no serán sometidas a discusión ni votación o turnadas a Comisión, en todo caso se enlistarán en el orden del día de la siguiente sesión.
+
+Durante las intervenciones en el punto de los asuntos generales, sólo se podrá solicitar el uso de la voz para responder alusiones personales o rectificar hechos hasta por cinco minutos.
+
+### Capítulo Tercero. Del Ceremonial
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 133.
 
-Los integrantes de la Mesa Directiva se ubicarán bajo el dosel del salón de sesiones en el recinto oficial.
+Los integrantes de la Mesa Directiva se ubicarán al frente de la zona designada para los legisladores en el salón de sesiones del recinto oficial.
 
 ###### Artículo 134.
 
@@ -1735,9 +1895,11 @@ El informe del estado que guarda la administración pública estatal que envíe 
 
 Cuando se trate de la protesta constitucional que deberá rendir algún diputado o funcionario de los que deban hacerlo ante el Congreso, el Presidente de la Mesa Directiva designará una Comisión que lo introduzca al recinto y lo acompañe posteriormente a su lugar o fuera del recinto, según el caso.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 139.
 
-Tratándose de las sesiones solemnes, los integrantes de la Mesa Directiva, excepto el Presidente, deberán dejar vacantes los lugares que les corresponden, y ocuparán los que al efecto se les habiliten bajo el dosel, para cumplir con sus funciones.
+Tratándose de las sesiones solemnes, los integrantes de la Mesa Directiva, excepto el Presidente, deberán dejar vacantes los lugares que les corresponden, y ocuparán los que al efecto se les habiliten en el espacio asignado a la mesa directiva.
 
 ###### Artículo 140.
 
@@ -1749,7 +1911,7 @@ Cuando se otorgue por el Presidente del Congreso, el uso de la palabra a quien n
 
 Siempre se destinará un lugar especial en el recinto a los Magistrados del Supremo Tribunal de Justicia, a los titulares de los Organismos Autónomos, a los titulares de la Administración Pública Centralizada del Ejecutivo Estatal, a los Presidentes Municipales de la Entidad y a los miembros de los cuerpos diplomático y consular.
 
-### Capítulo Segundo. De los Dictámenes
+### Capítulo Cuarto. Del Orden del Público en las Sesiones
 
 ###### Artículo 142.
 
@@ -1769,7 +1931,7 @@ Si las disposiciones ordenadas por el Presidente no bastaran para contener el de
 
 ## Título Séptimo. Del Proceso Legislativo
 
-### Capítulo Tercero. De las Discusiones
+### Capítulo Primero. De las Iniciativas
 
 ###### Artículo 146.
 
@@ -1795,7 +1957,17 @@ Las iniciativas de Ley o decreto se presentarán por escrito debiendo contener u
 
 Aquellas iniciativas que no fueren dictaminadas durante el ejercicio legal de la Legislatura en la que se presentaron y en la subsecuente, serán objeto de archivo definitivo.
 
-### Capítulo Cuarto. De las Votaciones
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### Artículo 148 Bis.
+
+Presentada una iniciativa en la Secretaría General, el autor tendrá la facultad de retirarla, hasta antes de que se enliste en el orden del día de la sesión correspondiente.
+
+A fin de retirar una iniciativa se requiere que el iniciante lo solicite por escrito al Secretario General.
+
+En caso de que la iniciativa se hubiera suscrito por dos o más iniciantes, se requiere que la solicitud para retirarla, sea formulada por la totalidad de éstos.
+
+### Capítulo Segundo. De los Dictámenes
 
 ###### Artículo 149.
 
@@ -1827,7 +1999,7 @@ La dispensa de lecturas, sólo procederá por acuerdo de las dos terceras partes
 
 Los dictámenes formulados y suscritos por diputados integrantes de alguna Comisión de una Legislatura anterior, que no hayan sido presentados al Pleno del Congreso, serán objeto de estudio por la Comisión respectiva de la Legislatura que corresponda, la que podrá ratificarlos o dejarlos sin efecto, procediendo a la formulación de un nuevo dictamen.
 
-### Capítulo Quinto. De las Resoluciones
+### Capítulo Tercero. De las Discusiones
 
 ###### Artículo 155.
 
@@ -1853,19 +2025,29 @@ En caso de que se presenten votos particulares, se someterá a discusión en pri
 
 III.- Si sólo hubiere inscripción en pro, la presidencia otorgará el uso de la palabra en el orden que se hubiere solicitado;
 
-IV.- Si hubiere inscripción en contra y en pro, se abrirá el registro, pudiéndose inscribir hasta tres diputados en contra y tres diputados en pro. Hablarán los diputados a quienes se les concederá alternativamente el uso de la palabra, comenzando por los que impugnan el dictamen. Podrá hablar hasta tres veces cada diputado, no excediendo su disertación de treinta minutos la primera y de diez minutos las subsecuentes. Después de que hayan hablado los diputados inscritos, o a menos que algunos renuncien al uso de la palabra, se preguntará si el asunto esta suficientemente discutido;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-V.- Cuando la importancia del asunto lo requiera y lo conceda la Asamblea por mayoría de votos, podrán hablar los diputados en los turnos que les corresponde, por todo el tiempo que resulte necesario;
+IV.- Si hubiere inscripción en contra y en pro, se abrirá el registro, pudiéndose inscribir hasta tres diputados en contra y tres diputados en pro. Hablarán los diputados a quienes se les concederá alternativamente el uso de la palabra, comenzando por los que impugnan el dictamen, no excediendo su disertación de diez minutos;
 
-VI.- Una vez que hayan hablado los oradores inscritos o antes, si alguno de ellos, renuncia al uso de la palabra, el Presidente preguntará si el asunto esta suficientemente discutido y, si se resuelve afirmativamente por mayoría, se procederá a votarlo. En caso contrario se reanudará la discusión, pudiendo hablar nuevamente un diputado en contra y otro en pro, hasta por diez minutos;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+V.- Cuando la importancia del asunto lo requiera y lo conceda la Asamblea por mayoría de votos o por acuerdo de la Junta de Gobierno y Coordinación Política, podrán hablar los diputados en los turnos que les corresponde, por todo el tiempo que resulte necesario o incrementar el número de oradores;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VI.- Una vez que hayan hablado los oradores inscritos o antes, si alguno de ellos, renuncia al uso de la palabra, el Presidente podrá preguntar si el asunto está suficientemente discutido y, si se resuelve afirmativamente por mayoría, se procederá a votarlo. En caso contrario se reanudará la discusión, pudiendo hablar nuevamente un diputado en contra y otro en pro, hasta por diez minutos;
 
 VII.- Siempre que algún diputado de los que hayan pedido la palabra en pro o en contra de un dictamen, no se encuentre presente en el salón cuando le corresponda su turno, lo hará después del último que la hubiere pedido;
 
 VIII.- El autor o autores del dictamen, proposición o iniciativa, podrán hablar hasta por diez minutos para fundamentar el dictamen;
 
-IX.- Los miembros de la Asamblea, aún cuando no estén inscritos en la lista de oradores, podrán pedir la palabra para rectificar hechos o responder alusiones personales relacionadas y pertenecientes al debate al concluir el orador. Al solicitar la palabra se deberán precisar los hechos o alusiones invocadas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
-Estas intervenciones se verificarán después de concluido el turno de oradores previamente inscritos. El orador iniciará su exposición precisando el hecho a rectificar o la alusión a contestar, sin que se pueda hacer uso de la palabra por más de cinco minutos.
+IX.- Los miembros de la Asamblea, aun cuando no estén inscritos en la lista de oradores, podrán pedir la palabra para responder alusiones personales o rectificar hechos relacionados y pertenecientes al debate al concluir el orador, hasta por cinco minutos. Al solicitar la palabra se deberán precisar las alusiones o hechos invocados.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Se otorgará el uso de la palabra en primer término para responder alusiones personales y posteriormente para rectificación de hechos.
 
 Cuando el orador se aparte del tema para el cual solicitó la palabra, ya sea rectificación de hechos o respuesta a alusiones personales, o se exceda del tiempo establecido, será llamado al orden por el Presidente y si al segundo llamado no rectifica su actitud le será retirado el uso de la palabra;
 
@@ -1883,7 +2065,9 @@ d) Cuando el orador se aparte del asunto o discusión;
 
 XII.- Ninguna discusión se podrá suspender, sino por las siguientes causas:
 
-a) Por el acto de levantar la sesión a la hora señalada;
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+a) Por la falta de quorum de sus integrantes;
 
 b) Por grave desorden provocado por el público asistente a la sesión;
 
@@ -1911,9 +2095,15 @@ Los proyectos de Ley o decreto que consten de más de cien artículos y estén d
 
 El Pleno puede acordar a solicitud de algún diputado, que los artículos de un proyecto, decreto o proposición que contengan varios párrafos, fracciones, apartados o incisos, sean discutidos o votados aisladamente en cada una de esas fracciones.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 161.
 
-En caso de que no sea aprobado en lo general un dictamen, se preguntará en votación económica si se devuelve a la Comisión respectiva. Si la votación fuere afirmativa, volverá a la Comisión para que lo reforme, más si fuere negativa, se tendrá por desechado el dictamen.
+En caso de que no sea aprobado en lo general un dictamen, se preguntará en votación económica si se devuelve a la Comisión respectiva. Si la votación fuere afirmativa, volverá a la Comisión para que lo reforme, más si fuere negativa, se tendrá por desechado el dictamen, ordenando su archivo definitivo.
+
+Lo previsto en el párrafo anterior no aplicará a los dictámenes derivados de informes de resultados correspondientes a procesos de fiscalización a cargo del Órgano de Fiscalización Superior del Congreso del Estado.
+
+Tratándose de dictámenes en los que se proponga la devolución de informes de resultados al Órgano de Fiscalización Superior se observará lo dispuesto en la Ley de Fiscalización Superior del Estado de Guanajuato.
 
 ###### Artículo 162.
 
@@ -1947,15 +2137,19 @@ La reserva en lo particular deberá acompañarse siempre de una propuesta, misma
 
 Votado un proyecto de ley, decreto o acuerdo, si así lo acuerda la Asamblea o el Presidente, podrá ser enviado a los secretarios de la Mesa Directiva para que en unión con el Presidente de la Comisión Dictaminadora, elaboren la minuta en los términos que deba publicarse y, aprobada ésta, se remitirá al Gobernador del Estado, para los efectos constitucionales correspondientes o a las autoridades que se señalen en el acuerdo respectivo, según corresponda.
 
-### Capítulo Sexto. De la Expedición de Leyes
+### Capítulo Cuarto. De las Votaciones
 
 ###### Artículo 169.
 
 Hay tres clases de votaciones: nominales, económicas y por cédula.
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-La votación podrá recogerse, previo acuerdo y conforme al sistema electrónico que el Congreso autorice.
+Una vez iniciada la votación no podrá suspenderse.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Las clases de votaciones previstas en este artículo podrán realizarse a través del sistema electrónico que el Congreso autorice, atendiendo a la modalidad que determine la presidencia.
 
 ###### Artículo 170.
 
@@ -1991,7 +2185,9 @@ IV.- Las que tengan por objeto la resolución de los dictámenes producidos dura
 
 Las votaciones por cédula, se harán dando a cada diputado una cédula, y después de que plasme el sentido de su voto, dirá su nombre en voz alta y la depositará, sin leerla, en un ánfora.
 
-Concluida la votación, uno de los secretarios contará las cédulas para ver si su número es igual al de los votantes. Después las leerá en voz alta, de una en una, a fin de que el otro secretario anote el nombre de las personas que en ellas aparecieron y el número de votos que cada uno obtuvo, leídas las cédulas se pasarán a manos del Presidente de la Mesa Directiva y luego al otro secretario, para que les conste el contenido de ella, y puedan reclamar cualquier equivocación. Finalmente se realizará el cómputo y uno de los secretarios lo dará a conocer dando cuenta al Presidente de la Mesa Directiva.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Concluida la votación, uno de los secretarios contará las cédulas para ver si su número es igual al de los votantes. Después se pasarán a manos del Presidente de la Mesa Directiva para que les conste el contenido de ellas, y puedan reclamar cualquier equivocación. Finalmente se realizará el cómputo y uno de los secretarios lo dará a conocer dando cuenta al Presidente de la Mesa Directiva.
 
 A propuesta de una tercera parte de los integrantes del Congreso, cualquier asunto podrá ser votado por cédula, excepto los proyectos de leyes, requiriéndose para su aprobación el voto de las dos terceras partes de los diputados presentes.
 
@@ -2025,9 +2221,11 @@ Los asuntos no comprendidos en las votaciones nominal y por cédula, serán resu
 
 Si en el acto de recabar la votación, la secretaría tuviere duda de ella, podrá rectificarla, en cuyo caso los diputados repetirán sus votos. También podrá rectificarse una votación dudosa cuando lo exigiere algún miembro del Congreso, pero esto sólo se consentirá cuando acabe de verificarse aquella y antes de que la Asamblea se ocupe de otro asunto.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 180.
 
-Los empates en las votaciones que no sean para elegir personas, se decidirán repitiéndose la discusión del asunto en el mismo día. Si nuevamente resultara un empate, se discutirá y votará de nuevo en la sesión inmediata y si a pesar de estas medidas volviese a empatarse la votación, se reservará el asunto para el periodo ordinario siguiente.
+Los empates en las votaciones que no sean para elegir personas, se decidirán repitiéndose la discusión y votación del asunto en la sesión inmediata y si a pesar de estas medidas volviese a empatarse la votación, se reservará el asunto para el periodo ordinario siguiente y si persiste el empate el Presidente de la Mesa Directiva ordenará el archivo definitivo del asunto.
 
 ###### Artículo 181.
 
@@ -2037,11 +2235,13 @@ Para que un proyecto tenga carácter de Ley o decreto se requiere que sea aproba
 
 Todo diputado tiene derecho a exigir que el razonamiento de su voto se asiente en el acta, y podrá pedirlo al momento de terminar la votación.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 183.
 
-Ningún diputado podrá excusarse de votar estando en la sesión, a no ser que tenga interés personal en el asunto y así lo justifique la Asamblea o haya fijado su posición política. Tampoco podrá retirarse de la sesión durante las votaciones.
+Ningún diputado podrá abstenerse de votar estando en la sesión, a no ser que tenga interés personal en el asunto o haya fijado su posición política. Tampoco podrá retirarse de la sesión durante las votaciones.
 
-### Capítulo Primero. De la Substanciación de las Acusaciones contra Funcionarios que Gozan de Fuero Constitucional
+### Capítulo Quinto. De las Resoluciones
 
 ###### Artículo 184.
 
@@ -2063,7 +2263,7 @@ III.- Acuerdo: Toda resolución del Congreso que por su naturaleza no requiera d
 
 Todas las resoluciones del Congreso del Estado en materia electoral tendrán el carácter de decreto.
 
-### Capítulo Segundo. De la Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a alguno de sus miembros
+### Capítulo Sexto. De la Expedición de Leyes
 
 ###### Artículo 186.
 
@@ -2085,7 +2285,7 @@ Si el Pleno aprueba el dictamen a que se refiere el párrafo anterior, por el vo
 
 ## Título Octavo. Del Jurado de Procedencia
 
-### Capítulo Tercero. Del Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
+### Capítulo Primero. De la Substanciación de las Acusaciones contra Funcionarios que Gozan de Fuero Constitucional
 
 ###### Artículo 189.
 
@@ -2211,9 +2411,11 @@ Los miembros de la Comisión sólo pueden excusarse de conocer de un asunto cuan
 
 Calificadas las recusaciones no volverán a admitirse otras, salvo que estuvieren fundadas en motivo superveniente.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 203.
 
-Siempre que el Congreso hubiere de resolver sobre recusaciones de los miembros de la Comisión de Responsabilidades, lo hará luego que se le de cuenta. Con este fin el Presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, citará a sesión, la que tendrá lugar a más tardar veinticuatro horas después de recibido el aviso de la Comisión.
+Siempre que el Congreso hubiere de resolver sobre recusaciones de los miembros de la Comisión de Responsabilidades, lo hará luego que se le de cuenta. Con este fin el Presidente de la Mesa Directiva o la Diputación Permanente, en su caso, convocará a sesión, la que tendrá lugar después de recibido el aviso de la Comisión.
 
 ###### Artículo 204.
 
@@ -2247,11 +2449,13 @@ Cuando uno o más diputados sean acusadores de algún funcionario sujeto al Jura
 
 Se aplicará supletoriamente el Código de Procedimientos Penales para el Estado de Guanajuato, en lo concerniente a la valoración de pruebas.
 
-### Capítulo Cuarto. Del Procedimiento para la Erección de un Nuevo Municipio
+### Capítulo Segundo. De la Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a alguno de sus miembros
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 210.
 
-Cualquier ciudadano del Municipio, bajo su más estricta responsabilidad, podrá denunciar a los miembros de un Ayuntamiento, por escrito, ante el Congreso del Estado, expresando la causa legal y debiendo acompañar las pruebas idóneas que tuviera a su alcance, en que se sustente la misma.
+Cualquier ciudadano del Municipio, bajo su más estricta responsabilidad, podrá denunciar a los miembros de un Ayuntamiento, por escrito, ante el Congreso del Estado, expresando la causa legal y debiendo acompañar las pruebas idóneas que tuviera a su alcance, en que se sustente la misma. En dicho escrito el denunciante deberá señalar domicilio para recibir notificaciones en la ciudad capital del Estado.
 
 Sólo en caso de que el denunciante no tuviere acceso a los elementos de prueba en que funde su acción o teniéndolos no le hayan sido proporcionados, deberá indicar el archivo o lugar en que se encuentren, para que la Comisión pueda allegarse de los mismos.
 
@@ -2265,13 +2469,17 @@ El Presidente de la Mesa Directiva del Congreso requerirá al denunciante para q
 
 El denunciante deberá ratificar su solicitud de desaparición de un Ayuntamiento, suspensión o revocación del mandato de alguno o algunos de sus miembros ante la Secretaría General del Congreso. Dicha ratificación deberá realizarse el día de la notificación del requerimiento o dentro de los tres días hábiles siguientes.
 
-Dentro de los tres días hábiles posteriores a la ratificación de la denuncia, la Secretaría General la remitirá a la Comisión de Gobernación y Puntos Constitucionales, la que dentro del plazo de cinco días hábiles analizará la misma.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Dentro de los tres días hábiles posteriores a la ratificación de la denuncia, la Secretaría General la remitirá a la Comisión de Gobernación y Puntos Constitucionales, la que dentro del plazo de quince días hábiles analizará la misma.
 
 Si la denuncia fuera ratificada en tiempo y reuniera, en su caso, los requisitos de procedencia, se estudiará su atendibilidad formulándose el dictamen que corresponda. En caso contrario, se acordará su archivo definitivo y ordenará a la Secretaría General dar de baja el expediente, dando cuenta de ello al Presidente de la Mesa Directiva del Congreso.
 
 Para que una denuncia sea atendible, se deberá considerar si de las pruebas aportadas por el denunciante aparecen datos suficientes que acrediten presuntivamente la causa o causas de desaparición, suspensión o revocación del mandato previstas en la Ley Orgánica Municipal que se impute al Ayuntamiento o a los integrantes del mismo, así como que hagan probable su responsabilidad.
 
-En caso de que la Comisión de Gobernación y Puntos Constitucionales determine que la denuncia no merece atenderse, el dictamen correspondiente se someterá a la consideración del Pleno del Congreso o de la Diputación Permanente. En caso de que la Comisión de Gobernación y Puntos Constitucionales determine que la denuncia es de atenderse, el dictamen correspondiente se turnará a la Comisión de Responsabilidades.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+En caso de que la Comisión de Gobernación y Puntos Constitucionales determine que la denuncia merece atenderse o no, el dictamen correspondiente se someterá a la consideración del Pleno del Congreso. En caso de que el Pleno del Congreso determine que la denuncia es de atenderse, el asunto se turnará a la Comisión de Responsabilidades.
 
 ###### Artículo 213.
 
@@ -2297,7 +2505,9 @@ Recibida la contestación de la denuncia o transcurrido el término concedido al
 
 El Pleno del Congreso podrá por una sola vez, disponer la ampliación del término probatorio, que en ningún caso será mayor de treinta días hábiles, a solicitud del denunciado o denunciante.
 
-El Código de Procedimientos Penales para el Estado de Guanajuato, será supletorio en todo lo conducente al procedimiento que se instruya para declarar la desaparición de un Ayuntamiento o la revocación o suspensión del mandato de alguno de sus miembros, en lo conducente.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+La legislación procesal en materia penal será supletoria en todo lo conducente al procedimiento que se instruya para declarar la desaparición de un Ayuntamiento o la revocación o suspensión del mandato de alguno de sus miembros, en lo conducente.
 
 En caso de que no exista disposición expresa en los ordenamientos legales indicados, la Comisión acordará lo conducente.
 
@@ -2319,7 +2529,7 @@ Cuando la queja se deba a la ausencia absoluta de la mayoría de los miembros pr
 
 Si el Congreso del Estado dicta la revocación del mandato en contra de cualquier miembro de los ayuntamientos, en la resolución correspondiente el propio Congreso decretará la suspensión, ordenando se llame al suplente si se tratare de síndicos o regidores. Si el suspendido fuera el Presidente Municipal, la designación del interino o del sustituto en su caso, se llevará a cabo por el Ayuntamiento.
 
-### Capítulo Primero. Del Órgano de Fiscalización Superior
+### Capítulo Tercero. Del Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
 
 ###### Artículo 221.
 
@@ -2343,11 +2553,13 @@ III.- Transcurrido el término anterior, la Comisión de Asuntos Municipales ela
 
 IV.- En el supuesto de que el Congreso resuelva favorablemente la solicitud del Ayuntamiento, ésta resolución deberá determinar las condiciones en que el Ejecutivo del Estado, asumirá el ejercicio de la función o la prestación del servicio público de que se trate, atendiendo a las circunstancias de cada caso concreto.
 
-### Capítulo Segundo. De la Organización Interna del Congreso
+### Capítulo Cuarto. Del Procedimiento para la Erección de un Nuevo Municipio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 224.
 
-Los ciudadanos que representen por lo menos el treinta por ciento de los domiciliados en el territorio afectado que se pretende escindir, podrán solicitar a través de la asociación de habitantes la realización de un plebiscito para determinar la erección de un nuevo Municipio. La solicitud deberá formularse ante el Instituto Electoral del Estado de Guanajuato y se comunicará al Ayuntamiento del Municipio del cual se pretende escindir el territorio para la creación del nuevo Municipio.
+Los ciudadanos que representen por lo menos el diez por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal del Municipio afectado que se pretende escindir, podrán solicitar a través de la asociación de habitantes la realización de un plebiscito para determinar la erección de un nuevo Municipio. La solicitud deberá formularse ante el Instituto Electoral del Estado de Guanajuato y se comunicará al Ayuntamiento del Municipio del cual se pretende escindir el territorio para la creación del nuevo Municipio.
 
 Los promoventes acreditarán su personalidad jurídica en los términos de la Ley aplicable.
 
@@ -2389,19 +2601,21 @@ IV.- Fecha de erección del nuevo Municipio; y
 
 V.- Nombramiento de las autoridades municipales, en tanto se eligen por los ciudadanos del nuevo Municipio; ya sea en proceso electoral ordinario o extraordinario, según el caso, en los términos de la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 229.
 
-El Congreso del Estado y las autoridades municipales nombradas, atenderán en el ámbito de sus respectivas competencias, las cuestiones relativas a los presupuestos de ingresos y egresos, así como a cualquier otra que sea necesaria para que el Municipio este debidamente organizado y funcionando.
+El Congreso del Estado y las autoridades municipales nombradas, atenderán en el ámbito de sus respectivas competencias, las cuestiones relativas a las leyes de ingresos y presupuestos de egresos, así como a cualquier otra que sea necesaria para que el Municipio esté debidamente organizado y funcionando.
 
 ## Título Noveno
 
-### Capítulo Tercero. De la Secretaría General
+### Capítulo Primero. Del Órgano de Fiscalización Superior
 
 ###### Artículo 230.
 
 El Congreso del Estado ejercerá las funciones técnicas de fiscalización a través del Órgano de Fiscalización Superior, el cual tendrá autonomía técnica, de gestión y presupuestaria, en los términos que señala la Constitución Política para el Estado de Guanajuato y la Ley de Fiscalización Superior del Estado y demás ordenamientos jurídicos aplicables.
 
-### Capítulo Cuarto. De la Contraloría Interna del Poder Legislativo
+### Capítulo Segundo. De la Organización Interna del Congreso
 
 ###### Artículo 231.
 
@@ -2411,17 +2625,19 @@ I.- Secretaría General del Congreso;
 
 II.- Contraloría Interna del Poder Legislativo; y
 
-III.- Coordinación de Comunicación Social.
+III.- (DEROGADA, P.O. 10 DE ABRIL DE 2015).
 
 ###### Artículo 232.
 
 El Órgano de Fiscalización Superior y las dependencias señaladas en el artículo anterior, tendrán las unidades administrativas necesarias para el cumplimiento de las funciones que les competen, de conformidad con el Presupuesto de Egresos del Poder Legislativo, con esta Ley, así como con el estatuto del servicio civil de carrera, reglamentos y manuales de organización y funcionamiento.
 
-### Capítulo Quinto. De la Coordinación de Comunicación Social
+### Capítulo Tercero. De la Secretaría General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 233.
 
-La Secretaría General del Congreso dependerá de la Junta de Gobierno y Coordinación Política, y tendrá las siguientes atribuciones:
+La Secretaría General del Congreso dependerá de la Junta de Gobierno y Coordinación Política, su titular durará en su cargo siete años pudiendo ser ratificado, y tendrá las siguientes atribuciones:
 
 I.- Coordinar las distintas áreas o unidades administrativas de apoyo al trabajo legislativo y parlamentario;
 
@@ -2433,11 +2649,11 @@ IV.- Cuidar que las sesiones del Pleno y de la Diputación Permanente, se desarr
 
 V.- Ejecutar y dar seguimiento a los acuerdos del Pleno del Congreso o de la Diputación Permanente, así como de las diversas comisiones, en asuntos de su competencia;
 
-VI.- Cuidar la oportuna elaboración del Diario de los Debates;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+VI.- Proponer a la Junta de Gobierno y Coordinación Política al inicio de cada Legislatura el nombramiento o ratificación del Director de Comunicación Social, del titular del Instituto de Investigaciones Legislativas, del Director General de Administración, del Director General de Apoyo Parlamentario y del titular de la Unidad de Estudios de las Finanzas Públicas;
 
-VII.- Cuidar el correcto control del archivo general del Congreso;
+VII. (DEROGADA, P.O. 10 DE ABRIL DE 2015);
 
 VIII.- Coadyuvar en la comunicación, coordinación y colaboración con los Poderes federales, estatales y los ayuntamientos; así como con entidades y funcionarios públicos, organizaciones y ciudadanos en general;
 
@@ -2455,7 +2671,25 @@ XII.- Cuidar que los expedientes que el Congreso hubiese tramitado, sigan su cur
 
 XIII.- Elaborar la agenda parlamentaria semanal a partir de los acuerdos de las comisiones y de los presidentes de las mismas, la cual será difundida a más tardar el último día hábil de cada semana; y
 
-XIV.- Las demás que le asigne el Pleno del Congreso, la Diputación Permanente y la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XIV.- Llevar a cabo la planeación administrativa de los trabajos de las distintas áreas del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XV.- Establecer los mecanismos de seguimiento de las leyes, decretos, acuerdos o iniciativas, coordinando para tal fin a las diferentes dependencias y áreas del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XVI.- Llevar un registro en el que se asienten las comunicaciones y correspondencia que se dirigen al Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XVII.- Fungir como titular de la Unidad de Acceso a la Información Pública del Poder Legislativo; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XVIII.- Las demás que le asigne el Pleno del Congreso, la Diputación Permanente y la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 234.
 
@@ -2483,9 +2717,33 @@ IV.- Unidad de Estudios de las Finanzas Públicas;
 
 V.- Unidad del Diario de los Debates;
 
-VI.- Unidad de Acceso a la Información Pública; y
+VI.- (DEROGADA. P.O. 10 DE ABRIL DE 2015);
 
-VII.- Unidad de Gestión Social.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VII.- Unidad de Atención y Gestión Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VIII.- Dirección de Comunicación Social.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### Artículo 235 Bis.
+
+Son causas graves de remoción del Secretario General:
+
+I.- Desempañar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 131 de la Constitución Política para el Estado de Guanajuato;
+
+II.- Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines del Poder Legislativo;
+
+III.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
+
+IV.- Conducirse con parcialidad en los procedimientos parlamentarios, así como en el cumplimiento de las disposiciones de esta ley;
+
+V.- Incurrir en abandono del cargo, considerando este su ausencia injustificada por más de quince días, y
+
+VI.- Las violaciones graves en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 #### Sección Primera. Del Instituto de Investigaciones Legislativas
 
@@ -2593,11 +2851,15 @@ V. Distribuir los documentos sujetos al conocimiento del Pleno;
 
 VI. Apoyar a los secretarios de la Mesa Directiva para verificar el quórum de asistencia, así como para levantar el cómputo y registro de las votaciones;
 
-VII. Elaborar, registrar y publicar las actas de las sesiones;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-VIII. Registrar las leyes y resoluciones que adopte el Pleno;
+VII. Elaborar y registrar las actas de las sesiones;
 
-IX. Prestar los servicios de apoyo en las Comisiones Permanentes, a través de su Secretario Técnico, de conformidad con lo dispuesto en el párrafo segundo del artículo 66, a través del apoyo de:
+VIII. (DEROGADA, P.O. 10 DE ABRIL DE 2015);
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
+IX. Prestar los servicios de apoyo en las comisiones, a través de sus secretarios técnicos, de conformidad con lo dispuesto en el párrafo segundo del artículo 66 de esta ley, relativos a:
 
 a) Organizar y registrar la asistencia a cada una de ellas;
 
@@ -2627,9 +2889,11 @@ III.- No haber sido sentenciado ejecutoriamente por delito intencional que ameri
 
 IV.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 244.
 
-Para el ejercicio de sus funciones la Dirección General de Apoyo Parlamentario contará al menos, con las siguientes direcciones: Asistencia Técnica, Apoyo Legislativo, Apoyo Jurídico, Contenciosa, Seguimiento a Comisiones y Práctica Parlamentaria.
+Para el ejercicio de sus funciones, la Dirección General de Apoyo Parlamentario contará con las secretarías técnicas necesarias para el apoyo de las comisiones legislativas.
 
 #### Sección Cuarta. De la Unidad de Estudios de las Finanzas Públicas
 
@@ -2641,7 +2905,9 @@ La Unidad de Estudios de las Finanzas Públicas es el órgano técnico de carác
 
 La Unidad de Estudios de las Finanzas Públicas tendrá las siguientes atribuciones:
 
-I.- Analizar las iniciativas de Leyes de Ingresos para el Estado y para los Municipios, así como la Iniciativa de Ley del Presupuesto General de Egresos del Estado;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+I.- Emitir opiniones técnicas de las iniciativas de leyes de ingresos para el Estado y para los municipios, así como de la iniciativa de Ley de Presupuesto General de Egresos del Estado;
 
 II.- Analizar las iniciativas de decreto relativas a las operaciones de financiamiento que constituyan deuda pública;
 
@@ -2699,9 +2965,19 @@ II.- Controlar el archivo general debiendo salvaguardar, registrar y archivar la
 
 III.- Notificar los documentos parlamentarios, decretos, dictámenes y acuerdos, así como la correspondencia, oficios y circulares que deriven de las sesiones de Pleno, de la Diputación Permanente y de las comisiones.
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+IV.- Publicar las actas de las sesiones; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+V.- Registrar las leyes y resoluciones que adopte el Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 249.
 
-Para ser Titular de la Unidad del Diario de los Debates, se requiere:
+Para ser Coordinador de la Unidad del Diario de los Debates, se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
@@ -2713,33 +2989,17 @@ IV.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del p
 
 #### Sección Sexta. De la Unidad de Acceso a la Información Pública
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 250.
 
-La Unidad de Acceso a la Información Pública, además de las atribuciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, tendrá las siguientes:
-
-I.- Emitir el acuerdo de clasificación como reservada o confidencial de la información del Poder Legislativo;
-
-II.- Elaborar semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados;
-
-III.- Tramitar las solicitudes de informes, de cesión, de corrección o de cancelación de datos personales, de conformidad con la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato; y
-
-IV.- Intervenir en los recursos que prevén las leyes de Protección de Datos Personales para el Estado y los Municipios de Guanajuato y de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+El Poder Legislativo contará con una Unidad de Acceso a la Información Pública, con las atribuciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, cuyo titular será el Secretario General.
 
 ###### Artículo 251.
 
-Para ser Titular de la Unidad de Acceso a la Información Pública, se requiere:
+(DEROGADO, P.O. 10 DE ABRIL DE 2015)
 
-I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-II.- Contar con título profesional en alguna de las ramas de las ciencias jurídicas o administrativas, legalmente expedido y contar con una experiencia profesional de cuando menos tres años;
-
-III.- No haber sido sentenciado ejecutoriamente por delito intencional que amerite pena privativa de libertad; y
-
-IV.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
-
-### Capítulo Único. Del Servicio Civil de Carrera
+### Capítulo Cuarto. De la Contraloría Interna del Poder Legislativo
 
 ###### Artículo 252.
 
@@ -2781,21 +3041,31 @@ III.- No haber sido sentenciado ejecutoriamente por delito intencional que ameri
 
 IV.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2015)</small>
+
+### Capítulo Quinto. De la Dirección de Comunicación Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 254.
 
-La Coordinación de Comunicación Social, dependerá de la Junta de Gobierno y Coordinación Política y tendrá a su cargo las siguientes atribuciones:
+La Dirección de Comunicación Social tendrá a su cargo las siguientes atribuciones:
 
 I.- Diseñar y ejecutar los programas relativos a la difusión de las diversas actividades legislativas y parlamentarias en los medios de comunicación conforme las políticas lineamientos y estrategias que establezca la Junta de Gobierno y Coordinación Política;
 
 II.- Generar estrategias que permitan al Congreso, a las comisiones, a los grupos parlamentarios y representaciones parlamentarias, acceder a los medios de comunicación;
 
-III.- Elaborar y proponer su programa anual de actividades; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+III.- Elaborar y proponer el programa anual de comunicación social del Congreso del Estado; y
 
 IV.- Editar las publicaciones propias de la Legislatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 255.
 
-Para ser Coordinador de Comunicación Social, se requiere:
+Para ser Director de Comunicación Social se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
@@ -2806,6 +3076,8 @@ III.- No haber sido sentenciado ejecutoriamente por delito intencional que ameri
 IV.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
 ## Título Décimo
+
+### Capítulo Único. Del Servicio Civil de Carrera
 
 ###### Artículo 256.
 
@@ -2950,3 +3222,11 @@ Artículo cuarto. Las referencias que en otros ordenamientos se hagan a la Comis
 P.O. 4 DE ABRIL DE 2014.
 
 Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las comisiones de Aguas y de Participación Ciudadana y Gestión Social, continuarán en funciones hasta concluir el periodo de ejercicio de la Sexagésima Segunda Legislatura del Congreso del Estado.
+
+Artículo Tercero. Para efecto del cómputo del término del encargo del Secretario General actual, se considerará la fecha de su nombramiento original.
