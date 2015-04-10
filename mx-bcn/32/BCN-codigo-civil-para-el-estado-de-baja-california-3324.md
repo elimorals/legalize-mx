@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-02-20"
+last_updated: "2015-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3255,7 +3255,7 @@ Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela ce
 
 ###### ARTICULO 470.
 
-El que en su testamento, aunque sea una persona persona menor de dieciocho años de edad no emancipada, deje bienes, ya sea por legado o por herencia, a una persona que no tenga capacidad para comprender el significado del hecho que no este bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+El que en su testamento, aunque sea una persona persona (sic) menor de dieciocho años de edad no emancipada, deje bienes, ya sea por legado o por herencia, a una persona que no tenga capacidad para comprender el significado del hecho que no este bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -3425,7 +3425,7 @@ III.- Cuando no hubiere tutor autodesignado.
 
 ###### ARTICULO 493.
 
-El tutor dativo será designado por la persona si ésta ya ha cumplido dieciséis años. El Juez de Primera Instancia de lo Familiar confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por la persona, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+El tutor dativo será designado por la persona si esta ya ha cumplido dieciséis años. El Juez de Primera Instancia de lo Familiar confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por la persona, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -3703,7 +3703,7 @@ Si los bienes de la persona menor de dieciocho años de edad o persona que no te
 
 ###### ARTICULO 527.
 
-El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra la persona persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, por no haber exigido que se caucione el manejo de la tutela.
+El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, por no haber exigido que se caucione el manejo de la tutela.
 
 ###### ARTICULO 528.
 
@@ -3979,7 +3979,7 @@ Durante la tutela no corre la prescripción entre el tutor y la persona menor de
 
 ###### ARTICULO 576.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+El tutor tiene obligación de admitir las donaciones simples legados y herencias que se dejen a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -4253,13 +4253,13 @@ IV.- A cumplir las demás obligaciones que la Ley le señale.
 
 ###### ARTICULO 624.
 
-El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren a la persona persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren a la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 625.
 
-Las funciones del curador cesarán cuando la persona persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+Las funciones del curador cesarán cuando la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
 
 ###### ARTICULO 626.
 
@@ -8743,9 +8743,17 @@ No habiendo albacea nombrado cada uno de los herederos puede, si no ha sido inst
 
 Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 1539.
 
-El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
+El derecho de reclamar la herencia prescribe en diez años contados a partir del discernimiento del cargo de albacea de la sucesión. Este derecho es transmisible a los herederos y legatarios.
+
+Se considera interrumpida la prescripción cuando el heredero este en posesión de los bienes hereditarios, haya ejecutado actos ostentándose como tal o haya denunciado la sucesión. Lo mismo se aplicará a los legatarios.
+
+La aceptación expresa o tácita de la herencia o del legado también interrumpe el término de prescripción para reclamar la herencia.
+
+En el caso de los menores e incapaces, mientras dure su condición, no correrá el término citado en el párrafo primero de (sic) presente numeral.
 
 ### CAPITULO III. DE LA ACEPTACION Y DE LA REPUDIACION DE LA HERENCIA
 
@@ -16304,3 +16312,7 @@ P.O. 9 DE ENERO DE 2015.
 P.O. 20 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
