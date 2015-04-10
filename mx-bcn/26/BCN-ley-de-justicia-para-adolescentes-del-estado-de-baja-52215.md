@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-para-adolescentes-del-estado-de-baja-52215"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2013-06-28"
+last_updated: "2015-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -77,25 +77,53 @@ Para efectos de esta ley se entiende por:
 
 I.- Adolescente: Toda persona, hombre o mujer, cuya edad está entre los doce años cumplidos y los dieciocho años de edad no cumplidos;
 
-II.- Código Penal: al Código Penal para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-III.- Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de Baja California;
+II.- Centro: Centro de Tratamiento para Adolescentes en el Estado, dependientes de la Secretaría;
 
-IV.- Juez para Adolescentes: Al Juez de Primera Instancia Especializado para Adolescentes, del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-V.- Juzgado: al Juzgado de Primera Instancia Especializado para Adolescentes;
+III.- Código Penal: al Código Penal para el Estado de Baja California;
 
-VI.- Ley: a la Ley de Justicia para Adolescentes del Estado de Baja California;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-VII.- Magistrado para Adolescentes: El Magistrado Especializado para Adolescentes, del Poder Judicial del Estado;
+IV.- Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de Baja California;
 
-VIII.- Ministerio Público para Adolescentes: Al Agente del Ministerio Público Especializado para Adolescentes;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-IX.- Niñas y Niños: Toda persona menor de doce años de edad;
+V.- Interno: A los sujetos referidos en las fracciones I, II y IV del artículo 3 de esta Ley, que se encuentran recluidos en un Centro, bajo investigación, detención preventiva o medida de tratamiento en internación a disposición de la autoridad competente;
 
-X.- Secretaría: a (sic) la Secretaría de Seguridad Pública del Estado de Baja California, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-XI.- Subsecretaría.- A la Subsecretaría del Sistema Estatal Penitenciario, de la Secretaría de Seguridad Pública del Estado.
+VI.- Juez para Adolescentes: Al Juez de Primera Instancia Especializado para Adolescentes, del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VII.- Juzgado: Al Juzgado de Primera Instancia Especializado para Adolescentes;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VIII.- Ley: a la Ley de Justicia para Adolescentes del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+IX.- Magistrado para Adolescentes: El Magistrado Especializado para Adolescentes, del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+X.- Ministerio Publico para Adolescentes: Al Agente del Ministerio Público Especializado para Adolescentes;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XI.- Niñas y Niños: Toda persona menor de doce años de edad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2015)</small>
+
+XII.- Secretaría: a la Secretaría de Seguridad Pública del Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2015)</small>
+
+XIII.- Subsecretaría: A la Subsecretaría del Sistema Estatal Penitenciario, de la Secretaria de Seguridad Pública del Estado.
 
 ###### Artículo 5.
 
@@ -241,7 +269,7 @@ XIV.- Ser defendidos en igualdad de circunstancias respecto de su acusador;
 
 XV.- Los medios de difusión se abstendrán de publicar la identidad del adolescente sujeto al procedimiento, así como las medidas de orientación, protección o tratamiento;
 
-XVI.- En ningún caso, ser sujetos de medidas cautelares o. definitivas que no estén establecidas en esta Ley;
+XVI.- En ningún caso, ser sujetos de medidas cautelares o definitivas que no estén establecidas en esta Ley;
 
 XVII.- Que la autoridad, defensa, víctima u ofendido del delito no divulguen la identidad del adolescente sujeto a investigación, proceso o ejecución de medidas en los casos en que no sea público el proceso. Las autoridades competentes deberán garantizar que la información que brinden no contravenga el principio de confidencialidad ni el derecho a la privacidad consagrado en la Ley; y
 
@@ -257,15 +285,21 @@ II.- En cualquier caso que implique la privación de su libertad, tienen derecho
 
 III.- Conocer el propio interesado, quien ejerza la patria potestad, tutores o quien ejerza su custodia o representación legal, el objetivo de la medida impuesta, el detalle del Programa Personalizado de Ejecución y lo que se requiere del adolescente para cumplir con lo que en él se exige;
 
-IV.- No ser trasladados injustificadamente o, en su caso, ser trasladados a centros de ejecución de medidas ubicadas lo más cerca posible del lugar de residencia habitual de su familia o de quienes ejerzan la tutoría, patria potestad, o custodia cuando el adolescente así lo acepte expresamente;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-V.- Ser informados desde el inicio de la ejecución de la medida de internamiento por lo menos sobre: el contenido del Programa Personalizado de Ejecución de la medida que se les haya determinado; las disposiciones de las normas y reglamentos que regulen sus derechos, prerrogativas, beneficios y obligaciones, así como el régimen interno del centro de ejecución de medidas en que se encuentren y las medidas disciplinarias, así como el procedimiento para su aplicación e impugnación;
+IV.- No ser trasladados injustificadamente o, en su caso, solo ser trasladados a Centros ubicados lo más cerca posible del lugar de residencia habitual de su familia o de quienes ejerzan la tutoría, patria potestad, o custodia cuando el Adolescente así lo acepte expresamente;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+V.- Ser informados desde el inicio de la ejecución de la medida de internamiento por lo menos sobre: el contenido del Programa Personalizado de Ejecución de la medida que se les haya determinado; las disposiciones de las normas y reglamentos que regulen sus derechos, prerrogativas, beneficios y obligaciones, así como el régimen interno del Centro en que se encuentren y las medidas disciplinarias, así como el procedimiento para su aplicación e impugnación;
 
 VI.- Recibir, si así lo solicitan, visitas por lo menos dos días de la semana y con una duración de por lo menos tres horas;
 
 VII.- Informarse de los acontecimientos mediante la lectura de diarios, revistas u otras publicaciones, así como a través de transmisiones de radio y televisión, que no perjudiquen su adecuado desarrollo;
 
-VIII.- Salir bajo vigilancia especial de los Centros de Ejecución de Medidas cuando, de acuerdo con la gravedad de la circunstancia y la distancia, así lo requiera para acudir al sepelio de sus ascendientes o descendientes en primer grado, su cónyuge, concubina o concubinario, así como para visitarlos en su lecho de muerte. También para recibir atención médica especializada cuando ésta no pueda ser proporcionada en los propios centros;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VIII.- Salir bajo vigilancia especial de los Centros cuando, de acuerdo con la gravedad de la circunstancia y la distancia, así lo requiera para acudir al sepelio de sus ascendientes o descendientes en primer grado, su cónyuge, concubina o concubinario, así como para visitarlos en su lecho de muerte. También para recibir atención médica especializada cuando esta no pueda ser proporcionada en los propios centros;
 
 IX.- Cursar la educación obligatoria y recibir instrucción técnica o formación práctica sobre un oficio, arte o profesión, recibir o continuar con su enseñanza e instrucción y, en su caso, con terapias o educación especial;
 
@@ -279,13 +313,17 @@ XIII.- Recibir o continuar con atención médica preventiva y correctiva, así c
 
 XIV.- Recibir en todo momento una alimentación nutrimental adecuada y suficiente para su desarrollo;
 
-XV.- Tener una convivencia segura y ordenada en el interior de los Centros de Ejecución de Medidas;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XV.- Tener una convivencia segura y ordenada en el interior de los Centros;
 
 XVI.- No recibir medidas disciplinarias colectivas, ni castigos corporales, tales como la reclusión en celda obscura, ni cualquier tipo de medida que pueda poner en peligro su salud física o mental;
 
 XVII.- No ser sujeto, en ningún caso, de medidas disciplinarias que conculquen sus derechos;
 
-XVIII.- No ser aislado dentro de los Centros de Ejecución de Medidas a menos que, de manera urgente, sea estrictamente indispensable para evitar o resolver actos de violencia generalizada o amotinamiento en los que el adolescente esté directamente involucrado. En todos los casos, el adolescente aislado tiene derecho a que el Juez para Adolescentes resuelva a la brevedad sobre la duración de esta medida disciplinaria en los términos previstos en esta Ley;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XVIII.- No ser aislado dentro de los Centros a menos que, de manera urgente, sea estrictamente indispensable para evitar o resolver actos de violencia generalizada o amotinamiento en los que el adolescente este directamente involucrado. En todos los casos, el adolescente aislado tiene derecho a que el Juez para Adolescentes resuelva a la brevedad sobre la duración de esta medida disciplinaria en los términos previstos en esta Ley;
 
 XIX.- No ser sujeto de represión psicológica;
 
@@ -297,7 +335,9 @@ XXII.- Efectuar un trabajo remunerado;
 
 XXIII.- Recibir y conservar cualquier tipo de material cultural, de capacitación, formación académica y técnica, de entretenimiento y recreo que sea compatible con la medida que está cumpliendo;
 
-XXIV.- Ser preparado psicológicamente para salir del centro de Ejecución de Medidas cuando esté próximo a terminar el cumplimiento de las mismas,
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XXIV.- Ser preparado psicológicamente para salir del Centro cuando esté próximo a terminar el cumplimiento de las mismas;
 
 XXV.- Recibir, si así lo solicitan, tratándose de adolescentes emancipados, visita íntima, debiéndoseles informar sobre los métodos anticonceptivos y la paternidad responsable; y
 
@@ -349,11 +389,15 @@ III.- El Magistrado para Adolescentes;
 
 IV.- El Defensor de Oficio Especializado para Adolescentes;
 
-V.- La Secretaría, a través de la Subsecretaría;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-VI.- El titular del Centro de Diagnóstico para Adolescentes, y
+V.- La Secretaría, a través de la Subsecretaría, y
 
-VII.- El titular del Centro de Ejecución de Medidas para Adolescentes.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VI.- El titular del Centro.
+
+VII.- (DEROGADA, P.O. 10 DE ABRIL DE 2015)
 
 Las autoridades encargadas de la aplicación de la presente Ley, ofrecerán, impartirán y evaluarán cursos especializados en materia de protección de niñas, niños y adolescentes de acuerdo con los lineamientos que se deriven de la doctrina de la protección integral de los derechos del niño de la Organización de las Naciones Unidas y demás normas aplicables para la formación inicial, la actualización y la capacitación continua de los servidores públicos del Sistema de Justicia para Adolescentes.
 
@@ -401,7 +445,9 @@ I.- Aplicar las disposiciones contenidas en la presente Ley;
 
 II.- Vigilar el cumplimiento de la legalidad en el procedimiento y el respeto a derechos de los adolescentes sujetos a esta Ley;
 
-III.- Ordenar al Centro de Diagnostico para Adolescentes, la práctica del Diagnóstico Integral de Personalidad;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+III.- Ordenar al Centro, la práctica del Diagnóstico Integral de Personalidad;
 
 IV.- Resolver sobre el recurso de revocación y reclamación;
 
@@ -443,89 +489,121 @@ VIII.- Resolver los conflictos de competencia que se presenten en su jurisdicci�
 
 IX.- Los demás previstos en esta Ley, la Ley Orgánica del Poder Judicial del Estado de Baja California y las demás disposiciones legales aplicables.
 
-### CAPÍTULO V. DE LA SUBSECRETARÍA DEL SISTEMA ESTATAL PENITENCIARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2015)</small>
 
-#### SECCIÓN I. DE LOS CENTROS PARA ADOLESCENTES
+### CAPÍTULO V. SUBSECRETARÍA DEL SISTEMA ESTATAL PENITENCIARIO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2015)</small>
+
+#### SECCIÓN I. CENTROS DE TRATAMIENTO PARA ADOLESCENTES
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 28.
 
-La Subsecretaría del Sistema Estatal Penitenciario para el cumplimiento de sus atribuciones contará con:
+La Subsecretaría para el cumplimiento de sus atribuciones contará con los Centros que se requieran, para la debida prestación del servicio en el Estado; cada Centro estará a cargo de un director.
 
-I.- Centros de Diagnóstico para Adolescentes, y
-
-II.- Centros de Ejecución de Medidas para Adolescentes.
-
-Cada uno de los centros a que se refiere este artículo, estará a cargo de un Director.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 29.
 
-Para el debido desarrollo de las atribuciones los Directores de los centros, contarán con el personal especializado en las siguientes áreas:
+Los Centros, serán destinados para la internación de Adolescentes, así como los mayores de edad a que se refieren las fracciones II y IV del artículo 3 de esta Ley.
 
-I.- Seguridad y Custodia, y
-
-II.- Técnica y Administrativa.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 30.
 
-San atribuciones del director del Centra de Diagnóstico para Adolescentes, las siguientes:
+En cada Centro, estarán separadas la sección varonil y la sección femenil, debiendo contar con las siguientes áreas:
 
-I.- Recibir y custodiar al adolescente turnado por la autoridad competente, por la comisión de una conducta tipificada como delito por las leyes estatales;
+I.- De Custodia de Sujetos a Investigación:
 
-II.- Vigilar que durante su estancia en el Centro, le sean respetados al adolescente todos sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y demás ordenamiento aplicables;
+a) Subsección Adolescentes, y
 
-III.- Mantener una estricta separación de los adolescentes internos, de conformidad a los criterios de sexo, edad, grado de peligrosidad, tipo de conducta ilícita, salud física y mental, protección contra influencias nocivas y situaciones diversas de riesgo;
+b) Subsección Intermedia.
 
-IV.- Elaborar a cada interno, un Diagnóstico Integral de Personalidad, a efecto de ser remitida al Juez para Adolescentes;
+II.- De Detención Provisional:
 
-V.- Implementar las programas técnicas necesarios para que les adolescentes internos reciban desde su ingreso, la asistencia social, educativa, psicológica, médica y psiquiátrica que se requieran de acuerdo a sus características particulares;
+a) Subsección Adolescentes, y
 
-VI.- Poner en inmediata libertad al adolescente interno, cuando así lo determine la autoridad competente, de conformidad con la presente Ley, o bien, cuando se tenga conocimiento del vencimiento del término de setenta y dos horas o en su caso, su ampliación, para emitir la declaratoria de sujeción a proceso o detención preventiva;
+b) Subsección Intermedia.
 
-VII.- Implementar programas de apoyo psicopedagógico voluntario, que tengan como finalidad orientar en lo conducente a la familia de los adolescentes en custodia;
+III.- De Ejecución de Medidas:
 
-VIII.- Cumplir con las órdenes que expidan los órganos competentes, relativas a la situación jurídica de los adolescentes en custodia, y
+a) Subsección Adolescentes, y
 
-IX.- Dar debido cumplimiento al Reglamento Interior del Centro, así como a las diversas disposiciones aplicables en la materia.
+b) Subsección Intermedia.
+
+Las subsecciones intermedias a que se hace mención en este artículo, consistirán en los espacios destinados a la reclusión de los mayores de edad (sic) que se refieren las fracciones II y IV del artículo 3 de la presente Ley.
+
+A su vez cada una de las áreas establecidas en el presente numeral, se podrá clasificar a los Internos, conforme al perfil criminológico de riesgo y en atención a capacidades diferentes.
+
+Las áreas señaladas en el presente artículo estarán integradas en un mismo conjunto arquitectónico, pero totalmente separadas.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 31.
 
-A fin de llevar acaba el Diagnóstico Integral de Personalidad, así como los programas asistenciales al adolescente interno; el Centro contará con un Consejo Técnico Interdisciplinaria, mismo que será confirmado por profesionistas en las áreas de Criminología, Pedagogía, Psicología, Psiquiatría, Médica y de Trabaja Social.
+Para el debido desarrollo de sus atribuciones, los titulares de los Centros, contarán con el personal especializado en las siguientes áreas:
 
-#### SECCIÓN II. DEL CENTRO DE DIAGNÓSTICO PARA ADOLESCENTES
+I.- Seguridad y Custodia, a cargo de la Policía Estatal de Seguridad y Custodia Penitenciaria;
+
+II.- Técnica;
+
+III.- Jurídica, y
+
+IV.- Administrativa.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+#### SECCIÓN II. ATRIBUCIONES DE LOS CENTROS DE TRATAMIENTO PARA ADOLESCENTES
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 32.
 
-Todo lo relativo al funcionamiento y atribuciones del Consejo Técnico, de su Coordinador, así como de las áreas de Seguridad y Custodia, y Apoyo Administrativo, serán señalados en el Reglamento Interior del Centro.
+Son facultades y responsabilidades del Titular del Centro, las siguientes:
 
-#### SECCIÓN III. DEL CENTRO DE EJECUCIÓN DE MEDIDAS PARA ADOLESCENTES
+I.- Recibir y custodiar al Adolescente turnado por la autoridad competente, por la comisión de una conducta tipificada como delito por las leyes estatales;
 
-###### Artículo 33.
+II.- Ordenar y supervisar la práctica de un examen de integridad física al Adolescente por parte del personal del área médica, al momento en que es ingresado para su custodia al Centro; de igual manera, a su egreso y reingreso con motivo de excarcelación o traslado ordenado por la autoridad competente, elaborándose para tal fin el certificado médico correspondiente;
 
-Son atribuciones del Titular del Centro de Ejecución de Medidas, las siguientes:
+III.- Recabar del Adolescente la información relativa a sus datos personales, cuando es ingresado al Centro para su custodia, con el objeto de integrarlos a su expediente;
 
-I.- Aplicar las medidas impuestas por el Juez para Adolescentes;
+IV.- Vigilar que durante su estancia en el Centro, le sean respetados al Interno todos sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y demás ordenamientos aplicables;
 
-II.- Elaborar y someter en cada caso a la aprobación del Juez para Adolescentes un Programa Personalizado de Ejecución;
+V.- Mantener una estricta separación de los Internos, primordialmente en atención a los criterios de sexo, situación jurídica, edad y grado de peligrosidad; atendiendo además a otros factores de diferenciación, como el tipo de conducta ilícita, salud física y mental, protección contra influencias nocivas y situaciones diversas de riesgo;
 
-III.- Poner en práctica inmediatamente el Programa Personalizado de Ejecución, por conducto del Consejo Técnico Interdisciplinario, adscrito a dicho Centro;
+VI.- Elaborar un Diagnóstico Integral de Personalidad del Adolescente, a solicitud y para ser remitido al Juez para Adolescentes;
 
-IV.- Mantener una estricta separación de los internos, primordialmente en atención a los criterios de sexo, edad y grado de peligrosidad; atendiendo a demás (sic) a otros factores de diferenciación, como el tipo de conducta ilícita, salud física y mental, protección contra influencias nocivas y situaciones diversas de riesgo;
+VII.- Implementar los programas técnicos necesarios para que los Internos reciban desde su ingreso, la asistencia social, educativa, psicológica, médica y psiquiátrica que se requiera, de acuerdo a sus características particulares;
 
-V.- Informar al Juez para Adolescentes sobre cualquier trasgresión de los derechos o garantías de adolescentes, así como de la inminente afectación a los mismos;
+VIII.- Poner en inmediata libertad al Interno, cuando así lo determine la autoridad competente, de conformidad con la presente Ley, o bien, cuando se tenga conocimiento del vencimiento del termino de setenta y dos horas en su caso, su ampliación, para emitir la declaratoria de sujeción a proceso o detención preventiva;
 
-VI.- Procurar la plena reincorporación familiar, social y cultural de los adolescentes;
+IX.- Implementar programas de apoyo psicopedagógico voluntario, que tengan como finalidad orientar en lo conducente a la familia del Interno;
 
-VII.- Cumplir de inmediato con las resoluciones y requerimientos del Juez para Adolescentes;
+X.- Cumplir con las órdenes que expidan los órganos competentes, relativos a la situación jurídica de los Adolescentes;
 
-VIII.- Informar por escrito al Juez para Adolescentes, cuando menos una vez cada tres meses, sobre la forma en que está siendo cumplida la medida, cualquier obstáculo que se presente para el cumplimiento de la misma, el comportamiento y estado general de los adolescentes;
+XI.- Aplicar las medidas impuestas por el Juez para Adolescentes;
 
-IX.- Estar en contacto permanente con los padres, familiares, tutores, o con quienes ejerzan la patria potestad o la custodia de adolescentes sujetos a medida, a fin de mantenerlos informados sobre el cumplimento de ésta y sobre su estado físico y mental;
+XII.- Elaborar y someter en cada caso a la aprobación del Juez para Adolescentes, a solicitud de esta autoridad un Programa Personalizado en Ejecución del Adolescente;
 
-X.- No utilizar la fuerza física o instrumentos de coerción, excepto cuando se hayan agotado todos los medios no coercitivos para la imposición de la disciplina, e informar al Juez para Adolescentes sobre la aplicación de estas medidas disciplinarias, en lo posible, antes de recurrir a ellas, y
+XIII.- Poner en práctica inmediatamente el Programa Personalizado de Ejecución del Adolescente, por conducto del Consejo Técnico Interdisciplinario del Centro a que se refiere esta Ley y el reglamento correspondientes;
 
-XI.- Integrar un expediente de aplicación de la medida que contenga, por lo menos, la siguiente información:
+XIV.- Informar por escrito al Juez para Adolescentes sobre cualquier trasgresión de los derechos o garantías de Adolescentes, así como de la inminente afectación de los mismos;
 
-a) Los datos de identidad de la persona, información relativa a ingresos previos al Sistema;
+XV.- Procurar la plena reincorporación familiar, social y cultural de los Adolescentes;
+
+XVI.- Cumplir de inmediato con las resoluciones y requerimientos del Juez para Adolescentes;
+
+XVII.- Informar por escrito al Juez para Adolescentes, cuando menos una vez cada tres meses, sobre la forma en que está siendo cumplida la medida, cualquier obstáculo que se presente para el cumplimiento de la misma, el comportamiento y estado general de los Adolescentes;
+
+XVIII.- Estar en contacto permanente con los padres, familiares, tutores o con quienes ejerzan la patria potestad o la custodia de Adolescentes sujetos a medida, a fin de mantenerlos informados sobre el cumplimiento de ésta y sobre su estado físico y mental;
+
+XIX.- No utilizar la fuerza física o instrumentos de coerción, excepto cuando se hayan agotado todos los medios no coercitivos para la imposición de la disciplina, e informar al Juez para Adolescentes sobre la aplicación de estas medidas disciplinarias, en lo posible, antes de recurrir a ellas;
+
+XX.- Integrar un expediente de aplicación de la medida del Adolescente que contenga, por lo menos, la siguiente información:
+
+a) Los datos de identidad del Adolescente, e información relativa a los ingresos previos en los registros del Centro;
 
 b) La conducta tipificada como delito por la que fue impuesta la medida, las circunstancias y motivaciones de la misma y la autoridad judicial que la decretó;
 
@@ -533,21 +611,41 @@ c) Día y hora de inicio y finalización de la medida;
 
 d) Fecha posible en que pueda acceder a un beneficio de liberación anticipada;
 
-e) Datos acerca de la salud física y mental de la persona sujeta a medida;
+e) Datos acerca de la salud física y mental del Adolescentes (sic) sujeto a medida;
 
 f) El Programa Personalizado de Ejecución, así como sus modificaciones, reportes e incidencias;
 
-g) Un registro pormenorizado del comportamiento de la persona sujeta a la medida durante su estancia en el Centro de Internamiento, y
+g) Un registro pormenorizado del comportamiento del Adolescente sujeto a la medida durante su estancia en el Centro;
 
-h) Cualquier otro hecho, circunstancia o característica particular de la persona sujeta a medida que se considere importante.
+h) Cualquier otro hecho, circunstancia o característica particular del Adolescente sujeto a medida que se considere importante, y
+
+XXI.- Las demás que establezcan la Ley, su reglamento, así como las diversas disposiciones aplicables a la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2015)</small>
+
+#### SECCIÓN III. ÓRGANOS INTERNOS
+
+CENTROS DE TRATAMIENTO PARA ADOLESCENTES
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### Artículo 33.
+
+Cada Centro contará con un Consejo Técnico Interdisciplinario, a fin de llevar a cabo el Diagnóstico Integral de Personalidad, el Programa Personalizado de Ejecución, los programas asistenciales al Interno, así como en aquellos asuntos que les corresponda resolver de conformidad con esta Ley y demás disposiciones aplicables.
+
+El Consejo Técnico Interdisciplinario será integrado de conformidad con el reglamento correspondiente, debiendo invariablemente ser parte profesionistas de las áreas de Criminología, Educativa, Psicología, Psiquiatra, Médica, Proyectos Productivos y de Trabajo Social.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 34.
 
-A fin de llevar a cabo el programa Personalizado de Ejecución, el Centro de Ejecución de Medidas contará con un Consejo Técnico Interdisciplinario, mismo que será confirmado por profesionistas en las áreas de Criminología, Pedagogía, Psicología, Psiquiatría, Médica, Proyectos Productivos y de Trabajo Social. Dicho Consejo contará con un Coordinador Técnico.
+Cada Centro contará con una Comisión Disciplinaria, que será un órgano colegiado encargado de substanciar el procedimiento e imponer las sanciones disciplinarias a los Internos, por incurrir en infracciones al régimen disciplinario; con el objeto de mantener el orden, la paz y la seguridad del Centro.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 35.
 
-Todo lo relativo al funcionamiento y atribuciones del Consejo Técnico, de su Coordinador, así como de las áreas de Seguridad y Custodia, y Apoyo Administrativo, serán señalados en el reglamento interior del Centro.
+Todo lo relativo al funcionamiento y atribuciones de las áreas a que se refiere el artículo 31 de la presente Ley, así como del Consejo Técnico Interdisciplinario y la Comisión Disciplinaria, serán establecidos en el reglamento de los centros de tratamientos para adolescentes, que para tal efecto se expida por el Ejecutivo Estatal, de conformidad con esta Ley y las demás disposiciones aplicables.
 
 ### CAPÍTULO VI. DEL DEFENSOR DE OFICIO ESPECIALIZADO PARA ADOLESCENTES
 
@@ -675,9 +773,11 @@ Inmediatamente que el Ministerio Público para Adolescentes tenga conocimiento d
 
 El Ministerio Público para Adolescentes practicará en su caso las medidas y providencias a que se refiere el artículo anterior y las diligencias que estime pertinente para la comprobación de la edad exigible para la aplicación de esta Ley, la comprobación del cuerpo del ilícito tipificado como delito por las leyes estatales y la probable responsabilidad del adolescente en su comisión, de conformidad con las reglas aplicables a la averiguación previa a que se refiere el Código de Procedimientos Penales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 56.
 
-Solo en casos urgentes, cuando haya riesgo fundado de que el adolescente pretenda evadirse de la acción de la justicia y siempre que se trate de adolescentes mayores de catorce años de edad, el Ministerio Público para Adolescentes podrá, bajo su más estricta responsabilidad, ordenar por escrito su retención en el Centro de Diagnóstico para Adolescentes, y siempre que se trate de la comisión de una conducta considerada como grave por esta Ley, especificando lo siguiente:
+Solo en casos urgentes, cuando haya riesgo fundado de que el Adolescente pretenda evadirse de la acción de la justicia y siempre que se trate de adolescentes mayores de catorce años de edad, el Ministerio Público para Adolescentes pondrá, bajo su más estricta responsabilidad, ordenar por escrito su retención en el Centro, y siempre que ese trate de la comisión de una conducta considerada como grave por esta Ley, especificando lo siguiente:
 
 I.- Los datos que hagan presumir la existencia de los elementos que integran la conducta y la probable responsabilidad del adolescente;
 
@@ -697,7 +797,9 @@ III.- Inmediatamente después de realizarlo, la persona es señalada por la víc
 
 Cuando se detenga a un adolescente por un hecho que requiera querella de parte ofendida, se informará inmediatamente a quien pueda presentarla, y si éste no lo hace en ese momento, el adolescente será puesto en libertad de inmediato.
 
-El adolescente detenido en flagrancia queda a disposición del Ministerio Público para Adolescentes; su custodia física, sin embargo, es responsabilidad del Centro de Diagnóstico.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+El adolescente detenido en flagrancia queda a disposición del Ministerio Publico para Adolescentes; su custodia física, sin embargo, es responsabilidad del Centro.
 
 Al recibir el Ministerio Público para Adolescentes a un adolescente detenido, calificará inmediatamente la legalidad de la detención y, si ésta resulta injustificada, ordenará su libertad. En caso contrario, deberá integrar la investigación y resolver sobre el ejercicio de la acción de remisión en el término previsto en (sic) primer párrafo de este artículo, el cual solo podrá ampliarse por otras veinticuatro horas, cuando el adolescente o su defensa lo soliciten expresamente.
 
@@ -801,7 +903,9 @@ III.- Prohibición de acercarse a la víctima o a otras personas, de concurrir a
 
 IV.- Obligación de concurrir periódicamente al Juzgado o ante la autoridad que el Juez para Adolescentes determine;
 
-V.- La detención preventiva en su domicilio, centro médico o en el Centro de Diagnóstico para Adolescentes, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+V.- La detención preventiva en su domicilio, centro médico o en el Centro, y
 
 VI.- La obligación de someterse al cuidado o vigilancia de una persona o institución determinada, que informe regularmente al Juez para Adolescentes.
 
@@ -823,9 +927,11 @@ Para imponer cualquier tipo de medida cautelar el Ministerio Público para Adole
 
 Las medidas cautelares podrán dictarse y revocarse en cualquier momento hasta antes de dictarse resolución definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 73.
 
-En caso que se declare la sujeción del adolescente al procedimiento por la comisión de conductas tipificadas como delito por las leyes estatales, calificadas como graves por esta Ley, el Juez para Adolescentes deberá determinar si dicha sujeción se llevará a cabo estando bajo la guarda y custodia de sus representantes legales o encargados de su cuidado, o si quedará a disposición del Juzgado en los Centros de Diagnóstico para Adolescentes hasta en tanto se dicte la resolución definitiva.
+En caso que se declare la sujeción del Adolescente al procedimiento por la comisión de conductas tipificadas como delito por las leyes estatales, calificadas como graves por esta Ley, el Juez para Adolescentes deberá determinar si dicha sujeción se llevara a cabo estando bajo la guarda y custodia de sus representantes legales o encargados de su cuidado, o si quedara a disposición del Juzgado en el Centro hasta en tanto se dicte la resolución definitiva.
 
 En el supuesto que se refiere este artículo cuando el adolescente se sujete al proceso, estando bajo la guarda y custodia de sus representantes legales o encargados de su cuidado, estos tendrán la obligación de presentarlo, en los términos que señale el Juez para Adolescentes, así como a otorgar caución que garantice su buena conducta procesal y en su caso la reparación del daño.
 
@@ -839,9 +945,11 @@ Al concluir el plazo a que se refiere el artículo anterior, el Ministerio Públ
 
 Transcurrido este último plazo, el Juez para Adolescentes admitirá las pruebas que se desahogarán en la audiencia de juicio y fijará fecha para la celebración de ésta, la cual deberá verificarse dentro de los cinco días siguientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 76.
 
-Una vez declarada la sujeción al proceso del adolescente, el Juez para Adolescentes requerirá al Centro de Diagnóstico a efecto de que practique el Diagnóstico Integral de Personalidad, el cual deberá reunir los siguientes requisitos:
+Una vez declarada la sujeción al proceso del adolescente, el Juez para Adolescentes requerirá al Centro a efecto de que practique el Diagnóstico Integral de Personalidad, el cual deberá reunir los siguientes requisitos:
 
 I.- Lugar, fecha y hora en que se emita;
 
@@ -933,7 +1041,7 @@ Nunca se podrán incorporar como medio de prueba, o dar lectura, a las actas o d
 
 ###### Artículo 86.
 
-Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden emitan sus alegatos conclusivos.
+Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden, emitan sus alegatos conclusivos.
 
 En caso de manifiesto abuso de la palabra, el Juez para Adolescentes llamará la atención a la parte y si ésta persiste, podrá limitar racionalmente el tiempo del alegato, según la naturaleza y complejidad de los hechos en examen, las pruebas recibidas y las cuestiones a resolver.
 
@@ -987,9 +1095,11 @@ X.- El nombre y la firma del Juez para Adolescentes que la emita y del Secretari
 
 La simple relación de las pruebas, la mención de los requerimientos, argumentos o pretensiones de las partes, afirmaciones dogmáticas, fórmulas genéricas, o rituales no constituyen en caso alguno fundamentación ni motivación.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 91.
 
-Una vez firme la medida, el Juez para Adolescentes establecerá las condiciones y la forma en que el adolescente debe cumplirla, quedando a cargo de la Subsecretaría, por conducto del Centro de Ejecución de Medidas que corresponda.
+Una vez firme la medida, el Juez para Adolescentes establecerá las condiciones y la forma en que el Adolescente debe cumplirla, quedando a cargo de la Subsecretaría, por conducto del Centro que corresponda.
 
 ### CAPÍTULO V. DE LA SUSPENSIÓN DEL PROCEDIMIENTO
 
@@ -1317,13 +1427,17 @@ La libertad asistida consiste en permitir al adolescente a continuar con su vida
 
 El Programa Personalizado de Ejecución que se derive de la individualización de la medida, deberá estar dirigido, de modo que se afirme la cultura de legalidad y se aprecien las desventajas de comportamientos ilícitos frente a las leyes y los derechos de otras personas.
 
-El supervisor designado por el Centro de Ejecución de Medidas, dará seguimiento a la actividad del adolescente mientras dure la medida y tendrá las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
+El supervisor designado por el Centro, dará seguimiento a la actividad del Adolescente mientras dura la medida y tendrá las siguientes obligaciones:
 
 I.- Supervisar la asistencia y aprovechamiento del adolescente a los programas de actividades previstas en la individualización de la medida, y proporcionar la orientación requerida;
 
 II.- Promover socialmente al adolescente y su familia proporcionándoles orientación, y
 
-III.- Presentar los informes que le requieran el Centro de Ejecución y el Juez para Adolescentes.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+III.- Presentar los informes que le requieran el Centro y el Juez para Adolescentes.
 
 #### SECCIÓN IV. DEL TRABAJO A FAVOR DE LA COMUNIDAD
 
@@ -1351,11 +1465,15 @@ IV.- El número de horas, días, semanas, meses, o años durante los cuales debe
 
 V.- La autoridad que se encargará de asignar personal que supervise el cumplimiento de la medida.
 
-El supervisor debe visitar periódicamente el lugar donde se presta el servicio e informar al Centro de Ejecución de Medidas, la forma en que la medida se está cumpliendo. Dicho servidor público podrá auxiliarse de un miembro de la institución u organización pública o privada en donde se cumplirá con la medida; sin que por ello se entienda delegada la función de inspección.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+El supervisor debe visitar periódicamente el lugar donde se presta el servicio e informar al Centro, la forma en que la medida se está cumpliendo. Dicho servidor público podrá auxiliarse de un miembro de la institución u organización pública o privada en donde se cumplirá con la medida, sin que por ello se entienda delegada la función de inspección.
 
 Para la determinación del servicio, se preferirán las entidades y programas del lugar de origen del adolescente, o de donde resida habitualmente.
 
-La entidad, institución, u organización en donde se esté prestando el servicio, deberá informar mensualmente al Centró de Ejecución de Medidas, sobre el desempeño del adolescente y cualquier situación que se presente duramente la ejecución de la medida.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+La entidad, institución, u organización en donde se esté prestando el servicio, deberá informar mensualmente al Centro, sobre el desempeño del adolescente y cualquier situación que se presente durante la ejecución de la medida.
 
 La inasistencia injustificada del adolescente por más de tres ocasiones en el lapso de treinta días, así como la falta de disciplina, y actitud negativa en el desempeño de la prestación del servicio, serán causales de incumplimiento.
 
@@ -1383,7 +1501,9 @@ La prohibición de relacionarse con determinadas personas, consiste en ordenar a
 
 El Juez para Adolescentes, al determinar la medida prevista en esta Sección, deberá indicar, en forma clara y precisa, con qué personas no deberá relacionarse el adolescente, la restricción de acercamiento familiar para las conductas tipificadas como delitos contra la libertad y seguridad sexual de las personas, en su caso las razones por las cuales se toma esta determinación y el tiempo de vigencia de la misma, que no podrá ser mayor de tres años.
 
-El Centro de Ejecución de Medidas deberá informar a dicho juzgador por lo menos en una ocasión cada tres meses, sobre el cumplimiento de la medida.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+El Centro deberá informar a dicho juzgador por lo menos en una ocasión cada tres meses, sobre el cumplimiento de la medida.
 
 El Juez para Adolescentes deberá notificar a los adultos sobre la prohibición de relacionarse con adolescentes, en los términos de las leyes respectivas.
 
@@ -1445,9 +1565,11 @@ II.- No discriminar al adolescente por ningún motivo, y
 
 III.- Brindar toda la información que le requiera la Subsecretaría o el Juez para Adolescentes, respecto del cumplimiento de la medida por parte del adolescente.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 139.
 
-El Centro de Ejecución de Medidas debe designar un supervisor que informará al Juez para Adolescentes, por lo menos una vez cada tres meses, sobre la evolución, avances y retrocesos del adolescente.
+El Centro debe designar un supervisor que informara al Juez para Adolescentes, por lo menos una vez cada tres meses, sobre la evolución, avances y retrocesos del Adolescente.
 
 ###### Artículo 140.
 
@@ -1551,15 +1673,19 @@ IV.- A la incorporación en programas de prevención del uso indebido de drogas 
 
 Las medidas de tratamiento implicarán limitaciones a la libertad de tránsito del adolescente y por tanto deben aplicarse sólo como último recurso y de modo subsidiario también entre ellas.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 154.
 
-Salvo en el caso del internamiento domiciliario, las medidas de tratamiento se aplicarán exclusivamente en los Centros de Ejecución de Medidas. La duración de estas medidas deberá tener relación directa con la conducta cometida, sin poder exceder los límites que en cada caso determina esta Ley.
+Salvo en el caso del internamiento domiciliario, las medidas de tratamientos se aplicaran exclusivamente en los Centros. La duración de estas medidas deberá tener relación directa con la conducta cometida, sin poder exceder los límites que en cada caso determina esta Ley.
 
-Bajo ninguna circunstancia se autorizará la permanencia del adolescente en cualquiera de los Centros de Ejecución de Medidas, con el fundamento de que no existe otra forma de garantizar sus derechos.
+Bajo ninguna circunstancia se autorizara la permanencia del Adolescente en cualquiera de los Centros, con el fundamento de que no existe otra forma de garantizar sus derechos.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 155.
 
-En cualquier momento en el que el personal de la Subsecretaría o de los Centros de Ejecución de Medidas se percate de que el adolescente presenta alguna discapacidad intelectual, o bien, alguna enfermedad mental, informará de su estado al Juez para Adolescentes, quien sin perjuicio de la medida impuesta podrá ordenar el tratamiento médico que corresponda.
+En cualquier momento en el que el personal de la Subsecretaría o de los Centros se percate de que el Adolescente presenta alguna discapacidad intelectual, o bien, alguna enfermedad mental, informara de su estado al Juez para Adolescentes, quien sin perjuicio de la medida impuesta podrá ordenar el tratamiento médico que corresponda.
 
 #### SECCIÓN I. DEL TRATAMIENTO EXTERNO
 
@@ -1567,17 +1693,21 @@ En cualquier momento en el que el personal de la Subsecretaría o de los Centros
 
 El internamiento domiciliario consiste en la prohibición al adolescente de salir de su casa habitación. De no ser ello posible, por razones de conveniencia, esta medida podrá practicarse en la casa de cualquier familiar.
 
-La finalidad de esta medida es la privación del derecho a la libertad de tránsito dentro de los límites del propio domicilio, sin afectar el cumplimiento de las obligaciones laborales, educativas, terapéuticas y demás, que imponga el Juez para Adolescentes como condicionante para dicha medida. Un supervisor designado por el Centro de ejecución de Medidas, vigilará el cumplimiento de ésta medida, cuya duración no podrá ser mayor de tres años.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+La finalidad de esta medida es la privación del derecho a la libertad de tránsito dentro de los límites del propio domicilio, sin afectar el cumplimiento de las obligaciones laborales, educativas, terapéuticas y demás, que imponga el Juez para Adolescentes como condicionante para dicha medida. Un supervisor designado por el Centro, vigilará el cumplimiento de esta medida, cuya duración no podrá ser mayor de tres años.
 
 ###### Artículo 157.
 
-El Juez para Adolescentes fijará la duración esta medida, los permisos que correspondan para salir del domicilio y las razones por las que pueden ser concedidos. En el Programa Personalizado de Ejecución deberán establecerse las actividades que puede realizar el adolescente sujeto a la medida.
+El Juez para Adolescentes fijará la duración de esta medida, los permisos que correspondan para salir del domicilio y las razones por las que pueden ser concedidos. En el Programa Personalizado de Ejecución deberán establecerse las actividades que puede realizar el adolescente sujeto a la medida.
 
 #### SECCIÓN II. DEL TRATAMIENTO INTERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 158.
 
-La medida de tratamiento interno es la más grave prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los Centros de Ejecución de Medidas, de los que podrán salir los adolescentes sólo mediante orden escrita de autoridad judicial competente.
+La medida de tratamiento interno es la más grave prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los Centros, de los que podrán salir los Adolescentes solo mediante orden escrita de autoridad judicial competente.
 
 Esta medida sólo se puede imponer a quienes tengan o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y dieciocho años no cumplidos, y siempre que se trate de alguno (sic) de las conductas tipificadas como delitos calificados como graves de conformidad con lo dispuesto en el artículo siguiente.
 
@@ -1615,7 +1745,7 @@ XIV.- Pornografía Infantil, prevista por el artículo 261-Bis del Código Penal
 
 XV.- Terrorismo en su tipo genérico, previsto en el artículo 279 del Código Penal, exceptuando su encubrimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1625,7 +1755,7 @@ Para fines del otorgamiento de la libertad provisional bajo caución, tratándos
 
 El Juez para Adolescentes deberá determinar el tiempo de duración de la medida, para lo cual tomará en cuenta lo siguiente:
 
-I.- Los requerimientos de tratamiento y el grado de desadaptación social del adolescente, tomado en base al (sic) Diagnóstico Integral de Personalidad, y
+I.- Los requerimientos de tratamiento y el grado de desadaptación social del adolescente, tomado en base al Diagnóstico Integral de Personalidad, y
 
 II.- La naturaleza de los hechos y el grado de afectación al bien jurídicamente tutelado.
 
@@ -1643,9 +1773,11 @@ La aplicación de la medida prevista en esta Sección, se debe cumplir en lugare
 
 #### SECCIÓN III. DE LA SEMILIBERTAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 163.
 
-El tratamiento en semilibertad, consiste en la restricción parcial de la libertad del adolescente, a manera de internación en un Centro de Ejecución de Medidas, en fines de semana, con entrada el viernes en la noche y salida el lunes en la mañana.
+El tratamiento en semilibertad, consiste en la restricción parcial de la libertad del Adolescente, a manera de internación en un Centro, en fines de semana, con entrada el viernes en la noche y salida el lunes en la mañana.
 
 Dicha medida tendrá la finalidad de que el adolescente, desarrolle actividades laborales o educativas en sus periodos de egreso. La duración de esta medida, no podrá exceder de 2 años.
 
@@ -1653,17 +1785,25 @@ Dicha medida tendrá la finalidad de que el adolescente, desarrolle actividades 
 
 En el Programa Personalizado de Ejecución del tratamiento en semilibertad se establecerán por lo menos los siguientes aspectos:
 
-I.- El Centro de Ejecución de Medidas donde el adolescente, deberá cumplir la medida impuesta;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+I.- El Centro donde el Adolescente, deberá cumplir la medida impuesta;
 
 II.- Los días y horas en que debe presentarse y permanecer en las instalaciones especificadas en el programa;
 
-III.- Las actividades que deberá realizar en el Centro de Ejecución de Medidas, y durante sus periodos de externación, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-IV.- Las disposiciones reglamentarias del Centro de Ejecución de Medidas que sean aplicables durante los periodos de privación de libertad a los que está sujeta la persona a quien se ha impuesto la medida.
+III.- Las actividades que deberá realizar el Centro, y durante sus (sic) periodo de externación, y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+IV.- Las disposiciones reglamentarias del Centro que sean aplicables durante los periodos de privación de libertad a los que está sujeta la persona a quien se ha impuesto la medida.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 165.
 
-Los espacios del Centro de Ejecución de Medidas, destinados para los ingresos del adolescente, deberán estar totalmente separados de aquéllos destinados al cumplimiento del tratamiento en internación.
+Los espacios del Centro, destinados para los ingresos del Adolescente, deberán estar totalmente separados de aquellos destinados al cumplimiento del tratamiento en internación.
 
 ###### Artículo 166.
 
@@ -1721,9 +1861,11 @@ El Juez para Adolescentes es la autoridad judicial responsable del control y sup
 
 En los términos de las leyes aplicables, incurre en responsabilidad la autoridad administrativa que no cumpla las órdenes del Juez para Adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 173.
 
-La Subsecretaría y los Directores de los Centros de Ejecución de Medidas tomarán las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas, pero no podrán hacerlo cuando se involucren cambios en la situación jurídica de los adolescentes sujetos a medidas, ni cuando se comprometan sus derechos.
+La Subsecretaría y los directores de los Centros tomarán las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas, pero no podrán hacerlo cuando se involucren cambios en la situación jurídica de los Adolescentes sujetos a medidas, ni cuando se comprometan sus derechos.
 
 Todas las decisiones que tomen las autoridades administrativas referidas en este artículo, deberán estar debidamente fundadas y motivadas.
 
@@ -1749,13 +1891,17 @@ VI.- Cualquier otra acción que permita a los padres, familiares, responsables, 
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE APLICACIÓN
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 176.
 
-Si la resolución es condenatoria, el Juez para Adolescentes que la emitió deberá notificarla de inmediato a la Subsecretaría y al Centro de Ejecución de Medidas correspondiente, en caso de determinarse una medida de este tipo a fin de que se inicie el procedimiento de aplicación.
+Si la resolución es condenatoria, el Juez para Adolescentes que la emitió deberá notificarla de inmediato a la Subsecretaría y al Centro correspondiente, en caso de determinarse una medida de este tipo a fin de que se inicie el procedimiento de aplicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### Artículo 177.
 
-Para la aplicación de la medida, el Juez para Adolescentes ordenará la elaboración de un Programa Personalizado de Ejecución, mismo que se verificará por conducto del Consejo Técnico Interdisciplinario del Centro de Ejecución de Medidas indicado por dicho juzgador. Este programa deberá:
+Para la aplicación de la medida, el Juez para Adolescentes ordenara la elaboración de un Programa Personalizado de Ejecución, mismo que se verificará por conducto del Consejo Técnico Interdisciplinario del Centro indicado por dicho juzgador. Este programa deberá:
 
 I.- Sujetarse a los fines y funciones de la o las medidas impuestas por el Juez para Adolescentes;
 
@@ -1768,6 +1914,8 @@ IV.- Contener una descripción clara y detallada de los objetivos particulares d
 V.- Señalar claramente las condiciones y forma en que deberá ser cumplido;
 
 VI.- Orientarse en los parámetros de la educación, la resolución pacifica de conflictos y los derechos humanos como criterios para la convivencia armónica, y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
 VII.- Indicar si la aplicación de la medida estará exclusivamente a cargo del Centro de Ejecución de Medidas, o se contará con el apoyo de alguna institución pública o privada.
 
@@ -1789,9 +1937,11 @@ A sugerencia del personal encargado de ejecutar el Programa, se podrá modificar
 
 Al momento de ser notificado de la medida impuesta, el Juez para Adolescentes le informará personalmente al adolescente los derechos y garantías que le asisten durante el cumplimiento de la misma, así como sus deberes y obligaciones.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 181.
 
-El Centro de Ejecución de Medidas tendrá la obligación de remitir al Juez para Adolescentes, cada tres meses, un informe detallado sobre el desarrollo del Programa Personalizado de Ejecución, haciendo énfasis en los progresos u obstáculos que se hayan presentado. Dicho informe deberá contener los argumentos, recomendaciones y firma, de cada uno de los miembros del Consejo Técnico Interdisciplinario.
+El Centro tendrá la obligación de remitir al Juez para Adolescentes, cada tres meses, un informe detallado sobre el desarrollo del Programa Personalizado de Ejecución, haciendo énfasis en los progresos u obstáculos que se hayan presentado. Dicho informe deberá contener los argumentos, recomendaciones y firma, de cada uno de los miembros del Consejo Técnico Interdisciplinario.
 
 ### CAPÍTULO III. DE LA ADECUACIÓN Y CUMPLIMIENTO ANTICIPADO DE LA MEDIDA
 
@@ -1835,13 +1985,17 @@ Si el adolescente no cumpliere con el apercibimiento judicial que se le hubiere 
 
 Cuando se determine el incumplimiento a una medida de orientación o protección, la modificación tendrá el efecto de aplicar la totalidad del tiempo remanente en su medida, bajo la modalidad de un internamiento domiciliario.
 
-Cuando se haya incumplido con la medida de internamiento domiciliario o semilibertad, y se trate de adolescentes mayores de catorce años, sujetos a medidas por conductas certificadas como graves de conformidad a la presente Ley, la modificación tendrá el efecto de cumplir el tiempo total que le resta de su medida, en internación institucional. Para éste fin, el Juez para Adolescentes ordenará la detención inmediata del adolescente, para ser turnado al Centro de Ejecución de Medidas que designe dicho juzgador, haciendo efectiva en su caso, la garantía que se hubiere depositado al concedérsele la medida.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Cuando se haya incumplido con la medida de internamiento domiciliario o semilibertad, y se trate de Adolescentes mayores de catorce años, sujetos a medidas por conductas calificadas como graves de conformidad a la presente Ley, la modificación tendrá el efecto de cumplir el tiempo total que le resta de su medida, en internación institucional. Para este fin, el Juez para Adolescentes ordenará la detención inmediata del Adolescente, para ser turnado al Centro que designe dicho juzgador, haciendo efectiva en su caso, la garantía que se hubiere depositado al concedérsele la medida.
 
 ### CAPÍTULO V. DEL CONTROL DE LA MEDIDA DE INTERNAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 191.
 
-En caso de que se trate de una medida de internamiento, el Director del Centro de Ejecución de Medidas, verificará personalmente el ingreso del adolescente y deberá hacerle saber el reglamento al que queda sujeto, así como los derechos y garantías que le asisten mientras se encuentre en internamiento. Elaborará, en ese momento, un acta circunstanciada en la que hará constar:
+En caso de que se trate de una medida de internamiento, el Director del Centro, verificará personalmente el ingreso del Adolescente y deberá hacerle saber el reglamento al que queda sujeto, así como los derechos y garantías que le asisten mientras se encuentre en internamiento. Elaborará, en ese momento, un acta circunstanciada en la que hará constar:
 
 I.- Los datos personales del adolescente;
 
@@ -1859,9 +2013,13 @@ Dicha acta circunstanciada, deberá ser remitida en un término no mayor de tres
 
 En el caso de la medida de tratamiento interno, el Juez para Adolescentes verificará que el Programa Personalizado de Ejecución especifique, además:
 
-I.- La sección del Centro de Ejecución de Medidas en donde la persona deberá cumplir con la medida;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-II.- Los lineamientos para la determinación de los posibles permisos a que tendrá derecho el adolescente para salir temporalmente del Centro de Ejecución de Medidas;
+I.- La sección del Centro en donde la persona deberá cumplir con la medida;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+II.- Los lineamientos para la determinación de los posibles permisos a que tendrá derecho el Adolescente para salir temporalmente del Centro;
 
 III.- La determinación de las actividades educativas, deportivas, culturales, laborales o formativas en las que participará;
 
@@ -1871,9 +2029,11 @@ V.- Las medidas necesarias para, en su momento, preparar la liberación de los a
 
 Se procurará incluir la realización de actividades colectivas entre los adolescentes internos, a fin de fomentar una convivencia similar a la practicada en libertad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 193.
 
-La Subsecretaría, tendrá la obligación de verificar periódicamente que los Centros de Ejecución de Medidas tengan la capacidad para internar personas en condiciones adecuadas y que sus espacios respondan a la finalidad de favorecer la aplicación de un tratamiento exitoso, de modo que su estructura y equipamiento deba sujetarse, por lo menos, a los siguientes principios:
+La Subsecretaría, tendrá la obligación de verificar periódicamente que los Centros tengan la capacidad para internar personas en condiciones adecuadas y que sus espacios respondan a la finalidad de favorecer la aplicación de un tratamiento exitoso, de modo que su estructura y equipamiento deba sujetarse, por lo menos, a los siguientes principios:
 
 I.- Condiciones de respeto a la dignidad del adolescente;
 
@@ -1911,9 +2071,11 @@ e) Actividades deportivas y recreativas.
 
 El personal de las áreas destinadas al internamiento de mujeres adolescentes debe ser femenino.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 194.
 
-El régimen interior de los centros de Ejecución de Medidas estará regulado por un reglamento interno; el cual deberá establecer al menos:
+El régimen interior de los Centros estará regulado por un reglamento, el cual deberá establecer al menos:
 
 I.- Los derechos, garantías y deberes de las personas internadas;
 
@@ -1933,7 +2095,7 @@ VI.- Los horarios y lineamientos generales para los servicios de alimentación.
 
 Los objetos, instrumentos y productos que hayan sido utilizados para la comisión de la conducta tipificada como delito, serán asegurados por las autoridades ministeriales o jurisdiccionales, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1983,15 +2145,15 @@ El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otor
 
 En el procedimiento para adolescentes y en la ejecución de las medidas, sólo se admitirán los siguientes recursos, según corresponda:
 
-I. Revocación;
+I.- Revocación;
 
-II. Apelación;
+II.- Apelación;
 
-III.- Revisión
+III.- Revisión;
 
-IV. Queja y
+IV.- Queja; y
 
-V. Reclamación.
+V.- Reclamación.
 
 ###### Artículo 203.
 
@@ -2153,7 +2315,7 @@ Siempre que el Magistrado para Adolescentes encuentre retardado indebidamente el
 
 ###### Artículo 231.
 
-Cuando el Magistrado para Adolescente notare que el defensor del adolescente hubiere faltado a sus deberes, no interponiendo los recursos que procedieren o abandonando los interpuestos, si por las constancias de la causa apareciere que debían prosperar o no, alegando circunstancias probadas en el proceso y que habrían favorecido notablemente al adolescente, o alegando hechos falsos, o puntos de derecho notoriamente inaplicables, se procederá como previene el artículo anterior.
+Cuando el Magistrado para Adolescente (sic) notare que el defensor del adolescente hubiere faltado a sus deberes, no interponiendo los recursos que procedieren o abandonando los interpuestos, si por las constancias de la causa apareciere que debían prosperar o no, alegando circunstancias probadas en el proceso y que habrían favorecido notablemente al adolescente, o alegando hechos falsos, o puntos de derecho notoriamente inaplicables, se procederá como previene el artículo anterior.
 
 Si el defensor fuere de oficio, el Magistrado para Adolescentes estará obligado a llamar la atención del superior de aquél sobre la negligencia o ineptitud manifestadas.
 
@@ -2169,11 +2331,15 @@ La resolución que se dicte podrá confirmar, modificar o revocar la determinaci
 
 ### CAPÍTULO V. DEL RECURSO DE QUEJA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 233.
 
-El adolescente sujeto a alguna de las medidas previstas por esta Ley, podrá presentar quejas, directamente o a través de sus representantes legales o los encargados de su cuidado, contra los actos emitidos por los Centros de Ejecución de Medidas, que transgredan o impliquen una inminente vulneración de sus derechos y garantías.
+El Adolescente sujeto a alguna de las medidas previstas por esta Ley, podrá presentar quejas, directamente o a través de sus representantes legales o los encargados de su cuidado, contra los actos emitidos por los Centros, que trasgredan o impliquen una inminente vulneración de sus derechos y garantías.
 
-Las quejas pueden ser presentadas de manera oral o escrita dentro de los cinco días siguientes a que se tenga conocimiento del acto que se reclama, ante el titular del Centro de Ejecución de Medidas o ante la Subsecretaría, debiendo esta realizar inmediatamente la investigación respectiva y dictar una resolución en un plazo no mayor a cinco días.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
+Las quejas pueden ser presentadas de manera oral o escrita dentro de los cinco días siguientes a que se tenga conocimiento del acto que se reclama, ante el titular del Centro o ante la Subsecretaría, debiendo esta realizar inmediatamente la investigación respectiva y dictar una resolución en un plazo no mayor a cinco días.
 
 La Subsecretaría dispondrá, en su caso, las medidas necesarias para salvaguardar los derechos del adolescente mientras se resuelve la queja.
 
@@ -2183,9 +2349,11 @@ Cuando el motivo de la queja se sustente en la trasgresión o en una inminente v
 
 ### CAPÍTULO VI. DEL RECURSO DE RECLAMACIÓN
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 235.
 
-Contra las resoluciones dictadas por la Subsecretaría o por cualquier autoridad de los centros de internamiento que vulneren los derechos y garantías de los adolescentes, o bien contra la falta de respuesta a una queja presentada en los términos del Capítulo anterior, procederá el recurso de reclamación ante el Juez para Adolescentes.
+Contra las resoluciones dictadas por la Subsecretaría o por cualquier autoridad de los Centros, que vulneren los derechos y garantías de los Adolescentes, o bien contra la falta de respuesta a una queja presentada en los términos del Capítulo anterior, procederá el recurso de reclamación ante el Juez para Adolescentes.
 
 ###### Artículo 236.
 
@@ -2296,3 +2464,13 @@ P.O. 28 DE JUNIO DE 2013.
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 10 DE ABRIL DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Diagnósticos Integrales de Personalidad, los Programas Personalizados de Ejecución, los programas técnicos y asistenciales, y demás actividades emitidos o iniciados previo a la vigencia de la presente reforma, por los Centros de Diagnóstico para Adolescentes y Centro de Ejecución de Medidas para Adolescentes en el Estado, tendrán plena validez y serán reconocidos y aplicados por los Centros de Tratamiento para Adolescentes en el Estado de Baja California.
+
+TERCERO.- El Reglamento de los Centros de Tratamiento para Adolescentes para el Estado de Baja California, deberá ser expedido por el Ejecutivo Estatal a más tardar en un plazo de ciento ochenta días a partir del inicio de la vigencia del presente Decreto.
+
+CUARTO.- Para los efectos del transitorio tercero, fracción III, párrafo primero de la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, las referencias hechas a los Centros de Ejecución de Medidas y Centros de Diagnóstico, se entenderán hechas a los Centros de Tratamiento para Adolescentes a que se refiere la presente ley.
