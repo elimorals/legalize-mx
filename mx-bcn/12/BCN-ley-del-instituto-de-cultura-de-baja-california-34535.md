@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2013-04-26"
+last_updated: "2015-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -213,9 +213,15 @@ IV. Coadyuvar en la capacitación de los instructores en materia de educación c
 
 V. Crear, formar y promover talleres de disciplinas artísticas para personas con capacidades diferentes;
 
-VI. Colaborar en la supervisión y evaluación de los planes y programas establecidos en materia de educación cultural y artística, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-VII. Las demás que sean necesarias para el desarrollo cultural, artístico y educativo en el Estado, cuando no contravengan lo dispuesto por esta Ley y demás disposiciones aplicables.
+VI. Colaborar en la supervisión y evaluación de los planes y programas establecidos en materia de educación cultural y artística;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+VII. Promover acciones para que los alumnos de educación básica realicen visitas periódicas a los museos en el Estado; y
+
+VIII. Las demás que sean necesarias para el desarrollo cultural, artístico y educativo en el Estado, cuando no contravengan lo dispuesto por esta Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO V. DE LOS ÓRGANOS DEL ICBC
 
@@ -249,7 +255,7 @@ d) El Oficial Mayor de Gobierno;
 
 e) Un representante de las instituciones públicas de educación media superior, superior e institutos de investigación;
 
-f) Un representante de las instituciones privadas de educación media superior, superior e institutos de investigación, y (sic)
+f) Un representante de las instituciones privadas de educación media superior, superior e institutos de investigación, y
 
 g) Un representante de los organismos empresariales del sector privado en el Estado.
 
@@ -521,7 +527,7 @@ V. Las demás que resulten necesarias para el adecuado cumplimiento de sus funci
 
 ###### ARTÍCULO 44.
 
-La vigilancia del ICBC estará a cargo de un comisario público propietario y un suplente, que serán designados por el titular de la Dirección de Control y Evaluación Gubernamental, y ejercerán las atribuciones que expresamente les confieran las leyes y demás disposiciones aplicables en la materia. E1 comisario público asistirá y participará en las sesiones de la Junta de Gobierno, con derecho a voz pero sin voto.
+La vigilancia del ICBC estará a cargo de un comisario público propietario y un suplente, que serán designados por el titular de la Dirección de Control y Evaluación Gubernamental, y ejercerán las atribuciones que expresamente les confieran las leyes y demás disposiciones aplicables en la materia. El comisario público asistirá y participará en las sesiones de la Junta de Gobierno, con derecho a voz pero sin voto.
 
 El ICBC contará dentro de su estructura con un órgano de control interno, que operará conforme a los lineamientos que emita la Dirección de Control y Evaluación Gubernamental y ejercerá las funciones que le confieran la Ley de la materia y demás ordenamientos aplicables.
 
@@ -602,3 +608,9 @@ DECRETO NO. 442, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15 Y 17 DE LA LEY DEL INS
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado, órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
 
 SEGUNDO: El Poder Ejecutivo Estatal, efectuará las reformas al reglamento en materia de cultura con el objeto de integrar los ajustes necesarios de las presentes reformas a la norma vigente.
+
+P.O. 10 DE ABRIL DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, efectuará las reformas a los reglamentos correspondientes dentro de los noventa días siguientes a su entrada en vigor.
