@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-de-seguridad-publica-del-estado-de-69314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-21"
-last_updated: "2014-12-11"
+last_updated: "2015-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MIC"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE MICHOACÁN SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y SEXTO TRANSITORIO DEL DECRETO NÚMERO 352 POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. 11 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ES ABROGADO EN LA MISMA FECHA QUE SEÑALE LA DECLARATORIA QUE AL EFECTO EXPIDA EL CONGRESO PARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2014 (ABROGADO).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 10 DE ABRIL DE 2015.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de julio de 2009.
 
@@ -2611,7 +2611,9 @@ P.O. 11 DE DICIEMBRE DE 2014.
 
 Primero. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Segundo. El presente Decreto entrará en vigor en la misma fecha que señale la Declaratoria que al efecto expida el Congreso para la entrada en vigor del Código Nacional de Procedimientos Penales.
+> <small>(F. DE E., P.O. 10 DE ABRIL DE 2015)</small>
+
+Segundo. En cuanto a las disposiciones contenidas en (sic) presente Decreto, relacionadas con la Implementación del Nuevo Sistema de Justicia Penal, entrará en vigor en la la (sic) fecha en que señala la Declaratoria que al efecto expida el Congreso para la entrada en vigor del Código Nacional de Procedimientos Penales. En lo no correspondiente al Nuevo Sistema de Justicia Penal, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Tercero. El Titular del Poder Ejecutivo del Estado y de los Ayuntamientos cuentan con 60 sesenta días naturales posteriores a la publicación del presente Decreto para emitir los reglamentos y realizar las adecuaciones jurídico-administrativas necesarias para el adecuado funcionamiento del presente ordenamiento.
 
