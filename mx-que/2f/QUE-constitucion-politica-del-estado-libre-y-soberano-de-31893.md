@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2014-06-26"
+last_updated: "2015-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO --
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE ABRIL DE 2015.</small>
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -601,9 +601,9 @@ IX. Revisar y, en su caso, revocar los acuerdos que emita el Consejo de la Judic
 
 X. Las demás que establezca esta Constitución y las demás leyes.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+(REFORMADO, P.O. 26 DE JUNIO DE 2014) (F. DE E., P.O. 10 DE ABRIL DE 2015)
 
-Se exceptúan de la competencia del Pleno las previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal, presupuestal y electoral.
+Se exceptúan de la competencia del Pleno y de las Salas previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal, presupuestal y electoral.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
 
