@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-de-la-comision-estatal-de-vivienda-70709"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-26"
-last_updated: "2009-09-26"
+last_updated: "2015-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE VIVIENDA
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE VIVIENDA
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE VIVIENDA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE VIVIENDA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 26 de septiembre de 2009.
 
@@ -670,3 +672,13 @@ COMISARIO DEL CONSEJO DE ADMINISTRACIÓN.
 SECRETARIO DE LA CONTRALORÍA
 
 LAE. BERNARDO JESÚS BARRAGÁN SALAZAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 10 DE ABRIL DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no esten expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interior de la Comisión Estatal de Vivienda, publicado en el Periódico Oficial del Gobierno del Estado, el 26 de septiembre del año 2009.
