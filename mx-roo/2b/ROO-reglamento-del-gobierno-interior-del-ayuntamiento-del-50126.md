@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2014-12-10"
+last_updated: "2015-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -1027,6 +1027,10 @@ VIII. Procurar la protección, preservación, desarrollo y difusión de las leng
 
 IX. Proponer y vigilar que se promuevan y estimulen acciones tendientes a la práctica de los deportes dentro del Municipio favoreciendo el deporte popular para procurar el desarrollo físico y mental de sus habitantes
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+X. Expedir, en coordinación con la Dirección General de Educación Municipal y en representación del Honorable Ayuntamiento, la Convocatoria anual previamente aprobada por el Cabildo, del programa "Cabildo Infantil por un Día", así como llevar a cabo la selección de los participantes y la logística del evento que para tal efecto se realice.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 112.
@@ -1285,7 +1289,7 @@ VI. Los servidores públicos municipales que se pretende los acompañen, que en 
 
 ###### Artículo 128.
 
-En la Sesión Ordinaria inmediata a la culminación de la visita, los integrantes de la Comisión Especial, por conducto de su presidente, deberá rendir un informe al Ayuntamiento que contenga las actividades realizadas y los beneficios obtenidos durante ésta; (sic)
+En la Sesión Ordinaria inmediata a la culminación de la visita, los integrantes de la Comisión Especial, por conducto de su presidente, deberá rendir un informe al Ayuntamiento que contenga las actividades realizadas y los beneficios obtenidos durante ésta;
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -1810,3 +1814,11 @@ P.O. 10 DE DICIEMBRE DE 2014.
 TERCERO.- Las reformas reglamentarias objeto de los puntos que anteceden, entraran en vigor a partir al día siguiente de su publicación en el periódico oficial del gobierno del Estado de Quintana Roo.
 
 CUARTO.- Para los efectos legales conducentes publíquense las reformas reglamentarias objeto de los puntos que anteceden, en la Gaceta Oficial del Municipio de Benito Juárez, Quintana Roo.
+
+P.O. 10 DE ABRIL DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo y de la Gaceta Oficial del Municipio de Benito Juárez, Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a las presentes reformas.
+
+TERCERO.- Remítase el presente dictamen al pleno del Honorable Ayuntamiento de Benito Juárez, Quintana Roo, para los efectos legales conducentes.
