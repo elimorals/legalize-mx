@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2015-02-13"
+last_updated: "2015-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -267,7 +267,7 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 
 ### CAPITULO IV.. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 7.
 
@@ -287,15 +287,33 @@ El acceso al agua para consumo personal y doméstico es un derecho que tiene tod
 
 Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
 
-APARTADO B. De la Procuraduría de los Derechos Humanos y Protección Ciudadana.
+APARTADO B. De la Comisión Estatal de los Derechos Humanos.
 
-Se establecerá por medio de una Ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo público, dotado de autonomía presupuestaria y de gestión, con personalidad jurídica y patrimonio propio, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público.
+Corresponde a la Comisión Estatal de los Derechos Humanos, la protección, observancia, y promoción de los derechos humanos que amparan las disposiciones jurídicas. Será un organismo público autónomo, con personalidad jurídica y patrimonio propio, contará con autonomía de gestión y presupuestaria, de reglamentación interna y de decisión.
 
-Este organismo formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar y motivar y hacer pública su negativa; asimismo, el Congreso del Estado, podrá llamar a solicitud del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana, a las autoridades y servidores públicos responsables para que comparezcan, a efecto de que expliquen el motivo de su negativa.
+Estará a cargo de un Presidente, que será electo por las dos terceras partes de los Diputados que integran el Poder Legislativo, por un periodo de cuatro años, dentro del cual solo podrá ser removido por las causas que se señalan en ésta Constitución y la Ley. No podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docente (sic), científicas o de beneficencia.
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional, por lo que carece de facultades para modificar por sí misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus determinaciones también podrán consistir en proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidos a los servidores públicos. Este organismo no es competente tratándose de asuntos electorales y jurisdiccionales.
+El procedimiento para la elección del presidente de la Comisión Estatal de los Derechos Humanos, se ajustará a una consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
-La Ley garantizará al Procurador su independencia y autonomía en el desempeño de su cargo, asimismo determinará los procedimientos para su nombramiento, la duración del cargo, sus funciones y facultades así como las demás condiciones necesarias para garantizar su eficacia. La elección del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana se sujetará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
+La Comisión Estatal de los Derechos Humanos contará con las siguientes funciones:
+
+I. Conocer e investigar a petición de parte, o de oficio, presuntas violaciones de derechos humanos en los siguientes casos:
+
+a) Por actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que tengan carácter estatal o municipal, que violen derechos humanos. Este órgano no será competente tratándose de asuntos electorales y jurisdiccionales.
+
+b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente le correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas.
+
+II. Formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+
+III. Podrá solicitar al Congreso del Estado, la comparecencia de las autoridades o servidores públicos responsables que incumplan con las obligaciones mencionadas en la fracción anterior, para que acudan ante el Pleno del Congreso, y expliquen el motivo de su negativa, en los términos que señale la Ley.
+
+IV. Promoverá las acciones de inconstitucionalidad en contra de disposiciones jurídicas, emitidas por el Poder Legislativo y publicadas en el periódico oficial del estado que vulneren derechos humanos.
+
+V. Aprobará por medio de su Consejo Consultivo, las disposiciones reglamentarias internas para su eficaz funcionamiento, y ejercerá las demás atribuciones que establezca la ley.
+
+La Comisión Estatal de los Derechos Humanos, contará con un Consejo Consultivo integrado por seis consejeros honoríficos predominantemente de ciudadanos sin cargo público y con reconocido prestigio en la sociedad los cuales deberán ser ratificados por el Poder Legislativo. Asimismo contará con un Secretario Ejecutivo y hasta cinco Visitadores Generales, de conformidad con los procedimientos y los requisitos que señale la Ley.
+
+La Comisión Estatal de los Derechos Humanos, por conducto de su Presidente, quien lo será también del Consejo Consultivo, presentará anualmente, por escrito, a los Poderes del Estado, un informe de sus actividades. Al efecto, comparecerá ante el Pleno del Poder Legislativo en los términos que disponga la ley.
 
 APARTADO C. De la Transparencia y Acceso a la Información Pública.
 
@@ -891,13 +909,13 @@ Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acu
 
 XXXVIII.- Examinar y opinar el Plan de Desarrollo del Estado que le remita el Ejecutivo;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-XXXIX.- Elegir por mayoría calificada, al titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana en el Estado;
+XXXIX.- Elegir por mayoría calificada, al titular de la Comisión Estatal de los Derechos Humanos, o realizar su remoción por la misma votación, solo por las causas previstas en esta Constitución y la Ley, relativas a responsabilidad de servidores públicos. Así como aprobar las propuestas de nombramientos de los integrantes del Consejo Consultivo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
-XL.- A solicitud del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana, citar a las autoridades o servidores públicos responsables, que no acepten o incumplan las recomendaciones de la Procuraduría de los Derechos Humanos y Protección Ciudadana, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,
+XL.- A solicitud del Presidente de la Comisión Estatal de Derechos Humanos, citar a las autoridades o servidores públicos responsables, que no acepten o incumplan las recomendaciones de la Comisión Estatal de Derechos Humanos, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -4036,3 +4054,61 @@ QUINTO.- El Poder Legislativo y los Ayuntamientos del Estado, deberán adecuar l
 SEXTO.- Las autoridades Estatales y Municipales del Registro Civil, deberán homologar la expedición de toda acta del registro civil de conformidad con el formato único y los mecanismos electrónicos que establezcan las autoridades federales en la materia, a más tardar el día 17 de diciembre del 2014.
 
 SÉPTIMO.- Dentro de un plazo que no exceda de 30 días naturales a partir de la publicación del presente decreto, la Secretaría General de Gobierno o quien designe, convocará a una reunión con los titulares de las oficialías del registro civil estatal y de los municipios, para la implementación del registro de nacimiento inmediato y la expedición de la primer copia certificada del acta de nacimiento previsto en este decreto.
+
+P.O. 10 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, el Presidente de la Comisión Estatal de los Derechos Humanos, será nombrado siguiendo los requisitos y procedimientos que sean aplicables, previstos en la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, así como las bases siguientes:
+
+I.- La Comisión de Derechos Humanos del Poder legislativo elaborará el proyecto de convocatoria para la elección del Presidente de la Comisión de Derechos Humanos de Baja California, el cual someterá a consideración y aprobación, en su caso, por el Pleno del Congreso del Estado, que deberá emitir la convocatoria correspondiente dentro de los 30 días naturales siguientes a la entrada en vigor del presente decreto. La referida convocatoria deberá ser difundida cuando menos por una ocasión, en dos de los medios impresos de circulación estatal.
+
+La convocatoria se elaborará tomando en cuenta en lo que sea aplicable, los requisitos y bases generales previstos en los artículos 7 y 9 de la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California. En las entrevistas que se realicen a los aspirantes se les concederá el uso de la voz hasta por quince minutos cada uno.
+
+II.- El Procurador de los Derechos Humanos y Protección Ciudadana, que se encuentre en funciones deberá mantenerse en el cargo, hasta en tanto el Congreso del Estado designe al Presidente de la Comisión Estatal de los Derechos Humanos.
+
+III.- El Procurador de los Derechos Humanos y Protección Ciudadana actual, podrá participar en el proceso de elección referido en este artículo, para lo cual requerirá manifestarlo por escrito al Presidente de la Comisión de Derechos Humanos del Poder Legislativo, dentro del plazo de diez días naturales, contados a partir del día siguiente a la publicación del presente decreto y ratificarlo ante la Comisión de Derechos Humanos del Congreso del Estado el día que le sea fijada fecha para su entrevista. La no manifestación del Procurador actual dentro del plazo señalado, se entenderá como negativa de participación.
+
+IV.- La Comisión de Derechos Humanos del Poder Legislativo, una vez agotado el procedimiento de selección, remitirá a la Junta de Coordinación Política, el dictamen único que integre la lista de aspirantes que hayan cumplido con los requisitos referidos en el artículo 7 de la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California.
+
+V.- La Junta de Coordinación Política, acordará presentar ante el Pleno del Congreso, a más tardar en la sesión siguiente a la fecha en que reciba el dictamen único que integra la lista referida en la fracción anterior.
+
+VI.- El Poder Legislativo por votación de las dos terceras partes de los Diputados Presentes, elegirá de entre la lista de aspirantes, al Presidente de la Comisión Estatal de los Derechos Humanos, a quien se le notificará y tomará la protesta de Ley, dando inicio el periodo de cuatro años a partir de la fecha en que fue votado y aprobado su nombramiento.
+
+###### ARTÍCULO QUINTO.
+
+Los Subprocuradores de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, se mantendrán en su cargo, hasta en tanto, se designen a los Visitadores Generales y al Secretario Ejecutivo, las propuestas las realizará el Presidente de la Comisión Estatal de los Derechos Humanos ante el Congreso del Estado, en los términos y plazos que determine la ley mencionada en el artículo noveno transitorio de este decreto. Los subprocuradores podrán participar en el proceso de designación referido en este párrafo.
+
+Por única ocasión los consejeros actuales, continuarán en ejercicio de sus funciones, hasta vencerse el periodo por el que fueron designados. Noventa días naturales antes de su vencimiento, el Presidente de la Comisión Estatal de Derechos Humanos, iniciará el procedimiento para su sustitución en los términos que determine la Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, se entenderán transferidos como patrimonio del organismo público autónomo Comisión Estatal de los Derechos Humanos, en conjunto con los recursos presupuestales y financieros que para el presente ejercicio fiscal se hayan previsto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El trámite de las quejas, cumplimiento de recomendaciones y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, serán continuados ante el organismo público autónomo Comisión Estatal de los Derechos Humanos. Toda referencia que se hagan en otras disposiciones legales y reglamentarias a la Procuraduría de los Derechos Humanos y Participación Ciudadana, se entenderán hechas a la Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO OCTAVO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por el organismo público autónomo Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO NOVENO.
+
+En un plazo que no exceda de 60 días naturales siguientes a la entrada en vigor del presente decreto del (sic) Poder legislativo deberá expedir la Ley de la Comisión Estatal de los Derechos Humanos, en caso de que al vencer este plazo no se cuente con la norma general, se seguirá aplicando la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California.
+
+###### ARTÍCULO DÉCIMO.
+
+Los trabajadores de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, pasarán a forma (sic) parte de la Comisión Estatal de los Derechos Humanos, respetando todos sus derechos laborales.
