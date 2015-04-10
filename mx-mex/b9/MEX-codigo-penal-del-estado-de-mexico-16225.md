@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-01-26"
+last_updated: "2015-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ABRIL DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1671,7 +1671,7 @@ I. De uno a cinco años de prisión y de treinta a quinientos días multa, desti
 
 > <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-ll. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución, e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+II. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución, e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
 
 ### CAPITULO XIII. PECULADO
 
@@ -2495,11 +2495,7 @@ Al que en la comisión de un delito, conduzca o utilice un vehículo de motor si
 
 Al que maneje o utilice un vehículo de motor con placas o tarjeta o documentación que no correspondan al vehículo o a la autorizada oficialmente para circular, se le impondrá de uno a tres años de prisión y de cincuenta a doscientos días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
-
-Al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, se le impondrán de tres meses a un año de prisión y de cincuenta a cien días multa.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 10 DE ABRIL DE 2015)</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 26 DE ENERO DE 2015)</small>
 
@@ -2613,7 +2609,7 @@ Comete el delito contra las personas menores de edad y quienes no tienen la capa
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-l. Al consumo de bebidas alcohólicas, narcóticos o sustancias tóxicas, se le impondrá pena de tres a seis años de prisión y de doscientos a dos mil días multa.
+I. Al consumo de bebidas alcohólicas, narcóticos o sustancias tóxicas, se le impondrá pena de tres a seis años de prisión y de doscientos a dos mil días multa.
 
 > <small>(F. DE E., G.G. 28 DE FEBRERO DE 2013)</small>
 
@@ -2801,7 +2797,7 @@ El término para la prescripción de la bigamia, empezará a correr desde que un
 
 Comete el delito de incumplimiento de obligaciones, quien incurra en las siguientes conductas:
 
-l. El que estando obligado por la ley, sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubina, concubinario o acreedor alimentario, sin recursos para atender sus necesidades de subsistencia, aun cuando éstos, con motivo del abandono, se vean obligados a allegarse por cualquier medio de recursos para satisfacer sus requerimientos indispensables, independientemente de que se inicie o no la instancia civil. El delito se sancionará con prisión de dos a cinco años y de treinta a quinientos días multa;
+I. El que estando obligado por la ley, sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubina, concubinario o acreedor alimentario, sin recursos para atender sus necesidades de subsistencia, aun cuando éstos, con motivo del abandono, se vean obligados a allegarse por cualquier medio de recursos para satisfacer sus requerimientos indispensables, independientemente de que se inicie o no la instancia civil. El delito se sancionará con prisión de dos a cinco años y de treinta a quinientos días multa;
 
 II. El que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa. El órgano jurisdiccional determinará la aplicación del producto del trabajo que realice el inculpado, para satisfacer las obligaciones alimentarias a su cargo; y
 
@@ -3437,7 +3433,7 @@ Comete este delito quien:
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2012)</small>
 
-l. Dispare un arma de fuego sobre una persona o grupo de personas, o en un establecimiento comercial o de servicios o en algún lugar concurrido;
+I. Dispare un arma de fuego sobre una persona o grupo de personas, o en un establecimiento comercial o de servicios o en algún lugar concurrido;
 
 II. Ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
 
@@ -3997,7 +3993,7 @@ Son circunstancias que agravan la penalidad en el delito de robo y se sancionar�
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
-l. Cuando se cometa con violencia, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil quinientos días multa.
+I. Cuando se cometa con violencia, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil quinientos días multa.
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2012)</small>
 
@@ -4009,7 +4005,7 @@ Esta conducta se considerará como delito grave, cuando el monto de lo robado ex
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
-ll. Cuando se cometa en el interior de casa habitación, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de Io robado, sin que exceda de mil quinientos días multa.
+II. Cuando se cometa en el interior de casa habitación, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de Io robado, sin que exceda de mil quinientos días multa.
 
 Se comprende dentro de la denominación de casa habitación, el aposento, cualquier dependencia de ella y las movibles cualquiera que sea el material con el que estén construidas;
 
@@ -4023,7 +4019,7 @@ IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de 
 
 > <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-V. Cuando se cometa el robo de un vehículo automotor o de la mercancía transportada a bordo de aquel, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de miI quinientos días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo;
+V. Cuando se cometa el robo de un vehículo automotor o de la mercancía transportada a bordo de aquel, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil quinientos días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo;
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
@@ -5482,5 +5478,13 @@ DECRETO NÚMERO 394, POR EL QUE SE REFORMAN LOS ARTÍCULOS 137 BIS EN SU FRACCI�
 PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 10 DE ABRIL DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
