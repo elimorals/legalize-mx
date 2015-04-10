@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2015-02-20"
+last_updated: "2015-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -165,13 +165,17 @@ La educación que impartan los Gobiernos Estatal, Municipal, sus organismos desc
 
 El gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativos, incluidas la educación superior, la investigación científica y tecnológica y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
+
+###### ARTICULO 10.
+
+La educación que se imparta en el Sistema Educativo Estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa o partidista, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra mujeres, niños y adultos mayores. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios o discriminaciones de razas, de religión, de grupos, de sexos o de individuos o de ideología política.
+
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-###### Artículo 10.
-
-La educación que se imparta en el Sistema Educativo Estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa o partidista, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, la formación de estereotipos y la discriminación. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios o discriminaciones de razas, de religión, de grupos, de sexos o de individuos o de ideología política.
-
 Para tal efecto, la imagen institucional de los inmuebles destinados a la educación impartida por el Estado, no se podrán identificar con los colores, lemas, imágenes o logotipos de los partidos políticos o signos religiosos, con el fin de salvaguardar a los centros escolares de cualquier acción con estos fines.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 Para dar cumplimiento a los objetivos del presente artículo, en los inmuebles destinados a la educación básica impartida por el Estado, se utilizará el color blanco como color oficial.
 
@@ -287,7 +291,11 @@ XXI.- Promover el uso responsable y seguro de Internet y las redes sociales digi
 
 XXII.- Informar a los padres de familia o tutores de los educandos que presenten problemas de conducta, para que, en su caso, sean canalizados a través de la estructura educativa a las instancias de apoyo psicológico, para que se determinen alternativas de solución con el fin de que reciban el tratamiento necesario.
 
-XXIII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XXIII.- Fomentar una cultura de respeto, solidaridad y reconocimiento de los derechos de las personas adultas mayores; y
+
+XXIV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -1988,3 +1996,7 @@ P.O. 5 DE SEPTIEMBRE DE 2014.
 P.O. 20 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
