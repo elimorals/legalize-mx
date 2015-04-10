@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-agencia-espacial-mexicana-90328"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-11-27"
-last_updated: "2012-11-27"
+last_updated: "2015-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90328&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-11-16"
 
 ESTATUTO ORGÁNICO DE LA AGENCIA ESPACIAL MEXICANA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2015.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 27 de noviembre de 2012.
 
@@ -137,7 +137,7 @@ IV. Unidades Técnicas y Administrativas
 
 3. Coordinación General de Desarrollo Industrial, Comercial y Competitividad en el Sector Espacial;
 
-4. Coordinación General de Asuntos Internacionales y Seguridad en Materia Espacial; y (sic)
+4. Coordinación General de Asuntos Internacionales y Seguridad en Materia Espacial; y
 
 5. Coordinación General de Financiamiento y Gestión de la Información en Materia Espacial.
 
@@ -415,9 +415,11 @@ El (La) Comisario Público tendrá las atribuciones que les otorgan la Ley de En
 
 ### CAPITULO VI. ORGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2015)</small>
+
 ###### Artículo 25.
 
-Corresponde al(a) titular del Organo Interno de Control y a sus respectivas Areas de Auditoría Interna, de Responsabilidades y Quejas, y de Control, Evaluación y Apoyo al Buen Gobierno, actuar conforme a las atribuciones que le confiere el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de la Función Pública, quedando facultado para requerir a la Comisión, a los servidores públicos adscritos a ésta y las unidades administrativas que la integran, la información y documentación necesaria, para el cumplimiento de sus funciones dentro del marco legal aplicable.
+Corresponde al (a) titular del Órgano Interno de Control y a sus respectivas Áreas de Auditoria Interna, de Responsabilidades y Quejas, y de Control, Evaluación y Apoyo al Buen Gobierno, actuar conforme a las atribuciones que le confiere el artículo 79 del Reglamento Interior de la Secretaría de la Función Pública, quedando facultado para requerir a la Agencia, a los servidores públicos adscritos a ésta y las unidades administrativas que la integran, la información y documentación necesaria, para el cumplimiento de sus funciones dentro del marco legal aplicable.
 
 ### CAPITULO VII. DE LAS FACULTADES DE LAS UNIDADES TECNICAS Y ADMINISTRATIVAS DE LA AGENCIA
 
@@ -523,13 +525,19 @@ Corresponde a la Coordinación General de Investigación Científica y Desarroll
 
 I. Conducir el desarrollo de actividades de investigación y desarrollo tecnológico en el sector espacial, para promover la generación de conocimiento científico y sus aplicaciones que ofrezcan alternativas tecnológicas que generen respuestas a las demandas sociales y que propicien un desarrollo sustentable;
 
-II. Disponer y coordinar planes maestros y proyectos que permitan consolidar el desarrollo de capacidades nacionales en la materia y que estén orientados a atender las necesidades de datos geomáticos, infraestructura satelital de comunicaciones, integración de sistemas de alerta temprana y en general las necesidades nacionales en el campo espacial con instituciones públicas o privadas para establecer programas de investigación científica y tecnológica en materia espacial;
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
+
+II. Disponer y coordinar planes estratégicos y proyectos que permitan consolidar el desarrollo de capacidades nacionales en la materia y que estén orientados al desarrollo de infraestructura espacial tanto básico (sic) como aplicada, para comunicaciones satelitales, observación del territorio y sistemas de navegación satelital; que en conjunto permita atender necesidades nacionales, protegiendo nuestra soberanía, mejorando la competitividad y desarrollo de innovación.
 
 III. Aprobar las políticas públicas para el fomento de la investigación científica y tecnológica en materia espacial, mediante la conducción de los programas basados en las atribuciones de la Agencia Espacial Mexicana y las Líneas Generales de Política Espacial para establecer un marco operativo que estimule el desarrollo de ecosistemas de ciencia y tecnología espacial que permita dar respuesta a la creación de capacidades nacionales en la materia y la resolución de necesidades sociales vinculadas al mismo;
 
-IV. Proponer el desarrollo de proyectos y protocolos de investigación espacial mediante el análisis, investigación y diagnósticos de las capacidades que se tienen en el campo espacial y mediante el uso de esta información, propiciar la generación de demandas específicas vinculadas a programas sectoriales o fondos mixtos de investigación estatal o cualesquier otro apoyo similar, que apoyen la innovación, contribuyan al avance científico y tecnológico y coadyuven en la atención de necesidades específicas en la materia con un enfoque sustentable;
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
 
-V. Establecer acuerdos y convenios vinculados a proyectos y acciones específicas de desarrollo de ciencia y tecnología aeroespacial para el fortalecimiento y desarrollo de las capacidades nacionales en la materia propiciando el intercambio científico y tecnológico entre instituciones nacionales y extranjeras dedicadas a la investigación y desarrollo de tecnología espacial para la optimización de los recursos destinados a dicho efecto y posicionar al país en el ámbito internacional;
+IV. Proponer el desarrollo de proyectos tecnológicos y protocolos de investigación espacial acordes a las prioridades estratégicas definidas por la Agencia, mediante la gestión de demandas específicas vinculadas a programas sectoriales o fondos mixtos estatales o cualesquier otro financiamiento similar, que apoyen la innovación, contribuyan al avance científico y tecnológico y coadyuven en la atención de necesidades específicas en la materia con un enfoque sustentable.
+
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
+
+V. Establecer acuerdos y convenios vinculados a proyectos y acciones específicas de desarrollo de ciencia y tecnología espacial para el fortalecimiento y desarrollo de las capacidades nacionales en la materia propiciando el intercambio científico y tecnológico entre instituciones nacionales y extranjeras dedicadas a la investigación y desarrollo de tecnología espacial para la optimización de los recursos destinados a dicho efecto y posicionar al país en el ámbito internacional.
 
 VI. Conducir la planeación estratégica, integración y supervisión de proyectos espaciales en coordinación con las Unidades Administrativas y Técnicas y las instancias afines, aplicando los indicadores y buenas prácticas en materia financiera, de operación, productividad y de impactos (sic) social que permita alcanzar las metas institucionales con un enfoque orientado a resultados que proporcione servicios de clase mundial; y
 
@@ -569,7 +577,9 @@ XIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicab
 
 Corresponde a la Coordinación General de Asuntos Internacionales y Seguridad en Materia Espacial:
 
-I. Disponer las negociaciones de acuerdos y tratados internacionales en materias relacionadas con las actividades espaciales;
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
+
+I. Disponer las negociaciones de acuerdos y tratados internacionales en materias relacionadas con las actividades espaciales; así como organizar y coordinar eventos, reuniones, talleres de trabajo y congresos relacionados con las actividades científicas, legales y técnicas en materia espacial.
 
 II. Conducir la revisión y validación de los proyectos de tratados bilaterales y multilaterales, y asesorar respecto de su implementación, así como en la interpretación de textos internacionales relativos a las actividades espaciales;
 
@@ -818,3 +828,9 @@ Segundo. El (La) Director(a) General inscribirá este Estatuto en el Registro P�
 Tercero. Los Manuales de Organización, de Procedimientos, y de Servicios de la Agencia serán expedidos en un término de ciento ochenta días hábiles, contados a partir de la entrada en vigor de este instrumento, previa aprobación de la Junta de Gobierno.
 
 México, D.F., a 16 de noviembre de 2012.- El Director General de la Agencia Espacial Mexicana, Francisco Javier Mendieta Jiménez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE ABRIL DE 2015.
+
+ÚNICO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
