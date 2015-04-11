@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-89288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-04"
-last_updated: "2014-12-31"
+last_updated: "2015-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de agosto de 2012.
 
@@ -191,9 +191,13 @@ XII. Secretaría de las Mujeres;
 
 XIII. Secretaría de Seguridad Pública;
 
-XIV. Coordinación General Jurídica, y
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2015)</small>
 
-XV. Procuraduría General de Justicia.
+XIV. Secretaría del Zacatecano Migrante;
+
+XV. Coordinación General Jurídica, y
+
+XVI. Procuraduría General de Justicia.
 
 Las Secretarías a que se refiere este artículo y la Procuraduría General de Justicia dependerán directamente del Titular del Poder Ejecutivo del Estado, tendrán igual rango, y entre ellas no habrá preeminencia alguna.
 
@@ -1085,6 +1089,62 @@ XXV. Coordinar y vigilar el funcionamiento del Centro de Internamiento y Atenci�
 
 XXVI. Las demás que le señalen las leyes y reglamentos vigentes o le encomiende el Titular del Poder Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+###### Artículo 36 Bis.
+
+A la Secretaría del Zacatecano Migrante corresponde el despacho de los siguientes asuntos:
+
+I. Instrumentar la política estatal en materia de migración;
+
+II. Formular y proponer para su análisis y, en su caso, aprobación a la Unidad de Planeación del Gobernador del Estado, la política, planes, programas y acciones para la atención de los migrantes zacatecanos y sus familias, sin contravenir lo dispuesto por la legislación federal;
+
+III. Coadyuvar en la operación de programas con recursos de remesas solidarias, con el fin de apoyar la realización de obras y acciones que impulsen el desarrollo de las localidades de origen de los migrantes zacatecanos y sus familias;
+
+IV. Colaborar con los poderes del Estado y demás dependencias y entidades de los tres órdenes de gobierno, así como con organismos de la sociedad civil, en la orientación, promoción y procuración de los derechos humanos y laborales de los migrantes zacatecanos y sus familias;
+
+V. Mantener, promover, fomentar y fortalecer las relaciones de cooperación, coordinación y organización de los residentes zacatecanos en el exterior con el gobierno del Estado, con otras dependencias y entidades federales y municipales, así como con organismos de la sociedad civil;
+
+VI. En coordinación con las dependencias y entidades competentes, fomentar y difundir la historia, cultura y tradiciones del Estado, con la finalidad de fortalecer las relaciones culturales y de arraigo entre los migrantes zacatecanos y sus familias;
+
+VII. Fungir como enlace entre el Poder Ejecutivo y la Comisión de Atención a Migrantes, de la Legislatura del Estado y del Congreso de la Unión, con el fin de desarrollar acciones conjuntas en beneficio de los migrantes zacatecanos y sus familias;
+
+VIII. En coordinación con las dependencias y entidades competentes, promover, ejecutar y apoyar programas y proyectos de inversión, que coadyuven a la seguridad y estabilidad económica, a la generación de empleo, para el desarrollo de los migrantes zacatecanos y de sus familias en sus comunidades de origen, así como promover la creación de figuras asociativas con la finalidad de cerrar las cadenas productivas y potencializar las iniciativas de producción y empresariales de la comunidad migrante en el Estado;
+
+IX. Promover el establecimiento en el exterior, de oficinas de comercialización y negocios de productos zacatecanos, agrícolas, artesanales, turísticos y de servicios, entre otros, en coordinación con el gobierno federal y municipal, así como con organismos nacionales e internacionales;
+
+X. Promover el aprovechamiento de las capacidades productivas que los migrantes zacatecanos adquieren en el exterior, mediante la implementación de programas de transferencia de tecnología, organización productiva y social;
+
+XI. Coadyuvar con otras dependencias y entidades de los tres órdenes de gobierno, así como otras instancias, en la celebración de foros, congresos y exposiciones de negocios que permitan promover los productos y servicios de origen zacatecano en los mercados extranjeros;
+
+XII. Promover la creación de fideicomisos estatales para el impulso de proyectos productivos, con la participación de los migrantes zacatecanos;
+
+XIII. Gestionar recursos financieros con organismos públicos y privados, nacionales e internacionales, para la generación de empleo y combate a la pobreza en las localidades de origen de los migrantes zacatecanos;
+
+XIV. Instituir los mecanismos y acciones que permitan transparentar los apoyos otorgados a los migrantes zacatecanos y sus familias beneficiarios de programas y proyectos gubernamentales financiados, conforme a la normativa aplicable;
+
+XV. Establecer una estrecha vinculación con la Secretaría de Relaciones Exteriores, para trabajar de manera coordinada con las Representaciones Diplomáticas y Consulares en Estados Unidos de Norteamérica y otros países;
+
+XVI. Coadyuvar con la Secretaría de Relaciones Exteriores y demás instancias federales, en la asistencia y orientación de los migrantes zacatecanos, ante las autoridades extranjeras, para la defensa de sus derechos humanos y otras acciones que requieran atención y protección;
+
+XVII. Proponer programas y acciones para migrantes que retornan voluntariamente a sus localidades de origen, o bien, debido a un proceso de deportación o repatriación;
+
+XVIII. Promover la educación cívica de los connacionales en el extranjero, en coordinación con instituciones públicas y privadas, a fin de propiciar una democracia participativa para la toma de decisiones;
+
+XIX. Elaborar, administrar y mantener actualizado el sistema de información relacional de las organizaciones de migrantes zacatecanos en el extranjero;
+
+XX. Suscribir convenios y acuerdos interinstitucionales para el mejoramiento de las condiciones de vida y desarrollo integral de los migrantes zacatecanos, sus familias y localidades de origen;
+
+XXI. Impulsar, en coordinación con los municipios del territorio estatal, la creación de centros municipales de atención al migrante, con el objeto de atender las necesidades de los migrantes zacatecanos y sus familias en sus localidades de origen;
+
+XXII. Asesorar a las dependencias y entidades estatales y municipales que lo soliciten, en el diseño e implementación de políticas públicas, programas, proyectos y acciones orientadas a los migrantes zacatecanos y sus familias;
+
+XXIII. En coordinación con las instituciones competentes, realizar y difundir investigaciones y estudios sobre el fenómeno migratorio, con la finalidad de identificar las necesidades de este sector y, en su caso, promover la implementación de políticas y acciones;
+
+XXIV. Proponer al Titular del Poder Ejecutivo del Estado, las iniciativas de ley, decretos, reglamentos y acuerdos, respecto a los asuntos de la competencia de la Secretaría, y
+
+XXV. Las demás que le señalen las leyes, decretos y reglamentos vigentes o le encomiende el Titular del Poder Ejecutivo del Estado.
+
 ###### Artículo 37.
 
 A la Coordinación General Jurídica le corresponde el despacho de los siguientes asuntos:
@@ -1436,3 +1496,17 @@ Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo
 P.O. 31 DE DICIEMBRE DE 2014.
 
 Artículo Único.- El presente decreto entrara en vigor al momento de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 11 DE ABRIL DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Los recursos humanos, materiales y financieros asignados al Instituto Estatal de Migración, pasarán a la Secretaría del Zacatecano Migrante.
+
+Tercero. El titular del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, dotará de los recursos financieros necesarios para la consecución de los fines de la Secretaría del Zacatecano Migrante.
+
+Cuarto. En tanto se realizan los ajustes a la normatividad respectiva, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
+
+Quinto. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Gobernador del Estado expedirá el Reglamento Interior de la Secretaría del Zacatecano Migrante, así como las modificaciones a las disposiciones correspondientes, a efecto de adecuarlas a la presente reforma.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
