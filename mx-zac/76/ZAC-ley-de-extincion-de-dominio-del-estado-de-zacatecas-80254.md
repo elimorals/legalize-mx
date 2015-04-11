@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-extincion-de-dominio-del-estado-de-zacatecas-80254"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-02"
-last_updated: "2011-03-02"
+last_updated: "2015-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE ZACATECAS
 
-LEY DE EXTINCION DE DOMINIO DEL ESTADO DE ZACATECAS
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TRANSITORIO TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE ZACATECAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 2 de marzo de 2011.
 
@@ -67,9 +69,13 @@ III. Bienes: Todas las cosas muebles o inmuebles, que puedan ser objeto de aprop
 
 IV. Comisión: La Comisión Técnica Consultiva para la Extinción de Dominio;
 
-V. Coordinación: La Coordinación Técnica para la Administración de Bienes Muebles Sujetos a Procedimiento de Extinción de Dominio;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2015)</small>
 
-VI. Hecho Ilícito: El hecho, típico y antijurídico, constitutivo de cualquiera de los delitos de delincuencia organizada, secuestro, secuestro exprés, robo de vehículos y trata de personas; aún cuando no se haya determinado quién o quiénes fueron sus autores, participaron en él o el grado de su intervención;
+V. Coordinación: La Coordinación Técnica para la Administración de Bienes Sujetos a Procedimiento de Extinción de Dominio;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2015)</small>
+
+VI. Hecho Ilícito: El hecho, típico y antijurídico, constitutivo de cualquiera de los delitos de narcomenudeo, secuestro, robo de vehículos y trata de personas; aún cuando no se haya determinado quién o quiénes fueron sus autores, participaron en él o el grado de su intervención;
 
 VII. Juez: El Juez del Poder Judicial del Estado de Zacatecas competente para conocer de la acción de Extinción de Dominio, del proceso correspondiente y de sus consecuencias;
 
@@ -91,11 +97,15 @@ XIV. Víctima u ofendido: El Titular del bien jurídico lesionado o puesto en pe
 
 En los casos no previstos en esta Ley, se estará a las siguientes reglas de supletoriedad:
 
-I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en el Código de Procedimientos Penales para el Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2015)</small>
+
+I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en el Código Nacional de Procedimientos Penales;
 
 II. En el Procedimiento de Extinción de Dominio, a lo previsto en el Código de Procedimientos Civiles para el Estado de Zacatecas;
 
-III. En cuanto a los delitos, a lo previsto en el Código Penal para el Estado de Zacatecas; y a la Ley de Delincuencia Organizada del Estado de Zacatecas, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2015)</small>
+
+III. En cuanto a los delitos, a lo previsto en el Código Penal para el Estado de Zacatecas, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y la Ley General de Salud; y
 
 IV. En los aspectos relativos la regulación de bienes, derechos y obligaciones, a lo previsto en el Código Civil para el Estado de Zacatecas.
 
@@ -113,9 +123,11 @@ El Juez podrá imponer correcciones disciplinarias o medidas de apremio, en los 
 
 ### CAPÍTULO I. PRESUPUESTOS PROCESALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 5.
 
-La Extinción de Dominio es la pérdida total o parcial de los derechos de propiedad sobre los bienes a los que se refiera la sentencia que la decrete sin contraprestación ni compensación alguna para el demandado o demandados, cuando, en tratándose de los delitos de delincuencia organizada, secuestro, secuestro exprés, robo de vehículos, y trata de personas, estos bienes sean alguno o algunos de los que relaciona el artículo 6 de esta Ley.
+La Extinción de Dominio es la pérdida total o parcial de los derechos de propiedad sobre los bienes a los que se refiera la sentencia que la decrete sin contraprestación ni compensación alguna para el demandado o demandados, cuando, en tratándose de los delitos de narcomenudeo, secuestro, robo de vehículos, y trata de personas.
 
 La Extinción de Dominio es de naturaleza jurisdiccional, de carácter real y de contenido patrimonial, y procederá sobre cualquier derecho que se tenga sobre los bienes, aún los de carácter personal, independientemente de quien los tenga en su poder, o los haya adquirido.
 
@@ -123,7 +135,13 @@ La acción es autónoma, distinta e independiente de cualquier otra de naturalez
 
 La Extinción de Dominio no procederá sobre bienes decomisados por la autoridad judicial en sentencia ejecutoriada.
 
-Los bienes sobre los que se declare la Extinción de Dominio se aplicarán a favor del Gobierno del Estado de Zacatecas y serán destinados a programas de prevención social del delito.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+Los bienes sobre los que se declare la Extinción de Dominio se aplicarán a favor del Gobierno del Estado de Zacatecas, en los términos de la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+El ejercicio de la acción de extinción de dominio corresponde al Ministerio Público, quien podrá desistirse de la acción en cualquier momento hasta antes de que se dicte sentencia definitiva, previo acuerdo del Procurador. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
 
 ###### ARTÍCULO 6.
 
@@ -137,9 +155,27 @@ Se entenderá por ocultar, la acción de esconder, disimular o transformar biene
 
 III. Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
 
-El supuesto previsto en el párrafo anterior será aplicable cuando el Ministerio Público acredite que el tercero utilizó el bien para cometer los delitos de delincuencia organizada, secuestro, secuestro exprés, trata de personas o robo de vehículos y que el dueño tenía conocimiento de esa circunstancia, y
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+Este supuesto, será aplicable cuando el Ministerio Público acredite que el tercero utilizó el bien para cometer los delitos de narcomenudeo, secuestro, trata de personas o robo de vehículos y que el dueño tenía conocimiento de esa circunstancia, y
 
 IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+Se exceptúan de la acción de extinción de dominio, las armas de fuego, municiones y explosivos, respecto de los cuales deberá observarse lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+Tratándose de narcóticos se procederá en los términos de la legislación federal aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+Los bienes asegurados que resulten del dominio público o privado de la federación, de las entidades o de los municipios, se restituirán a la dependencia o entidad correspondiente, de acuerdo con su naturaleza y a lo que dispongan las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+Se exceptúan también la fauna y la flora protegidos, materiales peligrosos y demás bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, en cuyo caso, se procederá en los términos de la legislación aplicable.
 
 ###### ARTÍCULO 7.
 
@@ -181,25 +217,11 @@ El Poder Judicial del Estado contará con los jueces con competencia para conoce
 
 ### CAPÍTULO II. DEL EJERCICIO DE LA ACCIÓN
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
 
-La Procuraduría conformará la Comisión que estará integrada por un representante de:
+###### Articulo 14.
 
-I. La Subprocuraduría de Investigaciones;
-
-Il. La Subprocuraduría de Procedimientos Jurisdiccionales;
-
-III. La Unidad Especializada en Investigación de la Delincuencia Organizada;
-
-IV. La Unidad de Investigación Patrimonial de la Delincuencia Organizada, y
-
-V. El Órgano Interno de Control de la Procuraduría.
-
-La Comisión será presidida por la Subprocuraduría de Investigaciones y funcionará de conformidad con el Manual de Operación que emita el Procurador.
-
-Los representantes deberán contar con nivel mínimo de Director de Área.
-
-Los integrantes señalados en las fracciones I y II tomarán las decisiones de la Comisión, escuchando la opinión de los señalados en las fracciones III a la V, quienes tendrán funciones de asesoría.
+La Procuraduría conformará la Comisión que estará integrada por los servidores públicos que mediante acuerdo determine el Procurador.
 
 ###### ARTÍCULO 15.
 
@@ -211,7 +233,9 @@ La Comisión tendrá como objetivos, entre otros, emitir su opinión respecto de
 
 La Acción de Extinción de Dominio se formulará mediante demanda del Ministerio Público, previo acuerdo del Procurador General de Justicia del Estado, quién tomará en consideración la opinión de la Comisión.
 
-A la Acción de Extinción de Dominio se le aplicarán las reglas de prescripción aplicables a los delitos señalados por el artículo 5 de esta Ley.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+La acción de extinción de dominio prescribirá respecto de los objetos e instrumentos del delito conforme a las reglas generales de prescripción, sin embargo, será imprescriptible tratándose de los bienes producto del delito.
 
 En los casos en que el Ministerio Público determine la improcedencia de la acción, deberá emitir una resolución fundada y motivada.
 
@@ -241,7 +265,9 @@ III. Asegurar y, en su caso, administrar como depositario los bienes materia de 
 
 IV. Solicitar al juez, durante el procedimiento respectivo, las medidas cautelares previstas en la presente Ley;
 
-V. Requerir información o documentación del Sistema Financiero por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, así como información financiera o fiscal al Sistema de Administración Tributaria u otras autoridades competentes en materia fiscal. Los requerimientos de información se formularán por el Procurador General de Justicia del Estado de Zacatecas, por los subprocuradores a quienes delegue esta facultad o por la Unidad de Investigación Patrimonial de la Delincuencia Organizada;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2015)</small>
+
+V. Requerir información o documentación del Sistema Financiero por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, así como información financiera o fiscal al Sistema de Administración Tributaria u otras autoridades competentes en materia fiscal. Los requerimientos de información se formularán por el Procurador General de Justicia del Estado de Zacatecas o por los subprocuradores a quienes delegue esta facultad;
 
 VI. Requerir información y documentación a la Secretaría de Finanzas del Gobierno del Estado, tesorerías y catastros municipales, archivos de notarías y a las demás autoridades competentes, y
 
@@ -295,7 +321,11 @@ VI. Rompimiento de chapas y cerraduras y el uso de la fuerza pública;
 
 VII. El embargo de bienes; dinero en depósito en el sistema financiero; títulos valor y sus rendimientos, lo mismo que la orden de no pagarlos cuando fuere imposible su aprehensión física, o
 
-VIII. Las demás que considere necesarias, siempre y cuando estén contenidas en la legislación vigente.
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2015)</small>
+
+VIII. La inmovilización de cuentas que se encuentren dentro del sistema financiero; o
+
+IX. Las demás que considere necesarias, siempre y cuando estén contenidas en la legislación vigente.
 
 ###### ARTÍCULO 23.
 
@@ -321,9 +351,11 @@ Las medidas cautelares obligan a los propietarios, poseedores, quienes se ostent
 
 Las medidas cautelares no implican modificación alguna a los gravámenes existentes sobre los bienes.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 27.
 
-Mientras los recursos en numerario o títulos financieros de valores se encuentren sujetos a medidas cautelares, el Juez ordenará su depósito bajo responsabilidad de la Dirección de Administración de la Procuraduría.
+Mientras los recursos en numerario o títulos financieros de valores se encuentren sujetos a medidas cautelares, el Juez ordenará su depósito bajo responsabilidad de la Coordinación Administrativa de la Procuraduría.
 
 ###### ARTÍCULO 28.
 
@@ -335,9 +367,11 @@ La ampliación de las medidas cautelares sólo será posible antes de acordar el
 
 El demandado o tercero afectado no podrá ofrecer garantía para obtener el levantamiento de la medida cautelar. Contra el auto que ordene el aseguramiento o embargo precautorio de bienes es procedente el recurso de apelación que se admitirá sólo en el efecto devolutivo conforme al Código de Procedimientos Civiles del Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 30.
 
-El depósito de los bienes objeto de las medidas cautelares a que se refiere esta Ley, recaerá en la Dirección de Administración de la Procuraduría.
+El depósito de los bienes objeto de las medidas cautelares a que se refiere esta Ley, recaerá en la Coordinación Administrativa de la Procuraduría.
 
 ###### ARTÍCULO 31.
 
@@ -489,7 +523,7 @@ II. Alegará primero el Ministerio Público, y a continuación las demás partes
 
 III. Se concederá el uso de la palabra hasta por dos veces a cada una de las partes, quienes podrán alegar tanto sobre la cuestión de fondo como sobre las circunstancias que se hayan presentado en el procedimiento;
 
-IV. En los casos en que el afectado esté representado por varios abogados, sólo hablará uno de ellos en (sic) cada vez que le corresponda;
+IV. En los casos en que el afectado esté representado por varios abogados, sólo hablará uno de ellos en cada vez que le corresponda;
 
 V. En sus alegatos, procurarán las partes la mayor brevedad y concisión, y
 
@@ -517,7 +551,9 @@ Los documentos que versen sobre los derechos reales o personales que se cuestion
 
 En caso de que se ofrezcan constancias de la investigación por alguno de los delitos a que se refiere el artículo 5 de esta Ley, deberán solicitarse por conducto del Juez.
 
-El Juez se cerciorará de que las constancias de la investigación del delito ofrecidas por el demandado o tercero afectado tengan relación con los hechos materia de la acción de Extinción de Dominio y verificará que su exhibición no ponga en riesgo la secrecía de la investigación. En todo caso, el Juez escuchará al Ministerio Público y podrá realizar personalmente inspección ocular de la averiguación previa, para determinar las constancias que habrán de agregarse al procedimiento de Extinción de Dominio.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+El Juez se cerciorará de que las constancias de la investigación del delito ofrecidas por el demandado o tercero afectado tengan relación con los hechos materia de la acción de Extinción de Dominio y verificará que su exhibición no ponga en riesgo la secrecía de la investigación. En todo caso, el Juez escuchará al Ministerio Público y podrá realizar personalmente inspección ocular de la averiguación previa o carpeta de investigación, para determinar las constancias que habrán de agregarse al procedimiento de Extinción de Dominio.
 
 El Juez ordenará que las constancias de la investigación del delito, que admita como prueba, sean debidamente resguardadas para preservar su secrecía.
 
@@ -577,45 +613,11 @@ Si concluido el procedimiento de Extinción de Dominio mediante sentencia firme,
 
 ###### ARTÍCULO 57.
 
-En la sentencia pronunciada respecto de los bienes señalados en la fracción III del artículo 6 de la Ley, el Juez podrá decretar la Extinción de Dominio del 10% al 50% de la propiedad del bien o bienes en los que recae la Extinción de Dominio, cuando el dueño haya actuado con culpa leve o culpa media, y del 50% al 100% de la propiedad del bien o bienes en los que recae la Extinción de Dominio cuando haya actuado con culpa grave o negligencia inexcusable.
-
-Para los efectos de este artículo se entiende que hay culpa grave o negligencia inexcusable del dueño cuando:
-
-I. La contraprestación por la utilización del bien es notoriamente alta respecto al uso en el mercado;
-
-II. La contraprestación haya sido pagada en efectivo sin cumplir las disposiciones fiscales y las formalidades legales;
-
-III. Cuando se haya pagado en efectivo y por adelantado por más de un año;
-
-IV. Cuando haya fama pública que el autor del delito que da origen a la Extinción de Dominio se dedica a actividades ilícitas o que el lugar en el que se encuentra el bien de que se trate, o el mismo bien, se utiliza para ello, así como cuando sea evidente la utilización del bien para tal efecto, y
-
-V. Cuando no se cumplan las medidas preventivas que hayan sido acordadas entre el Gobierno del Estado y un grupo o asociación de prestadores de servicios o las Cámaras de Industria o Comercio, conforme a un programa de autorregulación en los términos del Título Quinto de esta Ley.
-
-Para fijar el porcentaje correspondiente de la propiedad del bien o bienes en los que recae la Extinción de Dominio, el Juez deberá valorar, prudentemente, lo siguiente:
-
-I. La calidad de la persona del dueño, respecto de si es persona física o moral. En el caso de las personas físicas, las circunstancias socioeconómicas, y su nivel de estudios;
-
-II. Las modalidades de la contratación verbal o expresa.
-
-III. El monto del beneficio, lucro y daño causado; el tiempo transcurrido entre la comisión del hecho ilícito y el acto jurídico que lo relaciona y número de copropietarios, en su caso;
-
-IV. Si se trata de bienes muebles, inmuebles o ambos, así como su cantidad;
-
-V. La gravedad del hecho ilícito;
-
-VI. El número de víctimas u ofendidos;
-
-VII. Las excepciones, defensas y pruebas ofrecidas en el juicio, y
-
-VIII. Las medidas preventivas que haya llevado a cabo para evitar la utilización del bien de que se trate y si cumplió, o lo hizo parcialmente, con las responsabilidades establecidas en un programa de prevención.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 58.
 
-En la aplicación del artículo anterior, cuando sea decretado un porcentaje correspondiente de la propiedad del bien o bienes en los que recae la Extinción de Dominio y éste no sea el 100%, el dueño podrá liberar el bien de la Extinción de Dominio a que fue condenado mediante el pago del importe de dicho porcentaje.
-
-Tratándose de bienes inmuebles se tomará en cuenta el valor registrado en la Dirección de Catastro y Registro Público del Estado y en su defecto de acuerdo al artículo 451 del Código de Procedimientos Civiles del Estado de Zacatecas.
-
-Tratándose de bienes muebles se estará a lo declarado por la parte actora en su escrito de demanda respecto a la fracción IX del artículo 33 de la Ley y en su defecto de acuerdo al artículo 452 del Código de Procedimientos Civiles del Estado de Zacatecas. En caso contrario, el bien de que se trate será puesto a remate en un término no mayor de 45 días hábiles, contados a partir de la fecha en que causó ejecutoria la sentencia, con apego a lo dispuesto en el Capítulo correspondiente del Código de Procedimientos Civiles del Estado de Zacatecas. Con el producto del remate mencionado se liquidará al dueño del bien, la proporción que le corresponda de acuerdo a la sentencia, dejando constancia de ello en el expediente respectivo.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 59.
 
@@ -721,69 +723,43 @@ En todo caso en el que los afectados, terceros, víctimas u ofendidos pertenezca
 
 ### CAPÍTULO I. DE LA ADMINISTRACIÓN DE BIENES MUEBLES
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 73.
 
-Para la administración de los bienes muebles, una vez que hayan sido puestos a disposición de la Secretaría de Finanzas del Gobierno del Estado, se integrará una Coordinación Técnica conformada por representantes de:
-
-I. La Secretaría de Finanzas;
-
-Il. La Procuraduría;
-
-III. La Secretaría de Seguridad Pública del Estado;
-
-IV. La Oficialía Mayor, y
-
-V. La Contraloría Interna.
-
-Los representantes deberán contar con nivel mínimo de Director de Área. La Coordinación será presidida por el representante de la Secretaría de Finanzas.
-
-Funcionará conforme al Manual de Operación que expida la propia Coordinación.
+Los bienes materia de esta Ley serán administrados en los términos de la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados.
 
 ###### ARTÍCULO 74.
 
-La Coordinación tendrá como finalidad asesorar a la Secretaría de Finanzas sobre la forma en que se administren los bienes muebles, y las demás acciones necesarias para el cumplimiento de los fines de esta Ley.
-
-La Coordinación también rendirá, de manera ordinaria y por escrito, informes trimestrales al Juez y anuales a la Legislatura del Estado y, de forma extraordinaria, cuando les sean requeridos.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 75.
 
-La Secretaría de Finanzas constituirá un fideicomiso público para la administración de los bienes muebles, tomando en consideración las determinaciones que tome la Coordinación.
-
-Los integrantes de la Coordinación también conformarán el Comité Técnico del Fideicomiso, para que exista congruencia en la toma de decisiones.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 76.
 
-Cuando la sentencia que determine la Extinción de Dominio de bienes muebles cause ejecutoria, la Secretaría de Finanzas, posterior a la publicación del Acuerdo en el Periódico Oficial, Órgano del Gobierno del Estado, donde se determine su destino, enviará los bienes a la Oficialía Mayor para su cumplimiento.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 77.
 
-La entrega se realizará mediante acta administrativa circunstanciada, con la participación de la Contraloría Interna, en la que se deberá incluir copia certificada de la sentencia, el inventario de los bienes y la indicación del estado en que se encuentran.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
-### CAPÍTULO II. DE LA ADMINISTRACIÓN DE. LOS BIENES INMUEBLES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2015)</small>
+
+### CAPÍTULO II
 
 ###### ARTÍCULO 78.
 
-La Dirección de Administración de la Procuraduría, respecto de los bienes inmuebles que tenga en depósito, por determinación de medidas cautelares que se dicten en el procedimiento de Extinción de Dominio, tendrá las siguientes atribuciones:
-
-I. Se auxiliará en la Secretaría de Seguridad Pública Estatal, quien destinará elementos cuando se requiera, para la guarda, custodia y resguardo de los bienes, hasta en tanto se dicte sentencia y la misma cause ejecutoria;
-
-II. Realizará una inspección física de los bienes de que se trate;
-
-III. Realizará las acciones necesarias para su mantenimiento y conservación;
-
-IV. Rendirá cuentas al Juez y al Ministerio Público que ejercitó la acción de Extinción de Dominio, respecto de la administración de los bienes, consistente únicamente en los gastos que se eroguen por su conservación;
-
-V. Rendirá un informe anual al Procurador y éste, a su vez, a la Legislatura del Estado sobre los bienes que se encuentren en depósito, y
-
-VI. Denunciará ante el Ministerio Público, hechos que pudieran constituir delitos y que pudieran afectar al bien depositado.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 79.
 
-Las dependencias, órganos desconcentrados y entidades de la administración pública que reciban bienes muebles o inmuebles, con motivo de esta Ley, procederán a registrarlos e inventariarlos en términos de la normatividad vigente.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 80.
 
-Cuando se dicte sentencia donde se determine que no es procedente la acción de Extinción de Dominio intentada, y la misma cause ejecutoria, el Ministerio Público informará a la Dirección de Administración de la Procuraduría, para que se realice la entrega del bien al propietario o su apoderado legal, elaborando el acta administrativa circunstanciada correspondiente en la que deberá participar, además, el Órgano Interno de Control de la Procuraduría.
+(DEROGADO, P.O. 11 DE ABRIL DE 2015)
 
 ## TÍTULO CUARTO. DE LA COLABORACIÓN
 
@@ -793,9 +769,15 @@ Cuando se dicte sentencia donde se determine que no es procedente la acción de 
 
 El Juez que conozca de un procedimiento de Extinción de Dominio, de oficio o a petición del Ministerio Público, en términos del artículo 19 de esta Ley, podrá requerir información o documentos del sistema financiero por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, así como información financiera o fiscal al Sistema de Administración Tributaria y demás entidades públicas o privadas, que puedan servir para la sustanciación del procedimiento. El Juez y el Ministerio Público deberán guardar la más estricta confidencialidad sobre la información y documentos que se obtengan con fundamento en este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 82.
 
-Cuando los bienes motivo de la acción se encuentren en otra entidad federativa, o el extranjero, se utilizarán los exhortos, la vía de asistencia jurídica internacional, los demás instrumentos legales que establezcan el Código de Procedimientos Civiles para el Estado de Zacatecas, la legislación vigente, los tratados e instrumentos internacionales o, en su defecto, la reciprocidad internacional, para la ejecución de las medidas cautelares y la sentencia.
+Cuando los bienes se encuentren en el extranjero, el Ministerio Público formulará la solicitud de asistencia jurídica internacional que resulte necesaria para la preparación, tramitación y ejecución de la acción de extinción de dominio, en términos de los instrumentos jurídicos internacionales de los que el Estado Mexicano sea parte. En estos casos, se requerirá el auxilio de las autoridades federales competentes.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2015)</small>
+
+En caso de que deban ser practicadas diligencias fuera de la entidad, el Ministerio Público requerirá la colaboración de la Procuraduría o Fiscalía de que se trate.
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN DEL USO ILÍCITO DE LOS BIENES
 
@@ -858,3 +840,9 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAÚ HERNÁNDEZ HERRERA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE ABRIL DE 2015.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
