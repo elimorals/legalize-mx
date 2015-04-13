@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-03-16"
+last_updated: "2015-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1881,7 +1881,13 @@ XVII. Designar, para el adecuado desarrollo del Sistema de Control y Evaluación
 
 XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código.
 
-XIX. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XIX. Revisar que se cumpla en tiempo y forma con lo establecido en la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XX. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -2043,7 +2049,25 @@ XIII. Informar por escrito a la Contraloría Municipal sobre la emisión, modifi
 
 XIV. Proporcionar en tiempo y forma requerido por la Contraloría Municipal, todos los documentos, datos e informes que les sean solicitados.
 
-XV. Las demás que expresamente les señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XV. Son responsables del control físico y salvaguarda de las entradas y salidas del almacén.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XVI. Son Responsables de alimentar la información al Sistema de Contabilidad Gubernamental en lo que a cada una de sus áreas le corresponda.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XVII. Remitir a la Secretaría de Finanzas su anteproyecto de Presupuesto de Egresos a más tardar el 20 de Septiembre de cada año.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XVIII. Proporcionar a la Secretaría de Finanzas la información referente a los apoyos y subsidios que hayan sido otorgados, en términos y plazos de la normatividad establecida.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XIX. Las demás que expresamente les señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
 APARTADO OCTAVO
 
@@ -2141,11 +2165,41 @@ I. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones
 
 II. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley de Hacienda del Municipio de Aguascalientes, el presente Código y las demás disposiciones legales aplicables.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
 
-III. Realizar la contabilidad gubernamental y los informes financieros correspondientes al Ayuntamiento del Municipio de Aguascalientes y administrar el sistema de Armonización Contable conforme a la legislación aplicable, en Coordinación con las diversas Dependencias y/o entidades de la Administración Pública Municipal.
+III. Administrar y Gestionar el Sistema de Contabilidad Gubernamental en Coordinación con las diversas Dependencias y / o entidades de la Administración Pública Municipal de conformidad con lo establecido en la normatividad en la materia.
 
-IV. Las demás que le señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+IV. Llevar a cabo el análisis de la información contenida en la cuenta pública mensual con el fin de tomar medidas correctivas.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+V. Emitir y mantener actualizado el Manual de Lineamientos y Políticas Generales para el Control de los Recursos.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+VI. Emitir y mantener actualizado el Manual de Contabilidad.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+VII. Revisar y Firmar la Cuenta de la Hacienda Pública del Municipio.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+VIII. Constituir Provisiones de conformidad con lo establecido en la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+IX. Proporcionar a la Secretaría de Administración toda la información que se deba publicar de conformidad con la normatividad en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+X. Formular y emitir en los lineamientos para definir la Estructura Presupuestal en coordinación con el Instituto Municipal de Planeación.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XI. Las demás que le señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO
 
@@ -2185,9 +2239,13 @@ XI. Contratar los servicios y adquirir los materiales y suministros requeridos p
 
 Para el caso del supuesto establecido en el párrafo anterior, dicha facultad se encuentra limitada exclusivamente para el procedimiento de compra directa establecido en el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
 
-XII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XII. Registrar en el Sistema de Contabilidad Gubernamental todos los expedientes de Obra Pública.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO PRIMERO
 
@@ -2285,7 +2343,17 @@ XLII. Evaluar el impacto de las políticas en materia de informática y mejora r
 
 XLIII. Dar seguimiento para que las dependencias cumplan en lo conducente, lo establecido en el presente artículo.
 
-XLIV. las demás que le señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XLIV. Publicar toda la información que debe ser difundida de oficio y mantenerla actualizada de conformidad con lo establecido en la normatividad en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XLV. Coordinar a las dependencias del Municipio para llevar a cabo el levantamiento físico del inventario en todos los almacenes del Municipio, el cual se deberá llevar a cabo una vez al año.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XLVI. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2008)</small>
 
@@ -2503,9 +2571,17 @@ XXXIX. Participar en la suscripción de convenios de colaboración que celebre l
 
 XL. Gestionar el procedimiento de regularización de asentamientos humanos que carecen de los permisos respectivos, de acuerdo a los segmentos de competencia municipal que las leyes establezcan;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
 
-XLI. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XLI. Elaborar, controlar y mantener actualizado el inventario del patrimonio inmobiliario conforme a lo establecido en la normatividad en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XLII. Llevar a cabo el levantamiento físico del inventario de los bienes inmuebles de conformidad con la normatividad en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+
+XLIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -5947,31 +6023,37 @@ La administración de un panteón, sólo podrá negarse a realizar los servicios
 
 ###### ARTÍCULO 457.
 
-En los casos de interés social, para realizar los servicios funerarios, bastará con que exhiba el acta de defunción y la boleta de pago de derechos municipales, y el título de propiedad en su caso.
+(DEROGADO, P.O. 13 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 458.
 
-Las ventas de lotes a perpetuidad serán otorgadas por medio de títulos, los que deberán contener el derecho de uso para fines de inhumación y el nombre del propietario.
+(DEROGADO, P.O. 13 DE ABRIL DE 2015)
 
 ###### ARTÍCULO 459.
 
-La realización de cualquier acto jurídico, respecto a derechos o propiedad de los lotes de terreno en panteones, se efectuará en la forma en que señalen las leyes, debiendo avisar a la administración del panteón, del cambio de situaciones, a fin de que se anote en los registros.
+(DEROGADO, P.O. 13 DE ABRIL DE 2015)
 
-###### ARTÍCULO 460.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
 
-La inhumación, incineración o cremación cuando la haya, se efectuará en los panteones legalmente establecidos, mediante autorización escrita del Director del Registro Civil, quien se asegurará del fallecimiento y sus causas y exigirá presentación del certificado de defunción; previo pago correspondiente de los derechos al Municipio.
+###### ARTICULO 460.
+
+La inhumación, incineración o cremación cuando la haya, se efectuará en los panteones legalmente establecidos, previo pago correspondiente de los derechos al Municipio.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 461.
 
-Los restos humanos remitidos a los panteones de interés social para su inhumación, por hospitales dependientes del Estado o del Municipio, no causarán el pago de los derechos correspondientes, requiriéndose en todo caso la exhibición del certificado médico y la orden del Director del Registro Civil. La inhumación se llevará a cabo en fosa común o según lo ordene la autoridad competente.
+Los restos humanos remitidos a los panteones de interés social para su inhumación, por hospitales dependientes del Estado o del Municipio, no causarán el pago de los derechos correspondientes, requiriéndose en todo caso la exhibición del certificado médico de defunción. La inhumación se llevará a cabo en fosa común o según lo ordene la autoridad competente.
 
 ###### ARTÍCULO 462.
 
 Los cadáveres deberán embalsamarse, inhumarse, incinerarse o cremarse dentro de las cuarenta y ocho horas posteriores al fallecimiento, salvo autorización de la autoridad sanitaria, disposición del Ministerio Público o de la autoridad judicial.
 
-###### ARTÍCULO 463.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
 
-Ninguna exhumación podrá verificarse antes de transcurrido el plazo de cinco años, contados a partir de la fecha de inhumación, salvo en los casos que señale el presente Código, o por orden de la autoridad judicial, en asuntos de su competencia.
+###### ARTICULO 463.
+
+Ninguna exhumación podrá verificarse antes de transcurrido seis años mínimo de haber sido inhumado para las personas mayores de quince años de edad y cinco años para las personas menores de quince años de edad al momento de su fallecimiento. salvo en los casos que señale el presente Código, o por orden de la autoridad judicial, en asuntos de su competencia.
 
 ###### ARTÍCULO 464.
 
@@ -22566,3 +22648,29 @@ CUARTO.- En concordancia con lo anterior esta Administración Pública actuará 
 Visión: Aguascalientes es una comunidad armónica en la que la gente buena vive en paz y con tranquilidad, en un entorno respetuoso de los derechos humanos.
 
 Misión: Ser impulsor de la inclusión social, la igualdad y el desarrollo armónico de la población de Aguascalientes, a través de una administración eficiente y transparente de los recursos, que permita a las personas recobrar la confianza y la credibilidad en las instancias municipales.
+
+P.O. 13 DE ABRIL DE 2015.
+
+RESOLUTIVO PRIMERO POR EL QUE SE REFORMAN LOS ARTÍCULOS 460, 461 Y 463; RESOLUTIVO SEGUNDO POR EL QUE SE DEROGAN LOS ARTÍCULOS 457, 458 Y 459, TODOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento Interior para los Panteones Municipales del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, el día 10 de junio del dos mil dos, así como las reformas y adiciones que se hubieren aprobado a dicho ordenamiento.
+
+###### ARTÍCULO SEGUNDO.
+
+EI presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Se faculta a la Dirección de Panteones a efecto de que proceda a dar cumplimiento al artículo 68 del presente Reglamento para el caso de los titulares de derechos de uso a perpetuidad que a la presente fecha cuenten con más de seis años de rezago en el pago de mantenimiento.
+
+###### ARTÍCULO CUARTO.
+
+Para todas las cuestiones no previstas en el presente Reglamento, se aplicará supletoriamente el Código Municipal de Aguascalientes y demás normatividad aplicable en la materia.
+
+P.O. 13 DE ABRIL DE 2015.
+
+RESOLUTIVO PRIMERO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 104 FRACCIÓN XIX; ARTICULO 106 FRACCIÓN; XV 108; FRACCIÓN III Y IV; ARTÍCULO 109 FRACCIÓN XII; ARTÍCULO 110 FRACCIÓN XLIV; ARTICULO 112 FRACCIÓN XLI; ASÍ MISMO SE ADICIONAN LAS FRACCIONES XX DEL ARTÍCULO 104; XVI, XVII, XVIII Y XIX DEL ARTÍCULO 106; V, VI, VII, VIII, IX, X Y XI DEL ARTÍCULO 108; XIII DEL ARTÍCULO 109; XLV Y XLVI DEL ARTÍCULO 110; Y XLII Y XLIII DEL ARTÍCULO 112.
+
+ÚNICO. Las presentes reformas y adición al Código Municipal de Aguascalientes entrarán en vigor al día de su Publicación en el Periódico Oficial del Estado.
