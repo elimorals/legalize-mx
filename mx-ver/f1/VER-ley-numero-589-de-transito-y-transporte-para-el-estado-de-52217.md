@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2014-08-27"
+last_updated: "2015-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 13 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, EXCEPTO SU TÍTULO TERCERO Y DEMÁS DISPOSICIONES RELATIVAS A LA MATERIA DE TRANSPORTE PÚBLICO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -2282,3 +2284,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La Secretaría de Seguridad Pública contará con un plazo de seis meses, a partir de la entrada en vigor del presente Decreto, para integrar el padrón de choferes de transporte público del Estado de Veracruz.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE ABRIL DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz.
+
+SEGUNDO. Se deroga la Ley número 589 de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado de Veracruz el día lunes 6 de noviembre de 2006, excepto su Título Tercero y demás disposiciones relativas a la materia de transporte público, en tanto se emite la ley correspondiente.
+
+TERCERO. El Ejecutivo del Estado y en su caso, los ayuntamientos, expedirán o adecuarán los reglamentos respectivos par a (sic) el cumplimiento de la Ley, en un plazo no mayor a seis meses de la entrada en vigor de la misma.
+
+CUARTO. Los recursos humanos, materiales y financieros de la Dirección General de Tránsito del Estado, se transfieren a partir de la puesta en vigor de la presente Ley, a la Dirección General de Tránsito y Seguridad Vial, con pleno respeto a los derechos de sus trabajadores.
+
+QUINTO. En un plazo no mayor de noventa días naturales, contado a partir del inicio de vigencia de esta Ley, el Congreso del Estado adecuará las disposiciones del Código de Derechos para el Estado de Veracruz de Ignacio de la Llave a lo señalado en este ordenamiento.
