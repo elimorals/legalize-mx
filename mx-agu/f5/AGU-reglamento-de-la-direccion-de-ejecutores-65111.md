@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-direccion-de-ejecutores-65111"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-22"
-last_updated: "2008-12-22"
+last_updated: "2015-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA DIRECCION DE EJECUTORES
 
-REGLAMENTO DE LA DIRECCION DE EJECUTORES
+REGLAMENTO DE LA DIRECCIÓN DE EJECUTORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2015.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de diciembre de 2008.
 
@@ -209,13 +209,15 @@ XII. Proponer al Director las actualizaciones necesarias al Manual de Procedimie
 
 XIII. Las demás que las leyes, el Tribunal, el Presidente o el Director, le encomienden.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
+
 ###### Artículo 13.
 
-Para ser Coordinador se requiere.
+Para ser Coordinador se requiere:
 
 I. Ser ciudadano mexicano, en pleno goce de sus derechos y con residencia en la entidad no menor a dos años al día de su designación; y
 
-II. Ser licenciado en derecho, con conocimiento en ejecución de diligencias.
+II. Tener conocimiento en el tema de Ejecución de Diligencias.
 
 ###### Artículo 14.
 
@@ -478,3 +480,9 @@ AGUASCALIENTES, AGS., 10 DE DICIEMBRE DE 2008.
 EL C. MAGISTRADO PRESIDENTE DEL H. SUPREMO TRIBUNAL DE JUSTICIA,
 
 Lic. Juan Arturo Muñiz Candelas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ABRIL DE 2015.
+
+ÚNICO.- La presente modificación entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
