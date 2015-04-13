@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-operacion-de-la-unidad-de-acceso-a-la-87721"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-16"
-last_updated: "2013-03-13"
+last_updated: "2015-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE OPERACIÓN DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA Y EL COMITÉ DE INFORMACIÓN DE ACCESO RESTRINGIDO DE LA OFICINA DEL GOBERNADOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2015.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 16 de abril de 2012.
 
@@ -73,11 +73,11 @@ La Unidad de Acceso, respetará el derecho de acceso a la información que ejerz
 
 La Unidad de Acceso es la instancia administrativa encargada de la recepción de las peticiones de información y de su trámite, conforme a lo señalado en la Ley, este Reglamento, Lineamientos y demás disposiciones aplicables, sin perjuicio de que las atribuciones anteriores las ejerza directamente el Gobernador o a quien de manera directa designe para tal efecto.
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2015)</small>
 
 ###### Artículo 5.
 
-La Unidad de Acceso a la Información, estará a cargo de un Jefe de la Unidad, recayendo la designación en el titular de la Consejería de Asuntos Legales de la Oficina del Gobernador, cuyo nombramiento, será expedido por el C. Gobernador, en uso de las facultades que le confiere el Acuerdo de creación de la Unidad de Acceso.
+La Unidad de Acceso, estará a cargo de un Jefe de Unidad, será designado por el Gobernador del Estado, quien expedirá su nombramiento.
 
 ###### Artículo 6.
 
@@ -111,7 +111,9 @@ III. Personal de apoyo administrativo.
 
 El Titular de la Unidad de Acceso además de las atribuciones que la Ley le establece, tendrá las siguientes:
 
-I. Recibir las solicitudes de información que realicen los particulares y gestionar su atención por parte de las áreas administrativas de la Oficina del Gobernador, cumpliendo con lo señalado en la Ley.
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2015)</small>
+
+I. Recibir y contestar las solicitudes de información que realicen los particulares y gestionar su atención por parte de las áreas administrativas de la Oficina del Gobernador, cumpliendo con lo señalado en la Ley.
 
 II. Representar legalmente a la Oficina del Gobernador ante el Instituto, así como dar seguimiento a los medios de impugnación establecidos en la Ley.
 
@@ -143,11 +145,13 @@ El personal de apoyo de la Unidad de Acceso que realicen funciones de atención 
 
 Los funcionarios previstos en la fracción III del Artículo 8 de la Ley de Transparencia, auxiliarán en sus funciones al Jefe de la Unidad de Acceso.
 
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2015)</small>
+
 ###### Artículo 13.
 
-En caso de ausencias temporales del Titular de la Unidad de Acceso, será suplido por un servidor público adscrito a dicha Unidad. El servidor público suplente será designado por el Jefe de la Unidad de Acceso, si la ausencia no es mayor a 30 días. En caso de ser mayor el periodo de ausencia, el Secretario Particular del Gobernador designará al servidor público para suplirlo.
+En caso de ausencias temporales de hasta treinta días del Titular de la Unidad de Acceso, será suplido por el servidor público que el propio titular designe.
 
-En todo caso, se dará aviso al Gobernador del Estado de Veracruz de las ausencias.
+En caso de ser mayor el plazo de ausencia, el Gobernador del Estado designará al servidor público que lo supla.
 
 ### CAPÍTULO IV. De los Informes
 
@@ -191,7 +195,7 @@ La solicitud se hará mediante los formatos previamente validados por el Institu
 
 I. Nombre y domicilio del solicitante para recibir notificaciones, o en su caso, dirección de correo electrónico para tal efecto.
 
-II. La descripción de los documentos o registros, en los que se supone pueda localizarse la información solicitada; y (sic)
+II. La descripción de los documentos o registros, en los que se supone pueda localizarse la información solicitada; y
 
 III. Cualquier otro dato que, a juicio del requirente, facilite la ubicación de la información.
 
@@ -255,7 +259,7 @@ Cuando la información no se encuentre en los registros o archivos de la Oficina
 
 ###### Artículo 30.
 
-Tratándose de documentos que por su naturaleza, no sean normalmente sustituibles, tales como manuscritos históricos, incunables, ediciones primas o especiales, mapas, planos, folletos, grabados antiguos y cualquier otro objeto o registro que contenga información de este genero, se proporcionará a los solicitantes las facilidades necesarias para su consulta.
+Tratándose de documentos que por su naturaleza, no sean normalmente sustituibles, tales como manuscritos históricos, incunables, ediciones primas o especiales, mapas, planos, folletos, grabados antiguos y cualquier otro objeto o registro que contenga información de este género, se proporcionará a los solicitantes las facilidades necesarias para su consulta.
 
 ###### Artículo 31.
 
@@ -281,7 +285,7 @@ Cuando se niegue la información por encontrarse en las excepciones previstas en
 
 ###### Artículo 35.
 
-En caso de dificultad que impida localizar la información y reunirla dentro del plazo señalado en el artículo 59 de la Ley, la Unidad de Acceso tramitará ante el Instituto una prorroga hasta por diez días hábiles más, previa notificación que se haga al solicitante.
+En caso de dificultad que impida localizar la información y reunirla dentro del plazo señalado en el artículo 59 de la Ley, la Unidad de Acceso tramitará ante el Instituto una prórroga hasta por diez días hábiles más, previa notificación que se haga al solicitante.
 
 ### CAPÍTULO IX. De la Ampliación del Plazo
 
@@ -299,7 +303,7 @@ Para los efectos de la Ley y de este Reglamento, se entenderá por costos de rep
 
 En caso de que se posea una versión electrónica de la información solicitada, se podrá enviar al particular sin costo alguno o ponerla a su disposición en las oficinas de la Unidad de Acceso.
 
-### CAPÍTULO XI. Del Requerimiento de Precision de Datos
+### CAPÍTULO XI. Del Requerimiento de Precisión de Datos
 
 ###### Artículo 39.
 
@@ -379,31 +383,43 @@ II. Por el Titular de la Secretaría Particular, en su carácter de vocal y supl
 
 III. Por el Titular de la Secretaría Privada, en su carácter de vocal dentro del Comité;
 
-IV. Por el Titular de la Coordinación de Asuntos Legales, en su carácter de Jefe de la Unidad de Acceso a la Información y vocal dentro del Comité;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2015)</small>
+
+IV. Por el Titular de la Consejería Jurídica y de Derechos Ciudadanos, en su carácter de vocal dentro del Comité;
 
 V. Por el Titular de la Unidad Administrativa, en su carácter de vocal en el Comité;
 
 VI. Por el Titular de la Coordinación de Agenda, en su carácter de vocal en el Comité;
 
-VII. Por el Titular de la Secretaría Técnica de la Oficina del C. Gobernador, en su carácter de vocal en el Comité;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2015)</small>
 
-VIII. Por el Titular de la Administración de Casa Veracruz, en su carácter de vocal en el Comité;
+VII. Por el Titular de la Secretaría Técnica de la Oficina del C. Gobernador, en su carácter (sic) Secretario Técnico del Comité;
+
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2015)</small>
+
+VIII. Por el Jefe del Departamento de Tecnologías de la Información, en su carácter de vocal en el Comité;
 
 IX. Por el Titular de la Coordinación de Giras, en su carácter de vocal en el Comité; y
 
-X. Por el Delegado de la Unidad de Acceso, en su carácter de Secretario Técnico del Comité.
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2015)</small>
+
+X. Por el Jefe de la Unidad (sic) Acceso a la Información de la Oficina del Gobernador, en su carácter de vocal en el Comité.
+
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2015)</small>
 
 ###### Artículo 51.
 
-Los integrantes descritos en las fracciones II, III, IV, V, VI, VII, VIII y IX, tendrán el carácter de vocales y podrán designar por escrito a otra persona para que en su ausencia les representen en las sesiones del Comité.
+Los integrantes descritos en las fracciones II, III, IV, V, VI, VIII, IX y X, tendrán el carácter de vocales y podrán designar por escrito a otra persona para que en su ausencia les represente en las sesiones del Comité.
 
 ###### Artículo 52.
 
 Los integrantes del Comité tendrán derecho de voz y voto en los acuerdos de clasificación, a excepción del Secretario Técnico del Comité que solo contará con derecho de voz.
 
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2015)</small>
+
 ###### Artículo 53.
 
-Las sesiones del Comité se celebrarán en el domicilio legal de la Oficina del C. Gobernador, serán ordinarias y extraordinarias, las primeras se realizarán bimestralmente y las segundas cuando así lo requiera la naturaleza del asunto, o se presente alguna solicitud en la que se requiera información reservada o confidencial que no haya sido clasificada previamente.
+Las sesiones del Comité se celebrarán en el domicilio legal de la Oficina del Gobernador, serán ordinarias y extraordinarias, las primeras se realizarán semestralmente y las segundas cuando así lo requiera la naturaleza del asunto, o se presente alguna solicitud en la que se requiera información reservada o confidencial que no haya sido clasificada previamente.
 
 ###### Artículo 54.
 
@@ -492,3 +508,9 @@ G.O. 13 DE MARZO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Publíquese en la Página Web de la Oficina del Gobernador: www.veracruz.gob.mx.
+
+G.O. 13 DE ABRIL DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
