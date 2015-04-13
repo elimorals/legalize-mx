@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-762
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-23"
-last_updated: "2010-08-23"
+last_updated: "2015-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2010.
 
@@ -45,7 +45,7 @@ El presente Reglamento es de orden público y de interés general y tiene por ob
 
 Para efectos del presente Reglamento se entenderá por:
 
-l. Procuraduría: La Procuraduría General de Justicia del Estado de Aguascalientes;
+I. Procuraduría: La Procuraduría General de Justicia del Estado de Aguascalientes;
 
 II. Procurador: El Procurador General de Justicia del Estado;
 
@@ -605,9 +605,9 @@ II. Informar y orientar a la ciudadanía acerca de los derechos y obligaciones q
 
 III. Promover la participación comunitaria en torno a las tareas de la Procuraduría;
 
-IV Proponer e instrumentar los mecanismos de coordinación y concentración social, tendientes al fortalecimiento de los programas de prevención del delito de la Procuraduría;
+IV. Proponer e instrumentar los mecanismos de coordinación y concentración social, tendientes al fortalecimiento de los programas de prevención del delito de la Procuraduría;
 
-V Coordinar esfuerzos en materia de prevención del delito con instancias de los tres niveles de gobierno;
+V. Coordinar esfuerzos en materia de prevención del delito con instancias de los tres niveles de gobierno;
 
 VI. Convocar y coordinar a los grupos organizados de los sectores social y privado para emprender acciones de participación y organización ciudadana, tendientes a ampliar y facilitar el acceso de la comunidad a los servicios de la Procuraduría y al fortalecimiento de los programas de prevención del delito;
 
@@ -669,7 +669,7 @@ IX. Proponer al Subprocurador Jurídico y de Control Interno la celebración de 
 
 Para el debido cumplimiento de las atribuciones del Ministerio Público del Fuero Común en el Estado, serán sus auxiliares:
 
-l. Los elementos de las corporaciones de Seguridad Pública y Tránsito de los Municipios y del Estado en el desempeño de sus funciones;
+I. Los elementos de las corporaciones de Seguridad Pública y Tránsito de los Municipios y del Estado en el desempeño de sus funciones;
 
 II. Los Policías Ministeriales y Preventiva de las diversas Entidades Federativas;
 
@@ -695,9 +695,13 @@ IV. Remitir las diligencias que hubieren practicado como auxiliares del Minister
 
 V. Cumplimentar los exhortos y gestiones solicitadas por el Ministerio Público del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2015)</small>
+
 ###### Artículo 31.
 
-El personal del Ministerio Público será sustituido en el supuesto de ausencias temporales y accidentales, menores a treinta días, conforme a las siguientes:
+El personal del Ministerio Público será sustituido en el supuesto de ausencias, conforme a las siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2015)</small>
 
 I. El Procurador, por el Subprocurador de Averiguaciones Previas, y en ausencia de éste, por el Subprocurador de Control de Procesos;
 
@@ -752,3 +756,9 @@ SECRETARIO GENERAL DE GOBIERNO.
 Lic. Edgardo Valdivia Gutiérrez,
 
 PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ABRIL DE 2015.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
