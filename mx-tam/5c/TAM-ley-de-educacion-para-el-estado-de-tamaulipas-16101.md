@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2014-07-09"
+last_updated: "2015-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -197,37 +197,41 @@ XIX.- Favorecer que la educación se oriente hacia la formación de la libertad 
 
 XX.- Fortalecer todos los aspectos de la formación en los que se alcance el conocimiento y la valoración de la persona, su naturaleza y sus fines, y todo lo que para ella valga, como lo es la historia, la economía, la política, lo social, el arte, la ciencia y la tecnología, de manera permanente;
 
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2015)</small>
+
+XXI.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas, así como su comprensión, aplicación y uso responsables;
+
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XXI.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas;
+XXII.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XXII.- Impulsar, en coordinación con la Secretaría de Desarrollo Económico y Turismo, la Secretaría de Desarrollo Urbano y Medio Ambiente y el Instituto Tamaulipeco para la Cultura y las Artes, la realización de viajes de carácter recreativo que permitan la identificación de las personas con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto;
+XXIII.- Impulsar, en coordinación con la Secretaría de Desarrollo Económico y Turismo, la Secretaría de Desarrollo Urbano y Medio Ambiente y el Instituto Tamaulipeco para la Cultura y las Artes, la realización de viajes de carácter recreativo que permitan la identificación de las personas con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXIII.- Implementar programas permanentes para prevenir, erradicar y sancionar el maltrato físico, psicológico y verbal entre las y los estudiantes, así como entre el magisterio y el educando;
+XXIV.- Implementar programas permanentes para prevenir, erradicar y sancionar el maltrato físico, psicológico y verbal entre las y los estudiantes, así como entre el magisterio y el educando;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXIV.- Promover la participación de debates y expresión de las ideas en forma pacífica y respetuosa entre los alumnos:
+XXV.- Promover la participación de debates y expresión de las ideas en forma pacífica y respetuosa entre los alumnos:
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXV.- Fomentar los valores y principios del cooperativismo.
+XXVI.- Fomentar los valores y principios del cooperativismo.
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2015)</small>
+
+XXVII.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la Información Pública Gubernamental y de las mejores prácticas para ejercerlo;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXVI.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
+XXVIII.- Promover y fomentar la lectura y el libro; y
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXVII.- Promover y fomentar la lectura y el libro; y
-
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
-
-XXVIII.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+XXIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -407,13 +411,17 @@ XXII.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones
 
 Las autoridades educativas participarán en la actualización e integración permanente del Sistema de Información y Gestión Educativa, mismo que también deberá proporcionar información para satisfacer las necesidades de operación de los sistemas educativos.
 
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2015)</small>
+
+XXIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2015)</small>
+
+XXIV.- Fomentar y supervisar el uso responsable de las tecnologías de la información y la comunicación, en las Instituciones que integran el Sistema Educativo Estatal, con base en los lineamientos generales que emita la autoridad educativa federal; y
+
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar, y
-
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
-
-XXIV.- Las demás que le establezcan las disposiciones aplicables.
+XXV.- Las demás que le establezcan las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -1053,9 +1061,9 @@ El Estado impulsará la enseñanza de valores éticos universales en la educaci�
 
 El Estado impartirá clases de inglés y cursos de cuidado y protección al medio ambiente para el desarrollo sustentable en las escuelas públicas de educación primaria y normal.
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2015)</small>
 
-Asimismo, el Estado impulsará la modernización educativa en las escuelas públicas de educación básica y media superior, a partir de la instalación de aulas de medios, centros de cómputo y otras tecnologías educativas que fortalezcan el proceso de enseñanza-aprendizaje.
+Asimismo, el Estado impulsará la modernización educativa en las escuelas públicas de la educación básica y media superior, a partir de la instalación de aulas de medios, centros de cómputo y otras tecnologías de la información y comunicación que fortalezcan y coadyuven a ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento.
 
 ###### ARTICULO 60.
 
@@ -2109,13 +2117,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 3 DE ABRIL DE 2014.
 
-DECRETO NO. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NO. LXII-208, DE FECHA 7 DE MARZO DE 2014, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULlPAS.
+DECRETO NO. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NO. LXII-208, DE FECHA 7 DE MARZO DE 2014, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
