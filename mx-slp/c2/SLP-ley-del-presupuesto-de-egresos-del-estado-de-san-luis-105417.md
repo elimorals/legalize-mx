@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-105417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2015-01-30"
+last_updated: "2015-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL 2015
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL UNO DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de diciembre de 2014.
 
@@ -383,6 +381,8 @@ Lic. Cándido Ochoa Rojas
 
 > <small>N. DE E. VÉASE ANEXOS EN EL P.O. DE 20 DE DICIEMBRE DE 2014, PÁGINAS DE LA 35 A LA 149.</small>
 
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO II EN EL P.O. DE 14 DE ABRIL DE 2015, PÁGINA 3.</small>
+
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE ENERO DE 2015.
@@ -390,3 +390,9 @@ P.O. 30 DE ENERO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
