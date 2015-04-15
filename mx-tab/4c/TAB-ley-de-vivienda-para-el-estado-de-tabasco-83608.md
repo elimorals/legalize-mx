@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-vivienda-para-el-estado-de-tabasco-83608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2012-02-25"
+last_updated: "2015-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 25 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 28 de septiembre de 2011.
 
@@ -53,29 +51,39 @@ LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 76 de la Constitución Política del Estado Libre y Soberano de Tabasco, en materia de vivienda, en concordancia con el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos.
+La presente ley es reglamentaria del artículo 2, fracción XXXV, de la Constitución Política del Estado de Tabasco, y reconoce el derecho a la vivienda como un derecho humano, establecido en los artículos 1 y 4 de la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales suscritos y ratificados por el Estado Mexicano, de conformidad con los párrafos segundo y tercero del artículo 2, de la Constitución estatal. Lo anterior, en relación con lo señalado por el artículo 76 de la propia Constitución, en materia de rectoría del desarrollo económico del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 2.
 
-Las disposiciones de la presente Ley son de orden público e interés social y deberán aplicarse bajo los principios de equidad e inclusión social, que permitan a todos los habitantes del Estado, sin importar su origen étnico, género, edad, discapacidad, condición social o económica, aspectos de salud, religión, opinión, preferencias o estado civil, disfrutar de una vivienda digna y decorosa, entendiéndose como tal, aquella vivienda que cumpla con las disposiciones jurídicas y normativas tales como:
+Las disposiciones de esta Ley son de orden público e interés social, y deberán aplicarse bajo los principios de equidad e inclusión social, que permitan a todos los habitantes del Estado, disfrutar de una vivienda adecuada, digna y decorosa, sin importar su origen étnico, género, edad, discapacidad, condición social o económica, aspectos de salud, religión, opinión, preferencias o estado civil, y sin discriminación alguna por razones de carácter político o económico.
 
-I. Asentamientos humanos;
+Se entiende como vivienda adecuada, digna y decorosa aquella que cumpla con disposiciones jurídicas y normativas relacionadas con:
 
-II. Construcción, habitabilidad y salubridad;
+I. Asentamientos humanos y ordenamiento territorial, procurando que su ubicación sea accesible para atender las opciones de empleo, el cuidado de la salud y la asistencia a los centros educativos;
 
-III. Que cuente con los servicios básicos;
+II. Construcción adecuada, habitabilidad y salubridad, incluyendo aspectos culturales, materiales y diseños apropiados para las condiciones climáticas regionales y locales;
 
-IV. Que brinde a sus ocupantes certeza jurídica en cuanto a su propiedad y legítima posesión; y
+III. Infraestructura, servicios básicos y equipamiento;
 
-V. Que contemple criterios para la prevención de desastres y la protección física de sus ocupantes, ante los elementos naturales potencialmente agresivos.
+IV. Seguridad jurídica en cuanto a su propiedad y legítima posesión;
 
-Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se ejecutarán conforme a los recursos que contemple el presupuesto general de egresos del Estado y demás que sean destinados para tal fin, y se regirán bajo los principios de respeto a la legalidad y protección jurídica a la propiedad, en armonía con un crecimiento urbano racional y sustentable, buscando desincentivar la invasión de predios y el crecimiento irregular de las ciudades.
+V. Asequibilidad, considerando a todas las personas, de modo que los gastos en materia de vivienda no impidan el logro y satisfacción de otras necesidades básicas; y
+
+VI. Prevención de desastres y la protección física de sus ocupantes, ante los elementos climáticos, naturales y tecnológicos potencialmente peligrosos.
+
+Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se ejecutarán conforme a los programas y recursos que contemple el Presupuesto General de Egresos del Estado y otros que sean destinados para tal fin, y se regirán bajo los principios de respeto a la legalidad y protección jurídica a la propiedad, en armonía con un crecimiento urbano racional y sustentable, buscando desincentivar la invasión de predios y el crecimiento irregular de las ciudades, con base en una planeación democrática de las políticas territoriales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 3.
 
-La Política Estatal de Vivienda deberá articular eficazmente los recursos estatales, nacionales e internacionales, contemplando la constitución integral que hábitat y favoreciendo los esfuerzos de la población, por lo que la presente Ley debe asegurar su funcionalidad en:
+La Política Estatal de Vivienda deberá articular eficazmente los recursos estatales, municipales, nacionales e internacionales, contemplando la constitución integral del hábitat y favoreciendo los esfuerzos de la población, por lo que la presente Ley debe asegurar su funcionalidad en:
 
 I. Su naturaleza social: basada en los principios constitucionales de justicia social, igualdad, equidad y participación social, para asegurar el desarrollo humano integral y la consolidación del individuo, la familia y la comunidad; el fomento y producción de empleo a través del diseño, planificación, producción, desarrollo, mejora y adjudicación de la vivienda;
 
@@ -83,9 +91,11 @@ II. Su carácter estratégico: fundamentado en la aplicación del flujo eficient
 
 III. Su condición no lucrativa: Con base en la obligación constitucional intransferible que tiene el Estado de garantizar el derecho a la vivienda.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 4.
 
-El INVITAB, las demás dependencias y entidades de la Administración Pública Estatal, los ayuntamientos en el ámbito de su competencia y demás instancias competentes en la materia de vivienda, promoverán el desarrollo integral de la sociedad mediante programas de vivienda, estableciendo los mecanismos para que las mujeres y los hombres en igualdad de oportunidades y condiciones accedan a éstos.
+El Gobierno del Estado, con la intervención del INVITAB promoverá las acciones en materia de vivienda a cargo de la Administración Pública Estatal, en coordinación con las dependencias y entidades de la Administración Pública Federal y los ayuntamientos en el ámbito de sus respectivas competencias; con el fin de contribuir al desarrollo integral de la sociedad mediante programas de vivienda, estableciendo los mecanismos para que toda persona y su familia, mujeres y hombres en igualdad de oportunidades y condiciones, ejerzan su derecho a la vivienda a través de dichos programas.
 
 ###### Artículo 5.
 
@@ -95,21 +105,33 @@ I. Definir, regular y orientar la Política Estatal de Vivienda, así como las a
 
 II. Definir los lineamientos generales de la política y los programas de vivienda;
 
-III. Regular la coordinación y concertación de acciones con los sectores público, social y privado, dirigidas a garantizar el derecho y disfrute de una vivienda digna y decorosa, tanto en tiempo, forma y calidad, cumpliendo con los perfiles de seguridad física y certeza jurídica;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-IV. Establecer los criterios de ayuda y protección para los grupos sociales en situación de vulnerabilidad en el territorio de la Entidad;
+III. Regular la coordinación y concertación de acciones con los sectores público, social y privado, dirigidas a garantizar el derecho y disfrute de una vivienda adecuada, digna y decorosa, tanto en tiempo, forma y calidad, cumpliendo con lo dispuesto en las fracciones I a la VI del artículo 2 de esta Ley;
 
-V. Propiciar y fomentar la participación de los sectores social y privado para la producción, mejoramiento, autoconstrucción, autoproducción y adquisición; de vivienda nueva o usada, el mejoramiento de ésta o la adquisición de lotes con servicio mediante cualquier tipo de crédito, subsidio u otro, acorde con el Plan Estatal de Desarrollo y en continua coordinación con la federación y los ayuntamientos, en los términos de las diversas disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-VI. Establecer las bases mediante las cuales el Estado y entidades federales promuevan todo tipo de programas o esquemas de financiamiento y subsidio para vivienda, con el fin de que la población tenga acceso o pueda adherirse a ellos;
+IV. Establecer los criterios de políticas públicas para atender las necesidades específicas de los grupos sociales en situación de vulnerabilidad en el territorio del Estado;
 
-VII. Crear los mecanismos indispensables a través de los sectores público y privado, para hacer llegar a los acreditados los recursos financieros necesarios, a fin de que se amplíe la cobertura de acceso a los créditos de vivienda;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+V. Propiciar y fomentar la participación de los sectores social y privado para la producción, mejoramiento, autoconstrucción, autoproducción y adquisición de vivienda nueva o usada, el mejoramiento de ésta, la vivienda progresiva o la adquisición de lotes con infraestructuras y servicios mediante cualquier tipo de crédito, subsidio u otro, acorde con el Plan Estatal de Desarrollo, en coordinación efectiva con la federación y los ayuntamientos, en los términos de las diversas disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+VI. Establecer las bases mediante las cuales el Estado y las entidades públicas locales promuevan todo tipo de programas o esquemas de crédito y subsidio para vivienda, con el fin de que la población tenga acceso o pueda adherirse a ellos;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+VII. Crear los mecanismos y procedimientos, mediante la concertación con los sectores público y privado para facilitar a los acreditados el acceso de los recursos financieros necesarios, a fin de que se amplíe la cobertura de acceso a los créditos de vivienda;
 
 VIII. Crear el Sistema Estatal de Información e Indicadores de Vivienda, el cual permitirá medir las necesidades y tendencias existentes en el Estado en materia de vivienda, acorde al Sistema Nacional de Información e Indicadores de Vivienda y demás normas aplicables en la materia;
 
 IX. Establecer los mecanismos jurídicos y financieros para que los beneficiarios opten por la mejor vivienda, acorde a sus preferencias y a sus posibilidades económicas, siempre reconociendo plenamente sus derechos y los diversos mecanismos y apoyos, tanto de índole fiscal como legal;
 
-X. Definir las diversas modalidades de construcción y mejoramiento de vivienda existente en el Estado y las condiciones propicias de financiamiento;
+(REFORMADA, P.O. 15 DE ABRIL DE 2015
+
+X. Definir y atender, sin excepción, las diversas modalidades de construcción y mejoramiento de vivienda existente en el Estado y las condiciones adecuadas de financiamiento;
 
 XI. Promover la obtención de recursos para la adquisición de tierra con condiciones de habitabilidad apta y segura, para crear e implementar reservas territoriales, tendientes a fomentar la oferta pública de suelo destinada al desarrollo de la vivienda;
 
@@ -121,13 +143,19 @@ XIV. Motivar, impulsar, desarrollar, promover y apoyar la distribución de mater
 
 XV. Fijar las bases para convenir con instituciones académicas la realización de estudios socioeconómicos que sustenten los perfiles de la población que acredite características de rezago social y económico;
 
-XVI. Constituirse como instrumento rector de vivienda en el Estado, promoviendo información y asesoría a todo desarrollador previendo la sustentabilidad del medio ambiente y contemplando el cambio climático mediante estrategias de mitigación y adaptación; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-XVII. Promover e incentivar la sana convivencia y conservación del entorno a los residentes de los fraccionamientos y/o conjuntos habitacionales destinados a población en situación de rezago social.
+XVI. Constituirse como instrumento rector de vivienda en el Estado, promoviendo información y asesoría a todo desarrollador, previendo la sustentabilidad de los programas y proyectos habitacionales, con respeto al medio ambiente y considerando el cambio climático mediante estrategias de prevención, adaptación y mitigación; y
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XVII. Promover e incentivar la sana convivencia y conservación del entorno a los residentes de los fraccionamientos y/o conjuntos habitacionales administrados bajo el régimen de condominios.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 6.
 
-Serán de aplicación supletoria a este ordenamiento, la Ley de Vivienda en el ámbito federal, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco, la Ley de Protección Ambiental del Estado de Tabasco, la Ley de Desarrollo Social del Estado de Tabasco y el Código Civil para el Estado de Tabasco, así como los demás ordenamientos legales relacionados en materia de vivienda.
+Serán de aplicación supletoria a este ordenamiento, la Ley de Vivienda en el ámbito federal, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, La Ley General de Asentamientos Humanos, la Ley General de Desarrollo Social, la Ley General de Protección Civil; la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco; la Ley de Protección Ambiental del Estado de Tabasco; la ley de Protección Civil del Estado de Tabasco; la Ley de Desarrollo Social del Estado de Tabasco; y el Código Civil para el Estado de Tabasco, así como los demás ordenamientos legales relacionados en materia de vivienda.
 
 ###### Artículo 7.
 
@@ -139,7 +167,9 @@ II. AUTOPRODUCCIÓN DE VIVIENDA: Proceso de gestión de suelo, construcción y d
 
 III. CONSEJO: Consejo Estatal de Vivienda;
 
-IV. CRÉDITO PARA VIVIENDA: Son los préstamos que se otorgan para la adquisición de suelo para vivienda, construcción, rehabilitación, mejoramiento, ampliación, complementación o adquisición de una vivienda;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+IV. CRÉDITO PARA VIVIENDA: Se refiere a los recursos otorgados en calidad de préstamo para atender todas las modalidades y tipos de programas de vivienda;
 
 V. EJECUTIVO DEL ESTADO: Poder Ejecutivo del Estado Libre y Soberano de Tabasco;
 
@@ -149,13 +179,17 @@ VII. ESTADO: Estado Libre y Soberano de Tabasco;
 
 VIII. ESTÍMULO: Medidas de carácter administrativo, fiscal, financiero o jurídico, que aplican las dependencias y entidades del sector público para promover y facilitar la ejecución de acciones, procesos o programas habitacionales;
 
-IX. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD: Aquellos núcleos de población que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+IX. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD, EXCLUSIÓN Y MARGINACIÓN: Aquellos núcleos de población que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de políticas públicas enfocadas a la atención e inversión del Gobierno del Estado y otros entes públicos para mejorar sus condiciones de vida y ejercer su derecho a la vivienda;
 
 X. INVITAB: Instituto de Vivienda de Tabasco;
 
 XI. LEY: Ley de Vivienda del Estado de Tabasco;
 
-XII. MEJORAMIENTO DE VIVIENDA: Acción tendiente a consolidar o renovar las viviendas deterioradas, física o funcionalmente, elevando su calidad; valor y/o superficie, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XII. MEJORAMIENTO DE VIVIENDA: Acción tendiente a consolidar o renovar las viviendas deterioradas, física o funcionalmente, elevando su calidad, valor y/o superficie, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda adecuada, digna y decorosa;
 
 XIII. PADRÓN ÚNICO DE BENEFICIARIOS EN MATERIA DE VIVIENDA: Base de datos que contiene un listado oficial de beneficiarios que incluye a las personas atendidas por los programas de vivienda, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
@@ -187,9 +221,9 @@ XXI. PROGRAMA SECTORIAL DE VIVIENDA: Instrumento técnico en materia de vivienda
 
 XXII. PROGRAMA MUNICIPAL DE VIVIENDA: Instrumento técnico en materia de vivienda, que contempla la situación que impera en el ámbito habitacional, así como las políticas, estrategias, objetivos, productos y resultados a alcanzar por determinado municipio;
 
-> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-XXIII. SECRETARÍA: Secretaría de Asentamientos y Obras Públicas;
+XXIII. SECRETARÍA: Secretaría de Ordenamiento Territorial y Obras Públicas del Gobierno del Estado de Tabasco;
 
 > <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
 
@@ -211,7 +245,9 @@ XXVII. SISTEMA ESTATAL DE INFORMACIÓN E INDICADORES DE VIVIENDA: Conjunto de da
 
 XXVIII. SUELO PARA VIVIENDA: Superficie física y legalmente susceptible a ser destinada, predominantemente al uso habitacional, conforme a las disposiciones aplicables;
 
-XXIX. VIVIENDA PROGRESIVA: Acción que comprende la construcción de un núcleo básico (área de usos múltiples, cocina, baño completo que incluya ducha y una recamara), con posibilidad de crecimiento por etapas. Considera las viviendas con desarrollo gradual, a partir de una unidad básica de servicios y/o un espacio habitable de usos múltiples. Su terminación definitiva se realiza por etapas de acuerdo con la disponibilidad de recursos económicos y necesidades de los propios usuarios; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XXIX. VIVIENDA PROGRESIVA: Acción que comprende la construcción de vivienda por etapas, cuya definición de usos y distribución de espacios corresponde a las personas y sus familias. Considera las viviendas con desarrollo gradual, conforme a la disponibilidad de recursos económicos y las necesidades de los propios usuarios; y
 
 XXX. VIVIENDA TERMINADA: Vivienda completa y acabada en un proceso continuo y único, bajo la gestión de agentes públicos y privados, cuya construcción fue ejecutada conforme a licencia de construcción y a la normatividad vigente.
 
@@ -219,9 +255,11 @@ XXX. VIVIENDA TERMINADA: Vivienda completa y acabada en un proceso continuo y ú
 
 ### CAPÍTULO PRIMERO. DE LOS LINEAMIENTOS
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 8.
 
-La planeación de las acciones públicas de vivienda se sujetará a lo dispuesto en esta Ley, el Programa Nacional de Vivienda, el Programa Estatal de Ordenamiento Territorial, al Programa Estatal de Desarrollo Urbano y los Programas de Desarrollo Urbano de los Centros de Población.
+La planeación de las acciones públicas de vivienda se sujetará a lo dispuesto en esta Ley, el Plan Estatal de Desarrollo, el Programa Nacional de Vivienda, el Programa Estatal de Ordenamiento Territorial, al Programa Estatal de Desarrollo Urbano y los Programas de Desarrollo Urbano de los Centros de Población.
 
 ###### Artículo 9.
 
@@ -281,11 +319,17 @@ XXVI. Promover la producción y distribución de materiales y elementos de cará
 
 XXVII. Crear los mecanismos que permitan integrar la base de datos del Sistema Estatal de Información e Indicadores de Vivienda; y
 
-XXVIII. En general, establecer los medios estratégicos adecuados que permitan la propiedad de una vivienda digna para la población, dando prioridad a las personas de escasos recursos, respetando siempre la cultura de las comunidades y zonas indígenas.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XXVIII. En general, establecer los medios estratégicos adecuados que permitan la propiedad o legítima posesión de una vivienda digna para la población, dando prioridad a las personas de escasos recursos, respetando siempre la cultura de las comunidades y zonas indígenas y de los pobladores de zonas urbanas.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 10.
 
-El INVITAB será el responsable de formular, implementar y evaluar la Política Estatal de Vivienda, así como de velar por su cumplimiento y coherencia, debiendo coordinarse para ello con las instancias federales y municipales.
+El INVITAB será el responsable de formular, implementar y evaluar la Política Estatal de Vivienda, así como de velar por su cumplimiento y coherencia, debiendo coordinarse para ello con las instancias federales y municipales, considerando en todo momento las condiciones de rezago y las necesidades en todas las modalidades programáticas respectivas.
+
+En el marco del Pacto Federal el Estado de Tabasco; a través del INVITAB, se coordinará con las dependencias y entidades federales competentes, atendiendo las prioridades y condiciones específicas de la realidad social de Tabasco.
 
 ###### Artículo 11.
 
@@ -311,19 +355,27 @@ El Programa Estatal y los Programas Municipales de Vivienda, se elaborarán en l
 
 ### CAPÍTULO SEGUNDO. DE LOS PROGRAMAS SECTORIAL Y MUNICIPALES DE VIVIENDA
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 13.
 
-El Programa Sectorial de Vivienda será elaborado por el INVITAB, con el objeto de articular el desarrollo ordenado de los programas, acciones, recursos y la producción habitacional en la entidad, en coordinación con las demás dependencias y entidades de la administración pública federal, estatal y municipal involucradas en la promoción de vivienda, previa aprobación del Ejecutivo del Estado.
+El Programa Sectorial de Vivienda será elaborado por el INVITAB, con el objeto de articular el desarrollo ordenado de los programas, acciones, recursos y la producción habitacional en la entidad, en coordinación con las demás dependencias y entidades de la administración pública federal, estatal y municipal involucradas en la promoción de vivienda, previa aprobación del Ejecutivo del Estado, ateniendo en todo momento el interés público de la sociedad tabasqueña, sus necesidades y condiciones de rezago habitacional.
 
 ###### Artículo 14.
 
 El Programa Sectorial de Vivienda contendrá:
 
-I. La fundamentación jurídica;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-II. Las condiciones que señalen el Programa Nacional de Vivienda, el Plan Estatal de Desarrollo y el Programa Estatal de Desarrollo Urbano en lo conducente;
+I. Marco jurídico y normativo;
 
-III. Diagnóstico Estatal que deberá integrarse con los diagnósticos municipales proporcionados por los Ayuntamientos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+II. Disposiciones estipuladas en el Programa Nacional de Vivienda, el Plan Estatal de Desarrollo y el Programa Estatal de Desarrollo Urbano en lo conducente;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+III. Diagnóstico Estatal, que deberá integrarse con los diagnósticos regionales elaborados por el Gobierno del Estado y con los diagnósticos municipales proporcionados por los Ayuntamientos;
 
 IV. Filosofía, Misión y Visión de la Política Estatal de Vivienda;
 
@@ -331,59 +383,77 @@ V. Objetivos generales y particulares que regirán en la Administración Públic
 
 VI. Estrategia general;
 
-VII. Metas de corto, mediano y largo plazo, compatibles con los intereses de los sectores público, social y privado;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-VIII. Pautas o modelos de programación anual;
+VII. Metas de corto, mediano y largo plazo, mediante coordinación y consulta con los sectores público, social y privado;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+VIII. Esquemas y metodología de programación anual;
 
 IX. Concordancia con la programación de desarrollo económico, social, urbano y de medio ambiente del estado de Tabasco;
 
 X. Lineamientos para la incorporación de suelo para uso habitacional, creación de reservas territoriales, previsiones para la dotación de infraestructura, equipamiento urbano y servicios para vivienda;
 
-XI. Mecanismos de coordinación con la Federación;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-XII. Lineamientos de concertación con el sector privado y social;
+XI. Mecanismos de coordinación con la Federación y los Ayuntamientos;
 
-XIII. Mecanismos y líneas para la inducción de acciones; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-XIV. Definición de indicadores que medirán los avances.
+XII. Lineamientos de concertación con los sectores privado y social;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XIII. Procedimientos y mecanismos para la inducción de acciones; y
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XIV. Definición de indicadores e instrumentos que medirán los avances.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 15.
 
 Los Programas Municipales de Vivienda deberán contener lo siguiente:
 
-I. La fundamentación jurídica;
+I. Fundamentación jurídica;
 
-II. Las condicionas que señalen el Programa Nacional de Vivienda, el Plan Estatal de Desarrollo y el Programa Estatal de Desarrollo Urbano en lo conducente;
+II. Condiciones que señalen el Programa Nacional de Vivienda, el Plan Estatal de Desarrollo y el Programa Estatal de Desarrollo Urbano en lo conducente;
 
-III. El diagnóstico de los problemas habitacionales en el Municipio;
+III. El Diagnóstico de los problemas habitacionales en el Municipio;
 
-IV. Los objetivos que se persigan y que regirán el desempeño de las acciones habitacionales de la Administración Pública Estatal;
+IV. Objetivos que se persigan y que regirán el desempeño de las acciones habitacionales de la Administración Pública Estatal;
 
-V. La metas compatibles con los medios y recursos disponibles del Estado;
+V. Metas compatibles con los medios y recursos disponibles del Estado;
 
-VI. La estrategia general que comprenderá las acciones básicas, el señalamiento de prioridades y su previsible impacto en el sistema económico y social;
+VI. Estrategia general que comprenderá las acciones básicas, el señalamiento de prioridades y su previsible impacto en el sistema económico y social;
 
-VII. Los lineamientos y la previsión de recursos para la programación institucional y anual con el señalamiento de metas y previsiones de recursos;
+VII. Lineamientos y la previsión de recursos para la programación institucional y anual con el señalamiento de metas y previsiones de recursos;
 
-VIII. La articulación del programa con el gasto público y su vinculación presupuestal;
+VIII. Articulación del programa con el gasto público y su vinculación presupuestal;
 
-IX. Las bases de coordinación con el Ejecutivo Federal y los ayuntamientos;
+IX. Bases de coordinación con el Ejecutivo Federal y los ayuntamientos;
 
-X. Las bases de participación con los sectores social y privado;
+X. Bases de participación con los sectores social y privado;
 
-XI. El manejo de instrumentos de políticas económicas y sociales relacionados con la vivienda y los responsables de su ejecución; y
+XI. Instrumentos de políticas económicas y sociales relacionados con la vivienda y los responsables de su ejecución; y
 
-XII. La ejecución en su caso, de proyectos estratégicos y de aquellos que se programen en materia de vivienda, que contempla la presente Ley.
+XII. Ejecución en su caso, de proyectos estratégicos y de aquellos que se programen en materia de vivienda, que contempla la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 16.
 
-Las acciones y lineamientos básicos que comprendan los Programas Estatales y Municipales de Vivienda serán entre otros, los siguientes:
+Los lineamientos y acciones que comprendan los Programas Estatales y Municipales de Vivienda serán entre otros, los siguientes:
 
 I. Adquisición, aprovechamiento y enajenación de suelo para fraccionamientos de urbanización inmediata con vivienda de interés social y progresiva, así como fraccionamientos de urbanización progresiva con vivienda de autoconstrucción, en los términos de esta Ley;
 
 II. Canalización y aplicación de recursos económicos para la vivienda de interés social progresiva y de autoconstrucción, fomentando los estímulos que faciliten la inversión pública y privada en la construcción de vivienda;
 
-III. Apoyo a la autoconstrucción y a la vivienda de construcción progresiva, en acciones públicas y predios en propiedad;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+III. Apoyo a la producción social de vivienda, la autoconstrucción y a la vivienda de construcción progresiva, en acciones públicas y predios en propiedad o legal posesión;
 
 IV. Aplicación de normas mínimas de habitabilidad y seguridad;
 
@@ -395,7 +465,9 @@ VII. Adopción de normas de diseño para la construcción de vivienda, coordinac
 
 VIII. Asistencia técnica, organización y participación social;
 
-IX. Fomento a la producción y mejoramiento de vivienda a través de sociedades cooperativas y otras normas de gestión social;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+IX. Fomento a la producción y mejoramiento de vivienda a través de sociedades cooperativas y otras formas de organización y gestión social legalmente reconocidas;
 
 X. Promoción y apoyo a los Programas de vivienda de los municipios; y
 
@@ -421,9 +493,11 @@ El Ejecutivo del Estado celebrará acuerdos de coordinación y convenios de conc
 
 El Ejecutivo del Estado tomará en consideración para la elaboración de la Política y los Programas de Vivienda, las propuestas que formulen los sectores privado y social, a través de los mecanismos que se determinen para tal efecto.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 20.
 
-El Programa Sectorial de Vivienda estará sometido a un proceso permanente de control y evaluación, conforme a la normatividad correspondiente, con el fin de determinar el cumplimiento de los objetivos de la presente Ley y su vinculación con la Política Estatal de Vivienda.
+El Programa Sectorial de Vivienda estará sometido a un proceso permanente de control y evaluación, conforme a la normatividad correspondiente, con el fin de determinar el cumplimiento del objeto de la presente Ley y su vinculación con la Política Estatal de Vivienda.
 
 ###### Artículo 21.
 
@@ -533,9 +607,13 @@ I. Determinar los lineamientos generales de la Política Estatal de Vivienda, co
 
 II. Coordinar la planeación, programación y presupuestación de acciones de suelo y vivienda considerando las aportaciones de los ayuntamientos, en congruencia con los lineamientos de las Políticas Nacional y Estatal de Vivienda;
 
-III. Formular y aprobar el Programa Sectorial de Vivienda, en congruencia con los lineamientos de la Política Nacional de Vivienda, debiendo remitirlo al Congreso para su conocimiento, así como evaluar y vigilar su cumplimiento; Constituir reservas territoriales para fines habitacionales, en los términos de la normatividad aplicable;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-IV. Operar mecanismos que le permitan contar con suelo suficiente y oportuno para uso habitacional;
+III. Formular y aprobar el Programa Sectorial de Vivienda, en congruencia con los lineamientos de la Política Nacional de Vivienda en el marco del Federalismo, debiendo remitirlo al Congreso para su conocimiento, así como evaluar y vigilar su cumplimiento en los términos de la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+IV. Operar mecanismos que le permitan contar con suelo suficiente y oportuno para uso habitacional y para constituir reservas territoriales con fines habitacionales, en los términos de la normatividad aplicable;
 
 V. Convenir, concertar, promover programas y acciones de vivienda y suelo con el gobierno federal, los gobiernos de otras entidades federativas y los ayuntamientos, además de los sectores social y privado;
 
@@ -555,19 +633,29 @@ XII. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano
 
 XIII. Apoyar a las autoridades municipales que lo soliciten en la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda;
 
-XIV. Promover la participación de los sectores social y privado en la instrumentación de los programas, acciones de suelo y vivienda, de conformidad con lo dispuesto en la presente Ley y en los demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XIV. Promover y apoyar la participación de los sectores social y privado en la instrumentación de los programas, acciones de suelo y vivienda, de conformidad con lo dispuesto en la presente Ley y en los demás ordenamientos aplicables;
 
 XV. Informar a la sociedad sobre las acciones que se realicen en materia de suelo y vivienda;
 
 XVI. Establecer y proponer mecanismos y programas de financiamiento y fomento para la producción de vivienda en todas sus modalidades;
 
-XVII. Identificar los inmuebles de propiedad estatal que puedan ser materia de enajenación en favor de instituciones públicas o privadas que tengan a su cargo resolver problemas de vivienda de interés social para atender las necesidades de la población vulnerable;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-XVIII. Impulsar la disposición y aprovechamiento de terrenos ejidales o comunales, con la participación que corresponda a las autoridades agrarias y de conformidad con las disposiciones jurídicas aplicables, a efecto de promover el desarrollo habitacional;
+XVII. Identificar los inmuebles de propiedad estatal que puedan ser materia de enajenación en favor de instituciones públicas, sociales o privadas que tengan a su cargo resolver problemas de vivienda de interés social para atender las necesidades de la población vulnerable;
 
-XIX. Promover y proponer la modernización del marco legal en materia de vivienda;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-XX. Coordinar con las dependencias y entidades federales, estatales y municipales, así como con el sector privado el desarrollo de políticas de habilitación y financiamiento de suelo para la vivienda;
+XVIII. Impulsar la disposición y aprovechamiento de terrenos ejidales o comunales, con la participación que corresponda a las autoridades agrarias y de conformidad con las disposiciones jurídicas aplicables, a efecto de promover el desarrollo habitacional, dando prioridad a las necesidades de la población de las comunidades ahí asentadas;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XIX. Promover y proponer la actualización del marco legal en materia de vivienda;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XX. Coordinar con las dependencias y entidades federales, estatales y municipales, así como con los sectores social y privado el desarrollo de políticas de habilitación y financiamiento de suelo para la vivienda;
 
 XXI. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para el desarrollo de la vivienda en los aspectos normativos, tecnológicos, productivos y sociales;
 
@@ -579,11 +667,15 @@ XXIV. Proporcionar la información correspondiente al Sistema Nacional de Inform
 
 XXV. Las demás que contribuyan al cumplimiento de los fines de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 31.
 
-La asignación o la enajenación de suelo de propiedad estatal o municipal, para la ejecución de fraccionamientos de urbanización inmediata y progresiva para las viviendas de interés social y de autoconstrucción destinados para la población de bajos ingresos, una vez definidas las áreas necesarias para la infraestructura, el equipamiento y los servicios urbanos deberán sujetarse a los requisitos siguientes:
+La asignación o la enajenación de suelo de propiedad estatal o municipal, para la ejecución de fraccionamientos de urbanización inmediata y progresiva para la producción social de vivienda, las viviendas de interés social y de autoconstrucción destinados para la población de bajos ingresos, una vez definidas las áreas necesarias para la infraestructura, el equipamiento y los servicios urbanos deberán sujetarse a los requisitos siguientes:
 
-I. Dirigirse a la población con ingreso máximo de hasta el límite de densidad previsto por los programas de fomento a la vivienda vigentes y atender preferentemente a los de más bajo ingreso;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+I. Dirigirse a la población con ingreso máximo de hasta el límite de densidad previsto por los programas de fomento a la vivienda vigentes y atender preferentemente a los sectores de más bajo ingreso;
 
 II. Determinar en función de la necesidad que se presente, las dimensiones de los lotes para construcción de la vivienda; y
 
@@ -611,9 +703,11 @@ El INVITAB fijará los mecanismos de información, calificación y clasificació
 
 Con base en lo anterior, el INVITAB elaborará un catálogo de terrenos aptos para destinarse a programas de vivienda, considerando las condiciones básicas de equipamiento urbano y factibilidad de introducción de los servicios de agua potable, drenaje sanitario, drenaje pluvial, y electricidad con el menor costo posible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 35.
 
-El INVITAB, a solicitud de los ayuntamientos, entidades públicas, organizaciones, grupos sociales y privados que tengan por objeto el desarrollo de fraccionamientos de urbanización inmediata y progresiva o la satisfacción de necesidades de vivienda de interés social y de autoconstrucción, podrá enajenar las áreas o los predios que se encuentren dentro de su patrimonio, en los términos de esta Ley y demás ordenamientos jurídicos correspondientes, observando en todo caso:
+El INVITAB, a solicitud de los ayuntamientos, entidades públicas, organizaciones, grupos sociales y privados que tengan por objeto el desarrollo de fraccionamientos de urbanización inmediata y progresiva o la satisfacción de necesidades de vivienda de interés social, de autoconstrucción y de producción social de vivienda, podrá enajenar las áreas o los predios que se encuentren dentro de su patrimonio, en los términos de esta Ley y demás ordenamientos jurídicos correspondientes observando en todo caso:
 
 I. La aptitud de los bienes a ser utilizados en los programas respectivos;
 
@@ -717,11 +811,17 @@ III. Las demás medidas que se requieran para garantizar el derecho a la viviend
 
 El INVITAB diseñará y operará los mecanismos y acciones necesarias para captar y destinar ahorros, subsidios, financiamientos y, en general, todos los recursos asignados a los programas que contribuyan a satisfacer las necesidades de vivienda de los distintos sectores de la población, preferentemente de las personas con menores ingresos económicos, considerando para ello, los aspectos siguientes:
 
-I. El aspecto físico: La sustitución de viviendas en situación de riesgo y el hacinamiento crítico en la vivienda;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-II. El aspecto organizativo: La eficacia en la actuación del sector público, la consolidación del sector privado y el fomento de nuevas formas de organización comunitaria, equitativa y sustentable; y
+I. El aspecto físico: La sustitución o rehabilitación de viviendas en situación de riesgo frente a desastres y el hacinamiento crítico en la vivienda;
 
-III. El aspecto administrativo: La optimización del gasto público.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+II. El aspecto organizativo: La eficacia en la actuación del sector público, la consolidación del sector privado y el fomento de nuevas formas de organización comunitaria, equitativa y sustentable, especialmente la producción social de vivienda; y
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+III. El aspecto administrativo: La gestión institucional con compromiso social y la optimización del gasto público.
 
 ###### Artículo 42.
 
@@ -745,7 +845,9 @@ V. Incrementar la competitividad en el sector mediante el fomento de una mayor p
 
 El INVITAB ejecutará el Programa Sectorial de vivienda con base, a las siguientes modalidades de financiamiento:
 
-I. Crédito o préstamo con garantía hipotecaria, otorgado por personas físicas, jurídico colectivas o por instituciones financieras legalmente establecidas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+I. Crédito o préstamo con garantía hipotecaria, otorgado por personas morales, jurídico colectivas o por instituciones financieras legalmente establecidas;
 
 II. Inversión directa del Ejecutivo del Estado, cuya aplicación se hará a través del INVITAB;
 
@@ -817,13 +919,17 @@ II. Facilitar el pago de los créditos por parte de los beneficiarios, en los t�
 
 III. Generar los fondos que garanticen la administración y recuperación de los créditos en caso de fallecimiento de los beneficiarios u otros riesgos previstos en los contratos de crédito.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 48.
 
-Para el otorgamiento del financiamiento destinado a los distintos tipos, modalidades y necesidades de vivienda, se fomentarán programas que incorporen el ahorro previo de los beneficiarios, aprovechando a las instituciones de crédito y a las instancias de captación de ahorro, particularmente las entidades de ahorro y crédito popular autorizadas por las leyes aplicables en la materia. Para tales efectos, el INVITAB concertará con las instituciones del sector financiero, las facilidades y estímulos para implementar los programas de ahorro, enganches y financiamiento para la adquisición de vivienda.
+Para el otorgamiento del financiamiento destinado a los distintos tipos, modalidades y necesidades de vivienda, se fomentarán programas que incorporen el ahorro previo y otras aportaciones en especie, trabajo y suelo de los beneficiarios, aprovechando a las instituciones de crédito y a las instancias de captación de ahorro, particularmente las entidades de ahorro y crédito popular autorizadas por las leyes aplicables en la materia. Para tales efectos, el INVITAB concertará con las instituciones del sector financiero, las facilidades y estímulos para implementar los programas de ahorro, enganches y financiamiento para la adquisición de vivienda.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 49.
 
-El INVITAB podrá establecer programas que combinen el ahorro, con crédito, estímulos o ambos, según corresponda, sin perjuicio de los demás requisitos de elegibilidad que establezcan las disposiciones aplicables, considerando las condiciones socioeconómicas de ahorro de los beneficiarios.
+El INVITAB podrá establecer programas que combinen el ahorro, con crédito, subsidios, estímulos o la combinación de éstos, según corresponda, sin perjuicio de los demás requisitos de elegibilidad que establezcan las disposiciones aplicables, considerando las condiciones socioeconómicas de ahorro de los beneficiarios.
 
 ### CAPÍTULO SEGUNDO. DEL PADRÓN ÚNICO DE BENEFICIARIOS EN MATERIA DE VIVIENDA
 
@@ -865,17 +971,21 @@ Con base en la información proporcionada por los beneficiarios y demás instanc
 
 El INVITAB emitirá los lineamientos para la constitución, actualización, autenticidad, inalterabilidad, seguridad y difusión de la información del Padrón Único de Beneficiarios en materia de Vivienda.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 53.
 
-El proceso de incorporación de los beneficiarios se apegará a los criterios de selección de localidades y de elegibilidad de beneficiarios que se establezcan en las reglas de operación de los programas de vivienda y/o desarrollo social.
+El proceso de incorporación de los beneficiarios se apegará a los criterios de selección de localidades y de elegibilidad de beneficiarios que se establezcan en las reglas de operación de los programas de vivienda y/o desarrollo social, las cuales deben sujetarse a las disposiciones establecidas en el artículo 2 de la Constitución Local.
 
-La incorporación de beneficiarios se podrá hacer a través de un levantamiento de estudio socioeconómico en las localidades o la verificación directa del cumplimiento de los criterios de elegibilidad, de conformidad con los mecanismos que establezcan las reglas de operación de cada programa.
+La incorporación de beneficiarios se podrá hacer a través de un levantamiento de estudio socioeconómico en las localidades o la verificación directa del cumplimiento de los criterios de elegibilidad, de conformidad con los mecanismos que establezcan las reglas de operación de cada programa, de conformidad a lo señalado en el artículo anterior.
 
-El proceso de incorporación a un programa de vivienda concluirá con el registro de las personas que cubran los criterios de elegibilidad y que de acuerdo con la disponibilidad presupuestal del programa puedan ser atendidos, considerando las metas establecidas en los mismos. Lo anterior, sin menoscabo de la responsabilidad de las dependencias y entidades de la Administración Pública Estatal y Municipal que tengan a su cargo los programas, de contar con la documentación comprobatoria sobre el cumplimiento de los requisitos de elegibilidad por parte de los beneficiarios.
+El proceso de incorporación a un programa de vivienda concluirá con el registro de las personas en función de los diagnósticos de rezago y necesidades que deben ser incorporados en los criterios de elegibilidad y de acuerdo con las asignaciones presupuestales del programa puedan ser atendidos, considerando las metas establecidas en los mismos. Lo anterior, sin menoscabo de la responsabilidad de las dependencias y entidades de la Administración Pública Estatal y Municipal que tengan a su cargo los programas, de contar con la documentación comprobatoria sobre el cumplimiento de los requisitos de elegibilidad por parte de los beneficiarios.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 54.
 
-Cuando los beneficiarios proporcionen información socioeconómica falsa con el objeto de recibir indebidamente los apoyos y servicios contenidos en los programas de vivienda y/o desarrollo social, las dependencias y entidades de la Administración Pública Estatal y Municipal procederán a suspender en lo sucesivo, la ministración de los mismos. En caso de que ya se hubieren otorgado, solicitarán su reintegro, sin perjuicio de que se apliquen las sanciones que procedan, con base en el procedimiento que determinen las disposiciones legales correspondientes.
+Cuando los beneficiarios proporcionen información socioeconómica errónea al gestionar los apoyos y servicios contenidos en los programas de vivienda y/o desarrollo social, las dependencias y entidades de la Administración Pública Estatal y Municipal procederán a verificar en primera instancia dicha información; posteriormente, de ser el caso, suspender la ministración de los mismos. En caso de que ya se hubieren otorgado, se valorarán los procedimientos para que los recursos sean reintegrados conforme a lo dispuesto en los ordenamientos legales correspondientes.
 
 ###### Artículo 55.
 
@@ -939,7 +1049,9 @@ Con el objeto de hacer más rápidos y expeditos los trámites para adquisición
 
 El Ejecutivo del Estado concederá a través de las dependencias y organismos, bajo la coordinación del INVITAB, los beneficios, estímulos y facilidades que se consignan en esta Ley, así como las contenidas en otras disposiciones legales y administrativas aplicables.
 
-Para estos fines, el Ejecutivo del Estado creará e implementará medidas concretas de apoyo y fomento, tanto para la producción, como para los productores sociales de vivienda; de igual manera otorgará facilidades administrativas a los beneficiarios y a la población vulnerable.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+Para estos fines, el Ejecutivo del Estado creará e implementará medidas concretas de apoyo y fomento, para los productores sociales de vivienda y para otros promotores de vivienda; de igual manera otorgará facilidades administrativas a los beneficiarios y a la población vulnerable.
 
 ### CAPÍTULO QUINTO. DE LA ASISTENCIA HABITACIONAL
 
@@ -993,11 +1105,15 @@ Se considera de utilidad pública, la incorporación de suelo para la construcci
 
 Los programas que se destinen a la constitución de reservas territoriales y aprovechamiento de suelo para su incorporación al desarrollo habitacional, deberán estructurarse mediante la coordinación de las instancias estatal y municipales que definen los programas de desarrollo urbano y ordenamiento territorial vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 72.
 
-El INVITAB de acuerdo con lo previsto en la Ley, realizará estudios que determinen los requerimientos de tierra urbana para vivienda, a efecto de que se integren en la formulación del Programa de Constitución de Reservas Territoriales.
+El INVITAB de acuerdo con lo previsto en la Ley, realizará estudios que determinen la existencia de terrenos ociosos en centros de población y los requerimientos de tierra urbana para vivienda, a efecto de que se integren en la formulación del Programa de Constitución de Reservas Territoriales.
 
-Estos estudios tomarán en cuenta las necesidades presentes y futuras, y conforme a estas previsiones se harán los programas de adquisición específicos.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+Estos estudios tomarán en cuenta las condiciones de rezago y las necesidades presentes y futuras, y conforme a estas previsiones se harán los programas de adquisición específicos.
 
 El INVITAB operará las acciones derivadas del Programa de Constitución de Reservas Territoriales para vivienda, en el ámbito de su competencia.
 
@@ -1027,6 +1143,10 @@ El INVITAB establecerá las disposiciones reglamentarias por medio de las cuales
 
 El Ejecutivo del Estado, a través del INVITAB, promoverá en coordinación con las autoridades competentes tanto federales, estatales y municipales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y de higiene, se provea de los servicios de energía eléctrica, agua potable, y desalojo de aguas residuales, que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+Asimismo, promoverá el uso de energías renovables mediante las nuevas ecotecnologías aplicables a la vivienda, de acuerdo a la región bioclimática del estado, utilizando equipos y sistemas normalizados en cualquiera de sus modalidades.
+
 El INVITAB promoverá y coadyuvará con las autoridades competentes tanto federales, estatales y municipales a establecer los mecanismos para el cumplimiento a lo dispuesto en esta Ley, en materia de calidad y sustentabilidad de la vivienda, y a las disposiciones legales y reglamentarias correspondientes.
 
 ###### Artículo 76.
@@ -1053,9 +1173,13 @@ El INVITAB promoverá la celebración de acuerdos y convenios con productores de
 
 I. La atención a programas de viviendas emergentes a damnificados y víctimas de desastres;
 
-II. Apoyar programas sociales de vivienda, particularmente aquéllos de autoproducción, autoconstrucción y mejoramiento de vivienda para familias en situación de pobreza patrimonial; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
-III. La conformación de paquetes de materiales para las familias en situación de pobreza patrimonial.
+II. Apoyar programas sociales de vivienda, particularmente aquéllos de autoproducción, autoconstrucción, producción social de vivienda y mejoramiento de vivienda para familias en situación de pobreza patrimonial; y
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+III. La conformación de paquetes de materiales y asesoría técnica para las familias en situación de pobreza patrimonial.
 
 Asimismo, promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de licencias y permisos de construcción necesarios.
 
@@ -1123,31 +1247,45 @@ Tratándose de las comunidades rurales e indígenas, deberán ser reconocidas y 
 
 El INVITAB, fomentará en los programas y proyectos de producción social de vivienda, la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso, orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 89.
 
-Las organizaciones que tengan por objeto la adquisición, mejoramiento, construcción o producción social de la vivienda, así como el otorgamiento de asesoría integral en la materia, serán objeto de acciones de fomento por parte de las dependencias y entidades de la Administración Pública Estatal.
+Las organizaciones que tengan por objeto la adquisición, mejoramiento, construcción o producción social de la vivienda, así como el otorgamiento de asesoría integral en la materia, serán objeto de acciones de fomento por parte de las dependencias y entidades de la Administración Pública Estatal, así como de los gobiernos municipales.
 
 ## TÍTULO NOVENO. DE LA CONCERTACIÓN CON LOS SECTORES PRIVADO Y SOCIAL
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 90.
 
-Las acciones de los desarrolladores privados en los programas de vivienda con participación del Estado, estará sujeta a la aprobación que determine el INVITAB.
+Las acciones de los desarrolladores privados en los programas de vivienda con participación del Estado y con apoyo federal, estará sujeta a la aprobación que determinen el INVITAB y las demás instancias competentes, en términos de la normatividad aplicable en cada orden de gobierno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 91.
 
-Las acciones de vivienda que realicen los productores sociales en el Estado deberán registrarse ante el INVITAB y reportar los avances de las mismas. El INVITAB estará facultado para realizar supervisiones de manera aleatoria.
+Las acciones de vivienda que realicen los productores sociales en el Estado deberán registrarse ante el INVITAB y reportar los avances de las mismas. El INVITAB estará facultado para realizar supervisiones de manera aleatoria, además de apoyarlos y orientarlos cuando ejerzan recursos federales.
 
 Los productores sociales deberán estar registrados ante la Comisión Nacional de Vivienda, con la finalidad de garantizar la transparencia en el manejo y aplicación de los recursos.
 
-Todas aquellas acciones que realicen los organismos públicos federales en el Estado deberán ser comunicadas al INVITAB, para su conocimiento e integración de información y estadísticas.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+En el marco de la normatividad aplicable, todas aquellas acciones que realicen los organismos públicos federales en el Estado deberán coordinarse en su diseño programático y metas con el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+Dichas acciones serán oportuna y debidamente informadas al INVITAB; para su conocimiento e integración de información y estadísticas.
 
 ###### Artículo 92.
 
 Los acuerdos y convenios que celebre el Ejecutivo del Estado, a través del INVITAB y los ayuntamientos en materia de esta Ley, con los sectores privado y social, podrán tener por objeto:
 
-I. Buscar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población de pobreza patrimonial;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+I. Procurar la atención del derecho a la vivienda para el mayor número de personas, estableciendo mecanismos que beneficien preferentemente a la población de pobreza patrimonial;
 
 II. Mejorar las condiciones de convivencia;
 
@@ -1157,11 +1295,15 @@ IV. Promover la seguridad jurídica de la vivienda y del suelo a través del ór
 
 V. Financiar y construir proyectos de vivienda, así como de infraestructura y equipamiento urbano;
 
-VI. Desarrollar, aplicar y evaluar normas, tecnologías, técnicas y procesos constructivos que reduzcan los costos de construcción y operación, faciliten la autoproducción o autoconstrucción de vivienda, eleven la calidad y la eficiencia energética de la misma, propicien la preservación y el cuidado del ambiente, y los recursos naturales;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+VI. Desarrollar, aplicar y evaluar normas, tecnologías, técnicas y procesos constructivos que reduzcan los costos de construcción y operación, faciliten la autoproducción o autoconstrucción de vivienda, eleven la calidad y la eficiencia energética de la misma, propicien la preservación y el cuidado del ambiente, y los recursos naturales, considerando las particularidades climáticas, hidrológicas y territoriales de Tabasco;
 
 VII. Ejecutar acciones y obras urbanas para la construcción, mejoramiento y conservación de la vivienda, así como para la adquisición de suelo;
 
-VIII. Facilitar la obtención de una vivienda terminada;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+VIII. Otorgar, en la medida de las respectivas disponibilidades presupuestales, los apoyos para la obtención de todas las modalidades y tipos de vivienda;
 
 IX. Fortalecer el financiamiento compartido para el adecuado mantenimiento sustentable de las unidades y desarrollos habitacionales;
 
@@ -1169,7 +1311,9 @@ X. Mantener actualizada la información referente al inventario habitacional, pa
 
 XI. Implementar los programas para que los insumos y materiales para la construcción y mejoramiento de la vivienda, sean competitivos;
 
-XII. Coadyuvar al desarrollo de modelos educativos para formar especialistas en construcción de viviendas, desarrollo urbano y ordenamiento territorial, capacitar a usuarios y fomentar la investigación en vivienda y suelo; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+XII. Coadyuvar al desarrollo de modelos educativos y de formación y actualización profesional para formar especialistas en construcción de viviendas, desarrollo urbano y ordenamiento territorial, capacitar a usuarios y fomentar la investigación en vivienda y suelo; y
 
 XIII. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
@@ -1181,9 +1325,13 @@ XIII. Las demás acciones que acuerden las partes para el cumplimiento de esta L
 
 Se crea el Sistema Estatal de Información e Indicadores de Vivienda, que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Estatal de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el Estado.
 
-El INVITAB integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará en lo conducente, a las disposiciones previstas en la Ley de Información Estadística y Geográfica, y se conformará con la información que deberán proporcionarlas dependencias y entidades de la Administración Pública Federal y Municipal, pero la Estatal de manera obligatoria, así como los sectores privados y sociales en aspectos vinculados con la vivienda y el suelo; así como aquella que deberán proporcionar las personas físicas o jurídico colectivas que construyan una o más viviendas con fines de comercializarlas en el Estado; por último, aquella información que permita identificar la evolución y crecimiento del mercado con el objeto de evaluar los efectos de la Política Estatal de Vivienda.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
-El INVITAB propondrá al Instituto Nacional de Estadística, Geografía e Informática, los indicadores que en materia de vivienda deberán considerarse en el levantamiento de censos del Estado, encuestas de viviendas económicas y sociodemográficas, y otros conteos.
+El INVITAB integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará en lo conducente, a las disposiciones previstas en la Ley de Información Estadística y Geográfica, y se conformará con la información que deberán proporcionar las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como los sectores privados y sociales en aspectos vinculados con la vivienda y el suelo; así como aquella que deberán proporcionar las personas físicas o jurídico colectivas que construyan una o más viviendas con fines de comercializarlas en el Estado; por último, aquella información que permita identificar la evolución y crecimiento del mercado con el objeto de evaluar los efectos de la Política Estatal de Vivienda y definir propuestas de política pública acordes a la realidad de las localidades y comunidades del estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+El INVITAB propondrá al Instituto Nacional de Estadística y Geografía, los indicadores que en materia de vivienda deberán considerarse en el levantamiento de censos y conteos del Estado, encuestas de vivienda y sociodemográficas, y otras investigaciones y estudios.
 
 ###### Artículo 94.
 
@@ -1197,9 +1345,11 @@ II. Beneficiarios por grupos de ingreso en veces el salario mínimo y modalidade
 
 III. Evaluación de los productos habitacionales en términos de su ubicación en los centros de población, respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones, evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en los programas habitacionales.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 95.
 
-El INVITAB diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+El INVITAB diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas, sociales y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
 ###### Artículo 96.
 
@@ -1209,13 +1359,17 @@ El Ejecutivo del Estado, a través del INVITAB, los ayuntamientos, las organizac
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 97.
 
-La vivienda rural es el espacio donde reside la población que habita en este medio, concebido como el sitio de habitación que está constituido por un conjunto de elementos naturales y artificiales que integran de forma permanente o temporal una unidad doméstica, cuyas características y disposición corresponde a una expresión cultural específica.
+La vivienda rural es el espacio donde reside la población que habita en localidades y comunidades rurales conforme a la definición del Instituto Nacional de Estadística y Geografía, concebido como el sitio de habitación que está constituido por un conjunto de elementos culturales, socioeconómicos, materiales y naturales que integran de forma permanente o temporal una unidad doméstica, cuyas características y disposición corresponden a una expresión histórica específica.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 98.
 
-El Ejecutivo del Estado, a través del INVITAB y en coordinación con los ayuntamientos, establecerán y apoyarán programas colectivos de autoconstrucción y/o mejoramiento de vivienda, los cuales podrán realizarse en predios de los beneficiarlos de las comunidades, en donde los integrantes de las mismas, participen en los trabajos respectivos de manera conjunta, de tal suerte que además de abatir los costos, se fomenten entre aquéllos los lazos de solidaridad y el espíritu comunitario, y se aprovechen los materiales disponibles de manera natural en la zona, siempre y cuando no sea en detrimento del medio ambiente.
+El Ejecutivo del Estado, a través del INVITAB y en coordinación con los ayuntamientos, establecerán y apoyarán programas colectivos de producción social, autoconstrucción y/o mejoramiento de vivienda, los cuales podrán realizarse en predios de los beneficiarios de las comunidades, en donde los integrantes de las mismas, participen en los trabajos respectivos de manera conjunta, de tal suerte que además de abatir los costos, se fomenten entre aquéllos los lazos de solidaridad, el tejido social y el espíritu comunitario, y se aprovechen de manera sustentable los materiales disponibles en la zona, fortaleciendo la economía local y utilizando ecotecnias compatibles con el medio ambiente.
 
 ## TÍTULO DÉCIMO SEGUNDO. MEDIDAS DE ASEGURAMIENTO Y SANCIONES
 
@@ -1270,3 +1424,13 @@ EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRE
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2015.
+
+PRIMERO.- Se derogan las disposiciones que contravengan lo dispuesto en este Decreto de reformas.
+
+SEGUNDO.- En un plazo de 180 días hábiles el Gobierno del Estado de Tabasco deberá efectuar las adecuaciones institucionales, programáticas y reglamentarias que resulten necesarias y coadyuven al cumplimiento de las disposiciones del presente Decreto.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
