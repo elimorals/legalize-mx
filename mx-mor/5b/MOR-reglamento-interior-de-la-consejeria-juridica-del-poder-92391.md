@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-consejeria-juridica-del-poder-92391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-13"
-last_updated: "2013-02-13"
+last_updated: "2015-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LAS DISPOSICIONES TRANSITORIAS PRIMERA Y SEGUNDA DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CINCO DÍAS HÁBILES SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado Morelos, el miércoles 13 de febrero de 2013.
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 70 FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE CONFORMIDAD CON LO DISPUESTO POR LOS ARTÍCULOS 2, 5, 9, 10 Y 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS; Y CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS .
+EXPOSICIÓN DE MOTIVOS ...
 
 Por todo lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
 
@@ -528,3 +530,19 @@ EL CONSEJERO JURÍDICO
 LIC. IGNACIO BURGOA LLANO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2015.
+
+PRIMERA. El presente Reglamento entrará en vigor a los cinco días hábiles siguientes de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Consejería Jurídica del Poder Ejecutivo del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5067, de fecha trece de febrero de 2013; y se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+TERCERA. Los Manuales Administrativos de la Consejería Jurídica, que por razón del presente Reglamento se tengan que emitir, deberán expedirse en un plazo no mayor a ciento veinte días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente ordenamiento, en tanto no se expidan dichos Manuales se observarán, en lo aplicable, los vigentes.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; el Consejero Jurídico, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Consejería Jurídica deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Se autoriza al Consejero Jurídico para ejercer las atribuciones contenidas en los artículos 38, fracciones II, V y VI, de la Ley Orgánica de la Administración Pública del Estado de Morelos y 11, fracciones XVII, XXI y XXVI, del presente Reglamento, en los casos que considere pertinente y necesario.
