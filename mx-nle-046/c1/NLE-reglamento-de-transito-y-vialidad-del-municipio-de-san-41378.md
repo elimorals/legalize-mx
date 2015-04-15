@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-41378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-01"
-last_updated: "2012-09-10"
+last_updated: "2015-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de octubre de 2004.
 
@@ -679,6 +679,10 @@ II. Presentar carta responsiva de su padre o madre. De no existir éstos, la res
 
 III. Aprobar el curso de manejo defensivo impartido por la Autoridad Municipal o por alguna de las Instituciones registradas ante la Autoridad Municipal a que se refiere el Artículo 127 Fracción I de este ordenamiento.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 35 BIS.- El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
+
 ###### ARTÍCULO 36.
 
 Para obtener permiso de ciclista, se requiere tener quince años cumplidos. Los menores de esa edad y mayores de ocho años sólo podrán manejar bicicletas con rodada menor a sesenta centímetros y en áreas cercanas a su domicilio sin que tengan que tramitar permiso.
@@ -988,6 +992,14 @@ V. Proteger durante el día con banderolas de color rojo de un tamaño no menor 
 VI. Realizar maniobras de carga y descarga en el menor tiempo posible sin interferir la circulación de vehículos y peatones;
 
 VII. Que el peso y dimensiones de la carga cumplan con lo que establece la Norma Oficial Mexicana vigente.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+VIII. Efectuar una declaración cierta en la carta porte sobre el peso de la misma carga.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+IX. Cumplir con las disposiciones operativas y de seguridad que se establezcan en el permiso especial y la norma correspondiente.
 
 ###### ARTÍCULO 55.
 
@@ -1979,6 +1991,18 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 Sin perjuicio de la responsabilidad que corresponda al conductor por las infracciones que cometa en la conducción de un vehículo, el propietario o poseedor será responsable solidario de las infracciones que se cometan en la conducción del mismo; excepto en caso de robo denunciado ante las autoridades competentes, siempre y cuando esta denuncia haya sido con antelación a las infracciones cometidas.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 135 BIS.- La autoridad municipal, a través de la Dirección de Seguridad Vial, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión, cancelación o revocación de licencias de conducir:
+
+I. Retendrá provisionalmente, como medida preventiva, la licencia del conductor del vehículo;
+
+II. Tomará las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
+
+III. Notificará de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+
+IV. Notificará la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+
 ###### ARTÍCULO 136.
 
 Las sanciones por faltas o violaciones al presente Reglamento, consistirán en:
@@ -2067,15 +2091,13 @@ Para la entrega de vehículos detenidos, será indispensable la presentación an
 
 IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retirada por los elementos de la Autoridad Municipal cuando el conductor infractor sea menor de edad y cuando el conductor insulte al personal de tránsito en el ejercicio de sus funciones; en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las Fracciones I y II de este Artículo;
 
-V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+
+V.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
 TABULADOR DE INFRACCIONES
 
-> <small>N. DE E. VÉASE TABULADOR DE INFRACCIONES EN EL P. O. DE 1 DE OCTUBRE DE 2004, PÁGINAS DE LA 80 A LA 90.</small>
-
-> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES EN EL P.O. 15 DE DICIEMBRE DE 2006, PÁGINA 23.</small>
-
-> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES EN EL P.O. 4 DE JULIO DE 2011, PÁGINA 36.</small>
+> <small>N. DE E. VÉASE TABULADOR DE INFRACCIONES EN EL P. O. DE 1 DE OCTUBRE DE 2004, PÁGINAS DE LA 80 A LA 90; P.O. 15 DE DICIEMBRE DE 2006, PÁGINA 23; P.O. 4 DE JULIO DE 2011, PÁGINA 36; P.O. 15 DE ABRIL DE 2015, DE LA PÁGINA 91 A LA 92.</small>
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -2094,6 +2116,34 @@ Cuando la sanción consista en arresto, a fin de que este no le sea aplicado, el
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 VIII. TRATAMIENTO.- Por conducir en estado de ineptitud o de ebriedad, en estado de ineptitud o de ebriedad (sic) y cometer cualquier otra infracción de las estipuladas en este Reglamento, además de las sanciones a que se haga acreedor, el infractor deberá asistir a un tratamiento o curso de rehabilitación y acreditar su cumplimiento ante la Autoridad Municipal. Tratándose de menores infractores no emancipados el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso. La Autoridad Municipal establecerá la forma en que se deberá cumplir esta sanción.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 136 BIS.- La conducción de vehículo automotor en estado de voluntaria intoxicación que afecten la capacidad de manejo, o utilizando simultáneamente algún tipo de aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología que evite la distracción del conductor, será sancionada al menos, en los términos siguientes:
+
+I. Por conducir en alguna de las referidas condiciones, multa de 50 a 200 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
+
+II. Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, una multa de 100 a 300 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas;
+
+III. Por conducir en alguna de las referidas condiciones, por más de dos veces en un lapso de un año, procederá multa de 200 a 600 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas;
+
+IV. Por no acreditar haber acudido al menos al 90 % de las sesiones de tratamiento decretadas, multa de 100 a 200 cuotas y suspensión de la licencia para conducir hasta por 18 meses.
+
+En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación en los establecimientos autorizados por la Dirección de Seguridad Vial y acreditar su cumplimiento ante la misma autoridad. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
+
+Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en el primer párrafo de este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 136 BIS 1.- La autoridad municipal, a través de la Dirección de Seguridad Vial, dentro de los siguientes diez días hábiles, contados a partir de la fecha de la infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
+
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
+
+Posteriormente, la mencionada autoridad municipal notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 136 BIS 2.- Dicha autoridad podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir.
 
 ###### ARTÍCULO 137.
 
@@ -2272,3 +2322,13 @@ SEGUNDO.- La aplicación de la presente reforma será retroactiva a partir del 0
 P.O. 10 DE SEPTIEMBRE DE 2012.
 
 PRIMERO.- Las reformas al presente Reglamento, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 15 DE ABRIL DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- La Secretaría de Seguridad, tendrá un plazo de ciento ochenta días a partir de la entrada en vigor de la presente reforma, para implementar las estrategias de este Reglamento.
+
+TERCERO.- Mándese publicar la presente reforma en el Periódico Oficial del Estado. Hágase posteriormente su difusión en la Gaceta Municipal.
+
+CUARTO.- Gírense las instrucciones correspondientes a fin de dar cumplimiento al presente acuerdo.
