@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-para-adolescentes-para-el-distrito-federal-5749
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-14"
-last_updated: "2014-12-18"
+last_updated: "2015-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57497&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-10-25"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 14 de noviembre de 2007.
 
@@ -1714,9 +1716,11 @@ Las medidas de orientación y protección consisten en apercibimientos, mandamie
 
 De igual manera, en las medidas a imponer que estime pertinentes el Juez, debe considerarse que se impongan las sanciones que no pongan en riesgo la seguridad e integridad de la víctima.
 
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 61.
 
-TIPOS DE MEDIDAS DE ORIENTACIÓN.
+TIPOS DE MEDIDAS DE ORIENTACIÓN
 
 Son medidas de orientación las siguientes:
 
@@ -1726,9 +1730,11 @@ II. El apercibimiento;
 
 III. Prestación de servicios en favor de la Comunidad;
 
-IV. La formación ética, educativa y cultural; y
+IV. La formación ética, educativa y cultural;
 
-V. La recreación y el deporte.
+V. La recreación y el deporte; y
+
+VI. La formación y adiestramiento para el trabajo
 
 ###### ARTÍCULO 62.
 
@@ -1769,6 +1775,12 @@ La formación ética, educativa y cultural consiste en brindar al adolescente, c
 RECREACIÓN Y DEPORTE.
 
 La recreación y el deporte tienen como finalidad inducir al adolescente a que participe y realice las actividades antes señaladas, coadyuvando a su desarrollo integral.
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 66 BIS. FORMACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO.
+
+La formación y adiestramiento para el trabajo tienen como finalidad inducir al adolescente a que participe en la capacitación y adiestramiento de alg ún (sic) oficio, técnica o arte qu e (sic) sea de su interés, y que le per mita (sic) desarrollar su s (sic) capacidades y aptitudes laborales, sin menoscabo de su formación y desempeño educativo.
 
 ###### ARTÍCULO 67.
 
@@ -2981,3 +2993,9 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 15 DE ABRIL DE 2015.
+
+Primero.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
