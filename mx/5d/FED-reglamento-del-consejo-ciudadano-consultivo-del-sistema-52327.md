@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-consejo-ciudadano-consultivo-del-sistema-52327"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-29"
-last_updated: "2010-06-16"
+last_updated: "2015-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52327&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-11-27"
 
 REGLAMENTO DEL CONSEJO CIUDADANO CONSULTIVO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CONSEJO CIUDADANO CONSULTIVO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EN EL D.O.F. DE 15 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de noviembre de 2006.
 
@@ -515,10 +517,16 @@ CUARTO.- Una vez instalado el Consejo, deberá sesionar de manera ordinaria en u
 
 Se expide en la Ciudad de México, Distrito Federal, el día veintisiete de noviembre de dos mil seis.- El Oficial Mayor del Sistema Nacional para el Desarrollo Integral de la Familia, en cumplimiento con lo acordado por la Junta de Gobierno del Sistema Nacional para el Desarrollo Integral de la Familia, Carlos Ponce Martínez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 16 DE JUNIO DE 2010.
 
 PRIMERO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Una vez publicado el presente Acuerdo, el Presidente del Consejo Ciudadano Consultivo someterá, en su caso, a la consideración del Consejo, en la sesión más próxima la propuesta de que los actuales vocales representantes de las OSC sean reelegidos por una sola ocasión para un periodo consecutivo sin necesidad de convocatoria.
+
+D.O.F. 15 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Consejo Ciudadano Consultivo del Sistema Integral para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el 29 de noviembre de 2006.
