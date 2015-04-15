@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-casa-de-las-artesanias-de-89505"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-08"
-last_updated: "2012-08-08"
+last_updated: "2015-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL INSTITUTO CASA DE LAS ARTESANIAS DE CHIAPAS -ANTES LEY ORGANICA DEL INSTITUTO CASA CHIAPAS
 
-LEY ORGÁNICA DEL INSTITUTO CASA CHIAPAS
+LEY ORGÁNICA DEL INSTITUTO CASA DE LAS ARTESANÍAS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 8 de agosto de dos mil doce.
 
@@ -41,17 +41,23 @@ C o n s i d e r a n d o.
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
-Ley Orgánica del Instituto Casa Chiapas
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 15 DE ABRIL DE 2015)</small>
+
+Ley Orgánica del Instituto Casa de las Artesanías de Chiapas
 
 ### Capítulo I. Del Instituto
 
-###### Artículo 1°.
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
 
-Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Chiapas, denominado Instituto Casa Chiapas, en lo sucesivo, el Instituto, que tendrá por objeto el rescate, preservación, fomento, promoción, acopio, distribución, comercialización y difusión de artesanías y productos regionales, así como la coordinación y ejecución de lo relativo a la estrategia Marca Chiapas.
+###### Artículo 1º.
+
+Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Chiapas, denominado Instituto Casa de las Artesanías de Chiapas, en lo sucesivo, el Instituto, que tendrá por objeto el rescate, preservación, fomento, promoción, acopio, distribución y difusión de artesanías y productos regionales, así como la coordinación y ejecución de lo relativo a la estrategia Marca Chiapas.
+
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 2°.
 
-Este Instituto estará sectorizado a la Secretaría de Economía y gozará de personalidad jurídica y patrimonio propios.
+El Instituto que por este Decreto se crea, estará sectorizado a la Secretaría de Economía, no tendrá fines lucrativos y gozará de personalidad jurídica y patrimonio propios.
 
 ###### Artículo 3°.
 
@@ -73,13 +79,17 @@ III. Preservar, promover y desarrollar las actividades artesanales y agroindustr
 
 IV. Incentivar y fomentar la asistencia técnica y administrativa, así como, establecer programas de estímulo y financiamiento regulados en las leyes, para las organizaciones y grupos de productores y artesanos del Estado.
 
-V. Desarrollar y promover la comercialización de los productos chiapanecos, así como aquellos certificados con el sello distintivo de la Marca "México Chiapas Original" previa segmentación del mercado, a través del sistema de tiendas y/o diferentes canales de distribución.
+> <small>(REFORMADA, P. O. 15 DE ABRIL DE 2015)</small>
+
+V. Desarrollar y promover los productos artesanales y agroindustriales chiapanecos, así como aquellos certificados que ostenten el sello distintivo de la marca México Chiapas Original, previa segmentación del mercado, a través del sistema de tiendas y/o diferentes canales de distribución.
 
 VI. Fomentar, organizar, difundir, celebrar y participar en eventos en los que los artesanos y productores del Estado y de otras entidades de la República Mexicana, intercambien técnicas y experiencias en materia artesanal y en la elaboración de productos regionales, para lograr el posicionamiento y la exportación de los mismos en los diferentes mercados.
 
 VII. Dirigir y administrar los establecimientos de distribución y exhibición de artesanías y productos agroindustriales.
 
-VIII. Establecer mecanismos de posicionamiento, promoción, difusión, distribución y comercialización de artesanías y productos agroindustriales en el ámbito municipal, estatal, nacional e internacional para mejorar el nivel de vida de los empresarios del Estado.
+> <small>(REFORMADA, P. O. 15 DE ABRIL DE 2015)</small>
+
+VIII. Establecer mecanismos de posicionamiento, promoción, difusión ydistribución (sic) de artesanías y productos agroindustriales en el ámbito municipal, estatal, nacional e internacional para mejorar el nivel de vida de los empresarios y artesanos del Estado.
 
 IX. Coordinar la ejecución de acciones en materia de capacitación a través de convenios con diversos organismos públicos de los tres ámbitos de gobierno, así como con diversas organizaciones privadas.
 
@@ -105,7 +115,9 @@ XVII. Los demás asuntos que le corresponda, en los términos de las leyes aplic
 
 El Patrimonio del Instituto se integrará con:
 
-I. Los bienes, derechos, prerrogativas y compromisos del Instituto Casa Chiapas, así como las aportaciones, donaciones, o cesiones de derechos sobre bienes muebles e inmuebles que reciba por parte de los organismos y entidades de la Administración Pública Estatal y Paraestatal, así como de particulares.
+> <small>(REFORMADA, P. O. 15 DE ABRIL DE 2015)</small>
+
+I. Los bienes, derechos, prerrogativas y compromisos del Instituto Casa de las Artesanías de Chiapas, así como las aportaciones, donaciones, o cesiones de derechos sobre bienes muebles e inmuebles que reciba por parte de los organismos y entidades de la Administración Pública Estatal y Paraestatal, así como de particulares.
 
 II. Las aportaciones, participaciones, derechos, aprovechamientos y en general contribuciones temporales o permanentes que provengan de los Gobiernos Federal, Estatal y Municipal u otros organismos, así como de particulares.
 
@@ -133,9 +145,11 @@ El domicilio legal del Instituto, será la ciudad de Tuxtla Gutiérrez, Chiapas,
 
 ### Capítulo IV. De la Junta de Gobierno
 
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
+
 ###### Artículo 9°.
 
-La Junta de Gobierno es el Órgano Supremo de Gobierno del Instituto, responsable de fijar las políticas, programas, objetivos y metas del organismo, así como de evaluar sus resultados operativos, administrativos, financieros y en general, el desarrollo de sus actividades.
+La Junta de Gobierno es el Órgano Supremo del Instituto, responsable de fijar las políticas, programas, objetivos y metas del organismo, así como de evaluar sus resultados operativos, administrativos, financieros y en general, el desarrollo de sus actividades.
 
 ###### Artículo 10.
 
@@ -151,13 +165,17 @@ a) Secretaría del Campo.
 
 b) Secretaría de Turismo.
 
-c) Secretaría de Pueblos y Culturas Indígenas.
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
+
+c) Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
 d) Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
 
 e) Secretaría de Desarrollo y Participación Social.
 
-f) Comisión para el Desarrollo y Fomento del Café de Chiapas.
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
+
+f) Instituto del Café de Chiapas.
 
 g) Consejo Estatal para las Culturas y las Artes de Chiapas.
 
@@ -169,9 +187,13 @@ b) Secretaría de la Función Pública.
 
 c) Diputado titular de la Comisión de Artesanías del Congreso del Estado.
 
-Los integrantes de la Junta de Gobierno contarán con voz y voto y podrán designar a un representante con cargo mínimo de Director o su equivalente, debidamente acreditado por éstos ante la propia Junta de Gobierno, quienes tendrán las atribuciones del propietario en su ausencia.
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
 
-El Presidente de la Junta de Gobierno del Instituto, podrá invitar a las sesiones de la misma, cuando así lo considere necesario, a los representantes de las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, a los representantes de las Instituciones Públicas y a los representantes del Sector Social y Privado, cuyas actividades estén relacionadas con el objeto de este organismo, quienes tendrán únicamente voz.
+Los integrantes de la Junta de Gobierno contarán con voz y voto y podrán designar por escrito a su suplente, quien tendrá el cargo mínimo de Director o su equivalente, y tendrá las mismas atribuciones que su representado.
+
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
+
+El Presidente de la Junta de Gobierno, podrá invitar a las sesiones, a representantes de Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, representantes de Instituciones Públicas y representantes del Sector Social y Privado, cuyas actividades se encuentren relacionadas con el objeto del Instituto, quienes tendrán únicamente derecho a voz.
 
 Los cargos a que alude este artículo son honoríficos, y no devengarán salario o compensación alguna.
 
@@ -381,6 +403,10 @@ XVI. Celebrar convenios, contratos y acuerdos con Dependencias o Entidades de la
 
 XVII. Celebrar convenios o acuerdos para la actualización, capacitación y especialización del personal del Instituto.
 
+> <small>(ADICIONADO, P. O. 15 DE ABRIL DE 2015)</small>
+
+Así como celebrar convenios con empresas o instituciones públicas o privadas, para la obtención de beneficios aplicables al personal del mismo.
+
 XVIII. Dirigir, administrar y coordinar el desarrollo de las actividades técnicas, y administrativas del Instituto dictando los acuerdos y disposiciones tendentes a dicho fin.
 
 XIX. Solicitar al Comisario Público Propietario adscrito al Instituto, examinar y evaluar los sistemas, mecanismos y procedimientos de control existentes en la entidad, así como efectuar revisiones y auditorias de índole administrativas, contables, operacionales, técnicas y jurídicas de las unidades administrativas del Instituto, tendentes a vigilar que el manejo y la aplicación de los recursos públicos, se efectúen conforme a las disposiciones aplicables, y vigilar el cumplimiento de sus programas y subprogramas.
@@ -434,3 +460,17 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I, del artículo 44, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los cinco días del mes de junio del año dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P. O. 15 DE ABRIL DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las referencias que en otros instrumentos jurídicos, normativos o administrativos se realicen al Instituto Casa Chiapas, a partir de la entrada en vigor del presente Decreto, se entenderán efectuadas al Instituto Casa de las Artesanías de Chiapas.
+
+Artículo Cuarto.- El Instituto Casa de las Artesanías de Chiapas, deberá emitir su Reglamento Interior de conformidad con los términos fijados en la presente ley, en un lapso no mayor a noventa días hábiles contados a partir de la fecha de publicación del presente Decreto.
+
+Artículo Quinto.- Los derechos sobre la Marca y el sello distintivo México Chiapas Original que hasta la entrada en vigor del presente Decreto, pertenecían a la titularidad del Instituto Casa Chiapas, serán transferidos a la titularidad del Instituto Casa de las Artesanías de Chiapas previa realización de los trámites legales correspondientes.
