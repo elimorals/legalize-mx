@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2013-12-26"
+last_updated: "2015-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 16 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -35,7 +35,7 @@ NÚMERO.- 21459-LVII/06.- EL CONGRESO DEL ESTADO DECRETA:
 
 ###### ARTÍCULO ÚNICO.
 
-Se expide la Ley del Notariado del Estado De (sic) Jalisco, para quedar como sigue:
+Se expide la Ley del Notariado del Estado De Jalisco, para quedar como sigue:
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
@@ -121,7 +121,7 @@ VIII. No haber sido condenado a pena privativa de libertad por sentencia ejecuto
 
 IX. No haber sido separado definitivamente, por sanción, del ejercicio del notariado;
 
-X. Acreditar mediante prueba testimonial ante la autoridad jurisdiccional, ser una persona honesta, de buenas costumbres y haber observado constantemente una conducta que inspire total confianza en la sociedad para el ejercicio notarial; (sic)
+X. Acreditar mediante prueba testimonial ante la autoridad jurisdiccional, ser una persona honesta, de buenas costumbres y haber observado constantemente una conducta que inspire total confianza en la sociedad para el ejercicio notarial;
 
 (NOTA: EL 20 DE ENERO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 65/2012, DECLARÓ LA INVALIDEZ DEL DECRETO 24158/LIX/12 RESPECTO DE LA PORCIÓN QUE DEROGA LA FRACCIÓN XI DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE ENERO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1961,7 +1961,7 @@ IV. Los demás caso (sic) en que así se determine.
 
 La notificación se hará personalmente al interesado o a su representante o procurador en el domicilio designado, en días y horas hábiles, y si no estuvieren presentes en la primera búsqueda, se dejará citatorio con la persona que se encuentre en su domicilio, indicando día y hora para que espere a quien lo ha de notificar, lo que no podrá verificarse antes de las veinticuatro horas siguientes y, en caso de no atender el citatorio, la notificación se llevará a cabo por conducto de la persona que se halle presente en el lugar, a quien se le entregará copia del acuerdo que se notifica, así como de los documentos relativos.
 
-En el supuesto de encontrarse cerrado el domicilio y nadie responda al llamado para atender la diligencia, el citatorio se dejará en un lugar seguro y visible del mismo domicilio. Si la persona a quien haya de notificarse no atiende el citatorio, la notificación se entenderá con cualquier persona con capacidad de ejercicio, que se encuentre en el domicilio en donde se realice la diligencia; y de negarse esta a recibirla o en caso se (sic) encontrarse cerrado el domicilio, se realizará por cédula que se fijará en un lugar seguro y visible del domicilio.
+En el supuesto de encontrarse cerrado el domicilio y nadie responda al llamado para atender la diligencia, el citatorio se dejará en un lugar seguro y visible del mismo domicilio. Si la persona a quien haya de notificarse no atiende el citatorio, la notificación se entenderá con cualquier persona con capacidad de ejercicio, que se encuentre en el domicilio en donde se realice la diligencia; y de negarse esta a recibirla o en caso (sic) se encontrarse cerrado el domicilio, se realizará por cédula que se fijará en un lugar seguro y visible del domicilio.
 
 De esta diligencia, el servidor público que practique la notificación, asentará lo correspondiente en un acta circunstanciada, que deberá firmar, así como la persona con quien se entiende y en caso de que ésta se niegue a firmar, se hará constar tal situación.
 
@@ -1973,7 +1973,7 @@ Se autoriza realizar las notificaciones por medio del Servicio Postal mediante e
 
 Las notificaciones a las autoridades y al Consejo de Notarios del Estado, se harán siempre por medio de oficio.
 
-#### Sección Tercera (sic). De la Mediación y Conciliación (sic)
+#### Sección Tercera. De la Mediación y Conciliación
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -2003,7 +2003,7 @@ La autoridad o institución a la que se haya ocurrido, citará a las partes para
 
 Una vez concluido el procedimiento, dentro del plazo de los 10 días siguientes, la autoridad o dependencia ante la cual se haya instaurado el procedimiento que contempla este capítulo, deberá hacer del conocimiento tanto a la Secretaría General de Gobierno como al Colegio de Notarios del Estado, el resultado del mismo.
 
-#### Sección Cuarta (sic). De la Queja Administrativa (sic)
+#### Sección Cuarta. De la Queja Administrativa
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -2321,7 +2321,9 @@ La quinta Vicepresidencia Regional representará a las regiones 11 y 12.
 
 Los Vicepresidentes Regionales deberán ser notarios públicos adscritos a cualquiera de los municipios que integren las regiones que representan, sin cuyo requisito no podrán ser electos para ese cargo.
 
-Los miembros del Consejo durarán en funciones 3 años y no podrán ser reelectos para el mismo cargo.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2015)</small>
+
+Los miembros del Consejo de Notarios durarán en funciones 3 años y podrán ser reelectos por una sola ocasión.
 
 El desempeño del cargo de Consejero será honorífico y sin remuneración alguna y no será renunciable sin causa justificada. La cesación en el ejercicio del notariado producirá automáticamente la del cargo.
 
@@ -2808,3 +2810,7 @@ OCTAVO. Cuando otros ordenamientos legales del Estado de Jalisco se refieran a l
 NOVENO. La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial "El Estado de Jalisco".
 
 DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
+
+P.O. 16 DE ABRIL DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Jalisco".
