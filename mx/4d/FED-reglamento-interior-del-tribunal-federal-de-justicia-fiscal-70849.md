@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-01-20"
+last_updated: "2015-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -334,6 +334,10 @@ VII. Dirigir la ejecución de las determinaciones y/o acuerdos de la Junta de Go
 > <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2014)</small>
 
 VIII. Suscribir convenios de colaboración con todo tipo de instituciones públicas y privadas, así como autoridades administrativas y jurisdiccionales, con el apoyo especializado de las unidades administrativas correspondientes, a fin de dirigir la buena marcha del Tribunal y fortalecer sus relaciones públicas.
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2015)</small>
+
+IX. Informar mensualmente o cada vez que se requiera de las acciones jurídicas o los juicios que involucren al Pleno, a la Junta de Gobierno o a sus Magistrados.
 
 Se requerirá la autorización de la Junta de Gobierno y Administración para la suscripción de los convenios de colaboración que impliquen la erogación de recursos del Tribunal.
 
@@ -791,9 +795,9 @@ III. Dirigir y supervisar operativamente a la Actuaría, Oficialía de Partes y 
 
 IV. Realizar ante la Junta las gestiones y trámites administrativos que corresponda, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2015)</small>
 
-V. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delito conocidos y ocurridos en las instalaciones de las Salas, así como dar la intervención que corresponda a la Junta y a la Unidad de Asuntos Jurídicos;
+V. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos conocidos y ocurridos en las instalaciones de las Salas, así como dar la intervención que corresponda a la Junta y a la Dirección General de Asuntos Jurídicos;
 
 VI. Comunicar a los integrantes de las Salas los casos de incorporación y de actualización del registro de peritos correspondiente a la región, así como su modificación;
 
@@ -2211,7 +2215,9 @@ I. Dirección General del Centro de Estudios;
 
 II. Dirección General de Comunicación Social, y
 
-III. Unidad de Asuntos Jurídicos.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2015)</small>
+
+III. Dirección General de Asuntos Jurídicos.
 
 > <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
@@ -2283,33 +2289,55 @@ X. Planear y coordinar, con el apoyo de las unidades administrativas, la informa
 
 XI. Las demás que le confieran otras disposiciones jurídicas.
 
-> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 94], D.O.F. 18 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ABRIL DE 2015)</small>
 
 ###### Artículo 93.
 
-Corresponde a la Unidad de Asuntos Jurídicos:
+Corresponde a la Dirección General de Asuntos Jurídicos:
+
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 I. Fijar y revisar desde el punto de vista jurídico, las bases de los convenios, contratos, acuerdos y demás actos jurídicos que celebre, emita u otorgue el Tribunal, así como dictaminar sobre su interpretación, suspensión, rescisión, revocación, terminación, nulidad y demás aspectos y efectos jurídicos;
 
-II. Presentar denuncia o querella ante el Ministerio Público competente, así como designar al personal autorizado para tal efecto, respecto de hechos que lo ameriten y en los que el Tribunal haya resultado ofendido o tenga interés jurídico y acordar conciliaciones en beneficio del Tribunal;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2015)</small>
+
+II. Previa autorización del Pleno y de la Junta de Gobierno, cuando no sea competencia de ésta, presentar denuncia o querella ante el Ministerio Público competente, así como designar al personal autorizado para tal efecto, respecto de hechos que lo ameriten y en los que el Tribunal haya resultado ofendido o tenga interés jurídico, acordar conciliaciones y, en su caso, desistirse de ellas, siempre y cuando no afecten el orden público y el interés social y que dicho desistimiento haya sido sometido a consideración de la Junta de Gobierno y Administración;
+
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 III. Representar al Presidente, a la Sala Superior, al Pleno Jurisdiccional de la Sala Superior y a la Junta ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades de trabajo en las controversias laborales, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en los que intervenga, interponiendo los recursos que procedan, absolver posiciones a nombre del Presidente y/o de los integrantes de la Junta, ejerciendo la representación en el curso del proceso respectivo;
 
-IV. Elaborar y proponer los informes previos y justificados que en materia de amparo deba rendir el Presidente, la Sala Superior, el Pleno Jurisdiccional de la Sala Superior, las Secciones y la Junta, con los elementos que proporcionen las unidades administrativas del Tribunal, asimismo, los relativos a los demás servidores públicos que sean señalados como autoridades responsables; así como llevar a cabo las actuaciones necesarias cuando intervenga en las controversias constitucionales o acciones de inconstitucionalidad; imponerse en autos cuando el Tribunal tenga carácter de tercero perjudicado en los juicios de amparo, y formular los recursos y las promociones que a dichos juicios se refieran;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2015)</small>
 
-V. Representar al Tribunal en los asuntos contenciosos en que sea parte; intervenir en toda clase de procedimientos administrativos, judiciales, laborales y contencioso administrativos, en el ámbito de competencia de la misma, y ante cualquier autoridad jurisdiccional o administrativa;
+IV. Representar, sin perjuicio de su ejercicio directo, al Tribunal Federal de Justicia Fiscal y Administrativa, al Pleno de la Sala Superior, a las Secciones, a la Junta de Gobierno y Administración, al Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, a la Secretaría General de Acuerdos, a la Secretaría Auxiliar de la Junta de Gobierno y Administración, a las Secretarías Operativas de Administración y de Tecnologías de la Información y las Comunicaciones, en los juicios de amparo en los que hayan sido señalados como autoridades responsables y/o terceros interesados, rindiendo los correspondientes informes previos y justificados, así como autorizar como delegados de representación a los servidores públicos adscritos a la propia Dirección General de Asuntos Jurídicos para los efectos más amplios que establezca la Ley de Amparo, sin perjuicio directo en los juicios que así lo determinen las autoridades jurisdiccionales en dicha materia;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2015)</small>
+
+V. Representar, sin perjuicio de su ejercicio directo, al Tribunal Federal de Justicia Fiscal y Administrativa, al Pleno de la Sala Superior, a la Junta de Gobierno y Administración, al Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, a la Secretaría General de Acuerdos, a la Secretaría Auxiliar de la Junta de Gobierno y Administración, a las Secretarías Operativas de Administración y de Tecnologías de la Información y las Comunicaciones, en todas las controversias jurídicas y/o procedimientos administrativos seguidos en forma de juicio en que éstos sean parte con motivo del ejercicio de sus funciones con todos los derechos procesales que las leyes de las materias jurídicas reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones civiles y/o de cualquier otra materia jurídica, oponer excepciones, interponer toda clase de recursos, desistirse de ellos, incluso del juicio de amparo, transigir, comprometer en árbitros, absolver y articular posiciones, formular repreguntas, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces, y en general para que promueva y realice todos los actos permitidos por las leyes, pudiendo en todo caso delegar dicha facultad de representación en los servidores públicos adscritos a la Dirección General de Asuntos Jurídicos, a efecto de salvaguardar los intereses jurídico económicos del Tribunal Federal de Justicia Fiscal y Administrativa;
+
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 VI. Resolver las consultas que en materia jurídica formulen las unidades administrativas del Tribunal y dictaminar cuando corresponda, respecto de la procedencia de sanciones cuya imposición propongan dichas unidades;
 
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
 VII. Revisar desde el punto de vista jurídico las bases y contenido de las garantías que deban constituirse para el cumplimiento de las obligaciones derivadas de los contratos y convenios en los que sea parte el Tribunal;
+
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 VIII. Asesorar jurídicamente en los procesos que se lleven a cabo para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza;
 
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
 IX. Participar como asesor legal en los Comités integrados por el Tribunal, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado, y
+
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 X. Las demás que establezcan las leyes y el presente Reglamento.
 
-Sin perjuicio de su ejercicio directo por parte del Titular de la Unidad de Asuntos Jurídicos, al Director Consultivo y de Estudios Jurídicos corresponderá el ejercicio de las atribuciones previstas en las fracciones I, VI, VII, VIII y IX de este artículo.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2015)</small>
+
+Sin perjuicio de su ejercicio directo por parte del Titular de la Dirección General de Asuntos Jurídicos, corresponderá al Titular de la Unidad Jurídica ejercer las atribuciones previstas en las fracciones III, VI y X, por su parte, la Dirección de Asuntos Contenciosos el ejercicio de las atribuciones previstas en las fracciones II, IV y V; y a la Dirección de Consulta en Adquisiciones, Arrendamientos, Servicios y Obra Pública, el cumplimiento de las diversas I, VII, VIII y IX de este artículo.
 
 > <small>N. DE E. EL ACUERDO SS/5/2012, D.O.F. 18 DE ABRIL DE 2012, INDICA LA UBICACIÓN DE ESTE CAPÍTULO, POR LO QUE ANTERIORMENTE COMPRENDÍA DEL ARTÍCULO 95 AL 100, PARA QUEDAR DEL 94 AL 100.</small>
 
@@ -2449,9 +2477,9 @@ VIII. Tramitar los procedimientos de conciliación en materia de adquisiciones, 
 
 Para efecto de lo anterior, podrán emitir todo tipo de acuerdos, así como presidir y conducir las sesiones de conciliación y lleva (sic) a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar;
 
-> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2015)</small>
 
-IX. Hacer del conocimiento de la Junta y de la Unidad de Asuntos Jurídicos los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3 de la Ley, y
+IX. Hacer del conocimiento del Pleno en asuntos de su competencia, de la Junta y de la Dirección General de Asuntos Jurídicos los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, y
 
 > <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
 
@@ -2563,9 +2591,9 @@ VIII. La falta temporal del Secretario General de Acuerdos, será suplida por lo
 
 IX. Las ausencias temporales de los Secretarios Operativos y Auxiliar de la Junta o los Titulares de las Unidades Administrativas, incluida la Contraloría Interna, serán suplidas por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
-> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2015)</small>
 
-X. Las ausencias del Titular de la Unidad de Asuntos Jurídicos en procedimientos judiciales y contenciosos administrativos serán suplidas por los servidores públicos que hayan sido expresamente acreditados en los juicios o procedimientos respectivos, y
+X. Las ausencias del Titular de la Dirección General de Asuntos Jurídicos en controversias jurídicas y/o procedimientos administrativos seguidos en forma de juicio serán suplidas por los servidores públicos que hayan sido expresamente acreditados en los mismos, y
 
 XI. En caso de ausencias de los Secretarios de Acuerdos de Sala Superior y de Sala Regional, a causa de licencias que les hayan sido otorgadas, la Junta determinará la posibilidad de brindar apoyo con personal jurisdiccional al Magistrado al que aquéllos estén adscritos, en función de la disponibilidad presupuestal y de plazas con que se cuente.
 
@@ -2914,3 +2942,9 @@ QUINTO.- Quedan sin efecto las disposiciones emitidas por la Junta de Gobierno y
 SEXTO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
 
 SÉPTIMO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página de internet del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+D.O.F. 16 DE ABRIL DE 2015.
+
+Primero.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Publíquese en el Diario Oficial de la Federación.
