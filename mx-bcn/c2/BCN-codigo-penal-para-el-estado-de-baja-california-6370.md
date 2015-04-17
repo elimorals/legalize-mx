@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2015-03-27"
+last_updated: "2015-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2943,9 +2943,15 @@ IX.- Registre o haga registrar un divorcio o nulidad de matrimonio que no hubies
 
 Cuando se trate de los supuestos previstos en las fracciones III y VI de este articulo, el delito se perseguirá por querella de parte ofendida.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2015)</small>
+
+Artículo 239 BIS.- Cuando las conductas referidas en las fracciones I, II, III, V, VI o VIII del artículo 239, sean realizadas por personal de instituciones de salud públicas o privadas, la pena se duplicará.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+
 ###### Artículo 240.
 
-Pérdidas de derechos.- El que cometa alguno de los delitos expresados en el artículo anterior, perderá el derecho de heredar que tuviere respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
+Pérdida de derechos.- El que cometa alguno de los delitos expresado (sic) en el artículo 239, perderá el derecho de heredar que tuviera respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
 
 ### CAPITULO IV. DELITOS CONTRA EL CONSUMO Y LA RIQUEZA
 
@@ -5226,3 +5232,7 @@ TERCERO.- Las disposiciones normativas contenidas en los artículos 164, 164 BIS
 CUARTO.- En virtud de lo dispuesto por los artículos 22 y Séptimo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, el Consejo Estatal de Seguridad Pública y los Municipios del Estado, conforme a los acuerdos que se generen en el marco del Sistema Nacional de Seguridad Pública, deberán elaborar en un plazo de seis meses, el programa estatal y municipal, respectivamente, para prevenir, perseguir y sancionar las conductas previstas en la citada Ley, a efecto de remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana.
 
 La elaboración de la propuesta del programa estatal estará a cargo de la Procuraduría General de Justicia del Estado, quien deberá coordinar los trabajos para su elaboración con las dependencias e instancias correspondientes, previo a su remisión al Consejo Estatal de Seguridad Publica, para la aprobación correspondiente.
+
+P.O. 17 DE ABRIL DE 2015.
+
+ÚNICO.- La presente reforma entrará (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
