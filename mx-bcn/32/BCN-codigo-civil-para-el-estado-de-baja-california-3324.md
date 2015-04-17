@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-04-10"
+last_updated: "2015-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -289,11 +289,15 @@ Las formas del Registro Civil serán suministradas por el Director del Registro 
 
 De las actas que se levanten en las formas mencionadas los Oficiales del Registro Civil entregarán un ejemplar de ellas al interesado, otro quedará en el archivo de la Oficialía y otro se remitirá a la Dirección del Registro Civil. El Director del Registro Civil, enviará la información relativa de las actas levantadas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y a cualquier dependencia que así lo solicite, mediante el sistema de reproducción que estime conveniente.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 44.
 
-En relación con las actas del Registro Civil se formará un apéndice, constituido por los documentos que se refieran a aquellas. Toda persona puede solicitar copia certificada de las actas y de los documentos del apéndice.
+En relación con las actas del Registro Civil se formará un apéndice, constituido por los documentos que se refieran a aquellas, el cual permanecerá en el resguardo del Registro Civil por un periodo de diez años; una vez vencido dicho término podrán ser destruidos, una vez digitalizados. Toda persona puede solicitar copia certificada de las actas y de los documentos del apéndice.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
 
 Asimismo, se podrán expedir mediante el uso de Firma Electrónica copias certificadas de las actas del Registro Civil, las cuales deberán contar con elementos de seguridad que acrediten su autenticidad y validez legal e impidan su falsificación de conformidad con la legislación aplicable.
 
@@ -347,49 +351,43 @@ Los Oficiales del Registro Civil deberán remitir a la Dirección, una copia en 
 
 Los actos y hechos del Estado Civil que interesen en lo personal al Oficial, a su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio Oficial y se asentarán ante el Presidente Municipal del lugar.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 53.
 
 El Ministerio Público cuidará de que el Registro Civil funcione debidamente, a cuyo efecto practicará inspecciones en la Oficialías en cualquier tiempo.
 
-Durante los primeros seis meses de cada año, el Ministerio Público revisará las actas del año anterior remitidas al Archivo General de la Dirección del Registro Civil. En el caso de que en el ejercicio de su encargo los Oficiales del Registro Civil hubieren cometido delitos, procederá a hacer las consignaciones correspondientes y si hubiesen incurrido en faltas, las hará del conocimiento de la Dirección del Registro Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+
+Durante los primeros seis meses de cada año, el Ministerio Público revisará las actas del año anterior remitidas al Archivo General de la Dirección del Registro Civil. En el caso de que, en el ejercicio de su encargo, los Oficiales del Registro Civil o quienes ejerzan sus funciones, hubieren cometido alguna conducta que pudiera constituir un delito, procederá a hacer la investigación pertinente; si se tratare de faltas administrativas, las hará del conocimiento de la Dirección del Registro Civil, para efecto de que se inicie el procedimiento correspondiente.
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o quien ejerza sus funciones, o solicitando su comparecencia al lugar donde se encuentre aquél.
+Las declaraciones de nacimiento se harán por la institución de salud donde haya ocurrido el alumbramiento; en los demás casos, presentando al menor ante el Oficial del Registro Civil o quien ejerza sus funciones, o solicitando su comparecencia al lugar donde se encuentre aquel.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+Para dar cumplimiento a la obligación antes señalada, dentro de los tres días hábiles siguientes de haberse realizado el alumbramiento, la institución de salud expedirá el formato relativo a la declaración de nacimiento proporcionado por la Dirección del Registro Civil, entregando un tanto al interesado y remitiendo otro, a la Oficialía del Registro Civil a la que se encuentre adscrita, para efectos del registro correspondiente. Así mismo, expedirá y entregará el Certificado de Nacimiento, en el formato oficial que al efecto expida la Secretaría de Salud, de conformidad con las disposiciones correlativas en materia de salud.
+
+Para los efectos del presente capítulo, se entenderá por Institución de salud a cualquier prestador público o privado de servicios de atención médica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 55.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos; a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurra aquél. Ante la imposibilidad de éstos, los hermanos podrán hacer la declaración. En los casos en que declaren los abuelos o los hermanos, deberán demostrar su condición ante el Oficial del Registro Civil.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos; a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los cinco años siguientes a la fecha en que ocurra aquél. Ante la imposibilidad de éstos, los hermanos podrán hacer la declaración. En los casos en que declaren los abuelos o los hermanos, deberán demostrar su condición ante el Oficial del Registro Civil.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+Si el nacimiento tuviere lugar en una institución de salud, la declaración de nacimiento estará a cargo del Titular, Director o de la persona encargada de la administración, debiendo recabar la información necesaria para requisitar el formato relativo a la declaración de nacimiento mencionado en el artículo anterior y remitirlo a la Oficialía correspondiente.
 
-La declaración de nacimiento se hará en el formato oficial denominado Certificado de Nacimiento, que al efecto expida la Secretaría de Salud.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
-
-Si el nacimiento tuviere lugar en una Institución de salud pública o privada, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-Para dar cumplimiento a la obligación antes señalada, las Instituciones de Salud Públicas o Privadas, de conformidad con las disposiciones correlativas en materia de salud, llevarán el registro correspondiente y expedirán el Certificado de Nacimiento, en el formato oficial correspondiente.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
-
-Las instituciones de salud públicas o privadas entregarán el certificado de nacimiento dentro de los tres días hábiles siguientes de haberse realizado el alumbramiento, a quienes tiene (sic) la obligación de declarar el nacimiento en los términos del presente artículo, para la correspondiente inscripción ante la Oficialía del Registro Civil.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2009)</small>
-
-Recibido el certificado de nacimiento, el Oficial del Registro Civil tomará las medidas que sean necesarias a fin de que se levante el Acta de Nacimiento conforme a las disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+Recibida la declaración de nacimiento por parte de la institución de salud, el Oficial del Registro Civil tomará las medidas que sean necesarias, a fin de que dentro de los 10 días hábiles siguientes, se levante el Acta de Nacimiento, cuya primera copia certificada será entregada gratuitamente al padre o madre que lo solicite, o quien hubiere efectuado la declaración del nacimiento.
 
 En los casos en que los supuestos padres o demás familiares señalados en el primer párrafo de este artículo, no pudieran acreditar su filiación respecto del recién nacido, el Director o la persona encargada de la administración del nosocomio lo hará del conocimiento del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de los Menores y la Familia, en los términos del artículo 65 de este Código.
 
@@ -397,21 +395,51 @@ En los casos en que los supuestos padres o demás familiares señalados en el pr
 
 ARTICULO 55 BIS.- En los términos del presente Capítulo se llevará a cabo el registro de niños o niñas entregados en las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, designados por las autoridades competentes, siempre que se acredite que el menor no se encuentra registrado y que no se haya solicitado la devolución del menor por los padres biológicos, conjunta o separadamente en los términos previstos por el presente código.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2015)</small>
+
+ARTICULO 55 TER.- A efecto de dar cumplimiento a lo previsto en el artículo 55 de este Código, las instituciones de salud, en el formato relativo a la declaración de nacimiento y a través del mecanismo que la Dirección del Registro Civil determine, recabarán la información siguiente:
+
+I.- Nombre del menor; sexo; lugar, fecha y hora de su nacimiento; y la expresión de si nació vivo o muerto;
+
+II.- Nombre completo de la madre; lugar y fecha de su nacimiento; y domicilio, previa identificación oficial;
+
+III.- En su caso, nombre completo del padre; lugar y fecha de su nacimiento; y domicilio, previa identificación oficial;
+
+IV.- En su caso, fecha y lugar de matrimonio; y
+
+V.- Cualquier otro dato o información que resulte necesario para levantar el Acta de Nacimiento, autorizado por la Dirección del Registro Civil.
+
+Si la información fue proporcionada por persona distinta a los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el menor.
+
+Además, el documento deberá contener firma o huella del o los interesados, así como estar suscrita por la persona que designe como testigo, la institución de salud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2015)</small>
+
+ARTICULO 55 QUATER.- Una vez que la Oficialía del Registro Civil, reciba la declaración de nacimiento referida en el artículo anterior, verificará que los datos expresados son correctos y coincidentes con los contenidos en las bases de datos a cargo del Registro Civil y procederá al levantamiento del Acta de Nacimiento.
+
+Cuando la información proporcionada por la institución de salud se encuentre incompleta o con datos imprecisos, la Oficialía del Registro Civil requerirá, al momento en que se presente el interesado a recoger la primera copia certificada del acta de nacimiento, la información necesaria para concluir el registro del menor.
+
+En caso de que la Oficialía del Registro Civil, advierta que se pudiera haber proporcionado información con el propósito de alterar la filiación del menor, hará la denuncia penal correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 56.
 
-A las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, se les sancionará con multa de diez a cincuenta veces el salario mínimo general vigente en el Estado, que impondrá la autoridad Municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento; excepto tratándose de jornaleros o asalariados, los que no excederán en su caso el importe de un salario mínimo.
+A las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, se les sancionará con multa de diez a cincuenta veces el salario mínimo general vigente en el Estado, que impondrá la autoridad Municipal del lugar donde se haya hecho la declaración de nacimiento fuera del plazo previsto en el artículo 55 de este Código; excepto tratándose de jornaleros o asalariados, los que no excederán en su caso el importe de un salario mínimo.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
+Se le aplicará una sanción de cien a mil veces el salario mínimo, a las instituciones de salud que no cumplan con la obligación de expedir y remitir a la Oficialía del Registro Civil, el formato relativo a la declaración de Nacimiento previsto en el artículo 54 de este Código. La misma sanción se les aplicará en el supuesto de que incumplan con la obligación de otorgar el Certificado de Nacimiento.
 
-Igual sanción se aplicará a quienes no cumplan con la obligación de expedir el Certificado de Nacimiento prevenido en los Párrafos Segundo y Tercero del artículo 55 del presente Código.
+Además de las sanciones señaladas en el párrafo anterior, el Director del Registro Civil, pondrá en conocimiento a la autoridad Estatal en materia de salud, para que tome las medidas conducentes a fin de que se cumpla con lo establecido en este Código.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
+Los incumplimientos expresados en los párrafos anteriores, sólo darán lugar a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
 
-Tratándose de las Instituciones hospitalarias que se nieguen a otorgar el Certificado de Nacimiento, además de aplicarles la sanción que señala el primer párrafo de este artículo, el Jefe del Departamento del Registro Civil, pondrá en conocimiento a la autoridad Estatal en materia de salud, para que tome las medidas conducentes a fin de que se cumpla con lo establecido en este Código.
-
-El incumplimiento a lo dispuesto por el Artículo anterior, sólo dará lugar a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
+Las sanciones a las que se refiere el presente artículo serán impuestas por la Dirección del Registro Civil, pudiendo auxiliarse de la autoridad municipal en su ejecución.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
@@ -421,19 +449,29 @@ En las poblaciones en que no haya Oficial de Registro, el niño será presentado
 
 En el registro de nacimiento a que se refiere el párrafo anterior, el Director del Registro Civil, tomando en consideración las necesidades de la población en cuestión y la seguridad jurídica de las personas menores de dieciocho años de edad a registrar, otorgará las facilidades que sean necesarias al Delegado Municipal para el cumplimiento de esta función.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 58.
 
-El acta de nacimiento se levantará con la asistencia de dos testigos y contendrá el año, mes, día, hora, lugar de nacimiento, el sexo del niño, el nombre que se le ponga y apellidos que le correspondan sin que por motivo alguno puedan omitirse, la expresión de si es presentado vivo o muerto, la impresión digital del presentado, el nombre, edad, domicilio y nacionalidad de los padres, el nombre, domicilio y nacionalidad de los abuelos paternos y maternos, el nombre, edad, domicilio y nacionalidad de los testigos, y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento contendrá el año, mes, día, hora, lugar de nacimiento, el sexo, nombre y apellidos que le correspondan, sin que por motivo alguno puedan omitirse; la expresión de si nació vivo o muerto; y el nombre, edad, domicilio y nacionalidad de los padres. Si la solicitud la realizó una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 59.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de las personas que hubieren hecho la presentación, en su caso.
+Cuando el nacido fuere hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; y los de las personas que hubieren hecho la solicitud, en su caso.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el Artículo 47, haciéndose constar la petición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+
+Si el menor ha nacido fuera del matrimonio, en el acta de nacimiento se asentarán los datos del padre, siempre que hubiere suscrito el formato relativo a la declaración de nacimiento referido (sic) el artículo 55 TER de este Código; en caso contrario, será necesario que aquel lo solicite a la Oficialía del Registro Civil, por sí o por apoderado especial constituido en la forma establecida en el artículo 47 de este ordenamiento, haciéndose constar la petición.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
 El padre y la madre tienen obligación de que su nombre y apellidos figuren en el acta de nacimiento del hijo. Cuando sólo uno de los padres haga la presentación del hijo habido fuera de matrimonio, se pondrán siguiendo al nombre de éste, los dos apellidos del padre o la madre compareciente. Esto será sin perjuicio de la investigación de la paternidad o de la maternidad ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
 
@@ -501,19 +539,35 @@ En las actas que se levanten en los casos del Artículo anterior se expresarán 
 
 Si con el menor expósito o abandonado se hubieren hallado papeles, alhajas u otros objetos que puedan conducir o establecer la identificación de aquél, se depositarán en el Sistema para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, dando formal recibo de ellos al que recoja al menor, e informará al Ministerio Público acompañando copias de los documentos y descripción de los objetos encontrados.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 69.
 
-Se prohibe al Oficial del Registro Civil o a quien ejerza sus funciones, y a los testigos que conforme al artículo 58 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deban declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme las prescripciones del Código Penal.
+Se prohíbe al Oficial del Registro Civil o a quien ejerza sus funciones, hacer inquisición sobre la paternidad o maternidad. En el acta solo se expresará lo que deban declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme las prescripciones del Código Penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 70.
 
-(DEROGADO, P.O. 10 DE MAYO DE 1983)
+En el caso de que la declaración de nacimiento no sea realizada por la institución de salud, quienes tienen la obligación de solicitar el registro del menor en términos del artículo 55 de este Código, deberán presentarlo en la Oficialía del Registro Civil para realizar la declaración respectiva. El acta será levantada conforme a lo previsto en el artículo 58 de este Código, presentando aquella documentación o la información que brinde certeza respecto de su filiación y nacionalidad, así como la comparecencia de dos testigos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 71.
 
-(DEROGADO, P.O. 10 DE MAYO DE 1983)
+Si se trata del registro de una persona mayor de edad, esta deberá acudir personalmente presentando aquella documentación o la información que brinde certeza respecto de su filiación y nacionalidad, así como la comparecencia de dos testigos.
+
+El Oficial del Registro Civil, recibirá la solicitud y tomará la declaración de los testigos. Y una vez integrado el expediente con la documentación e información descritas en el artículo anterior, el Oficial del Registro Civil, lo turnará a la Dirección del Registro Civil del Estado, quien dictará resolución fundada respecto de la procedencia o no de la inscripción del solicitante, en su caso, en el Registro Civil.
+
+La resolución se le comunicará al Oficial del Registro Civil, para que éste la haga saber al interesado o a su representante legal. En caso de que la resolución fuere en sentido procedente, el Oficial del Registro Civil, procederá al levantamiento del Acta de Nacimiento correspondiente; caso contrario, se le informará sobre las vías jurisdiccionales correspondientes.
+
+La Dirección del Registro Civil podrá recabar la información complementaria que sea necesaria, para resolver lo que corresponda y dará vista al Agente del Ministerio Público cuando lo considere pertinente.
 
 ###### ARTICULO 72.
 
@@ -999,9 +1053,23 @@ I.- Cuando se solicite variar algún nombre u otra circunstancia, sea esencial o
 
 II.- Cuando en las actas del Registro Civil existan errores mecanográficos, ortográficos, de letras, de palabras concernientes a la real identificación de la persona, o de otra índole;
 
-III.- Cuando se trate de omisión de un dato que deba constar en el acta respectiva, de acuerdo con este Código; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Cuando se trate de errores mecanográficos o de impresión que se desprendan del contenido del acta o los documentos que integran el Apéndice.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
+
+III.- Cuando se trate de omisión de un dato que deba constar en el acta respectiva, de acuerdo con este Código;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
+
+IV.- Cuando se trate de errores mecanográficos o de impresión que se desprendan del contenido del acta o de los documentos que integran el Apéndice; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2015)</small>
+
+V.- Cuando haya que variarse la fecha o el nombre del registrado en las actas de nacimiento, para adecuarlo a la realidad social sin que se altere la filiación o parentesco del registrado, demostrando (sic) través de documentos fehacientes que siempre se ha ostentado con un nombre distinto del que aparece en el registro de nacimiento o bien, que ha sufrido daño por el mismo. En este último supuesto, será necesario que se presente un estudio psicológico emitido por un psicólogo autorizado por el Poder Judicial o Institución Pública, del cual se desprenda el daño referido. En tratándose de otros medios probatorios deberá promoverse en la vía jurisdiccional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -2385,7 +2453,7 @@ Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matri
 
 ###### ARTICULO 359.
 
-La persona menor de dieciocho años de edad, no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre el la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de esta sin la autorización judicial.
+La persona menor de dieciocho años de edad, no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre en el la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de esta sin la autorización judicial.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -4001,7 +4069,7 @@ II.- En los casos en que el cónyuge incapacitado pueda querellarse del otro, de
 
 ###### ARTICULO 579.
 
-Cuando la tutela del incapacitado recaiga en su cónyuge, éste solo podrá gravar o enajenar los bienes mencionados en el Articulo 565, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el Artículo 558.
+Cuando la tutela del incapacitado recaiga en su cónyuge, éste solo podrá gravar o enajenar los bienes mencionados en el Artículo 565, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el Artículo 558.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -4297,7 +4365,7 @@ Son también nulos los actos de administración y los contratos celebrados por l
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-###### ARTÍCULO 632.
+###### ARTICULO 632.
 
 La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por la misma persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ellas.
 
@@ -16316,3 +16384,13 @@ P.O. 20 DE FEBRERO DE 2015.
 P.O. 10 DE ABRIL DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE ABRIL DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado deberá publicar el Acuerdo de adscripción de las instituciones de salud del Estado a las Oficialías del Registro Civil, así como la normatividad para la operación del registro de nacimientos.
+
+Asimismo, deberá tomar las providencias necesarias a fin de adecuar el Sistema para la Inscripción y Certificación de los Actos del Estado Civil, para la incorporación de la participación de las instituciones de salud en el registro de menores.
+
+TERCERO.- Toda dependencia y entidad de la administración pública estatal, a la que impacte esta reforma, deberá elaborar los planes y programas necesarios para su adecuada y correcta implementación, así como establecer dentro de los proyectos de presupuesto respectivos, las partidas indispensables para atender la ejecución de esos programas, equipamiento, la contratación de personal, la capacitación, y todos los demás requerimientos que sean necesarios.
