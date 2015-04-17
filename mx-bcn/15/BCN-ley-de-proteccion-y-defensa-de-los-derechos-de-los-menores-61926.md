@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2014-11-28"
+last_updated: "2015-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, SALVO POR LO QUE REFIERE A LA ESTRUCTURA ORGÁNICA Y ATRIBUCIONES DE LA PROCURADURÍA PARA LA DEFENSA DE LOS MENORES Y LA FAMILIA EN EL ESTADO, EN TANTO NO CONTRAVENGAN LA PRESENTE LEY, LAS CUALES CORRESPONDERÁN A LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO, HASTA EN TANTO SE EXPIDA SU LEGISLACIÓN ORGÁNICA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -34,6 +36,8 @@ LA H. XIX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFOR
 DECRETO N° 65
 
 PRIMERO.- Se aprueba la ley de Protección y Defensa de los Derechos de los Menores y la Familia en el Estado de Baja California, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 239, PUBLICADO EN EL P.O. 17 DE ABRIL DE 2015, LA PROCURADURÍA PARA LA DEFENSA DE LOS MENORES Y LA FAMILIA EN EL ESTADO SÓLO MODIFICA SU DENOMINACIÓN POR LA DE PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO, POR LO QUE CONSERVA SU NATURALEZA JURÍDICA Y OBJETO, ASÍ COMO LAS OBLIGACIONES Y DERECHOS QUE LE CORRESPONDÍAN HASTA LA VIGENCIA DE ESTA LEY.</small>
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA.
 
@@ -1100,3 +1104,29 @@ SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 28 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ABRIL DE 2015.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Protección y Defensa de los Derechos de los Menores y la Familia en el Estado de Baja California, publicada en el Periódico Oficial del Estado en fecha 4 de julio de 2008, salvo por lo que refiere a la estructura orgánica y atribuciones de la Procuraduría para la Defensa de los Menores y la Familia en el Estado, en tanto no contravengan la presente Ley, las cuales corresponderán a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, hasta en tanto se expida su legislación orgánica.
+
+La Procuraduría para la Defensa de los Menores y la Familia en el Estado sólo modifica su denominación por la de Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, por lo que conserva su naturaleza jurídica y objeto, así como las obligaciones y derechos que le correspondían hasta la vigencia de esta Ley.
+
+Artículo Tercero.- El Sistema Estatal de Protección y los Sistemas Municipales de Protección deberán integrarse a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+Artículo Cuarto.- En la esfera de su competencia, las disposiciones derivadas de la presente Ley deberán ser expedidas por el Ejecutivo en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Quinto.- Los Municipios deben expedir las disposiciones reglamentarias aplicables en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Sexto.- En su primera sesión, el Presidente del Sistema Estatal de Protección someterá a consideración y aprobación de dicho sistema los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva.
+
+Artículo Séptimo.- El Programa Estatal y los Programas Municipales deberán aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Estatal de Protección y los Sistemas Municipales, respectivamente.
+
+Artículo Octavo.- De conformidad con el transitorio décimo de la Ley General de los Derechos de las Niñas, Niños y Adolescentes, para efectos de lo dispuesto en la fracción VIII del artículo 112 de la presente Ley, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+
+Artículo Noveno.- Los Centros de Asistencia Social que se encuentren operando con antelación a la entrada en vigor de la Ley General de los Derechos de las Niñas, Niños y Adolescentes, deben realizar las adecuaciones conducentes dentro del plazo contemplado en el transitorio décimo primero del decreto que expide ese ordenamiento.
+
+Artículo Décimo.- El Congreso del Estado, a propuesta del Ejecutivo Estatal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones referidas en el transitorio anterior y la operación de los Centros de Asistencia Social dependientes del Sistema.
+
+Artículo Décimo Primero.- Para los efectos correspondientes, se entenderán como conceptos sinónimos el de hogar voluntario al de familia de acogida; y el relativo a hogar sustituto u hogar sustituto en vías de adopción al de familia de acogimiento pre adoptivo.
