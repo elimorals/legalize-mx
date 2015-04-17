@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2014-06-13"
+last_updated: "2015-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -163,13 +163,21 @@ IX.- Girar las instrucciones e instructivos necesarios para el buen funcionamien
 
 X.- Resolver sobre el procedimiento de cancelación de actas del Registro Civil que se les presenten;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
 
-XI.- Expedir copia certificada de las actas y constancias que se encuentren en el Archivo General del Registro Civil. Dichas copias podrán ser emitidas mediante el uso de Firma Electrónica, las cuales deberán contar con elementos de seguridad que acrediten su autenticidad y validez legal e impidan su falsificación de conformidad con la legislación aplicable; y
+XI.- Expedir copia certificada de las actas y constancias que se encuentren en el Archivo General del Registro Civil. Dichas copias podrán ser emitidas mediante el uso de Firma Electrónica, las cuales deberán contar con elementos de seguridad que acrediten su autenticidad y validez legal e impidan su falsificación de conformidad con la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
 
-XII.- Las demás que le confieren otras Leyes y Reglamentos.
+XII.- Emitir el Acuerdo de adscripción de las instituciones de salud públicas y privadas a las Oficialías del Registro Civil del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2015)</small>
+
+XIII.- Resolver sobre los registros de nacimientos extemporáneos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2015)</small>
+
+XIV.- Las demás que le confieren otras Leyes y Reglamentos.
 
 ### CAPITULO III. DEL ARCHIVO DEL REGISTRO CIVIL
 
@@ -319,9 +327,11 @@ Los nombres y demás datos se escribirán completos, no se utilizarán abreviatu
 
 Los nombres no podrán constituir palabras que denigren la personalidad humana, ni confundirse con denominaciones de fantasía.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 33.
 
-Queda prohibido a los Oficiales del Registro Civil, asentar en el acta de nacimiento o de reconocimiento, la condición de hijo natural, adulterino o incestuoso, de padre desconocido, ilegítimo o cualquier otra calificación, aunque así se declare al presentarlo. En cualquier acta que contenga alguna de tales calificaciones, se tachará de oficio por quien tenga a su cargo las actas.
+Queda prohibido a los Oficiales del Registro Civil o a quien ejerza sus funciones, asentar en el acta de nacimiento o de reconocimiento, la condición de hijo natural, adulterino o incestuoso, de padre desconocido, ilegítimo o cualquier otra calificación, aunque así se declare al presentarlo. En cualquier acta que contenga alguna de tales calificaciones, se tachará de Oficio por quien tenga a su cargo las actas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2011)</small>
 
@@ -455,9 +465,9 @@ X.- Rendir a las autoridades federales y estatales, los informes estadísticos q
 
 XI.- Informar semestralmente a la Dirección del Registro Civil, sobre las labores de la Oficina, proponiendo en su caso, las medidas necesarias para el buen servicio;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
 
-XII.- Celebrar todo tipo de jornadas tendientes a promover y efectuar el registro oportuno de menores, con relación al tiempo que refiere el artículo 55 del Código Civil para el Estado de Baja California y Coordinarse con el Ayuntamiento respectivo y otros Organismos interesados en el bienestar de la familia, a fin de obtener la difusión entre los habitantes, de la conveniencia de cumplir con el Registro Civil; de igual manera fomentará la participación en los programas de Escuela para Padres ofrecidos por el sistema estatal para el desarrollo integral de la familia.
+XII.- Previa autorización del Director del Registro Civil, celebrar todo tipo de campañas tendientes a promover y efectuar el registro oportuno de menores, con relación al tiempo que refiere el artículo 55 del Código Civil para el Estado de Baja California y coordinarse con el Ayuntamiento respectivo y otros organismos interesados en el bienestar de la familia, a fin de obtener la difusión entre los habitantes, de la conveniencia de cumplir con el Registro Civil;
 
 XIII.- Fijar en lugar visible de la Oficialía, las tarifas que causen los derechos del Registro Civil;
 
@@ -541,9 +551,13 @@ Contra la resolución administrativa, no cabe el recurso alguno.
 
 La inscripción de constancias referentes a hechos o actos del Registro Civil ocurridos en el extranjero, en los cuales participen mexicanos, se harán en las formas en que tales actos o hechos deban inscribirse en el Registro Civil del Estado y para ello se obtendrán de la constancia que presente el interesado, los diversos datos que deba contener el acta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 53.
 
-Los datos que deban aparecer en el acta y que no contengan la constancia extranjera, serán obtenidos de ser posible, de la declaración de los interesados. Los que no puedan recabarse, no se asentarán; en este caso, se invalidarán con rayas los espacios relativos del acta.
+Los datos que deban aparecer en el acta y que no contenga la constancia extranjera, serán obtenidos con base en la documentación prevista en la fracción III del artículo 55 de este ordenamiento legal, misma que deberá ser presentada por los interesados.
+
+Los que no puedan recabarse, no se asentarán; en este caso, se invalidarán con rayas los espacios relativos del acta.
 
 ###### ARTICULO 54.
 
@@ -560,6 +574,48 @@ Para poder inscribir constancias relativas al Registro Civil, provenientes del e
 I.- Que la constancia relativa sea debidamente legalizada por las autoridades diplomáticas o consulares, como lo dispone el artículo 131 del Código Federal de Procedimientos Civiles o en su caso la apostilla del país de procedencia del documento; y
 
 II.- En caso de que no exista traducción para la legalización del documento proveniente del extranjero, se exigirá la traducción de la constancia por Perito Oficial.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2015)</small>
+
+III.- Presentar los siguientes requisitos, según la constancia que se pretenda inscribir:
+
+a) Acta de nacimiento:
+
+1. Certificado de inexistencia de registro de nacimiento, expedido por el Registro Civil del Estado de Baja California.
+
+2. Acta o actas de nacimiento de los padres.
+
+3. Identificaciones oficiales de los padres, de quien ejerza la tutela o patria potestad, o del interesado en caso de ser mayor de edad.
+
+4. Cuando el interesado no pueda presentarse a la inscripción del registro, el trámite lo pueden efectuar los padres ó tutores si es menor de edad, si estos no pueden presentarse a realizar el trámite de manera personal, lo podrá llevar a cabo un tercero mediante carta poder otorgada ante Notario Público. En caso de mayoría de edad del interesado, deberá acudir personalmente a realizar el trámite de inscripción, de lo contrario, podrá ser representado mediante carta poder otorgada ante Notario Público para autorizar a un tercero a realizar dicho trámite.
+
+b) Acta de matrimonio:
+
+1. Certificado de inexistencia de registro de matrimonio, expedido por el Registro Civil del Estado de Baja California, a nombre del o los cónyuges nacidos en territorio nacional.
+
+2. Actas de nacimiento de los cónyuges.
+
+3. Cuando uno o ambos cónyuges no puedan concurrir de manera personal a la inscripción del matrimonio, podrán ser representados mediante carta poder otorgada ante Notario Público para autorizar a un tercero a realizar el trámite.
+
+c) Acta de defunción:
+
+1. Acta de nacimiento del finado (de la que se advierte la nacionalidad mexicana).
+
+2. Cuando los familiares directos del finado no puedan concurrir de manera personal a la inscripción de la defunción, podrán ser representados mediante carta poder otorgada ante Notario Público para autorizar a un tercero a realizar el trámite.
+
+d) Acta de divorcio:
+
+1. Homologar sentencia proveniente del extranjero en los juzgados correspondientes.
+
+2. Homologada que sea la sentencia el interesado o el apoderado legal en su caso podrá acudir a la Oficialía de Registro Civil correspondiente a inscribir el acta de divorcio.
+
+e) Acta de adopción:
+
+1) Homologar sentencia proveniente del extranjero en los juzgados correspondientes.
+
+2) Homologada que sea la sentencia el interesado o el apoderado legal en su caso podrá acudir a la Oficialía de Registro Civil correspondiente a inscribir el acta de adopción.
+
+Cuando existan errores en las actas provenientes del extranjero que pretendan inscribirse, que se adviertan de las constancias presentadas por los interesados, deberán subsanarse en el país de origen mediante el procedimiento de rectificación que correspondiente (sic).
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
 
@@ -834,3 +890,7 @@ SEGUNDO: Túrnese el presente decreto al Titular del Poder Ejecutivo del Estado 
 P.O. 13 DE JUNIO DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Baja California.
+
+P.O. 17 DE ABRIL DE 2015.
+
+ÚNICO.- La presente reforma entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
