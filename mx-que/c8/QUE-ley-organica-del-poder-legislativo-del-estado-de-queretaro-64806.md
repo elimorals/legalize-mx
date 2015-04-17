@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2014-10-10"
+last_updated: "2015-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1125,9 +1125,15 @@ X. Autorizar al Presidente de la Legislatura, abandonar el territorio del Estado
 
 XI. Habilitar recintos distintos a los declarados oficiales, para que la Legislatura sesione;
 
-XII. Supervisar y ordenar el trabajo de la Dirección de Investigación y Estadística Legislativa; y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
 
-XIII. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
+XII. Supervisar y ordenar el trabajo de la Dirección de Investigación y Estadística Legislativa;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2015)</small>
+
+XIII. Designar, en caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, a propuesta de la Junta de Concertación Política, a quienes de manera interina deban llevar a cabo las funciones de los titulares; y
+
+XIV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
 
 ###### Artículo 125.
 
@@ -1333,11 +1339,15 @@ X. Supervisar y ordenar el trabajo de la Coordinación de Comunicación Social;
 
 XI. Proponer al Pleno de la Legislatura, en términos del artículo 3 del presente ordenamiento, la celebración de contratos a que alude el segundo párrafo de dicho numeral, pudiendo también proponer, en su caso, que el Poder Ejecutivo del Estado intervenga en la celebración del contrato correspondiente como aval o deudor solidario, de las obligaciones que contraiga la Legislatura del Estado en ejercicio de la atribución conferida en el presente numeral. Los contratos correspondientes, podrán ser adjudicados o asignados directamente por el Poder Legislativo del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
 
-XII. Delegar, por conducto de su Presidente, al Director de Asuntos Legislativos y Jurídicos, la representación legal de la Junta, exclusivamente para la atención de asuntos contenciosos en que se deba hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores externos de servicios profesionales que cuenten con título profesional de Licenciados en Derecho, pero en tal caso será necesario el acuerdo mayoritario de sus integrantes y la anuencia previa de la Mesa Directiva; y
+XII. Delegar, por conducto de su Presidente, al Director de Asuntos Legislativos y Jurídicos, la representación legal de la Junta, exclusivamente para la atención de asuntos contenciosos en que se deba hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores externos de servicios profesionales que cuenten con título profesional de Licenciados en Derecho, pero en tal caso será necesario el acuerdo mayoritario de sus integrantes y la anuencia previa de la Mesa Directiva;
 
-XIII. Ejercer las demás atribuciones que le confieran esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2015)</small>
+
+XIII. Proponer a la Mesa Directiva, en caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, a quienes de manera interina deban llevar a cabo las funciones de éstos; y
+
+XIV. Ejercer las demás atribuciones que le confieran esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 140.
 
@@ -1642,6 +1652,10 @@ VI. La Coordinación de Comunicación Social.
 (Designación de titulares) Dentro de las cuatro primeras sesiones del Pleno que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designará o ratificará a los titulares de las dependencias, con el voto de la mayoría de sus integrantes, mediante propuesta que realice la Junta de Concertación Política o, en su caso, por parte de cualquier diputado y sólo podrán ser removidos por causa grave justificada, en los términos de la legislación laboral aplicable.
 
 Los titulares en funciones continuarán desarrollando sus actividades de acuerdo a las facultades que les otorga la ley, hasta en tanto el Pleno de la Legislatura los ratifique o designe a otra persona.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2015)</small>
+
+En caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, la Mesa Directiva, a propuesta de la Junta de Concertación Política, designará a quienes de manera interina y hasta por un plazo de noventa días naturales, deban llevar a cabo las funciones de los titulares; plazo que podrá prorrogarse hasta en dos ocasiones, por periodos iguales, para el buen funcionamiento de la Legislatura.
 
 ###### Artículo 164.
 
@@ -2204,3 +2218,11 @@ LEY QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 143 DE LA LEY ORGÁNICA DEL PO
 Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 17 DE ABRIL DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
