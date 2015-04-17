@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-servicios-de-salud-de-veracruz-64510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-06"
-last_updated: "2014-09-04"
+last_updated: "2015-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE SERVICIOS DE SALUD DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE ABRIL DE 2015.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 6 de noviembre de 2008.
 
@@ -621,47 +621,81 @@ XXXIII. Coadyuvar con la Comisión Constructora de Salud en la aplicación de la
 
 XXXIV. La Dirección de Planeación y Desarrollo estará a cargo de un Director, quien se auxiliará, para el debido cumplimiento de sus atribuciones, por la Coordinación de Calidad, los Subdirectores de Planeación Estratégica, Programación de Infraestructura, y de Innovación e Información en Salud, así como por los jefes de los demás departamentos, de oficinas y el personal estrictamente necesario para el cumplimiento de sus funciones.
 
-> <small>(ADICIONADO, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE ABRIL DE 2015)</small>
 
 ###### Artículo 17 Bis.
 
-Corresponde al Director de Infraestructura, lo siguiente:
+Corresponde a la Dirección de Infraestructura, lo siguiente:
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 I. Previo acuerdo con el Director General de Servicios de Salud coadyuvar con la Dirección Administrativa en la contratación de obra ante terceros los estudios y proyectos para la construcción, diseño y rehabilitación de inmuebles de salud;
 
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+
 II. Revisar, dictaminar y validar los estudios y proyectos de construcción, diseño y rehabilitación de inmuebles de salud;
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 III. Proponer al Director General de Servicios de Salud las políticas y criterios que considere convenientes para racionalizar y optimizar el desarrollo de los programas en materia de obra pública;
 
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+
 IV. Aplicar las políticas acerca de las normas, bases y especificaciones vigentes sobre la construcción, diseño y rehabilitación de inmuebles de salud;
 
-V. Previo acuerdo del Director General de Servicios de Salud, elaborar el presupuesto para la licitación y contratación correspondiente para el mantenimiento y servicios generales hospitalarios, de conformidad con los recursos autorizados por la Dirección Administrativa de Servicios de Salud;
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2015)</small>
+
+V. Elaborar el presupuesto para la licitación y contratación correspondiente para el mantenimiento y servicios generales hospitalarios, de conformidad con los recursos autorizados por la Dirección Administrativa de Servicios de Salud;
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 VI. Revisar que los ajustes en los costos de construcción de las obras, se apeguen a lo establecido en la normatividad correspondiente;
 
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+
 VII. Verificar que las obras reportadas como concluidas, cumplan las condiciones establecidas en el contrato, a fin de proceder a su finiquito y a su correspondiente entrega-recepción a los entes operadores;
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 VIII. Rubricar todos los documentos en materia de obra que sean entregados al Director General de Servicios de Salud para su trámite, aprobación y firma;
 
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+
 IX. Elaborar y presentar para su aprobación y ejecutar los programas de actividades de la Dirección a su cargo;
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 X. Formular los dictámenes, opiniones e informes de las actividades realizadas por la Dirección a su cargo que le sean solicitadas por el Director General de Servicios de Salud;
 
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+
 XI. Proponer y orientar las acciones para el logro de los objetivos y metas de la Dirección a su cargo;
 
-XII. Participar en el Subcomité de Obra Pública y el Subcomité de Adquisiciones, Arrendamientos y Administración de los Bienes Muebles de Servicios de Salud;
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2015)</small>
+
+XII. Por Acuerdo del Director General, Presidir y conducir las actividades del Comité de Obras de Servicios de Salud de Veracruz; y participar en el Subcomité de Adquisiciones, Arrendamientos y Administración de los Bienes Muebles de Servicio de Salud;
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 XIII. Coordinar la formulación y vigilar el cumplimiento de los programas de conservación, mantenimiento, reparación, rehabilitación y reubicación de los equipos, aparatos e instrumental médico;
 
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+
 XIV. Expedir y certificar las copias de los documentos o constancias que existen en los archivos a su cargo, cuando legalmente proceda;
 
-XV. Rendir trimestralmente ante el Director General de Servicios de Salud un informe sobre el cumplimiento de los avances y metas de programas y obras, quien lo analizará y en su caso lo aprobará;
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2015)</small>
 
-XVI. Elaborar los manuales de organización, procedimientos e instructivos necesarios para el eficiente desempeño de sus funciones;
+XV. Rendir trimestralmente ante el Director General de Servicios de Salud un informe de actividades;
+
+XVI. (DEROGADA, G.O. 17 DE ABRIL DE 2015)
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 XVII. Proporcionar la información necesaria relativa a las labores desarrolladas por la Dirección a su cargo, al Director General de Servicios de Salud para la formulación de los Informes del Gobierno del Estado;
 
-XVIII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de sus funciones (sic) este Reglamento Interior; y
+XVIII. (DEROGADA, G.O. 17 DE ABRIL DE 2015)
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
 XIX. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores;
 
@@ -1356,3 +1390,9 @@ P.O. 25 DE ENERO DE 2010.
 G.O. 4 DE SEPTIEMBRE DE 2014.
 
 Único. El presente Acuerdo entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
+
+G.O. 17 DE ABRIL DE 2015.
+
+Primero. Publíquese en la Gaceta Oficial, órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación
