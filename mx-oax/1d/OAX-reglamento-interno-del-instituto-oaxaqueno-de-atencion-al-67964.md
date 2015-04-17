@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-instituto-oaxaqueno-de-atencion-al-67964
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-28"
-last_updated: "2009-03-28"
+last_updated: "2015-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO DE ATENCION AL MIGRANTE
 
-REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO DE ATENCION AL MIGRANTE
+REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE, PUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -83,7 +85,7 @@ TRANSITORIOS 10
 
 LA JUNTA DIRECTIVA DEL INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE DE CONFORMIDAD CON LO DISPUESTO EN LA FRACCIÓN I DEL ARTICULO 12 DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE, ARTICULO 56 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, Y.
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 En razón a lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -514,3 +516,13 @@ DIRECTORA GENERAL DEL SISTEMA DIF Y VOCAL
 L.A.E. BERNARDO BARRAGAN SALAZAR
 
 SECRETARIO DE LA CONTRALORÍA Y COMISARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ABRIL DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas y administrativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interno del Instituto Oaxaqueño de Atención al Migrante publicado en el Periódico Oficial de fecha 28 de marzo de 2009.
