@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-y-deberes-de-las-ninas-los-ninos-y-los-4003
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-19"
-last_updated: "2013-10-12"
+last_updated: "2015-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, LOS NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 18 DE ABRIL DE 2015, ORDENAMIENTO QUE ENTRARÁ EN VIGOR 60 DÍAS NATURALES, CONTADOS A PARTIR DEL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -1137,7 +1139,7 @@ IV.- Intervenir por la vía conciliatoria en la solución de las controversias q
 
 V.- Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito cometidos contra niñas, niños o adolescentes y, actuar en la salvaguarda de sus derechos cuando éstos tengan el carácter de sujetos activos de delito, coadyuvando en todo momento con la investigación del delito;
 
-VI.- Ordenar se practiquen las investigaciones y estudios de trabajo social y carácter psicológico necesarios, para fortalecer las acciones en favor de la atención, defensa y protección de los derechos de las niñas, los niños y los adolescentes y, (sic)
+VI.- Ordenar se practiquen las investigaciones y estudios de trabajo social y carácter psicológico necesarios, para fortalecer las acciones en favor de la atención, defensa y protección de los derechos de las niñas, los niños y los adolescentes y,
 
 VII.- Vigilar en todo procedimiento que se siga ante la instancia encargada de impartir justicia para menores la fiel observancia del mismo, y solicitar en su caso, la reconsideración de las resoluciones del Consejo;
 
@@ -1286,3 +1288,21 @@ P.O. 12 DE MAYO DE 2012.
 P.O. 12 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE ABRIL DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor 60 días naturales, contados a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley de los Derechos y Deberes de las Niñas, los Niños y los Adolescentes del Estado de Colima, publicada en el Periódico Oficial “El Estado de Colima” el sábado 19 de junio del 2004, así como las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Sistema Estatal de Protección Integral y los Sistemas Municipales de Protección Integral, deberán integrarse a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema y la estructura orgánica de ésta, la cual se ajustará a las necesidades y disponibilidad presupuestal.
+
+El Presidente del Sistema Estatal de Protección Integral realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá elaborarse y aprobarse dentro de los noventa días naturales siguientes a la entrada en vigor del Programa Nacional.
+
+CUARTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación para realizar las adecuaciones conducentes en términos de lo previsto por la presente Ley.
+
+SEXTO. A partir del siguiente ejercicio fiscal, se deberán destinar partidas presupuestales para el fortalecimiento de las instancias en las que incide la presente Ley; asimismo, el Ejecutivo del Estado gestionará ante la Cámara de Diputados y la Secretaría de Hacienda y Crédito Público la asignación de partidas presupuestales para el Estado de Colima para el fortalecimiento de las entidades encargadas de la aplicación y observancia de esta Ley.
