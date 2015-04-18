@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2014-10-07"
+last_updated: "2015-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -61,9 +61,9 @@ III. Promover la creación de los Consejos de Desarrollo Social Municipal como l
 
 Para efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
 
-l. Fondos Estatales: Fondo Estatal para la Educación Básica y Normal; Fondo Estatal para los Servicios de Salud; Fondo Estatal de Aportaciones Múltiples; Fondo Estatal para la Educación Tecnológica y de Adultos; Fondo Estatal para Seguridad Pública; Fondo Estatal para la Infraestructura Social; y Fondo para el Fortalecimiento del Estado;
+l. Fondos Estatales: Fondo Estatal para la Educación Básica y Normal; Fondo Estatal para los Servicios de Salud; Fondo Estatal de Aportaciones Múltiples; Fondo Estatal para la Educación Tecnológica y de Adultos; Fondo Estatal para Seguridad Pública; Fondo Estatal para la Infraestructura Social del Estado; y Fondo para el Fortalecimiento del Estado;
 
 II. Fondos Municipales: Fondo para la Infraestructura Social Municipal, y Fondo para el Fortalecimiento de los Municipios;
 
@@ -107,7 +107,9 @@ IV. Fondo Estatal para la Educación Tecnológica y de Adultos;
 
 V. Fondo Estatal para la Seguridad Pública;
 
-VI. Fondo Estatal para la Infraestructura Social;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
+
+VI. Fondo para la Infraestructura Social del Estado;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -129,9 +131,9 @@ En el caso de los municipios, los ayuntamientos, en sus respectivas Leyes de Ing
 
 Los Fondos Estatales para la Educación Básica y Normal, y para la Educación Tecnológica y de Adultos, serán administrados por la Secretaría de Educación de Gobierno del Estado; el Fondo Estatal para los Servicios de Salud será administrado por los Servicios de Salud en el Estado; el Fondo Estatal de Aportaciones Múltiples será administrado por el Sistema Estatal para el Desarrollo Integral de la Familia y por la Secretaría de Educación de Gobierno del Estado en coordinación con el Instituto Estatal de Infraestructura Física Educativa, de conformidad con el recurso que señale cada año el Presupuesto de Egresos del Estado; el Fondo Estatal para la Seguridad Pública será administrado por la Secretaría de Seguridad Pública; y el Fondo para el Fortalecimiento del Estado será administrado por la Secretaría de Finanzas de Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
-El Fondo Estatal para la Infraestructura Social será administrado por el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, y ejercido por las entidades ejecutoras, atendiendo fundamentalmente a obras y acciones de alcance o ámbito de beneficio regional o intermunicipal; y se integrará en la cuenta pública correspondiente.
+El Fondo para la Infraestructura Social del Estado será administrado por el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, y ejercido por las entidades ejecutoras.
 
 El Fondo para la Infraestructura Social Municipal y el Fondo para el Fortalecimiento de los Municipios serán operados y administrados directamente por los ayuntamientos, debiéndolos incorporar a la cuenta pública municipal.
 
@@ -157,21 +159,11 @@ Los recursos de estos Fondos podrán ser depositados en cuentas productivas. Los
 
 Los proyectos financiados con los Fondos que establece el artículo 6o. de esta Ley, podrán complementarse para la ejecución de obras y/o acciones con recursos provenientes de otras fuentes financieras.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 10.
 
-En el ejercicio de los recursos de los Fondos Estatales y Municipales, el Estado y los ayuntamientos podrán acordar el porcentaje de gastos indirectos, en los términos de la Ley de Coordinación Fiscal Federal, respecto del techo financiero de cada fondo.
-
-Los gastos indirectos se destinarán a acciones de:
-
-I. Planeación y programación;
-
-II. Elaboración de proyectos;
-
-III. Supervisión y control de las obras y acciones, y
-
-IV. Gastos administrativos relacionados con la ejecución de las obras financiadas con estos Fondos.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+En el ejercicio de los recursos de los Fondos Estatales y Municipales, el Estado y los ayuntamientos podrán destinar hasta el tres por ciento de los recursos que les correspondan de cada fondo, para ser aplicados como gastos indirectos para la verificación y seguimiento de las obras y acciones que se realicen, así como para la realización de estudios y la evaluación de proyectos que cumplan con los fines específicos determinados para cada Fondo.
 
 ###### ARTICULO 11.
 
@@ -327,17 +319,15 @@ El Ejecutivo del Estado, a través de la Secretaría de Seguridad Pública, prog
 
 El Ejecutivo del Estado por conducto de la Secretaría de Seguridad Pública, proporcionará al Ejecutivo Federal, a través de la Secretaría de Gobernación, la información financiera, operativa y estadística que le sea requerida relativa a la administración del Fondo Estatal para la Seguridad Pública.
 
-### CAPITULO VII. Del Fondo Estatal para la Infraestructura Social del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+### CAPITULO VII. Del Fondo para la Infraestructura Social del Estado
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 35.
 
-Los recursos del Fondo Estatal para la Infraestructura Social se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas, y a inversiones que tengan un alcance regional o intermunicipal, y beneficien directamente a sectores de la población del Estado que se encuentren en condiciones de rezago social y de pobreza extrema.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-Las comunidades inscritas en el Padrón de Comunidades Indígenas en el Estado de San Luis Potosí, conforme al reconocimiento que se hace de ellos como sujetos de derecho público en la Constitución Política del Estado, podrán presentar directamente a la Secretaría de Desarrollo Social y Regional, proyectos de infraestructura social regional o intermunicipal, en beneficio de su población.
+Los recursos del Fondo para la Infraestructura Social del Estado, se deberán orientar preferentemente a obras y acciones que beneficien a la población de los municipios y localidades que presenten mayores niveles de rezago social y pobreza extrema en la Entidad, conforme al catálogo de acciones y los criterios establecidos en los Lineamientos generales de operación del FAIS vigentes, y al Informe anual de la situación de pobreza y rezago social de las entidades y municipios que emita la Secretaría de Desarrollo Social.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -345,25 +335,25 @@ Las comunidades inscritas en el Padrón de Comunidades Indígenas en el Estado d
 
 El Programa de Inversiones será elaborado por el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, a más tardar el treinta de abril, incorporando dicha información al Sistema de Información del Desarrollo Social y Regional. El Programa de Inversiones será autorizado por la Secretaría de Finanzas de Gobierno del Estado, de acuerdo a los lineamientos que ésta determine.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 37.
 
-Los recursos del Fondo Estatal para la Infraestructura Social serán ministrados por la Secretaría de Finanzas de Gobierno del Estado, de conformidad a la autorización que para este efecto emita, y al calendario de enteros que la Federación haga en favor del Estado.
+Los recursos del Fondo para la Infraestructura Social del Estado serán ministrados por la Secretaría de Finanzas, de conformidad a la autorización que para este efecto emita, y al calendario de enteros que la Federación haga en favor del Estado.
 
 De conformidad con el Programa de Inversiones, se podrán afectar en fideicomiso recursos de este Fondo, observando lo dispuesto en el artículo 35 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 38.
 
-En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, estos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
+En caso de que el Fondo para la Infraestructura Social del Estado recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, éstos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 39.
 
-La Secretaría de Desarrollo Social y Regional celebrará convenios con las dependencias federales, estatales y los ayuntamientos, para la ejecución de las obras o acciones a realizar con los recursos del Fondo Estatal para la Infraestructura Social. Estas obras se podrán realizar bajo el esquema de empleo temporal.
+La Secretaría de Desarrollo Social y Regional celebrará convenios con las dependencias federales, estatales y los ayuntamientos, para la ejecución de las obras o acciones a realizar con los recursos del Fondo para la Infraestructura Social del Estado. Estas obras se podrán realizar bajo el esquema de empleo temporal.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -377,13 +367,15 @@ La entidad ejecutora de las obras o acciones aprobadas, deberá reintegrar a la 
 
 Es responsabilidad de la entidad ejecutora desde el momento en que recibe los recursos, la correcta aplicación de los mismos, de conformidad con la presente Ley y demás ordenamientos que sean aplicables.
 
-En el ejercicio y comprobación de los recursos del Fondo Estatal para la Infraestructura Social, se observará lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+En el ejercicio y comprobación de los recursos del Fondo para la Infraestructura Social del Estado, se observará lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 41.
 
-Las entidades ejecutoras de los recursos del Fondo Estatal para la Infraestructura Social, tendrán bajo su responsabilidad, la integración y resguardo de la documentación comprobatoria, y deberán presentarla a la Contraloría General del Estado cuando ésta lo requiera.
+Las entidades ejecutoras de los recursos del Fondo para la Infraestructura Social del Estado, tendrán bajo su responsabilidad, la integración y resguardo de la documentación comprobatoria, y deberán presentarla a la Contraloría General del Estado cuando ésta lo requiera.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -391,67 +383,43 @@ Asimismo, deberán informar mensualmente a la Secretaría de Desarrollo Social y
 
 Cuando la ejecución de las obras esté a cargo de los ayuntamientos, éstos serán responsables de su terminación y operación. En caso de que el ejecutor sea una dependencia estatal, el responsable será el titular de la misma.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 42.
 
-Los rendimientos financieros derivados de la inversión de los recursos que manejen las entidades ejecutaras, del Fondo Estatal para la Infraestructura Social, serán devueltos a la Secretaría de Desarrollo Social y Regional, bajo los procedimientos y tiempos que la misma determine, para que por su conducto se reintegren a la Secretaría de Finanzas de Gobierno del Estado.
+Los rendimientos financieros derivados de la inversión de los recursos que manejen las entidades ejecutoras del Fondo para la Infraestructura Social del Estado, serán devueltos a la Secretaría de Desarrollo Social y Regional, bajo los procedimientos y tiempos que la misma determine, para que por su conducto se reintegren a la Secretaría de Finanzas.
 
-Asimismo, los rendimientos financieros que genere el Fondo Estatal para la Infraestructura Social, que administra la Secretaría de Desarrollo Social y Regional, serán reintegrados a la Secretaría de Finanzas de Gobierno del Estado.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+
+Asimismo, los rendimientos financieros que genere el Fondo para la Infraestructura Social del Estado, que administra la Secretaría de Desarrollo Social y Regional, serán reintegrados a la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 En ambos casos, una vez efectuada la reintegración de los rendimientos financieros a la Secretaría de Finanzas de Gobierno del Estado, ésta procederá a adicionarlos al presupuesto asignado a la Secretaría de Desarrollo Social y Regional, para que ésta a su vez pueda destinarlos en proyectos prioritarios definidos con el Ejecutivo del Estado, de conformidad con el artículo 35 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
-
 ###### ARTICULO 43.
 
-Para efectos de refrendo, la entidad ejecutara notificará a la Secretaría de Desarrollo Social y Regional, a más tardar el quince de noviembre de cada año, las obras o acciones cuyos recursos aprobados se estime que no serán ejercidos en el mismo año, debiendo adecuar los expedientes técnicos y actualizarlos por los conceptos a realizar dentro del periodo de refrendo.
+(DEROGADO, P.O. 18 DE ABRIL DE 2015)
 
-La Secretaría de Desarrollo Social y Regional informará a la Secretaría de Finanzas de Gobierno del Estado, a más tardar el quince de noviembre de cada año, las obras o acciones refrendadas, notificando el monto aprobado, el ejercido y el que utilizará como refrendo para el próximo ejercicio.
-
-Las obras o asociaciones de los recursos refrendados deberán quedar concluidas a más tardar el último día del mes de marzo del año siguiente. En esta misma fecha, las entidades ejecutoras deberán presentar a la Secretaría de Desarrollo Social y Regional, la comprobación del gasto de los refrendos.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 44.
 
-El cierre de ejercicio correspondiente al Fondo Estatal para la Infraestructura Social, deberá presentarse por la entidad ejecutora ante la Secretaría de Desarrollo Social y Regional, a más tardar el último día hábil del mes de enero del siguiente ejercicio fiscal, para efectos de su integración a la cuenta pública que presentará el Ejecutivo del Estado ante el Congreso del Estado.
+El cierre de ejercicio correspondiente al Fondo para la Infraestructura Social del Estado, deberá presentarse por la entidad ejecutora ante la Secretaría de Desarrollo Social y Regional, a más tardar el último día hábil del mes de enero del siguiente ejercicio fiscal, a efecto de su integración a la cuenta pública que presentará el Ejecutivo del Estado ante el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 Para la entrega-recepción de las obras, sea a las dependencias u organismos que las operen o administren, o bien, a los propios beneficiarios, la entidad ejecutora levantará el acta correspondiente, con la participación que a la Contraloría General del Estado le corresponda.
 
 ### CAPITULO VIII. Del Fondo para la Infraestructura Social Municipal
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 45.
 
-Con cargo al Fondo para la Infraestructura Social Municipal, corresponde a los ayuntamientos financiar obras y realizar acciones sociales básicas e inversiones que beneficien directamente a la población que se encuentre en condiciones de rezago social y de pobreza extrema. Para ello los recursos de este Fondo se destinarán exclusivamente al financiamiento en los siguientes rubros:
+Con cargo al Fondo para la Infraestructura Social Municipal, corresponde a los ayuntamientos financiar obras, acciones sociales básicas e inversiones que beneficien directamente a la población en pobreza extrema, y a localidades con alto o muy alto nivel de rezago social, conforme al Informe anual de la situación de pobreza y rezago social de las entidades, municipios, y a los Lineamientos Generales para la operación del FAIS vigentes y que emita la Secretaría de Desarrollo Social.
 
-I. Agua potable;
-
-II. Alcantarillado;
-
-III. Drenaje y letrinas;
-
-IV. Urbanización municipal;
-
-V. Electrificación rural y de colonias marginadas;
-
-VI. Infraestructura básica de salud;
-
-VII. Infraestructura básica educativa;
-
-VIII. Mejoramiento de vivienda;
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
-
-IX. Caminos rurales;
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
-
-X. Infraestructura productiva rural, y
-
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
-
-XI. Tratamiento y disposición de sus aguas residuales.
+Los recursos de este Fondo se destinarán exclusivamente al financiamiento en los siguientes rubros: agua potable, alcantarillado, drenaje y letrinas, urbanización, electrificación rural y de colonias pobres, infraestructura básica del sector salud y educativo, mejoramiento de vivienda, así como mantenimiento de infraestructura, conforme al catálogo de acciones establecido en los Lineamientos del Fondo vigentes, que emita la Secretaría de Desarrollo Social.
 
 ###### ARTICULO 46.
 
@@ -461,15 +429,39 @@ Para determinar la distribución del Fondo para la Infraestructura Social Munici
 
 En el ejercicio de los recursos del Fondo para la Infraestructura Social Municipal, el Ayuntamiento deberá:
 
-I. Hacer del conocimiento de sus habitantes los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios. Esta información deberá publicarse en los estrados y lugares públicos de la Presidencia Municipal y de las principales comunidades de los municipios. De igual forma y por los mismos medios deberá informar a sus habitantes, a más tardar el treinta de enero del ejercicio fiscal siguiente, sobre los resultados alcanzados;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
 
-II. Promover la participación de las comunidades beneficiarias en el destino, aplicación y vigilancia de los recursos de este Fondo, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
+I. Hacer del conocimiento de sus habitantes, al menos, a través de la página oficial de internet de Gobierno del Estado, conforme a los lineamientos de información pública financiera en línea del Consejo de Armonización Contable, los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios;
 
-III. Coadyuvar en el desarrollo de programas y acciones relativas a las regiones identificadas en los programas regionales y especiales que se establezcan en el Estado, y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
 
-IV. Proporcionar a la Secretaría de Desarrollo Social y Regional y a la Secretaría de Desarrollo Social, a través del Sistema de Información del Desarrollo Social y Regional, la información que sobre la utilización del Fondo para la Infraestructura Social Municipal le sea requerida, para brindar a la opinión pública información clara respecto al gasto social.
+II. Promover la participación de las comunidades beneficiarias en su destino, aplicación y vigilancia, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
 
-Asimismo, deberá proporcionar a la Contraloría General del Estado o al Organo de Control y Supervisión Interno del Gobierno Municipal en donde esté constituido, toda la información y documentación que le requiera.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
+
+III. Informar a sus habitantes los avances del ejercicio de los recursos, trimestralmente y al término de cada ejercicio, sobre los resultados alcanzados, al menos a través de la página oficial de internet de Gobierno del Estado, conforme a los lineamientos de información pública del Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
+
+IV. Proporcionar a la Secretaría de Desarrollo Social y Regional, y a la Secretaría de Desarrollo Social, a través del Sistema de Información del Desarrollo Social y Regional (SIDESORE), la información que sobre la utilización del Fondo para la Infraestructura Social Municipal le sea requerida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2015)</small>
+
+V. Reportar trimestralmente a la Secretaría de Desarrollo Social, a través de la Delegación Estatal, el seguimiento sobre el uso de los recursos del Fondo, con base en los Lineamientos Generales de Operación del FAIS vigentes, y el Informe anual sobre la situación de pobreza y rezago social del Estado y sus respectivos municipios, así como la información adicional que le sea requerida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2015)</small>
+
+VI. Reportar trimestralmente a la Secretaría de Hacienda y Crédito Público, en el Sistema de Formato Único, el avance físico y financiero de las obras y acciones ejecutadas con recursos del Fondo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2015)</small>
+
+VII. Publicar en su página oficial de internet las obras financiadas con los recursos de este Fondo. Dichas publicaciones deberán contener, entre otros datos, la información del contrato bajo el cual se celebra, informes trimestrales de los avances y, en su caso, evidencias de conclusión.
+
+Los municipios que no cuenten con página oficial de internet, convendrán con el Gobierno del Estado, para que éste publique la información correspondiente al municipio, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2015)</small>
+
+VIII. Proporcionar a la Contraloría General del Estado, o al órgano de control y supervisión interna del gobierno municipal en donde esté constituido, toda la información y documentación que le requiera.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -477,13 +469,25 @@ Asimismo, deberá proporcionar a la Contraloría General del Estado o al Organo 
 
 Los ayuntamientos elaborarán un programa de obras y acciones para cada ejercicio fiscal, de acuerdo con las propuestas planteadas por las comunidades al Consejo, el cual será la base de priorización del ejercicio de los recursos de este Fondo. Este programa deberá ser validado por el Consejo y entregado a la Secretaría de Desarrollo Social y Regional, incorporándose al Sistema de Información del Desarrollo Social y Regional, a más tardar el treinta de marzo.
 
-El Ayuntamiento podrá considerar en su presupuesto, recursos para un programa de operación y conservación de la infraestructura social básica existente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
 
-Asimismo, el Ayuntamiento destinará el dos porciento (sic) de su techo financiero del Fondo para la Infraestructura Social Municipal, al Programa de Desarrollo Institucional Municipal a que se refiere el Título Tercero, Capítulo IV de esta Ley.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+
+Los municipios podrán disponer de hasta un dos por ciento del total de recursos del Fondo para la Infraestructura Social Municipal que les corresponda, para la realización de un Programa de Desarrollo Institucional Municipal. Este programa será convenido entre la Secretaría de Desarrollo Social, la Secretaría de Desarrollo Social y Regional, y el municipio de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2015)</small>
+
+Los recursos de este Programa de Desarrollo Institucional Municipal, podrán utilizarse para la elaboración de proyectos con la finalidad de fortalecer las capacidades de gestión del municipio, de acuerdo con lo señalado en el catálogo de acciones establecido en los Lineamientos Generales de Operación del FAIS vigentes que emita la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2015)</small>
+
+Adicionalmente los municipios podrán destinar hasta el tres por ciento de los recursos que les correspondan de este Fondo, para ser aplicados como gastos indirectos para la verificación y seguimiento de las obras y acciones que se realicen, así como para la realización de estudios y la evaluación de proyectos que cumplan con los fines específicos del Fondo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 49.
 
-El Ayuntamiento deberá validar con la dependencia normativa correspondiente, los expedientes técnicos en los siguientes rubros:
+El ayuntamiento deberá validar con la dependencia normativa correspondiente, los expedientes técnicos, en los siguientes rubros:
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -499,39 +503,27 @@ La validación de los expedientes técnicos a que se hace referencia en el prese
 
 ### CAPITULO IX. Del Fondo para el Fortalecimiento de los Municipios
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 50.
 
-Las aportaciones que con cargo al Fondo para el Fortalecimiento de los Municipios reciban los municipios, a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras; al pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales; y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
-
-La Comisión Nacional del Agua sólo podrá solicitar al Gobierno del Estado la retención y el pago a que se hace referencia en el párrafo anterior, en aquellos casos en que los adeudos generados por el incumplimiento tengan una antigüedad mayor a noventa días naturales.
-
-Para acreditar el incumplimiento, la Comisión Nacional del Agua informará al municipio dentro del plazo citado en el párrafo anterior, que no se ha cubierto la totalidad del pago del trimestre o periodo de que se trate, que corresponda al municipio y, en su caso, a su organismo operador de agua, a efecto de que un plazo máximo de diez días hábiles, presente los comprobantes de pago o las aclaraciones a que haya lugar. En caso de que no se acredite el pago total, la Comisión Nacional del Agua deberá informar al municipio que procederá en términos del artículo 51 de la Ley de Coordinación Fiscal Federal.
-
-Vencido el plazo a que se refiere el párrafo anterior, la Comisión Nacional del Agua solicitará por escrito al Gobierno del Estado, por conducto de la Secretaría, la retención correspondiente. Para tales efectos enviará la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de las obligaciones incumplidas.
-
-El Gobierno del Estado en su carácter de retenedor, en un término de tres días hábiles contados a partir de la fecha de recepción del escrito de solicitud de la Comisión Nacional del Agua, por conducto de la Secretaría, realizará la retención correspondiente y efectuará el pago a dicha Comisión
-
-En caso de que los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, no sean suficientes para cubrir la (sic) obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la Comisión Nacional del Agua solicitará al Gobierno del Estado que, a través de la Secretaría, efectúe la retención y pago hasta donde alcancen los recursos de dicho Fondo. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras en dicho fondo.
-
-Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal Federal, se entenderá por obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales: las generadas por los adeudos que los municipios, incluyendo sus organismos operadores de agua, tengan con la Comisión Nacional del Agua por el derecho por uso, aprovechamiento o explotación de aguas nacionales, por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, de conformidad con la Ley Federal de Derechos, y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación, y por incumplimiento; la falta de pago total o parcial de las obligaciones a que se refiere la fracción anterior, que deban realizar los municipios, incluyendo sus organismos operadores de agua.
-
-Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, por adeudos que correspondan al municipio, demarcación territorial, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, sólo podrán solicitarse en el caso de incumplimiento de los pagos correspondientes generados a partir del uno de enero de 2014, en el entendido de que podrán efectuarse de manera gradual, considerando el cien por ciento de la facturación o causación de los conceptos citados, con base en, al menos, los porcentajes establecidos en el séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal, y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el día 9 de diciembre de 2013.
+Las aportaciones federales que con cargo al Fondo para el Fortalecimiento de los Municipios reciban los municipios, a través del Estado, se destinarán a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, a la modernización de los sistemas de recaudación locales, mantenimiento de infraestructura, y a la atención de las necesidades directamente vinculadas con la seguridad pública de sus habitantes.
 
 ###### ARTICULO 51.
 
 La distribución del Fondo para el Fortalecimiento de los Municipios, se hará de conformidad a lo establecido en la Ley de Coordinación Fiscal Federal.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 52.
 
-Los ayuntamientos deberán observar los lineamientos del artículo 47 de esta Ley, respecto de las aportaciones que reciban con cargo al Fondo para el Fortalecimiento de los Municipios.
+Los ayuntamientos deberán observar los lineamientos del artículo 47 fracciones, I, II, y III, de esta Ley, respecto de las aportaciones que reciban con cargo al Fondo para el Fortalecimiento de los Municipios.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 53.
 
-Los ayuntamientos elaborarán un programa de obras y acciones de este Fondo, de acuerdo con las propuestas planteadas por las comunidades al Consejo, mismo que estará sujeto a los mecanismos de priorización, validación, entrega e incorporación, previstos en el artículo 48 de esta Ley.
+Los ayuntamientos elaborarán un programa de obras y acciones de este Fondo, de acuerdo con las propuestas planteadas por las comunidades al Consejo, mismo que estará sujeto a los mecanismos de priorización, validación, entrega e incorporación, previstos en los párrafos, primero, y quinto, del artículo 48 de esta Ley.
 
 ###### ARTICULO 54.
 
@@ -605,13 +597,11 @@ Los ayuntamientos deberán tener bajo su responsabilidad la integración y resgu
 
 Asimismo, a efecto de ampliar la cobertura de vigilancia y control de los recursos, los ayuntamientos entregarán a la Contraloría General del Estado o al Organo de Control y Supervisión Interno del Gobierno Municipal donde esté constituido, el dos al millar del monto total de cada Fondo, conforme las ministraciones que reciban de acuerdo al artículo 57 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 60.
 
-Para el Programa de Obras y Acciones, los ayuntamientos y los consejos podrán contemplar en el presupuesto hasta un treinta por ciento, y no menos del diez por ciento, de los recursos para programas emergentes y contingencias, llevando a cabo la reprogramación de este rubro a más tardar el treinta de septiembre del ejercicio fiscal de que se trate; dicha reprogramación deberá ser consensada entre el Presidente Municipal, el Cabildo y el Consejo de Desarrollo Social Municipal, sobre el destino y uso de recurso.
-
-En el supuesto de que el recurso sea reprogramado, éste deberá ser invertido preferentemente en acciones o programas de alto impacto socioeconómico para el municipio.
+Para el programa de obras y acciones los ayuntamientos y los consejos podrán contemplar en el presupuesto, un porcentaje de los recursos para programas emergentes y contingencias; este porcentaje deberá ser acorde con lo que establezcan los Lineamientos Generales de Operación del FAIS vigentes.
 
 ###### ARTICULO 61.
 
@@ -627,13 +617,7 @@ Con el fin de fomentar el empleo y de generar ingresos a la población, los ayun
 
 ###### ARTICULO 63.
 
-Para efectos de refrendo de recursos de estos Fondos, previo conocimiento y validación del Consejo, los ayuntamientos identificarán las obras y acciones cuyo presupuesto asignado se estime que no será posible ejercerlo en el ejercicio fiscal de que se trate. Dicha estimación deberá informarse a la Secretaría de Desarrollo Social y Regional y a la Contraloría General del Estado o al Organo de Control y Supervisión Interno del Gobierno Municipal donde esté constituido, a más tardar el treinta de noviembre.
-
-Los ayuntamientos notificarán a la Secretaría de Desarrollo Social y Regional y a la Contraloría General del Estado o al Organo de Control y Supervisión Interno del Gobierno Municipal donde esté constituido, a más tardar el treinta de noviembre, el monto que tenía presupuestado, el cancelado y el que utilizará como refrendo para el próximo ejercicio.
-
-Los recursos no ejercidos de las obras o acciones refrendadas deberán permanecer en la Tesorería Municipal, mismos que se ejercerán en el siguiente año, debiendo los ayuntamientos adecuar los expedientes técnicos del gasto de la obra y/o acción, y actualizar el mismo por los conceptos a realizar.
-
-Las obras y/o acciones de los recursos que se refrenden deberán quedar concluidas a más tardar el último día del mes de marzo del año siguiente, en esta misma fecha deberá tenerse a disposición de la Contraloría General del Estado o del Organo de Supervisión y Control Interno del Gobierno Municipal donde esté constituido, la comprobación del gasto de los refrendos.
+(DEROGADO, P.O. 18 DE ABRIL DE 2015)
 
 ###### ARTICULO 64.
 
@@ -735,33 +719,21 @@ XI. Promover la elaboración de diagnósticos comunitarios que permitan identifi
 
 XII. Impulsar la corresponsabilidad y participación directa de las comunidades, mediante la aportación de mano de obra, recursos o materiales de la región.
 
-### CAPITULO IV. Del Programa de Desarrollo Institucional Municipal
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2015)</small>
+
+### CAPITULO IV
 
 ###### ARTICULO 73.
 
-Los ayuntamientos formularán y realizarán un Programa Anual de Desarrollo Institucional, que tendrá por objeto fortalecer sus capacidades técnicas y administrativas para la operación de los Fondos para la Infraestructura Social Municipal y para el Fortalecimiento de los Municipios.
-
-Para este Programa se utilizarán los recursos a que se refiere el último párrafo del artículo 48 de esta Ley.
+(DEROGADO, P.O. 18 DE ABRIL DE 2015)
 
 ###### ARTICULO 74.
 
-Los ayuntamientos administrarán directamente su Programa de Desarrollo Institucional, que deberá contemplar los siguientes rubros para el cumplimiento de sus objetivos:
-
-I. Capacitación: Dirigida a autoridades y servidores públicos municipales, personal del Programa de Desarrollo Institucional, integrantes de los Consejos de Desarrollo Social Municipal y Comités Comunitarios, en aspectos técnicos, operativos y de gestión del proceso de ejercicio de los Fondos administrados por los ayuntamientos;
-
-II. Asistencia técnica: Cada Ayuntamiento deberá contar dentro de este Programa, adscrito al área responsable de la operación del Fondo para la Infraestructura Social Municipal, con personal calificado para formular, ejecutar y evaluar proyectos de inversión, obras y acciones de beneficio social; contabilizar y administrar los recursos; así como operar y desarrollar sistemas para el procesamiento de la información derivada de la gestión de los Fondos mencionados en la fracción anterior;
-
-III. Equipamiento: Los ayuntamientos podrán dotar de mobiliario, equipo de cómputo y oficina a las áreas responsables de la operación de los Fondos Administrados por los mismos;
-
-IV. Actualización y difusión del marco jurídico municipal: Los ayuntamientos promoverán la actualización y difusión de la reglamentación municipal, a fin de que éstos cuenten con la base normativa suficiente para asumir sus responsabilidades, hacer cumplir sus disposiciones y consolidar la participación social en el desarrollo de sus políticas y programas públicos, y
-
-V. Profesionalización de los recursos humanos.
-
-Para efectos de lo señalado en la Ley de Coordinación Fiscal Federal respecto del Programa de Desarrollo Institucional Municipal, los ayuntamientos presentarán sus programas a la Secretaría de Desarrollo Social y Regional y por conducto de ésta, a la Secretaría de Desarrollo Social, a más tardar el último día de febrero del año a que corresponda su ejercicio, señalando las acciones a realizar en cada uno de los rubros descritos en las fracciones del presente artículo.
+(DEROGADO, P.O. 18 DE ABRIL DE 2015)
 
 ###### ARTICULO 75.
 
-Cada Ayuntamiento podrá convenir recursos del Programa Anual de Desarrollo Institucional, con la Secretaría de Desarrollo Social y Regional del Gobierno del Estado y la Secretaría de Desarrollo Social del Gobierno Federal, y en su caso con los ayuntamientos de municipios vecinos, a fin de llevar a cabo acciones de fortalecimiento del mismo y optimizar sus recursos.
+(DEROGADO, P.O. 18 DE ABRIL DE 2015)
 
 ### CAPITULO V. Del Intercambio de Información
 
@@ -771,13 +743,17 @@ Cada Ayuntamiento podrá convenir recursos del Programa Anual de Desarrollo Inst
 
 La Secretaría de Desarrollo Social y Regional, a través del Sistema de Información del Desarrollo Social y Regional, establecerá un mecanismo de comunicación con los ayuntamientos, las dependencias federales y estatales, el Congreso del Estado, la Auditoría Superior del Estado, y la sociedad, permitiendo:
 
-I. Conocer el ejercicio de los recursos del Fondo para la Infraestructura Social Municipal, del Fondo Estatal para la Infraestructura Social del Estado y del Fondo para el Fortalecimiento de los Municipios, su orientación, ubicación, beneficiarios, alcances e impactos, y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
+
+I. Conocer el ejercicio de los recursos del Fondo para la Infraestructura Social Municipal, del Fondo para la Infraestructura Social del Estado, y del Fondo para el Fortalecimiento de los Municipios, su orientación, ubicación, beneficiarios, alcances e impactos, y
 
 II. Reunir información sobre los diversos programas que las dependencias federales y estatales realizan en la Entidad, en sus municipios y en sus localidades, y llevar seguimiento de su cobertura de atención para evitar duplicidades en el gasto; ordenar y organizar mejor sus acciones para conducir sus impactos, complementarlos, integrarlos con la acción de otras instancias y orientar el desarrollo comunitario de un Municipio, de una microregión y del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 77.
 
-Los ayuntamientos deberán proveer a la Secretaría de Desarrollo Social y Regional, a través del Sistema de Información del Desarrollo Social y Regional, la información conforme se señala en los artículos 47 fracción IV, 48, 52, y 53 de esta Ley.
+Los ayuntamientos deberán proveer a la Secretaría de Desarrollo Social y Regional, a través del Sistema de Información del Desarrollo Social y Regional, la información conforme se señala en los artículos, 47 fracciones, I, III, IV y VI, 48, 52, y 53, de esta Ley.
 
 ### CAPITULO VI. De la Evaluación
 
@@ -845,15 +821,23 @@ Las autoridades estatales y municipales que incurran en responsabilidades admini
 
 Los recursos y sus accesorios que reciban el Estado y/o municipio, provenientes de recursos normados por esta Ley, no serán embargables, no podrán bajo ninguna circunstancia gravarse, ser afectados en garantía o destinarse a mecanismos de fuentes de pago, salvo lo dispuesto en el artículo 87 BIS de esta Ley; y en ningún caso, podrán destinarse a fines distintos a los que expresamente están determinados conforme a esta Ley.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
 
-ARTICULO 87 BIS. Los recursos y sus accesorios que reciban el Estado y/o municipio, provenientes del Fondo Estatal para la Infraestructura Social, del Fondo para la Infraestructura Social Municipal, y del Fondo para el Fortalecimiento del Estado, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional, o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso del Estado, y se inscribirán a petición del Estado o los municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, así como en la Secretaría de Finanzas del Gobierno del Estado, en la Dirección de Financiamiento, Deuda y Crédito Público.
+ARTICULO 87 BIS. Los recursos y sus accesorios que reciban el Estado y/o municipios, provenientes del Fondo para la Infraestructura Social del Estado; del Fondo para la Infraestructura Social Municipal; y del Fondo para el Fortalecimiento del Estado, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional, o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso del Estado; y se inscribirán a petición del Estado o los municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios; así como en la Secretaría de Finanzas, en la Dirección de Financiamiento, Deuda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 Para que los municipios inscriban sus obligaciones en la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, deberán contar con la garantía del Gobierno del Estado, salvo que a juicio de la Secretaría de Hacienda y Crédito Público, tengan suficientes aportaciones para responder a sus compromisos con cargo al Fondo para la Infraestructura Social Municipal.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
 El financiamiento que le dé origen a las obligaciones señaladas en el párrafo anterior, únicamente podrán destinarse a los fines establecidos en los artí culos (sic) 35, 45 y 55 TER de esta Ley.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
 Para atender las obligaciones que el Estado o los municipios contraigan al amparo de este artículo, no podrán destinar más del veinticinco por ciento de los recursos que anualmente les corresponden, por concepto de los fondos que reciben.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 El Estado y los municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les corresponden de los Fondos a que el mismo se refiere, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos, en su caso, en la Ley de Deuda Pública del Estado de San Luis Potosí, y en la Ley de Deuda Pública Municipal del Estado de San Luis Potosí.
 
@@ -978,3 +962,9 @@ P.O. 7 DE OCTUBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2015.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
