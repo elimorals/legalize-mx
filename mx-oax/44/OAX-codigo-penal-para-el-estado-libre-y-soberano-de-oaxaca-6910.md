@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2013-12-20"
+last_updated: "2015-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
 
@@ -1543,23 +1543,31 @@ I.- Al que intencionalmente propague cualquiera otra enfermedad sean cuales fuer
 
 II.- Al que intencionalmente propague una epizootia o una plaga o parásitos o gérmenes nocivos a los cultivos agrícolas o forestales.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2015)</small>
+
+### CAPITULO III.
+
+Venta de bebidas alcohólicas a menores de edad.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2015)</small>
+
+193 Bis.- Se aplicará prisión de seis meses a siete años y multa de quinientos a diez mil pesos a quien venda bebidas alcohólicas a menores de edad, de igual forma al titular del permiso o licencia.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2015)</small>
+
+193 Ter.- Además de las penas establecidas en el artículo anterior, en caso de reincidencia, se procederá a la cancelación del permiso o licencia.
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 725, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2008, SE DEROGAN LOS CAPÍTULOS I AL IV DEL PRESENTE TÍTULO, MODIFICANDO SU ESTRUCTURA, CONFORMÁNDOSE EN UN CAPÍTULO ÚNICO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2008)</small>
-
-### CAPITULO I.
-
-Ultrajes a la moral pública o a las buenas costumbres o incitación a la prostitución.
-
-> <small>(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 ## TITULO SEPTIMO.
 
 Revelación de secretos.
 
-### CAPITULO II.
+### CAPITULO I.
 
-Corrupción de menores, de incapaces y pornografía infantil.
+Ultrajes a la moral pública o a las buenas costumbres o incitación a la prostitución.
 
 > <small>(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -1568,6 +1576,12 @@ Corrupción de menores, de incapaces y pornografía infantil.
 Delitos cometidos por servidores públicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+
+### CAPITULO II.
+
+Corrupción de menores, de incapaces y pornografía infantil.
+
+> <small>(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO III.
 
@@ -1911,6 +1925,10 @@ Peculado y concusión.
 
 (REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO V BIS.
 
 Enriquecimiento Ilícito.
@@ -1940,10 +1958,6 @@ Si el monto a que ascienda el enriquecimiento ilícito excede del equivalente de
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 217 Bis E.- Los delitos previstos en este Título y de los cuales se desprenda un quebranto a la hacienda pública del Estado o municipios, se perseguirán de oficio.
-
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
 
 ### CAPITULO I.
 
@@ -1975,6 +1989,10 @@ II.- Por abandonar la defensa de un cliente o negocio, sin motivo justificado y 
 
 III.- Al defensor de un inculpado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover más pruebas ni dirigirlo en su defensa.
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO I.
 
 Falsificación de sellos, llaves, cuños, troqueles y marcas.
@@ -1994,10 +2012,6 @@ II.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 III.- Al que procurándose los verdaderos sellos, punsones (sic) y marcas, haga uso indebido de ellos;
 
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO II.
 
@@ -2957,6 +2971,12 @@ TITULO DECIMONOVENO.
 
 Delitos en contra de las personas en su patrimonio.
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO I.
 
 Robo.
@@ -3130,12 +3150,6 @@ IX.- Cuando se cometa estando la víctima en un vehículo particular o de transp
 X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO II.
 
@@ -3960,3 +3974,7 @@ P.O. 20 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 18 DE ABRIL DE 2015.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
