@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-11-15"
+last_updated: "2015-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -4375,9 +4375,11 @@ ART. 543.- Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyan el patrimonio de familia desde su inscripción en el Registro Público de la Propiedad, en los términos establecidos por el Código Civil;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
 
-II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos no siendo de lujo, a juicio del Juez;
+II.- El menaje de casa constituido por los utensilios de cocina, el lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos que vivan con él y a sus expensas, incluyendo la estufa, refrigerador, radio receptor, la mesa de uso diario y sus sillas, las camas y los colchones, los ventiladores y los bienes y aparatos similares a los antes mencionados, siempre que no sean de lujo a juicio del juez, a menos que el crédito provenga del precio del respectivo bien.
+
+Cuando el deudor posea dos o más bienes de cada uno de los antes mencionados el embargo procederá sobre los que se consideren adicionales o en exceso.
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -6864,3 +6866,7 @@ DECRETO NO. 407, POR EL QUE SE APRUEBA REFORMAR EL SEGUNDO PÁRRAFO DEL ARTÍCUL
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- El Poder Judicial del Estado contará con 180 días para realizar las acciones necesarias que puedan permitir la publicación de edictos digitales, mientras tanto se continuarán haciendo a través de los periódicos de mayor circulación en la Entidad, o como así lo señale cada caso en específico.
+
+P.O. 18 DE ABRIL DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
