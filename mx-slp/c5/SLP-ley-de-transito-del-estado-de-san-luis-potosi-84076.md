@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2014-12-04"
+last_updated: "2015-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1013,7 +1013,13 @@ I. Multa, y
 
 II. Suspensión temporal o cancelación de los derechos derivados de licencias o permisos especiales para conducir vehículos de motor.
 
-Si el infractor fuere jornalero, obrero o trabajador, sólo podrá ser sancionado con una multa que no exceda del importe de un salario diario vigente en la Entidad; en el caso de los trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+
+Si el infractor fuere jornalero, obrero o trabajador, sólo podrá ser sancionado con una multa que no exceda del importe de un salario mínimo diario vigente en la Entidad; en el caso de los trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2015)</small>
+
+La calidad de jornalero, obrero, o trabajador no asalariado, podrá demostrarse con cualquier documento que compruebe el tipo de actividad que realiza de manera preponderante. Los infractores a que se hace referencia, podrán demostrar su calidad de jornalero, obrero o trabajador, ante el titular de la Tesorería Municipal, o la persona que éste designe.
 
 ###### ARTICULO 85.
 
@@ -1089,7 +1095,9 @@ I. Nombre y cargo de quien levanta la boleta;
 
 II. La circunstanciación de los datos de la credencial a que se refiere el artículo 34 de la Ley del Sistema de Seguridad Pública del Estado, con que se identifica, relativas a nombre, cargo y vigencia de la credencial. Adicionalmente, se anotará el número de credencial y la autoridad que la expidió, conforme a las disposiciones que resulten aplicables;
 
-III. Nombre y, en su caso, domicilio del infractor;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
+
+III. Nombre y, en su caso, domicilio del infractor. Si el presunto infractor se identificara como, jornalero, obrero, o trabajador no asalariado, su actividad económica deberá asentarse para la aplicación de los montos dispuestos en el artículo 84 de esta Ley;
 
 IV. Datos de identificación del vehículo;
 
@@ -1414,6 +1422,14 @@ SEGUNDO. Los cincuenta y ocho ayuntamientos de la Entidad, tendrán seis meses a
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 4 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 980.- REFORMAS Y ADICIONES DE Y A LA LEY DE TRÁNSITO DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
