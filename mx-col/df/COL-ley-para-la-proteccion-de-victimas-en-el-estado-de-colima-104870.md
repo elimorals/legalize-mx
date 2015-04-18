@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-victimas-en-el-estado-de-colima-10487
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-13"
-last_updated: "2014-12-13"
+last_updated: "2015-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento No. 4 al Periódico Oficial del Estado de Colima, el sábado 13 de diciembre del 2014.
 
@@ -1151,7 +1151,9 @@ II. No haber sido condenado por la comisión de un delito doloso o inhabilitado 
 
 III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley; y
 
-IV. No haber ocupado cargo público ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
+
+IV. No haber ocupado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
 
 En la elección de los comisionados, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
 
@@ -2156,3 +2158,9 @@ A t e n t a m e n t e
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ.-Rúbrica.- SECRETARIO DE SEGURIDAD PÚBLICA, GRAL. DE DIV. D.E.M. RET. RAÚL PINEDO DÁVILA.- Rúbrica.- SECRETARIO DE EDUCACIÓN, MTRO. JOSÉ GUILLERMO RANGEL LOZANO.- Rúbrica.- PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES.- Rúbrica.- SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA.- Rúbrica.- SECRETARIO DE DESARROLLO SOCIAL, LIC. RIGOBERTO SALAZAR VELASCO.- Rúbrica.- SECRETARIA DE FINANZAS Y ADMINISTRACIÓN, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE ABRIL DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
