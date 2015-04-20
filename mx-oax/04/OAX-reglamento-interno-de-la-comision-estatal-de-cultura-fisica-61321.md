@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-estatal-de-cultura-fisica-613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2010-05-08"
+last_updated: "2015-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE CULTURA FISICA Y DEPORTE
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE CULTURA FISICA Y DEPORTE
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE, PUBLICADO EN EL P.O. DE 20 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -99,7 +101,7 @@ I. Dirección General
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
 
-A) Departemento Jurídico
+A) Departamento Jurídico
 
 II. Subdirección General
 
@@ -435,10 +437,18 @@ JANETH LAGUNAS CALVO
 
 DELEGADA CONTRALOR EN LA COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE Y SUPLENTE DEL COMISARIO DE LA JUNTA DIRECTIVA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 8 DE MAYO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interno de la Comisión Estatal de Cultura Física y Deporte, publicado en el Periódico Oficial del Gobierno del Estado, número 15 de fecha abril 12 del año 2008.
