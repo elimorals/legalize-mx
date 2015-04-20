@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-aduanera-3292"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-06-06"
-last_updated: "2003-10-28"
+last_updated: "2015-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-06-03"
 
 REGLAMENTO DE LA LEY ADUANERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE OCTUBRE DE 2003.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ADUANERA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 20 DE ABRIL DE 2015; ORDENAMIENTO QUE ENTRA EN VIGOR A LOS DOS MESES SIGUIENTES DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 6 de junio de 1996.
 
@@ -1741,7 +1743,7 @@ Cuarto. La actualización de las cantidades a que se refiere el artículo 2o. de
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Agricultura, Ganadería y Desarrollo Rural, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- La Secretaria de Turismo, Silvia Hernández Enríquez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 18 DE OCTUBRE DE 1999.
 
@@ -1752,3 +1754,17 @@ Segundo. Los activos que a la fecha de entrada en vigor del presente Decreto, se
 D.O.F. 28 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE ABRIL DE 2015.
+
+Primero. El presente Reglamento entrará en vigor a los dos meses siguientes a su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento de la Ley Aduanera publicado en el Diario Oficial de la Federación el día 6 de junio de 1996.
+
+Tercero. A partir de la entrada en vigor de este Reglamento, queda sin efectos el “Acuerdo que regula al Consejo Asesor del Servicio de Administración Tributaria para la determinación del destino de las Mercancías de comercio exterior no transferibles”, publicado en el Diario Oficial de la Federación el 21 de septiembre de 2012.
+
+Cuarto. El Consejo Asesor del Servicio de Administración Tributaria contará con un plazo de ciento ochenta días hábiles para realizar su primera sesión ordinaria, en la que deberá aprobar el Manual para la Operación y Funcionamiento del Consejo Asesor del Servicio de Administración Tributaria.
+
+Quinto. Las referencias que señalan los artículos 127, fracción II, inciso e) y 131, fracción III de la Ley Aduanera al artículo 170 del Reglamento de la Ley Aduanera que se abroga, se entenderán realizadas al artículo 189 de este Reglamento.
+
+Sexto. Las solicitudes presentadas por los contribuyentes ante las Autoridades Aduaneras que se encuentren en trámite en términos del Reglamento de la Ley Aduanera que se abroga, deberán resolverse conforme a las disposiciones vigentes a la fecha de su presentación.
