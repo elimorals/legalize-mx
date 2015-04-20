@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-instituto-estatal-de-ecologia-de-77529"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-13"
-last_updated: "2010-11-13"
+last_updated: "2015-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA
 
-REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA
+REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE ECOLOGÍA DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE, PUBLICADO EN EL P.O. DE 20 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de noviembre de 2010.
 
@@ -502,3 +504,13 @@ SECRETARIO TÉCNICO
 JOSÉ LUIS BUSTAMANTE DEL VALLE
 
 DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE ECOLOGÍA OAXACA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Instituto Estatal de Ecología de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado en fecha 13 de noviembre de 2010.
+
+TERCERO.- Las disposiciones contenidas en el presente Reglamento prevalecerán sobre aquellas de igual o de menor rango que se le opongan, aún cuando no estén expresamente derogadas.
