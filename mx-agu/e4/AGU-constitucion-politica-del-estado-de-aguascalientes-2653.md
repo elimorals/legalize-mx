@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2014-11-10"
+last_updated: "2015-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -973,9 +973,11 @@ II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre l
 
 III.- Solicitar al Congreso la autorización para realizar los Proyectos de Prestación de Servicios, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 de septiembre al 15 de octubre, sobre el estado general que guarde la administración pública estatal.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 y el 30 de septiembre, sobre el estado general que guarde la administración pública estatal.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia.
 
@@ -1395,17 +1397,25 @@ Para ser electo como titular de la Comisión Estatal de Derechos Humanos se debe
 
 El titular de la Comisión Estatal de Derechos Humanos durará un período de cuatro años y podrá ser reelecto por una sola vez.
 
-La Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas con carácter honorífico. Los consejeros para ser electos deberán demostrar conocimiento en diversas materias técnicas, científicas y humanistas, para la resolución de casos en que requieran de su pericia. Los consejeros ocuparan el cargo por cuatro años sin posibilidad de reelección en el período inmediato.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2015)</small>
+
+La Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas con carácter honorífico. Los consejeros para ser electos, además de los requisitos que establezca la Ley, deberán demostrar conocimiento en diversas materias técnicas, científicas y humanistas, para la resolución de casos en que requieran su pericia. Los consejeros ocuparán el cargo por cuatro años sin posibilidad de reelección en el período inmediato.
 
 La elección del titular de la Comisión Estatal de Derechos Humanos, así como de los integrantes del Consejo Consultivo, se sujetará a un procedimiento de consulta pública transparente en los siguientes términos:
 
-l. El Congreso del Estado recibirá las propuestas de aspirantes que formulen asociaciones civiles que estén legalmente constituidas y cuyo objeto este Vinculado con la difusión y protección de los derechos humanos, así como agrupaciones de profesionistas e instituciones de educación superior en el Estado, en la forma y términos que señale la ley;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
 
-II. El Congreso del Estado verificará qué aspirantes cumplen con los requisitos constitucionales y legales y formulará una lista de candidatos para ocupar la presidencia y otra de candidatos para integrar el Consejo Consultivo. Si el titular del organismo tiene y hace valer su expectativa de derecho a ser reelecto, formará parte de la lista correspondiente;
+I. El Congreso del Estado expedirá la convocatoria respectiva y recibirá las propuestas de aspirantes que formulen asociaciones civiles que estén legalmente constituidas y cuyo objeto esté vinculado con la difusión y protección de los derechos humanos, así como colegios de profesionistas e instituciones de educación superior en el Estado, en la forma y términos que señale la ley;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+II. El Congreso del Estado verificará cuáles aspirantes cumplen con los requisitos constitucionales y legales y formulará una lista de candidatos para ocupar la presidencia y otra de candidatos para integrar el Consejo Consultivo. Si el titular del organismo al concluir su primer periodo hace valer su expectativa de derecho a ser reelecto, formará parte de la lista correspondiente;
 
 III. El Congreso del Estado someterá las listas formuladas a una consulta pública, en la forma y términos que determine la ley;
 
-IV. El Pleno del Congreso del Estado elegirá al titular de este organismo con el voto de las dos terceras partes de los Diputados presentes; y a los miembros del Consejo Consultivo por medio de insaculación;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+IV. El Pleno del Congreso del Estado elegirá al titular de este organismo con el voto de las dos terceras partes de los Diputados presentes; y a los miembros del Consejo Consultivo con el voto de la mayoría de los Diputados que integran el Congreso del Estado;
 
 V. El Congreso del Estado llamará a los electos para que rindan la protesta de ley.
 
@@ -2854,3 +2864,23 @@ P.O. 10 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 154, POR EL QUE SE REFORMAN LOS PÁRRAFOS SÉPTIMO Y OCTAVO EN SUS FRACCIONES I, II Y IV DEL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 155, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día 1° de enero de 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+En los años 2015 y 2016, el informe referido en el Artículo 46 Fracción IV, será entregado al Congreso del Estado dentro del período comprendido entre el 15 y el 30 de noviembre, posteriormente se entregará dentro del periodo comprendido entre el 15 y el 30 de septiembre.
