@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2014-12-19"
+last_updated: "2015-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -1256,9 +1256,15 @@ j) Promoverá actividades de orientación, capacitación y difusión dirigidas a
 
 k) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
 
-l) Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y,
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-m) En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+l) Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública,
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+m) Proponer acciones que propicien el conocimiento de las actividades económicas locales preponderantes e impulsen el desarrollo integral de las comunidades, y
+
+n) En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
 
 > <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
@@ -1669,3 +1675,7 @@ D.O.F. 19 DE DICIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la autoridad educativa federal emitirá los lineamientos a que se hace referencia en la fracción V Ter del artículo 12 del presente Decreto.
+
+D.O.F. 20 DE ABRIL DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
