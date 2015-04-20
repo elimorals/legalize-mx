@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2015-02-16"
+last_updated: "2015-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -1163,7 +1163,7 @@ Una vez designada la Directiva de la Diputación Permanente, el día de la Apert
 
 ###### ARTÍCULO 123.
 
-Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la... (número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
+Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
 
 ### CAPÍTULO IV. DE LOS ACUERDOS ECONÓMICOS
 
@@ -1193,7 +1193,9 @@ Todas las Iniciativas de Leyes y Decretos, deberán presentarse al Presidente de
 
 I.- Formularse por escrito, firmadas por el o los autores;
 
-II.- Deberán contener exposición de motivos, en la que se expresará el objeto, utilidad y los elementos en que se fundamenten y sustenten; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+II.- Deberán contener exposición de motivos; en la que se expresará el objeto, utilidad y los elementos en que se fundamenten y sustenten además de un análisis sobre los principios constitucionales en que se apoye; y
 
 III.- Contener Proyecto del articulado.
 
@@ -1323,7 +1325,9 @@ I.- El nombre de la Comisión o Comisiones Legislativas que lo suscriban y el as
 
 II.- Antecedentes;
 
-III.- Considerandos que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa o asunto;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+III.- Considerandos sobre los principios constitucionales en que se apoye la iniciativa o asunto, así como aquellos que sustenten el apoyo, modificación o rechazo de su contenido;
 
 IV.- Puntos resolutivos;
 
@@ -1607,15 +1611,15 @@ V.- Instituto de Estudios Legislativos;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VI.- Instituto para el Desarrollo y Fortalecimiento Municipal;
+VI.-Instituto para el Desarrollo y Fortalecimiento Municipal;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VII.- Dirección de Comunicación Social; y
+VII.-Dirección de Comunicación Social; y
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VIII.- Unidad Institucional de Género.
+VIII.-Unidad Institucional de Género.
 
 Los Órganos Técnicos y Administrativos del Congreso del Estado, tendrán las atribuciones que les señalen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento, el propio que rija sus actividades y demás ordenamientos legales.
 
@@ -2158,3 +2162,7 @@ P.O. 24 DE NOVIEMBRE DE 2014.
 P.O. 16 DE FEBRERO DE 2015.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE ABRIL DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
