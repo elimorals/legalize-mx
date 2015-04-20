@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2014-03-24"
+last_updated: "2015-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -58,9 +58,11 @@ La vivienda es un área prioritaria para el desarrollo nacional. El Estado impul
 
 La política nacional y los programas, así como el conjunto de instrumentos y apoyos que señala este ordenamiento, conducirán el desarrollo y promoción de las actividades de las dependencias y entidades de la Administración Pública Federal en materia de vivienda, su coordinación con los gobiernos de las entidades federativas y municipios, y la concertación con los sectores social y privado, a fin de sentar las bases para aspirar a un desarrollo nacional más equitativo, que integre entre sí a los centros de población más desarrollados con los centros de desarrollo productivo, considerando también a los de menor desarrollo, para corregir las disparidades regionales y las inequidades sociales derivadas de un desordenado crecimiento de las zonas urbanas.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 2.
 
-Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2011)</small>
 
@@ -86,23 +88,31 @@ II. Autoconstrucción de vivienda: el proceso de construcción o edificación de
 
 III. Estímulos: las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas habitacionales;
 
-IV. Comisión: la Comisión Nacional de Vivienda;
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-V. Comisión Intersecretarial: la Comisión Intersecretarial de Vivienda;
+IV. Espacios Habitables: el lugar de la vivienda donde se desarrollan actividades de reunión o descanso, que cuenten con las dimensiones mínimas de superficie, altura, ventilación e iluminación natural, además de contar como mínimo con un baño, cocina, estancia-comedor y dos recamaras, de conformidad con las características y condiciones mínimas necesarias que establezcan las leyes y las normas oficiales mexicanas;
 
-VI. Consejo: el Consejo Nacional de Vivienda;
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-VII. Mejoramiento de vivienda: la acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
+V. Espacios Auxiliares: el lugar de la vivienda donde se desarrollan actividades de trabajo, higiene y circulación;
 
-VIII. Producción social de vivienda: aquella que se realiza bajo el control de autoproductores y autoconstructores que operan sin fines de lucro y que se orienta prioritariamente a atender las necesidades habitacionales de la población de bajos ingresos, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;
+VI. Comisión: la Comisión Nacional de Vivienda;
 
-IX. Productor social de vivienda: la persona física o moral que en forma individual o colectiva produce vivienda sin fines de lucro;
+VII. Comisión Intersecretarial: la Comisión Intersecretarial de Vivienda;
 
-X. Política Nacional de Vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen las autoridades federales, de las entidades federativas y municipales, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
+VIII. Consejo: el Consejo Nacional de Vivienda;
 
-XI. Sistema de Información: el Sistema Nacional de Información e Indicadores de Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia, y
+IX. Mejoramiento de vivienda: la acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
 
-XII. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables.
+X. Producción social de vivienda: aquella que se realiza bajo el control de autoproductores y autoconstructores que operan sin fines de lucro y que se orienta prioritariamente a atender las necesidades habitacionales de la población de bajos ingresos, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;
+
+XI. Productor social de vivienda: la persona física o moral que en forma individual o colectiva produce vivienda sin fines de lucro;
+
+XII. Política Nacional de Vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen las autoridades federales, de las entidades federativas y municipales, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
+
+XIII. Sistema de Información: el Sistema Nacional de Información e Indicadores de Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia, y
+
+XIV. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -122,7 +132,9 @@ II. Incorporar estrategias que fomenten la concurrencia de los sectores público
 
 III. Promover medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda;
 
-IV. Fomentar la calidad de la vivienda;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+IV. Fomentar la calidad de la vivienda y fijar los criterios mínimos de los espacios habitables y auxiliares;
 
 V. Establecer los mecanismos para que la construcción de vivienda respete el entorno ecológico, y la preservación y el uso eficiente de los recursos naturales;
 
@@ -370,7 +382,9 @@ XV. Promover, en coordinación con las demás autoridades competentes, que la vi
 
 XVI. Coordinar la operación y funcionamiento del Sistema de Información;
 
-XVII. Participar en la definición de los lineamientos de información y estadística en materia de vivienda y suelo, con sujeción a la Ley de Información Estadística y Geográfica, así como integrar y administrar el Sistema de Información;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+XVII. Participar en la definición de los lineamientos de información y estadística en materia de vivienda y suelo, con sujeción a la Ley del Sistema Nacional de Información Estadística y Geográfica, así como integrar y administrar el Sistema de Información;
 
 XVIII. Otorgar asesoría a las autoridades de las entidades federativas y municipios que lo soliciten, en la elaboración, ejecución y evaluación de programas de vivienda, así como para la modernización del marco legal en materia de vivienda y suelo;
 
@@ -710,7 +724,9 @@ X. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
 Se crea el Sistema de Información, que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Nacional de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el país.
 
-La Comisión integrará y administrará el Sistema de Información, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley de Información Estadística y Geográfica y se conformará con la información que proporcionen las dependencias y entidades de la Administración Pública Federal en aspectos vinculados con la vivienda y el suelo, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+La Comisión integrará y administrará el Sistema de Información, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley del Sistema Nacional de Información Estadística y Geográfica y se conformará con la información que proporcionen las dependencias y entidades de la Administración Pública Federal en aspectos vinculados con la vivienda y el suelo, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 
 La Comisión propondrá al Instituto Nacional de Estadística, Geografía e Informática los indicadores que en materia de vivienda deberán considerarse en el levantamiento de censos nacionales, encuestas de vivienda, económicas y sociodemográficas, y otros conteos.
 
@@ -886,9 +902,11 @@ El Gobierno Federal promoverá e impulsará proyectos inmobiliarios en los que s
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 71.
 
-Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Comisión promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y de higiene suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
+Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Comisión promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y espacios auxiliares suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -934,7 +952,9 @@ Asimismo, promoverá que las tecnologías, sean acordes con los requerimientos s
 
 El modelo normativo, las normas mexicanas aplicables al diseño arquitectónico de la vivienda y los prototipos constructivos deberán considerar los espacios interiores y exteriores; la eficiencia de los sistemas funcionales, constructivos y de servicio; la tipificación y modulación de sus elementos y componentes, respetando las distintas zonas del país, los recursos naturales, el ahorro de energía y las modalidades habitacionales.
 
-En este tipo de normas se deberá considerar las condiciones y características de habitabilidad y seguridad para los diferentes tipos de vivienda y de sus etapas de construcción.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+En este tipo de normas se deberá considerar las condiciones y características de los espacios habitables y auxiliares y seguridad para los diferentes tipos de vivienda y de sus etapas de construcción.
 
 ###### ARTÍCULO 79.
 
@@ -1099,5 +1119,9 @@ D.O.F. 26 DE DICIEMBRE DE 2013.
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 24 DE MARZO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE ABRIL DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
