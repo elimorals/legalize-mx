@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2015-02-20"
+last_updated: "2015-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ENERO DE 2015.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 20 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1935,13 +1933,17 @@ b) Adquieran, oculten o comercialicen los bienes producto del robo a escuelas; o
 
 c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitidos por personas morales utilizados para canjear bienes y servicios.
 
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2015)</small>
+
 ###### Artículo 206.
 
-A quien, en el medio rural, robe algún instrumento o máquina de labranza, alambre utilizado para cercar, frutos cosechados o por cosechar, colmenas, abejas o sus productos se le sancionará de la manera siguiente:
+A quien con ánimo de dominio, lucro o uso, se apodere de algún instrumento o máquina de labranza, alambre utilizado para cercar, frutos cosechados o por cosechar, colmenas, abejas o sus productos, total o parcialmente ajenos, sin el consentimiento de quien legalmente pueda disponer de los mismos con arreglo a la ley, se le sancionará de la manera siguiente:
 
-I. Si el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de setenta y cinco días de salario; o
+I. Si el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de setenta y cinco días de salario;
 
-II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a doce años y multa hasta de seiscientos días de salario.
+II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a diez años y multa de hasta cuatrocientos días de salario; o
+
+III. Si el valor de lo robado excediere de doscientos días de salario y fuere cometido en el medio rural, con prisión de cuatro a doce años y multa de hasta seiscientos días de salario.
 
 > <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
@@ -4130,3 +4132,9 @@ G.O. 27 DE ENERO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE ABRIL DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
