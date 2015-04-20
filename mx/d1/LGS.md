@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2015-03-17"
+last_updated: "2015-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2015.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -168,9 +168,9 @@ XVII.- La prevención de la discapacidad y la rehabilitación de las personas co
 
 XVIII.- La asistencia social;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-XIX.- El programa contra el alcoholismo;
+XIX. El programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, así como la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol;
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -2346,9 +2346,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Prorporcionar (sic) a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2886,7 +2886,15 @@ Los servicios de salud que proporcionen las instituciones de seguridad social co
 
 ### CAPITULO I. Consejo Nacional Contra las Adicciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 184 BIS.- Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula la presente Ley, así como proponer y evaluar los programas a que se refieren los artículos 185 y 191 de esta Ley, así como el Programa contra el Tabaquismo previsto en la Ley General para Control del Tabaco. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
+
 > <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 166 Bis.
 
@@ -2936,9 +2944,11 @@ Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPÍTULO II
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+Programa para la Prevención, Reducción y Tratamiento del uso nocivo del Alcohol, la Atención del Alcoholismo y la Prevención de Enfermedades derivadas del mismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 166 Bis 3.
 
@@ -3028,9 +3038,35 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO III. Programa Contra el Tabaquismo
+### CAPÍTULO II BIS. Protección de la Salud de Terceros y de la Sociedad frente al Uso Nocivo del Alcohol
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 187 BIS. Son facultades de la Secretaría de Salud en el marco de la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol:
+
+I. Establecer los límites de alcohol en sangre y en aire expirado para conducir vehículos automotores, los cuales deberán ser tomados en cuenta por las autoridades federales y por las de las entidades federativas, en sus respectivos ámbitos de competencia. Tratándose de vehículos que presten un servicio público, personas que hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, así como los profesionales, técnicos y auxiliares de la salud que participen en la atención médico-quirúrgica de un usuario, los límites de alcohol en sangre y aire expirado serán cero;
+
+II. Promover la participación de la sociedad civil en la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, con base en las disposiciones que para tales efectos establezca la Secretaría de Salud;
+
+III. Proponer al Ejecutivo Federal las políticas públicas y fiscales para la prevención y disminución del uso nocivo del alcohol; y
+
+IV. Promover ante las autoridades competentes federales y de las entidades federativas, la implementación de medidas y acciones que favorezcan la disminución del uso nocivo del alcohol y de los efectos de éste en terceros, tales como:
+
+a) Limitar los horarios para consumo del alcohol, y
+
+b) Otras que sirvan o prevengan los fines a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 187 BIS 1.- Para el tratamiento de enfermedades derivadas del alcoholismo, las dependencias y entidades de la administración pública en materia de salubridad general, tanto federales como locales, fomentarán la creación de centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece alguna enfermedad derivada del alcoholismo.
+
+Los centros especializados en tratamiento, atención y rehabilitación deberán:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de alcoholismo, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen; y
+
+II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del país.
 
 ###### ARTICULO 166 Bis 13.
 
@@ -3050,9 +3086,9 @@ VI.- Garantizarán la capacitación y actualización permanente de los recursos 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO IV. Programa Contra la Farmacodependencia
+### CAPITULO III. Programa Contra el Tabaquismo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 166 Bis 14.
 
@@ -3130,9 +3166,9 @@ Queda prohibida, la práctica de la eutanasia, entendida como homicidio por pied
 
 ## TITULO NOVENO. Asistencia Social, Prevención de la Discapacidad y Rehabilitación de las Personas con Discapacidad
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Programa Contra la Farmacodependencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 167.
 
@@ -3260,7 +3296,9 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 ## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
-### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 181.
 
@@ -3298,9 +3336,7 @@ V.- Las demás que determine la propia Secretaría.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO III. Bebidas Alcohólicas
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO II. Alimentos y Bebidas no Alcohólicas
 
 ###### ARTICULO 184 Bis.
 
@@ -3308,21 +3344,85 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO IV. Medicamentos
+### CAPITULO III. Bebidas Alcohólicas
 
-###### ARTICULO 185.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-La Secretaría de Salud, los gobiernos de las entidades federativas y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+###### ARTÍCULO 185.
 
-I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+La Secretaría de Salud, los gobiernos de las entidades federativas y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo que comprenderá, entre otras, las siguientes acciones:
 
-II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
-III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-###### ARTICULO 186.
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a menores de edad y grupos vulnerables, a través de métodos individuales, sociales o de comunicación masiva;
 
-Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, se realizarán actividades de investigación en los siguientes aspectos:
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+IV. La promoción de los servicios de prevención, detección temprana, orientación, atención, derivación y tratamiento a personas y grupos con uso nocivo del alcohol; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+V. El fomento de la protección de la salud considerando la educación, promoción de actitudes, factores de protección, habilidades y conductas que favorezcan estilos de vida activa y saludable en los individuos, la familia, la escuela, el trabajo y la comunidad.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 185 BIS.- Para efectos de esta Ley, se entenderá por uso nocivo del alcohol:
+
+I. El consumo de bebidas alcohólicas en cualquier cantidad por menores de edad;
+
+II. El consumo en exceso de bebidas alcohólicas por mujeres embarazadas;
+
+III. El consumo en cualquier cantidad de alcohol en personas que van a manejar vehículos de transporte público de pasajeros, así como automotores, maquinaria o que se van a desempeñar en tareas que requieren habilidades y destrezas, especialmente las asociadas con el cuidado de la salud o la integridad de terceros;
+
+IV. El consumo de alcohol en exceso, definido por la Secretaría de Salud en el programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo;
+
+V. El consumo en personas con alguna enfermedad crónica como hipertensión, diabetes, enfermedades hepáticas, cáncer y otras, siempre y cuando haya sido indicado por prescripción médica, y
+
+VI. Aquel que sea determinado por la Secretaría de Salud.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 185 BIS 1.- Las acciones que se desarrollen en la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo tendrán las siguientes finalidades:
+
+I. Proteger la salud y el bienestar de la población frente al uso nocivo del alcohol y prevenir los riesgos a la salud que éste genera;
+
+II. Promover medidas para evitar el consumo de bebidas alcohólicas por menores de edad o por personas incapaces, en términos del Código Civil Federal;
+
+III. Promover la detección temprana, la atención oportuna y el tratamiento efectivo en los casos de uso nocivo del alcohol y de su dependencia;
+
+IV. Fomentar las acciones de promoción y de educación para conservar y proteger la salud, así como la difusión de la información sobre daños, riesgos y costos atribuibles al uso nocivo del alcohol, con base en evidencia científica;
+
+V. Fomentar el establecimiento de medidas para prevenir el uso nocivo del alcohol en grupos vulnerables; y
+
+VI. Establecer los lineamientos generales para el diseño y evaluación de programas y políticas públicas contra el uso nocivo del alcohol, basadas en evidencia y en experiencia aplicada.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 185 BIS 2.- Para la ejecución del Programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, la Secretaría de Salud promoverá que en los establecimientos públicos, privados y sociales del Sistema Nacional de Salud, en los que se presten servicios de prevención y atención contra el uso nocivo del alcohol, se realicen las siguientes acciones:
+
+I. La promoción de la salud y de estilos de vida activa y saludable, para prevenir y combatir el uso nocivo del alcohol;
+
+II. La prevención, detección temprana, diagnóstico oportuno, derivación, tratamiento efectivo y rehabilitación del individuo, a causa del uso nocivo del alcohol y de los padecimientos originados por él, evitando toda forma de estigmatización y discriminación;
+
+III. El fomento de la creación de redes de apoyo de la sociedad civil, para miembros de la familia y otros miembros de la comunidad que pudieran resultar afectados directa o indirectamente por dicho uso nocivo;
+
+IV. La educación que promueva el conocimiento sobre los efectos del uso nocivo del alcohol en la salud y en las relaciones sociales, dirigida a la población en general, especialmente a la familia, niñas, niños, adolescentes, jóvenes, mujeres embarazadas, comunidades indígenas y otros grupos vulnerables;
+
+V. El establecimiento de un sistema de monitoreo interno y un programa de seguimiento y evaluación de metas y logros internos del Programa para la prevención y reducción del uso nocivo del alcohol que incluya al menos el uso nocivo del alcohol, las conductas relacionadas al uso nocivo del alcohol y su impacto en la salud; y
+
+VI. El fomento a la aplicación de intervenciones breves; de servicios de cesación y otras opciones terapéuticas que ayuden a dejar de beber alcohol en forma nociva, combinadas con consejería, grupos de ayuda mutua y apoyo terapéutico a familiares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+###### ARTÍCULO 186.
+
+La Secretaría de Salud fomentará las actividades de investigación que permitan obtener la información que oriente las acciones contra el alcoholismo y el uso nocivo del alcohol, en los siguientes aspectos:
 
 I.- Causas del alcoholismo y acciones para controlarlas;
 
@@ -3332,17 +3432,27 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 186 BIS.- Para poner en práctica las acciones del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, se tendrán en cuenta los siguientes aspectos:
+
+I. El uso de la evidencia científica acumulada a nivel internacional y nacional y la generación del conocimiento sobre las causas y las consecuencias del uso nocivo del alcohol, intervenciones efectivas y evaluación de programas o estrategias;
+
+II. La vulnerabilidad de los diferentes grupos de población, por género, edad y etnicidad; y
+
+III. La vigilancia e intercambio de información y cumplimiento de normas y acuerdos entre los sectores y niveles de gobierno involucrados.
+
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 187.
 
 En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+### CAPITULO IV. Medicamentos
+
 ### CAPITULO V. Estupefacientes
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
-
-### CAPITULO VI. Substancias psicotrópicas
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -3362,9 +3472,9 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+### CAPITULO VI. Substancias psicotrópicas
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 191.
 
@@ -3492,9 +3602,9 @@ Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente 
 
 ## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO VIII
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 194.
 
@@ -3748,9 +3858,9 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO IX. Productos cosméticos
+### CAPITULO VIII
 
-> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
 
 ###### ARTICULO 215.
 
@@ -3782,9 +3892,9 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+### CAPITULO IX. Productos cosméticos
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 217.
 
@@ -3812,7 +3922,9 @@ En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alc
 
 La violación a esta disposición será equiparable con el delito de Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 221.
 
@@ -4006,9 +4118,7 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO XI. Tabaco
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO X. Productos de Aseo
 
 ###### ARTICULO 234.
 
@@ -4120,9 +4230,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
+### CAPITULO XI. Tabaco
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 244.
 
@@ -4612,9 +4722,9 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO XII BIS. Productos biotecnológicos
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 257.
 
@@ -4688,9 +4798,9 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO XIII. Importación y exportación
+### CAPITULO XII BIS. Productos biotecnológicos
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 262.
 
@@ -4774,9 +4884,9 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-### CAPITULO UNICO
+### CAPITULO XIII. Importación y exportación
 
-> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 269.
 
@@ -4816,9 +4926,9 @@ Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 272 Bis.
 
@@ -4850,9 +4960,9 @@ La oferta de los servicios que se haga a través de medios informativos, ya sean
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
 
-### CAPITULO II. Donación
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 273.
 
@@ -4884,7 +4994,7 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO III. Trasplantes
+### CAPITULO II. Donación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4912,9 +5022,9 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO IV. Pérdida de la vida
+### CAPITULO III. Trasplantes
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 278.
 
@@ -4974,9 +5084,11 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO V. Cadáveres
+### CAPITULO III BIS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+Disposición de sangre, componentes sanguíneos, hemoderivados y células troncales de seres humanos.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 282 Bis.
 
@@ -4994,11 +5106,13 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO V. Cadáveres
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 283.
 
@@ -5134,7 +5248,9 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 300.
 
@@ -5318,17 +5434,15 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
-### CAPITULO I. Autorizaciones
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 313.
 
 Compete a la Secretaría de Salud:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-I. El control y la vigilancia sanitarios de la disposición y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios;
+I. El control y la vigilancia sanitarios de la disposición y trasplantes de órganos, tejidos y células de seres humanos, en los términos establecidos por esta Ley y demás disposiciones jurídicas aplicables;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5348,11 +5462,9 @@ III. Establecer y dirigir las políticas en salud en materia de donación, procu
 
 IV. Emitir las disposiciones de carácter general que permitan la homologación de los criterios de atención médica integral en la materia, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-V. Elaborar y llevar a cabo, en coordinación con las instituciones públicas del Sistema Nacional de Salud y con los gobiernos de las entidades federativas, campañas permanentes de concientización sobre la importancia de la donación y los trasplantes.
+V. Elaborar y llevar a cabo, en coordinación con las instituciones públicas del Sistema Nacional de Salud y con los gobiernos de las entidades federativas, campañas permanentes de concientización sobre la importancia de la donación de órganos, tejidos y células para fines de trasplantes, así como de sangre y sus componentes para efectos de transfusiones y otros usos terapéuticos.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5362,9 +5474,9 @@ Para efectos de este título se entiende por:
 
 I. Células germinales, a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
 
-> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-I Bis. Células progenitoras o troncales, aquellas capaces de autoreplicarse y diferenciarse hacia diversos linajes celulares especializados;
+I Bis. Células Troncales, aquellas capaces de autoreplicarse y diferenciarse hacia diversos linajes celulares especializados;
 
 > <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2005)</small>
 
@@ -5396,13 +5508,25 @@ XI. Producto, a todo tejido o sustancia extruida, excretada o expelida por el cu
 
 XII. Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-XIII. Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función;
+XII Bis. Sangre, es el tejido hemático con todos sus componentes;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+XII Bis 1. Plasma, el componente específico separado de las células de la sangre;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+XIII. Tejido, agrupación de células especializadas que realizan una o más funciones;
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 XIV. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+XIV Bis. Transfusión, procedimiento terapéutico consistente en la aplicación de sangre o de componentes sanguíneos a un ser humano;
 
 > <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -5468,15 +5592,17 @@ XXIV. Institución de salud, a la agrupación de establecimientos de salud bajo 
 
 XXV. Preservación, a la utilización de agentes químicos y/o modificación de las condiciones del medioambiente durante la extracción, envase, traslado o trasplante de órganos, tejidos o células, con el propósito de impedir o retrasar su deterioro;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+XXVI. Procuración, al proceso y las actividades dirigidas a promover la obtención oportuna de órganos, tejidos y células donados para su trasplante;
 
-XXVI. Procuración, al proceso y las actividades dirigidas a promover la obtención oportuna de órganos, tejidos y células donados para su trasplante, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos, tejidos, sus componentes y células, en cualquier momento desde la donación y, en su caso, hasta el uso terapéutico, procesamiento o destino final, y
 
-XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos, tejidos y sus componentes, y células, en cualquier momento desde la donación, y en su caso, hasta el trasplante o la transfusión.
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+XXVIII. Hemoderivados, los productos obtenidos de algunos componentes sanguíneos, especialmente el plasma, mediante procesos fisicoquímicos o biológicos, para aplicación terapéutica, diagnóstica, preventiva o en investigación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5504,29 +5630,43 @@ La política en materia de donación y trasplantes deberá guiarse por la transp
 
 El Centro Nacional de Trasplantes tendrá a su cargo la coordinación del Subsistema Nacional de Donación y Trasplantes cuyas funciones se establecerán en la reglamentación respectiva.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 315.
 
-Los establecimientos de salud que requieren de autorización sanitaria son los dedicados a:
+Los establecimientos de salud que requieren de licencia sanitaria son los dedicados a:
+
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
 
 I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
 
-II. Los trasplantes de órganos y tejidos;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+II. Los trasplantes de órganos, tejidos y células;
 
-III. Los bancos de órganos, tejidos y células;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+III. Los bancos de órganos, tejidos no hemáticos y células;
 
-IV. Los bancos de sangre y servicios de transfusión, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2013)</small>
+IV. Los servicios de sangre;
 
-V. La disposición de células progenitoras o troncales.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-La Secretaría otorgará la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta Ley y demás aplicables.
+V. La disposición de células troncales, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+VI. Los establecimientos de medicina regenerativa.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+La Secretaría de Salud otorgará la licencia a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta Ley y demás aplicables.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+Para el caso de los establecimientos de salud a que se refiere la fracción IV del presente artículo, la licencia sanitaria tendrá una vigencia de 5 años prorrogables por plazos iguales de conformidad con las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -5594,13 +5734,9 @@ IX. Representar al responsable sanitario del establecimiento en ausencia de ést
 
 X. Lo que le atribuya esta Ley y las demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 316 Bis 1.
-
-Los establecimientos a los que se refieren las fracciones I y II del artículo 315 de esta Ley deberán contar con el apoyo, a través de un convenio, de bancos de sangre externos, cuando el establecimiento no tuviere uno propio, para garantizar la disponibilidad oportuna de dicho tejido en aquellos casos en que éste se llegara a requerir.
+ARTICULO 316 BIS 1.- Para garantizar la disponibilidad oportuna de sangre o sus componentes, los establecimientos a los que se refieren las fracciones I y II del artículo 315 de esta Ley que no cuenten con bancos de sangre o centros de procesamiento, deberán tener convenio con algún establecimiento de banco de sangre, un centro de procesamiento o un centro de distribución de sangre y componentes sanguíneos.
 
 > <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
 
@@ -5608,7 +5744,13 @@ Los establecimientos a los que se refieren las fracciones I y II del artículo 3
 
 Los órganos no podrán ser sacados del territorio nacional.
 
-Los permisos para que los tejidos y sus componentes, así como las células puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo casos de urgencia.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+Los permisos para que los tejidos y sus componentes, así como las células puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades terapéuticas de éstos en el país, salvo casos de urgencia. Para la entrada o salida de sangre y sus componentes, se estará en lo dispuesto en la fracción VI del artículo 375.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+En el caso de plasma residual se concederán los permisos siempre que se trate de realizar su procesamiento para la obtención de hemoderivados y se garantice su retorno al territorio nacional con fines terapéuticos.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2008)</small>
 
@@ -5644,7 +5786,7 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 320.
 
@@ -5682,9 +5824,9 @@ Los disponentes secundarios, podrán otorgar el consentimiento a que se refieren
 
 La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
 
-> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo. En el caso de sangre, componentes sanguíneos y células progenitoras hematopoyéticas se estará a lo dispuesto en las disposiciones jurídicas que al efecto emita la Secretaría de Salud.
+En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo. En el caso de sangre, componentes sanguíneos y células troncales se estará a lo dispuesto en las disposiciones jurídicas que al efecto emita la Secretaría de Salud.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5698,11 +5840,9 @@ Se requerirá que el consentimiento expreso conste por escrito:
 
 I. Para la donación de órganos y tejidos en vida, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-II. Para la donación de sangre, componentes sanguíneos y células progenitoras hematopoyéticas en vida.
+II. Para la donación de sangre, componentes sanguíneos y células troncales en vida.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5738,15 +5878,13 @@ I. El tácito o expreso otorgado por menores de edad, incapaces o por personas q
 
 II. El expreso otorgado por una mujer embarazada sólo será admisible si el receptor estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 327.
 
-Está prohibido el comercio de órganos, tejidos y células. La donación de éstos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
+Está prohibido el comercio de órganos, tejidos y células. La donación de éstos se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
-
-No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos, incluyendo la sangre y sus componentes, y células progenitoras o troncales.
+No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos y células, incluyendo la sangre y sus componentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5768,19 +5906,17 @@ De igual forma el Centro Nacional de Trasplantes se encargará de definir el for
 
 Con base en el formato señalado en el párrafo anterior, el Centro Nacional de Trasplantes y los centros estatales de trasplantes, en el ámbito de sus respectivas competencias, expedirán el documento oficial a las personas que lo soliciten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 329 BIS. El Centro Nacional de Trasplantes fomentará la cultura de la donación para fines de trasplantes, en coordinación con los centros estatales de trasplantes.
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 329 Bis.
-
-El Centro Nacional de Trasplantes fomentará la cultura de la donación, en coordinación con el Consejo Nacional de Trasplantes y los centros estatales de trasplantes.
 
 Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias determinar los mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Certificados
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 330.
 
@@ -5944,25 +6080,29 @@ El traslado de órganos, tejidos y células adecuadamente etiquetados e identifi
 
 El Centro Nacional de Trasplantes tendrá a su cargo el Registro Nacional de Trasplantes, el cual integrará y mantendrá actualizada la siguiente información:
 
-I. El registro de establecimientos autorizados conforme al artículo 315 de esta Ley;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+I. El registro de establecimientos autorizados a que se refieren las fracciones I, II y III del artículo 315 de esta Ley;
 
 II. Los cirujanos de trasplantes responsables de la extracción y trasplantes, y los coordinadores hospitalarios de la donación;
 
 III. Los datos de las donaciones de las personas fallecidas;
 
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-IV. Los datos de los trasplantes con excepción de los autotrasplantes y los relativos a células progenitoras o troncales;
+IV. Los datos de los trasplantes con excepción de los autotrasplantes y los relativos a células troncales;
 
 V. Los datos de los receptores considerados candidatos a recibir el trasplante de un órgano o tejido, integrados en bases de datos hospitalarias, institucionales, estatales y nacional, y
 
 VI. Los casos de muerte encefálica en los que se haya concretado la donación, así como los órganos y tejidos que fueron trasplantados en su caso.
 
-En los términos que precisen las disposiciones reglamentarias, los establecimientos de salud referidos en el artículo 315 de esta Ley, a través del responsable sanitario en coordinación con los Comités internos señalados en el artículo 316 del mismo ordenamiento legal citado, deberán proporcionar la información relativa a las fracciones II, III, IV Y V de este artículo.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+En los términos que precisen las disposiciones reglamentarias, los establecimientos de salud referidos en las fracciones I, II y III del artículo 315 de esta Ley, a través del responsable sanitario en coordinación con los Comités Internos señalados en el artículo 316 del mismo ordenamiento, deberán proporcionar la información relativa a las fracciones II, III, IV y V de este artículo.
 
-El registro de los trasplantes de células progenitoras o troncales estará a cargo del Centro Nacional de la Transfusión Sanguínea.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+El registro de los trasplantes de células troncales estará a cargo del Centro Nacional de la Transfusión Sanguínea.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2013)</small>
 
@@ -5970,9 +6110,9 @@ El registro de los trasplantes de células progenitoras o troncales estará a ca
 
 La distribución y asignación en el territorio nacional de órganos, tejidos y células, con excepción de las progenitoras o troncales, de donador con pérdida de la vida para trasplante, deberá sujetarse a los criterios previstos en la presente Ley y los emitidos por la Secretaría de Salud, mediante disposiciones de carácter general que deberán publicarse en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-La asignación y la distribución en el territorio nacional de órganos, tejidos y células, con excepción de las progenitoras o troncales, se realizará por los comités internos de trasplantes y por los comités internos de coordinación para la donación de órganos y tejidos, de conformidad con lo previsto en la presente Ley.
+La asignación y la distribución en el territorio nacional de órganos, tejidos y células, con excepción de las troncales, se realizará por los comités internos de trasplantes y por los comités internos de coordinación para la donación de órganos y tejidos, de conformidad con lo previsto en la presente Ley.
 
 La coordinación para la asignación y distribución de órganos y tejidos de donador con pérdida de la vida para trasplante estará a cargo del Centro Nacional de Trasplantes, por conducto del Registro Nacional de Trasplantes, el cual se podrá apoyar en los Centros Estatales de Trasplantes, conforme a lo previsto en la presente Ley y en las disposiciones reglamentarias que al efecto se emitan.
 
@@ -5982,31 +6122,49 @@ El Centro Nacional de Trasplantes dará aviso a la Comisión Federal para la Pro
 
 El Centro Nacional de Trasplantes impulsará, junto con las Organizaciones de la Sociedad Civil, las acciones que permitan la trazabilidad de los órganos y tejidos donados para trasplante, misma que estará a cargo de cada establecimiento de salud en el desarrollo de sus actividades de disposición y de trasplante de órganos y tejidos, conforme a las disposiciones de carácter general que establezca la Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 340.
 
 El control sanitario de la disposición de sangre lo ejercerá la Secretaría de Salud a través de la Comisión Federal para la Protección contra Riesgos Sanitarios.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 341.
 
-La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables. La sangre será considerada como tejido.
+La disposición de sangre, componentes sanguíneos y células troncales, con fines terapéuticos estará a cargo de los establecimientos siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MARZO DE 2014)</small>
+A) Los servicios de sangre que son:
 
-###### ARTICULO 341 Bis.
+I. Banco de sangre;
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, deberán impulsar la donación de sangre, componentes sanguíneos y células troncales o progenitoras, para coadyuvar en el tratamiento o curación de los pacientes que las requieran, asimismo, la Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud al respecto.
+II. Centro de procesamiento de sangre;
 
-> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+III. Centro de colecta;
 
-La Secretaría de Salud, emitirá las disposiciones que regulen tanto la infraestructura con que deberán contar los bancos de sangre que lleven a cabo actos de disposición y distribución de células progenitoras hematopoyéticas, como la obtención, procesamiento y distribución de dichas células.
+IV. Centro de distribución de sangre y componentes sanguíneos;
+
+V. Servicio de transfusión hospitalario, y
+
+VI. Centro de calificación biológica.
+
+B) Los que hacen disposición de células troncales que son:
+
+I. Centro de colecta de células troncales, y
+
+II. Banco de células troncales.
+
+C) Los establecimientos de medicina regenerativa.
+
+Los establecimientos que lleven a cabo la transfusión sanguínea, serán los responsables de la seguridad transfusional.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 341 BIS.- La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, deberán impulsar la donación de sangre, componentes sanguíneos y células troncales, para coadyuvar en el tratamiento o curación de los pacientes que las requieran; asimismo, la Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud al respecto.
+
+La Secretaría de Salud emitirá las disposiciones que regulen tanto la infraestructura con que deberán contar los bancos de sangre que lleven a cabo actos de disposición y distribución de células troncales, como la obtención, procesamiento y distribución de dichas células.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -6032,25 +6190,51 @@ Las disposiciones que emita la Secretaría de Salud contemplarán, al menos, los
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 342 Bis 1.
-
-El plasma residual podrá destinarse a procedimientos de fraccionamiento para obtener hemoderivados. Tanto los establecimientos de salud que suministren el plasma residual, como los establecimientos que lo reciban para elaborar hemoderivados, deberán estar autorizados conforme a los artículos 198 fracción I y 315 de esta Ley. Asimismo, se sujetarán a las disposiciones que dicte la Secretaría de Salud.
+ARTICULO 342 BIS 1.- El plasma residual podrá destinarse a procedimientos de fraccionamiento para obtener hemoderivados. Tanto los establecimientos de salud que suministren el plasma residual, como los establecimientos que lo reciban para elaborar hemoderivados, deberán estar autorizados conforme a los artículos 198 fracción I y 315 de esta Ley. Asimismo, se sujetarán a las disposiciones que dicte la Secretaría de Salud.
 
 Las disposiciones que emita la Secretaría de Salud contemplarán, al menos, los mecanismos de aprovechamiento, procesamiento o utilización bajo condiciones que garanticen calidad, seguridad y eficacia.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+Para dotar de transparencia a los procesos y la valoración de donantes, la obtención de sangre y sus componentes, su análisis, procesamiento, conservación, transporte, control sanitario y uso terapéutico, se sujetarán a las disposiciones emitidas por la Secretaría de Salud.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+La distribución de sangre y sus componentes deberá ser equitativa y dar prioridad a las instituciones públicas del Sistema Nacional de Salud.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+Se deberán realizar las pruebas necesarias que determine la Secretaría de Salud de acuerdo con los estándares internacionales de calidad y seguridad sanguínea a efecto de disminuir el riesgo de transmisión de enfermedades por transfusión.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 342 Bis 2.
+ARTICULO 342 BIS 2.- La Secretaría de Salud establecerá las disposiciones aplicables para regular la disposición y procesamiento de los tejidos y el plasma residual referidos en los artículos 342 Bis y 342 Bis 1 de esta Ley, a fin de garantizar la trazabilidad en cuanto a origen y destino de los mismos. Asimismo, establecerá los mecanismos para promover la accesibilidad a los hemoderivados del plasma residual y de los insumos para la salud a que se refiere el artículo 342 Bis, en condiciones de equidad y seguridad en beneficio para la salud pública.
 
-La Secretaría de Salud establecerá las disposiciones aplicables para regular la disposición y procesamiento de los tejidos y el plasma residual referidos en los artículos 342 Bis y 342 Bis 1 de esta Ley, a fin de garantizar la trazabilidad en cuanto a origen y destino de los mismos. Asimismo, establecerá los mecanismos para promover la accesibilidad a los hemoderivados del plasma residual y de los insumos para la salud a que se refiere el artículo 342 Bis, en condiciones de equidad y seguridad en beneficio para la salud pública.
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+Las disposiciones que emita la Secretaría de Salud para garantizar la trazabilidad en cuanto a origen y destino de los tejidos y el plasma residual, así como las relativas a la farmacovigilancia y control sanitarios de los mismos, tomarán en cuenta la experiencia en la materia, de agencias reguladoras nacionales e internacionales y a la evidencia científica y tecnológica.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 342 BIS 3.- El Centro Nacional de la Transfusión Sanguínea tendrá a su cargo el Registro Nacional de Sangre y de Células Troncales, el cual integrará y mantendrá actualizada la información relativa a la disposición de sangre, componentes sanguíneos y células troncales e incluirá lo siguiente:
+
+I. El registro de establecimientos a que se refiere el artículo 341 de esta Ley, así como de sus respectivos responsables sanitarios, en coordinación con la Comisión Federal para la Protección contra Riesgos Sanitarios;
+
+II. El registro de los comités de medicina transfusional, así como de los comités o subcomités de trasplantes de células troncales;
+
+III. Información relativa a la disposición de sangre, componentes sanguíneos y células troncales que se lleven a cabo en el país;
+
+IV. El Sistema Nacional de Biovigilancia;
+
+V. El registro único de unidades de células troncales que se tengan en existencia, así como de los donantes potenciales de dichas células, con el fin de actuar como enlace nacional e internacional para su localización, y
+
+VI. Los demás que prevean las disposiciones reglamentarias.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 343.
 
@@ -6084,7 +6268,9 @@ No existirá impedimento alguno para que a solicitud y con la autorización de l
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 346.
 
@@ -6188,7 +6374,9 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 351.
 
@@ -6242,7 +6430,7 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas medidas (sic) que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 360.
 
@@ -6264,7 +6452,7 @@ La Secretaría de Salud determinará qué otras enfermedades transmisibles queda
 
 Las personas comprendidas en lo dispuesto en el artículo anterior, quedarán bajo vigilancia y aislamiento en los lugares que la autoridad sanitaria determine, o en los que señale el interesado, si fueran aceptados por la autoridad, en tanto se decida, mediante el examen médico pertinente, si es aceptada o no su internación más allá del sitio de confinamiento, y se le preste, en su caso, la atención médica correspondiente.
 
-### CAPITULO V. Prescripción
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 363.
 
@@ -6296,9 +6484,7 @@ Las embarcaciones y aeronaves procedentes del extranjero con destino al territor
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 368.
 
@@ -6422,9 +6608,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas.
 
-### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
-
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 380.
 
@@ -6499,6 +6683,10 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, al co
 ###### ARTICULO 387.
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiera la autorización revocada.
+
+### CAPITULO VI. Delitos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 388.
 
@@ -6581,6 +6769,10 @@ La Secretaría de Salud, los gobiernos de las entidades federativas y los Servic
 La distribución primaria de los certificados de nacimiento, defunción y muerte fetal a que hace mención el artículo 389 de esta Ley estará a cargo de la Secretaría de Salud.
 
 ## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
+
+### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 393.
 
@@ -7202,6 +7394,12 @@ Al que saque o pretenda sacar del territorio nacional derivados de la sangre hum
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 460 BIS.- Al que introduzca o pretenda introducir en el territorio nacional sangre humana o cualquiera de sus componentes, sin permiso de la Secretaría de Salud, se le impondrá prisión de uno a cinco años y multa por el equivalente de diez a ciento veinticinco días de salario mínimo general vigente en la zona económica de que se trate.
+
+Si la introducción de sangre humana o de cualquiera de sus componentes a que se refiere el párrafo anterior produce algún contagio en la población se impondrán de seis a diecisiete años de prisión y multa por el equivalente de ocho mil a diecisiete mil días de salario mínimo vigente en la zona económica de que se trate.
+
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 461.
@@ -7228,9 +7426,17 @@ III. Al que trasplante un órgano o tejido, sin atender las preferencias y el or
 
 IV. A los que promuevan, favorezcan, faciliten o publiciten la obtención o la procuración ilegal de órganos, tejidos y células o el trasplante de los mismos;
 
-V. Al receptor del órgano que consienta la realización del trasplante conociendo su origen ilícito, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-VI. Al que trasplante un órgano o tejido cuando el receptor y/o donador sean extranjeros, sin seguir el procedimiento establecido para tal efecto.
+V. Al receptor del órgano que consienta la realización del trasplante conociendo su origen ilícito;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+VI. Al que trasplante un órgano o tejido cuando el receptor y/o donador sean extranjeros, sin seguir el procedimiento establecido para tal efecto, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+VII. Aquella persona que con intención cause infección de receptores por agentes transmisibles por transfusión de sangre y sus componentes.
 
 En el caso de las fracciones III, IV, V y VI se aplicarán al responsable, además de otras penas, de cinco a diez años de prisión. Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de cinco a ocho años en el ejercicio profesional, técnico o auxiliar y hasta seis años más, en caso de reincidencia.
 
@@ -7324,7 +7530,7 @@ La mujer casada no podrá otorgar su consentimiento para ser inseminada sin la c
 
 Al que induzca o propicie que menores de edad o incapaces consuman, mediante cualquier forma, substancias que produzcan efectos psicotrópicos, se le aplicará de siete a quince años de prisión.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO "EN LA PORCIÓN NORMATIVA QUE REMITE A LA FRACCIÓN IV DEL ARTÍCULO 245 DE LA PROPIA LEY", LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 1 DE DICIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO “EN LA PORCIÓN NORMATIVA QUE REMITE A LA FRACCIÓN IV DEL ARTÍCULO 245 DE LA PROPIA LEY”, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -8229,3 +8435,25 @@ D.O.F. 17 DE MARZO DE 2015.
 DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 464 TER DE LA LEY GENERAL DE SALUD.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE ABRIL DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 112, FRACCIÓN III; 313, FRACCIONES I Y V; 314, FRACCIONES I BIS, XIII, XXVI Y XXVII; 315; 316 BIS 1; EL SEGUNDO PÁRRAFO DEL 317; EL PÁRRAFO QUINTO DEL 322; LA FRACCIÓN II DEL 323; 327; EL PRIMER PÁRRAFO DEL 329 BIS; LAS FRACCIONES I Y IV Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL 338; EL SEGUNDO PÁRRAFO DEL 339; 341 Y 341 BIS; Y SE ADICIONAN LAS FRACCIONES XII BIS, XII BIS 1, XIV BIS Y XXVIII AL ARTÍCULO 314; UN TERCER PÁRRAFO AL ARTÍCULO 317; EL CAPÍTULO III BIS AL TÍTULO DÉCIMO CUARTO, TRES PÁRRAFOS AL ARTÍCULO 342 BIS 1; UN SEGUNDO PÁRRAFO AL ARTÍCULO 342 BIS 2, LOS ARTÍCULOS 342 BIS 3, 460 BIS Y UNA FRACCIÓN VII AL ARTÍCULO 462, TODOS DE LA LEY GENERAL DE SALUD.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para los efectos de lo establecido por el artículo 315 de esta Ley, a la entrada en vigor de este Decreto, las solicitudes de licencia sanitaria que se encuentren en trámite por parte de los establecimientos de salud a que se refieren la fracción IV de dicho artículo y que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, tendrán a partir de la fecha de su expedición una vigencia de 5 años.
+
+Tercero. Las autorizaciones sanitarias de los establecimientos de salud mencionados en la fracción IV del artículo 315 de esta Ley, otorgadas por tiempo indeterminado deberán someterse a revisión para obtener la licencia sanitaria correspondiente en un plazo de hasta cinco años a partir de la entrada en vigor del presente Decreto.
+
+Cuarto. Los gobiernos Federal, de las entidades federativas y de los municipios, desarrollarán de manera coordinada y en el ámbito de su competencia, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr de manera progresiva, el cumplimiento del mismo.
+
+D.O.F. 20 DE ABRIL DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3o., FRACCIÓN XIX; 184 BIS, PRIMER PÁRRAFO; 185, PRIMER PÁRRAFO Y FRACCIÓN II; 186, PRIMER PÁRRAFO Y LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO PRIMERO; SE ADICIONAN LAS FRACCIONES IV Y V AL ARTÍCULO 185; LOS ARTÍCULOS 185 BIS, 185 BIS 1, 185 BIS 2 Y 186 BIS; UN CAPÍTULO II BIS AL TÍTULO DÉCIMO PRIMERO, QUE SE DENOMINARÁ "PROTECCIÓN DE LA SALUD DE TERCEROS Y DE LA SOCIEDAD FRENTE AL USO NOCIVO DEL ALCOHOL", CON LOS ARTÍCULOS 187 BIS Y 187 BIS 1 A LA LEY GENERAL DE SALUD.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para efectos de lo dispuesto en la fracción II del artículo 187 Bis, la Secretaría de Salud contará con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones que resulten aplicables.
+
+Tercero. Los gobiernos Federal, de las entidades federativas y de los municipios, desarrollarán de manera coordinada, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr de manera progresiva, el cumplimiento del mismo.
