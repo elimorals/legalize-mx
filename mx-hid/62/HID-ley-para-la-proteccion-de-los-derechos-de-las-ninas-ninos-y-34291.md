@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-342
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-20"
-last_updated: "2015-03-16"
+last_updated: "2015-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 20 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 235 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 20 de octubre de 2003.
 
@@ -395,7 +395,7 @@ VI. Promover el acceso de niñas, niños y adolescentes con discapacidad a Progr
 
 VII. Todos los educadores, maestros, maestras y/o responsables de grupos escolares, deberán proporcionar a las niñas, niños y adolescentes con discapacidad; y
 
-VIII. Crear acuerdos con las instituciones de salud públicas y privadas para brindar atención prioritaria a las niñas, niños y adolescentes con discapacidad; (sic)
+VIII. Crear acuerdos con las instituciones de salud públicas y privadas para brindar atención prioritaria a las niñas, niños y adolescentes con discapacidad;
 
 ### CAPITULO OCTAVO. DEL DERECHO A LA EDUCACION
 
@@ -576,3 +576,31 @@ P. O. 22 DE DICIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 Segundo. Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las empresas, instituciones, dependencias y en general, todos los obligados conforme a esta ley efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones establecidas.
+
+P.O. 20 DE ABRIL DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Protección de Niñas, Niños y Adolescentes para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado el 20 de octubre de 2003.
+
+TERCERO. El Sistema Estatal de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente ordenamiento. En su primera sesión, se someterá a consideración y aprobación del mismo, los lineamientos para su integración, organización y funcionamiento, así como la designación de la persona titular, de la Secretaría Ejecutiva del Sistema.
+
+La persona Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Estatal de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere esta Ley.
+
+El Sistema Estatal de Protección Integral a través de la Secretaría Ejecutiva realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Estatal de Protección.
+
+CUARTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Titular del Ejecutivo Estatal en un término de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente ordenamiento.
+
+QUINTO. Los Sistemas Municipales de Protección deberán integrarse a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+SEXTO. Las autoridades estatales y municipales darán seguimiento y continuidad a los convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
+
+SÉPTIMO. Para efectos de lo dispuesto en esta Ley, en tanto entran en vigor en su totalidad las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán en lo conducente las medidas establecidas en la legislación procesal penal correspondiente.
+
+OCTAVO. Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Periódico Oficial del Estado para realizar las adecuaciones conducentes en términos de lo previsto por esta Ley.
+
+NOVENO. El Congreso del Estado de Hidalgo, a propuesta del Titular del Ejecutivo Estatal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
+
+DÉCIMO. Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en la Ley, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo del Estado, dispondrá que la presente ley, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio estatal, así como, la difusión entre las diferentes dependencias gubernamentales.
