@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2015-03-02"
+last_updated: "2015-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 2 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 544 PUBLICADO EN LA G.O. DE 27 DE FEBRERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -769,6 +767,10 @@ XXIV. Desarrollo Social, Humano y Regional.
 
 XXV. Desempeño.
 
+> <small>(ADICIONADA, G.O. 20 DE ABRIL DE 2015)</small>
+
+XXVI. De Desarrollo Económico.
+
 ###### Artículo 41.
 
 Además de las señaladas en el artículo anterior, el Ayuntamiento podrá formar las Comisiones de carácter permanente o transitorias que requiera, conforme a las necesidades del servicio público. Asimismo, para su mejor prestación, podrá reasignar o reagrupar las funciones y servicios públicos señalados en el artículo 35, fracción XXV, debiendo notificarlo al Congreso del Estado.
@@ -1284,6 +1286,22 @@ II. Proponer al Ayuntamiento los mecanismos de control y seguimiento en los indi
 III. Vigilar el turno de los indicadores de desempeño a las instancias competentes; y
 
 IV. Las demás que expresamente le señalen esta Ley y demás leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 20 DE ABRIL DE 2015)</small>
+
+Artículo 60 undecies. Son atribuciones de la Comisión de Desarrollo Económico:
+
+I. Proponer ante el H. Ayuntamiento la creación de la Dirección Municipal de Desarrollo Económico;
+
+II. Promover y organizar la participación de todas las ramas de producción y de servicios, relacionados con el Desarrollo Económico;
+
+III. Fomentar el impulso del aparato productivo con el fin de reactivar el autoempleo, las micros, pequeñas, medianas y grandes empresas para que tenga todo el apoyo de la Comisión de Desarrollo Económico Municipal;
+
+IV. Proponer al Ayuntamiento la realización de acciones, ante los Ejecutivos Estatal y Federal, para obtener recursos económicos destinados a programas productivos que lleven un alto sentido de responsabilidad social;
+
+V. Promover acciones de desarrollo económico con los municipios vecinos, cuando la naturaleza de los programas así lo requiera, proyectando agro parques que impulsen esa región como polo de desarrollo en el Estado; y
+
+VI. Vigilar la aplicación de los recursos provenientes de los programas productivos basados en la agricultura por contrato y agricultura certificada, dirigidos a los productores, cumpliendo con la normatividad establecida por el Estado o la Federación.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
@@ -3626,3 +3644,9 @@ DECRETO NÚMERO 544, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN XX
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
