@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-la-cultura-para-el-estado-de-guanajuato-10490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-08"
-last_updated: "2013-06-07"
+last_updated: "2015-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO Y DIFUSIÓN DE LA CULTURA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 21 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 8 de diciembre de 1992.
 
@@ -484,3 +486,25 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 21 DE ABRIL DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Fomento a la Cultura para el Estado de Guanajuato, contenida en el Decreto número 119 de la Quincuagésima Quinta Legislatura, publicada en el Periódico Oficial del Gobierno del Estado número 98, tercera parte, de fecha 8 de diciembre de 1992.
+
+Término para adecuar la normatividad estatal
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente decreto legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Cuarto. Los Ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar noventa días después de su entrada en vigencia.
+
+Término para expedir la Convocatoria
+
+Artículo Quinto. El Ejecutivo del Estado deberá expedir las bases para la convocatoria pública para la integración del Consejo, en un término de siete meses, contados a partir del inicio de vigencia del presente Decreto.
