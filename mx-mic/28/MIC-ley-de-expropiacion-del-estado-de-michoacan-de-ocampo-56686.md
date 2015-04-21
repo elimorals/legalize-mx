@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-expropiacion-del-estado-de-michoacan-de-ocampo-56686"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-31"
-last_updated: "2007-08-31"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE EXPROPIACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el viernes 31 de agosto de 2007.
 
@@ -219,9 +219,11 @@ Cuando sea solicitado por los municipios, se deberá agregar el acta de Cabildo 
 
 ### CAPÍTULO CUARTO. DE LA INDEMNIZACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2015)</small>
+
 ###### Artículo 14.
 
-La indemnización por el bien mueble afectado, será el equivalente al valor comercial que fije el Ejecutivo, a través de la dependencia o entidad que corresponda; tratándose de bienes inmuebles, la indemnización no podrá ser inferior al valor fiscal que registren en las oficinas catastrales o recaudadoras municipales al momento de la afectación.
+En la indemnización por el bien mueble o inmueble afectado, se le restituirá al propietario el equivalente al valor comercial del bien objeto de la declaración, el cual será fijado por la dependencia o entidad que corresponda.
 
 ###### Artículo 15.
 
@@ -383,7 +385,7 @@ El Acuerdo de Afectación se notificará personalmente al afectado en los térmi
 
 El Ejecutivo a través de la Secretaría, cumplidos los trámites y satisfechos los requisitos establecidos por esta Ley, acordará en declaratoria de Acuerdo de Afectación, la expropiación, la ocupación temporal, total o parcial, la servidumbre administrativa o la limitación de dominio, según proceda, estableciendo la necesidad de ocupar por esa vía la propiedad privada de que se trate, en virtud de la existencia de la causa de utilidad pública respectiva, señalando las bases para fijar el monto de la indemnización, el plazo y la forma de pago.
 
-En el Acuerdo de Afectación deberá establecerse la forma y término en que se llevará a cabo la ocupación de los bienes afectados por la declaratoria respectiva.36
+En el Acuerdo de Afectación deberá establecerse la forma y término en que se llevará a cabo la ocupación de los bienes afectados por la declaratoria respectiva.
 
 ###### Artículo 37.
 
@@ -470,3 +472,11 @@ PRESIDENTE.- DIP. SALVADOR ORTIZ GARCÍA.- PRIMERA SECRETARIA.- DIP. MINERVA BAU
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de agosto del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
