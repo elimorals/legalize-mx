@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2015-04-04"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ABRIL DE 2015.</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -459,11 +461,11 @@ La minoría de edad, la interdicción y demás incapacidades que establezca la l
 
 ### CAPITULO VII. Del estado de interdicción
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
 ###### Art. 50.
 
-La limitación a la capacidad de ejercicio impuesta por la interdicción podrá ser total o parcial, en los términos que dicte la sentencia respectiva, en la que deberá establecerse en qué tipo de actos el incapaz goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir un tutor para otorgarle asistencia.
+La limitación a la capacidad de ejercicio impuesta por la interdicción será la que se señale en los términos que dicte la sentencia respectiva, en la que deberá establecerse en qué tipo de actos el incapaz goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir un tutor para otorgarle asistencia.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
