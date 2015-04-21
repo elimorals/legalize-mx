@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2015-03-28"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ABRIL DE 2015.</small>
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -401,8 +403,6 @@ Cuando en un municipio exista población indígena, las autoridades municipales 
 
 La Secretaría publicará en sistema braile (sic), los programas de desarrollo social en donde pueda ser beneficiada una persona con discapacidad visual, de igual forma, contará con personal capacitado para dar asesoría sobre estos programas a las personas con discapacidad auditiva.
 
-> <small>N. DE E. EN LA PUBLICACIÓN OFICIAL SE ADVIERTEN INCOMPLETOS LOS ARTÍCULOS ADICIONADOS, VER PÁGINAS 15 Y 16 DEL ACROBAT READER P.O. 9 DE AGOSTO DE 2014, NÚMERO 48, SECCIÓN II.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ### Capitulo Segundo. Del Padrón Único de Beneficiarios de Programas Gubernamentales
@@ -423,11 +423,79 @@ IV. Unificar y sistematizar la información de los beneficiaros de programas gub
 
 V. Articular las políticas públicas bajo criterios de complementariedad, integralidad y sustentabilidad de los programas gubernamentales; y
 
-> <small>N. DE E. SE ADVIERTE QUE EN LA PUBLICACIÓN OFICIAL EN LA PÁGINA 15 CONCLUYE CON LA FRACCIÓN IV. DEL ARTÍCULO 31 BIS, Y QUE LA PÁGINA 16 INICIA CON LA FRACCIÓN II DE OTRO ARTÍCULO, CONSULTAR LA VERSIÓN ACROBAT READER DEL P.O. 9 DE AGOSTO DE 2014.</small>
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-(SIC) II. El análisis de programas de los organismos y dependencias de gobierno, para la toma de decisiones en materia de políticas públicas para el desarrollo social.
+VI. Generar información estratégica para el diagnostico, planeación, evaluación, seguimiento y toma de decisiones en materia de políticas públicas para el desarrollo social.
+
+(ADICIONADO, P.O. 9 DE AGOSTO DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
+
+###### Artículo 31 Ter.
+
+El Padrón Único de Beneficiarios de Programas Gubernamentales, se implementará a partir de la aplicación del formato de padrón único estandarizado y de aplicación sistemática, que permitirá:
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+I. Recabar datos generales e información de los beneficiarios, tales como:
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+a) Perfil socio-demográfico;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+b) Estructura familiar;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+c) Salud;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+d) Ingresos;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+e) Seguridad alimentaria;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+f) Condiciones de la vivienda;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+g) Equipamiento del hogar;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+h) Redes de apoyo; y
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+í) Uso y acceso a otros apoyos sociales de cada persona que recibe beneficios de programas gubernamentales.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+Para el desarrollo del formato del padrón único, podrán elegir aquellas variables relacionadas con los aspectos antes mencionados, que resulten pertinentes según las características de sus programas y en la medida de sus posibilidades de integración, cumpliendo con los datos exigidos de transparencia y debiendo incluir en todos los casos la Clave Única de Registro de Población del beneficiario.
+
+(ADICIONADO, P.O. 9 DE AGOSTO DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
+
+###### Artículo 31 Quater.
+
+La administración de información del Padrón Único de Beneficiarios, se llevará a cabo a través de una plataforma tecnológica que se desarrollará en línea, la cual contendrá diferentes criterios de búsqueda que permitirá y facilitará:
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+I. La consulta ciudadana; y
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+II. El análisis de programas de los organismos y dependencias de gobierno, para la toma de decisiones en materia de políticas públicas para el desarrollo social.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
 Corresponde a las dependencias y entidades de la administración pública del Estado, la actualización del Padrón Único de Beneficiarios, la cual deberá realizarse con una periodicidad mínima de dos veces por año.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
 Los Ayuntamientos del Estado de Jalisco que implementen programas estatales o de participación estatal, deberán coadyuvar a la dependencia o entidad encargada del programa, en la práctica de la actualización del Padrón Único de Beneficiarios.
 
@@ -807,7 +875,7 @@ El Secretario General de Gobierno
 
 LIC. HÉCTOR PÉREZ PLAZOLA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE ABRIL DE 2008.
 
