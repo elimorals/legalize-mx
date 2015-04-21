@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2014-11-29"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 21 DE ABRIL DE 2015.</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -7820,49 +7820,63 @@ La declaración de interdicción o su modificación, podrá pedirse:
 
 I. Por el propio incapaz;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2006)</small>
+(REFORMADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-II. Por los presuntos herederos legítimos;
+II. Por el cónyuge;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2006)</small>
+(REFORMADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-III. Por el ejecutor testamentario;
+III. Por los presuntos herederos legítimos;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+(REFORMADA, P.O. 31 DE MAYO DE 2007) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-IV. Por el Agente de la Procuraduría Social; y
+IV. Por el ejecutor testamentario;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-V. Por el Consejo de Familia;
+V. Por el Agente de la Procuraduría Social;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-VI. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor;
+VI. Por el Consejo de Familia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-VII. Por cualquiera que por disposición de ley tenga derecho a ejercer la tutela; y
+VII. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-VIII. Por sus parientes consanguíneos en línea recta sin limitación de grados, los colaterales dentro del cuarto grado y los afines dentro del segundo.
+VIII. Por sus ascendientes y parientes consanguíneos en línea recta sin limitación de grados, los colaterales dentro del cuarto grado y los afines dentro del segundo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-ARTICULO 967 BIS. Toda solicitud de declaratoria de estado de interdicción deberá presentarse conforme a lo siguiente:
+ARTICULO 967 BIS.- Toda solicitud de declaratoria de estado de interdicción deberá presentarse conforme a lo siguiente:
 
-I. Si el que promueve es la persona interesada en ejercer la tutela podrá aceptar previamente su nombramiento, manifestando, bajo protesta de decir verdad que reúne los requisitos que el Código Civil exige para ser tutor y que no tiene impedimento legal para ejercer tal cargo.
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-II. Se señalará el nombre y domicilio de los parientes de la persona de quien se pide la declaración a quienes pueda corresponder la tutela legítima.
+I. Si el que promueve está interesado en ejercer la patria potestad prorrogada, deberá señalarlo expresamente;
 
-III. Señalar si la persona respecto de la cual se pide interdicción puede ser trasladada al juzgado
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-IV. A la solicitud se acompañará:
+II. Si el que promueve es la persona interesada en ejercer la tutela podrá aceptar previamente su nombramiento, manifestando, bajo protesta de decir verdad que reúne los requisitos que el Código Civil exige para ser tutor y que no tiene impedimento legal para ejercer tal cargo.
 
-a) El diagnóstico y expediente clínicos;
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-b) los medios de convicción que se estimen idóneos.
+III. Se señalará el nombre y domicilio de los parientes de la persona de quien se pide la declaración a quienes pueda corresponder la tutela legítima.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+IV. Señalar bajo protesta de decir verdad si la persona respecto de la cual se pide interdicción puede ser trasladada al juzgado; y
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+V. A la solicitud se acompañará:
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+a) El diagnóstico y expediente clínicos; y
+
+b) Los medios de convicción que se estimen idóneos.
 
 Los documentos expedidos por instituciones públicas del sector salud no requerirán ratificación del médico tratante.
 
@@ -7872,27 +7886,47 @@ Los documentos expedidos por instituciones públicas del sector salud no requeri
 
 Para la declaratoria de interdicción de personas que no tiene aptitud de expresar su voluntad o están impedidos para entender y querer las consecuencias de sus actos, aunque tenga intervalos lúcidos, por causa de enfermedad congénita o adquirida antes de la mayoría de edad, se estará a lo siguiente:
 
-I. Presentada la demanda, si la solicitud cumple los requisitos del artículo 967 Bis, el Juez dictará auto de admisión en donde:
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-a) Señalará fecha para audiencia dentro de los treinta días siguientes a la presentación, a la que comparecerán los promoventes, el agente de la Procuraduría Social, la persona respecto de la cual se pide la interdicción y el médico designado por el Juez;
+I. Presentada la demanda, si la solicitud cumple los requisitos del artículo 967 Bis, el juez dictará auto de admisión en donde:
 
-b) En caso de que la persona respecto de la cual se pide interdicción no pueda ser trasladada al juzgado, se autorizará el desahogo de la audiencia en el domicilio que en se encuentre ésta, en cuyo caso se podrán habilitar días y horas inhábiles; y
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-c) Designará médico especialista para que realice la evaluación de la persona sobre la cual se pide la declaración y rinda su informe personalmente el día de la audiencia.
+a) Señalará fecha para audiencia dentro de los quince días siguientes a la presentación, que se desahogará con la presencia del Juez, los promoventes, el agente de la Procuraduría Social, la persona respecto de la cual se pide la interdicción y el médico que en su caso designe el juez;
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+b) En caso de que la persona respecto de la cual se pide interdicción no pueda ser trasladada al juzgado, se autorizará el desahogo de la audiencia con la presencia de los señalados en el inciso anterior, en el lugar en que se encuentre ésta, en cuyo caso se podrán habilitar días y horas inhábiles; y
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+c) En su caso, designará médico especialista para que realice la evaluación de la persona sobre la cual se pide la declaración y rinda su informe personalmente el día de la audiencia.
 
 II. En el desahogo de la audiencia a que hace referencia la fracción anterior, se estará a lo siguiente:
 
-a) La audiencia se practicará de manera personal por el Juez en presencia del Agente de la Procuraduría Social, la persona que solicitó la declaración de interdicción y la persona sobre la que se pide la interdicción.
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-b) Abierta la audiencia, el Juez pondrá a la vista del médico especialista el diagnóstico y expediente clínicos del presunto incapaz, para que manifieste lo que corresponda;
+a) La audiencia se practicará de manera personal por el Juez con la presencia de los señalados en el inciso a) de la fracción I, de este artículo;
 
-c) El agente de la Procuraduría Social, previa entrevista con la persona respecto de la cual se pide interdicción, manifestará al Juez lo que a la representación social corresponda;
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-d) El Juez entrevistará a la persona respecto de la cual se pide interdicción a fin de cerciorarse del estado de salud física y mental en que se encuentra.
+b) Abierta la audiencia, en caso de haberlo designado, el juez pondrá a la vista del médico especialista el diagnóstico y expediente clínicos del presunto incapaz, para que manifieste lo que corresponda;
 
-Si hubiera oposición fundada, el Juez substanciará en la vía incidental, y escuchará al solicitante de la declaración. Si fuera desechado el incidente, continuará la audiencia.
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-III. El Juez tomando en cuenta las actuaciones que obran en el expediente, dictará a (sic) sentencia dentro de los diez días siguientes a la celebración de la audiencia.
+c) El agente de la Procuraduría Social, previa entrevista con la persona respecto de la cual se pide interdicción, manifestará al Juez lo que a la representación social corresponda; y
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+d) El juez entrevistará a la persona respecto de la cual se pide interdicción a fin de cerciorarse del estado de salud física y mental en que se encuentra.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+Si hubiera oposición fundada, el Juez substanciará en la vía incidental y se resolverá de plano
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+III. El juez tomando en cuenta las actuaciones que obran en el expediente, dictará la sentencia dentro de los cinco días siguientes a la celebración de la audiencia.
 
 En caso de que sea comprobada la incapacidad, en la sentencia se señalará lo siguiente:
 
@@ -7900,11 +7934,17 @@ a) Se declara el estado de interdicción;
 
 b) De ser procedente, se decretará la patria potestad prorrogada;
 
-c) En su caso, se llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, pudiendo exceptuarlas de prestar las garantías que exige para el cargo el Código Civil; y
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-d) De ser procedente, establecerá los actos personalísimos que podrá realizar por sí mismo; y
+c) En su caso, discernirá el cargo del tutor;
 
-e) Mandará publicar por una única ocasión la sentencia en el periódico oficial El Estado de Jalisco.
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+d) De ser procedente, establecerá los actos en los que el incapaz goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir un tutor para asistirlo; y
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+e) Mandará publicar por una única ocasión los puntos resolutivos de la sentencia en el Periódico Oficial “El Estado de Jalisco”.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -7912,71 +7952,77 @@ e) Mandará publicar por una única ocasión la sentencia en el periódico ofici
 
 Para la declaratoria de interdicción de personas que no tiene aptitud de expresar su voluntad o están impedidos para entender y querer las consecuencias de sus actos, aunque tenga intervalos lúcidos, por causas presentadas después de la mayoría de edad, se estará a lo siguiente:
 
-I. Presentada la solicitud el Juez dictará auto en el que señalará fecha para entrevistar al presunto incapaz, para evaluar de forma directa su diversidad funcional. Para tal efecto se asistirá con un perito. El presunto incapaz si así lo desea, podrá ser asistido por la persona de confianza que éste designe.
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+I. Presentada la solicitud el Juez dictará auto en el que señalará fecha para entrevistar al presunto incapaz, para evaluar de forma directa su condición. Para tal efecto se asistirá con un perito. El presunto incapaz si así lo desea, podrá ser asistido por la persona de confianza que éste designe.
 
 Si de las constancias y entrevistas resultare comprobada o por lo menos existe duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Tribunal dictará las siguientes medidas:
 
 a) Nombrará tutor y curador interinos, sujetándose a las disposiciones de este capítulo;
 
-b) Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y los de copropiedad, si los hubiere; y
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-c) Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
+b) Pondrá los bienes del presunto incapaz bajo la administración del tutor interino, y los de la copropiedad, si los hubiere; y
 
-Del auto en que se dicten esas providencias no procederá apelación sino en el efecto devolutivo.
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+c) Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapaz.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+Del auto en que se dicten esas providencias no procederá la apelación sino en el efecto devolutivo.
+
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
 ###### ARTICULO 970.
 
-Dictada la providencia que establece el artículo anterior, el Juez, de oficio requerirá con cargo al promovente, la información que considere necesaria y al menos tres dictámenes de peritos de las instituciones que considere, ello para estar en aptitud de conocer la verdad material de la discapacidad y así poder fijar los límites a la capacidad de ejercicio, pudiendo ser éstos la mera asistencia o la guarda absoluta para el caso de que la persona incapaz no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio.
+Dictada la providencia que establece el artículo anterior, el Juez, de oficio requerirá con cargo al promovente, la información que considere necesaria y un dictamen elaborado por un perito de la institución que considere, ello para estar en aptitud de conocer la verdad material de la discapacidad y así poder fijar los límites a la capacidad de ejercicio, pudiendo ser éstos la mera asistencia o la guarda absoluta para el caso de que la persona incapaz no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
-ARTICULO 970 BIS. Vistos los documentos y dictámenes a que hace referencia el artículo anterior y antes de emitir el fallo, el Juez, deberá sostener hasta tres entrevistas con el presunto incapaz, en las que se abordarán diversos temas y servirán para evaluar de forma directa la diversidad funcional. El presunto incapaz, si así lo desea, podrá ser asistido por la persona de confianza que éste designe.
+Las partes si lo consideran podrán presentar su propio dictamen pericial para someterlo a consideración del Juez.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
-ARTICULO 970 TER. Hecho lo anterior, dentro de un término que en ningún caso excederá de cuarenta días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor interino, el Agente de la Procuraduría Social y el incapaz en caso de que pueda manifestar su voluntad por cualquier medio, dictará su resolución declarando o no el estado de interdicción, y en su caso, el grado de la misma, según el sentido que arrojen las constancias y dictámenes. Si hubiere oposición, su (sic) substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere, y durante la tramitación subsistirá la designación de tutor y curador interinos.
+ARTICULO 970 BIS.- Vistos los documentos y dictámenes a que hace referencia el artículo anterior y antes de emitir el fallo, el Juez, deberá sostener hasta tres entrevistas para escuchar al presunto incapaz, en las que se abordarán diversos temas y servirán para evaluar de forma directa su condición. El presunto incapaz, si así lo desea, podrá ser asistido por la persona de confianza que éste designe.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+En las entrevistas el Juez se hará asistir de un médico que certificará que las habilidades cognitivas del presunto incapaz no se encuentren alteradas por causa diversa a la prescripción médica justificada.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
+
+ARTICULO 970 TER.- Hecho lo anterior, dentro de un término que en ningún caso excederá de quince días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor interino, el Agente de la Procuraduría Social y el incapaz en caso de que pueda manifestar su voluntad por cualquier medio, dictará su resolución declarando o no el estado de interdicción, y en su caso, el grado de la misma, según el sentido que arrojen las constancias y dictámenes. Si hubiere oposición, se substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapaz si lo pidiere, y durante la tramitación subsistirá la designación de tutor y curador interinos.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 971.
 
-En todo procedimiento para declarar la interdicción, se observarán las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección y conservación de los bienes de la persona que no pueda gobernarse ni obligarse por sí misma manifestar su voluntad por algún medio y, en caso de que la persona pueda manifestar su voluntad por cualquier medio, la tutela interina será de mera asistencia prevaleciendo siempre la voluntad del incapaz.
-
-Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-II. La incapacidad para gobernarse u obligarse por sí misma o manifestar su voluntad por algún medio puede comprobarse por testigos o documentos; pero en todo caso se requiere certificación de tres dictámenes, sin perjuicio de la prueba pericial que las partes promuevan.
-
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 1990)</small>
-
-III.- El que promueva dolosamente la interdicción incurrirá en las penas que la Ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa hasta por el importe de ciento ochenta días, a favor del erario estatal; y
-
-IV.- Luego que cause ejecutoria la sentencia de interdicción, el Juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
+Derogado.
 
 ###### ARTICULO 971
 
 BIS. (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
 ###### ARTICULO 972.
 
-El procedimiento que tenga por objeto hacer cesar la interdicción o modificar la limitación a la capacidad de ejercicio, se tramitará en vía incidental dentro del mismo juicio en el que se declaró. Para tal efecto se harán llegar al Juez los medios que se estimen pertinentes para justificar la pretensión y se realizará diligencia de reconocimiento en presencia del Tribunal.
+El procedimiento que tenga por objeto hacer cesar la interdicción o modificar la limitación a la capacidad de ejercicio, se tramitará en vía incidental dentro del mismo juicio en el que se declaró. Para tal efecto se harán llegar al Juez los medios que se estimen pertinentes para justificar la pretensión.
 
 ###### ARTICULO 973.
 
 (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
 ###### ARTICULO 974.
 
-Las sentencias que declaren la interdicción deberán establecer el tipo de actos en que el incapaz goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir un representante para otorgarle asistencia. Éstas, las que modifiquen su grado y pongan término a la interdicción, se publicarán por una sola ocasión en el Periódico Oficial “El Estado de Jalisco”, o en el diario de mayor circulación en el Estado.
+Las sentencias que declaren la interdicción deberán establecer el tipo de actos en que el incapaz goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir un representante para otorgarle asistencia.
+
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+
+Los puntos resolutivos de las sentencias en las que modifique el grado o pongan término a la interdicción, se publicarán por una sola ocasión en el Periódico Oficial "El Estado de Jalisco".
 
 Sección 2a.
 
