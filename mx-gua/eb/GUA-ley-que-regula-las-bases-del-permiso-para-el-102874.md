@@ -4,7 +4,7 @@ identifier: "GUA-ley-que-regula-las-bases-del-permiso-para-el-102874"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-17"
-last_updated: "2014-10-17"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY QUE REGULA LAS BASES DEL PERMISO PARA EL ESTABLECIMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de octubre de 2014.
 
@@ -65,7 +65,9 @@ Glosario
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Permiso: acto administrativo personal e intransferible por medio del cual la Secretaría de Desarrollo Económico Sustentable, autoriza el establecimiento en el territorio del estado de los establecimientos cuyo propósito es realizar y ofertar la celebración de contratos de mutuo con interés y garantía prendaria;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+
+I. Permiso: acto administrativo personal e intransferible por medio del cual la Secretaría de Finanzas, Inversión y Administración, autoriza el establecimiento en el territorio del estado de los establecimientos cuyo propósito es realizar y ofertar la celebración de contratos de mutuo con interés y garantía prendaria;
 
 II. Casas de empeño: establecimientos mercantiles que realizan u ofertan al público contratos de mutuo con interés y garantía prendaria;
 
@@ -75,7 +77,9 @@ IV. Procuraduría: la Procuraduría General de Justicia del Estado;
 
 V. Peticionario: persona física o jurídico colectiva que conforme a esta Ley solicite la expedición del permiso, así como el refrendo, modificación o reposición del mismo; y
 
-VI. Secretaría: la Secretaría de Desarrollo Económico Sustentable.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+
+VI. Secretaría: la Secretaría de Finanzas, Inversión y Administración.
 
 Sujetos obligados
 
@@ -111,7 +115,9 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I. El Ejecutivo del Estado;
 
-II. La Secretaría de Desarrollo Económico Sustentable;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+
+II. La Secretaría de Finanzas, Inversión y Administración;
 
 III. La Procuraduría General de Justicia; y
 
@@ -123,11 +129,15 @@ Atribuciones del Titular del Poder Ejecutivo
 
 Corresponde al Titular del Poder Ejecutivo expedir el permiso para el establecimiento en el territorio del estado de las casas de empeño en el Estado de Guanajuato, así como el refrendo, modificación, reposición y cancelación del mismo, actos que realizarán por conducto de la Secretaría.
 
-Atribuciones de la Secretaría de Desarrollo Económico Sustentable
+> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE ABRIL DE 2015)</small>
+
+Atribuciones de la Secretaría de Finanzas, Inversión y Administración
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2015)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Desarrollo Económico Sustentable lo siguiente:
+Corresponde a la Secretaría de Finanzas, Inversión y Administración lo siguiente:
 
 I. Recibir, analizar y resolver sobre las solicitudes de expedición, refrendo, modificación, reposición y cancelación del permiso para la instalación y funcionamiento de casas de empeño;
 
@@ -516,3 +526,15 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El artículo primero del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Transferencia de expedientes a la Secretaría de Finanzas, Inversión y Administración
+
+Artículo Segundo. La Secretaría de Desarrollo Económico Sustentable transferirá a la Secretaría de Finanzas, Inversión y Administración, los expedientes en trámite vinculados con lo establecido en el artículo segundo transitorio del Decreto número 184, mediante el cual se expidió la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios.
