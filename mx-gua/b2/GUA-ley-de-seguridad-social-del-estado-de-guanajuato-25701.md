@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-social-del-estado-de-guanajuato-25701"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-16"
-last_updated: "2013-12-27"
+last_updated: "2015-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de agosto de 2002.
 
@@ -703,6 +703,12 @@ Las dependencias, entidades, organismos autónomos, poderes o municipios que dej
 
 Cuando un pensionista por incapacidad permanente total, invalidez, vejez o jubilación, fallezca, el Instituto otorgará una ayuda para gastos de funeral, equivalente a trescientos noventa días de salario mínimo general vigente en el Estado. Dicho pago se hará a los deudos o a las personas que se hubieren hecho cargo de los gastos mencionados, quienes deberán exhibir copla certificada del acta de defunción y constancias de las erogaciones que hicieron.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2015)</small>
+
+Artículo 70 A.- Los pensionistas tendrán derecho a una prestación adicional equivalente a cinco días de la pensión que disfruten, o a la parte proporcional que corresponda, la cual será pagada en el mes de mayo del ejercicio fiscal inmediato posterior a su determinación.
+
+La parte proporcional se calculará dividiendo el monto correspondiente a los días de la prestación adicional entre los trescientos sesenta y cinco días del año, multiplicando el resultado por el número de días que hayan disfrutado de la pensión durante el año.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REUBICADO [N. DE E. ANTES CAPITULO DECIMO], P.O. 23 DE DICIEMBRE DE 2008)
@@ -1357,7 +1363,7 @@ XIII.- Vigilar y verificar el cumplimiento de las disposiciones de esta Ley;
 
 XIV.- Revisar, y en su caso aprobar, el contenido de los dictámenes financiero y actuarial del Instituto y acordar medidas para su mejor funcionamiento;
 
-XV.- Aprobar la contratación de los servicios de consultoría y asesoría externos, con el objeto de procurar el mejor cumplimiento de las atribuciones del Instituto y valorar el desempeño integral del mismo; y (sic)
+XV.- Aprobar la contratación de los servicios de consultoría y asesoría externos, con el objeto de procurar el mejor cumplimiento de las atribuciones del Instituto y valorar el desempeño integral del mismo; y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1453,9 +1459,9 @@ IV.- Proponer al Consejo Directivo, cuando se estime necesario, la práctica de 
 
 V.- Poner en conocimiento del Consejo Directivo, las irregularidades que observe, para los efectos legales y administrativos que correspondan, para lo cual participará con voz en las reuniones del Consejo Directivo;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
 
-VI. Verificar los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
+VI.- Verificar los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 VII.- Establecer, a través del Consejo Directivo, la coordinación necesaria con las unidades administrativas del Instituto, para el cumplimiento de sus atribuciones, así como con la Coordinación de Auditoría Interna dependiente de la Dirección General del Instituto;
 
@@ -1744,3 +1750,19 @@ Artículo Octavo. Los miembros del nuevo Órgano de Control y Vigilancia serán 
 En la misma fecha del párrafo anterior, la Comisión de Vigilancia hará entrega recepción al Órgano de Control y Vigilancia de los recursos, documentación, bienes y asuntos en trámite a su cargo.
 
 Cualquier referencia en esta Ley y en otros ordenamientos legales a la Comisión de Vigilancia, se entenderá que se refiere al Órgano de Control y Vigilancia.
+
+P.O. 21 DE ABRIL DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La prestación adicional referida en el artículo 70 A, se otorgará en forma progresiva a los pensionistas conforme a lo siguiente:
+
+primer año de vigencia 2015 dos días
+
+segundo año de vigencia 2016 tres días
+
+tercer año de vigencia 2017 cuatro días
+
+cuarto año de vigencia 2018 cinco días
+
+Artículo Tercero. Tendrán derecho a recibir la prestación adicional referida en el artículo 70 A correspondiente a 2015, los pensionistas que hayan disfrutado de una pensión al 31 de diciembre de 2014.
