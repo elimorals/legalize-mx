@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-animales-domesticos-en-el-33057"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-29"
-last_updated: "2013-12-03"
+last_updated: "2015-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 21 DE ABRIL DE 2015; ORDENAMIENTO QUE ENTRARÁ EN VIGOR EL 30 DE MARZO DE 2016.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 29 de julio de 2003.
 
@@ -635,9 +637,7 @@ Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Guanajuato, Gto., a l
 
 EL SECRETARIO DE GOBIERNO
 
-Por ausencia del Gobernador del Estado, con fundamento en el artículo 76 fracción I
-
-de la Constitución Política del Estado de Guanajuato
+Por ausencia del Gobernador del Estado, con fundamento en el artículo 76 fracción I de la Constitución Política del Estado de Guanajuato
 
 LIC. JUAN MANUEL OLIVA RAMÍREZ.
 
@@ -662,3 +662,23 @@ Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los r
 P.O. 3 DE DICIEMBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE ABRIL DE 2015.
+
+Vigencia
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al 30 de marzo de 2016.
+
+Abrogación
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Protección de los Animales Domésticos en el Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado, número 120, Segunda Parte, de fecha 29 de julio de 2003.
+
+Normas Reglamentarias
+
+###### ARTÍCULO TERCERO.
+
+El Estado y los municipios deberán emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley, las disposiciones reglamentarias que hagan efectivo su cumplimiento.
