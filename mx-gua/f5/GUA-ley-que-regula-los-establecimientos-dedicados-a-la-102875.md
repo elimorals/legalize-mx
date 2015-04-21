@@ -4,7 +4,7 @@ identifier: "GUA-ley-que-regula-los-establecimientos-dedicados-a-la-102875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-17"
-last_updated: "2014-10-17"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA COMPRAVENTA O ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES EN DESUSO Y SUS AUTOPARTES, ASÍ COMO EN LOS QUE SE COMERCIALIZAN, MANEJAN O DISPONEN DE METALES PARA RECICLAJE, PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de octubre de 2014.
 
@@ -71,11 +69,15 @@ III. Ley: la Ley que Regula los Establecimientos dedicados a la Compraventa o Ad
 
 IV. Metales reciclados: los objetos de metal usados que son comprados, adquiridos, recolectados o acopiados, con la finalidad de ser reciclados, para su adquisición posterior por el público;
 
-V. Permiso: acto administrativo personal e intransferible por medio del cual la Secretaría de Desarrollo Económico Sustentable, autoriza la instalación y funcionamiento de los establecimientos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+
+V. Permiso: acto administrativo personal e intransferible por medio del cual la Secretaría de Finanzas, Inversión y Administración, autoriza la instalación y funcionamiento de los establecimientos;
 
 VI. Procuraduría: la Procuraduría General de Justicia del Estado;
 
-VII. Secretaría: la Secretaría de Desarrollo Económico Sustentable; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+
+VII. Secretaría: la Secretaría de Finanzas, Inversión y Administración; y
 
 VIII. Vehículos: cualquier tipo de automotores independientemente de su fuente de energía, los remolques, semirremolques y convertidores.
 
@@ -107,7 +109,9 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I. El Ejecutivo del Estado;
 
-II. La Secretaría de Desarrollo Económico Sustentable;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+
+II. La Secretaría de Finanzas, Inversión y Administración;
 
 III. El Instituto de Ecología del Estado;
 
@@ -121,11 +125,15 @@ Atribuciones del Poder Ejecutivo
 
 Corresponde al Titular del Poder Ejecutivo expedir el permiso para la instalación, funcionamiento y operación de los establecimientos, así como el refrendo, modificación, reposición y cancelación del mismo, actos que realizará por conducto de la Secretaría.
 
-Atribuciones de la Secretaría de Desarrollo Económico Sustentable
+> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE ABRIL DE 2015)</small>
+
+Atribuciones de la Secretaría de Finanzas, Inversión y Administración
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2015)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Desarrollo Económico Sustentable lo siguiente:
+Corresponde a la Secretaría de Finanzas, Inversión y Administración lo siguiente:
 
 I. Recibir, analizar y resolver sobre las solicitudes de expedición, refrendo, modificación, reposición y cancelación del permiso para la instalación y funcionamiento de los establecimientos;
 
@@ -529,7 +537,9 @@ Transcurrido el plazo a que se refiere el párrafo que antecede sin que los esta
 
 Plazo para la expedición del reglamento
 
-Artículo Tercero. El Poder Ejecutivo del Estado de conformidad con sus atribuciones, deberá expedir el Reglamento de esta Ley, en un plazo que no exceda de sesenta días hábiles a partir de su entrada en vigencia.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2015)</small>
+
+Artículo Tercero. A partir del cambio de entidad responsable de la operación de la Ley, el Poder Ejecutivo del Estado de conformidad con sus atribuciones, deberá expedir el Reglamento de esta Ley, en un plazo que no exceda de sesenta días hábiles a partir de la entrada en vigencia del presente Decreto.
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 9 DE OCTUBRE DE 2014.- GALO CARRILLO VILLALPANDO.- DIPUTADO PRESIDENTE.- FRANCISCO ARREOLA SÁNCHEZ.- DIPUTADO SECRETARIO.- JUAN CARLOS GUILLÉN HERNÁNDEZ.- DIPUTADO SECRETARIO.- RÚBRICAS.
 
@@ -542,3 +552,15 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El artículo segundo del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Transferencia de expedientes a la Secretaría de Finanzas, Inversión y Administración
+
+Artículo Segundo. La Secretaría de Desarrollo Económico Sustentable transferirá a la Secretaría de Finanzas, Inversión y Administración, los expedientes en trámite vinculados con lo establecido en el artículo segundo transitorio del Decreto número 185, mediante el cual se expidió la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios.
