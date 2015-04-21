@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2014-12-17"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1615,115 +1615,113 @@ XI.- Resolver gubernativamente los asuntos que pongan las Leyes en el ámbito de
 
 XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes para el mejoramiento de las funciones del Poder Público del Estado y solicitar a éste órgano que inicie ante el Congreso de la Unión lo que sea de la competencia federal;
 
-XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
+XIII.- Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
-XIV. Proponer al Congreso del Estado para su estudio y aprobación, en su caso, el nombramiento de Magistrados del Poder Judicial del Estado, con excepción de los Magistrados del Tribunal Electoral, mismos que serán nombrados mediante el procedimiento que para tal efecto se establece en esta Constitución; así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
+XIV.- Proponer al Congreso del Estado para su estudio y aprobación, en su caso, el nombramiento de Magistrados del Poder Judicial del Estado, con excepción de los Magistrados del Tribunal Electoral, mismos que serán nombrados mediante el procedimiento que para tal efecto se establece en esta Constitución; así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
-XV. Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
+XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-XVI. Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
+XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
 
-XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;
+XVII.- Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;
 
 > <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
 
-XVIII. Celebrar, con la aprobación del Congreso del Estado y, posteriormente, del Congreso de la Unión, convenios amistosos con los Estados vecinos en materia de límites;
+XVIII.- Celebrar, con la aprobación del Congreso del Estado y, posteriormente, del Congreso de la Unión, convenios amistosos con los Estados vecinos en materia de límites;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XIX. Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por alguna causa no hubiere Diputación Permanente;
+XIX.- Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por alguna causa no hubiere Diputación Permanente;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XX. Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión;
+XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XXI. Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
+XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2009)</small>
 
-XXII. Designar un consejero de la Judicatura conforme lo establece el primer párrafo de la fracción II del artículo 106 de esta Constitución;
+XXII.- Designar un consejero de la Judicatura conforme lo establece el primer párrafo de la fracción II del artículo 106 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXIII. Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas para su mejor desarrollo y dar cuenta al Congreso, cuando así fuere necesario;
+XXIII.- Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas para su mejor desarrollo y dar cuenta al Congreso, cuando así fuere necesario;
 
-XXIV. Dictar las disposiciones necesarias para combatir los juegos prohibidos;
+XXIV.- Dictar las disposiciones necesarias para combatir los juegos prohibidos;
 
-XXV. Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las leyes;
+XXV.- Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las leyes;
 
-XXVI. Conceder indulto de las penas en los términos y con los requisitos que expresa la ley;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
-
-XXVII. Organizar las Dependencias y Entidades de la Administración Pública Estatal, sin alterar los presupuestos, salvo que lo apruebe el Congreso;
+XXVI.- Conceder indulto de las penas en los términos y con los requisitos que expresa la ley;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXVIII. Sancionar a quienes le falten al respeto o infrinjan los reglamentos gubernativos con arresto o multa, en los términos del Artículo 19 de esta Constitución;
+XXVII.- Organizar las Dependencias y Entidades de la Administración Pública Estatal, sin alterar los presupuestos, salvo que lo apruebe el Congreso;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXVIII.- Sancionar a quienes le falten al respeto o infrinjan los reglamentos gubernativos con arresto o multa, en los términos del Artículo 19 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-XXIX. Representar al Gobierno del Estado en todos los actos inherentes a su cargo. Esta representación podrá delegarla u otorgarla en favor de terceros en los términos más amplios que, para tal efecto, fijen las leyes;
+XXIX.- Representar al Gobierno del Estado en todos los actos inherentes a su cargo. Esta representación podrá delegarla u otorgarla en favor de terceros en los términos más amplios que, para tal efecto, fijen las leyes;
 
-XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito;
+XXX.- Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXI. Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;
+XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;
 
 XXXII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la administración pública estatal en sesión pública, ordinaria y solemne del Congreso que se verificará en la fecha de la segunda quincena de noviembre de cada año que determine el Congreso o la Diputación Permanente;
 
-XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la administración pública estatal en sesión pública, extraordinaria y solemne del Congreso que se verificará en la fecha de la segunda quincena de septiembre de cada año que determine el Congreso o la Diputación Permanente;
-
-XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;
+XXXIV.- Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXV. Conceder licencias a los servidores públicos o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa;
+XXXV.- Conceder licencias a los servidores públicos o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa;
 
-XXXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente;
+XXXVI.- Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente;
 
-XXXVII. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
-
-XXXVIII. Recibir la protesta de Ley a los servidores públicos de nombramiento del Ejecutivo, cuando no estuviere determinada otra cosa en la Ley;
-
-XXXIX. Acordar la expropiación por causas de utilidad pública con los requisitos de ley;
-
-XL. Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para que cuiden del mejoramiento de los distintos ramos de la Administración;
-
-XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí.
+XXXVII.- En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XLII. Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución local o cualquiera otra Ley, o cuando lesionen los intereses municipales;
+XXXVIII.- Recibir la protesta de Ley a los servidores públicos de nombramiento del Ejecutivo, cuando no estuviere determinada otra cosa en la Ley;
+
+XXXIX.- Acordar la expropiación por causas de utilidad pública con los requisitos de ley;
+
+XL.- Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para que cuiden del mejoramiento de los distintos ramos de la Administración;
+
+XLI.- Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución local o cualquiera otra Ley, o cuando lesionen los intereses municipales;
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
-XLIII. Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía;
+XLIII.- Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía;
 
-XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio;
+XLIV.- Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
-XLV. Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva;
+XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
@@ -1781,11 +1779,9 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
-
-Durante la segunda quincena de septiembre de cada año, mediante informe escrito, los titulares de las dependencias de la administración pública estatal darán cuenta al Congreso del estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
+Durante la segunda quincena del mes de noviembre de cada año, mediante informe escrito, los Titulares de las Dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -4286,3 +4282,9 @@ DECRETO NÚMERO LXII-541, POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII, Y SE A
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y hasta la entrada en vigor del Decreto No. LXI-903 mediante el cual se adiciona un párrafo segundo al artículo 44 y se reforman la fracción XXXIII del artículo 91 y el cuarto párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Tamaulipas, publicado en el Periódico Oficial del Estado número 113 de fecha 18 de septiembre del 2013.
