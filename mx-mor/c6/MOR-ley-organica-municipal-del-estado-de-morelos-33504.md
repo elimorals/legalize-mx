@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2015-02-18"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -897,9 +897,9 @@ LI. Autorizar al Presidente Municipal, Síndico y Regidores para ausentarse del 
 
 LII. Analizar y en su caso aprobar la nomenclatura de las calles;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-LIII. Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas, la deserción escolar en el nivel básico y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
+LIII. Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas, la deserción escolar en el nivel básico y toda actividad que implique una conducta antisocial, así como auxiliar y colaborar con las autoridades competentes en estos casos, inclusive cuando se trate de programas estatales o federales;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
 
@@ -2457,11 +2457,15 @@ V. Vigilar la correcta vialidad de personas y vehicular en las calles y caminos;
 
 VI. Auxiliar en los programas de salud, dotación de servicios públicos municipales y vigilancia del correcto mantenimiento de los mismos;
 
-VII. Efectuar programas que tiendan a prevenir el delito y las faltas administrativas; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+VII. Efectuar programas que tiendan a prevenir el delito y las faltas administrativas, así como colaborar y participar coordinadamente con las autoridades competentes en la implementación y ejecución de programas estatales en materia de seguridad pública;
+
+VIII. (DEROGADA, P.O. 22 DE ABRIL DE 2015)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-IX (SIC).- Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres y la familia en el marco de la política integral con perspectiva de género, y
+IX.- Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres y la familia en el marco de la política integral con perspectiva de género, y
 
 X.- Los demás que establezcan las Leyes y sus reglamentos.
 
@@ -2979,7 +2983,7 @@ Ningún ciudadano, vecino de una municipalidad, podrá excusarse de integrar los
 
 ###### Artículo 188.
 
-Los Concejos Municipales a que se refieren los dos artículos anteriores tendrán las mismas facultades y obligaciones que competen a los Ayuntamientos designados en elección popular, así como el mismo número de miembros en concordia lo que establece esta Ley.
+Los Concejos Municipales a que se refieren los dos artículos anteriores tendrán las mismas facultades y obligaciones que competen a los Ayuntamientos designados en elección popular, así como el mismo número de miembros en concordia con lo que establece esta Ley.
 
 ###### Artículo 189.
 
@@ -3620,6 +3624,16 @@ El decreto que al efecto se expida, entrará en vigor al día siguiente de su pu
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
 
 ###### ARTÍCULO CUARTO.
 
