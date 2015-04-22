@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2014-10-08"
+last_updated: "2015-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -302,6 +302,10 @@ III.- Planear, organizar, desarrollar, administrar, supervisar y evaluar los ser
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
 
 IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales y al magisterio estatal. Dentro de éstas propuestas podrá incluirse el tema de fomento a los valores y prevención de las adicciones;
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Asimismo deberán coordinarse con las autoridades competentes, para la implementación de programas de prevención del delito y combate a las adicciones que al efecto se establezcan, en términos de la normativa aplicable;
 
 V.- Establecer un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo del Estado;
 
@@ -1874,3 +1878,13 @@ TERCERO. Para dar cumplimiento al presente Decreto, el Titular del Ejecutivo Est
 CUARTO. Para el cumplimiento de (sic) presente Decreto, el Titular del Ejecutivo Estatal en un término de 90 días hábiles siguientes a su entrada en vigor, expedirá el Reglamento de Alumnas en Situación de Embarazo.
 
 QUINTO. En un término de 120 días hábiles, el Titular del Ejecutivo del Estado, elaborará el Programa para Prevenir y Atender las causas de Ausencia y Deserción Escolar.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
