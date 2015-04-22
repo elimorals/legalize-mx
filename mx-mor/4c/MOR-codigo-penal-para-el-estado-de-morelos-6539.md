@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2015-04-01"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2675,9 +2675,7 @@ Este delito se perseguirá de oficio si del abandono resultare alguna lesión o 
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
-###### ARTICULO 212 Ter.
-
-Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente del comercio sexual de otra persona mayor de edad, sin que constituya trata de personas: A quien cometa este delito se le impondrá una pena de dos a ocho años de prisión y de quinientos a mil días de multa.
+ARTICULO 212 TER.- Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente del comercio sexual de otra persona mayor de edad, sin que constituya trata de personas: A quien cometa este delito se le impondrá una pena de dos a ocho años de prisión y de quinientos a mil días de multa.
 
 La misma sanción se impondrá al que regentee, administre o sostenga directa o indirectamente prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a la prostitución.
 
@@ -2839,9 +2837,7 @@ Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los h
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
-###### ARTICULO 211 Bis.
-
-A quien emplee, aún gratuitamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato, cantinas, tabernas, bares, centros de vicio o lugares en que por su naturaleza sean nocivos para su desarrollo o para su salud, se le aplicará de tres a cinco años de prisión y de doscientos a quinientos días multa.
+ARTICULO 211 BIS.- A quien emplee, aún gratuitamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato, cantinas, tabernas, bares, centros de vicio o lugares en que por su naturaleza sean nocivos para su desarrollo o para su salud, se le aplicará de tres a cinco años de prisión y de doscientos a quinientos días multa.
 
 En caso de reincidencia del sujeto activo, la autoridad jurisdiccional ordenará a la autoridad competente la cancelación de la licencia de funcionamiento y la clausura definitiva del establecimiento, a través del procedimiento administrativo correspondiente.
 
@@ -2849,9 +2845,7 @@ Se aplicará la misma pena a los padres o tutores que acepten que sus hijos o la
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
-###### ARTICULO 211 Ter.
-
-A quien de manera habitual u ocasionalmente permita directa o indirectamente el acceso de una persona menor de dieciocho años o persona que no tengan la capacidad de comprender el significado del hecho, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de tres a cinco años y de doscientos a quinientos días multa.
+ARTICULO 211 TER.- A quien de manera habitual u ocasionalmente permita directa o indirectamente el acceso de una persona menor de dieciocho años o persona que no tengan la capacidad de comprender el significado del hecho, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de tres a cinco años y de doscientos a quinientos días multa.
 
 Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual o pornográfico ante personas menores de dieciocho años o personas que no tengan la capacidad para comprender el significado del hecho.
 
@@ -2861,15 +2855,19 @@ No se considera material de contenido erótico sexual, tratándose de programas 
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
-###### ARTICULO 211 Quater.
-
-Comete el delito de relaciones sexuales remuneradas con personas menores de edad, quien pague u ofrezca dinero o cualquier otro tipo de beneficio, a persona menor de dieciocho años, para obtener para sí o para otro cópula, o realizar actos eróticos o sexuales con ella, independientemente de que la cópula o los actos eróticos o sexuales, se consumen.
+ARTICULO 211 QUATER.- Comete el delito de relaciones sexuales remuneradas con personas menores de edad, quien pague u ofrezca dinero o cualquier otro tipo de beneficio, a persona menor de dieciocho años, para obtener para sí o para otro cópula, o realizar actos eróticos o sexuales con ella, independientemente de que la cópula o los actos eróticos o sexuales, se consumen.
 
 Este delito se actualizará incluso, cuando el dinero o beneficio, se pague u ofrezca a una tercera persona.
 
 A quien cometa el delito de relaciones sexuales remuneradas con personas menores de edad, se le impondrá una pena de tres a seis años de prisión y de mil, a mil quinientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 A la persona que sin ánimo de lucro facilite o encubra cualquiera de las conductas tipificadas como delitos que se incluyen en el presente capítulo, se le aplicará prisión de uno a cuatro años, y de quinientos a mil días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+ARTICULO 211 QUINTUS.- A quien venda bebidas alcohólicas a personas menores de dieciocho años o a personas que no tienen la capacidad para comprender el significado del hecho, se le impondrá una pena de cinco a diez años de prisión y de trescientos a quinientos días multa, así como el decomiso de los productos correspondientes.
+
+La misma pena será aplicable a quien permita el acceso a personas menores de dieciocho años a lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato, cantinas, tabernas, bares, centros de vicio o lugares en que por su naturaleza sean nocivos para su desarrollo o para su salud.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
 
@@ -2897,9 +2895,7 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
-###### ARTICULO 212 Bis.
-
-Las penas que resulten aplicables por los delitos anteriores se aumentarán de conformidad con lo siguiente:
+ARTICULO 212 BIS.- Las penas que resulten aplicables por los delitos anteriores se aumentarán de conformidad con lo siguiente:
 
 l. Hasta en una tercera parte, si el delito es cometido por servidores públicos;
 
@@ -4672,3 +4668,13 @@ P.O. 1 DE ABRIL DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
