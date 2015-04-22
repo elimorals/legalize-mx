@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2012-01-18"
+last_updated: "2015-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -1081,7 +1081,9 @@ Para ser Consejero se requiere:
 
 2. Tener treinta años cumplidos el día de su designación.
 
-3. No haber sido Secretario de Despacho, Procurador General de Justicia, Senador, Diputado Federal o Local, Integrante de Cabildo, dirigente de partido o asociación política, durante el año previo al día de su nombramiento.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+3. No haber sido Secretario de Despacho, Fiscal General del Estado, Senador, Diputado Federal o Local, Integrante de Cabildo, dirigente de partido o asociación política, durante el año previo al día de su nombramiento.
 
 4. No haber sido ministro de culto religioso cuando menos dos años antes de su designación.
 
@@ -1516,3 +1518,9 @@ P.O. 18 DE ENERO DE 2012.
 PRIMERO.- Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
