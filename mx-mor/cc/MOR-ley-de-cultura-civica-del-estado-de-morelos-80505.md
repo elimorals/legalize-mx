@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2014-03-26"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE CULTURA CIVICA DEL ESTADO DE MORELOS
 
-LEY DE CULTURA CIVICA DEL ESTADO DE MORELOS.
+LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -63,7 +63,7 @@ II. La autorregulación, sustentada en la capacidad de los habitantes del estado
 
 III. La prevalencia del diálogo y la conciliación como medios de solución de conflictos;
 
-IV. El sentido de pertenencia a la comunidad y al Estado, y (sic)
+IV. El sentido de pertenencia a la comunidad y al Estado, y
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -143,25 +143,35 @@ IV. Los Jueces Cívicos; y
 
 V. Secretarios de los Juzgados Cívicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 9.
 
-Corresponde al Ejecutivo del Estado:
+Corresponde al Poder Ejecutivo del Estado:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-I. Implementar e impulsar a través de las Secretarías que comprenden la Administración Pública Estatal, las políticas públicas tendientes a la difusión de los valores y principios cívicos, éticos y morales como formas de una cultura cívica y de la legalidad;
+I. Implementar, impulsar y ejecutar, a través de las Secretarías, Dependencias y Entidades que comprenden la Administración Pública Estatal, las políticas públicas y programas tendientes a la difusión y respeto de los valores y principios cívicos, éticos y morales como formas de una cultura cívica y de la legalidad;
 
-II. Promover la difusión de los valores y principios cívicos, éticos y morales como parte de la cultura cívica a través de campañas de información sobre sus objetivos y alcances;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-III. Fomentar en el Estado el conocimiento de los derechos y obligaciones, así como de los valores y principios cívicos, éticos y morales a que todo ser humano tiene derecho como forma y parte de la cultura cívica;
+II. Promover la difusión y respeto de los valores y principios cívicos, éticos y morales como parte de la cultura cívica, a través de campañas de información sobre sus objetivos y alcances y los programas correspondientes;
 
-IV. Incluir en el Colegio Estatal de Seguridad Pública, un programa de formación policial en materia de cultura cívica;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+III. Fomentar en el Estado el conocimiento de los derechos y obligaciones, así como de los valores y principios cívicos, éticos y morales a que todo ser humano tiene derecho como forma y parte de la cultura cívica, así como su debido respeto;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IV. Incluir en el Colegio Estatal de Seguridad Pública, un programa de formación policial en materia de cultura cívica, y
 
 V. Las demás que determine esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 10.
 
-Corresponde al área de seguridad pública municipal, la prevención de la Comisión de infracciones, preservación de la seguridad ciudadana, del orden público y de la tranquilidad de las personas, y contará con las siguientes atribuciones:
+Corresponde a las autoridades en materia de seguridad pública, tanto estatales como municipales, la prevención de la comisión de infracciones y delitos, la preservación de la seguridad ciudadana, del orden público y de la tranquilidad de las personas, y contará con las siguientes atribuciones:
 
 I. Detener y presentar ante el Juez a los probables infractores, en los términos señalados por esta Ley;
 
@@ -169,7 +179,9 @@ II. Ejecutar las órdenes de presentación que se dicten con motivo del procedim
 
 III. Trasladar y custodiar a los infractores a los lugares destinados al cumplimiento de arrestos;
 
-IV. Supervisar y evaluar el desempeño de sus elementos en la aplicación de la presente ley, considerando el intercambio de información con las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IV. Supervisar y evaluar el desempeño de sus elementos en la aplicación de la presente Ley, considerando el intercambio de información con las autoridades correspondientes;
 
 V. Incluir en los programas de formación policial, la materia de Justicia Cívica;
 
@@ -179,7 +191,13 @@ VII. Registrar las detenciones y remisiones de probables infractores realizadas 
 
 VIII. Auxiliar a los Jueces Cívicos en el ejercicio de sus funciones;
 
-IX. Comisionar en cada uno de los turnos de los Juzgados, por lo menos a un policía.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IX. Comisionar en cada uno de los turnos de los Juzgados, por lo menos a un policía; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+X. Implementar y ejecutar programas preventivos relacionados con la comisión de infracciones y delitos, conforme a la normativa aplicable.
 
 ###### Artículo 11.
 
@@ -325,9 +343,9 @@ XII. Resguardar la flora y fauna en áreas verdes, áreas de valor ambiental, á
 
 XIII. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia; y
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-XIV. Colaborar con las autoridades competentes en las acciones y programas que promuevan el mejoramiento de la salud, conservación del medio ambiente y la ecología, así como en las medidas en casos de siniestros y desastres para la prevención y protección civil.
+XIV.- Colaborar con las autoridades competentes en las acciones y programas que promuevan la seguridad ciudadana, la prevención del delito, el mejoramiento de la salud, la conservación del medio ambiente y la ecología, así como en las medidas en casos de siniestros y desastres para la prevención y protección civil.
 
 ## TÍTULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -389,7 +407,9 @@ Para estos efectos, se entenderá que existe causa justificada siempre que la ob
 
 III. Apagar, sin autorización, el alumbrado público o afectar algún elemento del mismo que impida su normal funcionamiento;
 
-IV. Ingerir bebidas alcohólicas en lugares públicos no autorizados o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de tos delitos en que se incurra por la posesión de los estupefacientes, psicotrópicos, enervantes o sustancias toxicas;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IV. Ingerir bebidas alcohólicas en lugares públicos no autorizados o encontrase en notorio estado de ebriedad, alterando el orden público o poniendo en riesgo la seguridad de las personas o sus bienes, así como consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de los delitos en que se incurra.
 
 V. Portar, transportar o usar, sin precaución, objetos o sustancias que por su naturaleza sean peligrosos y sin observar, en su caso, las disposiciones de seguridad correspondientes;
 
@@ -904,3 +924,13 @@ P.O. 26 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
