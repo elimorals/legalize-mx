@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2015-01-02"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -565,11 +565,13 @@ El oficio de designación estará dirigido al Presidente del Consejo Estatal. El
 
 ### Capítulo IV. De la Coordinación Estatal de Protección Civil
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ### Capítulo V. Los Sistemas y Consejos Municipales de Protección Civil
 
 ###### Artículo 33.
 
-La Coordinación Estatal es una dependencia pública centralizada adscrita a la Secretaría General de Gobierno, con Delegaciones Regionales en el interior del Estado y tendrá a su cargo la organización, coordinación y operación del Sistema Estatal; sus acciones se apoyarán en la presente Ley, su Reglamento y demás normas aplicables; siendo un órgano con ámbito competencial en toda la entidad con facultades normativas, ejecutivas y de coordinación en materia de prevención de riesgos de desastres y protección civil.
+Se crea la Coordinación Estatal de Protección Civil de Oaxaca, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría General de Gobierno, con domicilio en la Ciudad de Oaxaca de Juárez y Delegaciones Regionales en el interior del Estado; tendrá a su cargo la organización, coordinación y operación del Sistema Estatal de Protección Civil; sus acciones se apoyarán en la presente Ley, su Reglamento y demás normas aplicables; siendo una entidad paraestatal con ámbito competencial en todo el Estado con facultades normativas, ejecutivas y de coordinación en materia de prevención de riesgos, de desastres y protección civil.
 
 ###### Artículo 34.
 
@@ -1498,3 +1500,19 @@ Tlalixtac de Cabrera, Centro, Oax., 24 de diciembre del 2014.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Cuando en diversas disposiciones legales, se haga referencia a:
+
+La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura (SEDAFPA), se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA).
+
+El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por la dependencia que por virtud de esta Ley cambian de denominación, se entenderán subrogadas y contraídas por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
