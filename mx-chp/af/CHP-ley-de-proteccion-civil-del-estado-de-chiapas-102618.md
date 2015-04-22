@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-civil-del-estado-de-chiapas-102618"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-18"
-last_updated: "2014-09-18"
+last_updated: "2015-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 18 de septiembre de 2014.
 
@@ -863,15 +863,25 @@ Las Unidades Internas de las dependencias y entidades de la administración púb
 
 Los establecimientos que por sus características específicas o por el manejo de materiales peligrosos, representen un riesgo de daños graves para la población pudiendo ocasionar una emergencia, están obligados en adoptar todas las medidas de seguridad necesarias, a fin de evitar que ésta ocurra, de conformidad con la legislación y normas técnicas aplicables. Además de cumplir con las disposiciones contenidas en los artículos anteriores, las empresas clasificadas por las autoridades normativas estatales y federales como de riesgo y alto riesgo, están sujetos (sic) a contar con póliza de seguros de cobertura amplia de responsabilidad civil y daños a terceros que ampare la eventualidad de un siniestro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 70.
 
-Los organizadores de proselitismo político o de espectáculos de afluencia masiva, para su autorización, están obligados a contar con programas internos de protección civil que se presentarán para su evaluación, ante la Secretaría y la Unidad Municipal que corresponda, por lo menos con 30 días antes del inicio del espectáculo.
+Los organizadores de proselitismo político, de espectáculos de afluencia masiva, así como de carreras y arrancones con vehículos de motor, para su autorización están obligados a contar con programas internos de protección civil, los cuales presentaran para su evaluación, ante la Secretaría y la Unidad Municipal que corresponda, por lo menos con 30 días antes del inicio del espectáculo, para garantizar la seguridad de las personas asistentes.
 
 En este sentido, las autoridades Estatales o Municipales, responsables de emitir las autorizaciones, permisos o licencias para este tipo de eventos, están sujetas a que estos organizadores, cumplan con lo establecido en el párrafo anterior.
 
 ###### Artículo 71.
 
 Es obligación de todas aquellas personas físicas o morales, que lleven a cabo la realización de eventos o espectáculos de concentración masiva y con fines de lucro o partidistas, garantizar la seguridad de las personas asistentes, mediante personal capacitado en materia de protección civil.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 71 Bis.
+
+A fin de garantizar la seguridad e integridad de las personas, se prohíbe la realización de carreras y arrancones con vehículos de motor en vías públicas, para lo cual la Secretaría llevará a cabo las medidas necesarias con el objeto de clausurar el desarrollo de dichos eventos, y en caso de una probable comisión de delitos presentará la denuncia a que haya lugar ante las autoridades correspondientes.
+
+Con excepción de aquellos que se lleven a cabo en los autódromos y lugares legalmente establecidos para tal fin y que no representen riesgo alguno a la población, para lo cual los organizadores de éstos cumplirán con las condiciones, requisitos y medidas de seguridad que para tal efecto establezcan las disposiciones legales aplicables.
 
 ###### Artículo 72.
 
@@ -1058,6 +1068,10 @@ VIII. Los concesionarios de espectaculares que pongan en riesgo a la ciudadanía
 IX. Los propietarios, poseedores, administradores o encargados de los establecimientos de autopartes o deshuesaderos que no observen las medidas de seguridad en materia de protección civil, respecto del manejo de residuos o sustancias peligrosas que contengan los vehículos almacenados en su establecimiento.
 
 X. Los propietarios, poseedores, administradores o encargados de los establecimientos de grúas, que no observen las disposiciones en materia de protección Civil, en el manejo de los vehículos accidentados.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XI. Los organizadores que realicen eventos de carreras y arrancones con vehículos de motor en vías públicas.
 
 ###### Artículo 91.
 
@@ -1640,3 +1654,15 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 18 días del mes de septiembre del año dos mil catorce.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ABRIL DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los Ayuntamientos deberán en un término no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente ordenamiento, adecuar su normatividad correspondiente para el debido cumplimiento de las disposiciones del presente Decreto.
+
+Artículo Cuarto.- Las dependencias que en el ámbito de sus atribuciones les competa llevar a cabo las disposiciones del presente ordenamiento, coadyuvaran en las acciones que resulten necesarias para el debido cumplimento del presente Decreto.
