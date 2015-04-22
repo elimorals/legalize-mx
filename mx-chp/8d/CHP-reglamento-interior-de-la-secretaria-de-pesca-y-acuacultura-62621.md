@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-pesca-y-acuacultura-626
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-06"
-last_updated: "2008-08-06"
+last_updated: "2015-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del estado de Chiapas, el miércoles 6 de agosto de 2008.
 
@@ -115,9 +115,11 @@ Dirección de Capacitación y Asistencia Técnica Pesquera.
 
 Dirección de Fomento Pesquero.
 
-V. Órganos Desconcentrados.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-Delegación Regional Sede Revolución Mexicana, Villacorzo.
+V. Delegaciones Regionales
+
+Delegación Regional Sede Revolución Mexicana, Villa Corzo.
 
 Delegación Regional Sede Tapachula.
 
@@ -950,3 +952,13 @@ Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la 
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de junio de dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Plácido Humberto Morales Vázquez, Secretario de Pesca y Acuacultura.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ABRIL DE 2015.
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Decreto, y se opongan al mismo.
+
+Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial.
