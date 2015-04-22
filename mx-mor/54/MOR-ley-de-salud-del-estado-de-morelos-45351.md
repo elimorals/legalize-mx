@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2015-04-01"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -91,7 +91,9 @@ VIII.- La información relativa a las condiciones, recursos y servicios de salud
 
 IX.- La promoción y la educación para la salud;
 
-X.- La orientación y vigilancia en materia de nutrición;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+X.- La orientación y vigilancia en materia de nutrición, sobrepeso y obesidad;
 
 XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud de las personas;
 
@@ -105,7 +107,9 @@ XV.- La prevención de invalidez y la rehabilitación de las personas con discap
 
 XVI.- La asistencia social;
 
-XVII.- La realización y vigilancia de programas contra el alcoholismo el tabaquismo y la Fármaco dependencia;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XVII.- Participar de manera coordinada en la elaboración, expedición, implementación y ejecución de programas de prevención y tratamiento contra el abuso en el consumo del alcohol, el tabaquismo, la fármaco dependencia y sus consecuencias;
 
 XVIII.- La verificación y el control sanitario de los establecimientos que intervengan en cualquiera de las etapas del proceso de alimentos y bebidas no alcohólicas, y alcohólicas, adicionadas o acondicionados, para consumo dentro y fuera del mismo establecimiento, basándose en las Normas Oficiales Mexicanas que al efecto se emitan;
 
@@ -161,7 +165,9 @@ I.- Construcciones, excepto las de los establecimientos de salud;
 
 II.- Cementerios;
 
-III.- Limpieza pública;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+III.- Limpieza públicay (sic) predios ociosos;
 
 IV.- Sexo servicio;
 
@@ -413,11 +419,15 @@ IV.- La persona Titular de la Delegación Estatal del Instituto Mexicano del Seg
 
 V.- La persona Titular de la Delegación Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado;
 
-VI.- La persona Titular de la Dirección General del Organismo Descentralizado Hospital del Niño Morelense;
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-VII.- La persona Titular del Organismo Descentralizado Comisión Estatal de Arbitraje Médico, y
+VI.- Un representante de la Comisión de Salud del Congreso del Estado de Morelos, que será quien presida la misma;
 
-VIII.- La persona Titular de la Dirección General del Organismo Descentralizado Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
+VII.- La persona titular de la Dirección General del Organismo Descentralizado Hospital del Niño Morelense;
+
+VIII.- La persona titular del Organismo Descentralizado Comisión Estatal de Arbitraje Médico, y
+
+IX.- La persona titular de la Dirección General del Organismo Descentralizado Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
 
 Los miembros señalados en las fracciones IV y V en su calidad de autoridades de la Federación, serán invitados en el Consejo, pero contarán con voz y voto.
 
@@ -527,7 +537,7 @@ VII.- Las demás atribuciones que establezcan esta Ley y otras disposiciones leg
 
 ###### Artículo 25.
 
-El Ejecutivo Estatal podrá convenir con los Ayuntamientos, la desconcentración o descentralización por parte de éstos, de la prestación de los servicios de salubridad general y de salubridad local cuando su desarrollo económico y social lo haga posible, solicitando en su caso la asesoría de la Secretaría de Salud del Gobierno Federal, así como para ejercer aquellas que siendo competencia de los H. Ayuntamientos no pudiesen ejercer por sí mismos.
+El Ejecutivo Estatal podrá convenir con los Ayuntamientos, la desconcentración o descentralización por parte de estos, de la prestación de los servicios de salubridad general y de salubridad local cuando su desarrollo económico y social lo haga posible, solicitando en su caso la asesoría de la Secretaría de Salud del Gobierno Federal, así como para ejercer aquellas que siendo competencia de los H. Ayuntamientos no pudiesen ejercer por sí mismos.
 
 ###### Artículo 26.
 
@@ -635,7 +645,9 @@ VIII.- La prevención y el control de las enfermedades buco dentales;
 
 IX.- La dotación total de un cuadro básico de los servicios de salud, conforme a los niveles de atención médica;
 
-X.- La promoción del mejoramiento de la nutrición;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+X.- La promoción del mejoramiento de la nutrición, sobrepeso y obesidad;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -662,6 +674,24 @@ Es atribución del Ejecutivo del Estado:
 I.- Que se garantice a la población del Estado la dotación total de medicamentos básicos; y
 
 II.- Que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 39 Bis.
+
+Los profesionales que podrán prescribir medicamentos son:
+
+I. Médicos;
+
+II. Homeópatas;
+
+III. Cirujanos Dentistas;
+
+IV. Médicos Veterinarios en el área de su competencia, y
+
+V. Licenciados en Enfermería, quienes únicamente podrán prescribir, cuando no se cuente con los servicios de un médico, aquellos medicamentos del cuadro básico que determine la Secretaría de Salud del Gobierno Federal.
+
+Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros, podrán prescribir medicamentos, cuando se ajusten a las especificaciones que determine la Secretaría de Salud del Gobierno Federal.
 
 ### CAPÍTULO II. ATENCIÓN MÉDICA
 
@@ -1209,9 +1239,11 @@ En tanto exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en 
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares a que se refiere éste Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional, iguales menciones deberán consignarse en los documentos y papeles que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 93.
 
-Los Servicios de Salud en Morelos procurarán que en los Centros de Salud de las comunidades indígenas, si se requiere, cuenten con personal que conozca la lengua que se practique en ellas.
+Los Servicios de Salud de Morelos procurarán que en los Centros de Salud de las comunidades indígenas, si se requiere, cuenten con personal que conozca la lengua que se practique en ellas.
 
 ### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
@@ -1379,7 +1411,9 @@ La promoción de la salud comprende:
 
 I.- Educación para la salud;
 
-II.- Nutrición;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+II.- Nutrición, sobrepeso y obesidad;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -1399,13 +1433,13 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-III.- Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tienen la violencia familiar, la violencia contra las mujeres y el maltrato de menores.
+III.- Orientar y capacitar a la población, preferentemente, en materia de nutrición, sobrepeso y obesidad; salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes y primeros auxilios, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tiene la violencia familiar, la violencia contra las mujeres y el maltrato de menores.
 
 ###### Artículo 111.
 
-Las autoridades sanitaria estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+Las autoridades sanitarias estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
@@ -1437,9 +1471,11 @@ En estos establecimientos también se deberá proporcionar, de manera obligatori
 
 Por el cumplimiento a estas disposiciones, la Secretaría de Salud del Estado, podrá otorgar la certificación "Empresa Saludablemente Responsable", por lo que promoverá e incentivará la obtención de dicha certificación entre las empresas dedicadas a la venta de alimentos preparados, además de que habrá de difundir entre la población cuáles empresas han sido certificadas.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 114.
 
-Los apoyos nutricionales que proporcionen las dependencias y Entidades de la administración pública estatal, serán entregados a los beneficiarios previa valoración del estado nutricional que realicen los Servicios de Salud en el Estado.
+Los apoyos nutricionales que proporcionen las dependencias y Entidades de la Administración Pública Estatal, serán entregados a los beneficiarios, previa valoración del estado nutricional que realicen los Servicios de Salud de Morelos, debiendo en todo caso considerar que les aporten un porcentaje equilibrado de los requerimientos nutricional es (sic) propios del sector de población de que se trate.
 
 ###### Artículo 115.
 
@@ -1447,7 +1483,9 @@ La Secretaría de Salud tendrá a su cargo:
 
 I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
 
-II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, así como combatir el sobrepeso y obesidad, preferentemente en los grupos sociales más vulnerables;
 
 III.- Normar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
 
@@ -1467,23 +1505,23 @@ VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros bá
 
 El Gobierno del Estado coadyuvará, a través de los Servicios Salud (sic) de Morelos, con las Entidades Públicas Estatales y Federales responsables de brindar servicios de salud, para establecer medidas tendientes a controlar el sobrepeso y la obesidad, con el objeto de prevenir la Diabetes.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 115 Ter.
 
-Se establece la Comisión Interinstitucional de Prevención contra la Diabetes, que tendrá por objeto coordinar, difundir, orientar y ejecutar acciones para prevenir la diabetes, lo que podrá desarrollarse en coordinación con otras dependencias o entidades de la Administración Pública Estatal o Federal, así como con el sector privado y social.
+Se establece la Comisión Interinstitucional de Prevención de Sobrepeso, Obesidad y Diabetes, en adelante la Comisión, que tendrá por objeto coordinar, difundir, orientar y ejecutar acciones para prevenir el sobrepeso, la obesidad y la diabetes, lo que podrá desarrollarse en coordinación con otras dependencias o entidades de la Administración Pública Estatal o Federal, así como con el sector privado y social.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
-###### Artículo 115 Quater.
+###### Artículo 115 Quáter.
 
-La Comisión Interinstitucional de Prevención contra la Diabetes se integrará por:
+La Comisión se integrará por:
 
 I. La persona titular de la Secretaría de Salud del Gobierno del Estado de Morelos, en carácter de Presidente;
 
 II. La persona titular del Organismo Descentralizado denominado Servicios de Salud de Morelos;
 
-III. La persona titular del Instituto de la Educación Básica del Estado de Morelos,
+III. La persona titular del Instituto de la Educación Básica del Estado de Morelos;
 
 IV. La persona titular del Instituto del Deporte y Cultura Física del Estado de Morelos;
 
@@ -1497,45 +1535,61 @@ VIII. La persona titular del Hospital del Niño Morelense;
 
 IX. Un representante de la Universidad Autónoma del Estado de Morelos;
 
-X. Un representante de la Delegación en Morelos del Instituto Mexicano del Seguro Social;
+X. Un representante del Congreso del Estado de Morelos, que será quien presida la Comisión de Salud;
 
-XI. Un representante de la Delegación en Morelos del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+XI. Un representante de la Delegación en Morelos del Instituto Mexicano del Seguro Social;
 
-XII. Un representante de la Delegación en Morelos del Instituto Nacional de las Personas Adultas Mayores, y
+XII. Un representante de la Delegación en Morelos del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XIII. Un representante del Instituto Nacional de Salud Pública.
+XIII. Un representante de la Delegación en Morelos del Instituto Nacional de las Personas Adultas Mayores, y
 
-Los miembros de la Comisión contarán con derecho a voz y voto, con excepción de los referidos en las anteriores fracciones X a XIII, quienes tendrán la calidad de invitados, por lo que contarán únicamente con derecho a voz y no a voto.
+XIV. Un representante del Instituto Nacional de Salud Pública.
 
-El cargo de integrante de la Comisión Interinstitucional de Prevención contra la Diabetes será de carácter honorífico.
+Los miembros de la Comisión contarán con derecho a voz y voto, con excepción de los referidos en las anteriores fracciones XI a XIV, quienes tendrán la calidad de invitados, por lo que contarán únicamente con derecho a voz y no a voto.
 
-A las reuniones de la referida Comisión podrán asistir representantes de las asociaciones médicas relacionadas con el tema de la diabetes, quienes contarán con voz pero no tendrán voto.
+El cargo de integrante de la Comisión será de carácter honorífico, por lo que no recibirán remuneración o emolumento alguno para su función.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+A las reuniones de la Comisión podrán asistir como invitados representantes de las asociaciones médicas relacionadas con los temas de sobrepeso, obesidad y diabetes, quienes contarán con voz, pero no tendrán voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 115 Quinquies.
 
-La Comisión Interinstitucional de Prevención contra la Diabetes se reunirá, por lo menos, cada mes y tendrá las siguientes atribuciones:
+La Comisión se reunirá, por lo menos, seis veces al año y tendrá las siguientes atribuciones:
 
-I. Establecer mecanismos de comunicación e información a la comunidad, para la prevención de la diabetes, en establecimientos y espacios públicos;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+I. Establecer mecanismos de comunicación e información a la comunidad, para la prevención del sobrepeso, la obesidad y la diabetes, en establecimientos y espacios públicos;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 II. Elaborar un Programa para prevenir la diabetes, sobre todo con acciones que combatan el sobrepeso y la obesidad, enfocadas principalmente al nivel de educación básica, para promover la salud de la población infantil;
 
-III. Instrumentar caravanas itinerantes en los Municipios del Estado, en favor de la salud, con especial énfasis en la prevención de la diabetes;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-IV. Implementar un sistema de difusión e información para dar a conocer las políticas públicas que coadyuven a contrarrestar la diabetes;
+III. Instrumentar caravanas itinerantes en los Municipios del Estado, en favor de la salud, con especial énfasis en la prevención del sobrepeso, la obesidad y la diabetes;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IV. Implementar un sistema de difusión e información para dar a conocer las políticas públicas que coadyuven a contrarrestar el sobrepeso, la obesidad y la diabetes;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 V. Organizar conferencias, cursos y asesorías con la finalidad de informar acerca de la obesidad y sobrepeso, a fin de prevenir la diabetes;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 VI. Impulsar la participación de la ciudadanía y del sector social para coadyuvar en las acciones de la Comisión, e
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 VII. Informar a la persona titular del Poder Ejecutivo Estatal, de manera trimestral, las acciones y resultados de los programas o actividades que se realicen.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 115 Sexies.
 
-Corresponde a la persona titular de la Secretaría de Salud, en su carácter de Presidente de la Comisión Interinstitucional de Prevención contra la Diabetes, convocar a las sesiones de la misma.
+Corresponde a la persona titular de la Secretaría, en su carácter de Presidente de la Comisión, convocar a las sesiones de la misma.
 
 ### CAPÍTULO V. SALUD OCUPACIONAL
 
@@ -1579,7 +1633,7 @@ Las Dependencias Federales se coordinarán con la Secretaría de Salud de Morelo
 
 ###### Artículo 119.
 
-Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ###### Artículo 120.
 
@@ -1635,7 +1689,7 @@ III.- Promoverá la participación de los sectores público y privado del Estado
 
 ###### Artículo 127.
 
-Las Autoridades Sanitarias del Estado elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades o infecciones transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
+Las Autoridades Sanitarias del Estado, elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades o infecciones transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -1677,7 +1731,9 @@ XIV.- Las demás que determinen el Consejo de Salubridad General y los Tratados 
 
 Las personas que viven con enfermedades transmisibles, gozarán de igual protección ante la Ley en lo que respecta al acceso a la atención sanitaria y a la protección de la salud.
 
-Los Servicios de Salud en Morelos, establecerán por todos los medios a su alcance, los mecanismos de seguridad de las transfusiones y los productos sanguíneos que proporcione y vigilar que estos se apliquen y vigilar su aplicación.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Los Servicios de Salud de Morelos, establecerán por todos los medios a su alcance, los mecanismos de seguridad de las transfusiones y los productos sanguíneos que proporcione y vigilar su aplicación.
 
 Asimismo, en coordinación con los grupos y organizaciones interesadas, promoverán la realización de actividades específicas para reducir los riesgos de transmisión de enfermedades transmisibles y apoyar la coordinación de las redes formadas por las personas que viven con VIH-SIDA y los movimientos asociativos vinculados con estos, permitiendo su plena y total participación en la respuesta común a la pandemia, en todos los niveles.
 
@@ -1723,6 +1779,44 @@ VII.- La inspección de pasajeros que puedan ser portadores de gérmenes así co
 
 VIII.- Las demás que determine esta Ley, su reglamento y la Secretaría de Salud del Gobierno Federal.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 132 Bis.
+
+Las autoridades sanitarias, en sus respectivos ámbitos de competencia, implementarán una estrategia integral de prevención y control del dengue que incluya:
+
+I. Desarrollar una campaña sistemática y permanente para la eliminación de criaderos del vector;
+
+II. Disponer de personal idóneo para la integración del equipo de trabajo de la campaña a que se refiere la fracción inmediata anterior, de acuerdo con las normas oficiales mexicanas en la materia;
+
+III. Realizar visitas o verificaciones sanitarias;
+
+IV. Efectuar la vigilancia epidemiológica, que podrá incluir el uso de un sistema informático que permita ponderar los estudios de ser o prevalencia en la población, monitoreando de manera periódica la presencia del vector, a efecto de implementar técnicas y el procedimiento de análisis de la magnitud de las patologías bajo emergencia, determinando los factores de influencia;
+
+V. Analizar la información recabada, a través del monitoreo periódico, a fin de precisar el procedimiento ante el laboratorio, que permita el manejo adecuado, eficiente y seguro de las técnicas diagnósticas de dengue, incluyendo también aspectos técnico-administrativos y demás actividades relacionadas;
+
+VI. Fomentar la promoción de la salud;
+
+VII. Incentivar la participación ciudadana con base en la corresponsabilidad;
+
+VIII. Evaluar los casos aislados para el reconocimiento temprano del dengue, manejo de casos graves de dengue complicado y capacidad de transmitir ese conocimiento a todo el personal del equipo de salud, y
+
+IX. Coordinar acciones con la Secretaría de Educación, a efecto de llevar a cabo actividades didácticas de participación para la comunidad educativa, relacionadas con la prevención y abordaje de la patología en establecimientos escolares y en los domicilios del alumnado, que impulsen campañas de hogares libres de dengue.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 132 Ter.
+
+Los propietarios, inquilinos o poseedores, por cualquier título, de algún inmueble en el Estado de Morelos, deberán adoptar medidas preventivas y correctivas para evitar la propagación de vectores, procediendo a cumplir de inmediato con las siguientes disposiciones:
+
+I. Eliminar los recipientes naturales o artificiales que existan en el interior y alrededor del inmueble, en los que pudiera almacenarse agua, a fin de evitar que sean una fuente para el criadero de vectores;
+
+II. Cubrir los recipientes o contenedores utilizados para almacenar agua para el uso doméstico o de consumo;
+
+III. Drenar las aguas estancadas en patios, jardines y todo espacio del inmueble, así como limpiar los canales de techo, cunetas y de desagüe, y
+
+IV. Permitir el ingreso a sus viviendas a los verificadores sanitarios acreditados.
+
 ###### Artículo 133.
 
 Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, esta Ley, las que expide el Consejo de Salubridad General y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud del Gobierno Federal.
@@ -1734,6 +1828,14 @@ Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de 
 ###### Artículo 135.
 
 Los trabajadores de salud, del Gobierno del Estado y de los municipios, así como los de otras instituciones autorizadas por las autoridades sanitarias Estatales, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de las actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+En el supuesto de que el establecimiento a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, la autoridad sanitaria competente, previa autorización judicial, tendrá libre acceso para llevar a cabo las acciones sanitarias necesarias para corregir las anomalías existentes o detectadas en el establecimiento, mismas que se harán con cargo al propietario.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Una vez realizada la visita o verificación sanitaria por la autoridad competente, se colocará de manera visible en el exterior del bien inmueble la tarjeta de verificación con la fecha de inspección. La tarjeta tendrá una vigencia, por lo cual se podrán volver a supervisar los inmuebles.
 
 ###### Artículo 136.
 
@@ -1793,6 +1895,8 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 Para los efectos de esta Ley se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 146.
 
 Las acciones en materia de prevención y control de accidentes comprenden:
@@ -1803,13 +1907,17 @@ II.- La adopción de medidas para prevenir accidentes;
 
 III.- El desarrollo de la investigación para la prevención de los mismos;
 
-IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
+IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes y en materia de primeros auxilios;
 
-V.- La atención de los padecimientos que se produzcan como consecuencia de accidentes; y
+V.- La atención de los padecimientos que se produzcan como consecuencia de accidentes;
 
-VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
+VI.- La promoción de la participación de la comunidad en la prevención de accidentes; y la capacitación sobre primeros auxilios orientada a los docentes de educación preescolar y primaria, y
 
-Estas acciones serán coordinadas por los Servicios de Salud de Morelos conjuntamente con el Consejo Estatal para la Prevención de Accidentes. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes y dentro de los marcos de los Sistemas Nacional y Estatal de Salud.
+VII.- Colaborar y participar en la implementación y ejecución de los programas necesarios para prevenir enfermedades, discapacidades, accidentes y comisión de hechos delictivos relacionados con el abuso de bebidas alcohólicas;
+
+Las acciones comprendidas en las fracciones anteriores, con excepción de la VII, serán coordinadas por los Servicios de Salud de Morelos conjuntamente con el Consejo Estatal para la Prevención de Accidentes. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes y dentro de los marcos de los Sistemas Nacional y Estatal de Salud.
+
+Por otra parte, las acciones a que se refieren (sic) la fracción VII, se coordinarán entre las autoridades sanitarias del sector salud y la Secretaría de Gobierno, a través de la Comisión Estatal de Seguridad Pública.
 
 ### CAPÍTULO ÚNICO
 
@@ -1848,6 +1956,8 @@ IV.- La atención a la salud de los damnificados en albergues será a través de
 ## TÍTULO NOVENO. ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES Y REHABILITACIÓN DE DISCAPACITADOS
 
 ### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 152.
 
@@ -1937,17 +2047,23 @@ El Sistema para el Desarrollo Integral de la Familia, tendrá entre sus objetivo
 
 ###### Artículo 165.
 
-Las autoridades sanitarias Estatales deberán coordinar la ejecución, del programa contra el alcoholismo y el abuso de bebidas alcohólicas, que comprenda entre otras, las siguientes acciones:
+Las autoridades sanitarias estatales deberán coordinar la ejecución del programa contra el alcoholismo y el consumo inmoderado de bebidas alcohólicas, que comprenda entre otras, las siguientes acciones:
 
-I.- La prevención y el tratamiento de alcoholismo, y en su caso, la rehabilitación del alcohólico;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+I.- La prevención y el tratamiento de alcoholismo y en su caso, la rehabilitación del alcohólico;
 
-II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales dirigida a toda la población, y especialmente a la niñez, los adolescentes y mujeres gestantes, a través de métodos individuales, sociales o de comunicación masiva; y
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+II.- La prevención de conductas delictivas en el Estado, en especial y entre otras, aquellas derivadas de la conducción de automotores en estado de ebriedad en términos de la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+III.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales dirigida a toda la población, y especialmente a la niñez, los adolescentes y mujeres gestantes, a través de métodos individuales, sociales o de comunicación masiva, y
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-III.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en el grupo etario de 10 a 19 años, así como los considerados de alto riesgo.
+IV.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en el grupo etario de 10 a 19 años, así como los considerados de alto riesgo.
 
 ###### Artículo 166.
 
@@ -2061,7 +2177,7 @@ III.- Brindarán la atención médica que se requiera, a las personas que realic
 
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes.
 
-A los establecimientos que vendan o utilicen sustancias inhalantes con efectos sicotrópicos que no se ajusten al control que disponga el Gobierno Federal, del Estado y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
+A los establecimientos que vendan o utilicen sustancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga el Gobierno Federal, del Estado y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS ESTABLECIMIENTOS DEDICADOS A PROCESO DE ALIMENTOS, BEBIDAS ALCOHÓLICAS Y NO ALCOHÓLICAS
 
@@ -2407,7 +2523,7 @@ El o la cónyuge, el concubino, la concubina, los descendientes, los ascendiente
 
 ###### Artículo 215.
 
-En el Estado de Morelos lo cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración apegándose estrictamente a lo marcado en el Capítulo V del Título Décimo Cuarto de la Ley General de Salud.
+En el Estado de Morelos los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración apegándose estrictamente a lo marcado en el Capítulo V del Título Décimo Cuarto de la Ley General de Salud.
 
 ###### Artículo 216.
 
@@ -2439,17 +2555,19 @@ Se entenderá por norma, el conjunto de reglas científicas o tecnológicas de c
 
 Por reglamento se entenderá al ordenamiento de carácter general que expidan las autoridades administrativas, respecto de las disposiciones de esta Ley.
 
-Por disposiciones legales se entenderá (sic) las que emita la autoridad administrativa con el fin de dar cumplimiento a los ordenamientos contenidos en esta Ley y sus reglamentarias.
+Por disposiciones legales se entenderá las que emita la autoridad administrativa con el fin de dar cumplimiento a los ordenamientos contenidos en esta Ley y sus reglamentarias.
 
 ###### Artículo 222.
 
 Los establecimientos que señala el Artículo 3º apartado B y C de esta Ley no requieren de autorización sanitaria, pero quedan sujetos al control sanitario, así como al cumplimiento de los requisitos establecidos en las disposiciones reglamentarias y normas que en materia de salubridad local se expidan.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 223.
 
-Los establecimientos a que se refiere el presente Título, para su funcionamiento, deberán presentar dentro de los 10 días posteriores al inicio de operaciones, el aviso de funcionamiento por escrito a los Servicios de Salud de Morelos o los H. Ayuntamientos, según sus respectivos ámbitos de competencia, de acuerdo a los lineamientos establecidos por la autoridad sanitaria Estatal.
+Los establecimientos a que se refiere el presente Título, para su funcionamiento, deberán presentar por lo menos treinta días antes de aquel en que se pretendan iniciar operaciones, el aviso de funcionamiento por escrito a los Servicios de Salud de Morelos o a los H. Ayuntamientos, según sus respectivos ámbitos de competencia, de acuerdo con los lineamientos establecidos por la autoridad sanitaria estatal.
 
-Los Servicios de Salud en Morelos o los H. Ayuntamientos, a petición de parte, prestarán el servicio de visita previa para la orientación sanitaria que se requiera.
+Los Servicios de Salud de Morelos o los H. Ayuntamientos, a petición de parte, prestarán el servicio de visita previa para la orientación sanitaria que se requiera.
 
 ###### Artículo 224.
 
@@ -2711,6 +2829,10 @@ La autoridad sanitaria Municipal verificará el establecimiento, funcionamiento 
 
 Para los efectos de esta Ley se entiende por limpieza pública la recolección, manejo, disposición y tratamiento de residuos sólidos, a cargo de los H. Ayuntamientos, los que estarán obligados a prestar este servicio de manera regular y eficiente con apego a las normas correspondientes.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Se entenderá por predio ocioso el que reúna tal carácter conforme a la Ley de Catastro Municipal para el Estado de Morelos.
+
 ###### Artículo 276.
 
 Así mismo, para efectos de la presente Ley, se entenderá por residuo sólido, el material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control, tratamiento, de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó, y que provenga de actividades que se desarrollen en los domicilios, establecimientos mercantiles o de servicios y las vías públicas, con apego a las normas correspondientes.
@@ -2736,6 +2858,18 @@ Las autoridades Municipales fijarán lugares especiales para depositar la basura
 ###### Artículo 279.
 
 Los H. Ayuntamientos, y en su caso el Gobierno del Estado, proveerán de depósitos de basura a los parques, jardines, paseos públicos y otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica de los mismos; asimismo, fijarán lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de prevención de la contaminación ambiental.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 279 Bis.
+
+Los propietarios de predios ociosos deberán:
+
+I. Conservar libres de moscos sus albercas, cisternas o estanques;
+
+II. Mantener tales predios libres de maleza, hierba, basura o cualquier escombro que ponga en peligro la higiene o salubridad de quienes colindan con dicho inmueble, y
+
+III. Mantener de forma permanente en buen estado de conservación y limpieza estos inmuebles.
 
 ###### Artículo 280.
 
@@ -2763,7 +2897,9 @@ III.- Otorgar la autorización sanitaria a los sujetos previo examen médico int
 
 IV.- Aplicar medidas de seguridad para el debido control sanitario;
 
-V.- Proporcionar a los Servicios de Salud cuando lo requiera, información relativa a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
+V.- Proporcionar a los Servicios de Salud de Morelos, cuando lo requiera, información relativa a:
 
 a).- Los sujetos en cuanto a censo nominal, sede laboral y generales.
 
@@ -2823,9 +2959,11 @@ III.- Expedición en su caso de la tarjeta de control sanitario con fotografía,
 
 IV.- Mantendrá actualizado el registro con los cambios de domicilio, suspensión o reanudación de actividades, cancelación de registro y demás circunstancias que afecten a los sujetos.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 287.
 
-Informará a los Servicios de Salud de la aparición de enfermedades que por su naturaleza o gravedad, puedan afectar la salud de grupos de la población a fin de tomar las medidas preventivas o correctivas que correspondan.
+Informará a los Servicios de Salud de Morelos de la aparición de enfermedades que por su naturaleza o gravedad, puedan afectar la salud de grupos de la población a fin de tomar las medidas preventivas o correctivas que correspondan.
 
 ###### Artículo 288.
 
@@ -3165,7 +3303,9 @@ Los establecimientos de servicios de salud en donde no se practiquen actos quir�
 
 Los establecimientos que no requieran de autorización sanitaria, deberán dar aviso de funcionamiento.
 
-El aviso a que refiere este Artículo deberá presentarse por escrito a los Servicios de Salud del Estado o a la Autoridad municipal en su caso, dentro de los 10 días posteriores al inicio de operaciones y contendrá los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
+El aviso a que refiere este artículo deberá presentarse por escrito a los Servicios de Salud de Morelos o a la autoridad municipal, en su caso, por lo menos treinta días antes de aquel en que se pretendan iniciar operaciones, y contendrá los siguientes datos:
 
 I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
 
@@ -3271,6 +3411,12 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de nacimiento, de defunción y de muerte fetal serán expedidos una vez comprobado el nacimiento, el fallecimiento y determinada su causa de éste, por profesionales de la medicina o personas autorizadas por los Servicios de Salud de Morelos.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 353 Bis.
+
+El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+
 ###### Artículo 354.
 
 Los certificados prenupciales, de defunción y de muerte fetal, a que se refiere este Título se extenderán de conformidad con la normatividad que emita la Secretaría de Salud del Gobierno Federal.
@@ -3289,7 +3435,7 @@ Corresponde a los Servicios de Salud de Morelos y a los Ayuntamientos, en el ám
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-La participación de las autoridades de las comunidades indígenas estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que disponga esta ley y la demás legislación que resulte aplicable.
+La participación de las autoridades de las comunidades indígenas estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que disponga esta Ley y la demás legislación que resulte aplicable.
 
 ###### Artículo 356.
 
@@ -3324,6 +3470,20 @@ Los propietarios, responsables, encargados u ocupantes de establecimientos o con
 Los verificadores para practicar visitas deberán estar provistos de órdenes escritas, con firma autógrafa, expedidas por la autoridad sanitaria competente, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
 Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 362 Bis.
+
+Cuando por alguna situación ajena al personal verificador no pueda efectuarse la verificación correspondiente, según sea el caso, se procederá a lo siguiente:
+
+I. Cuando el domicilio señalado no corresponda al establecimiento programado, se levantará un acta circunstanciada;
+
+II. Cuando no haya quien atienda la diligencia, el verificador sanitario dejará citatorio pegado en la vía de acceso, indicando día y hora en que se presentará nuevamente a fin de que ésta sea atendida, de lo cual asentará la razón en el citatorio respectivo;
+
+III. Cuando se niegue el acceso al establecimiento o por segunda ocasión no haya quien atienda la diligencia, se dejará aviso, con un término de tres días hábiles, para que el responsable, propietario o representante legal del establecimiento se presente a la oficina correspondiente a manifestar lo que a su derecho convenga, y
+
+IV. Cuando el establecimiento a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, se procederá a solicitar la autorización judicial respectiva para llevar a cabo la diligencia.
 
 ###### Artículo 363.
 
@@ -3484,6 +3644,12 @@ Los productos perecederos que no se reclamen por los interesados dentro de las 2
 ###### Artículo 380.
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio se ordenará previa observancia de la garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 380 Bis.
+
+Las autoridades municipales podrán implementar como medida de seguridad sanitaria el inmediato deshierbe o fumigación de predios ociosos.
 
 ### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
@@ -3885,7 +4051,7 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 P.O. 9 DE OCTUBRE DE 2013.
 
-DECRETO NÚMERO 919, POR EL QUE SE ADICIONA EN EL TÍTULO SÉPTIMO DENOMINADO "PROMOCIÓN DE LA SALUD" UN CAPÍTULO III BIS DENOMINADO "COMISIÓN INTERINSTITUCIONAL DE PREVENCIÓN CONTRA LA DIABETES", CONFORMADO POR CINCO ARTÍCULOS QUE SERÁN ARTÍCULO 115 BIS, ARTÍCULO 115 TER, ARTÍCULO 115 QUATER, ARTÍCULO 115 QUINQUIES Y ARTÍCULO 115 SEXIES, TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 919, POR EL QUE SE ADICIONA EN EL TÍTULO SÉPTIMO DENOMINADO "PROMOCIÓN DE LA SALUD" UN CAPÍTULO III BIS DENOMINADO "COMISIÓN INTERINSTITUCIONAL DE PREVENCIÓN CONTRA LA DIABETES", CONFORMADO POR CINCO ARTÍCULOS QUE SERÁN ARTÍCULO 115 BIS, ARTÍCULO 115 TER, ARTÍCULO 115 QUÁTER, ARTÍCULO 115 QUINQUIES Y ARTÍCULO 115 SEXIES, TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3941,7 +4107,7 @@ SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo, para los
 
 P.O. 5 DE MARZO DE 2014.
 
-DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO IX DENOMINADO “ATENCIÓN MATERNO-INFANTIL”, AL TÍTULO TERCERO DENOMINADO “PRESTACIÓN DE LOS SERVICIOS DE SALUD”, CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO XI DENOMINADO "ATENCIÓN MATERNO-INFANTIL", AL TÍTULO TERCERO DENOMINADO "PRESTACIÓN DE LOS SERVICIOS DE SALUD", CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
@@ -3983,7 +4149,7 @@ DECRETO NÚMERO 1504 POR EL QUE SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 165, 
 
 ###### ARTÍCULO PRIMERO.
 
-Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inicio a), X de la Constitución Política del Estado Libre y Soberano de Morelos.
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inicio (sic) a), X de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -4086,3 +4252,99 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO TREINTA Y OCHO POR EL QUE SE REFORMAN EL ARTÍCULO 93; EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 128; EL ARTÍCULO 223, LA FRACCIÓN V, DEL ARTÍCULO 283, EL ARTÍCULO 287, Y EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 342 Y DEROGA EL ARTÍCULO 119 TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2140, POR EL QUE SE ADICIONA UN ARTÍCULO 39 BIS, A LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CUARENTA Y DOS, POR EL QUE SE REFORMAN LA FRACCIÓN III, DEL ARTÍCULO 110 Y LAS FRACCIONES IV Y VI, DEL ARTÍCULO 146; AMBOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CUARENTA Y CUATRO POR EL QUE SE REFORMA LA FRACCIÓN III, DEL APARTADO C), DEL ARTÍCULO 3, SE ADICIONAN UN SEGUNDO PÁRRAFO, AL ARTÍCULO 275; ASÍ COMO LOS ARTÍCULOS 279 BIS Y 380 BIS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CUARENTA Y SEIS, POR EL QUE SE REFORMAN LA FRACCIÓN X, DEL APARTADO A, DEL ARTÍCULO 3; LA FRACCIÓN X, DEL ARTÍCULO 37; LA FRACCIÓN II, DEL ARTÍCULO 109; LA FRACCIÓN II DEL ARTÍCULO 115; EL ARTÍCULO 115 TER; EL ARTÍCULO 115 QUÁTER; EL PÁRRAFO INICIAL Y LAS FRACCIONES I, III Y IV DEL ARTÍCULO 115 QUINQUIES, ASÍ COMO EL ARTÍCULO 115 SEXIES, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CUARENTA Y NUEVE, POR EL QUE SE REFORMA EL ARTÍCULO 114, DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CINCUENTA POR EL QUE SE ADICIONAN EL ARTÍCULO 132 BIS; EL ARTÍCULO 132 TER; DOS PÁRRAFOS AL ARTÍCULO 135; Y EL ARTÍCULO 362 BIS, TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CINCUENTA Y TRES POR EL QUE SE REFORMAN LA FRACCIÓN XVII, DEL INCISO A), DEL ARTÍCULO 3; EL ARTÍCULO 146; EL PÁRRAFO PRIMERO Y FRACCIÓN I, DEL ARTÍCULO 165; ASÍ COMO SE ADICIONA UNA FRACCIÓN II, AL ARTÍCULO 165, RECORRIÉNDOSE EN SU ORDEN CONSECUTIVO LAS SUBSECUENTES PARA LLEGAR A LA FRACCIÓN IV; TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
