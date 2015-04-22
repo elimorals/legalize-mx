@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-tratamiento-contra-la-obesidad-y-84192
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2014-07-23"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY PARA LA PREVENCION Y TRATAMIENTO CONTRA LA OBESIDAD Y SOBREPESO EN EL ESTADO DE MORELOS --ANTES LEY PARA LA PREVENCION Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS EN EL ESTADO DE MORELOS --
 
-LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS EN EL ESTADO DE MORELOS.
+LEY PARA LA PREVENCIÓN Y TRATAMIENTO CONTRA LA OBESIDAD Y SOBREPESO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -43,41 +43,51 @@ LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS EN EL ESTADO DE
 
 ÚNICO.- Se expide la Ley para la Prevención y Tratamiento de Trastornos Alimenticios en el Estado de Morelos.
 
-LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS EN EL ESTADO DE MORELOS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2015)</small>
+
+LEY PARA LA PREVENCIÓN Y TRATAMIENTO CONTRA LA OBESIDAD Y SOBREPESO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 1.
 
 La presente Ley es de orden público, de interés social y de observancia general en el Estado de Morelos.
 
-La aplicación de la presente Ley corresponde al Gobierno del Estado de Morelos, en el ámbito de sus respectivas competencias de conformidad con lo establecido en la Ley General de Salud, la Ley de Salud del Estado de Morelos y las Normas Oficiales Mexicanas en la materia.
+La aplicación de la presente Ley corresponde al Gobierno del Estado de Morelos, en el ámbito de sus respectivas competencias de conformidad con lo establecido en la Ley General de Salud, la Ley de Salud del Estado de Morelos y las Normas Oficiales Mexicanas en la materia. Así también deberán colaborar en el cumplimiento del objeto de la presente Ley los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 2.
 
-La presente Ley tiene por objeto la prevención y el tratamiento de Trastornos Alimenticios, que comprenderán la investigación de sus causales, el diagnóstico y tratamiento de las enfermedades vinculadas, asistencia integral y rehabilitaciones, incluyendo la de sus patologías derivadas y las medidas tendientes a evitar su propagación.
+La presente Ley tiene por objeto la prevención y el tratamiento de los problemas del sobrepeso y la obesidad, que comprenderán la investigación de sus causales, el diagnóstico y tratamiento de las enfermedades vinculadas, asistencia integral y rehabilitaciones, incluyendo la de sus patologías derivadas y las medidas tendientes a evitar su propagación.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Consejo Estatal: El Consejo Estatal para la Prevención, Control, Atención y Tratamiento Integral de Trastornos Alimenticios en el Estado de Morelos.
+I. Comisión, a la Comisión Interinstitucional de Prevención de Sobrepeso, Obesidad y Diabetes;
 
-II. Gobernador: El Gobernador del Estado de Morelos.
+II. Gobernador, a la persona Titular del Poder Ejecutivo Estatal;
 
-III. Ley: Ley para la Prevención y Tratamiento de Trastornos Alimenticios en el Estado de Morelos.
+III. Ley, a la Ley para la Prevención y Tratamiento contra la Obesidad y Sobrepeso;
 
-IV. Programa Estatal: El Programa Estatal para la Prevención, Tratamiento y Combate de trastornos Alimenticios.
+IV. Programa Estatal, al Programa Estatal para la Prevención, Tratamiento y combate de los problemas del sobrepeso y la obesidad;
 
-V. Secretaría de Salud: La Secretaría de Salud del Estado de Morelos.
+V. Secretaría, a la Secretaría de Salud del Poder Ejecutivo Estatal;
 
-VI. Secretaría de Educación: La Secretaría de Educación del Estado de Morelos.
+VI. Secretaría de Educación, a la Secretaría de Educación del Poder Ejecutivo Estatal, y
 
-VII. Trastornos o Desórdenes Alimenticios: Se consideran Trastornos Alimenticios el sobrepeso, la obesidad, bulimia, anorexia nerviosa y las demás enfermedades que la reglamentación determine, relacionadas con inadecuadas formas de ingesta alimentaria.
+VII. Sobrepeso y obesidad, a la acumulación anormal o excesiva de grasa que puede ser perjudicial para la salud de las personas.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 4.
 
-Las acciones de prevención y tratamiento de Trastornos Alimenticios, forman parte de la garantía constitucional de toda persona al Derecho a la Salud.
+Las acciones de prevención y tratamiento de los problemas del sobrepeso y la obesidad, forman parte de la garantía constitucional de toda persona al derecho a la salud.
 
 ###### Artículo 5.
 
@@ -93,95 +103,115 @@ III. La Secretaría de Educación;
 
 IV. La Secretaría de la Contraloría, por cuanto a la evaluación, control y vigilancia del Programa Estatal, y
 
-V. El Consejo Estatal para la Prevención, Control, Atención y Tratamiento Integral de Trastornos Alimenticios.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+V. Comisión Interinstitucional de Prevención contra la Diabetes.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 6.
 
-Se considerará como discriminación, cualquier negación de acceso a servicios públicos o privados por motivo de padecer algún tipo de Trastorno Alimenticio.
+Se considerará como discriminación cualquier negación de acceso a servicios públicos o privados, con motivo de padecer algún tipo de problema del sobrepeso y la obesidad.
 
 ### CAPÍTULO II
 
 DISTRIBUCIÓN DE COMPETENCIAS.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 7.
 
-La prevención y tratamiento de Trastornos Alimenticios son un asunto prioritario.
+La prevención y tratamiento de los problemas del sobrepeso y la obesidad tienen prioridad en la política pública de salud en el Estado.
 
-Las dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública del Estado de Morelos, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, desarrollarán acciones para dar cumplimiento al objeto de la presente Ley, utilizando incluso nuevas tecnologías de la información y comunicación.
+Las dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública del Estado de Morelos, los Municipios, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, desarrollarán acciones para dar cumplimiento al objeto de la presente Ley, utilizando incluso nuevas tecnologías de la información y comunicación.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 8.
 
-Las instancias señaladas en el artículo anterior, sin menoscabo de las atribuciones que les confiere el marco jurídico del Estado de Morelos y con independencia de las que señale la presente Ley, instrumentarán las políticas de prevención, control, atención y tratamiento integral relacionadas con Trastornos Alimenticios que para tal efecto diseñe el Consejo.
+Las instancias señaladas en el artículo anterior, sin menoscabo de las atribuciones que les confiere el marco jurídico estatal y con independencia de las que señale la presente Ley, instrumentarán las políticas de prevención, control, atención y tratamiento integral relacionadas con los problemas del sobrepeso y la obesidad que para tal efecto diseñe la Comisión.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 9.
 
-Corresponde al Gobierno del Estado de Morelos:
+Corresponde al Poder Ejecutivo Estatal:
 
-I. Formular el Programa Estatal para la Prevención, Tratamiento y Combate de Trastornos Alimenticios.
+I. Formular el Programa Estatal;
 
-II. Promover, y ampliar de manera permanentemente, la adopción del programa social para la prevención y combate de la obesidad, sobrepeso y Trastornos Alimenticios en el Estado de Morelos.
+II. Promover y ampliar, permanentemente, la adopción del Programa Estatal;
 
-III. Promover las participación (sic) de Organizaciones no Gubernamentales, en las acciones previstas por el Programa Estatal;
+III. Promover las (sic) participación de Organizaciones no Gubernamentales, en las acciones previstas por el Programa Estatal;
 
-IV. Proponer acciones tendientes a eliminar la discriminación y la estigmatización en el ámbito laboral, educacional y/o social, frente al padecimiento de Trastornos Alimenticios.
+IV. Proponer acciones tendientes a eliminar la discriminación y la estigmatización en el ámbito laboral, educacional o social, frente a los problemas del sobrepeso y la obesidad;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+V. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general, en materia de prevención y combate de los problemas del sobrepeso y la obesidad, a través de los Centros para la Prevención y Atención del Sobrepeso y la Obesidad;
 
-V. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general, en materia de prevención y combate de Trastornos Alimenticios, a través de las Escuelas para Bajar de Peso;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
-
-VI. Motivar y apoyar la participación social, pública y privada en la prevención y combate de Trastornos Alimenticios, así como promover la celebración de convenios de colaboración con estos sectores para la operatividad de las Escuelas para Bajar de Peso, y
+VI. Motivar y apoyar la participación social, pública y privada en la prevención y combate de los problemas del sobrepeso y la obesidad, así como promover la celebración de convenios de colaboración con estos sectores para la operatividad de los Centros para la Prevención y Atención del Sobrepeso y la Obesidad, y
 
 VII. Las demás que le reconozcan esta Ley y otras normas aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 10.
 
-El Programa Estatal para la Prevención, Tratamiento y Combate de Trastornos Alimenticios será el principal instrumento de acción gubernamental en materia de esta Ley.
+El Programa Estatal será el principal instrumento de acción gubernamental en materia de esta Ley, debiendo ser expedido conforme a la normativa aplicable.
 
-Dicho programa deberá ser incluido como un apartado específico en los Programas e Informes del Gobierno del Estado de Morelos, así como en el Proyecto de Presupuesto de Egresos de cada año y en el Decreto respectivo.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 11.
 
 Corresponde a la Secretaría de Salud:
 
-I. Formular el Programa Estatal para la Prevención, Tratamiento y Combate de Trastornos Alimenticios;
+I. Elaborar para su expedición el Programa Estatal, conforme a lo dispuesto en la Ley Estatal de Planeación;
 
-II. Garantizar la disponibilidad de servicios de salud para la prevención, combate y tratamiento de Trastornos Alimenticios;
+II. Garantizar la disponibilidad de servicios de salud para la prevención, combate y tratamiento de los problemas del sobrepeso y la obesidad;
 
-III. Formular normas para la evaluación y control contra los Trastornos Alimenticios;
+III. Formular normas para la evaluación y control contra los problemas del sobrepeso y la obesidad;
 
 IV. Promover, especialmente entre los niños y adolescentes, conductas nutricionales saludables;
 
-V. Diseñar e instrumentar acciones para el diagnóstico temprano y atención de las personas que presenten algún Trastorno Alimenticio, específicamente la bulimia anorexia y obesidad;
+V. Diseñar e instrumentar acciones para el diagnóstico temprano y atención de las personas que presenten algún problema del sobrepeso y la obesidad;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
-
-VI. Implementar Escuelas para Bajar de Peso, de conformidad con las necesidades detectadas y la disponibilidad de recursos, para cuyo efecto podrá celebrar los convenios de colaboración que se requieran, y
+VI. Implementar los Centros para la Prevención y Atención del Sobrepeso y la Obesidad, de conformidad con las necesidades detectadas y la disponibilidad de recursos, para cuyo efecto podrá celebrar los convenios de colaboración que se requieran, y
 
 VII. Las demás que le reconozcan esta Ley y otras normas aplicables.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 11 Bis.
 
-Las Escuelas para Bajar de Peso serán los espacios en los cuales la Secretaría de Salud, a través de la Dirección encargada del Programa Estatal, impulsará y llevará a cabo acciones de capacitación y asesoría tendientes a lograr la prevención de los trastornos alimenticios, conforme a los fines siguientes:
+Los Centros para la Prevención y Atención del Sobrepeso y la Obesidad serán los espacios en los cuales la Secretaría de Salud, a través de la Dirección encargada del Programa Estatal, impulsará y llevará a cabo acciones de capacitación y asesoría tendientes a lograr la prevención de los trastornos alimenticios, conforme a los fines siguientes:
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 I. Brindar a la población en general orientación tendiente a fomentar hábitos nutricionales saludables;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 II. Ofertar cursos sobre diferentes temas relacionados con la salud y nutrición adecuada para cada etapa de la vida;
 
-III. Socializar la importancia de eliminar los malos hábitos en la alimentación y los riesgos que provocan los trastornos alimenticios;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+III. Socializar la importancia de eliminar los malos hábitos en la alimentación y los riesgos que provocan los problemas del sobrepeso y la obesidad;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 IV. Promover valores, actitudes, competencias, hábitos y conductas sanas que permitan una mejor nutrición y la cultura del deporte;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 V. Difundir una cultura nutricional y de activación física, a través de los recursos tecnológicos de que se disponga, e incluso mediante la página electrónica a que alude el artículo 22 de esta Ley.
 
-En el reglamento que al efecto se expida, se determinará lo referente a la organización, operatividad y funcionamiento de las Escuelas para Bajar de Peso.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+En el Reglamento que al efecto se expida, se determinará lo referente a la organización, operatividad y funcionamiento de los Centros para la Prevención y Atención del Sobrepeso y la Obesidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 12.
 
-Todas las instituciones de atención médica, públicas y privadas, deberán llevar un registro estadístico de pacientes con Trastornos Alimenticios y de las enfermedades crónicas relacionadas. A tal efecto la autoridad que le corresponda aplicar esta Ley elaborará los formularios de recolección y registro.
+Todas las instituciones de atención médica, públicas y privadas, deberán llevar un registro estadístico de pacientes con problemas del sobrepeso y la obesidad y de las enfermedades crónicas relacionadas. A tal efecto la autoridad que le corresponda aplicar esta Ley elaborará los formularios de recolección y registro.
 
 La autoridad que corresponda elaborará periódicamente un mapa sanitario epidemiológico y un informe sobre las acciones llevadas a cabo a nivel estatal.
 
@@ -191,123 +221,99 @@ Corresponde a la Secretaría de Educación:
 
 I. Proponer a la Autoridad Educativa Federal que implemente en los planes y programas de estudio de tipo básico y normal, asignaturas relativas a la nutrición que permitan en el educando adquirir conocimientos suficientes y necesarios para poder implementar en su vida una dieta correcta, completa, equilibrada y adecuada;
 
-II. Dar cumplimiento del programa y de las Leyes aplicables para la prevención y tratamiento de Trastornos Alimenticios en el Estado de Morelos, en todas las Instituciones Educativas, públicas y privadas del sistema educativo morelense, en todos sus niveles;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+II. Dar cumplimiento al Programa Estatal y a las Leyes aplicables para la prevención y tratamiento de los problemas del sobrepeso y la obesidad en el Estado, en todas las instituciones educativas, públicas y privadas del sistema educativo morelense, en todos sus niveles;
 
 III. Promover, especialmente entre los niños y adolescentes, conductas nutricionales saludables;
 
 IV. Crear conciencia en los maestros de la educación básica, sobre las ventajas para la salud, de una alimentación saludable, mediante la organización de cursos de capacitación de orientación nutricional;
 
-V. Realizar talleres y reuniones para dar a conocer a los padres de familia, cuestiones relativas a la prevención de Trastornos Alimenticios y los peligros de los estilos de vida no saludables.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+V. Realizar talleres y reuniones para dar a conocer a los padres de familia, cuestiones relativas a la prevención de los problemas del sobrepeso y la obesidad y los peligros de los estilos de vida no saludables, y
 
 VI. Las demás que le reconozcan esta Ley y otras normas aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde a los Municipios en el ámbito de su competencia:
+
+I. Instrumentar acciones en materia de nutrición y combate a la obesidad;
+
+II. Colaborar para dar cumplimiento al Programa Estatal;
+
+III. Proponer a la Comisión la definición de sectores sociales y zonas de atención prioritaria, y
+
+IV. Coordinarse intermunicipalmente para, desde su competencia, realizar las acciones que se requieran para coadyuvar en el cumplimiento del objeto de esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 14.
 
-En las cooperativas y espacios escolares donde se expendan alimentos dentro de los establecimientos escolares, deberán ofrecer productos que integren una alimentación saludable y variada, debiendo estar debidamente exhibida en orden primero la comida saludable.
+Las cooperativas y espacios donde se expendan alimentos dentro de los establecimientos escolares deberán ofrecer productos que integren una alimentación saludable y variada, debiendo estar exhibida en orden, primero la comida saludable. Asimismo; deberán cumplir con las disposiciones legales emitidas al efecto; así como con las normas oficiales mexicanas que regulan la materia.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2015)</small>
 
 ### CAPÍTULO III
 
-DEL CONSEJO ESTATAL PARA LA PREVENCIÓN, CONTROL, ATENCIÓN Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS.
-
 ###### Artículo 15.
 
-Se crea el Consejo Estatal para la Prevención, Control, Atención y Tratamiento de Trastornos Alimenticios, como una instancia colegiada en materia de prevención y atención integral de Trastornos Alimenticios en el Estado de Morelos.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ###### Artículo 16.
 
-El Consejo estará integrado por:
-
-I. El Secretario o Secretaria de Salud, como Presidente;
-
-II. El Secretario o Secretaría de Educación;
-
-III. El Director o Directora del Programa Estatal para la Prevención, Control, Atención y Tratamiento de Trastornos Alimenticios;
-
-IV. Un Secretario Técnico;
-
-V. El Diputado Presidente de la Comisión de Salud del Congreso del Estado;
-
-VI. Tres representantes del sector social y tres representantes del sector privado, todos del Estado de Morelos.
-
-Los integrantes de los sectores social y privado, serán propuestos por el Secretario de Salud, cuya trayectoria profesional o actividades los vincule con los objetivos del Consejo.
-
-Todos los integrantes del Consejo, tienen carácter honorífico y cuentan con los mismos derechos de voz y voto.
-
-El Secretario Técnico, será designado por el Presidente del Consejo y sus facultades se encontrarán reguladas en el reglamento respectivo.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ###### Artículo 17.
 
-El Consejo podrá crear comités y grupos de trabajo, tanto de carácter permanente como transitorio, para el estudio y atención de los asuntos específicos relacionados con sus atribuciones.
-
-La integración de los comités, así como de la organización y funcionamiento del Consejo, se sujetará a lo que disponga su Reglamento Interno que deberá ser elaborado por el Secretario Técnico de conformidad a lo dispuesto en esta Ley.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ###### Artículo 18.
 
-Las atribuciones del Secretario Técnico y del Presidente del Consejo, se establecerán en el Reglamento Interior del mismo.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ###### Artículo 19.
 
-En el caso del Director del Programa Estatal, dependerá de la Secretaría de Salud y será nombrado por el Secretario de Salud, cumpliendo con los requisitos siguientes:
-
-I. Ser ciudadano Mexicano en pleno ejercicio de sus derechos;
-
-II. Tener Título de Licenciado en Nutrición, Medicina, Psicología o equivalente;
-
-III. Contar con amplia experiencia, mínima de tres años comprobable, en el tema.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ###### Artículo 20.
 
-El Pleno del Consejo sesionará de manera ordinaria cada cuatro meses y de manera extraordinaria cada vez que lo convoque el Secretario Técnico.
-
-A las reuniones del Consejo podrán ser invitados especialistas, funcionarios públicos, entre otros, cuya trayectoria profesional o actividades los vincule con los objetos del Consejo.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ###### Artículo 21.
 
-El Consejo tendrá las siguientes funciones:
-
-I. Diseñar y evaluar políticas de prevención y atención integral relacionadas con Trastornos Alimenticios, así como en materia del fomento y adopción social de hábitos alimenticios y nutricionales correctos;
-
-II. Formular normas para la evaluación y control contra los Trastornos Alimenticios;
-
-III. Proponer el desarrollo de actividades de investigación en la materia;
-
-IV. Desarrollar actividades de difusión, televisivas, radiales y gráficas, dirigidas a la población en general y a grupos de riesgo en particular, a fin de concientizar sobre los riesgos en la salud que ocasionan las dietas sin control médico y de instruir a la población sobre hábitos alimenticios saludables y adecuados a cada etapa de crecimiento;
-
-V. Funcionar como un organismo de consulta permanente en materia de estrategias y programas encaminados hacia la prevención y atención integral de Trastornos Alimenticios, así como de fomento y adopción de hábitos alimenticios y nutricionales correctos;
-
-VI. Elaborar y difundir campañas informativas relativas a Trastornos Alimenticios, en particular:
-
-a) Sobre las características de los mismos y de sus consecuencias;
-
-b) Sobre sus aspectos clínicos, nutricionales, psicológicos y sociales y de las formas apropiadas e inapropiadas de su tratamiento;
-
-c) Sobre el derecho y promoción de la salud.
-
-VII. Desempeñarse como un organismo de vinculación entre los sectores público, social y privado, en materia de prevención y atención integral de los desórdenes alimenticios.
-
-VIII. Proponer la firma de acuerdos, convenios, bases de colaboración o instrumentos jurídicos que se requieran para la prevención y atención de Trastornos Alimenticios, con instituciones y organismos de los sectores público, social y privado, así como con otras entidades de la Federación, organismos no gubernamentales e internacionales;
-
-IX. Impulsar y fomentar la investigación y divulgación en materia de cultura de alimentación;
-
-X. Realizar seminarios, talleres, conferencias y/o programas de difusión que contribuyan al conocimiento de los problemas que traen aparejado los diferentes Trastornos Alimenticios y las formas de prevención;
-
-XI. Detectar adecuadamente las situaciones de vulnerabilidad y promover acciones y estrategias para abordarlas a través de una adecuada orientación y/o derivación;
-
-XII. Expedir su Reglamento Interno;
-
-XIII. Las demás que le reconozca el Gobernador del Estado, en los términos de la presente Ley.
+(DEROGADO, P.O. 22 DE ABRIL DE 2015)
 
 ### CAPÍTULO IV
 
 EVALUACIÓN DE ACCIONES PARA LA PREVENCIÓN Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 22.
 
-Las instancias a las que se refiere la presente Ley, remitirán un informe a los treinta días naturales siguientes de concluido cada trimestre del año, al Consejo Estatal a través de su Secretaría Técnica, donde se detalle las acciones y el seguimiento que realizaron para dar cumplimiento a las políticas de prevención, control, atención y tratamiento integral relacionadas con Trastornos Alimenticios que para tal efecto el Consejo diseñe, además de las atribuciones de la presente Ley, publicándolo en su página de internet.
+Las instancias a las que se refiere la presente Ley deberán remitir a la Secretaría, a través del organismo público descentralizado denominado Servicios de Salud de Morelos, y presentar al interior de la Comisión un informe a los treinta días naturales siguientes de concluido cada trimestre del año, donde se detallen las acciones y el seguimiento que realizaron para dar cumplimiento a las políticas de prevención, control, atención y tratamiento integral relacionadas con los problemas del sobrepeso y la obesidad, que para tal efecto la Comisión diseñe, además de las atribuciones de la presente Ley, publicándolo en su página de internet.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 23.
 
-El Consejo Estatal emitirá una evaluación a dicho informe, mismo que contendrá una opinión sobre las mejoras que deberán realizar dichas instancias para cumplir con la presente Ley. Asimismo podrán solicitar la colaboración del Congreso del Estado de Morelos, a través de las Comisiones de Salud, de Educación y Cultura y de la Juventud, para la creación de iniciativas que beneficien a la población en el tema.
+La Comisión emitirá una evaluación a dicho informe, mismo que contendrá una opinión sobre las mejoras que deberán realizar dichas instancias para cumplir con la presente Ley. Asimismo podrán solicitar la colaboración del Congreso del Estado, a través de las Comisiones de Salud, de Educación y Cultura y de la Juventud, para la creación de iniciativas que beneficien a la población al respecto.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 24.
+
+El Director del Programa Estatal dependerá de la Secretaría y deberá cumplir los requisitos siguientes:
+
+I. Ser ciudadano Mexicano en pleno ejercicio de sus derechos;
+
+II. Tener Título de Licenciado en Nutrición, Medicina, Psicología o equivalente, y
+
+III. Contar con amplia experiencia, mínima de tres años comprobable, en el tema, así como disfrutar de prestigio, honorabilidad y credibilidad.
 
 ## TRANSITORIOS
 
@@ -380,3 +386,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
