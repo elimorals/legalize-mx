@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "2015-04-01"
+last_updated: "2015-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DEL MENOR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -131,9 +131,13 @@ g).- Velar en todo momento por la salud de los menores, otorgándoles atención 
 
 h).- En la potestad de corrección, no incurrir en conductas de acción u omisión que impliquen maltrato o crueldad física o psíquica hacia el menor;
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+i).- Prestar atención inmediata de las alteraciones de conducta que permitan suponer la existencia de trastornos mentales que puedan afectar su sano desarrollo, y
+
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-i) Evitar exponer a las niñas, niños y adolescentes en manifestaciones realizadas en vías o lugares públicos, y en general en todas aquellas en que se ponga en riesgo su integridad física y psicológica.
+j).- Evitar exponer a las niñas, niños y adolescentes en manifestaciones realizadas en vías o lugares públicos, y en general en todas aquellas en que se ponga en riesgo su integridad física y psicológica.
 
 ## TITULO TERCERO. DE LAS OBLIGACIONES DEL ESTADO Y DE LOS MUNICIPIOS CON RESPECTO A LOS MENORES DE EDAD
 
@@ -274,6 +278,10 @@ VII.- Realizar campañas de prevención y detección de enfermedades;
 VIII.- Proporcionar complementos alimenticios a los menores que lo requieran;
 
 IX.- Establecer comedores para proporcionar una alimentación balanceada a los menores que se encuentren realizando estudios básicos en las escuelas del sector público.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+ARTICULO 15 BIS.- Los Servicios de Salud de Morelos realizarán campañas de prevención del suicidio, principalmente dirigidas a menores de edad, así como para la prevención y atención de trastornos mentales que puedan afectar su sano desarrollo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -904,3 +912,13 @@ P.O. 1 DE ABRIL DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
