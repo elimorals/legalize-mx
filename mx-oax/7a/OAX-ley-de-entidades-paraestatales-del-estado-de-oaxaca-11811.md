@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2014-12-27"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -225,9 +225,9 @@ XII. Observar las normas y bases para la adquisición, arrendamiento y enajenaci
 
 XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios; y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-XIV. Autorizar la publicación del Reglamento Interno y manuales administrativos, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado;
+XIV. Autorizar la publicación del Reglamento Interno, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado, así como, la publicación de los manuales administrativos, previa revisión y validación de la Secretaría de Administración;
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
@@ -794,3 +794,17 @@ P.O. 17 DE DICIEMBRE DE 2011.
 P.O. 27 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Cuando en diversas disposiciones legales, se haga referencia a:
+
+La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura (SEDAFPA), se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA).
+
+El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por la dependencia que por virtud de esta Ley cambian de denominación, se entenderán subrogadas y contraídas por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
