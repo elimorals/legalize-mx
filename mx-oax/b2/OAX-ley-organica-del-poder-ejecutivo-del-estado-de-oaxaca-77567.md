@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2015-01-02"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -287,7 +287,9 @@ IX. Secretaría de Desarrollo Social y Humano;
 
 X. Secretaría de Asuntos Indígenas;
 
-XI. Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XI. Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
 
 XII. Secretaría de Finanzas;
 
@@ -297,13 +299,13 @@ XIV. Secretaría de la Contraloría y Transparencia Gubernamental.
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
 
-XV.- Secretaría del Medio Ambiente y Recursos Naturales.
+XV. Secretaría del Medio Ambiente y Recursos Naturales.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 28.
 
-El Gobernador del Estado definirá las dependencias, subsecretarias, direcciones, unidades administrativas, de asesoría, apoyo y de coordinación, que las necesidades de su función requieran en áreas prioritarias que él mismo determine, de acuerdo con el presupuesto de egresos autorizado atendiendo al artículo 85 de la Constitución Política del Estado.
+El Gobernador del Estado definirá las dependencias, subsecretarías, direcciones, áreas administrativas, de asesoría, apoyo y de coordinación, que las necesidades de su función requieran en áreas prioritarias que él mismo determine, de acuerdo con el presupuesto de egresos autorizado atendiendo al artículo 85 de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -361,9 +363,9 @@ IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tec
 
 V. Representación del Gobierno del Estado de Oaxaca en el Distrito Federal.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
-Asimismo, podrán estar directamente sectorizadas a la Gubernatura del Estado, las entidades paraestatales o unidades administrativas que el Gobernador determine.
+Asimismo, podrán estar directamente sectorizadas a la Gubernatura del Estado, las entidades paraestatales o áreas administrativas que el Gobernador determine.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -825,7 +827,7 @@ A la Secretaría de las Culturas y Artes de Oaxaca, corresponde el despacho de l
 
 I. Dirigir, planear y ejecutar las políticas en materia cultural del Gobierno del Estado;
 
-II. Organizar y operar de manera eficiente y eficaz los esfuerzos instituciones (sic) de difusión del arte y promoción de las culturas, incluyendo el impulso y promoción de las culturas populares;
+II. Organizar y operar de manera eficiente y eficaz los esfuerzos (sic) instituciones de difusión del arte y promoción de las culturas, incluyendo el impulso y promoción de las culturas populares;
 
 III. Promover la cultura y las artes en coordinación con la Secretaría de Turismo y Desarrollo Económico para generar un mejoramiento en las condiciones económicas de este sector;
 
@@ -1025,33 +1027,51 @@ XXIX. Diseñar e implementar el programa de pueblos y comunidades indígenas y a
 
 XXX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 44.
 
-A la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura le corresponde el despacho de los siguientes asuntos:
 
-I. Planear , regular, fomentar y promover el desarrollo agrícola, ganadero, forestal y pesquero del Estado, con la participación de organizaciones productivas y sociales propiciando el ordenamiento territorial bajo el enfoque de cuencas hidrológicas, así como criterios de regionalización y atención diferenciada de los productores para una mejor focalización de las políticas del sector;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-II. Coordinar y ejecutar convenios de desarrollo agrícola, ganadero, forestal y pesquero que celebre el gobierno del Estado con diversas instancias del gobierno Federal, otras entidades federativas, gobiernos municipales y organizaciones sociales;
+I. Planear, regular, fomentar y promover el desarrollo agrícola, ganadero, pesquero y acuícola del Estado, con la participación de organizaciones productivas y sociales propiciando el ordenamiento territorial bajo el enfoque de cuencas hidrológicas, así como criterios de regionalización y atención diferenciada de los productores para una mejor focalización de las políticas del sector;
 
-III. Promover y organizar a los productores agrícolas, ganaderos, forestales y pesqueros a través de las figuras asociativas previstas en la Ley de Desarrollo Rural Sustentable y otras leyes relativas a la materia, privilegiando la formación de cooperativas de producción y consumo, cuyo propósito sea potencializar la producción, el consumo y el mercado;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+II. Coordinar y ejecutar convenios de desarrollo agrícola, ganadero, pesquero y acuícola que celebre el Gobierno del Estado con diversas Instancias del Gobierno Federal, otras entidades federativas, gobiernos municipales y organizaciones sociales;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+III. Promover y organizar a los productores agrícolas, ganaderos, pesqueros y acuícolas a través de las figuras asociativas previstas en la Ley de Desarrollo Rural Sustentable del Estado de Oaxaca y otras leyes relativas a la materia, privilegiando la formación de cooperativas de producción y consumo, cuyo propósito sea potencializar la producción, el consumo y el mercado;
 
 IV. Promover la generación de empleos productivos de carácter permanente y temporales en el ámbito de su competencia;
 
-V. Promover con las instancias competentes la elaboración y actualización del plan estatal de investigación y transferencia de tecnología, determinando y aplicando los métodos y procedimientos técnicos que permitan incrementar la productividad sustentable de las actividades agrícolas, ganaderas, forestales y pesqueras del Estado;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-VI. Impulsar los estudios que permitan desarrollar programas de forestación y reforestación, trabajando en coordinación con las instancias federales, municipales y de índole privada, para mejorar la aplicación de los programas en la materia;
+V. Promover con las instancias competentes la elaboración y actualización del plan estatal de investigación y transferencia de tecnología, determinando y aplicando los métodos y procedimientos técnicos que permitan incrementar la productividad sustentable de las actividades agrícolas, ganaderas, acuícolas y pesqueras del Estado;
 
-VII. Coadyuvar en la investigación agrícola, ganadera, forestal, y pesquera, apoyando la creación y operación de laboratorios de patología, centros de desarrollo genético, campos experimentales, lotes demostrativos, semilleros, viveros y bancos de germoplasma;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-VIII. Promover y organizar congresos, seminarios y otros eventos similares que propicien el incremento e intercambio de conocimientos técnicos de los productores agrícolas, ganaderos, forestales y pesqueros del Estado;
+VI. Coordinar organizar y supervisar el ejercicio y funcionamiento de la Comisión Estatal Forestal;
 
-IX. Controlar el movimiento interno del ganado y de los productos forestales, llevando estadísticas de la producción, así como, dictar las políticas de inspección ganadera y forestal, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+VII. Coadyuvar en la investigación agrícola, ganadera, pesquera y acuícola, apoyando la creación y operación de laboratorios de patología, centros de desarrollo genético, campos experimentales, lotes demostrativos y semilleros;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+VIII. Promover y organizar congresos, seminarios y otros eventos similares que propicien el incremento e intercambio de conocimientos técnicos de los productores agrícolas, ganaderos, pesqueros y acuícolas del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IX. Controlar el movimiento interno del ganado, llevando estadísticas de la producción, así como dictar las políticas de inspección ganadera en el ámbito de su competencia;
 
 X. Elaborar y ejecutar los programas de organización, capacitación y asistencia técnica a los productores del medio rural en el Estado, cuidando que sus contenidos garanticen la igualdad de oportunidades para ambos sexos;
 
-XI. Proponer la ejecución de aquellas obras de infraestructura que se requieran para el desarrollo agrícola, ganadero, forestal y pesquero;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XI. Proponer la ejecución de aquellas obras de infraestructura que se requieran para el desarrollo agrícola, ganadero y pesquero;
 
 XII. Asesorar a las diversas comunidades, organizaciones y sociedad civil, respecto de los insumos, maquinaria y equipo procurando el máximo abatimiento de los costos;
 
@@ -1061,7 +1081,9 @@ XIV. Fomentar, organizar y asesorar a las comunidades para el establecimiento de
 
 XV. Coordinar sus actividades con las Dependencias y Entidades, así como con el sector social y privado que participen en la ejecución de programas agroindustriales, a fin de determinar las normas y criterios técnicos a seguir;
 
-XVI. Vigilar que los programas que se realicen en materia agrícola, ganadera, forestal y pesquera, se apeguen a los programas y normas ecológicas previamente establecidas;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XVI. Vigilar que los programas que se realicen en materia agrícola, ganadera, pesquera y acuícola, se apeguen a los programas y normas ecológicas previamente establecidas;
 
 XVII. Fomentar la producción, consumo y comercialización pesquera y acuícola en las comunidades del Estado, realizando las tareas de infraestructura, capacitación y enlace que para ello se requiera en el ámbito de su competencia;
 
@@ -1069,7 +1091,9 @@ XVIII. Promover la instalación de empresas de producción pesquera y acuícola,
 
 XIX. Promover y orientar el crédito de instituciones estatales, federales e internacionales, públicas y privadas, para el financiamiento de las acciones de su competencia;
 
-XX. Buscar y apoyar el posicionamiento de los productos agropecuarios, pesqueros, acuícolas y forestales en los mercados local, nacional e internacional en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XX. Buscar y apoyar el posicionamiento de los productos agropecuarios, pesqueros y acuícolas en los mercados local, nacional e internacional en el ámbito de su competencia;
 
 XXI. En el ámbito de su competencia impulsar, coordinar, ejecutar y supervisar la correcta operación de las estrategias de desarrollo rural y seguridad alimentaria coadyuvando al desarrollo sustentable de la entidad;
 
@@ -1291,9 +1315,9 @@ XVI. Diseñar las estructuras administrativas de las Dependencias y Entidades de
 
 XVII. Emitir las normas y disposiciones de la Administración Pública Estatal, para la adquisición, arrendamiento o enajenación de bienes y servicios, de conformidad con la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-XVIII. Administrar el Archivo Histórico del Estado de Oaxaca; normar y asesorar a Dependencias y Entidades de la Administración Pública Estatal, en la organización, control, registro y salvaguarda de sus archivos históricos;
+XVIII. Administrar el Archivo Histórico del Gobierno del Estado y el Archivo General del Poder Ejecutivo del Estado de Oaxaca. Normar y asesorar a Dependencias y Entidades del Poder Ejecutivo en la organización, control, registro y salvaguarda de sus archivos y a todos los poderes, órganos, municipios y demás Instituciones del Estado, en la organización, control, registro y salvaguarda de sus archivos históricos en coordinación con el Consejo Estatal de Archivos;
 
 XIX. Definir previo acuerdo del Gobernador del Estado, criterios y políticas de descentralización y desconcentración de servicios administrativos, coordinando los procesos respectivos con las diferentes Dependencias y Entidades de la Administración Pública Estatal;
 
@@ -1563,9 +1587,13 @@ XXV. Poner a consideración del Gobernador del Estado en materia jurídica, los 
 
 XXVI. Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público, y otorgar el perdón al acusado cuando proceda;
 
-XXVII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
 
-XXVIII. Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de legalizaciones de firmas y exhortos judiciales;
+XXVII. Revisar y autorizar en el ámbito de su competencia, conjuntamente con la Secretaría de Administración, los reglamentos internos de las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XXVIII. Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales, legislativos y administrativos dirigidos al titular del Poder Ejecutivo;
 
 XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura y de la propia Consejeria Jurídica; asimismo, ser el Secretario Técnico del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado, actuando como Sujeto Obligado, por lo que deberá emitir y supervisar, con apoyo de los integrantes de dicho Comité, la aplicación de criterios y lineamientos para las Dependencias y Entidades, en cumplimiento a las disposiciones aplicables en la materia;
 
@@ -1863,9 +1891,13 @@ VI. Las demás que en el ámbito de su competencia le confiera directamente el G
 
 El Gobernador del Estado podrá constituir mediante acuerdo o decreto los gabinetes sectoriales o especializados que considere necesarios para el despacho de los asuntos en que deban intervenir las Dependencias y Entidades.
 
-Todos los gabinetes serán presididos por el Gobernador del Estado y en su ausencia los presidirá el servidor público que funja como Coordinador del Gabinete Sectorial o Especializado, debiendo recaer la coordinación, en el titular de la Dependencia u Órgano Auxiliar cabeza de Sector o en el titular de la Dependencia u Órgano Auxiliar cuya competencia se refiera a la especialidad del Gabinete.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
-El titular de la Jefatura de la Gubernatura, fungirá como Secretario Técnico de los gabinetes sectoriales y especializados.
+Todos los gabinetes serán presididos por el Titular de la Jefatura de la Gubernatura y en su ausencia los presidirá el servidor público que funja como Coordinador del Gabinete Sectorial o Especializado, debiendo recaer la coordinación, en el titular de la Dependencia u Órgano Auxiliar cabeza de Sector o en el titular de la Dependencia u Órgano Auxiliar cuya competencia se refiera a la especialidad del Gabinete.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+El titular de la Secretaría Técnica del Titular del Poder Ejecutivo, fungirá como Secretario Técnico de los gabinetes sectoriales y especializados.
 
 En estos gabinetes podrán participar, a invitación expresa, los titulares o servidores públicos de otras dependencias o entidades, así como, los servidores públicos del orden federal y municipal, y actores de los sectores social y privado, cuando se trate de asuntos relacionados con su objeto.
 
@@ -2278,3 +2310,17 @@ P.O. 27 DE DICIEMBRE DE 2014.
 P.O. 2 DE ENERO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Cuando en diversas disposiciones legales, se haga referencia a:
+
+La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura (SEDAFPA), se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA).
+
+El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la dependencia que por virtud de esta Ley cambian de denominación, se entenderán subrogadas y contraídas por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
