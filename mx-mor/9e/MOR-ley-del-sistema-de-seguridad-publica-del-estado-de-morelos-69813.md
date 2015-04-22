@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2014-12-10"
+last_updated: "2015-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -1897,15 +1897,25 @@ IX. Las demás que establezcan otras disposiciones legales.
 
 Las instituciones de seguridad pública estatales o municipales tienen como misión primordial la prevención del delito; de manera primaria, mediante intervenciones frente a los factores que provocan las conductas antisociales, así como fortaleciendo las causas que generan seguridad pública y de manera secundaria mediante las tareas de producción de información criminal, vigilancia, reacción inmediata y detenciones en flagrancia.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+El Gobernador y los Municipios en el ámbito de sus respectivas competencias o de manera conjunta a través de la celebración de convenios, podrán implementar los programas que consideren pertinentes para prevenir conductas delictivas en el Estado, entre otros, aquellos que deriven de la conducción de automotores en estado de ebriedad en términos de la normativa aplicable y conforme a los elementos objetivos con que cuente, en la forma, temporalidad y zonas que estime más apropiados, a fin de salvaguardar la integridad y patrimonio de las personas, prevenir la comisión de delitos e infracciones a las disposiciones gubernativas y de policía, así como preservar las libertades, el orden y la paz públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 110.
 
-Por prevención se entiende el conjunto de acciones no coercitivas y con visión de largo plazo que desarrollan las instituciones de seguridad pública, con participación de la sociedad, para actuar sobre los factores que generan o favorecen las conductas antisociales, a fin de impedir su ocurrencia.
+Por prevención se entiende el conjunto de acciones, programas, estrategias y políticas públicas, que desarrollen y ejecuten las instituciones de seguridad pública, con participación de la sociedad, para actuar sobre los factores que generan o favorecen las conductas antisociales, a fin de impedir su ocurrencia, pudiendo imponer las sanciones administrativas correspondientes, conforme a la normativa aplicable.
 
-Las instituciones señaladas deberán promover la participación de la sociedad, especialmente de centros de investigación, instituciones de educación superior, barras y asociaciones de profesionistas y en general de todas aquellas personas físicas y morales que siendo científicos o especialistas puedan aportar soluciones para el fortalecimiento de la seguridad pública en el estado.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Las instituciones señaladas deberán promover la participación de la sociedad, especialmente de centros de investigación, instituciones de educación superior, barras y asociaciones de profesionistas y en general de todas aquellas personas físicas y morales que siendo científicos o especialistas puedan aportar soluciones para el fortalecimiento de la seguridad pública en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 111.
 
-Los tipos fundamentales de acciones de prevención que el Estado desarrollará son:
+El Poder Ejecutivo desarrollará, de manera enunciativa, como acciones fundamentales de prevención, las siguientes:
 
 I. La promoción de valores sociales y cívicos que induzcan a los individuos al conocimiento y al respeto de la legalidad y los derechos humanos;
 
@@ -1919,9 +1929,13 @@ V. El apoyo a los esfuerzos colectivos e individuales de autoprotección en su i
 
 VI. El abatimiento de la marginación económica y social de las poblaciones más vulnerables, mediante la coordinación con instituciones de desarrollo social, económico y agropecuario, de manera estratégica en aquellas zonas cuya prosperidad impacte en el descenso de los índices delictivos; y
 
-VII. El impulso de habilidades de comunicación, producción, creatividad y en general de la inteligencia social que permita la satisfacción de las necesidades individuales y colectivas;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-VIII. La implementación de campañas específicas durante las temporadas del año en que se requiera por la afluencia turística en el Estado.
+VII. El impulso de habilidades de comunicación, producción, creatividad y en general de la inteligencia social que permita la satisfacción de las necesidades individuales y colectivas; y
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+VIII. La implementación de campañas, programas y estrategias específicas durante las temporadas del año en que se requiera ya sea por la afluencia turística en el Estado o por existir elementos objetivos que así lo hagan necesario.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -1933,9 +1947,11 @@ Las actividades de prevención a desarrollar requerirán de la participación mu
 
 Las instituciones de seguridad pública deberán rendir informes públicos periódicos sobre el avance de los programas de prevención, debiendo evaluarse en los Consejos Estatal y Municipales, en la forma que determine el reglamento de la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 114.
 
-El Estado combatirá las causas que generan las faltas administrativas, conductas antisociales y la comisión de delitos, a través de las siguientes acciones:
+El Poder Ejecutivo combatirá las causas que generan las faltas administrativas, conductas antisociales y la comisión de delitos, a través de las siguientes acciones:
 
 I. La aplicación imparcial de las Leyes;
 
@@ -1945,9 +1961,15 @@ III. La profesionalización y capacitación de los miembros de las instituciones
 
 IV. El fortalecimiento económico, cultural y educativo de los morelenses;
 
-V. El fortalecimiento de la participación ciudadana para el cumplimiento de los fines de la seguridad pública; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-VI. La aplicación de los conocimientos y descubrimientos científicos para el logro de lo expuesto en las fracciones anteriores del presente artículo.
+V. El fortalecimiento de la participación ciudadana para el cumplimiento de los fines de la seguridad pública;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+VI. Implementar, expedir y ejecutar programas y operativos que permitan prevenir los delitos y faltas administrativas, con la participación de las autoridades competentes, conforme a la normativa aplicable y a través de la Secretaría de Gobierno, por conducto de la Comisión Estatal de Seguridad Pública; y
+
+VII. La aplicación de los conocimientos y descubrimientos científicos para el logro de lo expuesto en las fracciones anteriores del presente artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -3104,3 +3126,13 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
