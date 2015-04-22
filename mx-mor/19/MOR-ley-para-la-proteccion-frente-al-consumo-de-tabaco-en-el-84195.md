@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-proteccion-frente-al-consumo-de-tabaco-en-el-84195"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2014-12-10"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -55,9 +55,11 @@ I. Proteger la salud de la población de los efectos por inhalar el humo generad
 
 II. Establecer mecanismos y acciones tendientes a prevenir y disminuir el consumo de tabaco así como las consecuencias generadas en la salud de la población, derivadas de la exposición frente al humo de tabaco.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 2.
 
-La aplicación y vigilancia del cumplimiento de esta Ley corresponderá al Titular del Poder Ejecutivo del Estado de Morelos, y a los municipios que conforman el Estado de Morelos y las instancias administrativas correspondientes, en sus respectivos ámbitos de competencia.
+La aplicación y vigilancia del cumplimiento de esta Ley corresponderá a la persona titular del Poder Ejecutivo del Estado de Morelos, y a los municipios que conforman el Estado de Morelos y las instancias administrativas correspondientes, en sus respectivos ámbitos de competencia.
 
 ###### Artículo 3.
 
@@ -151,7 +153,9 @@ II. Llevar a cabo campañas para la detección temprana del fumador, diseño de 
 
 III. Promover con las autoridades educativas la inclusión de contenidos acerca del tabaquismo en programas y materiales educativos, así como la realización en las escuelas de foros en los que se aborde la problemática del consumo del tabaco y sus consecuencias;
 
-IV. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IV. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco, informándole sobre las patologías vinculadas al mismo, y efectuando campañas dirigidas especialmente a las mujeres en periodo de embarazo y lactancia;
 
 V. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco; y
 
@@ -283,9 +287,11 @@ Los Órganos de Gobierno, Municipios, Poder Legislativo y Judicial y Órganos Au
 
 Todas aquellas concesiones o permisos que otorgue el Gobierno del Estado de Morelos y cuyo objeto sea brindar algún servicio al público, en la concesión se establecerán los mecanismos necesarios para que se dé cumplimiento a la presente Ley.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 24.
 
-El Titular del Poder Ejecutivo y los Cabildos en los municipios deberán garantizar por los medios más eficaces, que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, sean canalizados sin demora al Organismo Público Descentralizado denominado Servicios de Salud Morelos, para la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco y al desarrollo de las acciones de control sanitario y/o llevar a cabo investigaciones sobre el tabaquismo y sus riesgos.
+La persona titular del Poder Ejecutivo y los Ayuntamientos en los Municipios deberán garantizar por los medios más eficaces, que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento de la presente Ley, sean canalizados sin demora al Organismo Público Descentralizado denominado Servicios de Salud de Morelos, para la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco y al desarrollo de las acciones de control sanitario o llevar a cabo investigaciones sobre el tabaquismo y sus riesgos.
 
 ###### Artículo 25.
 
@@ -331,9 +337,11 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 
 ### CAPÍTULO SEGUNDO. DEL MONTO DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 30.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo diario general vigente en el Estado de Morelos, el incumplimiento de lo dispuesto en los artículos 11 y 16 de esta ley, la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Estado de Morelos o bien de sus Municipios.
+Se sancionará con multa equivalente de veinte hasta doscientas veces el salario mínimo diario general vigente en el Estado de Morelos, el incumplimiento de lo dispuesto en los artículos 11 y 16 de esta Ley, la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Estado de Morelos o bien de sus Municipios.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -411,9 +419,11 @@ Cualquier persona podrá presentar ante la autoridad correspondiente una denunci
 
 La autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 43.
 
-Los Servicios de Salud pondrán en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas, orientación sobre los tratamientos para dejar de fumar y sugerencias sobre los espacios 100% libres de humo de tabaco, así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
+Los Servicios de Salud de Morelos, pondrán en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas, orientación sobre los tratamientos para dejar de fumar y sugerencias sobre los espacios 100% libres de humo de tabaco, así como el incumplimiento de esta Ley, sus Reglamentos y demás disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -474,3 +484,27 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2145, POR EL QUE SE REFORMAN EL ARTÍCULOS 2; LA FRACCIÓN IV, DEL ARTÍCULO 8; ASÍ COMO LOS ARTÍCULOS 24 Y 43, TODOS DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DEL TABACO DEL ESTADO DE MORELOS
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CUARENTA Y OCHO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO, DEL ARTÍCULO 30, DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DEL TABACO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
