@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2014-12-10"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -185,11 +185,17 @@ XXXI.- Secretaría de Educación: Secretaría de Educación del Estado de Morelo
 
 XXXII.- Segundo nivel de atención: atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de la Secretaría;
 
-XXXIII. Servicios de Salud en Morelos: Organismo Público Descentralizado de la Secretaría de Salud del Estado de Morelos, dedicado a la operación de programas preventivos, así como a la atención médica y a la protección contra riesgos sanitarios;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-XXXIV.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental, centro de información técnico, permanente y estratégico de consulta, dependiente de los Servicios de Salud en Morelos;
+XXXIII.- Servicios de Salud de Morelos: Organismo Público Descentralizado de la Secretaría de Salud del Estado de Morelos, dedicado a la operación de programas preventivos, así como a la atención médica y a la protección contra riesgos sanitarios;
 
-XXXV.- Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes de los Servicios de Salud en Morelos;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XXXIV.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental, centro de información técnico, permanente y estratégico de consulta, dependiente de los Servicios de Salud de Morelos;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XXXV.- Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes de los Servicios de Salud de Morelos;
 
 XXXVI.- Titular de la Secretaría: persona titular de la Secretaría de Salud del Estado de Morelos.
 
@@ -313,9 +319,11 @@ XXVIII.- A recibir un trato digno y con respeto a sus derechos humanos, por part
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA SECRETARÍA DE SALUD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 11.
 
-Para la prevención y promoción de la salud mental, la Secretaría a través de los Servicios de Salud en Morelos deberá:
+Para la prevención y promoción de la salud mental la Secretaría, a través de los Servicios de Salud de Morelos:
 
 I.- Dar a conocer las acciones que procuran una vida saludable a través de actividades educativas, recreativas y cívicas;
 
@@ -327,13 +335,19 @@ IV.- Fortalecer las acciones comunitarias que aseguren los factores de protecci�
 
 V.- Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo, y colaborar en el desarrollo de las mismas, cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable;
 
-VI.- Participar en las acciones de atención psicológica a personas afectadas en situación de emergencia o desastre en el Estado de Morelos, y
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-VII.- Elaborar, difundir y llevar a cabo los programas de salud mental; así como contribuir en su elaboración y aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
+VI.- Establecer medidas y acciones que permitan la prevención del suicidio en el Estado de Morelos y formular un Programa Estatal de Atención y Prevención del Suicidio;
+
+VII.- Participar en las acciones de atención psicológica a personas afectadas en situación de emergencia o desastre en el Estado de Morelos, y
+
+VIII.- Elaborar, difundir y llevar a cabo los programas de salud mental; así como contribuir en su elaboración y aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 12.
 
-Corresponden a los Servicios de Salud en Morelos, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
+Corresponden a los Servicios de Salud de Morelos, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
 
 I.- Elaborar el Programa de Salud Mental para el Estado de Morelos, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas, y el presente ordenamiento, fomentando la participación de los sectores social y privado;
 
@@ -351,7 +365,9 @@ VII.- Instalar y administrar el Sistema de Información, Vigilancia y Evaluació
 
 VIII.- Instalar, administrar y operar la línea telefónica de Salud Mental y la página electrónica para brindar orientación y canalización, a los servicios de atención mental, en su caso;
 
-IX.- Instalar, administrar y operar las unidades de atención ambulatoria inmediata y las unidades de hospitalización de corta estancia en los hospitales y centros de salud dependientes de los Servicios de Salud en Morelos, de manera progresiva de acuerdo a las disponibilidades presupuestales;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IX.- Instalar, administrar y operar las unidades de atención ambulatoria inmediata y las unidades de hospitalización de corta estancia en los hospitales y centros de salud dependientes de los Servicios de Salud de Morelos, de manera progresiva de acuerdo con las disponibilidades presupuestales;
 
 X.- Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Morelos, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la rehabilitación, invitando al sector social y privado que estén avocados a la salud mental a realizar propuestas o en su caso, emitir opinión al respecto;
 
@@ -359,11 +375,33 @@ XI.- Fijar los lineamientos de coordinación para que los Municipios, en el ámb
 
 XII.- Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación en prestación de los servicios de salud mental;
 
-XIII.- Coordinarse con la Secretaría del Trabajo y Productividad, a efecto de establecer acciones y convenios para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas e instituciones de Gobierno, mismas que se especificarán en el Reglamento de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+XIII.- Coordinarse con la Secretaría del Trabajo, a efecto de establecer acciones y convenios para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas e instituciones de Gobierno, mismas que se especificarán en el Reglamento de la presente Ley;
 
 XIV.- Presentar un informe anual sobre las políticas públicas implementadas en materia de salud mental, así como el estado de avance en el cumplimiento del Programa de Salud Mental para el Estado de Morelos y los diversos programas generados, el cual deberán remitir al Consejo y al Congreso del Estado; y
 
 XV.- Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 12 Bis.
+
+Los Servicios de Salud de Morelos elaborarán el Programa Estatal de Atención y Prevención del Suicidio, el cual deberá contener al menos las siguientes directrices:
+
+I. Informar con bases científicas, las principales causas y estadísticas del suicidio y su dinámica en Morelos;
+
+II. Establecer los criterios pertinentes que permitan la atención de las personas que padezcan depresión con tendencia a conductas suicidas;
+
+III. Establecer las disposiciones de carácter general para la prevención y atención del suicidio;
+
+IV. Establecer y difundir líneas de comunicación, de contacto directo, con las dependencias y entidades públicas del Sistema Estatal de Salud, para que brinden orientación y asistencia a las personas que presenten conducta suicida, a través de personal debidamente especializado y capacitado en la materia;
+
+V. Difundir cuáles son las instituciones que brindan apoyo, orientación y atención a las personas con depresión y tendencia a conductas suicidas, y
+
+VI. Establecer los criterios necesarios para la difusión de información sobre la atención y prevención del suicidio en todos los ámbitos.
+
+Para la elaboración del presente Programa, los Servicios de Salud de Morelos podrán considerar la participación de la Secretaría de Salud, de las dependencias y entidades públicas del Sistema Estatal de Salud, de las autoridades municipales y de los sectores social y privado involucrados en el tema.
 
 ###### Artículo 13.
 
@@ -455,9 +493,11 @@ Asimismo, para la emisión de dictámenes solicitados por las autoridades, deber
 
 El Psicoterapeuta, debe ser psicólogo con cédula profesional y con estudios de postgrado en psicoterapia, realizados en instituciones que cuenten con validez oficial.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 30.
 
-La consulta psicoterapéutica que proporcione la Secretaría se realizará en los Módulos de Salud Mental del Centro de Salud o en la consulta externa de la unidad hospitalaria de los Servicios de Salud, que cuente con Módulo de Salud Mental.
+La consulta psicoterapéutica que proporcione la Secretaría se realizará en los Módulos de Salud Mental del Centro de Salud o en la consulta externa de la unidad hospitalaria de los Servicios de Salud de Morelos, que cuente con Módulo de Salud Mental.
 
 ###### Artículo 31.
 
@@ -498,6 +538,22 @@ Para efectos del presente Capítulo, se consideran trastornos mentales en partic
 ###### Artículo 39.
 
 Derivado de las (sic) trastornos mentales que presentan los diversos sectores de la sociedad y en virtud de que requieren cada uno de ellos atención especializada, los tipos de atención en salud mental que proporcione la Secretaría buscarán dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores y personas que se encuentran en situación de calle, de emergencia o desastre.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 39 Bis.
+
+La Secretaría de Salud, a través del organismo público descentralizado denominado Servicios de Salud de Morelos, en coordinación con la (sic) Secretarías de Educación y de Desarrollo Social, ambos, del Poder Ejecutivo Estatal; deberán diseñar e implementar estrategias específicas para la evaluación y control de la anorexia y bulimia particularmente entre la población infantil y adolescente del Estado, las cuales habrán de atender, de manera enunciativa más no limitativa, lo siguiente:
+
+I. Campañas informativas relativas a la anorexia y la bulimia, en particular sobre las características de estos trastornos y de sus consecuencias, sobre sus aspectos clínicos, nutricionales, psicológicos y sociales y, de las formas apropiadas e inapropiadas de su tratamiento;
+
+II. Promover, especialmente entre los niños y adolescentes, conductas nutricionales saludables;
+
+III. Promover en la comunidad espacios de reflexión y educación para contención de quienes padecen estas enfermedades;
+
+IV. Proponer acciones tendientes a eliminar la discriminación y la estigmatización en el ámbito laboral, educacional o social, frente al padecimiento de la anorexia y la bulimia, y
+
+V. Promover la participación de organizaciones no gubernamentales y la sociedad civil en las acciones previstas en las estrategias.
 
 ###### Artículo 40.
 
@@ -577,6 +633,12 @@ Para los internamientos voluntarios, de emergencia o por orden de autoridad, los
 
 Todo internamiento debe ser comunicado por el director, responsable o encargado del establecimiento sea público, social o privado a los familiares de la persona o representante legal si los tuviere, y al juez de la causa si correspondiere, así como a otra persona que el paciente indique. En caso de que sea un menor de edad o el internamiento sea por orden de autoridad, además se deberá informar de oficio al Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 51 Bis.
+
+Las instituciones del sector público, social o privado en donde se encuentre internada una persona con enfermedad mental, deberán llevar un registro de las visitas que le hagan los familiares, por lo que en caso de que no reciba visita durante un período máximo de 30 días, la institución deberá dar el aviso correspondiente al Ministerio Público, por la posible configuración del delito de omisión de cuidado.
+
 ## TÍTULO V. DEL SISTEMA ESTATAL DE SALUD MENTAL
 
 ### CAPÍTULO I. DEL CONSEJO ESTATAL DE SALUD MENTAL
@@ -619,9 +681,11 @@ El Reglamento determinará los lineamientos de operación del Consejo.
 
 Los cargos en el Consejo serán honoríficos, con excepción del Secretario Técnico, quien dependerá de la Secretaría de Salud.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 53.
 
-El Consejo, contará con una Secretaría Técnica, cuyas facultades, así como las del Presidente y demás integrantes, se establecerán en el Reglamento Interno que para tal efecto se expida.
+El Consejo contará con una Secretaría Técnica, cuyas facultades así como las del Presidente y demás integrantes, se establecerán en el Reglamento Interno que emita el propio Consejo.
 
 ###### Artículo 54.
 
@@ -675,15 +739,17 @@ VII.- Las demás que le confiera la presente Ley y el Reglamento.
 
 ### CAPÍTULO III. DE LA RED ESTATAL DE SALUD MENTAL
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 57.
 
 La Red de Salud estará integrada por los siguientes niveles de atención:
 
-a) Primer nivel de atención: atención otorgada por los Servicios de Salud en Morelos, el Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Morelos, los Sistemas Municipales para el Desarrollo Integral de los Municipios, las Unidades Especializadas en Salud Mental (UNEMES-CISAME) y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general; mismos que deben estar actualizados en temas neuropsiquiatricos;
+a) Primer nivel de atención: atención otorgada por los Servicios de Salud de Morelos, el Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Morelos, los Sistemas Municipales para el Desarrollo Integral de la Familia, las Unidades Especializadas en Salud Mental (UNEMES-CISAME) y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general; mismos que deben estar actualizados en temas neuropsiquiátricos;
 
-b) Segundo nivel de atención: atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de de (sic) los Servicios de Salud en Morelos.
+b) Segundo nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas dependientes de los Servicios de Salud de Morelos, y
 
-c) Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes de los Servicios de Salud en Morelos.
+c) Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes de los Servicios de Salud de Morelos.
 
 ###### Artículo 58.
 
@@ -723,7 +789,9 @@ El fideicomiso que se crea por virtud de la presente ley no mantendrá estructur
 
 El fideicomiso público cuya creación se autoriza a través de este ordenamiento, tendrá la estructura básica siguiente:
 
-I.- Fideicomitente.- El Gobierno del Estado de Morelos, a través del Secretario de Finanzas y Planeación.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+I.- Fideicomitente.- El Gobierno del Estado de Morelos, a través de la persona titular de la Secretaría de Hacienda;
 
 II.- Fiduciaria.- La institución del sistema financiero mexicano que le ofrezca al Gobierno del Estado de Morelos, las mejores condiciones del mercado.
 
@@ -841,7 +909,7 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 
 TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
 
-CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal (sic) Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
 
@@ -854,3 +922,51 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2139 POR EL QUE SE REFORMAN LAS FRACCIONES XXXIII, XXXIV Y XXXV DEL ARTÍCULO 7; EL PÁRRAFO INICIAL Y LAS FRACCIONES IX Y XIII, DEL ARTÍCULO 12; LOS ARTÍCULOS 30 Y 57; Y LA FRACCIÓN I, DEL ARTÍCULO 64; TODOS DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2141, POR EL QUE SE ADICIONA UN ARTÍCULO 51 BIS, A LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2146, POR EL QUE SE REFORMA EL ARTÍCULO 53 Y SE ADICIONA EL ARTÍCULO 39 BIS, A LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 2147, POR EL QUE SE REFORMA EL PÁRRAFO INICIAL Y SE ADICIONA UNA FRACCIÓN PARA SER LA VI RECORRIÉNDOSE EN SU ORDEN LAS ACTUALES VI Y VII PARA SER VII Y VIII EN EL ARTÍCULO 11; ASÍ COMO SE ADICIONA EL ARTÍCULO 12 BIS, A LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
