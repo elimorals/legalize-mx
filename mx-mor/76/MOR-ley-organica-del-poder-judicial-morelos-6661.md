@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2014-12-10"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -234,6 +234,38 @@ Para ser Magistrado del Tribunal Superior de Justicia se requiere cumplir con la
 ###### ARTICULO 26.
 
 Los Magistrados del Tribunal Superior de Justicia se retirarán forzosamente del cargo al cumplir setenta años de edad, sin perjuicio de lo dispuesto por la Ley del Servicio Civil del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+ARTICULO 26 BIS.- Los Magistrados del Poder Judicial del Estado de Morelos tendrán derecho al Haber por Retiro, en los casos que la Constitución Política del Estado Libre y Soberano de Morelos determina, cuando:
+
+a) Sea por retiro forzoso al alcanzar la edad máxima de sesenta y cinco años de edad o les sobrevenga incapacidad física o mental que los imposibilite para el desempeño del cargo, o
+
+b) Se cumplan los plazos máximos de seis años sin ser ratificado, o catorce años en el ejercicio del cargo de Magistrado.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+ARTICULO 26 TER.- El Haber por Retiro consiste en una prestación económica que se cubrirá mediante único pago, en una sola exhibición, el cual se integrará por lo siguiente:
+
+I. El equivalente a tres meses del salario que el Magistrado perciba en el momento en que corresponda el pago de esta prestación, y
+
+II. El equivalente a un mes de salario por cada dos años de servicios prestados como Magistrado.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+ARTICULO 26 QUATER.- El Haber por Retiro no se otorgará en los casos en que el Magistrado sea privado de su cargo en forma definitiva por sanción aplicada en términos de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+ARTICULO 26 QUINQUIES.- El área competente del Tribunal de que se trate procederá a efectuar el cálculo de la prestación que corresponda al Magistrado por concepto de haber por retiro, y una vez determinada esa cuantía del Haber por Retiro se procederá a su liquidación; para lo cual se deberá notificar al interesado el acuerdo en que se determine la cuantía, señalando con precisión los trámites que deban cubrirse para obtener el pago de esta prestación.
+
+Cuando durante la tramitación del Haber por Retiro falleciere el Magistrado, esta prestación se deberá otorgar a sus beneficiarios.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+ARTICULO 26 SEXIES.- Las disposiciones contenidas en los artículos 26 Bis, 26 Ter, 26 Quater y 26 Quinquies de esta Ley, referentes al Haber por Retiro, resultan aplicables para los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes.
+
+De la misma manera, las disposiciones antes señaladas resultarán aplicables a los Magistrados del Tribunal Electoral de Morelos que hayan fungido antes de la Reforma Constitucional en Materia Político-Electoral y que no hayan sido ratificados por el Senado de la República.
 
 ### CAPITULO SEGUNDO. DEL PLENO DEL TRIBUNAL
 
@@ -2344,3 +2376,11 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERA. Remítase el Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Una vez que entre en vigor el presente Decreto, el Poder Judicial del Estado de Morelos, presentará su propuesta de asignación de recursos presupuestales para cubrir los Haberes por Retiro, al Titular del Poder Ejecutivo, para que éste presente la Iniciativa de modificación del Decreto por el que se aprobó el Presupuesto de Egresos del Gobierno del Estado de Morelos, respecto de los recursos asignados al Tribunal Superior de Justicia del Estado de Morelos para el Ejercicio del año Fiscal dos mil catorce.
