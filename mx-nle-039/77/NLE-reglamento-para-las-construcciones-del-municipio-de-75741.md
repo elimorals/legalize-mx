@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-construcciones-del-municipio-de-75741"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-21"
-last_updated: "2013-05-24"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de junio de 2010.
 
@@ -195,17 +195,25 @@ XXXII. Vía Pública: Es todo inmueble del dominio público, de utilización com
 
 XXXIII. Zonas en declive: Corresponden a las áreas que presentan el lote o terreno con una inclinación del 30% al 45% de pendiente.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
+
+XXXIV. Ventanilla Única: Área administrativa que coordina en un sólo espacio físico la recepción de solicitudes, asesoría e información del proceso de obtención de licencias y de la entrega al solicitante de las licencias o permisos municipales emitidas por la Secretaría.
+
 ###### Artículo 3.
 
 Las construcciones para los efectos del presente Reglamento tendrán la siguiente clasificación, según su uso y tamaño:
 
-I. TIPO 1: Construcciones o reparaciones menores: Bardas de block o concreto no mayores de 2.00 metros de altura, remodelación de fachadas, excavaciones, movimientos de tierra y otros;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+I. TIPO 1: Construcciones o reparaciones menores: Bardas no mayores de 3.00 metros de altura, remodelación de fachadas, excavaciones, movimientos de tierra y otros;
 
 II. TIPO 2: Autoconstrucción o construcción progresiva: La Construcción mínima de hasta 40 metros cuadrados de construcción por etapa;
 
 III. TIPO 3a: Vivienda unifamiliar: En terreno plano (de hasta 30% de pendiente), máximo 3 niveles, claros máximos de 6.00 metros y muros de contención de hasta 3.50 metros;
 
-IV. TIPO 3b: Vivienda unifamiliar: En terreno con pendiente superior al 30%. Bardas mayores a 2.00 metros de altura y muros de contención de hasta 3.50 metros;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IV. TIPO 3b: Vivienda unifamiliar: En terreno con pendiente superior al 30%. Bardas mayores a 3.00 metros de altura y muros de contención de hasta 3.50 metros;
 
 V. TIPO 4a: Vivienda multifamiliar, comercio, servicios o industria de hasta 300 Mt2 de construcción;
 
@@ -225,9 +233,17 @@ II. El C. Secretario de Desarrollo Urbano y Ecología;
 
 III. El C. Secretario de Servicios Públicos;
 
-IV. Los inspectores adscritos a la Secretaría de Desarrollo Urbano y Ecología; y,
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-V. Los inspectores y supervisores adscritos a la Secretaría de Servicios Públicos.
+IV. Los inspectores adscritos a la Secretaría de Desarrollo Urbano y Ecología;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+V. Los inspectores y supervisores adscritos a la Secretaría de Servicios Públicos; y,
+
+> <small>(REFORMADA [N. DE. E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
+
+VI. La Secretaría del Ayuntamiento, a través de la Dirección de Protección Civil.
 
 ###### Artículo 5.
 
@@ -264,6 +280,16 @@ XIV. En los casos de controversia por asuntos de construcción entre particulare
 XV. Fijar los lineamientos y especificaciones establecidos en el Reglamento de Accesibilidad de la Ciudad de Monterrey; y,
 
 XVI. Las demás que le confieren la Ley, Planes o programas, este Reglamento y las demás disposiciones en materia de desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Artículo 5 BIS. La Ventanilla Única tendrá las siguientes funciones:
+
+I. Verificar la documentación entregada por el usuario y orientarle en caso de entregar información incompleta;
+
+II. Canalizar a las dependencias municipales competentes o instancias que correspondan, la información necesaria para la evaluación, elaboración de los dictámenes, lineamientos o resoluciones, relativas a la solicitud o expediente administrativo que corresponda; y
+
+III. Las demás que le sean encomendadas.
 
 ###### Artículo 6.
 
@@ -565,7 +591,7 @@ Los requisitos para la obtención de licencias de construcción para obra nueva,
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 21.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 40.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 40; 22 DE ABRIL DE 2015, PÁGINA 2.</small>
 
 DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
@@ -583,13 +609,15 @@ DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
 7. Alineamiento Vial;
 
-8. Planos estructurales, como mínimo los siguientes: cimentación, firmes, columnas, muros, castillos, losas y cuando proceda, muros de contención y carta responsiva del Asesor estructural;
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+8. Planos estructurales impresos y digitales, que deberán contener como mínimo los siguientes: cimentación, firmes, columnas, muros, castillos, losas y cuando proceda, muros de contención y carta responsiva del Asesor estructural;
 
 9. Estudio de mecánica de suelos;
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
-10. Dictamen del proyecto por la dependencia competente en materia de protección civil o en su caso el Patronato de Bomberos de Nuevo León A.C.
+10. Opinión emitida por la dependencia competente en materia de protección civil, o en su caso por el Patronato de Bomberos de Nuevo León, A.C., en relación al análisis de riesgos que incluya las medidas preventivas que se requieran en las instalaciones y/o edificaciones de cualquier índole, que se encuentren en operación o sean de nueva creación.
 
 11. (DEROGADO, P.O. 24 DE MAYO DE 2013);
 
@@ -606,6 +634,32 @@ Deberá contar con póliza de seguro de responsabilidad civil contra terceros du
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
 
 En caso de ser necesario, deberá presentarse el proceso de mitigación de riesgos colindantes, con su programa de ejecución y análisis de taludes
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 20 Bis.
+
+Los requisitos para obtener la opinión a la que se refiere el numeral 10 del artículo 20 de este Reglamento, que sea emitida por las autoridades municipales competentes, serán los siguientes:
+
+1. Solicitud oficial;
+
+2. Identificación oficial del propietario o solicitante;
+
+3. Comprobante de pago del impuesto predial al corriente;
+
+4. Dos copias de planos del proyecto a solicitar, pre-firmados por la Secretaría;
+
+5. Tres fotografías del inmueble;
+
+6. En caso de persona moral, acta constitutiva;
+
+7. En caso de aplicar, contrato de arrendamiento;
+
+8. Carta poder simple, en caso de que el solicitante no sea el propietario o inquilino; y
+
+9. Pago de los derechos correspondientes al trámite.
+
+La opinión será emitida por la autoridad municipal competente en un plazo máximo de 10-diez días hábiles y tendrá una vigencia señalada de un año.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
 
@@ -739,9 +793,11 @@ Los propietarios o poseedores de las obras cuya construcción sea suspendida por
 
 Cuando se interrumpa una excavación, se tomarán las precauciones necesarias para evitar que se presenten movimientos que puedan dañar las edificaciones y predios colindantes o las instalaciones de la vía pública y que ocurran fallas en las paredes o taludes de la excavación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 41.
 
-Se tomarán las precauciones necesarias para impedir el acceso al sitio de la obra o excavación mediante señalamientos adecuados y barreras o tapiales, sin que implique la colocación de anuncios de casas comerciales, espectáculos, eventos y similares, en los tapiales o barreras. Los tapiales, de acuerdo con su tipo, deberán cumplir las siguientes disposiciones:
+Para toda obra en proceso o suspendida, se tomarán las precauciones necesarias para mantener el acceso controlado al sitio de la obra o excavación mediante señalamientos adecuados a base de barreras o tapiales, sin que implique la colocación de anuncios de casas comerciales, espectáculos, eventos y similares, en los tapiales o barreras. Los tapiales, de acuerdo con su tipo, deberán cumplir las siguientes disposiciones:
 
 I. DE BARRERA: Cuando se ejecuten obras de pintura, limpieza o similares, se colocarán barreras que se puedan remover al suspenderse el trabajo diario. Estarán pintadas y tendrán leyendas de «PRECAUCIÓN». Se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la autoridad municipal correspondiente su traslado provisional a otro lugar;
 
@@ -797,9 +853,11 @@ C) Nivel y alineamiento de los elementos estructurales; y,
 
 D) Cargas muertas y vivas en la estructura durante la construcción que pongan en riesgo la capacidad estructural de la obra, incluyendo las que se deban a la colocación de materiales.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 50.
 
-Podrán utilizarse nuevos procedimientos o sistemas de construcción que el desarrollo de la técnica introduzca, previa evaluación de la autoridad municipal correspondiente, para lo cual el Director Responsable de Obra presentará una justificación de idoneidad detallando el procedimiento propuesto y anexando, en su caso, los datos de los estudios y los resultados de las pruebas experimentales efectuadas.
+Podrán utilizarse nuevos procedimientos o sistemas de construcción que el desarrollo de la técnica introduzca, previa evaluación de la autoridad municipal correspondiente, para lo cual el Director Responsable de Obra, así como los Asesores que correspondan, presentarán una justificación de idoneidad detallando el procedimiento propuesto y anexando, en su caso, los datos de los estudios y los resultados de las pruebas experimentales efectuadas.
 
 ###### Artículo 51.
 
@@ -838,6 +896,14 @@ Si debido al proyecto, se necesita de más altura para los niveles de la constru
 ###### Artículo 58.
 
 Los taludes que resulten al realizar actividades constructivas deberán tener como altura límite tres metros. En aquellos que resulten mayores que esta altura se deberán presentar los Estudios Geotécnicos que garanticen su estabilidad y seguridad. Su diseño deberá propiciar su protección mediante técnicas que consideren el análisis topográfico y geotécnico, teniendo en cuenta la orientación del corte de acuerdo a un análisis cinemático del talud, el tipo de suelo y la conservación o regeneración de la capa vegetal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2015)</small>
+
+Cuando sea necesario construir muros de contención en terrenos con pendiente natural de entre el 30% y 45%, estos deberán ser de hasta 3.5 metros de altura, de conformidad con lo dispuesto por el artículo 196 de la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2015)</small>
+
+En caso de taludes al límite de propiedad o colindancia, en donde exista construcción en predio vecino, se deberá presentar el procedimiento detallado de la ejecución de la excavación o relleno.
 
 ###### Artículo 59.
 
@@ -879,7 +945,19 @@ El alineamiento oficial es la traza sobre el terreno que limita el predio respec
 
 El alineamiento contendrá las afectaciones y restricciones de carácter urbano que señale la Ley, los planes, programas y reglamentos correspondientes. La autoridad municipal expedirá un documento que consigne el alineamiento oficial al que se refiere el párrafo anterior, en los casos de su competencia.
 
-En las superficies previstas como afectación vial se prohíbe realizar cualquier tipo de construcción u obstrucción; pudiendo ser utilizada dicha superficie como área ajardinada o estacionamiento, en cuyo caso el área ajardinada y/o los cajones habilitados no deberán ser tomados en cuenta al cumplir con las obligaciones reglamentarias indicadas en el Plan, relativas a los requerimientos mínimos exigidos para ambos supuestos
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+En las superficies previstas como afectación vial se prohíbe realizar cualquier tipo de construcción, pudiendo ser utilizada dicha superficie como área ajardinada y/o estacionamiento, en cuyo caso se estará a las disposiciones legales aplicables.
+
+(Imagen) (sic)
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+###### Artículo 64 Bis.
+
+La Secretaría emitirá la resolución de las solicitudes de Alineamiento Vial en un plazo máximo de 5-cinco días hábiles.
+
+La resolución antes descrita estará supeditada a los cambios o reformas a la Ley, el Plan o Programa y este Reglamento, por lo tanto su vigencia subsistirá mientras no se modifiquen dichas disposiciones.
 
 ###### Artículo 65.
 
@@ -1097,9 +1175,11 @@ DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
 En caso de demoliciones menores a 60 metros cuadrados de construcción no se requerirá carta responsiva de Director Responsable de Obra.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 92.
 
-La demolición total, deberá de hacerse en fincas deshabitadas, por lo tanto, no se podrá ejecutar aún con la licencia. Cuando la demolición sea parcial la finca podrá estar habitada, siempre y cuando se adopten las medidas preventivas de seguridad para dicho efecto. En ambos casos, se deberán evitar daños dejando a salvo los derechos de terceros y a las propiedades colindantes.
+La demolición total deberá de hacerse en fincas deshabitadas, por lo tanto cuando éstas estuviesen habitadas no se podrá ejecutar aun con la licencia. Cuando la demolición sea parcial la finca podrá estar habitada, siempre y cuando se adopten las medidas preventivas de seguridad para dicho efecto. En ambos casos, se deberán evitar daños dejando a salvo los derechos de terceros y a las propiedades colindantes.
 
 Si la demolición, se va a ejecutar con explosivos, al solicitar la licencia, se pondrá fecha para tal acontecimiento, cuando menos 30 días hábiles después de solicitada la licencia, para que se tenga tiempo de evacuar el área necesaria para evitar accidentes. Para el uso de explosivos se solicitara la autorización de la Secretaria de la Defensa Nacional.
 
@@ -1107,9 +1187,11 @@ Con la solicitud de licencia se deberá presentar un programa de demolición, en
 
 Una vez terminados los trabajos de demolición, el propietario, poseedor o el Director Responsable de Obra tendrán un plazo de 15 días naturales para limpiar el terreno de escombros y desperdicios.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 93.
 
-Cualquier demolición en monumentos o en las zonas de monumentos a que se refiere la Ley Federal de Monumentos y Zonas Arqueológicas, Artísticas e Históricas, la Ley de Patrimonio Cultural del Estado de Nuevo León o en aquellas que hayan sido determinadas de preservación del patrimonio cultural mediante los Decretos o Catálogos de Monumentos Inmuebles Históricos o Artísticos correspondientes, requerirá previo a la autorización municipal correspondiente, la del Instituto Nacional de Antropología e Historia o autoridad competente y requerirá, en todos los casos de la responsiva de un Director Responsable de la Obra.
+Cualquier demolición en monumentos o en las zonas de monumentos a que se refiere la Ley Federal de Monumentos y Zonas Arqueológicas, Artísticas e Históricas, la Ley de Patrimonio Cultural del Estado de Nuevo León o en aquellas que hayan sido determinadas de preservación del patrimonio cultural mediante los Decretos o Catálogos de Monumentos Inmuebles Históricos o Artísticos correspondientes, requerirá previo a la autorización municipal correspondiente, la del Instituto Nacional de Antropología e Historia, Instituto Nacional de Bellas Artes, o autoridad competente que corresponda y requerirá, en todos los casos de la responsiva de un Director Responsable de la Obra.
 
 ### CAPÍTULO VI. DE LA SEGURIDAD Y EL DISEÑO ESTRUCTURAL
 
@@ -1179,7 +1261,7 @@ Para la aplicación de las cargas vivas unitarias se deberán tomar en Considera
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 45.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 44.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 44; 22 DE ABRIL DE 2015, PÁGINA 95.</small>
 
 ###### Artículo 105.
 
@@ -1341,11 +1423,13 @@ J) Cuando se requiera evaluar pruebas de carga para la seguridad de una edificac
 
 La Autoridad municipal estará facultada para ordenar la demolición parcial o total de una obra, por haberse ejecutado en contravención a la Ley, Plan o Programa, este Reglamento y demás normas de carácter general en materia de desarrollo urbano, independientemente de las sanciones que procedan, cuando haga valer esta disposición ante autoridad judicial competente, corriendo los gastos por el propietario o poseedor de la obra. Cuando se demuestre que la obra cumple con este Reglamento y los demás ordenamientos legales respectivos, la autoridad municipal concederá la regularización mediante la presentación de la siguiente documentación:
 
-Requisitos para la obtención de regularización de construcciones, según su Tipo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Requisitos para la obtención de regularización de construcciones según su Tipo:
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 53.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 47.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 47; 22 DE ABRIL DE 2015, PÁGINA 96.</small>
 
 DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
@@ -1370,6 +1454,14 @@ DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 10. Presentar estudio de revisión estructural del inmueble, basado en un método de análisis, que evalúe las cargas actuantes y la respuesta de la estructura, la cimentación y el suelo que la sustenta; debiendo considerar las cargas vivas del uso específico, en los términos a que se refiere el artículo 104, de este Reglamento.
 
 El estudio señalado deberá ser firmado por el Asesor Estructural, y contendrá las especificaciones y medidas de remediación necesarias apoyado de ilustraciones gráficas y fotográficas, haciendo una descripción de lo observado en el mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2015)</small>
+
+En caso de casas habitación unifamiliares se podrán regularizar las construcciones que se encuentren en la siguiente situación:
+
+I. Construcciones en terrenos de hasta 150 m2.
+
+II. Acreditar 5 años de antigüedad de la construcción. Para acreditar la antigüedad se deberá presentar antecedente catastral, debidamente registrado.
 
 ### CAPÍTULO IX. DE LA CONSERVACIÓN DE PREDIOS
 
@@ -1612,3 +1704,7 @@ P.O. 24 DE MAYO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas por modificación, adición y derogación del Reglamento para las Construcciones del Municipio de Monterrey, Nuevo León, entrará (sic) en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ABRIL DE 2015.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
