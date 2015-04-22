@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2014-12-24"
+last_updated: "2015-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -1029,7 +1029,9 @@ II. Cumplir los objetivos y fines en la materia, en coordinación con las instan
 
 III. Conducir en el Estado las normas, políticas y programas en materia de seguridad pública que deriven de la Constitución Política de los Estados Unidos Mexicanos y demás cuerpos normativos Federales y Estatales;
 
-IV. Prevenir el delito en el ámbito de su competencia, en conjunción con las Secretarías, Dependencias y Entidades, implementando acciones de prevención en coordinación con las autoridades municipales y los consejos ciudadanos;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+IV. Prevenir el delito, así como las conductas antisociales y faltas administrativas, en conjunción con las Secretarías, Dependencias y Entidades, implementando y ejecutando acciones de prevención en coordinación con las autoridades municipales y los consejos ciudadanos, incluidos aquellos derivados de la conducción de automotores en estado de ebriedad y otras drogas, en términos de la normativa aplicable y conforme a los elementos objetivos con que cuente, en la forma, temporalidad y zonas del Estado que estime más apropiados;
 
 V. Establecer la creación, estructuración y aplicación de los programas tendientes a combatir los hechos delictivos e infracciones administrativas, en los que deben participar las diferentes Instituciones Policiales;
 
@@ -1988,3 +1990,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto iniciará su vigencia el día primero de enero del año 2015, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
