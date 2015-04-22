@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-combate-al-abuso-de-bebidas-83343"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-03-26"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2011.
 
@@ -53,19 +53,29 @@ II. Normar, regular, inspeccionar, vigilar y autorizar cualquier actividad líci
 
 III. Prevenir y combatir el abuso en el consumo de bebidas alcohólicas;
 
-IV. Inhibir la comisión de infracciones y delitos relacionados con dicho abuso, a través de disposiciones que establezcan horarios, condiciones de ubicación y modalidades para la venta y el consumo de bebidas alcohólicas en los municipios de la entidad, así como las infracciones y sanciones que se ocasionen con motivo de la inobservancia de sus preceptos;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-V. Sancionar las conductas negligentes relacionadas con el consumo de bebidas alcohólicas, que causen lesiones en el patrimonio de las personas, de sus familias y en general de sus derechos fundamentales;
+IV.- Inhibir y prevenir la comisión de infracciones y delitos relacionados con dicho abuso, a través de programas y disposiciones que establezcan horarios, condiciones de ubicación, entre otros, y, en su caso, modalidades para la venta y el consumo de bebidas alcohólicas en diversas zonas de los Municipios de la Entidad, así como las infracciones y sanciones que se ocasionen con motivo de la inobservancia de sus preceptos;
 
-VI. Proteger la salud frente a los riesgos derivados del alcohol y promover campañas permanentes que combatan el abuso del alcohol.
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-VII. Establecer políticas públicas a cargo del gobierno del estado y de los municipios orientadas a la promoción permanente a favor de una cultura social por el no consumo de bebidas alcohólicas, y
+V.- Sancionar las conductas negligentes relacionadas con la venta y consumo de bebidas alcohólicas, en los términos que establezca la presente Ley.
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+VI.- Proteger la salud frente a los riesgos derivados del alcohol y promover políticas públicas, programas, campanas y demás acciones que se estimen necesarias, ya sean permanentes o itinerantes, que combatan el abuso del alcohol;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+VII.- Establecer políticas públicas y programas a cargo del Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas competencias, orientadas a la promoción permanente a favor de una cultura social por el no consumo de bebidas alcohólicas, y
 
 VIII. Conceder acción ciudadana para denunciar las conductas comerciales o sociales que promuevan el consumo irresponsable de bebidas embriagantes, los establecimientos que funcionen de forma irregular y en general en contra de cualquier actividad que atente contra el objeto público de la presente ley.
 
+> <small>(REFORMADO, P. O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 2.
 
-Serán sujetos de la presente Ley, las personas jurídico-individuales o físicas y jurídico-colectivas o morales que operen establecimientos o locales que de manera principal o accesoria tengan a la venta bebidas alcohólicas o realicen actividades sociales, comerciales o de cualquier tipo relacionadas con la venta, comercialización y consumo de bebidas alcohólicas.
+Serán sujetos de la presente Ley, las personas jurídico-individuales o físicas y jurídico-colectivas o morales que operen establecimientos o locales que de manera principal o accesoria tengan a la venta bebidas alcohólicas o realicen actividades sociales, comerciales o de cualquier tipo relacionadas con la venta, comercialización y consumo de bebidas alcohólicas, incluidas las personas que conduzcan automotores bajo la ingesta inmoderada de alcohol.
 
 ###### Artículo 3.
 
@@ -111,9 +121,13 @@ XV. Establecimientos para venta sin consumo: Aquellos donde puede realizarse la 
 
 XVI. Establecimientos eventuales: Aquellos donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas;
 
-XVII. Establecimientos de giro rojo con espectáculo: Aquellos que además de venta de alcohol, específicos o no, ofrezcan además espectáculos en vivo de exhibición erótico sexual;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XVIII. Estado de ebriedad: Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene un nivel superior de .5 o más gramos de alcohol por litro de sangre y de .3 o más gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición;
+XVII.- Establecimientos de giro rojo con espectáculo: Aquellos que además de venta de alcohol, específicos o no, ofrezcan espectáculos en vivo de exhibición erótico sexual;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XVIII.- Estado de ebriedad: Condición física y mental ocasionada por la ingesta inmoderada de alcohol, que se presenta en una persona cuando su organismo contiene un nivel igual o superior de 0.5 gramos de alcohol por litro de sangre o de 0.25 miligramos de alcohol por litro de aire espirado;
 
 XIX. Evento privado: Reunión de personas en lugar privado o comercial, de carácter ocasional, organizado de forma particular para llevar a cabo fiestas, luz y sonido, espectáculos musicales o de cualquier tipo, en los que se comercialice la venta de alcohol, ya sea que esté incluida en el precio de acceso o no, y que tenga por objeto la reunión comercial de los asistentes.
 
@@ -143,29 +157,53 @@ XXXI. Permisionario: Las personas jurídico-individuales o físicas y jurídico-
 
 XXXII. Prevención: Conjunto de acciones y medidas dirigidas a evitar o reducir el abuso en el consumo de bebidas alcohólicas y destinadas a generar conciencia en los daños colaterales que su consumo implica en las relaciones sociales;
 
-XXXIII. Pulquerías: Establecimientos comerciales fijos en los que se expende pulque al público para su consumo inmediato;
+> <small>(ADICIONADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XXXIV. Registro Público: El registro público de licencias y permisos a que se refiere esta Ley, el cual deberá ser público y accesible para cualquier persona que desee consultarlo.
+XXXIII.- Programas: Instrumentos legales mediante los que el Ejecutivo del Estado y los Municipios, proveen en su esfera administrativa, la exacta observancia de esta y otras leyes, en los que se establece el conjunto de acciones a implementarse en el ámbito de sus respectivas competencias y, en su caso, con la colaboración y participación de las autoridades federales, con el objeto de controlar, combatir, tratar y prevenir el consumo y venta de bebidas alcohólicas;
 
-XXXV. Reglamento: El orden normativo que cada ayuntamiento expida con objeto de complementar los preceptos de esta Ley, en sus respectivos ámbitos de aplicación territorial;
+> <small>(ADICIONADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XXXVI. Reincidencia: Cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado.
+XXXIV.- Prueba de Alcoholimetría: Toma de una muestra del aire espirado en dos etapas, resultante del proceso respiratorio de un individuo, en busca de la presencia y concentración de alcohol en el organismo, lo anterior con un equipo técnico de medición en aire espirado denominado alcoholímetro, pudiendo arrojarse un resultado cualitativo o cuantitativo, dependiendo el tipo de prueba practicado, siendo la primera etapa de la prueba la que determina la presencia o no de alcohol en el organismo y la segunda la concentración de alcohol en el sujeto al que se aplica;
 
-XXXVII. Salud pública: El conjunto de acciones interinstitucionales, que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar, prolongar la vida humana, y en general establecer las condiciones necesarias para establecer relaciones sociales adecuadas y ajenas a los efectos nocivos del consumo de alcohol.
+XXXV.- Pulquerías: Establecimientos comerciales fijos en los que se expende pulque al público para su consumo inmediato;
 
-XXXVIII. Secretaría: Secretaría de Salud del poder ejecutivo del Estado de Morelos;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XXXIX. Servicios adyacentes: Las actividades de diversión, entretenimiento, espectáculos o servicios complementarios que se presenten o realicen en los establecimientos o giros autorizados para llevar a cabo las actividades regulada (sic) por esta Ley, en las modalidades que se consignen en cada uno de los reglamentos municipales y que podrán explotar temporal o permanentemente los permisionarios;
+XXXVI. Registro Público: El registro público de licencias y permisos a que se refiere esta Ley, el cual deberá ser público y accesible para cualquier persona que desee consultarlo;
 
-XL. Tratamiento: Conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas.
+XXXVII.- Reglamento: El orden normativo que cada ayuntamiento expida con objeto de complementar los• preceptos de esta ley, en sus respectivos ámbitos de aplicación territorial;
 
-XLI. Venta: La comercialización de bebidas alcohólicas en envase cerrado, que ofertan y promuevan los establecimientos o giros autorizados con un propósito de especulación comercial, con sujeción a las medidas y restricciones establecidas en esta Ley y los reglamentos de cada una de las municipalidades del estado de Morelos;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XLII. Venta para el consumo directo: La comercialización de bebidas alcohólicas en envase abierto para consumo directo en los establecimientos o giros autorizados para tal efecto, con sujeción a las medidas y restricciones de esta Ley y cada reglamento municipal.
+XXXVIII.- Reincidencia: Cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción;
 
-XLIII. Zona de servicio: El área o local consignado a la clientela para la compra de bebidas alcohólicas, ya sea sólo para su venta o para el consumo acompañado de los servicios adyacentes de cada establecimiento;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XLIV. Zona turística: El territorio en el que el turismo es la actividad económica preferente donde se ofertan diversos productos turísticos, aunque predomine un tipo de producto concreto; integra diferentes destinos turísticos y se manifiesta como un conglomerado de agrupaciones de empresas o entidades turísticas de carácter empresarial, territorial o institucional.
+XXXIX.- Salud pública: El conjunto de acciones interinstitucionales, que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar, prolongar la vida humana, y en general establecer las condiciones necesarias para establecer relaciones sociales adecuadas y ajenas a los efectos nocivos del consumo de alcohol;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XL.- Secretaría: Secretaría de Salud del Poder Ejecutivo del Estado de Morelos;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLI.- Servicios adyacentes: Las actividades de diversión, entretenimiento, espectáculos o servicios complementarlos que se presenten o realicen en los establecimientos o giros autorizados para llevar a cabo las actividades reguladas por esta Ley, en las modalidades que se consignen en cada uno de los Reglamentos Municipales y que podrán explotar temporal o permanentemente los permisionarios;
+
+XLII.- Tratamiento: Conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLIII.- Venta: La comercialización de bebidas alcohólicas en envase cerrado, que ofertan y promueven los establecimientos o giros autorizados con un propósito de especulación comercial, con sujeción a las medidas y restricciones establecidas en esta Ley y los Reglamentos de cada una de las municipalidades del estado de Morelos;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLIV.- Venta para el consumo directo: La comercialización de bebidas alcohólicas en envase abierto para consumo directo en los establecimientos o giros autorizados para tal efecto, con sujeción a las medidas y restricciones de esta Ley y cada Reglamento Municipal;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLV. Zona de servicio: El área o local consignado a la clientela para la compra de bebidas alcohólicas, ya sea sólo para su venta o para el consumo acompañado de los servicios adyacentes de cada establecimiento; y
+
+XLVI.- Zona turística: El territorio en el que el turismo es la actividad económica preferente donde se ofertan diversos productos turísticos, aunque predomine un tipo de producto concreto; integra diferentes destinos turísticos y se manifiesta como un conglomerado de agrupaciones de empresas o entidades turísticas de carácter empresarial, territorial o institucional.
 
 ###### Artículo 6.
 
@@ -187,7 +225,7 @@ f) Vinos de mesa.- Las bebidas alcohólicas fermentadas que se elaboran con el j
 
 Para efectos de la presente Ley, los giros se clasifican en las siguientes categorías:
 
-a) Establecimiento o tienda con posibilidades de recibir autorización para la venta de bebidas alcohólicas en envase cerrado: (sic)
+a) Establecimiento o tienda con posibilidades de recibir autorización para la venta de bebidas alcohólicas en envase cerrado:
 
 b) Abarrotes.- Los establecimientos que tienen como actividad mercantil preponderante la venta de mercancías perecederas y alimentos no preparados que se comercializan a través de mostrador;
 
@@ -201,7 +239,7 @@ f) Licorería.- Establecimiento que tiene por actividad mercantil preponderante 
 
 g) Depósito.- Establecimiento que tiene por actividad mercantil preponderante el almacenamiento en envase cerrado de bebidas alcohólicas para su distribución.
 
-II(sic).- Establecimiento con posibilidades de recibir autorización exclusivamente para el almacenaje y posterior distribución de bebidas alcohólicas para su venta:
+II (sic).- Establecimiento con posibilidades de recibir autorización exclusivamente para el almacenaje y posterior distribución de bebidas alcohólicas para su venta:
 
 a) Bodega.- Establecimiento acondicionado solamente para el almacenaje de bebidas alcohólicas y mercancías relacionadas con las mismas, para su posterior distribución al mayoreo; y
 
@@ -247,21 +285,35 @@ A falta de disposición expresa en esta ley, se aplicará de forma supletoria la
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 9.
 
-La aplicación de la presente Ley en el ámbito de su competencia está a cargo de las autoridades siguientes:
+La aplicación de la presente Ley, en el ámbito de sus respectivas competencias, está a cargo de:
 
-I. El titular del Poder Ejecutivo;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-II. Los Ayuntamientos del Estado;
+I. El Poder Ejecutivo Estatal; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
+II. La Secretaría de Salud del Estado, y
+
+III. Los Ayuntamientos del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 10.
 
-A las autoridades estatales y municipales en el ámbito de su competencia les corresponde:
+A las autoridades estatales y municipales en el ámbito de sus respectivas competencias les corresponde:
 
-I. Desarrollar estrategias y programas preventivos en materia de combate al abuso en el consumo del alcohol en todo el estado, implementando el programa de alcolimetría de acuerdo a las necesidades del municipio;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-II. Instruir y promover la implementación en el sistema educativo de programas orientados a educar sobre los efectos del alcohol en la salud y en las relaciones sociales;
+I. Desarrollar estrategias y programas preventivos que permitan combatir el consumo de alcohol, incluyendo aquellos que deriven de la conducción de vehículos automotores en estado de ebriedad, implementando las medidas y acciones que consideren necesarias y oportunas para reducir y prevenir la comisión de faltas administrativas y delitos;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+II. Instruir y promover, en coordinación con las autoridades competentes, la implementación en el Sistema Educativo de programas orientados a educar sobre los efectos del alcohol en la salud y en las relaciones sociales;
 
 III. Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso del alcohol,
 
@@ -273,15 +325,25 @@ VI. Apoyar a centros de prevención y organizaciones no gubernamentales que prom
 
 VII. Las demás que señalen otras disposiciones de carácter general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 11.
 
-Corresponde al Ejecutivo del Estado a través de sus dependencias:
+Corresponde al Poder Ejecutivo Estatal a través de sus Secretarias, Dependencias y Entidades competentes:
 
-I. Ordenar la suspensión de actividades en fechas y horas determinadas, con el objeto de prevenir la alteración del orden, la salud pública, la moralidad y la seguridad pública, dicha suspensión deberá estar fundada, motivada y difundida en el periódico oficial, y en los medios de comunicación; la infracción a esta disposición será sancionada por el Ejecutivo del Estado a través de la dependencia correspondiente.
+I.- Ordenar la suspensión de actividades en fechas y horas determinadas, con el objeto de prevenir la alteración del orden, la salud pública, la moralidad y la seguridad pública, dicha suspensión deberá estar fundada, motivada y difundida en el periódico oficial, y en los medios de comunicación; la infracción a esta disposición será sancionada por el Ejecutivo del Estado a través de la dependencia correspondiente.
 
-II. Realizar visitas de inspección a través de la Secretaría de Salud para verificar el cumplimiento de la presente Ley.
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-III. Recibir y atender las denuncias ciudadanas a través de la Secretaría de Salud, la cual podrá aplicar las sanciones previstas en el artículo 94 de esta Ley.
+II.- Realizar visitas de inspección, para verificar el cumplimiento de la presente Ley;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+III.- Recibir y atender las denuncias ciudadanas, así como aplicar las sanciones previstas en la presente Ley;
+
+> <small>(ADICIONADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+IV.- Implementar las medidas necesarias, para llevar a cabo los programas en materia de prevención y tratamiento relacionado con el consumo inmoderado de alcohol, con la participación que corresponda a cada instancia.
 
 ###### Artículo 12.
 
@@ -393,7 +455,7 @@ Por cuanto a los proyectos de construcción de inmuebles que pretendan constitui
 
 Una vez certificada la terminación de la obra, la autoridad municipal convalidará el permiso de las actividades de esta Ley y su reglamento, verificando que el local cumpla con las condiciones y el permisionario con los requisitos legales y reglamentarios para tal efecto.
 
-###### Articulo 28.
+###### Artículo 28.
 
 El permiso otorgado por la autoridad municipal competente para la venta, almacenaje para su distribución o venta para el consumo directo de bebidas alcohólicas, así como, para la explotación de servicios adyacentes, no podrá ser sujeto de algún embargo judicial, precautorio, administrativo o de ejecución, quedando a salvo los derechos que concede a los permisionarios, autorizándolos a transferirlos conforme al reglamento municipal de que se trate y en los siguientes casos:
 
@@ -465,7 +527,9 @@ VII. El horario y el giro autorizado, y
 
 VIII. Nombre de la persona responsable del evento, domicilio y copia de identificación oficial.
 
-Una vez reunidos los requisitos anteriores, si la autoridad municipal no resuelve en un periodo máximo de siete días, se entenderá como autorizado el mismo, únicamente para el evento solicitado.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
+Una vez reunidos los requisitos anteriores, si la autoridad municipal no resuelve en un período máximo de cinco días, se entenderá como autorizado el mismo, únicamente para el evento solicitado.
 
 ###### Artículo 33.
 
@@ -517,13 +581,17 @@ Los ayuntamientos, procurarán destinar un porcentaje de los ingresos que reciba
 
 Tratándose de la revalidación de licencias y permisos no provisionales, en caso de que la autoridad municipal no dé respuesta en un plazo máximo de 30 días hábiles de que se hubiere entregado la solicitud y los documentos respectivos, se tendrá como aprobada la solicitud.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 42.
 
-Cuando se realice la enajenación de algún giro de los regulados por esta Ley, sin que implique cambio de domicilio, el adquiriente deberá solicitar ante el ayuntamiento, dentro de los 30 días hábiles siguientes a la fecha en que se haya efectuado dicha enajenación, la expedición de la licencia a su nombre, acompañando a la solicitud respectiva lo siguiente:
+Cuando se realice la enajenación de algún giro de los regulados por esta Ley, sin que implique cambio de domicilio, el adquiriente deberá solicitar por escrito ante el Ayuntamiento correspondiente, dentro de los 30 días hábiles siguientes a la fecha en que se haya efectuado dicha enajenación, la expedición de la licencia o permiso a su nombre, acompañando a la solicitud respectiva lo siguiente:
 
-I. El documento en el que conste el acto traslativo de dominio, así como las constancias que deban renovarse o actualizarse, de los requisitos a que se refieren los artículo (sic)13 y 14 de la presente ley, según sea el caso;
+I.- El documento en el que conste el acto traslativo de dominio;
 
-II. La licencia original vigente; y (sic)
+II.- Las constancias que deban renovarse o actualizarse, de los requisitos a que se refiere el artículo 30 de la presente Ley, según sea el caso, y
+
+III.- La licencia original vigente.
 
 ###### Artículo 43.
 
@@ -821,31 +889,51 @@ XIV. Abstenerse de vender cualquier clase de bebida con contenido alcohólico a 
 
 Los dueños, titulares o encargados de los establecimientos a que se refiere el artículo 7 fracción IV, procurarán implementar mecanismos de protección hacia el consumidor, en los casos en que éste haya excedido en la ingesta de alcohol.
 
-### CAPÍTULO XIV (SIC). ACCIONES PREVENTIVAS CONTRA EL CONSUMO DE BEBIDAS ALCÓHOLICAS
+> <small>(REFORMADO, P. O. 22 DE ABRIL DE 2015)</small>
+
+### CAPÍTULO XIII. ACCIONES PREVENTIVAS CONTRA EL CONSUMO INMODERADO DE BEBIDAS ALCOHÓLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 81.
 
-Tal y como lo establece la Ley General de Salud, el derecho a la protección de la salud, tiene como una de sus finalidades que la autoridad estatal se coordine con la autoridad federal y municipal, en el establecimiento y ejecución de programas, contra el alcoholismo y el abuso de bebidas alcohólicas, dicho programa deberá prever medidas administrativas y mecanismos de difusión adecuados para:
+Para garantizar el derecho a la protección de la salud y la seguridad pública, la autoridad estatal podrá coordinarse con la autoridad Federal y Municipal, en el establecimiento y ejecución de programas contra el alcoholismo y el consumo inmoderado de bebidas alcohólicas, relacionados con la prevención de delitos y la conducción de automotores, mismos que deberán prever medidas administrativas y mecanismos de difusión adecuados para:
 
-I. Concientizar a la población de los riesgos que produce el consumo excesivo de alcohol;
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-II. Prevenir accidentes viales;
+I. Concientizar a la población de los riesgos que produce el consumo de alcohol;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+II. Prevenir accidentes viales y los delitos derivados;
 
 III. Fomentar la no tolerancia de consumo de bebidas alcohólicas en menores de edad;
 
-IV. Explicar las consecuencias sociales, materiales, y físicas que produce el consumo de alcohol, y
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-V. En general todas aquellas que se consideren relevantes para combatir el consumo de alcohol.
+IV.- Explicar las consecuencias sociales, materiales y físicas que produce el consumo de alcohol;
+
+> <small>(ADICIONADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+V.- Sancionar el incumplimiento y las infracciones cometidas en términos de esta Ley; y
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+VI.- En general, todas aquellas que se consideren relevantes para combatir el consumo de alcohol y sus consecuencias.
+
+> <small>(REFORMADO, P. O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 82.
 
-Corresponde al poder ejecutivo elaborar, aplicar y difundir el programa a que se refiere el artículo anterior, en todo el estado y los municipios con mayor incidencia en el consumo de bebidas con contenido alcohólico.
+El Poder Ejecutivo, a través de la Secretaría de Educación, implementará programas y acciones tendientes a inhibir en los alumnos del nivel básico, medio, medio superior y superior, el consumo de bebidas alcohólicas, mediante el conocimiento de los efectos que el abuso del alcohol genera, promoverá la creación de brigadas juveniles que difundan los efectos nocivos del alcohol, y que promuevan el no consumo del mismo.
+
+> <small>(REFORMADO, P. O. 22 DE ABRIL DE 2015)</small>
 
 ###### Artículo 83.
 
-El Poder Ejecutivo a través de la Secretaría de Educación, implementará programas y acciones tendientes a inhibir en los alumnos del nivel básico, medio, medio superior y superior, el consumo de bebidas alcohólicas, mediante el conocimiento de los efectos que el abuso del alcohol genera, promoverá la creación de brigadas juveniles que difundan los efectos nocivos del alcohol, y que promuevan el no consumo del mismo.
+Los programas a que se refiere esta Ley, según corresponda, serán expedidos por el titular del Poder Ejecutivo Estatal, conforme a la Ley Estatal de Planeación, y para su ejecución se auxiliará de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal y, en su caso, podrá contar con la colaboración de otras autoridades competentes, a fin de que se implementen en todo el Estado y en especial en las zonas con mayor incidencia en el consumo de bebidas alcohólicas.
 
-Asimismo, se promoverá la aplicación de medidas disciplinarias en los casos de infracciones cometidas por personas que conduzcan vehículos automotrices en estado de ebriedad, que consistan en el cumplimiento de un servicio comunitario, y en su caso, recibir el tratamiento correspondiente.
+Las autoridades Estatales y Municipales promoverán y ejecutarán en el ámbito de sus respectivas competencias o de manera conjunta, programas para prevenir la conducción de vehículos en estado de ebriedad, así como la aplicación de las sanciones que correspondan de acuerdo a la normativa aplicable en la materia.
 
 ###### Artículo 84.
 
@@ -903,9 +991,11 @@ Cuando se trate de denuncias anónimas o telefónicas, la autoridad deberá llev
 
 ### CAPÍTULO XVII. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 94.
 
-Sin perjuicio de las sanciones penales que en su caso correspondan y tomando en cuenta la gravedad del acto o la reincidencia en su caso, por las infracciones a las disposiciones derivadas de esta Ley y los reglamentos que le correspondan por cada municipio de la entidad, la instancia municipal competente impondrá al infractor las siguientes sanciones:
+Sin perjuicio de las sanciones penales que en su caso correspondan y tomando en cuenta la gravedad del acto o la reincidencia en su caso, por las infracciones a las disposiciones derivadas de esta Ley y sus Reglamentos, las autoridades competentes impondrán al infractor, según corresponda, las siguientes sanciones:
 
 I. Multa de veinte hasta mil veces el salario mínimo general vigente en el Estado;
 
@@ -999,9 +1089,13 @@ II. Cuando el funcionamiento de un establecimiento o giro afecte el interés soc
 
 III. Por la manifestación sistemática de personas que aduzcan detrimento a la calidad de vida en la zona de influencia del establecimiento.
 
+> <small>(REFORMADO, P. O. 22 DE ABRIL DE 2015)</small>
+
 ###### Artículo 100.
 
-Los reglamentos municipales deberán consignar dentro de sus procedimientos para la imposición de las infracciones y sanciones determinadas por esta Ley, el derecho de audiencia y la defensa jurídica de los afectados.
+La reglamentación deberá establecer los procedimientos para la imposición de sanciones cuando exista alguna infracción a sus disposiciones.
+
+Asimismo, deberán instrumentar los mecanismos que garanticen el derecho de audiencia y la debida defensa jurídica de los afectados, en caso de una indebida aplicación de los procedimientos respectivos.
 
 ### CAPÍTULO XVIII. DE LAS INSPECCIONES
 
@@ -1130,3 +1224,27 @@ TERCERA. Todas las referencias hechas en el marco normativa estatal, respecto de
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CINCUENTA Y UNO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CINCUENTA Y TRES POR EL QUE SE REFORMAN LAS FRACCIONES IV, V, VI Y VII DEL ARTÍCULO 1; EL ARTÍCULO 2; FRACCIONES XVII, XVIII, XXXVIII, XL, XLI Y XLV DEL ARTÍCULO 5 Y EL PRIMER PÁRRAFO Y FRACCIÓN I, DEL ARTÍCULO 9; PRIMER PÁRRAFO Y LAS FRACCIONES I Y II, DEL ARTÍCULO 10; EL PRIMER PÁRRAFO Y LAS FRACCIONES II Y III, DEL ARTÍCULO 11; LA DENOMINACIÓN DEL CAPÍTULO XIV, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, IV, V Y VI, DEL ARTÍCULO 81; LOS ARTÍCULOS 82 Y 83; PRIMER PÁRRAFO, DEL ARTÍCULO 94; EL ARTÍCULO 100; ASÍ COMO SE ADICIONAN LAS FRACCIONES XXXIII Y XXXIV, AL ARTÍCULO 5, RECORRIÉNDOSE EN SU ORDEN CONSECUTIVO LAS SUBSECUENTES HASTA LLEGAR A LA FRACCIÓN XLVI; LA FRACCIÓN IV, DEL ARTÍCULO 11; LA FRACCIÓN V, DEL ARTÍCULO 81, RECORRIÉNDOSE EN SU ORDEN CONSECUTIVO LA SUBSECUENTE PARA SER FRACCIÓN VI; TODO EN LA LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
