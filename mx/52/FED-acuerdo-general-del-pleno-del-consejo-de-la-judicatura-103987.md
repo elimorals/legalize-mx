@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-03-20"
+last_updated: "2015-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -5841,6 +5841,12 @@ En las operaciones contractuales en que participe el Poder Judicial de la Federa
 
 Los honorarios comprenderán las gestiones y trámites que, en su caso, lleve a cabo el Notario del Patrimonio Inmobiliario Federal para la obtención de los documentos a que se refiere el artículo 494, fracción VIII, de este Acuerdo, con independencia de que se formalice la adquisición.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 23 DE ABRIL DE 2015)</small>
+
+###### Artículo 499 Bis.
+
+El Comité de Administración Inmobiliaria, a propuesta de la Coordinación de Administración Regional o de la Dirección General de Servicios Generales, podrá autorizar las erogaciones que sean necesarias para poder adquirir inmuebles por donación o comodato; y aquellas relacionadas con los inmuebles objeto de la negociación, que sean benéficas para los intereses del Poder Judicial de la Federación.
+
 #### SECCIÓN SEGUNDA. PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
 
 ###### Artículo 500.
@@ -10514,3 +10520,9 @@ CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por con
 QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
 
 SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
+
+D.O.F. 23 DE ABRIL DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
