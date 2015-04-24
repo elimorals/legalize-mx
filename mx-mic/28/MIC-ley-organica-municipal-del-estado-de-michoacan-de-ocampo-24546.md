@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2014-06-27"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -281,9 +281,11 @@ Tzitzio Tzitzio
 
 Uruapan Uruapan
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
 Venustiano
 
-Carranza Venustiano Carranza
+Carranza San Pedro Cahro
 
 Villamar Villamar
 
@@ -2828,3 +2830,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 27 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE ABRIL DE 2015.
+
+Primero. El presente Decreto entrará en vigor, al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. El presente Decreto no invalida los documentos jurídicos y legales, contratos o cualquier otro documento oficial, en los que aparezca la nomenclatura de "Venustiano Carranza, municipio de Venustiano Carranza" y que hayan sido firmados antes de la fecha de aprobación o publicación de este Decreto.
+
+Tercero. En los reglamentos municipales y demás disposiciones en que se haga referencia a Venustiano Carranza, como cabecera municipal, deberá entenderse San Pedro Cahro, a partir de la entrada en vigor del presente Decreto.
+
+Cuarto. Dese cuenta del presente Decreto a los titulares de los poderes Ejecutivo y Judicial, al Instituto Nacional de Estadística y Geografia (INEGI); y, al Instituto Nacional Electoral, para su conocimiento.
+
+Quinto. Se exhorta al Ayuntamiento del Municipio de Venustiano Carranza, para que en el marco de su competencia, ordene se modifiquen, los emblemas, escudos, papelería, sellos e imagen, tanto del Ayuntamiento, como de la Cabecera Municipal, ajustándose a lo aprobado en el presente Decreto.
