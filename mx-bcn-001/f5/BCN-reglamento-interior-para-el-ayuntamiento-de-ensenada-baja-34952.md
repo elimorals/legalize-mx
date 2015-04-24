@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2015-03-20"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1177,7 +1177,9 @@ I.- Tendrán facultad para estudiar y supervisar que se ejecuten los Acuerdos de
 
 II.- Propondrán al Ayuntamiento los proyectos de solución o los problemas de su conocimiento, a efecto de atender todos los ramos de la Administración Pública Municipal, mediante opinión o dictamen de los asuntos que les sean turnados;
 
-III.- Actuarán con plena autoridad para requerir por conducto del Presidente Municipal y por escrito a los titulares de las dependencias y entidades de la Administración Pública Municipal, la información que requieran para el despacho de los asuntos de su conocimiento y el desarrollo de su función;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+III.- Actuarán con plena autoridad para requerir por conducto del Presidente Municipal y por escrito a los titulares de las dependencias y entidades de la Administración Pública Municipal, para que estos en un plazo máximo de 10 días naturales den respuesta a los planteamientos, consultas y solicitudes de información que requieran para el despacho de los asuntos de su conocimiento y el desarrollo de su función de acuerdo a la comisión que corresponda;
 
 IV.- Supervisarán el correcto funcionamiento de las dependencias y entidades de la Administración Pública Municipal relativas al ramo o materia de la Comisión y coadyuvarán en la promoción, difusión de sus programas o acciones; y
 
@@ -1931,7 +1933,7 @@ LUIS GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE JULIO DE 2008.
 
@@ -2050,3 +2052,7 @@ P.O. 20 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+P.O. 24 DE ABRIL DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o el Periódico Oficial del Estado de Baja California.
