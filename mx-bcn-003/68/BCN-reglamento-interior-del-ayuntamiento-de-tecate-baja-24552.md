@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2014-10-03"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -771,11 +771,11 @@ La comisión podrá invitar a los ciudadanos interesados en el asunto de que se 
 
 COMISIONES PERMANENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 70.
 
-Serán comisiones permanentes las siguientes:
+Serán Comisiones permanentes las siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -817,9 +817,9 @@ IX. Equidad de Género y Gestión Social.
 
 X. Desarrollo Social, Rural y Comunidades Indígenas.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2015)</small>
 
-XI. Turismo.
+XI.- Desarrollo Económico y Turismo.
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1111,23 +1111,69 @@ COMISION DE MIGRACION
 
 ARTICULO 82 CUATER.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
 
-ARTICULO 82 QUINQUIES.- La Comisión de Turismo tendrá las siguientes atribuciones:
+ARTICULO 82 QUINQUIES.- La Comisión de Desarrollo Económico y Turismo tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 l. Proponer a las dependencias y entidades de la Administración Pública Federal y Estatal las medidas que contribuyan a garantizar la congruencia de los programas y acciones que impacten la actividad turística municipal;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
 II. Proponer mejoras o adecuaciones al marco regulatorio que permita el impulso, fortalecimiento y desarrollo de la actividad turística;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 III. Analizar los asuntos que tengan un impacto negativo en la actividad turística municipal, con el objeto de proponer soluciones y acciones específicas para su atención de manera conjunta por las autoridades competentes de los tres órdenes de Gobierno;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
 IV. Analizar las propuestas de los sectores público, social y privado, para el desarrollo integral de la actividad turística, a efecto de realizar recomendaciones para la instrumentación de aquéllas que resulten viables en la Administración Pública;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 V. Proponer mecanismos para armonizar y coordinar las políticas públicas tendientes a eficientar los recursos asignados al impulso, promoción, desarrollo y fortalecimiento de la actividad turística
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
 VI. Vigilar el funcionamiento de los organismos que promuevan el Desarrollo Turístico del Municipio y en los que tenga injerencia el Ayuntamiento o Cabildo a través de sus Instituciones o Dependencias.
 
-VII. En general todas aquellas cuestiones que estén vinculadas con la actividad de Turismo.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+VII.- Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar la inversión en el Municipio, fortaleciendo las oportunidades de empleo y desarrollo integral de sus habitantes;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+VIII.- Representar al Ayuntamiento o en su caso al Presidente Municipal en conjunto con (sic) Director de Desarrollo Económico y Turismo del Ayuntamiento, ante el Consejo de Desarrollo Económico de Tecate, el Consejo Consultivo Económico de Tecate, Consejo Coordinador Empresarial de Tecate, y las (sic) diferentes Organismos de la Sociedad Civil en materia económica y turística, manteniéndose al tanto de los programas anuales de trabajo, informes de actividades, así como opinar respecto a las estrategias de promoción económica en la ciudad;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+IX.- Contribuir al análisis de los procedimientos y los tramites que afectan al sector económico y proponer al Cabildo las medidas tendientes a incentivar la inversión dentro del marco legal aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+X.- Vigilar el funcionamiento de los organismos que promuevan el desarrollo económico del Municipio y en los que tenga inherencia el Ayuntamiento o Cabildo a través de sus Instituciones o Dependencias;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+XI.- Promover la firma de convenios de colaboración en materia de desarrollo económico con las Instituciones académicas, colegios de profesionistas, organizaciones empresariales y ciudadanas que tengan que ver con esta materia;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+XII.- Proponer medidas al Ayuntamiento que apoyen a las Instituciones locales que estudien los mecanismos de promoción del desarrollo económico en la Ciudad y que diseñen opciones diferentes de desarrollo económico;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+XIII.- Apoyar y supervisar los programas de la Dirección de Desarrollo Económico y Turismo.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+XIV.- Proponer a (sic) Cabildo los proyectos de acuerdo y resoluciones para normar, promover y desarrollar la actividad comercial en el ámbito de competencia municipal, y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+XV.- En general, aquellas que el Cabildo le encomiende..
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1360,3 +1406,7 @@ P.O. 20 DE DICIEMBRE DE 2013.
 P.O. 3 DE OCTUBRE DE 2014.
 
 ÚNICO.- La presente Reforma y adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE ABRIL DE 2015.
+
+ÚNICO.- Las presentes Reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
