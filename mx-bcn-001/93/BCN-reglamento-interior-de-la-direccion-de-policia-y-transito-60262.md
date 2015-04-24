@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-de-policia-y-transito-60262
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-03-20"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA SUBDIRECCIÓN DE POLICÍA Y TRÁNSITO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -443,51 +443,95 @@ El Miembro de Seguridad Pública deberá vestir con limpieza, no llevará prenda
 
 ### CAPITULO II. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 41.
 
-Son obligaciones del Miembro de Policía y Tránsito:
+Son obligaciones del elemento de Policía y Tránsito:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 I.- Asistir puntualmente al desempeño del servicio o comisión durante las horas fijadas por la superioridad.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 II.- Cumplir las órdenes superiores en forma y términos que le sean comunicadas, siempre y cuando sean propias de sus funciones, no denigren a su persona y no fuesen constitutivas de algún delito.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 III.- Conocer la organización y ordenamientos internos de las diferentes áreas de la Subdirección de Policía y Tránsito y el funcionamiento de cada una de ellas, así como de conocer a sus superiores.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 IV.- Avisar por escrito a su superior jerárquico su cambio de domicilio, debiendo éste a su vez dar aviso a las áreas correspondientes, dentro de los primeros 5 días hábiles después de efectuarse el cambio de domicilio.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 V.- Dar aviso a su superior inmediato las causas y motivos que impidan presentarse a desempeñar sus funciones.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 VI.- Asistir puntualmente a la instrucción militar, cursos de capacitación, entrenamientos de tiro, defensa personal, juntas y demás actividades y entrenamientos que se ordenen.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 VII.- Evitar la evasión de los presos y detenidos que estén bajo su custodia.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 VIII.- Dar su nombre, grado y cargo a cualquier persona que se lo solicite, así como portar siempre su identificación y mostrarla si se requiere.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 IX.- Llevar siempre una libreta en la que anotará siempre las novedades que observe y juzgue prudente para rendir los informes que se le soliciten.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 X.- Dar aviso al superior inmediato de los actos públicos en donde se denigre a la Institución, al Gobierno, a sus Leyes o se ataque a la moral pública.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 XI.- Por la naturaleza de la función que se realiza, el Miembro de Seguridad Pública deberá presentarse debidamente uniformado en todos los actos del servicio, salvo que la superioridad ordene lo contrario.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 XII.- Desempeñar todas las comisiones dadas por sus superiores que tengan relación con el servicio.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 XIII.- Entregar al área correspondiente de la Subdirección de Policía y Tránsito, los objetos de valor que se encuentren abandonados.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 XIV.- Proceder, aún cuando se encuentre franco, a la detención de los delincuentes a quienes sorprenda en flagrancia, evitando poner en riesgo su integridad física.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 XV.- Actuar dentro del orden jurídico, respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Baja California, las leyes que de ellas emanen así como los ordenamientos municipales e internos existentes.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 XVI.- Actuar con la decisión necesaria y sin demora en la protección de las personas, de sus bienes y derechos.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 XVII.- Conservar en buen estado y apariencia, vehículos, equipos, y accesorios bajo su custodia con el debido cuidado, prudencia y esmero.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 XVIII.- Actuar coordinadamente con otras corporaciones, así como brindarle en su caso el apoyo que legalmente procede.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 XIX.- Someterse, cuando sea requerido, a reconocimientos o pruebas médicas, de laboratorio y demás que sean necesarias con el fin de evaluar su condición física, psicológica o detectar el consumo de drogas.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 XX.- Dar aviso al Centro de Control, Comando, Comunicación y Cómputo de todas las intervenciones que realice en ejercicio de sus funciones
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+XXI.- Someterse a acondicionamiento físico, al menos 30 minutos por día que se labore, a través de programas de actividades deportivas o ejercicios realizados por la Dirección de Seguridad Pública Municipal, ya sea antes de iniciar su jornada laboral o después de ésta.
 
 ### CAPITULO III. DE LAS PROHIBICIONES
 
@@ -810,3 +854,7 @@ P.O. 26 DE DICIEMBRE DE 2014.
 P.O. 20 DE MARZO DE 2015.
 
 ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California y/o en la Gaceta Municipal para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B.C.
+
+P.O. 24 DE ABRIL DE 2015.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
