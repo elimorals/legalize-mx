@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2014-11-28"
+last_updated: "2015-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2573,17 +2573,29 @@ Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de 
 
 Si el aborto lo causare un médico, cirujano, comadrón o partera, además de las sanciones que le correspondan conforme a este artículo, se le suspenderá de uno a tres años en el ejercicio de su profesión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+(NOTA: EL 2 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE ABRIL DE 2015, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 105 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 243.
 
-No es punible el aborto causado por la imprudencia de la mujer embarazada, ni cuando el embarazo sea el resultado de una violación o de inseminación artificial no consentida conforme al artículo 297 de este Código.
+No ameritará responsabilidad la interrupción del embarazo en los supuestos siguientes:
 
-No se aplicará sanción, cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+I. Se produzca por conducta culposa de la mujer embarazada;
 
-En los casos contemplados en este artículo, los médicos legistas oficiales tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+II. El embarazo sea resultado del delito de violación;
+
+III. El embarazo sea resultado de una inseminación artificial no consentida;
+
+IV. Cuando la mujer embarazada esté en peligro de muerte o de sufrir un daño grave a su salud, a juicio del médico que le asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora; y
+
+V. Cuando a juicio de dos médicos especialistas en la materia, quienes deberán dictaminar de forma separada e independiente, exista prueba suficiente para diagnosticar que el producto de la concepción presente alteraciones genéticas o congénitas graves, siempre y cuando se cuente con el consentimiento de la madre y el padre, en su caso.
+
+En todas las hipótesis previstas en este artículo, los médicos especialistas tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que pueda tomar la decisión de manera libre, informada y responsable.
+
+El médico que practique la interrupción del embarazo conforme a los supuestos a que se refiere este artículo, deberá rendir un informe pormenorizado ante la Secretaría de Salud del Estado, al que adjuntará los dictámenes médicos correspondientes, dentro de las cuarenta y ocho horas posteriores al concluir los procedimientos respectivos. La Secretaría de Salud del Estado llevará un registro de las interrupciones del embarazo que se realicen, para lo cual formará un expediente por cada práctica, a partir del informe que al efecto se le remita.
+
+El tratamiento de los expedientes formados por tal razón se regirá por lo previsto en la Ley de Acceso a la Información Pública para el Estado de Tlaxcala.
 
 ### CAPÍTULO V. AYUDA O INDUCCIÓN AL SUICIDIO
 
@@ -4267,7 +4279,7 @@ El presente Decreto entrará en vigor en el momento en que cobre vigencia el nue
 
 P.O. 28 DE NOVIEMBRE DE 2014.
 
-DECRETO No. 54 POR EL QUE SE SE REFORMA EL ARTÍCULO 229, SE ADICIONAN LOS ARTÍCULOS 229 BIS Y 229 TER Y SE DEROGA EL NUMERAL 240 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, CONTENIDO EN EL DECRETO NÚMERO 161 EMITIDO POR EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL TREINTA Y UNO DE MAYO DEL AÑO DOS MIL TRECE.
+DECRETO No. 54 POR EL QUE SE REFORMA EL ARTÍCULO 229, SE ADICIONAN LOS ARTÍCULOS 229 BIS Y 229 TER Y SE DEROGA EL NUMERAL 240 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, CONTENIDO EN EL DECRETO NÚMERO 161 EMITIDO POR EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL TREINTA Y UNO DE MAYO DEL AÑO DOS MIL TRECE.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4275,7 +4287,7 @@ El presente Decreto entrará en vigor, simultáneamente al Código Penal para el
 
 P.O. 28 DE NOVIEMBRE DE 2014.
 
-DECRETO No. 58 POR EL QUE SE SE REFORMAN LA FRACCIÓN I DEL ARTICULO 16; EL PÁRRAFO SEXTO DEL ARTICULO 39; PÁRRAFO ULTIMO DEL ARTICULO 40; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTICULO 55; EL PÁRRAFO ULTIMO DEL ARTICULO 57; LA FRACCIÓN II DEL ARTÍCULO 63; EL PÁRRAFO TERCERO DEL ARTICULO 106; 177, LA FRACCIÓN V DEL ARTÍCULO 193, LA FRACCIÓN III DEL ARTÍCULO 220 Y ARTÍCULO PRIMERO TRANSITORIO Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 5; LOS ARTÍCULOS 6 BIS Y 6 TER; UN PÁRRAFO SEGUNDO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 11; UNA FRACCIÓN III AL ARTÍCULO 49; UNA FRACCIÓN V AL ARTÍCULO 50; UN PÁRRAFO NOVENO AL ARTÍCULO 60; UNA FRACCIÓN X AL ARTÍCULO 188; LAS FRACCIONES VI Y VII AL ARTÍCULO 334, Y UN ARTICULO 434, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, EXPEDIDO MEDIANTE DECRETO NÚMERO 161, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, NUMERO 2 EXTRAORDINARIO, SEGUNDA ÉPOCA, TOMO XCII, DE FECHA TREINTA Y UNO DE MAYO DE DOS MIL TRECE.
+DECRETO No. 58 POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTICULO 16; EL PÁRRAFO SEXTO DEL ARTICULO 39; PÁRRAFO ULTIMO DEL ARTICULO 40; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTICULO 55; EL PÁRRAFO ULTIMO DEL ARTICULO 57; LA FRACCIÓN II DEL ARTÍCULO 63; EL PÁRRAFO TERCERO DEL ARTICULO 106; 177, LA FRACCIÓN V DEL ARTÍCULO 193, LA FRACCIÓN III DEL ARTÍCULO 220 Y ARTÍCULO PRIMERO TRANSITORIO Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 5; LOS ARTÍCULOS 6 BIS Y 6 TER; UN PÁRRAFO SEGUNDO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 11; UNA FRACCIÓN III AL ARTÍCULO 49; UNA FRACCIÓN V AL ARTÍCULO 50; UN PÁRRAFO NOVENO AL ARTÍCULO 60; UNA FRACCIÓN X AL ARTÍCULO 188; LAS FRACCIONES VI Y VII AL ARTÍCULO 334, Y UN ARTICULO 434, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, EXPEDIDO MEDIANTE DECRETO NÚMERO 161, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, NUMERO 2 EXTRAORDINARIO, SEGUNDA ÉPOCA, TOMO XCII, DE FECHA TREINTA Y UNO DE MAYO DE DOS MIL TRECE.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4284,3 +4296,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Cuando las leyes, reglamentos o cualquier ordenamiento de observancia general vigente en el Estado de Tlaxcala se refieran al Código de Procedimientos Penales del Estado de Tlaxcala, se entenderá que se refieren al Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación del cinco de marzo de dos mil catorce, conforme a las reglas de vigencia establecidas en el artículo transitorio anterior y a la Declaratoria expedida por el Congreso del Estado con fecha veintidós de octubre de dos mil catorce y publicada en el Periódico Oficial del Gobierno del Estado de fecha veintitrés de octubre del año en curso.
+
+P.O. 24 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
