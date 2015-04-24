@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-23-2011-del-pleno-del-consejo-de-la-81728"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-06-17"
-last_updated: "2012-02-22"
+last_updated: "2015-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81728&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2011-06-13"
 ---
 # ACUERDO GENERAL 23/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO ESPECIALIZADOS EN EJECUCION DE PENAS, EN EL DISTRITO FEDERAL; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO ANTES REFERIDOS] --ANTES ACUERDO GENERAL 23/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [INICIO DE FUNCIONAMIENTO Y DISTRIBUCION DE ASUNTOS DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO ESPECIALIZADOS EN EJECUCION DE PENAS EN TLALNEPANTLA, ESTADO DE MEXICO] ---
 
-ACUERDO GENERAL 23/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO ESPECIALIZADOS EN EJECUCIÓN DE PENAS, EN TLALNEPANTLA DE BAZ, ESTADO DE MÉXICO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO ANTES REFERIDOS
+ACUERDO GENERAL 23/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO ESPECIALIZADOS EN EJECUCIÓN DE PENAS, EN EL DISTRITO FEDERAL; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO ANTES REFERIDOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de junio de 2011.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-ACUERDO GENERAL 23/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO ESPECIALIZADOS EN EJECUCION DE PENAS, EN TLALNEPANTLA DE BAZ, ESTADO DE MEXICO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO ANTES REFERIDOS.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+ACUERDO GENERAL 23/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO ESPECIALIZADOS EN EJECUCIÓN DE PENAS, EN EL DISTRITO FEDERAL; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO ANTES REFERIDOS.
 
 CONSIDERANDO
 
@@ -49,7 +51,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO. Los nuevos órganos jurisdiccionales se denominarán Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, con sede en la calle de Ignacio López Rayón, número 90, colonia Centro, en Tlalnepantla de Baz, Estado de México.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+PRIMERO. El domicilio de los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas será en Avenida Insurgentes Sur No. 2065, Colonia San Ángel, Delegación Álvaro Obregón, México, Distrito Federal, C.P. 01000.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
 
@@ -61,7 +65,9 @@ TERCERO. Los Juzgados de Distrito Especializados en Ejecución de Penas, iniciar
 
 CUARTO. Los Jueces de Distrito Especializados en Ejecución de Penas que sean adscritos a los órganos jurisdiccionales a que se refiere este acuerdo, serán designados por el Pleno del Consejo de la Judicatura Federal a propuesta de la Comisión de Adscripción.
 
-QUINTO. Desde la fecha señalada en el punto tercero del presente acuerdo, iniciará funciones la Oficina de Correspondencia Común de los Juzgados de Distrito Especializados en Ejecución de Penas, con sede en la calle de Ignacio López Rayón, número 90, colonia Centro, en Tlalnepantla de Baz, Estado de México, la cual prestará servicio a los juzgados de nueva creación, aplicando un sistema electrónico para la recepción de solicitudes en la materia del conocimiento de los órganos de que se trata, y a su vez, un sistema computarizado para la asignación equitativa de las cargas de trabajo en días y horas hábiles, por lo que se distribuirán entre todos los juzgados de Distrito en comento, y se regirán por las reglas establecidas en el Acuerdo General 13/2007 del Pleno del Consejo de la Judicatura Federal y sus reformas.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+QUINTO. La Oficina de Correspondencia Común de los Juzgados de Distrito Especializados en Ejecución de Penas, con sede en Avenida Insurgentes Sur No. 2065, Colonia San Ángel, Delegación Álvaro Obregón, México, Distrito Federal, C.P. 01000, prestará servicio a los juzgados a que se refiere este Acuerdo, de conformidad con lo establecido en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
 SEXTO. La recepción de asuntos en días y horas inhábiles se realizará en forma semanal entre los tres Juzgados de Distrito Especializados en Ejecución de Penas, de tal forma que del diecinueve al veintiséis de junio de dos mil once corresponderá estar de guardia al Juzgado Primero; del veintisiete de junio al tres de julio de dos mil once corresponderá al Juzgado Segundo; del cuatro al diez de julio de dos mil once corresponderá al Juzgado Tercero; del once al diecisiete de julio de dos mil once al Juzgado Primero y, así sucesivamente en ese orden.
 
@@ -158,3 +164,55 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 CUARTO. Los Juzgados de Distrito Especializados en Ejecución de Penas, en Tlalnepantla de Baz, Estado de México, seguirán conociendo hasta su total resolución de los asuntos que sobre ejecución de penas ya son de su conocimiento.
 
 QUINTO. La implementación del "Registro Nacional Individualizado de Sentenciados", y del sistema informático que facilite los trámites relativos al control de la compurgación de la pena de los sentenciados que gozan de beneficios para su eventual revocación por incumplimiento, se pondrán en operación conforme lo permita el presupuesto y normativa del Consejo de la Judicatura Federal.
+
+D.O.F. 24 DE ABRIL DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los órganos jurisdiccionales y la Oficina de Correspondencia Común a que se refiere el Acuerdo General 23/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento de los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, en el Distrito Federal; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Juzgados de Distrito antes referidos, deberán colocar avisos en lugares visibles en relación a su cambio de domicilio.
+
+CUARTO. Los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas y la Oficina de Correspondencia que les presta servicio, iniciarán funciones en su nuevo domicilio el 27 de abril de 2015.
+
+QUINTO. A partir de la fecha señalada en el transitorio anterior, toda la correspondencia, trámites y diligencias relacionados con los asuntos de la competencia de los órganos jurisdiccionales en cita, deberán dirigirse y realizarse en el domicilio precisado en el artículo PRIMERO del Acuerdo General 23/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento de los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, en el Distrito Federal; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Juzgados de Distrito antes referidos.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+SÉPTIMO. Se adiciona el número 5 a la fracción I, del numeral SEGUNDO; así como un tercer párrafo a la fracción I, del numeral CUARTO y se deroga el número 4, de la fracción II del numeral SEGUNDO; así como el quinto párrafo de la fracción II, del numeral CUARTO del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 4. …
+
+5. Tres juzgados de Distrito Especializados en Ejecución de Penas, todos con sede en el Distrito Federal.
+
+II. …
+
+1. a 3. …
+
+4. Derogado.
+
+III. a XXXII. …
+
+CUARTO. …
+
+I. …
+
+...
+
+Los juzgados de Distrito Especializados en Ejecución de Penas, ejercerán jurisdicción territorial en toda la República Mexicana.
+
+II. …
+
+...
+
+...
+
+...
+
+Derogado.
+
+III. a XXXIII. …”
