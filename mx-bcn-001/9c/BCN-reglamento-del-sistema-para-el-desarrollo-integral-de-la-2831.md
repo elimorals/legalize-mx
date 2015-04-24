@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2014-04-21"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -90,7 +90,25 @@ j. Participar en el ambito de la competencia del organismo, en la coordinación 
 
 k. Recomendar y promover el establecimiento de organismos de asistencia social en el territorio del municipio y prestarles apoyo, en su caso, colaboración técnica y administrativa;
 
-l. Las demás que le encomienden las leyes y el presente Reglamento.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+l. Proporcionar terapias a parejas conyugales y/o que vivan en concubinato que así lo soliciten, a fin de orientarlos social y psicológicamente ante sus problemas para conseguir que desarrollen una relación más sana y respetuosa, o en su caso, identifiquen si desean permanecer unidos. En los casos que existan hijos menores, deberá protegerse el interés superior del menor;
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+m. Impartir pláticas de solución pacífica de conflictos, así como de educación y formación de valores a las familias que lo requieran; a fin de proporcionar las técnicas de comunicación asertiva, que fortalecen las relaciones familiares de una manera cordial e integrando el respeto para con los demás, así como de una autogestión de conflictos que se susciten en la familia, para la mejor solución de manera pacífica, previniendo con ello la trascendencia a instancias y procesos judiciales;
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+n. Impartir pláticas prematrimoniales que versarán sobre la naturaleza, fines y objetivos del matrimonio como institución social y civil, así como respecto a los derechos y obligaciones derivadas del mismo con relación a los futuros cónyuges y en su caso, a los hijos, inculcándose el aprecio por la familia como primera fórmula social en donde se comunican y se desarrollan los valores necesarios para la formación y perfeccionamiento posible de la persona y de la sociedad, respetando lo previsto en la Ley Orgánica del Registro Civil del Estado de Baja California, así como las demás disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+ñ. Impulsar campañas y estrategias de difusión de los programas y servicios que presta el sistema, para que estén al alcance de la población, de las dependencias y entidades de la administración pública municipal y de los usuarios de las mismas; y
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+o. Las demás que le encomienden las Leyes y el presente Reglamento.
 
 ###### ARTICULO 6.
 
@@ -493,3 +511,7 @@ P.O. 21 DE ABRIL DE 2014.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
 
 SEGUNDO.- Por única ocasión se mantendrán en funciones hasta concluir su encargo, los dos regidores que hayan sido designados por el XXI Ayuntamiento, a propuesta del Presidente Municipal, en los términos previstos por las disposiciones que se reforman.
+
+P.O. 24 DE ABRIL DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
