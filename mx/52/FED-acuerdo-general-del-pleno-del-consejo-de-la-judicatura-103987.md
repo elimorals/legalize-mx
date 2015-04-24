@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-04-23"
+last_updated: "2015-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -9747,7 +9747,9 @@ Se prohíbe la entrada a vendedores de productos o servicios a las instalaciones
 
 Se exceptúa de lo dispuesto en los artículos anteriores a los proveedores autorizados por el Consejo para fines institucionales, y a las personas autorizadas por los administradores de los inmuebles, bajo su más estricta responsabilidad y sin ninguna otra intervención, en los casos siguientes:
 
-I. Tratándose de alimentos para los servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas, en los que no existan servicios de comedor o cafetería, se autorizará su venta a personas ajenas a la institución sólo en los horarios que para la ingesta de alimentos indiquen los titulares de los mismos; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+I. Tratándose de alimentos para los servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas, se autorizará su venta a personas ajenas a la institución sólo en los horarios que para la ingesta de alimentos indiquen los titulares de los mismos; y
 
 II. En el caso de vendedores de material jurídico y lustradores de calzado, se permitirá el acceso a los edificios administrados por el Consejo en el horario vespertino.
 
@@ -10522,6 +10524,12 @@ QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del 
 SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
 
 D.O.F. 23 DE ABRIL DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 24 DE ABRIL DE 2015.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
