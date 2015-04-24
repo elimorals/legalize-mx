@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-03-20"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -363,7 +363,9 @@ XII.- Coordinar la integración de los proyectos de ingresos y egresos de la dep
 
 XIII.- Informar o comparecer a la comisión del Ayuntamiento que le corresponda, con la periodicidad que se determine, de las actividades realizadas por la dependencia, entidad, o departamento; todo ello de acuerdo al Reglamento interior.
 
-XIV.- Atender diligentemente y resolver en su caso, los planteamientos y consultas que respecto de asuntos competencia de la dependencia, entidad o departamento, les formulen los Regidores del Ayuntamiento, de acuerdo a la comisión que estos coordinen.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2015)</small>
+
+XIV.- Atender diligentemente y resolver en su caso, en un término máximo de 10 días naturales, los planteamientos, consultas y solicitudes de información que respecto de asuntos competencia de la dependencia, entidad o departamento, les formulen los miembros del Ayuntamiento, de acuerdo a la Comisión que estos coordinen, en su caso.
 
 XV.- Integrar y rendir al Presidente Municipal los titulares de las dependencias, y a éstos los directores, subdirectores y jefes de los departamentos, los informes sobre las actividades de la misma dependencia o departamento, con la periodicidad, formato, contenido y por el conducto que el Presidente o el titular indique;
 
@@ -2614,3 +2616,7 @@ P.O. 6 DE MARZO DE 2015.
 P.O. 20 DE MARZO DE 2015.
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
+
+P.O. 24 DE ABRIL DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
