@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2014-05-16"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2007.
 
@@ -47,6 +47,8 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
 La presente ley es de orden público e interés general; es obligatoria para el régimen interior del estado de Nayarit y tiene por objeto garantizar a cualquier persona el efectivo acceso a la información pública y la protección de los datos personales en posesión de los entes públicos estatales y municipales, así como transparentar el ejercicio de la función pública.
 
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2015, DEROGA LOS NUMERALES 5 Y 17 RECORRIÉNDOSE EN SU NUMERACIÓN LOS SUBSECUENTES.</small>
+
 ###### Artículo 2o.
 
 Para los efectos de la presente ley se entenderá por:
@@ -61,37 +63,33 @@ Para los efectos de la presente ley se entenderá por:
 
 4. Comités: los Comités de Información previstos en esta ley.
 
-5. Consejo: el Consejo del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+5. Datos personales: la información concerniente a una persona física, identificada o identificable.
 
-6. Datos personales: la información concerniente a una persona física, identificada o identificable.
+6. Documentos: los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
 
-7. Documentos: los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
+7. Expediente: conjunto de documentos relacionados entre sí.
 
-8. Expediente: conjunto de documentos relacionados entre sí.
+8. Fuente de acceso público: aquellos sistemas de datos personales cuya consulta puede ser realizada, por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el pago de una contraprestación.
 
-9. Fuente de acceso público: aquellos sistemas de datos personales cuya consulta puede ser realizada, por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el pago de una contraprestación.
+9. Información: la contenida en los documentos que los sujetos obligados deben generar, obtener, adquirir, transformar o conservar por cualquier título.
 
-10. Información: la contenida en los documentos que los sujetos obligados deben generar, obtener, adquirir, transformar o conservar por cualquier título.
+10. Información clasificada: la información reservada o confidencial.
 
-11. Información clasificada: la información reservada o confidencial.
+11. Información confidencial: la que contiene datos relativos a las características físicas, morales o emocionales de las personas previstas en esta ley.
 
-12. Información confidencial: la que contiene datos relativos a las características físicas, morales o emocionales de las personas previstas en esta ley.
+12. Información fundamental: la información de oficio que debe tenerse obligatoriamente disponible por el sujeto obligado y proporcionarse a cualquier persona invariablemente por medios electrónicos o por cualquier otra forma, en los términos de la ley.
 
-13. Información fundamental: la información de oficio que debe tenerse obligatoriamente disponible por el sujeto obligado y proporcionarse a cualquier persona invariablemente por medios electrónicos o por cualquier otra forma, en los términos de la ley.
+13. Información pública gubernamental: la contenida en documentos escritos, mapas, fotografías, grabaciones, soporte magnético o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido, en el ejercicio de las funciones de los entes públicos, o se encuentre en disposición de éstas, así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente, con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública.
 
-14. Información pública gubernamental: la contenida en documentos escritos, mapas, fotografías, grabaciones, soporte magnético o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido, en el ejercicio de las funciones de los entes públicos, o se encuentre en disposición de éstas, así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente, con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública.
+14. Información reservada: la información que se encuentra temporalmente restringida al acceso público por encontrarse en los supuestos previstos en esta ley.
 
-15. Información reservada: la información que se encuentra temporalmente restringida al acceso público por encontrarse en los supuestos previstos en esta ley.
+15. Sistema de datos personales: el conjunto ordenado de datos personales que estén en posesión de un sujeto obligado.
 
-16. Sistema de datos personales: el conjunto ordenado de datos personales que estén en posesión de un sujeto obligado.
-
-17. Sujetos obligados: cualquier autoridad, ente, órgano u organismo del Estado de Nayarit y sus municipios, señalados en la presente ley.
-
-18. Transparencia: obligación de los entes públicos de poner a disposición de las personas la información pública que poseen, así como dar a conocer el motivo y justificación de sus decisiones de acuerdo a sus facultades y obligaciones.
+16. Transparencia: obligación de los entes públicos de poner a disposición de las personas la información pública que poseen, así como dar a conocer el motivo y justificación de sus decisiones de acuerdo a sus facultades y obligaciones.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
 
-19. Unidad de Enlace: El área administrativa de la estructura orgánica de los entes públicos, encargada del despacho de los asuntos relacionados con la presente Ley.
+17. Unidad de Enlace: El área administrativa de la estructura orgánica de los entes públicos, encargada del despacho de los asuntos relacionados con la presente Ley.
 
 ###### Artículo 3o.
 
@@ -157,13 +155,23 @@ Para efectos de esta ley son sujetos obligados:
 
 6. Los organismos autónomos del Estado, incluyendo a las universidades públicas.
 
-7. Los partidos y agrupaciones políticas a través del Instituto Estatal Electoral.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
-8. Las personas físicas o jurídico-colectivas cuando, en el ejercicio de sus actividades, actúen en auxilio o colaboración de los entes públicos o ejerzan gasto público, reciban subsidio o subvención. En este caso, la información será proporcionada por el sujeto obligado que realizó la transferencia de recursos.
+7. Los partidos y agrupaciones políticas.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+8. Las personas físicas o jurídico-colectivas cuando, en el ejercicio de sus actividades, actúen en auxilio o colaboración de los entes públicos o ejerzan gasto público, reciban subsidio o subvención. En este caso, la información será proporcionada por el ente público que realizó la transferencia de recursos.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+9. Los sindicatos o instituciones públicas o particulares que ejerzan recursos públicos o realicen actos de autoridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 8o.
 
-Los sujetos obligados en materia de transparencia y acceso a la información tienen las siguientes obligaciones:
+Los entes públicos, así como los sindicatos y partidos políticos en materia de transparencia y acceso a la información tienen las siguientes obligaciones:
 
 1. Documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones.
 
@@ -267,9 +275,15 @@ c) De las adjudicaciones directas: los motivos y fundamentos legales aplicados, 
 
 29. La versión pública de los contratos, convenios y condiciones generales de trabajo que regulen las relaciones laborales del personal sindicalizado y de confianza que se encuentre adscrito a los entes públicos, así como la relación del personal sindicalizado, los montos por concepto de cuotas sindicales, prestaciones económicas o en especie que se hayan entregado a los sindicatos, los nombres de quienes los reciben y los de los responsables de ejercerlos.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+29 Bis. Los sindicatos que ejerzan recursos públicos, además de lo mencionado y que les sea aplicable de los numerales de este artículo, publicarán la toma de nota, la entrega de recursos públicos, cualquiera que sea su destino, incluyendo la asignación al personal; acta de asamblea constitutiva, los estatutos debidamente autorizados, el acta de la Asamblea en que se hubiese elegido a la directiva, los informes de ingresos y gastos realizados en la forma y términos que correspondan a la presentación de la Cuenta Pública y Avance de Gestión Financiera de los demás sujetos obligados, y los contratos colectivos de trabajo de sus agremiados.
+
 30. Los estudios de factibilidad ecológica, impacto ambiental, desarrollo urbano y de servicios públicos.
 
-31. Los informes y documentos que presenten los partidos políticos ante el Instituto Estatal Electoral y que contengan: el monto sobre el origen, ejercicio y destino de los recursos que por financiamiento público o por cualquier otra modalidad se les entregue; las auditorias practicadas, las verificaciones o dictámenes que se ordenen y practiquen a dichos institutos; los expedientes que obren en el Instituto; el listado de partidos políticos y demás organizaciones registradas conforme a la ley; los nombres y funciones de quienes desempeñen dentro de los partidos un cargo de dirección partidista; las actas y acuerdos de los órganos internos de los partidos; y los cómputos totales de las elecciones.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+31. Los informes y documentos de los partidos políticos que contengan: el monto sobre el origen, ejercicio y destino de los recursos que por financiamiento público o por cualquier otra modalidad se les entregue, las auditorías practicadas, las verificaciones o dictámenes que se ordenen y practiquen a dichos institutos los nombres y funciones de quienes desempeñen dentro de los partidos un cargo de dirección partidista; las actas y acuerdos de los órganos internos de los partidos.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
 
@@ -433,7 +447,7 @@ No se requerirá el consentimiento de las personas para proporcionar los datos p
 
 1. Los necesarios para la prevención o el diagnóstico médico, la prestación de asistencia médica o la gestión de servicios de salud en aquellos casos en que no pueda recabarse su autorización.
 
-2. Los necesarios por razones estadísticas, científicas o de interés general previstas en ley, (sic) previo procedimiento por el cual no puedan asociarse los datos personales con el individuo a quien se refieran.
+2. Los necesarios por razones estadísticas, científicas o de interés general previstas en (sic) ley, previo procedimiento por el cual no puedan asociarse los datos personales con el individuo a quien se refieran.
 
 3. Cuando se transmitan entre entes públicos o sus dependencias, siempre y cuando los datos se utilicen para el ejercicio de facultades propias de los mismos.
 
@@ -549,9 +563,15 @@ Los poderes Legislativo y Judicial, los Ayuntamientos, órganos autónomos y dem
 
 Los acuerdos y cambios que realicen los entes públicos respecto a los servidores públicos integrantes de las unidades de enlace o de los Comités, deberán publicarse en su sitio de Internet dentro de los diez días hábiles siguientes a que se efectúen.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
+
 ###### Artículo 36.
 
-Los Comités de Información remitirán al Instituto, dentro de los primeros veinte días hábiles del mes de enero de cada año, la información que posean relativa a:
+El titular de la Unidad de Enlace deberá remitir bimestralmente, dentro de los primeros diez días hábiles posteriores al vencimiento, informe que contenga los datos de transparencia y acceso a la información que el Instituto requiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
+
+Los Comites de información remitirán al instituto, dentro de los primeros veinte días hábiles del mes de enero de cada año, la información que posean relativa a:
 
 1. El número y tipo de solicitudes de información presentadas y sus resultados, incluidas aquéllas en las que no fue posible localizar la información en los archivos;
 
@@ -593,39 +613,41 @@ Compete al Comité:
 
 ### Capítulo Único. Su naturaleza, integración y atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
+
 ###### Artículo 38.
 
-El Instituto de Transparencia y el Acceso a la Información Pública del Estado de Nayarit, es un organismo público dotado de autonomía operativa, de gestión y decisión, con personalidad jurídica y patrimonio propio, en los términos de esta ley y con la participación de la sociedad.
+El Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit es un organismo público y colegiado, dotado de autonomía constitucional, así como de autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propio, en los términos de esta ley.
 
 El Instituto tiene como finalidades garantizar el derecho de acceso a la información pública, promover y difundir la cultura de la transparencia, resolver sobre la procedencia o improcedencia de las solicitudes de acceso a la información, así como la protección de los datos personales en poder de los entes públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 39.
 
-El Instituto se integrará por un Consejo, un Presidente, un Secretario Ejecutivo, secretarios de estudio y cuenta, directores de vinculación, capacitación y administración, la unidad de monitoreo de portales de transparencia, actuarios y demás empleados necesarios para el cumplimiento de sus atribuciones, conforme al presupuesto.
+El Instituto se integrará por tres comisionados que formarán el Pleno, de los cuales uno será su presidente; un secretario ejecutivo, tres secretarios de estudio y cuenta, un director de vinculación y capacitación, un director de contraloría, un director de administración, un coordinador de monitoreo de portales de transparencia, actuarios y demás empleados necesarios para el cumplimiento de sus atribuciones, conforme al presupuesto.
 
 El Presidente tiene la dirección y la representación legal de Instituto.
 
 ###### Artículo 40.
 
-El Consejo del Instituto, estará integrado por dos empresarios designados por el Consejo Empresarial de Nayarit, dentro de ellos una mujer; un Notario designado por el Colegio de Notarios Públicos del Estado; un abogado designado por las agrupaciones de abogados legalmente constituidas.
-
-El Presidente del Consejo y el Secretario Ejecutivo del mismo, lo serán el Presidente y el Secretario Ejecutivo del Instituto.
+(DEROGADO, P.O. 24 DE ABRIL DE 2015)
 
 ###### Artículo 41.
 
-Los miembros del Consejo durarán en su encargo cinco años, serán acreditados por las propias agrupaciones, ante el Presidente del Instituto, se desempeñarán con el carácter de honorarios y sólo recibirán los recursos necesarios que sirvan al ejercicio de sus funciones, sin que puedan tener cargo o comisión dentro del servicio público.
+(DEROGADO, P.O. 24 DE ABRIL DE 2015)
 
-Las ausencias definitivas de un Consejero, darán lugar a su sustitución en los términos establecidos en la ley.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 42.
 
-El Presidente será designado por el Congreso, mediante el voto de las dos terceras partes de los diputados presentes, conforme al procedimiento dispuesto en su Ley Orgánica.
+Los Comisionados serán designados por el Congreso, mediante el voto de las dos terceras partes de los diputados presentes, conforme al procedimiento dispuesto en su Ley Orgánica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 43.
 
-Para ser Presidente se requiere:
+Para ser Comisionado se requiere:
 
 1. Ser ciudadano mexicano;
 
@@ -639,71 +661,41 @@ Para ser Presidente se requiere:
 
 6. No haber sido condenado por algún delito doloso;
 
-7. No haber sido gobernador, magistrado, juez, diputado o secretario del despacho ni procurador general de justicia, el año previo al día de su nombramiento;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+7. No haber sido gobernador, magistrado, juez, diputado o secretario del despacho ni fiscal general, el año previo al día de su nombramiento;
 
 8. No haber ocupado un cargo directivo en un partido nacional o local durante el año previo a su nombramiento, y
 
 9. No ser ministro de culto.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
 ###### Artículo 44.
 
-El Presidente será suplido en sus faltas temporales por el Secretario Ejecutivo. En caso de ausencia definitiva, será suplido por el que designe el Congreso.
+El Presidente del Instituto será suplido en sus ausencias temporales por el Comisionado que él mismo designe.
+
+En caso de ausencia definitiva del Comisionado Presidente, éste será suplido por el Comisionado que resulte elegido por el Congreso como tal, en tanto se designa un nuevo Comisionado por el Congreso y que cubrirá al Comisionado faltante.
 
 Son faltas temporales aquellas que no excedan de quince días hábiles. Las ausencias definitivas deberán comunicarse al Congreso por el mismo Presidente o, en su defecto, por el Secretario Ejecutivo, dentro de los tres días hábiles siguientes al día límite para que la falta sea considerada temporal.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+El Comisionado designado en sustitución por ausencia definitiva de un Comisionado, realizará su función por un nuevo periodo.
 
-El Presidente designado en sustitución por ausencia definitiva culminará el periodo restante, asistiéndole el derecho previsto por el artículo 45 de esta ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 45.
 
-El Presidente durará en su encargo un período de cinco años pudiendo ser ratificado por única vez por un periodo igual, y durante el período para el que fue nombrado no podrá ser retirado de su cargo, salvo por causa grave que calificará el Congreso.
+Los Comisionados durarán en su encargo siete años, sin posibilidad de ratificación; durante el periodo para el cual fueron nombrados no podrán ser retirados de su encargo, salvo por causa grave que calificará el Congreso.
 
-El cargo de Presidente es incompatible con cualquier otro empleo, cargo o comisión públicos, excepto lo relativo en instituciones académicas, docentes, científicas o de beneficencia.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+El cargo de comisionado es incompatible con cualquier otro empleo, cargo o comisión públicos, excepto por lo relativo a las instituciones académicas, docentes, científicas o de beneficencia.
 
 El Secretario Ejecutivo y el demás personal del Instituto, serán nombrados por el Presidente.
 
 ###### Artículo 46.
 
-El Consejo sesionará cuando menos cada tres meses y tendrá las siguientes atribuciones:
-
-1. Promover y difundir de manera permanente la cultura de la transparencia y acceso a la información pública, así como la protección de datos personales;
-
-2. Promover la capacitación y actualización de las entidades públicas responsables de la aplicación de esta Ley y su reglamento;
-
-3. Instruir la elaboración de guías que expliquen los procedimientos y trámites que deban realizarse ante las entidades obligadas y ante el Instituto;
-
-4. Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas, de todos los niveles y modalidades del Estado, se incluyan contenidos y referencias a los derechos tutelados en esta Ley;
-
-5. Promover que las instituciones de educación superior públicas y privadas incluyan asignaturas que ponderen los derechos tutelados en esta Ley, dentro de sus actividades académicas curriculares y extracurriculares;
-
-6. Disponer se elaboren y publique estudios, investigaciones y, en general, apoyar cualquier medio que difunda el conocimiento de la materia;
-
-7. Dictar medidas para orientar y auxiliar a las personas para ejercer los derechos de acceso a la información y protección de datos personales;
-
-8. Impulsar conjuntamente con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre la transparencia, el derecho de acceso a la información pública y la protección de datos personales, que promuevan el conocimiento sobre estos temas y coadyuven con el Instituto en sus tareas sustantivas;
-
-9. Establecer las políticas de creación, clasificación, tratamiento, conservación y resguardo de la información contenida en todos y cada uno de los archivos públicos e históricos;
-
-10. Celebrar sesiones públicas;
-
-11. Aprobar el plan de trabajo del Instituto;
-
-12. Aprobar los lineamientos para la selección, permanencia y promoción del personal del Instituto;
-
-13. Aprobar el anteproyecto de presupuesto de egresos del Instituto;
-
-14. Aprobar el plan anual de capacitación del personal adscrito al Instituto;
-
-15. Publicar los resultados de la evaluación realizada a los sujetos obligados, con base en la información publicada en sus sitios de internet.
-
-16. Recibir el informe por escrito que anualmente presente el presidente del Instituto y evaluar los resultados obtenidos, y
-
-17. Las demás que resulten necesarias para lograr estos objetivos.
+(DEROGADO, P.O. 24 DE ABRIL DE 2015)
 
 ###### Artículo 47.
 
@@ -711,7 +703,9 @@ En general, el Instituto tendrá las atribuciones que le confiere esta ley y en 
 
 1. En materia de acceso a la información pública:
 
-a) Emitir, con la opinión del Consejo, las políticas, resoluciones, instrucciones y recomendaciones que correspondan, para que las entidades obligadas cumplan con las disposiciones de esta ley;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+a) Emitir las políticas, resoluciones, instrucciones y recomendaciones que correspondan, para que las entidades obligadas cumplan con las disposiciones de esta ley;
 
 b) Cumplir y hacer cumplir los principios en la materia, interpretando la presente Ley para su exacta observancia;
 
@@ -719,7 +713,9 @@ c) Supervisar el cumplimiento de este Ley, su reglamento y demás disposiciones 
 
 d) Conocer e investigar de oficio o por denuncia, los hechos que sean o pudieran ser constitutivos de infracciones a la ley y demás disposiciones de la materia y, en su caso, denunciar a la autoridad competente los hechos;
 
-e) Evaluar, con la opinión del Consejo, la actuación de las entidades obligadas, mediante la práctica de visitas de inspección periódicas o a través de los medios que considere adecuados;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+e) Evaluar la actuación de las entidades obligadas, mediante la práctica de visitas de inspección, verificación de sus portales web de transparencia y demás disposiciones de la materia;
 
 f) Conocer y resolver los recursos que se interpongan, así como vigilar el cumplimiento de sus resoluciones tomando todas las medidas necesarias;
 
@@ -729,9 +725,11 @@ h) Requerir, recibir, analizar y sistematizar los informes que deberán enviarle
 
 i) Calificar las reservas de información hechas por las entidades obligadas; y
 
-j) Aprobar, con la opinión del Consejo, los lineamientos y otorgar apoyos para la sistematización de la información por parte de las entidades obligadas.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
-2.- En materia de protección de datos personales:
+j) Aprobar los lineamientos y otorgar apoyos para la sistematización de la información por parte de las entidades obligadas.
+
+2. En materia de protección de datos personales:
 
 a) Clasificar y desclasificar información, así como tener acceso en cualquier momento a la información clasificada como reservada o confidencial por las entidades obligadas para determinar su debida clasificación, desclasificación o procedencia de su acceso.
 
@@ -739,17 +737,27 @@ b) Establecer las normas, criterios y políticas para la administración, seguri
 
 c) Establecer un listado que contenga la referencia de los sistemas de datos personales en poder de las entidades obligadas;
 
-d) Requerir, recibir, analizar y sistematizar los informes que deberán enviarle las entidades obligadas; y
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
-e) Conocer y resolver los recursos de revisión que se interpongan;
+d) Requerir, recibir, analizar y sistematizar los informes que deberán enviarle las entidades obligadas;
 
-f) Aprobar, con la opinión del Consejo, el reglamento de esta Ley y sus modificaciones;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+e) Conocer y resolver los recursos de revisión que se interpongan; y
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+f) Aprobar el reglamento de esta Ley y sus modificaciones.
 
 3. En materia normativa:
 
-a) Expedir, con la opinión del Consejo, los lineamientos generales que serán de observancia obligatoria para todas las entidades obligadas;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
-b) Con la opinión del Consejo, expedir y reformar el reglamento interior del Instituto;
+a) Expedir los lineamientos generales que serán de observancia obligatoria para todas las entidades obligadas;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+b) Expedir y reformar el reglamento interior del Instituto;
 
 c) Implementar las medidas necesarias para la sistematización y la protección de los archivos administrativos en poder de las entidades obligadas, y
 
@@ -765,21 +773,57 @@ c) Establecer un sistema que garantice y haga efectivo el adecuado y pleno ejerc
 
 d) Remitir para sus efectos el proyecto de presupuesto anual de egresos del Instituto, por conducto del Presidente, al titular del Poder Ejecutivo del Estado;
 
-e) Resolver, con la opinión del Consejo, sobre la enajenación o gravamen de los bienes que integran el patrimonio del Instituto;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
-f) Aprobar, con la opinión del Consejo, la celebración de convenios que comprometan el patrimonio del Instituto;
+e) Resolver sobre la enajenación o gravamen de los bienes que integran el patrimonio del Instituto;
 
-g) Establecer, con la opinión del Consejo, las normas, procedimientos y criterios para la administración de los recursos financieros y materiales del Instituto;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+f) Aprobar la celebración de convenios que comprometan el patrimonio del Instituto;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+g) Establecer las normas, procedimientos y criterios para la administración de los recursos financieros y materiales;
 
 h) Enviar para su publicación en el Periódico Oficial del Estado, los reglamentos, acuerdos y demás disposiciones que requieran difusión;
 
-i) Celebrar, con la opinión del Consejo, convenios con autoridades federales, estatales o municipales;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
-j) Celebrar, con la opinión del Consejo, convenios con organismos nacionales e internacionales, así como con organismos de la sociedad civil;
+i) Celebrar convenios con autoridades federales, estatales o municipales;
 
-k) Celebrar, con la opinión del Consejo, convenios para allegarse de recursos financieros; y
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+j) Celebrar convenios con organismos nacionales e internacionales, así como con organismos de la sociedad civil;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+k) Celebrar convenios para allegarse de recursos financieros; y
 
 l) Mantener una efectiva colaboración y coordinación con las entidades obligadas, a fin de lograr el cumplimiento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+5. En materia de promoción y difusión de la cultura de la Transparencia, el Derecho de Acceso a la Información y la Protección de los Datos Personales:
+
+a) Promover y difundir de manera permanente la cultura de la transparencia y el acceso a la información pública, así como la protección de los datos personales;
+
+b) Promover la capacitación y actualización de las entidades públicas responsables de la aplicación de esta Ley y su reglamento;
+
+c) Elaborar guías que expliquen los procedimientos y trámites que deban realizarse ante las entidades obligadas y ante el Instituto;
+
+d) Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas, de todos los niveles y modalidades del Estado, se incluyan contenidos y referencias a los derechos tutelados en esta Ley;
+
+e) Promover que las instituciones de educación superior pública y privada incluyan asignaturas que ponderen los derechos tutelados en esta ley, dentro de sus actividades académicas curriculares y extracurriculares;
+
+f) Promover la elaboración de estudios e investigaciones, y en general, apoyar cualquier medio que difunda el conocimiento de la materia;
+
+g) Dictar medidas para orientar y auxiliar a las personas para ejercer los derechos de acceso a la información y protección de datos personales;
+
+h) Impulsar conjuntamente con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre transparencia, el derecho de acceso a la información pública y la protección de datos personales, que promuevan el conocimiento sobre estos temas o coadyuven con el Instituto en sus tarea (sic) sustantivas;
+
+i) Publicar los resultados de la evaluación realizada a los sujetos obligados, con base en la información publicada en sus sitios de internet; y
+
+j) Las demás que resulten necesarias para lograr sus objetivos.
 
 ###### Artículo 48.
 
@@ -1083,9 +1127,11 @@ Los sujetos obligados deberán informar al Instituto del cumplimiento de sus res
 
 Cuando el Instituto resuelva que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento del sujeto obligado para que este inicie, en su caso, el procedimiento de responsabilidad correspondiente.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
 ###### Artículo 85.
 
-Las resoluciones del Instituto serán definitivas e inatacables para los sujetos obligados y contra ellas no procederá recurso o medio de defensa ordinario ante el Tribunal de Justicia Administrativa del Estado. Los tribunales tendrán acceso a la información reservada o confidencial cuando resulte indispensable para resolver el asunto y hubiera sido ofrecida en juicio. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente judicial.
+Las resoluciones del Instituto serán definitivas e inatacables para los sujetos obligados y contra ellas no procederá recurso o medio de defensa ordinario. Los tribunales tendrán acceso a la información reservada o confidencial cuando resulte indispensable para resolver el asunto y hubiera sido ofrecida en juicio. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente judicial.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
 
@@ -1334,3 +1380,11 @@ Artículo tercero. Se derogan todas las disposiciones legales y administrativas 
 P.O. 16 DE MAYO DE 2014.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 24 DE ABRIL DE 2015.
+
+Primero. El presente decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Para los efectos de lo dispuesto en el artículo 42, en lo relativo a la designación de los Comisionados que deberán integrar el Pleno del Instituto de Transparencia de Nayarit, el Congreso procederá a la designación en los términos de la Ley Orgánica del Poder Legislativo, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo y el Congreso, en el ámbito de sus respectivas atribuciones, deberán establecer las prevenciones presupuestales para garantizar el debido funcionamiento del Instituto, en los términos de esta Ley.
