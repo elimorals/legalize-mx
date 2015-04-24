@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-03-05"
+last_updated: "2015-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2015, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL DIECISÉIS DE MARZO DE DOS MIL QUINCE.
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -129,6 +127,10 @@ I. PRIMER CIRCUITO:
 
 4. Siete Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, todos con residencia en el Distrito Federal.
 
+> <small>(ADICIONADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+5. Tres juzgados de Distrito Especializados en Ejecución de Penas, todos con sede en el Distrito Federal.
+
 II. SEGUNDO CIRCUITO:
 
 1. Dieciséis tribunales colegiados, de los cuales catorce son especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez; y dos tribunales colegiados en Nezahualcóyotl.
@@ -139,7 +141,7 @@ II. SEGUNDO CIRCUITO:
 
 3. Veinticinco juzgados de Distrito en el Estado de México: seis especializados en Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
-4. Tres Juzgados de Distrito Especializados en Ejecución de Penas, con sede en Tlalnepantla de Baz, Estado de México.
+4. (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)
 
 III. TERCER CIRCUITO:
 
@@ -565,6 +567,10 @@ I. PRIMER CIRCUITO:
 
 Los juzgados de Distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél. Los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones ejercerán jurisdicción territorial, en toda la República Mexicana.
 
+> <small>(ADICIONADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+Los juzgados de Distrito Especializados en Ejecución de Penas, ejercerán jurisdicción territorial en toda la República Mexicana.
+
 II. SEGUNDO CIRCUITO:
 
 Los juzgados de Distrito de Procesos Penales Federales en el Estado de México y los juzgados de Distrito en materias de amparo y de juicios federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
@@ -573,7 +579,7 @@ Los juzgados de Distrito en el Estado de México, con residencia en Naucalpan de
 
 Los juzgados de Distrito en el Estado de México, con residencia en Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
 
-Los Juzgados de Distrito Especializados en Ejecución de Penas, con sede en Tlalnepantla de Baz, Estado de México, ejercerán jurisdicción territorial en toda la República Mexicana.
+> <small>(DEROGADO QUINTO PÁRRAFO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
 
 III. TERCER CIRCUITO:
 
@@ -1506,3 +1512,55 @@ D.O.F. 5 DE MARZO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de marzo de dos mil quince.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 24 DE ABRIL DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los órganos jurisdiccionales y la Oficina de Correspondencia Común a que se refiere el Acuerdo General 23/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento de los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, en el Distrito Federal; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Juzgados de Distrito antes referidos, deberán colocar avisos en lugares visibles en relación a su cambio de domicilio.
+
+CUARTO. Los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas y la Oficina de Correspondencia que les presta servicio, iniciarán funciones en su nuevo domicilio el 27 de abril de 2015.
+
+QUINTO. A partir de la fecha señalada en el transitorio anterior, toda la correspondencia, trámites y diligencias relacionados con los asuntos de la competencia de los órganos jurisdiccionales en cita, deberán dirigirse y realizarse en el domicilio precisado en el artículo PRIMERO del Acuerdo General 23/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento de los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, en el Distrito Federal; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Juzgados de Distrito antes referidos.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+SÉPTIMO. Se adiciona el número 5 a la fracción I, del numeral SEGUNDO; así como un tercer párrafo a la fracción I, del numeral CUARTO y se deroga el número 4, de la fracción II del numeral SEGUNDO; así como el quinto párrafo de la fracción II, del numeral CUARTO del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 4. …
+
+5. Tres juzgados de Distrito Especializados en Ejecución de Penas, todos con sede en el Distrito Federal.
+
+II. …
+
+1. a 3. …
+
+4. Derogado.
+
+III. a XXXII. …
+
+CUARTO. …
+
+I. …
+
+...
+
+Los juzgados de Distrito Especializados en Ejecución de Penas, ejercerán jurisdicción territorial en toda la República Mexicana.
+
+II. …
+
+...
+
+...
+
+...
+
+Derogado.
+
+III. a XXXIII. …”
