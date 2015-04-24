@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-03-20"
+last_updated: "2015-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -284,6 +284,8 @@ Las áreas administrativas brindarán el apoyo que les sea requerido por la Secr
 Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto por la Comisión de Vigilancia, Información y Evaluación.
 
 ### CAPÍTULO SÉPTIMO. DEL COORDINADOR TÉCNICO ADMINISTRATIVO
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
 #### SECCIÓN PRIMERA. NATURALEZA Y FUNCIONES
 
@@ -865,61 +867,69 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ###### Artículo 93.
 
-Los Coordinadores Técnicos Administrativos estarán adscritos a la Dirección General de Tecnologías de la Información.
+Los coordinadores técnicos administrativos estarán adscritos a los órganos jurisdiccionales a que estén asignados, son personal de confianza y, por ende, de libre designación y remoción.
 
-El nombramiento de los Coordinadores Técnicos Administrativos corresponde a la Comisión de Administración, a propuesta del titular de la Dirección General de Tecnologías de la Información, conforme al respectivo Acuerdo General del Pleno del Consejo, previo desahogo del procedimiento de reclutamiento a que se refiere el artículo 96 de este Acuerdo.
+Serán nombrados y removidos por el titular del órgano jurisdiccional al que esté adscrita la plaza.
 
-Para las prórrogas de los nombramientos se observará el respectivo Acuerdo General del Pleno del Consejo.
-
-El titular del órgano jurisdiccional respectivo podrá proponer al Director General de Tecnologías de la Información candidatos a ocupar la plaza de Coordinador Técnico Administrativo.
-
-Los candidatos que propongan los titulares de los órganos jurisdiccionales participarán en igualdad de circunstancias que el resto de concursantes, en el proceso de reclutamiento, evaluación y selección que para ese propósito determine la Comisión de Administración.
-
-Los candidatos que resulten finalistas se someterán a consideración de la Comisión de Administración mediante terna o lista a fin de que ésta nombre y adscriba a los Coordinadores Técnicos Administrativos por medio del sistema computarizado que se implemente para tal efecto.
-
-La remoción de los Coordinadores Técnicos Administrativos corresponde al titular de la Dirección General de Tecnologías de la Información, quien deberá informar a la Comisión de Administración del ejercicio de esta atribución.
-
-Los titulares de los órganos jurisdiccionales podrán proponer a la Dirección General de Tecnologías de la Información la remoción del Coordinador Técnico Administrativo que les esté asignado.
-
-La propuesta de remoción del Coordinador Técnico Administrativo que formule el titular del órgano jurisdiccional deberá estar debidamente fundada y motivada.
+Las personas designadas para ocupar la plaza de Coordinador Técnico Administrativo, deberán cumplir previamente con los requisitos que establece el artículo 95 de este Acuerdo.
 
 ###### Artículo 94.
 
-Las suplencias por ausencia de los Coordinadores Técnicos Administrativos serán cubiertas por el servidor público que determina el manual de organización de la Dirección General de Tecnologías de la Información.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)
 
 ###### Artículo 95.
 
 Para ser Coordinador Técnico Administrativo se requiere:
 
-I. Contar con título y cédula profesional de licenciatura en Ingeniería, Actuaría, Administración, Archivonomía, Biblioteconomía, Contabilidad, Finanzas, Matemáticas, Tecnologías de la Información, y Sistemas Computacionales;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
-II. Acreditar experiencia profesional mínima de un año en actividades relacionadas con las funciones del puesto de Coordinador Técnico Administrativo;
+I. Contar con título y cédula profesional de licenciatura en Derecho;
 
-III. Acreditar los exámenes de conocimientos y psicométricos que determine la Comisión de Administración;
+II. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)
+
+III. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)
 
 IV. No haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año; y
 
 V. No estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+
 ###### Artículo 96.
 
-La Dirección General de Recursos Humanos es la responsable de aplicar los exámenes de conocimientos y psicométricos a los candidatos a ocupar una plaza de Coordinador Técnico Administrativo que sean propuestos por el titular de Dirección General de Tecnologías de la Información.
+El nombramiento inicial de los coordinadores técnicos administrativos será de seis meses, tiempo durante el cual deberán acreditar el curso de inducción que determine el Instituto de la Judicatura.
 
-Los exámenes serán los que determine la Comisión de Administración a propuesta de la Dirección General de Recursos Humanos, la cual elaborará el proyecto de examen de conocimientos en coordinación con la Dirección General de Tecnologías de la Información.
+El nombramiento definitivo se expedirá a los coordinadores técnicos administrativos que acrediten el curso a que se refiere el párrafo anterior, para lo cual, el Instituto de la Judicatura comunicará al titular del órgano jurisdiccional respectivo, los resultados correspondientes.
+
+En caso de que los coordinadores técnicos administrativos no acrediten el curso, concluirán su encargo al término de su nombramiento inicial.
 
 ###### Artículo 97.
 
 Cada órgano jurisdiccional, con excepción de los que formen parte de un Centro de Justicia Penal, contará con un Coordinador Técnico Administrativo quien, de conformidad con las funciones que se establezcan en el manual específico:
 
-I. Brindará apoyo al órgano jurisdiccional en la operación, mantenimiento y supervisión de sistemas administrativos, financieros e informáticos, así como en la gestión de recursos humanos, materiales y servicios generales; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
-II. Servirá de enlace entre el propio órgano jurisdiccional al que está asignado y las áreas administrativas en la gestión y desahogo de trámites administrativos, estadísticos e informáticos.
+I. Brindará apoyo al órgano jurisdiccional en la operación y supervisión de sistemas administrativos, financieros e informáticos, así como en la gestión de recursos humanos, materiales y servicios generales;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+II. Servirá de enlace entre el propio órgano jurisdiccional al que está adscrito y las áreas administrativas en la gestión y desahogo de trámites administrativos, estadísticos e informáticos;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+III. Atenderá las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SIBAP, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+IV. Cumplirá con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno o las Comisiones.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 98.
 
-Es responsabilidad del Coordinador Técnico Administrativo ejercer sus funciones conforme a la normatividad, procedimientos, manuales, lineamientos, directrices e instrucciones generales y particulares, y demás disposiciones aplicables que determinen el Pleno, las Comisiones, la Dirección General de Tecnologías de la Información, las áreas administrativas normativas, y el titular del órgano jurisdiccional al cual esté adscrito.
+Los titulares de los órganos jurisdiccionales serán los responsables de supervisar y evaluar que los coordinadores técnicos administrativos cumplan con las funciones encomendadas en los manuales, lineamientos, directrices e instrucciones generales y particulares y demás disposiciones aplicables.
 
-Se entenderá por áreas administrativas normativas las que determinan, en el ámbito de su competencia, la forma en que el Coordinador Técnico Administrativo debe ejercer las funciones asignadas cuya naturaleza impacte en las atribuciones de dichas áreas.
+En caso de que el titular del órgano jurisdiccional detecte deficiencia en el desempeño del Coordinador Técnico Administrativo, lo conminará al cumplimiento de las funciones encomendadas, con independencia de las responsabilidades a que haya lugar.
 
 ## TÍTULO TERCERO. LIBROS DE CONTROL
 
@@ -2886,3 +2896,17 @@ CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por con
 QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
 
 SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
+
+D.O.F. 24 DE ABRIL DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las plazas de los coordinadores técnicos administrativos que a la entrada en vigor de este Acuerdo estén adscritas a la Dirección General de Tecnologías de la Información se transfieren a cada uno de los órganos jurisdiccionales a que estén asignadas.
+
+CUARTO. Los coordinadores técnicos administrativos que hayan sido designados antes de la entrada en vigor del presente Acuerdo, continuarán en sus funciones cuando así lo determinen los titulares de los órganos jurisdiccionales correspondientes.
+
+En caso de que se determine que un coordinador técnico administrativo no continúe en funciones, se le deberá notificar la conclusión de su nombramiento con dos meses de anticipación a la fecha de terminación, lapso en cual el titular del órgano jurisdiccional que corresponda designará al nuevo coordinador en términos de lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, quien entrará en funciones al vencimiento del referido plazo, siempre y cuando acredite el curso de inducción del Instituto de la Judicatura.
+
+QUINTO. La Secretaría Ejecutiva de Administración llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
