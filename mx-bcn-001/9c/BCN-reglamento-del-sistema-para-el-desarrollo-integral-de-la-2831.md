@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2014-04-21"
+last_updated: "2015-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,13 +22,13 @@ state: "BCN"
 ---
 # REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-LEY DE INGRESOS DEL MUNICIPIO DE ZARAGOZA, S.L.P. PARA EL EJERCICIO FISCAL DEL AÑO 2026
+REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 30 de diciembre de 2025.
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
+REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -90,7 +90,25 @@ j. Participar en el ambito de la competencia del organismo, en la coordinación 
 
 k. Recomendar y promover el establecimiento de organismos de asistencia social en el territorio del municipio y prestarles apoyo, en su caso, colaboración técnica y administrativa;
 
-l. Las demás que le encomienden las leyes y el presente Reglamento.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+l. Proporcionar terapias a parejas conyugales y/o que vivan en concubinato que así lo soliciten, a fin de orientarlos social y psicológicamente ante sus problemas para conseguir que desarrollen una relación más sana y respetuosa, o en su caso, identifiquen si desean permanecer unidos. En los casos que existan hijos menores, deberá protegerse el interés superior del menor;
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+m. Impartir pláticas de solución pacífica de conflictos, así como de educación y formación de valores a las familias que lo requieran; a fin de proporcionar las técnicas de comunicación asertiva, que fortalecen las relaciones familiares de una manera cordial e integrando el respeto para con los demás, así como de una autogestión de conflictos que se susciten en la familia, para la mejor solución de manera pacífica, previniendo con ello la trascendencia a instancias y procesos judiciales;
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+n. Impartir pláticas prematrimoniales que versarán sobre la naturaleza, fines y objetivos del matrimonio como institución social y civil, así como respecto a los derechos y obligaciones derivadas del mismo con relación a los futuros cónyuges y en su caso, a los hijos, inculcándose el aprecio por la familia como primera fórmula social en donde se comunican y se desarrollan los valores necesarios para la formación y perfeccionamiento posible de la persona y de la sociedad, respetando lo previsto en la Ley Orgánica del Registro Civil del Estado de Baja California, así como las demás disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+ñ. Impulsar campañas y estrategias de difusión de los programas y servicios que presta el sistema, para que estén al alcance de la población, de las dependencias y entidades de la administración pública municipal y de los usuarios de las mismas; y
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2015)</small>
+
+o. Las demás que le encomienden las Leyes y el presente Reglamento.
 
 ###### ARTICULO 6.
 
@@ -108,9 +126,9 @@ a).- El Presidente Municipal o quien el designe;
 
 b).- El Presidente del Sistema DIF municipal, que sera el conyuge del Presidente Municipal o quien el designe, mismo que fungirá como Presidente del Consejo;
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
-c).- Dos regidores, quienes serán designados por el Ayuntamiento en Sesión de Cabildo, a propuesta del C. Presidente Municipal;
+c).- Dos regidores, quienes serán el coordinador y secretario de la Comisión de la Familia;
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
 
@@ -350,27 +368,19 @@ X. Turnar de inmediato al Director del DIF el resultado de las Inspecciones real
 
 XI. Las demás que le otorgue el presente Reglamento, el reglamento de Estancias Infantiles del municipio de Ensenada, o le ordene el Director del DIF municipal.
 
-###### ARTÍCULO 24.
+###### ARTICULO 24.
 
-Por la expedición de licencia de uso de suelo se aplicarán las siguientes cuotas, dependiendo de su tipo, pues estas pueden ser para construcción y para funcionamiento:
+Las funciones del área de autorización y revalidación serán:
 
-[…]
+I. Otorgar el formato de Solicitud para la autorización de instalación y operación de Estancias Infantiles en el Municipio de Ensenada.
 
-I. Licencia de uso de suelo para actividades constructivas se causará según lo establecido en las Leyes y Reglamentos respectivos, y se aplicará la siguiente tarifa:
+II. Inmediatamente que se reciba una solicitud, se deberá seguir el procedimiento establecido en el Titulo Cuarto Capítulo I, del Reglamento de Estancias Infantiles para el Municipio de Ensenada.
 
-a) a j) […]
+III. Turnar la solicitud recibida, al Director del Sistema para el Desarrollo Integral de la Familia, a efecto de que este la haga del conocimiento del Consejo.
 
-k) Instalaciones especiales e infraestructura
+IV. Aprobada o negada una solicitud de autorización para la creación o permanencia de una estancia infantil, realizar la notificación correspondiente; y
 
-UMA
-
-1. Acueductos, colectores, basureros, rellenos y plantas de tratamiento, potabilizadoras, lagunas de control y regularización, termoeléctricas, repetidoras, subestación eléctrica, transformadores, torre o mástil (Postes, estructuras, torres, etc.), tanques de almacenamiento de agua, tendido de redes, agua potable, drenaje, electricidad, televisión por cable, viales primarios, vías de ferrocarril, bordos y canales, carreteras estatales y federales, estaciones de riego, instalaciones generadoras de energía, líneas de alta tensión, presas viales regionales, crematorios, panteones, cementerios, centro de rehabilitación social y centro federal de rehabilitación social, depósito de desechos industriales o similar, depósito de explosivos (cumpliendo con las disposiciones de seguridad de la materia), gasoductos, granjas de recuperación, incinerador de: basura, desechos biológicos infecciosos, instalaciones militares y cuarteles 600.00
-
-2. Antenas: radiofónicas, televisoras, telefónicas, microondas, radio base celular o sistema de transmisión de frecuencia, mástiles, estructura para anuncio, estaciones de servicio 500.00
-
-l) a n) […]
-
-[…]
+V. Las demás que le confieran el presente reglamento, el Reglamento de Estancias infantiles, el director del Sistema Municipal para el desarrollo integral de la Familia y el Titular del departamento de atención a Estancias Infantiles.
 
 ###### ARTICULO 25.
 
@@ -466,7 +476,7 @@ SECRETARIO GENERAL DEL AYUNTAMIENTO
 
 LIC. RUBEN REYES MORENO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 25 DE JUNIO DE 1999.
 
@@ -495,3 +505,13 @@ P.O. 21 DE AGOSTO DE 2009.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 ENTRADA EN VIGOR.
+
+P.O. 21 DE ABRIL DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+SEGUNDO.- Por única ocasión se mantendrán en funciones hasta concluir su encargo, los dos regidores que hayan sido designados por el XXI Ayuntamiento, a propuesta del Presidente Municipal, en los términos previstos por las disposiciones que se reforman.
+
+P.O. 24 DE ABRIL DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
