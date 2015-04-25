@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2013-06-01"
+last_updated: "2015-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,69 @@ state: "JAL"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
+LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
+Ley publicada el Periódico Oficial, el jueves 1 de septiembre de 2011.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-DECRETO
+Al margen un sello que dice:-"Estados Unidos Mexicanos.-Gobierno de Tamaulipas.-Poder Legislativo.
 
-Número 17113. El Congreso del Estado Decreta:
+LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
+DECRETO No. LXI-67
 
-Primero (sic)
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS.
 
-Lineamientos Generales.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-### Capítulo Único
+###### ARTÍCULO 1.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+1. La presente ley es de orden público e interés general para el Estado de Tamaulipas y reconoce los derechos de los individuos a acceder y participar en la vida cultural y artística de la comunidad.
+
+2. Este ordenamiento tiene como objeto regular las acciones de fomento y propiciar el desarrollo cultural y artístico en su diversidad de manifestaciones en la Entidad.
+
+###### ARTÍCULO 2.
+
+El fomento y desarrollo cultural y artístico en el Estado, atenderá a los siguientes principios:
+
+I. La cultura es patrimonio de la sociedad y su preservación, promoción, difusión e investigación en la entidad, es responsabilidad de las autoridades, a las instituciones públicas y privadas y, en general, a todos los habitantes del Estado, conforme a lo previsto en esta ley;
+
+II. La preservación, promoción, difusión e investigación de la cultura es responsabilidad de las autoridades estatales y municipales;
+
+III. La coordinación entre los distintos órdenes de gobierno y de éstos con la sociedad, es indispensable para alcanzar los objetivos de este ordenamiento;
+
+IV. En el establecimiento de programas de gobierno vinculados con el fomento de la cultura, se atenderá la opinión de los individuos, grupos y organizaciones sociales, dedicados a la preservación, promoción, fomento, difusión e investigación de la cultura;
+
+V. Las autoridades velarán en todo tiempo por el respeto a las manifestaciones artísticas y culturales que se desarrollen lícitamente;
+
+VI. El acceso de todos los miembros de la comunidad a las actividades culturales, por lo que en todo tiempo procurarán el establecimiento de mecanismos que faciliten el acceso de la sociedad a tales actividades; y
+
+VII. El mantenimiento de nuestra identidad y fortaleza como Estado y como Nación, mediante la preservación, promoción, difusión e investigación de la cultura local, regional y nacional.
+
+###### ARTÍCULO 3.
+
+Para efectos de esta ley se entenderá por:
+
+I. Arte: La expresión personal y desinteresada de ideas y emociones de la actividad humana, mediante recursos plásticos, audiovisuales, cinéticos, escénicos, lingüísticos, sonoros y aquellos que se deriven de la aplicación de las tecnologías de información y comunicación;
+
+II. Artesanías: Los objetos artísticos de significación cultural, realizados manualmente o con máquinas movidas por el hombre, en forma individual o colectiva, y que conservan técnicas de trabajo tradicionales y los diseños autóctonos de una determinada región;
+
+III. Cultura: El conjunto de manifestaciones tangibles e intangibles con que se expresa la vida de un pueblo;
+
+IV. Fondo: El Fondo de Fomento a la Cultura y las Artes del Estado de Tamaulipas;
+
+V. Instituto: El Instituto Tamaulipeco para la Cultura y las Artes;
+
+VI. Programa anual: Programa Anual de Actividades del Instituto Tamaulipeco para la Cultura y las Artes;
+
+VII. Programa: El Programa Institucional de Cultura y las Artes; y
+
+VIII. Sistema: El Sistema Estatal de Cultura y Artes para el Estado de Tamaulipas.
 
 ###### Artículo 1º.
 
@@ -89,9 +129,25 @@ Para el cumplimiento de sus atribuciones, ejercerá de manera libre el presupues
 
 ## Título Segundo. De la Comisión
 
-### Capítulo I
+### CAPÍTULO II. DE LAS COMPETENCIAS Y ATRIBUCIONES DE LAS AUTORIDADES
 
-De la Competencia y atribuciones de la Comisión.
+###### ARTÍCULO 4.
+
+1. El gobierno del Estado y los Ayuntamientos deberán considerar dentro de sus planes, programas y presupuestos, las acciones y recursos para el desarrollo de actividades tendientes a la preservación y promoción de la cultura y las artes, y la capacitación y profesionalización de los creadores.
+
+2. Conforme a su dimensión administrativa y capacidad presupuestal, los ayuntamientos establecerán en su estructura administrativa, un área de cultura.
+
+###### ARTÍCULO 5.
+
+En el Estado son autoridades en materia de cultura y artes:
+
+I. El Gobernador del Estado;
+
+II. El Director General del Instituto Tamaulipeco para la Cultura y las Artes;
+
+III. Los Ayuntamientos; y
+
+IV. Los Directores Municipales de Cultura y las Artes.
 
 ###### Artículo 4º.
 
@@ -117,17 +173,97 @@ Tratándose del Poder Judicial del Estado, la Comisión sólo tendrá facultades
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2013)</small>
 
-###### Artículo 6°.
+###### ARTÍCULO 6.
 
-Por ningún motivo la comisión será competente tratándose de asuntos electorales y jurisdiccionales.
+Las autoridades del Estado se coordinarán para:
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+I. Integrar el Sistema;
 
-Tratándose de quejas que involucren a servidores públicos de la federación o de otras entidades federativas, la Comisión enviará copia de la misma a la Comisión Nacional o a su homóloga estatal según corresponda para su conocimiento.
+II. Fomentar la comprensión de la cultura como un derecho social; y del arte, como expresión superior de la voluntad de los seres humanos;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+III. Ejecutar y dar seguimiento al Programa, en sus respectivos ámbitos de su competencia;
 
-La comisión Estatal podrá solicitar la coadyuvancia de la Comisión Nacional tratándose de asuntos de salud pública, educación, sistema penitenciario, áreas de confinamiento, personas ausentes o desaparecidas, aquellas en las que se desconozca a la autoridad responsable, así como el seguimiento de las recomendaciones de la Comisión Nacional, dirigidas a las autoridades del Estado en los términos de las leyes de la materia.
+IV. Integrar una lista de los elementos culturales y artísticos con los que cuenten;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+V. Programar actividades culturales y artísticas entre las personas adultas mayores y personas con discapacidad; y
+
+VI. Fomentar la cultura y las artes entre la población en general.
+
+###### ARTÍCULO 7.
+
+El Estado, a través del Instituto, llevará a cabo las siguientes acciones para el cumplimiento de los fines y propósitos que en materia de cultura y las artes señala la presente ley:
+
+I. Preservar y garantizar el derecho a la cultura y a las artes;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+II. Hacer uso de los medios necesarios para que las personas tengan conocimiento de las diversas opciones existentes para acceder a material bibliográfico de manera virtual;
+
+III. Promover y difundir el conocimiento de las diversas manifestaciones culturales del Estado y sus municipios;
+
+IV. Formular los programas de acción para el desarrollo de las actividades culturales y artísticas a que se refiere esta ley;
+
+V. Promover la creación de talleres para la investigación y ejercicio de las actividades artísticas y culturales;
+
+VI. Alentar la edición de folletos, revistas y libros, así como la producción y divulgación de programas audiovisuales que difundan la historia, la cultura y las artes en el Estado y sus municipios;
+
+VII. Otorgar reconocimientos y estímulos a las personas físicas o morales que se hayan distinguido en el campo de la cultura y las artes;
+
+VIII. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden cultural y artístico con instituciones del ramo de la Federación, los Estados, y los municipios, e incluso de otros países;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+IX. Organizar el Sistema, así como todo tipo de actividades culturales y artísticas del sector público, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
+
+X. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XI. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XI (SIC). Promover las artesanías, artes, obras o cualquier otra expresión cultural de autores nacidos o radicados en Tamaulipas, por medio de la realización de campañas permanentes de difusión a través de los medios digitales oficiales a los que tenga acceso;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XII. Impulsar la participación de empresas extranjeras y nacionales en actividades culturales conjuntas con la autoridad estatal, mediante diversas acciones dentro y fuera de las instalaciones; y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XIII. Promover los medios electrónicos existentes para el acceso a la cultura.
+
+###### ARTÍCULO 8.
+
+El Ejecutivo del Estado, tiene a su cargo el fomento de la cultura y las artes en el Estado, a través del Instituto, para lo cual ejercerá las siguientes atribuciones:
+
+I. Determinar y ejecutar la política cultural y artística del Estado;
+
+II. Proponer los objetivos y estrategias para la promoción, fomento y difusión de la cultura y las artes;
+
+III. Aprobar y publicar el Programa;
+
+IV. Definir la política cultural y artística del Estado, y ser promotor de ella;
+
+V. Promover, fomentar y difundir, en su ámbito de competencia, las manifestaciones de cultura y las artes del Estado;
+
+VI. Promover la celebración de ferias, festivales y otras actividades análogas en los municipios, regiones y ciudades del Estado, con el propósito de preservar las tradiciones y proteger la cultura de la entidad;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+VII. Formular programas de fomento a la cultura y las artes entre personas adultas mayores y personas con discapacidad;
+
+VIII. Establecer medios para el fomento de la cultura y la expresión del arte; y
+
+IX. Las demás previstas en esta ley y que otras disposiciones legales confieran al Ejecutivo del Estado.
+
+###### ARTÍCULO 9.
+
+El Estado podrá celebrar convenios de coordinación con la Federación, entidades federativas, municipios, personas físicas y morales, e inclusive gobiernos, entidades y organismos de otros países para el fomento a la cultura y las artes previsto en esta ley.
 
 ###### Artículo 7º.
 
@@ -247,57 +383,49 @@ La Comisión no tendrá más restricciones a sus atribuciones, facultades y comp
 
 La Comisión contará con unidades desconcentradas para recibir quejas, atender y dar seguimiento a los asuntos de su competencia en los lugares que considere pertinente, de conformidad a lo que establezca su reglamento interior.
 
-### Capítulo II
+### CAPÍTULO III. DEL SISTEMA ESTATAL DE CULTURA Y LAS ARTES PARA EL ESTADO DE TAMAULIPAS
 
-De la Integración de la Comisión.
+###### ARTÍCULO 10.
 
-###### Artículo 10.
+1. Los municipios tienen la obligación y prioridad de fomentar la creación, preservación, promoción, difusión e investigación de la cultura.
 
-La Comisión se integra por:
+2. Son atribuciones de los municipios:
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+I. Expedir los reglamentos, en el ámbito de su competencia, que normen la actividad cultural en el territorio municipal;
 
-I. El Consejo Ciudadano y su Secretario Técnico;
+II. Propiciar que sus habitantes tengan acceso a los bienes y servicios culturales;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+III. Formar parte del Sistema Estatal de Cultura;
 
-II. El Presidente;
+IV. Formular el Programa Municipal de Cultura, para lo cual podrán seguir las directrices generales, objetivos, estrategias, acciones y metas del el (sic) Programa Institucional de Cultura y las Artes;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+V. Constituir en la administración municipal una entidad responsable del impulso a los programas y acciones culturales, conforme a su disponibilidad presupuestal;
 
-III. El Secretario Ejecutivo;
+VI. Promover las manifestaciones culturales propias de cada municipio;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+VII. Coadyuvar con el Instituto en el fomento a la formación, actualización, capacitación, profesionalización y especialización de creadores, maestros de arte y promotores culturales;
 
-IV. Los visitadores generales;
+VIII. Alentar el desarrollo de proyectos culturales intramunicipales;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+IX. Participar, en el ámbito de sus atribuciones, en las acciones de protección del patrimonio cultural e histórico;
 
-V. Los visitadores adjuntos;
+X. Apoyar a los creadores y grupos artísticos municipales, estimulando su formación y promoción;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+XI. Otorgar reconocimientos, estímulos y premios a personas físicas o morales que se hayan distinguido en la creación, preservación, fomento, promoción, difusión e investigación de la cultura municipal;
 
-VI. El Director de Orientación, Quejas y Seguimiento;
+XII. Contribuir a la integración, desarrollo y actualización permanente de los sistemas de información, evaluación e indicadores de la actividad cultural;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-VII. El Director de Comunicación Social;
+XIII. Promover la participación de la sociedad y de los creadores locales en la formulación, ejecución y evaluación de la política cultural municipal;
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-VIII. El Director Administrativo; y
+XIV. Coadyuvar con el Instituto para la integración y actualización del Padrón del (sic) Estatal de Artistas; y
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+XV. Las demás que le confiera la presente ley y demás disposiciones aplicables en la materia.
 
-IX. El Contralor Interno.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-### Capítulo III
-
-Del Consejo Ciudadano.
-
-(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+### CAPÍTULO IV. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 #### Sección Primera
 
@@ -305,15 +433,9 @@ De su integración.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 11.
+###### ARTÍCULO 11.
 
-El Consejo Ciudadano es un órgano de participación civil integrado por el Presidente y ocho consejeros ciudadanos propietarios e igual número de suplentes. Los consejeros ciudadanos, durarán cinco años en su cargo, el cual tendrá carácter honorífico.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
-
-El Consejo ciudadano de la Comisión deberá integrarse en forma diversificada de manera que se logre la mayor representatividad social, y se procurará que se conforme con el mismo número de varones y mujeres.
-
-(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+El Sistema tiene por objeto coordinar acciones, combinar recursos y establecer procedimientos con el fin de apoyar, impulsar y promover la cultura y las artes en los sectores público, social y privado.
 
 #### Sección Segunda
 
@@ -321,37 +443,23 @@ De la designación de los consejeros ciudadanos.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 12.
+###### ARTÍCULO 12.
 
-Los consejeros ciudadanos deberán satisfacer los siguientes requisitos:
+El Sistema estará representado por un Consejo, que será presidido por el Director General del Instituto, cuyos integrantes tendrán carácter honorífico.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+###### ARTÍCULO 13.
 
-II. Ser originario del Estado o haber residido en la entidad durante los últimos cinco años;
+El funcionamiento del Sistema será regulado por lo señalado en el reglamento respectivo.
 
-III. No desempeñar simultáneamente, ni haberse desempeñado durante los últimos tres años, dentro de la administración pública federal, estatal o municipal, partido u organización política, con excepción de los cargos o empleos de docencia e investigación;
+###### ARTÍCULO 14.
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+Son Integrantes del Sistema:
 
-IV. Tener cuando menos veinticinco años de edad el día de su nombramiento;
+I. Las dependencias y entidades encargadas de la cultura y las artes, de la administración pública estatal y de los municipios;
 
-V. Gozar de buena reputación y no haber sido sentenciado por delito intencional; y
+II. Las asociaciones del sector social y privado cuyo objeto sea la promoción y el fomento de la cultura y las artes en el Estado; y
 
-VI. No haber resultado responsable por violaciones a los derechos humanos en algunas de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 13.
-
-La designación de los consejeros ciudadanos se realizará de conformidad con el procedimiento establecido para la designación del Presidente de la Comisión.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 14.
-
-Cada dos años y medio deberán ser substituidos cuatro consejeros ciudadanos que tengan mayor antigüedad, con sus respectivos suplentes.
-
-(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+III. Las instituciones educativas, en el Estado que realicen funciones de divulgación y difusión de la cultura y las artes.
 
 #### Sección Tercera
 
@@ -359,31 +467,15 @@ Facultades y funciones del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 15.
+###### ARTÍCULO 15.
 
-El Consejo Ciudadano tendrá las siguientes facultades:
+El Sistema tiene los siguientes objetivos:
 
-I. Establecer los criterios generales de actuación de la Comisión;
+I. Elaborar y proponer políticas para el fomento de la cultura y las artes en el ámbito Estatal;
 
-II. Aprobar el reglamento interior de la Comisión y sus reformas, así como ejercer las funciones de órgano normativo interno;
+II. Promover acciones para la coordinación en materia de cultura y de las artes; y
 
-III. Opinar sobre los proyectos de los informes del Presidente, así como de los asuntos que le sean sometidos a su consideración por el mismo;
-
-IV. Proponer al Ejecutivo del Estado, el proyecto de Presupuesto de Egresos de la Comisión;
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
-
-En caso de que el Consejo Ciudadano no proponga parcial o totalmente el proyecto del Presupuesto de Egresos de la Comisión, será el Congreso del Estado el que determine el presupuesto definitivo;
-
-V. Nombrar al Secretario Técnico del Consejo Ciudadano;
-
-VI. Proponer al Presidente, todas aquellas acciones y medidas que sirvan para una mejor observancia y tutela de los derechos humanos en el Estado;
-
-VII. Aprobar los criterios generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos gubernamentales estatales y municipales, así como con los organismos sociales y la población; y
-
-VIII. Las demás que le confiere la presente ley, su reglamento interior y los ordenamientos aplicables.
-
-(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+III. Las demás que le otorguen esta ley y los demás ordenamientos legales.
 
 #### Sección Cuarta
 
@@ -391,21 +483,21 @@ De las sesiones del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 16.
+###### ARTÍCULO 16.
 
-El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos.
+Los integrantes del Sistema deberán coordinarse para promover:
 
-Las sesiones ordinarias se verificarán cuando menos una vez al mes.
+I. Promover la cultura y las artes en sus diversas manifestaciones, y la ejecución de proyectos específicos;
 
-Las sesiones extraordinarias serán convocadas por el Presidente o a solicitud de por lo menos tres consejeros ciudadanos propietarios cuando consideren que hay razones para ello.
+II. Apoyar a los artistas e intelectuales, bajo el principio de equidad, a efecto de que se dediquen profesionalmente a la creación artística y cultural en todas sus expresiones, conforme los términos y condiciones determinadas por el Sistema;
 
-Los suplentes podrán asistir a las sesiones del Consejo únicamente con voz, pero sin derecho a voto, salvo que se encuentren en funciones de titulares.
+III. Aprovechar eficientemente las instalaciones públicas destinadas a la cultura y las artes;
 
-Las ausencias temporales de los consejeros ciudadanos propietarios, serán cubiertas por los suplentes en forma rotativa en el orden de la lista nominal en la que éstos aparezcan.
+IV. Alentar un mayor beneficio del potencial educativo y de la difusión cultural, a través de la promoción de la producción cinematográfica, de radio y televisión, discográfica, editorial, así como todas aquellas tecnologías de medios de información y comunicaciones que surjan y permitan promover y difundir la cultura y las artes;
 
-En casos de ausencia definitiva de un consejero propietario, el resto del Consejo Ciudadano elegirá, entre los consejeros suplentes, mediante voto secreto y directo, a quien deberá ocupar el cargo.
+V. Disponer la aplicación de apoyos recibidos de cualquier índole, en apego a la normatividad que para tal efecto se establezca; y
 
-(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+VI. Las demás que le otorgue la presente ley, los demás ordenamientos legales.
 
 #### Sección Quinta
 
@@ -413,39 +505,23 @@ De las facultades y obligaciones de los consejeros ciudadanos.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 17.
+###### ARTÍCULO 17.
 
-Los consejeros ciudadanos tendrán las siguientes facultades:
+Las personas físicas y morales que reciban recursos del erario público y que formen parte del Sistema, deberán presentar un informe sobre su aplicación, y estarán sujetas a auditorías respecto de los mismos.
 
-I. Participar con voz y voto en las sesiones del Consejo en los términos que establece la presente Ley. En caso de no poder asistir a la sesión del Consejo Ciudadano, deberán dar aviso con anticipación al Secretario Técnico del Consejo Ciudadano de la Comisión a efecto de que el consejero suplente que corresponda, asista en su lugar;
+###### ARTÍCULO 18.
 
-II. Integrar los comités permanentes o temporales que el Consejo determine; y
+Los gobiernos estatal y municipales, a través de los medios de comunicación visuales, auditivos, electrónicos y escritos con que cuenten, apoyarán la difusión cultural y artística, mediante la producción, distribución, transmisión y emisión de programas, películas, ideas, imágenes, documentales, actividades y noticias como medios de formación, expresión e información cultural, conforme a los principios que fija esta ley, bajo los términos y condiciones establecidos en los ordenamientos aplicables.
 
-III. Tener acceso a la información de los proyectos y programas relacionados con las áreas de investigación y de procedimientos, así como a las de promoción y difusión cultural de los derechos humanos.
+###### ARTÍCULO 19.
 
-Los consejeros suplentes asistirán a las sesiones del Consejo Ciudadano y tendrán derecho a voz pero no a voto y a lo dispuesto por las fracciones II y III de este artículo.
+1. El fomento a la cultura y las artes tendrá carácter democrático, plural y popular.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+2. Las autoridades en materia de cultura y las artes, a través de convenios de colaboración, estimularán y coordinarán la participación libre de la comunidad en la organización y funcionamiento de las instituciones y centros culturales y artísticos.
 
-###### Artículo 18.
+###### ARTÍCULO 20.
 
-Los consejeros ciudadanos, previo acuerdo del Consejo, podrán solicitar información a los servidores públicos o autoridades de organismos estatales o municipales, sobre asuntos de derechos humanos en la entidad.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 19.
-
-Los consejeros ciudadanos no podrán arrogarse la representación del Consejo Ciudadano, ni difundir por sí los asuntos que sean del conocimiento de sus órganos o proporcionar información sobre las investigaciones de las quejas que se realizan y que aún no concluyan, ni expresar su opinión públicamente respecto de su fundamento y pertinencia.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 20.
-
-Los consejeros ciudadanos sólo podrán ser privados de su cargo por causa prevista en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
-
-Los consejeros ciudadanos que por alguna causa no hayan terminado el período de su nombramiento, serán sustituidos por los consejeros ciudadanos suplentes, quienes deberán rendir protesta de ley ante el Consejo Ciudadano, y éste a su vez, dará el aviso correspondiente al Congreso del Estado.
-
-(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+Las autoridades propiciarán la formación de comités ciudadanos, cuyos nombramientos son de carácter honorífico, a fin de apoyar las actividades culturales y artísticas en general, así como para organizar, desarrollar y financiar la construcción de espacios culturales y artísticos en el Estado, como museos, bibliotecas, teatros, foros, salas de exposiciones y otras unidades destinadas a la realización de actividades culturales y artísticas que permitan una mayor participación y proyección comunitaria en todos sus órdenes.
 
 #### Sección Sexta
 
@@ -453,247 +529,101 @@ Del Secretario Técnico del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 21.
+###### ARTÍCULO 21.
 
-El Secretario Técnico del Consejo es el servidor público encargado de auxiliar a los consejeros ciudadanos y al Presidente en el desempeño de sus funciones.
+Los gobiernos estatal y municipales estimularán la creación de organismos privados, sociedades, asociaciones y fideicomisos que coadyuven al fomento cultural y artístico en todas sus manifestaciones.
 
-Deberá contar con título a nivel licenciatura legalmente expedido, tener como mínimo treinta años de edad y reunir los demás requisitos que establezca el Consejo Ciudadano; dependerá únicamente de los consejeros, quedando sujeto a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y al reglamento interno de la Comisión.
+### CAPÍTULO V. DEL PROGRAMA INSTITUCIONAL Y DEL PLAN ANUAL DE ACTIVIDADES PARA LA CULTURA Y LAS ARTES
 
-La designación del Secretario Técnico será realizada por el Consejo Ciudadano de una terna propuesta por el Presidente de la Comisión, durará en su cargo cinco años, podrá ser ratificado cuantas veces se crea conveniente y tendrá las siguientes atribuciones:
+###### ARTÍCULO 22.
 
-I. Levantar las actas de sesiones del Consejo Ciudadano;
+El Director General del Instituto deberá elaborar y presentar a la aprobación de la Junta Directiva del mismo, el Programa Institucional de Cultura dentro de los noventa días posteriores de la entrada en vigor del Plan Estatal de Desarrollo.
 
-II. Proporcionar los informes que le soliciten los consejeros ciudadanos;
+###### ARTÍCULO 23.
 
-III. Dar el seguimiento a los acuerdos, declaraciones y decisiones que emita el Consejo Ciudadano;
+El Programa deberá establecer los lineamientos rectores y una agenda para la realización de los objetivos en cultura y artes que se desprendan del Plan Estatal de Desarrollo.
 
-IV. Realizar los estudios que le pida el Consejo Ciudadano;
+###### ARTÍCULO 24.
 
-V. Trabajar en coordinación con el Presidente apoyándolo en todo lo que sea necesario para el buen funcionamiento del Consejo Ciudadano y de la Comisión;
+El Director General del Instituto deberá presentar y someter a la determinación de la Junta Directiva, durante el mes de septiembre de cada año, el Plan Anual de Actividades del Instituto y la propuesta de presupuesto de egresos del mismo, para el siguiente año.
 
-VI. Participar en la elaboración de los informes anuales así como los especiales que sean necesarios;
+###### ARTÍCULO 25.
 
-VII. Participar en la elaboración y presentación del proyecto de Presupuesto de Egresos; y
+El Plan anual deberá de contener la agenda y calendarización de las actividades culturales proyectadas para el año siguiente, y deberá acompañarse con el presupuesto de egresos para la realización de las mismas.
 
-VIII. Las demás que establezca el reglamento interior.
+###### ARTÍCULO 26.
 
-El Secretario Técnico del Consejo Ciudadano, contará con los recursos profesionales, materiales y financieros necesarios para el desempeño de sus funciones.
+El Gobierno del Estado constituirá el Fondo con base en la partida que se determine en el presupuesto de egresos del Estado para este fin. El fondo recibirá asignaciones anuales conforme a la determinación que apunte el Congreso en el presupuesto de egresos del Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 27.
 
-### Capítulo IV
+1. El objeto del Fondo será el otorgamiento de apoyos económicos a fin de:
 
-Del Presidente de la Comisión.
+I. Sustentar la operación, sostenimiento y ampliación de actividades culturales y artísticas;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+II. Apoyar a los municipios en la realización de actividades culturales y artísticas;
 
-###### Artículo 22.
+III. Impulsar el desarrollo y ejecución de proyectos de creación, investigación, promoción y difusión de la cultura y las artes;
 
-El Presidente es la primera autoridad de la Comisión. Será designado para promover y garantizar los derechos humanos de cualquier persona que se encuentre en el Estado; durará en su cargo cinco años y exclusivamente podrá ser designado para un segundo período, respetando el procedimiento realizado para la designación inicial.
+IV. Incrementar el patrimonio cultural del Estado; y
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+V. Apoyar actividades cuyo fin sea el rescate, preservación y desarrollo de la cultura propia de los grupos y sectores populares.
 
-###### Artículo 23.
+2. Todo mexicano podrá solicitar financiamiento de proyectos de creación, investigación, preservación, promoción y difusión artística y cultural.
 
-Para la designación del Presidente de la Comisión, se seguirá el siguiente procedimiento:
+###### ARTÍCULO 28.
 
-I. El Congreso del Estado expedirá una convocatoria pública dirigida a los organismos sociales, colegios de profesionistas, universidades, y a la sociedad en general, con la finalidad de allegarse propuestas de candidatos; y
+1. Los recursos que integran el Fondo se asignarán de conformidad con los criterios y bases siguientes:
 
-II. De los candidatos propuestos por la sociedad, el Congreso del Estado nombrará al ciudadano que fungirá como Presidente de la Comisión, con la aprobación de las dos terceras partes de los diputados presentes;
+I. La presentación de solicitud expresa de los interesados, previa convocatoria pública y abierta que expida el Instituto con base en el proyecto que al efecto se presente;
 
-III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
+II. El equilibrio entre la necesidad de cada expresión cultural y artística y el grado de desarrollo de esta, considerándose cada disciplina, sin menoscabo de la calidad de proyectos;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+III. El otorgamiento de preferencia a los proyectos que contribuyan a la descentralización de la actividad cultural;
 
-###### Artículo 24.
+IV. La asignación de los apoyos se dará cada año, de conformidad con los recursos que al efecto se determinen en el presupuesto anual del Gobierno del Estado;
 
-El Presidente de la Comisión deberá comparecer ante el Congreso del Estado, cuando el Pleno de la Legislatura lo requiera, a fin de presentar los Informes que se le soliciten respecto de los asuntos más relevantes de sus funciones.
+V. El procedimiento de selección de personas físicas o morales a las cuales se les otorguen los apoyos será competitivo, eficiente, equitativo y público; y
 
-###### Artículo 25.
+VI. Las solicitudes serán estudiadas y dictaminadas por las Comisiones que al efecto se formen a invitación del Instituto, las cuales se integrarán por no menos de cinco miembros de destacada trayectoria en el medio artístico y cultural, que además deberán gozar de reconocida honorabilidad.
 
-El Presidente de la Comisión deberá reunir los siguientes requisitos:
+2. No se otorgarán recursos del Fondo para la realización de proyectos cuya realización genere utilidades en beneficio de personas morales que tengan objeto de lucro.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+3. No podrán recibir apoyos por concepto de becas o similares, quienes ya reciban un apoyo de esa naturaleza de cualquier otra instancia gubernamental en materia de cultura y arte.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+4. El 50% de los recursos del Fondo se destinarán, en proporción a su población, a los 43 municipios del Estado, a través de las unidades administrativas a cargo de la materia de cultura; dichas cantidades serán asignadas y supervisadas su aplicación por el director del fideicomiso que administra los recursos del Fondo; el 50 % restante se asignará para las actividades que se aprueben de acuerdo a lo establecido en la fracción I del párrafo 1 de este artículo.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO VI. DEL FONDO PARA LA CULTURA Y LAS ARTES
 
-II. Ser originario del estado de Jalisco o haber residido en él durante los últimos cinco años;
+###### ARTÍCULO 29.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+Los recursos del Fondo no podrán destinarse a sufragar gastos que deriven de fines distintos a los enumerados en el presente Capítulo.
 
-III. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
+###### ARTÍCULO 30.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+1. Los beneficiarios del Fondo asumirán las siguientes obligaciones:
 
-IV. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
+I. Entregar a la administración del Fondo un informe cuatrimestral, reportando el avance del proyecto apoyado, así como comprobantes suficientes de que el recurso fue gastado en la forma presentada en el proyecto. El último de estos informes deberá ser un informe integrador de los resultados finales del proyecto y su impacto en la vida cultural del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+II. Reconocer y difundir el apoyo de las autoridades culturales del Estado en los productos y representaciones y, en general, en los medios que utilice para la promoción de su trabajo; y
 
-V. No haber sido condenado por delito doloso, ni haber resultado responsable por violaciones a los derechos humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos;
+III. Dar crédito al Gobierno del Estado y al Instituto en los productos y presentaciones que reciban financiamiento del Fondo.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+2. En caso de que los beneficiarios del Fondo no cumplan con las obligaciones señalados en este artículo, no podrán volver a ser beneficiarios del mismo en el futuro.
 
-VI. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco, y (sic)
+###### ARTÍCULO 31.
 
-> <small>(REFORMADA P.O. 20 DE NOVIEMBRE DE 2012)</small>
+El Estado reconoce la diversidad cultural y promoverá el respeto de las distintas identidades culturales en sus expresiones diversas, tangibles e intangibles, que sustentan la identidad de los individuos y sus comunidades, componentes esenciales para elevar la calidad de vida y lograr un desarrollo incluyente, integral y sustentable.
 
-VII. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco;
+### CAPÍTULO VII. DEL PATRIMONIO CULTURAL
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+###### ARTÍCULO 32.
 
-VIII. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad, y
+En Tamaulipas el patrimonio cultural está compuesto por diferentes formas de expresión ya sean tangibles o intangibles como lo son la literatura, gastronomía, artesanías, danza, bailes, música, cuentos, leyendas y supersticiones, pintura, arquitectura, escultura, cinematografía, vestimentas típicas, fiestas y celebraciones populares.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+###### ARTÍCULO 33.
 
-IX. No ser dirigente de ningún partido político o agrupación política, cuando menos cinco años antes a la fecha de su elección.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 26.
-
-El Presidente de la Comisión no podrá en ningún momento de su gestión desempeñarse como ministro de algún culto religioso, desempeñar cargo de dirigencia estatal o municipal dentro de algún partido político ni realizar actos de proselitismo.
-
-Asimismo, no podrá ejercer su profesión en forma privada, excepto en causa propia o en la docencia, ni desempeñar cargos, empleos o comisiones dentro de la administración pública federal, estatal o municipal durante su encargo.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 27.
-
-El Presidente de la Comisión no estará subordinado con motivo de sus funciones, a institución o autoridad alguna y desempeñará su cargo con plena autonomía.
-
-Sólo podrá ser privado de su cargo por causa justificada prevista en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
-
-En caso de falta temporal, el Presidente será substituido por el Primer Visitador General, en los términos que para tal efecto prevea el Reglamento Interior. Cuando la ausencia fuere definitiva, lo suplirá dicho Visitador, en tanto se designa al nuevo titular en un plazo no mayor de treinta días y conforme al presente ordenamiento.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 28.
-
-Son facultades y atribuciones del Presidente de la Comisión:
-
-I. Ejercer la representación legal de la Comisión y promover la divulgación de la cultura de respeto de los derechos humanos ante los distintos niveles de gobierno;
-
-II. Presidir el Consejo Ciudadano;
-
-III. Aprobar y emitir recomendaciones públicas, autónomas, no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración los visitadores, con motivo de las investigaciones que practiquen;
-
-IV. Dirigir, planear y coordinar los trabajos de la Comisión, distribuyendo y delegando funciones a los visitadores en los términos que para tal efecto establezca el Reglamento Interior;
-
-V. Formular los criterios generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar al personal técnico y administrativo del organismo que establezca el presupuesto de egresos;
-
-VI. Enviar al Congreso del Estado, durante el mes de febrero, un informe anual de las actividades realizadas por la Comisión, mismo que deberá contener, las sugerencias que considere pertinentes y que redunden en beneficio y promoción de la cultura de los derechos humanos;
-
-VII. Presentar un informe mensual ante el Consejo Ciudadano de la Comisión, conforme a los lineamientos que se establezcan en el reglamento interior;
-
-VIII. Solicitar al Congreso del Estado por conducto de la Comisión Legislativa de Derechos Humanos la revisión de la legislación cuando a su juicio algún ordenamiento legal contravenga disposiciones relativas a derechos humanos;
-
-IX. Remitir al Congreso del Estado, al final de cada ejercicio presupuestal, un informe que contenga los estados financieros y demás datos que muestren el registro de las operaciones efectuadas en el libre ejercicio del presupuesto de egresos de la Comisión; debiendo poner a su disposición la documentación que compruebe y justifique dichos movimientos financieros, proporcionando al órgano técnico de inspección y vigilancia del Congreso del Estado, la información que le solicite en el ejercicio de sus funciones;
-
-X. Enviar a cualquier poder del Estado, dependencia u organismo descentralizado de la administración pública estatal o municipal, si así lo considera conveniente, un informe anual especial sobre el comportamiento de sus instituciones en cuanto al respeto a los derechos humanos, haciendo las observaciones y recomendaciones que incidan en la observancia de los derechos humanos;
-
-XI. Celebrar convenios de colaboración con autoridades y organismos públicos y privados interesados en la defensa de los derechos humanos, así como con las instituciones académicas, asociaciones culturales y medios de comunicación masivos para el mejor cumplimiento de sus fines;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XII. Elaborar con la aprobación del Consejo Ciudadano, el proyecto del Presupuesto de Egresos de la Comisión y el informe respectivo sobre su ejercicio, para que sean presentados al Ejecutivo del Estado, a más tardar el primer día hábil del mes de noviembre. El proyecto de presupuesto debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, y contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente, así como las remuneraciones que les sean asignadas a los mismos, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
-
-XIII. Dictar las disposiciones que estime convenientes y establecer la creación de las áreas que le auxilien en su trabajo y hagan eficiente la función de la Comisión;
-
-XIV. Nombrar y remover libremente al Secretario Ejecutivo, visitadores y demás personal, con excepción del Secretario Técnico del Consejo, en los términos de la Ley de los Servidores Públicos del Estado (sic) Jalisco y sus Municipios, y demás disposiciones legales aplicables;
-
-XV. Otorgar licencias y permisos al personal de la Comisión en los términos del reglamento interior;
-
-XVI. Distribuir y delegar funciones a los visitadores y demás personal;
-
-XVII. Instaurar a través de la Contraloría de la Comisión, el procedimiento administrativo interno, cuando alguno de sus servidores públicos de la Institución incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
-
-XVIII. Proponer al Consejo Ciudadano el proyecto de reglamento interior, los manuales de organización de la Comisión, de procedimientos y de servicios al público, que deberán actualizarse cada vez que así se considere necesario para el buen desempeño de la institución;
-
-XIX. Informar a la sociedad sobre el estado, avances o retrocesos que en materia de derechos humanos observen las autoridades;
-
-XX. Prevenir la violación a los derechos humanos o la continuación de la misma mediante la emisión de pronunciamientos y recomendaciones; y
-
-XXI. Las demás que le otorguen la presente ley, su reglamento y demás ordenamientos aplicables.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-### Capítulo V
-
-De los informes del Presidente.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 29.
-
-El Presidente rendirá un informe anual a la sociedad y los titulares de los tres poderes del Estado, sobre las actividades que haya realizado. Dicho informe se difundirá en la forma más amplia posible para conocimiento de la sociedad a través de las publicaciones de la Comisión y de los medios de comunicación masiva.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 30.
-
-El informe anual de actividades deberá contener un panorama general de la situación de los derechos humanos en el estado; el número de quejas recibidas, sus características, los resultados de la labor de conciliación; las investigaciones realizadas, las recomendaciones emitidas, peticiones y acuerdos de no violación a los derechos humanos que se hubieren formulado; los resultados generales de la gestión anual obtenidos, así como pronunciamientos, informes especiales, resultados de la capacitación, las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados, con la consecuente eficacia en la prestación de los servicios públicos.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 31.
-
-Cuando persistan actitudes u omisiones que impliquen evasivas o entorpecimiento en las investigaciones que realice la Comisión, por parte de las autoridades o servidores públicos estatales o municipales que deban intervenir o colaborar con los visitadores, no obstante los requerimientos que se les hubiesen formulado, se deberá rendir un informe especial al respecto.
-
-### Capítulo VI
-
-Del Secretario Ejecutivo de la Comisión.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 32.
-
-El Secretario Ejecutivo de la Comisión es el servidor público encargado del enlace entre la Comisión y los organismos y asociaciones civiles y gubernamentales; estará encargado de difundir la cultura, trabajo y propuestas emprendidos por la institución ante la sociedad y ante los diversos poderes del Estado y tendrá las demás funciones que se señalen en la presente ley o le sean encomendadas por el Presidente de la Comisión.
-
-Para desempeñar el cargo de Secretario Ejecutivo, se deberán reunir los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II. Tener título legalmente registrado de abogado o licenciado en derecho con pleno conocimiento en materia de derechos humanos;
-
-III. Acreditar por lo menos tres años de práctica profesional;
-
-IV. Tener treinta años de edad el día de la designación; y
-
-V. Gozar de buena reputación y no haber sido sentenciado por delito intencional.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 33.
-
-Son atribuciones y obligaciones del Secretario Ejecutivo:
-
-I. Proponer al Consejo Ciudadano y al Presidente, los criterios generales que en materia de derechos humanos habrá de seguir la Comisión ante la población, los organismos civiles, autoridades estatales o municipales y las universidades;
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
-
-II. Promover y fortalecer las relaciones de la Comisión con los ciudadanos, organismos públicos, sociales y privados, en materia de derechos humanos;
-
-III. Formular los anteproyectos de propuestas y consideraciones a las leyes y reglamentos que la Comisión haya de entregar a los órganos competentes y estudios que los sustenten;
-
-IV. Elaborar los informes anuales y mensuales, así como de los especiales que envíe la Comisión a las dependencias de gobierno y los que se rindan al Consejo Ciudadano;
-
-V. Promover y mantener la biblioteca y el acervo documental de la Comisión; y (sic)
-
-VI. Coordinar y ejecutar los programas y acciones que le sean encomendados por el Presidente;
-
-VII. Programar, planear, organizar, coordinar y ejecutar cursos de capacitación que tengan por objeto la promoción y difusión de la cultura de los derechos humanos;
-
-VIII. Apoyar al Presidente y a los visitadores generales cuando del trámite de las quejas se desprenda la necesidad de emitir un pronunciamiento; y
-
-IX. Las demás que le sean conferidas por la presente ley, el Reglamento Interior y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+El Estado y los municipios tienen la obligación de identificar, proteger, preservar, rescatar, enriquecer, revitalizar, revalorizar, mantener, conservar y restaurar el patrimonio cultural tangible e intangible de Tamaulipas.
 
 ###### Artículo 33 Bis.
 
@@ -709,237 +639,109 @@ IV. Realizar actividades para divulgar la cultura de los derechos humanos; y
 
 V. Las demás que establezca el reglamento interior.
 
-### Capítulo VII
+### CAPÍTULO VIII. DEL REGISTRO DEL PATRIMONIO CULTURAL
 
-De los Visitadores.
+###### ARTÍCULO 34.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+Se declara de interés público la identificación, reconocimiento, conocimiento, investigación, valoración, información, difusión y conservación de los bienes, valores y expresiones que conforman el patrimonio cultural intangible de Tamaulipas, y de utilidad pública de afectación, protección, preservación, conservación, enriquecimiento, restauración de los bienes que integran el patrimonio cultural del Estado.
 
-###### Artículo 34.
+###### ARTÍCULO 35.
 
-Los visitadores generales así como los visitadores adjuntos "A" y "B" deberán reunir los mismos requisitos que se establecen para desempeñar el cargo de Secretario Ejecutivo, con excepción de la edad que será para los generales de 35 años, para los adjuntos "A" de 28 años, para los adjuntos "B" de veinticinco años y además les será obligatorio a éstos últimos acreditar un año de práctica profesional.
+El régimen especial de protección del patrimonio cultural, tendrá por objeto desarrollar un plan de manejo que propicie acciones y obras tendientes a su salvaguarda, conservación, recuperación, restauración y difusión. Para tal efecto, se consideran patrimonio cultural e histórico:
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
+I. Los sitios de interés histórico: conjunto de inmuebles, espacios urbanos o naturales vinculados con la historia social, política, religiosa, económica o cultural del Estado;
 
-Para ser nombrado visitador, deberá previamente acreditar de manera suficiente, experiencia y conocimiento en los temas de derechos humanos, en los términos que establezca el reglamento interior.
+II. Los conjuntos arquitectónicos: ciudades, villas, pueblos, centros históricos, centros urbanos y rurales, barrios o parte de ellos que, por haber conservado en gran porción la forma, las edificaciones y la unidad de la traza urbana, reflejan claramente épocas pasadas, costumbres y tradiciones regionales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+III. Las zonas de interés simbólico: localidades que, por las peculiaridades de su traza, edificaciones, espacios abiertos, su relación con el entorno natural, sus tradiciones y costumbres, constituyen sitios de relevancia cultural;
 
-###### Artículo 35.
+IV. Las zonas paleontológicas: sitios y lugares que, por sus características especiales y su importancia y valor cultural, deben ser objeto de un régimen de protección especial;
 
-Son facultades y obligaciones de los visitadores generales:
+V. Los bienes o conjunto de bienes patrimonio de la humanidad: los sitios, conjuntos, zonas, bienes o conjunto de bienes que cuenten con declaratoria como patrimonio cultural de la humanidad por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+VI. Los pueblos mágicos: los centros de población que han sido designados como pueblos mágicos por el Gobierno Federal;
 
-I. Admitir o rechazar, de manera fundada y motivada, las quejas presentadas ante la Comisión que le hubieran sido turnadas por el Director de Quejas, Orientación y Seguimiento;
+VII. Los bienes muebles tangibles: artesanías, mobiliario, testimonios documentales, instrumentos musicales, indumentaria, pintura, escritura, cerámica, escultura, orfebrería, fotografía, video, cinematografía y gastronomía; y
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+VIII. Los valores y bienes culturales intangibles: idiomas, lenguas, dialectos, danzas, fiestas, celebraciones, ferias, ceremonias, expresiones artísticas, memoria histórica, tradiciones orales, costumbres, toponimias, rituales, culturas indígenas y populares, y cualquier otra manifestación intangible de la identidad cultural.
 
-II. Informar al Presidente de las quejas que sean recibidas en su visitaduría o iniciadas de oficio y del trámite de las mismas;
+###### ARTÍCULO 36.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+1. El patrimonio cultural señalado en el artículo anterior será objeto de un régimen especial de protección, a petición de parte o de oficio, en las condiciones consignadas en la Declaratoria, que deberá emitir mediante Decreto el Ejecutivo Estatal, en lo que previamente se deberá escuchar la opinión del Consejo Consultivo, previa audiencia de los propietarios de los bienes que puedan ser sujetos de una Declaratoria.
 
-III. En coordinación con el Director de Quejas, Orientación y Seguimiento, iniciar de oficio la investigación de las denuncias de presuntas violaciones a los derechos humanos que sean de interés social o las de dominio público;
+2. Los bienes y las zonas federales en los que se encuentren monumentos artísticos e históricos que cuenten con declaratoria federal, serán objeto de un régimen de protección que haga concurrir las facultades federales, estatales y municipales.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 37.
 
-IV. Realizar las actividades necesarias para lograr, por medio de la conciliación o de la petición, el cese inmediato de las violaciones de los derechos humanos;
+1. La Declaratoria deberá contener:
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+I. Las causas de utilidad pública o interés social que motiven la Declaratoria;
 
-V. Practicar las investigaciones y estudios necesarios para formular los proyectos de resolución, acuerdos o peticiones, los que se someterán a consideración del Presidente para su análisis y, en su caso, aprobación;
+II. En su caso, la descripción precisa del perímetro que comprende la zona, considerando un perímetro nuclear, uno de transición y uno de amortiguamiento;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+III. La ubicación geográfica o planos de la zona, en su caso;
 
-VI. Cuando se requiera realizar acciones de investigación para poder estar en aptitud de emitir resoluciones, tendrán las siguientes facultades:
+IV. Las condiciones a que deberán sujetarse las intervenciones o modificaciones, que se realicen en los sitios, conjuntos, zonas, pueblos, valores, bienes o conjunto de bienes tangibles o intangibles comprendidos; y
 
-a) Solicitar a cualquier dependencia, autoridad o servidor público estatal o municipal la presentación de informes o documentos que ayuden al esclarecimiento de los hechos en investigación;
+V. Las demás que sean necesarias para cumplir con las disposiciones de la presente ley.
 
-b) Practicar las visitas e inspecciones a las dependencias públicas, para el esclarecimiento de los hechos que se investigan, ya sea directamente o por medio del personal técnico o profesional bajo su dirección, en los términos de la presente ley y su reglamento interior;
+2. La Declaratoria deberá publicarse en el Periódico Oficial del Estado.
 
-c) Sugerir que a través de los procedimientos administrativos o penales, se analice la posible responsabilidad de las autoridades o servidores públicos que obstaculicen la investigación; y,
+### CAPÍTULO IX. DE LAS AUTORIZACIONES DE OBRAS
 
-d) Efectuar las demás acciones que conforme a derecho juzguen convenientes para el mejor conocimiento de los asuntos;
+###### ARTÍCULO 38.
 
-VII. Conforme lo establezca el reglamento interior, realizar visitas periódicas a los establecimientos destinados a la detención preventiva, custodia y readaptación social, estatales y municipales para constatar que no se cometan violaciones a los derechos humanos, entregando un informe al Presidente dentro de los tres días siguientes a cada visita. Para tal efecto, las autoridades o servidores públicos que desempeñen un empleo, cargo o comisión en la administración pública del Estado, en los órganos de procuración y de impartición de justicia, deberán prestar todas las facilidades que se requieran para el cumplimiento de la visita;
+Los bienes muebles e inmuebles declarados bajo el régimen especial de protección, estarán sujetos a la salvaguarda del Estado únicamente en lo que respecta a su valor cultural e histórico, sin detrimento de las facultades que sobre ellos puedan ejercer sus propietarios o poseedores.
 
-VIII. Solicitar en cualquier momento a las autoridades competentes, se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones de que tengan conocimiento; y
+### CAPÍTULO X. DE LOS ESTÍMULOS FISCALES
 
-IX. Las demás que le señale la presente ley, el reglamento interior y demás disposiciones aplicables.
+###### ARTÍCULO 39.
 
-###### Artículo 36.
+Una vez publicada la Declaratoria de un bien inmueble, el Director General del Instituto la enviará al Instituto Registral y Catastral del Estado para que se asiente la nota marginal de que dicho bien ha sido declarado patrimonio cultural del Estado.
 
-Los visitadores adjuntos auxiliarán en sus funciones a los visitadores generales, en los términos del reglamento interior.
+### CAPÍTULO XI. DE LAS ARTESANÍAS
 
-###### Artículo 37.
+ARTÍULO (SIC) 47.
 
-El Primer Visitador General sustituirá al Presidente en sus ausencias, conforme lo establece esta ley y su reglamento interior.
+Las autoridades en materia de cultura fomentarán, protegerán y promoverán el desarrollo del potencial económico y sociocultural de las artesanías e industrias populares típicas del Estado, con el fin de preservar su autenticidad. Al efecto deberán diseñar y ejecutar un programa de atención integral al artesano, que comprenda la enseñanza, investigación, facilidades crediticias, promoción y difusión de las obras, mejoramiento de la calidad, apoyo tecnológico y seguridad social, de acuerdo con la ley especial de la materia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 40.
 
-### Capítulo VIII
+Se crea el Registro del Patrimonio Cultural, el cual estará a cargo del Director General del Instituto, por conducto de la Dirección de Patrimonio Cultural e Histórico, en el que se inscribirán las Declaratorias de bienes adscritos al patrimonio cultural y la delimitación de las zonas protegidas.
 
-De la Dirección de Quejas, Orientación y Seguimiento.
+### CAPÍTULO XII. DEL FOMENTO A LAS ARTES Y EL FOLKLORE TAMAULIPECO
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 41.
 
-###### Artículo 38.
+Los bienes propiedad privada de las personas físicas o morales declarados como bienes adscritos al patrimonio cultural e histórico, deberán ser inscritos, previo Decreto y publicación en el Periódico Oficial del Estado, en el Registro del Patrimonio Cultural, a efecto que de (sic) puedan recibir los estímulos que establece esta ley.
 
-El Director de Quejas, Orientación y Seguimiento tendrá las siguientes facultades:
+### CAPÍTULO XIII. DE LA INVESTIGACIÓN EN MATERIA DE CULTURA Y LAS ARTES
 
-I. Recibir y registrar las quejas por presuntas violaciones a los derechos humanos que se denuncien, acusar recibo de su recepción y turnarlas a los visitadores generales;
+###### ARTÍCULO 42.
 
-II. Cuando se trate de asuntos urgentes o graves, inmediatamente lo hará del conocimiento del Visitador General o, en su caso, del Presidente de la Comisión;
+Requerirá la autorización del Instituto toda acción de preservación, conservación, restauración, rehabilitación, exhibición, utilización, reestructuración, adaptación, extracción, demolición o cualquier otro acto que afecte la estructura o zonas de entorno de un inmueble arquitectónico, urbanístico o natural que afecte la estructura, autenticidad o imagen de un bien señalado como patrimonio cultural e histórico.
 
-III. Coordinar, analizar y resolver las dificultades y peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Presidente de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les hayan formulado recomendaciones;
+### CAPITULO XIV. DEL USO DE LOS ESPACIOS PÚBLICOS DESTINADOS A LA CULTURA
 
-IV. Informar a los quejosos los datos sobre los avances de los expedientes de quejas o cumplimiento de recomendaciones, realizando tal función en coordinación con los visitadores;
+###### ARTÍCULO 43.
 
-V. Coordinar su trabajo de evaluación del cumplimiento de las recomendaciones con los visitadores generales o adjuntos que hubiesen preparado los proyectos respectivos.
+1. En el caso de los bienes protegidos por esta ley, la autorización otorgada por el Instituto, no excluye al solicitante de cumplir con los requerimientos establecidos por otras instancias competentes. En todo caso, las autoridades deberán exigir como requisito previo indispensable para los demás trámites a que haya lugar, dicha autorización.
 
-VI. Coordinar el trabajo de las áreas de guardia y médico psicológica de la Comisión;
+2. Cuando el acto objeto de la autorización requiera de la intervención de un Notario Público, deberá insertarse en el instrumento respectivo el texto del permiso correspondiente.
 
-VII. Analizar las quejas que se presenten por cualquier medio, y en caso de ser procedentes aceptarlas como posibles violaciones a los derechos humanos. En caso contrario, dar orientación a los quejosos para que acudan ante la instancia correspondiente;
+###### ARTÍCULO 44.
 
-VIII. Turnar las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos públicos de derechos humanos competentes;
+El Instituto promoverá, a favor de Gobierno del Estado, el uso y disfrute por medio de comodato o usufructo, así como la adquisición por donación, expropiación, compra venta o transferencia de derechos, de edificios, estructuras y zonas de valor histórico y natural para su preservación.
 
-IX. Turnar a la dirección de Contraloría las quejas contra los servidores públicos de la Comisión; y
+### CAPÍTULO XV. DE LOS FESTIVALES CULTURALES Y ARTÍSTICOS
 
-X. Las demás que le otorguen la presente Ley, su reglamento interior y los demás ordenamientos aplicables.
+###### ARTÍCULO 45.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
+El Instituto promoverá ante las autoridades federales, estatales y municipales, el otorgamiento de estímulos fiscales para los propietarios o poseedores de bienes muebles e inmuebles declarados patrimonio cultural.
 
-### Capítulo IX
+###### ARTÍCULO 46.
 
-De la Dirección de Comunicación Social.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 39.
-
-Son facultades del Director de Comunicación Social:
-
-I. Definir e integrar las distintas publicaciones que realice la Comisión, con la aprobación del Presidente;
-
-II. Ser el medio de difusión de la Comisión, para promover y divulgar la cultura de los derechos humanos en el Estado de Jalisco;
-
-III. Informar a la sociedad los objetivos y programas de trabajo del organismo mediante la puesta en práctica de diversas estrategias, planes de comunicación y campañas de difusión, así como dar a conocer a la opinión pública las recomendaciones, pronunciamientos emitidos, conciliaciones y acuerdos de no violación, que sean pertinentes y el Presidente los apruebe;
-
-IV. Gestionar la concesión de tiempos oficiales en el Sistema Jalisciense de Radio y Televisión;
-
-V. Producir material de propaganda para la difusión de los derechos humanos, así como la gaceta del organismo; y
-
-VI. Las demás que le otorguen la presente ley, su reglamento interior y demás ordenamientos aplicables.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-### CAPITULO X
-
-Del Director Administrativo.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 40.
-
-Son facultades del Director Administrativo:
-
-I. Supervisar la correcta aplicación de los recursos financieros de la Comisión, ejerciendo un estricto control presupuestal;
-
-II. Establecer y controlar el sistema de informática de la Comisión;
-
-III. Elaborar el anteproyecto de presupuesto anual de la Comisión, en coordinación con las distintas áreas de la Comisión;
-
-IV. Presentar a la Presidencia periódicamente y en forma oportuna, los informes de carácter financiero de la institución;
-
-V. Encargarse de los recursos humanos de la institución;
-
-VI. Proporcionar los insumos para la adecuada operación de las distintas áreas de la Comisión;
-
-VII. Controlar la adquisición de los bienes autorizados en el presupuesto de egresos de la Comisión;
-
-VIII. Dar mantenimiento a los bienes de la Comisión; y
-
-IX. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
-
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-### Capítulo XI
-
-Del Contralor Interno.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 41.
-
-Son facultades del Contralor Interno:
-
-I. Dar trámite a las quejas relativas al desempeño de los servidores públicos de la Comisión, practicar las investigaciones necesarias y, cuando exista responsabilidad, instaurar los procedimientos administrativos, aplicando en su caso, las sanciones conducentes;
-
-II. Realizar auditorías periódicas, visitas de inspección y reuniones de evaluación en todas las áreas del organismo, verificando el cumplimiento de los criterios generales y de los procedimientos;
-
-III. Vigilar que las erogaciones del organismo se ajusten a los presupuestos autorizados;
-
-IV. Vigilar el cumplimiento de las normas de control, fiscalización y evaluación por parte de los servidores públicos de la Institución; y
-
-V. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
-
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-### Capítulo XII
-
-Disposiciones comunes.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 42.
-
-El Presidente, los consejeros ciudadanos, los secretarios Técnico y Ejecutivo, los visitadores generales y adjuntos, así como el Director de Quejas, Orientación y Seguimiento, no podrán ser detenidos, ni sujetos de responsabilidad civil, penal o administrativa por las opiniones o recomendaciones que formulen o por los actos que realicen conforme a derecho y en ejercicio de las funciones propias de sus cargos.
-
-Las funciones del Presidente, de los secretarios Ejecutivo y Técnico, de los visitadores generales y adjuntos, así como de los directores, serán incompatibles con cualquier otro cargo, empleo o comisión en organismos públicos, militancia en partidos u organizaciones políticas. Tampoco podrán ejercer en forma privada su profesión, ni otras actividades remuneradas, si éstas tienen relación con las funciones y competencia de la Comisión. Podrán desempeñar cualquier empleo relacionado con la docencia, la investigación científica o tecnológica que no les impidan el correcto desempeño de su cargo.
-
-El resto de los servidores públicos que laboren en la Comisión, no podrán trabajar en actividades que sean incompatibles con las tareas de la misma, por lo que el reglamento interior especificará en qué otros el personal, está impedido para ejercer otras actividades en los términos de este artículo.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-### Capítulo XIII
-
-De la fe pública.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 43.
-
-El Presidente, el Secretario Ejecutivo, el Secretario Técnico, el Director de Orientación, Quejas y Seguimiento, así como los visitadores generales y visitadores adjuntos, tendrán fe pública en sus actuaciones para autentificar documentos, declaraciones y hechos en relación con sus funciones.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 44.
-
-Para los efectos de esta ley, se entenderá por fe pública, la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos servidores públicos, sin perjuicio del valor probatorio que se les atribuya, en los términos de este ordenamiento y otras leyes aplicables.
-
-Las declaraciones y hechos a que se refiere el párrafo anterior, se harán constar en el acta circunstanciada que al efecto levantará el servidor público correspondiente.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-### Capítulo XIV
-
-Del personal auxiliar de la Comisión.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 45.
-
-Son auxiliares del organismo el personal profesional, técnico y administrativo. El Secretario Ejecutivo, los directores, visitadores generales, y visitadores adjuntos, podrán ser designados libremente por el Presidente y removidos de conformidad con lo establecido por las leyes aplicables.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 46.
-
-El reglamento interior determinará las áreas y unidades administrativas y técnicas, así como las funciones y facultades que deberá ejercer el personal de cada una de las áreas, de acuerdo con las necesidades institucionales, y conforme se autorice en su Presupuesto de Egresos.
-
-El personal de confianza se determinará por las funciones que establece la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la presente ley, su reglamento interior y los demás ordenamientos aplicables.
-
-(REUBICADO, P.O. 13 DE FEBRERO DE 2001)
+El Instituto promoverá y concertará con la iniciativa privada, un esquema financiero y de participación mixta para la investigación, preservación, promoción y desarrollo de los bienes y valores artísticos y culturales declarados o susceptibles de declararse adscritos al patrimonio cultural e histórico del Estado.
 
 ## Título Tercero
 
@@ -965,67 +767,73 @@ Sin perjuicio de analizar cada caso particular y recomendar sanciones individual
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 48.
+###### ARTÍCULO 48.
 
-Cuando se presenten distintas quejas por supuestas violaciones a los derechos humanos de los grupos vulnerables radicados dentro del Estado, que evidencien patrones definidos de transgresión de sus derechos, la Comisión concentrará los expedientes y emitirá la resolución correspondiente. Independientemente de ello, cualquiera que sea la etapa del procedimiento, podrá expedir un pronunciamiento al respecto.
+En materia de artesanías, el Instituto tendrá las siguientes obligaciones:
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+I. Formar y mantener actualizado un padrón de artesanos en el Estado;
+
+II. Formar y mantener actualizado un inventario de recursos físicos artesanales;
+
+III. Promover la capacitación continúa de artesanos;
+
+IV. Otorgar reconocimientos a artesanos;
+
+V. Promover investigaciones técnicas en relación con la artesanía y sus procesos;
+
+VI. Sin perjuicio de lo establecido en otras leyes, expedir certificados de autenticidad y de origen de piezas artesanales; y
+
+VII. Difundir las artesanías tamaulipecas por todos los medios que estén a su alcance.
 
 ### Capítulo II
 
 De la presentación de las quejas.
 
-###### Artículo 49.
+###### ARTÍCULO 49.
 
-El personal de la Comisión deberá dar trato confidencial a la información o documentación de los particulares y funcionarios, relativa a los asuntos de su competencia.
+Para la protección de las artesanías el Instituto, podrá llevar a cabo lo siguiente:
 
-###### Artículo 50.
+I. Otorgar subsidios a los artesanos cuando se trate de artesanos de larga tradición y mérito excepcional;
 
-Estará legitimada para presentar quejas a la Comisión, toda persona que tenga conocimiento de violaciones a los derechos humanos o que presumiblemente haya sido objeto de éstas.
+II. Establecer mecanismos que permitan la certificación de origen o autenticidad;
 
-###### Artículo 51.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
 
-La queja no requiere de ningún requisito de formalidad, podrá presentarse por escrito o verbalmente ante la propia Comisión.
+III. Desenvolver o intervenir en procedimientos administrativos o judiciales tendientes a combatir prácticas que afecten el prestigio o el valor de las artesanías tamaulipecas;
 
-En casos urgentes, podrá enviarse por cualquier medio de comunicación y deberá ratificarse dentro de los cinco días siguientes a su presentación.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+IV. Prestar asistencia legal a los artesanos en los conflictos jurídicos que los afecten y que estén directamente vinculados a su actividad productiva; y
 
-En todos los casos operará, invariablemente, la suplencia en la deficiencia de la queja, para lo cual la Comisión orientará y apoyará a los quejosos sobre el contenido de la misma, y tratándose de personas que no entiendan el idioma español y/o sean sordos, les proporcionará gratuitamente un traductor o intérprete. Se pondrán a disposición de los quejosos formularios que faciliten el trámite.
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2025)</small>
 
-###### Artículo 52.
+V. Brindar asesoría en materia de derechos de autor y propiedad intelectual.
 
-Cuando las quejas provengan de personas que se encuentren en un centro de detención o reclusorios, deberán ser transmitidas a la Comisión sin demora alguna por los encargados de dichos centros, pudiendo hacerlo también directamente a través de los visitadores.
+###### ARTÍCULO 50.
 
-Para los efectos de la presente ley, todos los días y horas deberán considerarse hábiles. Habrá personal de guardia para recibir y atender quejas, las veinticuatro horas del día.
+La política de fomento se desarrollará mediante el apoyo a las empresas culturales, la creación de bolsas de trabajo, becas, premios anuales, concursos, festivales, talleres de formación artística, incentivos y créditos especiales para artistas, artesanos; apoyo a personas y grupos dedicados a actividades culturales, exposiciones, unidades móviles de divulgación cultural, incentivos y créditos especiales para integrantes de comunidades locales en el campo de la creación, la ejecución, la experimentación, la formación y la investigación en el ámbito individual y colectivo en las diversas expresiones culturales definidas en esta Ley.
 
-###### Artículo 53.
+###### ARTÍCULO 51.
 
-La queja sólo podrá presentarse dentro del plazo de un año, contado a partir de la fecha en que se hubiere concluido la ejecución de los hechos que se estimen violatorios de los derechos humanos, o de que el quejoso hubiese tenido conocimiento de los mismos.
+Las autoridades en materia de cultura promoverán la difusión y comercialización de las expresiones culturales de los tamaulipecos, así como su participación en festivales y otras actividades locales, nacionales e internacionales.
 
-En casos excepcionales, tratándose de infracciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante resolución razonada.
+###### ARTÍCULO 52.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+Las autoridades de cultura podrán suscribir, convenios con instituciones no lucrativas, que fomenten el arte y la cultura, con objeto de rescatar, defender y promover el talento tamaulipeco, facilitando el acceso de todos a los bienes, servicios y manifestaciones de la cultura y el arte, así como mediante el establecimiento de festivales de instituciones del sector público a favor de las diferentes formas de expresión cultural del Estado.
 
-No contará plazo alguno cuando se trate de hechos que puedan ser considerados violaciones graves a la integridad personal, ya sea física o moral.
+###### ARTÍCULO 53.
 
-###### Artículo 54.
+1. Las autoridades en materia de cultura definirán los criterios, requisitos y procedimientos necesarios para reconocer el carácter de profesional a los artistas que satisfagan las exigencias que se establezcan de la normatividad pertinente.
 
-Las quejas que se presenten ante la Comisión, así como los acuerdos, peticiones y recomendaciones que ésta dicte, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán o interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá hacerse del conocimiento de los quejosos en el acuerdo de admisión de la instancia.
+2. Asimismo, establecerán reconocimientos públicos a las diversas formas de expresión cultural, a efecto de fomentar y reconocer el profesionalismo y la dedicación de las personas dedicadas a la cultura y las artes.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 54.
 
-###### Artículo 55.
+A través de la investigación, se buscará el conocimiento de las diversas manifestaciones culturales del pasado y del presente y se difundirán sus expresiones.
 
-Los visitadores generales y adjuntos, así como el Director de Quejas, Orientación y Seguimiento deberán solicitar a las autoridades competentes, en forma inmediata cuando lo estimen necesario, que se tomen todas las medidas precautorias y cautelares necesarias para evitar la consumación irreparable de las violaciones a los derechos humanos reclamados o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
+###### ARTÍCULO 55.
 
-Dichas medidas pueden ser de conservación o restitutorias, según lo requiera la naturaleza del asunto.
-
-Son medidas de conservación las que pretenden que se mantenga una situación jurídica y que ésta no cambie con la intervención de la autoridad.
-
-Son medidas restitutorias aquellas tendientes a devolver una situación al estado en que se encontraban antes de la intervención de la autoridad.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+Las autoridades competentes promoverán la incorporación de contenidos culturales universales y, en particular, los de la entidad, en los diversos ciclos educativos, especialmente en el nivel básico. Asimismo fomentarán la realización de acciones de cultura en todo el Estado, a fin de cumplir la cobertura de la educación cultural a todos sus habitantes, y proporcionarán el fortalecimiento de la misma, a través de los medios a su alcance.
 
 ###### Artículo 55 Bis.
 
@@ -1039,65 +847,41 @@ Del trámite de la queja.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### Artículo 56.
+###### ARTÍCULO 56.
 
-El quejoso, o en su caso la Comisión, integrará la queja con los siguientes datos:
+El Ejecutivo del Estado y los municipios, fomentarán investigaciones y promoverán programas para el desarrollo de procedimientos que permitan preservar, promover y difundir la cultura en sus distintas manifestaciones. Para ello, se podrán celebrar convenios con instituciones de los sectores social y privado, investigadores y especialistas de la materia.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 57.
 
-I. El nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio, número telefónico en su caso, y firma de la persona que la promueva. En el caso de no saber firmar, estampará su huella digital y otra persona lo hará a su ruego;
+El uso de los espacios públicos destinados a la cultura, que sean propiedad del Gobierno del Estado o de sus municipios, se ajustarán a los siguientes criterios:
 
-II. De ser posible, una breve relación de los hechos motivo de la queja, especificando circunstancias de tiempo, modo y lugar;
+I. Los espacios deben tener definido su uso, destino y categoría de las actividades artísticas que allí se presenten. Se procurará destinarlos al uso exclusivo de estas actividades y, por excepción a otros quehaceres;
 
-III. El nombre y cargo del servidor o servidores públicos que intervinieron o, en caso de no conocerlos, los datos mínimos que lleven a su identificación, así como el nombre de la dependencia o institución a la que se encuentren adscritos. En el supuesto de que los quejosos o denunciantes no puedan identificar a las autoridades o servidores públicos cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, si procede, bajo la condición de que se logre dicha identificación en la investigación posterior de los hechos; y
+II. Las manifestaciones y actividades artísticas del Estado y sus regiones, tendrán uso preferente de los espacios públicos destinados a la cultura; y
 
-IV. Las pruebas que estén a su disposición, tendientes a comprobar las imputaciones vertidas en contra de los servidores públicos.
+III. El uso de los espacios culturales para la realización de actividades artísticas será sin cargo alguno por concepto de renta, de acuerdo a la disposición presupuestal, con excepción de aquellos que tengan finalidades de lucro. Asimismo se deberá garantizar que los creadores se beneficien de los espacios al menor costo posible de operación; al efecto, el Instituto deberá fijar y publicar anualmente una lista de costos por la prestación de los servicios de los espacios públicos destinados a la cultura, de conformidad con la Ley de Ingresos vigente y el Reglamento de la presente ley.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 58.
 
-Cuando la queja sea presentada por una persona distinta al directamente agraviado, se deberá indicar cuando menos el nombre y demás datos que se tengan, de este último, los que se complementarán una vez que se lleve a cabo la ratificación de la inconformidad.
+El Gobierno del Estado y sus municipios deberán reglamentar, en el ámbito de su competencia, el uso de los espacios para el desarrollo de las actividades culturales y artísticas. En dicho Reglamento se establecerán los procedimientos, términos y condiciones en los que se autorice su uso.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+###### ARTÍCULO 59.
 
-###### Artículo 57.
+1. El Gobierno del Estado, a través del Instituto organizará por sí mismo, con el Gobierno Federal, con los Ayuntamientos, o con centros y organizaciones culturales, festivales culturales que contribuyan al acrecentamiento y difusión de las culturas tamaulipeca, nacional e internacional.
 
-Cuando se considere que la queja es inadmisible por ser manifiestamente improcedente, el Director de Quejas, Orientación y Seguimiento deberá rechazarla mediante acuerdo fundado y motivado, dentro de un plazo máximo de cinco días hábiles, lo cual se notificará al quejoso. No se admitirán en ningún caso y bajo ninguna circunstancia, quejas anónimas.
+2. Los Ayuntamientos promoverán ante el Instituto el registro de las ferias y festivales regionales o municipales de carácter predominantemente cultural, a efecto de que se incluyan en el calendario respectivo. En estas acciones el Instituto deberá buscar siempre la colaboración interinstitucional para el mejor desempeño de la actividad propuesta.
 
-> <small>(F. DE E., P.O. 8 DE ABRIL DE 2003)</small>
+###### ARTÍCULO 60.
 
-Las quejas presentadas en la Comisión cuyo conocimiento competa a otra Comisión Estatal o a la Comisión Nacional, por razón del territorio, materia o servidores públicos involucrados, serán enviadas mediante oficio al organismo que corresponda, dentro de un plazo máximo de diez días, a partir del cual se notificará de ello a los quejosos.
-
-###### Artículo 58.
-
-La Comisión registrará las quejas que se presenten y extenderá acuse de recibo de las mismas.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 59.
-
-Si de la presentación de la queja no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que haga las aclaraciones pertinentes. Si después de este requerimiento, el quejoso no contesta en un término de cinco días naturales, se enviará al archivo por falta de interés. No obstante, en cualquier momento, teniéndose los datos necesarios, se continuará con el trámite respectivo.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-###### Artículo 60.
-
-Una vez admitida la queja, la Comisión deberá hacerla del conocimiento de las autoridades o servidores públicos señalados como presuntos responsables, utilizando en caso de urgencia, cualquier medio de comunicación, solicitándoles un informe específico sobre los actos u omisiones que se les atribuyen. Para tal efecto, se les remitirá copia de la queja y del acuerdo admisorio, omitiendo los datos del domicilio del particular, de su trabajo, número telefónico o cualquier dato que permita localizarlo.
-
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+El Gobierno del Estado, a través del Instituto, organizará e impulsará la realización de ferias, muestras y otras actividades en las que se conserven las tradiciones y se manifieste la cultura.
 
 ### Capítulo IV
 
 De los informes de las autoridades o servidores públicos.
 
-###### Artículo 61.
+###### ARTÍCULO 61.
 
-El informe de las autoridades o servidores públicos deberá rendirse dentro de un plazo de quince días naturales, contados a partir de la fecha en que se reciba el requerimiento y, en el cual, se consignarán los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones, así como los elementos de información que se consideren necesarios para la documentación del asunto.
-
-En el caso de privación ilegal de la libertad o peligro inminente de la integridad corporal, el informe deberá rendirse en un plazo que no deberá exceder de doce horas, el cual se podrá realizar en forma verbal de inmediato y, posteriormente, por escrito, sin que exceda del término de veinticuatro horas.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
-A la falta del informe que deben rendir las autoridades, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva en que incurran, se tendrán por ciertos los hechos motivo de la queja, en el momento de la resolución, salvo que exista prueba en contrario recabada durante el procedimiento.
+El Gobierno del Estado, a través del Instituto, diseñará la calendarización y operación de festivales que promuevan la cultura y las artes dentro del Estado por medio de presentaciones, muestras gastronómicas, exposiciones, ferias de cultura, ciclos cinematográficos y, en general, cualquier acto realizado para este fin.
 
 ###### Artículo 62.
 
@@ -1375,154 +1159,68 @@ En el caso de la fracción II de este artículo, la Comisión deberá informar d
 
 ## TRANSITORIOS
 
-Artículo Primero. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+###### ARTÍCULO PRIMERO.
 
-Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Tercero. El Consejo General tendrá un plazo de tres meses para la modificación de su reglamento interior, que comenzará a correr a partir del día en que entre en vigor el presente decreto.
+###### ARTÍCULO SEGUNDO.
 
-Artículo Cuarto. Para efectos de los artículos 46 y 47 de esta ley, los trabajadores podrán ser recontratados por la Comisión., (sic) más deberá quedar garantizada la antigüedad y demás derechos laborales adquiridos, en los términos de la Ley de Servidores Públicos del Estado y sus Municipios.
+El Reglamento de la presente ley, deberá de ser expedido a los noventa días posteriores de la entrada en vigor de la misma.
 
-Salón de Sesiones del Congreso del Estado
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 30 de agosto del año 2011.-DIPUTADO PRESIDENTE.-JOSÉ LUIS HERNÁNDEZ CASTRELLÓN.-Rúbrica.-DIPUTADA SECRETARIA.-AMELIA ALEJANDRINA VITALES RODRÍGUEZ.-Rúbrica.-DIPUTADO SECRETARIO.-­ JOSÉ RAMÓN GÓMEZ LEAL.- Rúbrica."
 
-Guadalajara, Jalisco, 23 de diciembre de 1997.
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Diputado Presidente
+Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los treinta y un días del mes de agosto del año dos mil once.
 
-Raúl Eduardo Vargas de la Torre
-
-Diputado Secretario
-
-Fco. Javier Mora Hinojosa
-
-Diputado Secretario
-
-Leonel Sandoval Figueroa
-
-En mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.
-
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los doce días del mes de enero de mil novecientos noventa y ocho.
-
-El Gobernador Constitucional del Estado
-
-Ing. Alberto Cárdenas Jiménez
-
-El Secretario General de Gobierno
-
-Lic. Raúl Octavio Espinoza Martínez
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.-EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.­- MORELOS CANSECO GÓMEZ.-Rúbrica.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 24 DE JUNIO DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 13 DE FEBRERO DE 2001.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- En tanto no se lleve a cabo la reforma constitucional para el nombramiento del Presidente de la Comisión Estatal de Derechos Humanos y de los consejeros ciudadanos, se aplicará el procedimiento anterior, debiendo entrar en vigor el procedimiento contenido en el presente decreto al día siguiente de su iniciación de la vigencia de la reforma constitucional.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2005)</small>
-
-El nombramiento de los Consejeros Ciudadanos en funciones designados con anterioridad a la publicación de este decreto, se entenderá ampliado por el mismo término de cinco años.
-
-TERCERO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
-
-P.O. 26 DE AGOSTO DE 2004.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
-
-P.O. 14 DE ABRIL DE 2005.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. Una vez publicado el presente decreto, notifíquese a los integrantes del Consejo Ciudadano de la Comisión Estatal de Derechos Humanos para su debido cumplimiento.
-
-P.O. 22 DE NOVIEMBRE DE 2005.
-
-ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 15 DE AGOSTO DE 2006.
-
-PRIMERO. El presente decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. Las autoridades del Ministerio Público, Reclusorios y Sedes Judiciales, deberán exhibir en los recintos de detención los derechos que establece la Constitución Política de los Estados Unidos Mexicanos y en los tratados, acuerdos y convenciones internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte para los detenidos o procesados, dentro del plazo de la publicación del presente decreto y su entrada en vigor.
-
-P.O. 25 DE NOVIEMBRE DE 2006.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 31 DE DICIEMBRE DE 2009.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
-
-P.O. 18 DE SEPTIEMBRE DE 2010.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 20 DE NOVIEMBRE DE 2012.
-
-ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 1 DE JUNIO DE 2013.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor 30 días después al de su publicación en el Periódico Oficial del Estado
-
-###### ARTICULO SEGUNDO.
-
-Se abroga el Decreto Número 7, de fecha 19 de enero de 1986, expedido por la Cuadragésima Sexta Legislatura del Estado mediante el cual se instituyó la Medalla "Pedro J. Méndez"
-
-###### ARTICULO UNICO.
-
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 6 DE SEPTIEMBRE DE 2006.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 6 DE ABRIL DE 2011.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-383 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+P.O. 3 DE ABRIL DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 22 DE NOVIEMBRE DE 2011.
+P.O. 24 DE JUNIO DE 2020.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-444 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 64, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, Y 74 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-109 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, FRACCIONES VIII Y IX, Y 10, PÁRRAFO 2, FRACCIÓN XIII; Y SE ADICIONAN LAS FRACCIONES X AL ARTÍCULO 7, Y XIV DEL PÁRRAFO 2 AL ARTÍCULO 10, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XIV PARA SER XV, DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-780 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 27 DE FEBRERO DE 2018.
+P.O. 4 DE FEBRERO DE 2025.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-518 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; LA LEY DEL FOMENTO Y USO DE LA BICICLETA EN EL ESTADO DE TAMAULIPAS; LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE OCTUBRE DE 2018.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-86 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 18; Y SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 18, ASÍ COMO UN CAPÍTULO XVIII DENOMINADO "PREMIO ESTATAL DE LA INNOVACIÓN, LA CIENCIA Y LA TECNOLOGÍA" COMPRENDIDO POR EL ARTÍCULO 89 QUÁTER, A LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL “NO. 66-234 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 49 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 14 DE ABRIL DE 2020.
+P.O. 19 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-345 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1379 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-122 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 81 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 51 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
