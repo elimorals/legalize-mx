@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2014-02-27"
+last_updated: "2015-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VICTIMAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -779,9 +779,33 @@ VIII. Establecer lineamientos para el desahogo de procedimientos de atención a 
 
 IX. Expedir sus reglas de organización y funcionamiento;
 
-X. Promover la uniformidad de criterios jurídicos, y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
 
-XI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
+X. Promover la uniformidad de criterios jurídicos;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+XI. Analizar la correcta aplicación del Protocolo de Estambul en los casos de tortura;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+XII. Publicar un informe anual sobre los casos de tortura y su tratamiento;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+XIII. Verificar que las autoridades que conozcan de los casos de tortura, presenten las denuncias correspondientes y vigilar el correcto seguimiento de éstas;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+XIV. Proponer la capacitación continua del personal responsable de aplicar el Protocolo de Estambul;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+XV. Visitar e ingresar a todas las instituciones públicas en los (sic) que se encuentren personas privadas de libertad y emitir recomendaciones para la prevención de la tortura y otros tratos o penas crueles; y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+XVI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 ### Capítulo II. Integración del Sistema Estatal de Atención a Víctimas
 
@@ -1590,3 +1614,27 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ABRIL DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco” en los municipios a que se refieren las fracciones I y II del Decreto número 24864/LX/14.
+
+SEGUNDO. Posteriormente entrará en vigor de conformidad a las fechas establecidas en el mencionado Decreto número 24864/LX/14.
+
+TERCERO. Se abroga la Ley Estatal para Prevenir y Sancionar la Tortura en los términos de los artículos transitorios primero y segundo del presente Decreto.
+
+CUARTO. Los procesos iniciados durante la vigencia de la Ley Estatal para Prevenir y Sancionar la Tortura deberán tramitarse bajo las reglas vigentes a su inicio, observando lo dispuesto en el Protocolo de Estambul, hasta que se dicte sentencia que cause ejecutoria. En todo lo que no afecte a los derechos procesales del imputado, particularmente en lo tocante a los derechos de las víctimas, se estará a lo dispuesto en la norma que más proteja a la persona.
+
+QUINTO. Hasta en tanto no entre en vigor el presente decreto en términos del artículo segundo transitorio, en los procesos de investigación de tortura, se deberán observar las siguientes reglas:
+
+Ninguna confesión o información obtenida mediante tortura u otros tratos crueles, inhumanos o degradantes tendrá valor probatorio, ni podrá utilizarse como prueba en contra de la víctima de esas conductas; pero si podrá utilizarse en los procedimientos que se sigan en contra de una persona acusada de tortura u otros tratos crueles, inhumanos o degradantes como prueba de que bajo esos procedimientos se obtuvo esa confesión o declaración.
+
+La confesión o declaración rendida ante una autoridad distinta de la judicial, no tendrá valor probatorio alguno si no fue ante la presencia del defensor o de persona de confianza del imputado y en su caso de intérprete o traductor, o si no es ratificada ante la autoridad judicial.
+
+SEXTO. Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+SÉPTIMO. La Fiscalía General del Estado deberá adoptar y publicar protocolos de investigación de la tortura y uso legítimo de la fuerza conformes a lo dispuesto en esta ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
+
+OCTAVO. La Fiscalía General del Estado y los cuerpos de seguridad pública municipales deberán capacitar a su personal investigador, peritos y agentes conforme a lo dispuesto en esta Ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
