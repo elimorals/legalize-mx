@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2015-04-21"
+last_updated: "2015-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ABRIL DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -657,7 +655,9 @@ Cuando el reconocimiento de hijo se haga en un testamento, surtirá efectos de i
 
 Para acreditar la posesión de estado civil se deberá atender, el trato y comportamiento en el seno de la familia respectiva, la fama que sobre el particular tenga la persona en sus relaciones sociales y de familia así mismo se deberá tomar en consideración el nombre propio que utilice quien posea un estado civil.
 
-## TITULO SEGUNDO. De los ausentes e ignorados
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2015)</small>
+
+## TITULO SEGUNDO. De los ausentes y desaparecidos, e Ignorados
 
 ### CAPITULO I. Disposiciones generales
 
@@ -681,9 +681,11 @@ El Agente de la Procuraduría Social velará por los intereses del ausente y ser
 
 ### CAPITULO II. De las medidas provisionales en caso de ausencia
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### Art. 91.
 
-Cuando una persona haya desaparecido y se ignore quien la represente; el juez, a petición de parte o de oficio, nombrará un representante provisional y depositario de sus bienes, la citará por edictos publicados en un periódico de amplia circulación de su último domicilio, señalándole para que se presente en un término no menor de tres meses, ni mayor de seis; además dispondrá su búsqueda por medio de la policía en aquellos lugares en donde se presuma se encuentre y dictará las providencias necesarias para asegurar los bienes.
+Cuando una persona haya desaparecido y se ignore quién la represente, el juez, a petición de parte o de oficio, nombrará un representante y depositario de sus bienes, la citará por edicto publicado por una vez en un periódico de amplia circulación en el estado de su último domicilio, señalándole para que se presente en un término no menor de treinta días ni mayor de sesenta días; además dispondrá su búsqueda por medio de la policía en aquellos lugares donde se presuma se encuentre y dictará las providencias necesarias para asegurar los bienes.
 
 ###### Art. 92.
 
@@ -697,9 +699,11 @@ Si el ausente tiene hijos menores que estén bajo su patria potestad, y no hay a
 
 Las obligaciones y facultades del depositario serán las que la ley asigna a los depositarios judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### Art. 95.
 
-Se nombrará representante provisional y depositario, en orden de preferencia:
+Se nombrará representante y depositario, en orden de preferencia.
 
 I. Al cónyuge presente mayor de edad, no separado legalmente o de hecho antes de la desaparición;
 
@@ -723,7 +727,7 @@ Tiene acción para pedir el nombramiento de representante y depositario, quien p
 
 ###### Art. 99.
 
-En el nombramiento de representante definitivo se seguirá el mismo orden establecido para el nombramiento de depositario definitivo.
+(DEROGADO, P.O. 25 DE ABRIL DE 2015)
 
 ###### Art. 100.
 
@@ -765,35 +769,39 @@ IV. Con la posesión provisional.
 
 ###### Art. 107.
 
-Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante y el tiempo que falte para realizar la declaratoria de ausencia.
+(DEROGADO, P.O. 25 DE ABRIL DE 2015)
 
 ###### Art. 108.
 
-Los edictos se publicarán por dos veces, con intervalo de quince días, en un periódico de amplia circulación en el Estado y en el último domicilio del ausente y en su caso se remitirán a los consulados respectivos.
+(DEROGADO, P.O. 25 DE ABRIL DE 2015)
 
 ###### Art. 109.
 
-El representante provisional está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación, hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa de remoción.
+(DEROGADO, P.O. 25 DE ABRIL DE 2015)
 
 ### CAPITULO III. De la declaración de ausencia
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### Art. 110.
 
-Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+Pasando tres meses desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### Art. 111.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados seis meses, que se contarán desde la desaparición del ausente, si en este periodo no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
 
 ###### Art. 112.
 
 Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### Art. 113.
 
-Pasado un año desde que hubiere desaparecido el ausente, el Agente de la Procuraduría Social y quien tenga facultades para pedir la declaración de ausencia, pueden solicitar que el apoderado garantice su gestión de la misma manera que deba hacerlo el representante.
+Pasado dos meses desde que hubiere desaparecido el ausente, el Agente de la Procuraduría Social y quien tenga facultades para pedir la declaración de ausencia, puede solicitar que el apoderado garantice su gestión de la misma manera que deba hacerlo el representante.
 
 ###### Art. 114.
 
@@ -811,23 +819,29 @@ II. Los herederos instituidos en testamento público abierto;
 
 III. El Agente de la Procuraduría Social.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### Art. 116.
 
-Si el juez encuentra fundada la demanda, dispondrá que se publique un extracto de la misma dos veces, con intervalos de quince días, en el Periódico Oficial que corresponda y en uno de los principales del último domicilio del ausente; y en su caso la remitirá a los consulados.
+Si el juez encuentra fundada la demanda, dispondrá que se publique un extracto de la misma una vez, en el Periódico Oficial que corresponda y en uno de los principales del último domicilio del ausente; y en su caso de considerarlo pertinente la remitirá a los consulados.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### Art. 117.
 
-Pasados dos meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
+Pasados quince días desde la fecha de la publicación a que se refiere el artículo anterior, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### Art. 118.
 
-Si hubiere alguna noticia u oposición, el juez no declarará la ausencia sin repetir las publicaciones que se establecen en el artículo 108 de este código y hacer la averiguación por los medios que el oponente proponga y por los que el mismo juez crea oportunos.
+Si hubiere alguna noticia u oposición, el juez no declarará la ausencia sin que previamente se publique el edicto por una vez más y se haga la averiguación por los medios que el oponente proponga y por los que el mismo juez crea oportunos.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### Art. 119.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados, con intervalos de quince días, remitiéndose en su caso a los cónsules como está señalado respecto de los edictos.
-
-Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+La declaración de ausencia se publicará dos veces en los periódicos mencionados, con intervalos de siete días, remitiéndose en su caso a los cónsules como esta señalado respecto a los edictos.
 
 ###### Art. 120.
 
@@ -883,9 +897,11 @@ Los presuntos legatarios y donatarios así como todos los que tengan sobre los b
 
 Los que tengan, con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma garantía.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### Art. 133.
 
-Si no pudiere darse la garantía exigida en los cinco artículos anteriores, el juez, según las circunstancias de la persona y de los bienes y concediendo el plazo de tres meses, podrá disminuir el importe de aquélla, de tal manera que no sea menor a la tercera parte de los valores de la garantía que deben otorgar los tutores para el desempeño del cargo.
+Si no pudiere darse la garantía exigida en los cinco artículos anteriores, el juez, según las circunstancias de la persona y de los bienes y concediendo el plazo de quince días, podrá disminuir el importe de aquélla, de tal manera que no sea menor a la tercera parte de los valores de la garantía que deben otorgar los tutores para el desempeño del cargo.
 
 ###### Art. 134.
 
@@ -905,7 +921,9 @@ Si hubiere presuntos legatarios, el cónyuge, los descendientes y ascendientes d
 
 Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente, éste entregará los bienes y dará las cuentas en los términos aquí prevenidos para los tutores y curadores.
 
-El plazo para rendir cuentas será de tres meses y se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+El plazo para rendir cuentas será de treinta días y se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -949,17 +967,23 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ### CAPITULO VI. De la presunción de muerte del ausente
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### Art. 146.
 
-Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido seis meses desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+Cuando la desaparición sea consecuencia de incendio, explosión, inundación, terremoto o catástrofe aérea, ferroviaria o de automotores u otro siniestro semejante y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, o a bordo de las naves y vehículos accidentados, bastará el transcurso de tres meses contados a partir del acontecimiento para que el juez declare la presunción de muerte. En estos casos la autoridad judicial acordará la publicación de la solicitud de declaración de presunción de muerte en un periódico de amplia circulación en el Estado, por dos veces con un intervalo de siete días.
 
-Cuando la desaparición sea consecuencia de incendio, explosión, inundación, terremoto o catástrofe aérea, ferroviaria o de automotores u otro siniestro semejante o se trate de la víctima en el delito de secuestro y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, o a bordo de las naves y vehículos accidentados, bastará el transcurso de tres meses contados a partir del acontecimiento para que el juez declare la presunción de muerte. En estos casos la autoridad judicial acordará la publicación de la solicitud de declaración de presunción de muerte en un periódico de amplia circulación en el Estado, por dos veces con un intervalo de quince días.
+También serán aplicables cuando la ausencia sea consecuencia de un hecho relacionado con la privación ilegal de la libertad, secuestro o desaparición forzada de personas, en esos casos el término para decretar la presunción de muerte será de tres meses a partir de que se haya denunciado ante la autoridad competente el acto ilícito correspondiente y no exista ningún indicio de que pudiera seguir con vida. El Ministerio Público informará de inmediato al juez que conozca el asunto de cualquier dato o hecho que pudiera considerarse indicio de que la persona privada ilegalmente de su libertad continua con vida, lo cual interrumpirá el plazo especial señalado.
 
 ###### Art. 147.
 
 Declarada la presunción de muerte, si lo hubiere se abrirá el testamento del ausente, en el caso de que no estuviere ya publicado; los poseedores provisionales darán cuenta de su administración, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que según la ley se hubiere dado, quedará cancelada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2015)</small>
+
+De igual forma los herederos y beneficiarios tendrán todas las acciones para declarar los beneficios a que tengan derecho.
 
 ###### Art. 148.
 
@@ -18742,3 +18766,9 @@ P.O. 4 DE ABRIL DE 2015.
 PRIMERO. El presente decreto entrará (sic) vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los matrimonios celebrados por personas menores de edad con antelación a la entrada en vigor del presente decreto serán validos de pleno derecho.
+
+P.O. 25 DE ABRIL DE 2015.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los juicios iniciados al amparo de las disposiciones reformadas, se ajustarán a los plazos de la nueva ley pues su aplicación será retroactiva a solicitud del interesado.
