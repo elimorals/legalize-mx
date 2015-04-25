@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2014-12-23"
+last_updated: "2015-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -107,7 +107,11 @@ VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
 IX. La educación para la salud;
 
-X. La orientación y vigilancia en materia de nutrición;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+X. La prevención, orientación, control y vigilancia en materia de nutrición.
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -397,13 +401,23 @@ V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que 
 
 VI. Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Propiciar el desarrollo de las comunidades indígenas a partir de la instrumentación de políticas públicas tendientes a mejorar sus condiciones sanitarias, nutrición y atención médica; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
+VII. Propiciar el desarrollo de las comunidades indígenas a partir de la instrumentación de políticas públicas tendientes a mejorar sus condiciones sanitarias, nutrición y atención médica;
 
-VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+IX. Propiciar, promover, coordinar y supervisar la participación de los sectores privado, público y social en el diseño, ejecución y evaluación del Programa del Estado de Jalisco para prevenir y combatir la obesidad, sobrepeso y trastornos en la conducta alimenticia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -563,7 +577,11 @@ VI. La salud mental;
 
 VII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-VIII. La promoción del mejoramiento de la nutrición;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+VIII. La promoción de una cultura de vida saludable a través de hábitos alimenticios nutricionales;
 
 IX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
@@ -595,7 +613,11 @@ La promoción de la salud comprende:
 
 I. La educación para la salud;
 
-II. La nutrición;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+II. La nutrición y el combate a la obesidad, sobrepeso y trastornos de la conducta alimenticia;
 
 III. Los efectos del ambiente en la salud, y
 
@@ -613,9 +635,11 @@ I. Proporcionar a la población los conocimientos sobre las causas de las enferm
 
 II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+III. Orientar y capacitar a la población, preferentemente, en materia de nutrición y combate a la obesidad, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
@@ -645,17 +669,21 @@ Cubiertas las necesidades de recreación de los internos, se podrán establecer 
 
 El cumplimiento de las obligaciones a (sic) que se señalan en este artículo estará condicionado a la disponibilidad de espacios adecuados y recursos presupuestales y financieros con que cuenten las instituciones de que se trate.
 
-#### SECCION TERCERA. De la nutrición
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2015)</small>
+
+#### SECCION TERCERA. De la nutrición y el combate de la obesidad, sobrepeso y trastornos de la conducta alimenticia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### Art. 28.
 
-El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, elaborará y desarrollará programas de nutrición estatales, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, elaborará y desarrollará programas de nutrición estatales para la prevención y combate a la obesidad, sobrepeso y trastornos de la conducta alimenticia, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2006)</small>
-
-De igual forma impulsará acciones encaminadas al combate a los trastornos alimenticios que se presentan entre los jóvenes y niños del estado de Jalisco, apoyando el diseño de programas y proyectos educativos en la materia.
+De igual forma impulsará acciones encaminadas al combate a los trastornos de la conducta alimenticia que se presenten entre los jóvenes y niños del Estado de Jalisco, apoyando el diseño de programas y proyectos educativos en la materia.
 
 ###### Art. 29.
 
@@ -4320,3 +4348,13 @@ P.O. 20 DE DICIEMBRE DE 2014.
 P.O. 23 DE DICIEMBRE DE 2014.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE ABRIL DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor 30 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Consejo deberá ser instalado a más tardar 60 días después de la entrada en vigor del presente Decreto.
+
+TERCERO. El Consejo contará con un plazo de 90 días contados a partir de su instalación, para aprobar su reglamento interno.
+
+CUARTO. Las acciones para el combate a la obesidad, el sobrepeso y los trastornos de la conducta alimenticia a que se refiere el artículo 5 fracción II de la ley que se expide a través del presente decreto, se ejecutarán de conformidad con los recursos aprobados en el Presupuesto de Egresos del ejercido fiscal que corresponda.
