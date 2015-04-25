@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-colegio-de-estudios-cientificos-y-tecnologicos-del-1236
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-21"
-last_updated: "2001-03-13"
+last_updated: "2015-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE JALISCO
 
-LEY DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE JALISCO
+LEY DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 21 de junio de 1997.
 
@@ -273,8 +275,42 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
 
 P.O. 13 DE MARZO DE 2001.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE ABRIL DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el decreto número 16584, mediante el cual se creó el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, publicado en el Periódico Oficial "El Estado de Jalisco" el 21 de junio de 1997, y sus reformas.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO. A la fecha de entrada en vigor del presente Decreto, el Organismo Público Descentralizado denominado Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco se subrogará en todas las obligaciones que hubiere contraído el mismo organismo de conformidad con la ley que se abroga, subsistiendo las condiciones, recursos humanos, materiales y financieros existentes a la fecha.
+
+QUINTO. En tanto se tienen debidamente implementados y en operación los concursos y los procesos de evaluación que defina el Instituto Nacional para la Evaluación de la Educación, se estará a lo previsto en las disposiciones aplicables hasta antes del 12 de septiembre de 2013, fecha en que entra en vigor la Ley General del Servicio Profesional Docente, sin perjuicio de que la Autoridad Educativa y el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, en el ámbito de sus respectivas competencias, realicen todas las acciones que determinen como necesarias para el cumplimiento de los propósitos del Servicio Profesional Docente.
+
+En caso de que se hayan iniciado en el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco procedimientos de promoción y escalafonarios antes del 12 de septiembre de 2013, y se encuentren pendientes de resolución, se desahogarán conforme a la normatividad que les era aplicable.
+
+SEXTO. El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, se ajustará a los procesos de evaluación y actividades de regularización a que se refiere la Ley General del Servicio Profesional Docente y lo correlativo de la Ley de Educación del Estado de Jalisco. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco, no será separado del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco y será readscrito para continuar en otras tareas dentro de dicho organismo, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a las evaluaciones o no se incorpore a los programas de regularización del artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco, será separado del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco sin responsabilidad para éste.
+
+SÉPTIMO. El Personal Docente y el Personal con Funciones de Dirección o de Supervisión en el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco que a la entrada en vigor de la Ley General del Servicio Profesional Docente tenga Nombramiento Provisional, continuará en la función que desempeña y será sujeto de la evaluación contenida en el artículo 52 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley.
+
+Será separado del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco sin responsabilidad para éste, el personal que:
+
+I. Se niegue a participar en los procesos de evaluación;
+
+II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo proceso de evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco; o
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco.
+
+OCTAVO. La Junta Directiva propondrá para su aprobación y posterior publicación, al titular del Poder Ejecutivo del Estado, el Reglamento Interno del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco dentro de un plazo máximo de seis meses, contados a partir de la fecha en que entre en vigor el presente ordenamiento.
+
+NOVENO. La Junta Directiva cuenta con un periodo máximo de seis meses para adecuar a la presente Ley el marco normativo interno del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, contados a partir de la fecha en que entre en vigor el presente ordenamiento.
+
+DÉCIMO. Serán respetados los derechos laborales adquiridos con anterioridad a la entrada en vigor del presente decreto de los trabajadores del organismo.
