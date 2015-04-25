@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-prevenir-y-sancionar-la-tortura-12300"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "1993-12-21"
+last_updated: "2015-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ESTATAL PARA PREVENIR Y SANCIONAR LA TORTURA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA PREVENIR, SANCIONAR, ERRADICAR Y REPARAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES E INHUMANOS O DEGRADANTES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 21 de diciembre de 1993.
 
@@ -154,3 +156,27 @@ Lic. Carlos Rivera Aceves.
 El Secretario General de Gobierno.
 
 Lic. José Luis Leal Sanabria.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ABRIL DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco" en los municipios a que se refieren las fracciones I y II del Decreto numero 24864/LX/14.
+
+SEGUNDO. Posteriormente entrará en vigor de conformidad a las fechas establecidas en el mencionado Decreto numero 24864/LX/14.
+
+TERCERO. Se abroga la Ley Estatal para Prevenir y Sancionar la Tortura en los términos de los artículos transitorios primero y segundo del presente Decreto.
+
+CUARTO. Los procesos iniciados durante la vigencia de la Ley Estatal para Prevenir y Sancionar la Tortura deberán tramitarse bajo las reglas vigentes a su inicio, observando lo dispuesto en el Protocolo de Estambul, hasta que se dicte sentencia que cause ejecutoria. En todo lo que no afecte a los derechos procesales del imputado, particularmente en lo tocante a los derechos de las víctimas, se estará a lo dispuesto en la norma que mas proteja a la persona.
+
+QUINTO. Hasta en tanto no entre en vigor el presente decreto en términos del artículo segundo transitorio, en los procesos de investigación de tortura, se deberán observar las siguientes reglas:
+
+Ninguna confesión o información obtenida mediante tortura u otros tratos crueles, inhumanos o degradantes tendrá valor probatorio, ni podrá utilizarse como prueba en contra de la victima de esas conductas; pero si podrá utilizarse en los procedimientos que se sigan en contra de una persona acusada de tortura u otros tratos crueles, inhumanos o degradantes como prueba de que bajo esos procedimientos se obtuvo esa confesión o declaración.
+
+La confesión o declaración rendida ante una autoridad distinta de la judicial, no tendrá valor probatorio alguno si no fue ante la presencia del defensor o de persona de confianza del imputado y en su caso de intérprete o traductor, o si no es ratificada ante la autoridad judicial.
+
+SEXTO. Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+SÉPTIMO. La Fiscalía General del Estado deberá adoptar y publicar protocolos de investigación de la tortura y uso legitimo de la fuerza conformes a lo dispuesto en esta ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
+
+OCTAVO. La Fiscalía General del Estado y los cuerpos de seguridad pública municipales deberán capacitar a su personal investigador, peritos y agentes conforme a lo dispuesto en esta Ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
