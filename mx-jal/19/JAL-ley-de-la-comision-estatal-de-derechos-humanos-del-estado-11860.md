@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2013-06-01"
+last_updated: "2015-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -59,7 +59,7 @@ Para los efectos de la presente ley, se consideran derechos humanos:
 
 I. Aquellos que se encuentren reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Jalisco, así como las leyes secundarias y reglamentos que de ellas emanen;
 
-II. Los contenidos en la Declaración Universal de los Derechos Humanos; y (sic)
+II. Los contenidos en la Declaración Universal de los Derechos Humanos; y
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -141,7 +141,9 @@ I. Investigar, estudiar, analizar y determinar la existencia de violación a los
 
 II. Admitir o desechar en su caso, las quejas que le presente cualquier persona respecto de presuntas violaciones a los derechos humanos causadas por actos u omisiones de servidores públicos, autoridades estatales o municipales, o bien iniciarlas de oficio;
 
-III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2015)</small>
+
+III. Visitar e ingresar a todas las instituciones públicas en los que se encuentren personas privadas de libertad y emitir recomendaciones para la prevención de la tortura y otros tratos o penas crueles;
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -215,7 +217,7 @@ c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados 
 
 d) Los recintos de detención, oficinas del Ministerio Público, reclusorios y sedes judiciales, para verificar que las autoridades informen y garanticen los derechos humanos a las personas que se encuentren detenidos o procesados.
 
-XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y (sic)
+XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y
 
 > <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -535,7 +537,7 @@ V. No haber sido condenado por delito doloso, ni haber resultado responsable por
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-VI. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco, y (sic)
+VI. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco, y
 
 > <small>(REFORMADA P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -683,7 +685,7 @@ III. Formular los anteproyectos de propuestas y consideraciones a las leyes y re
 
 IV. Elaborar los informes anuales y mensuales, así como de los especiales que envíe la Comisión a las dependencias de gobierno y los que se rindan al Consejo Ciudadano;
 
-V. Promover y mantener la biblioteca y el acervo documental de la Comisión; y (sic)
+V. Promover y mantener la biblioteca y el acervo documental de la Comisión; y
 
 VI. Coordinar y ejecutar los programas y acciones que le sean encomendados por el Presidente;
 
@@ -1470,3 +1472,25 @@ P.O. 20 DE NOVIEMBRE DE 2012.
 P.O. 1 DE JUNIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE ABRIL DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco” en los municipios a que se refieren las fracciones I y II del Decreto número 24864/LX/14.
+
+SEGUNDO. Posteriormente entrará en vigor de conformidad a las fechas establecidas en el mencionado Decreto número 24864/LX/14.
+
+TERCERO. Se abroga la Ley Estatal para Prevenir y Sancionar la Tortura en los términos de los artículos transitorios primero y segundo del presente Decreto.
+
+CUARTO. Los procesos iniciados durante la vigencia de la Ley Estatal para Prevenir y Sancionar la Tortura deberán tramitarse bajo las reglas vigentes a su inicio, observando lo dispuesto en el Protocolo de Estambul, hasta que se dicte sentencia que cause ejecutoria. En todo lo que no afecte a los derechos procesales del imputado, particularmente en lo tocante a los derechos de las víctimas, se estará a lo dispuesto en la norma que más proteja a la persona.
+
+QUINTO. Hasta en tanto no entre en vigor el presente decreto en términos del artículo segundo transitorio, en los procesos de investigación de tortura, se deberán observar las siguientes reglas:
+
+Ninguna confesión o información obtenida mediante tortura u otros tratos crueles, inhumanos o degradantes tendrá valor probatorio, ni podrá utilizarse como prueba en contra de la víctima de esas conductas; pero si podrá utilizarse en los procedimientos que se sigan en contra de una persona acusada de tortura u otros tratos crueles, inhumanos o degradantes como prueba de que bajo esos procedimientos se obtuvo esa confesión o declaración.
+
+La confesión o declaración rendida ante una autoridad distinta de la judicial, no tendrá valor probatorio alguno si no fue ante la presencia del defensor o de persona de confianza del imputado y en su caso de intérprete o traductor, o si no es ratificada ante la autoridad judicial.
+
+SEXTO. Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+SÉPTIMO. La Fiscalía General del Estado deberá adoptar y publicar protocolos de investigación de la tortura y uso legítimo de la fuerza conformes (sic) a lo dispuesto en esta ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
+
+OCTAVO. La Fiscalía General del Estado y los cuerpos de seguridad púbica (sic) municipales deberán capacitar a su personal investigador, peritos y agentes conforme a lo dispuesto en esta Ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
