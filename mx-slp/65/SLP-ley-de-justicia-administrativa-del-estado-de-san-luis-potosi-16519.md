@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2014-05-22"
+last_updated: "2015-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -51,17 +51,21 @@ Esta ley es de orden público e interés social y tiene por objeto regular la im
 
 La justicia administrativa en el Estado de San Luis Potosí se impartirá por un Tribunal de lo Contencioso Administrativo, con jurisdicción en todo el territorio estatal y con la competencia y organización que establece esta Ley. El tribunal residirá en la Capital del Estado y podrá contar con salas regionales.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 3o.
 
-El Tribunal de lo Contencioso Administrativo del Estado será competente para:
+El Tribunal de lo Contencioso Administrativo del Estado será competente para conocer y resolver de los siguientes asuntos:
 
-I. Dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado, y de los municipios; así como de los organismos públicos descentralizados, estatales y municipales, cuando dichos organismos actúen como autoridades;
+I. Las controversias de carácter administrativo y fiscal derivadas de actos o resoluciones definitivas, o que pongan fin a un procedimiento, suscitadas entre los particulares y las autoridades del Poder Ejecutivo Estatal, y de los municipios del Estado; así como de los organismos públicos descentralizados, estatales y municipales, cuando los mismos actúen como autoridades;
 
-II. Conocer de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables en materia de responsabilidad de los servidores públicos, y
+II. Las impugnaciones que se promueven en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí; la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí, y demás ordenamientos aplicables en materia de responsabilidad administrativa;
 
-III. Conocer de los procedimientos de responsabilidad patrimonial, cuando se trate de dependencias y organismos del Poder Ejecutivo y de los municipios del Estado, y demás atribuciones que éste y otros ordenamientos le confieran.
+III. Las resoluciones sobre indemnización en materia de responsabilidad patrimonial, emitidas por las dependencias, entidades y organismos descentralizados del Poder Ejecutivo Estatal, o de los municipios del Estado, o bien, el reclamo directo que sobre la misma promuevan los particulares en esa materia, y
+
+IV. Los demás que establezca esta Ley; aquéllos que le confieran otros ordenamientos; y los que le reconozca la Suprema Corte de Justicia de la Nación, a través de las resoluciones o tesis jurisprudenciales del Pleno, salas o tribunales colegiados.
 
 ###### ARTICULO 4o.
 
@@ -165,7 +169,25 @@ Para que pueda efectuar sesiones una Sala, será indispensable la presencia de s
 
 Cada Sala designará un Presidente, con excepción de la Primera, en cuyo caso se estará a lo dispuesto por el artículo 24 fracción I de esta Ley.
 
-El trámite de los asuntos corresponderá por turno a un Magistrado, en los términos que establezca el Reglamento Interior y las resoluciones se dictarán por la Sala.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+El trámite o instrucción de los asuntos se turnará de manera aleatoria y secreta a cada Magistrado, quien formulará los proyectos de resolución de los asuntos que reciba.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+Las resoluciones interlocutorias y definitivas se dictarán por la Sala Colegiada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+ARTICULO 17 BIS.- En la sustanciación de los asuntos que correspondan a los magistrados instructores, se cuidará que los juicios de su ponencia se tramiten con toda rapidez, dentro de los plazos y términos fijados por esta Ley.
+
+Los magistrados darán a los secretarios de su ponencia, los lineamientos pertinentes para elaborar los proyectos de resolución interlocutoria y definitiva; y una vez autorizados, los presentarán dentro del término de ley para discutirse en las sesiones de la Sala Colegiada.
 
 ###### ARTICULO 18.
 
@@ -187,9 +209,17 @@ V. Las demás atribuciones de carácter administrativo que establezca el Reglame
 
 Las Salas del Tribunal son competentes para conocer de los juicios que se promuevan en contra de:
 
-I. Los actos y resoluciones que las autoridades del Poder Ejecutivo Estatal y de los municipios, así como los organismos descentralizados, cuando éstos actúen como autoridades, dicten, ordenen, ejecuten o traten de ejecutar en agravio de los particulares;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Las resoluciones dictadas por las autoridades del Poder Ejecutivo Estatal, de los municipios y sus organismos descentralizados en que se determine una obligación fiscal, así como cualquier otra que cause un agravio de carácter fiscal;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+I. Los actos y resoluciones definitivas o que pongan fin a un procedimiento, que dicten, ordenen, ejecuten o traten de ejecutar en agravio de los particulares, las autoridades del Poder Ejecutivo Estatal o de los municipios del Estado, así como por sus respectivos organismos descentralizados cuando actúen como autoridades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+II. Las resoluciones definitivas o que pongan fin a un procedimiento, en que se determine una obligación fiscal y cualquier otra que cause un agravio de carácter fiscal, emitidas por las autoridades del Poder Ejecutivo Estatal o de los municipios del Estado, así como por sus respectivos organismos descentralizados cuando actúen como autoridades;
 
 III. Las resoluciones definitivas que en materia de responsabilidad administrativa dicten las autoridades del Poder Ejecutivo del Estado o de los municipios y de sus correspondientes organismos descentralizados;
 
@@ -199,9 +229,11 @@ V. La negativa ficta, configurándose ésta cuando las instancias o peticiones q
 
 VI. Las resoluciones administrativas y fiscales favorables a los particulares que impugnen las autoridades, por considerar que lesionan a la administración pública o al interés público;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Las resoluciones sobre indemnización que dicten las autoridades del Poder Ejecutivo del Estado, o de sus municipios; y organismos descentralizados, estatales o municipales, en aplicación de la Ley de Responsabilidad Patrimonial del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+VII. Las resoluciones que nieguen o concedan la indemnización prevista en la Ley de Responsabilidad Patrimonial del Estado y Municipios de San Luis Potosí, emitidas por las autoridades del Poder Ejecutivo Estatal, o de los municipios del Estado, así como por sus respectivos organismos descentralizados o, en su caso, conocerán y resolverán de la reclamación directa que sobre la misma promuevan los particulares en esta materia;
 
 VIII. El procedimiento administrativo de ejecución, cuando el afectado en dicho procedimiento opte por no interponer el recurso ordinario ante las autoridades competentes y cuando afirme:
 
@@ -213,9 +245,11 @@ c). Que es poseedor a título de propietario de bienes embargados para garantiza
 
 d). Que el procedimiento coactivo no se ajuste a la ley. En este caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX. Las resoluciones del Procurador General de Justicia del Estado, o de los subprocuradores autorizados, que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+IX. Las resoluciones definitivas que determinen la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de, los agentes del Ministerio Público; peritos; custodios, y miembros de las instituciones policiales del Estado y municipios de San Luis Potosí, que dicten las autoridades correspondientes en aplicación de la Ley del Sistema de Seguridad Pública del Estado, y reglamentos de la materia, y
 
 X. De los recursos e incidentes previstos por esta Ley.
 
@@ -459,11 +493,15 @@ En los juicios que se tramiten ante las salas del Tribunal de lo Contencioso Adm
 
 Cuando las leyes y reglamentos que rijan al acto impugnado establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o promover desde luego el juicio ante el tribunal; si ya se encuentra en trámite dicho recurso o medio de defensa, previo desistimiento del mismo podrá acudir al tribunal; ejercitada la acción ante éste último quedará extinguido su derecho para ocurrir a otro medio ordinario de defensa.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 39.
 
-Las diligencias que deban practicarse en el Municipio de la Capital del Estado y en el de Soledad de Graciano Sánchez, San Luis Potosí, se encomendarán a los secretarios o a los actuarios del Tribunal.
+Las diligencias que deban practicarse en los municipios que integran el Primer Distrito Judicial del Estado, serán desahogadas por los secretarios, o los actuarios del Tribunal.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 Las diligencias que deban practicarse fuera de la circunscripción territorial señalada en el párrafo que antecede, se efectuarán por el Secretario o Actuario de la Sala Regional correspondiente, o en su defecto por el Secretario o Actuario del Juzgado de Primera Instancia o Menor de la cabecera municipal que corresponda, los que actuarán en auxilio de las labores del Tribunal de lo Contencioso Administrativo y de acuerdo a lo previsto en el reglamento interior de este Tribunal.
 
@@ -498,6 +536,18 @@ No se emplearán abreviaturas, ni se rasparán las partes equivocadas, debiendo,
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 El Magistrado Instructor podrá ordenar que se subsane toda omisión que notare en la substanciación del juicio, para el solo efecto de regularizar el procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+Las actuaciones y diligencias deberán ser autorizadas con la firma del funcionario público a quien corresponda dar fe o certificar el acto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+ARTICULO 42 BIS.- Las salas y los magistrados instructores podrán ordenar que se subsane toda omisión que notaren en la sustanciación del juicio, hasta antes de dictar sentencia definitiva, para el solo efecto de regularizar el procedimiento.
 
 ### CAPITULO II. De los Impedimentos y Excusas
 
@@ -583,13 +633,29 @@ III. En el caso de que el actor muera durante el juicio, si su pretensión es in
 
 IV. Cuando la autoridad demandada haya satisfecho la petición del actor, o revocado el acto que se impugna;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. Cuando de las constancias de autos apareciere claramente que no existe el acto impugnado, y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
 
-VI. En los demás casos en los que por disposición legal exista impedimento para emitir resoluciones en cuanto al fondo.
+V. Cuando de las constancias de autos apareciere claramente que no existe el acto impugnado;
 
-El sobreseimiento puede ser total o parcial, y no prejuzga sobre la responsabilidad en que hubiese incurrido la autoridad demandada al ordenar o ejecutar el acto combatido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+VI. En los demás casos en los que por disposición legal exista impedimento para emitir resoluciones en cuanto al fondo, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+VII. Cuando en el caso del incidente de interrupción del procedimiento no comparezca el albacea, tutor o representante legal que corresponda, dentro del plazo establecido al efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+El sobreseimiento deberá examinarse de oficio, puede ser total o parcial, y no prejuzga sobre la responsabilidad en que hubiese incurrido la autoridad demandada al ordenar o ejecutar el acto combatido.
 
 ### CAPITULO IV. De las Partes
 
@@ -597,7 +663,11 @@ El sobreseimiento puede ser total o parcial, y no prejuzga sobre la responsabili
 
 Son partes en el juicio contencioso administrativo:
 
-I. El actor;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+l. El actor; que pueden ser los particulares que se sientan afectados por actos o resoluciones de las autoridades; o éstas cuando impugnen una resolución administrativa o fiscal favorable a aquéllos, por considerar que lesiona a la administración pública o al interés público;
 
 II. El demandado, teniendo este carácter:
 
@@ -657,9 +727,13 @@ Para los efectos del artículo anterior, cuando alguna de las partes resida fuer
 
 ### CAPITULO VI. De las Notificaciones
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 55.
 
-Las resoluciones o acuerdos deben ser notificados dentro del día siguiente a aquél en que se hubiesen turnado al actuario y se asentará la razón que corresponda inmediatamente después de los mismos.
+Las resoluciones o acuerdos deben ser notificados dentro del día siguiente de aquél en que se hubiesen turnado al actuario, y se asentará la razón que corresponda inmediatamente después de los mismos. Las salas y los magistrados instructores podrán habilitar días y horas inhábiles para notificar sus acuerdos y resoluciones, a fin de agilizar la instrucción de los asuntos.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
@@ -673,7 +747,13 @@ Las partes, en el primer escrito que presenten ante el Tribunal deberán señala
 
 Las notificaciones se harán de la siguiente manera:
 
-I. A las autoridades, por medio de oficios que serán entregados en el domicilio de su oficina principal en el lugar del juicio, por el actuario del tribunal, quien recabará la correspondiente constancia de recibo; y fuera del lugar del juicio, por correo, en pieza certificada con acuse de recibo, el cual se agregará a los autos. En casos urgentes, las notificaciones podrán hacerse por vía telegráfica;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+I. A las autoridades, por medio de oficios que serán entregados en el domicilio de su oficina principal en el lugar del juicio, por el actuario del tribunal, quien recabará la correspondiente constancia de recibo; y fuera del lugar del juicio, por correo certificado con acuse de recibo, el cual se agregará a los autos. En casos urgentes, las notificaciones podrán hacerse por vía telegráfica, fax o por cualquier otra vía genere certeza para el Tribunal, las partes y las autoridades.
+
+El Tribunal establecerá la notificación electrónica, utilizando las tecnologías de la información y comunicación, la cual será obligatoria para las autoridades demandadas, y voluntaria para los particulares;
 
 II. A los particulares, ya sean personas físicas o morales, cuando no se trate de actos que deban ser notificados personalmente, por medio de lista que se fijará en lugar visible y de fácil acceso del tribunal. La lista se fijará a las nueve horas del día siguiente a aquél en que se hubiese turnado al actuario el acuerdo o resolución.
 
@@ -715,6 +795,14 @@ Si el interesado no espera, se hará en el domicilio con cualquier persona que s
 
 II. Cuando la persona a quien deba notificarse hubiera fallecido y no se conozca al representante legal de la sucesión, hubiese desaparecido, se ignore su domicilio, o que éste o el de su representante no se encuentren en el territorio Estatal, la notificación se hará por edictos que se publicarán por cinco días consecutivos en el diario de mayor circulación de la entidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+ARTICULO 58 BIS.- La notificación electrónica es un medio de comunicación procesal que establece el Tribunal, con el objeto de optimizar recursos e informar a las partes sus resoluciones jurisdiccionales a través de medios electrónicos y mediante el uso de la firma electrónica.
+
+El Tribunal, como autoridad certificadora en esta materia, establecerá mediante Acuerdo General las políticas, bases y lineamientos aplicables a la notificación electrónica, que incluirá los trámites del registro de usuarios, los acuerdos y resoluciones sujetos a la misma, personal facultado para realizarla, sus efectos y demás formalidades, requisitos y condiciones inherentes.
+
 ###### ARTICULO 59.
 
 Las notificaciones que no se realicen en la forma que establecen las disposiciones precedentes serán nulas.
@@ -745,9 +833,11 @@ El escrito de demanda deberá contener:
 
 I. El nombre y domicilio de la parte actora;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. La autoridad o autoridades demandadas o, en su caso, el nombre y domicilio del particular o los particulares demandados;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+II. La autoridad o autoridades demandadas, especificando el nombre del titular o funcionario emisor o ejecutor del acto o resolución reclamada o, en su caso, el nombre y domicilio del particular o los particulares demandados;
 
 III. El nombre y domicilio del tercero, si lo hubiere;
 
@@ -775,13 +865,25 @@ II. Los documentos en que conste el acto impugnado y su notificación, cuando lo
 
 III. Una copia de la demanda y de los documentos anexos, para cada una de las partes;
 
-IV. El interrogatorio o cuestionario respectivo firmados por el oferente, en caso de que se ofrezca prueba testimonial o pericial; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. Las demás pruebas documentales que se ofrezcan.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+IV. El interrogatorio o cuestionario respectivo firmados por el oferente, en caso de que se ofrezca prueba testimonial o pericial, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+V. Añadir una copia de la demanda para el superior jerárquico del funcionario, o autoridad, para su conocimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 65.
 
-Cuando no se satisfaga alguno de los requisitos de la demanda, cuando ésta fuese obscura o imprecisa, o cuando no se anexen los documentos a que se refieren los artículos anteriores, la sala deberá requerir al actor para que en el plazo de tres días hábiles subsane las omisiones y formule las aclaraciones correspondientes; apercibiéndolo que de no hacerlo se desechará la demanda.
+Cuando no se satisfaga alguno de los requisitos de la demanda, a excepción de la firma del interesado; o bien, cuando la demanda fuese obscura o imprecisa, o no se anexen los documentos a que se refieren los artículos anteriores; el Magistrado Instructor deberá requerir al actor, para que en el plazo de tres días hábiles subsane las omisiones y formule las aclaraciones correspondientes; apercibiéndolo que de no hacerlo se desechará la demanda.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
@@ -809,15 +911,25 @@ Contra el auto que deseche una demanda, procederá el recurso de reclamación en
 
 ### CAPITULO VIII. De la Contestación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 69.
 
-Admitida la demanda, se correrá traslado al demandado con copia de la misma, para que dentro del plazo de diez días hábiles conteste lo que a su derecho corresponda y ofrezca las pruebas que estime convenientes, expresando los hechos con los que éstas se encuentren relacionadas.
+Admitida la demanda, se correrá traslado al demandado con copia de la misma, para que dentro del plazo de diez días hábiles conteste lo que a su derecho corresponda y ofrezca las pruebas que estime convenientes, expresando los hechos con los que éstas se encuentren relacionadas. Para su conocimiento y efectos legales procedentes, se entregará la copia de la demanda al superior jerárquico del funcionario responsable, o autoridad demandada; y, en su caso, se dará vista de los anexos.
 
-Si la parte demandada no produce su contestación dentro del término legal, el tribunal, de oficio, declarará la preclusión del derecho correspondiente, teniendo por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Si al producir en tiempo la contestación de la demanda, la parte demandada no se refiere a todos y cada uno de los hechos de la misma, los omitidos se considerarán presuntivamente ciertos, salvo prueba en contrario.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+Si la parte demandada no produce su contestación dentro del término legal, el tribunal, de oficio, declarará la preclusión del derecho correspondiente, teniendo por contestada la demanda en sentido afirmativo, salvo prueba en contrario. En este supuesto, el Tribunal dará vista al superior jerárquico, a la Contraloría General del Estado, o bien, al Congreso del Estado, según corresponda, para determinar responsabilidades al funcionario o autoridad demandada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+Si al producir en tiempo la contestación de la demanda, la parte demandada no se refiere a todos y cada uno de los hechos de la misma, los omitidos se considerarán presuntivamente ciertos, salvo prueba en contrario. De lo cual también se actuará en consecuencia, para los efectos precisados en el párrafo precedente.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
@@ -861,9 +973,13 @@ Cuando se advierta que se está en uno de los supuestos del artículo 66 de la p
 
 ### CAPITULO IX. De las Pruebas
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 74.
 
-En los juicios ante el Tribunal de lo Contencioso Administrativo serán admisibles toda clase de pruebas, con excepción de la confesional mediante absolución de posiciones o aquéllas que sean contrarias a la moral o al derecho.
+En los juicios ante el Tribunal de lo Contencioso Administrativo serán admisibles toda clase de pruebas, excepto la confesional mediante absolución de posiciones, y aquéllas que sean contrarias a la moral o al derecho. Sólo se tomará en cuenta la confesión de las partes cuando se encuentre contenida en sus escritos de demanda y de contestación, de ampliación de demanda y de contestación a la misma; así como las reglas de la confesional, cuando sean necesarias para el desahogo de otras probanzas.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
@@ -909,9 +1025,11 @@ La prueba pericial tendrá lugar cuando se controviertan cuestiones relativas a 
 
 Al ofrecerse la prueba pericial, las partes deberán nombrar el Perito que les corresponda y presentar, debidamente firmados, los cuestionarios sobre los cuales los peritos deberán rendir y ratificar su dictamen en la audiencia respectiva.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Admitida la prueba, se correrá traslado a las partes restantes con copia del cuestionario respectivo, a fin de que, en el plazo de cinco días hábiles, adicionen el cuestionario y nombren el perito que les corresponda, si así conviniere a sus intereses.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+Admitida la prueba, se correrá traslado a las partes restantes con copia del cuestionario respectivo, requiriéndolas para que, en el plazo de cinco días hábiles, adicionen el cuestionario si así conviniere a sus intereses, y para que nombren al perito que les corresponda, con el apercibimiento de nombrarles perito a su cargo en caso de no hacerlo, por tratarse de una prueba colegiada.
 
 La parte oferente deberá presentar al perito dentro del término de tres días siguientes al en que surta efectos la notificación del acuerdo en que se le tuvo como tal, a manifestar la aceptación y protesta de desempeñar el cargo con arreglo a la ley.
 
@@ -1069,6 +1187,12 @@ Las sentencias definitivas dictadas por el Tribunal causan ejecutoria por minist
 
 El Tribunal comunicará por medio de oficio y sin demora alguna a las autoridades u organismos demandados la sentencia favorable al actor para su cumplimiento, y les prevendrá para que informen sobre el mismo, dentro de los diez días siguientes al en que reciban el oficio de notificación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+En su caso, el Tribunal remitirá copia certificada de la sentencia, al superior jerárquico, a la Contraloría General del Estado, o bien, al Congreso del Estado, según corresponda, para determinar responsabilidades al funcionario o autoridad demandada, especificando el nombre de los involucrados en la emisión o ejecución del acto o resolución anulada, así como de quienes participaron en la defensa de la autoridad demandada, sin calificar su actuación por ser esto materia del aquéllas instancias.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 100.
@@ -1157,17 +1281,25 @@ Cuando se trate de hacer efectiva la responsabilidad proveniente de las garantí
 
 ### CAPITULO XIV. De los Incidentes
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 111.
 
-En el procedimiento contencioso administrativo no habrá más incidentes que el establecido en el artículo anterior y los que enseguida se enumeran, que se tramitarán como de previo y especial pronunciamiento, con suspensión de la tramitación del juicio:
+En el procedimiento contencioso administrativo se admitirán los incidentes que enseguida se enumeran:
 
-I. El de acumulación de autos;
+I. El relativo para hacer efectiva la responsabilidad proveniente de las garantías y contragarantías otorgadas con motivo de la suspensión, que se sustanciará conforme al artículo precedente;
 
-II. El de nulidad de notificaciones; y
+II. El de acumulación de autos;
 
-III. El de interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia, quiebra, disolución de la persona moral o desaparición del órgano de la administración pública.
+III. El de nulidad de notificaciones, y
 
-La promoción de cualquier incidente notoriamente improcedente, se desechará de plano.
+IV. El de interrupción del procedimiento, por causa de muerte, incapacidad o declaración de ausencia de las personas físicas, por quiebra o disolución de la persona moral o, en su caso, por desaparición del órgano de la administración pública.
+
+Los incidentes, excepto al que se refiere la fracción I de este artículo, se tramitarán como de previo y especial pronunciamiento, con suspensión de la tramitación del juicio.
+
+Las salas o los magistrados instructores desecharán de plano, la promoción de cualquier incidente notoriamente improcedente.
 
 ###### ARTICULO 112.
 
@@ -1199,19 +1331,29 @@ Admitida la promoción, se dará vista a las partes por tres días para que expo
 
 Si se declara la nulidad, la sala ordenará reponer el procedimiento desde la notificación anulada y se sancionará al actuario en los términos que señale el Reglamento Interior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
+
 ###### ARTICULO 116.
 
-La interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia, quiebra, disolución de la persona moral o desaparición del órgano de la administración pública, se tramitará ante la sala y procederá cuando antes de la celebración de la audiencia final, se dé cualquiera de dichos supuestos.
+La interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia de las personas físicas, por quiebra o disolución de la persona moral o, en su caso, por desaparición del órgano de la administración pública, se tramitará ante el Magistrado Instructor y procederá cuando antes de la celebración de la audiencia final, se de cualquiera de dichos supuestos.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 117.
 
-La interrupción durará hasta por un año, para que se apersone en el juicio el albacea de la sucesión o el tutor del incapaz, o bien el representante legal del ausente o de la liquidación, según sea el caso, o se provea a la substitución del correspondiente representante procesal, y se sujetará a lo siguiente:
+La interrupción no podrá ser menor de tres meses, ni mayor de un año, para que se apersone en el juicio el albacea de la sucesión o el tutor del incapaz, o bien el representante legal del ausente o de la liquidación, según sea el caso, o se provea a la substitución del correspondiente representante procesal, y se sujetará a lo siguiente:
 
-I. Se decretará por la Sala a partir de la fecha en que ésta tenga conocimiento de la existencia de alguno de los supuestos a que se refiere el artículo inmediatamente anterior, y
+I. Se fijará el plazo en razón de la naturaleza del asunto;
 
-II. Si transcurrido el plazo máximo de interrupción nadie comparece en representación de la parte que dio lugar a la interrupción del procedimiento, el Magistrado Instructor acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de dicha parte, cuando se trate de un particular.
+II. Se decretará por el Magistrado Instructor, a partir de la fecha en que éste tenga conocimiento de la existencia de alguno de los supuestos a que se refiere el artículo que antecede;
+
+III. Se notificará personalmente al albacea, tutor o representante legal que corresponda, en los domicilios registrados en autos y, en caso de que no se conozca la identidad de aquéllos o sus domicilios, deberán realizarse las investigaciones pertinentes para ubicar su paradero y proceder en consecuencia, y
+
+IV. Si transcurrido el plazo máximo de interrupción nadie comparece en representación de la parte que dio lugar al incidente, el Magistrado Instructor acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista que se fijará en los estrados del Tribunal, dejando constancia en autos, y resolverá lo que en derecho proceda.
 
 ### CAPITULO XV. De los Recursos
 
@@ -1408,5 +1550,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 22 DE MAYO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
