@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2012-09-24"
+last_updated: "2015-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -1591,6 +1591,12 @@ Para el funcionamiento de servicios de incineración de cadáveres y funerarios,
 
 El funcionamiento de los panteones y agencias funerarias, estará sujeto a esta Ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2015)</small>
+
+###### ARTICULO 219 Bis.
+
+Para el debido control de los panteones establecidos en el territorio estatal, la Secretaría llevará un Registro Público Estatal de Panteones, el cual contendrá la información que anualmente le remitan los Ayuntamientos de la Entidad.
+
 ### CAPITULO XVII. GASOLINERAS
 
 ###### ARTICULO 220.
@@ -2808,3 +2814,13 @@ Segundo. Se deroga el Título Noveno, Capítulo Único, de la Ley de Salud del E
 Tercero. El titular del Poder Ejecutivo del Estado de Veracruz deberá emitir el Reglamento de la presente Ley, en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor de esta Ley.
 
 Cuarto. Todos los albergues, centros asistenciales y sus similares que operen en el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor de la presente Ley, deberán inscribirse en el Registro Estatal de Albergues, Centros Asistenciales y sus Similares del Estado de Veracruz.
+
+G.O. 27 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. La Secretaría de Salud emitirá en un plazo de sesenta días naturales, los lineamientos para la integración de la información de los Registros Municipales de Panteones Públicos y Privados.
+
+TERCERO. Los Municipios de la Entidad, por única ocasión, deberán remitir a la Secretaría de Salud, copia del Registro Municipal de Panteones Públicos y Privados que integre, dentro de los cien días naturales posteriores a la expedición de los lineamientos señalados en el transitorio anterior.
+
+CUARTO. Se derogan todas las disposiciones que contravengan al presente Decreto.
