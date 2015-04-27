@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-acuacultura-del-estado-555
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-30"
-last_updated: "2007-04-30"
+last_updated: "2015-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACUACULTURA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2015.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el lunes 30 de abril de 2007.
 
@@ -36,29 +36,19 @@ REGLAMENTO INTERIOR DEL INSTITUTO DE ACUACULTURA DEL ESTADO DE SONORA
 
 El instituto de Acuacultura del Estado de Sonora, es un organismo descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, el cual tiene como objeto: Operar y administrar Centros Acuícolas, reproducir y distribuir a los productores en forma eficiente los pies de cría de las especies de interés comercial e impulsar la investigación y el desarrollo de las diversas modalidades de la Acuacultura en Sonora.
 
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 2°.
 
-Para el cumplimiento de su objeto, el Instituto de Acuacultura del Estado de Sonora contará con los siguientes Órganos y unidades administrativas:
+Para el cumplimiento de su objeto, el Instituto de Acuacultura del Estado de Sonora contará con una Junta de Gobierno que será su máxima autoridad, un Director General y las siguientes unidades administrativas:
 
-I. Órganos de Gobierno:
+I.- Dirección Técnica;
 
-- La Junta de Gobierno
+II.- Dirección de Promoción y Capacitación;
 
-- El Director General
+III.- Dirección de Administración y Finanzas; y
 
-II. Órgano de Asesoría:
-
-- El Consejo Técnico Consultivo
-
-III. Unidades Administrativas:
-
-- Dirección Técnica
-
-- Dirección de Administración y Finanzas
-
-- Unidad de Asesoría Jurídica
-
-Se anexa organigrama estructural.
+IV.- Unidad de Asesoría Jurídica.
 
 ###### ARTÍCULO 3º.
 
@@ -66,11 +56,35 @@ El Instituto de Acuacultura del Estado de Sonora planeará sus actividades y con
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 4°.
 
-El máximo Órgano de Gobierno del Instituto de Acuacultura del Estado de Sonora es su Junta de Gobierno, integrada por: un Presidente que será el Gobernador del Estado, un Vicepresidente que será el Secretario de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura y un Secretario que, será el Secretario de Hacienda, un Tesorero que será el Subsecretario de Egresos de la Secretaría de Hacienda, tres vocales representando a la Secretaría de Salud Pública, al Fondo para las Actividades Productivas del Estado de Sonora y a la Secretaría de Economía, así como por un representante del sector social y otro del sector privado; cuyas facultades están establecidas en el artículo 8° del Decreto de creación.
+El máximo órgano de Gobierno del Instituto de Acuacultura del Estado de Sonora es su Junta de Gobierno, cuyas facultades están establecidas en el artículo 8° del Decreto que Crea el Instituto de Acuacultura del Estado de Sonora y estará integrada por:
 
-La Junta contará además, con un Secretario Técnico que será el Director del Instituto de Acuacultura del Estado de Sonora, con derecho a voz pero sin voto en los asuntos que se traten. Cuando el Secretario técnico de la Junta de Gobierno estime necesario que un servidor público del Instituto de Acuacultura del Estado de Sonora o cualquier otra persona participe en la sesión para exponer o aclarar asuntos de la sesión, podrá solicitar a quién presida la autorización para que dicho servidor o persona se incorpore a la misma y participe sólo en la parte relativa al tema específico de su incumbencia, quien una vez finalizada su intervención deberá abandonar el recinto para que los miembros de la Junta de Gobierno discutan y acuerden lo conducente.
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Vicepresidente, que será el Secretario de Agricultura, Ganadería Recursos Hidráulicos, Pesca y Acuacultura;
+
+III.- Un Secretario, que será el Subsecretario de Pesca y Acuacultura;
+
+IV.- Un Tesorero, que será el Secretario de Hacienda;
+
+V.- Tres vocales que serán:
+
+a) Un representante de la Secretaría de Salud Pública del Estado;
+
+b) Un representante del (sic) Secretaría de Economía del Estado; y
+
+c) Un representante de la (sic) Fondo Nuevo Sonora.
+
+VI.- Un representante de la Alianza de Ribereños y Armadores por un Nuevo Sonora A.C. y un representante del Comité Estatal en Sonora del Sistema Producto Ostión A.C., y
+
+VII.- Un representante del sector privado que designe el Ejecutivo Estatal.
+
+La Junta de Gobierno, para el desarrollo de sus sesiones, contará con un Secretario Técnico que será el Director General del Instituto de Acuacultura del Estado de Sonora, quien sólo gozará de derecho a voz en los asuntos que se traten.
+
+Cuando el Secretario Técnico de la Junta de Gobierno estime necesario que un servidor público del Instituto de Acuacultura del Estado de Sonora o cualquier otra persona participe en la sesión para exponer o aclarar asuntos de la sesión, podrá solicitar a quien presida la autorización para que dicho servidor o persona se incorpore a la misma y participe sólo en la parte relativa al tema específico de su incumbencia, quien una vez finalizada su intervención deberá abandonar el recinto para que los miembros de la Junta de Gobierno discutan y acuerden lo conducente.
 
 ###### ARTÍCULO 5°.
 
@@ -129,6 +143,30 @@ I. Asistir a las sesiones de la Junta de Gobierno;
 II. Suscribir conjuntamente con los demás miembros integrantes, las actas de las sesiones; y
 
 III. Las demás que le confieran el presente Reglamento y otras disposiciones legales.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 13 BIS.- El Secretario de la Junta de Gobierno tendrá a su cargo las siguientes funciones:
+
+I.- Asistir a las sesiones de la Junta de Gobierno;
+
+II.- Suscribir conjuntamente con los demás miembros integrantes, las actas de las sesiones;
+
+III.- Analizar e intervenir en los asuntos relacionados con el Instituto que se discutan en las sesiones, proponiendo los mecanismos y las estrategias más adecuadas para la solución de los mismos; y
+
+IV.- Las demás que le confieren en el presente Reglamento y otras disposiciones legales.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 13 BIS 1.- El Tesorero de la Junta de Gobierno tendrá a su cargo las siguientes funciones:
+
+I.- Asistir a las sesiones de la Junta de Gobierno;
+
+II.- Suscribir conjuntamente con los demás miembros integrantes, las actas de las sesiones;
+
+III.- Analizar e intervenir sobre los asuntos relacionados a la situación financiera y contable del Instituto, proponiendo los mecanismos y estrategias más adecuadas para su bienestar económico; y
+
+IV.- Las demás que le confieren en el presente Reglamento y otras disposiciones legales.
 
 ###### ARTÍCULO 14.
 
@@ -262,9 +300,17 @@ V. Coordinar la implementación de mecanismos que contribuyan a garantizar el ac
 
 VI. Someter a consideración de la Junta de Gobierno, en el mes de octubre de cada año, el anteproyecto del programa operativo anual y del presupuesto de egresos, mismo que deberá elaborarse de conformidad con la legislación aplicable;
 
-VII. Expedir la certificación de documentos correspondientes a trámites que son propios al Instituto de Acuacultura del Estado de Sonora o de aquellos que obren en sus archivos; y
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2015)</small>
 
-VIII. Las demás que le asignen otras leyes aplicables, o expresamente le encomiende la Junta de Gobierno.
+VII. Expedir la certificación de documentos correspondientes a trámites que son propios al Instituto de Acuacultura del Estado de Sonora o de aquellos que obren en sus archivos;
+
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2015)</small>
+
+VIII. Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo con la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2015)</small>
+
+IX. Las demás que le confieren las leyes y otras disposiciones reglamentarias o las que expresamente le encomiende la Junta de Gobierno.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -302,7 +348,7 @@ II. Dirigir y supervisar los servicios de asesoría y asistencia técnica que el
 
 III. Evaluar periódicamente los programas de producción, que desarrolle el Instituto de Acuacultura del Estado de Sonora;
 
-IV. Atender el sector de productores acuícolas y promover los productos y servicios del Instituto de Acuacultura del Estado de Sonora;
+IV. (DEROGADA, B.O. 27 DE ABRIL DE 2015)
 
 V. Formular y desarrollar proyectos de investigación científica tecnológica aplicada de especies tanto marinas como dulceacuícolas de importancia comercial, para el impulso de la acuacultura estatal, de acuerdo a las políticas de investigación señaladas en el Programa Operativo Anual del Instituto de Acuacultura del Estado de Sonora;
 
@@ -311,6 +357,16 @@ VI. Elaborar propuestas de investigación científica - tecnológica aplicada pa
 VII. Proponer e instrumentar la transferencia de tecnología a los productores acuícolas cuando se obtenga como producto de la investigación tecnológica desarrollada; y
 
 VIII. Las demás que le confieran las leyes y otras disposiciones reglamentarias, o las que le señale el Director General en la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2015)</small>
+
+ARTÍCULO 28 BIS.- Corresponden a la Dirección de Promoción y Capacitación, las siguientes atribuciones:
+
+I.- Elaborar y proponer a la Junta de Gobierno, por conducto del Director General, las estrategias que promuevan el incremento de los ingresos propios del Instituto de Acuacultura del Estado de Sonora;
+
+II.- Atender al sector de productores acuícolas y promover los bienes y servicios que brinda el Instituto de Acuacultura del Estado de Sonora; y
+
+III.- Elaborar y proponer a la Junta de Gobierno, por conducto del Director General, las estrategias de difusión y extensión de los programas, proyectos e investigaciones que realiza el Instituto de Acuacultura del Estado de Sonora, así como del desarrollo de las actividades acuícolas que se realizan en el Estado.
 
 ###### ARTÍCULO 29.
 
@@ -342,9 +398,21 @@ XII. Administrar el sistema de control de inventario de los bienes muebles e inm
 
 XIII. Verificar el cumplimiento de la reglamentación vigente en relación con la adquisición, almacenamiento, control de inventarios y enajenación de bienes;
 
-XIV. Implementar mecanismos para la atención de las solicitudes de información planteadas al Instituto de Acuacultura del Estado de Sonora, en base a lo estipulado en la Ley de Acceso a la Información Pública del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2015)</small>
 
-XV. Las demás que le confieran las leyes y otras disposiciones reglamentarias, o las que le señale el Director General en la esfera de sus atribuciones.
+XIV. Fungir como unidad de enlace para la atención de las solicitudes de acceso a la información pública presentadas ante el Instituto de Acuacultura del Estado de Sonora, y coadyuvar con el Director General en la implementación de mecanismos para garantizar el acceso de los ciudadanos a dicha información, en los términos de la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2015)</small>
+
+XV. Coordinar el Sistema Integral de Archivos y elaborar y presentar al Director General, para su aprobación, los procedimientos, las normas de administración documental y los criterios específicos de organización de archivos;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2015)</small>
+
+XVI. Elaborar, en coordinación con las demás unidades administrativas y, en su caso, actualizar los manuales de Organización, de Procedimientos y de Servicios al Público del Instituto de Acuacultura del Estado de Sonora, de conformidad con los lineamientos establecidos al respecto por la Secretaría de la Contraloría General, y someterlos por conducto del Director General a la consideración y, en su caso, aprobación de la Junta de Gobierno; y
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2015)</small>
+
+XVII. Las demás que le confieran las leyes y otras disposiciones reglamentarias, o las que le señale el Director General en la esfera de sus atribuciones.
 
 ###### ARTÍCULO 30.
 
@@ -354,7 +422,7 @@ I. Definir los criterios de interpretación y aplicación de las disposiciones j
 
 II. Representar al Instituto de Acuacultura del Estado de Sonora que por acuerdo expreso le encomiende el Director General del mismo, intervenir en los asuntos de carácter legal (sic) que tenga injerencia, e informar de los resultados al superior jerárquico;
 
-III. Instrumentar los informes en los juicios de amparos (sic) e interponer toda clase de recursos o medios de impugnación, así como actuar en (sic) los juicios que el Instituto de Acuacultura del Estado de Sonora, forme parte e intervenir en el cumplimiento de las resoluciones respectivas;
+III. Instrumentar los informes en los juicios de amparos e interponer toda clase de recursos o medios de impugnación, así como actuar en los juicios que el Instituto de Acuacultura del Estado de Sonora, forme parte e intervenir en el cumplimiento de las resoluciones respectivas;
 
 IV. Participar en la formulación y revisión, en su caso, de los anteproyectos de las leyes, reglamentos y decretos competencia del Instituto de Acuacultura del Estado de Sonora, de conformidad con los lineamientos fijados por la misma;
 
@@ -433,3 +501,15 @@ TESORERO
 SUBSECRETARIO DE EGRESOS
 
 ING. FRANCISCO DÍAZ BROWN OLEA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 27 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público derivados de este Acuerdo, deberán realizarse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior en el mencionado Boletín Oficial.
