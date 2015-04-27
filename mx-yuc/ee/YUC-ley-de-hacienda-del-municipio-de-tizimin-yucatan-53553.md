@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tizimin-yucatan-53553"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2014-12-24"
+last_updated: "2015-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE ABRIL DE 2015.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -142,7 +142,7 @@ Para los efectos de esta Ley, se entenderá por territorio municipal, el área g
 
 Las personas a que se refiere el artículo 8 anterior, además de las obligaciones especiales contenidas en la presente Ley, deberán cumplir con las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -192,7 +192,7 @@ III.- Los retenedores de impuestos, y
 
 IV.- Los funcionarios, fedatarios y demás personas que señala la presente ley y que en el ejercicio de sus funciones, no cumplan con las obligaciones que las leyes y disposiciones fiscales les imponen exigir, a quienes están obligados a hacerlo, que acrediten que están al corriente en el pago de sus contribuciones o créditos fiscales al Municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -200,7 +200,7 @@ IV.- Los funcionarios, fedatarios y demás personas que señala la presente ley 
 
 Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería, en los lugares que la misma designe para tal efecto, o a través de los medios electrónicos que determine la misma autoridad; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -250,7 +250,7 @@ Para efectos de la determinación, cálculo y pago de los recargos a que se refi
 
 Ninguna licencia de funcionamiento podrá otorgarse por un plazo que exceda el del ejercicio constitucional del Ayuntamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -282,11 +282,11 @@ V.- El recibo de pago del derecho correspondiente en su caso.
 
 VI.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VIII.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2010)
 
@@ -420,19 +420,19 @@ El impuesto predial sobre la base de valor catastral deberá cubrirse por bimest
 
 Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero, febrero y marzo de cada año, gozará de un descuento del 20, 15 y 10% para cada uno de los meses de Enero, Febrero y Marzo sobre el importe de dicho impuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 Así mismo, la Dirección de Finanzas y Tesorería podrá establecer programas de estímulo que incentiven el cumplimiento de obligaciones de pago de los contribuyentes del impuesto predial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 Entre dichos programas se podrá incluir la organización de loterías, sorteos o rifas fiscales con diversos premios, en los que participarán las personas que hayan cumplido con la obligación del pago a que se refiere el presente artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -656,7 +656,7 @@ b. Clase o Tipo de Diversión o Espectáculo
 
 c. Ubicación del lugar donde se llevará a cabo el evento
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -664,13 +664,13 @@ II. Cumplir con las disposiciones que para tal efecto fije el reglamento respect
 
 III. Presentar a la Dirección de Finanzas y Tesorería, cuando menos tres días antes de la realización del evento, la emisión total de los boletos de entrada, señalando el número de boletos que corresponden a cada clase y su precio al público, a fin que se autoricen con el sello respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 IV. Cubrir el pago respectivo por derecho de recolección de basura por los días en que se presente el espectáculo o diversión pública, a efecto de garantizar la limpieza del sitio en que se presente y sus inmediaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -770,7 +770,7 @@ VIII.- Los permisos para fraccionamientos serán en función de los metros cuadr
 
 El pago de los derechos a que se refiere esta Sección deberá cubrirse con anticipación al otorgamiento de las licencias o permisos referidos, con excepción de los que en su caso disponga la reglamentación correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -906,7 +906,7 @@ Por los derechos a que se refiere esta Sección, se pagarán cuotas de acuerdo c
 
 #### Sección Cuarta. Derechos por expedición de Certificados, Constancias, Copias, Fotografías y Formas Oficiales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1126,7 +1126,7 @@ La cuota a pagar por los derechos a que se refiere la presente Sección, será d
 
 #### Sección Décima Segunda. Derechos por Servicios de Agua Potable
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1134,7 +1134,7 @@ La cuota a pagar por los derechos a que se refiere la presente Sección, será d
 
 Es objeto de los derechos a que se refiere la presente sección, la prestación de los servicios de agua potable que presta el Ayuntamiento de Tizimín.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1146,7 +1146,7 @@ Son sujetos del pago de estos derechos, las personas físicas o morales, propiet
 
 Son responsables solidarios del pago de estos derechos los Notarios Públicos y demás encargados de llevar la fe pública, que autoricen instrumentos en los que se consigne la enajenación de predios o giros sin que previamente se compruebe con las constancias oficiales correspondientes que se está al corriente del pago de los derechos de agua potable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1154,7 +1154,7 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 Serán base de este derecho el consumo en metros cúbicos de agua, en los casos que se haya instalado medidor y, a falta de este, la cuota establecida en la ley de ingresos del municipio de Tizimín; así como el costo del material utilizado en la instalación de tomas de agua potable y, en su caso, el número de predios de una unidad habitacional que se beneficie con una nueva red de suministro a conectar con la ya existente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1174,9 +1174,19 @@ Solamente quedarán exentos del pago de este derecho los bienes de dominio públ
 
 Los usuarios de este servicio están obligados a permitir que las autoridades fiscales verifiquen la información proporcionada con motivo de este servicio, pudiendo para ello practicar visitas domiciliarias o valerse de medios técnicos que permitan determinar con mayor precisión los consumos realizados.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 27 DE ABRIL DE 2015)</small>
+
+#### Sección Décimo Tercera. Derechos por Servicios de Laboratorio de Análisis Clínicos
+
+> <small>(ADICIONADO, D.O. 27 DE ABRIL DE 2015)</small>
+
+###### Artículo 132 Bis.
+
+Es objeto del derecho por los servicios que presta el Laboratorio de análisis clínicos del municipio, la entrega de los resultados obtenidos de los estudios químicos por escrito, firmados por el químico correspondiente a cargo del laboratorio.
+
 ### CAPÍTULO III. Contribuciones Especiales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1270,7 +1280,7 @@ El Director de Finanzas y Tesorería previa solicitud por escrito del interesado
 
 ### CAPÍTULO IV. Productos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1326,7 +1336,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ### CAPÍTULO V. Aprovechamientos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1338,7 +1348,7 @@ Son aprovechamientos los ingresos que percibe el ayuntamiento por sus funciones 
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Dirección de Finanzas y Tesorería para su cobro. Cuando estas multas no fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1372,7 +1382,7 @@ X.- Derechos por el Otorgamiento de la Concesión y por el Uso o Goce de la Zona
 
 ### CAPÍTULO VI. Participaciones y Aportaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1380,7 +1390,7 @@ X.- Derechos por el Otorgamiento de la Concesión y por el Uso o Goce de la Zona
 
 Son participaciones las cantidades que el municipio tiene derecho a percibir de los ingresos federales conforme a lo dispuesto en la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, y sus Anexos, el Convenio de Colaboración Administrativa en Materia Fiscal o cualesquiera otros convenios que se suscribiesen para tal efecto; así como aquellas cantidades que tiene derecho a percibir de los ingresos estatales conforme a la Ley de Coordinación Fiscal del Estado de Yucatán, y aquellas que se designen con este carácter por el Congreso del Estado a favor del Municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1390,7 +1400,7 @@ Las aportaciones son los recursos que la federación transfiere a las haciendas 
 
 ### CAPÍTULO VII. Ingresos Extraordinarios
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1629,3 +1639,9 @@ D.O. 24 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil quince, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE ABRIL DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
