@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2015-04-20"
+last_updated: "2015-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1115,9 +1115,13 @@ II. Promover ante las instancias responsables la realización de acciones tendie
 
 III. Vigilar que en los cementerios se cumpla con las disposiciones sanitarias;
 
-IV. Vigilar el cumplimiento de las disposiciones aplicables al reclutamiento de los jóvenes en edad para el servicio militar; y
+> <small>(ADICIONADA, G.O. 27 DE ABRIL DE 2015)</small>
 
-V. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+IV. Llevar un registro de panteones públicos y privados existentes en el territorio municipal, que contenga los datos de ubicación, denominación, extensión, capacidad y demás información pertinente que señale la Secretaría de Salud. La información generada deberá remitirse en el mes de octubre de cada anualidad a la dependencia antes mencionada;
+
+V. Vigilar el cumplimiento de las disposiciones aplicables al reclutamiento de los jóvenes en edad para el servicio militar; y
+
+VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 ###### Artículo 60.
 
@@ -3650,3 +3654,13 @@ G.O. 20 DE ABRIL DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. La Secretaría de Salud emitirá en un plazo de sesenta días naturales, los lineamientos para la integración de la información de los Registros Municipales de Panteones Públicos y Privados.
+
+TERCERO. Los Municipios de la Entidad, por única ocasión, deberán remitir a la Secretaría de Salud, copia del Registro Municipal de Panteones Públicos y Privados que integre, dentro de los cien días naturales posteriores a la expedición de los lineamientos señalados en el transitorio anterior.
+
+CUARTO. Se derogan todas las disposiciones que contravengan al presente Decreto.
