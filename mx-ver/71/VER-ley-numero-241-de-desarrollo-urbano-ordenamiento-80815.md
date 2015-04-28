@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2011-04-13"
+last_updated: "2015-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ABRIL DE 2015.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
 
@@ -83,9 +83,17 @@ XII. La planeación y ejecución de obras de infraestructura, equipamiento y ser
 
 XIII. La adopción de medidas para prevenir o atender desastres;
 
-XIV. La reubicación de los asentamientos humanos localizados en zonas de riesgo; y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2015)</small>
 
-XV. El establecimiento de formas y mecanismos de coordinación institucional, de concertación privada y social y para la participación ciudadana, dirigidos al logro del desarrollo urbano y ordenamiento territorial.
+XIV. La reubicación de los asentamientos humanos localizados en zonas de riesgo;
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2015)</small>
+
+XV. La constitución de cementerios; y
+
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2015)</small>
+
+XVI. El establecimiento de formas y mecanismos de coordinación institucional, de concertación privada y social y para la participación ciudadana, dirigidos al logro del desarrollo urbano y ordenamiento territorial.
 
 A falta de disposición expresa en esta Ley, se aplicarán supletoriamente los ordenamientos legales federales y estatales en materia de asentamientos humanos, vivienda, medio ambiente y protección civil.
 
@@ -1215,6 +1223,18 @@ Las dimensiones mínimas de lotes para vivienda unifamiliar serán de ciento cin
 
 Las dimensiones mínimas de lotes para viviendas multifamiliares serán de ciento ochenta metros cuadrados, con un frente de doce metros lineales, en agrupación de cuatro viviendas o hasta seis, dos en cada nivel; estos conjuntos contarán con un cajón de estacionamiento por vivienda, resueltos hacia el interior del lote o en bolsas de estacionamiento. Para la enajenación de estas viviendas deberá constituirse el régimen de propiedad en condominio.
 
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2015)</small>
+
+Artículo 82 bis. A fin de cumplir con lo dispuesto en la Ley de Salud del Estado de Veracruz de Ignacio de la Llave, los requisitos, condiciones y procedimientos para la constitución de los cementerios se regularán conforme a lo siguiente:
+
+Los cementerios privados tendrán el tratamiento de fraccionamiento especial, con las modalidades y requisitos que sobre lotificación, usos y destinos, cesiones, vialidades e infraestructura establezca el Reglamento de esta ley.
+
+En el caso de los cementerios públicos municipales, el cabildo emitirá un dictamen fundado y motivado en el Programa de Desarrollo Urbano y Ordenamiento Territorial Municipal que corresponda, en el que constará la viabilidad para la constitución del mismo.
+
+En aquellos municipios donde el predio se ubique en zona conurbada, no exista un Programa de Desarrollo Urbano y Ordenamiento Territorial Municipal o se haya convenido con la Secretaría la entrega de las autorizaciones correspondientes, se deberá simplificar el otorgamiento de las mismas a partir de los criterios de marginación, pobreza, densidad de población y nivel de desarrollo de la comunidad.
+
+En cualquier caso los cementerios públicos municipales deberán ubicarse fuera de los centros urbanos y contarán con los servicios básicos indispensables para su funcionamiento. El trámite para la expedición de la autorización correspondiente no deberá exceder de noventa días naturales.
+
 ###### Artículo 83.
 
 Será improcedente la autorización de traslado de dominio de los lotes en desarrollos habitacionales, cuando:
@@ -1452,3 +1472,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE ABRIL DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
