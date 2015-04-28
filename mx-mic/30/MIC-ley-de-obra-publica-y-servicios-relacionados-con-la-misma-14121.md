@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2007-09-26"
+last_updated: "2015-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACAN DE OCAMPO Y SUS MUNICIPIOS -ANTES LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS-
 
-LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
+LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -39,15 +39,19 @@ DECRETA:
 
 NUMERO 225
 
-LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2015)</small>
+
+LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
 ## TITULO PRIMERO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, ejecución, conservación, mantenimiento, remodelación, demolición y control de las obras públicas que realicen:
+La presente Ley es de orden público e interés social y siendo reglamentaria del artículo 129 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, seguimiento, evaluación, licitación, adjudicación, ejecución, conservación, mantenimiento, remodelación, demolición y control de las obras públicas y los servicios relacionados con las mismas que, por sí o por conducto de terceros, realicen:
 
 I. Las dependencias del Poder Ejecutivo, señaladas en el artículo 18 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
@@ -57,49 +61,125 @@ III. Los ayuntamientos de los municipios del Estado; y,
 
 IV. Las entidades paramunicipales.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Serán aplicables las disposiciones conducentes de esta ley, a los particulares que tengan el carácter de licitantes o contratistas.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán los procedimientos previstos en esta ley en todo lo que no se oponga a los ordenamientos legales que los regulan.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+No se regirán por las disposiciones de esta Ley, la obra pública o servicios relacionados con la misma, derivados de convenios celebrados entre dependencias, entidades, instituciones públicas y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando intervenga un particular con el carácter de licitante o contratista.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las obras asociadas a proyectos de infraestructura que requieran inversión a largo plazo y amortizaciones programadas, estarán sujetas a la aprobación del Congreso del Estado, conforme a sus facultades legales, la Ley de Deuda Pública, la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental, así como las demás disposiciones presupuestarias aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+En lo relativo a los principios que deben contener los contratos, los procedimientos de contratación y ejecución, así como las condiciones de difusión pública, se atenderán conforme a la presente Ley y a la Ley de Transparencia y Acceso a la Información Pública.
+
 ###### Artículo 2°.
 
 Para los efectos de esta Ley, se considera obra pública:
 
 I. Todo el trabajo que tenga por objeto la construcción, conservación, instalación, remodelación, reparación, mantenimiento, demolición o modificación de bienes inmuebles que por su naturaleza o disposición de la ley estén destinados a un servicio público o al uso común;
 
-II. Los servicios relacionados con la misma, incluidos los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra pública; los relativos a las investigaciones, asesorías, consultorías especializadas, la dirección o supervisión de la ejecución de las obras; así como los que tiendan a mejorar los recursos agropecuarios del Estado; y,
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+II. Los servicios relacionados con la misma, incluidos los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra pública; los relativos a las investigaciones, asesorías, consultorías especializadas, la dirección o supervisión de la ejecución de las obras; así como los que tiendan a mejorar los recursos agropecuarios del Estado;
 
 III. Los proyectos integrales o llave en mano, así como los trabajos de exploración, localización, perforación, extracción y aquellos similares que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentran en el suelo o en el subsuelo, previa autorización del Gobierno Federal.
 
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+IV. Las asociadas a proyectos de infraestructura que impliquen inversión a largo plazo y amortización programada en los términos de esta Ley, en las cuales el contratista se obligue desde la ejecución de la obra, su puesta en marcha, mantenimiento y operación de la misma; y,
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+V. Las que resulten en algún grado de participación relacionadas con títulos de concesión que se otorguen por el Estado o los Municipios.
+
 Los bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesario para la realización de las obras públicas por administración directa, o los que suministren las dependencias, entidades o ayuntamientos conforme a lo pactado en los contratos de obra, se sujetarán a las disposiciones de esta Ley, sin perjuicio de que las adquisiciones de los mismos se rijan por la ley respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 3°.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Secretaría: La Secretaría de Comunicaciones y Obras Públicas;
+I. Área responsable de la contratación: La facultada en la dependencia o entidad para realizar los procedimientos de contratación, a efecto de realizar obras públicas o contratar servicios relacionados con las mismas;
 
-II. Coordinación: La Coordinación de Control y Desarrollo Administrativo;
+II. Área responsable de la ejecución de los trabajos: La facultada en la dependencia o entidad para llevar la administración, control y seguimiento de los trabajos hasta la conclusión definitiva de los contratos de obras públicas o de servicios relacionados con las mismas;
 
-III. Tesorería: La Tesorería General;
+III. Área requirente: La que en la dependencia o entidad solicite o requiera formalmente la contratación de obras públicas o servicios relacionados con las mismas, o bien aquélla que los utilizará;
 
-IV. Dependencias: Las señaladas en el artículo 18 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+IV. Auditoría Superior de Michoacán: El órgano de fiscalización dependiente del Congreso del Estado de Michoacán y quien realizará sus funciones de acuerdo con la normatividad establecida;
 
-V. Entidades: Las mencionadas en el artículo 5° de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+V. Avance financiero: El porcentaje de los trabajos pagados respecto del importe contractual;
 
-VI. Sector: El agrupamiento de dependencias o entidades, coordinado por la Secretaría que designe el titular del Poder Ejecutivo Estatal;
+VI. Avance físico: El porcentaje de los trabajos ejecutados y verificados por el residente, en relación a los trabajos contemplados en el programa de ejecución convenido;
 
-VII. Dependencia Coordinadora de Sector: La Secretaría a que se refiere la fracción anterior;
+VII. Ayuntamientos: Los órganos de la administración pública de los municipios del Estado;
 
-VIII. Ayuntamientos: Los ayuntamientos de los municipios del Estado;
+VIII. Bitácora: Documento técnico legal que se utiliza para registrar los hechos, actos, antecedentes, pormenores e incidentes en la ejecución de la obra pública, además de ser el medio de comunicación entre las partes que formalizan los contratos;
 
-IX. Entidades Paramunicipales: Los organismos públicos descentralizados y desconcentrados de la administración pública municipal, empresas de participación municipal mayoritaria, comisiones municipales, comités municipales, patronatos municipales, juntas municipales y fideicomisos en los que el fideicomitente sea el ayuntamiento; y,
+IX. Cámara: La Asociación Civil que agrupa personas físicas y morales con intereses comunes en la Industria de la Construcción;
 
-X. Contratista: La persona física o moral que celebre contratos de obra pública y de servicios relacionados con la misma.
+X. Caso fortuito o fuerza mayor: El acontecimiento proveniente de la naturaleza o del hombre caracterizado por ser imprevisible, inevitable, irresistible, insuperable, ajeno a la voluntad de las partes y que imposibilita el cumplimiento de todas o alguna de las obligaciones previstas en el contrato de obras públicas o servicios relacionados con las mismas;
+
+XI. Comité: El Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública y Servicios Relacionados;
+
+XII. Contratista: La persona física o moral que celebre contratos de obra pública y de servicios relacionados con la misma en los términos de la presente Ley;
+
+XIII. Coordinación: La Coordinación de Contraloría;
+
+XIV. Dependencias: Las señaladas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+
+XV. Dependencia Coordinadora de Sector: La designada por el Titular del Ejecutivo Estatal para dicho fin;
+
+XVI. Entidades: Las mencionadas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y en la propia Ley de Entidades Paraestatales del Estado de Michoacán;
+
+XVII. Entidades Paramunicipales: Los organismos públicos descentralizados y desconcentrados de la administración pública municipal, empresas de participación municipal mayoritaria, comisiones municipales, comités municipales, patronatos municipales, juntas municipales y fideicomisos en los que el fideicomitente sea el ayuntamiento;
+
+XVIII. Especificaciones generales de construcción: El conjunto de condiciones generales que las dependencias y entidades tienen establecidas para la ejecución de obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento y supervisión, que comprenden la forma de medición y la base de pago de los conceptos de trabajo;
+
+XIX. Estimación: La valuación de los trabajos ejecutados en un periodo determinado presentada para autorización de pago, en la cual se aplican los precios, valores o porcentajes establecidos en el contrato en atención a la naturaleza y características del mismo, considerando, en su caso, la amortización de los anticipos, los ajustes de costos, las retenciones económicas, las penas convencionales y las deducciones; así como, la valuación de los conceptos que permitan determinar el monto de los gastos no recuperables;
+
+XX. Finanzas: La Secretaría de Finanzas y Administración;
+
+XXI. Interesado: La persona física o moral que reuniendo los requisitos contenidos en una convocatoria publicada por la administración pública del Estado o de los municipios, se encuentre legitimado para ejercer cualquier derecho que de conformidad con esta ley y/o su Reglamento en consecuencia le resulte vulnerado;
+
+XXII. Licitante: La persona que participe en cualquier procedimiento de licitación pública, o bien de invitación con la finalidad de obtener la adjudicación de contrato para ejecutar obra pública o servicios relacionados con las mismas;
+
+XXIII. Obras públicas asociadas a proyectos de infraestructura: Las obras que tienen por objeto la construcción, ampliación o modificación de bienes inmuebles destinados directamente a la prestación de servicios de comunicaciones, transportes, hidráulico, medio ambiente, turístico, educación, salud y energético;
+
+XXIV. Presupuesto de obra o de servicio: El recurso estimado que la dependencia o entidad determina para ejecutar los trabajos en el que se desglosa el listado de conceptos de trabajo o actividades, unidades de medida, cantidades de trabajo y sus precios;
+
+XXV. Proyecto arquitectónico: El que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
+
+XXVI. Proyecto ejecutivo: El conjunto de planos y documentos que conforman los proyectos arquitectónico y de ingeniería de una obra, el catálogo de conceptos, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
+
+XXVII. Proyecto de ingeniería: El que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales y particulares aplicables, así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
+
+XXVIII. Residencia de Supervisión: La facultada por las Dependencias, por las áreas administrativas, por las entidades paraestatales, ayuntamientos y entidades paramunicipales y/o cualquier área o dependencia o entidad de cualquiera de los poderes a que se refiere la presente Ley;
+
+XXIX. Secretaría: La Secretaría de Comunicaciones y Obras Públicas y/o la dependencia que conforme (sic) atribución le corresponda para los ayuntamientos del estado;
+
+XXX. Sector: El agrupamiento de dependencias o entidades que tengan las atribuciones y funciones para cumplir con lo señalado por los artículos 1° y 2° de la presente Ley y que será coordinado por la Dependencia que designe el titular del Poder Ejecutivo Estatal; y,
+
+XXXI. Superintendente de construcción: El representante del contratista ante la dependencia, entidad o ayuntamiento contratante, con facultades necesarias para el debido cumplimiento de las obligaciones contractuales, con perfil y grado académico de nivel licenciatura en las áreas de ingeniería civil o arquitectura.
 
 ###### Artículo 4°.
 
 El gasto de la obra pública del Gobierno del Estado y de los ayuntamientos se sujetará a lo previsto en sus respectivos Presupuestos de Egresos, y en lo conducente a las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 5°.
 
-La aplicación de la presente Ley estará a cargo del titular del Ejecutivo Estatal por conducto de la Secretaría, y de los ayuntamientos cuando las obras sean realizadas con recursos financieros propios, y la vigilancia de su cumplimiento se hará por medio de la Coordinación y del Ayuntamiento; así como de la Contaduría General de Glosa en el ámbito de su competencia, sin perjuicio de la intervención que corresponda a otras dependencias conforme a esta Ley o a otras disposiciones legales.
+La aplicación de la presente Ley estará a cargo del titular del Ejecutivo Estatal por conducto de la Secretaría, y de los ayuntamientos cuando las obras sean realizadas con recursos financieros propios, y la vigilancia de su cumplimiento se hará por medio de la Coordinación y del Ayuntamiento; así como de la Auditoría Superior de Michoacán en el ámbito de su competencia, sin perjuicio de la intervención que corresponda a otras dependencias conforme a esta Ley o a otras disposiciones legales.
 
 ###### Artículo 6°.
 
@@ -107,13 +187,39 @@ La ejecución de las obras públicas que realicen las dependencias, entidades, a
 
 En tratándose de obras que realicen los ayuntamientos y las entidades paramunicipales, con financiamiento total o parcial de recursos financieros estatales, conforme a los convenios que se celebren, se deberán observar, además, las disposiciones que dicten las autoridades estatales conforme a su competencia, y en este caso, su vigilancia estará a cargo también de la Coordinación.
 
-Los ayuntamientos, con apego a las disposiciones de esta Ley, expedirán las normas y disposiciones administrativas, que deberán observarse en la ejecución de las obras públicas que realicen con recursos financieros propios; su vigilancia, supervisión y control estará a cargo del órgano competente del propio ayuntamiento.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Los ayuntamientos, con apego a las disposiciones de esta Ley, expedirán las normas y disposiciones administrativas, que deberán observarse en la ejecución de las obras públicas que realicen con recursos financieros propios; su vigilancia, supervisión y control estará a cargo de la Auditoría Superior de Michoacán y del órgano competente del propio ayuntamiento.
 
 Las obras que ejecuten las dependencias, entidades, ayuntamientos y entidades paramunicipales financiadas con recursos derivados de la obtención de créditos provenientes de instituciones bancarias, organismos nacionales, fondos de fomento económico, fideicomisos, o bien, de empresas constructoras legalmente constituidas en el país y en general de cualquier persona física o moral de nacionalidad mexicana, se regirán por lo dispuesto en la presente Ley, la Ley de Deuda Pública del Estado y en los demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Los estudios, planes o programas asociados al desarrollo que al efecto emita el Estado y los municipios deberán estar acorde con el plan de Desarrollo Federal y Estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las dependencias y entidades realizarán el análisis de los estudios, planes o programas asociados a proyectos de infraestructura, con el objeto de determinar su viabilidad, así como su congruencia con el Plan de Desarrollo que al efecto se emita y los programas correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Asimismo, las dependencias y entidades notificarán al promovente de los estudios, planes o programas a que se refiere el párrafo anterior, su autorización, negativa o, en su caso, las observaciones que formulen en relación a éstos, en un plazo que no excederá de tres meses contado a partir de la fecha de presentación del estudio, plan o programa correspondiente, sin que contra esta determinación proceda recurso alguno.
 
 ###### Artículo 7°.
 
 Las dependencias, entidades, ayuntamientos y entidades paramunicipales, ejecutarán las obras públicas por contratos o por administración directa.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+En la contratación que para la ejecución de las obras, así como para la contratación de servicios relacionados con estas, las dependencias de los poderes del Estado, entidades paraestatales, ayuntamientos y entidades paramunicipales, considerarán en igualdad de condiciones y circunstancias a los contratistas, ya sean personas físicas o morales, que reuniendo las condiciones legales, técnicas y económicas y encontrándose registradas en el padrón de contratistas de obras públicas del Estado tengan su domicilio fiscal, operación y arraigo en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+En la ejecución de las obras que las dependencias de la administración pública, entidades paraestatales, y entidades paramunicipales pretendan realizar, deberán verificar previamente a la realización de la obra que pretendan ejecutar, el contar con personal, equipo y disponibilidad presupuestal suficiente para ello. La suma del importe de los recursos a ejercer en obras por administración directa no deberá exceder del 15% quince por ciento del total de los recursos que a cada dependencia o entidad se le asignen conforme al presupuesto de egresos del año de que se trate, tratándose de Ayuntamientos y entidades paramunicipales, se estará a lo que para ello disponga el cabildo o bien el órgano de gobierno de las entidades.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las ampliaciones presupuestales que se den a cada dependencia o entidad, de cualquier nivel en el Estado o en el municipio, deberán de ejercerse invariablemente por contrato.
 
 ###### Artículo 8°.
 
@@ -143,17 +249,31 @@ II. Jerarquizar las mismas en función de las necesidades que se tengan y del be
 
 III. Respetar las disposiciones legales y administrativas aplicables;
 
-IV. Prever los requerimientos de áreas y predios para la obra pública;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
 
-V. Considerar la disponibilidad de los recursos con relación a las necesidades de la obra pública;
+IV. Prever los requerimientos de áreas y predios para la obra pública y obtener los derechos de previa ocupación o posesión y en su caso de propiedad, ya sea por adquisición o donación en cuanto a aportación de los beneficiarios de las obras;
 
-VI. Prever las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones necesarias para poner aquéllas en servicio, estableciendo las etapas que se requiera para su terminación;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+V. Considerar la disponibilidad y suficiencia presupuestal de los recursos con relación a las necesidades de la obra pública;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+VI. Prever las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones necesarias para poner aquéllas en servicio, estableciendo las etapas que se requiera para su terminación y en consecuencia la ministración de recursos que para ello se determine;
 
 VII. Considerar la tecnología aplicable en función de la naturaleza de las obras, y la selección de materiales, productos, equipos y procedimientos de tecnología nacional preferentemente, que satisfagan los requerimientos técnicos y económicos del proyecto;
 
-VIII. Tomar en cuenta preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras; y,
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
 
-IX. Prever los efectos y consecuencias sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de manifestación de impacto ambiental previstos por la Ley de Protección al Ambiente del Estado. Los proyectos deberán incluir las obras necesarias para que se preserven y restauren las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará la intervención que corresponda a las dependencias y entidades que tengan atribuciones en la materia.
+VIII. Tomar en cuenta preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+IX. Prever los efectos y consecuencias sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de manifestación de impacto ambiental previstos por la Ley Ambiental para el Desarrollo Sustentable del Estado. Los proyectos deberán incluir las obras necesarias para que se preserven y restauren las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará la intervención que corresponda a las dependencias y entidades que tengan atribuciones en la materia; y,
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+X. Prever que toda instalación pública asegure la accesibilidad, evacuación y libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas oficiales vigentes de diseño y de señalización, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad.
 
 ###### Artículo 11.
 
@@ -185,7 +305,9 @@ Las dependencias, entidades, ayuntamientos y entidades paramunicipales, al deter
 
 En la programación de la obra pública, las dependencias, entidades, ayuntamientos y entidades paramunicipales, deberán prever la realización de los estudios y proyectos ejecutivos, arquitectónicos y de ingeniería que se requieran y las normas y especificaciones de construcción aplicables.
 
-Por cada obra pública que se realice, deberá integrarse un expediente técnico.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Por cada obra pública que se realice, deberá integrarse un expediente técnico, el cual deberá contener como mínimo: Solicitud de la obra, cedula de información básica y justificación de la obra, presupuesto base, precios unitarios, aprobación de la obra, convenio de concertación, acuerdo de modalidad de ejecución, acta de modificación presupuestal, acta de rangos autorizados para la modalidad de contratación, proyecto técnico, croquis de macro localización y micro localización, planos, programa de ejecución de obra, explosión de insumos, proceso de adjudicación de la obra o licitación, recibo del padrón de contratistas, contrato, aviso de inicio de obra, fianza de anticipo, fianza de cumplimiento, fianza de vicios ocultos, bitácora de obra, bitácora de maquinaria, facturas, estimaciones, generadores de obra, listas de raya, generadores de listas de raya, pruebas de calidad, penas convencionales, solicitud de autorización de precios atípicos, convenio(s) modificatorio (tiempo y/o monto), aviso de terminación de obra, acta de entrega-recepción, finiquito de obra y documentación comprobatoria del gasto.
 
 El programa de la obra pública, indicará las fechas previstas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación y las características ambientales, climáticas y geográficas de la región donde deba realizarse.
 
@@ -197,7 +319,9 @@ I. Las investigaciones, asesorías, consultarías y estudios especializados, la 
 
 II. La regularización y adquisición de la tierra, así corrió aquellos que correspondan a la obtención de dictámenes, permisos, licencias y demás autorizaciones que se requieran;
 
-III. La ejecución, que deberá contemplar el costo estimado de la obra que se realice por contrato. En caso de realizarse por administración directa, los costos de los recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipo o de cualquier otro accesorio relacionado con la obra, los cargos adicionales para prueba y funcionamiento, no considerándose los indirectos de obra;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+III. La ejecución, que deberá contemplar el costo estimado de la obra que se realice por contrato, incluyendo un porcentaje por ajuste de costos y gastos de financiamiento, mismos que se deberán de considerar tomando como valores de referencia los últimos dos periodos que en índices inflacionarios sean publicados por el órgano o entidad pública correspondiente. En caso de realizarse por administración directa, los costos de los recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipo o de cualquier otro accesorio relacionado con la obra, los cargos adicionales para prueba y funcionamiento, no considerándose los indirectos de obra;
 
 IV. Las obras de infraestructura complementarias que requiera la obra;
 
@@ -207,15 +331,19 @@ VI. Los trabajos de conservación y mantenimiento ordinario, preventivo y correc
 
 VII. Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 15.
 
-En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se atenderá a los costos que, en ese momento se encuentren vigentes.
+En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total que incluya los factores de probables incrementos o ajuste de costos, así como de financiamientos, los cuales dependerán del tiempo que para ejecutar la obra en relación con la probable autorización se tenga, en función a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se atenderá a los costos que, en ese momento se encuentren vigentes.
 
 ### CAPITULO SEGUNDO. DEL PADRON DE CONTRATISTAS DE OBRAS PUBLICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 16.
 
-La Secretaría llevará el padrón de contratistas de obras públicas y fijará los criterios y procedimientos para clasificar a las personas físicas o morales inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica, y residencia.
+La Secretaría llevará el padrón de contratistas de obras públicas y fijará los criterios y procedimientos para clasificar a las personas físicas o morales inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica, y domicilio legalmente acreditado conforme a las disposiciones jurídicas civiles y fiscales que de acuerdo con el origen de la constitución de la sociedad o la operación de la persona física resulten aplicables.
 
 El Padrón de Contratistas se publicará anualmente dentro del primer semestre en el Periódico Oficial del Estado, y trimestralmente por este medio se hará del conocimiento de las dependencias, entidades, ayuntamientos y entidades paramunicipales de los cambios que se registren.
 
@@ -223,17 +351,51 @@ Las dependencias, entidades, ayuntamientos y entidades paramunicipales, sólo po
 
 La clasificación a que se refiere este artículo, deberá ser considerada por las dependencias, entidades, ayuntamientos y entidades paramunicipales, en la convocatoria y contratación de obras públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 17.
 
-Las personas interesadas en registrarse en el Padrón de Contratistas de Obras Públicas, deberán solicitarlo por escrito a la Secretaría y satisfacer los requisitos que establezca el Reglamento de esta Ley.
+Las personas físicas o morales interesadas en registrarse en el Padrón de Contratistas de Obras Públicas, deberán solicitarlo por escrito a la Secretaría acreditando ante ésta los siguientes requisitos:
 
-El registro en el Padrón de Contratistas de Obras Públicas tendrá vigencia de un año. Los contratistas tendrán la obligación de notificar a la Secretaría cualquier cambio en la información que proporcionaron para obtener su registro.
+I. Datos generales de la interesada;
+
+II. Capacidad legal de la solicitante;
+
+III. Domicilio de la persona, acreditando residencia en los términos del artículo anterior;
+
+IV. Curriculum de la empresa y de su personal técnico de planta anexando copia de la cédula o título profesional de estos, ello para efectos de experiencia y especialidad;
+
+V. Capacidad y recursos técnicos, económicos y financieros;
+
+VI. Relación de maquinaria y equipo propio, o de otras empresas filiales;
+
+VII. Última declaración anual del Impuesto Sobre la Renta;
+
+VIII. Testimonio de la Escritura Constitutiva y reformas en su caso;
+
+IX. Inscripción en el Registro Federal de Contribuyentes, registro en el Instituto Mexicano del Seguro Social (IMSS), así como en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT);
+
+X. Certificados de capacitación laboral expedida por la Secretaría del Ramo, constancias de cursos de capacitación, certificaciones y/o reconocimientos;
+
+XI. En su caso, copia de la instalación de sistemas de gestión de calidad, o de estar en proceso de certificación en sistemas de calidad, que se encuentren acreditados; así como aquella documentación que acredite prácticas de responsabilidad social empresarial; y,
+
+XII. El pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las personas interesadas, al quedar inscritos en el Padrón de Contratistas de Obras Públicas adquieren el carácter de contratistas. La Secretaría enviara a la Coordinación mensualmente el Padrón a efecto de que las especialidades otorgadas a los contratistas sean congruentes con la información para ello presentada por los interesados. El registro en el Padrón de Contratistas de Obras Públicas tendrá vigencia de un año. Los contratistas tendrán la obligación de notificar a la Secretaría cualquier cambio en la información que proporcionaron para obtener su registro.
 
 La Secretaría podrá verificar en cualquier tiempo la información que los contratistas hubieren aportado para la obtención de su registro.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales, serán responsables de la protección de datos personales e información sensible en los términos de la Ley de Transparencia y Acceso a la Información Pública en vigor.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 18.
 
-La Secretaría dentro de un término que no excederá de veinte días hábiles, contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción. Transcurrido este plazo sin que haya respuesta se tendrá por registrado al solicitante.
+La Secretaría dentro de un término que no excederá de veinte días hábiles, contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción. Transcurrido este plazo sin que haya respuesta se tendrá por registrado al solicitante sin necesidad de tramitación adicional alguna, salvo el pago de derechos correspondiente y el responsable de la omisión se hará acreedor a la sanción administrativa aplicable.
 
 ###### Artículo 19.
 
@@ -245,17 +407,27 @@ I. Se les declare en estado de suspensión de pagos o bajo un procedimiento de q
 
 II. No cumplan en sus términos con algún contrato, incurran en cualquier acto u omisión por causa imputable a ellos, y perjudiquen con ello los intereses de la entidad, dependencia, Ayuntamiento y entidades paramunicipales que correspondan, o el interés general;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
 
-III. Hayan celebrado contratos en contravención con lo dispuesto en esta Ley, por causas que le sean imputables; y,
+III. Hayan celebrado contratos en contravención con lo dispuesto en esta Ley, por causas que le sean imputables;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 IV. Cuando el contratista, o alguno de sus socios, en caso de ser personal moral, haya sido sancionado o inhabilitado por cualquier entidad del país, mediando causa imputable a su giro como constructora o como funcionario de las propias entidades responsables de la contratación de obra pública.
 
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+V. Cuando haya proporcionado información o documentos que contengan información falsa o alterada; y,
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+VI. Por contravención a las disposiciones legales en vigor.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 20.
 
-Contra las resoluciones que nieguen la inscripción o determinen la suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas, el interesado podrá interponer recurso de revocación en los términos de esta Ley.
+Contra las resoluciones que nieguen la inscripción o determinen la suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas, el interesado podrá interponer los recursos legales correspondientes.
 
 ### CAPITULO TERCERO. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
@@ -271,35 +443,89 @@ Para la ejecución de los proyectos integrales o llave en mano, que comprenden d
 
 No quedan comprendidos dentro de los servicios a que se refiere el artículo anterior, aquellos que tengan como finalidad la contratación y ejecución de la obra por cuenta y orden de las dependencias, entidades, ayuntamientos o entidades paramunicipales de que se trate, por lo que no podrán celebrarse contratos de servicio para tal objeto.
 
-### CAPITULO CUARTO. DE LA EJECUCION DE LAS OBRAS
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Solo para el caso en que se incrementara la obra se podrá modificar lo antes mencionado siempre y cuando no contravenga las disposiciones normativas en la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2015)</small>
+
+### CAPITULO CUARTO. DE LA ADJUDICACION, CONTRATACION Y EJECUCION DE LAS OBRAS
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 23.
 
-Las dependencias, entidades, ayuntamientos y entidades paramunicipales, podrán realizar las obras públicas mediante los procedimientos siguientes:
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales, para la realización de las obras públicas o prestación de servicios relacionados con estas, seleccionarán de entre los procedimientos que a continuación se señalan, aquél que de acuerdo con la naturaleza de la contratación asegure las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes:
 
 I. Por contrato:
 
-a) Por licitación pública; y,
+a) Licitación pública;
 
-b) Por invitación restringida, la que comprenderá:
+b) Invitación restringida; y,
 
-1) La invitación a cuando menos tres contratistas; y,
-
-2) La adjudicación directa; y,
+c) Adjudicación directa.
 
 II. Por administración directa.
 
+Las dependencias y entidades de los poderes del Gobierno del Estado que entre sus atribuciones se encuentren facultadas para realizar obra, podrán llevar a cabo la ejecución de cualquier obra o prestación de servicios relacionados con las mismas únicamente bajo las modalidades antes señaladas ajustándose en todo momento a las disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 23 Bis.
+
+Se crea un Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública y Servicios Relacionados, como un Órgano del Ejecutivo del Estado de carácter interinstitucional, el cual, tiene por objeto emitir opinión y dictamen, debidamente fundado y motivado, previo al fallo, respecto de los procedimientos referentes a la adjudicación de obras públicas y servicios relacionados con la misma, tanto por licitación pública como por Invitación a cuando menos tres personas, con las facultades siguientes:
+
+I. Revisar, analizar y dictaminar sobre los procedimientos de licitación para la adjudicación de la obra pública propuestas (sic) por las dependencias y entidades de la Administración Pública del Estado;
+
+II. Revisar que las bases del concurso y las convocatorias de obra pública para las licitaciones públicas e invitación a cuando menos tres personas, se apeguen a lo previsto por las disposiciones aplicables;
+
+III. Emitir opinión y dictamen respecto a los expedientes que le sean sometidos, a efecto de que sirvan de base para el fallo que corresponda emitir a la dependencia o entidad ejecutora;
+
+IV. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables; y,
+
+V. Las demás que sean necesarias para el cumplimiento de su objetivo y aquellas que determinen otras disposiciones aplicables.
+
+Previo al inicio de los procedimientos de contratación y la emisión del fallo de las obras públicas, las dependencias y entidades del Gobierno del Estado deberán enviar al Comité la documentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 23 Ter.
+
+El Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública y Servicios Relacionados, estará integrado por los siguientes miembros:
+
+I. El Titular de la Secretaría;
+
+II. El Titular de la Secretaría de Finanzas y Administración;
+
+III. El Titular de la Secretaría de Urbanismo y Medio Ambiente;
+
+IV. El Titular de la Coordinación; y,
+
+V. El Titular del área requirente.
+
+Como invitado permanente, el titular de la Cámara de la delegación Michoacán, sólo con derecho a voz.
+
+Además con el objeto de garantizar la participación ciudadana en su conformación, se deberá invitar a los representantes de las Cámaras que correspondan, asociaciones, colegios de profesionistas y ciudadanos reconocidos por la comunidad para verificar la transparencia de los procedimientos de licitación y adjudicación, sólo con derecho a voz.
+
+La organización, funcionamiento e intervención del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública y Servicios Relacionados, deberá apegarse a lo dispuesto en el reglamento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 24.
 
-Las dependencias, entidades, ayuntamientos y entidades paramunicipales, podrán realizar obras públicas por administración directa, cuando posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico con experiencia en construcción que se requiera para el desarrollo de los trabajos respectivos, y podrán, según el caso:
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales, podrán en los términos de la presente Ley y demás disposiciones legales aplicables, realizar obras públicas por administración directa, cuando posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico con experiencia acreditada en construcción que se requiera para el desarrollo de los trabajos respectivos, y podrán, según el caso:
 
 I. Utilizar la mano de obra local complementaria que se requiera, contratándola invariablemente por tiempo determinado u obra, con las prestaciones que la ley de la materia establece; y,
 
-II. Alquilar el equipo, maquinaria de construcción, los servicios de fletes y acarreos complementarios que se requieran, observando la legislación y disposiciones administrativas aplicables.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+II. Alquilar el equipo, maquinaria de construcción, los servicios de fletes y acarreos complementarios que se requieran, observando la legislación y disposiciones administrativas aplicables. El equipo complementario, en ningún supuesto comprenderá el básico.
 
 En la ejecución de obra por administración directa, la dependencia, entidad, ayuntamiento o entidad paramunicipal no podrá contratar a terceros como contratistas, independientemente de las modalidades que éstos adopten.
 
-Previamente a la ejecución de la obra, la dependencia, entidad ayuntamiento o entidad paramunicipal emitirá el acuerdo respectivo, que contendrá: la descripción pormenorizada de la obra que se debe ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Previamente a la ejecución de la obra, la dependencia, entidad, ayuntamiento o entidad paramunicipal de que se trate, por conducto de sus titulares o de sus órganos de gobierno en el caso de las entidades paraestatales, emitirá el acuerdo respectivo, debidamente fundado y motivado, que contendrá: la descripción pormenorizada de la obra que se debe ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente.
 
 En la ejecución de las obras a que se refiere este artículo, la Coordinación y los ayuntamientos, podrán en cualquier tiempo verificar que se cuente con el expediente técnico, los programas de ejecución, así como de utilización de recursos humanos, maquinaria y equipo de construcción, los cuales deberán contar con la validación de la Dependencia Coordinadora del Sector, en su caso.
 
@@ -307,41 +533,97 @@ En la ejecución de las obras a que se refiere este artículo, la Coordinación 
 
 Para que las dependencias, entidades, ayuntamientos y entidades paramunicipales puedan realizar obras, será necesario que:
 
-I. Las obras estén incluidas en el programa general de obras públicas del Gobierno del Estado y/o del Municipio, y acordes con los planes de desarrollo; que exista la disponibilidad presupuestal o crediticia y, en su caso, que se haya expedido el oficio de autorización de liberación de recursos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+I. Las obras que estén incluidas en el programa general de obras públicas del Gobierno del Estado y/o del Municipio, y acordes con los planes de desarrollo; que se considere la Suficiencia presupuestal necesaria para la total ejecución de la obra de que se trate o la realización de los servicios; que exista la disponibilidad presupuestal o crediticia de acuerdo con la suficiencia presupuestal considerada, o bien, que se haya expedido el oficio de autorización de liberación de recursos o para obras financiadas con recursos provenientes de los contratistas, certificado de aprobación de ejecución de obra expedido por la Secretaría de Finanzas y Administración; para el supuesto del Poder Legislativo en este caso el certificado deberá ser avalado por la Junta de Coordinación Política; para el supuesto del Poder Judicial en este caso el certificado deberá ser avalado por el Consejo del Poder Judicial del Estado de Michoacán y para efecto de los Ayuntamientos y sus entidades Paramunicipales, deberá contar con la aprobación del Ayuntamiento;
 
 II. Se cuente con los estudios y proyectos ejecutivos; las normas y especificaciones de construcción; y el programa de ejecución; y,
 
 III. Se cumplan los trámites o gestiones complementarios que se relacionen con la obra y los que deban realizarse conforme a las disposiciones federales, estatales y municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 26.
 
-Los contratos de obra pública por regla general, se adjudicarán a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten propuestas solventes en dos sobres cerrados que contendrán por separado la propuesta técnica y la propuesta económica, que serán abiertos públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo a lo que establece la presente Ley. El acto de presentación y apertura de propuestas se llevará a cabo en dos etapas, en la primera, se procederá exclusivamente a la apertura de propuestas de carácter técnico, y en la segunda, a la apertura de propuestas económicas. En el Reglamento de esta Ley se establecerá el procedimiento de apertura de sobres y su contenido.
+Los contratos de obra pública por regla general, se adjudicarán a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten propuestas solventes en sobre cerrado que contendrá por separado la propuesta técnica y la propuesta económica, propuesta que será abierta públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo a lo que establece la presente Ley.
 
 Se exceptúan de lo dispuesto en el párrafo anterior, aquellos casos en que el contrato solo pueda celebrarse con una determinada persona, por ser la titular de la o las patentes necesarias, para realizar la obra.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Los documentos con los que los licitantes acrediten su existencia legal y las facultades de su representante para suscribir el contrato correspondiente no será necesario presentarlos en los procedimientos de licitación a que se refiere esta ley, bastando únicamente con manifestar en escrito libre el número que de contratista tenga asignado en el padrón, así como los datos generales de la persona moral o física de que se trate, dicha manifestación se hará bajo protesta de decir verdad que en el citado registro la información se encuentra completa y actualizada; de igual manera en tratándose de licitaciones públicas, los interesados al quedar inscritos en una licitación y habiendo acreditado cada uno de los requisitos que para ello se exijan por las áreas convocantes quedarán exentos de presentar la documentación relativa presentada con antelación a los actos de presentación y apertura de propuestas, el Reglamento de esta ley deberá de precisar los requisitos que sin excepción habrán de cubrirse en las licitaciones y que serán materia de evaluación y en consecuencia afectan la solvencia de la misma.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 26 Bis.
+
+En las licitaciones públicas se podrán utilizar medios electrónicos, conforme a las disposiciones administrativas que emita la Coordinación. Lo anterior, sin perjuicio de que los licitantes puedan optar por presentar sus proposiciones por escrito durante el acto de presentación y apertura de proposiciones para ello establecido, y en cumplimiento a lo establecido en la presente Ley y su Reglamento.
+
+En el caso de las proposiciones presentadas a través de medios electrónicos conforme a los lineamientos que para ello disponga la Coordinación y los órganos de Control para las demás áreas contratantes en el caso de los poderes judicial y legislativo o bien el cabildo para los efectos de los ayuntamientos y entidades paramunicipales, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto se establezcan.
+
+Las proposiciones en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, al emplearse medios de identificación electrónica, producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+
+En el caso que los licitantes opten por el uso de dichos medios para enviar sus proposiciones, ello no limita que participen en los diferentes actos derivados de las licitaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 26 Ter.
+
+El acto de presentación y apertura de proposiciones se llevará a cabo en el día, lugar y hora previstos en la convocatoria y bases de la licitación, conforme a lo siguiente:
+
+I. Una vez recibidas las proposiciones en sobre cerrado, se procederá a su apertura, haciéndose constar la documentación presentada, sin que ello implique la evaluación de su contenido;
+
+II. Los licitantes que hayan asistido, en forma conjunta con el servidor público que la dependencia o entidad designe, rubricarán los catálogos de conceptos o presupuestos, así como programas de las proposiciones; y,
+
+III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar el importe de cada una de ellas; se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación.
+
+Las dependencias y entidades para hacer la evaluación de las proposiciones, deberán verificar que las mismas cumplan con los requisitos solicitados en las bases de la licitación, para tal efecto, la convocante deberá establecer los procedimientos y los criterios claros y detallados para determinar la solvencia de las proposiciones, dependiendo de las características, complejidad y magnitud de los trabajos por realizar, sin que en ello vaya implícita condición alguna de discrecionalidad o criterio personal, por lo que toda condición para ello establecida deberá ser debidamente fundada y motivada en normas de carácter general.
+
+A los actos del procedimiento de licitación pública e invitación restringida podrá asistir cualquier persona en calidad de observador, bajo la condición de registrar su asistencia y abstenerse de intervenir en cualquier forma en los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 27.
 
-Las convocatorias, que podrán referirse a una o más obras o servicios relacionados, se publicarán en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el Estado, y contendrán:
+Las convocatorias, que podrán referirse a una o más obras o servicios relacionados, se publicarán en el Periódico Oficial del Estado, en los portales electrónicos oficiales así como en los sitios de la Coordinación y de la Dependencia, entidad, secretaría o entidad paramunicipal convocante, y en uno de los diarios de mayor circulación en el Estado, en el caso de los ayuntamientos la difusión electrónica será a través de sus portales electrónicos y contendrán:
 
 I. El nombre de la dependencia, entidad, ayuntamiento o entidad paramunicipal convocante;
 
-II. El lugar y descripción general de la obra que se desee ejecutar;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
 
-III. Los requisitos que deberán cumplir los interesados;
+II. El lugar y descripción general de la obra, servicio o proyecto de obra asociada a proyecto de infraestructura que se desee ejecutar;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+III. Los requisitos que deberán cumplir los interesados los cuales por ningún motivo quedarán sujetos a disposiciones de carácter discrecional o reservado;
 
 IV. La información sobre el domicilio en donde se podrán obtener las bases y documentos necesarios para participar en el concurso, así como el costo de las mismas;
 
 V. La información sobre los anticipos;
 
-VI. El plazo para la inscripción en el concurso, que no podrá ser menor de cinco días hábiles contados a partir de la fecha de la publicación de la convocatoria;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
 
-VII. La fecha y hora de la visita obligatoria al sitio de la obra dentro de los tres días hábiles siguientes al cierre de inscripción;
+VI. El plazo para la inscripción en el concurso, que no podrá ser menor de cinco días hábiles, ni mayor de diez días hábiles, contados a partir de la fecha de la publicación de la convocatoria;
 
-VIII. El lugar y fecha para la celebración del acto de presentación y apertura de proposiciones, el que se celebrará dentro de los cinco días naturales siguientes al día de la visita a la obra;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
 
-IX. La especialidad que se requiera para participar en el concurso;
+VII. La fecha y hora en que se efectuará la visita al sitio de la obra, misma que será optativa para los interesados y obligatoria para las áreas convocantes y la cual se deberá realizar dentro de los tres días hábiles siguientes al cierre de inscripción;
 
-X. El plazo de ejecución de los trabajos determinados en días, indicando la fecha estimada de inicio y terminación de los mismos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+VIII. El lugar y fecha para la celebración del acto de presentación y apertura de proposiciones, el que se celebrará dentro de los cinco días naturales, y en casos de excepción, dependiendo de la complejidad de la obra, servicio o proyecto, dentro de los diez días naturales siguientes al día de la visita a la obra;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+IX. La especialidad que se requiera para participar en el concurso, misma que deberá ser congruente a los conceptos o partidas relativas a la obra a realizar;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+X. El plazo de ejecución de los trabajos determinados en días naturales, indicando la fecha estimada de inicio y terminación de los mismos;
 
 XI. La garantía que deberá otorgarse para asegurar la seriedad de la proposición; y,
 
@@ -350,6 +632,10 @@ XII. Los criterios conforme a los cuales se decidirá la adjudicación.
 En los procedimientos de invitación restringida, las invitaciones correspondientes deberán ajustarse a los requisitos que para las convocatorias se establecen en el presente artículo.
 
 En el ejercicio de sus atribuciones, la Coordinación, los ayuntamientos y el órgano de gobierno respectivo de las entidades paramunicipales, podrán intervenir en todo el proceso de adjudicación del contrato.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Cuando por los umbrales de la inversión se encuadre en el supuesto de una licitación de origen internacional, la Secretaría y la Coordinación, en el ámbito de sus respectivas competencias y a solicitud de las dependencias, entidades, ayuntamientos y entidades paramunicipales, emitirán opinión que de origen a la emisión de un acuerdo administrativo en el que se fijen las condiciones que habrán de regir esa licitación, atendiendo siempre a las condiciones que en los tratados internacionales rijan.
 
 ###### Artículo 28.
 
@@ -383,29 +669,61 @@ XIII. Información específica sobre las partes de la obra que podrán subcontra
 
 XIV. Fecha de inicio de los trabajos y fecha estimada de terminación;
 
-XV. Modelo de contrato; y,
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+XV. Modelo de contrato;
 
 XVI. Condiciones de precio y, tratándose de contratos celebrados a precio alzado, las condiciones de pago.
 
-Los requisitos y condiciones que contengan las bases de la licitación, deberán ser los mismos para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega; plazos para la ejecución de los trabajos; normalización; forma y plazo de pago; penas convencionales; anticipos y garantías.
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+XVII. Los recursos legales o medios de defensa de que los interesados y licitantes pueden hacer uso cuando surjan controversias o se lesionen sus derechos;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+XVIII. Precisar que será requisito el que los licitantes presenten una declaración de integridad, en la que manifiesten, bajo protesta de decir verdad, que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas, para que los servidores públicos de la dependencia o entidad, induzcan o alteren las evaluaciones de las proposiciones, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+XIX. Las penas convencionales que se aplicarán por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función del importe de los trabajos no ejecutados en la fecha pactada en el contrato para la conclusión total de las obras, pudiéndose pactar que las penas convencionales se aplicarán por atraso en el cumplimiento de las fechas críticas establecidas en el programa de ejecución general de los trabajos. En ningún caso las penas convencionales podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento; y,
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+XX. El señalamiento de que las dependencias, entidades, ayuntamientos y entidades paramunicipales, en caso de atraso en la ejecución de los trabajos durante la vigencia del programa de ejecución general de los trabajos, aplicarán retenciones económicas a las estimaciones que se encuentren en proceso en la fecha que se determine el atraso, las cuales serán calculadas en función del avance en la ejecución de los trabajos conforme a la fecha de corte para el pago de estimaciones pactada (sic) en el contrato. Dichas retenciones podrán ser recuperadas por los contratistas en las siguientes estimaciones, si regularizan los tiempos de atraso conforme al citado programa.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Los requisitos y condiciones que contengan las bases de la licitación, deberán ser los mismos para todos los participantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 29.
 
-Todo interesado que satisfaga los términos de la convocatoria, requisitos y condiciones que contengan las bases de licitación, tendrá derecho a presentar proposiciones. Para tal efecto, las dependencias, entidades, ayuntamientos y entidades paramunicipales, no podrán exigir requisitos adicionales a los previstos por esta Ley y su Reglamento.
+Todo interesado que satisfaga los términos de la convocatoria, requisitos y condiciones que contengan las bases de licitación, previa inscripción en la licitación de que se trate y cuando sea el caso, habiendo cubierto el costo que se fije a las bases de licitación, tendrá derecho a presentar proposiciones. Para tal efecto, las dependencias, entidades, ayuntamientos y entidades paramunicipales, no podrán exigir requisitos adicionales a los previstos por esta Ley y su Reglamento.
 
 Asimismo, proporcionarán a todos los interesados, igual acceso a la información relacionada con la licitación.
 
-El plazo para la presentación y apertura de proposiciones, será cuando menos de diez días naturales, contados a partir de la fecha de la publicación de la convocatoria.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
-Las empresas con quienes se contrate la realización de obras públicas y servicios relacionados con las mismas, podrán presentar conjuntamente proposiciones en las correspondientes licitaciones, sin necesidad de constituir una nueva sociedad, siempre que, para tales efectos, al celebrar el contrato respectivo se establezcan con precisión a satisfacción de las dependencias, entidades, ayuntamientos o entidades paramunicipales, las partes de la obra que cada empresa se obliga a ejecutar, así como la manera en que, en su caso, se exigiría el cumplimiento de las obligaciones.
+Dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad en el caso de personas físicas, o una nueva sociedad en caso de personas morales, siempre que, en la proposición y en su caso a la celebración del contrato correspondiente, se establezcan con precisión a satisfacción de las dependencias, entidades, ayuntamientos o entidades paramunicipales, las partes de los trabajos que cada persona se obliga a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la proposición deberá ser firmada autógrafamente por el representante común que para ese acto haya sido designado por quienes en su caso se asocien.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Para efecto de lo anterior previo a la solicitud de inscripción a la licitación de que se trate, los interesados deberán celebrar convenio privado debidamente ratificado ante fedatario público, el que deberá cumplir cuando menos en su clausulado con los requisitos que al efecto se determinan en el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Cuando la proposición ganadora de la licitación haya sido presentada en forma conjunta, el contrato deberá ser firmado por el representante legal de cada una de las personas participantes en la proposición, a quienes se considerará, para efectos del procedimiento y del contrato, como responsables solidarios o mancomunados, según se establezca en el propio contrato.
 
 ###### Artículo 30.
 
 En los supuestos y con sujeción a las formalidades que prevé el artículo 51, las dependencias, entidades, ayuntamientos y entidades paramunicipales podrán optar por contratar las obras que en las propias, disposiciones se señalan, sin llevar a cabo las licitaciones que se establecen en los artículos 26 y 52 de esta Ley.
 
-La opción que las dependencias, entidades, ayuntamientos y entidades paramunicipales ejerzan en los términos del párrafo anterior, deberá fundarse según las circunstancias que concurran en cada caso, con criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o el Municipio.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
-En el dictamen a que se refiere el artículo 33, deberán acreditar que la obra de que se trata, se encuentra en alguno de los supuestos previstos en el artículo 51, expresando, de entre los criterios mencionados, aquéllos en que se funda el ejercicio de la opción.
+La selección del procedimiento de excepción que realicen las dependencias, entidades, ayuntamientos y entidades paramunicipales deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado o el Municipio. El acreditamiento del o los criterios en los que se funde; así como la justificación de las razones en las que se sustente el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular del área responsable de la ejecución de los trabajos, remitiéndolo al Comité para su validación o rechazo correspondiente.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 31.
 
@@ -417,13 +735,17 @@ II. La correcta inversión de los anticipos que, en su caso reciban, mediante fi
 
 III. El cumplimiento de los contratos, mediante fianza otorgada por el 10% del monto contratado.
 
-Las garantías previstas en las fracciones II y III de este artículo, deberán presentarse dentro de los quince días naturales siguientes a la fecha en que el contratista formalice el contrato; y el o los anticipos correspondientes se entregarán a más tardar dentro de los quince días naturales siguientes a la presentación de la garantía.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las garantías previstas en las fracciones II y III de este artículo, deberán presentarse dentro de los cinco días naturales siguientes a la fecha en que el contratista formalice el contrato; y el o los anticipos correspondientes se entregarán a más tardar dentro de los quince días naturales siguientes a la presentación de la garantía.
 
 ###### Artículo 32.
 
 Las garantías que deban otorgar los contratistas de obras públicas y de servicios relacionados con las mismas, se constituirán en favor de:
 
-I. La Tesorería, por actos o contratos que celebren con las dependencias y entidades a que se refieren las fracciones I y II del artículo 1° de esta Ley; y,
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+I. La Secretaría de Finanzas y Administración o quien en su momento ejerza las facultades congruentes con las Tesorerías a que se refiere la Ley Federal de Instituciones de Fianzas, por actos o contratos que celebren con las dependencias y entidades a que se refiere el artículo 1° de esta Ley; y,
 
 II. Las Tesorerías municipales, por actos o contratos que celebren con los ayuntamientos y entidades paramunicipales.
 
@@ -431,9 +753,13 @@ II. Las Tesorerías municipales, por actos o contratos que celebren con los ayun
 
 La dependencia, entidad, ayuntamiento o entidad paramunicipal convocante, con base en el análisis comparativo de las proposiciones admitidas y en el presupuesto de la obra, emitirá un dictamen que deberá estar debidamente fundado y motivado, en el cual se hará constar el análisis de las propuestas admitidas, la mención de las desechadas y los elementos que sirven de base para el fallo.
 
-En un plazo que no exceda de cinco días naturales a partir de la fecha de apertura de propuestas económicas, en junta pública se dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que, de entre los concursantes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
 
-I. Reúna las condiciones legales, así como las técnicas y de solvencia requeridas por la convocante;
+En un plazo que no exceda de cinco días hábiles a partir de la fecha de apertura de propuestas económicas, y previa validación emitida por el Comité, en junta pública se dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que, de entre los concursantes:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+I. Reúna las condiciones legales, así como las técnicas y de solvencia requeridas en las condiciones de licitación emitidas por la convocante;
 
 II. Garantice satisfactoriamente el cumplimiento del contrato;
 
@@ -441,13 +767,33 @@ III. Cuente con la experiencia requerida por la convocante para la ejecución de
 
 IV. Considere los precios de mercado de los materiales, mano de obra o insumos de la zona o región de que se trate, así como los rendimientos reales para el análisis, cálculo e integración de los precios unitarios.
 
-Si una vez considerados los criterios anteriores, resultare que dos o más propuestas son solventes y por tanto satisfacen la totalidad de los requerimientos de la convocante, el contrato se adjudicará a quien presente la propuesta cuyo precio sea el más bajo y, en su caso, en igualdad de circunstancias a empresas residentes en el Estado de Michoacán.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
-Contra la resolución que contenga el fallo no procederá recurso alguno, pero los contratistas podrán inconformarse en los términos del artículo 65.
+Adicionalmente se podrá valorar la aplicación de sistemas de seguridad y la certificación en sistemas de calidad.
 
-Las dependencias, entidades, ayuntamientos y entidades paramunicipales, no adjudicarán el contrato cuando las posturas presentadas no fueren solventes, y procederán a expedir una nueva convocatoria.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Sólo serán objeto de evaluación aquellos requisitos legales, técnicos y económicos solicitados por las convocantes que tengan por objeto determinar la solvencia de las proposiciones y respecto de los cuales se haya establecido expresamente su forma de evaluación.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Si una vez considerados los criterios anteriores, resultare que dos o más propuestas son solventes y por tanto satisfacen la totalidad de los requerimientos de la convocante, el contrato se adjudicará a quien presente la propuesta cuyo precio sea el más bajo y, en su caso, en igualdad de circunstancias a empresas residentes cuyo domicilio social respecto de personas morales o fiscal (sic) en tratándose de personas físicas tenga su origen en el Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales, no adjudicarán el contrato si no se ha emitido la validación del Comité; si las posturas presentadas por los licitantes no fueren solventes, procederán a expedir una nueva convocatoria, pero en todos los casos deberá de mediar la validación del Comité.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 La emisión del fallo podrá diferirse por una sola vez, siempre que el nuevo plazo no exceda de quince días naturales del señalado originalmente.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+En todos los casos, se deberá preferir la especialidad, experiencia y capacidad técnica de los interesados, así como a aquellos contratistas que tengan un historial de cumplimiento satisfactorio de los contratos sujetos a la presente Ley. De igual manera, este criterio será aplicable a los licitantes que presenten proposiciones conjuntas.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Contra la resolución que contenga el fallo no procederá recurso alguno, pero los contratistas podrán inconformarse en los términos del artículo 65.
 
 ###### Artículo 34.
 
@@ -467,23 +813,33 @@ La adjudicación del contrato obligará a la dependencia, entidad, ayuntamiento 
 
 Si el interesado no firmara el contrato dentro del término antes mencionado, perderá en favor de la convocante la garantía que hubiere otorgado, y la dependencia, entidad, ayuntamiento o entidad paramunicipal, podrá sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante siguiente, en los términos del artículo 33 y de su propuesta, y así sucesivamente.
 
-La adjudicación y firma del contrato que celebren las dependencias y entidades lo harán saber a la Tesorería y a la Coordinación, y en tratándose de contratos que celebren los ayuntamientos y entidades paramunicipales, se dará a conocer a la tesorería municipal y al órgano de gobierno respectivo, según se trate, para los efectos correspondientes.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+La adjudicación y firma del contrato que celebren las dependencias y entidades lo harán saber a la Secretaría de Finanzas y Administración a efecto de que oportunamente se realicen las afectaciones presupuestales que de ello se deriven y a la Coordinación para que en su ámbito de competencia realice los actos de verificación y control que incida en una debida ejecución, y en tratándose de contratos que celebren los ayuntamientos y entidades paramunicipales, se dará a conocer a la tesorería municipal y al órgano de gobierno respectivo, según se trate, para los efectos correspondientes.
 
 El contratista a quien se adjudique el contrato, no podrá ejecutar la obra a través de otro; pero, con autorización previa de la dependencia, entidad, ayuntamiento o entidad paramunicipal respectiva, podrá hacerlo respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. En estos casos, el contratista seguirá siendo responsable de la ejecución de la obra ante la dependencia, entidad, ayuntamiento o entidad paramunicipal.
 
 Los derechos y obligaciones que se deriven de los contratos de obra pública no podrán cederse en forma total o parcial a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo supuesto se deberá contar con la conformidad previa de la dependencia, entidad, ayuntamiento o entidad paramunicipal de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 36.
 
-Los contratos de obra a que se refiere esta Ley, se celebrarán a precio alzado o sobre la base de precios unitarios.
+Los contratos de obra a que se refiere esta Ley, se celebrarán sobre la base de precios unitarios, por unidad de obra terminada y/o a precio alzado.
 
 En los contratos a que se refiere el párrafo anterior podrán incorporarse las modalidades que tiendan a garantizar las mejores condiciones de ejecución de la obra.
 
 Formarán parte del contrato, la descripción pormenorizada de la obra que se deba ejecutar, así como los proyectos ejecutivos, planos, especificaciones, programas y presupuestos correspondientes.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+La dependencia, entidad u organismo en el caso del Poder Ejecutivo del Estado enviarán a la Secretaría de Finanzas y Administración para su certificación presupuestal y contable el contrato de obra que hayan formalizado para la realización de las obras o servicios relacionados con estos, afectándose las partidas presupuestales al efecto destinadas, teniendo para ello un plazo no mayor a tres días hábiles posteriores a la celebración y firma del mismo; en el caso de ayuntamientos o entidades paramunicipales dicho trámite se efectuará ante las respectivas tesorerías y para dependencias y entidades de poderes diversos, de acuerdo con el origen de sus recursos deberá de obtenerse la certificación presupuestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 37.
 
-La ejecución de la obra contratada deberá iniciarse en la fecha señalada en el contrato, la cual no podrá exceder de quince días naturales contados a partir de la fecha de firma del contrato, y para este efecto, la dependencia, entidad, ayuntamiento o entidad paramunicipal contratante, oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo.
+La ejecución de la obra contratada deberá iniciarse en la fecha señalada en el contrato, la cual no podrá exceder de quince días naturales contados a partir de la fecha en que se otorgue a el contratista la suma del importe de los anticipos pactados en el contrato correspondiente, debiendo para este efecto, la dependencia, entidad, ayuntamiento o entidad paramunicipal contratante, oportunamente poner a disposición del contratista el o los inmuebles en que deban llevarse a cabo los trabajos objeto de la obra contratada; en caso contrario, no implicará responsabilidad alguna para el contratista ejecutor la tenencia del importe de tales anticipos, ni menos aún la obligatoriedad de reintegrar tales importes, salvo que se declare firme la terminación o rescisión del contrato que al efecto se haya firmado.
 
 Para el inicio de la obra, la contratante podrá otorgar un anticipo del 10% y hasta del 20% del monto de la inversión autorizada para la obra, los cuales serán destinados como sigue:
 
@@ -493,19 +849,39 @@ II. Hasta el 20% para la adquisición del equipo y materiales de instalación pe
 
 En los contratos se pactará lo conducente.
 
-La fecha de inicio de la obra establecida en el contrato, deberá ser respetada por el contratista que recibió con antelación el pago de los anticipos. El atraso en la entrega del anticipo será motivo para diferir, a solicitud del contratista, en igual plazo, el programa de ejecución pactado. Cuando el contratista no entregue la garantía de los anticipos dentro del plazo señalado, no procederá el diferimiento y por lo tanto deberá iniciar la obra en la fecha establecida originalmente.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+La fecha de inicio de la obra establecida en el contrato, deberá ser respetada por el contratista que recibió oportunamente el pago de los anticipos pactados en el contrato. La tardanza que se tenga en la entrega de los anticipos será motivo para diferir, a solicitud del contratista, el inicio de la ejecución de la obra, produciéndose el diferimiento del programa de ejecución de los trabajos en igual plazo al del atraso, requiriendo para ello, que se haya suscrito el contrato de obra correspondiente, que se hayan presentado las garantías referidas en el artículo 31 de este ordenamiento legal y se haya presentado la factura que ampare el importe de cada uno de los anticipos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 38.
 
-Las dependencias, entidades, ayuntamientos o entidades paramunicipales, podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y motivadas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios, siempre y cuando éstos, considerados conjuntamente o separadamente, no rebasen el 25% del monto o el plazo pactado en el contrato, ni impliquen variaciones substanciales al proyecto original.
+Los contratos que al amparo de esta Ley celebren las dependencias, entidades, ayuntamientos o entidades paramunicipales, cuando concurran razones fundadas y motivadas, deberá suscribirse un convenio modificatorio en monto, en plazo o ambos, según sea el caso, previo dictamen técnico que lo sustente, debidamente fundado y motivado.
 
-Sí las modificaciones exceden del porcentaje indicado o varían substancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del artículo 25. Este convenio adicional deberá ser autorizado por el titular de la dependencia, entidad, ayuntamiento o entidad paramunicipal. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la ley.
+Las modificaciones referidas en el anterior solo procederán cuando conjunta o separadamente no rebasen el 25% del monto o plazo pactado en el contrato, ni impliquen variaciones substanciales al proyecto original.
 
-De las modificaciones a que se refiere el presente artículo, el titular de la dependencia, entidad, ayuntamiento o el titular de la entidad paramunicipal de que se trate, informará lo procedente a la Tesorería y a la Coordinación, y, en su caso, a la Dependencia Coordinadora de Sector, así como a la tesorería municipal y al órgano de gobierno, según corresponda, en un plazo no mayor de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+Sí las modificaciones exceden del porcentaje indicado o varían substancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del artículo 25. Este convenio adicional deberá ser autorizado mediante la emisión del acuerdo correspondiente que al respecto haga el titular de la dependencia, entidad, ayuntamiento o entidad paramunicipal. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la ley.
+
+El conjunto de los programas de ejecución que se deriven de las modificaciones a los contratos, integrará el programa de ejecución convenido en el contrato, con el cual se medirá el avance físico de los trabajos.
+
+De las modificaciones a que se refiere el presente artículo, el titular de la dependencia, entidad, ayuntamiento o el titular de la entidad paramunicipal de que se trate, informará lo procedente a la Secretaría de Finanzas y Administración, a la Coordinación, y, en su caso, a la Dependencia Coordinadora de Sector, así como a la tesorería municipal y al órgano de gobierno, según corresponda, en un plazo no mayor de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
 
 ###### Artículo 39.
 
 Las dependencias, entidades, ayuntamientos y entidades paramunicipales podrán rescindir administrativamente los contratos de obra en caso de incumplimiento de las obligaciones a cargo del contratista. Asimismo, podrán dar por terminados anticipadamente los contratos por razones de interés general; así como suspender temporalmente en todo o en parte la obra contratada por cualquier causa justificada, notificando al contratista, a la Coordinación y a las Tesorerías estatal y municipal, según corresponda. Éstas últimas, a su vez, incluirán en la cuenta pública correspondiente las causas que motivaron tales suspensiones.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales procederán ineludiblemente a la rescisión de los contratos cuando:
+
+I. Concurran razones de interés general; existan causas justificadas que le impidan la continuación de los trabajos, y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado; y,
+
+II. Se determine la nulidad de actos que dieron origen al contrato, con motivo de la resolución de una inconformidad por resolución firme dictada por autoridad competente; o bien, no sea posible determinar la temporalidad de la suspensión de los trabajos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+En los supuestos a que se refiere la fracción II de este artículo, la dependencia o entidad reembolsará al contratista los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
 ###### Artículo 40.
 
@@ -523,27 +899,37 @@ IV. Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de 
 
 Si la dependencia, entidad, ayuntamiento o entidad paramunicipal considera que el contratista ha incurrido en alguna de las causas de rescisión, se lo comunicará, a fin de que exponga al respecto lo que a su derecho convenga en un plazo de veinte días naturales. Si transcurrido este plazo no manifiesta nada en su defensa o si después de analizar las razones aducidas por éste, la dependencia, entidad, ayuntamiento o entidad paramunicipal, estima que las mismas no son satisfactorias, dictará la resolución que proceda dentro de un término de veinte días naturales siguientes a la fecha en que hubiere recibido el escrito de contestación del contratista o del vencimiento del plazo concedido para tal efecto.
 
-Las dependencias, entidades, ayuntamiento y entidades paramunicipales, comunicarán la suspensión o la rescisión del contrato al contratista, a la Tesorería y a la Coordinación, y a la Dependencia Coordinadora del Sector, o bien, a la Tesorería municipal, según corresponda, dentro de los diez días hábiles siguientes a la fecha de la resolución.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Las dependencias, entidades, ayuntamiento y entidades paramunicipales, comunicarán la suspensión o la rescisión del contrato al contratista, a la Secretaría de Finanzas y Administración y a la Coordinación, y a la Dependencia Coordinadora del Sector, o bien, a la Tesorería municipal, según corresponda, dentro de los diez días hábiles siguientes a la fecha de la resolución.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 42.
 
-Las estimaciones de trabajos ejecutados correspondientes a contratos en ejercicio, se formularán por el contratista y se autorizarán por la dependencia, entidad, ayuntamiento o entidad paramunicipal contratante.
+Las estimaciones de trabajos ejecutados correspondientes a contratos en ejercicio, se formularán por el contratista y se autorizarán por la dependencia, entidad, ayuntamiento o entidad paramunicipal contratante por conducto de la Residencia de Supervisión al efecto designada.
 
-Las estimaciones de obra se formularán por periodos de quince o treinta días naturales, mismas que elaborará el residente del contratista y entregará al contratante para su autorización y firma, acompañadas de la documentación que acredite la procedencia de su pago, y de acuerdo al avance físico observado de la obra.
+Las estimaciones de obra se formularán por periodos de quince o treinta días naturales, mismas que elaborará el contratista y entregará al contratante por conducto de la Residencia de Supervisión al efecto designada para su revisión y consecuente autorización y/o devolución acompañadas de la documentación relativa a generadores de obra y factura correspondiente a efecto de que se proceda a su efectivo pago. y de acuerdo al avance físico observado de la obra.
 
-A partir de la fecha de autorización se tendrán treinta días naturales para su pago, en caso de retraso en los pagos de estimaciones y de ajustes de costos, previamente acordados y autorizados, la dependencia, entidad, ayuntamiento o entidad paramunicipal, a solicitud del contratista, deberá pagar gastos financieros conforme a la tasa que sobre recargos por falta de pago oportuno establezca la Ley de Ingresos del Estado o la Ley de Ingresos para los Municipios para el ejercicio fiscal de que se trate, según corresponda.
+Para la revisión de las estimaciones la contratante por conducto de la Residencia de Supervisión al efecto designada tendrá un plazo de cinco días hábiles a partir de su recepción para su revisión y autorización y/o devolución, la cual deberá ser siempre a partir del siguiente día de la fecha que se establezca como de corte, la cual se fijara invariablemente los días quince o treinta de cada mes calendario, notificando por escrito al contratista la determinación de procedencia o improcedencia.
+
+Vencido el plazo señalado en el párrafo anterior, sin que ello implique la aceptación plena de los trabajos y volúmenes de estos contenidos en la estimación de que se trate, la dependencia, entidad o ayuntamiento o entidad paramunicipal contratante tramitará para efecto de pago ante sus áreas financieras la estimación o estimaciones de que se trate aplicando en la siguiente estimación las deductiva (sic) o aditivas según corresponda sin que ello origine cargo financiero alguno.
+
+Invariablemente la dependencia, entidad, ayuntamiento o entidad paramunicipal contratante emitirá la orden de pago ante la Secretaría de Finanzas y Administración, Tesorería municipal o la propia del organismo paramunicipal según se trate, a partir de la fecha de autorización y en un plazo que no exceda de tres días hábiles, debiendo la oficina pagadora efectuar el pago bajo cualquier esquema previamente determinado por la contratista dentro del plazo máximo de diez días hábiles; en caso de retraso en los pagos de estimaciones y de ajustes de costos, previamente acordados y autorizados, la dependencia, entidad, ayuntamiento o entidad paramunicipal, a solicitud del contratista, deberá pagar gastos financieros por una tasa porcentual de hasta el cuatro por ciento por concepto de financiamiento de pago tardío.
 
 Dichos gastos se calcularán sobre las cantidades no pagadas, y se computarán por días naturales desde que se venció el plazo hasta la fecha en que las cantidades se encuentren a disposición del contratista.
 
-Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas mas los intereses correspondientes, conforme a la tasa establecida en el párrafo anterior. Los cargos financieros se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago hasta la fecha en que se pongan las cantidades a disposición de la dependencia, entidad, ayuntamiento o entidad paramunicipal.
+Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas más los intereses correspondientes, conforme a la tasa establecida anteriormente. Los cargos financieros se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago hasta la fecha en que se pongan las cantidades a disposición de la dependencia, entidad, ayuntamiento o entidad paramunicipal.
+
+El pago en exceso deberá determinarse en función del importe total contratado, comparado frente al importe de obra ejecutado, por lo que no se considera pago en exceso el supuesto de que surjan diferencias en las estimaciones formuladas, presentadas y tramitadas por el contratista frente a la dependencia, entidad, ayuntamiento o entidad paramunicipal.
 
 Las diferencias técnicas o numéricas pendientes de pago se resolverán y, en su caso, se incorporarán en la siguiente estimación.
 
-Lo previsto en este artículo deberá pactarse en los contratos respectivos;
+Lo previsto en este artículo deberá pactarse en los contratos respectivos.
 
 Las estimaciones serán pagadas por:
 
-I. La Tesorería General, cuando sean formuladas y autorizadas por las dependencias del Poder Ejecutivo del Estado;
+I. La Secretaría de Finanzas y Administración, cuando sean formuladas y autorizadas por las dependencias del Poder Ejecutivo del Estado;
 
 II. La entidad contratante;
 
@@ -555,17 +941,35 @@ IV. La entidad paramunicipal contratante.
 
 Los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, cubrirán un cinco al millar sobre el importe de cada una de las estimaciones de trabajo, por los servicios de vigilancia, inspección y control necesarios para su ejecución.
 
-La Tesorería, la entidad contratante, las tesorerías municipales y entidades paramunicipales al hacer el pago de las estimaciones de obra, retendrán el importe de los derechos a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+En tratándose de obras contratadas por dependencias estatales o entidades paraestatales, la Secretaría de Finanzas y Administración al realizar el pago de las estimaciones de obra, retendrá el importe de los derechos a que se refiere el párrafo anterior y lo enviará a la Coordinación para el fortalecimiento de sus servicios.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+En este mismo sentido, los Ayuntamientos y entidades paramunicipales, por conducto de sus tesorerías municipales o áreas responsables de la gestión financiera, harán la correspondiente retención y lo remitirán a sus respectivas áreas de control interno para los mismos fines.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 44.
 
-Cuando durante la vigencia de un contrato de obra ocurran circunstancias de orden económico no previstas en el contrato, pero que de hecho y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes contratantes, determine un aumento o reducción mayor del cinco por ciento de los costos de los trabajos aún no ejecutados conforme al programa pactado, dichos costos podrán ser revisados a solicitud del contratista o del contratante, atendiendo a lo acordado por las partes en el contrato respectivo. El aumento o reducción correspondiente deberá constar por escrito, y no será aplicable a los materiales adquiridos con el anticipo de acuerdo con la relación incluida en la propuesta económica.
+Cuando a partir del acto de la presentación y apertura de proposiciones ocurran circunstancias de orden económico no previstas en el contrato de obra o prestación de servicios regulados por esta ley, que determinen un aumento o reducción de los costos de los trabajos aún no ejecutados conforme al programa pactado, dichos costos deberán ser ajustados aplicando para ello los factores de incremento conforme a los índices nacionales que al efecto se publiquen por la instancia competente, aplicando el ajuste que proceda conforme a la formula precio a precio. Cuando los costos relativos que requiera el contratista o la contratante no se encuentren dentro de los publicados, las instituciones procederán a calcularlos conforme a los lineamientos y metodología que formule la Coordinación. El aumento o reducción correspondiente deberá constar por escrito, y no será aplicable a los materiales adquiridos con el anticipo de acuerdo con la relación incluida en la propuesta económica.
 
-Las dependencias, entidades, ayuntamientos o entidades paramunicipales, emitirán la resolución que acuerde el aumento o reducción correspondiente, informando de lo anterior a la Coordinación, a la Tesorería y a la Dependencia Coordinadora de Sector, a la tesorería municipal y al órgano de gobierno respectivo, según corresponda.
+El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales dentro del ejercicio del contrato. El costo por financiamiento estará sujeto a las variaciones de la tasa de interés propuesto.
+
+El contratista solo podrá estimar el ajuste de costos aplicable hasta en tanto no haya firmado el acta de terminación de obra, una vez firmado el finiquito no habrá lugar a ningún pago o concepto adicional.
+
+Las dependencias, entidades, ayuntamientos o entidades paramunicipales, solo cubrirán ajustes de costos a contratos en vigor, por lo que bajo la responsabilidad del contratista quedará la formulación de la estimación correspondiente que incluya los ajustes que sean procedentes operando el pago en la forma prevista en el artículo 42 de esta Ley.
+
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales, serán las responsables de establecer en el contrato lo previsto en este artículo, la omisión dará lugar a que se les finquen las responsabilidades correspondientes a los responsables de las áreas de contratación y dejando a salvo los derechos de los contratistas.
+
+Las dependencias, entidades, ayuntamientos o entidades paramunicipales, informarán del aumento o reducción correspondiente, a la Coordinación, a la Secretaría de Finanzas y Administración y a la Dependencia Coordinadora de Sector, a la tesorería municipal y al órgano de gobierno respectivo, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 45.
 
-El contratista comunicará por escrito a la dependencia, entidad, dependencia municipal o entidad paramunicipal, la terminación de los trabajos que le fueron encomendados, y éstos verificarán que los mismos estén debidamente concluidos dentro de los quince días hábiles siguientes, salvo que se pacte expresamente otro plazo.
+El contratista comunicará por escrito a la dependencia, entidad, dependencia municipal o entidad paramunicipal, la terminación de los trabajos que le fueron encomendados, y éstos por conducto de su Residencia de Supervisión al efecto designada verificarán que los mismos estén debidamente concluidos dentro de los quince días hábiles siguientes, salvo que se pacte expresamente otro plazo.
 
 La recepción de la obra, se hará dentro de los cinco días hábiles siguientes a la fecha en que se haya constatado la terminación de los trabajos en los términos del párrafo anterior.
 
@@ -645,9 +1049,13 @@ VIII. Cuando se trate de obra que de realizarse bajo un procedimiento de licitac
 
 Para los casos previstos en las fracciones anteriores, se convocará a la o las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
 
-El titular de la dependencia o entidad, deberá obtener el acuerdo del titular del Poder Ejecutivo, y en un plazo que no exceda de diez días hábiles contados a partir de la fecha de iniciación de los trabajos, informar de estos hechos a la Coordinación y a la Dependencia Coordinadora de Sector.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
-Los ayuntamientos y entidades paramunicipales deberán contar con el acuerdo del Cabildo y del órgano de gobierno respectivo, de lo que informará a la Contaduría General de Glosa dentro del mismo plazo señalado.
+El titular de la dependencia o entidad, deberá obtener el acuerdo emitido por la Secretaría en los términos de la competencia de que se encuentra investida de conformidad con lo dispuesto en el artículo 3°, fracción I en relación con el 5° de esta Ley, acuerdo que invariablemente deberá de acreditar que la adjudicación de que se trata se encuentra investida de los principios de economía, eficiencia, eficacia y honradez en el ejercicio de los recursos públicos, y en un plazo que no exceda de diez días hábiles contados a partir de la fecha de iniciación de los trabajos, informar de estos hechos al Titular del Ejecutivo, a la Coordinación y a la Dependencia Coordinadora de Sector.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Los ayuntamientos y entidades paramunicipales deberán contar con el acuerdo del Cabildo y del órgano de gobierno respectivo, de lo que informará a la Auditoría Superior de Michoacán dentro del mismo plazo señalado.
 
 Los ayuntamientos y entidades paramunicipales deberán informar a la Secretaría y a la Coordinación cuando realicen obras con financiamiento total o parcial de recursos financieros estatales.
 
@@ -655,17 +1063,43 @@ Los ayuntamientos y entidades paramunicipales deberán informar a la Secretaría
 
 Las dependencias, entidades, ayuntamientos y entidades paramunicipales, bajo su responsabilidad, podrán llevar a cabo obra pública a través del procedimiento de invitación restringida a cuando menos tres contratistas por adjudicación directa, según corresponda, siempre y cuando el monto de la obra objeto del contrato no exceda de los rangos a que se refiere este artículo.
 
-Para los efectos de la aplicación de este precepto, cada obra deberá considerarse individualmente a fin de determinar si queda comprendida dentro de los montos, límites o rangos que en consecuencia formule la Coordinación, en la inteligencia de que, en ningún caso, el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos a que se refiere este artículo. Para el caso de los ayuntamientos y entidades paramunicipales cuando realicen obras con recursos financieros estatales, los montos, límites o rangos de referencia serán formulados por el cabildo y por el órgano de gobierno, según se trate.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Para los efectos de la aplicación de este precepto, cada obra deberá considerarse individualmente a fin de determinar si queda comprendida dentro de los montos, límites o rangos que en consecuencia formule la Coordinación, los cuales deberán de ser publicados en el Periódico Oficial del Estado y en los portales electrónicos del Gobierno del Estado de Michoacán, de la Secretaría y de la Coordinación, actualizándose anualmente. En ningún caso, el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos a que se refiere este artículo. Para el caso de los ayuntamientos y entidades paramunicipales cuando realicen obras con recursos financieros estatales, los montos, límites o rangos de referencia serán formulados por el cabildo y por el órgano de gobierno, según se trate.
 
 Los rangos que limiten los tipos de adjudicación, se fijarán atendiendo a la cuantía de las obras, consideradas individualmente y en función de la inversión total autorizada a las dependencias, entidades, ayuntamientos y entidades paramunicipales.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 52 Bis.
+
+El procedimiento de invitación restringida se sujetará a lo siguiente:
+
+I. Difundir la invitación en el sistema electrónico para ello determinado por la Coordinación y en los portales electrónicos del Gobierno del Estado, así como de la dependencia, entidad, ayuntamiento o entidad paramunicipal de que se trate;
+
+II. El acto de presentación y apertura de proposiciones podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la Coordinación y del órgano de control en la dependencia, entidad o ayuntamiento o entidad paramunicipal;
+
+III. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones susceptibles de análisis;
+
+En caso de que no se presenten el mínimo de proposiciones señalado en la fracción anterior, se deberá declarar desierta la invitación.
+
+IV. En la invitación se indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos contenidos en el artículo 28 de esta Ley que fueren aplicables;
+
+V. Los plazos para la presentación de las proposiciones se fijarán para cada contrato, atendiendo a las características, complejidad y magnitud de los trabajos; y,
+
+VI. Las demás disposiciones de esta Ley que resulten aplicables a la licitación pública.
+
 ### CAPITULO QUINTO. DE LA INFORMACION, VERIFICACION Y CONTROL DE LAS OBRAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 53.
 
-Las dependencias, entidades, ayuntamientos y entidades paramunicipales cuando corresponda, deberán remitir a la Tesorería y a la Coordinación; en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales cuando corresponda, deberán remitir a la Secretaría de Finanzas y Administración y a la Coordinación; en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten, en el supuesto de los ayuntamientos y sus entidades, la información será enviada a sus áreas financieras.
 
-La Coordinación, los ayuntamientos, el órgano de gobierno en tratándose de las entidades paramunicipales y la Contaduría General de Glosa en el ámbito de sus respectivas competencias, podrán realizar las visitas, inspecciones o auditorías que estimen pertinentes y solicitar a quien corresponda todos los datos e informes relacionados con las obras, organizándose para tal efecto con la Dependencia Coordinadora de Sector, en su caso.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+La Coordinación, los ayuntamientos, el órgano de gobierno en tratándose de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán en el ámbito de sus respectivas competencias, podrán realizar las visitas, inspecciones o auditorías que estimen pertinentes y solicitar a quien corresponda todos los datos e informes relacionados con las obras, organizándose para tal efecto con la Dependencia Coordinadora de Sector, en su caso.
 
 Para efectos del párrafo anterior las dependencias, entidades, ayuntamientos y entidades paramunicipales, conservarán en forma ordenada y sistemática la documentación completa y específica comprobatoria del gasto en las obras cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción.
 
@@ -673,35 +1107,73 @@ Para efectos del párrafo anterior las dependencias, entidades, ayuntamientos y 
 
 Las dependencias, entidades, ayuntamientos y entidades paramunicipales, controlarán todas las fases de las obras públicas a su cargo; para tal efecto, establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicten el Ejecutivo Estatal a través de la Coordinación, los ayuntamientos y los órganos de gobierno de las entidades paramunicipales, en el ámbito de sus competencias.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 54 Bis.
+
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales, controlarán todas las fases de las obras públicas a su cargo; para tal efecto, nombrarán una Residencia de Supervisión, la cual tendrá las atribuciones que el Reglamento de la presente ley señale.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 55.
 
-La Coordinación, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales y la Contaduría General de Glosa, en el ámbito de sus competencias, podrán verificar que las obras y los servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+La Coordinación, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán, en el ámbito de sus competencias, podrán verificar que las obras y los servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 56.
 
-Las dependencias, entidades, órganos municipales y paramunicipales, proporcionarán todas las facilidades necesarias a fin de que la Coordinación, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales y la Contaduría General de Glosa, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
+Las dependencias, entidades, órganos municipales y paramunicipales, proporcionarán todas las facilidades necesarias a fin de que la Coordinación, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 57.
 
-Cuando la Coordinación, el ayuntamiento, el órgano de gobierno de la entidad paramunicipal y la Contaduría General de Glosa en el ámbito de su competencia, tenga conocimiento de que una dependencia, entidad, órgano municipal o paramunicipal, no se hubiera ajustado a las disposiciones de esta Ley y demás disposiciones aplicables, solicitará las aclaraciones que estime pertinentes; en su caso, comunicará la existencia de la violación precisando en que consiste; asimismo, indicará las medidas que la dependencia, entidad, órgano municipal o paramunicipal deberá tomar para corregirla, fijando el plazo dentro del cual deberá subsanarla.
+Cuando la Coordinación, el ayuntamiento, el órgano de gobierno de la entidad paramunicipal, el Congreso del Estado y la Auditoría Superior de Michoacán en el ámbito de su competencia, tenga conocimiento de que una dependencia, entidad, órgano municipal o paramunicipal, no se hubiera ajustado a las disposiciones de esta Ley y demás disposiciones aplicables, solicitará las aclaraciones que estime pertinentes; en su caso, comunicará la existencia de la violación precisando en qué consiste; asimismo, indicará las medidas que la dependencia, entidad, órgano municipal o paramunicipal deberá tomar para corregirla, fijando el plazo dentro del cual deberá subsanarla.
 
-Dentro del plazo que se hubiere señalado, la dependencia, entidad, órgano municipal o paramunicipal responsable, dará cuenta a la Coordinación y a la Dependencia Coordinadora del Sector, al ayuntamiento, al órgano de gobierno o a la Contaduría General de Glosa, según corresponda, sobre el cumplimiento que hubiera hecho.
+Dentro del plazo que se hubiere señalado, la dependencia, entidad, órgano municipal o paramunicipal responsable, dará cuenta a la Coordinación y a la Dependencia Coordinadora del Sector, al ayuntamiento, al órgano de gobierno, al Congreso del Estado o a la Auditoría Superior de Michoacán, según corresponda, sobre el cumplimiento que hubiera hecho.
 
 ## TITULO TERCERO
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 58.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base a ella se dicten, serán sancionados con multa equivalente a la cantidad de cincuenta a trescientas veces el salario mínimo diario vigente en el Estado.
+Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base a ella se dicten, serán sancionados con multa equivalente a la cantidad de trescientas a quinientas veces el salario mínimo diario vigente en el Estado.
 
-Cuando proceda, la Coordinación o el ayuntamiento según corresponda, podrán proponer a la dependencia, entidad, órgano municipal o paramunicipal contratante, la rescisión administrativa del contrato con motivo de la infracción a esta Ley.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Cuando proceda, la Coordinación, o el ayuntamiento, la Auditoría Superior de Michoacán o los órganos de Control y Fiscalización Gubernamental según corresponda, deberán indicar a la dependencia, entidad, órgano municipal o paramunicipal contratante, la rescisión administrativa del contrato de que se trate así como la suspensión o cancelación de registro en el padrón de contratistas con motivo de la infracción a esta Ley.
 
 Las infracciones a las disposiciones de esta Ley por parte de los servidores públicos estatales y municipales se sancionarán conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Son actos constitutivos de infracción a la presente Ley por los contratistas:
+
+I. Realizar cualquier tipo de obra que no le haya sido adjudicada mediante el procedimiento correspondiente;
+
+II. Ejecutar o realizar obras o consumar cualquier acto no establecido en los términos del contrato de obra, salvo que exista indicación expresa y por escrito por parte de las dependencias, entidades, ayuntamientos y entidades paramunicipales;
+
+III. Llevar a cabo la ejecución de obras o instalaciones en lugares distintos a los indicados en el contrato de obra;
+
+IV. Causar daños por negligencia a bienes de propiedad pública con motivo de la ejecución de las obras asignadas;
+
+V. No cumplir con las resoluciones de la autoridad administrativa que ordenen suspender o demoler la obra o parte de ella, en el plazo señalado para tal efecto, o dejar de cumplir cualquier medida de seguridad ordenadas por aquélla;
+
+VI. Impedir al personal de la dependencia o entidad competente la realización de sus tareas de inspección;
+
+VII. Proporcionar datos o documentos falsos o en forma dolosa, en los procesos de licitación; y,
+
+VIII. Llevar a cabo cualquier acto en contravención a las disposiciones de la presente Ley y a los reglamentos que de ella emanen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 59.
 
-La multa a que se refiere el artículo 58 será impuesta por la Coordinación o por el ayuntamiento en el ámbito de su respectiva competencia, conforme a los criterios siguientes:
+La multa a que se refiere el artículo 58 será impuesta por la Coordinación, la Auditoría Superior de Michoacán o por el ayuntamiento en el ámbito de su respectiva competencia, conforme a los criterios siguientes:
 
 I. Se tomará en cuenta la gravedad de la infracción y las condiciones del infractor;
 
@@ -711,7 +1183,9 @@ III. Tratándose de reincidencia, se impondrá otra multa mayor dentro de los l�
 
 IV. En el caso de que persista la infracción, se impondrán multas por cada día que transcurra; y,
 
-V. Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal o municipal según se trate, que se harán efectivas por la Tesorería o por el Ayuntamiento en su caso, mediante el procedimiento administrativo de ejecución previsto por el Código Fiscal del Estado y en el Código Fiscal Municipal, según corresponda, y tendrán la prelación prevista para dichos créditos según las disposiciones fiscales aplicables a esta materia.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+
+V. Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario Estatal o Municipal según se trate, que se harán efectivas por la Secretaría de Finanzas y Administración o por el Ayuntamiento en su caso, mediante el procedimiento administrativo de ejecución previsto por el Código Fiscal del Estado y en el Código Fiscal Municipal, según corresponda, y tendrán la prelación prevista para dichos créditos según las disposiciones fiscales aplicables a esta materia.
 
 ###### Artículo 60.
 
@@ -735,31 +1209,43 @@ La omisión a lo dispuesto en el párrafo anterior, será sancionada administrat
 
 Las responsabilidades a que se refiere la presente Ley, son independientes de las de orden civil y penal que pueden derivar de la comisión de los mismos hechos.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 64.
 
-Los actos, convenios y contratos que las dependencias, entidades ayuntamientos o entidades paramunicipales realicen en la materia que regula esta Ley, y que contravengan lo dispuesto en ésta, serán nulos de pleno derecho.
+Los actos, convenios y contratos que las dependencias, entidades ayuntamientos o entidades paramunicipales realicen en la materia que regula esta Ley, y que contravengan lo dispuesto en ésta, serán nulos de pleno derecho, previa declaración de la autoridad correspondiente.
 
-En lo no previsto por esta Ley serán aplicables supletoriamente el Código Civil, y el de Procedimientos Civiles del Estado.
+En lo no previsto por esta Ley serán aplicables el Código de Justicia Administrativa y supletoriamente, el de (sic) Código de Procedimientos Civiles y el Código Civil del Estado de Michoacán según corresponda.
 
-## TITULO CUARTO. DE LAS INCONFORMIDADES Y DEL RECURSO ADMINISTRATIVO DE REVOCACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2015)</small>
+
+## TITULO CUARTO. DE LOS RECURSOS LEGALES
 
 ### CAPITULO PRIMERO. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 65.
 
-Las personas interesadas podrán inconformarse por escrito ante la Coordinación, ante el ayuntamiento o ante el órgano de gobierno de la entidad paramunicipal que corresponda, según proceda, por los actos que contravengan las disposiciones de esta Ley, dentro de los diez días naturales siguientes a aquél en que éste ocurra, o el inconforme tenga conocimiento del acto impugnado.
+Las personas interesadas podrán inconformarse por escrito ante la Coordinación, ante el ayuntamiento o ante el órgano de gobierno de la entidad paramunicipal que corresponda, según proceda, por los actos que contravengan las disposiciones de esta Ley, dentro de los diez días hábiles siguientes a aquél en que éste ocurra, o el inconforme tenga conocimiento del acto impugnado, o bien, en los términos de lo dispuesto en el artículo 1° del Código de Justicia Administrativa del Estado, podrá optar por ejercer los recursos legales y procedimientos que en éste se establezcan.
 
-Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten al órgano convocante, las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación del contrato respectivo a fin de que las mismas se corrijan.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten al órgano convocante, las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación del contrato respectivo a fin de que las mismas se corrijan, debiendo las dependencias, entidades, ayuntamientos y entidades paramunicipales comunicar de tales eventualidades a la Coordinación u órgano de control del Municipio de que se trate a efecto de que se instrumenten las medidas correctivas que al respecto se deban de dictar.
 
 Al escrito de inconformidad podrá acompañarse, en su caso, la manifestación aludida en el párrafo anterior, la cual será valorada por la Coordinación, el ayuntamiento o el órgano de gobierno respectivo, según corresponda, durante el período de investigación.
 
 Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Coordinación, el ayuntamiento, o el órgano de gobierno respectivo pueda actuar en cualquier tiempo en términos de ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+
 ###### Artículo 66.
 
-La Coordinación, el ayuntamiento o el órgano de gobierno, según corresponda, de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizará las investigaciones procedentes dentro de los veinte días naturales siguientes, contados a partir de la recepción de la respectiva solicitud.
+La Coordinación, el ayuntamiento o el órgano de gobierno, según corresponda, de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizará las investigaciones procedentes dentro de los cinco días hábiles siguientes, contados a partir de la recepción de la respectiva solicitud, emitiendo la resolución que al respecto deba dictarse dentro de los cinco días naturales siguientes, misma que deberá comunicarse al promovente dentro de los tres días hábiles siguientes.
 
-Los servidores públicos estarán obligados a proporcionar a las autoridades a que se refiere este artículo la información requerida para sus investigaciones, dentro de los ocho días naturales siguientes, contados a partir de la recepción de la respectiva solicitud.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+
+Los servidores públicos estarán obligados a proporcionar a las autoridades a que se refiere este artículo la información requerida para sus investigaciones, dentro de los tres días hábiles siguientes, contados a partir de la recepción de la respectiva solicitud.
 
 Durante la investigación de los hechos a que se refiere el párrafo anterior, podrá suspenderse el procedimiento de adjudicación cuando:
 
@@ -813,7 +1299,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
@@ -824,3 +1310,21 @@ SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto con
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones reglamentarias que deban modificarse o crearse con motivo de la entrada en vigor del presente Decreto deberán ser expedidas por el Titular del Poder Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Comité referido en el presente Decreto deberá instalarse dentro de los treinta días siguientes a la entrada en vigor del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Los procesos administrativos y judiciales que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio y hasta su conclusión.
