@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2010-11-05"
+last_updated: "2015-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -47,11 +47,11 @@ DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### Capítulo Primero. Disposiciones Comunes
 
-> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2015)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz, la Medalla General Ignacio de la Llave y las Medallas Carlos A. Carrillo y Enrique C. Rébsamen, que los poderes Ejecutivo y Legislativo del Estado conceden a las personas distinguidas por su conducta y acciones, en los términos que la misma establece.
+La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz, la Medalla General Ignacio de la Llave, las Medallas Carlos A. Carrillo y Enrique C. Rébsamen y el Premio Estatal a la Mujer, que los Poderes Ejecutivo y Legislativo del Estado conceden a las personas distinguidas por su conducta y acciones, en los términos que la misma establece.
 
 ### Capítulo Segundo. De la Medalla Veracruz
 
@@ -125,7 +125,7 @@ VIII. Al Desarrollo Económico; y
 
 IX. Al Deporte.
 
-> <small>(REFORMADA SU NUMERACION, G.O. 3 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 3 DE ENERO DE 2007)</small>
 
 #### Sección Primera. De las Categorías
 
@@ -335,6 +335,30 @@ III. El estímulo económico en efectivo que acuerde previamente el Ejecutivo de
 
 Para el cómputo de la antigüedad en el servicio, sólo se tomará en cuenta el tiempo efectivo que hayan laborado y los días de descanso, por lo que se descontarán las inasistencias injustificadas, los períodos en los que hayan gozado de permisos de cualquier naturaleza y las comisiones desempeñadas fuera de la Administración Pública Estatal o Municipal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE ABRIL DE 2015)</small>
+
+### Capítulo Séptimo. Del Premio Estatal a la Mujer
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 23 Octies.
+
+El Premio Estatal a la Mujer es un reconocimiento que se otorgará a las veracruzanas que se hayan destacado por su trayectoria de vida, obra, méritos académicos, científicos, artísticos, literarios o de otra índole, o que desde cualquier ámbito de acción hayan contribuido al desarrollo de sus comunidades, del Estado o del País.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 23 Nonies.
+
+En la primera semana del mes de diciembre de cada año, el Pleno del Congreso conformará la Comisión Especial del Premio Estatal a la Mujer, la que emitirá la convocatoria para recibir las propuestas correspondientes.
+
+La Comisión Especial formulará un dictamen con el nombre de la mujer que se considere merecedora al premio estatal, mismo que será sometido al Pleno para su votación antes de que concluya el primer periodo ordinario de sesiones.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2015)</small>
+
+###### Artículo 23 Decies.
+
+El Premio Estatal a la Mujer consistirá en un Diploma y se entregará en el mes de marzo, en Sesión Solemne del Pleno, en el marco de la conmemoración del Día Internacional de la Mujer.
+
 ## TÍTULO SEGUNDO. DE LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE VERACRUZ
 
 ###### Artículo 24.
@@ -422,3 +446,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Reglamento de las Medallas Carlos A. Carrillo y Enrique C. Rébsamen se expedirá dentro de los noventa días siguientes a la publicación del presente Decreto.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE ABRIL DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
