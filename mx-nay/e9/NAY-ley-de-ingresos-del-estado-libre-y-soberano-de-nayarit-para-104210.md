@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-104
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-02"
-last_updated: "2014-12-02"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 2015
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL DÍA 1º DE ENERO DEL AÑO DOS MIL QUINCE Y TENDRÁ VIGENCIA HASTA EL 31 DE DICIEMBRE DEL MISMO AÑO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el 2 de diciembre de 2014.
 
@@ -3417,9 +3415,11 @@ La presente Ley de Ingresos del Estado se aplicará en todo lo que no contraveng
 
 La recaudación de los ingresos contemplados en este ordenamiento se deberá efectuar en las oficinas o instituciones bancarias autorizadas por la Secretaría de Administración y Finanzas.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Cuando esta Ley se refiere a salarios mínimos se entiende como tal, al salario mínimo general vigente de la zona económica a que pertenece el Estado, al momento del pago.
+El salario mínimo que se tomará como base para calcular las cuotas y tarifas aquí establecidas, será el que se encontraba vigente a partir de la entrada en vigor de la presente ley.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3430,3 +3430,9 @@ D A D O en la Sala de Sesiones “Benito Juárez García” recinto oficial del 
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, al primer día del mes de Diciembre del año dos mil catorce.- C. ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+P.O. 29 DE ABRIL DE 2015.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+ÚNICO.- El presente decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
