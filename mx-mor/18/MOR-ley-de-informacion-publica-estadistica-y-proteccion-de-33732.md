@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2015-04-22"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -105,7 +105,7 @@ En concreto, es necesario modificar la Constitución Política del Estado Libre 
 
 Experiencia en la que se conjugaron por cierto la representación de los tres poderes, lo que implica una evidencia de la particular apertura que se tiene por parte de todo el gobierno de transparentar la función pública y el ejercicio de cualquier cargo político o administrativo, y que resulta coincidente con la estructura básica de cualquier sistema que se califica como democrático en el mundo occidental moderno.
 
-Pero además de este importante foro se realizaron otras consultas de forma permanente, de las cuales caben (sic) destacar la que realizó el congreso en el mes de junio del presente año, con diversos medios de comunicación local, periodistas y reporteros, en la cual se llegó incluso al acuerdo de que este Congreso efectuará una consulta abierta, que tuvo lugar a su vez, el pasado día jueves 7, entre los Diputados que integran la Comisión de Puntos Constitucionales y Legislación y la Junta de Coordinación Política, y todas las personas que desearan participar ya sea para formular propuestas o bien referirse en términos generales al proyecto de ley.
+Pero además de este importante foro se realizaron otras consultas de forma permanente, de las cuales caben destacar la que realizó el congreso en el mes de junio del presente año, con diversos medios de comunicación local, periodistas y reporteros, en la cual se llegó incluso al acuerdo de que este Congreso efectuará una consulta abierta, que tuvo lugar a su vez, el pasado día jueves 7, entre los Diputados que integran la Comisión de Puntos Constitucionales y Legislación y la Junta de Coordinación Política, y todas las personas que desearan participar ya sea para formular propuestas o bien referirse en términos generales al proyecto de ley.
 
 Mención aparte merece la que llevaron de forma personal diversos periodistas del Estado de Morelos, el día 28 de mayo, reunión intitulada "Los medios ante la ley de información pública", ante la que acudieron figuras de los medios de comunicación nacional y estatal, y en la que se discurrió ampliamente sobre los alcances y contenido de la misma.
 
@@ -163,7 +163,7 @@ Para efectos de esta Ley se entiende por:
 
 8. Estado.- Estado Libre y Soberano de Morelos.
 
-9. Entidades Públicas.- Poder Ejecutivo del Estado, Gobernador Constitucional del Estado, las dependencias y entidades de la Administración Pública Estatal y Paraestatal, la Defensoría Pública; el Poder Legislativo del Estado: todas sus comisiones y órganos internos, la Diputación Permanente, la Auditoría Superior de Fiscalización y todas las dependencias administrativas del Congreso del Estado; el Poder Judicial del Estado, el Consejo de la Judicatura Estatal, todos los juzgados y órganos colegiados jurisdiccionales y administrativos, el Tribunal Estatal Electoral y el Tribunal de lo Contencioso Administrativo; los Ayuntamientos y cabildos de los Municipios, Presidente Municipal, Regidores y Síndicos, todas las entidades y dependencias de la administración pública municipal y paramunicipal los fideicomisos públicos; la Universidad Autónoma del Estad e Morelos, el Instituto Estatal Electoral, la Comisión Estatal de Derechos Humanos y el Instituto de Desarrollo y Fortalecimiento Municipal; los órganos autónomos constitucionales y los órganos autónomos legales; así como todas las entidades a las que la Constitución, las leyes estatales y los reglamentos municipales reconozcan como de interés público.
+9. Entidades Públicas.- Poder Ejecutivo del Estado, Gobernador Constitucional del Estado, las dependencias y entidades de la Administración Pública Estatal y Paraestatal, la Defensoría Pública; el Poder Legislativo del Estado: todas sus comisiones y órganos internos, la Diputación Permanente, la Auditoría Superior de Fiscalización y todas las dependencias administrativas del Congreso del Estado; el Poder Judicial del Estado, el Consejo de la Judicatura Estatal, todos los juzgados y órganos colegiados jurisdiccionales y administrativos, el Tribunal Estatal Electoral y el Tribunal de lo Contencioso Administrativo; los Ayuntamientos y cabildos de los Municipios, Presidente Municipal, Regidores y Síndicos, todas las entidades y dependencias de la administración pública municipal y paramunicipal los fideicomisos públicos; la Universidad Autónoma del Estado de Morelos, el Instituto Estatal Electoral, la Comisión Estatal de Derechos Humanos y el Instituto de Desarrollo y Fortalecimiento Municipal; los órganos autónomos constitucionales y los órganos autónomos legales; así como todas las entidades a las que la Constitución, las leyes estatales y los reglamentos municipales reconozcan como de interés público.
 
 10. Encuesta.- Acopio de datos obtenidos mediante consulta, referentes a estados de opinión, costumbres, nivel económico o cualquier otro aspecto de la actividad humana. En ningún caso las encuestas tendrán efectos vinculatorios.
 
@@ -419,7 +419,7 @@ El Instituto emitirá las bases en materia de administración y sistematización
 
 ### CAPÍTULO PRIMERO.. DEL CONTENIDO DE LA INFORMACIÓN PÚBLICA DE OFICIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 32.
 
@@ -501,11 +501,11 @@ Cuando se trate del otorgamiento de concesiones, licencias, permisos o autorizac
 
 34. Información de utilidad e interés público que contribuya a la transparencia gubernamental y social, a la rendición de cuentas y al mejor ejercicio del derecho de acceso a la información pública.
 
-35. Información acerca de la planeación, programación y contenidos de la información que las entidades públicas difundan a través de los diversos medios escritos y electrónicos a su cargo o en el tiempo que contraten para ello. El contenido de la información deberá atender a criterios de imparcialidad, objetividad, veracidad y oportunidad. En cualquier caso se atenderá el interés público por encima de sesgos partidarios, de gobierno o personales.
+35. (DEROGADO, P.O. 29 DE ABRIL DE 2015)
 
 36. Agenda de actividades de los titulares de las dependencias públicas, reuniones públicas de los diversos consejos, gabinetes, cabildos, sesiones plenarias y sesiones de trabajo a las que convoquen las entidades públicas.
 
-37. Todas las personas tienen derecho de acceso a las reuniones públicas de las entidades, salvo que por disposición expresa de la ley, del titular de la entidad o del órgano correspondiente se determine que deban realizarse con carácter reservado o selectivo. Las minutas de las reuniones a que se refiere este inciso deberán hacerse públicas de oficio.
+37. (DEROGADO, P.O. 29 DE ABRIL DE 2015)
 
 38. Los estudios de factibilidad ecológica, impacto ambiental, desarrollo urbano y de servicios públicos, así como los resultados de estudios y encuestas de opinión pública realizados o contratados por las entidades.
 
@@ -695,7 +695,7 @@ La administración, procesamiento, actualización y resguardo deberán realizars
 
 ### CAPÍTULO SEGUNDO.. DEL EJERCICIO DE LA ACCIÓN DE HABEAS DATA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 59.
 
@@ -901,7 +901,7 @@ La unidad de información pública será la encargada de realizar las gestiones 
 
 ###### Artículo 83.
 
-A partir de que se notifique la ubicación de la información solicitada, la unidad de información pública dispondrá de una plazo de diez días hábiles para entregar la información requerida, que podrán prorrogarse en forma excepcional por otros diez días hábiles. En este caso, la unidad administrativa deberá informar antes del primer vencimiento las razones de la prórroga y notificarlo al solicitante. En ningún caso el plazo de entrega podrá exceder de veinte días hábiles.
+A partir de que se notifique la ubicación de la información solicitada, la unidad de información pública dispondrá de una (sic) plazo de diez días hábiles para entregar la información requerida, que podrán prorrogarse en forma excepcional por otros diez días hábiles. En este caso, la unidad administrativa deberá informar antes del primer vencimiento las razones de la prórroga y notificarlo al solicitante. En ningún caso el plazo de entrega podrá exceder de veinte días hábiles.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1441,7 +1441,7 @@ EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE ABRIL DE 2007.
 
@@ -1524,3 +1524,9 @@ P.O. 22 DE ABRIL DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE ABRIL DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
