@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-04-01"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1677,9 +1677,9 @@ Nombrar al Fiscal General del Estado y someterlo a la aprobación del Congreso d
 
 El Gobernador removerá libremente del cargo al Fiscal General del Estado y a los Fiscales Especializados.
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-XXIII.- Presentar al Congreso del Estado la cuenta pública estatal, trimestral y anualmente. En el primer caso, dentro del mes siguiente a la terminación del período; y en el segundo, dentro de los dos meses posteriores a la terminación del ejercicio fiscal;
+XXIII. Presentar anualmente al Congreso del Estado la cuenta pública estatal, dentro de los dos meses posteriores a la terminación del ejercicio fiscal; así como presentar informes financieros trimestrales dentro del mes siguiente al cierre del período correspondiente;
 
 XXIV.- Cuidar de que los fondos públicos estén siempre asegurados y de que su recaudación y distribución se haga con arreglo a la ley.
 
@@ -2393,11 +2393,11 @@ Los presupuestos de egresos serán aprobados por los ayuntamientos con base en s
 
 Los ayuntamientos autorizarán en sus Presupuestos de Egresos, las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo aprobados en los términos del artículo 137.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### Art. 134.
 
-Presentar al Congreso la cuenta pública municipal, trimestral y anualmente, dentro del mes siguiente a la terminación del período que corresponda.
+Presentar al Congreso la cuenta pública municipal anualmente, dentro del mes siguiente a la terminación del período que corresponda. Asimismo, presentar al Congreso los informes financieros trimestrales dentro del mes siguiente al cierre del período correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2831,17 +2831,35 @@ DEL DESARROLLO SUSTENTABLE.
 
 El Sistema Estatal de Fiscalización es el conjunto de procesos y obligaciones que asume e integra el Estado, los Municipios, cualquier persona física o moral y a todo ente que recaude, administre, maneje o ejerza recursos públicos, así como los órganos encargados de la auditoría y fiscalización con el objetivo de transparentar el ingreso, el ejercicio presupuestal y el gasto. Deberá coadyuvar al desarrollo permanente en la eficiencia, eficacia, economía y transparencia de la gestión pública y obligará de manera permanente la rendición de cuentas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### Art. 171.
 
-La cuenta pública estatal y municipal será trimestral y anual. La cuenta trimestral debe presentarse ante el Congreso a más tardar el mes siguiente de vencido el período que corresponda. La cuenta anual del estado y municipio debe presentarse ante el Congreso dentro de los dos meses posteriores a la terminación del ejercicio fiscal y dentro del mes siguiente a la terminación del período que corresponda, respectivamente.
+La cuenta pública estatal y municipal será anual. La cuenta pública del Estado y municipio debe presentarse ante el Congreso dentro de los dos meses posteriores a la terminación del ejercicio fiscal y dentro del mes siguiente a la terminación del período que corresponda, respectivamente.
 
-La cuenta pública anual y trimestral del Gobierno del Estado integrará los estados financieros, contables y presupuestales de los tres poderes, de los organismos autónomos por disposición constitucional y de las entidades de la administración pública paraestatal.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-La cuenta pública anual y trimestral de los municipios integrará los estados financieros, contables y presupuestales de la administración pública municipal y paramunicipal.
+La cuenta pública anual del Gobierno del Estado integrará los estados financieros, contables y presupuestales de los tres Poderes, de los organismos autónomos por disposición constitucional y de las entidades de la administración pública paraestatal.
 
-Los tres poderes, los organismos autónomos y las entidades de la administración pública paraestatal, los municipios y los organismos paramunicipales, deberán llevar su contabilidad conforme a las disposiciones que establezca la ley. Éstos, así como cualquier persona física o moral y cualquier ente que reciba, maneje, recaude o administre recursos públicos, independientemente de su denominación, deberán poner, sin excusa alguna, a disposición de la Auditoría Superior del Estado y, en su caso, del Congreso la información y documentación correspondiente.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+La cuenta pública anual de los municipios integrará los estados financieros, contables y presupuestales de la administración pública municipal y paramunicipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+El Gobierno del Estado y los municipios presentarán ante el Congreso los informes financieros trimestrales dentro del mes siguiente al cierre del período correspondiente, los cuales quedan comprendidos de enero a marzo, de abril a junio, de julio a septiembre y de octubre a diciembre del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Los informes financieros trimestrales del Gobierno del Estado integrarán la información contable, cuya desagregación contemple los estados de situación financiera, de movimientos de ingresos y egresos y los que correspondan a resultados de operación.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Los informes financieros trimestrales de los municipios integrarán la información presupuestaria, cuya desagregación contemple el estado analítico de egresos, administrativo, económico y funcional.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Los tres Poderes, los organismos autónomos y las entidades de la administración pública paraestatal, los municipios y los organismos paramunicipales, deberán llevar su contabilidad conforme a las disposiciones que establezca la ley. Estos, así como cualquier persona física o moral y cualquier ente que reciba, maneje, recaude o administre recursos públicos, independientemente de su denominación, deberán poner, sin excusa alguna, a disposición de la Auditoría Superior del Estado y, en su caso, del Congreso la información y documentación correspondiente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -4156,3 +4174,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Una vez que el presente Decreto entre en vigor, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes.
 
 CUARTO.- Instrúyase a la Secretaría a que dentro de las veinticuatro horas siguientes a la aprobación del presente Decreto, rinda un Informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+
+P.O. 29 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. El contenido de los Artículos Segundo, Tercero y Cuarto del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
