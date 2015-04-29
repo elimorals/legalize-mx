@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-04-16"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 7 Y 14 DE MAYO DE 2015 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -553,7 +555,9 @@ VII. Occidente, que comprende los Estados de Colima, Jalisco y Nayarit;
 
 VIII. Centro I, que comprende el Estado de Aguascalientes;
 
-IX. Centro II, que comprende los Estados de San Luis Potosí y Querétaro;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+IX. Centro II, que comprende el Estado de Querétaro;
 
 X. Centro III, que comprende el Estado de Guanajuato;
 
@@ -569,11 +573,15 @@ XV. Sureste, que comprende el Estado de Oaxaca;
 
 XVI. Peninsular, que comprende los Estados de Yucatán y Campeche;
 
-XVII. Metropolitanas, que comprenden el Distrito Federal y el Estado de Morelos;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XVII. Metropolitanas, que comprenden el Distrito Federal;
 
 XVIII. Golfo-Norte, que comprende el Estado de Tamaulipas, con excepción de los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Ciudad Camargo, Díaz Ordaz y Reynosa, del propio Estado;
 
-XIX. Chiapas-Tabasco, que comprende los Estados de Chiapas y Tabasco;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XIX. Chiapas, que comprende el Estado de Chiapas;
 
 XX. Caribe, que comprende el Estado de Quintana Roo, y
 
@@ -586,6 +594,18 @@ XXII. Norte-Centro III, que comprende el Estado de Durango, con excepción de lo
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
 XXIII. Norte-Centro IV, que comprende el Estado de Zacatecas... (sic)
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XXIV. Morelos, que comprende el Estado de Morelos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XXV. San Luis Potosí, que comprende el Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XXVI. Tabasco, que comprende el Estado de Tabasco.
 
 ###### Artículo 22.
 
@@ -619,11 +639,9 @@ X. Región del Centro III: Una Sala que se denominará “Sala Regional del Cent
 
 XI. Región Hidalgo-México: Tres Salas que se denominarán, “Primera Sala Regional Hidalgo-México”, “Segunda Sala Regional Hidalgo-México” y “Tercera Sala Regional Hidalgo-México”, con sede en Tlalnepantla, Estado de México;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2012)</small>
-
-XII. Región de Oriente: Una Sala que se denominará, "Sala Regional de Oriente" con sede en la Ciudad de Puebla, Estado de Puebla;
+XII. Región de Oriente: Dos salas que se denominaran, “Primera Sala Regional de Oriente” y “Segunda Sala Regional de Oriente”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
@@ -635,15 +653,15 @@ XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Surest
 
 XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
-
-XVII. Región Metropolitana: Once Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Cuarta Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana” y “Décimo Primera Sala Regional Metropolitana”, todas con sede en la Ciudad de México, Distrito Federal;
+XVII. Región Metropolitana: Catorce Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Cuarta Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana”, “Décimo Primera Sala Regional Metropolitana”, “Décimo Segunda Sala Regional Metropolitana”, “Décimo Tercera Sala Regional Metropolitana” y “Décimo Cuarta Sala Regional Metropolitana”, todas con sede en la Ciudad de México, Distrito Federal.
 
 XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
 
-XIX. Región Chiapas-Tabasco: Una Sala que se denominará “Sala Regional Chiapas-Tabasco”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XIX. Región de Chiapas: Una Sala que se denominará “Sala Regional de Chiapas”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
 
 XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y
 
@@ -656,6 +674,18 @@ XXII. Región del Norte-Centro III: una Sala que se denominará "Sala Regional d
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
 XXIII. Región del Norte-Centro IV: una Sala que se denominará “Sala Regional del Norte-Centro IV”, con sede en la ciudad de Zacatecas, Estado de Zacatecas.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XXIV. Región de Morelos: Una Sala que se denominará “Sala Regional de Morelos”, con sede en la Ciudad de Cuernavaca, Estado de Morelos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XXV. Región de San Luis Potosí: Una Sala que se denominará “Sala Regional de San Luis Potosí”, con sede en la Ciudad de San Luis Potosí, Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+XXVI. Región de Tabasco: Una Sala que se denominará “Sala Regional de Tabasco”, con sede en la Ciudad de Villahermosa, Estado de Tabasco.
 
 > <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
@@ -713,9 +743,7 @@ n) Comisión Reguladora de Energía (CRE)
 
 Bis.- El Tribunal contará con las Salas Auxiliares siguientes, cuya denominación y sede serán:
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
-
-I. Primera Sala Auxiliar, con sede en la Ciudad de México, Distrito Federal.
+I. (DEROGADA, D.O.F. 29 DE ABRIL DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -742,6 +770,10 @@ VI. Sexta Sala Auxiliar, con sede en la ciudad de Morelia, Estado de Michoacán,
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
 VII. Séptima Sala Auxiliar, con sede en la ciudad de Zacatecas, Estado de Zacatecas, que será la Sala Regional del Norte-Centro IV, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21 fracción XXIII, y 22 fracción XXIII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
+
+VIII. Octava Sala Auxiliar, con sede en la ciudad de Cuernavaca, Estado de Morelos, que será la Sala Regional de Morelos, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21 fracción XXIV, y 22 fracción XXIV, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -2948,3 +2980,15 @@ D.O.F. 16 DE ABRIL DE 2015.
 Primero.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Décimo Segunda, Décimo Tercera y Décimo Cuarta Salas Regionales Metropolitanas, la Segunda Sala Regional de Oriente, la Sala Regional de Morelos, la Sala Regional de San Luis Potosí y la Sala Regional de Tabasco, que se crean, iniciarán sus operaciones a los treinta días naturales siguientes a la fecha en que la Junta de Gobierno y Administración adscriba a los Magistrados de Sala Regional necesarios para poder integrarlas conforme se indica en el artículo 31 de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+TERCERO.- En términos de lo señalado por el artículo 41, fracciones I y IV, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, la Junta de Gobierno y Administración determinará la redistribución de los expedientes en trámite y concluidos para la Décimo Segunda, Décimo Tercera y Décimo Cuarta Salas Regionales Metropolitanas, la Sala Regional de Morelos, la Segunda Sala Regional de Oriente y las Salas Regionales de San Luis Potosí y de Tabasco, que se encuentren radicados en las diversas Salas de la Región Metropolitana, en la Sala Regional de Oriente, en la Sala Regional Centro II y en la Sala Regional Chiapas-Tabasco, respectivamente, a fin de garantizar una adecuada división de las cargas de trabajo, tomando en cuenta el inventario de cada una de ellas. Asimismo, deberá dictar los demás acuerdos que sean necesarios para la consecución del objetivo de este Acuerdo.
+
+CUARTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
