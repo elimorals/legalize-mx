@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-coordinacion-de-desarrollo-41580"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-09"
-last_updated: "2004-10-09"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION DE DESARROLLO ADMINISTRATIVO Y MODERNIZACION
 
-REGLAMENTO INTERIOR DE LA COORDINACION DE DESARROLLO ADMINISTRATIVO Y MODERNIZACION
+REGLAMENTO INTERIOR DE LA COORDINACIÓN DE DESARROLLO ADMINISTRATIVO Y MODERNIZACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL GOBIERNO DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 9 de octubre de 2004.
 
@@ -221,7 +223,7 @@ Reglamento, así como las que le asigne y encomiende el Coordinador.
 
 Compete a la Dirección de Informática:
 
-I. Realizar el rediseño de los procesos a nivel d el gobierno en su conjunto y Io correspondiente al desarrollo de los sistemas que eficienten su operación, considerando a la tecnología de información como eje del cambio y aplicando las mejores prácticas en las soluciones correspondientes.
+I. Realizar el rediseño de los procesos a nivel del gobierno en su conjunto y lo correspondiente al desarrollo de los sistemas que eficienten su operación, considerando a la tecnología de información como eje del cambio y aplicando las mejores prácticas en las soluciones correspondientes.
 
 II. Planear, promover, desarrollar y mantener una infraestructura de tecnología de información de punta, moderna y robusta, así como una plataforma de desarrollo de sistemas basada en un modelo integral de datos, que permitan la dinámica optimización del funcionamiento del Gobierno del Estado, de acuerdo con las demandas de la sociedad.
 
@@ -398,3 +400,19 @@ LIC. SERGIO ANTONIO MARTÍNEZ GARZA
 EL COORDINADOR DE DESARROLLO ADMINISTRATIVO Y MODERNIZACIÓN
 
 LIC. JORGE MARCELO LOEWENSTEIN CARAVEO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los Reglamentos Interior de la Secretaría de la Contraloría del Gobierno del Estado de Chihuahua, expedido por el Ejecutivo Estatal el día 27 de agosto de dos mil cuatro y publicado en el Periódico Oficial del Estado el día 18 de septiembre de dos mil cuatro, así como el Interior de la Coordinación de Desarrollo Administrativo y Modernización, de fecha veintinueve de septiembre de 2004 publicado en el Periódico Oficial del Estado el 9 de octubre de 2004, y en general todas aquellas anteriores disposiciones de igual jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite al entrar en vigor el presente Reglamento, serán continuados y resueltos por aquella unidad administrativa a la que se le haya atribuido la competencia en el presente ordenamiento reglamentario.
