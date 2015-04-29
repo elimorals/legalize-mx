@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-04-24"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -777,9 +777,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cinco juzgados de Distrito Auxiliares, cuatro con residencia en San Andrés Cholula, Puebla y uno con residencia en Puebla, Puebla.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 38/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 20/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-3. El Centro Auxiliar de la Tercera Región, se integrará por cinco tribunales colegiados de Circuito Auxiliares, cuatro con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; seis tribunales unitarios de Circuito Auxiliares, cuatro con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y tres juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+3. El Centro Auxiliar de la Tercera Región, se integrará por cinco tribunales colegiados de Circuito Auxiliares, cuatro con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco tribunales unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares.
 
@@ -1564,3 +1564,59 @@ II. …
 Derogado.
 
 III. a XXXIII. …”
+
+D.O.F. 29 DE ABRIL DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se faculta a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, para suspender con toda oportunidad el envío de asuntos a los órganos jurisdiccionales auxiliares que concluyen funciones, así como determinar el returno de los que tengan en existencia, a efecto de que en la fecha señalada para el fin de sus actividades, no cuenten con expedientes pendientes de resolución.
+
+CUARTO. Se reforma el numeral QUINTO, número 3 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"QUINTO. …
+
+1. a 2. …
+
+3. El Centro Auxiliar de la Tercera Región, se integrará por cinco tribunales colegiados de Circuito Auxiliares, cuatro con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco tribunales unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+4. a 11. …
+
+…"
+
+QUINTO. Se reforma el numeral PRIMERO del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+"PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Tercera Región, está conformado por cinco tribunales colegiados de Circuito Auxiliares, cuatro con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco Tribunales Unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato, y dos con sede en Guadalajara, Jalisco y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+
+I. Los tribunales colegiados de Circuito se denominarán:
+
+a) Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+b) Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+c) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán.
+
+d) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+e) Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+II. Los tribunales unitarios se denominarán:
+
+a) Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+b) Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+c) Tercer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+d) Sexto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+e) Séptimo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+III. Los juzgados de Distrito se denominarán:
+
+a) Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+b) Juzgado Sexto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Uruapan, Michoacán.
