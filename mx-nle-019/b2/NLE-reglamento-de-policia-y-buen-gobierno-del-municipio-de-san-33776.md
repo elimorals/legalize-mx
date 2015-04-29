@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2011-07-18"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -93,7 +93,7 @@ XI. Todos aquellos Servidores Públicos a quienes se les otorgue facultades para
 
 Será facultad exclusiva de la Secretaria de Finanzas y Tesorería Municipal el cobro de las multas impuestas por infracción al presente Reglamento; así como proveer y disponer del recurso material y humano para llevar a cabo esta función.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 8.
 
@@ -177,11 +177,19 @@ VI. Contra la salud; y
 
 VII. Contra la ecología.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2015)</small>
+
+Se consideran infracciones con agravante, todas aquéllas acciones y omisiones que contravengan las disposiciones de este reglamento y cuando la persona a quien se le impute la acción u omisión infractora se encuentre en estado de ebriedad o bajo los efectos de alguna sustancia que produzca efectos similares, y que con su conducta, ponga en riesgo, tanto su vida, como la de terceras personas, incluyendo su patrimonio, para lo cual el Juez Calificador atenderá los resultados del examen médico a que se refiera el artículo 34 de este Reglamento.
+
 También se considerarán infracciones con agravante, cuando el infractor sea reincidente.
 
 Hay reincidencia siempre que el infractor cometa la misma violación a las disposiciones de este Reglamento si no han transcurrido dos años desde la aplicación de la sanción anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2015)</small>
+
+Se considerará que el infractor es habitual, cuando no haya cometido la misma falta administrativa por la cual se le remite en la detención actual, sino que cuente con antecedentes de haber cometido diversas faltas administrativas diferentes a la que cometió y sean dentro del primer año anterior a la detención actual.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 13.
 
@@ -227,7 +235,7 @@ XV. (DEROGADA, P.O. 18 DE JULIO DE 2011)
 
 XVI. Alterar el orden en lugares públicos o privados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 14.
 
@@ -273,9 +281,9 @@ XVI. Azuzar animales causando daños o molestias a las personas o sus bienes; y
 
 XVII. Cuando por negligencia o descuido de los propietarios o poseedores de perros u otros animales se causen los daños señalados en la fracción anterior.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-Para los efectos de la fracción IX, todos los elementos de policía y tránsito deberán poner al presunto infractor a disposición del Juez Calificador en turno para la realización del procedimiento administrativo de calificación establecido en este reglamento y aplicar la sanción correspondiente, quedando el vehículo a disposición de la Dirección de Tránsito y Vialidad de este municipio para los efectos administrativos a que hubiere lugar.
+Para los efectos de la fracción IX y X, todos los elementos de policía y tránsito deberán poner al presunto infractor a disposición del Juez Calificador en turno para la realización del procedimiento administrativo de calificación establecido en este reglamento y aplicar la sanción correspondiente, quedando el vehículo a disposición de la Dirección de Tránsito y Vialidad de este municipio, con quien el infractor deberá acreditar el tratamiento que se le determine.
 
 (ADICIONADO, P.O. 27 DE JULIO DE 2007) (F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)
 
@@ -301,7 +309,7 @@ Evidente Estado de Ebriedad.- Cuando a través de los sentidos por las manifesta
 
 El Evidente Estado de Ebriedad se demostrará ante la Autoridad Municipal cuando derivado del consumo de alcohol etílico o sustancias, se aprecie que la persona presente alteraciones en la coordinación, la respuesta a reflejos, la alteración del equilibrio o del lenguaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 15.
 
@@ -341,7 +349,7 @@ XVI. Maltratar los padres o tutores a sus hijos o pupilos, excepto que se trate 
 
 XVII. Desobedecer o tratar de burlar a la Autoridad que le llame la atención en relación con cualquier aspecto relacionado con el orden y la tranquilidad de la población en general.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 16.
 
@@ -375,7 +383,7 @@ X. Reservar, rentar o invadir espacios en la vía pública destinados para el es
 
 XI. Alterar, mover o de cualquier manera modificar la forma, color o estructura original de cualquier mueble o inmueble que se ubique en los parques, jardines, calzadas, avenidas o vía pública sin la previa autorización del Republicano Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 17.
 
@@ -389,7 +397,7 @@ III. Ejercer actos de comercio sin la autorización de la Autoridad en cementeri
 
 IV. Desempeñar cualquier actividad cuando para ello se requiera del permiso o licencia de la Autoridad Municipal y no se cuente con ello; o bien, cuando no se sujete a las condiciones requeridas para la prestación de un servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 18.
 
@@ -413,7 +421,7 @@ VIII. Arrojar en los sistemas de desagüe, animales muertos, escombros, desperdi
 
 IX. Realizar fogatas en la vía o lugares públicos que constituyan algún riesgo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 19.
 
@@ -453,21 +461,27 @@ Cuando de un hecho o hechos se constituyan violaciones a otros ordenamientos leg
 
 Las faltas cometidas de padres a hijos y viceversa y entre cónyuges, se sancionarán a petición expresa del ofendido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
 Las sanciones aplicables a las infracciones al presente Reglamento consistirán en:
 
-I. Amonestación,
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-II. Multa; o
+I. Amonestación;
 
-III. Arresto hasta por 36-treinta y seis horas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+II. Multa, arresto hasta por 36-treinta y seis horas; o
 
-IV. Trabajo a favor de la Comunidad.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+III. Trabajo a favor de la Comunidad;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+IV. Multa y arresto inconmutable de 8-ocho horas hasta 36-treinta y seis horas. Aplicable al artículo 14 fracciones IX y X, del presente Reglamento;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
 
@@ -475,7 +489,11 @@ IV. Trabajo a favor de la Comunidad.
 
 Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 250-doscientas cincuenta cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio.
 
-El párrafo que antecede se observará para la imposición de las multas relacionadas con infracciones no agravadas, ya que en el caso de encontrarse con el supuesto de una infracción con agravante, la sanción deberá ser entre 1-una cuota como mínimo y las 500-quinientas cuotas como máximo.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+El párrafo que antecede se observará para la imposición de las multas relacionadas con infracciones no agravadas, ya que en el caso de encontrarse con el supuesto de una infracción con agravante, la sanción deberá ser entre 1-una cuota como mínimo y las 600-seiscientas cuotas como máximo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
 
 En ambos supuestos se le cobrará conjuntamente con la multa impuesta el dictamen médico que se elabore a la persona detenida, cuyo valor será de 2-dos cuotas.
 
@@ -503,9 +521,11 @@ Si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que 
 
 El Juez Calificador podrá acumular las sanciones administrativas contenidas en el presente ordenamiento legal, que correspondan a 2-dos o más infracciones cometidas por la misma persona, incluyendo las diversas infracciones cometidas, en diferente tiempo, modo y circunstancias.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 29.
 
-Si el infractor paga la multa que le haya sido impuesta, de inmediato será puesto en libertad. Si esta compurgando arresto por no haber pagado la multa y posteriormente el infractor la paga, dicha suma le será reducida proporcionalmente a las horas que haya pasado en arresto.
+Si el infractor paga la multa que le haya sido impuesta, de inmediato será puesto en libertad. Si está compurgando arresto por no haber pagado la multa y posteriormente el infractor la paga, dicha suma le será reducida proporcionalmente a las horas que haya pasado en arresto. Se exceptúa de lo dispuesto en este articulo, la sanción aplicada a las faltas administrativas de las fracciones IX y X, del artículo 14 del presente Reglamento.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
 
@@ -525,7 +545,7 @@ lII. Arresto hasta por 36 treinta y seis horas; y
 
 IV. Auxilio de la fuerza pública.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO CUARTO. DEL PROCEDIMIENTO SUMARIO ORAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL
 
@@ -575,13 +595,13 @@ II. El detenido podrá comunicarse con una persona de su confianza.
 
 III. Sumariamente será celebrada una audiencia oral, sin sujeción a formalismo alguno y a la cual comparecerá, el detenido, y las personas implicadas en los hechos;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 IV. El Juez Calificador desahogará la audiencia en la siguiente forma:
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-a) Verificará que el presunto infractor no se encuentra en estado de ebriedad o bajo el influjo de drogas enervantes, asistido por un perito en la materia, para lo cual, será necesario que oiga e interrogue al agente que hubiere intervenido en la detención del presunto infractor;
+a. Interrogará al agente que hubiere intervenido en la detención del presunto infractor;
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
@@ -605,9 +625,9 @@ h) Si al momento de interrogar al arrestado, éste admite y confiesa los hechos 
 
 V. Dictará y notificará la resolución que en Derecho corresponda, tomando en consideración, la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo la sanción correspondiente, o en su caso absolviendo al arrestado o arrestados; y
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-VI. A solicitud del infractor las sanciones administrativas, podrán conmutarse por servicio comunitario, sujetándose al procedimiento correspondiente.
+VI. A solicitud del infractor las sanciones administrativas, podrán conmutarse por trabajo a favor de la comunidad, sujetándose al procedimiento correspondiente. Se exceptúa de lo dispuesto en este artículo, la sanción aplicada a las faltas administrativas de las fracciones IX y X, del artículo 14 del presente Reglamento.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
@@ -697,19 +717,21 @@ Los presuntos infractores a los ordenamientos municipales, solamente podrán ser
 
 ARTÍCULO.- 38.- Si las Infracciones a que se refiere este ordenamiento y demás normas de carácter municipal, se cometen en domicilios particulares, para que las Autoridades puedan ejercer sus funciones, deberá mediar petición expresa y permiso del ocupante del inmueble.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ### CAPITULO QUINTO. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 39.
 
-Todos los menores de edad que cometan una infracción al presente Reglamento deberán ser puestos a disposición del Juez Calificador en turno, el cual conocerá y resolverá, aplicando la sanción correspondiente conforme al presente Reglamento; debiendo entregar al menor infractor a los padres, tutores o representantes legales, previo el cumplimiento de la sanción impuesta.
+Todos los menores de edad que cometan una infracción al presente Reglamento deberán ser puestos a disposición del Juez Calificador en turno, el cual conocerá y resolverá, de acuerdo a los siguientes parámetros:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
+I.- Los menores de 12 años que cometan infracciones administrativas, serán entregados, previa firma de responsiva e informándoles los motivos de su remisión, a sus padres, tutores o representantes legales; a falta de estos, serán remitidos a la autoridad competente.
 
-En aquellos casos en que los hechos u omisiones sean tipificados como delitos previstos por el Código Penal el Juez Calificador deberá remitir y poner a disposición de la autoridad competente al menor infractor, lo anterior para el efecto de que se resuelva su situación jurídica por la conducta o conductas realizadas.
+II.- Los mayores de 12 años, pero menores de 18 años, se les aplicarán como sanción, una amonestación y permanecerán en un área de observación, para ser entregados, previa firma de responsiva e informándoles los motivos de su remisión, a sus padres, tutores o representantes legales; a falta de estos, serán remitidos a la autoridad competente.
 
 ### CAPITULO SEXTO. DEL COMITÉ DE HONOR Y JUSTICIA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ### CAPITULO SEPTIMO. DEL PROCEDIMIENTO DE MODIFICACIÓN AL REGLAMENTO
 
@@ -723,7 +745,7 @@ Contra los actos y resoluciones de la Autoridad Municipal, dictados con motivo d
 
 El recurso de inconformidad tiene por objeto que la Autoridad confirme, revoque o modifique la sanción económica impuesta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 42.
 
@@ -757,81 +779,81 @@ El término para el desahogo de las pruebas ofrecidas, lo será el de 5-cinco d�
 
 Dentro de un término no mayor de 15-quince días hábiles, después de concluir el periodo de pruebas, la Autoridad confirmará, modificará o revocará el acto recurrido. Si no lo hiciere en ese término, el recurso se entenderá resuelto a favor del quejoso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
 ###### ARTÍCULO 45.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 46.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 47.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 48.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 49.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 50.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 51.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 52.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 53.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 54.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 55.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 56.
 
-(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, P.O. 30 DE OCTUBRE DE 2009) (REPUBLICADO, P.O. 26 DE MAYO DE 2010)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 57.
 
@@ -932,3 +954,11 @@ EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 18 DE JULIO DE 2011.
 
 > <small>N. DE E. LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.</small>
+
+P.O. 29 DE ABRIL DE 2015.
+
+PRIMERO.- Envíese para su publicación al Periódico Oficial del Estado y la Gaceta Municipal, previa Consulta Pública.
+
+SEGUNDO.- La entrada en vigor del presente Acuerdo comenzará a partir del día 2 de febrero del 2015.
+
+TERCERO.- Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, serán resueltos conforme a lo dispuesto a lo establecido en los Reglamentos de Policía y Buen Gobierno y el Reglamento de Tránsito y Vialidad vigentes.
