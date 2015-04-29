@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "2015-04-22"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DEL MENOR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -267,7 +267,9 @@ II.- La protección, el mejoramiento y la restauración de la salud;
 
 III.- Las medidas necesarias para la atención a menores discapacitados física o mentalmente, dándoles atención médica especializada y tratamiento rehabilitador;
 
-IV.- Apoyar la nutrición de la madre en estado de gestación o lactancia, para que el producto alcance la madurez y crecimiento necesario para su correcto desarrollo;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+IV.- Apoyos para la nutrición de la madre en estado de gestación o lactancia, para que el producto alcance la madurez y crecimiento necesario para su correcto desarrollo, así como medidas de fomento a la lactancia materna, en forma exclusiva durante los primeros seis meses de vida, y de manera complementaria hasta avanzado el segundo año de edad;
 
 V.- Asistencia médica, a través de clínicas y hospitales del sector salud o de los establecimientos particulares que se convenga, a la madre en gestación o lactancia y a los menores de edad, sin importar su filiación o no a los regímenes de asistencia o derechohabientes;
 
@@ -922,3 +924,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE ABRIL DE 2015.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
