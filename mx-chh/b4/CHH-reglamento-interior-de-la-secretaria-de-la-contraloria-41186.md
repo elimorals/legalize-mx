@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-la-contraloria-41186"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-18"
-last_updated: "2004-09-18"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA
+REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL GOBIERNO DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015. (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 18 de septiembre de 2004.
 
@@ -504,3 +506,21 @@ LIC. SERGIO A. MARTÍNEZ GARZA.
 EL SECRETARIO DE LA CONTRALORÍA
 
 LIC. RICARDO MEJIA BORJA REY.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL GOBIERNO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los Reglamentos Interior de la Secretaría de la Contraloría del Gobierno del Estado de Chihuahua, expedido por el Ejecutivo Estatal el día 27 de agosto de dos mil cuatro y publicado en el Periódico Oficial del Estado el día 18 de septiembre de dos mil cuatro, así como el Interior de la Coordinación de Desarrollo Administrativo y Modernización, de fecha veintinueve de septiembre de 2004 publicado en el Periódico Oficial del Estado el 9 de octubre de 2004, y en general todas aquellas anteriores disposiciones de igual jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite al entrar en vigor el presente Reglamento, serán continuados y resueltos por aquella unidad administrativa a la que se le haya atribuido la competencia en el presente ordenamiento reglamentario.
