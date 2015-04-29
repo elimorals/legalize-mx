@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2015-04-22"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -167,7 +167,7 @@ La representación política y administrativa de los Municipios en todos los asu
 
 ###### Artículo 4.
 
-Los Municipios del Estado, regularán su funcionamiento de conformidad con lo que establecen los derechos humanos, esta Ley, los ordenamientos federales y estatales, bandos municipales, reglamentos y circulares, disposiciones administrativas y demás disposiciones aplicables. Las autoridades municipales tienen competencia plena y exclusiva sobre su territorio y población, así como en lo concerniente a su organización política y administrativas (sic), con las limitaciones que señalen las propias Leyes.
+Los Municipios del Estado, regularán su funcionamiento de conformidad con lo que establecen los derechos humanos, esta Ley, los ordenamientos federales y estatales, bandos municipales, reglamentos y circulares, disposiciones administrativas y demás disposiciones aplicables. Las autoridades municipales tienen competencia plena y exclusiva sobre su territorio y población, así como en lo concerniente a su organización política y administrativas, con las limitaciones que señalen las propias Leyes.
 
 Los Ayuntamientos están facultados para elaborar, aprobar y publicar compendios municipales que comprendan toda la reglamentación vigente aplicable en el ámbito municipal.
 
@@ -601,7 +601,9 @@ Con el objeto de atender asuntos específicos, según las necesidades del Munici
 
 III.- Designar a una comisión temporal denominada Comisión Especial de Recepción, que estará integrada por un Regidor de cada uno de los Partidos Políticos con representación en el Ayuntamiento, la cual tendrá la responsabilidad de revisar y resguardar los padrones, expedientes laborales y de elementos de seguridad pública, inventarios, fondos y valores que entrega el Ayuntamiento saliente. Esta Comisión podrá asesorarse con las instancias que ella misma determine, y deberá emitir un dictamen, dentro de los treinta días naturales siguientes a la entrega del Ayuntamiento saliente, al cual anexará la relación de expedientes recibidos, referenciando cada expediente con su correspondiente área administrativa, que deberá presentar en sesión de Cabildo, para su discusión y aprobación, en su caso.
 
-Si el Ayuntamiento saliente se negara a hacer la entrega o la realizara de manera parcial, la Comisión encargada, levantará el acta correspondiente, corriendo inmediato traslado, mediante copia certificada al Congreso del Estado, que proveerá lo conducente de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley de Responsabilidades de Servidores Públicos del Estado de Morelos; y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Si el Ayuntamiento saliente se negara a hacer la entrega o la realizara de manera parcial, la Comisión encargada, levantará el acta correspondiente, corriendo inmediato traslado, mediante copia certificada al Congreso del Estado, que proveerá lo conducente de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley Estatal de Responsabilidades de los Servidores Públicos; y demás ordenamientos jurídicos aplicables.
 
 Asimismo, en caso de cubrir los requisitos de la entrega recepción, del acta que se levante, así como de las observaciones formuladas, se remitirá copia a la Legislatura Local.
 
@@ -611,7 +613,9 @@ Los Titulares o responsables de área, en el momento de dejar de surtir efectos 
 
 Todo Ayuntamiento, mediante el área de Recursos Humanos, está obligado a conservar y resguardar el archivo laboral, el cual contendrá los expedientes individualizados de trabajadores en activo, ex trabajadores, y pensionistas del Municipio, así como también de los elementos de seguridad pública, archivo que por ningún motivo estará fuera del Edificio Municipal o de las oficinas de Recursos Humanos.
 
-Todo servidor público, será responsable de los expedientes a su resguardo, por lo que en caso de negligencia o mal manejos de éstos, se estará a lo dispuesto por la Ley de Responsabilidades de Servidores Públicos del Estado de Morelos.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Todo servidor público, será responsable de los expedientes a su resguardo, por lo que en caso de negligencia o mal manejos (sic) de éstos, se estará a los dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 En el último año de ejercicio constitucional, el Ayuntamiento saliente, deberá prever en el Presupuesto de Egresos una partida especial para el proceso de entrega recepción;
 
@@ -913,7 +917,9 @@ LVII. Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos
 
 LVIII. Proporcionar instrucción cívica a los ciudadanos del Municipio, con el fin de que se mantengan aptos en el ejercicio de sus derechos cívico políticos;
 
-LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Morelense de Procesos Electorales y Participación Ciudadana y con el Instituto Nacional Electoral, en la promoción y difusión de la educación cívica política;
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
 
@@ -952,6 +958,10 @@ LXVII. Para el caso de que el Cabildo Municipal, emita en sentido negativo algú
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
 LXVIII. Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+LXX (SIC). Resolver en relación a la admisión y trámite de Iniciativas Populares Administrativas conforme a lo establecido en la Sección Segunda, del Capítulo III, de la Ley de Participación Ciudadana del Estado de Morelos.
 
 ###### Artículo 39.
 
@@ -1191,7 +1201,9 @@ VII. Asistir puntualmente a las sesiones del Ayuntamiento y participar en las di
 
 VIII. Vigilar que los ingresos del Municipio y las multas que impongan las autoridades ingresen a la Tesorería y se emita el comprobante respectivo;
 
-IX. Regularizar la propiedad de los bienes inmuebles municipales y solicitar su inscripción en el Registro Público de la Propiedad Inmobiliaria del Estado; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+IX. Regularizar la propiedad de los bienes inmuebles municipales y solicitar su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos; y
 
 X. Admitir, substanciar y resolver los recursos administrativos que sean de su competencia.
 
@@ -1251,9 +1263,11 @@ Los Ayuntamientos, para impulsar el desarrollo dentro de su ámbito territorial,
 
 Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio, de conformidad con los criterios y metodología contenidos en la Ley Estatal de Planeación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### Artículo 51.
 
-Los Planes de Desarrollo Municipal, en municipios que cuenten con población indígena, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas, respetando sus formas de producción y comercio.
+Los Planes de Desarrollo Municipal, en Municipios que cuenten con población indígena, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas, respetando su cultura, usos, costumbres, tradiciones y sus formas de producción y comercio con estricto apego a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado Libre y Soberano de Morelos.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
@@ -1673,7 +1687,9 @@ La Contraloría Municipal, es el órgano encargado del control, inspección, sup
 
 Para ser Contralor Municipal se requiere:
 
-I. No ser miembro del Ayuntamiento;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+I. No ser miembro del Ayuntamiento, ni haber ejercido como titular de la Tesorería durante los tres años anteriores inmediatos al día del nombramiento;
 
 II. Ser ciudadano morelense en ejercicio de sus derechos civiles y políticos;
 
@@ -2037,11 +2053,11 @@ c) Los términos y requisitos para el registro de candidatos, y,
 
 d) Las demás disposiciones y previsiones que sean necesarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-IV. La preparación, desarrollo y vigilancia del proceso electoral estará a cargo de una Junta Electoral Municipal permanente, integrada por el Presidente Municipal en funciones, quien la presidirá; un representante del Instituto Estatal Electoral del Estado, quien hará las funciones de Secretario y un Regidor representante de la primera minoría;
+IV. La preparación, desarrollo y vigilancia del proceso electoral estará a cargo de una Junta Electoral Municipal permanente, integrada por el Presidente Municipal en funciones, quien la presidirá; un representante del Instituto Morelense de Procesos Electorales y Participación Ciudadana, quien hará las funciones de Secretario y un representante designado por el Regidor o Regidores de la primera minoría;
 
-Los asuntos serán resueltos por mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad; la Junta sesionará por citación del Presidente y podrán concurrir a las sesiones con voz pero sin voto, los candidatos registrados o un representante de éstos;
+Los asuntos serán resueltos por mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad; la Junta sesionará por citación del Presidente y podrán concurrir a las sesiones, con voz pero sin voto, los candidatos registrados o un representante de éstos;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2199,11 +2215,17 @@ Los Ayuntamientos deberán informar detalladamente con relación a los emprésti
 
 La cuenta pública anual de cada Municipio se formará, rendirá y aprobará en cada Ayuntamiento, conforme a las disposiciones de la Constitución Política del Estado y a las de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-Cuando se trate del término de un período constitucional, la administración municipal saliente aprobará su cuenta pública, correspondiente al período de enero a octubre, dentro de los últimos diez días del mes de octubre del año en que concluyan dicho período constitucional y la presentará al Congreso del Estado a más tardar el treinta de noviembre de dicho año, conforme a lo previsto por la Constitución Política Local.
+Los Ayuntamientos presentarán al Congreso, a más tardar el día 31 de enero de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 31 de octubre, la Cuenta Pública correspondiente a los meses de enero a septiembre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la Cuenta Pública, correspondiente a los meses octubre, noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la Cuenta Pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2015)</small>
+
+Los Ayuntamientos presentarán al Congreso a más tardar el día 31 de enero de cada año, la cuenta correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo.
 
 ###### Artículo 118.
 
@@ -2377,7 +2399,7 @@ IV.- Tener un modo honesto de vivir.
 
 Son facultades y obligaciones del Titular de la Dependencia Municipal que refiere el artículo 127 bis las siguientes:
 
-l. Cumplir y hacer cumplir las leyes, decretos, reglas de operación, lineamientos, acuerdos, circulares y demás disposiciones jurídicas reglamentarias del ámbito Federal, Estatal y Municipal en materia de obra pública;
+I. Cumplir y hacer cumplir las leyes, decretos, reglas de operación, lineamientos, acuerdos, circulares y demás disposiciones jurídicas reglamentarias del ámbito Federal, Estatal y Municipal en materia de obra pública;
 
 II. Asesorar al Ayuntamiento en la elaboración de los Planes Municipales de Desarrollo, Planeación Urbana y demás Programas de Desarrollo Sustentable, de conformidad con los criterios de la Ley Estatal de Planeación y demás normatividad aplicable;
 
@@ -3634,6 +3656,102 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO 1314, POR EL QUE SE REFORMA EL ARTÍCULO 117, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor el primero de enero del 2016.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente (sic), se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CINCUENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 85, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CINCUENTA Y NUEVE POR EL QUE SE REFORMA LA FRACCIÓN LIX DEL ARTÍCULO 38, LA FRACCIÓN IV DEL ARTÍCULO 106, EL SEGUNDO Y SÉPTIMO PÁRRAFO DE LA FRACCIÓN III, CORRESPONDIENTE AL SEXTO PÁRRAFO DEL ARTÍCULO 24 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO OCHENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN IX, DEL ARTÍCULO 45, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO OCHENTA Y OCHO, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO, DEL ARTICULO 51, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO OCHENTA Y NUEVE POR EL QUE SE ADICIONA UNA FRACCIÓN LXX, AL ARTÍCULO 38, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
