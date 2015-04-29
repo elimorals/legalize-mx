@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2015-04-22"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -891,7 +891,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la inscripción a programas federales de ayuda alimentaria directa, tendiente a mejorar el estado nutricional de los menores;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la inscripción a programas federales de ayuda alimentaria directa, tendiente a mejorar el estado nutricional de los menores. Así también, las medidas y acciones necesarias para prohibir, dentro de las instalaciones de tales servicios, la publicidad con imágenes o texto que incentive el uso de fórmulas alimenticias en menores de hasta seis meses de edad, así como prohibirla (sic) entrega directa o indirecta de muestras gratis a las madres, tanto de sucedáneos de leche materna, como de biberones;
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en los menores de cinco años;
 
@@ -4348,3 +4350,13 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 29 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
