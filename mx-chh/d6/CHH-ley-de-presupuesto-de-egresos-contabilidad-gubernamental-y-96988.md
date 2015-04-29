@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-gubernamental-y-9698
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-28"
-last_updated: "2014-10-22"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2013.
 
@@ -991,19 +991,29 @@ La información financiera que generen los entes públicos y los municipios, en 
 
 La difusión de la información vía Internet, no exime los informes que deben presentarse ante el H. Congreso del Estado.
 
-### CAPÍTULO SEGUNDO. DE LA CUENTA PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2015)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS INFORMES TRIMESTRALES Y DE LA CUENTA PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 118.
 
-Los estados financieros y demás información presupuestaria, programática y contable que emanen de los registros de los entes públicos y los municipios, serán la base para la emisión de informes periódicos y para la formulación de las cuentas públicas trimestrales y anuales.
+Los estados financieros y demás información presupuestaria, programática y contable que emanen de los registros de los entes públicos y los municipios, serán la base para la emisión de informes periódicos y para la formulación de la cuenta pública.
 
 Los entes públicos y los municipios deberán elaborar los estados, de conformidad con las disposiciones normativas y técnicas que emanen de esta Ley o que emita el Consejo.
 
 Los estados correspondientes a los ingresos y gastos públicos presupuestarios se elaborarán sobre la base de devengado y, adicionalmente, se presentarán en flujo de efectivo.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Por lo que se refiere a los informes financieros trimestrales, estos se presentarán en los términos del artículo 171 de la Constitución Política del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 119.
 
-La cuenta pública de Gobierno del Estado será formulada por la Secretaría, trimestral y anualmente, atendiendo en su cobertura a lo establecido en su marco legal vigente, y contendrá como mínimo:
+La cuenta pública de Gobierno del Estado será formulada por la Secretaría anualmente, atendiendo en su cobertura a lo establecido en su marco legal vigente, y contendrá como mínimo:
 
 I. Información contable, conforme a lo señalado en la fracción I del artículo 113 de esta Ley.
 
@@ -1023,9 +1033,11 @@ d) Deuda pública.
 
 V. La información a que se refieren las fracciones I a III de este artículo, organizada por ente público.
 
-En el caso de la cuenta pública trimestral, esta se presentará dentro del mes siguiente al cierre del periodo correspondiente.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-Por lo que se refiere a la cuenta pública anual, esta se presentará dentro de los dos meses siguientes posteriores al cierre del ejercicio.
+La cuenta pública se presentará dentro de los dos meses siguientes posteriores al cierre del ejercicio.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 120.
 
@@ -1035,13 +1047,17 @@ Asimismo, deberá incluir los resultados de la evaluación del desempeño de los
 
 Para ello, deberán utilizar indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de los programas, así como vincular los mismos con la planeación del desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 121.
 
-Las cuentas públicas de los municipios deberán contener, como mínimo, la información contable y presupuestaria a que se refiere esta Ley.
+Las cuentas públicas de los municipios deberán contener, como mínimo, la información contable y presupuestaria a que se refiere esta Ley y se presentará dentro del mes siguiente al cierre del ejercicio.
 
-En el caso de la cuenta pública trimestral y anual, se presentará dentro del mes siguiente al cierre del periodo o del ejercicio, respectivamente.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
 Asimismo, de considerarlo necesario, el Consejo determinará la información adicional que al respecto se requiera, en atención a las características de cada municipio.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 122.
 
@@ -1049,9 +1065,11 @@ Será responsabilidad de la Secretaría darle la debida publicidad al estado de 
 
 En el primer y segundo casos, dentro de los siguientes veinte días del mes o del trimestre que corresponda y, en el último, dentro de los veinte días del segundo mes del ejercicio fiscal siguiente.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 123.
 
-Las cuentas públicas serán presentadas, trimestral y anualmente al H. Congreso del Estado.
+La cuenta pública será presentada anualmente al H. Congreso del Estado.
 
 ## TÍTULO QUINTO. DE LA TRANSPARENCIA, DIFUSIÓN Y CONSERVACIÓN DE LA INFORMACIÓN FINANCIERA
 
@@ -1536,3 +1554,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Para la retención de los ingresos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, el Municipio, previa aprobación del cabildo, celebrará el acuerdo correspondiente con la Secretaría de Hacienda de Gobierno del Estado.
 
 En todo caso los recursos que sean retenidos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, en términos de lo dispuesto por los párrafos segundo y tercero del artículo 142, la Secretaría compensará a los municipios el ingreso que dejarían de percibir por dicho concepto, en los términos que se establezcan en los citados acuerdos.
+
+P.O. 29 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. El contenido de los Artículos Segundo, Tercero y Cuarto del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
