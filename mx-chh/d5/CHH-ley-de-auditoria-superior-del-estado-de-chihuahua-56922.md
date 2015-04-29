@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2015-02-11"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -77,7 +77,9 @@ IX. Órganos Internos de Control: Los Órganos Internos de Control de los Podere
 
 X. Entes Fiscalizables: El Gobierno del Estado, los Ayuntamientos, los organismos que por disposición constitucional estén dotados de autonomía, los organismos públicos descentralizados, empresas de participación y fideicomisos de la administración pública estatal y/o municipal y, en general, cualquier persona física o moral, pública o privada, que reciba, maneje, recaude o administre recursos públicos;
 
-XI. Cuenta Pública: Documento integral mediante el cual el Gobierno del Estado y los Ayuntamientos, tienen la obligación constitucional de someter a la consideración del Congreso, el resultado de la gestión financiera desarrollada en forma trimestral y anual;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+XI. Cuenta Pública: Documento integral mediante el cual el Gobierno del Estado y los Ayuntamientos, tienen la obligación constitucional de someter a la consideración del Congreso, el resultado de la gestión financiera desarrollada en forma anual;
 
 XII. Contabilidad Gubernamental: Técnica que registra sistemáticamente las operaciones que realizan las dependencias y entidades de la administración pública, así como los sucesos económicos identificables y cuantificables que les afecten, con el objeto de generar información financiera que facilite a los usuarios la toma de decisiones;
 
@@ -569,19 +571,25 @@ III. El estado de deuda pública; y
 
 IV. La demás información general que permita el análisis de resultados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 24.
 
-La Cuenta Pública deberá ser presentada al Congreso, por el Ejecutivo del Estado; la trimestral dentro del mes siguiente a la terminación del período y la anual dentro de los dos meses posteriores a la terminación del ejercicio fiscal; los Ayuntamientos presentarán su Cuenta Pública trimestral y anual dentro del mes siguiente a la terminación del período que corresponda. El Congreso, a través de la Comisión, la remitirá a la Auditoría Superior.
+La Cuenta Pública y los informes financieros trimestrales deberán presentarse al Congreso por el Ejecutivo del Estado, dentro de los dos meses posteriores a la terminación del ejercicio fiscal y dentro del mes siguiente a la terminación del período, respectivamente; los Ayuntamientos presentarán su Cuenta Pública y los informes financieros trimestrales dentro del mes siguiente a la terminación del período que corresponda. El Congreso, a través de la Comisión, la remitirá a la Auditoria Superior.
 
 Para los efectos de este artículo, los trimestres son aquellos que quedan comprendidos dentro del ejercicio fiscal que corresponde y serán de la siguiente manera: enero a marzo, abril a junio, julio a septiembre y octubre a diciembre.
 
-La falta de presentación de la Cuenta Pública o su presentación extemporánea, dará lugar a la imposición de las sanciones que determinen las leyes aplicables.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+La falta de presentación de la Cuenta Pública o de los informes financieros trimestrales, así como su presentación extemporánea, dará lugar a la imposición de las sanciones que determinen las leyes aplicables.
 
 La documentación comprobatoria de la Cuenta Pública que señala esta Ley, se pondrá a disposición del Congreso, por conducto de la Auditoría Superior.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-La Auditoría Superior, una vez que haya sido entregada la Cuenta Pública trimestral, analizará la información contenida en la misma y, en caso de encontrar inconsistencias, podrá ordenar una revisión con el objetivo de emitir las recomendaciones a que haya lugar.
+La Auditoría Superior, una vez que le haya sido entregado el informe financiero trimestral, analizará la información contenida en el mismo y, en caso de encontrar inconsistencias, podrá ordenar una revisión con el objetivo de emitir las recomendaciones a que haya lugar.
 
 ###### ARTÍCULO 26.
 
@@ -806,3 +814,13 @@ P.O. 11 DE FEBRERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor 60 días después de que lo haga la reforma constitucional contenida en el Decreto No. 1362/2013 XIII PE.
+
+P.O. 29 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. El contenido de los Artículos Segundo, Tercero y Cuarto del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
