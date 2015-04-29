@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2015-04-01"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -929,7 +929,13 @@ COMPETENCIA POR RAZÓN DE TERRITORIO. Es órgano judicial competente por razón 
 
 I.- El Juzgado de la circunscripción territorial en que el actor o el demandado tengan su domicilio a elección del promovente, salvo que la ley ordena otra cosa. Si el demandado no tuviere domicilio fijo dentro del Estado, o fuere desconocido, será competente para conocer del proceso el órgano donde esté ubicado el domicilio del actor, salvo el derecho del demandado para impugnar la competencia;
 
-II. Para los asuntos referentes al matrimonio o al divorcio, lo será el del domicilio conyugal. Excepto en el caso de divorcio, si se alegare abandono o separación de hecho, será competente el órgano judicial que elija el promovente de entre su domicilio y el de el (sic) demandado;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
+
+II. Para los asuntos referentes al matrimonio o al divorcio, lo será el del domicilio conyugal. Excepto en el caso de divorcio, si se alegare abandono o separación de hecho, será competente el órgano judicial que elija el promovente de entre su domicilio y el del demandado.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Una vez que se declare ejecutoriada la sentencia de divorcio, para efectos de la anotación marginal, el Juez que conoció el asunto, será competente en todo el Estado.
 
 III. En los negocios relativos a la tutela, el Tribunal de la residencia de los tutores, salvo para su designación en el que lo será el del domicilio del menor o del incapaz;
 
@@ -2727,11 +2733,11 @@ MEDIOS DE PRUEBA. Son admisibles como medios de prueba aquellos elementos que pu
 
 ### CAPÍTULO II. DEL OFRECIMIENTO Y ADMISIÓN DE PRUEBAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 314.
 
-APERTURA DEL PLAZO PARA OFRECER PRUEBAS. Si los litigantes no llegaren a un convenio en la audiencia de conciliación y depuración, o no asistieren a ésta, el Juez mandará recibir el pleito a prueba. El periodo para ratificar las pruebas ofrecidas en la demanda y en la contestación, así como para ofrecer otras pruebas es de cinco días, que empezarán a contarse desde el día siguiente al que surta efectos la notificación por Boletín Judicial del auto que ordena abrir el juicio a prueba.
+APERTURA DEL PLAZO PARA OFRECER PRUEBAS. Si los litigantes no llegaren a un convenio en la audiencia de conciliación y depuración, o no asistieren a ésta, el Juez mandará recibir el pleito a prueba. El período para ratificar las pruebas ofrecidas en la demanda y en la contestación, así como para ofrecer otras pruebas es de cinco días, que empezarán a contarse a partir de que surta efectos la notificación personal del auto que ordena abrir el juicio a prueba.
 
 El Juez esta obligado a proveer respecto de la admisión o desechamiento de las pruebas ofrecidas por las partes en sus escritos de demanda y contestación, aún cuando éstas no hubieren sido ratificadas dentro del plazo a que este artículo se refiere.
 
@@ -2763,9 +2769,11 @@ VI. Girar los oficios para recabar los informes de autoridades solicitados y ofr
 
 VII. Realizar cualquier acción tendiente a la preparación del desahogo de la prueba.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 317.
 
-RESOLUCIÓN DE ADMISIÓN Y DE RECHAZO DE PRUEBAS. Al día siguiente en que termine el período del ofrecimiento de pruebas, el Juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. No se admitirán diligencias de prueba contra derecho o contra la moral. Contra el auto que deseche una prueba procede la queja. En los demás casos sólo procederá el juicio de responsabilidad.
+RESOLUCIÓN DE ADMISIÓN Y DE RECHAZO DE PRUEBAS. Al día siguiente en que termine el período del ofrecimiento de pruebas, el Juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. No se admitirán diligencias de prueba contra derecho o contra la moral. Contra el auto que deseche una prueba procede la apelación en el efecto preventivo. En los demás casos sólo procederá el juicio de responsabilidad.
 
 ### CAPÍTULO III. AUDIENCIA DE RECEPCIÓN Y DESAHOGO DE PRUEBAS
 
@@ -6878,3 +6886,31 @@ P.O. 1 DE ABRIL DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO SETENTA Y NUEVE POR EL QUE SE AGREGA UN SEGUNDO PÁRRAFO, AL ARTICULO 73, DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NUMERO DOS MIL CIENTO OCHENTA POR EL QUE SE REFORMA EL ARTÍCULO 314, DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO OCHENTA Y CINCO, POR EL QUE SE REFORMA EL ARTÍCULO 317, DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
