@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2014-12-20"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -79,9 +79,9 @@ Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su admin
 
 9o. El Secretario de Hacienda será responsable personal o pecuniariamente por los pagos que hiciere u ordenare sin estar autorizados en el Presupuesto, por Ley posterior o por el Gobernador del Estado. El Secretario de Hacienda tendrá derecho a hacer observaciones a las órdenes de pago, pero deberá cumplirlas sin su responsabilidad si el Gobernador insistiere en ellas.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguientes al mes que corresponda. El Secretario de Hacienda formulará trimestralmente y anualmente la cuenta general para que se envíe oportunamente al Congreso.
+10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguientes al mes que corresponda. El Secretario de Hacienda formulará los informes trimestrales y la cuenta pública para que se envíen oportunamente al Congreso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -4848,3 +4848,13 @@ P.O. 20 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero del año 2015, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. El contenido de los Artículos Segundo, Tercero y Cuarto del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
