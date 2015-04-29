@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2012-10-29"
+last_updated: "2015-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -735,7 +735,7 @@ II CHOFER DE VEHICULOS DE SERVICIO PUBLICO LOCAL:
 
 A) Conductor de vehículos de servicio público, particular o industrial de diez o más pasajeros.
 
-B) Conductor de toda clase de vehículos automotores de cuatro o seis ruedas, de servicio público de carga; así mismo (sic) toda persona que preste servicio conduciendo vehículos y reciba un salario, aún cuando éstos sean de servicio particular.
+B) Conductor de toda clase de vehículos automotores de cuatro o seis ruedas, de servicio público de carga; así mismo toda persona que preste servicio conduciendo vehículos y reciba un salario, aún cuando éstos sean de servicio particular.
 
 III AUTOMOVILISTA.- Conductor de vehículos de servicio particular de pasajeros y vehículos medianos de carga;
 
@@ -887,9 +887,9 @@ Los conductores de vehículos tienen prohibido lo siguiente:
 
 I Conducir en estado de ebriedad o de ineptitud para conducir, así como cuando sus facultades físicas o mentales se encuentren alteradas por el influjo de drogas o estupefacientes o medicamentos. La Autoridad Municipal determinará los medios que se utilizarán para la detección de estos casos;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-II Sujetar aparatos de telecomunicación, ya sea teléfonos celulares, radios u otros dispositivos de telecomunicación que representen un distractor para la conducción segura del vehículo;
+II Utilizar aparatos de telecomunicación, ya sea teléfonos celulares, radios o cualquier aparato electrónico u objeto derivado de las nuevas tecnologías de la información y comunicación, que pueda distraer al conductor al momento de conducir un vehículo. Se exceptúa de lo anterior, a los conductores de las unidades de seguridad entiéndase Policía y Tránsito, así como a las unidades de asistencia médica y de emergencias, dadas la naturaleza en el cumplimiento de sus funciones.
 
 III Entorpecer la circulación de vehículos;
 
@@ -2587,7 +2587,7 @@ IV. Tratándose de menores que hayan cometido alguna infracción en estado de eb
 
 A) Notificar de inmediato a los padres del menor, o a quien tenga su representación legal.
 
-B) Cancelar definitivamente el permiso de conducir correspondiente, haciendo la notificación respectiva, y (sic)
+B) Cancelar definitivamente el permiso de conducir correspondiente, haciendo la notificación respectiva, y
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -2651,13 +2651,11 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 ### CAPITULO VIGESIMO PRIMERO. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012
 
 ###### ARTÍCULO 135.
 
 Sin perjuicio de la responsabilidad que corresponda al conductor por las infracciones que comenta en la conducción de un vehículo, el propietario o poseedor será responsable solidario de las infracciones que se cometan en la conducción del mismo; excepto en caso de robo denunciado ante las autoridades competentes, siempre y cuando esta denuncia haya sido con antelación a las infracciones cometidas.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2011, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR SIETE PÁRRAFOS.</small>
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 12 DE NOVIEMBRE DE 2004)
 
@@ -2671,31 +2669,59 @@ I. SUSPENSIÓN DE LA LICENCIA DE CONDUCIR.- Se podrá suspender la licencia de c
 
 A) Por abandonar injustificadamente el lugar de un accidente.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-B) Por manejar en estado de ebriedad, o en estado de ineptitud para conducir, bajo el influjo de drogas o sustancias tóxicas, en este caso, además de la sanción económica a que se haga acreedor.
+B) Por manejar en estado de ebriedad, en estado de ineptitud para conducir, evidente estado de ebriedad o bajo el influjo de drogas o sustancias tóxicas. Además de la sanción económica a la que se haga acreedor.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-Para este caso, el oficial de tránsito al tener conocimiento de la comisión de infracciones por manejar en estado de ebriedad o de ineptitud para conducir, retendrá provisionalmente la licencia al conductor infractor y notificará de inmediato esta situación a la Secretaría de Finanzas y Tesorería General del Estado, enviándole la documentación en la que consten las infracciones cometidas, a fin de que inicie el procedimiento correspondiente, debiendo la autoridad municipal de hacer del conocimiento al infractor de lo antes expuesto.
+C) Por utilizar simultáneamente al momento de conducir, algún tipo de aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología que evite la distracción del conductor. Además de la sanción económica a la que se haga acreedor.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Serán sancionadas los incisos b) y c), en los términos siguientes:
+
+1. Por conducir en alguna de las referidas condiciones, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia, hasta por tres meses y arresto administrativo de ocho a doce horas.
+
+2. Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas.
+
+3. Por conducir en alguna de las referidas condiciones, por más de dos veces en un lapso de un año, procederá tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia, hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas.
+
+4. Por no acreditar haber acudido al menos al 90% de las sesiones de tratamiento decretadas, suspensión de la licencia para conducir hasta por 18 meses.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+En todos los casos de infracción, con motivo de conducción en estado de voluntaria intoxicación que afectan la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o curso de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir, hasta por 18 meses.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos, en alguna de las condiciones señaladas en el cuarto y quinto párrafo de este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso, el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán de acompañar al infractor a dicho tratamiento o curso.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 La Dirección General de Tránsito retendrá la licencia de conducir al infractor, por el término que dure el procedimiento que se lleve a cabo ante la Secretaría de Finanzas y Tesorería General del Estado, debiendo devolverla al titular en caso de resolución favorable a éste, o retenerla por el término que dicte la Secretaría de Finanzas y Tesorería General del Estado, según sea el caso o hasta que se cumplan la sanción.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-Para efectos de la reincidencia, la Secretaría de Finanzas y Tesorería General del Estado, elaborará un registro de conductores infractores, el cual deberá contener los datos del conductor, las infracciones cometidas y fechas de las mismas.
+Para efectos de la reincidencia, la Secretaría de Finanzas y Tesorería General del Estado y la autoridad municipal, elaborarán un registro de conductores infractores, el cual deberá contener los datos del conductor, las infracciones cometidas y fechas de las mismas.
 
 Tratándose de menores de edad éstos no podrán tramitar una nueva licencia hasta la obtención de su mayoría de edad.
 
-C) Por orden judicial.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-D) Por huir cuando después de cometer una infracción no se respeta la indicación de un Oficial de Tránsito para detenerse.
+D) Por orden judicial.
 
-E) Jugar carreras de vehículos sin las autorizaciones correspondientes.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-F) Transportar personas en los vehículos fuera de los lugares permitidos, de acuerdo con el artículo 40 fracción IV, del presente Reglamento.
+E) Por huir cuando después de cometer una infracción no se respeta la indicación de un Oficial de Tránsito para detenerse.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+F) Jugar carreras de vehículos sin las autorizaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+G) Transportar personas en los vehículos fuera de los lugares permitidos, de acuerdo con el Artículo 40 Fracción IV, del presente Reglamento.
 
 II CANCELACION DE LA LICENCIA DE CONDUCIR.- Se cancelará la licencia de conducir en los casos siguientes:
 
@@ -2761,9 +2787,9 @@ K) Cuando el conductor se encuentre en estado de ebriedad o en estado de ineptit
 
 L) Cuando un conductor o sus acompañantes sean sorprendidos arrojando, esparciendo o abandonando basura en la vía pública o cualquier material o sustancia en cantidad tal que pueda causar daños a las vías públicas u obstaculizar el tránsito de peatones y vehículos.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
-M) Cuando un conductor o sus acompañantes sean sorprendidos arrojando, esparciendo o abandonando basura en la vía pública o cualquier material o sustancia en cantidad tal que pueda causar daños a las vías públicas u obstaculizar el tránsito de peatones y vehículos.
+M) Cuando el conductor se niegue a realizar el dictamen médico.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -2779,7 +2805,27 @@ IV RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retira
 
 V MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente en el Área Metropolitana de Monterrey, donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PÁGINAS DE LA 60 A LA 67. REFORMAS EN EL P.O. 9 DE DICIEMBRE DE 2002, PÁGINAS DE LA 169 A LA 173; P.O. DE 12 DE NOVIEMBRE DE 2004, PÁGINAS DE LA 26 A LA 35; P.O. 4 DE JULIO DE 2011, PÁGINA 46; P.O. 16 DE NOVIEMBRE DE 2011, PÁGINAS DE LA 67 A LA 85; P.O. 7 DE MARZO DE 2012 (FE DE ERRATAS).</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PÁGINAS DE LA 60 A LA 67. REFORMAS EN EL P.O. 9 DE DICIEMBRE DE 2002, PÁGINAS DE LA 169 A LA 173; P.O. DE 12 DE NOVIEMBRE DE 2004, PÁGINAS DE LA 26 A LA 35; P.O. 4 DE JULIO DE 2011, PÁGINA 46; P.O. 16 DE NOVIEMBRE DE 2011, PÁGINAS DE LA 67 A LA 85; P.O. 7 DE MARZO DE 2012 (FE DE ERRATAS); REFORMAS EN EL P.O. 29 DE ABRIL DE 2015, PÁGINA 61.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+
+ARTICULO 136 BIS.- Las autoridades municipales, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión o cancelación de licencias de conducir:
+
+a) Retendrán provisionalmente, como medida preventiva, la licencia del conductor del vehículo;
+
+b) Tomarán las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
+
+c) Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+
+d) Notificarán a la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+
+e) La autoridad municipal dentro de los siguientes diez días hábiles, contados a partir de la fecha de la infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente pruebas y genere los alegatos de su intención.
+
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
+
+Posteriormente, la autoridad municipal notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+Dicha autoridad podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -3077,7 +3123,7 @@ PRIMERO.- Las reformas al presente Reglamento entrarán en vigor el día siguien
 
 SEGUNDO.- Se derogan todas las disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
 
-TERCERO.- En lo que refiere el presente Reglamento a la emisión de contaminantes por vehículos automotores, serán aplicables las disposiciones contenidas, hasta en tanto se lleven a cabo los convenios o acuerdos correspondientes con Gobierno (sic) del Estado respecto al programa de administración de la calidad del aire del área metropolitana de Monterrey.
+TERCERO.- En lo que refiere el presente Reglamento a la emisión de contaminantes por vehículos automotores, serán aplicables las disposiciones contenidas, hasta en tanto se lleven a cabo los convenios o acuerdos correspondientes con Gobierno del Estado respecto al programa de administración de la calidad del aire del área metropolitana de Monterrey.
 
 CUARTO.- En virtud de que el presente Reglamento ha sido homologado en sus disposiciones con los Reglamentos de Tránsito y Vialidad de los Municipios que integran la conurbación (Apodaca, Gral. Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina), para la modificación o derogación del mismo se procurara llevar a cabo bajo el consenso de los Municipios señalados.
 
@@ -3144,3 +3190,11 @@ P.O. 29 DE OCTUBRE DE 2012.
 PRIMERO.- Las reformas al presente Reglamento entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ...
+
+P.O. 29 DE ABRIL DE 2015
+
+PRIMERO.- Envíese para su publicación al Periódico Oficial del Estado y la Gaceta Municipal, previa Consulta Pública.
+
+SEGUNDO.- La entrada en vigor del presente Acuerdo comenzará a partir del día 2 de febrero del 2015.
+
+TERCERO.- Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, serán resueltos conforme a lo dispuesto a lo establecido en los Reglamentos de Policía y Buen Gobierno y el Reglamento de Tránsito y Vialidad vigentes.
