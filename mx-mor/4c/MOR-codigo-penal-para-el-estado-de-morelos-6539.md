@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2015-04-22"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -767,7 +767,13 @@ Tienen derecho a la reparación del daño, en el orden siguiente:
 
 I. La víctima o el ofendido; y
 
-II. En caso de fallecimiento de la víctima, las personas que dependan económicamente de la misma al momento del fallecimiento, o sus derecho-habientes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+II. En caso de fallecimiento de la víctima, las personas que dependan económicamente de la misma al momento del fallecimiento, o sus derecho-habientes, y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+III.- En el caso de la fracción anterior, y a falta de dependientes económicos, los familiares o personas físicas que tenían una relación inmediata con la víctima directa y que acrediten haber sufrido un daño.
 
 ###### ARTICULO 37.
 
@@ -2129,7 +2135,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ## TITULO OCTAVO. DELITOS CONTRA EL PRESTIGIO
 
@@ -2353,23 +2359,33 @@ Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o del 
 
 ###### ARTICULO 179.
 
-Al que se apodere de una o más cabezas de ganado equino, bovino, caprino, ovino o sus híbridos, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de cinco a dieciséis años de prisión y de cincuenta a mil días multa.
+Al que se apodere de una o más cabezas de ganado equino, bovino, caprino, ovino, porcino, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de cinco a veinte años de prisión y de noventa a mil quinientos días multa.
 
-Quien se apodere de cualquier otra especie pecuaria no comprendida en el párrafo anterior será sancionado de acuerdo a lo señalado para quienes cometen el delito de robo.
+Quien se apodere de cualquier otra especie pecuaria no comprendida en el párrafo anterior, será sancionado de conformidad con el presente delito.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 180.
 
-Se equipara el delito de abigeato y se impondrán las mismas penas previstas en el artículo que antecede, a quien a sabiendas de que es producto de abigeato:
+Se equipara al delito de abigeato y se impondrán las mismas penas previstas en el artículo que antecede, a quien a sabiendas de que es producto del abigeato:
 
-I. Comercie, transfiera o adquiera bajo cualquier título, animales, carne en canal, pieles u otros derivados del ganado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-II. Contrahierre, contramarque, contraseñe, borre, modifique, destruya o altere de cualquier forma, las marcas o señales que sirven para identificar el ganado;
+I. Comercie, transfiera o adquiera bajo cualquier título, animales, carne en canal, pieles u otros derivados del ganado o tipo pecuario diverso, así como aproveche u obtenga un beneficio económico, reciba o realice actos de intermediario en el comercio de animales producto del abigeato;
 
-III. Expida o haga uso de certificados o guías falsos, simulando actos jurídicos de enajenación o de negociación del ganado, de sus pieles o subproductos;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
-IV. Sacrifique, desuelle, o destaze (sic), clandestinamente el ganado;
+II. Contra hierre, contramarque, contraseñe, borre, modifique, destruya o altere de cualquier forma, las marcas o señales que sirven para identificar el ganado, o tipo pecuario diverso;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+III. Expida o haga uso de facturas, certificados zoosanitario o guías de tránsito, falsos, simulando actos jurídicos de enajenación o de negociación del ganado, mayor, menor y especies acuícolas, así como de sus pieles o subproductos;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+IV. Sacrifique, degüelle, o destace clandestinamente el ganado; y
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
 V. En campo propio o ajeno, hierre, marque o señale, para si o para otro, personalmente o por interpósita persona, ganado ajeno, sin hierro, marca o seña.
 
@@ -4678,3 +4694,23 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO CINCUENTA Y SEIS, POR EL QUE SE REFORMA LOS ARTÍCULOS 179 Y 180, FRACCIONES I, II Y III, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE ABRIL DE 2015.
+
+DECRETO NÚMERO DOS MIL CIENTO OCHENTA Y TRES POR EL QUE SE ADICIONA UNA FRACCIÓN III, AL ARTÍCULO 36 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
