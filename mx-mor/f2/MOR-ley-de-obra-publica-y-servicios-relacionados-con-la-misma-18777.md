@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2014-11-19"
+last_updated: "2015-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -933,7 +933,9 @@ Las Dependencias, Secretaría o Ayuntamientos, se abstendrán de recibir propues
 
 I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley de Responsabilidades de los Servidores Públicos; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley Estatal de Responsabilidades de los Servidores Públicos; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 III. Aquellos contratistas que, por causas imputables a ellos mismos, las Dependencias, Secretaría o Ayuntamientos convocantes les hubieren rescindido administrativamente un contrato, dentro de un lapso de un año calendario contado a partir de la notificación de la primera rescisión. Dicho impedimento prevalecerá ante la Dependencias (sic), Secretaría o Ayuntamiento convocante durante dos años calendario contados a partir de la notificación de la rescisión del segundo contrato;
 
@@ -1161,9 +1163,11 @@ II. Cuando sean varios los responsables, cada uno será sancionado con el total 
 
 III. Tratándose de reincidencia, se impondrá otra sanción o multa mayor y si persiste la infracción, se impondrán multas por cada día que transcurra.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+
 ###### ARTÍCULO 75.
 
-A los servidores públicos del Estado de Morelos que infrinjan las disposiciones de este ordenamiento la Contraloría aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+A los servidores públicos del Estado de Morelos que infrinjan las disposiciones de este ordenamiento, la Contraloría aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### ARTÍCULO 76.
 
@@ -1189,11 +1193,11 @@ Los servidores públicos de las Dependencias, Secretaría o Ayuntamientos que en
 
 La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 80.
 
-Las sanciones a que se refieren los artículos 72 y 74 de esta Ley se harán efectivas por conducto de las oficinas exactoras de la Secretaría de Finanzas y Planeación del Gobierno del Estado de Morelos.
+Las sanciones a que se refiere (sic) los artículos 72 y 74 de esta Ley, se harán efectivas por conducto de las oficinas exactoras de la Secretaría de Hacienda del Gobierno del Estado de Morelos.
 
 ## TITULO OCTAVO. De las Inconformidades
 
@@ -1368,3 +1372,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Las Instituciones Educativas que no cuenten con la infraestructura adecuada para el acceso y despliegue de las personas con discapacidad, contarán con un plazo de noventa días posteriores a la entrada en vigor del presente Decreto. Aquellas que no cumplan con esta disposición, se harán acreedoras a las sanciones previstas en la Ley.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2015.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere (sic) los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Tercero.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
