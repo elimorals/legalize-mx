@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2013-12-30"
+last_updated: "2015-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-27"
 
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -57,6 +57,8 @@ V. Estado Mayor Presidencial. El Estado Mayor Presidencial previsto en la Ley Or
 
 VI. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2013)
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 ###### Artículo 3.
 
 El Presidente contará con el apoyo directo de la Oficina de la Presidencia, la cual se integra por las unidades siguientes:
@@ -67,7 +69,7 @@ II. Secretaría Particular del Presidente;
 
 III. Coordinación de Asesores del Presidente;
 
-IV. Coordinación de Comunicación Social, y
+IV. Coordinación de Comunicación Social y Vocería del Gobierno de la República, y
 
 V. Secretaría Técnica del Consejo de Seguridad Nacional.
 
@@ -75,7 +77,11 @@ Los titulares de las unidades antes referidas, tendrán igual jerarquía entre s
 
 Las unidades de la Oficina de la Presidencia se auxiliarán del personal que sea necesario para el debido ejercicio de sus funciones, de conformidad con las disposiciones aplicables.
 
+Los titulares de las unidades que integran la Oficina de la Presidencia expedirán, cuando proceda, copias certificadas de los documentos que obren en los archivos de la unidad a su cargo.
+
 La organización y funcionamiento del Estado Mayor Presidencial se regirá de conformidad con lo dispuesto por la Ley Orgánica del Ejército y Fuerza Área Mexicanos y el Reglamento del Estado Mayor Presidencial.
+
+A la Consejería Jurídica del Ejecutivo Federal le corresponde representar a la Oficina de la Presidencia y a sus unidades ante los tribunales federales y del fuero común y ante toda autoridad del ámbito federal, local o municipal, en los asuntos y trámites jurisdiccionales y en cualquier asunto de carácter jurídico en que tenga interés o injerencia. Esta facultad incluye todos los derechos procesales que las leyes reconocen a las partes.
 
 ### CAPÍTULO SEGUNDO. DE LA JEFATURA DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
@@ -101,51 +107,43 @@ VIII. Dirigir y organizar las unidades de apoyo técnico a su cargo y establecer
 
 IX. Las demás inherentes a sus funciones y las que le encomiende el Presidente.
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2013)</small>
+Artículo 4 bis. (DEROGADO, D.O.F. 30 DE ABRIL DE 2015)
 
-Artículo 4 bis. La Jefatura de la Oficina de la Presidencia contará con un Vocero del Gobierno de la República, quien intervendrá en el diseño e implementación de las estrategias de información gubernamental, bajo los principios de transversalidad, congruencia, transparencia y rendición de cuentas, en coordinación con las instancias competentes.
-
-El Vocero del Gobierno de República será designado por el Ejecutivo Federal y tendrá las funciones siguientes:
-
-I. Convocar a reuniones de trabajo a los titulares de las áreas de comunicación social de las dependencias y entidades de la Administración Pública Federal, con objeto de diseñar y coordinar la estrategia de información gubernamental;
-
-II. Supervisar las acciones para la ejecución de la estrategia de información gubernamental;
-
-III. Coordinar a las áreas de comunicación social de las dependencias y entidades de la Administración Pública Federal, para dar congruencia a la información que el Gobierno de la República difunda a la población;
-
-IV. Ampliar y, en su caso, precisar la información relacionada con los posicionamientos del Gobierno de la República;
-
-V. Coadyuvar en el apoyo para la realización de programas, campañas o acciones específicas de información gubernamental, en coordinación con las instancias competentes;
-
-VI. Coadyuvar con la Coordinación de Comunicación Social de la Oficina de la Presidencia en la formulación, regulación y conducción de la política de comunicación social del Gobierno de la República, así como en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Federal;
-
-VII. Participar en las reuniones del Gabinete y de los gabinetes especializados a las que sea convocado, y
-
-VIII. Las demás necesarias para el cumplimiento del presente Decreto y que le asigne el Jefe de la Oficina de la Presidencia.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 ###### Artículo 5.
 
 Para el despacho de los asuntos de la Jefatura de la Oficina de la Presidencia, ésta contará con las unidades de apoyo técnico siguientes:
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 2013)</small>
+I. Coordinación General;
 
-I. Secretaría Técnica del Gabinete;
+II. Secretaría Técnica del Gabinete;
 
-II. Coordinación de Opinión Pública;
+III. Coordinación de Opinión Pública;
 
-III. Coordinación de Estrategia y Mensaje Gubernamental;
+IV. Coordinación de Estrategia Digital Nacional;
 
-IV. Coordinación de Vinculación;
+V. Coordinación de Ciencia, Tecnología e Innovación;
 
-V. Coordinación de Estrategia Digital Nacional;
+VI. Coordinación de Crónica Presidencial, y
 
-VI. Coordinación de Ciencia, Tecnología e Innovación, y
-
-VII. Coordinación de Crónica Presidencial.
+VII. Coordinación de Marca País y Medios Internacionales.
 
 Al frente de cada una de las unidades de apoyo técnico habrá un titular que será nombrado y removido libremente por el Presidente.
 
 Las unidades de apoyo técnico se auxiliarán del personal que requieran para el eficaz despacho de sus asuntos, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 5 Bis.
+
+Corresponde a la Coordinación General:
+
+I. Apoyar al Jefe de la Oficina de la Presidencia en la atención de las relaciones interinstitucionales con los sectores público, social y privado;
+
+II. Apoyar al Jefe de la Oficina de la Presidencia en la coordinación y organización de las unidades de apoyo técnico de la Jefatura de la Oficina de la Presidencia, y
+
+III. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
 
 > <small>(F. DE E., D.O.F. 3 DE ABRIL DE 2013)</small>
 
@@ -193,39 +191,19 @@ III. Dirigir investigaciones acerca de la gestión del Presidente y de la Admini
 
 IV. Coadyuvar en el desarrollo de estrategias que permitan conducir las tareas vinculadas a la opinión pública del Presidente y del Gobierno de la República;
 
-V. Establecer mecanismos de coordinación con la Coordinación de Comunicación Social, así como con las demás unidades competentes para el debido ejercicio de sus funciones, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
+V. Establecer mecanismos de coordinación con la Coordinación de Comunicación Social y Vocería del Gobierno de la República, así como con las demás unidades competentes para el debido ejercicio de sus funciones, y
 
 VI. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
 
 ###### Artículo 8.
 
-Corresponde a la Coordinación de Estrategia y Mensaje Gubernamental:
-
-I. Conducir la política de identidad institucional de la Oficina de la Presidencia y de la Administración Pública Federal, con la participación que corresponda a la Coordinación de Comunicación Social y a la Secretaría de Gobernación;
-
-II. Coordinar el diseño y difusión de las campañas y publicaciones institucionales de la Oficina de la Presidencia, con la participación de las demás unidades competentes, así como orientar a las dependencias y entidades de la Administración Pública Federal para que el contenido de sus campañas y publicaciones sea acorde con el mensaje y estrategia de comunicación que determine el Presidente;
-
-III. Coordinar las acciones y estrategias para posicionar el mensaje gubernamental, con la participación que corresponda de las demás unidades competentes de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal;
-
-IV. Coordinar la estrategia de comunicación institucional no noticiosa de la Oficina de la Presidencia, con la participación que corresponda a las dependencias y entidades competentes de la Administración Pública Federal;
-
-V. Supervisar el uso de la imagen, así como coadyuvar en la producción y transmisión de los actos y eventos en los que participe el Presidente, en coordinación con las demás unidades de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal competentes;
-
-VI. Participar en el diseño y aplicación de las estrategias de comunicación para fortalecer la imagen y percepción de México en el extranjero, en coordinación con las demás unidades competentes de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal, y
-
-VII. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2015)
 
 ###### Artículo 9.
 
-Corresponde a la Coordinación de Vinculación:
-
-I. Participar, en coordinación con las unidades competentes de la Oficina de la Presidencia, en la promoción de vínculos institucionales;
-
-II. Promover las relaciones interinstitucionales de la Oficina de la Presidencia con organizaciones e instituciones de los sectores público, social y privado;
-
-III. Atender las solicitudes y peticiones de grupos sociales, de conformidad con las instrucciones del Jefe de la Oficina de la Presidencia, en coordinación con las unidades competentes, y darles el seguimiento que les corresponda, y
-
-IV. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2015)
 
 ###### Artículo 10.
 
@@ -295,6 +273,24 @@ VIII. Establecer mecanismos de coordinación con las unidades de la Oficina de l
 
 IX. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 12 Bis.
+
+Corresponde a la Coordinación de Marca País y Medios Internacionales:
+
+I. Participar en el diseño y aplicación de las estrategias de comunicación para fortalecer la imagen y percepción de México en el extranjero, en coordinación con las demás unidades competentes de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal;
+
+II. Promover la coordinación y colaboración del Poder Ejecutivo Federal con los medios de comunicación del extranjero, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes;
+
+III. Compilar y distribuir entre los servidores públicos de la Oficina de la Presidencia, la información publicada y difundida en los medios de comunicación del extranjero;
+
+IV. Atender los requerimientos de información de los medios de comunicación del extranjero;
+
+V. Integrar y administrar el acervo documental y audiovisual de las actividades del Presidente que fueron objeto de difusión a través de los medios de comunicación del extranjero, y
+
+VI. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
+
 ### CAPÍTULO TERCERO. DE LA SECRETARÍA PARTICULAR DEL PRESIDENTE
 
 ###### Artículo 13.
@@ -323,7 +319,9 @@ La Coordinación General de Administración estará adscrita a la Secretaría Pa
 
 A la Coordinación General de Administración le corresponderá llevar la administración de los recursos humanos, financieros y materiales de la Oficina de la Presidencia, incluyendo las unidades de apoyo que establece el presente Reglamento, de conformidad con la normatividad aplicable. Para tales efectos, podrá suscribir toda clase de convenios, contratos y demás instrumentos jurídicos.
 
-Las funciones de la Coordinación General de Administración serán ejercidas por el Coordinador General, por sí o por conducto de los titulares de las unidades a cargo de la programación, presupuestación y finanzas; administración de recursos humanos; administración de recursos materiales, adquisiciones y servicios generales; tecnologías de la información, así como de administración de instalaciones, conformidad (sic) con lo dispuesto en el manual de organización y las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+
+Las funciones de la Coordinación General de Administración serán ejercidas por el Coordinador General, por sí o por conducto de los titulares de las unidades a cargo de la programación, presupuestación y finanzas; administración de recursos humanos; administración de recursos materiales, adquisiciones y servicios generales; tecnologías de la información, así como de administración de instalaciones, de conformidad con lo dispuesto en las disposiciones aplicables.
 
 ###### Artículo 15.
 
@@ -357,45 +355,65 @@ VII. Las demás inherentes a las funciones anteriores y las que le encomiende ex
 
 ### CAPÍTULO QUINTO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 ###### Artículo 18.
 
-Corresponde a la Coordinación de Comunicación Social:
+Corresponde a la Coordinación de Comunicación Social y Vocería del Gobierno de la República:
 
-I. Proponer y aplicar los programas de comunicación social del Presidente y de la Oficina de la Presidencia, de conformidad con las políticas y lineamientos aplicables;
+I. Proponer y aplicar los programas de comunicación social del Presidente y de la Oficina de la Presidencia, de conformidad con las políticas, lineamientos y demás disposiciones jurídicas aplicables;
 
-II. Promover la coordinación y colaboración del Poder Ejecutivo Federal con los medios de comunicación del país y del extranjero, en coordinación con la Secretaría de Gobernación y las dependencias y entidades competentes;
+II. Coordinar, con el apoyo de las unidades administrativas de comunicación social de las dependencias y entidades de la Administración Pública Federal, la realización de programas o campañas específicas de comunicación social, o información gubernamental, en términos de las disposiciones jurídicas aplicables, así como para la emisión de boletines y comunicados a los medios de comunicación;
 
-III. Coordinar, con el apoyo de las dependencias y entidades de la Administración Pública Federal, la realización de programas o campañas específicas de comunicación social, en términos de las disposiciones aplicables, así como la emisión de boletines y comunicados a los medios de comunicación;
+III. Coordinar a las unidades administrativas de comunicación social de las dependencias y entidades de la Administración Pública Federal, para dar congruencia a la información que el Gobierno Federal difunda a la población;
 
-IV. Informar a la opinión pública y a los medios de comunicación acerca de los asuntos competencia del Presidente y de la Oficina de la Presidencia, así como difundir sus objetivos, programas y acciones;
+IV. Convocar a reuniones de trabajo a los titulares de las unidades administrativas de comunicación social de las dependencias y entidades de la Administración Pública Federal, con objeto de diseñar y coordinar la estrategia de información gubernamental;
 
-V. Coordinar y atender las actividades de relaciones públicas del Presidente y de la Oficina de la Presidencia con los medios de comunicación, en coordinación con las dependencias de la Administración Pública Federal competentes;
+V. Supervisar las acciones para la ejecución de la estrategia de información gubernamental, a que se refiere la fracción anterior;
 
-VI. Operar las relaciones interinstitucionales de la Coordinación de Comunicación Social con las áreas de comunicación de los sectores público, social y privado;
+VI. Informar a la opinión pública y a los medios de comunicación acerca de los asuntos competencia del Presidente y de la Oficina de la Presidencia, así como difundir sus objetivos, programas y acciones;
 
-VII. En coordinación con la Secretaría de Gobernación, intervenir en la formulación, regulación y conducción de la política de comunicación social del Gobierno Federal y en la relación con los medios masivos de información, así como participar en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Federal;
+VII. Ampliar y, en su caso, precisar la información relacionada con los posicionamientos del Gobierno Federal;
 
-VIII. Suscribir acuerdos y convenios con los sectores público, social y privado en las materias de su competencia y disponer las acciones para su ejecución, en coordinación con las dependencias y entidades competentes;
+VIII. Coordinar y atender las actividades de relaciones públicas del Presidente y de la Oficina de la Presidencia con los medios de comunicación, en coordinación con las dependencias de la Administración Pública Federal competentes;
 
-IX. Analizar, en coordinación con las unidades competentes, la información que difunden los medios de comunicación sobre el Presidente y la Oficina de la Presidencia;
+IX. Establecer relaciones interinstitucionales con las áreas de comunicación social de los sectores público, social y privado;
 
-X. Establecer políticas respecto a publicaciones periódicas de la Oficina de la Presidencia de carácter informativo y de difusión;
+X. Intervenir, en coordinación con la Secretaría de Gobernación, en la formulación, regulación y conducción de la política de comunicación social del Gobierno Federal y en la relación con los medios masivos de información, así como participar en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Federal;
 
-XI. Compilar y distribuir entre los servidores públicos de la Oficina de la Presidencia la información publicada y difundida en los medios de comunicación del país y del extranjero;
+XI. Suscribir acuerdos y convenios con los sectores público, social y privado en las materias de su competencia y disponer las acciones para su ejecución, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes;
 
-XII. Cubrir los eventos institucionales del Presidente y de la Oficina de la Presidencia y diseñar y producir los materiales informativos y de difusión para radio, televisión y medios impresos, en coordinación con la (sic) instancias competentes;
+XII. Analizar, en coordinación con las unidades administrativas de la Oficina de la Presidencia, la información que difunden los medios de comunicación sobre el Presidente y la Oficina de la Presidencia;
 
-XIII. Enviar, en los términos de la normativa vigente, para su transmisión por radio, televisión y publicación en medios impresos, los materiales informativos y de difusión de la Oficina de la Presidencia, en coordinación con las instancias competentes;
+XIII. Establecer criterios respecto a las publicaciones periódicas de la Oficina de la Presidencia de carácter informativo y de difusión;
 
-XIV. Coordinar las entrevistas y conferencias de prensa del Presidente y de los servidores públicos de la Oficina de la Presidencia;
+XIV. Compilar y distribuir entre los servidores públicos de la Oficina de la Presidencia la información publicada y difundida en los medios de comunicación del país;
 
-XV. Atender los requerimientos de información de los medios de comunicación del país y del extranjero;
+XV. Cubrir los eventos institucionales del Presidente y de la Oficina de la Presidencia, así como diseñar y producir los materiales informativos y de difusión de dichos eventos para radio, televisión y medios impresos, en coordinación con las instancias competentes;
 
-XVI. Integrar y administrar el acervo documental y audiovisual de las actividades del Presidente que fueron objeto de difusión a través de los medios de comunicación del país y del extranjero;
+XVI. Enviar, en términos de las disposiciones jurídicas aplicables, para su transmisión por radio, televisión y publicación en medios impresos, los materiales informativos y de difusión de las actividades del Presidente y de la Oficina de la Presidencia, en coordinación con las instancias competentes;
 
-XVII. Promover la modernización administrativa, mejora regulatoria, gestión de la calidad y transparencia de los trámites y servicios en los asuntos de su competencia, y
+XVII. Coordinar las entrevistas y conferencias de prensa del Presidente y de los servidores públicos de la Oficina de la Presidencia;
 
-XVIII. Las demás inherentes a las funciones anteriores y las que le encomiende el Presidente.
+XVIII. Promover la coordinación y colaboración del Poder Ejecutivo Federal con los medios de comunicación del país y del extranjero, en coordinación con la Secretaría de Gobernación y demás dependencias y entidades de la Administración Pública Federal competentes;
+
+XIX. Atender los requerimientos de información de las actividades del Presidente y de la Oficina de la Presidencia que formulen los medios de comunicación del país;
+
+XX. Integrar y administrar el acervo documental y audiovisual de las actividades del Presidente que fueron objeto de difusión a través de los medios de comunicación del país;
+
+XXI. Participar en reuniones del Gabinete y de los gabinetes especializados a los que se le convoque;
+
+XXII. Promover la modernización administrativa, mejora regulatoria, gestión de la calidad y transparencia de los trámites y servicios en los asuntos de su competencia;
+
+XXIII. Conducir la política de identidad institucional de la Oficina de la Presidencia y de la Administración Pública Federal, con la participación que corresponda a la Secretaría de Gobernación;
+
+XXIV. Coordinar el diseño y difusión de las campañas y publicaciones institucionales de la Oficina de la Presidencia, con la participación de las demás unidades competentes, así como orientar a las dependencias y entidades de la Administración Pública Federal para que el contenido de sus campañas y publicaciones sea acorde con el mensaje y estrategia de comunicación social que determine el Presidente;
+
+XXV. Coordinar las acciones y estrategias para posicionar el mensaje gubernamental, con la participación que corresponda de las demás unidades competentes de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal;
+
+XXVI. Supervisar el uso de la imagen institucional, así como coadyuvar en la producción y transmisión de los actos y eventos en los que participe el Presidente, en coordinación con las demás unidades de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal competentes, y
+
+XXVII. Las demás inherentes a las funciones anteriores y las que le encomiende el Presidente.
 
 ### CAPÍTULO SEXTO. DE LA SECRETARÍA TÉCNICA DEL CONSEJO DE SEGURIDAD NACIONAL
 
@@ -448,3 +466,21 @@ SEGUNDO. Se abroga el Reglamento para el Uso y Conservación de las Áreas, Obje
 TERCERO. La Oficina de la Presidencia de la República transferirá a la Secretaría de Hacienda y Crédito Público los recursos humanos, financieros y materiales asignados a la Conservaduría de Palacio Nacional, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
 
 La Coordinación General de Administración de la Presidencia de la República y la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público acordarán las acciones necesarias para dar cumplimiento a lo dispuesto en el párrafo anterior.
+
+D.O.F. 30 DE ABRIL DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de este Decreto con el Vocero del Gobierno de la República, continuarán su trámite y serán resueltos por la Coordinación de Comunicación Social y Vocería del Gobierno de la República de la Oficina de la Presidencia, en términos del presente ordenamiento.
+
+TERCERO.- Las referencias que se hagan al Vocero del Gobierno de la República en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones normativas, se entenderán hechas a la Coordinación de Comunicación Social y Vocería del Gobierno de la República de la Oficina de la Presidencia.
+
+CUARTO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de este Decreto de la Coordinación de Estrategia y Mensaje Gubernamental, relativos a las fracciones I, II, III y V del Artículo 8 derogado, continuarán su trámite y serán resueltos por la Coordinación de Comunicación Social y Vocería del Gobierno de la República, en términos del presente ordenamiento.
+
+QUINTO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de este Decreto de la Coordinación de Estrategia y Mensaje Gubernamental, relativos a las (sic) fracción VI del Artículo 8 derogado, continuarán su trámite y serán resueltos por la Coordinación de Marca País y Medios Internacionales, en términos del presente ordenamiento.
+
+SEXTO. Las referencias que se hagan a la Coordinación de Estrategia y Mensaje Gubernamental en decretos, reglamentos, acuerdos, reglas, manuales, lineamientos y demás disposiciones normativas, se entenderán hechas a la Coordinación de Comunicación Social y Vocería del Gobierno de la República de la Oficina de la Presidencia.
+
+SÉPTIMO. La Coordinación General de Administración de la Presidencia de la República proveerá lo necesario para que los recursos humanos, presupuestales, financieros y materiales que estén asignados a la Vocería del Gobierno de la República, sean reasignados a la Coordinación de Comunicación Social y Vocería del Gobierno de la República, sin menoscabo de los derechos laborales, conforme a las disposiciones legales aplicables.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para tal fin a la Oficina de la Presidencia de la República y a la Consejería Jurídica del Ejecutivo Federal, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
