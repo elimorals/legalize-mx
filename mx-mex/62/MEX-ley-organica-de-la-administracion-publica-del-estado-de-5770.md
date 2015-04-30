@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2015-01-14"
+last_updated: "2015-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 14 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -691,7 +689,7 @@ V. Planear, organizar, dirigir, coordinar y evaluar el Sistema Estatal de Salud,
 
 VI. Coordinar la prestación de servicios de atención médica, salud pública y regulación sanitaria en el Estado; y convenir en lo conducente, con cualquier otro sector que promueva acciones en estas materias;
 
-VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplane (sic);
+VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplante (sic);
 
 VIII. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado de México, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -1553,11 +1551,11 @@ XXIV. Convenir con los sectores público, social y privado la ejecución de acci
 
 XXV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
+
+Artículo 38 bis. La Secretaría de la Contraloría es la dependencia encargada de la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones de la administración pública estatal y su sector auxiliar, así como lo relativo a la Manifestación Patrimonial, la Declaración de Intereses y responsabilidad de los servidores públicos.
+
 > <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 1989)</small>
-
-###### Artículo 38 Bis.
-
-La Secretaría de la Contraloría es la dependencia encargada de la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones de la administración pública estatal y su sector auxiliar, así como lo relativo a la manifestación patrimonial y responsabilidades de los servidores públicos.
 
 A la propia Secretaría, le corresponde el despacho de los siguientes asuntos:
 
@@ -1597,7 +1595,9 @@ XV. Coordinarse con el Órgano Superior de Fiscalización del Estado de México,
 
 XVI. Informar anualmente al titular del Ejecutivo del Estado, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, que hayan sido objeto de fiscalización. Asimismo, informar a la Secretaría de la Contraloría General de la Federación de la evaluación de los programas que manejen o involucren recursos federales, en los términos de los acuerdos o convenios respectivos.
 
-XVII. Recibir y registrar la manifestación de bienes de los servidores públicos del Estado y municipios y verificar y practicar las investigaciones que fueren necesarias, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones legales aplicables.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
+
+XVII. Recibir y registrar la Manifestación de Bienes, la Declaración de Intereses y determinar el Conflicto de Intereses de los servidores públicos, del Estado y municipios y verificar y practicar las investigaciones que fueren necesarias, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones legales aplicables.
 
 XVIII. Atender y dar seguimiento a las denuncias y quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
 
@@ -2688,3 +2688,15 @@ CUARTO.- En un plazo no mayor a treinta días naturales a partir de la entrada e
 QUINTO.- Los Municipios del Estado, dentro de sus respectivos ámbitos de competencia, coadyuvarán al cumplimiento del presente Decreto a través de los mecanismos de coordinación que para tal efecto establezca la Secretaría de Seguridad Ciudadana.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 30 DE ABRIL DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Titular del Ejecutivo expedirá las modificaciones necesarias al Reglamento Interior de la Secretaría de la Contraloría.
+
+CUARTO. El Secretario de la Contraloría llevará a cabo las acciones que permitan la implementación del presente Decreto, así como emitirá las disposiciones normativas complementarias. En el ámbito de sus competencias el Consejo de la Judicatura y el Contralor de la Legislatura del Estado de México llevarán a cabo las acciones que permitan la implementación del presente Decreto, así como emitirán las disposiciones complementarias.
+
+QUINTO. A la entrada en vigor del presente Decreto, en términos de lo dispuesto por los artículos 79 y 80 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los servidores públicos obligados, deberán presentar la Declaración de Intereses, de manera inicial, por única ocasión durante los meses de mayo y junio del 2015, para llevarse a cabo, con posterioridad, en el mes de mayo de manera anual.
