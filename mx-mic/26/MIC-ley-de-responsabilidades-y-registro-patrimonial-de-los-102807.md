@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-y-registro-patrimonial-de-los-102807"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-14"
-last_updated: "2015-03-26"
+last_updated: "2015-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2014.
 
@@ -86,6 +86,10 @@ I. Ley: Ley de Responsabilidades y Registro Patrimonial de los Servidores Públi
 II. Órgano de control: Instancia del Poder Ejecutivo, incluidos los órganos internos de control de las dependencias y entidades paraestatales de la Administración Pública Estatal, así como de los poderes Legislativo y Judicial, ayuntamientos y organismos autónomos del Estado de Michoacán, con atribuciones para realizar acciones de control, evaluación, inspección y vigilancia que prevengan, detecten y erradiquen prácticas irregulares en el servicio público, para integrar pliegos preventivos de responsabilidad, recibir quejas o denuncias, instrumentar procedimientos, investigar y determinar responsabilidades e imponer sanciones, así como para llevar el registro de la situación patrimonial de los servidores públicos respectivos; y,
 
 III. Órgano ejecutor: Instancia responsable de ejecutar las sanciones impuestas por el órgano de control.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+IV. Auditoría Superior: Auditoría Superior de Michoacán, responsable de revisar, fiscalizar y evaluar la gestión de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales y municipales que manejen fondos públicos, y de aquellos organismos que por disposición de ley se consideren autónomos, así como cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes.
 
 ###### Artículo 5.
 
@@ -159,9 +163,13 @@ XXII. Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener b
 
 XXIII. Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o las personas a que se refiere la fracción XIX;
 
-XXIV. Presentar con oportunidad y veracidad su declaración de situación patrimonial ante el órgano de control correspondiente en los términos de esta ley;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-XXV. Atender con diligencia las instrucciones, requerimientos y resoluciones administrativas que reciba del órgano de control correspondiente o de la Coordinación de Contraloría;
+XXIV. Presentar con oportunidad y veracidad su declaración de situación patrimonial ante el órgano de control correspondiente y tratándose de servidores públicos municipales, ante la Auditoría Superior, en los términos de esta ley.
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XXV. Atender con diligencia las instrucciones, requerimientos y resoluciones administrativas que reciba del órgano de control correspondiente o en su caso de la Auditoría Superior;
 
 XXVI. Supervisar que los servidores públicos sujetos a su dirección cumplan con las disposiciones de este artículo y con la normatividad que rige su función pública;
 
@@ -193,7 +201,17 @@ XXXIX. Cumplir las normas, lineamientos y controles para la entrega y recepción
 
 XL. Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XIX, bienes inmuebles que pudieren incrementar su valor o, en general, que mejoren sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión; y,
 
-XLI. Los demás que impongan las leyes, reglamentos y demás disposiciones.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XLI. A quién así corresponda, elaborar en tiempo y forma las actas administrativas sobre recisión y terminación de la relación laboral del trabajador;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XLII. Si se es servidor público de un órgano de control, de forma inmediata dar vista a la autoridad competente o iniciar el procedimiento legal correspondiente por actos, hechos u omisiones en perjuicio de la administración pública; y,
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XLIII. Los demás que impongan las leyes, reglamentos y demás disposiciones.
 
 Los servidores públicos que se hayan desempeñado en cargos de dirección, consejeros o magistrados en materia electoral, no podrán desempeñar empleo, cargo o comisión públicos por designación de quien haya ganado la elección que ellos organizaron o calificaron.
 
@@ -219,7 +237,13 @@ VIII. Provocar deliberadamente la aplicación de las figuras de la afirmativa o 
 
 IX. Negar un trámite por desconocimiento de la normatividad aplicable; y,
 
-X. Cualquiera que incida indebidamente en perjuicio del ciudadano, persona física o moral.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+X. Ser omiso en sus funciones y atribuciones; y,
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XI. Cualquiera que incida indebidamente en perjuicio del ciudadano, persona física o moral.
 
 ###### Artículo 10.
 
@@ -243,13 +267,21 @@ Las facultades para constituir responsabilidades resarcitorias prescriben en la 
 
 Atribuciones de los órganos de control. Los órganos de control tienen atribuciones para realizar acciones de control, inspección y vigilancia que prevengan, detecten y erradiquen prácticas irregulares en el servicio público, para integrar pliegos preventivos de responsabilidad, recibir quejas y denuncias, instrumentar procedimientos, investigar y deslindar responsabilidades e imponer las sanciones previstas en esta ley, así como para llevar el registro de la situación patrimonial de los servidores públicos respectivos, y son:
 
-I. En el Poder Legislativo y su órgano técnico de fiscalización, la Contraloría Interna;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-II. En el Poder Ejecutivo, la Coordinación de Contraloría y los órganos internos de control bajo su autoridad, mismos que se establecerán en cada una de las dependencias de la Administración Pública Estatal;
+I. En el Poder Legislativo; la Contraloría Interna y la Auditoría Superior, ésta última llevará además el registro, custodia, vigilancia, análisis y seguimiento de la situación patrimonial de los servidores públicos municipales;
 
-III. En las entidades paraestatales, los comisarios públicos designados por la Coordinación de Contraloría del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-IV. En el Poder Judicial, el Consejo del Poder Judicial;
+II. En el Poder Ejecutivo, la Coordinación de Contraloría y los órganos internos de control bajo su autoridad, mismos que se establecerán en cada una de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+III. En las entidades paraestatales, los órganos de control públicos designados por la Coordinación de Contraloría del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+IV. En el Poder Judicial, el Consejo del Poder Judicial y la Contraloría Interna;
 
 V. En cada Ayuntamiento, la Contraloría Municipal;
 
@@ -287,11 +319,25 @@ I. Ante el Titular del Poder Ejecutivo, el titular de la Coordinación de Contra
 
 II. Ante el Congreso del Estado, el titular de la Contraloría Interna;
 
-III. Ante el Ayuntamiento respectivo, el titular de la Contraloría Municipal;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-IV. Ante el titular u órgano que encabece el organismo autónomo de que se trate, el titular de la contraloría de dicho organismo; y,
+III. Ante el Pleno del Consejo del Poder Judicial, el titular de la Contraloría Interna;
 
-V. Ante el titular de la Coordinación de Contraloría, los titulares de los órganos internos de control de las dependencias y entidades del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+IV. Ante la Auditoría Superior, el titular de la Auditoría Superior;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+V. Ante el Ayuntamiento respectivo, el titular de la Contraloría Municipal;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+VI. Ante el titular u órgano que encabece el organismo autónomo de que se trate, el titular de la contraloría de dicho organismo; y,
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+VII. Ante el titular de la Coordinación de Contraloría, los titulares de los órganos internos de control de las dependencias y entidades del Poder Ejecutivo.
 
 ###### Artículo 16.
 
@@ -374,6 +420,10 @@ V. La antigüedad en el servicio público del responsable;
 VI. La reincidencia en el incumplimiento de obligaciones; y,
 
 VII. El monto del beneficio económico, daño o perjuicio cuantificable pecuniariamente, derivados de las irregularidades cometidas.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+VIII. Que el servidor público desempeñe empleo, cargo o comisión en un área u órgano de control.
 
 ###### Artículo 21.
 
@@ -613,11 +663,11 @@ Cumplidos los requisitos señalados, en la sesión inmediata siguiente se hará 
 
 ### CAPÍTULO VII. Registro patrimonial
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
 
 ###### Artículo 47.
 
-Registro patrimonial. Los órganos de control estarán encargados del registro, custodia y vigilancia de las declaraciones de situación patrimonial de los servidores públicos respectivos, a excepción de los órganos de control de los ayuntamientos y de los organismos municipales descentralizados, cuyos servidores públicos presentarán sus declaraciones de situación patrimonial en los mismos plazos y términos ante la Auditoría Superior de Michoacán para los efectos establecidos en la Ley de Fiscalización Superior del Estado de Michoacán de Ocampo y en esta ley.
+Registro patrimonial. Los órganos de control están encargados del registro, custodia y vigilancia de las declaraciones de situación patrimonial de los servidores públicos respectivos, así como la Auditoría Superior lo está para el caso de los servidores públicos de los municipios y sus organismos descentralizados.
 
 ###### Artículo 48.
 
@@ -653,6 +703,10 @@ g) Realización de pagos de cualquier índole.
 
 Las autoridades garantes, a través de sus áreas de recursos humanos, durante el mes de febrero de cada año, precisarán cuáles son los servidores públicos obligados a presentar declaración por tener a cargo una o más de las funciones antes señaladas, informándolo al órgano interno de control respectivo para que este se los notifique.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2015)</small>
+
+De igual manera, en cada municipio, su órgano de control respectivo precisará cuáles son los servidores públicos obligados a presentar declaración patrimonial por tener a cargo una o más de las funciones anteriormente señaladas, para que se los notifique, informándolo a su vez a la Auditoría Superior para los efectos a que se refiere el artículo 4 fracción IV de esta ley.
+
 No tendrán obligación de presentar declaración inicial o de conclusión quienes, sin interrupción de servicios, sean objeto de un cambio de situación ya sea por modificación en su puesto, nivel, funciones, adscripción o tipo de designación, nombramiento o contratación, y conserven la obligación de presentar declaración de situación patrimonial ante el mismo órgano de control.
 
 ###### Artículo 49.
@@ -671,11 +725,15 @@ Incumplimiento y sanciones. Si las declaraciones se presentaren de manera extemp
 
 Si transcurridos el plazo señalado en el párrafo anterior no se hubiese presentado, previa instancia sumaria que conceda garantía de audiencia, se aplicará al servidor público una sanción económica de tres días a tres meses del total del sueldo base presupuestal que tenga asignado el servidor público, previniéndosele que de no rendir su declaración dentro de los quince días naturales siguientes a la fecha de notificación del citatorio de garantía de audiencia, será destituido de su cargo e inhabilitado por un periodo de uno a tres años. Para la imposición de la sanción se estará a las consideraciones previstas por esta ley.
 
-Lo anterior sin perjuicio de que el órgano de control proceda a la investigación del patrimonio del infractor.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
+
+Lo anterior sin perjuicio de que el órgano de control o en su caso la Auditoría Superior, respectivamente, procedan a la investigación del patrimonio del infractor.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
 
 ###### Artículo 51.
 
-Formatos. Los órganos de control de cada una de las autoridades garantes y la Coordinación de Contraloría respecto del Poder Ejecutivo, expedirán las normas y los formatos físicos o electrónicos bajo los cuales el servidor público deberá presentar sus declaraciones de situación patrimonial, así como de los manuales e instructivos que señalarán lo que es obligatorio declarar.
+Formatos. Los órganos de control de cada una de las autoridades garantes y la Coordinación de Contraloría respecto del Poder Ejecutivo, expedirán las normas y los formatos físicos o electrónicos bajo los cuales el servidor público deberá presentar su declaración de situación patrimonial, así como de los manuales e instructivos que señalarán lo que es obligatorio declarar, de igual manera lo hará la Auditoría Superior para los municipios y sus organismos descentralizados.
 
 ###### Artículo 52.
 
@@ -728,3 +786,17 @@ P.O. 26 DE MARZO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto a los 113 Ayuntamientos del Estado de Michoacán de Ocampo, para su conocimiento.
+
+P.O. 30 DE ABRIL DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y fines conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese el presente Decreto al Poder Judicial y Consejo del Poder Judicial del Estado, a la Auditoría Superior de Michoacán, y a los Ayuntamientos del Estado de Michoacán, para los efectos legales.
