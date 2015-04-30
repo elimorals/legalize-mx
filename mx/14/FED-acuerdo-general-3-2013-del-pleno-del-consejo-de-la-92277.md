@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-04-29"
+last_updated: "2015-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -139,7 +139,9 @@ II. SEGUNDO CIRCUITO:
 
 2. Seis tribunales unitarios: cinco con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
-3. Veinticinco juzgados de Distrito en el Estado de México: seis especializados en Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 15/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2015)</small>
+
+3. Veintiséis juzgados de Distrito en el Estado de México: siete de Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
 4. (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)
 
@@ -1620,3 +1622,9 @@ III. Los juzgados de Distrito se denominarán:
 a) Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
 b) Juzgado Sexto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Uruapan, Michoacán.
+
+D.O.F. 30 DE ABRIL DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor el 1 de mayo de 2015.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
