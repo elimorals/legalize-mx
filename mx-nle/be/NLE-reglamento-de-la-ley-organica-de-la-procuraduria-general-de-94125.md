@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-941
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-20"
-last_updated: "2015-04-01"
+last_updated: "2015-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 20 de abril de 2013.
 
@@ -299,21 +299,23 @@ c) La Fiscalía Regional Sur, de la cual dependerán:
 
 3. La Fiscalía de la Zona de Juárez.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
 
-d) La Dirección de Averiguaciones Previas;
+d) La Dirección de Averiguaciones Previas y Procesos;
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+e) (DEROGADO, P.O. 30 DE ABRIL DE 2015)
 
-e) La Dirección de Procesos y Amparo;
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+f) La Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito;
 
-f) La Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito, y
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+g) La Fiscalía Especializada en Operaciones Estratégicas, y
 
-g) La Fiscalía Especializada en Operaciones Estratégicas.
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2015)</small>
+
+h) La Fiscalía Especializada en Justicia para Adolescentes
 
 II. La Visitaduría General;
 
@@ -367,7 +369,9 @@ a) La Dirección de Recursos Financieros, y
 
 b) La Dirección de Informática.
 
-XIII. La Dirección de Agentes del Ministerio Público Auxiliares del Procurador,
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XIII. La Dirección General de Agentes del Ministerio Público Auxiliares del Procurador;
 
 XIV. La Secretaria Particular del Procurador, y
 
@@ -539,9 +543,9 @@ XXX. Remitir a la Dirección Recursos y Desarrollo Humano Institucional, la info
 
 XXXI. Elaborar las propuestas de procedimientos para el trámite y manejo de documentación e información dentro de la unidad administrativa a su cargo;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-XXXII. Coadyuvar, dentro del ámbito de sus facultades, con la Dirección de Procesos y Amparo, en el ejercicio de la acción de extinción de dominio y demás atribuciones que le corresponden al Ministerio Público, de conformidad con la Ley de Extinción de Dominio del Estado de Nuevo León y demás disposiciones aplicables;
+XXXII. Coadyuvar, dentro del ámbito de sus facultades, con la Dirección de Averiguaciones Previas y Procesos, en el ejercido de la acción de extinción de dominio y demás atribuciones que le corresponden al Ministerio Público, de conformidad con la Ley de Extinción de Dominio para el Estado de Nuevo León y demás disposiciones aplicables;
 
 XXXIII. Proporcionar a la Dirección Jurídica y Asuntos Legislativos, la información pública que tenga en su poder y que no se encuentre sujeta a un acuerdo de reserva, conforme a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, a fin de que pueda dar respuesta a las solicitudes de información pública;
 
@@ -575,9 +579,9 @@ III. Supervisar el cumplimiento de las bases o lineamientos expedidos por el Pro
 
 IV. Coordinar, con base en los lineamientos que señale el Procurador, el intercambio de criterios de aplicación técnico penal con otras Procuradurías y órganos jurisdiccionales para mejorar la procuración e impartición de justicia en el Estado y promover la difusión para su debida observancia;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-V. Establecer, con los titulares de las Fiscalías Regionales, Dirección de Averiguaciones Previas, Dirección de Procesos y Amparo, Fiscalía Especializada en Operaciones Estratégicas, Agencia Estatal de Investigaciones e Instituto de Criminalística y Servicios Periciales, los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público, la investigación policial y los dictámenes periciales, con pleno respeto a los derechos humanos;
+V. Establecer, con los titulares de las Fiscalías Regionales, Fiscalía Especializada en Operaciones Estratégicas, Fiscalía Especializada en Justicia para Adolescentes, Agencia Estatal de Investigaciones, Instituto de Criminalística y Servicios Periciales, Dirección de Averiguaciones Previas y Procesos y cualquier otro que considere pertinente, los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público, la investigación policial y los dictámenes periciales, con pleno respeto a los derechos humanos;
 
 VI. Supervisar el registro y administración de los bienes asegurados, recuperados e instrumentos del delito vinculados a las indagatorias;
 
@@ -671,15 +675,15 @@ IX. Las que le encomiende el Fiscal Regional de su adscripción o le otorguen la
 
 La competencia de las Fiscalías de Zona y de las Fiscalías Especializadas, estará sujeta al acuerdo que al efecto emita el Procurador.
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE ABRIL DE 2015)</small>
 
 ###### Artículo 24.
 
-De la Dirección de Averiguaciones Previas
+De la Dirección de Averiguaciones Previas y Procesos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2015)</small>
 
-La Dirección de Averiguaciones Previas depende de la Subprocuraduría del Ministerio Público, es la unidad administrativa central responsable de investigar y perseguir los delitos que se rigen bajo las reglas del Código de Procedimientos Penales, con el auxilio de la Agencia Estatal de Investigaciones y el Instituto de Criminalística y Servicios Periciales, y de integrar las averiguaciones previas ejerciendo, en su caso, la acción penal correspondiente, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, las que le correspondan en materia de adolescentes infractores, además de las siguientes:
+La Dirección de Averiguaciones Previas y Procesos depende de la Subprocuraduría del Ministerio Público, es la unidad administrativa central responsable de investigar y perseguir los delitos que se rigen bajo las reglas del Código de Procedimientos Penales del Estado, con el auxilio de la Agencia Estatal de Investigaciones y el Instituto de Criminalística y Servicios Periciales, y de integrar las averiguaciones previas ejerciendo, en su caso, la acción penal correspondiente, así como coordinar las acciones de los Agentes del Ministerio Público adscritos a los órganos jurisdiccionales, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, además de las siguientes:
 
 I. Recibir de los Agentes del Ministerio Público Investigadores en los términos de los acuerdos que al efecto emita el Procurador, las averiguaciones previas debidamente agotadas en las que se proponga el no ejercicio de la misma, haciendo el estudio respectivo para determinar lo procedente;
 
@@ -703,95 +707,59 @@ X. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de D
 
 XI. Operar y ejecutar los convenios celebrados por la Procuraduría con instituciones públicas y privadas, nacionales o extranjeras, en materias de robo y tráfico de infantes;
 
-XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador del Ministerio Público para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal, y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-XIII. Las que le encomiende el Subprocurador del Ministerio Público o le otorguen la Ley, este Reglamento y demás normas aplicables.
+XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador del Ministerio Público para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XIII. Conducir y supervisar las actividades de los Agentes del Ministerio Público adscritos a los órganos jurisdiccionales;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XIV. Tener a su cargo la actuación procesal del Ministerio Público en la Primera Instancia de los procedimientos penales;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XV. Autorizar a los Agentes del Ministerio Público para que actúen en materia de sobreseimiento de los procesos penales en los casos que procedan legalmente;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XVI. Remitir al Procurador los informes, documentos y constancias necesarios, cuando se estime que debe iniciarse una indagatoria por la comisión de un delito diverso o en contra de personas distintas a los procesados;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XVII. Revisar la operatividad funcional y el desempeño con calidad jurídica de los Agentes del Ministerio Público a su cargo, conforme a sus facultades y dentro del marco legal;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XVIII. Concurrir a las visitas de reclusorios que practiquen los Jueces ante los que actúan los Agentes del Ministerio Público adscritos, informando al Procurador sobre los resultados de las mismas;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XIX. Mantener comunicación con el Poder Judicial del Estado y demás autoridades en los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XX. Expedir los lineamientos para la actuación del Ministerio Público en los procesos que son de la competencia de los jueces civiles y familiares;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XXI. Promover el ejercicio de la acción de extinción de dominio y, en su caso, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XXII. Instruir la operación y ejecución de las bases, convenios u otros instrumentos de coordinación o colaboración celebrados por la Procuraduría en materia de derecho familiar y de procesos penales, incluyendo lo relativo al cumplimiento de mandamientos judiciales; y
+
+XXIII. Las que le encomiende el Subprocurador del Ministerio Público o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
 ###### Artículo 25.
 
 (DEROGADO, P.O. 28 DE MARZO DE 2014)
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE MARZO DE 2014)</small>
-
 ###### Artículo 26.
 
-De la Dirección de Procesos y Amparo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
-
-La Dirección de Procesos y Amparo depende de la Subprocuraduría del Ministerio Público, y es la unidad administrativa central responsable de coordinar las acciones de los Agentes del Ministerio Público adscritos a los órganos jurisdiccionales y de representar a la Procuraduría ante los órganos de control constitucional, siendo competente para realizar las acciones a que se refieren los artículos 6 y 7de (sic) la Ley, 5 y 7 de este Reglamento, y para las siguientes:
-
-I. Conducir y supervisar las actividades de los Agentes del Ministerio Público adscritos a los órganos jurisdiccionales;
-
-II. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y las demás disposiciones normativas aplicables;
-
-III. Tener a su cargo la actuación procesal del Ministerio Público en la Primera Instancia de los procedimientos penales;
-
-IV. Autorizar a los Agentes del Ministerio Público para que actúen en materia de sobreseimiento de los procesos penales en los casos que procedan legalmente;
-
-V. Remitir al Procurador los informes, documentos y constancias necesarios, cuando se estime que debe iniciarse una indagatoria por la comisión de un delito diverso o en contra de personas distintas a los procesados;
-
-VI. Coordinar las acciones para la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación, cateo y demás mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento;
-
-VII. Revisar la operatividad funcional y el desempeño con calidad jurídica de los Agentes del Ministerio Público a su cargo, conforme a sus facultades y dentro del marco legal;
-
-VIII. Concurrir a las visitas de reclusorios que practiquen los Jueces ante los que actúan los Agentes del Ministerio Público adscritos, informando al Procurador sobre los resultados de las mismas;
-
-IX. Expedir los lineamientos para la actuación del Ministerio Público en los procesos que son de la competencia de los jueces civiles y familiares;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
-
-X. Promover el ejercicio de la acción de extinción de dominio y, en su caso, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León;
-
-XI. Formular pedimentos de cumplimiento de mandamientos judiciales en el extranjero;
-
-XII. Operar y ejecutar las bases, convenios u otros instrumentos de coordinación o colaboración celebrados por la Procuraduría en materia de derecho familiar y de procesos penales, incluyendo lo relativo al cumplimiento de mandamientos judiciales;
-
-XIII. Mantener comunicación con el Poder Judicial del Estado y el Poder Judicial de la Federación y demás autoridades competentes en los asuntos de su competencia;
-
-XIV. Implementar y mantener actualizado un sistema de compilación de tesis judiciales dictadas en materia de amparo contra actos de la Procuraduría y del Poder Judicial Estatal y en general, de todos aquellos criterios judiciales que sean relevantes;
-
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
-
-XV. Proponer al Procurador, en los casos que corresponda, la denuncia de contradicción de tesis que provenga de los juicios de amparo, ante las autoridades competentes;
-
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
-
-XVI. Ejercer las acciones necesarias para la debida representación de la Procuraduría frente a los órganos de control constitucional, en los términos del párrafo primero del artículo 9 de la Ley de Amparo, a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador, Subprocurador del Ministerio Público, Director General de la Fiscalía Regional Centro, Director General de la Fiscalía Regional Norte, Director General de la Fiscalía Regional Sur, Directores de las Fiscalías de Zona, Directores de las Fiscalías Especializadas, Director de Averiguaciones Previas, Director General de la Agencia Estatal de Investigaciones, Director de Investigación Región Centro, Director de Investigación Región Norte, y Director de Investigación Región Sur, Director de Análisis e Información, Director del Instituto de Criminalística y Servicios Periciales, Director General de Atención Ciudadana y Justicia Penal Alternativa, Director de Atención Ciudadana, Director de Justicia Penal Alternativa, Director de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, Director de la Unidad Especializada Antisecuestros, Director del Instituto de Formación Profesional y Agentes del Ministerio Público; para que concurran a las audiencias a efecto de que en ellas rindan pruebas, alegatos o hagan promociones, a excepción de aquellas relativas a recursos de inconformidad interpuestos contra el no ejercicio de la acción penal; tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XVII. Gestionar, para los efectos de la fracción IV del artículo 5° de la Ley de Amparo, con el Delegado de la Procuraduría General de la República o con los Agentes del Ministerio Público Federal adscritos a los Juzgados de Distrito, la interposición de los recursos que señale la Ley referida en los juicios de amparo penales en que se reclamen resoluciones de Tribunales locales, cuando se estime que la (sic) sentencias dictadas en audiencias constitucionales o resoluciones de incidentes de suspensión, causen agravio a los intereses de la representación social;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XVIII. Vigilar que los informes que se rindan en los juicios de amparo en que se señalen como autoridades responsables a las mencionadas en la fracción I de este artículo, se formulen en tiempo y forma y que se anexen los documentos o copias certificadas necesarias para justificar la legalidad o constitucionalidad de los actos reclamados;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XIX. Apoyar, por conducto de los Agentes del Ministerio Público adscritos, para que en los informes que se rindan en los juicios de amparo en que se señalen como actos reclamados órdenes de aprehensión, autos de formal prisión o de sujeción a proceso, o algún otro, se anexen las copias certificadas necesarias para justificar la legalidad de tales actos reclamados;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XX. Representar al Procurador, como delegados, en los juicios de amparo directo en que se señale a aquél como autoridad responsable y que se promuevan contra las sentencias de segunda instancia dictadas en procesos penales;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XXI. Recopilar los criterios de los Tribunales Federales en relación a la materia penal y ponerlos en conocimiento del Director General de Control de Procesos y Amparos;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XXII. Informar oportunamente los Fiscales Regionales, al Director de Averiguaciones Previas, o al Director General de la Agencia estatal de Investigaciones en su caso, de las fallas en la integración de las indagatorias o en el desarrollo de los procesos o alguna otra causa, que se traduzcan en la concesión de amparos;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XXIII. Vigilar la operatividad funcional y el desempeño con calidad técnica jurídica de los Agentes del Ministerio Público del Estado, que intervengan en los Juicios de Amparo, conforme a sus facultades y dentro del marco legal;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XXIV. Coordinar la intervención del Ministerio Público del Estado, con la Procuraduría General de la República, respecto a los juicios de amparo en los que el primero sea señalado como autoridad responsable, conforme a los convenios de colaboración institucional, y
-
-XXV. Las que le encomiende el Subprocurador del Ministerio Público o le otorguen la Ley, este Reglamento y las demás normas aplicables.
+(DEROGADO, P.O. 30 DE ABRIL DE 2015)
 
 ###### Artículo 27.
 
@@ -870,6 +838,46 @@ XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador del M
 XIII. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
 
 XIV. Tener a su cargo la actuación procesal del Ministerio Público en el sistema procesal penal acusatorio;
+
+XV. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
+
+XVI. Las que le encomiende el Subprocurador del Ministerio Público o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 29 Bis 1.
+
+De la Fiscalía Especializada en Justicia para Adolescentes
+
+La Fiscalía Especializada en Justicia para Adolescentes depende de la Subprocuraduría del Ministerio Público y es una unidad administrativa central responsable y especializada en investigar y perseguir las conductas delictivas cometidas por adolescentes infractores, de acuerdo con la ley de la materia, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+
+I. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos y el interés superior del adolescente;
+
+II. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
+
+III. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
+
+IV. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
+
+V. Resolver los conflictos de competencia que se presenten entre sus Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
+
+VI. Someter a la aprobación del Procurador los casos en los que se pretenda prescindir, total o parcialmente, de la persecución penal, que se limite a alguno o varios hechos o a alguna de las personas que participaron en su realización, debiendo adoptar los criterios de oportunidad señalados en la ley aplicable;
+
+VII. Poner a la consideración del Subprocurador del Ministerio Público, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
+
+VIII. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
+
+IX. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que las víctimas y ofendidos por delitos reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, a sus familiares o testigos;
+
+X. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+
+XI. Supervisar el correcto funcionamiento de las Unidades de Investigación;
+
+XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador del Ministerio Público para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+XIII. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
+
+XIV. Tener a su cargo la actuación procesal del Ministerio Público en el sistema procesal penal acusatorio especializado en justicia para adolescentes;
 
 XV. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
 
@@ -1037,11 +1045,15 @@ XXIII. Vigilar que se atiendan de inmediato y con eficacia, las llamadas de auxi
 
 XXIV. Proponer al Procurador los manuales y procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Agencia;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
 
-XXV. Coordinar el servicio de seguridad a las personas, prestado por los Agentes de la Policía Ministerial, en los términos de las instrucciones que al efecto emita el Procurador, y
+XXV. Coordinar el servicio de seguridad a las personas, prestado por los Agentes de la Policía Ministerial, en los términos de las instrucciones que al efecto emita el Procurador;
 
-XXVI. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XXVI. Coordinar junto con la Dirección General de Agentes del Ministerio Público Auxiliares del Procurador, las acciones para la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación, cateo y demás mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
+
+XXVII. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
 ###### Artículo 33.
 
@@ -1093,7 +1105,7 @@ III. Supervisar que los elementos de la Policía Ministerial ejecuten con toda o
 
 IV. Vigilar que se lleve el registro de las diligencias de investigación ejecutadas por elementos a su cargo;
 
-V. Verificar que los Agentes de la Policía Ministerial, al realizar sus funciones, lo hagan con apego (sic) respeto absoluto a los derechos humanos, así como a los principios de actuación que establece la Ley del Sistema de Seguridad Pública del Estado de Nuevo León y las demás disposiciones legalmente aplicables;; (sic)
+V. Verificar que los Agentes de la Policía Ministerial, al realizar sus funciones, lo hagan con apego (sic) respeto absoluto a los derechos humanos, así como a los principios de actuación que establece la Ley del Sistema de Seguridad Pública del Estado de Nuevo León y las demás disposiciones legalmente aplicables;;
 
 VI. Ordenar el arresto de hasta por treinta y seis horas del personal de la Policía Ministerial que merezca tal sanción e informarlo al Director General de la Agencia Estatal de Investigaciones;
 
@@ -1651,13 +1663,19 @@ VIII. Coordinar el cumplimiento de transferencia de información requerida por e
 
 IX. Las que le encomiende el Director General de Administración o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE ABRIL DE 2015)</small>
+
 ###### Artículo 50.
 
-De la Dirección de Agentes del Ministerio Público Auxiliares del Procurador
+De la Dirección General de Agentes del Ministerio Público Auxiliares del Procurador
 
-La Dirección de Agentes del Ministerio Público Auxiliares del Procurador depende directamente del Procurador y es la unidad administrativa responsable de someter a la consideración de éste lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2015)</small>
 
-I. Bajo las reglas del Código Procesal Penal:
+La Dirección General de Agentes del Ministerio Público Auxiliares del Procurador depende directamente del Procurador y es la unidad administrativa central responsable de representar al Procurador ante los órganos jurisdiccionales y a la Procuraduría ante los órganos de control constitucional, siendo competente para realizar las acciones a que se refieren los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2015)</small>
+
+I. Someter a la consideración del Procurador, bajo las reglas del Código Procesal Penal:
 
 a) Recibir la carpeta de investigación enviada para el efecto de la autorización o desautorización del no ejercicio de la acción penal;
 
@@ -1669,7 +1687,9 @@ d) (DEROGADO, P.O. 28 DE MARZO DE 2014), y
 
 e) Atender las peticiones de indemnización que hagan directamente al Procurador, por posible error del Ministerio Público, las que se tramitarán con arreglo a las Normas Reguladoras de la Responsabilidad Patrimonial del Estado.
 
-II. Bajo las reglas del Código de Procedimientos Penales someterá a consideración del Procurador los proyectos de resolución a los recursos de inconformidad interpuestos en contra de las determinaciones de inejercicio de la acción penal dictadas por el órgano investigador, así como los de formulación de agravios o desistimiento en los recursos de apelación, teniendo competencia en relación a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2015)</small>
+
+II. Someter a la consideración del Procurador, bajo las reglas del Código de Procedimientos Penales someterá a consideración del Procurador los proyectos de resolución a los recursos de inconformidad interpuestos en contra de las determinaciones de inejercicio de la acción penal dictadas por el órgano investigador, así como los de formulación de agravios o desistimiento en los recursos de apelación, teniendo competencia en relación a lo siguiente:
 
 a) Coordinar y supervisar las actividades de los Agentes del Ministerio Público Auxiliares;
 
@@ -1695,19 +1715,95 @@ d) Presentar proyecto de dictamen para la aprobación del Procurador, en los sig
 
 e) Formular los informes previos y justificados, en los juicios de amparos promovidos contra actos del Procurador consistentes en la confirmación de inejercicios y con motivo de resoluciones dictadas en segunda instancia de los procedimientos penales; así como en la presentación de las promociones y los recursos que deban interponerse;
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
 
-f) Informar oportunamente a la Dirección de Averiguaciones Previas o a la Dirección de Procesos y Amparo, según sea el caso, de las fallas en la integración de indagatorias o en el desarrollo de los procesos que se traduzcan en resoluciones desfavorables en segunda instancia en casos relevantes;
+f) Informar oportunamente a la Dirección de Averiguaciones Previas y Procesos de las fallas en la integración de indagatorias o en el desarrollo de los procesos que se traduzcan en resoluciones desfavorables en segunda instancia en casos relevantes;
 
 g) Poner en conocimiento del Procurador y del Subprocurador del Ministerio Público las contradicciones de criterios que se contienen en las resoluciones dictadas por los Magistrados del Tribunal Superior de Justicia;
 
-h) Vigilar que en los procedimientos de segunda instancia en asuntos del orden penal, civil, familiar y en aquellos en que deba intervenir el Procurador, se desahoguen oportunamente las vistas, se formulen o contesten agravios y en general, se lleven adecuadamente y con las formalidades legales, compareciendo a las audiencias en representación del Procurador, y
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2015)</small>
 
-i) Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables.
+h) Vigilar que en los procedimientos de segunda instancia en asuntos del orden penal, civil, familiar y en aquellos en que deba intervenir el Procurador, se desahoguen oportunamente las vistas, se formulen o contesten agravios y en general, se lleven adecuadamente y con las formalidades legales, compareciendo a las audiencias en representación del Procurador;
 
-III. Intervenir por si o a través de sus Agentes, en los asuntos del orden civil o familiar o de justicia para adolescentes, que determine el Procurador, y
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2015)</small>
 
-IV. Las que le encomiende el Procurador, le otorgue la Ley, este Reglamento u otrasnormas(sic) aplicables.
+i) Autorizar a los Agentes del Ministerio Público para que actúen en materia de sobreseimiento de los procesos penales en los casos que procedan legalmente dentro de un juicio de amparo, y
+
+j) Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+III. Recibir las ordenes de aprehensión, reaprehensión, comparecencia, arresto, presentación, cateo y demás mandamientos que ordene la autoridad judicial, coordinando y vigilando su debido cumplimiento;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+IV. Llevar el registro, distribución, control y trámite de las órdenes de presentación, comparecencia, aprehensión, reaprehensión, cateo, arresto, arraigo y protección que giren los órganos jurisdiccionales, así como las de detención, presentación, comparecencia y retención que dicte el Ministerio Público en los términos legalmente establecidos;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+V. Coordinar junto con la Agencia Estatal de Investigaciones, las acciones para la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación, cateo y demás mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+VI. Formular pedimentos de cumplimiento de mandamientos judiciales en el extranjero;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+VII. Operar y ejecutar las bases, convenios u otros instrumentos de coordinación o colaboración celebrados por la Procuraduría, incluyendo lo relativo al cumplimiento de mandamientos judiciales;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+VIII. Mantener comunicación con el Poder Judicial del Estado y el Poder Judicial de la Federación y demás autoridades competentes en los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+IX. Implementar y mantener actualizado un sistema de compilación de tesis judiciales dictadas en materia de amparo contra actos de la Procuraduría y del Poder Judicial Estatal y en general, de todos aquellos criterios judiciales que sean relevantes;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+X. Proponer al Procurador, en los casos que corresponda, la denuncia de contradicción de tesis que provenga de los juicios de amparo, ante las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XI. Ejercer las acciones necesarias para la debida representación de la Procuraduría frente a los órganos de control constitucional, en los términos del párrafo primero del artículo 9 de la Ley de Amparo, da a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador o titulares de las unidades administrativas descritas en el artículo 8 del presente Reglamento, Coordinadores, Supervisores y Agentes del Ministerio Público, para que concurran a las audiencias a efecto de que en ellas rindan pruebas, alegatos o hagan promociones. Tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XII. Gestionar, para los efectos de la fracción IV del artículo 5° de la Ley de Amparo, con el Delegado de la Procuraduría General de la República o con los Agentes del Ministerio Público Federal adscritos a los Juzgados de Distrito, la interposición de los recursos que señale la Ley referida en los juicios de amparo penales en que se reclamen resoluciones de Tribunales locales, cuando se estime que la sentencias dictadas en audiencias constitucionales o resoluciones de incidentes de suspensión, causen agravio a los intereses de la representación social;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XIII. Vigilar que los informes que se rindan en los juicios de amparo en que se señalen como autoridades responsables a las mencionadas en la fracción XI de este artículo, se formulen en tiempo y forma y que se anexen los documentos o copias certificadas necesarias para justificar la legalidad o constitucionalidad de los actos reclamados;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XIV. Apoyar, por conducto de los Agentes del Ministerio Público auxiliares, para que en los informes que se rindan en los juicios de amparo en que se señalen como actos reclamados órdenes de aprehensión, autos de formal prisión o de sujeción a proceso, o algún otro, se anexen las copias certificadas necesarias para justificar la legalidad de tales actos reclamados;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XV. Representar al Procurador, como delegados, en los juicios de amparo directo en que se señale a aquél como autoridad responsable y que se promuevan contra las sentencias de segunda instancia dictadas en procesos penales;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XVI. Recopilar los criterios de los Tribunales Federales en relación a la materia penal y ponerlos en conocimiento de los servidores público (sic) señalados en la fracción X de este artículo;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XVII. Informar oportunamente los Fiscales Regionales, al Director de Averiguaciones Previas y Procesos, o al Director General de la Agencia Estatal de Investigaciones en su caso, de las fallas en la integración de las indagatorias o en el desarrollo de los procesos o alguna otra causa, que se traduzcan en la concesión de amparos;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XVIII. Vigilar la operatividad funcional y desempeño con calidad técnica jurídica de los Agentes del Ministerio Público del Estado, que intervengan en los Juicios de Amparo conforme a sus facultades y dentro del marco legal;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XIX. Coordinar la intervención del Ministerio Público del Estado, con la Procuraduría General de la Republica, respecto a los juicios de amparo en los que el primero sea señalado como autoridad responsable, conforme a los convenios de colaboración institucional;
+
+XX. Intervenir por sí o a través de sus Agentes, en los asuntos del orden civil o familiar o de justicia para adolescentes, que determine el Procurador, y
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2015)</small>
+
+XXI.- Las que le encomiende el Procurador, le otorgue la Ley, este Reglamento u otras normas aplicables.
 
 ###### Artículo 51.
 
@@ -2530,3 +2626,7 @@ SEGUNDO. La Fiscalía Especializada de Operaciones Estratégicas entrará en fun
 P.O. 1 DE ABRIL DE 2015.
 
 ÚNICO. El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de abril de 2015.
+
+P.O. 30 DE ABRIL DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
