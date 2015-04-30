@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-operacion-del-comite-de-control-y-evaluacion-6825
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-17"
-last_updated: "2014-12-03"
+last_updated: "2015-04-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE OPERACIÓN DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL MEDIO AMBIENTE (COCOE) DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 3 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL MEDIO AMBIENTE (COCOE) DEL ESTADO DE MÉXICO, PUBLICADO EN LAS G.G. DE 3 DE DICIEMBRE DE 2014 Y 30 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2014 (SIN EFECTOS).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 17 de abril de 2009.
 
@@ -522,6 +522,16 @@ G.G. 8 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 G.G. 3 DE DICIEMBRE DE 2014.
+
+Primero. Publíquese el presente Reglamento Interno en el Periódico Oficial “Gaceta del Gobierno”.
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+Tercero. Se deja sin efectos el Reglamento Interior del COCOE aprobado el 11 de marzo de 2009.
+
+Cuarto. Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
+
+G.G. 30 DE ABRIL DE 2015.
 
 Primero. Publíquese el presente Reglamento Interno en el Periódico Oficial “Gaceta del Gobierno”.
 
