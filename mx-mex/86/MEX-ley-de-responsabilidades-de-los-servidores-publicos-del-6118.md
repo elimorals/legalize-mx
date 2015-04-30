@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2015-01-13"
+last_updated: "2015-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL G.G. EL 13 DE ENERO DE 2015, NÚMERO 6, SECCIÓN CUARTA, PÁGINAS 13 A LA 20, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -419,6 +419,10 @@ XIII. Abstenerse de nombrar, contratar o promover como servidores públicos a pe
 
 XIV. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+El servidor público deberá informar de inmediato a la Secretaría sobre la atención, trámite o resolución de los asuntos a que hace referencia el párrafo anterior y que sean de su conocimiento.
+
 XV. Informar por escrito al Jefe inmediato y en su caso, al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación o resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
 
 XVI. Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a las que se refiere la fracción XIII, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
@@ -427,9 +431,9 @@ XVII. Desempeñar su empleo, cargo o comisión sin obtener beneficios adicionale
 
 XVIII. Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción, de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar de alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
 
-XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes en los términos que señala la Ley.
+XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes y la Declaración de Intereses en los términos que señala la Ley.
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -663,9 +667,9 @@ En el supuesto de que la persona haya sido contratada en el servicio público y 
 
 VI. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
 
-VII. Sanción pecuniaria de diez a ciento ochenta salarios mínimos vigentes en la Entidad, por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que los servidores públicos deban observar en el desempeño de sus empleos, cargos o comisiones y de quince a ciento ochenta días del sueldo base presupuestal asignado al servidor público que incurra en incumplimiento a las obligaciones previstas en el artículo 80 de la presente Ley.
+VII. Sanción pecuniaria de diez a ciento ochenta salarios mínimos vigentes en la Entidad, por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que los servidores públicos deban observar en el desempeño de sus empleos, cargos o comisiones y de quince a ciento ochenta días del sueldo base presupuestal asignado al servidor público que incurra en incumplimiento a las obligaciones previstas en los artículos 80 y 80 Bis de la presente Ley.
 
 > <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -923,6 +927,10 @@ c) Para fincar responsabilidad administrativa resarcitoria;
 
 d) Para imponer la amonestación, suspensión, destitución e inhabilitación, si de la responsabilidad se deriva que existe beneficio obtenido daño o perjuicio causado a los fondos, valores, recursos económicos del Estado, municipios, o de aquellos concertados o convenidos con la federación y los municipios o al patrimonio de los organismos auxiliares y fideicomisos públicos.
 
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+e) Para imponer la sanción derivada del Conflicto de Intereses.
+
 El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
 La prescripción se interrumpirá por cada trámite que las autoridades realicen y le sea notificado al presunto responsable.
@@ -993,23 +1001,27 @@ Las responsabilidades previstas en este capítulo tendrán el carácter de créd
 
 ## TITULO CUARTO
 
-### CAPITULO UNICO. Del Registro Patrimonial de los Servidores Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE ABRIL DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+### CAPITULO UNICO. Del Registro Patrimonial y de Intereses de los Servidores Públicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
 
 ###### Artículo 78.
 
-La Legislatura del Estado, el Consejo de la Judicatura del Estado llevarán el registro de la manifestación de bienes de sus servidores públicos y la Secretaría el de los servidores públicos del Poder Ejecutivo de conformidad con esta ley y disposiciones aplicables.
+La Legislatura del Estado y el Consejo de la Judicatura del Estado llevarán el Registro de la Manifestación de Bienes y la Declaración de Intereses de sus servidores públicos y la Secretaria el de los servidores públicos del Poder Ejecutivo, de conformidad con esta ley y disposiciones aplicables.
 
 > <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
 Para los efectos del registro, cada Poder determinará de conformidad a su legislación, los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
 
 ###### Artículo 79.
 
-Tienen la obligación de presentar Manifestación de Bienes ante los órganos competentes, en la forma y plazos establecidos por la presente ley y bajo protesta de decir verdad:
+Tienen la obligación de presentar Manifestación de Bienes y Declaración de Intereses, ante los órganos competentes en la forma y plazos establecidos por la presente Ley, y bajo protesta de decir verdad.
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 I.- En la Legislatura del Estado: Los Diputados, el Oficial Mayor, todo el personal de la Contaduría General de Glosa y Jefes de Departamentos hasta Directores;
 
@@ -1017,11 +1029,19 @@ I.- En la Legislatura del Estado: Los Diputados, el Oficial Mayor, todo el perso
 
 II. En el Poder Ejecutivo: los servidores públicos de la administración pública central y del sector auxiliar, desde jefes de departamento hasta los titulares de las dependencias, incluyendo al Gobernador del Estado; Notarios Públicos, Defensores de Oficio y aquellos que manejen, recauden o administren fondos y recursos estatales, municipales o federales y en la propia Secretaría todos sus servidores públicos.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+
 En la Procuraduría General de Justicia: Los agentes del Ministerio Público, sus Secretarios, los Policías Judiciales, los Peritos, Jefes de Departamento hasta su Titular.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
 En los Tribunales Administrativos y del Trabajo: Los Magistrados, Jueces, Representantes de Gobierno en las Juntas, Secretarios, Actuarios y Asesores Comisionados.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+
 En los Ayuntamientos: Jefes de Departamento o sus equivalentes a la Administración Pública Estatal, Secretarios, Tesoreros, Regidores, Síndicos, Presidentes, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales, municipales o federales.
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 III.- En el Tribunal Superior de Justicia: Los Magistrados, Jueces, Secretarios Judiciales, Ejecutores y Notificadores, de cualquier categoría o designación, los Jefes de Departamento hasta los Titulares, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales, municipales o federales.
 
@@ -1041,21 +1061,33 @@ f).- Adquisición o comercialización de bienes y servicios; y
 
 g).- Efectuar pagos de cualquier índole.
 
-Los Titulares de las dependencias del Poder Ejecutivo de los organismos auxiliares, empresas de participación estatal o municipal o de fideicomisos públicos, precisarán durante el mes de febrero de cada año, cuáles son los servidores públicos obligados a presentar Manifestación de Bienes por tener a su cargo una o más de las funciones antes señaladas.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+Los titulares de las dependencias del Poder Ejecutivo de los organismos auxiliares, empresas de participación estatal o municipal o de fideicomisos públicos, precisarán durante el mes de febrero de cada año, cuales son los servidores públicos obligados a presentar Manifestación de Bienes y Declaración de Intereses, por tener a cargo una o más de las funciones antes señaladas.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
 En las mismas circunstancias, procederán además en el Poder Legislativo y Judicial y en los Ayuntamientos; así como los Tribunales Administrativos y del Trabajo, por conducto de sus respectivos Presidentes.
 
-Así mismo, deberán presentar Manifestación de Bienes los demás servidores públicos que determinen el Secretario de la Contraloría y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
 
-El servidor público que en su Manifestación de Bienes faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta ley, será suspendido y, cuando su importancia lo amerite, destituido e inhabilitado de tres meses a tres años.
+Asimismo, deberán presentar Manifestación de Bienes y Declaración de Intereses, los demás servidores públicos que determinen el Secretario de la Contraloría y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+El servidor público que en su Manifestación de Bienes o en su Declaración de Intereses faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta ley, será suspendido y cuando su importancia lo amerite, derivado de las inconsistencias detectadas, será sujeto de las responsabilidades disciplinarias y resarcitorias y en su caso destituido e inhabilitado de tres meses a tres años.
 
 ###### Artículo 80.
 
 La Manifestación de Bienes deberá presentarse en los siguientes plazos:
 
-I. Dentro de los sesenta días naturales siguientes a la toma de posesión;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
 
-II. Dentro de los sesenta días naturales siguientes a la conclusión del cargo; y
+I. Dentro de los sesenta días naturales siguientes a la toma de posesión o alta del empleo, cargo o comisión:
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
+
+II. Dentro de los sesenta días naturales siguientes a la conclusión o baja del empleo, cargo o comisión; y
 
 III. Durante el mes de mayo de cada año.
 
@@ -1071,9 +1103,31 @@ Para el caso de que se omita la manifestación contemplada en la fracción II, l
 
 Igual sanción pecuniaria se aplicará cuando la presentación de esta manifestación se haga de manera extemporánea.
 
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+Artículo 80 bis.- El Conflicto de Intereses es la incompatibilidad entre las obligaciones públicas y los intereses privados del servidor público, ocurre cuando lo relacionado a un interés público, tiende a estar indebidamente influenciado por un interés ajeno de tipo económico o personal guiando el servidor público su actuación en beneficio propio o de un tercero.
+
+La Declaración de Intereses deberá de presentarse conforme a lo siguiente:
+
+I. Dentro de los sesenta días naturales siguientes a la toma de posesión o alta del empleo, cargo o comisión.
+
+II. Actualizarse durante el mes de mayo de cada año.
+
+III. Al momento que se presente un Conflicto de Intereses, con motivo del empleo cargo o comisión.
+
+Si transcurridos los plazos a que hacen referencia las fracciones I y II no se hubiese presentado la Declaración de Intereses correspondiente sin causa justificada, se aplicará al servidor público omiso o extemporáneo, previa instancia sumaria que conceda garantía de audiencia, una sanción pecuniaria en términos de la presente Ley.
+
+Para el caso de la fracción I, además de la sanción pecuniaria, se prevendrá al presunto infractor que de no rendir su declaración dentro de los quince días naturales siguientes a la fecha de notificación del citatorio se iniciara el procedimiento correspondiente para su separación del cargo, previa notificación que de este hecho haga la Secretaría al superior jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de la presente Ley.
+
+Para el caso de que se omita la declaración contemplada en la fracción I, la Secretaría procederá a la investigación del patrimonio del infractor en términos de esta Ley, sin perjuicio de aplicar la sanción que corresponda, previo agotamiento de las fases del procedimiento administrativo.
+
+También se iniciará procedimiento administrativo y, en su caso, se sancionará cuando sin causa justificada la presentación de la declaración a que hace mención el párrafo anterior se haga de manera extemporánea.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
+
 ###### Artículo 81.
 
-La Secretaría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la Manifestación de Bienes, así como de los manuales e instructivos que señalarán lo que es obligatorio declarar.
+La Secretaría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la Manifestación de Bienes y la Declaración de Intereses, así como de los manuales e instructivos que señalarán lo que es obligatorio declarar.
 
 ###### Artículo 82.
 
@@ -1086,6 +1140,34 @@ Tratándose de bienes muebles, la Secretaría decidirá, mediante acuerdo genera
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 La Secretaría podrá realizar análisis contable-financieros de las manifestaciones de bienes presentadas por los servidores públicos, a efecto de determinar la veracidad de su contenido y existencia de un probable incremento en su patrimonio. Si del análisis realizado resultaren irregularidades, iniciará el procedimiento administrativo conforme al artículo 59 de este ordenamiento.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 82 Bis.
+
+La Secretaría determinará anualmente el universo de servidores públicos que serán sujetos de la revisión sobre la existencia de conflictos de intereses, incluyendo las que se deriven de los procedimientos de responsabilidades administrativas.
+
+Para efectos de lo anterior, se iniciara el periodo de información previa siguiente:
+
+I. Verificación de las manifestaciones de bienes y declaraciones de intereses:
+
+a) Se integrarán las manifestaciones de bienes y las declaraciones de intereses presentadas por el servidor público durante el ejercicio de su cargo empleo o comisión, y hasta por un periodo de tres años después de haberlo concluido.
+
+b) Se solicitará a las dependencias y organismos auxiliares de la Administración Pública Estatal, ayuntamientos, organismos municipales y otras autoridades competentes, información relacionada con los bienes inmuebles, muebles incluyendo a las sociedades mercantiles u otras entidades privadas o particulares que permitan obtener información sobre estos tipos de registros o datos vinculados a nombre del servidor público o de las personas con quienes tenga parentesco consanguíneo hasta el cuarto grado, por afinidad o civil, así como de sus ingresos y cualquier otra percepción.
+
+Para este fin la Secretaría podrá realizar esta misma solicitud en otras entidades federativas, así como del extranjero, en colaboración con las autoridades mexicanas legalmente facultadas.
+
+II. Informe:
+
+La Secretaría llevará a cabo un análisis y valoración de las pruebas allegadas y emitirá un informe donde determine la presunta existencia o inexistencia del Conflicto de Intereses, en el que se harán constar, en su caso, las observaciones detectadas.
+
+III. Periodo de aclaración:
+
+Se requerirá al servidor para que en un término de diez días hábiles contados a partir de la notificación, formule por escrito las aclaraciones o aporte las pruebas que considere en relación al informe de la Secretaría sobre el conflicto de intereses.
+
+IV. Determinación de presuntas responsabilidades:
+
+La Secretaría, emitirá la determinación cumpliendo con los requisitos dispuestos en el Código Administrativo del Estado de México, y en su caso iniciará los mecanismos e instrumentos para determinar alguna otra responsabilidad administrativa disciplinaria y resarcitoria atendiendo las obligaciones de coordinación que se deriven del establecimiento del Sistema Anticorrupción del Estado de México.
 
 ###### Artículo 83.
 
@@ -1560,3 +1642,15 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+G.G. 30 DE ABRIL DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo expedirá las modificaciones necesarias al Reglamento Interior de la Secretaría de la Contraloría.
+
+CUARTO. El Secretario de la Contraloría llevará a cabo las acciones que permitan la implementación del presente Decreto, así como emitirá las disposiciones normativas complementarias. En el ámbito de sus competencias el Consejo de la Judicatura y el Contralor de la Legislatura del Estado de México llevarán a cabo las acciones que permitan la implementación del presente Decreto, así como emitirán las disposiciones complementarias.
+
+QUINTO. A la entrada en vigor del presente Decreto, en términos de lo dispuesto por los artículos 79 y 80 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los servidores públicos obligados, deberán presentar la Declaración de Intereses, de manera inicial, por única ocasión durante los meses de mayo y junio del 2015, para llevarse a cabo, con posterioridad, en el mes de mayo de manera anual.
