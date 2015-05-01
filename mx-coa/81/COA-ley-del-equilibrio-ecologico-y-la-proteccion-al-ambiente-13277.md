@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2015-03-24"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -975,17 +973,17 @@ Una vez presentada la manifestación de impacto ambiental, la Secretaría en un 
 
 En el caso de que faltare algún requisito o información complementaria a juicio de la Secretaría, esta prevendrá al promovente por una sola vez para que dentro de los tres días hábiles siguientes contados a partir de que hubiere tenido conocimiento, presente lo solicitado a fin de integrar el expediente respectivo, apercibiéndolo que en caso de no dar cumplimiento a lo anterior, se procederá a dar de baja el registro electrónico del folio en la bitácora de ingreso de trámites de esta Secretaría, y se regresará el original de la manifestación de impacto ambiental, para que integre el expediente en su totalidad e inicie de nueva cuenta el procedimiento de evaluación de su proyecto.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-###### ARTICULO 43.
+###### ARTÍCULO 43.
 
-La Secretaría, dentro del plazo de treinta días hábiles contados a partir de la recepción de la manifestación de impacto ambiental, deberá emitir la resolución correspondiente.
+La Secretaría, dentro del plazo de cinco días hábiles contados a partir de la recepción de la manifestación de impacto ambiental, deberá emitir la resolución correspondiente.
 
 La Secretaría podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento.
 
-En ningún caso la suspensión podrá exceder el plazo de treinta días hábiles, constados (sic) a partir de que ésta sea declarada por la Secretaría, y siempre y cuando le sea entregada la información requerida
+En ningún caso la suspensión podrá exceder el plazo de cinco días hábiles, contados a partir de que ésta sea declarada por la Secretaría, y siempre y cuando le sea entregada la información requerida.
 
-Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Secretaría requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por treinta días hábiles adicionales, siempre que se justifique conforme a lo establecido en el reglamento de la presente ley
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Secretaría requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por cinco días hábiles adicionales, siempre que se justifique conforme a lo establecido en el reglamento de la presente ley.
 
 ###### ARTICULO 44.
 
@@ -2810,3 +2808,11 @@ P.O. 19 DE DICIEMBRE DE 2014.
 DECRETO NÚMERO 648, POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 8 Y SE REENUMERE LA SUBSECUENTE DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MAYO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Medio Ambiente, dentro de los diez días naturales siguientes contados a partir de la entrada en vigor del presente decreto, deberá de realizar las modificaciones que resulten necesarias al Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza en Materia de Impacto Ambiental.
+
+TERCERO.- Los procedimientos relativos a la evaluación del impacto ambiental que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán sustanciándose de acuerdo a la legislación vigente al momento de su inicio.
