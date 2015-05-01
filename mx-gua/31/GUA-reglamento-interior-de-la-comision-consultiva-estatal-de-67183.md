@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-comision-consultiva-estatal-de-67183"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-17"
-last_updated: "2009-02-17"
+last_updated: "2015-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 17 de febrero de 2009.
 
@@ -169,7 +171,7 @@ La Comisión podrá funcionar en tres tipos de sesiones: Plenarias, ordinarias �
 
 ###### Artículo 14.
 
-En Las (sic) sesiones plenarias se conocerán exclusivamente los siguientes asuntos:
+En Las sesiones plenarias se conocerán exclusivamente los siguientes asuntos:
 
 I. Programas de actividades;
 
@@ -239,7 +241,7 @@ A efecto de dar continuidad a los acuerdos tomados en cada sesión, las Subcomis
 
 Artículo Único.- Este reglamento entrará en vigor el día de su aprobación por parte de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo.
 
-En Sesión Ordinaria celebrada por la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, el día veintidós de agosto de dos mil siete, en el Auditorio de la Empresa "Pintura, Estampado y Montaje" S. A. de C. V. en la Ciudad de Celaya, Gto., y con la presencia de todos los miembros de dicha Comisión, fue aprobado el presente Reglamento Interior, y expedido con base en lo dispuesto en los artículos 512-B de la Ley Federal del Trabajo y 120,121 Y (sic) 122 del Reglamento Federal de Seguridad e Higiene y Medio Ambiente en el Trabajo.
+En Sesión Ordinaria celebrada por la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, el día veintidós de agosto de dos mil siete, en el Auditorio de la Empresa "Pintura, Estampado y Montaje" S. A. de C. V. en la Ciudad de Celaya, Gto., y con la presencia de todos los miembros de dicha Comisión, fue aprobado el presente Reglamento Interior, y expedido con base en lo dispuesto en los artículos 512-B de la Ley Federal del Trabajo y 120,121 Y 122 del Reglamento Federal de Seguridad e Higiene y Medio Ambiente en el Trabajo.
 
 Lic. Luis Alberto Ramírez Valenzuela
 
@@ -248,3 +250,15 @@ Presidente de la Comisión y subsecretario del Trabajo y de la Previsión Social
 Lic. Araceli Rodríguez Colmenero
 
 Secretaría Técnica de la Comisión y Encargada del Despacho de la Delegación Federal del Trabajo.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 1 DE MAYO DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo en el Estado de Guanajuato, aprobado en sesión ordinaria celebrada el 22 de agosto de 2007, publicado en el Periódico Oficial del Gobierno del Estado número 28, Segunda Parte, de fecha 17 de febrero de 2009.
