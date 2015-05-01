@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2014-11-12"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -85,9 +85,11 @@ Las prestaciones que en esta Ley se establecen se otorgarán con cargo a los fon
 
 Para los efectos del Artículo anterior los trabajadores aportarán al Instituto, una cuota obligatoria del 7% del sueldo básico que disfrute, y las dependencias y entidades aportarán el 19.9% sobre el equivalente al sueldo básico de los trabajadores.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 5°.
 
-Las aportaciones de los trabajadores a que se refiere el Artículo anterior, serán descontadas por la dependencia o entidad a quien corresponda realizar los pagos de salarios.
+Las aportaciones de los trabajadores a que se refiere el Artículo anterior, serán descontadas por la dependencia o entidad a quien corresponda realizar los pagos de sueldos.
 
 Las dependencias y entidades mencionadas enviarán quincenalmente al Instituto las cantidades descontadas a los trabajadores, así como las aportaciones que a las mismas corresponda efectuar al Instituto conforme al Artículo 4° de esta Ley. Asimismo enviarán las nóminas o recibos correspondientes.
 
@@ -127,9 +129,11 @@ En caso de que el trabajador perciba el salario mínimo, se estará a lo que dis
 
 Cuando no sea responsable el trabajador de la situación mencionada en el primer párrafo, será éste quien determine la forma en que liquidará los descuentos de referencia.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 11.
 
-Los trabajadores que por cualquier causa no perciban íntegramente su salario, podrán continuar disfrutando de las prestaciones que esta Ley otorga, si cubren oportunamente la totalidad de las cuotas que les correspondan.
+Los trabajadores que por cualquier causa no perciban íntegramente su sueldo, podrán continuar disfrutando de las prestaciones que esta Ley otorga, si cubren oportunamente la totalidad de las cuotas que les correspondan.
 
 ###### ARTICULO 12.
 
@@ -275,9 +279,9 @@ de 30 años un día en adelante 100% 100%
 
 En caso de incapacidad total y permanente después de haber laborado más de 25 años, la pensión se calculará aplicando al sueldo base, el tabulador anterior.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-Cuando se trate de una pensión de incapacidad por causas de trabajo, el monto que recibirá el pensionado, será del 100% de su último salario básico percibido.
+Cuando se trate de una pensión de incapacidad por causas de trabajo, el monto que recibirá el pensionado, será del 100% de su último sueldo básico percibido.
 
 ###### ARTICULO 34.
 
@@ -337,9 +341,9 @@ El derecho al otorgamiento de esta pensión se adquirirá a partir del día sigu
 
 La pensión por causa de muerte del trabajador consistirá en el pago mensual, a partir del día siguiente al de la fecha de fallecimiento, de una cantidad equivalente al 100% del sueldo regulador a que se refiere la fracción V del artículo 2°, al que se le aplicará el tabulador consignado en el artículo 33 de esta ley.
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2013) (F. DE E., P.O. 4 DE FEBRERO DE 2014)
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-Cuando se trate de una pensión de muerte por causas de trabajo, el monto que recibirá el o los beneficiarios, será del 100% del último salario básico percibido por el trabajador fallecido.
+Cuando se trate de una pensión de muerte por causas de trabajo, el monto que recibirá el o los beneficiarios, será del 100% del último sueldo básico percibido por el trabajador fallecido.
 
 > <small>(F. DE E., P.O. 4 DE FEBRERO DE 2014)</small>
 
@@ -940,3 +944,13 @@ Una vez concluido el plazo señalado en el párrafo anterior, dicho incremento s
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto en este decreto.
