@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2014-12-29"
+last_updated: "2015-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -55,9 +55,11 @@ Se expide la Ley Orgánica del Poder Judicial del Estado de Hidalgo, para quedar
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público, reglamentaria de los artículos 93, 94, 97, 98, 99,100 bis, y 100 ter de la Constitución Política del Estado de Hidalgo, y tiene por objeto regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Hidalgo, al que corresponde de conformidad con la Constitución Política General de la República Mexicana, los Tratados Internacionales y la Constitución Política del Estado de Hidalgo observar las normas relativas a los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad en la aplicación de las leyes en los asuntos jurisdiccionales en materia civil, familiar, mercantil, penal, fiscal administrativo y especializada en justicia para adolescentes del fuero común, así como en materia federal cuando las leyes lo faculten.
+Esta Ley es de orden público, reglamentaria de los artículos 93, 94, 97, 98, 99, 100 bis y 100 ter de la Constitución Política del Estado de Hidalgo, y tiene por objeto regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Hidalgo, al que corresponde de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y la Constitución Política del Estado de Hidalgo, observar las normas relativas a los Derechos Humanos bajo los principios de Universalidad, Interdependencia, Indivisibilidad y Progresividad en la aplicación de las Leyes en los asuntos jurisdiccionales en materia Civil, Familiar, Mercantil, Penal, Especializada en Justicia para los Adolescentes y Fiscal Administrativo del Fuero Común; así como en materia Federal cuando las Leyes lo faculten.
 
 ###### ARTÍCULO 2.
 
@@ -195,7 +197,9 @@ II.- Proponer iniciativas de Leyes y Decretos inherentes a la impartición de ju
 
 III.- Elegir al Presidente o Presidenta del Tribunal Superior de Justicia y, en su caso, elegir a quien deba suplirlo de manera provisional en caso de ausencias hasta por seis meses;
 
-IV.- Determinar las adscripciones de los Magistrados y Magistradas a las Salas y elegir a quiénes habrán de presidirlas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+IV.- Determinar las adscripciones de los Magistrados y Magistradas a las Salas y elegir a quiénes habrán de presidirlas; asimismo, designar a los Magistrados y Magistradas de una Sala para que transitoriamente integren otra cuando sea necesario para su funcionamiento;
 
 V.- Nombrar al Secretario o Secretaria General del Tribunal Superior de Justicia, a propuesta del Presidente o Presidenta, de igual forma conocer de su remoción o renuncia;
 
@@ -241,11 +245,15 @@ XXV.- Participar con el Consejo de la Judicatura en la proposición, diseño, ej
 
 XXVI.- Solicitar a la Comisión de Disciplina la investigación sobre los casos en los que se adviertan actuaciones de Jueces o Juezas y por lo que hace a los funcionarios judiciales, en términos de la Constitución, que pudieran derivar en responsabilidad en el desempeño de las funciones jurisdiccionales;
 
-XXVII.- Sugerir al Consejo de la Judicatura la realización de visita extraordinaria de inspección a algún juzgado cuando adviertan la comisión de alguna falta administrativa;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XXVII.- Sugerir a la Comisión de Disciplina la realización de visita extraordinaria de inspección a algún juzgado cuando adviertan la comisión de alguna falta administrativa;
 
 XXVIII.- Exhortar a los Magistrados, Magistradas y a los Jueces y Juezas al puntual cumplimiento de sus deberes, cuando tuvieren conocimiento de demoras o irregularidades en el despacho de los asuntos;
 
-XXIX.- Sugerir al Consejo de la Judicatura la creación, la especialización, la reubicación o extinción de juzgados de primera instancia;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XXIX.- Proponer al Consejo de la Judicatura la creación, la especialización, la reubicación o supresión de juzgados de primera instancia;
 
 XXX.- Tomar de manera conjunta con el Pleno del Consejo de la Judicatura la protesta de ley a los Jueces y Juezas nombrados por este último; y
 
@@ -305,61 +313,45 @@ XXI.- Rendir los informes previos y con justificación en los amparos que se pro
 
 XXII.- Visitar u ordenar que sean visitados los centros de reinserción social, para cerciorarse sobre la situación de los imputados sujetos a prisión preventiva;
 
-XXIII.- Proponer al Congreso el cambio de residencia del Poder Judicial, en términos del artículo 27 de la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-XXIV.- Someter a la consideración del Pleno los asuntos relacionados con las atribuciones que este artículo le concede o de la competencia de las Salas, cuando por su importancia o trascendencia así lo estime.
+XXIII.- Resolver sobre los puntos urgentes que no admitan demora, aún cuando sean de la competencia del Tribunal en Pleno, en los casos en que éste no pudiere reunirse, dando cuenta de lo que hubiere hecho en el Pleno inmediato siguiente, para que éste ratifique o modifique el acuerdo tomado;
 
-XXV.- Proponer al Pleno de los procesos de planeación para la impartición de justicia; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-XXVI.- Las demás que le confiera esta Ley y otras disposiciones aplicables.
+XXIV.- Proponer al Congreso el cambio de sede del Poder Judicial, en términos del artículo 27 de la Constitución Política del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XXV.- Someter a la consideración del Pleno los asuntos relacionados con las atribuciones que este artículo le concede o de la competencia de las Salas, cuando por su importancia o trascendencia así lo estime;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XXVI.- Hacer del conocimiento del Pleno de Magistrados y Magistradas los procesos de planeación para la impartición de justicia, a efecto de que el Pleno del Consejo de la Judicatura emita los Acuerdos, Decretos y Convenios que fundamenten dicho Proceso de Planeación; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XXVII.- Las demás que le confiera esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 21.
 
-El Presidente o Presidenta del Tribunal Superior de Justicia para el desempeño de sus atribuciones contará con la Contraloría General del Poder Judicial, la Dirección Jurídica Consultiva y con la Coordinación de Información como órganos auxiliares.
+El Presidente o Presidenta del Tribunal Superior de Justicia para el desempeño de sus atribuciones contará con la Dirección Jurídica Consultiva y con la Coordinación de Información como órganos auxiliares.
 
 #### Sección Primera. De la Contraloría
 
 ###### ARTÍCULO 22.
 
-La Contraloría General del Poder Judicial es un órgano auxiliar interno de control administrativo dependiente de la Presidencia del H. Tribunal Superior de Justicia y del Consejo de la Judicatura, cuyo titular nombrará y removerá al Contralor o Contralora General, quien tiene por objeto fiscalizar y auditar los recursos humanos, financieros y materiales del Poder Judicial.
+(DEROGADO, P.O. 1 DE MAYO DE 2015)
 
 ###### ARTÍCULO 23.
 
-Para ser Contralor o Contralora General deberá reunir los siguientes requisitos:
-
-I. Ser ciudadano hidalguense.
-
-II. Contar con título profesional en áreas contable administrativas o afines y con experiencia de cuando menos cuatro años.
-
-III. Tener como mínimo treinta años de edad.
-
-IV. No haber sido sentenciado por delito doloso y no encontrarse inhabilitado en términos de lo que señala la Ley de Responsabilidades de los Servidores Públicos del Estado; y
-
-V. Ser de reconocida probidad.
+(DEROGADO, P.O. 1 DE MAYO DE 2015)
 
 ###### ARTÍCULO 24.
 
-La Contraloría General tendrá las siguientes atribuciones:
-
-I. Vigilar el cumplimiento de las disposiciones establecidas en las normas de funcionamiento administrativo o las Leyes que regulen a los órganos del Poder Judicial, así como de los acuerdos generales del Pleno de Magistrados o Magistradas y del Pleno del Consejo de la Judicatura.
-
-II. Practicar auditorias operacionales, contables o administrativas en todas las áreas del Poder Judicial;
-
-III. Intervenir en el acta entrega recepción cuando ocurran cambios de titulares como son Magistrados, Magistradas, Jueces, Juezas, Directores o Directoras Generales, Directores y Directoras de Área, Subdirectores, Subdirectoras, Encargados y Encargadas de Departamento u homólogos y los servidores públicos que manejen recursos económicos o valores, y cuando así lo amerite auxiliándose de la visitaduría;
-
-IV. Recibir y llevar el registro y seguimiento de las declaraciones patrimoniales de los servidores públicos del Poder Judicial, en los términos previstos por la Ley de la materia;
-
-V. El titular de la Contraloría General o el funcionario que él designe, formará parte de los diversos comités que integran el Poder Judicial;
-
-VI. El titular de la Contraloría General participará y asesorará en todos los procesos de licitación;
-
-VII. La Contraloría General inspeccionará y supervisará el cumplimiento de las normas y disposiciones del sistema de contabilidad, adquisiciones, arrendamientos y servicios, enajenaciones, obra pública, desincorporación, conservación, uso y destino de los recursos materiales del Poder Judicial, interviniendo en los procedimientos que corresponda;
-
-VIII. Formular las observaciones y recomendaciones que estime pertinente con base en los resultados de las auditorias que practique, dando seguimiento a las mismas, e implementará las medidas preventivas y correctivas consecuentes; y
-
-IX. Establecerá los criterios y técnicas para la estructura y contenido de los manuales administrativos, proporcionándolos a cada área del Poder Judicial y vigilar su debida observación.
-
-Para el debido cumplimiento de sus atribuciones el Contralor y la Contralora General contará con las siguientes unidades administrativas: Auditoría y Calidad.
+(DEROGADO, P.O. 1 DE MAYO DE 2015)
 
 #### Sección Segunda. De la Dirección Jurídica Consultiva
 
@@ -437,13 +429,25 @@ XIII. Las demás que le señale la presente Ley y demás ordenamientos legales a
 
 ### CAPÍTULO IV. De las Salas
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 29.
 
-El Tribunal Superior de Justicia funcionará en Salas, que podrán ser unitarias o colegiadas, estas últimas se integrarán con tres Magistrados o Magistradas. Las salas, en razón de la materia, podrán ser civiles, familiares; mercantiles, penales o especializadas en Justicia para adolescentes. Así mismo, según lo acuerde el Pleno del Tribunal Superior de Justicia, podrán existir salas mixtas, que conocerán de las materias que al efecto se determine.
+El Tribunal Superior de Justicia funcionará en Salas, que podrán ser unitarias o colegiadas, éstas últimas se integrarán con tres Magistrados y Magistradas. Las Salas, en razón de la materia, podrán ser Civil, Familiar, Mercantil, Penal o Especializada en Justicia para Adolescentes. Asimismo, según lo acuerde el Pleno del Tribunal Superior de Justicia, podrán existir Salas mixtas, que conocerán de las materias que al efecto se determine.
+
+En ningún caso, los asuntos relativos a la materia Especializada en Justicia de Adolescentes podrán ser objeto de una Sala con especialización mixta.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 30.
 
-Las salas unitarias y colegiadas del sistema penal acusatorio, contarán con un administrador o administradora judicial, los cuales tendrán las atribuciones señaladas en el artículo 79, en lo conducente.
+Las Salas del sistema penal de carácter acusatorio, serán unitarias, para conocer del recurso de apelación.
+
+Serán colegiadas para conocer del recurso de apelación interpuesto en contra de las sentencias definitivas pronunciadas por el Tribunal de enjuiciamiento, mismas que contarán con un Administrador o Administradora, el cual tendrá las atribuciones señaladas en el artículo 79 de esta Ley.
+
+Las Salas mixtas conocerán de aquellos recursos correspondientes, al sistema penal anterior a las reformas del 18 de noviembre del 2014, así como de aquellos recursos que correspondan al nuevo sistema penal acusatorio por razón de turno.
+
+En materia especializada en justicia para adolescentes, los recursos serán conocidos por Salas Unitarias.
 
 ###### ARTÍCULO 31.
 
@@ -457,21 +461,25 @@ Para el desahogo de los asuntos que tienen encomendados, cada Sala tendrá el pe
 
 #### Sección Primera. De la competencia de las Salas
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 33.
 
 Corresponde a las Salas de acuerdo con la materia que se trate:
 
-I. Conocer en segunda instancia, en los términos que dispongan las Leyes, de los negocios del orden civil, familiar, mercantil, penal y de adolescentes.
+I.- Conocer en segunda instancia, en los términos que dispongan las Leyes, en el orden Civil, Familiar, Mercantil, Penal, Penal de Carácter Acusatorio y Especializada en Justicia para Adolescentes.
 
-II. Conocer de los recursos, incompetencias, recusaciones y demás procedimientos que les correspondan conforme a la legislación adjetiva y demás leyes aplicables, y
+II.- Conocer de los recursos, incompetencias, recusaciones y demás procedimientos que les correspondan conforme a la Legislación Adjetiva y demás Leyes aplicables;
 
-III. Conocer de los demás asuntos que les encomienden las leyes y demás ordenamientos jurídicos.
+III.- Las Salas del sistema penal de carácter acusatorio, serán competentes en forma unitaria para conocer del recurso de apelación.
 
-Las salas Especializadas en Justicia para Adolescentes conocerán, además de los conflictos de competencia que se susciten entre los Jueces y Juezas para adolescentes y entre uno de éstos y un Juez o Jueza Penal.
+Serán colegiadas para conocer del recurso de apelación en contra de las sentencias definitivas emitidas por el Tribunal de Enjuiciamiento.
 
-A las Salas en Materia Penal les corresponde resolver la autorización de cambio de radicación de los procesos penales, conforme a lo dispuesto en el Código Nacional de Procedimientos Penales.
+IV.- Las Salas Especializadas en Justicia para Adolescentes, conocerán, además de los conflictos de competencia que se susciten entre los Jueces y Juezas para Adolescentes y entre uno de éstos y un Juez o Jueza Penal.
 
-Además, las Salas en materia Penal, conocerán de la materia concurrente de delitos contra la salud en su modalidad de narcomenudeo, aplicando las leyes federales en cuanto al fondo y por lo que hace al procedimiento las leyes locales respectivas, salvo los casos de excepción previstos en la Ley de la materia.
+A las Salas en materia Penal les corresponde resolver la autorización de cambio de radicación de los procesos penales, conforme a lo dispuesto en el Código de Procedimientos Penales y Código Nacional de Procedimientos Penales. Además, las Salas en materia Penal, conocerán de la materia concurrente de delitos contra la salud en su modalidad de narcomenudeo, aplicando las Leyes Federales en cuanto al fondo y por lo que hace al procedimiento las Leyes locales respectivas, salvo los casos de excepción previstos en la Ley de la materia.
+
+Conocer de los demás asuntos que les encomienden las Leyes y demás ordenamientos jurídicos.
 
 #### Sección Segunda. De las atribuciones de los Presidentes y Presidentas de Sala
 
@@ -623,7 +631,9 @@ II. Resguardar los tocas, expedientes y documentos que se le confían para estud
 
 III. Examinar detalladamente las constancias procesales;
 
-IV. Consultar la legislación de la materia, la jurisprudencia aplicable y la doctrina jurídica, a efecto de que los proyectos de sentencia se apeguen al marco normativo vigente;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+IV. Consultar la Legislación de la materia, la jurisprudencia aplicable, la doctrina, los Tratados Internacionales de observancia obligatoria para el Estado Mexicano y la Jurisprudencia de la Corte Interamericana de Derechos Humanos, a efecto de que los proyectos de sentencia se apeguen al marco normativo vigente;
 
 V. Presentar los proyectos encomendados por el Magistrado o Magistrada; y
 
@@ -679,17 +689,29 @@ XVI. Zacualtipán de Ángeles: Tianguistengo; y
 
 XVII. Zimapán de Zavala: Nicolás Flores y Tasquillo.
 
-Con el propósito del adecuado y eficaz funcionamiento de los órganos jurisdiccionales en materia penal de corte acusatorio, únicamente para efectos administrativos los distritos judiciales enunciados en el artículo 46 de la presente ley integrarán 5 circuitos judiciales que a continuación se enuncian:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2015)</small>
 
-a) Pachuca
+Con el propósito del adecuado y eficaz funcionamiento de los órganos jurisdicciones en materia penal de corte acusatorio, únicamente para efectos administrativos los distritos judiciales establecidos en este artículo, integran 5 circuitos judiciales que a continuación se enuncian:
 
-b) Tulancingo
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-c) Tula
+a) Primer circuito, con cabecera en Pachuca de Soto, comprenderá los distritos judiciales de: Pachuca de Soto, y Tizayuca.
 
-d) Ixmiquilpan
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-e) Huejutla
+b) Segundo circuito, con cabecera en Tulancingo de Bravo, comprenderá los distritos judiciales de: Tulancingo de Bravo, Apan, Atotonilco el Grande y Tenango de Doria.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+c) Tercer circuito, con cabecera en Tula de Allende, comprenderá los distritos judiciales de Tula de Allende, Actopan y Mixquihuala de Juárez.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+d) Cuarto circuito, con cabecera en lxmiquilpan, comprenderá los distritos judiciales de lxmiquilpan, Jacala de Ledezma, Zimapan, y Huichapan; y
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+e) Quinto circuito, con cabecera en Huejutla de Reyes, comprenderá los distritos judiciales de Huejutla de Reyes, Zacualtipan de Ángeles, Meztitlan y Molango de Escamilla.”
 
 Acorde a las necesidades jurisdiccionales y presupuestarias el Pleno del Consejo de la Judicatura determinara la integración de los distritos judiciales a cada uno de los circuitos y podrá establecer juzgados en municipios distintos a los de la cabecera del distrito.
 
@@ -707,23 +729,29 @@ Los juzgados, para el despacho de los asuntos de su competencia, tendrán el per
 
 I. Un Juez o Jueza;
 
-II. El número de secretarios y secretarias de acuerdos que determine el Consejo de la Judicatura, con base en el volumen de asuntos judiciales que se tramiten en cada distrito. Lo anterior salvo lo dispuesto en el artículo 7°, último párrafo de la presente Ley;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+II. El número de Secretarios y Secretarias de Acuerdos que determine el Consejo de la Judicatura, con base en el volumen de asuntos judiciales que se tramiten en cada distrito.
 
 III. El número de Actuarios y Actuarias que determine el Consejo de la Judicatura, a partir del volumen de asuntos judiciales que se lleven en cada distrito judicial, todo ello en los distritos en donde no exista Coordinación de Actuarios; y
 
 IV. El personal administrativo que se requiera, de conformidad con el presupuesto asignado.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 48.
 
-Los juzgados de la materia penal de carácter acusatorio, así como cualquier otro en el que se haya previsto un administrador o administradora de juzgado, se integrarán con los Jueces, Juezas, personal administrativo, Notificadores y Notificadoras, que de acuerdo con las necesidades del servicio, determine el Consejo de la Judicatura.
+Los juzgados de la materia Penal de carácter Acusatorio, así como cualquier otro en el que se haya previsto un Administrador de Juzgado, se integrarán con los Jueces, Juezas, Notificadores, Notificadoras y el personal administrativo, conforme a las necesidades del servicio, que determine el Pleno del Consejo de la Judicatura.
 
 ### CAPÍTULO IX. De los Jueces y Juezas del Fuero Común
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 49.
 
-Los Jueces y Juezas del Fuero Común serán nombrados, ratificados y removidos por el Consejo de la Judicatura.
+Los Jueces y Juezas del Fuero Común serán nombrados por el Pleno del Consejo de la Judicatura.
 
-En el caso de las adscripciones y readscripciones, será previo conocimiento del Pleno de Magistrados.
+En el caso de las adscripciones y readscripciones, será previo conocimiento de los Magistrados y Magistradas de las Salas correspondientes.
 
 ###### ARTÍCULO 50.
 
@@ -827,19 +855,25 @@ Los Jueces y Juezas comprendidos en las fracciones VI, VIII, IX, X, XI y XII act
 
 Los jueces en materia penal que actúen en el Sistema Acusatorio y Oral podrán ejercer indistintamente las funciones de los jueces comprendidos en las fracciones, VI, VII y VIII del presente artículo, acorde a las necesidades jurisdiccionales y presupuestarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 57.
 
-Salvo los asuntos que correspondan a los Jueces o Juezas en materia Civil serán competentes para conocer:
+Los Jueces o Juezas en materia Civil serán competentes para conocer:
 
-I.- De las controversias y procedimientos que se susciten con motivo del cumplimiento y aplicación de las normas contenidas en el Código Civil para el Estado de Hidalgo y, en general, de todo litigio planteado en las vías previstas en el Código de Procedimientos Civiles para el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+I.- De las controversias y procedimientos que se susciten con motivo del cumplimiento y aplicación de las normas contenidas en el Código Civil para el Estado de Hidalgo y en general de todo litigio planteado en las vías previstas en el Código de Procedimientos Civiles para el Estado de Hidalgo; así como de la Ley para la Familia y del Código de Procedimientos Familiares.
 
 II.- En general, de todo proceso, procedimiento o vía que tenga el carácter de civil; y
 
 III.- De los demás asuntos que les encomienden las Leyes y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 58.
 
-Salvo los asuntos que correspondan a los Jueces y Juezas en materia mercantil serán competentes para conocer:
+Los Jueces o Juezas en materia Mercantil serán competentes para conocer:
 
 I.- De los litigios que se susciten con motivo del cumplimiento y aplicación de Leyes Federales cuando las mismas sólo afecten intereses particulares y deriven de actos de comercio o se hallen sujetos a las Leyes Mercantiles, de conformidad con lo previsto en el Artículo 104, fracción I, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -877,23 +911,45 @@ Los Jueces y Juezas Penales de Control tienen las siguientes atribuciones:
 
 I.- Conocer de las etapas de investigación e intermedia;
 
-II.- Dirigir las audiencias preliminares a juicio y resolver los incidentes y las solicitudes que se promueven en ellas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-III.- Resolver sobre la situación jurídica de los imputados;
+II.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven o restrinjan los derechos señalados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, los convenios y Tratados Internacionales vigentes en el País;
 
-IV.- Autorizar los acuerdos para la reparación que alcancen las partes;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-V.- Resolver sobre la suspensión del proceso a prueba;
+III.- Dirigir las audiencias preliminares a juicio y resolver los incidentes y las solicitudes que se promueven en ellas;
 
-VI.- Decidir sobre las medidas cautelares impuestas a los imputados;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-VII.- Procurar la solución del conflicto, a través de medidas alternas, con las limitaciones que establezca la ley;
+IV.- Resolver sobre la situación jurídica de los imputados;
 
-VIII.- Dirigir la audiencia intermedia y dictar el auto de apertura a juicio oral;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-IX.- Dictar sentencia en el procedimiento abreviado; y
+V.- Autorizar los acuerdos para la reparación que alcancen las partes;
 
-X.- Las demás que les otorgue la Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VI.- Resolver sobre la suspensión del proceso a prueba;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VIl.- Decidir sobre las medidas cautelares impuestas a los imputados;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VIII.- Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la Ley;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+IX.- Dirigir la audiencia intermedia y dictar el auto de apertura a juicio oral;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+X.- Dictar sentencia en el procedimiento abreviado, y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XI.- Las demás que les otorgue la Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 63.
 
@@ -976,6 +1032,12 @@ VI.- Visitar los centros especializados de internamiento, por lo menos dos veces
 VII.- Vigilar la legalidad de la ejecución de la detención preventiva y ejercer todas las facultades que sean aplicables; y
 
 VIII.- Las demás atribuciones que esta Ley y otras disposiciones le asignen.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 68 Bis.
+
+Los juzgados Mixtos serán competentes para conocer de todos los asuntos mencionados en los Artículos 57, 58, 59 y 60 de esta Ley.
 
 ###### ARTÍCULO 69.
 
@@ -1073,7 +1135,9 @@ V. Auxiliar al Juez o Jueza en las diligencias y actuaciones que lo requieran;
 
 VI. Redactar de manera clara y con letra legible las constancias y diligencias que realicen;
 
-VII. El Consejo de la Judicatura podrá establecer en determinados distritos una Coordinación de Central de Actuarios en la cual se concentren los actuarios de los juzgados a los que prestará servicio la misma, a fin de que realicen las notificaciones y diligencias que le sean encomendadas actuando siempre con base a las normas procesales aplicables y las resoluciones judiciales conducentes. La organización y funcionamiento de la Central de Actuarios se establecerá en un acuerdo general del Pleno del Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VIl. La organización y funcionamiento de la Coordinación de Actuarios, misma que se establecerá en el Reglamento de la presente Ley, y en los acuerdos que emita el Pleno del Consejo de la Judicatura; y
 
 VIII. Las que establezcan la presente Ley y demás disposiciones aplicables.
 
@@ -1248,6 +1312,16 @@ Las ausencias definitivas de los Magistrados y Magistradas se comunicarán al Go
 ###### ARTÍCULO 92.
 
 El Pleno se integrará con la totalidad de Magistrados y Magistradas del Tribunal.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 92 Bis.
+
+Las resoluciones del Pleno, se aprobarán por unanimidad o mayoría de votos, debiendo ser firmadas por los Magistrados y por el Secretario General.
+
+Cuando un magistrado no estuviere de acuerdo con la mayoría, podrá expresar en forma sucinta las razones de su inconformidad en voto particular, el cual se agregará a la resolución.
+
+Los magistrados, únicamente podrán abstenerse de votar cuando tengan impedimento legal.
 
 ###### ARTÍCULO 93.
 
@@ -1579,21 +1653,27 @@ El Consejo se integrará por cinco Consejeros o Consejeras, de los cuales, uno s
 
 Los integrantes del Consejo deberán reunir los requisitos que establece el artículo 100 Bis de la Constitución Política del Estado de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 117.
 
-El Consejo de la Judicatura funcionará en pleno y en comisiones que serán; Comisión de Administración, Comisión de Disciplina, Comisión de Planeación, Adscripción y Creación de Nuevos Órganos, Comisión de Carrera Judicial y Justicia Alternativa y la Comisión de Investigación y Estudios Jurídicos. El pleno sesionará con la presencia de cinco Consejeros o Consejeras, y bastará la presencia de tres de ellos para que sean válidos sus acuerdos.
+El Consejo de la Judicatura funcionará en pleno y en comisiones. El pleno sesionará con la presencia de cinco Consejeros o Consejeras, y bastará la presencia de tres de ellos para que sean válidos sus Acuerdos.
 
 Las sesiones podrán ser ordinarias o extraordinarias; las primeras, se celebrarán por lo menos cada quince días y las segundas cuando el caso lo amerite.
 
-Las Comisiones serán permanentes o transitorias según lo determine el Pleno del Consejo, debiendo existir en todo caso, la Comisión de Administración, Comisión de Disciplina, Comisión de Planeación, Adscripción y Creación de Nuevos Órganos, Comisión de Carrera Judicial y Justicia Alternativa y la Comisión de Investigación y Estudios Jurídicos y las demás que resulten necesarias para su funcionamiento.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+Las comisiones serán permanentes o transitorias según lo determine el Pleno del Consejo de la Judicatura, debiendo existir en todo caso: la de Administración; de Investigación y Estudios Jurídicos; Planeación, Adscripción y Creación de Nuevos Órganos; Disciplina, Carrera Judicial y las demás que resulten necesarias para su funcionamiento.
 
 Cada Comisión quedará integrada por el número de Consejeros o Consejeras que determine el Pleno, uno de los cuales la presidirá; además, contará con un Secretario o Secretaria Técnico.
 
 Los Consejeros o Consejeras no podrán abstenerse de votar, sino cuando tengan impedimento legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 118.
 
-Además de las funciones previstas en el artículo 100 ter de la Constitución Política del Estado de Hidalgo, el Pleno del Consejo de la Judicatura tendrá las siguientes atribuciones:
+El Pleno del Consejo de la Judicatura tendrá las siguientes atribuciones:
 
 I.- Convocar a los concursos de oposición y procesos de selección que prevea la Ley;
 
@@ -1603,7 +1683,9 @@ III.- Establecer las comisiones que considere pertinentes para su funcionamiento
 
 IV.- Crear los órganos auxiliares y áreas que se estimen pertinentes para el debido desempeño de las funciones del propio Consejo;
 
-V.- Extinguir los órganos jurisdiccionales de primera instancia, así como las demás unidades administrativas que por necesidades del servicio se requieran;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+V.- Extinguir órganos jurisdiccionales, así como de las demás unidades administrativas cuando sea necesario, tomando en cuenta lo dispuesto en el artículo 18 fracción XXIX de esta Ley;
 
 VI.- Ordenar la creación de un órgano auxiliar competente para organizar, coordinar y supervisar las funciones actuariales desarrolladas en los Juzgados, a fin de contribuir a la impartición de justicia en forma expedita y eficiente;
 
@@ -1661,19 +1743,25 @@ VI. Proponer al Pleno del Consejo de la Judicatura, los nombramientos del Secret
 
 VII. Nombrar y remover a los servidores públicos de los Juzgados de Primera Instancia;
 
-VIII. Conceder licencia hasta por quince días, a los Jueces, Juezas y funcionarios de los Juzgados, así como al personal administrativo;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VIII. Conceder licencia hasta por quince días, a los servidores públicos de los Juzgados;
 
 IX. Hacer del conocimiento del Pleno, la falta definitiva de Jueces o Juezas, Consejeros y Consejeras, así como de las licencias, que por más de quince días soliciten, para los efectos correspondientes;
 
 X. Hacer del conocimiento del Congreso del Estado Libre y Soberano de Hidalgo o del Gobernador del Estado, según corresponda, las vacantes de Consejeros o Consejeras, para que hagan el nombramiento que sea de su competencia;
 
-XI. Recibir quejas y denuncias o informes sobre demora, excesos, omisiones o cualesquiera otra irregularidad en que incurran los funcionarios y empleados de los Juzgados de Primera Instancia, en el despacho de los asuntos que les competen, dictando las medidas pertinentes y oportunas para su corrección y cuando así corresponda, dar vista a la Comisión de Disciplina para formular las denuncias respectivas, en caso de la probable comisión de un delito;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XI. Recibir quejas y denuncias o informes sobre demora, excesos, omisiones o cualesquiera otra irregularidad en que incurran los servidores públicos de los Juzgados de Primera Instancia, en el despacho de los asuntos que les competen, dictando las medidas pertinentes y oportunas para su corrección y cuando así corresponda, dar vista a la Comisión de Disciplina para formular las denuncias respectivas; en caso de la probable comisión de un delito;
 
 XII. Presidir la Comisión de Administración del propio Consejo;
 
 XIII. Ordenar visitas de auditoria, supervisión, control y vigilancia a los Juzgados de Primera Instancia;
 
-XIV. Ordenar al Contralor General realizar todas las atribuciones que tiene encomendadas en el artículo 22 de la presente Ley; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XIV. Ordenar al Contralor General realizar todas las atribuciones que tiene encomendadas en el artículo 121 quater; y
 
 XV. Las demás que señale la Ley.
 
@@ -1697,11 +1785,65 @@ VI. Legalizar las firmas de los funcionarios judiciales; y
 
 VII. Las demás que le otorgue la presente Ley y el propio Consejo.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 121.
 
-La Unidad de Información Pública Gubernamental, la Coordinación General de Administración, la Visitaduría, el Instituto de Profesionalización e Investigaciones Jurídicas, la Coordinación de Planeación y Programas, el Centro Estatal de Justicia Alternativa, la Coordinación del Consejo de Familia y la Unidad de Procedimientos de Responsabilidad Administrativa, serán órganos auxiliares del Consejo de la Judicatura, además de aquellos que de acuerdo con sus funciones, sean necesarios.
+La Contraloría General, la Unidad de Información Pública Gubernamental, la Coordinación General de Administración, la Visitaduría, el Instituto de Profesionalización e Investigaciones Jurídicas, la Coordinación de Planeación y Programas, la Unidad de Responsabilidades, serán Órganos Auxiliares del Consejo de la Judicatura, además de aquéllos que de acuerdo con sus funciones, sean necesarios.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS AUXILIARES
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 121 Bis.
+
+La Contraloría General dependerá del Presidente del Consejo de la Judicatura, siendo un órgano auxiliar interno de control administrativo cuyo titular será nombrado o removido por el Presidente del Consejo de la Judicatura y su objeto será fiscalizar y auditar los recursos humanos, financieros y materiales del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 121 Ter.
+
+Para ser Contralor o Contralora General deberá de reunir los siguientes requisitos:
+
+I.- Ser Ciudadano Hidalguense;
+
+II.- Contar con titulo profesional en áreas contables administrativas o afines y con experiencia de cuando menos cuatro años;
+
+III.- Tener como mínimo treinta años de edad;
+
+IV.- No haber sido sentenciado por delito doloso y no encontrarse inhabilitado en términos de lo que señala la Ley de Responsabilidades de los Servidores Públicos para el Estado; y
+
+V.- Ser de reconocida probidad.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 121 Quater.
+
+La Contraloría General tendrá las siguientes atribuciones:
+
+I.- Vigilar el cumplimiento de las disposiciones establecidas en las normas de funcionamiento administrativo o las Leyes que regulen a los órganos del Poder Judicial, así como a los acuerdos generales del Pleno de Magistradas y Magistrados y del Pleno del Consejo de la Judicatura;
+
+II.- Practicar auditorias operacionales, , (sic) contables o administrativas en todas las áreas del Poder Judicial;
+
+III.- Intervenir en el acta entrega recepción cuando ocurran cambios de titulares como son Magistradas, Magistrados, Jueces, Juezas, Directoras o Directores de Área, Subdirectoras, Subdirectores, Encargadas o Encargados de Departamento u homólogos y los servidores públicos que manejen recursos económicos o valores, y cuando así lo ameriten auxiliándose de la visitaduría;
+
+IV.- Recibir y llevar el registro y seguimiento de las declaraciones de situación patrimonial de los servidores públicos del Poder Judicial, en los términos previstos por la Ley de la materia.
+
+V.- Recibir, tramitar y resolver las inconformidades que se presenten, en los procesos de licitación;
+
+VI.- Vigilar el cumplimiento de las resoluciones que emitan los Tribunales del Poder Judicial y el Pleno del Consejo de la Judicatura, respecto de las sanciones que se impongan a Magistrados, Magistradas, Consejeros y Consejeras por parte del Secretario de cada uno de los Plenos.
+
+VIl.- Formar parte de los diversos Comités que se integran en el Poder Judicial;
+
+VIII.- Participar y asesorar en todos los procesos de licitación;
+
+IX.- Inspeccionar y supervisar el cumplimiento de las normas y disposiciones del sistema de contabilidad, adquisiciones, arrendamientos y servicios, enajenaciones, obra pública, desincorporación, conservación, uso y destino de los recursos materiales del Poder Judicial, interviniendo en los procedimientos que corresponda;
+
+X.- Formular las observaciones y recomendaciones que estime pertinente con base en los resultados de las auditorias que practique, dando seguimiento a las mismas, e implementará las medidas preventivas y correctivas consecuentes;
+
+XI.- Establecerá los criterios y técnicas para la estructura y contenido de los manuales administrativos, proporcionándolos a cada área del Poder Judicial y vigilar su debida observación;
+
+Para el debido cumplimiento de sus atribuciones el Contralor General contará con las siguientes unidades administrativas de Auditoría, Calidad e Inconformidades y Procedimientos.
 
 #### Sección Primera. De la Unidad de Información Pública Gubernamental
 
@@ -1763,9 +1905,17 @@ VII. Fomentar que los ingresos propios y de terceros correspondientes al Fondo A
 
 VIII. Proporcionar los recursos necesarios, previo conocimiento y autorización del Consejo de la Judicatura, orientados para hacer más eficientes los servicios que presta el personal del Poder Judicial;
 
-IX. Informar al Consejo de la Judicatura del calendario anual que se tenga para las adquisiciones, servicios y obra pública que se realizarán en (sic) Poder Judicial
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-X. Las demás que le confieran otras disposiciones legales o Acuerdos del Pleno del Tribunal Superior de Justicia y/o del Consejo de la Judicatura.
+IX. Cumplir los Acuerdos del Pleno del Consejo de la Judicatura.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+X. Informar al Consejo de la judicatura del calendario anual que se tenga para las adquisiciones, servicios y obra pública que se realizaran en el Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2015)</small>
+
+XI. Las demás que le confieran otras disposiciones legales o acuerdos del Pleno del Consejo de la Judicatura.
 
 ###### ARTÍCULO 127.
 
@@ -1797,9 +1947,11 @@ IV.- No haber sido sentenciado por delito doloso y no encontrarse inhabilitado e
 
 V.- Ser de reconocida probidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 130.
 
-Teniendo las siguientes atribuciones:
+El Director o Directora del Fondo Auxiliar, tendrá las siguientes atribuciones:
 
 I.- Administrar el Fondo Auxiliar;
 
@@ -1825,13 +1977,13 @@ Recursos Propios
 
 I.- Los recursos provenientes de las multas y sanciones impuestas por los órganos jurisdiccionales;
 
-II.- El monto de las cauciones exhibidas por los interesados o por cuenta de ellos, en la institución de crédito correspondiente, con motivo de resoluciones de los órganos jurisdiccionales; cuando el beneficiario o interesado renuncie a recibirlas u omita recogerlas dentro de los seis meses siguientes a que sea notificado que quedan a su disposición;
+II.- (DEROGADA, P.O. 1 DE MAYO DE 2015)
 
-III.- Las fianzas que por cualquier concepto se otorguen ante autoridades judiciales, cuando se hagan efectivas en los términos de las leyes; cuando el beneficiario o interesado renuncie a recibirlas u omita recogerlas dentro de los seis meses siguientes a que sea notificado que quedan a su disposición;
+III.- (DEROGADA, P.O. 1 DE MAYO DE 2015)
 
-IV.- Las cantidades que habiéndose exhibido para el pago de la reparación de los daños y perjuicios o el producto de la venta en subasta pública de los muebles o valores que se encontraban a disposición de la autoridad judicial, cuando el beneficiario o interesado renuncie a recibirlas u omita recogerlas dentro de los seis meses siguientes a que sea notificado de que quedan a su disposición;
+IV.- (DEROGADA, P.O. 1 DE MAYO DE 2015)
 
-V.- Los ingresos que por cualquier causa jurisdiccional, se hicieren en una institución de crédito o se constituya una hipoteca para surtir efectos en un procedimiento judicial, salvo el reclamo qué pudiera ser parte legítima;
+V.- (DEROGADA, P.O. 1 DE MAYO DE 2015)
 
 VI.- Los frutos que por cualquier título produzcan los recursos que el Fondo Auxiliar tuviere depositados o asignados;
 
@@ -1839,7 +1991,9 @@ VII.- La venta de las bases de licitación que se publiquen por parte del Consej
 
 VIII.- Cualquier otra cantidad de dinero que por resolución judicial, se determine deba destinarse al mejoramiento de la administración de justicia;
 
-IX.- El producto de la renta de cafeterías; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+IX.- El producto de la concesión de cafeterías
 
 X.- El Servicio de Fotocopiado, más las que pudiere determinar el Consejo de la Judicatura.
 
@@ -1855,7 +2009,9 @@ IV.- Los ingresos que por cualquier causa jurisdiccional, se hicieren en una ins
 
 V.- Asimismo se integrarán los recursos, que los trabajadores aporten para la integración de un fondo de ahorro y préstamo para su beneficio propio así como los frutos civiles que generen;
 
-VI.- Administrar los Fideicomisos de Ahorro de Magistrados, Magistradas, Consejeros y Consejeras Jueces y Juezas, que aporten para la integración de éstos, así como los frutos civiles que generen;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VI.- Los Fideicomisos de Ahorro de Magistrados, Magistradas, Consejeros, Consejeras, Jueces y Juezas, que aporten para la integración de éstos, así como los frutos civiles que generen;
 
 VII.- Las cuotas de recuperación o cualquier otro ingreso que se generen por el Instituto de Profesionalización e Investigaciones Jurídicas, serán administradas por este Fondo Auxiliar;
 
@@ -1899,9 +2055,13 @@ V.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones 
 
 VI.- Programar, coordinar y realizar actividades recreativas y de integración familiar para los trabajadores del Poder Judicial;
 
-VII.- Adoptar las providencias necesarias para el eficiente manejo del Poder Judicial; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-Las demás que le confieran las Leyes y Reglamentos, así como los Acuerdos del Pleno del Consejo de la Judicatura.
+VIl.- Adoptar las providencias necesarias para el eficiente manejo de los Recursos Humanos del Poder Judicial; y
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VIII.- Las demás que le confieran las Leyes y Reglamentos, así como los Acuerdos del Pleno del Consejo de la Judicatura.
 
 ###### ARTÍCULO 134.
 
@@ -1923,23 +2083,19 @@ Las demás que le confieran las Leyes y Reglamentos, así como los Acuerdos del 
 
 La Visitaduría Judicial tiene por objeto verificar el debido funcionamiento de los juzgados y áreas de competencia del Consejo de la Judicatura, dependiente de la Comisión de Disciplina, así como supervisar las conductas de los integrantes de éstos, conforme a los lineamientos emitidos por el Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 136.
 
-Para ser visitador o visitadora judicial se requieren:
-
-I. Ser ciudadano hidalguense;
-
-II. Ser licenciado en derecho y con experiencia mínima de cuatro años en el ejercicio de su profesión;
-
-III. Haberse desempeñado en la función jurisdiccional; y
-
-IV. No haber sido sentenciado por delito doloso que merezca pena privativa de libertad mayor de un año o por delito cometido por los servidores públicos.
+Para ser Visitador o Visitadora judicial debe reunir los mismos requisitos que para ser Juez, salvo lo señalado en la fracción VI del artículo 51 de esta ley.
 
 ###### ARTÍCULO 137.
 
 La Visitaduría Judicial estará integrada por los visitadores y visitadoras que requiera el servicio y permita el presupuesto, quienes tendrán las siguientes funciones específicas:
 
-I. Desahogar visitas de inspección a los órganos jurisdiccionales de Primera Instancia y áreas de competencia del Consejo de la Judicatura, para verificar su adecuado funcionamiento, rindiendo informe al propio Consejo del resultado de las mismas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+l. Desahogar visitas de inspección a los órganos jurisdiccionales de Primera Instancia y áreas de competencia del Consejo de la Judicatura, para verificar su adecuado funcionamiento, rindiendo informe al propio Consejo de la Judicatura, así como al Contralor General del resultado de las mismas;
 
 II. Intervenir, en coordinación con la Contraloría General, en los procesos de entrega recepción de las áreas jurisdiccionales, a fin de que se cumpla con la normatividad aplicable; y
 
@@ -1979,9 +2135,11 @@ El Instituto de Profesionalización e Investigaciones Jurídicas es el órgano a
 
 Para la consecución de tales fines funcionará un Comité Académico en términos del reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 141.
 
-El Instituto de Profesionalización e Investigaciones Jurídicas estará a cargo de un Director o Directora, que dependerá de la Comisión de Carrera Judicial y Justicia Alternativay (sic) será nombrado y removido por el Presidente o Presidenta del Consejo de la Judicatura y deberá cumplir con los mismos requisitos que la Ley señala para ser Juez o Jueza.
+El Instituto de Profesionalización e Investigaciones Jurídicas estará a cargo de un Director o Directora, quien será nombrado y removido por el Presidente o Presidenta del Consejo de la Judicatura y deberá de tener como mínimo estudios de Maestría, cumpliendo con los requisitos del artículo 51 con excepción de la fracción IV del mismo numeral.
 
 ###### ARTÍCULO 142.
 
@@ -2061,9 +2219,21 @@ II.- La Unidad de Información Pública Gubernamental, y
 
 III.- El Archivo Judicial de Gestión.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 148.
 
-La Dirección de Modernización y Sistemas es un órgano adscrito a la Comisión de Planeación, Adscripción y Creación de Nuevos Órganos y tiene como objetivo proporcionar el soporte técnico necesario en materia de informática en todo lo referente a las actividades u operaciones correspondientes a la impartición y administración de justicia, susceptibles de ser sistematizadas y automatizadas mediante equipos electrónicos.
+La Dirección de Modernización y Sistemas es un órgano adscrito a la Coordinación General de Planeación y Programas, y su Titular será nombrado y removido por el Pleno del Consejo de la Judicatura, y deberá de cumplir con los siguientes: requisitos:
+
+l. Tener como mínimo de edad de treinta años.
+
+II. Tener Título de Licenciatura o Ingeniería en Informática o carrera afín, y como mínimo cuatro años de experiencia profesional.
+
+III. Ser de reconocida probidad.
+
+IV. No haber sido sentenciado por delito doloso y no encontrarse inhabilitado en términos de la Ley de la materia.
+
+El Director o Directora de Modernización y Sistemas, tiene a su cargo proporcionar el soporte técnico necesario en materia de informática en todo lo referente a las actividades u operaciones correspondientes a la impartición y administración de justicia, susceptibles de ser sistematizadas y automatizadas mediante equipos electrónicos.
 
 ###### ARTÍCULO 149.
 
@@ -2073,35 +2243,49 @@ El Archivo del Poder Judicial en su vertiente de Archivo de Concentración se in
 
 ### CAPITULO ÚNICO. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 150.
 
-Se establece un sistema de justicia alternativa como un procedimiento no jurisdiccional para solucionar conflictos al que pueden acudir voluntariamente las partes involucradas, para buscar a través de los mecanismos alternativos de solución de controversias, una solución acordada por ellas, que ponga fin a su conflicto por medio de técnicas específicas aplicadas por facilitadores especializados.
+Se establece la justicia alternativa como un procedimiento no jurisdiccional para solucionar conflictos al que pueden acudir voluntariamente las partes involucradas, para buscar una solución acordada por ellas, que ponga fin a su controversia por medio de técnicas específicas aplicadas por facilitadores especializados.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 151.
 
-El Centro Estatal de Justicia Alternativa es el órgano vinculado administrativamente al Consejo de la Judicatura del Poder Judicial, con autonomía técnica para conocer y facilitar la solución de controversias que le sean planteadas, mediante procedimientos no jurisdiccionales, en términos de lo que establezca la Ley de la materia. Que dependerá de la Comisión de Carrera Judicial y Justicia Alternativa.
+El Centro Estatal de Justicia Alternativa es el órgano vinculado administrativamente al Consejo de la Judicatura del Poder Judicial, con autonomía técnica para conocer y facilitar la solución de controversias que le sean planteadas, mediante procedimientos no jurisdiccionales, en términos de lo que establezca la Ley de la materia. Residirá en la capital del Estado y tendrá competencia territorial en toda la Entidad.
 
-Residirá en la capital del Estado y podrá establecer sedes regionales en toda la Entidad.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 152.
 
-Son susceptibles de solución, a través del Sistema de Justicia Alternativa, las controversias de naturaleza civil, mercantil y familiar en aquellos asuntos que sean susceptibles de transacción o convenio, en cualquier otra materia siempre y cuando sean derechos disponibles por los interesados. En materia penal, en aquellos establecidos por la Ley.
+Son susceptibles de solución a través del Sistema de Justicia Alternativa, las controversias jurídicas de naturaleza civil, familiar y mercantil en aquellos asuntos que sean susceptibles de transacción o convenio, que no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros.
+
+En materia penal, en los casos previstos por la ley, procede resolver en delitos de querella necesaria y que no sean considerados graves.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2015, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### ARTÍCULO 153.
 
 El Centro Estatal de Justicia Alternativa tendrá las siguientes atribuciones:
 
-I. Desarrollar y administrar los procedimientos que establezca la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-II. Coadyuvar con el Consejo de la Judicatura para el registro, certificación, autorización y supervisión de los facilitadores encargados de conducir los procesos alternativos de justicia;
+I.- Desarrollar y administrar los procedimientos que establezca la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Hidalgo, como métodos alternativos de solución de conflictos, de conformidad con las disposiciones contenidas en ese ordenamiento;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+II.- Coadyuvar con el Instituto de Profesionalización e Investigaciones Jurídicas para la capacitación, registro, certificación, recertificación, autorización y supervisión de los facilitadores encargados de conducir los procesos alternativos de justicia.
 
 III. Crear sedes regionales y unidades de apoyo necesarios para su buen funcionamiento y desempeño, así como coadyuvar con los centros de justicia alternativa y demás facilitadores públicos y privados;
 
-IV. Difundir y divulgar los mecanismos alternativos de solución de controversias;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-V. Intercambiar experiencias sobre el Sistema de Justicia Alternativa, con instituciones afines, que contribuya a fortalecer sus funciones y ampliar sus metas, y que contribuya a fortalecer sus funciones y ampliar sus metas (sic); y
+IV.- Difundir y divulgar los mecanismos alternativos de solución de controversias, intercambiar experiencias sobre el Sistema de Justicia Alternativa, con Instituciones afines, que contribuyan a fortalecer sus funciones y ampliar sus metas, y fortalecerlas; y
 
-Las demás que le confieran los ordenamientos legales.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+V.- Las demás que le confieran los ordenamientos legales.
 
 ## TITULO SÉPTIMO. DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL
 
@@ -2119,23 +2303,17 @@ Los Magistrados, las Magistradas, Consejeros, Consejeras de la Judicatura, Juece
 
 El ingreso y la promoción de los servidores públicos del Poder Judicial, en su caso, se harán mediante los concursos de oposición, los procesos de selección, los exámenes de aptitud y demás medios que al efecto se señalen, siempre, regidos por los principios de independencia, imparcialidad, profesionalismo, excelencia, objetividad, y antigüedad.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 156.
 
 La Carrera Judicial está integrada por las siguientes categorías:
 
-I.- Actuario, Actuaria y/o Notificador o Notificadora de Juzgado;
+l. Actuario, actuaria y/o notificador o notificadora; de Juzgado o Sala;
 
-II.- Actuario, Actuaria y/o Notificador o Notificadora de Sala;
+II. Secretario o Secretaria de acuerdos y/o de amparos y/o de estudio y cuenta;
 
-III.- Secretario o Secretaria de Acuerdos de Juzgado;
-
-IV.- Secretario o Secretaria de Amparos de Sala;
-
-V.- Secretario o Secretaria de Acuerdos de Sala;
-
-VI.- Secretario o Secretaria de Estudio y cuenta; y
-
-VII.- Juez o Jueza.
+III. Juez o Jueza.
 
 ###### ARTÍCULO 157.
 
@@ -2199,165 +2377,161 @@ Los exámenes de aptitud se realizarán a petición del titular del órgano en d
 
 Los Magistrados y Magistradas del Poder Judicial, serán inamovibles en los términos de la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Hidalgo.
 
-Podrán obtener su jubilación al totalizar 60 años sumando su edad a los años en el servicio público.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+Podrán obtener su jubilación al totalizar 60 años sumando su edad a los años en el servicio público; si el Magistrado o Magistrada desea continuar, podrá hacerlo hasta por diez años más.
 
 Para determinar los montos de la jubilación se estará a lo que establece la Constitución Política del Estado, las disposiciones aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 163.
 
-Los Jueces y Juezas durarán en su cargo cuatro años, en que solo podrán ser destituidos en los casos previstos en la Ley, transcurridos los cuales, tendrán derecho a ser ratificados por un periodo igual. Transcurridos los ocho años, adquirirán el carácter de inamovibles. Podrán obtener su jubilación al totalizar 60 años sumando su edad a los años en el servicio público.
+Los Jueces y Juezas durarán en su cargo cuatro años, en que sólo podrán ser destituidos en los casos previstos en la Ley de la materia, transcurridos los cuales, tendrán derecho a ser ratificados por un periodo igual. Transcurridos los ocho años, adquirirán el carácter de inamovibles. Podrán obtener su jubilación al totalizar 60 años sumando su edad a los años en el servicio público, sin embargo, si el Juez o Jueza desea continuar, podrá hacerlo hasta por diez años más, de conformidad con lo dispuesto en el Reglamento de la presente Ley.
 
 ### CAPÍTULO IV. De las Responsabilidades de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 164.
 
-Son Servidores Públicos de la impartición de Justicia los Magistrados, Magistradas, Consejeros, Consejeras, Jueces, Juezas, Secretarios, Secretarias, Actuarios, Actuarias y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, dentro del Poder Judicial.
+Son Servidores Públicos de la impartición de Justicia los Magistrados, Magistradas, Consejeros, Consejeras, Jueces, Juezas, Secretarios, Secretarias, Actuarios, Actuarias, Notificadores, Notificadoras y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, dentro del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 165.
 
-Con la excepción para Magistrados, Magistradas, Consejeros, Consejeras, Jueces y Juezas a que se refiere el Artículo 150 de la Constitución Política del Estado de Hidalgo, los demás Servidores Públicos de la Impartición de Justicia, no tienen fuero.
+Con excepción de los Magistrados, Magistradas, Consejeros, Consejeras, Jueces y Juezas a que se refiere el Artículo 150 de la Constitución Política del Estado de Hidalgo, los demás Servidores Públicos de la impartición de Justicia, no tienen fuero.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 166.
 
-Los Magistrados y Magistradas de los Tribunales que integran el Poder Judicial del Estado de Hidalgo, los Consejeros y Consejeras, de la Judicatura, los Jueces, Juezas y demás Funcionarios Judiciales, sólo podrán ser privados de sus puestos, en la forma y términos que determina la Constitución Política del Estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos de la Entidad.
+Los Magistrados y Magistradas de los Tribunales que integran el Poder Judicial del Estado de Hidalgo, los Consejeros y Consejeras, de la Judicatura, los Jueces, Juezas y demás servidores públicos, sólo podrán ser privados de sus puestos, en la forma y términos que determina la Constitución Política del estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos de la Entidad.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 167.
 
-Los Magistrados, Magistradas, Jueces y Juezas, serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe, se estará a lo dispuesto por el Código Penal.
+Los Magistrados, Magistradas, Jueces y Juezas, serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe, se estará a lo dispuesto en las Leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 168.
 
-Ningún servidor público del Poder Judicial, podrá tener ocupación que tenga relación o influencia sobre la administración de justicia, excepto aquellos que le competen como miembros de la administración de justicia, el ejercicio docente o abogacía en causa propia, en tanto no perjudique las funciones propias de su encargo. (Conforme lo establece el artículo 156 de la Constitución del Estado y la Ley de Responsabilidades)
+Ningún servidor público del Poder Judicial, podrá tener ocupación que tenga relación o influencia sobre la administración de justicia, excepto aquellos que le compete como miembros de la administración de justicia, el ejercicio docente o abogacía en causa propia, en tanto no perjudique las funciones propias de su encargo, conforme lo establece el artículo 156 de la Constitución del Estado y la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 169.
 
-Ningún nombramiento de la administración de justicia recaerá en representantes de culto religioso, ascendientes, descendientes, cónyuge o colaterales hasta el cuarto grado por consanguinidad, o segundo por afinidad, de quien lo haga, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos.
+Ningún nombramiento de la administración de justicia recaerá en representantes de culto religioso, ascendientes, descendientes, cónyuge o colaterales hasta el cuarto grado por consanguinidad, o segundo por afinidad, de quien lo haga, conforme lo establece la ley de responsabilidades de los Servidores públicos para el Estado de Hidalgo.
 
-### CAPÍTULO V. De las Responsabilidades de los Servidores Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MAYO DE 2015)</small>
+
+### CAPÍTULO V. La Unidad de Responsabilidades
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 170.
 
-Los procedimientos de responsabilidad administrativa serán substanciados por la Unidad de Procedimientos de Responsabilidad Administrativa. Los procedimientos de responsabilidad administrativa incoados en contra del titular de la Unidad de Procedimientos de Responsabilidad Administrativa o servidores públicos adscritos a dichos órganos serán substanciados por el visitador judicial que al efecto designe el Pleno del Consejo de la Judicatura.
+La Unidad de Responsabilidades de los servidores públicos, es un órgano auxiliar del Consejo de la Judicatura, que estará a cargo de un Director o Directora, el cual deberá cumplir con los requisitos exigidos en el artículo 121 Ter de esta ley en sus fracciones I, III, IV y V, además de contar con título de Licenciado en Derecho.
 
-La resolución de los procedimientos de responsabilidad administrativa incoados en contra de magistrados serán resueltos por el Pleno del Tribunal que se trate; los que se sigan en contra de jueces de primera instancia, el titular de la Unidad de Procedimientos de Responsabilidad Administrativa o consejeros de la judicatura serán resueltos por el Pleno del Consejo de la Judicatura, y los que se instruyan respecto de los demás servidores públicos del Poder Judicial, serán resueltos por el titular de la Unidad de Procedimientos de Responsabilidad Administrativa.
+Las facultades del Director o Directora de la Unidad de Responsabilidades, serán:
+
+I.- Recibir, tramitar, conocer y resolver según su competencia, de las quejas y denuncias que se presenten en contra de servidores públicos del Poder Judicial conforme a la Ley de Responsabilidades de los Servidores Públicos y el Reglamento de la Ley Orgánica del Poder Judicial;
+
+II.- Sustanciar los procedimientos de investigación y responsabilidades;
+
+III.- Ejecutar las resoluciones que se emitan respecto de las sanciones que se impongan a Jueces, Juezas, y demás servidores públicos que integran el Poder Judicial; y
+
+Las demás que de acuerdo a sus funciones las leyes le confieran.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2015)</small>
+
+De las Faltas Administrativas de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 171.
 
-Serán causas de responsabilidad para los servidores públicos del Poder Judicial del Estado de Hidalgo:
+Serán causas de responsabilidad para los servidores públicos del Poder Judicial, las previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
-I. Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona, del mismo u otro poder;
-
-II. Inmiscuirse indebidamente en cuestiones del orden jurisdiccional;
-
-III. Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
-
-IV. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan;
-
-V. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
-
-VI. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
-
-VII. Dejar de poner en conocimiento de (sic) representante del Poder Judicial, cualquier acto tendiente a vulnerar la independencia de la función judicial;
-
-VIII. Dejar de preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
-
-IX. Abandonar la residencia del Tribunal o Juzgado al que esté adscrito o dejar de desempeñar las funciones o las labores que tenga a su cargo;
-
-X. Solicitar o recibir dádivas, préstamos, obsequios u obtener cualquier clase de percepciones provenientes directa o indirectamente, de alguna de las partes o de sus representantes, en negocio sometido a su conocimiento o en el que hayan de intervenir conforme a la Ley;
-
-XI. Retrasar en forma evidente y sin justificación plenamente probada, las actuaciones propias de su encargo o las tareas que se le asignen expresamente;
-
-XII. Las previstas en el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional, y
-
-XIII. Las demás que determinen las Leyes.
-
-SANCIONES
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 172.
 
-Las sanciones por faltas administrativas de los servidores públicos del Poder Judicial del Estado de Hidalgo consistirán en:
+Serán competentes para resolver sobre las responsabilidades de los servidores públicos del Poder Judicial, previo procedimiento, así como para aplicar las sanciones a que refiere la Ley de la materia:
 
-I. Amonestación;
+l.- El Pleno de cada uno de los Tribunales que integran el Poder Judicial, tratándose de faltas de Magistrados y Magistradas.
 
-II. Suspensión del ejercicio del empleo, cargo o comisión;
+II.- El Pleno del Consejo de la Judicatura, tratándose de faltas de Consejeros y Consejeras.
 
-III. Destitución del empleo, cargo o comisión;
+III.- El Pleno del Consejo de la Judicatura cuando se trate de queja o denuncia en contra del Contralor General, que será iniciada por el Presidente.
 
-IV. Sanción económica;
+IV.- La Unidad de Responsabilidades, cuando se trate de faltas cometidas por los demás servidores públicos del Poder Judicial, con excepción de Magistradas, Magistrados, Consejeras y Consejeros.
 
-V. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+V.- El Pleno del Consejo de la Judicatura cuando se trate del Recurso de Revocación.
+
+VI.- El Pleno del Consejo de la Judicatura cuando se trate de queja o denuncia en contra del titular de la Unidad de Responsabilidades, cuyo Presidente está facultado para iniciarla.
+
+Las resoluciones que emitan los Plenos de cada uno de los Tribunales del Poder Judicial y del Pleno del Consejo de la Judicatura, son inatacables.
+
+SANCIONES
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 173.
 
-Las faltas serán valoradas y en su caso sancionadas, en lo aplicable, de conformidad con lo que señala la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Las sanciones por faltas administrativas serán impuestas en términos de la Ley de Responsabilidades de los Servidores Públicos y consistirán en:
+
+I.- Amonestación;
+
+II.- Suspensión del ejercicio del empleo;
+
+III.- Destitución del cargo;
+
+IV.- Sanción económica;
+
+V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 174.
 
-Para la imposición de sanciones administrativas, se seguirá el procedimiento previsto en esta ley.
+Las faltas serán valoradas y en su caso sancionadas, de conformidad con lo que señala la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 175.
 
-El procedimiento de responsabilidad administrativa podrá iniciarse por queja o denuncia presentada por cualquier persona.
+Tratándose de servidores públicos, para la imposición de sanciones administrativas, se estará a lo previsto en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
-Toda persona o servidor público que tenga conocimiento de algún acto u omisión imputable a un servidor público del Poder Judicial del Estado de Hidalgo, que pudiera constituir causa de responsabilidad administrativa está obligado a denunciarlo ante el Titular (sic) Unidad de Procedimientos de Responsabilidad Administrativa.
-
-Las quejas o denuncias se presentaran mediante escrito ante la Unidad de Procedimientos de Responsabilidad Administrativa, o por comparecencia ante la misma. El escrito o comparecencia de queja o denuncia también podrá ser recibido por un visitador judicial en el curso de una visita ordinaria de inspección, quien la remitirá a la Unidad para que se dé el curso legal correspondiente.
-
-Las quejas que se formulen deberán presentarse acompañadas de los documentos que se tengan sobre el tenor y de la mención de las pruebas que pudieran servir para resolver sobre los hechos que serían la causa de responsabilidad y los que hacen presumir la responsabilidad del servidor público en cuestión.
-
-Las denuncias formuladas deben ser presentadas bajo protesta de decir verdad, amén de que puedan exhibirse o indicarse los medios de prueba que las sostengan. Las denuncias presentadas por un servidor público del Poder Judicial del Estado de Hidalgo deberán ser formuladas junto con todas las diligencias, actuaciones, documentos y actas relativas al caso que tenga en su poder y mencionar las pruebas que pudieran servir para resolver la cuestión.
-
-Si el escrito de queja o denuncia es obscuro o irregular, se deberá prevenir al promovente por una sola vez, para que en el plazo de tres días hábiles lo aclare o corrija, señalándole en forma concreta las irregularidades.
-
-Cuando el órgano competente advierta que existen elementos para iniciar un procedimiento de responsabilidad administrativa, dictará un proveído en el que admitirá la queja o denuncia y ordenará la formación del expediente respectivo, indicando con claridad si se trata de una queja o denuncia o si se actúa de oficio.
-
-En cualquier etapa de la investigación o procedimiento de responsabilidad administrativa, el Titular de la Unidad de Procedimientos de Responsabilidad Administrativa podrá dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
-
-Del mismo modo, durante la investigación o el procedimiento de responsabilidad administrativa, la autoridad que conozca de ellos podrá determinar como medida cautelar la suspensión temporal del servidor público en su cargo, empleo o comisión, en cuyo caso estará imposibilitado para ocupar un cargo, empleo o comisión diverso en el Poder Judicial del Estado de Hidalgo hasta en tanto se resuelva lo conducente. En este caso se atenderá a las siguientes bases:
-
-I. La suspensión temporal surtirá efectos desde el momento de su notificación;
-
-II. Se suspenderá de manera total el pago de remuneraciones y prestaciones al servidor público, con excepción de los pagos que se deban hacer por concepto de seguridad social.
-
-III. Cuando se determine imponer al servidor público suspendido sanción definitiva de suspensión, destitución o inhabilitación, no se le pagarán las percepciones económicas retenidas que dejaron de cubrírsele;
-
-IV. En caso de que en la resolución se determine la improcedencia de la queja o denuncia, o éstas resulten infundadas, se reintegrará al servidor público el total de las percepciones económicas que dejó de percibir a la fecha en que fue decretada la suspensión temporal, considerando los incrementos autorizados, y
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 176.
 
-En los procedimientos de responsabilidad administrativa se ordenará emplazar al servidor público enviándole copia del proveído donde se ordena el inicio del procedimiento, el dictamen, la queja o la denuncia y anexos correspondientes, y, en su caso, del resultado de la investigación, para que en un plazo de 10 días hábiles formule un informe sobre los hechos que se le atribuyen y ofrezca las pruebas que tenga sobre la cuestión.
+Las resoluciones emitidas por la Unidad de Responsabilidades que impongan sanciones administrativas señaladas en la Ley de la materia, podrán ser impugnadas por el servidor público mediante el recurso de revocación, ante el Pleno del Consejo de la Judicatura, observando los términos y formalidades que para tal efecto mencione dicha Ley.
 
-El Titular de la Unidad de Procedimientos de Responsabilidad Administrativa hará el emplazamiento mediante notificación personal. El plazo de 10 días hábiles para rendir el informe comienza a correr a partir del día siguiente en que surta efectos el emplazamiento.
-
-El plazo para rendir el informe se podrá ampliar mediante solicitud justificada.
-
-El procedimiento de responsabilidad administrativa se suspenderá, de oficio o a petición de los que en él intervengan, cuando el órgano competente se encuentra impedido para tramitar el procedimiento por caso fortuito o fuerza mayor; el probable responsable se encuentra impedido para ejercer su derecho de defensa, siempre y cuando aquél no haya generado ese estado de indefensión para evadir la responsabilidad administrativa; la autoridad competente considere que no es posible pronunciarse sobre el asunto sino hasta que se emita una resolución en otro procedimiento, o en cualquier otro caso previsto en las disposiciones aplicables.
-
-Transcurrido el plazo para que el probable responsable rinda su informe, el Titular de la Unidad de Procedimientos de Responsabilidad Administrativa, resolverá sobre la admisión de las pruebas que haya propuesto el servidor público sometido a procedimiento y las que se hayan aludido en la queja, la denuncia o el dictamen.
-
-En esa misma resolución, el Titular de la Unidad, concederá un plazo para el desahogo de las pruebas admitidas, el cual no será mayor a 20 días hábiles.
-
-Una vez desahogadas las pruebas admitidas, se concederá al probable responsable, el plazo de cinco días hábiles para que formulen alegatos por escrito.
-
-En todo lo no previsto por esta Ley en relación con el Procedimiento Administrativo Disciplinario, se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 177.
 
-Concluido el término para presentar alegatos, se emitirá la resolución definitiva dentro de los quince días hábiles siguientes.
+Las quejas y denuncias interpuestas en contra de Magistrados o Magistradas, Consejeros o Consejeras del Poder Judicial serán recepcionadas por la Unidad de Responsabilidades, quien las deberá de integrar y turnar a cada uno de los Plenos para su resolución y será el Secretario o Secretaria de cada Pleno el facultado para ejecutarlas.
+
+De las quejas y denuncias que reciba la Unidad de Responsabilidades en contra de los demás servidores públicos, iniciará el procedimiento de investigación en el que en caso de advertir que existen elementos para iniciar un procedimiento de responsabilidad administrativa, dictará el acuerdo correspondiente en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo, lo anterior sin perjuicio de que en caso de que de la queja o denuncia se adviertan elementos para el inicio de procedimientos de responsabilidad, así se determinara.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 178.
 
-En los procedimientos de responsabilidad administrativa, no son objeto de recurso alguno las resoluciones dictadas por el Pleno del Consejo de la Judicatura o el Pleno de alguno de los Tribunales del Poder Judicial.
+Para el efecto de los términos y prescripción en la imposición de sanciones, se estará a lo señalado en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
-Tampoco son objeto de recurso alguno las resoluciones de la Unidad de Procedimientos de Responsabilidad Administrativa distintas a la definitiva, la que desecha una queja o denuncia, la que por cualquier causa se da por concluido un procedimiento de responsabilidad administrativa sin resolverse en definitiva y la dictada en ejecución.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-###### ARTICULO 179.
+###### ARTÍCULO 179.
 
-Procede el recurso de revisión administrativa respecto de la resolución definitiva que dicte el Titular de la Unidad de Procedimientos de Responsabilidad Administrativa y también respecto de la que dicte en el sentido de no admitir una queja o denuncia o aquella que por cualquier causa se da por concluido un procedimiento de responsabilidad administrativa sin resolverse en definitiva.
-
-Pueden hacer valer el recurso de revisión administrativa el servidor público sujeto al procedimiento. Al efecto, se interpondrá ante la Unidad de Procedimientos de Responsabilidad Administrativa, por escrito y dentro de los cinco días hábiles siguientes contados a partir de la notificación de la resolución que se impugna, en el que se deberá expresar los agravios que la resolución le cause.
-
-Admitido el recurso, la Unidad de Procedimientos de Responsabilidad Administrativa, decretará la suspensión de la ejecución de la resolución impugnada y dará vista, según sea el caso, al servidor público sujeto al procedimiento para que dentro de los tres días hábiles siguientes, manifieste lo que a su derecho convenga. Transcurrido dicho plazo, se remitirán los autos al Pleno del Consejo de la Judicatura por conducto del secretario ejecutivo del mismo. La resolución del recurso de revisión administrativa se dictará en un plazo no mayor a 15 días hábiles, la cual no admitirá recurso alguno.
+Para los supuestos en materia de responsabilidades de los servidores públicos y no contemplados en esta Ley Orgánica, se estará a lo que dispone la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
 ###### ARTICULO 180.
 
@@ -2383,9 +2557,11 @@ El Presidente o Presidenta del Consejo de la Judicatura establecerá de acuerdo 
 
 Son días hábiles todos los días del año, con excepción de los sábados y domingos, así como aquellos que la Ley de los Trabajadores al Servicio del Estado, Municipios y Órganos descentralizados del Estado de Hidalgo y las Leyes Federales expresamente lo señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 184.
 
-Es facultad del Presidente o Presidenta del Consejo de la Judicatura, proponer los periodos vacacionales de los servidores públicos del Poder Judicial.
+Es facultad del Presidente o Presidenta del Consejo de la Judicatura, suspender las labores de las áreas del Poder Judicial, cuando así lo amerite el caso.
 
 La suspensión de las labores en estos casos, interrumpe los términos legales, salvo los casos de término constitucional en materia penal.
 
@@ -2393,9 +2569,11 @@ La suspensión de las labores en estos casos, interrumpe los términos legales, 
 
 Los servidores públicos del Poder Judicial podrán separarse de sus funciones por causa justificada, hasta por tres meses, calificada y sancionada por el Pleno del Consejo de la Judicatura, con excepción de las previstas para Magistrados y Magistradas.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 186.
 
-El representante de cada Tribunal podrá conceder licencia por un período no mayor de 15 días a los funcionarios y empleados del mismo.
+El Presidente de cada Tribunal podrá conceder licencia por un período no mayor de 15 días a los servidores públicos del mismo.
 
 ###### ARTÍCULO 187.
 
@@ -2430,3 +2608,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 71 FRACCIÓN I DE LA CONSTI
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE MAYO DE 2015.
+
+PRIMERO.- La presente reforma a la Ley Orgánica del Poder Judicial del Estado de Hidalgo, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La substanciación de los procedimientos de queja o denuncia que estén en trámite al entrar en vigor este decreto que reforma, adiciona y deroga diversas fracciones y artículos de la ley, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial aplicable al momento de la interposición de la queja o denuncia, hasta pronunciarse resolución definitiva, procedimiento que se continuará ante la Unidad de Responsabilidades.
