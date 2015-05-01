@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2013-04-29"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -85,7 +85,7 @@ IV.- El Tribunal Fiscal Administrativo del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-V.- La Secretaría del Trabajo y Previsión Social, en los términos de la Legislación respectiva; y (sic)
+V.- La Secretaría del Trabajo y Previsión Social, en los términos de la Legislación respectiva; y
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
 
@@ -383,9 +383,13 @@ La Comisión y la Cámara podrán disponer las medidas de apercibimiento que fue
 
 Las declaraciones o resoluciones aprobadas por la Cámara o el Tribunal Superior de Justicia con arreglo a esta Ley, se comunicarán al poder a que pertenezca el acuerdo, salvo que fuere el mismo que hubiese dictado la declaración o resolución y en todo caso al Ejecutivo para su conocimiento y efectos legales, y para su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 45.
 
-En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código de Procedimientos Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
+En todas las cuestiones relativas a los procedimientos previstos en el Título Segundo de esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código Nacional de Procedimientos Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
+
+En lo relativo a los procedimientos regulados en el Título Tercero de este ordenamiento, se atenderán, en lo no previsto así como en la apreciación de pruebas, las disposiciones del Código de Procedimientos Civiles.
 
 ## TITULO TERCERO. RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -591,7 +595,9 @@ IV.- La Secretaría de Contraloría y Transparencia Gubernamental promoverá los
 
 V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda según las Leyes aplicables;
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a mil veces el salario mínimo diario vigente en el Estado, y por la Secretaría de Contraloría y Transparencia Gubernamental cuando sean superiores a esta cantidad; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VI.- Las sanciones económicas serán impuestas por la Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente y ejecutadas por la instancia que corresponda.
 
 VII.- Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicación de las sanciones a que se refiere el Artículo 53 de esta Ley, corresponde al Congreso del Estado y respecto de los demás servidores Públicos Municipales las sanciones corresponde aplicarlas y ejecutarlas a los Ayuntamientos por conducto de los Presidentes Municipales.
 
@@ -623,11 +629,17 @@ ARTICULO 59 BIS.- Si la Secretaría de Contraloría y Transparencia Gubernamenta
 
 ARTICULO 59 TER.- La contraloría interna de cada dependencia o entidad será competente para imponer sanciones disciplinarias.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 60.
 
-Los encargados internos de cada dependencia serán competentes para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a mil veces el salario mínimo diario del Estado, las que están reservadas exclusivamente a la Secretaría de Contraloría y Transparencia Gubernamental, que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En este último caso, el encargado interno, previo informe al superior jerárquico, turnará el asunto a la Secretaría.
+Para el cumplimiento de sus atribuciones, la Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente, llevará a cabo investigaciones, revisiones de control o auditorías respecto de las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, para lo cual todo servidor público deberá proporcionar la información y documentación que le sea requerida.
+
+La Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente podrá comprobar el cumplimiento de las obligaciones de los servidores públicos a través de actividades específicas de verificación, en las que participen, en su caso, los particulares que reúnan los requisitos que la autoridad establezca. Asimismo, en las investigaciones, auditorías y revisiones de control que se practiquen a los servidores públicos en el ejercicio de sus atribuciones, se podrán realizar acciones de usuario simulado. La Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente designará por escrito a las personas que realizarán estas acciones.
+
+Se entiende por usuario simulado, la investigación para evaluar la actuación de los servidores públicos, que permita conocer la calidad con que ofrecen los servicios y trámites, con el objeto de identificar y detectar posibles actos de corrupción, hechos y conductas violatorias a las disposiciones de esta Ley, mediante la participación legalmente autorizada de las personas que actúen con una identidad supuesta.
+
+Los medios de prueba que se recaben a través de la técnica de investigación de usuario simulado harán prueba plena.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -635,11 +647,11 @@ Los encargados internos de cada dependencia serán competentes para imponer sanc
 
 Si el encargado interno de la dependencia o la Asamblea Municipal tuvieran conocimiento de hechos que impliquen responsabilidad penal, formularán conjuntamente con las áreas jurídicas la denuncia y/o querella correspondiente ante la autoridad competente para conocer del ilícito y dará vista de ello a la Secretaría de Contraloría y Transparencia Gubernamental.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 62.
 
-Si de las investigaciones y auditorías que realice la Secretaría de Contraloría y Transparencia Gubernamental, apareciera la responsabilidad de los servidores públicos, informará al encargado interno de la dependencia o a la asamblea municipal correspondiente, para que procedan a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento solo compete a la Secretaría de Contraloría y Transparencia Gubernamental, esta se abocará directamente al asunto, informando de ello al titular de la dependencia y al encargado interno de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+En el ámbito del Poder Ejecutivo y sólo derivado de la naturaleza de los hechos denunciados o de la gravedad de las presuntas responsabilidades, si la Secretaría de Contraloría y Transparencia Gubernamental estima que debe instruir el procedimiento disciplinario, requerirá al contralor interno de las dependencias, entidades o la Procuraduría General de Justicia, el envío del expediente respectivo e impondrá en su caso y por conducto de su Unidad Administrativa competente, las sanciones administrativas a que haya lugar.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -813,7 +825,9 @@ En todos los casos la prescripción a que alude este precepto se interrumpirá a
 
 La Secretaría de Contraloría y Transparencia Gubernamental llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, de conformidad con esta Ley y demás disposiciones aplicables.
 
-Para los efectos de los Poderes Judicial y Legislativo, Organismos Autónomos y Municipios, se regirán conforme a la legislación respectiva y determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+Los Poderes Judicial y Legislativo, Organismos Públicos Autónomos y Municipios, se regirán conforme a la legislación respectiva y determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -829,87 +843,97 @@ Los Servidores públicos a que se refiere esta fracción, presentarán su declar
 
 En la Auditoria Superior del Estado: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de Auditor Superior del Estado;
 
-II.- En el Poder Ejecutivo: Todos los servidores Públicos desde el nivel de jefe de departamento u homólogo hasta el Gobernador del Estado, así como la policía investigadora.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-En la Procuraduría General de Justicia del Estado: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el Procurador General de Justicia incluyendo Agentes del Ministerio Público y Peritos.
+II.- En el Poder Ejecutivo: Todos los servidores públicos desde el nivel de Encargado de Departamento u homólogo hasta el Gobernador del Estado, así como la policía investigadora.
 
-En la Secretaría de Contraloría y Transparencia Gubernamental: Todos los Servidores Públicos que laboren en ella y que deberán ser necesariamente de confianza;
+En la Procuraduría General de Justicia del Estado: Todos los servidores públicos, desde el nivel de Encargado de Departamento u homólogo hasta el Procurador General de Justicia incluyendo Agentes del Ministerio Público y Peritos.
 
-III.- En la Administración Pública Paraestatal: Directores Generales, Rectores, Subdirectores, Jefes de Departamento u homólogos, o equivalente al de los servidores públicos obligados a declarar en el Poder Ejecutivo;
+En la Secretaría de Contraloría y Transparencia Gubernamental: Todos los Servidores Públicos de confianza que laboren en ella;
 
-IV.- En el Poder Judicial del Estado: Magistrados, Consejeros, Jueces, Secretarios Judiciales y Actuarios de cualquier categoría o designación;
+En la Administración Pública Paraestatal: Los Directores Generales, Rectores, Directores, Subdirectores, Encargados de Departamento u homólogos, o equivalente al de los servidores públicos obligados a declarar en las Dependencias;
 
-V.- En el Instituto Estatal Electoral, en la Comisión Estatal de los Derechos Humanos y en el Instituto de Acceso a la Información Pública Gubernamental del Estado de Hidalgo: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta los titulares de dichos Organismos Autónomos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-VI.- Todos los servidores públicos que manejen o apliquen recursos económicos, valores y fondos del Estado; realicen actividades de inspección o vigilancia; lleven a cabo funciones de calificación o determinación para la expedición de licencias, permisos o concesiones, y quienes intervengan en la adjudicación de contratos.
+III.- En el Poder Judicial del Estado: Magistrados, Consejeros, Secretario General, Jueces, Secretarios Judiciales y Actuarios de cualquier categoría o designación;
 
-Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen el Secretario de Contraloría y Transparencia Gubernamental y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+IV.- En el Tribunal Electoral: Magistrados, Secretario General, Secretarios y Actuarios;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+V.- En el Instituto Estatal Electoral, en la Comisión Estatal de Derechos Humanos y en el Instituto de Acceso a la Información Pública Gubernamental del Estado de Hidalgo: Todos los servidores públicos, desde el nivel de encargado de departamento u homólogo hasta los titulares de dichos Organismo (sic) Autónomos;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
+
+VI.- Todos los servidores públicos que manejen, apliquen o vigilen el ejercicio de recursos económicos, valores y fondos del Estado; lleven a cabo funciones de calificación o determinación para la expedición de licencias, permisos o concesiones, y quienes intervengan en la adjudicación de contratos.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen el Secretario de Contraloría y Transparencia Gubernamental o el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 81.
 
 La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
 
-I.- Dentro de los sesenta días hábiles siguientes a la toma de posesión;
+I.- Dentro de los sesenta días hábiles siguientes a la fecha del nombramiento, de la toma de posesión o del alta administrativa, que dé lugar a la ocupación del empleo, cargo o comisión, según sea el caso; plazo que comenzará a correr a partir del día hábil siguiente a la fecha del acto que en primer lugar se materialice;
 
-II.- Dentro de los treinta días hábiles siguientes a la conclusión del encargo; y
+II.- Dentro de los sesenta días hábiles siguientes a la conclusión del empleo, cargo o comisión; y
 
-III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas, para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
+III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+La Secretaría de Contraloría y Transparencia Gubernamental y demás autoridades competentes, podrán solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a formularla o, en su caso, de la constancia de percepciones y retenciones que les hubieren emitido las dependencias o entidades, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
 
-La Secretaría de Contraloría y Transparencia Gubernamental y demás órganos internos de control competentes, podrán solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a formularla o, en su caso, de la constancia de percepciones y descuentos que les hubieren emitido las dependencias o entidades, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
+Si transcurrido el plazo a que hace referencia la fracción I de este artículo, no se hubiese presentado la declaración patrimonial sin causa justificada, la Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente, sin necesidad de incoar el procedimiento disciplinario, impondrá como medida cautelar al infractor, una suspensión de su empleo, cargo o comisión por un período de quince a treinta días naturales sin goce de sueldo, plazo dentro del cual se deberá presentar la declaración omitida. En caso de que la omisión en la declaración continúe, la Secretaría de Contraloría y Transparencia Gubernamental o autoridad competente, dará inicio al procedimiento a que hace referencia el artículo 64 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2009)</small>
+Lo mismo ocurrirá cuando se omita la declaración a que alude la fracción III.
 
-ARTICULO 81 BIS.- Las Autoridades competentes para recepcionar declaraciones de Situación Patrimonial en términos de esta Ley y demás disposiciones legales vinculadas con la misma, bajo su mas estricta responsabilidad, podrán ampliar o modificar los plazos contenidos en el Artículo anterior cuando en el territorio del Estado sobrevengan circunstancias sociales, políticas, económicas, ambientales, de protección civil o de salud que conllevan a la necesaria implementación de acciones determinantes que afecten el cumplimiento oportuno de esa obligación dentro del lapso de tiempo que los mismos establecen.
+Para el caso de omisión, sin causa justificada, en la presentación de la declaración de conclusión, se impondrá al infractor una sanción económica de cincuenta a doscientos días de salario mínimo vigente en el Estado.
 
-En el caso de los Municipios del Estado, asumirán la facultad que previene este numeral, quienes en términos de la Ley Orgánica Municipal sean la Autoridad competente para la recepción de las declaraciones de situación patrimonial, en ese orden de Gobierno.
+El servidor público que en su declaración de situación patrimonial deliberadamente faltare a la verdad en relación con lo que es obligatorio manifestar en términos de la Ley, previa sustanciación del procedimiento a que se refiere el artículo 64, será suspendido sin goce de sueldo de su empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, o cuando por su gravedad lo amerite, podrá ser destituido e inhabilitado en términos de lo establecido en los artículos 53 y 54 de esta Ley, sin perjuicio de que la Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente, formule la denuncia correspondiente ante el Ministerio Público.
+
+En la imposición de las sanciones a que se refiere este artículo deberá sustanciarse el procedimiento administrativo previsto en el artículo 64 de la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+
+ARTICULO 81 BIS.- Las autoridades competentes para recibir declaraciones de situación patrimonial en términos de esta Ley y demás disposiciones legales vinculadas con la misma, bajo su más estricta responsabilidad, podrán ampliar o modificar los plazos contenidos en el artículo anterior cuando en el territorio del Estado sobrevengan causas de fuerza mayor o de caso fortuito que conlleven a la necesaria implementación de acciones determinantes que afecten el cumplimiento oportuno de esa obligación dentro del lapso que los mismos establecen.
+
+En el caso de los Municipios del Estado, asumirán la facultad que previene este numeral, quienes en términos de la Ley Orgánica Municipal sean la autoridad competente para recibir las declaraciones de situación patrimonial, en ese orden de gobierno.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 82.
 
-La Secretaría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Secretaría de Contraloría y Transparencia Gubernamental y demás autoridades competentes expedirán las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+ARTICULO 82 BIS.- (DEROGADO, P.O. 1 DE MAYO DE 2015)
 
-ARTICULO 82 BIS.- Si transcurrido el plazo a que hace referencia la fracción I del artículo 81 no se hubiese presentado la declaración correspondiente, sin causa justificada, se procederá de la siguiente manera:
-
-I.- Se suspenderá al infractor de su empleo, cargo o comisión por un período de quince días naturales;
-
-II.- En caso de que la omisión en la declaración continúe por un período de treinta días naturales siguientes a la fecha en que hubiere sido suspendido el servidor público, la Secretaría de Contraloría y Transparencia Gubernamental o los Órganos Internos de Control competentes declararán que el nombramiento o contrato ha quedado sin efectos, debiendo notificar lo anterior al titular de la dependencia o entidad correspondiente para los fines procedentes. Lo mismo ocurrirá cuando se omita la declaración a que alude la fracción III;
-
-III.- El incumplimiento a lo previsto en el párrafo anterior, por parte del titular de la dependencia o entidad, será causa de responsabilidad administrativa en los términos de Ley;
-
-IV.- Para el caso de omisión, sin causa justificada, en la presentación de la declaración a que se refiere la fracción II del Artículo que antecede, se inhabilitará al infractor por un año;
-
-V.- En la imposición de las sanciones a que se refiere este Artículo deberá sustanciarse el procedimiento administrativo previsto en el Artículo 64 de la Ley; y
-
-VI.- El servidor público que en su declaración de situación patrimonial deliberadamente faltare a la verdad en relación con lo que es obligatorio manifestar en términos de la Ley, previa sustanciación del procedimiento a que se refiere el Artículo 64, será suspendido de su empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, y cuando por su importancia lo amerite, destituido e inhabilitado de uno a cinco años, sin perjuicio de que la Secretaría de Contraloría y Transparencia Gubernamental o el Órgano Interno de Control competente, formule la denuncia correspondiente ante el Ministerio Público para los efectos legales procedentes.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 83.
 
-En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
+En las declaraciones de situación patrimonial, inicial y de conclusión, se manifestarán los bienes muebles e inmuebles, con la fecha y valor de adquisición, y demás datos que señale el formato correspondiente.
 
 En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Tratándose de bienes muebles, la Secretaría de Contraloría y Transparencia Gubernamental y demás Órganos Internos de Control decidirán, mediante acuerdo general, las características que deba tener la declaración.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 84.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Secretaría de Contraloría y Transparencia Gubernamental y demás Órganos Internos de Control competentes, podrán ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, deberán hacerse las solicitudes correspondientes.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Secretaría de Contraloría y Transparencia Gubernamental y demás autoridades competentes, podrán ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, deberán hacerse las solicitudes correspondientes.
 
-Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que expongan lo que en derecho le convenga.
+En el acto de la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que en derecho le convenga.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 85.
 
-El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante el Órgano Interno de Control competente contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquellas, en el que se expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso
+Todas las actas que se levanten con motivo de la visita de inspección o auditoría deberán ser firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
 
-Todas las actas que se levanten con motivo de la visita deberán ser firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin qué estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
+El servidor público a quien se practique inspección o auditoría podrá interponer inconformidad ante el Órgano Interno de Control competente contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquellas, en el que se expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días hábiles siguientes a la presentación del recurso.
 
 ###### ARTICULO 86.
 
@@ -1028,3 +1052,11 @@ P.O. 29 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de Los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
+
+P.O. 1 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se contrapongan a las contenidas en el presente Decreto.
+
+TERCERO. Las investigaciones y los procedimientos administrativos disciplinarios que se inicien por hechos anteriores a la entrada en vigor del presente Decreto, se motivarán en las disposiciones sustantivas vigentes al momento de la comisión del acto u omisión que constituya inobservancia a obligaciones de los servidores públicos; sin embargo, la tramitación de tales procedimientos se realizará de conformidad con las normas procesales vigentes contenidas en el presente decreto.
