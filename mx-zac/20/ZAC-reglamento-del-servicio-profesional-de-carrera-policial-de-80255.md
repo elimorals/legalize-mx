@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-del-servicio-profesional-de-carrera-policial-de-8025
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-12"
-last_updated: "2011-02-12"
+last_updated: "2015-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LAS CORPORACIONES DE SEGURIDAD PUBLICA DEL ESTADO Y SUS MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO QUINTO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 12 de febrero de 2011.
 
@@ -119,7 +121,7 @@ Los presidentes municipales y directivos de las Corporaciones de carácter estat
 
 ###### Artículo 7.
 
-Los aspirantes e integrantes de las Corporaciones, deberán tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Evaluación y Control Confianza (sic).
+Los aspirantes e integrantes de las Corporaciones, deberán tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Evaluación y Control (sic) Confianza.
 
 ###### Artículo 8.
 
@@ -1125,7 +1127,7 @@ En ningún caso el integrante de alguna Corporación podrá ostentar una categor
 
 ###### Artículo 91.
 
-La aceptación del nombramiento por parte del Policía, le otorga los derechos y le impone las obligaciones y prohibiciones, establecidas en Constitución (sic) Política de los Estados Unidos Mexicanos, la del Estado y las disposiciones que de ellas emanen.
+La aceptación del nombramiento por parte del Policía, le otorga los derechos y le impone las obligaciones y prohibiciones, establecidas en (sic) Constitución Política de los Estados Unidos Mexicanos, la del Estado y las disposiciones que de ellas emanen.
 
 ###### Artículo 92.
 
@@ -1766,3 +1768,19 @@ ESAÚ HERNÁNDEZ HERRERA
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 GRAL. JESÚS PINTO ORTIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MAYO DE 2015.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Todos los ingresos y promociones que se realicen a partir de su vigencia, deberán ser acordes a los requisitos y perfiles que definen el presente Reglamento y los procedimientos señalados.
+
+Tercero. Para efectos del personal en activo se dispondrá un periodo de migración que no excederá de seis meses para que los elementos de la institución policial cubran los criterios de las evaluaciones de control de confianza, la equivalencia a la formación inicial y el perfil de puesto con relación a la renivelación académica.
+
+Una vez cumplido el plazo, los elementos que no cubran con alguno de éstos criterios quedarán fuera de la institución policial.
+
+Cuarto. Los manuales, procedimientos, perfiles de grado y lineamientos, deberán ser emitidos ciento veinte días posteriores a la publicación del presente Reglamento.
+
+Quinto. Se abroga el Reglamento del Servicio Profesional de Carrera Policial de las Corporaciones de Seguridad Pública del Estado y sus Municipios, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 12 de febrero del año 2011.
