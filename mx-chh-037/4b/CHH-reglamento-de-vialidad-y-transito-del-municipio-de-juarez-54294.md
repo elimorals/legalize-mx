@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-vialidad-y-transito-del-municipio-de-juarez-54294
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-03"
-last_updated: "2011-07-16"
+last_updated: "2015-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 ---
 # REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, CHIHUAHUA
 
-REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
+REGLAMENTO DE VIALIDAD Y TRÁNSITO DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE VIALIDAD Y TRANSITO PARA EL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de febrero de 2007.
 
@@ -1957,7 +1959,7 @@ V. Una vez proporcionados los documentos, se procederá a infraccionar al conduc
 
 VI. Como garantía de que el infractor se presentará a pagar el importe de la multa impuesta, se procederá a recoger alguno de los documentos proporcionados, en el orden que a continuación se menciona: licencia de conducir, tarjeta de circulación o una placa. Independientemente de la garantía otorgada por el infractor, el vehículo responderá preferentemente por los créditos fiscales que se generen con motivo de las multas impuestas que hayan quedado firmes;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE MARZO DE 2011)</small>
 
 VII. Finalmente, el agente que conozca del asunto, notificará al presunto infractor por medio de boleta que deberá estar fundada y motivada, que cuenta con un término de tres días hábiles para que acuda y sea escuchado en audiencia por el Oficial Calificador, teniéndose por ciertos los motivos de infracción plasmados en el documento, en caso de no comparecer sin causa justificada dentro del término señalado para tal efecto, a cualquiera de las audiencias a que fuere citado.
 
@@ -2163,7 +2165,7 @@ EL SECRETARIO DEL AYUNTAMIENTO.
 
 LIC. JORGE ANTONIO ÁLVAREZ COMPEAN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE DICIEMBRE DE 2007.
 
@@ -2196,3 +2198,9 @@ P.O. 15 DE JUNIO DE 2011.
 P.O. 16 DE JULIO DE 2011.
 
 ÚNICO.- Las reformas y adiciones contenidas en el presente acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 2 DE MAYO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento de Vialidad y Tránsito del Municipio de Juárez, Estado de Chihuahua, aprobado por el Honorable Ayuntamiento del Municipio de Juárez. Chihuahua en sesión número 73 de fecha 14 de Diciembre del año 2006 y publicado en el Periódico Oficial del Gobierno del Estado número 10 de fecha 03 de febrero del año 2007. así como todas aquellas disposiciones que le sean contrarias.
