@@ -4,7 +4,7 @@ identifier: "COL-ley-del-servicio-profesional-de-carrera-en-procuracion-de-10338
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-18"
-last_updated: "2015-04-04"
+last_updated: "2015-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA EN PROCURACIÓN DE JUSTICIA DEL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 30 DE SEPTIEMBRE DE 2015.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 28 DE ABRIL DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 18 de octubre de 2014.
 
@@ -1855,11 +1855,11 @@ Cancelación de Certificado. Toda separación o remoción de que sea sujeto el s
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el 30 de septiembre de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+La presente Ley entrará en vigor el 28 (veintiocho) de abril del año en curso, previa su publicación en el Periódico Oficial “El Estado de Colima”.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1888,3 +1888,7 @@ P.O. 4 DE ABRIL DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 2 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá de publicarse en el Periódico Oficial “El Estado de Colima”.
