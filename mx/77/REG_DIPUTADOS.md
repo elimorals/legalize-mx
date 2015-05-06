@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2015-03-25"
+last_updated: "2015-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -394,11 +394,19 @@ V. Para ocupar un cargo dentro de su partido político.
 
 ###### Artículo 24.
 
-1. En el desarrollo de sus tareas administrativas, los grupos observarán las disposiciones normativas aprobadas por el Pleno.
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2015)</small>
 
-2. El ejercicio de las prerrogativas, derechos y obligaciones se mantendrá hasta el término de la Legislatura en la que fueron constituidos.
+1. En la primera Sesión ordinaria de la Legislatura, el Presidente hará la declaratoria de constitución de los grupos e informará al Pleno de aquellos diputados y diputadas que no forman parte de algún Grupo.
 
-3. La Mesa Directiva hará la declaratoria respectiva cuando un Grupo deje de tener representación en la Cámara.
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2015)</small>
+
+2. Una vez que el Presidente haya realizado la declaratoria prevista en el numeral anterior, no se podrán integrar nuevos grupos por el resto de la Legislatura.
+
+3. En el desarrollo de sus tareas administrativas, los grupos observarán las disposiciones normativas aprobadas por el Pleno.
+
+4. El ejercicio de las prerrogativas, derechos y obligaciones se mantendrá hasta el término de la Legislatura en la que fueron constituidos.
+
+5. La Mesa Directiva hará la declaratoria respectiva cuando un Grupo deje de tener representación en la Cámara.
 
 ## TITULO SEGUNDO. De los Espacios de la Cámara
 
@@ -3737,5 +3745,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 D.O.F. 25 DE MARZO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE MAYO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
