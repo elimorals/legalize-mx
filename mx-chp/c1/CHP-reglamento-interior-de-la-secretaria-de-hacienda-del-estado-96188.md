@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-961
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-04"
-last_updated: "2014-11-06"
+last_updated: "2015-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2015.
 
 Reglamento publicado en el Periódico oficial del Estado de Chiapas, el miércoles 4 de septiembre de 2013.
 
@@ -1193,9 +1193,9 @@ II. Fungir como consejero jurídico de la Secretaría, asesorando legalmente a l
 
 III. Intervenir como órgano jurídico competente de la Secretaría, en los procedimientos y procesos, que se ventilen ante las autoridades administrativas, judiciales estatales y federales, por actos o resoluciones del Secretario y de los titulares de los Órganos Administrativos adscritos a la Secretaría, presentar las demandas o contestaciones, ofrecer pruebas, formular alegatos, interponer recursos en los juicios civiles, administrativos, laborales y mercantiles, y actuar en los juicios de amparo que promuevan los quejosos.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-IV. Emitir acuerdo sobre la procedencia o improcedencia de actas circunstanciadas y/o administrativas instrumentadas en contra de los servidores públicos adscritos a la Secretaría, con la finalidad de salvaguardar los intereses de la misma, cuidando en todo momento que se respeten los derechos de los trabajadores.
+IV. Emitir acuerdo sobre la procedencia o improcedencia de actas circunstanciadas y/o administrativas instrumentadas por los órganos administrativos de la Secretaría, con la finalidad de salvaguardar los intereses de la misma.
 
 V. Hacer del conocimiento del Servicio de Administración Tributaria, cuando exista la presunción de delitos fiscales, aportando las pruebas necesarias para tal efecto, colaborando con la Procuraduría Fiscal de la Federación y el Ministerio Público Federal en las acciones penales que ejerciten en materia de impuestos federales coordinados.
 
@@ -1203,7 +1203,9 @@ V. Hacer del conocimiento del Servicio de Administración Tributaria, cuando exi
 
 VI. Representar el interés del Estado en asuntos de carácter hacendario, fiscal y aduanero, ante cualquier autoridad federal o estatal.
 
-VII. Querellarse y denunciar todos aquellos actos y hechos que pudieran constituir delitos, que lesionen los intereses de la Secretaría, y coadyuvar con los Fiscales del Ministerio Público del Fuero Común y/o Federal, en representación de la misma en los procesos penales correspondientes.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+VII. Querellarse y denunciar todos aquellos actos y hechos que pudieran constituir delitos fiscales, así como aquellos que por principio de definitividad se deban interponer, coadyuvando con los Fiscales del Ministerio Público del Fuero Común y/o Federal, en representación de la Secretaría, en los procesos penales correspondientes.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
@@ -1213,9 +1215,9 @@ VIII. Vigilar el control de las pólizas de fianza administrativas que garantice
 
 IX. Requerir de pago a las instituciones de fianzas que hayan expedido pólizas que garanticen obligaciones judiciales penales, civiles y/o administrativas a favor del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa; Juicio de Amparo o cualquier otro que se derive del requerimiento de pago de las fianzas administrativas o judiciales; Solicitar el remate de valores propiedad de la institución fiadora y requerir el cobro de intereses e indemnizaciones, en términos de la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-X. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades hacendarias para garantizar el interés fiscal estatal y/o federal; hacer efectivas las fianzas fiscales ante las instituciones de fianzas que las hayan expedido en términos de la legislación aplicable; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro proceso o procedimiento, relacionado con las fianzas fiscales; Solicitar y/o ejecutar el remate de valores y/o títulos propiedad de la institución fiadora, conforme a la legislación aplicable; Realizar la cancelación y devolución de las pólizas de fianza, previa acreditación del cumplimiento de la obligación garantizada; Requerir el cobro de intereses, indemnizaciones, actualizaciones, recargos o cualquier otro de naturaleza análoga, según corresponda.
+X. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades fiscales y hacendarías para garantizar el interés fiscal estatal y/o federal; hacer efectivas las fianzas fiscales ante las instituciones de fianzas que las hayan expedido en términos de la legislación aplicable; Interponer el procedimiento contencioso administrativo, el recurso de revisión en materia fiscal, juicio de amparo o cualquier otro proceso o procedimiento, relacionado con las fianzas fiscales; Solicitar y/o ejecutar el remate de valores y/o títulos propiedad de la institución fiadora, conforme a la legislación aplicable; realizar la cancelación y devolución de las pólizas de fianza, previa acreditación del cumplimiento de la obligación garantizada; requerir el cobro de intereses, indemnizaciones, actualizaciones, recargos o cualquier otro de naturaleza análoga, según corresponda.
 
 XI. Ejercitar las acciones, excepciones y defensas e interponer los recursos que procedan; así como allanarse, transigir, desistirse y abstenerse de interponer los recursos en toda clase de juicios, cuando así convengan a los intereses de la Secretaría y/o del Fisco Estatal.
 
@@ -1241,15 +1243,15 @@ XVIII. Representar, sustituir e intervenir a nombre del Secretario, en la presen
 
 XIX. Resolver los recursos administrativos a que se refieren las disposiciones hacendarias estatales, interpuestos contra actos y resoluciones de las autoridades hacendarias del Estado, así como los establecidos en el Código Fiscal de la Federación, en relación con los actos o resoluciones emitidos en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XX. Emitir acuerdo para la procedencia o improcedencia de exenciones fiscales estatales.
+XX. Emitir opinión jurídica sobre la procedencia o improcedencia de estímulos fiscales.
 
 XXI. Proponer al Secretario, el criterio aplicable en los casos en que dos o más órganos administrativos de la misma Secretaría emitan opiniones contradictorias en cuestiones legales y administrativas, y fungir como órgano de consulta interna de la Secretaría, para establecer la interpretación de las disposiciones materia de su competencia, constituyéndose como obligatoria para tales órganos.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XXII. Emitir acuerdo para la procedencia o improcedencia de las devoluciones de pagos efectuados indebidamente al Fisco Estatal, por acuerdo del Secretario, cuando hayan sido objeto de reclamo o controversia.
+XXII. Emitir el criterio aplicable para la aprobación de la adjudicación de los bienes muebles e inmuebles a favor del fisco estatal, así como para realizar su venta fuera de subasta en términos de las disposiciones aplicables.
 
 XXIII. Emitir la validación a los proyectos de convenios, contratos, decretos, acuerdos y demás actos jurídicos en los que la Secretaría sea parte a través de su titular, y remitirlos al órgano administrativo correspondiente para su resguardo.
 
@@ -1271,15 +1273,17 @@ XXX. Vigilar que se aplique en términos de la legislación vigente, el Procedim
 
 XXXI. Intervenir como parte, en los juicios que se susciten con motivo del ejercicio de las facultades delegadas a través del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público, así como asumir la responsabilidad en la defensa de los mismos, sin perjuicio de la intervención que corresponda a la dependencia federal.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XXXII. Resolver las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia hacendaria, fiscal y aduanera.
+XXXII. Emitir opinión jurídica sobre las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia hacendaría estatal.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XXXIII. Emitir acuerdo para la prescripción de los créditos fiscales estatales, en los que se determinen las contribuciones omitidas y sus accesorios, cuando se requiera.
+XXXIII. Emitir opinión jurídica sobre la procedencia o improcedencia de la prescripción de los créditos fiscales estatales que soliciten las demás autoridades hacendarías.
 
-XXXIV. Proponer al Secretario, los proyectos de decretos y acuerdos que reforman, adicionan, derogan o abrogan las disposiciones jurídicas o administrativas competencia de la Secretaría.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XXXIV. Presentar al Secretario, los proyectos de decretos y acuerdos que reforman, adicionan, derogan o abrogan las disposiciones jurídicas o administrativas competencia de la Secretaría.
 
 XXXV. Proponer al Secretario el proyecto del Paquete Hacendario del Estado, para su presentación al Ejecutivo del Estado.
 
@@ -2865,11 +2869,15 @@ II. Intervenir en los juicios de amparo en los que la Secretaría sea parte, con
 
 III. Intervenir en los procesos y procedimientos administrativos en los que la Secretaría sea parte, con excepción de los que se deriven de la aplicación de disposiciones hacendarias o fiscales.
 
-IV. Proponer al Procurador Fiscal, el proyecto de opinión jurídica sobre la procedencia o improcedencia de las actas circunstanciadas y/o administrativas instrumentadas contra servidores públicos adscritos a la Secretaría, cuidando en todo momento que se respeten los derechos de los trabajadores.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+IV. Validar el acuerdo de procedencia o improcedencia de las actas circunstanciadas y/o administrativas instrumentadas por los órganos administrativos de la Secretaría, a efecto de que éstas reúnan los requisitos formales de fundamentación y motivación, así como los que establecen los Lineamientos en Materia de Recursos Humanos.
 
 V. Representar el interés de la Secretaría en asuntos de carácter civil, mercantil, laboral, administrativo de su competencia, ante cualquier autoridad federal y/o estatal, siempre que dicha representación no corresponda al Ministerio Público.
 
-VI. Querellarse y denunciar todos aquellos actos y hechos, que pudieran constituir delitos, que lesionen los intereses de la Secretaría, y coadyuvar con los Fiscales del Ministerio Público del fuero común y/o federal, en representación de la misma, en los procesos penales correspondientes.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+VI. Querellarse y denunciar todos aquellos actos y hechos que pudieran constituir delitos fiscales, así como aquellos que por principio de definitividad se deban interponer, coadyuvando con los Fiscales del Ministerio Público del Fuero Común y/o Federal, en representación de la Secretaría en los procesos penales correspondientes.
 
 VII. Ejercitar las acciones, excepciones y defensas e interponer los recursos que procedan; así como allanarse, transigir, desistirse, y previo dictamen, abstenerse de interponer los recursos en toda clase de juicios, cuando así convengan a los intereses de la Secretaría, en las materias de su competencia.
 
@@ -2877,19 +2885,23 @@ VIII. Proponer al Procurador Fiscal, el personal adscrito al órgano administrat
 
 IX. Coordinarse, previa instrucción del Procurador Fiscal, con las autoridades de las entidades federativas y municipales del Estado, con el fin de proporcionar asesoría legal en materia de su competencia.
 
-X. Proponer al Procurador Fiscal, los proyectos de informes previos y justificados, en los juicios de amparo en los que la Secretaría sean parte, y promover los recursos que procedan, dentro del ámbito de su competencia.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+X. Emitir los informes previos y justificados, en los juicios de amparo en los que la Secretaría sea parte, y promover los recursos que procedan, dentro del ámbito de su competencia.
 
-XI. Proponer al Procurador Fiscal, el proyecto de acuerdo sobre la procedencia o improcedencia de estímulos fiscales o condonación de multas por infracciones a las disposiciones estatales aplicables.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XII. Proponer al Procurador Fiscal, el criterio aplicable cuando dos o más órganos administrativos de la misma Secretaría, emitan opiniones contradictorias en cuestiones legales y administrativas y ser órgano de consulta interna de la Secretaría, para establecer la interpretación de las disposiciones competencia de la Secretaría, misma que será obligatoria para dichos órganos administrativos.
+XI. Dictaminar sobre la procedencia o improcedencia de estímulos fiscales.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XIII. Proponer al Procurador Fiscal, el proyecto de Acuerdo sobre la procedencia o improcedencia en las solicitudes de las devoluciones de pagos efectuados indebidamente al Fisco Estatal, cuando hayan sido objeto de duda, reclamo o controversia.
+XII. Definir el criterio aplicable, cuando dos o más órganos administrativos de la Secretaría, emitan opiniones contradictorias en cuestiones legales y administrativas; ser órgano de consulta interna de la Secretaría para la interpretación de las disposiciones competencia de la misma.
 
-XIV. Proponer al Procurador Fiscal, para su validación, los proyectos de convenios, contratos, decretos, acuerdos y demás actos jurídicos en que la Secretaría sea parte y remitirlos al órgano administrativo correspondiente para su resguardo.
+XIII. (DEROGADA, P.O. 6 DE MAYO DE 2015)
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XIV. Determinar la procedencia jurídica de los proyectos de convenios, contratos, decretos, acuerdos y demás actos jurídicos en que la Secretaría sea parte a través de su titular, para la validación del Procurador Fiscal.
 
 XV. Presentar al Procurador Fiscal, los estudios comparados en materia hacendaria y fiscal para apoyar la modernización hacendaria, cuando se le requieran.
 
@@ -2899,25 +2911,35 @@ XVII. Proponer al Procurador Fiscal, los proyectos de capacitación y actualizac
 
 XVIII. Coordinar la elaboración de las credenciales o constancias de identificación del personal adscrito a la Procuraduría Fiscal, para realizar las notificaciones de las resoluciones emitidas por el Procurador Fiscal.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XIX. Proponer al Procurador Fiscal; el proyecto de opinión jurídica sobre las consultas que por escrito formulen los contribuyentes.
+XIX. Validar la resolución de las consultas que por escrito formulen los contribuyentes sobre situaciones reales y concretas en materia hacendaría estatal.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XX. Proponer al Procurador Fiscal, el proyecto de acuerdo sobre procedencia o improcedencia de prescripción de los créditos fiscales estatales, para determinar las contribuciones omitidas y sus accesorios.
+XX. Determinar la procedencia o improcedencia de prescripción de los créditos fiscales estatales.
 
-XXI. Proponer al Procurador Fiscal, para su validación, los proyectos de decretos y acuerdos que reforman, adicionan, derogan o abrogan disposiciones jurídicas o administrativas competencia de la Secretaría.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XXI. Proponer al Procurador Fiscal, los proyectos de decretos y acuerdos que reforman, adicionan, derogan o abrogan disposiciones jurídicas o administrativas competencia de la Secretaría.
 
 XXII. Integrar el proyecto del Paquete Hacendario del Estado.
 
-XXIII. Vigilar que se realicen las notificaciones de los actos y resoluciones a través del personal adscrito al órgano administrativo a su cargo, y en su caso, solicitar de las demás autoridades hacendarias que las mismas se lleven a cabo en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XXIII. Verificar el cumplimiento del procedimiento de notificación de los actos y resoluciones emitidos por el Procurador Fiscal, los que se lleven a cabo a través del personal adscrito al órgano administrativo a su cargo, y en su caso, las que se realicen a través de las demás autoridades fiscales, hacendarías y aduaneras, mismos que deben instrumentarse en términos de las disposiciones legales aplicables.
 
 XXIV. Participar en foros nacionales y estatales, que se relacionen con los asuntos de su competencia, previo acuerdo con el Procurador Fiscal.
 
 XXV. Colaborar con la Subprocuraduría de Resoluciones y de lo Contencioso en los asuntos que se requieran en defensa de los intereses del Fisco o de la Secretaría, así como con los demás órganos administrativos de la misma.
 
-XXVI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Procurador Fiscal, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XXVI. Verificar que los formatos de notificaciones de los actos y resoluciones que vayan a ser emitidos por el Procurador Fiscal, así como de los demás órganos administrativos de la Secretaría, reúnan los requisitos formales de fundamentación y motivación.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XXVII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Procurador Fiscal, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 77.
 
@@ -2941,25 +2963,31 @@ II. Intervenir y/o representar a la Secretaría en los juicios de amparo en los 
 
 III. Hacer del conocimiento del Servicio de Administración Tributaria cuando exista la presunción de delitos fiscales; allegándole las pruebas necesarias para tal efecto, colaborando con la Procuraduría Fiscal de la Federación y el Ministerio Público de la Federación, en las acciones penales que ejerciten en materia de impuestos federales coordinados.
 
-IV. Querellarse y denunciar a nombre de la Secretaría, todos los actos y hechos, que pudieran constituir delitos, que lesionen los intereses de la Secretaría y coadyuvar con los Fiscales del Ministerio Público del fuero común y/o federal, en los procesos penales de carácter fiscal y/o hacendario que se hayan instaurado, dentro del ámbito de su competencia.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+IV. Querellarse y denunciar todos aquellos actos y hechos que pudieran constituir delitos fiscales, así como aquellas que por principio de definitividad se deban interponer, coadyuvando con los Fiscales del Ministerio Público del Fuero Común y/o Federal, en representación de la Secretaría en los procesos penales correspondientes.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
 V. Vigilar el control de las pólizas de fianzas administrativas que garanticen obligaciones relativas a obra pública, Adquisiciones, Arrendamiento y Prestación de Servicios, así como Concesiones, Permisos, o cualquier otra obligación de naturaleza análoga, que se hayan otorgado ante los Organismos Públicos del Ejecutivo; Requerir a los Organismos Públicos del Ejecutivo información y documentación relativa a las fianzas y del cumplimiento de Las obligaciones garantizadas por estas y hacer las recomendaciones procedentes; Proponer al Procurador Fiscal las disposiciones administrativas de carácter general a las que deberán sujetarse los Organismos Públicos del Ejecutivo, para la calificación, aceptación, cancelación, devolución y efectividad de las fianzas que se otorguen a favor de la Secretaría; Proponer al procurador Fiscal, el proyecto de requerimiento para hacer efectivas las fianzas administrativas en términos de la legislación aplicable; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro proceso o procedimiento, relacionado con la cancelación, devolución o requerimiento de pago de fianzas; Solicitar el remate de valores propiedad de la institución fiadora conforme a la legislación vigente aplicable; Realizar la cancelación y devolución de las fianzas, cuando se acredite debidamente el cumplimiento de las obligaciones garantizadas, o se haya terminado anticipadamente la obligación garantizada; Requerir el cobro de intereses e indemnizaciones así como solicitar el remate de títulos o valores ante las instituciones de fianzas, en términos de la legislación, aplicable.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-VI. Proponer al Procurador Fiscal, el proyecto de requerimiento de pago para las instituciones de fianzas que hayan expedido pólizas que garanticen obligaciones judiciales penales, civiles y/o administrativas a favor del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas; intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro, que se derive del requerimiento de pago de las fianzas administrativas o judiciales; solicitar el remate de valores propiedad de la institución fiadora y requerir el cobro de intereses e indemnizaciones
+VI. Verificar que el proyecto de requerimiento de pago para las instituciones de fianzas que hayan expedido pólizas que garanticen obligaciones judiciales penales, civiles y/o administrativas a favor del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas; reúna los requisitos formales de fundamentación y motivación e intervenir en el Procedimiento Contencioso Administrativo; Revisión Administrativa, Juicio de Amparo o cualquier otro, que se derive del requerimiento de pago de las fianzas administrativas o judiciales; solicitar el remate de valores propiedad de la institución fiadora y requerir el cobro de intereses e indemnizaciones.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-VII. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades hacendarias para garantizar el interés fiscal estatal y/o federal; Proponer al Procurador Fiscal, el proyecto para hacer efectivas las fianzas fiscales en términos de la legislación aplicable; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro proceso o procedimiento, relacionado con las fianzas fiscales; Solicitar el remate de valores y/o títulos propiedad de la institución fiadora, conforme la legislación aplicable; Realizar la cancelación y devolución, previa acreditación del cumplimiento del acto garantizado; Requerir el cobro de intereses, indemnizaciones, actualizaciones, recargos o cualquier otra de naturaleza análogas, según corresponda.
+VII. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades hacendarías para garantizar el interés fiscal estatal y/o federal; Proponer al Procurador Fiscal, el proyecto para hacer efectivas las fianzas fiscales en términos de la legislación aplicable; Interponer el procedimiento contencioso administrativo, el recurso de revisión en materia fiscal, juicio de amparo o cualquier otro proceso o procedimiento, relacionado con las fianzas fiscales; Solicitar el remate de valores y/o títulos propiedad de la institución fiadora, conforme la legislación aplicable; Realizar la cancelación y devolución, previa acreditación del cumplimiento del acto garantizado; Requerir el cobro de intereses, indemnizaciones, actualizaciones, recargos o cualquier otra de naturaleza análoga, según corresponda.
 
-VIII. Proponer al Procurador Fiscal, los proyectos de informes previos y justificados, en los juicios de amparo en los que la Secretaría sea parte, y promover los recursos que procedan, dentro del ámbito de su competencia.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+VIII. Emitir los informes previos y justificados en los juicios de amparo en los que la Secretaría sea parte, y promover los recursos que procedan, dentro del ámbito de su competencia.
 
 IX. Ejercitar las acciones, excepciones y defensas e interponer los recursos que procedan; así como, allanarse, transigir, desistirse y, previo dictamen, abstenerse de interponer los recursos en toda clase de juicios, en los asuntos de su competencia, cuando así convengan a los intereses del Fisco Estatal.
 
-X. Proponer al Procurador Fiscal, como delegados, apoderados legales y/o albacea al personal adscrito al órgano administrativo a su cargo, para que comparezcan en calidad de parte en los procedimientos, procesos o juicios, que se ventilen ante las autoridades administrativas, judiciales estatales y/o federales competentes, en los asuntos de su competencia.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+X. Someter a consideración del Procurador Fiscal, la designación como delegados, apoderados legales y/o albacea, al personal adscrito al órgano administrativo a su cargo, para que comparezcan en calidad de parte en los procedimientos, procesos o juicios, que se ventilen ante las autoridades administrativas, judiciales estatales y/o federales competentes, en los asuntos de su competencia.
 
 XI. Coordinarse, previa instrucción del Procurador Fiscal, con la Procuraduría Fiscal de la Federación y con las autoridades fiscales de las entidades federativas y municipales del Estado, con el objeto de brindar asesoría legal en materia de su competencia.
 
@@ -2967,15 +2995,17 @@ XII. Intervenir, previa instrucción del Procurador Fiscal, en representación d
 
 XIII. Proponer al Procurador Fiscal el criterio aplicable para aprobar la adjudicación de los bienes muebles e inmuebles a favor del Fisco Estatal, así como para realizar su venta fuera de subasta en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XIV. Ejercitar la acción de nulidad por lesividad, contra los actos y resoluciones de autoridad fiscal, hacendaria y aduanera, que se hubieren dictado en perjuicio del Fisco.
+XIV. Presentar la acción de nulidad por lesividad, contra los actos y resoluciones de autoridad fiscal, hacendaría y aduanera, que se hubieren dictado en perjuicio del fisco.
 
-XV. Tramitar la resolución de los recursos administrativos, a que se refieren las disposiciones hacendarias estatales, interpuestos contra actos y resoluciones de las autoridades hacendarias que sean de su competencia, así como el establecido en el Código Fiscal de la Federación, en relación con los actos o resoluciones de aquéllas, emitidos en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+XV. Validar la resolución de los recursos administrativos a que se refieren las disposiciones hacendarías estatales, interpuestos contra actos y resoluciones de las autoridades hacendarías que sean de su competencia, así como el establecido en el Código Fiscal de la Federación, en relación con los actos o resoluciones de aquéllas, emitidos en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
 
-XVI. Proponer al Procurador Fiscal, el proyecto de resolución de los recursos administrativos a que se refieren las disposiciones hacendarias estatales, interpuestos contra actos y resoluciones de las autoridades fiscales, hacendarias y aduaneras que sean de su competencia, así como lo establecido en el Código Fiscal de la Federación, en relación con los actos o resoluciones de aquéllas, emitidos en ejercicio de las facultades que le confieren el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XVI. Emitir el proyecto de resolución de los recursos administrativos a que se refieren las disposiciones hacendarías estatales, interpuestos contra actos y resoluciones de las autoridades fiscales, hacendarias y aduaneras que sean de su competencia, así como lo establecido en el Código Fiscal de la Federación, en relación con los actos o resoluciones de aquéllas, emitidos en ejercicio de las facultades que le confieren el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
 
 XVII. Ejercer las atribuciones delegadas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público, cuya naturaleza sean iguales a las que tiene expresamente conferidas en materia hacendaria estatal.
 
@@ -2985,9 +3015,9 @@ XIX. Intervenir como parte, en los juicios que se susciten con motivo del ejerci
 
 XX. Participar en foros nacionales y estatales, que se relacionen con los asuntos de su competencia, previo acuerdo con el Procurador Fiscal.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XXI. Vigilar que se realicen las notificaciones de los actos y resoluciones emitidas por el Procurador Fiscal, a través del personal adscrito al órgano administrativo a su cargo, y en su caso, solicitar de las demás autoridades fiscales, hacendarias y aduaneras que las mismas se lleven a cabo en los términos de las disposiciones legales aplicables.
+XXI. Verificar y dar cumplimiento al procedimiento de notificación de los actos y resoluciones emitidas por el Procurador Fiscal, las que se lleven a cabo a través del personal adscrito al órgano administrativo a su cargo, y en su caso, las que se realicen a través de las demás autoridades fiscales, hacendarías y aduaneras, a efecto de que se instrumenten en los términos de las disposiciones legales aplicables.
 
 XXII. Colaborar con la Subprocuraduría de Legislación y de Asuntos Jurídicos en los asuntos que se requieran, en defensa de los intereses del Fisco o de la Secretaría, así como con los demás órganos administrativos de la misma.
 
@@ -2995,13 +3025,17 @@ XXII. Colaborar con la Subprocuraduría de Legislación y de Asuntos Jurídicos 
 
 XXIII. Proponer al Procurador Fiscal, el criterio aplicable sobre las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia fiscal, hacendaria y aduanera.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XXIV. Proponer al Procurador Fiscal, disposiciones administrativas relacionadas con las fianzas que reciban los Organismos Públicos del Ejecutivo a favor de la Secretaría, en relación a licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras obligaciones de naturaleza análoga.
+XXIV. Proponer los proyectos de acuerdo por los que se emitan disposiciones administrativas relacionadas con las fianzas que reciban los Organismos Públicos del Ejecutivo a favor de la Secretaría, en relación a licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, anticipos, permisos, autorizaciones, concesiones, prorrogas y otras obligaciones de naturaleza análoga.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XXV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Procurador Fiscal, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XXV. Verificar que los formatos de notificaciones de los actos y resoluciones que vayan a ser emitidas por el Procurador Fiscal, así como de los demás órganos administrativos de la Secretaría, reúnan los requisitos formales de fundamentación y motivación.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2015)</small>
+
+XXVI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Procurador Fiscal, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 79.
 
@@ -3486,3 +3520,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 6 DE MAYO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que el presente Decreto y se opongan al contenido del mismo.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto en el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
