@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2012-04-09"
+last_updated: "2015-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPLAN"
 
 LEY DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -56,7 +56,7 @@ IV.- Las bases para promover y garantizar la participación democrática de los 
 
 V.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades del plan y los programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
 
 ###### Artículo 2o.
 
@@ -90,7 +90,7 @@ VII.- La perspectiva de género, para garantizar la igualdad de oportunidades en
 
 VIII.- La factibilidad cultural de las políticas públicas nacionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
 
 ###### Artículo 3o.
 
@@ -108,7 +108,7 @@ Es responsabilidad del Ejecutivo Federal conducir la planeación nacional del de
 
 El Presidente de la República remitirá el Plan al Congreso de la Unión para su examen y opinión. En el ejercicio de sus atribuciones constitucionales y legales y en las diversas ocasiones previstas por esta Ley, el Poder Legislativo formulará, asimismo, las observaciones que estime pertinentes durante la ejecución, revisión y adecuaciones del propio Plan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### Artículo 6o.
 
@@ -140,7 +140,7 @@ En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten 
 
 Los funcionarios a que alude el primer párrafo de este artículo y los Directores y Administradores de las entidades paraestatales que sean citados por cualquiera de las Cámaras para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de Ley o negocio de que se trate y los objetivos de la planeación nacional, relativos a la dependencia o entidades a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JUNIO DE 2011)</small>
 
 ###### Artículo 9o.
 
@@ -176,7 +176,7 @@ Las dependencias y entidades de la Administración Pública Federal formarán pa
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Nacional de Planeación Democrática y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación del Plan y los programas a que se refiere este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### Artículo 14.
 
@@ -224,7 +224,7 @@ IV.- Verificar que las operaciones en que se haga uso del crédito público prev
 
 V.- Considerar los efectos de la política monetaria y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en el logro de los objetivos y prioridades del Plan y los programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
 
 ###### Artículo 16.
 
@@ -320,6 +320,18 @@ El Plan Nacional de Desarrollo precisará los objetivos nacionales, estrategia y
 
 La categoría de Plan queda reservada al Plan Nacional de Desarrollo.
 
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2015)</small>
+
+###### Artículo 21 Bis.
+
+El Plan Nacional de Desarrollo considerará una visión de largo plazo de la política nacional de fomento económico, a fin de impulsar como elementos permanentes del desarrollo nacional y el crecimiento económico elevado, sostenido y sustentable, la promoción permanente del incremento continuo de la productividad y la competitividad, y la implementación de una política nacional de fomento económico, que incluya vertientes sectoriales y regionales.
+
+Para tal efecto, el Ejecutivo Federal incluirá, como parte del Plan, consideraciones de largo plazo, con un horizonte de hasta veinte años, respecto de la política nacional de fomento económico a que se refiere este.
+
+La política nacional de fomento económico de largo plazo podrá ajustarse durante el proceso de emisión del Plan Nacional de Desarrollo para el período de gobierno correspondiente; manteniendo en todo momento el horizonte de hasta veinte años para la política nacional de fomento económico.
+
+Los programas derivados del Plan Nacional de Desarrollo deberán guardar congruencia, en lo que corresponda, con el horizonte de veinte años y la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.
+
 ###### Artículo 22.
 
 El Plan indicará los programas sectoriales, institucionales, regionales y especiales que deban ser elaborados conforme a este capítulo.
@@ -350,7 +362,7 @@ Para la ejecución del plan y los programas sectoriales, institucionales, region
 
 El Plan y los programas a que se refieren los artículos anteriores especificarán las acciones que serán objeto de coordinación con los gobiernos de los estados y de inducción o concertación con los grupos sociales interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### Artículo 29.
 
@@ -498,7 +510,7 @@ México D. F., a 29 de diciembre de 1982.- Mariano Piña Olaya, D. P.- Antonio R
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y dos.- "Año del General Vicente Guerrero".- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE MAYO DE 2002.
 
@@ -533,3 +545,23 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 6 DE MAYO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Durante la presente Administración del Ejecutivo Federal, la política nacional de fomento económico se implementará a través del Programa para Democratizar la Productividad 2013 – 2018, aprobado por Decreto publicado en el Diario Oficial de la Federación el 30 de agosto de 2013, sin perjuicio de que, en su caso, éste pueda modificarse en términos de la Ley de Planeación, previa opinión del Comité Nacional de Productividad.
+
+Tercero.- El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el Decreto por el que se establece el Comité Nacional de Productividad, publicado en el Diario Oficial de la Federación el 17 de mayo de 2013, en tanto no se reforme el mismo, salvo en lo que dicho instrumento se oponga a la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.
+
+Las designaciones de los integrantes del Comité Nacional de Productividad que se hayan realizado de conformidad con el Decreto antes señalado, se mantendrán en sus términos.
+
+Cuarto.- Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del presente Decreto, el Comité Nacional de Productividad deberá, en su caso, hacer las adecuaciones correspondientes a sus lineamientos de operación, a efecto de dar cumplimiento a las disposiciones establecidas en la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.
+
+Quinto.- La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los que hace referencia el artículo 19, párrafo segundo, de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, a más tardar 60 días naturales después de haber concluido el primer semestre posterior a la entrada en vigor del presente Decreto.
+
+La Secretaría contará con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, para cumplir con lo establecido en el artículo 18, párrafo primero de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a las dependencias y entidades de la Administración Pública Federal en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda.
+
+Séptimo.- Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este Decreto.
