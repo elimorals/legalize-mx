@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-04-29"
+last_updated: "2015-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -623,21 +623,19 @@ El Instituto Estatal Electoral podrá realizar convenios con el Instituto Federa
 
 El Instituto Estatal electoral tendrá a su cargo, en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y miembros de los ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2015)</small>
 
 ###### Art. 37.
 
-El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Se compondrá de tres Magistrados que deberán satisfacer los mismos requisitos que establece esta Constitución para ser Magistrado del Supremo Tribunal de Justicia y además no haber sido candidato o haber desempeñado cargo de elección popular, ni fungido como dirigente de partido político en los últimos cinco años previos a la elección.
+El Tribunal Estatal Electoral es el órgano de legalidad y plena jurisdicción en la materia electoral, autónomo en su funcionamiento e independiente en sus decisiones, con personalidad jurídica y patrimonio propio. Se compondrá de tres Magistrados.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
 
-Los Magistrados serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, de entre los aspirantes que propongan los grupos parlamentarios. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos para cada uno de los cargos que no se hubieren cubierto, de entre los aspirantes que hubiesen propuesto los grupos parlamentarios, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria la ley establecerá las reglas y procedimientos de designación.
+Los requisitos de elegibilidad, proceso de elección, causas de remoción, impedimentos y excusas de los Magistrados Electorales se regirán con base en lo establecido en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
 
-Los Magistrados del Tribunal Estatal Electoral durarán en su encargo seis años, pudiendo ser reelectos por una sola ocasión. Recibirán remuneración igual a la que perciben los Magistrados del Supremo Tribunal de Justicia del Estado y no Integrarán el Pleno de este último.
+Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete años. Recibirán remuneración igual a la que perciben los Magistrados del Supremo Tribunal de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
@@ -1073,9 +1071,9 @@ A.- Elegir Gobernador interino, provisional o sustituto en los casos que estable
 
 B) Nombrar a los magistrados del Supremo Tribunal de Justicia, de entre la terna que someta a su consideración la Comisión a que se refiere el artículo 103 de esta Constitución; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
 
-C.- Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, a los magistrados del Tribunal Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+C) Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1101,9 +1099,9 @@ Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por s
 
 G.- Nombrar, por el voto de las dos terceras partes de los diputados presentes, a propuesta en terna de los presidentes municipales, a los titulares de las direcciones de seguridad pública municipales o sus equivalentes, cuando así lo haya determinado expresamente el ayuntamiento.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Supremo Tribunal de Justicia, del Fiscal General del Estado; de los Magistrados del Tribunal Estatal Electoral; del Consejero Presidente y de los Consejeros Electorales del Instituto Estatal Electoral; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+XVI. Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Supremo Tribunal de Justicia, del Fiscal General del Estado; del Consejero Presidente y de los Consejeros Electorales del Instituto Estatal Electoral; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1113,9 +1111,9 @@ XVII.- Resolver sobre las renuncias que hagan de sus cargos los funcionarios a q
 
 XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que determina esta Constitución y de diputados en el caso del artículo 60 y, cuando habiendo falta definitiva de un diputado propietario y de su suplente, hayan de transcurrir más de doce meses para que se efectúen las ordinarias.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
 
-XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados y a los magistrados del Tribunal Estatal Electoral, y del Supremo Tribunal de Justicia, cuando la de estos últimos sea por más de veinte días; al consejero presidente y consejeros electorales del Instituto Estatal Electoral; así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+XIX. Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados, y a los magistrados del Supremo Tribunal de Justicia, cuando la de estos últimos sea por más de veinte días; al consejero presidente y consejeros electorales del Instituto Estatal Electoral; así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2793,13 +2791,11 @@ IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, 
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
 
 ###### Art. 166.
 
-El Supremo Tribunal de Justicia, el Instituto Estatal Electoral, el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y la Comisión Estatal de los Derechos Humanos, por conducto de sus respectivos presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
+El Supremo Tribunal de Justicia, el Instituto Estatal Electoral, el Tribunal Estatal Electoral, el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y la Comisión Estatal de los Derechos Humanos, por conducto de sus respectivos presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2015)</small>
 
@@ -4184,3 +4180,21 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. El contenido de los Artículos Segundo, Tercero y Cuarto del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 6 DE MAYO DE 2015.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Tribunal Estatal Electoral continuará ejerciendo sus funciones normalmente con la misma integración y atribuciones con que lo ha venido haciendo previo a la aprobación del presente Decreto, por lo que los actuales Magistrados continuarán en el ejercicio de sus atribuciones hasta que culmine el tiempo por el que fueron designados.
+
+Los contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, continuarán bajo los mismos términos con los que se celebraron. Asimismo, el Reglamento Interior, lineamientos, acuerdos generales, y demás normas aprobadas por el Pleno del Tribunal Estatal Electoral con anterioridad al Decreto No. 457/2014 II P.O., publicado en el Periódico Oficial del Estado el 28 de mayo del año 2014, seguirán teniendo vigencia a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos que fueron transferidos al Poder Judicial del Estado, mediante decreto referido en el artículo precedente, serán incorporados como patrimonio del Tribunal Estatal Electoral, en conjunto con los recursos presupuestales y financieros que le correspondan.
+
+QUINTO.- Los servidores públicos y empleados del Tribunal Estatal Electoral, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral y continuarán con el sistema de seguridad social empleado hasta la entrada en vigor del presente Decreto.
+
+SEXTO.- Los Magistrados que integran el Tribunal Estatal Electoral a la entrada en vigor del presente Decreto, continuarán ejerciendo sus funciones hasta en tanto el Senado de la República nombre a quienes deban sustituírlos.
+
+SÉPTIMO.- El Congreso del Estado deberá llevar a cabo las reformas a la legislación electoral que corresponda, con motivo del presente Decreto antes del plazo de 90 días previos al inicio del proceso electoral local de 2016.
