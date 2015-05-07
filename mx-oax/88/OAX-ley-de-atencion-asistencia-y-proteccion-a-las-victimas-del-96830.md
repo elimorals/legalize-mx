@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-atencion-asistencia-y-proteccion-a-las-victimas-del-9683
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2013-11-28"
+last_updated: "2015-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A LAS VÍCTIMAS DEL ESTADO DE OAXACA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR TREINTA DÍAS HÁBILES DESPUÉS DE SU PUBLICACIÓN.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 7 DE MAYO DE 2015; ORDENAMIENTO QUE ENTRA EN VIGOR EN LA FORMA Y TÉRMINO SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en el Extra Periódico Oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -949,7 +949,7 @@ En cumplimiento de su objeto la unidad administrativa brindará el servicio a la
 
 Las distintas autoridades educativas adoptarán, en el ejercicio de sus competencias, las medidas necesarias para asegurar el acceso y la exención de todo tipo de costos académicos en los establecimientos educativos oficiales en los niveles de preescolar, básica y media a las víctimas señalados (sic) en la presente Ley, siempre y cuando éstos no cuenten con los recursos para su pago. Asimismo, se les brindará la capacitación para el trabajo cuando lo requieran.
 
-82.- Las autoridades judiciales, administrativas y el Ministerio Público que tengan conocimiento de la situación de riesgo de las víctimas, las remitirán de inmediato a la autoridad competente, designada de acuerdo a tos programas de protección existentes o que se creen, para que se inicie el procedimiento conducente a su protección.
+82.- Las autoridades judiciales, administrativas y el Ministerio Público que tengan conocimiento de la situación de riesgo de las víctimas, las remitirán de inmediato a la autoridad competente, designada de acuerdo a los programas de protección existentes o que se creen, para que se inicie el procedimiento conducente a su protección.
 
 ###### Artículo 83.
 
@@ -1057,7 +1057,7 @@ XVI. Proponer políticas en materia de intercambio, sistematización y actualiza
 
 XVII. Establecer mecanismos para que la sociedad participe en los procesos de evaluación de las políticas de protección a víctimas y prevención del delito;
 
-XVIII. Promover políticas de coordinación y colaboración interinstitucional; y (sic)
+XVIII. Promover políticas de coordinación y colaboración interinstitucional; y
 
 XIX. Promover, en coordinación con el Gobierno Federal, los programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las víctimas;
 
@@ -1101,7 +1101,7 @@ VI. La presidenta del Consejo Consultivo del Sistema para el Desarrollo Integral
 
 VII. La directora del Instituto de la Mujer Oaxaqueña;
 
-VIII. El Defensor de los Derechos Humanos del Pueblo de Oaxaca; y (sic)
+VIII. El Defensor de los Derechos Humanos del Pueblo de Oaxaca; y
 
 IX. Tres representantes de la sociedad civil, para garantizar la representatividad de los colectivos de víctimas, los cuales serán electos por el Congreso del Estado, de conformidad a lo dispuesto por el reglamento de la presente Ley; y;
 
@@ -1321,7 +1321,7 @@ IV. Las circunstancias de modo, tiempo y lugar previas, durante y posteriores a 
 
 V. El funcionario que recabe la declaración la asentará en forma textual, completa y detallada en los términos que sea emitida;
 
-VI. Los datos de contacto de la persona que solicita el registro, y (sic)
+VI. Los datos de contacto de la persona que solicita el registro, y
 
 ###### Artículo 108.
 
@@ -1492,3 +1492,21 @@ Tlalixtac de Cabrera, Centro, Oax., a 06 de noviembre del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y entrará en vigor en la forma y término señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
+
+SEGUNDO. Se abroga la Ley de Atención, Asistencia y Protección a las Víctimas del Estado de Oaxaca, aprobada el 31 de octubre del 2013, y publicada en el Periódico Oficial Extra de fecha 28 de noviembre del mismo año, mediante decreto número 2066, así como todas las disposiciones que contravengan el presente Decreto.
+
+TERCERO. El Reglamento de la presente Ley deberá expedirse dentro de los ciento ochenta días siguientes a la fecha en que la Ley entre en vigor.
+
+CUARTO. El Plan Anual Integral de Atención a Víctimas deberá ser aprobado en un plazo no mayor de noventa días naturales a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. El proyecto de Programa Estatal Anual de Atención a Víctimas deberá ser diseñado por la Comisión Ejecutiva Estatal en un plazo no mayor a treinta días naturales a partir de la aprobación del Plan Anual Integral de Atención a Víctimas.
+
+SEXTO. El Fidecomiso del Fondo Estatal deberá quedar constituido dentro de los ciento ochenta días siguientes a la constitución de la Comisión Ejecutiva Estatal. Una vez Constituido el Fondo Estatal, el Comité Técnico del Fondo Estatal deberá quedar instituido dentro de los quince días hábiles siguientes y el mismo dispondrá de treinta días hábiles para expedir sus Reglas de operación.
+
+SÉPTIMO. En caso de haberse creado el Fondo de Apoyo y Auxilio de las Víctimas a que se refiere el artículo 6, fracción X, de la Ley que por este Decreto se abroga, el mismo pasará a formar parte del Fondo Estatal a que se refiere la presente Ley.
