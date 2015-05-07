@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-seguridad-y-servicios-9356
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-01"
-last_updated: "2013-04-01"
+last_updated: "2015-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 1 de abril de 2013.
 
@@ -49,6 +49,8 @@ II. Ley: A la Ley del Instituto de Seguridad y Servicios Sociales de los Trabaja
 
 Para el cumplimiento de su objeto el Instituto contará con una Junta Directiva, que será la máxima autoridad, una Comisión Ejecutiva del Fondo de la Vivienda, con el Director General y con las siguientes unidades administrativas y órganos desconcentrados:
 
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
 I. Unidades Administrativas:
 
 a) Subdirección de Servicios Médicos.
@@ -61,17 +63,13 @@ d) Subdirección de Finanzas.
 
 e) Unidad de Planeación e Innovación Institucional.
 
-f) Unidad de Licitaciones.
+f) Unidad Jurídica.
 
-g) Unidad Jurídica.
+g) Unidad de Enlace de Comunicación Social
 
-h) Unidad de Informática.
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
-i) Unidad de Vinculación y Atención al Derechohabiente
-
-j) Unidad de Enlace de Comunicación Social
-
-II. Órganos desconcentrados
+II. Órganos desconcentrados:
 
 a) Centro Médico Dr. Ignacio Chávez, en Hermosillo, Sonora.
 
@@ -79,13 +77,7 @@ b) Hospital Lic. Adolfo López Mateos, en Ciudad Obregón, Sonora.
 
 c) Hospital ISSSTESON, en Guaymas, Sonora.
 
-d) Policlínico Siglo XXI ISSSTESON-SNTE, sección 54, en Navojoa, Sonora.
-
-e) Policlínico Ciudad Obregón, en Ciudad Obregón, Sonora.
-
-f) Policlínico Huatabampo, en Hutabampo, Sonora.
-
-g) Policlínico Hermosillo, en Hermosillo, Sonora.
+d) Clínica Hospital Nogales, en Nogales, Sonora.
 
 La Junta Directiva se integrará y funcionará en los términos previstos en la Ley que crea el Instituto, su Reglamento Interno y en las demás disposiciones jurídicas aplicables.
 
@@ -151,11 +143,19 @@ VI. Obtener créditos o financiamientos mediante contratos celebrados por el Ins
 
 VII. Realizar los estudios e investigaciones y las acciones necesarias para detectar, ubicar y evaluar la demanda de vivienda por parte de los derechohabientes;
 
-VIII. Gestionar y obtener de las autoridades competentes, las licencias, permisos y autorizaciones que de conformidad con la legislación aplicable requiera la realización de obras de construcción de la viviendas (sic);
+VIII. Gestionar y obtener de las autoridades competentes, las licencias, permisos y autorizaciones que de conformidad con la legislación aplicable requiera la realización de obras de construcción de la (sic) viviendas;
 
-IX. Supervisar que las obras de construcción de las viviendas se realicen en tiempo y costo; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
-X. Las demás que le confieran las disposiciones legales aplicables o el Presidente de la Comisión Ejecutiva, dentro de la esfera de sus atribuciones.
+IX. Supervisar que las obras de construcción de las viviendas se realicen en tiempo y costo;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+X. Fungir como Secretario Técnico de la Comisión Ejecutiva del Fondo de la Vivienda, llevando la organización de las sesiones y reuniendo los asuntos a tratar en el orden del día, mismos que deberán someterse a autorización del Director General para su presentación ante la Comisión; asimismo, deberá llevar la documentación de las actas de sesión y su posterior difusión a las partes interesadas; y
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XI. Las demás que le confieran las disposiciones legales aplicables o el Presidente de la Comisión Ejecutiva, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO IV. DEL DIRECTOR GENERAL
 
@@ -185,9 +185,25 @@ X. Implementar las acciones necesarias para el cumplimiento del Sistema Integral
 
 XI. Designará, en su calidad de Presidente de la Comisión Ejecutiva del Fondo de la Vivienda, al Vocal Ejecutivo para la atención de las labores administrativas de la Comisión Ejecutiva del Fondo de la Vivienda.
 
-XII. Coordinar la implementación de mecanismos que contribuyan a garantizar a los ciudadanos el acceso a la información pública del Instituto en el marco de lo dispuesto por la Ley de acceso a la Información Pública del Estado de Sonora y la normatividad aplicable y;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
-XIII. Las demás que le confieran otras disposiciones legales aplicables, así como de las que expresamente le encomiende la Junta Directiva.
+XII. Coordinar la implementación de mecanismos que contribuyan a garantizar a los ciudadanos el acceso a la Información pública del Instituto en el marco de lo dispuesto por la Ley de acceso a la Información Pública y Protección de Datos Personales del Estado de Sonora y la normatividad aplicable;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XIII. Supervisar el proceso de adquisiciones dentro del Instituto, determinando las políticas de control de gasto en la materia, en atención a la normatividad aplicable y en beneficio de las finanzas institucionales, informando mensualmente a la Junta Directiva del avance del Programa Anual de Adquisiciones, así como de las compras por medio de licitación pública y/o simplificada;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XIV. Revisar para su presentación a la Junta Directiva, los convenios y/o acuerdos de colaboración que le presenten las Unidades Administrativas del Instituto, con el fin de lograr una mayor coordinación con el resto de la Administración Pública Estatal, así como con organizaciones privadas y sociales;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XV. Supervisar el cumplimiento de los acuerdos en materia de los programas y proyectos sectoriales a los que se suma el Instituto en atención a la normatividad aplicable, determinando las acciones a tomar para garantizar el respeto a los mismos; y
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XVI. Las demás que le confieran otras disposiciones legales aplicables, así como de las que expresamente le encomiende la Junta Directiva.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -237,7 +253,9 @@ VI. Autorizar el pago cuando sea procedente, de los gastos extraordinarios origi
 
 VII. Realizar estudios, investigaciones y las acciones necesarias para formar y actualizar periódicamente el cuadro básico de medicamentos del Instituto;
 
-VIII. Organizar y dirigir el sistema de suministro de medicamentos a los derechohabientes;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+VIII. Presentar la actualización del Cuadro Básico de Medicamentos para conocimiento del Director General y posterior autorización a la Junta Directiva al final de cada ejercicio fiscal, para su aplicación en el año inmediato siguiente; difundir el mismo ante todas las unidades administrativas del Instituto y para su aplicación en los procesos de adquisiciones, almacenamiento, abasto, suministro y los servicios de atención médica;
 
 IX. Supervisar y evaluar sistemáticamente los servicios de primer nivel a los derechohabientes en las diferentes localidades del Estado;
 
@@ -245,9 +263,33 @@ X. Fomentar, en coordinación con la Subdirección de Servicios Administrativos 
 
 XI. Representar al Director General en las reuniones médicas, científicas y técnicas que deriven o beneficien la prestación de servicios y actividades de los médicos del Instituto y afiliados, cuando así lo encomiende;
 
-XII. Investigar, calificar e informar al Director General sobre las quejas presentadas por los derechohabientes relacionadas con la prestación de los servicios médicos del Instituto; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
-XIII. Las demás que le confieran las disposiciones legales aplicables o el Director General, dentro de la esfera de sus atribuciones.
+XII. Brindar atención a las quejas de los derechohabientes relativas a la prestación del servicio médico en el Instituto; investigando, calificando e informando al Director General sobre las mismas;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XIII. Atender por medio del módulo de programación de citas médicas a la derechohabiencia que requiera el servicio de atención a la salud en las unidades médicas de primer nivel del Instituto en Hermosillo, Sonora;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XIV. Coordinar la prestación del servicio médico de primer nivel en el Estado, que se brinda a través de los Policlínicos, Centros Integrales de Atención a la Salud (CIAS), de las Coordinación (sic) Médicas y los Módulos;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XV. Establecer las políticas para la organización y funcionamiento de los Policlinicos, Centros Integrales de Atención a la Salud (CIAS), las Coordinaciones Médicas y los Módulos;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XVI. Supervisar y evaluar la prestación de los servicios subrogados; del servicio médico de primer nivel y de los servicios hospitalarios de segundo y tercer nivel que se presten, tanto en unidades médicas propias como en aquellas que prestan su servicio por virtud de un convenio institucional;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XVII. Proporcionar consulta externa general, de especialidad y odontológica de primer nivel de atención a la población derechohabiente del Instituto; y
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XVIII. Las demás que le confieran las disposiciones legales y administrativas aplicables o el Director General, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 15.
 
@@ -293,7 +335,9 @@ VII. Establecer y administrar el sistema de control de inventarios de los bienes
 
 VIII. Vigilar la correcta y oportuna prestación de los servicios de correspondencia, impresión, intendencia, vigilancia y transporte, a las áreas demandantes del servicio en el Instituto;
 
-IX. Organizar, dirigir y controlar el sistema de abasto de los medicamentos, en los procesos de adquisición, almacenamiento y distribución;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+IX. Organizar, dirigir y controlar el sistema de abasto de los medicamentos en los procesos de adquisición, almacenamiento, distribución y suministro a los derechohabientes;
 
 X. Preparar con la debida anticipación los proyectos de adquisición para someterlos al Comité Técnico de Obra Pública y Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto;
 
@@ -305,9 +349,45 @@ XIII. Mantener y conservar los bienes muebles de todas las áreas del Instituto;
 
 XIV. Mantener y conservar el equipo de transporte de todas las áreas del Instituto;
 
-XV. Implementar y mantener el Sistema Integral de Archivos, así mismo elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos de acuerdo a la normatividad en la materia, y someterlos a la consideración y, en su caso, aprobación del Director General; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
-XVI. Las demás que le confieran las disposiciones legales aplicables ó el Director General, dentro de la esfera de sus atribuciones.
+XV. Implementar y mantener el Sistema Integral de Archivos, así mismo elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos de acuerdo a la normatividad en la materia, y someterlos a la consideración y, en su caso, aprobación del Director General;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XVI. Planear, organizar y conducir los procesos de licitación pública, simplificada o adjudicación directa para la adquisición de bienes, servicios, arrendamientos y obra pública que el Instituto celebre de acuerdo a la normatividad aplicable;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XVII. Programar, de conformidad con los programas autorizados por el Comité Técnico de Obra Pública y Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto, la realización de licitaciones para la adquisición de bienes, servicios, arrendamientos y contratación de obra pública apegándose a la normatividad;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XVIII. Elaborar y tramitar las convocatorias e invitaciones para la celebración de las licitaciones de adquisición de bienes, servicios, arrendamientos y obra pública que el Instituto celebre, de acuerdo con la normatividad establecida al efecto;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XIX. Supervisar, recibir y revisar los dictámenes de las propuestas presentadas por los participantes con motivo de las licitaciones y adjudicaciones directas del Instituto y emitir los fallos de adjudicación correspondientes;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XX. Formular lineamientos para la mejora continua de los trámites de licitación o adjudicación directa y someterlos a consideración del Comité Técnico de Obra Pública y Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto para su aprobación;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XXI. Diseñar y desarrollar sistemas informáticos en lenguajes recientes, así como aplicar de manera continua reingeniería a los mismos, en las diferentes áreas que conforman al Instituto.
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XXII. Diseñar sistemas configurables al usuario con la finalidad de que organice, coordine y controle la captación y procesamiento de la información, y genere los reportes que les servirán de apoyo a los titulares de las unidades administrativas y de las distintas áreas, a los derechohabientes y al personal operativo en los procesos de registro, planeación y control de sus actividades;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XXIII. Planear, organizar y coordinar las actividades de desarrollo, implantación, capacitación, operación y mantenimiento de la red de cómputo; y
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+XXIV. Las demás que le confieran las disposiciones legales aplicables o el Director General, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 17.
 
@@ -337,51 +417,59 @@ XI. Coordinar, integrar y ejecutar los presupuestos de ingresos y egresos, y not
 
 XII. Las demás que le confieren las disposiciones legales aplicables ó del Director General, dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 18.
 
-Corresponden a la Unidad de Planeación e Innovación Institucional las siguientes atribuciones:
+Corresponden a la Unidad de Planeación e Innovación Institucional las siguientes atribuciones
 
-I. Realizar estudios para planear el rumbo que tomarán las acciones del Instituto e instrumentar los objetivos de sus programas operativos;
+I. Participar en la integración del Programa Sectorial en coordinación con las instituciones que correspondan, presentando las propuestas que competan de acuerdo a las atribuciones del Instituto;
 
-II. Establecer los lineamientos, normas y políticas, conforme a las cuales se formulará el Programa Operativo Anual;
+II. Integrar y evaluar la ejecución del Programa Institucional de Desarrollo, en coordinación con las unidades administrativas que competan, cuidando atender lo previsto en el Programa Sectorial de acuerdo con las políticas, normas y procedimientos aplicables; e informar de la ejecución al Director General para enterar a la Junta Directiva;
 
-III. Elaborar, en coordinación con las unidades administrativas el Programa Operativo Anual;
+III. Coordinar, controlar y supervisar la formulación, integración y ejercicio del Programa Operativo Anual del Instituto, estableciendo los lineamientos, normas y políticas para formulación, así como revisar sus adecuaciones, asesorando a las diferentes unidades administrativas y áreas responsables de su aplicación, proporcionando la información que solicite al respecto el Director General y la Junta Directiva;
 
-IV. Colaborar en la integración del presupuesto de ingresos y egresos del Instituto;
+IV. Integrar y difundir para su aplicación las políticas, normas y lineamientos para la elaboración, ejercicio y control del presupuesto de ingresos y egresos del Instituto, y colaborar en la integración del presupuesto anual de egresos e ingresos del Instituto;
 
-V. Desarrollar, operar y mantener actualizado el banco de información estadística, para utilizarlo como instrumento para la planeación de los programas del Instituto;
+V. Revisar y entregar al Director General para que las someta a la consideración de la Junta Directiva las transferencias de recursos del presupuesto de egresos autorizado del Instituto e informar, una vez autorizadas por la propia Junta, a la Subdirección de Finanzas para su aplicación correspondiente;
 
-VI. Elaborar y mantener actualizado el Reglamento Interior, los manuales de organización, de procedimientos y de servicios al público, y someterlos a la consideración y, en su caso, aprobación de la Junta Directiva, previa validación de la Secretaría de la Contraloría General;
+VI. Coordinar la información estadística institucional a través del monitoreo de las unidades administrativas y órganos desconcentrados; operar y mantener actualizado el banco de información estadística del Instituto, con el apoyo de los responsables de la producción de los datos e indicadores institucionales; así como proporcionar a las instituciones interesadas la información requerida para la actualización de anuarios estadísticos, datos de la seguridad social y del servicio médico solicitados, informar de ello al Director General para la toma de decisiones;
 
-VII. Integrar la información correspondiente al informe anual del Gobernador del Estado; así como el informe anual que debe rendir el Director General del Instituto;
+VII. Integrar los informes trimestrales y de cierre anual de la Cuenta Pública, para entrega ante la Secretaría de Hacienda;
 
-VIII. Formular y/o diseñar los proyectos institucionales que el resto de las Unidades Administrativas soliciten, así como aquellos que la Dirección General señale y los que las propias necesidades del Instituto requiera;
+VIII. Elaborar y mantener actualizados el Reglamento Interior, los manuales de organización, de procedimientos y de servicios al público, y presentarlos al Director General para que los someta a la consideración y, en su caso, aprobación de la Junta Directiva, previa validación de la Secretaría de la Contraloría General;
 
-IX. Implementar los proyectos necesarios para mejorar la calidad en la prestación de los servicios del Instituto;
+IX. Formular recomendaciones orientadas a racionalizar las estructuras orgánicas y simplificar los procedimientos operativos de las unidades administrativas y órganos desconcentrados, para el desarrollo administrativo y la gestión por procesos;
 
-X. Contribuir en la capacitación del personal del Instituto con el fin de coadyuvar en el fortalecimiento de las competencias para lograr una mejor calidad en los servicios que se prestan;
+X. Conducir el proceso de evaluación del desempeño de los programas, proyectos, procesos y actividades a cargo de las unidades administrativas, órganos desconcentrados y demás áreas integrantes del Instituto, con el fin de analizar y proponer alternativas en el ejercicio del presupuesto de egresos, diseño de programas y proyectos, reingeniería de procesos y actualización de actividades, informando de los resultados al Director General para la toma de decisiones;
 
-XI. Coordinar y verificar la publicación de la información básica que debe ser difundida, esto conforme a lo establecido en el artículo 14 de la Ley número 158 de Acceso a la Información Pública del Estado de Sonora;
+XI. Coordinar la generación de información para la rendición de cuentas dentro del Instituto, que permita la transparencia de los procesos y resultados en materia de seguridad social y del servicio médico que se brinda a los derechohabientes; integrar la información del Instituto correspondiente al informe anual del Gobernador del Estado, así como la concerniente al informe anual que debe rendir el Director General ante la Junta Directiva;
 
-XII. Coordinar y dar seguimiento a la integración de la información requerida para atender el Sistema Integral de Evaluación de la Gestión Pública del Estado de Sonora, esto conforme al artículo 14 de los Lineamientos para la operación del Sistema Integral de Evaluación de la Gestión Pública del Estado de Sonora; y
+XII. Apoyar en la formulación y/o diseño de los proyectos institucionales que las unidades administrativas y órganos desconcentrados elaboren con el fin de dar cumplimiento a sus propias atribuciones; así como apoyar en aquellos que la Dirección General señale y en los que las necesidades del Instituto requiera;
 
-XIII. Las demás que le confieran las disposiciones legales aplicables y el Director General, dentro de la esfera de sus atribuciones.
+XIII. Desarrollar y aplicar el programa de monitoreo y evaluación de las unidades administrativas y órganos desconcentrados, así como de todas las áreas integrantes del Instituto;
+
+XIV. Coordinar la implementación y aplicación de la mejora continua por medio del Sistema de Gestión de la Calidad, supervisando su cumplimiento en el Instituto a través de los procedimientos que el propio sistema de calidad proporciona para su ejecución; entregando los informes correspondientes al Director General para llevar a cabo las revisiones periódicas del mismo, en cumplimiento de las normas de calidad y lineamientos aplicables;
+
+XV. Identificar oportunidades, proponer innovaciones y cambios normativos que permitan la innovación y conducción en procesos administrativos, logísticos y de métodos en servicios de seguridad social y del propio servicio médico que brinda el Instituto;
+
+XVI. Coordinar y verificar la publicación de la información básica que debe ser difundida, esto conforme a lo establecido en el artículo 14 de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Sonora;
+
+XVII. Coordinar y dar seguimiento a la integración de la información requerida para atender el Sistema Integral de Evaluación de la Gestión Pública del Estado de Sonora, esto conforme al artículo 14 de los Lineamientos para la operación del Sistema Integral de Evaluación de la Gestión Pública del Estado de Sonora;
+
+XVIII. Coordinar y dar seguimiento a la integración de la información requerida para atender el Sistema (sic) Información y Acciones de Gobierno del Estado de Sonora (SIA), en cumplimiento de la Ley de Entrega Recepción para el Estado de Sonora;
+
+XIX. Realizar el análisis, la planeación y la evaluación del Plan Maestro de Infraestructura y los espacios para la prestación de los servicios del Instituto, en coordinación con las subdirecciones de Servicios Administrativos, de Prestaciones Económicas y Sociales, y de Servicios Médicos, así como con los órganos desconcentrados del Instituto, y la Comisión Ejecutiva del Fondo de la Vivienda;
+
+XX. Coordinar y dirigir las acciones para la promoción de los valores al interior del Instituto; elaborando en colaboración con las unidades administrativas y órganos desconcentrados los Códigos de Ética y Conducta correspondientes para autorización de la Secretaría de la Contraloría General; mantenerlos actualizados y coordinar la difusión de los mismos con el apoyo de la Unidad de Enlace de Comunicación Social del Instituto;
+
+XXI. Coordinar y evaluar los trabajos de acreditación y certificación de las unidades médicas y, en su caso, de las áreas administrativas que se desarrollen en el Instituto; verificar que éstos se realicen de acuerdo con la normatividad aplicable y plazos establecidos, e informar de los resultados (sic) forma periódica al Director General para implementar los ajustes necesarios; y
+
+XXII. Las demás que le confieran las disposiciones legales aplicables y el Director General, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 19.
 
-Corresponden a la Unidad de Licitaciones las siguientes atribuciones:
-
-I. Planear, organizar y conducir los procesos de licitación pública, simplificada o adjudicación directa para la adquisición de bienes, servicios arrendamientos y obra pública que el Instituto celebre de acuerdo a la normatividad aplicable;
-
-II. Programar, de conformidad con los programas autorizados por el Comité Técnico de Obra Pública y Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto, la realización de licitaciones para la adquisición de bienes, servicios, arrendamientos y contratación de obra pública apegándose a la normatividad;
-
-III. Elaborar y tramitar las convocatorias e invitaciones para la celebración de las licitaciones de adquisición de bienes, servicios, arrendamientos y obra pública que el Instituto celebre, de acuerdo con la normatividad establecida al efecto;
-
-IV. Supervisar, recibir y revisar los dictámenes de las propuestas presentadas por los participantes con motivo de las licitaciones y adjudicaciones directas del Instituto y emitir los fallos de adjudicación correspondientes;
-
-V. Formular lineamientos para la mejora continua de los trámites de licitación o adjudicación directa y someterlos a consideración del Comité Técnico de Obra Pública y Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto para su aprobación; y
-
-VI. Las demás que le confieran las disposiciones legales aplicables y el Director General dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 7 DE MAYO DE 2015)
 
 ###### ARTÍCULO 20.
 
@@ -399,37 +487,25 @@ V. Efectuar la revisión de los convenios, contratos y escrituras notariales en 
 
 VI. Brindar apoyo para la pronta recuperación de los préstamos y adeudos a favor del Instituto de acuerdo con las leyes de la materia;
 
-VII. Participar en la formulación y/o revisión de los anteproyectos de leyes, reglamentos y decretos de la competencia del Instituto; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
-VIII. Las demás que le confieran las disposiciones legales aplicables y la Dirección General, dentro de la esfera de sus atribuciones.
+VII. Participar en la formulación y/o revisión de los anteproyectos de leyes, reglamentos y decretos de la competencia del Instituto;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+VIII. Fungir como Secretario Técnico de la Junta Directiva, llevando la organización de los asuntos a tratar, presentarlos ante el Director General para su integración en el orden del día de las sesiones; así como levantar el acta correspondiente a cada sesión; y
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+IX. Las demás que le confieran las disposiciones legales aplicables y la Dirección General, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 21.
 
-Corresponden a la Unidad de Informática las siguientes atribuciones:
-
-I. Diseñar y desarrollar sistemas informáticos en lenguajes recientes, así como aplicar de manera continua reingeniería a los mismos, en las diferentes áreas que conforman al Instituto;
-
-II. Diseñar sistemas configurables al usuario con la finalidad de que organice, coordine y controle la captación y procesamiento de la información, y genere los reportes que les servirán de apoyo a los titulares de las unidades administrativas y de las distintas áreas, a los derechohabientes y al personal operativo en los procesos de registro, planeación y control de sus actividades;
-
-III. Planear, organizar y coordinar las actividades de desarrollo, implantación, capacitación, operación y mantenimiento de la red de cómputo y de información estadística del Instituto;
-
-IV. Capturar, integrar y sistematizar la información estadística única y oficial del Instituto, con fines de congruencia y homogenización de la información; y
-
-V. Las demás que le confieran las disposiciones legales aplicables y la Dirección General, dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 7 DE MAYO DE 2015)
 
 ###### ARTÍCULO 22.
 
-Corresponden a la Unidad de Vinculación y Atención al Derechohabiente las siguientes atribuciones:
-
-I. Proponer al Director General e instrumentar mecanismos de concertación con el sector social y privado y de coordinación con el sector público para el desarrollo de programas o proyectos sectoriales;
-
-II. Participar en coordinación con las unidades administrativas del Instituto, respecto de la celebración de convenios y acuerdos de colaboración con otras dependencias de la Administración Pública Estatal y con el sector privado y social;
-
-III. Instrumentar y dar seguimiento a los proyectos institucionales definidos por la Dirección General para la atención a las quejas de los derechohabientes y la aplicación de los modelos de atención en los centros hospitalarios para la mejora continua en materia de programación de citas médicas;
-
-IV. Apoyar a la derechohabiencia en la orientación requerida para obtener una atención oportuna y resolver las quejas que éstos presenten, en coordinación con las unidades administrativas responsables en materia del servicio médico y de las prestaciones económicas y sociales; y
-
-V. Las demás que le confieran las disposiciones legales aplicables y la Dirección General, dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 7 DE MAYO DE 2015)
 
 ###### ARTÍCULO 23.
 
@@ -441,9 +517,17 @@ II. Participar ante las instancias de la Secretaría de Comunicación Social;
 
 III. Mantener informadas a las unidades administrativas del Instituto sobre acontecimientos o solicitudes de interés social que atañen a sus áreas;
 
-IV. Proponer a la Dirección General objetivos, políticas, proyectos y procedimientos en materia de comunicación; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
-V. Las demás que le confieran las disposiciones legales aplicables y la Dirección General, dentro de la esfera de sus atribuciones.
+IV. Proponer a la Dirección General objetivos, políticas, proyectos y procedimientos en materia de comunicación;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
+V. Participar en coordinación con las unidades administrativas del Instituto, respecto a la celebración de convenios y acuerdos de colaboración con otras dependencias de la Administración Pública Estatal y con el sector privado y social; y
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+
+VI. Las demás que le confieran las disposiciones legales aplicables y la Dirección General, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VII. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
@@ -451,37 +535,45 @@ V. Las demás que le confieran las disposiciones legales aplicables y la Direcci
 
 Para la eficaz atención y eficiente despacho de los asuntos competencia del Instituto, éste contará con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados y gozarán de autonomía técnica.
 
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-El Centro Médico Dr. Ignacio Chávez en Hermosillo, Sonora, el Hospital Lic. Adolfo López Mateos en Ciudad Obregón, Sonora, el Hospital ISSSTESON en Guaymas, Sonora, el Policlínico Siglo XXI ISSSTESON-SNTE, sección 54 en Navojoa, Sonora, el Policlínico Ciudad Obregón en Ciudad Obregón, Sonora y el Policlínico Huatabampo en Huatabampo, Sonora y el Policlínico Hermosillo en Hermosillo, Sonora son órganos desconcentrados del Instituto y ejercerán las funciones que les confieren específicamente este Reglamento y los ordenamientos jurídicos aplicables.
+El Centro Médico Dr. Ignacio Chávez en Hermosillo, Sonora; el Hospital Lic. Adolfo López Mateos en Ciudad Obregón, Sonora; el Hospital ISSSTESON en Guaymas, Sonora; la Clínica Hospital Nogales en Nogales, Sonora; son órganos desconcentrados del Instituto y ejercerán las funciones que les confieren específicamente este Reglamento y los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 26.
 
-El Centro Médico Dr. Ignacio Chávez en Hermosillo, Sonora, proporcionará consulta externa general, de especialidad, odontológica y de urgencias; servicio médico de hospitalización y quirúrgico, de primero, segundo y tercer nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; así como las normas técnicas expedidas para uso en la materia; el Reglamento de Servicios Médicos y toda reglamentación adicional que el Instituto emita en este sentido.
+El Centro Médico Dr. Ignacio Chávez en Hermosillo, Sonora, proporcionará consulta externa de especialidad, odontológica y de urgencias; servicio médico de hospitalización y quirúrgico, de segundo y tercer nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; en las normas técnicas expedidas para uso en la materia, el Reglamento de Servicios Médicos y en toda reglamentación adicional que el Instituto emita en este sentido.
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 27.
 
-El Hospital Lic. Adolfo López Mateos en Ciudad Obregón, Sonora, proporcionará consulta externa general, de especialidad, odontológica y de urgencias; servicio médico de hospitalización y quirúrgico, de primero y segundo nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; así como las normas técnicas expedidas para uso en la materia; el Reglamento de Servicios Médicos y toda reglamentación adicional que el Instituto emita en este sentido.
+El Hospital Lic. Adolfo López Mateos en Ciudad Obregón, Sonora, proporcionará consulta externa de especialidad, odontológica y de urgencias; servicio médico de hospitalización y quirúrgico, de segundo nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; en las normas técnicas expedidas para uso en la materia, el Reglamento de Servicios Médicos y en toda reglamentación adicional que el Instituto emita en este sentido.
 
 ###### ARTÍCULO 28.
 
 El Hospital ISSSTESON en Guaymas, Sonora, proporcionará consulta externa general, de especialidad, odontológica y de urgencias; servicio médico de hospitalización y quirúrgico, de primero y segundo nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; así como las normas técnicas expedidas para uso en la materia; el Reglamento de Servicios Médicos y toda reglamentación adicional que el Instituto emita en este sentido.
 
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 29.
 
-El Policlínico Siglo XXI ISSSTESON-SNTE, sección 54 en Navojoa, Sonora, proporcionará consulta externa general, de especialidad, odontológica de primer nivel de atención a la población derechohabiente. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; así como las normas técnicas expedidas para uso en la materia; el Reglamento de Servicios Médicos y toda reglamentación adicional que el Instituto emita en este sentido.
+La Clinica Hospital Nogales en Nogales, Sonora, proporcionará consulta externa general, de especialidad, odontológica y de urgencias; servicio médico de hospitalización y quirúrgico, de primero y segundo nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; en las normas técnicas expedidas para uso en la materia, el Reglamento de Servicios Médicos y en toda reglamentación adicional que el Instituto emita en este sentido.
 
 ###### ARTÍCULO 30.
 
-El Policlínico Ciudad Obregón en Ciudad Obregón, Sonora, proporcionará consulta externa general, de especialidad, odontológica de primer nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; así como las normas técnicas expedidas para uso en la materia; el Reglamento de Servicios Médicos y toda reglamentación adicional que el Instituto emita en este sentido.
+(DEROGADO, B.O. 7 DE MAYO DE 2015)
 
 ###### ARTÍCULO 31.
 
-El Policlínico Huatabampo en Huatabampo, Sonora, proporcionará consulta externa general, de especialidad, odontológica de primer nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; así como las normas técnicas expedidas para uso en la materia; el Reglamento de Servicios Médicos y toda reglamentación adicional que el Instituto emita en este sentido.
+(DEROGADO, B.O. 7 DE MAYO DE 2015)
 
 ###### ARTÍCULO 32.
 
-El Policlínico Hermosillo en Hermosillo, Sonora, proporcionará consulta externa general, de especialidad, odontológica de primer nivel de atención a la población derechohabiente del Instituto. Además de las atribuciones mencionadas, le corresponden aquellas que se señalen en la normatividad aplicable en materia de salud, tanto general como estatal; así como las normas técnicas expedidas para uso en la materia; el Reglamento de Servicios Médicos y toda reglamentación adicional que el Instituto emita en este sentido.
+(DEROGADO, B.O. 7 DE MAYO DE 2015)
 
 ### CAPÍTULO VIII. DEL CONTROL Y VIGILANCIA
 
@@ -590,3 +682,15 @@ Lic. Raúl Enrique Romero Denogean
 Secretario Técnico
 
 > <small>N. DE E. VÉASE ORGANIGRAMA ESTRUCTURAL EN LA SECCIÓN II DEL B.O. DE 1 DE ABRIL DE 2013, PÁGINA 15.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 7 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público del Instituto generadas con motivo del presente Acuerdo deberán expedirse dentro de los sesenta días posteriores a la publicación del mismo en el órgano oficial de difusión mencionado en el artículo anterior. El Director General del Instituto queda facultado para resolver las cuestiones que se presenten relacionadas con los manuales administrativos en tanto éstos se expiden.
