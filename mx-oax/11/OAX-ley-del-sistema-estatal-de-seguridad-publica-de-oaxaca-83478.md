@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2014-10-20"
+last_updated: "2015-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -43,23 +43,43 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA.
 
 La presente Ley es de orden público e interés social, de observancia general en el Estado de Oaxaca, y tiene por objeto establecer y desarrollar las bases de aplicación del Sistema Estatal de Seguridad Pública, y de coordinación entre el Estado y los Municipios y regular la función de seguridad pública.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 2.
 
-La seguridad pública es una función a cargo del Estado y de los Municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, y comprende la prevención especial y general de los delitos, la investigación y la persecución para hacerla efectiva, la sanción de las infracciones administrativas, y la reinserción social del individuo, en términos de esta Ley, en las respectivas competencias establecidas en las Constituciones Federal y Particular del Estado.
+La seguridad pública es una función a cargo del Estado y de los Municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, y comprende la prevención especial y general de los delitos, la investigación y la persecución para hacerla efectiva, la sanción de las infracciones administrativas, y la reinserción social de las personas, en términos de esta Ley, en las respectivas competencias establecidas en las Constituciones Federal y Estatal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instituciones responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instituciones responsables de la prisión preventiva, ejecución de penas y medidas de seguridad de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 4.
 
-Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a las garantías individuales y los derechos humanos reconocidos en las Constitución Política Federal y Particular del Estado.
+Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en las Constituciones Federal y Estatal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 5.
 
-Corresponde al Estado la implementación, supervisión desarrollo y coordinación del Sistema Estatal de Seguridad Pública de Oaxaca, en un marco de respeto a las atribuciones de los Municipios, para lo cual desarrollará políticas en materia de prevención del delito con carácter integral, sobre las causas y factores que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+Corresponde al Estado la implementación, supervisión, desarrollo y coordinación del Sistema Estatal de Seguridad Pública de Oaxaca, en un marco de respeto a las atribuciones de los Municipios, para lo cual desarrollará políticas en materia de prevención del delito con carácter integral, sobre las causas y factores que generan éste y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y protección de las víctimas y grupos vulnerables.
 
-Las autoridades del Estado y los Municipios en el ámbito de sus respectivas competencias desarrollarán programas para la prevención del delito y la participación de la comunidad, la promoción, atención de la denuncia ciudadana y la denuncia anónima, la investigación, persecución y sanción de las infracciones y los delitos, así como la reinserción social del delincuente y el tratamiento de adolescentes en conflicto con las leyes penales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Las autoridades del Estado y los Municipios en el ámbito de sus respectivas competencias desarrollarán programas para la prevención del delito y la participación de la comunidad, la promoción, atención de la denuncia ciudadana y la denuncia anónima, la investigación, persecución y sanción de las infracciones y los delitos, así como la reinserción social del sentenciado y el tratamiento de adolescentes que intervengan en la comisión de hechos con carácter delictuoso y la promoción de respeto a los grupos vulnerables.
 
 ###### Artículo 6.
 
@@ -95,9 +115,17 @@ XII. Consejos Regionales, a los Consejos Regionales de Seguridad Pública;
 
 XIII. Instancias Intermunicipales, a las Instancias Intermunicipales de Seguridad pública;
 
-XIV. Instituciones Policiales, a las Instituciones Policiales, Estatales y Municipales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Instituciones de Procuración de Justicia, a las Instituciones del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XIV. Instituciones Policiales, a la Policía Estatal; a los Cuerpos de Vigilancia y Custodia de Establecimientos Penitenciarios; de Detención Preventiva; del Órgano Desconcentrado Policía auxiliar, bancaria, industrial y comercial de la Secretaria de Seguridad pública; el Heroico Cuerpo de Bomberos; así como, las demás corporaciones policiales de la Secretaria de Seguridad Pública; la Agencia Estatal de Investigaciones de la Procuraduría General de Justicia del Estado de Oaxaca y las policías municipales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XV. Instituciones de Procuración de Justicia, a las instituciones del Estado que integran al ministerio público, al Instituto de servicios periciales y demás auxiliares;
 
 XVI. Institutos, a los órganos encargados de la formación; capacitación, adiestramiento y actualización especializada, de las Instituciones de Seguridad Pública del Estado;
 
@@ -133,11 +161,21 @@ XXIX. Sistema Nacional, al Sistema Nacional de Seguridad Pública, y
 
 XXX. Sistema de Información, al Sistema Estatal de Información Policial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXXI. Instituciones de Seguridad Pública, A las Instituciones Policiales, de Procuración de Justicia y Dependencias encargadas de la Seguridad Pública a Nivel Estatal y Municipal.
+
 ###### Artículo 8.
 
 Para el cumplimiento de los fines de la seguridad pública, las Instituciones de Seguridad Pública Estatales se coordinarán a efecto de:
 
-I. Desarrollar las bases generales de coordinación entre el Estado de Oaxaca, la Federación, las Entidades Federativas y los Municipios del Estado, en un marco de respeto de sus respectivas competencias, para contribuir al desarrollo y fortalecimiento del Sistema Nacional de Seguridad Publica;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Desarrollar las bases generales de coordinación del Estado de Oaxaca con sus municipios, las Entidades Federativas y la federación, en un marco de respeto de sus respectivas competencias, para contribuir al desarrollo y fortalecimiento del Sistema Nacional de Seguridad Publica;
 
 II. Integrar y participar en el Consejo Estatal;
 
@@ -183,7 +221,11 @@ A falta de previsión expresa en la presente Ley, se estará a las siguientes re
 
 I. Respecto del apoyo y coordinación interinstitucional de los tres órdenes de gobierno, se estará a lo dispuesto en la Ley General, y a las resoluciones y acuerdos emitidos por el Consejo Nacional de Seguridad Pública y el Consejo Estatal de Seguridad Pública;
 
-II. En materia de procedimientos administrativos de carrera policial y del régimen disciplinario, el Código de Procedimientos Civiles del Estado de Oaxaca y la Ley de Justicia Administrativa para el Estado de Oaxaca, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. En materia de procedimientos administrativos de carrera policial y del régimen disciplinario, la Ley de Justicia Administrativa para el Estado de Oaxaca, y en su defecto el Código de Procedimientos Civiles del Estado de Oaxaca
 
 III. Los principios generales del derecho.
 
@@ -263,7 +305,11 @@ d) Centro de Investigación y Seguridad Nacional; y
 
 e) Secretaría de Seguridad Pública.
 
-Asimismo el Presidente de la Comisión Estatal para la Defensa de los Derechos Humanos, será invitado permanente de este Consejo Estatal. El Consejo Estatal podrá invitar, con derecho a voz, pero sin derecho a voto, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Asimismo el titular de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, será invitado permanente de este Consejo Estatal. El Consejo Estatal podrá invitar, con derecho a voz, pero sin derecho a voto, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
 
 Los cargos en el Consejo Estatal serán honoríficos, excepto el del Secretario Ejecutivo.
 
@@ -279,7 +325,11 @@ I. Establecer los instrumentos y políticas públicas integrales, sistemáticas,
 
 II. Emitir acuerdos y resoluciones generales, para la organización y funcionamiento del Sistema Estatal;
 
-III. Promover la implementación de políticas en materia de atención a las víctimas del delito, salvaguardando sus garantías individuales y derechos humanos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. Promover la implementación de políticas en materia de atención a las víctimas del delito y grupos vulnerables, salvaguardando sus derechos humanos y garantías;
 
 IV. Proponer los programas en materia de seguridad pública, de procuración de justicia y de prevención del delito;
 
@@ -323,9 +373,13 @@ El Consejo Estatal podrá funcionar en pleno o en las comisiones previstas en es
 
 El quórum para las reuniones del Consejo Estatal se integrará con la mitad más uno de sus integrantes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 20.
 
-Para el conocimiento de las distintas materias de coordinación a que se refiere esta Ley, el Consejo Estatal, podrá crear comisiones especiales permanentes o temporales para estudiar, proponer y evaluar políticas, planes, programas y acciones en materia de prevención de delitos, combate e investigación de las faltas administrativas y delitos; transito y educación vial; reinserción social; derechos humanos; de orientación, protección y tratamiento de adolescentes; de procuración e impartición de justicia; de participación municipal, de consulta y participación ciudadana en seguridad pública; así como aquellas que se determinen de acuerdo a las necesidades que se tengan para atender la seguridad pública.
+Para el conocimiento de las distintas materias de coordinación a que se refiere esta Ley, el Consejo Estatal, podrá crear comisiones especiales permanentes o temporales para estudiar, proponer y evaluar políticas, planes, programas y acciones en materia de prevención de delitos, combate e investigación de las faltas administrativas y delitos; tránsito y educación vial; reinserción social; derechos humanos; de orientación, protección y tratamiento de adolescentes; de procuración e impartición de justicia; de participación municipal, de consulta y participación ciudadana en seguridad pública; así como aquellas que se determinen de acuerdo a las necesidades que se tengan para atender la seguridad pública.
 
 ###### Artículo 21.
 
@@ -741,7 +795,11 @@ Los cargos en el Consejo Municipal serán de carácter honoríficos.
 
 El Gobernador del Estado en materia de seguridad pública, tiene las atribuciones siguientes:
 
-I. Definir las políticas de seguridad pública en el Estado y emitir las directrices necesarias para la aplicación de las políticas y estrategias del Sistema, a fin de mantener el orden, preservar la paz, la tranquilidad y la seguridad del Estado, así como salvaguardar la integridad, las garantías individuales y los derechos humanos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Definir las políticas de seguridad pública en el Estado y emitir las directrices necesarias para la aplicación de las políticas y estrategias del Sistema, a fin de mantener el orden, preservar la paz, la tranquilidad y la seguridad del Estado, así como salvaguardar la integridad de las personas sus derechos humanos y garantías.
 
 II. Ejercer el mando de las instituciones de seguridad pública y el de las policías municipales en términos de la Constitución particular y de la presente Ley;
 
@@ -749,7 +807,11 @@ III. Implementar, supervisar y desarrollar los sistemas de seguridad pública es
 
 IV. Celebrar convenios y acuerdos con la Federación, las Entidades Federativas y Municipios, para mejorar la función de seguridad pública y operación del Sistema Estatal de Seguridad Pública, conforme a la Ley General, la Constitución Particular, la Ley Orgánica del Poder Ejecutivo del Estado, esta Ley, y demás disposiciones jurídicas aplicables;
 
-V. Formar parte y presidir en el Consejo Estatal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+V. Formar parte y presidir el Consejo Estatal;
 
 VI. Proveer en su esfera administrativa, la exacta observancia de esta Ley;
 
@@ -771,7 +833,11 @@ XIV. Presentar al Consejo Nacional las propuestas de programas, estrategias y ac
 
 XV. Implementar las medidas necesarias para hacer efectiva la coordinación en materia de seguridad pública, así como la ejecución de las políticas y acciones adoptadas por el Consejo Estatal, y
 
-XVI. Todas aquellas que le confiere la Constitución Federal, la Constitución Estatal, la Ley General, la presente Ley, y demás ordenamientos legales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XVI. Todas aquellas que le confiere la Constitución Federal, la Constitución particular, la Ley General, la presente Ley, y demás ordenamientos legales.
 
 El Gobernador del Estado podrá delegar las atribuciones a que se refiere este artículo al Secretario, a excepción de las previstas en las fracciones I, II, III, VII y XV, que son exclusivas del Titular del Ejecutivo Estatal.
 
@@ -833,9 +899,29 @@ XXIV. Administrar el sistema estatal penitenciario; así como organizar y dirigi
 
 XXV. Establecer y operar los procedimientos de administración, seguridad, control y de apoyo logístico del sistema estatal penitenciario, definiendo esquemas de supervisión, registro y verificación, así como estrategias de intervención y de apoyo táctico operativo;
 
-XXVI. Promover métodos para la reintegración social y familiar de los menores sujetos al Sistema de Justicia para Adolescentes; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVII. Las demás que con este carácter le confieran otras disposiciones aplicables o le encomiende el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXVI. Promover métodos para la reintegración social y familiar de los niños, niñas y adolescentes sujetos al Sistema de Justicia para Adolescentes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXVII. Organizar y operar la Unidad de Medidas Cautelares, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales y demás normatividad aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXVIII. Ordenar y administrar a las instituciones policiales de la Secretaria, para que proporcionen servicios a la autoridad judicial y ministerial correspondiente, cuando éstas los soliciten, en las diversas etapas del procedimiento penal acusatorio, de conformidad con la normatividad aplicable
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXIX. Las demás que con este carácter le confieran otras disposiciones aplicables o le encomiende el Gobernador del Estado.
 
 El Secretario podrá delegar las facultades necesarias, con excepción de las enumeradas en las fracciones I a V, de la VIII a la XVI, XIX y XXIV, a favor de los servidores públicos correspondientes; asimismo, podrá adscribir orgánicamente las unidades administrativas y órganos administrativos desconcentrados que se establezcan en su reglamento, a través de los acuerdos correspondientes, que deberán publicarse en el Periódico Oficial del Estado.
 
@@ -859,7 +945,17 @@ III. Subsecretaría de Prevención y Reinserción Social;
 
 a) Dirección General de Prevención del Delito, y Participación Ciudadana;
 
-b) Dirección General de Reinserción Social
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+b) Dirección General de Reinserción Social; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+c) Unidad de Medidas Cautelares
 
 IV. Oficialía Mayor;
 
@@ -885,11 +981,19 @@ Asimismo, para el ejercicio de sus funciones, la Secretaría contará con subsec
 
 Corresponde a la Policía Estatal:
 
-I. Salvaguardar la integridad y bienes de las personas, las garantías individuales y los derechos humanos. Así como prevenir la comisión de delitos, en los caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal y en todo el territorio del Estado en el ámbito de su competencia, así como en las instalaciones estratégicas del Gobierno de la Entidad, de conformidad con las disposiciones legales aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Salvaguardar la integridad y bienes de las personas, sus derechos humanos y garantías. Así como prevenir la comisión de delitos, en los caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal y en todo el territorio del Estado en el ámbito de su competencia, así como en las instalaciones estratégicas del Gobierno del Estado, de conformidad con las disposiciones legales aplicables;
 
 II. Prevenir las faltas administrativas que determinen las leyes, reglamentos y demás disposiciones aplicables;
 
-III. Realizar investigaciones para la prevención del delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. Investigar bajo la conducción y mando del Ministerio Publico los hechos posiblemente constitutivos de delito;
 
 IV. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, en términos de la legislación adjetiva penal vigente;
 
@@ -905,15 +1009,27 @@ IX. Realizar bajo la conducción jurídica del Ministerio Público, la investiga
 
 X. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Federal;
 
-XI. Participar en la investigación ministerial, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos. Así como practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XI. Participar en la investigación ministerial, bajo la dirección y mando del Ministerio Público, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos. Así como practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Publico;
 
 XII. Efectuar las detenciones conforme lo dispuesto en el artículo 16 de la Constitución Federal y 7 de la Constitución Particular, conforme a la legislación procesal penal aplicable;
 
-XIII. Poner a disposición sin demora de las autoridades competentes, a personas y bienes en los casos en que por motivo de sus funciones practique alguna detención, o lleve a cabo algún aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XIII. Poner a disposición de las autoridades competentes, sin demora, a personas y bienes en los casos en que por motivo de sus funciones practique alguna detención o aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos legales;
 
 XIV. Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones del Centro Nacional de Información, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
 
-XV. Se sujetaran en los lineamientos para la preservación del lugar de los hechos y/o lugar del hallazgo, la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o producto del delito para impedir que se destruyan o alteren. Las unidades de policía especializadas y facultadas para llevar a cabo el procesamiento del lugar de los hechos y resguardo de los indicios deberán cumplir con las disposiciones aplicables y relativas a la cadena de custodia, conforme al acuerdo que emita la Procuraduría General de Justicia del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XV. Se sujetará a los lineamientos para la preservación del lugar de los hechos y/o lugar del hallazgo, la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o producto del delito para impedir que se destruyan o alteren. Las unidades de policía especializadas y facultadas para llevar a cabo el procesamiento del lugar de los hechos y resguardo de los indicios deberán cumplir con las disposiciones aplicables y relativas a la cadena de custodia, conforme al acuerdo que emita la Procuraduría General de Justicia del Estado;
 
 XVI. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación ministerial deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
 
@@ -933,27 +1049,53 @@ d) Preservar los indicios y elementos de prueba que la víctima u ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+f) Cuidar la inalterabilidad de la cadena de custodia y demás procedimientos en que participe conforme al Código Nacional de Procedimientos Penales.
+
 XX. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
 
 XXI. Entrevistar a las personas que pudieran aportar información o elementos de prueba para la investigación en caso de flagrancia o por mandato del Ministerio Público, en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia y se utilizarán meramente como un registro de la investigación, que para tener valor probatorio, deberán ser ratificadas ante la autoridad ministerial o judicial;
 
-XXII. Reunir la información que pueda ser útil al Ministerio Público que conozca del asunto, para acreditar la probable responsabilidad del imputado, conforme a las instrucciones de aquél;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXII. Reunir la información que pueda ser útil al Ministerio Público que conozca del asunto, para esclarecimiento del hecho delictuoso y la probable responsabilidad del imputado, conforme a las instrucciones de aquél;
 
 XXIII. Incorporar a las bases de datos criminalísticas y de personal de la Secretaría y del Sistema Estatal de Información sobre Seguridad Pública, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, sin afectar el derecho de las personas sobre sus datos personales;
 
-XXIV. Colaborar, cuando así lo soliciten las autoridades Estatales y Federales, en un marco de respeto a sus respectivas atribuciones que la Ley les confiere;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXIV. Colaborar, con las autoridades Estatales y Federales, cuando así lo soliciten, en un marco de respeto a sus respectivas atribuciones que la Ley les confiere;
 
 XXV. Solicitar a través del Ministerio Público, previa autorización del Juez competente, en estricto apego a lo dispuesto en el artículo 16, de la Constitución Federal, a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como georreferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de sus fines de prevención de los delitos;
 
 XXVI. Coordinarse con las autoridades Federales, Estatales y Municipales, para el intercambio de información contenidas en documentos, bases de datos y todo tipo de sistemas de información, útil para el desempeño de sus funciones, en los términos establecidos por el Sistema Nacional de Seguridad Pública;
 
-XXVII. Participar, en el ámbito de competencia de la Policía Estatal, en operativos conjuntos con otras autoridades Federales, Estatales o Municipales, de conformidad con dispuesto en la legislación respectiva;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVIII. Colaborar, cuando sea formalmente requerida, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden públicos;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXVII. Participar, en el ámbito de su competencia, en operativos conjuntos con otras autoridades Federales, Estatales o Municipales, de conformidad con lo dispuesto en la legislación respectiva;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXVIII. Colaborar, cuando sea formalmente requerida, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden público;
 
 XXIX. Obtener, analizar y procesar información, así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes respectivas;
 
-XXX. Vigilar, supervisar, asegurar y custodiar, a solicitud de la autoridad competente, las instalaciones de los centros de detención, reclusión, readaptación y reinserción social, con apego a los derechos humanos reconocidos en la Constitución Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXX. Vigilar, supervisar, asegurar y custodiar, a solicitud de la autoridad competente, las instalaciones de los centros de detención, reclusión y reinserción social, con apego a los derechos humanos reconocidos en la Constitución Federal y los Tratados Internacionales de la materia en los que el Estado Mexicano sea parte;
 
 XXXI. Levantar las infracciones e imponer las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito de vehículos en el Estado, así como a la operación de los servicios de autotransporte estatal, sus servicios auxiliares y transporte privado cuando circulen en el territorio del Estado;
 
@@ -975,13 +1117,21 @@ El Comisionado será el titular de la Policía Estatal y llevará a cabo las atr
 
 ## TÍTULO QUINTO. DE LA SEGURIDAD PÚBLICA EN LOS MUNICIPIOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 48.
 
-Los Municipios que forman parte integrante del Estado de Oaxaca participaran en el desarrollo de la seguridad pública, en los términos previstos por el artículo 21 de la Constitución Federal y 21 de la Constitución Particular.
+Los Municipios que forman parte integrante del Estado de Oaxaca participarán en el desarrollo de la seguridad púbica, en los términos previstos por el artículo 21 de la Constitución Federal y 21 de la Constitución Particular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 49.
 
-Los Municipios salvaguardaran la integridad, el patrimonio, garantías individuales y derechos humanos, así como preservar las libertades, el orden y la paz públicos en toda su jurisdicción territorial.
+Los Municipios salvaguardarán la integridad de las personas, su patrimonio, sus derechos humanos y garantías, así como preservar las libertades, el orden y la paz públicos en toda su jurisdicción territorial.
 
 ###### Artículo 50.
 
@@ -1005,7 +1155,11 @@ El servidor público que tenga a su cargo el mando directo de la fuerza pública
 
 El Gobernador del Estado, será informado frecuentemente por los Presidentes Municipales sobre la situación que guarda la seguridad pública en sus respectivos Municipios, sin perjuicio de:
 
-I. Mantener el orden público y garantizar la seguridad de las personas y sus bienes y derechos humanos, podrá instruir a los Presidentes Municipales sobre:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Mantener el orden público y garantizar la seguridad de las personas, sus bienes y derechos humanos, podrá instruir a los Presidentes Municipales sobre:
 
 a) La disposición de la fuerza pública, y
 
@@ -1023,9 +1177,17 @@ Son facultades de la Policía Preventiva Municipal en materia de seguridad públ
 
 I. Mantener la tranquilidad, la seguridad y el orden público en su jurisdicción territorial;
 
-II. Prevenir la comisión de delitos e infracciones administrativas, y proteger la integridad de las personas, a sus bienes y derechos humanos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Ejecutar las acciones y programas estatales, regionales e intermunicipales en materia seguridad pública;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. Prevenir la comisión de delitos e infracciones administrativas, y proteger la integridad de las personas, sus bienes y derechos humanos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. Ejecutar las acciones y programas estatales, regionales e intermunicipales en materia de seguridad pública;
 
 IV. Cuidar que se inscriba de manera inmediata en el Registro Estatal de Información sobre seguridad pública, los arrestos administrativos preventivos de personas infractoras de las leyes;
 
@@ -1113,7 +1275,11 @@ XIII. Las demás atribuciones específicas que se establezcan en la Ley y demás
 
 Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los Integrantes de las Instituciones de Seguridad Pública se sujetarán a las siguientes obligaciones:
 
-I. Conducirse siempre con dedicación, disciplina, apego al orden jurídico, respeto a las garantías individuales y derechos humanos reconocidos en la Constitución Federal y la Constitución Particular;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Conducirse siempre con dedicación, disciplina, apego al orden jurídico, respeto a los derechos humanos y sus garantías reconocidos en la Constitución Federal y la Constitución Particular;
 
 II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
 
@@ -1121,7 +1287,11 @@ III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan si
 
 IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
 
-V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
 
 VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
@@ -1165,21 +1335,37 @@ XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos
 
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
 
-XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-XXVIII. Los uniformes de los integrantes de instituciones de Seguridad Pública deberán ser de color azul marino o en su caso de colores oscuros. Los vehículos policiales tendrán las mismas características que los uniformes y portarán el Escudo del Gobierno del Estado, debiendo rotular un número telefónico para que la ciudadanía pueda reportar sus quejas. Queda estrictamente prohibido utilizar en ellos colores o emblemas o logotipos similares o que tengan parecido con los de las organizaciones o partidos políticos, y
+XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXVIII. Los uniformes de los integrantes de instituciones de Seguridad Pública deberán ser de color azul marino o en su caso de colores oscuros. Los vehículos policiales tendrán las mismas características que los uniformes y portarán el Escudo del Gobierno del Estado, debiendo rotular un número telefónico para que la ciudadanía pueda reportar sus quejas. Queda estrictamente prohibido utilizar en ellos colores, emblemas o logotipos similares o que tengan parecido con los de las organizaciones o partidos políticos, y
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
 
 XXIX. Las demás que establezcan las disposiciones legales aplicables.
 
-Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna, con respeto a las garantías y derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna, con respeto a los derechos humanos y sus garantías.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 58.
 
-El documento de identificación de los Integrantes de las Instituciones de Seguridad Pública deberá contener nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como, las medidas de seguridad que todo servidor público tiene la obligación de identificarse salvo en los casos previstos en la Ley, a fin de que el ciudadano se cerciore que cuenta con el registro correspondiente que lo acredita como servidor público.
+El documento de identificación de los Integrantes de las Instituciones de Seguridad Pública deberá contener nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública que garanticen su autenticidad.
+
+Todo servidor público tiene la obligación de identificarse salvo en los casos previstos en la Ley, a fin de que el ciudadano se cerciore que cuenta con el registro correspondiente que lo acredita como servidor público.
 
 ###### Artículo 59.
 
@@ -1249,9 +1435,17 @@ XVII. Las demás que establezcan las disposiciones legales aplicables.
 
 El Servicio de Carrera en la Procuraduría, comprenderá lo relativo al Ministerio Público y a los peritos.
 
-La policía ministerial se sujetará a lo dispuesto en esta Ley, para las Instituciones Policiales en materia de carrera policial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las reglas y procesos en materia de carrera policial y régimen disciplinario de la policía ministerial, serán aplicados, operados y supervisados por la Procuraduría.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+La Agencia Estatal de Investigaciones se sujetará a lo dispuesto en esta Ley, para las Instituciones Policiales en materia de carrera policial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Las reglas y procesos en materia de carrera policial y régimen disciplinario de la Agencia Estatal de Investigaciones, serán aplicados, operados y supervisados por la Procuraduría.
 
 Los servidores públicos que estén bajo el mando de agentes del Ministerio Público o peritos, serán nombrados y removidos conforme a los ordenamientos legales aplicables; se considerarán trabajadores de confianza y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
 
@@ -1301,7 +1495,11 @@ Los aspirantes a ingresar a la Procuraduría, deberán cumplir, con los requisit
 
 A. Ministerio Público.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
 II. Contar con título de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional;
 
@@ -1319,7 +1517,11 @@ VIII. Presentar y aprobar las evaluaciones de control de confianza.
 
 B. Peritos.
 
-I. Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
 
@@ -1485,15 +1687,25 @@ Los Integrantes de las Instituciones Policiales podrán ser separados de su carg
 
 Tal circunstancia será inscrita en el Registro Nacional de Personal de Seguridad Pública.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 86.
 
-La Policía Estatal, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
+La función básica de las instituciones policiales es prevenir el crimen, preservar la paz y el orden público, para lo cual tendrá las siguientes atribuciones:
 
-I. Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
+I. Prevención: consistente en llevar a cabo las acciones necesarias para evitar la comisión de delitos e infracciones administrativas, y, en sus circunscripciones, realizar acciones de inspección, vigilancia y vialidad;
 
-II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, y
+II. Atención a víctimas u ofendidos del delito: proporcionar auxilio en los términos que señalan el Código Nacional de Procedimientos Penales y la normatividad aplicable;
 
-III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
+III. Investigación: que tendrá por objeto la recolección, clasificación, registro, análisis, evaluación y explotación de información con el fin de prevenir el delito o identificar las conductas delictivas y ubicar a los probables responsables;
+
+IV. Reacción: que tendrá por objeto garantizar, mantener y restablecer la paz y el orden públicos, además de ejecutar los mandamientos ministeriales y judiciales;
+
+V. Custodia: que implica la protección de los internos de los centros de reinserción social e internamiento para adolescentes, así como de los intervinientes en el proceso penal y, de requerirse el traslado y la vigilancia de los imputados, del personal de los tribunales y sus instalaciones, y
+
+VI. Las que le señalen las demás disposiciones normativas aplicables.
 
 ###### Artículo 87.
 
@@ -1513,11 +1725,19 @@ La unidad de policía encargada de la investigación ubicada dentro de la estruc
 
 Las unidades operativas de investigación tendrán entre otras, las siguientes atribuciones:
 
-I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, sólo cuando debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas y dejarán de actuar cuando él lo determine;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito, llevar a cabo las diligencias de investigación urgentes e informar de inmediato al Ministerio Público, para que continúe con la misma bajo su conducción y mando o en su defecto, dejen de actuar si así lo determina.
 
 II. Verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público para que, en su caso, le dé trámite legal o la deseche de plano;
 
-III. Practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. Practicar las diligencias necesarias que permitan el esclarecimiento de los hechos que puedan ser constitutivos de delitos y la identidad de los probables responsables, por si o en cumplimiento de los mandatos del Ministerio Público;
 
 IV. Efectuar las detenciones en los casos previstos en el artículo 14 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
@@ -1527,7 +1747,11 @@ VI. Registrar de inmediato la detención en términos de las disposiciones aplic
 
 VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
 
-VIII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Las unidades de la Policía facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme a las instrucciones de éste y en términos de las disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VIII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Las unidades de la Policía facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, Cuidar la inalterabilidad de la cadena de custodia conforme a las instrucciones de éste y en términos de las disposiciones aplicables;
 
 IX. Proponer al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
 
@@ -1543,7 +1767,11 @@ b) Procurar que reciban atención médica y psicológica cuando sea necesaria;
 
 c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
 
-d) Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+d) Preservar los indicios y elementos de prueba que la víctima u ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
@@ -1695,7 +1923,11 @@ Son requisitos de ingreso y permanencia en las Instituciones Policiales, los sig
 
 A. De Ingreso:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
 
 II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
@@ -1867,11 +2099,15 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 La actuación de los Integrantes de las Instituciones Policiales se regirá por los principios previstos en el artículo 21 de la Constitución Federal, en concordancia con el diverso 21 de la Constitución Particular, y 4 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ### CAPITULO IV. DE LOS DERECHOS Y DEBERES DE LOS INTEGRANTES DE LAS INSTITUCIONES POLICIALES
 
 ###### Artículo 111.
 
-Los elementos de las Instituciones Policiales, en todos sus niveles jerárquicos observarán la disciplina como la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus Integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética. Las Instituciones Policiales exigirán de sus integrantes el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad, los bienes garantías individuales y los derechos humanos de las personas, prevenir la comisión de delitos y preservar las libertades, el orden y la paz públicos; por lo que podrán ser objeto de la imposición de correctivos disciplinarios y sanciones, por incumplimiento a los principios de actuación previstos en el artículo 21 de la Constitución Federal y de los deberes y obligaciones establecidos en la esta Ley.
+Los elementos de las Instituciones Policiales, en todos sus niveles jerárquicos observarán la disciplina como la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus Integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética. Las Instituciones Policiales exigirán de sus integrantes el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad, los bienes, los derechos humanos y garantías de las personas, prevenir la comisión de delitos y preservar las libertades, el orden y la paz públicos; por lo que podrán ser objeto de la imposición de correctivos disciplinarios y sanciones, por incumplimiento a los principios de actuación previstos en el artículo 21 de la Constitución Federal y de los deberes y obligaciones establecidos en esta Ley.
 
 ###### Artículo 112.
 
@@ -1891,25 +2127,37 @@ II. Suspensión, y
 
 III. Remoción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 113.
 
-Si la autoridad jurisdiccional resolviere que la remoción, fue injustificada, el Estado o los Municipios, sólo estarán obligados a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+Si la autoridad jurisdiccional resolviere que la remoción fue injustificada, el Estado o los Municipios, sólo estarán obligados a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 ###### Artículo 114.
 
 Los correctivos disciplinarios, serán aplicados por el superior inmediato en la línea o cadena de mando respectiva, mediante mecanismos ágiles y sencillos, sin que esto implique arbitrariedad en el ejercicio de esta facultad, por lo que su contravención podrá ser objeto de sanción en términos de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 115.
 
-Se podrá decretar como medida cautelar la suspensión preventiva de funciones al elemento que se encuentre sujeto a investigación administrativa o averiguación previa, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar al Cuerpo de Policía Estatal o Municipal, y a la comunidad en general, decretada por la autoridad que conozca del procedimiento interno, bajo la única condicionante de que la orden que la decrete se encuentre debidamente fundada y motivada.
+Se podrá decretar como medida cautelar la suspensión preventiva de funciones al elemento que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar las instituciones Policiales Estatales y Municipales, y a la comunidad en general, decretada por la autoridad que conozca del procedimiento interno, bajo la única condicionante de que la orden que la decrete se encuentre debidamente fundada y motivada.
 
 ###### Artículo 116.
 
 La suspensión preventiva subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente, de conformidad a lo establecido en la Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 117.
 
-En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
+En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión preventiva y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
 
 ###### Artículo 118.
 
@@ -1951,7 +2199,11 @@ XVII. Recibir el equipo de trabajo necesario y sin costo alguno;
 
 XVIII. Recibir atención médica de urgencia sin costo alguno, cuando sean lesionados con motivo o durante el ejercicio de sus funciones;
 
-XIX. Recibir asesoría, orientación y en su caso defensa jurídica, cuando al actuar con apego a las disposiciones legales con motivo de un servicio, exista acusación, denuncia o querella en su contra. Para este efecto, las Instituciones Policiales, contarán con unidades de defensa jurídica del elemento policial que tendrá como fin garantizar la asesoría gratuita del elemento policial en defensa de sus derechos y garantías individuales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XIX. Recibir asesoría, orientación y en su caso defensa jurídica, cuando al actuar con apego a las disposiciones legales con motivo de un servicio, exista acusación, denuncia o querella en su contra. Para este efecto, las Instituciones Policiales, contarán con unidades de defensa jurídica del elemento policial que tendrá como fin garantizar la asesoría gratuita del elemento policial en defensa de sus derechos humanos y sus garantías;
 
 XX. Gozar de los beneficios que establezcan las disposiciones aplicables una vez terminado de manera ordinaria el Servicio de Carrera Policial;
 
@@ -1969,7 +2221,7 @@ XXVI. Cambiar de adscripción por permuta, cuando las necesidades del servicio l
 
 XXVII. Los demás que establezcan las disposiciones legales aplicables.
 
-### CAPITULO V. DE LA INVESTIGACIÓN PARA LA PREVENCIÓN DE LOS DELITOS
+### CAPÍTULO V. DE LA INVESTIGACIÓN POLICIAL DE LOS DELITOS
 
 ###### Artículo 119.
 
@@ -1997,7 +2249,11 @@ X. Observar un trato respetuoso con todas las personas, debiendo abstenerse de t
 
 XI. Actuar con integridad y dignidad, absteniéndose de todo acto de corrupción u oponerse a ésta resueltamente;
 
-XII. Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables; en caso de que realice detenciones, deberán dar aviso administrativo de inmediato al Centro Nacional de Información, de la detención, a través del Informe Policial Homologado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XII. Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables; en caso de que realice detenciones, deberán dar aviso administrativo de inmediato al Centro Nacional de Información, a través del Informe Policial Homologado;
 
 XIII. Identificarse como miembro del Cuerpo de Policía Estatal en el desarrollo de sus funciones;
 
@@ -2023,15 +2279,27 @@ XXIII. Abstenerse de disponer de los bienes asegurados para beneficio propio o d
 
 XXIV. Informar al superior jerárquico de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
 
-XXV. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVI. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXV. Cumplir y hacer cumplir con la debida diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXVI. Fomentar la disciplina, responsabilidad, decisión, integridad, institucionalidad y profesionalismo, en sí mismo y en el personal bajo su mando;
 
 XXVII. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;
 
 XXVIII. Abstenerse conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
 
-XXIX. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXIX. Atender con la debida diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
 
 XXX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
 
@@ -2061,15 +2329,47 @@ XLII. Las demás que establezcan la Ley, la Ley General y las disposiciones lega
 
 Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 120.
 
 El Cuerpo Especializado de la Policía Estatal, desarrollará labores de búsqueda, recolección, análisis, evaluación e interpretación de la información para su utilización e intercambio, que permita la planeación de operativos para prevenir conductas delictivas o detener en flagrancia a presuntos responsables en la comisión de conductas ilícitas, debiendo hacer del conocimiento del Ministerio Público, hechos que pudieran ser constitutivos de delito.
 
-En las actividades de prevención del delito y para la obtención de información, el Cuerpo Especializado de la Policía Estatal, podrá valerse de la recepción de denuncias anónimas, disponiendo de estrategias para su publicidad y promoción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+En las actividades de prevención del delito y para la obtención de información, el Cuerpo Especializado de la Policía Estatal, podrá valerse de la recepción de denuncias anónimas, disponiendo de estrategias para su publicidad y promoción, así como de las técnicas especiales de investigación que se consideren necesarias.
 
 Para los fines anteriores, las Instituciones Policiales, podrán instalar y operar en lugares públicos, así como en vehículos oficiales, cámaras de circuito cerrado de televisión o fijas, con propósitos de vigilancia, control y localización de personas y bienes.
 
-### CAPITULO I. GENERALIDADES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Las técnicas especiales de investigación se regirán bajo los siguientes principios:
+
+I. Legalidad, deben realizarse en los términos y condiciones que establezcan las disposiciones legales aplicables;
+
+II. Necesidad, se aplicará cuando con la técnica ordinaria de investigación no pueda lograrse la obtención de la información buscada;
+
+III. Reserva, su conocimiento será reservado sólo para funcionarios autorizados;
+
+IV. Idoneidad, debe ser acorde a la finalidad que se persigue;
+
+V. Individualización, sólo se aplicará a las personas que tengan relación con el hecho a investigar, y
+
+VI. Intervención Mínima, debe tener carácter de última ratio, sólo se utilizarán para la protección de los bienes jurídicos más importantes frente a los ataques más graves.
+
+### CAPÍTULO VI. DE LA ATENCIÓN A VÍCTIMAS DEL DELITO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Artículo 122 BIS. Las instituciones policiales podrán otorgar atención inmediata o especializada a las víctimas del delito, según sea el caso. Para tales efectos, su actuación se regirá de acuerdo a los lineamientos normativos que expida la Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 ###### Artículo 121.
 
@@ -2079,19 +2379,23 @@ Las Instituciones Policiales del Estado, recabarán la información necesaria pa
 
 En las labores diarias de vigilancia se buscará una distribución racional de la fuerza policial y que los elementos asignados puedan cubrir todo el territorio estatal en forma adecuada y eficiente, que focalice las necesidades específicas que cada región o sector policial plantea, a fin de desarrollar una capacidad de reacción expedita y se mantenga una relación cercana con los habitantes de modo que inspiren confianza y puedan reconocer las preocupaciones de los mismos, además de propiciar su colaboración.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 123.
 
 El Consejo Estatal de Desarrollo Policial es la instancia colegiada encargada de normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del Servicio Profesional, el Régimen Disciplinario de la Policía Estatal y su Profesionalización.
 
-### CAPITULO II
-
-DE SU INTEGRACIÓN Y FUNCIONAMIENTO.
+### CAPITULO I. GENERALIDADES
 
 ## TÍTULO DÉCIMO
 
 DEL CONSEJO ESTATAL DE DESARROLLO POLICIAL.
 
-### CAPITULO III. DEL PROCEDIMIENTO
+### CAPITULO II
+
+DE SU INTEGRACIÓN Y FUNCIONAMIENTO.
 
 ###### Artículo 124.
 
@@ -2147,7 +2451,7 @@ XXII. Las demás que le señalen la presente Ley y demás disposiciones legales 
 
 Las reglas de operación y funcionamiento del Consejo Estatal de Desarrollo Policial estarán previstas en las disposiciones normativas que para dicho efecto se emitan.
 
-### CAPÍTULO I. DEL INTERCAMBIO, SUMINISTRO Y ACCESO A LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
+### CAPITULO III. DEL PROCEDIMIENTO
 
 ###### Artículo 126.
 
@@ -2171,7 +2475,7 @@ VI. Un Consejero por el área jurídica de la Policía Estatal.
 
 Los integrantes del Consejo Estatal serán de carácter permanente, y se designará a un suplente, de conformidad con el reglamento respectivo.
 
-### CAPÍTULO II. DE LA CERTIFICACIÓN DE LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
+### CAPÍTULO I. DEL INTERCAMBIO, SUMINISTRO Y ACCESO A LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
 ###### Artículo 128.
 
@@ -2259,13 +2563,13 @@ La resolución se notificará personalmente al interesado por conducto del perso
 
 Contra la resolución del procedimiento disciplinario procederá el recurso de revisión que deberá interponerse en término de cinco días contados a partir de la notificación de la resolución, como lo establece el reglamento respectivo.
 
-### CAPÍTULO III. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
+### CAPÍTULO II. DE LA CERTIFICACIÓN DE LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
 ###### Artículo 139.
 
 La resolución que dicte el Pleno del Consejo Estatal de Desarrollo Policial deberá estar debidamente fundada y motivada, contener una relación sucinta de los hechos y una valoración de todas y cada una de las pruebas aportadas.
 
-### CAPÍTULO IV. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
+### CAPÍTULO III. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
 ###### Artículo 140.
 
@@ -2277,11 +2581,15 @@ Para lo no previsto en el presente capítulo se aplicará de manera supletoria e
 
 ###### Artículo 142.
 
-El Sistema Penitenciario Estatal tiene por objeto procurar la reinserción social del delincuente sobre la base del respeto a los derechos humanos, la educación, el trabajo, la capacitación para el trabajo, la salud y el deporte y la reintegración social y familiar del adolescente en conflicto con la ley penal; además buscará evitar la desvinculación a la sociedad de las personas privadas de la libertad.
+El Sistema Penitenciario Estatal tiene por objeto procurar la reinserción social del sentenciado sobre la base del respeto a los derechos humanos, la educación, el trabajo, la capacitación para el mismo, la salud y el deporte; y la reintegración social y familiar del adolescente a quien se le atribuya la realización o participación en una conducta tipificada como delito; además buscará evitar la desvinculación a la sociedad de las personas privadas de la libertad.
 
 En la legislación, reglamentos y normatividad se establecerán las disposiciones necesarias para la ejecución eficaz del Sistema Penitenciario.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL SISTEMA PENITENCIARIO Y DE REINSERCIÓN SOCIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 143.
 
@@ -2369,7 +2677,7 @@ Para los efectos de la integración y manejo de la información a que se refiere
 
 Las Instituciones Policiales intercambiarán la información que obre en sus bases de datos con la Subsecretaría de Información y Desarrollo Institucional, en los términos de las disposiciones aplicables.
 
-### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
+### CAPÍTULO IV. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### Artículo 155.
 
@@ -2401,7 +2709,7 @@ Todo servidor público, independientemente de su adscripción, deberá acatar la
 
 El Secretario, por sí o a través del servidor público en el que delegue dicha función, de conformidad con los lineamientos de la presente Ley, podrá certificar la información para la seguridad pública contenida en las bases de datos de sus respectivas Instituciones Policiales y del Sistema Estatal de Información sobre Seguridad Pública.
 
-### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
+### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 160.
 
@@ -2428,6 +2736,8 @@ La certificación de información inscrita que se ofrezca en juicios o procedimi
 ###### Artículo 164.
 
 Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Información y Análisis de la Secretaría de Seguridad Pública, que se interrelacionará con sus áreas semejantes de la Federación, de Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
+
+### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
 ###### Artículo 165.
 
@@ -2894,3 +3204,11 @@ P.O. 31 DE MARZO DE 2014.
 P.O. 20 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor en la forma y términos señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Se faculta a las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, para realizar las adecuaciones programáticas y presupuestales que deriven de esta Ley.
