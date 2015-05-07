@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-sujetos-que-intervienen-en-el-97672"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-20"
-last_updated: "2013-12-20"
+last_updated: "2015-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # LEY PARA LA PROTECCION DE SUJETOS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE OAXACA - ANTES LEY ESTATAL PARA LA PROTECCION DE SUJETOS QUE INTERVIENEN EN EL PROCESO PENAL -
 
-LEY ESTATAL PARA LA PROTECCIÓN DE SUJETOS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE OAXACA
+LEY PARA LA PROTECCIÓN DE SUJETOS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE OAXACA
 
-N DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE SI SE APRUEBAN POR EL CONGRESO DEL ESTADO LAS PARTES OBSERVADAS POR EL PODER EJECUTIVO, SE PROCEDERÁ A SU PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL DECRETO NÚMERO 2054 EN EL P.O. 20 DE DICIEMBRE DE 2013.
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 20 de mayo de 2013.
 
@@ -35,7 +33,11 @@ DECRETO NÚM. 1982
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
 
-LEY ESTATAL PARA LA PROTECCIÓN DE SUJETOS QUE INTERVIENEN EN EL PROCESO PENAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)</small>
+
+LEY PARA LA PROTECCIÓN DE SUJETOS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE OAXACA
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -45,11 +47,13 @@ LEY ESTATAL PARA LA PROTECCIÓN DE SUJETOS QUE INTERVIENEN EN EL PROCESO PENAL
 
 ### CAPÍTULO I. GENERALIDADES
 
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 8, apartado C, fracción V, segundo párrafo de la Constitución Política del Estado Libre y Soberano de Oaxaca, es de orden público e interés general y tiene por objeto establecer las medidas y procedimientos para la protección de los sujetos que intervengan en el proceso penal, cuando se encuentren en situación de riesgo o peligro por su intervención o como resultado del mismo.
+La presente Ley es reglamentaria del artículo 8, apartado C, fracción V, segundo párrafo de la Constitución Política del Estado Libre y Soberano de Oaxaca, es de orden público e interés general y tiene por objeto establecer las medidas y procedimientos para la protección de los sujetos que intervengan de manera directa o indirecta en el Procedimiento Penal, o bien, de los que tengan algún tipo de relación afectiva o vínculo de parentesco con la persona que interviene en aquel, cuando se encuentren en situación de riesgo o peligro por su intervención o como resultado del mismo; sin perjuicio de lo establecido en el Código Nacional de Procedimientos Penales y las demás leyes aplicables.
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -57,13 +61,17 @@ La presente Ley es reglamentaria del artículo 8, apartado C, fracción V, segun
 
 Para los efectos de la presente Ley, se entiende por:
 
-> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Agente del Ministerio Público: A los Agentes del Ministerio Público que conozcan de un Proceso Penal determinado, los cuales están facultados para dictar medidas de protección en los casos previstos en la presente Ley, así como, para solicitar la incorporación de un sujeto al Programa, a que se refiere esta Ley:
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+I. Agente del Ministerio Público: A los Agentes del Ministerio Público que conozcan de un Procedimiento Penal determinado, los cuales están facultados para dictar medidas de protección en los casos previstos en la presente Ley, así como, para solicitar la incorporación de un sujeto al Programa, a que se refiere esta Ley:
 
-II. Agente Especializado: A los Agentes del Ministerio Público adscritos a la Unidad de Protección Especializada, encargados de solicitar la incorporación de un sujeto al Programa a que refiere la presente Ley, en procesos penales que versan sobre delitos previstos en el artículo 14 de la presente Ley; quien se puede auxiliar de los Agentes Estatales de Investigación, de los Peritos y demás servidores públicos de la Procuraduría General que sean necesarios, para el adecuado ejercicio de sus funciones previstas en la presente Ley y demás disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. Agente Especializado: A los Agentes del Ministerio Público adscritos a la Unidad de Protección Especializada, encargados de solicitar la incorporación de un sujeto al Programa a que refiere la presente Ley, quien se puede auxiliar de los Agentes Estatales de Investigación, de los Peritos y demás servidores públicos de la Procuraduría General que sean necesarios, para el adecuado ejercicio de sus funciones previstas en la presente Ley y demás disposiciones aplicables;
 
 > <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -73,29 +81,37 @@ III. Convenio de Entendimiento: Al documento que suscribe el Subprocurador y el 
 
 IV. Análisis de riesgo: Al análisis elaborado por un grupo multidisciplinario de la Unidad, para determinar la incorporación de un sujeto al Programa, las medidas de protección que se otorgarán o, en su caso, su separación;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Fondo: Al Fondo para la Protección de los Sujetos que Intervienen en el Proceso Penal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+V. Fondo: Al Fondo para la Protección de los Sujetos que Intervienen en el Procedimiento Penal;
 
-VI. Ley: A la Ley Estatal para la Protección de Sujetos que Intervienen en el Proceso Penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VI. Ley: A la Ley para la Protección de Sujetos que Intervienen en el Procedimiento Penal del Estado de Oaxaca;
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 VII. Ley Orgánica: A la Ley Orgánica de la Procuraduría General de Justicia del Estado de Oaxaca;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Medidas de Protección: A las acciones realizadas por la Unidad, tendientes a eliminar o reducir los riesgos o peligros que pueda sufrir el Sujeto Protegido, derivados de la acción de represalia eventual, con motivo de su intención en un Proceso Penal, así como, las personas ligadas a él, por vínculos de matrimonio, concubinato y parentesco, en los términos del Código Civil para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VIII. Medidas de Protección: A las acciones realizadas por la Unidad, tendentes a eliminar o reducir los riesgos o peligros que pueda sufrir el Sujeto Protegido, derivados de la acción de represalia eventual, con motivo de su intervención en un Procedimiento Penal, de manera directa o indirecta, así como, las personas ligadas a él, por relación afectiva o vinculo de parentesco, en los términos del Código Civil para el Estado de Oaxaca;
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 IX. Ministerio Público: A la Institución del Ministerio Público del Estado de Oaxaca.
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Proceso Penal: Para efectos de la presente Ley se considera aquellas etapas procesales que comprenden desde el inicio de la investigación a través de la presentación de la denuncia o querella respectiva, hasta la resolución ante la autoridad judicial competente conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+X. Procedimiento Penal: Para efectos de la presente Ley se considera aquellas etapas procesales que comprenden desde el inicio de la investigación, hasta la resolución firme de la autoridad judicial competente conforme a las disposiciones aplicables;
 
 > <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -117,13 +133,17 @@ XIV. Riesgo o peligro: Amenaza real e inminente, que de actualizarse, expone la 
 
 XV. Subprocurador: Al Titular de la Subprocuraduría al que se le deleguen las facultades materia de la presente Ley, en términos del Reglamento de la Ley Orgánica;
 
-> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI. Sujeto Protegido: Todo aquel individuo que pueda verse en situación de riesgo o peligro, por su intervención en un Proceso Penal, en términos de la presente Ley y demás disposiciones aplicables. Asimismo, dentro de dicho concepto, se considerarán a las personas ligadas a éste, por vínculos de matrimonio, concubinato y parentesco, en los términos del Código Civil para el Estado de Oaxaca, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XVI. Sujeto Protegido: Todo aquel individuo que pueda verse en situación de riesgo o peligro por su intervención directa o indirecta en un Procedimiento Penal, en términos de la presente Ley y demás disposiciones aplicables. Asimismo, dentro de dicho concepto, se considerarán a las personas que tengan algún tipo de relación afectiva o vínculo de parentesco con la persona que interviene en aquél en los términos del Código Civil para el Estado de Oaxaca, y
 
 > <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 XVII. Unidad: A la Unidad de Protección Especializada, en términos del Reglamento de la Ley Orgánica, la cual se encarga de ejecutar el Programa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -131,9 +151,11 @@ XVII. Unidad: A la Unidad de Protección Especializada, en términos del Reglame
 
 La Administración Pública Estatal en el ámbito de su respectiva competencia, está obligada a prestar la colaboración que le requiera la Procuraduría General para la aplicación de las Medidas de Protección previstas en la presente Ley.
 
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La administración y ejecución de las medidas de protección contempladas en el Programa, son independientes del desarrollo del Proceso Penal, el cual sólo servirá para determinar y eliminar los factores de riesgo o peligro del Sujeto Protegido.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+La administración y ejecución de las medidas de protección contempladas en el Programa, son independientes del desarrollo del Procedimiento Penal, el cual sólo servirá para determinar y eliminar los factores de riesgo o peligro del Sujeto Protegido.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -163,19 +185,23 @@ El Procurador General, podrá celebrar convenios de colaboración con otras inst
 
 ### CAPÍTULO II. PRINCIPIOS BÁSICOS
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 7.
 
-La protección de los sujetos intervinientes en el proceso penal, se regirá por los siguientes principios:
+La protección de los sujetos intervinientes en el Procedimiento Penal, se regirá por los siguientes principios:
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 I. Proporcionalidad y Necesidad: Las Medidas de Protección que se acuerden en virtud de la presente Ley y demás disposiciones aplicables, deberán responder al nivel de riesgo o peligro en que se encuentren y sólo podrán ser aplicadas en cuanto fueren necesarias para garantizar su seguridad;
 
-> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Secrecía: Los servidores públicos de la Procuraduría General y los Sujetos Protegidos, mantendrán el sigilo en y de todas las actuaciones relacionadas con las Medidas de Protección ejecutadas por la Unidad, así como, lo referente a los aspectos operativos del Programa y la información relacionada con el proceso penal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. Secrecía: Los servidores públicos de la Procuraduría General y los Sujetos Protegidos, mantendrán el sigilo en y de todas las actuaciones relacionadas con las Medidas de Protección ejecutadas por la Unidad, así como, lo referente a los aspectos operativos del Programa y la información relacionada con el Procedimiento Penal;
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -219,9 +245,11 @@ El Subprocurador para el cumplimiento de la presente Ley, contará con las sigui
 
 I. Desarrollar y elaborar a través de la Unidad, los proyectos de lineamientos, protocolos, acuerdos y demás instrumentos necesarios para el adecuado funcionamiento del Programa y someterlo a consideración del Procurador General;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Recibir, analizar a través de la Unidad y resolver las solicitudes de incorporación de los sujetos al Programa por parte de los Agentes del Ministerio Público, en virtud de encontrarse en situación de riesgo o peligro, por su intervención en el Proceso Penal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. Recibir, analizar a través de la Unidad y resolver las solicitudes de incorporación de los sujetos al Programa por parte de los Agentes del Ministerio Público, en virtud de encontrarse en situación de riesgo o peligro, por su intervención en el Procedimiento Penal;
 
 > <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -259,9 +287,11 @@ X. Suscribir los Convenios de Entendimiento con los Sujetos Protegidos;
 
 XI. Suscribir acuerdos o convenios de coordinación, concertación y cooperación con personas físicas o morales, estatales, nacionales o internacionales, conforme al ordenamiento jurídico aplicable y que resulten conducentes para otorgar la protección de los sujetos, previo acuerdo con el Procurador General;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Apoyar, a través del personal de la Unidad, a los Agentes del Ministerio Público en la ejecución de las Medidas de Protección, en términos del artículo 14, párrafo segundo de la presente Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XII. Apoyar, a través del personal de la Unidad, a los Agentes del Ministerio Público en la ejecución de las Medidas de Protección;
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -335,9 +365,11 @@ V. Garantizar la seguridad, la integridad física y psicológica del Sujeto Prot
 
 VI. Informar de forma inmediata al Agente Especializado, de cualquier incumplimiento de las obligaciones del Sujeto Protegido;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Auxiliar a los Agentes del Ministerio Público, en la medida de lo posible para ejecutar las Medidas de Protección en términos del artículo 14, párrafo segundo de la presente Ley, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VII. Auxiliar a los Agentes del Ministerio Público, en la medida de lo posible para ejecutar las Medidas de Protección en términos del artículo 14 de la presente Ley, y
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -351,19 +383,27 @@ VIII. Las que disponga el Procurador General, el Subprocurador, el Agente Especi
 
 ### CAPÍTULO I. GENERALIDADES
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 14.
 
-El Programa deberá aplicarse exclusivamente a aquellos casos en los que se encuentren relacionados sujetos que estén en riesgo o peligro por su participación de forma directa o indirecta en un Proceso Penal, que verse sobre delitos de homicidio doloso, feminicidio, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la Ley en contra de la seguridad interior del Estado, el libre desarrollo de la personalidad y de la salud, conforme a la normatividad penal aplicable.
+El Programa deberá aplicarse exclusivamente a aquellos casos en los que se encuentren relacionados sujetos que estén en riesgo o peligro por su participación de forma directa o indirecta en un Procedimiento Penal o que pueda verse en situación de riesgo o peligro, por su relación afectiva o vínculo de parentesco con la persona que interviene en aquél.
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 15.
 
-El Programa establecerá los lineamientos generales para regular los requisitos de incorporación, separación, medidas de protección a implementar, su mantenimiento, modificación o terminación, así como la forma para otorgar los apoyos que solventen necesidades personales básicas, cuando sea el caso y se requiera por su intervención en el Proceso Penal. El Programa será completamente ajeno al Proceso Penal, en el que interviene o ha intervenido el Sujeto Protegido, por lo que, todo lo concerniente con la evaluación de su situación de riesgo o peligro, así como, la tramitación de la solicitud de Medidas de Protección, es competencia del personal de la Unidad.
+El Programa establecerá los lineamientos generales para regular los requisitos de incorporación, separación, medidas de protección a implementar, su mantenimiento, modificación o terminación, así como la forma para otorgar los apoyos que solventen necesidades personales básicas, cuando sea el caso y se requiera por su intervención en el Procedimiento Penal. El Programa será completamente ajeno al Procedimiento Penal, en el que interviene o ha intervenido el Sujeto Protegido, por lo que, todo lo concerniente con la evaluación de su situación de riesgo o peligro, así como, la tramitación de la solicitud de Medidas de Protección, es competencia del personal de la Unidad.
 
-Además del Agente del Ministerio Público que conozca del Proceso Penal, podrá conocer la información relacionada con el mismo exclusivamente el Agente Especializado, en materia de delitos previstos en el artículo 14 de la presente Ley, en el que interviene o ha intervenido el Sujeto Protegido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Además del Agente del Ministerio Público que conozca del Procedimiento Penal, podrá conocer la información relacionada con el mismo exclusivamente el Agente Especializado.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -387,9 +427,17 @@ V. Agentes del Ministerio Público;
 
 VI. La autoridad judicial;
 
-VII. Quienes colaboren y/o participen en el Proceso Penal, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Las demás personas cuya relación con las enunciadas en las fracciones anteriores, sea por matrimonio, concubinato o parentesco, conforme a lo establecido en el Código Civil para el Estado de Oaxaca, y dicho vínculo les genere situaciones de riesgo o peligro.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VII. Quienes colaboren y/o participen en el Procedimiento Penal, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VIII. Las demás personas cuya relación con las enunciadas en las fracciones anteriores, sea por afecto o parentesco, conforme a lo establecido en el Código Civil para el Estado de Oaxaca, y dicha relación o vínculo les genere situaciones de riesgo o peligro.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -401,39 +449,49 @@ VIII. Las demás personas cuya relación con las enunciadas en las fracciones an
 
 Las Medidas de Protección previstas en el Programa, serán de dos tipos:
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. De asistencia social: Tendrán como finalidad, brindar apoyo a los Sujetos Protegidos del Programa. Estas medidas se realizarán a través de los servidores públicos adscritos al Subprocurador, de acuerdo a la problemática a abordar, procurando asegurar a la persona que, su intervención en el Proceso Penal no significará el agravamiento de su situación personal o un daño adicional o patrimonial, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. De asistencia social: Tendrán como finalidad, brindar apoyo a los Sujetos Protegidos del Programa. Estas medidas se realizarán a través de los servidores públicos adscritos al Subprocurador, de acuerdo a la problemática a abordar, procurando asegurar a la persona que, su intervención en el Procedimiento Penal no significará el agravamiento de su situación personal o un daño adicional o patrimonial, y
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 II. De seguridad: Tendrán como finalidad primordial, brindar las condiciones necesarias de seguridad, para preservar la vida, la libertad y/o la integridad física de los Sujetos Protegidos.
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Todo lo anterior, sin perjuicio de que el Agente del Ministerio Público pueda dictar y ejecutar Medidas de Protección, a través de sus auxiliares o del personal de la Unidad, en términos del artículo 14, párrafos segundo y tercero de la presente Ley.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)
+Todo lo anterior, sin perjuicio de que el Agente del Ministerio Público pueda dictar y ejecutar Medidas de Protección, a través de sus auxiliares o del personal de la Unidad, en términos del artículo 14, de la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 18.
 
-Las Medidas de Protección, podrán aplicarse en cualquier Proceso Penal, en forma indistinta y serán dictadas por:
+Las Medidas de Protección, podrán aplicarse en cualquier Procedimiento Penal, en forma indistinta y serán dictadas por:
 
 > <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 I. El Subprocurador cuando se trate de medidas con carácter permanente, las cuales se determinarán conforme al Análisis de riesgo, así como, la incorporación del Sujeto Protegido al Programa;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Los Agentes Especializados cuando las medidas tengan carácter de provisionales, previo acuerdo con el Subprocurador, siempre que se trate de delitos previstos en el artículo 14 de la presente Ley, conforme a la normatividad penal aplicable, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. Los Agentes Especializados cuando las medidas tengan carácter de provisionales, previo acuerdo con el Subprocurador, conforme a la normatividad penal aplicable, y
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 III. Los Agentes del Ministerio Público en los demás casos distintos a los previstos en la fracción anterior, cuando se considere necesario.
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Unidad podrá sugerir al Subprocurador el mantenimiento, modificación o terminación de todas o alguna de las Medidas de Protección durante el Proceso Penal, cuando exista la solicitud del Sujeto Protegido o se produzcan hechos o circunstancias que así lo ameriten, conforme al Análisis de riesgo que al efecto se elabore.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+La Unidad podrá sugerir al Subprocurador el mantenimiento, modificación o terminación de todas o alguna de las Medidas de Protección durante el Procedimiento Penal, cuando exista la solicitud del Sujeto Protegido o se produzcan hechos o circunstancias que así lo ameriten, conforme al Análisis de riesgo que al efecto se elabore.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -453,11 +511,13 @@ El apoyo económico provendrá de los recursos del Fondo y subsistirá por el ti
 
 V. Implementar cualquier otra medida de asistencia social, que de conformidad con la valoración de las circunstancias, se estime necesario adoptar, con la finalidad de garantizar la integridad física y psicológica del Sujeto Protegido, incorporado al Programa.
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 20.
 
-Las medidas de seguridad que salvaguardan la integridad personal en los aspectos físico, psicológico, familiar o patrimonial, además de las previstas en otros ordenamientos, podrán consistir en alguna de las siguientes:
+Las medidas de seguridad que salvaguardan la integridad personal en los aspectos físico, psicológico, familiar o patrimonial, además de las previstas en el Código Nacional de Procedimientos Penales y demás ordenamientos legales aplicables, podrán consistir en alguna de las siguientes:
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -479,19 +539,35 @@ IV. En la medida de lo posible, suministrar al sujeto Protegido alojamiento temp
 
 V. En la medida de lo posible, facilitar la reubicación, entendida como el cambio de domicilio o residencia;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Durante el desarrollo del proceso penal ante la autoridad judicial, el Agente del Ministerio Público o, en su caso, el Agente Especializado podrán solicitar la aplicación de las siguientes medidas procesales, con el objeto de que dicha autoridad determine su forma de instrumentación, así como la forma de desahogo de las pruebas respectivas que garanticen la protección del Sujeto Protegido:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
+
+VI. Durante el desarrollo del Procedimiento Penal ante la autoridad judicial, el Agente del Ministerio Público o, en su caso, el Agente Especializado podrán solicitar la aplicación de las siguientes medidas procesales, con el objeto de que dicha autoridad determine su forma de instrumentación, así como la forma de desahogo de las pruebas respectivas que garanticen la protección del Sujeto Protegido:
+
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 a). La reserva de su identidad, el domicilio, lugar de trabajo, profesión o cualquier otro dato que lo determine o lo ponga en evidencia, en las diligencias en que intervenga el Sujeto Protegido, la cual se presentará en sobre cerrado y tendrá acceso únicamente el imputado y la defensa a dicha información;
 
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+
 b). En la medida de lo posible, el uso de métodos que imposibiliten la identificación visual o auditiva del Sujeto Protegido, en las diligencias en que intervenga, siempre y cuando no se vulnere la debida defensa del imputado en el proceso penal;
 
-c). En la medida de lo posible, la utilización de procedimientos mecánicos o tecnológicos que permitan la participación del Sujeto Protegido a distancia, siempre y cuando no se vulnere la debida defensa del imputado en el proceso penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+c). En la medida de lo posible, la utilización de procedimientos mecánicos o tecnológicos que permitan la participación del Sujeto Protegido a distancia, siempre y cuando no se vulnere la debida defensa del imputado en el Procedimiento Penal;
+
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 d). Se fije como domicilio del Sujeto Protegido el de la Procuraduría General, u
 
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+
 e). Otras que a juicio de la Unidad, sean procedentes para garantizar la seguridad del Sujeto Protegido.
+
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 Las medidas previstas en los incisos anteriores se aplicarán en tanto no se vulnere la debida defensa del imputado conforme a las disposiciones aplicables;
 
@@ -549,33 +625,47 @@ VII. Otras circunstancias que justifiquen la medida.
 
 #### SECCIÓN PRIMERA. DE LA SOLICITUD DE INCORPORACIÓN AL PROGRAMA
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 22.
 
-La solicitud de incorporación al Programa, la deberá realizar el Agente del Ministerio Público que lleve el Proceso Penal o, en su caso, el Agente Especializado cuando tenga conocimiento de que en un Proceso Penal pueda suscitarse situaciones de riesgo o peligro en términos de la presente Ley, la cual será resuelta por el Subprocurador, a través de la Unidad.
+La solicitud de incorporación al Programa, la deberá realizar el Agente del Ministerio Público que lleve el Procedimiento Penal o, en su caso, el Agente Especializado cuando tenga conocimiento de que en un Procedimiento Penal pueda (sic) suscitarse situaciones de riesgo o peligro en términos de la presente Ley, la cual será resuelta por el Subprocurador, a través de la Unidad.
+
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 Cuando se niegue la incorporación de un sujeto al Programa, se podrá reevaluar la solicitud de incorporación, siempre que se aleguen hechos nuevos o supervenientes.
 
-La autoridad judicial que conozca del Proceso Penal en los que intervenga el sujeto a proteger podrá ordenar al Ministerio Público su incorporación al Programa. En este caso, el Subprocurador resolverá conforme al Análisis de riesgo las Medidas de protección a ejecutar dentro de los diez días naturales siguientes, sin que pueda negarse la incorporación al Programa del sujeto a proteger.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+La autoridad judicial que conozca del Procedimiento Penal en los que intervenga el sujeto a proteger podrá ordenar al Ministerio Público su incorporación al Programa. En este caso, el Subprocurador resolverá conforme al Análisis de riesgo las Medidas de protección a ejecutar dentro de los diez días naturales siguientes, sin que pueda negarse la incorporación al Programa del sujeto a proteger.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 23.
 
-Si el Agente del Ministerio Público o, en su caso, el Agente Especializado, advierte que un sujeto de encuentra en riesgo o peligro por su intervención en un Proceso Penal, podrá dictar medidas provisionales de seguridad necesarias, y remitirá inmediatamente cuando proceda, por cualquier medio idóneo, la solicitud de incorporación al Programa al Subprocurador, para que se inicie el Análisis de riesgo correspondiente.
+Si el Agente del Ministerio Público o, en su caso, el Agente Especializado, advierte que un sujeto se encuentra en riesgo o peligro por su intervención en un Procedimiento Penal, deberá dictar medidas provisionales de seguridad necesarias, y remitirá inmediatamente cuando proceda, por cualquier medio idóneo, la solicitud de incorporación al Programa al Subprocurador, para que se inicie el Análisis de riesgo correspondiente.
 
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La autoridad judicial que conozca del Proceso Penal y tomando en consideración cuando menos, lo señalado en el párrafo anterior, podrá ordenar que el sujeto sea incorporado al Programa.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+La autoridad judicial que conozca del Procedimiento Penal y tomando en consideración cuando menos, lo señalado en el párrafo anterior, podrá ordenar que el sujeto sea incorporado al Programa.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 En tanto el Subprocurador autoriza la incorporación de un sujeto al Programa, o bien, resuelve el tipo de medidas a ejecutar conforme al artículo 22, último párrafo de la presente Ley, se podrán mantener las Medidas de Protección provisionales.
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En la solicitud de incorporación del sujeto a proteger en el Programa, el Agente del Ministerio Público o, en su caso, el Agente Especializado, informará al Subprocurador la importancia de la intervención de dicho sujeto en el Proceso Penal.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+En la solicitud de incorporación del sujeto a proteger en el Programa, el Agente del Ministerio Público o, en su caso, el Agente Especializado, informará al Subprocurador la importancia de la intervención de dicho sujeto en el Procedimiento Penal.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -587,13 +677,17 @@ La solicitud de incorporación al Programa del sujeto, deberá contener como ele
 
 I. Nombre completo del candidato a ser Sujeto Protegido, su dirección o lugar de ubicación;
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Datos acerca de la investigación o Proceso Penal en el que interviene;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+II. Datos acerca de la investigación o Procedimiento Penal en el que interviene;
 
-III. Papel que detenta en la investigación o en el Proceso Penal, así como, la relevancia que reviste su participación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. Papel que detenta en la investigación o en el Procedimiento Penal, así como, la relevancia que reviste su participación;
 
 > <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -623,11 +717,17 @@ El Subprocurador deberá contar con el Análisis de riesgo, que le permita decid
 
 Recibida la solicitud de incorporación al Programa a través de la Unidad, el Subprocurador dentro del término de quince días naturales a fin de determinar su procedencia, tomará en consideración el resultado del Análisis de riesgo, el cual deberá de contener por lo menos los siguientes aspectos:
 
-(REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Que exista un nexo entre la intervención del sujeto a proteger en el Proceso Penal, con los factores de riesgo o peligro en que se encuentre.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
-En los casos en que se haya concluido la participación del Sujeto Protegido en el Proceso Penal, se realizará un estudio a fin de determinar si subsisten las condiciones de riesgo o peligro, para determinar su continuidad o su terminación de las medidas de protección;
+I. Que exista un nexo entre la intervención del sujeto a proteger en el Procedimiento Penal, con los factores de riesgo o peligro en que se encuentre.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+En los casos en que se haya concluido la participación del Sujeto Protegido en el Procedimiento Penal, se realizará un estudio a fin de determinar si subsisten las condiciones de riesgo o peligro, para determinar su continuidad o su terminación de las medidas de protección;
 
 (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -653,6 +753,12 @@ VI. Los antecedentes penales que tuviere, en su caso, y
 
 VII. Que la admisión del sujeto, no sea un factor que afecte la seguridad del Programa o de la Procuraduría General.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+En tanto se resuelve la solicitud de incorporación al programa de candidato a sujeto protegido, el Subprocurador ordenará de inmediato las medidas de protección provisionales necesarias, en caso de que el Ministerio Público no las haya ordenado.
+
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 27.
@@ -669,17 +775,29 @@ Una vez concluido el Análisis de riesgo, el Subprocurador con auxilio de la Uni
 
 Cuando se determine incorporar a un sujeto en el Programa, se deberá suscribir un Convenio de Entendimiento entre el Subprocurador y el Sujeto Protegido, el cual, contendrá:
 
-I. La manifestación del Sujeto Protegido, que su incorporación al Programa es de manera voluntaria, con pleno conocimiento, sin coacción y que las Medidas de Protección a otorgar no serán entendidas como pago, compensación o recompensas por su intervención en el Proceso Penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+I. La manifestación del Sujeto Protegido, que su incorporación al Programa es de manera voluntaria, con pleno conocimiento, sin coacción y que las Medidas de Protección a otorgar no serán entendidas como pago, compensación o recompensas por su intervención en el Procedimiento Penal;
 
 II. La manifestación del Sujeto Protegido de estar enterado sobre la temporalidad de las Medidas de Protección, las cuales se mantendrán mientras subsistan las circunstancias que le dieron origen;
 
 III. Los alcances y el carácter de las Medidas de Protección que se van a otorgar por parte de la Unidad;
 
-IV. La descripción de la facultad del Subprocurador de mantener, modificar o suprimir todas o algunas de las Medidas de Protección durante el Proceso Penal, cuando exista la solicitud del Sujeto Protegido o se produzcan hechos o circunstancias que así lo ameriten;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+IV. La descripción de la facultad del Subprocurador de mantener, modificar o suprimir todas o algunas de las Medidas de Protección durante el Procedimiento Penal, cuando exista la solicitud del Sujeto Protegido o se produzcan hechos o circunstancias que así lo ameriten;
 
 V. Las obligaciones del Sujeto Protegido, entre las que se encuentran:
 
-a). Proporcionar información veraz y oportuna para la investigación de los delitos y, en su caso, cumplir con su obligación de rendir testimonio dentro del Proceso Penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+a). Proporcionar información veraz y oportuna para la investigación de los delitos y, en su caso, cumplir con su obligación de rendir testimonio dentro del Procedimiento Penal;
 
 b). Comprometerse a realizar las acciones solicitadas por la Unidad, para garantizar su integridad y seguridad;
 
@@ -781,19 +899,31 @@ V. Cuando existan procedimientos familiares civiles, laborales, agrarios, admini
 
 VI. Velar para que los recursos asignados sean correctamente empleados y que la persona cumpla con los compromisos asumidos en el Convenio de Entendimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VII. Cumplir con el Principio de secrecía que establece la presente Ley.
+
 La Procuraduría General no responderá por las obligaciones adquiridas por el Sujeto Protegido antes de su incorporación al Programa, así como de aquellas que no se hubieran hecho de su conocimiento para el efecto de pronunciarse sobre su incorporación al Programa. De igual forma, tampoco asumirá las promesas que le hubieran hecho personal no autorizado para dicho fin al Sujeto Protegido.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ### CAPÍTULO VII. TERMINACIÓN DE LAS MEDIDAS DE PROTECCIÓN Y DESINCORPORACIÓN DEL PROGRAMA
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 33.
 
-El Subprocurador podrá mantener, modificar o suprimir todas o algunas de las Medidas de Protección durante cualquier etapa del Proceso Penal cuando exista la solicitud de la persona o se produzcan hechos o circunstancias que así lo ameriten.
+El Subprocurador podrá mantener, modificar o suprimir todas o algunas de las Medidas de Protección durante cualquier etapa del Procedimiento Penal cuando exista la solicitud de la persona o se produzcan hechos o circunstancias que así lo ameriten.
+
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 El otorgamiento y mantenimiento de las Medidas de Protección, así como la permanencia al Programa, está condicionado al cumplimiento de las obligaciones descritas en el artículo 30 de la presente Ley y de las obligaciones establecidas en el Convenio de Entendimiento. Su incumplimiento podrá ser sancionado con la terminación de todas o algunas de las medidas de Protección o con la separación del Programa.
+
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 El Subprocurador, la Unidad o cualquiera de los servidores públicos de la Procuraduría General que apliquen la presente Ley no estarán sujetos a ninguna responsabilidad civil por la sola decisión de brindar o no protección, siempre que la misma haya sido tomada conforme a las disposiciones establecidas en la misma, así como a las circunstancias que sirvieron en su momento para tomar tal determinación.
 
@@ -807,13 +937,19 @@ El Subprocurador con auxilio de la Unidad a través de la elaboración del Anál
 
 La resolución a que alude el párrafo segundo del presente artículo, en todo caso, será notificada por escrito al Sujeto Protegido; cuando se desconozca su ubicación, se realice la búsqueda y no se haya logrado dar con su paradero, se levantará constancia de dicha circunstancia y se acordará su separación correspondiente. Contra dicha determinación, no se admitirá recurso alguno.
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 35.
 
-La Unidad a través del Agente Especializado, una vez concluido el Proceso Penal e impuestas las sanciones del caso, podrá solicitar al Subprocurador que la continuación de las Medidas de Protección, conforme lo determine, cuando estime que se mantienen las circunstancias de riesgo o peligro.
+La Unidad a través del Agente Especializado, una vez concluido el Procedimiento Penal e impuestas las sanciones del caso, podrá solicitar al Subprocurador que (sic) la continuación de las Medidas de Protección, conforme lo determine, cuando estime que se mantienen las circunstancias de riesgo o peligro.
 
-Cuando se trate del supuesto previsto en los párrafos segundo y tercero del artículo 14 de la presente Ley, y una vez concluido el Proceso Penal e impuestas las sanciones del caso, el Agente del Ministerio Público podrá determinar la continuación de las Medidas de Protección cuando estime que se mantienen las circunstancias de riesgo o peligro. Para dicho efecto, podrá solicitar el auxilio de la Unidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Una vez concluido el Procedimiento Penal e impuestas las sanciones del caso, el Agente del Ministerio Público podrá determinar la continuación de las Medidas de Protección cuando estime que se mantienen las circunstancias de riesgo o peligro. Para dicho efecto, podrá solicitar el auxilio de la Unidad.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -821,7 +957,11 @@ Cuando se trate del supuesto previsto en los párrafos segundo y tercero del art
 
 La terminación de las Medidas de Protección o la separación del Sujeto Protegido del Programa, serán determinadas por el Subprocurador con auxilio de la Unidad, de oficio, a petición del Agente Especializado o del Sujeto Protegido, cuando se entiendan superadas las circunstancias que motivaron la protección o por incumplir con las obligaciones asumidas por dicho sujeto.
 
-Cuando la incorporación al Programa se hubiese realizado por mandato de la autoridad judicial, en términos de las disposiciones aplicables, el Subprocurador deberá solicitar la separación del Programa a la autoridad judicial que conozca del Proceso Penal, cuando se actualicen las causales señaladas en el artículo siguiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Cuando la incorporación al Programa se hubiese realizado por mandato de la autoridad judicial, en términos de las disposiciones aplicables, el Subprocurador deberá solicitar la separación del Programa a la autoridad judicial que conozca del Procedimiento Penal, cuando se actualicen las causales señaladas en el artículo siguiente.
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -837,7 +977,11 @@ III. El Sujeto Protegido haya ejecutado un delito doloso durante la permanencia 
 
 IV. El Sujeto Protegido no cumpla con las Medidas de Protección correspondientes;
 
-V. El Sujeto Protegido se niegue a declarar en el Proceso Penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+V. El Sujeto Protegido se niegue a declarar en el Procedimiento Penal;
 
 VI. El incumplimiento de las obligaciones asumidas en el Convenio de Entendimiento por parte del Sujeto Protegido, y
 
@@ -859,9 +1003,9 @@ A cualquier persona que conozca de la información relacionada con el Programa y
 
 En caso de que sea un servidor público el que divulgue o revele la información relacionada con el Programa, la pena prevista en el párrafo anterior se incrementará hasta en una tercera parte, esto con independencia de las demás responsabilidades civiles, administrativas y penales en las que pueda incurrir.
 
-(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)</small>
 
-### CAPÍTULO II. DEL FONDO PARA LA PROTECCIÓN DE LOS SUJETOS QUE INTERVIENEN EN EL PROCESO PENAL
+### CAPÍTULO II. DEL FONDO PARA LA PROTECCIÓN DE LOS SUJETOS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
 
 (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -919,7 +1063,11 @@ SÉPTIMO. En tanto se crea la Unidad y se instrumentan las acciones para la corr
 
 I. Las atribuciones, facultades o funciones previstas en la presente Ley, serán ejercidas por el área administrativa y el personal que determine el Procurador General, y
 
-II. Los Agentes del Ministerio Público que conozcan de un Proceso Penal y consideren que se actualicen situaciones de riesgo o peligro conforme a los delitos previstos en el artículo 14 de la presente Ley, podrán dictar las medidas de protección en términos de la presente Ley, previo acuerdo con el Subprocurador que corresponda conforme al Reglamento de la Ley Orgánica. Asimismo, podrán solicitar las medidas a que hace referencia el artículo 20, fracción VI de la presente Ley a la autoridad judicial para la aplicación correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. Los Agentes del Ministerio Público que conozcan de un Procedimiento Penal y consideren que se actualicen situaciones de riesgo o peligro conforme a lo previsto en el artículo 14 de la presente Ley, podrán dictar las medidas de protección en términos de la presente Ley, previo acuerdo con el Subprocurador que corresponda conforme al Reglamento de la Ley Orgánica. Asimismo, podrán solicitar las medidas a que hace referencia el artículo 20, fracción VI de la presente Ley a la autoridad judicial para la aplicación correspondiente.
 
 Por lo tanto mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -966,3 +1114,11 @@ SÉPTIMO. En tanto se crea la Unidad y se instrumentan las acciones para la corr
 I. Las atribuciones, facultades o funciones previstas en la presente Ley, serán ejercidas por el área administrativa y el personal que determine el Procurador General, y
 
 II. Los Agentes del Ministerio Público que conozcan de un Proceso Penal y consideren que se actualicen situaciones de riesgo o peligro conforme a los delitos previstos en el artículo 14 de la presente Ley, podrán dictar las medidas de protección en términos de la presente Ley, previo acuerdo con el Subprocurador que corresponda conforme al Reglamento de la Ley Orgánica. Asimismo, podrán solicitar las medidas a que hace referencia el artículo 20, fracción VI de la presente Ley a la autoridad judicial para la aplicación correspondiente.
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y entrará en vigor en la forma y términos señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
+
+SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
