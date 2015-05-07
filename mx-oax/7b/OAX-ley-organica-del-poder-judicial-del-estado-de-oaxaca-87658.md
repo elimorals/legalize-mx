@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2012-04-28"
+last_updated: "2015-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2015, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EN LA FORMA Y TÉRMINOS SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -59,7 +61,9 @@ El representante legal del Poder Judicial del Estado es el presidente del Tribun
 
 Corresponde a los Tribunales del Poder Judicial la facultad de interpretar y aplicar la Constitución Política del Estado Libre y Soberano de Oaxaca, los tratados internacionales, las leyes en los asuntos de fiscalización, en materia electoral, de lo contencioso administrativo, del orden civil, familiar, penal y de adolescentes del fuero común.
 
-Los tribunales y juzgados del Poder Judicial tendrán jurisdicción concurrente del orden federal, cuando expresamente les sea conferida y en todas las materias aplicarán al control difuso de la convencionalidad en términos de la Constitución Política Federal y la del Estado Libre y Soberano de Oaxaca.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Los tribunales y juzgados del Poder Judicial tendrán jurisdicción concurrente del orden federal, cuando expresamente les sea conferida y en todas las materias aplicarán el control difuso de constitucionalidad y convencionalidad en términos de la Constitución Política de los Estados Unidos Mexicanos y de los tratados internacionales en materia de derechos humanos de los que el Estado mexicano sea parte.
 
 ###### Artículo 3.
 
@@ -79,7 +83,9 @@ IV. El Tribunal de Fiscalización;
 
 V. El Tribunal de lo Contencioso Administrativo;
 
-VI. Los juzgados en primera instancia en las materias penal, civil, familiar, administrativa, de garantía o de control de legalidad, especializados para adolescentes, ejecución de sanciones, ejecución de penas y mixtos; tribunales de juicio oral para adultos y especializados para adolescentes; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VI. Los juzgados de primera instancia en las materias penal, civil, familiar, administrativa, oral mercantil, mixtos, de control, especializados en justicia para adolescentes, ejecución de sanciones, ejecución de penas; tribunales de enjuiciamiento.
 
 VII. El Consejo de la Judicatura.
 
@@ -337,9 +343,13 @@ Las salas conocerán además:
 
 I. De acuerdo a su especialidad; de los conflictos competenciales, de las recusaciones y excusas de los jueces de primera instancia, exceptuando a los del Tribunal Contencioso Administrativo;
 
-II. Las salas penales; de las solicitudes de reconocimiento de inocencia y de los juicios de amparo que se promuevan en contra· de actos de los jueces de primera instancia, exceptuando a los del Tribunal Contencioso Administrativo, en los términos de la fracción XII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos; y las civiles o mixtas en su caso, de los juicios de responsabilidad que se promuevan en contra de los jueces;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-III. En alzada, de los recursos que la ley de la materia determine en los procesos seguidos ante la primera instancia, exceptuando a los del Tribunal Contencioso Administrativo. En materia penal, con excepción de lo dispuesto en la ley de justicia para adolescentes, el recurso de casación y el reconocimiento de inocencia deberán ser conocidos por magistrados que no hubieren intervenido en el mismo asunto en apelación; y
+II. Las salas penales; de las solicitudes de reconocimiento de inocencia, anulación de sentencia y de los juicios de amparo que se promuevan en contra de actos de los jueces de primera instancia, exceptuando a los del Tribunal Contencioso Administrativo, en los términos de la fracción XII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos; y las civiles o mixtas en su caso, de los juicios de responsabilidad que se promuevan en contra de los jueces;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. En alzada, de los recursos que la ley de la materia determine en los procesos seguidos ante la primera instancia, exceptuando a los del Tribunal Contencioso Administrativo. En materia penal, con excepción de lo dispuesto en la ley de justicia para adolescentes, el reconocimiento de inocencia y anulación de sentencia deberán ser conocidos por magistrados que no hubieren intervenido en el mismo asunto en apelación; y
 
 IV. La Sala Constitucional conocerá de aquellos asuntos previstos en el artículo 106, apartado B, de la Constitución Política del Estado de Oaxaca.
 
@@ -459,11 +469,15 @@ DE LOS DISTRITOS JUDICIALES.
 
 Del territorio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 34.
 
-En el Estado habrá juzgados penales, civiles, familiares, de garantía o control de legalidad, tribunal de juicio oral para adultos, especializados para adolescentes, de ejecución de sanciones, ejecución de penas, mixto y de lo contencioso administrativo; que sean necesarios para la pronta y expedita administración de justicia.
+En el Estado habrá juzgados penales, civiles, orales mercantiles, familiares, de control, tribunales de enjuiciamiento, especializados en justicia para adolescentes, de ejecución de sanciones, ejecución de penas, mixtos y de lo contencioso administrativo; que sean necesarios para la pronta y expedita administración de justicia.
 
-La jurisdicción de primera Instancia en materia penal adversarial oral y de justicia para adolescentes comprende a los jueces de garantía o control de legalidad, a los de juicio oral y de ejecución de penas.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+La jurisdicción de primera instancia en materia penal acusatoria y de justicia para adolescentes comprende a los jueces de control, de enjuiciamiento y de ejecución de penas.
 
 Los juzgados se identificarán por el orden que les corresponda, según la materia y por el lugar de su residencia; podrán agruparse en distritos judiciales en la forma y términos que determine el Consejo de la Judicatura.
 
@@ -487,9 +501,11 @@ Los secretarios de acuerdos serán sustituidos por otro secretario del mismo juz
 
 En ausencia del ejecutor o actuario judicial, el secretario de acuerdos ejercerá las funciones que le correspondan a aquél.
 
-Artículo 37
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-Los juzgados de garantía o control de legalidad, especializados para adolescentes y de ejecución de penas, se integrarán por el número de jueces que requiera la carga de trabajo; y los de tribunal de juicio oral para adultos siempre con tres jueces.
+###### Artículo 37.
+
+Los juzgados de control, especializados en justicia para adolescentes y de ejecución de penas, se integrarán por el número de jueces que requiera la carga de trabajo. El tribunal de enjuiciamiento, en el sistema de adultos, se integrará de manera unitaria cuando la pena máxima del delito de que se trate no exceda de ocho años de prisión; fuera de este supuesto se integrará de manera colegiada por tres jueces.
 
 ## Título Tercero.
 
@@ -585,13 +601,17 @@ Los requisitos para ser secretario de acuerdos de juzgado, de sala, de estudio y
 
 Los juzgados se integrarán con los jueces, secretarios de acuerdos, auxiliares, servidores públicos y empleados que sean necesarios para el servicio público, conforme lo determine el Consejo de la Judicatura y permita el presupuesto de egresos.
 
-Los juzgados de garantía o control de legalidad y tribunales orales, se integrarán con los servidores públicos que sean necesarios para el buen funcionamiento del juzgado y tribunal, conforme lo determine el Consejo de la Judicatura y permita el presupuesto de egresos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Los juzgados de control y tribunales de enjuiciamiento, se integrarán con los servidores públicos que sean necesarios para el buen funcionamiento del juzgado y tribunal, conforme lo determine el Consejo de la Judicatura y permita el presupuesto de egresos.
 
 El Consejo de la Judicatura podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de parte y otras áreas para varios juzgados de un mismo distrito judicial.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 46.
 
-En el proceso penal adversarial oral, los jueces y magistrados actuarán sin necesidad de secretarios de acuerdos o testigos de asistencia. En ese caso, ellos tienen fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+En el proceso penal acusatorio, los jueces y magistrados actuarán sin necesidad de secretarios de acuerdos o testigos de asistencia. En ese caso, ellos tienen fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
 
 # LIBRO CUARTO.
 
@@ -689,7 +709,9 @@ XIX. Verificar el cumplimiento de los requisitos de ley y aplicar el examen de o
 
 XX. Acordar las renuncias que presenten los jueces del Poder Judicial, su retiro forzoso o voluntario y suspender en sus cargos a los jueces del Poder Judicial a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
 
-XXI. Resolver sobre las quejas administrativas y sobre la responsabilidad de servidores públicos en términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Oaxaca, por parte de los correspondientes miembros del Poder Judicial del Estado, salvo los que se refieran a los miembros del pleno del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XXI. Resolver sobre las quejas administrativas y sobre la responsabilidad de servidores públicos en términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Oaxaca, por parte de los correspondientes miembros del Poder Judicial del Estado, salvo los que se refieran a los miembros del pleno del Tribunal Superior de Justicia. De igual manera sobre la queja prevista en el artículo 135 del Código Nacional de Procedimientos Penales en los términos previstos en dicho precepto;
 
 XXII. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público, con excepción del Tribunal Superior de Justicia;
 
@@ -1275,9 +1297,13 @@ b) El monto de las cantidades otorgadas para obtener los beneficios de la conmut
 
 c) Las multas que por cualquier causa se impongan por los órganos jurisdiccionales y administrativos del Estado;
 
-c) (sic) Los rendimientos que bajo cualquier modalidad generen los depósitos en dinero o valores que, amparados en los certificados correspondientes, se efectúen ante los órganos jurisdiccionales y administrativos del Consejo de la Judicatura;
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-e) El producto de los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal del Estado Libre y Soberano de Oaxaca, Código Procesal Penal para el Estado de Oaxaca, Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca y el Código Federal de Procedimientos Penales; la declaración de que tales cantidades pasan a formar parte del fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación de conformidad con el Código de Procedimientos Penales para el Estado;
+d) Los rendimientos que bajo cualquier modalidad generen los depósitos en dinero o valores que, amparados en los certificados correspondientes, se efectúen ante los órganos jurisdiccionales y administrativos del Consejo de la Judicatura;
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+e) El producto de los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal del Estado Libre y Soberano de Oaxaca, Código Nacional de Procedimientos Penales, Código Procesal Penal para el Estado de Oaxaca, y el Código Federal de Procedimientos Penales; la declaración de que tales cantidades pasan a formar parte del fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación.
 
 f) Los muebles y valores depositados por cualquier motivo ante los tribunales judiciales, que no fueren retirados por quien tenga derecho a ellos dentro del término de tres años computados a partir de la notificación personal que se le haga, conforme al Código Penal del Estado de Oaxaca;
 
@@ -1807,7 +1833,9 @@ En el sistema oral tendrán la validez y eficacia de un documento físico origin
 
 Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
 
-Cuando un juez utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultarán suficientes para acreditar su autenticidad, aunque no se impriman en papel ni sean firmados.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Cuando un juez utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultarán suficientes para acreditar su autenticidad, aunque no se impriman en papel ni sean firmados, con excepción de los supuestos establecidos en el artículo 67 del Código Nacional de Procedimientos Penales, para tales efectos los Jueces podrán utilizar firma autógrafa o electrónica.
 
 Las autoridades judiciales podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
 
@@ -2794,3 +2822,13 @@ Tlalixtac de Cabrera, Centro Oax., a 13 de abril del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y entrará en vigor en la forma y términos señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
+
+SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
