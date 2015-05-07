@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-83481"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-09-20"
-last_updated: "2011-09-20"
+last_updated: "2015-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del año 2011.
 
@@ -77,21 +77,53 @@ XIII. Reglamento del Servicio Civil de Carrera: Al Reglamento del Servicio Civil
 
 XIV. Servicio Civil de Carrera: Al Servicio Civil de Carrera de la Procuraduría, que comprende a los agentes del Ministerio Público, los integrantes de la Agencia investigadora y a los Peritos del Instituto de Servicios Periciales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XV. Ley Estatal: A la Ley del Sistema Estatal de Seguridad Pública de Oaxaca.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XVI. Conducción del Ministerio Público: Es la dirección jurídica que ejerce el Ministerio Público sobre las policías, durante la investigación de hechos que puedan ser constitutivos de delitos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XVII. Mando del Ministerio Público: Es la facultad del Ministerio Público de ordenar a las policías actos de investigación y operación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+En ejercicio de su Conducción y Mando, la Procuraduría expedirá los reglamentos, manuales, protocolos y formatos, de cumplimiento obligatorio, para normar la actuación de las policías en el ejercicio de la función investigadora.
+
 ###### Artículo 3.
 
 La titularidad de la Procuraduría corresponde al Procurador, quien preside la Institución del Ministerio Público, y a quien le compete el ejercicio originario de las facultades, atribuciones y funciones que le otorgan a la Procuraduría y al Ministerio Público, la Constitución Federal, la Constitución Estatal, esta Ley Orgánica y las demás disposiciones aplicables.
 
 La Procuraduría es la institución administrativa en el cual reside el Ministerio Público, y es a la que le competen las atribuciones, facultades o funciones que le otorgan la Ley Orgánica y las demás disposiciones aplicables en el ámbito de procuración de justicia, por lo cual administra de manera autónoma su presupuesto, así como sus recursos humanos, materiales y financieros, determinando sus prioridades de acuerdo con sus requerimientos y necesidades.
 
-El Ministerio Público es el órgano del Estado, único e indivisible, con independencia técnica para ejercer las facultades, atribuciones y funciones de su competencia, de conformidad con las disposiciones aplicables, el cual dirige la investigación y persecución de los probables hechos constitutivos de delito, los que determinen la participación punible y los que acrediten la inocencia del imputado; promueve el ejercicio de la acción penal ante los Tribunales de Justicia, protege y brinda atención a las víctimas, ofendidos y testigos, e interviene en los asuntos del orden civil, familiar y otros, en la forma en que señala la legislación aplicable. Tiene a su cargo ejercer la representación y defensa de los intereses de la sociedad en general y, en particular, de la víctima u ofendido del delito.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+El Ministerio Público es el órgano del Estado, único e indivisible, con independencia técnica para ejercer las facultades, atribuciones y funciones de su competencia, de conformidad con las disposiciones aplicables, el cual dirige la investigación y persecución de los probables hechos constitutivos de delito, los que determinen la participación punible y los que acrediten la inocencia del imputado; promueve el ejercicio de la acción penal ante los Tribunales de Justicia, protege y brinda atención a las víctimas, ofendidos y testigos, e interviene en los asuntos del orden civil, familiar y otros, en la forma en que señala el Código Nacional de Procedimientos Penales y la legislación aplicable. Tiene a su cargo ejercer la representación y defensa de los intereses de la sociedad en general y, en particular, de la víctima u ofendido del delito.
 
 ###### Artículo 4.
 
 La actuación de los servidores públicos que integran la Procuraduría se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, imparcialidad, honradez, secrecía, lealtad y respeto a los derechos humanos reconocidos por la Constitución Federal, los Tratados Internacionales ratificados por el Estado mexicano y la Constitución Estatal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 5.
 
-El Procurador intervendrá por sí o por conducto de los agentes del Ministerio Público en el ejercicio de las atribuciones conferidas a dicho órgano por la Constitución Federal, la Constitución Estatal, esta Ley Orgánica y las demás disposiciones aplicables, en todo el territorio del Estado.
+El Procurador intervendrá por sí o por conducto de los agentes del Ministerio Público en el ejercicio de las atribuciones conferidas a dicho órgano por la Constitución Federal, la Constitución Estatal, esta Ley Orgánica, el Código Nacional de Procedimientos Penales y las demás disposiciones aplicables, en todo el territorio del Estado.
 
 Asimismo, ejercerá las atribuciones que las disposiciones aplicables le confieren a la Procuraduría, por sí o por conducto de los servidores públicos adscritos a la misma.
 
@@ -103,13 +135,21 @@ El Procurador será designado y removido de conformidad con lo dispuesto por el 
 
 Corresponde a la Procuraduría:
 
-I. Coordinarse con el resto de las Instituciones de Seguridad Pública de la Federación, el Distrito Federal, los Estados y los Municipios, en el ámbito de su competencia y en los términos de la Ley General para:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
+
+I. Coordinarse con el resto de las Instituciones de Seguridad Pública de la Federación, el Distrito Federal, los Estados y los Municipios, en el ámbito de su competencia y en los términos de la Ley General y Ley Estatal para:
 
 a) Integrar el Sistema Nacional de Seguridad Pública y cumplir con sus objetivos y fines;
 
 b) Formular políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad pública;
 
-c) Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en la Ley General;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+c) Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en la Ley General y Ley Estatal;
 
 d) Participar en la elaboración, ejecución y evaluación de los programas de seguridad pública en términos de las disposiciones aplicables;
 
@@ -127,29 +167,57 @@ j) Realizar las demás acciones que sean necesarias para incrementar la eficacia
 
 II. Coadyuvar en la política estatal de prevención del delito;
 
-III. Administrar, suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que diariamente se genere en materia de Seguridad Pública dentro del territorio del Estado a través de bases de datos, en términos del Reglamento de la Ley Orgánica. Por información en materia de Seguridad Pública, se entiende la que hace referencia el artículo 5, fracción II de la Ley General;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Atender la regulación en materia de Certificado y Registro de los miembros del Servicio Civil de Carrera, en términos de esta Ley Orgánica y de la Ley General;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-V. Intervenir en la entrega de los indiciados, procesados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa o del Gobierno Federal que los requiera, en los términos de los convenios de colaboración que al efecto celebren las entidades federativas;
+III. Administrar, suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que diariamente se genere en materia de Seguridad Pública dentro del territorio del Estado a través de bases de datos, en términos del Reglamento de la Ley Orgánica. Por información en materia de Seguridad Pública, se entiende la que hace referencia el artículo 5, fracción II de la Ley General y del artículo 146 al 163 de la Ley Estatal;
 
-VI. Asesorar al Gobernador del Estado con intervención de la Consejería Jurídica y asistirlo en su calidad de integrante del Consejo Nacional de Seguridad Pública, en temas relacionados con la competencia de la Procuraduría;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+IV. Atender la regulación en materia de Certificado y Registro de los miembros del Servicio Civil de Carrera, en términos de esta Ley Orgánica, (sic) Ley Estatal y de la Ley General;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+V. Intervenir en la entrega de los indiciados, imputados, procesados, acusados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa o del Gobierno Federal que los requiera, en los términos de los convenios de colaboración que al efecto celebren las entidades federativas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VI. Asesorar al Gobernador del Estado con intervención de la Consejería Jurídica y asistirlo en su calidad de integrante del Consejo Nacional y Estatal de Seguridad Pública, en temas relacionados con la competencia de la Procuraduría;
 
 VII. Instrumentar y aplicar mecanismos de coordinación con la Secretaría de Seguridad Pública del Estado de Oaxaca y con Instituciones de Seguridad Pública de los tres órdenes de Gobierno, para la prevención e investigación de los delitos;
 
 VIII. Administrar los fondos de procuración de justicia, así como realizar las funciones que deriven de las disposiciones aplicables, respecto de la constitución y administración de fondos que le competan;
 
-IX. Determinar el destino de los bienes asegurados y los bienes que hayan causado abandono a favor del Estado, en términos de los Acuerdos que al efecto se emitan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Establecer mecanismos e indicadores que sirvan para que la sociedad pueda coadyuvar en la evaluación de las políticas en materia de procuración de justicia, en los términos del Reglamento de la Ley Orgánica y de conformidad con las disposiciones aplicables en materia del Sistema Nacional de Seguridad Pública, sin perjuicio de otros sistemas de evaluación que le sean aplicables;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-XI. Velar por el respeto de las garantías individuales y los derechos reconocidos en la Constitución Federal, los Tratados Internacionales ratificados por el Estado mexicano y en la Constitución Estatal, en la esfera de su competencia. En el ejercicio de esta atribución la Procuraduría deberá:
+IX. Determinar el destino de los bienes asegurados y los bienes que hayan causado abandono a favor del Estado, en términos de la normatividad aplicable;
 
-a) Fomentar entre sus servidores públicos una cultura de respeto a las garantías individuales y los derechos humanos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) Atender las visitas, quejas, y, en su caso, propuestas de conciliación y recomendaciones de la Comisión Nacional de los Derechos Humanos, de la Comisión para la Defensa de Derechos Humanos del Estado Libre y Soberano de Oaxaca y de organismos internacionales de protección de derechos humanos cuya competencia haya sido reconocida por el Estado mexicano, conforme a las disposiciones jurídicas aplicables; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-c) Proporcionar información a la Comisión Nacional de Derechos Humanos y a la Comisión de Derechos Humanos del Estado Libre y Soberano de Oaxaca, cuando la soliciten en ejercicio de sus funciones, siempre que no ponga en riesgo investigaciones en curso o la seguridad de personas, observando la legislación aplicable;
+X. Establecer mecanismos e indicadores que sirvan para que la sociedad pueda coadyuvar en la evaluación de las políticas en materia de procuración de justicia, en los términos del Reglamento de la Ley Orgánica y de conformidad con las disposiciones aplicables en materia del Sistema Nacional y Estatal de Seguridad Pública, sin perjuicio de otros sistemas de evaluación que le sean aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XI. Velar por el respeto de los derechos Humanos y sus garantías reconocidos en la Constitución Federal, los Tratados Internacionales ratificados por el Estado mexicano y en la Constitución Estatal, en la esfera de su competencia. En el ejercicio de esta atribución la Procuraduría deberá:
+
+a) Fomentar entre sus servidores públicos una cultura de respeto a sus derechos humanos y sus garantías;
+
+b) Atender las visitas, quejas, y, en su caso, propuestas de conciliación y recomendaciones de la Comisión Nacional de los Derechos Humanos, de la Defensoría de los derechos Humanos del Pueblo de Oaxaca y de organismos internacionales de protección de derechos humanos cuya competencia haya sido reconocida por el Estado mexicano, conforme a las disposiciones jurídicas aplicables; y
+
+c) Proporcionar información a la Comisión Nacional de Derechos Humanos y a la Defensoría de los derechos Humanos del Pueblo de Oaxaca, cuando la soliciten en ejercicio de sus funciones, siempre que no ponga en riesgo investigaciones en curso o la seguridad de personas, observando la legislación aplicable;
 
 XII. Promover la celebración de acuerdos interinstitucionales en asuntos relacionados con sus atribuciones;
 
@@ -211,7 +279,11 @@ XV. Designar y remover libremente a los Subprocuradores, Fiscales, Jefes de Unid
 
 XVI. Dictar las disposiciones necesarias para asegurar la dirección general de Ministerio Público respecto de las Instituciones Policiales, en la investigación de los delitos;
 
-XVII. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XVII. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución Federal y del Código Nacional de Procedimientos Penales;
 
 XVIII. Encomendar a los servidores públicos de la Procuraduría el trámite de los asuntos que estime convenientes;
 
@@ -237,7 +309,11 @@ Corresponde al Ministerio Público:
 
 I. Vigilar la exacta observancia de las leyes;
 
-II. Iniciar y dirigir en forma exclusiva la investigación de los delitos con el objeto de establecer que se ha cometido el hecho delictivo y que existe la probabilidad de que el imputado lo cometió o participó en su comisión;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+II. Investigar por si o a través de las policías los hechos posiblemente constitutivos de delito;
 
 III. Ejercitar la acción penal en la forma establecida por la legislación aplicable;
 
@@ -245,17 +321,37 @@ IV. Intervenir y realizar todas las acciones conducentes de acuerdo a sus facult
 
 V. Promover la solución de los conflictos surgidos como consecuencia de la comisión de delitos, en los casos autorizados por la legislación aplicable;
 
-VI. Aplicar los criterios de oportunidad, determinar el archivo temporal y la facultad de abstenerse de investigar y solicitar la suspensión del proceso a prueba, la apertura del procedimiento abreviado, la reparación del daño, la acción civil resarcitoria, así como formular las demás determinaciones y resoluciones en los supuestos previstos por la legislación aplicable;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Vigilar y asegurar que durante el proceso penal se respeten los derechos humanos del imputado y de la víctima u ofendido reconocidos por la Constitución Federal, los Tratados Internacionales ratificados por el Estado mexicano y la Constitución Estatal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-VIII. Intervenir y realizar todas las acciones conducentes de acuerdo a sus facultades y atribuciones en las distintas etapas del proceso especial para adolescentes, de conformidad con la legislación aplicable;
+VI. Aplicar los criterios de oportunidad, determinar el archivo temporal y la facultad de abstenerse de investigar y solicitar la suspensión condicional del proceso, la apertura del procedimiento abreviado, la reparación del daño, así como formular las demás acciones, determinaciones y resoluciones en los supuestos previstos por la legislación aplicable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VII. Vigilar y asegurar que durante el proceso penal se respeten los derechos humanos del imputado, víctima u ofendido y demás personas que intervengan en la investigación y en el proceso, reconocidos por la Constitución Federal, los Tratados Internacionales ratificados por el Estado mexicano y la Constitución Estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VIII. Intervenir y realizar todas las acciones conducentes de acuerdo a sus facultades y atribuciones en las distintas etapas del proceso especializado en justicia para adolescentes, de conformidad con la legislación aplicable;
 
 IX. Vigilar la correcta aplicación de la ley en todos los casos que conozca y, especialmente, en aquellos en que alguna de las partes sea miembro de una comunidad indígena;
 
-X. Adoptar las medidas necesarias para la protección y atención de víctimas, ofendidos o testigos, y en general de todos los sujetos que intervengan en el proceso penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Dirigir las actividades de los integrantes de la Agencia Investigadora en la investigación y persecución de los delitos, así como a las demás Instituciones Policiales, cuando estén obligadas a auxiliar en dicha investigación y persecución;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+X. Adoptar las medidas necesarias para la protección y atención de víctimas, ofendidos o testigos, y en general de todas las personas que intervengan en el proceso penal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XI. Ejercer la conducción y mando de la Agencia Estatal de Investigaciones y de las Instituciones policiales en las investigaciones de los hechos posiblemente constitutivos de delito;
 
 XII. Dirigir las actividades de los Peritos del Instituto de Servicios Periciales, así como de los demás peritos que lo auxilien, en la investigación y persecución de los delitos;
 
@@ -269,7 +365,11 @@ XVI. Conocer sobre los delitos en materia de secuestro, así como atender la dis
 
 XVII. Intervenir en los procesos de ejecución de las penas vigilando que se respeten los derechos humanos de los sentenciados reconocidos en la Constitución Federal, los Tratados Internacionales ratificados por el Estado mexicano y la Constitución Estatal, las disposiciones de las sentencias y el cumplimiento del pago de la reparación del daño;
 
-XVIII. Asistir y conducirse con diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+XVIII. Asistir y conducirse con debida diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones;
 
 XIX. Intervenir en los asuntos judiciales que interesen a las personas a quienes las leyes aplicables les concede especial protección, en la forma y términos que las mismas determinen;
 
@@ -295,17 +395,35 @@ I. El no ejercicio de la acción penal;
 
 II. La solicitud de cancelación o reclasificación de órdenes de aprehensión, de conformidad con las disposiciones aplicables;
 
-III. La formulación de conclusiones no acusatorias;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Resolver las excusas o recusaciones de los agentes del Ministerio Público en el proceso penal, en términos del Reglamento de la Ley Orgánica;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. La petición de sobreseimiento conforme a la legislación aplicable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+IV. Resolver las excusas o recusaciones de los agentes del Ministerio Público y peritos en el procedimiento penal en términos del reglamento de la Ley Orgánica y la legislación aplicable;
 
 V. El acuerdo para el desistimiento total o parcial del ejercicio de la acción penal, por parte del Ministerio Público;
 
-VI. Resolver sobre la procedencia de la reapertura del proceso o la realización de diligencias de investigación, cuando sea denegada por los agentes del Ministerio Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Resolver el recurso de inconformidad interpuesto por la víctima u ofendido, en contra del no ejercicio de la acción penal, prescripción, negativa del ministerio público a desahogar diligencias propuestas por alguna de las partes, abstención de iniciar la investigación o la aplicación de un principio de oportunidad, en términos del Reglamento de la Ley Orgánica;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-VIII. Resolver el recurso de reclamación interpuesto por la víctima u ofendido en contra de la negativa sobre la reapertura del proceso y realización de diligencias de investigación, en términos del Reglamento de la Ley Orgánica;
+VI. Resolver el recurso de reclamación interpuesto por alguna de las partes sobre la negativa de la reapertura de la investigación o la omisión de investigación por los agentes del Ministerio Público;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+VII. Resolver el recurso de inconformidad interpuesto por la victima u ofendido, en contra del no ejercicio de la acción penal, prescripción, negativa del ministerio público a desahogar diligencias propuestas por alguna de las partes, abstención de iniciar la investigación o la aplicación de un criterio de oportunidad, en términos del Reglamento de la Ley Orgánica;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VIII. (DEROGADA, P.O. 7 DE MAYO DE 2015)
 
 IX. Las consultas que agentes del Ministerio formulen o las prevenciones que la autoridad judicial acuerde en los términos de la legislación aplicable, respecto de la omisión de formular conclusiones en el término legal, de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia;
 
@@ -321,9 +439,13 @@ XIV. Las demás que señale el Reglamento de la Ley Orgánica, y demás disposic
 
 ### CAPÍTULO II. BASES DE ORGANIZACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 13.
 
-El Procurador ejercerá autoridad jerárquica sobre todo los servidores públicos de la Procuraduría.
+El Procurador ejercerá autoridad jerárquica sobre todos los servidores públicos de la Procuraduría.
 
 El Procurador, emitirá los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de los servidores públicos que integran a la Procuraduría.
 
@@ -349,15 +471,21 @@ VIII. Peritos del Instituto de Servicios Periciales; y
 
 IX. Subdirectores, Jefes de Departamento y demás servidores públicos que establezca el Reglamento de la Ley Orgánica, y otras disposiciones aplicables, de conformidad a su presupuesto autorizado.
 
-El Reglamento de la Ley Orgánica establecerá las Subprocuradurías, Fiscalías, Unidades Administrativas y Operativas, Direcciones, así como los órganos administrativos desconcentrados de la Procuraduría y sus atribuciones. Asimismo, regulara todo lo concerniente a la organización y funcionamiento de la Agencia Investigadora y del Instituto de Servicios Periciales de la Procuraduría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+El Reglamento de la Ley Orgánica establecerá las Subprocuradurías, Fiscalías, Unidades Administrativas y Operativas, Direcciones, así como los órganos administrativos desconcentrados de la Procuraduría y sus atribuciones. Asimismo, regulará todo lo concerniente a la organización y funcionamiento de la Agencia Investigadora y del Instituto de Servicios Periciales de la Procuraduría.
 
 ###### Artículo 15.
 
 Las autoridades del Estado deberán colaborar con el Ministerio Público en el ejercicio de sus atribuciones. Asimismo, el Ministerio Público, en la investigación de los delitos, tendrá acceso a los archivos, registros públicos y protocolos notariales cualquiera que fuere su naturaleza.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 16.
 
-Son auxiliares del Ministerio Público para la investigación y persecución de los delitos, los integrantes de la Agencia Investigadora, los Peritos del Instituto de Servicios Periciales y el resto de las Instituciones Policiales.
+(DEROGADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)
 
 En la investigación de los delitos, los integrantes de la Agencia Investigadora y el resto de las Instituciones Policiales actuarán bajo la conducción y el mando funcional del Ministerio Público, en términos de lo dispuesto por la Constitución Federal, la Constitución Estatal y las demás disposiciones aplicables.
 
@@ -389,11 +517,23 @@ Los subprocuradores, fiscales, jefes de unidades administrativas y operativas, d
 
 El Procurador será representado ante las autoridades judiciales, administrativas y del trabajo por los servidores públicos que determine el Reglamento de la Ley Orgánica o por los agentes del Ministerio Público que se designen para el caso concreto, y con las formalidades que para el caso establezca la legislación aplicable.
 
-### CAPÍTULO I. GENERALIDADES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
+
+### CAPÍTULO IV. DE LA ATENCIÓN A VICTIMAS DEL DELITO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+###### Artículo 20 Bis.
+
+La Procuraduría podrá otorgar atención inmediata o especializada a las víctimas del delito, según sea el caso. Para tales efectos, su actuación se regirá de acuerdo a los lineamientos que expida la Comisión Ejecutiva Estatal.
 
 ## TÍTULO SEGUNDO. DEL SERVICIO CIVIL DE CARRERA
 
-### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 21.
 
@@ -439,7 +579,7 @@ IX. Buscará generar el sentido de pertenencia institucional; y
 
 X. Contendrá las normas para el registro de las incidencias del personal.
 
-### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
+### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
 
 ###### Artículo 25.
 
@@ -581,7 +721,7 @@ g) No incurrir en actos u omisiones que afecten la prestación del servicio; y
 
 h) Los demás requisitos que establezca el Reglamento del Servicio Civil de Carrera y demás disposiciones aplicables.
 
-### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
 
 ###### Artículo 28.
 
@@ -639,7 +779,7 @@ Se considera información confidencial por contener datos personales, la conteni
 
 Los miembros del Servicio Civil de Carrera que no aprueben los procedimientos de evaluación referidos en este capítulo, dejarán de prestar sus servicios en la Procuraduría, previo desahogo del procedimiento que establece el artículo 72 de esta Ley Orgánica.
 
-### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
+### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 38.
 
@@ -699,7 +839,7 @@ IV. Por las demás causas que establezcan las demás disposiciones aplicables.
 
 El Centro de Control de Confianza que cancele algún Certificado deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública a que alude la Ley General, sin perjuicio de que se realice otro registro correspondiente en las bases de datos de la Procuraduría, en términos del Reglamento de la Ley Orgánica.
 
-### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO CIVIL DE CARRERA
+### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 47.
 
@@ -711,7 +851,7 @@ Los programas de Profesionalización se integrarán por el conjunto de contenido
 
 Los servidores públicos del Servicio Civil de Carrera están obligados a participar en los programas de Profesionalización que determine el órgano que señale el Reglamento de la Ley Orgánica, sin perjuicio de que se establezcan mecanismos de coadyuvancia con instituciones públicas o privadas para lograr dicha Profesionalización, los cuales deberán cubrir un mínimo de 60 horas clase anuales.
 
-### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
+### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO CIVIL DE CARRERA
 
 ###### Artículo 49.
 
@@ -745,7 +885,7 @@ En caso de que los órganos jurisdiccionales determinen que la resolución por l
 
 Tal circunstancia será inscrita en el Registro Nacional de Personal de Seguridad Pública a que hace referencia la Ley General, así como en las bases de datos de la Procuraduría correspondientes.
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
 
 ###### Artículo 53.
 
@@ -771,7 +911,7 @@ Previo al ingreso como agente del Ministerio Público, integrante de la Agencia 
 
 ## TÍTULO TERCERO. DEL RÉGIMEN DISCIPLINARIO DEL SERVICIO CIVIL DE CARRERA
 
-### CAPÍTULO II. DE LAS CAUSAS DE RESPONSABILIDAD
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 57.
 
@@ -837,7 +977,7 @@ XVI. Someterse a los procedimientos de evaluación en los términos de esta Ley 
 
 XVII. Las demás que se establezcan en las disposiciones aplicables.
 
-### CAPÍTULO III. DE LAS SANCIONES
+### CAPÍTULO II. DE LAS CAUSAS DE RESPONSABILIDAD
 
 ###### Artículo 59.
 
@@ -849,7 +989,11 @@ II. Realizar o encubrir conductas que atenten contra la autonomía del Ministeri
 
 III. Distraer de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Procuraduría;
 
-IV. No solicitar los dictámenes periciales correspondientes o abstenerse de realizarlos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+IV. No solicitar los dictámenes periciales correspondientes, abstenerse de realizarlos o no informar los casos en que el peritaje sea irreproducible;
 
 V. No trabar el aseguramiento de bienes, objetos, instrumentos o productos de delito y no solicitar el decomiso, cuando así proceda, en los términos que establezca la legislación aplicable;
 
@@ -875,7 +1019,7 @@ III. Ejercer las funciones de tutor, curador o albacea judicial, a no ser que te
 
 IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista, árbitro o arbitrador.
 
-### CAPÍTULO I. DEL CONSEJO
+### CAPÍTULO III. DE LAS SANCIONES
 
 ###### Artículo 61.
 
@@ -929,7 +1073,7 @@ Las sanciones que en su caso se impongan en términos de esta Ley Orgánica, se 
 
 ## TÍTULO CUARTO. DISPOSICIONES COMPLEMENTARIAS
 
-### CAPÍTULO II. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
+### CAPÍTULO I. DEL CONSEJO
 
 ###### Artículo 65.
 
@@ -960,6 +1104,8 @@ IX. Las demás funciones que le otorguen las disposiciones aplicables.
 ###### Artículo 67.
 
 En el Acuerdo que al efecto se expida por parte del Procurador, se regulará todo lo relativo a su forma de integración, funcionamiento y demás aspectos propios del Consejo.
+
+### CAPÍTULO II. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
 
 #### SECCIÓN I. PRINCIPIOS GENERALES
 
@@ -1098,3 +1244,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 16 de Agosto del 2011.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y entrará en vigor en la forma y términos señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
+
+SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
