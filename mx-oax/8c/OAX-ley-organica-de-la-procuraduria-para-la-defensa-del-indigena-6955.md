@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-para-la-defensa-del-indigena-69
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-10-08"
-last_updated: "1994-10-08"
+last_updated: "2015-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DE LA PROCURADURIA PARA LA DEFENSA DEL INDIGENA
 
-LEY ORGANICA DE LA PROCURADURIA PARA LA DEFENSA DEL INDIGENA
+LEY ORGÁNICA DE LA PROCURADURÍA PARA LA DEFENSA DEL INDÍGENA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 7 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO CIENTO OCHENTA DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -534,3 +536,33 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 Al C....
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MAYO DE 2015.
+
+Primero. Se abroga la Ley Orgánica de la Procuraduría para la Defensa del Indígena, emitida mediante decreto número 210, publicado el 8 de octubre de 1994. Se derogan además las disposiciones que contravengan lo señalado en la presente Ley.
+
+Los procedimientos de naturaleza administrativa iniciados en contra del personal por probables faltas, deberán concluirse acorde a la normatividad aplicable en el momento de la instauración del procedimiento.
+
+Todos los actos e instrumentos jurídicos en trámite que venía desarrollando la Procuraduría para la Defensa del Indígena, se entenderán y se continuarán hasta su conclusión por la Defensoría.
+
+Los asuntos que con motivo de esta Ley deban pasar de un área a otra de la defensoría, permanecerán en el estado que hubieren alcanzado hasta que las áreas administrativas que los deban sustanciar queden totalmente conformadas, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+Segundo. Esta ley entrará en vigencia ciento ochenta días después de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Tercero. La Defensoría emitirá su Reglamento Interno dentro de los treinta días posteriores a su instalación.
+
+Cuarto. Para el desempeño de sus funciones y mientras se encuentre en vigencia el Código de Procedimientos Penales del Estado y sus reformas, el área que se encargue de los procedimientos penales del sistema acusatorio, contará dentro de su estructura con un área administrativa del Sistema Escrito. Los defensores adscritos a ella tendrán la obligación de asumir la defensa de los imputados a partir de su designación en los asuntos que se tramitan de conformidad con el Código de Procedimientos Penales y sus reformas. Le será aplicable, en lo que corresponda, lo dispuesto en esta Ley.
+
+Quinto. Los recursos materiales, financieros y humanos con los que cuente la Procuraduría para la Defensa del Indígena se trasferirán a la Defensoría que por este Decreto se crea.
+
+La Secretaría de la Contraloría y Transparencia Gubernamental, la Secretaría de Finanzas y la Secretaría de Administración se coordinarán con el fin de materializar la transferencia a que se refiere el párrafo anterior.
+
+Los derechos laborales adquiridos de los trabajadores serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes, que en su caso, sean aplicables.
+
+Sexto. Para todos los efectos jurídicos el cargo de Defensor de Oficio señalado en las leyes será ejercido por un Defensor Público.
+
+Séptimo. Los Defensores que al momento de la entrada en vigor del presente Decreto no cumplan con el requisito establecido en el artículo 39 fracciones 11 y 111 de la ley Orgánica de la Defensoría Pública del Estado de Oaxaca, estarán en posibilidad de acreditar con posterioridad que han concluido los estudios correspondientes a la enseñanza, en un plazo que no exceda de un año a partir de la publicación de la presente Ley.
+
+Octavo. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al mismo.
