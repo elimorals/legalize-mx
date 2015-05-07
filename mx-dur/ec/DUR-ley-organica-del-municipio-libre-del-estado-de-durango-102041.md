@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2014-07-06"
+last_updated: "2015-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 30 DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 7 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -345,7 +343,9 @@ I. En Durango, 17 regidores.
 
 II. En Gómez Palacio y Lerdo, 15 regidores.
 
-III. En Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Nombre de Dios, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, Tamazula y Tlahualilo, 9 regidores.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. En Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Nuevo Ideal, Vicente Guerrero, Mezquital, Nombre de Dios, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, Tamazula y Tlahualilo, 9 regidores.
 
 IV. En los demás municipios, se integrarán con 7 regidores.
 
@@ -2266,3 +2266,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNÁNDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
