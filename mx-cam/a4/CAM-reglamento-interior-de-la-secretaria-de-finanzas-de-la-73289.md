@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-finanzas-de-la-73289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-04"
-last_updated: "2015-04-14"
+last_updated: "2015-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MAYO DE 2015 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MAYO DE 2015.</small>
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 4 de febrero del 2010.
 
@@ -779,7 +779,9 @@ XXV. Informar, en todos los casos, a la autoridad competente de la Secretaría d
 
 XXVI. Informar a la autoridad competente de los hechos de que tengan conocimiento que puedan constituir infracciones administrativas o delitos de los servidores públicos adscritos a la Dirección en el desempeño de sus respectivas funciones; formular o, en su caso, ordenar la elaboración de las actas de constancias de hechos correspondientes, dando la intervención al órgano interno de control que corresponda; y
 
-XXXVII (SIC). Aplicar y dar cumplimiento a las facultades y obligaciones, respectivamente, en materia de vehículos terrestres de procedencia extranjera, internados en el territorio del Estado, conforme a las normas establecidas en el Convenio de Colaboración Administrativa, en Materia Fiscal Federal, celebrado entre el Estado y la Federación y, en su caso, en los Anexos del mismo, calificar y, en su caso, rechazar aquellos que no cumplan con los requisitos establecidos en la normatividad legal aplicable;
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2015)</small>
+
+XXVII. Aplicar y dar cumplimiento a las facultades y obligaciones, respectivamente, en materia de vehículos terrestres de procedencia extranjera, internados en el territorio del Estado, conforme a las normas establecidas en el Convenio de Colaboración Administrativa, en Materia Fiscal Federal, celebrado entre el Estado y la Federación y, en su caso, en los Anexos del mismo, calificar y, en su caso, rechazar aquellos que no cumplan con los requisitos establecidos en la normatividad legal aplicable;
 
 XXVIII. Integrar, actualizar, operar y controlar el Registro Estatal de Vehículos para efectos tributarios
 
