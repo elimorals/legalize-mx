@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2014-12-09"
+last_updated: "2015-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 7 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 9 DE DICIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 344 PUBLICADO EN LA G.G. DE 8 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -932,3 +932,17 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 7 DE MAYO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga la Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 10 de septiembre del 2004.
+
+CUARTO. Los sistemas estatal y municipales de protección deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. El Ejecutivo del Estado expedirá la reglamentación necesaria en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto. Los sistemas DIF estatal y municipales deberán reformar su normatividad en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para formalizar la creación de la Procuraduría de Protección a la que alude el mismo.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para el cumplimiento de los objetivos de la presente Ley.
