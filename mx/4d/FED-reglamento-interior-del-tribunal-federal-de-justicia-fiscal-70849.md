@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-04-29"
+last_updated: "2015-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 7 Y 14 DE MAYO DE 2015 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 7 DE MAYO DE 2015.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -2986,6 +2986,10 @@ D.O.F. 29 DE ABRIL DE 2015.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Décimo Segunda, Décimo Tercera y Décimo Cuarta Salas Regionales Metropolitanas, la Segunda Sala Regional de Oriente, la Sala Regional de Morelos, la Sala Regional de San Luis Potosí y la Sala Regional de Tabasco, que se crean, iniciarán sus operaciones a los treinta días naturales siguientes a la fecha en que la Junta de Gobierno y Administración adscriba a los Magistrados de Sala Regional necesarios para poder integrarlas conforme se indica en el artículo 31 de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+> <small>(F. DE E., D.O.F. 7 DE MAYO DE 2015)</small>
+
+Hasta en tanto no inicien funciones la nuevas Salas citadas en el párrafo anterior, las Salas Regionales Metropolitanas continuarán conociendo de los asuntos correspondientes a la región del Distrito Federal y del Estado de Morelos; la Primera Sala Regional de Oriente, de los correspondientes a la región de los Estados de Tlaxcala y Puebla; la Sala Regional del Centro II, de los correspondientes a la región de los Estados de San Luis Potosí y Querétaro; y la Sala Regional de Chiapas, de los correspondientes a la región de los Estados de Chiapas y Tabasco. Por cuanto hace a los expedientes que tenga a su cargo la Primera Sala Auxiliar que se transforma en la Décimo Cuarta Sala Regional Metropolitana, éstos serán resueltos por esta última.
 
 TERCERO.- En términos de lo señalado por el artículo 41, fracciones I y IV, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, la Junta de Gobierno y Administración determinará la redistribución de los expedientes en trámite y concluidos para la Décimo Segunda, Décimo Tercera y Décimo Cuarta Salas Regionales Metropolitanas, la Sala Regional de Morelos, la Segunda Sala Regional de Oriente y las Salas Regionales de San Luis Potosí y de Tabasco, que se encuentren radicados en las diversas Salas de la Región Metropolitana, en la Sala Regional de Oriente, en la Sala Regional Centro II y en la Sala Regional Chiapas-Tabasco, respectivamente, a fin de garantizar una adecuada división de las cargas de trabajo, tomando en cuenta el inventario de cada una de ellas. Asimismo, deberá dictar los demás acuerdos que sean necesarios para la consecución del objetivo de este Acuerdo.
 
