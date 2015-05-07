@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "2013-12-19"
+last_updated: "2015-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -41,9 +41,11 @@ LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO.
 
 ### CAPITULO PRIMERO. DEL EJERCICIO NOTARIAL
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 1.
 
-El ejercicio del notariado en el Estado de Durango, es una función de orden público. Está a cargo del Ejecutivo del Estado y por delegación se encomienda a profesionales del derecho, en virtud de la patente que para tal efecto les otorga el propio Ejecutivo.
+El ejercicio del notariado en el Estado de Durango, es una función de orden público. Está a cargo del Ejecutivo del Estado y por delegación se encomienda a profesionales del derecho, en virtud de la patente que para tal efecto les otorga el propio Ejecutivo, con base en lo establecido en el artículo 98 fracción IX de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTICULO 2.
 
@@ -113,7 +115,7 @@ VIII.- Patrocinar a los interesados en los procedimientos administrativos necesa
 
 El notario podrá recibir informaciones sobre construcciones o mejoras de fincas rústicas ó urbanas, a solicitud del propietario del predio ó de las obras, de tres testigos idóneos a juicio del notario, las que tendrán el mismo valor que las rendidas ante la autoridad judicial, siempre que no haya conflicto de intereses. Estas informaciones se inscribirán en el Registro Público de la Propiedad.
 
-> <small>(N. DE E. POR DECRETO No. 160 DE FECHA 8 DE AGOSTO DE 1993, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO UNICAMENTE PARA LOS EFECTOS DEL PROGRAMA DE CERTIFICACION DE DERECHOS EJIDALES Y TITULACION DE SOLARES URBANOS, DURANTE EL TIEMPO QUE EL MISMO DURE; FACULTANDOSE A LOS NOTARIO DEL ESTADO PARA REALIZAR SUS FUNCIONES FUERA DE LOS LIMITES DE SU DISTRITO JUDICIAL EXCLUSIVAMENTE PARA LA EJECUCION DE ESTE PROGRAMA)</small>
+> <small>(N. DE E. POR DECRETO No. 160 DE FECHA 8 DE AGOSTO DE 1993, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTÍCULO ÚNICAMENTE PARA LOS EFECTOS DEL PROGRAMA DE CERTIFICACIÓN DE DERECHOS EJIDALES Y TITULACIÓN DE SOLARES URBANOS, DURANTE EL TIEMPO QUE EL MISMO DURE; FACULTÁNDOSE A LOS NOTARIO DEL ESTADO PARA REALIZAR SUS FUNCIONES FUERA DE LOS LIMITES DE SU DISTRITO JUDICIAL EXCLUSIVAMENTE PARA LA EJECUCIÓN DE ESTE PROGRAMA)</small>
 
 ###### ARTICULO 8.
 
@@ -219,7 +221,7 @@ Los apéndices se encuadernarán ordenadamente y se empastarán en volúmenes, a
 
 Los documentos del apéndice no podrán desglosarse; los conservará el notario y seguirán a su libro respectivo del protocolo, cuando éste se envíe a la Dirección General de Notarías para ser archivado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO SEGUNDO BIS. DEL PROTOCOLO ABIERTO
 
@@ -305,11 +307,11 @@ Serán aplicables al Protocolo Abierto todas las demás disposiciones de la pres
 
 Los Notarios que hayan optado por actuar en el Protocolo Abierto deberán rendir en el mes de Enero de cada año un informe sobre el número de Volúmenes que hayan integrado con los folios utilizados durante el ejercicio anual inmediato anterior, así como sobre el número de folios en los que estuviese actuando pendientes de integrar el número necesario para constituir un nuevo Volumen. Así mismo, estarán obligados a presentar dichos Volúmenes ante la Secretaría General de Gobierno y la Dirección General de Notarías cuantas veces sean requeridos para ello. Lo anterior sin perjuicio de lo dispuesto por los Artículos 138, 139 y 140 de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 1979)</small>
 
 ### CAPITULO TERCERO. DE LAS ESCRITURAS Y DE LAS ACTAS
 
-> <small>(N. DE E. SE DEROGA LA ADICION PUBLICADA EN EL P.O. No. 49 DE FECHA 16 DE DICIEMBRE DE 1979, POR LO CUAL LA REDACCION DEL PRESENTE VUELVE AL ESTADO QUE TENIA ANTES DE LA MISMA; P.O. 19 DE JUNIO DE 1980)</small>
+> <small>(N. DE E. SE DEROGA LA ADICIÓN PUBLICADA EN EL P.O. No. 49 DE FECHA 16 DE DICIEMBRE DE 1979, POR LO CUAL LA REDACCIÓN DEL PRESENTE VUELVE AL ESTADO QUE TENIA ANTES DE LA MISMA; P.O. 19 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 27.
 
@@ -423,7 +425,7 @@ Cada escritura llevará al márgen, además de su número progresivo, la clasifi
 
 Se prohibe a los notarios consignar revocaciones, rescisiones ó modificaciones al contenido de una escritura con simple razón al márgen de ella. En estos casos debe extenderse nueva escritura y anotar la antigua, salvo disposición expresa de la Ley, en sentido contrario.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 42.
 
@@ -439,7 +441,7 @@ IV.- Las legalizaciones de firmas.
 
 V.- (DEROGADA, P.O. 19 DE JUNIO DE 1980)
 
-VI.- (DEROGADA, P.O.19 DE JUNIO DE 1980)
+VI.- (DEROGADA, P.O. 19 DE JUNIO DE 1980)
 
 VII.- (DEROGADA, P.O. 19 DE JUNIO DE 1980)
 
@@ -525,7 +527,7 @@ IX.- (DEROGADA, P.O. 19 DE JUNIO DE 1980)
 
 Las notificaciones que la Ley permita hacer por medio de notario, ó que no estén expresamente reservadas a otros funcionarios, podrá hacerlas el notario por medio de instructivo que contenga la relación suscinta del objeto de la notificación, siempre que a la primera busca no se encuentre a la persona que deba ser notificada; pero cerciorándose previamente de que dicha persona tiene su domicilio en la casa donde se busca y haciéndose constar en el acta el nombre de la persona que recibe el instructivo, salvo disposiciones expresas en otras leyes.
 
-> <small>(N. DE E. SE DEROGA LA ADICION PUBLICADA EN EL P.O. No. 49 DE FECHA 16 DE DICIEMBRE DE 1979, POR LO CUAL LA REDACCION DEL PRESENTE VUELVE AL ESTADO QUE TENIA ANTES DE LA MISMA; P.O. 19 DE JUNIO DE 1980)</small>
+> <small>(N. DE E. SE DEROGA LA ADICIÓN PUBLICADA EN EL P.O. No. 49 DE FECHA 16 DE DICIEMBRE DE 1979, POR LO CUAL LA REDACCIÓN DEL PRESENTE VUELVE AL ESTADO QUE TENIA ANTES DE LA MISMA; P.O. 19 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 46.
 
@@ -717,11 +719,11 @@ Puede autorizarse permutas del cargo notarial entre los notarios del Estado, pre
 
 Puede asímismo autorizar a petición del interesado cuántos cambios de jurisdicción territorial notarial estime pertinente, excepción hecha de los casos en que el Notario lo sea por Ministerio de Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ENERO DE 1982)</small>
 
 ### CAPITULO TERCERO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 70.
 
@@ -863,7 +865,7 @@ Si después de extendida la Patente de Aspirante de Notario, resultare que por c
 
 No podrán considerarse como aspirante de Notario, los Jueces que por Ministerio de Ley ejerzan como notarios.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 7 DE ENERO DE 1982)</small>
 
 ### CAPITULO CUARTO. DE LOS NOTARIOS
 
@@ -981,13 +983,13 @@ El día y hora señalados para el ejercicio práctico, se reunirán todos los ca
 
 El examen teórico será público y se verificará en el lugar que determine la Dirección General de Notarías y se realizará a los sustentantes por el orden de presentación de sus instancias. El que por cualquier motivo no acudiere, perderá su turno y será el último. Si tampoco se presentare, se entenderá que ha desistido, pero si justificare debidamente hallarse enfermo u otro motivo estimable, a juicio del jurado, podrá concedérsele por éste un breve plazo improrrogable.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 98.
 
-Una vez concluído el examen teórico, el Secretario del jurado, dará lectura al trabajo práctico del sustentante. En seguida el jurado procederá por mayoría de votos a decidir la aprobación o reprobación del sustentante, mediante notas del uno al diez que calificará cada sinodal y de acuerdo con su opinión sobre la prueba práctica y con notas del uno al diez que aplicará cada sinodal en vista del resultado de su réplica teórica, lo que dará a conocer desde luego al interesado.
+Una vez concluido el examen teórico, el Secretario del jurado, dará lectura al trabajo práctico del sustentante. En seguida el jurado procederá por mayoría de votos a decidir la aprobación o reprobación del sustentante, mediante notas del uno al diez que calificará cada sinodal y de acuerdo con su opinión sobre la prueba práctica y con notas del uno al diez que aplicará cada sinodal en vista del resultado de su réplica teórica, lo que dará a conocer desde luego al interesado.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Será triunfador del examen de oposición, el sustentante aprobado que obtenga la calificación mayor, para el caso de empate, se declarará como triunfador al que haya alcanzado la mayor puntuación en la prueba teórica. Si persistiera el empate, el jurado resolverá en escrutinio secreto por mayoría de votos. La calificación mínima para ser aprobado será de ocho.
+Será triunfador del examen de oposición, el sustentante aprobado que obtenga la calificación mayor, para el caso de empate, se declarará como triunfador al que haya alcanzado la mayor puntuación en la prueba teórica. Si persistiera el empate, el jurado resolverá en escrutinio secreto por mayoría de votos.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
 
@@ -999,7 +1001,7 @@ Si como resultado del examen, el jurado considera que ninguno de los sustentante
 
 Cumplidos los requisitos a que se refieren los artículos anteriores, el Ejecutivo del Estado resolverá en definitiva si concede o niega la patente de notario al que hubiere triunfado en el exámen, en caso de concederse se registrará en la Dirección del Comercio de su demarcación y en el Consejo de (sic) Colegio de Notarios; y se publicará por una sola vez en el Periódico Oficial del Estado, a costa del interesado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O 16 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O 16 DE DICIEMBRE DE 1979)</small>
 
 ### CAPITULO SEXTO. DE LA SEPARACION TEMPORAL DE NOTARIOS DE LA ASOCIACION, DE LA SUPLENCIA Y DE LOS ADSCRITOS
 
@@ -1319,7 +1321,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los diec
 
 El Gobernador Constitucional del Estado, Ing. ALEJANDRO PAEZ URQUIDI.- El Secretario General de Gobierno, Lic. A. SERGIO GUERRERO MIER.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE DICIEMBRE DE 1979.
 
@@ -1392,3 +1394,9 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO. En lo relativo a lo estipulado en la fracción I del artículo 86 del presente decreto, los notarios públicos que se encuentren en funciones, deberán actualizar la fianza a que se hace referencia, dentro de los sesenta días naturales a la entrada en vigor del presente decreto.
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
