@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2015-04-18"
+last_updated: "2015-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
 
@@ -57,9 +57,11 @@ II.- Por los delitos que se cometan en otra entidad federativa cuando produzcan 
 
 III.- Por los delitos permanentes y los continuados cometidos en otra entidad federativa y que se sigan cometiendo en el Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-2o.- Este Código se aplicará a todas las personas a partir de los dieciocho años de edad, cualesquiera que sean su residencia o nacionalidad.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+2o.- Este Código se aplicará a todas las personas, cualesquiera que sean su residencia o nacionalidad. A las personas físicas se les aplicará a partir de los dieciocho años de edad.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -87,23 +89,47 @@ Del hecho típico.
 
 Del delito.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 6o.- El delito puede ser realizado por acción o por omisión.
 
-Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad. No será autor del resultado si éste sobrevino en virtud de un acontecimiento extraño a su propia actividad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si: de acuerdo con las circunstancias podía evitarlo, era garante del bien jurídico y su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo. Es garante del bien jurídico el que: a) acepto efectivamente su custodia; b) voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza; c) con una culposa o fortuita actividad precedente generó el peligro para el bien jurídico; o d) se halla en una efectiva y concreta posición de custodia de la vida, salud o integridad corporal de algún miembro de su familia.
+Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-8o.- Los delitos sólo pueden cometerse dolosa o culposamente:
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-I.- Obra dolosamente el que, conociendo los elementos subjetivos del hecho típico, quiere o acepta su realización; y
+7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si:
 
-II.- Obra culposamente el que no provee el cuidado posible y adecuado para no producir, o en su caso evitar, la previsible y evitable lesión típica del bien jurídico.
+I. Es garante del bien jurídico;
+
+II. De acuerdo con las circunstancias podía evitarlo, y
+
+III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+
+Es garante del bien jurídico el que:
+
+a) Aceptó efectivamente su custodia;
+
+b) Voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza;
+
+c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico; o,
+
+d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+8o.- Los delitos pueden ser dolosa o culposamente realizados.
+
+I. Actúa con dolo la persona que al momento de la realización del hecho se representa el resultado típico y quiere o acepta su realización.
+
+II. Actúa culposamente quien al momento de la realización del hecho típico infringe un deber objetivo de cuidado que, bajo las circunstancias concretas del hecho, podía y debía haber observado.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -171,65 +197,71 @@ d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubiere
 
 De las causas de exclusión del delito.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-14.- El delito se excluye cuando:
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-I.- El hecho se realice sin intervención de la voluntad del agente;
+14.- El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos que integran la descripción legal del delito, así como el error de tipo.
 
-II. No se encuentra comprobado el cuerpo del delito;
+Son causas de justificación: el consentimiento del titular del bien jurídico, la legítima defensa, el estado de necesidad, el ejercicio de un derecho y el cumplimiento de un deber.
 
-III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
+Son causas de inculpabilidad: el error de prohibición, el estado de necesidad disculpante, la inimputabilidad y la inexigibilidad de otra conducta.
 
-a).- Que el bien jurídico sea disponible;
+A. Causas de atipicidad:
 
-b).- Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y
+I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo o por caso fortuito;
 
-c).- Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o bien, que el hecho se realice en circunstancias tales que permitan fundadamente presumir que, de haberse consultado al titular, éste hubiere otorgado el mismo;
+II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
 
-IV.- Se repela una agresión real, actual o inminente, y sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
+III. Error de tipo: Es aquel que recae sobre alguno de los elementos que integran la descripción legal del delito de que se trate. Para tales efectos, será causa de atipicidad el error de tipo invencible. De igual forma cuando se trate de error vencible y el delito no admita la comisión culposa.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+B. Causas de justificación:
 
-Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar sin derecho, al hogar del Agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender o a los de vecinos, al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación.
+I. Consentimiento. Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE FEBRERO DE 2000)</small>
+a) Que se trate de un bien jurídico disponible;
+
+b) Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien; y,
+
+c) Que el consentimiento sea expreso o tácito y no medie algún vicio.
+
+Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
+
+II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa, racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
+
+Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 
 También se presumirá legítima defensa cuando se trate de impedir o se impida la comisión de un delito a bordo de vehículos destinados al transporte público o privado; así mismo, cuando se produzca un daño en contra de quien esté obstaculizando un camino o carretera con el objeto de cometer un delito; y en general cuando se actúe contra quién se encuentre en algún lugar y en circunstancias tales que revelen la probabilidad de una agresión;
 
-V.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
+III. Estado de necesidad: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
-VI.- La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que éste último no se realice con el solo propósito de perjudicar a otro;
+IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
 
-VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico siempre y cuando lo haya previsto o le fuera previsible;
+C. Causas de inculpabilidad:
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+I. Error de prohibición: Se realice la acción u omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
 
-Cuando la capacidad a que se refiere el párrafo anterior, sólo se encuentre considerablemente disminuida, se estará a lo dispuesto por el artículo 62 de este Código;
+II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación.
 
-VIII.- Se realice la acción u omisión bajo un error invencible:
+Cuando la capacidad a que se refiere el párrafo anterior se encuentre disminuida, se estará a lo dispuesto en este código.
 
-a).- Sobre alguno de los elementos esenciales que integran el tipo penal; o
+IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
 
-b).- Respecto de la licitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma, o porque crea que está justificada su conducta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Si los errores a que se refieren los incisos anteriores son vencibles, se estará a lo dispuesto en el artículo 64 de este Código;
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-IX.- Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho; o
+15.- Al que se exceda en los casos de legítima defensa, estado de necesidad, cumplimiento de un deber o ejercicio de un derecho, a que se refiere el artículo anterior, se le impondrá la pena del delito culposo.
 
-X.- El resultado típico se produce por caso fortuito.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-15.- Al que se exceda en los casos de defensa legítima, estado de necesidad, cumplimiento de un deber, o ejercicio de un derecho a que se refieren las fracciones IV, V y VI del artículo 14, se le impondrá la pena del delito culposo.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-16.- Las causas de exclusión del delito se harán valer de oficio.
+16.- Las causas de exclusión del delito se harán valer de oficio cuando se actualice alguna de ellas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -735,21 +767,27 @@ Se entiende por pandilla, la reunión habitual, ocasional o transitoria, de tres
 
 Imputabilidad disminuida.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-62.- Si la capacidad del autor de comprender el carácter ilícito de hecho, o de determinarse de acuerdo con esa compresión, sólo se encuentra disminuida por las causas señaladas en la fracción VII del artículo 14 de este Código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad, correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 56 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+62.- Si la capacidad del autor de comprender el carácter ilícito del hecho, o de determinarse de acuerdo con esa comprensión, solo se encuentra disminuida por las causas señaladas en el artículo 14 de este Código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad, correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 56 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
 
 63.- (DEROGADO, P.O. 28 DE NOVIEMBRE DE 1998)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)</small>
 
 ### CAPITULO VI.
 
-Error.
+Errores vencibles.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-64.- El error vencible sobre la materia: del inciso a) de la fracción VIII del artículo 14, se sancionará desde la cuarta parte del mínimo a la cuarta parte del máximo que corresponda al delito doloso de que se trate; y del inciso b) de la mencionada fracción, la punibilidad va de una tercera parte del mínimo a la tercera parte del máximo del respectivo delito doloso.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+64.- El error de tipo vencible, se sancionará desde la cuarta parte del mínimo a la cuarta parte del máximo que corresponda al delito doloso de que se trate, siempre y cuando dicho ilícito admita la comisión culposa. En el caso del error de prohibición vencible, la punibilidad será de una tercera parte del mínimo a la tercera parte del máximo del respectivo delito.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -757,9 +795,11 @@ Error.
 
 Delito continuado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-65.- En caso de delito continuado, la pena correspondiente al delito cometido se aumentará con la mitad de su mínimo a la mitad de su máximo.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+65.- En caso de delito continuado, la pena correspondiente al delito cometido se aumentará hasta en una mitad de la correspondiente al máximo del delito cometido.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1035,9 +1075,97 @@ II.- Si fuere la de confinamiento, se conmutará por multa, desde un tercio a un
 
 98.- La conmutación no exime de la reparación del daño.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)</small>
+
+### CAPITULO UNICO.
+
+De las causas de extinción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+98 bis. La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:
+
+I. Muerte del sujeto activo;
+
+II. Amnistía;
+
+III. Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente;
+
+IV. Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indulto
+
+V. Cumplimiento de la pena o medida de seguridad;
+
+VI. Prescripción;
+
+VII. Supresión del tipo penal;
+
+VIII. Existencia de una sentencia firme anterior dictada en proceso instaurado por los mismos hechos, y
+
+IX. El cumplimiento del criterio de oportunidad o la solución alterna correspondiente, en términos del Código Nacional de Procedimientos Penales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO I], P.O. 7 DE MAYO DE 2015)</small>
+
+## TITULO SEPTIMO.
+
+Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
 
 ### CAPITULO I.
+
+Rebelión y Espionaje.
+
+137.- Cometen el delito de rebelión, los que se alzan en armas en contra del Gobierno del Estado, para:
+
+I.- Abolir o reformar la Constitución Política del Estado o las instituciones que de ella emanen.
+
+II.- Para reformar, destruir o impedir la integración de éstas o su libre ejercicio; o la elección de algunos de los altos funcionarios del Estado a que se refiere el artículo 139 de la Constitución Política Local.
+
+III.- Para separar o suspender de sus cargos a alguno o algunos funcionarios del Estado.
+
+IV.- Sustraer de la obediencia del Gobierno todo o parte del territorio del Estado a algunas fuerzas dependientes de dicho Gobierno.
+
+V.- Despojar de sus atribuciones a alguno de los Poderes del Estado o usurpárselas.
+
+138.- Se impondrá prisión de tres a seis años, multa de quinientos a tres mil pesos y suspensión de derechos políticos hasta por cinco años, por el delito previsto en el artículo precedente y además en los casos siguientes:
+
+I.- Al que residiendo en territorio ocupado por el Gobierno, bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres o medios de transporte o de comunicación o impida que las tropas del Gobierno reciban esos auxilios.
+
+Si residiere en territorio ocupado por los rebeldes, la reclusión será de seis meses a tres años;
+
+II.- Al funcionario público que teniendo, por razón de su empleo o cargo, el plano de una fortificación, puerto o rada, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
+
+139.- Se aplicarán de seis meses a tres años de prisión y multa de trescientos a tres mil pesos:
+
+I.- Al que invite formal y directamente para una rebelión;
+
+II.- A los que estando bajo la protección y garantía del Gobierno, oculten o auxilien a los espías o exploradores de los rebeldes, sabiendo que lo son;
+
+III.- A los que, rotas las hostilidades y estando en las condiciones de la fracción anterior, mantengan relaciones con el enemigo, para proporcionarle noticias concernientes a las operaciones militares u otras que les sean útiles; y
+
+IV.- Al que voluntariamente sirva un empleo o cargo subalterno o comisión, en lugar ocupado por los rebeldes y por designación de éstos, ejerciendo funciones encaminadas a afirmar al Gobierno rebelde y a derribar al Constitucional.
+
+140.- A los Jefes o Agentes del Gobierno y a los rebeldes que después del combate dieren muerte a los prisioneros directamente o por medio de órdenes, se les aplicará la pena de veinticinco a treinta años de prisión.
+
+141.- A los extranjeros que cometan el delito de rebelión se les aplicará de ocho a quince años de prisión y se les prohibirá residir en territorio del Estado.
+
+142.- Los rebeldes no incurrirán en sanción por las muertes ni las lesiones inferidas en el acto de un combate; pero por todo homicidio que se cometa y por toda lesión que se cause fuera de la lucha, incurrirán en sanción, tanto el que manda ejecutar el acto antisocial, como el que lo permita y los que lo ejecuten.
+
+143.- No se aplicará sanción a los que depongan las armas antes de que se hayan roto las hostilidades o de ser tomados prisioneros, si no se hubiere cometido alguno de los delitos mencionados en el artículo que sigue.
+
+144.- Cuando en las rebeliones se cometan los delitos de homicidio, robo, secuestro, despojo, incendio, saqueo u otros delitos, se aplicarán las sanciones que por los mismos y el de rebelión corresponda, según las reglas de acumulación.
+
+145.- Cuando ya declarada la guerra entre México y otra Nación, o rotas las hostilidades, se inicie o fomente en el Estado una rebelión local, se aumentarán hasta en una tercera parte de su duración las penas establecidas en este capítulo sin que puedan exceder de cuarenta años de prisión.
+
+#### SECCION PRIMERA.
 
 Muerte del sujeto activo.
 
@@ -1045,15 +1173,11 @@ Muerte del sujeto activo.
 
 99.- La muerte del sujeto activo extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad a excepción de la reparación del daño y del decomiso de los instrumentos del delito.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-## TITULO SEPTIMO.
+> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO II], P.O. 7 DE MAYO DE 2015)</small>
 
-Extinción de la acción persecutoria y de la potestad de ejecutar penas y medidas de seguridad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-### CAPITULO II.
+#### SECCION SEGUNDA.
 
 Amnistía.
 
@@ -1061,17 +1185,13 @@ Amnistía.
 
 100.- La amnistía extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad, excepto la reparación del daño y el decomiso de los instrumentos del delito, en los términos de la ley que la otorgue; si no se expresaren, se entenderá que la acción persecutoria y la potestad para aplicar penas y medidas de seguridad se extinguen con todos sus efectos, con relación a todos los sujetos activos.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-# LIBRO SEGUNDO.
+> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO III], P.O. 7 DE MAYO DE 2015)</small>
 
-## TITULO PRIMERO.
+#### SECCION TERCERA.
 
-Delitos contra la seguridad interior del Estado.
-
-### CAPITULO III.
-
-Perdón.
+Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1085,15 +1205,19 @@ El perdón sólo beneficia al inculpado en cuyo favor se otorga a menos que el o
 
 El perdón del ofendido y del legitimado para otorgarlo también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se trate de los delitos mencionados en los párrafos primero y segundo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPITULO IV.
+> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO IV], P.O. 7 DE MAYO DE 2015)</small>
 
-Reconocimiento de inocencia e indulto.
+#### SECCION CUARTA.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indulto.
 
-102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código de Procedimientos Penales o Procesal Penal, según sea el caso, y se estará a lo dispuesto en el artículo 50 de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+
+102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código Nacional de Procedimientos Penales, según sea el caso y se estará a lo dispuesto en el artículo 50 de este Código.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1139,21 +1263,21 @@ También procederá el indulto, de oficio o a petición de parte, cuando se dict
 
 115.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-## TITULO SEGUNDO.
+> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO V], P.O. 7 DE MAYO DE 2015)</small>
 
-Delitos contra la seguridad pública.
+#### SECCION QUINTA.
 
-### CAPITULO V.
-
-Rehabilitación.
+Cumplimiento de la pena o medida de seguridad.
 
 116.- La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso; o reintegrarlo en el desempeño de una profesión, cargo o empleo de que también hubiere sido privado o en cuyo ejercicio esté suspenso.
 
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPITULO VI.
+> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO VI], P.O. 7 DE MAYO DE 2015)</small>
+
+#### SECCION SEXTA.
 
 Prescripción.
 
@@ -1231,51 +1355,25 @@ El Juez de la causa podrá interrumpir la prescripción del delito a petición d
 
 136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
-### CAPITULO I.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Rebelión y Espionaje.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
 
-137.- Cometen el delito de rebelión, los que se alzan en armas en contra del Gobierno del Estado, para:
+#### SECCION SEPTIMA.
 
-I.- Abolir o reformar la Constitución Política del Estado o las instituciones que de ella emanen.
+De las demás causas de extinción.
 
-II.- Para reformar, destruir o impedir la integración de éstas o su libre ejercicio; o la elección de algunos de los altos funcionarios del Estado a que se refiere el artículo 139 de la Constitución Política Local.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- Para separar o suspender de sus cargos a alguno o algunos funcionarios del Estado.
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
 
-IV.- Sustraer de la obediencia del Gobierno todo o parte del territorio del Estado a algunas fuerzas dependientes de dicho Gobierno.
+136 Bis. Respecto de las causas de extinción señaladas en las fracciones VII, VIII y IX del artículo 98 Bis, se estará a lo dispuesto por el Código Nacional de Procedimientos Penales.
 
-V.- Despojar de sus atribuciones a alguno de los Poderes del Estado o usurpárselas.
+# LIBRO SEGUNDO.
 
-138.- Se impondrá prisión de tres a seis años, multa de quinientos a tres mil pesos y suspensión de derechos políticos hasta por cinco años, por el delito previsto en el artículo precedente y además en los casos siguientes:
+## TITULO PRIMERO.
 
-I.- Al que residiendo en territorio ocupado por el Gobierno, bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres o medios de transporte o de comunicación o impida que las tropas del Gobierno reciban esos auxilios.
-
-Si residiere en territorio ocupado por los rebeldes, la reclusión será de seis meses a tres años;
-
-II.- Al funcionario público que teniendo, por razón de su empleo o cargo, el plano de una fortificación, puerto o rada, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
-
-139.- Se aplicarán de seis meses a tres años de prisión y multa de trescientos a tres mil pesos:
-
-I.- Al que invite formal y directamente para una rebelión;
-
-II.- A los que estando bajo la protección y garantía del Gobierno, oculten o auxilien a los espías o exploradores de los rebeldes, sabiendo que lo son;
-
-III.- A los que, rotas las hostilidades y estando en las condiciones de la fracción anterior, mantengan relaciones con el enemigo, para proporcionarle noticias concernientes a las operaciones militares u otras que les sean útiles; y
-
-IV.- Al que voluntariamente sirva un empleo o cargo subalterno o comisión, en lugar ocupado por los rebeldes y por designación de éstos, ejerciendo funciones encaminadas a afirmar al Gobierno rebelde y a derribar al Constitucional.
-
-140.- A los Jefes o Agentes del Gobierno y a los rebeldes que después del combate dieren muerte a los prisioneros directamente o por medio de órdenes, se les aplicará la pena de veinticinco a treinta años de prisión.
-
-141.- A los extranjeros que cometan el delito de rebelión se les aplicará de ocho a quince años de prisión y se les prohibirá residir en territorio del Estado.
-
-142.- Los rebeldes no incurrirán en sanción por las muertes ni las lesiones inferidas en el acto de un combate; pero por todo homicidio que se cometa y por toda lesión que se cause fuera de la lucha, incurrirán en sanción, tanto el que manda ejecutar el acto antisocial, como el que lo permita y los que lo ejecuten.
-
-143.- No se aplicará sanción a los que depongan las armas antes de que se hayan roto las hostilidades o de ser tomados prisioneros, si no se hubiere cometido alguno de los delitos mencionados en el artículo que sigue.
-
-144.- Cuando en las rebeliones se cometan los delitos de homicidio, robo, secuestro, despojo, incendio, saqueo u otros delitos, se aplicarán las sanciones que por los mismos y el de rebelión corresponda, según las reglas de acumulación.
-
-145.- Cuando ya declarada la guerra entre México y otra Nación, o rotas las hostilidades, se inicie o fomente en el Estado una rebelión local, se aumentarán hasta en una tercera parte de su duración las penas establecidas en este capítulo sin que puedan exceder de cuarenta años de prisión.
+Delitos contra la seguridad interior del Estado.
 
 ### CAPITULO II.
 
@@ -1312,6 +1410,10 @@ Si el evadido fuere un procesado o sentenciado por el delito de secuestro agrava
 156.- Si la reaprehensión del prófugo se lograre por gestiones del infractor de la evasión, se aplicará a éste de tres días a un año de prisión, según la gravedad del delito imputado al recluído o detenido.
 
 157.- Al recluído que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros recluidos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
+
+## TITULO SEGUNDO.
+
+Delitos contra la seguridad pública.
 
 ### CAPITULO II.
 
@@ -1359,10 +1461,6 @@ Asociaciones delictuosas.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
-## TITULO TERCERO.
-
-Delitos en materia de vías de comunicación y correspondencia.
-
 ### CAPITULO V.
 
 Preservación de indicios y evidencias en el lugar de los hechos.
@@ -1386,10 +1484,6 @@ Provocación de un delito y apología de éste.
 165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien días de salario mínimo, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-## TITULO CUARTO.
-
-Delitos contra la autoridad.
 
 ### CAPITULO VII
 
@@ -1467,6 +1561,10 @@ II.- Al que indebidamente intercepte una comunicación escrita que no esté diri
 
 176.- La disposición del artículo 166 no comprende la correspondencia que circule por la estafeta, respecto de la cual se observará lo dispuesto en la legislación Federal.
 
+## TITULO TERCERO.
+
+Delitos en materia de vías de comunicación y correspondencia.
+
 ### CAPITULO I.
 
 Desobediencia y resistencia de particulares.
@@ -1483,10 +1581,6 @@ Desobediencia y resistencia de particulares.
 
 182.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 
-## TITULO QUINTO.
-
-Delitos contra la salud.
-
 ### CAPITULO II.
 
 Oposición a que se ejecute alguna obra o trabajo público.
@@ -1496,6 +1590,10 @@ Oposición a que se ejecute alguna obra o trabajo público.
 184.- Cuando el delito se cometa por varias personas, de común acuerdo, la pena será de tres meses a un año de prisión, si solo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, podrá aumentarse la pena hasta dos años de prisión.
 
 A las penas de que trata este artículo y el que precede, se podrá agregar una multa de cien a mil pesos, cuando no hubiere lugar a reparación del daño.
+
+## TITULO CUARTO.
+
+Delitos contra la autoridad.
 
 ### CAPITULO III.
 
@@ -1512,12 +1610,6 @@ Delitos cometidos contra funcionarios públicos.
 187.- Al que cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones, o con motivo de ella, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
 
 188.- Cuando se trate de ultrajes hechos al Congreso del Estado, a un Tribunal, o a un Cuerpo Colegiado de la Administración de Justicia o a cualquiera Institución Pública, se aplicarán de un mes a un año de prisión y multa de cien a mil pesos.
-
-## TITULO SEXTO.
-
-Delitos contra la Dignidad y el Desarrollo de las Personas Menores de Edad o de quienes no tienen la Capacidad para comprender el significado del hecho.
-
-> <small>(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO I.
 
@@ -1545,6 +1637,10 @@ II.- Al que intencionalmente propague una epizootia o una plaga o parásitos o g
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2015)</small>
 
+## TITULO QUINTO.
+
+Delitos contra la salud.
+
 ### CAPITULO III.
 
 Venta de bebidas alcohólicas a menores de edad.
@@ -1561,25 +1657,21 @@ Venta de bebidas alcohólicas a menores de edad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
-## TITULO SEPTIMO.
-
-Revelación de secretos.
-
 ### CAPITULO I.
 
 Ultrajes a la moral pública o a las buenas costumbres o incitación a la prostitución.
 
 > <small>(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
-## TITULO OCTAVO.
-
-Delitos cometidos por servidores públicos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
-
 ### CAPITULO II.
 
 Corrupción de menores, de incapaces y pornografía infantil.
+
+> <small>(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+
+## TITULO SEXTO.
+
+Delitos contra la Dignidad y el Desarrollo de las Personas Menores de Edad o de quienes no tienen la Capacidad para comprender el significado del hecho.
 
 > <small>(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -1667,6 +1759,10 @@ III.- Si el sujeto activo es ministro de un culto religioso.
 
 202.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
+## TITULO SEPTIMO.
+
+Revelación de secretos.
+
 ### CAPITULO UNICO.
 
 203.- Se aplicará multa de cien a tres mil pesos o prisión de dos meses a un año, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada, que conoce o ha recibido con motivo de su empleo, cargo o puesto.
@@ -1674,6 +1770,12 @@ III.- Si el sujeto activo es ministro de un culto religioso.
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+## TITULO OCTAVO.
+
+Delitos cometidos por servidores públicos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO I.
 
@@ -1925,10 +2027,6 @@ Peculado y concusión.
 
 (REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
-
 ### CAPITULO V BIS.
 
 Enriquecimiento Ilícito.
@@ -1988,10 +2086,6 @@ I.- Por patrocinar o ayudar a diversos contendientes o partes, con intereses opu
 II.- Por abandonar la defensa de un cliente o negocio, sin motivo justificado y causando daño;
 
 III.- Al defensor de un inculpado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover más pruebas ni dirigirlo en su defensa.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO I.
 
@@ -2065,6 +2159,10 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 
 VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un documento falso, sea público o privado.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO III.
 
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
@@ -2124,6 +2222,10 @@ Se aumentaran en una mitad las penas previstas en el párrafo anterior, a quien 
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 232 Bis A.- Se aumentará la pena prevista en el artículo anterior en dos terceras partes al que cometa el delito de suplantación de identidad dentro de la tramitación de la averiguación previa o proceso penal, conforme a las disposiciones penales aplicables.
+
+## TITULO DECIMO.
+
+Falsedad.
 
 ### CAPITULO V.
 
@@ -2971,12 +3073,6 @@ TITULO DECIMONOVENO.
 
 Delitos en contra de las personas en su patrimonio.
 
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
-
 ### CAPITULO I.
 
 Robo.
@@ -3321,6 +3417,12 @@ Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento ve
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO IV BIS.
 
 Extorsión.
@@ -3394,6 +3496,282 @@ II.- De cinco a doce años de prisión y de doscientos a quinientos días multa,
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
+
+### CAPITULO I.
+
+Delitos contra la Legitimidad de las Elecciones.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+391.- Se impondrá prisión de seis meses a tres años y multa de diez a cien días del salario mínimo vigente, a quien:
+
+I.- Vote sin tener credencial para votar y no esté inscrito en la lista nominal de electores;
+
+II.- Vote más de una vez en una misma elección;
+
+III.- Vote con una credencial de la que no sea titular;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+IV.- Haga proselitismo o presione de cualquier manera a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+V.- Se apodere o destruya una o varias urnas de votación, obstaculice o Interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electores;
+
+VI.- Recoja sin causa prevista por la Ley, una o varias credenciales de elector de los ciudadanos, antes o después de emitir su voto;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+VII.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
+
+VIII.- Viole de cualquier manera el secreto del voto;
+
+IX.- Organice, el día de la elección, la reunión y traslado de electores con el objeto de llevarlos a votar y de violar la libertad y el secreto del voto;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales;
+
+XI.- Se apodere, destruya o deteriore ilegítimamente propaganda o documentación relativa a un partido político o candidato durante el proceso electoral;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa de paga o dádiva;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XIII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación de la casilla;
+
+XIV.- Por cualquier medio obstaculice o impida la realización de los cómputos electorales posteriores a la jornada electoral; y
+
+XV.- Se posesione de oficinas de los órganos electorales o retenga una o varias personas, con el fin de obligar a la autoridad electoral, a que realice o deje de realizar un acto de su competencia.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XVI.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XVII.- Solicite y retenga durante la campaña electoral una o varias credenciales de elector con motivo no lícito.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+392.- Se impondrá de uno a cinco años de prisión, quien o quienes mediante la violencia provoquen desestabilización o ingobernabilidad en uno o varios municipios del Estado, con la finalidad de alterar el resultado de las elecciones, estén o no agotados los recursos previstos por la ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+393.- Se impondrá prisión de tres a siete años y multa de setenta a doscientos días de salario mínimo vigente, a quien por cualquier medio participe en la alteración del registro de electores, del Padrón Electoral y de los listados nominales o en la expedición ilícita de credenciales para votar.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+394.- Se impondrá prisión de uno a seis años y multa de cien a doscientos días de salario mínimo vigente, al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III.- Substraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+
+IV.- Suspendan el desarrollo normal de la votación o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral, o respecto de sus resultados; y
+
+VI.- Impida la instalación, apertura o cierre de una casilla.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+395.- Se impondrá prisión de dos a nueve años al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas, aprovechen ilícitamente fondos, bienes o servicios en los términos del artículo 398 de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+396.- Se impondrá prisión de dos a seis años y multa de cincuenta a doscientos días de salario mínimo vigente al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya o haga uso indebido de documentos relativos al Registro Federal de Electores que deban utilizarse en las elecciones locales;
+
+II.- Se abstenga de cumplir sin causa justificada con sus obligaciones electorales en perjuicio del proceso;
+
+III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos, o materiales electorales, sin mediar causa justificada;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
+
+VI.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII.- Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia, o impida su instalación;
+
+VIII.- Instale una casilla en lugar distinto al señalado por los órganos electorales, sin causa justificada;
+
+IX.- No haga constar oportunamente las violaciones de que haya tenido conocimiento en el desarrollo del proceso electoral, o se rehuse infundadamente a admitir los recursos que ante él se interpongan;
+
+X.- No admita la solicitud de inscripción de alguna persona o se niegue a inscribirla, cuando sea procedente, altere oculte o substraiga documentación relativa a los padrones y listas nominales que deban utilizarse en las elecciones locales;
+
+XI.- No proporcione oportunamente la documentación electoral correspondiente a los presidentes de las mesas directivas de casillas, a no ser que medie causa justificada;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XII.- Sin causa prevista por la Ley, expulse u ordene el retiro de la casilla electoral de representantes de un partido político, o coarte los derechos que la ley les concede;
+
+XIII.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+
+XIV.- Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple con los requisitos de la ley, o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
+
+XV.- Retenga o no entregue al organismo electoral correspondiente, el paquete electoral, en los tiempos previstos en la ley o por acuerdo de los órganos electorales, sin causa justificada;
+
+XVI.- Se niegue sin causa justificada, teniendo la obligación de hacerlo, a registrar los nombramientos de los representantes de los partidos políticos, dentro de los plazos establecidos en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca; y
+
+XVII.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+397.- Se impondrá prisión de uno a nueve años y multa de doscientos a cuatrocientos días de salario mínimo vigente al servidor público que:
+
+I.- Obligue a sus subordinados a emitir sus votos a favor de un partido político o candidato.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
+
+III.- Prive de la libertad a los candidatos, a los representantes de los partidos políticos o a los funcionarios electorales, bajo pretexto de comisión de delitos o faltas administrativas inexistentes y sin existir orden de detención o de aprehensión para ello; y
+
+IV.- Impida la realización de una reunión, asamblea, manifestación pública, o cualquier acto legal de propaganda electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+398.- Se impondrá prisión de dos a nueve años, al servidor público que: Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado u otros, o proporcione ese apoyo a través de sus subordinados, usando el tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+399.- Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer, además de la pena que corresponda, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+400.- Al servidor público mencionado por el artículo 211 del Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, que se niegue sin causa justificada a cumplir las funciones que establece el mismo precepto, se le aplicará una multa de cien a doscientos días de salario mínimo vigente o inhabilitación para obtener algún cargo público.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+401.- Se impondrá multa de 500 días de salario mínimo vigente, al ministro de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio, induzca al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+### CAPITULO II.
+
+Reglas Comunes.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+402.- Para los efectos del capítulo anterior se entiende por:
+
+I.- Funcionarios electorales: quienes en términos de la legislación local electoral, integren los órganos que cumplen funciones públicas electorales;
+
+II.- Funcionarios partidistas: Los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación local electoral;
+
+III.- Servidores públicos: son los representantes de elección popular, los miembros del Poder Judicial, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a éstas, o en fideicomisos de participación estatal o municipal; y
+
+IV.- Documentos electorales: boletas para votar, las actas oficiales de la jornada electoral, actas de escrutinio y cómputo de las mesas directivas de casilla y de los cómputos distritales o municipales; en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+### CAPITULO I
+
+Violencia intrafamiliar.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave en contra de un miembro de la familia por otro de la misma que atente contra su integridad física, psíquica o ambas, independientemente de que pueda o no producir otro delito; siempre y cuando el agresor y el agraviado cohabiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato. En su caso se aplicarán las reglas de la acumulación.
+
+Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, así como aquellas personas que habiten en el mismo domicilio de la víctima.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+405.- A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión, restricción o pérdida de la patria potestad, y en su caso perderá los derechos hereditarios y de alimentos. Así mismo se le sujetará a tratamiento psicológico especializado.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+406.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO II
+
+De la Sustracción de Menores o Incapaces.
+
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+407.- A quien sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de dieciocho años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientos días de salario mínimo.
+
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+407 Bis.- Se impondrá de las tres cuartas partes de la mínima a las tres cuartas partes de la máxima de la pena del delito de sustracción de menores o incapaces previsto en el artículo anterior, a quien:
+
+I. Ejerciendo la patria potestad, realice dicha conducta; o
+
+II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del menor o incapaz sin limitación de grado lo lleve a cabo.
+
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+408.-Si el sujeto activo a que se refiere el artículo anterior, devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o Incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+### CAPITULO III.
+
+Feminicidio.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+411. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
+
+Se entiende por razones de género cuando ocurra cualquiera de las siguientes circunstancias:
+
+I.- La víctima presente signos de violencia sexual de cualquier tipo;
+
+> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2013)</small>
+
+II.- A la víctima se le haya infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, mutilaciones con implicaciones sexuales o que le genere sufrimiento.
+
+III.- Existan antecedentes o indicios anteriores de amenazas, acoso o maltrato del sujeto activo en contra de la víctima;
+
+IV.- El cadáver o restos de la víctima hayan sido enterrados u ocultados;
+
+V.- El cadáver o restos de la víctima hayan sido expuestos en lugar público;
+
+VI.- La víctima haya sido incomunicada o privada de su libertad, y
+
+VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
+
+Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
+
+Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+
+ARTICULOS TRANSITORIOS:
 
 ### CAPITULO I.
 
@@ -3978,3 +4356,11 @@ SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del p
 P.O. 18 DE ABRIL DE 2015.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y entrará en vigor en la forma y términos señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
+
+SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
