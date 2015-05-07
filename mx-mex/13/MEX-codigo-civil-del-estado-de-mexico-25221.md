@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2014-12-18"
+last_updated: "2015-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -143,7 +143,7 @@ La equidad
 
 ###### Artículo 1.
 
-17.- La equidad deberá ponderarse en la aplicación de las normas tratándose de individuos con atraso intelectual, debilidad económica o social o hábitos o tradiciones propias de la étnia a la que pertenezcan, siempre que estas circunstancias hubieren influido en el incumplimiento de la ley civil.
+17.- La equidad deberá ponderarse en la aplicación de las normas tratándose de individuos con atraso intelectual, debilidad económica, social, hábitos o tradiciones propias de la étnia a la que pertenezcan, siempre que estas circunstancias hubieren influido en el incumplimiento de la ley civil.
 
 # LIBRO SEGUNDO. De las personas
 
@@ -209,11 +209,9 @@ VII. Los afectivos derivados de la familia, la amistad y los bienes;
 
 VIII. El respeto, salvaguarda y protección de la integridad física, psicológica y patrimonial.
 
-> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO, G.G. 9 DE MAYO DE 2014)</small>
 
 Medios para acreditar la identidad de las personas físicas
-
-> <small>(ADICIONADO, G.G. 9 DE MAYO DE 2014)</small>
 
 ###### Artículo 2.
 
@@ -223,9 +221,15 @@ I. En caso de menores de edad, el acta de nacimiento, la carta de naturalizació
 
 II. La Credencial para votar, el pasaporte, la matrícula consular mexicana, la licencia para conducir y la carta de naturalización;
 
-III. Las Credenciales expedidas por autoridades educativas, las cédulas profesionales o autorización provisional para ejercer como pasante, en las que se aprecie la identidad de la persona;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+III. Las credenciales expedidas por autoridades educativas, las cédulas profesionales o de pasante y en caso de los varones, la cartilla del servicio militar nacional.
 
 IV. Las demás identificaciones reconocidas como oficiales.
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2015)</small>
+
+Estos documentos solo acreditan la identidad de su titular y no así la de su domicilio.
 
 Capacidad de ejercicio para donar órganos
 
@@ -235,7 +239,7 @@ Capacidad de ejercicio para donar órganos
 
 La autorización a que se refiere el presente artículo podrá especificar los órganos o los materiales orgánicos que deban donarse, de lo contrario se entenderán comprendidos todos los órganos o tejidos anatómicos del donante.
 
-Asimismo podrá especificar con que finalidad se autoriza la donación y el destinatario. De no existir ésta se entenderá que se donan para fines de implantación en humanos vivos, con exclusión de los de estudio e investigación científica.
+Asimismo, podrá especificar con qué finalidad se autoriza la donación y el destinatario. De no existir ésta se entenderá que se donan para fines de implantación en humanos vivos, con exclusión de los de estudio e investigación científica.
 
 Esta donación es revocable en cualquier momento por el donante y no podrá ser revocada por persona alguna después de su muerte.
 
@@ -389,11 +393,21 @@ Domicilio familiar
 
 Concepto de Registro Civil
 
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-1.- El Registro Civil es la institución de carácter público y de interés social, mediante la cual el Estado, a través del titular y sus Oficiales investidos de fe pública, inscribe, registra, autoriza, certifica, da publicidad y solemnidad a los actos y hechos relativos al estado civil de las personas y expide las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, fallecimiento; asimismo inscribe las resoluciones que la ley autoriza, en la forma y términos que establezca el reglamento.
+1.- El Registro Civil es la institución de carácter público y de interés social, mediante la cual el Estado, a través del titular y sus oficiales investidos de fe pública, inscribe, registra, autoriza, certifica, da publicidad y solemnidad a los actos y hechos relativos al estado civil de las personas y expide las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción, asimismo, inscribe las resoluciones que la Ley autoriza, en la forma y términos que establezca su Reglamento.
+
+El Registro Civil, a través de su titular, expedirá constancias de origen y participará en las actividades que convocan los consulados y embajadas, a fin de implementar los programas con los que cuenta la Institución en beneficio de los mexiquenses.
+
+El titular de la Dirección General está facultado para autorizar registros extemporáneos de personas originarias del Estado de México que vivan en el extranjero.
+
+Las oficialías del Registro Civil dependen administrativamente del Ayuntamiento, y por cuanto a sus funciones, atribuciones y obligaciones están adscritas a la Dirección General.
+
+El Gobierno del Estado emitirá los Lineamientos Administrativos relativos a los recursos humanos, materiales y financieros, suficientes y oportunos para el buen funcionamiento de las Oficialías.
+
+Cuando algún Ayuntamiento incumpla con lo ordenado en los Lineamientos, el Gobierno del Estado emitirá Decreto para que la o las Oficialías queden bajo su control.
 
 Formalidad de las actas
 
@@ -409,11 +423,11 @@ Vicios o defectos no sustanciales de las actas
 
 Asientos en las actas
 
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-4.- No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren, excepto las prevenciones en contrario y lo que esté expresamente prevenido por la ley. En el momento del parto, la madre podrá solicitar que se preserve el secreto de su ingreso y de su identidad.
+4.- No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren, excepto las prevenciones en contrario y lo que esté expresamente prevenido por la Ley.
 
 Comprobación del estado civil
 
@@ -421,11 +435,13 @@ Comprobación del estado civil
 
 5.- El estado civil de las personas sólo se comprueba con las constancias relativas del Registro Civil. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
 
-Mandato especial para actos ante el Registro Civil
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Se reconoce plena validez a los hechos y actos del estado civil celebrados por mexicanos en el extranjero, siempre y cuando cumplan con las formalidades establecidas por la Ley en la materia.
 
 ###### Artículo 3.
 
-6.- Cuando los interesados no puedan concurrir personalmente a la celebración del acto ante el Registro Civil, y las leyes lo permitan, podrán hacerse representar por un mandatario especial.
+6.- (DEROGADO, P.O. 7 DE MAYO DE 2015)
 
 Pedimento de testimonios de actas
 
@@ -435,37 +451,47 @@ Pedimento de testimonios de actas
 
 ###### Artículo 3.
 
-8.- Las declaraciones de nacimiento se harán presentando a la persona ante el oficial del Registro Civil.
+8.- El registro oportuno es el hecho que se declara dentro del primer año de ocurrido el nacimiento.
+
+El registro extemporáneo es aquel que se declara después de un año de ocurrido el nacimiento.
+
+Los registros extemporáneos de nacimiento de personas originarias del Estado de México que viven en el extranjero, se harán conforme a lo dispuesto en el Reglamento del Registro Civil vigente en la entidad.
 
 Personas obligadas a declarar el nacimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
 
 ## TITULO SEGUNDO. De las Actas
 
 ### CAPITULO I. De las Actas de Nacimiento
 
-Presentación de la persona para declarar su nacimiento
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+Del registro de nacimiento
 
 ###### Artículo 3.
 
-9.- Tienen obligación de declarar el nacimiento, el padre y/o la madre o quien ejerza la patria potestad sobre el menor, dentro del primer año de ocurrido aquél, a reserva de las disposiciones contenidas en el artículo 3.4.
+9.- Tienen obligación de declarar el nacimiento, la madre, el padre, ambos o quien ejerza la patria potestad. A falta de los anteriores, persona distinta que tenga conocimiento de éste, cumpliendo con los requisitos previstos en el presente Código y su normatividad reglamentaria.
 
 Los médicos, parteras, matronas o quien hubiere asistido el parto, tienen la obligación de extender la constancia relativa al nacimiento, de acuerdo a la legislación respectiva.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+En el momento del parto, la madre podrá solicitar que se preserve el secreto de su ingreso y de su identidad y para el registro dará a conocer el nombre que desea se ponga al presentado.
+
 Contenido del acta de nacimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-10.- El acta de nacimiento se extenderá con la asistencia de dos testigos designados por las partes interesadas; contendrá la fecha, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que se le pongan, la razón de si se ha presentado vivo o muerto; datos que no pueden omitirse. Se tomará al margen del acta la impresión digital del presentado. La mujer que solicite mantener en secreto su identidad en el momento del parto puede dar a conocer los nombres que desea que se impongan al presentado.
+10.- El acta de nacimiento contendrá lugar y fecha de registro, fecha, hora y lugar del nacimiento, el sexo del presentado, el nombre del registrado, de conformidad con las reglas establecidas en este Código, la razón de si es presentado vivo o muerto, la impresión de la huella digital si está vivo y la Clave Única de Registro de Población.
 
 Por ningún motivo se asentará en el acta que el presentado es adulterino o incestuoso, aún cuando así apareciere de las declaraciones.
 
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
-Si el presentado aparece como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellidos, sin hacer mención de esta circunstancia en el acta, salvo las excepciones previstas en el párrafo primero de este artículo.
+Si el presentado aparece como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre, sin hacer mención de esta circunstancia en el acta.
 
 Acta de nacimiento del hijo de matrimonio
 
@@ -475,29 +501,33 @@ Acta de nacimiento del hijo de matrimonio
 
 Acta de nacimiento de hijo fuera del matrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 3.
 
-12.- Para que se haga constar en el acta de nacimiento el nombre, domicilio y nacionalidad del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por un mandatario especial.
+12.- Para que se hagan constar en el acta de nacimiento los datos del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida personalmente ante el Oficial del Registro Civil.
 
-La madre no puede dejar de reconocer a su hijo, debiendo figurar siempre su nombre, domicilio y nacionalidad en el acta de nacimiento. Si al hacerse la presentación no se da el nombre de la madre, se testará el espacio correspondiente, pero la investigación de la maternidad se realizará conforme a las leyes de la materia.
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+La madre no puede dejar de reconocer a su hijo, debiendo figurar siempre sus datos en el acta de nacimiento, salvo en los casos previstos por este Código, si al hacerse la presentación no se da el nombre de la madre, se testará el espacio correspondiente, pero la investigación de la maternidad se realizará conforme a las leyes de la materia.
 
 Además de los datos generales de los padres, se hará constar en el acta de nacimiento los de los abuelos maternos y en su caso, paternos.
 
 De los expósitos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-13.- Toda persona que encontrare un expósito, deberá presentarlo ante el Agente del Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él, para iniciar la averiguación previa respectiva. Para los efectos del presente código, tendrán la calidad de menores entregados aquellos sobre quienes en el momento del parto, la madre ha solicitado que se preserve el secreto de su identidad y la reserva en torno al nacimiento, quedando el menor bajo la tutela inmediata (sic) Sistema para el Desarrollo Integral de la Familia del Estado de México, quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con albergues.
+13.- Toda persona que encontrare un expósito, deberá presentarlo ante el Agente del Ministerio público, con los vestidos, valores o cualesquiera otros objetos encontrados con él, para iniciar la Carpeta de Investigación respectiva. Para los efectos del presente Código, tendrán la calidad de menores entregados aquéllos sobre quienes en el momento del parto, la madre ha solicitado que se preserve el secreto de su identidad y la reserva en torno al nacimiento, quedando el menor bajo la tutela inmediata del Sistema para el Desarrollo Integral de la Familia del Estado de México, quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con albergues o actuar conforme a su normativa.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
 El Ministerio Público una vez iniciada ésta, enviará, de manera inmediata al expósito al Sistema para el Desarrollo Integral de la Familia del Estado de México; quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con albergues o en su caso, a una institución o asociación de asistencia social constituida, registrada legalmente para estos fines y reconocida ante el Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
-El Ministerio Público ordenará a los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales, para que soliciten, cuando proceda, el registro de nacimiento del menor ante el Oficial del Registro Civil, remitiéndole copia certificada de la averiguación. El Sistema para el Desarrollo Integral de la Familia del Estado de México o los municipales, en su caso, deberán informar al Ministerio Público sobre la situación jurídica definitiva.
+El Ministerio Público ordenará a los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales, para que soliciten, cuando proceda, el registro de nacimiento del menor ante el Oficial del Registro Civil, remitiéndole copia certificada de la Carpeta de Investigación. El Sistema para el Desarrollo Integral de la Familia del Estado de México o los municipales, en su caso, deberán informar al Ministerio Público sobre la situación jurídica definitiva.
 
 > <small>(ADICIONADO, G.G. 15 DE MAYO DE 2012)</small>
 
@@ -505,31 +535,37 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de México, debe
 
 Otros obligados a solicitar levantamiento de acta de nacimiento
 
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-14.- La misma obligación, a que se refiere el artículo anterior, tienen los jefes, directores o administradores de los centros de prevención y de readaptación social, casas de maternidad o de hogar y hospitales, respecto de los ahí nacidos o expuestos. En el momento del parto, la madre podrá solicitar que se preserve el secreto de su ingreso y de su identidad.
+14.- La misma obligación a que se refiere el artículo anterior tienen los jefes, directores o administradores de los centros de prevención y de readaptación social, casas de maternidad o de hogar y hospitales, respecto de los ahí nacidos o expuestos.
 
 Contenido del acta de nacimiento de expósitos
 
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-15.- En las actas relativas a los casos de los dos artículos anteriores, se anotarán la edad del menor, su sexo y el nombre y apellidos que se le pongan. La mujer que solicite mantener en secreto su identidad en el momento del parto puede dar a conocer los nombres que desea que se impongan al presentado.
+15.- En las actas relativas a los casos de los dos artículos anteriores, se anotarán su sexo, el nombre que se le ponga y si se supiere, fecha, lugar y hora de nacimiento, así como datos que se desprendan de la Carpeta de Investigación.
 
 Lugar del registro del nacimiento
 
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 3.
 
-16.- Si el nacimiento aconteciere durante un viaje, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas.
+16.- El nacimiento podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas.
 
 Actas simultáneas de nacimiento y muerte
 
 ###### Artículo 3.
 
 17.- Si al dar el aviso de un nacimiento se comunicare también la muerte, se asentarán dos actas, una de nacimiento y otra de defunción.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+En este supuesto, además de observarse lo ordenado por el párrafo segundo del artículo 3.9 de este Código, los médicos tienen la obligación de extender el certificado de defunción, de acuerdo a la legislación respectiva.
 
 Contenido de las actas de nacimientos múltiples
 
@@ -539,13 +575,23 @@ Contenido de las actas de nacimientos múltiples
 
 ###### Artículo 3.
 
-19.- Si el padre o la madre de un hijo nacido fuera de matrimonio o ambos, lo reconocieren al presentarlo para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores. Esta surtirá los efectos del reconocimiento.
+19.- El reconocimiento es el acto jurídico en virtud del cual, el que reconoce asume a favor del reconocido todos los derechos y obligaciones que se derivan de la filiación.
 
-Reconocimiento de hijo después de registrado su nacimiento
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2015)</small>
+
+Reconocimiento de hijo al declarar su nacimiento
 
 ### CAPITULO II. De las Actas de Reconocimiento de hijos fuera de Matrimonio
 
-Reconocimiento de hijo al declarar su nacimiento
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+Definición de reconocimiento
+
+###### Artículo 3.
+
+19 Bis.- Si la madre, el padre o ambos, de un hijo nacido fuera de matrimonio, lo reconocieren al presentarlo para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores. Ésta surtirá los efectos del reconocimiento.
+
+Reconocimiento de hijo después de registrado su nacimiento
 
 ###### Artículo 3.
 
@@ -553,17 +599,21 @@ Reconocimiento de hijo al declarar su nacimiento
 
 I. Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
 
-II. Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento, el de su representante legal o en su caso el de la persona o institución que lo tuviere a su cargo;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-III. Si el hijo es menor de catorce años, se expresará sólo el consentimiento de su representante legal o en su caso de la persona o institución que lo tuviere a su cargo.
+II. Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de quien ejerza la patria potestad o en su caso el de la persona o institución que lo tuviere a su cargo.
+
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+III. Si el hijo es menor de catorce años, se expresará solo el consentimiento de quien ejerza la patria potestad o en su caso de la persona o institución que lo tuviere a su cargo.
 
 Otras actas de reconocimiento
 
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-21.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al Oficial del Registro Civil, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el relativo a las actas de nacimiento, sin perjuicio de las disposiciones contenidas en el artículo 3.4 de este Código.
+21.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará ante el Oficial del Registro Civil, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este Capítulo y en el relativo a las actas de nacimiento.
 
 Omisión de registro de reconocimiento de hijo
 
@@ -581,21 +631,23 @@ Omisión de registro de reconocimiento de hijo
 
 Contenido y efectos del acta de adopción
 
-###### Artículo 3.
-
-24.- En la adopción se asentará el acta como si fuera de nacimiento.
-
-El acta de nacimiento anterior quedará reservada, con las anotaciones correspondientes a la adopción. No se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, con la reserva de las disposiciones contenidas en el artículo 3.4, salvo mandamiento judicial.
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
-
-Omisión del registro de la adopción
-
 ### CAPITULO III. De las Actas de Adopción
 
 > <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
 Plazo y documentos para levantar el acta de adopción
+
+###### Artículo 3.
+
+24.- En la adopción se asentará el acta como si fuera de nacimiento.
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+El acta de nacimiento anterior quedará reservada en términos de Ley. No se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo mandamiento judicial.
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
+Omisión del registro de la adopción
 
 ###### Artículo 3.
 
@@ -605,33 +657,35 @@ Plazo y documentos para levantar el acta de adopción
 
 26.- Al celebrarse el matrimonio se asentará el acta respectiva, en la que se hará constar:
 
-I. Los nombres, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-II. Si son mayores o menores de edad;
+I. Los datos generales de los contrayentes.
 
-III. Los nombres, domicilio y nacionalidad de los padres;
+II. (DEROGADA, G.G. 7 DE MAYO DE 2015)
+
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+III. Los datos generales de los padres.
 
 IV. El consentimiento de quienes deban suplirlo, tratándose de menores de edad;
 
-V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
+V. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
-VI. La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el oficial del Registro Civil en nombre de la ley y de la sociedad;
+VI. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 VII. La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII. Los nombres, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes y de serlo en que grado y línea;
+VIII. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
-IX. La firma del oficial del Registro Civil, de los contrayentes y de las demás personas que hubieren intervenido si supieren o pudieren hacerlo o en su caso, imprimirán sus huellas digitales.
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+IX. La firma del Oficial del Registro Civil y de los contrayentes, si supieren o pudieren hacerlo o, en su caso, imprimirán sus huellas digitales.
 
 Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 Falsedad de declaración en la celebración de matrimonio
 
-###### Artículo 3.
-
-27.- Los pretendientes, sus padres o quienes suplan el consentimiento y los testigos que declaren un hecho falso, y los médicos que se conduzcan falsamente al expedir el certificado correspondiente, serán denunciados ante el Ministerio Público.
-
-De la emancipación
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ### CAPITULO IV. De las Actas de Matrimonio
 
@@ -639,31 +693,57 @@ Contenido de las actas de matrimonio
 
 ###### Artículo 3.
 
+27.- Los contrayentes, sus padres o quienes suplan el consentimiento que declaren un hecho falso, serán denunciados ante el Ministerio Público.
+
+De la emancipación
+
+###### Artículo 3.
+
 28.- En los casos de emancipación, será suficiente para acreditarla el acta de matrimonio.
 
 ###### Artículo 3.
 
-29.- El acta de defunción contendrá:
+29.- La defunción es la cesación completa y definitiva de los signos vitales de una persona física, que puede producirse de manera natural o de forma violenta.
 
-I. Nombre, edad, ocupación, estado civil y domicilio que tuvo el difunto;
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES PRIMER PÁRRAFO], G.G. 7 DE MAYO DE 2015)</small>
 
-II. El estado civil de éste y en su caso, el nombre, edad y domicilio del cónyuge supérstite;
+El acta de defunción contendrá:
+
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+l. Datos generales del finado.
+
+ll. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 III. Nombre de los padres del difunto, si se supieren;
 
-IV. Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
+IV. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 V. La causa de la muerte;
 
-VI. El destino final del cadáver;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+VI. El destino final del cadáver y en su caso, el número de la orden de inhumación o cremación.
 
 VII. Fecha, hora y lugar de la muerte y todos los informes que se tengan en caso de muerte violenta;
 
-VIII. Nombre, número de cédula profesional y domicilio del médico que certifique la defunción;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-IX. Nombre, edad y domicilio del declarante.
+VIII. Nombre, número de cédula profesional, domicilio del médico que certifique la defunción y folio del certificado de defunción.
+
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+IX. Datos generales del declarante.
 
 Aviso al Ministerio Público de muerte violenta
+
+### CAPITULO V. De las Actas de Defunción
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE MAYO DE 2015)</small>
+
+Definición y contenido del acta de defunción
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
@@ -675,25 +755,29 @@ Si el Ministerio Público tuviese conocimiento superviniente de datos que conduz
 
 Acta de defunción de quien no aparece su cadáver
 
-### CAPITULO V. De las Actas de Defunción
-
-Contenido del acta de defunción
-
 ###### Artículo 3.
 
 31.- Si se presume que una persona ha fallecido, y no aparece su cadáver, el oficial del Registro Civil sólo podrá asentar el acta correspondiente previa resolución judicial, con los datos que se desprendan de la misma.
 
 Indispensable acta de defunción para inhumación o cremación
 
-###### Artículo 3.
-
-32.- Ninguna inhumación se hará sin autorización escrita dada por el oficial del Registro Civil, quien se asegurará del fallecimiento con certificado de defunción, expedido por la persona legalmente autorizada por la autoridad sanitaria. Se procederá a la inhumación o cremación dentro de las cuarenta y ocho horas siguientes de haber ocurrido el fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-33.- Las autoridades que dicten resoluciones que declaren procedentes las acciones sobre la paternidad o maternidad, de divorcio, de nulidad del matrimonio, de ausencia, de presunción de muerte, de tutela, de pérdida o limitación de la capacidad legal para administrar bienes, de modificación o rectificación de actas, remitirán al Oficial del Registro Civil que corresponda copia certificada de la misma.
+32.- Ninguna inhumación o cremación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará de la defunción con el certificado respectivo, expedido por la persona legalmente autorizada por la autoridad sanitaria. Se procederá a la inhumación o cremación después de las doce horas y dentro de las cuarenta y ocho horas siguientes de haber ocurrido la defunción, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+
+###### Artículo 3.
+
+33.- Las autoridades que dicten resoluciones que declaren procedentes las acciones sobre la paternidad o maternidad, de divorcio, de nulidad, de ausencia, de presunción de muerte, de tutela, de pérdida o limitación de la capacidad legal para administrar bienes, de modificación o rectificación de actas, remitirán al Oficial del Registro Civil que corresponda copia certificada de la misma.
 
 Inscripción de resoluciones y asentamiento de actas en el Registro Civil
+
+### CAPITULO VI. Resoluciones que declaren o modifiquen el Estado Civil
+
+Resoluciones sobre estado civil
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
@@ -701,21 +785,21 @@ Inscripción de resoluciones y asentamiento de actas en el Registro Civil
 
 I. Inscribirá las resoluciones a que alude el artículo que precede;
 
-> <small>(REFORMADA, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-ll. Asentará el acta correspondiente al reconocimiento de paternidad o maternidad; de tutela; y de divorcio.
+II. Asentará el acta correspondiente al reconocimiento y de divorcio.
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+III. Anotará, en el acta correspondiente, la nulidad y la rectificación de acta.
 
 De las resoluciones de divorcio
 
-### CAPITULO VI. Resoluciones que declaren o modifiquen el Estado Civil
-
-Resoluciones sobre estado civil
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-35.- En el acta de divorcio se anotarán el nombre, apellido, edad, ocupación y domicilio de los divorciados, los datos relativos del acta de nacimiento y matrimonio, así como la parte resolutiva de la sentencia que haya decretado el divorcio.
+35.- En el acta de divorcio se anotarán los datos generales de los divorciados, los datos relativos del acta de matrimonio, así como la parte resolutiva de la sentencia que haya decretado el divorcio.
 
 Cancelación de acta o inscripción en el Registro Civil
 
@@ -727,27 +811,37 @@ Cancelación de acta o inscripción en el Registro Civil
 
 ###### Artículo 3.
 
-37.- La rectificación que modifica los hechos o actos esenciales del estado civil, sólo procede mediante resolución judicial; con excepción del reconocimiento voluntario que un padre haga de su hijo, conforme a las disposiciones de este Código.
+37.- La rectificación, modificación o nulidad de las actas de los hechos o actos del estado civil, solo procede mediante resolución judicial, con excepción del reconocimiento voluntario que un padre haga de su hijo y de lo dispuesto en el artículo 3.38 bis de este Código.
 
 Causas de rectificación o modificación de actas
+
+### CAPITULO VII. De la rectificación de las Actas del Estado Civil
+
+Rectificación de actas del estado civil
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
 38.- Ha lugar a pedir la rectificación o modificación:
 
-I. Cuando el suceso registrado no aconteció;
+l. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
-II. Para modificar o cambiar el nombre propio, si una persona demuestra que ha usado invariable y constantemente otro diverso en su vida social y jurídica; si el nombre registrado expone a la persona al ridículo; y en caso de homonimia del nombre y apellidos si le causa perjuicio moral o económico;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-III. Para corregir algún dato esencial.
+ll. Para cambiar el sustantivo propio, si una persona demuestra que ha usado invariable y constantemente otro diverso en su vida social y jurídica.
+
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+lll. En caso de homonimia del sustantivo propio y apellidos, si le causa perjuicio moral o económico.
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+
+lV. Para corregir algún dato esencial.
 
 > <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
 
 Modificación del sustantivo propio
-
-### CAPITULO VII. De la rectificación de las Actas del Estado Civil
-
-Rectificación de actas de estado civil
 
 ###### Artículo 3.
 
@@ -757,7 +851,7 @@ l. La persona interesada, si es mayor de edad;
 
 II. Los padres, el padre, la madre o quien ejerza la patria potestad del menor de doce años de edad o del incapaz;
 
-III. La persona menor de dieciocho pero mayor de doce años de edad, con el consentimiento de sus padres, de su padre, de su madre, de su representante legal, o en su caso, de la persona o institución que lo tuviere a su cago.
+III. La persona menor de dieciocho pero mayor de doce años de edad, con el consentimiento de sus padres, de su padre, de su madre, de su representante legal, o en su caso, de la persona o institución que lo tuviere a su cargo.
 
 En caso de que la registrada o el registrado tenga dos o más nombres en el sustantivo propio, sólo surtirá efecto en el sustantivo propio expuesto al ridículo.
 
@@ -793,9 +887,11 @@ Cada integrante designará a su respectivo suplente.
 
 Legitimación para pedir la modificación o rectificación de acta
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 3.
 
-39.- Pueden pedir la rectificación o modificación de un acta del estado civil:
+39.- Pueden pedir la rectificación, modificación o la nulidad de las actas de los hechos o actos del estado civil:
 
 I. Las personas de cuyo estado se trata;
 
@@ -813,15 +909,21 @@ V. Las demás personas a las que la ley concede expresamente esta facultad.
 
 Forma del juicio sobre rectificación o modificación
 
-###### Artículo 3.
-
-40.- El juicio de rectificación o modificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
-
-Aclaración de actas de estado civil
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-41.- La aclaración de las actas del estado civil, procede ante el titular del Registro Civil, cuando al aceptar aquéllas se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales. La pueden solicitar las mismas personas que pueden solicitar la rectificación o modificación de un acta del estado civil.
+40.- El juicio de rectificación, de modificación o de nulidad se seguirá en la forma que se establezca en el Código de Procedimientos Civiles del Estado de México.
+
+Aclaración de actas del estado civil
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+###### Artículo 3.
+
+41.- La aclaración o complementación de las actas de los hechos o actos del estado civil procede administrativamente ante el Registro Civil, cuando al asentar aquéllas se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales, salvo que exista documento público probatorio anterior. El procedimiento se hará de conformidad con lo establecido en el Reglamento de la materia.
+
+Podrán solicitar la aclaración o complementación las mismas personas facultadas para la rectificación de un dato, modificación o la nulidad de un acta de un hecho o acto del estado civil.
 
 ### CAPITULO I. De la Familia
 
@@ -877,17 +979,21 @@ Solemnidades para la celebración del matrimonio
 
 I. Ante el Titular o los oficiales del Registro Civil;
 
-II. Con la presencia de los contrayentes o sus mandatarios, en el lugar, día y hora, designados;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-III. Con la comparecencia de sus testigos;
+II. Con la presencia de los contrayentes, en el lugar, día y hora, designados.
 
-IV. La lectura de la solicitud y los documentos relacionados;
+III. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
-V. El Titular u oficial del Registro Civil, procederá a interrogar a los testigos si los pretendientes son las mismas personas a que se refiere la solicitud y si existe algún impedimento legal;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+IV. La lectura del acta.
 
-VI. En caso de no existir impedimento, hará saber a los contrayentes los derechos y obligaciones del matrimonio y preguntará a cada uno de ellos si es su voluntad unirse en matrimonio; estando conformes los declarará unidos en nombre de la Ley y la sociedad, asentándose el acta correspondiente.
+V. (DEROGADA, G.G. 7 DE MAYO DE 2015)
+
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+VI. En caso de no existir impedimento, se hará saber a los contrayentes los derechos y obligaciones del matrimonio y preguntará a cada uno de ellos si es su voluntad unirse en matrimonio, estando conformes, los declarará unidos en nombre de la Ley y la sociedad, firmando el acta correspondiente.
 
 > <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -947,7 +1053,7 @@ III. El parentesco por consanguinidad sin limitación de grado en línea recta, 
 
 IV. El parentesco de afinidad que hubiere existido en línea recta, sin limitación alguna;
 
-V. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando haya sido judicialmente comprobado;
+V. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 VI. El atentado contra la vida de alguno de los casados, judicialmente comprobado, para contraer matrimonio con el que quede libre;
 
@@ -957,7 +1063,9 @@ VII. La violencia para obtener el consentimiento para celebrar el matrimonio;
 
 VIII. La embriaguez habitual y el uso indebido y persistente de estupefacientes, psicotrópicos o de cualquier otra sustancia que altere la conducta y produzca dependencia;
 
-IX. La impotencia incurable para la cópula, la bisexualidad, las enfermedades crónicas e incurables que sean contagiosas o hereditarias. La impotencia incurable para la cópula y la bisexualidad, no serán impedimentos cuando sean aceptadas por el otro contrayente;
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+
+IX. La impotencia incurable para la cópula o la bisexualidad; las enfermedades crónicas e incurables que sean contagiosas o hereditarias. No serán impedimentos cuando por escrito sean aceptadas por el otro contrayente.
 
 X. Trastornos mentales, aunque haya espacios de lucidez;
 
@@ -965,11 +1073,11 @@ XI. El matrimonio subsistente de alguno de los contrayentes.
 
 Imposibilidad de matrimonio entre adoptante y adoptado
 
-(REUBICADO, G.G. 6 DE MARZO DE 2010)
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 4.
 
-8.- En la adopción, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
+8.- El adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
 
 Requisitos para que el tutor y su pupilo puedan contraer matrimonio
 
@@ -1169,7 +1277,7 @@ Disposiciones que rigen la separación de bienes
 
 ###### Artículo 4.
 
-30.- Las capitulaciones matrimoniales y sus modificaciones, constarán en escritura pública cuando los cónyuges se hagan copartícipes o transmitan la propiedad de bienes que la ley exija tal requisito para su transmisión; pudiéndose inscribir en el Registro Público de la Propiedad.
+30.- Las capitulaciones matrimoniales y sus modificaciones, constarán en escritura pública cuando los cónyuges se hagan copartícipes o transmitan la propiedad de bienes cuando la ley exija tal requisito, para su transmisión; pudiéndose inscribir en el Registro Público de la Propiedad.
 
 Terminación de la sociedad conyugal
 
@@ -1261,9 +1369,9 @@ Inventario por terminación de la sociedad
 
 42.- Terminada la sociedad se procederá a su liquidación, formándose el inventario, excluyéndose los objetos de uso personal de los cónyuges.
 
-Liquidación de la sociedad
-
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Liquidación de la sociedad conyugal
 
 ###### Artículo 4.
 
@@ -1317,11 +1425,11 @@ Ingresos de cada cónyuge
 
 50.- Los ingresos que cada cónyuge obtenga serán propios, salvo pacto contrario.
 
-Contribución de los cónyuges en la educación y alimentación de los hijos
+Contribución de los cónyuges a la educación y alimentación de los hijos
 
 ###### Artículo 4.
 
-51.- Cada uno de los cónyuges debe contribuir a la educación y alimentación de los hijos y a las demás cargas del matrimonio.
+51.- Cada uno de los cónyuges debe contribuir (sic) la educación y alimentación de los hijos y a las demás cargas del matrimonio.
 
 ###### Artículo 4.
 
@@ -1689,7 +1797,7 @@ IV. Otras obligaciones que tenga el cónyuge deudor; y
 
 V. Las demás que el Juez estime necesarias y pertinentes.
 
-En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la reparticipación equitativa de bienes.
+En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
 
 En la resolución que se dicte con respecto a los alimentos, se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
 
@@ -1739,21 +1847,23 @@ Avenimiento de los cónyuges
 
 Divorcio administrativo
 
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 4.
 
-105.- Cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos menores de edad o mayores sujetos a tutela y hubieren liquidado la sociedad conyugal, si la había, podrán ocurrir personalmente ante el oficial del Registro Civil del lugar de su domicilio, comprobando que son casados, mayores de edad y manifestando su voluntad de divorciarse.
+105.- Cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos menores de edad o mayores sujetos a tutela y hubieren liquidado la sociedad conyugal, si la había, deberán ocurrir personalmente ante el Oficial del Registro Civil del lugar de su domicilio o donde fue celebrado el matrimonio, siempre y cuando se encuentre inscrito en el territorio estatal.
 
 Ratificación de solicitud y exhortación
 
-###### Artículo 4.
-
-106.- El oficial del Registro Civil, previa identificación de los consortes, levantará acta en la que hará constar la solicitud de divorcio. Citará a los cónyuges para que, dentro del plazo de quince días se presenten a ratificarla, previa exhortación de avenimiento.
-
-Declaración de divorcio administrativo
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 4.
 
-107.- Hecha la ratificación por los cónyuges, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva, haciendo la anotación correspondiente en la del matrimonio.
+106.- El Oficial del Registro Civil, previa identificación de los consortes, habiendo cumplido los requisitos y seguido el procedimiento que enuncia el reglamento de la materia, los declarará divorciados y levantará el acta respectiva, haciendo la anotación correspondiente en el acta de matrimonio.
+
+###### Artículo 4.
+
+107.- (DEROGADO, G.G. 7 DE MAYO DE 2015)
 
 Divorcio administrativo sin efectos
 
@@ -1779,9 +1889,11 @@ Este derecho se disfrutará mientras no contraiga matrimonio o se una en concubi
 
 Anotación en el Registro Civil
 
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 4.
 
-110.- De la resolución que decrete el divorcio, el Juez remitirá certificada al Oficial del Registro Civil de su jurisdicción y ante quien se celebró el matrimonio, para que a costa de los interesados se realicen los asientos correspondientes.
+110.- De la resolución que decrete el divorcio, el Juez remitirá copia certificada al Oficial del Registro Civil ante quien se celebró el matrimonio, para que a costa de los interesados se realicen los asientos correspondientes.
 
 ###### Artículo 4.
 
@@ -1827,7 +1939,7 @@ Consentimiento judicial para la inseminación artificial
 
 ###### Artículo 4.
 
-117.- Sólo se reconocen los parentescos de consanguinidad, afinidad y el civil.
+117.- Sólo se reconocen los parentescos de consanguinidad, afinidad y civil.
 
 Parentesco consanguíneo
 
@@ -2175,6 +2287,10 @@ I. Los nacidos después de ciento ochenta días contados desde la celebración d
 
 II. Los nacidos dentro de los trescientos días siguientes a la disolución del matrimonio. El plazo se contará desde que quedaron separados los cónyuges por orden judicial o por muerte.
 
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2015)</small>
+
+Si al celebrarse el matrimonio el contrayente declara que reconoce como hijo suyo al hijo o hijos de quien la contrayente está encinta, el Oficial lo hará constar vía anotación en el acta de matrimonio.
+
 Excepción a la presunción de ser hijo de matrimonio
 
 ###### Artículo 4.
@@ -2279,9 +2395,11 @@ Pérdida de la posesión de estado de hijo
 
 Legitimación para reconocimiento de hijo
 
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
 ###### Artículo 4.
 
-163.- Tiene derecho de reconocer a sus hijos, el que tenga la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido; puede reconocerlo también quien pruebe que pudo concebirlo antes de esa edad.
+163.- Tiene derecho de reconocer a sus hijos, el que tenga la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido, puede reconocerlo también quien no cumpliendo con la edad exigida para contraer matrimonio, presente el consentimiento por parte de su madre, padre, de ambos o de la persona quien ejerza la patria potestad.
 
 Revocación de reconocimiento de hijo hecho por menor
 
@@ -2324,6 +2442,10 @@ II. En escritura pública;
 III. En testamento;
 
 IV. Por confesión judicial expresa.
+
+> <small>(ADICIONADA, G.G. 7 DE MAYO DE 2015)</small>
+
+V. En el acta de matrimonio, al celebrarse, mediante la manifestación del padre y realizando la anotación correspondiente.
 
 Restricciones en el reconocimiento
 
@@ -2601,7 +2723,7 @@ Irrevocabilidad de la adopción
 
 ###### Artículo 4.
 
-199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
+199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
 
 Seguimiento de las adopciones internacionales
 
@@ -2609,7 +2731,7 @@ Seguimiento de las adopciones internacionales
 
 ###### Artículo 4.
 
-200.- En las adopciones internacionales el Sistema para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
+200.- En las adopciones internacionales el Sistema Estatal para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
 
 ###### Artículo 4.
 
@@ -15025,12 +15147,6 @@ Aparcería agrícola
 
 953.- En la aparcería agrícola una persona da a otra un predio rústico para que lo cultive, proporcionando o no las semillas, según acuerden, a fin de repartirse los frutos en la forma que convengan; a falta de ello, se hará conforme a la costumbre del lugar, en el concepto de que al aparcero nunca podrá corresponderle menos del cuarenta por ciento de la cosecha.
 
-Obligación del dueño en caso de muerte del aparcero
-
-###### Artículo 7.
-
-956.- Cuando a la muerte del aparcero ya se hubieren hecho algunos trabajos necesarios para el cultivo, si el propietario da por terminado el contrato, tiene obligación de pagar a los herederos del aparcero el importe de esos trabajos, en cuanto se aprovecha de ellos.
-
 Subsistencia de la aparcería
 
 ###### Artículo 7.
@@ -15039,13 +15155,19 @@ Subsistencia de la aparcería
 
 Terminación del contrato por muerte del aparcero
 
+###### Artículo 7.
+
+955.- Si es el aparcero el que muere, el contrato puede darse por terminado, salvo pacto contrario.
+
+Obligación del dueño en caso de muerte del aparcero
+
 ### CAPITULO I. De la Fianza en General
 
 Elementos del contrato de fianza
 
 ###### Artículo 7.
 
-955.- Si es el aparcero el que muere, el contrato puede darse por terminado, salvo pacto contrario.
+956.- Cuando a la muerte del aparcero ya se hubieren hecho algunos trabajos necesarios para el cultivo, si el propietario da por terminado el contrato, tiene obligación de pagar a los herederos del aparcero el importe de esos trabajos, en cuanto se aprovecha de ellos.
 
 Recolección de mieses o cosecha
 
@@ -16403,7 +16525,7 @@ Términos de la contratación
 
 1144 Quinquiés.- La determinación de la hipoteca inversa se realizará previo avalúo de Institución debidamente facultada, que considere el valor comercial de mercado del inmueble que deberá actualizarse cada 2 años para estar acorde con la plusvalía que el bien adquiera con el tiempo.
 
-El costo de dicho avalúo será cubierto por el pensionario.
+El costo de dicho avaluó será cubierto por el pensionario.
 
 El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
 
@@ -17914,3 +18036,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno'.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 7 DE MAYO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Los actos y procedimientos que se encuentren en trámite al entrar en vigor el presente Código se concluirán conforme a las disposiciones del ordenamiento que se reforma.
