@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-del-registro-civil-del-estado-de-95716"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-26"
-last_updated: "2013-08-26"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2015.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 26 de agosto de 2013.
 
@@ -203,7 +203,9 @@ II. Verificar que los registros se asienten en los formatos establecidos y autor
 
 III. Tener bajo su custodia y responsabilidad los formatos que le otorgue la Dirección, para la elaboración de actas;
 
-IV. Custodiar el archivo documental y electrónico de su Oficialía;
+> <small>(REFORMADA, D.O. 8 DE MAYO DE 2015)</small>
+
+IV. Custodiar el archivo documental y electrónico de su Oficialía y actualizar la base de datos de los actos registrales;
 
 V. Resguardar, por un plazo de 5 años, los apéndices de los actos y hechos registrales, en orden cronológico de fechas;
 
@@ -217,9 +219,15 @@ IX. Expedir copias certificadas de las actas y demás documentos que obren en su
 
 X. Notificar a la Dirección cuando algún usuario presente documentación apócrifa para que se formule la denuncia ante la autoridad competente;
 
-XI. Informar a la Dirección los casos en que se pierda o destruya alguno de los ejemplares de las actas del Registro Civil, y
+> <small>(REFORMADA, D.O. 8 DE MAYO DE 2015)</small>
 
-XII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones legales y normativas aplicables.
+XI. Informar a la Dirección los casos en que se pierda o destruya alguno de los ejemplares de las actas del Registro Civil;
+
+> <small>(ADICIONADA, D.O. 8 DE MAYO DE 2015)</small>
+
+XII. Exhibir en sus oficialías los requisitos de los trámites que pueden realizarse en estas, y
+
+XIII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO IV. Del Departamento Jurídico
 
@@ -347,9 +355,15 @@ X. Hacer el trámite conducente ante el área administrativa para que se autoric
 
 XI. Verificar que los inspectores u oficiales entreguen oportunamente la estadística a las áreas que corresponden;
 
-XII. Elaborar y rendir oportunamente los informes que le solicite el Director, y
+> <small>(REFORMADA, D.O. 8 DE MAYO DE 2015)</small>
 
-XIII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones legales y normativas aplicables.
+XII. Elaborar y rendir oportunamente los informes que le solicite el Director;
+
+> <small>(ADICIONADA, D.O. 8 DE MAYO DE 2015)</small>
+
+XIII. Vigilar que los oficiales exhiban los requisitos de los trámites que se realizan en las oficialías a su cargo, y
+
+XIV. Las demás que le confiera la Ley, este Reglamento y otras disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO VIII. Del Departamento de Administración y Finanzas
 
@@ -413,13 +427,13 @@ Las actas del Registro Civil únicamente se asentarán en los formatos y libros 
 
 Formatos de las actas
 
+> <small>(REFORMADO, D.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 22.
 
 Las actas del Registro Civil se elaborarán en los formatos que determine la Dirección a través de los procedimientos electrónicos e informáticos dispuestos para tal efecto.
 
-Las oficialías que no se encuentren automatizadas podrán utilizar los formatos preimpresos que les proporcione el Departamento de Administración y Finanzas, previa autorización de la Dirección.
-
-Cuando se presenten fallas en el sistema o las oficialías se queden sin servicio de energía eléctrica, harán uso de los formatos preimpresos para no interrumpir el servicio.
+Cuando las oficialías presenten fallas en el sistema o se queden sin servicio de energía eléctrica, harán uso de los formatos preimpresos que les proporcione el Departamento de Administración y Finanzas, previa autorización de la Dirección.
 
 Redacción de las actas
 
@@ -446,6 +460,22 @@ Suspensión y equivocación o defecto
 ###### Artículo 26.
 
 La suspensión en el proceso de redacción de actas, así como la detección de equivocaciones o defectos en la elaboración de las mismas, se sujetará al contenido de los artículos 17, 18 y 19 de la Ley, respectivamente.
+
+> <small>(ADICIONADO, D.O. 8 DE MAYO DE 2015)</small>
+
+Requisitos para el registro de nacimiento
+
+###### Artículo 26 Bis.
+
+Las personas interesadas en registrar un nacimiento deberán presentar los documentos siguientes:
+
+I. Certificado de nacido vivo, expedido de acuerdo a los formatos y en los términos de las disposiciones que emita la Secretaría de Salud del Gobierno Federal;
+
+II. Acta de nacimiento e identificación oficial de los padres, y
+
+III. Acta de matrimonio, la resolución judicial respectiva o el documento público en que se otorgue el consentimiento para el registro, en los casos a que se refiere el artículo 251 del Código de Familia.
+
+Los menores que no tengan identidad y que carezcan de padres o se encuentren bajo tutela del Estado serán registrados previa recopilación de la información que la Dirección considere pertinente.
 
 ### CAPÍTULO II. De las actas de nacimiento y reconocimiento de hijas e hijos
 
@@ -511,9 +541,11 @@ En lo relativo al orden de los apellidos que se harán constar en las actas de n
 
 Registros extemporáneos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 31.
 
-Los registros de nacimiento que se realicen después de los 45 días de haber ocurrido serán asentados como registros extemporáneos, y se sujetaran a las formalidades y requisitos establecidos en la Ley.
+Los registros de nacimiento que se realicen después de los 90 días de haber ocurrido serán asentados como registros extemporáneos, y se sujetaran a las formalidades y requisitos establecidos en la Ley.
 
 La procedencia de los registros extemporáneos cuya autorización sea de la exclusiva competencia del Director, serán comunicados a los oficiales para el levantamiento correspondiente.
 
@@ -593,6 +625,10 @@ VIII. Asistir al taller de orientación prematrimonial, y
 
 IX. Presentar originales de sus actas de nacimiento.
 
+> <small>(ADICIONADO, D.O. 8 DE MAYO DE 2015)</small>
+
+Cuando los interesados en contraer matrimonio sean originarios de otros estados y no residan en Yucatán, además de cumplir con los requisitos previamente señalados, deberán presentar constancia negativa de matrimonio de su lugar de origen y de su domicilio.
+
 Tratándose de menores de edad, deberán comparecer acompañados de quien ejerza la patria potestad sobre ellos.
 
 En caso de que ambos padres ejerzan la patria potestad, y uno de ellos no pudiere comparecer, la Dirección previo análisis podrá autorizar la celebración del matrimonio previendo que el que comparezca suscriba la responsiva de autorización.
@@ -624,6 +660,10 @@ Divorcio voluntario administrativo
 ###### Artículo 40.
 
 El divorcio voluntario administrativo procederá cuando se cumpla con lo establecido en la Ley y demás disposiciones legales aplicables en materia familiar.
+
+> <small>(ADICIONADO, D.O. 8 DE MAYO DE 2015)</small>
+
+Cuando los cónyuges hayan contraído matrimonio bajo el régimen de sociedad conyugal deberán presentar documento en el que se acredite la liquidación de dicha sociedad o, en su caso, el certificado de no propiedad expedido por el Registro Público de la Propiedad y del Comercio del Estado de Yucatán.
 
 Divorcio voluntario judicial
 
@@ -659,11 +699,23 @@ El oficial elaborará inmediatamente las anotaciones marginales a que se refiere
 
 ### CAPÍTULO VI. Del levantamiento de las actas de defunción
 
-Aviso de fallecimiento
+> <small>(REFORMADO, D.O. 8 DE MAYO DE 2015)</small>
+
+Requisitos para el registro de defunción
 
 ###### Artículo 44.
 
-El registro de las actas de defunción se realizará de conformidad a lo dispuesto por la Ley.
+El registro de las actas de defunción se realizará de conformidad a lo dispuesto por la Ley. Para registrar una defunción, los oficiales deberán contar con los documentos siguientes:
+
+I. Certificado médico de defunción;
+
+II. Acta de nacimiento del difunto;
+
+III. Acta de matrimonio del difunto;
+
+IV. Identificación oficial del declarante y del fallecido, y
+
+V. En caso de muerte violenta, el oficio del Ministerio Público en el que solicite el registro de defunción.
 
 Requisitos para inhumación, exhumación o incineración de cadáveres
 
@@ -835,11 +887,13 @@ Las modalidades del reconocimiento serán las previstas en la Ley y en el Códig
 
 Los procedimiento previstos en este capítulo, se realizarán con estricto respeto al derecho a la seguridad jurídica de los involucrados, así como a los derechos de las niñas, niños y adolescentes, observando además los principios que, de conformidad con la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, deben regir los procedimientos de la Administración Pública.
 
-Generalidades para el reconocimiento
+> <small>(REFORMADO, D.O. 8 DE MAYO DE 2015)</small>
+
+Indubitabilidad de la paternidad del reconocedor
 
 ###### Artículo 62.
 
-Los oficiales, de conformidad con la Ley y el Código de Familia, no harán dubitable la paternidad del reconocedor, sin embargo tratándose de reconocidos menores de edad, tendrán la obligación de asegurarse que la madre otorgó su consentimiento para realizar el acto que se pretende.
+Los oficiales, de conformidad con la Ley y el Código de Familia, no harán dubitable la paternidad del reconocedor, sin embargo, tratándose de reconocidos menores de edad, se asegurarán que la madre tenga conocimiento del acto que se pretende realizar.
 
 Reconocimiento de menores de edad
 
@@ -919,7 +973,21 @@ II. De actos celebrados en el extranjero entre dos extranjeros.
 
 La prevista en la fracción I de este artículo podrá realizarse a petición de parte directamente ante la Dirección; el supuesto contemplado en la fracción II deberá verificarse por la autoridad judicial que ordene la inscripción del acto.
 
-Lo anterior, únicamente aplicará para los casos de nacimiento, matrimonio y defunción.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O. 8 DE MAYO DE 2015)</small>
+
+> <small>(ADICIONADO, D.O. 8 DE MAYO DE 2015)</small>
+
+Inscripción de actas de divorcio extranjeras
+
+###### Artículo 69 Bis.
+
+Las actas expedidas por autoridades extranjeras en las que conste el divorcio entre mexicanos o entre mexicanos y extranjeros podrán inscribirse en el Registro Civil a solicitud de los mexicanos involucrados en el acto, previa presentación de los documentos siguientes:
+
+I. Identificación oficial y actas de nacimiento de los mexicanos respecto de los que se hace constar el acto de divorcio;
+
+II. Certificado actualizado del acta de divorcio legalizado o apostillado, según sea el caso, y
+
+III. Traducción al idioma español del certificado a que se refiere la fracción anterior.
 
 Requisitos para la inscripción de actas extranjeras de hijos de mexicanos
 
@@ -1033,9 +1101,11 @@ Los oficiales de que trata el artículo que antecede deberán enviar sus ingreso
 
 Comprobación de la recaudación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 81.
 
-Los oficiales deberán presentar ante el área de recaudación de la Dirección del Registro Civil los recibos hacendarios que comprueban su depósito de recaudación a la caja hacendaria correspondiente, para que se realice la validación de lo liquidado con lo realizado en su oficialía.
+Los oficiales deberán presentar ante el área de recaudación de la Dirección del Registro Civil, dentro de los tres días siguientes al término del período semanal o quincenal, según sea el caso, los recibos hacendarios que comprueban su depósito de recaudación a la caja hacendaria correspondiente, para que se realice la validación de lo liquidado con lo realizado en su oficialía.
 
 Los oficiales están obligados a ingresar en la caja hacendaria asignada, el monto de lo recaudado por concepto de las actividades registrales y certificados que expidan en cada periodo, sea éste semanal o quincenal. Asimismo reportarán de forma inmediata al Jefe del Departamento de Administración y Finanzas de la Dirección.
 
@@ -1051,9 +1121,11 @@ Además deberán señalar en el recibo de su liquidación los certificados y act
 
 Formato de liquidación de recaudación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 83.
 
-Los oficiales que depositen su recaudación en las cajas foráneas de hacienda deberán llenar el formato de liquidación en cinco tantos y deberá contar con el sello de la Oficialía y distribuirse de la manera siguiente:
+Los oficiales que depositen su recaudación en las cajas foráneas de hacienda deberán llenar el formato oficial de de (sic) liquidación que el área de recaudación determine cada año, sin alteraciones, en cinco tantos, con el sello de la Oficialía, y distribuirlos de la manera siguiente:
 
 I. Dos copias para la Agencia de Administración Fiscal de Yucatán;
 
@@ -1114,3 +1186,15 @@ SECRETARIO GENERAL DE GOBIERNO
 C. ERNESTO HERRERA NOVELO
 
 CONSEJERO JURÍDICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 8 DE MAYO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
