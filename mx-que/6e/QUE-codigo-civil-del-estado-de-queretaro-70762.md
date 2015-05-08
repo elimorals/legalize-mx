@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2014-11-29"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -3210,6 +3210,10 @@ En lo referente a la custodia de los menores, se observará lo dispuesto en la f
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 Cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre los menores, realice conductas para evitar la convivencia de éstos con la persona o personas que tengan derecho a las mismas, por más de una ocasión y sin causa debidamente justificada a juicio del juez, éste aplicará las medidas previstas en el Código de Procedimientos Civiles del Estado de Querétaro, pudiendo incluso decretar el cambio de custodia de los menores, misma que se tramitará de forma incidental escuchando al menor y al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+Si un progenitor detecta que su menor hijo está siendo manipulado por el otro progenitor, pariente o por quien tenga una situación similar al parentesco, de tal manera que infundan en el niño o niña rechazo, rencor, odio o desprecio hacia él, podrá tramitar ante el Juez, en forma incidental, el cambio de custodia. Para tomar una determinación, el juez, atendiendo a las circunstancias del proceso, resolverá sobre la pertinencia de practicar exámenes psicológicos a ambos padres y a las respectivas parejas de éstos, en la institución pública que considere adecuada, escuchando al menor y dando la intervención legal correspondiente al Ministerio Público, durante la tramitación del incidente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -15856,3 +15860,9 @@ P.O. 29 DE NOVIEMBRE DE 2014.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 8 DE MAYO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
