@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2014-12-20"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -677,9 +677,7 @@ La autoridad jurisdiccional podrá resolver sobre la modificación o conclusión
 
 En ningún caso la medida de tratamiento impuesta por el órgano jurisdiccional, excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluído este tiempo, la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrá a disposición de las autoridades sanitarias para que procedan conforme a las leyes aplicables.
 
-### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y
-
-EXTINCION DE LAS PERSONAS JURIDICAS COLECTIVAS
+### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS JURIDICAS COLECTIVAS
 
 ###### ARTICULO 65.
 
@@ -965,9 +963,7 @@ En caso de haberse nombrado fiador para el cumplimiento de las obligaciones cont
 
 El reo que considere que al dictarse sentencia reunía las condiciones fijadas para la suspensión condicional de la ejecución de la pena y que está en aptitud de cumplir los requisitos que esta apareja, si es por inadvertencia de su parte o de los Tribunales que no obtuvo su otorgamiento, podrá promover que se le conceda, abriéndose el incidente respectivo ante el Juez de la causa quien resolverá lo conducente.
 
-### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE
-
-SEGURIDAD
+### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
 ###### ARTICULO 97.
 
@@ -981,9 +977,7 @@ La imposición de una pena de inhabilitación para ejercer funciones, empleos y 
 
 En todo caso, la sanción pecuniaria se hará efectiva por el órgano ejecutor de sanciones, sujetándose al procedimiento económico coactivo.
 
-## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAD DE EJECUTAR LAS PENAS Y
-
-MEDIDAS DE SEGURIDAD
+## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO III. MUERTE DEL IMPUTADO
 
@@ -1075,9 +1069,17 @@ III. Existan datos que establezcan que hubo amenazas, acoso o lesiones del sujet
 
 IV. El cuerpo de la víctima haya sido expuesto, depositado o arrojado en un lugar público o paraje despoblado o exhibido por cualquier medio;
 
-V. Existan antecedentes o datos de cualquier tipo de violencia, en el ámbito familiar, laboral, escolar o vecinal del sujeto activo en contra de la víctima, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+V. Existan antecedentes o datos de cualquier tipo de violencia, en el ámbito familiar, laboral, escolar o vecinal del sujeto activo en contra de la víctima;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+
+VII. Existan evidencias de que la víctima sufrió violencia física ejercida por persona con la que la (sic) haya tenido parentesco por consanguinidad, por afinidad o civil, relación de matrimonio, concubinato, noviazgo o amistad o de subordinación o superioridad que impliquen confianza.
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -1309,19 +1311,7 @@ IV.- El delito que se cometa por medio de inundación, incendio, asfixia, minas,
 
 V.- El delito se cometa dolosamente y no concurra ninguna de las circunstancias atenuantes señaladas en este Código, en agravio de su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de ese parentesco o relación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
-
-VI.- El delito se cometa en forma violenta en contra de una mujer, por razones de género, entendiéndose como tales:
-
-a) La violencia física extrema ejercida por persona con la que la víctima haya tenido parentesco por consanguinidad, por afinidad o civil, relación de matrimonio, concubinato, noviazgo o amistad o de subordinación o superioridad que impliquen confianza.
-
-b) La mutilación o lesión de glándulas mamarias u órganos genitales de la víctima o cuando ésta presente signos de violencia sexual de cualquier tipo, ocasionadas por su victimario:
-
-c) Los antecedentes de amenazas a la integridad física o de acoso o de lesiones cometidas por el sujeto activo en contra de la víctima.
-
-d) Que el cuerpo de la víctima haya sido depositado o arrojado en un lugar público con fines de exhibición.
+VI.- (DEROGADA, P.O. 8 DE MAYO DE 2015)
 
 ###### ARTICULO 132.
 
@@ -1925,11 +1915,9 @@ VII.- Respecto de vehículo o maquinaria, independientemente del lugar en que se
 
 VIII.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
-
-IX.- Respecto de maquinaria agrícola, bombas de agua, su arrancador, transformador o cables; o sobre cualquier otro equipo, componente o accesorio destinado al riego de cultivos agrícolas, al drenaje, alcantarillado, agua potable o suministro de gas, independientemente del lugar en que se ubiquen.
+IX.- En lugares destinados a la agricultura o la ganadería y recaiga sobre cualquier bien destinado a dichas actividades.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -2221,15 +2209,13 @@ Al que por cualquier medio destruya o deteriore una cosa ajena o propia, en perj
 
 Cuando el ofendido sea persona menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán hasta en una tercera parte.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+ARTICULO 202 BIS.- (DEROGADO, P.O. 8 DE MAYO DE 2015)
 
-ARTICULO 202 BIS.- Si el daño se comete por medio de pintas de signos o grabados, mensajes o dibujos, sobre bienes muebles o inmuebles ajenos o propios que no estén bajo posesión legal de quien los realiza y sin el consentimiento de quien esté facultado para otorgarlo conforme a la ley, se impondrá prisión de 6 meses a 3 años o de ciento ochenta a quinientas cuarenta jornadas de trabajo a favor de la comunidad y de 30 a 300 días multa.
-
-Si las conductas antes previstas recaen en bienes de valor científico, histórico, cultural, edificios públicos, monumentos, equipamiento urbano o bienes de utilidad pública, se impondrá prisión de 1 a 5 años o de trescientas sesenta a novecientas jornadas de trabajo a favor de la comunidad y de 60 a 600 días multa.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 203.
 
-Si el daño recae en bienes de valor científico, cultural o de utilidad pública o se cometa por medio de inundación, incendio, minas, bombas o explosivos la prisión será de 2 a 9 años y de 50 a 500 días multa.
+Si el daño recae en bienes de valor científico, histórico, cultural, edificios públicos, monumentos, equipamiento urbano o bienes de utilidad pública o se comete por medio de inundación, incendio, minas, bombas o explosivos la prisión será de 2 a 9 años y de 50 a 500 días multa.
 
 ### CAPITULO V. BIGAMIA
 
@@ -2249,11 +2235,11 @@ En los casos de los delitos previstos por este Título, no se aplicará pena alg
 
 Lo dispuesto en el párrafo anterior no será aplicado tratándose de delitos en que el agente sea servidor público, si se aprovecha del cargo para cometerlos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 207.
 
-Los delitos contra el patrimonio previstos en los Capítulos Tercero, Cuarto, Quinto, Sexto, Octavo y Noveno del Título Décimo, sólo se perseguirán por querella de la parte ofendida, con excepción de lo previsto en los artículos 202 Bis y 203.
+Los delitos contra el patrimonio previstos en los Capítulos Tercero, Cuarto, Quinto, Sexto, Octavo y Noveno del Título Décimo, sólo se perseguirán por querella de la parte ofendida, con excepción de lo previsto en el artículo 203.
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
 
@@ -4218,3 +4204,29 @@ Artículo Tercero. Se abroga la Ley para el Manejo de los Recursos Públicos del
 Artículo Cuarto. Para efectos de lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, los sujetos de dicho ordenamiento, estarán obligados a dar cumplimiento a lo establecido en la presente Ley en materia de contabilidad gubernamental y presentación de la información financiera, de conformidad con los plazos que al efecto establezca el Congreso de la Unión en la Ley respectiva, así como aquellos que se prevean en la normatividad que emitan los órganos que la misma autorice para tal efecto.
 
 Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+P.O. 8 DE MAYO DE 2015.
+
+LEY QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 183 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE MAYO DE 2015.
+
+LEY QUE REFORMA LAS FRACCIONES V Y VI Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 126 BIS; Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 131, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE MAYO DE 2015.
+
+LEY POR LA QUE SE DEROGA EL ARTÍCULO 202 BIS Y SE REFORMAN LOS ARTÍCULOS 203 Y 207 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Los Ayuntamientos de los Municipios del Estado de Querétaro, dentro de los seis meses siguientes al inicio de vigencia de la presente Ley, emitirán las disposiciones reglamentarias que correspondan o adecuarán las existentes, a efecto de que los daños que se cometan por medio de pintas de signos o grabados, mensajes o dibujos sobre bienes muebles o inmuebles ajenos o propios que no estén bajo posesión legal de quien los realiza y sin el consentimiento de quien esté facultado para otorgarlo conforme a la ley, sean sancionados de manera administrativa.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
