@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-03-20"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1379,7 +1379,9 @@ I. Planificar, coordinar, supervisar y evaluar las actividades de las unidades a
 
 II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Poder Judicial de la Federación;
 
-III. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
+III. Aprobar los certificados de necesidad a que se refieren los artículos 296 Bis y 296 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa el propio Consejo;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -5096,3 +5098,9 @@ CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por con
 QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
 
 SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
+
+D.O.F. 8 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
