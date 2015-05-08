@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-salud-93209"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-15"
-last_updated: "2013-03-15"
+last_updated: "2015-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 15 de marzo de 2013.
 
@@ -541,7 +543,7 @@ Corresponde al Director de Financiamiento y Protección Social en Salud, además
 
 I. Establecer los mecanismos para proveer a los organismos coordinados que, en términos de lo pactado con la Secretaría, tengan a su cargo la prestación de servicios de salud para el cumplimiento del Régimen de Protección Social en Salud, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
 
-II. Programar la identificación e incorporación de beneficiarios al Régimen de Protección Social en Salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el estado, conforme a los lineamientos establecidos para tal efecto por la Secretaría del Salud del Gobierno Federal;
+II. Programar la identificación e incorporación de beneficiarios al Régimen de Protección Social en Salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el estado, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Salud del Gobierno Federal;
 
 III. Gestionar los recursos que sean transferidos por la Federación, las aportaciones propias y las de los municipios, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para el efecto se celebren;
 
@@ -607,7 +609,7 @@ Artículo Quinto.- Los expedientes en trámite, así como sus archivos, de las u
 
 Artículo Sexto.- Cada Director formulará dentro de un plazo de sesenta días naturales contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público, y los someterá a la consideración del Secretario.
 
-Es dado en el Palacio del Poder Ejecutivo de Estado en la ciudad de Culiacán Rosales, Sinaloa, a los cinco días del mes Marzo (sic) de dos mil trece.
+Es dado en el Palacio del Poder Ejecutivo de Estado en la ciudad de Culiacán Rosales, Sinaloa, a los cinco días del mes (sic) Marzo de dos mil trece.
 
 SINALOA ES TAREA DE TODOS
 
@@ -630,3 +632,19 @@ C.P.C. JUAN PABLO YAMUNI ROBLES
 EL SECRETARIO DE SALUD
 
 DR. ERNESTO ECHEVERRIA AISPURO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2015.
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Salud, publicado en el Periódico Oficial “El Estado de Sinaloa”, el día 15 del (sic) Marzo de 2013.
+
+Artículo Tercero.- Los asuntos que se encuentran pendientes de resolución a la fecha en que entre en vigor el presente Reglamento, se turnaran a la unidad administrativa correspondiente, hasta concluir la tramitación de los mismos.
+
+Artículo Cuarto.- Los derechos laborales del personal que, en virtud a lo establecido en el presente reglamento, se reubiquen de una unidad o área administrativa a otra dentro de la Secretaría o en el Organismo Público Descentralizado denominado; “Régimen Estatal de Protección Social” o viceversa, se respetarán conforme a las disposiciones legales aplicables.
+
+Artículo Quinto.- Los expedientes en trámite, así como sus archivos, de las unidades o áreas administrativas existentes antes de la entrada en vigor del presente reglamento, pasarán a las nuevas unidades o áreas competentes, tanto de la secretaría como del Organismo Público Descentralizado denominado; “Régimen Estatal de Protección Social en Salud”; con respecto al personal adscrito a las anteriores, se buscaran los mecanismos e instrumentos que resulten mas prácticos para realizar las transferencias y comisiones del personal que resulte involucrado, pero, atendiendo a los acuerdos que establezca el Secretario y las organizaciones sindicales a que correspondan si fuese el caso; en cuanto al mobiliario y el equipo en general, serán determinados en base a los criterios que determine o en su caso, establezca el titular de la secretaría.
+
+Artículo Sexto.- Cada Director formulará dentro de sesenta días naturales contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público, y los someterá a la consideración del Secretario.
