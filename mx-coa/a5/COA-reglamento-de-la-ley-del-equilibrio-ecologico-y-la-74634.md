@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-74634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-23"
-last_updated: "2014-05-30"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA EN MATERIA DE IMPACTO AMBIENTAL
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MAYO DE 2015 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA EN MATERIA DE IMPACTO AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 23 de abril de 2010.
 
@@ -37,13 +39,17 @@ REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 1.
 
-Este reglamento es de orden público e interés social y tiene como objeto reglamentar las disposiciones previstas en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza en materia de evaluación del impacto ambiental.
+Este reglamento es de orden público e interés social y tiene por objeto regular las disposiciones previstas en la Sección VI del Capítulo IV del Título Primero de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza en materia de evaluación de impacto ambiental.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 2.
 
-La aplicación de este reglamento compete al Ejecutivo del Estado por conducto de la Secretaría de Medio Ambiente, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública estatal, así como a los municipios, en la esfera de su competencia.
+La aplicación de este reglamento corresponde al Ejecutivo del Estado, a través de la Secretaría de Medio Ambiente y de la Procuraduría de Protección al Ambiente del Estado de Coahuila, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública estatal y a los municipios, en la esfera de su competencia.
 
 ###### Artículo 3.
 
@@ -113,7 +119,7 @@ XXXI. Sustancia inflamable: Aquélla capaz de formar una mezcla con el aire en c
 
 XXXII. Sustancia explosiva: Aquella que en forma espontánea o por acción de alguna forma de energía genera una gran cantidad de calor y energía de presión en forma casi instantánea; y
 
-XXXIII. Ventanillas Únicas: Áreas de recepción de trámites de la Secretaría; (sic)
+XXXIII. Ventanillas Únicas: Áreas de recepción de trámites de la Secretaría;
 
 ###### Artículo 4.
 
@@ -145,7 +151,7 @@ IX. Establecer y mantener actualizado el Registro, así como determinar los requ
 
 X. Vigilar la observancia y cumplimiento de las disposiciones previstas en la Ley, en este reglamento y demás disposiciones en materia de impacto ambiental;
 
-XI. Enviar a la Procuraduría las autorizaciones, dictámenes y demás resoluciones que emita, para que ésta proceda a vigilar su cumplimiento e imponer las sanciones y demás medidas necesarias, con arreglo a las disposiciones aplicables, y (sic)
+XI. Enviar a la Procuraduría las autorizaciones, dictámenes y demás resoluciones que emita, para que ésta proceda a vigilar su cumplimiento e imponer las sanciones y demás medidas necesarias, con arreglo a las disposiciones aplicables, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2014)</small>
 
@@ -345,7 +351,9 @@ I. La manifestación de impacto ambiental o el informe preventivo de conformidad
 
 II. Constancia del pago de derechos correspondientes;
 
-III. Constancia de uso de suelo vigente expedida por la autoridad municipal competente;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+III. Constancia de uso de suelo vigente, expedida por la autoridad municipal correspondiente a nombre del promovente, en la que se haga constar que la actividad pretendida esté permitida y cubra la ubicación y superficie a desarrollar;
 
 IV. Autorización de cambio de uso de suelo en terrenos forestales o de aptitud preferentemente forestal, en su caso, expedida por la autoridad competente;
 
@@ -355,13 +363,15 @@ VI. Copia de la escritura pública del acta constitutiva de la persona moral, en
 
 VII. Copia del título de propiedad del inmueble en donde se desarrollará la actividad o el proyecto y del instrumento legal que acredite la legal posesión del inmueble y los derechos para realizar la obra o actividad pretendida;
 
-VIII. Certificado de libertad de gravamen del inmueble, expedido por la oficina del Registro Público correspondiente:
+VIII. (DEROGADA, P.O. 8 DE MAYO DE 2015)
 
 IX. En los casos de predios ejidales, las autorizaciones y permisos de las autoridades ejidales y agrarias, que deban expedirse de conformidad con las disposiciones aplicables en la materia;
 
 X. Copia del registro federal de contribuyentes;
 
-XI. Escritura pública que acredite la personalidad del representante legal del promovente, o bien el poder respectivo ratificado ante Notario Público;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XI. Copia de la escritura pública que acredite la personalidad del representante legal del promovente, o bien, copia del poder respectivo ratificado ante Notario Público;
 
 XII. Resolución de estudio de riesgo, en su caso, expedida por la autoridad competente; y
 
@@ -369,55 +379,55 @@ XIII. Los demás documentos que determine la Secretaría debido a la complejidad
 
 Todos los documentos antes descritos deberán entregarse en forma impresa y en el medio magnético que la Secretaría determine.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+La falta de uno o varios de los requisitos descritos en este artículo, de los datos previstos en los artículos 18 y 25, así como las guías previstas en el artículo 19 de este Reglamento, o la falta de vigencia o validez de algún documento de los requeridos para el proceso de evaluación correspondiente, impedirá la recepción oficial en Ventanilla Única del trámite, hasta en tanto (sic)
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 15.
 
-Los promoventes están obligados a entregar árboles a la Secretaría como medida de compensación por la superficie de suelo afectada derivada de las obras y/o actividades que se pretendan realizar, de conformidad a las siguientes bases:
+Para la obtención de la autorización de impacto ambiental y como medida de compensación por la superficie de suelo afectada derivada de las obras o actividades que se pretendan realizar, los promoventes estarán obligados a la entrega de especies de flora a la Secretaría, de conformidad con la siguiente tabla:
 
-A. De acuerdo a la superficie que se pretenda desarrollar, será de acuerdo a la siguiente: (REFORMADA, P.O. 30 DE MARZO DE 2012) TABLA DE COMPENSACIÓN HASTA LA CANTIDAD DE ÁRBOLES: A B
+Superficie impactada Cantidad de salarios mínimos generales en metros cuadrados vigentes en el Estado, convertidos en especies
 
-SUPERFICIE
+de flora que la Secretaría determine
 
-IMPACTADA
+Menos de 50 10
 
-EN M2 FRESNO (Fraxinus sp) PINOS (Pinus sp) TROENO (Ligustrum sp) NATIVOS DE LA O ESPECIES NATIVAS REGIÓN DE LA REGIÓN
+50-100 15
 
-< 50 10 5
+101-500 25
 
-50 - 100 15 10
+501-1000 50
 
-101 - 500 25 15
+1001-1500 70
 
-501 - 1,000 50 25
+1501-2000 100
 
-1,001 - 1500 70 40
+2001-3000 150
 
-1501 - 2,000 100 50
+3001-5000 200
 
-2001 - 3,000 150 70
+5001-10000 300
 
-3,001 - 5,000 200 100
+10001-20000 400
 
-5,001 - 10,000 300 150
+20001-40000 600
 
-10,001 - 20,000 400 200
+Más de 40000 16 por cada 1000 metros cuadrados
 
-20,001 - 40.000 600 300
+excedentes
 
->40,000 16 por cada 1000 M2 8 por cada 1000 M2 excedentes excedentes
+Para el caso específico de entrega de arbolado, deberán contar con una altura mínima de 2.00 metros, diámetro mínimo de una pulgada, envasados con por lo menos 45 días de anticipación a la entrega, en bolsa de plástico de medidas mínimas de 40 X 40 centímetros y de calibre 500, los cuales deberán ser entregados en el vivero de la Secretaría, que ésta determine.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
-
-Los promoventes entregarán a determinación de la Secretaría los árboles considerados en la columna A o B, árboles frutales, arbustos, plantas ornamentales o una combinación de las anteriores, que sean adecuadas a las necesidades de reforestación en el Estado y sus Municipios, los cuales deberán contar con una altura mínima de 2.00 metros, diámetro mínimo de una pulgada, envasados con por lo menos 45 días de anticipación a la entrega, en bolsa de plástico de medidas mínimas de 40 X 40 centímetros y de calibre 500, los cuales deberán ser entregados en el vivero de la Secretaría, que ésta determine.
-
-Los árboles serán destinados para programas de la Secretaría en el Estado.
-
-B. En aquellos proyectos en los que existen vegetación arbóreas, arbustivas y flora de interés, el promovente está obligado además de las medidas de compensación señaladas en el inciso anterior a las que a continuación se indican:
+En aquellos proyectos en los que existen vegetación arbóreas, arbustivas y flora de interés, el promovente está obligado además de las medidas de compensación señaladas en el inciso anterior a las que a continuación se indican:
 
 1. Si la vegetación señalada, se derriba o tala, el promovente destinará un sitio dentro del mismo predio o en otro donde se pueda reponer el beneficio que ésta significaba y trasplantará aquellos ejemplares que tengan viabilidad, de conformidad a lo dispuesto en este reglamento y en las disposiciones municipales aplicables.
 
-2. Cuando la reposición o trasplante no sea posible, el promovente deberá realizar la compensación de acuerdo con las disposiciones municipales en la materia. Cuando no existieren disposiciones municipales aplicables, la Secretaria determinará las medidas adicionales de compensación.
+2. Cuando la reposición o trasplante no sea posible, el promovente deberá realizar la compensación de acuerdo con las disposiciones municipales en la materia. Cuando no existieren disposiciones municipales aplicables, la Secretaría determinará las medidas adicionales de compensación.
+
+La Secretaría podrá determinar la sustitución de especies de flora por otro tipo de bienes en especie que se requieran para el cumplimiento de las funciones y atribuciones propias de la Secretaría, cuando la cantidad de especies de flora con que cuente sean suficientes para las necesidades de reforestación en el Estado.
 
 ### CAPÍTULO QUINTO. DEL PROCEDIMIENTO PARA LA EVALUACIÓN DE LA MANIFESTACIÓN DE IMPACTO AMBIENTAL
 
@@ -427,9 +437,11 @@ Los promoventes que pretendan realizar obras o actividades señaladas en el art�
 
 La información que contenga la manifestación de impacto ambiental deberá referirse a circunstancias ambientales relevantes vinculadas con la realización del proyecto.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 17.
 
-La Secretaría podrá solicitar, dentro del procedimiento de evaluación, estudios de riesgo, la opinión técnica de dependencias o entidades de la administración pública federal, estatal o municipal, cuando por el tipo de obra o actividad así se requiera. Asimismo, la Secretaría podrá consultar a expertos cuando por la complejidad o especialidad de las circunstancias de ejecución y desarrollo se estime que sus opiniones pueden proveer de mejores elementos para la formulación de la resolución correspondiente; en este caso, notificará al promovente los propósitos de la consulta y le remitirá una copia de las opiniones recibidas para que éste, durante el procedimiento, manifieste lo que a su derecho convenga. La Secretaría deberá mantener, al momento de realizar la consulta la reserva a que se refiere (sic) los artículos 39 y 40 del presente reglamento.
+La Secretaría podrá solicitar, dentro del procedimiento de evaluación, estudios de riesgo, la opinión técnica de dependencias o entidades de la administración pública federal, estatal o municipal, cuando por el tipo de obra o actividad así se requiera. Asimismo, la Secretaría podrá consultar a expertos cuando por la complejidad o especialidad de las circunstancias de ejecución y desarrollo se estime que sus opiniones pueden proveer de mejores elementos para la formulación de la resolución correspondiente; en este caso, notificará al promovente los propósitos de la consulta y le remitirá una copia de las opiniones recibidas para que éste, durante el procedimiento, manifieste lo que a su derecho convenga. En estos casos, el plazo para emitir la resolución de impacto ambiental se suspenderá hasta en tanto se cuente con la opinión necesaria, sin que este exceda de cinco días hábiles para obtener la opinión solicitada. La Secretaría deberá mantener, al momento de realizar la consulta la reserva a que se refiere los artículos 39 y 40 del presente reglamento.
 
 ###### Artículo 18.
 
@@ -449,7 +461,9 @@ I.2.1 Nombre o razón social.
 
 I.2.2 Registro Federal de Contribuyentes y CURP.
 
-I.2.3 Domicilio del promovente o de su representante legal para recibir u oír notificaciones.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
+1.2.3 Domicilio, teléfono y correo electrónico del promovente o de su representante legal para recibir u oír notificaciones.
 
 I.3 Responsable de la elaboración del estudio de impacto ambiental
 
@@ -569,25 +583,33 @@ VIII.1.3 Videos.
 
 VIII.2 Otros anexos.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 19.
 
-Una vez recibida la manifestación de impacto ambiental, la Secretaría en un plazo no mayor a diez días hábiles contados a partir de su recepción, integrará el expediente respectivo, para lo cual revisará que la solicitud y documentos se ajusten a las formalidades previstas en la Ley, del presente reglamento, normas oficiales mexicanas, guías y demás instrumentos que resulten aplicables, para posteriormente iniciar con el procedimiento de evaluación.
+Al momento de recibir la manifestación de impacto ambiental, la Secretaría revisará que se encuentre debidamente integrada y que la solicitud y documentos se ajusten a las formalidades previstas en la Ley, del presente reglamento, normas oficiales mexicanas, guías y demás instrumentos que resulten aplicables, para iniciar con el procedimiento de evaluación.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 20.
 
-En el caso de que la manifestación de impacto ambiental le faltare algún requisito o información a juicio de la Secretaría, esta solicitará al promovente por una sola vez para que dentro de los tres días hábiles siguientes contados a partir de que hubiere tenido conocimiento, presente lo solicitado a fin de integrar el expediente respectivo, apercibiéndolo que en caso de no dar cumplimiento a lo anterior, se procederá a dar de baja el registro electrónico del folio en la bitácora de ingreso de trámites de esta Secretaría, y se regresarán todos los documentos que fueron presentados, para que, en su caso, integre el expediente en su totalidad e inicie de nueva cuenta el procedimiento de evaluación de su proyecto.
+Si durante el proceso de evaluación de impacto ambiental o en la visita de evaluación, se detectare la necesidad de contar con información complementaria a juicio de la Secretaría, esta solicitará al promovente por una sola vez para que dentro de los tres días hábiles siguientes contados a partir de que hubiere tenido conocimiento, presente lo solicitado a fin de integrar el expediente respectivo, apercibiéndolo que en caso de no dar cumplimiento a lo anterior, se procederá a dar de baja el registro electrónico del folio en la bitácora de ingreso de trámites de esta Secretaría, y se regresarán todos los documentos que fueron presentados, para que, en su caso, integre el expediente en su totalidad e inicie de nueva cuenta el procedimiento de evaluación de su proyecto. Este supuesto amplía el plazo de evaluación por tres días hábiles más.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 21.
 
-Cuando se realicen modificaciones al proyecto de obra o actividad durante el procedimiento de evaluación de impacto ambiental, el promovente deberá hacerlas del conocimiento de la Secretaría con el objeto de que ésta, en un plazo no mayor de diez días hábiles le notifique:
+Cuando se realicen modificaciones al proyecto de obra o actividad durante el procedimiento de evaluación de impacto ambiental, el promovente deberá hacerlas del conocimiento de la Secretaría con el objeto de que ésta, en un plazo no mayor de cinco días hábiles le notifique:
 
 I. Si es necesaria información adicional para evaluar los efectos al ambiente derivados de tales modificaciones, cuando éstas no sean significativas;
 
 II. Requerir la presentación de una nueva manifestación de impacto ambiental, cuando las modificaciones propuestas puedan causar desequilibrios ecológicos, daños a la salud, o causar impactos acumulativos o sinérgicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 22.
 
-Si el promovente pretende realizar modificaciones al proyecto después de emitida la autorización en materia de impacto ambiental, deberá someterlas a la consideración de la Secretaría, la que, en un plazo no mayor a diez días hábiles, determinará:
+Si el promovente pretende realizar modificaciones al proyecto después de emitida la autorización en materia de impacto ambiental, deberá someterlas a la consideración de la Secretaría, la que, en un plazo no mayor a cinco días hábiles, determinará:
 
 I. Si es necesaria la presentación de una nueva manifestación de impacto ambiental;
 
@@ -595,15 +617,19 @@ II. Si las modificaciones propuestas no afectan el contenido de la autorización
 
 III. Si la autorización otorgada requiere ser modificada con objeto de imponer nuevas condicionantes para la realización de la obra o actividad de que se trata.
 
-En este último caso, las modificaciones a la autorización deberán ser dadas a conocer al promovente en un plazo no mayor de diez días hábiles.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
+En este último caso, las modificaciones a la autorización deberán ser dadas a conocer al promovente en un plazo no mayor de cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 23.
 
-Cuando se trate de obras o actividades de minería, parques, corredores, fraccionamientos o zonas industriales en las que no se prevean actividades altamente riesgosas; almacenamiento, plantas de separación, tratamiento, estaciones de transferencia y sitios de disposición final de residuos de manejo especial y sólidos urbanos que deban sujetarse al procedimiento de evaluación de impacto ambiental de conformidad con este reglamento, la Secretaría notificará a los gobiernos municipales, dentro de los cinco días hábiles siguientes a la integración del expediente, que ha recibido el estudio de impacto ambiental respectivo, con el fin de que éstos, dentro del procedimiento de evaluación emitan las opiniones que consideren oportunas.
+Cuando se trate de obras o actividades de minería, parques, corredores, fraccionamientos o zonas industriales en las que no se prevean actividades altamente riesgosas; almacenamiento, plantas de separación, tratamiento, estaciones de transferencia y sitios de disposición final de residuos de manejo especial y sólidos urbanos que deban sujetarse al procedimiento de evaluación de impacto ambiental de conformidad con este reglamento, en caso de considerarse necesario a juicio de la Secretaría, ésta notificará a los gobiernos municipales que ha recibido el estudio de impacto ambiental respectivo, con el fin de que éstos, dentro del procedimiento de evaluación emitan las opiniones que consideren oportunas.
 
-Las autoridades municipales deberán emitir su opinión en un plazo no mayor de cinco días hábiles, a partir de su notificación, en caso de no dar respuesta a lo anterior, se entenderá que no tienen observaciones al proyecto.
+Las autoridades municipales deberán emitir su opinión en un plazo no mayor de tres días hábiles, a partir de su notificación, en caso de no dar respuesta a lo anterior, se entenderá que no tienen observaciones al proyecto.
 
-La autorización que expida la Secretaría, no obligará en forma alguna a las autoridades municipales para expedir las autorizaciones que les correspondan en el ámbito de sus respectivas competencias.
+La autorización que expida la Secretaría, no obligará en forma alguna a las autoridades municipales para expedir las autorizaciones que les correspondan en el ámbito de sus respectivas competencias. En estos casos, el plazo para emitir la resolución de impacto ambiental se suspenderá hasta en tanto se cuente con la opinión necesaria, o bien, al momento en que venza el plazo otorgado a las autoridades municipales sin que éstas hubiesen emitido opinión al respecto.
 
 ### CAPÍTULO SEXTO
 
@@ -615,7 +641,7 @@ La realización de las obras y actividades a que se refiere el artículo 7 del p
 
 I. Existan normas oficiales mexicanas, normas técnicas estatales u otras disposiciones federales y estatales que regulen las emisiones, las descargas de aguas residuales, el aprovechamiento de recursos naturales no reservados a la Federación y, en general, todos los impactos ambientales relevantes que las obras o actividades puedan producir;
 
-II. Las obras o actividades estén expresamente previstas en planes o programas de desarrollo urbano o de ordenamiento ecológico del territorio que cuenten con previa autorización en materia de impacto ambiental, respecto del conjunto de obras o actividades incluidas en el mismo;
+II. (DEROGADA, P.O. 8 DE MAYO DE 2015)
 
 III. Se trate de instalaciones ubicadas en fraccionamientos, corredores, parques zonas industriales previamente autorizados en materia de impacto ambiental por la autoridad competente;
 
@@ -639,7 +665,9 @@ II. Datos generales del promovente y del representante legal para oír y recibir
 
 a) Nombre o razón social de la empresa.
 
-b) Domicilio.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
+b) Domicilio, teléfono y correo electrónico.
 
 III.- Datos generales del responsable de la elaboración del informe preventivo.
 
@@ -685,15 +713,19 @@ El promovente podrá someter a consideración de la Secretaría condiciones adic
 
 Una vez recibido por parte de la Secretaría el informe preventivo y la información a que se refieren los artículos anteriores, e integrado el expediente se iniciará el procedimiento correspondiente.
 
-En caso que el informe preventivo, le faltare información, la Secretaría prevendrá al promovente por una sola vez para que en un plazo no mayor de tres días hábiles siguientes contados a partir de su notificación, presente la información faltante. De no cumplir con este requerimiento se procederá a dar de baja el registro electrónico del folio en la bitácora de ingreso de trámites de la Secretaría, y se tendrá por no presentado el informe preventivo, haciéndose la devolución de todos los documentos que fueron presentados por el promovente, para que, en su caso, integre el expediente en su totalidad e inicie de nueva cuenta el procedimiento de evaluación de su proyecto.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
+Si durante el proceso de evaluación de impacto ambiental del informe preventivo o en la visita de evaluación, se detectare la necesidad de contar con información complementaria a juicio de la Secretaría, esta solicitará al promovente por una sola vez para que dentro de los tres días hábiles siguientes contados a partir de que hubiere tenido conocimiento, presente lo solicitado a fin de integrar el expediente respectivo, apercibiéndolo que en caso de no dar cumplimiento a lo anterior, se procederá a dar de baja el registro electrónico del folio en la bitácora de ingreso de trámites de esta Secretaría, y se regresarán todos los documentos que fueron presentados, para que, en su caso, integre el expediente en su totalidad e inicie de nueva cuenta el procedimiento de evaluación de su proyecto. Este supuesto amplía el plazo de evaluación por tres días hábiles más.
 
 Durante el proceso de revisión del informe preventivo, la Secretaría verificará que la solicitud y la información técnica y documental requerida cumplan con lo establecido en la guía que para tal efecto se emita y se ajuste a las formalidades previstas en la Ley, del presente reglamento, normas oficiales mexicanas y demás instrumentos que resulten aplicables.
 
 #### SECCIÓN II. DE LA RESOLUCIÓN SOBRE LA EVALUACIÓN DE INFORME PREVENTIVO DE IMPACTO AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 28.
 
-La Secretaría deberá resolver en un plazo no mayor a veinte días hábiles contados a partir de la recepción del informe preventivo y notificará al promovente:
+La Secretaría deberá resolver en un plazo no mayor a cinco días hábiles contados a partir de la recepción del informe preventivo y notificará al promovente:
 
 I. Que no es necesaria la presentación de una manifestación de impacto ambiental, por satisfacer los supuestos previstos en artículo 24 de este reglamento, y por la tanto la Secretaría deberá emitir en forma fundada y motivada, la resolución correspondiente en la que podrá:
 
@@ -771,7 +803,7 @@ La Secretaría podrá realizar una evaluación para verificar la capacidad y apt
 
 ###### Artículo 36.
 
-Recibida la solicitud a que se refiere el artículo anterior, la Secretaría en un plazo que no excederá de quince días hábiles contados a partir de la fecha en que se presente la solicitud, emitirá la resolución correspondiente: (sic)
+Recibida la solicitud a que se refiere el artículo anterior, la Secretaría en un plazo que no excederá de quince días hábiles contados a partir de la fecha en que se presente la solicitud, emitirá la resolución correspondiente:
 
 ###### Artículo 37.
 
@@ -823,7 +855,9 @@ La consulta directa de los expedientes podrá realizarse en horas y días hábil
 
 La Secretaría, a solicitud de cualquier persona de la comunidad en la cual se pretenda desarrollar obras o actividades señaladas en el artículo 7 del presente reglamento, podrá llevar a cabo una consulta pública, cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas respecto de proyectos sometidos a su consideración de manifestaciones de impacto ambiental.
 
-La solicitud a que se refiere al párrafo anterior, deberá presentarse por escrito dentro del plazo de cinco días hábiles contados a partir de la publicación de los listados de las manifestaciones de impacto ambiental. En ella se hará mención de lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
+La solicitud a que se refiere al párrafo anterior, deberá presentarse por escrito al día siguiente hábil contado a partir de la publicación de los listados de las manifestaciones de impacto ambiental. En ella se hará mención de lo siguiente:
 
 I. La obra o actividad de que se trate.
 
@@ -831,13 +865,17 @@ II. Las razones que motivan la petición.
 
 III. El nombre o razón social y domicilio del solicitante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 43.
 
-La Secretaría, dentro de los cinco días hábiles siguientes a la presentación de la solicitud, notificará al interesado su determinación de dar o no inicio a la consulta pública.
+La Secretaría, al día siguiente hábil a la presentación de la solicitud, notificará al interesado su determinación de dar o no inicio a la consulta pública.
 
 Cuando la Secretaría decida llevar a cabo una consulta pública, deberá hacerlo conforme a las bases que a continuación se mencionan:
 
-I. El día siguiente a aquel en que resuelva iniciar la consulta pública, la Secretaría notificará al promovente que deberá publicar, en un término no mayor de cinco días hábiles contados a partir de que surta efectos la notificación, un extracto de la obra o actividad en un periódico de amplia circulación en la localidad o municipio donde se pretenda llevar a cabo, apercibiéndolo que en caso de no dar cumplimiento a lo anterior, se procederá a dar de baja el registro electrónico del folio en la bitácora de ingreso de trámites de la Secretaría, y se regresará todos los documentos que fueron presentados por el promovente, para que en su caso, inicie de nueva cuenta el procedimiento de evaluación de su proyecto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
+I. El día siguiente a aquel en que resuelva iniciar la consulta pública, la Secretaría notificará al promovente que deberá publicar, en un término no mayor de tres días hábiles contados a partir de que surta efectos la notificación, un extracto de la obra o actividad en un periódico de amplia circulación en la localidad o municipio donde se pretenda llevar a cabo, apercibiéndolo que en caso de no dar cumplimiento a lo anterior, se procederá a dar de baja el registro electrónico del folio en la bitácora de ingreso de trámites de la Secretaría, y se regresarán todos los documentos que fueron presentados por el promovente, para que en su caso, inicie de nueva cuenta el procedimiento de evaluación de su proyecto.
 
 El promovente dentro de los tres días hábiles siguientes al vencimiento del plazo citado en el primer párrafo de ésta fracción, deberá remitir a la Secretaría la publicación del extracto del proyecto para que sea incorporada al expediente respectivo, de no hacerlo se entenderá que no fue publicado.
 
@@ -851,21 +889,31 @@ c) Ubicación del lugar en el que la obra o actividad se pretenda ejecutar, indi
 
 d) Indicación de los principales impactos ambientales que puede generar la obra o actividad y las medidas de mitigación y compensación que se proponen.
 
-II. Cualquier ciudadano de la comunidad, dentro de los diez días hábiles siguientes a la publicación del extracto del proyecto, podrá solicitar a la Secretaría que ponga a disposición del público la manifestación de impacto ambiental en el municipio que corresponda;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-III. Dentro de los veinte días hábiles siguientes a aquél en que la manifestación de impacto ambiental haya sido puesta a disposición del público conforme a la fracción anterior, cualquier interesado podrá proponer a la Secretaría el establecimiento de medidas de prevención y mitigación, así como las observaciones que considere pertinentes, las cuales se agregarán al expediente;
+II. Cualquier ciudadano de la comunidad, dentro de los tres días hábiles siguientes a la publicación del extracto del proyecto, podrá solicitar a la Secretaría que ponga a disposición del público la manifestación de impacto ambiental en el municipio que corresponda;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+III. Dentro de los cinco días hábiles siguientes a aquél en que la manifestación de impacto ambiental haya sido puesta a disposición del público conforme a la fracción anterior, cualquier interesado podrá proponer a la Secretaría el establecimiento de medidas de prevención y mitigación, así como las observaciones que considere pertinentes, las cuales se agregarán al expediente;
 
 IV. Las observaciones y propuestas a que se refiere el párrafo anterior deberán formularse por escrito y contendrán el nombre completo de la persona física o moral que las hubiese presentado y su domicilio;
 
-V. La Secretaría consignará, en la resolución que emita, el proceso de consulta pública y los resultados de las observaciones y propuestas formuladas.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+V. La Secretaría consignará, en la resolución que emita, el proceso de consulta pública y los resultados de las observaciones y propuestas formuladas, entendiéndose que al momento de abrirse el proceso de consulta pública se suspenderá el plazo para la evaluación de impacto ambiental correspondiente, hasta en tanto la consulta pública concluya.
 
 ###### Artículo 44.
 
 Durante el proceso de consulta pública a que se refieren los artículos 42 y 43 del presente reglamento, la Secretaría, en coordinación con las autoridades municipales, podrá organizar una reunión pública de información, de conformidad con las siguientes bases:
 
-I. La Secretaría, dentro del plazo de quince días hábiles contados a partir de que resuelva dar inicio a la consulta pública, emitirá una convocatoria en la que expresará el día, la hora y el lugar en que la reunión deberá realizarse. La convocatoria se publicará, por una sola vez en un periódico de amplia circulación en él o los municipios correspondientes. Cuando la Secretaría lo considere necesario, podrá llevar a cabo la publicación en otros medios de comunicación que permitan una mayor difusión a los interesados o posibles afectados por la realización de la obra o actividad;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-II. La reunión deberá efectuarse, en todo caso, dentro de un plazo no mayor a cinco días hábiles con posterioridad a la fecha de publicación de la convocatoria y se desahogará en un solo día;
+I. La Secretaría, al día siguiente hábil al que resuelva dar inicio a la consulta pública, emitirá una convocatoria en la que expresará el día, la hora y el lugar en que la reunión deberá realizarse. La convocatoria se publicará, por una sola vez en un periódico de amplia circulación en él o los municipios correspondientes. Cuando la Secretaría lo considere necesario, podrá llevar a cabo la publicación en otros medios de comunicación que permitan una mayor difusión a los interesados o posibles afectados por la realización de la obra o actividad;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+II. La reunión deberá efectuarse, en todo caso, dentro de un plazo no mayor a tres días hábiles con posterioridad a la fecha de publicación de la convocatoria y se desahogará en un solo día;
 
 III. El promovente tendrá la obligación de asistir y deberá exponer los aspectos técnicos ambientales de la obra o actividad de que se trate, los posibles impactos que se ocasionarían por su realización y las medidas de prevención, mitigación y compensación que serían implementadas. Asimismo, atenderá y resolverá durante la reunión, las dudas que le sean planteadas;
 
@@ -907,13 +955,15 @@ b) La obra o actividad de que se trate pueda propiciar que una o más especies s
 
 c) Exista falsedad en la información presentada por los promoventes, respecto de los impactos ambientales asociados con su instrumentación o realización.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 47.
 
-El plazo para emitir la resolución de la manifestación de impacto ambiental no podrá exceder de treinta días hábiles. Cuando por las dimensiones y complejidad de la obra o actividad se justifique, la Secretaría podrá, excepcionalmente por una sola vez y de manera fundada y motivada, ampliar el plazo hasta por treinta días hábiles más, debiendo notificar al promovente su determinación en la forma siguiente:
+El plazo para emitir la resolución de la manifestación de impacto ambiental no podrá exceder de cinco días hábiles. Cuando por las dimensiones y complejidad de la obra o actividad se justifique, la Secretaría podrá, excepcionalmente por una sola vez y de manera fundada y motivada, ampliar el plazo hasta por cinco días hábiles más, debiendo notificar al promovente su determinación en la forma siguiente:
 
-I. Dentro de los veinte días hábiles posteriores a la recepción de la solicitud de autorización, cuando no se hubiere requerido información adicional;
+I. Dentro de los tres días hábiles posteriores a la recepción de la solicitud de autorización, cuando no se hubiere requerido información adicional;
 
-II. En un plazo que no excederá de diez días hábiles contados a partir de que se presente la información adicional, en el caso de que ésta se hubiera requerido; (sic)
+II. En un plazo que no excederá de tres días hábiles contados a partir de que se presente la información adicional, en el caso de que ésta se hubiera requerido;
 
 ###### Artículo 48.
 
@@ -977,21 +1027,27 @@ La Secretaría con los recursos que se obtengan por el cobro de seguros o la eje
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LA INSPECCIÓN, MEDIDAS DE SEGURIDAD Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 56.
 
-La Secretaría, por conducto de la Procuraduría, realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente reglamento, de las condicionantes de las autorizaciones, así como de las que del mismo se deriven, ordenará las medidas de seguridad, determinará las infracciones y la imposición de las sanciones que resulten procedentes.
+La Procuraduría, realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente reglamento, de las condicionantes de las autorizaciones, así como de las que del mismo se deriven, ordenará las medidas de seguridad, determinará las infracciones y la imposición de las sanciones que resulten procedentes.
 
 Asimismo se podrá requerir a los responsables que corresponda, fa presentación de información y documentación relativa al cumplimiento de las disposiciones anteriormente referidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 57.
 
-Cuando exista riesgo inminente de desequilibrio ecológico, de daño o deterioro grave a los recursos naturales; casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, o causas supervenientes de impacto ambiental, la Secretaría a través de la Procuraduría, fundada y motivadamente, podrá ordenar alguna o algunas de las medidas de seguridad previstas en el artículo 180 de la Ley.
+Cuando exista riesgo inminente de desequilibrio ecológico, de daño o deterioro grave a los recursos naturales; casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, o causas supervenientes de impacto ambiental, la Procuraduría, fundada y motivadamente, podrá ordenar alguna o algunas de las medidas de seguridad previstas en el artículo 180 de la Ley.
 
 En todo caso, con la debida fundamentación y motivación, deberá indicar los plazos y condiciones a que se sujetará el cumplimiento de las medidas de seguridad, así como los requerimientos para retirar estas últimas conforme a lo que se establece en el artículo 181 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 58.
 
-En los casos en que se lleven a cabo obras o actividades que requieran someterse al procedimiento de evaluación de impacto ambiental conforme a la Ley y al presente reglamento, sin contar con la autorización correspondiente, la Secretaría por conducto de la Procuraduría, con fundamento en la Ley, la Ley que crea la Procuraduría de Protección al Ambiente del Estado de Coahuila y en las demás disposiciones aplicables, ordenará las medidas correctivas o de urgente aplicación que procedan. Lo anterior, sin perjuicio de las sanciones administrativas y del ejercicio de las acciones civiles y penales que resulten aplicables, así como de la imposición de medidas de seguridad que en términos del artículo anterior procedan.
+En los casos en que se lleven a cabo obras o actividades que requieran someterse al procedimiento de evaluación de impacto ambiental conforme a la Ley y al presente reglamento, sin contar con la autorización correspondiente, la Procuraduría, con fundamento en la Ley, la Ley que crea la Procuraduría de Protección al Ambiente del Estado de Coahuila y en las demás disposiciones aplicables, ordenará las medidas correctivas o de urgente aplicación que procedan.
 
 Para la imposición de las medidas de seguridad y de las sanciones a que se refiere el párrafo anterior, la Procuraduría, deberá determinar el grado de afectación ambiental ocasionado o que pudiera ocasionarse por la realización de las obras o actividades de que se trate. Asimismo, sujetará al procedimiento de evaluación de impacto ambiental las etapas de las obras o actividades que aún no hayan sido iniciadas.
 
@@ -1011,17 +1067,21 @@ Cuando el responsable de una obra o actividad autorizada en materia de impacto a
 
 Lo anterior sin perjuicio del ejercicio de las acciones civiles y penales que procedan por las irregularidades detectadas por la Procuraduría en el ejercicio de sus atribuciones de inspección y vigilancia.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 61.
 
-Cuando la Procuraduría emplace al presunto infractor en los términos de los artículos 173 y 176 de la Ley y éste comparezca mediante escrito aceptando las irregularidades circunstanciadas en el acta de inspección, la Secretaría, por conducto de la Procuraduría, procederá, dentro de los treinta días hábiles siguientes, a dictar la resolución respectiva.
+Cuando la Procuraduría emplace al presunto infractor en los términos de los artículos 173 y 176 de la Ley y éste comparezca mediante escrito aceptando las irregularidades circunstanciadas en el acta de inspección, la Procuraduría, procederá, dentro de los treinta días hábiles siguientes, a dictar la resolución respectiva.
 
 ###### Artículo 62.
 
 Si como resultado de una visita de inspección se ordena la imposición de medidas de seguridad, correctivas o de urgente aplicación, el inspeccionado deberá notificar a la autoridad del cumplimiento de cada una, en un plazo máximo de cinco días hábiles contados a partir de la fecha de vencimiento del plazo concedido por la Procuraduría para su realización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 63.
 
-Cuando el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría por conducto de la Procuraduría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+Cuando el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 Asimismo, en los casos en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas en los plazos ordenados por la Procuraduría, en los supuestos a que se refiere el artículo 179 de la Ley, podrá solicitar a la autoridad la modificación o revocación de la sanción impuesta en un plazo de quince días contados a partir del vencimiento del último plazo concedido para la realización de las medidas correspondientes.
 
@@ -1092,3 +1152,11 @@ P.O. 30 DE MAYO DE 2014.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se dejan sin efectos las disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 8 DE MAYO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los procedimientos relativos a la evaluación del impacto ambiental que se hubiesen tramitado con anterioridad al 4 de mayo de 2015, continuarán sustanciándose de acuerdo a la legislación vigente al momento de su inicio.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo establecido en este decreto.
