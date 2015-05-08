@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2014-01-13"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -603,6 +603,10 @@ II. Resulte incosteable seguirlos utilizando en el servicio público;
 
 III. Se hayan adquirido con la finalidad de beneficiar a personas o comunidades de escasos recursos.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+También corresponde a los Comités, llevar a cabo la racionalización de las enajenaciones de los bienes inmuebles propiedad de los Poderes del Estado, Ayuntamientos y entidades públicas, de conformidad con el dispuesto en ésta y las demás leyes aplicables.
+
 ###### Artículo 60.
 
 En los casos que de acuerdo al dictamen respectivo, no sea recomendable la rehabilitación de un bien mueble y sea más costeable su enajenación en el estado en que se encuentra, se determinará como destino su venta a través de subasta pública, la cual se llevará a cabo conforme al procedimiento que al efecto establece la presente Ley, a excepción de los siguientes supuestos:
@@ -625,13 +629,17 @@ Para el cumplimiento de este artículo, los Comités fijarán las bases, forma y
 
 El monto de la enajenación de los bienes muebles no podrá ser inferior a los precios mínimos que determinen los Comités, mediante avalúo practicado conforme a las disposiciones aplicables o a los precios publicados en el Diario Oficial de la Federación en la lista de precios mínimos de avalúo para venta de bienes muebles.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 63.
 
-Los productos que se generen por la enajenación de bienes muebles, se consideran ingresos extraordinarios de los Poderes del Estado, Ayuntamientos y entidades públicas.
+Los productos que se generen por la enajenación de bienes muebles e inmuebles, se consideran ingresos extraordinarios de los Poderes del Estado, Ayuntamientos y entidades públicas.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 64.
 
-Efectuada la enajenación, las Oficialías Mayores procederán a la cancelación de registros e inventarios del bien mueble de que se trate.
+Efectuada la enajenación, las Oficialías Mayores procederán a la cancelación de registros e inventarios del bien mueble o inmueble de que se trate.
 
 ###### Artículo 65.
 
@@ -934,3 +942,9 @@ P.O. 13 DE ENERO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE MAYO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
