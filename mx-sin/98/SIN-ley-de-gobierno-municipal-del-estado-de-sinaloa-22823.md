@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2013-06-21"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -215,11 +215,13 @@ III. Celebrar convenios de colaboración con el Ejecutivo del Estado, con los de
 
 IV. Expedir su reglamento interior y los relativos a la administración municipal, los que deberán publicarse en el Periódico Oficial "El Estado de Sinaloa";
 
-V. Vigilar que los establecimientos de reclusión de los infractores al bando de policía y gobierno, reúnan las condiciones necesarias de seguridad, higiene, moralidad y trabajo;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-VI. Cuidar que la intervención del cuerpo de policía en los casos de infracciones cometidas por menores de edad, se limite a ponerlos inmediatamente a disposición del Consejo Tutelar de Menores, a través de su Delegado Municipal;
+V. Vigilar el cabal cumplimiento de las disposiciones aplicables en materia de transparencia y acceso a la información pública;
 
-VII. Cuidar de la superación técnica, moral y material de los agentes de seguridad pública y de tránsito Municipal;
+VI. (DEROGADA, P.O. 8 DE MAYO DE 2015)
+
+VII. (DEROGADA, P.O. 8 DE MAYO DE 2015)
 
 VIII. Conceder a los particulares los permisos necesarios para el aprovechamiento de la vía pública, los cuales tendrán siempre el carácter de revocables y temporales;
 
@@ -235,7 +237,75 @@ XIII. Fijar, modificar o sustituir los nombres de los centros poblados del Munic
 
 XIV. Resolver en revisión, los actos y acuerdos del Presidente Municipal que sean recurribles; y
 
-XV. Ejercer en materia de seguridad pública, policía preventiva y tránsito las funciones que le competan de acuerdo con las disposiciones legales respectivas.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XV. Establecer en su reglamentación interna medidas tendentes a desincentivar la exhibición, comercialización o difusión en lugares públicos de material pornográfico y/o violento.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+###### Artículo 27 Bis.
+
+Son facultades y obligaciones de los ayuntamientos en materia de Seguridad Pública, las siguientes:
+
+I. Vigilar que los establecimientos de reclusión de los infractores al Bando de Policía y Gobierno reúnan las condiciones necesarias de seguridad, higiene, moralidad y trabajo;
+
+II. Vigilar que la intervención del cuerpo de policía en los casos de infracciones cometidas por menores de edad sea con pleno respeto de sus derechos humanos y se limite a ponerlos inmediatamente a disposición de la autoridad competente;
+
+III. Cuidar la superación técnica, moral y material de los agentes de seguridad pública y de tránsito municipal;
+
+IV. Ejercer en materia de seguridad pública, policía preventiva y tránsito las funciones que le competan de acuerdo con las disposiciones legales respectivas;
+
+V. Promover el otorgamiento de incentivos para reconocer el buen desempeño de los elementos policiales; y
+
+VI. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+###### Artículo 27 Ter.
+
+Son facultades y obligaciones de los ayuntamientos en materia de Derechos Humanos, las siguientes:
+
+I. Vigilar que los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado y en los Tratados Internacionales de los que el Estado Mexicano sea parte, sean respetados en el ejercicio de los actos de gobierno;
+
+II. Promover programas de protección y respeto a los derechos humanos y difundirlos por todos los medios disponibles a la ciudadanía;
+
+III. Coadyuvar con los organismos civiles en la materia en sus esfuerzos para que los derechos humanos sean respetados de manera efectiva;
+
+IV. Promover el respeto, inclusión y atención de los grupos vulnerables; y
+
+V. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+###### Artículo 27 Quáter.
+
+Son facultades y obligaciones de los ayuntamientos en materia de pueblos y comunidades indígenas, las siguientes:
+
+I. Promover el desarrollo de su autonomía, su identidad étnica, lenguas, culturas, religión, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, atendiendo a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás leyes aplicables;
+
+II. Fomentar la igualdad de oportunidades y eliminar cualquier forma de discriminación;
+
+III. Promover que la educación impartida sea de carácter bilingüe e intercultural;
+
+IV. Establecer programas que apoyen la conclusión de la educación básica, medio superior y superior;
+
+V. Promover el acceso efectivo a los servicios de salud;
+
+VI. Establecer programas de nutrición;
+
+VII. Promover el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda;
+
+VIII. Apoyar las actividades productivas y el desarrollo sustentable;
+
+IX. Asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+X. Erradicar cualquier manifestación de violencia contra las mujeres indígenas y cualquier trato de discriminación hacia ellas;
+
+XI. Velar por el respeto a sus derechos humanos;
+
+XII. Consultar a los pueblos y comunidades indígenas en la elaboración del Plan Municipal de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen; y
+
+XIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ###### Artículo 28.
 
@@ -345,7 +415,9 @@ XI. Combatir la tala de árboles en parques, jardines y predios municipales, coa
 
 XII. Dividir en secciones, sectores y manzanas los centros poblados del Municipio, dando a las calles y fincas su nomenclatura y numeración;
 
-XIII. Atender y vigilar la debida prestación de los servicios de agua potable, alcantarillado y saneamiento, de acuerdo con la ley de la materia;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XIII. Promover la elaboración de proyectos sobre sistemas de drenaje pluvial con la finalidad de mejorar su funcionamiento;
 
 XIV. Proveer al establecimiento y conservación del alumbrado público;
 
@@ -356,6 +428,22 @@ Tratándose de obras públicas municipales dichos convenios podrán celebrarlos 
 XVI. Proyectar y ejecutar las obras necesarias para la prestación de servicios públicos, y supervisar las construidas para cubrir los servicios públicos concesionados; y
 
 XVII. Prevenir y combatir la contaminación ambiental, dando participación a la sociedad mediante la creación de consejos ciudadanos especializados en la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+###### Artículo 29 Bis.
+
+Son facultades y obligaciones de los Ayuntamientos en materia de Agua Potable, Alcantarillado y Tratamiento de Aguas Residuales, las siguientes:
+
+I. Atender y vigilar la debida prestación de los servicios de agua potable, alcantarillado y saneamiento, de acuerdo con la ley de la materia;
+
+II. Procurar que la población, especialmente la residente en zona rural, goce plenamente del derecho humano de acceso, disposición y saneamiento de agua para consumo personal y doméstico;
+
+III. Vigilar que el servicio se otorgue con calidad y eficiencia;
+
+IV. Diseñar políticas públicas que fortalezcan a los organismos operadores en la materia; y
+
+V. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ###### Artículo 30.
 
@@ -661,15 +749,39 @@ XII. Juventud y Deporte;
 
 XIII. De Equidad, Género y Familia;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-XIV. Rastros, Mercados y Centrales de Abasto; y
+XIV. Rastros, Mercados y Centrales de Abasto;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-XV. De Concertación Política.
+XV. De Concertación Política;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XVI. Seguridad Pública y Tránsito;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XVII. Protección Civil;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XVIII. Derechos Humanos y Grupos Vulnerables;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XIX. Participación Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XX. Comunidades y Asuntos Indígenas.
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+Para el ejercicio de sus funciones, las comisiones permanentes deberán trabajar de manera colegiada al menos una vez al mes, debiendo entregar en la primera sesión mensual de cabildo el informe de las actividades, las resoluciones y observaciones derivadas de los trabajos asignados en el mes inmediato anterior.
 
 ###### Artículo 45.
 
@@ -681,17 +793,21 @@ Las comisiones transitorias serán designadas por el Ayuntamiento en cualquier t
 
 Las Comisiones permanentes o transitorias serán colegiadas y plurales, por lo cual, no podrán estar integradas por regidores de un solo partido político y tendrán un máximo de cinco integrantes.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 47.
 
-Las comisiones someterán los dictámenes, asuntos y disposiciones de sus respectivos ramos a la consideración del Ayuntamiento o del Presidente Municipal, según corresponda, para que dicten las resoluciones pertinentes.
+Las comisiones someterán dictámenes, asuntos y disposiciones de sus respectivos ramos a consideración del Ayuntamiento o del Presidente Municipal, según corresponda, de los asuntos tratados en el mes anterior en la primera sesión del mes siguiente para que dicten las resoluciones pertinentes.
 
 ###### Artículo 48.
 
 Las comisiones no tendrán por sí solas facultades ejecutivas, salvo que en casos especiales así lo acuerde el Ayuntamiento, a solicitud expresa del Presidente Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 49.
 
-El Presidente Municipal y demás miembros del Ayuntamiento están obligados a aceptar las comisiones que les sean conferidas por el propio Ayuntamiento y a desempeñarlas con eficiencia, esmero y bajo su más estricta responsabilidad.
+El Presidente Municipal y demás miembros del Ayuntamiento están obligados a aceptar las comisiones que les sean conferidas por el propio Ayuntamiento y a desempeñarlas con eficiencia, eficacia, ética, esmero y responsabilidad.
 
 La Comisión de Concertación Política estará integrada por el Presidente Municipal y un Regidor de cada partido político, tendrá a su cargo las funciones tendientes a la realización de las acciones específicas que propicien el mejor desarrollo de las labores del Ayuntamiento, previo los acuerdos a que lleguen los integrantes de la misma Comisión, los cuales deberán ser siempre por consenso.
 
@@ -851,6 +967,8 @@ En los Ayuntamientos que no haya Secretario de la Presidencia, las atribuciones 
 
 ### CAPÍTULO XII. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL
 
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 68.
 
 Las Sindicaturas y Comisarías a que se refiere el artículo 11 de esta Ley, serán administradas por Síndicos y Comisarios, respectivamente, nombrados y removidos libremente por el Ayuntamiento mediante consulta popular que se celebrará en Asamblea General convocada para tal efecto en Sindicaturas con menos de siete mil quinientos habitantes y mediante Plebiscito en Sindicaturas con más de siete mil quinientos habitantes.
@@ -915,7 +1033,7 @@ IX. Las demás que señalen las Leyes y Reglamentos.
 
 ###### Artículo 71.
 
-Cada Municipio atenderá el servicio de Seguridad Pública y de Tránsito, en los términos de las disposiciones legales respectivas, a través de la dependencia o estructura administrativa que al efecto determine el Ayuntamiento.
+Cada Municipio atenderá el servicio de Seguridad Pública y de Tránsito, en los términos establecidos por esta Ley y demás disposiciones legales en la materia, a través de la dependencia o estructura administrativa que al efecto determine el Ayuntamiento.
 
 ###### Artículo 72.
 
@@ -1333,7 +1451,7 @@ El Secretario General de Gobierno
 
 Gonzalo M. Armienta Calderón
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE AGOSTO DE 2002.
 
@@ -1376,3 +1494,9 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "EI Estado de Sinaloa".
+
+SEGUNDO. Para el debido cumplimiento del presente Decreto, los Ayuntamientos en un plazo de sesenta días naturales posteriores a su publicación, deberán integrar las Comisiones Permanentes y realizar las adecuaciones normativas correspondientes.
