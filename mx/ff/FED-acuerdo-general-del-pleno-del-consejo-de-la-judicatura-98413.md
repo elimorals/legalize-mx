@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-98413"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-06"
-last_updated: "2015-03-20"
+last_updated: "2015-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98413&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de febrero de 2014.
 
@@ -272,6 +272,10 @@ b) El monto;
 c) El nombre del proveedor, contratista o de la persona física o moral con quienes se haya celebrado el contrato; y
 
 d) Los plazos de cumplimiento de los contratos.
+
+> <small>(ADICIONADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
+VIII Bis. Los documentos a que se refiere el artículo 296 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo;
 
 IX. Listado de convenios celebrados por el Consejo;
 
@@ -2234,3 +2238,9 @@ CUARTO. Se instruye a la Secretaría Ejecutiva de Administración a que, por con
 QUINTO. Las acciones que en materia de capacitación, a la entrada en vigor del presente Acuerdo, hayan sido aprobadas por el Consejo de la Judicatura Federal para el ejercicio fiscal 2015, serán ejecutadas por el Instituto de la Judicatura, salvo que ello implique afectaciones a los intereses del Consejo, caso en el cual, el área administrativa responsable de la ejecución continuará las acciones hasta su conclusión, previo dictamen de afectación que será comunicado al Pleno del Consejo de la Judicatura Federal y al Instituto de la Judicatura.
 
 SEXTO. Las referencias que cualquier disposición haga a un área administrativa distinta al Instituto de la Judicatura, en materia de capacitación, con excepción del Instituto Federal de Defensoría Pública, se entenderán hechas al Instituto de la Judicatura.
+
+D.O.F. 8 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
