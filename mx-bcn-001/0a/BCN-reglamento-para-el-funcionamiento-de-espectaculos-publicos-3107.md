@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "2014-05-06"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO, EL PRESENTE DECRETO ENTRA EN VIGOR A LOS QUINCE DÍAS DE SU PUBLICACIÓN EN TODO EL TERRITORIO DEL MUNICIPIO DE ENSENADA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -312,6 +314,10 @@ XXIII.- En los salones de bailes, kermesses y demás centros de esparcimiento, q
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
 XXIV.- Permitir el ingreso de niños y jóvenes menores de edad, a aquellos espectáculos donde el objetivo principal sea el daño físico de un animal hasta la muerte del mismo.
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+
+XXV.- Queda prohibido el establecimiento y operación de espectáculos circenses fijos o itinerantes, ya sea públicos o privados, en los cuales se utilicen animales vivos de cualquier especie, con fines de explotación, exposición y/o participación.
 
 ### Capítulo Segundo.
 
@@ -701,6 +707,10 @@ c).- En caso de violación a las distintas Fracciones del artículo 23o. de este
 
 24.-Por violación a la fracción XXIV, multa de 300 días.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+
+25.- Por violación a la Fracción XXV, multa por la cantidad de 300 días de salario mínimo, así como la clausura inmediata del mismo sin perjuicio de que proceda a la consignación del o los responsables ante el Ministerio Público federal o local por delitos en la materia.
+
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
 d).- Por violación a lo dispuesto en el Artículo 40o. de este Reglamento, se aplicará multa de 300 días.
@@ -948,3 +958,7 @@ P.O. 6 DE MAYO DE 2014.
 PRIMERO.- Inclúyase en la próxima ley de ingresos para el Municipio de Ensenada Baja California.
 
 SEGUNDO.- Una vez siendo aprobada la presente reforma, publíquese en el Diario Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 8 DE MAYO DE 2015.
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia a los quince días de su publicación en todo el territorio del Municipio de Ensenada.
