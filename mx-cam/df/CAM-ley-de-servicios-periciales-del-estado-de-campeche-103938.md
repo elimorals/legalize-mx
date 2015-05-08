@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-servicios-periciales-del-estado-de-campeche-103938"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SERVICIOS PERICIALES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 28 de noviembre de 2014.
 
@@ -273,11 +273,19 @@ Los Peritos del Instituto Pericial se constituyen como auxiliares de la procurac
 
 Los Peritos que pertenezcan al Instituto Pericial tendrán la autonomía técnica e independencia de criterio que les corresponde en el estudio de los asuntos que se sometan a su dictamen o informe, de conformidad con las disposiciones legales aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 14.
 
-Sin perjuicio de los requisitos establecidos en la Ley Orgánica, para ser Perito se requiere tener residencia efectiva en el Estado de Campeche por lo menos de seis meses inmediatos anteriores, de manera ininterrumpida, a su ingreso al Instituto Pericial.
+Tratándose de Peritos traductores de idiomas y lenguas indígenas deberán contar éstos con certificado expedido por una institución oficial, que haga constar que el interesado cuenta con capacidad como intérprete, y no sólo tener conocimiento del idioma o lengua indígena de que se trate.
 
-Tratándose de Peritos traductores de idiomas y lenguas indígenas, deberán contar éstos con certificado expedido por una institución oficial, que haga constar que el interesado cuenta con capacidad como intérprete, y no sólo tener conocimiento del idioma de que se trate, salvo acuerdo que emita al respecto el Director del Instituto Pericial cuando a su juicio no existan personas suficientes que reúnan estos requisitos.
+Cuando no se cuente con la asistencia inmediata de peritos intérpretes certificados el Director del Instituto Pericial podrá designar, fundada y motivadamente, intérpretes prácticos para que asistan a la persona indígena. Para tal efecto, se deberá observar lo siguiente:
+
+I. Que sea la última medida adoptada por el Director del Instituto Pericial, después de que agote todas las vías posibles para contar con el apoyo de un intérprete certificado; y
+
+II. Que existan los elementos para determinar que no solamente conoce la lengua parlante de la persona indígena, sino que también tiene las condiciones para conocer su cosmovisión derivada de la cultura, ya sea porque pertenece a la misma comunidad o porque tiene un referente de relación que le permite conocerlo.
+
+Para efectos de la fracción II del presente artículo, dichos elementos pueden corroborarse con el uso de documentos de identificación, la constancia de residencia o el reconocimiento de los órganos de representación de la comunidad indígena sobre su pertenencia al grupo o de alguno con similares características culturales.
 
 ###### Artículo 15.
 
@@ -339,9 +347,11 @@ IX. En la formación de los Peritos deberán observarse las disposiciones consti
 
 X. Se promoverá la celebración de convenios de colaboración con la federación, los estados, los municipios, el Distrito Federal y otras autoridades que concurran en el Sistema Nacional de Seguridad Pública, tendientes a la profesionalización de los Peritos.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 18.
 
-Los Peritos del Servicio Profesional de Carrera Pericial, al ingresar al Instituto Pericial, serán nombrados por un tiempo de hasta dos años, al término del cual serán sometidos a una nueva evaluación y, en caso de resultar satisfactoria, se les expedirá el nombramiento definitivo.
+Los Peritos del Servicio Profesional de Carrera Pericial, al ingresar al Instituto Pericial, serán nombrados por un tiempo de tres años, al término del cual serán sometidos a una nueva evaluación y, en caso de resultar satisfactoria, se les expedirá un nuevo nombramiento, según lo permita el presupuesto.
 
 ###### Artículo 19.
 
@@ -610,3 +620,11 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintisiete días del mes de noviembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
