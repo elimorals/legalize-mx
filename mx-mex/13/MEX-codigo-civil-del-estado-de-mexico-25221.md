@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-05-07"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -311,9 +311,15 @@ Concepto del nombre de las personas
 
 Composición del nombre de las personas físicas
 
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 2.
 
-14.- El nombre de las personas físicas se forma con el sustantivo propio y los apellidos paternos del padre y la madre. Cuando sólo lo reconozca uno de ellos, se formará con los apellidos de éste, con las salvedades que establece el Libro Tercero de este Código.
+14.- El nombre de las personas físicas se forma con el sustantivo propio y el primer apellido del padre y el primer apellido de la madre, en el orden que, de común acuerdo determinen. En el caso de que el padre y la madre no lleguen a un acuerdo respecto del orden que deben seguir los apellidos del hijo o hija, el apellido paterno aparecerá en primer lugar y el apellido materno en segundo lugar.
+
+El orden de los apellidos acordado entre padre y madre se considerará preferentemente para los demás hijos e hijas del mismo vínculo.
+
+Cuando solo lo reconozca uno de ellos se formará con los apellidos de este, en el mismo orden, con las salvedades que establece el Libro Tercero de este Código.
 
 Casos de uso de seudónimo
 
@@ -18046,3 +18052,9 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su public
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
 CUARTO. Los actos y procedimientos que se encuentren en trámite al entrar en vigor el presente Código se concluirán conforme a las disposiciones del ordenamiento que se reforma.
+
+G.G. 8 DE MAYO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
