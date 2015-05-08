@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-04-24"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3221,9 +3221,11 @@ III. Las Administraciones Regionales y las Administraciones de Edificios, tratá
 
 Tanto en materia de adquisiciones, arrendamientos y servicios, como en materia de obra pública y los servicios relacionados con la misma, las Administraciones Regionales y Administraciones de Edificios podrán coordinarse con el área de adquisiciones y el área de obras, a fin de que se les otorguen en sus respectivas competencias, el apoyo normativo y técnico necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 296.
 
-Las contrataciones materia de este Capítulo, que por su monto deban sujetarse a una licitación pública, podrán instaurarse por un procedimiento distinto a éste, de conformidad con lo dispuesto en el artículo 134 de la Constitución, en los siguientes supuestos:
+Las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con ella, que por su monto deban sujetarse a una licitación pública, podrán instaurarse por un procedimiento distinto a éste, de conformidad con lo dispuesto en el artículo 134 de la Constitución, en los siguientes supuestos:
 
 I. Adquisición de mobiliario y equipo de oficina que se obtiene con proveedores idóneos, para lograr la homogeneidad, dichos proveedores se calificarán por el Comité en la forma y plazo que éste determine, a partir de una revisión comparativa de precios, calidad, oportunidad y relación comercial;
 
@@ -3237,7 +3239,9 @@ V. Tratándose de bienes, servicios o trabajos que por sus características espe
 
 VI. Servicios de pensión o estacionamiento de automóviles, ya que en la contratación de éstos, los aspectos fundamentales a considerar son las condiciones del lugar y su proximidad a los inmuebles donde se encuentren instalaciones del Consejo que no cuenten con la suficiente capacidad para esos fines;
 
-VII. Servicios que por razones de seguridad o confidencialidad para el Consejo, se requiera contratar con alguna persona, intitución (sic) pública o empresa privada;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
+VII. Las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con ella, cuando por razones de seguridad o confidencialidad para el Consejo, se requiera contratar con alguna persona o institución pública;
 
 VIII. Asuntos urgentes derivados de caso fortuito o fuerza mayor, siempre que no sea posible llevar a cabo los procedimientos de licitación pública o los que correspondan, de conformidad con el monto de la operación, en el tiempo requerido para atender la eventualidad independientemente del costo estimado. Dicha contratación será aprobada en sesión extraordinaria y deberá limitarse a lo estrictamente necesario para afrontar la eventualidad.
 
@@ -3271,7 +3275,45 @@ Las contrataciones a que se refiere este artículo, preferentemente se realizar�
 
 Cuando de la investigación de mercado se determine la conveniencia de continuar con los prestadores de servicios y siempre que se mantengan los mismos precios o que el incremento pretendido guarde relación con el Índice Nacional de Precios al Consumidor, se les podrá recontratar hasta por dos ocasiones consecutivas sin procedimiento de adjudicación.
 
-Para los efectos de este artículo, deberá obtenerse previamente la autorización del Comité, para lo cual el área que corresponda deberá justificar la necesidad de celebrar la contratación mediante el procedimiento alterno de que se trate.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
+Para los efectos de este artículo, deberá obtenerse previamente la autorización del Comité, para lo cual el área que corresponda deberá justificar la necesidad de celebrar la contratación mediante el procedimiento alterno de que se trate. En este caso, antes de someter el asunto a la consideración del Comité se deberá contar con el certificado de necesidad a que se refiere el siguiente artículo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
+###### Artículo 296 Bis.
+
+El área operativa que corresponda presentará a la Secretaría Ejecutiva de Administración o a la Unidad de Evaluación de Proyectos, la propuesta de certificado de necesidad a su consideración y, en su caso, aprobación.
+
+Corresponde a la Unidad de Evaluación de Proyectos prevista en el Acuerdo General 48/2013 del Pleno del Consejo de la Judicatura Federal, que constituye el fideicomiso para el desarrollo de infraestructura que implementa la reforma constitucional en Materia Penal, la aprobación de los certificados cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio; y a la Secretaría Ejecutiva de Administración en los demás casos.
+
+Dicha propuesta estará debidamente fundada y motivada, y señalará lo siguiente:
+
+I. Los bienes, servicios, obra y servicios relacionados con ella que sean objeto de la contratación;
+
+II. En su caso, la descripción del proyecto;
+
+III. Los supuestos de hecho o legales que actualicen la hipótesis normativa respectiva del artículo 296 de este Acuerdo;
+
+IV. El monto estimado de inversión;
+
+V. El dictamen de suficiencia presupuestal, emitido por la Dirección General de Programación y Presupuesto;
+
+VI. En su caso, el cronograma de entrega;
+
+VII. La evaluación de los antecedentes, capacidades técnica, financiera y administrativa de la persona o institución propuesta para adjudicar; y
+
+VIII. La vigencia del certificado de necesidad.
+
+Durante el análisis correspondiente la Contraloría y la Dirección General de Asuntos Jurídicos deberán asesorar, en su ámbito de competencia, a la Unidad de Evaluación de Proyectos, a solicitud de ésta.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
+###### Artículo 296 Ter.
+
+Para efectos de transparencia todos los documentos generados en los procedimientos de contratación, incluyendo los contratos con sus anexos, derivados de la aplicación de los artículos 296 y 296 Bis, deberán publicarse íntegramente en una sección especial del portal de internet e intranet del Consejo con excepción del proyecto en el supuesto de la fracción VII del artículo 296, para lo cual el área operativa que corresponda hará las gestiones respectivas.
+
+Adicionalmente, en todos los casos dicha área deberá presentar un informe mensual a la Contraloría, por conducto de la Secretaría Ejecutiva de Administración.
 
 ###### Artículo 297.
 
@@ -4019,7 +4061,15 @@ En los procedimientos que realicen las diversas áreas centrales o desconcentrad
 
 Para la adjudicación directa que se realice tratándose de alguno de los casos de excepción a los que se refiere el artículo 296 de este Acuerdo, se deberá realizar el procedimiento siguiente:
 
-I. El área de adquisiciones o de obras, según corresponda, con base en la evaluación de las áreas técnicas presentará al Comité la propuesta para iniciar el procedimiento de adjudicación, debidamente fundada y motivada, en la que indique las razones por las que resulta conveniente realizar la contratación mediante el procedimiento de adjudicación directa, señalando su monto y plazo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+
+I. El área de adquisiciones o de obras, según corresponda, con base en la evaluación de las áreas técnicas presentará al Comité la propuesta para iniciar el procedimiento de adjudicación, debidamente fundada y motivada, en la que indique las razones por las que resulta conveniente realizar la contratación mediante el procedimiento de adjudicación directa, señalando su monto y plazo. Además, se deberá presentar al Comité el certificado de necesidad correspondiente.
+
+En todo caso la contratación deberá recaer preferentemente en aquellos contratistas y proveedores que:
+
+a) Con anterioridad cumplieron en tiempo y forma con la ejecución de los contratos celebrados con el Consejo, y que no hayan sido sancionados; o
+
+b) Por su posición estratégica, ofrezcan las garantías necesarias para la ejecución del contrato, entre otros, calidad, financiamiento, recursos disponibles y oportunidad para ello;
 
 II. El Comité, con los elementos presentados, resolverá lo procedente; y
 
@@ -10534,3 +10584,9 @@ D.O.F. 24 DE ABRIL DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 8 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
