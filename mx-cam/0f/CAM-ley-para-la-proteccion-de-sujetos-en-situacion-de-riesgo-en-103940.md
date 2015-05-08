@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-de-sujetos-en-situacion-de-riesgo-en-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA PROTECCIÓN DE SUJETOS EN SITUACIÓN DE RIESGO EN EL PROCEDIMIENTO PENAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 28 de noviembre de 2014.
 
@@ -41,9 +41,11 @@ LEY PARA LA PROTECCIÓN DE SUJETOS EN SITUACIÓN DE RIESGO EN EL PROCEDIMIENTO P
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en todo el Estado y tiene por objeto proteger los derechos e intereses de los sujetos que intervengan, de manera directa o indirecta, en el proceso penal, o bien, los que tengan algún tipo de relación afectiva o vínculo de parentesco con la persona que interviene en éste; así como regular las medidas de protección, en cuanto a su ámbito de aplicación, modalidades y procedimiento.
+La presente Ley es de orden público, interés social y de observancia general en todo el Estado y tiene por objeto proteger los derechos e intereses de los sujetos que intervengan, de manera directa o indirecta, en el procedimiento penal, o bien, los que tengan algún tipo de relación afectiva o vínculo de parentesco con la persona que interviene en éste; así como regular las medidas de protección, en cuanto a su ámbito de aplicación, modalidades y procedimiento.
 
 ###### Artículo 2.
 
@@ -53,9 +55,13 @@ I. De protección: La garantía de la tutela efectiva de la vida, la integridad 
 
 II. De proporcionalidad: Las medidas de protección responderán al grado de la situación de riesgo en que se encuentra el sujeto;
 
-III. De confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección del sujeto en situación de riesgo deberá ser reservada para los fines de la investigación o del proceso respectivo;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
-IV. De gratuidad: Las medidas de protección no generarán erogación alguna al sujeto en situación de riesgo;
+III. De confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección del sujeto en situación de riesgo deberá ser reservada para los fines del procedimiento penal respectivo;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+IV. De gratuidad: Las medidas de protección no generan erogación alguna al sujeto en situación de riesgo;
 
 V. De celeridad: Las actuaciones tendientes a la protección de los sujetos en situación de riesgo se ejecutarán sin dilación alguna; y
 
@@ -65,13 +71,17 @@ VI. De temporalidad: Las medidas de protección subsistirán mientras exista la 
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Sujetos en situación de riesgo: Las víctimas directas o indirectas, denunciantes, testigos, jueces, agentes del ministerio público, defensores, imputados, acusados y demás personas que se encuentren en situación de riesgo como consecuencia de su intervención, directa o indirecta, en el proceso penal, o bien, por su relación afectiva o vínculo de parentesco con la persona que interviene en éste;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+I. Sujetos en situación de riesgo: Las víctimas directas o indirectas, denunciantes, testigos, jueces, agentes del ministerio público, defensores, imputados, acusados y demás personas que se encuentren en situación de riesgo como consecuencia de su intervención, directa o indirecta, en el procedimiento penal, o bien, por su relación afectiva o vínculo de parentesco con la persona que interviene en éste;
 
 II. Situación de riesgo: Existencia razonable de una amenaza, intimidación o riesgo que ponga en peligro la vida, la integridad corporal, la libertad, la propiedad o la seguridad jurídica de la persona y la probabilidad de que el peligro ocurra, así como el impacto que éste pueda producir por su intervención en un procedimiento penal;
 
 III. Programas de protección: Conjunto de políticas, lineamientos y disposiciones que, para el cumplimiento del objeto de la presente Ley, establezca la Fiscalía General del Estado, a través de la Vice fiscalía General de Derechos Humanos;
 
-IV. Medidas de protección: Las acciones o los mecanismos que, durante el proceso penal, deban solicitar el ministerio público a la autoridad judicial con la finalidad de salvaguardar los bienes jurídicos tutelados del sujeto en situación de riesgo;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+IV. Medidas de protección: Las acciones o los mecanismos que, durante el procedimiento penal, se apliquen con la finalidad de salvaguardar los bienes jurídicos tutelados del sujeto en situación de riesgo;
 
 V. Estudio valorativo: Valoración técnica con el fin de determinar la situación de riesgo e identificar la medida de protección adecuada para aplicarle al sujeto según el riesgo en el que se encuentre;
 
@@ -97,15 +107,21 @@ Las medidas de protección podrán aplicarse una vez presentada denuncia o quere
 
 La Fiscalía General es el órgano facultado para garantizar la protección de los sujetos en situación de riesgo y otorgar, a quienes considere pertinente, las medidas de protección necesarias para garantizar su vida, su integridad corporal, su libertad, su propiedad, su seguridad jurídica o cualquier otro bien que les sea propio.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 6.
 
-Únicamente el ministerio público, con autorización judicial, aplicará las medidas de protección a través de la Oficina de Protección a Sujetos en Situación de Riesgo, dependiente de la Vice fiscalía.
+El ministerio público aplicará las medias de protección a las víctimas u ofendidos, de conformidad con el Código Nacional de Procedimientos Penales.
 
-Las medidas de protección podrán ser administrativas, judiciales o de cualquier otro carácter y tenderán a garantizar los derechos de los sujetos en situación de riesgo.
+En los casos de los demás sujetos en situación de riesgo, el ministerio público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente, la aplicación de las medidas de protección, de conformidad con lo establecido en la presente Ley.
+
+El ministerio público aplicará las medidas de protección a través de la Oficina de Protección a Sujetos en Situación de Riesgo, dependiente de la Vice fiscalía.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 7.
 
-El ministerio público, desde su primera intervención, informará a los intervinientes en el proceso penal sobre la posibilidad de aplicar medidas para protegerlos y la importancia de que den aviso sobre cualquier hecho que pueda constituir una amenaza, una intimidación o un riesgo que ponga en peligro sus derechos o la adecuada investigación del delito.
+El ministerio público, desde su primera intervención, informará a los intervinientes en el procedimiento penal sobre la posibilidad de aplicar medidas para protegerlos y la importancia de que den aviso sobre cualquier hecho que pueda constituir una amenaza, una intimidación o un riesgo que ponga en peligro sus derechos o la adecuada investigación del delito.
 
 ###### Artículo 8.
 
@@ -133,7 +149,9 @@ IV. Proporcionar las medidas de protección adecuadas a los mismos sujetos, en c
 
 V. Requerir la colaboración de las instancias públicas y privadas que sean necesarias para el mejor desarrollo de sus atribuciones;
 
-VI. Informar al ministerio público sobre la necesidad de solicitar a la autoridad judicial la aplicación o modificación de alguna medida de protección;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+VI. Informar al ministerio público sobre la necesidad de la aplicación o modificación de alguna medida de protección;
 
 VII. Asesorar, en materia de protección, a las instancias que tengan participación en la ejecución de las medidas;
 
@@ -153,13 +171,15 @@ En relación a la fracción VIII del presente artículo, el personal que reciba 
 
 Se deberá llevar un registro idóneo de todas las llamadas recibidas y de todas las acciones adoptadas para atender la llamada.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 11.
 
 La autoridad judicial competente tendrá a su cargo:
 
-I. Dictar, a solicitud del ministerio público, las medidas de protección que se estimen necesarias; y
+I. La ratificación, modificación o cancelación, en su caso, de las medidas de protección aplicadas por el ministerio público, de conformidad con lo dispuesto por el Código Nacional de Procedimientos Penales; y
 
-II. Vigilar, en los términos de la presente Ley, el cumplimiento del ministerio público en el otorgamiento de las medidas de protección a su cargo y que no se violente el ejercicio del derecho de defensa u otros derechos humanos.
+II. Vigilar la debida aplicación de las medidas de protección previstas en esta Ley, con apego al ejercicio del derecho de defensa u otros derechos humanos, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la presente Ley y demás disposiciones legales aplicables.
 
 ## TÍTULO TERCERO. MEDIDAS DE PROTECCIÓN
 
@@ -181,17 +201,23 @@ II. La viabilidad de la aplicación de la medida de protección;
 
 III. La urgencia y naturaleza del caso; y
 
-IV. La trascendencia de la intervención en el proceso penal del sujeto a proteger.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+
+IV. La trascendencia de la intervención en el procedimiento penal del sujeto a proteger.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 14.
 
-Además de las medidas establecidas en el Código Nacional de Procedimientos Penales, para el cumplimiento de los objetivos de la presente Ley y para garantizar los fines de la investigación o del proceso penal, el ministerio público, en coordinación con la Oficina, podrá disponer de la aplicación de las medidas de protección siguientes:
+Además de las medidas establecidas en el Código Nacional de Procedimientos Penales, para el cumplimiento de los objetivos de la presente Ley y para garantizar los fines del procedimiento penal, el ministerio público, en coordinación con la Oficina, podrá disponer de la aplicación de las medidas de protección siguientes:
 
 I. Para proveer la seguridad necesaria en la protección de la integridad corporal de los sujetos en situación de riesgo se podrá disponer:
 
 a) De la custodia personal o domiciliar, mediante la vigilancia directa o a través de otras medidas de protección;
 
-b) Del desalojo del imputado o sentenciado del domicilio de la persona protegida, cuando se trate de delitos sexuales o de violencia intrafamiliar;
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
+b) Del desalojo del imputado o sentenciado del domicilio de la persona protegida, cuando se trate de delitos que atenten contra el normal desarrollo psicosexual o contra la familia;
 
 c) Del alojamiento temporal en lugares reservados o centros de protección;
 
@@ -229,6 +255,8 @@ c) Las que específicamente se refieran en la legislación en materia de ejecuci
 
 ### CAPÍTULO II. DE LOS DERECHOS Y DEBERES DEL SUJETO PROTEGIDO
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 15.
 
 Además de los establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Local, en el Código Nacional de Procedimientos Penales y en la Ley que Establece el Sistema de Justicia para las Víctimas del Estado de Campeche, toda persona bajo protección tendrá los siguientes derechos:
@@ -237,21 +265,21 @@ I. A recibir, en forma gratuita, asistencia psicológica, psiquiátrica, jurídi
 
 II. A que se le gestione una ocupación laboral estable o una contraprestación económica razonable, cuando la medida de protección otorgada implique la separación de su actividad laboral anterior;
 
-III. A tener un seguro por riesgo durante el proceso, en caso de lesión o muerte, a cargo de un programa de protección de sujetos en situación de riesgo;
+III. A tener un seguro por riesgo durante el procedimiento penal, en caso de lesión o muerte, a cargo de un programa de protección de sujetos en situación de riesgo;
 
-IV. A tener a su disposición, en el lugar en donde se ventile el proceso penal, un área que esté separada del imputado;
+IV. A tener a su disposición, en el lugar en donde se ventile el procedimiento penal, un área que esté separada del imputado;
 
 V. A que se le realicen los trámites para lograr su salida del país y la residencia en el extranjero, cuando resulte necesario para proteger su vida o su integridad corporal, como sujeto en situación de riesgo;
 
-VI. A que no se capten o transmitan imágenes de su persona ni de los sujetos con los que tenga vínculo de parentesco o algún tipo de relación afectiva y que permitan su identificación como sujeto en situación de riesgo por lo cual se le protege; y
+VI. A que no se capten o trasmitan imágenes de su persona ni de los sujetos con los que tenga vínculo de parentesco o algún tipo de relación afectiva que permita su identificación como sujetos en situación de riesgo por lo cual se le protege; y
 
 VII. A ser escuchada antes de la aplicación de la modificación o de la revocación de la medida de protección que se le haya otorgado.
 
-En caso de la fracción VI del presente artículo, el ministerio público y la autoridad judicial, dentro del ámbito de sus competencias, tomarán las medidas que consideren pertinentes a fin de evitar que se capten imágenes por cualquier mecanismo, o bien, para prevenir que imágenes tomadas con anterioridad se utilicen para identificar a los sujetos que se encuentren bajo el régimen de protección previsto en esta Ley.
+En caso de la fracción VI del presente artículo, el ministerio público o la autoridad judicial, según sea el caso, dentro del ámbito de sus competencias tomarán las medidas que consideren pertinentes a fin de evitar que se capten imágenes por cualquier mecanismo, o bien, para prevenir que imágenes tomadas con anterioridad se utilicen para identificar a los sujetos que se encuentren bajo el régimen de protección previsto en esta Ley.
 
-En tales casos, la autoridad judicial competente, de oficio o a solicitud del ministerio público o del interesado, ordenará la retención y retiro del material fotográfico, cinematográfico, video gráfico o de cualquier otro tipo, a quienes contravinieren está prohibición. Cuando alguna persona sea sorprendida tomando la imagen de cualquiera de los sujetos sometidos a la medida de protección, el ministerio público y las policías quedan facultados para proceder de manera inmediata a la citada retención, lo cual notificarán inmediatamente a la autoridad judicial competente.
+En tales casos, el ministerio público o la autoridad judicial, según sea el caso, de oficio o (sic) solicitud del interesado, ordenará la retención y retiro del material fotográfico, cinematográfico, video gráfico (sic) o de cualquier otro tipo, a quienes contravinieren esta prohibición. Cuando alguna persona sea sorprendida tomando la imagen de cualquiera de los sujetos sometidos a la medida de protección, el ministerio público y las policías quedan facultados para proceder de manera inmediata a la citada retención.
 
-Dicho material será devuelto a la persona a la que se le hubiere retenido, una vez comprobado que no existen elementos de riesgo que permitan identificar a las personas protegidas. En caso contrario, la autoridad judicial correspondiente ordenará la destrucción o resguardo de tales materiales.
+Dicho material será devuelto a la persona a la que se le hubiere retenido, una vez comprobado que no existen elementos de riesgo que permitan identificar a las personas protegidas. En caso contrario, el ministerio público o la autoridad judicial, según sea el caso, ordenará la destrucción o resguardo de tales materiales.
 
 ###### Artículo 16.
 
@@ -297,25 +325,35 @@ Se suspenderán o cancelarán las medidas de protección cuando el beneficiario 
 
 Las medidas de protección podrán iniciarse de oficio o a petición de parte.
 
-Las personas que se encuentren en los supuestos previstos en esta Ley solicitarán ante el ministerio público el requerimiento de protección, de manera oral o escrita, en el cual deberán detallar las razones de dicha solicitud. Una vez recibido el requerimiento de protección, para sí o para sus allegados, el ministerio público procederá a informarle sobre el estudio valorativo que se le deberá realizar para determinar la situación de riesgo y, en consecuencia, la medida de protección a otorgarle, salvo que, por las circunstancias evidentes del caso, se pueda determinar inmediatamente la situación de riesgo. El estudio valorativo durará un máximo de veinticuatro horas contadas a partir del momento en que la persona hace el requerimiento.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
-Una vez determinada la situación de riesgo, el ministerio público procederá a solicitar a la autoridad judicial competente la aplicación de medidas de protección en un término no mayor a las veinticuatro horas siguientes.
+Las personas que se encuentren en los supuestos previstos en esta Ley solicitarán ante el ministerio público el requerimiento de protección, de manera oral o escrita, en el cual deberán detallar las razones de dicha solicitud. Una vez formulado el requerimiento de protección, para sí o para sus allegados, el ministerio público procederá a informarle sobre el estudio valorativo que se le deberá realizar para determinar la situación de riesgo y, en consecuencia, la medida de protección a otorgarle, salvo que, por las circunstancias evidentes del caso, se pueda determinar inmediatamente la situación de riesgo. El estudio valorativo durará un máximo de veinticuatro horas contadas a partir del momento en que la persona hace el requerimiento.
 
-En caso de que el sujeto en situación de riesgo no esté de acuerdo con la o las medidas de protección, podrá ocurrir ante la autoridad judicial competente en los términos del presente capítulo para que éste resuelva en definitiva. La autoridad judicial fijará una audiencia, en donde se escuchará al promovente, dentro de las veinticuatro horas siguientes de presentada la inconformidad. En dicha audiencia deberá estar presente un representante del ministerio público.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
+Una vez determinada la situación de riesgo, el ministerio público procederá a la aplicación de las medidas de protección en un término no mayor a las veinticuatro horas siguientes.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
+En caso de que el sujeto en situación de riesgo no esté de acuerdo con la o las medidas de protección, podrá ocurrir ante la autoridad judicial competente en los términos del presente capítulo para que éste resuelva en definitiva. La autoridad judicial fijará una audiencia, dentro de las veinticuatro horas siguientes de presentada la inconformidad, en donde se escuchará al promovente. En dicha audiencia deberá estar presente el ministerio público.
 
 Concluida la audiencia, la autoridad jurisdiccional deberá dictar su resolución de inmediato.
 
 Todos los términos son naturales en su duración. No hay, en consecuencia, horas inhábiles en este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 19.
 
-El mismo trámite mencionado en el artículo anterior se seguirá en los casos en que el ministerio público se niegue a otorgar una medida de protección o decida solicitar su suspensión o revocación a la autoridad judicial.
+El mismo trámite mencionado en el artículo anterior se seguirá en los casos en que el ministerio público se niegue a otorgar una medida de protección o decida realizar su suspensión o revocación.
 
 El ministerio público deberá notificar previamente a los interesados las decisiones que tome en relación a las medidas de protección.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 20.
 
-La competencia para resolver sobre la negativa, la suspensión o la revocación a las que se refiere el artículo anterior corresponderá al juez de control o al tribunal de juicio oral, en su caso.
+La competencia para resolver las inconformidades respecto a la negativa, la suspensión o la revocación de las medidas de protección por parte del ministerio público, a las que se refiere el artículo anterior corresponde al juez de control o al tribunal de juicio oral, en su caso.
 
 ###### Artículo 21.
 
@@ -323,17 +361,21 @@ La inconformidad deberá promoverse por el interesado, a más tardar dentro de l
 
 La interposición de la inconformidad no suspenderá la ejecución o efectos de la medida de protección, en caso de que ésta ya haya sido dictada.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 22.
 
-La resolución judicial que resuelva la inconformidad interpuesta tendrá por efecto confirmar, modificar o dejar sin efecto la decisión o solicitud del ministerio público.
+La resolución judicial que resuelva la inconformidad interpuesta tendrá por efecto confirmar, modificar o dejar sin efecto la decisión del ministerio público.
 
 Dicha resolución judicial deberá ejecutarse de inmediato.
 
 Contra estas resoluciones no procede recurso alguno.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 23.
 
-Cuando se advierta falsedad en la información proporcionada por el sujeto en situación de riesgo podrá suspenderse cualquier apoyo y beneficio otorgado, sin perjuicio de exigirle a éste las responsabilidades correspondientes.
+Cuando se advierta falsedad en la información proporcionada por el sujeto en situación de riesgo podrá suspenderse cualquier apoyo, así como beneficio otorgado, sin perjuicio de exigirle a éste las responsabilidades correspondientes.
 
 ###### Artículo 24.
 
@@ -377,9 +419,11 @@ El titular de la Oficina también podrá dar por concluida la protección del su
 
 La anterior resolución, en todo caso, será notificada por escrito a la persona protegida.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
+
 ###### Artículo 26.
 
-La terminación del otorgamiento de las medidas de protección será decidida por el titular de la Oficina, de oficio o a petición del agente del ministerio público que solicitó la protección, cuando se entiendan superadas las circunstancias que motivaron la protección o por incumplir con las obligaciones asumidas por la persona protegida.
+La terminación del otorgamiento de las medidas de protección será decidida por el titular de la Oficina, de oficio o a petición del agente del ministerio público que aplicó la protección, cuando se entiendan superadas las circunstancias que motivaron la protección o por incumplir con las obligaciones asumidas por la persona protegida.
 
 ## TÍTULO QUINTO. SANCIONES
 
@@ -432,3 +476,11 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintisiete días del mes de noviembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
