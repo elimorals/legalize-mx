@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-municipal-del-estado-de-oaxaca-6916"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-09-01"
-last_updated: "1990-09-01"
+last_updated: "2015-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA
 
-CODIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA
+CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 1255, PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -519,7 +521,7 @@ V La Tesorería Municipal por causas especiales y a solicitud de los contribuyen
 
 ###### ARTICULO 57.
 
-Las personas domiciliadas fuera del municipio que perciban ingresos cuya fuente se localice en el territorio del municipio respectivo, o realicen actos u operaciones en este, o que surtan efectos dentro de él, están obligados a pagar los tributos establecidos en al Ley de Ingresos Municipales.
+Las personas domiciliadas fuera del municipio que perciban ingresos cuya fuente se localice en el territorio del municipio respectivo, o realicen actos u operaciones en este, o que surtan efectos dentro de él, están obligados a pagar los tributos establecidos en la Ley de Ingresos Municipales.
 
 Los sujetos residentes en el municipio respectivo que con ellos contrate o intervengan en la relación jurídica o económica correspondiente, están obligados a retener y enterar el gravamen que se causa.
 
@@ -1577,7 +1579,7 @@ Queda estrictamente prohibido a las autoridades fiscales del Municipio respectiv
 
 ###### ARTICULO PRIMERO.
 
-Se abroga la Ley General de Ingresos Municipales del Estado de Oaxaca, publicada en el Periódico Oficial de fecha 11 de mayo de 1963, así como todas las disposiciones legales que se opongan al cumplimiento de la presente Ley (sic).
+Se abroga la Ley General de Ingresos Municipales del Estado de Oaxaca, publicada en el Periódico Oficial de fecha 11 de mayo de 1963, así como todas las disposiciones legales que se opongan al cumplimiento de la presente Ley.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1644,3 +1646,15 @@ CODIGO FISCAL MUNICIPAL DEL ESTADO DE (SIC)
 ### Capítulo quinto.- Procedimiento administrativo de ejecución.
 
 ## TRANSITORIOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MAYO DE 2015.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Se abroga el Decreto No. 64, publicado en el Periódico Oficial del Estado, el 1 de septiembre de 1990; así como los decretos en los que se hayan aprobado reformas, adiciones y derogaciones subsecuentes.
+
+TERCERO: Los asuntos que se encuentren en trámite, al momento de entrar en vigor el presente Código, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de su presentación.
+
+CUARTO: Las disposiciones legales que hagan referencia al Código Fiscal Municipal del Estado de Oaxaca, se entenderá que se refieren al presente Decreto.
