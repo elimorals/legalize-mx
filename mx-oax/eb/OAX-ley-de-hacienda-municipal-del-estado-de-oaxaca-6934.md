@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2008-12-31"
+last_updated: "2015-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -43,33 +43,41 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-La Hacienda pública de los municipios del Estado de Oaxaca, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por conceptos de impuestos, derechos, contribuciones especiales, productos, aprovechamientos y participaciones en ingresos federales y estatales que anualmente establezca la Ley de Ingresos Municipales.
+###### ARTICULO 1.
 
-###### ARTICULO 2o.
+La presente Ley es de orden público, y tiene por objeto reglamentar el artículo 22 fracción III de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-Las personas a que se refiere el artículo 42 del Código Fiscal Municipal domiciliados en los municipios del Estado o fuera de ellos que tuvieren bienes en el territorio o celebren actos que surtan efectos en cada uno de los mismos; están obligados a contribuir para los gastos públicos del municipio de la manera que dispongan las leyes fiscales municipales y a cumplir con las disposiciones que establezca el Código Fiscal Municipal del Estado de Oaxaca.
+La aplicación e interpretación de esta Ley, para efectos fiscales y exclusivamente en el ámbito de competencia del Municipio respectivo, corresponde a la Autoridad Municipal que indique la Ley Orgánica Municipal, sin menoscabo de la interpretación que realicen los órganos jurisdiccionales estatales o federales.
 
-###### ARTICULO 3o.
+El Código Fiscal Municipal del Estado de Oaxaca, será supletorio de esta Ley en lo conducente y en su defecto, las contenidas en la legislación común, en lo que no se opongan a la naturaleza del derecho fiscal.
 
-Los ingresos se dividen en impuestos, derechos, contribuciones especiales, productos, aprovechamientos y participaciones, conforme a lo establecido en los artículos del 10 al 14 del Código Fiscal Municipal.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-###### ARTICULO 4o.
+###### ARTICULO 2.
 
-Ninguna contribución podrá recaudarse si no está previsto por la Ley anual de Ingresos correspondiente a cada uno de los municipios, o por una ley posterior que la establezca.
+Son ingresos los provenientes de contribuciones, productos, aprovechamientos, participaciones, aportaciones federales y cualquier otro ingreso de naturaleza federal.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-###### ARTICULO 4o.
+###### ARTICULO 3.
 
-BIS.- Es facultad de los Ayuntamientos de los Municipios del Estado proponer las tasas, cuotas y tarifas aplicables a las bases para la determinación de los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y aquellas contribuciones especiales que establezca la Legislatura del Estado en las Leyes de Ingresos Municipales respectivas.
+Las personas físicas, morales y unidades económicas están obligadas a contribuir para el gasto público de los municipios del Estado, conforme a lo dispuesto por esta ley y demás disposiciones fiscales aplicables.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
+
+###### ARTICULO 4.
+
+Es atribución de los Ayuntamientos de los Municipios del Estado proponer las tasas, cuotas y tarifas aplicables a las bases para la determinación de los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y aquellas contribuciones especiales que apruebe la Legislatura del Estado en las Leyes de Ingresos Municipales respectivas.
+
+ARTICULO 4 BIS.- (DEROGADO, P.O. 9 DE MAYO DE 2015)
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
 ### CAPITULO I. DEL IMPUESTO PREDIAL
 
-###### ARTICULO 5o.
+###### ARTICULO 5.
 
 Es objeto del impuesto predial:
 
@@ -83,7 +91,9 @@ IV La posesión de predios urbanos y rústicos en los casos siguientes:
 
 a) Cuando no exista propietario.
 
-b) Cuando el propietario no esté definido.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
+
+b) Cuando el propietario no esté definido o el derecho de propiedad sea controvertible;
 
 c) Cuando el predio estuviera substraído a la posesión del propietario, por causa ajena a su voluntad.
 
@@ -103,7 +113,7 @@ VI La propiedad o posesión de bienes inmuebles del dominio público de la Feder
 
 El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes existentes en los predios.
 
-###### ARTICULO 6o.
+###### ARTICULO 6.
 
 Son sujetos de este impuesto:
 
@@ -127,7 +137,7 @@ VII Las personas físicas y morales que por cualquier título se encuentren en p
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 7o.
+###### ARTICULO 7.
 
 La base para fijar el impuesto predial será el mayor de los siguientes valores:
 
@@ -141,37 +151,43 @@ Para los efectos de esta Ley, se entiende por valor catastral el asignado en los
 
 Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construido el edificio, así como sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, el Instituto Catastral del Estado de Oaxaca determinará el valor catastral que le corresponderá a cada uno, y este entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si este se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
 
-En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
+
+En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se inscribirá en los catastros respectivos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-###### ARTICULO 8o.
+###### ARTICULO 8.
 
 Este impuesto se pagará conforme a las tasas aplicables previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado; y, sólo para el caso de que no se publiquen estas, este impuesto se calculará y pagará a razón de una tasa del 0.5% anual sobre el valor catastral del inmueble asignado en los términos de la Ley de Catastro vigente.
 
-###### ARTICULO 9o.
+###### ARTICULO 9.
 
 La tasa inicial del impuesto que corresponda pagar a los propietarios o poseedores de predios urbanos no edificados o baldíos con servicios de agua, electricidad y drenaje, entre tanto conserven esa calidad se enajenen o establezca en ellos alguna industria o comercio, será ascendente y aumentará automáticamente el 10% cada año hasta completar diez años, al final de las cuales se interrumpe.
 
 Los efectos de este artículo no serán aplicables:
 
-a) A los predios destinados para su venta o que vendan los fraccionamientos debidamente autorizados en tanto no sean recibidos por el gobierno del Municipio.
+a) (DEROGADO, P.O. 9 DE MAYO DE 2015)
 
 b) A los predios no edificados que formen parte de una unidad comercial o industrial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 10.
 
-La cuota del impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del bimestre siguiente a la fecha en que estos se hayan modificado. En los casos mencionados en la fracción I, inciso b) de (sic) artículo 7o. entrará en vigor a partir del bimestre siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en escritura pública.
+El impuesto a pagar con base en los avalúos y modificaciones entrará en vigor a partir del bimestre siguiente a la fecha en que estos se hayan modificado. En los casos mencionados en la fracción I, inciso b) de (sic) artículo 7o. entrará en vigor a partir del bimestre siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en escritura pública.
 
 El impuesto anual mínimo sobre la propiedad raíz rústica será de 1 salario mínimo diario y para la urbana de 2 salarios mínimos diarios.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 11.
 
-La cuota de este impuesto se causará anualmente y podrá dividirse en seis partes iguales que se pagarán bimestralmente en las oficinas autorizadas por la Tesorería Municipal, durante los meses de enero, marzo, mayo, julio, septiembre y noviembre. Sin embargo, los pagos podrán hacerse por anualidad anticipada en este caso, dichos cargos se harán durante los dos primeros meses del año y tendrán derecho a una bonificación del 10% de la cuota anual que le corresponda pagar al contribuyente. El pago por anualidad anticipada del impuesto predial, no impide el cobro de diferencias que deba hacerse por el municipio por cambio de las bases gravables.
+El pago de este impuesto será anualmente y podrá dividirse en seis partes iguales que se pagarán bimestralmente en las oficinas autorizadas por la Tesorería Municipal, durante los meses de enero, marzo, mayo, julio, septiembre y noviembre. Sin embargo, los pagos podrán hacerse por anualidad, en este caso, el Ayuntamiento podrá establecer estímulos fiscales para incentivar el pronto pago, sin detrimento de la hacienda pública municipal.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+El pago por anualidad anticipada del impuesto predial, no impide el cobro de diferencias que deba hacerse por el municipio por cambio de las bases gravables.
 
-Tratándose de Jubilados, Pensionados y Pensionistas tendrán derecho a una bonificación adicional que será determinada por los Ayuntamientos.
+Cuando las autoridades fiscales municipales competentes, en ejercicio de facultades de verificación física, adviertan que los contribuyentes omitieron pagar el impuesto predial a cargo, o que los datos que manifestaron ante las autoridades fiscales competentes para el cobro del mismo, sean inexactos, imprecisos o falsos, dichas autoridades procederán a determinar el impuesto omitido en términos de lo establecido en el Código Fiscal Municipal del Estado de Oaxaca.
 
 ###### ARTICULO 12.
 
@@ -195,7 +211,9 @@ III Los ejidatarios, comuneros y los integrantes de colonias agrícolas y socied
 
 IV En todos los casos de operaciones en las que no se transmita el dominio son responsables solidarios los fraccionadores.
 
-V Los funcionarios y empleados del Gobierno del Municipio respectivo que dolosamente expidan constancia de que los contribuyentes se encuentran al corriente en los pagos del impuesto predial.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+V Los servidores públicos que dolosamente expidan constancia de que los contribuyentes se encuentran al corriente en los pagos del impuesto predial y los fedatarios públicos, cuando autoricen actos o contratos sin haber corroborado el pago del impuesto en mención.
 
 VI Las empresas o sociedades nacionales o estatales de crédito, que refaccionan o hagan liquidaciones con deducción de gravámenes.
 
@@ -225,11 +243,35 @@ Los inmuebles responden preferentemente del pago de impuesto predial, aún cuand
 
 Solo los bienes del dominio público de la Federación, del Estado y municipios están exentos del pago del impuesto predial a excepción de aquellos bienes que por cualquier titulo se encuentren en posesión de entidades paraestatales o personas físicas y morales destinados a fines administrativos o propósito distinto a los de su objeto público.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, los contribuyentes deberán solicitar al Ayuntamiento o a las autoridades fiscales estatales, en caso de que exista convenio con el Estado, para la administración y cobro del impuesto predial, la declaratoria de exención de pago de dicho impuesto, debiendo aportar las pruebas que demuestren su procedencia.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
+
+En ningún caso la declaratoria de exención que emita la autoridad fiscal podrá hacerse extensiva para el pago de los derechos por servicio de suministro de agua o cualquier servicio previsto en las leyes fiscales respectivas.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
+
+El Estado podrá realizar los trabajos técnicos de localización y cuantificación de los bienes a que se refiere el primer párrafo de este artículo, previo convenio con el Municipio.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
+
+Las autoridades fiscales competentes, podrán en todo momento verificar que el inmueble se encuentra en el supuesto de exención a que se refiere el presente artículo, de conformidad con lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
+
+En caso de que resulte improcedente la exención declarada, las autoridades fiscales competentes, procederán a determinar, liquidar y en caso a requerir de inmediato el pago del impuesto omitido, con sus accesorios respectivos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
+
+Queda prohibida la condonación del impuesto predial y sus accesorios respectivos.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 19.
 
-Los notarios, jueces y demás funcionarios autorizados por la Ley para dar fe pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del impuesto predial. Si por causa no imputable al enajenante, el Instituto Catastral del Estado no ha empadronado o catastrado el predio, el propio Instituto podrá permitir a los notarios que otorguen la mencionada autorización definitiva, sin que les sea exhibido el certificado a que se refiere este artículo.
+Los notarios, jueces y demás servidores públicos autorizados por la Ley para dar fe pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del impuesto predial.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
@@ -375,7 +417,7 @@ Son sujetos de este impuesto, las personas físicas o morales que realicen los a
 
 La base gravable para determinar el importe a pagar por concepto de este impuesto, lo será la superficie del predio atendiendo al tipo de fraccionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 36.
 
@@ -407,11 +449,11 @@ El pago de este impuesto se hará en la Tesorería Municipal dentro de los veint
 
 En caso de que se establezca un fraccionamiento sin la debida autorización del Ejecutivo del Estado, estará obligado al pago de este impuesto el fraccionador y serán responsables solidarios del mismo, las personas que hubieren contratado con este la realización de las obras, así como quien hubiere adquirido por cualquier tipo de contrato los lotes de referencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ### CAPÍTULO IV. IMPUESTO SOBRE RIFAS, SORTEOS, LOTERÍAS Y CONCURSOS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DEL OBJETO
 
@@ -423,7 +465,7 @@ Se exceptúa de lo dispuesto en el párrafo anterior, la obtención de ingresos 
 
 Asimismo, se exceptúa de lo dispuesto en el primer párrafo de este artículo, la obtención de ingresos derivados de premios por rifas, sorteos, loterías y concursos de toda clase, cuando tales eventos sean organizados por organismos públicos descentralizados de la administración pública federal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DE LOS SUJETOS
 
@@ -431,13 +473,13 @@ DE LOS SUJETOS
 
 ARTICULO 38 B.- Son sujetos de este impuesto, las personas físicas o morales que obtengan ingresos por la enajenación de billetes y demás comprobantes que permitan participar en rifas, sorteos, loterías y concursos, así como quienes obtengan ingresos derivados de premios por participar en los eventos señalados.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DE LAS EXCEPCIONES
 
 ARTICULO 38 C.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DE LA BASE
 
@@ -445,7 +487,7 @@ DE LA BASE
 
 ARTICULO 38 D.- Es base de este impuesto el monto total del ingreso obtenido por la enajenación de billetes y demás comprobantes que permitan participar en rifas, sorteos, loterías, y concursos, así como a los ingresos que se obtengan derivados de, premio por participar en los eventos señalados. Este impuesto se causará en el momento en que el premio sea pagado o entregado al ganador.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DE LA TASA
 
@@ -453,37 +495,43 @@ DE LA TASA
 
 ARTICULO 38 E.- Este impuesto se liquidará conforme a la tasa del 6% sobre la base gravable.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DEL PAGO
 
 ARTICULO 38 F.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-ARTICULO 38 G.- Los organizadores de rifas, sorteos, loterías, y concursos de toda clase, enterarán a la Tesorería Municipal correspondiente el impuesto a su cargo, a más tardar el día de la celebración del evento de que se trate. Asimismo retendrán el impuesto a cargo de las personas en los eventos señalados y lo enterarán a la tesorería municipal correspondiente dentro de 15 días siguientes a la fecha de su pago.
+ARTICULO 38 G.- Las personas físicas, morales o unidades económicas obligadas al pago de este impuesto, enterarán a la autoridad municipal correspondiente el impuesto a su cargo, a más tardar el día de la celebración del evento de que se trate.
 
-Para los efectos del párrafo anterior, los organizadores presentarán a la Tesorería Municipal correspondiente, antes del inicio de la venta, los comprobantes que permitan participar en los eventos, para su resello una vez celebrado el evento de que se trate, entregarán los comprobantes no vendidos.
+Tratándose de ingresos derivados de premios, los que lo paguen o entreguen, deberán retener el impuesto respectivo y lo enterarán a la tesorería municipal al día siguiente de haberlo pagado o entregado.
 
-La retensión de este impuesto estará a cargo de quienes efectúen el pago o la entrega del premio.
+Para efectos del párrafo anterior, deberán proporcionar, cuando lo solicite el interesado, constancia de retención de dicho impuesto.
 
-Para los efectos del párrafo anterior, los organizadores presentarán a la Tesorería Municipal correspondiente, antes del inicio de la venta, los comprobantes que permitan participar en los eventos, para su resello una vez celebrado el evento de que se trate, entregarán los comprobantes no vendidos. (sic)
+Además tendrán las siguientes obligaciones:
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+I. Deberán presentar a la autoridad municipal correspondiente, para su sello y antes del inicio de la venta, los comprobantes que permitan participar en los eventos los cuales deberán estar enumerados progresivamente y contendrán el nombre de la persona física o moral o institución que organice el evento, el importe del boleto, la identificación del o los números claves de participación, lugar y fecha de celebración del evento, así como la descripción de los premios a ganar.
+
+II. Una vez celebrado el evento de que se trate, entregarán a la autoridad municipal correspondiente los comprobantes no vendidos.
+
+La autoridad municipal estará facultada para intervenir durante el desarrollo de la rifa, lotería, sorteo o concurso atendiendo a las formalidades señaladas en el Código Fiscal Municipal del Estado de Oaxaca.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DE LOS RESPONSABLES SOLIDARIOS
 
 ARTICULO 38 H.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO V. DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 DEL OBJETO
 
@@ -995,9 +1043,7 @@ Por la aprobación de planos para construcciones, se cobrará un porcentaje sobr
 
 ###### ARTICULO 89.
 
-Para la fijación de los derechos, que se causen por la expedición de licencias para la demolición de construcciones, se cobrará por cada metro cuadrado de construcción de
-
-acuerdo con las siguientes categorías:
+Para la fijación de los derechos, que se causen por la expedición de licencias para la demolición de construcciones, se cobrará por cada metro cuadrado de construcción de acuerdo con las siguientes categorías:
 
 a) Tipo A.- Construcciones con estructura de concreto y muros de ladrillo.
 
@@ -1626,3 +1672,7 @@ UNICO.- El presente Decreto entrara en vigor el día 1 de enero del año 2003 pr
 P.O. 31 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto, entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE MAYO DE 2015.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
