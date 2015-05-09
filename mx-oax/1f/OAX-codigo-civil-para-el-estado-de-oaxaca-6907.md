@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2015-01-28"
+last_updated: "2015-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1893,19 +1893,13 @@ XV. Los hábitos de juego o de embriaguez o el uso indebido y persistente de dro
 
 XVI. El mutuo consentimiento;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XVII. Las conductas de violencia intrafamiliar:
+XVII. Las conductas de violencia familiar.
 
-a). Cometidas por uno de los cónyuges contra el otro;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
-b). Cometidas por uno de los cónyuges hacia los hijos de ambos o de alguno de ellos, y
-
-c). Las permitidas hacia alguno de los cónyuges o hacia los hijos de ambos o de alguno de ellos.
-
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
-
-XVIII. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a eliminar los actos de violencia intrafamiliar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello; y
+XVIII. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a eliminar los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello; y
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2008)</small>
 
@@ -2021,9 +2015,9 @@ V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de
 
 VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deban quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente;
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
-VII. Separar al cónyuge agresor del domicilio familiar y la prohibición de acudir a dicho domicilio, prohibir al cónyuge agresor ir a lugar determinado, tales como el lugar donde habitan, trabajan o estudian los agraviados. Siempre que la gravedad del caso así lo requiera el Juez podrá prohibir al cónyuge agresor, que se acerque a los agraviados, escuchando previamente a éstos. Así como las medidas necesarias para evitar actos de violencia intrafamiliar.
+VII. Separar al cónyuge agresor del domicilio familiar y la prohibición de acudir a dicho domicilio; prohibir al cónyuge agresor a ir a lugar determinado; tales como el lugar donde habitan, trabajan o estudian los agraviados. Siempre que la gravedad del caso así lo requiera el Juez podrá prohibir al cónyuge agresor, que se acerque a los agraviados, escuchando previamente a éstos. Así como las medidas necesarias para evitar actos de violencia familiar.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -2097,9 +2091,9 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos
 
 Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2015)</small>
 
-## TITULO SEXTO. Del parentesco, de los alimentos y de la violencia intrafamiliar
+## TÍTULO SEXTO. Del parentesco, de los alimentos y de la violencia familiar
 
 ### CAPITULO II. De los alimentos
 
@@ -2141,17 +2135,35 @@ En la línea recta, los grados se cuentan por el número de generaciones, o por 
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
 
-### CAPITULO III. De la violencia intrafamiliar
+### CAPÍTULO III. De la violencia familiar
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-Artículo 336 Bis A.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+Artículo 336 Bis A.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física, psicoemocional, sexual, económica y patrimonial, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Artículo 336 Bis B.- Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave en contra de un miembro de la familia por otro de la misma, que atente contra su integridad física, psíquica o ambas, independientemente de que pueda o no producir otro delito; siempre y cuando el agresor y el agraviado cohabiten el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+Artículo 336 Bis B.- Por violencia familiar se considera todo acto u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica o sexualmente que se ejerza en contra de cualquier miembro de la familia por otro integrante de la misma; ya sea que, se realicen dentro o fuera del domicilio familiar y que tiene por efecto causar un daño. Los tipos de violencia familiar son los siguientes:
+
+I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas.
+
+II. Violencia Psicoemocional: Todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, humillaciones, celotipia, actitudes devaluatorias, de abandono, comparaciones destructivas, que provoquen en quien las recibe, depresión, o menoscabo, detrimento, disminución, afectación o alteración autocognitiva y autovalorativa que integran su autoestima o en alguna esfera o área de su estructura psíquica.
+
+III. Violencia Sexual: Acto u omisión cuyas formas de expresión pueden ser obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+
+IV. Violencia contra los derechos sexuales y reproductivos: Acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud reproductiva de cualquier integrante de la familia y por tanto, afecte a la libertad para disfrutar de una vida sexual satisfactoria y sin riesgos para la salud, a la libertad para acceder o no a servicios de atención a la salud sexual y reproductiva, a los anticonceptivos y para ejercer o no el derecho a la paternidad o maternidad responsable;
+
+V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
+
+VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la libertad, dignidad o integridad de la familia.
+
+Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
+
+Para efectos de éste artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado, así como de parentesco civil.
 
 > <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL PRESENTE TÍTULO QUEDA INTEGRADO POR DOS CAPÍTULOS.</small>
 
@@ -2291,7 +2303,7 @@ Lo expuesto en este artículo es aplicable también a la obligación alimentaria
 
 Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o inválidos, el Estado y los Municipios tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se trataré de hermanos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2015)</small>
 
 ### CAPITULO I. De los hijos
 
@@ -2973,7 +2985,9 @@ Mientras estuviere el hijo bajo la patria potestad, no podrá dejar la casa de l
 
 A las personas que tienen al menor bajo su patria potestad incumbe la obligación de educarlo convenientemente.
 
-Cuando llegue a conocimiento de cualquier autoridad administrativa o del juez que aquellas personas que teniendo la patria potestad, la guarda o custodia del menor, no cumplen con las obligaciones que les corresponden, o ejerzan violencia intrafamiliar contra él, lo harán saber al Ministerio Público quien promoverá lo que corresponda, y el juez de inmediato, decretará las medidas de protección para aquél.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
+
+Cuando llegue a conocimiento de cualquier autoridad administrativa o del juez que aquellas personas que teniendo la patria potestad, la guarda o custodia del menor, no cumplen con las obligaciones que les corresponden, o ejerzan violencia familiar contra él, lo harán saber al Ministerio Público quien promoverá lo que corresponda, y el juez de inmediato, decretará las medidas de protección para aquél.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
@@ -15838,3 +15852,7 @@ P.O. 28 DE ENERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
