@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2015-02-17"
+last_updated: "2015-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 877 PUBLICADO EN EL P.O. DE 2 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -575,7 +573,49 @@ XLV (SIC).- Presupuestar de forma inmediata y transparente, la partida que cubra
 
 LXVI.- Crear el Instituto Municipal de la Juventud, a fin de promover el desarrollo y fortalecer los valores de los adolescentes y los jóvenes, y considerar en su caso, por lo menos, el diez por ciento de la plantilla de personal a la población joven.
 
-LXVII.- Las demás que les señalen las leyes y reglamentos municipales.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XLVII.- Autorizar la celebración de acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XLVIII.- Autorizar la celebración de convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXIX.- Aprobar criterios generales y transparentes para la cancelación de cuentas incobrables;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXX.- Mediante disposiciones de carácter general, condonar, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo o en parcialidades en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXXI.- Autorizar estímulos y subsidios fiscales e implementar los programas en que se desarrollarán los mismos;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXXII.- Revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por la Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXXIII.- Autorizar mediante acuerdo la publicación de datos relativos a contribuyentes cuando considere conveniente en beneficio de la Hacienda Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXXIV.- Establecer el procedimiento de aclaración de datos en términos de lo dispuesto por el artículo 75 del Código Fiscal Municipal del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXXV.- Señalar mediante acuerdo los requisitos de las garantías tendientes a garantizar el cumplimiento de las obligaciones fiscales;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXXVI.- Otorgar la dispensa de la garantía del interés fiscal en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+LXXVII.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -997,11 +1037,21 @@ XXVII.- Ejercer las facultades que le confiere el artículo 12 de la Ley General
 
 XXVIII.- Autorizar los documentos de compraventa de ganado y los permisos para degüello; y
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XXIX.- Nombrar al del (sic) Director del Instituto Municipal de la Juventud.
+XXIX.- Celebrar acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
 
-XXX.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 2015)</small>
+
+XXX.- Celebrar convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XXXI.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el artículo 34 del Código Fiscal Municipal del Estado de Oaxaca; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XXXII.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
 ###### ARTÍCULO 69.
 
@@ -1033,7 +1083,9 @@ VIII.- En los casos de infracciones a los reglamentos y disposiciones legales, i
 
 Los Síndicos serán representantes jurídicos del Municipio y responsables de vigilar la debida administración del erario público y patrimonio municipal, con las siguientes atribuciones:
 
-I.- Procurar, defender y promover los intereses municipales, presentar denuncias y querellas, representar jurídicamente al Municipio en los litigios en que éstos fueren parte, y en la gestión de los negocios de la hacienda municipal;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+I.- Representar jurídicamente al Municipio en los litigios en que éstos fueren parte;
 
 II.- Tendrán el carácter de mandatarios del Ayuntamiento y desempeñarán las funciones que éste les encomienden (sic) y las que designen las leyes;
 
@@ -1053,11 +1105,43 @@ IX.- Intervenir en la formulación del inventario general de los bienes muebles 
 
 X.- Regularizar ante la autoridad competente, la propiedad de los bienes inmuebles municipales, e inscribirlos en el Registro Público de la Propiedad;
 
-XI.- Admitir y resolver los recursos administrativos, de conformidad con lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XI.- Admitir, tramitar y resolver los recursos administrativos a que se refiere esta Ley, con excepción de los contenidos en disposiciones fiscales;
 
 XII.- Vigilar que los servidores públicos municipales obligados, presenten oportunamente su declaración patrimonial, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; y
 
-XIII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XIII.- Intervenir en los juicios de carácter fiscal que se desahoguen ante cualquier tribunal, cuando tenga interés la Hacienda Pública Municipal, o en aquéllos derivados de los convenios, que en materia fiscal celebre el Municipio con el Estado, la Federación o con los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XIV.- Intervenir en los juicios y procedimientos relacionados con el cumplimiento de las obligaciones derivadas de las fianzas expedidas a favor del Municipio;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XV.- Intervenir en los procedimientos relacionados con la recaudación y pago de la reparación del daño de la Hacienda Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XVI.- Ejercer las acciones y oponer excepciones que procedan para la defensa administrativa y judicial de los derechos de la Hacienda Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XVII.- Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público; en su caso, sin perjuicio del erario municipal, otorgar perdón al inculpado cuando proceda;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XVIII.- Celebrar acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XIX.- Celebrar convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos, y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XX.- Las demás que señalen las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 72.
 
@@ -1329,17 +1413,19 @@ Son atribuciones del Tesorero Municipal:
 
 I.- Administrar la hacienda pública municipal de conformidad con las disposiciones legales aplicables y coordinar la política fiscal del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
-II.- Recaudar y cobrar los impuestos, derechos, productos y aprovechamientos que correspondan al Municipio de conformidad con la Ley de Hacienda Municipal del Estado de Oaxaca y Ley de Ingresos del Municipio del ejercicio fiscal que corresponda.
+II.- Recaudar los impuestos, derechos, productos, contribuciones de mejoras y aprovechamientos que correspondan al Municipio de conformidad con las disposiciones fiscales respectivas.
 
-Expedir el recibo fiscal a favor de la Secretaría de Finanzas del Gobierno del Estado en un plazo máximo de diez días hábiles contados a partir de la recepción de las participaciones y aportaciones que le correspondan al Municipio
+Expedir el comprobante fiscal digital a favor del Gobierno del Estado de Oaxaca en un plazo máximo de cinco días hábiles contados a partir de la recepción de las participaciones, aportaciones y demás recursos federales aprobados en el Decreto de Presupuesto de Egresos de la Federación a favor del Municipio.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 II Bis.- Llevar a cabo el registro contable de los ingresos provenientes de las participaciones y aportaciones que se hayan transferido al Municipio.
 
-III.- Dar cumplimiento a los convenios de coordinación fiscal y predial, llevar al corriente el padrón fiscal municipal, los registros contables, financieros administrativos de los ingresos, egresos y presupuestos, conducir y vigilar el funcionamiento de un sistema de orientación fiscal para los causantes municipales;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+III.- Actualizar los registros contables, financieros administrativos de los ingresos, egresos y presupuestos;
 
 IV.- Elaborar el día último de cada mes los estados financieros correspondientes al mes de que se trate, para determinar el movimiento de ingresos y egresos que deberá recibir la aprobación del Ayuntamiento;
 
@@ -1375,7 +1461,53 @@ XI.- Vigilar y controlar las oficinas recaudadoras municipales;
 
 XII.- Hacer las retenciones y el entero sobre sueldos y salarios, con apego a las disposiciones vigentes, cuando corresponda; y
 
-XIII.- Las demás que fijen las leyes y reglamentos municipales.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XIII.- Notificar las resoluciones y demás actos administrativos que deriven del ejercicio de sus facultades en materia de comprobación y recaudación de ingresos municipales;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XIV.-Ampliar y mantener actualizado el registro municipal de contribuyentes;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XV.- Dar cumplimiento y ejercer las facultades derivadas de los convenios, que en materia fiscal celebre con el Gobierno del Estado, con la Federación o con los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XVI.- Ordenar y practicar la comprobación del cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Municipal a través de requerimientos, visitas de inspección, intervención y revisiones en las oficinas de la Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XVII.- Dirigir los servicios de inspección y vigilancia fiscal en el Municipio de su circunscripción territorial;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XVIII.- Proporcionar asesoría a instituciones públicas y particulares en materia de interpretación y aplicación de leyes fiscales, así como realizar una campaña permanente de orientación y difusión en materia fiscal municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XIX.- Tramitar y resolver los recursos administrativos que establece el Código Fiscal Municipal del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XX.- Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales municipales;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XXI.- Expedir documentos para la identificación del personal que lleve a cabo facultades de recaudación, comprobación, inspección y vigilancia fiscal, económica-coactiva y demás relacionadas con la hacienda pública municipal, así como de los convenios que en materia fiscal celebre con el Gobierno del Estado, con la Federación o con los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XXII. Tramitar y resolver la solicitud de aclaración de datos que presenten los contribuyentes de la hacienda pública municipal, en términos de lo dispuesto por el artículo 75 del Código Fiscal Municipal del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XXIII.- Interpretar y aplicar las disposiciones fiscales municipales; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XXIV.- Las demás que en ámbito de su competencia le confiera las demás leyes y reglamentos municipales.
 
 ###### ARTÍCULO 96.
 
@@ -2295,7 +2427,7 @@ II. Promover los procedimientos de responsabilidades que deriven del incumplimie
 
 ###### ARTÍCULO 185.
 
-Para efectos del presente Título, son facultades del Síndico Municipal las siguientes:
+Para efectos del presente Título, son facultades del Síndico Municipal, las siguientes:
 
 I. Vigilar que los titulares de las áreas administrativas provean la información y documentos relativos a la Entrega-Recepción;
 
@@ -2508,3 +2640,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO:- Para efectos del Artículo 27 Bis de la Ley de Fiscalización Superior para el Estado de Oaxaca, la Auditoría Superior del Estado, en su caso, deberá observar lo dispuesto en el mismo a partir de la revisión y fiscalización a los Municipios correspondiente al Ejercicio Fiscal 2014.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones contenidas en la Ley Orgánica Municipal del Estado de Oaxaca y de la Ley de Fiscalización Superior para el Estado de Oaxaca.
+
+P.O. 9 DE MAYO DE 2015.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
