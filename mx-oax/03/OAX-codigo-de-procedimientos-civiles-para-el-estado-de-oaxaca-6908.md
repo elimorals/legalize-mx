@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2015-01-02"
+last_updated: "2015-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -203,7 +203,7 @@ A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, e
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-I.- Cuando alguno públicamente se jacte de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso el poseedor o aquél de quien se dice que es deudor, puede ocurrir al Juez de su propio domicilio, pidiéndole que señale un plazo al jactancioso para que deduzca la acción que ha sido objeto de la jactancia. Este juicio se substanciará sumariamente. No se reputará jactancioso al que en algún acto judicial o administrativo se reserva los derechos que pueda tener contra alguna persona o sobre alguna cosa. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvieron lugar los dichos y hechos que la originen;
+I. Cuando alguno públicamente se jacte de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso el poseedor o aquél de quien se dice que es deudor, puede ocurrir al Juez de su propio domicilio, pidiéndole que señale un plazo al jactancioso para que deduzca la acción que ha sido objeto de la jactancia. Este juicio se substanciará sumariamente. No se reputará jactancioso al que en algún acto judicial o administrativo se reserva los derechos que pueda tener contra alguna persona o sobre alguna cosa. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvieron lugar los dichos y hechos que la originen;
 
 II. Cuando por haberse interpuesto tercería ante un juez por cuantía mayor de la que fija la ley para los negocios de su competencia, se hayan remitido los autos a otro juzgado y el tercero opositor no concurra a continuar la tercería;
 
@@ -1609,9 +1609,9 @@ El Juez practicará todas las diligencias que sean necesarias para proteger a lo
 
 Asimismo, dictará todas las medidas que sean necesarias para evitar que los cónyuges, se causen daños y perjuicios entre sí, o los causen a los bienes comunes.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-El Juez practicara las diligencias que a su juicio sean necesarias antes de dictar resolución. En el caso de violencia intrafamiliar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las Instituciones públicas o privadas dedicadas a atender estos asuntos.
+El juez practicará las diligencias que a su juicio sean necesarias antes de dictar resolución. En el caso de violencia familiar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender estos asuntos.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -6553,19 +6553,19 @@ Todos los problemas inherentes a la familia se consideran de orden público, por
 
 En todo caso, el Juez oirá la solicitud y tomará las medidas urgentes que sean necesarias, para garantizar los alimentos o proteger la integridad personal de quien solicite su intervención.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
-Cuando la solicitud se fundamente en la existencia de violencia intrafamiliar, o para proteger a un menor sujeto a la patria potestad o tutela que reciba malos tratos o ejemplos perniciosos, o que se vea inducido a la vagancia, al alcoholismo, al consumo de drogas, inhalantes o cualquier otro producto tóxico, o que sea obligado a cometer actos reprobados por la Ley, el Juez está obligado a tomar todas las medidas necesarias para proteger a la persona solicitante y al menor afectado desde el momento en que se hizo el pedimento, sin dilación alguna.
+Cuando la solicitud se fundamenta en la existencia de violencia familiar, o para proteger a un menor sujeto a la patria potestad o tutela que reciba malos tratos o ejemplos perniciosos, o que se vea índucido a la vagancia, el alcoholismo, al consumo de drogas, inhalantes o cualquier otro producto tóxico, o que sea obligado a cometer actos reprobados por la Ley, el Juez está obligado a tomar todas las medidas necesarias para proteger a la persona solicitante y al menor afectado desde el momento en que se hizo el pedimento sin dilación alguna.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2015)</small>
 
 ###### Artículo 963.
 
-El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de violencia intrafamiliar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -6926,3 +6926,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El Tribunal Superior de Justicia y el Consejo de la Judicatura en la esfera de sus atribuciones, expedirán la normatividad necesaria para el cumplimiento de esta reforma, dentro de un plazo de seis meses siguientes a la publicación del presente Decreto.
+
+P.O. 9 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
