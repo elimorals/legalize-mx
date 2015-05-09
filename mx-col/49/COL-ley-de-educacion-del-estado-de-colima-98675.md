@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2015-04-18"
+last_updated: "2015-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -157,7 +157,9 @@ En la prestación del servicio educativo impartido por la autoridad educativa es
 
 La educación que impartan la autoridad educativa estatal y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos y niveles, tendrá, además de los fines establecidos en el segundo párrafo del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-I. Promover el desarrollo integral de la identidad individual de los educandos, dentro del marco de una armónica convivencia social, atendiendo a sus aspectos físico, intelectual, moral, estético, cívico, económico, social, cultural y de capacitación para el trabajo calificado, para que ejerza plena y responsablemente sus capacidades humanas;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+
+I. Promover el desarrollo integral de la identidad individual de los educandos, dentro del marco de una armónica convivencia social, atendiendo a sus aspectos físico, psicológico, intelectual, emocional, moral, estético, cívico, económico, social, cultural y de capacitación para el trabajo calificado, para que ejerza plena y responsablemente sus capacidades humanas;
 
 II. Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión críticos;
 
@@ -203,15 +205,21 @@ XXI. Promover y fomentar en los educandos una cultura de protección, conservaci
 
 XXII. Tender a la comprensión de los problemas de la Entidad, procurando la integración de los diferentes grupos que forman la comunidad colimense, a través de acciones que respeten, al mismo tiempo, las características propias de cada zona o región. Asimismo, auspiciar una armónica integración con los demás grupos humanos que constituyen la esfera nacional;
 
-XXIII. Promover y fomentar la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XXIV. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
+XXIII. Promover y fomentar la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+
+XXIV. Atender las situaciones derivadas de la vida familiar, social o comunitaria del educando, cuando éstas incidan negativamente en el desempeño académico; y
+
+XXV. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
 Los fines anteriores se realizarán gradual y coordinadamente, según la edad, el desarrollo mental de los educandos, tipo y grado de educación. En las escuelas normales, formadoras de docentes y en las de posgrados para docentes, se les dedicará una mayor atención, un estudio más profundo y un mayor número de prácticas operativas a dichos fines, a efecto de preparar mejor a quienes se dedicarán al ejercicio docente.
 
 ###### ARTÍCULO 12.
 
-El criterio que orientará a la educación que la autoridad educativa estatal y los particulares con autorización o reconocimiento de validez oficial de estudios (sic) impartan, así como toda la educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas y niños; y además:
+El criterio que orientará a la educación que la autoridad educativa estatal y los particulares con autorización o reconocimiento de validez oficial de estudios impartan, así como toda la educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas y niños; y además:
 
 I. Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
@@ -230,6 +238,14 @@ Además de impartir la educación básica y media superior, la autoridad educati
 ###### ARTÍCULO 14.
 
 Las escuelas de educación básica llevarán el nombre que designe o elija la autoridad educativa estatal, de una terna de personajes ilustres, propuesta que deberá ser presentada a dicha autoridad a través del director de la institución educativa.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 14 Bis.
+
+Las escuelas de educación básica del Sistema Educativo Estatal, podrán contar con un área especializada en psicología, o por lo menos con un trabajador social, con el objetivo de cuidar, atender y orientar a los educandos a fin de permitirles el pleno desarrollo de sus habilidades intelectuales, emocionales y sociales, así como el darles a conocer sus derechos y deberes.
+
+De igual manera el área especializada en psicología ofrecerá asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los alumnos, de una manera colegiada e integral. El trabajador social buscará la solución colectiva e integral a problemas personales de los alumnos, sean éstos de ámbitos económico, familiar y social.
 
 ###### ARTÍCULO 15.
 
@@ -1552,3 +1568,13 @@ P.O. 7 DE MARZO DE 2015.
 P.O. 18 DE ABRIL DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el presente Decreto se aplicará de manera gradual, de conformidad con la suficiencia presupuestaria y la capacidad institucional del sector educación del Estado, dando prioridad al nivel educativo de secundaria, seguido por los niveles de primaria y preescolar.
