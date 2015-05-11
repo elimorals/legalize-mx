@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-840
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-28"
-last_updated: "2011-11-28"
+last_updated: "2015-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 11 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de noviembre de 2011.
 
@@ -1276,3 +1278,15 @@ DIRECTOR GENERAL DEL INSTITUTO DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES.
 Lic. Lorena Martínez Rodríguez,
 
 PRESIDENTA MUNICIPAL DE AGUASCALIENTES.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MAYO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado, el veintiocho de noviembre del año dos mil once, así como cualquier otra reforma posterior.
+
+TERCERO.- Hasta en tanto el Consejo Directivo no expida las Reglas de Operacióndel (sic) Consejo Técnico para la Beneficencia Privada, del Consejo Técnico de Adopciones, del Consejo Técnico de Tutelas, el Comité de Adquisiciones, el Comité Coordinador de Integración Social y Productiva de Personas con Discapacidad, su Comité Técnico y su Comisión de Valoración, Comité de Vigilancia y Seguimiento de la Convención de los Derechos de la Niñez del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, se seguirán aplicando las disposiciones contenidas en el Reglamento que se abroga.
+
+CUARTO.- El Consejo Directivo expedirá las Reglas de Operacióndelos (sic) Consejos, Comités y Comisiones señalados en el Artículo anterior, dentro de los 60 días siguientes a la entrada en vigencia del presente Reglamento.
