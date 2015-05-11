@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-pesca-y-acuacultura-863
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-14"
-last_updated: "2012-02-14"
+last_updated: "2015-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 11 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el martes 14 de febrero de 2012.
 
@@ -65,7 +67,7 @@ I. Oficina del Titular:
 
 II. Subsecretaría de Pesca y Acuacultura:
 
-1. Dirección de Inspección y Vigilancia; (sic)
+1. Dirección de Inspección y Vigilancia;
 
 Las unidades administrativas estarán integradas considerando el número de servidores públicos que las necesidades del servicio requieran, permita la correspondiente previsión presupuestal y señalen los respectivos Manuales de Organización y de Procedimientos
 
@@ -141,7 +143,7 @@ I. Acordar con el Secretario la ejecución de los asuntos y programas que le sea
 
 II. Coordinar y evaluar el funcionamiento de la unidad administrativa bajo su adscripción, informando al Secretario las actividades que ésta realice;
 
-III. Supervisar el cumplimiento de las políticas, normas, criterios, sistemas y procedimientos que debe (sic) de regir en la unidad administrativa de su adscripción;
+III. Supervisar el cumplimiento de las políticas, normas, criterios, sistemas y procedimientos que debe de regir en la unidad administrativa de su adscripción;
 
 IV. Ejercer las funciones que se le deleguen, realizar los actos que le correspondan por suplencia y aquellos otros que le instruya el Secretario;
 
@@ -293,7 +295,7 @@ VI. Vigilar y revisar que las visitas de verificación y actividades en que part
 
 VII. Llevar el control de la bitácora de los vehiculos asignados a la Dirección que participen en visitas y en las acciones de inspección y vigilancia;
 
-VIII. Vigilar que el personal adscrito a la Dirección que participe en las acciones de verificación y operativos de inspección y vigilancia se mantenga permanentemente actualizado y, en su caso, habilitar a los que sea necesario (sic) en caso de extrema urgencia o por razones de contingencias climatológicas o de otra índole;
+VIII. Vigilar que el personal adscrito a la Dirección que participe en las acciones de verificación y operativos de inspección y vigilancia se mantenga permanentemente actualizado y, en su caso, habilitar a los que sea necesario en caso de extrema urgencia o por razones de contingencias climatológicas o de otra índole;
 
 IX. Colaborar e informar a otras unidades administrativas de la Secretaría y de otras instancias competentes, en la investigación de hechos que puedan constituir delitos de carácter penal o ecológico y de aquellos por los que la Secretaría resulte ofendida o de los que sean imputables a los servidores públicos de la Secretaría;
 
@@ -494,3 +496,11 @@ Segundo.- Se abroga el Reglamento Interior de la Secretaría de Pesca expedido e
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la Ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, a los días (sic) once días del mes de noviembre del año de dos mil once.
 
 LIC. FERNANDO EUTIMIO ORTEGA BERNES, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- L.A. DAVID ALBERTO URIBE HAYDAR, SECRETARIO DE PESCA Y ACUACULTURA.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MAYO DE 2015.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Pesca y Acuacultura expedido el 11 de noviembre del 2011 y publicado en el Periódico Oficial del Estado con fecha 14 de febrero del año 2012, y se derogan todas las demás disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Acuerdo.
