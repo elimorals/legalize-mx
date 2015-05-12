@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-65114"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-05"
-last_updated: "2008-12-05"
+last_updated: "2015-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 5 de diciembre de 2008.
 
@@ -126,6 +126,18 @@ XXII. Sistema extensivo: Es aquel por medio del cual el número de organismos, i
 XXIII. Sistema intensivo: Es aquel por medio del cual el número o densidad de siembra es tal que se obtienen elevados volúmenes de producción o cosechas en espacios muy reducidos, requiere de la aplicación constante de sistemas de aireación, de bombeo, rebombeo y suministro de alimentación balanceada, vigilancia sanitaria permanente para evitar la mortalidad por hacinamiento, debe ser operado con mayores conocimientos, asistencia técnica, capacitación de sus operadores y con ello, mayor inversión, presenta riesgos constantes pero ofrece mayores volúmenes de producción que permiten su comercialización y recuperación de los altos costos de inversión; y
 
 XXIV. Sistema semiintensivo: Es aquel por medio del cual el número o densidad de siembra de la especie a cultivar es tal que permite medianos volúmenes de producción o cosecha comercializable; por el número de organismos por metro cúbico de agua requiere de sistema de aireación, de bombeo, rebombeo y suministro de alimentación balanceada con una inversión significativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2015)</small>
+
+XXV. Guía de tránsito: El documento expedido por la Secretaría para autorizar la movilización o internación en el territorio estatal de recursos pesqueros o acuícolas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2015)</small>
+
+XXVI. Porteador: La persona que interna o moviliza con medios propios o ajenos recursos pesqueros o acuícolas dentro del territorio estatal;
 
 ###### Artículo 5.
 
@@ -389,6 +401,18 @@ V. Promover el ordenamiento de la pesca y acuacultura e instrumentar servicios d
 
 VI. Observar, en los convenios, acuerdos o programas que realice, la normatividad federal que le sean aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2015)</small>
+
+VII. Otorgar los permisos para las actividades de pesca y acuacultura, así como las demás autorizaciones previstos en los incisos a) y b) del artículo 8 de esta ley, previo el pago de los derechos correspondientes, revalidarlos y, en su caso, revocarlos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2015)</small>
+
+VIII. Expedir las guías de tránsito para transportar los productos pesqueros o acuícolas que se obtengan de las aguas dulces continentales, previo el cumplimiento de los trámites que para el transporte de bienes perecederos establezca la COPRISCAM y, en su caso, el Comité de Sanidad e Inocuidad Acuícola y Pesquera.
+
 ###### Artículo 20.
 
 En materia de pesca deportivo-recreativa, la Secretaría de Pesca fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las dependencias y entidades Federales competentes y con los sectores interesados:
@@ -471,13 +495,63 @@ La legal procedencia de los productos pesqueros y acuícolas, se acreditará con
 
 Para la comercialización de los productos de la pesca y de la acuacultura, los comprobantes fiscales que se emitan deberán incluir el número de permiso o concesión respectiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
+
 ###### Artículo 29.
 
-El traslado por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura deberá realizarse conforme a lo dispuesto en la Ley General.
+El traslado por vía terrestre, marítima o aérea de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados sólo podrán realizarse al amparo de la guía de tránsito que para dicho efecto expida la Secretaría; para cuya expedición deberán exhibirse los documentos que acrediten la legal procedencia del o de los recursos de que se trate, además de certificado de sanidad acuícola cuando se requiere y constancia de verificación sanitaria y, en su caso, las demás autorizaciones y certificaciones que en materia pesquera y acuícola se exijan por las leyes y reglamentos federales.
+
+Se exceptúan del requisito de tramitar la guía de tránsito a los permisionarios de la pesca deportiva recreativa, quienes deberán portar para ello únicamente el permiso respectivo que ampara la legal procedencia de los mismos.
+
+Tampoco requerirán de guía de tránsito quienes trasladen los productos que hayan capturado para su consumo doméstico o el de sus dependientes económicos.
 
 ###### Artículo 30.
 
 El trámite, los requisitos y la vigencia de los documentos para acreditar la legal procedencia de los productos pesqueros y acuícolas, se establecerán en el Reglamento de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+Para obtener la guía de tránsito el interesado deberá presentar el formato de solicitud que para el efecto expida la Secretaría, con la información y documentación siguientes:
+
+I. Los datos generales del embarque, incluyendo el lugar y fecha en el que se efectúa; el nombre o razón social del propietario de los recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados, productos, subproductos, insumos y materiales de empaque y embalaje de los recursos pesqueros o acuícolas, así como el domicilio, localidad, municipio y código postal del interesado;
+
+II. El tipo de transporte que se utilizará, sus características y, en su caso, la denominación de la compañía que lo transporta y la fecha en la que ésta efectuará el traslado;
+
+III. El nombre común y científico de los recursos pesqueros o acuícolas; su fase de desarrollo, en su caso, y el tipo de conservación, empaque y cantidad en traslado;
+
+IV. El documento que acredite la legal procedencia de los recursos pesqueros o acuícolas;
+
+V. Los datos de traslados, mencionado (sic) la granja acuícola o laboratorio de producción de origen y su ubicación, así como el lugar de destino señalando su ubicación. Si el destino fuere una granja acuícola o laboratorio de producción se indicará si éstos cuentan con el permiso respectivo;
+
+VI. La constancia de verificación sanitaria expedida por la secretaría, en los casos mencionados en esta ley; y
+
+VII. Cuando se trate de introducción al Estado de organismos acuáticos y especies acuícolas en cualquier fase de su desarrollo:
+
+a) El Certificado de sanidad acuícola vigente expedido por la autoridad competente; y
+
+b) El resultado de diagnóstico vigente, elaborado por un laboratorio de diagnóstico autorizado y con el sello en original de los organismos auxiliares correspondientes de los estados de origen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+Recibida la solicitud y cumplidos los requisitos contemplados en el artículo anterior, la Secretaría expedirá en un plazo máximo de tres días hábiles la guía de tránsito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+Las guías de tránsito tendrán una vigencia de hasta treinta días hábiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+El porteador deberá exhibir la guía de tránsito cuando le sea requerida en los puntos de verificación a que se refiere esta ley.
 
 ## TÍTULO NOVENO. DE LA ACUACULTURA
 
@@ -542,6 +616,70 @@ I. Inducir el cumplimiento de las disposiciones legales y las medidas de segurid
 II. Difundir permanentemente la información y conocimientos sobre sanidad, inocuidad y calidad acuícola; y
 
 III. Realizar acciones de saneamiento acuícola.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+###### Artículo 39
+
+1.- Los establecimientos instalados en el Estado en los que se desarrollen, cultiven o procesen productos destinados a la actividad acuícola deberán identificar y comprobar el origen de los recursos acuícolas y contarán con el certificado de sanidad acuícola o el certificado de sanidad de origen respectivo, según corresponda.
+
+En la internación o salida del Estado de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados deberá contarse con la autorización que previamente expida la Secretaría y, además, la movilización deberá amparase (sic) con la guía de tránsito emitida por la misma y con la documentación sanitaria correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+###### Artículo 39
+
+2.- Para obtener la autorización a que se refiere el artículo anterior, los introductores deberán presentar la solicitud correspondiente ante la Secretaría, en los formatos que se expidan para el efecto, con la información y documentación siguientes:
+
+I. La denominación científica y común de los recursos y la cantidad o volumen a introducir;
+
+II. La copia del certificado de sanidad de origen, cuando los recursos provengan del extranjero, o bien, la copia del certificado de sanidad acuícola emitido por la autoridad competente validado con el sello del Comité de Sanidad del Estado de la República Mexicana del que provengan;
+
+III. Cuando el ingreso sea por vía aérea o marítima, el aviso dado a la Secretaría con siete días de anticipación a la introducción, en el que se hubiere indicado el lugar, fecha y hora de arribo, así como la cantidad o volumen de recursos a ingresar; el documento que acredite la legal procedencia de los productos, así como el certificado de sanidad acuícola expedido por la autoridad competente y el resultado de diagnóstico vigente, elaborado por un laboratorio de diagnóstico autorizado y con el sello en original de los organismos auxiliares correspondientes de los estados de origen; y
+
+IV. El resultado de diagnóstico de laboratorio autorizado por la Secretaría.
+
+En las internaciones de recursos pesqueros y acuícolas al Estado de Campeche, el titular de la autorización, en los puntos de entrada del Estado, deberá cumplir con los siguientes requisitos:
+
+I. Exhibir la autorización;
+
+II. Acreditar que los recursos que se pretenden introducir son los referidos en la autorización;
+
+III. Presentar los certificados de sanidad o documentos equivalentes que acrediten la sanidad de los productos a internar, así como la documentación de movilización del lugar de origen; y
+
+IV. En general, acreditar el cumplimiento de las condiciones establecidas en la autorización.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+###### Artículo 39
+
+3.- En materia sanitaria, el Estado está facultado para:
+
+I. Requerir en cualquier momento a los acuicultores o porteadores la exhibición de los certificados de sanidad acuícolas expedidos por las autoridades competentes;
+
+II. Difundir y actualizar permanentemente información sobre sanidad pesquera y acuícola;
+
+III. Promover y operar el intercambio de información con instituciones nacionales o internacionales en materia de sanidad de los recursos pesqueros y acuícolas;
+
+IV. Promover, implementar y ejecutar acciones destinadas a la realización de estudios para identificar, prevenir, controlar y erradicar enfermedades que afecten o puedan afectar a los recursos pesqueros y acuícolas;
+
+V. Promover ante otras autoridades competentes la ejecución de las medidas sanitarias o de seguridad que establezcan otros ordenamientos jurídicos;
+
+VI. Apoyarse del organismo auxiliar en el Estado reconocido ante el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria, para que aquél preste sus servicios de verificación sanitaria en las instalaciones de las unidades, granjas o establecimientos acuícolas para emitir, en su caso, las recomendaciones tendientes a disminuir o evitar las condiciones que favorezcan la presencia de agentes patógenos y su diseminación, así como informar oportunamente a la Secretaría sobre los riesgos sanitarios de los que tenga conocimiento, para que en forma coordinada con las dependencias federales competentes, se determinen las medidas conducentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+
+###### Artículo 39
+
+4.- Para garantizar la sanidad de los recursos pesqueros o acuícolas, los permisionarios para la acuacultura y para laboratorios de producción deberán tener en las instalaciones de las granjas y en los laboratorios respectivos, infraestructura de verificación sanitaria, así como el equipo y material necesarios para desinfectar los materiales de empaque, embalaje y vehículos de transporte, que cumplan los requisitos técnicos que se establezcan en el plan de manejo acuícola.
 
 ### CAPÍTULO SEGUNDO. De las medidas sanitarias
 
@@ -744,3 +882,13 @@ C. María del Carmen Pérez López, Diputada Presidenta.- C. Giacomina María Me
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veinticinco días del mes de noviembre del año dos mil ocho.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFAN.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2015.
+
+Primero.- El presente decreto entrará en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en los que se opongan al contenido del presente decreto.
+
+Tercero.- El Reglamento de la Ley de Pesca y Acuacultura Sustentables del Estado de Campeche, deberá disponer lo conducente para la expedición, revalidación y revocación de los permisos y autorizaciones que con motivo de la entrada en vigor del presente decreto deban expedirse.
