@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2014-12-18"
+last_updated: "2015-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -741,27 +741,45 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 39.
 
-Serán permanentes las Comisiones siguientes:
+Serán permanentes las comisiones siguientes:
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 I. Administración y Presupuesto;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 II. Asuntos Indígenas;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 III. Atención y Protección de Periodistas;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 IV. Ciencia y Tecnología;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 V. Comunicaciones;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 VI. Derechos Humanos y Atención a Grupos Vulnerables y Migrantes;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 VII. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 VIII. Desarrollo Económico;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 IX. Desarrollo Metropolitano;
 
@@ -769,9 +787,15 @@ IX. Desarrollo Metropolitano;
 
 X. Desarrollo Social, Humano y Regional;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XI. Desarrollo y Fortalecimiento Municipal;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XII. Editorial, Biblioteca y Archivo;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XIII. Educación y Cultura;
 
@@ -779,43 +803,85 @@ XIII. Educación y Cultura;
 
 XIV. Para la Igualdad de Género;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XV. Gestoría y Quejas;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XVI. Gobernación;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XVII. Hacienda del Estado;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XVIII. Hacienda Municipal;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XIX. Instructora;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XX. Justicia y Puntos Constitucionales;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XXI. Juventud y Deporte;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XXII. Límites Territoriales Intermunicipales;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XXIII. Medio Ambiente, Recursos Naturales y Aguas;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XXIV. Organización Política y Procesos Electorales;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XXV. Procuración de Justicia;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XXVI. Protección Civil;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XXVII. Salud y Asistencia;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XXVIII. Seguridad Pública;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XXIX. Trabajo y Previsión Social;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XXX. Transparencia y Acceso a la Información;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 XXXI. Transporte, Tránsito y Vialidad;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 XXXII. Turismo; y
 
-XXXIII. Vigilancia
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+XXXIII. Vigilancia;
+
+> <small>(ADICIONADA, G.O. 12 DE MAYO DE 2015)</small>
+
+XXXIV. Derechos de la Niñez.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -1426,5 +1492,11 @@ Tercero. Se deroga cualquier disposición que contravenga al presente Decreto.
 G.O. 18 DE DICIEMBRE DE 2014.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE MAYO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
