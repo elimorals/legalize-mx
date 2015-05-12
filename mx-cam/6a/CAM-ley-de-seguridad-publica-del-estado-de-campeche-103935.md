@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-103935"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-01"
-last_updated: "2014-12-01"
+last_updated: "2015-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -1879,9 +1879,11 @@ La disciplina demanda respeto y consideración mutua entre quien ostente un mand
 
 Las instituciones de seguridad pública exigirán de sus integrantes el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad y los derechos de las personas, prevenir la comisión de delitos y preservar las libertades, el orden y la paz públicos.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 140.
 
-Los integrantes de las instituciones de seguridad pública, observarán las obligaciones previstas en los artículos 61 y 62 de esta Ley y demás ordenamientos, con independencia de su adscripción orgánica.
+Los integrantes de las instituciones de seguridad pública, observarán las obligaciones previstas en los artículos 64 y 65 de esta Ley y demás ordenamientos, con independencia de su adscripción orgánica.
 
 ### CAPÍTULO II. DE LAS SANCIONES Y DE LAS CORRECCIONES DISCIPLINARIAS
 
@@ -1893,9 +1895,11 @@ En los casos en que pueda existir responsabilidad penal, el titular de la unidad
 
 No serán sancionados los miembros de las instituciones de seguridad pública que se nieguen a cumplir órdenes ilegales.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 142.
 
-Las comisiones de honor y justicia, en sus respectivos ámbitos de competencia, impondrán las siguientes sanciones y correcciones disciplinarias:
+La Comisión de Honor y Justicia, en su respectivo ámbito de competencia, impondrá las siguientes sanciones y correcciones disciplinarias:
 
 A. Sanciones:
 
@@ -1905,21 +1909,19 @@ II. Separación; y
 
 III. Remoción.
 
-La suspensión temporal podrá ser de carácter preventivo o correctivo, atendiendo a las causas que la motiven.
+La suspensión temporal podrá ser de carácter preventivo o correctivo atendiendo a las causas que la motiven.
 
-La suspensión temporal de carácter preventivo procederá contra el elemento que se encuentre sujeto a investigación administrativa o a la etapa de investigación del proceso penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio, a juicio de las comisiones de honor y justicia, pudiera afectar a la institución de seguridad pública o a la comunidad en general.
+La suspensión temporal de carácter preventivo procederá contra el elemento que se encuentre sujeto a investigación administrativa o en la etapa de investigación del proceso penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades, para evitar que su permanencia en el servicio, a juicio de la Comisión de Honor y Justicia, pudiera afectar a la institución de seguridad pública o a la comunidad en general.
 
-La suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente. En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión.
+La suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente. En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento con motivo de la suspensión.
 
 La suspensión temporal de carácter correctivo procederá contra el elemento que en forma reiterada o particularmente indisciplinada ha incurrido en faltas cuya naturaleza no amerita la remoción. La suspensión a que se refiere este párrafo no podrá exceder de treinta días naturales.
 
-La separación es la sanción administrativa impuesta por la respectiva comisión de honor y justicia, mediante una resolución que determina la baja definitiva del servicio y la terminación de los efectos del nombramiento, por incumplimiento de cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurra alguna de las siguientes circunstancias:
+La separación es la sanción administrativa impuesta por la Comisión de Honor y Justicia, mediante una resolución que determina la baja definitiva del servicio y la terminación de los efectos del nombramiento por incumplimiento de cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
 
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que, habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería, por causas imputables a él;
+a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que, habiendo participado en dichos procesos no hubiese obtenido por causas imputables a él, el grado inmediato superior que le correspondería; y
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables; y
-
-c) Que del expediente del integrante no se desprendan méritos suficientes a juicio de la Comisión de Honor y Justicia para conservar su permanencia.
+b) Que en el expediente del integrante no se encuentren los elementos suficientes, a juicio de la Comisión de Honor y Justicia, para su permanencia.
 
 La remoción es la sanción administrativa impuesta por la Comisión de Honor y Justicia mediante una resolución que determina la baja definitiva del servicio y la terminación de los efectos del nombramiento.
 
@@ -1927,7 +1929,7 @@ Son causas de remoción:
 
 I. Incurrir en faltas de probidad y en actos de violencia con motivo o en ejercicio de sus funciones;
 
-II. Por portar el arma de cargo, así como el equipo asignado para el cumplimiento de sus funciones, fuera del servicio;
+II. Portar el arma de cargo, así como el equipo asignado para el cumplimiento de sus funciones, fuera del servicio;
 
 III. Faltar por más de 3 días a sus servicios sin causa justificada, en un período de 30 días;
 
@@ -1935,21 +1937,21 @@ IV. Destruir intencionalmente edificios, obras, equipos, vehículos, instrumento
 
 V. Revelar asuntos confidenciales o reservados de que tuviere conocimiento con motivo de la prestación del servicio;
 
-VI. Por poner en peligro a los particulares y a sus compañeros a causa de imprudencia, descuido, negligencia o abandono del servicio;
+VI. Poner en peligro a los particulares y a sus compañeros a causa de imprudencia, descuido, negligencia o abandono del servicio;
 
 VII. Desobedecer las órdenes verbales o escritas que reciba de sus superiores;
 
-VIII. Asistir a sus servicios en el centro de trabajo con aliento o bajo el influjo de bebidas alcohólicas, narcóticos, psicotrópicos o estupefacientes o consumirlos durante el servicio o en el centro de trabajo;
+VIII. Asistir a sus servicios con aliento o bajo el influjo de bebidas alcohólicas o consumir durante aquellos bebidas alcohólicas, narcóticos, psicotrópicos o estupefacientes;
 
-IX. Incurrir en incumplimiento a los deberes previstos en los artículos 61 y 62 cuando esto tenga el carácter de grave;
+IX. Incurrir en incumplimiento de los deberes previstos en los artículos 64 y 65, cuando este tenga el carácter de grave;
 
-X. Por haber sido condenado, en sentencia firme, por la comisión de un delito doloso;
+X. Haber sido condenado por la comisión de un delito doloso;
 
-XI. Por obtener un resultado positivo en los exámenes de control de antidopaje, salvo los casos en los que se compruebe alguna prescripción médica para su consumo;
+XI. Obtener un resultado positivo en los exámenes de control de antidopaje, salvo los casos en los que se compruebe alguna prescripción médica para su consumo;
 
-XII. Por obligar a sus subalternos a entregarle dinero o cualquier dádiva sin tener derecho a éstos, a cambio de permitirles el goce de alguna prestación;
+XII. Obligar a sus subalternos a entregarle dinero o cualquier dádiva sin tener derecho a éstos, a cambio de permitirles el goce de alguna prestación;
 
-XIII. Negarse a que le sean practicados los exámenes médicos o de laboratorio para detectar el consumo de substancias prohibidas; y
+XIII. Negarse a que le sean practicados los exámenes médicos o de laboratorio para detectar el consumo de narcóticos; y
 
 XIV. Negarse a que le sean practicadas las evaluaciones que determine el Centro Estatal de Evaluación y Control de Confianza.
 
@@ -1965,29 +1967,31 @@ III. Cambio de adscripción.
 
 La amonestación es el acto por el cual el superior advierte al subalterno la omisión o falta en el cumplimiento de sus deberes, exhortándolo a corregir el mismo. La amonestación se hará constar por escrito.
 
-El arresto es la reclusión que sufre un subalterno por haber incurrido en faltas graves o por haber acumulado tres amonestaciones. En todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo y duración del mismo. El infractor cumplirá el arresto en el lugar en que se le asigne.
+El arresto es la reclusión que sufre un subalterno por haber incurrido en faltas graves o por haber acumulado tres amonestaciones. En todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo y duración del mismo. El infractor cumplirá el arresto en el lugar que se le asigne.
 
 El cambio de adscripción se decretará cuando el comportamiento del elemento afecte la disciplina y buena marcha del grupo al que esté adscrito, o bien, cuando sea necesario para mantener una buena relación e imagen con la comunidad donde se desempeña.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 143.
 
 El procedimiento para la imposición de las sanciones y correcciones disciplinarias se desarrollará de la siguiente manera:
 
-I. Iniciará por solicitud fundada y motivada del titular del área en donde se encuentre adscrito el elemento de la Institución, dirigida al Presidente de la respectiva comisión de honor y justicia, y remitirá para tal efecto el expediente del presunto infractor;
+I. Iniciará por solicitud fundada y motivada del titular del área en donde se encuentre adscrito el elemento de la Institución, dirigida al Presidente de la Comisión de Honor y Justicia acompañada del expediente del presunto infractor;
 
-II. Se hará del conocimiento del presunto infractor la instauración y naturaleza del procedimiento, se le informarán los hechos que se le imputan y se le citará por escrito, señalando lugar, día y hora para que comparezca a la audiencia que para tal efecto debe celebrarse, se le hará saber que podrá comparecer acompañado de un representante legal. Entre la fecha en que sea recibido el citatorio y la de celebración de la audiencia deberá mediar un plazo no menor de tres días ni mayor de cinco días hábiles;
+II. Se hará del conocimiento del presunto infractor la instauración y naturaleza del procedimiento, se le informarán de los hechos que se le imputan y se le citará por escrito, señalando lugar, día y hora, para que comparezca a la audiencia que para tal efecto debe celebrarse y se le hará saber que podrá comparecer acompañado de un representante legal. Entre la fecha en que sea recibido el citatorio y la de celebración de la audiencia deberá mediar un plazo no menor de tres días ni mayor de cinco días hábiles;
 
 III. En la audiencia, el interesado manifestará lo que a su derecho convenga, ofrecerá las pruebas pertinentes y señalará domicilio para oír y recibir notificaciones;
 
-IV. Recibidas las pruebas, si las hubiere, la respectiva comisión de honor y justicia llevará a cabo el desahogo de las pruebas y de los alegatos;
+IV. Recibidas las pruebas, si las hubiere, la Comisión de Honor y Justicia llevará a cabo el desahogo de las pruebas y de los alegatos;
 
-V. La comisión de honor y justicia correspondiente emitirá su resolución sobre la situación controvertida y notificará al interesado dentro de las cuarenta y ocho horas siguientes a su emisión; y
+V. La Comisión de Honor y Justicia emitirá su resolución, debidamente fundada y motivada, sobre la situación controvertida y notificará al interesado dentro de las cuarenta y ocho horas siguientes a su emisión; y
 
-VI. De todo lo actuado se levantará constancia por escrito, las resoluciones respectivas se agregarán a los expedientes u hojas de servicio del elemento de la institución de seguridad pública y se hará del conocimiento al Centro de Enlace Informático.
+VI. De todo lo actuado se levantará constancia por escrito, las resoluciones respectivas se agregarán a los expedientes u hojas de servicio del elemento de la institución de seguridad pública y se hará del conocimiento del Centro de Enlace Informático.
 
 Las notificaciones y las citaciones se efectuarán por conducto de un elemento de la institución de seguridad pública en funciones de notificador, quien para el ejercicio de estas funciones estará investido de fe pública.
 
-Se aplicará de manera supletoria al presente procedimiento la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+En el desarrollo del procedimiento previsto en este artículo se observarán los plazos, términos y condiciones establecidos en la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche. Asimismo, dicha Ley se aplicará en todo lo no previsto por este artículo para el desarrollo del procedimiento respectivo.
 
 ###### ARTÍCULO 144.
 
@@ -2740,3 +2744,11 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, el primer día del mes de diciembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan al contenido del presente decreto.
