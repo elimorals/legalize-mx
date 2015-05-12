@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-general-de-gobierno-92520"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2014-04-22"
+last_updated: "2015-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
@@ -66,6 +66,10 @@ V. Subsecretaría de Gobierno Valle de México Zona Oriente II.
 VI. Subsecretaría de Desarrollo Político.
 
 VII. Subsecretaría de Desarrollo Municipal.
+
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2015)</small>
+
+VII Bis. Coordinación General de Protección Civil.
 
 VIII. Coordinación de Gobierno Valle de Toluca.
 
@@ -127,9 +131,11 @@ XXXVI. Contraloría Interna.
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización. Asimismo, contará con los órganos técnicos y con los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura orgánica, presupuesto y normatividad aplicable.
 
+> <small>(REFORMADO, G.G. 12 DE MAYO DE 2015)</small>
+
 ###### Artículo 4.
 
-La Secretaría, la Subsecretaría General de Gobierno, las Subsecretarías, las Coordinaciones de Gobierno, las Direcciones Generales, la Coordinación Administrativa, la Contraloría Interna y las demás unidades administrativas que integran a la Secretaría, conducirán sus actividades en forma coordinada y programada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, institucionales y especiales a su cargo o en los que participen, de conformidad con las disposiciones legales en la materia.
+La Secretaría, la Subsecretaría General de Gobierno, las subsecretarías, las coordinaciones de Gobierno, la Coordinación General de Protección Civil,las (sic) direcciones generales, la Coordinación Administrativa, la Contraloría Interna y las demás unidades administrativas que integran a la Secretaría conducirán sus actividades en forma coordinada y programada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, institucionales y especiales a su cargo o en los que participen, de conformidad con las disposiciones legales en la materia.
 
 #### Sección Segunda. De las atribuciones del Secretario
 
@@ -211,7 +217,13 @@ XXXII. Proporcionar los datos de las labores desarrolladas por la Secretaría, p
 
 XXXIII. Coordinar las distintas comisiones, consejos u órganos colegiados similares que le encomiende el Gobernador, así como aquellos que se señalen en otras disposiciones legales, de acuerdo al ámbito de su competencia.
 
-XXXIV. Las demás que le confieren otras disposiciones legales y las que le encomiende el Gobernador.
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
+
+XXXIV. Coordinar a la Comisión Estatal de Seguridad Ciudadana del Estado de México, en términos de la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2015)</small>
+
+XXXV. Las demás que le confieren otras disposiciones legales y las que le encomiende el Gobernador.
 
 ###### Artículo 7.
 
@@ -223,19 +235,29 @@ II. Subsecretaría de Desarrollo Político.
 
 III. Subsecretaría de Desarrollo Municipal.
 
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2015)</small>
+
+III Bis. Coordinación General de Protección Civil.
+
 IV. Coordinación Administrativa.
 
 V. Contraloría Interna.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SUBSECRETARIO GENERAL, DE LOS SUBSECRETARIOS, COORDINADORES DE GOBIERNO Y DIRECTORES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE MAYO DE 2015)</small>
+
+### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SUBSECRETARIO GENERAL, DE LOS SUBSECRETARIOS, COORDINADORES DE GOBIERNO, COORDINADOR GENERAL DE PROTECCIÓN CIVIL Y DIRECTORES GENERALES
+
+> <small>(REFORMADO, G.G. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-Al frente de la Subsecretaría General de Gobierno; de cada Subsecretaría, Coordinación de Gobierno y Dirección General, habrá un Titular, quien se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de conformidad con la estructura orgánica, presupuesto y normatividad aplicables.
+Al frente de la Subsecretaría General de Gobierno, de cada subsecretaría, Coordinación de Gobierno, Coordinación General de Protección Civily (sic) Dirección General habrá un Titular, quien se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de conformidad con la estructura orgánica, presupuesto y normatividad aplicables.
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, G.G. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 9.
 
-Corresponden al Subsecretario General de Gobierno, a los Subsecretarios, Coordinadores de Gobierno y Directores Generales, el ejercicio de las atribuciones siguientes:
+Corresponden al Subsecretario General de Gobierno, a los subsecretarios, coordinadores de Gobierno, Coordinador General de Protección Civily (sic) directores generales, el ejercicio de las atribuciones siguientes:
 
 I. Representar legalmente a la unidad administrativa a su cargo, así como delegar esta representación en uno o más apoderados o subalternos para que las ejerzan individual o conjuntamente, en los juicios o procedimientos que por razón de sus atribuciones sea parte.
 
@@ -661,7 +683,71 @@ IX. Fortalecer en coordinación con las autoridades municipales, las reglas de p
 
 X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Desarrollo Municipal.
 
-#### Sección Cuarta. De la Coordinación Administrativa y de la Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE MAYO DE 2015)</small>
+
+#### Sección Cuarta. De la Coordinación General de Protección Civil
+
+> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2015)</small>
+
+###### Artículo 27 Bis.
+
+Corresponden a la Coordinación General de Protección Civil, las atribuciones siguientes:
+
+I. Elaborar y ejecutar programas de difusión orientados al desarrollo y consolidación de la cultura de la protección civil, el autocuidado y la autopreparación.
+
+II. Establecer y ejecutar programas para la formación, capacitación, adiestramiento y actualización de servidores públicos estatales y municipales, integrantes de organizaciones sociales, privadas, académicas y, en general, de cualquier persona interesada en la protección civil.
+
+III. Promover la prevención y salvaguarda de las personas, de sus bienes y del entorno, mediante la realización de ejercicios y simulacros, así como del aprendizaje de actitudes que deberán asumirse en casos de emergencias y desastres.
+
+IV. Coordinar los dispositivos implementados para atender las situaciones de emergencias y desastres.
+
+V. Identificar y adoptar modelos de medición y simulación de contingencias, emergencias y desastres.
+
+VI. Coordinar el Sistema Estatal de Protección Civil, así como las acciones de prevención, auxilio y recuperación de zonas afectadas en caso de contingencia o desastre.
+
+VII. Recabar, integrar y sistematizar la información que facilite el estudio y análisis de las emergencias y desastres que afectan a la población, así como las acciones para su atención oportuna.
+
+VIII. Impulsar la realización de investigaciones científicas y técnicas, así como el intercambio de tecnología para el desarrollo de procedimientos en materia de protección civil.
+
+IX. Integrar el Atlas de Riesgos y coordinarse con las autoridades similares del Distrito Federal, de otras entidades federativas y de los municipios para la elaboración de los Atlas Metropolitanos de Riesgos que correspondan.
+
+X. Promover la integración de los Atlas y programas de riesgos de los Municipios de la Entidad y proporcionar la asesoría que al respecto le soliciten.
+
+XI. Impulsar la creación, integración y funcionamiento de consejos municipales de protección civil y determinar con la autoridad municipal, los mecanismos de coordinación para su funcionamiento.
+
+XII. Formular y promover mecanismos de coordinación en materia de prevención, atención de emergencias y desastres, con autoridades federales, del Distrito Federal, entidades federativas y municipios, así como con los sectores social, privado, nacional e internacional.
+
+XIII. Coordinar sus acciones con autoridades federales y municipales para la atención de emergencias y desastres, derivados de la utilización de sustancias explosivas, detonantes y pirotecnia, de conformidad con las disposiciones aplicables.
+
+XIV. Elaborar el Programa Estatal de Protección Civil y someterlo a la consideración del Secretario para su aprobación por el Consejo Estatal de Protección Civil,así (sic) como llevar a cabo su ejecución.
+
+XV. Elaborar normas técnicas en materia de protección civil y someterlas al Secretario para su aprobación y posterior publicación.
+
+XVI. Proponer al Secretario la normatividad en materia de prevención y atención de emergencias y desastres.
+
+XVII. Coordinar el funcionamiento de los centros regionales de protección civil.
+
+XVIII. Evaluar, supervisar y verificar en términos de la normatividad aplicable, las condiciones de seguridad en instalaciones industriales, comerciales y de servicios fijos y móviles, que permitan el manejo adecuado de materiales y residuos peligrosos, así como de maquinarias y equipos de uso restringido, con la finalidad de prevenir accidentes de emergencias y desastres yaplicar (sic), en su caso, las sanciones que correspondan por las infracciones establecidas en la legislación de la materia.
+
+XIX. Verificar las condiciones de seguridad de los inmuebles, instalaciones públicas y privadas así como eventos públicos donde acuda la población y emitir los dictámenes correspondientes, así como aplicar, en su caso, las sanciones que correspondan por las infracciones establecidas en la legislación de la materia.
+
+XX. Implementar acciones, mecanismos y procesos en materia de protección civil, tendientes a facilitar la instalación, operación, ampliación y regularización de giros comerciales, industriales y de servicios en el territorio de la entidad, de conformidad con la legislación aplicable en la materia.
+
+XXI. Elaborar los dictámenes técnicos que le correspondan y emitir las resoluciones derivadas de los programas de inspección en materia de protección civil.
+
+XXII. Asesorar a los sectores públicos, social y privado que lo soliciten, en la elaboración de sus programas internos de protección civil, así como en la integración y funcionamiento de sus unidades internas de protección civil.
+
+XXIII. Integrar y operar el Sistema Estatal de Información de Protección Civil y el Registro Estatal de Protección Civil.
+
+XXIV. Asumir la Secretaría Técnica del Consejo Estatal de Protección Civil.
+
+XXV. Supervisar que el personal a su cargo, al advertir la comisión de algún delito preserve y custodie el lugar de los hechos, con la finalidad de que las pruebas e indicios no pierdan su calidad probatoria de origen, hasta que la autoridad competente inicie la investigación correspondiente.
+
+XXVI. Las demás que le señalen otras disposiciones legales y administrativas y aquellas que le encomiende el Secretario.
+
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2015)</small>
+
+#### Sección Quinta. De la Coordinación Administrativa y de la Contraloría Interna
 
 ###### Artículo 28.
 
@@ -790,3 +876,11 @@ G.G. 22 DE ABRIL DE 2014.
 PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno.
+
+G.G. 12 DE MAYO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor el mismo día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
