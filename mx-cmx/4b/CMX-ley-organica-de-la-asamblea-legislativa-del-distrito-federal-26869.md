@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2014-07-09"
+last_updated: "2015-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE MAYO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -222,15 +222,19 @@ XXXIV.- Remover a los Jefes Delegacionales conforme al procedimiento que se esta
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XXXV. Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley;
+XXXV.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley;
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
+> <small>N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XXXV, VÉASE PUBLICACIONES OFICIALES DE FECHAS 15 DE MAYO DE 2014 Y 12 DE MAYO DE 2015.</small>
 
-XXXVI. Contar con un órgano técnico denominado “Canal Televisivo de la Asamblea Legislativa del Distrito Federal”, que se regirá conforme a lo establecido en este Ordenamiento y en el Reglamento para el Gobierno Interior, en concordancia con lo establecido por el artículo 10º Transitorio de la Reforma Constitucional en materia de Telecomunicaciones publicada en el Diario Oficial de la Federación el once de junio de 2013.
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2014)</small>
+XXXVI.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley;
 
-XXXVII. Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
+
+XXXVII.- Reconocer cada año a las y los estudiantes que desarrollen las mejores investigaciones sobre la Ciudad de México, con la finalidad de obtener el grado de licenciatura, maestría o doctorado, en los términos del procedimiento que establezca el Reglamento para el Gobierno Interior; y
+
+XXXVI (SIC).- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -2331,3 +2335,11 @@ Lo anterior, atendiendo al principio de supremacía constitucional de conformida
 ###### ARTÍCULO NOVENO.
 
 Los Derechos y prerrogativas laborales de los trabajadores de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal serán respetados por el presente Decreto y la Auditoría Superior de la Ciudad de México, por ende no serán objeto de restricción, privación o afectación con las modificaciones y cambios que se lleguen a realizar.
+
+G.O. 12 DE MAYO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Para el la (sic) premiación al Mérito de la mejor tesis de licenciatura, maestría y doctorado de 2014 se seguirán los acuerdos tomados por el Comité de Estudios y Estadísticas de la Ciudad de México que tome el mismo año.
