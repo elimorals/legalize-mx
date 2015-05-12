@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-centro-estatal-de-trasplantes-34072"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-10"
-last_updated: "2003-09-10"
+last_updated: "2015-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL CENTRO ESTATAL DE TRASPLANTES
 
-REGLAMENTO INTERNO DEL CENTRO ESTATAL DE TRASPLANTES
+REGLAMENTO INTERNO DEL CENTRO ESTATAL DE TRASPLANTES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 10 de septiembre de 2003.
 
@@ -101,7 +101,9 @@ II. Decidir y vigilar la asignación de órganos, tejidos y células, de conform
 
 III. Coordinar el diseño, la operación y evaluación del Sistema Estatal de Trasplantes.
 
-IV. Proponer al Secretario políticas y estrategias para la elaboración y aplicación de programas en materia de trasplantes, en el seno del Consejo de Salud del Estado de México.
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
+
+IV. Proponer al Secretario políticas y estrategias para la elaboración y aplicación de programas en materia de trasplantes.
 
 V. Someter a consideración de las instancias competentes a través del Secretario, la revocación de la autorización sanitaria o cancelación del registro a establecimientos y profesionales que, presumiblemente incumplan con la normatividad relativa a la disposición de órganos, tejidos y células con fines de trasplantes.
 
@@ -111,9 +113,11 @@ VII. Sugerir a las autoridades competentes la realización de actividades para f
 
 VIII. Proponer al Secretario la celebración de acuerdos y convenios con los sectores público, social y privado, vinculados con actividades en materia de trasplantes para el cumplimiento de las actividades del Centro.
 
-IX. Participar y representar al Centro ante el Consejo de Salud del Estado de México, de acuerdo con las disposiciones aplicables.
+IX. (DEROGADA, G.G. 12 DE MAYO DE 2015)
 
-X. Proporcionar al Registro Nacional de Trasplantes información relativa a la asignación y donación de órganos, tejidos y células con fines de trasplante.
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
+
+X. Proporcionar al Centro Nacional de Trasplantes información relativa a la asignación y donación de órganos, tejidos y células con fines de trasplante.
 
 XI. Coordinar la evaluación de los programas de capacitación y atención médica relacionados con trasplantes.
 
@@ -123,11 +127,19 @@ XIII. Vigilar el desempeño de las unidades administrativas a su cargo, así com
 
 XIV. Acordar con el Secretario el nombramiento, remoción, promoción y cese de los titulares de las unidades administrativas del Centro.
 
-XV. Proponer al Patronato programas de difusión y promoción de la donación altruista de órganos, tejidos y células a fin de cumplir con el objeto del Centro.
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
+
+XV. Coadyuvar con el Patronato Estatal de Trasplantes en la difusión y promoción de programas de donación, trasplante de órganos, tejidos y células, para lograr el objeto del Centro.
 
 XVI. Resolver las dudas que se originen con motivo de la interpretación o aplicación del presente Reglamento.
 
-XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
+
+XVII. Promover la ejecución de acciones de modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta el Centro.
+
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2015)</small>
+
+XVIII. Las demás que le confieran otras disposiciones legales y aquéllas que les encomiende el Director.
 
 ### CAPITULO III. DE LAS ATRIBUCIONES GENERICAS DE LOS SUBDIRECTORES
 
@@ -193,13 +205,19 @@ VIII. Las demás que le señalen otras disposiciones legales y aquellas que le e
 
 Corresponde a la Subdirección de Normatividad y Registro:
 
-I. Elaborar y proponer al Director normas técnicas en materia de trasplantes.
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
 
-II. Integrar y mantener actualizado el registro de pacientes que esperan la donación de algún órgano, tejido o célula.
+l. Elaborar proyectos, políticas y estrategias que permitan el desarrollo de programas en materia de trasplantes, previa aprobación del Director.
+
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
+
+II. Vigilar la actualización, en el ámbito de su competencia, del registro de pacientes que esperan la donación de algún órgano, tejido o célula.
 
 III. Crear y actualizar el registro de los establecimientos y su infraestructura hospitalaria, así como de los profesionales dedicados a actividades de trasplantes.
 
-IV. Integrar y mantener actualizada la lista de los posibles donadores de órganos, tejidos o células y dar seguimiento al proceso de donación correspondiente.
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2015)</small>
+
+IV. Coadyuvar con el Centro Nacional de Trasplantes para la integración del registro de los posibles donadores en vida, de órganos, tejidos o células y dar seguimiento al proceso de donación correspondiente.
 
 V. Registrar la información relativa a trasplantes de órganos, tejidos y células realizados en la entidad, y hacerla del conocimiento del Director.
 
@@ -244,3 +262,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE MAYO DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Acuerdo.
