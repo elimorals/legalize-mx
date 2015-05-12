@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "2004-10-12"
+last_updated: "2015-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO -- ANTES LEY REGLAMENTARIA DEL ART. 62, ANTES DEL ART. 61-- DE LA CONSTICUCION POLITICA DEL ESTADO DE JALISCO
 
-LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
+LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -37,7 +37,7 @@ DECRETO
 
 Número 10206. El Congreso del Estado decreta:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2000)</small>
 
 Ley de Incompatibilidades para los Servidores Públicos Reglamentaria del Artículo 112 de la Constitución Política del Estado de Jalisco.
 
@@ -55,11 +55,17 @@ La presente ley es de interés público y sus normas de observancia general, por
 
 ° Se concede acción popular para denunciar las incompatibilidades en que incurran los servidores públicos. Se deberán presentar por escrito y contener elementos de prueba suficientes para establecer que se incurre en alguno de los supuestos que señala esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+
 Las denuncias anónimas no producirán efecto alguno.
 
-El Oficial Mayor, o quien haga sus veces, en los poderes Legislativo y Judicial, así como en los municipios del estado y Empresas Descentralizadas previa identificación del denunciante, asentarán de inmediato la ratificación correspondiente. Lo mismo hará el Director de Personal de la Secretaría de Administración, por lo que respecta a servidores públicos del Poder Ejecutivo.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
 
-Cuando algún servidor público sea llamado a desempeñar otro puesto también en el sector público, dentro del territorio del Estado, deberá comunicarlo, antes de aceptar el cargo, a la persona que corresponda, de las mencionadas en el párrafo anterior, quienes tendrán la obligación, y será motivo de responsabilidad no cumplirla, de enviar, a la Secretaría de Administración, copia de los nombramientos de los servidores públicos, para efectos de control de incompatibilidades.
+El Oficial Mayor, o quien haga sus veces, en los poderes Legislativo y Judicial, así como en los municipios del Estado y empresas descentralizadas previa identificación del denunciante, asentarán de inmediato la ratificación correspondiente. Lo mismo hará el Director de Personal de la Secretaría de Planeación, Administración y Finanzas, por lo que respecta a servidores públicos del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
+
+Cuando algún servidor público sea llamado a desempeñar otro puesto también en el sector público, dentro del territorio del Estado, deberá comunicarlo, antes de aceptar el cargo, a la persona que corresponda, de las mencionadas en el párrafo anterior, quienes tendrán la obligación, y será motivo de responsabilidad no cumplirla, de enviar, a la Secretaría de Planeación, Administración y Finanzas, copia de los nombramientos de los servidores públicos, para efectos de control de incompatibilidades.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -93,7 +99,7 @@ Las incompatibilidades de los cargos directivos, administrativos y docentes de l
 
 ° En la actividad no docente, el horario en el que un Servidor Público deba desarrollar su trabajo, no deberá exceder del tiempo señalado como jornada, por el Art. 123 de la Constitución Federal.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ### CAPITULO II. De las Incompatibilidades
 
@@ -143,11 +149,11 @@ No existe incompatibilidad en el caso de dobles plazas autorizadas en el servici
 
 Para los efectos de esta ley, se entiende por Comisión la orden que da el titular de una dependencia a un Servidor Público, para que realice, temporalmente, alguna actividad que no constituya un deber propio del cargo público que desempeña.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 15.
 
-Las Comisiones deberán ser por tiempo limitado y ordenadas por escrito, estableciendo fecha de inicio de efectos y terminación, lugar y adscripción donde se desempeñará, la carga horaria y, si interfiere en el horario normal de labores del cargo del Servidor Público, el Titular de la Dependencia que las autorice proveerá lo necesario para subsanar la ausencia del comisionado, debiendo remitir copia del oficio de comisión a la Secretaría de Administración, para los efectos legales correspondientes.
+Las comisiones deberán ser por tiempo limitado y ordenadas por escrito, estableciendo fecha de inicio de efectos y terminación, lugar y adscripción donde se desempeñará, la carga horaria y, si interfiere en el horario normal de labores del cargo del servidor público, el titular de la dependencia que las autorice proveerá lo necesario para subsanar la ausencia del comisionado, debiendo remitir copia del oficio de comisión a la Secretaría de Planeación, Administración y Finanzas, para los efectos legales correspondientes.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -155,7 +161,7 @@ Las Comisiones deberán ser por tiempo limitado y ordenadas por escrito, estable
 
 Los Servidores Públicos podrán desempeñar simultáneamente hasta tres Comisiones remuneradas, siempre y cuando no exista incompatibilidad horaria, física, por razón de servicio o por razón de la ubicación, conforme a lo dispuesto en el capítulo anterior.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ### CAPITULO IV. Del Procedimiento
 
@@ -177,11 +183,11 @@ Las incompatibilidades de los demás Servidores Públicos que laboren en el Pode
 
 Las Comisiones de que se habla en los dos artículos anteriores, propondrán el dictamen correspondiente a la Asamblea del Congreso que resolverá lo que proceda.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 20.
 
-En el Poder Ejecutivo, las incompatibilidades serán analizadas y resueltas por la Secretaría de Administración del Estado, a través de su Dirección de Personal. Los servidores públicos que se vean afectados con tal resolución podrán solicitar que ésta sea reconsiderada, por la misma Secretaría.
+En el Poder Ejecutivo, las incompatibilidades serán analizadas y resueltas por la Secretaría de Planeación, Administración y Finanzas, a través de su Dirección de Personal. Los servidores públicos que se vean afectados con tal resolución podrán solicitar que ésta sea reconsiderada, por la misma Secretaría.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1990)</small>
 
@@ -193,11 +199,11 @@ Cuando de los informes obtenidos en el Desarrollo del procedimiento se advierta 
 
 En el Poder Judicial, las incompatibilidades serán analizadas, según el caso, por el Supremo Tribunal de Justicia, por el Tribunal de lo Contencioso Administrativo y por el Tribunal de Arbitraje y Escalafón.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 22.
 
-Las incompatibilidades que surjan por cargos y empleos entre el Poder Judicial y el Poder Legislativo serán analizadas y resueltas por el titular del Poder Ejecutivo a través de la Secretaría de Administración del Estado.
+Las incompatibilidades que surjan por cargos y empleos entre el Poder Judicial y el Poder Legislativo serán analizadas y resueltas por el titular del Poder Ejecutivo a través de la Secretaría de Planeación, Administración y Finanzas del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
@@ -209,11 +215,11 @@ En los municipios, las incompatibilidades serán analizadas por el Oficial Mayor
 
 Se exceptúan de las disposiciones contenidas en el párrafo anterior a los servidores públicos municipales de elección popular, los cuales, se sujetan a lo dispuesto por las normas legales aplicables.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 24.
 
-En los Organismos Descentralizados, así como en las empresas públicas de participación estatal o municipal, las incompatibilidades serán analizadas, respectivamente, por el titular del Poder Ejecutivo, a través de la Secretaría de Administración del Estado y por los Ayuntamientos correspondientes.
+En los organismos descentralizados, así como en las empresas públicas de participación estatal o municipal, las incompatibilidades serán analizadas, respectivamente, por el titular del Poder Ejecutivo, a través de la Secretaría de Planeación, Administración y Finanzas del Estado y por los ayuntamientos correspondientes.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -237,7 +243,7 @@ Las incompatibilidades que surjan por cargos y empleos municipales con alguno de
 
 Declarada legalmente una incompatibilidad, en los términos de los artículos anteriores de esta Ley, el Servidor Público de que se trate podrá elegir, en el término de 5 días hábiles, a partir del siguiente al que se le notifique personalmente la resolución respectiva, de entre los cargos incompatibles, el que más le convenga. De no hacerlo en el término señalado, será facultad de la autoridad que hubiese resuelto, determinar el cargo que deba desempeñar con exclusión del otro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1990)</small>
 
 ###### Artículo 28.
 
@@ -297,7 +303,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE ENERO DE 1984.
 
@@ -322,5 +328,9 @@ P.O. 21 DE JULIO DE 2001.
 ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 12 DE OCTUBRE DE 2004.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE MAYO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
