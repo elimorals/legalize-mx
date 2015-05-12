@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2014-07-09"
+last_updated: "2015-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE MAYO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2502,13 +2502,21 @@ I.- Al Mérito Ciudadano;
 
 II.- Al Mérito en Ciencias y Artes;
 
-III.- Al Mérito Policial; y
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
-IV.- Al Mérito Deportivo.
+III.- Al Mérito Policial;
 
-> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
-V.- Al Mérito de Protección Civil.
+IV.- Al Mérito Deportivo;
+
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
+
+V.- Al Mérito de Protección Civil; y
+
+> <small>(ADICIONADA, G.O. 12 DE MAYO DE 2015)</small>
+
+VI.- A las mejores tesis sobre la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2556,19 +2564,29 @@ e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal; y
 
 f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal.
 
-III.- Candidato: Toda persona propuesta para recibir la presea y el reconocimiento que otorga la Asamblea Legislativa, que actúe en forma individual o colectiva, ya sea en asociación o institución pública o privada propuesta.
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+III. Candidato o Candidata: Toda persona propuesta para recibir la presea y/o el reconocimiento que otorga la Asamblea Legislativa, que actúe en forma individual o colectiva, ya sea en asociación o institución pública o privada propuesta; y
+
+> <small>(ADICIONADA, G.O. 12 DE MAYO DE 2015)</small>
+
+IV. Reconocimiento: Consiste en la entrega de un diploma y una medalla, en sesión solemne a los que hayan sido acreedores a algún premio derivado de concursos promovidos por esta Asamblea.
+
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 173.
 
-Los casos en que haya necesidad de interpretar los términos de las bases del presente reglamento, así como los aspectos no previstos en el mismo, en lo relativo a la entrega de preseas y reconocimientos, serán resueltos por la Comisión dictaminadora correspondiente.
+Los casos en que haya necesidad de interpretar los términos de las bases del presente reglamento, así como los aspectos no previstos en el mismo, lo relativo a la entrega de preseas y reconocimientos, serán resueltos por la Comisión dictaminadora o el Comité emisor del acuerdo parlamentario correspondiente.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 174.
 
-El reconocimiento consistirá de medalla metálica e implicará también el otorgamiento del diploma correspondiente.
+Respecto de las medallas, a quien resulte acreedor o acreedora de las mismas, se otorgará una medalla metálica y un diploma correspondiente.
+
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
+
+Respecto de las mejores tesis sobre la Ciudad de México, como reconocimiento se otorgará el diploma correspondiente y una medalla por la Asamblea Legislativa del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2622,31 +2640,45 @@ III.- Nombre y firma del Presidente y Secretarios de la Mesa Directiva de la Asa
 
 El diploma a entregarse será elaborado en tantos suficientes para las personas acreedoras a los reconocimientos y para integrar el Archivo Histórico de la Asamblea Legislativa del Distrito Federal.
 
-El Archivo Histórico será el facultado de integrar el archivo relacionado con cada una de las Medallas.
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+El Archivo Histórico será el facultado de integrar el archivo relacionado con cada una de las Medallas y con el reconocimiento de las mejores tesis sobre la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 178.
 
-Serán atribuciones de las Comisiones:
+Serán atribuciones de las Comisiones y, en lo que corresponda, del Comité de Estudios y Estadísticas sobre la Ciudad de México:
 
-I.- Actuar en forma colegiada y entrar en función permanente, a partir de la fecha de su integración, hasta la elaboración del dictamen, conteniendo la propuesta debidamente analizada;
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
+
+I. Actuar en forma colegiada y entrar en función permanente, a partir de la fecha de su integración, hasta la elaboración del dictamen o acuerdo parlamentario, conteniendo la propuesta debidamente analizada;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
 II.- Planificar el desarrollo del proceso de la entrega del reconocimiento;
 
-III.- Solicitar el apoyo a la Oficialía Mayor de la Asamblea Legislativa para publicar la convocatoria y el dictamen correspondiente;
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
+
+III. Solicitar el apoyo a la Oficialía Mayor de la Asamblea Legislativa para publicar la convocatoria y el dictamen o acuerdo parlamentario correspondiente;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
 IV.- Evaluar la trayectoria individual de cada uno de los candidatos a la entrega del reconocimiento;
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+
 V.- Fundamentar en cada una de sus elecciones específicas, en estricta observancia de este reglamento; y
 
-VI.- Elaborar oportunamente para su aprobación por el Pleno, el dictamen con las propuestas analizadas que deberá contener el día y la hora para la celebración de la Sesión Solemne de entrega de reconocimiento.
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+VI. Elaborar oportunamente para su aprobación por el Pleno, el dictamen o acuerdo parlamentario con las propuestas analizadas que deberá contener el día y la hora para la celebración de la Sesión Solemne de entrega de reconocimiento.
+
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 179.
 
-La Oficialía Mayor de la Asamblea Legislativa otorgará la mayor difusión a las convocatorias que se expidan y, en todo caso, a petición de las Comisiones la hará llegar a las instituciones públicas y privadas para proponerse, o en su caso que pudieran tener interés en proponer candidatos.
+La Oficialía Mayor de la Asamblea Legislativa otorgará la mayor difusión a las convocatorias que expidan y, en todo caso, a petición de las Comisiones o el Comité de Estudios y Estadísticas sobre la Ciudad de México, hará llegar a las instituciones públicas y privadas para proponerse, o en su caso que pudieran tener interés en proponer candidatos.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2742,11 +2774,11 @@ II. En las Artes: A quienes con su trabajo creativo y trayectoria, hayan destaca
 
 La convocatoria y el proceso de elección de los candidatos para recibir los reconocimientos en Ciencias estarán a cargo de la Comisión de Ciencia, Tecnología e Innovación; y, lo relativo a los reconocimientos en Artes, estará a cargo de la Comisión de Cultura.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 190.
 
-Las Comisiones señaladas en el artículo precedente emitirán los dictámenes correspondientes y deberán ser presentados ante el pleno de la Asamblea legislativa.
+Las Comisiones señaladas en el artículo precedente emitirán los dictámenes correspondientes y deberán ser presentados ante el Pleno.
 
 ###### Artículo 191.
 
@@ -2966,9 +2998,39 @@ La Sesión Solemne para la entrega del Reconocimiento al Mérito Deportivo se ce
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE JULIO DE 2011)</small>
 
-### CAPÍTULO VII. DEL PROCESO DE ELECCIÓN DE CANDIDATOS
+### CAPÍTULO SÉPTIMO. DEL RECONOCIMIENTO A LAS MEJORES TESIS SOBRE LA CIUDAD DE MÉXICO
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
+
+Artículo 212 A.- El reconocimiento (sic) las mejores tesis sobre la Ciudad de México, se otorgará a las y los estudiantes que desarrollen las mejores investigaciones sobre la historia, planeación y desarrollo, entre otras, del Distrito Federal. Tales investigaciones deberán haber sido elaboradas con la finalidad de obtener el grado de licenciatura, maestría o doctorado.
+
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
+
+Artículo 212 B.- Para los efectos de este capítulo, corresponderá al Comité de Estudios y Estadísticas sobre la Ciudad de México:
+
+I. Convocar el proceso de la elección de las o los candidatos a recibir el reconocimiento;
+
+II. Designar a los integrantes del Consejo Evaluador que analizará (sic) emitirá un fallo en el que determine los nombres de quienes habrán de ser galardonadas o galardonados. Para la integración de dicho Consejo, el Comité deberá tener en cuenta la multiplicidad de disciplinas de los trabajos recibidos para su mejor y equitativa valoración; y
+
+III. Aprobar el fallo del Consejo Evaluador mediante acuerdo parlamentario, el cual será presentado ante el Pleno.
+
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
+
+Artículo 212 C.- Para otorgar el reconocimiento a las mejores tesis sobre la Ciudad de México, se deberá seguir el siguiente procedimiento:
+
+I. Expedir la convocatoria para la recepción de tesis en las categorías de Licenciatura, Maestría y Doctorado, por el plazo que considere el Comité de Estudios y Estadísticas sobre la Ciudad de México;
+
+II. Agotado el plazo de recepción de trabajos, se designará al Consejo Evaluador;
+
+III. El Consejo Evaluador deberá emitir su fallo ante el Comité de Estudios y Estadísticas sobre la Ciudad de México;
+
+IV. El Comité de Estudios y Estadísticas sobre la Ciudad de México aprobarán (sic), mediante acuerdo parlamentario, el fallo del Consejo Evaluador;
+
+V. El acuerdo parlamentario será presentado ante el Pleno; y
+
+VI. La entrega de los reconocimientos a las Mejores Tesis sobre la Ciudad de México se entregará cada año en la fecha y hora que determine la Comisión de Gobierno.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO VII], G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 212 Bis.
 
@@ -3014,17 +3076,21 @@ Las propuestas y la documentación correspondiente de los candidatos para ser me
 
 La Sesión Solemne para entregar la Medalla al Mérito de Protección Civil se realizará en la fecha en que se conmemore el «Día Nacional de Protección Civil» del año que corresponda.
 
-(MODIFICADO EN SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VI], G.O. 19 DE JULIO DE 2011)
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.O. 12 DE MAYO DE 2015)</small>
+
+### CAPÍTULO OCTAVO. DEL PROCESO DE ELECCIÓN DE CANDIDATAS Y CANDIDATOS
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 213.
 
 Cuando una persona o institución decida formular una candidatura, la misma se abstendrá de formular otra u otras con relación a la convocatoria del año que corresponda.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 214.
 
-Solamente por causa de fuerza mayor, no imputable al interesado, previa justificación a entera satisfacción de la Comisión dictaminadora, podrán recibirse propuestas fuera del término señalado en la convocatoria respectiva, pero de ninguna manera una vez aprobadas por la Comisión dictaminadora.
+Solamente por causa de fuerza mayor, no imputable al interesado, previa justificación a entera satisfacción de la Comisión dictaminadora o el Comité emisor del acuerdo parlamentario, podrán recibirse propuestas fuera del término señalado en la convocatoria respectiva, pero de ninguna manera una vez aprobadas por la Comisión dictaminadora o el Comité emisor del acuerdo parlamentario.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3032,15 +3098,13 @@ Solamente por causa de fuerza mayor, no imputable al interesado, previa justific
 
 Se tomará en cuenta de preferencia que los candidatos al reconocimiento respectivo sean habitantes del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 216.
 
-Si se excusare el candidato propuesto por la Comisión dictaminadora para recibir la medalla, o bien los familiares de éste si se tratare de un reconocimientos póstumo, la Comisión elegirá y dictaminará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
+Si se excusare el candidato propuesto por la Comisión dictaminadora o el Comité emisor del acuerdo parlamentario para recibir la medalla, o bien los familiares de éste si se tratare de un reconocimientos (sic) póstumo, la Comisión o el Comité elegirá y dictaminará o acordará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen o acuerdo parlamentario deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
-
-En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora deberá presentar el dictamen correspondiente ante el Pleno de la Asamblea Legislativa.
+En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora o el Comité emisor del acuerdo parlamentario deberá presentar el dictamen o acuerdo parlamentario correspondiente ante el Pleno de la Asamblea Legislativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
@@ -3048,21 +3112,21 @@ En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictami
 
 La decisión que se adopte será notificada al interesado, o bien a los familiares de éste en el caso del reconocimiento póstumo y dada a conocer oportunamente a través de los medios de comunicación.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
-El Decreto por el que se otorga la Medalla correspondiente será publicado en la Gaceta Oficial del Distrito Federal, así como en, al menos, dos diarios de circulación nacional.
+El Decreto por el que se dé a conocer la Medalla o el reconocimiento correspondiente será publicado en la Gaceta Parlamentaria del Distrito Federal, así como en, al menos, dos diarios de circulación nacional.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 218.
 
-La resolución que se tome y que formará parte del dictamen, tendrá efectos definitivos y por tanto será inatacable.
+La resolución que se tome y que formará parte del dictamen o acuerdo parlamentario, tendrá efectos definitivos y por tanto será inatacable.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2015)</small>
 
 ###### Artículo 219.
 
-La entrega de los reconocimientos respectivos deberán ser anuales y entregarse en Sesión Solemne de la Asamblea legislativa.
+La entrega de los reconocimientos respectivos deberán ser anuales y entregarse en Sesión Solemne del Pleno.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
@@ -3623,3 +3687,11 @@ Lo anterior, atendiendo al principio de supremacía constitucional de conformida
 ###### ARTÍCULO NOVENO.
 
 Los Derechos y prerrogativas laborales de los trabajadores de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal serán respetados por el presente Decreto y la Auditoría Superior de la Ciudad de México, por ende no serán objeto de restricción, privación o afectación con las modificaciones y cambios que se lleguen a realizar.
+
+G.O. 12 DE MAYO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Para el (sic) la premiación al Mérito de la mejor tesis de licenciatura, maestría y doctorado de 2014 se seguirán los acuerdos tomados por el Comité de Estudios y Estadísticas de la Ciudad de México que tome el mismo año.
