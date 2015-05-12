@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2014-04-11"
+last_updated: "2015-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -151,7 +151,7 @@ XIII.- Fomentar y encausar el desarrollo y la aplicación del avance científico
 
 XIV.- Fomentar actitudes solidarias positivas para alcanzar el bienestar general mediante el trabajo y el ahorro;
 
-XV.- Fomentar en el educando el estudio, conocimiento y respeto de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen; y (sic)
+XV.- Fomentar en el educando el estudio, conocimiento y respeto de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen; y
 
 XVI.- Buscar la excelencia en la calidad educativa;
 
@@ -1103,7 +1103,7 @@ Las universidades e instituciones de educación superior deberán realizar las s
 
 I.- Docencia;
 
-II.- Investigación, y (sic)
+II.- Investigación, y
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -1911,13 +1911,13 @@ g) Fomentar y promover la participación de la familia en beneficio de los educa
 
 h) Opinar en asuntos pedagógicos;
 
-i) Contribuir a reducir las condiciones sociales adversas que influyen en la educación de los alumnos, y (sic)
+i) Contribuir a reducir las condiciones sociales adversas que influyen en la educación de los alumnos, y
 
 j) Organizar y convocar a la realización de trabajos específicos para el mejoramiento de las instalaciones escolares, y efectuar todo tipo de actividades en beneficio del plantel apoyando las actividades cotidianas de la escuela.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
 
-k) Promover la atención de alumnos con problemas de bajo aprovechamiento escolar y a los que requieran educación especial; y (sic)
+k) Promover la atención de alumnos con problemas de bajo aprovechamiento escolar y a los que requieran educación especial; y
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -2131,7 +2131,7 @@ XVI.- Ocultar al padre o tutor conductas consideradas como de violencia y acoso 
 
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
 
-XVII.- En su caso, proporcionar información falsa u ocultar información a las autoridades competentes respecto de hechos de que hubieren sido testigos presenciales, y (sic)
+XVII.- En su caso, proporcionar información falsa u ocultar información a las autoridades competentes respecto de hechos de que hubieren sido testigos presenciales, y
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -2485,11 +2485,11 @@ La autoridad educativa tiene la obligación de derivar hacia un especialista los
 
 Cuando por el tipo o la gravedad del hecho constitutivo de violencia escolar no se logre armonizar la relación entre el generador del acoso y la víctima, se buscará trasladar al primero a otro centro escolar.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 179.
 
-Cuando el presunto acosador tenga entre doce años cumplidos y menos de dieciocho años de edad y la conducta que se le atribuya o compruebe esté tipificada como delito en las leyes estatales, se procederá conforme a lo dispuesto por la Ley de Justicia integral para Adolescentes del Estado de Jalisco.
+Cuando el presunto acosador tenga entre doce años cumplidos y menos de dieciocho años de edad y la conducta que se le atribuya o compruebe esté tipificada como delito en las leyes estatales, se procederá conforme a lo dispuesto por la Ley de Justicia para Adolescentes del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3683,7 +3683,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
-SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
 
 P.O. 9 DE DICIEMBRE DE 2010.
 
@@ -3846,3 +3846,7 @@ P.O. 11 DE ABRIL DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE MAYO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
