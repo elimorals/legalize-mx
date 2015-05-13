@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2015-01-27"
+last_updated: "2015-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -349,6 +349,10 @@ VIII. Conducir, siempre que no esté conferida esta facultad a otra Secretaría,
 IX. Conducir las relaciones del Gobierno Federal con el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado;
 
 X. Conducir la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia así como fomentar el desarrollo político; contribuir al fortalecimiento de las instituciones democráticas; promover la activa participación ciudadana, salvo en materia electoral; favorecer las condiciones que permitan la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución y de las leyes, se mantengan las condiciones de unidad nacional, cohesión social, fortalecimiento de las instituciones de gobierno y gobernabilidad democrática;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2015)</small>
+
+X Bis. Diseñar, instrumentar, desarrollar, proponer, fomentar y publicitar programas y herramientas institucionales para la asesoría, capacitación y formación permanente de los integrantes de los ayuntamientos, así como de los funcionarios y empleados municipales en su carácter de depositarios de funciones y servicios públicos, con el fin de contribuir de manera efectiva a la profesionalización de los gobiernos locales y el desarrollo institucional de los municipios mexicanos;
 
 XI. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país; coordinar en vinculación con las organizaciones de la sociedad civil, trabajos y tareas de promoción y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia; así como dictar las medidas administrativas necesarias para tal efecto;
 
@@ -2761,6 +2765,10 @@ Segundo.- La Secretaría de Educación Pública, así como las demás autoridade
 Tercero.- Para los programas de educación básica para adultos, en los términos del presente Decreto, la Secretaría de Educación Pública conjuntamente con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán establecer los plazos y las metas para lograr los objetivos que se fijen, de acuerdo a los diagnósticos señalados en el artículo transitorio anterior, tomando en consideración las asignaciones presupuestales previstas para ello.
 
 Cuarto.- La Secretaría de Educación Pública, las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán definir los esquemas de incentivos y otorgar las facilidades necesarias para que los servidores públicos que se encuentran en rezago educativo puedan concluir su educación básica.
+
+D.O.F. 13 DE MAYO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
