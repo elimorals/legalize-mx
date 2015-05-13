@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2014-12-03"
+last_updated: "2015-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -1138,6 +1138,18 @@ El procedimiento para proponer, someter a consulta y formular Normas Ambientales
 ###### Artículo 56.
 
 Una vez publicada una Norma Ambiental Estatal en el Periódico Oficial del Estado, será obligatoria. Las Normas Ambientales Estatales señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2015)</small>
+
+###### Artículo 56 Bis.
+
+En casos de emergencia, la Secretaría podrá elaborar y aprobar directamente, las Normas Ambientales Estatales, misma que ordenará se publique en el Periódico Oficial del Estado con una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma norma en los términos de este artículo.
+
+Previa a la segunda expedición, se deberá elaborar una manifestación de impacto regulatorio y si la dependencia que elaboró la norma decidiera extender el plazo de vigencia o hacerla permanente, se presentará como proyecto que se deberá elaborar y aprobar conforme al procedimiento establecido en los artículos precedentes y al Reglamento de la presente Ley.
+
+Sólo se considerarán casos de emergencia aquellos en que se afecte la salud pública con motivo de la realización de cualquier tipo de actividad en la que se generen o emitan contaminantes de competencia estatal, que no cuenten con alguna regulación legal que establezca los límites máximos permisibles para la emisión o generación de los referidos contaminantes.
+
+La Norma Ambiental Estatal deberá cumplir con lo dispuesto en el artículo 53, establecer la base científica o técnica que apoye su expedición y tener por objeto evitar daños irreparables o irreversibles.
 
 #### SECCIÓN IX. EDUCACIÓN AMBIENTAL Y FOMENTO A LA INVESTIGACIÓN
 
@@ -2263,17 +2275,17 @@ Toda persona física o moral que genere residuos de manejo especial, tiene la re
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-###### Artículo 172
+###### Artículo 172 Bis.
 
-Bis.- Los prestadores del servicio de recolección, transporte o tratamiento de los residuos de manejo especial, deberán estar autorizados y registrados para tales efectos por la Secretaría, debiéndose cerciorar los generadores de dichos residuos que las empresas que presten los servicios de manejo y disposición final de los mismos, cuenten con las autorizaciones respectivas y vigentes, en caso contrario serán responsables de los daños y perjuicios que se ocasionen por su manejo.
+Los prestadores del servicio de recolección, transporte o tratamiento de los residuos de manejo especial, deberán estar autorizados y registrados para tales efectos por la Secretaría, debiéndose cerciorar los generadores de dichos residuos que las empresas que presten los servicios de manejo y disposición final de los mismos, cuenten con las autorizaciones respectivas y vigentes, en caso contrario serán responsables de los daños y perjuicios que se ocasionen por su manejo.
 
 En caso de que se contraten los servicios de manejo y disposición final de residuos de manejo especial por empresas autorizadas por la Secretaría y los residuos sean entregados a estas, la responsabilidad por las operaciones le corresponderán a dicha empresa, independientemente de la responsabilidad que tiene el generador.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 172
+###### ARTÍCULO 172 Bis 1.
 
-Bis 1.- Los residuos de manejo especial, podrán ser transferidos a industrias para su utilización como insumos dentro de sus procesos, haciéndolo previamente del conocimiento de la Secretaría mediante un Plan de Manejo para dichos insumos, el cual estará basado en la minimización de sus riesgos.
+Los residuos de manejo especial, podrán ser transferidos a industrias para su utilización como insumos dentro de sus procesos, haciéndolo previamente del conocimiento de la Secretaría mediante un Plan de Manejo para dichos insumos, el cual estará basado en la minimización de sus riesgos.
 
 ###### Artículo 173.
 
@@ -2355,7 +2367,7 @@ V. La instalación de plantas de tratamiento térmico de residuos;
 
 VI. La operación, ubicación y manejo integral de los rellenos sanitarios, conforme a las Normas Oficiales Mexicanas y demás ordenamientos aplicables;
 
-VII. La recolección, trasporte (sic), reciclaje, reuso y disposición final de los residuos de manejo especial;
+VII. La recolección, trasporte, reciclaje, reuso y disposición final de los residuos de manejo especial;
 
 VIII. La operación de los vehículos recolectores de residuos sólidos urbanos cuando presten el servicio a mas de dos Municipios y de manejo especial que circulen en el Estado;
 
@@ -2401,9 +2413,9 @@ En caso de que se detecten irregularidades o violaciones en el manejo de los res
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-###### ARTÍCULO 181
+###### ARTÍCULO 181 Bis.
 
-Bis.- Tratándose de llantas o neumáticos nuevos o previamente utilizados por vehículos automotores o de otra índole se procurará su reutilización, de forma total o parcial, en los procesos productivos o industriales, así como en las aplicaciones que no impliquen un riesgo ambiental, evitándose su aprovechamiento mediante métodos de incineración, privilegiando su reutilización o reciclaje a través de los sistemas mecánicos de corte o análogos.
+Tratándose de llantas o neumáticos nuevos o previamente utilizados por vehículos automotores o de otra índole se procurará su reutilización, de forma total o parcial, en los procesos productivos o industriales, así como en las aplicaciones que no impliquen un riesgo ambiental, evitándose su aprovechamiento mediante métodos de incineración, privilegiando su reutilización o reciclaje a través de los sistemas mecánicos de corte o análogos.
 
 En su caso deberán ser debidamente confinados en los sitios de disposición final autorizados.
 
@@ -3414,3 +3426,7 @@ Segundo: El reglamento o demás ordenamientos respectivos a los que hace menció
 P.O. 3 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 13 DE MAYO DE 2015.
+
+Único: El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
