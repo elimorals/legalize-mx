@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-02-17"
+last_updated: "2015-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -7215,7 +7215,7 @@ La Secretaría de Transporte elaborará y comunicará a los concesionarios, form
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
 #### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
 
@@ -7521,13 +7521,9 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 ###### Artículo 8.
 
-3.- Son autoridades para la aplicación de este Libro la Secretaría de Seguridad Ciudadana y los municipios.
+3.- Son autoridades para la aplicación de este Libro la Comisión Estatal de Seguridad Ciudadana y los municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-Corresponde a la Secretaría de Seguridad Ciudadana ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
+Corresponde a la Comisión Estatal de Seguridad Ciudadana ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y de cuota, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
 ## TÍTULO TERCERO. De los Estacionamientos de Servicio al Público
 
@@ -7579,11 +7575,11 @@ IV. Las tarifas autorizadas por la autoridad competente, que por concepto de tra
 
 9.- Los lugares para el estacionamiento de vehículos en las vías locales serán fijados por las autoridades de tránsito municipal, cuidando en todo momento que no se interrumpa el flujo vehicular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-10.- Son facultades de la Secretaría de Seguridad Ciudadana y de los municipios:
+10.- Son facultades de la Comisión Estatal de Seguridad Ciudadana y de los municipios:
 
 I. Promover la aplicación de programas de educación vial para peatones, conductores y pasajeros;
 
@@ -7771,13 +7767,11 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 17 Bis.- Se prohíbe el abandono de vehículos en la infraestructura vial y en estacionamientos de servicio al público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-17 Ter.- Corresponde a la Secretaría de Seguridad Ciudadana el retiro de los vehículos que se encuentren abandonados en la infraestructura vial y en estacionamientos de servicio al público, debiendo remitirlos al depósito vehicular más cercano.
+17 Ter.- Corresponde a la Comisión Estatal de Seguridad Ciudadana el retiro de los vehículos que se encuentren abandonados en la infraestructura vial y en estacionamientos de servicio al público, debiendo remitirlos al depósito vehicular más cercano.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7811,21 +7805,17 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 17 Septies.- El permisionario estará obligado a consultar al menos los sistemas de vehículos robados REPUVE, Sistema Estatal y OCRA virtual en caso de vehículos que hayan permanecido por más de tres días sin que su propietario, poseedor o conductor se haya presentado a retirarlo, si de la consulta se advierte que el vehículo tiene reporte de robo, deberá comunicarlo de inmediato a la Fiscalía Especializada para la Atención de Delitos de Robo de Vehículos de la Procuraduría General de Justicia del Estado de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-17 Octies.- Transcurrido el plazo establecido los permisionarios informarán a la Secretaría de Seguridad Ciudadana cuando algún vehículo haya sido abandonado en el estacionamiento de servicio al público.
+17 Octies.- Transcurrido el plazo establecido los permisionarios informarán a la Comisión Estatal de Seguridad Ciudadana cuando algún vehículo haya sido abandonado en el estacionamiento de servicio al público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-17 Nonies.- La Secretaría de Seguridad Ciudadana antes de retirar el vehículo abandonado para remitirlo al depósito vehicular más cercano, verificará si cuenta con reporte de robo para en su caso ponerlo a disposición de la Fiscalía Especializada.
+17 Nonies. La Comisión Estatal de Seguridad Ciudadana antes de retirar el vehículo abandonado para remitirlo al depósito vehicular más cercano verificará si cuenta con reporte de robo para, en su caso, ponerlo a disposición de la Fiscalía Especializada.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7913,13 +7903,13 @@ c) Los vehículos que transporten carga perecedera.
 
 d) Cuando lo establezcan las disposiciones reglamentarias, por lo que respecta al servicio de transporte público.
 
-> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2015)</small>
 
-III. Detener la marcha de cualquier vehículo cuando el conductor esté cometiendo alguna infracción a las disposiciones en materia de tránsito, procediendo a entregar el documento que emita el Sistema a que se refieren los reglamentos respectivos.
+III. Detener la marcha de cualquier vehículo cuando el conductor esté cometiendo alguna infracción a las disposiciones en materia de tránsito, procediendo a entregar el documento que emita el Sistema Tecnológico a que se refieren los reglamentos respectivos.
 
-> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2015)</small>
 
-IV. Imponer la infracción correspondiente, que deberá registrarse en la base de datos única, a cargo de la Secretaría de Seguridad Ciudadana.
+IV. Imponer la infracción correspondiente que deberá registrarse en la base de datos única, a cargo de la Comisión Estatal de Seguridad Ciudadana.
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
@@ -7927,7 +7917,7 @@ Para garantizar el pago de las sanciones con motivo de las infracciones, las aut
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 8.
 
@@ -7953,7 +7943,9 @@ III. Entregar un ejemplar del comprobante de los resultados de la prueba al cond
 
 IV. Presentar de inmediato, ante el Oficial Calificador correspondiente, al conductor que presente una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, o de alcohol en aire espirado superior a 0.4 miligramos por litro. Así como, a entregar un ejemplar del comprobante de los resultados de la prueba al Oficial Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol u otra sustancia tóxica encontrada y servirá de base para el dictamen del Médico adscrito a la Oficialía Calificadora que determine el tiempo probable de recuperación;
 
-V. Informar de inmediato a la Secretaría de Transporte del Estado de México, de las infracciones a las disposiciones reglamentarias de tránsito, para que se registren en la correspondiente base de datos; y
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2015)</small>
+
+V. Informar a la Secretaria de Movilidad del Estado de México de las infracciones (sic) las disposiciones reglamentarias de tránsito, para que se registren en la correspondiente base de datos.
 
 VI. Remitir al depósito más cercano el vehículo para su resguardo.
 
@@ -7965,11 +7957,23 @@ Para el caso de que el conductor vaya acompañado de algún familiar o persona s
 
 19 Quáter.- Se prohíbe el abandono de vehículos, tráileres, autobuses y cualquier tipo de remolques en la infraestructura vial.
 
-Corresponde a la Secretaría de Seguridad Ciudadana o en su caso, con la colaboración de los municipios, el retiro de los vehículos, tráileres, autobuses y cualquier tipo de remolques que evidentemente o notoriamente se encuentren abandonados en la infraestructura vial, debiendo de remitirlos al depósito vehicular más cercano concesionado por la Secretaría de Transporte. Entendiéndose por esto, a los vehículos, tráileres, autobuses y cualquier tipo de remolques que por sus características o condiciones físicas en las que se encuentren, han permanecido en ese lugar por más de treinta días naturales.
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
-Para efectos de lo anterior, la Secretaría de Seguridad Ciudadana, deberá cerciorarse que los vehículos, tráileres, autobuses y cualquier tipo de remolques, que se encuentren abandonados, no presenten reporte de robo.
+Corresponde a la Comisión Estatal de Seguridad Ciudadana o, en su caso, con la colaboración de los municipios, el retiro de los vehículos, tráileres, autobuses y cualquier tipo de remolques que evidentemente o notoriamente se encuentren abandonados en la infraestructura vial, debiendo de remitirlos al depósito vehicular más cercano concesionado por la Secretaría de Movilidad. Entendiéndose por esto a los vehículos, tráileres, autobuses y cualquier tipo de remolques que por sus características o condiciones físicas en las que se encuentren han permanecido en ese lugar por más de treinta días naturales
+
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+
+Para efectos de lo anterior, la Comisión Estatal de Seguridad Ciudadana deberá cerciorarse que los vehículos, tráileres, autobuses y cualquier tipo de remolques, que se encuentren abandonados, no presenten reporte de robo.
 
 Los automotores y remolques que no tengan reporte de robo, que hayan sido remitidos al depósito vehicular con reporte de abandono y actualizados los supuestos correspondientes a que hace referencia el Libro Séptimo del Código Administrativo del Estado de México, serán sujetos del procedimiento de "la declaratoria de abandono y el procedimiento de enajenación".
+
+> <small>(ADICIONADO, G.G. 13 DE MAYO DE 2015)</small>
+
+###### Artículo 8.
+
+19 Quinquies. Las autoridades de tránsito podrán imponer sanciones por infracciones captadas mediante sistemas tecnológicos. Dichas sanciones deberán ser notificadas en el domicilio, que del cotejo de la matrícula arroje la base de datos correspondiente, cuando el vehículo se encuentre registrado en el Estado de México.
+
+Las notificaciones previstas en el presente artículo, se realizarán conforme a lo previsto en las disposiciones jurídicas aplicables.
 
 ###### Artículo 8.
 
@@ -8029,25 +8033,29 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito ante la autoridad competente en su caso, se procederá a la entrega de los vehículos, tráileres, autobuses y cualquier tipo de remolques, que hayan sido abandonados y remitidos al depósito vehicular correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-23.- Las sanciones impuestas por la Secretaría de Seguridad Ciudadana serán las siguientes:
+23. Las sanciones impuestas por la Comisión Estatal de Seguridad Ciudadana serán las siguientes:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 I. Multa de 50 a 100 días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir lo dispuesto en los artículos 8. 17 Sexies, 8.17 Septies y 8.17 Octies;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 II. Multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos correspondientes al arrastre, a quien infrinja lo dispuesto en el artículo 8.17 Bis.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-24.- En contra de las resoluciones que emitan la Secretaría de Seguridad Ciudadana y los municipios, procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+24. En contra de las resoluciones que emitan la Comisión Estatal de Seguridad Ciudadana y los municipios procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -10641,7 +10649,7 @@ XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, e
 
 8.- El Director General del IGECEM, además de las atribuciones que este Libro y otros ordenamientos le confieran en materia de información e investigación geográfica, estadística y catastral, tendrá las facultades y obligaciones siguientes:
 
-I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración, actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias, otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
+I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración; actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias; otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
 
 En el caso en que realice actos de transmisión o enajenación de dominio de bienes inmuebles deberá contar con la autorización previa del Consejo Directivo;
 
@@ -11039,7 +11047,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 44.- El IGECEM, tiene por objeto:
 
-I. Planear, crear, desarrollar, establecer, operar, resguardar, conservar y actualizar al Sistema Estatal, para apoyar el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+I. Planear, crear, desarrollar, establecer, operar, resguardar, conservar y actualizar ell Sistema Estatal, para apoyar al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
 
 II. Prestar el Servicio Estatal para satisfacer los requerimientos de información geográfica, estadística y catastral de las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, de los ayuntamientos y del público en general;
 
@@ -11833,7 +11841,7 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 ###### Artículo 16.
 
-21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecutivo del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigeñ{nte.
+21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecutivo del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12313,7 +12321,7 @@ II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o 
 
 III. Aquellos proveedores que, conforme al Registro que para tal efecto lleve la Contraloría, se encuentren en situación de incumplimiento respecto de otro u otros contratos de Proyecto o en términos de los Libros Décimo Segundo y Décimo Tercero de este Código, siempre y cuando el incumplimiento pudiere ocasionar la rescisión de dicho Contrato o que constantemente tenga un desempeño no deseable;
 
-IV. Aquéllas que estén sujetas a concurso de acreedores;
+IV. Aquellas que estén sujetas a concurso de acreedores;
 
 V. Aquellas que ya participen o cuyas afiliadas, subsidiarias o matrices ya participen en la licitación que corresponda;
 
@@ -16741,7 +16749,7 @@ DÉCIMO TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que s
 
 G.G. 18 DE DICIEMBRE DE 2014.
 
-DECRETO NÚMERO 367 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, VI, VIII Y XV DEL ARTÍCULO 1.1, LOS INCISOS A, C Y EL PRIMER PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 5.26, EL PRIMER PÁRRAFO, LAS FRACCIONES IV Y V DEL ARTÍCULO 5.37, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 5.38 DEL LIBRO QUINTO DENOMINADO “DEL ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO DE LOS CENTROS DE POBLACIÓN”, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 7.73, LA DENOMINACIÓN DEL LIBRO OCTAVO, EL ARTÍCULO 8.1, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8.3, LA DENOMINACIÓN DEL TÍTULO TERCERO Y LA DE SU CAPÍTULO SEGUNDO DEL LIBRO OCTAVO, LOS ARTÍCULOS 8.17 BIS, 8.17 TER, 8.17 QUÁTER, 8.17 QUINTUS, 8.17 SEXIES, 8.17 SEPTIES, 8.17 OCTIES, 8.17 NONIES, 8.17 DECIES, 8.17 UNDECIES, LOS ARTÍCULOS 8.23 Y 8.24, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18.20; SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 1.1, LA FRACCIÓN VI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5.37, UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL ACTUAL SEGUNDO PARA SER TERCERO AL ARTÍCULO 7.73, UN ÚLTIMO PPARRAFO AL ARTÍCULO 7.76; Y SE DEROGAN LAS FRACCIONES IX Y XII DEL ARTÍCULO 1.1, LOS ARTÍCULOS 2.37 BIS, 2.37 TER, LA FRACCIÓN VII BIS DEL ARTÍCULO 2.39, LOS ARTÍCULOS 2.47, 2.47 BIS, 2.47 TER, 2.47 QUÁTER, 2.48, 2.48 BIS, 2.48 TER, 2.48 QUÁTER, 2.48 QUINTUS, 2.48 SEXIES, 2.48 SEPTIES, 2.53 BIS, 2.53 TER, LA FRACCIÓN V DEL ARTÍCULO 2.72, EL ARTÍCULO 2.72 BIS, LA FRACCIÓN VII DEL ARTÍCULO 2.75, LOS ARTÍCULOS 8.17 DUODECIES, 8.17 TERDECIES, 8.17 QUÁTERDECIES, LA FRACCIÓN III DEL ARTÍCULO 8.18, Y LOS ARTÍCULOS 8.19 QUÁTER, 8.25, 8.26 Y 8.27, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+DECRETO NÚMERO 367 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, VI, VIII Y XV DEL ARTÍCULO 1.1, LOS INCISOS A, C Y EL PRIMER PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 5.26, EL PRIMER PÁRRAFO, LAS FRACCIONES IV Y V DEL ARTÍCULO 5.37, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 5.38 DEL LIBRO QUINTO DENOMINADO “DEL ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO DE LOS CENTROS DE POBLACIÓN”, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 7.73, LA DENOMINACIÓN DEL LIBRO OCTAVO, EL ARTÍCULO 8.1, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8.3, LA DENOMINACIÓN DEL TÍTULO TERCERO Y LA DE SU CAPÍTULO SEGUNDO DEL LIBRO OCTAVO, LOS ARTÍCULOS 8.17 BIS, 8.17 TER, 8.17 QUÁTER, 8.17 QUINTUS, 8.17 SEXIES, 8.17 SEPTIES, 8.17 OCTIES, 8.17 NONIES, 8.17 DECIES, 8.17 UNDECIES, LOS ARTÍCULOS 8.23 Y 8.24, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18.20; SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 1.1, LA FRACCIÓN VI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5.37, UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL ACTUAL SEGUNDO PARA SER TERCERO AL ARTÍCULO 7.73, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7.76; Y SE DEROGAN LAS FRACCIONES IX Y XII DEL ARTÍCULO 1.1, LOS ARTÍCULOS 2.37 BIS, 2.37 TER, LA FRACCIÓN VII BIS DEL ARTÍCULO 2.39, LOS ARTÍCULOS 2.47, 2.47 BIS, 2.47 TER, 2.47 QUÁTER, 2.48, 2.48 BIS, 2.48 TER, 2.48 QUÁTER, 2.48 QUINTUS, 2.48 SEXIES, 2.48 SEPTIES, 2.53 BIS, 2.53 TER, LA FRACCIÓN V DEL ARTÍCULO 2.72, EL ARTÍCULO 2.72 BIS, LA FRACCIÓN VII DEL ARTÍCULO 2.75, LOS ARTÍCULOS 8.17 DUODECIES, 8.17 TERDECIES, 8.17 QUÁTERDECIES, LA FRACCIÓN III DEL ARTÍCULO 8.18, Y LOS ARTÍCULOS 8.19 QUÁTER, 8.25, 8.26 Y 8.27, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -16786,3 +16794,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El Ejecutivo del Estado a través de la Secretaría de Comunicaciones deberá rendir a la Legislatura un informe de cada una de las operaciones que se realicen de conformidad con el contenido del presente Decreto y acreditando el cumplimiento señalado en la presente reforma.
+
+G.G. 13 DE MAYO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
