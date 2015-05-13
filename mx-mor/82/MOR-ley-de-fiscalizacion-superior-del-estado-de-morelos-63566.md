@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fiscalizacion-superior-del-estado-de-morelos-63566"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-01"
-last_updated: "2014-12-10"
+last_updated: "2015-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE AUDITORÍA Y FISCALIZACIÓN DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 13 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de octubre de 2008.
 
@@ -337,7 +339,7 @@ III. Abandonar y desatender reiteradamente sus obligaciones; y
 
 IV. No presentar en tiempo y forma, sin causa justificada, el informe de resultados de la revisión de las cuentas públicas.
 
-V. Utilizar o difundir en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y sus disposiciones reglamentarias. y (sic)
+V. Utilizar o difundir en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y sus disposiciones reglamentarias. y
 
 ###### Artículo 18.
 
@@ -1046,3 +1048,21 @@ P.O. 10 DE DICIEMBRE DE 2014.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 13 DE MAYO DE 2015.
+
+Primero. Remítase la presente Ley al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo. La presente Ley, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+Tercero. Se abroga la Ley de Fiscalización Superior del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4646, de fecha uno de octubre del año dos mil ocho y se derogan todas las disposiciones legales, reglamentarias o administrativas que se opongan a la presente Ley.
+
+Cuarto. Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Auditoría Superior de Fiscalización, pasarán a formar parte de la Entidad Superior de Auditoría y Fiscalización. Los trabajadores tendrán derecho a la indemnización de Ley, en caso de no utilizarse sus servicios en el nuevo órgano, de lo cual el Auditor General informará al Congreso oportunamente.
+
+Quinto. En un término máximo de noventa días hábiles siguientes al inicio de vigencia de la presente Ley, la Entidad Superior de Auditoría y Fiscalización deberá presentar al Congreso para su aprobación, el proyecto de Reglamento que regule el funcionamiento y atribuciones de la presente Ley. Mientras tanto, ejercerá sus atribuciones y competencias conforme a lo dispuesto por la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley y los ordenamientos vigentes en lo que no se contravengan, hasta la expedición del Reglamento correspondiente.
+
+Sexto. En un término máximo de noventa días hábiles siguientes al inicio de vigencia de la presente Ley, la Entidad Superior de Auditoría y Fiscalización deberá presentar al Congreso para su aprobación, el proyecto de Estatuto del Servicio Profesional de Auditoría que regulará el ingreso, permanencia, evaluación y promoción del personal que realiza la tarea de fiscalización.
+
+Séptimo. En términos del artículo séptimo transitorio del decreto numero dos mil sesenta y dos, por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, en materia de fortalecimiento del Órgano Superior de Fiscalización, relativo a la creación de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, los asuntos surgidos durante la vigencia de la Ley de Fiscalización Superior del Estado de Morelos y su Reglamento Interior, así como la revisión de las cuentas públicas y los procedimientos administrativos de responsabilidades continuarán tramitándose por la Entidad Superior de Auditoria y Fiscalización, en los términos de los referidos ordenamientos hasta su conclusión, aplicando en su caso, solo a petición de parte aquello que sea en beneficio de las Entidades Fiscalizadas respecto a la Ley de Auditoría y Fiscalización del Estado de Morelos;
+
+Octavo. La Entidad Superior deberá remitir los asuntos que se encuentren en el supuesto establecido por el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos; lo anterior conforme a lo dispuesto por los artículos 31, 32, 33 y 34 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
