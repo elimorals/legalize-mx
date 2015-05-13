@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2015-01-26"
+last_updated: "2015-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -2713,9 +2713,23 @@ Si el responsable es o hubiera sido servidor público de las Instituciones de Se
 
 Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos días multa, a quien falsifique el Certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
 
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+
 ###### Artículo 207.
 
-Se sancionará con uno a dos años de prisión y de doscientos a quinientos días multa, al servidor público de una institución de seguridad pública estatal o municipal, que dañe, altere, sustraiga, extravíe por negligencia o entregue a un tercero, fuera de los casos de revisión o de los previstos en las normas aplicables, los bienes, equipos y armas de fuego que les hayan asignado para el ejercicio de sus funciones.
+Al servidor público de una institución de seguridad pública estatal o municipal, que extravíe por negligencia, dañe, altere, sustraiga o entregue a un tercero, fuera de los casos de revisión o de los previstos en las normas aplicables, los bienes, equipos y armas de fuego que les hayan asignado para el ejercicio de sus funciones, se le aplicarán las siguientes penas:
+
+I. De radios o aparatos de comunicación, fornituras o cualquier otro bien o equipo: de seis meses a un año de prisión y de cien a doscientos días multa;
+
+II. De arma corta: de uno a dos años de prisión y de doscientos a cuatrocientos días multa;
+
+III. De arma larga: de dos a tres años de prisión y de trescientos a quinientos días multa.
+
+En todos los casos en que la conducta sea dolosa o reincidente, además de las penas señaladas se impondrá la destitución, cese o baja e inhabilitación para formar parte de una institución de seguridad pública.
+
+Si se trata de pluralidad de equipos o armas se impondrá un tanto más de la sanción.
+
+Se entiende por negligencia la falta de cuidado del sujeto activo sobre las armas, bienes o equipos puestos bajo su resguardo. El extravío por negligencia se sancionará en un rango de la pena mínima hasta la media de la señalada, pero si es reincidente será sancionada hasta con dos tercios de la máxima señalada.
 
 ###### Artículo 208.
 
@@ -2930,3 +2944,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. EI presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno", con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 13 DE MAYO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
