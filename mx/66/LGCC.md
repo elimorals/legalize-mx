@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2015-04-02"
+last_updated: "2015-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2015.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -174,7 +174,9 @@ V. Establecer procedimientos para realizar consultas públicas a la sociedad en 
 
 VI. Establecer, regular e instrumentar las acciones para la mitigación y adaptación al cambio climático, de conformidad con esta Ley, los tratados internacionales aprobados y demás disposiciones jurídicas aplicables, en las materias siguientes:
 
-a) Preservación, restauración, conservación, manejo y aprovechamiento sustentable de los recursos naturales, los ecosistemas terrestres y acuáticos, y los recursos hídricos;
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2015)</small>
+
+a) Preservación, restauración, conservación, manejo y aprovechamiento sustentable de los recursos naturales, los ecosistemas terrestres, acuáticos, marinos, costeros, islas, cayos, arrecifes y los recursos hídricos;
 
 b) Agricultura, ganadería, desarrollo rural, pesca y acuacultura;
 
@@ -1000,7 +1002,9 @@ XI. Promover, difundir y dictaminar en su caso, proyectos de reducción o captur
 
 XII. Promover el fortalecimiento de las capacidades nacionales de monitoreo, reporte y verificación, en materia de mitigación o absorción de emisiones;
 
-XIII. Difundir sus trabajos y resultados así como publicar un informe anual de actividades;
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2015)</small>
+
+XIII. Difundir sus trabajos y resultados así como publicar en el mes de septiembre un informe anual de actividades en la página de Internet prevista en el artículo 107 de esta Ley;
 
 XIV. Convocar a las organizaciones de los sectores social y privado, así como a la sociedad en general a que manifiesten su opinión y propuestas con relación al cambio climático;
 
@@ -1376,9 +1380,11 @@ El Fondo contará con un Comité Técnico presidido por la Secretaría de Medio 
 
 El Comité Técnico solicitará la opinión de la Comisión respecto de sus reglas de operación del Fondo y su presupuesto operativo, así como cualquier modificación que se realice a dichos instrumentos.
 
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2015)</small>
+
 ###### Artículo 86.
 
-El Fondo se sujetará a los procedimientos de control, auditoría, transparencia, evaluación y rendición de cuentas que establecen las disposiciones legales aplicables.
+El Fondo se sujetará a los procedimientos de control, auditoría, transparencia, evaluación y rendición de cuentas que establecen esta Ley y las disposiciones legales aplicables.
 
 ### CAPÍTULO VIII. REGISTRO
 
@@ -1554,9 +1560,11 @@ Los resultados de las evaluaciones deberán ser publicados en el Diario Oficial 
 
 Toda persona tendrá derecho a que las autoridades en materia de cambio climático, así como la Comisión, el Consejo y el Sistema de Información sobre el Cambio Climático pongan a su disposición la información que les soliciten en los términos previstos por las leyes.
 
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2015)</small>
+
 ###### Artículo 107.
 
-La Comisión, en coordinación con el Instituto Nacional de Geografía y Estadística y el INECC, deberá elaborar y desarrollar una página de Internet que incluya el informe anual detallado de la situación general del país en materia de cambio climático y los resultados de las evaluaciones de la Política Nacional de Cambio Climático. En dicha página de internet los particulares podrán revisar el inventario y el registro.
+La Comisión, en coordinación con el Instituto Nacional de Geografía y Estadística y el INECC, deberá elaborar y desarrollar una página de Internet que incluya el informe anual detallado de la situación general del país en materia de cambio climático, el informe anual de la Comisión que alude la fracción XIII del artículo 47 de esta Ley, las acciones que se llevaron a cabo con recursos del Fondo para el Cambio Climático, los recursos que anualmente se asignan en el Presupuesto de Egresos de la Federación a las dependencias que integran la Comisión para cumplir con las obligaciones de esta Ley y la forma en que se ejercieron; así como los resultados de las evaluaciones de la Política Nacional de Cambio Climático. En dicha página de Internet los particulares podrán revisar el inventario y el registro.
 
 ###### Artículo 108.
 
@@ -1707,3 +1715,15 @@ D.O.F. 29 DE DICIEMBRE DE 2014.
 D.O.F. 2 DE ABRIL DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación
+
+D.O.F. 13 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, FRACCIÓN XIII; 86 Y 107 DE LA LEY GENERAL DE CAMBIO CLIMÁTICO.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN VI DEL ARTÍCULO 7o. DE LA LEY GENERAL DE CAMBIO CLIMÁTICO.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
