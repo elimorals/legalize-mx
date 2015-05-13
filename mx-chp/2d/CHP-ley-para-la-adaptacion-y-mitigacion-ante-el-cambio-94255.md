@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-adaptacion-y-mitigacion-ante-el-cambio-94255"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-24"
-last_updated: "2013-04-24"
+last_updated: "2015-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY PARA LA ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 13 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de abril de 2013.
 
@@ -351,7 +353,7 @@ XIX. Secretaría General de Gobierno.
 
 La Comisión podrá invitar a otras dependencias a participar únicamente con voz, en los acuerdos y decisiones de los asuntos que tengan relación con su objeto.
 
-Los integrantes de la Comisión podrán designar a sus respectivos suplentes, quienes deberán contar con el nivel de Subsecretario o su equivalente; asimismo, deberán designar a una de sus unidades administrativas como el encargado (sic) de coordinar y dar seguimiento permanente a los trabajos de la Comisión.
+Los integrantes de la Comisión podrán designar a sus respectivos suplentes, quienes deberán contar con el nivel de Subsecretario o su equivalente; asimismo, deberán designar a una de sus unidades administrativas como el encargado de coordinar y dar seguimiento permanente a los trabajos de la Comisión.
 
 La Comisión podrá determinar los grupos de trabajo que deba crear o fusionar, además de los grupos obligatorios previstos en el artículo 16 del presente ordenamiento que determine la Comisión conforme a los procedimientos que se establezcan en su Reglamento.
 
@@ -361,7 +363,7 @@ Se podrá invitar a representantes de los grupos de trabajo y a representantes d
 
 La Comisión se reunirá en sesiones ordinarias por lo menos dos veces al año; pudiendo reunirse además en sesiones extraordinarias a convocatoria de su Presidente, o a petición de cualquiera de sus miembros, en los términos que se determine en su Reglamento Interior.
 
-Las decisiones de la Comisión serán tomadas, en principio, por consenso; en caso de no ser posible, por mayoría de votos (sic) simple y en caso de empate el Presidente contará con voto de calidad.
+Las decisiones de la Comisión serán tomadas, en principio, por consenso; en caso de no ser posible, por mayoría de votos simple y en caso de empate el Presidente contará con voto de calidad.
 
 ###### Artículo 16.
 
@@ -933,7 +935,7 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispu
 
 Artículo Cuarto.- La Secretaría de Medio Ambiente e Historia Natural propondrá al Ejecutivo del Estado, para su expedición, en un término de noventa días naturales contados a partir de la entrada en vigor de la presente ley, el proyecto de Reglamento de la misma.
 
-Artículo Quinto.- El Congreso del Estado, con el objeto de contar con una Comison (sic) legislativa que coordine las acciones en materia de Adaptación y Mitigación ante el Cambio Climático, deberá reformar su Ley Organica, para establecer dicha competencia a la actual Comisión de Ecologia.
+Artículo Quinto.- El Congreso del Estado, con el objeto de contar con una Comison legislativa que coordine las acciones en materia de Adaptación y Mitigación ante el Cambio Climático, deberá reformar su Ley Organica, para establecer dicha competencia a la actual Comisión de Ecologia.
 
 El Ejecutivo del Estado, dispondrá se publique, circule y se dé el debido cumplimiento a la presente Ley.
 
@@ -942,3 +944,15 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los veintitrés días del mes de abril del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2015.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicaciónen (sic) el PeriódicoOficial (sic) del Estado.
+
+Artículo Segundo.- Se abroga la Ley para la Adaptación y Mitigación ante el Cambio Climático en el Estado de Chiapas, publicada en el Periódico Oficial número 029, de fecha 24 de abril de 2013, mediante Decreto número 190.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Cuarto.- La Secretaría de Medio Ambiente e Historia Natural, propondrá al Ejecutivo del Estado para su expedición, en un término de noventa días naturales contados a partir de la entrada en vigor de la presente Ley, el proyecto de Reglamento de la misma.
