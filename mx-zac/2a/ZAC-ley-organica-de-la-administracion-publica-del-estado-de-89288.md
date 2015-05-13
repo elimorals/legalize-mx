@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-89288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-04"
-last_updated: "2015-04-11"
+last_updated: "2015-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de agosto de 2012.
 
@@ -64,6 +64,26 @@ El Titular del Ejecutivo del Estado contará con una Jefatura de Oficina, una Co
 ###### Artículo 4.
 
 La Unidad de Planeación es la encargada de apoyar al Titular del Poder Ejecutivo del Estado, en la conducción de la planeación y evaluación del desarrollo y en la integración, aprobación y seguimiento de los programas operativos anuales de las dependencias y entidades de la Administración Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2015)</small>
+
+La Unidad de Planeación tendrá entre otras las siguientes atribuciones:
+
+I. Normar, definir e implementar el Sistema Estatal de Planeación, documento en el cual se definirán las políticas de planeación de la administración pública;
+
+II. Coordinar el proceso de integración y elaboración del Plan Estatal de Desarrollo y sus programas derivados, así como del Informe de Gobierno.
+
+III. Definir así como evaluar sistemáticamente y de manera permanente las políticas públicas que implemente el Gobierno del Estado;
+
+IV. Normar el proceso de diseño e implementación de los programas y proyectos que elaboren las dependencias y, en su caso, aprobar los mismos;
+
+V. Presentar anualmente, a finales de cada año, un informe de la situación que guarda el desempeño de las dependencias de la administración pública estatal así como publicitar su desempeño;
+
+VI. Presentar, junto con la Secretaría de Infraestructura, en el transcurso de los primeros tres meses de cada año, el Programa Estatal de Obra;
+
+VII. Establecer mecanismos de coordinación institucional con los demás niveles de gobierno, y
+
+VIII. Las demás que les señalen las leyes y reglamentos vigentes, así como las que les encomiende el Gobernador del Estado.
 
 El Titular del Ejecutivo del Estado por conducto de la Unidad de Planeación, coordinará las actividades de planeación demográfica, geográfica y estadística del Estado.
 
@@ -1510,3 +1530,13 @@ Cuarto. En tanto se realizan los ajustes a la normatividad respectiva, las unida
 Quinto. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Gobernador del Estado expedirá el Reglamento Interior de la Secretaría del Zacatecano Migrante, así como las modificaciones a las disposiciones correspondientes, a efecto de adecuarlas a la presente reforma.
 
 Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan el presente Decreto.
