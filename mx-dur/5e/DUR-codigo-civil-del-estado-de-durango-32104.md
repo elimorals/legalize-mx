@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2014-12-28"
+last_updated: "2015-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2015.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -296,6 +296,10 @@ De las actas de nacimiento.
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ART. 54.- Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil ó solicitando la cooperación de éste en el lugar donde aquél se encuentre.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2015)</small>
+
+Todos los registros de nacimiento llevados a cabo en la Oficialía del Registro Civil, serán gratuitos. El Oficial del Registro Civil expedirá sin costo la primera copia certificada del acta de registro de nacimiento, hasta los 18 años incumplidos.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
 
@@ -5507,7 +5511,7 @@ ART. 1439.- El depósito en la Dirección General de Notarías se hará personal
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
-ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia expedida por el Director General de Notarías: "Recibí el pliego cerrado que el señor.... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el Director, poniéndose también al calce la firma del testador y de los testigos de identificación.
+ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia expedida por el Director General de Notarías: "Recibí el pliego cerrado que el señor... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el Director, poniéndose también al calce la firma del testador y de los testigos de identificación.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
@@ -9089,7 +9093,7 @@ I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que
 
 II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más,
 
-III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias.
+III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias,
 
 IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio y, a falta de éste, por decisión arbitral.
 
@@ -10510,3 +10514,9 @@ P.O. 28 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE MAYO DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponga (sic) a la presente.
