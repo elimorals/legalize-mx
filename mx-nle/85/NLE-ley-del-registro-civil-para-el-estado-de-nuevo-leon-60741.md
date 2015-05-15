@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2014-12-05"
+last_updated: "2015-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2015 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -785,6 +785,10 @@ Articulo Único,- El Presente Decreto entrará en vigor el 30 de septiembre de 2
 
 P.O. 5 DE DICIEMBRE DE 2014.
 
-(SIC) Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2015)</small>
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
 
 Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
