@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-crea-el-consejo-para-el-desarrollo-insular-del-94423"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-22"
-last_updated: "2013-05-22"
+last_updated: "2015-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY QUE CREA EL CONSEJO PARA EL DESARROLLO INSULAR DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 22 de mayo de 2013.
 
@@ -39,13 +39,17 @@ D E C R E T A:
 
 LEY QUE CREA EL CONSEJO PARA EL DESARROLLO INSULAR DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
+> <small>(REFORMADO, P. O. 15 DE MAYO DE 2015)</small>
+
 ###### Artículo 1.
 
-Se crea el Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo, como un órgano intergubernamental, de planeación, gestión y de colaboración para la generación de políticas públicas en las materias que afectan a las islas del Estado.
+Se crea el Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo, como un órgano de planeación, gestión y de colaboración para la generación de políticas públicas en las materias que afectan las islas del Estado.
+
+> <small>(REFORMADO, P. O. 15 DE MAYO DE 2015)</small>
 
 ###### Artículo 2.
 
-El Consejo tiene como principal objeto ser una instancia de interés público y beneficio social, que fortalecerá la planeación, promoción y gestión del desarrollo insular, contribuyendo a una adecuada coordinación intergubernamental para la conformación de estudios, planes, programas, proyectos, acciones dirigidas a resolver de manera oportuna, eficaz, eficiente y estratégica, aspectos prioritarios para el desarrollo integral y la competitividad de las regiones insulares, a través de los diferentes niveles de gobiernos competentes.
+El Consejo tiene como principal objeto ser una instancia de interés público y beneficio social, que fortalecerá la planeación, promoción y gestión del desarrollo insular, contribuyendo a una adecuada coordinación entre el Estado y las organizaciones de la sociedad civil para la conformación de estudios, planes, programas, proyectos, acciones dirigidas a resolver de manera oportuna, eficaz, eficiente y estratégica, aspectos prioritarios para el desarrollo integral y la competitividad de las regiones insulares, a través de los diferentes niveles de gobiernos competentes.
 
 ###### Artículo 3.
 
@@ -63,23 +67,27 @@ I.- Un Presidente, que será el Gobernador del Estado;
 
 II.- Los Presidentes Municipales de Lázaro Cárdenas, Isla Mujeres y Cozumel;
 
-III.- Un Secretario Técnico, que será el Secretario de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
 
-IV.- Seis vocales, que serán:
+III.- Un Secretario Técnico, que será el Secretario de Finanzas y Planeación;
 
-a. El Secretario de Hacienda;
+> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
 
-b. El Secretario de Turismo;
+IV.- Cinco vocales, que serán:
 
-c. El Secretario de Desarrollo Social;
+a) El Secretario de Turismo;
 
-d. El Director General de la Administración Portuaria Integral;
+b) El Secretario de Desarrollo Social e Indígena;
 
-e. El Secretario de Ecología y Medio Ambiente;
+e) El Director General de la Administración Portuaria Integral;
 
-f. El Presidente de la Comisión de Planeación y Desarrollo Económico del Poder Legislativo; y
+d) El Secretario de Ecología y Medio Ambiente;
 
-V.- Un representante de la sociedad civil a invitación del Presidente del Consejo, que durara en su cargo 2 años.
+e) El Presidente de la Comisión de Planeación y Desarrollo Económico del Poder Legislativo, y
+
+> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
+
+V.- Un representante de la sociedad civil y un representante de la iniciativa privada por cada municipio, a invitación de los presidentes municipales de Lázaro Cárdenas, Isla Mujeres y Cozumel que durarán en el cargo 2 años.
 
 Por cada vocal se podrá nombrar a un representante de nivel jerárquico inferior, a fin de que éstos los suplan cuando así se requiera. En ausencia del Presidente del Consejo, el Secretario Técnico asumirá sus funciones. Los cargos serán honoríficos y no remunerados.
 
@@ -89,9 +97,13 @@ Corresponderá al Consejo las siguientes atribuciones:
 
 I.- Impulsar los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de las regiones insulares y al mejoramiento de las condiciones de vida de sus habitantes;
 
-II.- Coordinar acciones de atención a los habitantes insulares, asegurando el autodesarrollo de sus regiones a través de la planeación y supervisión de programas;
+> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
 
-III.- Elaboración de proyectos de políticas públicas y proyectos de programas encaminados al desarrollo integral de las regiones insulares;
+II.- Coordinar acciones de atención a los habitantes insulares, asegurando el autodesarrollo de sus regiones y considerando su fragilidad y vulnerabilidad ante el cambio climático a través de la planeación y supervisión de programas;
+
+> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
+
+III.- Actuar como interlocutor de las instancias gubernamentales y las organizaciones de la sociedad civil y ser enlace con los organismos que tengan el mismo objetivo;
 
 IV.- Actuar como interlocutor de las instancias gubernamentales y las organizaciones sociales y ser enlace con los organismos que tengan el mismo objetivo;
 
@@ -194,3 +206,9 @@ M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORIA.
 EL SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL DEL ESTADO DE QUINTANA ROO.
 
 ING. ANDRES FLORENTINO RUIZ MORCILLO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P. O. 15 DE MAYO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
