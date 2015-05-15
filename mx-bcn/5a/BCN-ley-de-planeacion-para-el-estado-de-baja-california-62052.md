@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2013-08-30"
+last_updated: "2015-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -121,9 +121,9 @@ V.- El de inherencia, para salvaguardar en todo tiempo los principios y valores 
 
 VI.- De previsión, para fundamentar toda planeación en la investigación y estudios con horizonte de mediano y largo plazos, asegurando la sustentabilidad del desarrollo, y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
 
-VII.- El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres; la equidad de género, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
+VII.- El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres; la equidad de género, el desarrollo integral de los pueblos y comunidades indígenas, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
 
 ###### ARTÍCULO 5.
 
@@ -1106,3 +1106,7 @@ P.O. 30 DE AGOSTO DE 2013.
 PRIMERO.- las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Una vez que entren en vigor las presentes reformas, se otorgará un plazo de 60 días para la realización de modificaciones a los reglamentos respectivos en materia de planeación.
+
+P.O. 15 DE MAYO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
