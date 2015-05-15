@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2015-04-24"
+last_updated: "2015-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -387,11 +387,13 @@ Para la celebración de sesiones extraordinarias a solicitud de la mayoría de l
 
 PLAZO PARA CONVOCAR
 
-(REPUBLICADO, P.O. 27 DE ENERO DE 2006)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 29.
 
-La convocatoria para la celebración de las sesiones ordinarias, solemnes y extraordinarias, deberá notificarse por escrito a todos los integrantes del Ayuntamiento, por lo menos con 48 horas de anticipación, tratándose de sesiones ordinarias y solemnes, salvo en el caso de sesiones extraordinarias que serán doce horas de (sic) anticipadas.
+La convocatoria para la celebración de las sesiones ordinarias o solemnes, deberán ser notificados por escrito todos los integrantes del Ayuntamiento, por lo menos con 48 horas de anticipación; en 2 horas tratándose de sesiones extraordinarias, y en caso de encontrarse las 2/3 partes de los integrantes del Ayuntamiento podrá notificarse en cualquier tiempo, de manera excepcional atendiendo la urgencia de la misma.
+
+(REPUBLICADO, P.O. 27 DE ENERO DE 2006)
 
 El integrante del Ayuntamiento que no hubiere sido citado a una sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión a la que no fue citado, que se vuelvan a deliberar en su presencia, el o los acuerdos tomados en su ausencia.
 
@@ -997,7 +999,7 @@ IV. Las demás que el Cabildo les encomiende.
 
 COMISIÓN DE SALUD Y ASISTENCIA SOCIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 79.
 
@@ -1015,9 +1017,9 @@ III.- Dictaminar los proyectos de reglamentos, iniciativas de leyes o decretos, 
 
 IV.- Proponer al Cabildo políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes.
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
 
-V.- Supervisar que se apoye oportuna y adecuadamente a personas, grupos marginados, discapacitados y damnificados, con programas y recursos destinados a la asistencia social; y
+V.- Supervisar que se apoye oportuna y adecuadamente a personas, grupos marginados, Personas con Discapacidad y damnificados, con programas y recursos destinados a la asistencia social; y
 
 VI.- Las demás que el Ayuntamiento y este reglamento le encomienden.
 
@@ -1410,3 +1412,7 @@ P.O. 3 DE OCTUBRE DE 2014.
 P.O. 24 DE ABRIL DE 2015.
 
 ÚNICO.- Las presentes Reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MAYO DE 2015.
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
