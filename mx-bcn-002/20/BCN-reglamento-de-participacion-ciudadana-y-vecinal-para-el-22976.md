@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-participacion-ciudadana-y-vecinal-para-el-22976"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2001-12-14"
+last_updated: "2015-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA Y VECINAL PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE PARTICIPACION CIUDADANA Y VECINAL PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO DE PARTICIPACIÓN CIUDADANA Y VECINAL PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -123,7 +123,7 @@ V. Consulta Vecinal;
 
 VI. Audiencia Pública; y
 
-VIl. Sistema de Quejas, Denuncias y Sugerencias.
+VII. Sistema de Quejas, Denuncias y Sugerencias.
 
 ###### ARTÍCULO 5.
 
@@ -291,7 +291,9 @@ Podrán solicitar el plebiscito:
 
 I.- El Ayuntamiento, por acuerdo de la mayoría de sus integrantes; y
 
-II.- Los ciudadanos vecinos en el Municipio que representen cuando menos el 1% de los lectores de la Lista Nominal.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
+
+II.- Los ciudadanos vecinos en el Municipio que representen cuando menos el .5% de los electores de la Lista Nominal.
 
 ###### ARTÍCULO 23.
 
@@ -939,7 +941,7 @@ V.- Asistir a las sesiones del pleno y de las comisiones del Comité;
 
 VI.- Participar en los trabajos de las comisiones a las que pertenezcan;
 
-VIl.- Informar de su actuación a los vecinos que representan; y
+VII.- Informar de su actuación a los vecinos que representan; y
 
 VIII.- Las demás que éste ordenamiento les señale.
 
@@ -1114,3 +1116,9 @@ Las solicitudes que se presenten para la realización de plebiscito o referendum
 ###### ARTÍCULO QUINTO.
 
 Los Comités de Desarrollo Social registrados por DESOM y que actualmente funcionan, continuarán vigentes en los términos en que fueron conformados.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE MAYO DE 2015.
+
+ÚNICO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
