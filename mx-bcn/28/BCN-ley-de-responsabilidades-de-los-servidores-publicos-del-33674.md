@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2015-03-27"
+last_updated: "2015-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -419,11 +419,11 @@ En los casos en que el Gobernador del Estado, Diputados, Magistrados del Tribuna
 
 ### CAPÍTULO I. OBLIGACIONES Y PROHIBICIONES DEL SERVIDOR PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 46.
 
-Todo servidor público debe desempeñar su función, empleo, cargo o comisión observando siempre los principios de Legalidad, Honradez, Perspectiva de Equidad de Género, Lealtad, Imparcialidad y Eficiencia, actuando dentro del orden jurídico, respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California y las Leyes, Decretos y Acuerdos que de una y otra emanen.
+Todo servidor público debe desempeñar su función, empleo, cargo o comisión observando siempre los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, actuando dentro del orden jurídico, respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California y las Leyes, Decretos y Acuerdos que de una y otra emanen.
 
 En tal virtud, los servidores públicos tienen las siguientes obligaciones:
 
@@ -475,9 +475,17 @@ XIX. Tratándose de los servidores públicos señalados en la fracción III del 
 
 XX. Tratándose de servidores públicos pertenecientes al Sistema Educativo Estatal, cumplir las obligaciones previstas en los artículos 21, tercer párrafo del artículo 42 y segundo párrafo del artículo 56 de la Ley General de Educación; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
 
-XXI. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
+XXI. Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2015)</small>
+
+XXII. Hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la legislación respectiva, en el supuesto de que decida no aceptar o no cumplir las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2015)</small>
+
+XXIII. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -1088,3 +1096,7 @@ P.O. 13 DE MARZO DE 2015.
 P.O. 27 DE MARZO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MAYO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
