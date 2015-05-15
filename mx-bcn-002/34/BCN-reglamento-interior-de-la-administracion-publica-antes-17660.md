@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2015-03-20"
+last_updated: "2015-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1671,7 +1671,7 @@ La Dirección de Protección al Ambiente tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-l.- Las de orden ejecutivo que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente le confieren las disposiciones legales al municipio;
+I.- Las de orden ejecutivo que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente le confieren las disposiciones legales al municipio;
 
 II.- Determinar las políticas de utilización de uso del suelo para la preservación ecológica del municipio;
 
@@ -1701,7 +1701,7 @@ VIII.- Los demás asuntos que en la materia les concedan, otros ordenamientos le
 
 La Dirección de protección al ambiente para el cumplimiento de sus atribuciones contará con una coordinación administrativa y tendrá bajo su cargo los siguientes departamentos:
 
-l. Planeación y gestión ambiental;
+I. Planeación y gestión ambiental;
 
 II. Educación y difusión ambiental; y
 
@@ -1755,7 +1755,7 @@ V.- Coordinar las actividades del Centro de Educación Ambiental;
 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-VI.- Promover proyectos específicos de Educación Ambiental, a fin de desarrollar una conciencia Ambiental Pública y fomentar el conocimiento y cumplimiento de la reglamentación ambiental; (sic)
+VI.- Promover proyectos específicos de Educación Ambiental, a fin de desarrollar una conciencia Ambiental Pública y fomentar el conocimiento y cumplimiento de la reglamentación ambiental;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2453,7 +2453,7 @@ XV (SIC).-
 
 ARTICULO 106 BIS.- La Dirección de Comunicación Social, para el cumplimiento de sus atribuciones contará con una Subdirección de Comunicación Social, que tendrá como función principal auxiliar a la Dirección, supervisando las actividades del personal a su cargo, dando seguimiento a los lineamientos e instrucciones de la Dirección, a fin de dar cumplimiento a las actividades diarias; asimismo, realizará las siguientes funciones:
 
-l. Redactar y enviar cartas a diferentes Medios de Comunicación con el fin de promover eventos específicos.
+I. Redactar y enviar cartas a diferentes Medios de Comunicación con el fin de promover eventos específicos.
 
 II. Participar en la organización de eventos especiales que la Dirección asigne.
 
@@ -2469,7 +2469,7 @@ ARTICULO 106 TER.- La Subdirección de Comunicación Social para el cumplimiento
 
 1.- Coordinación de Medios e Información; la cual tendrá como funciones las de:
 
-l. Coordinar y difundir las actividades de la administración pública ante los medios de comunicación;
+I. Coordinar y difundir las actividades de la administración pública ante los medios de comunicación;
 
 II. Elaborar promocionales para televisión de las actividades de la administración pública municipal;
 
@@ -2485,7 +2485,7 @@ VII. Enviar la agenda del Presidente Municipal a los medios de comunicación.
 
 2.- Coordinación de Producción y Medios; la cual tendrá como funciones las de:
 
-l. Organizar y coordinar todas las actividades y proyectos que se desarrollan dentro de la producción audiovisual y de diseño gráfico;
+I. Organizar y coordinar todas las actividades y proyectos que se desarrollan dentro de la producción audiovisual y de diseño gráfico;
 
 II. Coordinar la producción y elaboración de guiones para spot publicitario de televisión, radio y videos informativos referentes a las actividades que promueve la Administración Pública Municipal;
 
@@ -2501,7 +2501,7 @@ VII. Vigilar el cumplimiento del programa operativo anual.
 
 3.- Coordinación de Redes sociales; la cual tendrá como funciones las de:
 
-l. Actualizar Información procedente de Comunicación Social;
+I. Actualizar Información procedente de Comunicación Social;
 
 II. Subir material gráfico y audiovisual relativo a actividades o campañas del Ayuntamiento;
 
@@ -2751,7 +2751,13 @@ XVIII.- Establecer coordinación y conjuntar esfuerzos con instituciones involuc
 
 XIX.- En el ejercicio de sus atribuciones y en el desarrollo de las actividades encomendadas, observar las disposiciones legales y reglamentarias que norman las funciones del consejo delegacional; y,
 
-XX.- Las demás que señalen las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
+
+XX.- Coadyuvar en los trabajos con la Dirección de Seguridad Pública Municipal, a efectos que en la demarcación que le corresponde, coordine esfuerzos para preservar la seguridad de los ciudadanos; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2015)</small>
+
+XXI.- Las demás que señalen las Leyes y Reglamentos.
 
 ###### ARTICULO 122.
 
@@ -3662,3 +3668,7 @@ SEGUNDO.- Dentro de los sesenta días siguientes a la entrada en vigor del prese
 P.O. 20 DE MARZO DE 2015.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2015.
+
+ÚNICO: LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR, AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
