@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-derechos-y-cultura-indigena-del-estado-de-baja-57503"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-26"
-last_updated: "2013-08-23"
+last_updated: "2015-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 26 de octubre de 2007.
 
@@ -55,9 +55,17 @@ La presente Ley tiene por objeto el reconocimiento, preservación y defensa de l
 
 Esta Ley reconoce los derechos colectivos, a los siguientes pueblos indígenas: Kiliwas, Kumiai, Pai pai, Cucapá y Cochimí, así como a las comunidades indígenas que conforman aquellos, los cuales habitaban en la región desde antes de la formación del Estado de Baja California, y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-Las comunidades indígenas pertenecientes a cualquier otro pueblo, procedentes de otro estado de la república y que residan temporal o permanentemente dentro del territorio del Estado de Baja California, podrán acogerse a esta ley.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2015)</small>
 
-La conciencia de su identidad indígena será criterio fundamental para determinar a quienes se aplican las disposiciones que sobre pueblos indígenas se establezcan en esta y otras Leyes de la materia.
+Las comunidades indígenas pertenecientes a cualquier otro pueblo, procedentes de otro estado de la república y que residan permanentemente dentro del territorio del Estado de Baja California, podrán acogerse a esta ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2015)</small>
+
+Esta Ley reconoce, a su vez, a las localidades enlistadas en el catálogo de comunidades indígenas que mediante Acuerdo General determine el Ejecutivo del Estado, con base en estudios técnicos y de campo del Instituto Nacional de Geografía y Estadística (INEGI), de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, (CDI) y del Consejo Estatal de Población, (CONEPO) que deberá emitir cada cinco años.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2015)</small>
+
+La conciencia de su identidad indígena será criterio fundamental para determinar a quiénes se aplican las disposiciones que sobre pueblos indígenas se establezcan en esta y otras Leyes de la materia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2013)</small>
 
@@ -209,7 +217,7 @@ VII. Apoyar las actividades productivas, mediante la orientación para el foment
 
 VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
 
-## TÍTULO CUARTO (SIC). TIERRAS, TERRITORIOS Y RECURSOS NATURALEZ
+## TÍTULO CUARTO (SIC). TIERRAS, TERRITORIOS Y RECURSOS NATURALES
 
 ### CAPÍTULO I. PROTECCIÓN DE LOS RECURSOS NATURALES
 
@@ -346,3 +354,9 @@ SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 23 DE AGOSTO DE 2013
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 15 DE MAYO DE 2015.
+
+PRIMERO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado contara con un plazo de 30 días para emitir el Acuerdo General a que hace referencia el artículo 2, cuarto párrafo, de la presente Ley.
