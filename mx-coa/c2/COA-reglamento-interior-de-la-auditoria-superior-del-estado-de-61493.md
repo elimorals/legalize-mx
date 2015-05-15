@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-auditoria-superior-del-estado-de-6149
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2010-12-17"
+last_updated: "2015-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 15 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 11 de abril de 2008.
 
@@ -1093,3 +1095,13 @@ P.O. 17 DE DICIEMBRE DE 2010.
 PRIMERO.- Envíese la presente reforma a la Comisión de Hacienda y Cuenta Pública del H. Congreso del Estado para los efectos a que se refiere la fracción I del Apartado B del artículo 62 de la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Reglamento Interior entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 11 de abril de 2008 y sus respectivas reformas.
