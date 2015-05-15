@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-otorgamiento-de-reconocimientos-51959"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-29"
-last_updated: "2014-12-26"
+last_updated: "2015-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,15 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTIMULOS, RECOMPENSAS Y ASCENSOS DE LA DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA -- ANTES REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTIMULOS, RECOMPENSAS Y ASCENSOS DE LA SECRETARIA DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA -- ANTES REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTIMULOS Y RECOMPENSAS DE LA SECRETARIA DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS, RECOMPENSAS Y ASCENSOS DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS Y RECOMPENSAS DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 2006.
 
-EL C. LIC. JULIO CESAR ARENAS RUIZ, SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTlCULOS 115 FRACCION II DE LA CONSTlTUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION EXTRAORDINARIA DE CABILDO CELEBRADA EL DlA 10 DE AGOSTO DEL AÑO 2006, SE TOMO EL SIGUIENTE:
+EL C. LIC. JULIO CESAR ARENAS RUIZ, SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION EXTRAORDINARIA DE CABILDO CELEBRADA EL DIA 10 DE AGOSTO DEL AÑO 2006, SE TOMO EL SIGUIENTE:
 
-A C U E R D O:.
+A C U E R D O:...
 
 Por lo anterior, se aprueba por el H. Ayuntamiento el siguiente: PUNTO DE ACUERDO.-
 
@@ -49,9 +49,9 @@ El Secretario Fedatario del XVIII Ayuntamiento de Ensenada
 
 LIC. JULIO CESAR ARENAS RUIZ
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2015)</small>
 
-REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS, RECOMPENSAS Y ASCENSOS DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA.
+REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS Y RECOMPENSAS DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
 ## TÍTULO PRIMERO. PREVENCIONES GENERALES
 
@@ -195,7 +195,9 @@ La Comisión tendrá las siguientes atribuciones:
 
 I. Conocer de los actos y conductas de los miembros de la Dirección que ameriten reconocimientos y condecoraciones;
 
-II. Establecer los mecanismos adecuados para la fijación, otorgamiento y entrega de reconocimientos, condecoraciones, estímulos, recompensas y ascensos, a través de un manual de procedimientos autorizado por la misma;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
+
+II. Establecer los mecanismos adecuados para la fijación, otorgamiento y entrega de reconocimientos, condecoraciones, estímulos y recompensas, a través de un manual de procedimientos autorizado por la misma;
 
 III. Autorizar los estímulos y recompensas que la comunidad desee otorgar a los miembros, en los términos de este reglamento;
 
@@ -205,9 +207,11 @@ V. Revisar y evaluar los expedientes de los aspirantes a recibir algún benefici
 
 VI. Dictar aquellos acuerdos relacionados al objeto del presente Reglamento;
 
-VII. Los demás que establezcan las leyes, Reglamentos y disposiciones aplicables al presente Reglamento:
+VII. Los demás que establezcan las leyes, Reglamentos y disposiciones aplicables al presente Reglamento;
 
-VIII. Otorgar, mediante acuerdo, los reconocimientos, condecoraciones, estímulos, recompensas y ascensos, a los miembros de la Dirección; y,
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
+
+VIII. Otorgar, mediante acuerdo, los reconocimientos, condecoraciones y estímulos a los miembros de la Dirección; y,
 
 IX. Las demás que otorgue el presente reglamento y otras disposiciones aplicables.
 
@@ -373,17 +377,17 @@ La Comisión para sustituir alguno de sus miembros, notificará al organismo que
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2015)</small>
 
 ###### Artículo 34.
 
-Los reconocimientos, condecoraciones, estímulos, recompensas y ascensos serán otorgados a aquellos Miembros que cumplan con los requisitos establecidos en el presente Reglamento, y con la mayoría de votos emitidos por la Comisión, de acuerdo a la evaluación realizada para tales efectos.
+Los reconocimientos, condecoraciones, estímulos y recompensas serán otorgados a aquellos miembros que cumplan con los requisitos establecidos en el presente Reglamento, y con la mayoría de votos emitidos por la Comisión, de acuerdo a la evaluación realizada para tales efectos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2015)</small>
 
 ###### Artículo 35.
 
-Los reconocimientos, condecoraciones, estímulos, recompensas y ascensos consistirán en: numerario, diplomas, medallas, menciones honoríficas, especie y/o días de descanso extraordinarios, los cuales tendrán las siguientes características:
+Los reconocimientos, condecoraciones, estímulos y recompensas consistirán en: numerario, diplomas, medallas, menciones honoríficas, especie y/o días de descanso extraordinarios, los cuales tendrán las siguientes características:
 
 I. NUMERARIO: Percepción económica distinta al salario mensual percibido por el Miembro;
 
@@ -391,19 +395,19 @@ II. DIPLOMA: Documento oficial, que establece la posesión de un privilegio o qu
 
 III. MEDALLA: Pieza grabada de carácter simbólico, concedida mediante una condecoración;
 
-IV. MENCIÓN HONORÍFICA: Documento que exprese los méritos o acciones específicas en la prestación del servicio de seguridad pública, que lleve a cabo el Miembro;
+IV. MENCIÓN HONORÍFICA: Documento que exprese los méritos o acciones especificas en la prestación del servicio de seguridad pública, que lleve a cabo el Miembro;
 
 V. ESPECIE: Bien mueble o inmueble que este dentro del comercio, y
 
-VI. DÍAS DE DESCANSO EXTRAORDINARIOS: Aquellos distintos a los días francos y vacaciones.
+VI. DIAS DE DESCANSO EXTRAORDINARIOS: Aquellos distintos a los días francos y vacaciones.
 
 En todo caso, la Comisión acordara su aplicación en lo particular.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2015)</small>
 
 ###### Artículo 36.
 
-La propuesta de aspirantes a recibir reconocimientos, condecoraciones, estímulos, recompensas y ascensos se realizaran por:
+La propuesta de aspirantes a recibir reconocimientos, condecoraciones, estímulos y recompensas se realizaran por:
 
 I. Cualquiera de los miembros de la Comisión;
 
@@ -411,17 +415,17 @@ II. El Subdirector de Policía y Tránsito o el Subdirector de Bomberos.
 
 III. El comandante de la zona o sector, así como en (sic) titular del departamento donde preste su servicio el aspirante;
 
-IV. El Delegado Municipal, donde preste su servicio el aspirante;
+IV. El Delegado Municipal, donde preste sus servicios el aspirante;
 
 V. Residentes de la comunidad, en donde preste su servicio el aspirante;
 
 VI. Los propios miembros que tengan la certeza de cubrir todos los requisitos exigidos y que se consideren con derecho de recibir un estímulo o recompensa.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2015)</small>
 
 ###### Artículo 36 Bis.
 
-A iniciativa del Director de Seguridad Pública Municipal se determinará (sic) los concursos de selección, con base en las vacantes al número de plazas a cubrir en cada grado, convocando a la Comisión Municipal de Estímulos, Recompensas, Condecoraciones y Ascensos para que lleve a cabo dicho procedimiento, de conformidad a lo establecido en el manual correspondiente.
+A iniciativa del Director de Seguridad Pública Municipal se determinará los concursos de selección, con base en las vacantes al número de plazas a cubrir en cada grado, convocando a la Comisión Municipal de Estímulos, Recompensas y Condecoraciones para que lleve a cabo dicho procedimiento, de conformidad a lo establecido en el manual correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -641,9 +645,9 @@ Cuando alguno de los sujetos a que se refiere el presente capítulo requiera del
 
 Los bienes deberán ser entregados a la Dirección, para ser integrados a la partida presupuestal correspondiente, dando cuenta de todos los movimientos generados en la misma a la Comisión, teniendo a cargo su administración y disposición.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO, P.O. 15 DE MAYO DE 2015)</small>
 
-### CAPÍTULO VII. DE LOS ASCENSOS
+### CAPÍTULO VII
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -665,7 +669,7 @@ Los ascensos tienen como finalidad:
 
 I.- Cubrir las vacantes que se generen en los cuadros orgánicos de las unidades:
 
-II.- Asegurar la profesionalización (sic) los Miembro de Policía y Tránsito Municipal.
+II.- Asegurar la profesionalización (sic) los Miembro (sic) de Policía y Tránsito Municipal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -998,3 +1002,7 @@ UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicac
 P.O. 26 DE DICIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MAYO DE 2015.
+
+ARTICULO TRANSITORIO. Para la revisión de asuntos relativos a los ascensos de los miembros de Seguridad Pública Municipal, se remite a los capítulos correspondientes a promoción, participación y escalafón en el Reglamento del Servicio de Carrera Profesional Policial de la Dirección de Seguridad Pública Municipal de Ensenada Baja California.
