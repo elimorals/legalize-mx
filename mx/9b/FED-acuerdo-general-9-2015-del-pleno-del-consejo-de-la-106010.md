@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2015-del-pleno-del-consejo-de-la-106010"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-24"
-last_updated: "2015-03-06"
+last_updated: "2015-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106010&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-19"
 
 ACUERDO GENERAL 9/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 24 de febrero de 2015.
 
@@ -227,7 +227,9 @@ Los requisitos que los aspirantes deben reunir al momento de la designación de 
 
 I. Los que establecen los artículos 108 y 113, párrafo segundo, de la Ley;
 
-II. Antigüedad de cuando menos cinco años en una o varias de las categorías de carrera judicial señaladas en las fracciones III a IX del artículo 110 de la Ley;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 22/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2015)</small>
+
+II. Antigüedad de cuando menos cinco años en una o varias de las categorías de carrera judicial señaladas en las fracciones III a X del artículo 110 de la Ley;
 
 III. Contar con nombramiento en la categoría de carrera judicial a la que va dirigida la convocatoria, aun cuando se encuentre de licencia o comisión para ocupar diverso cargo dentro del Poder Judicial de la Federación, y que reúnan el perfil señalado en el artículo 2 de este Acuerdo; en el entendido de que para permanecer en el concurso, deberán continuar en funciones en la o las categorías de que se trate durante todas las etapas del mismo, debiendo acreditar, mediante copia certificada, la prórroga del nombramiento signado por el titular del órgano jurisdiccional al que se encuentren adscritos.
 
@@ -617,7 +619,9 @@ a) En primer lugar, aplicará acciones afirmativas en materia de equidad, de acu
 
 b) En segundo lugar, tomará en cuenta la experiencia en la o las materias competencia de la categoría de juez concursada; y,
 
-c) En tercer lugar, atenderá a la antigüedad en las categorías de carrera judicial a que se refieren las fracciones III a IX de la Ley.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 22/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2015)</small>
+
+c) En tercer lugar, atenderá a la antigüedad en las categorías de carrera judicial a que se refieren las fracciones III a X de la Ley.
 
 Los concursantes que no alcancen la calificación mínima de ochenta puntos o más, no podrán ser designados en el cargo de juez de Distrito. Si no se alcanza a cubrir el número de plazas sujetas a concurso, se hará sólo la designación de las que correspondan, conforme al número de vencedores que hayan obtenido la calificación mínima requerida.
 
@@ -696,5 +700,11 @@ EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CO
 D.O.F. 6 DE MARZO DE 2015.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 15 DE MAYO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
