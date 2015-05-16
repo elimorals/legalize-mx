@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2013-10-15"
+last_updated: "2015-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE OCTUBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -449,9 +447,17 @@ VII. El Director General de Protección Civil;
 
 VIII. Un representante de los padres de familia;
 
-IX. Al menos un presidente municipal de uno de los municipios con mayor presencia indígena, y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
 
-X. Representantes magisteriales de las secciones sindicales en el Estado.
+IX. Al menos un presidente municipal de uno de los municipios con mayor presencia indígena;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
+
+X. Representantes magisteriales de las secciones sindicales en el Estado, y
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XI. El Presidente de la Comisión Estatal de Derechos Humanos, o la persona integrante de dicha Comisión que éste designe.
 
 ###### Artículo 22.
 
@@ -493,15 +499,13 @@ XIII. Las demás atribuciones que conforme a esta Ley y otras disposiciones apli
 
 Los comités de prevención y seguridad escolar son instancias de apoyo de las autoridades encargadas de aplicar la presente Ley, que interactúan con las distintas autoridades previstas en la misma, a través de su representante.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2015)</small>
+
 ###### Artículo 25.
 
-En cada escuela de educación pública dependiente de la Secretaría de Educación, se constituirá un Comité de Prevención y Seguridad Escolar.
+En todas las instituciones educativas que integren el Sistema Educativo Estatal, se constituirá un Comité de Prevención y Seguridad Escolar.
 
-Las escuelas particulares de educación básica, media superior y superior, que cuenten con autorización y reconocimiento de validez oficial de estudios, otorgados por la Secretaría, respectivamente, se sujetarán a las disposiciones que ésta emita en la materia.
-
-En el caso de las instituciones de educación pública que dependan de la autoridad educativa federal, o de las universidades autónomas con domicilio en el Estado de San Luis Potosí, el poder Ejecutivo de la Entidad; por conducto de la Secretaría, podrá celebrar los convenios de colaboración necesarios para la aplicación de la presente Ley.
-
-En el caso de escuelas situadas en los municipios con presencia indígena, se realizarán las acciones necesarias para incluir la participación de la población indígena a fin (sic) respetar sus derechos.
+En el caso de escuelas situadas en los municipios con presencia indígena, se realizarán las acciones necesarias para incluir la participación de la población indígena a fin respetar sus derechos.
 
 ###### Artículo 26.
 
@@ -621,9 +625,15 @@ XIII. Fomentar el reconocimiento y respeto a la diversidad cultural y de pensami
 
 XIV. Promocionar la cultura de la no violencia en todas sus formas;
 
-XV. Fomentar los principios fundamentales en derechos humanos, y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
 
-XVI. Las demás acciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+XV. Fomentar los principios fundamentales en derechos humanos;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XVI. Solicitar a la Comisión Estatal de Derechos Humanos, previo cumplimiento de los requisitos que la misma Comisión establezca, el otorgamiento de la certificación como institución educativa libre de violencia escolar, y
+
+XVII. Las demás acciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 30.
 
@@ -790,3 +800,15 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las Instituciones de educación integrantes del Sistema Educativo Estatal, que no cuenten con sus respectivos comités de Prevención y Seguridad Escolar, deberán constituirlos dentro de los treinta días naturales siguientes a la fecha de entrada en vigor de este Decreto.
+
+TERCERO. La Comisión Estatal de Derechos Humanos, dentro de los cuarenta y cinco días naturales siguientes a la fecha de entrada en vigor de este Decreto, expedirá mediante acuerdo, las bases, lineamientos y requisitos que deberán observarse para la tramitación y otorgamiento de la certificación de institución educativa libre de violencia escolar.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
