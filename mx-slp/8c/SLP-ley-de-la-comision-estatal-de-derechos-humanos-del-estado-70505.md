@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2014-10-28"
+last_updated: "2015-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -155,7 +155,7 @@ I. Pro Persona;
 
 II. Pro Débil;
 
-III Equidad y No Discriminación;
+III. Equidad y No Discriminación;
 
 IV. Inmediatez;
 
@@ -355,9 +355,15 @@ XXI. Gestionar y recibir fondos de agencias donantes particulares y públicas, n
 
 XXII. Emitir las normas reglamentarias de esta Ley;
 
-XXIII. Elaborar y ejecutar programas preventivos en materia de Derechos Humanos, y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
 
-XXIV. Las demás que ésta u otras leyes o reglamentos le concedan.
+XXIII. Elaborar y ejecutar programas preventivos en materia de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XXIV. Otorgar por ciclo escolar a las instituciones de educación integrantes del Sistema Educativo Estatal que lo soliciten, previo cumplimiento de los requisitos que por acuerdo la misma Comisión establezca, la certificación como institución educativa libre de violencia escolar, y
+
+XXV. Las demás que ésta u otras leyes o reglamentos le concedan.
 
 Las facultades de la Comisión deben interpretarse siempre de manera amplia, de modo que prevalezca el interés superior de la victima de la violación de Derechos Humanos.
 
@@ -1668,3 +1674,13 @@ P.O. 28 DE OCTUBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 16 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las instituciones de educación integrantes del Sistema Educativo Estatal, que no cuenten con sus respectivos comités de Prevención y Seguridad Escolar, deberán constituirlos dentro de los treinta días naturales siguientes a la fecha de entrada en vigor de este Decreto.
+
+TERCERO. La Comisión Estatal de Derechos Humanos, dentro de los cuarenta y cinco días naturales siguientes a la fecha de entrada en vigor de este Decreto, expedirá mediante acuerdo, las bases, lineamientos y requisitos que deberán observarse para la tramitación y otorgamiento de la certificación de institución educativa libre de violencia escolar.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
