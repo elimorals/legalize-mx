@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9643
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-26"
-last_updated: "2014-11-15"
+last_updated: "2015-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de octubre de 2013.
 
@@ -83,7 +83,9 @@ II. Congreso: El H. Congreso del Estado de Colima;
 
 III. Constitución: La Constitución Política del Estado Libre y Soberano de Colima;
 
-IV. Datos personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo, concerniente a una persona física, identificada o identificable entre otras; la relativa a su origen étnico o racial o que esté referida a las características físicas, morales o emocionales; a su vida afectiva y familiar; como el domicilio, número telefónico, cuenta personal de correo electrónico, patrimonio, ideología y filiación política, creencias o convicciones religiosas o filosóficas; los estados de salud físicos o mentales, las preferencias sexuales, la huella digital, el ADN, el número de seguridad social, Clave Única del Registro de Población y otras análogas que afecten su intimidad;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
+
+IV. Datos personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo, concerniente a una persona física, identificada o identificable entre otras; la relativa a su origen étnico o racial o que esté referida a las características físicas, morales o emocionales; a su vida afectiva y familiar; como el domicilio, número telefónico, cuenta personal de correo electrónico, patrimonio, con la salvedad contemplada en el segundo párrafo del artículo 49 de esta Ley, ideología y filiación política, creencias o convicciones religiosas o filosóficas; los estados de salud físicos o mentales, las preferencias sexuales, la huella digital, el ADN, el número de seguridad social, Clave Única del Registro de Población y otras análogas que afecten su intimidad;
 
 V. Datos sensibles: Los datos personales que revelan origen racial y étnico, opiniones políticas, convicciones religiosas, filosóficas o morales, afiliación sindical e información referente a la salud o a la vida sexual, o características genéticas, así como cualquier dato inherente a la esfera más íntima de su titular o que pueda dar origen a discriminación;
 
@@ -247,9 +249,9 @@ III. El directorio de servidores públicos, desde el nivel de jefe de departamen
 
 IV. La remuneración mensual bruta y neta por puesto, que incluya los niveles que se otorgan a todos los servidores públicos que presten sus servicios por sueldos o por honorarios, incluyendo todas las prestaciones, remuneraciones y sistemas de compensación, así como cualquier otro ingreso que perciban por el desempeño de sus funciones;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
 
-V. El perfil de los puestos de los servidores públicos a su servicio y el currículum de quienes ocupan esos puestos, siempre que se cuente con el consentimiento del interesado, por tratarse de datos personales;
+V. El perfil de los puestos de los servidores públicos a su servicio, el curricular de quienes ocupan esos puestos, siempre que se cuente con el consentimiento del interesado, por tratarse de datos personales, y su declaración patrimonial;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
@@ -922,6 +924,10 @@ No se considerará información confidencial:
 I. La que por disposición de una ley se encuentre en registros públicos o fuentes de acceso público, en cuyo caso se hará saber al solicitante la fuente, el lugar y la forma en que puede consultar esta información; y
 
 II. Aquella que por ley tenga el carácter de pública.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
+
+La declaración patrimonial a que se refiere la fracción V del artículo 13 de esta Ley cuando el servidor público, derivado de su encargo ejerza recursos públicos o programas de cualquier índole que represente el manejo o destino de recursos públicos.
 
 ###### Artículo 50.
 
@@ -1784,3 +1790,7 @@ P.O. 15 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 La presente Reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
