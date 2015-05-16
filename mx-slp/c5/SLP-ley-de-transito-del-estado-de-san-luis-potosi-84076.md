@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2015-04-18"
+last_updated: "2015-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -33,7 +33,7 @@ DECRETO 759
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS...
 
 Finalmente, la presente Ley con un lenguaje sencillo y alejado de tecnicismos legales, establece los diferentes aspectos que debe encuadrar la normatividad vial, para cumplir con su propósito de ordenar este tipo de circulación en calles y avenidas de nuestro Estado, en el contexto referido de incremento sostenido e intenso de vehículos automotores. Esta situación guarda particular relevancia cuando se pone en la necesidad no sólo de adecuar las disposiciones legales para hacer más eficiente la gestión de servicio municipal de tránsito, sino, sensiblemente, cuando se garantizan los derechos de los peatones y especialmente los de las personas con discapacidad, cuya protección se encuentra debidamente establecida dentro del articulado de esta Norma, y en la cual se mantienen grandes expectativas de que sea el sedimento de una nueva cultura de respeto al peatón y a las personas con discapacidad.
 
@@ -376,6 +376,10 @@ b) Pesados con más de 3,500 kilogramos:
 ###### ARTICULO 18.
 
 Todo vehículo que transite por la vía pública deberá encontrarse en condiciones satisfactorias de funcionamiento, y provisto de los dispositivos que exige la presente Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
+
+Con la finalidad de prever congestionamientos viales, daños a la infraestructura de las vías de comunicación, y riesgos a la población, los ayuntamientos dispondrán en sus reglamentos de tránsito, las restricciones para la circulación de vehículos pesados en las vías y horarios que determinen.
 
 ###### ARTICULO 19.
 
@@ -1430,6 +1434,12 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 18 DE ABRIL DE 2015.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 980.- REFORMAS Y ADICIONES DE Y A LA LEY DE TRÁNSITO DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
