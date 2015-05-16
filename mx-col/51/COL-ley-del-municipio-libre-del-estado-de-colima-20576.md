@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2015-01-31"
+last_updated: "2015-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 31 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -245,9 +243,17 @@ XII. Aceptar los cargos para formar parte de los concejos municipales;
 
 XIII. Participar en los asuntos que así le competan en torno a las acciones emprendidas por el ayuntamiento;
 
-XIV. Salvaguardar y enriquecer el equilibrio del medio ambiente, evitando su contaminación, deterioro y destrucción; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
 
-XV. Las demás que determinen esta Ley, los reglamentos, bandos municipales y otras disposiciones legales aplicables.
+XIV. Salvaguardar y enriquecer el equilibrio del medio ambiente, evitando su contaminación, deterioro y destrucción;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XV. Conservar limpios de residuos de construcción, maleza y residuos sólidos, las construcciones deshabitadas y los predios baldíos de su propiedad; y
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XVI. Las demás que determinen esta ley, los reglamentos, bandos municipales y otras disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LA CREACIÓN Y FUSIÓN DE MUNICIPIOS
 
@@ -1299,6 +1305,14 @@ IV. Mediante convenios de asociación y coordinación que suscriba con otros ayu
 
 A falta del convenio a que se refiere la fracción IV del artículo anterior, el ayuntamiento podrá solicitar que el Congreso, mediante estudio técnico, declare que el municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el ejecutivo del Estado la ejerza o lo preste.
 
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
+
+ARTICULO 88 BIS.- El saneamiento y limpieza de construcciones deshabitadas, y lotes baldíos comprendidos dentro de las zonas urbana y rural es obligación de sus propietarios o poseedores.
+
+Cuando no se cumpla esta disposición, la autoridad municipal correspondiente, notificará por cualquier medio indubitable al propietario o poseedor del inmueble, para requerirle que debe proceder a la limpieza del mismo dentro de un término máximo de ocho días hábiles, apercibiéndolo que en caso de incumplimiento se hará cargo de ello personal autorizado del Ayuntamiento, cubriendo el propietario los derechos de este servicio de acuerdo a la Ley de Hacienda del Municipio de que se trate, sin perjuicio de la aplicación de las multas a que se haga acreedor.
+
+Los Ayuntamientos deberán establecer y desarrollar en su reglamento correspondiente el procedimiento que establece el párrafo anterior de este artículo, respetando la garantía de audiencia de los ciudadanos requeridos, el derecho de propiedad privada y estableciendo la hipótesis en que se puede notificar personalmente al propietario o poseedor, como cuando se ignore su domicilio, el de su representante, o se encuentre fuera del territorio municipal.
+
 ### CAPÍTULO III. DE LOS CONVENIOS DE ASOCIACIÓN Y COORDINACIÓN
 
 ###### ARTICULO 89.
@@ -1980,3 +1994,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Diez Ayuntamientos integrantes del Estado contarán con un plazo de 60 días para adecuar su reglamentación respectiva a lo establecido por el presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se contrapongan al contenido del presente decreto.
+
+P.O. 16 DE MAYO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los ayuntamientos del Estado, contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente y establecer el procedimiento para el saneamiento y limpia de construcciones deshabitadas y lotes baldíos en los términos que establece este Decreto.
