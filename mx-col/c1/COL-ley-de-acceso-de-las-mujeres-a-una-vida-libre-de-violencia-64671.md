@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2013-01-26"
+last_updated: "2015-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -381,6 +381,62 @@ c).- El diseño e instrumentación de políticas públicas que eviten la comisi�
 
 d).- La verificación de los hechos y la publicidad de la verdad.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE MAYO DE 2015)</small>
+
+#### SECCIÓN SEXTA. VIOLENCIA OBSTÉTRICA
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
+
+ARTÍCULO 30 BIS.- La violencia obstétrica es toda acción u omisión por parte del personal de salud, que atenta contra el derecho a la no discriminación, a la salud, la integridad física, la igualdad y la privacidad, especialmente en lo que ve a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía para ejercerlos de manera informada; así como el abuso de medicalización y patologización de los procesos naturales; trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, un daño físico o psicológico, o la muerte de la madre o del producto.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
+
+ARTÍCULO 30 BIS 1.- Se consideran actos de violencia obstétrica, los siguientes:
+
+I. La negativa, el retraso o la omisión injustificada de brindar atención médica oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas;
+
+II. El trato deshumanizado, denigrante, discriminatorio o negligente cuando una mujer solicita asesoramiento o requiere atención durante el embarazo, el parto o el puerperio;
+
+III. Alterar el proceso natural del parto de bajo riesgo mediante técnicas de aceleración o de inducción al trabajo de parto normal, o la ruptura artificial de las membranas con el solo motivo de aprontar el parto;
+
+IV. El uso irracional de procedimientos médicos como la episiotomía;
+
+V. Practicar el parto por vía cesárea existiendo condiciones para el parto natural; sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+VI. Imponer de manera coercitiva o sin el consentimiento informado algún método anticonceptivo, ya sea temporal o permanente, especialmente durante la atención del parto;
+
+VII. Negarse a administrar analgésicos cuando no existe impedimento médico para ello;
+
+VIII. Obligar a la mujer a parir en una posición en específico, cuando existan los medios técnicos para que lo realice en la posición que ella elija;
+
+IX. Obstaculizar sin causa médica justificada el apego precoz del recién nacido con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
+
+X. Acosar o presionar psicológicamente o con el manejo del dolor a una mujer en labor de parto con el fin de inhibir la libre decisión de su maternidad o coaccionar para obtener su consentimiento;
+
+XI. Negarse a proporcionar a la mujer información respecto de los procedimientos médicos y quirúrgicos, o manipular la información para obtener su consentimiento;
+
+XII. Utilizar a la mujer como recurso didáctico sin su consentimiento y sin ningún respeto a su dignidad humana y derecho a la privacidad;
+
+XIII. Retener a la mujer o al recién nacido en los centros de salud o instituciones análogas debido a su incapacidad de pago; y
+
+XIV. Cualquier otro análogo que, atente contra la autonomía de las mujeres a ejercer sus derechos reproductivos y sexuales, les niegue el acceso a la salud reproductiva de calidad durante el embarazo, el parto y el puerperio, y el derecho a la información respecto de los procedimientos médicos y quirúrgicos a los que están expuestas.
+
+No se considerará que existan actos de violencia obstétrica cuando, en los casos de las fracciones III, IV, V, VI, y XII se obtenga el consentimiento previo voluntario, expreso e informado de la mujer.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
+
+ARTÍCULO 30 BIS 2.- Son obligaciones de los profesionales de la salud en relación a la prevención y erradicación de la violencia obstétrica:
+
+I. Realizar la atención médica a la madre durante el embarazo y parto con apego irrestricto a los derechos humanos, la igualdad de género y el respeto a sus derechos reproductivos;
+
+II. La atención a la mujer durante el embarazo, parto y puerperio, y el recién nacido debe ser impartida con calidad y calidez en la atención;
+
+III. Abstenerse de realizar algún acto de violencia obstétrica;
+
+IV. Informar a la mujer de cualquier procedimiento médico o quirúrgico que deba practicarse en razón de su estado de gravidez, las razones médicas por las que se recomienda, las consecuencias o efectos secundarios, así como los riesgos e imprevistos que pudieren presentarse, y demás información necesaria; y
+
+V. Denunciar los actos de violencia obstétrica de los que tenga conocimiento por motivo de su actividad profesional.
+
 #### SECCIÓN PRIMERA. DEL TITULAR DEL EJECUTIVO DEL ESTADO
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
@@ -390,32 +446,6 @@ d).- La verificación de los hechos y la publicidad de la verdad.
 #### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
 #### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
-
-#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
-
-ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social del Estado:
-
-I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
-
-II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
-
-III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
-
-IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
-
-V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
-
-VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-IX. Promover acciones para prevenir, atender y erradicar el hostigamiento sexual en el ámbito laboral; y
-
-X. Las demás previstas para el cumplimiento de la presente ley.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA
 
@@ -703,7 +733,31 @@ El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, pro
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A LAS RECEPTORAS
 
-#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
+
+ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social del Estado:
+
+I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+IX. Promover acciones para prevenir, atender y erradicar el hostigamiento sexual en el ámbito laboral; y
+
+X. Las demás previstas para el cumplimiento de la presente ley.
 
 ###### ARTÍCULO 55.
 
@@ -749,9 +803,9 @@ XVII.- Celebrar convenios de cooperación, coordinación y concertación con los
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-#### SECCIÓN OCTAVA. DEL INSTITUTO
+#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 57.
 
@@ -789,7 +843,7 @@ XV.- Celebrar convenios de coordinación y concertación con la participación q
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
+#### SECCIÓN OCTAVA. DEL INSTITUTO
 
 ###### ARTÍCULO 58.
 
@@ -813,7 +867,7 @@ VIII.- Celebrar convenios de cooperación, coordinación y concertación en la m
 
 IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA. DEL CEPAVI
+#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
 
 ###### ARTÍCULO 59.
 
@@ -853,7 +907,7 @@ XVI.- Notificar en su calidad de garante en materia de violencia de género, a l
 
 XVII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
+#### SECCIÓN DÉCIMA. DEL CEPAVI
 
 ###### ARTÍCULO 60.
 
@@ -899,17 +953,41 @@ XIV.- Presentar las denuncias penales respectivas por los ilícitos de violencia
 
 XV.- Establecer programas temáticos sobre discriminación y violencia de género; y
 
-XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XVI.- Crear programas de capacitación y sensibilización para el personal del sector salud, en materia de Violencia contra las Mujeres y especialmente para la detección de éste tipo de actos contra las mismas y la erradicación de la violencia obstétrica en el ejercicio de su profesión;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XVII.- Erradicar del personal del área de salud, cualquier prejuicio que evite el ejercicio de los derechos reproductivos, así como cualquier práctica que lleve a la imposición coercitiva de métodos anticonceptivos;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XVIII.- Presentar las denuncias penales respectivas por los ilícitos de violencia intrafamiliar o sexual de las que tengan conocimiento, así como de aquellos ilícitos que sean consecuencia de la violencia obstétrica;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XIX.- Difundir e incentivar, en el sector salud y usuarios del servicio, al cumplimiento de los derechos reproductivos de la mujer, la prestación del servicio de salud dentro del marco de la equidad de género y el respeto a los derechos humanos y, la erradicación de la violencia obstétrica;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XX.- Establecer mecanismos de monitoreo que permitan visibilizar y sancionar la violencia obstétrica;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+XXI.- Asegurar la adecuada implementación de la NOM-007-SSA2-1993 mediante la difusión de su contenido y el monitoreo de su implementación y acatamiento por todos los profesionales de la salud; y
+
+XXII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
 #### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
 
 #### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 #### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
-
-#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
 
 ###### ARTÍCULO 61.
 
@@ -967,7 +1045,7 @@ XVII.- Elaborar y aplicar protocolos especializados con perspectiva de género e
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
+#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
 
 ###### ARTÍCULO 62.
 
@@ -1005,7 +1083,7 @@ XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
+#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
 
 ###### ARTÍCULO 63.
 
@@ -1050,6 +1128,8 @@ XIV.- Establecer una línea de atención telefónica que sirva de medio de infor
 XV.- Celebrar convenios de colaboración, coordinación y concertación en la materia; y
 
 XVI.- Las demás previstas para el cumplimiento de esta Ley.
+
+#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### ARTÍCULO 64.
 
@@ -1353,9 +1433,13 @@ IV.- Arresto hasta por 36 horas; y
 
 V.- Trabajo a favor de la comunidad.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 92.
 
-El procedimiento administrativo deberá iniciarse a petición del interesado y no procederá la gestión oficiosa, de conformidad con el Reglamento de la Ley y las demás disposiciones aplicables de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+El procedimiento administrativo deberá iniciarse a petición de la persona interesada y no procederá la gestión oficiosa, de conformidad con el Reglamento de la Ley y las demás disposiciones aplicables de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+
+Lo anterior no será aplicable en el caso de violencia obstétrica, cuando por consecuencia del procedimiento médico la interesada se encuentra en estado grave de salud, ha sufrido una lesión que la ha dejado imposibilitada física o mentalmente, o ha fallecido. En este caso la petición podrá hacerla cualquier persona que haya tenido conocimiento del hecho y procederá la gestión oficiosa, salvo que exista un representante legal o albacea designado.
 
 T R A N S I T O R I O S
 
@@ -1416,3 +1500,7 @@ P.O. 27 DE AGOSTO DE 2011.
 P.O. 26 DE ENERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
