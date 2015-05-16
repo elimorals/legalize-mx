@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2013-12-07"
+last_updated: "2015-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -459,9 +459,25 @@ VI. La planeación estatal en la materia deberá propiciar la programación del 
 
 VII. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las asimetrías entre las diferentes regiones del Estado, debiendo considerar obras, acciones o prácticas de sustentabilidad y armonía con lo social y el medio ambiente que procuren la mejoría de vida para los habitantes del medio rural.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 21.
 
-El programa sectorial que apruebe el Ejecutivo del Estado especificará los objetivos, prioridades, políticas, estimaciones de recursos presupuestales, así como los mecanismos de su ejecución, descentralizando en el ámbito municipal y regional la determinación de sus prioridades, así como de los mecanismos de gestión y ejecución con los que se garantice la amplia participación de los agentes de la sociedad rural.
+El programa sectorial que apruebe el Ejecutivo del Estado especificará, los objetivos, prioridades, políticas, estimaciones de recursos presupuestales, así como los mecanismos de su ejecución, descentralizando en el ámbito municipal y regional la determinación de sus prioridades, así como de los mecanismos de gestión y ejecución con los que se garantice la amplia participación de los agentes de la sociedad rural, involucrando para ello, a las instituciones de educación superior que lleven a cabo investigaciones en la materia, a efecto de incorporar sus aportaciones al programa.
+
+En materia de investigación científica y desarrollo tecnológico, deberán considerarse como prioritarios los siguientes aspectos:
+
+I. Establecimiento y/o reconversión de técnicas de cultivo;
+
+II. Investigación para la producción de semillas mejoradas;
+
+III. Multiplicación de las especies y variedades vegetales endémicas;
+
+IV. Desarrollo de metodologías para la solución de problemáticas en actividades agropecuarias;
+
+V. Impulso a la biotecnología, y
+
+VI. Las demás que se consideren de interés colectivo.
 
 ###### ARTÍCULO 22.
 
@@ -1134,3 +1150,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
