@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2014-11-29"
+last_updated: "2015-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -42,6 +42,8 @@ D E C R E T A
 ###### ARTÍCULO PRIMERO.
 
 Se expide la LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, para quedar redactada de la siguiente manera:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 868/2015 II P.O., PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2015, CUALQUIER DISPOSICIÓN CONSTITUCIONAL, LEGAL Y REGLAMENTARIA EN LA QUE SE HAGA REFERENCIA AL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁ EN LO SUBSECUENTE REFERIDA AL TRIBUNAL SUPERIOR DE JUSTICIA. ASÍ MISMO, LAS FUNCIONES, FACULTADES, DERECHOS Y OBLIGACIONES ESTABLECIDOS A CARGO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO, EN CONTRATOS, CONVENIOS O ACUERDOS, CELEBRADOS CON DEPENDENCIAS O ENTIDADES DEL GOBIERNO DEL ESTADO, DE LA FEDERACIÓN Y DE LOS MUNICIPIOS Y CUALQUIER PERSONA FÍSICA O MORAL, SE ENTENDERÁ QUE CORRESPONDEN AL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE CHIHUAHUA.</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
@@ -73,7 +75,9 @@ VII. Fondo: el Fondo Auxiliar para la Administración de Justicia.
 
 VIII. Instituto: el Instituto de Formación y Actualización del Poder Judicial del Estado.
 
-IX. Tribunal: el Supremo Tribunal de Justicia del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
+
+IX. Tribunal: el Tribunal Superior de Justicia del Estado de Chihuahua.
 
 X. Poder Judicial: el Poder Judicial del Estado de Chihuahua.
 
@@ -177,7 +181,9 @@ Cuando en esta Ley se haga referencia al salario mínimo, se tomará en cuenta e
 
 El Poder Judicial se integra y se ejerce, en sus respectivos ámbitos de competencia, por los órganos siguientes:
 
-I. Supremo Tribunal de Justicia, el cual se conforma por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2015)</small>
+
+I. Tribunal Superior de Justicia, el cual se conforma por:
 
 a. Pleno.
 
@@ -413,7 +419,9 @@ La falsedad del contenido de la declaración o la omisión de presentarla en los
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN JUDICIAL
 
-### CAPÍTULO PRIMERO. DEL SUPREMO TRIBUNAL DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MAYO DE 2015)</small>
+
+### CAPÍTULO PRIMERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 ###### ARTÍCULO 32.
 
@@ -551,9 +559,11 @@ Las determinaciones del Pleno deberán ser publicadas en el Periódico Oficial d
 
 ### CAPÍTULO TERCERO. DEL PRESIDENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 44.
 
-El Presidente del Supremo Tribunal de Justicia lo será también del Pleno y no integrará sala. Durará en su encargo cuatro años, concluyendo su ejercicio el cuatro de octubre del año que corresponda, con la posibilidad de ser reelecto. Su elección se hará de entre los magistrados, por mayoría de votos de los integrantes presentes del Pleno, en sesión que para ese único objeto se celebre el cinco de octubre del año en que corresponda la elección.
+El Presidente del Tribunal Superior de Justicia lo será también del Pleno y no integrará sala. Durará en su encargo cuatro años, concluyendo su ejercicio el cuatro de octubre del año que corresponda, con la posibilidad de ser reelecto. Su elección se hará de entre los magistrados, por mayoría de votos de los integrantes presentes del Pleno, en sesión que para ese único objeto se celebre el cinco de octubre del año en que corresponda la elección.
 
 El día de la elección y hasta antes de que se conozca el resultado de la misma, la Presidencia se ejercerá interinamente por el magistrado que corresponda, en el orden señalado en la fracción II, del artículo 260.
 
@@ -2950,3 +2960,11 @@ SEGUNDO.- Derogación tácita de preceptos incompatibles.
 Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
 
 TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+P.O. 16 DE MAYO DE 2015.
+
+PRIMERO.- Con relación al Artículo Primero del presente Decreto y conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o, en su caso, por la Diputación Permanente, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Cualquier disposición constitucional, legal y reglamentaria en la que se haga referencia al Supremo Tribunal de Justicia del Estado, se entenderá en lo subsecuente referida al Tribunal Superior de Justicia. Así mismo, las funciones, facultades, derechos y obligaciones establecidos a cargo del Supremo Tribunal de Justicia del Estado, en contratos, convenios o acuerdos, celebrados con dependencias o entidades del Gobierno del Estado, de la Federación y de los municipios, y con cualquier persona física o moral, se entenderá que corresponden al Tribunal Superior de Justicia del Estado de Chihuahua.
