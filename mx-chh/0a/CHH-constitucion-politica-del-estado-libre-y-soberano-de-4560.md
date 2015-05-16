@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-05-06"
+last_updated: "2015-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -513,11 +513,13 @@ El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecuti
 
 I.- El Legislativo, en una asamblea que se denominará "Congreso del Estado".
 
-II.- El Ejecutivo, en un funcionario con el nombre de "Gobernador del Estado".
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+II.- El Ejecutivo, en un funcionario que se denominará "Gobernador del Estado".
 
-III.- El Judicial, en un “Supremo Tribunal de Justicia” y en los jueces de primera instancia y menores.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
+
+III.- El Judicial, en un “Tribunal Superior de Justicia” y en los jueces de primera instancia y menores.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2787,7 +2789,7 @@ II. Ningún servidor público podrá recibir remuneración igual o superior al m
 
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
 
-IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios que requieran los servidores públicos por razón del cargo desempeñado.
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
@@ -4198,3 +4200,11 @@ QUINTO.- Los servidores públicos y empleados del Tribunal Estatal Electoral, en
 SEXTO.- Los Magistrados que integran el Tribunal Estatal Electoral a la entrada en vigor del presente Decreto, continuarán ejerciendo sus funciones hasta en tanto el Senado de la República nombre a quienes deban sustituírlos.
 
 SÉPTIMO.- El Congreso del Estado deberá llevar a cabo las reformas a la legislación electoral que corresponda, con motivo del presente Decreto antes del plazo de 90 días previos al inicio del proceso electoral local de 2016.
+
+P.O. 16 DE MAYO DE 2015.
+
+PRIMERO.- Con relación al Artículo Primero del presente Decreto y conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o, en su caso, por la Diputación Permanente, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Cualquier disposición constitucional, legal y reglamentaria en la que se haga referencia al Supremo Tribunal de Justicia del Estado, se entenderá en lo subsecuente referida al Tribunal Superior de Justicia. Así mismo, las funciones, facultades, derechos y obligaciones establecidos a cargo del Supremo Tribunal de Justicia del Estado, en contratos, convenios o acuerdos, celebrados con dependencias o entidades del Gobierno del Estado, de la Federación y de los municipios, y con cualquier persona física o moral, se entenderá que corresponden al Tribunal Superior de Justicia del Estado de Chihuahua.
