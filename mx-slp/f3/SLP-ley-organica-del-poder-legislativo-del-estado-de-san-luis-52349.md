@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-12-30"
+last_updated: "2015-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -211,7 +211,7 @@ IV. Recibir, en los términos que establece esta Ley y el Reglamento, el informe
 
 V. Otorgar al gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública, las que quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
-VI Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
+VI. Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
 
 VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Estado, cuando sea necesario por circunstancias extraordinarias;
 
@@ -1545,15 +1545,19 @@ III. Revisar previo a que los dictámenes sean presentados al Pleno, cumplan con
 
 IV. Convocar a los ciudadanos integrantes del Consejo de Transparencia que establece esta Ley, de manera trimestral, a las reuniones que señala el artículo 140 de este Ordenamiento;
 
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+
+V. Recibir dentro de los dos primeros meses del año, el informe del Comisionado Presidente de la Comisión de Garantía de Acceso a la Información Pública, conforme al procedimiento establecido en el artículo 83 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-V. Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+VI. Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-VI. Los relativos al nombramiento y, destitución, en su caso, del Presidente y comisionados de la Comisión Estatal de Garantía y Acceso a la Información Pública, y
+VII. Los relativos al nombramiento y, destitución, en su caso, del Presidente y comisionados de la Comisión Estatal de Garantía y Acceso a la Información Pública, y
 
-VII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+VIII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 118.
 
@@ -2312,3 +2316,7 @@ DECRETO NÚMERO 859, POR EL QUE SE REFORMA EL ARTÍCULO 119 EN SUS FRACCIONES, I
 PRIMERO. Este Decreto será publicado en el Periódico Oficial del Estado, y entrará en vigor a partir del 15 de septiembre de 2015.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2015.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
