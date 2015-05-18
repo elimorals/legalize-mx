@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2963
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-02"
-last_updated: "2013-06-21"
+last_updated: "2015-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 2 de abril de 2003.
 
@@ -141,7 +141,9 @@ III. El Poder Ejecutivo;
 
 IV. Las personas físicas o morales, públicas o privadas que reciben o manejan en administración, recursos públicos de los poderes mencionados en las fracciones I, II y III del presente artículo.
 
-V. Los organismos autónomos que reciban recursos públicos estatales o municipales; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2015)</small>
+
+V. Los organismos autónomos, descentralizados y empresas de participación estatal que reciban recursos públicos estatales o municipales; y
 
 VI. Los Ayuntamientos y empresas paramunicipales.
 
@@ -557,9 +559,17 @@ La Secretaría y las tesorerías emitirán las normas y procedimientos para la m
 
 La Secretaría y las tesorerías ministrarán los recursos del presupuesto de egresos, con base en los calendarios financieros y de objetivos de los Poderes, Dependencias, Organismos y entidades de la Administración Pública Municipal, que se apeguen estrictamente a las normas y procedimientos mencionados en el artículo anterior de la presente ley y a lo autorizado en el presupuesto de egresos.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2015)</small>
+
 ###### Artículo 60.
 
-Todas las Dependencias y Organismos que sean autorizados por el Ejecutivo a través de la Secretaría, para formular autorizaciones de pago, tendrán la obligación de vigilar en lo interno, que el importe de las mismas se encuentre acorde con el calendario financiero y de objetivos, aprobados y que no exceda el monto de pago previsto para la acción correspondiente.
+Todas las Dependencias, Organismos y empresas de participación estatal que sean autorizados por el Ejecutivo a través de la Secretaría, para formular los trámites de pago, tendrán la obligación de vigilar en lo interno que el importe de las mismas se encuentre acorde con el calendario financiero y de objetivos aprobados y que no exceda el monto de pago previsto para la acción correspondiente. Los trámites de pagos se realizarán de acuerdo al procedimiento que establezca la Secretaría.
+
+Será responsabilidad de dichas Dependencias, Organismos y empresas de participación estatal la solicitud de los recursos mediante el trámite de pago, así como la certeza, veracidad y validez de la información y documentación anexa que los respalde.
+
+Los Organismos descentralizados, empresas de participación estatal y paramunicipales no podrán realizar erogaciones, provisiones o registro de pasivos que los que puedan ser pagados con el presupuesto que les fue autorizado y entregado respectivamente por parte de la Secretaría y las tesorerías municipales.
+
+El incumplimiento de lo preceptuado en el presente artículo será sancionado de acuerdo a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
 
 ###### Artículo 61.
 
@@ -964,3 +974,7 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 18 DE MAYO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
