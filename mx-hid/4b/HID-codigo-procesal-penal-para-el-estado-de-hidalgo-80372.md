@@ -4,7 +4,7 @@ identifier: "HID-codigo-procesal-penal-para-el-estado-de-hidalgo-80372"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-03-14"
-last_updated: "2014-08-25"
+last_updated: "2015-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "HID"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚM. 208, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, SALVO EN LO RELATIVO A LA EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES EN TÉRMINOS DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO REFORMADA, ASÍ COMO LA LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO, HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA, EN EL PRIMER CIRCUITO JUDICIAL, CON CABECERA EN PACHUCA DE SOTO, ÚNICAMENTE EN EL DISTRITO JUDICIAL DE PACHUCA DE SOTO, A PARTIR DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL ACUSATORIO.</small>
+NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚM. 208, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, SALVO EN LO RELATIVO A LA EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES EN TÉRMINOS DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO REFORMADA, ASÍ COMO LA LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO, HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA, EN EL PRIMER CIRCUITO JUDICIAL, CON CABECERA EN PACHUCA DE SOTO, ÚNICAMENTE EN EL DISTRITO JUDICIAL DE PACHUCA DE SOTO, A PARTIR DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL ACUSATORIO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2014.
+NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚM. 429, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, DE MANERA PROGRESIVA Y GRADUAL, SALVO EN LO RELATIVO AL SISTEMA DE JUSTICIA INTEGRAL PARA ADOLESCENTES, LA EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES EN TÉRMINOS DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO REFORMADA, ASÍ COMO LA LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO, HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA, EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO DE HIDALGO, CONFORME VAYA INICIANDO SU VIGENCIA EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN TÉRMINOS DE ESTE DECRETO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de marzo de 2011.
 
@@ -577,7 +579,7 @@ Los defensores públicos, agentes del Ministerio Público y servidores públicos
 
 Las personas que no señalaren domicilio o medio electrónico serán notificadas por estrados.
 
-Cualquiera de los intervinientes podrá ser notificados personalmente en el Juzgado o Tribunal.
+Cualquiera de los intervinientes podrá ser notificados (sic) personalmente en el Juzgado o Tribunal.
 
 ###### Artículo 60.
 
@@ -3869,7 +3871,7 @@ El imputado tendrá derecho a declarar cuantas veces quiera cuando la defensa es
 
 Si el imputado declara, podrá ser contrainterrogado por el Ministerio Público y el acusador coadyuvante sin perjuicio de su derecho de abstención.
 
-El Juez podrá formularle preguntas destinadas a aclara sus dichos.
+El Juez podrá formularle preguntas destinadas a aclarar sus dichos.
 
 ###### Artículo 395.
 
@@ -4796,3 +4798,57 @@ CUARTO.- En relación a los hechos ocurridos, procedimientos penales iniciados, 
 QUINTO.- Las leyes reglamentarias así como las diversas leyes del Estado de Hidalgo, relativas a la organización y funcionamiento de las Instituciones involucradas en la seguridad pública, procuración e impartición de justicia y todas aquellas en las que se establecen los diversos dispositivos que inciden en la aplicación del Sistema Procesal Acusatorio, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al Sistema Procesal Penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en la presente declaratoria.
 
 SEXTO.- Las disposiciones del nuevo Sistema Procesal Acusatorio se aplicarán de manera gradual en el resto de los Circuitos Judiciales y Distritos Judiciales, atendiendo a la fecha en que se expidan los Decretos que contengan las Declaratorias del Congreso del Estado.
+
+P.O. 18 DE MAYO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 429 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+DECRETO NÚMERO 429 QUE APRUEBA LA SOLICITUD DE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL PENAL ACUSATORIO EN 16 DISTRITOS JUDICIALES DEL ESTADO DE HIDALGO QUE MÁS ADELANTE SE LISTAN, ASÍ COMO LA ABROGACIÓN DE LOS CÓDIGOS DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO PUBLICADO EN EL PERIÓDICO OFICIAL EL 9 DE JUNIO DE 1990; Y EL PROCESAL PENAL PARA EL ESTADO DE HIDALGO PUBLICADO EN EL PERIÓDICO OFICIAL EL 14 DE MARZO DE 2011.
+
+D E C L A R A T O R I A
+
+###### ARTÍCULO PRIMERO.
+
+Se declara que en el resto del Estado de Hidalgo se incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales e inicia el Sistema Procesal Penal Acusatorio, de conformidad con la suficiencia presupuestal para su implementación en los Distritos Judiciales que se listan en la modalidad y calendarización siguiente:
+
+1. A partir de las cero horas del 14 de julio de 2015, en el Distrito Judicial de Tula de Allende, correspondiente al Tercer Circuito.
+
+2. A partir de las cero horas del 29 de septiembre de 2015, en el Distrito Judicial de Tizayuca, correspondiente al Primer Circuito.
+
+3. A partir de las cero horas del 16 de febrero de 2016, en:
+
+a) El Distrito Judicial de Tulancingo de Bravo, correspondiente al Segundo Circuito;
+
+b) El Distrito Judicial de Actopan, correspondiente al Tercer Circuito;
+
+c) Los Distritos Judiciales de Ixmiquilpan y Huichapan, correspondientes al Cuarto Circuito; y
+
+d) El Distrito Judicial de Huejutla de Reyes, correspondiente al Quinto Circuito.
+
+4. A partir de las cero horas del 07 de junio de 2016, en:
+
+a) Los Distritos Judiciales de Apan, Atotonilco El Grande y Tenango de Doria, correspondientes al Segundo Circuito;
+
+b) El Distrito Judicial de Mixquiahuala de Juárez, correspondiente al Tercer Circuito;
+
+c) Los Distritos Judiciales de Zimapan y Jacala de Ledezma, correspondientes al Cuarto Circuito; y
+
+d) Los Distritos Judiciales de Molango, Zacualtipán de Ángeles y Metztitlán, correspondientes al Quinto Circuito.
+
+###### ARTÍCULO SEGUNDO.
+
+En todos los casos listados en el artículo anterior, la modalidad será por la totalidad de los delitos establecidos en el Código Penal para el Estado de Hidalgo y en las leyes aplicables en la entidad u otros ordenamientos.
+
+Las averiguaciones previas, procesos penales, recursos y demás procedimientos iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en esos Distritos y Circuitos Judiciales, se regirán por las disposiciones vigentes al momento de su inicio.
+
+T R A N S I T O R I O S
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Decreto deberá ser notificado a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Hidalgo; Legislativo, Ejecutivo y Judicial de las entidades federativas y el Distrito Federal, así como a los Ayuntamientos del Estado de Hidalgo, para los efectos legales que procedan.
+
+TERCERO. Quedarán abrogados, de manera progresiva y gradual el Código de Procedimiento (sic) Penales para el Estado de Hidalgo publicado en el Periódico Oficial el 9 de junio de 1990; y el Procesal Penal para el Estado de Hidalgo publicado en el Periódico Oficial el 14 de marzo de 2011, salvo en lo relativo al Sistema de Justicia Integral para Adolescentes, la ejecución de sanciones penales y medidas para adolescentes en términos de la Ley de Justicia para Adolescentes del Estado de Hidalgo reformada así como la Ley Procesal de Sanciones Penales y medidas para adolescentes del Estado de Hidalgo, hasta en tanto entre en vigor la nueva legislación nacional en esta materia, conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos de este Decreto, no debiendo exceder del 18 de junio de 2016.
+
+CUARTO. En relación a los procedimientos penales iniciados por hechos que ocurran con fecha anterior a la entrada en vigor del Código Nacional de Procedimientos Penales, continuarán su substanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+QUINTO. Las leyes reglamentarias así como las diversas leyes del Estado de Hidalgo, relativas a la organización y funcionamiento de las instituciones involucradas en la seguridad pública, procuración e impartición de justicia y todas aquéllas en las que se establecen los diversos dispositivos que inciden en la aplicación del Sistema Procesal Penal Acusatorio, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al Sistema Procesal Penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en la presente declaratoria.
