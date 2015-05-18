@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-canal-de-television-del-congreso-general-de-4475
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-18"
-last_updated: "2005-05-18"
+last_updated: "2015-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-04-28"
 ---
 # REGLAMENTO DEL CANAL DE TELEVISION DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-REGLAMENTO DEL CANAL DE TELEVISION DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
+REGLAMENTO DEL CANAL DE TELEVISIÓN DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de mayo de 2005.
 
@@ -78,6 +78,10 @@ i) Agenda de Programación: Documento de trabajo que contiene las sesiones plena
 ###### Artículo 4.
 
 El Canal deberá informar a la sociedad mexicana bajo los principios de objetividad, veracidad, ética, pluralidad, equidad, suficiencia, oportunidad y con pleno respeto a los derechos fundamentales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE MAYO DE 2015)</small>
+
+La información que difunda, deberá traducirse simultáneamente a lengua de señas mexicanas, o subtitularse con palabras en español, o ambas.
 
 ###### Artículo 5.
 
@@ -372,3 +376,11 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- A más tardar 60 días naturales después de la entrada en vigor de este Reglamento, la Comisión Bicamaral del Canal de Televisión expedirá la Política Interna del Orden General relativa a la estructura y organización del Canal, la que deberá contener las relaciones de mando y supervisión, así como las áreas y oficinas que conformen el Canal de Televisión del Congreso General.
 
 México, D.F., a 28 de abril de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Rúbrica.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Rúbrica.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbrica.- Dip. Antonio Morales de la Peña, Secretario.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE MAYO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las Mesas Directivas de las Cámaras de Diputados y de Senadores, en ejercicio de las facultades que les conceden respectivamente los artículos 20, numeral 2, inciso h) y 66, numeral 1, inciso g) de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, harán las previsiones presupuestales para asignar los recursos necesarios para el cumplimiento de este Decreto, en el anteproyecto de presupuesto de cada cual.
