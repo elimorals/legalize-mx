@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2014-05-20"
+last_updated: "2015-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1648,9 +1648,9 @@ b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo F
 
 ###### ARTICULO 104.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2015)</small>
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta quince miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura. Ningún senador pertenecerá a más de cuatro de ellas.
+1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta quince miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la Legislatura. Ningún senador pertenecerá a más de cinco de ellas.
 
 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones. Al efecto, los grupos parlamentarios formularán los planteamientos que estimen pertinentes.
 
@@ -2575,3 +2575,7 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
 
 Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
+
+D.O.F. 18 DE MAYO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
