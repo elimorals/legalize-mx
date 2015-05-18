@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-de-asentamientos-humanos-desarrollo-68557"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-18"
-last_updated: "2011-03-21"
+last_updated: "2015-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 18 de mayo de 2009.
 
@@ -1117,7 +1119,7 @@ IV.- El proyecto de drenaje, alcantarillado y tratamiento de agua;
 
 V.- El trazado de las vías públicas, vehiculares y peatonales;
 
-VI.- Las previsiones de transporte público masivo entre el nuevo asentamiento y el centro de población donde se ubicará o eón el centro de población más cercano;
+VI.- Las previsiones de transporte público masivo entre el nuevo asentamiento y el centro de población donde se ubicará o con el centro de población más cercano;
 
 VII.- La localización y superficie de los predios destinados a Espacios Públicos y Equipamientos Sociales Básicos de Educación y Cultura, Salud, Abasto, Recreación y Deporte, Seguridad Pública, Administración Pública y otros que el caso específico amerite;
 
@@ -1547,7 +1549,7 @@ La autoridad que emite el dictamen de impacto urbano es el Comité, tomando en c
 
 Se establece la siguiente clasificación de las vías públicas:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 I.- Vía Públicas para Transporte Motorizado: Se entienden como todas aquellas sobre las cuales circulan vehículos de motor, impulsados con energía eléctrica, combustibles fósiles, híbridos o de cualquier otro tipo y que desarrollen velocidades superiores a los 10 Km./hr.
 
@@ -1579,7 +1581,7 @@ b).- Vehículos que sirven al desplazamiento de personas de manera colectiva o d
 
 2.- Vías Exclusivas para Transporte Público Masivo: Aquellos que de manera aislada o inserta en las vialidades de uso general, se destinan exclusivamente para vehículos de transporte masivo de alta capacidad. Estos carriles no podrán ser utilizados por ningún otro vehículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 II.- Vías Públicas para Transporte no motorizado: Son aquellas sobre las que se desplazan personas o vehículos impulsado por la misma tracción física de las personas. Se podrán admitir vehículos de motor siempre y cuando no desarrollen velocidades superiores a los 10 Km./hr., y con capacidad para transportar una sola persona. Las características de las mismas serán las siguientes:
 
@@ -1865,7 +1867,7 @@ III.- Agropecuarios (Granjas Familiares).
 
 En los fraccionamientos habitacionales de urbanización inmediata podrán existir lotes con usos del suelo distintos al habitacional pero compatibles con éste, evitándose los contaminantes, molestos o peligrosos para la población independientemente de su uso, todo lo anterior, siempre que el programa de desarrollo urbano no prohíba tales usos, de acuerdo con la tabla de compatibilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 117.
 
@@ -2015,7 +2017,7 @@ Las obras de urbanización de todos los fraccionamientos deberán cumplir con la
 
 ### CAPÍTULO VI. DE LOS REQUISITOS Y PROCEDIMIENTO A QUE SE SUJETARÁN LOS FRACCIONAMIENTOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ARTICULO, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2010, SE MODIFICA SU ESTRUCTURA, QUEDANDO CONFORMADO POR LOS INCISOS A) A J).</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ARTÍCULO, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2010, SE MODIFICA SU ESTRUCTURA, QUEDANDO CONFORMADO POR LOS INCISOS A) A J).</small>
 
 ###### ARTÍCULO 125.
 
@@ -2023,7 +2025,7 @@ De acuerdo a la clasificación establecida en el Artículo 115 del presente regl
 
 FRACCIONAMIENTOS HABITACIONALES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 A) Residencial Alto.- Los fraccionamientos tipo residencial alto tendrán como uso el de vivienda unifamiliar sin permitir incluir en éste, áreas comerciales y de servicios, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
@@ -2049,7 +2051,7 @@ VIII.- La restricción frontal será de 5.00 metros como mínimo, y 40% de esta 
 
 IX.- Las obras mínimas de urbanización serán sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 B) Residencial Medio.- Los fraccionamientos tipo residencial medio tendrán como uso la vivienda unifamiliar sin permitir la inclusión de áreas comerciales y de servicios, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
@@ -2075,7 +2077,7 @@ VIII.- La restricción frontal será de 5.00 metros como mínimo, y 40% de esta 
 
 IX.- Las obras mínimas de urbanización serán sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 C) De Interés Medio.- Los fraccionamientos de interés medio tendrán como uso predominante el de vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 10% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
@@ -2101,7 +2103,7 @@ VIII.- La restricción frontal será de 3.00 metros como mínimo y 40% de esta �
 
 IX.- Las obras mínimas de urbanización serán sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 D) De Interés Social.- Los fraccionamientos de interés social tendrán como uso predominante la vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 15% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
@@ -2125,7 +2127,7 @@ VIII.- La restricción frontal será de 2.50 metros como mínimo y 40% de esta �
 
 IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 E) Habitación Popular.- Los fraccionamientos populares tendrán como uso predominante la vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 15% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
@@ -2465,11 +2467,11 @@ IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento y de 
 
 Los fraccionamientos habitacionales solo podrán ser aprobados cuando se ubiquen en predios contiguos a zonas urbanizadas, o de algún fraccionamiento ya urbanizado, salvo los del tipo campestre, asimismo deberán apegarse al período de apertura de los Programas de Desarrollo Urbano que integra el Sistema.
 
-Se deberán conservar las zonas que por sus características naturales condicionen el equilibrio ecológico, las dedicadas en forma habitual alas actividades agropecuarias, las áreas cuyo uso puedan afectar el paisaje urbano y natural y aquellas cuyos suelos y subsuelos se hayan visto afectados por fenómenos naturales o por la explotación de cualquier género, que representen peligro permanente para los asentamientos humanos. En estos espacios, la urbanización será restringida o estrictamente prohibida.
+Se deberán conservar las zonas que por sus características naturales condicionen el equilibrio ecológico, las dedicadas en forma habitual a las actividades agropecuarias, las áreas cuyo uso puedan afectar el paisaje urbano y natural y aquellas cuyos suelos y subsuelos se hayan visto afectados por fenómenos naturales o por la explotación de cualquier género, que representen peligro permanente para los asentamientos humanos. En estos espacios, la urbanización será restringida o estrictamente prohibida.
 
 En todos los fraccionamientos, los servicios públicos de agua potable, drenaje y energía eléctrica deberán ser calculados de acuerdo con la clasificación de los fraccionamientos establecida en los Programas de Desarrollo Urbano que integran el Sistema. En caso de no contar con ellos deberá sujetarse a lo establecido en el Titulo Tercero, Capitulo X de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 126.
 
@@ -2531,7 +2533,7 @@ XII.- Copia del poder notarial y copia de identificación oficial del solicitant
 
 XIII.- Efectuar el pago de los derechos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 Para obtener la autorización de fraccionamiento, el interesado deberá presentar:
 
@@ -2647,7 +2649,7 @@ La autorización de proyecto de fraccionamiento se hará constar con sello y fir
 
 Para la protocolización de dicha autorización el interesado inscribirá en el Registro Público de la Propiedad y del Comercio el acuerdo de aprobación del proyecto de fraccionamiento y los planos correspondientes firmados y sellados en un plazo no mayor de 90 días naturales a partir de la fecha de expedición. Con este acto se tendrá por transmitido el suelo destinado para vialidad y área municipal, debiendo el fraccionador terminar las obras correspondientes. Las vialidades deberán encontrarse libres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 131.
 
@@ -2721,7 +2723,7 @@ El municipio supervisará el proceso de ejecución de las obras de urbanización
 
 Las garantías deberán ser presentadas conforme a las etapas establecidas en la licencia de construcción de fraccionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 135.
 
@@ -2793,7 +2795,7 @@ II.- Los titulares de los fraccionamientos industriales deberán hacer la cesió
 
 III.- Construir las obras de urbanización que se indican en el Artículo 116 de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 142.
 
@@ -3409,7 +3411,7 @@ b).- En Instalaciones.
 
 Para el control de Directores Responsables y Corresponsables, se llevará un registro inicial, renovable cada dos años previa comprobación de que dichos profesionistas se actualicen anualmente dentro de los programas de capacitación de los Colegios de Profesionistas que el Comité avale.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 161.
 
@@ -3437,7 +3439,7 @@ b).- Constancia de Diplomado, Especialidad, Maestría o Doctorado con REVOE rela
 
 IV.- (DEROGADA, P.O. 21 DE MARZO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 162.
 
@@ -3477,7 +3479,7 @@ II.- Director Responsable de Obra;
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-a).- En Edificaciones :
+a).- En Edificaciones:
 
 Tipo 0. Acreditar formación académica en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Constructor Militar;
 
@@ -3507,7 +3509,7 @@ b).- En instalaciones. Acreditar cinco años de experiencia en su especialidad e
 
 El registro lo podrá (sic) obtener los Arquitectos, Ingenieros Arquitectos o Ingenieros Civiles, pudiendo obtener registro de una categoría distinta a su profesión, siempre y cuando lo acrediten con estudios de posgrado afines y experiencia comprobable a dicha categoría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 163.
 
@@ -3587,7 +3589,7 @@ c).- (DEROGADO, P.O. 21 DE MARZO DE 2011)
 
 Además, para estas categorías deberá suscribir los proyectos que bajo su responsabilidad fueron realizados; suscribiendo conjuntamente con el Director Responsable de Obra, la solicitud de licencia de construcción; anotar en la bitácora de obra, las aclaraciones y ajustes, del trabajo profesional bajo su responsabilidad; suscribir la memoria de diseño y los planos del proyecto estructural o de instalaciones y; suscribir el dictamen técnico de seguridad estructural de una edificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 164.
 
@@ -3601,7 +3603,7 @@ III.- Doce meses después de que se de el aviso de terminación de obra y se exp
 
 La obra no podrá reanudarse cuando la Secretaría o el municipio en su caso, ordene la suspensión de la obra y el Director Responsable de Obra no sea sustituido en forma inmediata.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 165.
 
@@ -3665,11 +3667,11 @@ VII.- Tener bajo resguardo los expedientes de cada uno de los solicitantes del r
 
 VIII.- Proponer los convenios de colaboración con los Municipios a través de las autoridades encargadas de la operatividad de los Directores Responsables y Corresponsables para el cumplimiento del presente Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO X. DEL COMITÉ DE ADMISIÓN DE DIRECTORES RESPONSABLES Y CORRESPONSABLES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 167.
 
@@ -3905,7 +3907,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 31 DE MAYO DE 2010.
 
@@ -3918,3 +3920,15 @@ P.O. 21 DE MARZO DE 2011.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Reglamento.
+
+P.O. 18 DE MAYO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento de (sic) Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo publicado en el Periódico Oficial del Estado de Hidalgo el 18 de mayo del 2009.
+
+TERCERO. Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Reglamento.
+
+CUARTO. Las autorizaciones para el aprovechamiento de predios que se encuentren en trámite al entrar en vigor el presente Reglamento, se sujetarán a las disposiciones aplicables al momento de su solicitud, no obstante podrán aplicarse las contenidas en el presente Reglamento siempre que no le causen perjuicio al interesado.
+
+QUINTO. El (sic) relación al artículo 68 del presente Reglamento, los desarrolladores que aún no hayan otorgado y firmado las escrituras públicas en relación a el o las áreas de donación establecidas en los planos y resoluciones de autorización de fraccionamientos o subdivisiones, serán requeridos por la Secretaría para que en un plazo de cinco días hábiles acudan a firmar y otorgar escritura ante Notario Público y, en caso de no hacerlo, en su rebeldía lo hará el Titular de la Secretaría.
