@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-administrativas-de-los-servidores-8081
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2013-11-27"
+last_updated: "2015-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de abril de 2011.
 
@@ -181,7 +181,9 @@ Todo servidor público, tendrá los siguientes deberes:
 
 I.- Cumplir con el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión, o incumplimiento de cualquier disposición jurídica, reglamentaria o administrativa relacionada con el servicio público;
 
-II.- Formular y ejecutar legalmente planes, programas y presupuestos correspondientes a su competencia, y cumplir las disposiciones que regulen el manejo de recursos económicos públicos;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2015)</small>
+
+II.- Formular y ejecutar legalmente planes, programas y presupuestos correspondientes a su competencia, y cumplir las disposiciones que regulen el manejo de recursos económicos públicos. En el caso de los Organismos y Dependencias de la administración pública estatal, paraestatal, municipal y paramunicipal, deberán de ejercer sus presupuestos atendiendo a las previsiones del ingreso, por lo cual no deberán de comprometer recursos adicionales a los que les sean presupuestados y entregados por la Secretaría o tesorerías municipales respectivas.
 
 III.- Utilizar los recursos que tengan asignados y las facultades que les sean atribuidas o la información reservada a que tengan acceso por su función, exclusivamente para el desempeño de su empleo, cargo o comisión;
 
@@ -1350,3 +1352,7 @@ P.O. 27 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE MAYO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
