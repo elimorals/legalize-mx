@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2014-12-22"
+last_updated: "2015-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -1339,21 +1339,9 @@ d).- Si se refiere a la misma persona y se solicita en un mismo acto, se descont
 
 II.- Por el registro:
 
-a).- De nacimiento fuera de la
+a).- (DEROGADO, P.O. 18 DE MAYO DE 2015)
 
-Oficina del Registro Civil 5.00
-
-b).- Extemporáneo de nacimiento,
-
-tratándose de personas
-
-mayores de 7 años, en los
-
-términos de los artículos 40
-
-y 42 del Reglamento del
-
-Registro Civil del Estado 3.00
+b). - (DEROGADO, P.O. 18 DE MAYO DE 2015)
 
 c).- De matrimonio:
 
@@ -1441,7 +1429,9 @@ desde fuera de las oficinas: 3.00
 
 ART. 40.- No causan los derechos a que se refiere este Capítulo:
 
-I.- Las actas de nacimiento que se levanten fuera de la Oficina en el caso del Artículo 61 del Código Civil;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2015)</small>
+
+I.- El registro de nacimiento y la expedición de la primera copia certificada del acta que lo constate;
 
 II.- Los certificados de supervivencia que se expidan a los pensionistas o jubilados del Estado, de la Federación o de los Municipios;
 
@@ -1455,9 +1445,9 @@ IV.- Los certificados de actas que soliciten las autoridades judiciales o admini
 
 V.- La búsqueda de actas del Registro Civil, siempre que se proporcionen datos precisos que coincidan con los índices respectivos, con los mismos asientos, o bien que la búsqueda se haga por los propios interesados; y,
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2015)</small>
 
-VI.- El registro extemporáneo de nacimiento, así como por la certificación de la falta o ilegibilidad de actas o libros del Registro Civil, siempre que el servicio que se solicite sea inherente a una persona mayor de 60 años.
+VI.- La certificación de la falta o ilegibilidad de actas o libros del Registro Civil, siempre que el servicio que se solicite sea inherente a una persona mayor de 60 años.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4004,3 +3994,17 @@ P.O. 30 DE DICIEMBRE DE 2013.
 P.O. 22 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones correspondientes al Reglamento del Registro Civil para el Estado, dentro de los 60 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
