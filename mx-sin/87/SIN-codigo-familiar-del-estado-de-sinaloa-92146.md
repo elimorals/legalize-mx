@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2013-08-16"
+last_updated: "2015-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -205,7 +205,7 @@ Pueden los herederos y familiares de una persona muerta, solicitar la resarcici�
 
 ###### Artículo 22.
 
-El honor es la valoración que las personas hacen de la personalidad ético-social de un sujeto y comprende las representaciones quela persona tiene de sí misma, que se identifica con la buena reputación y la fama. Es el bien jurídico constituido por las proyecciones psíquicas del sentimiento de estimación que la persona tiene de sí misma, atendiendo a lo que la colectividad en que actúa considera como sentimiento estimable.
+El honor es la valoración que las personas hacen de la personalidad ético-social de un sujeto y comprende las representaciones quela (sic) persona tiene de sí misma, que se identifica con la buena reputación y la fama. Es el bien jurídico constituido por las proyecciones psíquicas del sentimiento de estimación que la persona tiene de sí misma, atendiendo a lo que la colectividad en que actúa considera como sentimiento estimable.
 
 ###### Artículo 23.
 
@@ -565,7 +565,7 @@ El mandato para contraer matrimonio será válido, siempre y cuando no hayan tra
 
 ###### Artículo 65.
 
-Los mexicanos que se casen en el extranjero, se presentarán ante el Registro Civil para la inscripción de su acta de matrimonio dentro de los primeros tres meses de su radicación en el Estado.
+Los mexicanos que se casen en el extranjero, se presentarán ante el Registro Civil para la inscripción de su acta de matrimonio dentro de los primeros tres meses de su radicación en el Estado
 
 Los efectos jurídicos de los matrimonios celebrados en el extranjero por mexicanos y que lleguen a la República Mexicana, se regirán por lo dispuesto en los convenios internacionales y por lo señalado en los artículos 13, 14, 15 y 161 del Código Civil Federal.
 
@@ -1447,7 +1447,7 @@ En la línea transversal o colateral, los grados se cuentan por el número de ge
 
 ## TÍTULO SEXTO. DE LOS ALIMENTOS
 
-### Capítulo l. Disposiciones Generales
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 205.
 
@@ -2747,7 +2747,7 @@ El juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 350 de este Código, tiene derecho, aunque fuere menor de edad, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión del póstumo.
 
-El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad los ascendientes de ulteriores grados.
+El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
 
 Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
@@ -2911,7 +2911,7 @@ III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya r
 
 IV. Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
-V. El que haya sido condenado por robo, abuso de confianza, fraude o por cualquier otro delito infamante;
+V.- El que haya sido condenado por robo, abuso de confianza, fraude o por cualquier otro delito infamante;
 
 VI. Los que no tengan oficio o modo lícito de vivir;
 
@@ -6557,13 +6557,15 @@ Los jueces que no remitan en un lapso de diez días hábiles, las resoluciones d
 
 Las declaraciones de nacimiento se harán presentando a la persona ante el oficial del registro civil, en su oficina, o en el caso de imposibilidad física para trasladarlo, o bien por causa grave, en el lugar donde hubiere nacido o se encuentre.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2015)</small>
+
 ###### Artículo 1124.
 
-Tienen la obligación de declarar el nacimiento, el padre o la madre, o cualquiera de ellos; a falta de éstos, los abuelos paternos o maternos sin preferencia, dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
+Tienen la obligación de declarar el nacimiento, el padre o la madre, o cualquiera de ellos; a falta de éstos, los abuelos paternos o maternos sin preferencia.
 
 ###### Artículo 1125.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del plazo fijado, serán sancionadas con una multa de tres a quince días de salario mínimo general vigente en el estado, que impondrá el oficial del registro civil del lugar donde se haya hecho la declaración extemporánea del nacimiento, la cual se hará efectiva en los términos que disponga el Reglamento.
+(DEROGADO, P.O. 18 DE MAYO DE 2015)
 
 ###### Artículo 1126.
 
@@ -7049,6 +7051,8 @@ P.O. 16 DE AGOSTO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa.
 
+P.O. 18 DE MAYO DE 2015.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
@@ -7072,3 +7076,15 @@ Capítulos I y II del Título X.
 Capítulos I, II, III, IV, V, VI, VII y VIII del Título XI.
 
 TERCERO. Quedan derogados del Libro Tercero:
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones correspondientes al Reglamento del Registro Civil para el Estado, dentro de los 60 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
