@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-consejo-consultivo-para-el-desarrollo-62126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-04"
-last_updated: "2010-08-06"
+last_updated: "2015-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DEL CONSEJO CONSULTIVO PARA EL DESARROLLO SUSTENTABLE EN MATERIA DE URBANISMO EN EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de julio de 2008.
 
@@ -91,19 +91,17 @@ Cuando alguna de las fracciones anteriores involucre la simplificación administ
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL CONSEJO
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 4.
 
-El Consejo se integrará con los siguientes miembros:
+El Consejo cuenta con diecisiete miembros y se integra de la siguiente forma:
 
-I. Un Presidente, cuyo cargo recaerá en el Titular de la Dirección General;
+I. El Presidente de la Comisión del Ayuntamiento encargada de los temas, relacionados con el Urbanismo;
 
-II. Un Vicepresidente, que será designado de entre los representantes Consejeros que se señalan en las fracciones IV y V de este artículo;
+II. El titular de la Dirección General, quien fungirá como Secretario Técnico;
 
-III. Un Secretario, designado de entre los representantes Consejeros que se señalan en las fracciones IV y V del presente artículo;
-
-IV. Un representante designado por cada uno de los organismos siguientes:
+III. Un representante designado por cada uno de los organismos siguientes:
 
 a) Cámara Mexicana de la Industria de la Construcción (CMIC);
 
@@ -113,19 +111,35 @@ c) Colegio de Arquitectos de León, A.C.;
 
 d) Colegio de Ingenieros Civiles de León, A.C.;
 
-e) Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda; y,
+e) Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Guanajuato (CANADEVI);
 
-f) Cámara Nacional de Empresas de Consultoría.
+f) Cámara Nacional de Empresas de Consultoría Delegación Guanajuato (CNEC);
 
-V. Ocho integrantes propuestos por el Presidente Municipal, elegidos de entre las ternas que para tal efecto le presenten, colegios de profesionistas, instituciones de investigación o de educación superior; sin que deba existir más de un miembro representativo por cada uno de ellos.
+g) Universidad Iberoamericana León;
 
-El Presidente Municipal podrá emitir invitación a cualquiera otra institución cuyo objeto social tenga relación con el fin del Consejo.
+h) Universidad La Salle Bajío Campus León;
 
-Los Consejeros ciudadanos serán designados por el Ayuntamiento, a propuesta del Presidente Municipal, en base a la invitación que éste realice a las instituciones mencionadas en el presente artículo, a excepción hecha del titular de la Dirección General quien formara parte del Consejo por el simple hecho de su nombramiento.
+i) Instituto Tecnológico y de Estudios Superiores de Monterrey Campus León;
+
+j) Universidad de Guanajuato.
+
+IV. Cinco integrantes, elegidos de entre las propuestas que para tal efecto presenten colegios de profesionistas, instituciones de investigación o de educación superior.
+
+El Presidente Municipal podrá emitir invitación a cualquier otra asociación u organismo cuyo objeto social tenga relación con el fin del Consejo.
+
+Los Consejeros ciudadanos serán designados por el Ayuntamiento, con base en la propuesta que presente el Presidente Municipal.
+
+Para la elaboración de la propuesta de los Consejeros ciudadanos señalados en las fracciones III y IV del presente artículo, el Presidente Municipal emitirá una convocatoria a fin de que los organismos, colegios de profesionistas, instituciones de investigación o de educación superior, postulen integrantes así como a sus respectivos suplentes para formar parte del Consejo, haciéndoles de su conocimiento que en caso de omisión, será el Presidente Municipal quien la realice directamente.
+
+El titular de la Dirección General y el Presidente de la Comisión asumirán el cargo de Consejeros como parte del ejercicio de sus funciones.
+
+Por cada Consejero propietario se elegirá un suplente, salvo el Presidente de la Comisión. Los suplentes, serán electos de la misma forma que los propietarios.
+
+Los suplentes tendrán las mismas facultades de los integrantes propietarios en caso de ausencia de éstos, con excepción del suplente del Presidente, quien participará en las sesiones como un vocal más. Las facultades del Presidente serán ejercidas por quien elija el propio Consejo Directivo en los términos del artículo 21 del presente Reglamento.
 
 ###### Artículo 5.
 
-En el mes de diciembre del año que corresponda al de instalación del Ayuntamiento, el Presidente Municipal realizará la invitación correspondiente a las instituciones referidas en la fracción IV del artículo anterior, para que propongan por escrito una persona que les represente dentro del Consejo.
+(DEROGADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)
 
 El Ayuntamiento podrá acordar la integración de otros miembros, cuando a su juicio sea necesario para el mejor desempeño de las atribuciones del Consejo o de designar algún sustituto en caso de que lo solicite el mismo Consejo.
 
@@ -143,9 +157,13 @@ El Presidente del Consejo, asistirá a las sesiones del Consejo con voz y voto, 
 
 Los Consejeros Ciudadanos durarán en su encargo tres años, y a fin de dar continuidad a los planes, programas y proyectos del Consejo, podrán ser ratificados hasta el cincuenta por ciento de sus miembros, por una sola vez, para otro periodo igual, a excepción hecha del titular de la Dirección General quien durara en su encargo dentro del Consejo hasta por el término que señale su nombramiento.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
 ###### Artículo 8.
 
-En su sesión de instalación, el Consejo designará de entre sus miembros al Vicepresidente y al Secretario, pudiendo éstos ser reelectos por una vez más para otro período igual.
+El Consejo elegirá de entre los Consejeros ciudadanos, a la persona que ocupará el cargo de Presidente del mismo. La sesión en que se elija será presidida por el Presidente de la Comisión hasta en tanto se hace la elección.
+
+El Presidente del Consejo durará en su encargo tres años.
 
 ###### Artículo 9.
 
@@ -163,25 +181,29 @@ III. No haber sido condenado por delito grave;
 
 IV. No ocupar cargo directivo en algún partido político, sea cualquiera su denominación;
 
-V. No cumplir con alguna función, cargo o comisión en la administración pública municipal, estatal o federal, ni estar inhabilitado para ello, con excepción del Presidente del Consejo; y,
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+V. No ocupar algún empleo, cargo o comisión remunerado en la administración pública municipal, ni estar inhabilitado para ello; y
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2010)</small>
 
 VI. Contar con experiencia en actividades relativas al Desarrollo Sustentable en materia de Urbanismo.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
 ###### Artículo 11.
 
-La falta injustificada de cualquiera de los consejeros por más de tres sesiones ordinarias en forma continua, o de seis sesiones de manera discontinua aún en forma justificada dentro de un año calendario, tendrá el carácter de abandono definitivo del cargo.
+La calidad de Consejero ciudadano se pierde por renuncia expresa o tácita, entendiendo como renuncia expresa la que el Consejero emita por escrito ante el Presidente del Consejo y como renuncia tácita la inasistencia injustificada por parte de un Consejero propietario a tres sesiones de Consejo, ya sean continuas o discontinuas, sin causa justificada.
 
-Para tal efecto, en la sesión ordinaria del Consejo inmediata posterior a que se actualice este supuesto, se deberá hacer constar el cómputo respectivo por el
-
-Presidente, mismo que se le notificará al consejero en cuestión, informando de ello al Ayuntamiento y a la institución u organismo correspondiente, a efecto de que proponga un nuevo representante.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 12.
 
-Corresponde al Ayuntamiento resolver sobre la renuncia de los Consejeros Ciudadanos, así como acordar la revocación o remoción de su designación, en caso de que el Consejo le aporte los elementos de convicción suficientes para acreditar el incumplimiento de alguna o algunas de las obligaciones a que se refiere el presente ordenamiento legal.
+Corresponde al Ayuntamiento acordar la revocación o remoción de los Consejeros ciudadanos, en caso de que el Consejo le aporte los elementos de convicción suficientes para acreditar el incumplimiento de alguna o algunas de las obligaciones a que se refiere el presente ordenamiento.
 
-Una vez revocada la designación del Consejero Ciudadano, la institución correspondiente propondrá al Presidente Municipal, una persona para ocupar dicho cargo, quien a consideración del H. Ayuntamiento concluirá el período respectivo.
+En caso de renuncia, revocación o remoción del Consejero propietario se llamará al suplente y en caso de renuncia, revocación o remoción de ambos, se dará aviso al Ayuntamiento para que realice una nueva designación.
+
+En caso de renuncia, revocación o remoción del Presidente del Consejo se llamará al suplente quien asumirá el cargo como un vocal más y se realizará la elección de un nuevo Presidente en los términos del presente reglamento.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DEL CONSEJO Y SUS INTEGRANTES
 
@@ -211,9 +233,13 @@ IX. Convocar por conducto del Presidente del Consejo, a los titulares de las dep
 
 X. Elaborar informes sobre las actividades realizadas por el Consejo, y presentarlos por conducto de su Presidente al Ayuntamiento, cada año, en forma ordinaria, o cuando éste lo requiera;
 
-XI. Designar de entre los Consejeros Ciudadanos al Vicepresidente y Secretario;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XII. Otorgar licencias a cualquiera de los consejeros ciudadanos, conforme a los términos establecidos en el presente Reglamento;
+XI. Designar de entre los Consejeros ciudadanos al Presidente;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+XII. Conceder licencia al Presidente del Consejo para separarse del cargo hasta por dos meses, por causa justificada;
 
 XIII. Solicitar al Ayuntamiento, por conducto de la Comisión, la revocación de la designación de los Consejeros Ciudadanos, en los términos del presente Reglamento;
 
@@ -261,25 +287,37 @@ XV. Suscribir los documentos relativos a las funciones del Consejo, en forma con
 
 XVI. Proponer ante el Consejo, al consejero propietario que pueda suplirlo para el caso de solicitar licencia hasta por dos meses; y,
 
-XVII. Las demás atribuciones que se deriven de este Reglamento o que le encomiende el Ayuntamiento.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+XVII. Presentar el plan de trabajo anual y el plan estratégico anual, de conformidad al Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2015)</small>
+
+XVIII. Las demás atribuciones que se deriven de este Reglamento o que le encomiende el Ayuntamiento.
 
 ###### Artículo 15.
 
-El Vicepresidente del Consejo auxiliará en el desarrollo de sus funciones al Presidente del Consejo.
+(DEROGADO, P.O. 19 DE MAYO DE 2015)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 16.
 
-Corresponde al Secretario del Consejo:
+Corresponde al Secretario Técnico:
 
-I. Asistir a las sesiones del Consejo con voz y voto;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+I. Asistir a las sesiones del Consejo con voz pero sin voto;
 
 II. Atender y dar seguimiento a los acuerdos que le encomiende el Consejo;
 
 III. Representar al Consejo, previo acuerdo de éste, en cualquier foro o acto en que se requiera;
 
-IV. Certificar las copias de las actas y documentos que se encuentren en el archivo del Consejo, previa autorización del Presidente;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-V. Suplir las ausencias eventuales del Presidente en las sesiones del Consejo convocadas conforme a este Reglamento;
+IV. Certificar las copias de las actas y los acuerdos emitidos por el Consejo, previa autorización del Presidente;
+
+V. (DEROGADA, P.O. 19 DE MAYO DE 2015)
 
 VI. Levantar las actas de las sesiones celebradas por el Consejo y pasar lista de asistencia, así como asentar los acuerdos en el libro correspondiente;
 
@@ -291,7 +329,7 @@ IX. Apoyar en sus funciones al Presidente y a los grupos de trabajo;
 
 X. Administrar y custodiar el archivo del Consejo;
 
-XI. Proponer ante el Consejo, al consejero que pueda suplirlo para el caso de solicitar licencia hasta por dos meses;
+XI. (DEROGADA, P.O. 19 DE MAYO DE 2015)
 
 XII. Respetar los acuerdos tomados por el Consejo; y,
 
@@ -315,25 +353,33 @@ VI. Las demás atribuciones que se deriven del presente Reglamento.
 
 ### CAPÍTULO CUARTO. DE LAS SESIONES DEL CONSEJO
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 18.
 
-El Consejo se reunirá en cualquier tiempo cuando haya asuntos urgentes que tratar.
+El Consejo sesionará ordinariamente una vez al mes.
 
 ###### Artículo 19.
 
 Las sesiones del Consejo se realizarán en el domicilio que se indique en la convocatoria o en el lugar que de común acuerdo determinen sus miembros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
+
 ###### Artículo 20.
 
-Por acuerdo del Presidente del Consejo o de las dos terceras partes del mismo, el Secretario citará a las sesiones ordinarias con por lo menos 48 horas de anticipación, y deberán acompañarse del orden del día respectivo.
+Por acuerdo del Presidente del Consejo o de las dos terceras partes del mismo, el Secretario Técnico convocará a las sesiones por lo menos con 48 horas de anticipación, la convocatoria podrá realizarse por escrito o a través de medios electrónicos, adjuntando el orden del día respectivo.
 
 En caso de que el orden del día incluya algún asunto que requiera de la previa consulta de información, en la propia convocatoria se anexará copia de la misma o, en su defecto, se describirán las características de la misma y el lugar en que ésta puede ser consultada.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
 ###### Artículo 21.
 
-El quórum necesario para la celebración de las sesiones del Consejo se integrará con la asistencia de la mitad más uno de sus miembros, y para ser válidas se requerirá la asistencia del Presidente o del Secretario del Consejo, en caso de ausencia de aquél.
+El quórum necesario para la celebración de las sesiones del Consejo se integrará con la asistencia de la mitad más uno de sus miembros.
+
+De no reunirse el quórum necesario .para que la sesión sea válida, se emitirá un segundo citatorio para que dicha sesión se celebre dentro de las 48 horas siguientes y será válida con el número de miembros que asistan.
+
+En caso de ausencia o licencia hasta por dos meses por causa justificada del Presidente del Consejo, la sesión será presidida por quien se designe de entre los miembros del Consejo, quien en dicho supuesto tendrá todas las atribuciones conferidas al Presidente del Consejo.
 
 ###### Artículo 22.
 
@@ -394,3 +440,11 @@ SEGUNDO.- Las atribuciones, derechos y obligaciones del Consejo Consultivo para 
 TERCERO.- Por esta única ocasión dentro del término de treinta días naturales siguientes a la entrada en vigor de las presentes reformas y derogaciones, el Ayuntamiento realizará la designación de los integrantes del Consejo Consultivo, los cuales durarán en su encargo hasta que conforme al presente reglamento tenga que nombrarse uno nuevo, a excepción del titular de la Dirección General de Desarrollo Urbano, quien formara parte de dicho Consejo por el simple hecho de su nombramiento.
 
 CUARTO.- Se derogan todas aquellas disposiciones normativas que se opongan a la presente modificación.
+
+P.O. 19 DE MAYO DE 2015.
+
+Artículo primero. El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. Por única ocasión los actuales integrantes del Consejo, durarán en su encargo hasta que conforme al presente Reglamento deba renovarse.
+
+Artículo tercero. Dentro de los siguientes 30 días naturales posteriores a la entrada en vigor de las presentes reformas el Consejo deberá realizar la designación de su Presidente.
