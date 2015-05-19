@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-822-para-la-integracion-de-las-personas-con-74107"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-11"
-last_updated: "2010-03-11"
+last_updated: "2015-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 822 PARA LA INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 822 PARA LA INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 822 PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MAYO DE 2015.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 11 de marzo de 2010.
 
@@ -81,7 +81,9 @@ XI. Discapacidad física. La secuela de una afección en el sistema nervioso cen
 
 XII. Discapacidad sensorial. La pérdida total o parcial de la capacidad visual o auditiva en el individuo;
 
-XIII. Discriminación. La distinción, exclusión o restricción que tenga el propósito o consecuencia de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones que las demás, de los derechos humanos y libertades fundamentales de las personas con discapacidad;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2015)</small>
+
+XIII. Discriminación: La distinción, exclusión o restricción por motivos de discapacidad o trastornos generalizados del desarrollo, que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
 XIV. Diseño universal. El de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni de diseño especializado;
 
@@ -109,7 +111,9 @@ XXV. Necesidades educativas especiales. Conjunto de medios o apoyos para la educ
 
 XXVI. Organizaciones. Las constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
 
-XXVII. Persona con discapacidad. La que presenta una deficiencia física, mental, intelectual o sensorial, permanente o temporal, o trastorno general del desarrollo, que limita su capacidad para ejercer actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social, por la existencia de barreras de acceso que impiden, en igualdad de condiciones que las demás, su participación plena y efectiva en la sociedad;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2015)</small>
+
+XXVII. Persona con discapacidad: La que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, y que, al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás; entendiéndose como discapacidad mental a la presencia de un desarrollo mental detenido o incompleto, derivado de lesiones o deficiencias en los procesos cerebrales, adquiridos de forma prenatal, perinatal, natal o posnatal, que afectan a nivel global la inteligencia, las funciones cognitivas, las del lenguaje, las motrices y la socialización, incluidos los trastornos generalizados del desarrollo;
 
 XXVIII. Prevención. La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales o sensoriales en el individuo;
 
@@ -120,6 +124,10 @@ XXX. Rehabilitación. El proceso de duración limitada y con un objetivo definid
 XXXI. Sistema Braille. El método de lectura y escritura, representado mediante signos en relieve, leídos en forma táctil por los ciegos;
 
 XXXII. Vida independiente. La capacidad del individuo para ejercer decisiones sobre su propia existencia y participación en el entorno social.
+
+> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2015)</small>
+
+XXXIII. Trastornos generalizados del desarrollo: Cualquier trastorno del desarrollo neurológico, que incluya los síndromes autista, de Rett, de Asperger, el trastorno desintegrativo de la infancia y el trastorno generalizado del desarrollo no especificado.
 
 ###### Artículo 3.
 
@@ -836,3 +844,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 19 DE MAYO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
