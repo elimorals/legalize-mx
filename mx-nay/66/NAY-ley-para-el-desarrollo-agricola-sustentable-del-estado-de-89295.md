@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-agricola-sustentable-del-estado-de-89295
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2013-03-16"
+last_updated: "2015-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 11 de agosto de 2012.
 
@@ -85,63 +85,67 @@ V.- Cadena Productiva Agrícola: Proceso que sigue un producto agrícola desde l
 
 VI.- Certificado Fitosanitario: Documento oficial expedido por la SAGARPA o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal, para la producción, movilización, importación o exportación de vegetales, así como los productos o subproductos que representen un riesgo fitosanitario;
 
-VII.- Certificado de Origen: Documento que avala la sanidad de los productos a movilizar en el Estado y fuera de él, emitido por terceros especialistas en la materia, autorizados previamente por la SAGARPA;
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2015)</small>
 
-VIII.- CESAVENAY: El Comité Estatal de Sanidad Vegetal en el Estado de Nayarit;
+VII.- Certificado de Aportación: Documento expedido por los Organismos Auxiliares de Sanidad Vegetal mediante el cual se otorga certeza del legal origen y propiedad de los productos agrícolas oriundos de Nayarit, necesario para su movilización en el Estado;
 
-IX.- Consejo: El Consejo Estatal para el Desarrollo Rural Sustentable previsto en la ley de Desarrollo Rural Sustentable, para propiciar la participación de los productores y demás agentes de la sociedad rural en las definiciones de prioridades regionales la planeación y distribución de recursos que los tres órdenes de gobierno destinen al apoyo de las inversiones productivas y al desarrollo agrícola sustentable;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-X.- Comercialización: Serie de servicios involucrados en el traslado de un producto desde el punto de producción hasta el punto de consumo;
+VIII.- Certificado de Origen: Documento que avala la sanidad de los productos a movilizar en el Estado y fuera de él, emitido por terceros especialistas en la materia, autorizados previamente por la SAGARPA;
 
-XI.- CONAGUA: La Comisión Nacional del Agua;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XII.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas adecuadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+IX.- CESAVENAY: El Comité Estatal de Sanidad Vegetal de Nayarit;
 
-XIII.- Estación cuarentenaria: Son instalaciones especializadas para el aislamiento de vegetales, donde se practican medidas fitosanitarias para prevenir y controlar la diseminación de enfermedades y plagas de los vegetales;
+X.- Consejo: El Consejo Estatal para el Desarrollo Rural Sustentable previsto en la Ley de Desarrollo Rural Sustentable, para propiciar la participación de los productores y demás agentes de la sociedad rural en las definiciones de prioridades regionales, la planeación y distribución de recursos que los tres órdenes de gobierno destinen al apoyo de las inversiones productivas y al desarrollo agrícola sustentable;
 
-XIV.- Extensionismo: El servicio prestado por personal de las instituciones de educación y de Investigación, así como de prestadores de servicios profesionales que facilitan el conocimiento, la información y la tecnología a productores, grupos y organizaciones económicas rurales dedicadas a la actividad agrícola;
+XI.- Comercialización: Serie de servicios involucrados en el traslado de un producto desde el punto de producción hasta el punto de consumo;
 
-XV.- INIFAP: El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
+XII.- CONAGUA: La Comisión Nacional del Agua;
 
-XVI.- Ley: La Ley para el Desarrollo Agrícola Sustentable del Estado de Nayarit;
+XIII.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas adecuadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XVII.- Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
+XIV.- Estación cuarentenaria: Son instalaciones especializadas para el aislamiento de vegetales, donde se practican medidas fitosanitarias para prevenir y controlar la diseminación de enfermedades y plagas de los vegetales;
 
-XVIII.- Programa Sectorial para el Desarrollo Agrícola Sustentable: El documento público oficial, que contiene los programas específicos, esquemas, lineamientos, metas y actividades especificas de política agrícola sustentable en el Estado de Nayarit, derivadas del Plan Estatal del Desarrollo en la materia;
+XV.- Extensionismo: El servicio prestado por personal de las instituciones de educación y de investigación, así como de prestadores de servicios profesionales que facilitan el conocimiento, la información y la tecnología a productores, grupos y organizaciones económicas rurales dedicadas a la actividad agrícola;
 
-XIX.- Proyecto Territorial: El instrumento que conjunta acciones orientadas a potenciar la competitividad de las actividades económicas de mayor inclusión social, con un enfoque de sustentabilidad a fin de mejorar el ingreso de los productores con potencial productivo, mediante su inserción en los mercados, propiciando la integración organizativa y la concurrencia de recursos para el desarrollo del territorio, elaborado con el acompañamiento de equipos técnicos de cooperación territorial en el marco de los Consejos Municipales y Distritales de Desarrollo Rural Sustentable;
+XVI.- INIFAP: El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
 
-XX.- Padrón: La lista que se formula ante la Secretaria con el fin de tener un censo de los productores agrícolas en la entidad;
+XVII.- Ley: La Ley para el Desarrollo Agrícola Sustentable del Estado de Nayarit;
 
-XXI.- Proceso Productivo: La articulación de fases componentes, medios de producción y fuerza de trabajo, mediante la cual se obtiene un producto de origen agrícola, desde la documentación técnica administrativa, la materia prima, los insumos, hasta la producción, transformación, traslado y comercialización del producto;
+XVIII.- Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
 
-XXII.- Programas de Financiamiento Rural: Créditos que son otorgados a productores rurales para la adquisición de bienes de capital o capital de trabajo para la producción primaria o transformación, traslado y comercialización de productos agrícolas;
+XIX.- Programa Sectorial para el Desarrollo Agrícola Sustentable: El documento público oficial, que contiene los programas específicos, esquemas, lineamientos, metas y actividades específicas de política agrícola sustentable en el Estado de Nayarit, derivadas del Plan Estatal del Desarrollo en la materia;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+XX.- Proyecto Territorial: El instrumento que conjunta acciones orientadas a potenciar la competitividad de las actividades económicas de mayor inclusión social, con un enfoque de sustentabilidad a fin de mejorar el ingreso de los productores con potencial productivo, mediante su inserción en los mercados, propiciando la integración organizativa y la concurrencia de recursos para el desarrollo del territorio, elaborado con el acompañamiento de equipos técnicos de cooperación territorial en el marco de los Consejos Municipales y Distritales de Desarrollo Rural Sustentable;
 
-XXIII.- Productor agrícola: La persona física que directa o indirectamente se dedica a la producción y comercialización primaria de productos y subproductos agrícolas;
+XXI.- Padrón: La lista que se formula ante la Secretaría con el fin de tener un censo de los productores agrícolas en la entidad;
 
-XXIV.- Programa Especial Concurrente: El Programa Especial Concurrente para el Desarrollo Rural Sustentable que incluye un conjunto de programas sectoriales relacionados con las materias motivos de esta ley;
+XXII.- Proceso Productivo: La articulación de fases componentes, medios de producción y fuerza de trabajo, mediante la cual se obtiene un producto de origen agrícola, desde la documentación técnica administrativa, la materia prima, los insumos, hasta la producción, transformación, traslado y comercialización del producto;
 
-XXV.- Programas Sectoriales: Los programas específicos del Gobierno Federal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
+XXIII.- Programas de Financiamiento Rural: Créditos que son otorgados a productores rurales para la adquisición de bienes de capital o capital de trabajo para la producción primaria, o transformación, traslado y comercialización de productos agrícolas;
 
-XXVI.- Sanidad Vegetal: Los actos que competen a la SAGARPA, orientados a la prevención, control y erradicación de plagas y enfermedades que afectan a los vegetales, sus productos o subproductos;
+XXIV.- Productor agrícola: La persona física que directa o indirectamente se dedica a la producción y comercialización primaria de productos y subproductos agrícolas;
 
-XXVII.- SAGARPA: La Secretaría de Agricultura, Ganadería. Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
+XXV.- Programa Especial Concurrente: El Programa Especial Concurrente para el Desarrollo Rural Sustentable que incluye un conjunto de programas sectoriales relacionados con las materias motivos de esta ley;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+XXVI.- Programas Sectoriales: Los programas específicos del Gobierno Federal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
 
-XXVIII.- Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+XXVII.- Sanidad Vegetal: Los actos que competen a la SAGARPA, orientados a la prevención, control y erradicación de plagas y enfermedades que afectan a los vegetales, sus productos o subproductos;
 
-XXIX.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la Secretaría de Agricultura Ganadería, Desarrollo Rural, Pesca y Alimentación, encargado de inspeccionar, vigilar y verificar el cumplimiento de las disposiciones legales en materia de semillas y variedades vegetales para siembras;
+XXVIII.- SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
 
-XXX.- Sistema -Producto Agrícola: El conjunto de elementos y agentes concurrentes de los procesos productivos agrícolas, incluidos el abastecimiento de equipo técnico, insumos y servicios de la producción primaria, el acopio, transformación, distribución y comercialización;
+XXIX.- Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
-XXXI.- SEMANAY: La Secretaría del Medio Ambiente para el Estado de Nayarit;
+XXX.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, encargado de inspeccionar, vigilar y verificar el cumplimiento de las disposiciones legales en materia de semillas y variedades vegetales para siembras;
 
-XXXII.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, y
+XXXI.- Sistema-Producto Agrícola: El conjunto de elementos y agentes concurrentes de los procesos productivos agrícolas, incluidos el abastecimiento de equipo técnico, insumos y servicios de la producción primaria, el acopio, transformación, distribución y comercialización;
 
-XXXIII.- VALOR AGREGADO: Es el valor adicional que adquiere un producto al ser transformado durante el proceso productivo.
+XXXII.- SEMANAY: La Secretaría del Medio Ambiente para el Estado de Nayarit;
+
+XXXIII.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal; y
+
+XXXIV.- Valor Agregado: Es el valor adicional que adquiere un producto al ser transformado durante el proceso productivo.
 
 ###### Artículo 4.
 
@@ -1065,17 +1069,21 @@ Asimismo, promoverá la producción de semilla certificada a nivel oficial y par
 
 ### Capítulo IV. De la movilización de productos agrícolas
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
 ###### Artículo 100.
 
-A solicitud expresa de los productores, la Secretaría en coordinación con la SAGARPA, el CESAVENAY y las Juntas Locales de Sanidad Vegetal, regulará y vigilará la movilización de productos y subproductos de origen agrícola a fin de que éstos cumplan con los requisitos establecidos por esta ley y la Ley Federal de Sanidad Vegetal.
+La Secretaría en coordinación con la SAGARPA, el CESAVENAY y las Juntas Locales de Sanidad Vegetal, regulará y vigilará la movilización de productos y subproductos de origen agrícola a fin de que estos cumplan con los requisitos establecidos por esta ley y la Ley Federal de Sanidad Vegetal.
 
-Los mecanismos de operación, cuotas y documentación requerida, estarán a cargo de las secretarías y autoridades auxiliares señalados en el artículo anterior, incluyendo las casetas o puntos de verificación en el Estado y sus zonas limítrofes.
+Los mecanismos de operación, cuotas y documentación requerida, estarán a cargo de las secretarías y autoridades auxiliares señalados en el párrafo anterior, incluyendo las casetas o puntos de verificación en el Estado y sus zonas limítrofes.
 
 ###### Artículo 101.
 
 La movilización de productos y subproductos agrícolas restringidos o cuarentenados provenientes de los centros de producción, deberán contar con los certificados de origen, tarjetas de manejo fitosanitario, certificado ·de aportación, certificado fitosanitario nacional o internacional según el destino, acorde a lo dispuesto en la Ley Federal de Sanidad Vegetal.
 
-Para el caso de productos no cuarentenados, deberán presentar documentos que acrediten su propiedad, siendo obligatorio presentarlos en las casetas o puntos de verificación internos o limítrofes, así como respetar y cumplir el itinerario o plan de traslado especificado en los mismos documentos para la movilización.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
+Para el caso de productos no cuarentenados, deberán presentar el certificado de aportación y documentos que acrediten su propiedad, siendo obligatorio presentarlos en las casetas o puntos de verificación internos o limítrofes, así como respetar y cumplir el itinerario o plan de traslado especificado en los mismos documentos para la movilización.
 
 ## TITULO QUINTO. Inspección, Sanción y Vigilancia
 
@@ -1256,3 +1264,9 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Consti
 P.O. 16 DE MARZO DE 2013.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 19 DE MAYO DE 2015.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
