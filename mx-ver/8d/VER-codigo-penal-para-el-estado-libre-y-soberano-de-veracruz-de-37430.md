@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2015-04-20"
+last_updated: "2015-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MAYO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2151,7 +2151,7 @@ Al responsable de tentativa en la conducta señalada en el artículo anterior, s
 
 ### CAPÍTULO III. SUSTRACCIÓN O RETENCIÓN DE MENORES O INCAPACES
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 221.
 
@@ -2319,7 +2319,7 @@ No procederá el perdón para quien habiéndolo obtenido sea procesado nuevament
 
 ###### Artículo 241.
 
-A quien le una parentesco con persona menor de dieciocho años de edad o incapaz, o al que por instrucciones de aquél, sin causa justificada o sin orden de autoridad competente, la sustraiga de la custodia o guarda de quien la tenga de hecho o por derecho, o bien la retenga sin la voluntad de ésta, se le impondrán de dos a seis años de prisión y multa de hasta cien días de salario.
+A quien le una parentesco con persona menor de dieciocho años de edad o incapaz, o a quien por instrucciones de aquél, sin causa justificada o sin orden de autoridad competente, la sustraiga de la custodia o guarda de quien la tenga de hecho o por derecho, o bien la retenga sin la voluntad de ésta, se le impondrán de dos a nueve años de prisión y multa de hasta cien días de salario.
 
 ###### Artículo 242.
 
@@ -4138,3 +4138,7 @@ G.O. 20 DE ABRIL DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 19 DE MAYO DE 2015.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
