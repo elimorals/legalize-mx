@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2015-05-07"
+last_updated: "2015-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
 
@@ -2331,6 +2331,28 @@ Al que gestione u obtenga una concesión, permiso o placas de circulación que p
 
 Las autoridades competentes, procederán al inmediato aseguramiento de los vehículos que podrían ser materia del decomiso, durante la averiguación o en el proceso.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE MAYO DE 2015)</small>
+
+### CAPITULO V.
+
+Del tráfico de plazas y servicios.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+240 Ter.- Se impondrá pena de tres a siete años de prisión y multa de cien a quinientas veces el salario mínimo, a quien obtenga un lucro o beneficio económico, prometiendo falsamente otorgar u obtener para otra persona un empleo, trabajo, cargo, plaza, comisión o nombramiento en el sector público o privado, o una concesión, autorización, permiso, licencia, contrato o trámite respecto de un servicio público.
+
+Si el sujeto activo es servidor público, se aumentará en una mitad los mínimos y máximos de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ejercer otro por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE MAYO DE 2015)</small>
+
+### CAPITULO VI.
+
+De la prestación irregular de servicios educativos.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+240 Quater.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos al prestador de servicios educativos particulares que a sabiendas de que no tiene autorización o reconocimiento de validez oficial de estudios conforme a la ley aplicable, manifieste en su publicidad ó documentación tenerlo, no lo manifieste ó argumente que se encuentra en proceso de reconocimiento o autorización. La sanción prevista en esta fracción se impondrá sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan en su caso.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)</small>
 
 TITULO DECIMOSEGUNDO.
@@ -3337,6 +3359,12 @@ Los delitos previstos en este Capítulo se perseguirán por querella.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO III BIS.
 
 Retención.
@@ -3417,12 +3445,6 @@ Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento ve
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)</small>
 
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
-
 ### CAPITULO IV BIS.
 
 Extorsión.
@@ -3459,21 +3481,55 @@ Cuando el sujeto activo en estos supuestos sea o haya sido integrante de alguna 
 
 Despojo de cosas inmuebles o de aguas.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 1987) (F. DE E., P.O. 18 DE MAYO DE 1988)
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-384.- Se aplicará la pena de dos a ocho años de prisión y multa de cien a ciento cincuenta veces el salario:
+384.- Comete el delito de despojo de inmuebles, quien por medio de la violencia física o moral, o furtivamente, o empleando la amenaza o engaño, realice cualquiera de las siguientes conductas:
 
-I.- Al que de propia autoridad y haciendo violencia física o moral a las personas o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno o haga uso de él o de un derecho legal que no le pertenezca;
+I.- Que de propia autoridad ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
 
-II.- Al que de propia autoridad y en cualquiera de las formas indicadas en la Fracción anterior ocupe un inmueble de su propiedad, en los casos en que la Ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
+II.- Que de propia autoridad ocupe un inmueble de su propiedad en los casos en los que la ley no lo permite por hallarse en poder de otra persona; o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
 
-III.- Al que en los términos de las Fracciones anteriores cometa despojo de aguas.
+III.- Quien, con propósito de apropiarse de una fracción o de la totalidad del inmueble, altere términos o linderos de predios, o cualquier clase de señales o mojoneras, destinadas a fijar los límites de predios contiguos, tanto de dominio privado como de dominio público;
 
-La pena será aplicable aún cuando la posesión de la cosa usurpada sea dudosa o esté en disputa.
+IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la reserva territorial del Estado o de los Municipios, sin derecho ni autorización de autoridad competente, aún cuando con ello tipifiquen su acción en un asentamiento irregular;
 
-385.- A las penas que señala el Artículo anterior, se acumulará la que corresponda por la violencia o la amenaza.
+V.- Quien de propia autoridad ocupe un inmueble o las riveras que forman parte de la infraestructura o reserva territorial del Estado, o de los Municipios, sin derecho ni autorización de autoridad competente;
 
-386.- Cuando alguno de los delitos a que se refiere este Capítulo lo cometieren más de cinco individuos, se aumentará la prisión de uno a seis años.
+VI.- Quien desvíe o haga uso de aguas propias o ajenas o impida su libre curso, en los casos en que la ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan;
+
+VII.- Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al Estado o Municipios en beneficio colectivo de una comunidad urbana o rural ó para uso doméstico.
+
+El delito de despojo, se perseguirá a petición de parte ofendida, con excepción de las fracciones IV, V y VII, en cuyo caso se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
+385.- Al responsable del delito de despojo se le aplicarán:
+
+I.- De tres a cinco años de prisión y multa de doscientos a cuatrocientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces dicho salario mínimo;
+
+II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el dicho salario mínimo, pero no de veintitrés mil quinientos veintidós;
+
+III.- De diez a quince años de prisión y multa de seiscientos a ochocientos días salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el dicho salario mínimo.
+
+La punibilidad será aplicable, aun cuando el derecho a la posesión del objeto material del despojo sea dudoso o esté en disputa.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
+386.- Se aplicará la pena de quince a veinte años de prisión y multa de ochocientos a mil días de salario mínimo general vigente en el Estado, si el despojo se realiza por dos o más personas; al que planee, o induzca, o financie, o dirija, o propicie la acción de despojo; si el que lo ejecutare fuera servidor público en ejercicio de sus funciones o con motivo de ellas.
+
+A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urbanos o rústicos y se acredite su reincidencia, se les aplicará de veinte a veinticinco años de prisión. Se considera que se dedican a promover el despojo de inmuebles urbanos en forma reiterada, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o bien, se les hubiere decretado en más de dos ocasiones auto de formal prisión por este mismo delito, salvo cuando en el proceso correspondiente se hubiese resuelto el desvanecimiento de datos, el sobreseimiento o la absolución del inculpado.
+
+Si al realizarse el despojo se cometen otros delitos, aun sin la participación física de los que planeen, induzcan, financien, dirijan, o propicien la invasión, se considerará a todos estos, inculpados de los delitos cometidos.
+
+A las penas que señala el artículo anterior, se acumulará la que corresponda por la violencia o la amenaza.
+
+Si para cometer el delito se destruye la propiedad, se observarán las reglas del concurso.
+
+Cuando el delito de despojo se cometa en el medio rural, sin violencia, se trate de delincuentes primarios y se acredite haber reparado el daño a satisfacción del ofendido, la sanción que se imponga será hasta de seis meses de prisión o multa hasta de cien días de salario mínimo general vigente para nuestro Estado.
+
+En el delito de despojo de inmueble, el perdón del ofendido extingue la acción penal, una vez que se haya restituido el inmueble y que no hubiere resultado daño. Para el caso de que exista algún daño en la propiedad, además de que sea restituido el inmueble, se requerirá repararlo a satisfacción del ofendido.
+
+Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3485,6 +3541,10 @@ Daños.
 
 387.- Se aplicarán las penas de robo simple al que por cualquier medio destruya o deteriore alguna cosa ajena o propia, en perjuicio de otro.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+Cuando el delito se ejecute por persona que fuera embozado y por objeto de manifestaciones, se aumentará la sanción al doble y se impondrá (sic) multas correspondientes de quinientos a mil salarios mínimos.
+
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 388.- Al que causare daños mediante inundación, incendio, minas, bombas, o explosivos, o los causare de cualquier modo en bienes de valor científico, artístico, cultural o de utilidad pública, se le aplicará:
@@ -3492,6 +3552,16 @@ Daños.
 I.- De dos a cinco años de prisión y de treinta a doscientos días multa, si el monto del daño no excede de quinientos salarios; y
 
 II.- De cinco a doce años de prisión y de doscientos a quinientos días multa, si el monto excede de quinientos salarios.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+388 Bis.- Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientos días de salario mínimo vigente o prisión de seis meses a tres años.
+
+Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientos días de salario mínimo vigente o pena privativa de libertad de dos años a seis años.
+
+En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
+
+Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3772,194 +3842,6 @@ Si entre el activo y la víctima existió una relación de parentesco por consan
 Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
 
 ARTICULOS TRANSITORIOS:
-
-### CAPITULO I.
-
-Delitos contra la Legitimidad de las Elecciones.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-391.- Se impondrá prisión de seis meses a tres años y multa de diez a cien días del salario mínimo vigente, a quien:
-
-I.- Vote sin tener credencial para votar y no esté inscrito en la lista nominal de electores;
-
-II.- Vote más de una vez en una misma elección;
-
-III.- Vote con una credencial de la que no sea titular;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-IV.- Haga proselitismo o presione de cualquier manera a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-V.- Se apodere o destruya una o varias urnas de votación, obstaculice o Interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electores;
-
-VI.- Recoja sin causa prevista por la Ley, una o varias credenciales de elector de los ciudadanos, antes o después de emitir su voto;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-VII.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
-
-VIII.- Viole de cualquier manera el secreto del voto;
-
-IX.- Organice, el día de la elección, la reunión y traslado de electores con el objeto de llevarlos a votar y de violar la libertad y el secreto del voto;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales;
-
-XI.- Se apodere, destruya o deteriore ilegítimamente propaganda o documentación relativa a un partido político o candidato durante el proceso electoral;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa de paga o dádiva;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-XIII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación de la casilla;
-
-XIV.- Por cualquier medio obstaculice o impida la realización de los cómputos electorales posteriores a la jornada electoral; y
-
-XV.- Se posesione de oficinas de los órganos electorales o retenga una o varias personas, con el fin de obligar a la autoridad electoral, a que realice o deje de realizar un acto de su competencia.
-
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-XVI.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos; y
-
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-XVII.- Solicite y retenga durante la campaña electoral una o varias credenciales de elector con motivo no lícito.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-392.- Se impondrá de uno a cinco años de prisión, quien o quienes mediante la violencia provoquen desestabilización o ingobernabilidad en uno o varios municipios del Estado, con la finalidad de alterar el resultado de las elecciones, estén o no agotados los recursos previstos por la ley.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-393.- Se impondrá prisión de tres a siete años y multa de setenta a doscientos días de salario mínimo vigente, a quien por cualquier medio participe en la alteración del registro de electores, del Padrón Electoral y de los listados nominales o en la expedición ilícita de credenciales para votar.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-394.- Se impondrá prisión de uno a seis años y multa de cien a doscientos días de salario mínimo vigente, al funcionario partidista que:
-
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
-
-III.- Substraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
-
-IV.- Suspendan el desarrollo normal de la votación o ejerza violencia física o moral sobre los funcionarios electorales;
-
-V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral, o respecto de sus resultados; y
-
-VI.- Impida la instalación, apertura o cierre de una casilla.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-395.- Se impondrá prisión de dos a nueve años al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas, aprovechen ilícitamente fondos, bienes o servicios en los términos del artículo 398 de este Capítulo.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-396.- Se impondrá prisión de dos a seis años y multa de cincuenta a doscientos días de salario mínimo vigente al funcionario electoral que:
-
-I.- Altere en cualquier forma, sustituya o haga uso indebido de documentos relativos al Registro Federal de Electores que deban utilizarse en las elecciones locales;
-
-II.- Se abstenga de cumplir sin causa justificada con sus obligaciones electorales en perjuicio del proceso;
-
-III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos, o materiales electorales, sin mediar causa justificada;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
-
-VI.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-VII.- Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia, o impida su instalación;
-
-VIII.- Instale una casilla en lugar distinto al señalado por los órganos electorales, sin causa justificada;
-
-IX.- No haga constar oportunamente las violaciones de que haya tenido conocimiento en el desarrollo del proceso electoral, o se rehuse infundadamente a admitir los recursos que ante él se interpongan;
-
-X.- No admita la solicitud de inscripción de alguna persona o se niegue a inscribirla, cuando sea procedente, altere oculte o substraiga documentación relativa a los padrones y listas nominales que deban utilizarse en las elecciones locales;
-
-XI.- No proporcione oportunamente la documentación electoral correspondiente a los presidentes de las mesas directivas de casillas, a no ser que medie causa justificada;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-XII.- Sin causa prevista por la Ley, expulse u ordene el retiro de la casilla electoral de representantes de un partido político, o coarte los derechos que la ley les concede;
-
-XIII.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
-
-XIV.- Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple con los requisitos de la ley, o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
-
-XV.- Retenga o no entregue al organismo electoral correspondiente, el paquete electoral, en los tiempos previstos en la ley o por acuerdo de los órganos electorales, sin causa justificada;
-
-XVI.- Se niegue sin causa justificada, teniendo la obligación de hacerlo, a registrar los nombramientos de los representantes de los partidos políticos, dentro de los plazos establecidos en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca; y
-
-XVII.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-397.- Se impondrá prisión de uno a nueve años y multa de doscientos a cuatrocientos días de salario mínimo vigente al servidor público que:
-
-I.- Obligue a sus subordinados a emitir sus votos a favor de un partido político o candidato.
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
-
-III.- Prive de la libertad a los candidatos, a los representantes de los partidos políticos o a los funcionarios electorales, bajo pretexto de comisión de delitos o faltas administrativas inexistentes y sin existir orden de detención o de aprehensión para ello; y
-
-IV.- Impida la realización de una reunión, asamblea, manifestación pública, o cualquier acto legal de propaganda electoral.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-398.- Se impondrá prisión de dos a nueve años, al servidor público que: Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado u otros, o proporcione ese apoyo a través de sus subordinados, usando el tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-399.- Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer, además de la pena que corresponda, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-400.- Al servidor público mencionado por el artículo 211 del Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, que se niegue sin causa justificada a cumplir las funciones que establece el mismo precepto, se le aplicará una multa de cien a doscientos días de salario mínimo vigente o inhabilitación para obtener algún cargo público.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-401.- Se impondrá multa de 500 días de salario mínimo vigente, al ministro de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio, induzca al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
-### CAPITULO II.
-
-Reglas Comunes.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-402.- Para los efectos del capítulo anterior se entiende por:
-
-I.- Funcionarios electorales: quienes en términos de la legislación local electoral, integren los órganos que cumplen funciones públicas electorales;
-
-II.- Funcionarios partidistas: Los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación local electoral;
-
-III.- Servidores públicos: son los representantes de elección popular, los miembros del Poder Judicial, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a éstas, o en fideicomisos de participación estatal o municipal; y
-
-IV.- Documentos electorales: boletas para votar, las actas oficiales de la jornada electoral, actas de escrutinio y cómputo de las mesas directivas de casilla y de los cómputos distritales o municipales; en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
-
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
-
-V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
-
-403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO I
 
@@ -4364,3 +4246,7 @@ PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y
 SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
