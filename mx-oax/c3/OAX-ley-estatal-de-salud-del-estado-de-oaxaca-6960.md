@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2015-01-23"
+last_updated: "2015-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-LEY ESTATAL DE SALUD
+LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -279,7 +279,7 @@ La competencia de las autoridades sanitarias en la planeación, regulación, org
 
 La Secretaría de Salud del Estado con la participación que corresponda al Comité de Planeación del Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2004)</small>
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
@@ -715,7 +715,7 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO IV. ATENCION INFANTIL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 56.
 
@@ -1456,14 +1456,6 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 ### CAPITULO IV. PROGRAMAS CONTRA LA VIOLENCIA INTRAFAMILIAR
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
-
-ARTICULO155-BIS.- Los Gobiernos Estatal y Municipales coordinarán la ejecución de un programa contra la violencia intrafamiliar con el fin de:
-
-I.- Capacitar a los servidores públicos que proceda, a fin de que adquieran los conocimientos y habilidades necesarios para detectar a víctimas de dicha violencia y tratarlas debidamente;
-
-II.- Organizar campañas educativas tendientes a erradicar la violencia intrafamiliar, abuso sexual y abandono; y
-
-III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
 ###### ARTICULO 126.
 
@@ -2329,10 +2321,6 @@ Los transportes que circulen por uno o más municipios del Estado de Oaxaca no r
 
 ### CAPITULO PRIMERO
 
-DISPOSICIONES COMUNES.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
-
 ###### ARTICULO 237.
 
 Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
@@ -2343,9 +2331,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad y de tipo sanitario que establezcan las disposiciones legales aplicables, así como los preceptos reglamentarios y las normas oficiales correspondientes.
 
-### CAPITULO SEGUNDO. DONACION
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 239.
 
@@ -2387,13 +2373,9 @@ El Sistema Estatal de Salud, mantendrá campañas de orientación a la població
 
 ## TITULO DECIMO CUARTO
 
-DONACION, TRANSPLANTES Y PERDIDA DE LA VIDA.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
-
-### CAPITULO TERCERO. TRANSPLANTES
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+### CAPITULO TERCERO
 
 ###### ARTICULO 243.
 
@@ -2449,9 +2431,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación Fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO CUARTO. PERDIDA DE LA VIDA
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+### CAPITULO CUARTO
 
 ###### ARTICULO 251.
 
@@ -2583,7 +2563,7 @@ Los certificados a que se refiere este capítulo, se extenderán en los modelos 
 
 Las autoridades judiciales o administrativas solo admitirán como válidas (sic) los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
@@ -2595,91 +2575,33 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 ###### ARTICULO 264.
 
-Compete a la Secretaría de Salud.
-
-I.- El control sanitario de las donaciones y transplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado del Centro Estatal de Transplantes; y
-
-II.- La regulación y el control sanitario sobre cadáveres.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 265.
 
-Para efectos de este título se entiende por:
-
-I.- Células germinales, a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
-
-II.- Cadáver, al cuerpo humano en el que se compruebe la presencia de signos de muerte referidos en la fracción II, del artículo 292 de esta ley;
-
-III.- Componentes, a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
-
-IV.- Componentes sanguíneos, a los elementos de la sangre y demás sustancias que lo conforman;
-
-V.- Destino final, a la conservación permanente, inhumación, incineración, desintegración e inactivación de los órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo embriones y fetos, en condiciones sanitarias permitidas por esta Ley y demás disposiciones aplicables;
-
-VI.- Disponente, a aquel que conforme a los términos de la ley le corresponde disponer sobre su cuerpo o cualquiera de los componentes en vida y para después de su muerte;
-
-VII.- Donador o donante, al que tácita o expresamente consiente la disposición de su cuerpo o componentes para su utilización en transplantes;
-
-VIII.- Embrión, al producto de la concepción a partir de ésta, y hasta el término de la duodécima semana gestacional;
-
-IX.- Feto, al producto de la concepción a partir de la decimotercera semana de edad gestacional, hasta la expulsión del seno materno;
-
-X.- Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los trabajos fisiológicos;
-
-XI.- Producto, a todo tejido o sustancia extraída o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este título, la placenta y los anexos de la piel;
-
-XII.- Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
-
-XIII.- Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función; y
-
-XIV.- Transplante, a la transferencia de un órgano, tejido, o células de una parte del cuerpo o otra, de un individuo a otro y que se integre a organismo.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 266.
 
-Los establecimientos de salud que requieren autorización sanitaria son los dedicados a:
-
-I.- La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
-
-II.- Los transplantes de órganos y tejidos;
-
-III.- Bancos de órganos, tejidos y células, y
-
-IV.- Bancos de sangre y servicios de transfusión.
-
-La Secretaría de Salud otorgará la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta ley y demás aplicables.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 267.
 
-Los establecimientos a que se refiere el artículo anterior contarán con un responsable sanitario, quien deberá presentar aviso ante la Secretaría de Salud.
-
-Los establecimientos en los que se extraigan órganos y tejidos o se realicen transplantes, adicionalmente, deberán contar con un Comité Interno de Transplantes y con un Coordinador de estas acciones.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 268.
 
-Los órganos, tejidos y células no podrán ser sacados del territorio nacional.
-
-Los permisos para que los tejidos puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo en los casos de urgencia.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 269.
 
-Para el control sanitario de los productos y de la disposición del embrión y de las células germinales, se estará a lo dispuesto en esta Ley, en lo que resulte aplicable y en las demás disposiciones que al efecto se expidan.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 270.
 
-Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectúe sin estar autorizada por la ley.
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
 ### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
@@ -2687,81 +2609,45 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 ###### ARTICULO 271.
 
-Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en este título.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 272.
 
-La donación en materia de órganos, tejidos, células y cadáveres, consiste en la voluntad tácita o expresa de la persona para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para transplantes.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 273.
 
-La donación expresa constará por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
-
-En la donación expresa podrá señalarse que ésta se hace a favor de determinadas personas o instituciones. También podrá expresar el donante las circunstancias de modo, lugar, tiempo y cualquier otra que condicione la donación.
-
-La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su voluntad en cualquier momento, sin responsabilidad civil para este.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 274.
 
-Se requerirá la voluntad expresa del donante:
-
-I.- Para la donación de órganos y tejidos en vida; y
-
-II.- Para la donación de sangre, componentes sanguíneos y células progenitoras hematopoyéticas.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 275.
 
-Habrá voluntad tácita del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para transplantes, siempre y cuando se obtenga también la voluntad de algunas de las siguientes personas; el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, conforme a la prelación señalada.
-
-El escrito en el que la persona exprese su negativa a donar, podrá ser privado o público y deberá estar firmado por este, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría de Salud en coordinación con otras autoridades competentes.
-
-Las Disposiciones Reglamentarias determinarán la forma para obtener dicho consentimiento.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 276.
 
-La voluntad tácita sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del disponente.
-
-En el caso de la donación tácita, los órganos y tejidos sólo podrán extraerse cuando se requieran para fines de transplantes.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 277.
 
-La voluntad tendrá las siguientes restricciones respecto de las personas que a continuación se indican:
-
-I.- La tácita o expresa otorgada por alguien que se encuentre impedido para expresarlo libremente, no será válido; y
-
-II.- La expresa otorgada por una mujer embarazada sólo será admisible si el receptor estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 278.
 
-Está prohibido el comercio de órganos, tejidos y células, la donación de éstos con fines de transplantes, se regirá por los principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización son estrictamente a título gratuito.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 279.
 
-Sólo en el caso de pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la Autoridad Judicial, para la extracción de órganos y tejidos.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 280.
 
-El Centro Estatal de Transplantes hará constar el mérito y altruismo del donador y su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
 ### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS
 
@@ -2771,113 +2657,49 @@ DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 281.
 
-Los transplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de orden terapéutico.
-
-Está prohibido:
-
-I.- El transplante de gónadas o tejidos, y
-
-II.- El uso, para cualquier finalidad, de tejidos o embrionarios o fetales producto de aborto inducido.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 282.
 
-La obtención de órganos o tejidos para transplantes se hará preferentemente de sujetos en los que se haya comprobado la pérdida de la vida.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 283.
 
-La selección del donante y del receptor se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud a través del reglamento respectivo.
-
-No se podrán tomar órganos y tejidos para transplantes de menores de edad vivos, excepto cuando se trate de transplantes de médula ósea, para lo cual se requerirá el consentimiento expreso de los representantes legales del menor.
-
-Tratándose de menores que han perdido la vida, sólo se podrán tomar sus órganos y tejidos para transplantes con el consentimiento expreso de los representantes legales del menor.
-
-En el caso de incapaces y de otras personas sujetas a interdicción no podrá disponerse de sus componentes, ni en vida ni después de su muerte.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 284.
 
-Para realizar transplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
-
-I.- Ser mayor de edad y estar en pleno goce de sus facultades mentales:
-
-II.- Donar un órgano o parte de él que al ser extraído su función pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
-
-III.- Tener compatibilidad aceptable con el receptor;
-
-IV.- Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el transplante; y
-
-V.- Haber otorgado su consentimiento en forma expresa.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 285.
 
-Para realizar transplantes de donantes que hayan perdido la vida, deberá cumplirse lo siguiente:
-
-I.- Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el transplante o en la obtención de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en éste título;
-
-II.- Existir consentimiento expreso del disponente o no constar su revocación del tácito para la donación de sus órganos y tejidos; y
-
-III.- Asegurarse que no exista riesgo sanitario.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 286.
 
-Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en transplantes, deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Estatal de Transplantes.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 287.
 
-Para la asignación de órganos y tejidos de donador no vivo, se tomarán en cuenta la gravedad del receptor, la oportunidad del transplante, los beneficios esperados, la compatibilidad con el receptor y los demás criterios médicos aceptados.
-
-Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a las listas que se integrarán con los datos de los mexicanos en espera, y que estarán a cargo del Centro Estatal de Transplantes.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 288.
 
-El Centro Estatal de Transplantes tendrá a su cargo el Registro Estatal de Transplantes, el cual integrará y mantendrá actualizada la siguiente información.
-
-I.- Los datos de los receptores, de los donadores y fecha del transplante;
-
-II.- Los establecimientos autorizados conforme al artículo 315 de la Ley General de Salud Federal;
-
-III.- Los profesionales de las disciplinas para la salud que intervengan en transplantes;
-
-IV.- Los pacientes en espera de algún órgano o tejido, integrados en la lista estatal; y
-
-V.- Los casos de muerte cerebral.
-
-En los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el artículo 315 de la Ley General de Salud Federal y los profesionales de las disciplinas de salud que intervengan en transplantes deberán proporcionar la información relativa a las fracciones I, III, IV y V de éste artículo.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 289.
 
-El Centro Estatal de Transplantes, cuya integración y funcionamiento quedará establecido en las disposiciones reglamentarias que para efectos de esta Ley se emitan, así como el Centro Nacional de Transplantes, decidirán y vigilarán la asignación de órganos, tejidos y células, dentro de sus respectivos ámbitos de competencia. Así mismo, actuarán coordinadamente en el fomento y promoción de la cultura de la donación, para lo cual, participarán con el Consejo Nacional de Transplantes.
-
-El Centro Estatal de Transplantes proporcionará al Registro Nacional de Transplantes la información correspondiente al Estado de Oaxaca, y su actualización.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 290.
 
-La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables. La sangre será considerada como tejido.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 291.
 
-Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un deshecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso, los establecimientos de salud podrán disponer de ellos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud del Estado.
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
 ### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
@@ -2885,47 +2707,17 @@ Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por
 
 ###### ARTICULO 292.
 
-Para efectos de este título, la pérdida de la vida ocurre cuando:
-
-I.- Se presente la muerte cerebral; o
-
-II.- Se presenten los siguientes signos de muerte:
-
-a) La ausencia completa y permanente de conciencia;
-
-b) La ausencia permanente de respiración espontánea;
-
-c) La ausencia de los reflejos del talle cerebral, y
-
-d) El paro cardiaco irreversible.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 293.
 
-La muerte cerebral se presenta cuando existen los siguientes signos:
-
-I.- Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
-
-II.- Ausencia de automatismo respiratorio; y
-
-III.- Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
-
-Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
-
-Los signos señalados en las fracciones anteriores deberán corroborarse por cualquiera de las siguientes pruebas:
-
-I.- Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o
-
-II.- Electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
 ###### ARTICULO 294.
 
-No existirá impedimento alguno para que la solicitud o autorización de las siguientes personas; el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, conforme al orden expresado, se prescinda de los medios artificiales que evitan que en aquella persona que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la fracción II del artículo 343 de la Ley General de Salud Federal.
+(DEROGADO POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2004)</small>
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
@@ -3047,7 +2839,7 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de que los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004) (F. DE E., P.O. 26 DE JUNIO DE 2004)
+(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004) (F. DE E., P.O. 26 DE JUNIO DE 2004)
 
 ###### ARTICULO 307.
 
@@ -3209,7 +3001,7 @@ La violación de las disposiciones en los artículos 301 y 315 de esta ley, se s
 
 ###### ARTICULO 323.
 
-Se sancionará con multa de mil hasta cuatro mi veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 301 y 315 de esta Ley.
+Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 301 y 315 de esta Ley.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3271,7 +3063,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 331.
 
@@ -3365,7 +3157,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 341.
 
@@ -3457,7 +3249,7 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 353.
 
@@ -3537,7 +3329,7 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. "EL RESPETO AL DERECHO AJENO ES LA PAZ "Oaxaca de Juárez, Oax., febrero 17 de 1994. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE ANTONIO ESTEFAN GARFIAS. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE FEBRERO DE 1998.
 
@@ -3565,11 +3357,11 @@ TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que con
 
 P.O. 12 DE ABRIL DE 2004.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 22 DE MARZO DE 2005.
 
-UNICO.-EI presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 23 DE ENERO DE 2015.
 
@@ -3588,3 +3380,21 @@ QUINTO.- Las Autoridades Municipales deberán instrumentar en un plazo no mayor 
 SEXTO.- Se abroga el Decreto Número 485 de la Quincuagésima Octava Legislatura del Estado Libre y Soberano de Oaxaca, por el que se expide la Ley para la Protección de los No fumadores en el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado veintiuno de agosto de dos mil cuatro.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2015.
+
+Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+Segundo. El Consejo Estatal de Trasplantes del Estado de Oaxaca regulado en esta Ley, deberá será (sic) ratificado por el Gobernador del Estado, dentro de los 90 días posteriores a la aprobación del presente Decreto.
+
+Tercero. El Comité de Trasplantes, el Comité Académico, así como los grupos de trabajo del Consejo de Trasplantes del Estado de Oaxaca, regulados en esta Ley serán integrados a los 120 días posteriores a la aprobación del presente Decreto.
+
+Cuarto. La Secretaría de Salud en el Estado y el Consejo de Trasplantes del Estado de Oaxaca, verificarán que los Comités Internos de Trasplantes queden conformados a los 90 días posteriores a la ratificación del Consejo.
+
+Quinto. El Registro Estatal regulado en la presente Ley quedará conformado a los 120 días posteriores a la aprobación del presente Decreto.
+
+Sexto. El Titular del Poder Ejecutivo del Estado, deberá incluir dentro del Presupuesto de Egresos de la Secretaría de Salud del Estado, lo referente al Consejo de Trasplantes del Estado de Oaxaca.
+
+Séptimo. El Reglamento Interno del Consejo de Trasplantes del Estado de Oaxaca, regulado en esta Ley deberá ser elaborado dentro de los 120 días siguientes a la aprobación del presente Decreto.
+
+Octavo. Se deroga el Título Décimo Cuarto de la Ley Estatal de Salud, así como todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
