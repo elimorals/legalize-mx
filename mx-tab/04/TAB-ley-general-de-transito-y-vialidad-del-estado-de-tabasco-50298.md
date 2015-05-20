@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2009-12-26"
+last_updated: "2015-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY GENERAL DE TRANSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-LEY GENERAL DE TRANSITO Y VIALlDAD DEL ESTADO DE TABASCO
+LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -53,27 +53,31 @@ LEY GENERAL DE TRÁNSITO Y VIALlDAD DEL ESTADO DE TABASCO
 
 La presente Ley es de orden público e interés social en el Estado de Tabasco; tiene por objeto regular y ordenar la circulación de vehículos, peatones y animales en el uso de la vía pública, carreteras, puentes estatales y caminos rurales, así como la estructura vial y el medio ambiente en cuanto fueren las causas de tránsito.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de esta Ley se entenderá por:
 
-Vehículo: Todo medio de tracción mecánica, humana o animal, que se utiliza para transportar personas, animales o cosas.
+I. Conductor: Toda persona que maneje un vehículo por la vía pública;
 
-Peatón: Toda persona que transita a pie por la vía pública.
+II. Infracción: Conducta realizada por el usuario de la vía pública que transgrede alguna disposición de esta Ley y su Reglamento, y que tiene como consecuencia una sanción;
 
-Vía pública: Todo espacio de uso común destinado al tránsito, entre los que se encuentran autopistas, carreteras, puentes, avenidas, calles, andadores, brechas, caminos pavimentados o de terracería, banquetas, pasos de circulación temporal o permanente de competencia estatal o municipal.
+III. Peatón: Toda persona que transita a pie por la vía pública;
 
-Vialidad: Es el sistema de vías públicas utilizado para el tránsito de vehículos, peatones y animales.
+IV. Prescripción: Extinción de una acción o sanción por el efecto del paso del tiempo;
 
-Conductor: Toda persona que maneje un vehículo por la vía pública.
+V. Sanción: Pena corporal, administrativa o pecuniaria aplicada por actos u omisiones que infrinjan la normatividad en materia de tránsito y vialidad;
 
-Prescripción: Extinción de una acción o sanción por el efecto del paso del tiempo.
+VI. Tránsito.- Es la acción o efecto de trasladarse por la vía pública;
 
-Sanción: Pena corporal, administrativa o pecuniaria aplicada por actos u omisiones que infrinjan la normatividad en materia de tránsito y vialidad.
+VII. Uno por Uno.- Programa de control de tránsito vehicular, que utiliza la colocación de disco o señalamiento con esta leyenda, que las autoridades de tránsito competentes colocan en las intersecciones de las calles con mayor circulación con la finalidad de regular el tráfico, evitar congestionar la vialidad y disminuir la incidencia de accidentes automovilísticos;
 
-Infracción: Conducta realizada por el usuario de la vía pública que transgrede alguna disposición de esta Ley y su Reglamento, y que tiene como consecuencia una sanción.
+VIII. Vía pública: Todo espacio de uso común destinado al tránsito, entre los que se encuentran autopistas, carreteras, puentes, avenidas, calles, andadores, brechas, caminos pavimentados o de terracería, banquetas, pasos de circulación temporal o permanente de competencia estatal o municipal;
 
-Tránsito: Es la acción o efecto de trasladarse por la vía pública.
+IX. Vialidad: Es el sistema de vías públicas utilizado para el tránsito de vehículos, peatones y animales; y
+
+X. Vehículo: Todo medio de tracción mecánica, humana o animal, que se utiliza para transportar personas, animales o cosas.
 
 ###### ARTÍCULO 3.
 
@@ -542,6 +546,12 @@ En la vía pública, entendida en los términos de esta ley, se debe circular re
 Todo vehículo automotor, acoplado o semiacoplado para poder circular, debe estar cubierto por un seguro vigente que cubra al menos la responsabilidad civil por daños causados a terceros.
 
 Igualmente resultará obligatorio el seguro para las motocicletas en las mismas condiciones que rige para los automotores.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2015)</small>
+
+ARTÍCULO 40 BIS.- Los vehículos al llegar a un cruce o intersección de unas o varias calles, de un solo sentido de circulación y exista señalamientos del UNO por UNO, deberán hacer alto total e iniciar la marcha de su vehículo UNO por UNO, empezando la marcha el vehículo que llegue primero al crucero o intersección.
+
+Es obligación para todo conductor que circule sobre la vía pública, respetar el señalamiento oficial del UNO por UNO, en sus diferentes diseños y que sean colocados por las autoridades de tránsito competente.
 
 ###### ARTÍCULO 41.
 
@@ -1042,3 +1052,9 @@ El presente Decreto entrará en vigor el día 01 de enero de 2010.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2015.
+
+PRIMERO. El presente decreto entrará (sic) vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. En un término no mayor a 90 días siguiente al que entre en vigor el presente Decreto, deberán de realizarse las adecuaciones pertinentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
