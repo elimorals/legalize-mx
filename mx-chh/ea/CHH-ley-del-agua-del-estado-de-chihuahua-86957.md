@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2012-03-31"
+last_updated: "2015-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -1045,6 +1045,12 @@ VII.- Ejercer las atribuciones que le correspondan en materia de prevención y c
 
 La Junta Central tendrá a su cargo el diseño, difusión y ejecución del Programa Estatal de Cultura del Agua, el cual contendrá como mínimo la promoción de las costumbres, valores, actitudes y hábitos de los miembros de la sociedad, que en forma individual o colectiva, repercutan en el uso y cuidado responsable del agua.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2015)</small>
+
+###### Artículo 86 Bis.
+
+La denuncia ciudadana constituirá un medio para la cultura del cuidado del agua, por lo que toda persona que tenga conocimiento de hechos que repercutan en el uso y cuidado responsable del agua, deberá comunicarlo a la Junta Central o, en su caso, a los organismos operadores para que realicen las acciones necesarias.
+
 ### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
 ## TÍTULO CUARTO. CONTROL DE LEGALIDAD
@@ -1101,11 +1107,21 @@ XIX.- Incurrir en cualquier otra violación a los preceptos que señala esta Ley
 
 Las sanciones aplicables a las infracciones a que se refiere el artículo anterior, serán multas equivalentes a salarios mínimos correspondientes a la zona económica en que esté ubicado el usuario:
 
-I.- 20 a 50, en el caso de violación a las fracciones VII, IX, XIV, XVII y XIX.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
 
-II.- 50 a 100, en el caso de violación a las fracciones II, III, V, X y XII.
+I. 20 a 100, en el caso de violación a las fracciones VII, IX, XIV, XVII y XIX.
 
-III.- 101 a 500, en el caso de violación a las fracciones I, IV, VI, VIII, XI, XIII, XV, XVI y XVIII.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+II. 50 a 300, en el caso de violación a las fracciones II, III, V, X y XII.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+III. 300 a 800, en el caso de violación a las fracciones I, IV, VI, VIII, XI, XIII, XV, XVI y XVIII.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+IV. 300 a 1500, en caso de violación a las fracciones I, IV, VI, VIII, XI, XIII, XV, XVI y XVIII, cuando se trate de usuarios industriales.
 
 En los casos de las fracciones VIII, XVI y XVIII, se podrá imponer la clausura temporal o definitiva de la descarga, hasta en tanto el infractor regularice su situación y obtenga la autorización correspondiente.
 
@@ -1124,6 +1140,10 @@ IV.- El carácter intencional o negligente de la acción u omisión constitutiva
 V.- El beneficio directamente obtenido por el infractor.
 
 Si son subsanadas las irregularidades de forma previa a que el organismo operador imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2015)</small>
+
+En caso de reincidencia, que será considerada dentro del lapso de un año, la sanción podrá ser de hasta por dos veces el monto originalmente impuesto, sin que el monto exceda el doble del máximo permitido.
 
 ###### Artículo 91.
 
@@ -1166,3 +1186,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintinueve días del mes de marzo del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
