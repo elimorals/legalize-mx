@@ -4,7 +4,7 @@ identifier: "BCS-ley-ganadera-del-estado-de-baja-california-sur-36507"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2015-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY GANADERA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 2003.
 
@@ -727,17 +727,37 @@ VIII.- Fiel diseño de la o las marcas de los semovientes;
 
 IX.- Certificado Zoosanitario.
 
-X.- Certificado de Pruebas de Tuberculosis.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
+
+X.- Certificado de pruebas de Tuberculosis y Paratuberculosis, cuando corresponda;
 
 XI.- Certificado de Pruebas de Brucelosis.
 
 XII.- Certificado de Baño contra Garrapata.
 
-XIII.- Fines de la movilización;
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
 
-XIV.- La Fecha de vencimiento de la Guía de Tránsito Ganadero es de 5 días naturales y deberá llevar una numeración progresiva;
+XIII.- Certificado de prueba de Artritis Caprina, cuando corresponda;
 
-XV.- Los demás que se juzguen necesario.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
+
+XIV.- Certificado de prueba de Clamidia, cuando corresponda;
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
+
+XV.- Certificado de prueba de Linfadenitis Caseosa, cuando corresponda;
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2015)</small>
+
+XVI.- Fines de la movilización;
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2015)</small>
+
+XVII.- La fecha de vencimiento de la Guía de Tránsito Ganadero es de 10 días naturales y deberá llevar una numeración progresiva; y
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2015)</small>
+
+XVIII.- Los demás que se juzgue necesario.
 
 La Guía de Tránsito Ganadero, será dirigida al Subdelegado Municipal o al Inspector de Ganadería de la zona de destino, ya sea que el ganado se remita para su sacrificio, embarque o cualquier otro fin. Es obligatorio que en las guías se diseñe el fierro criador y en su caso, el de quien se ostente como legal propietario poseedor.
 
@@ -815,17 +835,37 @@ Todo ganado que entre al Estado al amparo de permisos de introducción con sus c
 
 I.- Certificado Zoosanitario.
 
-II.- Certificado de pruebas de Tuberculosis.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
+
+II.- Certificado de pruebas de Tuberculosis y Paratuberculosis, cuando corresponda;
 
 III.- Certificado de Pruebas de Brucelosis.
 
 IV.- Certificado de Baño contra Garrapata.
 
-V.- Permiso de la Dirección de Promoción y Desarrollo Pecuario
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
 
-VI.- Facturas que acreditan la propiedad.
+V.- Certificado de prueba de Artritis Caprina, cuando corresponda;
 
-VII.- Guía de Traslado para transporte de ganado.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
+
+VI.- Certificado de prueba de Clamidia, cuando corresponda;
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2015)</small>
+
+VII.- Certificado de prueba de Linfadenitis Caseosa, cuando corresponda;
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2015)</small>
+
+VIII.- Permiso de la Dirección de Promoción y Desarrollo Pecuario;
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2015)</small>
+
+IX.- Facturas que acreditan la propiedad; y
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2015)</small>
+
+X.- Guía de Traslado para transporte de ganado.
 
 ###### ARTÍCULO 100.
 
@@ -1058,6 +1098,22 @@ V.- EN OVICAPRINOS:
 1.- Agalaxia contagiosa.
 
 2.- Verminosis varias.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2015)</small>
+
+3.- Artritis caprina.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2015)</small>
+
+4.- Clamidia.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2015)</small>
+
+5.- Paratuberculosis.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2015)</small>
+
+6.- Linfadenitis Caseosa.
 
 VI.- EN AVES:
 
@@ -1357,7 +1413,7 @@ Las infracciones de carácter administrativo a las disposiciones de esta Ley, se
 
 Las infracciones a las disposiciones de la presente Ley, se sancionarán de conformidad a lo siguiente:
 
-(VEASE TABLA ANEXA)
+(VÉASE TABLA ANEXA)
 
 ###### ARTÍCULO 168.
 
@@ -1430,3 +1486,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
