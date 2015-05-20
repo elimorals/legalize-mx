@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-98511"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2014-12-24"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2013.
 
@@ -36,6 +36,8 @@ La Honorable Sexagésima Quinta Legislatura Constitucional del Estado Libre y So
 C o n s i d e r a n d o…
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 237, PUBLICADO EN EL P.O. 20 DE MAYO DE 2015, LAS MENCIONES Y LAS FACULTADES CONTENIDAS EN OTRAS LEYES, REGLAMENTOS Y EN GENERAL, EN CUALQUIER DISPOSICIÓN NORMATIVA, QUE REFIERAN A LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA O ALGUNO DE SUS ÓRGANOS ADMINISTRATIVOS, RESPECTO A LA EXPEDICIÓN Y REEXPEDICIÓN DE LICENCIAS PARA CONDUCIR VEHÍCULOS AUTOMOTORES, SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE HACIENDA.</small>
 
 Ley de Derechos del Estado de Chiapas
 
@@ -1481,6 +1483,10 @@ en fotostática, hasta 20 hojas. 6.5
 
 Por hoja adicional se pagará $ 5.00
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+IV. Expedición de constancias de sueldos. 1.5
+
 #### Sección Tercera. Servicios que Presta la Dirección de Ingresos
 
 ###### Artículo 23.
@@ -1527,7 +1533,7 @@ instalación y funcionamiento de establecimientos
 
 mutuantes. 400.0
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014) (ADICIONADO [N. DE E. REPUBLICADO], P.O. 20 DE MAYO DE 2015)
 
 El pago de derechos a que se refiere
 
@@ -1762,6 +1768,138 @@ documentación oficial, incluyendo la búsqueda,
 hasta 20 hojas. 6.5
 
 Por hoja adicional se cobrará $20.00
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXIV. Por expedición de licencias permanentes:
+
+a) Chofer para servicio público. 34.0
+
+b) Chofer. 34.0
+
+c) Automovilista. 30.0
+
+d) Motociclista. 15.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXV. Por expedición de licencias por 2 años:
+
+a) Chofer para servicio público. 14.0
+
+b) Chofer. 13.0
+
+c) Automovilista. 11.0
+
+d) Motociclista. 5.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXVI. Por expedición de licencias por 3 años:
+
+a) Chofer para servicio público. 20.0
+
+b) Chofer. 19.0
+
+c) Automovilista. 13.0
+
+d) Motociclista. 7.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXVII. Por expedición de licencias por 4 años:
+
+a) Chofer para servicio público. 27.0
+
+b) Chofer. 26.0
+
+c) Automovilista. 17.0
+
+d) Motociclista. 8.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXVIII. Por expedición de licencias por 5 años:
+
+a) Chofer para servicio público. 33.0
+
+b) Chofer. 32.0
+
+c) Automovilista. 21.0
+
+d) Motociclista. 11.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXIX. Por reexpedición de licencias por 2 años:
+
+a) Chofer para servicio público. 11.0
+
+b) Chofer. 10.0
+
+c) Automovilista. 7.0
+
+d) Motociclista. 4.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXX. Por reexpedición de licencias por 3 años:
+
+a) Chofer para servicio público. 13.0
+
+b) Chofer. 12.0
+
+c) Automovilista. 11.0
+
+d) Motociclista. 5.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXI. Por reexpedición de licencias por 4 años:
+
+a) Chofer para servicio público. 16.0
+
+b) Chofer. 15.0
+
+c) Automovilista. 13.0
+
+d) Motociclista. 7.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXII. Por reexpedición de licencias por 5 años:
+
+a) Chofer para servicio público. 20.0
+
+b) Chofer. 19.0
+
+c) Automovilista. 17.0
+
+d) Motociclista. 8.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXIII. Por reposición de licencia por pérdida o
+
+extravío de las contempladas en las fracciones
+
+XXV a la XXXII del presente artículo. 3.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXIV. Por la expedición de constancia de
+
+antigüedad de licencia de manejo. 2.0
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXV. Por expedición de permisos provisionales
+
+para circular sin placas ni tarjeta de circulación,
+
+para vehículos nacionales por una sola vez y
+
+hasta por 15 días. 11.0
 
 #### Sección Cuarta. Servicios que presta Control Vehicular
 
@@ -2001,9 +2139,11 @@ identificación). 50.00
 
 ### Capítulo V. Derechos por los Servicios que Presta la Secretaría de Seguridad y Protección Ciudadana
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2015)</small>
 
-#### Sección Primera. Servicios que presta la Coordinación General de Servicios Estratégicos de Seguridad
+#### Sección Primera. Servicios que presta la Secretaría de Seguridad y Protección Ciudadana
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
@@ -2107,9 +2247,11 @@ X. Por la expedición de constancias a empresas de
 
 seguridad que no han sido sancionadas o amonestadas. 1.5
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2015)</small>
+
 ###### Artículo 31.
 
-Por los servicios que presta la Dirección de Comercialización, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Secretaría de Seguridad y Protección Ciudadana, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicio Tarifa
 
@@ -2273,153 +2415,41 @@ que se encuentre fuera de donde se contrate el servicio.
 
 #### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2015)</small>
+
 ###### Artículo 32.
 
-Por los servicios que presta la Dirección de la Policía Estatal de Tránsito se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Dirección de la Policía Estatal de Tránsito, se causarán y pagarán, por cada uno, los siguientes derechos:
 
-Servicio Tarifa
+Servicios Tarifas
 
 S.M.D.V.E.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+I. Por la utilización de servicios oficiales depósito
 
-I. Por expedición de licencias permanente: …
+y custodia de vehículos accidentados, infraccionados
 
-a) Chofer para servicio público 34
+por orden judicial, por día. 0.3
 
-b) Chofer 34
+II. Por arrastre de vehículos automotores en tramos
 
-c) Automovilista 30
-
-d) Motociclista 15
-
-II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
-
-III. Por expedición de licencias por 2 años:
-
-a) Chofer para servicio público. 14.0
-
-b) Chofer. 13.0
-
-c) Automovilista. 11.0
-
-d) Motociclista. 5.0
-
-IV. Por expedición de licencias por 3 años:
-
-a) Chofer para servicio público. 20.0
-
-b) Chofer. 19.0
-
-c) Automovilista. 13.0
-
-d) Motociclista. 7.0
-
-V. Por expedición de licencias por 4 años:
-
-a) Chofer para servicio público. 27.0
-
-b) Chofer. 26.0
-
-c) Automovilista. 17.0
-
-d) Motociclista. 8.0
-
-VI. Por expedición de licencias por 5 años:
-
-a) Chofer para servicio público. 33.0
-
-b) Chofer. 32.0
-
-c) Automovilista. 21.0
-
-d) Motociclista. 11.0
-
-VII. Por reexpedición de licencias por 2 años:
-
-a) Chofer para servicio público. 11.0
-
-b) Chofer. 10.0
-
-c) Automovilista. 7.0
-
-d) Motociclista. 4.0
-
-VIII. Por reexpedición de licencias por 3 años:
-
-a) Chofer para servicio público. 13.0
-
-b) Chofer. 12.0
-
-c) Automovilista. 11.0
-
-d) Motociclista. 5.0
-
-IX. Por reexpedición de licencias por 4 años:
-
-a) Chofer para servicio público. 16.0
-
-b) Chofer. 15.0
-
-c) Automovilista. 13.0
-
-d) Motociclista. 7.0
-
-X. Por reexpedición de licencias por 5 años:
-
-a) Chofer para servicio público. 20.0
-
-b) Chofer. 19.0
-
-c) Automovilista. 17.0
-
-d) Motociclista. 8.0
-
-XI. Por reposición de licencia por pérdida o extravío
-
-de las contempladas en las fracciones de la III a la X,
-
-del presente artículo. 3.0
-
-XII. Por la utilización de servicios oficiales de depósito
-
-y custodia de vehículos accidentados, infraccionados por
-
-orden judicial, por día. 0.3
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-XIII. Por arrastre de vehículos automotores
-
-en tramos carreteros de jurisdicción estatal
-
-en los casos de:
+carreteros de jurisdicción estatal en los casos de:
 
 a) Automóviles; por kilómetro. 0.8
 
 b) Camiones; por kilómetro. 1.0
 
-c) Camiones hasta de 8 toneladas; por kilómetro. 1.5
+c) Camiones hasta de 8 toneladas; por
 
-XIV. Por la expedición de constancias de antigüedad
+kilómetro. 1.5
 
-de licencia de manejo. 2.0
-
-XV. Por la expedición de constancias por revisión
+III. Por la expedición de constancias por revisión
 
 mecánica para vehículos particulares. 2.0
 
-XVI. Por expedición de permisos provisionales para
+IV. Por impartición de cursos de manejo por 30 horas. 19.0
 
-circular sin placas ni tarjeta de circulación para
-
-vehículos nacionales por una sola vez y hasta por 15 días. 11.0
-
-XVII. Por impartición de cursos de manejo por 30 horas. 19.0
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-XVIII. Por expedición de constancia de no infracción
+V. Por expedición de constancia de no infracción
 
 para servicio particular. 2.0
 
@@ -3229,6 +3259,24 @@ XIV. Por uso de campos clínicos, ciclos clínicos, servicio
 
 social y programas de pregrado, alumno por año. 2.0
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XV. Por la visita de verificación sanitaria:
+
+a) Para el cambio de giro, por cada establecimiento
+
+que expenda o suministre bebidas alcohólicas. 20.0
+
+b) Para la expedición o refrendo de la licencia de
+
+funcionamiento de establecimiento que expenda
+
+o suministre bebidas alcohólicas. 20.0
+
+c) Para la validación de la expedición de la licencia
+
+de funcionamiento de guarderías infantiles. 20.0
+
 ###### Artículo 44.
 
 Las personas físicas que utilicen los servicios que presta la Secretaría de Salud y/o el Instituto de Salud a través de la Dirección de Atención Médica pagarán las cuotas de recuperación por servicios médicos asistenciales, evaluación sanitaria, de diagnóstico y referencias epidemiológicas, de acuerdo a los tabuladores autorizados por el Consejo Nacional Médico.
@@ -3836,3 +3884,15 @@ P.O. 24 DE DICIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor el primero de enero de 2015.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- A partir de la entrada en vigor del presente Decreto, las menciones y las facultades contenidas en otras leyes, reglamentos y en general, en cualquier disposición normativa, que refieran a la Secretaría de Seguridad y Protección Ciudadana o alguno de sus órganos administrativos, respecto a la expedición y reexpedición de licencias para conducir vehículos automotores, se entenderán conferidas a la Secretaría de Hacienda.
+
+Artículo Cuarto.- La Secretaría de Hacienda y la Secretaría de Seguridad y Protección Ciudadana, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones necesarias para el adecuado cumplimiento del presente Decreto.
+
+Artículo Quinto.- La Secretaría de Hacienda y la Secretaría de Seguridad y Protección Ciudadana, en un término no mayor de noventa días deberán proponer al Ejecutivo del Estado, las adecuaciones a su Reglamento interior.
