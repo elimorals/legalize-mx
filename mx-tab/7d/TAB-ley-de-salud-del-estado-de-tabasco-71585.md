@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2011-06-08"
+last_updated: "2015-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -69,19 +69,19 @@ IV. La extensión de actitudes solidarias y responsables de la población en la 
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VII. El tratamiento integral del dolor, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -131,7 +131,7 @@ II. La Secretaría de Salud; y
 
 III. Los Ayuntamientos en el ámbito de su respectiva competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
@@ -173,7 +173,7 @@ XV. La prevención y el control de las enfermedades no transmisibles y accidente
 
 XVI. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -323,7 +323,7 @@ V. Definición de cuotas y fuentes de financiamiento por servicio.
 
 La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del sistema estatal de salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -443,7 +443,7 @@ Para los efectos del artículo anterior el Ejecutivo del Estado y el Ejecutivo f
 
 La administración del organismo publico mencionado estará a cargo del Gobierno del Estado en los términos que se convengan en el acuerdo de coordinación correspondiente, dicho organismo tendrá a su cargo la aplicación en del (sic) ámbito estatal de la legislación sanitaria federal, conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TÍTULO TERCERO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
 
@@ -481,7 +481,7 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -527,7 +527,7 @@ Las actividades de atención médica son:
 
 I. Preventivas, que incluyen las de promoción general y las de protección especifica;
 
-II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+II Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
 
 III. La rehabilitación que incluyen acciones tendientes a corregir la discapacidad física y mental; y
 
@@ -707,7 +707,7 @@ IX. Otras actividades que coadyuven a la protección de la salud.
 
 Las acciones a que se refiere el presente artículo serán estrictamente voluntarias y no genera derecho laboral a quienes la presten.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -795,11 +795,11 @@ Los centros educativos en el Estado deberán brindar las facilidades al personal
 
 Las autoridades sanitarias y educativas del estado se coordinarán para que exista en todas las escuelas primarias un programa de fomento a la salud que incluya temas de higiene personal y alimentaría, y en el 5° y 6° grados de educación primaria y los tres de educación secundaria, además, programas de salud mental, prevención de adicciones, salud reproductiva y fomento al deporte.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI. Servicios de Salud Sexual y Reproductiva
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 66.
 
@@ -1575,6 +1575,10 @@ Las autoridades sanitarias determinarán los casos en que se deba proceder a la 
 
 La vigilancia, prevención y control del Síndrome de Inmunodeficiencia Adquirida y otras infecciones de transmisión sexual, se realizará de acuerdo a lo establecido en el Reglamento, normas oficiales y procedimientos técnicos vigentes.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2015)</small>
+
+Para la detección oportuna y precisa del VIH-SIDA, se utilizarán, preferentemente, métodos directos de diagnóstico que posibiliten la detección del virus, sus antígenos o su material genético.
+
 ###### ARTÍCULO 188.
 
 La Secretaría de Salud, deberá informar adecuada y oportunamente a la población en general y particularmente a los sectores más vulnerables, sobre la problemática del Síndrome de Inmunodeficiencia Adquirida con datos científicos actualizados y en cuanto a las formas de prevenir esta enfermedad, entre las que figura el uso del condón.
@@ -2281,7 +2285,7 @@ La selección del donante y del receptor se hará siempre por prescripción y ba
 
 Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
 
-I. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
+l. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
 
 II. Donar un órgano par; en caso de ser impar, que al ser extraído o en parte, sus funciones pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
 
@@ -2643,7 +2647,7 @@ Los establecimientos semifijos y ambulantes de alimentos y bebidas preparadas, d
 
 I. Estar limpio y en caso necesario desinfectado;
 
-II. Encontrarse libre de polvo y fauna nociva;
+II Encontrarse libre de polvo y fauna nociva;
 
 III. Ubicarse a una distancia no menor de 100 mts de escuelas y hospitales;
 
@@ -3990,3 +3994,7 @@ P.O. 8 DE JUNIO DE 2011.
 DECRETO 089 POR EL QUE SE ADICIONA EL ARTICULO 11 BIS A LA LEY DE SALUD DEL ESTADO DE TABASCO
 
 PRIMERO.- El correspondiente decreto entrará en vigor a los 30 días contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
