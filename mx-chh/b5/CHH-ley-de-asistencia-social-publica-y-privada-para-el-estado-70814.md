@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2015-02-07"
+last_updated: "2015-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -95,7 +95,7 @@ VI. Madres Jefas de Familia en situación de vulnerabilidad: son aquellas mujere
 
 Son personas sujetas de asistencia social las que se encuentren en situación de vulnerabilidad y su familia, preferentemente:
 
-I Menores de edad en situación de desamparo, maltrato, omisión de cuidados, de calle, en la calle, explotación en cualquiera de sus modalidades, marginación o pobreza alimentaria;
+I. Menores de edad en situación de desamparo, maltrato, omisión de cuidados, de calle, en la calle, explotación en cualquiera de sus modalidades, marginación o pobreza alimentaria;
 
 II. Mujeres en situación de maltrato, explotación en cualquiera de sus modalidades, marginación o pobreza alimentaria;
 
@@ -415,7 +415,9 @@ XI. Fomentar hábitos de conducta tendientes al desarrollo de habilidades para l
 
 XII. Realizar acciones de apoyo educativo y de capacitación para el trabajo, para lograr la integración familiar y social de las personas sujetas de asistencia social;
 
-XIII. Promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas en situación de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XIII. Establecer, operar y promover centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas en situación de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales;
 
 XIV. Representar al Poder Ejecutivo Estatal en materia de asistencia social pública;
 
@@ -879,7 +881,7 @@ Si la declaratoria de la Junta de Asistencia Social Privada es en el sentido de 
 
 Los estatutos contendrán:
 
-l. La denominación de la institución;
+I. La denominación de la institución;
 
 II. Los bienes que constituyan su patrimonio, o bien, la forma de exhibir y recaudar sus fondos;
 
@@ -1079,7 +1081,7 @@ El Consejo Directivo se integrará por:
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-l. Quien ocupe la titularidad de la Secretaría de Desarrollo Social;
+I. Quien ocupe la titularidad de la Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1448,3 +1450,13 @@ P.O. 7 DE FEBRERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Organismo Público Descentralizado denominado “Desarrollo Integral de la Familia del Estado de Chihuahua” (DIF Estatal), celebrará los acuerdos de coordinación necesarios con la Secretaría de Salud Estatal, a fin de que esta, en el ámbito de sus atribuciones, participe garantizando la prestación de los servicios terapéuticos en los centros de rehabilitación a que se refiere el presente Decreto.
