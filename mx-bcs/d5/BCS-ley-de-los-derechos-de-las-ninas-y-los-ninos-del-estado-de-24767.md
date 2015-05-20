@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-ninas-y-los-ninos-del-estado-de-2476
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2012-11-30"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Número Extraordinario al Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -157,7 +157,7 @@ IV. El de familia como espacio preferente para el desarrollo de las niñas y ni�
 
 V. El de que la niña o niño tienen diversas etapas de desarrollo y diversas necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, dependiendo de la etapa de desarrollo en la que se encuentre, con el objeto de procurar que todas las niñas y niños ejerzan sus derechos con equidad;
 
-VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y (sic)
+VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y
 
 VII. El del respeto universal a la diversidad cultural, étnica y religiosa.
 
@@ -287,7 +287,7 @@ V. Realizar los trámites de inscripción para que reciban la educación obligat
 
 VI. Incentivarlos para que realicen actividades culturales, recreativas, deportivas y de esparcimiento, que les ayuden a su desarrollo integral;
 
-VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y (sic)
+VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y
 
 VIII. Darles a conocer sus derechos, así como brindarles orientación y dirección para su ejercicio y debida observancia.
 
@@ -431,7 +431,7 @@ X. Diseñar programas para garantizar la atención, en los servicios integrales 
 
 XI. Orientar a la comunidad, sobre el significado de la maternidad y paternidad responsables, del parto y de los cuidados personales de la madre y de la niña o niño;
 
-XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y (sic)
+XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -445,7 +445,7 @@ XIV (SIC). Establecer programas de prevención del suicidio en niñas, niños y 
 
 > <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-XV. Las demás que le confieran la Ley de Salud del Estado de Baja California Sur y otros ordenamientos jurídicos. (sic)
+XV. Las demás que le confieran la Ley de Salud del Estado de Baja California Sur y otros ordenamientos jurídicos.
 
 ###### Artículo 21.
 
@@ -505,7 +505,7 @@ XVI. Promover la filiación de las niñas y niños, para efectos de su identidad
 
 XVII. Comparecer ante las autoridades o instituciones competentes, en los casos en que corresponda o se le designe para ejercer la guarda y custodia provisional y en su caso, la tutela de las niñas y niños en los términos de las disposiciones legales aplicables;
 
-XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y (sic)
+XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -829,15 +829,17 @@ El Sistema para el Desarrollo Integral de la Familia impulsará e implementará 
 
 #### SECCION CUARTA. DE LAS NIÑAS Y NIÑOS TRABAJADORES EN SITUACION DE DESVENTAJA SOCIAL
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2015)</small>
 
-###### Articulo 51.
+###### Artículo 51.
 
-En materia de niñas y niños trabajadores en situación de desventaja social, el Sistema para el Desarrollo Integral de la Familia promoverá los mecanismos de colaboración y fomentara programas de protección para que los adolescentes mayores de 14 años que trabajen cuenten con la protección laboral y el respeto a los derechos que otorga la Ley Federal del Trabajo.
+En materia de niñas y niños trabajadores en situación de desventaja social, el Sistema para el Desarrollo Integral de la Familia promoverá los mecanismos de colaboración y fomentara programas de protección para que los adolescentes mayores de 15 años que trabajen cuenten con la protección laboral y el respeto a los derechos que otorga la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2015)</small>
 
 ###### Artículo 52.
 
-La Administración Pública impulsará proyectos de empleo y capacitación en coordinación con los sectores social y privado, para la creación de empleos y bolsas de trabajo dirigidas a las niñas y niños mayores de 14 años que tengan necesidad de trabajar.
+La Administración Pública impulsará proyectos de empleo y capacitación, en coordinación con los sectores social y privado, para la creación de empleos y bolsas de trabajo dirigidas a las niñas y niños mayores de 15 años que tengan necesidad de trabajar.
 
 #### SECCIÓN QUINTA. DE LAS NIÑAS Y NIÑOS CON DISCAPACIDAD
 
@@ -1002,3 +1004,7 @@ SEGUNDO: Los ayuntamientos del Estado, modificaran sus bandos y reglamentos en u
 TERCERO: La Secretaria de Salud, la Secretaria de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia en un plazo de 60 días después de publicado el presente Decreto, dictaran las medidas reglamentarias conducentes a fin de hacer efectivas las disposiciones establecidas en el presente decreto.
 
 CUARTO: Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+B.O. 20 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
