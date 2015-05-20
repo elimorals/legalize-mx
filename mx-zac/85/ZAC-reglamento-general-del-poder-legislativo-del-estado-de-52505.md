@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2014-07-12"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -80,6 +80,10 @@ XI. Unidades Administrativas, a la Secretaría General, Direcciones, Subdireccio
 > <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2008)</small>
 
 XII. Resolución, al documento emitido por las Comisiones competentes, en el que se resuelve un asunto jurisdiccional o administrativo.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XIII. Transversalidad de la perspectiva de género: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, actividades administrativas, económicas, culturales y laborales dentro del Poder Legislativo del estado de Zacatecas.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACION DE LA LEGISLATURA
 
@@ -2017,9 +2021,25 @@ XXXII. Vigilar que las erogaciones de las Unidades Administrativas se ajusten a 
 
 XXXIII. Realizar la apertura y el manejo de las cuentas bancarias a nombre de la Legislatura, conjuntamente con el Presidente de la Comisión de Planeación o, en ausencia de éste, con el Presidente de la Comisión de Régimen Interno; y
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
 
-XXXIV. Las demás que le instruya el Pleno o los órganos de Gobierno.
+XXXIV. Fomentar la cultura de igualdad, incorporando la perspectiva de género con enfoque de derechos humanos en ordenamientos internos así como en las acciones de dirección y programación de los trabajos institucionales;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXV. Proponer la estandarización, conforme a los Instrumentos internacionales en materia de derechos humanos de las mujeres, de todos los procedimientos y actuaciones administrativas y laborales del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXVI. Impulsar la formación y capacitación del personal en relación al significado y alcance del principio de igualdad así como en temas de derechos humanos de las mujeres, (sic) perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXVII. Llevar a cabo el seguimiento, evaluación del desarrollo y cumplimiento de acciones que fomenten la observancia del principio de Igualdad de mujeres y hombres que laboren en el Poder Legislativo, y
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XXXVIII. Las demás que le instruya el Pleno o los Órganos de Gobierno.
 
 ### Capítulo III. De las unidades de apoyo de la Secretaría General
 
@@ -2091,7 +2111,9 @@ II. Realizar análisis y evaluaciones sobre el marco jurídico que regula la org
 
 III. Diseñar y operar programas de profesionalización y actualización en áreas del conocimiento vinculadas al quehacer legislativo;
 
-IV. Proponer la celebración de convenios con otros institutos, centros o asociaciones de estudios e investigaciones legislativas, así como con organismos de los sectores públicos, sociales, académico y privado, con la finalidad de fortalecer el funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+IV. Proponer la celebración de convenios con otros institutos, centros o asociaciones de estudios e investigaciones legislativas, así como con organismos de los sectores públicos, sociales, académico y privado, con la finalidad de fortalecer el funcionamiento del Instituto. De igual manera impulsar convenios con dichas instituciones a fin de conocer y compartir experiencias sobre igualdad de género y concretar acciones legislativas, en aras de consolidar la cultura de la igualdad de género en la sociedad zacatecana;
 
 V. Ser el conducto de la Legislatura con otros institutos, centros o asociaciones análogos, así como asistir a las reuniones y congresos a que fueren invitados;
 
@@ -2115,7 +2137,11 @@ XIV. Actualizar, sistematizar y difundir los acervos jurídico y legislativo de 
 
 XV. Elaborar el proyecto de programa anual de las actividades del Instituto así como su presupuesto anual y presentarlos a la consideración de la Comisión de Estudios Legislativos y Prácticas Parlamentarias, y
 
-XVI. Las demás que se le encomienden a través de la Comisión de Estudios Legislativos y Prácticas Parlamentarias y la Secretaría General.
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XVI. Desarrollar estudios e investigaciones en el tema de adelanto de las mujeres y la igualdad de género, generando información y estadística sobre este tema, apoyando a la Comisión de la materia en la revisión para que la legislación local promueva y respete el adelanto de las mujeres y la igualdad de género, y
+
+XVII. Las demás que se le encomienden a través de la Comisión de Estudios Legislativos y Prácticas Parlamentarias y la Secretaría General.
 
 ###### Artículo 231.
 
@@ -2277,7 +2303,11 @@ IX. Emitir opinión sobre las reformas y adiciones a la Ley, el presente Reglame
 
 X. Dirigir, coordinar y supervisar el Instituto de Investigaciones Legislativas, y
 
-XI. Las demás que le encomiende la Secretaría General.
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XI. Impulsar, supervisar y coordinar a través del Instituto de Investigaciones Legislativas, las actividades de la Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género, y
+
+XII. Las demás que le encomiende la Secretaría General.
 
 ###### Artículo 238.
 
@@ -2466,3 +2496,27 @@ P.O. 12 DE JULIO DE 2014.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan este Decreto.
+
+P.O. 20 DE MAYO DE 2015.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- La Secretaría General del Poder Legislativo será responsable de crear la Unidad de Igualdad de Género, misma que estará adscrita a la Dirección de Procesos Legislativos y Asuntos Jurídicos dentro del Instituto de Investigaciones Legislativas. Lo que hará dentro de los 90 días contados a partir del inicio de vigencia de este decreto modificatorio.
+
+El o la titular de dicha Unidad deberá reunir los requisitos que se establecen en el artículo 233 del Reglamento General del Poder Legislativo del Estado de Zacatecas.
+
+Artículo Tercero.- Para efecto de incorporar la Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género, al Manual de Organización de esta Legislatura y se genere su respectivo Manual de Procedimientos, se establecerán como facultades las siguientes:
+
+I. Realizar estudios en materia de derechos humanos de las mujeres e igual entre los géneros.
+
+II. Realizar investigaciones y estudios sobre la situación de las mujeres en el Estado de Zacatecas.
+
+III. Apoyar las actividades legislativas proporcionando estudios e información técnica sobre las modificaciones y armonizaciones que en materia de igualdad entre los géneros se estén llevando a cabo en el país.
+
+IV. Impulsar a través de la comisión en la materia que los marcos jurídicos y normativos que expida el Poder Legislativo del Estado de Zacatecas, promuevan la igualdad de género, los derechos humanos y el adelanto de las mujeres de manera objetiva, imparcial y oportuna.
+
+V. Impulsar a través de la Secretaría General y la Dirección de Procesos Legislativos y Asuntos Jurídicos, convenios de colaboración con otros congresos estatales, universidades, centros académicos, dependencias gubernamentales, fundaciones y organizaciones de la sociedad civil, a fin de intercambiar información y promover seminarios que permitan impulsar y consolidar la cultura de igualdad de géneros en la sociedad zacatecana, y
+
+VI. Las demás que establezca la presente Ley, el Reglamento General y lo que determinen los ordenamientos complementarios.
+
+Artículo Cuarto.- Se derogan las disposiciones que contravengan el presente Decreto.
