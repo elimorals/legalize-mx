@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-y-erradicar-toda-clase-de-discriminacion-9545
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-14"
-last_updated: "2013-08-14"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY PARA PREVENIR Y ERRADICAR TODA CLASE DE DISCRIMINACIÓN EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 20 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de agosto de 2013.
 
@@ -135,7 +137,7 @@ XIV. Persona con discapacidad: Todo ser humano que presenta temporal o permanent
 
 XV. Persona en situación de calle: Todo ser humano quien sin contar con un espacio que pueda ser caracterizado como vivienda, aunque el mismo sea precario, se halle pernoctando en lugares públicos o privados,
 
-XVI. Persona que vive con VIH/SIDA: Aquella que ha contraído el Virus de Inmunodeficiencia Humano (VIH) y aquella que ha desarrollado la sintomatología que aparece cuando el sistema inmunológico se merma significativamente y se presentan ciertos signos o síntomas que en conjunto se denominan Síndrome de Inmunodeficiencia Adquirida ( SIDA), y
+XVI. Persona que vive con VIH/SIDA: Aquella que ha contraído el Virus de Inmunodeficiencia Humano (VIH) y aquella que ha desarrollado la sintomatología que aparece cuando el sistema inmunológico se merma significativamente y se presentan ciertos signos o síntomas que en conjunto se denominan Síndrome de Inmunodeficiencia Adquirida (SIDA), y
 
 XVII. Pueblos indígenas: Aquellos grupos que se consideren así, no originarios del Morelos y aquellos que tienen esa categoría en el Estado de Morelos y que, cualquiera que sea su situación jurídica, conservan sus instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
@@ -411,15 +413,15 @@ VIII. Ofrecer información completa y actualizada, así como asesoramiento perso
 
 IX. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten.
 
-VI (SIC). Fomentar el acceso o la permanencia en el empleo por embarazo o solicitar en cualquier momento la realización de pruebas de gravidez; (sic)
+VI (SIC). Fomentar el acceso o la permanencia en el empleo por embarazo o solicitar en cualquier momento la realización de pruebas de gravidez;
 
-VII. Auspiciar la participación política de la mujer y el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a cualquier cargo público en el Estado de Morelos; (sic)
+VII. Auspiciar la participación política de la mujer y el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a cualquier cargo público en el Estado de Morelos;
 
-VIII. Ofrecer información completa y actualizada, así como asesoramiento personalizado, sobre salud reproductiva, derechos sexuales y métodos anticonceptivos; (sic)
+VIII. Ofrecer información completa y actualizada, así como asesoramiento personalizado, sobre salud reproductiva, derechos sexuales y métodos anticonceptivos;
 
 IX (SIC). Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social del Estado de Morelos las condiciones para la atención obligatoria de las mujeres que lo soliciten, y
 
-X. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten. (sic)
+X. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten.
 
 ###### Artículo 23.
 
@@ -560,3 +562,15 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P. O. 20 DE MAYO DE 2015.
+
+PRIMERA. Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley para Prevenir y Erradicar toda clase de Discriminación en el Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5110, el catorce de agosto de 2013, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente a la entrada en vigor de la presente Ley se deberá de expedir su Reglamento; por su parte, la Secretaría de Gobierno del Poder Ejecutivo Estatal deberá, además, adecuar su normativa interna conforme lo previsto en la presente Ley.
