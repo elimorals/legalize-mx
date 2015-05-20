@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2014-12-31"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -891,7 +891,13 @@ XLV. PUBLICAR LA TABLA DE VALORES Y TARIFAS CORRESPONDIENTE AL PAGO DEL IMPUESTO
 
 XLVI. COORDINAR LA IMPLEMENTACION DE LOS MECANISMOS PARA LA INTEGRACION, EVALUACION Y VINCULACION DE INFORMACION DE OPERACIONES FINANCIERAS, RECURSOS, DERECHOS O BIENES DE CUALQUIER NATURALEZA, PARA COADYUVAR EN LA PREVENCION DE DELITOS.
 
-XLVII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XLVII. EFECTUAR LA EXPEDICION Y REEXPEDICION DE LICENCIAS PARA CONDUCIR VEHICULOS AUTOMORES.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XLVIII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -3472,3 +3478,15 @@ Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor de
 Artículo Sexto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables y los efectos legales conducentes.
 
 Artículo Séptimo.- La Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración del Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, las adecuaciones necesarias a la normatividad vigente, para armonizar la legislación estatal en la materia.
+
+P.O. 20 DE MAYO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- A partir de la entrada en vigor del presente Decreto, las menciones y las facultades contenidas en otra leyes, reglamentos y en general, en cualquier disposición normativa, que refieran a la Secretaría de Seguridad y Protección Ciudadana o alguno de sus órganos administrativos, respecto a la expedición y reexpedición de licencias para conducir vehículos automotores, se entenderán conferidas a la Secretaría de Hacienda.
+
+Artículo Cuarto.- La Secretaría de Hacienda y la Secretaría de Seguridad y Protección Ciudadana, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones necesarias para el adecuado cumplimiento del presente Decreto.
+
+Artículo Quinto.- La Secretaría de Hacienda y la Secretaría de Seguridad y Protección Ciudadana, en un término no mayor de noventa días deberán proponer al Ejecutivo del Estado, las adecuaciones a su Reglamento interior.
