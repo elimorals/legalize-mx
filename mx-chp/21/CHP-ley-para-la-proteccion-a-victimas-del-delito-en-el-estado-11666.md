@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-proteccion-a-victimas-del-delito-en-el-estado-11666
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2004-11-08"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY PARA LA PROTECCION A VICTIMAS DEL DELITO EN EL ESTADO DE CHIAPAS
 
-LEY PARA LA PROTECCION A VICTIMAS DEL DELITO EN EL ESTADO DE CHIAPAS
+LEY PARA LA PROTECCIÓN A VÍCTIMAS DEL DELITO EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 20 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015 (ABROGADA).
 
 Ley Publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 17 de diciembre de 1997.
 
@@ -683,10 +685,28 @@ JULIO CESAR RUIZ FERRO, GOBERNADOR DEL ESTADO.- HOMERO TOVILLA CRISTIANI, SECRET
 
 LAS FIRMAS DE ESTE DOCUMENTO CORRESPONDEN A LA PROMULGACION DEL DECRETO NUMERO 14.- POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCION A VICTIMAS DEL DELITO EN EL ESTADO DE CHIAPAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE NOVIEMBRE DE 2004.
 
 PRIMERO.- EL PRESENTE DECRETO, ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 20 DE MAYO DE 2015.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley para la Protección a Víctimas del Delito en el Estado de Chiapas, Publicada Mediante Periódico Oficial número 062 de fecha 17 de diciembre de 1997.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Cuarto.- Se deberá emitir la normatividad aplicable a la materia, dentro de los ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto.- La Comisión Ejecutiva Estatal, deberá someter a consideración del Gobernador del Estado, el Reglamento de la presente Ley.
+
+Artículo Sexto.- Los municipios, dependencias y entidades del Estado de Chiapas,deberán (sic) adecuar la normatividad que les resulte aplicable, así como emitir la reglamentación, acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos y demás normatividad que resulten necesarios para dar cumplimiento a las obligaciones que sean de su competencia, las cuales se deriven de la presente Ley.
+
+Artículo Séptimo.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto. Debiendo la Secretaría de Hacienda, prever la suficiencia presupuestaría para el debido funcionamiento de la Comisión Ejecutiva Estatal; así como el recurso que se asignará al Fondo Estatal de Ayuda, Asistencia y Reparación Integral.
+
+Artículo Octavo.- El Decreto por el que se crea el Organismo Auxiliar, deberá expedirse en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
