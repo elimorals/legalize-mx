@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2014-07-19"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -257,6 +257,10 @@ X. Expedir las leyes que normen las relaciones de trabajo de los poderes estatal
 
 XI. Proponer y designar al Presidente y consejeros de la Comisión Estatal de Derechos Humanos.
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XII. Fomentar el respeto de los derechos humanos de mujeres y hombres, bajo los principios de imparcialidad, objetividad, igualdad y no discriminación.
+
 ### Capítulo II. De las atribuciones con relación al Poder Ejecutivo
 
 ###### ARTÍCULO 18.
@@ -353,7 +357,11 @@ El Diario de los Debates es el órgano oficial en el que se publicará la fecha 
 
 La Gaceta Parlamentaria es el instrumento de publicidad del Poder Legislativo y deberá contener las iniciativas, los puntos de acuerdo y los dictámenes que se agenden en cada sesión. Adicionalmente podrán ser incluidos otros documentos cuando así lo determine la Presidencia de la Mesa Directiva;
 
-XII. Las demás que le confiera la Constitución Política del Estado.
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+XII. Incorporar la perspectiva de género en las políticas, procesos, estrategias y demás acciones del Poder Legislativo, y
+
+XIII. Las demás que le confiera la Constitución Política del Estado.
 
 ### Capítulo V. De las atribuciones con relación a la ciudadanía
 
@@ -1449,11 +1457,9 @@ XIX. Fortalecimiento Municipal;
 
 XX. Ciencia, Tecnología e Innovación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
-
-XXI. Equidad entre los Géneros;
+XXI. Igualdad de Género;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1533,9 +1539,15 @@ VII. Participar en la evaluación de los ramos de la actividad pública estatal 
 
 VIII. Realizar reuniones con otras comisiones, cuando la materia de los asuntos a tratar así lo amerite;
 
-IX. Citar a los titulares de las distintas dependencias o entidades de la administración pública estatal o municipal a reuniones de trabajo; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
 
-X. Las demás que señale esta Ley, las disposiciones reglamentarias o los acuerdos del Pleno.
+IX. Citar a los titulares de las distintas dependencias o entidades de la administración pública estatal o municipal a reuniones de trabajo;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+
+X. Incorporar la perspectiva de género y de derechos humanos de mujeres y hombres en las tareas y funciones legislativas, y
+
+XI. Las demás que señale esta Ley, las disposiciones reglamentarias o los acuerdos del Pleno.
 
 ###### ARTÍCULO 126.
 
@@ -2171,21 +2183,31 @@ IX. El fomento de los vínculos entre los sectores académico y productivo, y
 
 X. El apoyo a la difusión y divulgación de la ciencia y la tecnología, con especial énfasis en los mecanismos para su apropiación social.
 
-EQUIDAD ENTRE LOS GÉNEROS
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+IGUALDAD DE GÉNERO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 149.
 
-Corresponde a la Comisión de Equidad entre los Géneros, el conocimiento y dictamen de los asuntos siguientes:
+Corresponde a la Comisión de Igualdad de Género, el conocimiento y dictamen de los asuntos siguientes:
 
-I. Los que se refieran a las iniciativas de ley, reformas o adiciones relacionadas con la equidad de géneros;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+I. Los que se refieran a las iniciativas de ley, reformas o adiciones relacionadas con la igualdad de género;
 
 II. Las medidas legislativas para el cumplimiento de los acuerdos, convenios y conferencias internacionales que México haya suscrito, así como darle seguimiento a los mismos;
 
-III. La promoción de la cultura y equidad entre los géneros;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+III. La promoción de la cultura e igualdad de género;
 
 IV. Los que se relacionen con la discriminación o maltrato de la mujer o del varón, por razones de sexo, raza, edad, credo político o religioso y situación socioeconómica, entre otros;
 
-V. Las propuestas tendientes a garantizar la equidad entre la mujer y el hombre y aquellas con el objeto de garantizar la tolerancia y evitar la discriminación;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
+
+V. Las propuestas tendientes a garantizar la igualdad entre la mujer y el hombre y aquellas con el objeto de garantizar la tolerancia y evitar la discriminación;
 
 VI. Lo relativo al tratamiento a la legislación para prevenir y atender la violencia intrafamiliar;
 
@@ -2816,3 +2838,27 @@ P.O. 19 DE JULIO DE 2014.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE MAYO DE 2015.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- La Secretaría General del Poder Legislativo será responsable de crear la Unidad de Igualdad de Género, misma que estará adscrita a la Dirección de Procesos Legislativos y Asuntos Jurídicos dentro del Instituto de Investigaciones Legislativas. Lo que hará dentro de los 90 días contados a partir del inicio de vigencia de este decreto modificatorio.
+
+El o la titular de dicha Unidad deberá reunir los requisitos que se establecen en el artículo 233 del Reglamento General del Poder Legislativo del Estado de Zacatecas.
+
+Artículo Tercero.- Para efecto de incorporar la Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género, al Manual de Organización de esta Legislatura y se genere su respectivo Manual de Procedimientos, se establecerán como facultades las siguientes:
+
+I. Realizar estudios en materia de derechos humanos de las mujeres e igual entre los géneros.
+
+II. Realizar investigaciones y estudios sobre la situación de las mujeres en el Estado de Zacatecas.
+
+III. Apoyar las actividades legislativas proporcionando estudios e información técnica sobre las modificaciones y armonizaciones que en materia de igualdad entre los géneros se estén llevando a cabo en el país.
+
+IV. Impulsar a través de la comisión en la materia que los marcos jurídicos y normativos que expida el Poder Legislativo del Estado de Zacatecas, promuevan la igualdad de género, los derechos humanos y el adelanto de las mujeres de manera objetiva, imparcial y oportuna.
+
+V. Impulsar a través de la Secretaría General y la Dirección de Procesos Legislativos y Asuntos Jurídicos, convenios de colaboración con otros congresos estatales, universidades, centros académicos, dependencias gubernamentales, fundaciones y organizaciones de la sociedad civil, a fin de intercambiar información y promover seminarios que permitan impulsar y consolidar la cultura de igualdad de géneros en la sociedad zacatecana, y
+
+VI. Las demás que establezca la presente Ley, el Reglamento General y lo que determinen los ordenamientos complementarios.
+
+Artículo Cuarto.- Se derogan las disposiciones que contravengan el presente Decreto.
