@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2014-12-13"
+last_updated: "2015-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -891,9 +891,15 @@ Los establecimientos dedicados a la rehabilitación deberán cumplir, invariable
 
 El Ejecutivo del Estado, en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2015)</small>
+
 ###### Artículo 84.
 
-El Ejecutivo del Estado promoverá y operará, por sí mismo, de acuerdo a sus posibilidades presupuestales, establecimientos de rehabilitación, realizará estudios e investigaciones en materia de discapacidades y participará en programas de rehabilitación y educación especial.
+El Ejecutivo del Estado, a través del Organismo Público Descentralizado denominado Desarrollo Integral de la Familia del Estado de Chihuahua, promoverá y operará, por sí mismo, de acuerdo a sus posibilidades presupuestales, establecimientos de rehabilitación, realizará estudios e investigaciones en materia de discapacidades y participará en programas de rehabilitación y educación especial.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2015)</small>
+
+Así mismo, el Organismo tendrá a su cargo la coordinación con los municipios para llevar a cabo la promoción y operación en conjunto de los establecimientos a que se refiere este artículo en el ámbito municipal.
 
 ## TÍTULO CUARTO. PRÁCTICAS TRADICIONALES PARA EL CUIDADO DE LA SALUD
 
@@ -3510,3 +3516,13 @@ P.O. 13 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Organismo Público Descentralizado denominado "Desarrollo Integral de la Familia del Estado de Chihuahua" (DIF Estatal), celebrará los acuerdos de coordinación necesarios con la Secretaría de Salud Estatal, a fin de que esta, en el ámbito de sus atribuciones, participe garantizando la prestación de los servicios terapéuticos en los centros de rehabilitación a que se refiere el presente Decreto.
