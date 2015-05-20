@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-oficialia-mayor-de-gobierno-de-73962"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2010-03-10"
+last_updated: "2015-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DE GOBIERNO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DE GOBIERNO
+REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DE GOBIERNO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DE GOBIERNO, PUBLICADO EN EL B.O. DE 20 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de marzo de 2010.
 
@@ -273,7 +275,7 @@ Para el eficaz desempeño de la Dirección de Recursos Humanos, se auxiliará de
 
 - Departamento de Nóminas;
 
-- Departamento de Capacitación; y (sic)
+- Departamento de Capacitación; y
 
 - Unidad de Soporte Técnico y Administrativo;
 
@@ -586,3 +588,23 @@ C. T. C. C. LUÍS ARMANDO DÍAZ
 EL OFICIAL MAYOR DE GOBIERNO
 
 C. LIC. HECTOR GUADALUPE IBARRA ESPINOZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de Oficialía Mayor, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 10 de marzo de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones no consideradas de las Unidades Administrativas contempladas en el presente Reglamento, se establecerán en los Manuales de Organización respectivos.
