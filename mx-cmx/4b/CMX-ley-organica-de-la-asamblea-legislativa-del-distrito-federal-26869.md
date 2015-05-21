@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2015-05-12"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE MAYO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -224,17 +224,17 @@ XXXIV.- Remover a los Jefes Delegacionales conforme al procedimiento que se esta
 
 XXXV.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley;
 
-> <small>N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XXXV, VÉASE PUBLICACIONES OFICIALES DE FECHAS 15 DE MAYO DE 2014 Y 12 DE MAYO DE 2015.</small>
+> <small>(REFORMADA, G.O. 21 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
+XXXVI.- Contar con un órgano técnico denominado "Canal Televisivo de la Asamblea Legislativa del Distrito Federal", que se regirá conforme a lo establecido en este Ordenamiento y en el Reglamento para el Gobierno Interior, en concordancia con lo establecido por el artículo 10° Transitorio de la Reforma Constitucional en materia de Telecomunicaciones publicada en el Diario Oficial de la Federación el once de junio de 2013;
 
-XXXVI.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley;
+> <small>(REFORMADA, G.O. 21 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
+XXXVII.- Otorgar la Medalla a las Defensoras y Defensores de Derechos Humanos en reconocimiento a personas, organizaciones no gubernamentales e instituciones públicas o privadas que hayan destacado en su labor de promoción, respeto, protección y garantía de los derechos humanos, en los términos del Reglamento para el Gobierno Interior y del procedimiento que al efecto establezca la Comisión de Derechos Humanos de esta Asamblea Legislativa del Distrito Federal; y
 
-XXXVII.- Reconocer cada año a las y los estudiantes que desarrollen las mejores investigaciones sobre la Ciudad de México, con la finalidad de obtener el grado de licenciatura, maestría o doctorado, en los términos del procedimiento que establezca el Reglamento para el Gobierno Interior; y
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2015)</small>
 
-XXXVI (SIC).- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
+XXXVIII.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -1896,6 +1896,58 @@ El Canal Televisivo de la Asamblea Legislativa del Distrito Federal debe contrib
 
 Deberá contribuir a la educación como un bien irrenunciable y universal para combatir la ignorancia en todas sus manifestaciones; inducir la comprensión de los problemas nacionales y locales; expresar y reafirmar el carácter pluricultural del País; fortalecer el proceso de construcción de ciudadanía para fomentar el ejercicio de los derechos civiles, dando paso a la expresión de las inconformidades de la sociedad, a sus iniciativas y a su participación para resolver los problemas comunes; elevar la condición humana y exaltar los valores de la solidaridad social contra el individualismo y el egoísmo.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE MAYO DE 2015)</small>
+
+## TÍTULO SÉPTIMO. Del reconocimiento a los Funcionario Públicos de la Ciudad de México
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE MAYO DE 2015)</small>
+
+### CAPÍTULO ÚNICO. Del Premio de la Administración Pública de la Ciudad de México
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 123.
+
+La Asamblea Legislativa del Distrito Federal, otorgará a los servidores públicos del Gobierno del Distrito Federal, que con sus aportaciones mejoren el funcionamiento de las dependencias, entidades y demás unidades de la administración pública, merezcan los premios, estímulos o recompensas.
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 124.
+
+El premio tiene como fin estimular, mediante reconocimiento público y monetario a los servidores públicos del Gobierno del Distrito Federal, que se hayan destacado por la elaboración de trabajos que impliquen aportaciones significativas para la mejora continua de la gestión pública de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 125.
+
+Serán objeto de este reconocimiento los Servidores Públicos de la Administración Pública del Distrito Federal, de todos los niveles jerárquicos de gobierno; y podrán obtener alguno de los reconocimientos previstos en este capitulo.
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 126.
+
+Los estímulos a que se refiere este capitulo se otorgan, por el desempeño sobresaliente de las actividades o funciones vinculadas a la Administración Pública que tengan asignadas. Estos estímulos podrán acompañarse de recompensas en numerario o en especie, conforme a las previsiones económicas que determine la Asamblea Legislativa del Distrito Federal, en su presupuesto anual.
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 127.
+
+El Premio de Administración Pública de la Ciudad de México, se otorgará en las siguientes categorías:
+
+I. Investigaciones, proyectos o programas que incentiven la implementación, la mejora y la integralidad de políticas públicas.
+
+II. Investigaciones innovadoras y prospectivas con fines de aplicación práctica y directa que incidan en la Administración Pública del Distrito Federal.
+
+III. Innovación en el desarrollo de las tecnologías de información y la gestión de redes sociales, de impacto positivo, aplicadas en la Administración Pública de la Ciudad de México.
+
+IV. Aportaciones a los mecanismos y procesos que eficienten, simplifiquen u optimicen la relación administrativa entre el Gobierno Central y los Órganos Político Administrativos (Delegaciones).
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 128.
+
+La Asamblea Legislativa del Distrito Federal, a través la Comisión de Administración Pública, emitirá anualmente convocatoria en donde se fijará plazos para la entrega de los premios referidos en el presente capitulo.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
@@ -2343,3 +2395,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobaci
 SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
 
 TERCERO.- Para el la (sic) premiación al Mérito de la mejor tesis de licenciatura, maestría y doctorado de 2014 se seguirán los acuerdos tomados por el Comité de Estudios y Estadísticas de la Ciudad de México que tome el mismo año.
+
+G.O. 21 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE ADICIONAN EL TÍTULO SÉPTIMO, Y UN CAPÍTULO ÚNICO A LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 21 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXXVIII Y SE REFORMAN LAS FRACCIONES XXXVI Y XXXVII, TODAS DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por este Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
