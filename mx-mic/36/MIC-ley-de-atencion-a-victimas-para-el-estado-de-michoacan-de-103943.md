@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-atencion-a-victimas-para-el-estado-de-michoacan-de-10394
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2014-12-10"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 10 de diciembre de 2014.
 
@@ -991,19 +991,31 @@ T R A N S I T O R I O S
 
 Primero. El presente Decreto entrará en vigor en la misma fecha que señale la Declaratoria que al efecto expida el Congreso para la entrada en vigor del Código Nacional de Procedimientos Penales.
 
-Segundo. El Gobierno del Estado, sus dependencias y entidades deberán expedir la reglamentación para su exacta observancia, así como proveer los recursos materiales, económicos y humanos para la atención de víctimas a partir del de (sic) ejercicio fiscal 2015.
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2015)</small>
 
-Tercero. El Gobierno del Estado y los ayuntamientos deberán emitir la reglamentación que resulte necesaria para dar cumplimiento a las obligaciones que sean de su competencia, que se deriven de la presente ley en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+Segundo. A la entrada en vigor del presente Decreto se abroga la Ley para la Atención y Protección a las Víctimas u Ofendidos del Delito del Estado de Michoacán de Ocampo, publicada mediante Decreto 226 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 26 de septiembre del año 2007.
 
-Cuarto. La Comisión Ejecutiva Estatal deberá elegirse dentro de los sesenta días naturales posteriores a la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2015)</small>
 
-Quinto. La Comisión Ejecutiva Estatal se instalará por primera vez con la designación de tres comisionados. El primero durará en su encargo dos años, el segundo, tres años y el tercero, cuatro años.
+Tercero. El Gobierno del Estado, sus dependencias y entidades deberán expedir la reglamentación para su exacta observancia, así como proveer los recursos materiales, económicos y humanos para la atención de víctimas a partir del ejercicio fiscal 2015.
 
-Sexto. El Congreso del Estado de Michoacán de Ocampo deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y la Secretaría de Finanzas y Administración establecerá una unidad programática presupuestal especifica en el Presupuesto de Egresos del Estado, para el ejercicio fiscal 2015.
+Cuarto. El Gobierno del Estado y los ayuntamientos deberán emitir la reglamentación que resulte necesaria para dar cumplimiento a las obligaciones que sean de su competencia, que se deriven de la presente ley en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
 
-Séptimo. El Gobierno del Estado coadyuvará a crear el Fideicomiso para el Fondo de atención a víctimas ante una institución bancaria, con los fondos provenientes de lo señalado por el artículo 56 de esta Ley, y comenzara su operación con el ejercicio fiscal 2015.
+Quinto. La Comisión Ejecutiva Estatal deberá elegirse dentro de los sesenta días naturales posteriores a la entrada en vigor de la presente Ley.
 
-Octavo. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal, así como de la Comisión Estatal de Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación, serán integrados al registro que el presente ordenamiento prevé.
+Sexto. La Comisión Ejecutiva Estatal se instalará por primera vez con la designación de tres comisionados. El primero durará en su encargo dos años, el segundo, tres años y el tercero, cuatro años.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2015)</small>
+
+Séptimo. El Congreso del Estado de Michoacán de Ocampo deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y la Secretaría de Finanzas y Administración establecerá una unidad programática presupuestal específica en el Presupuesto de Egresos del Estado, para el ejercicio fiscal 2015.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2015)</small>
+
+Octavo. El Gobierno del Estado coadyuvará a crear el Fideicomiso para el Fondo de atención a víctimas ante una institución bancaria, con los fondos provenientes de lo señalado por el artículo 56 de esta Ley, y comenzará su operación con el ejercicio fiscal 2015.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2015)</small>
+
+Noveno. Los registros de víctimas existentes al momento de la entrada en vigor de la presente ley que se encuentren en cualquier institución o entidad del ámbito estatal, así como de la Comisión Estatal de Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación, serán integrados al registro que el presente ordenamiento prevé.
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
@@ -1016,3 +1028,9 @@ DIP. ALFONSO JESÚS MARTÍNEZ ALCÁZAR.- PRIMER SECRETARIO.- DIP. JOSÉ ELEAZAR 
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 10 diez días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MAYO DE 2015.
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
