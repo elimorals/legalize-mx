@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-a-las-victimas-u-57070"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-26"
-last_updated: "2014-12-10"
+last_updated: "2015-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A LAS VÍCTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 26 de septiembre de 2007.
 
@@ -397,16 +397,32 @@ P.O. 10 DE DICIEMBRE DE 2014.
 
 Primero. El presente Decreto entrará en vigor en la misma fecha que señale la Declaratoria que al efecto expida el Congreso para la entrada en vigor del Código Nacional de Procedimientos Penales.
 
-Segundo. El Gobierno del Estado, sus dependencias y entidades deberán expedir la reglamentación para su exacta observancia, así como proveer los recursos materiales, económicos y humanos para la atención de víctimas a partir del de ejercicio fiscal 2015.
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2015)</small>
 
-Tercero. El Gobierno del Estado y los ayuntamientos deberán emitir la reglamentación que resulte necesaria para dar cumplimiento a las obligaciones que sean de su competencia, que se deriven de la presente ley en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+SEGUNDO. A la entrada en vigor del presente Decreto se abroga la Ley para la Atención y Protección a las Víctimas u Ofendidos del Delito del Estado de Michoacán de Ocampo, publicada mediante Decreto 226 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 26 de septiembre del año 2007.
 
-Cuarto. La Comisión Ejecutiva Estatal deberá elegirse dentro de los sesenta días naturales posteriores a la entrada en vigor de la presente Ley.
+TERCERO. El Gobierno del Estado, sus dependencias y entidades deberán expedir la reglamentación para su exacta observancia, así como proveer los recursos materiales, económicos y humanos para la atención de víctimas a partir del ejercicio fiscal 2015.
 
-Quinto. La Comisión Ejecutiva Estatal se instalará por primera vez con la designación de tres comisionados. El primero durará en su encargo dos años, el segundo, tres años y el tercero, cuatro años.
+CUARTO. El Gobierno del Estado y los ayuntamientos deberán emitir la reglamentación que resulte necesaria para dar cumplimiento a las obligaciones que sean de su competencia, que se deriven de la presente ley en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
 
-Sexto. El Congreso del Estado de Michoacán de Ocampo deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y la Secretaría de Finanzas y Administración establecerá una unidad programática presupuestal especifica en el Presupuesto de Egresos del Estado, para el ejercicio fiscal 2015.
+QUINTO. La Comisión Ejecutiva Estatal deberá elegirse dentro de los sesenta días naturales posteriores a la entrada en vigor de la presente Ley.
 
-Séptimo. El Gobierno del Estado coadyuvará a crear el Fideicomiso para el Fondo de atención a víctimas ante una institución bancaria, con los fondos provenientes de lo señalado por el artículo 56 de esta Ley, y comenzara su operación con el ejercicio fiscal 2015.
+SEXTO. La Comisión Ejecutiva Estatal se instalará por primera vez con la designación de tres comisionados. El primero durará en su encargo dos años, el segundo, tres años y el tercero, cuatro años.
 
-Octavo. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal, así como de la Comisión Estatal de Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación, serán integrados al registro que el presente ordenamiento prevé.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2015)</small>
+
+SÉPTIMO. El Congreso del Estado de Michoacán de Ocampo deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y la Secretaría de Finanzas y Administración establecerá una unidad programática presupuestal específica en el Presupuesto de Egresos del Estado, para el ejercicio fiscal 2015.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2015)</small>
+
+OCTAVO. El Gobierno del Estado coadyuvará a crear el Fideicomiso para el Fondo de atención a víctimas ante una institución bancaria, con los fondos provenientes de lo señalado por el artículo 56 de esta Ley, y comenzará su operación con el ejercicio fiscal 2015.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2015)</small>
+
+NOVENO. Los registros de víctimas existentes al momento de la entrada en vigor de la presente ley que se encuentren en cualquier institución o entidad del ámbito estatal, así como de la Comisión Estatal de Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación, serán integrados al registro que el presente ordenamiento prevé.
+
+P.O. 21 DE MAYO DE 2015.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 516 POR EL QUE SE "ADICIONA UN ARTÍCULO SEGUNDO TRANSITORIO, RECORRIENDOSE EN SU ORDEN LOS ACTUALES ARTÍCULOS TRANSITORIOS SEGUNDO AL OCTAVO, LOS CUALES PASARÁN A SER TERCERO AL NOVENO RESPECTIVAMENTE, DEL DECRETO 354 PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO CON FECHA 10 DE DICIEMBRE DE 2014, POR EL QUE SE EXPIDE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACAN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
