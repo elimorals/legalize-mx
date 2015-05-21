@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg13-2014-del-consejo-general-del-instituto-100870"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-05-20"
-last_updated: "2014-05-20"
+last_updated: "2015-05-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100870&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-04-29"
 ---
 # ACUERDO INE/CG13/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE CREA CON CARACTER TEMPORAL LA COMISION DE REGLAMENTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO GENERAL CG46/2014, DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN LA TERCERA SECCIÓN DEL D.O.F. DE 21 DE MAYO DE 2015, DEJA SIN EFECTOS DEL PRESENTE ORDENAMIENTO, POR LO QUE HACE A LA INTEGRACIÓN PROVISIONAL DE LA COMISIÓN TEMPORAL DE REGLAMENTOS, EN TÉRMINOS DEL CONSIDERANDO 20.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE CREA CON CARÁCTER TEMPORAL LA COMISIÓN DE REGLAMENTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 20 de mayo de 2014.
 
@@ -37,7 +39,7 @@ CONSIDERANDO
 
 [...]
 
-En virtud de lo anteriormente señalado y con fundamento en lo previsto en los artículos 41, párrafo segundo, Base V, Apartado A, párrafos primero y segundo de la Constitución Política de los Estados Unidos Mexicanos; 109; 116, párrafos 1, 2, 4 y 6; y 118, párrafo 1, incisos b) y z) del Código Federal de Instituciones y Procedimientos Electorales; 14, párrafo 1, incisos j) y k) del Reglamento Interior del Instituto Federal Electoral; 4, numeral 1, inciso b) y 6 párrafos 1 y 2 del Reglamento de Comisiones del Consejo General; y Quinto Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral”, el Consejo General ha determinado emitir el siguiente:
+En virtud de lo anteriormente señalado y con fundamento en lo previsto en los artículos 41, párrafo segundo, Base V, Apartado A, párrafos primero y segundo de la Constitución Política de los Estados Unidos Mexicanos; 109; 116, párrafos 1, 2, 4 y 6; y 118, párrafo 1, incisos b) y z) del Código Federal de Instituciones y Procedimientos Electorales; 14, párrafo 1, incisos j) y k) del Reglamento Interior del Instituto Federal Electoral; 4, numeral 1, inciso b) y 6 párrafos 1 y 2 del Reglamento de Comisiones del Consejo General; y Quinto Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral", el Consejo General ha determinado emitir el siguiente:
 
 ACUERDO
 
@@ -114,3 +116,9 @@ El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Con
 Se aprobaron en lo particular los Considerandos 8 y 13, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE MAYO DE 2015.
+
+ÚNICO.- La existencia del Órgano Garante de la Trasparencia y el Acceso a la Información estará sujeta hasta que no entren en vigor las leyes secundarias en la materia y que regulan el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos.
