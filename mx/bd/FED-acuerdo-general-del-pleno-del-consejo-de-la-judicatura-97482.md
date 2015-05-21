@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2015-03-19"
+last_updated: "2015-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -1089,9 +1089,23 @@ V. Una vez agotado el trámite, tratándose del titular de la Contraloría, la S
 
 Los procedimientos de responsabilidad administrativa de los servidores públicos del Instituto Federal de Defensoría Pública, serán resueltos conforme a las disposiciones aplicables. Tratándose del titular de dicho Instituto, se seguirá en lo conducente lo dispuesto en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 112.
 
-De acuerdo con lo dispuesto en los artículos 109, fracción III y 113 de la Constitución, la Ley Orgánica, la Ley de Responsabilidades, y este Acuerdo, el Pleno podrá ordenar el inicio del procedimiento de responsabilidad administrativa de conformidad con este Acuerdo, cuando al emitir una resolución en materia de conflictos laborales, en términos del artículo 81, fracción XXV, de la Ley Orgánica, advierta que el titular de un órgano jurisdiccional o área administrativa cesó o despidió a un servidor público en notoria contravención a las disposiciones aplicables y con error, mala fe o evidente descuido.
+De acuerdo con lo dispuesto en los artículos 109, fracción III y 113 de la Constitución, la Ley Orgánica, la Ley de Responsabilidades, y este Acuerdo, el Pleno podrá ordenar el inicio del procedimiento de responsabilidad administrativa de conformidad con este Acuerdo, cuando al emitir una resolución en materia de conflictos laborales, en términos del artículo 81, fracción XXV, de la Ley Orgánica, advierta que el titular de un órgano jurisdiccional o área administrativa:
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+I. Cesó o despidió a un servidor público en notoria contravención a las disposiciones aplicables, con mala fe o evidente descuido;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+II. No otorgó la base al servidor público que reunía los requisitos a que se refiere el artículo 22 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo; o
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+III. Cuando se revele su intención de eludir, obstruir, interrumpir o impedir de manera arbitraria y con mala fe el derecho de uno o más trabajadores de nuevo ingreso a ser considerados inamovibles, por simulación, alteración o intermitencia en la expedición de los nombramientos produciendo el efecto de inestabilidad en el empleo, si a la fecha en que se dé inicio al procedimiento no ha otorgado el nombramiento que corresponda.
 
 El monto que se exija al servidor público por concepto del daño o perjuicio causado al Poder Judicial de la Federación, formará parte de la sanción económica que se aplique.
 
@@ -2800,3 +2814,9 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. 
 CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
+
+D.O.F. 21 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
