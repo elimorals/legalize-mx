@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg05-2014-del-consejo-general-del-instituto-100896"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-05-20"
-last_updated: "2014-05-20"
+last_updated: "2015-05-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100896&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-04-11"
 ---
 # ACUERDO INE/CG05/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECE LA INTEGRACION PROVISIONAL DE LAS COMISIONES PERMANENTES Y TEMPORALES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y DEL ORGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL INE/CG46/2014 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECE LA INTEGRACIÓN DE LAS COMISIONES PERMANENTES Y TEMPORALES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN, PUBLICADO EN EL D.O.F. DE 21 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECE LA INTEGRACIÓN PROVISIONAL DE LAS COMISIONES PERMANENTES Y TEMPORALES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015 (SIN EFECTOS).
 
 Acuerdo publicado en la Edición Vespertina del Diario Oficial de la Federación, el martes 20 de mayo de 2014.
 
@@ -378,3 +380,21 @@ Tercero.- Publíquese en el Diario Oficial de la Federación.
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 11 de abril de dos mil catorce, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE MAYO DE 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECE LA INTEGRACIÓN DE LAS COMISIONES PERMANENTES Y TEMPORALES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero.- Se aprueba la integración de las Comisiones Permanentes y Temporales del Consejo General del Instituto Nacional Electoral.
+
+Segundo.- Se deja sin efectos los Acuerdos INE/CG05/2014 e INE/CG13/2014, éste último por lo que hace a la integración provisional de la Comisión Temporal de Reglamentos, en términos del Considerando 20.
+
+Tercero.- El presente Acuerdo entrará en vigor y surtirá efectos a partir de su aprobación en la sesión correspondiente del Consejo General.
+
+Cuarto.- Publíquese en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+ÚNICO.- La existencia del Órgano Garante de la Trasparencia y el Acceso a la Información estará sujeta hasta que no entren en vigor las leyes secundarias en la materia y que regulan el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos.
