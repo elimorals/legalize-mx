@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-supremo-tribunal-de-justicia-a-la-ley-de-69865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-13"
-last_updated: "2009-08-13"
+last_updated: "2015-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 REGLAMENTO DEL SUPREMO TRIBUNAL DE JUSTICIA A LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO PUBLICADO EN EL ANEXO DEL P.O. DE 21 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 13 de agosto de 2009.
 
@@ -41,7 +43,7 @@ La autonomía presupuestal, orgánica y funcional que caracterizan la actual est
 
 Las disposiciones del presente reglamento son de observancia general y obligatoria para las dependencias del Supremo Tribunal de Justicia.
 
-###### Articulo 2°.
+###### Artículo 2°.
 
 El presente reglamento tiene por objeto establecer las disposiciones que propicien el oportuno y estricto cumplimiento de la Ley Federal y Local de Obras Públicas y Servicios relacionados con las mismas para el Estado de Tamaulipas, e instaurar las bases para la regulación, integración, estructura, funcionamiento y operación del Comité de Obras Públicas y Servicios relacionados con las mismas del Supremo Tribunal de Justicia del Estado.
 
@@ -67,7 +69,7 @@ VIII. Expediente Unitario.- Documento conformado por archivos magnéticos y docu
 
 IX. Estimación.- Valuación de los trabajos ejecutados en el periodo pactado, aplicando los precios unitarios a las cantidades de los conceptos de trabajo realizados, conforme al avance financiero.
 
-###### Articulo 4°.
+###### Artículo 4°.
 
 La Dirección de Administración, la Dirección de Finanzas y la Contraloría Interna, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este reglamento, para efectos administrativos, debiendo considerar las disposiciones establecidas en la Ley, sin perjuicio de la facultad que al efecto confiera al Pleno del Tribunal este reglamento.
 
@@ -279,7 +281,7 @@ Para efectos del artículo 57 de la Ley, las garantías que deben otorgarse se c
 
 Será responsabilidad del Presidente del Comité la suscripción y formalización de los Contratos de Obra aprobados.
 
-### Capitulo V. DE LA EJECUCION
+### Capítulo V. DE LA EJECUCION
 
 ###### Artículo 37.
 
@@ -372,3 +374,17 @@ PRIMERO.- El presente reglamento entrará en vigor a los tres días de su public
 SEGUNDO.- El Comité de Obra a que hace referencia el presente reglamento, se integrará al día siguiente de su publicación.
 
 EL SECRETARIO GENERAL· DE ACUERDOS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO, C E R T I F I C O: QUE EL ANTERIOR "REGLAMENTO DEL SUPREMO TRIBUNAL DE JUSTICIA A LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS", FUE APROBADO POR EL HONORABLE PLENO Y ORDENO SU PUBLlCACION Y DIFUSION, EN ACUERDO DIVERSO TOMADO EN SESION CELEBRADA EL 13. TRECE DE AGOSTO DE 2009 DOS MIL NUEVE. SE EXPIDE LA PRESENTE CERTIFICACION. PARA. SUS EFECTOS LEGALES. EN CIUDAD VICTORIA, TAMAULIPAS, A LOS 13 TRECE DlAS DE AGOSTO DE 2009 DOS MIL NUEVE. DOY FE. EL SECRETARIO GENERAL DE ACUERDOS.- LIC. JAIME ALBERTO PEREZ AVALOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MAYO DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+Primero.- Se aprueba expedir el Reglamento del Poder Judicial a la Ley de Obras Públicas y Servicios relacionados con las mismas para el Estado de Tamaulipas, al tenor de lo estipulado en el mismo.
+
+Segundo.- El Reglamento del Poder Judicial a la Ley de Obras Públicas y Servicios relacionados con las mismas para el Estado de Tamaulipas, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Tercero.- Con la entrada en vigor del cuerpo normativo antes descrito, se abroga el Reglamento del Supremo Tribunal de Justicia a la Ley de Obras Públicas y Servicios relacionados con las mismas para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado en fecha trece de agosto de dos mil nueve.
+
+Cuarto.- Para su difusión y conocimiento, instruméntense la circular correspondiente, publíquese el presente acuerdo en el Periódico Oficial del Estado, en los estrados de la Secretaría General de Acuerdos del Supremo Tribunal de Justicia y en la página Web del Poder Judicial del Estado.
