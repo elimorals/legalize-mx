@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-60021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-21"
-last_updated: "2014-11-14"
+last_updated: "2015-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de marzo de 2008.
 
@@ -929,9 +929,15 @@ La entrega del estímulo económico se suspenderá en los siguientes casos:
 
 I. Por la falta de notificación de los Investigadores Nacionales Eméritos de su situación;
 
-II. Por no presentar el informe anual de actividades en los formatos establecidos, acompañado de una constancia de adscripción actualizada;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2015)</small>
 
-III. Por no presentar el informe anual de actividades en el plazo establecido para dicho fin, y
+II. Por no presentar una constancia de adscripción actualizada; y
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2015)</small>
+
+III. Por dedicarse a actividades diferentes a la investigación, por motivo de una comisión, o licencia sin goce de sueldo, o con goce parcial de sueldo, autorizado por la institución, dependencia o centro de investigación.
+
+Esta fracción no aplica a aquellos Investigadores Nacionales que se acojan al Artículo 77.
 
 IV. Por dedicarse a actividades diferentes a la investigación, por motivo de una comisión, o licencia sin goce de sueldo, o con goce parcial de sueldo, autorizado por la institución, dependencia o centro de investigación.
 
@@ -1091,7 +1097,9 @@ Son obligaciones de los investigadores miembros del SNI:
 
 I. Suscribir en el periodo establecido y en su caso, un convenio con el CONACYT, en donde se estipulen las formas y condiciones para el otorgamiento del estímulo económico, de acuerdo con la disponibilidad presupuestal y las modalidades que convengan las partes;
 
-II. Presentar al Director del SNI un informe anual de actividades en los formatos y plazos establecidos, acompañado de una constancia de adscripción actualizada;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2015)</small>
+
+II. Presentar anualmente al Director del SNI una constancia de adscripción actualizada;
 
 III. Notificar al SNI sobre cualquier cambio en su situación laboral, contractual o académica dentro de los primeros treinta días naturales posteriores a éste, enviar la documentación probatoria correspondiente;
 
@@ -1244,3 +1252,7 @@ D.O.F. 14 DE NOVIEMBRE DE 2014.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Una vez que las presentes modificaciones entren en vigor, podrán aplicarse para las Convocatorias que en ese momento se encuentren vigentes.
+
+D.O.F. 21 DE MAYO DE 2015.
+
+ÚNICO.- La presente reforma al Reglamento del Sistema Nacional de Investigadores entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
