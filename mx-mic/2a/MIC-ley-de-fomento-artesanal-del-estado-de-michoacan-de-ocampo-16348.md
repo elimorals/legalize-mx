@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-artesanal-del-estado-de-michoacan-de-ocampo-1634
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-13"
-last_updated: "2000-03-13"
+last_updated: "2015-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE FOMENTO ARTESANAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE FOMENTO ARTESANAL DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE FOMENTO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 21 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Quinta del Periódico Oficial, el lunes 13 de marzo de 2000.
 
@@ -503,7 +505,7 @@ IV. La promoción de acuerdos interinstitucionales, que faciliten el intercambio
 
 V. La edición y promoción de material publicitario sobre la actividad artesanal en la Entidad.
 
-ARTÍCULOS TRANSITORlOS
+## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -513,10 +515,28 @@ TERCERO.- El personal de base que al iniciar su vigencia la presente Ley, preste
 
 El Ejecutivo del Estado dispondrá se publique y observe.
 
-PALACIO DEL PODER LEGlSLATIVO, Morelia, Michoacán, a 29 de febrero del año 2000.
+PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán, a 29 de febrero del año 2000.
 
-DIPUTADO PRESlDENTE.- JUAN LUIS CALDERÓN HINOJOSA.- DIPUTADA SECRETARIA.-MARÍA ORTEGA RAMÍREZ.- DlPUTADO SECRETARIO.- JAIME AHUIZOTL ESPARZA CORTINA. (Firmados).
+DIPUTADO PRESIDENTE.- JUAN LUIS CALDERÓN HINOJOSA.- DIPUTADA SECRETARIA.-MARÍA ORTEGA RAMÍREZ.- DIPUTADO SECRETARIO.- JAIME AHUIZOTL ESPARZA CORTINA. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 03 tres días del mes de Marzo del año 2000, dos mil.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Fomento Artesanal del Estado de Michoacán de Ocampo.
+
+TERCERO. El Gobernador realizará las acciones necesarias a fin de integrar e instalar el Consejo Estatal de las Artesanías en un plazo no mayor a 90 días posteriores a la publicación del presente Decreto.
+
+CUARTO. El Director General del Instituto deberá elaborar el reglamento interior y presentarlo a las instancias competentes en un plazo no mayor a 45 días posteriores a la publicación del presente Decreto.
+
+QUINTO. La Junta deberá aprobar el reglamento Interior del Instituto en un Plazo no mayor a 60 días a partir de la publicación del presente Decreto.
+
+SEXTO. El personal sindicalizado que se encuentre adscrito a la Casa de las Artesanías del Estado de Michoacán de Ocampo, pasará a formar parte del Instituto, respetándose sus derechos laborales. El personal de confianza será reconsiderado por la Junta en términos de la presente Ley.
+
+SÉPTIMO. Una vez que entre en vigor la presente Ley, el Ejecutivo a través de la Secretaría de Finanzas y Administración, creará la Unidad Programática Presupuestal del Instituto del Artesano Michoacano y se realizarán las acciones necesarias para que se constituya el Fondo de Apoyo para los Artesanos previsto en el Capítulo VII de esta Ley.
