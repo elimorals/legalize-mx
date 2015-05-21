@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-05-08"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -672,6 +672,10 @@ II. Haya laborado en la o las plazas respectivas de base, ininterrumpidamente, d
 III. Durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra; y
 
 IV. Al cumplirse más de seis meses en el desarrollo de labores en una o más plazas de base, se encuentre alguna de ellas vacante en definitiva, es decir, sin titular a quien se haya otorgado nombramiento definitivo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+La Dirección General de Recursos Humanos a través de cualquier medio que deje constancia, hará del conocimiento de los titulares de los órganos jurisdiccionales y de las áreas administrativas la fecha en que el servidor público adscrito estará por cumplir los seis meses en el cargo correspondiente.
 
 ### CAPÍTULO TERCERO. PERSONAL DE NUEVO INGRESO EN LOS ÓRGANOS JURISDICCIONALES
 
@@ -10590,3 +10594,9 @@ D.O.F. 8 DE MAYO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 21 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
