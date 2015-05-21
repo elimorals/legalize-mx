@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-260
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-14"
-last_updated: "2005-09-27"
+last_updated: "2015-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 14 de septiembre de 2000.
 
@@ -643,7 +645,7 @@ Morelia, Michoacán, a 4 de Septiembre del 2000.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN BENITO COQUET RAMOS.- SECRETARIO DE GOBIERNO.- LIC. JORGE EDUARDO GARCIA TORRES.- PROCURADOR GENERAL DE JUSTICIA DEL ESTADO. (FIRMADOS).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 25 DE JUNIO DE 2002.
 
@@ -654,3 +656,17 @@ P.O. 27 DE SEPTIEMBRE DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del (sic) Michoacán de Ocampo con fecha 14 catorce de septiembre del año 2000 dos mil, y se derogan todas las disposiciones que se opongan a lo previsto en el presente Reglamento.
+
+TERCERO. Continuarán en vigor los acuerdos que hayan sido expedidos por el Procurador, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto no se modifiquen o dejen sin efectos.
+
+CUARTO. La Dirección General de Administración realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las nuevas unidades administrativas que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+QUINTO. Los asuntos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio conforme la Declaratoria de fecha veintiséis de diciembre del año dos mil catorce, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+SEXTO. Los procedimientos de responsabilidad administrativa iniciados por la Visitaduría General de la Procuraduría General de Justicia del Estado de Michoacán, con anterioridad a la entrada en vigor del presente Reglamento, seguirán tramitándose por la Dirección General de Asuntos Internos conforme a la normatividad aplicable al momento de su inicio y ejecución.
