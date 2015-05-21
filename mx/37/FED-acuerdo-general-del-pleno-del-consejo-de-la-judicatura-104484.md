@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-04-24"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -283,6 +283,8 @@ Las áreas administrativas brindarán el apoyo que les sea requerido por la Secr
 
 Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto por la Comisión de Vigilancia, Información y Evaluación.
 
+> <small>N. DE E. EL ACUERDO, EXPEDIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 21 DE MAYO DE 2015, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO.</small>
+
 ### CAPÍTULO SÉPTIMO. DEL COORDINADOR TÉCNICO ADMINISTRATIVO
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
@@ -299,107 +301,181 @@ Se establecerán diferentes oficinas de correspondencia común para los órganos
 
 Cuando en un circuito o lugar existan dos o más tribunales o juzgados especializados, se establecerán oficinas de correspondencia común para cada especialidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+El funcionamiento de las oficinas de correspondencia común de los Centros Auxiliares, se regirá por los acuerdos generales que los crean y las disposiciones aplicables de este Acuerdo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 26.
 
-Es responsabilidad del Jefe de la Oficina de Correspondencia Común el resguardo, uso y respaldo de la información que se reciba con motivo de sus funciones, el uso del sistema computarizado, así como también de la bitácora de turno manual secuencial y la relativa a los movimientos correctivos de registros efectuados.
+Cada oficina de correspondencia común, estará a cargo de un jefe, quien supervisará y coordinará las actividades de recepción, registro, turno y entrega de asuntos, a fin de lograr el eficaz cumplimiento de las labores asignadas.
 
-Asimismo, proporcionará la información solicitada tanto por la Dirección General de Estadística Judicial, como por los magistrados de Circuito o jueces de Distrito.
+Asimismo, deberá proporcionar la información solicitada tanto por la Dirección General de Estadística Judicial, como por los magistrados de Circuito o jueces de Distrito a los que les presta el servicio.
 
-A fin de garantizar al máximo la seguridad de los datos personales y evitar su alteración, pérdida, transmisión y acceso no autorizado, cualquier requerimiento o solicitud de información proveniente de autoridades jurisdiccionales o administrativas, del orden local o federal relacionada con la documentación e información jurisdiccional tramitada por las oficinas de correspondencia común, inmediatamente deberá ser remitida a la Dirección General de Estadística Judicial para su atención.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El personal adscrito a las oficinas de correspondencia común desempeñará con eficiencia las funciones y actividades propias a su cargo, conforme a las instrucciones que, de acuerdo con las disposiciones aplicables, emita el Jefe de la Oficina de Correspondencia Común o la autoridad administrativa competente para ello.
-
-Con el fin de evitar poner en riesgo la integridad física de los servidores públicos que prestan servicio en las oficinas de correspondencia común, así como el de las instalaciones además de cuidar la confidencialidad de la información y documentación que obre en ellas, queda prohibido el acceso de personas ajenas al interior de dichas unidades administrativas.
-
-El personal adscrito a las oficinas de correspondencia común, deberá abstenerse de intervenir directa o indirectamente en la asesoría, elaboración o modificación de cualquier tipo de documentos que puedan ser presentados en dichas oficinas.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 27.
 
-Las oficinas de correspondencia común auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio, en la recepción de los documentos dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público en cada órgano, es decir, de las ocho treinta a las nueve horas y de las quince hasta las veinticuatro horas, con excepción de lo dispuesto en el artículo 51 de este Acuerdo.
+El personal de las oficinas de correspondencia común para ingresar al sistema computarizado contará con una clave de acceso individual e intransferible, que será proporcionada por la Dirección General de Estadística Judicial para cada operario del sistema.
 
-A fin de facilitar la recepción de asuntos de término conforme lo dispone el artículo 21 de la Ley de Amparo, en las localidades donde coincidan por una parte, órganos jurisdiccionales únicos que operen con sus oficialías de partes y por otra, oficinas de correspondencia común, éstas apoyarán a las referidas oficialías de partes en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas. La Comisión de Creación de Nuevos Órganos, a propuesta de la Dirección General de Estadística Judicial, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El auxilio se limitará a la recepción del documento y su entrega al órgano jurisdiccional a primera hora del día hábil siguiente a través del personal asignado, quien debe acudir a la Oficina de Correspondencia Común respectiva para recibir las promociones. El registro de estos documentos se realizará en un sistema de registro de promociones distinto del que corresponda al de turno de asuntos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 28.
 
-De conformidad con lo dispuesto por el artículo 181 de la Ley de Amparo, sólo se recibirán en las oficinas de correspondencia común los escritos de alegatos cuando estén dirigidos al tribunal que notificó el acuerdo relativo a la admisión de la demanda de amparo.
+El personal adscrito a las oficinas de correspondencia común desempeñará con eficiencia las funciones y actividades propias a su cargo y conforme a las instrucciones que, de acuerdo con las disposiciones aplicables, emita el jefe de la oficina o la autoridad administrativa competente para ello.
+
+Con el fin de evitar poner en riesgo la integridad física de los servidores públicos que prestan servicio en las oficinas de correspondencia común, así como el de las instalaciones, además de cuidar la confidencialidad de la información y documentación que obre en ellas, queda prohibido el acceso de personas ajenas al interior de dichas unidades administrativas.
 
 #### SECCIÓN SEGUNDA. AUXILIO A LOS ÓRGANOS JURISDICCIONALES EN LA RECEPCIÓN DE ESCRITOS DE TÉRMINO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 29.
 
-El horario de las oficinas de correspondencia común será de las ocho horas con treinta minutos a las veinticuatro horas, en días hábiles con las excepciones previstas en este Capítulo.
+Las oficinas de correspondencia común, auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio en la recepción de los documentos dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público, de conformidad con lo dispuesto en el artículo 21 de la Ley de Amparo.
 
-Las oficinas de correspondencia común no laborarán durante los días de descanso o aquéllos en que los órganos jurisdiccionales a los que presta servicio suspendan sus labores; en este último supuesto el Jefe de la Oficina de Correspondencia Común lo informará de inmediato a la Dirección General de Estadística Judicial.
+Con el fin de facilitar la recepción de los asuntos de término señalados en dicho precepto, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas.
 
-En aquellos casos que por alguna causa de carácter extraordinario se requiera que las oficinas de correspondencia común suspendan temporalmente funciones, la Dirección General de Estadística Judicial lo hará del conocimiento de la Comisión de Creación de Nuevos Órganos. El mismo procedimiento se seguirá para los casos de habilitación de los días de descanso de la Oficina de Correspondencia Común.
+La Comisión de Creación de Nuevos Órganos, a propuesta de la Dirección General de Estadística Judicial, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
 
-Cuando por causas de fuerza mayor el Consejo estime que existe imposibilidad para que los interesados puedan presentar sus demandas y promociones en las sedes ordinarias de las oficinas de correspondencia común, se podrán habilitar sedes alternas para continuar prestando el servicio encomendado. En estos supuestos se publicarán los avisos correspondientes en el portal de Internet del Consejo con la mayor oportunidad posible.
+El apoyo se limitará a la recepción del documento y su entrega al órgano jurisdiccional de inmediato o bien, a primera hora del día hábil siguiente a través del personal asignado, quien debe acudir a la oficina de correspondencia común respectiva para recibir las promociones. El control de estos documentos se realizará en un registro de promociones distinto del que corresponda al de turno de asuntos.
 
-En el supuesto de que se presenten demandas en forma masiva, el personal adscrito a las oficinas de correspondencia común, tomará medidas extraordinarias para agilizar su recepción en coordinación con la Dirección General de Estadística Judicial para que, en su caso, se implementen las medidas emergentes conducentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para no afectar la recepción, registro y turno de los diversos asuntos y promociones que se presenten en dichas oficinas, por excepción a lo dispuesto en el primer párrafo del artículo 35 de este Acuerdo, las demandas presentadas en forma masiva se registrarán y turnarán conforme las cargas de trabajo lo permitan.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 30.
 
-La Oficina de Correspondencia Común de los juzgados de Distrito de procesos penales federales en el Distrito Federal, funcionará durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentran establecidos los juzgados de Distrito de esa materia, trasladándose del Reclusorio Preventivo Norte al Oriente, y luego al Sur, continuando en ese orden sucesivamente.
-
-La distribución de nuevos asuntos se efectuará cada semana entre tres de los juzgados de Distrito de procesos penales federales instalados en el reclusorio preventivo en que se encuentre la Oficina de Correspondencia Común. Los ejercicios de la acción penal sin detenido por delito no grave, de las ocho horas con treinta minutos a las catorce horas con treinta minutos, de lunes a viernes, se turnarán en forma aleatoria entre los seis juzgados de Distrito con residencia en ese Reclusorio.
-
-La primera semana en que corresponda funcionar a la Oficina de Correspondencia Común instalada en el Reclusorio Preventivo Norte, los asuntos se distribuirán entre los juzgados Primero, Segundo y Tercero de Distrito de procesos penales federales en el Distrito Federal y en la segunda, entre los juzgados Decimosexto, Decimoséptimo y Decimoctavo de Distrito de procesos penales federales en el Distrito Federal.
-
-La primera semana en que corresponda funcionar a la Oficina de Correspondencia Común instalada en el Reclusorio Preventivo Oriente, los asuntos se distribuirán entre los juzgados Cuarto, Quinto y Sexto de Distrito de procesos penales federales en el Distrito Federal y en la segunda, entre los juzgados Décimo, Decimoprimero y Decimosegundo de Distrito de procesos penales federales en el Distrito Federal.
-
-La primera semana en que corresponda funcionar a la Oficina de Correspondencia Común instalada en el Reclusorio Preventivo Sur, los asuntos se distribuirán entre los juzgados Séptimo, Octavo y Noveno de Distrito de procesos penales federales en el Distrito Federal y en la segunda, entre los juzgados Decimotercero, Decimocuarto y Decimoquinto de Distrito de procesos penales federales en el Distrito Federal.
-
-La recepción de asuntos urgentes en días y horas inhábiles se realizará en forma semanal entre tres de los juzgados de Distrito de procesos penales federales en el Distrito Federal, conservando el orden establecido; se recibirán por un secretario que al efecto autoricen los tres titulares de esos órganos jurisdiccionales; dicho secretario los distribuirá de manera equitativa e informará a la Oficina de Correspondencia Común respecto de los documentos recibidos en cuanto ésta reanude sus labores, a fin que realice el registro en el sistema y éste lleve a cabo la compensación correspondiente y se equilibren las cargas de trabajo.
+Sólo se recibirán en las oficinas de correspondencia común los escritos de alegatos cuando estén dirigidos al tribunal que notificó el acuerdo relativo a la admisión de la demanda de amparo.
 
 #### SECCIÓN TERCERA. HORARIOS DE FUNCIONAMIENTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 31.
 
-La Oficina de Correspondencia Común de los juzgados de Distrito de procesos penales federales en el Distrito Federal tendrá un horario de las ocho horas con treinta minutos a las catorce horas con treinta minutos y la de los juzgados de procesos penales federales en el Estado de Jalisco, con residencia en Puente Grande, así como la de procesos penales federales en el Estado de Nayarit, con residencia en Tepic, observarán un horario de las ocho horas con treinta minutos a las dieciocho horas, todas en días hábiles.
+El horario de las oficinas de correspondencia común será de las ocho horas con treinta minutos a las veinticuatro horas, en días hábiles con las excepciones previstas en este Capítulo.
+
+Las oficinas de correspondencia común no laborarán durante los días de descanso o aquéllos en que los órganos jurisdiccionales a los que presta servicio suspendan sus labores, en este último supuesto el jefe de la oficina lo informará de inmediato a la Dirección General de Estadística Judicial.
+
+En aquellos casos que por alguna causa de carácter extraordinario se requiera que las oficinas de correspondencia común suspendan temporalmente funciones, la Dirección General de Estadística Judicial lo hará del conocimiento de la Comisión de Creación de Nuevos Órganos. El mismo procedimiento se seguirá para los casos de habilitación de los días de descanso de la oficina de correspondencia común.
+
+Cuando por causas de fuerza mayor el Consejo estime que existe imposibilidad para que los interesados presenten sus demandas y promociones en las sedes ordinarias de las oficinas de correspondencia común, se podrán habilitar sedes alternas en aras de continuar prestando el servicio encomendado. En estos supuestos se publicarán los avisos correspondientes en el portal de Internet del Consejo.
+
+En el supuesto de que se presenten demandas en forma masiva, el personal adscrito a las oficinas de correspondencia común, tomará medidas extraordinarias para agilizar su recepción en coordinación con la Dirección General de Estadística Judicial para que, en su caso, se implementen las medidas emergentes conducentes.
+
+Para no afectar la recepción, registro y turno de los diversos asuntos y promociones que se presenten en dichas oficinas, por excepción a lo dispuesto en el primer párrafo del artículo 37 del presente Acuerdo, las demandas presentadas en forma masiva se registrarán y turnarán conforme las cargas de trabajo lo permitan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 32.
 
-El registro y turno de asuntos se hará mediante el sistema computarizado que determine la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos. Para su uso se requerirá de una clave de acceso personal e intransferible la cual será proporcionada por la Dirección General de Estadística Judicial al personal adscrito a la Oficina de Correspondencia Común.
+La oficina de correspondencia común de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal, funcionará durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentran ubicados los órganos jurisdiccionales, trasladándose del reclusorio norte al oriente y, luego al sur, continuando en ese orden sucesivamente.
 
-En los periodos vacacionales, en los casos de licencias, renuncia o cualquier tipo de ausencia del personal de las oficinas de correspondencia común, el Jefe de la Oficina de Correspondencia Común deberá comunicarlo a la Dirección General de Estadística Judicial, para que se proporcione la clave de acceso a la persona que ocupe el cargo, sin que en ningún caso pueda entregarse la clave personalizada de acceso a persona diferente al usuario.
+La distribución de nuevos asuntos en la citada oficina de correspondencia común, se efectuará cada semana entre tres de los juzgados de Distrito de procesos penales federales instalados en el reclusorio preventivo en que se encuentre la oficina de correspondencia común. Los ejercicios de la acción penal sin detenido por delito no grave, de las ocho horas con treinta minutos a las catorce horas con treinta minutos, de lunes a viernes, se turnarán en forma aleatoria entre los seis juzgados de Distrito con residencia en ese Reclusorio.
+
+La primera semana en que deba funcionar la oficina de correspondencia común instalada en el Reclusorio Preventivo Norte, los asuntos se distribuirán entre los Juzgados Primero, Segundo y Tercero de Distrito de Procesos Penales Federales en el Distrito Federal y en la segunda, entre los Juzgados Decimosexto, Decimoséptimo y Decimoctavo de Distrito de Procesos Penales Federales en el Distrito Federal.
+
+La primera semana en que funcione la oficina de correspondencia común instalada en el Reclusorio Preventivo Oriente, los asuntos se distribuirán entre los Juzgados Cuarto, Quinto y Sexto de Distrito de Procesos Penales Federales en el Distrito Federal y en la segunda, entre los Juzgados Décimo, Decimoprimero y Decimosegundo de Distrito de Procesos Penales Federales en el Distrito Federal.
+
+La primera semana en que corresponda funcionar a la oficina de correspondencia común instalada en el Reclusorio Preventivo Sur, los asuntos se distribuirán entre los Juzgados Séptimo, Octavo y Noveno de Distrito de Procesos Penales Federales en el Distrito Federal y en la segunda, entre los Juzgados Decimotercero, Decimocuarto y Decimoquinto de Distrito de Procesos Penales Federales en el Distrito Federal.
+
+La recepción de asuntos urgentes en días y horas inhábiles se realizará en forma semanal entre tres de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal, conservando el orden establecido; se recibirán por un secretario que al efecto autoricen los tres titulares de esos órganos jurisdiccionales; dicho secretario los distribuirá de manera equitativa e informará a la oficina de correspondencia común respecto de los documentos recibidos en cuanto ésta reanude sus labores, a fin de que realice el registro en el sistema y éste lleve a cabo la compensación correspondiente y se equilibren las cargas de trabajo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 33.
 
-La Dirección General de Estadística Judicial determinará la diferencia máxima permitida en el turno global y por rubro de asuntos, previa aprobación de la Comisión de Creación de Nuevos Órganos.
+La Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal tendrá un horario de las ocho horas con treinta minutos a las catorce horas con treinta minutos y la de los Juzgados de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande, así como la de Procesos Penales Federales en el Estado de Nayarit, con residencia en Tepic, observarán un horario de las ocho horas con treinta minutos a las dieciocho horas, todas en días hábiles.
 
-En caso de que se rebase la diferencia máxima, la Dirección General de Estadística Judicial hará la revisión correspondiente y dictará las medidas necesarias para equilibrar las cargas de trabajo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN CUARTA. DEL SISTEMA COMPUTARIZADO
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN CUARTA. SISTEMA COMPUTARIZADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 34.
 
-La Dirección General de Estadística Judicial propondrá las medidas necesarias que permitan el mejoramiento del sistema de distribución de asuntos, previa autorización de la Comisión de Creación de Nuevos Órganos.
+El registro y turno de asuntos se hará mediante el sistema computarizado que determine la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos.
+
+Durante los periodos vacacionales, en los casos de licencias, renuncia o cualquier tipo de ausencia del personal de las oficinas de correspondencia común, el jefe de dicha unidad administrativa deberá comunicarlo a la Dirección General de Estadística Judicial, para que se proporcione la clave de acceso a la persona que ocupe el cargo, sin que en ningún caso pueda entregarse la clave personalizada de acceso a persona diferente al usuario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 35.
 
-Previa verificación por parte del personal de la Oficina de Correspondencia Común de que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio, la recibirá junto con las copias y anexos, imprimiendo el sello respectivo en la primera hoja, que contendrá fecha y hora de presentación y asentará el número de copias y de anexos, además se precisará si obra firma, registrándola y turnándola de inmediato al órgano jurisdiccional correspondiente.
+La Dirección General de Estadística Judicial determinará la diferencia máxima permitida en el turno global y por rubro o tipo de asuntos, previa aprobación de la Comisión de Creación de Nuevos Órganos.
 
-En la copia que se entregará al interesado, así como en los comprobantes de registro, se deberá anotar fecha y hora de recepción, número de copias y anexos, si los hubiere, y si ostenta o no firma, signando la persona que haya recibido la documentación, proporcionando la información relativa al turno del asunto y el número de registro que le fue asignado.
+En caso de que se rebase la diferencia máxima, aquélla hará la revisión correspondiente y dictará las medidas necesarias para equilibrar las cargas de trabajo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 36.
 
-Los servidores públicos adscritos a las oficinas de correspondencia común, deberán realizar el trámite normal de aquellos asuntos recibidos en dicha unidad administrativa, en los que tengan interés personal o jurídico, conforme a lo dispuesto en este Capítulo.
+La Dirección General de Estadística Judicial propondrá a la Comisión de Creación de Nuevos Órganos las medidas necesarias que permitan el mejoramiento del sistema de distribución de asuntos.
 
-#### SECCIÓN QUINTA. DE LA RECEPCIÓN DE LOS DOCUMENTOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN QUINTA. RECEPCIÓN DE LOS DOCUMENTOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 37.
 
-Una vez registrado el asunto, se obtendrá del sistema la impresión por triplicado de la boleta de turno. Un ejemplar de dicha boleta se entregará al interesado, otro al órgano jurisdiccional al que se turne y, el último, lo conservará la Oficina de Correspondencia Común como soporte documental en el cual se asentará el nombre y firma del servidor público que recibió el asunto, lo anterior, para efectos de consulta, inspección y archivo.
+Previa verificación por parte del personal de la oficina de correspondencia común de que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio, la recibirá junto con las copias y anexos, imprimiendo el sello respectivo en la primera hoja, que contendrá fecha y hora de presentación y asentará el número de copias y anexos, además se precisará si obra firma, registrándola para ser turnada de inmediato al órgano jurisdiccional correspondiente.
+
+En la copia que se entregará al interesado, así como en los comprobantes de registro, se deberá anotar el número de copias y anexos, si los hubiere, asentando el nombre y firma o rúbrica de la persona que haya recibido la documentación, proporcionando la información relativa al turno del asunto y el número de registro que le fue asignado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 38.
 
-Los titulares de los órganos jurisdiccionales a que dé servicio la Oficina de Correspondencia Común, deberán enviar personal a su cargo ante dicha unidad administrativa por lo menos dos veces al día, dentro del horario de labores del órgano jurisdiccional, para recibir los asuntos que les hayan sido turnados.
+Una vez registrado el asunto de manera consecutiva, se obtendrá del sistema la impresión por triplicado de la boleta de turno, tantos que serán sellados y firmados por la persona que haya recibido el asunto. Un ejemplar de dicha boleta se entregará al interesado, otro al órgano jurisdiccional al que se turne y, el último lo conservará la oficina de correspondencia común como acuse de recibo y soporte documental en el cual se asentará el nombre y firma del servidor público que entrega y del que recibe, así como la fecha y hora, lo anterior, para efectos de consulta, inspección y archivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 39.
+
+Los titulares de los órganos jurisdiccionales a los que preste servicio la oficina de correspondencia común, deberán enviar personal a su cargo ante dicha unidad administrativa por lo menos dos veces al día, dentro del horario de labores del órgano jurisdiccional, para recibir los asuntos que les hayan sido turnados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+###### Artículo 40.
 
 La boleta de turno contendrá, según el caso, los datos siguientes:
 
@@ -409,9 +485,9 @@ II. Fecha y hora de turno;
 
 III. Número de registro consecutivo que corresponda;
 
-IV. Número de folio del comprobante o contraseña que se otorga en el supuesto del artículo 40 de este Acuerdo;
+IV. Número de folio del comprobante o contraseña que se otorga en el supuesto del artículo 41 de este Acuerdo;
 
-V. Nombre del inculpado, actor, quejoso, recurrente o promovente;
+V. Nombre del quejoso, inculpado, actor, recurrente o promovente;
 
 VI. Nombre del defensor, persona de confianza, autorizado o representante;
 
@@ -419,7 +495,7 @@ VII. Nombre del demandado y tercero interesado;
 
 VIII. Tipo de juicio, recurso que se interpone o procedimiento que se promueve;
 
-IX. Acto reclamado, tratándose de amparos;
+IX. Acto reclamado;
 
 X. Materia;
 
@@ -431,155 +507,235 @@ XIII. El delito por el que se ejerce acción penal y el número de la averiguaci
 
 XIV. Órgano jurisdiccional al que se turna el asunto;
 
-XV. Número de copias y anexos que se reciben; y el señalamiento si cuenta con firma;
+XV. Número de copias y anexos que se reciben; y el señalamiento de si cuentan con firma;
 
-XVI. El asunto o asuntos con el cual el sistema de turno relaciona, en los casos previstos en este Capítulo; y
+XVI. El asunto o asuntos con el cual el sistema de turno relaciona, en los casos señalados en este Capítulo; y
 
 XVII. Nombre y firma del servidor público que recibió el asunto y del que lo entregue al órgano jurisdiccional.
 
-###### Artículo 40.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando encontrándose próximo a concluir el horario de actividades de la Oficina de Correspondencia Común se presentasen varios interesados solicitando la recepción de sus promociones, el personal de la citada oficina les entregará comprobantes o contraseñas a todos aquéllos que acudan hasta el término del horario, con el objeto de atenderles y recibir los documentos que exhibiesen y de justificar su recepción fuera del horario establecido.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 41.
 
-Cuando no pueda utilizarse el sistema computarizado de turno, ya sea por fallas en el suministro de energía eléctrica, desconfiguración del programa, introducción de virus o cualquier otro caso que entorpezca o imposibilite transitoriamente su funcionamiento, el personal de las oficinas de correspondencia común implementará de inmediato, de manera transitoria, el turno manual de los asuntos en forma secuencial y en riguroso orden de presentación a partir de la última distribución automatizada, repartiendo de forma equilibrada las cargas de trabajo entre los órganos jurisdiccionales.
+Cuando encontrándose próximo a concluir el horario de actividades de la oficina de correspondencia común se presentasen varios interesados solicitando la recepción de sus asuntos, el personal de la citada oficina les entregará comprobantes o contraseñas a todos aquéllos que acudan hasta el término del horario, con el objeto de atenderles y recibir los documentos que exhibiesen y de justificar su recepción fuera del horario establecido.
 
-De lo anterior se dará aviso de inmediato, vía telefónica, fax o mediante correo electrónico, a los titulares de los órganos jurisdiccionales a los que presta servicio la oficina, así como a la Dirección General de Estadística Judicial, sin perjuicio de hacerlo posteriormente mediante oficio. El mismo procedimiento deberá observarse al momento de reanudación de la operación del sistema computarizado, indicando el momento de cese del registro y turno manual de los asuntos, acompañando copia de la bitácora correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para el registro y turno manual de los asuntos se utilizarán formatos de idénticas características de los que proporciona el sistema computarizado para cada tipo de asunto además de registrarse en una bitácora en la que se hará constar la fecha, hora y motivos por los que se haya interrumpido el uso del sistema, el último registro asignado por dicho sistema, la fecha y hora de reanudación del propio sistema y el último registro manual asentado, además de la firma del encargado de la Oficina de Correspondencia Común.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
-Al reanudarse el sistema computarizado deberán ingresarse los datos asentados en los formatos mencionados.
+#### SECCIÓN SEXTA. REGISTRO SECUENCIAL O MANUAL DE ASUNTOS
 
-#### SECCIÓN SEXTA. DEL REGISTRO MANUAL DE ASUNTOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 42.
 
-En caso de error en la captura de los asuntos, el Jefe de cada Oficina de Correspondencia Común contará con una clave de acceso para uso exclusivo de corrección, proporcionada por la Dirección General de Estadística Judicial, y con ella realizarán los movimientos correctivos en el registro de los asuntos, bajo su estricta responsabilidad, haciendo la anotación en la bitácora respectiva.
+Cuando no pueda utilizarse el sistema computarizado de turno, ya sea por fallas en el suministro de energía eléctrica, desconfiguración del programa, introducción de virus o cualquier otro caso de fuerza mayor que entorpezca o imposibilite su funcionamiento, el personal de las oficinas de correspondencia común implementará de inmediato, de manera transitoria, el turno manual de los asuntos en forma secuencial y en riguroso orden de presentación a partir de la última distribución automatizada, repartiendo de manera equilibrada las cargas de trabajo entre los órganos jurisdiccionales.
 
-Los titulares de los órganos jurisdiccionales, sólo mediante escrito motivado y fundado, podrán solicitar al personal de las oficinas de correspondencia común que realice movimientos correctivos y de modificación del turno originalmente asignado, a efecto de justificar dichos movimientos en el sistema computarizado de turno así como en las visitas de inspección que se practiquen a éstas.
+De lo anterior se dará aviso de inmediato, vía telefónica, fax o mediante correo electrónico, a los titulares de los órganos jurisdiccionales a los que presta servicio la oficina, así como a la Dirección General de Estadística Judicial, sin perjuicio de hacerlo posteriormente mediante oficio. El mismo procedimiento deberá observarse al momento de reanudación de la operación del sistema computarizado, indicando el momento de cese del registro y turno manual de los asuntos, acompañando copia de la bitácora correspondiente.
+
+Para el registro y turno manual de los asuntos se utilizarán formatos con idénticas características de los que proporciona el sistema computarizado para cada tipo de asunto, además de registrarse en una bitácora en la que se hará constar la fecha, hora y motivos por los que se haya interrumpido el uso del sistema, el último registro asignado por dicho sistema, la fecha y hora de su reanudación y el último registro manual asentado, además de la firma del jefe o encargado de la oficina de correspondencia común.
+
+Al reanudarse el sistema computarizado deberán ingresarse los datos asentados en los referidos formatos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN SÉPTIMA. MOVIMIENTOS CORRECTIVOS EN EL REGISTRO Y TURNO DE ASUNTOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 43.
 
-Las oficinas de correspondencia común rendirán dentro de los primeros cinco días hábiles de cada mes, un informe a la Dirección General de Estadística Judicial, sobre el ingreso de asuntos recibidos en el mes inmediato anterior, del tipo de juicio, recurso o procedimiento, la materia y el turno realizado a cada uno de los órganos jurisdiccionales a los que brindan servicio, así como respecto de los movimientos correctivos y cambios de turno realizados.
+En caso de error en la captura de los asuntos, el jefe de la oficina de correspondencia común contará con una clave de acceso para uso exclusivo de corrección, proporcionada por la Dirección General de Estadística Judicial, y con ella realizará los movimientos correctivos en el registro de los asuntos, bajo su estricta responsabilidad, haciendo la anotación en la bitácora respectiva.
 
-En dicho informe, en su caso, también se indicará cuántos asuntos y promociones se presentaron en el buzón judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Dirección General de Estadística Judicial rendirá un informe semestral a la Comisión de Creación de Nuevos Órganos sobre los movimientos correctivos del turno realizado por las oficinas de correspondencia común de todo el país que hayan solicitado los titulares de los órganos jurisdiccionales, conforme a lo dispuesto en el artículo 42, segundo párrafo, de este Acuerdo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 44.
 
-Los asuntos se turnarán mediante el sistema computarizado de la siguiente manera:
+Las oficinas de correspondencia común rendirán dentro de los primeros cinco días hábiles de cada mes, un informe a la Dirección General de Estadística Judicial, sobre el ingreso de asuntos recibidos en el mes inmediato anterior, del tipo de juicio, recurso o procedimiento, la materia y el turno realizado a cada uno de los órganos jurisdiccionales a los que brindan servicio, así como de los movimientos correctivos y cambios de turno realizados.
 
-I. Forma aleatoria: Tratándose de amparos directos e indirectos, juicios federales, sus recursos, conflictos competenciales, así como la denuncia por incumplimiento de la declaratoria general de inconstitucionalidad, se turnarán en forma aleatoria mediante el sistema computarizado, de tal manera que se logre una distribución equilibrada de las cargas de trabajo entre los órganos jurisdiccionales.
+En dicho informe, en su caso, también se indicará cuántos asuntos y promociones se presentaron en el buzón judicial.
 
-Como regla general para el turno, no se tomará en cuenta el conocimiento anterior por determinado órgano jurisdiccional; una vez turnado de manera aleatoria un asunto no podrá ser motivo de consulta ante la Comisión de Creación de Nuevos Órganos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los procedimientos penales y sus recursos que no tengan antecedentes, se turnarán en forma aleatoria, de tal manera que se logre una distribución equilibrada de las cargas de trabajo entre los órganos jurisdiccionales federales.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
-También se turnarán de manera aleatoria aquellos asuntos en los que esté señalado como autoridad responsable algún tribunal Unitario de Circuito o juzgado de Distrito a los que proporciona servicio la Oficina de Correspondencia Común de que se trate; y
+#### SECCIÓN OCTAVA. SISTEMAS DE TURNO DE ASUNTOS
 
-II. Forma relacionada: El sistema computarizado de las oficinas de correspondencia común facilitará la relación de expedientes en aquellos casos excepcionales en los que por disposición legal se establece el conocimiento de asuntos diversos a cargo de un solo órgano jurisdiccional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En el caso del amparo adhesivo se turnará al órgano jurisdiccional que reciba el amparo principal; de igual forma, se turnarán al mismo tribunal Colegiado los amparos que se presenten por segunda ocasión en cumplimiento de la ejecutoria de una sentencia, de conformidad con el artículo 189 de la Ley de Amparo.
-
-Los procedimientos penales, así como sus recursos, que cuenten con antecedentes se turnarán de forma relacionada, de tal manera que a través de su compensación se logre una distribución equilibrada de las cargas de trabajo entre los órganos jurisdiccionales.
-
-Cualquier cuestión no prevista se resolverá de plano y en breve tiempo por la Comisión de Creación de Nuevos Órganos mediante consulta, sin suspender trámite ni generar conflicto por razón de turno; para su solución deberá remitirse únicamente copia certificada de las constancias que se estimen indispensables.
-
-Los jefes de las oficinas de correspondencia común previamente al registro del asunto verificarán si éste debe remitirse a un órgano jurisdiccional determinado por encontrarse en una de las siguientes hipótesis:
-
-a) Que provenga de una averiguación previa identificada con el mismo número de índice y autoridad, que otra ya asignada; y
-
-b) Los recursos o medios de impugnación, que se refieran a una misma averiguación previa o acto de autoridad, aunque promuevan diversas partes.
-
-Tratándose de ejercicio de la acción penal se observará lo siguiente:
-
-a) Cuando el ejercicio de la acción penal sea por delito grave, una vez perfeccionada la averiguación o subsanadas las omisiones y, el Ministerio Público las vuelva a presentar, lo hará directamente ante el juzgado que conoció en primer término, quien deberá recibirla y dar aviso a la Oficina de Correspondencia Común para que le sea contabilizado el asunto según el motivo de la devolución; y
-
-b) Cuando el Ministerio Público presente de nuevo un ejercicio de la acción penal clasificado como no grave y que le fue devuelto con antelación por algún órgano jurisdiccional, deberá presentarlo por conducto de la Oficina de Correspondencia Común para que se turne en forma relacionada al mismo juzgado de la siguiente manera:
-
-1. Si se trata de un ejercicio de la acción penal en el que se negó la orden de aprehensión se le asignará un nuevo número de registro en el rubro de ejercicio de la acción penal sin detenido; y
-
-2. Si el juzgado la devolvió por omisión de formalidades, se capturará para efectos de control, en el tipo de asunto “ejercicio de la acción penal devuelto”.
-
-#### SECCIÓN OCTAVA. DEL TURNO ALEATORIO Y RELACIONADO DE ASUNTOS
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 45.
 
-Los recursos de queja y reclamación, así como los incidentes por exceso o defecto en el cumplimiento de la suspensión, competencia de los tribunales Colegiados de Circuito y que por sus características no inicien mediante la presentación o interposición de un escrito inicial en las oficinas de correspondencia común, sino que se interpongan directamente ante dichos órganos jurisdiccionales, deberán hacerse del conocimiento de la Oficina de Correspondencia Común que corresponda para su registro inmediato.
+Los asuntos se turnarán mediante el sistema computarizado que determine la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos, de la siguiente manera:
 
-En los mismos términos, se enviarán a la Oficina de Correspondencia Común los impedimentos de magistrados de tribunal Colegiado y, en su caso, los asuntos de fondo de conformidad con el artículo 57 de la Ley de Amparo para la compensación respectiva.
+I. Forma Aleatoria: Una vez capturados los datos de registro del asunto que no cuente con antecedente alguno en el sistema computarizado, éste lo distribuirá aleatoriamente, y de manera equilibrada entre los órganos jurisdiccionales; y
 
-El recurso de queja establecido en la fracción I, inciso b) del artículo 97 de la Ley de Amparo, se registrará en la Oficina de Correspondencia Común con el número consecutivo de los recursos establecidos en las demás fracciones del artículo antes citado, y se enviará de inmediato al órgano jurisdiccional al que por razón de turno corresponda conocer, con independencia de que se establezca un turno específico en el programa computarizado o cuando el turno se efectúe manualmente, auxiliándose para ello del personal encargado de la oficialía de partes de dicho órgano, para facilitar su trámite expedito.
+II. Forma Relacionada: Si al capturar los datos de registro del asunto, el sistema computarizado arroja un antecedente que lo vincule con otro registrado con anterioridad, ya sea por disposición expresa de la ley o conforme a un criterio de relación, general o específico, de los contenidos en el propio sistema, se turnará al mismo órgano jurisdiccional que conoce o conoció de aquél.
 
-El sistema computarizado generará una base de datos de cada uno de los asuntos que se reciban y el destino que se les dio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 46.
 
-Se consideran como asuntos urgentes para su turno los que a continuación se enuncian:
+Son criterios generales de relación, en aplicación de los cuales un asunto de nuevo ingreso deberá turnarse a un órgano jurisdiccional determinado, por existir en el sistema un antecedente que hace procedente la vinculación, los siguientes:
 
-I. Ejercicio de la acción penal con detenido;
+I. La demanda de amparo adhesivo, que debe turnarse al órgano jurisdiccional que recibió el amparo principal;
 
-II. Diligenciación de exhortos en que deba resolverse sobre la situación jurídica del imputado;
+II. El juicio de amparo directo o indirecto, promovido contra actos provenientes de un expediente administrativo o jurisdiccional, averiguación previa o ejercicio de la acción penal, se turnará al órgano jurisdiccional que haya conocido de otro amparo promovido contra actos derivados de esos mismos asuntos;
 
-III. Solicitudes de orden de cateo;
+III. Los recursos de revisión, queja y reclamación relacionados con un juicio de amparo, al que tenga el antecedente del que derivan, conocido por cualquier vía;
 
-IV. Solicitudes de intervención de comunicaciones privadas;
+IV. Cuando se promuevan demandas de amparo o interpongan recursos, que se refieran a una misma averiguación previa o ejercicio de la acción penal o acto de autoridad, al que tenga el último antecedente del asunto, aunque las partes no sean las mismas;
 
-V. Solicitudes de extradición;
+V. Las demandas de amparo que se promuevan respecto del cumplimiento de una ejecutoria;
 
-VI. Orden de expulsión del país;
+VI. Los recursos de revisión fiscal, al que conozca o haya conocido del juicio de amparo directo;
 
-VII. Orden de arraigo;
+VII. Los recursos de apelación, al tribunal unitario de Circuito que haya conocido del o los anteriores;
 
-VIII. Demandas de amparo contra actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas, o alguno de los prohibidos por el artículo 22 de la Constitución;
+VIII. Cuando se determine la separación de juicios o de procesos, los expedientes que deriven se remitirán al órgano jurisdiccional que la decretó;
 
-IX. Declaración de inexistencia de huelga; y
+IX. En el caso de los procedimientos penales, así como sus recursos, que cuenten con antecedentes, se turnarán de manera relacionada;
 
-X. Incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+X. Tratándose del ejercicio de la acción penal se observará lo siguiente:
+
+a) Cuando sea por delito grave, perfeccionada la averiguación o subsanadas las omisiones y el Ministerio Público las vuelva a presentar, lo hará directamente ante el juzgado que conoció en primer término, quien deberá recibirla y dar aviso a la oficina de correspondencia común para que el asunto le sea contabilizado según el motivo de la devolución; y
+
+b) Cuando el Ministerio Público presente de nuevo un ejercicio de la acción penal por delito clasificado como no grave y que le fue devuelto con antelación por algún órgano jurisdiccional, deberá presentarlo por conducto de la oficina de correspondencia común para que se turne en forma relacionada al mismo juzgado de la siguiente manera:
+
+1. Si se trata de un ejercicio de la acción penal en el que se negó la orden de aprehensión se le asignará un nuevo número de registro en el rubro de ejercicio de la acción penal sin detenido; y
+
+2. Si el juzgado la devolvió por omisión de formalidades, se capturará para efectos de control, en el tipo de asunto ejercicio de la acción penal devuelto;
+
+XI. Los que provengan de una averiguación previa identificada con el mismo número de índice y autoridad, de otra ya asignada; así como, los recursos o medios de impugnación, que se refieran a una misma averiguación previa o acto de autoridad, aunque promuevan diversas partes, se turnarán al órgano jurisdiccional que haya conocido den antecedente registrado;
+
+XII. Los casos en los que por disposición legal aplicable a la materia, se establezca el conocimiento de asuntos diversos a cargo de un solo órgano jurisdiccional; y
+
+XIII. Los demás que determine el Pleno.
+
+La Comisión de Creación de Nuevos Órganos, a propuesta de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos o de los titulares de los órganos jurisdiccionales podrá determinar criterios específicos de relación.
+
+Dichos criterios deberán comunicarse a las oficinas de correspondencia común por conducto de la Dirección General de Estadística Judicial, y compilarse en un listado que se difundirá a través del portal de Intranet del Consejo.
+
+La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos deberá elaborar y mantener actualizado el listado a que se refiere el párrafo anterior.
+
+Quedan exentas de crear algún antecedente para la relación con posteriores asuntos las medidas precautorias de arraigo, aseguramiento, embargo, así como las órdenes de cateo que resulten indispensables para las averiguaciones previas, ello para los órganos jurisdiccionales que las dictan, y no así para los que conocen del amparo.
+
+Los acuerdos internos respecto del turno de los asuntos, emitidos por los titulares de los órganos jurisdiccionales, carecen de validez.
+
+Cualquier cuestión no prevista se resolverá de plano por la Comisión de Creación de Nuevos Órganos mediante consulta, sin suspender el trámite ni generar conflicto por razón del turno asignado. Para su solución deberá remitirse únicamente copia certificada de las constancias que se estimen indispensables; así como la propuesta que se plantee y, de resultar procedente, se realizarán las adecuaciones en el sistema computarizado para los casos subsecuentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 47.
 
-El personal de las oficinas de correspondencia común debe revisar íntegramente los escritos para identificar administrativamente los asuntos de carácter urgente y turnarlos de inmediato.
+Los recursos de queja y reclamación, así como los incidentes por exceso o defecto en el cumplimiento de la suspensión, competencia de los tribunales colegiados de Circuito y que por sus características no inicien mediante la presentación de un escrito en las oficinas de correspondencia común, sino que se interpongan directamente ante dichos órganos jurisdiccionales, deberán hacerse del conocimiento de la oficina de correspondencia común respectiva para su registro inmediato.
 
-#### SECCIÓN NOVENA. DEL TURNO DE LOS ASUNTOS URGENTES
+En los mismos términos, se enviarán a la oficina de correspondencia común los impedimentos de magistrados de tribunal colegiado y, en su caso, los asuntos de fondo.
+
+El recurso de queja previsto en el artículo 97, fracción I, inciso b), de la Ley de Amparo, se registrará en la oficina de correspondencia común, y se enviará de inmediato al órgano jurisdiccional al que por razón de turno corresponda conocer, con independencia de que se establezca un turno específico en el programa computarizado o cuando dicho turno se efectúe manualmente, auxiliándose para ello del personal encargado de la oficialía de partes de dicho órgano, para facilitar su trámite expedito.
+
+El sistema computarizado generará una base de datos de cada uno de los asuntos que se reciban y el destino que se les dio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN NOVENA. TURNO DE LOS ASUNTOS URGENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 48.
 
+Se consideran como asuntos urgentes para su turno, entre otros, los que a continuación se enuncian:
+
+I. Ejercicio de la acción penal con detenido;
+
+II. Ejercicio de la acción penal sin detenido por delitos calificados como graves;
+
+III. Diligenciación de exhortos en que deba resolverse sobre la situación jurídica;
+
+IV. Solicitudes de orden de cateo
+
+V. Solicitudes de intervención de comunicaciones privadas;
+
+VI. Solicitudes de extradición,
+
+VII. Orden de expulsión del país;
+
+VIII. Orden de arraigo;
+
+IX. Demandas de amparo contra actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, incomunicación, deportación o expulsión, destierro, extradición, desaparición forzada de personas, orden de traslado, malos tratos, tortura psicológica, segregación y demás prohibidos por el artículo 22 de la Constitución; así como, las presentadas por falta de atención médica especializada de las personas privadas de su libertad en un centro de reclusión;
+
+X. Declaración de inexistencia de huelga; y
+
+XI. Incorporación forzosa al Ejército, Armada o Fuerza Aérea Nacionales.
+
+XII. Aquellos que revistan tal carácter, conforme a las leyes que los rijan.
+
+Los asuntos considerados urgentes se turnarán y entregarán de inmediato al órgano jurisdiccional que correspondan; en la inteligencia de que esa calificación sólo tiene carácter administrativo para su atención oportuna, distinta de la legal del trámite que es facultad exclusiva de los órganos jurisdiccionales.
+
 Para los efectos de la regulación de ingresos y una distribución equitativa de los asuntos urgentes entre los órganos jurisdiccionales, la recepción y distribución se hará de la siguiente manera:
 
-I. Si los asuntos son presentados ante la Oficina de Correspondencia Común de lunes a jueves, de las ocho horas con treinta minutos a las catorce horas con treinta minutos se turnarán entre todos los juzgados a los que presta servicio, conforme a las disposiciones previstas en este Capítulo;
+a) Si los asuntos son presentados ante la Oficina de Correspondencia Común de lunes a jueves, de las ocho horas con treinta minutos a las catorce horas con treinta minutos se turnarán entre todos los juzgados a los que presta servicio, conforme a las disposiciones previstas en este Capítulo;
 
-II. De las catorce horas con treinta y un minutos a las veinticuatro horas y el día viernes, los oficios y promociones urgentes se enviarán al juzgado de Distrito que se encuentre de guardia, para la recepción de dichos asuntos, entregándose de inmediato al secretario autorizado.
+b) De las catorce horas con treinta y un minutos a las veinticuatro horas y el día viernes, los oficios y promociones urgentes se enviarán al juzgado de Distrito que se encuentre de guardia, para la recepción de dichos asuntos, entregándose de inmediato al secretario autorizado.
 
-Tratándose de los juzgados de Distrito de procesos penales federales en el Distrito Federal, para el turno de asuntos urgentes debe atenderse a lo dispuesto en el artículo 30 de este Acuerdo; y
+Tratándose de los juzgados de Distrito de procesos penales federales en el Distrito Federal, para el turno de asuntos urgentes debe atenderse a lo dispuesto en el artículo 32 de este Acuerdo; y
 
-III. Fuera del horario de servicio de las oficinas de correspondencia común, así como los días sábados y domingos e inhábiles las promociones y oficios urgentes serán recibidos por el secretario autorizado del órgano jurisdiccional de guardia para la recepción de esta clase de asuntos, quien deberá presentarlas a la Oficina de Correspondencia Común en cuanto ésta reanude sus labores, a fin de que se realice el registro y la compensación respectiva para equilibrar las cargas de trabajo.
+c) Fuera del horario de servicio de las oficinas de correspondencia común, así como los días sábados y domingos e inhábiles las promociones y oficios urgentes serán recibidos por el secretario autorizado del órgano jurisdiccional de guardia para la recepción de esta clase de asuntos, quien deberá presentarlas a la Oficina de Correspondencia Común en cuanto ésta reanude sus labores, a fin de que se realice el registro y la compensación respectiva para equilibrar las cargas de trabajo.
 
-#### SECCIÓN DÉCIMA. TURNO DE ASUNTOS CON LA HERRAMIENTA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-"SECRETARIO QUE RECIBE"
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA. HERRAMIENTA: “SECRETARIO QUE RECIBE”
 
 ###### Artículo 49.
 
 Tratándose de los asuntos recibidos por el secretario de guardia, el personal adscrito a las oficinas de correspondencia común los registrará y turnará utilizando la herramienta del sistema computarizado denominada “secretario que recibe”.
 
-Con esta herramienta únicamente se registrarán y turnarán aquellos asuntos recibidos por el secretario de guardia, en horario inhábil de la Oficina de Correspondencia Común.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+Con esta herramienta únicamente se registrarán y turnarán aquellos asuntos recibidos por el secretario de guardia, en horario inhábil de la oficina de correspondencia común.
 
 Al hacer uso de dicha herramienta invariablemente se deberá capturar la hora y fecha de recepción asentada por el secretario de guardia en los acuses respectivos o bien en los controles implementados, así como el nombre del referido servidor público.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS BUZONES JUDICIALES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. BUZONES JUDICIALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 50.
 
-Los buzones judiciales que se instalen en las oficinas de correspondencia común, tendrán como función recibir asuntos nuevos y promociones de término que no tengan el carácter de urgentes.
+En los buzones judiciales que se instalen en las oficinas de correspondencia común, se recibirán asuntos nuevos y promociones de término que no tengan el carácter de urgentes.
 
-Los buzones judiciales serán abiertos todos los días hábiles a las siete horas con treinta minutos, por el Jefe de la Oficina de Correspondencia Común de que se trate; en ausencia de éste, por el técnico de enlace administrativo OCC encargado de la oficina o que se comisione para ello, quien elaborará acta o relación de los asuntos y promociones, para constancia.
+Los buzones judiciales serán abiertos todos los días hábiles a las siete horas con treinta minutos, por el jefe de la oficina de correspondencia común de que se trate; en ausencia de éste, por el técnico de enlace administrativo OCC encargado de la oficina o que se comisione para ello, quien elaborará acta o relación de los asuntos y promociones, para constancia.
 
-Los documentos depositados se entregarán o turnarán, según corresponda, al órgano jurisdiccional a primera hora del día hábil siguiente a su depósito. El oficial de partes o persona comisionada acudirá a la Oficina de Correspondencia Común para recibirlos.
+Los documentos depositados se turnarán, según corresponda, al órgano jurisdiccional a primera hora del día hábil siguiente a su depósito. El oficial de partes o persona comisionada para tal efecto acudirá a la oficina de correspondencia común para recibirlos.
 
 ###### Artículo 51.
 
@@ -589,57 +745,105 @@ Los buzones judiciales no operarán durante las vacaciones ni aquellos días en 
 
 La Comisión de Creación de Nuevos Órganos podrá autorizar la modificación de los horarios de funcionamiento de las oficinas de correspondencia común y de sus buzones judiciales atendiendo a las necesidades del servicio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 52.
 
-Es responsabilidad exclusiva de los usuarios verificar que los asuntos y promociones que depositen en los buzones judiciales estén debidamente firmados, integrados y dirigidos a los órganos jurisdiccionales a los que presta servicio la Oficina de Correspondencia Común de que se trate.
+Es responsabilidad exclusiva de los usuarios verificar que los asuntos y promociones que depositen en los buzones judiciales estén debidamente firmados, integrados y dirigidos a los tribunales de Circuito o juzgados de Distrito a los que presta servicio la oficina de correspondencia común de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 53.
 
-El personal de la Oficina de Correspondencia Común, después de verificar que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio o auxilia, procederá a su inmediato registro y turno a través del sistema computarizado.
+El personal de la oficina de correspondencia común, después de revisar que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio o auxilia, procederá a su inmediato registro y turno a través del sistema computarizado.
 
-En el supuesto de que por error o desconocimiento se deposite en el buzón judicial un viernes por la noche y fin de semana, una demanda de amparo de trámite urgente, pero esto se advierte por el personal de la Oficina de Correspondencia Común a la que auxilia dicho buzón, hasta el lunes a las siete horas con treinta minutos al abrir el buzón, dicho asunto se turnará al juzgado de Distrito que inició guardia a partir de ese lunes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+En el supuesto de que por error o desconocimiento se deposite en el buzón judicial un viernes por la noche y fin de semana, una demanda de amparo de trámite urgente, pero esto se advierte por el personal de la oficina de correspondencia común a la que auxilia dicho buzón, hasta el lunes a las siete horas con treinta minutos al abrir el buzón, dicho asunto se turnará al juzgado de Distrito que inició guardia a partir de ese lunes.
 
 Si de lunes a jueves se deposita en el buzón judicial, algún asunto de los considerados como urgentes, se registrará y turnará al día siguiente antes de las ocho horas con treinta minutos, con ese carácter, pero de manera aleatoria entre los órganos jurisdiccionales a los que proporciona servicio el buzón.
 
-En caso de que la documentación que se presente en el buzón judicial se encuentre dirigida a diverso órgano jurisdiccional de los que auxilia el buzón, a la brevedad posible mediante oficio se enviará a su destinatario, por la vía más expedita, sin responsabilidad para el personal de la Oficina de Correspondencia Común.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+Si la documentación que se presente en el buzón judicial se encuentra dirigida a diverso órgano jurisdiccional de los que auxilia el buzón, a la brevedad posible mediante oficio se enviará a su destinatario, por la vía más expedita, sin responsabilidad para el personal de la oficina de correspondencia común.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+En caso de que se depositen en el buzón judicial asuntos urgentes en el horario comprendido entre las catorce horas con treinta y un minutos y las veinte horas, y el personal de la oficina de correspondencia advierta que ya se depositaron este tipo de asuntos, se deben enviar al órgano jurisdiccional que se encuentre en turno, entregándose de inmediato al secretario autorizado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 54.
 
-Para no interrumpir el servicio de los buzones judiciales en caso de desabasto o fallas en los insumos, el personal de la Oficina de Correspondencia Común de que se trate deberá vigilar que se cuente con los insumos indispensables; en caso de no contar con el material necesario para el funcionamiento de los buzones, dicha oficina deberá realizar la recepción de los asuntos ordinariamente, hasta en tanto se solucione la problemática.
+Para no interrumpir el servicio de los buzones judiciales en caso de desabasto o fallas en los insumos, el personal de la oficina de correspondencia común de que se trate deberá vigilar que se cuente con los insumos indispensables; en caso de no contar con el material necesario para el funcionamiento de los buzones, dicha oficina deberá realizar la recepción de los asuntos ordinariamente, hasta en tanto se solucione la problemática.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 55.
 
-En el caso de presentación de asuntos ante los buzones judiciales, estos se registrarán en el sistema computarizado imprimiéndose por triplicado la boleta de turno, la que contendrá los requisitos a que se refiere el artículo 39 de este Acuerdo, y cada tanto será sellado y firmado por la persona que lo haya registrado. Un ejemplar de dicha boleta se entregará al interesado; otro al órgano jurisdiccional al que en su caso se turne el asunto y, el último, lo conservará la Oficina de Correspondencia Común como soporte documental o acuse de recibo, para efectos de consulta, inspección y archivo.
+En el caso de presentación de asuntos ante los buzones judiciales, estos se registrarán en el sistema computarizado imprimiéndose por triplicado la boleta de turno, la que contendrá los requisitos a que se refiere el artículo 40 del presente ordenamiento, y cada tanto será sellado y firmado por la persona que lo haya registrado. Un ejemplar de dicha boleta se entregará al interesado; otro al órgano jurisdiccional al que en su caso se turne el asunto y, el último, lo conservará la oficina de correspondencia común como soporte documental o acuse de recibo, para efectos de consulta, inspección y archivo.
 
-La boleta de turno del interesado la conservará el personal de la Oficina de Correspondencia Común hasta en tanto éste acuda a recogerla y asiente en el ejemplar de la oficina la fecha, hora, así como su nombre y firma para constancia de su entrega.
+La boleta de turno del interesado la conservará el personal de la oficina de correspondencia común hasta en tanto éste acuda a recogerla y asiente en el ejemplar de la oficina la fecha, hora, así como su nombre y firma para constancia de su entrega.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 56.
 
-Los demás aspectos inherentes al funcionamiento de los buzones judiciales se regularán en el protocolo que al efecto emita la Dirección General de Estadística Judicial, con aprobación de la Comisión de Creación de Nuevos Órganos.
+Los demás aspectos inherentes al funcionamiento de los buzones judiciales se regularán en un protocolo que al efecto emita la Dirección General de Estadística Judicial, con aprobación de la Comisión de Creación de Nuevos Órganos.
 
 #### SECCIÓN DÉCIMA SEGUNDA. TURNO DE ASUNTOS DURANTE LOS PERIODOS VACACIONALES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 57.
 
-Las oficinas de correspondencia común de los tribunales Colegiados de Circuito, turnarán los asuntos mediante el sistema computarizado existente establecido por la Dirección General de Estadística Judicial, incluyendo a los órganos colegiados que se encuentren disfrutando de su periodo vacacional.
+Las oficinas de correspondencia común de los tribunales colegiados de Circuito, turnarán los asuntos mediante el sistema computarizado, incluyendo a los órganos colegiados que se encuentren disfrutando de su periodo vacacional.
 
-A los órganos jurisdiccionales que estén laborando se les entregarán de inmediato los asuntos que les hayan sido turnados; los que se encuentren de vacaciones los recibirán al reanudar sus labores, con excepción de las quejas interpuestas con fundamento en el artículo 97, fracción I, inciso b) de la Ley de Amparo, que serán resueltas por el tribunal o tribunales Colegiados de Circuito que se encuentren funcionando.
+A los órganos jurisdiccionales que estén laborando se les entregarán de inmediato los asuntos que les hayan sido turnados; los que se encuentren de vacaciones los recibirán al reanudar sus labores, a excepción de las quejas interpuestas con fundamento en el artículo 97, fracción I, inciso b), de la Ley de Amparo, que serán resueltas por el tribunal o tribunales colegiados de Circuito que se encuentren funcionando.
 
-Terminados los periodos vacacionales, las oficinas de correspondencia común de los tribunales Colegiados de Circuito harán la compensación del turno de los recursos de queja citados.
+Las oficinas de correspondencia común que prestan servicio a tribunales colegiados especializados únicamente recibirán, registrarán y turnarán los asuntos de la materia a la que dan servicio, con excepción de lo previsto en la parte final del párrafo anterior.
 
-Las oficinas de correspondencia común que prestan servicio a tribunales Colegiados especializados únicamente recibirán, registrarán y turnarán los asuntos de la materia a la que dan servicio, con excepción de lo previsto en la parte final del segundo párrafo de este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN DÉCIMA TERCERA. DEL PERFIL DE PUESTOS DEL PERSONAL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA TERCERA. PERFIL DE LOS PUESTOS
 
 ###### Artículo 58.
 
 Las plazas que se adscriban a las oficinas de correspondencia común serán de confianza; dichas unidades administrativas contarán por lo menos con un jefe y los técnicos de enlace administrativos OCC necesarios, atendiendo a las cargas de trabajo.
 
-El Jefe de la Oficina de Correspondencia Común será el responsable de los registros en el sistema y del uso de las bitácoras previstas en este Capítulo, así como de supervisar las actividades de los técnicos de enlace administrativo OCC, a fin de lograr el eficaz cumplimiento de las labores asignadas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+El jefe de la oficina de correspondencia común será el responsable de los registros en el sistema y del uso de las bitácoras previstas en el presente Capítulo, de supervisar las actividades de los técnicos de enlace administrativo OCC, a fin de lograr el eficaz cumplimiento de las labores asignadas; así como, del resguardo, uso y respaldo de la información.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 59.
 
-Para ocupar el puesto de Jefe de la Oficina de Correspondencia Común se requiere:
+Para ocupar el puesto de jefe de oficina de correspondencia común se requiere:
 
 I. Contar con título y cédula profesional de licenciatura en derecho;
 
@@ -667,41 +871,71 @@ IV. No haber sido condenado por delito doloso con sanción privativa de libertad
 
 V. No estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 61.
 
-La Dirección General de Estadística Judicial solicitará a la Dirección General de Recursos Humanos, a las Administraciones Regionales y Delegaciones Administrativas de la Coordinación de Administración Regional, según corresponda, la aplicación de los exámenes de conocimientos y psicométricos a los candidatos a ocupar las plazas en las oficinas de correspondencia común, así como su evaluación.
+La Dirección General de Estadística Judicial solicitará a la Dirección General de Recursos Humanos, a las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, según corresponda, la aplicación de los exámenes de conocimientos y psicométricos a los candidatos a ocupar las plazas en las oficinas de correspondencia común, así como su evaluación.
 
 Los exámenes serán los que determine la Comisión de Administración a propuesta de la Dirección General de Estadística Judicial la cual elaborará el proyecto de examen de conocimientos.
 
-Las personas que hayan causado baja en los cargos de Jefe de la Oficina de Correspondencia Común y técnico de enlace administrativo OCC por más de tres años, para poder reingresar a dichos puestos deberán aprobar nuevamente los exámenes respectivos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN DÉCIMA CUARTA. DE LAS CONVOCATORIAS
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+Las personas que hayan causado baja en los cargos de jefe de oficina de correspondencia común y técnico de enlace administrativo OCC por más de tres años, para poder reingresar a dichos puestos deberán aprobar nuevamente los exámenes respectivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA CUARTA. NOMBRAMIENTO DEL PERSONAL Y OTORGAMIENTO DE LICENCIAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 62.
 
-La Dirección General de Estadística Judicial con apoyo del Instituto de la Judicatura Federal emitirá anualmente convocatorias públicas dirigidas a profesionales y estudiantes de derecho dentro y fuera del Poder Judicial de la Federación, a fin de promover las posibilidades de participación y empleo que se ofrecen en las citadas oficinas en los diversos circuitos y residencias.
+A fin de hacer más expedita la gestión de los recursos humanos, la Dirección General de Estadística Judicial propondrá en forma directa los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos.
 
-Las convocatorias se acompañarán de una intensa difusión nacional y regional en escuelas y universidades que impartan la licenciatura en derecho, asociaciones profesionales de abogados y bolsas de trabajo, entre otras, a fin de generar una eventual reserva de potenciales aspirantes que, cubriendo el perfil y requisitos del puesto, se encuentren en aptitud de incorporarse de inmediato a las unidades administrativas en los lugares en que se requiera.
-
-La Dirección General de Comunicación Social colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. Por su parte la Coordinación de Administración Regional, así como el Instituto de la Judicatura Federal y sus extensiones apoyarán a la Dirección General de Estadística Judicial en la logística y trámites para su implementación en los diversos circuitos.
-
-###### Artículo 63.
-
-Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a los aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el Protocolo que al efecto expida la propia Dirección General de Estadística Judicial con autorización de la Comisión de Administración.
-
-###### Artículo 64.
-
-A fin de hacer más expedita la gestión de los recursos humanos, la Dirección General de Estadística Judicial propondrá en forma directa los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo respectivo; asimismo, autorizará las prórrogas de nombramientos.
-
-Las Administraciones Regionales y Delegaciones Administrativas, así como la Dirección General de Recursos Humanos, según corresponda, elaborarán y suscribirán los movimientos del personal de conformidad con las disposiciones aplicables.
+Las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, así como la Dirección General de Recursos Humanos, según corresponda, elaborarán y suscribirán los movimientos del personal de conformidad con las disposiciones aplicables.
 
 La Dirección General de Recursos Humanos enviará a la Dirección General de Estadística Judicial copia del nombramiento y demás movimientos del personal y conservará a su disposición los expedientes que se integren.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+###### Artículo 63.
+
+En el supuesto de que se encuentre vacante la plaza de jefe de oficina de correspondencia común, se dará preferencia en el escalafón a quienes ocupen los puestos de técnicos de enlace administrativo OCC con mayor antigüedad en la propia oficina de que se trate o en otras, quienes deberán cubrir el perfil y aprobar los exámenes técnico-jurídicos y psicométricos que correspondan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+###### Artículo 64.
+
+En caso de ausencia menor de tres días, y durante los periodos vacacionales del jefe de la oficina de correspondencia común, será suplido por el técnico de enlace administrativo OCC de mayor antigüedad en la propia oficina, a quien se le proveerá de la clave del sistema a efecto de que se encargue de coordinar la recepción, registro, turno y entrega de asuntos e informará a la Dirección General de Estadística Judicial.
+
+Tratándose de la ausencia de un técnico de enlace administrativo OCC por un plazo igual al antes referido y durante los periodos vacacionales, sus funciones serán cubiertas por el propio jefe de la oficina y los demás técnicos de enlace administrativos OCC. En caso de que no los hubiere, los titulares de los órganos jurisdiccionales a los que presta servicio la unidad administrativa de que se trate, comisionarán provisionalmente, de entre su plantilla de personal, al servidor público que deberá auxiliar a la oficina de correspondencia común en sus labores, dando aviso a la Dirección General de Estadística Judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 65.
 
-En el supuesto de que se encuentre vacante la plaza de Jefe de la Oficina de Correspondencia Común, se dará preferencia en el escalafón a quienes ocupen las plazas de técnicos de enlace administrativo OCC con mayor antigüedad en la propia oficina de que se trate o en otras, quienes deberán cubrir el perfil del puesto y aprobar los exámenes técnico-jurídicos y psicométricos que correspondan.
+La Dirección General de Estadística Judicial autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA QUINTA. DEL NOMBRAMIENTO DE PERSONAL Y DEL OTORGAMIENTO DE LICENCIAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA QUINTA. SUPERVISIÓN
 
 ###### Artículo 66.
 
@@ -709,93 +943,153 @@ En caso de ausencia menor de tres días y durante los periodos vacacionales del 
 
 Tratándose de ausencia de un técnico de enlace administrativo OCC por un plazo igual al antes referido y durante los periodos vacacionales, sus funciones serán cubiertas por el Jefe de la Oficina de Correspondencia Común y los demás técnicos de enlace administrativos OCC. En caso de que no los hubiere, los titulares de los órganos jurisdiccionales a los que presta servicio la unidad administrativa de que se trate, comisionarán provisionalmente, de entre su plantilla de personal, al servidor público que deberá auxiliar a la Oficina de Correspondencia Común en sus labores, dando aviso a la Dirección General de Estadística Judicial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 ###### Artículo 67.
 
-La Dirección General de Estadística Judicial autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
+El Consejo, a través de la Dirección General de Estadística Judicial, inspeccionará el funcionamiento de las oficinas de correspondencia común y supervisará el desempeño tanto de los titulares de las oficinas de correspondencia común, como de los servidores públicos adscritos a éstas.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 68.
 
-La Dirección General de Estadística Judicial planteará al Instituto de la Judicatura las necesidades de capacitación del personal de las oficinas de correspondencia común.
+Si con motivo de la supervisión al funcionamiento de las oficinas de correspondencia común, la Dirección General de Estadística Judicial detectara por parte del personal adscrito a dichas oficinas, un probable incumplimiento de sus obligaciones o la posible comisión de alguna irregularidad que pudiera configurar responsabilidades administrativas, efectuará la denuncia correspondiente ante la Contraloría del Poder Judicial de la Federación.
+
+Lo anterior con independencia de las responsabilidades que en materia penal, civil y laboral, se pudieran actualizar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 69.
 
-Se establece un sistema de movilidad periódica entre los jefes de las oficinas de correspondencia común de un mismo Circuito Judicial, a fin de que cada tres años sean rotados a una diferente oficina, ya sea de una materia distinta a la de su especialidad o que preste servicio a otra clase de órganos jurisdiccionales.
+La remoción de los servidores públicos de las oficinas de correspondencia común corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Estadística Judicial, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
 
-Corresponde a la Dirección General de Estadística Judicial diseñar la logística y el calendario de rotación de los jefes de las oficinas de correspondencia común de todo el país mediante el protocolo que al efecto emita, previa aprobación de la Comisión de Administración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN DÉCIMA SEXTA. MOVILIDAD PERIÓDICA DE LOS JEFES DE OFICINA DE CORRESPONDENCIA COMÚN
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA SEXTA. CONVOCATORIAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 70.
 
-El Consejo, a través de la Dirección General de Estadística Judicial, inspeccionará el funcionamiento de las oficinas de correspondencia común y supervisará el desempeño tanto de los jefes de las oficinas, como de los servidores públicos adscritos.
+La Dirección General de Estadística Judicial con apoyo del Instituto de la Judicatura emitirá anualmente convocatorias públicas dirigidas a profesionales y estudiantes de derecho dentro y fuera del Poder Judicial de la Federación, a fin de promover las posibilidades de participación y empleo que se ofrecen en las citadas oficinas en los diversos circuitos y residencias.
+
+Las convocatorias se acompañarán de campañas de difusión nacional y regional en escuelas y universidades que impartan la licenciatura en derecho, asociaciones profesionales de abogados y bolsas de trabajo, entre otras, a fin de generar una eventual reserva de potenciales aspirantes que, cubriendo el perfil y requisitos del puesto, se encuentren en aptitud de incorporarse de inmediato a las unidades administrativas en los lugares en que se requiera.
+
+La Dirección General de Comunicación Social colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. La Coordinación de Administración Regional, así como el Instituto de la Judicatura y sus extensiones apoyarán a la Dirección General de Estadística Judicial en la logística y trámites para su implementación en los diversos circuitos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 71.
 
-Si con motivo de la supervisión al funcionamiento de las oficinas de correspondencia común, la Dirección General de Estadística Judicial detectara por parte del personal adscrito a dichas oficinas, un probable incumplimiento de sus obligaciones o la posible comisión de alguna irregularidad que pudiera configurar responsabilidades administrativas, efectuará la denuncia correspondiente ante la Contraloría del Poder Judicial de la Federación, quien en ejercicio de sus facultades instrumentará el procedimiento administrativo de responsabilidad respectivo.
+Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a los aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el protocolo que al efecto expida la propia Dirección General de Estadística Judicial con autorización de la Comisión de Administración.
 
-Lo anterior con independencia de las responsabilidades que en materia penal, civil o laboral, se pudieran actualizar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN DÉCIMA SÉPTIMA. SUPERVISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
+#### SECCIÓN DÉCIMA SÉPTIMA. OBLIGACIONES DEL PERSONAL ADSCRITO A LAS OFICINAS DE CORRESPONDENCIA COMÚN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 72.
 
-La remoción de los servidores públicos de las oficinas de correspondencia común corresponde a la Comisión de Administración previo dictamen que para tal efecto presente la Dirección General de Estadística Judicial, cuando se incumpla con las responsabilidades inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
+Son obligaciones de los servidores públicos de las oficinas de correspondencia común, cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de éste, debiendo entender por servicio encomendado, al cúmulo de obligaciones, atribuciones y funciones inherentes al cargo, las cuales se encuentran contenidas en la Ley Orgánica, en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en el presente Acuerdo, y en las demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 73.
 
-Son obligaciones de los servidores públicos de las oficinas de correspondencia común, cumplir con la máxima diligencia en el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de éste, debiendo entender por servicio encomendado, las obligaciones o atribuciones inherentes al cargo, las cuales se encuentran contenidas en la legislación respectiva, en este Capítulo y en las demás disposiciones aplicables.
+La Dirección General de Estadística Judicial de manera potestativa y con apego a sus atribuciones, podrá dictar medidas preventivas de carácter general, a fin de procurar el adecuado funcionamiento de las oficinas de correspondencia común, las cuales deberán estar orientadas a prevenir y evitar conductas u omisiones que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño de los servidores públicos adscritos a éstas. Las medidas preventivas no tienen la naturaleza de sanciones administrativas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 74.
 
-Es causa de responsabilidad para los servidores públicos adscritos a la Oficina de Correspondencia Común, el incumplimiento de las obligaciones contenidas en la legislación respectiva, en este Capítulo y en las demás disposiciones aplicables, siempre y cuando se afecte el servicio público que prestan o se vulnere lo dispuesto en el artículo 17 de la Constitución, que establece que la impartición de justicia debe ser pronta, completa e imparcial.
+La Dirección General de Estadística Judicial deberá llevar un control de incidencias de los servidores públicos adscritos a las oficinas de correspondencia común.
 
-No constituye causa de responsabilidad administrativa, el error consistente en imprecisiones cometidas por los servidores públicos de las oficinas de correspondencia común, si la equivocación de que se trata, resulta intrascendente y no influye en la tramitación y substanciación que deban efectuar los órganos jurisdiccionales, ni afecte a las partes en el proceso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Dirección General de Estadística Judicial de manera potestativa y con apego a sus atribuciones, podrá dictar medidas preventivas de carácter general, a fin de procurar el adecuado funcionamiento de las oficinas de correspondencia común, las cuales deberán estar orientadas a prevenir y evitar conductas u omisiones que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño de los servidores públicos adscritos a éstas. Las medidas preventivas no tienen la naturaleza de sanciones administrativas.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
-#### SECCIÓN DÉCIMA OCTAVA. DE LA RESPONSABILIDAD ADMINISTRATIVA DEL PERSONAL
+#### SECCIÓN DÉCIMA OCTAVA. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 75.
 
-El procedimiento de responsabilidad administrativa en contra de los servidores públicos de las oficinas de correspondencia común, inicia por queja interpuesta por persona que sufra una afectación directa a sus intereses o denuncia presentada ante la Contraloría del Poder Judicial de la Federación, por la Dirección General de Estadística Judicial.
+La Dirección General de Estadística Judicial coadyuvará en las gestiones que realicen las oficinas de correspondencia común, para la obtención de los servicios administrativos que en materia de recursos humanos, materiales, financieros, informáticos y de servicios requieran para su adecuada operación, los que serán suministrados por las unidades administrativas competentes.
 
-La Dirección General de Estadística Judicial deberá emitir un dictamen, en el que se hagan constar las probables faltas administrativas atribuibles a los servidores públicos de las oficinas de correspondencia común, debiendo estar apoyadas en elementos probatorios suficientes para establecer la existencia de la infracción y establecer la probable responsabilidad del servidor público denunciado, en términos de lo dispuesto en el artículo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 76.
 
-Los servidores públicos del Consejo que tengan conocimiento de hechos constitutivos de probables faltas administrativas de los servidores públicos adscritos a las oficinas de correspondencia común, deberán notificarlo a la Dirección General de Estadística Judicial, para que previo análisis, presente la denuncia correspondiente ante la Contraloría del Poder Judicial de la Federación en los términos precisados en el artículo anterior.
+Corresponde a la Dirección General de Estadística Judicial elaborar los protocolos relativos al establecimiento de los buzones judiciales, nombramiento de personal, y las convocatorias para la selección de personal, así como los que se requieran para el cumplimiento de este Capítulo, previa aprobación de las Comisiones del Consejo que resulten competentes.
 
-Cuando las quejas sean presentadas por persona ajena a los órganos jurisdiccionales y a las áreas administrativas del Consejo directamente ante la Contraloría del Poder Judicial de la Federación, ésta remitirá copia certificada de las constancias a la Dirección General de Estadística Judicial, para que de considerarlo procedente, emita el dictamen respectivo, para estar en posibilidades de determinar la actualización de una infracción y la probable responsabilidad de un servidor público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 77.
 
-Si las quejas o denuncias no se encuentran apoyadas con elementos probatorios suficientes a que se refiere el párrafo segundo del artículo 75 de este Acuerdo, que permitan establecer la existencia de la infracción y la probable responsabilidad del servidor público involucrado, se desecharán de plano.
+Las Comisiones de Creación de Nuevos Órganos y de Administración, en el ámbito de sus respectivas atribuciones, interpretarán y resolverán cualquier cuestión administrativa que surja con motivo de la aplicación de este Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 78.
 
-Será causa de responsabilidad para los servidores públicos de las oficinas de correspondencia común, actuar con notoria ineptitud en el desempeño de las funciones o labores que deban realizar conforme a las disposiciones aplicables; debiendo entenderse por ésta, una serie de conductas en las que un servidor público cometa errores en su labor, que estos sean repetidos en el tiempo, y que tales errores se manifiesten en varios ámbitos o dimensiones de su trabajo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
 
-Para valorar la notoria ineptitud, deberán tomarse en cuenta los antecedentes personales, profesionales y laborales del servidor público adscrito a la Oficina de Correspondencia Común, tales como, su preparación, honorabilidad, experiencia y antigüedad en el cargo, así como apreciar otros factores, como lo son, la carga de trabajo con que cuenta la Oficina de Correspondencia Común; y la premura con que deban turnarse los asuntos de su competencia y su volumen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 79.
 
-La Dirección General de Estadística Judicial deberá llevar un control de incidencias de los servidores públicos adscritos a las oficinas de correspondencia común; asimismo, cuando advierta notoria ineptitud de un servidor público como consecuencia de una reincidencia de conductas en el desempeño de sus funciones, presentará la denuncia correspondiente ante la Contraloría del Poder Judicial de la Federación.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 80.
 
-La Contraloría del Poder Judicial de la Federación, a través de la Dirección General de Responsabilidades, remitirá a la Dirección General de Estadística Judicial copia certificada de las determinaciones que desechen, declaren improcedentes, o tengan por no presentadas las quejas o denuncias, así como las que dan inicio a los procedimientos de responsabilidad administrativa y de las resoluciones definitivas que se pronuncien en los mismos, para efectos de su conocimiento y anotación en el expediente a que se refiere el párrafo tercero del artículo 64 de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA NOVENA. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 81.
 
-La Dirección General de Estadística Judicial coadyuvará en las gestiones que realicen las oficinas de correspondencia común, para la obtención de los servicios administrativos que en materia de recursos humanos, materiales, financieros, informáticos y de servicios requieran para su adecuada operación, los que serán suministrados por las unidades administrativas competentes.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 82.
 
-Las Comisiones de Creación de Nuevos Órganos y de Administración, en el ámbito de sus respectivas atribuciones, interpretarán y resolverán, en breve tiempo, cualquier cuestión administrativa que surja con motivo de la aplicación de este Capítulo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
 
 #### SECCIÓN PRIMERA. LIBRO UNO DE JUICIOS DE AMPARO
 
@@ -2910,3 +3204,19 @@ CUARTO. Los coordinadores técnicos administrativos que hayan sido designados an
 En caso de que se determine que un coordinador técnico administrativo no continúe en funciones, se le deberá notificar la conclusión de su nombramiento con dos meses de anticipación a la fecha de terminación, lapso en cual el titular del órgano jurisdiccional que corresponda designará al nuevo coordinador en términos de lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, quien entrará en funciones al vencimiento del referido plazo, siempre y cuando acredite el curso de inducción del Instituto de la Judicatura.
 
 QUINTO. La Secretaría Ejecutiva de Administración llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+D.O.F. 21 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor a los treinta días siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las consultas de turno que se encuentren radicadas y en trámite ante la Comisión de Creación de Nuevos Órganos o la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos a la fecha de entrada en vigor de este Acuerdo, quedarán sin materia y será devuelta la documentación remitida por los consultantes, a fin de que continúen con el trámite correspondiente.
+
+Por lo que se refiere a los criterios de vinculación o relación que se regulan en este acuerdo, su aplicación operará a partir de la entrada en vigor del mismo.
+
+CUARTO. La Dirección General de Tecnologías de la Información contará con un plazo de treinta días, a partir de la publicación de este Acuerdo en el Diario Oficial de la Federación, para la implementación de las adecuaciones necesarias en el Sistema Integral de Correspondencia Común (SICCOM).
+
+QUINTO. Las oficinas de correspondencia común de los Centros Auxiliares Regionales del Poder Judicial de la Federación continuarán funcionando de conformidad con lo dispuesto por los acuerdos generales que les dieron origen, así como por las reglas autorizadas por la Comisión de Creación de Nuevos Órganos y, en lo que resulte aplicable, las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+SEXTO. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos someterá a la consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos, los criterios específicos a que se refiere el artículo 46, segundo párrafo, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
