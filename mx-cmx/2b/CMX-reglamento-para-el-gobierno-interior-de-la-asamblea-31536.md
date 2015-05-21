@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2015-05-12"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE MAYO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2518,6 +2518,10 @@ V.- Al Mérito de Protección Civil; y
 
 VI.- A las mejores tesis sobre la Ciudad de México.
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2015)</small>
+
+VI (SIC).- A las Defensoras y Defensores de Derechos Humanos.
+
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 171.
@@ -2536,9 +2540,9 @@ Adicionalmente, los reconocimientos podrán otorgarse de forma póstuma, a los c
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 21 DE MAYO DE 2015)</small>
 
-I.- Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo o en Protección Civil de la Asamblea Legislativa del Distrito Federal;
+I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo o en Protección Civil, así como a las Defensoras y Defensores de Derechos Humanos, todas de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2556,13 +2560,17 @@ c) Comisión de Cultura de la Asamblea Legislativa del Distrito Federal;
 
 d) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal;
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2015)</small>
 
-e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal; y
+e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2015)</small>
 
-f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal.
+f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+g) Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
@@ -2617,6 +2625,10 @@ f) (DEROGADO, G.O. 9 DE ENERO DE 2014)
 > <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
 
 g) “MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL”
+
+> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+
+h) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS"
 
 En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
 
@@ -3695,3 +3707,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobaci
 SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
 
 TERCERO.- Para el (sic) la premiación al Mérito de la mejor tesis de licenciatura, maestría y doctorado de 2014 se seguirán los acuerdos tomados por el Comité de Estudios y Estadísticas de la Ciudad de México que tome el mismo año.
+
+G.O. 21 DE MAYO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por este Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
