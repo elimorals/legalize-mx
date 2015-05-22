@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2015-04-17"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1899,11 +1899,15 @@ Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o 
 
 Solo se procederá contra el hostigador, a petición de la parte ofendida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
+Artículo 184 TER.- Cuando el hostigamiento sexual se realice valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas, con motivo del ejercicio de culto religioso o dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas o cualquiera otra que implique subordinación, se le impondrá una pena de uno a tres años de prisión y multa de hasta cien días.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Si la persona que comete el delito descrito en el párrafo anterior fuere servidor público, o ministro de culto y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento, además se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2009)</small>
-
-Artículo 184 TER.- Agravación de la punibilidad.- Cuando el hostigamiento sexual se realice valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá una pena de uno a tres años de prisión y multa de cien días.
-
-Si la persona que comete el delito descrito en el párrafo anterior fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento, además se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
 
 Si la persona ofendida fuere menor de catorce años, la pena será de dos a tres años de prisión y multa de cien días.
 
@@ -1955,11 +1959,11 @@ Violación impropia.- Se equipara a la violación, al que sin consentimiento de 
 
 Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 179.
 
-Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará las reglas contenidas en el artículo 16 de este Código.
+Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, o el delito haya sido cometido dentro (sic) las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará las reglas contenidas en el artículo 16 de este Código.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2001,6 +2005,10 @@ II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, 
 
 III.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
+
+IV.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
+
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 180 Bis.
@@ -2033,7 +2041,9 @@ Persecución oficiosa.- El delito de abuso sexual previsto en el artículo cient
 
 Tipo y punibilidad.- Al que realice cópula con mujer de catorce años de edad y menor de dieciocho, casta y honesta, obteniendo su consentimiento por medio de la seducción o el engaño se le impondrá de dos a seis años de prisión y hasta cien días multa.
 
-Agravación de la punibilidad: La pena se aumentará hasta una mitad más, si el estuprador se encuentra impedido legalmente para contraer matrimonio.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Agravación de la punibilidad.- La pena se aumentará hasta una mitad más, si el estuprador se encuentra impedido legalmente para contraer matrimonio o cuando el delito haya sido cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico u (sic) físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -3305,11 +3315,15 @@ I.- El sujeto activo del delito tenga parentesco por consanguinidad, afinidad o 
 
 II.- El sujeto activo habite en el mismo domicilio de la persona menor de dieciocho años de edad o que no tiene la capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo, aunque no exista parentesco alguno;
 
-III.- Se cometa en centros educativos, de asistencia social, de cuidado infantil, de recreo, hospitales o centros deportivos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III.- Se cometa en centros educativos, de asistencia social, de cuidado infantil, de recreo, hospitales, centros deportivos o dentro de las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas;
 
 IV.- Se emplee violencia física o moral en la comisión de los delitos previstos en este Capítulo;
 
-V.- El agente fuere ministro de un culto religioso;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+V.- El agente fuere ministro de culto religioso;
 
 VI.- Se valga de la función pública o de una situación de subordinación de la víctima o desempeñe o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que éstos le proporcionan.
 
@@ -3357,7 +3371,9 @@ III.- Se cometa en centros educativos, de recreo, deportivos, asistencia social,
 
 IV.- Cuando el sujeto activo emplee violencia física o moral en la comisión de los delitos previstos en este capítulo,
 
-V.- Cuando el sujeto activo fuere ministro de algún culto religioso;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+V.- Cuando el sujeto activo fuere ministro de culto religioso;
 
 VI.- Cuando el sujeto activo se valga de la función pública que desempeñe o de una situación de subordinación sobre el sujeto pasivo, o desempeñe o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que ello le proporciona,
 
@@ -3386,6 +3402,10 @@ I.- Quien explote el cuerpo de otra persona por medio del comercio carnal y obte
 II.- A quien induzca, solicite o reclute a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se dedique a la prostitución; y
 
 III.- Quien dirija, patrocine, regentee, administre, supervise o financie directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia dedicados a explotar la prostitución en cualquier forma u obtenga cualquier beneficio de sus productos. Asimismo, se procederá a la clausura definitiva de los establecimientos descritos en esta fracción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2015)</small>
+
+La pena se aumentará hasta una mitad más, cuando el sujeto activo fuere ministro de culto religioso.
 
 ###### Artículo 268.
 
@@ -5236,3 +5256,9 @@ La elaboración de la propuesta del programa estatal estará a cargo de la Procu
 P.O. 17 DE ABRIL DE 2015.
 
 ÚNICO.- La presente reforma entrará (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan a la presente reforma.
