@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2014-10-31"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -221,9 +221,17 @@ I. Los Municipios; y
 
 II. El Poder Ejecutivo del Estado a través de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado, en los términos del artículo 14 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 12.
 
-Corresponde a los Municipios la aprobación y autorización de los desarrollos inmobiliarios previstos en este Código. La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado, previo convenio con los Municipios, podrá llevar a cabo los trámites administrativos referentes a los desarrollos inmobiliarios.
+Corresponde a los Municipios la aprobación y autorización de los desarrollos inmobiliarios previstos en este Código.
+
+Al Ayuntamiento le corresponde autorizar las etapas previstas en el artículo 186 fracciones IV, V, VI, y VII de este Código. Al área encargada del desarrollo urbano le corresponde lo relativo a las fracciones I, II y III, del citado artículo 186.
+
+Al Ayuntamiento le corresponderá la autorización para la venta de unidades privativas de aquellas unidades condominales o condominios que requieran obras de urbanización y que no se originen de un fraccionamiento autorizado. Al área encargada del desarrollo urbano, lo correspondiente a las etapas previstas en las fracciones I, II, III, IV, V y VIl del artículo 244 de este Código, lo relativo a la fracción VI, podrá ser autorizado siempre y cuando el condominio no requiera obras de urbanización.
+
+La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado, podrá autorizar y aprobar, previo convenio con los Municipios, llevar a cabo los trámites administrativos referentes a los desarrollos inmobiliarios.
 
 ###### Artículo 13.
 
@@ -1099,45 +1107,55 @@ Las entidades y dependencias estatales y municipales competentes, al formular su
 
 Los presupuestos anuales de egresos del Estado y los Municipios, respectivamente, contemplarán los recursos a ejercer para la adquisición de reserva territorial, que permitan el cumplimiento de los programas de desarrollo urbano.
 
-### Capítulo Noveno. Del Derecho de Preferencia del Estado y Municipios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+
+### Capítulo Noveno. Del Derecho de Preferencia por el tanto del Estado y Municipios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 93.
 
-El Poder Ejecutivo del Estado y los Municipios tendrán derecho de preferencia para adquirir los predios considerados en los programas de desarrollo urbano, como susceptibles de integrar reserva territorial, cuando éstos vayan a ser objeto de enajenación a título oneroso, de conformidad con lo dispuesto en el artículo 47 de la Ley General de Asentamientos Humanos y en el artículo 89 de la Ley Agraria.
+El Poder Ejecutivo del Estado y los Municipios tendrán derecho de preferencia por el tanto para adquirir los predios considerados en los programas de desarrollo urbano, como susceptibles de integrar reserva territorial, cuando éstos vayan a ser objeto de enajenación a título oneroso, de conformidad con lo dispuesto en el artículo 47 de la Ley General de Asentamientos Humanos y en el artículo 89 de la Ley Agraria.
 
 Para tal efecto, los propietarios de los predios o, en su caso, los notarios, los jueces y las autoridades administrativas respectivas, deberán notificarlo por escrito a la Entidad Federativa y al Municipio correspondiente, dando a conocer el monto de la operación, a fin que en un plazo no mayor de treinta días naturales, ejerzan por escrito el derecho de preferencia si lo consideran conveniente, garantizando el pago respectivo.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 94.
 
-Si el Poder Ejecutivo del Estado y el Municipio que corresponda, en forma expresa y por escrito declinan el ejercicio del derecho de preferencia en la adquisición del predio o en el plazo establecido en el artículo anterior no dan respuesta, se procederá a perfeccionar el acto traslativo de dominio. En caso de que el precio de la venta sea inferior al que se manifestó en la notificación o del que se hubiese propalado, el Poder Ejecutivo del Estado o el Municipio podrán ejercer la acción de reversión.
+Si el Poder Ejecutivo del Estado y el Municipio que corresponda, en forma expresa y por escrito declinan el ejercicio del derecho de preferencia por el tanto en la adquisición del predio o en el plazo establecido en el artículo anterior no dan respuesta, se procederá a perfeccionar el acto traslativo de dominio. En caso de que el precio de la venta sea inferior al que se manifestó en la notificación o del que se hubiese propalado, el Poder Ejecutivo del Estado o el Municipio podrán ejercer la acción de retracto.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 95.
 
-Cuando el Poder Ejecutivo del Estado y el Municipio que corresponda, expresen su decisión de ejercer su derecho de preferencia en relación a un mismo predio, en igualdad de condiciones, la venta o adjudicación se hará a favor del Municipio.
+Cuando el Poder Ejecutivo del Estado y el Municipio que corresponda, expresen su decisión de ejercer su derecho de preferencia por el tanto en relación a un mismo predio, en igualdad de condiciones, la venta o adjudicación se hará a favor del Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 96.
 
-Si los Municipios o el Poder Ejecutivo del Estado ejercitan el derecho de preferencia, pagarán el mismo precio fijado para el predio materia del acto que se pretendía celebrar.
+Si los Municipios o el Poder Ejecutivo del Estado ejercitan el derecho de preferencia por el tanto, pagarán el mismo precio fijado para el predio materia del acto que se pretendía celebrar.
 
 El pago del precio se llevará a cabo al momento de la firma del instrumento en el que conste la adquisición correspondiente o en los plazos que las partes establezcan.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 97.
 
-En el supuesto que el Poder Ejecutivo del Estado o el Municipio, habiendo ejercido su derecho de preferencia, no realicen el pago conforme a lo establecido en el artículo anterior, perderán el referido derecho.
+En el supuesto que el Poder Ejecutivo del Estado o el Municipio, habiendo ejercido su derecho de preferencia por el tanto, no realicen el pago conforme a lo establecido en el artículo anterior, perderán el referido derecho.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 98.
 
-Una vez que el Notario autorice en forma definitiva, la escritura donde conste el acto traslativo de dominio de predios necesarios para el desarrollo urbano, señalados en los programas de desarrollo urbano aplicables, en un plazo de treinta días naturales, deberá informar por escrito al Poder Ejecutivo del Estado y a los Municipios, sobre las condiciones definitivas de la operación, adjuntando:
+Una vez que el Notario autorice en forma definitiva, la escritura donde conste el acto traslativo de dominio de los predios a que se refiere este Capítulo, en un plazo de treinta días naturales, los propietarios de los predios o, en su caso, los notarios, los jueces y las autoridades administrativas respectivas, deberán informar por escrito al Poder Ejecutivo del Estado y a los Municipios, sobre las condiciones definitivas de la operación, adjuntando copia certificada de la escritura y copia de los documentos que acrediten que el Poder Ejecutivo del Estado o el Municipio que corresponda, fueron notificados y declinaron en la adquisición del predio.
 
-I. Copia certificada de la escritura autorizada;
-
-II. Copia de las comunicaciones enviadas por el Notario, en cumplimiento de las disposiciones de este Código; y
-
-III. Copia de los documentos que acrediten que el Poder Ejecutivo del Estado o el Municipio que corresponda, fueron notificados y declinaron en la adquisición del predio.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 99.
 
-Si de la información que presente el Notario al Poder Ejecutivo del Estado y Municipio, se advierte que no se cumplió con lo previsto en las fracciones II y III del artículo anterior, éstos podrán ejercer la acción de reversión de la enajenación correspondiente.
+Si de la información que presente el Notario al Poder Ejecutivo del Estado y Municipio, se advierte que el enajenante, no otorgó el derecho de preferencia por el tanto al Estado o Municipio, éstos podrán ejercer la acción de retracto de la enajenación correspondiente.
 
 ### Capítulo Décimo. De los Monumentos Arqueológicos, Artísticos, Históricos y de las Zonas de Monumentos relacionados con el Desarrollo Urbano en el Estado
 
@@ -1251,9 +1269,11 @@ Del Control del Desarrollo Urbano
 
 El Poder Ejecutivo del Estado y los Municipios, en el ámbito de su competencia, vigilarán el cumplimiento de las disposiciones de este Código y demás Leyes aplicables, debiendo adoptar para tal efecto, las medidas preventivas o correctivas correspondientes, así como imponer las sanciones administrativas aplicables y promover ante las autoridades competentes, las acciones legales correspondientes por los actos que se realicen en contra del adecuado desarrollo urbano del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 112.
 
-Los Notarios Públicos sólo podrán autorizar escrituras de actos, convenios y contratos vinculados con el aprovechamiento o enajenación de la propiedad o de cualquier otro derecho relacionado con el desarrollo urbano, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios de conformidad con lo previsto en la Ley General de Asentamientos Humanos, este Código y sus disposiciones reglamentarias, así como los programas de desarrollo urbano, mismos que deberán ser señalados o insertados en los instrumentos públicos respectivos.
+Los Notarios Públicos sólo podrán autorizar escrituras de actos, convenios y contratos vinculados con el aprovechamiento o enajenación de la propiedad o de cualquier otro derecho relacionado con el desarrollo urbano, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto en la Ley General de Asentamientos Humanos, este Código y sus disposiciones reglamentarias, así como los programas de desarrollo urbano, mismos que deberán ser referidos en los instrumentos públicos respectivos.
 
 ###### Artículo 113.
 
@@ -1503,25 +1523,27 @@ Por especies nativas se entienden aquellos organismos vegetales propios de un si
 
 El desarrollador está obligado a la introducción de plantas de especies nativas de la región para el equipamiento urbano del fraccionamiento, por lo menos en un 70% de la superficie; para la selección de las plantas, deberá tomar en consideración el catálogo de especies nativas, con que para tal efecto cuente la Secretaría de Desarrollo Sustentable.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 139.
 
-Los desarrollos inmobiliarios se clasifican, por su uso y densidad, en:
+Los desarrollos inmobiliarios se clasifican, por su uso y densidad de población en:
 
-I. Habitacional Campestre, cuando la densidad de población sea de hasta cincuenta habitantes por hectárea y su uso sea principalmente de vivienda;
+l. Habitacional Campestre;
 
-II. Habitacional Residencial, cuando la densidad de población va de cincuenta a cien habitantes por hectárea y su uso sea principalmente de vivienda;
+II. Habitacional Residencial;
 
-III. Habitacional Medio, cuando la densidad de población va de cien a trescientos habitantes por hectárea y su uso sea principalmente de vivienda;
+III. Habitacional Medio;
 
-IV. Habitacional Popular, cuando la densidad de población sea mayor de trescientos habitantes por hectárea y su uso sea principalmente de vivienda;
+IV. Habitacional Popular;
 
-V. Comerciales, con una superficie de lotes variable, según características del comercio a establecer y sus lotes, áreas o predios se destinen principalmente a la construcción de comercios y servicios;
+V. Comerciales;
 
-VI. Industrial, con una superficie de lotes variable, según características de la industria o agroindustria a establecer y sus lotes, áreas o predios se destinen principalmente a la construcción de industrias, bodegas y agroindustria; y
+VI. Industrial; y
 
-VII. Mixto, cuando sus lotes, áreas o predios tengan la mezcla de los usos descritos en las fracciones anteriores, conforme a lo dispuesto en los programas de desarrollo urbano.
+VIl. Mixto.
 
-Si por alguna causa se omite señalar en el dictamen de uso de suelo, la densidad de población de los desarrollos inmobiliarios, se estará a lo dispuesto en los programas de desarrollo urbano.
+La densidad de población de los desarrollos inmobiliarios estará a lo dispuesto en los programas de desarrollo urbano y corresponderá al Reglamento Municipal establecer la clasificación y sus características.
 
 ###### Artículo 140.
 
@@ -1583,9 +1605,15 @@ En caso de haber modificaciones respecto de superficies vendibles, vialidades y 
 
 La autorización una vez protocolizada, deberá inscribirse en el Registro Público de la Propiedad y del Comercio.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 150.
 
-Las rectificaciones de límites y colindancias a la ampliación de etapas de desarrollos inmobiliarios, se tramitará en los términos del artículo anterior.
+Las rectificaciones de límites y colindancias de fraccionamientos, se tramitarán en los términos del artículo anterior.
+
+En caso de haber ampliación de un fraccionamiento con un predio colindante fuera de la superficie originalmente autorizada, procederá la ampliación y relotificación correspondiente, siempre y cuando el predio colindante no pertenezca a ningún otro desarrollo inmobiliario autorizado y que sea del mismo propietario.
+
+Este procedimiento se estará a lo dispuesto en el artículo 186 del presente Código.
 
 ###### Artículo 151.
 
@@ -1594,6 +1622,8 @@ En los desarrollos inmobiliarios podrán constituirse Comités de Vigilancia Vec
 ### Capítulo Segundo. De la Infraestructura, Equipamiento y Servicios Urbanos en los Desarrollos Inmobiliarios
 
 ### Capítulo Tercero. De las Transmisiones Gratuitas en los Desarrollos Inmobiliarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 152.
 
@@ -1645,23 +1675,49 @@ El arroyo y dimensiones de la vialidad serán determinados según la carga vehic
 
 ###### Artículo 156.
 
-En todos los desarrollos inmobiliarios, el desarrollador deberá transmitir gratuitamente al Municipio, el diez por ciento de la superficie total del predio para equipamiento urbano, mismo que deberá entregarse habilitado para su uso, según el destino que se asigne, además deberá transmitir gratuitamente la propiedad de la superficie que conformará la vialidad pública.
+En todos los desarrollos inmobiliarios el desarrollador deberá transmitir gratuitamente al Municipio, el diez por ciento de la superficie total del predio para equipamiento urbano, mismo que deberá entregarse habilitado para su uso, según el destino que se asigne.
 
-La distribución de la superficie que conforma la transmisión para equipamiento urbano, deberá atender a la naturaleza del desarrollo inmobiliario que corresponda, conforme a lo previsto en este Código.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-Para el caso de condominios, por su naturaleza, la transmisión debe estar fuera del polígono independiente del desarrollo y el uno por ciento correspondiente a plazas o espacios abiertos podrá sumarse al porcentaje de equipamiento.
+La distribución de la superficie que conforma la transmisión para equipamiento urbano, deberá atender a la clasificación del desarrollo inmobiliario que corresponda, conforme a lo previsto en este Código.
 
-En el cumplimiento de las obligaciones expresadas en los párrafos anteriores, al momento de la emisión del dictamen técnico de Licencia de Ejecución de Obras de Urbanización y la autorización correspondiente, se deberá observar lo siguiente:
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En el caso de fraccionamientos, además deberá transmitir gratuitamente la propiedad de la superficie que conformará la vialidad pública.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Se exceptúan de la transmisión a que se refiere el primer párrafo del presente artículo, los condominios y unidades condominales que formen parte de fraccionamientos autorizados por los municipios o el Estado, que hayan dado cumplimiento a la transmisión del diez por ciento por concepto de equipamiento urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Para el caso de los fraccionamientos de tipo comercial e industrial y condominios, por su clasificación, la superficie del predio que se transmitirá por concepto de equipamiento urbano, podrá estar fuera de la superficie total del desarrollo inmobiliario.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Dicha superficie deberá estar dentro del territorio municipal, deberá contar con adecuada accesibilidad y servicios.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Corresponderá al Municipio, a través de su Ayuntamiento, determinar las zonas de ubicación donde deberá cubrir la necesidad de equipamiento urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
+En el cumplimiento de las obligaciones expresadas en los párrafos primero y segundo del presente artículo, al momento de la emisión del dictamen técnico de Licencia de Ejecución de Obras de Urbanización y la autorización correspondiente, se deberá observar lo siguiente:
 
 I. Corresponderá a los Municipios o, en su caso, al Poder Ejecutivo del Estado, de acuerdo al convenio que en materia de desarrollo urbano sea suscrito, incluir, cuando se emita el dictamen técnico de licencia de ejecución de obras de urbanización del desarrollo inmobiliario, la ubicación de vialidades y equipamiento urbano, que hayan sido determinadas en el visto bueno de lotificación;
 
 II. Las áreas destinadas al equipamiento urbano deberán considerarse como parte integrante del proyecto autorizado de que se trate y localizarse en zonas de fácil acceso a todos los lotes, de acuerdo con los entornos específicos;
 
-III. En el supuesto que la localización del desarrollo inmobiliario, o bien, sus características específicas lo admitan, se podrán realizar permutas parciales o totales por terrenos urbanizados y de calidad equiparable de conformidad con el estudio valuatorio. Para dicho estudio, el área a permutar deberá considerar además de la superficie, el valor del área totalmente urbanizada e incluyendo el mobiliario urbano a que se refiere el artículo 151 de este Código.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III. En el supuesto que la localización del desarrollo inmobiliario, o bien, sus características específicas lo admitan, se podrán realizar permutas parciales o totales por predios urbanizados y de calidad equiparable de conformidad con el estudio valuatorio. Para dicho estudio, la superficie a permutar deberá considerar, el valor de la misma totalmente urbanizada incluyendo el mobiliario urbano a que se refiere el artículo 152 de este Código.
 
 El estudio a que se refiere esta fracción, deberá realizarse por perito valuador inmobiliario;
 
-IV. Los predios a que hace referencia la fracción III, podrán ubicarse en sitios de interés municipal, preferentemente en zonas urbanas y su uso será el que le señalen los programas de desarrollo urbano aplicables a la zona de localización de los predios, mismos que deberán transmitirse al Municipio que corresponda, con el carácter de dominio público y deberán ser utilizados preferentemente para equipamiento urbano;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV. Los predios a que hace referencia la fracción III, podrán ubicarse en sitios de interés municipal, preferentemente en zonas urbanas y su uso será el que le señalen los programas de desarrollo urbano aplicables a la zona de localización de los predios, mismos que deberán transmitirse al Municipio que corresponda, con el carácter de dominio público y deberán ser utilizados para equipamiento urbano;
 
 V. Cuando se trate de desarrollos inmobiliarios de cuatrocientos o más habitantes por hectárea, la totalidad de dichas áreas, deberá ubicarse dentro del proyecto autorizado de que se trate. El área que conforma el equipamiento urbano se distribuirá de la siguiente forma:
 
@@ -1685,33 +1741,43 @@ a) El cuatro por ciento para área verde, que deberá estar concentrada dentro d
 
 b) El seis por ciento para cualquier otro tipo de equipamiento urbano, el cual podrá transmitirse en un predio distinto al que se va a desarrollar;
 
-VIII. En el caso de los condominios, el área de transmisión gratuita deberá de estar fuera del área sujeta al régimen de propiedad en condominio;
+VIII. (DEROGADA, P.O. 22 DE MAYO DE 2015)
 
 IX. El proyecto de lotificación evitará las colindancias directas de lotes con las áreas destinadas al equipamiento urbano. También deberá considerar que los lotes cercanos a las áreas antes citadas y a las vialidades primarias se destinen preferentemente a servicio y comercio de conformidad con la compatibilidad que le permitan los programas de desarrollo urbano vigentes para la zona, para lo cual se deberá prever que el inmueble cuente con las dimensiones adecuadas para estos usos.
 
-En el presupuesto de las obras de urbanización se deberá prever la urbanización del equipamiento urbano, incluido el mobiliario urbano adecuado, con cargo al desarrollador, conforme a lo que establezca la autoridad competente.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-Asimismo, la autoridad competente deberá especificar el destino y forma de urbanización del equipamiento urbano, incluido el mobiliario urbano adecuado, estableciendo los mecanismos administrativos que aseguren el cumplimiento del objetivo acordado;
+El presupuesto de las obras de urbanización deberá contener la partida correspondiente a la urbanización que dé frente a la superficie destinada para equipamiento urbano, incluyendo el mobiliario urbano de la vía pública.
 
-X. No se deberán considerar dentro de las áreas de transmisión, predios con alguna afectación como fallas geológicas o fracturas, barrancas, servidumbres de paso o acueductos, ríos, cuerpos de agua, canales pluviales o de aguas negras, drenes, líneas eléctricas de alta tensión, pozos de extracción de agua, tanques de almacenamiento de agua, ductos, gasoductos, oleoductos, bancos de materiales y derechos de vía de carreteras estatales o federales, vías de ferrocarril, zonas arqueológicas e históricas, restricciones de parques, zonas y áreas ambientalmente decretados, los centros de readaptación social, las plantas de tratamiento, así como las demás restricciones que en su momento sean consideradas por la autoridad en materia urbana; y
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Asimismo, la autoridad competente deberá especificar el destino y forma de urbanización de la superficie de transmisión gratuita, incluido el mobiliario urbano, estableciendo los mecanismos administrativos que aseguren el cumplimiento del objetivo acordado;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+X. No se deberán considerar dentro de la superficie de transmisión gratuita predios con alguna afectación como fallas geológicas o fracturas, barrancas, servidumbres de paso o acueductos, ríos, cuerpos de agua, canales pluviales o de aguas negras, drenes, líneas eléctricas de alta tensión, pozos de extracción de agua, tanques de almacenamiento de agua, ductos, gasoductos, oleoductos, bancos de materiales y derechos de vía de carreteras estatales o federales, vías de ferrocarril, zonas arqueológicas e históricas, restricciones de parques, zonas y áreas ambientalmente decretados, los centros de readaptación social, las plantas de tratamiento, así como las demás restricciones que en su momento sean consideradas por la autoridad en materia urbana; y
 
 XI. El dictamen técnico deberá establecer los porcentajes y superficies del desarrollo destinados para vías públicas ubicadas dentro del mismo, así como las que se determinen por el enlace y la integración de los desarrollos inmobiliarios considerados en proyectos de nuevas vías, promovidas por el mismo propietario del desarrollo inmobiliario, así como de los equipamientos urbanos, lo que deberá quedar expresamente asentado en la autorización de la licencia para ejecución de obras de urbanización del desarrollo inmobiliario.
 
-Una vez que dicha autorización sea publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y, en su caso, en la Gaceta Municipal correspondiente, el propietario del desarrollo inmobiliario tendrá la obligación de transmitir dichas áreas mediante escritura pública a favor del Municipio, la cual deberá inscribirse en el Registro Público de la Propiedad y del Comercio, con cargo al desarrollador.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-En el acuerdo de cabildo que autorice la transmisión gratuita, se prevendrá que las áreas que la integran son del dominio público con las características de imprescriptibilidad, indivisibilidad, inalienabilidad e inembargabilidad, así como la renuncia del desarrollador a reclamar cualquier indemnización por los terrenos cedidos para las calles que conformarán las vías públicas.
+Una vez que dicha autorización sea publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y, en su caso, en la Gaceta Municipal correspondiente, el propietario del desarrollo inmobiliario tendrá la obligación de transmitir gratuitamente dichas superficies mediante escritura pública a favor del Municipio, la cual deberá inscribirse en el Registro Público de la Propiedad y del Comercio, con cargo al desarrollador.
 
-###### Artículo 157.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-El propietario de un desarrollo inmobiliario, tendrá la obligación de donar gratuitamente a los organismos operadores o, en su caso, a la autoridad competente, la propiedad de la superficie e infraestructura correspondiente, de acuerdo a la normatividad aplicable a efecto de que aquellos lleven a cabo su debida operación, administración y mantenimiento; dicha superficie e infraestructura no se consideran dentro de la superficie de transmisión gratuita a que se refiere el artículo anterior.
+En el acto administrativo que autorice la transmisión gratuita, se prevendrá que las superficies que la integran son del dominio público con las características de imprescriptibilidad, indivisibilidad, inalienabilidad e inembargabilidad, así como la renuncia del desarrollador a ejercitar cualquier acción tendiente a obtener indemnización por las superficies transmitidas al Municipio.
 
-En el caso de superficies de equipamiento urbano, las gestiones necesarias para la adquisición de éstas corresponderá a los propietarios del desarrollo inmobiliario de que se trate, quienes deberán transmitirlo a título gratuito al Municipio que corresponda.
-
-En el supuesto del párrafo anterior, la autoridad competente podrá convenir, por interés público, con el propietario del desarrollo inmobiliario, que a cambio de la superficie a transmitirse para equipamiento urbano, se transmita una superficie de terreno ubicada en otra zona de interés municipal dentro de su jurisdicción, cuyo valor proporcional sea equivalente a aquella, de conformidad con el estudio valuatorio que considere áreas totalmente urbanizadas, con el mobiliario urbano adecuado y ubicadas en desarrollos inmobiliarios de características similares, practicado por un perito valuador inmobiliario con cédula profesional; dichas áreas deberán destinarse a la dotación de áreas de conservación ambiental, de acuerdo con los instrumentos de planeación respectivos, las cuales tendrán las mismas características de ser de dominio público, indivisibles, inalienables, imprescriptibles e inembargables.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
 
 La superficie de transmisión a título gratuito aprobada deberá ser entregada dentro del plazo de la ejecución de las obras de urbanización, de conformidad con lo acordado por la autoridad competente. Si el desarrollo inmobiliario se autoriza en etapas y la superficie de transmisión no se encuentra dentro de la etapa inicial autorizada, ésta deberá ser urbanizada a más tardar en la penúltima etapa.
 
-En los casos de desarrollos inmobiliarios colindantes con áreas naturales protegidas o zonas de conservación ambiental, se deberá prever que las superficies de equipamiento urbano destinadas a los espacios públicos y las áreas verdes concentradas se localicen preferentemente en la frontera de colindancia.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+###### Artículo 157.
+
+El propietario de un desarrollo inmobiliario, tendrá que acordar con los organismos operadores o, en su caso, con la autoridad competente, si la propiedad de la superficie e infraestructura correspondiente, de acuerdo a la normatividad aplicable se deba de transmitir o bien la propiedad original quede con las restricciones correspondientes, a efecto de que los organismos operadores lleven a cabo su debida operación, administración y mantenimiento; dicha superficie e infraestructura no se consideran dentro de la superficie de transmisión gratuita a que se refiere el artículo anterior.
+
+En los casos de desarrollos inmobiliarios colindantes con áreas naturales protegidas o zonas de conservación ambiental, se deberá prever que las superficies de equipamiento urbano destinadas a los espacios públicos y las áreas verdes concentradas se localicen preferentemente en la frontera de colindancia
 
 ###### Artículo 158.
 
@@ -1773,9 +1839,13 @@ Se entiende por fusión de predios, la autorización de la unión de dos o más 
 
 Es competente para autorizar la fusión o subdivisión de predios, el Municipio en que se encuentren los predios objeto de las mismas.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 169.
 
-Se entiende por subdivisión de predios urbanos, la partición de un terreno en dos o más fracciones que no genere una o más vialidades, que cuente con frente a una vialidad de origen federal, estatal o municipal, que no requiera la presentación de una manifestación de impacto vial, limitándose la subdivisión a diez fracciones del predio de origen.
+Se entiende por subdivisión de predios urbanos, la partición en dos o más fracciones que no genere una o más vialidades, que cuente con frente a una vialidad de origen federal, estatal o municipal, limitándose el número de lotes de la subdivisión a lo que la densidad de población establezca para los usos de suelo habitacionales del instrumento de planeación vigente en la zona.
+
+Para que los notarios puedan autorizar escrituras públicas relativas a dichas fracciones, requerirán que se les exhiba el documento con el cual haya sido aprobada la subdivisión por la autoridad competente y se hará mención de tal circunstancia en el instrumento notarial respectivo, agregándose el documento al apéndice.
 
 ###### Artículo 170.
 
@@ -1785,9 +1855,11 @@ Cuando para la procedencia de una subdivisión, sea necesario constituir una ser
 
 Las servidumbres a que se refiere el párrafo anterior, serán consideradas vías públicas, las que deberán construirse con las características de vialidad que la autoridad municipal considere, dependiendo del número de predios producto de la densidad e intensidad del suelo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 171.
 
-Para emitir autorización de subdivisión de predios urbanos, se deberá tomar en cuenta:
+Para emitir autorización de subdivisión de predios urbanos, se deberá cumplir con lo siguiente:
 
 I. Densidad de población del predio origen delimitada de acuerdo al máximo posible de lotes, según la dimensión mínima, la densidad de población y el uso de suelo, establecidos en los programas de desarrollo urbano;
 
@@ -1837,6 +1909,14 @@ VI. Cuando recaiga en propiedad privada, con motivo de la ejecución de obras de
 
 VII. Las que soliciten las autoridades federales, estatales y municipales respecto de su patrimonio inmobiliario.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+La autoridad podrá emitir la autorización de subdivisión de predios que provengan de resoluciones administrativas y judiciales relativas a inmatriculaciones administrativas, informaciones de dominio, prescripciones u otras figuras jurídicas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Las autorizaciones que se emitan en términos del párrafo anterior deberán ser protocolizadas por notario público e inscribirse en el Registro Público de la Propiedad y del Comercio.
+
 ###### Artículo 176.
 
 La solicitud para fusionar o subdividir predios deberá presentarse por escrito ante la autoridad municipal, anexando:
@@ -1845,9 +1925,15 @@ I. Documento que acredite la identidad y propiedad del solicitante, debidamente 
 
 II. Plano del estado actual y propuesta de fusión o subdivisión de los predios, con acotaciones legibles, colindancias, cuadro de superficies, ubicación de los predios, nombre y firma del director responsable de obra y señalamiento de la orientación de los mismos. El Municipio que corresponda, podrá solicitar el plano georeferenciado, cuando las colindancias no estén definidas por el área de catastro correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 177.
 
-No se autorizará la fusión de un predio a un fraccionamiento ya autorizado e inscrito en el Registro Público de la Propiedad y del Comercio, cuando se trate de un predio que no forma parte del predio de origen del fraccionamiento.
+No se autorizará la fusión de un predio a un desarrollo inmobiliario ya autorizado e inscrito en el Registro Público de la Propiedad y del Comercio, cuando se trate de un predio que no forma parte del predio de origen del desarrollo inmobiliario.
+
+No se autorizará la fusión de lotes, unidades privativas o condominios que pertenezcan a desarrollos inmobiliarios diferentes ya autorizados.
+
+Para el caso de ampliación de etapa de un desarrollo inmobiliario, en la modalidad de fraccionamiento en superficie colindante al desarrollo, se estará a lo dispuesto en el artículo 150 de este ordenamiento.
 
 ### Capítulo Séptimo. Del Condominio
 
@@ -1857,17 +1943,21 @@ Se entiende por fraccionamiento la división de un terreno en lotes, cuando para
 
 Las calles o vialidades locales que se generen al interior de un fraccionamiento, tendrán el carácter de vías públicas de libre acceso a la población, las que deberán ser transmitidas gratuitamente por el desarrollador en favor del Municipio que corresponda, mediante escritura pública, inscrita en el Registro Público de la Propiedad y del Comercio.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 179.
 
-En los lotes generados por la autorización de un fraccionamiento, podrán edificarse condominios, siempre y cuando cumplan con las disposiciones establecidas en este Código para su constitución.
+En los lotes generados por la autorización de un fraccionamiento, podrán edificarse condominios, siempre y cuando, el desarrollador así lo establezca en los estudios técnicos correspondientes a la autorización del fraccionamiento, precisándolo en el anteproyecto de lotificación y cumplan con las disposiciones establecidas en este Código para su constitución.
 
 ###### Artículo 180.
 
 En las vías públicas de los fraccionamientos, no se permitirá la construcción de bardas, cercas o el funcionamiento de accesos limitados o controlados.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 181.
 
-El desarrollo inmobiliario bajo la modalidad de fraccionamiento, estará compuesto de la superficie vendible y de las calles que conformarán las vías públicas, así como la transmisión a título gratuito para equipamiento urbano y cualquier otra condicionante que lo restrinja o limite.
+El desarrollo inmobiliario bajo la modalidad de fraccionamiento, estará compuesto de la superficie vendible y de las calles que conformarán las vías públicas, así como la transmisión a título gratuito de la superficie para equipamiento urbano y cualquier otra condicionante que lo restrinja o limite.
 
 #### Sección Primera. De los Fraccionamientos de Urbanización Progresiva
 
@@ -1881,17 +1971,21 @@ Los fraccionamientos a que hace referencia el artículo anterior, podrán ser re
 
 #### Sección Segunda. Del Proceso de Autorización de los Fraccionamientos
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 184.
 
-La autorización para la construcción de un fraccionamiento es el proceso mediante el cual el Municipio otorga los permisos correspondientes.
+La autorización para la construcción de un fraccionamiento, es el proceso mediante el cual el Municipio otorga los permisos correspondientes, de acuerdo a lo previsto en el artículo 12 de este Código.
 
 ###### Artículo 185.
 
 La autorización a que se refiere el artículo anterior, podrá ser otorgada por el Poder Ejecutivo del Estado, en los casos que exista convenio celebrado con el Municipio en que se pretende construir el fraccionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 186.
 
-El procedimiento de autorización de fraccionamientos se conforma de etapas que se otorgarán de forma sucesiva, a la conclusión de cada una de éstas; siendo las siguientes:
+El procedimiento de autorización de fraccionamientos se conforma de etapas, siendo las siguientes:
 
 I. Dictamen de uso de suelo;
 
@@ -1905,7 +1999,13 @@ V. Denominación del fraccionamiento y nomenclatura de calles;
 
 VI. En su caso, autorización para venta de lotes; y
 
-VII. Entrega al Municipio de las obras de urbanización y autorización definitiva del fraccionamiento.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VIl. Entrega al Municipio de las obras de urbanización y autorización definitiva del fraccionamiento, mismo que podrá entregarse por etapas debidamente urbanizadas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+De acuerdo a las características de cada fraccionamiento, se podrán agrupar en etapas de autorización, sin omitir alguna.
 
 ###### Artículo 187.
 
@@ -1915,13 +2015,17 @@ A fin de emitir el dictamen o autorización correspondiente, la autoridad compet
 
 Los dictámenes de uso de suelo para la construcción de un fraccionamiento, se emitirán por la autoridad municipal o, en su caso, estatal, de conformidad con las disposiciones del Título Cuarto, Capítulo II de este Código, así como en las normas reglamentarias que al efecto se expidan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 189.
 
-Las autorizaciones a que se refieren las fracciones VI y VII del artículo 186, deberán publicarse a costa del fraccionador en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, así como en la Gaceta Municipal del Municipio en que se encuentra el desarrollo inmobiliario, en su caso, por dos veces consecutivas con un intervalo de seis días naturales, sin contar en ellos los de la publicación. Asimismo, deberán protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
+Las autorizaciones a que se refieren las fracciones IV, V, VI y VIl del artículo 186, deberán publicarse a costa del fraccionador en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en la Gaceta Municipal del Municipio en que se encuentra el desarrollo inmobiliario, en su caso, por dos veces, mediando un plazo mínimo (sic) seis días naturales entre cada una, sin contar en ellos los de la publicación. Asimismo, deberán protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 El plazo para que el desarrollador realice la publicación y protocolización de las autorizaciones a que se refiere este artículo, será de sesenta días hábiles, contados a partir del siguiente al en que se le haya notificado la autorización.
 
-En la escritura deberán relacionarse las partidas de inscripción correspondientes a los instrumentos que por separado, hicieron constar la transmisión gratuita de las áreas respectivas.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En la escritura deberán relacionarse los instrumentos que por separado hicieron constar la transmisión gratuita de las áreas respectivas.
 
 Al testimonio que se presente para inscripción deberá agregarse, en todo caso, el plano de lotificación del fraccionamiento, indicando la ubicación, superficies, medidas, colindancias y demás datos necesarios para su identificación.
 
@@ -1933,13 +2037,23 @@ I. Impacto urbano y vial, en su caso;
 
 II. Hidrológico, en el que deberán contemplarse las medidas de mitigación, conservación o mejoramiento que, en su caso, la Comisión Nacional del Agua o la Comisión Estatal de Aguas establezcan en el ámbito de su competencia, atendiendo las características topográficas e hidrológicas que se presenten dentro del predio a fraccionar, así como en su zona de influencia, cuando sea necesario, atendiendo a la naturaleza y ubicación del predio;
 
-III. Información preliminar de impacto ambiental, conforme a los lineamientos técnicos establecidos por la Secretaría de Desarrollo Sustentable; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-IV. Anteproyecto de lotificación, en el que se consideren todas las medidas de mitigación que los estudios señalados en las fracciones anteriores arrojen, así como la posible ubicación de las plantas de tratamiento de aguas residuales que determine la autoridad competente.
+III. Información preliminar de impacto ambiental, conforme a los lineamientos técnicos establecidos por la Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV. Anteproyecto de lotificación, en el que se consideren todas las medidas de mitigación que los estudios señalados en las fracciones anteriores arrojen, así como la posible ubicación de las plantas de tratamiento de aguas residuales que determine la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2015)</small>
+
+V. Visto bueno de protección civil, atendiendo a la reglamentación de la materia.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 191.
 
-El visto bueno del proyecto de lotificación, consiste en la aprobación que realice la autoridad competente, al plano del fraccionamiento que presente el desarrollador y en el que deberá contemplarse la distribución de lotes, ubicación de vialidades y transmisión gratuita para equipamiento urbano.
+El visto bueno del proyecto de lotificación, consiste en la aprobación que realice la autoridad competente, al plano del fraccionamiento que presente el desarrollador y en el que deberá contemplarse la distribución de lotes, ubicación de vialidades, así como la transmisión a título gratuito de la superficie para equipamiento urbano y cualquier otra condicionante que lo restrinja o limite.
 
 #### Sección Tercera. De la Licencia de Ejecución de Obras de Urbanización y Supervisión de Obras de Urbanización
 
@@ -1975,15 +2089,25 @@ La autorización para venta de lotes, se desarrollará conforme a lo que se disp
 
 El desarrollador podrá obtener autorización provisional para venta de lotes, aún cuando no se hayan concluido totalmente las obras de urbanización del fraccionamiento, etapa, sección o fase, mediante solicitud dirigida a la autoridad competente, una vez satisfechos los siguientes requisitos:
 
-I. Que la licencia para ejecución de obras de urbanización, se encuentre protocolizada ante Notario Público e inscrita en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+l. Contar con la Licencia de Ejecución de Obras de Urbanización;
 
 II. Tener un avance mínimo del treinta por ciento en las obras de urbanización del fraccionamiento, etapa, sección o fase, asentado en la bitácora de las obras de urbanización;
 
 III. Haber cubierto los impuestos y derechos que correspondan; y
 
-IV. Otorgar fianza emitida por compañía afianzadora autorizada, a favor de la autoridad competente, por el valor total de las obras de urbanización que falten por ejecutar, calculado al tiempo de su terminación, en el fraccionamiento, etapa, sección o fase por autorizar, más un treinta por ciento para garantizar la construcción de aquellas en el plazo que se fije.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-En caso de incumplimiento, la fianza se hará efectiva de inmediato por la autoridad competente, la que se aplicará para realizar por sí o por medio de contratista, las obras omitidas; lo anterior, sin perjuicio de las sanciones administrativas y responsabilidad civil o penal que se generen.
+IV. Garantizar por el desarrollador a satisfacción de la autoridad competente, por el valor total de las obras de urbanización que falten por ejecutar, calculado al tiempo de la vigencia de la licencia de ejecución de obras de urbanización, en el fraccionamiento, etapa, sección o fase por autorizar, más un treinta por ciento para garantizar la construcción de aquellas en el plazo que se fije.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En caso de incumplimiento la autoridad competente hará efectivo el instrumento que se otorgó para garantizar la que se aplicará para realizar por sí o por medio de contratista, las obras omitidas; lo anterior, sin perjuicio de las sanciones administrativas y responsabilidad civil o penal que se generen
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En caso de que la garantía se otorgue a través de hipoteca, la escritura en la que se constituya no causará el pago por derechos de inscripción en el Registro Público de la Propiedad y el Comercio.
 
 ###### Artículo 199.
 
@@ -1993,11 +2117,13 @@ Concluida la totalidad de las obras establecidas en la licencia de ejecución de
 
 La autorización para venta de lotes, tendrá la misma vigencia que la establecida en la licencia de ejecución de obras de urbanización; en caso de prórroga podrá modificarse el monto de la fianza establecida para garantizar la ejecución de las obras de urbanización atendiendo a las condiciones técnicas y jurídicas que prevalezcan a la fecha.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 201.
 
-El desarrollador estará obligado a incluir en todo tipo de publicidad o promoción de venta y en los contratos de transmisión que otorgue, el número y la fecha de autorización, así como los datos de su inscripción en el Registro Público de la Propiedad y del Comercio.
+El desarrollador estará obligado a incluir en todo tipo de publicidad impresa y en los contratos de transmisión que otorgue, el número y la fecha de autorización.
 
-Los Notarios ante quienes se otorguen escrituras referentes al fraccionamiento, harán constar en las mismas la existencia de la autorización.
+Los Notarios ante quienes se otorguen escrituras referentes al fraccionamiento, señalarán en las mismas la existencia de la autorización.
 
 ###### Artículo 202.
 
@@ -2075,11 +2201,15 @@ Se considera de interés público la constitución del régimen de propiedad en 
 
 El titular del Poder Ejecutivo del Estado y los Municipios, en el ámbito de su competencia, podrán adoptar las medidas administrativas que faciliten y estimulen la construcción de condominios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 212.
 
-Se considera régimen de propiedad en condominio, para los efectos de este Código, aquel en que los departamentos, viviendas, casas, locales, naves industriales, cajones de estacionamiento o aéreas que se construyan o constituyan en un inmueble en forma horizontal, vertical o mixta, sean susceptibles de aprovechamiento independiente, ya sea que pertenezcan a uno o a varios propietarios, debiendo tener salida propia a la vía pública por un elemento común.
+Se considera régimen de propiedad en condominio, para los efectos del presente Código, aquel en que los departamentos, viviendas, casas, locales, naves industriales, bodegas, cajones de estacionamiento, áreas que se construyan o constituyan en un inmueble en forma horizontal, vertical o mixta, sean susceptibles de aprovechamiento independiente, ya sea que pertenezcan a uno o varios propietarios y que tengan salida propia a un elemento de circulación común o a la vía pública.
 
-Los propietarios o condóminos tendrán un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, local, casa, nave industrial, cajón de estacionamiento o aéreas; además de un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute, por lo que dichos elementos se consideran inseparables y no susceptibles de división.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Los propietarios o condóminos tendrán un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, local, casa, nave industrial, bodega, cajón de estacionamiento o áreas; además de un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute, por lo que dichos elementos se consideran inseparables y no susceptibles de división.
 
 Al derecho singular y exclusivo de propiedad que tiene el condómino, se le denominará unidad privativa. Al derecho de copropiedad sobre los elementos y partes comunes, se le denominará áreas de uso común.
 
@@ -2091,15 +2221,23 @@ La superficie mínima de la unidad privativa en un condominio, deberá reunir la
 
 Para efectos del presente Código, los condominios se clasifican en:
 
-I. Condominio vertical. Cuando el inmueble se edifica en varios niveles, en el que cada uno de los propietarios tendrá derecho de propiedad sobre el área construida, considerándose como unidad privativa respecto de su departamento, vivienda, casa o local; además de un derecho de copropiedad sobre el suelo afectado en régimen de propiedad en condominio y sobre los elementos y partes comunes del edificio vertical necesarios para su adecuado uso y disfrute;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-II. Condominio horizontal. Cuando el inmueble se establece en inmuebles con construcción horizontal, teniendo el condómino derecho de propiedad sobre el terreno y la construcción edificada en el mismo, pudiendo compartir o no su estructura y medianería; siendo titular de un derecho de copropiedad para el uso y disfrute de las áreas del terreno, construcciones e instalaciones destinadas al uso común, en el cual deberán existir dos accesos a la vía pública para todas las unidades privativas que se generen; y
+l. Condominio vertical. Cuando el inmueble se edifique en varios niveles, en el que cada uno de los propietarios tendrá derecho de propiedad sobre su área privativa, considerándose como unidad privativa con su correspondiente cajón de estacionamiento y accesorios, como pueden ser bodegas, tendederos o jardín en azoteas, terrazas, etc., que sean de uso exclusivo de la unidad privativa; además de un derecho de copropiedad sobre el suelo afectado en régimen de propiedad en condominio y sobre los elementos y partes comunes del edificio vertical, necesarios para su adecuado uso y disfrute.
 
-III. Condominio mixto. Cuando el condominio está formado por edificaciones verticales y horizontales, que pueden estar conformados en grupos de unidades como edificios, cuerpos, torres, secciones o zonas. En este caso, le serán aplicables a cada una de las edificaciones o partes del condominio, las disposiciones relativas a los condominios verticales u horizontales, según sea la naturaleza de cada uno de ellos.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II. Condominio horizontal. Cuando se establece en inmuebles con o sin construcción horizontal sobre su área privativa, teniendo el condómino derecho de propiedad sobre el suelo y la construcción edificada en el mismo, pudiendo compartir o no su estructura y medianería; siendo titular de un derecho de copropiedad para el uso y disfrute de las áreas del inmueble, si fuera el caso, construcciones e instalaciones destinadas al uso común; susceptibles de aprovechamiento independiente, por tener salida propia a un elemento común de aquél o a la vía pública, perteneciente a distintos propietarios.
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III. Condominio mixto. Cuando el condominio está formado por edificaciones verticales y horizontales, que pueden estar conformados en grupos de unidades como edificios, cuerpos, torres, secciones o zonas. En este caso, le serán aplicables a cada una de las edificaciones o partes del condominio, las disposiciones relativas a los condominios verticales u horizontales, según sea la clasificación de cada uno de ellos.
 
 En todos los casos, el condominio podrá constituirse sobre las construcciones en proyecto, en proceso de construcción o terminadas.
 
-El número máximo de conformación, será de ciento veinte departamentos, viviendas, casas, locales, naves industriales, áreas que se constituyan en cada condominio y los cajones de estacionamiento que le correspondan.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El número máximo de conformación, será de ciento veinte unidades privativas, más los cajones de estacionamiento y accesorios que le correspondan.
 
 ###### Artículo 215.
 
@@ -2111,11 +2249,13 @@ Las unidades condominales no cuentan con unidades privativas, pues éstas corres
 
 La unidad condominal podrá desarrollarse en etapas, secciones o fases, las que deberán ser polígonos continuos y diferenciables entre ellas. En los condominios que la integran deberá garantizarse los servicios e infraestructura de los elementos y construcciones comunes a cada uno de ellos.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 #### Sección Segunda. Del Régimen de Propiedad en Condominio
 
 ###### Artículo 216.
 
-Se entiende por condómino a la persona que tenga la propiedad de uno o más terrenos, departamentos, viviendas, casas o locales a que se refiere este Capítulo.
+Se entiende por condómino a la persona que tenga la propiedad de una o más unidades privativas, ya sean áreas, departamentos, viviendas, bodegas, casas o locales a que se refiere este Capítulo.
 
 ###### Artículo 217.
 
@@ -2155,17 +2295,29 @@ X. Formas de extinción del condominio.
 
 El reglamento previsto en este artículo, será aplicable en lo conducente a los condominios, a falta de reglamento del condominio, así como de forma supletoria, en los aspectos no reglamentados en éstos.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 221.
 
-Los derechos y obligaciones de los condóminos, se regirán por lo dispuesto en este Código, el Código Civil del Estado de Querétaro, el Reglamento del Condominio, las escrituras en que conste la constitución del régimen de propiedad en condominio y las de compraventa por las que se adquiere indiviso del condominio de que se trate y, en su caso, por el Reglamento General de Condominios.
+Los derechos y obligaciones de los condóminos se regirán por lo dispuesto en este Código, por el Código Civil del Estado de Querétaro, por el Reglamento del Condominio, por lo que se convenga en las escrituras en que conste la constitución del régimen de propiedad en condominio y por las escrituras mediante las que se adquiere la unidad privativa e indiviso correspondiente del condominio por concepto de área común y, en su caso, por las disposiciones reglamentarias aplicables.
+
+El Condominio tiene personalidad jurídica cuando se integra por dos o más condóminos; se identifica mediante el nombre con el cual se autoriza, constituye e inscribe el régimen de propiedad en condominio en el Registro Público de la Propiedad y del Comercio. La calidad de condómino se adquiere o pierde, respectivamente, a partir de la fecha en que se otorgue la escritura de adquisición o transmisión de la unidad privativa.
+
+La personalidad del condominio tiene por objeto representar los intereses de los condóminos respecto de los bienes de propiedad común, así como los intereses en general del condominio, además de administrar y contratar los servicios relacionados con dichos bienes, directamente o por conducto de cualquier persona física o moral.
+
+El patrimonio del Condominio se integra únicamente por las cuotas o aportaciones de los Condóminos.
 
 ###### Artículo 222.
 
 El régimen de propiedad en condominio podrá constituirse cuando:
 
-I. Los diferentes pisos, departamentos, viviendas, locales, terrenos, áreas o naves industriales de que conste un inmueble o que hubieran sido construidos dentro de un inmueble con partes de uso común pertenezcan a distintos propietarios o, siendo del mismo propietario, se les dé un uso diferente o privado a cada uno;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-II. Los diferentes pisos, departamentos, viviendas, locales, áreas o naves que se construyan dentro de un inmueble y que cuente éste con elementos comunes e indivisibles, cuya propiedad privada se reserve en los términos de la fracción anterior, se destinen a la enajenación de personas distintas;
+I. Las diferentes unidades privativas tales como pisos, departamentos, viviendas, bodegas, locales, áreas o naves industriales, cajones de estacionamiento de que conste un inmueble o que hubieran sido construidos dentro de un inmueble con partes de uso común, pertenezcan a distintos propietarios o siendo del mismo propietario, se les dé un uso diferente o privado a cada uno;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II. Los diferentes pisos, departamentos, viviendas, bodegas, locales, áreas, naves industriales o cajones de estacionamiento, que se construyan dentro de un inmueble y que cuente éste con elementos comunes e indivisibles, cuya propiedad privada se reserve en los términos de la fracción anterior, se destinen a la enajenación de personas distintas;
 
 III. Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, viviendas, locales, áreas o naves, para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad privada indivisible;
 
@@ -2179,15 +2331,19 @@ En edificaciones terminadas, sólo se autorizará el cambio a régimen condomina
 
 La escritura por la que se constituya el régimen de propiedad en condominio, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de los inmuebles que lo integran, además de cumplir con los requisitos y supuestos previstos por este apartado, deberán inscribirse en el Registro Público de la Propiedad y del Comercio.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 #### Sección Tercera. De los Bienes de Propiedad Exclusiva y los de Propiedad Común
 
 ###### Artículo 224.
 
-En las escrituras en que conste la adquisición de un piso, departamento, vivienda, local, terreno, área o nave sujeto al régimen de propiedad en condominio, se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva que prevé este apartado y se hará constar que se entrega al interesado una copia del reglamento del condominio.
+En las escrituras en que conste la adquisición de la unidad privativa, se relacionará la escritura constitutiva que prevé este apartado agregándose al apéndice y se hará constar que se entrega al interesado una copia del reglamento del condominio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 225.
 
-Para el caso de constitución de régimen de propiedad en condominio sobre predio o lote que formen parte o incluyan todo un fraccionamiento, el promotor, independientemente de los requisitos que se deban cumplir y pago de contribuciones fiscales que se deban hacer para obtener las autorizaciones del fraccionamiento, deberá presentar ante la autoridad competente, solicitud que contenga:
+Para el caso de constitución de régimen de propiedad en condominio, el promotor, deberá presentar ante la autoridad competente, solicitud que contenga:
 
 I. La determinación de la clase, tipo y magnitud del proyecto de condominio que se pretenda realizar;
 
@@ -2197,17 +2353,31 @@ III. Deslinde catastral de la extensión máxima del predio o lote que puede com
 
 IV. La ubicación, longitud y anchura de las vías de circulación interna del condominio, así como las área de uso común, superficies destinadas a andadores, estacionamientos, parques, jardines y demás áreas que se requieran según la dimensión del proyecto, incluyendo las áreas en donde se vayan a desarrollar funciones o usos distintos del predominante en el condominio;
 
-V. Propuesta para las superficies que se transmitirán gratuitamente al Municipio para destinarse a obras públicas, a servicios o a reservas territoriales.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-Las superficies que se transmitirán gratuitamente deberán tener, a juicio de la autoridad municipal, una ubicación que permita que estas áreas puedan señalarse fuera del desarrollo condominal;
+V. Propuesta de la ubicación de las superficies que se transmitirán gratuitamente al Municipio, de acuerdo a lo señalado en el artículo 156;
 
-VI. Propuesta de solución para el suministro y descarga de los servicios públicos que correspondan al condominio;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VI. La autoridad municipal autorizará la ubicación de las superficies a que se refiere la fracción que antecede;
 
 VII. Plazo de iniciación de las obras y plazo aproximado de terminación de las mismas; y
 
 VIII. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de gravamen y responsabilidad fiscal.
 
 Las áreas de transmisión gratuita, deberán ubicarse fuera del condominio
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IX. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de responsabilidad fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o incluya todo un fraccionamiento, el promotor, estará exento de presentar el Deslinde Catastral señalado en la fracción III, y que así se hayan contemplado en la licencia de ejecución de obras de urbanización y en el proyecto de lotificación del fraccionamiento, autorizados por los Municipios o el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o se incluya en un fraccionamiento que haya dado cumplimiento al artículo 156, el promotor estará exento de dar cumplimiento a la fracción V del presente artículo.
 
 ###### Artículo 226.
 
@@ -2259,25 +2429,33 @@ Queda prohibida la celebración de cualquier acto traslativo de uso o dominio qu
 
 El Administrador del condominio, en los casos de incumplimiento al artículo anterior, está legitimado para ejercer las acciones legales correspondientes.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 #### Sección Cuarta. Del Procedimiento de Autorización de un Condominio
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 232.
 
-El arrendatario de un departamento, vivienda, casa o local, sujeto a régimen de propiedad en condominio, gozará del derecho del tanto, para el caso que el condómino lo pretenda enajenar; a cuyo efecto, éste deberá notificar al inquilino la venta pretendida por medio del Administrador del condominio, de Notario Público o judicialmente, con expresión del precio propalado y demás condiciones de la operación, a efecto de que, dentro de los diez días siguientes a la notificación, ejerza el derecho de preferencia por el tanto.
+El arrendatario de una unidad privativa, sujeta a régimen de propiedad en condominio, gozará del derecho de preferencia, en términos de lo establecido en el Código Civil del Estado de Querétaro, para el caso que el condómino lo pretenda enajenar; a cuyo efecto, éste deberá notificar al inquilino la venta pretendida por medio del Administrador del condominio, Notario Público o judicialmente, con expresión del precio propalado y demás condiciones de la operación, a efecto de que dentro de los diez días siguientes a la notificación, ejerza el derecho de preferencia.
 
-De igual derecho, gozará la institución oficial que haya financiado o construido el condominio.
+Por la falta de notificación o en caso de realizarse la venta en condiciones distintas a las notificadas, la venta será válida pero el vendedor responderá de los daños y perjuicios.
 
-La falta de notificación o la venta en condiciones distintas a las notificadas, dará lugar al ejercicio del derecho de retracto, en términos de lo dispuesto por el Código Civil del Estado de Querétaro y por el Código de Procedimientos Civiles del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 233.
 
-Los Notarios consignarán en la escritura de compraventa, el cumplimiento de lo dispuesto en los párrafos primero y segundo del artículo anterior.
+Los Notarios consignarán en la escritura de compraventa, el cumplimiento de lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 #### Sección Quinta. De la Licencia para Ejecución de Obras de Urbanización y Supervisión de Obras
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 234.
 
-Queda prohibido que una misma persona, adquiera más de un departamento, vivienda, casa o local en los condominios financiados o construidos por instituciones oficiales. La contravención de esta disposición dará lugar a la rescisión del contrato.
+Queda prohibido que una misma persona, adquiera más de un departamento, vivienda, casa o local en los condominios financiados o construidos por instituciones oficiales, salvo lo dispuesto en la legislación especial aplicable. La contravención de esta disposición dará lugar a la nulidad del contrato.
 
 ###### Artículo 235.
 
@@ -2288,6 +2466,8 @@ Cada condómino u ocupante hará uso de su departamento, vivienda, casa o local 
 En el condominio vertical, los condóminos del departamento, vivienda, casa o local situados en la planta baja o en el último piso, no tendrán más derecho que los restantes condóminos, salvo lo que establezca el reglamento del condominio, los condóminos de la planta baja no podrán ocupar, para uso exclusivo o preferente sobre los demás condóminos, los vestíbulos, sótanos, jardines, patios u otros lugares de tal planta ni hacer obras en dichos lugares. Con igual salvedad, los condóminos del último piso no podrán ocupar la azotea o techo ni elevar nuevos pisos, ni realizar otras construcciones.
 
 #### Sección Sexta. De la Declaratoria de Régimen de Propiedad en Condominio
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 237.
 
@@ -2367,23 +2547,29 @@ Las prohibiciones establecidas en este artículo, son aplicables a todos los ocu
 
 ###### Artículo 242.
 
-La autorización para la construcción de un condominio, es el proceso mediante el cual el Municipio otorga los permisos correspondientes.
+La autorización para la construcción de un condominio es el proceso mediante el cual el Municipio otorga los permisos correspondientes, de acuerdo a lo previsto en el artículo 12 de este Código.
 
 ###### Artículo 243.
 
 La autorización a que se refiere el artículo anterior, podrá ser otorgada por el titular del Poder Ejecutivo del Estado, en los casos que exista convenio celebrado con el Municipio en que se pretende construir el condominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 244.
 
-El procedimiento del que trata la presente sección, se conforma de etapas que se otorgarán de forma sucesiva a la conclusión de cada una de éstas, siendo las siguientes:
+El procedimiento del que trata la presente sección, se conforma de etapas, siendo las siguientes:
 
 I. Dictamen de uso de suelo factible para condominio;
 
 II. Autorización de estudios técnicos;
 
-III. Visto bueno del proyecto de condominio y denominación;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-IV. Licencia de ejecución de obras de urbanización de condominio;
+III. Visto bueno del proyecto de distribución y denominación de condominio;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV. Licencia de ejecución de obras de urbanización de condominio, en caso de aplicar;
 
 V. Declaratoria de régimen de propiedad en condominio;
 
@@ -2391,39 +2577,57 @@ VI. Autorización para venta de las unidades privativas; y
 
 VII. Dictamen técnico de entrega y recepción de las obras de urbanización del condominio.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o incluya todo un fraccionamiento, el promotor estará exento de presentar la autorización de estudios técnicos señalada en la fracción II y que así se hayan contemplado en la licencia de ejecución de obras de urbanización y en el proyecto de lotificación del fraccionamiento, autorizados por los Municipios o el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+De acuerdo a las características de cada condominio o unidad condominal se podrán agrupar en etapas, sin omitir alguna.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 245.
 
-Cuando se trate de edificación de unidades en condominio de 2 a 10 unidades privativas, sólo se requerirá el visto bueno al proyecto de condominio, así como la emisión de la declaratoria de régimen de propiedad en condominio; debiéndose estar a lo dispuesto en el reglamento de construcción del municipio que corresponda.
+Cuando se trate de edificación de unidades en condominio de 2 a 10 unidades privativas que no contengan obras de urbanización, sólo se requerirá el visto bueno al proyecto de distribución y denominación, así como la emisión de la declaratoria de régimen de propiedad en condominio; debiéndose estar a lo dispuesto en el reglamento de construcción del municipio que corresponda.
 
 ###### Artículo 246.
 
 Los dictámenes de uso de suelo para la construcción de un condominio, se emitirán por la autoridad municipal o en su caso estatal, de conformidad con las disposiciones del Título Cuarto, Capítulo II, de este Código, así como en las normas reglamentarias que al efecto se expidan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 #### Sección Octava. De la Entrega y Recepción de Obras de Urbanización
 
 ###### Artículo 247.
 
-El dictamen a que se refiere la fracción VII del artículo 243, deberá publicarse a costa del desarrollador en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y en dos de los periódicos de mayor circulación en la Entidad, por dos veces consecutivas con un intervalo de seis días naturales, sin contar en ellos los de la publicación. Asimismo, deberá protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
+El dictamen a que se refiere la fracción VII del artículo 244, deberá publicarse, a costa del desarrollador, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en la Gaceta Municipal del Municipio en el que se encuentra el desarrollo inmobiliario, en su caso, por dos veces, mediando un plazo mínimo de seis días naturales entre cada una, sin contar en ellos los de la publicación. Asimismo, deberá protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 No se requerirá la publicación de que habla este artículo, cuando el condominio carezca de obras de urbanización.
 
 El plazo para que el desarrollador realice la publicación, protocolización e inscripción en el Registro público de la propiedad y del Comercio del dictamen a que se refiere este artículo, será de sesenta días hábiles, contados a partir del siguiente al en que se le haya notificado la autorización.
 
-En la escritura deberán relacionarse las partidas de inscripción correspondientes a los instrumentos que por separado hicieron constar la transmisión gratuita de las superficies respectivas.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-Al testimonio que se presente para inscripción, además deberán acompañarse los documentos derivados de las etapas señaladas en el artículo 243 de este Código.
+En la escritura deberán relacionarse los instrumentos que por separado hicieron constar la transmisión gratuita de las superficies respectivas
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En el testimonio de la escritura pública que se presente para inscripción, se relacionarán los documentos derivados de las etapas señaladas en el artículo 244 de este Código.
 
 ###### Artículo 248.
 
 En la autorización de estudios y proyectos técnicos, se estará en lo dispuesto en el artículo 190 de este Código.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 249.
 
-Para la autorización que corresponde al visto bueno del proyecto de condominio y denominación, el desarrollador deberá presentar ante la autoridad competente, solicitud que incluya la denominación y describa las características y condiciones del predio, el tipo de condominio, el sembrado de áreas privativas y comunes, el trazo y secciones de vías internas, el plano del proyecto de urbanización, la descripción de áreas, que se conforman por unidades privativas, así como las de uso común, las etapas de su conformación y cualquier otro que se derive de los estudios técnicos y proyectos presentados.
+Para la autorización que corresponde al visto bueno del proyecto de distribución y denominación, el desarrollador deberá presentar ante la autoridad competente, solicitud que incluya la denominación y describa las características y condiciones del predio, el tipo de condominio, el sembrado de áreas privativas y comunes, el trazo y secciones de vías internas, el plano del proyecto de urbanización, la descripción de áreas que se conforman por unidades privativas, así como las de uso común, las etapas de su conformación y cualquier otro que se derive de los estudios técnicos y proyectos presentados.
 
 ###### Artículo 250.
 
-La licencia para ejecución de obras de urbanización de condominio, describirá las etapas, secciones que lo conformarán, el plano de sembrado, las unidades privativas, así como las de uso común que lo integrarán, el desglose de las mismas, las restricciones y afectaciones y aquellas condicionantes que se consideren necesarias para el adecuado funcionamiento del condominio.
+La licencia para ejecución de obras de urbanización de condominio describirá las etapas, secciones que lo conformarán, el plano de distribución, las unidades privativas, así como las de uso común que lo integrarán, el desglose de las mismas, las restricciones y afectaciones y aquellas condicionantes que se consideren necesarias para el adecuado funcionamiento del condominio.
 
 ###### Artículo 251.
 
@@ -2455,7 +2659,9 @@ Cuando se construya un condominio en un predio urbanizado, cuyo proyecto no requ
 
 ###### Artículo 255.
 
-La Declaratoria del régimen de propiedad en condominio es el documento jurídico administrativo, que describe al condominio que se autoriza, así como las condiciones que deberá cumplir el desarrollador, entre las que se incluyen áreas de transmisión gratuita, pago de impuestos y derechos, venta de unidades privativas, cuya enajenación hacia terceros será su responsabilidad.
+La Declaratoria del régimen de propiedad en condominio, es el documento jurídico administrativo que describe al condominio que se autoriza, así como las condiciones que deberá cumplir el desarrollador, entre las que se incluyen áreas de transmisión gratuita, pago de impuestos y derechos.
+
+Los requisitos para emitir la Declaratoria del régimen de propiedad en condominio estarán a lo dispuesto en el Reglamento Municipal correspondiente.
 
 ###### Artículo 256.
 
@@ -2471,13 +2677,17 @@ Para constituir el régimen de propiedad en condominio, el propietario o propiet
 
 I. La denominación;
 
-II. La ubicación, dimensiones y lindero de terreno, así como el deslinde catastral que corresponda al condominio de que se trate, realizando la especificación precisa de todas las áreas, señalando expresamente si el condominio se encuentra ubicado dentro de un conjunto urbano. En caso que se trate de grupos de construcciones, deberán señalarse los límites de los edificios o secciones que deban constituir condominios independientes;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II. La ubicación, dimensiones y lindero de terreno, así como el deslinde catastral que corresponda al condominio de que se trate, realizando la especificación precisa de todas las áreas, relacionando los antecedentes correspondientes si el condominio se encuentra ubicado dentro de una unidad condominal. En caso que se trate de grupos de construcciones, deberán señalarse los límites de los edificios o secciones que deban constituir condominios independientes;
 
 III. La licencia de ejecución de obras de urbanización de condominio y los datos de identificación de las licencias, planos, autorizaciones o permisos expedidos por las autoridades competentes, para la realización del condominio;
 
 IV. La descripción y datos de identificación de cada unidad de propiedad exclusiva, sus medidas y colindancias, así como el o los cajones de estacionamiento de vehículos que le correspondan;
 
-V. El proindiviso que corresponda a cada unidad privativa y el porcentaje que representa del condominio;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+V. El indiviso que corresponda a cada unidad privativa y el porcentaje que representa del condominio;
 
 VI. El uso general del condominio y el particular de cada unidad privativa;
 
@@ -2491,7 +2701,9 @@ X. Los casos y condiciones en que puede ser modificado el régimen de propiedad 
 
 XI. La documentación legal que acredite la autorización y transmisión de las áreas de transmisión gratuita a favor del Municipio;
 
-XII. El valor que se asigne a cada unidad de propiedad exclusiva y el porcentaje que le corresponda sobre el valor total de condominio;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XII. El valor que se asigne a cada unidad privativa del derecho singular y exclusivo de propiedad que tiene el condómino y el porcentaje que le corresponda sobre el valor total de condominio;
 
 XIII. La autorización de venta sujeta al avance de obra de urbanización, que deberá ser por lo menos de un treinta por ciento respecto del presupuesto autorizado;
 
@@ -2501,19 +2713,27 @@ XV. El alta del condominio en catastro, claves definitivas y valores catastrales
 
 XVI. Plazos para el cumplimiento de las obligaciones de la Declaratoria.
 
-Al apéndice de la escritura, se agregarán el plano general, los planos de cada una de las unidades de propiedad exclusiva, los documentos administrativos que dan origen a la autorización del condominio, así como el Reglamento del condominio.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Al apéndice de la escritura se agregarán el plano general que incluya cada una de las unidades privativas y los documentos administrativos que dan origen a la autorización del condominio, así como el reglamento del condominio.
 
 ###### Artículo 259.
 
 La autorización para venta de unidades privativas, se desarrollará conforme a lo previsto en los artículos siguientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 260.
 
-El desarrollador podrá obtener autorización para venta de unidades privativas, aún cuando no se hayan concluido totalmente las obras de urbanización del condominio, etapa, sección o fase, mediante solicitud dirigida a la autoridad competente, una vez satisfechos los siguientes requisitos:
+El desarrollador podrá obtener autorización para venta de unidades privativas, mediante solicitud dirigida a la autoridad competente, una vez satisfechos los siguientes requisitos:
 
-I. Que la licencia para ejecución de obras de urbanización se encuentre vigente;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-II. Tener un avance mínimo del treinta por ciento en las obras de urbanización del condominio, etapa, sección o fase, asentado en la bitácora de las obras de urbanización; y
+l. Que la licencia para ejecución de obras de urbanización se encuentre vigente, en caso de aplicar;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II. Tener un avance mínimo del treinta por ciento en las obras de urbanización del condominio, etapa, sección o fase, asentado en la bitácora de las obras de urbanización, en caso de aplicar; y
 
 III. Haber cubierto los impuestos y derechos que correspondan.
 
@@ -2561,7 +2781,9 @@ En la escritura del contrato de compraventa de una unidad privativa de condomini
 
 Una vez concluida la totalidad de las obras de construcción y urbanización del condominio, el desarrollador solicitará por escrito a la autoridad competente, el dictamen técnico aprobatorio de la ejecución de dichas obras, debiendo acreditar:
 
-I. Que se realizó, mediante escritura pública, la transmisión a favor del Municipio, de las áreas que establecen los artículos 156 y 157 de este Código;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+l. Que se realizó, mediante escritura pública, la transmisión a favor del Municipio, de las áreas que establece el artículo 156 de este Código, salvo las excepciones señaladas en el mismo; así como la superficie e infraestructura señaladas en el artículo 157 en favor de los organismos operadores o la autoridad competente;
 
 II. Que los servicios y obras se encuentran funcionando en óptimas condiciones;
 
@@ -2609,7 +2831,9 @@ En caso de existir vicios ocultos en las obras de urbanización, conforme al dic
 
 La Asamblea de condóminos es el órgano supremo del condominio.
 
-Las asambleas deberán ser generales; sin embargo, en casos de suma urgencia, que puedan derivarse del carácter mixto del condominio o de lo vasto o complejo que pudiere ser el núcleo habitacional, podrá haber Asambleas especiales de grupo o Asambleas especiales de condominio, cuando forman parte de un conjunto o unidad urbana.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Las asambleas deberán ser generales; sin embargo, en casos de suma urgencia, que puedan derivarse del carácter mixto del condominio o de lo vasto o complejo que pudiere ser el núcleo habitacional, podrá haber Asambleas especiales de grupo o Asambleas especiales de condominio, cuando forman parte de un conjunto o unidad condominal.
 
 ###### Artículo 273.
 
@@ -2721,9 +2945,13 @@ c) Saldo del fondo de mantenimiento y administración, y fines a los que se dest
 
 X. Convocar a Asamblea;
 
-XI. Ejercer facultades de apoderado general para pleitos y cobranzas y actos de administración en representación del condominio; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-XII. Desempeñar las demás funciones y cumplir con las obligaciones inherentes a su cargo establecidas en el presente Código, las que le confieran la escritura que constituye el régimen de propiedad en condominio, el Reglamento General de Condominios, el Reglamento del condominio, los acuerdos de la Asamblea y demás disposiciones legales aplicables.
+XI. Ejercer facultades de apoderado general para pleitos y cobranzas y actos de administración con todas las facultades generales y especiales que requieran cláusula especial en los términos de los dos primeros párrafos del artículo 2450 y del artículo 2484 del Código Civil del Estado de Querétaro; representación legal en materia laboral conforme a los artículos 11, 692, 786, 876, 895 y demás relativos de la Ley Federal del Trabajo; y para contratar cuentas bancarias y de inversión y librar cheques, en representación del condominio; y
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XII. Adquirir los bienes que se requieran e incorporen a los bienes de uso común; contratar los servicios públicos y privados en las áreas comunes o en beneficio de los condóminos, y, en general, desempeñar las demás funciones y cumplir con las obligaciones inherentes a su cargo establecidas en el presente Código, las que le confieran la escritura que constituye el régimen de propiedad en condominio, el Reglamento General de Condominios, el Reglamento del condominio, los acuerdos de la Asamblea y demás disposiciones legales aplicables.
 
 ###### Artículo 282.
 
@@ -2733,9 +2961,11 @@ El Administrador tendrá a disposición de los condóminos, una relación de los
 
 Recibido el estado de cuenta a que hace referencia la fracción IX del artículo 281 de este Código, el condómino contará con un plazo de cinco días hábiles, para formular las observaciones y objeciones que considere pertinentes; de no hacerlas, se presumirá su conformidad, a reserva de la aprobación que en su momento realice la Asamblea.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 284.
 
-En relación al condominio y a los bienes y servicios comunes, el Administrador tendrá las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para administrar bienes, así como para pleitos y cobranzas, incluyendo facultades como representante legal y apoderado en materia laboral. Para el otorgamiento de facultades relativas al desistimiento en juicio, otorgar el perdón en procedimientos penales y celebrar transacciones y convenios, el Administrador necesitará acuerdo de la Asamblea, con mayoría del cincuenta y uno por ciento del indiviso.
+En relación al condominio y a los bienes y servicios comunes, el Administrador tendrá las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para administrar bienes, así como para pleitos y cobranzas, incluyendo facultades como representante legal y apoderado en materia laboral. Para el otorgamiento de facultades relativas al desistimiento en juicio, otorgar el perdón en procedimientos penales, celebrar transacciones y convenios y cualquier otra que establezcan las leyes, el Administrador necesitará acuerdo de la Asamblea, con mayoría del cincuenta y uno por ciento del indiviso, salvo lo que establezca el reglamento del condominio respectivo.
 
 ###### Artículo 285.
 
@@ -3113,71 +3343,27 @@ Las construcciones que se proyecten en zonas decretadas o declaradas de patrimon
 
 Los proyectos para la construcción de obras deberán considerar el diseño de los siguientes factores:
 
-I. El coeficiente de ocupación del suelo (COS), que es la superficie del lote que puede ser ocupada con construcciones, manteniendo libre de construcción, como mínimo, los siguientes porcentajes promedio: tratándose de uso habitacional, veinte por ciento en vivienda popular, veinticinco por ciento en residencial y cuarenta por ciento en campestre; en el caso de en uso comercial, veinticinco por ciento y en uso industrial el treinta y cinco por ciento;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-II. El coeficiente de absorción del suelo (CAS), que es la superficie mínima del lote que puede ser susceptible de incorporación a áreas de riego o zonas verdes dentro del predio, cuya área mínima deberá contar, cuando menos, con los siguientes porcentajes: tratándose de uso habitacional, diez por ciento en vivienda popular, doce punto cinco por ciento en residencial y cuarenta por ciento en campestre; en el caso de uso comercial, será de doce punto cinco por ciento y en uso industrial el dieciocho por ciento; y
+l. El coeficiente de ocupación del suelo (COS), que es la superficie del lote que puede ser ocupada con construcciones;
 
-III. El coeficiente de utilización del suelo (CUS), entendido como la superficie máxima de construcción que se permitirá en un predio y se expresa con el número de veces que se construya en la superficie del lote; por lo tanto, técnicamente será procedente que el coeficiente de utilización de suelo no exceda de uno, siempre y cuando cumpla con lo establecido en los planes y programas de desarrollo urbano. En ambos casos, los coeficientes variarán de acuerdo con las características específicas de cada delegación, considerando su tipología y densidad.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II. El coeficiente de absorción del suelo (CAS), que es la superficie mínima del lote que puede ser susceptible de incorporación a áreas de riego o zonas verdes dentro del predio; y
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III. El coeficiente de utilización del suelo (CUS), entendido como la superficie máxima de construcción que se permitirá en un predio y se expresa con el número de veces que se construya en la superficie del lote.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Corresponderá a los Programas de Desarrollo Urbano y reglamento municipal, determinar los coeficientes correspondientes.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 344.
 
-Los proyectos de obras deberán tomar en consideración los aspectos de compatibilidad de uso con las lotificaciones, construcciones nuevas, restauraciones, demoliciones, ampliaciones y modificaciones, tomando como base los usos y destinos propuestos en los diferentes programas de desarrollo urbano, siendo los siguientes:
-
-I. Para regular el uso de suelo:
-
-Uso permitido.
-
-Uso condicionado.
-
-Uso prohibido;
-
-II. Para regular la fusión o subdivisión de predios:
-
-Lote tipo, lote mínimo y lote máximo; y
-
-Frente, fondo y superficie de los predios;
-
-III. Para regular la intensidad del uso de suelo:
-
-COS= Coeficiente de Ocupación del Suelo.
-
-CUS= Coeficiente de Utilización del Suelo.
-
-CAS= Coeficiente de Absorción del Suelo;
-
-IV. Para regular las envolventes de construcción:
-
-Altura máxima permitida.
-
-Áreas de restricción al frente del predio.
-
-Áreas de restricción al fondo del predio.
-
-Áreas de restricción laterales; y
-
-Frente máximo del lote destinado al acceso de vehículos;
-
-V. Para regular la imagen urbana:
-
-Proporción.
-
-Ritmo.
-
-Elementos arquitectónicos característicos.
-
-Materiales de la región.
-
-Textura y color.
-
-Se tomarán en cuenta los parámetros que determinan las tablas reglamentarias para uso del suelo y restricciones de lotificación y construcción para efectos de normatividad, las cuales deberán quedar establecidas en el Reglamento; y
-
-VI. Para regular la ubicación de comercios, en general la autoridad dictaminará la factibilidad de funcionamiento del predio bajo las siguientes características:
-
-Permitido.
-
-Condicionado.
-
-Prohibido.
+Los proyectos de obras deberán tomar en consideración los aspectos de compatibilidad de uso con las lotificaciones, construcciones nuevas, restauraciones, demoliciones, ampliaciones y modificaciones, tomando como base los usos y destinos propuestos en los diferentes programas de desarrollo urbano.
 
 ###### Artículo 345.
 
@@ -3941,9 +4127,11 @@ Una vez realizada la individualización de tomas, los condóminos estarán oblig
 
 En su caso, el pago de las diferencias señaladas en el párrafo anterior, podrá hacerse mediante el cargo realizado a los recibos individuales de cada uno de los condóminos, dividiéndose en partes iguales entre el número de contratos que conformen el condominio.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 430.
 
-En el caso de la construcción de nuevos fraccionamientos, el desarrollador deberá instalar doble línea, una para la introducción del agua potable a la vivienda y otra para la introducción de agua tratada para uso en el retrete y en las áreas verdes de la misma.
+En el caso de la construcción de nuevos fraccionamientos y cuando la Comisión Estatal de Aguas determine la posibilidad de la introducción de agua tratada para el uso en el retrete y en las áreas verdes del mismo, el desarrollador deberá instalar doble línea, una para la introducción del agua potable y otra para el agua tratada.
 
 ###### Artículo 431.
 
@@ -4243,7 +4431,7 @@ El acuerdo que contenga las tarifas fijadas por el Consejo Directivo de la Comis
 
 ###### Artículo 465.
 
-La determinación de las tarifas por la prestación de los servicios de alcantarillado, se hará con base en la tasa accesoria al costo del servicio de agua potable que se determine en los estudios socioeconómicos, para establecer las tarifas que realice la Comisión Estatal de Aguas, que considerará el costo de construcción, operación, administración, mantenimiento, sustitución y conservación, el volumen de agua residual y el uso autorizado; lo anterior, para aquellos usuarios que cuenten con un contrato para la prestación de los servicios.
+La determinación de las tarifas por la prestación de los servicios de alcantarillado, se hará con base en la tasa accesoria al costo del servicio de agua potable que se determine en los estudios socio-económicos, para establecer las tarifas que realice la Comisión Estatal de Aguas, que considerará el costo de construcción, operación, administración, mantenimiento, sustitución y conservación, el volumen de agua residual y el uso autorizado; lo anterior, para aquellos usuarios que cuenten con un contrato para la prestación de los servicios.
 
 Dicha tarifa será aplicable para aquellos usuarios de este servicio que realicen aprovechamientos de una fuente distinta a la del sistema de agua potable a cargo de la Comisión Estatal de Aguas; así también, para los usuarios que se encuentren en los supuestos establecidos en el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro, la determinación del cobro correspondiente se realizará con base a la determinación del volumen de agua residual descargado, será conforme al gasto máximo instantáneo o el determinado conforme al medidor volumétrico, instalado por la Comisión Estatal de Aguas en el punto de descarga.
 
@@ -4968,5 +5156,11 @@ Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jera
 P.O. 31 DE OCTUBRE DE 2014.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE MAYO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
