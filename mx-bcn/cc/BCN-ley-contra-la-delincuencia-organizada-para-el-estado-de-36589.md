@@ -4,7 +4,7 @@ identifier: "BCN-ley-contra-la-delincuencia-organizada-para-el-estado-de-36589"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2013-07-19"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -55,11 +55,19 @@ V. Ley Orgánica: La Ley Orgánica de la Procuraduría General de Justicia del E
 
 VI. Miembros de la Delincuencia Organizada: Aquellas personas que, siendo autores o partícipes, desempeñen actividades comprendidas dentro de las funciones de administración, dirección, supervisión o cualquier otra, que tengan como objetivo o resultado la comisión del delito de delincuencia organizada, así como de acciones delictivas derivadas de ésta;
 
-VIl. Ministerio Público: El que pertenece a la subprocuraduría encargada de la investigación y persecución de los delitos cometidos por Miembros de la Delincuencia Organizada;
+VII. Ministerio Público: El que pertenece a la subprocuraduría encargada de la investigación y persecución de los delitos cometidos por Miembros de la Delincuencia Organizada;
 
-VII. Subprocuraduría contra la Delincuencia Organizada: La unidad de la Procuraduría General de Justicia del Estado encargada de la investigación y persecución de delitos cometidos por Miembros de la Delincuencia Organizada, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Subprocurador: El titular de la Subprocuraduría Contra la Delincuencia Organizada.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VIII. Subprocuraduría de Investigaciones Especiales: La unidad de la Procuraduría General de Justicia del Estado encargada de la investigación y persecución de delitos cometidos por Miembros de la Delincuencia Organizada; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IX. Subprocurador: El titular de la Subprocuraduría de Investigaciones Especiales.
 
 ###### ARTÍCULO 3.
 
@@ -147,19 +155,31 @@ Los plazos para la prescripción de la pretensión punitiva y de la potestad de 
 
 ### CAPÍTULO SEGUNDO. DE LA INVESTIGACIÓN DE LA DELINCUENCIA ORGANIZADA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 8.
 
-La Subproprocuraduría (sic) Contra la Delincuencia Organizada, tendrá a su cargo la investigación y persecución de los delitos a que se refiere esta Ley, que se cometan por Miembros de la Delincuencia Organizada, en los términos previstos en la misma y demás leyes aplicables en la materia.
+La Subprocuraduría de Investigaciones Especiales, tendrá a su cargo la investigación y persecución de los delitos a que se refiere esta Ley, que se cometan por Miembros de la Delincuencia Organizada, en los términos previstos en la misma y demás leyes aplicables en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 9.
 
-La Subprocuraduría Contra la Delincuencia Organizada, contará para el desempeño de su función con los servidores públicos necesarios, los cuales deberán reunir el perfil y los requisitos que aseguren un alto nivel profesional, de conformidad con la Ley Orgánica y su reglamento.
+La Subprocuraduría de Investigaciones Especiales, contará para el desempeño de su función con los servidores públicos necesarios, los cuales deberán reunir el perfil y los requisitos que aseguren un alto nivel profesional, de conformidad con la Ley Orgánica y su reglamento.
 
 ### CAPÍTULO TERCERO. DEL ARRAIGO DEL INCULPADO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-Cuando existan indicios suficientes que acrediten fundadamente que alguien es Miembro de la Delincuencia Organizada, el Juez podrá dictar, a solicitud del Ministerio Público y tomando en cuenta las características del hecho imputado, así como las circunstancias personales del inculpado, el arraigo de éste en el lugar, forma y medios de realización señalados en la solicitud. Corresponde a la Subprocuraduría Contra la Delincuencia Organizada, vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
+Cuando existan indicios suficientes que acrediten fundadamente que alguien es Miembro de la Delincuencia Organizada, el Juez podrá dictar, a solicitud del Ministerio Público y tomando en cuenta las características del hecho imputado, así como las circunstancias personales del inculpado, el arraigo de éste en el lugar, forma y medios de realización señalados en la solicitud. Corresponde a la Subprocuraduría de Investigaciones Especiales, vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
 
 El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación previa, no pudiendo exceder de noventa días, con el objeto de que el afectado participe en la aclaración de los hechos que se le imputan y pueda abreviarse el tiempo de la medida impuesta.
 
@@ -285,9 +305,13 @@ Las pruebas desahogadas durante un proceso penal, podrán servir de base al Mini
 
 ### CAPÍTULO NOVENO. DE LA PRISIÓN PREVENTIVA Y EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 26.
 
-Los Miembros de la Delincuencia Organizada que hayan colaborado para la persecución y procesamiento de otros Miembros de la Delincuencia Organizada, deberán ser recluidos ya sea en prisión preventiva o en ejecución de sentencia en centros de readaptación social diferentes a aquellos donde se encuentren los miembros señalados.
+Los Miembros de la Delincuencia Organizada que hayan colaborado para la persecución y procesamiento de otros Miembros de la Delincuencia Organizada, deberán ser recluidos ya sea en prisión preventiva o en ejecución de sentencia en centros de reinserción social diferentes a aquellos donde se encuentren los miembros señalados.
 
 ###### ARTÍCULO 27.
 
@@ -358,3 +382,27 @@ P.O. 30 DE DICIEMBRE DE 2011.
 P.O. 19 DE JULIO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Periódico Oficial de Estado de Baja California.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
