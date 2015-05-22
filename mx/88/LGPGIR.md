@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2014-12-05"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -768,9 +768,15 @@ En cualquier caso los generadores deberán dejar libres de residuos peligrosos y
 
 Los grandes generadores de residuos peligrosos, están obligados a registrarse ante la Secretaría y someter a su consideración el Plan de Manejo de Residuos Peligrosos, así como llevar una bitácora y presentar un informe anual acerca de la generación y modalidades de manejo a las que sujetaron sus residuos de acuerdo con los lineamientos que para tal fin se establezcan en el Reglamento de la presente Ley, así como contar con un seguro ambiental, de conformidad con la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 47.
 
-Los pequeños generadores de residuos peligrosos, deberán de registrarse ante la Secretaría y contar con una bitácora en la que llevarán el registro del volumen anual de residuos peligrosos que generan y las modalidades de manejo, sujetar sus residuos a planes de manejo, cuando sea el caso, así como cumplir con los demás requisitos que establezcan el Reglamento y demás disposiciones aplicables.
+Los pequeños generadores de residuos peligrosos, deberán de registrarse ante la Secretaría y contar con una bitácora en la que llevarán el registro del volumen anual de residuos peligrosos que generan y las modalidades de manejo, así como el registro de los casos en los que transfieran residuos peligrosos a industrias para que los utilicen como insumos o materia prima dentro de sus procesos indicando la cantidad o volumen transferidos y el nombre, denominación o razón social y domicilio legal de la empresa que los utilizará.
+
+Aunado a lo anterior deberán sujetar sus residuos a planes de manejo, cuando sea el caso, así como cumplir con los demás requisitos que establezcan el reglamento y demás disposiciones aplicables.
+
+La información a que se refiere este artículo deberá ser publicada en el Sistema Nacional de Información Nacional para la Gestión Integral de Residuos, conforme a lo previsto por las disposiciones aplicables en materia de transparencia y acceso a la información.
 
 ###### Artículo 48.
 
@@ -1583,3 +1589,9 @@ SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 5 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE MAYO DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría realizará las reformas a que haya lugar al Reglamento de la presente Ley.
