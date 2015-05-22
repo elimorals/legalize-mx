@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2015-05-15"
+last_updated: "2015-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -547,9 +547,11 @@ Cuando los servidores públicos mencionados en el artículo 3 de esta Ley, incur
 
 La responsabilidad administrativa por infracciones a ésta Ley y a la normatividad aplicable, en la cual se incurra durante el tiempo de su encargo por cualquier servidor público, será exigible aún cuando el presunto responsable no se desempeñe en el servicio público, de acuerdo con los plazos de prescripción consignados en el artículo 72 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 49.
 
-Cuando no sea aprobada una Cuenta Pública conforme a la Ley de la materia, las autoridades a que se refiere el artículo 5 de esta Ley en el ámbito de su competencia y de conformidad a la legislación respectiva, después de observarse el procedimiento correspondiente, en su caso sancionará al servidor público responsable o responsables de la misma, con fundamento en la presente Ley.
+Cuando no sea aprobada una Cuenta Pública conforme a la Ley de la materia, o cuando la misma sea aprobada, pero contenga observaciones que impliquen afectación a las haciendas públicas o al patrimonio de los Poderes del Estado, los Municipios del Estado, Entidades Paraestatales, Entidades Paramunicipales u Órganos Autónomos, las autoridades a que se refiere el artículo 5 de esta Ley en el ámbito de su competencia y de conformidad a la legislación respectiva, después de observarse el procedimiento correspondiente, en su caso sancionará al servidor público responsable o responsables de la misma, con fundamento en la presente Ley.
 
 ###### ARTÍCULO 50.
 
@@ -1100,3 +1102,7 @@ P.O. 27 DE MARZO DE 2015.
 P.O. 15 DE MAYO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
