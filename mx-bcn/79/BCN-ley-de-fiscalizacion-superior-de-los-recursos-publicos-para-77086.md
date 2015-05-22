@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-de-los-recursos-publicos-para-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2013-10-18"
+last_updated: "2015-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -647,11 +647,11 @@ Una vez dictaminadas las Cuentas Públicas por el Congreso del Estado, la Comisi
 
 Las observaciones pendientes de resolver en el plazo señalado en el párrafo anterior deberán ser objeto de atención y seguimiento hasta su total resolución.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 64.
 
-Los Síndicos Procuradores y los titulares de los Órganos de Control de las Entidades fiscalizadas deberán presentar al Congreso a más tardar el último día hábil de los meses de enero, abril, julio y octubre de cada año, un informe indicando el avance en las acciones tomadas, las observaciones que durante dichos períodos hayan sido resueltas, señalando cómo se resolvieron o qué sanción se impuso, así como las que continúen pendientes de resolver, justificando de manera fehaciente el motivo por el cual no se ha iniciado procedimiento, o en su caso dictado resolución; de haberse iniciado el procedimiento administrativo correspondiente, deberá señalarse en qué etapa se encuentra. El informe deberá clasificar las observaciones por Entidad y Ejercicio Fiscal al que corresponda la Cuenta Pública de que se traten las observaciones.
+Los Síndicos Procuradores y los titulares de los Órganos de Control de las Entidades fiscalizadas deberán presentar al Congreso a más tardar el último día hábil de los meses de enero, abril, julio y octubre de cada año, un informe indicando el avance en las acciones tomadas, las observaciones que durante dichos períodos hayan sido resueltas, señalando cómo se resolvieron o qué sanción se impuso, así como las que continúen pendientes de resolver, justificando de manera fehaciente el motivo por el cual no se ha iniciado la investigación administrativa y/o el procedimiento administrativo de responsabilidad, o en su caso dictado resolución; de haberse iniciado el procedimiento administrativo correspondiente, deberá señalarse en qué etapa se encuentra. El informe deberá clasificar las observaciones por Entidad y Ejercicio Fiscal al que corresponda la Cuenta Pública de que se traten las observaciones.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -1242,3 +1242,7 @@ P.O. 18 DE OCTUBRE DE 2013.
 PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Túrnese las presentes Reformas al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE MAYO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
