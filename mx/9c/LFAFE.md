@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "2004-01-23"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -68,7 +68,7 @@ Las autoridades de los Estados, del Distrito Federal y de los Municipios, en sus
 
 Corresponde al Ejecutivo de la Unión por conducto de las Secretarías de Gobernación y de la Defensa Nacional, dentro de las respectivas atribuciones que esta Ley y su Reglamento les señalen, el control de todas las armas en el país, para cuyo efecto se llevará un Registro Federal de Armas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 5.
 
@@ -168,9 +168,9 @@ l).- Artificios de guerra, gases y substancias químicas de aplicación exclusiv
 
 En general, todas las armas, municiones y materiales destinados exclusivamente para la guerra.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2015)</small>
 
-Las de este destino, mediante la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito Federal, de los Estados o de los Municipios.
+Las de este destino, mediante la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito Federal, de los Estados o de los Municipios, así como a servidores públicos extranjeros en los casos a que se refieren los artículos 28 y 28 Bis de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -214,7 +214,7 @@ Toda persona que adquiera una o más armas, está obligada a manifestarlo a la S
 
 Los servidores públicos y jefes de los cuerpos de policía federales, del Distrito Federal, de los Estados y de los Municipios, están obligados a hacer la manifestación a que se refiere el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 19.
 
@@ -312,13 +312,65 @@ Previa autorización de la Secretaría de la Defensa Nacional, los titulares de 
 
 El término para expedir las licencias particulares y colectivas será de cincuenta días hábiles, contados a partir de que se presenta la solicitud correspondiente.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 27.
 
-A los extranjeros sólo se les podrá autorizar la portación de armas cuando, además de satisfacer los requisitos señalados en el artículo anterior, acrediten su calidad de inmigrados, salvo el caso del permiso de licencia temporal para turistas con fines deportivos.
+A los extranjeros sólo se les podrá autorizar la portación de armas cuando, además de satisfacer los requisitos señalados en el artículo anterior, acrediten su calidad de residentes permanentes, salvo en los casos de permisos de licencia temporal para turistas con fines deportivos.
+
+La Secretaría de la Defensa Nacional podrá expedir permisos extraordinarios de ingreso y portación temporal de armas de fuego a servidores públicos extranjeros de migración o aduanas, en los casos y con los requisitos previstos en los artículos 28 y 28 Bis de esta Ley, los cuales podrán cancelarse, sin perjuicio de aplicar las sanciones que procedan, en los casos que prevé el artículo 31 de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 28.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+Con base en el principio de reciprocidad, la Secretaría de la Defensa Nacional podrá autorizar la portación temporal de armas a los servidores públicos extranjeros de migración o aduanas, debidamente acreditados ante el Gobierno Federal, que participen en la revisión migratoria en los puntos de tránsito internacionales o el despacho conjunto de mercancías en las aduanas nacionales, respectivamente, conforme a la legislación aplicable y a los acuerdos interinstitucionales que deberán celebrarse para tal efecto.
+
+La Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de tramitar ante la Secretaría de la Defensa Nacional, cuando menos con 15 días de anticipación al inicio de la comisión, los permisos extraordinarios de ingreso y portación temporal de armas de fuego respectivos, proporcionando para tal efecto la siguiente información:
+
+I. Copia del acuerdo interinstitucional a que se refiere el primer párrafo de este artículo;
+
+II. Nombre y fecha de nacimiento del servidor público extranjero;
+
+III. Local o instalación en que se realizará la comisión oficial;
+
+IV. Duración de la comisión oficial;
+
+V. Acciones que pretenda realizar el servidor público extranjero;
+
+VI. Datos de las armas y calibres que pretenda portar el servidor público extranjero, incluyendo la huella balística, y
+
+VII. Opinión de la Secretaría de Gobernación o de la Secretaría de Hacienda y Crédito Público, según sea el caso.
+
+Dichos permisos tendrán una vigencia de 6 meses; en caso de que la comisión sea mayor a este período podrán renovarse semestralmente.
+
+Los servidores públicos extranjeros a que se refiere este artículo sólo podrán portar las armas que utilizan en su país de origen, como parte del equipamiento asignado por la institución a la que pertenecen, siempre que se trate de revólveres o pistolas de funcionamiento semiautomático cuyo calibre no sea superior a .40” o equivalente.
+
+La Secretaría de la Defensa Nacional determinará en los permisos extraordinarios el arma autorizada, el local o la instalación en que será válida la portación y los demás límites o restricciones que sean aplicables.
+
+La Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de dar aviso a la Secretaría de la Defensa Nacional, respecto del cambio de local o instalación, así como la finalización de la comisión, para los efectos correspondientes.
+
+En el caso de servidores públicos mexicanos que, con base en el principio de reciprocidad y los acuerdos interinstitucionales a que se refiere el primer párrafo del presente artículo, participen en las actividades migratorias o aduaneras realizadas en instalaciones de países extranjeros, la Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de dar aviso a la Secretaría de la Defensa Nacional respecto de la salida y retorno de las armas que porten dichos servidores públicos.
+
+El personal y armamento considerado para prestar el apoyo en el extranjero deberá estar previamente incluido en la licencia oficial colectiva respectiva.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2015)</small>
+
+ARTICULO 28 BIS.- La Secretaría de la Defensa Nacional podrá otorgar, con base en el principio de reciprocidad, permisos extraordinarios de ingreso y portación temporal de armas de fuego a los servidores públicos extranjeros que acompañen como agentes de seguridad, en visitas oficiales, a Jefes de Estado, jefes de gobierno, ministros o equivalentes, siempre que se trate de revólveres o pistolas de funcionamiento semiautomático, cuyo calibre no sea superior a .40" o equivalente.
+
+En casos excepcionales, se podrá autorizar el ingreso y portación de otro tipo de armas, siempre que a juicio de la Secretaría de la Defensa Nacional se justifique la necesidad de su uso.
+
+La Secretaría de Relaciones Exteriores será responsable de tramitar dichos permisos ante la Secretaría de la Defensa Nacional, cuando menos con quince días de anticipación al inicio de la visita y a solicitud del Estado o sujeto de derecho internacional correspondiente, proporcionando para tal efecto la siguiente información:
+
+I. Nombres y fechas de nacimiento de los servidores públicos extranjeros que fungirán como agentes de seguridad;
+
+II. Duración y lugar de la visita oficial;
+
+III. Datos de las armas y calibres que pretendan portar dichos servidores públicos extranjeros, y
+
+IV. Opinión de la Secretaría de Relaciones Exteriores para conceder el permiso.
+
+Dicho permiso tendrá una vigencia durante el tiempo que dure la comisión de la visita oficial.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
@@ -852,7 +904,7 @@ Al residente en el extranjero que por primera ocasión introduzca una sola arma 
 
 ###### ARTICULO 84 Ter.
 
-Las penas a que se refieren los artículos 82, 83, 83 Bis, 83 Ter, 83 Quat, 84 y 84 Bis de esta Ley se aumentarán hasta en una mitad cuando el responsable sea o haya sido servidor público de alguna corporación policial, miembro de algún servicio privado de seguridad o miembro del Ejército, Armada o Fuerza Aérea en situación de retiro, de reserva o en activo.
+Las penas a que se refieren los artículos 82, 83, 83 Bis, 83 Ter, 83 Quat (sic), 84 y 84 Bis de esta Ley se aumentarán hasta en una mitad cuando el responsable sea o haya sido servidor público de alguna corporación policial, miembro de algún servicio privado de seguridad o miembro del Ejército, Armada o Fuerza Aérea en situación de retiro, de reserva o en activo.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
@@ -872,7 +924,7 @@ II. A los comerciantes en armas que sin permiso transmitan la propiedad de los o
 
 III. A quienes dispongan indebidamente de las armas con que se haya dotado a los cuerpos de policía federales, estatales o municipales o al Ejército, Armada o Fuerza Aérea.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 86.
 
@@ -890,7 +942,7 @@ La pena de prisión prevista por este artículo se aumentará al doble cuando el
 
 Si el transporte es de las armas comprendidas en el artículo 11 de esta Ley, excepto las mencionadas en los incisos a), b) e i), la pena será de cinco a treinta años de prisión y de veinte a quinientos días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 87.
 
@@ -962,7 +1014,7 @@ México, D. F., a 29 de diciembre de 1971.- Víctor Manzanilla Schaffer, S. P.- 
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y uno.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Olachea Borbón.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 23 DE DICIEMBRE DE 1974.
 
@@ -972,7 +1024,7 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 
 D.O.F. 31 DE DICIEMBRE DE 1981.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -994,7 +1046,7 @@ UNICO.- El presente Decreto entrará en vigor el 1o. de febrero de 1989.
 
 D.O.F. 27 DE DICIEMBRE DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1004,7 +1056,7 @@ I.- Los artículos 46 y 47 de la Ley Federal de Armas de Fuego y Explosivos, pub
 
 D.O.F. 22 DE JULIO DE 1994.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1031,3 +1083,9 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente
 D.O.F. 23 DE ENERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE MAYO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor de las presentes modificaciones y adiciones a la presente Ley se realizarán con cargo al presupuesto autorizado para tal fin a las dependencias de la Administración Pública Federal que correspondan, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
