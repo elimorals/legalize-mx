@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2013-10-18"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -53,7 +53,7 @@ IV.- Erradicar y sancionar el maltrato y los actos de crueldad para con los anim
 
 V.- Fomentar en la población, la educación ecológica y el amor a la naturaleza, principalmente en cuanto a la conducta protectora que deberán brindarse a los animales;
 
-VI.- Conservar y mejorar, el medio ambiente y ecológico en que se desarrolla la vida de los animales, y (sic)
+VI.- Conservar y mejorar, el medio ambiente y ecológico en que se desarrolla la vida de los animales, y
 
 VII.- Promover el respeto y consideración hacia estos animales.
 
@@ -247,6 +247,14 @@ El traslado de los animales por acarreo en cualquier tipo de vehículo, obliga a
 
 Queda estrictamente prohibido transportar animales arrastrándolos suspendidos de los miembros superiores o inferiores, en costales o cajuelas de automóviles, y tratándose de aves, con las alas cruzadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2015)</small>
+
+Cada municipio dispondrá de vehículos para la captura y traslado de animales abandonados y cadáveres de animales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2015)</small>
+
+Bajo ninguna circunstancia podrán trasladarse o movilizarse en el mismo vehículo, animales vivos junto con cadáveres de animales.
+
 ###### ARTICULO 27.
 
 Para el transporte de cuadrúpedos, se emplearán vehículos que los protejan del sol y de la lluvia. Tratándose de animales más pequeños, las cajas o huacales deberán tener ventilación y amplitud apropiada, y su construcción será lo suficientemente sólida como para resistir sin deformarse, el peso de otras cajas que se coloquen encima.
@@ -365,27 +373,43 @@ Un animal capturado podrá ser reclamado por su dueño dentro de 72 horas siguie
 
 En caso de que el animal no sea reclamado a tiempo por su dueño, las autoridades podrán sacrificarlo, empleando para ello los métodos que se describen en el artículo 43 de esta ley, quedando expresamente prohibido el proceder a ello por medio de golpes o ahorcamiento, así como el uso de ácidos corrosivos, estricnina, warfarina, cianuro, arsénico, cloruro de potasio u otras sustancias similares.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2015)</small>
+
+Los municipios contarán con una fosa destinada a la inhumación de cadáveres y restos de animales en los lugares autorizados por la Secretaría de Protección al Ambiente del Estado.
+
 ###### ARTICULO 49.
 
 Para los efectos del artículo anterior, los centros antirrábicos y dependencias similares aceptarán el asesoramiento y colaboración de representantes de las sociedades protectoras de animales, siempre y cuando estas lo hayan solicitado formalmente a través de convenios especiales en que se les faculte a intervenir. Además, deberán emplear en el manejo y sacrificio de animales a individuos con un grado de instrucción suficiente para atender su tarea.
 
 ### CAPITULO IX. DE LOS CADAVERES DE ANIMALES
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 50.
 
-Corresponde a la autoridad municipal resolver sobre el transporte y disposición final de un animal muerto en la vía pública o a petición de parte interesada, según el procedimiento que señala el reglamento.
+Las autoridades municipales estarán obligadas a prestar el servicio de acopio, traslado y disposición adecuada de cadáveres de animales muertos en la vía pública o a petición de parte interesada.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 51.
 
-Todo particular tiene la obligación de avisar a la dependencia que corresponda, la existencia de animales muertos en la vía pública.
+Los animales muertos en vía pública serán acopiados y trasladados para su inhumación a la fosa o cremación, por las autoridades municipales que al efecto se determinen en el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 52.
 
-La autoridad municipal poseerá un centro de acopio encargado de recibir los cadáveres de animales; para que previo pago de los derechos señalados en la Ley de ingresos municipal, disponga en forma final de los mismos.
+Las personas que necesiten deshacerse de cadáveres de animales lo harán a través de las autoridades municipales que al efecto se determinen en el reglamento correspondiente, las cuales procederán a su acopio, traslado y envío para su inhumación a la fosa o cremación, previo el pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 53.
 
-Serán sancionados en los términos del reglamento los particulares que no cumpliendo la disposición anterior, abandonen el cadáver de un animal en la vía pública o intemperie.
+Para el caso de que el propietario, poseedor o encargado de un animal, desee transportar el cadáver de un animal para su inhumación o cremación, éste se deberá realizar bajo las condiciones que garantice su adecuado manejo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+ARTICULO 53 BIS.- El personal que intervenga en el acopio y traslado de cadáveres de animales, así como el personal encargado de su inhumación deberá estar plenamente capacitado.
 
 ### CAPITULO X. SANCIONES
 
@@ -542,3 +566,17 @@ P.O. 18 DE OCTUBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Protección al Ambiente, en coordinación con la Secretaría de Salud, deberá expedir el Manual de Operación de Fosas de Cadáveres de Animales en un término no mayor al de 180 días contados a partir de la publicación del presente decreto.
+
+TERCERO.- Las autoridades municipales tendrán hasta un año, contado a partir de la expedición del Manual de Operación de Fosas de Cadáveres de Animales, para expedir las disposiciones reglamentarias correspondientes, y para llevar a cabo las adecuaciones que sean necesarias para el efectivo acopio, traslado y envío de los cadáveres de animales a la fosa para su inhumación, así como para capacitar al personal que realizará dichas actividades.
+
+CUARTO.- Las autoridades municipales tendrán hasta un año, contado a partir de la expedición del reglamento municipal correspondiente, para diseñar, construir, organizar, operar y mantener una fosa exclusivamente para la inhumación de cadáveres de animales, bajo los lineamientos establecidos en el referido Manual.
+
+QUINTO.- Respecto al costo del servicio al que se refiere el Artículo 52 de esta Ley, los Ayuntamientos del Estado de Baja California deberán realizar las adecuaciones conducentes a sus respectivas Leyes de Ingresos, a efecto de la correcta aplicación de la presente reforma.
+
+SEXTO.- Se derogan todas aquellas disposiciones contrarias a las presentes reformas.
