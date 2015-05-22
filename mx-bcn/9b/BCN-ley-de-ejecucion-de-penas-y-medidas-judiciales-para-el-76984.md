@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2015-03-27"
+last_updated: "2015-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015, LAS MENCIONES QUE SE HAGA RESPECTO A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -55,7 +57,11 @@ I.- Regular y establecer la organización y funcionamiento de las instituciones 
 
 II.- Establecer las bases generales del Sistema Estatal Penitenciario, así como la dirección, organización, administración y funcionamiento de los Centros de Reinserción Social en la Entidad;
 
-III.- Determinar las bases en materia de ejecución y vigilancia de las medidas cautelares decretadas, providencias precautorias y aquellas condiciones por cumplir que deriven de la celebración de la suspensión del proceso a prueba en los procedimientos penales;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III.- Determinar las bases en materia de ejecución y vigilancia de las medidas cautelares decretadas, y aquellas condiciones por cumplir que deriven de la celebración de la suspensión condicional del proceso en los procedimientos penales;
 
 IV.- Regular la ejecución y vigilancia de las penas, medidas de seguridad, suspensión condicional de la ejecución de la pena y sustitutivos penales impuestos o concedidos mediante sentencia que haya causado ejecutoria;
 
@@ -79,11 +85,19 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I.- Centros: Cualquiera de los Centros de Reinserción Social del Estado;
 
-II.- Código de Procedimientos: Código de Procedimientos Penales para el Estado de Baja California, publicado en el Periódico Oficial del Estado de fecha 19 de Octubre de 2007;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II.- Código Nacional: Código Nacional de Procedimientos Penales.
 
 III.- Consejo Técnico: Consejo Técnico Interdisciplinario constituido en cada uno de los Centros;
 
-IV.- Defensor: Defensor Público o privado a que se refiere el artículo 7 del Código de Procedimientos;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV.- Defensor: Defensor Público o Particular.
 
 V.- Director: Director de cualquiera de los Centros del Estado;
 
@@ -93,13 +107,21 @@ VII.- Dirección de Ejecución: Dirección de Ejecución de Penas y Medidas Judi
 
 VIII.- Dirección de Programas: Dirección de Programas de Reinserción Social de la Subsecretaría del Sistema Estatal Penitenciario de la Secretaría de Seguridad Pública del Estado;
 
-IX.- Interno: Cualquier persona que en calidad de Imputado, Procesado o Sentenciado se encuentre privada de su libertad en un Centro o Centro de Detención Provisional;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IX.- Interno: Cualquier persona que en calidad de imputado, acusado o sentenciado se encuentre privada de su libertad en un Centro o Centro de Detención Provisional.
 
 X.- Juez de Ejecución: Juez encargado de vigilar las finalidades constitucionales y legales de la pena, su ejecución, modificación y duración; así como resolver sobre el otorgamiento de los beneficios de libertad anticipada, el cual será designado en la forma y términos previstos en la Ley Orgánica del Poder Judicial del Estado;
 
 XI.- Ley: Ley de Ejecución de Penas y Medidas Judiciales para el Estado de Baja California;
 
-XII.- Medidas judiciales: Medidas cautelares, providencias precautorias y aquellas condiciones por cumplir que deriven de la celebración de la suspensión del proceso a prueba en los procedimientos penales;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XII.- Medidas judiciales: Medidas cautelares y aquellas condiciones por cumplir que deriven de la celebración de la suspensión condicional del proceso en los procedimientos penales.
 
 XIII.- Miembros: Elementos de la Policía Estatal de Seguridad y Custodia Penitenciaria;
 
@@ -137,19 +159,41 @@ IX.- Supervisar la vigilancia a que serán sometidas las personas sujetas a trat
 
 X.- Supervisar el cumplimiento de las obligaciones a que estarán sujetas las personas que gocen de los beneficios señalados en esta Ley, en los términos y condiciones que determine la autoridad judicial.
 
-XI.- Supervisar la vigilancia a que serán sometidas las personas sujetas a medida cautelar, providencias precautorias, suspensión de proceso a prueba, sustitutivos penales y suspensión de la ejecución de la pena, en los términos y condiciones que determine la autoridad judicial.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XI.- Supervisar la vigilancia a que serán sometidas las personas sujetas a medida cautelar o suspensión condicional del proceso, en los términos y condiciones que determine la autoridad judicial;
 
 XII.- Fomentar la capacitación del personal de la Subsecretaría en todos sus niveles, de acuerdo a las necesidades del servicio.
 
-XIII.- Ejecutar las penas y medidas judiciales de conformidad con esta Ley y demás disposiciones normativas aplicables.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XIII.- Supervisar las penas y medidas judiciales de conformidad con esta Ley y demás disposiciones normativas aplicables;
 
 XIV.- Expedir por conducto de la Dirección de Ejecución, las constancias de antecedentes penales, de conformidad con las disposiciones aplicables, dichos antecedentes solo harán referencia a sentencias condenatorias, por delitos de carácter doloso, debidamente ejecutoriadas.
 
 XV.- Conocer, sustanciar y resolver por conducto de la Dirección de Ejecución, los recursos de inconformidad que se interpongan contra la resolución inicial y definitiva en materia de menores infractores, las que modifiquen o den por terminado el tratamiento Interno del menor y los autos que emitan los consejeros de conformidad con la Ley de Menores Infractores de Baja California.
 
-XVI.- Realizar la evaluación de riesgo para recomendar a las partes las medidas cautelares idóneas, con el objeto de que estas le proporcionen dicha información al Juez de Garantía; y
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVII.- Las demás que le confieran esta Ley y las demás disposiciones normativas aplicables.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XVI.- Realizar por conducto de la Dirección de Ejecución, la evaluación de riesgo a petición de alguna de las partes para determinar el nivel de riesgo procesal que representa un imputado, con el objeto de que las partes, en su caso, le proporcionen dicha información al Juez de Control y se imponga la medida cautelar más idónea;
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XVII.- Supervisar la vigilancia de las medidas de protección que le competan en los términos del Código Nacional; y
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
+
+XVIII.- Las demás que le confieran esta Ley y las demás disposiciones normativas aplicables.
 
 ### CAPÍTULO II. DEL PERSONAL ENCARGADO DE LA REINSERCION SOCIAL
 
@@ -179,9 +223,13 @@ VI.- Tener una edad de 30 a 65 años a la fecha de su nombramiento, y
 
 VII.- Aprobar los procesos de evaluación de control de confianza establecidas por las disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-El personal directivo de los Centros deberá dedicarse exclusivamente a su función oficial; sin embargo, funciones docentes, siempre y cuando no afecte el servicio público a que se refiere el presente artículo.
+El personal directivo de los Centros deberá dedicarse exclusivamente a su función oficial; sin embargo, el superior jerárquico podrá autorizar que desempeñe funciones docentes, siempre y cuando no afecte el servicio público a que se refiere el presente artículo.
 
 ###### ARTÍCULO 11.
 
@@ -255,15 +303,35 @@ Las áreas señaladas en las fracciones anteriores podrán estar integradas en u
 
 El Director del Centro en el que se encuentre internado el Imputado, que dentro del plazo de setenta y dos horas, no reciba copia autorizada del auto de formal prisión, auto de vinculación a proceso y del que decrete la prisión preventiva o de sujeción a proceso, o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención de la autoridad judicial competente sobre dicho particular, en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al Imputado en libertad.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+ARTÍCULO 18 BIS.- El Director del Centro, al recibir la notificación respectiva de que fue dictado el auto de vinculación a proceso deberá proceder a identificar al imputado por el sistema adoptado administrativamente, a fin de integrar la información a la base de datos del Sistema Estatal de Seguridad Pública en los términos de la ley de la materia.
+
+En caso de recibir comunicación respecto a las resoluciones que pongan fin al proceso y que hayan causado ejecutoria, se deberán hacer las anotaciones respectivas en el citado sistema.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 19.
 
-El área de custodia procesal sólo albergará a los Procesados que se encuentren a disposición de la autoridad judicial, y estará destinada exclusivamente a:
+El área de custodia procesal sólo albergará a los Acusados que se encuentren a disposición de la autoridad judicial, y estará destinada exclusivamente a:
 
-I.- La prisión preventiva de los Procesados en cualquier instancia.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+I.- La prisión preventiva de los Acusados en cualquier instancia;
 
 II.- La custodia de Internos cuya condena no haya causado ejecutoria o haya sido motivo de recurso de revisión o juicio de amparo.
 
-III.- El aseguramiento de Procesados o Sentenciados, mientras se realiza el trámite de extradición ordenada por la autoridad competente.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III.- El aseguramiento de Acusados o Sentenciados, mientras se realiza el trámite de extradición ordenada por la autoridad competente.
 
 ###### ARTÍCULO 20.
 
@@ -411,7 +479,11 @@ Para los efectos de esta Ley, los Internos en los Centros, se consideran:
 
 I.- Imputados, a los que mediante cualquier acto del procedimiento, sea señalado como posible autor de un hecho punible o participe en el.
 
-II.- Procesados, cuando se encuentren sometidos a la autoridad judicial, desde el momento en que se comunica oficialmente a la Dirección del Centro respectivo, el auto de formal prisión, el auto que decrete la prisión preventiva, el auto de vinculación a proceso o auto de sujeción a proceso.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II.- Acusados, cuando se encuentren sometidos a la autoridad judicial, desde el momento en que se comunica oficialmente a la Dirección del Centro respectivo, el auto de formal prisión, el auto que decrete la prisión preventiva, el auto de vinculación a proceso o auto de sujeción a proceso.
 
 III.- Senten ciados (sic), aquellos sobre quienes ha recaído una sentencia de condena firme y ha quedado a disposición de la Subsecretaría, para que ejecute las sanciones que se le hayan impuesto.
 
@@ -467,15 +539,27 @@ En el caso de Internos del fuero común, su traslado a instituciones federales, 
 
 El Ejecutivo del Estado podrá celebrar con la Federación, el Distrito Federal y cualquiera de las Entidades de la República, convenios o acuerdos de coordinación, a fin de que los Internos sometidos a una pena privativa de libertad por delitos del fuero común, cumplan su condena o medida de seguridad en Centros dependientes de las mismas, bajo pacto de reciprocidad; así como los convenios internacionales para el intercambio de Internos, en los que podrá participar la Secretaría, a través de las autoridades federales.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 49.
 
-Tratándose del traslado de Internos Procesados, se recabará previamente la autorización de la autoridad judicial competente y a cuya disposición se encuentre él o los Internos; salvo los casos de notoria urgencia en los que se ponga en peligro la vida o la integridad física de los Internos o la seguridad y el orden del Centro, en cuyo caso la Subsecretaría podrá ordenar el traslado de Internos Procesados, debiendo informarse por escrito a la autoridad judicial correspondiente a la brevedad posible.
+Tratándose del traslado de Internos Acusados, se recabará previamente la autorización de la autoridad judicial competente y a cuya disposición se encuentre él o los Internos; salvo los casos de notoria urgencia en los que se ponga en peligro la vida o la integridad física de los Internos o la seguridad y el orden del Centro, en cuyo caso la Subsecretaría podrá ordenar el traslado de Internos Acusados, debiendo informarse por escrito a la autoridad judicial correspondiente a la brevedad posible.
 
-### CAPÍTULO VIII. DE LAS REGLAS ESPECIALES PARA IMPUTADOS Y PROCESADOS
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+
+### CAPÍTULO VIII. DE LAS REGLAS ESPECIALES PARA IMPUTADOS Y ACUSADOS
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 50.
 
-Los Imputados y Procesados serán considerados y tratados con base al principio de inocencia.
+Los Imputados y Acusados serán considerados y tratados con base al principio de inocencia.
 
 ###### ARTÍCULO 51.
 
@@ -487,23 +571,37 @@ La observación y diagnóstico de los Imputados sujetos a prisión preventiva, s
 
 Una vez dictado el auto de formal prisión o de vinculación a proceso y decretada la prisión preventiva, según corresponda, el Interno será sometido a examen por el área médica, a fin de conocer su estado físico y mental; por el área de psicología, con el objeto de determinar su estado psicológico, por el área educativa, con el objeto de calificar su nivel cultural, por el área laboral, para comprobar su habilidad y capacidad para actividades de fomento laboral, por el área de trabajo social para obtener información socio-económica y por el área de criminología para saber sus antecedentes delictivos, con el propósito de obtener un diagnóstico provisional sobre su personalidad, mismo que servirá de base para la clasificación correspondiente.
 
-La información obtenida de estos estudios, no deberá ser utilizada como medio para obtener pruebas acerca de la comisión del delito o de la responsabilidad penal del Imputado o del Procesado.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+La información obtenida de estos estudios, no deberá ser utilizada como medio para obtener pruebas acerca de la comisión del delito o de la responsabilidad penal del Imputado o del Acusado.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 53.
 
-Los Imputados estarán alojados en áreas distintas de los Procesados, mientras no se resuelva su situación jurídica Constitucional. Estos últimos estarán totalmente separados de los Sentenciados.
+Los Imputados estarán alojados en áreas distintas de los Acusados, mientras no se resuelva su situación jurídica Constitucional. Estos últimos estarán totalmente separados de los Sentenciados.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 54.
 
-Sólo los Sentenciados están obligados a trabajar dentro del Centro. Los Imputados y Procesados no tienen esa obligación, pero si desean hacerlo, se les permitirá en la medida que sea posible y, en caso de que se les dicte sentencia condenatoria debidamente ejecutoriada, el tiempo trabajado se les contabilizará para el otorgamiento de la remisión parcial de la pena, conforme a lo dispuesto en la presente Ley.
+Sólo los Sentenciados están obligados a trabajar dentro del Centro. Los Imputados y Acusados no tienen esa obligación, pero si desean hacerlo, se les permitirá en la medida que sea posible y, en caso de que se les dicte sentencia condenatoria debidamente ejecutoriada, el tiempo trabajado se les contabilizará para el otorgamiento de la remisión parcial de la pena, conforme a lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 55.
 
-Los Imputados y Procesados tienen derecho a una adecuada comunicación con su defensor. Las conversaciones de los Internos con sus abogados no deberán ser escuchadas por ningún empleado o funcionario del Centro, pero la entrevista podrá ser vigilada por razones de seguridad. Cada Centro dispondrá de un área específica para las entrevistas separada del área de vigilancia. Solo a petición del defensor o del interno, podrá haber vigilancia en el mismo espacio de la entrevista.
+Los Imputados y Acusados tienen derecho a una adecuada comunicación con su defensor. Las conversaciones de los Internos con sus abogados no deberán ser escuchadas por ningún empleado o funcionario del Centro, pero la entrevista podrá ser vigilada por razones de seguridad. Cada Centro dispondrá de un área específica para las entrevistas separada del área de vigilancia. Solo a petición del defensor o del interno, podrá haber vigilancia en el mismo espacio de la entrevista.
 
-Los derechos establecidos en el artículo siguiente, también se observarán a favor de Imputados y Procesados, con las salvedades que esta Ley determine, y las demás disposiciones aplicables.
+Los derechos establecidos en el artículo siguiente, también se observarán a favor de Imputados y Acusados, con las salvedades que esta Ley determine, y las demás disposiciones aplicables.
 
 ### CAPÍTULO IX. DE LAS REGLAS ESPECIALES PARA SENTENCIADOS
 
@@ -593,9 +691,13 @@ La clasificación de la población penitenciaria deberá realizarse sólo por el
 
 La educación es la base fundamental para el desarrollo integral del ser humano, facilita el acceso a un trabajo digno permitiendo mejorar el nivel de vida, por lo cual se deberán buscar los instrumentos necesarios para que todo Interno tenga acceso a una actividad educativa de acuerdo a su nivel académico.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 71.
 
-La enseñanza que se imparta a los Procesados y Sentenciados será académica, comprendiendo los aspectos cívico, social, higiénico, artístico, físico, ético, educativo y cultural. Se inspirará en el propósito de reformar al educando, inculcándole principios de moralidad, fomentando el respeto a sí mismo, despertando sus deseos de superación y haciéndole comprender las responsabilidades de todo ser humano ante la familia, la sociedad y la patria.
+La enseñanza que se imparta a los Acusados y Sentenciados será académica, comprendiendo los aspectos cívico, social, higiénico, artístico, físico, ético, educativo y cultural. Se inspirará en el propósito de reformar al educando, inculcándole principios de moralidad, fomentando el respeto a sí mismo, despertando sus deseos de superación y haciéndole comprender las responsabilidades de todo ser humano ante la familia, la sociedad y la patria.
 
 La instrucción primaria y secundaria será obligatoria para quienes carezcan de ella, pero deberá complementarse con el aprendizaje de un oficio que permita el sostenimiento del educando y de su familia.
 
@@ -615,9 +717,13 @@ Los Internos que no hayan concluido su educación primaria y secundaria, tendrá
 
 ### CAPÍTULO IV. DE LA CULTURA
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 74.
 
-La cultura deberá ser parte esencial del tratamiento, por lo que se promoverá en sus diversas manifestaciones como un medio de sensibilización, motivación, reflexión y un elemento esencial en el desarrollo humano integral de los Procesados y Sentenciados.
+La cultura deberá ser parte esencial del tratamiento, por lo que se promoverá en sus diversas manifestaciones como un medio de sensibilización, motivación, reflexión y un elemento esencial en el desarrollo humano integral de los Acusados y Sentenciados.
 
 Las actividades culturales deberán coordinarse con las instituciones públicas o privadas dedicadas al fomento de los valores culturales y el cultivo de las bellas artes.
 
@@ -673,7 +779,11 @@ El fomento laboral gratificado estará sujeto a las siguientes normas:
 
 I.- No constituirá en modo alguno una pena adicional, sino un medio de promover la reinserción del Sentenciado, desarrollar sus aptitudes, capacitarlo para vivir honradamente, inculcarle hábitos de laboriosidad además de evitar el ocio y desorden, al mismo tiempo que le permita atender a su sostenimiento, el de su familia y cubrir la reparación del daño causado por el delito en su caso.
 
-II.- Los Sentenciados tendrán la obligación y los Procesados el derecho a realizar una actividad laboral bien sea en talleres, servicios, comisiones o en otras ocupaciones útiles, acordes con su situación física, vocación, aptitudes, oficio o profesión del Interno y las necesidades o posibilidades del Centro.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II.- Los Sentenciados tendrán la obligación y los Acusados el derecho a realizar una actividad laboral bien sea en talleres, servicios, comisiones o en otras ocupaciones útiles, acordes con su situación física, vocación, aptitudes, oficio o profesión del Interno y las necesidades o posibilidades del Centro;
 
 III.- El fomento laboral gratificado de los Sentenciados deberá ser productivo y suficiente para ocuparlos durante el término equivalente a una jornada laboral. Los Internos que por voluntad propia deseen realizar una actividad creadora, no lucrativa, deberán obtener permiso de la dirección, y estar en condiciones de cubrir su cuota de sostenimiento.
 
@@ -737,7 +847,11 @@ Los Internos con problemas de adicción que se nieguen a participar en alguna ac
 
 El tratamiento y la intervención psicológica se fundamentará en los resultados del dictamen psicológico que se le practique a los Internos, se aplicará como parte sustantiva del mismo, a través de técnicas y programas estructurados, debiendo comprender, de manera global, el diagnóstico psico-criminológico y la asistencia, ambos encaminados a minimizar el impacto negativo de la reclusión, mediante una orientación pro social que modifique los hábitos de conducta y que facilite la reinserción social.
 
-El tratamiento psicológico, se aplicará preferentemente a los Sentenciados; sin embargo, los Imputados y Procesados que requieran una atención psicológica por alguna situación extraordinaria, se les brindará el apoyo necesario.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El tratamiento psicológico, se aplicará preferentemente a los Sentenciados; sin embargo, los Imputados y Acusados que requieran una atención psicológica por alguna situación extraordinaria, se les brindará el apoyo necesario.
 
 ###### ARTÍCULO 93.
 
@@ -835,13 +949,19 @@ La Dirección de Programas será la responsable de expedir los lineamientos y di
 
 ### CAPÍTULO I. DE LA AUTORIDAD JUDICIAL ENCARGADA DE LA EJECUCIÓN DE PENAS
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 111.
 
-El Juez de Ejecución se desempeñará dentro del Partido Judicial correspondiente y no podrá conocer de un asunto donde haya fungido como Juez de Garantía o integrante del Tribunal de Juicio Oral, salvo cuando éstos últimos resuelvan imponer la medida de seguridad de amonestación al condenado, la sustitución de la pena o la suspensión condicional de su ejecución.
+El Juez de Ejecución se desempeñará dentro del Partido Judicial correspondiente y no podrá conocer de un asunto donde haya fungido como Juez de Control o integrante del Tribunal de Enjuiciamiento, salvo cuando éstos últimos resuelvan imponer la medida de seguridad de amonestación al condenado, la sustitución de la pena o la suspensión condicional de su ejecución.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
 En los casos de beneficios de libertad anticipada señalados en la fracción II del artículo 112 de esta Ley, cuando el solicitante cumpla su pena en un lugar o centro penitenciario ubicado en un partido judicial distinto a aquel en que fue dictada la sentencia que impuso la pena, será competente para resolver el beneficio, un Juez de Ejecución del partido judicial en el que se encuentre el citado lugar o centro. Cuando el lugar o centro penitenciario se encuentre ubicado fuera del Estado, será competente un Juez de Ejecución del partido judicial donde fue dictada la sentencia que da origen al beneficio.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
 Tratándose de las facultades del Juez de Ejecución que se contienen en las otras fracciones del artículo 112, se atenderá lo dispuesto en el párrafo anterior en lo que resulte aplicable.
 
@@ -873,7 +993,11 @@ VII. Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
 
 Los Jueces de Ejecución deberán resolver en audiencia todas aquellas peticiones que, por su naturaleza o importancia, requieran debate o producción de prueba.
 
-Para las resoluciones a que refiere el artículo anterior, será aplicable en lo conducente, de manera supletoria, lo dispuesto en el Código de Procedimientos.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Para las resoluciones a que refiere el artículo anterior, será aplicable en lo conducente, de manera supletoria, lo dispuesto en el Código Nacional.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -887,7 +1011,11 @@ Los Jueces de Ejecución de Penas se ajustarán a lo siguiente:
 
 I.- Tratándose de pena o medida judicial, impuesta por sentencia definitiva que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución penal, realizando la notificación a la autoridad administrativa correspondiente, al Sentenciado, a su defensor y al Ministerio Público.
 
-II.- Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustarán a las directrices generales que se contienen en el Código de Procedimientos.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II.- Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustarán a las directrices generales que se contienen en el Código Nacional.
 
 ###### ARTÍCULO 116.
 
@@ -899,17 +1027,33 @@ Contra las resoluciones emitidas por los Jueces de Ejecución, no procederá rec
 
 A la Dirección de Ejecución, dependiente de la Subsecretaría, le corresponderá, independientemente de las atribuciones que contemplan las disposiciones aplicables, las siguientes:
 
-I.- En materia de medidas judiciales dictadas durante el proceso:
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-a) Vigilar, coordinar y ejecutar las medidas cautelares personales, las providencias precautorias, el cumplimiento de las condiciones impuestas durante la suspensión del proceso a prueba, los sustitutivos penales y demás penas aplicables.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-b) Conformar y actualizar permanentemente un registro sobre las penas, medidas cautelares personales, la sustitución, modificación o cancelación de estas, providencias precautorias, condiciones de la suspensión del proceso a prueba, sustitutivos penales, la suspensión de la ejecución de la pena y demás penas aplicables, dictadas por las autoridades judiciales competentes.
+I.- Realizar la evaluación de riesgo procesal a que se refiere la fracción XVI del artículo 6 de esta Ley, en los términos del artículo 164 del Código Nacional y el reglamento correspondiente.
 
-II.- En materia de penas y medidas de seguridad:
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-a) Proponer al Juez de Ejecución de Penas, el otorgamiento de beneficios de libertad anticipada en los términos de esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-b) Vigilar y ejecutar las penas y medidas de seguridad dispuestas en la presente Ley, así como las resoluciones del Juez de Ejecución de Penas que de ellas deriven.
+II.- En materia de medidas judiciales dictadas durante el proceso: vigilar, coordinar y supervisar las medidas cautelares personales y el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
+
+III.- En materia de penas y medidas de seguridad:
+
+a) Proponer al Juez de Ejecución, el otorgamiento de beneficios de libertad anticipada en los términos de esta Ley y demás disposiciones aplicables.
+
+b) Vigilar y supervisar el cumplimiento de las penas, las medidas de seguridad, así como los beneficios judiciales o de libertad anticipada que se encuentren establecidos en la presente Ley, así como, las resoluciones del Juez de Ejecución que de ellas deriven.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
+
+IV.- Conformar y actualizar permanentemente un registro sobre las penas, medidas cautelares, la sustitución, modificación o cancelación de éstas, las condiciones de la suspensión condicional del proceso, así como, de los sustitutivos penales, la suspensión condicional de la ejecución de la pena y demás penas aplicables, dictadas por las autoridades judiciales competentes.
 
 ###### ARTÍCULO 118.
 
@@ -919,13 +1063,21 @@ El Director de Ejecución, informará al Juez de Ejecución de Penas, el cumplim
 
 Para el cumplimiento de determinaciones judiciales, durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, la autoridad judicial competente remitirá sus proveídos a la Dirección de Ejecución, quien de conformidad a la naturaleza de aquellas, las ejecutará por conducto del Departamento de Vigilancia, o bien, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones públicas o privadas, por conducto de dicho Departamento, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 120.
 
-Si durante el período de cumplimiento de las medidas cautelares, providencias precautorias o condiciones por cumplir durante el período de suspensión del proceso a prueba, la autoridad, persona o institución ejecutora de las mismas, observa o da cuenta de incumplimiento o de cualquier irregularidad, informará a la Dirección de Ejecución a fin de que ésta de aviso de inmediato al Ministerio Público y a la Defensoría Pública, para los efectos procesales conducentes.
+Si durante el período de cumplimiento de las medidas cautelares o condiciones por cumplir durante el período de suspensión condicional del proceso, la autoridad, persona o institución ejecutora de las mismas, observa o da cuenta del incumplimiento o de cualquier irregularidad, informará a la Dirección de Ejecución a fin de que ésta de aviso de inmediato al Ministerio Público y al Defensor, para los efectos procesales conducentes.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 121.
 
-Si la sentencia en procedimiento abreviado resulta absolutoria, el Juez de Garantía remitirá su resolución a la Dirección de Ejecución, para que se ejecute la cancelación de las medidas cautelares impuestas, en su caso.
+Si la sentencia en procedimiento abreviado resulta absolutoria, el Juez de Control remitirá su resolución a la Dirección de Ejecución, para que se ejecute la cancelación de las medidas cautelares impuestas, en su caso.
 
 ###### ARTÍCULO 122.
 
@@ -937,11 +1089,19 @@ Antes de concluir la audiencia en la que se haya tomado alguna determinación so
 
 ## TÍTULO SEXTO. EJECUCIÓN DE MEDIDAS JUDICIALES, PENAS Y MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO I. EJECUCIÓN DE MEDIDAS JUDICIALES DURANTE EL PROCEDIMIENTO PENAL
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+
+### CAPÍTULO I. SUPERVISIÓN DE MEDIDAS JUDICIALES DURANTE EL PROCEDIMIENTO PENAL
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 124.
 
-La ejecución de las medidas cautelares personales, con excepción de la prisión preventiva, las providencias precautorias y las condiciones de la suspensión del proceso a prueba a que se refieren los artículos 167, 234 bis y 204, del Código de Procedimientos, respectivamente, se sujetarán a dicho Código, a lo dispuesto en esta Ley y el Reglamento correspondiente.
+La supervisión de las medidas cautelares, con excepción de la prisión preventiva y las condiciones de la suspensión condicional del proceso a que se refieren los artículos 153, 155, 156, 157, 159, 161, 162, 164, 191 y 195 del Código Nacional, se sujetará a lo dispuesto en dicho Código, en esta Ley y en el Reglamento correspondiente.
 
 ###### ARTÍCULO 125.
 
@@ -1161,7 +1321,11 @@ La Dirección de Ejecución y el Director, revisarán, de oficio o a petición d
 
 La libertad preparatoria se revocará por el Juez de Ejecución, cuando el liberado:
 
-I.- Es Procesado por la comisión de otro delito, y se le impone medida cautelar de prisión preventiva;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+I.- Es Acusado por la comisión de otro delito, y se le impone medida cautelar de prisión preventiva;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -1478,3 +1642,27 @@ SEGUNDO.- De conformidad con lo que establecen los artículos segundo transitori
 TERCERO.- En virtud de lo dispuesto por los artículos 22 y Séptimo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, el Consejo Estatal de Seguridad Pública y los Municipios del Estado, conforme a los acuerdos que se generen en el marco del Sistema Nacional de Seguridad Pública, deberán elaborar en un plazo de seis meses, el programa estatal y municipal, respectivamente, para prevenir, perseguir y sancionar las conductas previstas en la citada Ley, a efecto de remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana.
 
 La elaboración de la propuesta del programa estatal estará a cargo de la Procuraduría General de Justicia del Estado, quien deberá coordinar los trabajos para su elaboración con las dependencias e instancias correspondientes, previo a su remisión al Consejo Estatal de Seguridad Pública, para la aprobación correspondiente.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
