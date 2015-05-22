@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-integral-de-justicia-para-adolescentes-del-7698
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2014-08-08"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 100 PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Baja California, el viernes 24 de septiembre de 2010.
 
@@ -69,17 +69,33 @@ Definiciones.- Para efectos de esta Ley se entiende por:
 
 I.- Adolescente: Toda persona cuya edad este comprendida entre los doce años cumplidos y los dieciocho años de edad no cumplidos.
 
-II.- Código: el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de Octubre de 2007.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II.- Código: el Código Nacional de Procedimientos Penales.
 
 III.- Código Penal: el Código Penal para el Estado de Baja California.
 
-IV.- Juez: Juez de Garantía o Juez de Tribunal de Juicio Oral, ambos especializados para Adolescentes, del Poder Judicial del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Juez de Garantía: El Juez de Garantía Especializado para Adolescentes, del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV.- Juez: Juez de Control o Juez de Tribunal de Enjuiciamiento, ambos especializados para Adolescentes, del Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+V.- Juez de Control: El Juez de Control Especializado para Adolescentes, del Poder Judicial del Estado.
 
 VI.- Juez de Ejecución: El Juez Especializado en Ejecución de Medidas para Adolescentes, del Poder Judicial del Estado.
 
-VII.- Juez de Juicio Oral: El Juez de Juicio Oral Especializado para Adolescentes, del Poder Judicial del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VII.- Juez del Tribunal de Enjuiciamiento: El Juez del Tribunal de Enjuiciamiento Especializado para Adolescentes del Poder Judicial del Estado.
 
 VIII.- Ley: La Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California.
 
@@ -95,7 +111,11 @@ XIII.- Sistema: El Sistema Integral de Justicia para Adolescentes.
 
 XIV.- Subsecretaria: La Subsecretaría del Sistema Estatal Penitenciario, de la Secretaría de Seguridad Pública del Estado.
 
-XV.- Tribunal de Juicio Oral: El Tribunal de Juicio Oral Especializado para Adolescentes, del Poder Judicial del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XV.- Tribunal de Enjuiciamiento: El Tribunal de Enjuiciamiento Especializado para Adolescentes, del Poder Judicial del Estado, que se constituye en forma unitaria con la designación de un Juez de Control, distinto al que conoció el asunto en las etapas previas al juicio que deba resolver.
 
 XVI.- Víctima u ofendido: Las víctimas u ofendidos de conductas tipificadas como delito por las leyes estatales, cometidas por adolescentes.
 
@@ -307,9 +327,17 @@ I.- El Ministerio Público;
 
 II.- El Defensor Público;
 
-III.- El Juez de Garantía;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- El Juez de Juicio Oral;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III.- El Juez de Control;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV.- El Juez del Tribunal de Enjuiciamiento;
 
 V.- El Juez de Ejecución;
 
@@ -355,9 +383,13 @@ Cuando la Ley no establezca el plazo o su extensión, el Juez podrá fijarlo de 
 
 Habilitación de días.- En el procedimiento de justicia para adolescentes los plazos son perentorios y se pueden habilitar días y horas no laborables para conocer de la causa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 35.
 
-Duración.- Desde la sujeción a proceso hasta el dictado de la sentencia no podrá transcurrir un plazo mayor de seis meses.
+Duración.- Desde la vinculación a proceso hasta el dictado de la sentencia no podrá transcurrir un plazo mayor de seis meses.
 
 ###### Artículo 36.
 
@@ -407,31 +439,53 @@ Uso prioritario de la justicia alternativa.- Las autoridades aplicarán de forma
 
 La tramitación de los procesos de justicia alternativa, siempre que no resulte contrario a las reglas previstas en este capítulo, se desarrollarán, de conformidad con lo dispuesto por el Código, la Ley de Justicia Alternativa para el Estado de Baja California, los Tratados Internacionales y demás leyes aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 44.
 
-Obligaciones del Ministerio Público y del Juez de Garantía.- Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Garantía, exhortará a los interesados a utilizar las formas alternativas de justicia en los casos en que procedan, y les explicará los efectos y los mecanismos disponibles.
+Obligaciones del Ministerio Público y del Juez de Control.- Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Control, exhortará a los interesados a utilizar las formas alternativas de justicia en los casos en que procedan, y les explicará los efectos y los mecanismos disponibles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 45.
 
-Procedencia.- Los acuerdos reparatorios procederán respecto de la comisión de todos los hechos delictivos, con excepción de aquellos delitos considerados como graves previstos en el Artículo 92 de esta Ley y sólo procederán hasta antes de que se dicte el auto de apertura a juicio oral.
+Procedencia.- Los acuerdos reparatorios procederán respecto de la comisión de todos los hechos delictivos, con excepción de aquellos delitos considerados como graves previstos en el Artículo 92 de esta Ley y sólo procederán hasta antes de que se dicte el auto de apertura a juicio.
 
-El Juez, a petición de las partes, podrá suspender el proceso hasta por quince días para que las partes negocien, medien o concilien. En caso de interrumpirse la negociación, mediación o conciliación, cualquiera de las partes puede solicitar la continuación del proceso.
+El Juez de Control, a petición de las partes, podrá suspender el proceso hasta por quince días para que las partes negocien, medien o concilien. En caso de interrumpirse la negociación, mediación o conciliación, cualquiera de las partes puede solicitar la continuación del proceso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 46.
 
-Aprobación de acuerdos.- Todo acuerdo reparatorio deberá ser aprobado por el Juez de Garantía.
+Aprobación de acuerdos.- Todo acuerdo reparatorio deberá ser aprobado por el Juez de Control.
 
-El Juez de Garantía no aprobará los acuerdos reparatorios cuando tenga fundados motivos para estimar que alguno de los intervinientes no haya estado en condiciones de igualdad para negociar o hubiese actuado bajo coacción o amenaza.
+El Juez de Control no aprobará los acuerdos reparatorios cuando tenga fundados motivos para estimar que alguno de los intervinientes no haya estado en condiciones de igualdad para negociar o hubiese actuado bajo coacción o amenaza.
 
-#### SECCIÓN IV. SUSPENSIÓN DEL PROCESO A PRUEBA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+
+#### SECCIÓN IV. SUSPENSIÓN CONDICIONAL DEL PROCESO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 47.
 
-Suspensión del proceso a prueba.- Procederá la suspensión del proceso a prueba, a solicitud del adolescente o del Ministerio Público con acuerdo de aquél, cuando el delito de que se trate no sea de los considerados como graves por esta Ley, el adolescente no se encuentre gozando de éste beneficio o lo haya recibido por la comisión de una conducta tipificada como delito en contra de un bien jurídico de la misma naturaleza y que proponga un plan de reparación del daño causado por la conducta típica que se le atribuye.
+Suspensión condicional del proceso.- Procederá la suspensión condicional del proceso, a solicitud del adolescente o del Ministerio Público con acuerdo de aquél, cuando el delito de que se trate no sea de los considerados como graves por esta Ley, el adolescente no se encuentre gozando de éste beneficio o lo haya recibido por la comisión de una conducta tipificada como delito en contra de un bien jurídico de la misma naturaleza y que proponga un plan de reparación del daño causado por la conducta típica que se le atribuye.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 48.
 
-Condiciones por cumplir durante la suspensión de proceso a prueba.- EI Juez de Garantía fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a dos años y determinará imponer al adolescente, una o varias de las condiciones que deberá cumplir, de entre las previstas en el Código y las siguientes:
+Condiciones por cumplir durante la suspensión condicional de proceso.- El Juez de Control fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a dos años y determinará imponer al adolescente, una o varias de las condiciones que deberá cumplir, de entre las previstas en el Código y las siguientes:
 
 I.- Iniciar o finalizar la escolaridad básica o media, aprender un oficio o seguir cursos de capacitación en el lugar o la institución que determine.
 
@@ -443,23 +497,43 @@ IV.- En caso de adolescentes emancipados, cumplir con los deberes de deudor alim
 
 V.- En caso de conductas tipificadas como delitos sexuales, la obligación de integrarse a programas de educación sexual que incorporen la perspectiva de género.
 
-Cuando se acredite plenamente que el adolescente no puede cumplir con alguna de las condiciones referidas en este artículo, por ser contrarias a su salud o alguna otra causa justificada, el Juez de Garantía podrá substituirlas, fundada y motivadamente, por el cumplimiento de otra u otras análogas que resulten razonables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para fijar las condiciones, el Juez de Garantía puede disponer que el adolescente sea sometido a una evaluación psicosocial previa. El Ministerio Público, la víctima u ofendido podrán proponer al Juez de Garantía las que considere debe someterse el adolescente.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-El Juez de Garantía preguntará al adolescente si se obliga a cumplir con las condiciones impuestas y en su caso, lo prevendrá sobre las consecuencias de su inobservancia.
+Cuando se acredite plenamente que el adolescente no puede cumplir con alguna de las condiciones referidas en este artículo, por ser contrarias a su salud o alguna otra causa justificada, el Juez de Control podrá substituirlas, fundada y motivadamente, por el cumplimiento de otra u otras análogas que resulten razonables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Para fijar las condiciones, el Juez de Control puede disponer que el adolescente sea sometido a una evaluación psicosocial previa. El Ministerio Público, la víctima u ofendido podrán proponer al Juez de Control las que considere debe someterse el adolescente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El Juez de Control preguntará al adolescente si se obliga a cumplir con las condiciones impuestas y en su caso, lo prevendrá sobre las consecuencias de su inobservancia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 49.
 
-Revocación de la suspensión.- En caso de que se debata sobre la revocación de la suspensión del proceso a prueba, el Juez de Garantía resolverá de inmediato, fundada y motivadamente, acerca de la reanudación del proceso. En lugar de la revocación, el Juez de Garantía podrá ampliar el plazo de la suspensión a prueba hasta por seis meses más. Esta extensión del término puede imponerse sólo por una vez.
+Revocación de la suspensión.- En caso de que se debata sobre la revocación de la suspensión condicional del proceso, el Juez de Control resolverá de inmediato, fundada y motivadamente, acerca de la reanudación del proceso. En lugar de la revocación, el Juez de Control podrá ampliar el plazo de la suspensión a prueba hasta por seis meses más. Esta extensión del término puede imponerse sólo por una vez.
 
 Si la víctima u ofendido ha recibido pagos durante la suspensión del proceso a prueba que posteriormente es revocada, ellos se destinarán a la indemnización por daños y perjuicios que le pudiere corresponder.
 
 #### SECCIÓN V. INVESTIGACIÓN Y ETAPA INTERMEDIA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 50.
 
-Investigación.- La investigación tiene por objeto el esclarecimiento de los hechos materia de la denuncia o querella, la obtención de la información y la recolección de los elementos que permitan fundar la acusación, contra uno o varios adolescentes a los que se les impute la comisión de una conducta tipificada como delito. Esta etapa estará a cargo del Ministerio Público para Adolescentes, quien actuará con el auxilio de las instituciones policiales del Estado.
+Investigación.- La investigación tiene por objeto el esclarecimiento de los hechos materia de la denuncia o querella, la obtención de la información y la recolección de los elementos que permitan fundar la acusación, contra uno o varios adolescentes a los que se les impute la comisión de una conducta tipificada como delito. Esta etapa estará a cargo del Ministerio Público, quien actuará con el auxilio de las instituciones policiales del Estado.
 
 ###### Artículo 51.
 
@@ -471,13 +545,25 @@ Si el adolescente detenido muestra señales de maltrato físico o psicológico, 
 
 Tratándose de conductas de las que no ameritan la aplicación de medidas de internamiento o se determine que el acusado es menor de catorce años, éste será entregado en libertad a sus representantes legales o parientes más cercanos, con el compromiso de presentarlo ante las autoridades competentes una vez que les sean remitidas las diligencias y éstas lo requieran.
 
-Si el hecho ocurrió en un lugar donde no exista Ministerio Público Especializado para Adolescentes, y no sea posible la remisión inmediata a dicha autoridad, deberá conocer el Ministerio Público del lugar, quien en auxilio de aquel se abocará al conocimiento del hecho, con la intervención del Defensor Público, realizando las diligencias que sean necesarias; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente, con el fin de evitar su internamiento en áreas o establecimientos destinados para adultos. Las actuaciones ministeriales que se practiquen conforme a este párrafo, deberán enviarse al Juez de Garantía dentro de un máximo de cuarenta y ocho horas."
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Si el hecho ocurrió en un lugar donde no exista Ministerio Público Especializado para Adolescentes, y no sea posible la remisión inmediata a dicha autoridad, deberá conocer el Ministerio Público del lugar, quien en auxilio de aquel se abocará al conocimiento del hecho, con la intervención del Defensor, realizando las diligencias que sean necesarias; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente, con el fin de evitar su internamiento en áreas o establecimientos destinados para adultos. Las actuaciones ministeriales que se practiquen conforme a este párrafo, deberán enviarse al Juez de Control dentro de un máximo de cuarenta y ocho horas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 52.
 
-Control de detención.- El Ministerio Público deberá poner al adolescente a disposición del Juez de Garantía, dentro de las cuarenta y ocho horas siguientes contadas a partir de que se efectúe su detención por alguna de las causas previstas en el artículo anterior, quien en forma inmediata deberá convocar a la audiencia de control de detención; en esta audiencia el Ministerio Público deberá formular la imputación inicial, solicitar la vinculación del imputado a proceso, así como en su caso, la aplicación de las medidas cautelares que procedieren.
+Control de la legalidad de la detención.- El Ministerio Público deberá poner al adolescente a disposición del Juez de Control, dentro de las cuarenta y ocho horas siguientes contadas a partir de que se efectúe su detención por alguna de las causas previstas en el artículo anterior, quien en forma inmediata deberá convocar a la audiencia de control de la legalidad de la detención; en esta audiencia el Ministerio Público deberá formular la imputación inicial, solicitar la vinculación del imputado a proceso, así como en su caso, la aplicación de las medidas cautelares que procedieren.
 
-En el caso de imputados que han sido aprehendidos por orden judicial, se formulará la imputación en su contra en la audiencia que al efecto convoque el Juez de Garantía. En este caso, formulada la imputación, el Ministerio público en la misma audiencia, deberá solicitar la vinculación del imputado a proceso, así como la aplicación de las medidas cautelares que procedieren.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En el caso de imputados que han sido aprehendidos por orden judicial, se formulará la imputación en su contra en la audiencia que al efecto convoque el Juez de Control. En este caso, formulada la imputación, el Ministerio Público en la misma audiencia, deberá solicitar la vinculación del imputado a proceso, así como la aplicación de las medidas cautelares que procedieren.
 
 Formulada la imputación, deberá preguntarse al imputado si la entiende y si es su deseo contestar el cargo. Asimismo se le informará que es su derecho rendir su declaración en cualquier momento.
 
@@ -509,23 +595,39 @@ Vencidos esos plazos, no se podrá acordar una nueva ampliación, sin que ello o
 
 Concepto de máxima prioridad.- Los órganos jurisdiccionales y de investigación deberán considerar de máxima prioridad la tramitación efectiva de los casos en que un adolescente se encuentre privado de su libertad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 57.
 
-Formulación de la imputación y su oportunidad.- La formulación de la imputación es la comunicación que el Ministerio Público efectúa al adolescente, en presencia del Juez de Garantía de que se desarrolla una investigación en su contra respecto de uno o más hechos determinados.
+Formulación de la imputación y su oportunidad.- La formulación de la imputación es la comunicación que el Ministerio Público efectúa al adolescente, en presencia del Juez de Control, de que se desarrolla una investigación en su contra respecto de uno o más hechos determinados.
 
 El Ministerio Público podrá formular la imputación cuando considere oportuno formalizar el procedimiento por medio de la intervención judicial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 58.
 
-Vinculación a proceso.- El Ministerio Público deberá solicitar y motivar la vinculación del imputado a proceso, exponiendo en la misma audiencia los antecedentes de la investigación con los que considera obran datos que establezcan se ha cometido un hecho que la Ley señala como delito y que existe la probabilidad de que el indiciado lo cometió o participo en su comisión, El Juez resolverá lo conducente después de escuchar al imputado.
+Vinculación a proceso.- El Ministerio Público deberá solicitar y motivar la vinculación del imputado a proceso, exponiendo en la misma audiencia los antecedentes de la investigación con los que considera obran datos que establezcan se ha cometido un hecho que la Ley señala como delito y que existe la probabilidad de que el imputado lo cometió o participo en su comisión, el Juez de Control resolverá lo conducente después de escuchar al imputado.
 
-El adolescente podrá solicitar la suspensión de la audiencia a que se refiere este artículo por un plazo hasta por setenta y dos horas, o su ampliación hasta por un plazo igual, para aportar elementos de convicción antes de que el Juez de Garantía se pronuncie sobre la imposición de alguna medida cautelar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El adolescente podrá solicitar la suspensión de la audiencia a que se refiere este artículo por un plazo hasta por setenta y dos horas, o su ampliación hasta por un plazo igual, para aportar elementos de convicción antes de que el Juez de Control se pronuncie sobre la imposición de alguna medida cautelar.
 
 La prolongación de la detención en su perjuicio será sancionada por la Ley penal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 59.
 
-Requisitos para vincular al adolescente a proceso.- El Juez de Garantía podrá decretar la vinculación a proceso del imputado siempre que así se lo solicite el Ministerio Público y se reúnan los siguientes requisitos:
+Requisitos para vincular al adolescente a proceso.- El Juez de Control podrá decretar la vinculación a proceso del imputado siempre que así se lo solicite el Ministerio Público y se reúnan los siguientes requisitos:
 
 I.- Haya sido formulada la imputación;
 
@@ -533,13 +635,21 @@ II.- Que de los antecedentes de la investigación expuestos por el Ministerio P�
 
 III. No se encuentre demostrada, más allá de toda duda razonable, una causa de extinción de la acción de remisión o una excluyente de incriminación.
 
-El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez de Garantía podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez de Control podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación.
 
 ###### Artículo 60.
 
 Condiciones de la declaración.- Los procedimientos en los que se ven involucrados adolescentes son de alta prioridad e interés público; en función de lo anterior y para salvaguardar plenamente el derecho que tienen a ser escuchados, su declaración debe ser, bajo pena de nulidad:
 
-I.- Rendida únicamente ante el Juez de Garantía o de Juicio Oral;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+I.- Rendida únicamente ante el Juez de Control o Juez del Tribunal de Enjuiciamiento;
 
 II.- Videograbada;
 
@@ -551,19 +661,31 @@ V.- Asistida, de modo que se realice con la presencia de su defensor; en los cas
 
 Cuando exista ansiedad, fatiga o daño psicológico del adolescente producido por la declaración, se suspenderá ésta, reanudándose a la brevedad posible.
 
-La declaración rendida ante el Ministerio Público o Juez de Garantía, solo tendrá valor de prueba para las actuaciones previas al juicio oral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+La declaración rendida ante el Ministerio Público o Juez de Control, solo tendrá valor de prueba para las actuaciones previas al juicio oral.
 
 Las mismas reglas se observarán, en lo aplicable, en las entrevistas que sostenga el adolescente con el Ministerio Público.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 61.
 
-Valor de la admisión de hechos.- La admisión de los hechos por el adolescente, solo tendrá valor probatorio, cuando sea rendida en juicio oral, con la presencia de su abogado defensor y previo a que haya tenido la oportunidad de entrevistarse en privado con él.
+Valor de la admisión de hechos.- La admisión de los hechos por el adolescente, solo tendrá valor probatorio, cuando sea rendida en juicio, con la presencia de su abogado defensor y previo a que haya tenido la oportunidad de entrevistarse en privado con él.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 62.
 
-Plazo de Investigación.- Antes de concluir la audiencia de vinculación a proceso el Juez de Garantía fijará un plazo no mayor a sesenta días para que se lleve a cabo la investigación. Transcurrido el plazo fijado por el Juez para el desarrollo de la investigación, esta se tendrá por cerrada, salvo que el Ministerio Público o el imputado hayan solicitado prórroga del mismo al Juez, dentro de cinco días previos a su conclusión.
+Plazo de Investigación.- Antes de concluir la audiencia de vinculación a proceso el Juez de Control fijará un plazo no mayor a sesenta días para que se lleve a cabo la investigación. Transcurrido el plazo fijado por el Juez para el desarrollo de la investigación, esta se tendrá por cerrada, salvo que el Ministerio Público o el imputado hayan solicitado prórroga del mismo al Juez de Control, dentro de cinco días previos a su conclusión.
 
-El plazo fijado por el Juez para el desarrollo de la investigación solo podrá prorrogarse hasta por el tiempo máximo de su duración.
+El plazo fijado por el Juez de Control para el desarrollo de la investigación solo podrá prorrogarse hasta por el tiempo máximo de su duración.
 
 ###### Artículo 63.
 
@@ -573,27 +695,49 @@ I.- Formular la acusación;
 
 II.- Solicitar el sobreseimiento de la causa; o
 
-III.- Solicitar la suspensión del proceso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El escrito de acusación deberá contener los mismos requisitos que el escrito de imputación inicial, así como señalar los medios de prueba que pretenda desahogar en la audiencia de juicio. El Juez de Garantía correrá traslado por cinco días al acusador coadyuvante si lo hubiere, así como al adolescente y su defensor, quienes podrán en ese plazo ofrecer prueba para el juicio, sin perjuicio de poderlo realizar en la audiencia intermedia.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+III.- Solicitar la suspensión condicional del proceso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El escrito de acusación deberá contener los mismos requisitos que el escrito de imputación inicial, así como señalar los medios de prueba que pretenda desahogar en la audiencia de juicio. El Juez de Control correrá traslado por cinco días al acusador coadyuvante si lo hubiere, así como al adolescente y su defensor, quienes podrán en ese plazo ofrecer prueba para el juicio, sin perjuicio de poderlo realizar en la audiencia intermedia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 64.
 
-Audiencia intermedia.- Presentada la acusación, el Juez de Garantía ordenará dentro de las veinticuatro horas siguientes su notificación a todas las partes y citará a la audiencia intermedia, la que deberá tener lugar en un plazo no inferior a quince ni superior a veinte días, contados a partir de la notificación; en la cual podrá llevarse a cabo el ofrecimiento de pruebas del imputado y el Juez decidirá sobre la admisibilidad de aquellas que se desahogarán en la audiencia de juicio oral. Antes de terminar la audiencia, el mismo Juez dictará el auto de apertura a juicio.
+Audiencia intermedia.- Presentada la acusación, el Juez de Control ordenará dentro de las veinticuatro horas siguientes su notificación a todas las partes y citará a la audiencia intermedia, la que deberá tener lugar en un plazo no inferior a quince ni superior a veinte días, contados a partir de la notificación; en la cual podrá llevarse a cabo el ofrecimiento de pruebas del imputado y el Juez de Control decidirá sobre la admisibilidad de aquellas que se desahogarán en la audiencia de juicio. Antes de terminar la audiencia, el mismo Juez de Control dictará el auto de apertura a juicio.
 
 Al acusado y a la víctima u ofendido, se les entregará la copia de la acusación, en la que se dejará constancia de que se encuentran a su disposición los antecedentes acumulados durante la investigación.
 
-#### SECCIÓN VI. JUICIO ORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+
+#### SECCIÓN VI. JUICIO
 
 ###### Artículo 65.
 
 Juicio.- El juicio es la etapa en que se emite la decisión judicial respecto de la inocencia o culpabilidad del acusado y en su caso la individualización de las medidas que sea necesario imponerle. Se realizará sobre la base de la acusación y asegurará la concreción de los principios de oralidad, inmediación, publicidad, concentración, igualdad, contradicción y continuidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 66.
 
-Oportunidad y Desarrollo de la Audiencia de Debate.- Una vez radicado el proceso ante el Tribunal de Juicio Oral, el Juez de Juicio Oral que lo presida decretará la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de quince ni después de cuarenta días naturales desde dicha radicación.
+Oportunidad y Desarrollo de la Audiencia de Debate.- Una vez radicado el proceso ante el Tribunal de Enjuiciamiento, se decretará la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de quince ni después de cuarenta días naturales desde dicha radicación.
 
-El día y hora señalados para la celebración de la audiencia de debate, el Tribunal de Juicio Oral se constituirá en la sala de audiencias con la asistencia del Ministerio Público, del adolescente, de su defensor y de los demás intervinientes. Tendrán derecho a presenciar la audiencia los ascendientes, tutores, custodios o responsables de los cuidados del adolescente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El día y hora señalados para la celebración de la audiencia de debate, el Tribunal de Enjuiciamiento se constituirá en la sala de audiencias con la asistencia del Ministerio Público, del adolescente, de su defensor y de los demás intervinientes. Tendrán derecho a presenciar la audiencia los ascendientes, tutores, custodios o responsables de los cuidados del adolescente.
 
 En esta audiencia se le deberá informar al adolescente de forma clara y sencilla los hechos que se le imputan y los derechos y garantías que le asisten, así como el procedimiento que habrá de desarrollarse durante la celebración de la misma.
 
@@ -603,13 +747,21 @@ Antes de declarar cerrado el debate se le deberá conceder el uso de la voz a la
 
 Audiencia de comunicación de la sentencia.- En la audiencia de comunicación de la sentencia deberán estar presentes el adolescente, su defensor y el Ministerio Público. Asimismo, podrán acudir a su desarrollo la víctima u ofendido y el acusador coadyuvante, así como quienes ejerzan la patria potestad, tutores, familiares o quienes tengan a cargo la custodia del adolescente.
 
-En caso de que la sentencia sea condenatoria, el juez de juicio oral explicará su contenido al adolescente, describirá la medida impuesta, las razones por las que se ha decidido su imposición, las características generales de la ejecución de la medida y las consecuencias de su incumplimiento; en este último aspecto le prevendrá de la posibilidad de que se agrave la medida e incluso se llegue a aplicar el internamiento de conformidad con lo dispuesto en esta ley, estas advertencias formarán parte integral de la sentencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En caso de que la sentencia sea condenatoria, el Juez del Tribunal de Enjuiciamiento explicará su contenido al adolescente, describirá la medida impuesta, las razones por las que se ha decidido su imposición, las características generales de la ejecución de la medida y las consecuencias de su incumplimiento; en este último aspecto le prevendrá de la posibilidad de que se agrave la medida e incluso se llegue a aplicar el internamiento de conformidad con lo dispuesto en esta ley. Estas advertencias formarán parte integral de la sentencia.
 
 En esta audiencia la autoridad judicial podrá exhortar en su caso a quienes ejerzan la patria potestad, tutores, familiares o quienes tengan a cargo la custodia del adolescente para que le brinden la asistencia que requiera durante el cumplimiento de la medida impuesta.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 68.
 
-Derecho a la secrecía del juicio.- El juicio será público, sin embargo el Tribunal de Juicio Oral, a solicitud del adolescente, quienes ejerzan la patria potestad o en su defecto y en este orden, sus tutores, familiares, quienes tengan a cargo su custodia o su defensor determinará que la audiencia se verifique a puerta cerrada y sólo asistirán a ella las partes y los intervinientes.
+Derecho a la secrecía del juicio.- El juicio será público, sin embargo el Tribunal de Enjuiciamiento, a solicitud del adolescente, quienes ejerzan la patria potestad o en su defecto y en este orden, sus tutores, familiares, quienes tengan a cargo su custodia o su defensor determinará que la audiencia se verifique a puerta cerrada y sólo asistirán a ella las partes y los intervinientes.
 
 ###### Artículo 69.
 
@@ -635,9 +787,13 @@ Plazo para la realización del Informe de Antecedentes.- La elaboración del inf
 
 Audiencia de individualización.- Decidida la responsabilidad del adolescente en el hecho imputado, se celebrará una audiencia de individualización de las medidas, dentro de los cinco días siguientes, prorrogables hasta por otros cinco, a solicitud del adolescente y su defensor, a fin de aportar pruebas al efecto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 73.
 
-Criterios de Individualización.- La medida será proporcional a la conducta realizada por el adolescente y en su determinación el Juez deberá considerar:
+Criterios de Individualización.- La medida será proporcional a la conducta realizada por el adolescente y en su determinación el Tribunal de Enjuiciamiento deberá considerar:
 
 I.- El grado de participación del adolescente en el hecho;
 
@@ -645,13 +801,17 @@ II.- Las características del caso concreto, las circunstancias y la gravedad de
 
 III.- La edad del adolescente al momento de la comisión del hecho, la educación, condiciones sociales y económicas, la salud, las costumbres, así como todos aquellos elementos necesarios para asegurar la idoneidad de la medida a imponer; y
 
-IV. Las posibilidades que tenga de cumplir con la medida y con la reparación del daño.
+IV.- Las posibilidades que tenga de cumplir con la medida y con la reparación del daño.
 
 ###### Artículo 74.
 
 Disposiciones generales para la individualización.- La imposición de medidas debe sujetarse a las siguientes disposiciones generales:
 
-I.- En cada sentencia, el Tribunal de Juicio Oral podrá imponer el apercibimiento y hasta un máximo de dos medidas más, compatibles entre sí, de modo que su ejecución pueda ser simultánea y en ningún caso, sucesiva.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+I.- En cada sentencia, el Tribunal de Enjuiciamiento podrá imponer el apercibimiento y hasta un máximo de dos medidas más, compatibles entre sí, de modo que su ejecución pueda ser simultánea y en ningún caso, sucesiva.
 
 II.- La medida de tratamiento en centro de internamiento, solo podrá imponerse como medida extrema, cuando se trate de adolescentes mayores de catorce años de edad y por la comisión de conductas tipificadas como delito y calificadas por ésta Ley como graves.
 
@@ -663,7 +823,11 @@ Fundamentación y motivación.- La sentencia debe estar debidamente fundada y mo
 
 La sentencia determinará la forma y condiciones, en que se aplicará la medida impuesta. En caso de imposición de más de una medida, la sentencia contendrá en su caso, el orden y las condiciones para su aplicación. Dicho orden deberá partir de la aplicación de la medida menos grave a la de mayor severidad.
 
-El Juez de Ejecución será la autoridad encargada de ordenar, en caso de incumplimiento, la aplicación sustitutivamente de la medida grave de las impuestas por el Tribunal de Juicio Oral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El Juez de Ejecución será la autoridad encargada de ordenar, en caso de incumplimiento, la aplicación sustitutivamente de la medida grave de las impuestas por el Tribunal de Enjuiciamiento.
 
 ###### Artículo 76.
 
@@ -693,9 +857,13 @@ Este recurso se regirá por las disposiciones relativas al recurso de apelación
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 80.
 
-Medidas.- Comprobada la responsabilidad de un adolescente en un hecho tipificado como delito en las leyes estatales, y tomando en cuenta los principios y finalidades de esta Ley, el Tribunal de Juicio Oral podrá imponer al adolescente en forma simultánea o alternativa, garantizando la proporcionalidad, los siguientes tipos de medidas:
+Medidas.- Comprobada la responsabilidad de un adolescente en un hecho tipificado como delito en las leyes estatales, y tomando en cuenta los principios y finalidades de esta Ley, el Tribunal de Enjuiciamiento podrá imponer al adolescente en forma simultánea o alternativa, garantizando la proporcionalidad, los siguientes tipos de medidas:
 
 I.- Orientación:
 
@@ -707,7 +875,11 @@ c) Prestación de servicios a la comunidad;
 
 II.- Protección:
 
-El Tribunal de Juicio Oral podrá imponer como medidas de protección, además de las previstas en el artículo 167 fracciones II, III, IV, V, VII, VIII, IX y X, del Código, las siguientes medidas:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
+El Tribunal de Enjuiciamiento podrá imponer como medidas de protección, además de las previstas en el artículo 155 fracciones I, V, VI, VII, VIII, IX y X, del Código, las siguientes medidas:
 
 a) Obligación de iniciar o concluir la educación básica si aún no lo ha hecho o de matricularse y asistir a un centro de educación formal o a otro cuyo objetivo sea el aprendizaje de una profesión o la capacitación para algún tipo de trabajo;
 
@@ -759,15 +931,23 @@ Quienes no cumplan con las órdenes del juez serán sancionados en los términos
 
 #### SECCIÓN II. MEDIDAS DE ORIENTACIÓN Y PROTECCIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 84.
 
-Apercibimiento.- El apercibimiento es la llamada de atención enérgica que en audiencia el Tribunal de Juicio Oral hace al adolescente, en forma clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido, tanto para la víctima o el ofendido, como para el propio adolescente, instándolo a cambiar su comportamiento, a no reincidir y exhortándole a aprovechar la oportunidad que se le da al imponérsele esta medida, que es la más benévola entre las que considera esta Ley.
+Apercibimiento.- El apercibimiento es la llamada de atención enérgica que en audiencia el Tribunal de Enjuiciamiento hace al adolescente, en forma clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido, tanto para la víctima o el ofendido, como para el propio adolescente, instándolo a cambiar su comportamiento, a no reincidir y exhortándole a aprovechar la oportunidad que se le da al imponérsele esta medida, que es la más benévola entre las que considera esta Ley.
 
 ###### Artículo 85.
 
 Libertad asistida.- La libertad asistida consiste en sujetar al adolescente a programas educativos y a recibir orientación y seguimiento del Juez de Ejecución, con la asistencia de la institución encargada de la ejecución de la medida.
 
-La libertad asistida deberá permitir al adolescente continuar con su vida cotidiana, pero bajo la vigilancia de un supervisor y de conformidad con las condiciones impuestas por el Tribunal de Juicio Oral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+La libertad asistida deberá permitir al adolescente continuar con su vida cotidiana, pero bajo la vigilancia de un supervisor y de conformidad con las condiciones impuestas por el Tribunal de Enjuiciamiento.
 
 La duración de esta medida no podrá ser inferior a seis meses ni mayor de tres años.
 
@@ -777,9 +957,13 @@ Prestación de Servicios a favor de la Comunidad.- En cumplimiento de la medida 
 
 Esta medida solo podrá aplicarse a los adolescentes mayores de catorce años de edad y su duración debe tener relación directa con los daños causados y en ningún caso ser inferior a tres meses ni mayor de tres años.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 87.
 
-Medidas de protección.- Las medidas de protección consisten en mandamientos impuestas por el Tribunal de Juicio Oral para promover y asegurar la formación integral y reinserción social del adolescente. Dichas medidas no podrán ordenarse por un plazo menor a tres meses ni superior a dos años y su cumplimiento deberá iniciarse a más tardar una semana después de ordenados.
+Medidas de protección.- Las medidas de protección consisten en mandamientos impuestas (sic) por el Tribunal de Enjuiciamiento para promover y asegurar la formación integral y reinserción social del adolescente. Dichas medidas no podrán ordenarse por un plazo menor a tres meses ni superior a dos años y su cumplimiento deberá iniciarse a más tardar una semana después de ordenados.
 
 #### SECCIÓN III. MEDIDAS DE TRATAMIENTO
 
@@ -795,7 +979,11 @@ De no poder cumplirse en su domicilio, por razones de inconveniencia o imposibil
 
 La internación domiciliaria no debe afectar el cumplimiento del trabajo ni la asistencia al centro educativo al que concurra el adolescente.
 
-La autoridad administrativa encargada de la ejecución de las medidas deberá hacer los estudios pertinentes para informar al Tribunal de Juicio Oral, si la familia del adolescente tiene la posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+La autoridad administrativa encargada de la ejecución de las medidas deberá hacer los estudios pertinentes para informar al Tribunal de Enjuiciamiento, si la familia del adolescente tiene la posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente.
 
 No puede dictarse por un plazo inferior a un mes ni superior a nueve meses.
 
@@ -907,7 +1095,11 @@ De la ejecución de las medidas.- La etapa de ejecución de las medidas comprend
 
 Programa Personalizado de Ejecución.- La ejecución de las medidas que ameriten seguimiento, deberá estar regida por el Programa Personalizado de Ejecución, el cual deberá estar integrado, de modo que transmita la cultura de legalidad y se aprecien las desventajas de comportamientos ilícitos frente a las leyes y los derechos de otras personas y contener por lo menos:
 
-I.- Los fines y funciones de la o las medidas impuestas por el Tribunal de Juicio Oral;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+I.- Los fines y funciones de la o las medidas impuestas por el Tribunal de Enjuiciamiento;
 
 II.- Tener en cuenta las características particulares del adolescente;
 
@@ -955,15 +1147,23 @@ IV.- Cursos y programas de orientación, y
 
 V.- Cualquier otra acción que permita a los padres, familiares, responsables, tutores o quienes ejerzan la patria potestad, o custodia contribuir a asegurar el desarrollo integral de los adolescentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 101.
 
-Sentencia que impone medida.- Una vez dictada la sentencia en la que se imponga al adolescente, alguna de las medidas establecidas en esta Ley, el Tribunal de Juicio Oral lo citará, así como a sus padres o responsables a una audiencia en la cual se ejecutará aquella medida que sea posible ejecutarla en ese acto o en su caso la explicación y alcances de dicha resolución.
+Sentencia que impone medida.- Una vez dictada la sentencia en la que se imponga al adolescente, alguna de las medidas establecidas en esta Ley, el Tribunal de Enjuiciamiento lo citará, así como a sus padres o responsables a una audiencia en la cual se ejecutará aquella medida que sea posible ejecutarla en ese acto o en su caso la explicación y alcances de dicha resolución.
 
 ###### Artículo 102.
 
 Apercibimiento.- Para la ejecución de la medida de apercibimiento se citará a una audiencia a la que deberán comparecer, además del adolescente, su defensor, el Ministerio Público y los padres o responsables.
 
-El Juez de Juicio Oral se dirigirá al adolescente en forma clara y directa, indicándole la conducta cometida, previniéndole de que, en caso de continuar realizándola, podrían aplicársele medidas más severas e invitándolo a aprovechar las oportunidades que se le conceden con este tipo de medidas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El Juez del Tribunal de Enjuiciamiento se dirigirá al adolescente en forma clara y directa, indicándole la conducta cometida, previniéndole de que, en caso de continuar realizándola, podrían aplicársele medidas más severas e invitándolo a aprovechar las oportunidades que se le conceden con este tipo de medidas.
 
 Cuando corresponda, deberá advertir a quienes ejerzan la patria potestad, tutores o responsables sobre la conducta cometida por el adolescente y les solicitará intervenir para que el apercibido respete las normas legales y sociales de convivencia.
 
@@ -1001,11 +1201,19 @@ Lugares para la prestación del servicio a la comunidad.- Las personas responsab
 
 Tendrán preferencia los programas comunitarios del lugar de origen o domicilio del adolescente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 107.
 
-Medidas de protección.- Al imponer medidas de protección, el Tribunal de Juicio Oral deberá, cuando corresponda a la naturaleza de la medida, establecer el lugar donde deberá residir el adolescente o donde le esté prohibido.
+Medidas de protección.- Al imponer medidas de protección, el Tribunal de Enjuiciamiento deberá, cuando corresponda a la naturaleza de la medida, establecer el lugar donde deberá residir el adolescente o donde le esté prohibido.
 
-Cuando el lugar de residencia no haya sido fijado, el Tribunal de Juicio Oral deberá definirlo con la colaboración de los equipos multidisciplinarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Cuando el lugar de residencia no haya sido fijado, el Tribunal de Enjuiciamiento deberá definirlo con la colaboración de los equipos multidisciplinarios.
 
 El órgano competente informará al Juez de Ejecución, por lo menos una vez por mes, sobre el cumplimiento y evaluación de estas medidas.
 
@@ -1123,7 +1331,11 @@ Dicho reporte deberá contener por lo menos, la identificación de los adolescen
 
 II.- Una vez recibido el reporte, el titular del centro, por conducto del secretario técnico de la comisión disciplinaria deberá convocar a los demás integrantes de la comisión, a los adolescentes imputados y en su caso a quienes puedan estar relacionados con los hechos, a una audiencia en la que se determinará si a lugar o no a la imposición de medidas disciplinarias;
 
-III.- Al inicio de la audiencia, se hará saber al adolescente la conducta que se le imputa, su derecho a guardar silencio o manifestar lo que estime conveniente a sus intereses, así como su derecho a ser asistido por un perito en derecho y que en caso de no contar con uno, le asistirá un Defensor Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
+III.- Al inicio de la audiencia, se hará saber al adolescente la conducta que se le imputa, su derecho a guardar silencio o manifestar lo que estime conveniente a sus intereses, así como su derecho a ser asistido por un Defensor Particular y que en caso de no contar con uno, le asistirá un Defensor Público;
 
 En este acto el adolescente podrá ofrecer medios de prueba y las alegaciones pertinentes para desvirtuar la imposición de las medidas disciplinarias;
 
@@ -1210,3 +1422,27 @@ P.O. 28 DE SEPTIEMBRE DE 2012.
 P.O. 8 DE AGOSTO DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
