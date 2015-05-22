@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2015-05-08"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -33,7 +33,7 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide el siguiente:
 
@@ -215,9 +215,15 @@ V. Las sociedades cooperativas y mutualistas;
 
 VI. Las asociaciones distintas de las enumeradas, que se propongan fines políticos, científicos, artísticos, de recreo o cualquier otro fin lícito, siempre que no fueren desconocidas por la ley;
 
-VII. Las personas morales extranjeras de naturaleza privada; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-VIII. Todas las demás a las que las leyes les conceda tal carácter.
+VII. Las personas morales extranjeras de naturaleza privada;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VIII. Los condominios, en términos del Código Urbano del Estado de Querétaro; y
+
+IX. Todas las demás a las que las leyes les conceda tal carácter.
 
 ###### Artículo 26.
 
@@ -15866,3 +15872,9 @@ P.O. 8 DE MAYO DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE MAYO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
