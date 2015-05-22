@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2013-10-25"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1035,59 +1035,83 @@ IV.- Desempeñarse con el carácter de Juez de Ejecución en aquellos asuntos pe
 
 V.- Las demás que les confieren las leyes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTICULO 81 BIS.- Los Jueces de Garantía, ejercerán las facultades que determinen las disposiciones normativas aplicables.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-Para el nuevo sistema de justicia penal, se contará con el número de Jueces de Garantía que sean indispensables para la adecuada aplicación del citado sistema y de conformidad con la disponibilidad presupuestal.
+ARTICULO 81 BIS.- Los Jueces de Control, ejercerán las facultades que determinen las disposiciones normativas aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+Para el nuevo sistema de justicia penal, se contará con el número de Jueces de Control que sean indispensables para la adecuada aplicación del citado sistema y de conformidad con la disponibilidad presupuestal.
 
-Los Jueces de Garantía estarán investidos de fe pública para constancia y certificación de sus actos.
+Los Jueces de Control estarán investidos de fe pública para constancia y certificación de sus actos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2011)</small>
+En cada uno de los partidos judiciales en el Estado, de acuerdo a la disponibilidad presupuestal y las necesidades del servicio, se contará por lo menos con un Juez Especializado en Ejecución de Sentencia que ejercerá las facultades que determinen las disposiciones normativas aplicables.
 
-Los Jueces de Garantía podrán desempeñarse como Jueces de Ejecución dentro del Partido Judicial correspondiente, con la condición de que no hayan conocido de ese asunto como Juez de Garantía o Tribunal de Juicio Oral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-ARTICULO 81 TER.- Los Tribunales de Juicio Oral estarán integrados por tres Jueces de Garantía, Jueces que no deberán haber conocido del asunto en las etapas previas al juicio oral que deba resolver el Tribunal al que se integran.
+ARTICULO 81 TER.- El Tribunal de Enjuiciamiento, será integrado de manera Colegiada en los delitos que ameritan prisión preventiva oficiosa, en todos los demás casos el Tribunal será integrado de manera Unitaria.
 
-Los Tribunales de Juicio Oral tendrá las atribuciones que determinen las disposiciones normativas aplicables y sus decisiones se tomarán por unanimidad o por mayoría de votos.
+Los Jueces de Control que integren el Tribunal de Enjuiciamiento, no deberán haber conocido del asunto en las etapas previas al juicio que deban resolver.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+El Tribunal de Enjuiciamiento tendrá las atribuciones que determinen las disposiciones normativas aplicables y sus decisiones, cuando se trate de colegiados se tomarán por unanimidad o por mayoría de votos.
 
-El Presidente del Tribunal de Juicio Oral estará investido de fe pública para constancia y certificación de los actos de este órgano colegiado.
+El Juez que presida el Tribunal de Enjuiciamiento, estará investido de fe pública para constancia y certificación de los actos de este órgano colegiado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+El Tribunal de Enjuiciamiento especializado en Justicia para Adolescentes será Unitario. El Juez de Control que lo integre no deberá haber conocido del asunto en las etapas previas al juicio oral que deba resolver.
 
-El Tribunal de Juicio Oral especializado en Justicia para Adolecentes (sic) será Unitario. El Juez de Garantías que lo integre no deberá haber conocido del asunto en las etapas previas al juicio oral que deba resolver.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
-ARTICULO 81 QUATER.- Los Jueces de Garantía nombrarán entre ellos a un Coordinador, el cual tendrá como atribuciones sugerir algunas de las siguientes acciones al administrador judicial:
+ARTICULO 81 QUATER.- Los Jueces de Control nombrarán entre ellos a un Juez Coordinador, el cual tendrá como atribuciones sugerir algunas de las siguientes acciones al administrador judicial:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
 
 I.- La programación del número de audiencias por día.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+
 II.- Las mejoras a los inmuebles e infraestructura que estén bajo custodia del administrador judicial.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
 
 III.- Las medidas para hacer más eficiente el modelo de gestión administrativa.
 
-IV.- El orden de guardias de los Jueces de Garantía.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV.- El orden de guardias de los Jueces de Control.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
 
 V.- Las mejoras en la labor que presta el personal administrativo.
 
-Asimismo, el Juez Coordinador podrá convocar a los Jueces de Garantía con el objeto de analizar entre otros aspectos, temas de su actividad jurisdiccional y homologar en lo posible sus criterios de aplicación de la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-ARTICULO 81 QUINQUES (SIC).- Las vacaciones y guardias de los Jueces de Garantía, serán establecidas por los órganos competentes a través de un sorteo y previa citación a los Jueces. Los Jueces tendrán derecho a estar presentes en la realización del sorteo.
+El Juez Coordinador deberá convocar cada tres meses a los demás Jueces de Control con el objeto de analizar entre otros aspectos, temas relativos a la actividad jurisdiccional y homologar en lo posible sus criterios de aplicación de la ley.
 
-Los Jueces de Garantía y Tribunales de Juicio Oral contarán con el apoyo del personal suficiente para ejercer adecuadamente sus atribuciones, personal que estará adscrito y a cargo del administrador judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
-El Administrador Judicial contará con notificadores encargados de practicar las diligencias que ordenen los Jueces de Garantías y Tribunales de Juicio Oral, para lo cual estarán investidos de fe pública en las actuaciones que realicen.
+ARTICULO 81 QUINQUIES.- Las vacaciones de los Jueces de Control, serán establecidas por periodos de acuerdo a las necesidades del servicio, por los órganos competentes a través de un sorteo y previa citación a los Jueces. Los Jueces tendrán derecho a estar presentes en la realización del sorteo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Los Jueces de Control y Tribunales de Enjuiciamiento contarán con el apoyo del personal suficiente para ejercer adecuadamente sus atribuciones, personal que estará adscrito y a cargo del administrador judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+El Administrador Judicial contará con notificadores encargados de practicar las diligencias que ordenen los Jueces de Control y Tribunales de Enjuiciamiento, para lo cual estarán investidos de fe pública en las actuaciones que realicen.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1329,7 +1353,7 @@ Las faltas absolutas de los Jueces, Secretarios y demás servidores públicos de
 
 Si un magistrado dejare de conocer algún asunto por excusa o recusación, conocerá de éste el Magistrado de otra Sala a quien corresponda de acuerdo con el turno y en caso de impedimento conocerá de éste el magistrado propietario de otra Sala que con anterioridad se haya excusado o haya sido recusado en otro negocio, a quien corresponda el turno que deberá llevar el Presidente del Tribunal. Cuando no existiera magistrado en semejantes condiciones, entonces el Presidente del Tribunal designaré, por riguroso turno, al magistrado que deba hacer la sustitución, y si aún subsistiera impedimento se procederá a nombrar por insaculación a un magistrado de los restantes, procediéndose a resolver el asunto, por lo que no podrá ser recusado o removido por impedimento sino en los casos que expresamente previenen las fracciones, II, III, IV, V, VIII; IX, X, XI, XIII, XIV y XV del artículo 171 del Código de Procedimientos Civiles para el Estado de Baja California, y las fracciones II, III, VII, IX, X, XI, XII, XIII y XIV del artículo 18 Código de Procedimientos Penales para la Entidad, caso en el cual deberá procederse a nueva insaculación.
 
-Cuando los magistrados que integren una Sala estuvieren impedidos para conocer de un negocio, pasará éste al conocimiento de la Sala que le siga en número; si se tratase e la última Sala, será substituida por la que en el orden numérico corresponda.
+Cuando los magistrados que integren una Sala estuvieren impedidos para conocer de un negocio, pasará éste al conocimiento de la Sala que le siga en número; si se tratase de la última Sala, será substituida por la que en el orden numérico corresponda.
 
 Si el impedimento para conocer de un asunto lo tuviere la totalidad de los magistrados de dos Salas, en la forma señalada en el párrafo anterior y derivare de recusación o excusas hechas valer de cualquier forma por parte interesada, conocerá la Sala siguiente por la que en número le corresponda y para ese único efecto se integrará mediante procedimiento de insaculación de los seis magistrados restantes, para resolver el asunto, por no aplicárseles impedimento alguno y por lo tanto no siendo removidos por recusación o excusa, a menos que se encontrare alguno de ellos en los casos de excepción previstos en el párrafo primero de este artículo, caso en el cual deberá procederse a nueva insaculación.
 
@@ -1447,7 +1471,7 @@ SU INTEGRACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 118.
 
-Son sujetos de Juicio Político; el Presidente del Tribunal Superior del Justicia, los Magistrados, los Jueces y los miembros del Consejo de la Judicatura del Estado.
+Son sujetos de Juicio Político; el Presidente del Tribunal Superior del (sic) Justicia, los Magistrados, los Jueces y los miembros del Consejo de la Judicatura del Estado.
 
 ###### ARTICULO 119.
 
@@ -2121,7 +2145,7 @@ VII.- Promover intercambios académicos con instituciones de educación superior
 
 ###### ARTICULO 180.
 
-El Instituto de la Judicatura llevará acabo (sic) cursos de preparación para los exámenes correspondientes a las distintas categorías que componen la carrera judicial, con excepción a la de los magistrados.
+El Instituto de la Judicatura llevará acabo cursos de preparación para los exámenes correspondientes a las distintas categorías que componen la carrera judicial, con excepción a la de los magistrados.
 
 ###### ARTICULO 181.
 
@@ -2171,7 +2195,7 @@ III.- Realizar la microfilmación o captación por duplicado a efecto de que uno
 
 IV.- Relacionar al anverso y al reverso de los documentos, cuando la microfilmación o captación no se haga con equipo que capte simultáneamente las dos caras de dichos documentos y estos contengan anotaciones al reverso. Se destruirán las constancias procesales y documentos originales que hayan sido captados conforme a lo dispuesto anteriormente.
 
-### CAPITULO XIII. DEL ADMINISTRADOR JUDICIAL
+### CAPITULO XIII. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -2199,23 +2223,59 @@ Los servicios a que aluden las fracciones anteriores también podrán ser presta
 
 ARTICULO 197 BIS-1. - El Centro Estatal de Justicia Alternativa estará a cargo de un Director, y funcionará en los términos que determine el Consejo de la Judicatura del Estado de conformidad con la Ley de la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+###### ARTICULO 187.
+
+En la Ciudad de Mexicali, se editará el "Boletín Judicial" que será el órgano oficial de difusión del Poder Judicial del Estado; tendrá por objeto publicar las listas de Acuerdos dictados en materia civil y de lo familiar por los correspondientes Juzgados del Estado, por el Tribunal Superior de Justicia y del Consejo de la Judicatura así como los Edictos y Avisos Judiciales a que se refiere el Capítulo V del Título Segundo, del Código de Procedimientos Civiles.
+
+###### ARTICULO 188.
+
+El Boletín Judicial se publicará diariamente con excepción de sábados, domingos, días de fiestas nacionales, o cuando por cualquier otra causa se suspendan las labores en el Tribunal Superior de Justicia.
+
+###### ARTICULO 189.
+
+La edición y publicación del Boletín Judicial estará a cargo del Tribunal Superior de Justicia y su administración corresponderá al Consejo de la Judicatura.
+
+### CAPITULO XIV. DE LA ADMINISTRACIÓN JUDICIAL
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
 ARTICULO 197 BIS-2.- El administrador judicial estará adscrito a la Presidencia del Consejo de la Judicatura y ejercerá las siguientes facultades:
 
-I.- Dirigir las labores administrativas, para que las audiencias que presidan los Jueces de Garantía y los Tribunales de Juicio Oral se desarrollen adecuadamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II.- Realizar las actividades administrativas que sean necesarias, para la buena marcha del despacho y las audiencias que presidan los Jueces de Garantía y los Tribunales de Juicio Oral.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+I.- Dirigir las labores administrativas, para que las audiencias que presidan los Jueces de Control, los Tribunales de Enjuiciamiento y los Jueces de Ejecución se desarrollen adecuadamente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II.- Realizar las actividades administrativas que sean necesarias, para la buena marcha del despacho y las audiencias que presidan los Jueces de Control, los Tribunales de Enjuiciamiento y los Jueces de Ejecución;
 
 III.- Supervisar las funciones del personal que tenga adscrito y a su cargo y evaluar su desempeño.
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- Distribuir el despacho judicial y las audiencias a los Jueces de Garantía y Tribunales de Juicio Oral, cuando proceda, conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-V.- Establecer el orden de guardias de los Jueces de Garantía.
+IV.- Distribuir el despacho judicial y las audiencias a los Jueces de Control, Tribunales de Enjuiciamiento y Jueces de Ejecución, cuando proceda, conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático;
 
-VI.- Verificar que se cumpla con el abastecimiento de material de trabajo a las áreas de su competencia, de conformidad a lo requerido mensualmente por el Juez coordinador de los Jueces de Garantía.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+V.- Establecer el orden de guardias de los Jueces de Control;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VI.- Verificar que se cumpla con el abastecimiento de material de trabajo a las áreas de su competencia, de conformidad a lo requerido mensualmente por el Juez Coordinador de los Jueces de Control;
 
 VII.- Implementar y dar cumplimiento a las políticas y directrices generales que dicte el Presidente del Consejo de la Judicatura, en materia de selección de personal, evaluación, administración de recursos materiales y humanos, de diseño y análisis de información estadística y demás.
 
@@ -2225,25 +2285,37 @@ IX.- Dar cuenta semestralmente al Presidente del Consejo de la Judicatura, del e
 
 X.- Tener bajo su custodia las salas de audiencia, así como los bienes asignados a las mismas, debiendo poner de inmediato en conocimiento del Presidente del Consejo, cualquier deterioro que sufran.
 
-XI.- Custodiar los bienes y valores que se encuentren a disposición de los Jueces de Garantía y de los Tribunales de Juicio Oral con motivo de la tramitación de los asuntos sometidos a su conocimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XI.- Custodiar los bienes y valores que se encuentren a disposición de los Jueces de Control y de los Tribunales de Enjuiciamiento con motivo de la tramitación de los asuntos sometidos a su conocimiento;
 
 XII.- Entregar y recibir bajo inventario los bienes y valores a que se refieren las fracciones X y XI de este artículo.
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consejo de la Judicatura, a uno o varios Jueces de Garantía, a las unidades judiciales donde deban ejercer su jurisdicción.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consejo de la Judicatura, a uno o varios Jueces de Control, a las unidades judiciales donde deban ejercer su jurisdicción;
 
-XIV.- Ejercer las facultades y aplicar los procedimientos previstos en las fracciones l, II y IV de este artículo cuando los Jueces de Garantía actúen en calidad de Jueces de Ejecución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XIV.- Convocar a las partes para que concurran a audiencia en aquellos casos en que la Ley establezca que la autoridad Judicial deba convocar a una audiencia y no sea necesaria una valoración judicial previa, respecto a la necesidad de celebrarla;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 XV.- Las demás que determinen las disposiciones legales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTICULO 197 BIS-3.- Podrá contarse con más de un administrador judicial, cuando lo justifique la necesidad de prestar un adecuado apoyo a los Jueces de Garantía y a los Tribunales de Juicio Oral y se cuente con la disponibilidad presupuestal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
+ARTICULO 197 BIS-3.- Podrá contarse con más de un administrador judicial, cuando lo justifique la necesidad de prestar un adecuado apoyo a los Jueces de Control y a los Tribunales de Enjuiciamiento y se cuente con la disponibilidad presupuestal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
 El Consejo de la Judicatura determinará la adscripción del administrador judicial o administradores judiciales.
 
@@ -2263,47 +2335,15 @@ V.- Tener residencia mínima de cinco años en el Estado, anteriores al día de 
 
 VI.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTICULO 197 BIS-5.- El administrador judicial será considerado para efectos laborales como trabajador de confianza y tendrá adscrito y a su cargo, el personal que le asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones, en particular de apoyo a los Jueces de Garantía y Tribunales de Juicio Oral.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTICULO 197 BIS-5.- El administrador judicial será considerado para efectos laborales como trabajador de confianza y tendrá adscrito y a su cargo, el personal que le asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones, en particular de apoyo a los Jueces de Control y Tribunales de Enjuiciamiento.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 246 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015 SE ADICIONO EL CAPÍTULO XIV, QUE SE INTEGRA CON LOS NÚMERALES 197 BIS-2 AL 197 BIS-5.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE OCTUBRE DE 2013)</small>
-
-###### ARTICULO 187.
-
-En la Ciudad de Mexicali, se editará el "Boletín Judicial" que será el órgano oficial de difusión del Poder Judicial del Estado; tendrá por objeto publicar las listas de Acuerdos dictados en materia civil y de lo familiar por los correspondientes Juzgados del Estado, por el Tribunal Superior de Justicia y del Consejo de la Judicatura así como los Edictos y Avisos Judiciales a que se refiere el Capítulo V del Título Segundo, del Código de Procedimientos Civiles.
-
-###### ARTICULO 188.
-
-El Boletín Judicial se publicará diariamente con excepción de sábados, domingos, días de fiestas nacionales, o cuando por cualquier otra causa se suspendan las labores en el Tribunal Superior de Justicia.
-
-###### ARTICULO 189.
-
-La edición y publicación del Boletín Judicial estará a cargo del Tribunal Superior de Justicia y su administración corresponderá al Consejo de la Judicatura.
-
-### CAPÍTULO XIV. DEL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2013)</small>
-
-ARTICULO 197 TER.- El Centro de Convivencia Familiar Supervisada es un órgano administrativo del Poder Judicial del Estado de Baja California con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno-filial en aquellos casos que, a juicio de los titulares de los Juzgados de lo Familiar, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
-
-Los servicios del Centro de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones, tendrá su sede en la capital del Estado y contará con unidades de apoyo en los municipios que lo requieran.
-
-El Centro de Convivencia Familiar Supervisada será administrado y vigilado por el Consejo de la Judicatura de Baja California, el cual expedirá las bases para su organización y funcionamiento.
-
-El Centro de Convivencia Familiar Supervisada estará integrado por un Titular y el personal necesario para el cumplimiento de sus funciones. Deberá igualmente, contar con los Secretarios Auxiliares que sean necesarios para dar fe.
-
-Para ser Titular del Centro de Convivencia Familiar deberá reunir los requisitos señalados por las fracciones I, III, IV y V del artículo 65 de esta Ley, además deberá poseer título con antigüedad de cinco años a nivel licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
-
-TITULO DECIMOSEGUNDO
-
-DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 190.
 
@@ -2349,7 +2389,27 @@ El acta levantada por el visitador será entregada al Titular del Organo Visitad
 
 El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularidades que se realicen o se estén realizando en un órgano del Poder Judicial y que a juicio del propio Consejo amerite inmediata inspección, podrá llevarla a cabo por sí o por el visitador que designe sin que previamente se hubiese dado el aviso a que se refiere el artículo 209 de esta ley.
 
-### CAPITULO I. DE LAS DESIGNACIONES
+### CAPÍTULO XIV. DEL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 197 TER.- El Centro de Convivencia Familiar Supervisada es un órgano administrativo del Poder Judicial del Estado de Baja California con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno-filial en aquellos casos que, a juicio de los titulares de los Juzgados de lo Familiar, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
+
+Los servicios del Centro de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones, tendrá su sede en la capital del Estado y contará con unidades de apoyo en los municipios que lo requieran.
+
+El Centro de Convivencia Familiar Supervisada será administrado y vigilado por el Consejo de la Judicatura de Baja California, el cual expedirá las bases para su organización y funcionamiento.
+
+El Centro de Convivencia Familiar Supervisada estará integrado por un Titular y el personal necesario para el cumplimiento de sus funciones. Deberá igualmente, contar con los Secretarios Auxiliares que sean necesarios para dar fe.
+
+Para ser Titular del Centro de Convivencia Familiar deberá reunir los requisitos señalados por las fracciones I, III, IV y V del artículo 65 de esta Ley, además deberá poseer título con antigüedad de cinco años a nivel licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
+
+TITULO DECIMOSEGUNDO
+
+DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 195.
 
@@ -2387,7 +2447,7 @@ III.- Durante el mes de mayo de cada año deberá presentarse la declaración de
 
 Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
 
-### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
+### CAPITULO I. DE LAS DESIGNACIONES
 
 ###### ARTICULO 197.
 
@@ -2403,7 +2463,11 @@ III.- Fuera de la capital del Estado recibir promociones que deben presentarse a
 
 IV.- Las que para el mejor desempeño de la administración de justicia le señalare el Consejo de la Judicatura.
 
-> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+
+### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
 
 ### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
 
@@ -2414,8 +2478,6 @@ IV.- Las que para el mejor desempeño de la administración de justicia le seña
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2013)</small>
 
 ### CAPITULO II. DE LOS SINDICOS DE CONCURSO
-
-### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
 
 ###### ARTICULO 198.
 
@@ -2437,13 +2499,17 @@ V.- Secretario de Estudio y Cuenta adscrito a cada Magistrado que integre Sala.
 
 VI.- Secretario de Acuerdos.
 
-VII.- Actuario del Poder Judicial del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VII.- Actuarios y Notificadores del Poder Judicial del Estado.
 
 ###### ARTICULO 200.
 
 El Consejo de la Judicatura del Estado establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
 
-### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
+### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
 
 ###### ARTICULO 201.
 
@@ -2483,7 +2549,7 @@ III.- Un Magistrado del Tribunal Superior de Justicia que determine el Pleno del
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPITULO V. DE LOS NOTARIOS
+### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
 
 ###### ARTICULO 205.
 
@@ -2521,7 +2587,7 @@ TITULO DECIMOTERCERO
 
 DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO VI. DE LOS PERITOS
+### CAPITULO V. DE LOS NOTARIOS
 
 ###### ARTICULO 208.
 
@@ -2637,7 +2703,7 @@ V.- Calzar con su firma y nombre completo, los certificados y constancias que ex
 
 VI.- Las demás que les encomienden las leyes.
 
-### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
+### CAPITULO VI. DE LOS PERITOS
 
 ###### ARTICULO 218.
 
@@ -2663,9 +2729,7 @@ IV.- Ser de notoria honradez y no haber sido condenado por delito intencional.
 
 V.- No encontrarse comprendido dentro de los casos previstos por el artículo 17 de esta ley.
 
-### CAPITULO I. DE SU NATURALEZA
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
 
 ###### ARTICULO 221.
 
@@ -2687,7 +2751,7 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
-### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+### CAPITULO I. DE SU NATURALEZA
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2695,7 +2759,7 @@ Serán causas de la remoción del interventor, no prestar vigilancia necesaria a
 
 Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designados por los jueces del Estado, deberán llenar todos los requisitos establecidos en este título para los síndicos e interventores, en aquello que sea compatible con su carácter y función, del mismo modo, los depositarios y en particular a todos aquellos que actúen en los juicios como auxiliares, por ese sólo hecho les serán aplicables las reglas establecidas especialmente en éste título y en todas las demás de la presente Ley en lo que fuere compatible para los efectos de su designación de sus atribuciones y responsabilidades.
 
-### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2703,7 +2767,7 @@ Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designad
 
 En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
 
-### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
+### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2749,7 +2813,7 @@ Los honorarios de los peritos designados por el juez, sin solicitud de ninguno d
 
 Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
 
-### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2789,7 +2853,7 @@ DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2837,7 +2901,7 @@ Los Juzgados de Primera Instancia del Orden Común, Civiles y Penales y los Juzg
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2997,7 +3061,7 @@ ARTICULO 251 SEPTIES.- Para el desempeño de los asuntos que tiene encomendados 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3097,7 +3161,7 @@ XXXVIII.- Las demás que señale esta Ley y el Reglamento Interior.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
+### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3187,7 +3251,7 @@ XX.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
+### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3229,7 +3293,7 @@ XIV.- Las demás que le encomiende el Pleno y el Presidente del Tribunal.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
+### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3313,7 +3377,7 @@ XVII.- Desempeñar cualquier otra función que la Ley o el Reglamento Interior d
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
+### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3339,7 +3403,7 @@ VIII.- Las demás que le señale el Reglamento Interior, los acuerdos generales 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
+### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3361,7 +3425,7 @@ III.- El cumplimiento de las normas y disposiciones relativas a los sistemas de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
+### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3511,7 +3575,7 @@ La Comisión de Administración, podrá ser autorizada por el Pleno del Tribunal
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
+### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3537,7 +3601,7 @@ Asimismo, al Secretario General Acuerdos y a los Secretarios de Estudio y Cuenta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3562,6 +3626,10 @@ Los servidores públicos del Tribunal, estarán obligados a prestar sus servicio
 Durante los procesos electorales locales, podrá preverse en el Presupuesto de Egresos compensaciones para los servidores públicos del Tribunal.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 278.
 
@@ -4044,3 +4112,27 @@ PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015.
 SEGUNDO.- El Pleno del Consejo de la Judicatura Estatal, deberá tomar las medidas presupuestales necesarias para que el Centro de Convivencia Familiar Supervisada entre en funciones.
 
 TERCERO.- Las unidades de apoyo, comenzarán a funcionar en el orden y fechas que determine el Pleno del Consejo de la Judicatura Estatal, conforme a las posibilidades presupuestales y necesidades del servicio.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
