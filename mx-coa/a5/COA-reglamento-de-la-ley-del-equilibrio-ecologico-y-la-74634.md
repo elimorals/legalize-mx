@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-74634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-23"
-last_updated: "2015-05-08"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA EN MATERIA DE IMPACTO AMBIENTAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MAYO DE 2015 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA EN MATERIA DE IMPACTO AMBIENTAL
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE MAYO DE 2015.</small>
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 23 de abril de 2010.
 
@@ -379,9 +379,9 @@ XIII. Los demás documentos que determine la Secretaría debido a la complejidad
 
 Todos los documentos antes descritos deberán entregarse en forma impresa y en el medio magnético que la Secretaría determine.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+(ADICIONADO, P.O. 8 DE MAYO DE 2015) (F. DE E., P.O. 22 DE MAYO DE 2015)
 
-La falta de uno o varios de los requisitos descritos en este artículo, de los datos previstos en los artículos 18 y 25, así como las guías previstas en el artículo 19 de este Reglamento, o la falta de vigencia o validez de algún documento de los requeridos para el proceso de evaluación correspondiente, impedirá la recepción oficial en Ventanilla Única del trámite, hasta en tanto (sic)
+La falta de uno o varios de los requisitos descritos en este artículo, de los datos previstos en los artículos 18 y 25, así como las guías previstas en el artículo 19 de este Reglamento, o la falta de vigencia o validez de algún documento de los requeridos para el proceso de evaluación correspondiente, impedirá la recepción oficial en Ventanilla Única del trámite, hasta en tanto no se presente toda la información y documentación requeridas.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
