@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2015-03-27"
+last_updated: "2015-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -81,7 +81,11 @@ IV.- Promover la resolución de los conflictos surgidos como consecuencia de los
 
 V.- Aplicar los criterios de oportunidad en los supuestos previstos por las leyes;
 
-VI.- Solicitar la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por las leyes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VI.- Solicitar la suspensión condicional del proceso y la apertura del procedimiento abreviado, en los supuestos previstos por las leyes;
 
 VII.- Solicitar la reparación del daño a favor de la víctima u ofendido;
 
@@ -97,7 +101,11 @@ XII.- Dirigir a la Policía Ministerial y al resto de las instituciones policial
 
 XIII.- Decretar el no ejercicio de la acción penal o el archivo definitivo de la investigación;
 
-XIV.- Autorizar para los efectos de trasplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas, cuando con motivo de una averiguación previa se encuentren a su disposición, siempre y cuando el disponente haya dado su consentimiento expreso y por escrito, y se reúnan los requisitos establecidos en las disposiciones legales aplicables. Cuando el disponente de su cuerpo no haya manifestado su voluntad, los disponentes secundarios podrán otorga (sic) el consentimiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XIV.- Autorizar para los efectos de trasplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas, cuando con motivo de una averiguación previa o investigación se encuentren a su disposición, siempre y cuando el disponente haya dado su consentimiento expreso y por escrito, y se reúnan los requisitos establecidos en las disposiciones legales aplicables. Cuando el disponente de su cuerpo no haya manifestado su voluntad, los disponentes secundarios podrán otorga (sic) el consentimiento;
 
 XV.- Ejercer las atribuciones que en materia de justicia para adolescentes establezcan las leyes;
 
@@ -123,17 +131,17 @@ XXI.- Perseguir y conocer de los delitos contra la salud en su modalidad de narc
 
 XXII.- Remitir al Ministerio Público de la Federación cuando éste así lo solicite, conforme a lo dispuesto en el inciso b) de la fracción IV del artículo 474 de la Ley General de Salud, la investigación correspondiente relativa a los delitos contra la salud en su modalidad de narcomenudeo previstos en el capítulo VII del título XVIII de dicho ordenamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-XXIII.- Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
+XXIII.- Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas o investigaciones por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-XXIV.- Practicar en los casos a que se refiere el párrafo segundo del artículo 474 de la Ley General de Salud, las diligencias de averiguación previa que correspondan y remitir el acta o actas levantadas y todo lo que con ellas se relacione, al Ministerio Público de la Federación dentro de los tres días de haberlas concluido;
+XXIV.- Practicar en los casos a que se refiere el párrafo segundo del artículo 474 de la Ley General de Salud, las diligencias de la averiguación previa o investigación que correspondan y remitir el acta o actas levantadas y todo lo que con ellas se relacione, al Ministerio Público de la Federación dentro de los tres días de haberlas concluido;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -844,3 +852,27 @@ SEGUNDO.- De conformidad con lo que establecen los artículos segundo transitori
 TERCERO.- En virtud de lo dispuesto por los artículos 22 y Séptimo transitorio de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, el Consejo Estatal de Seguridad Pública y los Municipios del Estado, conforme a los acuerdos que se generen en el marco del Sistema Nacional de Seguridad Pública, deberán elaborar en un plazo de seis meses, el programa estatal y municipal, respectivamente, para prevenir, perseguir y sancionar las conductas previstas en la citada Ley, a efecto de remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana.
 
 La elaboración de la propuesta del programa estatal estará a cargo de la Procuraduría General de Justicia del Estado, quien deberá coordinar los trabajos para su elaboración con las dependencias e instancias correspondientes, previo a su remisión al Consejo Estatal de Seguridad Pública, para la aprobación correspondiente.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
