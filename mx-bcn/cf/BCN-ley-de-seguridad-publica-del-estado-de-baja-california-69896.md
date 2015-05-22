@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2013-10-25"
+last_updated: "2015-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015, LAS MENCIONES QUE SE HAGA RESPECTO A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -631,7 +633,11 @@ El Sistema Estatal de Información sobre Seguridad Pública se integrará por lo
 
 I. Del personal adscrito a las Instituciones de Seguridad Pública de los Ayuntamientos y dependencias del Poder Ejecutivo del Estado, independientemente de la función que se desempeñe, así como del personal a que se refiere el reglamento que regula la prestación de servicios de seguridad privada en el Estado;
 
-II. De los indiciados, procesados y sentenciados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+II. De los imputados, acusados y sentenciados;
 
 III. Los Informes Policiales Homologados que generen las Instituciones Policiales;
 
@@ -647,9 +653,17 @@ VIII. Del padrón vehicular y de licencias de conducir;
 
 IX. De huellas dactilares;
 
-X. Del registro de voz de los Miembros, del personal que prevé el reglamento que regula la prestación de servicios de seguridad privada para el Estado, y de los indiciados, procesados y sentenciados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XI. De tipo sanguíneo y de ácido desoxirribonucleico (ADN) del personal de las Instituciones de Seguridad Pública, así como de las personas probables responsables de delitos, indiciadas, detenidas, procesadas, sentenciadas e identificadas administrativamente;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+X. Del registro de voz de los Miembros, del personal que prevé el reglamento que regula la prestación de servicios de seguridad privada para el Estado, y de los imputados, acusados y sentenciados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XI. De tipo sanguíneo y de ácido desoxirribonucleico (ADN) del personal de las Instituciones de Seguridad Pública, así como de las personas probables responsables de delitos, imputadas, detenidas, acusadas, sentenciadas e identificadas administrativamente;
 
 XII. Del padrón de construcciones que se encuentre en estado de abandono que posibiliten ser utilizado por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones;
 
@@ -833,9 +847,13 @@ La Secretaría de Planeación y Finanzas deberá proporcionar a la Secretaría y
 
 ### CAPÍTULO SEXTO. DE LA IDENTIFICACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 57.
 
-Se integrará la información estatal de datos sobre personas probables responsables de delitos, indiciadas, detenidas, procesadas, sentenciadas e identificadas administrativamente, y en su caso, el estado que guarda el proceso penal, de consulta obligatoria en las actividades de Seguridad Pública, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación.
+Se integrará la información estatal de datos sobre personas probables responsables de delitos, imputadas, detenidas, acusadas, sentenciadas e identificadas administrativamente, y en su caso, el estado que guarda el proceso penal, de consulta obligatoria en las actividades de Seguridad Pública, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación.
 
 Esta base de datos, se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración, administración de justicia, readaptación social y en general, todas las instituciones que deban contribuir a la seguridad pública.
 
@@ -1921,7 +1939,7 @@ XXXVII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotr�
 
 XXXVIII. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
 
-XXXIX. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y (sic)
+XXXIX. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y
 
 XL. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
 
@@ -2504,3 +2522,27 @@ DECRETO No. 569, POR EL QUE SE REFORMA A LA FRACCIÓN II DEL ARTÍCULO 36 DE LA 
 P.O. 25 DE OCTUBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
