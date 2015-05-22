@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-comision-disciplinaria-y-de-carrera-77458"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-19"
-last_updated: "2014-12-26"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA COMISION DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA --ANTES REGLAMENTO DE LA COMISION DISCIPLINARIA Y DE CARRERA POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA --
 
-REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de noviembre de 2010.
 
@@ -53,9 +53,9 @@ EL SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO DE ENSENADA
 
 LIC. MARIO ALBERTO GARCIA SALAIZA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
 
-REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA.
+REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -603,13 +603,13 @@ A efecto de llevar a cabo el desahogo del procedimiento de separación definitiv
 
 ### CAPITULO PRIMERO. DE SU COMPETENCIA E INTEGRACION
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 29.
 
-La Comisión es un órgano colegiado que tiene por objeto conocer y resolver las controversias que se susciten con relación a los procedimientos de carrera policial y régimen disciplinario de los miembros de la Dirección, que está integrada por:
+La Comisión es un órgano colegiado que tiene por objeto conocer y resolver las controversias que se susciten con relación a los procedimientos de carrera policial y régimen disciplinario de los Miembros de la Dirección que está integrada por:
 
-I.- Un Presidente, que será el Secretario;
+I.- Un Presidente, que será el Director;
 
 II.- Un Secretario Técnico, que será el Jefe del Departamento de Responsabilidades y de Situación Patrimonial de la Sindicatura Municipal.
 
@@ -619,9 +619,9 @@ A) El Titular de la Sindicatura Municipal.
 
 B) El Regidor Coordinador de la Comisión de Seguridad, Tránsito y Transporte.
 
-C) Un Representante, de las unidades operativas de investigación, prevención y reacción de la Dirección de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
+C) Un Representante, de las unidades operativas de investigación, prevención y reacción de la Secretaría de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
 
-D) Un representante de la Asociación de Policía legalmente constituida a la cual pertenezca el miembro sujeto a procedimiento.
+D) Un representante de cada (sic) la Asociación de Policía legalmente constituida a la cual pertenezca el miembro sujeto a procedimiento.
 
 E) El Presidente del Comité Ciudadano de Seguridad Pública de Ensenada Baja California.
 
@@ -944,3 +944,7 @@ P.O. 26 DE DICIEMBRE DE 2014.
 PRIMERO.- La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente reglamento continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+P.O. 22 DE MAYO DE 2015.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL.
