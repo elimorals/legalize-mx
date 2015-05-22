@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2013-12-06"
+last_updated: "2015-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -187,7 +187,7 @@ Para el estudio, planeación y despacho de los negocios en los diversos ramos de
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
 
-Además de la Secretaría General de Gobierno, actuarán en su cargo (sic) directamente en el desempeño de las funciones encomendadas al Titular del Poder Ejecutivo, las siguientes dependencias:
+Además de la Secretaría General de Gobierno, actuarán en su cargo directamente en el desempeño de las funciones encomendadas al Titular del Poder Ejecutivo, las siguientes dependencias:
 
 I.- Oficialía Mayor de Gobierno;
 
@@ -239,7 +239,7 @@ XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
 (REFORMADA, P.O. 29 DE JUNIO DE 2001) (REPUBLICADA, P.O. 28 DE OCTUBRE DE 2005)
 
-XVIII.- Dirección de Control y Evaluación Gubernamental, y (sic)
+XVIII.- Dirección de Control y Evaluación Gubernamental, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2008)</small>
 
@@ -295,7 +295,7 @@ IV.- Intervenir y ejercer la vigilancia que en materia electoral señalen las Le
 
 V.- Expedir Permisos y Concesiones, previo Acuerdo del Gobernador, que no estén asignados a otras Dependencias del Ejecutivo;
 
-VI.- Vigilar, en auxilio de las Autoridades Federales, que las publicaciones impresas, trasmisiones (sic) de radio y televisión, películas y demás espectáculos públicos, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, evitando provoquen la comisión de delitos o perturben el orden público;
+VI.- Vigilar, en auxilio de las Autoridades Federales, que las publicaciones impresas, trasmisiones de radio y televisión, películas y demás espectáculos públicos, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, evitando provoquen la comisión de delitos o perturben el orden público;
 
 VII.- Vigilar, en auxilio de las Autoridades Federales, el desarrollo de los eventos a que se refiere la Ley Federal de Juegos y Sorteos;
 
@@ -383,9 +383,9 @@ XXIX.- Coordinar los programas de normatividad jurídica, procurando la congruen
 
 XXX.- Intervenir en el asesoramiento jurídico de los trámites de expropiación por causa de utilidad pública;
 
-> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-XXXI.- Dirigir, organizar, administrar y evaluar la defensoría de Oficio, garantizando su accesibilidad a los gobernados;
+XXXI.- Dirigir, organizar, administrar y evaluar la Defensoría Pública, garantizando su accesibilidad a los gobernados;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2008)</small>
 
@@ -455,9 +455,11 @@ DE LA COMPETENCIA DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
 La Procuraduría General de Justicia tiene las facultades y obligaciones que específicamente le confiere la Constitución Política del Estado y la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 22.
 
-El Procurador General de Justicia es el Titular del Ministerio Público, Institución a la que incumbe el ejercicio de la acción penal y tendrá a sus órdenes inmediatas a la Policía Judicial como órgano de investigación previa y de ejecución de los mandamientos judiciales.
+El Procurador General de Justicia es el Titular del Ministerio Público, Institución a la que incumbe el ejercicio de la acción penal y tendrá a sus órdenes inmediatas a la Policía Ministerial, como órgano de investigación y de ejecución de los mandamientos judiciales.
 
 Además tendrá intervención en todos los asuntos que afecten a la sociedad y a la familia, en particular tratándose de menores y, en general respecto de personas a quienes las Leyes otorgan especial protección.
 
@@ -471,7 +473,9 @@ II.- Vigilar el respeto a las Leyes por parte de todas las Autoridades y, en su 
 
 III.- Hacer cesar la comisión de los delitos, con la debida eficacia y oportunidad;
 
-IV.- Proponer al Ejecutivo el nombramiento o la remoción de los Agentes del Ministerio Público, así como el cambio de adscripción de los mismos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+IV.- Proponer al Ejecutivo el nombramiento o la remoción de los Subprocuradores.
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
@@ -789,7 +793,7 @@ X.- Asesorar técnicamente a los Ayuntamientos y a los sectores social y privado
 
 XI.- Promover programas ante instituciones especializadas referentes a la capacitación y adiestramiento de mano de obra que impulsen y mejoren la productividad del trabajo;
 
-XII.- Impulsar y participar en los programas de investigación de tecnología industrial y fomentar su divulgación, y (sic)
+XII.- Impulsar y participar en los programas de investigación de tecnología industrial y fomentar su divulgación, y
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -925,7 +929,7 @@ IX.- Fomentar, difundir y coordinar la enseñanza y práctica de los deportes y 
 
 X.- Promover, autorizar y vigilar el establecimiento y funcionamiento de los Centros de Protección, de Desarrollo Infantil y de Asistencia Social;
 
-XI.- Registrar y controlar el ejercicio profesional en el Estado, así como auspiciar y vigilar el establecimiento de Colegios y Asociaciones de Profesionales, y (sic)
+XI.- Registrar y controlar el ejercicio profesional en el Estado, así como auspiciar y vigilar el establecimiento de Colegios y Asociaciones de Profesionales, y
 
 XII.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
@@ -1207,17 +1211,17 @@ XXX.- Operar y administrar los centros de internamiento para adolescentes en el 
 
 XXXI.- Ejecutar las penas por delitos del orden común, dictadas por las autoridades judiciales competentes, así como por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, siempre y cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-XXXII.- Coordinar, vigilar y, en su caso, ejecutar el cumplimiento de las medidas cautelares, providencias precautorias y las condiciones a cumplir durante la suspensión del proceso a prueba;
+XXXII.- Coordinar, vigilar, y supervisar el cumplimiento de las medidas cautelares y las condiciones a cumplir, durante la suspensión condicional del proceso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-XXXIII.- Obtener, generar, clasificar y suministrar información relacionada con las medidas, providencias y condiciones a que se refiere la fracción anterior, de oficio o a petición de la autoridad judicial competente y en términos de las disposiciones normativas aplicables;
+XXXIII.- Obtener, generar, clasificar y suministrar información relacionadas con las medidas y condiciones a que se refiere la fracción anterior, de oficio o a petición de la autoridad judicial competente y en términos de las disposiciones normativas aplicables;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1257,13 +1261,23 @@ XLI.- Fomentar en coordinación con la Secretaría de Salud del Estado y demás 
 
 XLII.- Establecer coordinación con las instituciones de seguridad pública, con las instituciones policiales y sus auxiliares, de los tres órdenes de gobierno y del extranjero de acuerdo a la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XLIII.- Integrar y administrar la información estatal sobre la incidencia criminológica, así como coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente, y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+XLIII.- Integrar y administrar la información estatal sobre la incidencia criminológica, así como coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente;
 
-XLIV.- Las demás que le atribuyan expresamente las disposiciones normativas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+XLIV.- Realizar la evaluación de riesgo a petición del Ministerio Público o Defensa con la finalidad de determinar el nivel de riesgo que representa un imputado para que las partes le proporcionen dicha información al Juez de Control y se imponga la medida cautelar más idónea; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
+
+XLV.- Las demás que le atribuyan expresamente las disposiciones normativas aplicables.
 
 ARTICULO 38 BIS.- (DEROGADO, P.O. 25 DE OCTUBRE DE 2013)
 
@@ -1921,7 +1935,7 @@ P.O. 10 DE OCTUBRE DE 2008.
 
 PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico oficial del Estado.
 
-SEGUNDO.- EL (SIC) Ejecutivo del Estado deberá realizar las adecuaciones normativas necesarias para el cumplimiento de los alcances del presente Decreto a más tardar dentro de los 180 días siguientes de su publicación.
+SEGUNDO.- EL Ejecutivo del Estado deberá realizar las adecuaciones normativas necesarias para el cumplimiento de los alcances del presente Decreto a más tardar dentro de los 180 días siguientes de su publicación.
 
 TERCERO.- El Congreso del Estado autorizará las previsiones presupuestales necesarias para dar cumplimiento al presente Decreto.
 
@@ -2082,6 +2096,30 @@ P.O. 25 DE OCTUBRE DE 2013.
 P.O. 6 DE DICIEMBRE DE 2013.
 
 Único.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
