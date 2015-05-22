@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-banco-de-tejidos-del-estado-de-88643"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-13"
-last_updated: "2013-05-02"
+last_updated: "2015-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 13 de julio de 2012.
 
@@ -189,15 +189,23 @@ III. Departamento de Investigación y Enseñanza.
 
 IV. Unidad de Apoyo Administrativo.
 
-V. Contraloría Interna.
+> <small>(REFORMADA, G.G. 22 DE MAYO DE 2015)</small>
+
+V. Unidad Jurídica.
+
+> <small>(ADICIONADA, G.G. 22 DE MAYO DE 2015)</small>
+
+VI. Contraloría Interna.
 
 El Banco contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 12.
 
 Al frente de cada Departamento y Unidad habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran.
 
-### CAPÍTULO III. DE LOS JEFES DE DEPARTAMENTO Y DEL JEFE DE UNIDAD
+### CAPÍTULO III. DE LOS JEFES DE DEPARTAMENTO Y DE LOS JEFES DE UNIDAD
 
 ###### Artículo 13.
 
@@ -237,6 +245,8 @@ XVI. Cumplir, en el ámbito de su competencia, las disposiciones en materia de t
 
 XVII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE MAYO DE 2015)</small>
+
 ###### Artículo 14.
 
 Corresponde al Departamento de Procuración:
@@ -261,7 +271,7 @@ IX. Vigilar que las prácticas médico quirúrgicas, se realicen con el equipo e
 
 X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
 
-### CAPÍTULO IV. DE LOS DEPARTAMENTOS Y UNIDAD
+### CAPÍTULO IV. DE LOS DEPARTAMENTOS Y UNIDADES
 
 ###### Artículo 15.
 
@@ -332,6 +342,38 @@ XVI. Gestionar los contratos de seguros y fianzas para garantizar los actos rela
 XVII. Determinar y controlar las medidas de seguridad y vigilancia de las instalaciones y bienes del Banco, así como instrumentar mecanismos preventivos y dispositivos de emergencia en caso de desastre.
 
 XVIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+
+> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2015)</small>
+
+###### Artículo 17 Bis.
+
+Corresponde a la Unidad Jurídica:
+
+I Representar legalmente al Organismo y al Director ante las autoridades jurisdiccionales estatales y federales procedimientos en que sea actor o demandado, tengan interés jurídico o se le designe como parte, en los términos de los poderes que le otorgue el Director General, así como a sus servidores públicos sujetos a investigación que sean parte en juicios penales o civiles, por actos derivados del servicio y no impliquen conflicto de intereses con el Banco, ejercitando toda clase de acciones, defensas y excepciones.
+
+II Gestionar la suscripción de Convenios y/o Acuerdos de colaboración con instituciones públicas y privadas a favor de la donación y trasplantes de órganos y tejidos dentro y fuera del Estado de México.
+
+III Establecer, sistematizar, unificar y difundir entre las unidades administrativas del Organismo los criterios de interpretación y aplicación de las disposiciones legales, reglamentarias y administrativas que sean de su competencia.
+
+IV Elaborar, revisar y emitir opinión sobre los anteproyectos de leyes, reglamentos, decretos y acuerdos relativos a los asuntos de la competencia del Organismo.
+
+V Coadyuvar con la Procuraduría General de Justicia en la integración de las carpetas de investigación y en el trámite de los procesos que afecten al Organismo, o bien en los que éste tenga interés jurídico.
+
+VI Vigilar la continuidad de los juicios, procedimientos y diligencias respectivas; así como formular y suscribir las demandas, contestaciones y en general todas las promociones que se requieran para la continuación de los juicios, recursos o cualquier procedimiento interpuesto ante dichas autoridades y vigilar el cumplimiento que a dichos juicios se refieran, formular dictámenes, contestar demandas laborales, formular y absolver posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que a dichos juicios se refieran.
+
+VII Participar en el Comité de Adquisiciones y Servicios del Organismo y demás comités donde sea requerida su presencia.
+
+VIII Revisar los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma, se celebren en las mejores condiciones para el Banco y en apego a la normatividad aplicable.
+
+IX Asesorar jurídicamente al Director General y a las Unidades Administrativas del Banco, respecto de las atribuciones que les compete ejercer.
+
+X Elaborar un registro de los convenios, acuerdos, contratos y bases de coordinación que celebre el Organismo.
+
+XI Formular denuncias de hechos, querellas y desistimientos, así como otorgar los perdones legales que procedan.
+
+XII Dictaminar las actas administrativas que se instrumenten a los servidores públicos del Organismo por transgredir las disposiciones laborales aplicables.
+
+XIII Las demás que le confieren otras disposiciones legales.
 
 ###### Artículo 18.
 
@@ -452,6 +494,14 @@ DIRECTORA GENERAL DEL BANCO DE TEJIDOS DEL ESTADO DE MEXICO Y SECRETARIA DE LA J
 G.G. 2 DE MAYO DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
+
+G.G. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
 
 ### CAPÍTULO VI. DEL CONSEJO TÉCNICO CONSULTIVO
 
