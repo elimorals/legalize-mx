@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2015-03-20"
+last_updated: "2015-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015, LAS MENCIONES QUE SE HAGA RESPECTO A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -67,7 +69,7 @@ VI.- Dirección.- A la Dirección de Atención a Víctimas del Delito de la Proc
 
 VII.- Código Penal.- El Código Penal para el Estado de Baja California;
 
-VIII.- Código de Procedimientos Penales.- El Código de Procedimientos Penales para el Estado de Baja California.
+VIII.- (DEROGADA, P.O. 22 DE MAYO DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -161,7 +163,9 @@ VI.- A la reparación del daño cuando legalmente proceda;
 
 VII.- A que la autoridad investigadora o jurisdiccional dicte las providencias legales y medidas de protección necesarias para proteger su vida, integridad física y moral, bienes, posesiones o derechos, incluyendo los de familiares directos, cuando existan datos que hagan presumir que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados;
 
-VIII.- Coadyuvar con el Ministerio Público en el proceso penal en los términos previstos por el Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+
+VIII.- Coadyuvar con el Ministerio Público en el proceso penal en los términos previstos por la legislación procedimental penal aplicable;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -317,9 +321,11 @@ El Agente del Ministerio Público, podrá dictar desde el inicio de la averiguac
 
 Las autoridades encargadas de prestar los servicios de atención y protección deberán dar cumplimiento inmediato a las medidas ordenadas por el Agente del Ministerio Público, previo el cumplimiento de las condiciones y requisitos establecidas por esta Ley, sin perjuicio de lo establecido por el artículo 15 de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 21.
 
-En el caso de que los hechos denunciados o investigados no constituyan un tipo penal, la Dirección informará a los interesados, de ser el caso, el derecho que les corresponde para deducir la acción respectiva por la vía civil y la posibilidad de ser asistidos por un Defensor de Oficio, dejando constancia de tal informe en el expediente respectivo.
+En el caso de que los hechos denunciados o investigados no constituyan un tipo penal, la Dirección informará a los interesados, de ser el caso, el derecho que les corresponde para deducir la acción respectiva por la vía civil y la posibilidad de ser asistidos por un Defensor Público, dejando constancia de tal informe en el expediente respectivo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -462,3 +468,27 @@ TERCERO.- El Ejecutivo deberá asignar en el presupuesto la partida correspondie
 P.O. 20 DE MARZO DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional. Lo anterior, sin perjuicio de lo siguiente:
+
+1.- Las reformas a la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, y la reforma a los artículos 19, 22 y 23 de la Ley Orgánica de la Administración Pública del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+2.- Las reformas a la Ley Orgánica de la Defensoría Pública del Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su cumplimiento estará sujeto a la disponibilidad presupuestal.
+
+3.- Las reformas a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, entrarán en vigor al momento en que inicie vigencia dicha Ley conforme a su artículo transitorio primero.
+
+4.- Las reformas a la Ley Contra la Delincuencia Organizada para el Estado de Baja California, iniciarán vigencia a los noventa días después de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las menciones que en otras leyes, ordenamientos reglamentarios o acuerdos se haga respecto a la Subprocuraduría contra la Delincuencia Organizada, se entenderán hechas a la Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado.
+
+CUARTO.- Quienes se encuentren ejerciendo el cargo de Juez de Garantía en el Partido Judicial de Mexicali, al momento de la entrada en vigor del presente Decreto conforme al transitorio segundo, pasarán a ejercer el cargo de Juez de Control a que se refiere la presente reforma, conservando sus derechos adquiridos por el periodo que fueron designados.
+
+Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de garantías para el trámite o substanciación de los asuntos en donde se aplique el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado el 19 de octubre de 2007.
+
+QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
+
+Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
