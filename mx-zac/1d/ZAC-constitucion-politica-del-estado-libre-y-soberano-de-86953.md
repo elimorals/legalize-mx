@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2015-03-25"
+last_updated: "2015-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2015.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -559,7 +559,7 @@ Para el ejercicio del derecho de acceso a la información, el Estado y los Munic
 
 I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
 
-ll. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
@@ -1065,7 +1065,7 @@ El Poder Legislativo se deposita en una asamblea que se nombrará "Legislatura d
 
 ((REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)
 
-###### Articulo 51.
+###### Artículo 51.
 
 La Legislatura del Estado se integra con dieciocho diputados electos por el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por doce diputados electos según el principio de representación proporcional, conforme al sistema de lista plurinominal votada en una sola circunscripción electoral. De estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales, en los términos que establezca la ley.
 
@@ -1789,9 +1789,15 @@ El Gobernador del Estado se auxiliará de las dependencias y entidades que preve
 
 La ley distribuirá los asuntos del Ejecutivo del Estado, que estarán a cargo de la administración centralizada, al (sic) través de las Secretarías y unidades correspondientes, y de las entidades paraestatales, conforme a las bases de su creación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2015)</small>
+
 ###### Artículo 85.
 
-Las leyes, decretos, reglamentos y demás disposiciones de carácter general que el Gobernador promulgue, expida o autorice, para su validez y observancia deberán ser refrendados por el Secretario General de Gobierno y por el titular del ramo a que el asunto corresponda. Cuando sean de la competencia de dos o más dependencias deberán ser refrendados por los titulares de las mismas.
+Las leyes, decretos y demás disposiciones de carácter general que el Gobernador promulgue, para su validez y observancia deberán ser refrendados por el Secretario General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+Los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que el Gobernador del Estado expida o autorice, para su validez y observancia deberán ser firmados por el Secretario General de Gobierno y cuando sean de la competencia de una o más Secretarías, deberán ser refrendados por los titulares de las mismas.
 
 ###### Artículo 86.
 
@@ -3448,3 +3454,11 @@ DECRETO NÚMERO 327 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 30 D
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 23 DE MAYO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. El refrendo de los decretos promulgatorios de las leyes aprobadas por la Legislatura del Estado corresponde únicamente al Secretario General de Gobierno, sin que deba exigirse el correspondiente al encargado del ramo.
+
+Artículo Tercero. Se derogan las disposiciones que contravengan este Decreto.
