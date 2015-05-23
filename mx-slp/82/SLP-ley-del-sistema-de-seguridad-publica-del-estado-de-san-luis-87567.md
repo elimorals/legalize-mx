@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2014-11-29"
+last_updated: "2015-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1947,6 +1947,10 @@ La dependencia fijará la forma y número de efectivos en que dichos servicios s
 
 ## TITULO DECIMO CUARTO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 147.
 
 Los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, deberán obtener autorización previa de la Secretaría; cuando los servicios comprendan dos o más entidades federativas, deberá contar además con la autorización del gobierno federal, sin eximirle del cumplimiento a la regulación de la ley que sobre la materia expida el Congreso del Estado.
@@ -1960,6 +1964,216 @@ Los servicios de seguridad privada son auxiliares a la función de seguridad pú
 ###### ARTICULO 149.
 
 Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente por las normas aplicables que se establecen para las instituciones de seguridad pública; incluyendo los principios de actuación y desempeño, y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia a la autoridad correspondiente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2015)</small>
+
+## TITULO DECIMO QUINTO. DE LA VIDEOVIGILANCIA PUBLICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 150.
+
+Para los efectos de esta Ley se entiende por videovigilancia pública, las actividades orientadas a la captación, trasmisión, almacenamiento de imágenes y/o sonidos, obtenidos en espacios públicos o privados con acceso a las personas; mediante el uso de videocámaras o dispositivos tecnológicos especiales; realizadas por instituciones de seguridad pública, prestadores de servicios de seguridad privada o por personas físicas o morales privadas que, en su caso, cuenten con un convenio de colaboración; y que tiene como fin contribuir a la prevención y persecución eficaz de los delitos; la procuración de justicia; o documentar faltas e infracciones relacionadas con la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 151.
+
+Quienes realicen actividades de videovigilancia pública deberán observar los siguientes principios rectores:
+
+I. De idoneidad: conforme al cual, el uso de videocámaras y tecnología debe utilizarse en estricta proporción a su aptitud y eficacia para procurar los fines a que se refiere este título;
+
+II. De mínima intervención: conforme al cual, debe restringirse al máximo posible la intervención sobre la vida privada de las personas, evitando, minimizando y corrigiendo las posibles afectaciones sobre la privacidad, honor e intimidad de éstas;
+
+III. De publicidad: conforme al cual, quienes lleven a cabo actividades de videovigilancia pública, informarán a los interesados, sobre la ubicación y empleo de los dispositivos de videovigilancia pública que utilicen, así como sobre el posible registro de imágenes personales del interesado, con las excepciones que éstas u otras normas aplicables dispongan, por razones de interés público;
+
+IV. De profesionalismo: conforme al cual, las entidades públicas que operen dispositivos de videovigilancia pública, asignarán exclusivamente para ello, a personal específicamente seleccionado para el desempeño de esas funciones, técnicamente apto, capacitado, y sujeto a mecanismos de supervisión y control, para garantizar su apego a la ética, el profesionalismo y demás principios rectores del servicio público, y
+
+V. De legalidad: conforme al cual, toda actividad de videovigilancia pública, debe realizarse en plena conformidad con el orden jurídico, y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 152.
+
+Las instituciones de seguridad pública, y los prestadores de servicio de seguridad privada, no podrán ejecutar actividades de videovigilancia para:
+
+l. Captar, almacenar o procesar imágenes o sonidos del interior de espacios privados de índole personal, salvo consentimiento de quien pueda otorgarlo, o mediante autorización legalmente conferida; o bien efectuar, con las mismas salvedades, la grabación de conversaciones de naturaleza estrictamente privada, en cualquier lugar, que cause afectación a la intimidad de las personas. Las imágenes y sonidos obtenidos accidentalmente en estos casos, deberán ser destruidos inmediatamente;
+
+II. Captar, almacenar o procesar imágenes o sonidos del espacio público, cuando por la naturaleza de esos espacios o del lugar hacia donde se orienten los dispositivos, pueda afectarse gravemente la dignidad, honra, intimidad o fama pública de las personas, y
+
+III. Utilizar la información obtenida con fines comerciales, político electorales, propagandísticos, o distintos en cualquier modo, a los fines que esta Ley autoriza; debiéndose evitar y sancionar todo abuso, intromisión indebida o empleo de la información con fines ilícitos, discriminatorios, o contrarios a la dignidad de las personas.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 153.
+
+Cuando mediante el uso de los dispositivos de videovigilancia, se detecte la posible comisión de algún delito, quien lo haga, deberá reportarlo inmediatamente a las autoridades competentes; registrándolo en su bitácora de servicio, y resguardando la videograbación hasta por un año contado a partir del suceso.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 154.
+
+Las instituciones de seguridad pública del Estado y municipios podrán instalar y operar dispositivos fijos o móviles de videovigilancia pública tales como, cámaras, radares, lectores de matrículas u otros para detectar y acreditar hechos que constituyan infracciones a las normas de tránsito, y apoyarse en esa evidencia para imponer las sanciones que procedan, conforme a las disposiciones constitucionales, legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 155.
+
+Las imágenes y sonidos captados a través de los sistemas de videovigilancia pública, deberán ser conservados para su posible consulta, cuando menos por treinta días naturales.
+
+Se excluyen de esta disposición los archivos de imagen y sonido requeridos por autoridades judiciales o administrativas, en cuyo caso, serán copiados para su entrega inmediata, y deberá conservarse el archivo en resguardo hasta por un año posterior a la fecha en que se hubiere remitido a la autoridad.
+
+Se excluyen también de esta disposición, las grabaciones de video que se realicen con motivo del desahogo de audiencias orales de juicio, diligencias probatorias u otros actos procesales, en cuyo caso, corresponderá a la autoridad judicial disponer las condiciones de conservación, y depuración de los archivos de imagen y sonido.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 156.
+
+Las entidades públicas que tengan bajo su cargo las siguientes instalaciones o servicios, en la medida de sus condiciones presupuestales, procurarán contar con sistemas de videovigilancia pública para su monitoreo:
+
+I. Edificios u oficinas donde despachen habitualmente los titulares de los poderes; el Procurador General de Justicia; y el Secretario de Seguridad; los recintos permanentes donde sesionen; el Pleno de la Legislatura local, el Tribunal Superior de Justicia, y el cabildo; así como y en los casos que autoricen los ayuntamientos, las oficinas de los presidentes municipales, y de los titulares de las dependencias municipales encargadas de la seguridad pública;
+
+II. Centros de ejecución de sanciones privativas de la libertad; instalaciones para la estancia de indiciados sujetos a prisión preventiva, arraigos o cumplimiento de arrestos administrativos; y cualesquiera que cumplan fines análogos;
+
+III. Depósitos de armas, cartuchos y equipo táctico policial, en aquellas corporaciones de seguridad integradas por más de cien elementos operativos;
+
+IV. Hospitales públicos con capacidad superior a cincuenta camas;
+
+V. Depósitos o bodegas donde se conserven materiales peligrosos, en cantidades o concentraciones que representen un riesgo sensible para la población, a juicio de las autoridades estatales o municipales competentes, en materia de protección civil;
+
+VI. Los estadios y auditorios deportivos y en general toda clase de inmuebles cuando en ellos se lleven a cabo eventos masivos;
+
+VII. Sistemas de transporte masivo de personas, y
+
+VIII. Las demás de carácter estatal o municipal que ordene el Consejo Estatal de Seguridad Pública, o los ayuntamientos, en su caso.
+
+Los entes a que se refiere este artículo, en coordinación con la Secretaría de Seguridad Pública del Estado, procurarán la unificación u homologación tecnológica de sus sistemas y dispositivos de videovigilancia entre sí.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 157.
+
+Para la ubicación de los dispositivos de videovigilancia pública por parte de las instituciones de seguridad pública, se tomarán como criterios:
+
+I. La cobertura óptima de las zonas urbanas, rurales o de tránsito carretero, que presenten mayores grados de conflictividad o vulnerabilidad por su tasa de incidencia delictiva, o por el riesgo de las instalaciones en ellas existentes;
+
+II. La vigilancia preferente de espacios de concentración masiva, o de aquéllos que representen mayores condiciones de vulnerabilidad por su propia naturaleza, como áreas externas a colegios y guarderías, hospitales; instalaciones financieras, centros comerciales, estadios, terminales de transporte u otras similares;
+
+III. La protección del patrimonio, histórico, artístico, científico y cultural de los potosinos, y
+
+IV. La vigilancia de instalaciones estratégicas para la seguridad nacional, en coadyuvancia con las autoridades federales competentes.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 158.
+
+Tratándose de videovigilancia con videocámaras instaladas por prestadores de servicios de seguridad privada, la determinación sobre su ubicación quedará bajo su propia responsabilidad, pero deberá de observarse lo dispuesto en este título, y las siguientes restricciones:
+
+l. No podrán ser instalados sobre bienes de dominio público, salvo autorización expresa;
+
+II. Sólo podrán orientarse hacia el espacio público y la parte de la vía que requiera vigilarse, sin invadir espacios privados, y
+
+III. Bajo ninguna circunstancia podrán enfocarse directamente, temporal o permanentemente, hacia edificios o instalaciones al servicio de las instituciones de seguridad pública, como oficinas o módulos de policía, agencias del Ministerio Público, o centros de readaptación social.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 159.
+
+Las instituciones de seguridad pública del Estado y municipios de San Luis Potosí, podrán convenir entre sí, con autoridades federales o de otras entidades federativas, y con los prestadores de servicios de seguridad privada, la utilización conjunta de dispositivos de videovigilancia, para la realización de los fines inherentes a esta Ley.
+
+Dichos convenios, cuando sean celebrados entre autoridades, deberán publicarse en el Periódico Oficial o similar que corresponda, salvo que contuvieran información confidencial o reservada, en cuyo caso, se elaborará y difundirá una versión pública extractada.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 160.
+
+El Registro Estatal de Dispositivos de Videovigilancia estará a cargo de la Secretaría de Seguridad Pública del Estado, o de quien ésta indique, la que llevará constancia de las instituciones de seguridad pública, y de los prestadores de servicios de seguridad privada, que realicen actividades de videovigilancia pública dentro del territorio del Estado, conforme a las disposiciones de esta Ley.
+
+Asimismo, de la ubicación de las zonas sujetas a videovigilancia pública por parte de las instituciones de seguridad pública; los convenios que en materia de videovigilancia pública se celebren en los términos del presente Ordenamiento; y los demás que determine el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 161.
+
+Los servidores públicos que tengan a su cargo la captura, almacenamiento y análisis de la información captada mediante los sistemas de videovigilancia pública, deberán otorgar por escrito un compromiso de confidencialidad que observarán en todo tiempo, aún después de que hayan cesado en el cargo. Tales constancias se remitirán al Registro para su inscripción.
+
+La disposición anterior es aplicable, indistintamente, al personal de las instituciones de seguridad pública que utilice dispositivos móviles de videovigilancia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 162.
+
+En el manejo de archivos de imagen y sonido captados a través de los sistemas de videovigilancia pública, se observará una secuencia documental de resguardo denominada cadena de custodia, integrada por todas aquellas medidas necesarias para garantizar la autenticidad de las grabaciones, y evitar que sean alteradas, ocultadas o destruidas ilegalmente o sin dejar constancia de ello.
+
+Al momento de copiar una grabación, se levantará constancia de ello en la cadena de custodia, donde se asentará una reseña general de la información contenida en la grabación, sus características de identificación, fecha, hora, nombre, firma de quien recibe y de quien entrega y, en su caso, el motivo y la parte de la grabación de la que se haya expedido copia.
+
+La entrega de archivos a las autoridades judiciales y administrativas estará exenta de este requisito, siempre que en el oficio de entrega se especifiquen las mismas características.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 163.
+
+Las grabaciones deben mantenerse en lugar seguro y protegido, sin acceso a personas no autorizadas para su manejo.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 164.
+
+Toda grabación captada mediante los sistemas de videovigilancia pública que esta Ley regula, en la que aparezca una persona identificada o identificable, se considerará como dato personal, y será manejada bajo el régimen legal de confidencialidad.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 165.
+
+Sin perjuicio de lo anterior, toda persona, acreditando su interés jurídico y por conducto de la autoridad competente, podrá:
+
+I. Ser informada sobre los lugares sujetos a videovigilancia pública;
+
+II. Consultar los archivos de imagen, sonido o datos que de ella se tengan almacenados, en los sistemas de videovigilancia pública, debiendo la institución de seguridad pública de que se trate, proveer lo necesario para que el consultante no tenga acceso a información confidencial, y
+
+III. Obtener copia de dichos archivos y/o solicitar su destrucción, salvo en el caso de que las imágenes o sonidos almacenados se encuentren vinculados con la posible comisión de algún delito, en cuyo caso, se procederá conforme a las disposiciones aplicables de esta Ley.
+
+Para cumplir con lo anterior, el interesado, además, deberá indicar a la institución de seguridad pública de que se trate, la fecha, hora y lugar aproximados en que supone, se hubiere captado dicha información, así como las circunstancias específicas que fueren de su interés consultar, a efecto de facilitar su localización.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 166.
+
+La información captada mediante el uso de dispositivos de videovigilancia pública, independientemente de su clasificación, deberá ser puesta a disposición de las autoridades judiciales y ministeriales de carácter federal o estatal que la requieran, bastando que en su solicitud indiquen el número de averiguación previa o proceso en que se actúe, y el nombre de la autoridad requirente.
+
+Cumpliendo la misma formalidad, la información estará igualmente a disposición de las autoridades administrativas, federales, estatales o municipales que, según el caso, tengan a su cargo:
+
+I. La investigación y/o enjuiciamiento de infracciones disciplinarias por parte del personal operativo de las instituciones de seguridad pública;
+
+II. La prevención y gestión de emergencias ante fenómenos perturbadores, químicos, biológicos, sanitarios, hidrometeorológicos o antropogénicos; o la investigación y sanción de infracciones a las normas de protección civil, y
+
+III. La operación de servicios de inteligencia en materia de seguridad nacional.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 167.
+
+Los prestadores de servicios de seguridad privada, personas físicas o morales que cuenten con sistemas de videovigilancia, podrán, exclusivamente con fines de seguridad, solicitar su enlace con los sistemas que operen las instituciones de seguridad pública, a efecto de que éstas tengan acceso directo a las imágenes captadas por aquéllos y puedan reaccionar oportunamente ante cualquier incidente o emergencia. En este caso, los particulares enlazados no tendrán acceso a las imágenes de las instituciones de seguridad pública.
+
+Para efecto de lo anterior, deberán contar con sistema de videovigilancia propio y su registro de autorización actualizado; asimismo, acreditar que tiene la infraestructura software y hardware que garantice la conectividad; además, que cuenta con las instalaciones de monitoreo y el personal necesario y capacitado para llevar a cabo las tareas de cabina o centro de vigilancia. Adicionalmente deberá celebrar el convenio de colaboración respectivo, y acreditar que cuenta con el consentimiento expreso del propietario o poseedor de las aéreas (sic) privadas de uso público que sean materia de vigilancia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 168.
+
+Cuando se comentan (sic) infracciones al presente capítulo por parte del personal de las instituciones públicas que tengan a su cargo la captura, almacenamiento y análisis de la información captada mediante los sistemas de videovigilancia, se turnará su investigación a la Comisión de Honor y Justicia o, en su caso, al órgano de control interno, quienes aplicarán las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 169.
+
+Cuando se cometan infracciones a éste capítulo por parte de particulares y prestadores de servicios de seguridad privada que tengan a su cargo la captura, almacenamiento y análisis de la información captada mediante los sistemas de videovigilancia pública, se aplicarán los procedimientos y sanciones contenidas en su propia normatividad.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+
+###### ARTICULO 170.
+
+Las sanciones establecidas en el presente capítulo, serán independientes de las que resulten por la comisión de delitos contenidos en la legislación penal, o civil, o la que resulte de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 T R A N S I T O R I O S
 
@@ -2032,6 +2246,12 @@ SEXTO. El Secretario de Seguridad Pública del Estado deberá expedir el reglame
 SÉPTIMO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MAYO DE 2015.
 
 PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
