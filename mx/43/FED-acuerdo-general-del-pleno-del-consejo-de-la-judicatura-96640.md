@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-05-08"
+last_updated: "2015-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -517,7 +517,7 @@ IV. Informar al Pleno, conforme a los plazos legales y términos establecidos en
 
 V. Presentar propuestas de evaluaciones internas sobre el ejercicio presupuestal;
 
-VI. Presentar al Pleno la cuenta pública que se enviará a la Secretaría de Hacienda y Crédito Público;
+VI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)
 
 VII. Aprobar las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra pública y servicios relacionados con ésta que realice el Poder Judicial de la Federación, en ejercicio de su presupuesto anual de egresos, conforme a los acuerdos generales del Pleno que en cada caso resulten aplicables;
 
@@ -3121,9 +3121,19 @@ IX. Informar trimestralmente, o con la periodicidad que se determine, al Preside
 
 X. Ejercer el presupuesto autorizado para el Programa de Equidad de Género, informando mensualmente al Presidente, y a las instancias administrativas correspondientes, del avance en el ejercicio de los recursos presupuestales como Unidad Ejecutora de Gasto;
 
-XI. Brindar el apoyo a los Consejeros en los asuntos que éstos le encomienden; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
 
-XII. Las demás que establezcan el Pleno y el Presidente.
+XI. Brindar el apoyo a los Consejeros en los asuntos que éstos le encomienden;
+
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
+
+XII. Elaborar y remitir al Consejo Nacional para Prevenir la Discriminación los reportes a que se refieren los artículos 41 de la Ley General de los Derechos de Niñas, Niños y Adolescentes y 15 Novenus de la Ley Federal para Prevenir y Eliminar la Discriminación, e informar al Pleno al respecto.
+
+Para la elaboración de los reportes, las áreas administrativas que intervengan en la ejecución de las medidas de nivelación e inclusión, así como en las acciones afirmativas que adopte el Consejo, deberán auxiliar a dicha Dirección General; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
+
+XIII. Las demás que establezcan el Pleno y el Presidente.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -5104,3 +5114,27 @@ D.O.F. 8 DE MAYO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 25 DE MAYO DE 2015.
+
+ACUERDO GENERAL POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 164; Y SE ADICIONA LA FRACCIÓN XIII AL MISMO PRECEPTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se deroga el numeral 2.2.3.; 2.2.; del apartado 2, denominado “De la entrada y salida de visitantes y sujetos del procedimiento”, de los Lineamientos de Operación del Protocolo de Seguridad de los Centros de Justicia Penal Federal; así como todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. En su ámbito de competencia la Secretaría Ejecutiva de Administración, por conducto de sus unidades administrativas competentes, y la Coordinación de Seguridad del Poder Judicial de la Federación deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. Las disposiciones que se emitan en el Consejo, en las que se involucren menores de edad deberán sujetarse a lo establecido en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y, en lo no previsto por éste, a lo dispuesto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+SEXTO. La Coordinación de Seguridad del Poder Judicial de la Federación deberá adoptar las acciones necesarias para la eficacia de la medida prevista en el artículo 932, fracción III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
+
+D.O.F. 25 DE MAYO DE 2015.
+
+ACUERDO GENERAL POR EL QUE SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 35 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
