@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-sistema-para-el-desarrollo-integral-771
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-16"
-last_updated: "2010-10-16"
+last_updated: "2015-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 25 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 2010.
 
@@ -1092,3 +1094,13 @@ COMISARIO
 LICENCIADO BERNARDO JESÚS BARRAGÁN SALAZAR
 
 SECRETARIO DE LA CONTRALORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aún cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado. No. 42 de fecha octubre 16 del año dos mil diez.
