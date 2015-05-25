@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2013-09-02"
+last_updated: "2015-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -133,7 +133,25 @@ V.- Derecho a la Educación.- Recibir de manera preferente la educación que se�
 
 VI.- Derecho al Trabajo.- Toda adulto mayor tiene derecho a tener un trabajo digno y socialmente útil, así como acceso a capacitación que le permita desarrollar una actividad o la prestación de un servicio, de acuerdo a su condición de salud, capacidades, habilidades y aptitudes;
 
-VII.- Derecho a la Asistencia Social.- Ser sujeto de programas de asistencia que le permita una atención integral;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+VII.- Derecho a la asistencia social.- Por tanto, se reconoce que tienen derecho a:
+
+1. Ser beneficiarios de asistencia social, en los términos previstos por la Ley de Asistencia Social del Estado y demás disposiciones aplicables.
+
+2. Ser sujetos de programas de asistencia social que garanticen su atención integral en caso de desempleo, discapacidad o pérdida de sus medios de subsistencia o cuando se encuentren en situación de riesgo o desamparo.
+
+3. Ser sujetos de programas asistenciales para contar con una vivienda digna y adaptada a sus necesidades, así como de aquellos otros que les permita el libre desplazamiento en espacios laborales, comerciales, oficiales, recreativos y de transporte.
+
+4. Ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, si están en situación de riesgo o desamparo, así mismo dar continuidad a su atención, en coordinación y apoyo de diversas dependencias, hasta procurar una atención integral que modifique sus circunstancias adversas.
+
+5. Disfrutar de los servicios públicos con perspectiva de género y con calidad y calidez en igualdad de circunstancias.
+
+6. Ser beneficiarios, en los términos de la legislación aplicable, de créditos a bajas tasas de interés o ser beneficiarios de subsidios o estímulos fiscales para el mejoramiento físico de sus viviendas cuando éstas no cumplan con los requisitos mínimos de seguridad, higiene y comodidad para sus habitantes.
+
+7. Ocupar su tiempo libre en actividades productivas, recreativas, culturales, deportivas y de esparcimiento y realizar giras de turismo social dentro y fuera del Estado.
+
+8. Ser beneficiario de los porcentajes de descuentos concertados y difundidos por el Instituto, en determinados bienes y servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales, así como de los descuentos en transporte público para su cómodo traslado, tarifas en el suministro de agua potable y alcantarillado, así como su afiliación a programas de apoyo a las personas adultos (sic) mayores.
 
 VIII.- Derecho a constituir organizaciones.- Conformar organizaciones con la finalidad de promover su desarrollo e inducir a las acciones dirigidas a este sector;
 
@@ -265,7 +283,7 @@ El Ejecutivo del Estado, a través de sus Dependencias y Organismos o Entidades,
 
 A la Secretaría del Trabajo le corresponde:
 
-I.- Vigilar la observancia y aplicación de las disposiciones en materia laboral contenidas en la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado de Hidalgo, La Ley Federal del Trabajo, La Ley de los Trabajadores al servicio de los Gobiernos Estatales y Municipales, así como Organismos Descentralizados, en defensa de los intereses de los adultos mayores;
+I. Vigilar la observancia y aplicación de las disposiciones en materia laboral contenidas en la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado de Hidalgo, La Ley Federal del Trabajo, La Ley de los Trabajadores al servicio de los Gobiernos Estatales y Municipales, así como Organismos Descentralizados, en defensa de los intereses de los adultos mayores;
 
 II. Visitar los centros de trabajo donde se empleen a adultos mayores con el fin de constatar el cumplimiento de las condiciones laborales que establecen las Leyes aplicables;
 
@@ -560,3 +578,9 @@ El presente Decreto entrará en vigor al día siguiente de su Publicación en el
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE MAYO DE 2015.
+
+PRIMERO. Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
