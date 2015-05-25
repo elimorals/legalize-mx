@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2015-03-16"
+last_updated: "2015-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -926,6 +926,14 @@ VII.- Nombre, apellidos, número de cédula profesional y domicilio del médico 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 VIII.- Nombre, apellidos, edad, nacionalidad, ocupación y domicilio del declarante y grado de parentesco, en su caso, con el difunto.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2015)</small>
+
+En el registro de defunción, se establecerán las causas de la muerte, señalando en su caso, si ésta fue violenta, las cuales quedarán reservadas; por lo que en el acta de defunción publicitada a terceros no se expresaran dichas causas, ni si la muerte fue violenta.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2015)</small>
+
+No se expedirá copia certificada del registro, salvo mandato judicial o a petición de parte interesada que así lo justifique.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -16960,6 +16968,12 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 16 DE MARZO DE 2015.
 
 DECRETO NÚMERO 161, POR EL QUE SE REFORMA EL ARTÍCULO 2891 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
