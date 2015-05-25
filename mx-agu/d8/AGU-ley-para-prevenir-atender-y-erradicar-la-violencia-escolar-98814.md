@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2014-07-28"
+last_updated: "2015-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -55,7 +55,9 @@ Las instituciones educativas en el Estado, tienen la obligación fundamental de 
 
 Para tal efecto, deberán:
 
-I. Procurar entre la comunidad educativa el respeto a los derechos humanos, los valores y la solidaridad hacia los demás, sin distinción de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales o cualquier otra, que atente contra la dignidad humana y tenga por objeto menoscabar los derechos y libertades de los estudiantes;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+I. Procurar y fomentar entre la comunidad educativa el respeto a los derechos humanos, los valores y la solidaridad hacia los demás, sin distinción de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales o cualquier otra, que atente contra la dignidad humana y tenga por objeto menoscabar los derechos y libertades de los estudiantes;
 
 II. Generar mediante el análisis y la reflexión, la empatía y el respeto, soluciones pacíficas y de conciliación entre los estudiantes ante los problemas que se presenten en el acontecer cotidiano;
 
@@ -141,9 +143,11 @@ V. El uso de medios electrónicos de comunicación.
 
 El Instituto será la autoridad responsable en la aplicación de acciones, lineamientos y ejecución de medidas que previene la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 7°.
 
-El Instituto trabajará coordinadamente con:
+Con la finalidad de realizar acciones que permitan dar cumplimiento al objeto de la presente Ley, el Instituto trabajará coordinadamente con:
 
 I. La Secretaría de Seguridad Pública del Estado;
 
@@ -157,9 +161,17 @@ IV. El Instituto Aguascalentense de las Mujeres;
 
 V. Los Gobiernos municipales;
 
-VI. Los Consejos de Participación Social; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
 
-VII. El Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes.
+VI. La Comisión de Derechos Humanos del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+VII. Los Consejos de Participación Social; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+VIII. El Consejo.
 
 ###### ARTÍCULO 8°.
 
@@ -181,9 +193,11 @@ VII. Supervisará que las autoridades integren políticas públicas y acciones q
 
 VIII. Informará en el mes de agosto por escrito a las Comisiones Legislativas de Derechos Humanos y de Educación y Cultura sobre el estado que guardan las acciones ordenadas por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 9°.
 
-La coordinación con las autoridades consistirá en difundir y promover la convivencia escolar libre de violencia mediante la realización de:
+La coordinación del Instituto con las instancias señaladas en el Artículo 7° o cualquier otra, será para difundir y promover la convivencia escolar libre de violencia y el respeto de los derechos humanos, así como ejecutar acciones que permitan dar cumplimiento al objeto de la presente Ley, mediante la realización de:
 
 I. Foros, talleres, cursos, seminarios y conferencias;
 
@@ -193,7 +207,9 @@ III. Actividades deportivas, recreativas, y culturales;
 
 IV. Publicaciones, promocionales, propaganda; y
 
-V. Cualquier otra forma que permita sensibilizar a los que intervienen en los procesos educativos fomentando una cultura de la no violencia escolar.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+V. Cualquier otra forma que permita sensibilizar a los que intervienen en los procesos educativos fomentando una cultura de la no violencia escolar y de respeto a los derechos humanos.
 
 ###### ARTÍCULO 10.
 
@@ -225,21 +241,33 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario de Salud;
 
-III. El Director de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+III. El Secretario de Seguridad Pública;
 
 IV. Un Representante de los Ayuntamientos del Estado, designado entre ellos;
 
 V. El Director General del Instituto, quien fungirá como Secretario Técnico;
 
-VI. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+VI. El Fiscal General del Estado;
 
 VII. Un Representante de la Sección Uno del Sindicato Nacional de Trabajadores de la Educación;
 
 VIII. El Presidente de la Asociación de Padres de Familia en el Estado;
 
-IX. Un Representante del Colegio de Psicólogos del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
 
-X. Se podrán invitar a especialistas en materia de educación, educación inicial, preescolar, primaria, secundaria, media superior, superior y educación especial.
+IX. Un representante de la Comisión de Derechos Humanos del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+X. Un Representante del Colegio de Psicólogos del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XI. Se podrán invitar a especialistas en materia de educación, educación inicial, preescolar, primaria, secundaria, media superior, superior y educación especial.
 
 El Gobernador del Estado y el Director General del Instituto podrán nombrar suplentes. Los cargos y nombramientos del Consejo serán honoríficos.
 
@@ -247,9 +275,9 @@ El Gobernador del Estado y el Director General del Instituto podrán nombrar sup
 
 El Consejo se reunirá al menos una vez cada tres meses.
 
-Los miembros del Consejo serán propuestos, removidos y nombrados libremente por el Gobernador del Estado. Éste podrá tomar opinión de los colegios de profesionistas o de organizaciones de la sociedad civil.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE MAYO DE 2015)</small>
 
-Los miembros del Consejo durarán en su encargo tres años, pudiendo ser reelectos por una sola ocasión.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 16.
 
@@ -292,6 +320,10 @@ I. Dar seguimiento a los asuntos turnados por el Consejo;
 II. Informar por escrito al Consejo sobre los resultados de la investigación encomendada; y
 
 III. Las que el Consejo determine.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2015)</small>
+
+La Comisión deberá dar vista inmediata al ministerio público, a la Comisión de Derechos Humanos del Estado o a la autoridad administrativa competente, si al realizar una investigación advierte la posible existencia de hechos punibles, infracciones administrativas o violación de derechos humanos.
 
 ###### ARTÍCULO 19.
 
@@ -445,17 +477,27 @@ Las instituciones educativas y de salud, ofrecerán asesoría en tratamientos ps
 
 Las instituciones educativas designarán a un responsable que dé seguimiento a los incidentes de violencia escolar suscitados dentro de la institución correspondiente, con la finalidad de que se fortalezcan las tareas de prevención y la solución de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 31.
 
-El responsable tiene las siguientes obligaciones:
+El responsable referido en los Artículos 27 y 30 de la presente Ley, tendrá las siguientes obligaciones:
 
 I. Verificar los avances en el tratamiento;
 
 II. Coordinar las tareas de psicólogos, pedagogos, docentes, administrativos, padres de familia o tutores, y en general de las personas que aporten solución al problema de violencia escolar concreto;
 
-III. Evaluar las medidas adoptadas para resolver los incidentes, así como expresar observaciones u opiniones a la institución educativa para mejorar su sistema de resolución de los mismos; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
 
-IV. Proponer, en el caso que estime necesario, modificaciones a los procedimientos del Protocolo, con base en criterios objetivos.
+III. Evaluar las medidas adoptadas para resolver los incidentes, así como expresar observaciones u opiniones a la institución educativa para mejorar su sistema de resolución de los mismos;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+IV. Proponer, en el caso que estime necesario, modificaciones a los procedimientos del Protocolo, con base en criterios objetivos; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+V. Promover permanentemente el respeto a los derechos humanos.
 
 ### CAPÍTULO VII. Acreditación como Institución Educativa Libre de Violencia Escolar
 
@@ -572,3 +614,13 @@ P.O. 28 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia al Fiscal General del Estado contenida en el presente Decreto, se entenderá hecha al Procurador General de Justicia del Estado.
