@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-sistema-integrado-de-transporte-101523"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-24"
-last_updated: "2014-03-24"
+last_updated: "2015-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 ESTATUTO ORGÁNICO DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de marzo de 2014.
 
@@ -121,7 +121,7 @@ XXXV.- RUTA. Circuito que siguen las unidades del Servicio de Transporte, que ha
 
 XXXVI.- RUTA ALIMENTADORA. Ruta proveniente de la periferia de un centro poblacional, así como de las zonas aledañas o de influencia de una Ruta Troncal, que canalizan la demanda de usuarios hacia el Servicio Público de Transporte Masivo de Pasajeros, la cual está integrada operativa y tarifariamente con el mismo, y que se sirve de autobuses convencionales o de cualquier otra clase de vehículos para su operación;
 
-XXXVII.- RUTA TRONCAL. Ruta principal del Servicio Público de Transporte Masivo de Pasajeros, la cual está dotada de infraestructura urbana especialmente diseñada y construida para el uso específico y exclusivo de vehículos técnicamente aprobados de capacidad alta o media que sirven en la misma; la cual se apoya en el diseño y uso de infraestructura e instalaciones especializadas para el acceso, embarque y desembarque de los usuarios. Este tipo de ruta, conlleva el uso carriles (sic) exclusivos o preferenciales para la circulación de los vehículos de alta capacidad;
+XXXVII.- RUTA TRONCAL. Ruta principal del Servicio Público de Transporte Masivo de Pasajeros, la cual está dotada de infraestructura urbana especialmente diseñada y construida para el uso específico y exclusivo de vehículos técnicamente aprobados de capacidad alta o media que sirven en la misma; la cual se apoya en el diseño y uso de infraestructura e instalaciones especializadas para el acceso, embarque y desembarque de los usuarios. Este tipo de ruta, conlleva el uso (sic) carriles exclusivos o preferenciales para la circulación de los vehículos de alta capacidad;
 
 XXXVIII.- SERVICIO DE TRANSPORTE. El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
 
@@ -399,7 +399,7 @@ IX.- Organizar la adquisición, arrendamiento, contratación de bienes y servici
 
 X.- Elaborar el Programa Anual de Adquisiciones, Arrendamientos y Servicios, con la participación de las diversas áreas del SITMAH;
 
-XI.- Presidir el Comité de Adquisiciones, Arrendamientos y Servicios del SITMAH;
+XI.- (DEROGADA POR EL TRANSITORIO CUARTO DEL ACUERDO POR EL QUE SE CREA EL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO DE HIDALGO, P.O. 25 DE MAYO DE 2015)
 
 XII.- Actualizar los Manuales de Organización y de Procedimientos del SITMAH, así como el correspondiente a Trámites y Servicios al Público;
 
@@ -461,7 +461,7 @@ XXIII.- Proponer las bases técnicas para el otorgamiento de concesiones y permi
 
 XXIV.- Vigilar la prestación y operación del servicio público de transporte masivo y de los servicios auxiliares y conexos al mismo para que se realicen en términos de las disposiciones legales vigentes y conforme a las condiciones establecidas en las concesiones, permisos, autorizaciones, convenios y contratos respectivos;
 
-XXV.- Emitir las constancias de explotación del servicio transporte (sic) masivo;
+XXV.- Emitir las constancias de explotación del servicio (sic) transporte masivo;
 
 XXVI.- Coordinar la inspección vehicular del servicio de transporte masivo, garantizando su vigencia de operación y las especificaciones técnicas de seguridad, comodidad y eficiencia; y
 
@@ -600,3 +600,39 @@ Dado en la ciudad de Pachuca de Soto, Hidalgo a los 21 días del mes de Febrero 
 Por la Junta de Gobierno del Sistema Integrado de Transporte Masivo de Hidalgo:
 
 L.A. FERNANDO Q. MOCTEZUMA PEREDA; SECRETARIO DE GOBIERNO, RUBRICA; LIC. AUNARD AGUSTÍN DE LA ROCHA WAITE; SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, RUBRICA; LIC. ALBERTO MELÉNDEZ APODACA; SECRETARIO DE PLANEACIÓN, DESARROLLO REGIONAL Y METROPOLITANO, RUBRICA; LIC. FLOR DE MARÍA LÓPEZ GONZÁLEZ; SECRETARIO DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL, RUBRICA; LIC. MAURICIO ADOLFO GONZÁLEZ REYNA; SUBSECRETARIO DE DESARROLLO ECONÓMICO, RUBRICA; M.G.P. JESÚS ROMERO QUINTANAR; SECRETARIO DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL, RUBRICA; C.P. JERÓNIMO QUIJANO MONTOYA; COMISARIO PÚBLICO, RUBRICA; CAP. ROBERTO TERÁN CONTRERAS; SUBSECRETARIO DE TRANSPORTE, RUBRICA; LIC. MANUEL ANTONIO REBOLLAR INTRIAGO; DIRECTOR GENERAL DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO DE HIDALGO, RUBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2015.
+
+PRIMERO. El Presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo SE/V/08/2014, nominado como Acuerdo que Crea El Comité de Adquisiciones, Arrendamientos y Servicios del Sistema Integrado de Transporte Masivo de Hidalgo, que se publicó en Alcance Uno al Periódico Oficial del Estado de fecha 09 de junio de 2014, emitido por la Junta de Gobierno del Sistema Integrado de Transporte Masivo de Hidalgo.
+
+TERCERO. Se abroga el Acuerdo SE/III/07/2014, nominado como Acuerdo que contiene el Manual de Integración y Funcionamiento del Comité de Adquisiciones, Arrendamientos y Servicios del Sistema Integrado de Transporte Masivo de Hidalgo, que se publicó en Alcance al Periódico Oficial el 24 de marzo de 2014, emitido por la Junta de Gobierno del Sistema Integrado de Transporte Masivo de Hidalgo.
+
+CUARTO. Se deroga la fracción XI, del Artículo 23, del Capítulo VIII del Estatuto Orgánico del Sistema Integrado de Transporte Masivo de Hidalgo, contenido en el Acuerdo SE/III/04/2014, que se publicó en Alcance al Periódico Oficial de Fecha 24 de marzo de 2014.
+
+QUINTO. Se deroga el Inciso "C", Numeral 9, del Manual de Organización del Sistema Integrado de Transporte Masivo de Hidalgo, contenido en el Acuerdo SE/III/05/2014, que se publicó en Alcance al Periódico Oficial el 24 de marzo de 2014.
+
+SEXTO. Se modifica el Numeral 5.8.1, en los Párrafos Primero y Sexto del Acuerdo por el que se emiten las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del Sistema Integrado de Transporte Masivo de Hidalgo, contenido en el Acuerdo SE/V/03/2014, que se publicó en Alcance Uno al Periódico Oficial de fecha 09 de junio de 2014, para quedar como sigue:
+
+"Base
+
+El Director General o el Titular de la DAF o de la SDDA o el del DRMSGYA podrán indistintamente, presidir los actos de los procedimientos de contratación.
+
+…
+
+…
+
+…
+
+…
+
+Lineamientos
+
+El Director General y/o la DAF y/o la SDDA y/o el DRMSGYA, podrán invitar a los servidores públicos y demás participantes que por su especialidad consideren conveniente su intervención en dichos eventos. Sin embargo, el Área Técnica o Requirente, y el servidor público que en específico haya sido designado desde el inicio del procedimiento, siempre deberá estar presente en todas y cada una de las etapas del trámite, y particularmente en la Junta o Juntas de Aclaraciones, so pena de que el ÁREA CONTRATANTE, suspenda, reprograme o cancele el procedimiento por falta de interés de una o ambas de las Áreas mencionadas, sin prejuicio de lo señalado en el artículo 46 del Reglamento Federal o de sus correlativos en el Reglamento Estatal."
+
+SEPTIMO. Quedan sin efecto todas las disposiciones que se opongan al presente Acuerdo.
+
+OCTAVO. El Comité de Adquisiciones, Arrendamientos y Servicios del Sector Publico del SITMAH, deberá elaborar y aprobar en un plazo de 90 días naturales, contados a partir de la primera reunión, su Manual de Funcionamiento, sujetándose al presente Acuerdo y disposiciones legales aplicables.
