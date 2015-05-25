@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2014-12-24"
+last_updated: "2015-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -301,7 +301,7 @@ VII. Alentar la participación y consulta de las comunidades y organizaciones de
 
 VIII. Coordinarse con las instancias generadoras de información, a efecto de contar con los elementos para planear y tomar decisiones, así como para elaborar programas de desarrollo humano, combate a la pobreza y asistencia social;
 
-IX. Diseñar la estrategia, los programas y proyectos que promuevan el desarrollo regional de la zona fronteriza con Guatemala y Belice así como las áreas limítrofes con los estados vecinos de la Entidad, con el objeto de hacer de éstas, zonas y (sic) áreas seguras, productivas, humanas y solidarias;
+IX. Diseñar la estrategia, los programas y proyectos que promuevan el desarrollo regional de la zona fronteriza con Guatemala y Belice así como las áreas limítrofes con los estados vecinos de la Entidad, con el objeto de hacer de éstas, zonas y áreas seguras, productivas, humanas y solidarias;
 
 X. Normar, conducir y ejecutar políticas públicas que fortalezcan la coordinación institucional con los tres órdenes de gobierno para la implementación de programas, proyectos y acciones orientadas al desarrollo de los pueblos mayas y de otras etnias, con la participación de éstos;
 
@@ -569,7 +569,17 @@ XI. Promover y organizar congresos, foros, ferias, exposiciones y concursos agr�
 
 XII. Participar, en coordinación con la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, en la atención de las actividades apícolas, así como en la conservación de los suelos agrícolas, pastizales y bosques, mediante la aplicación de técnicas y procedimientos conducentes y, en lo general, coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios; y
 
-XIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XIII. Establecer plazos y determinar condiciones para el uso del fuego como herramienta para el desarrollo sustentable de las actividades agropecuarias del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XIV. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 31.
 
@@ -617,7 +627,11 @@ III. Administrar, regular el uso y promover el aprovechamiento sustentable de lo
 
 IV. Formular y promover los criterios para la redefinición de la vocación y potencial productivo del sector agropecuario del Estado;
 
-V. Formular, conducir y determinar las políticas y acciones encaminadas al aprovechamiento racional, enriquecimiento, fomento desarrollo de los recursos agrícolas, pecuarios, forestales y del agua, con la participación que corresponda a otras de pendencias y entidades federales, estatales y municipales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+V. Coadyuvar en las políticas y acciones encaminadas al aprovechamiento racional, enriquecimiento, fomento y desarrollo de los recursos agrícolas, pecuarios, forestales y del agua, con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales;
 
 VI. Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con el aprovechamiento forestal y apícola;
 
@@ -651,7 +665,11 @@ XX. Establecer y promover un sistema de información ambiental estatal en coordi
 
 XXI. Promover el uso de metodologías y procedimientos de evaluación económica del capital natural, así como de los bienes y servicios que al respecto el Estado presta;
 
-XXII. Promover la conservación de los suelos en la Entidad y fomentar la aplicación de las técnicas y procedimientos adecuados, en coordinación con otras dependencias y entidades federales, estatales y municipales con la participación de los sectores social y privado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXII. Coadyuvar en la conservación de los suelos en la entidad y en la aplicación de las técnicas y procedimientos adecuados, en coordinación con otras dependencias y entidades federales, estatales y municipales, con la participación de los sectores social y privado;
 
 XXIII. Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental, así como concertar acciones e inversiones para la protección y restauración del ambiente;
 
@@ -995,7 +1013,7 @@ A la Consejería Jurídica del Gobernador corresponde el despacho de los asuntos
 
 I. Dar apoyo técnico jurídico al Gobernador del Estado en todos aquellos asuntos que éste le encomiende;
 
-II. Someter a consideración y, en su caso, firma del Gobernador (sic) todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso del Estado y darle opinión sobre dichos proyectos;
+II. Someter a consideración y, en su caso, firma del Gobernador todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso del Estado y darle opinión sobre dichos proyectos;
 
 III. Revisar los proyectos de reglamentos, acuerdos, resoluciones y demás instrumentos de carácter administrativo, a efecto de someterlos a consideración y, en su caso, firma del Gobernador;
 
@@ -1298,3 +1316,11 @@ P.O. 24 DE DICIEMBRE DE 2014.
 Primero.- El presente decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 25 DE MAYO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley para Hacer las Quemas en el Estado de Campeche, publicada en el Periódico Oficial del Estado el 22 de diciembre de 1993 y se derogan todas las disposiciones de carácter general que se opongan al presente decreto.
+
+TERCERO.- Las acciones implementadas por las autoridades facultadas en los términos de la ley que se abroga, quedan validadas al inicio de vigencia de este decreto, hasta en tanto las autoridades encargadas de aplicar esta ley inicien el ejercicio de sus atribuciones respectivas.
