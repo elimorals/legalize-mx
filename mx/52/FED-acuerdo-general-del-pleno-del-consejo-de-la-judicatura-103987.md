@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-05-21"
+last_updated: "2015-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -8771,11 +8771,13 @@ Asimismo, aplicará las normas de auditoría para verificar que los sistemas, pr
 
 Como resultado de la elaboración y consolidación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con lo establecido en las disposiciones legales aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
 
 ###### Artículo 801.
 
-La Secretaría Ejecutiva de Administración presentará a consideración de la Comisión de Administración la Cuenta Pública del Consejo, para que con su visto bueno, sea remitida al Pleno para su aprobación, y envío a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de la Ley.
+La Secretaría Ejecutiva de Administración, con la opinión favorable de la Contraloría, aprobará la Cuenta Pública integrada por la Dirección General de Programación y Presupuesto, y validada por su titular.
+
+Una vez aprobada la Cuenta Pública el titular de la Dirección General de Programación y Presupuesto la remitirá a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de las disposiciones aplicables; e informará a la Comisión de Administración y al Pleno al respecto.
 
 #### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
 
@@ -9737,9 +9739,47 @@ Para el acceso del personal de las compañías contratistas, prestadores de serv
 
 Queda bajo la estricta responsabilidad de los administradores del contrato y de la Administración de Inmuebles, supervisar el cumplimiento de las medidas de seguridad institucional.
 
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
+
 ###### Artículo 932.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 18 DE MARZO DE 2015)
+El acceso, permanencia y salida de los menores de edad de las instalaciones, se sujetará a lo siguiente:
+
+I. Las niñas y niños sólo podrán ingresar a las instalaciones acompañados de un servidor público o de otro visitante;
+
+II. Los adolescentes podrán ingresar a las instalaciones solos o acompañados de un servidor público o de otro visitante;
+
+III. No se permitirá la salida de ninguna niña o niño de las instalaciones, sin la presencia de la persona con quien ingresaron.
+
+En caso de que la niña o niño, pretendan salir de las instalaciones sin la presencia de la persona a que se refiere el párrafo anterior, el personal de seguridad dará aviso de inmediato a ésta;
+
+IV. El personal de seguridad deberá brindar protección y socorro en cualquier circunstancia y con la oportunidad necesaria, a las niñas, niños y adolescentes, durante su estancia en las instalaciones;
+
+V. Los servidores públicos, en igualdad de condiciones, los atenderán antes que a las personas adultas en todos los servicios que el Poder Judicial de la Federación presta al público en general;
+
+VI. No serán sujetos de discriminación alguna;
+
+VII. Dentro de las instalaciones los sujetos a que se refiere el artículo 103, primer párrafo, de la Ley General de los Derechos de Niñas, Niños y Adolescentes; así como el personal de vigilancia, deberán fomentar el respeto a todas las personas, a las propias instalaciones y a los bienes que se encuentren en las mismas; y
+
+VIII. Cualquier persona que tenga conocimiento de una conducta ilícita en contra de una niña, niño o adolescente dentro de las instalaciones lo hará del conocimiento del personal de seguridad, a fin de que se proteja la integridad del menor, sin perjuicio de que, también, lo comunique a las autoridades competentes para el deslinde de responsabilidades correspondiente.
+
+Para efectos de este artículo son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
+
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
+
+El personal de seguridad se apoyará del personal de vigilancia para el cumplimiento de lo previsto en el presente artículo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
+
+###### Artículo 932 Bis.
+
+El Consejo, de conformidad con la suficiencia presupuestal y atendiendo a los espacios físicos con los que se cuente en los inmuebles respectivos, destinará espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en las instalaciones en que se lleven a cabo procedimientos de carácter jurisdiccional y administrativo en que deban intervenir.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
+
+###### Artículo 932 Ter.
+
+En la aplicación de los acuerdos generales y demás disposiciones del Consejo respecto de las niñas, niños y adolescentes, se deberán observar los principios previstos en el artículo 6 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, que correspondan.
 
 ###### Artículo 933.
 
@@ -10598,5 +10638,27 @@ SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación
 D.O.F. 21 DE MAYO DE 2015.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 25 DE MAYO DE 2015.
+
+ACUERDO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 932, 932 BIS, Y 932 TER DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se deroga el numeral 2.2.3.; 2.2.; del apartado 2, denominado “De la entrada y salida de visitantes y sujetos del procedimiento”, de los Lineamientos de Operación del Protocolo de Seguridad de los Centros de Justicia Penal Federal; así como todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. En su ámbito de competencia la Secretaría Ejecutiva de Administración, por conducto de sus unidades administrativas competentes, y la Coordinación de Seguridad del Poder Judicial de la Federación deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. Las disposiciones que se emitan en el Consejo, en las que se involucren menores de edad deberán sujetarse a lo establecido en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y, en lo no previsto por éste, a lo dispuesto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+SEXTO. La Coordinación de Seguridad del Poder Judicial de la Federación deberá adoptar las acciones necesarias para la eficacia de la medida prevista en el artículo 932, fracción III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
+
+D.O.F. 25 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
