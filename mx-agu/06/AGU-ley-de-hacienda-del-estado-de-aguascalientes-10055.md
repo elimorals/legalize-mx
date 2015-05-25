@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2014-12-31"
+last_updated: "2015-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -1807,7 +1807,7 @@ ARTICULO 70 A.- Es objeto de este impuesto la venta final de bebidas en envase c
 
 3. Bebidas refrescantes: las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
 
-4. Bebidas alcohólicas a granel: Las que se encuentren envasadas en recipientes cuya capacidad exceda a 5 litros.
+4. (DEROGADO, P.O. 25 DE MAYO DE 2015)
 
 5. Alcohol: La solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C.
 
@@ -2794,3 +2794,9 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado,
 ###### ARTÍCULO CUARTO.
 
 En tanto no se realicen las reformas respectivas a la Ley Orgánica del Poder Judicial del Estado, las referencias a la Sala Administrativa contenidas en el Código Fiscal del Estado de Aguascalientes, se entenderán hechas a la Sala Administrativa y Electoral.
+
+P.O. 25 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
