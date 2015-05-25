@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-hacer-las-quemas-en-el-estado-de-campeche-3637"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "1993-12-22"
+last_updated: "2015-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY PARA HACER LAS QUEMAS EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE USO DE FUEGO EN TERRENOS AGROPECUARIOS EN EL ESTADO DE CAMPECHE, PUBLICADA EN EL PERIÓDICO OFICIAL EL 25 DE MAYO DE 2015; ORDENAMIENTO QUE ENTRARÁ EN VIGOR A LOS SESENTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de diciembre de 1993.
 
@@ -57,7 +59,7 @@ Sólo se permitirán las quemas de limpia o de pastos en los terrenos cuya propi
 
 Para efectos de la presente ley, el territorio del estado se divide en cinco regiones en las que se encuentran localizadas diez zonas críticas de incendios forestales distribuidas de la manera que se expone en la tabla y plano siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 5.
 
@@ -216,3 +218,13 @@ Palacio Legislativo, Campeche, Cam., a 21 de diciembre de 1993.- Dip. Arturo Vil
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los veintiún días del mes de diciembre de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley para Hacer las Quemas en el Estado de Campeche, publicada en el Periódico Oficial del Estado el 22 de diciembre de 1993 y se derogan todas las disposiciones de carácter general que se opongan al presente decreto.
+
+TERCERO.- Las acciones implementadas por las autoridades facultadas en los términos de la ley que se abroga, quedan validadas al inicio de vigencia de este decreto, hasta en tanto las autoridades encargadas de aplicar esta ley inicien el ejercicio de sus atribuciones respectivas.
