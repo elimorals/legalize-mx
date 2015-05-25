@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2015-03-23"
+last_updated: "2015-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -309,7 +309,9 @@ II. Representar legalmente a la Dependencia a su cargo y, en los asuntos que as�
 
 III. Aprobar los programas anuales de la Dependencia a su cargo y los de las Entidades del Sector correspondiente, que se elaboren para concurrir en la ejecución del Plan de Desarrollo del Estado;
 
-IV. Proponer el Anteproyecto de Presupuesto de Egresos de la Dependencia a su cargo y los de las Entidades Paraestatales del Sector correspondiente, remitiéndolos a la Coordinación Estatal de Planeación y Proyectos con la oportunidad que se le solicite;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+IV. Proponer el Anteproyecto de Presupuesto de Egresos de la Dependencia a su cargo y los de las Entidades Paraestatales del Sector correspondiente, remitiéndolos a la Secretaría de Finanzas con la oportunidad que se le solicite;
 
 V. Establecer conforme a las prioridades señaladas en el Plan de Desarrollo del Estado, las políticas de· desarrollo de las Entidades Paraestatales del sector correspondiente, así como vigilar y evaluar su operación y resultados;
 
@@ -1019,7 +1021,9 @@ A la Secretaría de Gestión Urbanística y Ordenamiento Territorial corresponde
 
 I. Dirigir, coordinar, controlar y evaluar la política y programas en materia de desarrollo urbano y ordenamiento territorial;
 
-II. Concertar, formular, coordinar e instrumentar los programas de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, agua potable y saneamiento, así como intervenir en su evaluación, modificación y actualización, en coordinación con las Dependencias y Entidades de la Administración Pública y los Ayuntamientos del Estado, en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+II. Concertar, formular, coordinar e instrumentar los programas de ordenamiento territorial, desarrollo urbano, asentamientos humanos y agua potable y saneamiento, así como intervenir en su evaluación, modificación y actualización, en coordinación con las Dependencias y Entidades de la Administración Pública y los Ayuntamientos del Estado, en los términos de la legislación aplicable;
 
 III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, la ordenación territorial y el desarrollo equilibrado de los asentamientos humanos, así como ejecutar las acciones tendientes al mejoramiento de las zonas marginadas;
 
@@ -1027,7 +1031,9 @@ IV. Prestar a los Municipios, cuando así lo soliciten, la asesoría y el apoyo 
 
 V. Proyectar la distribución de la población y la ordenación territorial de los centros de población, a partir del contexto existente en los municipios y sus localidades;
 
-VI. Fomentar y conducir la participación ciudadana en la planeación y ejecución del desarrollo urbano, en congruencia con lo dispuesto en el Código Urbano para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+VI. Fomentar y conducir la participación ciudadana en la planeación y ejecución del desarrollo urbano, en congruencia con lo dispuesto en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
 
 VII. Promover y vigilar, en coordinación con los Ayuntamientos, el ordenamiento territorial de zonas conurbadas, regionales y subregionales; la ejecución de programas de metropolización; el desarrollo equilibrado de los asentamientos humanos del Estado, así como ejecutar las acciones tendientes al mejoramiento de las zonas marginadas;
 
@@ -1037,7 +1043,9 @@ IX. Realizar y desarrollar proyectos urbanos de ingeniería y arquitectura, así
 
 X. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, conjuntamente con las Dependencias y Entidades competentes;
 
-XI. Proponer y vigilar el cumplimiento de las normas y criterios que regulan la tramitación de permisos, autorizaciones y licencias previstas en el Código Urbano del Estado, así como aquellos relativos al uso del suelo;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XI. Proponer y vigilar el cumplimiento de las normas y criterios que regulan la tramitación de permisos, autorizaciones y licencias previstas en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
 
 XII. Participar en la planeación de la obra pública de manera conjunta con las Dependencias competentes;
 
@@ -1057,7 +1065,9 @@ XIX. Participar en la regulación del mercado de tierras para el desarrollo urba
 
 XX. Vigilar que la gestión y ejecución de los programas de vivienda en el Estado, atiendan las necesidades de los diferentes sectores sociales y el mejoramiento de la calidad de vida de los grupos marginados o vulnerables;
 
-XXI. Actualizar y evaluar el Programa de Vivienda Estatal;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXI. En coordinación con el Instituto de Vivienda Social y Ordenamiento de la Propiedad, formular el Programa Estatal de Vivienda, así como intervenir en su evaluación, modificación y actualización, en los términos de la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
@@ -1065,9 +1075,69 @@ XXII. Aplicar y vigilar el cumplimiento de las disposiciones legales y reglament
 
 XXIII. Promover y vigilar, en coordinación con los Ayuntamientos que el desarrollo y equipamiento urbano de las diversas comunidades y centros de población del Estado sea equilibrado, sostenible y sustentable, además de que guarden congruencia con las previsiones y planes respectivos;
 
-XXIV. Formar parte del Consejo Estatal de Población; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
 
-XXV. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos; reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XXIV. Conjuntamente con el Instituto de Vivienda Social y Ordenamiento de la Propiedad, representar al Gobierno del Estado ante consejos, comisiones consultivas, comités técnicos de institutos y demás organismos estatales, federales o internacionales que realicen promoción en materia de vivienda;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXV. Coordinar los trabajos del Gabinete Estratégico de Gestión Urbanística y Ordenamiento Territorial, de la Comisión Estatal de Desarrollo Urbano y Ordenamiento Territorial y de los Comités y Subcomités que por alguna disposición legal le sea encomendada su representación;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXVI. Conducir, coordinar, controlar y evaluar las políticas y programas sectoriales de transporte;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXVII. Presidir el Consejo Consultivo del Transporte Público del Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXVIII. Vigilar que la ejecución de los programas de comunicaciones y de transportes, de la competencia del Gobierno del Estado, se realicen en los términos de las disposiciones legales correspondientes;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXIX. Coordinar con las autoridades federales, estatales y municipales, la realización de actividades en materia de transporte;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXX. Establecer y coordinar, conforme a las disposiciones jurídicas aplicables, las normas técnicas y administrativas a que deben sujetarse la construcción y operación, de obras y programas para la prestación del servicio público de transporte, de competencia del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXI. Estudiar, planear y controlar el servicio público de transporte en todas sus modalidades; el servicio público especializado y el servicio público de estacionamiento y terminales de jurisdicción estatal, sin perjuicio de la competencia de los Municipios;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXII. Integrar los expedientes para la tramitación de los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, previo cumplimiento de lo dispuesto en la ley de la materia, y remitirlos al Secretario de Gobierno;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXIII. Realizar estudios para la optimización del transporte colectivo y dictar y supervisar el cumplimiento de las normas para el mejor aprovechamiento de éste;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXIV. Recomendar a las autoridades municipales competentes las acciones que en materia de ingeniería vial considere necesarias;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXV. Diseñar y autorizar las rutas del transporte público, previo dictamen de factibilidad de la Coordinación Estatal de Planeación y Proyectos, así como determinar las rutas que utilizarán los concesionarios de transporte público;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXVI. Realizar las acciones técnicas, jurídicas y operativas necesarias para el debido control y regulación del transporte en el Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXVII. Establecer las políticas y normas de operación de los paraderos del servicio público de transporte de pasajeros; las alternativas de equipamiento de las áreas dedicadas al servicio del transporte en el sector, de sitios de transporte público de carga, taxis y autobús, así como las autorizaciones de cambios de unidades y las frecuencias y horarios de las unidades de transporte de carga y pasajeros, sin perjuicio de la competencia que corresponda a los Municipios;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXVIII. Autorizar, regular y sancionar la publicidad en los vehículos de transporte público en el Estado; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+
+XXXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 #### SECCIÓN NOVENA. De la Secretaría de Bienestar y Desarrolla Social
 
@@ -1123,69 +1193,39 @@ XIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, reg
 
 #### SECCIÓN DÉCIMA. De la Secretaría de Infraestructura y Comunicaciones
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 38.
 
-A la Secretaria de Infraestructura y Comunicaciones corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura y Comunicaciones corresponde el despacho de los siguientes asuntos:
 
-I. Conducir, coordinar, controlar y evaluar las políticas y programas sectoriales de infraestructura, obras públicas, comunicaciones y transportes;
+l. Conducir, coordinar, controlar y evaluar las políticas y programas sectoriales de infraestructura y obras públicas;
 
-II. Ejecutar las obras públicas que determine el Plan de Desarrollo del Estado y los programas que deriven del mismo;
+II. Ejecutar las obras públicas y servicios relacionados que determine el Plan de Desarrollo del Estado y los programas que deriven del mismo de conformidad con las aprobaciones de recursos económicos que emita la Coordinación Estatal de Planeación y Proyectos, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y demás disposiciones aplicables;
 
-III. Elaborar en coordinación con las Dependencias y Entidades de la Administración Pública Estatal, el Programa Anual de Obras Públicas, y vigilar su cumplimiento;
+III. Apoyar en coordinación con las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración del Programa Anual de Obras Públicas, y vigilar su cumplimiento;
 
-IV. Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y demás disposiciones aplicables;
+IV. Prestar asesoría y apoyo a los municipios de la Entidad, en forma coordinada con las Dependencias y Entidades del Ejecutivo Federal, en la realización de obras públicas;
 
-V. Participar, en coordinación con las autoridades competentes, en la realización de programas especiales de vivienda y urbanización;
+V. Dictar las normas técnicas en materia de obras públicas y servicios relacionados, en el ámbito de su competencia;
 
-VI. Proyectar, ejecutar, mantener y operar en su caso, directamente o por adjudicación a particulares, las obras públicas;
+VI. Expedir las bases a las que deban sujetarse las licitaciones públicas para la ejecución de obras y servicios relacionados en el Estado, así como adjudicar, rescindir y exigir el cumplimiento de los contratos de obras y servicios relacionados, celebrados por el Poder Ejecutivo;
 
-VII. Prestar asesoría y apoyo a los municipios de la Entidad, en forma coordinada con las Dependencias y Entidades del Ejecutivo Federal, en la realización de obras públicas;
+VII. Auxiliar a las Entidades del Poder Ejecutivo en la elaboración y supervisión de los proyectos y presupuestos sobre obra pública que sean puestos a su consideración;
 
-VIII. Dictar las normas técnicas en materia de obras públicas y servicios relacionados, cuando no sea competencia de otra autoridad;
+VIII. Efectuar visitas, peritajes y avalúos que se requieran en la ejecución de la obra pública en el Estado, en términos de la ley de la materia;
 
-IX. Expedir las bases a las que deban sujetarse las licitaciones públicas para la ejecución de obras y servicios relacionados en el Estado, así como adjudicar, rescindir y exigir el cumplimiento de los contratos de obras y servicios relacionados, celebrados por el Poder Ejecutivo;
+IX. Llevar a cabo la supervisión del proceso de ejecución de la obra pública a cargo del Poder Ejecutivo en forma directa o a través del supervisor externo que contrate en el ámbito de su competencia para tal efecto, en términos de la normatividad aplicable;
 
-X. Auxiliar a las Entidades del Poder Ejecutivo en la elaboración y supervisión de los proyectos y presupuestos sobre obra pública que sean puestos a su consideración;
+X. Coordinarse con los órganos de planeación estatal y municipales que correspondan, así como con las instituciones de educación superior que tengan interés directo en las obras a realizarse;
 
-XI. Efectuar visitas, peritajes y avalúos que se requieran en la ejecución de la obra pública en el Estado, en términos de la ley de la materia;
+XI. Emitir los lineamientos de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los bienes inmuebles del Poder Ejecutivo del Estado;
 
-XII. Llevar a cabo la supervisión del proceso de ejecución de la obra pública a cargo del Poder Ejecutivo, en forma directa o a través del supervisor externo que contrate para tal efecto, en términos de la normatividad aplicable, excepto en aquellos casos referentes a la infraestructura física educativa en el Estado o cualquier otro rubro que por disposición de ley, se encuentre reservada a una instancia diferente;
+XII. Dictar las normas y establecer los criterios que deban orientar la formulación de proyectos, construcción, ampliación y conservación de caminos, carreteras y vialidades estatales;
 
-XIII. Formular las políticas, programar, presupuestar, normar, regular, ejecutar y evaluar los resultados, en materia de construcción, equipamiento, rehabilitación, mantenimiento y conservación de inmuebles e instalaciones de los espacios educativos de todos los tipos, niveles y modalidades, de acuerdo a la planeación realizada para tales fines por la autoridad educativa estatal;
+XIII. Construir y conservar en buen estado la red carretera, puentes, caminos, obras conexas o accesorias de ellas, que sean de competencia local; y
 
-XIV. Coordinarse con los órganos de planeación estatal y municipales que correspondan, así como con las instituciones de educación superior que tengan interés directo en las obras a realizarse;
-
-XV. Emitir los lineamientos de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los bienes inmuebles del Poder Ejecutivo del Estado;
-
-XVI. Dictar las normas y establecer los criterios que deban orientar la formulación de proyectos, construcción, ampliación y conservación de caminos, carreteras y vialidades estatales;
-
-XVII. Construir y conservar en buen estado la red carretera, puentes, caminos, obras conexas o accesorias de ellas, que sean de competencia local;
-
-XVIII. Vigilar que la ejecución de los programas de comunicaciones y de transportes, de la competencia del Gobierno del Estado, se realicen en los términos de las disposiciones legales correspondientes;
-
-XIX. Coordinar con las autoridades federales, estatales y municipales, la realización de actividades en materia de transporte;
-
-XX. Establecer y coordinar, conforme a las disposiciones jurídicas aplicables, las normas técnicas y administrativas a que deben sujetarse la construcción y operación, de obras y programas para la prestación del servicio público de transporte, de competencia del Gobierno del Estado;
-
-XXI. Estudiar, planear y controlar el servicio público de transporte en todas sus modalidades; el servicio público especializado y el servicio público de estacionamiento y terminales de jurisdicción estatal, sin perjuicio de la competencia de los Municipios;
-
-XXII. Integrar los expedientes para la tramitación de los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, previo cumplimiento de lo dispuesto en la ley de la materia, y remitirlos al Secretario de Gobierno;
-
-XXIII. Realizar estudios para la optimización del transporte colectivo y dictar y supervisar el cumplimiento de las normas para el mejor aprovechamiento de éste;
-
-XXIV. Recomendar a las autoridades municipales competentes las acciones que en materia de ingeniería vial considere necesarias;
-
-XXV. Diseñar y autorizar lar (sic) rutas del transporte público, previo dictamen de factibilidad de la Coordinación Estatal de Planeación y Proyectos y de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, así como determinar las rutas que utilizarán los concesionarios de transporte público;
-
-XXVI. Realizar las acciones técnicas, jurídicas y operativas necesarias para el debido control y regulación del transporte en el Estado;
-
-XXVII. Establecer las políticas y normas de operación de los paraderos del servicio público de transporte de pasajeros; las alternativas de equipamiento de las áreas dedicadas al servicio del transporte en el sector, de sitios de transporte público de carga, taxis y autobús, así como las autorizaciones de cambios de unidades y las frecuencias y horarios de las unidades de transporte de carga y pasajeros, sin perjuicio de la competencia que corresponda a los Municipios;
-
-XXVIII. Autorizar, regular y sancionar la publicidad en los vehículos de transporte público y privado en el Estado;
-
-XXIX. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia, dar seguimiento a la aplicación de las que correspondan a otras autoridades, y resolver los recursos y quejas que le presenten, de conformidad con las disposiciones legales correspondiente; y
-
-XXX. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como los derivados de convenios, contratos o cualquier tipo de acuerdo.
+XIV. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como los derivados de convenios, contratos o cualquier tipo de acuerdo.
 
 #### SECCIÓN DÉCIMA PRIMERA. De la Secretaría de Desarrollo Rural y Agroempresarial
 
@@ -1990,3 +2030,35 @@ Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estad
 ###### ARTÍCULO OCTAVO.
 
 Cuando otros ordenamientos jurídicos se refieran a la Ley Patrimonial del Estado de Aguascalientes en materia de conservación, mantenimiento, control, arrendamiento, registro de bienes muebles e inmuebles y la adquisición de bienes inmuebles del Gobierno del Estado, se entenderá referido a la Ley de Bienes del Estado de Aguascalientes contenida en este Decreto.
+
+P.O. 25 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo realizará las adecuaciones reglamentarias pertinentes, de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, financieros y materiales de las unidades administrativas encargadas de las funciones que mediante este Decreto se trasladan a otra Secretaría, se transferirán a ésta a fin de apoyar en el cumplimiento de los programas y facultades que les corresponden.
+
+###### ARTÍCULO CUARTO.
+
+Las áreas administrativas de las dependencias a que se refiere el presente Decreto, serán responsables del proceso de transferencia de los recursos mencionados en el Artículo anterior, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales del personal que en virtud del presente Decreto pase de una dependencia a otra, se respetarán conforme a la ley.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, a las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a la Secretaría que, respectivamente, adquiera tales funciones.
+
+###### ARTÍCULO SEXTO.
+
+Las facultades con que cuentan las unidades administrativas que, por virtud del presente Decreto, pasan a formar parte de otras dependencias, continuarán vigentes en términos de los reglamentos interiores que las rigen, hasta en tanto el Poder Ejecutivo realice las adecuaciones reglamentarias correspondientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
