@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2015-04-21"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -819,15 +819,15 @@ El Congreso, en ambos periodos de sesiones, se ocupará del estudio, discusión 
 
 En el desahogo de las atribuciones deliberativas, legislativas y de revisión de los resultados de la gestión pública, el Congreso alentará criterios de planeación para su ejercicio.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-En su oportunidad revisará y calificará las cuentas de aplicación de los fondos públicos que le serán remitidas, declarando si las cantidades percibidas y gastadas se adecuan a las partidas respectivas del presupuesto de egresos, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir alguna responsabilidad. Los poderes del Estado, los ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales y municipales, y todo ente que reciba recursos públicos, deberán administrar y ejercer dichos recursos con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
+En su oportunidad revisará y calificará la Cuenta Pública del Gobierno del Estado de Tamaulipas y la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado, que le deberán ser remitidas, declarando si las cantidades percibidas y las gastadas se adecuan a las partidas respectivas del presupuesto de egresos, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir alguna responsabilidad. Los poderes del Estado, los Ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales y municipales, y todo ente que reciba recursos públicos, deberán administrar y ejercer dichos recursos con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
 
 En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá revisarse la recaudación y analizarse si fueron percibidos los recursos del caso en cumplimiento de las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-Los poderes del Estado, los ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales o municipales y todo ente público que maneje o administre fondos públicos, presentarán cuenta pública anual en términos de la ley de la materia.
+Los poderes del Estado, los Ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales o municipales y todo ente público que maneje o administre fondos públicos, elaborarán y presentarán la información que se incorporará a la Cuenta Pública correspondiente, en términos de esta Constitución y de la ley de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -929,13 +929,17 @@ IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y ot
 
 V. Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2015)</small>
 
-VI. Revisar las cuentas públicas de los poderes del Estado, de los ayuntamientos, de los órganos con autonomía de los poderes, de las entidades estatales o municipales y de todo ente público que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
+VI.- Revisar la Cuenta Pública del Gobierno del Estado de Tamaulipas así como la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado. La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos en su caso y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
 Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado, como órgano técnico de fiscalización superior. Tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso de conformidad con lo que establezca la ley;
 
-Las cuentas públicas del ejercicio fiscal correspondiente deberán ser presentadas al Congreso, a más tardar, el 30 de abril del año siguiente. Unicamente se podrá ampliar el plazo de presentación de la cuenta pública del Poder Ejecutivo, cuando medie solicitud del Gobernador suficientemente justificada a juicio del Congreso, previa comparecencia del titular de la dependencia competente, pero la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior de Estado contará con el mismo tiempo adicional para la presentación del informe de resultados de la revisión de la cuenta pública. El Congreso deberá concluir la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados que emita la Auditoría Superior del Estado, sin demérito de que el trámite de observaciones, recomendaciones o acciones promovidas por la propia Auditoría, seguirá su curso en términos de lo dispuesto por esta Constitución y la ley;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Las cuentas públicas del ejercicio fiscal correspondiente deberán ser presentadas al Congreso, a más tardar, el 30 de abril del año siguiente. Únicamente se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno de Estado de Tamaulipas, cuando medie solicitud del Gobernador suficientemente justificada a juicio del Congreso, previa comparecencia del titular de la dependencia competente, pero la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior de (sic) Estado contará con el mismo tiempo adicional para la presentación del informe de resultados de la revisión de la cuenta pública. El Congreso deberá concluir la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados que emita la Auditoría Superior del Estado, sin demérito de que el trámite de observaciones, recomendaciones o acciones promovidas por la propia Auditoría, seguirá su curso en términos de lo dispuesto por esta Constitución y la ley;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
@@ -1387,31 +1391,49 @@ Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y l
 
 La función de fiscalización corresponde a la Auditoría Superior del Estado, la cual será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2015)</small>
 
-I.- Fiscalizar en forma posterior, los ingresos y egresos públicos; el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los ayuntamientos, de los órganos con autonomía de los poderes y de las entidades estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos estimados en cumplimiento de las disposiciones legales aplicables.
+I.- Fiscalizar en forma posterior, los ingresos y egresos públicos; el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos, de los órganos con autonomía de los poderes y de las entidades estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas respectivos, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos estimados en cumplimiento de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
 También fiscalizará directamente los recursos estatales o municipales que se destinen y ejerzan por cualquier persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-Los entes sujetos de fiscalización a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos estatales o municipales que se les transfieran y asignen, de conformidad con los criterios que establezca la ley.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Las entidades sujetas de fiscalización a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos estatales o municipales que se les transfieran y asignen, de conformidad con lo dispuesto en la ley de la materia.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
 La Auditoría Superior del Estado, sin perjuicio del principio de anualidad, podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda abierta nuevamente, para todos los efectos legales, la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones o recomendaciones que, en su caso, emita la Auditoría Superior, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
-Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley y derivado de alguna denuncia, podrá requerir al sujeto fiscalizado que proceda a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rinda un informe. Si los requerimientos no fueren atendidos en los plazos y formas señalados en la ley, se impondrán las sanciones previstas en ésta. La Auditoría Superior rendirá un informe específico al Congreso del Estado y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante la autoridad competente;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley y derivado de alguna denuncia, podrá requerir a la entidad sujeta de fiscalización que proceda a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rinda un informe. Si los requerimientos no fueren atendidos en los plazos y formas señalados en la ley, se impondrán las sanciones previstas en ésta. La Auditoría Superior rendirá un informe específico al Congreso del Estado y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante la autoridad competente;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
 II.- Entregar al Congreso del Estado el informe de resultados de la revisión de cada una de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas. Si del examen de la Cuenta Pública aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo a la ley.
 
-En forma previa a la presentación del informe de resultados, la Auditoría Superior dará a conocer a los sujetos fiscalizados el resultado preliminar de la revisión practicada, a fin de que los mismos presenten las justificaciones y aclaraciones correspondientes, las cuales serán valoradas por la Auditoría Superior para la elaboración final del informe de resultados de la revisión de la cuenta pública.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-El Auditor Superior del Estado enviará a los sujetos fiscalizados, a más tardar a los 10 días hábiles posteriores de su entrega al Congreso del Estado, tanto el informe de resultados como las recomendaciones que correspondan, para que en un plazo no mayor a 30 días hábiles presenten la información necesaria y realicen las consideraciones que estimen pertinentes, comunicándoles que en caso de no lo hagan (sic) serán acreedores a las sanciones previstas en la ley. Lo anterior no aplicará a los pliegos de observaciones y al fincamiento de responsabilidades, los cuales se sujetarán a los procedimientos y términos que prevea la ley.
+En forma previa a la presentación del informe de resultados, la Auditoría Superior dará a conocer a las entidades sujetas de fiscalización el resultado preliminar de la revisión practicada, a fin de que los mismos presenten las justificaciones y aclaraciones correspondientes, las cuales serán valoradas por la Auditoría Superior para la elaboración final del informe de resultados de la revisión de la cuenta pública.
 
-La Auditoría Superior, dentro de los 120 días hábiles posteriores a las respuestas que reciba de los sujetos fiscalizados, deberá pronunciarse sobre las mismas y, en caso de no hacerlo, se entenderá que las recomendaciones y acciones promovidas han sido atendidas.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-Tratándose de las recomendaciones sobre el desempeño de los sujetos fiscalizados, estos deberán precisar a la Auditoría Superior las mejoras realizadas o, en su caso, justificar su improcedencia.
+El Auditor Superior del Estado enviará a las entidades sujetas de fiscalización, a más tardar a los 10 días hábiles posteriores de su entrega al Congreso del Estado, tanto el informe de resultados como las recomendaciones que correspondan, para que en un plazo no mayor a 30 días hábiles presenten la información necesaria y realicen las consideraciones que estimen pertinentes, comunicándoles en caso de que no lo hagan serán acreedores a las sanciones previstas en la ley. Lo anterior no aplicará a los pliegos de observaciones y al fincamiento de responsabilidades, los cuales se sujetarán a los procedimientos y términos que prevea la ley.
 
-La Auditoría Superior del Estado entregará al Congreso sendos informes sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas el día 1 de mayo y el día 1 de noviembre de cada año.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
+La Auditoría Superior, dentro de los 120 días hábiles posteriores a las respuestas que reciba de las entidades sujetas de fiscalización, deberá pronunciarse sobre las mismas y, en caso de no hacerlo, se entenderá que las recomendaciones y acciones promovidas han sido atendidas.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Tratándose de las recomendaciones sobre el desempeño de las entidades sujetas de fiscalización, estos deberán precisar a la Auditoría Superior las mejoras realizadas o, en su caso, justificar su improcedencia.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
+La Auditoría Superior del Estado entregará al Congreso sendos informes sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas el primer día hábil de mayo y de noviembre de cada año.
 
 La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y de sus observaciones hasta que rinda el informe del resultado del análisis de la cuenta pública de que se trate al Congreso del Estado. La ley establecerá las sanciones que correspondan a quienes infrinjan esta disposición;
 
@@ -1425,9 +1447,9 @@ III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de l
 
 IV.- Determinar los daños y perjuicios que afecten a las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales o municipales, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título XI de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán impugnarse por los sujetos fiscalizados y, en su caso, por los servidores públicos afectados adscritos a las mismas, ante dicho órgano técnico de fiscalización superior o ante los tribunales a que se refiere la fracción LVII del artículo 58 de esta Constitución, en los términos que dispongan las leyes.
+Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán impugnarse por las entidades sujetas de fiscalización y, en su caso, por los servidores públicos afectados adscritos a las mismas, ante dicho órgano técnico de fiscalización superior o ante los tribunales a que se refiere la fracción LVI del artículo 58 de esta Constitución, en los términos que dispongan las leyes.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -1437,9 +1459,9 @@ El Congreso del Estado designará al Auditor Superior del Estado por el voto de 
 
 En el cumplimiento de sus funciones, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes de su competencia y se apruebe la cuenta pública correspondiente; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-Los poderes del Estado, los Ayuntamientos, los entes públicos estatales, los organismos estatales y municipales y toda persona sujeta a la fiscalización superior facilitarán a la Auditoría los auxilios que requiera para el ejercicio de sus funciones.
+Toda entidad sujeta de fiscalización, facilitará a la Auditoría Superior del Estado el auxilio que requiera para el ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1591,9 +1613,9 @@ V.- Cumplir y hacer cumplir la Constitución Política del Estado, las leyes y d
 
 VI.- Cuidar en los distintos ramos de la Administración que los caudales públicos estén asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
-VII.- Presentar al Congreso la iniciativa de Ley de Ingresos del Estado y el proyecto de Presupuesto de Egresos del Estado, así como remitir las cuentas de recaudación y aplicación de los fondos públicos del Estado en los términos que disponen esta Constitución y la ley;
+VII.- Presentar al Congreso la iniciativa de Ley de Ingresos del Estado y el proyecto de Presupuesto de Egresos del Estado, en los términos que dispone esta Constitución y las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1963,9 +1985,9 @@ Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces
 
 El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, el cual a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe sobre el estado que guarda la administración de justicia, y dentro de la cuenta pública, que deberá remitir al Congreso del Estado para su revisión.
+El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, en el informe sobre el estado que guarda la administración de justicia, así como en la información que se incorporará a la Cuenta Pública correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
@@ -2203,7 +2225,9 @@ XXIV.- Diseñar, integrar y mantener actualizado el Sistema de Información Esta
 
 XXV.- Entregar por conducto de su Presidente al Pleno del Supremo Tribunal de Justicia un informe estadístico trimestral del Poder Judicial del Estado;
 
-XXVI.- Elaborar la cuenta pública anual del Poder Judicial;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+
+XXVI.- Elaborar y presentar la información que se incorporará a la Cuenta Pública del Gobierno del Estado de Tamaulipas, en términos de esta Constitución y la ley de la materia;
 
 XXVII.- Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de justicia para adolescentes; y
 
@@ -2369,7 +2393,9 @@ La Comisión de Derechos Humanos del Estado de Tamaulipas tendrá un Consejo Con
 
 La elección del titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas y del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la ley. Tanto los miembros del Consejo Consultivo como su Presidente durarán en su cargo 4 años y podrán ser reelectos por una sola ocasión.
 
-El titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, deberá entregar puntualmente los informes y las cuentas públicas relativas al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
+El titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, deberá entregar puntualmente los informes relativos al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2899,9 +2925,11 @@ Los tesoreros municipales solo harán pagos obedeciendo órdenes firmadas por el
 
 El año fiscal comenzará el día primero de enero y terminará el día último de diciembre.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
 ###### Art. 164.
 
-En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, será obligatoria la enseñanza de la Instrucción Cívica.
+El Estado y los municipios promoverán las actividades cívicas en los términos que prevén las leyes federales, así como esta Constitución.
 
 ## TITULO XIII
 
@@ -4288,3 +4316,23 @@ P.O. 21 DE ABRIL DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y hasta la entrada en vigor del Decreto No. LXI-903 mediante el cual se adiciona un párrafo segundo al artículo 44 y se reforman la fracción XXXIII del artículo 91 y el cuarto párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Tamaulipas, publicado en el Periódico Oficial del Estado número 113 de fecha 18 de septiembre del 2013.
+
+P.O. 26 DE MAYO DE 2015.
+
+DECRETO NÚMERO LXII-576, POR EL QUE SE REFORMAN LOS ARTÍCULOS 45 PÁRRAFO TERCERO Y QUINTO, 58 FRACCIÓN VI, PÁRRAFOS PRIMERO Y TERCERO, 76 FRACCIÓN I, PÁRRAFO PRIMERO, TERCERO Y QUINTO FRACCIÓN II, PÁRRAFOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO, FRACCIÓN IV, PÁRRAFOS SEGUNDO Y QUINTO, 91 FRACCIÓN VII, 107 ÚLTIMO PÁRRAFO, 114 APARTADO B, FRACCIÓN XXVI, Y 126 ÚLTIMO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS EN MATERIA DE FISCALIZACIÓN.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas normas que se opongan al contenido del presente Decreto, así como a los Acuerdos emitidos por el Consejo Nacional de Armonización Contable respecto a la nueva estructura de la Cuenta Pública, con relación a lo previsto en la Ley General de Contabilidad Gubernamental.
+
+P.O. 26 DE MAYO DE 2015.
+
+DECRETO NÚMERO LXII-582, POR EL QUE SE REFORMA EL ARTÍCULO 164 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
