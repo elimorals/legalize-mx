@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2014-12-30"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -233,9 +233,13 @@ IV. Que su objeto sea posible de hecho y esté previsto por la norma aplicable, 
 
 V. Cumplir con la finalidad de interés público, sin que puedan perseguirse otros fines distintos de los que justifican el acto;
 
-VI. Constar por escrito en papel oficial, salvo el caso de la negativa ficta;
+> <small>(REFORMADA, G.O. 26 DE MAYO DE 2015)</small>
 
-VII. Contener firma autógrafa de la autoridad;
+VI. Constar por escrito en papel oficial, impreso o digital, o en formato electrónico oficial, salvo el caso de la negativa ficta;
+
+> <small>(REFORMADA, G.O. 26 DE MAYO DE 2015)</small>
+
+VII. Contener firma autógrafa o la firma electrónica certificada de la autoridad cuando la Ley lo permita o lo prevea de esta manera;
 
 VIII. Expedirse, en caso de afirmativa ficta, la certificación correspondiente de acuerdo con las normas de este Código, relativas a la terminación del procedimiento administrativo; y
 
@@ -3872,3 +3876,9 @@ P.O. 30 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 26 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. En un plazo no mayor de ciento veinte días naturales, contado a partir del inicio de vigencia de la presente resolución, se deberá adecuar la normativa interna de la Secretaría de Finanzas y Planeación del Gobierno del Estado a lo dispuesto en este Decreto, y emitirse las reglas de operación del Registro Estatal de Certificados Digitales.
