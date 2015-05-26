@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-04-30"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MAYO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -115,9 +115,11 @@ SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprender�
 
 I. PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 56/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1. Cincuenta y ocho tribunales colegiados especializados: nueve en materia penal, dieciocho en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en el Distrito Federal.
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 18/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE MAYO DE 2015)</small>
+
+1. Sesenta tribunales colegiados especializados: nueve en materia penal, veinte en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en el Distrito Federal.
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
@@ -1628,3 +1630,25 @@ D.O.F. 30 DE ABRIL DE 2015.
 PRIMERO. El presente acuerdo entrará en vigor el 1 de mayo de 2015.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 26 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil quince, con excepción de lo previsto en el tercero transitorio, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración con sus respectivas áreas, se coordinarán entre sí, a efecto de realizar oportunamente la instalación de los órganos jurisdiccionales de que se trata, dotándolos de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+CUARTO. La Dirección General de Estadística Judicial en coordinación con la Dirección General de Tecnologías de la Información, realizarán las acciones necesarias en el sistema de cómputo de la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Primer Circuito, a fin de incluir a los nuevos tribunales colegiados.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción I, número 1 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. Sesenta tribunales colegiados especializados: nueve en materia penal, veinte en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en el Distrito Federal.
+
+2. a 4. …
+
+II. a XXXII. …”
