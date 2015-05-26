@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-promocion-a-la-lectura-y-creacion-de-libros-para-el-9570
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-27"
-last_updated: "2013-08-27"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de agosto de 2013.
 
@@ -171,9 +171,17 @@ V. Promover la existencia de materiales escritos que respondan a los distintos i
 
 VI. Crear paquetes literarios en donde se contemplen obras literarias catalogadas y elegidas por el mismo ITCA, a través del método que elija su titular;
 
-VII. En coordinación con la Secretaría de Educación promover la creación de obras literarias en lenguas indígenas del Estado; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
-VIII. Generar convenios de colaboración con la Secretaría de Educación de Gobierno del Estado, Ayuntamientos e instancias federales, a efecto de invertir recursos en materia de infraestructura, para la creación y conservación de bibliotecas públicas en las diversas zonas del Estado.
+VII. En coordinación con la Secretaría de Educación promover la creación de obras literarias en lenguas indígenas del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+
+VIII. Generar convenios de colaboración con la Secretaría de Educación del Gobierno del Estado, Ayuntamientos e instancias federales, a efecto de invertir recursos en materia de infraestructura, para la creación y conservación de bibliotecas públicas en las diversas zonas del Estado; y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+
+IX. Con base en la disponibilidad presupuestal, promover durante el mes de abril de cada año, la realización de la Semana Estatal de Promoción a la Lectura, observando el principio de máxima publicidad en su difusión.
 
 ###### ARTÍCULO 10.
 
@@ -482,3 +490,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de agosto del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
