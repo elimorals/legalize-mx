@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2015-05-16"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -730,6 +730,14 @@ El estacionamiento de vehículos en las vías públicas se permitirá en las zon
 ###### ARTICULO 56.
 
 Los ayuntamientos, a través de sus titulares de tránsito, señalarán lugares específicos de estacionamientos para personas con discapacidad, de conformidad con la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Asimismo, establecerán por medio del presidente municipal, convenios con empresas que cuenten dentro de sus instalaciones, con lugares exclusivos de estacionamiento y rampas destinadas a personas con discapacidad, para retirar los vehículos que las obstruyan, y sancionar a sus propietarios.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Los ayuntamientos vigilarán que en los estacionamientos públicos y privados se destine por los menos un espacio para personas con discapacidad, por cada diez espacios o cajones disponibles.
 
 ## TITULO SEXTO. DE LOS PRESTADORES DE SERVICIOS
 
@@ -1444,3 +1452,9 @@ P.O. 16 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
