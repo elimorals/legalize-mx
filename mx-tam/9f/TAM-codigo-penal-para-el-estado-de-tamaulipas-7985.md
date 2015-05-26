@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2014-11-25"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -647,21 +647,23 @@ La sanción pecuniaria comprende la multa y la reparación del daño, y será co
 
 La multa consiste en el pago que se haga al Estado de una suma de dinero y será determinada por los tribunales judiciales. Se fijará por días de salario, desde uno hasta diez mil, sin que pueda exceder de esta última cantidad. Su importe se calculará teniendo como base el salario mínimo general en la capital del Estado y en la fecha de consumación del delito.
 
-La reparación del daño comprende:
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+La reparación integral del daño, debe ser plena y efectiva, proporcional a la gravedad del daño causado y a la afectación del proyecto de vida, ésta comprenderá por lo menos:
 
-I.- La restitución de la cosa obtenida por el delito y, de no ser posible, el pago del valor de la misma, y en cualquiera de las dos circunstancias, la utilidad que el pasivo dejó de percibir o hubiera percibido de no existir el delito. Cuando el delito recaiga sobre dinero en efectivo, la reparación comprenderá la restitución de la suma obtenida, más el interés que fije el Juez, que no podrá ser inferior al 6% (seis por ciento) anual, ni superior al 8% (ocho por ciento) mensual.
+I.- La restitución de la cosa obtenida por el delito y, de no ser posible, el pago del valor de la misma y sus accesorios, y en cualquiera de las dos circunstancias, la utilidad que el pasivo dejó de percibir o hubiera percibido de no existir el delito. Cuando el delito recaiga sobre dinero en efectivo, la reparación comprenderá la restitución de la suma obtenida, más el interés que fije el Juez, que no podrá ser inferior al 6% (seis por ciento) anual, ni superior al 8% (ocho por ciento) mensual. Para fijar el interés de la reparación del daño, el Juez deberá tomar en cuenta la capacidad económica del sentenciado;
 
-Para fijar el interés de la reparación del daño, el Juez deberá tomar en cuenta la capacidad económica del sentenciado;
+II.- La indemnización del daño material, físico, psicológico y moral causado, incluyendo el pago de los tratamientos curativos, terapéuticos, atención médica, de servicios sociales y de rehabilitación que requiera la víctima como consecuencia del delito y que sea necesaria para restablecer el bien jurídico afectado;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
+III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Segundo, la reparación del daño abarcará la restitución de la cosa o de su valor y, además, hasta dos tantos el valor de la cosa o los bienes obtenidos por el delito;
 
-II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+IV.- La estimación de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales de acuerdo a sus circunstancias;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JUNIO DE 2008)</small>
+V.- La estimación de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información será conforme al salario mínimo;
 
-III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Segundo, la reparación del daño abarcará la restitución de la cosa o de su valor y, además, hasta dos tantos el valor de la cosa o los bienes obtenidos por el delito.
+VI.- Los gastos de asistencia jurídica privada; y
+
+VII.- La declaración judicial que restablezca la dignidad y reputación de la víctima a través de medios electrónicos o escritos.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1483,11 +1485,17 @@ La prescripción producirá su efecto, aunque no la invoque el acusado.
 
 La autoridad la hará valer de oficio, sea cual fuere el estado del procedimiento.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad.
+
 #### Sección I. PRESCRIPCION DE LA ACCION
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 127.
 
-Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se consumó el delito, si fuere instantáneo; desde que cesó, si fuere permanente; desde que se realizó la última conducta si fuera continuado, y desde que se verificó el último hecho ejecutivo, en caso de tentativa.
+Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se consumó el delito, si fuere instantáneo; desde que cesó, si fuere permanente; desde que se realizó la última conducta si fuera continuado, y desde que se verificó el último hecho ejecutivo, en caso de tentativa. Excepto lo previsto en el cuarto párrafo del artículo anterior.
 
 ###### ARTICULO 128.
 
@@ -3223,11 +3231,9 @@ Los responsables a que se refiere el artículo anterior, quedarán privados de s
 
 La reparación del daño en los casos de estupro y violación, comprenderá el pago de alimentos a los hijos si los hubiere, y se hará en la forma y términos de la Ley Civil.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
-
 ###### ARTICULO 279 Bis.
 
-La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los familiares de éste que así lo requieran.
+(DEROGADO, P.O. 26 DE MAYO DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2008)</small>
 
@@ -3317,7 +3323,7 @@ A los ascendientes responsables del delito de incesto se les impondrá una sanci
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO I. AMENAZAS
+### CAPITULO I. AMENAZAS Y DISCRIMINACIÓN
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3429,6 +3435,8 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2015)</small>
+
 ### CAPITULO V. TRAFICO DE MENORES E INCAPACITADOS
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
@@ -3485,6 +3493,18 @@ Si el activo cumple su amenaza se acumulará la sanción de ésta y la del delit
 
 Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+###### ARTICULO 309 Bis.
+
+Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días (sic) salario, a quien, por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, embarazo, la religión, las opiniones, las preferencias sexuales, el estado civil, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como a quien niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
+
+Al servidor público que, por las razones previstas en el presente artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+Este delito se perseguirá por querella.
+
 ### CAPITULO I. LESIONES
 
 ###### ARTICULO 310.
@@ -3499,7 +3519,9 @@ Al responsable del delito de allanamiento de morada se le impondrá una sanción
 
 Se impondrá la misma sanción prevista en el artículo anterior, al que permanezca en los lugares señalados en el artículo 310, con engaño o contra la voluntad expresa de la persona autorizada para ello.
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I BIS. DELITOS CONTRA LOS DERECHOS REPRODUCTIVOS
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 313.
 
@@ -3515,7 +3537,7 @@ Al responsable del delito de asalto, se le impondrá sanción de cuatro a siete 
 
 Si un grupo de tres o más personas, atacare un lugar poblado, se impondrá una sanción de diez a veinte años de prisión a los cabecillas o jefes; y de ocho a quince años de prisión a los demás.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 316.
 
@@ -3535,13 +3557,13 @@ II.- Si se cometiere por conductores de transporte de servicio público o escola
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
-### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
-### CAPITULO V. PARRICIDIO
+### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
-### CAPITULO VI. FILICIDIO
+### CAPITULO V. PARRICIDIO
 
 ###### ARTICULO 319.
 
@@ -3609,49 +3631,41 @@ Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores 
 
 Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2015)</small>
+
+### CAPITULO VI. FILICIDIO
+
+###### ARTICULO 328 Ter.
+
+Al que sin consentimiento de una mujer o aun con su consentimiento, si ésta fuere menor o incapaz, realice en ella inseminación artificial, se le aplicará prisión de uno a tres años, si no se produce el embarazo como resultado de la inseminación; si resulta embarazo, se impondrá prisión de dos a ocho años.
+
+Si la inseminación se realiza con violencia, se impondrá de cinco a catorce años de prisión.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+###### ARTICULO 328 Quater.
+
+Se impondrá de cuatro a siete años de prisión a quien implante a una mujer un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente, del donante o con el consentimiento de una menor de edad o de una incapaz para comprender el significado del hecho o para resistirlo.
+
+Si el delito se realiza con violencia o de ella resulta un embarazo, la pena aplicable será de cinco a catorce años.
+
+Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o relación de pareja, los delitos previstos en el artículo anterior se perseguirán por querella.
+
+Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la (sic) comprenderá además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+###### ARTICULO 328 Quinquies.
+
+Comete el delito de esterilidad provocada, quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos con el propósito de provocar esterilidad.
+
+Este delito se sancionará con una pena de cuatro a siete años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo, más la reparación del daño.
+
 ### CAPITULO VII. ABORTO
 
 ### CAPITULO VIII. ABANDONO DE PERSONAS
 
 ### CAPITULO IX
-
-### CAPITULO X. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 368 BIS.- Por violencia familiar se considera cualquiera de las siguientes manifestaciones de maltrato en contra de un miembro de la familia por otro integrante de la misma:
-
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-I.- Maltrato físico: Todo acto de agresión que se ejerce sobre el cuerpo de la víctima y es producido mediante la fuerza física o el empleo de cualquier objeto capaz de producir una lesión interna, externa o ambas;
-
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-II.- Maltrato psico-emocional: toda acción u omisión que provoque un daño o alteración negativa en la estabilidad psicológica de la víctima; y
-
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-III.- Maltrato sexual: cualquier acto que degrade o dañe el cuerpo, la integridad y libertad sexuales de la víctima. Se considerará consumada esta conducta si la víctima es menor de 18 años de edad, aún y cuando hubiere dado su consentimiento.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado.
-
-A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 368 TER.- Se equipará a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto o amistad, incluyendo el ex-cónyuge, ex-concubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
-
-Asimismo se le sujetará a tratamiento psicológico especializado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 368 QUÁTER.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público o el ofendido solicitará al Juez una orden de protección en un plazo de 24 horas después de la solicitud, previendo las medidas que considere necesarias para hacer cesar cualquier conducta que pudiere resultar ofensiva para la víctima, de conformidad con lo establecido en (sic) Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 ###### ARTICULO 329.
 
@@ -3735,7 +3749,39 @@ I. La víctima presente signos de violencia sexual de cualquier tipo; o
 
 II. Se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida.
 
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+### CAPITULO X. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO P.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 368 BIS.- Comete el delito de violencia familiar, el integrante de una familia que ejerza maltrato físico, psico-emocional o económico en contra de cualquier otro miembro de la familia, independientemente de que produzca o no lesiones en la víctima.
+
+Para los efectos de este capítulo, se considera miembro de familia:
+
+a) El cónyuge o concubino;
+
+b) Los parientes consanguíneos en línea recta ascendente o descendente sin limitación de grado;
+
+c) Los parientes colaterales consanguíneos o afines hasta el cuarto grado; y
+
+d) Adoptantes o adoptados.
+
+A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
+
+Este delito se perseguirá, a petición de parte ofendida.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 368 TER.- Se equipará a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto o amistad, incluyendo el ex-cónyuge, ex-concubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
+
+Asimismo se le sujetará a tratamiento psicológico especializado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 368 QUÁTER.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público o el ofendido solicitará al Juez una orden de protección en un plazo de 24 horas después de la solicitud, previendo las medidas que considere necesarias para hacer cesar cualquier conducta que pudiere resultar ofensiva para la víctima, de conformidad con lo establecido en (sic) Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 ###### ARTICULO 338.
 
@@ -3809,7 +3855,7 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
-### CAPITULO II. INJURIAS
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
 
 ###### ARTICULO 348.
 
@@ -3819,7 +3865,7 @@ Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su 
 
 Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciséis años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
 
-### CAPITULO III. DIFAMACION
+### CAPITULO II. INJURIAS
 
 ###### ARTICULO 350.
 
@@ -3831,7 +3877,7 @@ Comete el delito de parricidio el que dolosamente prive de la vida a cualquier a
 
 Al que cometa el delito de parricidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-### CAPITULO IV. CALUMNIA
+### CAPITULO III. DIFAMACION
 
 ###### ARTICULO 352.
 
@@ -3853,9 +3899,7 @@ Al responsable del delito de filicidio se le impondrá una sanción de treinta a
 
 Si en la comisión del delito de filicidio participara un médico, partero o enfermero, además de imponérseles las sanciones privativas de libertad por homicidio, se le suspenderá hasta por veinte años en el ejercicio de su profesión.
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+### CAPITULO IV. CALUMNIA
 
 ###### ARTICULO 356.
 
@@ -3919,7 +3963,9 @@ II.- Cuando el embarazo haya sido resultado de una violación; y
 
 III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
+### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 362.
 
@@ -3959,11 +4005,11 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
+
 ### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-### CAPITULO III. RAPTO
 
 ###### ARTICULO 366.
 
@@ -3979,7 +4025,7 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
 
-### CAPITULO I. ROBO
+### CAPITULO III. RAPTO
 
 ###### ARTICULO 368 Bis.
 
@@ -3999,11 +4045,11 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
-### CAPITULO II. ABUSO DE CONFIANZA
+### CAPITULO I. ROBO
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPITULO III. FRAUDE
+### CAPITULO II. ABUSO DE CONFIANZA
 
 ###### ARTICULO 369.
 
@@ -4043,9 +4089,7 @@ En caso de que el psicólogo observe una conducta extremadamente peligrosa y vio
 
 En los casos en que no se cuente con servicios psicológicos o psiquiátricos, el Juez enviará al responsable del delito al municipio donde se pueda practicar dicho tratamiento y las costas que de esto se deriven, serán cubiertas en su totalidad por el sujeto tratado.
 
-### CAPITULO IV. USURA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO III. FRAUDE
 
 ###### ARTICULO 372.
 
@@ -4055,7 +4099,9 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO V. CHANTAJE
+### CAPITULO IV. USURA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 374.
 
@@ -4073,7 +4119,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO VI. EXTORSION
+### CAPITULO V. CHANTAJE
 
 ###### ARTICULO 378.
 
@@ -4095,7 +4141,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO VI. EXTORSION
 
 ###### ARTICULO 383.
 
@@ -4119,9 +4165,7 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 388.
 
@@ -4147,13 +4191,13 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
+### CAPITULO VIII. DAÑO EN PROPIEDAD
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ### CAPITULO I. ENCUBRIMIENTO
-
-### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 391.
 
@@ -4211,9 +4255,9 @@ II.- Conociendo los planes para la comisión del delito de desaparición forzada
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 394.
 
@@ -4239,9 +4283,9 @@ II.- Conociendo los planes para la comisión del delito de desaparición forzada
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
 
-### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTÍCULO 443 Bis.
 
@@ -4453,13 +4497,11 @@ Al que use para los fines que están destinados las señales, marcas o fierros d
 
 No se impondrá sanción al que sin emplear engaños ni medios violentos, se apodere por una sola vez de los objetos indispensables para satisfacer sus necesidades personales o familiares del momento.
 
+### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
 ### CAPITULO I. DAÑO AL MEDIO AMBIENTE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-### CAPITULO II. DELITO DE INCENDIOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4489,7 +4531,7 @@ II.- Cuando el depositario judicial o el designado por o ante las autoridades ad
 
 III.- Cuando una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
-### CAPITULO III. CONTAMINACION DE AGUAS
+### CAPITULO II. DELITO DE INCENDIOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4563,7 +4605,7 @@ Comete el delito de fraude laboral, el que valiéndose del engaño, de la ignora
 
 Al responsable del delito de fraude laboral se le impondrá una sanción de seis meses a seis años de prisión y multa de quince a ochenta días salario.
 
-### CAPITULO IV. SUBSTRACCION DEL SUELO
+### CAPITULO III. CONTAMINACION DE AGUAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4581,7 +4623,7 @@ Al responsable del delito previsto en el artículo anterior se le impondrá de s
 
 Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO IV. SUBSTRACCION DEL SUELO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4594,6 +4636,12 @@ Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho
 ###### ARTICULO 425.
 
 Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
+
+### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 426.
 
@@ -5756,3 +5804,13 @@ P.O. 25 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas al delito de violencia familiar previsto en el artículo 368 Bis del Código Penal para el Estado de Tamaulipas, reformado mediante el presente Decreto, seguirá aplicándose a las personas procesadas o sentenciadas por este delito previsto y sancionado por el mismo artículo, hasta antes de la entrada en vigor del presente Decreto.
