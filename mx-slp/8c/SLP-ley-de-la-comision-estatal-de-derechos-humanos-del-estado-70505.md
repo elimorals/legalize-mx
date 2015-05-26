@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2015-05-16"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -345,7 +345,9 @@ XVI. Acudir, para la protección de Derechos Humanos, a las instancias del siste
 
 XVII. Proponer a cualquier autoridad, que en el exclusivo ámbito de su competencia, promuevan los cambios y las modificaciones de disposiciones legislativas y reglamentarias, con la finalidad de armonizar las normas nacionales con los documentos internacionales, así como de prácticas administrativas, que a juicio de la Comisión, redunden en una mejor protección de los Derechos Humanos;
 
-XVIII. Promover la integración en el estudio, la enseñanza, la divulgación, la capacitación y la educación en y para los Derechos Humanos en el ámbito estatal y municipal, dirigida a todos los individuos, grupos sociales y pueblos;
+> <small>(REFORMADA, P. O. 26 DE MAYO DE 2015)</small>
+
+XVIII. Promover la integración en el estudio, la enseñanza, la divulgación, la capacitación y la educación en y para los Derechos Humanos en el ámbito estatal y municipal, dirigida a todos los individuos, grupos sociales y pueblos, para tales efectos; integrará anualmente el Programa Estatal de Promoción de los Derechos Humanos, instrumento que orientará los criterios de promoción y divulgación de los derechos humanos, el cual será elaborado tomando en cuenta el diagnóstico sobre violaciones a los derechos económicos, sociales, culturales y ambientales, contenido en el informe anual de la Comisión;
 
 XIX. Realizar las acciones pertinentes para establecer la cultura de los Derechos Humanos;
 
@@ -1684,3 +1686,9 @@ SEGUNDO. Las instituciones de educación integrantes del Sistema Educativo Estat
 TERCERO. La Comisión Estatal de Derechos Humanos, dentro de los cuarenta y cinco días naturales siguientes a la fecha de entrada en vigor de este Decreto, expedirá mediante acuerdo, las bases, lineamientos y requisitos que deberán observarse para la tramitación y otorgamiento de la certificación de institución educativa libre de violencia escolar.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P. O. 26 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
