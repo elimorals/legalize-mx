@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-infraestructura-fisica-educativa-para-el-estado-de-73180
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-07"
-last_updated: "2011-12-20"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 7 de julio de 2009.
 
@@ -197,13 +197,19 @@ XI. La educación complementaria deberá proveerse de la infraestructura mínima
 
 ###### Artículo 16.
 
-1. En todos los tipos, modalidades o niveles, la infraestructura física educativa debe garantizar a los educandos las condiciones de seguridad, libre acceso, fácil desplazamiento, comodidad, salubridad, protección de agentes meteorológicos y desarrollo de actividades deportivas, recreativas, cívicas, culturales, técnicas y de investigación.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-2. De igual manera, deberá satisfacer los requerimientos de instalaciones para las actividades directivas, de desarrollo del personal docente, administrativas y de servicios generales y, de ser posible, la instalación de áreas de interacción social.
+1. La infraestructura Física Educativa del Estado deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada por las autoridades correspondientes, y con base en lo establecido en el artículo 3o, constitucional, y las leyes y normas federales aplicables de la materia.
 
-3. Los proyectos constructivos para el cumplimiento de las referidas condiciones, en cada caso particular, deberán ser estudiados, revisados y evaluados por el Instituto, de acuerdo a las necesidades y requerimientos de las instituciones educativas que los presenten, considerándose como mínimo la extensión geográfica del predio, la densidad poblacional educativa, los accesos a los servicios públicos requeridos, las necesidades de expansión futuras y las características del terreno.
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
 
-4. El orden de prioridad de las construcciones o equipamiento deberá ser establecido por las propias instituciones educativas con la participación de los consejos de participación social en la educación o de las asociaciones de padres de familia, en su caso.
+2. Así también considerará la protección de agentes meteorológicos y desarrollo de actividades deportivas, recreativas, cívicas, culturales, técnicas y de investigación.
+
+3. De igual manera, deberá satisfacer los requerimientos de instalaciones para las actividades directivas, de desarrollo del personal docente, administrativas y de servicios generales y, de ser posible, la instalación de áreas de interacción social.
+
+4. Los proyectos constructivos para el cumplimiento de las referidas condiciones, en cada caso particular, deberán ser estudiados, revisados y evaluados por el Instituto, de acuerdo a las necesidades y requerimientos de las instituciones educativas que los presenten, considerándose como mínimo la extensión geográfica del predio, la densidad poblacional educativa, los accesos a los servicios públicos requeridos, las necesidades de expansión futuras y las características del terreno.
+
+5. El orden de prioridad de las construcciones o equipamiento deberá ser establecido por las propias instituciones educativas con la participación de los consejos de participación social en la educación o de las asociaciones de padres de familia, en su caso.
 
 ### Capítulo Cuarto. De la Calidad y Certificación de la Infraestructura Física Educativa
 
@@ -224,6 +230,12 @@ Cuando los procesos constructivos los realicen particulares, o instituciones pú
 ###### Artículo 20.
 
 Para garantizar la calidad de la infraestructura física educativa, en todo tiempo el Instituto podrá realizar visitas a las instituciones educativas, que comprendan inspecciones a los procesos constructivos en marcha o a los concluidos, así como a las edificaciones habilitadas para la función social educativa. Al respecto, podrá emitir observaciones, recomendaciones o, en su caso, ejercer cualquier acción de su competencia.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+###### Artículo 20 Bis.
+
+En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la infraestructura física educativa deberán cumplirse las disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad y leyes estatales aplicables. Asimismo, se garantizará la existencia de bebederos suficientes y con suministro continuo de agua potable en cada inmueble de uso escolar conforme a los lineamientos y normas oficiales que emita la Secretaría de Salud en coordinación con la Secretaría de Educación Pública y el Sistema Educativo Estatal.
 
 ###### Artículo 21.
 
@@ -678,3 +690,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos indicados con las disposiciones que mediante el presente Decreto fueron reformadas, adicionadas o derogadas, deberán concluirse con la normatividad y conforme al procedimiento mediante las cuales fueron iniciados.
+
+P.O. 26 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
