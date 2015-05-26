@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2014-06-26"
+last_updated: "2015-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -543,13 +543,23 @@ XIII. Unidad Especializada en la Investigación y Persecución de los delitos en
 
 XIV. Director General de Operación del Procedimiento Penal Acusatorio y Oral;
 
-> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XV. Coordinadores Regionales del Procedimiento Penal Acusatorio y Oral; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+XV. Coordinadores Regionales del Procedimiento Penal Acusatorio y Oral;
 
-XVI. Agentes del Ministerio Público.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+
+XVI. Agentes del Ministerio Público; y,
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+
+XVII. Director de la Unidad para la Protección de Personas que intervienen en el Procedimiento Penal.
 
 B) Con funciones auxiliares del Ministerio Público:
 
@@ -3366,3 +3376,17 @@ El Consejo de la Judicatura del Estado proveerá lo conducente para contar con l
 ###### ARTÍCULO QUINTO.
 
 El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
+
+P.O. 26 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado, y de manera sucesiva, conforme a las fechas de aplicación que se establecen en el artículo único del Decreto No. LXII-232 publicado en el Periódico Oficial del Estado número 53 de fecha 01 de mayo de 2014, mediante el cual se emite la Declaratoria de entrada en vigor, a partir del 1° de julio de 2014, del Código Nacional de Procedimientos Penales, en el Primer Distrito Judicial del Estado, con cabecera en Ciudad Victoria, perteneciente a la primera región judicial, para los delitos de daño en propiedad, lesiones y homicidio todos de carácter culposo, exceptuando cuando se cometan en las circunstancias previstas en el artículo 318 del Código Penal para el Estado de Tamaulipas, abandono de obligaciones alimenticias y violencia familiar, en los términos de los párrafos segundo y tercero del artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014. Así como lo dispuesto en el Decreto número LXII-550, mediante el cual se emiten las Declaratorias, de incorporación del Sistema Procesal Penal Acusatorio al régimen jurídico del Estado y de entrada en vigor del Código Nacional de Procedimientos Penales, a partir del día 6 de abril del 2015, en los Distrito Judiciales Noveno, Décimo, Décimo Segundo y Décimo Cuarto, con cabeceras en Tula, Padilla, Soto la Marina y Valle Hermoso, respectivamente, así como en el Primer Distrito Judicial, respecto a diversos tipos penales, publicado en el Periódico Oficial del Estado el 3 de febrero del año 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a lo establecido en el artículo que antecede, a partir de la entrada en vigor del presente Decreto, se derogan todas aquellas disposiciones del ámbito estatal que se contrapongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Respecto a los procedimientos penales que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
