@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2014-02-03"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2015.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -9345,6 +9345,228 @@ ARTICULO 1756
 
 Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE MAYO DE 2015)</small>
+
+### CAPITULO V BIS. De los Mensajes de Datos
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 BIS
+
+Para efectos del presente Código, se deberán tomar en cuenta las definiciones siguientes:
+
+I. Certificado: Todo mensaje de datos u otro registro que confirme el vínculo entre un firmante y los datos de creación de Firma Electrónica;
+
+II. Datos de Creación de Firma Electrónica: Son los datos únicos, como códigos o claves criptográficas privadas, que el Firmante genera de manera secreta y utiliza para crear su Firma Electrónica, a fin de lograr el vínculo entre dicha Firma Electrónica y el Firmante;
+
+III. Destinatario: La persona designada por el Emisor para recibir el Mensaje de Datos, pero que no esté actuando a título de Intermediario con respecto a dicho Mensaje;
+
+IV. Emisor: Toda persona que, al tenor del Mensaje de Datos, haya actuado a nombre propio o en cuyo nombre se haya enviado o generado ese mensaje antes de ser archivado, si éste es el caso, pero que no haya actuado a título de Intermediario;
+
+V. Firma Electrónica: Los datos en forma electrónica consignados en un Mensaje de Datos, o adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al Firmante en relación con el Mensaje de Datos e indicar que el Firmante aprueba la información contenida en el Mensaje de Datos, y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio;
+
+VI. Firma Electrónica Avanzada o Fiable: Aquella Firma Electrónica que cumpla con los requisitos contemplados en las fracciones I a IV del artículo 1756 quaterdecies. En aquellas disposiciones que se refieran a Firma Digital, se considerará a ésta como una especie de la Firma Electrónica;
+
+VII. Firmante: La persona que posee los datos de la creación de la firma y que actúa en nombre propio o de la persona a la que representa;
+
+VIII. Intermediario: En relación con un determinado Mensaje de Datos, se entenderá toda persona que, actuando por cuenta de otra, envíe, reciba o archive dicho mensaje o preste algún otro servicio con respecto a él;
+
+IX. Mensaje de Datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología,
+
+X. Parte que Confía: La persona que, siendo o no el Destinatario, actúa sobre la base de un Certificado o de una Firma Electrónica;
+
+XI. Prestador de Servicios de Certificación: La persona o institución pública que preste servicios relacionados con Firmas Electrónicas y que expide los Certificados, en su caso;
+
+XII. Sistema de Información: Todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna otra forma Mensajes de Datos; y
+
+XIII. Titular del Certificado: Se entenderá a la persona a cuyo favor fue expedido el Certificado.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 TER
+
+No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un Mensaje de Datos.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 QUATER
+
+Se presumirá que un Mensaje de Datos proviene del Emisor si ha sido enviado:
+
+I. Por el propio Emisor;
+
+II. Usando medios de identificación, tales como claves o contraseñas del Emisor o por alguna persona facultada para actuar en nombre del Emisor respecto a ese Mensaje de Datos; o
+
+III. Por un Sistema de Información programado por el Emisor o en su nombre para que opere automáticamente.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 QUINQUIES
+
+Se presume que un Mensaje de Datos ha sido enviado por el Emisor y, por lo tanto, el Destinatario o la Parte que Confía, en su caso, podrá actuar en consecuencia, cuando:
+
+I. Haya aplicado en forma adecuada el procedimiento establecido en Ley, Reglamento o acordado previamente con el Emisor, con el fin de establecer que el Mensaje de Datos provenía efectivamente de éste; o
+
+II. El Mensaje de Datos que reciba el Destinatario o la Parte que Confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el Emisor para identificar un Mensaje de Datos como propio.
+
+Lo dispuesto en el presente artículo no se aplicará:
+
+a) A partir del momento en que el Destinatario o la Parte que Confía haya sido informado por el Emisor de que el Mensaje de Datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia; o
+
+b) A partir del momento en que el Destinatario o la Parte que Confía tenga conocimiento, o debiere tenerlo, de haber actuado con la debida diligencia o aplicado algún método convenido, que el Mensaje de Datos no provenía del Emisor.
+
+Salvo prueba en contrario y sin perjuicio del uso de cualquier otro método de verificación de la identidad del Emisor, se presumirá que se actuó con la debida diligencia si el método que usó el Destinatario o la Parte que Confía cumple con los requisitos establecidos en este Código para la verificación de la fiabilidad de las Firmas Electrónicas.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 SEXIES
+
+Salvo pacto en contrario entre el Emisor y el Destinatario, el momento de recepción de un Mensaje de Datos se determinará como sigue:
+
+I. Si el Destinatario ha designado un Sistema de Información para la recepción de Mensajes de Datos, ésta tendrá lugar en el momento en que ingrese en dicho Sistema de Información;
+
+II. De enviarse el Mensaje de Datos a un Sistema de Información del Destinatario que no sea el Sistema de Información designado, o de no haber un Sistema de Información designado, en el momento en que el Destinatario recupere el Mensaje de Datos; o
+
+III. Si el Destinatario no ha designado un Sistema de Información, la recepción tendrá lugar cuando el Mensaje de Datos ingrese a un Sistema de Información del Destinatario.
+
+Lo dispuesto en este artículo será aplicable aun cuando el Sistema de Información esté ubicado en un lugar distinto de donde se tenga por recibido el Mensaje de Datos conforme al artículo 1756 undecies.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 SEPTIES
+
+Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido cuando ingrese en un Sistema de Información que no esté bajo el control del Emisor o del Intermediario.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 OCTIES
+
+En lo referente a acuse de recibo de Mensajes de Datos, se estará a lo siguiente:
+
+I. Si al enviar o antes de enviar un Mensaje de Datos, el Emisor solicita o acuerda con el Destinatario que se acuse recibo del Mensaje de Datos, pero no se ha acordado entre éstos una forma o método determinado para efectuarlo, se podrá acusar recibo mediante:
+
+a) Toda comunicación del Destinatario, automatizada o no; o
+
+b) Todo acto del Destinatario, que baste para indicar al Emisor que se ha recibido el Mensaje de Datos.
+
+II. Cuando el Emisor haya indicado que los efectos del Mensaje de Datos estarán condicionados a la recepción de un acuse de recibo, se considerará que el Mensaje de Datos no ha sido enviado, en tanto que no se haya recibido el acuse de recibo en el plazo fijado por el Emisor o dentro de un plazo razonable atendiendo a la naturaleza del negocio, a partir del momento del envío del Mensaje de Datos;
+
+III. Cuando el Emisor haya solicitado o acordado con el Destinatario que se acuse recibo del Mensaje de Datos, independientemente de la forma o método determinado para efectuarlo, salvo que:
+
+a) El Emisor no haya indicado expresamente que los efectos del Mensaje de Datos estén condicionados a la recepción del acuse de recibo; y
+
+b) No se haya recibido el acuse de recibo en el plazo solicitado o acordado o, en su defecto, dentro de un plazo razonable atendiendo a la naturaleza del negocio.
+
+El Emisor podrá dar aviso al Destinatario de que no ha recibido el acuse de recibo solicitado o acordado y fijar un nuevo plazo razonable para su recepción, contado a partir del momento de este aviso. Cuando el Emisor reciba acuse de recibo del Destinatario, se presumirá que éste ha recibido el Mensaje de Datos correspondiente; y
+
+IV. Cuando en el acuse de recibo se indique que el Mensaje de Datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 NOVIES
+
+Cuando la ley exija la forma escrita para los actos, convenios o contratos, este supuesto se tendrá por cumplido tratándose de Mensaje de Datos, siempre que la información en él contenida se mantenga íntegra y sea accesible para su ulterior consulta, sin importar el formato en el que se encuentre o represente.
+
+Cuando adicionalmente la ley exija la firma de las partes, dicho requisito se tendrá por cumplido tratándose de Mensaje de Datos, siempre que éste sea atribuible a dichas partes.
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán, a través de Mensajes de Datos, expresar los términos exactos en que las partes han decidido obligarse, en cuyo caso el fedatario público deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuyen dichos mensajes a las partes y conservar bajo su resguardo una versión íntegra de los mismos para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 DECIES
+
+Cuando la ley requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho respecto a un Mensaje de Datos:
+
+I. Si existe garantía confiable de que se ha conservado la integridad de la información, a partir del momento en que se generó por primera vez en su forma definitiva, como Mensaje de Datos o en alguna otra forma; y
+
+II. De requerirse que la información sea presentada, si dicha información puede ser mostrada a la persona a la que se deba presentar.
+
+Para efectos de este artículo, se considerará que el contenido de un Mensaje de Datos es íntegro, si éste ha permanecido completo e inalterado independientemente de los cambios que hubiere podido sufrir el medio que lo contiene, resultado del proceso de comunicación, archivo o presentación. El grado de confiabilidad requerido será determinado conforme a los fines para los que se generó la información y de todas las circunstancias relevantes del caso.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 UNDECIES
+
+Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el Emisor tenga su domicilio y por recibido en el lugar donde el Destinatario tenga el suyo. Para los fines del presente artículo:
+
+I. Si el Emisor o el Destinatario tienen más de un domicilio, su domicilio será el que guarde una relación más estrecha con la operación subyacente o, de no haber una operación subyacente, su domicilio legal; y
+
+II. Si el Emisor o el Destinatario no tienen domicilio legal, se estará a lo señalado en los artículos 37 y 41 de este Código.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 DUODECIES
+
+Conforme al artículo 1756 Quater, siempre que se entienda que el Mensaje de Datos proviene del Emisor, o que el Destinatario tenga derecho a actuar con arreglo a este supuesto, dicho Destinatario tendrá derecho a considerar que el Mensaje de Datos recibido corresponde al que quería enviar el iniciador, y podrá proceder en consecuencia. El Destinatario no gozará de este derecho si sabía o hubiera sabido, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que la transmisión había dado lugar a un error en el Mensaje de Datos recibido.
+
+Se presume que cada Mensaje de Datos recibido es un Mensaje de Datos diferente, salvo que el Destinatario sepa, o debiera saber, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que el nuevo Mensaje de Datos era un duplicado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE MAYO DE 2015)</small>
+
+### CAPITULO V TER. De la Firma Electrónica
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 TERDECIES
+
+Las disposiciones del presente Código serán aplicadas de modo que no excluyan, restrinjan o priven de efecto jurídico cualquier método para crear una Firma Electrónica.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 QUATERDECIES
+
+Cuando la ley requiera o las partes acuerden la existencia de una Firma en relación con un Mensaje de Datos, se entenderá satisfecho dicho requerimiento si se utiliza una Firma Electrónica que resulte apropiada para los fines para los cuales se generó o comunicó ese Mensaje de Datos.
+
+La Firma Electrónica se considerará Avanzada o Fiable si cumple, por lo menos, con los siguientes requisitos:
+
+I. Los Datos de Creación de la Firma, en el contexto en que son utilizados, corresponden exclusivamente al Firmante;
+
+II. Los Datos de Creación de la Firma estaban, en el momento de la firma, bajo el control exclusivo del Firmante;
+
+III. Sea posible detectar cualquier alteración de la Firma Electrónica hecha después del momento de la firma; y
+
+IV. Respecto a la integridad de la información de un Mensaje de Datos, sea posible detectar cualquier alteración de ésta hecha después del momento de la firma.
+
+Lo dispuesto en el presente artículo se entenderá sin perjuicio de la posibilidad de que cualquier persona demuestre de cualquier otra manera la fiabilidad de una Firma Electrónica; o presente pruebas de que una Firma Electrónica no es fiable.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 QUINDECIES
+
+Los Prestadores de Servicios de Certificación autorizados por la Secretaría de Economía en los términos de las leyes aplicables harán del conocimiento de los usuarios si las Firmas Electrónicas Avanzadas o Fiables que les ofrecen cumplen o no los requerimientos dispuestos en el artículo anterior.
+
+La determinación que se haga, con arreglo al párrafo anterior, deberá ser compatible con las normas y criterios internacionales reconocidos.
+
+Lo dispuesto en el presente artículo se entenderá sin perjuicio de la aplicación de las normas del derecho internacional privado.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 SEXDECIES
+
+El Firmante deberá:
+
+I. Cumplir las obligaciones derivadas del uso de la Firma Electrónica;
+
+II. Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los Datos de Creación de la Firma;
+
+III. Cuando se emplee un Certificado en relación con una Firma Electrónica, actuar con diligencia razonable para cerciorarse de que todas las declaraciones que haya hecho en relación con el Certificado, con su vigencia, o que hayan sido consignadas en el mismo, son exactas.
+
+El Firmante será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente las obligaciones previstas en el presente artículo; y
+
+IV. Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la debida diligencia para impedir su utilización, salvo que el Destinatario conociere de la inseguridad de la Firma Electrónica o no hubiere actuado con la debida diligencia.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 SEPTDECIES
+
+Se reconoce como prestadores de servicios de certificación a todas aquellas personas físicas o morales a que hace mención el Código de Comercio, quienes tendrán los derechos y obligaciones señalados en dicha Legislación.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2015)</small>
+
+ARTICULO 1756 OCTODECIES
+
+Los usuarios, a quienes se les haya expedido por los prestadores de servicios de certificación certificados que vayan a ser utilizados para la realización de actos jurídicos de naturaleza civil, deberán inscribir el certificado emitido por la Secretaría de Economía ante la Secretaría de Finanzas y Planeación del Estado. No obstante lo anterior, el Gobierno del Estado no tendrá responsabilidad sobre la autenticidad de dichos certificados.
+
 ### CAPITULO VI. Del objeto y del motivo o fin de los contratos
 
 ARTICULO 1757
@@ -10197,6 +10419,8 @@ ARTICULO 1916
 
 La falta de prestación del hecho se regirá por lo dispuesto en los artículos 1960 y 1961.
 
+## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
+
 ### CAPITULO IV. De las obligaciones mancomunadas
 
 ARTICULO 1917
@@ -10425,8 +10649,6 @@ III.- Cuando la obligación sea indivisible;
 
 IV.- Cuando por el contrato se ha determinado otra cosa.
 
-## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
-
 ### CAPITULO VI. De las obligaciones de hacer o de no hacer
 
 ARTICULO 1960
@@ -10596,6 +10818,8 @@ No habrá subrogación parcial en deudas de solución indivisible.
 ARTICULO 1994
 
 El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
+
+## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
 
 ### CAPITULO I. Del pago
 
@@ -10779,8 +11003,6 @@ Si el ofrecimiento y la consignación se han hecho legalmente, todos los gastos 
 
 B).- Incumplimiento de las obligaciones
 
-## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
-
 ### CAPITULO I. Consecuencias del incumplimiento de las obligaciones
 
 ARTICULO 2037
@@ -10852,6 +11074,14 @@ Si la prestación consistiere en el pago de cierta cantidad de dinero, los daño
 ARTICULO 2051
 
 El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
+
+## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
+
+SUBTITULO PRIMERO
+
+EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
+
+A).- Cumplimiento de las obligaciones
 
 ### CAPITULO II. De la evicción y saneamiento
 
@@ -11133,14 +11363,6 @@ ARTICULO 2112
 
 Se presumen fraudulentas las enajenaciones a título oneroso, hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 
-## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
-
-SUBTITULO PRIMERO
-
-EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
-
-A).- Cumplimiento de las obligaciones
-
 ### CAPITULO II. De la simulación de los actos jurídicos
 
 ARTICULO 2113
@@ -11299,6 +11521,8 @@ ARTICULO 2145
 
 La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
+## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
+
 ### CAPITULO IV. De la novación
 
 ARTICULO 2146
@@ -11433,8 +11657,6 @@ ARTICULO 2201
 
 Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, cabarets, pulquerías o centros de vicio, no dan derecho para exigir su precio.
 
-## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
-
 ### CAPITULO II. De la materia de la compraventa
 
 ARTICULO 2202
@@ -11506,62 +11728,6 @@ Los peritos y los corredores no pueden comprar los bienes en cuya venta han inte
 ARTICULO 2215
 
 Las compras hechas en contravención a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
-
-### CAPITULO IV. De las obligaciones del vendedor
-
-ARTICULO 2216
-
-El vendedor está obligado:
-
-I.- A entregar al comprador la cosa vendida;
-
-II.- A garantizar las calidades de la cosa;
-
-III.- A prestar la evicción.
-
-### CAPITULO V. De la entrega de la cosa vendida
-
-ARTICULO 2217
-
-La entrega puede ser real, jurídica o virtual.
-
-La entrega real consiste en la entrega material de la cosa vendida, o en la entrega del título si se trata de un derecho.
-
-Hay entrega jurídica cuando aun sin estar entregada materialmente la cosa, la ley la considera recibida por el comprador.
-
-Desde el momento en que el comprador acepte que la cosa vendida quede a su disposición, se tendrá por virtualmente recibido de ella, y el vendedor que la conserve en su poder sólo tendrá los derechos y obligaciones de un depositario.
-
-ARTICULO 2218
-
-Los gastos de la entrega de la cosa vendida son de cuenta del vendedor, y los de su transporte o translación, de cargo del comprador, salvo convenio en contrario.
-
-ARTICULO 2219
-
-El vendedor no está obligado a entregar la cosa vendida, si el comprador no ha pagado el precio, salvo que en el contrato se haya señalado un plazo para el pago.
-
-ARTICULO 2220
-
-Tampoco está obligado a la entrega, aunque haya concedido un término para el pago, si después de la venta se descubre que el comprador se halla en estado de insolvencia, de suerte que el vendedor corra inminente riesgo de perder el precio, a no ser que el comprador le dé fianza de pagar al plazo convenido.
-
-ARTICULO 2221
-
-El vendedor debe entregar la cosa vendida en el estado en que se hallaba al perfeccionarse el contrato.
-
-ARTICULO 2222
-
-Debe también el vendedor entregar todos los frutos producidos desde que se perfeccione la venta, y los rendimientos, acciones y títulos de la cosa.
-
-ARTICULO 2223
-
-Si en la venta de un inmueble se han designado los linderos, el vendedor estará obligado a entregar todo lo que dentro de ellos se comprenda, aunque haya exceso o disminución en las medidas expresadas en el contrato.
-
-ARTICULO 2224
-
-La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubiere lugar designado en el contrato, en el lugar en que se encontraba la cosa en la época en que se vendió.
-
-ARTICULO 2225
-
-Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
 
 ## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
 
@@ -11668,6 +11834,62 @@ ARTICULO 2180
 Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. DE LA COMPRA-VENTA
+
+### CAPITULO IV. De las obligaciones del vendedor
+
+ARTICULO 2216
+
+El vendedor está obligado:
+
+I.- A entregar al comprador la cosa vendida;
+
+II.- A garantizar las calidades de la cosa;
+
+III.- A prestar la evicción.
+
+### CAPITULO V. De la entrega de la cosa vendida
+
+ARTICULO 2217
+
+La entrega puede ser real, jurídica o virtual.
+
+La entrega real consiste en la entrega material de la cosa vendida, o en la entrega del título si se trata de un derecho.
+
+Hay entrega jurídica cuando aun sin estar entregada materialmente la cosa, la ley la considera recibida por el comprador.
+
+Desde el momento en que el comprador acepte que la cosa vendida quede a su disposición, se tendrá por virtualmente recibido de ella, y el vendedor que la conserve en su poder sólo tendrá los derechos y obligaciones de un depositario.
+
+ARTICULO 2218
+
+Los gastos de la entrega de la cosa vendida son de cuenta del vendedor, y los de su transporte o translación, de cargo del comprador, salvo convenio en contrario.
+
+ARTICULO 2219
+
+El vendedor no está obligado a entregar la cosa vendida, si el comprador no ha pagado el precio, salvo que en el contrato se haya señalado un plazo para el pago.
+
+ARTICULO 2220
+
+Tampoco está obligado a la entrega, aunque haya concedido un término para el pago, si después de la venta se descubre que el comprador se halla en estado de insolvencia, de suerte que el vendedor corra inminente riesgo de perder el precio, a no ser que el comprador le dé fianza de pagar al plazo convenido.
+
+ARTICULO 2221
+
+El vendedor debe entregar la cosa vendida en el estado en que se hallaba al perfeccionarse el contrato.
+
+ARTICULO 2222
+
+Debe también el vendedor entregar todos los frutos producidos desde que se perfeccione la venta, y los rendimientos, acciones y títulos de la cosa.
+
+ARTICULO 2223
+
+Si en la venta de un inmueble se han designado los linderos, el vendedor estará obligado a entregar todo lo que dentro de ellos se comprenda, aunque haya exceso o disminución en las medidas expresadas en el contrato.
+
+ARTICULO 2224
+
+La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubiere lugar designado en el contrato, en el lugar en que se encontraba la cosa en la época en que se vendió.
+
+ARTICULO 2225
+
+Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
 
 ### CAPITULO VI. De las obligaciones del comprador
 
@@ -12077,6 +12299,28 @@ ARTICULO 2316
 
 Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
+## TITULO TERCERO. DE LA PERMUTA
+
+ARTICULO 2262
+
+La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2183.
+
+ARTICULO 2263
+
+Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ARTICULO 2264
+
+El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+Lo dispuesto en este artículo no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame al que sufrió la evicción.
+
+ARTICULO 2265
+
+Son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. DE LAS DONACIONES
+
 ### CAPITULO I. Del mutuo simple
 
 ARTICULO 2317
@@ -12153,28 +12397,6 @@ ARTICULO 2330
 
 Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
 
-## TITULO TERCERO. DE LA PERMUTA
-
-ARTICULO 2262
-
-La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2183.
-
-ARTICULO 2263
-
-Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ARTICULO 2264
-
-El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-Lo dispuesto en este artículo no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame al que sufrió la evicción.
-
-ARTICULO 2265
-
-Son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. DE LAS DONACIONES
-
 ### CAPITULO I. Disposiciones generales
 
 ARTICULO 2331
@@ -12244,6 +12466,8 @@ Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el
 ARTICULO 2344
 
 Los arrendamientos de bienes municipales, del Estado o de organismos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este Título.
+
+## TITULO QUINTO. DEL MUTUO
 
 ### CAPITULO II. De los derechos y obligaciones del arrendador
 
@@ -12441,7 +12665,7 @@ ARTICULO 2380
 
 Si el arrendatario está al corriente en el pago de la renta y ha cuidado la cosa arrendada, tendrá derecho a que en igualdad de condiciones debidamente probadas, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2237 y 2238. Si no se respeta este derecho la venta será válida, pero el vendedor será responsable de daños y perjuicios que en ningún caso serán menores al 10% del valor comercial del inmueble.
 
-## TITULO QUINTO. DEL MUTUO
+## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO IV. Del arrendamiento de fincas urbanas
 
@@ -12504,8 +12728,6 @@ El permiso a que se refiere este artículo, no será obligatorio, sino en el per
 ARTICULO 2391
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
-
-## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO VI. Del arrendamiento de bienes muebles
 
@@ -12947,6 +13169,86 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
+## TITULO SEPTIMO. DEL COMODATO
+
+ARTICULO 2430
+
+El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ARTICULO 2431
+
+Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
+
+ARTICULO 2432
+
+Los tutores, curadores y en general todos los administradores de bienes ajenos no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ARTICULO 2433
+
+Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ARTICULO 2434
+
+El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+ARTICULO 2435
+
+El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ARTICULO 2436
+
+Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ARTICULO 2437
+
+El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
+
+ARTICULO 2438
+
+Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ARTICULO 2439
+
+Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
+
+ARTICULO 2440
+
+Si la cosa se deteriora por el solo efecto del uso para que fue prestada y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ARTICULO 2441
+
+El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ARTICULO 2442
+
+Tampoco tiene derecho el comodatario para retener la cosa, a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ARTICULO 2443
+
+Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ARTICULO 2444
+
+Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+ARTICULO 2445
+
+El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ARTICULO 2446
+
+Si durante préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ARTICULO 2447
+
+Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comandante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
+
+ARTICULO 2448
+
+El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+
 ### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
 
 ARTICULO 2495
@@ -13031,85 +13333,7 @@ ARTICULO 2513
 
 Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
 
-## TITULO SEPTIMO. DEL COMODATO
-
-ARTICULO 2430
-
-El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ARTICULO 2431
-
-Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
-
-ARTICULO 2432
-
-Los tutores, curadores y en general todos los administradores de bienes ajenos no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ARTICULO 2433
-
-Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ARTICULO 2434
-
-El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ARTICULO 2435
-
-El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ARTICULO 2436
-
-Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ARTICULO 2437
-
-El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-ARTICULO 2438
-
-Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ARTICULO 2439
-
-Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
-
-ARTICULO 2440
-
-Si la cosa se deteriora por el solo efecto del uso para que fue prestada y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ARTICULO 2441
-
-El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ARTICULO 2442
-
-Tampoco tiene derecho el comodatario para retener la cosa, a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ARTICULO 2443
-
-Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ARTICULO 2444
-
-Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-ARTICULO 2445
-
-El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ARTICULO 2446
-
-Si durante préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ARTICULO 2447
-
-Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comandante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ARTICULO 2448
-
-El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO IV. De las obligaciones y derechos del mandante y del mandatario con relación a tercero
 
@@ -13212,8 +13436,6 @@ El procurador que ha substituído un poder, puede revocar la substitución si ti
 ARTICULO 2527
 
 La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
-
-## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO VI. De los diversos modos de terminar el mandato
 
@@ -13449,6 +13671,8 @@ ARTICULO 2578
 
 Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
 
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
+
 ### CAPITULO IV. De los porteadores y alquiladores
 
 ARTICULO 2579
@@ -13576,8 +13800,6 @@ DE LAS ASOCIACIONES Y DE LAS SOCIEDADES
 SUBTITULO PRIMERO
 
 > <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
-
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO UNICO. De las asociaciones
 
@@ -15249,6 +15471,8 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
+
 ### CAPITULO IV. Acreedores de primera clase
 
 ARTICULO 2927
@@ -15278,8 +15502,6 @@ I.- Los créditos de las personas comprendidas en las fracciones II, III y IV de
 II.- Los créditos del erario que no estén comprendidos en el artículo 2913 y los créditos a que se refiere la fracción V del artículo 2868, que no hayan sido garantizados en la forma allí prevenida;
 
 III.- Los créditos de los establecimientos de beneficencia pública o privada.
-
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO VI. Acreedores de tercera clase
 
@@ -15499,6 +15721,8 @@ ARTICULO 2955
 
 El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
 
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
+
 ### CAPITULO IV. Del registro de las informaciones de dominio
 
 ARTICULO 2956
@@ -15554,8 +15778,6 @@ ARTICULO 2961
 No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni el derecho hipotecario.
 
 Tampoco podrá inscribirse mediante información posesoria ningún derecho real sobre inmuebles, que por su naturaleza sólo pueda tener origen y subsistencia a través de un proceso contractual sinalagmático.
-
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO VI. De la extinción de las inscripciones
 
@@ -16144,3 +16366,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. A los cónyuges que a partir de la entrada en vigor del presente Decreto aún no hubieran adquirido la mayoría de edad, en virtud de haber contraído nupcias al amparo de las disposiciones que ahora se reforman y derogan, les serán aplicables las disposiciones de referencia hasta en tanto adquieran la mayoría de edad.
 
 Tercero. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 26 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. En un plazo no mayor de ciento veinte días naturales, contado a partir del inicio de vigencia de la presente resolución, se deberá adecuar la normativa interna de la Secretaría de Finanzas y Planeación del Gobierno del Estado a lo dispuesto en este Decreto, y emitirse las reglas de operación del Registro Estatal de Certificados Digitales.
