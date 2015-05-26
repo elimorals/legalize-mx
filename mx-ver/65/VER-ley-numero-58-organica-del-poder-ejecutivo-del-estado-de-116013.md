@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2013-11-06"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -607,7 +607,9 @@ III. Coordinar las actividades del Comité de Planeación para el Desarrollo del
 
 IV. Diseñar, implementar y actualizar un sistema de programación del gasto público bajo los principios de eficiencia, eficacia, economía, transparencia y honradez, acorde con los objetivos y necesidades de la administración pública estatal, asesorando y apoyando a las dependencias y entidades en la integración de sus programas presupuestarios y actividades institucionales;
 
-V. (DEROGADA, G.O. 2 DE JULIO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE MAYO DE 2015)</small>
+
+V. Registrar los certificados digitales emitidos por los Prestadores de Servicios de Certificación acreditados por la Secretaría de Economía para actos de naturaleza civil;
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
@@ -2678,3 +2680,11 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, efectuará las modificaciones reglamentarias que se requieran para dar cumplimiento al presente Decreto, en la parte relativa a la creación de la Unidad de Policía Científica Preventiva.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE MAYO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 564 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS CÓDIGOS CIVIL Y DE PROCEDIMIENTOS ADMINISTRATIVOS Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. En un plazo no mayor de ciento veinte días naturales, contado a partir del inicio de vigencia de la presente resolución, se deberá adecuar la normativa interna de la Secretaría de Finanzas y Planeación del Gobierno del Estado a lo dispuesto en este Decreto, y emitirse las reglas de operación del Registro Estatal de Certificados Digitales.
