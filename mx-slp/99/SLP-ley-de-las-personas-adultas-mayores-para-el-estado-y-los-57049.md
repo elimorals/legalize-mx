@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2013-08-01"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -255,7 +255,11 @@ a) Acceso a una vivienda digna y adaptada a sus necesidades;
 
 V. Al trabajo:
 
-a) A gozar de igualdad de oportunidades en el acceso al trabajo, o de otras opciones que le permitan un ingreso propio, y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de los ordenamientos de carácter laboral;
+a) A gozar de igualdad de oportunidades en el acceso al trabajo, o de otras opciones que le permitan un ingreso propio, y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de los ordenamientos de carácter laboral.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+b) A la plena inclusión laboral en los organismos públicos y privados;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -473,13 +477,13 @@ VI. Hacer del conocimiento de las autoridades competentes, las anomalías que se
 
 VII. Designar al titular de la Secretaría Técnica del Consejo;
 
-VIII. Elaborar su reglamento interno, y (sic)
+VIII. Elaborar su reglamento interno, y
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 IX. Realizar estudios e investigaciones referentes al envejecimiento de la población, que sirvan de herramienta de trabajo a las instituciones del sector público y privado, para el desarrollo de políticas públicas en beneficio de los adultos mayores del Estado, y
 
-XI. (SIC) Las demás que establezca el Reglamento de esta Ley.
+XI (SIC). Las demás que establezca el Reglamento de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -769,13 +773,13 @@ II. Promover y fomentar la actividad turística en forma individual y grupal, a 
 
 III. Difundir permanentemente, a través de los medios de comunicación, las actividades que se realicen a su favor;
 
-IV. Brindar la información específica sobre las facilidades de accesibilidad que ofrecen los prestadores de servicios turísticos, y (sic)
+IV. Brindar la información específica sobre las facilidades de accesibilidad que ofrecen los prestadores de servicios turísticos, y
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 V. Impulsar la participación de las personas adultas mayores en actividades de atención al turismo, particularmente, las que se refieren al rescate y transmisión de la cultura y la historia, y
 
-VII. (SIC) Las demás que establezca el Reglamento de esta Ley.
+VII (SIC). Las demás que establezca el Reglamento de esta Ley.
 
 ### CAPITULO IX. Desarrollo Social y Regional
 
@@ -923,7 +927,7 @@ ARTICULO 44 QUATER. Las instituciones públicas y privadas que proporcionen serv
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 45.
 
@@ -1053,7 +1057,7 @@ A la falta de un ordenamiento jurídico aplicable en la presente Ley, se aplicar
 
 ## TITULO SEXTO. DISPOSICIONES FINALES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO UNICO. Violencia hacia las Personas Adultas Mayores; Sanciones y Medios de Defensa
 
@@ -1135,7 +1139,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE JULIO DE 2009.
 
@@ -1156,3 +1160,9 @@ P.O. 1 DE AGOSTO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 26 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
