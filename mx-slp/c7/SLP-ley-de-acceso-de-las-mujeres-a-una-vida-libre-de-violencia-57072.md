@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5707
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2014-10-07"
+last_updated: "2015-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -34,8 +34,6 @@ DECRETO 203
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
 EXPOSICION DE MOTIVOS
-
-.
 
 ###### ARTICULO PRIMERO.
 
@@ -121,9 +119,9 @@ III. Social: los actos individuales o colectivos que transgreden derechos fundam
 
 IV. De las instituciones públicas: los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso a las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, y
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
-V. Mediático: toda publicación de mensajes e imágenes estereotipados que, a través de cualquier medio de comunicación, ya sea de manera directa o indirecta, promuevan la explotación de mujeres, niñas y adolescentes, atenten contra su dignidad y fomenten la desigualdad entre mujeres y hombres.
+V. Mediático o publicitario: toda publicación de mensajes e imágenes estereotipados que, a través de cualquier medio de comunicación, o publicidad, ya sea impresos, o electrónicos, de manera directa o indirecta, promuevan la explotación de mujeres, niñas y adolescentes, atenten contra su dignidad y fomenten la desigualdad entre mujeres y hombres, por lo que se prohíbe la difusión de dichas publicaciones. La observancia de la presente disposición será vigilada por las autoridades competentes.
 
 ###### ARTICULO 5º.
 
@@ -994,3 +992,9 @@ P.O. 7 DE OCTUBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
