@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2015-05-22"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MAYO DE 2015.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -759,6 +759,10 @@ Los actos religiosos de culto público se celebrarán ordinariamente en los temp
 ###### Art. 25.
 
 Corresponde al Estado la rectoría del desarrollo nacional para garantizar que éste sea integral y sustentable, que fortalezca la Soberanía de la Nación y su régimen democrático y que, mediante la competitividad, el fomento del crecimiento económico y el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2015)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Nacional de Desarrollo y los planes estatales y municipales deberán observar dicho principio.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -2086,9 +2090,17 @@ VI.- (DEROGADA, D.O.F. 22 DE AGOSTO DE 1996)
 
 VII.- Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2015)</small>
 
-VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos, salvo los que se realicen con propósitos de regulación monetaria, las operaciones de conversión y los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29. Asimismo, aprobar anualmente los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Distrito Federal y las entidades de su sector público, conforme a las bases de la ley correspondiente. El Ejecutivo Federal informará anualmente al Congreso de la Unión sobre el ejercicio de dicha deuda a cuyo efecto el Jefe del Distrito Federal le hará llegar el informe que sobre el ejercicio de los recursos correspondientes hubiere realizado. El Jefe del Distrito Federal informará igualmente a la Asamblea de Representantes del Distrito Federal, al rendir la cuenta pública.
+VIII. En materia de deuda pública, para:
+
+1o. Dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos y otorgar garantías sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos o, en términos de la ley de la materia, los que se realicen con propósitos de regulación monetaria, las operaciones de refinanciamiento o reestructura de deuda que deberán realizarse bajo las mejores condiciones de mercado; así como los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29.
+
+2o. Aprobar anualmente los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Distrito Federal y las entidades de su sector público, conforme a las bases de la ley correspondiente. El Ejecutivo Federal informará anualmente al Congreso de la Unión sobre el ejercicio de dicha deuda a cuyo efecto el Jefe de Gobierno le hará llegar el informe que sobre el ejercicio de los recursos correspondientes hubiere realizado. El Jefe de Gobierno informará igualmente a la Asamblea Legislativa del Distrito Federal, al rendir la cuenta pública.
+
+3o. Establecer en las leyes las bases generales, para que los Estados, el Distrito Federal y los Municipios puedan incurrir en endeudamiento; los límites y modalidades bajo los cuales dichos órdenes de gobierno podrán afectar sus respectivas participaciones para cubrir los empréstitos y obligaciones de pago que contraigan; la obligación de dichos órdenes de gobierno de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente; un sistema de alertas sobre el manejo de la deuda; así como las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones. Dichas leyes deberán discutirse primero en la Cámara de Diputados conforme a lo dispuesto por la fracción H del artículo 72 de esta Constitución.
+
+4o. El Congreso de la Unión, a través de la comisión legislativa bicameral competente, analizará la estrategia de ajuste para fortalecer las finanzas públicas de los Estados, planteada en los convenios que pretendan celebrar con el Gobierno Federal para obtener garantías y, en su caso, emitirá las observaciones que estime pertinentes en un plazo máximo de quince días hábiles, inclusive durante los períodos de receso del Congreso de la Unión. Lo anterior aplicará en el caso de los Estados que tengan niveles elevados de deuda en los términos de la ley. Asimismo, de manera inmediata a la suscripción del convenio correspondiente, será informado de la estrategia de ajuste para los Municipios que se encuentren en el mismo supuesto, así como de los convenios que, en su caso, celebren los Estados que no tengan un nivel elevado de deuda;
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -2299,6 +2311,10 @@ XXIX-T.- Para expedir la ley general que establezca la organización y administr
 > <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 XXIX-U. Para expedir las leyes generales que distribuyan competencias entre la Federación y las entidades federativas en materias de partidos políticos; organismos electorales, y procesos electorales, conforme a las bases previstas en esta Constitución.
+
+> <small>(ADICIONADA, D.O.F. 26 DE MAYO DE 2015)</small>
+
+XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan por objeto el manejo sostenible de las finanzas públicas en la Federación, los Estados, Municipios y el Distrito Federal, con base en el principio establecido en el párrafo segundo del artículo 25;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -2524,15 +2540,23 @@ La función de fiscalización será ejercida conforme a los principios de poster
 
 Esta entidad de fiscalización superior de la Federación tendrá a su cargo:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2015)</small>
 
-I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la Ley.
+I. Fiscalizar en forma posterior los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Federal respecto a empréstitos de los Estados y Municipios; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
-También fiscalizará directamente los recursos federales que administren o ejerzan los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, con excepción de las participaciones federales; asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2015)</small>
+
+También fiscalizará directamente los recursos federales que administren o ejerzan los Estados, los Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, con excepción de las participaciones federales. En el caso de los Estados y los Municipios cuyos empréstitos cuenten con la garantía de la Federación, fiscalizará el destino y ejercicio de los recursos correspondientes que hayan realizado los gobiernos locales. Asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
 Las entidades fiscalizadas a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos de la Federación que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
 Sin perjuicio del principio de anualidad, la entidad de fiscalización superior de la Federación podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas federales. Las observaciones y recomendaciones que, respectivamente, la entidad de fiscalización superior de la Federación emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
 Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La entidad de fiscalización superior de la Federación rendirá un informe específico a la Cámara de Diputados y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
@@ -3528,9 +3552,9 @@ El Presidente de la República, durante el tiempo de su encargo, sólo podrá se
 
 Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, los integrantes de los ayuntamientos, así como los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo y aplicación indebidos de fondos y recursos federales.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2015)</small>
 
-Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios.
+Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -3878,9 +3902,9 @@ Corresponde a las legislaturas de los Estados la aprobación anual del presupues
 
 Los poderes estatales Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en sus constituciones locales, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos de los Estados, establezcan las disposiciones constitucionales y legales aplicables.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2015)</small>
 
-Las legislaturas de los estados contarán con entidades estatales de fiscalización, las cuales serán órganos con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan sus leyes. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+Las legislaturas de los Estados contarán con entidades estatales de fiscalización, las cuales serán órganos con autonomía técnica y de gestión en el ejercido (sic) de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan sus leyes. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad. Asimismo, deberán fiscalizar las acciones de Estados y Municipios en materia de fondos, recursos locales y deuda pública.
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
@@ -4028,7 +4052,17 @@ VII.- Expedir ni mantener en vigor leyes o disposiciones fiscales que importen d
 
 VIII.- Contraer directa o indirectamente obligaciones o empréstitos con gobiernos de otras naciones, con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
 
-Los Estados y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, inclusive los que contraigan organismos descentralizados y empresas públicas, conforme a las bases que establezcan las legislaturas en una ley y por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos. Los ejecutivos informarán de su ejercicio al rendir la cuenta pública.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2015)</small>
+
+Los Estados y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso de los Estados, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que establezcan las legislaturas en la ley correspondiente, en el marco de lo previsto en esta Constitución, y por los conceptos y hasta por los montos que las mismas aprueben. Los ejecutivos informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2015)</small>
+
+Las legislaturas locales, por el voto de las dos terceras partes de sus miembros presentes, deberán autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2015)</small>
+
+Sin perjuicio de lo anterior, los Estados y Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley general que expida el Congreso de la Unión. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -7361,3 +7395,27 @@ D.O.F. 22 DE MAYO DE 2015.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las Legislaturas de las entidades federativas adecuarán sus respectivas Constituciones, así como la legislación correspondiente, conforme a lo dispuesto en el presente Decreto en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 26 DE MAYO DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Ley reglamentaria en materia de responsabilidad hacendaria aplicable a las Entidades Federativas y los Municipios que deberá expedirse en términos de la fracción XXIX-W del artículo 73 del presente Decreto, así como las reformas que sean necesarias para cumplir lo previsto en este Decreto, deberán publicarse en el Diario Oficial de la Federación dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Tercero. Dentro del plazo de 180 días naturales contados a partir de la entrada en vigor de la ley reglamentaria a que se refiere el artículo anterior, las legislaturas de las Entidades Federativas realizarán las reformas necesarias para armonizar su legislación con este Decreto y la ley citada.
+
+Cuarto. Las Entidades Federativas y los Municipios se sujetarán a las disposiciones de este Decreto y a las de las leyes a que se refiere el Artículo Transitorio Segundo del mismo, a partir de la fecha de su entrada en vigor y respetarán las obligaciones que, con anterioridad a dicha fecha, hayan sido adquiridas con terceros en los términos de las disposiciones aplicables.
+
+Quinto. La ley reglamentaria establecerá la transitoriedad conforme a la cual entrarán en vigor las restricciones establecidas en relación a la contratación de obligaciones de corto plazo, a que se refiere el artículo 117, fracción VIII, último párrafo de este Decreto.
+
+Sexto. Las Entidades Federativas y los Municipios enviarán al Ejecutivo Federal y al Congreso de la Unión un informe sobre todos los empréstitos y obligaciones de pago vigentes a la entrada en vigor del presente Decreto, en un plazo máximo de 60 días naturales, conforme a los lineamientos que aquél emita.
+
+Séptimo. La ley reglamentaria establecerá que en el registro a que se refiere el inciso 3o. de la fracción VIII del artículo 73 de este Decreto, se incluirán cuando menos los siguientes datos de cada empréstito u obligaciones: deudor, acreedor, monto, tasa de interés, plazo, tipo de garantía o fuente de pago, así como los que se determinen necesarios para efectos de fortalecimiento de la transparencia y acceso a la información.
+
+En tanto se implementa el referido registro, se pondrá a disposición de las comisiones legislativas competentes del Congreso de la Unión un reporte de las obligaciones y empréstitos a que se refiere el artículo 9 de la Ley de Coordinación Fiscal con la que actualmente cuenta el registro, a más tardar en un plazo de 30 días naturales; así como, aquella información adicional que las comisiones legislativas competentes soliciten a las autoridades relacionadas con la misma. Igualmente, se deberá informar cada cierre trimestral (marzo, junio, septiembre y diciembre), los empréstitos y obligaciones registrados en cada periodo, especificando en su caso, si fue utilizado para refinanciar o reestructurar créditos existentes. Lo anterior, con el objeto de que en tanto entra en vigor la ley reglamentaria y se implementa el registro, el Congreso de la Unión pueda dar puntual seguimiento al endeudamiento de los Estados y Municipios. Para tal efecto, la Auditoría Superior de la Federación, verificará el destino y aplicación de los recursos en los que se hubiera establecido como garantía recursos de origen federal.
+
+Las legislaturas de los Estados realizarán y publicarán por medio de sus entes fiscalizadores, una auditoría al conjunto de obligaciones del sector público, con independencia del origen de los recursos afectados como garantía, en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Los servidores públicos y demás personal del Congreso de la Unión que tengan acceso a la información referente al presente Artículo Transitorio, serán responsables del manejo de la misma y responderán de los daños y perjuicios que en su caso ocasionen por su divulgación.
+
+Octavo. La ley reglamentaria a que se refiere el Artículo 73, fracción VIII, inciso 3o. de este Decreto, establecerá las modalidades y condiciones de deuda pública que deberán contratarse mediante licitación pública, así como los mecanismos que se determinen necesarios para efectos de asegurar condiciones de mercado o mejores que éstas y el fortalecimiento de la transparencia en los casos en que no se establezca como obligatorio.
