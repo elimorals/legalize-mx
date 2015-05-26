@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2015-03-26"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -557,7 +557,9 @@ XVIII.- Cumplir con las disposiciones de la Ley para la Entrega-Recepción de lo
 
 XIX.- Enviar al Congreso para su estudio y dictamen y, en su caso, aprobación, las bases de contratación de empréstitos que afecten ejercicios fiscales futuros, salvo que el Congreso emita la autorización cuando a su juicio existan circunstancias que así lo requieran o se cuente con los recursos suficientes para el pago de sus obligaciones.
 
-XX.- Fomentar las actividades productivas, educativas, culturales y deportivas.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+
+XX.- Fomentar las actividades productivas, educativas, culturales y deportivas, así como la investigación científica y tecnológica en los términos de ley;
 
 XXI.- Auxiliar a las autoridades federales y estatales en la aplicación de las disposiciones normativas correspondientes, así como en la atención de los servicios públicos encomendados a ellas.
 
@@ -5696,6 +5698,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE MARZO DE 2015.
 
 DECRETO NÚMERO LXII - 564 POR EL QUE SE REFORMA EL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
