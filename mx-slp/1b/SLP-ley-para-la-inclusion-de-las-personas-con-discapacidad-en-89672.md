@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2014-08-05"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -171,7 +171,7 @@ c) Los sistemas municipales para el Desarrollo Integral de la Familia.
 
 La persona titular del Ejecutivo del Estado tiene en materia de personas con discapacidad, las siguientes atribuciones:
 
-l. Diseñar e instrumentar la política de Estado y las políticas públicas para las personas con discapacidad, conforme a las obligaciones derivadas de los tratados internacionales para hacer efectivos sus derechos;
+I. Diseñar e instrumentar la política de Estado y las políticas públicas para las personas con discapacidad, conforme a las obligaciones derivadas de los tratados internacionales para hacer efectivos sus derechos;
 
 II. Diseñar, instrumentar y difundir la política de Estado y las políticas públicas que permitan la integración social de las personas con discapacidad, en coordinación con los gobiernos municipales;
 
@@ -415,9 +415,15 @@ IX. Establecer convenios con los medios de comunicación, para:
 
 a) Difundir una imagen de las personas con discapacidad que sea compatible con el propósito de esta Ley; e incorporar en su programación cotidiana programas de formación, sensibilización y participación de las personas con discapacidad.
 
-b) Incluir mecanismos que permitan su comprensión por personas con discapacidad, y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
-X. Las demás que le confieren esta Ley y los ordenamientos legales aplicables.
+b) Incluir mecanismos que permitan su comprensión por personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+
+X. Establecer las medidas para la instalación de señalamientos visuales y auditivos en los cruceros de las principales calles y avenidas, que garanticen el cruce sin riesgo de las personas con discapacidad, y
+
+XI. Las demás que le confieren esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 15.
 
@@ -571,9 +577,15 @@ IX. Vigilar que las autoridades competentes cumplan en edificios y demás inmueb
 
 X. Garantizar que las obras públicas que genere la Secretaría, cumplan los requisitos de accesibilidad, ergonomía y diseño adecuadas para las personas con discapacidad;
 
-XI. Promover, en coordinación con las autoridades competentes, a costo asequible el acceso de las personas con discapacidad, a formas de asistencia humana con dispositivos técnicos y ayudas para su movilidad, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
-XII. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
+XI. Promover, en coordinación con las autoridades competentes, a costo asequible el acceso de las personas con discapacidad, a formas de asistencia humana con dispositivos técnicos y ayudas para su movilidad;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+
+XII. Reglamentar la autorización de proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a prestar servicios al público, especialmente clínicas, hospitales, hoteles, restaurantes, oficinas públicas, bancos, terminales de pasajeros, plazas comerciales y tiendas de autoservicio, entre otros, los que deberán contemplar se instalen, según corresponda, a la magnitud y clase de proyectos, sanitarios, estacionamientos, elevadores, rampas y salidas de emergencia adaptados a las personas que se desplacen en silla de ruedas o cualquier otro elemento ortopédico, así como guías táctiles y auditivas, y
+
+XIII. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 19.
 
@@ -643,9 +655,15 @@ VI. Establecer en el municipio la instancia de coordinación para la integració
 
 VII. Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los programas municipales para el desarrollo e integración de las personas con discapacidad;
 
-VIII. Vigilar el cumplimiento de los acuerdos y convenios que se deriven de los programas para el desarrollo e integración de las personas con discapacidad, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
-IX. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
+VIII. Vigilar el cumplimiento de los acuerdos y convenios que se deriven de los programas para el desarrollo e integración de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+
+IX. Establecer convenios con empresas que cuenten dentro de sus instalaciones con lugares exclusivos de estacionamiento y rampas destinadas a personas con discapacidad, para retirar los vehículos que las obstruyan, así como sancionar a sus propietarios, y
+
+X. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 23.
 
@@ -791,9 +809,17 @@ El Ejecutivo del Estado y los ayuntamientos de la Entidad deberán estipular, en
 
 I. La expedición a las personas con discapacidad, certificadas por la autoridad competente que utilicen vehículo automotor, de placas con el logotipo internacional distintivo, que les permita hacer uso de los estacionamientos exclusivos;
 
-II. Los estacionamientos privados de uso público, y estacionamientos públicos, estarán sujetos a los lineamientos de accesibilidad, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
-III. La autoridad municipal deberá crear en las vías públicas de las zonas centro y de mayor afluencia vehicular de las ciudades, espacios de ascenso y descenso, así como la ubicación de un cajón de estacionamiento exclusivo por cada dos manzanas, conforme a los lineamientos generales de accesibilidad.
+II. Los estacionamientos privados de uso público, y estacionamientos públicos, estarán sujetos a los lineamientos de accesibilidad;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+
+III. La autoridad municipal deberá crear en las vías públicas de las zonas centro y de mayor afluencia vehicular de las ciudades, espacios de ascenso y descenso, así como la ubicación de un cajón de estacionamiento exclusivo por cada dos manzanas, conforme a los lineamientos generales de accesibilidad, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+
+IV. La autoridad municipal vigilará que en los establecimientos públicos y privados, se reserven cajones exclusivos para las personas con discapacidad; en una proporción de un cajón por cada diez existentes.
 
 Todos los estacionamientos de uso público y privado deberán celebrar convenios con las autoridades de tránsito municipal para posibilitar el retiro de vehículos y la aplicación de sanciones correspondientes.
 
@@ -1068,3 +1094,9 @@ P.O. 5 DE AGOSTO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
