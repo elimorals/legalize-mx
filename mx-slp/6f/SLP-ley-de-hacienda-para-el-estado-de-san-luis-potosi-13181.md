@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2015-01-08"
+last_updated: "2015-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -277,7 +277,7 @@ El pago de este impuesto no libera de la obligación de obtener los permisos o a
 
 Para efectos del cálculo para la determinación de este impuesto se estará a lo siguiente:
 
-l. El impuesto se determinará aplicando la tasa del 5% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías rifas, concursos, sorteos y juegos con máquinas de sistemas, programas, automatizados o computarizados, y
+I. El impuesto se determinará aplicando la tasa del 5% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías rifas, concursos, sorteos y juegos con máquinas de sistemas, programas, automatizados o computarizados, y
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -516,6 +516,10 @@ III. Los pagos realizados a personas físicas por la prestación de su trabajo p
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 IV. El patrón que contrate a personas que padezcan discapacidad motriz y que para superarla requieran usar permanentemente prótesis, muletas o sillas de ruedas; mental; auditiva o de lenguaje, en un ochenta por ciento o más de la capacidad normal, o tratándose de débiles visuales en el mismo porcentaje, podrá deducir de sus ingresos, un monto equivalente al cien por ciento del impuesto causado por la remuneración del trabajador con alguna de las discapacidades citadas; el cual deberá acreditar mediante certificado de discapacidad que expida la Secretaría de Salud y apegarse al procedimiento que emita la Secretaría para la obtención de dichos estímulos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Se otorgará un estímulo fiscal a quien contrate adultos mayores, consistentes en el equivalente al veinticinco por ciento del salario efectivamente pagado a las personas de 65 años y más. Para estos efectos se deberá considerar la totalidad del salario que sirva de base para calcular, en el ejercicio que corresponda, las retenciones del impuesto de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2149,7 +2153,7 @@ ARTICULO 88 BIS. Por la evaluación de cada solicitud y, en su caso, el registro
 
 I. Registro del plan de manejo de residuos de manejo especial, de acuerdo a la NOM-161-SEMARNAT-2011, 12;
 
-III. Registro del plan de manejo de residuos de manejo especial de pequeños generadores, 6, y
+II. Registro del plan de manejo de residuos de manejo especial de pequeños generadores, 6, y
 
 III. Por la renovación o la modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
 
@@ -2916,3 +2920,9 @@ P.O. 8 DE ENERO DE 2015.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
