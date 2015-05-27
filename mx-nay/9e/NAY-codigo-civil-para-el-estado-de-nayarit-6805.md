@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2015-03-25"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -1611,9 +1611,11 @@ Las donaciones antenupciales no se revocan por sobrevivir hijos al donante.
 
 Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 221.
 
-Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando si el donante fuere el otro cónyuge.
+A solicitud del donante, las donaciones antenupciales se entienden revocadas por divorcio, siempre que la revocación se solicite dentro del año siguiente a la celebración del matrimonio.
 
 ###### Artículo 222.
 
@@ -1701,9 +1703,7 @@ La acción que nace de esta clase de nulidad y la que dimana del parentesco de a
 
 ###### Artículo 236.
 
-La acción de nulidad que nace de la causa prevista en la fracción V del artículo 152 podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
-
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
 
 ###### Artículo 237.
 
@@ -1827,81 +1827,61 @@ Del parentesco.
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 260.
 
-Son causas de divorcio:
+Cualquiera de los cónyuges podrán solicitar el divorcio ante la autoridad judicial y manifestar su voluntad de no querer continuar con el matrimonio, sin necesidad de señalar la causa por la cual se solicita.
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
-
-II.- El hecho que durante el matrimonio nazca un hijo concebido, antes de la celebración de éste con persona distinta a su cónyuge, siempre y cuando no se hubiere tenido conocimiento de esta circunstancia;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque sea de incontinencia carnal;
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
-
-VI.- Padecer sífilis, tuberculosis o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
-
-VII.- (DEROGADA, P.O. 8 DE JUNIO DE 2011)
-
-VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
-
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga que proceda la declaración de ausencia;
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
-
-XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 161 y el incumplimiento, sin justa causa, de la sentencia ejecutoriada por alguno de los cónyuges en el caso del artículo 164;
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
-
-XIII. La acusación declarada como infundada, realizada por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIV.- Haber cometido alguno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
-
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
-
-XVII.- El mutuo consentimiento;
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
-
-XVIII. La separación por más de dos años, independiente del motivo que la haya originado, causal que podrá ser invocada por cualquiera de los cónyuges;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2007)</small>
-
-XIX.- Las conductas de violencia familiar en los términos a que se refiere este Código, cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 261.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio.
+El cónyuge que unilateralmente desee promover el juicio de divorcio sin expresión de causa deberá acompañar a la solicitud, su propuesta particular para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener en su caso los siguientes requisitos:
+
+I. La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
+
+II. Las modalidades bajo las cuales el progenitor que no tenga la guarda y custodia, ejercerá el derecho de visitas;
+
+III. El modo de atender las necesidades de los hijos y en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+
+IV. La designación del cónyuge al que corresponderá la posesión y disfrute del domicilio conyugal, y en su caso, del menaje de la casa; además deberá señalarse el tiempo que durará ese derecho;
+
+V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición, y
+
+VI. Los términos de la indemnización a que se refiere el artículo 281 A de este Código.
+
+La propuesta particular deberá acompañarse de los documentos en que se acredite su procedencia.
+
+En la solicitud, se podrá pedir la aplicación de medidas precautorias, acompañando en su caso, la documentación que se estime necesaria.
 
 ###### Artículo 262.
 
 (DEROGADO, P.O. 13 DE OCTUBRE DE 2010)
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 263.
 
-Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos y no en simples omisiones.
+En caso de que los cónyuges lleguen a un acuerdo respecto del documento señalado en el artículo 261 de este Código y éste no contravenga ninguna disposición legal, o bien presentaren un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa para el Estado de Nayarit y en uno u otro caso no exista observación alguna por parte del juez, se decretará el divorcio mediante sentencia.
+
+De no existir acuerdo entre las partes, el juez decretará las medidas precautorias que correspondan, debiéndose continuar el juicio en sus etapas procesales correspondientes hasta decretarse la sentencia.
 
 ###### Artículo 264.
 
 (DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 265.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos, haya transcurrido un año de que contrajeron matrimonio y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas, que son casados y mayores de edad y manifestarán de una manera determinante y explícita su voluntad de divorciarse
+Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas, que son casados y mayores de edad y manifestarán de una manera determinante y explícita su voluntad de divorciarse.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva, y haciendo la anotación correspondiente en la del matrimonio anterior.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad y no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia. Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -1921,7 +1901,7 @@ V.- La manera de administrar los bienes de la sociedad conyugal durante el proce
 
 ###### Artículo 267.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
 
 ###### Artículo 268.
 
@@ -1931,25 +1911,31 @@ Mientras que se decrete el divorcio, el juez autorizará la separación de los c
 
 Igualmente en tanto se decrete el divorcio y posterior a éste, los cónyuges evitarán cualquier acto de manipulación hacia los hijos, encaminado a impedir, menoscabar o destruir los vínculos afectivos con el otro progenitor; la denuncia de actos de este tipo será valorada por la instancia especializada a solicitud del juez y en su caso, deberá ser considerada en la resolución.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 269.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán desistirse en cualquier tiempo, siempre y cuando el divorcio no hubiere sido decretado.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 270.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 260 podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+El cónyuge que no quiera pedir el divorcio podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, cuando se presente alguno de los siguientes casos:
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+I. Padezca sífilis, tuberculosis o cualquier enfermedad crónica o incurable que sea además, contagiosa o hereditaria, y
+
+II. Padezca impotencia sexual incurable, siempre que no tenga su origen en la edad avanzada.
+
+El juez, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### Artículo 271.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a éste, y dentro de los seis meses siguientes al día en que tenga conocimiento de los hechos en que se funde la demanda, si éstos son instantáneos.
-
-Tratándose de causales de tracto sucesivo o de realización continua, la acción puede ejercerse mientras aquella perdure y dentro de los seis meses siguientes a partir de la fecha en que se tuviere conocimiento que dicha situación ha cesado.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
 
 ###### Artículo 272.
 
-Ninguna de las causas enumeradas en el artículo 260 pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
 
 ###### Artículo 273.
 
@@ -1957,7 +1943,7 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 ###### Artículo 274.
 
-El cónyuge que no haya dado causa al divorcio puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; más, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
 
 ###### Artículo 275.
 
@@ -1977,9 +1963,9 @@ V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren de
 
 Salvo peligro para el normal desarrollo de los hijos, los menores que se encuentren en periodo de lactancia, quedarán preferentemente al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la misma carezca de recursos económicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-VI.- En tratándose de las causas previstas en el artículo 260 fracción XIX, se aplicarán las órdenes de protección de naturaleza civil contempladas en el artículo 464 inciso d) del Código de Procedimientos Civiles del Estado;
+VI.- Tratándose de las conductas de violencia familiar en los términos a que se refiere este Código, cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos, se aplicarán las órdenes de protección de naturaleza civil contempladas en el artículo 464 inciso d) del Código de Procedimientos Civiles para el Estado de Nayarit;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2007)</small>
 
@@ -2007,7 +1993,7 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 ###### Artículo 279.
 
-El cónyuge que diere causa al divorcio perderá todo lo (sic) se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
@@ -2017,17 +2003,19 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta en tanto no cese la obligación de proporcionarlos en términos del artículo 301 de este Código.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 281.
 
-En los casos de divorcio, el juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos a favor del inocente. Este derecho lo disfrutará hasta por cinco años, excepto en los casos que se acredite fehacientemente que la parte acreedora por razones de su edad, enfermedad o cualquier otra circunstancia esté imposibilitada para trabajar, en cuyos casos podrá seguir gozando de dicho beneficio en tanto no se una en matrimonio o concubinato.
+En los casos de divorcio, el juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará a uno de ellos al pago de alimentos a favor del otro. Este derecho lo disfrutará hasta por cinco años, excepto cuando se acredite fehacientemente que la parte acreedora por razones de su edad, enfermedad o cualquier otra circunstancia esté imposibilitada para trabajar, en cuyos casos podrá seguir gozando de dicho beneficio en tanto no se una en matrimonio o concubinato.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
 Artículo 281 A.- En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que se hubieren adquirido, durante el matrimonio, siempre que:
 
-I.- Hubieran estado casado (sic) bajo el régimen de separación de bienes;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+I.- Hubieran estado casados bajo el régimen de separación de bienes;
 
 II.- El demandante se haya dedicado en el lapso en que duró el matrimonio, preponderantemente al trabajo del hogar y, en su caso, al cuidado de los hijos; y
 
@@ -2035,25 +2023,21 @@ III.- Durante el matrimonio el demandante no haya adquirido bienes propios o hab
 
 El Juez de lo Familiar en la sentencia de divorcio, habrá de resolver atendiendo las circunstancias especiales de cada caso.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 282.
 
-El cónyuge que haya dado causa al divorcio necesario no podrá volver a casarse sino después de dos años, a contar desde que se decretó el divorcio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-Tratándose de divorcio voluntario, los cónyuges podrán contraer nuevo matrimonio una vez que la sentencia cause ejecutoria.
+Los cónyuges podrán contraer nuevo matrimonio una vez que la sentencia de divorcio cause ejecutoria.
 
 ###### Artículo 283.
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 284.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio para que levante el acta correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -13895,9 +13879,9 @@ I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a 
 
 II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge acusación de delito que merezca pena de prisión, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra o la de sus descendientes, ascendientes, hermanos o cónyuge;
 
-III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+III.- (DEROGADA, P.O. 27 DE MAYO DE 2015)
 
-IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
+IV.- (DEROGADA, P.O. 27 DE MAYO DE 2015)
 
 V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
 
@@ -16320,3 +16304,17 @@ Segundo.- Esta reforma se aplicará a las Sucesiones en las que el De Cujus haya
 P.O. 25 DE MARZO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 269 Y 284; Y SE DEROGA EL ARTÍCULO 267, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 221, 260, 261, 263, 265 PÁRRAFO PRIMERO, 270, 275 FRACCIÓN VI, 281, 281 A FRACCIÓN I Y 282; Y SE DEROGAN LOS NUMERALES 236, 271, 272, 274, 279 Y 2451 FRACCIONES III Y IV TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto serán concluidos conforme a las disposiciones vigentes al momento en que se solicitó el proceso de divorcio.
