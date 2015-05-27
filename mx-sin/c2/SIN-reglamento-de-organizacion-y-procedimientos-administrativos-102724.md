@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-organizacion-y-procedimientos-administrativos-102
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-08"
-last_updated: "2014-10-08"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de octubre de 2014.
 
@@ -351,7 +351,9 @@ Del Auxiliar de Atención al Público
 
 Es el personal de apoyo al Encargado de Atención al Público.
 
-Este personal deberá tener Licenciatura en Derecho concluida y manejo de herramientas informáticas, entre ellas Excel, Word, Power Point, Google Apps, Dropbox y JAV's.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+Este personal deberá contar con conocimientos básicos en el manejo de herramientas informáticas.
 
 Son atribuciones del Auxiliar de Atención al Público:
 
@@ -473,11 +475,13 @@ Auxiliar de Sala
 
 Es el servidor público a cargo de la logística de la audiencia y de apoyar al Juez o magistrado que la preside.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 Para ser Auxiliar de Sala se requiere:
 
-I. Ser Licenciado en Derecho, con conocimientos del sistema acusatorio; y,
+I. Preferentemente, ser Licenciado en Derecho; y,
 
-II. Manejo de herramientas informáticas, entre ellas: Excel, Word, Power Point, Google Apps y Dropbox.
+II. Contar con conocimientos básicos en el manejo de herramientas informáticas.
 
 Son atribuciones del Auxiliar de Sala:
 
@@ -499,19 +503,15 @@ VIII. Programar audiencia en el planificador; y,
 
 IX. Las demás que determine el Jefe de la Unidad de Seguimiento de Causas y Atención al Público y el Encargado de Sala.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 30.
 
 Auxiliar de Actas
 
 Es el servidor público a cargo de la elaboración material de todas aquellas determinaciones que por ley deban realizarse por escrito.
 
-Para ser Auxiliar de Actas se requiere:
-
-I. Preferentemente, ser Licenciado en Derecho;
-
-II. Excelente redacción y ortografía; y,
-
-III. Manejo de herramientas informáticas, entre ellas: Excel, Word, Power Point, Google Apps y Dropbox.
+Para ser Auxiliar de Actas se requiere tener excelente redacción y ortografía; y, contar con conocimientos básicos en el manejo de herramientas informáticas.
 
 Son atribuciones del Auxiliar de Actas:
 
@@ -678,3 +678,15 @@ LIC. APOLONIA GALINDO PEÑA
 Secretaria de Acuerdos
 
 > <small>N. DE E. VÉASE ANEXOS EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINAS DE LA 30 A LA 35.</small>
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 27 DE MAYO DE 2015.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día de su aprobación.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
