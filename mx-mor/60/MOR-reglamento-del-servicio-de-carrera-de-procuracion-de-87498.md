@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-servicio-de-carrera-de-procuracion-de-87498"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-25"
-last_updated: "2013-08-14"
+last_updated: "2015-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TREINTA DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de abril de 2012.
 
@@ -1304,3 +1306,23 @@ SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico n
 TERCERA. La Procuraduría General de Justicia del Estado de Morelos expedirá a más tardar en el mes de mayo del año dos mil catorce, el Programa de Profesionalización del Servicio de Carrera de Procuración de Justicia, el cual tendrá carácter temporal, que incluirá las disposiciones referentes a las etapas que comprende el Sistema de Carrera, así como demás normas necesarias, para que a partir de la publicación de dicho programa, el servicio de carrera de procuración de justicia se encuentre implementado y funcionando progresivamente.
 
 CUARTA.- El Consejo deberá de ser convocado a su primera sesión en un plazo de sesenta días hábiles, contados a partir de la publicación de este Decreto. En dicha sesión deberá establecerse el calendario para la aprobación y ejecución del Programa de Profesionalización del Servicio de Carrera de Procuración de Justicia, así como los demás lineamientos a que hace referencia el presente Reglamento.
+
+P.O. 27 DE MAYO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO. Se abrogan (sic) el Reglamento del Servicio de Carrera de Procuración de Justicia del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, el 25 de abril de 2012, en el ejemplar número 4969.
+
+TERCERO. El Servicio Profesional de Carrera, se establecerá gradualmente para su operación, por lo que la migración hacia el Servicio Profesional de Carrera del personal sustantivo en activo contemplado para efectos del Reglamento, se dará desde el momento en que éste último inicie su vigencia y de acuerdo a la suficiencia presupuestal correspondiente.
+
+CUARTO. El Servicio Profesional de Carrera deberá estar en funcionamiento e iniciar su implementación a más tardar 120 días posteriores a su publicación, sin embargo, el Programa, debe emitirse y publicarse, dentro de los sesenta días de la entrada en vigor del presente Reglamento.
+
+QUINTO. Para efectos del Personal que se desempeñan (sic) como Auxiliares del Agente (sic) Ministerio Público se dispondrá de un periodo de migración a Oficiales Auxiliares del Agente del Ministerio Público que no excederá de un año, y cumplan con las evaluaciones de control de confianza y la equivalencia a la formación inicial.
+
+SEXTO. La Fiscalía General, a través de la Unidad de Desarrollo Profesional y la Unidad de Innovación y Profesionalización, llevará a cabo el proceso de renivelación académica, con la finalidad de incrementar el nivel académico del personal de la Policía de Investigación Criminal y Peritos Técnicos.
+
+SÉPTIMO. En un término no mayor de sesenta días naturales, a partir de la Publicación del Reglamento, debe estar instalado el Consejo de Profesionalización.
+
+OCTAVO. Atendiendo a las categorías y la preparación académica del personal de la Policía de Investigación Criminal, se podrán realizar las nivelaciones de acuerdo al tabulador correspondiente y a la suficiencia presupuestal de la Fiscalía General.
+
+NOVENO. El Fiscal General del Estado, resolverá los casos de duda que se susciten con motivo de la interpretación o aplicación del Reglamento.
