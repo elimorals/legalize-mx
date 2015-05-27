@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2015-05-15"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2211,7 +2209,9 @@ VIII.- La separación de la casa conyugal por más de seis meses sin causa justi
 
 IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
 
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+X.- La declaración de ausencia, la declaración de ausencia por desaparición, y la declaración de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
 
 XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
@@ -3481,19 +3481,15 @@ Los hijos menores de edad no emancipados, están bajo la patria potestad mientra
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Art. 414.
 
-En los términos de este capítulo, el padre, la madre y los abuelos paternos y maternos son los titulares de la patria potestad sobre los hijos o nietos menores de edad; se ejerce conjuntamente por los padres y solamente por falta o Impedimento de éstos, corresponderá su ejercicio a los abuelos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+En los términos de este Capítulo, el padre y la madre son los titulares de la patria potestad conjuntamente sobre los hijos menores de edad; y solamente por falta o impedimento de éstos, corresponderá su ejercicio a los abuelos, siempre y cuando no afecten el interés superior de la niñez y estos últimos manifiesten su voluntad de ejercerla en los términos de este precepto.
 
 Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
-
-Tratándose de menores acogidos, por maltrato o abandono, en institución pública de asistencia o beneficencia social, serán llamados los abuelos, por vía judicial, a ejercer la patria potestad; quienes en caso de incumplimiento, serán demandados juntamente con los padres.
+Tratándose de niñas, niños o adolescentes que se encuentren a disposición de la Procuraduría de la Defensa del Menor y la Familia, y que después de treinta días no haya sido posible reincorporarlos con sus padres, los abuelos podrán ejercer los derechos y obligaciones derivados de la patria potestad, quienes serán sujetos a evaluaciones psicológicas y sociales; en caso contrario se les llamará mediante edicto que será publicado por única ocasión en el Diario Oficial de la Federación así como en el Periódico Oficial del Estado, a fin de que comparezcan en el improrrogable término de diez días naturales, contados a partir de la publicación. Transcurrido dicho término sin que hubieran comparecido a ejercitar su derecho, se entenderá su falta de interés manifiesta y por ende los abuelos no serán considerados para el procedimiento judicial de perdida de patria potestad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
 
@@ -3546,6 +3542,120 @@ Cuando los padres del hijo nacido dentro o fuera de matrimonio que vivían junto
 Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad mantiene todas las obligaciones y deberes respecto al menor, conservando sus derechos de convivencia y vigilancia.
 
 La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 1.
+
+Se entiende por Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 2.
+
+El Sistema para el Desarrollo Integral de la Familia, orientará, asistirá y aprobará a las personas que deseen asumir la calidad de familia de acogida, de conformidad con los tratados internacionales, las leyes generales y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 3.
+
+La Procuraduría de la Defensa del Menor y la Familia, podrá determinar la incorporación de una niña, niño o adolescente a una familia de acogida, en los casos siguientes:
+
+I. Cuando quienes ejerzan la patria potestad consientan expresamente mediante convenio celebrado con la Procuraduría de la Defensa del Menor y la Familia que deberá presentarse al Juez competente;
+
+II. En casos urgentes, dando aviso inmediato al Juez competente; o
+
+III. Cuando conforme al dictamen del equipo multidisciplinario de la Procuraduría de la Defensa del Menor y la Familia, la incorporación a una familia de acogida resulta benéfico para la niña, niño o adolescente, atendiendo al interés superior del niño y para evitar la institucionalización prolongada, dando aviso inmediato al Juez competente.
+
+En todos estos casos el Juez emitirá la resolución correspondiente para la integración de la niña, niño o adolescente a una familia de acogida o de aquella que en forma sucesiva se tengan que incorporar con base en el interés superior del menor de presentarse alguna de las causas de revocación o terminación que contemplan este Capítulo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 4.
+
+El Juez competente aprobará la incorporación de la niña, el niño o adolescente a una familia de acogida, a solicitud de la Procuraduría de la Defensa del Menor y la Familia en vía de jurisdicción voluntaria o como medida cautelar a petición del Ministerio Público en juicio contencioso, sin perjuicio de lo que se resuelva en sentencia, previo el cumplimiento de los requisitos siguientes:
+
+I. El Juez, deberá escuchar a la niña o niño a partir de los seis años, previa evaluación psicológica en la que se determine su desarrollo evolutivo, cognoscitivo y madurez y en todos los casos tratándose de adolescentes; y
+
+II. Se cuente con la opinión del equipo multidisciplinario en relación al origen, la comunidad y las condiciones culturales donde se han desarrollado niñas, niños y adolescentes, así como la idoneidad de la familia cuya declaración de acogida se pretenda.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 5.
+
+El Juez deberá garantizar que los hermanos permanezcan juntos y establecerá medidas para que exista convivencia o comunicación entre ellos, a menos que exista un riesgo evidente de abuso u otra justificación que responda al interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 6.
+
+En casos excepcionales y plenamente justificados, el Juez que aprobó la incorporación de una niña, niño o adolescente a una familia de acogida podrá autorizar el cambio de residencia a otro Estado, atendiendo a su bienestar y que sea acorde a su proyecto de vida, cuyo seguimiento será realizado por las instituciones públicas encargadas de velar por el interés superior de la niñez. En este último caso se comunicará mediante oficio a la institución competente que deberá efectuar dicho seguimiento por los conductos de Ley.
+
+Cualquier otra circunstancia relacionada con el lugar de residencia de la niña, niño o adolescente, se resolverá por el Juez competente con intervención del Ministerio Publico.
+
+En los casos en que no autorice el cambio de residencia de la niña, niño o adolescente, se procederá conforme a lo dispuesto en el segundo párrafo de la fracción II del artículo 417 Bis 13.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 7.
+
+La responsabilidad de los que integran la familia de acogida es personal e intransferible.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 8.
+
+Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán a la familia de acogida.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 9.
+
+Los ascendientes de la niña, niño o adolescente, conservarán todas sus obligaciones, en los términos de este Código.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 10.
+
+En los casos en que se autorice la incorporación de la niña, niño o adolescente a una familia de acogida y durante todo el tiempo que ésta dure, la Procuraduría de la Defensa del Menor y la Familia, deberá dar seguimiento al acogimiento, realizando una visita mensual durante los primeros seis meses, el siguiente semestre se realizaran visitas bimestrales y posterior a ello, visitas trimestrales por lo que resta del acogimiento familiar, cuya duración es indefinida.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 11.
+
+Cuando la Procuraduría de la Defensa del Menor y la Familia, determine que existe causa grave que ponga en peligro los intereses fundamentales de la niña, niño o adolescente, podrá suspender en forma provisional los efectos de la familia de acogida, determinando el ingreso de la niña, niño o adolescente a otra familia de acogida o a la institución de asistencia pública o privada, atendiendo al interés superior de la niñez, debiendo dar aviso al Ministerio Público a fin de que ejercite la acción correspondiente así como al Juez que autorizó la incorporación a la familia de acogida.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 12.
+
+Serán causas de terminación de Familia de acogida:
+
+I. Por reintegración familiar, cuando en opinión de la Procuraduría de la Defensa del Menor y la Familia; la familia de origen o extensa ha adquirido las habilidades parentales necesarias;
+
+II. Por haber concluido el término fijado en el convenio, cuando se hubiere constituido mediante esa modalidad;
+
+III. Por emancipación legal o por adquirir la mayoría de edad;
+
+IV. Por adopción; o
+
+V. Por la muerte de ambos miembros de la familia de acogida, o bien de la niña, niño o del adolescente objeto del acogimiento.
+
+En los supuestos establecidos en las fracciones I, II, III y V se deberá dar aviso al Juez.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Art. 417 Bis 13.
+
+El Juez que autorizó la medida podrá decretar la revocación de la Familia de acogida, a solicitud de la Procuraduría de la Defensa del Menor y la Familia o por el Ministerio Público, cuando se den alguna de las siguientes causas:
+
+I. A petición de la familia de acogida, o
+
+II. Cuando existan circunstancias, actos o hechos que afecten el interés superior de la niña, niño o adolescente.
+
+En cualquiera de los supuestos anteriores, la Procuraduría de la Defensa del Menor y la Familia podrá egresar de manera provisional al niño, niña o adolescente de la familia de acogida, encomendándolo preferentemente a otra familia de acogida y de no ser posible esto a una Institución Asistencial para su atención, debiendo dar de manera inmediata aviso al Juez que conoció de las diligencias, para iniciar el trámite de revocación de la familia de acogida.
+
+El Juez previa audiencia de los interesados incluyendo a la niña, niño o adolescente según sea el caso y del Ministerio Público, con el correspondiente ofrecimiento y desahogo de pruebas, resolverá lo que fuere más conveniente al bienestar de la a la niña, niño o adolescente en atención al interés superior del menor.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3729,11 +3839,11 @@ II.- Cuando el que la ejerza es condenado por un delito intencional en contra de
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
 
-III. Cuando por las costumbres depravadas, violencia familiar, explotación o abandono de los deberes de quien la ejerza, pudiera comprometerse la salud, la seguridad, la dignidad, la integridad o la moralidad de los menores, aún cuando estos hechos no sean penalmente punibles;
+III.- Cuando por las costumbres depravadas, violencia familiar, explotación o abandono de los deberes de quien la ejerza, pudiera comprometerse la salud, la seguridad, la dignidad, la integridad o la moralidad de los menores, aún cuando estos hechos no sean penalmente punibles;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-IV.- Cuando quien la ejerza deje de asistir y convivir en forma injustificada con el menor de edad, por más de quince días naturales consecutivos, cuando éste se encuentre acogido por una Institución legalmente constituida, y que cuente con las autorizaciones para su debido funcionamiento;
+IV.- Cuando quien la ejerza deje de asistir y convivir en forma injustificada con el menor de edad, por más de quince días naturales consecutivos, cuando éste se encuentre acogido por una Institución legalmente constituida, y que cuente con las autorizaciones para su debido funcionamiento; y por treinta días naturales consecutivos, cuando el menor de edad se encuentre acogido en familia de acogida;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
@@ -17184,3 +17294,19 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
 
 Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO NÚMERO 248 POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 267, DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO NÚMERO 249 POR EL QUE SE REFORMAN LOS ARTÍCULOS 414 Y 444 FRACCIÓN IV; Y POR ADICIÓN DE LOS ARTÍCULOS 417 BIS 1; 417 BIS 2; 417 BIS 3; 417 BIS 4; 417 BIS 5; 417 BIS 6; 417 BIS 7; 417 BIS 8; 417 BIS 9; 417 BIS 10; 417 BIS 11; 417 BIS 12; 417 BIS 13; DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procesos iniciados con anticipación a la entrada en vigor de este, se rigen por la legislación vigente en el momento que se promovieron.
+
+Tercero.- El Poder Ejecutivo del Estado, deberá realizar las adecuaciones correspondientes conforme al presente Decreto al Reglamento que Regula a la Familia Sustituta en el Estado de Nuevo León, en un plazo no mayor de 60 días naturales contados a partir del día siguiente al que inicie la vigencia del presente Decreto.
