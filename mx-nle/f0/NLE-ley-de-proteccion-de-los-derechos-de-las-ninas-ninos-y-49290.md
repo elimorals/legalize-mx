@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-49290"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-17"
-last_updated: "2010-12-24"
+last_updated: "2015-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEON
 
-LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEON
+LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 17 de febrero de 2006.
 
@@ -49,7 +49,7 @@ Esta Ley es de orden público e interés social y reglamentaria del párrafo ter
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Adolescentes: las personas mayores de doce y menores de dieciocho años de edad;
+I. Adolescentes: Las personas mayores de doce y menores de dieciocho años de edad;
 
 II. Comité Estatal: El Comité Estatal de Seguimiento y Vigilancia de la Aplicación de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes;
 
@@ -63,7 +63,9 @@ VI. Convención: Convención sobre los Derechos del Niño, publicada en el Diari
 
 VII. Familia extensa: Son las personas con parentesco consanguíneo o por afinidad hasta el cuarto grado;
 
-VIII. Familia sustituta: Es la familia que integra a la niña, niño o adolescente a la vida familiar para procurar su plena participación en ella, que tendrá obligación de velar por éste, tenerlo en su compañía, alimentarlo, educarlo y procurar una formación integral, cuando los padres o la familia extensa no garanticen su protección integral. La familia sustituta es distinta de la familia adoptiva;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+VIII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva, según sea el caso;
 
 IX. Juego: Actividad que tiene por objeto entretenerse o divertirse sanamente de acuerdo a la edad y desarrollo de quien lo realiza;
 
@@ -477,15 +479,19 @@ Cuando una niña, niño, o adolescente se encuentre en situación de desamparo p
 
 Las autoridades del Estado quedan obligadas a hacer lo necesario a fin de que no existan en el territorio Estatal personas menores de dieciocho años que carezcan de una habitación cierta, o que vivan en situación de calle.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 44.
 
-Cuando no exista un ambiente familiar de estabilidad y bienestar, los intentos de la comunidad por ayudar a los padres en este aspecto hayan fracasado y la familia extensa no pueda ya cumplir esta función, se deberá recurrir a otras posibilidades de colocación familiar, entre ellas la adopción y las familia (sic) substitutas, que en la medida de lo posible deberán reproducir un ambiente familiar de estabilidad y bienestar y, al mismo tiempo, crear en la niñez y adolescencia un sentimiento de permanencia.
+Cuando no exista un ambiente familiar de estabilidad y bienestar, se deberá recurrir a otras posibilidades de colocación familiar, entre ellas la familia de acogida y la adopción.
 
 Las normas establecerán las disposiciones necesarias para que se logre que quienes lo requieran, ejerzan plenamente el derecho a vivir en familia a que se refiere este capítulo, mediante:
 
 I. La adopción, preferentemente la adopción plena;
 
-II. La participación de familias substitutas; o
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+II. La participación de familias de acogida; o
 
 III. A falta de las anteriores, se recurrirá a las Instituciones de asistencia pública o privada, o se crearán centros asistenciales para este fin.
 
@@ -501,9 +507,11 @@ El Código Civil dispondrá lo necesario para que se cumpla lo dispuesto en este
 
 Las autoridades del Estado establecerán convenios con la Federación y otras entidades federativas, así como con los Municipios del estado a fin de facilitar que padres o madres que no vivan con sus hijos cumplan con las obligaciones derivadas de la responsabilidad a la que se refiere el primer párrafo del artículo anterior, particularmente la obligación alimentaria y la convivencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 47.
 
-El Ejecutivo del Estado, sin renunciar a la tutela, que en su caso ejerza, velará igualmente porque en las integraciones de niñas, niños o adolescentes a familias substitutas se respeten las normas jurídicas que establecerán las disposiciones necesarias que las rijan, las cuales serán diseñadas a fin de que las niñas, niños y adolescentes sean integrados a familias substitutas en pleno respeto de sus derechos, y contendrán disposiciones tendientes a que:
+El Ejecutivo del Estado velará igualmente porque en las integraciones de niñas, niños o adolescentes a familias de acogida se respeten las normas jurídicas que establecerán las disposiciones necesarias que las rijan, las cuales serán diseñadas a fin de que las niñas, niños o adolescentes sean integrados a familias de acogida con pleno respeto de sus derechos y contendrán disposiciones tendientes a que:
 
 I. Se agilicen los procedimientos de integración a familia substituta, sin perjuicio del respeto de los derechos y las previsiones dispuestos en esta ley;
 
@@ -513,7 +521,13 @@ III. Se asesore y asista jurídicamente a todas aquellas personas que están par
 
 IV. La integración a la familia substituta no da lugar a beneficios financieros para quienes participen en ella; y
 
-V. Se asegure el respeto de los derechos reconocidos en la Constitución Federal, en la Constitución Estatal, en la Convención sobre los Derechos del Niño y en esta Ley, así como lo dispuesto en este capítulo en materia de integración a una familia substituta, cuando, en casos excepcionales y plenamente justificados a una niña, niño o adolescente que viva en el Estado sea integrado a una familia residente en otro Estado.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+V. Se asegure el respeto de los derechos reconocidos en la Constitución Federal, en la Constitución Estatal, en la Convención sobre los Derechos del Niño y en esta Ley, así como lo dispuesto en este Capítulo en materia de integración a una familia de acogida, cuando en forma temporal, en casos excepcionales y plenamente justificados, a una familia de acogida que hubiere integrado a una niña, niño o adolescente, cambie su residencia en otro Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+Cualquier circunstancia relacionada con el lugar de residencia de la niña niño o adolescente, se resolverá por el Juez competente con intervención del Ministerio Publico.
 
 ###### Artículo 48.
 
@@ -617,9 +631,11 @@ Queda prohibido someter a niñas, niños y adolescentes a experimentos, pruebas 
 
 En el Estado se vigilará que a este respecto se atienda a lo establecido en la Ley General de Salud, y se emitirán las disposiciones legales que sean necesarias para asegurar que se respete esta prohibición y se sancione severamente a quien la transgreda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 57.
 
-Las pruebas, los análisis y los tratamientos de enfermedades que sí estén permitidos requieren el consentimiento previo del padre, de la madre, tutor, o de quien tenga a su cuidado a la niña, niño o adolescente que será sujeto a ellos.
+Las pruebas, los análisis y los tratamientos de enfermedades que si estén permitidos requieren el consentimiento previo del padre, de la madre, tutor, familias de acogida o de quién tenga a su cuidado a la niña, niño o adolescente que será sujeto a ellos.
 
 Sin embargo, el derecho a la salud y el derecho a vivir en condiciones de bienestar serán garantizados aun en contra de la negativa a dar la autorización, mediante una responsiva médica en caso de urgencia y una decisión, en todos los casos, de la autoridad judicial.
 
@@ -1418,3 +1434,11 @@ Artículo Décimo Primero.- Las autoridades competentes expedirán los reglament
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procesos iniciados con anticipación a la entrada en vigor de este, se rigen por la legislación vigente en el momento que se promovieron.
+
+Tercero.- El Poder Ejecutivo del Estado, deberá realizar las adecuaciones correspondientes conforme al presente Decreto al Reglamento que Regula a la Familia Sustituta en el Estado de Nuevo León, en un plazo no mayor de 60 días naturales contados a partir del día siguiente al que inicie la vigencia del presente Decreto.
