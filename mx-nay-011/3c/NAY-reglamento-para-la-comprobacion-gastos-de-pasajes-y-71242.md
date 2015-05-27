@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-la-comprobacion-gastos-de-pasajes-y-71242"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-28"
-last_updated: "2009-11-28"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "NAY"
 ---
 # REGLAMENTO PARA LA COMPROBACION GASTOS DE PASAJES Y VIATICOS DE LOS FUNCIONARIOS PUBLICOS DEL MUNICIPIO DE RUIZ, NAYARIT
 
-REGLAMENTO PARA LA COMPROBACION DE GASTOS DE PASAJES Y VIATICOS DE LOS FUNCIONARIOS PUBLICOS DEL MUNICIPIO DE RUIZ, NAYARIT
+REGLAMENTO PARA LA COMPROBACIÓN DE GASTOS DE PASAJES Y VIÁTICOS DE LOS FUNCIONARIOS PÚBLICOS DEL MUNICIPIO DE RUIZ, NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 28 de noviembre de 2009.
 
@@ -134,9 +134,13 @@ El servidor público, recibirá por parte de la Tesorería Municipal, el importe
 
 ### CAPÍTULO TERCERO. DE LOS TABULADORES
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 17.
 
-Los gastos para los servidores públicos, materia del presente Reglamento será lo equivalente a 4 salarios mínimos, vigentes en la zona geográfica C.
+Los montos a otorgar por gastos de los servidores públicos, materia del presente Reglamento, será asignado (sic) en base a la zona económica en donde se ejecutara de (sic) su comisión, de conformidad con el tabulador siguiente:
+
+> <small>N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE MAYO DE 2015, PÁGINAS DE LA 4 A LA 5.</small>
 
 ###### Artículo 18.
 
@@ -197,3 +201,13 @@ Artículo Segundo. Se derogan todas las disposiciones administrativas que se opo
 Por lo tanto, lo promulgo y ordeno se imprima, publique en el Periódico Oficial Órgano de Gobierno del Estado y circule para su debida observancia.
 
 A T E N T A M E N T E, "Sufragio Efectivo. No Reelección" El Presidente Municipal. C. José Martín Mejía Soria.- Rúbrica.- Síndico Municipal, Profr. Simón Delgado Ambario.- Rúbrica.- Regidores, C. Salvador Escobedo Bañuelos.- Rúbrica.- C. Pedro Torres Estrada.- Rúbrica.- C. Balbina Esther García Portillo.- Rúbrica.- C. Profr. Jesús Roberto Quiñones Barrera.- Rúbrica.- C. Gabino Sánchez Ortiz.- Rúbrica.- C. Gisela Brewer Guzmán.- Rúbrica.- C. Profr. Marco Antonio del Río García.- Rúbrica.- C. Profra. Angélica Ocegueda Rguez (sic).- Rúbrica.- C. Víctor Castañeda Rivera.- Rúbrica.- C.M.V.Z. José Cuauhtémoc Sánchez Barrón.- Rúbrica.- Secretario el Ayuntamiento, Profr. Nemesio Caro Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MAYO DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 65, fracción VII de la Ley Municipal para el Estado de Nayarit.
