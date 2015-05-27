@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2015-02-18"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1704,11 +1704,9 @@ IV.- Nombrar, remover y conceder licencias a los servidores públicos, así como
 
 V.- Como responsable de la administración pública y de la hacienda pública. cuidar de la legal recaudación e inversión de los caudales públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2012)</small>
-
-VI.- Designar o nombrar a los Secretarios de Despacho y al Consejero Jurídico, en una proporción que no exceda el 70 por ciento para un mismo género.
+VI.- Designar o nombrar a los Secretarios de Despacho y al Consejero Jurídico, en una proporción que no exceda el 60 por ciento para un mismo género;
 
 VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
 
@@ -1990,7 +1988,9 @@ Los Secretarios del Despacho serán responsables de las resoluciones del Goberna
 
 Los Servidores Públicos a que se refiere el artículo 74 de esta Constitución, no podrán desempeñar ningún otro puesto, cargo o comisión de la Federación, de los Estados o de los Municipios, salvo la docencia y los relacionados a la beneficencia pública, o aquellos que por estar directamente relacionados con las funciones de su encargo, sean autorizados en los términos de lo dispuesto por la Ley, y en este último caso, serán siempre de carácter honorífico.
 
-Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley de Responsabilidades de los Servidores Públicos del Estado, deberán entregar al Congreso del Estado, las declaraciones patrimoniales de bienes que establece el Artículo 133 bis de la presente Constitución.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley Estatal de Responsabilidades de los Servidores Públicos, deberán entregar al Congreso del Estado, las declaraciones patrimoniales de bienes que establece el Artículo 133 bis de la presente Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -3274,13 +3274,13 @@ Bis.- Tienen obligación de presentar declaraciones patrimoniales los integrante
 
 Dichas declaraciones serán: de situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
-Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes qua determine la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
-La presentación se hará ante el propio Congreso del Estado.
+La presentación se hará ante la autoridad que corresponda.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -3392,11 +3392,11 @@ La responsabilidad que dé origen a Juicio Político sólo podrá exigirse contr
 
 La Responsabilidad Penal de los Servidores Públicos no comprendidos en el Artículo 136 y 145 se exigirá ante las Autoridades competentes mediante los procedimientos establecidos por la Ley sin que se requiera declaración o requisito previo alguno.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 145.
 
-La responsabilidad administrativa en que incurran los Secretarios de las Salas, de Acuerdos, de estudio y cuenta; los jueces de primera instancia o los que con cualquier otra denominación se designen, así como los demás funcionarios y empleados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo del Estado de Morelos, realicen funciones jurisdiccionales o auxilien en éstas, o desempeñen funciones administrativas, serán del conocimiento y resolución de cada órgano jurisdiccional en el ámbito de su competencia, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos; si alguno de dichos funcionarios o empleados incurre en la comisión de delito, serán juzgados en la forma que establecen las leyes respectivas, pudiendo quedar suspendido el presunto responsable en el ejercicio de sus funciones, en los términos que señale dicha Ley de Responsabilidades de los Servidores Públicos del Estado. Las responsabilidades en que incurran los Magistrados Numerarios, supernumerarios o interinos de los citados órganos jurisdiccionales serán de la competencia del Congreso del Estado.
+La responsabilidad administrativa en que incurran los Secretarios de las Salas, de Acuerdos, de estudio y cuenta; los jueces de primera instancia o los que con cualquier otra denominación se designen, así como los demás funcionarios y empleados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo del Estado de Morelos, realicen funciones jurisdiccionales o auxilien en éstas, o desempeñen funciones administrativas, serán del conocimiento y resolución de cada órgano jurisdiccional en el ámbito de su competencia, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos; si alguno de dichos funcionarios o empleados incurre en la comisión de delito, serán juzgados en la forma que establecen las leyes respectivas, pudiendo quedar suspendido el presunto responsable en el ejercicio de sus funciones, en los términos que señale dicha Ley Estatal de Responsabilidades de los Servidores Públicos. Las responsabilidades en que incurran los Magistrados Numerarios, supernumerarios o interinos de los citados órganos jurisdiccionales serán de la competencia del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -4897,3 +4897,27 @@ DECRETO NÚMERO 2051, POR EL QUE SE REFORMA EL ARTÍCULO 10, DE LA CONSTITUCIÓN
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
 
 SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado; en consecuencia, la reformase (sic) tiene como parte de esta Constitución.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO NÚMERO 2252, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 79, EL TERCER PÁRRAFO DEL ARTÍCULO 133 BIS Y EL ARTÍCULO 145 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del estado de Morelos, conforme lo dispuesto por los artículos 44 y 70, fracción XVII Inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA Las reformas contenidas en el presente Decreto formarán parte de esta Constitución desde el momento mismo en que se realice la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO NÚMERO 2253, POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las reformas contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO NÚMERO 2254, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 133-BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las reformas contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
