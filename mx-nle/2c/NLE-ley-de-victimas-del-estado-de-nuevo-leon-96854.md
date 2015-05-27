@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-victimas-del-estado-de-nuevo-leon-96854"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2013-12-07"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 180 CIENTO OCHENTA DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de diciembre de 2013.
 
@@ -93,7 +91,9 @@ X. Compensación. Erogación económica a que la víctima tenga derecho en los t
 
 XI. Daño: Muerte o lesiones corporales, daños o perjuicios morales y materiales, salvo a los bienes de propiedad de la persona responsable de los daños; pérdidas de ingresos directamente derivadas de un interés económico; pérdidas de ingresos directamente derivadas del uso del medio ambiente incurridas como resultado de un deterioro significativo del medio ambiente, teniendo en cuenta los ahorros y los costos; costo de las medidas de restablecimiento, limitado al costo de las medidas efectivamente adoptadas o que vayan a adoptarse; y costo de las medidas preventivas, incluidas cualesquiera pérdidas o daños causados por esas medidas, en la medida en que los daños deriven o resulten;
 
-XII. Declaración de Ausencia por Desaparición: La sentencia que declara dicha situación jurídica de las víctimas de desaparición involuntaria motivada por un hecho violento, conforme al procedimiento y en los términos precisados en el Código Civil para el Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+XII. Declaración de Ausencia por Desaparición: La sentencia que declara dicha situación jurídica de las personas que de manera involuntaria y con motivo de un hecho violento se les haya privado de su libertad y no se tenga noticias de su paradero, ni se haya confirmado su muerte, conforme al procedimiento y en los términos precisados en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León;
 
 XIII. Fondo. El Fondo de Atención, Auxilio y Protección a las Víctimas del Estado de Nuevo León;
 
@@ -1492,3 +1492,9 @@ E. C. SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 RÚBRICA
 
 ALFREDO FLORES GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MAYO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
