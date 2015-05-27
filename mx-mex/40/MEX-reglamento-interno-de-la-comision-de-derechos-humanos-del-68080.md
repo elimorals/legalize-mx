@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2015-01-26"
+last_updated: "2015-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -77,13 +77,15 @@ VI. Presidente: al Presidente de la Comisión de Derechos Humanos del Estado de 
 
 VII. Secretaría General: al Secretario a que se refiere la fracción II del artículo 15 de la Ley de la Comisión de Derechos Humanos del Estado de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 27 DE MAYO DE 2015)</small>
 
 ###### Artículo 4.
 
-El Organismo publicará mensualmente la Gaceta de Derechos Humanos, en la que se informará de los acuerdos, normas y disposiciones de observancia general; así como de las Recomendaciones y Resoluciones de no Responsabilidad que emita el Organismo y de los asuntos relevantes para el cumplimiento de sus objetivos. Su distribución será gratuita.
+El Organismo publicará en el Periódico Oficial "Gaceta del Gobierno" las disposiciones que emita de carácter general, para que sean aplicadas y observadas debidamente.
 
-Sin perjuicio de lo anterior, la Comisión podrá publicar, u ordenar publicar en cualquier órgano de difusión, la información que considere conveniente para los mismos fines.
+La Comisión editará, en forma impresa y/o electrónica, la Gaceta de Derechos Humanos, en donde publicará las disposiciones, resoluciones, asuntos relevantes y demás actos que expida, que no corresponda publicar en términos del párrafo que antecede.
+
+Sin perjuicio de lo anterior, el Organismo podrá publicar u ordenar publicar, en cualquier órgano de difusión, la información que considere conveniente para el cumplimiento de sus objetivos.
 
 ### Capítulo II. De la organización y adscripción de las unidades administrativas
 
@@ -1160,3 +1162,9 @@ SEGUNDO. Estas modificaciones entrarán en vigor el día hábil siguiente a su p
 TERCERO. Derivado del punto que antecede, se instruye a la Dirección General de Administración y Finanzas para que efectúe las acciones administrativas que se deriven de las reformas de mérito.
 
 CUARTO. Los procedimientos de queja que involucren presuntas violaciones a derechos humanos en los municipios de Tultitlán, Texcoco, Zumpango y Cuautitlán Izcalli, previo a la entrada en vigor de estas modificaciones se sustanciarán y resolverán de acuerdo a lo previsto en la normatividad vigente; en beneficio de los interesados, serán aplicables los preceptos contenidos en este acuerdo.
+
+G.G. 27 DE MAYO DE 2015.
+
+Primero. Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de México “Gaceta del Gobierno”.
+
+Segundo. Las reformas y adiciones aprobadas entrarán en vigor al día siguiente de su publicación, derogándose las disposiciones de igual o menor jerarquía que se opongan a las mismas.
