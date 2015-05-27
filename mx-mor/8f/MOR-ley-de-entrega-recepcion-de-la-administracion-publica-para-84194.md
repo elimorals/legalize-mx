@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-para-8419
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2015-04-01"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -187,7 +187,9 @@ b).- El servidor público entrante o la persona que este designe;
 
 c).- El Contralor Municipal; y
 
-d).- Un representante de la Auditoría Superior de Fiscalización que la Ley establezca;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+d).- Un representante de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca;
 
 IV.- En los organismos autónomos, las entidades paraestatales y paramunicipales:
 
@@ -197,7 +199,9 @@ b).- El servidor público entrante o la persona que este designe;
 
 c).- El representante de su órgano interno de control, y
 
-d).- Un representante de la Auditoría Superior de Fiscalización que la Ley establezca en el caso de las paramunicipales.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+d).- Un representante de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca en el caso de las paramunicipales.
 
 Los servidores públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones.
 
@@ -479,9 +483,11 @@ XIV. Las hojas que integren el Acta Administrativa de Entrega-Recepción, así c
 
 XV. Deberá solicitársele al servidor Público saliente, que señale un domicilio para efecto que llegare a darse la hipótesis contenida en el artículo26 (sic) de la presente Ley.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### Artículo 19.
 
-La intervención de los representantes de la Auditoría Superior de Fiscalización que la Ley establezca, la Secretaría de la Contraloría, el Consejo de la Judicatura del Poder Judicial y los demás órganos internos de control, según corresponda a su competencia, se dará directamente en los casos en que exista controversia en cuanto a la interpretación y cumplimiento de la presente Ley.
+La intervención de los representantes de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca, la Secretaría de la Contraloría, el Consejo de la Judicatura del Poder Judicial y los demás órganos internos de control, según corresponda a su competencia, se dará directamente en los casos en que exista controversia en cuanto a la interpretación y cumplimiento de la presente Ley.
 
 ###### Artículo 20.
 
@@ -507,7 +513,9 @@ La verificación y validación física del contenido del Acta Administrativa de 
 
 Durante los siguientes 30 días hábiles contados a partir del acto de entrega el funcionario que reciba podrá requerir al funcionario que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsele por escrito y notificada en el domicilio que haya designado en el acta de Entrega-recepción el servidor público saliente, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión al órgano de control interno para que proceda de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado.
 
-En caso de los servidores públicos entrantes de los municipios y entidades paramunicipales las irregularidades deberán hacerlas además del conocimiento de la Auditoría Superior de Fiscalización que la Ley establezca.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+En caso de los servidores públicos entrantes de los municipios y entidades paramunicipales las irregularidades deberán hacerlas además del conocimiento de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca.
 
 ### CAPÍTULO TERCERO. DE LA ENTREGA-RECEPCIÓN AL CAMBIO DE ADMINISTRACIÓN
 
@@ -537,7 +545,9 @@ En el caso del Poder Legislativo, la Entrega-Recepción por la conclusión de fu
 
 La Comisión Instaladora que designe el Pleno de la Asamblea Legislativa en términos de lo dispuesto por la Ley Orgánica para el Congreso del Estado de Morelos, llevará a cabo el proceso de entrega-recepción a la Legislatura siguiente o entrante.
 
-Dicha Comisión Instaladora, por conducto de su Presidente, coordinará e instruirá a los órganos del Poder Legislativo, incluido el órgano de Auditoría Superior de Fiscalización, y en general, a todas las áreas administrativas, para que, sin excepción alguna, apliquen el procedimiento administrativo de entrega-recepción con respecto a los recursos humanos, materiales y financieros, así como la información y documentación del Poder Legislativo a que aluden los artículos 5 y 14 de este ordenamiento.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+Dicha Comisión Instaladora, por conducto de su Presidente, coordinará o instruirá a los órganos del Poder Legislativo, incluido el órgano de la Entidad Superior de Auditoría y Fiscalización, y en general, a todas las áreas administrativas, para que, sin excepción alguna, apliquen el procedimiento administrativo de entrega-recepción con respecto a los recursos humanos, materiales y financieros, así como la información y documentación del Poder Legislativo a que aluden los artículos 5 y 14 de este ordenamiento.
 
 En el proceso de Entrega-Recepción cada órgano, dependencia o área administrativa del Congreso, sea cual fuera su naturaleza jurídica, quedará obligado a cumplir en tiempo y forma con la integración de la información y documentación de los términos de este ordenamiento.
 
@@ -547,9 +557,13 @@ Tratándose de las comisiones, comités, subcomités y los demás órganos coleg
 
 Cuando el Presidente de la Comisión Instaladora presida al mismo tiempo uno o más órganos colegiados del Congreso, la entrega de la citada información la hará el diputado que actué como Secretario de dicho órgano colegiado.
 
-Las Secretarías de Administración y Finanzas, y la de Servicios Legislativos y Parlamentarios, serán las responsables de integrar toda la información y documentación inherentes a las demás dependencias y áreas administrativas del Congreso, incluyendo la relativa a la de la Auditoría Superior de Fiscalización del Congreso.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
-Ambas Secretarias certificarán la validez, congruencia y certeza de la información relativa a dichos órganos y áreas administrativas del Congreso.
+Las Secretarías de Administración y Finanzas, y la de Servicios legislativos y Parlamentarios, serán las responsables de integrar toda la información y documentación inherentes a las demás dependencias y áreas administrativas del Congreso, incluyendo la relativa a la de la Entidad Superior de Auditoría y Fiscalización del Congreso.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+La información entregada para su integración, correspondiente a los órganos colegiados, administrativos y especializados, y de las unidades institucionales y administrativas que integran el Congreso del Estado, será responsabilidad de sus Titulares.
 
 Cada uno de los informes, inventarios, estados financieros y en general, toda la información que deba ser objeto de entrega-recepción, y que formulen y firmen los titulares de los órganos colegiados, administrativos, y en general, todas las dependencias y áreas del Poder Legislativo, formarán parte de los anexos que se integren al acta que se levante de la entrega-recepción.
 
@@ -579,9 +593,13 @@ La comisión de enlace entrante no podrá ejercer más atribuciones que las señ
 
 Los servidores públicos salientes de las dependencias, ayuntamiento y entidades estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten durante los siguientes 30 días hábiles contados a partir del acto de entrega.
 
-En caso de los servidores públicos de los municipios y entidades paramunicipales tal obligación deberá cumplirse además ante el representante del órgano de la Auditoría Superior de Fiscalización que la Ley establezca.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
-Para facilitar la entrega-recepción de las administraciones municipales el órgano de la Auditoría Superior de Fiscalización expedirá los formatos respectivos.
+En caso de los servidores públicos de los municipios y entidades paramunicipales tal obligación deberá cumplirse además ante el representante del órgano de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+Para facilitar la entrega-recepción de las administraciones municipales el órgano de la Entidad Superior de Auditoría y Fiscalización expedirá los formatos respectivos.
 
 ### CAPÍTULO CUARTO. DE LAS NOTIFICACIONES
 
@@ -621,15 +639,17 @@ El servidor público saliente que no entregue los asuntos y recursos a su cargo 
 
 En este caso, el servidor público entrante al tomar posesión, o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, haciéndolo del conocimiento del superior jerárquico y del órgano interno de control para efectos del requerimiento a que se refiere este artículo, y en su caso, para que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
 
-En caso de los servidores públicos entrantes de los municipios y entidades paramunicipales tal circunstancia deberá además notificarse al órgano de la Auditoría Superior de Fiscalización que la Ley establezca, para los efectos del párrafo que antecede.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
+En caso de los servidores públicos entrantes de los municipios y entidades paramunicipales tal circunstancia deberá además notificarse al órgano de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca, para los efectos del párrafo que antecede.
 
 Si no obstante el requerimiento realizado, el servidor público saliente dejare de cumplir esta disposición, incurrirá en responsabilidad administrativa por lo que se le sancionará en términos de lo dispuesto en la Ley Estatal de Responsabilidades de los Servidores Públicos, independientemente de las posibles responsabilidades de tipo penal, civil, que en su caso, hubiere incurrido con motivo del desempeño de su función.
 
-###### Artículo 40.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
-La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Secretaría de la Contraloría y del Consejo de la Judicatura del Poder Judicial, así como de los órganos internos de control de los organismos públicos autónomos y de la Contraloría Municipal y el órgano de la Auditoría Superior de Fiscalización que la Ley establezca en el caso de los ayuntamientos de los municipios del Estado.
+###### Articulo 40.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Secretaría de la Contraloría y del Consejo de la Judicatura del Poder Judicial, así como de los órganos internos de control de los organismos públicos autónomos y de la Contraloría Municipal y el órgano de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca en el caso de los ayuntamientos de los municipios del Estado.
 
 ## TRANSITORIOS
 
@@ -678,3 +698,9 @@ DECRETO NÚMERO DOS MIL SETENTA Y SIETE POR EL QUE SE DEROGA EL SEGUNDO PÁRRAFO
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectivamente, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrara en vigor a partir del día siguiente de su publicación en el periódico Oficial “Tierra y Liberta”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 27 DE MAYO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
