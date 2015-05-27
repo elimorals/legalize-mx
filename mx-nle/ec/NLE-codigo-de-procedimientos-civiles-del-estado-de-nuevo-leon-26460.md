@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2015-05-15"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -163,7 +161,7 @@ Siempre que dos o más personas ejerciten una misma acción u opongan la misma e
 
 ###### Artículo 16.
 
-Mientras continúe el procurador o representante común en su encargo, los emplazamientos, notificaciones y citaciones de toda clase que se les haga, tendrán la misma fuerza que si se hicieren a los representados, sin que Les (sic) sea permitido pedir que se entiendan con éstos.
+Mientras continúe el procurador o representante común en su encargo, los emplazamientos, notificaciones y citaciones de toda clase que se les haga, tendrán la misma fuerza que si se hicieren a los representados, sin que Les sea permitido pedir que se entiendan con éstos.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -661,7 +659,7 @@ Si las partes o sus representantes no concurren al Juzgado o Tribunal en los dí
 
 El Secretario o el Juez, en su caso, asentarán en autos la razón que corresponda a esta clase de notificaciones que incluirá, en todo caso, fecha y número del Boletín Judicial.
 
-> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 77.
 
@@ -965,11 +963,11 @@ XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez de
 
 XV.- En el caso de juicios relativos a la Investigación de Filiación, el juez del domicilio del menor, y en general en todos los juicios donde se vean involucrados directamente derechos de menores, el juez del domicilio de éstos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 112.
 
-Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demanda el actor. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
+Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demanda el actor por concepto de suerte principal.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
@@ -6637,7 +6635,7 @@ En los negocios de menores e incapacitados, intervendrán el juez de primera ins
 
 ###### Artículo 913.
 
-Los actos de jurisdicción voluntaria a que haga mención este Código se sujetarán (sic) a lo dispuesto en este capítulo y en lo conducente al procedimiento oral.
+Los actos de jurisdicción voluntaria a que haga mención este Código se sujetarán a lo dispuesto en este capítulo y en lo conducente al procedimiento oral.
 
 ### CAPITULO II
 
@@ -7491,17 +7489,17 @@ II.- Las controversias que se susciten con motivo de alimentos, y convivencia y 
 
 III.- Las solicitudes de divorcio por un mutuo consentimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+IV.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, adopción y del cambio de régimen de matrimonio;
 
-IV.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, adopción y del cambio de régimen de matrimonio; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+V.- Las acciones de divorcio establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, siempre que no se hagan valer con alguna diversa de éstas; y
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
 
-V.- Las acciones de divorcio establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, siempre que no se hagan valer con alguna diversa de éstas.
+VI.- El trámite estipulado en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -9163,7 +9161,7 @@ Las notificaciones personales realizadas electrónicamente a través del Tribuna
 
 ###### Artículo 78 Bis.
 
-La nulidad de las notificaciones personales hechas por Tribunal (sic) Virtual, se tramitará en la vía incidental conforme al artículo 81, ubicado en el Titulo Primero del Libro Primero de este Código.
+La nulidad de las notificaciones personales hechas por (sic) Tribunal Virtual, se tramitará en la vía incidental conforme al artículo 81, ubicado en el Titulo Primero del Libro Primero de este Código.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -9704,3 +9702,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
 
 Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 27 DE MAYO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
