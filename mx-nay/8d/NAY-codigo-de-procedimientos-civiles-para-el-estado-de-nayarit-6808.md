@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2014-12-24"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -1875,7 +1875,7 @@ II.- El dictamen de perito, salvo lo previsto en el artículo 191 "C" del presen
 
 III.- La declaración de testigos;
 
-IV.- La presunción humana; y (sic)
+IV.- La presunción humana; y
 
 V.- Las fotografías, copias fotostáticas y demás medios que produzcan convicción.
 
@@ -3911,7 +3911,7 @@ I. En la promoción inicial se deberá manifestar si se trata de adopción nacio
 
 II. Mencionar el nombre, edad y si lo hubiere, el domicilio del menor o persona con incapacidad que se pretenda adoptar, el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya recibido;
 
-III. Acompañar el certificado de idoneidad si lo requiriere conforme a la ley; (sic)
+III. Acompañar el certificado de idoneidad si lo requiriere conforme a la ley;
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2006)</small>
 
@@ -3961,31 +3961,47 @@ V.- Precauciones que deben adaptarse respecto de la mujer que quede embarazada a
 
 ### CAPITULO XIV. DIVORCIO
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 514.
 
-El divorcio necesario se tramitará en juicio civil ordinario; el voluntario administrativo, cuando no haya hijos menores o incapacitados, como lo prevee (sic) el Código Civil y el voluntario judicial, cuando si los haya, de acuerdo con las siguientes disposiciones.
+El divorcio sin expresión de causa se tramitará en juicio civil ordinario. El juez al advertir alguna deficiencia en la propuesta particular requerirá a la parte promovente para efecto de que dentro del término legal de tres días subsane la omisión observada, con apercibimiento que de no hacerlo dentro del término concedido, se le tendrá por no presentada su demanda.
+
+El divorcio voluntario administrativo, cuando no haya hijos menores o incapacitados, se tramitará como lo prevé el Código Civil y el voluntario judicial, cuando si los haya, de acuerdo con las siguientes disposiciones.
 
 ###### ARTICULO 515.
 
 Cuando ambos cónyuges convengan en divorciarse por mutuo consentimiento, en el último supuesto del artículo anterior, deberán ocurrir al tribunal competente, presentando solicitud con el convenio respectivo, copia certificada del acta de matrimonio y sendas de las de nacimiento de los hijos menores o incapaces. Se considerará que los cónyuges tienen hijos cuando la esposa se encuentre embarazada.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 516.
 
-Citará el tribunal a los cónyuges a una junta que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren, previa su plena identificación, los exhortará para procurar su reconciliación. Si no logra avenirlos, oyendo al Ministerio Público y a la Procuraduría de la Defensa del Menor y la Familia, resolverá si son de aprobarse o no en forma provisional los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquellos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+Para efectos del convenio señalado en el artículo anterior, el juez citará a una audiencia en la que calificará y resolverá si se encuentran plenamente protegidos los derechos de los menores o incapaces, si es de aprobarse o no los puntos del convenio relativos a la guarda, custodia, convivencia y la obligación de dar alimentos a los acreedores alimentarios.
+
+En cualquier momento el juez dictará las medidas necesarias de aseguramiento, en esta audiencia estarán presentes tanto el Ministerio Público como el Procurador de la Defensa del Menor y la Familia.
+
+Durante la audiencia señalada en el párrafo anterior se analizarán los términos de la separación de los cónyuges y en su caso, la manera de administrar los bienes y la liquidación de los mismos.
+
+En el caso de existir alguna observación ya sea por el Juez, Ministerio Público o la Procuraduría de la Defensa del Menor y la Familia al convenio presentado por los cónyuges, se dará vista a los mismos sobre los cambios realizados, para que dentro de la audiencia antes señalada manifiesten lo que a su interés legal convenga, de no aceptarse los cambios, se dejarán a salvo sus derechos para solicitar el divorcio por la vía ordinaria.
+
+Cuando el convenio no se aprobare, no podrá decretarse la disolución del matrimonio.
+
+Una vez agotado lo dispuesto en este artículo y realizado lo señalado en el artículo 276 del Código civil, se dictará sentencia que declare disuelto el vínculo matrimonial, dentro de un plazo no mayor a 5 días.
 
 ###### ARTICULO 517.
 
-Si insistieren los cónyuges en su propósito de divorciarse, se citarán a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquellos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, oyendo el parecer del representante del Ministerio Público, y a la Procuraduría de la Defensa del Menor y la Familia, sobre éste punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 518.
 
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los dos artículos que preceden, sino que deben comparecer personalmente y, en su caso, acompañados del representante legal
+Los cónyuges deben comparecer a la audiencia de forma personalísima.
 
 ###### ARTICULO 519.
 
-Cuando haya oposición a la aprobación del convenio, quien se oponga propondrá las modificaciones que estime pertinentes y el tribunal lo hará del conocimiento al otro cónyuge o a ambos según el caso, para que dentro de los tres días manifiesten si aceptan las modificaciones y, aceptadas o no, resolverá en la sentencia lo que proceda, procurando que siempre queden debidamente garantizados los derechos de los hijos.
-
-Cuando el convenio no se aprobare, no podrá decretarse la disolución del matrimonio.
+(DEROGADO, P.O. 27 DE MAYO DE 2015)
 
 ###### ARTICULO 520.
 
@@ -5296,3 +5312,17 @@ P.O. 18 DE AGOSTO DE 2014.
 P.O. 24 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 516 Y 518; Y SE DEROGAN LOS ARTÍCULOS 517 Y 519, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 514 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto serán concluidos conforme a las disposiciones vigentes al momento en que se solicitó el proceso de divorcio.
