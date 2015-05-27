@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "2013-06-14"
+last_updated: "2015-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 27 DE MAYO DE 2015; ORDENAMIENTO QUE ENTRA EN VIGOR EL 31 DE OCTUBRE DEL AÑO 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -1608,3 +1610,17 @@ Segundo.- En un término no mayor a 90 días siguientes a partir de la entrada e
 P.O. 14 DE JUNIO DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 27 DE MAYO DE 2015.
+
+Primero.- La presente Ley previa publicación en el Periódico Oficial del Estado, entrará en vigor el día 31 de Octubre de 2015.
+
+Segundo.- Se abroga la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 28 de enero de 1991, y todas sus reformas.
+
+Tercero.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Cuarto.- Los actos jurídicos municipales, los trámites y los recursos administrativos contra actos o resoluciones ante las autoridades municipales que se hayan interpuesto antes de entrar en vigor esta Ley, se substanciarán y resolverán conforme a las reglas de la Ley que se abroga.
+
+Quinto.- Los Ayuntamientos, en un plazo de ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto deberán de adecuar los reglamentos municipales respectivos conforme a lo establecido en esta Ley.
+
+Sexto.- Para cumplir con los fines de medios de difusión, los Municipios deberán crear su Gaceta Municipal en un plazo de ciento veinte días naturales, en caso de que no constituyan la creación de su Gaceta Municipal, los actos serán difundidos en el Periódico Oficial del Estado.
