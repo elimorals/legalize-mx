@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-organizacion-y-funcionamiento-de-las-73110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2013-04-10"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DE LAS DEFENSORIAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS, PUBLICADO EN LA G.O. DE 29 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MAYO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 15 de febrero de 2010.
 
@@ -145,7 +147,11 @@ IX. Difundir, previa aprobación del Organismo, los servicios que ofrecen tanto 
 
 X. Consultar y recibir las propuestas de la ciudadanía para integrarlas en su plan de trabajo, debiendo fundar y motivar las que no se incorporen por resultar improcedentes; y
 
-XI. Las demás que les confieren otras disposiciones y aquellas que les encomiende la Secretaria General y el Visitador General respectivo.
+> <small>(ADICIONADA, G.G. 27 DE MAYO DE 2015)</small>
+
+XI. Realizar las diligencias, que por escrito les solicite el Visitador General que corresponda, relacionadas con la tramitación de los procedimientos de queja e investigaciones de oficio sustanciados en la Comisión; y
+
+XII. Las demás que les confieren otras disposiciones y aquellas que les encomiende la Secretaría General y el Visitador General respectivo.
 
 ###### Artículo 10.
 
@@ -179,11 +185,9 @@ Artículo .14.- Las Defensorías Municipales, en coordinación con la Secretaria
 
 Las Defensorías Municipales deben atender oportunamente las reuniones y eventos a los que la Secretaria General les convoque.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 27 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
-
-Artículo 15 A.- Las Defensorías Municipales deben presentar a través del SIDEMUN, los informes trimestrales relacionados con la ejecución de su Plan Anual de Trabajo.
+Artículo 15 A.- Las Defensorías Municipales deben presentar a través del SIDEMUN, los informes trimestrales relacionados con la ejecución de su Plan Anual de Trabajo, dentro de los cinco días hábiles siguientes al vencimiento del trimestre que corresponda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -488,3 +492,9 @@ G.G. 10 DE ABRIL DE 2013.
 PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
 
 SEGUNDO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno".
+
+G.G. 27 DE MAYO DE 2015.
+
+Primero. Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+Segundo. Las reformas y adiciones aprobadas entrarán en vigor al día siguiente de su publicación, derogándose las disposiciones de igual o menor jerarquía que se opongan a las mismas.
