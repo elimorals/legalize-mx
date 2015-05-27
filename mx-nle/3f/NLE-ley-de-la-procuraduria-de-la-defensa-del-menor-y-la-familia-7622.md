@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-762
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-21"
-last_updated: "2011-07-05"
+last_updated: "2015-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
-LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
+LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de octubre de 1992.
 
@@ -83,7 +83,7 @@ III.- Mayor de veinticinco años; y
 
 IV.- De moralidad y vida familiar intachable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 5.
 
@@ -109,7 +109,9 @@ VII.- Velar porque los menores u otros incapaces abandonados, maltratados o víc
 
 VIII.- Coadyuvar con las Autoridades Educativas para que los menores ocurran a su instrucción primaria y secundaria, vigilando que quienes tengan la patria potestad o tutela cumplan con esa obligación;
 
-IX.- Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Ejecutivo, de los trabajos realizados en su Dependencia; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+IX.- Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Ejecutivo, de los trabajos realizados en su Dependencia;
 
 X.- Organizar campañas tendientes a la prevención y erradicación del consumo de tóxicos entre menores;
 
@@ -121,13 +123,13 @@ XI.- Girar citatorios, publicar pesquisas, edictos y realizar las gestiones nece
 
 XII.- Levantar el acta circunstanciada en la que se dé fe del abandono o exposición de menores, firmándola con asistencia de dos testigos y determinando en ella lo relativo a la custodia de los menores en la institución pública o privada correspondiente;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-XIII.- Determinará en los casos urgentes y de manera provisional el ingreso de menores sujetos de asistencia social a las comunidades infantiles de custodia o a las instituciones públicas o privadas más convenientes, como medida de protección y asistencia, dando aviso inmediato al Juez competente;
+XIII.- Determinará en los casos urgentes y de manera provisional la incorporación de niñas, niños o adolescentes sujetos de asistencia social con familias de acogida, o el ingreso a las instituciones públicas o privadas más convenientes, como medida de protección y asistencia, dando aviso inmediato al Juez competente;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-XIV.- Determinar el egreso de menores internados en instituciones públicas o privadas o el traslado a una institución como albergue permanente, conforme a las disposiciones aplicables del Código Civil vigente en el Estado y tomando en cuenta la investigación multidisciplinaria practicada por personal adscrito al sistema DIF Nuevo León, como medida de protección y asistencia, iniciando el trámite que menciona el artículo 902 del Código de Procedimientos Civiles de Nuevo León;
+XIV.- Determinar el egreso de niñas, niños o adolescentes internados en instituciones públicas o privadas o el traslado a una institución como albergue permanente, o la incorporación a una familia de acogida, recabando su opinión cuando proceda conforme a las disposiciones aplicables del Código Civil vigente en el Estado y tomando en cuenta el dictamen emitido por el equipo multidisciplinario adscrito al Sistema DIF Nuevo León, como medida de protección y asistencia, dando aviso al Juez competente;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
 
@@ -167,13 +169,19 @@ XXIII.- Gestionar, en su caso, ante el Oficial del Registro Civil la elaboració
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2011)</small>
 
-XXIII.- Gestionar, en su caso, ante el Oficial del Registro Civil la elaboración del acta de nacimiento de menores abandonados o expósitos;
+XXIII (SIC).- Gestionar, en su caso, ante el Oficial del Registro Civil la elaboración del acta de nacimiento de menores abandonados o expósitos;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
 
-XXIV.- Ejercer las atribuciones que le señala la Ley que Regula a las Instituciones Asistenciales que tienen bajo su guarda, custodia o ambas a niñas, niños y adolescentes en el Estado de Nuevo León; y
+XXIV.- Ejercer las atribuciones que le señala la Ley de instituciones Asistenciales que tienen bajo su guarda, custodia o ambas a niñas, niños y adolescentes en el Estado de Nuevo León;
 
-XXV.- Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+
+XXV.- Dar fe pública en el ejercicio de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
+
+XXVI.- Las demás que le confieran las leyes.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
@@ -259,9 +267,43 @@ El Presidente y el Secretario serán nombrados por el Procurador de la Defensa d
 
 Podrán constituirse los Sub-Comités que sean necesarios en el Estado, los que se integrarán y funcionarán como el Comité de Protección de la Defensa del Menor y la Familia.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 16.
 
-Para los efectos de la presente Ley, sin ser limitativo, se entiende por maltrato, en caso del menor el daño físico, mental o emocional, el cuidado inadecuado, la explotación o los ejemplos corruptos.
+Para los efectos de la presente Ley, sin ser limitativo, se entiende por maltrato:
+
+I. Abandono y trato negligente: Se produce abandono cuando en el contexto de los recursos razonablemente disponibles de la familia o los cuidadores, no se proporciona al niño lo necesario para su desarrollo en todas las esferas: salud, educación, desarrollo emocional, nutrición, protección y condiciones de vida seguras. Como consecuencia de ello, se perjudica o se corre un alto riesgo de perjudicar la salud del niño o su desarrollo físico, mental, espiritual, moral o social. Cabe incluir aquí el hecho de no vigilar a los niños y no protegerlos de daños en la medida de lo posible.
+
+II. Abuso sexual: El abuso sexual de menores consiste en la participación de un niño en una actividad sexual que no comprende plenamente, a la que no es capaz de dar un consentimiento, o para la que por su desarrollo no está preparado y no puede expresar su consentimiento, o bien que infringe las leyes o los tabúes sociales. El abuso sexual de menores se produce cuando esta actividad tiene lugar entre un niño y un adulto, o bien entre un niño y otro niño o adolescente que por su edad o desarrollo tiene con él una relación de responsabilidad, confianza o poder. La actividad tiene como finalidad la satisfacción de las necesidades de la otra persona.
+
+Puede incluir diversas prácticas sexuales con o sin contacto físico tales como exhibicionismo, tocamientos, manipulación, corrupción, sexo anal, vaginal u oral, prostitución y pornografía.
+
+III. Explotación: La explotación comercial o de otro tipo se refiere a la utilización de menores en el trabajo o en otras actividades en beneficio de otras personas. Esto incluye, aunque no se limite a ello, el trabajo infantil y la prostitución infantil. Estas actividades van en detrimento de la salud física y mental del niño, de su educación o de su desarrollo espiritual, moral o socio-emocional.
+
+IV. Maltrato físico: Es toda forma de agresión no accidental infligida al menor producido por el uso de la fuerza física, incluyendo dos categorías:
+
+a) Traumas físicos que producen lesiones severas entre las que se incluyen quemaduras, hematomas, fracturas, envenenamientos y otros daños que pueden llegar a causar la muerte; y
+
+b) Traumas físicos provocados por palmadas, sacudidas, pellizcos o prácticas similares que a pesar del daño psicológico, no constituyen un riesgo substancial para la vida del niño.
+
+V. Maltrato psicológico o emocional: Es el daño que de manera intencional se hace contra las actitudes y habilidades de un niño. Afecta su autoestima, su capacidad de relacionarse, la habilidad para expresarse y sentir, deteriora su personalidad, su socialización y, en general, el desarrollo armónico de sus emociones y habilidades. Existen varias categorías de maltrato psicológico y emocional:
+
+a) Ignorar al niño, lo que hace referencia al niño fantasma. Sus emociones, ansiedades, miedos y necesidades afectivas son totalmente imperceptibles para sus padres o cuidadores.
+
+b) El rechazo por parte de los adultos de las necesidades, valores y solicitudes del niño.
+
+c) El aislamiento. Cuando el niño es privado de su familia y/o comunidad, negándole la necesidad de contacto humano.
+
+d) El terrorismo. El que el niño está expuesto a ataques verbales y amenazas con objetos, creando un clima de miedo, hostilidad y ansiedad.
+
+e) La corrupción. Cuando el niño está expuesto a situaciones que transmiten y refuerzan conductas destructivas y antisociales, alterando de esta manera el desarrollo adecuado de conductas sociales.
+
+f) La agresión verbal, que es el uso continuo de una forma de llamar al niño de manera áspera y sarcástica. Día a día va disminuyendo su autoestima.
+
+g) La presión, que es la constante exigencia para lograr un desarrollo rápido esperando logros y aprendizajes a un nivel que no corresponde con su desarrollo neurológico ni mental. Este niño sentirá que nunca será lo suficientemente bueno.
+
+h) El generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores, figuras de apego o quien detente su custodia.
 
 ###### ARTICULO 17.
 
@@ -321,7 +363,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE ENERO DE 1997.
 
@@ -360,3 +402,11 @@ Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince día
 Quinto.- El Titular del Ejecutivo deberá emitir el Reglamento de la Ley que Regula el Funcionamiento de las Instituciones que tienen bajo su Guarda y Custodia a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo que no podrá exceder de 90-noventa días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procesos iniciados con anticipación a la entrada en vigor de este, se rigen por la legislación vigente en el momento que se promovieron.
+
+Tercero.- El Poder Ejecutivo del Estado, deberá realizar las adecuaciones correspondientes conforme al presente Decreto al Reglamento que Regula a la Familia Sustituta en el Estado de Nuevo León, en un plazo no mayor de 60 días naturales contados a partir del día siguiente al que inicie la vigencia del presente Decreto.
