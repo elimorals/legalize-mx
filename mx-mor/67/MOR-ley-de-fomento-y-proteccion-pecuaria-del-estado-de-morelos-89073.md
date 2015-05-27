@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-morelos-8907
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-15"
-last_updated: "2014-12-10"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -493,6 +493,12 @@ V. Presentar 6 fotografías tamaño infantil a color, y
 
 VI. Exhibir constancia del pago de los derechos correspondientes.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+
+###### Artículo 31 Bis.
+
+Los ganaderos que cambien o dejen de usar sus fierros, marcas o señales registrados, estarán obligados a dar el aviso correspondiente al Ayuntamiento en el que se haya realizado dicho registro, dentro del término de un mes, para proceder, según sea el caso, a la modificación o cancelación de sus registros en los libros respectivos.
+
 ###### Artículo 32.
 
 Se prohíbe el uso de fierros no registrados. Los animales que se marquen contraviniendo esta disposición, serán retenidos a los poseedores y remitidos a la autoridad correspondiente, ante quien el interesado deberá acreditar su propiedad para proceder a recuperarlo.
@@ -521,7 +527,7 @@ El registro, de fierros contendrá los datos que establece el Reglamento respect
 
 ###### Artículo 38.
 
-La constancia de registro de fierros se expedirá en original y tres copias; conforme lo establece el Reglamento; (sic)
+La constancia de registro de fierros se expedirá en original y tres copias; conforme lo establece el Reglamento;
 
 ###### Artículo 39.
 
@@ -825,11 +831,11 @@ Toda persona física o moral que movilice productos o subproductos de origen ani
 
 ###### Artículo 95.
 
-Toda persona física o moral que movilice y comercialice carne en canal o vísceras, deberá ampararla, con la documentación que establece el Reglamento respectivo: (sic)
+Toda persona física o moral que movilice y comercialice carne en canal o vísceras, deberá ampararla, con la documentación que establece el Reglamento respectivo:
 
 ###### Artículo 96.
 
-La inspección de ganado podrá tener lugar en los establecimientos incluidos en el Reglamento de esta Ley: (sic)
+La inspección de ganado podrá tener lugar en los establecimientos incluidos en el Reglamento de esta Ley:
 
 ###### Artículo 97.
 
@@ -1149,7 +1155,7 @@ En materia pecuaria, solamente deberán ejercer dentro del Estado los profesiona
 
 ###### Artículo 151.
 
-La Secretaría solicitará a los colegios de profesionales del ramo, una relación de los profesionistas que ejercen en el Estado, para su registro en la Secretaría; (sic)
+La Secretaría solicitará a los colegios de profesionales del ramo, una relación de los profesionistas que ejercen en el Estado, para su registro en la Secretaría;
 
 ###### Artículo 152.
 
@@ -1337,7 +1343,7 @@ La movilización de colmenas, miel y derivados fuera del Estado de Morelos, debe
 
 Para la introducción de colmenas, productos y derivados apícolas al Estado de Morelos, se requiere de la siguiente documentación:
 
-I. Certificado Zoosanitario, y (sic)
+I. Certificado Zoosanitario, y
 
 II. Permiso de la internación expedido por la Secretaría.
 
@@ -1566,3 +1572,9 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO TERCERO.
 
 Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 27 DE MAYO DE 2015.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
