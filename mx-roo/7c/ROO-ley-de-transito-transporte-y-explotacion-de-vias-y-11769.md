@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transito-transporte-y-explotacion-de-vias-y-11769"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2013-06-14"
+last_updated: "2015-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE TRANSITO, TRANSPORTE Y EXPLOTACION DE VIAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
-LEY DE TRANSITO, TRANSPORTE Y EXPLOTACIÓN DE VIAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
+LEY DE TRÁNSITO, TRANSPORTE Y EXPLOTACIÓN DE VÍAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial de Estado de Quintana Roo, el 16 de diciembre de 1996.
 
@@ -299,7 +299,7 @@ XIII. Utilizar casco protector para los ocupantes de motocicletas de uso públic
 
 > <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XIV. Abstenerse de conducir vehículos automotores cuando se encuentren bajo la influencia de bebidas alcohólicas, estupefacientes u otras sustancias tóxicas; y (sic)
+XIV. Abstenerse de conducir vehículos automotores cuando se encuentren bajo la influencia de bebidas alcohólicas, estupefacientes u otras sustancias tóxicas; y
 
 > <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
 
@@ -523,7 +523,13 @@ La justa retribución económica que los concesionarios obtengan por la prestaci
 
 SERVICIO PUBLICO DE TRANSPORTES DE PASAJEROS
 
-ARTICULO 56 (sic).- El servicio público de transporte de pasajeros se divide en:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+ARTICULO 50 BIS (SIC).- Los Ayuntamientos de los Municipios del Estado podrán exentar o determinar una tarifa preferencial en el pago del servicio público de transporte urbano de pasajeros en autobuses de ruta establecida a personas con discapacidad, así como a estudiantes y adultos mayores que acrediten tal calidad con la credencial o identificación oficial correspondiente.
+
+ARTICULO 56 (SIC).- El servicio público de transporte de pasajeros se divide en:
 
 I.- Servicio Público de Autobuses Urbanos.
 
@@ -721,7 +727,7 @@ Independiente de los procedimientos que se fijen en otras leyes y Reglamentos, l
 
 EI Gobierno del Estado y los Ayuntamientos para lograr un mejor desempeño en sus funciones en la materia de la presente Ley y de sus Reglamentos, integrarán una comisión consultiva de transporte y una comisión de estudios, proyectos y tarifas, las cuales tendrán las facultades y funciones que se determinen en los Reglamentos respectivos.
 
-ARTICULO 85 (sic).- Las Direcciones de Comunicaciones y Transportes y de Tránsito, conducirán sus acciones en forma coordinada y mutuo apoyo en todos aquellos casos que por su propia naturaleza así se requiera, en los términos que indican los Reglamentos respectivos de la presente Ley.
+ARTICULO 85 (SIC).- Las Direcciones de Comunicaciones y Transportes y de Tránsito, conducirán sus acciones en forma coordinada y mutuo apoyo en todos aquellos casos que por su propia naturaleza así se requiera, en los términos que indican los Reglamentos respectivos de la presente Ley.
 
 ## TRANSITORIOS
 
@@ -788,3 +794,9 @@ SEGUNDO.- Dentro del término de 30 días contados a partir de la entrada en vig
 TERCERO.- El Ejecutivo del Estado y los Ayuntamientos deberán implementar una campaña para promover la concienciación de la ciudadanía en general, que le permita conocer y cumplir la obligación que se deriva por la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día ocho de junio del año dos mil quince, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
