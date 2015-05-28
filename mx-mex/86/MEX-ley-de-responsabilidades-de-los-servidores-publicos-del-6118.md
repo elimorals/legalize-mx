@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2015-04-30"
+last_updated: "2015-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 28 DE MAYO DE 2015.</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -1653,4 +1653,6 @@ TERCERO. El Titular del Ejecutivo expedirá las modificaciones necesarias al Reg
 
 CUARTO. El Secretario de la Contraloría llevará a cabo las acciones que permitan la implementación del presente Decreto, así como emitirá las disposiciones normativas complementarias. En el ámbito de sus competencias el Consejo de la Judicatura y el Contralor de la Legislatura del Estado de México llevarán a cabo las acciones que permitan la implementación del presente Decreto, así como emitirán las disposiciones complementarias.
 
-QUINTO. A la entrada en vigor del presente Decreto, en términos de lo dispuesto por los artículos 79 y 80 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los servidores públicos obligados, deberán presentar la Declaración de Intereses, de manera inicial, por única ocasión durante los meses de mayo y junio del 2015, para llevarse a cabo, con posterioridad, en el mes de mayo de manera anual.
+> <small>(F. DE E., G.G. 28 DE MAYO DE 2015)</small>
+
+QUINTO. A la entrada en vigor del presente Decreto, en términos de lo dispuesto por los artículos 79 y 80 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los servidores públicos obligados, deberán presentar la Manifestación de Bienes y la Declaración de Intereses, de manera inicial, por única ocasión durante los meses de mayo y junio del 2015, para llevarse a cabo, con posterioridad, en el mes de mayo de manera anual.
