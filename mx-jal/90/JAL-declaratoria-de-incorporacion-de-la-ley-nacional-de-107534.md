@@ -4,7 +4,7 @@ identifier: "JAL-declaratoria-de-incorporacion-de-la-ley-nacional-de-107534"
 country: "mx"
 rank: "otro"
 publication_date: "2015-04-25"
-last_updated: "2015-04-25"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 DECLARATORIA DE INCORPORACIÓN DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL AL ORDEN JURÍDICO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
 Declaratoria publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -43,9 +43,13 @@ I. El día de su publicación en el periódico oficial "El Estado de Jalisco": A
 
 II. El día de su publicación en el periódico oficial "El Estado de Jalisco": En los municipios de Cabo Corrientes, Puerto Vallarta, Tomatlán, San Sebastián del Oeste, Mascota.
 
-III. 29 de mayo de 2015: Acatic, Arandas, Cañadas de Obregón, Jalostotitlán, Jesús María, Mexticacán, San Julián, San Miguel el Alto, Tepatitlán de Morelos, Valle de Guadalupe, Yahualica de González Gallo, San Ignacio Cerro Gordo, lxtlahuacán del Río, Cuquío.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-IV. 29 de mayo de 2015: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio, Villa Hidalgo.
+III. 29 de junio de 2015: Acatic, Arandas, Cañadas de Obregón, Jalostotitlán, Jesús María, Mexticacán, San Julián, San Miguel el Alto, Tepatitlán de Morelos, Valle de Guadalupe, Yahualica de González Gallo, San Ignacio Cerro Gordo, Ixtlahuacán del Río, Cuquío.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+IV. 29 de junio de 2015: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio, Villa Hidalgo.
 
 V. 24 de agosto de 2015: Autlán de Navarro, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlán, Tolimán, Tonaya, Tuxcacuesco, Unión de Tula, Cuautla, Ayutla.
 
@@ -106,3 +110,9 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MAYO DE 2015.
+
+ÚNICO. EI presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EI Estado de Jalisco".
