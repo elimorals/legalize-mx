@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2014-12-03"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 12 Y 22 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -39,7 +41,9 @@ CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### Capítulo Único
+> <small>(REFORMADO, 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO I. DEL OBJETO DEL CÓDIGO
 
 ###### ARTÍCULO 1.
 
@@ -111,11 +115,17 @@ XV. Programa Estatal: Al Programa Estatal de Desarrollo Urbano;
 
 XVI. Programa Municipal: Al Programa Municipal de Desarrollo Urbano;
 
-XVII. Programa de Centro de Población: Al instrumento de planeación que incorpora los objetivos nacionales y estatales del desarrollo urbano, y que los concretiza en políticas, instrumentos y acciones que a nivel de centro de población, tiendan a reforzar los objetivos mencionados y a lograr un desarrollo equilibrado del centro de población;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-XVIII. Programa Parcial: A los instrumentos de planeación del desarrollo urbano y el ordenamiento territorial, en áreas menores contenidas en un municipio o centro de población;
+XVII. Programa de Centro de Población: Al Programa de Centro de Población de Desarrollo Urbano;
 
-XIX. Programa Sectorial: Al instrumento de planeación de un sector o aspecto específico de la actividad social o económica, entre los que se pudieran considerar la agricultura, industria, turismo, educación, salud, vialidad y transporte, asentamientos humanos, comunicaciones, entre otros;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XVIII. Programa Parcial: A los Programas Parciales de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XIX. Programa Sectorial: A los Programas Sectoriales de Desarrollo Urbano;
 
 XX. Reservas: Las áreas previstas en un programa de desarrollo urbano para el crecimiento de un centro de población, o para establecer un adecuado equilibrio de éste con el territorio y su medio ambiente;
 
@@ -123,7 +133,9 @@ XXI. Reserva Ecológica: Área determinada en un programa de desarrollo urbano, 
 
 XXII. Secretaría: La Secretaría de Urbanismo y Medio Ambiente del Estado;
 
-XXIII. Sistema: El sistema estatal de información geográfica para la planeación del desarrollo regional y urbano; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXIII. Sistema: El Sistema Estatal de Información para el Ordenamiento Territorial y el Desarrollo Urbano Sustentable; y,
 
 XXIV. Zona Metropolitana: El espacio territorial de influencia dominante de un centro de población.
 
@@ -229,15 +241,179 @@ Las acciones, inversiones, obras y servicios reguladas por este Código, deberá
 
 Para cumplir con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, el derecho de propiedad, de posesión o cualquier otro derivado de la tenencia de bienes inmuebles ubicados en dichos centros, se sujetará a las provisiones, reservas, usos y destinos que determinen las autoridades competentes, en los programas de desarrollo urbano aplicables y serán obligatorias para los propietarios o poseedores públicos o privados de los bienes inmuebles, independientemente del régimen legal que los regule.
 
-### Capítulo I. De las Autoridades y Organismos Auxiliares
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-### Capítulo II. De las Autoridades Estatales
+### CAPÍTULO II. DE LA PLANEACIÓN DEL ORDENAMIENTO DEL TERRITORIO Y DESARROLLO URBANO SUSTENTABLE
 
-### Capítulo III. De los Ayuntamientos
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Bis.
+
+La planeación y regulación del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población forman parte del Sistema Nacional de Planeación Democrática, como una política que coadyuva al logro de los objetivos de los planes nacionales, estatales y municipales de desarrollo.
+
+La planeación a que se refiere el párrafo anterior, estará a cargo de manera concurrente de la Federación, del Estado de Michoacán y de sus municipios, de acuerdo a la competencia que les determina la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Ter.
+
+El ordenamiento y la regulación de los asentamientos humanos, la planeación del desarrollo urbano, la ordenación del territorio y la coordinación metropolitana deberán considerar los siguientes principios básicos:
+
+I. Racionalidad: Desarrollo ordenado y equilibrado, evitando la dispersión de los asentamientos que provoca dispendio de tiempo, energía y recursos para la movilidad urbana;
+
+II. Viabilidad: Posibilidad de todos los ciudadanos de recibir servicios públicos básicos;
+
+III. Equidad e Inclusión Social: Garantizar el ejercicio pleno de los derechos ciudadanos en condiciones de igualdad; garantizar el acceso a los espacios públicos, a políticas sociales incluyentes que fortalezcan la convivencia, la cohesión social y los satisfactores urbanos fundamentales (suelo apto, vivienda, infraestructura, equipamientos sociales, espacio público, empleo, transporte público y no motorizado);
+
+IV. Seguridad: Garantizar las condiciones que eviten riesgos naturales y antropogénicos en y derivados de los asentamientos humanos;
+
+V. Democracia Participativa: Que garantice la vigencia del estado de derecho y que propicie la participación de la sociedad;
+
+VI. Condiciones para la Productividad, Competitividad y Complementariedad: Lograr que las ciudades desarrollen actividad económica que genere empleo suficiente y remunerativo y que permita el financiamiento de su desarrollo;
+
+VII. Sustentabilidad: Mejoramiento continuo de la calidad de vida, sin comprometer el desarrollo de las futuras generaciones, al garantizar la preservación del medio ambiente y el respeto a los recursos naturales de su entorno;
+
+VIII. Equilibrio Regional: Lograr que el crecimiento de los centros de población, conurbaciones y metrópolis, se dé en el marco de una visión integral del desarrollo regional acorde con la legislación en la materia;
+
+IX. Accesibilidad para personas con discapacidad; y,
+
+X. La Protección al Patrimonio Cultural.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO III. DE LA ESTRATEGIA TERRITORIAL ESTATAL INTERSECTORIAL
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Quater.
+
+La Estrategia Territorial Estatal Intersectorial y los planos y/o programas de desarrollo urbano, serán el sustento territorial para la formulación de la planeación económica y social en el Estado y sus municipios, para concretar los objetivos, estrategias, metas y prioridades del desarrollo, ajustándose a los criterios de ubicación espacial y las prioridades definidas en dichos planes o programas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Quinquies.
+
+La Estrategia Territorial Estatal Intersectorial y los programas a que se refiere el Artículo 62, tendrán como objetivo definir y orientar la inversión pública, así como inducir las obras, acciones e inversiones de los sectores privado y social.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Sexies.
+
+La Estrategia Territorial Estatal Intersectorial con visión de largo plazo, representará la dimensión territorial del desarrollo Estatal, organizará el sistema urbano del Estado y definirá el marco para ordenar las actividades sociales y económicas en el territorio desde una perspectiva integral y sustentable, atendiendo los aspectos sociales, económicos, ambientales y físico-espaciales.
+
+La Estrategia Territorial Estatal Intersectorial será el instrumento para:
+
+I. Configurar la dimensión espacial del desarrollo del Estado en el largo plazo y en consecuencia, la dimensión espacial del plan Estatal de desarrollo, y el marco básico de referencia de los programas sectoriales y regionales del Estado;
+
+II. Aplicar un enfoque territorial que sustente la acción articulada, sinérgica y eficaz de los diferentes sectores de la Administración Pública Estatal;
+
+III. Impulsar la autosuficiencia de los sistemas urbano-rurales del Estado;
+
+IV. Concentrar esfuerzos coordinados en las regiones con ventajas comparativas para impulsar el desarrollo económico y generar empleos; y en las más postergadas para crear una red de protección social y promover sus opciones y capacidades efectivas de desarrollo, en concordancia con la legislación de planeación aplicable;
+
+V. Consolidar los enlaces y corredores principales que se requiere para articular las regiones entre sí y con otros estados;
+
+VI. Definir los elementos genéricos de infraestructura, equipamientos y servicios básicos que requieren las ciudades, áreas conurbadas y zonas metropolitanas de cada sistema urbano-rural y promover su dotación por los diferentes sectores; y,
+
+VII. Lograr una mayor sustentabilidad, al propiciar un desarrollo más ordenado, más compacto, que reduzca la ocupación urbana de tierras agrícolas, áreas con valor ambiental y reservas naturales, propicie un uso racional del agua y de la energía, y contribuya a respetar la capacidad de carga de los sumideros locales y globales, en concordancia con la legislación ambiental aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Septies.
+
+La Estrategia Territorial Estatal Intersectorial podrá ser modificada cada diez años tomando como base el Censo de Población y Vivienda o cuando ocurran cambios socio-espaciales profundos en el país y el Estado. Su elaboración y modificación seguirán el siguiente proceso:
+
+I. El Ejecutivo Estatal convocará a los representantes de las dependencias y organismos Estatales y al Consejo Estatal de Ordenamiento Territorial, a fin de que de manera conjunta elaboren la propuesta de Estrategia Territorial Estatal Intersectorial;
+
+II. La propuesta será puesta en consulta de los municipios del Estado para recibir sus aportaciones, a través del Consejo Estatal de Ordenamiento Territorial y el Ejecutivo Estatal; y,
+
+III. Elaborada la propuesta definitiva será sometida al Congreso del Estado para su aprobación.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Octies.
+
+El contenido de la Estrategia Territorial Estatal Intersectorial deberá establecer:
+
+I. La regionalización del Estado, en concordancia con la ley en la materia;
+
+II. Las prioridades, especialización y vocaciones de ciudades, de acuerdo a sus características socio-económicas y culturales, su localización en el entorno regional y nacional, sus capacidades de absorción de población y actividades y su crecimiento con relación a las condiciones ambientales, en particular de acceso al agua;
+
+III. La creación, ampliación o mejoramiento de las infraestructuras, equipamientos e instalaciones fundamentales para el desarrollo de las regiones y el Estado y las prioridades de localización y ejecución en el tiempo;
+
+IV. Las orientaciones para la fundación, crecimiento, mejoramiento, consolidación de ciudades, de acuerdo a sus vocaciones y capacidades, bajo el principio de un crecimiento y desarrollo sustentable;
+
+V. Las orientaciones para la preservación, conservación y mejoramiento de áreas de valor ambiental o para el desarrollo de actividades no urbanas, como agropecuarias, forestales y mineras, entre otras, en concordancia con la legislación ambiental; y,
+
+VI. Las estrategias de ejecución de las propuestas y de los instrumentos que permitirán dicha ejecución, acordes con lo establecido en el Sistema Nacional de Planeación Democrática.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO IV. PARTICIPACIÓN CIUDADANA Y DERECHOS URBANOS FUNDAMENTALES
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Nonies.
+
+La participación ciudadana se concibe como una forma para atender y resolver la problemática, con las decisiones y acciones de gobierno, con el fin de construir un desarrollo urbano sustentable, que deberá promoverse de manera esencial para la consulta, propuestas, elaboración de programas, aportaciones de mano de obra y de recursos materiales y económicos, en la ejecución y vigilancia de las acciones de desarrollo urbano, regional y vivienda previstas en este Código.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 7 Decies.
+
+Toda persona, agrupación u organización social tiene el derecho de participar en estas acciones de forma libre y directa, mediante los mecanismos que se establezcan por la Secretaría, el Instituto, los municipios y las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+ARTÍCULO 7 Undecies.- Se reconocen como derechos urbanos fundamentales de los residentes de asentamientos humanos en centros urbanos y rurales de población en el Estado, los siguientes:
+
+I. Al libre tránsito en vialidades y bienes de propiedad pública, sin impedimentos materiales; y el relativo a la movilidad y a la accesibilidad de los centros urbanos y rurales de población;
+
+II. A la belleza urbana y al disfrute del espacio público;
+
+III. A contar con servicios públicos;
+
+IV. Al acceso transparente a la información generada en los procesos de planeación y administración del suelo, incluyendo licencias, autorizaciones o permisos de cualquier índole;
+
+V. A la calidad del medio ambiente, entendida como tal la calidad de vida integral, es decir, la preservación del medio ambiente para las generaciones futuras. Este derecho incluye el uso racional de los recursos naturales y energéticos, el patrimonio cultural y la protección frente a las agresiones a la calidad el (sic) entorno;
+
+VI. A una vivienda digna y decorosa;
+
+VII. A la ejecución de obras públicas de beneficio colectivo;
+
+VIII. A que se cumplan las previsiones y contenidos de los Programas para el ordenamiento del territorio, Programas para el desarrollo urbano de los centros de población, Programas para la conciliación de acciones y políticas y Esquemas de desarrollo urbano;
+
+IX. A la identidad colectiva dentro de los centros de población, con el fin de que la organización interna del espacio urbano facilite la cohesión sociocultural de las comunidades y asentamientos humanos;
+
+X. A presentar, de forma colectiva o individual, denuncias urbanas e impugnaciones contra actos hechos jurídicos que violenten la normatividad, legislación o programas urbanos y ambientales; y,
+
+XI. El colectivo a la preservación de bienes considerados como patrimonio cultural.
+
+Los derechos urbanos fundamentales reconocidos en este ordenamiento otorgan interés jurídico individual o colectivo para ser exigibles y reparables mediante mecanismos y procedimientos de restitución de garantías urbanísticas, sean de naturaleza jurisdiccional, administrativa o constitucional.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+ARTÍCULO 7 Duodecies.- La participación ciudadana en materia de asentamientos humanos comprenderá:
+
+I. La formulación, modificación, evaluación y vigilancia del cumplimiento de todos los instrumentos de planeación que regula el presente Código;
+
+II. La determinación y control de la zonificación, usos y destinos de áreas y predios de los centros de población;
+
+III. La promoción de acciones y obras urbanas para el mejoramiento y conservación de zonas populares de los centros de población y de las comunidades rurales e indígenas, así como en materia de vivienda;
+
+IV. La protección del patrimonio cultural edificado de los centros de población;
+
+V. La preservación del medio ambiente en los centros de población;
+
+VI. La prevención, control y atención de riesgos y contingencias ambientales y urbanas en los centros de población;
+
+VII. La solicitud de aplicación de sanciones inmediatas y medidas de seguridad con relación a proyectos, obras o actividades que vulneren la normatividad de los programas, el presente Código; y,
+
+VIII. La autoridad Estatal y los municipios promoverán la participación ciudadana a través de convocatorias, publicaciones y la difusión en los diferentes medios de comunicación del contenido del presente Código, así como de los programas y actividades vinculadas.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COORDINACIÓN DE AUTORIDADES
 
-### Capítulo I. De los Organismos de Participación Social
+### Capítulo I. De las Autoridades y Organismos Auxiliares
 
 ###### ARTÍCULO 8.
 
@@ -257,9 +433,19 @@ I. La Comisión Estatal de Desarrollo Urbano;
 
 II. Las comisiones municipales de desarrollo urbano;
 
-III. Las comisiones de zonas conurbadas que se establezcan en el Estado; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+III. Las comisiones de zonas conurbadas que se establezcan en el Estado;
 
 IV. Las asociaciones o patronatos que se integren para promover la conservación y mejoramiento del patrimonio cultural del Estado.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+V. Los Institutos Municipales de Planeación; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VI. Los Observatorios Urbanos.
 
 ###### ARTÍCULO 10.
 
@@ -269,7 +455,7 @@ Las dependencias y entidades de los gobiernos Estatal y municipales ejercerán s
 
 La coordinación y concertación que en materia de ordenamiento territorial, desarrollo urbano, vivienda, infraestructura, vialidad y patrimonio cultural, se sujetará a las disposiciones previstas en este Código y demás leyes aplicables.
 
-### Capítulo II. De las Comisiones de Zonas Conurbadas
+### Capítulo II. De las Autoridades Estatales
 
 ###### ARTÍCULO 12.
 
@@ -363,7 +549,7 @@ XXVIII. Determinar y adoptar las medidas de seguridad en el ámbito de su compet
 
 XXIX. Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
-### Capítulo III. Del Auxilio de otras Autoridades
+### Capítulo III. De los Ayuntamientos
 
 ###### ARTÍCULO 14.
 
@@ -435,7 +621,7 @@ XXXII. Las demás que les señalen este Código y otras disposiciones jurídicas
 
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN SOCIAL
 
-### Capítulo IV. De la Denuncia Ciudadana
+### Capítulo I. De los Organismos de Participación Social
 
 ###### ARTÍCULO 15.
 
@@ -659,7 +845,7 @@ Las comisiones municipales tendrán como domicilio la cabecera de sus respectivo
 
 Las comisiones municipales deberán sesionar cada treinta días de manera ordinaria y estar presentes por lo menos la mayoría de sus integrantes permanentes y de manera extraordinaria cuando sea necesario o lo soliciten la mitad de sus integrantes, mismas que serán convocadas por escrito por su Presidente a través del Secretario Técnico, con un mínimo de cuatro días hábiles de anticipación y en el que se deberá integrar el orden del día de los asuntos a tratar; las decisiones se tomarán por mayoría de votos de los presentes.
 
-### Capítulo I. Del Sistema Estatal de Planeación del Desarrollo Urbano
+### Capítulo II. De las Comisiones de Zonas Conurbadas
 
 ###### ARTÍCULO 38.
 
@@ -741,23 +927,123 @@ Los vocales representantes sociales que integren las comisiones estatal y munici
 
 Dentro de los primeros seis meses del inicio de su gestión gubernamental las autoridades estatal y municipales deberán proceder a su renovación.
 
-### Capítulo II. Del Sistema Estatal de Información Geográfica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
 
-### Capítulo III. De los Instrumentos de Planeación
+### CAPÍTULO III. DE LOS INSTITUTOS MUNICIPALES DE PLANEACIÓN
 
-### Capítulo IV. De los Mecanismos de Coordinación y Concertación
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Bis.
+
+Los Institutos Municipales de Planeación son instancias municipales constituidas por mandato de ley para aquellos municipios que lo requieran por su crecimiento, siendo el área que realizará actividades de planeación y gestión del desarrollo social, urbano, entre otros aspectos.
+
+Los ayuntamientos del Estado deberán llevar al cabo las funciones que garanticen la planeación y operación urbanas, y en la medida de sus posibilidades implementar para el caso, sus Institutos Municipales de Planeación.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Ter.
+
+Los municipios promoverán la creación de Institutos Municipales de Planeación, como instancias técnicas descentralizadas de la administración pública municipal, con personalidad jurídica, creado por acuerdo de Cabildo para la planeación integral del territorio municipal el cual será responsable de coordinar el proceso de planeación estratégica del desarrollo integral del Municipio, con una visión de largo plazo, integrando a los sectores público, social y privado con el propósito de mejorar la calidad de vida de sus habitantes.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Quater.
+
+El Instituto Municipal de Planeación (IMPLAN) tendrá por objeto principal contribuir con el Ayuntamiento y la Administración Pública Municipal en el diseño, instrumentación, identificación, gestión, preparación, establecimiento y evaluación de planes, programas, proyectos, políticas, estrategias, acciones, normas, principios y bases para la integración y funcionamiento permanente de un sistema de planeación participativa, que promueva el desarrollo integral del Municipio y sus habitantes.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Quinquies.
+
+El Poder Ejecutivo, a través del (sic) Secretaría y los ayuntamientos a través de los Institutos Municipales de Planeación o el área encaminada a la planeación estratégica y gestión del desarrollo urbano en el territorio Municipal, deberán como mínimo:
+
+I. Realizar los diagnósticos para conocer las necesidades de la sociedad;
+
+II. Definir los objetivos, estrategias, metas, acciones e indicadores para el desarrollo del Estado y de los municipios, respectivamente;
+
+III. Dar seguimiento y evaluar la ejecución de los instrumentos del sistema de planeación en los ámbitos Estatal y Municipal, respectivamente, así como recomendar acciones para su correcta implementación;
+
+IV. Contar con una cartera de proyectos;
+
+V. Fomentar la cultura de la planeación Municipal;
+
+VI. Promover la constitución, administración y aprovechamiento de provisiones y reservas territoriales, la programación de acciones para la dotación de infraestructura pública y equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al paisaje, a la imagen urbana y al patrimonio cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades públicas y con la participación de los sectores social y privado;
+
+VII. Incrementar el impacto en los sistemas de planeación, para que estos sean sustentables y con visión integral a largo plazo;
+
+VIII. Promover la planeación participativa a través de la consulta con la sociedad organizada, dependencias y entidades de la administración Municipal, con la finalidad de elaborar, actualizar o modificar los planes o programas del Sistema Municipal de Planeación Integral;
+
+IX. Operar el Observatorio Urbano Municipal, para realizar investigaciones; analizar, evaluar y clasificar información estadística y científica, generando los indicadores y parámetros de la situación urbanística del Municipio, y estableciendo puntos de referencia con indicadores estatales; y,
+
+X. Las demás atribuciones que le confieran otros ordenamientos legales, y en caso de los municipios el Ayuntamiento y la Junta de Gobierno de los Institutos Municipales de Planeación como su autoridad máxima.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO IV. DE LOS OBSERVATORIOS URBANOS ESTATAL Y MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Sexies.
+
+El Gobierno Estatal a través de la Secretaría y los ayuntamientos promoverán la creación y funcionamiento de observatorios urbanos, constituidos como redes de información, con la participación plural de la sociedad y el Gobierno, para el estudio, investigación, organización y difusión de conocimientos sobre los problemas de los municipios, así como los nuevos modelos de políticas urbanas ambientales sustentables y de gestión pública.
+
+Los ayuntamientos del Estado deberán llevar al cabo las funciones que garanticen la planeación y operación urbanas, y en la medida de sus posibilidades implementar para el caso, sus Observatorios Urbanos.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Septies.
+
+Los Observatorios Urbanos tendrán a su cargo las tareas de difundir de manera sistemática y periódica, a través de indicadores, mediante sistemas de información geográfica, la información relativa a ordenamiento territorial y desarrollo urbano sustentable, así como la evolución de los fenómenos y problemas urbanos y metropolitanos de la entidad y de cada Municipio.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Octies.
+
+Los Observatorios Urbanos tendrán entre sus funciones operativas como mínimo:
+
+I. Trabajar con grupos asociados para desarrollar y aplicar indicadores, índices y mecanismos de evaluación adecuados para el área urbana y sus comunidades;
+
+II. Mantener sistemas de manejo de información y realizar evaluaciones y análisis de impacto a petición de las autoridades locales y los grupos sociales;
+
+III. Desarrollar capacidades para la generación, manejo, análisis y difusión de información urbana, incluyendo información empírica, de manera regular y consistente, y aplicar la información en la toma de decisiones;
+
+IV. Identificar condiciones, tendencias y temas prioritarios por medio de la investigación y los procesos consultivos en los que participan funcionarios locales y organizaciones de la sociedad civil;
+
+V. Proponer opciones para armonizar las políticas y estrategias sectoriales en el contexto del plan de acción local;
+
+VI. Cooperar con otros Observatorios Urbanos Locales para intercambiar conocimientos substantivos y metodológicos y difundir información en los ámbitos nacional, regional y global; y,
+
+VII. Producir un informe anual sobre el estado de la ciudad, que incluirá análisis comparativos de indicadores y una presentación de mejores prácticas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 47 Nonies.
+
+Los indicadores urbanos son los instrumentos de gestión que permiten identificar la realidad urbana, y servir de base para la formulación de políticas, programas y proyectos que la mejoren en forma continuada, y sostenible.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO V. DEL AUXILIO DE OTRAS AUTORIDADES
+
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 48.
 
 La Tesorería General del Estado, el Registro Público de la Propiedad Raíz en el Estado y del Comercio y las dependencias del Catastro Estatal y Municipal, de acuerdo a sus competencias, coadyuvarán a la observancia de las disposiciones de este Código y de los programas que se expidan en materia de desarrollo urbano y de vivienda estatales y municipales, en sus actos administrativos.
 
-### Capítulo V. Del Programa Estatal de Desarrollo Urbano
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO VI. DE LA DENUNCIA CIUDADANA
+
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 49.
 
 Toda persona que tenga conocimiento de que se hayan autorizado o se estén llevando a cabo actos o acciones en contravención a las disposiciones de este Código o los programas de desarrollo urbano aplicables, podrá presentar denuncia ciudadana a la autoridad competente, para que se dé inicio a los procedimientos administrativos respectivos y se apliquen, en su caso, las sanciones conducentes.
 
 Son autoridades competentes para recibir la denuncia, sin menoscabo de otras disposiciones aplicables la Secretaria y los ayuntamientos.
+
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 50.
 
@@ -771,6 +1057,8 @@ III. Produzcan daños en bienes considerados de valor cultural o natural en el E
 
 IV. Las personas físicas o morales que hayan sido notificadas de la afectación a un predio de su propiedad no lo cumplan en los términos establecidos.
 
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
+
 ###### ARTÍCULO 51.
 
 Para ejercer la denuncia ciudadana, será suficiente el escrito de la persona física o moral que la promueva y contendrá:
@@ -779,17 +1067,25 @@ I. Nombre y domicilio del denunciante; y,
 
 II. Relación de los hechos que motivan la denuncia con todos los datos inherentes a la misma.
 
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
+
 ###### ARTÍCULO 52.
 
 En su caso, la autoridad que reciba la denuncia, deberá turnarla de inmediato a la autoridad competente; las autoridades estatales o municipales deberán llevar un registro de las denuncias que ante ellas se presenten y de sus respectivas resoluciones. Lo anterior, sin perjuicio de que la autoridad receptora tome las medidas urgentes preventivas o correctivas convenientes.
+
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 53.
 
 La autoridad estatal o municipal, previo análisis de la procedencia de la denuncia, a más tardar dentro de los quince días hábiles siguientes a la presentación de la misma, hará del conocimiento del denunciante el trámite que se haya dado a aquélla y dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas, en su caso.
 
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
+
 ###### ARTÍCULO 54.
 
 Cuando los hechos que motiven una denuncia hubiesen ocasionado daños o perjuicios, quedarán a salvo los derechos de los interesados para que los hagan valer en la forma que consideren pertinentes.
+
+(REUBICADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 55.
 
@@ -797,231 +1093,401 @@ Tratándose de bienes de propiedad de la Federación, el Estado o Municipio, se 
 
 ## TÍTULO CUARTO. DE LA PLANEACION DEL DESARROLLO URBANO
 
-### Capítulo VI. De los Programas Regionales de Desarrollo Urbano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE PLANEACIÓN DEL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO SUSTENTABLE
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 55 Bis.
+
+El Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable es el conjunto de instrumentos técnicos, jurídicos y administrativos que nos permiten conducir, inducir e imponer el ordenamiento urbano deseado que nos permita un desarrollo equilibrado y sustentable de los centros de población en el Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 56.
 
-El Sistema Estatal de Planeación del Desarrollo Urbano en el Estado, estará a cargo en forma coordinada del Gobierno del Estado y de los ayuntamientos, de acuerdo a lo dispuesto en (sic) artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, este Código y demás normatividad aplicable.
+El Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable estará a cargo en forma coordinada del Gobierno del Estado y de los ayuntamientos, de acuerdo a lo dispuesto en los artículos 27, 115 y 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, la Ley General de Cambio Climático, este Código y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 56 Bis.
+
+El Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable en el Estado, tiene como objetivo establecer, alcanzar y preservar el ordenamiento urbano, que impulse el desarrollo urbano y el desarrollo integral de los centros de población, a través de los Institutos Municipales de Planeación o áreas de planeación estratégica establecidas para tal efecto.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 57.
 
-El Sistema de Planeación del Desarrollo Urbano en la Entidad, se integra por el Sistema de Información Geográfica, los instrumentos de planeación urbana y los mecanismos de coordinación y concertación.
+El Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable, se integra por los Institutos Municipales de Planeación, los Observatorio (sic) Urbanos, el Sistema de Información para el Ordenamiento Territorial y el Desarrollo Urbano Sustentable, los instrumentos de planeación urbana y los mecanismos de coordinación y concertación.
 
-### Capítulo VII. De los Programas de Zonas Conurbadas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO II. DEL SISTEMA ESTATAL DE INFORMACIÓN PARA EL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO SUSTENTABLE
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 58.
 
-Se establece el Sistema, como un instrumento de apoyo para las autoridades y los sectores de la sociedad, en la realización de actividades de planeación, investigación, académicas, evaluación, gestión y proyectos en materia de ordenamiento territorial, desarrollo urbano y vivienda.
+Se establece el Sistema, como un instrumento de apoyo para las autoridades y los sectores de la sociedad, en la realización de actividades de planeación, investigación, académicas, evaluación, gestión y proyectos en materia de ordenamiento territorial, desarrollo urbano sustentable de los centros de población y vivienda. Que se obtendrá a través del trabajo, acción e investigación de los observatorios urbanos los cuales serán vigilados, administrados y ejecutados por la Secretaría y los ayuntamientos a través de su área encargada de la planeación urbana.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 59.
 
-El Sistema se integra con la participación de las autoridades estatales y municipales, así como por sus dependencias y entidades, que cuenten con información relacionada con el desarrollo urbano y vivienda.
+El Sistema se integra con la participación de las autoridades estatales y municipales, así como por sus dependencias y entidades, que cuenten con información relacionada con el ordenamiento territorial, el desarrollo urbano sustentable y vivienda.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 60.
 
-El Sistema deberá identificar, registrar, procesar, difundir y mantener actualizada la información en materia de desarrollo urbano del Estado.
+El Sistema deberá identificar, registrar, procesar, difundir y mantener actualizada la información en materia de ordenamiento territorial y desarrollo urbano del Estado.
 
 ###### ARTÍCULO 61.
 
 El Sistema será establecido, instrumentado y coordinado por la Dirección de Catastro del Estado, según lo disponga la Ley.
 
-Las autoridades incorporarán al Sistema; la información contenida en los programas de desarrollo urbano y sus modificaciones; así como la catastral de los predios.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
-### Capítulo VIII. De los Programas Municipales de Desarrollo Urbano
+La Secretaría y las autoridades municipales encargados (sic) de la planeación del ordenamiento del territorio y el desarrollo urbano sustentable tendrán la obligación de hacer llegar a la Dirección de Catastro la información referente a la formulación, modificación total o parcial de los programas de desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Lo anterior es aplicable también para el caso de la aprobación de cambios de uso de suelo aprobados en un periodo de tiempo distinto al de la formulación, modificación total o parcial de los programas de desarrollo urbano.
+
+### Capítulo III. De los Instrumentos de Planeación
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 62.
 
-Son instrumentos de planeación urbana los programas siguientes:
+La planeación y regulación del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano sustentable y de los centros de población, se llevarán a cabo a través de los siguientes instrumentos:
 
-l. Básicos:
+I. Programas para el ordenamiento del territorio:
 
-a. El Programa Estatal;
+a) El Programa Estatal de Desarrollo Urbano;
 
-b. Los programas municipales;
+b) El Programa Municipal de Desarrollo Urbano;
 
-c. Los programas de zonas conurbadas; y,
+c) (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-d. Los programas de centro de población;
+d) (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-II. Derivados:
+II. Programas para el desarrollo urbano de los centros de población:
 
-a. Los programas parciales;
+a) Los Programas de Desarrollo Urbano de los Centros de Población;
 
-b. Los programas sectoriales; y,
+b) Los Programas Parciales de Desarrollo Urbano; y,
 
-c. Los programas regionales.
+c) Los Programas Sectoriales.
+
+III. Programas para la conciliación de acciones y políticas:
+
+a) Los Programas Regionales de Desarrollo Urbano;
+
+b) Los Programas de Ordenamiento y Regulación de Zonas Conurbadas;
+
+c) Los Programas de Ordenamiento y Regulación de Zonas Metropolitanas
+
+IV. Esquemas de desarrollo urbano.
+
+Los programas a que se refiere este artículo, se regirán por las disposiciones de esta Ley y por los reglamentos y normas administrativas estatales y municipales aplicables.
+
+La Federación, el Estado y los municipios deberán convenir mecanismos de coordinación para el ordenamiento territorial y urbano de los municipios ubicados en dos o más entidades, cuando se trate de áreas conurbadas o zonas metropolitanas de acuerdo con la legislación federal y este Código.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 63.
 
-Los programas básicos y derivados serán congruentes con los planes o programas que expidan los gobiernos Federal y Estatal con base en las leyes General de Asentamientos Humanos, Planeación, Vivienda y General del Equilibrio Ecológico y Protección al Medio Ambiente, así como sus correspondientes estatales.
+Los programas mencionados en el Artículo 62 deberán ser verticalmente complementarios y congruentes entre ellos, y en sentido transversal congruentes con los demás sectores involucrados, como lo son el Plan de Desarrollo Integral del Estado de Michoacán, los Programas de Ordenamiento Ecológico del Territorio, los atlas de riesgos, los programas de vivienda, con los planes o programas que expidan con base en la Ley General de Asentamientos Humanos, la Ley General de Planeación, la Ley Federal de Vivienda, la Ley General del Equilibro Ecológico y Protección al Ambiente, la Ley General de Cambio Climático y la Ley General de Responsabilidad Ambiental así como sus correspondientes estatales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 64.
 
-Los programas de desarrollo urbano previstos en este Código, contendrán los elementos básicos que hagan posible su congruencia y uniformidad metodológica para su debida ejecución técnica, jurídica y administrativa integrando como mínimo los siguientes:
+Los programas de desarrollo urbano previstos en este Código, se sujetarán a las guías metodológicas expedidas por la Secretaría en congruencia con las normas establecidas por la Secretaría de Desarrollo Agrario Territorial y Urbano, mismas que dentro de su estructura general contendrán los elementos que hagan posible su congruencia y uniformidad metodológica para su debida ejecución técnica, jurídica y administrativa integrando para ello los siguientes componentes básicos:
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2015)</small>
+
+Antecedentes:
 
 I. Introducción. La motivación, denominación, antecedentes, ámbito espacial de aplicación y fundamentación jurídica;
 
-II. Diagnóstico-Pronóstico. En el que se analizará la situación actual y las tendencias del área o sector del desarrollo urbano que comprenda el programa, en sus aspectos socioeconómicos, físicos, poblacionales, de infraestructura, equipamiento, servicios, vivienda, riesgos y vulnerabilidad, medio ambiente, vialidad y transporte, imagen urbana, suelo y demás componentes urbanos, así como un análisis de fortalezas, oportunidades, debilidades y amenazas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-III. Objetivos. En los que se contemplarán los propósitos o finalidades que se pretenden alcanzar con la ejecución del programa respectivo;
+II. Diagnóstico-Pronóstico. En el que se analizará la realidad actual sus necesidades, problemas, pronósticos, tendencias del área o los componentes que comprende el programa: Medio Físico Natural, Medio Ambiente, Riesgos y Vulnerabilidad, Medio Físico Transformado, Aspectos Socioeconómicos, Unidades del Paisaje, Administración del Desarrollo Urbano;
 
-IV. Metas. En las que se precisarán las acciones, obras o servicios, de acuerdo con los objetivos planteados en el corto, mediano y largo plazo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-V. Los mecanismos de congruencia con los diversos programas de la materia y del medio ambiente;
+III. Diagnóstico. Una evaluación del programa anterior vigente, en caso de que exista, valorando su grado de cumplimiento para definir las nuevas condiciones de planeación, estos datos constituyen las fuentes reales del programa;
 
-VI. Estrategias. En las que se establecerán los lineamientos y políticas del programa y las alternativas para la ejecución del mismo;
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
-VII. Corresponsabilidad sectorial. Se establecerán los responsables de la ejecución de las acciones, obras o servicios, de las inversiones y los criterios de concertación con los sectores público, social y privado;
+Nivel Normativo:
 
-VIII. Acciones de inversión. En las que se contendrán las prioridades del gasto público, privado y social;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-IX. Bases Financiero-Programáticas. En las que se preverán los recursos disponibles para alcanzar las estrategias;
+IV. Los mecanismos de congruencia y complementariedad con los demás programas de desarrollo urbano y la congruencia con los demás sectores relacionados, en la elaboración de los mismos;
 
-X. Instrumentos de política. Contendrán el conjunto de medidas, mecanismos y disposiciones jurídicas, técnicas y administrativas, que permitan la institucionalización, ejecución, control y evaluación del programa;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+V. Objetivos. Propósitos o finalidades tanto generales como particulares de cada sector o componente urbano ambiental a corto mediano y largo plazo definidos a partir de las necesidades que tiene la comunidad, y de las conclusiones del diagnóstico-pronostico;
+
+Los que se establezcan no programáticos de la imagen objetivo, en el marco de los contenidos y alcances de cada programa en particular, atendiendo la complementariedad y congruencia que debe tener cada programa con los demás, que en conjunto conforman los Instrumentos de Planeación.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VI. Imagen objetivo. Se prefiguran los principios característicos del área que se desea conseguir con el programa respectivo;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VII. Regulación normativa propias del programa que permitan regular los usos, destinos, los proyectos urbanos, las reservas, las obras, servicios urbanos, imagen, restricciones, afectaciones, limitaciones y en general las modalidades a la propiedad;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VIII. Metas. En las que se precisarán las acciones, obras o servicios, de acuerdo con los objetivos planteados en el corto, mediano y largo plazo;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+IX. Los mecanismos de congruencia y complementariedad con los demás programas de desarrollo urbano y la congruencia con los demás sectores relacionados, en la elaboración de los mismos;
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Nivel Estratégico, que contendrá:
+
+a. Los ordenamientos y políticas de desarrollo urbano necesarias; y,
+
+b. Las alternativas para la ejecución del mismo, que nos permita conducir, inducir e imponer normas que garanticen el ordenamiento urbano necesario para el desarrollo deseado.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
+
+Nivel Programático y de Corresponsabilidad Sectorial:
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+X. Corresponsabilidad sectorial. Se establecerán los responsables de la ejecución de las acciones, obras o servicios, de las inversiones y los criterios de concertación con los sectores público, social y privado;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
 XI. Proyectos estratégicos. Contendrán los proyectos que deberán ejecutarse de manera prioritaria;
 
-XII. Estructura de organización y coordinación para la formulación, ejecución, control, evaluación; actualización y modificación total o parcial del programa; y,
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
-XIII. Anexo gráfico. Que expresará en una forma descriptiva y clara el contenido básico del programa y la ubicación espacial de los proyectos, obras, acciones y servicios.
+Nivel Instrumental:
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XII. Instrumentos de política. Contendrán el conjunto de medidas, mecanismos y disposiciones jurídicas, técnicas y administrativas, que permitan la institucionalización, ejecución, control y evaluación del programa;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XIII. Estructura de organización y coordinación para la formulación, ejecución, control, evaluación, actualización y modificación total o parcial del programa; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XIV. Anexo gráfico. La expresión gráfica, virtual y planimetría de los componentes del programa en sus niveles de diagnóstico, estrategias, programático y demás conceptos que se considere detallar gráficamente que expresará en una forma descriptiva y clara el contenido del programa y la ubicación espacial de los proyectos, obras, acciones y servicios.
 
 Para el caso de los programas municipal y de centro de población, se deberán atender las disposiciones contenidas en el Libro Segundo de las Bases para la Formulación de los Programas de Desarrollo Municipal de este Código.
 
-### Capítulo IX. De los Programas de Desarrollo Urbano de los Centros de Población
+### Capítulo IV. De los Mecanismos de Coordinación y Concertación
 
 ###### ARTÍCULO 65.
 
 La planeación, coordinación y concertación de acciones, se realizará a través del Subcomité correspondiente del Comité de Planeación para el Desarrollo del Estado de Michoacán o del Comité de Planeación para el Desarrollo del Municipio, a efecto de evitar duplicidades.
 
-### Capítulo X. De los Programas Parciales de Desarrollo Urbano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO V. DEL PROGRAMA ESTATAL DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 66.
 
-El Programa Estatal es el instrumento rector de esta materia en el Estado. Se integrará con los estudios, objetivos, políticas, normas, lineamientos, reglas, disposiciones y mecanismos tendientes a promover el desarrollo integral de los asentamientos humanos en la Entidad; establecerá el marco de referencia en materia de ordenamiento territorial y de desarrollo urbano de los asentamientos humanos para guiar y dar congruencia a las acciones de la administración pública estatal, así como las que se realizan con la participación de los ayuntamientos, la federación y los particulares.
+El Programa Estatal es un instrumento técnico-jurídico y administrativo de la planeación urbana, para el ordenamiento y regulación de los asentamientos humanos en el estado, que establece las políticas para el ordenamiento territorial y de desarrollo urbano (fundación, mejoramiento y crecimiento) de los centros de población en el Estado.
 
 ###### ARTÍCULO 67.
 
 El Programa Estatal, contendrá además de los elementos básicos a que se refiere el artículo 64 de este Código, los siguientes:
 
-I. Los mecanismos de congruencia con el Plan Nacional de Desarrollo, los Programas Nacionales de Desarrollo Urbano y Vivienda, el Plan Estatal de Desarrollo, el Ordenamiento Ecológico del Territorio Estatal y sus derivados, expedidos por los gobiernos federal y estatal;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. La estrategia general del desarrollo urbano que deberán incluir como mínimo, el ordenamiento del territorio y las acciones y elementos siguientes:
+I. La determinación del sistema estatal de ciudades deseado;
 
-a. El Sistema Estatal de Centros de Población o ciudades;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-b. Las áreas geográficas y sectores prioritarios;
+II. La determinación de los sistemas de enlace deseado;
 
-c. Las orientaciones para el desarrollo sustentable de las regiones del Estado, en función de sus recursos naturales, de sus actividades productivas y del equilibrio entre los asentamientos humanos y sus condiciones ambientales;
+a. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-d. Lo relativo a las zonas conurbadas;
+b. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-e. Los servicios públicos y equipamiento de carácter regional;
+c. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-f. La clasificación básica de las aptitudes del suelo en el territorio del Estado, en función de la vocación del suelo;
+d. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-g. Los requerimientos globales de reservas territoriales para el desarrollo urbano y la vivienda, así como los mecanismos para satisfacer dichas necesidades;
+e. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-h. Las normas generales en materia de restricciones y características de las obras y las instalaciones, en las zonas de riesgo o vulnerables;
+f. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-i. La determinación de espacios para la fundación de los centros de población;
+g. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-j. Los criterios y lineamientos generales para la conservación, mejoramiento y crecimiento de los centros de población;
+h. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-k. La infraestructura básica necesaria para la realización de la sistematización urbana y para el desarrollo de los centros de población;
+i. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-l. La integración y aplicación de las medidas de protección de áreas naturales protegidas en las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población, para asegurar la congruencia con el Ordenamiento Ecológico Territorial del Estado;
+j. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-m. Las políticas generales para el ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población;
+k. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-n. La estrategia general para prevenir los impactos negativos en el medio ambiente urbano y rural, originados por la fundación, ordenamiento, conservación, mejoramiento y crecimiento de los centros de población; y,
+l. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-o. Las estrategias que orienten la inversión pública y privada a proyectos prioritarios para el desarrollo regional y urbano de los centros de población del Estado.
+m. (DEROGADO, P.O. 28 DE MAYO DE 2015)
+
+n. (DEROGADO, P.O. 28 DE MAYO DE 2015)
+
+o. (DEROGADO, P.O. 28 DE MAYO DE 2015)
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+III. La determinación de la jerarquía y nivel de equipamiento necesario;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+IV. La determinación de las políticas de desarrollo urbano requeridas; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+V. La identificación de las zonas conurbadas y metropolitanas.
 
 ###### ARTÍCULO 68.
 
 El proyecto de programa será formulado, ejecutado, controlado y evaluado por la Secretaría, con la participación de las autoridades federales y estatales vinculadas, los ayuntamientos y los sectores social y privado, dentro de los mecanismos de coordinación y concertación establecidos en este Código.
 
-### Capítulo XI. De los Programas Sectoriales de Desarrollo Urbano
+### Capítulo VI. De los Programas Regionales de Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 69.
 
-Los Programas Regionales contendrán, además de los elementos señalados en el artículo 64 de este Código, los siguientes:
+Los Programas Regionales de Desarrollo Urbano son instrumentos técnico-jurídicos y administrativos de la planeación urbana, que tiene como finalidad coordinar y compatibilizar los objetivos y políticas para el ordenamiento y regulación de los asentamientos humanos en una región homogénea, estableciendo políticas específicas para el ordenamiento territorial y de desarrollo urbano (fundación, mejoramiento y crecimiento) de los centros de población en dicha región estratégicamente establecida, y contendrán además de los elementos básicos a que se refiere el artículo 64 de este Código, los siguientes:
 
-I. Las bases de coordinación que se establezcan entre las dependencias y organismos de los Gobiernos Estatal y municipales y, en su caso, Federal, cuyas acciones incidan en el desarrollo regional;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. La propuesta para el ordenamiento y regulación del territorio, que incluya:
+I. La determinación estratégica de la región homogénea como ámbito y jurisdicción del programa; y,
 
-a. El sistema jerarquizado de los centros de población y zonas preferentes de desarrollo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-b. El esquema de ordenamiento territorial;
+II. La conciliación de las políticas y acciones de desarrollo urbano en los casos de centros de población en una zona homogénea estratégicamente determinada para su consideración e incorporación en los instrumentos administrables del ordenamiento urbano para su aplicación debida en cada centro de población involucrado.
 
-c. El señalamiento de las áreas para las provisiones requeridas en la fundación de centros de población;
+a. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-d. La determinación del equipamiento y de las obras de infraestructura básica a nivel regional; y,
+b. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-e. Las acciones aplicables en las áreas rurales y urbanas, desde una perspectiva regional;
+c. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-III. Los lineamientos y estrategias para:
+d. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-a. Propiciar un crecimiento equilibrado de la región y una distribución equitativa de sus beneficios;
+e. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-b. Proteger el ambiente y mantener el equilibrio ecológico, en las cuencas y microcuencas;
+III. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-c. Fortalecer y ampliar los programas de desconcentración y descentralización de las actividades económicas y gubernamentales;
+a. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-d. El establecimiento de políticas de desarrollo urbano, que tiendan a corregir los desequilibrios socioeconómicos regionales y los asentamientos humanos no controlados; y,
+b. (DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-IV. Los proyectos y estudios estratégicos tendientes a optimizar la inversión pública, privada y social, a fin de promover un adecuado desarrollo urbano.
+c. (DEROGADO, P.O. 28 DE MAYO DE 2015)
+
+d. (DEROGADO, P.O. 28 DE MAYO DE 2015)
+
+IV. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 70.
 
 Los programas regionales serán formulados, ejecutados, controlados y evaluados por la Secretaría, en coordinación con los ayuntamientos correspondientes y la Comisión Estatal.
 
-### Capítulo XII. De las Zonas Metropolitanas y Conurbaciones
+### Capítulo VII. De los Programas de Zonas Conurbadas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 71.
 
-Los programas de zonas conurbadas contendrán, además de los elementos básicos a que se refiere el artículo 64 de este Código, los siguientes:
+Los Programas (sic) Zonas Conurbadas son instrumentos técnico-jurídicos y administrativos de la planeación urbana, que tienen como finalidad conciliar los objetivos, políticas y acciones para el ordenamiento y regulación de los centros de población conurbados de dos o más municipios, a través de acciones de fundación, conservación, mejoramiento y crecimiento de interés común y contendrán además de los elementos básicos a que se refiere el artículo 64 de este Código, los siguientes:
 
-I. La congruencia del programa, con los programas estatal y municipales de desarrollo urbano;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. La delimitación de la zona conurbada;
+I. La determinación estratégica del límite de la zona conurbada, como ámbito y jurisdicción del programa, a nivel de centros de población; y,
 
-III. La zonificación primaria del territorio;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-IV. La determinación de las acciones de fundación, conservación, mejoramiento y crecimiento así como la preservación del equilibrio ecológico de los centros de población comprendidos en la zona conurbada;
+II. La conciliación de las políticas de desarrollo urbano en los casos de centros de población que constituyan una zona conurbada y su consideración e incorporación en los instrumentos administrables del ordenamiento urbano para su aplicación en cada centro de población.
 
-V. Las reservas, usos y destinos de áreas o predios comprendidos en la zona conurbada;
+III. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-VI. Las bases de los convenios que al efecto celebren los ayuntamientos integrantes de la conurbación y el Gobierno del Estado;
+IV. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-VII. Las acciones e inversiones para la dotación de infraestructura, equipamiento y servicios urbanos que sean comunes a los centros de población de la zona conurbada; y,
+V. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-VIII. Las demás que se estimen necesarias para el cumplimiento del objeto de la declaratoria de la zona conurbada.
+VI. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+VII. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+VIII. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 72.
 
-Los programas de zonas conurbadas, se regirán por lo dispuesto en la Ley General de Asentamientos Humanos, este Código y el convenio de conurbación respectivo.
+Los Programas de Zonas Conurbadas, se regirán por lo dispuesto en la Ley General de Asentamientos Humanos, este Código, el convenio de conurbación respectivo y en su caso la legislación en la materia de otras entidades, cuando se trate de conurbaciones interestatales.
 
 ###### ARTÍCULO 73.
 
 Los programas de zonas conurbadas serán formulados, aprobados, ejecutados, controlados y evaluados por la Comisión de Zona Conurbada respectiva, en coordinación con los ayuntamientos integrantes.
 
-### Capítulo XIII. De la Formulación de los Programas de Desarrollo Urbano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO VIII. DE LOS PROGRAMAS MUNICIPALES DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 74.
 
-Los programas municipales, contendrán como mínimo lo dispuesto en el Capítulo I del Libro Segundo de este Código.
+Los Programas Municipales de Ordenamiento Territorial y Desarrollo Urbano Sustentable son instrumentos técnico-jurídicos y administrativos de la planeación urbana, para el ordenamiento y regulación de los asentamientos humanos en el Municipio no contemplados a nivel Estatal, que establece complementariamente los lineamientos de política para el ordenamiento territorial y de desarrollo urbano (fundación, mejoramiento y crecimiento) de los centros de población en el Municipio y contendrán además de los elementos básicos a que se refiere el artículo 64 de este Código los siguientes:
+
+I. La determinación del sistema municipal de ciudades deseado hasta nivel de SERUC;
+
+II. La determinación de los sistemas de enlace deseado;
+
+III. La determinación de la jerarquía y nivel de equipamiento necesario; y,
+
+IV. La determinación de las políticas de desarrollo urbano requeridas.
 
 ###### ARTÍCULO 75.
 
 Los programas municipales, serán formulados, aprobados, ejecutados, controlados y evaluados por los ayuntamientos correspondientes, con la participación de la Comisión Municipal respectiva, en los términos de este Código.
 
-### Capítulo I. Del Programa Estatal de Reservas Territoriales
+### Capítulo IX. De los Programas de Desarrollo Urbano de los Centros de Población
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 76.
 
-Los Programas de Desarrollo Urbano de Centros de Población contendrán, como mínimo lo dispuesto en el CAPÍTULO II del Libro Segundo de este Código.
+El Programa de Desarrollo Urbano de Centro de Población es un instrumento integrado por el conjunto de disposiciones y normas técnico-jurídicas administrativos para ordenar, regular y conducir el ordenamiento y regulación de las áreas que integran y delimitan un centro de población dentro del territorio de un Municipio, sus aprovechamientos predominantes, las reservas usos y destinos, así como las bases para la programación de las acciones de conservación, mejoramiento y crecimiento, y contendrán además de los elementos básicos a que se refiere el artículo 64 de este Código los siguientes:
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+I. La determinación de imagen objetivo del desarrollo urbano de los centros de población, de acuerdo con la jerarquía y nivel de equipamiento deseado y las políticas de desarrollo urbano establecidas en los programas de ordenamiento territorial (no programático);
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+II. La determinación estratégica de los centros de población como ámbito y jurisdicción del desarrollo urbano y ley de la materia;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+III. La estructura urbana; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+IV. La determinación de la zonificación primaria y secundaria como instrumento para conducir la primera fase del ordenamiento urbano general. En horizontes programáticos.
 
 De existir convenio de conurbación, los actos que tengan que realizar los ayuntamientos atenderán lo dispuesto en el Programa de Zona Conurbada.
 
@@ -1029,51 +1495,65 @@ De existir convenio de conurbación, los actos que tengan que realizar los ayunt
 
 Los Programas de Desarrollo Urbano de Centros de Población, serán formulados, aprobados, ejecutados, controlados y evaluados por los ayuntamientos correspondientes, con la participación de la Comisión Municipal respectiva, en los términos de este Código.
 
-### Capítulo II. Del Derecho de Preferencia
+### Capítulo X. De los Programas Parciales de Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 78.
 
-Los programas parciales contendrán además de los elementos básicos que señala el artículo 64 de este Código, los siguientes:
+Los Programas Parciales de Desarrollo Urbano son instrumentos técnico-jurídicos y administrativos de la planeación urbana, para la inducción y precisión del ordenamiento y regulación, en la consolidación de un área específica estratégicamente determinada dentro de un centro de población, sus usos y destinos, así como la determinación de las acciones de conservación, mejoramiento y crecimiento requeridas y contendrán además de los elementos básicos que señala el artículo 64 de este Código, los siguientes:
 
-l. Los fines u objetivos del Programa de Centro de Población que se pretenda cumplir o atender;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. La demarcación de las áreas o predios comprendidos y las características, condiciones y zonas circundantes del espacio urbano;
+I. La determinación estratégica del área como ámbito y jurisdicción del programa, a nivel de barrio o distrito; y,
 
-III. Los usos y destinos específicos de los predios comprendidos en el programa;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-IV. Las características de las obras, equipos, instalaciones y servicios que se propongan, ejecuten, utilicen, modifiquen u organicen;
+II. La determinación del ordenamiento final para la consolidación y preservación de áreas específicas estratégicamente determinadas en congruencia y complementariedad con el programa de centro de población. En horizontes programáticos.
 
-V. Una memoria descriptiva y además, cuando se trate de obras, anteproyecto arquitectónico que considere los aspectos generales de las mismas;
+III. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-VI. El costo del proyecto ejecutivo y las obras;
+IV. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-VII. El plazo para la ejecución del proyecto;
+V. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-VIII. Los estudios sobre la mejor utilización de los recursos humanos, materiales y técnicos disponibles en la zona o área para la realización del proyecto;
+VI. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-IX. Los resultados previsibles que se obtendrán con la ejecución del proyecto en beneficio del área y sus habitantes;
+VII. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-X. Los estudios socio económicos, financieros y fiscales preliminares, cuando por las características del proyecto se requieran; y,
+VIII. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-XI. Los plazos para que los habitantes o propietarios de predios, lotes y edificaciones del área de aplicación del programa que se consideren afectados presenten sus inconformidades.
+IX. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+X. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+XI. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 79.
 
 Los Programas Parciales serán formulados, aprobados, ejecutados, controlados y evaluados por los ayuntamientos correspondientes, con la participación de la Comisión Municipal en los términos de este Código.
 
-### Capítulo III. De la Regularización de Asentamientos Humanos
+### Capítulo XI. De los Programas Sectoriales de Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 80.
 
-Los Programas Sectoriales, se refieren a las acciones especificas que en materia de vivienda, infraestructura, vialidad y transporte, equipamiento urbano, ordenamiento ecológico, protección al ambiente, agua, reservas territoriales, imagen urbana, patrimonio cultural, prevención y atención de riesgos y emergencias urbanas, estacionamientos, recolección y tratamiento de la basura doméstica e industrial, entre otros, se deban de realizar a nivel estatal, regional, municipal, centro de población o una parte de éste último y contendrán, además de lo señalado en el artículo 64 de este Código, lo siguiente:
+Los Programas Sectoriales de Desarrollo Urbano son instrumentos técnico-jurídicos y administrativos de la planeación urbana, para la inducción y precisión del ordenamiento y regulación de los elementos y componentes del desarrollo urbano y contendrán además de los elementos básicos que señala el artículo 64 de este Código, los siguientes:
 
-I. La mención del programa de desarrollo urbano del cual deriven;
+I. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-II. El área y sector en que tendrá aplicación el programa;
+II. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-III. Las autoridades responsables de la elaboración, ejecución, control y evaluación del programa; y,
+III. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-IV. El plazo para la realización del programa.
+IV. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Las acciones específicas que en materia de vivienda, infraestructura, movilidad urbana, equipamiento urbano, ordenamiento ecológico, protección al ambiente, agua, reservas territoriales, imagen urbana, patrimonio cultural, prevención y atención de riesgos y emergencias urbanas, estacionamientos, recolección y tratamiento de la basura doméstica e industrial, entre otros, se deban de realizar a nivel estatal, regional, municipal y centro de población.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
 
 Los programas sectoriales en materia de infraestructura, equipamiento y servicios en los centros de población, en ningún caso establecerán acciones e inversiones fuera de las áreas urbanas o urbanizables de dichos centros, señalados en la zonificación primaria que establezcan los programas municipales y regionales de desarrollo urbano.
 
@@ -1085,111 +1565,191 @@ Los programas sectoriales serán formulados por las dependencias competentes y e
 
 Una vez elaborados los proyectos de programas, se someterán a la opinión de la Comisión Estatal o Municipal de Desarrollo Urbano, según corresponda, en caso de ser opinados favorablemente, serán presentados para su aprobación al Gobernador o al Ayuntamiento, respectivamente.
 
-### Capítulo IV. Programa Estatal de Vivienda
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 82 Bis.
+
+Los Programas de Ordenación y Regulación de Zonas Metropolitanas son instrumentos técnico-jurídicos y administrativos de la planeación urbana, que tienen como finalidad conciliar los objetivos, políticas y acciones para el ordenamiento y regulación de los centros de población que constituyen una zona metropolitana de dos o más municipios, a través de acciones de fundación, conservación, mejoramiento y crecimiento de interés común y contendrán además de los elementos básicos que señala el artículo 64 de este Código, los siguientes:
+
+I. La determinación estratégica de la zona metropolitana como ámbito y jurisdicción del programa, a nivel de centros de población; y,
+
+II. La conciliación de las políticas de desarrollo urbano en los casos de centros de población que constituyan una zona metropolitana. Su consideración e incorporación en los instrumentos administrables del ordenamiento urbano para su aplicación en cada centro de población.
+
+### Capítulo XII. De las Zonas Metropolitanas y Conurbaciones
 
 ###### ARTÍCULO 83.
 
 En el caso de zonas conurbadas en las que participe el Estado con una o más Entidades Federativas, se estará a lo dispuesto en la Ley General de Asentamientos Humanos, este Código y en el convenio de conurbación respectivo.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Las autoridades estatales en coordinación determinaran estratégicamente los centros de población que deben integrar la zona conurbada o metropolitana interestatal y consecuentemente sus límites, considerando el área de influencia dominante de un centro de población.
+
 ###### ARTÍCULO 84.
 
 El Gobernador y los ayuntamientos correspondientes, acordarán cuando lo consideren conveniente para la planeación conjunta, la dimensión y los límites de una zona metropolitana, considerando el área de influencia dominante de un centro de población como conurbación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 85.
 
-El Gobernador y los ayuntamientos respectivos, podrán acordar y convenir que se declare una zona de conurbación cuando:
+El Gobernador y los ayuntamientos respectivos, podrán acordar y convenir que se declare una zona de conurbación o metropolitana cuando:
 
-I. Dos o más centros de población por sus características geográficas y su tendencia socio económica, se considere una sola unidad urbana y pertenezcan a territorios municipales distintos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Solamente uno de los centros de población crezca sobre la zona, conurbada; y,
+I. Dos o más centros de población por sus características geográficas y su tendencia socioeconómica, tiendan a formar una continuidad física de sus áreas urbanas o funcionales para ser considerada como una sola unidad urbana y pertenezcan a territorios municipales distintos.
 
-III. Se proyecte o funde un centro de población y se prevenga su expansión física o influencia funcional en territorio de municipios vecinos.
+II. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+III. (DEROGADA, P.O. 28 DE MAYO DE 2015)
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 86.
 
-El convenio que se celebre con base en lo previsto en el artículo anterior, contendrá:
+Los convenios de coordinación que se celebran para las zonas conurbadas y metropolitanas, contendrán:
 
-l. La localización, extensión y delimitación de la zona conurbada;
+I. La localización de los centros de población que comprende, extensión y delimitación del área conurbada o metropolitana;
 
-II. Los compromisos del Estado y de los ayuntamientos respectivos, para planear y regular conjunta y coordinadamente los centros de población conurbados, con base en un programa de la zona;
+II. Las orientaciones que establece la Estrategia Territorial Nacional Intersectorial y la propia a nivel estatal y su posición y papel en el Sistema Urbano Nacional y en Estatal;
 
-III. La determinación de acciones e inversiones para la atención de requerimientos comunes en materia de reservas territoriales, preservación y equilibrio ecológico, infraestructura, equipamiento y servicios urbanos en la zona; y,
+III. Los compromisos de las entidades federativas y de los municipios respectivos para planear y regular de manera conjunta y coordinada las zonas conurbadas o metropolitanas, en base a su programa de ordenación;
 
-IV. Las demás acciones que para tal efecto convengan el Estado y los ayuntamientos respectivos.
+IV. La planeación, y gestión de las zonas conurbadas y zonas metropolitanas que se integrarán y organizarán con instancias de coordinación de carácter técnico y de participación, consulta social; y,
+
+V. Las demás acciones que para el efecto convengan la Federación, las entidades federativas y los municipios respectivos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 87.
 
-Cada Ayuntamiento con centro de población comprendido en la zona conurbada, aplicará las prioridades, directrices y políticas de inversión pública, atendiendo a los criterios del Programa de Zona Conurbada.
+Cada Ayuntamiento con centro de población comprendido en una zona conurbada o metropolitana, aplicará las prioridades, directrices y políticas de inversión pública, atendiendo a los criterios del Programa de Zona Conurbada o Metropolitana.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 88.
 
-Los ayuntamientos de los municipios que formen parte de una zona conurbada, deberán elaborar los programas municipales de desarrollo urbano y de centro de población que corresponda a la parte no conurbada, debiendo guardar congruencia con el Programa de Zona Conurbada.
+Los ayuntamientos de los municipios que formen parte de una zona conurbada o metropolitana, deberán elaborar o actualizar los programas municipales de desarrollo urbano y de centro de población debiendo guardar congruencia con el programa de ordenación y regulación de Zona Conurbada o Metropolitana.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 89.
 
-Aprobado el programa por la Comisión Zona Conurbada, deberá publicarse en el Periódico Oficial del Estado, e inscribirse en el Registro Público de la Propiedad Raíz en el Estado y del Comercio, en el Sistema de Información Geográfica y en el Registro Agrario Nacional.
+Aprobado el programa deberá publicarse en el Periódico Oficial del Estado, e inscribirse en el Registro Público de la Propiedad Raíz en el Estado y del Comercio, en el Sistema de Información Estadística Geográfica y en el Registro Agrario Nacional.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 90.
 
-La operación del programa de Zona Conurbada, se hará a través de la Comisión correspondiente, la que deberá expedir su Reglamento Interior en un plazo no mayor de treinta días naturales, contados a partir de la fecha de su inicio de funciones a propuesta de su Presidente.
+La operación del programa de Zona Conurbada o Metropolitana, se hará a través de la Comisión correspondiente, la administración del ordenamiento corresponderá a los ayuntamientos respectivos. La Comisión correspondiente deberá expedir su Reglamento Interior en un plazo no mayor de treinta días naturales, contados a partir de la fecha de su inicio de funciones a propuesta de su Presidente.
 
-### Capítulo I. De las Regulaciones a la Propiedad
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
 
-### Capítulo II. Fundación
+### CAPÍTULO XII BIS. DE LOS ESQUEMAS DE DESARROLLO URBANO
 
-### Capítulo III. Conservación
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 90 Bis.
+
+Son esquemas de ordenamiento básico en aquellos asentamientos humanos que tienen una función en el ordenamiento del territorio pero presentan un proceso de urbanización mínimo o nulo y contendrán además de los elementos básicos que señala el artículo 64 de este Código, los siguientes:
+
+I. La determinación de imagen objetivo del desarrollo urbano de los centros de población, de acuerdo con la jerarquía y nivel de equipamiento deseado previamente determinado y las políticas de desarrollo establecidas (no programático);
+
+II. La determinación de los centros de población como ámbito y jurisdicción del desarrollo urbano y ley de la materia; y,
+
+III. La determinación de la zonificación primaria y secundaria en el marco de la jerarquía vigente y de acuerdo a las expectativas de crecimiento estimadas y nivel de equipamiento sustentable y sostenible correspondiente, como instrumento para conducir la primera fase del ordenamiento básico urbano general y previniendo cualquier desequilibrio del ordenamiento que pueda provocar una dinámica de crecimiento considerable de su población o de las actividades económicas que por su impacto requieran de la elaboración de un programa de desarrollo urbano.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO XII TER. DE LA ACTUALIZACIÓN DE LOS PROGRAMAS DE DESARROLLO URBANO
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 90 Ter.
+
+Los programas de desarrollo urbano podrán actualizarse sin necesidad de cursar por los procedimientos de consulta institucional y pública establecidos en el presente Código en los siguientes casos:
+
+I. Cuando las actualizaciones resulten de la conciliación de objetivos, políticas y acciones de los programas regionales, de zonas conurbadas o de zonas metropolitanas cuyas determinaciones deberán ser incorporadas automáticamente en los programas de desarrollo urbano de centro de población y parciales para su administración procedente, previa aprobación del cabildo; y,
+
+II. Cuando se requiera ampliar el límite de las reservas urbanas, siempre y cuando la propuesta se encuentre dentro de las provisiones establecidas con anterioridad en el ordenamiento urbano del programa de centro de población vigente. Debiendo contar con un estudio técnico justificativo para su incorporación y aprobado por el cabildo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO XIII. DEL PROCEDIMIENTO DE FORMULACIÓN, MODIFICACIÓN TOTAL O PARCIAL, CONSULTA Y APROBACIÓN DE LOS PROGRAMAS DE DESARROLLO URBANO
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 91.
 
-En la formulación o en su actualización total o parcial de los programas de desarrollo urbano establecidos en este Código, la autoridad competente podrá realizar el procedimiento siguiente;
+En la formulación o en su modificación total o parcial de los programas de desarrollo urbano establecidos en este Código, la autoridad competente deberá realizar el procedimiento siguiente:
 
-I. La Secretaría, el Ayuntamiento o la Comisión de Zona Conurbada contando con el proyecto de Programa de Desarrollo Urbano dará aviso del inicio del proceso de consulta, difundiéndolo en el periódico de mayor circulación en el Estado o Municipio, según corresponda;
+I. La Secretaría, el Ayuntamiento, la Comisión de Zona Conurbada o la Comisión de Zona Metropolitana deberá fundar y motivar la procedencia de la elaboración o de la modificación total o parcial de los Programas de Desarrollo Urbano, debiendo contar para este efecto con la opinión de la Comisión Estatal y/o Municipales según correspondan;
 
-II. A partir del inicio del proceso, los programas estarán disponibles para consulta pública durante un plazo de cuarenta días hábiles en las oficinas de la Secretaría y el Ayuntamiento correspondiente. Mismo plazo que tendrán los ciudadanos para que presenten por escrito a las mismas autoridades, las opiniones o sugerencias al Programa de Desarrollo Urbano, debiendo estar motivadas;
+II. La Secretaría y el ayuntamiento darán aviso público a través del periódico de mayor circulación en el Estado o localidad, según sea el caso, del inicio del proceso de planeación de la formulación, actualización y/o modificación total o parcial de los Programas de Desarrollo Urbano, para cumplir con lo establecido en el artículo 16, de la Ley General de Asentamientos Humanos;
 
-III. Dentro de los diez días hábiles siguientes al inicio del proceso, la Secretaría o el Ayuntamiento deberá remitir a la Comisión Estatal o Municipal respectiva, el proyecto de programa para su opinión, la que deberá emitir una vez realizadas las actividades previstas en las fracciones IV y V de este artículo;
+III. La Secretaría, el Ayuntamiento, las Comisiones de Área Conurbada y Zona Metropolitana, para la elaboración del proyecto de Programa de Desarrollo Urbano deberán establecer una consulta institucional a través de la Comisión Estatal o del Consejo Municipal de Desarrollo Urbano respectivo;
 
-IV. A partir de la fecha en que reciba el proyecto de programa y dentro de un plazo no mayor de veinte días hábiles la Comisión Estatal, de Conurbación o Municipal, según sea el caso, convocará a un foro de consulta popular a los representantes de los sectores público, privado y social que tengan incidencia en el desarrollo urbano para presentar sus observaciones o sugerencias con fundamento y motivación. En su caso, las respuestas a los planteamientos que resultaron improcedentes o las modificaciones que den lugar, deberán fundamentarse y notificarse a los interesados en el domicilio señalado en su escrito dentro de los diez días hábiles siguientes a la conclusión del foro de consulta o el plazo señalado en la fracción II anterior;
+IV. La Secretaría, el Ayuntamiento, contando con el Programa de Desarrollo Urbano de su competencia, darán aviso del inicio del proceso de consulta pública, difundiéndolo en el periódico de mayor circulación en el Estado o Municipio, según corresponda;
 
-V. Concluido el foro de consulta pública y más tardar cinco días hábiles después las comisiones municipales o de Conurbación, según sea el caso, deberán convocar a los jefes de tenencia y encargados del orden del municipio o zona conurbada de que se trate, en el mismo plazo para su aprobación. Se considerará aprobado el programa con la aprobación de la mitad mas uno de las autoridades auxiliares municipales y se considerarán vertidas en sentido positivo, cuando no sean emitidas dentro del plazo previsto en esta fracción; y,
+V. A partir del inicio del proceso, los proyectos de programas estarán disponibles para consulta pública durante un plazo de cuarenta días hábiles en las oficinas de la Secretaría y los Ayuntamientos así como sus páginas web correspondientes.
 
-VI. Cumplidas las formalidades para la participación social en la formulación o modificación total o parcial de los programas de desarrollo urbano, la Secretaría, el Ayuntamiento o la Comisión de Zona Conurbada, elaborará la versión final del Programa para su aprobación según corresponda. El Estado y los ayuntamientos podrán reglamentar la participación social en los procesos de planeación urbana municipal.
+Mismo plazo que tendrán los ciudadanos para que presenten por escrito a las mismas autoridades, las opiniones o sugerencias al Programa de Desarrollo Urbano, debiendo estar motivadas;
+
+VI. Dentro de los diez días hábiles siguientes al inicio del proceso, la Secretaría o el Ayuntamiento deberá remitir a la Comisión Estatal o Municipal respectiva, el proyecto de programa para su opinión, la que deberá emitir una vez realizadas las actividades previstas en las fracciones VII y VIII de este artículo;
+
+VII. A partir de la fecha en que reciba el proyecto de programa y dentro de un plazo no mayor de veinte días hábiles la Comisión Estatal, de Conurbación o Municipal, según sea el caso, convocará a un foro de consulta popular a los representantes de los sectores público, privado y social que tengan incidencia en el desarrollo urbano para presentar sus observaciones o sugerencias con fundamento y motivación. En su caso, las respuestas a los planteamientos que resultaron improcedentes o las modificaciones que den lugar, deberán fundamentarse y notificarse a los interesados en el domicilio señalado en su escrito dentro de los diez días hábiles siguientes a la conclusión del foro de consulta o el plazo señalado en la fracción V anterior; y,
+
+VIII. Cumplidas las formalidades para la participación social en la formulación o modificación total o parcial de los programas de desarrollo urbano, la Secretaría, el Ayuntamiento o la Comisión de Zona Conurbada, elaborará la versión final del Programa para su aprobación según corresponda.
+
+El Estado, los ayuntamientos y las comisiones de áreas Conurbadas y Zonas metropolitanas, podrán reglamentar la participación social en los procesos de planeación urbana municipal.
 
 ###### ARTÍCULO 92.
 
-El Programa Estatal, sólo podrá ser modificado total o parcialmente, según el caso, dentro de un plazo no mayor de diez meses a partir del inicio de la gestión constitucional del Gobernador y los programas sectoriales y regionales en función de las determinaciones del Programa Estatal.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 93.
 
-Los programas básicos de desarrollo urbano de competencia municipal, sólo podrán ser modificados total o parcialmente, según el caso, dentro de un plazo no mayor de seis meses a partir del inicio de la gestión constitucional de los ayuntamientos y los derivados en función de las determinaciones de los programas básicos.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 94.
 
-Los programas a que se refiere el artículo 62 de este Código, tendrán vigencia indefinida.
+Los programas de desarrollo urbano tendrán vigencia indefinida y solo podrán ser modificados por cambios necesarios en las políticas del ordenamiento del territorio y consecuentemente de la imagen objetivo del desarrollo urbano en los centros de población o por incongruencias entre ellos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 95.
 
-Para la modificación parcial o total de un programa básico, se aplicará el procedimiento dispuesto en el artículo anterior y demás formalidades dispuestas en este Código.
+Para la modificación parcial o total de un programa, se aplicará el procedimiento dispuesto en el artículo 91 y demás formalidades dispuestas en este Código, salvo los casos previstos en el artículo 109.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 96.
 
-La Secretaría se abstendrá de dar opinión positiva de los programas de desarrollo urbano que no cuenten previamente con la opinión de la Comisión Municipal, o las formalidades del artículo 94. Esta disposición no aplicará en los casos en que las Comisiones señaladas no realicen las actividades de consulta o no emitan su opinión a más tardar treinta días antes de que concluyan los plazos señalados en los artículos 92 y 93, según corresponda.
+Los ayuntamientos deberán remitir a la Secretaría sus programas para que esta emita sus observaciones o sugerencias con fundamento y motivación en un plazo no mayor a cuarenta días a partir del inicio de la etapa de consulta pública. En su caso, las respuestas a los planteamientos que resultaron improcedentes o las modificaciones que den lugar, deberán fundamentarse y notificarse a la Secretaría por parte del Ayuntamiento correspondiente dentro de los diez días hábiles siguientes a la conclusión de la etapa de consulta pública.
 
 ###### ARTÍCULO 97.
 
-Los programas regionales o en su caso, sectoriales estatales, solamente requerirán la opinión de los ayuntamientos que comprendan dichos programas.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 98.
 
-La Secretaría enviará a consulta pública los programas sectoriales con las dependencias o entidades públicas o sectores social y privado relacionados con el sector correspondiente.
+La Secretaría deberá solicitar la opinión sobre los programas sectoriales a las dependencias o entidades públicas o sectores social y privado relacionados con el sector correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 99.
 
-Los proyectos de programa de desarrollo urbano que se emitan para opinión, deberá contener un documento técnico en versión completa y un anexo grafico.
+Los proyectos de programa de desarrollo urbano que se emitan para opinión, deberá (sic) contener un documento técnico en versión completa y un anexo grafico y una síntesis de las propuestas y modificaciones principales.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 100.
 
-En los programas regionales y sectoriales el Gobernador, promoverá los convenios de coordinación con los ayuntamientos involucrados para su ejecución.
+En los programas regionales, de zonas conurbadas, de zonas metropolitanas y sectoriales el Gobernador, promoverá los convenios de coordinación con los ayuntamientos involucrados para su ejecución.
 
 ###### ARTÍCULO 101.
 
@@ -1199,9 +1759,23 @@ Una vez aprobados los programas de desarrollo urbano dentro de los siguientes 30
 
 A partir de la fecha en que entre en vigor un programa, las autoridades que correspondan sólo podrán expedir constancias, licencias, permisos, autorizaciones o convenios de su competencia, relativas a la utilización de las áreas y predios que resulten comprendidos, si las solicitudes están de acuerdo con el programa respectivo; las que se expidan en contravención a lo anterior, serán nulas.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 103.
 
-Los programas de desarrollo urbano, serán obligatorios para los particulares y para las autoridades, debiendo estar a disposición permanente para su consulta.
+Los programas de desarrollo urbano, serán obligatorios para los particulares y para las autoridades, debiendo estar a disposición permanente para su consulta y deberán publicarse en una página web según corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 103 Bis.
+
+La autoridad municipal deberá remitir la información del ordenamiento urbano establecida en sus programas de desarrollo urbano de centro de población y parciales así como sus actualizaciones o modificaciones parciales en la Dirección de Catastro Estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 103 Ter.
+
+La Dirección de Catastro Estatal deberá considerar y establecer en todas sus resoluciones los aprovechamientos y condicionantes a que están sujetos los predios en cuestión.
 
 ###### ARTÍCULO 104.
 
@@ -1215,37 +1789,35 @@ Será causa de responsabilidad para las autoridades que expidan los programas de
 
 Todas las acciones, inversiones y obras relativas al aprovechamiento del territorio que se realicen por los gobiernos Federal, Estatal y los ayuntamientos, deberán sujetarse a lo dispuesto en los programas de desarrollo urbano; para tal efecto, la propuesta de gasto de inversión contenida en el programa operativo anual estatal o municipal, deberá incluir una exposición de la vinculación entre las acciones, inversiones, servicios y obras de que se trate y los objetivos y metas con las contenidas en los programas de desarrollo urbano, según corresponda.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 107.
 
-Para controlar y verificar los avances obtenidos en los programas estatal, regionales y sectoriales, la Secretaría en coordinación con la Comisión Estatal, evaluarán durante el último año de gestión constitucional estos programas, presentando un informe al Gobernador. En el caso de los programas municipal, de Centro de Población y Parciales, la Dependencia Municipal en coordinación con la Secretaría y la Comisión Municipal o de Zona Conurbada respectiva, los evaluarán en el último año de gestión constitucional, presentando un informe a los Ayuntamientos.
+Para evaluar los resultados obtenidos en la administración y operación urbana para alcanzar el ordenamiento urbano establecido en los programas de desarrollo urbano, la Secretaría en coordinación con la Comisión Estatal, de zona conurbada o de zona metropolitana; y el Ayuntamiento en coordinación con la Secretaría y el Consejo Municipal y/o el Instituto Municipal de Planeación, evaluarán durante el último año de gestión constitucional los mismos, presentando un informe al Gobernador o al Ayuntamiento según corresponda.
 
 ###### ARTÍCULO 108.
 
 El resultado de las evaluaciones de los programas a que se refiere el artículo anterior, serán entregadas a las autoridades entrantes, para que en su caso determinen las modificaciones totales o parciales de los programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 109.
 
-Los programas básicos de desarrollo urbano, sólo podrán ser modificados parcialmente fuera de los plazos establecidos en los artículos 92 y 93, cuando existan proyectos de inversión pública o privada de impacto estatal, regional o municipal, mediante un estudio técnico justificativo, que entre otros requisitos integre los siguientes:
+Los programas de desarrollo urbano, sólo podrán ser modificados parcialmente, siempre y cuando no se alteren las políticas del ordenamiento del territorio y la imagen objetivo del desarrollo urbano en los centros de población establecidos y cuando existan proyectos de inversión pública o privada de impacto estatal, regional o municipal, mediante un estudio técnico justificativo y previa opinión de la Secretaría y aprobación de cabildo.
 
-l. Se produzca significativamente un beneficio social o económico al Estado, región o municipio;
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. No se pretendan realizar cambios de uso del suelo, sobre terrenos considerados como de alta producción agrícola, forestales, pecuarios, de recarga y afloramiento de mantos freáticos;
+### CAPÍTULO XIV. DE LAS GUÍAS METODOLÓGICAS PARA LA ELABORACIÓN DE LOS PROGRAMAS DE DESARROLLO URBANO
 
-III. No se dañen zonas de monumentos históricos o arqueológicos, de patrimonio cultural o natural;
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
 
-IV. No se encuentren en zonas de riesgo o vulnerabilidad;
+###### ARTÍCULO 109 Bis.
 
-V. Se integre una manifestación de impacto ambiental, en la modalidad que corresponda de conformidad con la normatividad; y,
-
-VI. Se elabore un programa parcial de desarrollo urbano, en los términos y alcances determinados por este Código;
-
-En su caso, la Secretaría, el Ayuntamiento o la Comisión de Zona Conurbada, según corresponda, podrán solicitar información o estudios complementarios dependiendo del aprovechamiento urbano pretendido.
-
-### Capítulo IV. Mejoramiento
+La Secretaría deberá elaborar, revisar y actualizar las guías metodológicas para la elaboración de los programas de desarrollo urbano, tomando en consideración los lineamientos y guías existentes en vigencia de orden Federal, cumpliendo con los alcances establecidos en el presente Código, cuidando siempre la complementariedad y congruencia que debe existir entre ellos, así como, implementando acciones para la adaptación, conforme a las disposiciones establecidas por la normatividad aplicable.
 
 ## TÍTULO QUINTO. DE LAS RESERVAS, DERECHO DE PREFERENCIA, REGULARIZACIÓN Y VIVIENDA
 
-### Capítulo V. Crecimiento
+### Capítulo I. Del Programa Estatal de Reservas Territoriales
 
 ###### ARTÍCULO 110.
 
@@ -1291,7 +1863,7 @@ III. Se establezca el compromiso de aprovechar los predios en las acciones prior
 
 Los bienes inmuebles del Estado adquiridos mediante donación de desarrollos habitacionales, sólo podrán ser transferidos o enajenados a favor de los Ayuntamientos y entidades de la Administración Pública Estatal o Federal, debiendo destinar exclusivamente para los usos indicados para las áreas de donación en la Ley Orgánica Municipal.
 
-### Capítulo VI. De la Zonificación Urbana
+### Capítulo II. Del Derecho de Preferencia
 
 ###### ARTÍCULO 115.
 
@@ -1311,7 +1883,7 @@ Si concluido el plazo señalado en el párrafo anterior, la autoridad no emite c
 
 Para el ejercicio del derecho consignado en este capítulo, en aquellos casos que por la naturaleza del acto traslativo de dominio no se haya determinado el valor del inmueble, éste se fijará atendiendo al avalúo que practique el Instituto de Administración Pública y Avalúos de Bienes Nacionales, una institución de crédito debidamente acreditada o por la Dirección de Catastro del Gobierno del Estado.
 
-### Capítulo VII. Del Control del Uso y Destino del Suelo
+### Capítulo III. De la Regularización de Asentamientos Humanos
 
 ###### ARTÍCULO 118.
 
@@ -1365,7 +1937,7 @@ El Ayuntamiento al tener conocimiento de un asentamiento humano irregular o la f
 
 Cuando el asentamiento irregular se localice en terrenos no aptos para el desarrollo urbano, se procurará su reubicación.
 
-### Capítulo VIII. De la Vía Pública
+### Capítulo IV. Programa Estatal de Vivienda
 
 ###### ARTÍCULO 125.
 
@@ -1405,7 +1977,7 @@ Las autoridades estatales y municipales, otorgarán facilidades administrativas 
 
 ## TÍTULO SEXTO. DE LA ORDENACIÓN Y REGULACIÓN DE LO CENTROS DE POBLACIÓN
 
-### Capítulo Único
+### Capítulo I. De las Regulaciones a la Propiedad
 
 ###### ARTÍCULO 129.
 
@@ -1447,7 +2019,7 @@ IX. La protección y mejoramiento de reservas ecológicas y zonas de preservaci�
 
 X. Las demás que se consideren necesarias para la eficacia de las acciones de conservación, mejoramiento y crecimiento.
 
-### Capítulo l. De la Transferencia de Potencialidad de Desarrollo Urbano
+### Capítulo II. Fundación
 
 ###### ARTÍCULO 134.
 
@@ -1477,7 +2049,7 @@ El Congreso del Estado y los ayuntamientos otorgarán la categoría político-ad
 
 La fundación de centros de población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de asentamiento humano rural y las comunidades indígenas.
 
-### Capítulo II. Del Financiamiento Urbano
+### Capítulo III. Conservación
 
 ###### ARTÍCULO 140.
 
@@ -1491,19 +2063,19 @@ III. El buen estado los edificios, monumentos, plazas públicas, parques y en ge
 
 IV. La eliminación de riesgos urbanos.
 
-### Capítulo III. Del Desarrollo Urbano para el Descongestionamiento Metropolitano
+### Capítulo IV. Mejoramiento
 
 ###### ARTÍCULO 141.
 
 El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incipiente desarrollo o deteriorada física o funcionalmente de un centro de población.
 
-### Capítulo Único
+### Capítulo V. Crecimiento
 
 ###### ARTÍCULO 142.
 
 El crecimiento es la acción tendiente a ordenar y regular la expansión física de los centros de población, mediante la determinación de las reservas, conforme a lo dispuesto en este Código y los programas de desarrollo urbano.
 
-### Capítulo I. Programa Municipal
+### Capítulo VI. De la Zonificación Urbana
 
 ###### ARTÍCULO 143.
 
@@ -1527,7 +2099,7 @@ De no haber comparecencia de los interesados o una vez atendida esta, se hará u
 
 La determinación de reservas contendrá la delimitación de las áreas de expansión futura del centro de población.
 
-### Capítulo II. Programa de Centro de Población
+### Capítulo VII. Del Control del Uso y Destino del Suelo
 
 ###### ARTÍCULO 147.
 
@@ -1591,7 +2163,7 @@ Los ayuntamientos deberán remitir copia de las autorizaciones y rectificaciones
 
 Para constituir, ampliar y delimitar la zona de urbanización ejidal o comunal y su reserva de crecimiento; la asamblea ejidal o de comuneros respectiva, deberá ajustarse a lo dispuesto en este Código y a la zonificación contenida en los programas de desarrollo urbano aplicables. En estos casos es indispensable la anuencia del Ayuntamiento correspondiente, a efecto de que la autoridad agraria de curso a la solicitud del núcleo agrario.
 
-### Capítulo III. Obtención y Esquematización de la Información
+### Capítulo VIII. De la Vía Pública
 
 ###### ARTÍCULO 158.
 
@@ -1615,7 +2187,7 @@ Los sobrantes de alineamiento resultantes de la rectificación de una vía públ
 
 ## TÍTULO SÉPTIMO. DEL PATRIMONIO CULTURAL DEL ESTADO
 
-### Capítulo I. Del Objeto y Conceptos
+### Capítulo Único
 
 ###### ARTÍCULO 161.
 
@@ -1655,7 +2227,7 @@ Los bienes inmuebles declarados patrimonio cultural, deberán inscribirse ademá
 
 ## TÍTULO OCTAVO. DEL FOMENTO AL DESARROLLO URBANO
 
-### Capítulo II. De las Autoridades Competentes
+### Capítulo l. De la Transferencia de Potencialidad de Desarrollo Urbano
 
 ###### ARTÍCULO 168.
 
@@ -1689,7 +2261,7 @@ Las operaciones de transferencia autorizadas, deberán consignarse en el program
 
 Quienes lleven a cabo operaciones de transferencia de potencialidades de desarrollo urbano, deberán donar al Ayuntamiento un diez por ciento de dicha potencialidad, para el fomento del desarrollo urbano de la ciudad, en los términos que señalen los reglamentos municipales; a excepción de los ubicados en suelo de conservación y áreas patrimoniales, cuyo porcentaje se aplicará para su rehabilitación, mejoramiento y conservación.
 
-### Capítulo III. Bases Generales para la Reglamentación de la Zonificación y Usos del Suelo
+### Capítulo II. Del Financiamiento Urbano
 
 ###### ARTÍCULO 172.
 
@@ -1865,7 +2437,7 @@ Existe la obligación de pagar contribuciones especiales por parte de los propie
 
 El Ayuntamiento considerará las condiciones de pago de los derechos de las obras, cuando los beneficiados por una obra no se encuentren en condiciones de cubrir el monto de los gravámenes por encontrarse incapacitados o por ser sus ingresos familiares notoriamente insuficientes para ello. Lo anterior, no es obstáculo para que una vez que dichas personas, se encuentren en posibilidad de cubrir gravámenes, a juicio del propio ayuntamiento o de la Comisión Municipal, previo estudio socioeconómico que se practique, se proceda a exigir el monto de lo adeudado.
 
-### CAPÍTULO IV. Bases Generales para la Reglamentación Municipal de las Construcciones
+### Capítulo III. Del Desarrollo Urbano para el Descongestionamiento Metropolitano
 
 ###### ARTÍCULO 197.
 
@@ -1887,7 +2459,7 @@ VII. La instrumentación de incentivos fiscales para el desarrollo socioeconómi
 
 ## TÍTULO NOVENO. DE LAS NORMAS TÉCNICAS DE DESARROLLO URBANO DE APLICACIÓN ESTATAL
 
-### Capítulo V. De las funciones urbanas sobre áreas y predios
+### Capítulo Único
 
 ###### ARTÍCULO 198.
 
@@ -1911,1187 +2483,367 @@ La Secretaría difundirá las normas técnicas de desarrollo urbano para que tod
 
 Derivado de los trabajos contenidos en el artículo anterior, la Secretaría orientará a los ayuntamientos sobre las autorizaciones otorgadas por en (sic) contravención a las normas estatales previstas en este Capítulo o de los programas de desarrollo urbano de ámbito estatal y demás legislación aplicable.
 
-# LIBRO SEGUNDO. DE LOS PROGRAMAS DE DESARROLLO URBANO MUNICIPAL
+> <small>(DEROGADO CON EL TÍTULO, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-## TÍTULO ÚNICO. DE LA FORMULACIÓN DE LOS PROGRAMAS
+# LIBRO SEGUNDO
 
-### Capítulo VI. De la compatibilidad e incompatibilidad de funciones de los usos y destinos del suelo en áreas o predios
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
+
+## TITULO ÚNICO
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO I
 
 ###### ARTÍCULO 201.
 
-Para la formulación de un Programa Municipal, se deberá integrar un documento técnico en versiones completa y abreviada y un anexo grafico, el cual se realizará en los niveles de planeación siguientes:
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-I. Antecedentes;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Normativo;
-
-III. Estratégico;
-
-IV. Programático y de corresponsabilidad sectorial; e,
-
-V. Instrumental.
-
-#### Sección I. Antecedentes
+#### SECCIÓN I
 
 ###### ARTÍCULO 202.
 
-El nivel antecedentes deberá contener como mínimo lo siguiente:
-
-I. Introducción. Se explicará brevemente la importancia y trascendencia del programa expresado en políticas, líneas estratégicas, propósitos y alcances, así como la problemática general urbana, rural y étnica del municipio;
-
-II. Relación funcional del municipio con el contexto estatal y nacional. Se identificarán los principales sectores y actividades productivas del municipio, explicando la vinculación funcional de la actividad productiva local en el ámbito del sistema urbano nacional y estatal, con base en el análisis de las políticas y acciones estratégicas de la administración estatal;
-
-III. Fundamentación jurídica. Se definirán las bases jurídicas que sustentan la formulación del programa, destacando los elementos de enlace y concurrencia con los instrumentos de planificación urbana vigentes a nivel nacional, estatal y regional;
-
-IV. Delimitación del área de estudio. Consistirá en la descripción del polígono que conforma el territorio municipal, mediante la demarcación de vértices, rumbos, distancias;
-
-V. Ámbito regional. Se estudiará la situación del municipio en el contexto de su región, con el propósito de identificar sus fortalezas y debilidades con base al análisis de los siguientes elementos: intercambios regionales, equipamiento e infraestructura regional y estatal. Una vez integrado, se realizará un balance de las características y capacidades de la infraestructura con relación a la demanda actual en cuanto a servicios de agua potable, drenaje, redes carreteras, ferroviarias, aérea, telecomunicaciones y electrificación. Se considerará también la distribución de los energéticos en el municipio, referente a nivel de servicio, estado físico y capacidad instalada;
-
-VI. En el Medio físico natural se evaluarán los recursos existentes y potenciales del patrimonio natural (suelo, aire y agua), y cultural (histórico y paisajístico). El medio físico comprende: la localización, el clima, la diversidad biológica; la clasificación de los usos del suelo del territorio municipal (urbano, suburbano, forestal, agrícola, pecuario, industrial y mineral); la geología (para verificar las características estructurales, litológicas del municipio, a efecto de a la definición de las zonas aptas para el desarrollo urbano, mediante su clasificación en: ígnea, sedimentaria y metamórficas); la hidrología (es obtener la información de los recursos hidrológicos en el municipio, características y localización de cuerpos de agua subterránea y superficial, fenómenos hidrometeorológicos, cauces de escurrimientos no controlados y localidades de precipitación pluvial muy elevada, a efecto de normar las decisiones respecto de las actividades productivas y el desarrollo urbano, para la ubicación de nuevos asentamientos humanos y ampliación de las redes de agua potable); la edafología (verificar los distintos tipos de suelo por su origen características físico-químicas y de resistencia en: suelos expansivos, colapsables, granulares, sueltos, dispersivos, corrosivos, altamente orgánicos y zonas inestables); la topografía (identificar y señalar los macizos montañosos, depresiones, colinas y valles, así como los accidentes y pendientes entre los rangos del dos al quince por ciento, del quince al treinta por ciento y mayores del treinta por ciento); índices de contaminación del aire, agua y suelo (impacto ambiental); usos potenciales del suelo y síntesis del medio físico natural.
-
-El proceso de clasificación tendrá como objetivo identificar como mejorar la calidad de vida de la población rural y urbana, sin comprometer la capacidad de atención a las necesidades de las generaciones futuras, mismas que se sustentarán en criterios e indicadores de carácter ambiental, económico y social.
-
-VII. Aspectos demográficos. A partir de la información estadística existente y publicada se integrará un análisis de la composición dinámica y de distribución de la población del municipio y de cada centro de población. Se analizará la población por: edad y sexo, tendencias y crecimiento histórico de la población urbana, rural y grupos étnicos, así como las proyecciones de población en los tres horizontes de planeación. El número de miembros promedio por familia, de la población urbana, rural y grupos étnicos, densidades de los centros de población y del municipio, así como la inmigración y emigración. Con base en esta información se identificarán las repercusiones en la demanda de suelo, infraestructura, equipamiento y servicios, en las principales zonas urbanas de uso habitacional y turístico;
-
-VIII. Aspectos económicos. Tomando como base la información estadística existente se identificarán los principales indicadores económicos por sectores y ramas de las actividades productivas en el municipio y de cada localidad (primarias, secundarias, terciarias y no especificada), incluyendo sus tasas de crecimiento promedio anual. Identificar la interacción de estas actividades, con evolución y perfil de la actividad económica actual. Se especificará el porcentaje de población que representa cada uno de los sectores, nivel de ingreso y actividades productivas y el comportamiento de la Población Económica Activa en las dos últimas décadas. La reestructuración, en su caso, del marco global de las actividades más dinámicas e importantes del municipio, su importancia relativa, áreas ocupadas, establecimientos, personal ocupado, etc., Indicar obstáculos y perspectivas de desarrollo económico;
-
-IX. El Medio físico transformado, se integrará por:
-
-a. Un sistema de ciudades (centros de población) a fin de conocer la importancia y tipo de relaciones existentes entre los centros de población del municipio, se analizarán por su rango de población y la función de cada una de ellas dentro del sistema. El estudio comprende el balance de características y capacidades de los actuales centros de población con relación a las demandas; el crecimiento histórico, las repercusiones hacia los usos del suelo y del entorno e identificación de las zonas de crecimiento urbano intermunicipal;
-
-b. Infraestructura y servicios urbanos y rurales por centros de población. Se deberá analizar la situación actual e identificar los problemas de los centros de población del municipio, en cuanto a infraestructura básica: agua potable, drenaje sanitario, alumbrado público y energía eléctrica, así como los servicios urbanos: teléfono, correo, telégrafo, recolección de basura, tratamiento de aguas negras y vigilancia, entre otras, lo que permitirá orientar el aprovechamiento de los mismos y de las acciones que se requieren para evitar deficiencias y carencias actuales y futuras;
-
-c. Oferta turística y servicios complementarios. Se identificará la situación de la oferta y demanda turística observada; situación actual y posibilidad de desarrollo de los atractivos turísticos (en caso de existir);
-
-d. Usos del suelo. Se identificarán las áreas naturales protegidas o de valor ambiental; los usos dedicados a las actividades productivas: agrícolas (temporal y riego); pecuarias (intensivo y extensivo), forestales (bosques y selvas naturales); agro industriales, las zonas federales (carreteras pavimentadas, de terracería, caminos, presas, lagos, lagunas, plantas generadoras de electricidad, vías férreas, puertos, aeropuertos, pistas, bordos, canales, ríos, arroyos, etc.), incluyendo sus restricciones; los usos urbanos y reservas territoriales legalmente constituidas. Se definirían también, el uso potencial del suelo: agrícola (temporal y riego), forestal (bosques y selvas), pecuario (intensivo y extensivo), mineral (minas y bancos de materiales), industrial y áreas aptas o ocupadas por el uso urbano. La situación actual que presenten las localidades del municipio en cuanto a tendencias de crecimiento, usos del suelo actuales predominantes, condicionados e incompatibles, tendencia de cambio de uso del suelo y tenencia de la tierra ya sea ejidal, comunal, privada, federal, estatal o municipal;
-
-e. Vivienda. Consistente en un análisis comparativo en términos cualitativos y comparativos de la situación de la vivienda en el municipio, con relación a sus principales localidades, en cuanto a: tipologías en cuanto a urbana y rural, comportamiento de la oferta y vivienda total (cuartos por vivienda, densidad de habitantes por vivienda, materiales con que están construidas); tenencia de las viviendas (propias o rentadas); niveles de hacinamiento, programas institucionales de dotación de vivienda terminada o progresiva, vivienda precaria (mejoramiento o aceptable);
-
-f. Suelo urbano. Tendencias de crecimiento de las localidades y valores del suelo urbano (catastral y comercial) y terrenos vacantes en la mancha urbana. Equipamiento urbano y rural. Se formulará un análisis relativo al inventario e identificación del equipamiento urbano y regional en los subsistemas de: educación, cultura, salud, asistencia social, comercio, abasto, comunicaciones, transporte, recreación, deporte, servicios urbanos y administración pública. Estudio que se llevará a cabo con base a las consideraciones contenidas dentro del Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social del Gobierno Federal. El objetivo es determinar si es suficiente o no el equipamiento existente, para atender las necesidades de la población o si es necesario alguno nuevo y dónde se deberá ubicar para beneficiar al mayor número de habitantes;
-
-g. Vialidad y transporte. Se identificará la situación actual de los sistemas de enlace y transporte, la función que desempeñan los principales corredores en el sistema urbano estatal, así como la problemática que presentan (zonas de congestionamiento vial, accidentes de tránsito, etc.). Identificar y conocer el nivel de infraestructura vial con que cuentan los centros de población, así como sus niveles de servicios de los transportes de carga y pasajeros que operan en el municipio y el número de unidades;
-
-h. Emergencias urbanas. Se identificarán las zonas que presentan peligro potencial para los asentamientos humanos del municipio en cuanto a: riesgos de origen natural (sismos, volcánicos, deslaves, inundaciones, huracanes, sequías, tormentas, fallas activas y fracturas geológicas), riesgos producidos por el hombre (incendios, explosiones, desechos domésticos e industriales, rellenos artificiales, gasoductos, poliductos, oleoductos y refinerías), así como zonas de criminalidad, vandalismo y motines;
-
-i. Imagen urbana regional. Identificar los elementos actuales y potenciales en los centros de población en cuanto a: ruinas arqueológicas, iglesias coloniales, monumentos, patrimonio cultural y natural (parques nacionales, bosques y sitios de paisaje, entre otros);
-
-X. Síntesis del medio físico transformado. Representar en plano las localidades de conformidad con la caracterización del sistema de ciudades propuesto para el municipio, el equipamiento más representativo, la infraestructura y servicios regionales, la vivienda que requiere más apoyos, vialidades regionales y principales, transporte principal y los elementos más representativos de la imagen urbana;
-
-XI. Necesidades sentidas por la comunidad. Consiste una percepción de la sociedad, respecto del equipamiento urbano y rural, fuentes de trabajo, servicios y comunicaciones (caminos y carreteras, centros de salud, escuelas, energía eléctrica, alumbrado público, agua potable, drenaje, pavimentos, mercados, panteones, fuentes de empleo, mejoras de recursos turísticos, transportes, recolección de basura, inundaciones, etc.) deficitarios o inexistentes dentro del municipio; y,
-
-XII. Administración del desarrollo urbano. Se identificará y evaluará la forma en que se estructura y opera el Ayuntamiento, incluyendo su organización administrativa, presupuesto y personal que actualmente cuenta, además de identificar las dependencias y organismos del sector público estatal y federal relacionados con el desarrollo urbano que operan en el municipio, así como de los que brindan los servicios públicos municipales de agua potable, alumbrado público, bomberos, drenaje, limpieza, mantenimiento de calles, panteones, mercados, seguridad pública, etc., con el objeto de conocer la capacidad técnica y económica del Ayuntamiento para planear, ejecutar y controlar las actividades referentes al desarrollo urbano;
-
-XIII. El pronóstico municipal. Se desarrollará a través de proyecciones a futuro de los aspectos tratados en el diagnostico, con su tasa de crecimiento y las tendencias que presenta el municipio actualmente en los aspectos demográficos y de crecimiento de las áreas urbanas, en el corto, mediano y largo plazos. El objeto es identificar las localidades que estén creciendo sobre terrenos de alto potencial agrícola, zonas inundables, los impactos en el medio ambiente, así como la problemática generada por la falta de una estructura administrativa adecuada y definir las acciones que ayuden a lograr un desarrollo equilibrado y ordenado del municipio. Lo cual permitirá a las autoridades elaborar propuestas concretas y posteriormente conciliarlas tanto para resolver problemas actuales como para evitar situaciones futuras indeseables; y,
-
-XIV. Diagnóstico-pronóstico integrado. Se efectuará una síntesis integral de la información obtenida y de los aspectos analizados, que permita identificar la problemática así como el potencial de desarrollo del municipio, mediante un análisis de las fortalezas, oportunidades, debilidades y amenazas, particularmente de los aspectos socioeconómicos, del medio físico natural y transformado y de la administración del desarrollo urbano.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 203.
 
-El Medio físico transformado, se integrará por:
-
-I. Un sistema de ciudades (centros de población) a fin de conocer la importancia y tipo de relaciones existentes entre los centros de población del municipio, se analizarán por su rango de población y la función de cada una de ellas dentro del sistema. El estudio comprende el balance de características y capacidades de los actuales centros de población con relación a las demandas; el crecimiento histórico, las repercusiones hacia los usos del suelo y del entorno e identificación de las zonas de crecimiento urbano intermunicipal;
-
-II. Infraestructura y servicios urbanos y rurales por centros de población. Se deberá analizar la situación actual e identificar los problemas de los centros de población del municipio, en cuanto a infraestructura básica: agua potable, drenaje sanitario, alumbrado público y energía eléctrica, así como los servicios urbanos: teléfono, correo, telégrafo, recolección de basura, tratamiento de aguas negras y vigilancia, entre otras, lo que permitirá orientar el aprovechamiento de los mismos y de las acciones que se requieren para evitar deficiencias y carencias actuales y futuras;
-
-III. Oferta turística y servicios complementarios. Se identificará la situación de la oferta y demanda turística observada; situación actual y posibilidad de desarrollo de los atractivos turísticos (en caso de existir);
-
-IV. Usos del suelo. Se identificarán las áreas naturales protegidas o de valor ambiental; los usos dedicados a las actividades productivas: agrícolas (temporal y riego); pecuarias (intensivo y extensivo), forestales (bosques y selvas naturales); agroindustriales, las zonas federales (carreteras pavimentadas, de terracería, caminos, presas, lagos, lagunas, plantas generadoras de electricidad, vías férreas, puertos, aeropuertos, pistas, bordos, canales, ríos, arroyos, etc.), incluyendo sus restricciones; los usos urbanos y reservas territoriales legalmente constituidas. Se definirían también, el uso potencial del suelo: agrícola (temporal y riego), forestal (bosques y selvas), pecuario (intensivo y extensivo), mineral (minas y bancos de materiales), industrial y áreas aptas o ocupadas por el uso urbano. La situación actual que presenten las localidades del municipio en cuanto a tendencias de crecimiento, usos del suelo actuales predominantes, condicionados e incompatibles, tendencia de cambio de uso del suelo y tenencia de la tierra ya sea ejidal, comunal, privada, federal, estatal o municipal;
-
-V. Vivienda. Consistente en un análisis comparativo en términos cualitativos y comparativos de la situación de la vivienda en el municipio, con relación a sus principales localidades, en cuanto a: tipologías en cuanto a urbana y rural, comportamiento de la oferta y vivienda total (cuartos por vivienda, densidad de habitantes por vivienda, materiales con que están construidas); tenencia de las viviendas (propias o rentadas); niveles de hacinamiento, programas institucionales de dotación de vivienda terminada o progresiva, vivienda precaria (mejoramiento o aceptable);
-
-VI. Suelo urbano. Tendencias de crecimiento de las localidades y valores del suelo urbano (catastral y comercial) y terrenos vacantes en la mancha urbana. Equipamiento urbano y rural. Se formulará un análisis relativo al inventario e identificación del equipamiento urbano y regional en los subsistemas de: educación, cultura, salud, asistencia social, comercio, abasto, comunicaciones, transporte, recreación, deporte, servicios urbanos y administración pública. Estudio que se llevará a cabo con base a las consideraciones contenidas dentro del Sistema Normativo de Equipamiento Urbano, expedido por la Secretaria de Desarrollo Social del Gobierno Federal. El objetivo es determinar si es suficiente o no el equipamiento existente, para atender las necesidades de la población o si es necesario alguno nuevo y dónde se deberá ubicar para beneficiar al mayor número de habitantes;
-
-VII. Vialidad y transporte. Se identificará la situación actual de los sistemas de enlace y transporte, la función que desempeñan los principales corredores en el sistema urbano estatal, así como la problemática que presentan (zonas de congestionamiento vial, accidentes de tránsito, etc.). Identificar y conocer el nivel de infraestructura vial con que cuentan los centros de población, así como sus niveles de servicios de los transportes de carga y pasajeros que operan en el municipio y el número de unidades;
-
-VIII. Emergencias urbanas. Se identificarán las zonas que presentan peligro potencial para los asentamientos humanos del municipio en cuanto a: riesgos de origen natural (sismos, volcánicos, deslaves, inundaciones, huracanes, sequías, tormentas, fallas activas y fracturas geológicas), riesgos producidos por el hombre (incendios, explosiones, desechos domésticos e industriales, rellenos artificiales, gasoductos, poliductos, oleoductos y refinerías), así como zonas de criminalidad, vandalismo y motines;
-
-IX. Imagen urbana regional. Identificar los elementos actuales y potenciales en los centros de población en cuanto a: ruinas arqueológicas, iglesias coloniales, monumentos, patrimonio cultural y natural (parques nacionales, bosques y sitios de paisaje, entre otros);
-
-X. Síntesis del medio físico transformado. Representar en plano las localidades de conformidad con la caracterización del sistema de ciudades propuesto para el municipio, el equipamiento más representativo, la infraestructura y servicios regionales, la vivienda que requiere más apoyos, vialidades regionales y principales, transporte principal y los elementos más representativos de la imagen urbana;
-
-XI. Necesidades sentidas por la comunidad. Consiste (sic) una percepción de la sociedad, respecto del equipamiento urbano y rural, fuentes de trabajo, servicios y comunicaciones (caminos y carreteras, centros de salud, escuelas, energía eléctrica, alumbrado público, agua potable, drenaje, pavimentos, mercados, panteones, fuentes de empleo, mejoras de recursos turísticos, transportes, recolección de basura, inundaciones, etc.) deficitarios o inexistentes dentro del municipio; y,
-
-XII. Administración del desarrollo urbano. Se identificará y evaluará la forma en que se estructura y opera el Ayuntamiento, incluyendo su organización administrativa, presupuesto y personal que actualmente cuenta, además de identificar las dependencias y organismos del sector público estatal y federal relacionados con el desarrollo urbano que operan en el municipio, así como de los que brindan los servicios públicos municipales de agua potable, alumbrado público, bomberos, drenaje, limpieza, mantenimiento de calles, panteones, mercados, seguridad pública, etc., con el objeto de conocer la capacidad técnica y económica del Ayuntamiento para planear, ejecutar y controlar las actividades referentes al desarrollo urbano.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 204.
 
-El pronóstico municipal. Se desarrollará a través de proyecciones a futuro de los aspectos tratados en el diagnostico, con su tasa de crecimiento y las tendencias que presenta el municipio actualmente en los aspectos demográficos y de crecimiento de las áreas urbanas, en el corto, mediano y largo plazos. El objeto es identificar las localidades que estén creciendo sobre terrenos de alto potencial agrícola, zonas inundables, los impactos en el medio ambiente, así como la problemática generada por la falta de una estructura administrativa adecuada y definir las acciones que ayuden a lograr un desarrollo equilibrado y ordenado del municipio. Lo cual permitirá a las autoridades elaborar propuestas concretas y posteriormente conciliarlas tanto para resolver problemas actuales como para evitar situaciones futuras indeseables.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 205.
 
-Diagnóstico-pronóstico integrado. Se efectuará una síntesis integral de la información obtenida y de los aspectos analizados, que permita identificar la problemática así como el potencial de desarrollo del municipio, mediante un análisis de las fortalezas, oportunidades, debilidades y amenazas, particularmente de los aspectos socioeconómicos, del medio físico natural y transformado y de la administración del desarrollo urbano.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-#### Sección II. Normativo
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
+
+#### SECCIÓN II
 
 ###### ARTÍCULO 206.
 
-En el nivel normativo se determinarán los objetivos generales, específicos, las metas, la acciones para el ordenamiento del territorio y desarrollo urbano de los centros de población, de acuerdo a lo siguiente:
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-I. Los objetivos generales y específicos, estarán referidos a los fines que persiguen la comunidad y el sector público, con respecto al territorio municipal para el desarrollo urbano propuesto. Los objetivos orientarán la estrategia, la programación y corresponsabilidad sectorial e instrumentación del programa;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Los objetivos generales se establecerán en función del medio ambiente, la actividad económica y el desarrollo social esperado para el municipio, además de incorporar los incluidos en los programas nacional y estatal de desarrollo urbano y el ordenamiento ecológico del territorio correspondiente y para los objetivos específicos, se determinarán en función de los componentes urbanos siguientes: planeación, suelo, infraestructura, vivienda, vialidad, transporte, equipamiento urbano y rural, industria, turismo, imagen urbana, medio ambiente, emergencias urbanas, participación de la comunidad y administración urbana;
-
-III. Las metas para el desarrollo urbano se formularán en función al medio ambiente, la actividad económica y el desarrollo social. Serán estrictamente cuantificables, concretas y especificas; se planificarán en el corto, mediano y largo plazos. Estos parámetros servirán para evaluar los resultados de la planificación urbana contenida en los programas de Desarrollo Urbano;
-
-IV. Las acciones del ordenamiento del territorio, se establecerán de acuerdo a un escenario de distribución de la población y de las actividades económicas, sistemas de ciudades y desarrollo urbano de los centros de población, a efecto de que el municipio se pueda desarrollar ordenadamente, al utilizar en forma adecuada el territorio. En el escenario de distribución de la población y de las actividades económicas, se propondrá la distribución deseada de la población y de las actividades económicas en el corto, mediano y largo plazos, con base en lo previsto en el Programa Nacional y Estatal de Desarrollo Urbano;
-
-V. El sistema de ciudades esta definido en el Programa Estatal de Desarrollo Urbano. En base a dicho sistema se procederá a definir lo específico al municipio de acuerdo a los niveles regional, estatal, intermedio, medio, básico y servicios rurales concentrados o los que determine el Programa Estatal. Esta definición será la base para la jerarquización de los centros de población. El sistema de ciudades definido fungirá como la estructura que permita que los diferentes organismos públicos responsables tanto de la dotación de servicios urbanos, como de la construcción de equipamiento e infraestructura, tomen a este sistema de ciudades, como la directriz para la ejecución de acciones e inversiones en materia de desarrollo urbano;
-
-VI. En materia de planeación del desarrollo urbano, se definirán los centros de población que requerirán de formulación o actualización de su programa de desarrollo urbano en el corto, mediano y largo plazos y se identificarán las políticas asignadas a los centros de población que formen parte del sistema de ciudades ya sea de impulso, consolidación, regulación o control; así como las acciones de conservación, mejoramiento o crecimiento; lo cual permitirá a las autoridades municipales, orientar sus decisiones en cuanto a inversiones en los diferentes centros de población del municipio;
-
-VII. Se deberán identificar y atender del Programa Nacional de Desarrollo Urbano, el Programa Estatal de Desarrollo Urbano y el Programa Estatal de Ordenamiento Ecológico correspondiente, así como a los demás programas de tipo sectorial con injerencia en el municipio, las disposiciones y acciones mas importantes referentes a medio ambiente, comercio, turismo, comunicaciones y transportes, entre otros y que resulten condicionantes para la elaboración de la estrategia del Programa; y,
-
-VIII. En la dosificación del desarrollo urbano, se realizará un estimado (hipótesis) del crecimiento poblacional y de la superficie en que lo hará, así como los criterios para dosificar en el tiempo los componentes de la estructura urbana, principalmente los relacionados con: suelo, infraestructura, equipamiento urbano y regional, vivienda, vialidad e imagen urbana; por otro lado, formular proyecciones estadísticas de la estructura de la población, por niveles de ingreso.
-
-Estos elementos permitirán establecer opciones para el desarrollo urbano y, posteriormente, diseñar la estrategia del Programa Municipal.
-
-#### Sección III. Estratégico
+#### SECCIÓN III
 
 ###### ARTÍCULO 207.
 
-En el nivel estratégico se establecerán las políticas de desarrollo urbano y la zonificación primaria; así como los lineamientos y criterios para la elaboración y ejecución de los programas operativos a realizarse en el territorio municipal.
-
-Se deberá identificar la circunscripción territorial que comprende el municipio. Las políticas de desarrollo urbano se definirán con base a los objetivos, metas, características particulares del municipio y centros de población prioritarios, considerando su impacto hacia las zonas de influencia, mismas que se desarrollarán en función de los temas siguientes:
-
-I. Medio Ambiente. Se especificarán políticas que garanticen el aprovechamiento racional de los recursos naturales (agua, suelo y aire) y la preservación y restauración del equilibrio ecológico. Con base en esta política se determinarán las áreas o predios susceptibles de aprovechamiento, debiéndose prever restricciones o prohibiciones para los usos urbanos e industriales de transformación, en los terrenos considerados como de alta producción agrícola, forestales, pecuarios, minerales, de recarga y afloramiento de mantos freáticos;
-
-II. Actividad Económica. Se establecerán los lineamientos para ordenar la distribución de las actividades productivas en los centros de población o en el territorio municipal. En su caso, considerar construir, ampliar o mejorar la infraestructura turística;
-
-III. Contexto Social. La determinación de las políticas estarán orientadas a la protección racional del suelo urbano, para mejorar la calidad de vida de los habitantes de los centros de población; y,
-
-IV. La zonificación del territorio; a través de un sistema de ciudades de los centros de población del municipio, cuyo objetivo es la definición de sus relaciones entre si y sus funciones, para inducir el crecimiento urbano o rural, construir, ampliar o mejorar la infraestructura, el equipamiento y los servicios públicos de cobertura estatal y regional, la vialidad de enlace interurbano y la vivienda.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 208.
 
-La estrategia general se diseñará en función del cumplimiento de los objetivos y metas del nivel normativo, el cual tendrá como objetivo fortalecer e impulsar el ordenamiento de los asentamientos humanos, de las actividades productivas y de población en el corto (3 años), mediano (4 a 10 años) y largo plazo (11 a 25 años).
-
-La estrategia urbana en función al medio ambiente, estará relacionada con el Ordenamiento Ecológico del Territorio respectivo y deberá evaluar diversas propuestas encaminadas a solucionar los problemas del medio ambiente en lo relativo a clasificación ecológica de los usos del suelo, disponibilidad de suelos adecuados para el desarrollo urbano, caracterización de los ecosistemas con base en su diversidad biológica, patrimonio natural y control de la erosión y contaminación.
-
-El objetivo de esta estrategia, es definir un orden ecológico referido en unidades de gestión ambiental, que aplique para áreas con características comunes. El modelo definirá las políticas de protección, aprovechamiento, restauración y conservación del medio ambiente y determinará las características que definen la vocación del suelo, para el aprovechamiento integral de los recursos naturales del municipio.
-
-Estrategia urbana en función del desarrollo económico, en ésta se determinarán las zonas de potencial económico (comercial, industrial o de servicios), acordes con la vocación del suelo, que permitan su aprovechamiento productivo y propicien la identificación de proyectos detonadores de desarrollo. La estrategia se recomienda sea resultado del acuerdo entre los diversos sectores involucrados en el desarrollo económico del municipio.
-
-En la estrategia para el desarrollo urbano, se determinará el sistema de ciudades con base en la regionalización funcional del municipio, los enlaces desde el punto de vista del ordenamiento territorial urbano, de los centros de población prioritarios y de los lineamientos para el desarrollo conforme a su vocación del suelo. El sistema de ciudades fungirá como la directriz para la ejecución de acciones e inversiones en materia de desarrollo urbano de los diferentes organismos públicos responsables tanto de la dotación de servicios urbanos, como de la construcción de equipamiento e infraestructura.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 209.
 
-La zonificación primaria del municipio y la determinación de los aprovechamientos o utilización del suelo en las distintas zonas del territorio municipal, se clasificarán como:
-
-I. Áreas urbanas actuales;
-
-II. Áreas de expansión o crecimiento urbano; y,
-
-III. Áreas de preservación y conservación ecológica.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 210.
 
-Las áreas urbanas actuales. Se identificará por cada centro de población los usos y destinos de suelos existentes, clasificados en habitacional, comercial y de servicios, industriales, centros y corredores urbanos, estructura vial, centros turísticos, preservación y reserva ecológica, entre otros.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 211.
 
-Las áreas de expansión o crecimiento urbano. Son aquellas que reúnen las condiciones necesarias para la urbanización y por tanto se reservan para el futuro crecimiento de los centros de población, se definirá el área con potencial de desarrollo urbano y se propondrán los usos del suelo, de acuerdo con los grupos señalados en las áreas urbanas actuales.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 212.
 
-Las áreas de protección y preservación ecológica. Son las zonas o espacios que conservan sus características originales ambientales o que no han sido significativamente alteradas por la actividad humana. Estas áreas se deberán preservar, para lo cual se especificarán las medidas de protección y las modalidades para su aprovechamiento controlado, mismas que se sustentarán en criterios e indicadores de carácter ambiental, económico y social.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 213.
 
-Se elaborará una tabla de compatibilidades de los usos del suelo que establezca usos del suelo específicos y de impacto significativo (permitidos, condicionados o prohibidos). Se propondrá el enlace con programas tanto institucionales como del sector privado, con injerencia en el desarrollo urbano del municipio, para los horizontes de planeación previstos: a corto plazo (1 a 3 años), a mediano plazo (4 a 10 años) y largo plazo (11 a 25 años). Se dará especial atención a las áreas conurbadas (funcionales o físicas).
-
-Las propuestas de acciones para el desarrollo de las zonas urbanas del municipio, deberán abordar los aspectos siguientes:
-
-l. Vivienda: urbana y rural terminada, progresiva, de mejoramiento, parque de materiales y auto construcción;
-
-II. Equipamiento: educación, cultura, salud, asistencia pública, comunicaciones y transportes, recreación y deportes, servicios urbanos, administración pública, seguridad y justicia;
-
-III. Infraestructura urbana: agua potable, alcantarillado sanitario y pluvial, energía eléctrica, alumbrado público y pavimentos. Las propuestas deberán tomar en cuenta no sólo la población del centro de población que tendrá el servicio, sino aquella a la que sirvan en un radio determinado de influencia;
-
-IV. Servicios urbanos: teléfono, recolección de basura, tratamiento de aguas residuales, vigilancia, y otros. El objeto es el de prever la dotación de servicios para el futuro, adecuados a los centros de población que conforman el sistema de ciudades;
-
-V. Vialidad y transporte: tendientes a solucionar los problemas de funcionamiento en los sistemas de vialidad y transporte. Se deberá identificar y proponer la vialidad o sistemas de enlace que comprenderá las carreteras interestatales, federales, avenidas principales, boulevares, calles primarias, secundarias, accesos, etc., y el transporte urbano en el que se estimará el porcentaje en que se deberá incrementar el sistema de transporte para satisfacer el déficit actual y el crecimiento esperado;
-
-VI. Ecología urbana: encaminadas a solucionar los problemas del medio ambiente en lo referente a: el ordenamiento ecológico del territorio, las unidades de gestión ambiental, la preservación del medio ambiente, el patrimonio natural y cultural, así como el control de la erosión y contaminación.
-
-VII. Prevención y atención a emergencias urbanas: orientadas a evitar o prevenir posibles fenómenos naturales (inundaciones, ciclones, huracanes, sismos, fallas, fracturas, volcanes activos, etc.) o los provocados por el hombre (desechos domésticos o industriales, rellenos artificiales, incendios, explosiones, gasoductos, poliductos, oleoductos y refinerías) en los asentamientos humanos;
-
-VIII. Clasificación básica de aptitudes del suelo: para determinar los usos y el potencial del suelo del municipio, clasificado en: urbano, industrial, agrícola, pecuario, forestal o extractivo, recreativo y/o paisaje y otros usos;
-
-IX. Las provisiones para la fundación de nuevos centros de población; y,
-
-X Áreas para otras ocupaciones de acuerdo a cada particularidad municipal, en la aplicación de políticas de protección, conservación, preservación, mejoramiento o regeneración.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 214.
 
-En este nivel de planeación se propondrán las líneas estratégicas como proyectos detonadores de desarrollo, las siguientes:
-
-l. La definición de las áreas o centros de población sujetos a programas de desarrollo urbano específicos;
-
-II. Para el rescate y conservación de zonas de patrimonio natural y cultural;
-
-III. La imagen urbana;
-
-IV. Operación del desarrollo urbano y su fortalecimiento;
-
-V. Atención a las emergencias urbanas;
-
-VI. Apoyo a las áreas municipales de planeación urbana;
-
-VII. Mecanismos de participación ciudadana en la promoción y gestión del desarrollo urbano;
-
-VIII. Simplificación de la administración urbana; y,
-
-IX. Etapas de desarrollo en los horizontes de planeación (corto, mediano y largo plazo). Para cumplir las metas propuestas, será necesario definir las áreas a desarrollar, cuantificar la superficie en cada una de las áreas para cada etapa; considerar la población esperada y/o beneficiada y determinar los plazos de realización.
-
-En todos los casos, las características de las líneas deberán considerar la rentabilidad económica, desarrollo social y la promoción de la inversión privada.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 215.
 
-Para la integración de las estrategias se observarán las recomendaciones generales siguientes:
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-I. Observar la normatividad urbana;
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Establecer medidas para la preservación y restauración del medio ambiente;
-
-III. Propiciar el rescate y el reforzamiento de la imagen urbana;
-
-IV. Organizar la estructura urbana; regional, municipal y principal de los centros de población;
-
-V. Dosificar los usos del suelo para los componentes básicos de vivienda, industria, servicios, vialidad y equipamiento;
-
-VI. Orientar el crecimiento de los centros de población, conforme a la vocación del suelo;
-
-VII. Optimizar los usos del suelo en función a su vocación;
-
-VIII. Dotar a los centros de población de reservas territoriales patrimoniales, que eviten el fenómeno de invasión - regularización;
-
-IX. Definir un sistema de transporte público eficiente y económico; y,
-
-X. Consolidar un sistema urbano organizado, mediante el complemento de la Infraestructura y equipamiento faltante.
-
-#### Sección IV. Programático y de Corresponsabilidad Sectorial
+#### SECCIÓN IV
 
 ###### ARTÍCULO 216.
 
-Se integrarán programas que contengan de forma jerarquizada las acciones, obras y servicios que deberán realizarse en el corto, mediano y largo plazos, con el objetivo de cumplir las metas planteadas. Se identificarán e incluirán las líneas estratégicas de proyectos detonadores de desarrollo.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-Las corresponsabilidades del sector público federal, estatal y municipal, así como del privado y social para el desarrollo del municipio se determinarán en los subsistemas de educación, cultura, salud, asistencia social, comunicaciones, transportes, recreación, deporte, administración pública, turismo, medio ambiente y servicios urbanos, entre otros.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-Los resultados se integrarán en dos partes. La primera expondrá brevemente los antecedentes, propósitos principales, acciones propuestas, responsables de la ejecución y costos globales, así como los instrumentos necesarios para la ejecución de las acciones, obras y servicios y su ubicación territorial.
-
-En la segunda parte, se formularán las matrices de programación y corresponsabilidad sectorial para los programas de planeación urbana, suelo urbano y reservas territoriales, infraestructura urbana (agua potable, drenaje sanitario y pluvial, electrificación, teléfonos y pavimentos), vivienda, vialidad y transporte, equipamiento urbano y rural, industria, turismo, imagen urbana, patrimonio cultural, medio ambiente, prevención y atención a las emergencias urbanas, participación social y administración del desarrollo urbano.
-
-Asimismo se establecerán los criterios de concertación con los sectores social y privado mediante convenios, acuerdos o algún otro mecanismo que permita la realización de las obras, acciones y servicios contenidos en el programa.
-
-La estructura de la matriz contendrá el nombre del programa, acciones y servicios a realizar, unidad de medida, cantidad, ubicación específica, prioridad, costo, plazo, responsable de la ejecución y clave de ubicación respecto del plano del anexo grafico. Se cuidará la congruencia entre el diagnóstico-pronóstico y la estrategia propuesta.
-
-#### Sección V. Instrumental
+#### SECCIÓN V
 
 ###### ARTÍCULO 217.
 
-El nivel instrumental tiene como objeto definir todos (sic) mecanismos de instrumentación y acciones que se habrán de utilizar o realizar para el logro de los objetivos, metas y políticas, de coordinación, control y seguimiento, así como aquellos que permitan evaluar y retroalimentar el programa.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 218.
 
-Los mecanismos de instrumentación y acciones se dan a través de:
-
-I. La participación ciudadana en la formulación o actualización, seguimiento y evaluación del programa. Esta acción se podrá atender a través de la Comisión Municipal;
-
-II. La aprobación, publicación e inscripción del programa municipal en los términos de este Código;
-
-III. Las fuentes de ingresos municipales, estatales o federales, así como del sector privado y social o créditos nacionales e internacionales;
-
-IV. Las fuentes alternativas de financiamiento de la iniciativa privada, que generen rentabilidad económica y alto beneficio social al municipio y sus habitantes;
-
-V. La formación o consolidación del equipo y oficinas de planeación y operación urbana, así como su capacitación permanente;
-
-VI. La formulación o actualización de normas, reglamentos, criterios y lineamientos del desarrollo urbano del municipio;
-
-VII. La difusión del programa y sus productos;
-
-VIII. La formulación o actualización de los programas derivados; y,
-
-IX. Los demás que sean necesarios para garantizar la vigencia jurídica y puesta en operación.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 219.
 
-Se establecerán los mecanismos de coordinación, control y seguimiento de las acciones y obras previstas en el programa, a efecto de ejecutarlas, asegurar su operatividad, definir un esquema de corresponsabilidad con el sector público en sus tres ámbitos de gobierno (federal, estatal y municipal) y acordar las acciones de inducción con el sector privado y social.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 220.
 
-Se establecerán mecanismos de evaluación y retroalimentación del desarrollo urbano que incluyan los criterios y procedimientos para su realización en los tres horizontes de planeación del programa, con el objeto de ratificar o rectificar las estrategias del ordenamiento ecológico territorial, desarrollo urbano, económico y social.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-Los mecanismos incluirán los lineamientos, formatos, cuadros e instructivos necesarios, para los reportes anuales sobre los resultados del programa.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-#### Sección VI. Anexo Gráfico
+#### SECCIÓN VI
 
 ###### ARTÍCULO 221.
 
-El anexo gráfico, deberá contener los planos que expresen la problemática y potencialidades detectadas y las propuestas de acciones de solución. Para su elaboración se sugieren las escalas de 1:50,000 o 1:20,000 dependiendo del tamaño del municipio y en los planos siguientes:
-
-I. Diagnóstico - pronóstico;
-
-II. Políticas y estratégicas; y,
-
-III. Programático y de Corresponsabilidad Sectorial.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 222.
 
-El diagnóstico- pronóstico deberá contener:
-
-I. Marco de referencia. Consistente en la localización geográfica, altitud sobre el nivel del mar, colindancias, división política administrativa, extensiones por localidades y vialidades principales;
-
-II. Medio físico natural. Incluye el clima, la diversidad biológica, la topografía, la hidrografía, la geología, la edafología, el medio ambiente, el uso actual y potencial del suelo, los riesgos y vulnerabilidad y la síntesis del medio físico natural;
-
-III. Medio físico transformado. Identifica el equipamiento urbano y rural, vivienda, suelo urbano, infraestructura y servicios urbanos y rurales, vialidad y transporte, imagen urbana y síntesis de medio físico transformado del municipio;
-
-IV. Aspectos demográficos. Identifica la demografía, migración y síntesis de los aspectos demográficos;
-
-V. Aspectos económicos. Integra la distribución territorial por sectores (inversiones), estratificación y síntesis de los aspectos económicos;
-
-VI. Ocupación del suelo municipal. Identifica la infraestructura interurbana, tenencia de la tierra y síntesis de la ocupación del espacio geográfico;
-
-VII. Necesidades sentidas por la comunidad;
-
-VIII. Desarrollo urbano de los centros de población. Identifica en plano los centros de población que requieren de programa de desarrollo urbano y las políticas previstas para su desarrollo;
-
-IX. Pronóstico municipal. Identifica los aspectos más relevantes del diagnóstico, que deberá presentar la imagen del municipio a futuro, sin incluir medidas correctivas que modifiquen la situación actual;
-
-X. Síntesis de la problemática y potencialidades. Incluye lo urbano, rural, ambiental, económico y social; y,
-
-XI. Aptitud territorial.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 223.
 
-Las políticas y estrategias deberán de contener:
-
-I. Circunscripción territorial. Identificar el plano la circunscripción territorial del municipio;
-
-II. Estrategia territorial. Definir el modelo de ordenamiento urbano, ecológico territorial, turístico y otros, en función de los objetivos y las metas;
-
-III. Estructura urbana y zonificación primaria. Se integra por las áreas de reservas para el crecimiento de los centros de población, los usos y los destinos para la vivienda, equipamiento, infraestructura, vialidad y transporte, ecología urbana, prevención y atención a emergencias urbanas y clasificación de las aptitudes del suelo, la síntesis de acciones del medio físico transformado y propuestas para la infraestructura interurbana, industrial, recreación y paisaje, agropecuaria, forestal, particularidades del municipio y provisiones.
-
-IV. Sistema de ciudades, regionalización y enlaces; y,
-
-V. Proyectos estratégicos de infraestructura, equipamiento y servicios de carácter regional y/o municipal detonadores de desarrollo del municipio.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 224.
 
-En el correspondiente a la Programación y Corresponsabilidad Sectorial, se deberá fijar la ubicación de las acciones y programas prioritarios.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 225.
 
-Las tablas de información que se deberán de realizar son las siguientes:
-
-l. Diagnóstico-pronóstico:
-
-a. Aspectos socio económicos: contendrá la dinámica de crecimiento poblacional de los periodos 1970-1980,1980-1990, 1990-2000 y 2000-2005, la distribución de la población por nivel de ingreso y rama de actividad económica; y,
-
-b. Estructura Urbana: integrará el uso actual del suelo (cuantificación en hectáreas y participación porcentual con relación a la zona de estudio), la oferta de suelo urbano, número de viviendas por tipo y calidad, oferta de vivienda por tipo y agente promotor e inventario de equipamiento urbano de carácter regional.
-
-II. Dosificación del desarrollo urbano:
-
-a. Las hipótesis de crecimiento poblacional y la superficie;
-
-b. La dosificación del suelo;
-
-c. La dosificación del equipamiento urbano y regional; y,
-
-d. La proyección estadística de la estructura de la población, por niveles de ingreso.
-
-III. Políticas y estrategias:
-
-a. Las compatibilidades de usos y destinos del suelo;
-
-b. Las reservas y etapas de desarrollo; y,
-
-c. Las perspectivas de zonas con proyectos detonadores de desarrollo regional.
-
-IV. Programático y corresponsabilidad sectorial:
-
-a. La ubicación de acciones y programas prioritarios.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 226.
 
-Las formalidades para la presentación y entrega final del estudio son:
-
-l. Documento Técnico (versión amplia), impreso;
-
-II. Síntesis Ejecutiva (versión abreviada);
-
-III. Gráficos; y,
-
-IV. Anexo Técnico y Estadístico.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 227.
 
-El Documento Técnico deberá contar con las características siguientes:
-
-I. Extensión máxima de 150 cuartillas;
-
-II. Se incorporará un índice, la fecha de elaboración, las páginas deberán estar foliadas y contener las referencias bibliográficas;
-
-III. Contar con un original y dos copias del documento;
-
-IV. El original se presentará sin engargolar ni encuadernar;
-
-V. Las copias deberán estar engargoladas o encuadernadas; y
-
-VI. Archivo magnético.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 228.
 
-La síntesis ejecutiva suficientemente sustentada, comprenderá como mínimo, un plano por cada uno de los temas de diagnóstico-pronóstico, políticas y estrategias y de programación y corresponsabilidad sectorial, cumplirá con las mismas formalidades de presentación y entrega definidas en el artículo anterior, salvo las cuartillas que serán como máximo 50, misma que será utilizada para su publicación en el Periódico Oficial así como para la difusión del Programa.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 229.
 
-El Anexo Gráfico deberán (sic) tener las características siguientes:
-
-I. Las tramas de la simbología deberán ser a color. Los tipos de textura a utilizarse en los planos deberán permitir la interpretación de la misma en copias blanco y negro;
-
-II. Las escalas se determinarán de acuerdo a la cobertura y temática del área de estudio (escalas 1:50,000 o 1:20,000);
-
-III. Los planos deberán señalar el nombre del Programa, la clave, el nombre del plano y contar con un área para la firma de las autoridades municipales que aprueben el programa. Incluir el escudo del municipio y del Estado;
-
-IV. Los planos originales se deberán entregar en material estable y reproducible;
-
-V. Las copias de los planos originales en papel bond;
-
-VI. El archivo magnético se entregará en disco compacto, en el formato que las autoridades municipales determinen; y,
-
-VII. El formato y tamaño de los planos, láminas y gráficos deberán ser aprobados por las autoridades municipales. Se debe considerar la eventual modificación del tamaño de los planos, para integrar la versión abreviada que será publicada.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 230.
 
-EL Anexo Técnico y Estadístico se integrará con los archivos, que se generen durante el proceso de formulación o actualización del Programa, mismo que incluirá:
-
-l. La información básica de campo y gabinete;
-
-II. Las normas y procedimientos utilizados;
-
-III. Los cálculos y análisis efectuados, y,
-
-IV. Todos los planos de trabajo.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 231.
 
-Los alcances mencionados son enunciativos y de observancia, más no limitativos, por lo que cada tema puede ser enriquecido con la experiencia de las autoridades municipales y/o de la empresa consultora responsable de formular o actualizar el estudio, debiendo de cumplir como mínimo con los puntos contenidos en este Capítulo.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-En el proceso de formulación del programa, se deberá realizar un calendario de revisión de avances, que incluya cuatro presentaciones como mínimo: al término del diagnóstico pronóstico; al finalizar las políticas y estrategias; al concluir el nivel de la instrumentación; y a la entrega final del programa, una vez incorporadas las observaciones generadas durante los procesos de la consulta ciudadana.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-### Capítulo I. De los Desarrollos
+### CAPÍTULO II
 
 ###### ARTÍCULO 232.
 
-Para la formulación de un Programa de Desarrollo Urbano de Centro de Población, se deberá integrar un documento técnico (versión completa y abreviada) y un anexo gráfico, el cual se instrumentará en los niveles de planeación siguientes:
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-I. Antecedentes;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Normativo,
-
-III. Estratégico;
-
-IV. Programático y de Corresponsabilidad Sectorial; e,
-
-V. Instrumental.
-
-#### Sección I. Antecedentes
+#### SECCIÓN I
 
 ###### ARTÍCULO 233.
 
-En los antecedentes deberá contener como mínimo lo siguiente:
-
-I. Introducción. Se explicará brevemente la importancia y trascendencia del programa expresado en políticas, líneas estratégicas, propósitos y alcances, así como la problemática general urbana del centro de población;
-
-II. Relación funcional del centro de población en el contexto estatal regional y municipal. Se identificarán los principales sectores y actividades productivas del centro de población, explicando la vinculación funcional de la actividad productiva local en el ámbito del sistema ciudades estatal y municipal, con base en el análisis de las políticas y acciones estratégicas de la administración estatal;
-
-III. Fundamentación jurídica. Se definirán las bases jurídicas que sustentan y motivan la formulación o actualización del programa, destacando los elementos de enlace y concurrencia con los instrumentos de planificación urbana vigentes a nivel nacional, estatal, regional y municipal.
-
-IV. Ámbito subregional. Se estudiará el contexto subregional, municipal y del centro de población, con el propósito de identificar las fortalezas y debilidades del centro población con base al análisis de los elementos siguientes: con base en los intercambios municipales, equipamiento e infraestructura municipal y regional. Una vez integrados se realizará un balance de las características y capacidades de la infraestructura con relación a la demanda actual en cuanto a servicios de agua potable, drenaje, redes carreteras, ferroviarias, aérea, telecomunicaciones y electrificación;
-
-V. Delimitación del área de estudio. Consistirá en la localización geográfica, altitud sobre el nivel del mar, colindancias, división política administrativa, identificación de la infraestructura y equipamiento regional y la delimitación del área de estudio;
-
-VI. Medio físico natural. Se evaluarán los recursos existentes y potenciales del patrimonio natural (suelo, aire y agua), y cultural (histórico y paisajístico).
-
-VII. Medio físico transformado. Se elaborará un diagnostico del estado que guardan los componentes de suelo, infraestructura, vivienda, vialidad, transporte urbano, equipamiento urbano, industria, turismo, imagen urbana, patrimonio cultural, tendencias de crecimiento urbano, medio ambiente y riesgos y vulnerabilidad;
-
-VIII. Aspectos demográficos. A partir de la información estadística existente, se integrará un análisis de la composición dinámica y distribución de la población del centro de población. Se analizará el crecimiento natural y social, la migración, crecimiento poblacional histórico, estructura de la población por edad y sexo, grupos quinquenales y pirámide de edades; número y tamaño de las familias, miembros por familia (promedio familiar), niveles de fecundidad, niveles de mortalidad, niveles de morbilidad, tendencias, tasas y proyecciones de población y densidades neta, urbana y bruta. Con base en esta información se identificarán las repercusiones en la demanda de suelo, infraestructura, equipamiento y servicios, en las principales zonas urbanas de uso habitacional;
-
-IX. Aspectos económicos. Tomando como base la información estadística, geográfica y poblacional existente, se identificarán los principales indicadores económicos por sectores y ramas de las actividades productivas del centro de población (primarias, secundarias, terciarias y no especificada), incluyendo sus volúmenes de producción, antecedentes históricos, tasas brutas y de crecimiento promedio anual. La interacción de estas actividades, con evolución y perfil de la actividad económica actual. Se especificará el porcentaje de población que representa cada uno de los sectores, nivel de ingreso, actividades productivas y el comportamiento de la Población Económicamente Activa en las dos últimas décadas. Los niveles de industrialización al identificar los tipos de industria, su localización, evolución, conformación y distribución física, así como sus características de ligera, mediana, pesada y su aportación al Producto Interno Bruto. Los niveles de empleo, subempleo, desempleo, precios y salarios. Indicar obstáculos y perspectivas de desarrollo económico;
-
-X. Necesidades sentidas por la comunidad. Consistirá en la percepción de la sociedad respecto del equipamiento urbano, fuentes de trabajo, servicios y comunicaciones (caminos y carreteras, centros de salud, escuelas, energía eléctrica, alumbrado público, agua potable, drenaje, pavimentos, mercados, panteones, fuentes de empleo, mejoras de recursos turísticos, transportes, recolección de basura, etc.) deficitarios o inexistentes dentro del centro de población;
-
-XI. Administración del desarrollo urbano. Se identificará y evaluará la forma en que se estructura y opera el Ayuntamiento para determinar sus potencialidades y limitaciones, incluyendo su organización administrativa, presupuesto y personal con que actualmente cuenta, además de identificar el nombre de las dependencias del municipio y de cada uno de los organismos del sector público estatal y federal con incidencia en el desarrollo urbano, así como de los que brindan los servicios públicos municipales de agua potable, alumbrado público, bomberos, drenaje, limpieza, mantenimiento de calles, panteones, mercados, seguridad pública, etc. Determinar la capacidad técnica y económica del Ayuntamiento para planear, ejecutar y controlar las actividades referentes al desarrollo urbano;
-
-XII. Aptitud territorial. Se deberán definir las zonas aptas y no aptas para el desarrollo urbano, con la finalidad de planear la expansión del área urbana a largo plazo. Este análisis estará en función de los subcomponentes síntesis (sic) del medio físico natural, imagen urbana del área de estudio e infraestructura.
-
-Las zonas se deberán clasificar en aptas para el desarrollo urbano con suma de factores del medio físico natural, de urbanización a bajo costo, de urbanización con costo alto, las que se deben de preservar por imagen urbana o valor cultural y uso potencial del suelo; y,
-
-XIII. Diagnóstico-pronóstico integrado. Se efectuará una síntesis integral de la información obtenida y de los aspectos analizados, que permitirá identificar la problemática, como el potencial de desarrollo urbano de la zona de estudio. Se destacarán aspectos relevantes de la situación actual y previsible, en lo que se refiere a aspectos económicos y demográficos, medios físico natural y transformado y administración del desarrollo urbano. La síntesis deberá ofrecer un diagnóstico claro de fortalezas, oportunidades, debilidades y amenazas del centro de población.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 234.
 
-En el medio físico natural al que se refiere la fracción VI del artículo anterior, se describirán con precisión los componentes siguientes:
-
-I. La localización;
-
-II. El clima; el registro puntual de la precipitación pluvial, temperatura mínima, máxima y temperatura promedio anual;
-
-III. Diversidad biológica;
-
-IV. La clasificación del uso actual del suelo; a través de identificar y delimitar los usos siguientes:
-
-a. Preservación ecológica. Bosques, selvas, matorrales, huizachal, pastizales, manglar, tular, palmar, duna costera, mezquital, alta montaña, nopal, chaparral, matorral, confieras u otros;
-
-b. Actividades extractivas. Identificar y delimitar los bancos de materiales, minas y zonas de explotación petrolera; y,
-
-c. Actividades agropecuarias. Identificar y delimitar las tierras para la agricultura de riego o temporal, huertas o frutales, establos y granjas;
-
-V. La geología. La descripción del tipo de rocas: ígnea, intrusita, exclusiva, sedimentaria, metamórficas; los rasgos estructurales: fallas, fracturas, dolinas y deslizamientos, así como los bancos de materiales: yeso, cal, grava, arena, u otros;
-
-VI. Hidrología. Identificar y localizar los:
-
-a. Cuerpos de aguas subterráneas: zonas de recarga de acuíferos, manantiales, pozos, zonas con posibilidades de agua subterránea y zonas hidrotermales;
-
-b. Cuerpos de aguas superficiales: ríos, arroyos, lagos, lagunas, presas, bordos, canales, pantanos y esteros;
-
-c. Fenómenos hidrometeorológicos: zonas inundables, cauces de escurrimientos no controlados y zonas de precipitación pluvial elevada; y,
-
-d. Proyecciones estadísticas para calcular el tiempo medio de abastecimiento de agua en función del recurso disponible y de fuentes alternativas.
-
-VII. La edafología. La caracterización de los diversos tipos de suelos: expansivos, colapsables, granulares, sueltos, dispersivos, corrosivos, altamente orgánicos, zonas inestables y tipos de suelo según su capacidad para las actividades agrícolas (clases I, II y III), debiéndose prever las prohibiciones o restricciones para la determinación de áreas de crecimiento urbano del centro de población, sobre tierras o zonas de alta productividad agrícola, forestal y pecuaria;
-
-VIII. La topografía. Los accidentes y pendientes en los rangos de cero a dos por ciento; del dos al cinco por ciento; del cinco al quince por ciento; del quince al treinta por ciento y del treinta al cuarenta y cinco por ciento;
-
-IX. Evaluación de la problemática ambiental. Zonas inundables, extracción de bancos de materiales, deforestación, fuentes e índices de contaminación (impacto ambiental), sobreexplotación de los recursos y deterioro del paisaje urbano; y,
-
-X. Síntesis del medio físico natural. Integra la problemática ambiental, las pendientes escarpadas mayores al 15%, los cuerpos de agua superficiales, los usos potenciales productivos del área de estudio, los vientos dominantes y los sitios de interés paisajístico.
-
-El proceso de clasificación tendrá como objetivo determinar la fragilidad, riesgos y vulnerabilidad del territorio ante eventos naturales.
-
-Se identificarán las zonas o áreas con vocación ecológica en el área de estudio, a fin de proponer que se regulen con criterios ambientales. Con el mismo objeto se identificarán las zonas declaradas como de valor histórico y arqueológico.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 235.
 
-En el Medio físico transformado al que se refiere la fracción VII del artículo 233, se describirán con precisión los componentes siguientes:
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-I. Infraestructura del centro de población; se determinará los niveles de suministro a fin de detectar el déficit o superávit de los servicios siguientes:
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
 
-a. Agua potable. Se deberá indicar las áreas cubiertas y no cubiertas por el servicio. Tipo de servicio: hidrantes o tomas domiciliarias. Ubicación de las fuentes de abastecimiento y capacidad. Ubicación y capacidad de tanques de regularización y altura respecto de las zonas habitacionales. Diámetros predominantes del sistema. Calidad del agua. Costos de introducción del servicio. Estado físico de la red y antigüedad (fugas, filtraciones, etc.). Problemática;
-
-b. Drenajes (sanitario, pluvial y combinado). Se deberá indicar las áreas cubiertas y no cubiertas con el servicio. Plantas de tratamiento (ubicación, tipo y capacidad).
-
-Zonas de vertido. Tipos de descargas (grises, negras o industriales). Diámetros predominantes de la red. Estado físico y antigüedad. Problemática;
-
-c. Alumbrado público y electrificación. Se deberá indicar las áreas cubiertas y no cubiertas con el servicio. Derechos de vía y restricciones. Subestaciones. Líneas de alta tensión. Procedencia de la energía eléctrica. Tipo de alumbrado. Problemática; y,
-
-d. Pavimentos. Se deberá indicar la superficie cubierta y no cubierta con el servicio. Porcentaje de calles pavimentadas y no pavimentadas con o sin banquetas, según tipo de vía. Tipos de pavimentos (concreto hidráulico, concreto asfáltico, asfalto, adoquín y empedrado) y su ubicación.
-
-II. Equipamiento Urbano. Identificar y localizar el equipamiento urbano existente en el centro de población, su localización, nivel de servicio, tipo y número de unidades, superficie ocupada, población atendida, etc., de conformidad con las consideraciones técnicas contenidas en el Sistema de Equipamiento Urbano, para cada uno de los subsistemas siguientes:
-
-a. Educación. Jardín de niños, centro de desarrollo infantil, centro de atención preventiva de educación preescolar, escuela especial, escuela primaria, centro de capacitación para el trabajo, tele secundaria, secundaria general, secundaria técnica, preparatoria general, preparatoria por cooperación, centros de estudios de bachillerato, institutos tecnológicos, universidades;
-
-b. Cultura. Biblioteca pública municipal, biblioteca pública regional, biblioteca pública estatal, museo local, museo regional, museo de sitio, casa de cultura, museo de arte, teatro, escuela integral de artes, centro social popular y auditorio municipal;
-
-c. Salud. Centro de salud rural para población concentrada, centro de salud urbano, centro de salud con hospitalización, hospital general, unidad de medicina familiar, módulo resolutivo, clínica de medicina familiar, clínica hospital, hospital general, hospital regional, puesto de socorro, centro de urgencias y hospital de tercer nivel;
-
-d. Asistencia Social. Casa de cuna, casa hogar para menores, casa hogar para ancianos, centro asistencial de desarrollo infantil, centro de desarrollo comunitario, centro de rehabilitación, centro de integración juvenil, guardería, estancia de bienestar, desarrollo Infantil y velatorio;
-
-e. Comercio. Plaza de usos múltiples (tianguis o mercado sobre ruedas), mercado, comercio o lechería públicos, tienda rural o regional, tienda o centro comercial y farmacia;
-
-f. Abasto. Unidad de abasto mayorista, unidad de abasto mayorista para aves, rastro para aves, rastro para bovinos y rastro para porcinos;
-
-g. Comunicaciones. Agencia de correos, sucursal de correos, centro integral de servicios, administración de correos, centro postal automatizado, oficina telefónica o radiofónica, administración telegráfica, centro de servicios integrados, unidad remota de líneas, central digital, centro de trabajo y oficina comercial;
-
-h. Transporte. Central de autobuses de pasajeros, central de servicios de carga, aeropista, aeropuerto de corto alcance, aeropuerto de mediano alcance y aeropuerto de largo alcance;
-
-i. Recreación. Plaza cívica, juegos infantiles; jardín vecinal, parque de barrio, parque urbano, área de ferias y exposiciones, sala de cine y espectáculos deportivos;
-
-j. Deporte. Módulo, centro, unidad, ciudad, gimnasio, alberca o salón, todos deportivos;
-
-k. Administración Pública. Oficinas e instalaciones de los gobiernos federal, estatal y municipal; y,
-
-l. Servicios. Urbanos. Cementerio, central de bomberos, comandancia de policía, basurero municipal (tiradero a cielo abierto o relleno sanitario), unidad de transferencia de desechos sólidos, estación de servicio (gas y gasolina) y cementerios.
-
-Lo que permitirá orientar el aprovechamiento de los mismos y de las acciones que se requieren para evitar deficiencias y carencias actuales y futuras.
-
-III. Oferta turística y servicios complementarios. Se identificará la situación de la oferta y demanda turística observada; situación actual y posibilidad de desarrollo de los atractivos turísticos (en caso de existir);
-
-IV. Usos del suelo. Se identificarán las diferentes áreas que integran y delimitan los usos del uso del centro de población, mediante el análisis siguiente:
-
-a. Antecedentes históricos;
-
-b. Crecimiento histórico de la población;
-
-c. Etapas de crecimiento más significativas por usos y destinos generados, así como causas económicas y sociales que originaron el crecimiento;
-
-d. Definir el área urbana actual y determinar la superficie, densidad de población urbana, densidad de población por zonas homogéneas, densidad de construcción, usos y destinos generados, zonas con cambio de usos del suelo, zonas con usos incompatibles, coeficientes de utilización y ocupación del suelo y terrenos vacantes en la mancha urbana;
-
-e. Tendencias de crecimiento;
-
-f. Tenencia de la tierra. Se deberá identificar la ubicación, limites y tipo de tenencia (ejidal, comunal, privada, publica, etc.);
-
-g. Se identificarán los límites prediales de los inmuebles que integran el área de estudio en donde se señalarán los valores catastrales y comerciales, así como el uso del suelo de los predios;
-
-h. Mezcla de usos del suelo en predominantes, incompatibles y tendencia a cambio de uso del suelo; e,
-
-i. Áreas naturales protegidas o de valor ambiental;
-
-V. Vivienda. Consistente en un análisis comparativo en términos cualitativos y comparativos de la situación de la vivienda en el centro de población, en cuanto a la definición del número total de viviendas en el centro de población, déficit de vivienda, tipologías existentes (residencial, media, popular, de interés social y precaria), así como los programas institucionales de dotación de vivienda terminada o progresiva;
-
-VI. Vialidad y transporte; se deberá identificar e indicar:
-
-a. La jerarquía vial: carreteras, libramientos, vialidades colectoras, principales, secundarias, terciarias y andadores peatonales; y,
-
-b. Transporte de pasajeros y de carga. Tipo de transporte: foráneo o suburbano. Terrestre, aéreo o marítimo. Rutas de transporte. Zonas que cuentan con el servicio y las que no. Número de unidades y su estado. Paradas conflictivas. Problemática.
-
-VII. Emergencias urbanas. Se deberán identificar las zonas que presentan peligro potencial para los asentamientos humanos del centro de población en cuanto a fenómenos hidrometeorológicos (huracanes, vientos, lluvias, mareas, oleajes de tempestad, inundaciones, tormentas, heladas y sequías), geológicos (fallas activas, fracturas, sismos, volcanes activos, movimiento y derrumbe de tierras y hundimientos) y fenómenos humanos (químicos incendios, explosiones, fugas tóxicas, radiaciones y sanitarios, accidentes viales, aéreos o ferroviarios), energía térmica y lumínica, contaminación del agua, aire, suelo y alimentos, concentraciones humanas emergentes, vibraciones por automotores, zonas de criminalidad, vandalismo y motines;
-
-VIII. Imagen urbana. Identificar los elementos actuales y potenciales en el centro de población en cuanto a ruinas arqueológicas, iglesias coloniales, monumentos, edificios notables, esculturas, pinturas, barrios, colonias, distritos, zonas con características típicas y homogéneas, tradiciones y costumbres, patrimonio natural (parques nacionales, bosques y sitios de paisaje, entre otros); y,
-
-IX. Síntesis del medio físico transformado. Se integra por un análisis de todos los componentes del medio físico transformado en el área de estudio, que nos permita identificar su problemática representativa, así como el potencial de desarrollo del centro de población. Entre los que se sugieren son el patrimonio cultural, asentamientos humanos irregulares, vivienda, incompatibilidades de los usos del suelo, déficit o superávit de equipamiento, cobertura y calidad del servicio de las redes de infraestructura urbana, emergencias urbanas, tendencias de crecimiento, áreas baldías dentro del área urbana del centro de población, cobertura y calidad del servicio del transporte público, estructura urbana, áreas aptas para el desarrollo urbano, entre otros.
-
-#### Sección II. Normativo
+#### SECCIÓN II
 
 ###### ARTÍCULO 236.
 
-En el nivel de planeación normativo se determinará los objetivos generales, específicos y las metas para el centro de población.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-Los objetivos generales y específicos, estarán referidos a los fines que persiguen la comunidad y el sector público, con respecto al desarrollo urbano deseado para territorio del centro de población. Con esta base, los objetivos orientarán la estrategia, la programación y corresponsabilidad sectorial e instrumentación del programa.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-Los objetivos generales se establecerán en función del medio ambiente, la actividad económica y desarrollo social esperado para el centro de población, además de incorporar los incluidos en los programas nacional, estatal, regional y municipal de desarrollo urbano y para los objetivos específicos, se determinarán en función de los componentes urbanos de. planeación, suelo, infraestructura, vivienda, vialidad, transporte, equipamiento urbano, industria, turismo, imagen urbana, medio ambiente, emergencias urbanas, participación de la comunidad y administración urbana.
-
-Las metas se deberán prever estrictamente cuantificables, concretas y especificas; se planificarán en el corto, mediano y largo plazos. Estos parámetros servirán para evaluar los resultados de la planificación urbana.
-
-Se deberá identificar y atender las condicionantes de los niveles superiores de planeación que incidan en el desarrollo urbano, el medio ambiente y la actividad económica del municipio y que por tanto resultan normativas para la elaboración de la estrategia del Programa, como son el Programa Nacional de Desarrollo Urbano, el Programa Estatal de Desarrollo Urbano, el Programa Estatal de Ordenamiento Ecológico del Territorio correspondiente, el Programa Regional respectivo, el Programa Municipal de Desarrollo Urbano correspondiente, así como demás programas estatales de tipo sectorial con injerencia en el municipio, referentes al medio ambiente, comercio, comunicaciones y transportes o turismo, entre otros.
-
-Para la dosificación del desarrollo urbano, se especificarán los criterios y normas para los componentes del suelo, infraestructura, equipamiento, vivienda e imagen urbana.
-
-Con base en la definición de los criterios socioeconómicos, se formulará la hipótesis de la estructura de la población por niveles de ingreso. Estos elementos permitirán establecer opciones para el desarrollo urbano y posteriormente diseñar la estrategia del Programa.
-
-#### Sección III. Estratégico
+#### SECCIÓN III
 
 ###### ARTÍCULO 237.
 
-En el nivel de planeación estratégico se establecerán las políticas y estrategias de desarrollo urbano, así como los lineamientos para la elaboración y ejecución de los programas operativos a realizarse en el centro de población.
-
-Las políticas de desarrollo urbano (crecimiento, conservación o mejoramiento) responderán a los resultados del diagnóstico pronóstico integrado, los objetivos y metas; y en base a ellas, se delimitarán las zonas en donde se aplicarán.
-
-En la estrategia urbana, las propuestas deberán plantearse en forma directa e integral, en función del cumplimiento de los objetivos y metas del nivel normativo, el cual tendrá como objetivo fortalecer e impulsar las actividades productivas y de la población en el corto (3 años), mediano (4 a 10 años) y largo plazo (11-25 años), mediante un esquema de acción que integre el ordenamiento ecológico del territorio y el desarrollo económico.
-
-Para la estrategia urbana en función al ordenamiento ecológico, se deberá evaluar las diferentes opciones y seleccionar una alternativa viable que garantice la preservación del equilibrio ecológico en función de las características y particularidades de la zona. Además de la caracterización de los ecosistemas con base a su diversidad biológica y particularidades del medio ambiente del área de estudio; la disponibilidad de suelos adecuados para el desarrollo, así como las limitaciones para la introducción de los servicios e infraestructura urbana.
-
-El objetivo de esta estrategia, es definir un orden ecológico referido en unidades de gestión ambiental, que aplique para áreas con características comunes. El modelo definirá las políticas de protección, aprovechamiento, restauración y conservación del medio ambiente y determinará las características que definen la vocación del suelo, para el aprovechamiento integral de los recursos naturales del centro de población. Las unidades de gestión ambiental serán la base para regular las actividades humanas.
-
-En la estrategia urbana en función del desarrollo económico, se determinarán las zonas o áreas de potencial económico (comercial, industrial o de servicios), acordes con la vocación del suelo y las ventajas comparativas existentes, que permitan su aprovechamiento productivo y propicien la identificación de proyectos detonadores de desarrollo. Para la estrategia se sugiere sea resultado del acuerdo entre los diversos sectores involucrados en el desarrollo económico del centro de población.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 238.
 
-Una vez determinadas las estrategias para orientar el crecimiento urbano conforme a los objetivos y metas para el ordenamiento ambiental y la actividad económica, se establecerá la zonificación primaria y secundaria del centro de población.
-
-En la zonificación primaria se deberá instrumentar el ordenamiento y regulación del suelo en tres grandes áreas:
-
-I. El área urbana actual;
-
-II. El área de reserva para el crecimiento urbano; y,
-
-III. Áreas de protección y preservación ecológica.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 239.
 
-La zonificación primaria deberá determinar:
-
-I. Las áreas que integran y delimitan un centro de población;
-
-II. Los aprovechamientos predominantes en las distintas zonas, dentro de las áreas a que se refiere la fracción anterior;
-
-III. Las áreas de conservación, mejoramiento y crecimiento de los centros de población;
-
-IV. La reglamentación de usos, destinos, reservas y provisiones;
-
-V. Las densidades de población y de construcción;
-
-VI. La compatibilidad entre los usos y destinos del suelo, en compatibles, condicionados y prohibidos;
-
-VII. Las medidas para la protección de los derechos de vía y zonas de restricción de inmuebles de propiedad pública;
-
-VIII. Las zonas de desarrollo controlado y de salvaguarda, especialmente en áreas e instalaciones en las que se realizan actividades riesgosas y se manejan materiales y residuos peligrosos;
-
-IX. Las zonas de conservación, mejoramiento y crecimiento de los centros de población;
-
-X. El tiempo de su vigencia, en su caso;
-
-XI. Las razones de beneficio social que las motivan;
-
-XII. La referencia al programa de desarrollo urbano del cual deriven;
-
-XIII. Las obligaciones y derechos a que están sujetos los propietarios o poseedores del área o predios respectivos;
-
-XIV. Las áreas de reserva ecológica urbana y de preservación ecológica;
-
-XV. Las reservas para el crecimiento urbano del centro de población; y,
-
-XVI. Las demás disposiciones que de acuerdo con la legislación aplicable sean procedentes.
-
-Con base a la zonificación primaria se determinará la zonificación secundaria, en donde se especificarán las normas de control que regulen los usos, destinos y modalidades de utilización del suelo, particularmente en los usos básicos de vivienda (densidades alta, media, baja, suburbana o mixta), industria (ligera, mediana, pesada o agro industria), comercio y servicios (subcentro urbano, centro de barrio, centro vecinal, corredor urbano, centro de servicios para la industria, centro de servicios para el turismo, espacios verdes y/o abiertos y equipamiento), preservación ecológica ( forestal, agrícola, pecuario, acuícola, flora y fauna, corredores naturales o turístico campestre), mixto (habitacional-comercial o turístico y comercial), recreación, deporte, cultura, oficinas, infraestructura (plantas potabilizadoras, tanques de almacenamiento de agua potable, plantas tratadoras de aguas negras, subestaciones eléctricas, plantas de almacenamiento y distribución de hidrocarburos y cauces de ríos en áreas urbanas y/o cuerpos de agua), de conservación y protección (zonas arqueológicas o áreas naturales protegidas) y especiales. Asimismo la definición de los principales destinos del suelo urbano, referidos al equipamiento urbano (educación, cultura, administración pública, seguridad y justicia, abasto, recreación, deportes), infraestructura urbana (derechos de vía, vialidad, energía eléctrica, agua potable y alcantarillado sanitario y pluvial) y vivienda, así como las zonas o áreas susceptibles de transferir o recibir potencialidades de desarrollo en el centro de población.
-
-Se definirán las áreas de reservas para crecimiento urbano, las etapas de crecimiento, su período de incorporación al área urbana, los usos y destinos previstos para las mismas, además de Identificar y localizar los aprovechamientos predominantes, las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del centro de población.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 240.
 
-Las políticas se clasificarán en de conservación, mejoramiento y crecimiento.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 241.
 
-Para la conservación se deberá mantener el equilibrio ecológico y calidad ambiental del centro de población, procurar el buen estado de las obras materiales de infraestructura, equipamiento y servicios, sitios, edificaciones o elementos (edificios, plazas y espacios públicos y parques), así como la salvaguarda, protección y restauración del patrimonio cultural y natural del centro de población. Se consideran zonas dedicadas a la conservación:
-
-I. Las áreas o sitios que por sus características naturales cuenten con elementos que condicionen el equilibrio ecológico y la calidad ambiental de una zona o las que estén considerados (sic) y protegidas por la legislación federal, estatal o municipal correspondiente o que forme parte del patrimonio natural;
-
-II. Las dedicadas en forma habitual a las actividades agropecuarias, forestales o mineras;
-
-III. Las áreas cuyo uso puede afectar el paisaje y la imagen urbana;
-
-IV. Aquellas cuyo subsuelo esté afectado por explotaciones de cualquier género y por fallas geológicas o fracturas que puedan causar daños en construcciones de todo tipo, en vialidades y en las redes de drenaje y conducción de agua que constituyan peligros permanentes o eventuales para los asentamientos humanos; y,
-
-V. Las que se consideren patrimonio cultural de los centros de población del Estado y/o que estén considerados y protegidos por la legislación federal, estatal o municipal correspondiente.
-
-Las obras de infraestructura y equipamiento en los espacios destinados a la conservación se harán en forma restringida, de acuerdo con lo previsto por la legislación y los programas en materia de desarrollo urbano, ordenamiento ecológico y protección civil.
-
-Se establecerán programas integrales de manejo de áreas naturales protegidas y áreas con presencia de fallas geológicas, mediante los cuales se definirán las acciones para la conservación y óptimo aprovechamiento de dichas zonas.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 242.
 
-En los casos no previstos en el artículo anterior, las autoridades competentes, podrán acordar acciones de conservación conforme a las normas de los programas de desarrollo urbano y legislación aplicable en la materia.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 243.
 
-El mejoramiento es la acción tendiente a renovar las zonas de incipiente desarrollo o deterioradas, física o funcionalmente de un centro de población, mediante:
-
-I. El mejoramiento y preservación de la calidad ambiental;
-
-II. El reordenamiento, la renovación, regeneración, restauración o la densificación de áreas urbanas deterioradas;
-
-III. La dotación de servicios, equipamiento o infraestructura urbana, en áreas carentes de ellos o rehabilitación de los existentes;
-
-IV. La acción integrada del sector público, federal, estatal y municipal, que articule la regularización de los asentamientos humanos, con la dotación de servicios y satisfactores básicos, que tiendan a integrar a la comunidad urbana;
-
-V. La construcción y adecuación en los centros de población, de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad, libre tránsito y accesibilidad requerida por las personas con discapacidades;
-
-VI. La prevención y atención de riesgos y contingencias ambientales y urbanas, acorde a los programas de protección civil expedidos conforme a la ley en la materia;
-
-VII. La celebración de convenios entre autoridades, propietarios y los sectores públicos, social y privado, en que se atiendan sus respectivos (sic); y,
-
-VIII. Las demás que se consideren necesarias para la eficacia de la acción de mejoramiento.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 244.
 
-El crecimiento es la acción tendiente a ordenar y regular la expansión física del centro de población, mediante la determinación de las áreas de reserva para dicha expansión, incluyendo además las reservas territoriales.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 245.
 
-Los programas de desarrollo urbano para la ejecución de acciones de crecimiento, con base en este Código, establecerán los lineamientos para:
-
-I. La determinación de las áreas de expansión futura que se integren a la reserva del centro de población;
-
-II. La determinación de las etapas de crecimiento, conforme las cuales se incorporará a aprovechamientos urbanos, las áreas y predios incluidas en la reserva;
-
-III. La participación del Estado y de los ayuntamientos en la formulación, aprobación y ejecución de los programas parciales, a través de los cuales se incorporen porciones de la reserva a la expansión urbana y se regule su crecimiento;
-
-IV. El ejercicio del derecho de preferencia, por parte del Estado y de los ayuntamientos, y en su caso, con la participación de los sectores social y privado, para adquirir los predios comprendidos en las zonas de reserva para crecimiento urbano, conforme a lo dispuesto en la Ley General de Asentamientos Humanos y este ordenamiento;
-
-V. La utilización actual del suelo y sus características peculiares tomando las medidas que correspondan, tratándose de áreas naturales protegidas, terrenos agrícolas o forestales, zonas inundables o minadas por sobreexplotación de cualquier género y áreas afectadas por fallas o fracturas geológicas; y,
-
-VI. La definición de la infraestructura de las zonas de crecimiento y las modificaciones a realizar en la infraestructura existente en el centro de población.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 246.
 
-Las áreas y predios ejidales o comunales comprendidos dentro de los límites de los centros de población o que formen parte de las zonas de urbanización ejidal, en su aprovechamiento, se sujetarán a lo previsto en los programas de desarrollo urbano aplicables, en lo relativo a las reservas, usos y destinos de áreas o predios.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 247.
 
-Para constituir, ampliar y delimitar la zona de urbanización ejidal y su reserva de crecimiento, así como para regularizar los asentamientos humanos irregulares que se hayan constituido, la asamblea ejidal o de comuneros respectiva, deberá ajustarse a las disposiciones de este Código y del Programa de Desarrollo Urbano correspondiente.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 248.
 
-En el diseño de la política de crecimiento deberá identificarse y diseñarse la estructura urbana y vial presente y futura, respectivamente.
-
-La estructura urbana, definirá la organización espacial prevista para el centro de población, en una perspectiva de largo plazo tomado (sic) en consideración las características, modo de operar y la jerarquía de los elementos que la conforman. Se enfatizará la importancia de evitar alteraciones como incompatibilidad en los usos del suelo o falta de integración y continuidad vial.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 249.
 
-La Estructura Urbana estará integrada por:
-
-l. Sectores;
-
-II. Distritos;
-
-III. Barrios;
-
-IV. Centro(s) Urbano(s);
-
-V. Subcentro(s) Urbano(s); y,
-
-VI. Centro(s) de Barrio(s).
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 250.
 
-La Organización de la Estructura Vial se clasificará en:
-
-I. Vialidad regional:
-
-a) Enlaces; y,
-
-b) Accesos carreteros.
-
-II. Vías primarias:
-
-a) Accesos controlados;
-
-b) Libramientos; y,
-
-c) Vías principales;
-
-III. Vialidad secundaria:
-
-a) Colectora;
-
-b) Locales; y,
-
-c) Peatonales.
-
-IV. Otras.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 251.
 
-En los programas de desarrollo urbano se definirán las secciones y tipo de vialidades con sus características y restricciones.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 252.
 
-Para las modalidades de utilización del suelo en el centro de población, se elaborará una tabla de compatibilidades de los usos del suelo que establezca los usos del suelo específicos y de impacto significativo (compatibles, condicionados o prohibidos). Asimismo se determinará la intensidad de ocupación del suelo para usos y destinos, a fin de regular las acciones de construcción, reconstrucción o ampliación para los usos habitacionales en cuanto a densidades de población por hectárea y por vivienda, en los comerciales y de servicios, industriales, turismo y alojamiento, los coeficientes de ocupación del suelo y de utilización del suelo, así como el envolvente de las construcciones (definir la volumetría y dimensionamiento general de las edificaciones).
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 253.
 
-Se propondrán líneas estratégicas para:
-
-I. El rescate y conservación de zonas de patrimonio natural y cultural;
-
-II. La imagen urbana;
-
-III. Operación del desarrollo urbano y su fortalecimiento;
-
-IV. Atención a las emergencias urbanas;
-
-V. Apoyo a los equipos locales de planeación urbana;
-
-VI. Mecanismos de participación ciudadana en la promoción y gestión del desarrollo urbano;
-
-VII. Modernización de la administración urbana; y,
-
-VIII. Etapas de desarrollo en los horizontes de planeación (corto, mediano y largo plazos). Para cumplir las metas propuestas, será necesario definir las áreas a desarrollar, cuantificar la superficie en cada una de las tres etapas; considerar la población esperada y/ o beneficiada y determinar los plazos.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 254.
 
-Las recomendaciones generales para la integración de las estrategias serán:
-
-I. Observar la normatividad;
-
-II. Establecer medidas para la preservación y restauración del medio ambiente;
-
-III. Imagen urbana; propiciar su rescate y el reforzamiento de los valores que la distinguen;
-
-IV. Organizar la estructura urbana;
-
-V. Dosificar los usos del suelo para los componentes básicos de vivienda, industria, servicios, vialidad y equipamiento;
-
-VI. Orientar el crecimiento de los centros de población;
-
-VII. Optimizar los usos del suelo, en función a su vocación;
-
-VIII. Dotar a los centros de población de reservas territoriales patrimoniales, que eviten el fenómeno de invasión - regularización;
-
-IX. Definir un sistema de transporte público eficiente y económico; y,
-
-X. Consolidar el sistema urbano organizado, completando la Infraestructura y equipamiento faltante.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 255.
 
-En las etapas de desarrollo, se determinará el proceso de aprovechamiento territorial dando prioridad a las de mayor importancia para el centro de población en el corto, mediano y largo plazos, así como la participación y responsabilidad que les corresponda a los tres ámbitos de gobierno y a los sectores social y privado.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-#### Sección IV. Programático y de Corresponsabilidad Sectorial
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
+
+#### SECCIÓN IV
 
 ###### ARTÍCULO 256.
 
-Los programas integrarán en forma jerarquizada las acciones, obras y servicios que deberán realizarse en el corto, mediano y largo plazos, con el objetivo de cumplir las metas planteadas.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-Se determinaran las corresponsabilidades del sector público federal, estatal y municipal, así como del privado y social para el desarrollo del centro de población, en los subsistemas de educación, cultura, salud, asistencia social, comunicaciones, transportes, recreación, deporte, administración pública, turismo, medio ambiente y servicios urbanos, entre otros.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-Los resultados se integrarán en dos partes, la primera expondrá brevemente los antecedentes, propósitos principales, acciones propuestas, responsables de la ejecución y costos globales, así como los instrumentos necesarios para la ejecución de las acciones, obras y servicios, y su ubicación territorial.
-
-En la segunda parte, se formularán las matrices de programación y corresponsabilidad sectorial para los programas, subprogramas, líneas de acción y acciones de planeación urbana, suelo urbano y reservas territoriales, infraestructura urbana (agua potable, drenaje sanitario y pluvial, electrificación, teléfonos y pavimentos), vivienda, vialidad y transporte, equipamiento urbano, industria, turismo, imagen urbana, patrimonio cultural, medio ambiente, prevención y atención a emergencias urbanas, participación social y administración del desarrollo urbano.
-
-Así mismo se establecerán los criterios de concertación con los sectores social y privado; mediante convenios o acuerdos o algún otro mecanismo que permita la realización de las obras, acciones y servicios contenidas en el programa; y,
-
-La estructura de la matriz contendrá el nombre de la acción, unidad de medida, cantidad, ubicación específica, prioridad, costo, plazo, responsable de la ejecución y clave de la ubicación respecto del plano del anexo grafico. Se cuidara la congruencia entre el diagnostico-pronostico y la estrategia propuesta.
-
-#### Sección V. Instrumental
+#### SECCIÓN V
 
 ###### ARTÍCULO 257.
 
-El nivel instrumental tiene como objeto definir todos mecanismos de instrumentación y acciones que se habrán de utilizar o realizar para el logro de los objetivos, metas y políticas, el seguimiento de acciones, así como aquellos que permitan evaluar y retroalimentar el programa.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 258.
 
-Los mecanismos de instrumentación y acciones se darán a través de:
-
-I. La participación ciudadana en la formulación o actualización, seguimiento y evaluación del programa. Esta acción se podrá atender a través de la Comisión Municipal;
-
-II. La aprobación, publicación y registro del programa de centro de población en los términos de este Código;
-
-III. Las fuentes de ingresos municipales, estatales o federales, así como del sector privado y social o créditos nacionales e internacionales;
-
-IV. Las fuentes alternativas de financiamiento de la iniciativa privada, que generen rentabilidad económica y alto beneficio social al centro de población y sus habitantes;
-
-V. La formación o consolidación del equipo y oficinas de planeación y operación urbana, así como su capacitación permanente;
-
-VI. La formulación o actualización de normas, reglamentos, criterios y lineamientos del desarrollo urbano del centro de población;
-
-VII. La difusión del programa y sus productos;
-
-VIII. La formulación o actualización de los programas derivados; e,
-
-IX. Los demás que sean necesarios; para garantizar la vigencia jurídica y puesta en operación.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 259.
 
-Se establecerán los mecanismos de seguimiento de las acciones y obras previstas en el programa, a efecto de ejecutarlas, asegurar su operatividad, definir un esquema de corresponsabilidad con el sector público en sus tres ámbitos de gobierno (federal, estatal y municipal) y acordar las acciones de inducción con el sector privado y social.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 260.
 
-Se establecerán mecanismos de evaluación y retroalimentación del desarrollo urbano que incluyan los criterios y procedimientos para su realización en los tres horizontes de planeación del programa, con el objeto de ratificar o rectificar las estrategias del ordenamiento ecológico territorial, desarrollo urbano, económico y social.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-Los mecanismos incluirán los lineamientos, formatos, cuadros e instructivos necesarios, para los reportes anuales sobre los resultados del programa.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
 
-#### Sección VI. Anexo Gráfico
+#### SECCIÓN VI
 
 ###### ARTÍCULO 261.
 
-El anexo grafico deberá contener los planos que expresen la problemática y potencialidades detectadas y las acciones de solución a las propuestas; en escalas de 1:10,000 o 1:20,000 (dependiendo del tamaño del centro de población) y en los planos siguientes:
-
-I. Diagnóstico-Pronóstico;
-
-II. Política y Estrategias; y,
-
-III. Programático y Corresponsabilidad Sectorial.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 262.
 
-El Diagnóstico-Pronóstico deberá contener:
-
-I. Ámbito regional. Se compone por los intercambios locales y regionales y el equipamiento e infraestructura local y regional a efecto de identificar las fortalezas y debilidades del centro de población. Se realizará un balance de las características y capacidades de la infraestructura actual con relación al inventario existente y la demanda actual en cuanto a servicios de agua potable, drenaje, vialidades regionales y principales, ferroviarias, aérea, telecomunicaciones y electrificación;
-
-II. Delimitación del área de estudio. Consiste en la localización geográfica, altitud sobre el nivel del mar, colindancias, división política administrativa, identificación de la infraestructura y equipamiento regional y la delimitación del área de estudio;
-
-III. Medio físico natural. Identificar, delimitar y caracterizar el clima, la diversidad biológica, topografía, hidrografía, geología, edafología, medio ambiente, uso actual y potencial del suelo, riesgos, emergencias urbanas y síntesis del medio físico natural;
-
-IV. Medio físico transformado. Identificar y localizar el equipamiento urbano en sus diferentes subsistemas, tipologías de la vivienda (residencial, media, popular, interés social y precaria), uso actual del suelo urbano (tipificación de los usos del suelo, tenencia de la tierra, división de barrios, colonias y poblados, valores comerciales y catastrales del suelo por limites prediales y crecimiento histórico del área urbana), infraestructura urbana (agua potable, drenajes, alumbrado público, electrificación y pavimentos), vialidad y transporte, imagen urbana, medio ambiente (clima y contaminación del agua, suelo y aire), síntesis de medio físico transformado;
-
-V. Aspectos demográficos. Incluye la demografía, migración y síntesis de los aspectos demográficos;
-
-VI. Aspectos económicos. Comprende la distribución territorial por sectores (inversiones), estratificación y síntesis de los aspectos económicos;
-
-VII. Necesidades sentidas por la comunidad;
-
-VIII. Pronostico municipal. La localización de los aspectos más relevantes del diagnostico, que deberán presentar la imagen del centro de población a futuro, sin presentar medidas correctivas que modifiquen la situación actual;
-
-IX. Aptitud territorial. Se definen las áreas más apropiadas para el crecimiento, mediante el diagnóstico de los sub componentes tales como síntesis del medio físico natural, imagen urbana e infraestructura; y,
-
-X. Diagnóstico-pronostico integrado. Incluye lo urbano, ambiental, económico y social.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 263.
 
-Las políticas y estrategias contendrán:
-
-I. Delimitación del centro de población con vértices, rumbos y líneas de delimitación;
-
-II. Estrategia territorial. Definir el modelo de ordenamiento ecológico, urbano y turístico en función de los objetivos y las metas;
-
-III. Estructura urbana. Se definirá la organización espacial prevista para el centro de población en una perspectiva de largo plazo. El nuevo modelo permitirá articular el área analizada con su entorno, sin causar impactos negativos;
-
-IV. Zonificación primaria y etapas de desarrollo;
-
-V. Zonificación secundaria. Incluye los usos y destinos del suelo para vivienda, industria, comercio y servicios, preservación ecológica, mixto, recreación, deporte, cultura, oficinas, destinos existentes y propuestos para el optimo funcionamiento para el centro de población e infraestructura (plantas potabilizadoras, tanques de almacenamiento de agua potable, plantas tratadoras de aguas negras, subestaciones eléctricas, plantas de almacenamiento y distribución de hidrocarburos, cauces de ríos en áreas urbanas y/o cuerpos de agua), de conservación y protección (zonas arqueológicas o áreas naturales protegidas), especiales, las zonas o áreas de transferencia de potencialidades, así como las de prevención y atención a emergencias urbanas; y,
-
-VI. Proyectos estratégicos. De infraestructura, equipamiento y servicios de carácter micra regional y/o municipal detonadores de desarrollo del centro de población.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 264.
 
-La (sic) programático y de corresponsabilidad sectorial se integrará con la ubicación de acciones y programas prioritarios.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 265.
 
-Las tablas de información que se deberán de realizar son las siguientes:
-
-I. Diagnostico-pronostico:
-
-a. Uso actual del suelo (cuantificación en hectáreas y participación porcentual con relación a la zona de estudio); y,
-
-b. Oferta de suelo disponible para su incorporación al desarrollo urbano.
-
-II. Políticas y estrategias:
-
-a. Compatibilidades de usos y destinos del suelo específicos; y,
-
-b. Reglamentación de los usos del suelo (uso, superficie de terreno y construcción, coeficientes de ocupación del suelo, coeficientes de uso del suelo, niveles, remetimientos, alturas máximas, entre otros);
-
-III. Programación y corresponsabilidad sectorial, con la ubicación de acciones y programas prioritarios.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 266.
 
-Las formalidades para la presentación y entrega final del estudio son:
-
-I. Documento Técnico (versión amplia), impreso con las características siguientes:
-
-a. Extensión máxima de 150 cuartillas;
-
-b. Se incorporará un índice, la fecha de elaboración, las páginas deberán estar foliadas y contener las referencias bibliográficas;
-
-c. Se entregará un original y dos copias del documento;
-
-d. El original se presentara sin engargolar ni encuadernar;
-
-e. Las coplas deberán estar engargoladas o encuadernadas; y,
-
-f. Archivo magnético;
-
-II. Síntesis Ejecutiva. La síntesis ejecutiva suficientemente sustentada, comprenderá como mínimo, un plano por cada uno de los temas de diagnóstico-pronóstico; políticas y estrategias; y de programación y corresponsabilidad sectorial, cumplirá con las mismas formalidades de presentación y entrega definidas en el artículo anterior, salvo las cuartillas que serán como máximo 50, misma que será utilizada para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, así como para la difusión del Programa.
-
-Comprenderá como mínimo, un plano por cada uno de los temas de diagnóstico-pronóstico; políticas y estrategias; y de programático y corresponsabilidad sectorial.
-
-III. El anexo gráfico contendrá lo siguiente:
-
-a. Las tramas de la simbología deberán ser a color. Los tipos de textura a utilizarse deberán permitir su interpretación en reproducciones para copias en blanco y negro.
-
-b. Las escalas. Se determinará de acuerdo a la cobertura y temática del área de estudio (escalas 1:10,000 o 1:20,000);
-
-c. Los planos deberán señalar el nombre del programa, la clave, el nombre del plano y contar con un área para la firma de las autoridades municipales que aprueben el programa. Incluir el escudo del municipio y del Estado;
-
-d. Los planos originales se deberán entregar en material estable y reproducible;
-
-e. Las copias de los planos originales en papel bond;
-
-f. El archivo magnético se entregará en disco compacto, en el formato que las autoridades municipales determinen; y,
-
-g. El formato y tamaño de los planos, láminas y gráficos deberán ser aprobados por las autoridades municipales. Se debe considerar la eventual modificación del tamaño de los planos, para integrar la versión abreviada que será publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
-
-IV. El anexo técnico y estadístico se integrará por los archivos, que se generen durante el proceso de formulación o actualización del programa, mismo que incluirá:
-
-a. La información básica de campo y gabinete;
-
-b. Las normas y procedimientos utilizados;
-
-c. Los cálculos y análisis efectuados, y,
-
-d. Todos los planos de trabajo.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 267.
 
-Los alcances mencionados son enunciativos y de observancia, más no limitativos, por lo que cada tema puede ser enriquecido con la experiencia de las autoridades municipales y/o de la empresa consultora responsable de formular o actualizar el estudio, debiendo de cumplir como mínimo con los puntos contenidos en este Capítulo.
-
-En el proceso de la consulta ciudadana del programa, se deberá realizar un calendario de revisión de avances, que incluya cuatro presentaciones como mínimo: al término del diagnóstico-pronóstico; al finalizar las políticas y estrategias; al concluir el nivel de la instrumentación; y a la entrega final del programa, una vez incorporadas las observaciones generadas durante los procesos de la consulta ciudadana.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 268.
 
-Para la formulación o actualización de programas parciales, se deberá seguir la estructurar (sic) y metodología prevista en este Capítulo y el contenido de cada nivel de planeación considerará como mínimo los previstos para un programa de centro de población. Los alcances particulares serán definidos de acuerdo a la problemática urbana por atender o resolver en el área de estudio.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
-### Capítulo II. De las Autorizaciones
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO III
 
 ###### ARTÍCULO 269.
 
-Para la recopilación, integración, procesamiento, análisis y presentación de la información, se podrán realizar las acciones siguientes:
-
-I. En caso, de no contar la autoridad municipal con el plano catastral con valores de suelo y la mancha urbana actualizada de la cabecera municipal y localidades del municipio, podrá realizar las gestiones siguientes:
-
-a. Solicitar a la Dirección de Catastro del Estado, la información en formato digital; o,
-
-b. Contratar a un prestador de servicios para el levantamiento de la misma;
-
-II. Solicitar al Sistema de Información Geográfica del Estado o gestionar o adquirir ante las dependencias federales y estatales, la información del municipio o centro de población, siguiente:
-
-a. Ante el Instituto Nacional de Estadística, Geografía e Informática la relacionada con el clima, topografía, hidrografía, geología, edafología, demográficos y económicos;
-
-b. Ante la Secretaría de Comunicaciones y Transportes la red vial carretera federal que cruza por el municipio o centro de población con sus restricciones, agencias de correos, centros integrales de servicios, centros postales automatizados, administraciones telegráficas, unidades remotas de líneas, sucursales de correos, administraciones de correos, oficinas telefónicas o radiofónicas, centros de servicios integrados, centrales digitales, oficinas comerciales, centrales de autobuses de pasajeros, aeropistas, estaciones de trenes, puertos marítimos y aeropuertos, así como su problemática;
-
-c. Ante la Comisión Nacional del Agua las presas, lagos, lagunas, ríos, arroyos, canales, bordos, situación de la cuenca en cuanto aguas subterráneas, sus restricciones y problemática;
-
-d. Ante la Secretaria de Medio Ambiente y Recursos Naturales; las áreas naturales protegidas, forestales, agrícolas, pecuarias, mineras, con valor paisajístico y su problemática;
-
-e. Ante la Comisión Federal de Electricidad los trayectos y ubicación de las líneas de alta tensión así como sus restricciones, subestaciones y plantas generadoras de energía eléctrica, así como las zonas cubiertas y pendientes del servicio de energía eléctrica;
-
-f. Ante el Instituto Nacional de Antropología e Historia, la relación y ubicación de las ruinas arqueológicas y edificaciones de valor cultural;
-
-g. Ante el Registro Agrario Nacional, la cartografía digitalizada que contenga los polígonos de las parcelas ejidales y comunales;
-
-h. Ante la Junta de Caminos, lo relativo a la red vial carretera estatal y caminos de su jurisdicción, así como sus restricciones;
-
-i. Ante el Consejo Estatal de Población, la relacionada con aspectos demográficos y económicos;
-
-j. Ante la Secretaria de Educación del Estado, lo relativo al número y tipo de centros educativos, tanto del nivel básico, medio y superior;
-
-k. Ante la Secretaría de Urbanismo y Medio Ambiente el catalogo y ubicación de las áreas naturales protegidas;
-
-l. Ante la Secretaría de Turismo, los sitios o lugares de valor turístico y su problemática;
-
-m. Ante la Procuraduría de Justicia del Estado, el número y ubicación de agencias del ministerio público;
-
-n. Ante la Secretaría de Seguridad Pública; los centros de readaptación social;
-
-o. Ante el Sistema Integral para el Desarrollo de la Familia; el número y ubicación de las casas de cuna, casas hogar para ancianos, centros de desarrollo comunitarios, centros de integración juvenil, velatorios, casa hogar de menores, centros de asistencia y desarrollo infantil, centros de rehabilitación y estancias de bienestar y desarrollo infantil;
-
-p. Ante la Secretaría de Salud, el número y ubicación de los centro de salud rural, salud con hospitalización, urgencias y urbano, unidad familiar, clínica hospital, puesto de socorro y hospitales de especialidades, general, medicina familiar, regional y de tercer nivel;
-
-q. Ante el organismo operador local del agua; las zonas cubiertas y no cubiertas con los servicios de agua potable y drenaje sanitario y pluvial;
-
-r. Ante la Dependencia Municipal de los servicios públicos; las zonas cubiertas y no cubiertas con el servicio de alumbrado público y recolección y disposición final de residuos sólidos; y,
-
-s. Ante la Secretaría de Cultura, el número y ubicación de bibliotecas públicas, museos en sus diferentes tipos, casas de cultura, teatros, centros sociales populares, escuelas integrales de artes y auditorios municipales.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 270.
 
-Para realizar el análisis y procesamiento de la información del equipamiento urbano, se deberá atender a las determinaciones del Sistema Normativo de Equipamiento Urbano.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 271.
 
-Para el caso, de que las dependencias oficiales no cuenten con la información necesaria contenida en el artículo 269, el Ayuntamiento o prestador de servicios, deberá de generada y/o levantarla en campo.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 ###### ARTÍCULO 272.
 
-Para la representación de la información en planos, se deberá elaborar uno denominado base del municipio o centro de población, el cual deberá contener la información siguiente:
-
-I. Limite político administrativo;
-
-II. Traza (s) urbana (s) y nombres del o los centros de población;
-
-III. Las coordenadas del sistema geográfico nacional INEGI-UTM (Instituto Nacional de Estadística, Geografía e Informática -Cuadricula Universal Transversal de Mercator);
-
-IV. Las vialidades regionales y principales;
-
-V. Las áreas naturales protegidas;
-
-VI. Los cuerpos de aguas superficiales (presas, lagos, lagunas, arroyos, ríos, bordos, canales, escurrimientos);
-
-VII. Las curvas de nivel a cada 20 o 50 metros, dependiendo del municipio o centro de población;
-
-VIII. La infraestructura que se ubique en el municipio o centro de población (carreteras, caminos, terrecerías (sic), vías férreas, gasoductos, oleoductos, poliductos, líneas de energía eléctrica, puentes, puertos marítimos, aeropuertos o helipuertos);
-
-IX. Los cerros, barrancas, ríos, presas, bordos, lagos, lagunas, arroyos, caminos y veredas y en su caso su denominación; y,
-
-X. Pie de plano, que deberá contener nombre del programa, espacio para la simbología, escala y escala grafica, clave y el nombre del plano, así como un área para la firma de las autoridades municipales que aprueben el programa y el escudo del municipio.
+(DEROGADO, P.O. 28 DE MAYO DE 2015)
 
 # LIBRO TERCERO. DISPOSICIONES GENERALES PARA LA OPERACIÓN URBANA Y LOS DESARROLLOS
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### Capítulo III. Disposiciones Generales para las Autorizaciones de los Desarrollos Urbanos con Vivienda
+### Capítulo I. Del Objeto y Conceptos
 
 ###### ARTÍCULO 273.
 
@@ -3239,9 +2991,7 @@ XLV. Vía Pública: El área marcada con tal carácter en la autorización de un
 
 XLVI. Zonificación: La determinación de las áreas que integran un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
-### Capítulo IV. De los Desarrollos en Condominio
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+### Capítulo II. De las Autoridades Competentes
 
 ###### ARTÍCULO 275.
 
@@ -3363,7 +3113,7 @@ IV. Recibir la red de agua potable, tanques de regularización, los sistemas de 
 
 V. Las demás que se deriven del presente Código, o que le confieran otras disposiciones legales o el Ayuntamiento.
 
-### Capítulo V. De la ejecución de obras de urbanización en los Desarrollos y desarrollos en condominio
+### Capítulo III. Bases Generales para la Reglamentación de la Zonificación y Usos del Suelo
 
 ###### ARTÍCULO 280.
 
@@ -3483,7 +3233,7 @@ La expedición de la licencia de uso de suelo no es motivo para dar inicio a con
 
 En ausencia de reglamentos municipales de zonificación y usos del suelo, se aplicará supletoriamente el Reglamento de Zonificación y Usos del Suelo de ámbito estatal.
 
-### Capítulo VI. De los Derechos y Obligaciones del Fraccionador
+### CAPÍTULO IV. Bases Generales para la Reglamentación Municipal de las Construcciones
 
 ###### ARTÍCULO 283.
 
@@ -3689,7 +3439,7 @@ Las áreas, lotes y predios sin edificar, los edificios, viviendas, y cualquier 
 
 En ausencia de reglamentos municipales de construcción, se aplicará supletoriamente el Reglamento de Construcción de ámbito estatal.
 
-### Capítulo VII. De los Derechos y Obligaciones de los Adquirentes
+### Capítulo V. De las funciones urbanas sobre áreas y predios
 
 ###### ARTÍCULO 286.
 
@@ -3729,21 +3479,29 @@ IX. Comunicación. Se clasifica en telecomunicaciones, prensa y estaciones y ter
 
 X. Servicios urbanos complementarios. Se clasifican en cementerios, basureros, gasolineras y otros.
 
-### Capítulo VIII. De las Obligaciones de los Directores Responsables de Obra
+### Capítulo VI. De la compatibilidad e incompatibilidad de funciones de los usos y destinos del suelo en áreas o predios
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 288.
 
-Para determinar la compatibilidad e incompatibilidad de las funciones de los usos y destinos del suelo en áreas o predios, se estará a lo dispuesto en los programas de desarrollo urbano, reglamentos de zonificación y usos del suelo y demás normatividad aplicable al caso concreto, se atenderán a las funciones siguientes:
+Para los fines que se precisan en este capítulo, la compatibilidad e incompatibilidad de las funciones de los usos y destinos del suelo en áreas o predios, se sujetarán a lo dispuesto por los programas de desarrollo urbano, normatividad y reglamentación aplicables al caso concreto, entendiéndose por funciones lo siguiente:
 
-l. Funciones permitidas. Son aquellas que indistintamente pueden desarrollarse en las áreas o predios;
+I. FUNCIONES COMPATIBLES. Son aquellas que indistintamente pueden desarrollarse en predios;
 
-II. Funciones de compatibilidad condicionada. Son aquellas que pueden desarrollarse en predios urbanos, a condición de satisfacer determinados requerimientos establecidos en el programa de desarrollo urbano correspondiente y el reglamento de zonificación o en el Sistema de Equipamiento; y,
+II. FUNCIONES DE COMPATIBILIDAD CONDICIONADA. Son aquellas que pueden desarrollarse en predios urbanos, a condición de satisfacer determinados requerimientos establecidos en los diversos reglamentos y normas de observancia y aplicación urbana; preferentemente los señalados en el Sistema Normativo de Equipamiento Urbano de la Secretaría de Desarrollo Social; y,
 
-III. Funciones prohibidas. Son aquellas que no pueden desarrollarse en áreas o predios, sino que preferentemente se ubicarán en áreas urbanas específicas.
+III. FUNCIONES INCOMPATIBLES. Son aquellas que no pueden desarrollarse en predios, sino que preferentemente se ubicarán en áreas urbanas específicas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### ARTÍCULO 288 Bis.
+
+Las compatibilidades condicionadas estarán sujetas a las disposiciones normativas establecidas en el programa de desarrollo urbano respectivo, en congruencia con el sistema normativo de equipamiento urbano y criterios de desarrollo urbano de la SEDESOL, SEDATU así como a las normas oficiales mexicanas.
 
 ## TÍTULO SEGUNDO. DE LOS DESARROLLOS
 
-### Capítulo IX. De la Municipalización
+### Capítulo I. De los Desarrollos
 
 #### Sección Primera (sic). Clasificación
 
@@ -4387,7 +4145,7 @@ Las superficies de donación para equipamiento urbano y para áreas verdes, esta
 
 En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto en lotes de fraccionamientos que sean compatibles, que hayan sido establecidos con anterioridad, que hubiesen satisfecho la obligación de donar o pagar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas (sic) desarrollo urbano vigentes para cada caso, no estarán obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior será determinado por la autoridad por medios fehacientes y verificables.
 
-### Capitulo X. De las Relotificaciones, Fusiones y Subdivisiones de Áreas y Predios
+### Capítulo II. De las Autorizaciones
 
 #### Sección Primera (sic). Disposiciones Generales
 
@@ -4695,7 +4453,7 @@ III. En el caso de la Autorización Definitiva. A edificar y urbanizar, publicit
 
 IV. La municipalización de un Desarrollo, y en su caso, desarrollo en condominio. A solicitar la liberación de las garantías otorgadas y de los compromisos contraídos a cargo del fraccionador, subsistiendo sólo las garantías contra vicios ocultos de las obras de urbanización, por un periodo de un año posterior a la municipalización.
 
-### Capítulo I. De las Inspecciones y Notificaciones
+### Capítulo III. Disposiciones Generales para las Autorizaciones de los Desarrollos Urbanos con Vivienda
 
 ###### ARTÍCULO 357.
 
@@ -4735,7 +4493,9 @@ III. El equipo y mobiliario urbano; y,
 
 IV. Las previsiones y medidas de salubridad, seguridad y protección civil.
 
-### Capítulo II. Medidas de Seguridad, Infracciones y Sanciones
+### Capítulo IV. De los Desarrollos en Condominio
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 361.
 
@@ -4873,7 +4633,7 @@ El dictamen técnico a que se refiere el artículo anterior, en ningún caso imp
 
 Para el caso de desarrollos en condominio tipos habitacionales, comerciales o de servicios, industriales y mixtos de usos compatibles que hayan sido autorizados por el Ayuntamiento sin bardas, rejas o cercas perimetrales y con vías públicas y que en ellas existan obras de urbanización, deberán municipalizarse de conformidad con lo dispuesto en el Capítulo IX de este Título y Libro.
 
-### Capítulo III. Suspensión, Cancelación y Caducidad de las Autorizaciones
+### Capítulo V. De la ejecución de obras de urbanización en los Desarrollos y desarrollos en condominio
 
 ###### ARTÍCULO 377.
 
@@ -4969,7 +4729,7 @@ En caso de que el fraccionador no pueda realizar las obras de urbanización en e
 
 Cuando el promovente haya ejecutado obras, construcciones, instalaciones o servicios, en contravención a lo dispuesto en este Código, en la normatividad urbana, en los programas de desarrollo urbano o en la autorización definitiva, el Ayuntamiento aplicará las sanciones establecidas en el presente Código.
 
-### Capítulo IV. De los Recursos Administrativos
+### Capítulo VI. De los Derechos y Obligaciones del Fraccionador
 
 ###### ARTÍCULO 391.
 
@@ -5031,6 +4791,8 @@ V. Cuidar y conservar las áreas verdes.
 
 El Ayuntamiento podrá convenir con el fraccionador, la prestación total o parcial de los servicios a que se refiere el artículo anterior; para tales efectos, el Ayuntamiento le cobrará importe de los servicios, mientras no sea municipalizado.
 
+### Capítulo VII. De los Derechos y Obligaciones de los Adquirentes
+
 ###### ARTÍCULO 396.
 
 Los adquirentes deberán ajustar sus construcciones a las disposiciones del reglamento de construcción aplicable y los programas de desarrollo urbano.
@@ -5046,6 +4808,8 @@ En los Desarrollos Habitacionales Urbanos tipo populares promocionados por insti
 ###### ARTÍCULO 399.
 
 Los adquirentes de lotes podrán cerciorarse de que el lote o lotes que les oferten cuenten con las condiciones de urbanización autorizadas así como, que la compra-venta en la que participan, sea con base al proyecto de vialidad y lotificación autorizado.
+
+### Capítulo VIII. De las Obligaciones de los Directores Responsables de Obra
 
 ###### ARTÍCULO 400.
 
@@ -5102,6 +4866,8 @@ La recepción de un Desarrollo, o en su caso, desarrollo en condominio de que se
 ###### ARTÍCULO 406.
 
 Cuando se suspenda o cancele el registro al Director Responsable de Obra el fraccionador deberá designar de inmediato a quien lo sustituya notificando tal circunstancia por escrito a la Dependencia Municipal. La sustitución no exime de su responsabilidad al sustituido por la parte del Desarrollo o desarrollo en condominio que le haya correspondido. El fraccionador procederá de igual forma si la responsiva del Director Responsable de Obra concluye por acuerdo entre ambos.
+
+### Capítulo IX. De la Municipalización
 
 ###### ARTÍCULO 407.
 
@@ -5172,6 +4938,8 @@ El fraccionador estará obligado a tramitar la publicación en el Periódico Ofi
 ###### ARTÍCULO 416.
 
 El Ayuntamiento tomará las medidas necesarias para el debido aprovechamiento del área de donación, en los términos a que se refiere el artículo 297 de este Código, destinándolos provisionalmente para jardines, áreas de recreación o deportivas.
+
+### Capitulo X. De las Relotificaciones, Fusiones y Subdivisiones de Áreas y Predios
 
 ###### ARTÍCULO 417.
 
@@ -5281,6 +5049,8 @@ El Ayuntamiento deberá negar la autorización de relotificaciones, fusiones y s
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
+### Capítulo I. De las Inspecciones y Notificaciones
+
 ###### ARTÍCULO 431.
 
 El Ayuntamiento a través de la Dependencia Municipal, podrá realizar visitas de inspección por conducto de personal debidamente autorizado para verificar el cumplimiento de este Código y demás ordenamientos.
@@ -5288,6 +5058,8 @@ El Ayuntamiento a través de la Dependencia Municipal, podrá realizar visitas d
 ###### ARTÍCULO 432.
 
 Las inspecciones y notificaciones se sujetarán a lo dispuesto por el Código de Justicia Administrativa del Estado de Michoacán de Ocampo o los reglamentos municipales de la materia.
+
+### Capítulo II. Medidas de Seguridad, Infracciones y Sanciones
 
 ###### ARTÍCULO 433.
 
@@ -5451,6 +5223,8 @@ Cuando se fraccionen o dividan terrenos en lotes de régimen ejidal o comunal si
 
 Cuando se fraccionen o dividan terrenos en lotes sin autorización independientemente de su régimen de propiedad, el Ayuntamiento deberá presentar la denuncia de conformidad con las disposiciones contenidas en el Código Penal del Estado de Michoacán.
 
+### Capítulo III. Suspensión, Cancelación y Caducidad de las Autorizaciones
+
 ###### ARTÍCULO 451.
 
 Los ayuntamientos podrán cancelar las autorizaciones que hubieren otorgado a petición del beneficiado o cuando incumpla las obligaciones que contrajo al obtener la autorización definitiva.
@@ -5478,6 +5252,8 @@ No obstante el otorgamiento de la autorización de un visto bueno de vialidad y 
 l. Transcurran más de 180 días naturales contados a partir de la fecha del oficio de la autorización del visto bueno de vialidad y lotificación y por causas imputables al fraccionador, éste no exhibe ante el Ayuntamiento los documentos que se le hayan indicado en el oficio por el que se le concede; o,
 
 II. Transcurran más de dos años contados a partir de la fecha de notificación de la autorización definitiva, el fraccionador no haya ejecutado las obras señaladas en la autorización otorgada.
+
+### Capítulo IV. De los Recursos Administrativos
 
 ###### ARTÍCULO 457.
 
@@ -5574,3 +5350,25 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Los Ayuntamientos deberán adecuar o expedir su Reglamento relativo al Establecimiento y Funcionamiento de las Estaciones de Gasolina, Diesel y Gas Carburación, en un periodo no mayor a seis meses a partir de la publicación del presente Decreto.
 
 TERCERO. Las solicitudes de licencia de uso de suelo que se encuentren en trámite a la fecha de la entrada en vigor del presente Decreto, deberán adecuarse en un periodo no mayor a dos meses para cumplir con lo establecido en el presente Decreto.
+
+P. O. 28 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos que se encuentren en trámite a la fecha de la entrada en vigor del presente decreto, seguirán desarrollándose observando las normas contenidas en el Código de Desarrollo Urbano del Estado de Michoacán vigente al momento de iniciar su procedimiento respectivo, hasta su conclusión.
+
+###### ARTÍCULO TERCERO.
+
+El Gobierno del Estado a través de la Secretaría de Urbanismo y Medio Ambiente deberá implementar el Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable en el Estado (sic) un plazo no mayor a los 180 días contados a la fecha de entrada en vigor del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Urbanismo y Medio Ambiente deberá expedir las Guías Metodológicas para la Elaboración de los Programas de Desarrollo Urbano en un plazo no mayor a los 180 días contados a la fecha de entrada en vigor del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los Programas de Desarrollo Urbano que se formulen, modifiquen o actualicen posterior a la entrada en vigor del presente decreto, deberán ajustarse a lo dispuesto en el mismo.
