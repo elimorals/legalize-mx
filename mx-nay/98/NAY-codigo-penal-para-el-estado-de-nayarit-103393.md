@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2014-09-06"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
 > <small>N. DE E. LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -485,7 +485,9 @@ XXII. Hostigamiento o acoso sexual, salvo que el sujeto pasivo sea menor de edad
 
 XXIII. Violación entre cónyuges y concubinos;
 
-XXIV. Amenazas simples prevista en el artículo 316 de este código;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXIV. Amenazas previstas en los artículos 316 y 316 bis, de este Código.
 
 XXV. Los delitos culposos contemplados en el artículo 96 primer párrafo, y 97 del presente código, y
 
@@ -2693,6 +2695,12 @@ Comete el delito de amenazas, el que valiéndose de cualquier medio intimide a o
 
 El delito de amenazas se sancionará con prisión de seis meses a dos años de prisión y multa de diez a cincuenta días de salario.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+ARTÍCULO 316 BIS.- Se equipara a las amenazas, el uso de la violencia verbal o la intimidación verbal o escrita, ya sea de manera personal o a través de cualquier medio, que se realice de manera reiterada o continua y fuera del marco legal, para requerir el pago de adeudos derivados de actividades mercantiles, incluyendo empréstitos o financiamientos.
+
+Al responsable de amenazas equiparadas, se le impondrá una pena de prisión de seis meses a dos años y multa de diez a cincuenta días de salario mínimo.
+
 ###### ARTÍCULO 317.
 
 Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer, se le aplicarán las mismas sanciones a que se refiere el artículo anterior.
@@ -2722,6 +2730,10 @@ A quien cometa el delito de chantaje, se le impondrán de uno a tres años de pr
 Si lo que se exigió fue la entrega de cantidades o efectos y ésta se realiza, además de las sanciones que señala el párrafo anterior se aplicarán las de robo con violencia.
 
 ### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 320.
 
@@ -2809,11 +2821,21 @@ Se impondrá además, una pena de dos a cinco años de prisión, cuando el sujet
 
 ###### ARTÍCULO 329.
 
-Se aplicarán de cinco a veinte años de prisión y multa de cien a cuatrocientos días de salario, al responsable de la desaparición forzada de personas.
+Comete el delito de desaparición forzada de personas el servidor público que en ejercicio de sus atribuciones o con motivo de ellas, prive de la libertad, mantenga oculta o desaparecida a una o más personas, sin reconocer la existencia de tal privación o niegue información sobre el paradero de la o de las víctimas.
 
-Comete el delito de desaparición forzada de personas el servidor público que en ejercicio de sus atribuciones o con motivo de ellas y derivado de la privación de la libertad, mantenga oculta o desaparecida a una o más personas, o bien autorice, apoye o consienta que otros lo hagan, cualesquiera que sea el método y motivación utilizados, sin reconocer la existencia de tal privación o niegue información sobre el paradero de la o de las víctimas.
+Es igualmente responsable del delito de desaparición forzada de personas, aquel que sin ser servidor público, incurra en la conducta descrita en el párrafo anterior, con la autorización, ayuda, aquiescencia o tolerancia de servidores públicos.
 
-Serán igualmente responsables del delito de desaparición forzada de personas, todo aquel que aun cuando no sea servidor público, actúe aprovechando la autorización, el apoyo o la aquiescencia de funcionarios públicos.
+Se impondrá una pena de doce a cuarenta años de prisión y multa de cuatrocientos a mil días de salario a quien cometa el delito de desaparición forzada de personas, así como destitución e inhabilitación de cinco a veinte años para desempeñar empleo, cargo o comisión públicos.
+
+Igualmente será responsable del delito de desaparición forzada de personas y será acreedor a una pena de cuatro a ocho años de prisión y multa de cuatrocientos a setecientos días de salario, así como destitución e inhabilitación para el desempeño de cualquier cargo, comisión o empleo públicos de tres a diez años, el servidor público que sin ser partícipe y teniendo conocimiento de la perpetración de este delito, no diere aviso a la autoridad competente o conociendo los planes para su comisión, no adopte las medidas necesarias para evitarlo.
+
+Las penas previstas en los dos párrafos anteriores podrán ser disminuidas hasta una tercera parte en beneficio del responsable, cuando suministre información que permita esclarecer los hechos, y hasta en la mitad, cuando contribuya a lograr la localización y liberación de la víctima con vida.
+
+La pena que corresponda se incrementará hasta en una tercera parte, cuando la víctima sea menor de edad o incapaz, mujer embarazada, persona mayor de sesenta años o perteneciente a comunidad indígena.
+
+El delito de desaparición forzada se considera permanente, en tanto no se logre la localización de la víctima o sus restos.
+
+Los términos para la prescripción previstos en este Código, respecto del delito de desaparición forzada de personas, comenzarán a computarse a partir de que se localice a la víctima o sus restos.
 
 ## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA EL HONOR
 
@@ -3367,9 +3389,23 @@ XIII. Al que habiendo recibido mercancías con subsidio o franquicia para darles
 
 XIV. Al que para eludir todo o parcialmente el pago de un impuesto, contribución, multa o cualquier otra prestación fiscal, legalmente decretada, emplee simulaciones, engaños o cualquier otro procedimiento que tienda a ocultar, variar o desnaturalizar la causa o sujeto del impuesto, multa o prestación o a inducir a error en alguna forma a las autoridades fiscales;
 
-XV. Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidos por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año, o
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI. El que habiéndose obligado con otro de manera verbal o escrita, a la comercialización primaria de productos agropecuarios, pesqueros o forestales, y utilizando engaños, artificios, maquinaciones, después de recibida la cosa pactada, incumpla con la obligación del pago en los términos fijados.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XV. Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidos por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XVI. El que habiéndose obligado con otro de manera verbal o escrita, a la comercialización primaria de productos agropecuarios, pesqueros o forestales, y utilizando engaños, artificios, maquinaciones, después de recibida la cosa pactada, incumpla con la obligación del pago en los términos fijados, o
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XVII. A quien en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, oculte, transfiera o adquiera bienes a nombre de terceros.
 
 ###### ARTÍCULO 402.
 
@@ -3668,3 +3704,17 @@ Artículo Segundo.- La presente Declaratoria deberá difundirse mediante Bando S
 Artículo Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
 
 Artículo Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 329, 401, FRACCIONES XV Y XVI, Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 401, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, PUBLICADO EL 06 DE SEPTIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor en los términos previstos en la Declaratoria que mediante Bando Solemne emita el Congreso del Estado de Nayarit, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 46, Y SE ADICIONA EL ARTÍCULO 316 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT.
+
+Único.- El presente Decreto entrará en vigor en los términos previstos en la Declaratoria para la Implementación del Sistema de Justicia Penal Acusatorio que mediante Bando Solemne emita el Congreso del Estado de Nayarit, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
