@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2015-04-09"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "VER"
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 28 DE MAYO DE 2015.</small>
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1155,11 +1157,17 @@ VI. Los demás requisitos que señale la ley.
 
 No podrán ser magistrados las personas que hayan ocupado el cargo del Secretario del Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2015) (F. DE E., G.O. 28 DE MAYO DE 2015)
 
 ###### Artículo 59.
 
 Los magistrados serán nombrados por el Congreso, a propuesta del Gobernador del Estado. En los recesos del Congreso la Diputación Permanente hará el nombramiento, con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva.
+
+(NOTA: EL 10 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 79/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(REFORMADO, G.O. 3 DE FEBRERO DE 2000) (F. DE E., G.O. 28 DE MAYO DE 2015)
+
+Los magistrados durarán en su cargo diez años IMPRORROGABLES, y sólo serán removidos de conformidad con lo dispuesto por esta Constitución.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
