@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2015-01-13"
+last_updated: "2015-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO SE DECLARA INCORPORADO AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, MISMO QUE INICIARÁ SU VIGENCIA DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NÚMERO 24864/LX/14.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -4191,9 +4191,13 @@ I. 1 de octubre de 2014: Amacueca, Atemajac de Brizuela, Jilotlán de Dolores, G
 
 II. 15 de marzo de 2015: Cabo Corrientes, Puerto Vallarta, Tomatlán, San Sebastián del Oeste, Mascota;
 
-III. 29 de mayo de 2015: Acatic, Arandas, Cañadas de Obregón, Jalostotitlán, Jesús María, Mexticacán, San Julián, San Miguel el Alto, Tepatitlán de Morelos, Valle de Guadalupe, Yahualica de González Gallo, San Ignacio Cerro Gordo, Ixtlahuacán del Río, Cuquio.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-IV. 29 de mayo de 2015: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio, Villa Hidalgo.
+III. 29 de junio de 2015: Acatic, Arandas, Cañadas de Obregón, Jalostotitlán, Jesús María, Mexticacán, San Julián, San Miguel el Alto, Tepatitlán de Morelos, Valle de Guadalupe, Yahualica de González Gallo, San Ignacio Cerro Gordo, Ixtlahuacán del Río, Cuquío.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+IV. 29 de junio de 2015: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio, Villa Hidalgo.
 
 V. 24 de agosto de 2015: Autlán de Navarro, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlán, Tolimán, Tonaya, Tuxcacuesco, Unión de Tula, Cuautla, Ayutla.
 
@@ -4230,3 +4234,7 @@ P.O. 27 DE SEPTIEMBRE DE 2014.
 P.O. 13 DE ENERO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MAYO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
