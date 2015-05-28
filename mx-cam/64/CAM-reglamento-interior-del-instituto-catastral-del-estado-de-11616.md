@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-instituto-catastral-del-estado-de-11616
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-12"
-last_updated: "2013-12-27"
+last_updated: "2015-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DEL INSTITUTO CATASTRAL DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DEL SISTEMA DE INFORMACIÓN PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DEL SISTEMA DE INFORMACIÓN PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2013; Y EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACIÓN ESTADÍSTICA, GEOGRÁFICA Y CATASTRAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013. (ABROGADO)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el jueves 12 de diciembre de 1996.
 
@@ -446,3 +446,13 @@ Octavo.- El Reglamento Interior del INFOCAM deberá expedirse en un plazo no may
 Noveno.- El Reglamento de la presente Ley deberá expedirse en un término no mayor a sesenta días hábiles, contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 Décimo.- Se derogan todas las disposiciones les y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MAYO DE 2015.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto Catastral del Estado de Campeche publicado en el Periódico Oficial del Estado el 12 de diciembre de 1996.
+
+TERCERO.- En tanto se expiden los manuales de organización, procedimientos y estructuras que en este reglamento se mencionan, el Titular de la Dirección General queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía del marco jurídico Estatal, que se opongan al contenido del presente Reglamento.
