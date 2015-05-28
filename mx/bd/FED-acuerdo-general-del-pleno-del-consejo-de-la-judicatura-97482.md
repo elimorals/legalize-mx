@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2015-05-21"
+last_updated: "2015-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2015.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -105,7 +105,9 @@ XVII. Expediente Electrónico: Conjunto de información contenida en archivos el
 
 XVIII. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento;
 
-XIX. Firma Electrónica: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en Línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en el procedimiento de responsabilidad en línea y será proporcionada por la Contraloría en el momento de la primera notificación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+XIX. Firma Electrónica: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en Línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en el procedimiento de responsabilidad en línea y será proporcionada por la Contraloría o la Secretaría en el momento de la primera notificación;
 
 XX. Ley de Responsabilidades: Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
@@ -129,7 +131,9 @@ XXVII. Procedimiento tradicional: El procedimiento de responsabilidad administra
 
 XXVIII. Procedimiento de responsabilidad en línea: Substanciación y resolución del procedimiento de responsabilidad administrativa en todas sus etapas, a través del Sistema de Justicia en Línea;
 
-XXIX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento de responsabilidad administrativa que se sustancie ante la propia Contraloría;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+XXIX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría y la Secretaría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento de responsabilidad administrativa que se sustancie;
 
 XXX. Secretaría: Secretaría Ejecutiva de Disciplina del Consejo de la Judicatura Federal;
 
@@ -1039,7 +1043,9 @@ II. Para el inicio del procedimiento de responsabilidad administrativa, no se re
 
 III. La Secretaría tramitará el procedimiento de responsabilidad administrativa y turnará el asunto al Consejero que corresponda para que éste elabore el proyecto de resolución respectivo, el cual será sometido a la consideración del Pleno o de la Comisión, según corresponda; y
 
-IV. El Pleno será competente para resolver los procedimientos de responsabilidad administrativa en los que se proponga imponer una sanción, en los demás casos resolverá la Comisión.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+IV. La Comisión será competente para resolver los procedimientos de responsabilidad respectivos, salvo que se trate de falta grave sancionada con destitución o inhabilitación temporal, en términos de lo previsto en el artículo 133, fracción III, de la Ley Orgánica, pues en ese supuesto corresponderá al Pleno resolver el sumario correspondiente.
 
 ###### Artículo 108.
 
@@ -1083,7 +1089,9 @@ III. Para el inicio del procedimiento de responsabilidad administrativa, no se r
 
 IV. La Secretaría tramitará el procedimiento de responsabilidad administrativa y someterá el proyecto de resolución a la Comisión; y
 
-V. Una vez agotado el trámite, tratándose del titular de la Contraloría, la Secretaría turnará el asunto al Consejero que corresponda para que elabore el proyecto de resolución que será sometido a consideración del Pleno.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+V. Una vez concluido el trámite, tratándose del titular de la Contraloría, la Secretaría turnará el asunto al Consejero que corresponda para que elabore el proyecto de resolución que será sometido a consideración de la Comisión.
 
 ###### Artículo 111.
 
@@ -1415,35 +1423,49 @@ En caso de que el Consejero ponente o el titular de la Contraloría consideren n
 
 El Pleno o la Comisión podrán ordenar la reposición del procedimiento al órgano encargado del trámite, en aquellos casos en que consideren que se afecta la defensa del servidor público implicado, o sea necesario recabar y desahogar de oficio mayores elementos probatorios. La reposición del procedimiento se notificará personalmente al servidor público y, cuando sea conducente, al quejoso o denunciante.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 151.
 
 El Consejero ponente o el titular de la Contraloría someterán el proyecto de resolución a la aprobación del Pleno o de la Comisión, conforme a lo siguiente:
 
-I. Tratándose de procedimientos de responsabilidad administrativa en contra de magistrados de Circuito y jueces de Distrito donde se proponga imponer una sanción resolverá el Pleno; y
+I. Tratándose de faltas graves de magistrados de circuito y jueces de distrito, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público resolverá el Pleno; y
 
 II. En todos los demás casos resolverá la Comisión.
 
 Lo anterior, salvo lo dispuesto en el artículo 113 de este Acuerdo, relativo a los procedimientos de responsabilidad administrativa iniciados con motivo de la declaración de situación patrimonial.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 152.
 
-Las resoluciones de los procedimientos de responsabilidad administrativa se aprobarán por mayoría calificada de cinco votos tratándose de los asuntos que resuelva el Pleno y por mayoría simple los que conozca la Comisión.
+Las resoluciones de los procedimientos de responsabilidad administrativa a que se refiere la fracción primera del artículo anterior, se aprobarán por mayoría calificada de cinco votos y por mayoría simple los que correspondan a la fracción segunda.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 153.
 
-El Pleno podrá atraer cualquier asunto que considere que debe ser resuelto por él, a propuesta de alguno de los Consejeros.
+La ejecución de las sanciones se llevará a cabo cuando la resolución haya causado estado, con excepción de aquellas en que se imponga como sanción la destitución del puesto o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 154.
 
-Los asuntos presentados al Pleno o a la Comisión, podrán ser retirados o aplazados. Los aplazados quedarán listados para la siguiente sesión en los mismos términos en que fueron presentados o, en su caso, precisando las modificaciones realizadas; los retirados serán revisados y modificados por el Consejero ponente o el titular de la Contraloría dentro de los treinta días siguientes. Una vez iniciada la votación sobre un asunto éste no podrá retirarse o aplazarse.
+Los Consejeros que previo a la discusión de un asunto, tuvieren observaciones de forma o de fondo sobre el proyecto sometido a su consideración, podrán hacerlas del conocimiento del Consejero Ponente, lo anterior, con independencia de las que puedan generarse con motivo de la discusión en la sesión respectiva.
 
-La resolución de las quejas y denuncias que sean retiradas contendrá una breve explicación sobre los motivos y la fecha de la sesión en que se haya retirado.
+Los asuntos presentados al Pleno o a la Comisión, podrán ser retirados o aplazados. Los aplazados quedarán listados para la siguiente sesión en los mismos términos en que fueron presentados o, en su caso, precisando las modificaciones realizadas.
+
+Los asuntos serán retirados cuando el órgano competente sostenga consideraciones o un sentido diverso al que se propone en el proyecto, lo cual deberá hacerse del conocimiento del Consejero ponente o el titular de la Contraloría de manera motivada, para que cuente con los elementos suficientes para determinar si subsiste su sentido o procede a realizar la modificación respectiva, lo cual deberá acontecer dentro de los quince días hábiles siguientes.
+
+Una vez iniciada la votación sobre un asunto éste no podrá retirarse o aplazarse.
 
 Ningún asunto puede retirarse o aplazarse por más de dos ocasiones a menos que el Consejero ponente se encuentre ausente y ninguno de los Consejeros lo haga suyo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 155.
 
-En caso de que el segundo proyecto presentado por el Consejero ponente sea desechado por mayoría, será returnado a otro Consejero para que formule nuevo proyecto que presentará, al Pleno o a la Comisión, dentro de los treinta días hábiles siguientes, tomándose las medidas necesarias para que se equilibre el turno.
+En caso de que el segundo proyecto presentado por el Consejero ponente sea desechado, será returnado a otro Consejero que por razón de turno corresponda, para que elabore un nuevo proyecto, lo que deberá acontecer dentro de los treinta días hábiles siguientes. La Secretaría tomará las medidas necesarias para que se equilibre el turno de los asuntos.
 
 Lo mismo se observará cuando no se logre la mayoría calificada exigida en el artículo 152 de este Acuerdo.
 
@@ -1487,9 +1509,13 @@ IV. En su caso, documento que acredita la personalidad.
 
 Cuando exista error u omisión en el escrito de interposición del recurso, se prevendrá al recurrente para que lo subsane o complete en un plazo de tres días hábiles. En caso de no atender la prevención se tendrá por no interpuesto.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 162.
 
-Los recursos podrán interponerse personalmente, por correo certificado o por servicio de mensajería de empresa especializada. En los últimos dos supuestos la fecha de presentación será la del día de su depósito.
+En caso de que se haya optado por el procedimiento tradicional los recursos deberán interponerse personalmente, por correo certificado o por servicio de mensajería de empresa especializada. En los últimos dos supuestos la fecha de presentación será la del día de su depósito.
+
+Tratándose de los recursos derivados del procedimiento de responsabilidad administrativa en línea, deberán presentarse a través del Sistema de Justicia en Línea. En este caso la fecha de presentación será la del día de su envío a través de dicho Sistema.
 
 ###### Artículo 163.
 
@@ -1499,11 +1525,15 @@ El Presidente o el presidente de la Comisión, según su competencia, calificar�
 
 No se admitirá recurso notoriamente improcedente. En este supuesto se podrá imponer multa al recurrente en términos del artículo 159 de este Acuerdo, así como cuando afirme hecho falso u omita el que le conste, presente prueba o documento alterado o apócrifo, o testigo que no se conduzca con verdad.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 165.
 
-La interposición de los recursos no suspende la ejecución de la resolución recurrida y se tramitarán, según su competencia, por el Presidente o el presidente de la Comisión, con el auxilio de la Secretaría.
+Los recursos se tramitarán, según su competencia, por el Presidente o el presidente de la Comisión, con el auxilio de la Secretaría.
 
 El Presidente y el presidente de la Comisión podrán designar un órgano auxiliar instructor para realizar actuaciones y diligencias con motivo del trámite de los recursos.
+
+Las resoluciones de los recursos se aprobarán por mayoría simple.
 
 ###### Artículo 166.
 
@@ -1513,49 +1543,45 @@ Las resoluciones de los recursos serán firmadas por el órgano competente que l
 
 En su caso, las resoluciones de los recursos deberán expresar con claridad sus efectos y fijar las medidas necesarias para restablecer las cosas al estado que guardaban antes de su interposición.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 167.
 
-El recurso de inconformidad procede contra el acuerdo que desecha, declara improcedente o, tiene por no presentada la queja o denuncia por:
+El recurso de inconformidad procede contra el acuerdo que desecha, declara improcedente o, tiene por no presentada la queja o denuncia.
 
-I. Falta de personalidad;
+Este recurso lo admite y tramita el Presidente con auxilio de la Secretaría y lo resuelve el Pleno. El plazo para la interposición de la inconformidad será de tres días hábiles y treinta días hábiles para su resolución.
 
-II. Falta de prueba suficiente para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado; y
-
-III. Falta de motivación y fundamentación del referido acuerdo.
-
-Este recurso lo admite y tramita el Presidente y lo resuelve el Pleno cuando involucra a magistrados de Circuito o Jueces de Distrito. En los demás supuestos resuelve la Comisión. El plazo para la interposición de la inconformidad será de tres días hábiles y treinta días hábiles para su resolución.
-
-No procede recurso contra el acuerdo que desecha o tenga por no interpuesta la inconformidad.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 168.
 
-El recurso de revisión procede contra resoluciones definitivas de:
+El recurso de reconsideración procede contra resoluciones definitivas de:
 
 I. La Comisión; y
 
 II. La Contraloría.
 
-En la fracción I admite y tramita el Presidente y resuelve el Pleno; y en la fracción II admite y tramita el presidente de la Comisión y resuelve ésta. El plazo para la interposición de la revisión será de cinco días hábiles y sesenta días hábiles para su resolución.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+En la fracción I admite y tramita el Presidente y resuelve el Pleno; y en la fracción II admite y tramita el presidente de la Comisión y resuelve ésta. El plazo para la interposición de la reconsideración será de cinco días hábiles y sesenta días hábiles para su resolución.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 169.
 
-El recurso de reconsideración procede contra las resoluciones definitivas del Pleno en las que:
+Si el recurso de reconsideración se interpuso contra una resolución derivada de un procedimiento administrativo en contra de magistrado de Circuito o un juez de Distrito en los que concurran estos con otro servidor público del Poder Judicial de la Federación en el que se haya destituido o inhabilitado al juzgador, la reconsideración no podrá resolverse hasta en tanto se decida, en su caso, la suerte del recurso constitucional de revisión administrativa.
 
-I. No imponga sanción; o
-
-II. Imponga sanción salvo las de destitución o inhabilitación a magistrados de Circuito o jueces de Distrito.
-
-Este recurso lo admite y tramita el Presidente y lo resuelve el Pleno. El plazo para la interposición de la reconsideración será de cinco días hábiles y sesenta días hábiles para su resolución.
-
-Si el recurso de reconsideración se interpuso en contra de resolución emitida con fundamento en el artículo 107 de este Acuerdo, por la que se haya destituido o inhabilitado al servidor público que no sea magistrado de Circuito o juez de Distrito, la reconsideración no podrá resolverse hasta en tanto se decida, en su caso, la suerte del recurso constitucional de revisión administrativa.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 170.
 
-El recurso de reclamación procede contra el acuerdo que desecha o tenga por no interpuesto los recursos de revisión y reconsideración, mismo que resolverá el Pleno, cuando lo haya acordado el Presidente, y la Comisión, cuando lo haya hecho el presidente de ésta. El plazo para la interposición de la reclamación será de tres días hábiles y quince días hábiles para su resolución.
+El recurso de reclamación procede contra el acuerdo que desecha o tenga por no interpuesto los recursos de reconsideración e inconformidad, mismo que resolverá el Pleno, cuando lo haya acordado el Presidente, y la Comisión, cuando lo haya hecho el presidente de ésta. El plazo para la interposición de la reclamación será de tres días hábiles y quince días hábiles para su resolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 171.
 
-En los recursos de revisión y reconsideración podrán hacerse valer violaciones al procedimiento de responsabilidad administrativa con motivo de:
+En el recurso de reconsideración podrán hacerse valer violaciones al procedimiento de responsabilidad administrativa con motivo de:
 
 I. La admisión de la queja o denuncia;
 
@@ -1573,7 +1599,9 @@ En los recursos señalados, únicamente podrá ser ofrecida la prueba supervenie
 
 Una vez substanciado el recurso de inconformidad el Presidente formulará el proyecto de resolución con apoyo de la Secretaría y lo someterá al órgano competente para su resolución. Lo mismo se observará en el supuesto del recurso de reclamación, caso en el cual la formulación del proyecto y su presentación corresponderá a dicho servidor público o al presidente de la Comisión, conforme a su ámbito de competencia.
 
-Tramitados los recursos de revisión y reconsideración se remitirán, con los expedientes y anexos de ambas instancias, al Consejero a quien por turno corresponda formular el proyecto de resolución y someterlo al órgano competente. En su caso, se deberá excluir del turno al Consejero que haya sido ponente de la resolución recurrida.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+Tramitado el recurso de reconsideración se remitirá, con el expediente y anexos, al Consejero a quien por turno corresponda formular el proyecto de resolución y someterlo al órgano competente. En su caso, se deberá excluir del turno al Consejero que haya sido ponente de la resolución recurrida.
 
 #### SECCIÓN QUINTA. EJECUCIÓN Y EFECTOS DE LAS SANCIONES
 
@@ -1593,13 +1621,19 @@ IV. Suspensión, destitución e inhabilitación: tratándose de magistrados de C
 
 En los demás casos, se dará a conocer a través de notificación personal realizada por la Secretaría o la Contraloría o, en su caso, con el apoyo de un juez de Distrito o del titular del área administrativa a la que se encuentre adscrito el servidor público sancionado.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+Cuando el procedimiento de responsabilidad administrativa y, en su caso, los recursos se hayan tramitado a través del Sistema de Justicia en Línea las citaciones y notificaciones se harán a través del mismo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 174.
 
-Deberá remitirse copia certificada de toda resolución que cause estado e imponga sanción, a la Dirección General de Recursos Humanos para que la agregue al expediente personal del servidor público sancionado y a la Contraloría para la actualización del Registro de Servidores Públicos Sancionados.
+Deberá remitirse el archivo electrónico correspondiente de toda resolución que cause estado e imponga sanción, a la Dirección General de Recursos Humanos para que la agregue al expediente personal del servidor público sancionado y a la Contraloría para la actualización del Registro de Servidores Públicos Sancionados.
 
-Si la sanción impuesta consiste en inhabilitación, también se enviarán copias certificadas a la Contraloría de la Suprema Corte de Justicia de la Nación, a la Contraloría del Tribunal Electoral, a la Secretaría de la Función Pública, y a las judicaturas y contralorías de las entidades federativas.
+Si la sanción impuesta consiste en inhabilitación, se enviarán copias certificadas a la Contraloría de la Suprema Corte de Justicia de la Nación, a la Contraloría del Tribunal Electoral, a la Secretaría de la Función Pública, y a las judicaturas y contralorías de las entidades federativas.
 
-Las quejas y denuncias que sean desechadas, se declaren improcedentes o infundadas, y los procedimientos de responsabilidad administrativa en que se declare sin materia o prescrita la facultad para sancionar, únicamente se remitirán a la Secretaría o Contraloría, según el caso, para constituir un registro de tales resoluciones.
+Las quejas y denuncias que sean desechadas, se declaren improcedentes o infundadas, y los procedimientos de responsabilidad administrativa en que se declare sin materia o prescrita la facultad para sancionar, únicamente se remitirá el archivo electrónico correspondiente a la Secretaría o Contraloría, según el caso, para constituir un registro de tales resoluciones.
 
 #### SECCIÓN SEXTA. ACUMULACIÓN
 
@@ -1629,23 +1663,41 @@ También procederá la acumulación cuando a juicio del órgano competente sea n
 
 Corresponde al Pleno o a la Comisión, conforme a su competencia, ordenar la acumulación, en cuyo caso, el procedimiento más reciente se acumulará al más antiguo, para lo cual se remitirá el expediente respectivo.
 
-### CAPÍTULO QUINTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA EN LÍNEA POR INCUMPLIMIENTO EN LA PRESENTACIÓN DE LA DECLARACIÓN PATRIMONIAL
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+### CAPÍTULO QUINTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA EN LÍNEA
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 180.
 
-El procedimiento de responsabilidad administrativa por incumplimiento en la presentación de las declaraciones de situación patrimonial se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar la Contraloría.
+El procedimiento de responsabilidad administrativa se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar la Contraloría y la Secretaría.
 
-A fin de emplazar al denunciado, el titular de la Dirección de Responsabilidades imprimirá y certificará el dictamen electrónico correspondiente y sus anexos, que se notificarán de manera personal. Si el denunciado rechaza tramitar el procedimiento de responsabilidad administrativa en línea, rendirá el informe solicitado mediante el procedimiento tradicional.
+Para el trámite del procedimiento de responsabilidad derivado del incumplimiento en la presentación de la declaración patrimonial, el titular de la Dirección de Responsabilidades imprimirá y certificará el dictamen electrónico correspondiente y sus anexos, que se notificarán de manera personal. En este supuesto, el denunciado podrá rechazar tramitar el procedimiento de responsabilidad administrativa en línea, para lo cual deberá rendir el informe solicitado mediante el procedimiento tradicional.
 
-Si se hace uso del procedimiento de responsabilidad en línea deberán observarse los lineamientos que para tal efecto expida la Contraloría.
+En los procedimientos disciplinarios distintos al relativo al incumplimiento en la presentación de la declaración patrimonial, sólo el denunciante podrá rechazar el trámite del procedimiento por medio del Sistema de Justicia en Línea, lo cual deberá precisar expresamente en el escrito inicial de queja o denuncia.
+
+En caso de que no se decline el trámite del procedimiento por medio del Sistema de Justicia en Línea, el promovente deberá precisar un domicilio en el que se pueda ser localizado y un correo electrónico válido y vigente, para que le sea enviada la clave de acceso y contraseña provisional para ingresar al Sistema de Justicia en Línea.
+
+Si por cualquier circunstancia no se señala un correo electrónico o el domicilio en el que pueda ser localizado, las notificaciones posteriores se harán por lista.
+
+Recibida la queja o denuncia, se formará con ella un expediente físico al cual se integrará además con el informe que remita el servidor público denunciado, así como con la resolución con que culmine el procedimiento.
+
+Para el uso del procedimiento de responsabilidad en línea deberán observarse los lineamientos que para tal efecto expidan de manera conjunta la Secretaría Ejecutiva de Disciplina, la Contraloría y la Dirección General de Tecnologías de la Información.
 
 La firma electrónica producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 181.
 
-En el Sistema de Justicia en Línea, la Contraloría integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten el denunciante y denunciados, oficios, acuerdos, y resoluciones, así como las demás actuaciones que deriven de la substanciación del procedimiento de responsabilidad en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida la Contraloría.
+En el Sistema de Justicia en Línea, la Contraloría o la Secretaría, según corresponda, integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten el denunciante y denunciados, oficios, acuerdos, y resoluciones, así como las demás actuaciones que deriven de la substanciación del procedimiento de responsabilidad en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida la Contraloría y la Secretaría.
 
-En los procedimientos de responsabilidad en línea, la autoridad requerida, desahogará las pruebas testimoniales utilizando el método de videoconferencia cuando ello sea posible, o bien videograbará la diligencia, para su posterior envío a la Contraloría.
+Las pruebas documentales deberán remitirse físicamente al órgano instructor, con las cuales se formará un cuadernillo de anexos por separado.
+
+El desahogo de las pruebas testimoniales se efectuará a través del método de videoconferencia cuando ello sea posible, o bien, por conducto de un órgano jurisdiccional o administrativo, caso en el cual se procurara videograbar la diligencia respectiva.
+
+Para el desahogo de los restantes medios de prueba, deberá privilegiarse el uso de los medios electrónicos.
 
 ###### Artículo 182.
 
@@ -1663,9 +1715,11 @@ Los titulares de una firma electrónica, clave de acceso y contraseña, serán r
 
 Una vez recibida por vía electrónica cualquier promoción, el Sistema de Justicia en Línea emitirá el acuse de recibo electrónico correspondiente, señalando la fecha y la hora de recibido.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 186.
 
-Cualquier actuación en el procedimiento en línea se efectuará a través del Sistema de Juicio en Línea en términos de este Capítulo. Dichas actuaciones serán validadas con las firmas electrónicas o digitales del titular de la Contraloría, del de la Dirección de Responsabilidades o de cualquier otro servidor público que intervenga.
+Cualquier actuación en el procedimiento en línea se efectuará a través del Sistema de Juicio en Línea en términos de este Capítulo. Dichas actuaciones serán validadas con las firmas electrónicas o digitales del titular de la Secretaría, de la Contraloría, de la Dirección de Responsabilidades o de cualquier otro servidor público que intervenga.
 
 ###### Artículo 187.
 
@@ -1691,7 +1745,9 @@ III. El notificador enviará a la dirección de correo electrónico del denuncia
 
 IV. Se tendrá como legalmente practicada la notificación, cuando el Sistema de Justicia en Línea genere el acuse de recibo electrónico donde conste la fecha y hora en que los denunciados notificados ingresaron al expediente electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la dirección de correo electrónico de los mismos; y
 
-V. En caso de que el Sistema de Justicia en Línea no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista al cuarto día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+V. En caso de que el Sistema de Justicia en Línea no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista al tercer día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
 
 ###### Artículo 190.
 
@@ -1699,11 +1755,13 @@ Para los efectos del procedimiento administrativo en línea son hábiles las 24 
 
 Las promociones se considerarán presentadas, salvo prueba en contrario, el día y hora que conste en el acuse de recibo electrónico que emita el Sistema de Juicio en Línea, en el lugar en donde el promovente tenga su domicilio y, por recibidas, en el lugar del área correspondiente. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 191.
 
-Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en este Acuerdo, las partes deberán dar aviso a la Contraloría en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa responsable de la administración del Sistema de Justicia en Línea sobre la existencia de la interrupción del servicio.
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en este Acuerdo, las partes deberán dar aviso a la Contraloría o a la Secretaría, según corresponda, en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa responsable de la administración del Sistema de Justicia en Línea sobre la existencia de la interrupción del servicio.
 
-El reporte que determine que existió interrupción en el Sistema de Justicia en Línea deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, por el tiempo que dure la interrupción del Sistema de Justicia en Línea. Para tal efecto, la Contraloría hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
+El reporte que determine que existió interrupción en el Sistema de Justicia en Línea deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, por el tiempo que dure la interrupción del Sistema de Justicia en Línea. Para tal efecto, la Contraloría o la Secretaría, según corresponda, hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 
 ### CAPÍTULO SEXTO. SUPLETORIEDAD
 
@@ -2033,11 +2091,17 @@ Los Visitadores Judiciales "B", al concluir la revisión de los expedientes soli
 
 Al finalizar la inspección y antes del cierre del acta, el Visitador Judicial "B" entregará un tanto de ésta al titular o titulares del órgano jurisdiccional inspeccionado, o, su caso, al encargado del despacho del mismo, para que se impongan de su contenido, con el objeto de que manifiesten lo que a su derecho convenga. Para ello contarán con un tiempo máximo de tres horas.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 251.
 
-De toda visita ordinaria de inspección se levantará acta circunstanciada, de acuerdo al formato aprobado por la Comisión, la cual firmarán el Visitador Judicial "B", el titular o titulares del órgano jurisdiccional inspeccionado, o, su caso, el encargado del despacho del mismo, según corresponda, así como el secretario designado para atender la visita.
+De toda visita ordinaria de inspección se levantará acta circunstanciada, de acuerdo al formato aprobado por la Comisión, la cual firmarán electrónicamente el Visitador Judicial "B", el titular o titulares del órgano jurisdiccional inspeccionado, o, su caso, el encargado del despacho del mismo, según corresponda, así como el secretario designado para atender la visita.
 
-El acta se levantará en dos tantos, uno de ellos quedará en el órgano jurisdiccional y el otro se entregará a la Visitaduría Judicial, para los efectos conducentes. Asimismo, el acta se capturará y guardará en archivo informático y se enviará por medios electrónicos y otros que defina la Comisión, a la Visitaduría Judicial y a la Secretaría, a fin de que esta última determine lo que corresponda.
+El acta se levantará electrónicamente, imprimiéndose un tanto que se quedará en el órgano jurisdiccional.
+
+El acta se remitirá electrónicamente a la Visitaduría Judicial y a la Secretaría, para los efectos conducentes.
+
+El dictamen que recaiga al informe circunstanciado y a la visita ordinaria, se notificará electrónicamente al órgano jurisdiccional y las áreas administrativas correspondientes.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -2820,3 +2884,19 @@ D.O.F. 21 DE MAYO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 28 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El uso del Sistema de Justica en Línea para el trámite de procedimientos de responsabilidad administrativa por causas distintas al incumplimiento de la presentación de la declaración patrimonial, entrará en vigor el uno de junio de dos mil quince, mientras tanto se seguirá el procedimiento tradicional.
+
+La misma fecha se observará para la entrada en vigor del artículo 251 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+
+La Contraloría del Poder Judicial de la Federación, la Secretaría Ejecutiva de Disciplina, y la Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, llevarán a cabo las acciones necesarias para la operación del Sistema de Justicia en Línea en términos de lo previsto en este Acuerdo.
+
+Además, las áreas administrativas señaladas en el párrafo anterior y la Visitaduría Judicial, llevarán a cabo las acciones necesarias para estar en posibilidad de aplicar el citado artículo 251, dentro del plazo referido.
+
+CUARTO. Los asuntos iniciados con anterioridad a la entrada en vigor del presente Acuerdo y antes del plazo a que se refiere el artículo anterior, deberán de concluirse conforme a las disposiciones vigentes al momento de su inicio.
