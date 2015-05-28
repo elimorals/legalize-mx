@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2014-09-06"
+last_updated: "2015-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y TERCERO TRANSITORIOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE DEROGARÁ DE MANERA GRADUAL HASTA SU ABROGACIÓN EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -327,11 +327,9 @@ XXII. Hostigamiento o acoso sexual, salvo que el sujeto pasivo sea menor de edad
 
 XXIII. Violación entre cónyuges y concubinos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
-
-XXIV.- Amenazas simples previstas en el primer párrafo del artículo 276 de este código.
+XXIV. Amenazas previstas en los artículos 276, primer párrafo, y 276 bis, de este código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2793,6 +2791,12 @@ El delito de amenazas se sancionará con prisión de un mes a un año y multa de
 
 Cuando la amenaza sea a través de anónimos o empleando cualquier medio, con la finalidad de obtener la entrega de bienes o dinero, o para dar, hacer, dejar de hacer, o tolerar algo y para consumar delitos graves, se impondrá una sanción de seis a veinte años de prisión y multa de hasta 500 días de salario mínimo.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+ARTICULO 276 BIS.- Se equipara a las amenazas, el uso de la violencia verbal o la intimidación verbal o escrita, ya sea de manera personal o a través de cualquier medio, que se realice de manera reiterada o continua y fuera del marco legal, para requerir el pago de adeudos derivados de actividades mercantiles, incluyendo empréstitos o financiamientos.
+
+Al responsable de amenazas equiparadas, se le impondrá una pena de prisión de seis meses a dos años y multa de diez a cincuenta días de salario mínimo.
+
 ###### ARTICULO 277.
 
 Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer, se le aplicarán las mismas sanciones a que se refiere el artículo anterior.
@@ -2913,13 +2917,23 @@ El delito de secuestro se sancionará conforme a lo establecido por la Ley Gener
 
 ### CAPITULO VIII. DESAPARICION FORZADA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
-ARTICULO 291 A.- Se aplicarán de cinco a veinte años de prisión y multa de cien a cuatrocientos días de salario, al responsable de la desaparición forzada de personas.
+ARTICULO 291 A.- Comete el delito de desaparición forzada de personas el servidor público que en ejercicio de sus atribuciones o con motivo de ellas, prive de la libertad, mantenga oculta o desaparecida a una o más personas, sin reconocer la existencia de tal privación o niegue información sobre el paradero de la o de las víctimas.
 
-Comete el delito de desaparición forzada de personas el servidor público que en ejercicio de sus atribuciones o con motivo de ellas y derivado de la privación de la libertad, mantenga oculta o desaparecida a una o más personas, o bien autorice, apoye o consienta que otros lo hagan, cualesquiera que sea el método y motivación utilizados, sin reconocer la existencia de tal privación o niegue información sobre el paradero de la o de las víctimas.
+Es igualmente responsable del delito de desaparición forzada de personas, aquel que sin ser servidor público, incurra en la conducta descrita en el párrafo anterior, con la autorización, ayuda, aquiescencia o tolerancia de servidores públicos.
 
-Serán igualmente responsables del delito de desaparición forzada de personas, todo aquel que aún cuando no sea servidor público, actúe aprovechando la autorización, el apoyo o la aquiescencia de funcionarios públicos.
+Se impondrá una pena de doce a cuarenta años de prisión y multa de cuatrocientos a mil días de salario a quien cometa el delito de desaparición forzada de personas, así como destitución e inhabilitación de cinco a veinte años para desempeñar empleo, cargo o comisión públicos.
+
+Igualmente será responsable del delito de desaparición forzada de personas y será acreedor a una pena de cuatro a ocho años de prisión y multa de cuatrocientos a setecientos días de salario, así como destitución e inhabilitación para el desempeño de cualquier cargo, comisión o empleo públicos de tres a diez años, el servidor público que sin ser partícipe y teniendo conocimiento de la perpetración de este delito, no diere aviso a la autoridad competente o conociendo los planes para su comisión, no adopte las medidas necesarias para evitarlo.
+
+Las penas previstas en los dos párrafos anteriores podrán ser disminuidas hasta una tercera parte en beneficio del responsable, cuando suministre información que permita esclarecer los hechos, y hasta en la mitad, cuando contribuya a lograr la localización y liberación de la víctima con vida.
+
+La pena que corresponda se incrementará hasta en una tercera parte, cuando la víctima sea menor de edad o incapaz, mujer embarazada, persona mayor de sesenta años o perteneciente a comunidad indígena.
+
+El delito de desaparición forzada se considera permanente, en tanto no se logre la localización de la víctima o sus restos.
+
+Los términos para la prescripción previstos en este Código, respecto del delito de desaparición forzada de personas, comenzarán a computarse a partir de que se localice a la víctima o sus restos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
@@ -3629,9 +3643,13 @@ XIV.- Al que para eludir todo o parcialmente el pago de un impuesto, contribuci�
 
 XV.- Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidas por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-XVI.- El que habiéndose obligado con otro de manera verbal o escrita, a la comercialización primaria de productos agropecuarios, pesqueros o forestales, y utilizando engaños, artificios o maquinaciones, después de recibida la cosa pactada, incumpla con la obligación del pago en los términos fijados, siendo aplicable lo previsto por el artículo 356 de este Código.
+XVI.- El que habiéndose obligado con otro de manera verbal o escrita, a la comercialización primaria de productos agropecuarios, pesqueros o forestales, y utilizando engaños, artificios, maquinaciones, después de recibida la cosa pactada, incumpla con la obligación del pago en los términos fijados, siendo aplicable lo previsto por el artículo 356 de este código, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XVII.- A quien en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, oculte, transfiera o adquiera bienes a nombre de terceros.
 
 ###### ARTICULO 370.
 
@@ -3641,7 +3659,9 @@ Iguales sanciones se impondrán a Servidores Públicos, de las categorías indic
 
 Los agentes o funcionarios de compañías de contratación de trabajadores, que sin autorización de las autoridades o al margen de la Ley, contraten o pretendan contratar trabajadores, incurrirán en las sanciones privativas de libertad y pecuniarias a que se refiere el párrafo anterior, las compañías de que se trata incurrirán, en el mismo caso en las sanciones pecuniarias y suspensivas de operaciones.
 
-Los delitos equiparables a la figura delictiva de fraude en las fracciones IV, V, VI y VII señaladas en el artículo 369, solamente se perseguirán a petición de parte ofendida, siendo aplicable además en lo conducente los artículos 349, 353 y 356.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Los delitos equiparables a la figura delictiva de fraude en las fracciones IV, V, VI, VII y XVII señaladas en el artículo 369, solamente se perseguirán a petición de parte ofendida, siendo aplicable además en lo conducente los artículos 349, 353 y 356.
 
 ARTICULO 370 BIS.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 1996)
 
@@ -4552,3 +4572,15 @@ Los procedimientos penales iniciados con anterioridad a la entrada en vigor del 
 Efectos reincidencia-habitualidad.
 
 Las declaratorias de delincuentes reincidentes y/o habituales realizadas en el sistema penal tradicional, no surtirán ningún tipo de efecto jurídico en el sistema penal acusatorio.
+
+P.O. 28 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 291 A, 369, FRACCIÓN XVI, Y 370, PÁRRAFO CUARTO, Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 369, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, PUBLICADO EL 29 DE NOVIEMBRE DE 1986.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MAYO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 24 BIS, Y SE ADICIONA EL ARTÍCULO 276 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
