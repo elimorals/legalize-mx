@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2007-07-06"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -45,9 +45,45 @@ LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 La presente Ley es de orden e interés público y observancia general en todo el Estado, correspondiendo su aplicación en el ámbito administrativo al Ejecutivo Estatal, por conducto de la Comisión Estatal de Cultura Física y Deporte.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### Artículo 1° Bis.
+
+El ejercicio y desarrollo del derecho a la cultura física y al deporte tienen como base los siguientes principios:
+
+I. Es un derecho para todos;
+
+II. Constituye una parte esencial de la educación;
+
+III. Es un estímulo para el desarrollo del autocuidado físico, intelectual y social de todos, además de ser un factor de cuidado de la salud y autorrealización;
+
+IV. Los programas y acciones deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo;
+
+V. La enseñanza y capacitación, en materia de cultura física, así como la gestión, administración y desarrollo de instalaciones deportivas deben confiarse a un personal calificado;
+
+VI. Para su desarrollo es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas dirigidas a tal fin;
+
+VII. Desarrollar investigación y generar información en torno a la cultura física y al deporte;
+
+VIII. Las instituciones deportivas públicas y privadas del Estado deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
+
+IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
+
+X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+
+XI. Proteger la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte; y,
+
+XII. La existencia de una adecuada cooperación a nivel Estatal y municipal es necesaria para el desarrollo equilibrado y universal de la cultura física y el deporte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 2º.
 
-Esta Ley y su Reglamento tienen por objeto regular toda actividad relacionada con la cultura física y el deporte, así como establecer las bases generales de coordinación y colaboración entre el Estado y sus Municipios y la concertación para la participación de los sectores social y privado en materia de cultura física y deporte, teniendo las finalidades generales siguientes:
+Esta Ley y su Reglamento tiene como finalidad regular el deporte social, estudiantil, de alto rendimiento así como el deporte profesional en su modalidad de espectáculo público; además, de establecer la obligación del Ejecutivo del Estado de fomentar, promover, organizar y conducir la política estatal en la materia, de conformidad con el Programa Operativo Estatal. Asimismo, servir como instrumento para promover y organizar la participación de la población del Estado en las actividades deportivas.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
+
+Estableciendo las bases generales de coordinación y colaboración entre el Estado y sus Municipios y la concertación para la participación de los sectores social y privado en materia de cultura física y deporte, teniendo las finalidades generales siguientes:
 
 I. Fomentar el óptimo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
 
@@ -59,7 +95,9 @@ IV. Fomentar el desarrollo de la cultura física y el deporte, como medio import
 
 V. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
 
-VI. Promover las medidas necesarias para erradicar la violencia y reducir los riegos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VI. Promover las medidas necesarias para prevenir y erradicar la violencia mediante la aplicación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades civiles y penales a que haya lugar y reducir los riegos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
 
 VII. Fomentar, ordenar y regular a las Asociaciones, Sociedades y Organizaciones Deportivas, Deportivo-Recreativas, del deporte en la Rehabilitación y de Cultura Físico-Deportiva de conformidad con sus estatutos y la normatividad deportiva aplicable;
 
@@ -81,7 +119,7 @@ II. Reglamento: El Reglamento de la Ley de Cultura Física y Deporte del Estado 
 
 III. CONADE: La Comisión Nacional de Cultura Física y Deporte;
 
-IV. CODEME: La Confederación Deportiva Mexicana, A.C;
+IV. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
 V. COM: El Comité Olímpico Mexicano, A.C;
 
@@ -89,15 +127,19 @@ VI. RENADE: El Registro Nacional de Cultura Física y Deporte;
 
 VII. (DEROGADA, P.O. 6 DE JULIO DE 2007)
 
-VIII. CONDEBA: Consejo Nacional del Deporte de la Educación Básica;
+VIII. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-IX. CONADEMS: Consejo Nacional del Deporte de la Educación Media Superior;
+IX. (DEROGADA, P.O. 28 DE MAYO DE 2015)
 
-X. CONDDE: Consejo Nacional del Deporte Estudiantil;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+X. CONDE: Los Consejos Nacionales del Deporte Estudiantil;
 
 XI. CERDE: Comisión de Estímulos y Reconocimientos de la Cultura Física y Deporte Estatal;
 
-XII. SIEDE: El Sistema Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XII. SIECFIDE: El Sistema Estatal de Cultura Física y Deporte;
 
 XIII. CECUFID: Comisión Estatal de Cultura Física y Deporte;
 
@@ -111,7 +153,13 @@ XVII. CEAAD: La Comisión Estatal de Apelación y Arbitraje del Deporte;
 
 XVIII. CEAD: La Coordinación Estatal de Asociaciones Deportivas; y,
 
-XIX. SEE: La Secretaría de Educación en el Estado.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XIX. SEE: La Secretaría de Educación en el Estado; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XX. Comisión Especial: La Comisión Especial Contra la Violencia en el Deporte en el Estado de Michoacán.
 
 ###### Artículo 4º.
 
@@ -121,23 +169,51 @@ I. Educación Física: Proceso Pedagógico por medio del cual se adquiere, trans
 
 II. Cultura Física: Conjunto de bienes; conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
 
-III. Actividad Física: Actos motores propios del ser humano, realizados como parte de sus actividades cotidianas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+III. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
 
 IV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-V. Deporte: Actividad preponderantemente física institucionalizada, reglamentada y con propósitos de competición;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-VI. Deporte de alto rendimiento: Actividad física reglamentada por una federación internacional con la finalidad de confrontar niveles de alto rendimiento tendientes a la participación en competiciones nacionales e internacionales; y,
+V. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VI. Deporte de alto rendimiento: Actividad física reglamentada por una federación internacional con la finalidad de confrontar niveles de alto rendimiento tendientes a la participación en competiciones nacionales e internacionales;
 
 VII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
 
-###### Artículo 5º.
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
-El Ejecutivo del Estado y los Ayuntamientos, deben considerar dentro de sus programas de gobierno las acciones y recursos que fomenten la Cultura Física y el Deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos legales aplicables. Los recursos que se destinen para el desarrollo de la Cultura Física y el Deporte deberán atender, preferentemente, los programas del Deporte Social y el Deporte Estudiantil, debiendo ser consensuados anualmente con CONDEBA, CONADEMS Y CONDDE.
+VIII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
-###### Artículo 6º.
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
-El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los michoacanos a la cultura física y a la práctica del deporte, apoyando a la CECUFID en el desempeño de sus atribuciones.
+IX. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+X. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XI. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### Artículo 5°.
+
+El Ejecutivo del Estado y los Ayuntamientos, deben considerar dentro de sus programas de gobierno las acciones y recursos que fomenten la Cultura Física y el Deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos legales aplicables. Los recursos que se destinen para el desarrollo de la Cultura Física y el Deporte deberán atender, preferentemente, los programas del Deporte Social y el Deporte Estudiantil Popular, debiendo ser consensuados anualmente con CONDE.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### Artículo 6°.
+
+La participación en el Sistema Estatal de Cultura Física y Deporte es obligatoria para las dependencias y entidades de la Administración Pública Estatal. Los municipios deberán coordinarse dentro del Sistema, en los términos de esta ley.
+
+Los sectores social y privado podrán participar en el Sistema, conforme a lo previsto en este ordenamiento.
 
 ###### Artículo 7º.
 
@@ -151,17 +227,23 @@ Para la creación y funcionamiento de los centros de enseñanza y práctica depo
 
 ## Título Segundo. Del Sistema Estatal de Cultura Física y Deporte
 
-###### Artículo 9º.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
-El Sistema Estatal de Cultura Física y Deporte, es el conjunto de acciones, recursos y procedimientos que se destinarán para impulsar, fomentar y desarrollar la cultura física y el deporte en el Estado.
+###### Artículo 9°.
+
+Para la eficaz y eficiente promoción, fomento y estímulo de la cultura física y de la práctica del deporte en todas sus manifestaciones existe un SIECFIDE que tiene como objeto asesorar en la elaboración del Programa Estatal de Cultura Física y Deporte, coordinar, dar seguimiento permanente, evaluar los programas, acciones así como los procedimientos que formen parte de la ejecución de las políticas públicas para promover, fomentar y estimular la cultura física y la práctica del deporte, tomando en consideración el desarrollo de la estructura e infraestructura deportiva, los recursos humanos y financieros vinculados a la cultura física y al deporte en el Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 10.
 
-Todas las personas físicas que residan en el Estado y que practiquen alguna disciplina deportiva, podrán formar parte del Sistema Estatal de Cultura Física y Deporte y con ello estarán en condiciones de obtener las facilidades y beneficios que en materia de cultura física y deporte otorgue el Ejecutivo Estatal a través de la CECUFID.
+Todas las personas físicas que residan en el Estado y que practiquen alguna disciplina deportiva, podrán formar parte del SIECFIDE y con ello estarán en condiciones de obtener las facilidades y beneficios que en materia de cultura física y deporte otorgue el Ejecutivo Estatal a través de la CECUFID.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 11.
 
-El Sistema Estatal del Deporte se compone por las Dependencias, Organismos e Instituciones Públicas y privadas, Sociedades, Asociaciones Estatales del Deporte, Organizaciones, Consejos Municipales, Consejos Estatales del Deporte Estudiantil y personas físicas afiliadas al mismo y reconocidos por esta Ley, que en sus respectivos ámbitos de actuación tienen como objetivo generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales, entre otros se encuentran:
+El SIECFIDE es un órgano colegiado que estará integrado por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades, Asociaciones y Consejos Estatales del Deporte Estudiantil reconocidos por esta Ley, que en sus respectivos ámbitos de actuación tienen como objetivo generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la activación física, la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales. Se consideran integrantes del Sistema Estatal de Cultura Física y Deporte, entre otros:
 
 I. La Comisión Estatal de Cultura Física y Deporte;
 
@@ -173,27 +255,39 @@ IV. Las Asociaciones Deportivas Estatales; y,
 
 V. Las Asociaciones, Sociedades y Organizaciones que estén reconocidas en los términos de esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 12.
 
-El SIEDE deberá sesionar cuando menos una vez en cada año natural en Pleno y cuatro veces al año, por medio del Consejo Consultivo, a efecto de fijar la política operativa y de instrumentación en materia de cultura física y deporte y dar cumplimiento al Programa; la CECUFID tendrá la responsabilidad de integrar a dicho Programa los acuerdos del SIEDE.
+El SIECFIDE deberá sesionar en pleno cuando menos dos veces en cada año natural y cuatro veces al año por medio del Consejo Directivo o cuantas veces requieran el ejercicio de sus atribuciones, a efecto de fijar la política operativa y de instrumentación en materia de cultura física y deporte y dar cumplimiento al Programa, la CECUFID tiene la responsabilidad de integrar a dicho Programa los acuerdos del SIECFIDE.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 13.
 
-El SIEDE tendrá las atribuciones siguientes:
+El SIECFIDE tendrá las atribuciones siguientes:
 
-I. Definir las políticas para fomentar, promover y estimular el desarrollo de la cultura física y el deporte en el ámbito Estatal;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del SIEDE;
+I. Definir y ejecutar las políticas para fomentar, promover y estimular el desarrollo y ejercicio del derecho a la cultura física y el deporte en el ámbito estatal;
 
-III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y el deporte;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+II. Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del SIECFIDE;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, de manera equitativa, de tal forma que queden plenamente integradas las personas con discapacidad;
 
 IV. Promover mecanismos de integración interinstitucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y el deporte; y,
 
 V. Las demás que le otorgue esta Ley u otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 14.
 
-El funcionamiento y requisitos de integración del SIEDE estarán regulados en los términos de lo dispuesto en la presente Ley y su Reglamento.
+El funcionamiento y requisitos de integración del SIECFIDE estarán regulados en los términos de lo dispuesto en la presente Ley y su Reglamento.
 
 ### Capítulo I. Del Sector Público
 
@@ -211,7 +305,9 @@ I. Las aportaciones que realice el Gobierno Estatal a través de los recursos qu
 
 II. Las aportaciones que, en su caso, le realicen los Gobiernos Federal y Municipales, así como las Entidades Paraestatales;
 
-III. Las aportaciones que le realicen las personas físicas y morales nacionales o extranjeras, a través de donaciones, legados, fideicomisos y premios, debidamente regulados por la Tesorería General del Estado, los cuales de ninguna manera podrán implicar condiciones contrarias a su objetivo conforme lo establece la presente Ley y demás relativas a la materia del deporte;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+III. Las aportaciones que le realicen las personas físicas y morales, Nacionales o extranjeras, a través de donaciones, legados, fideicomisos y premios, los cuales de ninguna manera podrán implicar condiciones contrarias a su objetivo conforme lo establece la Ley;
 
 IV. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio;
 
@@ -235,7 +331,9 @@ III. Secretaría de Desarrollo Social;
 
 IV. Secretaría de Planeación y Desarrollo Estatal;
 
-V. Tesorería General del Estado;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+V. Secretaría de Finanzas y Administración;
 
 VI. Secretaría de Urbanismo y Medio Ambiente;
 
@@ -269,7 +367,9 @@ VI. Analizar y aprobar, en su caso, los informes periódicos que rinda el Direct
 
 VII. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios, verificando que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora de Sector correspondiente;
 
-VIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la CECUFID, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Tesorería General del Estado por conducto de la Coordinadora de Sector;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la CECUFID, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas y Administración por conducto de la Coordinadora de Sector;
 
 IX. Conocer oportunamente el cumplimiento de los planes, programas, presupuestos, reglamentos, manuales, sistemas y políticas, a efecto de ponderar las causas que determinen variaciones con respecto a lo autorizado y, en su caso, dictar las medidas correctivas que procedan en materia de planeación, organización o dirección;
 
@@ -313,9 +413,19 @@ XXVIII. Autorizar al Director General, con las limitaciones que al efecto se det
 
 XXIX. Ratificar los nombramientos de apoderados que recaigan en personas ajenas a la CECUFID;
 
-XXX. Ejercer las facultades que la Ley Orgánica de la Administración Publica del Estado de Michoacán y su Reglamento asigna a los Órganos de Gobierno de las entidades Paraestatales; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXX. Ejercer las facultades que la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y su Reglamento asigna a los Órganos de Gobierno de las entidades Paraestatales;
 
 XXXI. Aprobar a propuesta del director general el nombramiento de los funcionarios que integren la estructura básica administrativa de la CECUFID.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXXII. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXXIII. Establecer, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias Federales y Estatales las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la CECUFID requiera para la prestación de sus servicios y de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley.
 
 ###### Artículo 20.
 
@@ -361,7 +471,9 @@ XIV. Ejercer facultades generales y especiales de dominio, administración, plei
 
 XV. Establecer estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
 
-XVI. Una vez aprobados los proyectos del Programa Operativo y Presupuestal Anual de la CECUFID, remitir a la Tesorería General del Estado la parte correspondiente a la suscripción de créditos externos para su autorización en términos de la Ley correspondiente;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XVI. Una vez aprobados los proyectos del Programa Operativo y Presupuesto Anual de la CECUFID, remitir a la Secretaría de Finanzas y Administración del Estado la parte correspondiente a la suscripción de créditos externos para su autorización en términos de la Ley correspondiente;
 
 XVII. Proponer la contratación del personal de la CECUFID;
 
@@ -381,11 +493,29 @@ XXIV. Establecer las instancias de asesoría, de coordinación y de consulta que
 
 XXV. Celebrar y suscribir convenios de coordinación, colaboración y concertación interinstitucional inherentes a los objetivos de la CECUFID;
 
-XXVI. Otorgar y revocar poderes generales y especiales con las facultades que les competan a los mandatarios, de acuerdo con la autorización que para tal efecto le haya otorgado la Junta Directiva;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-XXVII. Proponer a la Junta Directiva, para su aprobación, las políticas de acceso a la información pública que deberá manejar la CECUFID; y,
+XXVI. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que les competan a los mandatarios, de acuerdo con la autorización que para tal efecto le haya otorgado la Junta Directiva;
 
-XXVIII. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXVII. Proponer a la Junta Directiva, para su aprobación, las políticas de acceso a la información pública que deberá manejar la CECUFID;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXVIII. Formular querellas y otorgar perdón a nombre de la CECUFID;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXIX. Ejercitar y desistirse de acciones judiciales inclusive del Juicio de Amparo a nombre de la CECUFID, previa autorización de la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXX. Ejercer y ejecutar las facultades y las instrucciones que previo acuerdo le delegue, confiera e instruya la Junta Directiva para dirigir, administrar y representar legalmente a la CECUFID como mandatario de la misma; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXXI. Las que señalen otras Leyes, Reglamentos, Decretos, acuerdos y demás ordenamientos legales aplicables.
 
 ###### Artículo 22.
 
@@ -395,7 +525,9 @@ I. Formular, en Coordinación con la SEE, el Programa Estatal de Cultura Física
 
 II. Las que conforme a la Ley deba coordinar con la SEE en materia de cultura física y deporte, excepto aquellas que las disposiciones legales o reglamentarias le atribuyan expresamente a dicha Secretaría;
 
-III. Convocar al SIEDE, con la participación que corresponda a las Dependencias y Entidades del sector público y a las instituciones de los sectores social y privado;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+III. Convocar al SIECFIDE, con la participación que corresponda a las Dependencias y Entidades del sector público y a las instituciones de los sectores social y privado;
 
 IV. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física y deporte;
 
@@ -419,7 +551,9 @@ XIII. Fijar criterios para que dentro de los programas en los que se establezca 
 
 XIV. Otorgar el registro correspondiente a las Asociaciones, Sociedades y Organizaciones, que en el ámbito estatal tengan como objeto fomentar, desarrollar, promover, investigar, difundir e impulsar actividades de cultura física o deporte, así como sancionar sus estatutos;
 
-XV. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SIEDE;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XV. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SIECFIDE;
 
 XVI. Recibir apoyos económicos, técnicos y materiales en territorio nacional o extranjero, para el desarrollo de sus objetivos, sin contravenir las disposiciones legales aplicables al caso concreto;
 
@@ -429,9 +563,65 @@ XVIII. Promover, con las previsiones presupuestales existentes, los fondos y fid
 
 XIX. Impulsar la práctica de actividades de cultura físico-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
 
-XX. Formular programas para promover la cultura física y deporte entre las personas con discapacidad; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-XXI. Las demás que esta Ley u otras disposiciones legales determinen.
+XX. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXI. Supervisar que las Asociaciones Deportivas Estatales y Organismos afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXII. Verificar y asegurar que los estatutos y demás reglamentos deportivos que expidan las Asociaciones Deportivas y, en su caso, los Organismos afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación así como los procedimientos disciplinarios y sanciones aplicables;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXIII. Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXIV. Fijar criterios para que dentro de los programas en los que se establezca la práctica de actividades de cultura física, recreación, rehabilitación o deporte dentro del territorio estatal, se ofrezcan las medidas de seguridad necesarias, de acuerdo con las Normas Oficiales Mexicanas y demás disposiciones que para tal efecto expida la Dependencia con competencia en la materia;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXV. Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones estatales sin contravenir lo dispuesto por las reglas nacionales;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXVI. Fijar criterios y verificar el cumplimiento de los lineamientos, con la participación del COM o el Comité Paralímpico Mexicano, según sea el caso, para la celebración de competiciones oficiales internacionales dentro del territorio estatal, para los cuales se soliciten o no recursos públicos sin contravenir lo dispuesto por las reglas nacionales e internacionales;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXVII. Contribuir con los lineamientos para la lucha contra el dopaje en el deporte y la prevención y erradicación de la violencia en el deporte;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXVIII. Recibir apoyos económicos, técnicos y materiales, para el desarrollo de sus objetivos, sin contravenir las disposiciones legales aplicables al caso concreto;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXIX. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público estatal y la asignación de los recursos para los mismos fines;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXX. Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXXI. Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXXII. Formular programas para promover la cultura física y el deporte entre las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXXIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+XXXIV. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
 
 ###### Artículo 23.
 
@@ -447,13 +637,17 @@ El Consejo Municipal de Cultura Física y Deporte se integrará por las Dependen
 
 Los Municipios, de acuerdo a sus condiciones financieras, promoverán la creación de una Dirección de Cultura Física y Deporte, la que deberá coordinarse con el Consejo Municipal del Deporte para la promoción, organización y operación de los programas de Cultura Física y Deporte.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 25.
 
-El Consejo Municipal del Deporte, otorgará los registros a las Asociaciones, Sociedades y Organizaciones que los integren dentro de su ámbito de competencia, verificando que cumplan con los requisitos establecidos por el SIEDE. El registro a que se refiere el párrafo anterior, será requisito indispensable para su integración al respectivo Sistema.
+El Consejo Municipal del Deporte, otorgará los registros a las Asociaciones, Sociedades y Organizaciones que los integren dentro de su ámbito de competencia, verificando que cumplan con los requisitos establecidos por el SIECFIDE el registro a que se refiere el párrafo anterior, será requisito indispensable para su integración al respectivo Sistema.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 26.
 
-Los órganos responsables en los Municipios de la cultura física y el deporte, se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente Ley, cumpliendo en todo momento con cada una de las obligaciones que como miembros del SIEDE les corresponde.
+Los órganos responsables en los Municipios de la cultura física y el deporte, se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente Ley, cumpliendo en todo momento con cada una de las obligaciones que como miembros del SIECFIDE les corresponde.
 
 ###### Artículo 27.
 
@@ -477,9 +671,47 @@ III. Ejecutar y dar seguimiento al Programa Estatal y Municipal de Cultura Físi
 
 IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, de conformidad con las especificaciones técnicas reglamentarias correspondientes;
 
-V. Dar seguimiento y ejecutar las políticas y planes aprobados por la CECUFID y los Consejos Municipales; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-VI. Establecer procedimientos de promoción en materia de cultura física y deporte.
+V. Dar seguimiento y ejecutar las políticas y planes aprobados por la CECUFID y los Consejos Municipales;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VI. Establecer procedimientos de promoción en materia de cultura física y deporte; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VII. Promover los mecanismos y acciones encaminados a prevenir y erradicar la violencia en eventos deportivos en cualquiera de sus modalidades y garantizar el desarrollo pacífico de los mismos, resguardando los recintos donde se celebren los espectáculos y sus inmediaciones, de tal manera que proporcionen seguridad a las personas y a los bienes patrimoniales, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### Artículo 29 Bis.
+
+La coordinación y colaboración entre el Estado y los municipios, respecto a la seguridad y prevención de la violencia en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley del Sistema Estatal de Seguridad Pública del Estado de Michoacán de Ocampo será subsidiaria y se sujetará a lo siguiente:
+
+I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, a efecto de que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+
+II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio o el Estado;
+
+La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales o estatales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
+
+III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales o del Estado en términos de lo que dispongan las leyes aplicables;
+
+IV. A solicitud de las autoridades municipales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades estatales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+V. En las actividades de planeación, seguimiento y durante el desarrollo del evento, los organizadores del mismo y las autoridades deportivas podrán acreditar un representante debiendo atender las indicaciones y recomendaciones de las autoridades de seguridad o de la Comisión Especial.
+
+Los representantes a que se refiere esta fracción podrán realizar sugerencias, recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.
+
+Para los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones;
+
+VI. Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+
+VII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+
+VIII. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse; y,
+
+IX. Las autoridades de los tres órdenes de gobierno, capacitarán a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido.
 
 ###### Artículo 30.
 
@@ -503,9 +735,13 @@ Los integrantes de la CEAAD, durarán tres años en el ejercicio de su cargo y s
 
 La CEAAD, tendrá las atribuciones siguientes:
 
-I. Conocer y resolver mediante el recurso de apelación, sobre las impugnaciones planteadas por cualesquiera de los miembros del SIEDE, en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, entidades y organismos deportivos, que afecten los derechos, prerrogativas o estímulos establecidos a favor del recurrente en la presente Ley o en los reglamentos que de ella emanen;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Intervenir como árbitro para dirimir las controversias que se susciten o puedan suscitarse entre los deportistas, como consecuencia de la promoción, organización y desarrollo de actividades deportivas, independientemente de que las partes pertenezcan o no al SIEDE;
+I. Conocer y resolver mediante el recurso de apelación, sobre las impugnaciones planteadas por cualesquiera de los miembros del SIECFIDE, en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, entidades y organismos deportivos, que afecten los derechos, prerrogativas o estímulos establecidos a favor del recurrente en la presente Ley o en los reglamentos que de ella emanen;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+II. Intervenir como árbitro para dirimir las controversias que se susciten o puedan suscitarse entre los deportistas, como consecuencia de la promoción, organización y desarrollo de actividades deportivas, independientemente de que las partes pertenezcan o no al SIECFlDE;
 
 III. Conceder la suspensión provisional y en su caso definitiva, del acto impugnado, siempre y cuando no exista riesgo grave al orden público o disciplina deportiva de que se trate.
 
@@ -549,9 +785,11 @@ El Pleno de la CEAAD elaborará el proyecto de Reglamento Interno para su funcio
 
 #### Sección Primera. De las Asociaciones y Sociedades Deportivas
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 37.
 
-Serán registradas por la CECUFID en el SIEDE como Asociaciones Deportivas, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
+Serán registradas por la CECUFlD en el SIECFlDE como Asociaciones Deportivas, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
 
 ###### Artículo 38.
 
@@ -609,9 +847,31 @@ Las Asociaciones Deportivas Estatales son la máxima instancia técnica de su di
 
 I. Calificar y organizar en su caso, las actividades y competiciones deportivas oficiales de representación estatal;
 
-II. Actuar en coordinación con sus asociados en la promoción general de su disciplina deportiva en todo el territorio Estatal; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+II. Actuar en coordinación con sus asociados en la promoción general de su disciplina deportiva en todo el territorio Estatal;
 
 III. Colaborar con la Administración de la Federación, de los Estados, del Distrito Federal y de los Municipios en la formación de técnicos deportivos y en la prevención, control y represión del uso de sustancias y grupos farmacológicos prohibidos y métodos no reglamentarios en el deporte.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+IV. Colaborar con la Administración Pública del Estado y de los Municipios en el control, disminución y prevención de la obesidad y las enfermedades que provoca;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+V. Colaborar con la Administración Pública del Estado y de los Municipios en la prevención de la violencia en el deporte y eventos o espectáculos públicos o privados en materia de activación física, cultura física o deporte;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VI. Actuar como el organismo rector de su disciplina deportiva, en todas sus categorías, especialidades y modalidades, en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VII. Representar oficialmente al Estado ante sus respectivas federaciones deportivas; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VIII. Ejercer la potestad disciplinaria en los términos establecidos en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 46.
 
@@ -635,9 +895,11 @@ Las Asociaciones Deportivas Estatales serán las únicas facultadas para convoca
 
 Para la realización de competiciones deportivas oficiales nacionales dentro del territorio estatal, las Asociaciones Deportivas Estatales tienen la obligación de registrarlas ante la CECUFID, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea la Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 49.
 
-Las Asociaciones, Sociedades y Organizaciones Deportivas Estatales, para ser sujetos de los apoyos y estímulos que en su caso acuerde el Ejecutivo Estatal, deberán estar registradas como tales por la CECUFID, cumplir con lo previsto en la presente Ley, el Programa Estatal de Cultura Física y Deporte, con las obligaciones que se les imponga como integrantes del SIEDE, las derivadas del estatuto de la CECUFID y demás disposiciones aplicables en materia presupuestaria, incluyendo el Decreto de Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, que anualmente expida el Congreso del Estado.
+Las Asociaciones, Sociedades y Organizaciones Deportivas Estatales, para ser sujetos de los apoyos y estímulos que en su caso acuerde el Ejecutivo Estatal, deberán estar registradas como tales por la CECUFlD, cumplir con lo previsto en la presente Ley, el Programa Estatal de Cultura Física y Deporte, con las obligaciones que se les imponga como integrantes del SIECFlDE, las derivadas del estatuto de la CECUFlD y demás disposiciones aplicables en materia presupuestaria, incluyendo el Decreto de Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, que anualmente expida el Congreso del Estado.
 
 #### Sección Tercera. De Otras Asociaciones, Sociedades y Organizaciones Deportivas
 
@@ -703,21 +965,49 @@ Se entiende como deporte profesional: las actividades de promoción, organizaci�
 
 Los deportistas que participen dentro del deporte profesional, se regirán por lo establecido en la Ley Federal del Trabajo y demás ordenamientos que les sean aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 59.
 
-La CECUFID promoverá la constitución de comisiones Estatales de Deporte Profesional, quienes se integrarán al SIEDE de acuerdo a lo establecido en el Reglamento de esta Ley. El Deporte profesional no será beneficiario de recursos financieros del erario público, pero gozará del derecho de uso de la infraestructura Deportiva Pública cuando éste no interfiera con el desarrollo de los programas de Deporte Estudiantil y Deporte Social.
+La CECUFID promoverá la constitución de comisiones Estatales de Deporte Profesional, quienes se integrarán al SIECFlDE de acuerdo a lo establecido en el Reglamento de esta Ley. El Deporte profesional no será beneficiario de recursos financieros del erario público, pero gozará del derecho de uso de la infraestructura Deportiva Pública cuando éste no interfiera con el desarrollo de los programas de Deporte Estudiantil y Deporte Social.
 
 ## Título Cuarto. De la Cultura Física y el Deporte
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 60.
 
-Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de facilitar las condiciones de su plena integración en el desarrollo social y cultural.
+Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con el objetivo de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
 
-Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con su entrenamiento y participación en competiciones oficiales.
+Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
 
 ###### Artículo 61.
 
 La CECUFID en coordinación con la SEE y los municipios, dentro del ámbito de su competencia, planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### Artículo 61 Bis.
+
+La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del Estado como factor fundamental del desarrollo armónico e integral del ser humano.
+
+El Estado y los Municipios, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
+
+I. Difundir programas y actividades que den a conocer los contenidos y valores de la cultura física y del deporte;
+
+II. Promover, fomentar y estimular las actividades de cultura física con motivo de la celebración de competiciones o eventos deportivos;
+
+III. Promover, fomentar y estimular las investigaciones sobre la cultura física atendiendo sus resultados;
+
+IV Promover, fomentar y estimular el desarrollo de una cultura deportiva Estatal que haga del deporte un bien social y un hábito de vida;
+
+V. Difundir el patrimonio cultural deportivo;
+
+VI. Promover en todos los Municipios y sus comunidades competiciones deportivas; y,
+
+VII. Las demás que dispongan otras leyes u ordenamientos aplicables.
+
+A efecto de cumplir con eficacia las precitadas responsabilidades podrán celebrar acuerdos de colaboración con la CONADE.
 
 ### Capítulo I. De la Infraestructura
 
@@ -729,9 +1019,15 @@ Es de interés público la construcción, remodelación, ampliación, adecuació
 
 La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberá realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, así como los requerimientos de construcción y seguridad determinados en la norma correspondiente que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 64.
 
-Los integrantes del SIEDE promoverán acciones para el uso óptimo de las instalaciones públicas.
+Los integrantes del SlECFlDE promoverán acciones para el uso óptimo de las instalaciones públicas.
+
+Las actividades físicas y la práctica del deporte en espacios naturales deben regirse por los principios de respeto por la naturaleza y de preservación de sus recursos, debiéndose observar las disposiciones de los instrumentos de gestión territorial vigentes.
+
+Asimismo, se respetarán las áreas clasificadas para asegurar la conservación de la diversidad biológica, la protección de ecosistemas y la gestión de recursos, el tratamiento de los residuos y la preservación del patrimonio natural y cultural.
 
 ###### Artículo 65.
 
@@ -749,17 +1045,31 @@ En los términos de los convenios de coordinación y colaboración respectivos, 
 
 La CECUFID podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las normas oficiales, cumpliendo el procedimiento que para ese propósito prevea el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 68.
 
-Las instalaciones destinadas a la cultura física y el deporte deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles acciones de violencia o conductas antisociales.
+Las instalaciones destinadas a la activación física, a la cultura física, al deporte y en las que se celebren eventos o espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de garantizar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles manifestaciones de violencia, discriminación y cualquier otra conducta antisocial.
 
 ###### Artículo 69.
 
 La CECUFID promoverá ante las diversas instancias de gobierno la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y el deporte.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 70.
 
-En el uso de las instalaciones a que se refiere este capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias y respetarse los programas y calendarios previamente establecidos y se deberá depositar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar. Misma que será determinada por la CECUFID.
+En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias que determine la presente Ley y la Comisión Especial.
+
+Asimismo, deberán respetarse los programas y calendarios previamente establecidos, así como acreditar por parte de los organizadores, ante la Comisión Especial, que se cuenta con póliza de seguro vigente que cubra la reparación de los daños a personas y bienes que pudieran ocasionarse, cuando así se acredite su responsabilidad y que sea (sic) sujetos de ser asegurados.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+###### Artículo 70 Bis.
+
+Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+Las autoridades municipales, o las correspondientes del Estado, serán competentes para verificar el cumplimiento de la presente disposición.
 
 ### Capítulo II. De la Enseñanza, Investigación y Difusión
 
@@ -767,9 +1077,11 @@ En el uso de las instalaciones a que se refiere este capítulo, con fines de esp
 
 La CECUFID promoverá, coordinará e impulsará en coordinación con la SEE y el sector social y privado, la enseñanza, investigación, difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 72.
 
-En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del SIEDE, quienes podrán asesorarse de universidades públicas, privadas, instituciones de educación media superior y superior, asociaciones y colegios de profesionistas del Estado, de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente Ley.
+En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del SIECFIDE, quienes podrán asesorarse de universidades públicas, privadas, instituciones de educación media superior y superior, asociaciones y colegios de profesionistas del Estado, de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente Ley.
 
 ###### Artículo 73.
 
@@ -785,13 +1097,17 @@ La CECUFID, conjuntamente con las Asociaciones Deportivas Estatales, promoverá 
 
 La CECUFID promoverá en coordinación con la SEE y demás instituciones académicas, públicas o privadas, el desarrollo e investigación en las áreas de medicina, jurídico administrativas y demás ciencias aplicadas a la cultura física y el deporte.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 76.
 
-La CECUFID coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
+La CECUFID coordinará las acciones necesarias a fin de que los integrantes del SIECFIDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### Artículo 77.
 
-Las autoridades Estatales y Municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud, con la finalidad de que los deportistas integrantes del SIEDE cuenten con atención médica básica.
+Las autoridades Estatales y Municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud, con la finalidad de que los deportistas integrantes del SIECFIDE cuenten con atención médica básica.
 
 En el caso de los deportistas y entrenadores que integren el padrón de alto rendimiento dentro del REEDE, así como aquellos considerados como talentos deportivos en preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos.
 
@@ -813,11 +1129,25 @@ La Secretaría de Salud y la CECUFID, procurarán la existencia y aplicación de
 
 Corresponde a la CECUFID a través de la CERDE y a los organismos de los sectores públicos promover y otorgar, en la medida de sus posibilidades y en el ámbito de sus respectivas competencias, ayudas, subvenciones y reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte ajustándose a lo dispuesto en la presente Ley, su Reglamento y, en su caso, a la convocatoria correspondiente.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+La CECUFID promoverá y gestionará la constitución de fideicomisos destinados al otorgamiento de un reconocimiento económico, a los deportistas que en representación oficial del Estado obtengan o hayan obtenido una o más medallas en Juegos Nacionales, Internacionales, Olímpicos o Paralímpicos.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+La CECUFID, regirá los criterios y bases para el otorgamiento y monto de la beca a que se harán acreedores los beneficiados por los fideicomisos creados para reconocimiento a medallistas olímpicos y paralímpicos.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+La CECUFID gestionará y establecerá los mecanismos necesarios para que los deportistas con discapacidad, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el Gobierno Estatal a los deportistas convencionales.
+
 ###### Artículo 82.
 
 Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo al presupuesto de la CECUFID, tendrán por finalidad el cumplimiento de los objetivos siguientes:
 
-I. Promover con CONDEBA, CONADEMS y CONDDE, la participación en los programas deportivos y cooperar con éstos para la dotación de instalaciones y medios necesarios para su desarrollo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+I. Promover con CONDE, la participación en los programas deportivos y cooperar con éstos para la dotación de instalaciones y medios necesarios para su desarrollo;
 
 II. Desarrollar los programas deportivos de las Asociaciones Deportivas Estatales;
 
@@ -827,17 +1157,37 @@ IV. Fomentar las actividades de las Asociaciones Deportivas, Recreativas, de Reh
 
 V. Promover la actividad de clubes, asociaciones, ligas y deportistas, cuando esta actividad se desarrolle en el ámbito estatal;
 
-VI. Cooperar con los Órganos Estatales de Cultura Física y Deporte y, en su caso, con los Municipales, y con el sector social y privado, en el desarrollo de los planes de la actividad deportiva estudiantil, así como en los de construcción, mejora y sostenimiento de instalaciones deportivas para el desarrollo del deporte de alto rendimiento; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-VII. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda a la CECUFID.
+VI. Cooperar con los Órganos Estatales de Cultura Física y Deporte y, en su caso, con los Municipales, y con el sector social y privado, en el desarrollo de los planes de la actividad deportiva escolar y universitaria, así como en los de construcción, mejora y sostenimiento de instalaciones deportivas para el desarrollo del deporte de alto rendimiento;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VII. Promover con CONDE, Universidades y demás instituciones educativas la participación en los programas deportivos y cooperar con éstos para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VIII. Promover con las Universidades la participación en los programas deportivos universitarios y cooperar con éstas para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+IX. Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo de la actividad física y del deporte para las personas con discapacidad; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+X. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda a la CECUFID.
 
 ###### Artículo 83.
 
 Los candidatos a obtener estímulos y apoyos a que se refiere este Capítulo deberán satisfacer, además de los requisitos que establezca el Reglamento de la presente Ley, los siguientes:
 
-I. Formar parte del SIEDE; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-II. Ser propuesto por cualquier miembro del SIEDE.
+l. Formar parte del SIECFIDE; y,
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+II. Ser propuesto por cualquier miembro del SIECFIDE.
 
 El trámite, criterios y demás requisitos para ser acreedores de los estímulos a que se refiere este Capítulo, se especificarán en el Reglamento de la presente Ley y su otorgamiento y goce estará sujeto al estricto cumplimiento de las disposiciones antes mencionadas, así como a las bases que establezca el Ejecutivo Estatal por conducto de la CECUFID.
 
@@ -881,7 +1231,7 @@ El Ejecutivo del Estado creará un Patronato que tendrá como objetivo operar el
 
 El Fondo Estatal del Deporte operará de acuerdo a las especificaciones normativas para el funcionamiento del Patronato, según lo establezcan las leyes respectivas; deberá ser un organismo ciudadanisado, con la participación en sus órganos de gobierno de las personas físicas o morales, que aporte a él y la representación de la Coordinación de Asociaciones Deportivas del Estado de Michoacán.
 
-###### Articulo 89.
+###### Artículo 89.
 
 El Fondo Estatal del Deporte tendrá dos órganos de gobierno: el Consejo Directivo y el Comité Técnico.
 
@@ -897,11 +1247,13 @@ Los recursos económicos del Fondo deberán ser destinados únicamente para el d
 
 Se declara de interés público, la prohibición del consumo, uso y distribución de sustancias farmacológicas potencialmente peligrosas para la salud y métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 91.
 
-Se entenderá por dopaje en el deporte, la administración a los deportistas o la utilización por éstos, de las clases o grupos farmacológicos de agentes prohibidos o métodos no reglamentarios.
+Se entenderá por dopaje en el deporte la administración a los deportistas o a los animales que estos utilicen en su disciplina, así como su uso deliberado o inadvertido de una sustancia prohibida o de un método no reglamentario; enunciado en la lista vigente de la Agencia Mundial Antidopaje, misma que será publicada por la CONADE anualmente para efectos del conocimiento público.
 
-Se entenderá por clases y grupos farmacológicos de agentes o métodos de dopaje, las prohibidas por las organizaciones deportivas internacionales y que figuren en las listas que para el efecto publique la CONADE, de conformidad con lo dispuesto por la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje.
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, con la participación de los sectores social y privado velarán por la aplicación de la Convención Internacional contra el Dopaje en el Deporte y los demás ordenamientos que resulten aplicables.
 
 ###### Artículo 92.
 
@@ -935,7 +1287,9 @@ Las autoridades de la administración pública estatal y municipales, en el ámb
 
 El Comité Nacional Antidopaje, será la instancia responsable de homologar a los laboratorios antidopaje en el ámbito estatal y, en su caso, convalidar a aquellos que cuenten con el reconocimiento internacional por parte del Comité Olímpico Internacional y/o la Agencia Mundial Antidopaje.
 
-### Capítulo VII. De los Riesgos y Responsabilidad Civil
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### Capítulo VII. De la Prevención y Erradicación de la Violencia en el Deporte
 
 ###### Artículo 100.
 
@@ -945,11 +1299,113 @@ En la celebración de espectáculos públicos o privados, eventos, cursos, talle
 
 Con estricto respeto a los procedimientos previstos en otras leyes u ordenamientos aplicables, los espectadores y participantes que cometan actos que generen violencia u otras acciones reprensibles, al interior o exterior de los espacios destinados a la realización de la cultura física y/o el deporte en cualquiera de sus modalidades, serán sujetos a la sanción aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 102.
 
-La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos que en materia de espectáculos públicos dicte el Estado y los Municipios.
+La CECUFID, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
 
-### Capítulo VIII. De las Infracciones y Sanciones
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 A. Para efectos de esta Ley, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
+
+I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus anexos o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II. La exhibición en los recintos deportivos, en sus anexos o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus anexos o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+IV. La irrupción no autorizada en los terrenos de juego;
+
+V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos, en sus anexos o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación, difusión o utilización de soportes digitales utilizados para la realización de estas actividades; y,
+
+VII. Las que establezca la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 B. Se constituye la Comisión Especial Contra la Violencia en el Deporte del Estado de Michoacán que será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte.
+
+La Comisión Especial es un órgano colegiado integrado por representantes del Sistema Estatal de Cultura Física y Deporte, de la Coordinación Estatal de Asociaciones Deportivas, del Deporte Profesional, de los Órganos Municipales de Cultura Física y Deporte y por el Titular de la Comisión Estatal de Cultura Física y Deporte, quien la presidirá
+
+La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
+
+En la Comisión Especial podrán participar dependencias o entidades de la Administración Pública Estatal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas en la prevención y erradicación de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
+
+La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo de la CECUFID.
+
+La Comisión Especial del Estado en Coordinación con la Nacional elaborará un Programa Anual de Trabajo para la Prevención y Erradicación de la Violencia en Eventos Deportivos.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 C. Las atribuciones de dicha Comisión Especial además de las que se establezcan en el reglamento respectivo, son:
+
+I. Promover e impulsar acciones de prevención contra la violencia en el deporte;
+
+Il. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+
+III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
+
+IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, procuradurías, áreas de seguridad pública y protección civil del Estado y los Municipios;
+
+V. Establecer los lineamientos que permitan llevar a cabo los acuerdos o convenios de colaboración entre los tres niveles de gobierno en la materia, los requisitos y normas mínimas que deben cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de las establecidas por Protección Civil, y las medidas que se consideren necesarias para la prevención de la violencia en los eventos deportivos;
+
+VI. Fomentar programas y campañas de divulgación en contra de la violencia y la discriminación a fin de retribuir los valores de integración y convivencia social del deporte;
+
+VII. Emitir recomendaciones y orientar a los miembros del SIECFIDE sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
+
+VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+IX. Realizar estudios e informes sobre las causas y los efectos de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+X. Conformar y publicar la estadística estatal sobre la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+XI. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
+
+XII. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 D. Dentro de los lineamientos que emita la Comisión Especial a que se refiere el artículo anterior, deberán regularse lo concerniente al acceso a los eventos deportivos, considerando las siguientes medidas:
+
+I. La introducción de armas de fuego, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros o asistentes en general;
+
+II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
+
+III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los aficionados en general;
+
+IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva Nacional; y,
+
+V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 E. Quienes en su carácter de asistentes acudan a la celebración de un evento deportivo deberán:
+
+I. Acatar las disposiciones normativas relacionadas con la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo; y,
+
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará acabo el espectáculo.
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal y municipal, los asistentes que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los (sic) instalaciones destinadas a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 F. Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Nacionales, Estatales y Municipales respectivas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 G. Los integrantes del Sistema Estatal de cultura Física y Deporte, revisarán continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
+
+Asimismo, brindarán las facilidades y ayuda necesaria a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 102 H. La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos que en materia de espectáculos públicos dicte el Estado y los Municipios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2015)</small>
+
+### Capítulo VIII. De las Infracciones, Sanciones y Delitos
 
 ###### Artículo 103.
 
@@ -969,7 +1425,9 @@ En el ámbito de la justicia deportiva, la aplicación de sanciones por infracci
 
 I. Los órganos Estatales y Municipales de Cultura Física y Deporte;
 
-II. Las Asociaciones Deportivas Estatales, las Asociaciones y Sociedades Deportivas Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Físico-Deportiva; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+II. Las Asociaciones Deportivas Estatales, las Asociaciones y Sociedades Deportivas Recreativas, de Rehabilitación y de Cultura Físico-Deportiva; y,
 
 III. A los directivos, jueces, árbitros y organizadores de competiciones deportivas.
 
@@ -977,9 +1435,11 @@ III. A los directivos, jueces, árbitros y organizadores de competiciones deport
 
 Contra las resoluciones de los organismos deportivos que impongan sanciones técnico deportivas, procede el recurso de apelación, el cual tiene por objeto impugnar las resoluciones emitidas y se promoverá ante la CEAAD en los términos que se establezca en el Reglamento correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
+
 ###### Artículo 108.
 
-Para la aplicación de sanciones por faltas a estatutos y reglamentos, los organismos deportivos que pertenecen al SIEDE habrán de considerar obligatoriamente lo siguiente:
+Para la aplicación de sanciones por faltas a estatutos y reglamentos, los organismos deportivos que pertenecen al SIECFIDE habrán de considerar obligatoriamente lo siguiente:
 
 I. Un apartado dentro de sus estatutos que considere las infracciones y sanciones correspondientes, de acuerdo a su disciplina deportiva, el procedimiento para imponer dichas sanciones y el derecho de audiencia a favor del presunto infractor;
 
@@ -997,9 +1457,17 @@ II. La promoción o incitación a la utilización de tales sustancias o métodos
 
 III. La negativa a someterse a los controles de dopaje, dentro y fuera de competiciones, cuando sean exigidos por los órganos o personas competentes;
 
-IV. Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
-V. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva.
+IV. Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+
+V. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+VI. El incumplimiento parcial o total de las obligaciones establecidas en los artículos 29, 29 BIS y 70 BIS de la presente Ley.
 
 ###### Artículo 110.
 
@@ -1013,13 +1481,17 @@ b) Limitación, reducción o cancelación de apoyos económicos;
 
 c) Suspensión temporal o definitiva del uso de instalaciones oficiales de cultura física y deporte; y,
 
-d) Suspensión temporal o definitiva de su inscripción al SIEDE.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+d) Suspensión temporal o definitiva de su inscripción al SIECFIDE.
 
 II. A los directivos del deporte:
 
 a) Amonestación privada o pública;
 
-b) Suspensión temporal o definitiva de su inscripción al SIEDE; y,
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+b) Suspensión temporal o definitiva de su inscripción al SIECFIDE; y,
 
 c) Desconocimiento de su representatividad.
 
@@ -1029,13 +1501,65 @@ a) Amonestación privada o pública;
 
 b) Limitación, reducción o cancelación de apoyos económicos; y,
 
-c) Suspensión temporal o definitiva de su inscripción al SIEDE.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+c) Suspensión temporal o definitiva de su inscripción al SIECFIDE.
 
 IV. A los técnicos, árbitros y jueces:
 
 a) Amonestación privada o pública; y,
 
-b) Suspensión temporal o definitiva de su inscripción al SIEDE.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+
+b) Suspensión temporal o definitiva de su inscripción al SIECFIDE.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
+V. A asistentes en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que amerite la conducta y considerando la gravedad del delito y en su caso, la reincidencia:
+
+a) Expulsión inmediata de las instalaciones deportivas;
+
+b) Amonestación privada o pública;
+
+c) Multa de 10 a 90 días de salario mínimo general vigente en el Estado de Michoacán; y,
+
+d) Restricción de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 110 A. Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas:
+
+I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y multa de cinco a treinta días de salario mínimo general vigente en el estado;
+
+II. Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con prisión de seis meses a tres años y multa de diez a cuarenta días de salario mínimo general vigente en el estado;
+
+La sanción anterior se incrementará en dos terceras partes cuando la agresión a una persona la efectúen dos o más individuos.
+
+III. Participe activamente en riñas, lo que se sancionará con prisión de seis meses a cuatro años y multa de diez a sesenta días de salario mínimo general vigente en el estado;
+
+IV. Incite o genere violencia, se considera incitador a quién dolosamente aliente a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes;
+
+V. Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones; o,
+
+VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
+
+Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con prisión de un año seis meses a cuatro años seis meses y multa de veinte a noventa días de salario mínimo general vigente en el estado.
+
+A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
+
+Cuando en la comisión de este delito resulten dañados bienes de la nación o afectados servidores públicos federales en el ejercicio de sus funciones, conocerán las autoridades del fuero Federal. No se castigará como delito la conducta de un asistente a un evento deportivo masivo o de espectáculo, cuando su naturaleza permita la interacción con los participantes.
+
+Las personas que, directa o indirectamente, realicen las conductas previstas en este artículo serán puestas inmediatamente a disposición de las autoridades correspondientes, para que siguiendo el debido proceso y la plena observancia de los derechos humanos de los presuntos inculpados se investigue su probable responsabilidad y en su caso se garantice la reparación del daño.
+
+En las conductas no sancionadas por esta Ley, se estará a lo que establece el Código Penal Federal y el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+
+Artículo 110 B. Para los efectos establecidos en este Capítulo, el Estado a través del Sistema Estatal de Seguridad Pública del Estado conformará el padrón de personas sancionadas con suspensión del derecho de asistir a eventos deportivos, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición temporal de asistencia a eventos deportivos masivos o con fines de espectáculo. Este padrón formará parte del banco de datos del Sistema Estatal de Seguridad Pública, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
+
+Su organización y funcionamiento se regirán por lo que disponga el Reglamento que al efecto se expida en términos de la Ley del Sistema Estatal de Seguridad Pública del Estado de Michoacán de Ocampo.
+
+La inscripción en este padrón será considerada información confidencial y únicamente tendrá vigencia por el tiempo de la sanción, transcurrido el cual, deberán ser eliminados totalmente los datos del interesado.
 
 ###### Artículo 111.
 
@@ -1075,7 +1599,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE FEBRERO DE 2005.
 
@@ -1096,3 +1620,11 @@ CUARTO.- Comuníquese a la Tesorería General del Estado, a la Secretaría de Pl
 QUINTO.- Dése vista a la Auditoría Superior de Michoacán, a efecto de que conforme a sus atribuciones y dado que se trata de un Órgano Autónomo que maneja recursos públicos; intervenga en la liquidación y realice las observaciones a que haya lugar.
 
 SEXTO.- El proyecto de Reglamento Interior de la CEAAD, deberá elaborarse, presentarse y aprobarse a más tardar en seis meses, contados a partir de la fecha de entrada en vigor, del presente Decreto.
+
+P.O. 28 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Ejecutivo Estatal deberá expedir las reformas necesarias al Reglamento de esta Ley, en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Comisión Especial Contra la Violencia en el Deporte del Estado de Michoacán deberá quedar instalada dentro de los 90 días posteriores a la publicación de las reformas al Reglamento.
