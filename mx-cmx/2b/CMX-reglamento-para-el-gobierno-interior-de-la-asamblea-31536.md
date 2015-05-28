@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2015-05-21"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE MAYO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -3168,15 +3168,33 @@ En la Sesión Solemne que deberá celebrarse, se invitarán como testigos de hon
 
 La inscripción en el Muro de Honor de la Asamblea Legislativa se hará conforme a lo siguiente:
 
-I.- Que la persona física haya aportado evidentes beneficios en diversas áreas del conocimiento humano o en acciones de trascendencia social preferentemente, para el Distrito Federal, o en su caso para la República;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2015)</small>
 
-II.- Que se hayan registrado acontecimientos que hayan dado pauta para la transformación política y social, preferentemente del Distrito Federal o en su caso, del país;
+I. Solamente podrán inscribirse los nombres de:
+
+a) Personas físicas o morales que se hayan distinguido en aportar evidentes beneficios en diversas áreas del conocimiento humano o en acciones de trascendencia compromiso y contribución social, preferentemente para el Distrito Federal o, en su caso, para el país;
+
+b) Instituciones públicas o privadas que se hayan distinguido en aportar evidentes beneficios en diversas áreas del conocimiento humano o en acciones de trascendencia, compromiso y contribución social, preferentemente para el Distrito Federal o, en su caso, para el país; y
+
+c) Acontecimientos históricos que hayan dado pauta para la transformación política y social, preferentemente del Distrito Federal, o en su caso, del país.
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2015)</small>
+
+II. Para la solicitud de inscripción se deberá observar lo siguiente:
+
+a) La solicitud deberá suscribirse por al menos la tercera parte de los diputados que integran la Legislatura;
+
+b) Dicha solicitud deberá justificar debidamente la inscripción solicitada, en los términos de la fracción I del presente artículo;
+
+c) Se presentará como una iniciativa con proyecto de Decreto; y
+
+d) La solicitud deberá ser aprobada por al menos dos terceras partes de los integrantes de la Legislatura.
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
 III. La solicitud de inscripción en letras de oro deberá suscribirse por al menos, el 33% de los diputados que integran la Legislatura. Dicha solicitud deberá justificar debidamente la inscripción solicitada, debiendo presentarse como una iniciativa con proyecto de Decreto, y
 
-IV.- La inscripción deberá ser aprobada por dos terceras partes de los integrantes de la legislatura.
+IV. La inscripción deberá ser aprobada por dos terceras partes de los integrantes de la legislatura.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -3713,3 +3731,9 @@ G.O. 21 DE MAYO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por este Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 28 DE MAYO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
