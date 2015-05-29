@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-05-26"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -191,7 +191,9 @@ VI. SEXTO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en San Andrés Cholula.
 
-3. Once juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
+
+3. Trece juzgados de Distrito especializados en el Estado de Puebla: dos de procesos penales federales; seis de amparo en materias civil, administrativa y de trabajo y de juicios federales y cinco de amparo en materia penal; los once primeros, con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
 
 4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula.
 
@@ -603,9 +605,11 @@ Los juzgados de Distrito en el Estado de Sonora, con residencia en Ciudad Obreg�
 
 El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
+
 VI. SEXTO CIRCUITO:
 
-Los Juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+Los Juzgados de Distrito en el Estado de Puebla, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 VII. SEPTIMO CIRCUITO:
 
@@ -777,9 +781,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 1. El Centro Auxiliar de la Primera Región se integrará por siete tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal, de los cuales, uno está especializado además en materia de extinción de dominio; y uno en Cuernavaca, Morelos.
 
-(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 26/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2014) (F. DE E., D.O.F. 10 DE SEPTIEMBRE DE 2014)
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
 
-2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cinco juzgados de Distrito Auxiliares, cuatro con residencia en San Andrés Cholula, Puebla y uno con residencia en Puebla, Puebla.
+2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cuatro juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla.
 
 > <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 20/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2015)</small>
 
@@ -1652,3 +1656,9 @@ I. …
 2. a 4. …
 
 II. a XXXII. …”
+
+D.O.F. 29 DE MAYO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el primero de junio de dos mil quince.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
