@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-tribunal-de-conciliacion-y-24698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-14"
-last_updated: "2002-02-14"
+last_updated: "2015-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL ESTADO
 
-REGLAMENTO INTERIOR DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL ESTADO
+REGLAMENTO INTERIOR DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE, PUBLICADO EN EL P.O. EL 29 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 14 de febrero de 2002.
 
@@ -59,7 +61,7 @@ Para el ejercicio de sus funciones y despacho de los asuntos que le competen, el
 
 I.- Pleno del Tribunal;
 
-Il.- Magistrado Presidente;
+II.- Magistrado Presidente;
 
 III.- Secretarías de Acuerdos;
 
@@ -236,3 +238,11 @@ SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al p
 Dado en la residencia del Tribunal de Conciliación y Arbitraje del Estado, en la ciudad de Morelia, Michoacán, a los 30 días del mes de Octubre del año dos mil uno.
 
 EL PLENO DEL TRIBUNAL DE CONCILIACIOAN (SIC) Y ARBITRAJE DEL ESTADO.- LIC. SALVADOR SANDOVAL RODRÍGUEZ.- MAGISTRADO PRESIDENTE DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO.- LIC. ALICIA QUINTERO SERRATO.- REPRESENTANTE DEL GOBIERNO DEL ESTADO.- LIC. JOSE DANIEL CHACON GARCIA.- REPRESENTANTE DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y LOS MUNICIPIOS.- LIC. ABEL PIÑÓN SECRETARIO DE ACUERDO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2015.
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Tribunal de Conciliación y Arbitraje del Estado, publicado en el Tomo CXXVII, Cuarta Sección, del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo de fecha 14 de febrero de 2002 y demás disposiciones administrativas en lo que se opongan al presente Reglamento.
