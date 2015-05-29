@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg273-2014-del-consejo-general-del-instituto-105753
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-13"
-last_updated: "2015-02-13"
+last_updated: "2015-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105753&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-11-20"
 ---
 # ACUERDO INE/CG273/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LOS CRITERIOS APLICABLES, EL MODELO UNICO DE ESTATUTOS Y LA CONVOCATORIA PARA EL REGISTRO DE CANDIDATAS Y CANDIDATOS INDEPENDIENTES A DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORIA RELATIVA PARA EL PROCESO ELECTORAL FEDERAL 2014-2015
 
+[N. DE. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 29 DE MAYO DE 2015, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LOS CRITERIOS APLICABLES, EL MODELO ÚNICO DE ESTATUTOS Y LA CONVOCATORIA PARA EL REGISTRO DE CANDIDATAS Y CANDIDATOS INDEPENDIENTES A DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA PARA EL PROCESO ELECTORAL FEDERAL 2014-2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 13 de febrero de 2015.
 
@@ -82,3 +84,19 @@ Para los efectos legales a que haya lugar, la sesión extraordinaria del Consejo
 > <small>[N. DE E. VÉASE ANEXO 6 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 13 DE FEBRERO DE 2015, PÁGINA 127.]</small>
 
 > <small>[N. DE E. VÉASE VOTO PARTICULAR QUE EMITE EL CONSEJERO ELECTORAL JOSÉ ROBERTO RUIZ SALDAÑA EN RELACIÓN AL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LOS CRITERIOS APLICABLES, EL MODELO ÚNICO DE ESTATUTOS Y LA CONVOCATORIA PARA EL REGISTRO DE CANDIDATAS Y CANDIDATOS INDEPENDIENTES A DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA PARA EL PROCESO ELECTORAL FEDERAL 2014-2015, EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 13 DE FEBRERO DE 2015, PÁGINA 128.]</small>
+
+D.O.F. 29 DE MAYO DE 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG343/2014, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se modifica el Acuerdo INE/CG273/2014, así como sus anexos, en los términos propuestos en el Considerando 5 del presente documento.
+
+SEGUNDO. Se emite una nueva cédula de respaldo de apoyo ciudadano para candidaturas independientes, conforme al formato señalado como anexo único del presente Acuerdo.
+
+TERCERO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias a efecto de publicar en la página electrónica de este Instituto, en forma inmediata, el Acuerdo del Consejo General del Instituto Nacional Electoral por el que se emiten los criterios aplicables, el modelo único de Estatutos y la convocatoria para el registro de candidatas y candidatos independientes a diputadas y diputados por el principio de mayoría relativa para el Proceso Electoral Federal 2014-2015, identificado con la clave INE/CG273/2014, así como sus respectivos anexos, con las modificaciones descritas en el Considerando 5 del presente Acuerdo.
+
+CUARTO. Infórmese a la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento dado a la sentencia emitida en el expediente SUP-RAP-203/2014 y acumulados SUP-RAP-213/2014 y SUP-JDC-2782/2014.
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
