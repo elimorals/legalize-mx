@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2013-12-31"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -2459,13 +2459,11 @@ B.- PLACAS O CALCAMONIAS (sic), para un solo vehículo de su propiedad.
 
 C.- OTROS SERVICIOS.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
 V.- DERECHOS POR SERVICIOS DE LA DIRECCIÓN DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO; únicamente a los servicios que preste el Registro Público de la Propiedad.
-
-a) Tratándose de personas pensionadas, jubiladas o mayores de sesenta años afiliadas al Instituto Nacional para Adultos Mayores, debiéndose acreditar con credencial vigente, se eximirá el 87.5% del pago de derechos que se generen por el servicio de depósito o retiro del testamento ológrafo que preste la Dirección del Registro Público de la Propiedad y del Comercio del Estado.
-
-b) Se eximirá del Impuesto Adicional para la Educación Media y Superior en los mismos términos y porcentajes que se establecen en el inciso a), correspondientes al servicio de depósito o retiro de testamento ológrafo.
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -3184,3 +3182,29 @@ PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO: Se abroga el Decreto 486, mediante el cual se aprueba la reforma al artículo 151-16 de la Ley de Hacienda del Estado de Baja California, publicado el 05 de julio de 2013 en el Periódico Oficial del Estado de Baja California.
 
 TERCERO: En cumplimiento a lo establecido en el Considerando Décimo Octavo, esta Comisión adquiere el compromiso de analizar la posibilidad de un incremento razonable, efectivo para el ejercicio fiscal de 2015, al porcentaje previsto en el Artículo 151-16 de le (sic) Ley de Hacienda del Estado de Baja California.
+
+P.O. 29 DE MAYO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tratándose de la Reforma al artículo 173 de la Ley de Hacienda, ésta entrará en vigor el primero de enero del ejercicio fiscal siguiente al de publicación del presente Decreto en el Periódico Oficial del Estado.
+
+Tratándose de la reforma al párrafo primero del artículo 2191 del Código Civil del Estado, a los artículos 145 de la Ley del Notariado del Estado y 48 de la Ley del Registro Público de la Propiedad y de Comercio para el Estado, éstas entrarán en vigor a los 120 días siguientes al de la publicación del presente Decreto.
+
+SEGUNDO.- Aquellos testamentos públicos cerrados, públicos simplificados, privados, militares, marítimos o hechos en país extranjero que hayan sido otorgados con anterioridad al presente decreto, subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás tramitación correspondiente se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento.
+
+Tratándose de los testamentos ológrafos otorgados con anterioridad al presente Decreto, estos subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás trámites que correspondan, las personas interesadas podrán optar ante el juez, siempre que no hubiere controversia alguna, menores de edad, menores emancipados o mayores incapacitados, entre seguir la substanciación conforme a las disposiciones vigentes al momento de su otorgamiento, o tramitar la sucesión ante Notario Público.
+
+TERCERO.- El Ejecutivo del Estado deberá emitir las disposiciones reglamentarias conducentes derivadas de las modificaciones a la Ley del Notariado, en un plazo no mayor de doscientos cuarenta días a partir de la de la entrada en vigor de las presentes reformas. Los notarios contarán con un plazo de ciento veinte días, a partir de la vigencia de las mismas, para realizar las adecuaciones necesarias que de conformidad con estas correspondan.
+
+CUARTO.- Los procedimientos instaurados en contra de notarios por quejas presentadas con anterioridad a la entrada en vigor de las presentes reformas, se tramitarán conforme a las disposiciones vigentes en aquel momento.
+
+QUINTO.- Quienes se encuentren realizando la práctica notarial en cualquiera de sus etapas al inicio de la vigencia de las presentes reformas y quienes ya las hayan concluido pero no hayan obtenido patente de aspirante, seguirán el trámite conforme al presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado deberá emitir las modificaciones necesarias al Arancel de Notarios para el Estado de Baja California derivado de las reformas al Código Civil y al Código de Procedimientos Civiles, así como realizar los ajustes que correspondan por la intervención de los notarios en los testamentos.
+
+SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entrada en vigor de las presentes reformas deberán ajustarse al artículo 155 de este Decreto, en la actualización anual que corresponda.
+
+OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
+
+NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
