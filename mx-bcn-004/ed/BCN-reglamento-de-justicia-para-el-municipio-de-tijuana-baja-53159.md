@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-justicia-para-el-municipio-de-tijuana-baja-53159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-12"
-last_updated: "2014-11-28"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE JUSTICIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 12 de enero de 2007.
 
@@ -551,15 +551,15 @@ XIV. Reducir proporcionalmente la multa impuesta al infractor durante el cumplim
 
 XV. El desempeño de labores de los Jueces Municipales serán (sic) por turnos, los horarios serán fijados por la Dirección de Justicia Municipal;
 
-XVI. Canalizar al Juzgado Integral Municipal, los asuntos que a éste le sean de su competencia; y (sic)
+XVI. Canalizar al Juzgado Integral Municipal, los asuntos que a éste le sean de su competencia; y
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-XVII. Implementar las órdenes de protección de emergencia y preventivas, establecidas en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia para el Estado de Baja California, en los casos de infracciones por violencia cometidas en contra de mujeres; procurando su protección a través de la Secretaria de Seguridad Pública Municipal en coordinación con la Unidad Operativa de Violencia Domestica, dentro de las facultades reguladas por el artículo 47 de la citada normatividad y demás aplicables.
+XVII. Implementar las órdenes de protección de emergencia y preventivas, establecidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California, en los casos de infracciones por violencias cometidas en contra de mujeres; procurando su protección a través de la Secretaria de Seguridad Pública Municipal en coordinación con la Unidad Operativa de Violencia Domestica, dentro de las facultades reguladas por el artículo 47 de la citada normatividad y demás aplicables.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-XVIII. Los Jueces o las Juezas Municipales verificarán, vigilarán y darán cabal seguimiento al cumplimiento de las sanciones administrativas impuestas en ejercicio de la competencia municipal por incumplimiento a la normatividad vigente en el Municipio de Tijuana, Baja California a los infractores o infractoras de la normatividad municipal, y
+XVIII. El Juez Municipal determinará las audiencias que deban desarrollarse a puerta cerrada.
 
 XIX. Las demás que se deriven del presente Reglamento, y las que le confieren los diversos reglamentos Municipales.
 
@@ -1620,3 +1620,7 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado, y en la Gaceta Municipal.
+
+P.O. 29 DE MAYO DE 2015.
+
+UNICO.- El presente acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
