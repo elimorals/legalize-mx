@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-03-20"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -4587,7 +4587,7 @@ De los recursos y de la revisión de oficio de la revocación, revisión y apela
 
 ### CAPITULO I. De la revocación y apelación
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 669.- Las sentencias no pueden ser revocadas por el Juez que las dicta.
 
@@ -5737,107 +5737,53 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 ART. 861.- Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
-### CAPITULO IX. Del testamento público cerrado
+### CAPITULO IX. ART. 862.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 863.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-ART. 862.- Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El representante del Ministerio Público asistirá a la diligencia.
+ART. 864.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 865.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-ART. 863.- Cumplido lo prescrito, en sus respectivos casos, en los artículos del Código Civil números 1429 a 1434, el Juez, en presencia del notario, testigos, representante del Ministerio Público y secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
-En seguida firmarán al margen del testamento las personas que hayan intervenido en la diligencia, con el Juez y el secretario, y se le pondrá el sello del juzgado, asentándose acta de todo ello.
+### CAPITULO X. ART. 866.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 867.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-ART. 864.- Será preferida para la protocolización de todo testamento cerrado, la notaría del lugar en que haya sido abierto, y, si hubiere varias, se preferirá la que designe el promovente.
+ART. 868.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
-ART. 865.- Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversas, el Juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar, en un mismo oficio, para los efectos a que haya lugar en los casos previstos por los artículos 1381 y 1383 del Código Civil.
+### CAPITULO XI. ART. 869.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 870.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-### CAPITULO X. Declaración de ser formal el testamento ológrafo
+ART. 871.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 872.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-ART. 866.- El tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó su testamento ológrafo como se dispone en el artículo 1440 del Código Civil, dirigirá oficio al encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+### CAPITULO XII. ART. 873.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-ART. 867.- Recibido el pliego, procederá el tribunal como se dispone en el artículo 1448 del Código Civil.
+ART. 874.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE MAYO DE 2015)</small>
 
-ART. 868.- Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-### CAPITULO XI. Declaración de ser formal el testamento privado
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 869.- A instancia de parte legítima formulada ante el tribunal del lugar en que se haya otorgado, puede declararse formal el testamento privado de una persona, sea que conste por escrito o sólo de palabra, en el caso del artículo 1455 del Código Civil.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 870.- Es parte legítima para los efectos del artículo anterior:
-
-I.- El que tuviere interés en el testamento;
-
-II.- El que hubiere recibido en él algún encargo del testador.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 871.- Hecha la solicitud, se señalarán día y hora para el examen de los testigos que hayan concurrido al otorgamiento.
-
-Para la información se citará al representante del Ministerio Público, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
-
-Los testigos declararán al tenor del interrogatorio respectivo, que se sujetará estrictamente a lo dispuesto en el artículo 1461 del Código Civil.
-
-Recibidas las declaraciones, el tribunal procederá conforme al artículo 1462 del Código Civil.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 872.- De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-### CAPITULO XII. Del testamento militar
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 873.- Luego que el tribunal reciba, por conducto del Secretario de la Defensa Nacional, el parte a que se refiere el artículo 1469 del Código Civil, citará a los testigos que estuvieren en el lugar, y respecto a los ausentes, mandará exhorto al tribunal del lugar donde se hallen.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 874.- De la declaración judicial se remitirá copia autorizada al Secretario de la Defensa Nacional.
-
-En lo demás se observará lo dispuesto en el capítulo que antecede.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-### CAPITULO XIII. Del testamento marítimo
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 875.- Hechas las publicaciones que ordena el artículo 1477 del Código Civil, podrán los interesados ocurrir al tribunal competente para que pida de la Secretaría de Relaciones Exteriores la remisión del testamento, o directamente a ésta para que lo envíe.
+### CAPITULO XIII. ART. 875.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ### CAPITULO XIV. Del testamento hecho en país extranjero
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-ART. 876.- Si el testamento fuere ológrafo, luego que lo reciba el encargado del Registro Público tomará razón en el libro a que se refiere el artículo 1444 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del secretario de la legación, cónsul o vicecónsul, por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás, obrará como se dispone en el capítulo IV, título III, libro tercero del Código Civil.
+ART. 876.- El testamento hecho en país extranjero será válido por el juez competente, cuando haya sido formulado por las leyes del país en que se otorgue y no contravengan disposiciones contrarias al orden público mexicano.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 877.- Ante el tribunal competente se procederá, con respecto al testamento público cerrado, al privado o al ológrafo, como está dispuesto para esas clases de testamentos otorgados en el país.
+ART. 877.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -7050,3 +6996,29 @@ P.O. 20 DE MARZO DE 2015.
 DECRETO NO. 226, POR EL QUE SE APRUEBA ADICIÓN DEL ARTÍCULO 353 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE MAYO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tratándose de la Reforma al artículo 173 de la Ley de Hacienda, ésta entrará en vigor el primero de enero del ejercicio fiscal siguiente al de publicación del presente Decreto en el Periódico Oficial del Estado.
+
+Tratándose de la reforma al párrafo primero del artículo 2191 del Código Civil del Estado, a los artículos 145 de la Ley del Notariado del Estado y 48 de la Ley del Registro Público de la Propiedad y de Comercio para el Estado, éstas entrarán en vigor a los 120 días siguientes al de la publicación del presente Decreto.
+
+SEGUNDO.- Aquellos testamentos públicos cerrados, públicos simplificados, privados, militares, marítimos o hechos en país extranjero que hayan sido otorgados con anterioridad al presente decreto, subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás tramitación correspondiente se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento.
+
+Tratándose de los testamentos ológrafos otorgados con anterioridad al presente Decreto, estos subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás trámites que correspondan, las personas interesadas podrán optar ante el juez, siempre que no hubiere controversia alguna, menores de edad, menores emancipados o mayores incapacitados, entre seguir la substanciación conforme a las disposiciones vigentes al momento de su otorgamiento, o tramitar la sucesión ante Notario Público.
+
+TERCERO.- El Ejecutivo del Estado deberá emitir las disposiciones reglamentarias conducentes derivadas de las modificaciones a la Ley del Notariado, en un plazo no mayor de doscientos cuarenta días a partir de la de la (sic) entrada en vigor de las presentes reformas. Los notarios contarán con un plazo de ciento veinte días, a partir de la vigencia de las mismas, para realizar las adecuaciones necesarias que de conformidad con estas correspondan.
+
+CUARTO.- Los procedimientos instaurados en contra de notarios por quejas presentadas con anterioridad a la entrada en vigor de las presentes reformas, se tramitarán conforme a las disposiciones vigentes en aquel momento.
+
+QUINTO.- Quienes se encuentren realizando la práctica notarial en cualquiera de sus etapas al inicio de la vigencia de las presentes reformas y quienes ya las hayan concluido pero no hayan obtenido patente de aspirante, seguirán el trámite conforme al presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado deberá emitir las modificaciones necesarias al Arancel de Notarios para el Estado de Baja California derivado de las reformas al Código Civil y al Código de Procedimientos Civiles, así como realizar los ajustes que correspondan por la intervención de los notarios en los testamentos.
+
+SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entrada en vigor de las presentes reformas deberán ajustarse al artículo 155 de este Decreto, en la actualización anual que corresponda.
+
+OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
+
+NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
