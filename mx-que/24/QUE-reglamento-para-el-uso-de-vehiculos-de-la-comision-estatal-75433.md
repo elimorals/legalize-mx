@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-para-el-uso-de-vehiculos-de-la-comision-estatal-7543
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-18"
-last_updated: "2010-06-18"
+last_updated: "2015-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO PARA EL USO DE VEHICULOS DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO
 
-REGLAMENTO PARA EL USO DE VEHICULOS DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO
+REGLAMENTO PARA EL USO DE VEHÍCULOS DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL USO DE VEHÍCULOS DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 18 de junio de 2010.
 
@@ -292,3 +294,13 @@ Javier Rascado Pérez
 Comisionado Ejecutivo
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2015.
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
+
+Segundo. Se abroga el “Reglamento para el uso de vehículos de la Comisión Estatal de Información Gubernamental del Estado de Querétaro” publicado en el periódico Oficial del Gobierno del Estado La Sombra de Arteaga el 18 de junio de 2010.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
