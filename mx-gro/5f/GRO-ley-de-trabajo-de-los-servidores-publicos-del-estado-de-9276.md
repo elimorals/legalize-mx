@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2011-04-05"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248
 
-LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248
+LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -75,9 +75,13 @@ Cuando se creen las plazas o se expida el nombramiento de un servidor público s
 
 Los trabajadores de base con nombramiento definitivo, tendrán permanencia en el trabajo, después de cumplir seis meses de servicio siempre y cuando existan plazas presupuestales.
 
-Son trabajadores de base con designación temporal, los que prestan sus servicios a tiempo fijo u obra determinada. Respecto de estas categorías la relación jurídica de trabajo se entenderá prorrogada mientras subsista la causa que la originó.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-El reconocimiento de basificación para los trabajadores supernumerarios, estará sujeto a su antigüedad y al número de plazas de base que estén incluídas en el Presupuesto de Egresos, o plazas vacantes por jubilaciones, pensiones, renuncias, despidos y fallecimientos.
+Son trabajadores supernumerarios con designación temporal, los que presten servicios a tiempo fijo u obra determinada.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+El reconocimiento de basificación para los trabajadores supernumerarios, con nombramiento ilimitado, estará sujeto a su antigüedad y al número de plazas de base que estén incluidas en el presupuesto de Egresos, o plazas vacantes por jubilaciones, pensiones, renuncias, despidos y fallecimientos.
 
 Cuando los servidores públicos se jubilen o pensionen en los términos de esta Ley, se podrán cancelar las plazas correspondientes siempre y cuando, conforme al Presupuesto que aprobó la Cámara de Diputados, se transfieran las plazas de supernumerarios en trabajadores de base.
 
@@ -264,6 +268,14 @@ Es jornada mixta la que comprende períodos de tiempo de las jornadas diurna y n
 ###### ARTICULO 22.
 
 Cuando por circunstancias especiales deban aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces por semana.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+Cuando por circunstancias especiales deban aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias, ni de tres veces en una semana.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+Para efecto de lo anterior, se requerirá autorización por escrito del titular de las dependencias o entidades de la administración pública estatal, de la que dependa el trabajador, con el visto bueno del Director General de Administración y Desarrollo de Personal de la Secretaría de Finanzas y Administración en el que se especifiquen los días de la semana y horas máximas a laborar.
 
 ###### ARTICULO 23.
 
@@ -597,7 +609,13 @@ Para los efectos del inciso "C" fracción VI del presente artículo se reputará
 
 El trabajador podrá ejercer ante los órganos jurisdiccionales competentes, a su elección, que se le reinstale en el trabajo o que se le indemnice por el importe de tres meses de salario más veinte días por cada año de servicio o fracción mayor de seis meses, si considera que no ha dado ninguna causa justificada de terminación.
 
-La entidad pública quedará eximida de la obligación de reinstalar al trabajador cuando se trate de trabajadores con menos de un año de antigüedad y también si el trabajo desempeñado exige contacto directo con sus superiores haciendo imposible el desarrollo normal de la relación, en este caso la indemnización será la establecida en el párrafo que antecede. En el caso de resolución favorable al trabajador, se le cubrirán también los salarios caídos, computados desde la fecha de separación hasta la notificación del laudo ejecutoriado.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+La entidad pública quedará eximida de la obligación de reinstalar al trabajador cuando se trate de trabajadores con menos de un año de antigüedad y también si el trabajo desempeñado exige contacto directo con sus superiores haciendo imposible el desarrollo normal de la relación, en este caso la indemnización será la establecida en el párrafo que antecede. En el caso de resolución favorable al trabajador, se le cubrirán también los salarios caídos, computados desde la fecha del despido hasta por un periodo máximo de doce meses.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
 
 ## TITULO TERCERO
 
@@ -1281,7 +1299,7 @@ El Secretario de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE NOVIEMBRE DE 1989.
 
@@ -1308,3 +1326,11 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado deberá implementar el Servicio Civil de Carrera a que se refieren los artículos 200 y 201 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286, dentro de los seis meses siguientes a la fecha de entrada en vigencia del presente Decreto.
+
+P.O. 29 DE MAYO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
