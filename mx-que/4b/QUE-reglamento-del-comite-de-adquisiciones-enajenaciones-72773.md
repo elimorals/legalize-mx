@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-comite-de-adquisiciones-enajenaciones-72773"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-29"
-last_updated: "2010-01-29"
+last_updated: "2015-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL COMITE DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO
 
-REGLAMENTO DEL COMITE DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO
+REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 29 de enero de 2010.
 
@@ -266,3 +268,13 @@ Javier Rascado Pérez
 Comisionado Ejecutivo
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2015.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Segundo. Se abroga el “Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de la Comisión Estatal de Información Gubernamental del Estado de Querétaro” publicado en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” el 29 de enero de 2010.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
