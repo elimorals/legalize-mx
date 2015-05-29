@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-nacional-de-pensiones-de-los-8158
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-07"
-last_updated: "2014-09-01"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-04-14"
 
 REGLAMENTO ORGÁNICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2015.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 7 de junio de 2011.
 
@@ -43,215 +43,297 @@ REGLAMENTO ORGANICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVI
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular la organización, estructura y funcionamiento del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado, denominado PENSIONISSSTE, como órgano público desconcentrado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Este Reglamento tiene por objeto establecer la organización y funcionamiento del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado, denominado PENSIONISSSTE, con la finalidad de cumplir con la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Estatuto Orgánico del Instituto y demás normatividad aplicable.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2.
 
-El PENSIONISSSTE estará sujeto a lo previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la Ley de los Sistemas de Ahorro para el Retiro, así como a la normatividad aplicable. Asimismo, para el desempeño de sus funciones el PENSIONISSSTE estará dotado de facultades ejecutivas y competencia funcional propia.
+El Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado es un Órgano público desconcentrado del Instituto que tiene por objeto administrar las cuentas individuales de los trabajadores, excepto los de la Subcuenta del Fondo de la Vivienda, e invertir los recursos correspondientes a dichas cuentas, de conformidad con lo establecido en la normatividad aplicable.
 
-El PENSIONISSSTE, a fin de impulsar y promover los servicios y beneficios que preste a los Trabajadores, podrá hacer uso de cualquiera de los derechos de Propiedad Intelectual que se consideren adecuados para su operación y funcionamiento, de conformidad con las disposiciones aplicables.
+El Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado está sujeto a lo previsto en la Ley del Instituto, la Ley de los Sistemas de Ahorro para el Retiro, así como a la normatividad aplicable. Asimismo, para el desempeño de sus funciones el PENSIONISSSTE está dotado de facultades ejecutivas y competencia funcional propia.
+
+En el ejercicio de sus funciones el Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado puede hacer uso de cualquiera de los derechos de propiedad intelectual que se consideren adecuados para su operación y funcionamiento, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
-Para efecto de lo establecido en el presente Reglamento se entenderá por:
+Este Reglamento es de observancia obligatoria para los servidores públicos del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado.
 
-I. AFORE. Las administradoras de fondos para el retiro, indistintamente en singular o plural;
+En el ejercicio de sus responsabilidades, atribuciones y funciones, los servidores públicos del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado deben promover, respetar y proteger los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, bajo criterios de legalidad, honestidad, igualdad, transparencia, no discriminación e integridad. Asimismo, deben aplicar el principio pro persona e incorporar la Centralidad del derechohabiente en sus procesos y actividades. Ello con el propósito de que el Instituto ofrezca seguros, prestaciones y servicios de calidad, con oportunidad y calidez.
 
-II. Comité de Comunicación y Control. El Comité al que hacen referencia las disposiciones de carácter general a que se refieren los artículos 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro y 91 de la Ley de Sociedades de Inversión;
+Los servidores públicos del PENSIONISSSTE deben realizar sus actividades con una perspectiva de género que impulse la igualdad sustantiva entre los sexos sin discriminación.
 
-III. Comité de Inversión. El comité de inversión de cada Sociedad de Inversión al que se refiere el artículo 42 de la Ley de los Sistemas de Ahorro para el Retiro y la normatividad aplicable;
-
-IV. Comité de Riesgo Financiero. El Comité de Riesgo Financiero de cada Sociedad de Inversión, al que se refiere el artículo 42 Bis de la Ley de los Sistemas de Ahorro para el Retiro y las disposiciones de carácter general emitidas por la Comisión Nacional del Sistema de Ahorro para el Retiro;
-
-V. Comité de Riesgo Operativo. El Comité de Riesgo Operativo del PENSIONISSSTE al que hacen referencia las disposiciones de carácter general emitidas por la Comisión Nacional del Sistema de Ahorro para el Retiro;
-
-VI. Comisión Ejecutiva. El Organo de Gobierno encargado de la Dirección y Administración del PENSIONISSSTE;
-
-VII. CONSAR. La Comisión Nacional del Sistema de Ahorro para el Retiro;
-
-VIII. Consejero Técnico o Consejero Independiente. Aquel que forma parte del Consejo de Administración de las Sociedades de Inversión del PENSIONISSSTE u otros órganos colegiados y que cumple con lo establecido en los artículos 49 y 50 de la Ley de los Sistemas de Ahorro para el Retiro;
-
-IX. Consejero Miembro o Consejero no Independiente. Aquel que forma parte del Consejo de Administración de las Sociedades de Inversión del PENSIONISSSTE y es miembro de la Comisión Ejecutiva;
-
-X. Cuentahabiente. El titular de una cuenta individual;
-
-XI. Cuenta Individual. aquella que se abrirá para cada trabajador en el PENSIONISSSTE, para que se depositen en la misma las Cuotas y Aportaciones de las Subcuentas de retiro, cesantía en edad avanzada y vejez, de ahorro solidario, de aportaciones complementarias de retiro, de aportaciones voluntarias y de ahorro de largo plazo, y se registren las correspondientes al Fondo de la Vivienda, así como los respectivos rendimientos de éstas y los demás recursos que puedan ser aportados a las mismas;
-
-XII. Cuenta SAR-ISSSTE. Aquella que se abrirá para cada trabajador en el PENSIONISSSTE cuyos recursos se encuentren invertidos en Banco de México;
-
-XIII. Cuotas. Los enteros a la seguridad social que los trabajadores deben cubrir conforme a lo dispuesto en la Ley;
-
-XIV. Dependencias. Las unidades administrativas de los Poderes de la Unión, la Procuraduría General de la República, los órganos jurisdiccionales autónomos, los órganos ejecutivo, legislativo y judicial del Distrito Federal, así como las unidades administrativas de las Entidades Federativas y municipios que se incorporen al régimen de la Ley;
-
-XV. Director General. El Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-XVI. Empresa Operadora. Las empresas concesionadas para operar la Base de Datos Nacional SAR a que se refiere la Ley de los Sistemas de Ahorro para el Retiro;
-
-XVII. Entidades. Los organismos descentralizados, empresas de participación estatal mayoritaria y demás instituciones paraestatales federales y del Gobierno del Distrito Federal, así como los organismos de las Entidades Federativas o municipales y organismos públicos que por disposición constitucional cuenten con autonomía, que se incorporen a los regímenes de la Ley;
-
-XVIII. Entidades Federativas. A las partes integrantes de la Federación;
-
-XIX. Estados Financieros. El documento contable que refleja la situación financiera del PENSIONISSSTE, a una fecha determinada y que permite efectuar un análisis comparativo de la misma;
-
-XX. Estatuto Orgánico. El Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-XXI. Fuerza Comercial. El conjunto de personas que realizan funciones de promoción, registro y traspaso de Cuentas Individuales a favor de PENSIONISSSTE, considerando aquellas responsables de realizar labores de coordinación y supervisión de dichas funciones;
-
-XXII. Junta. La Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-XXIII. Instituto. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-XXIV. Ley. La Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-XXV. Ley del SAR. La Ley de los Sistemas de Ahorro para el Retiro, publicada en el Diario Oficial de la Federación el 23 de mayo de 1996, con sus modificaciones y reformas;
-
-XXVI. Organos Colegiados. La Junta Directiva, la Comisión Ejecutiva, la Comisión de Vigilancia del Instituto y los enunciados en el Capítulo Décimo Quinto del presente Reglamento;
-
-XXVII. Organos Fiscalizadores. La Auditoría Superior de la Federación, Secretaría de la Función Pública, Organo Interno de Control y Auditor Externo, entre otros;
-
-XXVIII. PENSIONISSSTE. El Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado, Unidad Administrativa Desconcentrada del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-XXIX. Programas de Corrección. El que refiere el artículo 100 bis de la Ley de los Sistemas de Ahorro para el Retiro;
-
-XXX. Provisión. Existencia de valores suficientes para cubrir fines específicos;
-
-XXXI. Puntos de Atención. Las oficinas externas al PENSIONISSSTE que ofrecen atención al público y efectúan trámites de Trabajadores y sus beneficiarios, relacionados con su Cuenta Individual;
-
-XXXII. Reservas. Las provisiones que se constituyen para asegurar la operación del PENSIONISSSTE y el cumplimiento de los demás fines y obligaciones del mismo, conforme al Programa Anual de Reservas que apruebe la Junta Directiva a propuesta de la Comisión Ejecutiva;
-
-XXXIII. Reserva Administrativa. La provisión que se constituye conforme al Programa Anual de Reservas;
-
-XXXIV. Reserva Especial. La provisión que se constituye de acuerdo al Programa Anual de Reservas, a fin de cubrir las minusvalías que se presenten en las Sociedades de Inversión, conforme a lo previsto en la Ley del SAR;
-
-XXXV. Reserva Operativa. La provisión que se constituye para asegurar la operación del PENSIONISSSTE y el cumplimiento de los demás fines y obligaciones del mismo, conforme al Programa Anual de Reservas, en un horizonte no menor a dieciocho meses y tendrá un carácter multianual;
-
-XXXVI. SAR-ISSSTE 92. Las aportaciones realizadas bajo el sistema de ahorro para el retiro vigente a partir del primer bimestre de 1992 y hasta el 31 de diciembre de 2007;
-
-XXXVII. Sistema Central Operativo. El sistema informático que opera el PENSIONISSSTE para la administración de las cuentas de los trabajadores que tiene registradas;
-
-XXXVIII. Sistemas de Ahorro para el Retiro. Aquéllos regulados por las leyes de seguridad social que prevén que las aportaciones de los trabajadores, patrones y del Estado sean manejadas a través de Cuentas Individuales propiedad de los trabajadores, con el fin de acumular saldos, mismos que se aplicarán para fines de previsión social o para la obtención de pensiones o como complemento de éstas;
-
-XXXIX. Sociedades de Inversión. Las sociedades de inversión especializadas de fondos para el retiro administradas por el PENSIONISSSTE, básicas y adicionales;
-
-> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
-
-XL. Sociedades de Inversión Básicas. Las sociedades de inversión especializadas de fondos para el retiro básicas administradas por el PENSIONISSSTE;
-
-> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
-
-XLI. Sociedades de Inversión Adicionales. Las sociedades de inversión especializadas de fondos para el retiro adicionales que tengan por objeto la inversión exclusiva de aportaciones voluntarias, de aportaciones complementarias de retiro, de aportaciones de ahorro a largo plazo, o de fondos de previsión social, administradas por el PENSIONISSSTE;
-
-XLII. Trabajador. Los afiliados, así como cualquier otra persona que tenga derecho a la apertura de una Cuenta Individual, en los términos de la Ley del los Sistemas de Ahorro para el Retiro;
-
-XLIII. Unidades de Inversión. Las obligaciones de pago denominadas en una Unidad de Cuenta, de sumas en moneda nacional convenidas en las operaciones financieras que celebren los correspondientes intermediarios, los contenidos en títulos de crédito, salvo cheques, y en general, los pactados en contratos mercantiles o en otros actos de comercio, así como aquellas que determine el Banco de México, y cuyo valor en pesos, para cada día se publica periódicamente por el Banco de México en el Diario Oficial de la Federación;
-
-XLIV. Valor en Riesgo. La minusvalía que pueden tener los activos netos de una Sociedad de Inversión, dado un determinado nivel de confianza, en un periodo determinado, y
-
-XLV. Vocal Ejecutivo. El Vocal Ejecutivo del PENSIONISSSTE.
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 4.
 
-El PENSIONISSSTE cumplirá sus facultades y conducirá sus actividades en forma programada, con base en las políticas, lineamientos y demás disposiciones normativas que, para el logro de los objetivos institucionales, determinen la Junta, el Director General, la Comisión Ejecutiva, los Organos Colegiados y el Vocal Ejecutivo, en el ámbito de sus respectivas competencias.
+Para los efectos de este Reglamento se entiende por:
+
+I. Activos Objeto de Inversión: los instrumentos, divisas, valores extranjeros, Componentes de Renta Variable, inversiones neutras, Estructuras vinculadas a subyacentes, mercancías y operaciones con derivados, reportos y préstamos de valores;
+
+II. AFORE: las administradoras de fondos para el retiro, indistintamente en singular o plural;
+
+III. Aportaciones: los enteros de recursos que cubran las Dependencias y Entidades en cumplimiento de las obligaciones que respecto de sus trabajadores les impone la Ley;
+
+IV. Calidad: los estándares que deben observarse en la prestación de los seguros y servicios conforme a los principios establecidos por las normas oficiales mexicanas y las prácticas generalmente aceptadas por la comunidad científica;
+
+V. Calidez: el trato respetuoso, cordial, atento y con información suficiente que se debe proporcionar al derechohabiente;
+
+VI. Centralidad del derechohabiente: el criterio por el cual se reconoce que el derechohabiente es la mayor prioridad institucional;
+
+VII. Comisario: el previsto en la Ley General de Sociedades Mercantiles quien debe dictaminar sobre la veracidad, suficiencia y razonabilidad de la información financiera emitida por el PENSIONISSSTE y las Sociedades de Inversión Básicas y Adicionales;
+
+VIII. Comisión Ejecutiva: el Órgano de Gobierno encargado de la dirección y administración del PENSIONISSSTE;
+
+IX. Comité de Comunicación y Control: el Comité al que hacen referencia la Ley de los Sistemas de Ahorro para el Retiro, la Ley de Sociedades de Inversión y las disposiciones de carácter general emitidas por la CONSAR;
+
+X. Comité de Inversión: el Comité de Inversión de cada Sociedad de Inversión Básica y Adicional;
+
+XI. Comité de Riesgo Financiero: el Comité de Riesgo Financiero de cada Sociedad de Inversión Básica y Adicional;
+
+XII. Componentes de Renta Variable: los Instrumentos de renta variable y valores extranjeros de renta variable con los que se obtenga exposición a activos accionarios autorizados a través de vehículos que confieran derechos sobre los mismos, acciones o derivados;
+
+XIII. CONSAR: la Comisión Nacional del Sistema de Ahorro para el Retiro;
+
+XIV. Consejero Miembro o Consejero no Independiente: aquel que forma parte del Consejo de Administración de las Sociedades de Inversión Básicas y Adicionales según corresponda y es miembro de la Comisión Ejecutiva;
+
+XV. Consejero Técnico o Consejero Independiente. Aquel que forma parte del Consejo de Administración de las Sociedades de Inversión Básicas y Adicionales según corresponda u otros órganos colegiados;
+
+XVI. Consejo de Administración: el órgano superior de las Sociedades de Inversión Básicas y Adicionales que se integra conforme lo dispuesto en la Ley del SAR y sus estatutos sociales;
+
+XVII. Cuenta: aquélla de la que sea titular el Cuentahabiente, en la cual se depositan las Cuotas, Aportaciones, sus rendimientos y los demás recursos que en términos de la Ley y la Ley del SAR puedan ser aportados a las mismas, así como aquellas otras que se abran a otros trabajadores, indistintamente a:
+
+a) La cuenta individual;
+
+b) La cuenta de los trabajadores bajo el régimen considerado en el artículo Décimo Transitorio de la Ley; y
+
+c) Las cuentas derivadas de fondos de previsión social.
+
+XVIII. Cuentahabiente: el titular de una Cuenta, indistintamente en singular o plural;
+
+XIX. Cuotas: indistintamente las cuotas obrero patronales y los enteros a la seguridad social que los Cuentahabientes deben cubrir conforme a lo dispuesto en las Leyes de Seguridad Social;
+
+XX. Dependencias: las unidades administrativas de los Poderes de la Unión, la Procuraduría General de la República, los órganos jurisdiccionales autónomos, los órganos ejecutivo, legislativo y judicial del Distrito Federal, así como las unidades administrativas de las Entidades Federativas y municipios que se incorporen al régimen de la Ley;
+
+XXI. Derechohabiente: los trabajadores, jubilados, pensionados y familiares derechohabientes señalados en las fracciones VIII y XII del artículo 6 de la Ley;
+
+XXII. Director General: el Director General del Instituto;
+
+XXIII. Empresas Operadoras: las empresas concesionarias para operar la Base de Datos Nacional SAR a que se refiere la Ley de los Sistemas de Ahorro para el Retiro;
+
+XXIV. Entidades: los organismos descentralizados, empresas de participación estatal mayoritaria y demás instituciones paraestatales federales y del gobierno del Distrito Federal, así como los organismos de las Entidades Federativas o municipales y organismos públicos que por disposición constitucional cuenten con autonomía, que se incorporen a los regímenes de la Ley;
+
+XXV. Entidades Federativas: los estados de la República y el Distrito Federal;
+
+XXVI. Estado de Cuenta: el documento expedido por el PENSIONISSSTE que contiene información relativa a la Cuenta Individual del trabajador de que se trate, en los términos previstos por la normatividad aplicable;
+
+XXVII. Estados Financieros: el documento contable que refleja a una fecha determinada la situación financiera del PENSIONISSSTE y de las Sociedades de Inversión Básicas y Adicionales, y que permite efectuar un análisis comparativo de la misma;
+
+XXVIII. Estatuto Orgánico: El Estatuto Orgánico del Instituto;
+
+XXIX. Fuerza Comercial: el conjunto de personas que realizan funciones de promoción, registro y traspaso de las Cuentas, que consideran aquellas responsables de realizar labores de coordinación y supervisión de dichas funciones;
+
+XXX. Instituto: el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+XXXI. Instrumento: todos los Instrumentos bursatilizados, Instrumentos de deuda, Instrumentos estructurados e Instrumentos de renta variable denominados en moneda nacional, unidades de inversión o divisas emitidos por emisores nacionales, incluidos los certificados bursátiles y los certificados de participación, los documentos o contratos de deuda a cargo del gobierno federal, los depósitos en el Banco de México, los depósitos bancarios de dinero a la vista realizados en instituciones de crédito, las estructuras vinculadas a subyacentes, o en su caso los componentes de éstas, emitidos por emisores nacionales, así como las mercancías;
+
+XXXII. Junta: la Junta Directiva del Instituto;
+
+XXXIII. Ley: La Ley del Instituto;
+
+XXXIV. Ley del SAR: la Ley de los Sistemas de Ahorro para el Retiro;
+
+XXXV. Manual de Políticas y Procedimientos para la Administración del Riesgo Financiero: el que elabore el PENSIONISSSTE para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Financieros a que se encuentran expuestas las Sociedades de Inversión Básicas y Adicionales;
+
+XXXVI. Oportunidad: brindar al derechohabiente la atención cuando la requiere, realizar todas las acciones necesarias y aplicar los protocolos establecidos con la secuencia adecuada, conforme a los recursos disponibles;
+
+XXXVII. Órganos Colegiados: el Comité de Comunicación y Control, el Consejo de Administración de las Sociedades de Inversión Básicas y Adicionales, los Comités de Inversión y Riesgo Financiero de las Sociedades de Inversión Básicas y Adicionales y todos aquellos Comités que por normatividad deban constituirse;
+
+XXXVIII. Órganos Fiscalizadores: la Auditoría Superior de la Federación, la Secretaría de la Función Pública, en términos de la Ley Orgánica de la Administración Pública Federal, o en su caso, el órgano o la Dependencia que en términos de las disposiciones aplicables lo supla en el ejercicio de sus atribuciones; y el Auditor Externo, entre otros;
+
+XXXIX. Órganos de Gobierno: la Junta Directiva, el Director General, la Comisión Ejecutiva del PENSIONISSSTE y la Comisión de Vigilancia del Instituto;
+
+XL. PENSIONISSSTE: el Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado, Órgano Desconcentrado del Instituto;
+
+XLI. Plan de Funciones: el previsto en la Ley del SAR y en su respectivo Reglamento, contiene las actividades del Contralor Normativo para evaluar y preservar el cumplimiento del Programa de Autorregulación del PENSIONISSSTE;
+
+XLII. Plan de Labores: el documento que incluye los objetivos, actividades y compromisos que el PENSIONISSSTE realiza durante un ejercicio y los que quedan estructurados en los objetivos institucionales, estrategias específicas y líneas de acción. Para cada una de estas acciones se comprometen las metas y la métrica de seguimiento y evaluación;
+
+XLIII. Plan de Negocios: el documento que plasma las estrategias y las actividades de lo que debe ocurrir en el PENSIONISSSTE. En él se establecen responsables de proyectos, se define la medición de los avances, la canalización de los recursos y su origen, y, finalmente, cuántos ingresos espera obtener, todo ello con el fin de mostrar su viabilidad financiera. En este documento se incluyen proyecciones acerca del futuro de los recursos y se incluyen las comisiones, gastos, reservas, activos, pasivos y capital;
+
+XLIV. Plan Integral de Comercialización: el que contiene el conjunto de objetivos, metas, estrategias, programas y actividades, así como la estrategia de posicionamiento del PENSIONISSSTE en el mercado de las AFORE;
+
+XLV. Programa de Autorregulación: el previsto en la Ley del SAR, el cual contiene las actividades de los principales servidores públicos del PENSIONISSSTE y las normas a las que éstos habrán de sujetarse, así como las acciones correctivas aplicables en caso de incumplimiento. Este programa está orientado a garantizar el cumplimiento de la normatividad, la eficiente operación del PENSIONISSSTE y la protección de los intereses de los Cuentahabientes, así como a evitar todo tipo de operaciones que impliquen conflictos de interés y uso indebido de información privilegiada;
+
+XLVI. Pro persona: el principio por el que las normas relativas a los derechos humanos se interpretan de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los tratados internacionales de la materia ratificados por México, que favorezca en todo tiempo a las personas la protección más amplia;
+
+XLVII. Provisión: existencia de recursos suficientes para cubrir fines específicos;
+
+XLVIII. Puntos de Atención: los kioscos o módulos móviles que de forma itinerante atienden los Trámites y Servicios que brinda el PENSIONISSSTE;
+
+XLIX. Reinversión del Remanente de Operación: al que se refiere el artículo 105, fracción VI de la Ley;
+
+L. Régimen de Inversión: el previsto en los prospectos de información elaborados conforme a lo establecido en las disposiciones de carácter general en materia financiera de los Sistemas de Ahorro para el Retiro, así como al determinado en las disposiciones de carácter general que establecen el régimen de inversión al que deben sujetarse las Sociedades de Inversión;
+
+LI. Reservas: las Provisiones que se constituyen para asegurar la operación del PENSIONISSSTE y el cumplimiento de los demás fines y obligaciones del mismo, conforme al Programa Anual de Reservas que apruebe la Junta a propuesta de la Comisión Ejecutiva;
+
+LII. Reserva Administrativa: la Provisión que se constituye conforme al programa anual de reservas, a fin de contribuir en el soporte del presupuesto autorizado y amortiguar las presiones de gasto a lo largo del ejercicio, en los términos señalados en la normatividad respectiva;
+
+LIII. Reserva Especial: la Provisión que se constituye de acuerdo con el programa anual de reservas, a fin de cubrir las minusvalías que se presenten en las Sociedades de Inversión Básica y Adicional, conforme a lo previsto en la Ley del SAR;
+
+LIV. Reserva Operativa: la Provisión cuyo objeto es asegurar la operación del PENSIONISSSTE y el cumplimiento de sus fines y obligaciones, conforme al programa anual de reservas, en los términos señalados en la normatividad respectiva;
+
+LV. Riesgos Financieros: se refiere, entre otros, a los siguientes: riesgo de mercado, riesgo de crédito, riesgo de liquidez, riesgo de contraparte, riesgo soberano, riesgo de concentración y riesgo corporativo, conforme lo establecido en las disposiciones de carácter general en materia financiera emitidas por la CONSAR;
+
+LVI. Riesgo Legal: la pérdida potencial por el incumplimiento de las disposiciones legales aplicables, la emisión de resoluciones administrativas o judiciales desfavorables, así como la aplicación de sanciones con relación a las operaciones que el PENSIONISSSTE lleve a cabo;
+
+LVII. Riesgo Operativo: la posibilidad de ocurrencia de pérdidas por deficiencias, fallas, errores u omisiones en los procesos operativos, en la tecnología de información, en los controles internos, en el procesamiento de información, de los recursos humanos involucrados, o cualquier otro evento adverso relacionado con la operación de las Cuentas, y las operaciones de las Sociedades de Inversión Básicas y Adicionales a los que se encuentra expuesto el PENSIONISSSTE;
+
+LVIII. SAR-ISSSTE 92: las Aportaciones realizadas bajo el Sistema de Ahorro para el Retiro vigente a partir del primer bimestre de 1992 y hasta el 31 de diciembre de 2007;
+
+LIX. Servicios: aquellos que determina el PENSIONISSSTE a favor de sus Cuentahabientes, los cuales carecen de impacto en la Base de Datos Nacional del SAR, entre ellos: orientación, consultas, reclamaciones, seguimiento a Trámites, designación de beneficiarios, emisión de saldos y Estado de Cuenta, los cuales se brindan con calidad, calidez y con respeto, en todo momento, a los derechos humanos;
+
+LX. Sistema Central Operativo: el sistema informático que opera el PENSIONISSSTE para la administración de las Cuentas que tiene registradas;
+
+LXI. Sistemas de Ahorro para el Retiro: aquéllos regulados por las leyes de seguridad social que prevén que las Cuotas y Aportaciones de los trabajadores, patrones y del Estado sean manejadas a través de cuentas individuales propiedad de los trabajadores, con el fin de acumular saldos, mismos que se aplican para fines de previsión social o para la obtención de pensiones o como complemento de éstas;
+
+LXII. Sistema de Gestión Comercial: el sistema informático implementado por la Subdirección Comercial del PENSIONISSSTE, mediante el cual se lleva un control en tiempo real del estado que guardan las solicitudes de registro y traspaso ingresadas por los agentes promotores, lo que a su vez permite supervisar las metas que en materia de captación se establecen dentro del Plan Integral de Comercialización;
+
+LXIII. Sociedades de Inversión Adicionales: las sociedades de inversión especializadas de fondos para el retiro adicionales que tengan por objeto la inversión exclusiva de aportaciones voluntarias, de aportaciones complementarias de retiro, de aportaciones de ahorro a largo plazo, o de fondos de previsión social, administradas por el PENSIONISSSTE;
+
+LXIV. Sociedades de Inversión Básicas: las sociedades de inversión especializadas de fondos para el retiro básicas administradas por el PENSIONISSSTE;
+
+LXV. Trámites: aquellos que realiza el titular de una Cuenta y en su caso su beneficiario, los cuales impactan la Base de Datos Nacional del SAR derivado de retiros, unificaciones, separaciones y modificaciones, los cuales se encuentran determinados por la normatividad aplicable y que el PENSIONISSSTE brinda con calidad, calidez y con respeto, en todo momento, a los derechos humanos;
+
+LXVI. Unidades Administrativas: las señaladas en el artículo 5 del Estatuto Orgánico;
+
+LXVII. Unidades Administrativas Centrales: las Unidades Administrativas del Instituto, señaladas en la fracción II del artículo 5 del Estatuto Orgánico;
+
+LXVIII. Unidades Administrativas Desconcentradas: las Unidades Administrativas del Instituto, señaladas en la fracción III del artículo 5 del Estatuto Orgánico;
+
+LXIX. Unidades de Inversión: las obligaciones de pago denominadas en una Unidad de Cuenta, de sumas en moneda nacional convenidas en las operaciones financieras que celebren los correspondientes intermediarios, los contenidos en títulos de crédito, salvo cheques, y en general, los pactados en contratos mercantiles o en otros actos de comercio, así como aquellas que determine el Banco de México, y cuyo valor en pesos, para cada día se publica periódicamente por el Banco de México en el Diario Oficial de la Federación;
+
+LXX. Valor en Riesgo: la minusvalía que pueden tener los activos netos de una Sociedad de Inversión Básicas y Adicionales, dado un cierto nivel de confianza, en un periodo determinado; y
+
+LXXI. Vocal Ejecutivo: el Vocal Ejecutivo del PENSIONISSSTE.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 5.
 
-Para los efectos de interpretación de las disposiciones del presente Reglamento, la Unidad Administrativa Central competente será la Dirección Jurídica del Instituto en los términos del Estatuto Orgánico.
+El PENSIONISSSTE cumple sus facultades y conduce sus actividades en forma programada, con base en las políticas, lineamientos y demás disposiciones normativas que, para alcanzar los objetivos institucionales, determinen los Órganos de Gobierno, Órganos Colegiados y el Vocal Ejecutivo, en el ámbito de sus respectivas competencias.
+
+La Dirección Jurídica del Instituto es responsable de la interpretación de las disposiciones de este Reglamento, en términos del artículo 57, fracción XVI del Estatuto Orgánico.
+
+Los servidores públicos del PENSIONISSSTE deben responder de manera oportuna, fundada y motivada las solicitudes ciudadanas en cumplimiento de lo establecido en el artículo octavo de la Constitución Política de los Estados Unidos Mexicanos, las que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y la que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 6.
 
-El PENSIONISSSTE, además de las facultades previstas en el Estatuto Orgánico, deberá cumplir con lo siguiente:
+El PENSIONISSSTE tiene las facultades previstas en la Ley y las siguientes funciones:
 
-I. Planear, programar, organizar, controlar y administrar los recursos humanos, materiales y financieros que le correspondan, ejerciendo las partidas que le sean asignadas o autorizadas en su presupuesto anual;
+I. Planear, programar, organizar, controlar y administrar los recursos humanos, materiales y financieros que le correspondan, para lo cual ejercerá las partidas que le sean asignadas o autorizadas en su presupuesto anual;
 
-II. Constituir y operar las Sociedades de Inversión que autorice la Junta a propuesta de la Comisión Ejecutiva;
+II. Constituir y operar las Sociedades de Inversión Básicas y Adicionales que autorice la Junta a propuesta de la Comisión Ejecutiva;
 
-III. Constituir y mantener las Reservas Administrativa y Operativa, así como las Reservas que resulten necesarias para asegurar la operación del PENSIONISSSTE y el cumplimiento de los demás fines y obligaciones del mismo, con cargo a los ingresos que, en su caso, reciba para su constitución e inicio de operaciones, así como a los provenientes de las comisiones que se cobren una vez cubiertos los gastos de su administración y operación;
+III. Constituir y mantener las Reservas Administrativa y Operativa, así como las Reservas que resulten necesarias para asegurar la operación del PENSIONISSSTE y el cumplimiento de los demás fines y obligaciones del mismo, con cargo a los ingresos que, en su caso, reciba para su constitución e inicio de operaciones, así como a los provenientes de las comisiones que se cobren una vez cubiertos los gastos de su administración y operación, de conformidad con la normatividad respectiva;
 
 IV. Constituir y mantener las Reservas establecidas en los términos de la normatividad aplicable a los Sistemas de Ahorro para el Retiro;
 
-V. Destinar las comisiones que cobre para cubrir los gastos de su administración y operación que sean inherentes a sus funciones. Estas comisiones deberán establecerse en términos de lo previsto en la fracción VI del artículo 105 de la Ley. La Junta podrá ordenar que se reinvierta el remanente de operación en las Cuentas Individuales administradas por el PENSIONISSSTE, favoreciendo a los Trabajadores de menores ingresos, una vez satisfechos sus costos de administración y operación, necesidades de inversión de corto, mediano y largo plazo, la constitución y mantenimiento de Reservas a que se refiere la fracción III del presente artículo;
+V. Destinar las comisiones que cobre para cubrir los gastos de su administración y operación inherentes a sus funciones. Estas comisiones deberán establecerse en términos de lo previsto en la Ley y en la Ley del SAR. La Junta puede ordenar la Reinversión del Remanente de Operación en las Cuentas administradas por el PENSIONISSSTE, la que favorece a los Cuentahabientes de menores ingresos, una vez satisfechos sus costos de administración y operación, necesidades de inversión de corto, mediano y largo plazo, la constitución y mantenimiento de Reservas;
 
-VI. Celebrar los convenios necesarios para ofrecer servicios de ventanilla, difusión, orientación, información y atención a los Trabajadores de acuerdo con los planes y programas de atención al público y comercialización del PENSIONISSSTE;
+VI. Coordinar, en su caso, el cumplimiento del acuerdo de la Junta para la Reinversión del Remanente de Operación en las Cuentas administradas por el PENSIONISSSTE;
 
-VII. Establecer las oficinas, módulos de atención y representaciones del PENSIONISSSTE en las Entidades Federativas que determine el Vocal Ejecutivo, conforme a la estrategia que al efecto apruebe la Comisión Ejecutiva, para brindar los servicios al público;
+VII. Celebrar los convenios necesarios para ofrecer los Servicios y Trámites a los Cuentahabientes de acuerdo con los planes y programas de atención al público y comercialización del PENSIONISSSTE;
 
-VIII. Llevar el registro, individualización e inversión de los recursos de fondos de previsión social, de conformidad con lo previsto en las disposiciones aplicables, y
+VIII. Establecer las oficinas, módulos de atención y representaciones del PENSIONISSSTE en las Entidades Federativas que determine el Vocal Ejecutivo, conforme a la estrategia que al efecto apruebe la Comisión Ejecutiva, para brindar los Servicios y Trámites a sus Cuentahabientes;
 
-IX. Realizar los actos jurídicos y administrativos que sean necesarios para el cumplimiento de sus funciones.
+IX. Llevar el registro, individualización e inversión de los recursos de fondos de previsión social, de conformidad con lo previsto en las disposiciones aplicables; y
+
+X. Realizar los actos jurídicos y administrativos que sean necesarios para el cumplimiento de sus funciones.
 
 ### CAPITULO SEGUNDO. DE LA COMISION EJECUTIVA
 
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+
 ###### Artículo 7.
 
-Las sesiones de la Comisión Ejecutiva serán ordinarias o extraordinarias; las ordinarias deberán celebrarse cada dos meses, en caso necesario se celebrarán sesiones extraordinarias por acuerdo del Presidente de la Comisión Ejecutiva, del Vocal Ejecutivo, del Contralor Normativo o a petición de cuando menos tres de sus demás miembros que provengan de las diferentes organizaciones de Trabajadores, las Dependencias o el Banco de México.
+Las sesiones de la Comisión Ejecutiva son ordinarias o extraordinarias: las ordinarias deben celebrarse por lo menos cada dos meses; las extraordinarias, de ser necesario, se celebran por acuerdo del Presidente de la Comisión Ejecutiva, del Vocal Ejecutivo, del Contralor Normativo, o a petición de cuando menos tres de sus demás miembros que provengan de las diferentes organizaciones de trabajadores, las Dependencias o el Banco de México.
 
-Las convocatorias para las sesiones, deberán hacerse a los miembros de la Comisión Ejecutiva, en los plazos que al efecto ésta apruebe a propuesta del Vocal Ejecutivo. En el caso de sesiones extraordinarias, las convocatorias deberán hacerse al menos con un día hábil de anticipación a la fecha señalada para la misma.
+Las convocatorias para las sesiones deben notificarse a los miembros de la Comisión Ejecutiva en los plazos que al efecto ésta apruebe a propuesta del Vocal Ejecutivo. En el caso de sesiones extraordinarias, las convocatorias deben notificarse al menos con un día hábil de anticipación a la fecha señalada para la misma.
 
-A las sesiones de la Comisión Ejecutiva podrán asistir como invitados, con voz pero sin voto, servidores públicos del PENSIONISSSTE de las Dependencias y Entidades, así como aquellas personas del sector público o privado de las que se requiera su asistencia, debido a la naturaleza o relevancia de los asuntos a tratar.
+A las sesiones de la Comisión Ejecutiva pueden asistir como invitados, con voz pero sin voto, servidores públicos del Instituto, del PENSIONISSSTE, de las Dependencias y Entidades, así como aquellas personas del sector público o privado de las que se requiera su asistencia, debido a la naturaleza o relevancia de los asuntos a tratar.
 
-La designación de los miembros de la Comisión Ejecutiva se hará del conocimiento de los miembros de la misma, a través del Secretario Técnico, quien se auxiliará de un Prosecretario para el cumplimiento de sus funciones.
+La designación de los miembros de la Comisión Ejecutiva se hace del conocimiento de los Vocales a través del Secretario Técnico, quien se auxilia de un Prosecretario para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 8.
 
-Corresponde a la Comisión Ejecutiva el ejercicio de las funciones siguientes:
+La Comisión Ejecutiva tiene las atribuciones y funciones previstas en la Ley, el Estatuto Orgánico y las siguientes:
 
 I. Aprobar:
 
 a) El Programa de Autorregulación del PENSIONISSSTE y sus modificaciones conforme a la Ley del SAR;
 
-b) El modelo de contrato de distribución y recompra de acciones entre el PENSIONISSSTE y las Sociedades de Inversión, así como cualquier otro contrato que celebre con Entidades con las que tenga vínculos patrimoniales;
+b) El modelo de contrato de distribución y recompra de acciones entre el PENSIONISSSTE y las Sociedades de Inversión Básicas y Adicionales, así como cualquier otro contrato que celebre con entidades con las que tenga vínculos patrimoniales;
 
-c) El modelo de contrato de administración de fondos para el retiro que en su caso se celebre entre el PENSIONISSSTE y los Trabajadores;
+c) El modelo de contrato de administración de fondos para el retiro que en su caso se celebre entre el PENSIONISSSTE y los Cuentahabientes;
 
-d) Los prospectos de información y folletos explicativos de las Sociedades de Inversión;
+d) Los Prospectos de Información y Folletos Explicativos de las Sociedades de Inversión Básicas y Adicionales;
 
-e) El Manual de Inversiones;
+e) El Manual de Inversiones; y,
 
-f) La estructura de comisiones del PENSIONISSSTE, y
+f) La estructura de comisiones del PENSIONISSSTE por la administración de las Cuentas, así como por los servicios adicionales que ofrezca.
 
-g) La estrategia del PENSIONISSSTE para establecer las oficinas, centros de operación y módulos de atención y servicio al público, y representación en las Entidades Federativas.
+II. Nombrar y remover al Secretario Técnico en atención a la propuesta que para tal efecto formule el Vocal Ejecutivo;
 
-II. Nombrar y remover al Secretario Técnico atendiendo a la propuesta que para tal efecto formule el Vocal Ejecutivo;
+III. Recibir del Vocal Ejecutivo el informe bimestral sobre la situación detallada de las Reservas y, en su caso, sobre la aplicación de sus recursos para hacerlo del conocimiento de la Junta;
 
-III. Recibir del Vocal Ejecutivo el informe bimestral sobre la situación detallada de la Reserva Operativa y, en su caso, sobre la aplicación de sus recursos, para hacerlo del conocimiento de la Junta;
+IV. Vigilar la creación, aplicación, mantenimiento y reconstitución, si fuera necesario, de las Reservas que, en su caso, deban constituirse de acuerdo con el Programa de Reservas y los Lineamientos autorizados por la Junta;
 
-IV. Proponer a la Junta la estrategia anual de inversión de los recursos cuya administración se encuentre a cargo del PENSIONISSSTE, observando para su elaboración lo establecido en el artículo 109 de la Ley conforme a la propuesta enviada por el Vocal Ejecutivo en los términos del artículo 113, fracción VII de la Ley;
+V. Proponer a la Junta la estrategia anual de inversión de los recursos cuya administración se encuentre a cargo del PENSIONISSSTE, debe observar en su elaboración, lo establecido en el artículo 109 de la Ley conforme a la propuesta enviada por el Vocal Ejecutivo en los términos del artículo 113, fracción VII de la Ley;
 
-V. Proponer a la Junta el programa de Reservas para su examen y, en su caso aprobación, conforme a lo previsto en el artículo 214, fracción XVII, inciso e de la Ley;
+VI. Proponer a la Junta el programa de Reservas para su examen y, en su caso aprobación, conforme a lo previsto en el artículo 214, fracción XVII, inciso e) de la Ley;
 
-VI. Vigilar la constitución y mantenimiento de las Reservas Administrativa y Operativa y de las demás Reservas que, en su caso, deban constituirse de acuerdo con el programa que al efecto apruebe la Junta en términos de lo previsto en el artículo 214, fracción XVII, inciso e) de la Ley;
+VII. Recibir los informes de los Consejeros Técnicos o de los Independientes de las Sociedades de Inversión Básicas y Adicionales, así como los dictámenes de los Auditores Externos; y,
 
-VII. Recibir los informes del Contralor Normativo y de los Comisarios de cada Sociedad de Inversión, así como los dictámenes de los Auditores Externos, y
+VIII. Realizar todos aquellos actos y operaciones autorizados por la Ley y los que fuesen necesarios para la mejor administración y dirección del PENSIONISSSTE.
 
-VIII. Realizar las demás funciones inherentes al cargo que le señalen los Organo (sic) de Gobierno del Instituto o sean determinadas por la normatividad aplicable.
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 9.
 
-El Secretario Técnico de la Comisión Ejecutiva tendrá las funciones siguientes:
+El Secretario Técnico de la Comisión Ejecutiva tiene las funciones siguientes:
 
-I. Asistir a las sesiones de la Comisión Ejecutiva y de los Organos Colegiados;
+I. Asistir a las sesiones de la Comisión Ejecutiva y de los Órganos Colegiados;
 
-II. Elaborar, recopilar y suscribir la convocatoria, el orden del día y la carpeta que contenga la información y documentación necesarias para el conocimiento de los asuntos a tratar en la sesión correspondiente, así como enviarla a los miembros de la Comisión Ejecutiva o de los Organos Colegiados, según corresponda;
+II. Elaborar, recopilar y suscribir la convocatoria, el orden del día y la carpeta que contenga la información y documentación necesarias para el conocimiento de los asuntos a tratar en la sesión correspondiente, así como enviarla a los miembros de la Comisión Ejecutiva o de los Órganos Colegiados, según corresponda;
 
-III. Verificar, en cada sesión de la Comisión Ejecutiva que se cuente con el quórum de asistencia y votación requeridos, de acuerdo con lo previsto en la Ley y demás normatividad aplicable;
+III. Verificar, en cada sesión de la Comisión Ejecutiva que se cuente con el quórum de asistencia y votación requerido, de acuerdo con lo previsto en la Ley y demás normatividad aplicable;
 
 IV. Llevar la relación de los asistentes a las sesiones de la Comisión Ejecutiva;
 
-V. Levantar las actas de las sesiones de la Comisión Ejecutiva, de los Organos Colegiados que le corresponda, y cuando así se establezca en los estatutos sociales correspondientes, las relativas a las sesiones de los consejos de administración de las Sociedades de Inversión;
+V. Levantar las actas de las sesiones de la Comisión Ejecutiva, de los Órganos Colegiados que le corresponda, y cuando así se establezca en los estatutos sociales correspondientes, las relativas a las sesiones de los Consejos de Administración de las Sociedades de Inversión Básicas y, en su caso, Adicionales;
 
-VI. Desempeñar las funciones que le confieran los estatutos sociales de las Sociedades de Inversión;
+VI. Desempeñar las funciones que le confieran los estatutos sociales de las Sociedades de Inversión Básicas y, en su caso, Adicionales;
 
-VII. Registrar las actas de las sesiones de la Comisión Ejecutiva, de las Asambleas de Accionistas y de los Consejos de Administración de las Sociedades de Inversión, las que deberán ser firmadas por lo menos por el Presidente, el Secretario Técnico o el Prosecretario, así como por el Titular del Organo Interno de Control y los Comisarios cuando corresponda, asimismo en caso procedente la protocolización de las actas;
+VII. Registrar las actas de las sesiones de la Comisión Ejecutiva, de las Asambleas de Accionistas y de los Consejos de Administración de las Sociedades de Inversión Básicas o Adicionales, las que deberán ser firmadas por lo menos por el Presidente, el Secretario Técnico o el Prosecretario y según corresponda por el Titular del Órgano Interno de Control y los Comisarios y de ser procedente, la protocolización de las actas;
 
-VIII. Autorizar y expedir la emisión de copias certificadas de las actas que soliciten los miembros de la Comisión Ejecutiva, de los Organos Colegiados y de las Asambleas de Accionistas o de los Consejos de Administración de las Sociedades de Inversión;
+VIII. Autorizar y expedir la emisión de copias certificadas de las actas que soliciten los miembros de la Comisión Ejecutiva, de los Órganos Colegiados y de las Asambleas de Accionistas de las Sociedades de Inversión Básicas o Adicionales, así como los subdirectores y el contralor normativo adscritos al PENSIONISSSTE;
 
-IX. Integrar la documentación que contenga el análisis de los asuntos que se deban someter a la consideración de la Comisión Ejecutiva o de Organos Colegiados, de ser procedente, y verificar su presentación en términos de la normatividad aplicable;
+IX. Integrar la documentación que contenga el análisis de los asuntos que se deban someter a la consideración de la Comisión Ejecutiva, de los Órganos Colegiados o de la Asamblea de Accionistas, de ser procedente, y verificar su presentación en términos de la normatividad aplicable;
 
-X. Informar de los acuerdos tomados en las sesiones de la Comisión Ejecutiva y de los Organos Colegiados según corresponda, a las áreas del PENSIONISSSTE competentes para su seguimiento y ejecución, cuando así se haya aprobado previamente;
+X. Informar de los acuerdos tomados en las sesiones de la Comisión Ejecutiva, de los Órganos Colegiados y de la Asamblea de Accionistas según corresponda, a las áreas del PENSIONISSSTE competentes para su seguimiento y ejecución, cuando así se haya aprobado previamente;
 
-XI. Integrar y mantener actualizado el registro de los acuerdos que emitan la Comisión Ejecutiva o los Organos Colegiados que le corresponda y el seguimiento del cumplimiento de los mismos, y
+XI. Integrar y mantener actualizado el registro de los acuerdos que emitan la Comisión Ejecutiva, los Órganos Colegiados o la Asamblea de Accionistas que le corresponda y el seguimiento del cumplimiento de los mismos; y,
 
 XII. Realizar las demás funciones inherentes al cargo que le señale la Comisión Ejecutiva o sean determinadas por la normatividad aplicable.
 
@@ -3674,3 +3756,9 @@ México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la 
 D.O.F. 1 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MAYO DE 2015.
+
+PRIMERO. Esta reforma al Reglamento Orgánico del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a esta Reforma.
