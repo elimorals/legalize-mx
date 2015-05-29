@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-notariado-para-el-estado-de-baja-california-22116"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2004-04-02"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 14 de septiembre de 2001.
 
@@ -45,9 +45,11 @@ LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
 La función Notarial en el Estado de Baja California es de orden público. Estará a cargo del Ejecutivo del Estado y por delegación de este se encomienda a profesionales del derecho en virtud de la patente que para tal efecto les otorgue el propio ejecutivo, a fin de que la desempeñen en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 2.
 
-La vigilancia del cumplimiento de esta Ley corresponde al Ejecutivo del Estado, quien la ejercerá por conducto del Secretario General de Gobierno y del Director del Archivo General de Notarías; asimismo, corresponde al Consejo de Notarios.
+La vigilancia del cumplimiento de esta Ley corresponde al Ejecutivo del Estado, quien la ejercerá por conducto del Secretario General de Gobierno, del Subsecretario Jurídico del Estado y del Director del Archivo General de Notarías, quienes estarán dotados de fe pública para todo lo relacionado con el cumplimiento de esta ley.
 
 ###### ARTICULO 3.
 
@@ -66,6 +68,10 @@ Asimismo, los Notarios estarán obligados a prestar sus servicios en los casos y
 ###### ARTICULO 6.
 
 El Ejecutivo del Estado, por conducto del Archivo General de Notarías, concentrará la información estadística de las operaciones y actos notariales, que le permitan regular y fijar, conforme a esta Ley, las medidas administrativas que se requieran para la eficaz prestación del servicio notarial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2015)</small>
+
+Para tal efecto, los notarios tendrán la obligación de rendir por escrito dentro del mes de enero de cada año, un informe de los actos jurídicos celebrados ante ellos y hechos jurídicos de los cuales den fe.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION DEL NOTARIADO
 
@@ -129,7 +135,7 @@ VII.- Patrocinar a los interesados en los procedimientos judiciales y administra
 
 VIII.- Representar a los interesados en el registro de sus escrituras, a solicitud de ellos.
 
-Queda prohibido a las Notarios permitir que el personal a su cargo ejerza como abogado postulante en el domicilio de la Notaría a su cargo.
+Queda prohibido a los Notarios permitir que el personal a su cargo ejerza como abogado postulante en el domicilio de la Notaría a su cargo.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
 
@@ -181,6 +187,10 @@ Igual responsabilidad tendrán los que presten sus servicios en las Notarías de
 
 En el Estado de Baja California habrá el número de Notarías que el servicio de la población amerite, a razón de un Notario por cada cuarenta mil habitantes, o fracción de ellos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2015)</small>
+
+Cuando por la demanda de la población, se requiera la creación de nuevas notarías, el Gobernador del Estado podrá otorgar directamente la Patente de Notario Titular, eligiendo de entre aquellos con patente de aspirante al ejercicio del notariado en el Estado debidamente registrada conforme a la presente ley. No podrá otorgarse por esta vía, patente de notario titular a quien se le hubieren dispensado las prácticas notariales.
+
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 18.
@@ -207,23 +217,21 @@ Si por cualquier circunstancia, en alguno de los municipios del Estado, haya o l
 
 #### SECCION PRIMERA. DE LA PRACTICA NOTARIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 23.
 
-Para iniciar la práctica notarial a que se refiere este capítulo, bastará que el interesado presente solicitud al Consejo de Notarios, acompañando su currículum de actividad profesional y personal y justificando que reúne los requisitos a que se refieren las fracciones I, II, III, VII, VIII y IX del artículo 26 de esta Ley.
+Para iniciar la práctica notarial a que se refiere este capítulo, bastará que el interesado presente solicitud al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, acompañando su currículum de actividad profesional y personal y justificando que reúne los requisitos a que se refieren las fracciones I, II, III, VII, VIII y IX del artículo 26 de esta Ley.
 
-El Consejo de Notarios podrá, si lo estima conveniente, verificar los datos del currículum y cerciorarse por cualquier medio de la exactitud de los mismos y, en su siguiente sesión resolverá sobre la solicitud.
+Recibida la solicitud, y si se estima conveniente, se procederá a verificar los datos del currículum y cerciorarse por cualquier medio de la exactitud de los mismos, debiendo resolver sobre la misma.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+De encontrarse satisfechos los requisitos antes indicados, el titular de la Secretaría General de Gobierno autorizará el inicio de la práctica notarial solicitada, pudiendo delegar dicha facultad en el Subsecretario Jurídico, señalando al Notario bajo cuya dirección se llevará a cabo dicha práctica. El reglamento de la ley preverá el máximo de practicantes por notaría.
 
-De encontrarse satisfechos los requisitos antes indicados, el Consejo de Notarios, señalará al Notario bajo cuya dirección se llevará a cabo la práctica solicitada.
+Si se resuelve no aprobar la solicitud, se notificará al solicitante, dentro de los 15 días siguientes a la fecha en que así se haya resuelto, para que el interesado, si así lo desea, presente solicitud de reconsideración directamente ante el Ejecutivo del Estado.
 
-Si el Consejo de Notarios resuelve no aprobar la solicitud, lo notificará al solicitante, dentro de los 15 días siguientes a la sesión que así lo haya resuelto, para que el interesado, si así lo desea, presente solicitud de reconsideración ante el Ejecutivo del Estado.
+Si el solicitante considera injustificada la causa de la negativa y acredita ante el Ejecutivo del Estado que cumple con los requisitos de las fracciones I, II, III, VII, VIII y IX del artículo 26, el Ejecutivo del Estado podrá autorizar el inicio de la práctica notarial, bajo la supervisión del Notario que designe el Ejecutivo del Estado.
 
-Si el solicitante justifica que cumple con los requisitos de las Fracciones I, II, III, VII, VIII y IX del artículo 26 y considera injustificada la causa de la negativa, El Ejecutivo del Estado podrá autorizar el inicio de la práctica notarial, bajo la supervisión del Notario que designe el Ejecutivo del Estado.
-
-Concedida la autorización del Consejo o del Ejecutivo, el interesado comenzará la práctica, sujetándose a las disposiciones de esta Ley. De su inicio y terminación, el Notario bajo cuya dirección se realice, avisará al Ejecutivo del Estado y al Consejo de Notarios.
+Concedida la autorización, el interesado comenzará la práctica sujetándose a las disposiciones de esta Ley. De su inicio y terminación, el Notario bajo cuya dirección se realice, avisará a la Secretaría General de Gobierno del Estado.
 
 ###### ARTICULO 24.
 
@@ -255,15 +263,21 @@ k).- Condominios
 
 l).- Liquidación de Impuestos
 
-II.- El practicante, presentará al Consejo de Notarios una memoria de los trabajos en que haya intervenido, aprobada por el Notario ante quien realizó la práctica; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-III.- Durante su práctica el candidato deberá realizar tres monografías sobre temas que le asigne el Notario ante quien se esté llevando la práctica. Dichas monografías no podrán ser inferiores a diez cuartillas. Al terminar la práctica y antes de la evaluación a que se refiere el artículo siguiente, se presentarán dichas monografías al Consejo de Notarios.
+II.- El practicante presentará ante la Secretaría General de Gobierno una memoria de los trabajos en que haya intervenido; y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+III.- Durante su práctica, el candidato deberá realizar tres monografías sobre temas que le asigne el Notario ante quien se esté llevando la práctica. Dichas monografías no podrán ser inferiores a diez cuartillas. Al terminar la práctica y antes de la evaluación a que se refiere el artículo siguiente, se presentarán dichas monografías y memoria ante la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 25.
 
-El Consejo de Notarios, dentro de los 15 quince días posteriores a la recepción de la memoria y de las monografías establecidas anteriormente, designará a dos Notarios para que realicen una evaluación preliminar respecto a la capacitación del practicante; en caso de que el resultado de la evaluación no sea satisfactorio, se podrá recomendar al practicante que amplíe su práctica por seis meses adicionales.
+Dentro de los 15 quince días posteriores a la recepción de la memoria y de las monografías establecidas anteriormente, se realizará por la Secretaría General de Gobierno evaluación preliminar respecto a la capacitación del practicante. En caso de que el resultado de la evaluación no sea aprobatorio, se podrá recomendar al practicante que amplíe su práctica por seis meses adicionales.
 
-Los Notarios se abstendrán de expedir constancia de terminación de prácticas si no cuentan con el resultado aprobatorio de la evaluación a que se refiere el punto anterior.
+Por ningún motivo, se podrá expedir constancia de terminación de prácticas notariales, si el resultado de la evaluación a que se refiere el párrafo anterior no resulta aprobatorio.
 
 #### SECCION SEGUNDA. DE LOS ASPIRANTES AL NOTARIADO
 
@@ -309,7 +323,9 @@ II.- Los requisitos exigidos por la fracción II, con la presentación del certi
 
 III.- Por lo que hace a los requisitos exigidos por la fracción III, con las copias certificadas de la información testimonial a que se refiere el artículo siguiente; para el caso de quien hubiese litigado, deberá acompañar la opinión de un colegio de abogados del Estado;
 
-IV.- La realización de las prácticas notariales, con la constancia que otorgue el propio Notario al practicante de haber efectuado las prácticas en los términos de esta ley;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+IV.- La realización de las prácticas notariales, con la constancia que se otorgue por la Secretaría General de Gobierno al practicante, de haber efectuado éste las prácticas en los términos de esta ley;
 
 V.- El requisito señalado en la fracción VI, con la copia certificada del acta de examen, expedida por el Secretario de Gobierno;
 
@@ -317,11 +333,17 @@ VI.- El requisito señalado en la fracción VII, con certificado de dos médicos
 
 VII.- La residencia a que se refiere la fracción VIII, con copia de su inscripción en el Registro federal de Contribuyentes o cualquier otro documento idóneo a juicio del Ejecutivo; y
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-VIII.- El requisito señalado en la fracción IX, con certificado de antecedentes no penales. El Gobernado del Estado podrá dispensar el cumplimiento del requisito a que se refiere la fracción cuarta del artículo anterior, cuando por la creación de nuevas notarías en virtud de las demandas de la población, lo considere necesario.
+VIII.- El requisito señalado en la fracción IX, con certificado de no antecedentes penales.
 
-En el caso, será responsabilidad del Gobernador del Estado designar a los profesionistas del derecho que estime convenientes para que presenten su examen para obtener la Patente de Aspirante a Notariado, siempre y cuando cumplan con los demás requisitos a que se refiere el Artículo 26 de esta Ley. Para ello, deberá tomar en cuenta la reputación que tenga ganada en profesionista, así como la experiencia que demuestre en materia notarial y en especialidades afines.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2015)</small>
+
+El Gobernador del Estado podrá dispensar el cumplimiento del requisito a que se refiere la fracción IV del artículo anterior, cuando las necesidades de la función notarial lo requieran.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE MAYO DE 2015)</small>
+
+En el caso, será responsabilidad del Gobernador del Estado designar a los profesionistas del derecho que estime convenientes para que presenten su examen para obtener la Patente de Aspirante a Notariado, siempre y cuando cumplan con los demás requisitos a que se refiere el Artículo 26 de esta Ley. Para ello, deberá tomar en cuenta la reputación que tenga ganada el profesionista, así como la experiencia que demuestre en materia notarial y en especialidades afines.
 
 ###### ARTICULO 28.
 
@@ -331,13 +353,25 @@ La información testimonial de dos personas idóneas, que se lleven a cabo para 
 
 El que pretenda examen de aspirante, deberá presentar su solicitud al Ejecutivo del Estado, acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes. Hecho por el Ejecutivo del Estado el estudio de la documentación del solicitante y aprobada que fuere, se fijará día y hora para que tenga lugar el examen.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 30.
 
-El jurado de examen se integrará con tres miembros: el Ejecutivo del Estado, o en su defecto el Secretario de Gobierno o el representante que el primero designe; un Notario designado por el Consejo de Notarios y un Magistrado nombrado por el Pleno del Tribunal Superior de Justicia del Estado. Presidirá el jurado el Ejecutivo o el representante que nombre y fungirá como Secretario el Notario que designe el Consejo de Notarios.
+El jurado de examen para aspirante a notario, se integrará por cinco sinodales, los cuales serán:
+
+I.- Dos representantes del Ejecutivo del Estado designados por el Secretario General de Gobierno, quienes fungirán como Presidente y Secretario;
+
+II.- Dos notarios, de los cuales uno será designado por el Secretario General de Gobierno, o en su caso por el Subsecretario Jurídico del Estado y el otro por el Consejo de Notarios; y
+
+III.- Un Magistrado de Sala Civil, designado por el Pleno del Tribunal Superior de Justicia del Estado.
+
+El Jurado de examen podrá funcionar válidamente con la asistencia de por lo menos cuatro de sus integrantes, siendo sus funciones de carácter honorífico.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 31.
 
-El examen consistirá de dos partes: una prueba práctica que será la redacción de un instrumento cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados por el Consejo de Notarios; al concluir aquella, una prueba teórica que será oral y pública, en la que cada uno de los miembros del jurado podrá hacer al sustentante las preguntas o interpelaciones que deseé, sin necesidad de que se relacionen sobre el caso jurídico a que se refiere el tema que le haya correspondido.
+El examen consistirá de dos partes: una prueba práctica que será la redacción de un instrumento cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados, diez por la Dirección del Archivo General de Notarías y diez por el Consejo de Notarios; al concluir aquella, una prueba teórica que será oral y pública, en la que cada uno de los miembros del jurado podrá hacer al sustentante las preguntas o interpelaciones que deseé, sin necesidad de que se relacionen sobre el caso jurídico a que se refiere el tema que le haya correspondido.
 
 ###### ARTICULO 32.
 
@@ -399,9 +433,17 @@ II.- Acreditar no tener impedimento alguno de los señalados en este capítulo, 
 
 III.- Existir vacante alguna Notaría;
 
-IV.- Haber aprobado y triunfado en el examen de oposición que al efecto se celebre en la forma prevista por esta Ley; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-V.- Tener una residencia efectiva en el Estado de Baja California por un término no menor de 5 años anteriores a la solicitud de examen.
+IV.- Tener una residencia efectiva en el Estado por un término no menor de cinco años;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+V.- Contar con experiencia profesional en el ámbito registral o notarial, tratándose de otorgamiento directo de patente por parte del Ejecutivo, conforme a lo dispuesto en el segundo párrafo del artículo 17 de esta ley; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2015)</small>
+
+VI.- Haber aprobado y triunfado en el examen de oposición que al efecto se celebre en la forma y en los supuestos previstos por esta ley.
 
 ###### ARTICULO 45.
 
@@ -415,13 +457,17 @@ Cuando estuviere vacante una Notaría, el Ejecutivo del Estado publicará un avi
 
 El Ejecutivo del Estado señalará el día y la hora para la celebración de los exámenes de oposición, dándolo a conocer a los candidatos inscritos, cuando menos con anticipación de ocho días, por medio de comunicación certificada con acuse de recibo dirigida al domicilio indicado en la petición, indicando la fecha y hora correspondiente a su examen.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 48.
 
-El Jurado de examen se compondrá de cinco miembros: el Ejecutivo del Estado o en su defecto el Secretario de Gobierno o la persona que el primero designe. Dos Notarios, designados por el Consejo de Notarios, y dos Magistrados que serán designados por el pleno del Tribunal Superior de Justicia del Estado. Fungirán como Presidente, el Ejecutivo del Estado o quien lo sustituya y como Secretario el más antiguo de los Notarios que integren el Jurado.
+El Jurado de examen para notario titular se compondrá en los términos indicados en el artículo 30 de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 49.
 
-La oposición consistirá en un examen práctico, que será escrito y otro teórico, que será oral. Para el examen práctico, el Ejecutivo deberá tener en sobres cerrados y numerados, treinta temas para redacción de escrituras que previamente elaborará el Consejo de Notarios y que escogerá de entre los casos más complejos que sus componentes hayan encontrado en la práctica Notarial. Para el ejercicio teórico, los miembros del Jurado interpelarán a cada sustentante sobre los puntos de derecho que entrañen alguna dificultad y sean de aplicación por el Notario en el ejercicio de las funciones notariales.
+La oposición consistirá en un examen práctico, que será escrito y otro teórico, que será oral. Para el examen práctico, el Ejecutivo deberá tener en sobres cerrados y numerados, treinta temas para redacción de escrituras de los cuales quince elaborará previamente la Dirección del Archivo General de Notarías y quince el Consejo de Notarios, y que se escogerán de entre los casos más complejos en la práctica Notarial. Para el ejercicio teórico, los miembros del Jurado interpelarán a cada sustentante sobre los puntos de derecho que entrañen alguna dificultad y sean de aplicación por el Notario en el ejercicio de las funciones notariales.
 
 ###### ARTICULO 50.
 
@@ -439,9 +485,27 @@ Se considerará aprobado al sustentante que en promedio tenga una calificación 
 
 Si únicamente hubo un solicitante al examen de oposición, se procederá a examinarlo, siempre que haya cumplido con los demás requisitos que señala esta ley; sin embargo para considerarse triunfador deberá obtener una calificación promedio no inferior a ocho.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 53.
 
-Llenados los requisitos a que se refieren los artículos anteriores, el Ejecutivo del Estado expedirá la Patente de Notario correspondiente, debiendo el interesado registrarla en el Archivo General de Notarías, en el Registro Público de la Propiedad y del Comercio de la Capital del Estado y en el Consejo de Notarios, debiendo firmar los asientos respectivos, la misma Patente y adherir su fotografía en unos y otra. Dicha Patente de Notario se publicará por una sola vez en el Periódico Oficial del Estado, sin costo alguno para el interesado y en uno de los locales del lugar en que se encuentre ubicada la Notaría que va a ocupar, esto último sí a su costo.
+Llenados los requisitos a que se refieren los artículos anteriores, el Ejecutivo del Estado expedirá la Patente de Notario correspondiente, debiendo el interesado registrarla en la Dirección del Archivo General de Notarías, en el Registro Público de la Propiedad y del Comercio de la Capital del Estado y en el Consejo de Notarios, debiendo firmar los asientos respectivos, la misma Patente y adherir su fotografía en unos y otra. Dicha Patente de Notario se publicará por una sola vez en el Periódico Oficial del Estado, sin costo alguno para el interesado y en uno de los locales del lugar en que se encuentre ubicada la Notaría que va a ocupar, esto último sí a su costo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 53 BIS.- La patente de notario titular tendrá una vigencia de veintitrés años, contados a partir de su otorgamiento, y podrá ser renovada por el Ejecutivo del Estado una vez más hasta por otro plazo igual, siempre y cuando el interesado un año antes de que concluya la vigencia, solicite la renovación de la patente, para lo cual deberá acreditar:
+
+I. Que no haya sido condenado por sentencia definitiva o pena privativa de libertad por delito intencional y goce de buen nombre y reputación;
+
+II. Que no se encuentre impedido físico o mental para el desempeño de las actividades notariales;
+
+III. La asistencia a cuarenta horas anuales de cursos, talleres o seminarios, que sean impartidos o acreditados por el Consejo de Notarios del Estado, por la Asociación Nacional del Notariado Mexicano, o por el Colegio Nacional del Notariado Mexicano, durante la vigencia de la patente de notario;
+
+IV. Que sin excepción haya rendido por escrito el informe anual de los actos jurídicos celebrados ante ellos y de los hechos de los cuales den fe, en el plazo y términos previstos en esta ley; y
+
+V. Que siga siendo apto conforme a esta ley para ser notario titular.
+
+La falta de alguno de los requisitos precisados en las fracciones que anteceden dará lugar a la improcedencia de la solicitud de renovación.
 
 ###### ARTICULO 54.
 
@@ -459,61 +523,95 @@ V.- Los que habiendo litigado no gocen de buen nombre en el ambiente judicial.
 
 #### SECCION CUARTA. DE LOS ADSCRITOS
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 55.
 
-El Notario Titular, también llamado de Número, podrá proponer al Ejecutivo del Estado el nombramiento de un adscrito, quien deberá reunir los requisitos del artículo 56.
+El notario adscrito es un auxiliar del notario público titular en el desempeño de sus funciones como fedatario público.
 
-Una vez que el Ejecutivo del Estado expida dicho nombramiento, junto con la patente de adscrito, el nombramiento se publicará en el Periódico Oficial del Estado sin costo alguno. Tal designación la comunicará el Ejecutivo del Estado al adscrito y de inmediato al Registro Público de la Propiedad de la Capital del Estado, al Consejo de Notarios y al Archivo General de Notarías, donde deberá registrar su firma y antefirma.
+El notario adscrito tendrá las mismas facultades y obligaciones que el Titular en cuanto a las funciones notariales; sin embargo, estará bajo la responsabilidad de éste.
 
-El Notario Titular podrá revocar en cualquier fecha, previo aviso al Ejecutivo del Estado, el nombramiento del adscrito, señalando las razones de su decisión.
+De igual forma que el Titular, los adscritos serán sujetos de responsabilidad penal, así como de las sanciones que correspondan por los delitos y faltas que cometan en el desempeño de la función notarial.
 
-Recibido el aviso, el Ejecutivo cancelará la patente de adscrito expedida, ordenando la cancelación de los registros y dándose los avisos a que se refiere el párrafo segundo.
+Los notarios adscritos actuarán con igual capacidad que los notarios de número y autorizarán los correspondientes instrumentos, con su propia firma y sello, que tendrán los mismos efectos que los del titular.
+
+Debido a la naturaleza del notario adscrito, éste no contará con protocolo y actuará en el del notario titular, haciendo las anotaciones respectivas.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 56.
 
-Para ser Notario adscrito se requiere:
+Para obtener la patente de notario adscrito, deberá cumplirse, además de los requisitos establecidos en el artículo 26 de esta Ley, lo siguiente:
 
-I.- Ser mexicano por nacimiento, tener 30 años cumplidos, estar en el ejercicio de sus derechos civiles, observar buena conducta a juicio del Titular y no pertenecer al estado Eclesiástico;
+I.- Contar con patente de aspirante al ejercicio del notariado; y
 
-II.- Ser Licenciado en Derecho, con título registrado en la Dirección de Profesiones; y
+II.- Ser propuesto al Ejecutivo del Estado, por un notario titular.
 
-III.- Tener patente de Aspirante al ejercicio del Notariado expedida en los términos de la presente Ley.
+El Ejecutivo del Estado podrá a petición del notario titular, expedir, negar o en su caso revocar la patente de notario adscrito.
+
+La patente de notario adscrito tendrá una vigencia de diez años, contados a partir de su otorgamiento, y podrá ser renovada por el Ejecutivo del Estado a petición del notario titular, por otro plazo igual hasta por tres ocasiones.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 57.
 
-Los Adscritos tendrán la remuneración o participación de honorarios que convengan con el Titular de la Notaría en que trabajen, cobrando siempre a los clientes de acuerdo con el Arancel para Notarios.
+El notario adscrito ejercerá sus funciones de manera personal e independiente, pero en todo caso se ajustará a las normas internas que fije libremente el notario titular, quedando bajo la más estricta vigilancia y supervisión de éste.
+
+Los notarios adscritos tendrán la remuneración o participación de honorarios que convengan con el titular de la notaría en la que presten sus servicios, cobrando siempre a los usuarios del servicio de acuerdo con el arancel para notarios publicado en el Periódico Oficial del Estado.
+
+El notario adscrito no podrá actuar en su persona o la del titular, cuando en el acto concurran algunas de las causas previstas en el artículo 9 de esta ley.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 58.
 
-El Notario adscrito funciona con igual capacidad jurídica que la del Titular; los contratos y actos jurídicos pueden pasar y ser autorizados indistintamente, en cada Notaría, por el Notario Titular o por el Adscrito. En consecuencia, si una escritura ha sido autorizada preventivamente por uno de ellos, puede el otro autorizarla definitivamente y cualquiera puede expedir testimonios, copias certificadas y demás documentos derivados de instrumentos existentes en el Protocolo.
+La responsabilidad civil y las faltas por violaciones a esta ley del notario adscrito, en todo caso, se reputarán legalmente aseguradas con la garantía que obtenga o haya obtenido el notario titular y si ésta fuere insuficiente, el mismo notario adscrito responderá civilmente con sus propios bienes y solo que no fueran suficientes, el notario de número responderá por lo que falte.
 
-El Notario adscrito autorizará los instrumentos en los que intervenga, mediante su firma y utilizando su propio sello.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 59.
 
-El Adscrito no podrá actuar en su persona o la del titular, cuando en el acto, concurran algunas de las causas previstas en el artículo 9 de esta Ley.
+Los notarios adscritos deberán registrar su patente, sello, firma y antefirma ante el Archivo General de Notarías en el Libro de Registros de Notarios Adscritos, ante la Dirección del Registro Público de la Propiedad y del Comercio del Estado y ante el Consejo de Notarios.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+Las patentes y sellos deberán de expresar visiblemente que se trata de un notario adscrito y distinguirse de aquellas otorgadas a los notarios públicos titulares.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 60.
 
-Son aplicables a los Notarios adscritos y a sus Patentes, además de lo dispuesto en los artículos 10, 12, 13 y 16 de esta Ley, todas las demás disposiciones relativas a los Notarios Titulares, en cuanto no se opongan a lo dispuesto en este Capítulo o a su propia calidad de Adscritos.
+El Ejecutivo del Estado, por conducto del Archivo General de Notarías expedirá la identificación correspondiente a los notarios adscritos.
+
+La credencial tendrá una vigencia de dos años a partir del día siguiente a su expedición, y podrá ser renovada previo pago de los derechos que correspondan.
+
+Lo dispuesto en los párrafos anteriores, también será aplicable tratándose de los notarios titulares.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 61.
 
-El Notario adscrito a una Notaría, cuando ésta sea declarada vacante, será nombrado Titular de ella sin necesidad de oposición, siempre y cuando solicite, presente y apruebe con una calificación mínima de ocho, examen en los mismos términos que para obtener patente de Notario Titular exige esta Ley.
+Cuando un notario adscrito entre en funciones, el notario titular deberá hacer una anotación en el volumen que se encuentre en uso del protocolo, en la que señale que ambos notarios actuarán de forma indistinta en el mismo protocolo. Una nota similar se podrá en caso de que el notario adscrito sea removido y deje de actuar como tal en dicha Notaría.
 
-Para tener derecho a este beneficio, deberá solicitar su examen dentro de los siete días siguientes a la publicación de la declaratoria de que la notaría quedó vacante.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 62.
 
-La responsabilidad civil del Notario Adscrito, en todo caso, se reputa legalmente asegurada con la garantía que otorgue o tenga otorgada el Titular y si ésta fuere insuficiente, el mismo Notario Adscrito responderá civilmente con sus propios bienes y solo que no fueran suficientes el Notario de número responderá por lo que falte
+Cuando por cualquier motivo se declarare vacante la Notaría donde estuviera en funciones un notario adscrito, este quedará como interino hasta en tanto no se designe titular de la misma. Para que dicho notario pueda ser nombrado titular de ella, tendrá que solicitar, presentar y aprobar con una calificación mínima de ocho punto cinco, examen en los mismos términos que para obtener patente de notario titular exige la ley.
+
+Para tener derecho a este beneficio, deberá solicitar su examen dentro de los siete días siguientes a la publicación de la declaratoria de que la notaría quedó vacante.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 63.
 
-Tan pronto como el Notario Titular designe un Adscrito y éste entre en funciones, pondrá en los diversos volúmenes que estén en uso, enseguida de la última escritura, la razón a que se refiere el último párrafo del artículo 92.
+Son causas de revocación de la patente de notario adscrito, cualquiera de las siguientes:
 
-Una nota similar se pondrá tan pronto como el Adscrito sea removido y deje de actuar.
+I. Haber sido encontrado el notario adscrito responsable del incumplimiento de ésta Ley;
+
+II. Solicitud del notario titular en dicho sentido, con causa o sin ella, la cual tendrá que ser aprobada por el Ejecutivo;
+
+III. Ser declarado mediante sentencia definitiva firme, responsable por delito intencional que merezca pena privativa de libertad; o
+
+IV. Impedimentos físicos o intelectuales declarados judicialmente, que impidan al notario el desarrollo de sus funciones.
 
 ### CAPITULO TERCERO. DE LA SEPARACION Y SUBSTITUCION TEMPORAL DE LOS NOTARIOS
 
@@ -579,11 +677,17 @@ Tan pronto como cese la suplencia necesaria o cuando deje de surtir efecto un co
 
 Son causas de suspensión de un Notario en ejercicio de sus funciones:
 
-I.- La sujeción a proceso en que haya sido declarado formalmente preso por delito intencional, mientras no se pronuncie sentencia definitiva;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-II.- La sanción administrativa impuesta por el Gobierno del Estado, en su caso, por faltas comprobadas al Notario en ejercicio de sus funciones;
+I.- Haber sido vinculado a proceso o dictársele auto de formal prisión, por delitos intencionales contra el patrimonio de las personas, hasta en tanto no cause ejecutoria la sentencia respectiva.
 
-III.- Impedimentos físicos o intelectuales transitorios que excedan de treinta días, que coloquen al Notario en la imposibilidad de actuar, en cuyo caso surtirá efectos la suspensión durante todo el tiempo que dure el impedimento.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+II.- Padecer incapacidad física o mental transitoria que exceda de treinta días, que coloquen al notario en la imposibilidad de actuar, en cuyo caso surtirá efectos la suspensión durante todo el tiempo que subsista el impedimento, o
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+III.- Las demás que procedan conforme a la ley.
 
 ###### ARTICULO 77.
 
@@ -599,9 +703,11 @@ El Juez que instruya un proceso en contra de cualquier Notario, por delito inten
 
 ### CAPITULO CUARTO. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 79.
 
-El cargo de Notario termina, quedando sin efectos la patente respectiva, por renuncia expresa, por muerte o por revocación.
+El cargo de Notario termina, quedando sin efectos la patente respectiva, por renuncia expresa, al concluir el plazo de duración de dicha patente, por muerte o por revocación.
 
 ###### ARTICULO 80.
 
@@ -610,6 +716,10 @@ Siempre que proceda judicialmente la interdicción de algún Notario, por no enc
 ###### ARTICULO 81.
 
 La renuncia del cargo de Notario y la revocación de la patente de Notario produce la cancelación de la patente de aspirante que tenía al haber sido designado Titular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2015)</small>
+
+Cuando se revoque la patente de notario titular, el Ejecutivo del Estado, por conducto del Secretario General de Gobierno o del Subsecretario Jurídico, tomará las medidas necesarias para la continuidad de la función notarial.
 
 ###### ARTICULO 82.
 
@@ -647,6 +757,48 @@ En caso de oposición, se consignará el asunto a la autoridad judicial respecti
 
 Cuando ocurra alguna vacante definitiva en cualquier Notaría, será cubierta en los términos previstos en esta Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 87 BIS 1.- En los casos de terminación de la función notarial a que se refiere esta ley, se procederá como sigue:
+
+I.- Cuando además de la terminación del cargo de notario se determine el cierre definitivo de la notaría de que se trate, el Ejecutivo del Estado ordenará la clausura del protocolo correspondiente, y
+
+II.- En cualquier otro caso, se procederá a entregar el protocolo de la notaría al notario al que corresponda continuar actuando en el mismo, de conformidad con lo previsto en los artículos siguientes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 87 BIS 2.- Tan pronto se tenga conocimiento de la terminación del cargo de notario, su adscrito, asociado, o notario suplente con el que tenga celebrado convenio de suplencia con mayor antigüedad, si lo hubiere, pondrá una anotación en el folio inmediato siguiente al del último instrumento asentado, haciendo constar la fecha de terminación y su causa, misma razón que firmará agregando su sello. Si no hubiere adscrito, asociado ni suplente, el Consejo de Notarios comisionará a un notario con ejercicio en la demarcación notarial que corresponda, para que haga la anotación antes referida.
+
+Asimismo, el adscrito, asociado, suplente o notario comisionado, procederá a formar un inventario preliminar de los libros de protocolo, folios, libros de registro de certificaciones fuera de protocolo, apéndices, índices, sellos y demás elementos que haya tenido en su poder el notario cuyo cargo o función haya terminado, para el desempeño de la misma.
+
+Lo anterior, se hará del conocimiento de la Secretaría General de Gobierno, acompañando un ejemplar del inventario provisional.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 87 BIS 3.- Una vez que la Secretaría General de Gobierno tenga conocimiento de la culminación del inventario provisional a que se refiere el artículo anterior, ordenará al Archivo General de Notarías se practiquen los inventarios definitivos de la notaría de que se trate, por parte de dos visitadores, uno designado por dicha Secretaría y el otro por el Consejo de Notarios. A la diligencia respectiva se citará cuando corresponda al notario cuyo cargo haya terminado, a su adscrito, asociado, suplente o notario comisionado en su caso, y a su albacea o interventor judicial para el caso de fallecimiento, y en caso de que ninguno se hubiere nombrado aún, se citará a su cónyuge supérstite y, si no lo hubiere, a cualquiera de los hijos capaces del notario fallecido, y a falta de éstos, al más cercano de sus familiares. Los visitadores, en presencia de los que asistan, practicarán dos inventarios.
+
+En un primer inventario se relacionará todo lo que corresponde al protocolo y a la función notarial, lo que se entregará a quien deba continuar actuando en el mismo o, al Archivo General de Notarías del Estado en el caso de la fracción I del artículo 87 Bis 1.
+
+En un segundo inventario, se indicarán todos los bienes o enseres que no tengan relación con la función notarial, mismos que se entregarán al notario cuya función haya terminado o a las personas indicadas en el caso de su fallecimiento, a menos que les hubieren sido entregados con anterioridad.
+
+Un ejemplar de los inventarios se entregará a cada uno de los asistentes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 87 BIS 4.- Cuando en la notaría en la que hayan terminado las funciones del titular, exista notario adscrito, éste actuará como interino en los términos de esta ley, y recibirá al efecto todos los elementos del protocolo del cesado o fallecido, conservándolos para entregarlos a quien deba sustituirlo, en su caso.
+
+El notario adscrito que funja como interino, deberá formular el aviso a que se refiere el párrafo final del artículo siguiente, en los términos indicados en dicho precepto.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 87 BIS 5.- Si el notario cuyas funciones hayan terminado estuviese asociado con un notario de mayor antigüedad en el ejercicio de la función notarial, éste último seguirá actuando en el protocolo de su propia notaría en los términos y forma previstos en esta ley.
+
+Si el que termina en sus funciones es el notario de mayor antigüedad en el ejercicio de la función notarial, el notario de menor antigüedad se proveerá de protocolo para actuar en su notaría, procediéndose en los términos de lo dispuesto en esta ley.
+
+En caso de que el notario cuyo cargo haya terminado no tuviere adscrito ni estuviere asociado con otro notario, pero sí tuviere convenios de suplencia, el suplente de mayor antigüedad continuará provisionalmente la función notarial del titular, encontrándose facultado para continuar solamente con los trámites y asuntos pendientes, sin actuar en el protocolo del notario suplido, hasta en tanto se llene esa vacante en los términos de esta ley y tome posesión el nuevo notario, en la inteligencia de que el suplente, cuando entre a efectuar la suplencia, no dejará de atender en primer término la notaría de la que es titular.
+
+En todo caso, el Ejecutivo del Estado ordenará al notario asociado o suplente, según corresponda, la fijación de un aviso en el que se haga del conocimiento del público en general la situación que guarda la notaría respecto de su titular, en lugar visible del local que la misma ocupe, y además ordenará su publicación en el Periódico Oficial del Estado.
+
 ## TITULO TERCERO. DE LA ACTUACION Y DOCUMENTACION NOTARIAL
 
 ### CAPITULO PRIMERO. DE LOS LIBROS NOTARIALES
@@ -673,7 +825,7 @@ Se encuadernarán los folios por volúmenes cuando las escrituras redactadas reb
 
 Inmediatamente después de ponerse la nota de cierre que ordena el artículo 96 de la presente Ley, cada Volumen deberá encuadernarse y empastarse sólidamente, a menos que desde antes lo haya estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 91.
 
@@ -699,7 +851,7 @@ Al comenzar a hacer uso de cada una de las hojas, en su frente se le pondrá a l
 
 El uso de los protocolos debe hacerse por el orden riguroso de la numeración de las escrituras o actas notariales, yendo de un libro a otro en cada escritura o acta, hasta llegar al último y volviendo de éste al primero para lo cual serán numerados los libros.
 
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
 
 ###### ARTICULO 95.
 
@@ -725,13 +877,19 @@ Cuando estén por concluirse el Volumen o el juego de Volúmenes que lleven los 
 
 Por ningún motivo podrán sacarse de la Notaría los folios, ni los libros de los Protocolos, ya sea que los Volúmenes estén en uso o ya concluidos, si no es por el mismo Notario y sólo en los casos determinados por la presente Ley y para recoger las firmas a las partes, cuando éstas no puedan asistir a la Notaría y el Notario esté dispuesto a salir a recogerlas. Si alguna autoridad con facultades legales, ordena la visita de uno o más libros del Protocolo, el acto se efectuará en la misma oficina del Notario y siempre en la presencia de éste.
 
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 99.
 
-Los Notarios guardarán en su archivo los volúmenes de su protocolo y apéndices, durante diez años contados desde la fecha de la nota de cierre de los mismos, a menos que el Ejecutivo del Estado autorice un término mayor.
+Los Notarios guardarán en su archivo los volúmenes de su protocolo y apéndices, durante cinco años contados desde la fecha de la nota de cierre de los mismos, a menos que el Ejecutivo del Estado autorice un término mayor.
 
 A la expiración de este término el Notario entregará los citados Volúmenes al Archivo General de Notarías, en donde quedarán definitivamente. El Director del Archivo General de Notarías estará al pendiente de que los Notarios cumplan con lo dispuesto en este artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 99 BIS.- Cuando exista queja sobre un acto o hecho jurídico celebrado ante notario o se impugne la escritura o acta notarial respectiva, el notario deberá remitir copia certificada por él mismo, al Director del Archivo General de Notarías, de los folios o volumen donde conste dicho acto o hecho, según sea el caso, así como de los apéndices correspondientes, quedando dichos folios o volumen a disposición para consulta.
+
+En el caso de que el volumen donde conste la escritura o acta impugnada ya se encuentre cerrado, se deberá remitir dicho volumen junto con su respectivo apéndice a la Dirección del Archivo General de Notarías para su guarda definitiva, con independencia del plazo del artículo anterior.
 
 #### SECCION SEGUNDA. DEL APENDICE
 
@@ -801,7 +959,7 @@ V.- Que el instrumento a que se refiere el punto anterior también sea firmado p
 
 Acta notarial es el instrumento que el notario asienta en su protocolo, a petición de parte, para hacer constar hechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 109.
 
@@ -809,7 +967,9 @@ Entre los hechos que el Notario puede consignar en acta notarial, se encuentran 
 
 I.- Notificaciones, interpelaciones, requerimientos protestos de documentos y otras diligencias en las que pueda intervenir según las leyes.
 
-II.- La existencia, identidad y capacidad legal de personas conocidas por el Notario. La ratificación de documentos y el reconocimiento de firmas.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+II.- La existencia, identidad y capacidad legal de personas. La ratificación de documentos y el reconocimiento de firmas.
 
 III.- Toda clase de hechos materiales, como, por ejemplo, deterioros en una finca y la construcción de otra en terreno contiguo o próximo a la primera.
 
@@ -817,7 +977,7 @@ IV.- Cotejo de documentos, planos, fotografías, y similares; y
 
 V.- Protocolización de documentos.
 
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
 
 ###### ARTICULO 110.
 
@@ -959,11 +1119,17 @@ f).- La fecha o fechas en que firmaron el instrumento los otorgantes o la person
 
 g).- Los hechos que presencie el Notario y que sean integrantes del contrato o acto que autorice, como entrega de dinero o de títulos y otros.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 122.
 
-Para que el Notario dé fe de conocer a los otorgantes y de que tienen capacidad legal, bastará que sepa su nombre y apellido, que no observe en ellos manifestaciones patentes de incapacidad natural y que no tenga noticia de que están sujetos a incapacidad civil.
+Para que el Notario dé fe de que los otorgantes tienen capacidad legal, bastará que no observe en ellos manifestaciones patentes de incapacidad natural y que no tenga noticia de que están sujetos a incapacidad civil.
 
-En caso de no serle conocidos, podrá hacer constar su identidad con pasaporte, licencia de conducir, credencial para votar, u otro medio documental adecuado expedido por alguna autoridad, nacional o extranjera. Sin perjuicio de lo anterior, el notario, bajo su estricta responsabilidad, podrá hacer constar su identidad con algún documento que a juicio del Notario sea suficiente, o bien por la declaración de dos testigos a quienes conozca el Notario o que se identifiquen en la forma antes prevista, expresando en el instrumento la forma en que lo haya comprobado. Los testigos deberán ser mayores de edad. Para que los testigos aseguren la identidad y capacidad legal de los otorgantes, bastará que sepan su nombre y apellido, que no observen en ellos manifestaciones patentes de incapacidad natural y que no tengan conocimiento de que estén sujetos a incapacidad civil, para lo cual el Notario les explicará cuáles son las incapacidades naturales o civiles, exceptuando de esta explicación al testigo que sea Notario o Licenciado en Derecho. El testigo que no supiere o no pudiere firmar pondrá su huella digital y firmará a su ruego otra persona que al efecto elija.
+Tratándose de la identidad de los otorgantes, el Notario la hará constar con pasaporte, licencia de conducir, credencial para votar, u otro medio documental adecuado que les haya expedido alguna autoridad nacional o extranjera.
+
+En caso de no poder hacerse constar dicha identidad con base en lo anterior, el Notario, bajo su estricta responsabilidad, podrá hacerla constar con algún documento que a su juicio sea suficiente, o bien por la declaración de dos testigos que se identifiquen en la forma antes prevista y de no poderse identificar éstos en tales términos, por dos testigos que el notario conozca; expresando en el instrumento respectivo la forma en que haya comprobado la identidad.
+
+Los testigos deberán ser mayores de edad; para que los testigos aseguren la identidad y capacidad legal de los otorgantes, bastará que sepan su nombre y apellido, que no observen en ellos manifestaciones patentes de incapacidad natural y que no tengan conocimiento de que estén sujetos a incapacidad civil, para lo cual el Notario les explicará cuales son las incapacidades naturales o civiles, exceptuando de esta explicación al testigo que sea Notario o Licenciado en Derecho. El testigo que no supiere o no pudiere firmar pondrá su huella digital, y firmará a su ruego otra persona que al efecto elija.
 
 ###### ARTICULO 123.
 
@@ -1053,17 +1219,21 @@ El Notario no podrá autorizar ni certificar acto o documento alguno, sino haci�
 
 La obligación que tiene el Notario de redactar por escrito las cláusulas de los testamentos públicos abiertos y de las escrituras, no implica el deber de escribirlas el Notario por sí mismo.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 143.
 
-Siempre que se otorgue un testamento público abierto o cerrado, los Notarios lo harán saber al Archivo de Notarías dentro de los siguientes 30 días, expresando la fecha, nombre del testador y sus generales; y si el testamento fuere cerrado, además el lugar o persona en cuyo poder se deposite. Si el testador expresare en su testamento el nombre de sus padres, también se dará este dato al Archivo. Este llevará un libro especialmente destinado a asentar las inscripciones relativas con los datos que se mencionan. Los jueces y notarios ante quienes tramite una sucesión, recabarán del Archivo General de Notarías y del Registro Público de la Propiedad y del Comercio, desde luego, la noticia de sí hay anotación en dicho libro, referente al otorgamiento de algún testamento, por la persona de cuyo (sic) sucesión se trate.
+Siempre que se otorgue un testamento público abierto, los Notarios lo harán saber al Archivo de Notarías dentro de los siguientes 10 días hábiles, expresando la fecha, nombre del testador y sus generales. Si el testador expresare en su testamento el nombre de sus padres, también se dará este dato al Archivo. Este llevará un libro especialmente destinado a asentar las inscripciones relativas con los datos que se mencionan. Los jueces y notarios ante quienes tramite una sucesión, recabarán del Archivo General de Notarías y del Registro Público de la Propiedad y del Comercio, desde luego, la noticia de sí hay anotación en dicho libro, referente al otorgamiento de algún testamento, por la persona de cuyo sucesión se trate.
 
 ###### ARTICULO 144.
 
 El otorgante que declare falsamente en una escritura, incurrirá en la pena que señala el Código Penal del Estado, para la falsa declaración.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 145.
 
-Las enajenaciones de bienes inmuebles, la constitución o trasmisión de derechos reales, así como la garantía de un crédito cuyo valor convencional o catastral exceda la cantidad que establece el artículo 2191 del Código Civil vigente en el Estado de Baja California, para su validez deberán constar en escritura ante notario.
+Las enajenaciones de bienes inmuebles, así como la constitución o trasmisión de derechos reales o que garanticen un crédito, a que se refiere el párrafo primero del artículo 2191 del Código Civil del Estado de Baja California, para su validez deberán constar en escritura pública ante notario.
 
 ###### ARTICULO 146.
 
@@ -1159,9 +1329,13 @@ Para que el Notario pueda actuar deberá llenar los siguientes requisitos:
 
 I.- Otorgar y mantener vigente una garantía en favor del Poder Ejecutivo del Estado por la cantidad que resulte:
 
-a).- De multiplicar por 5,000 el salario mínimo general diario vigente en la Entidad para los Notarios que tengan menos de cinco años en el ejercicio de la función notarial;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-b).- De multiplicar por 10,000 el salario mínimo general vigente en la entidad para los Notarios que tengan cinco años o más en el ejercicio de la función notarial. La garantía deberá (sic) otorgarse en favor del Ejecutivo del Estado deberá actualizarse anualmente.
+a) De multiplicar por 10,000 el salario mínimo general diario vigente en la Entidad para los Notarios que tengan menos de cinco años en el ejercicio de la función notarial;
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+b) De multiplicar por 15,000 el salario mínimo general vigente en la Entidad para los Notarios que tengan cinco años o más en el ejercicio de la función notarial. La garantía deberá otorgarse en favor del Ejecutivo del Estado deberá actualizarse anualmente.
 
 II.- Proveerse a su costa de sello y Protocolo.
 
@@ -1174,6 +1348,10 @@ IV.- Otorgar la protesta legal ante el Secretario de Gobierno, en la forma en qu
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
 
 V.- Obligarse a establecer su oficina notarial única en el lugar en que vaya a desempeñar su encargo, dentro de los 180 días siguientes a la fecha de la protesta, y a cubrir las vacantes que correspondan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2015)</small>
+
+En los casos en que el Notario cuente con un Notario Adscrito, la garantía a que hace referencia este artículo también deberá respaldar las funciones de dicho adscrito.
 
 ###### ARTICULO 156.
 
@@ -1207,9 +1385,11 @@ Cuando por cualquier circunstancia haya lugar a clausurar un Protocolo, esta dil
 
 Tratándose de protocolo abierto, la razón de clausura se pondrá en el siguiente folio consecutivo disponible, encuadernándose de inmediato el volumen y su apéndice. Los folios restantes que se le hubieren autorizado al Notario, se remitirán al Secretario General de Gobierno o al Notario que haya Comisionado el Consejo de Notarios para la autorización de folios.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 162.
 
-Los Interventores que fueran designados para intervenir en la clausura de un Protocolo, procurarán que en el inventario correspondiente se incluyan todos los libros que conforme a esta ley deban llevarse, los testamentos cerrados que estuviesen en guarda, con expresión del estado de sus cubiertas y sellos, los títulos, expedientes y cualesquiera otros documentos de su archivo y clientela. Además, formarán otro inventario de los muebles, valores y documentos personales del Notario, para que sean entregados a quien corresponda.
+Los Interventores que fueran designados para intervenir en la clausura de un Protocolo, procurarán que en el inventario correspondiente se incluyan todos los libros que conforme a esta ley deban llevarse, los títulos, expedientes y cualesquiera otros documentos de su archivo y clientela. Además, formarán otro inventario de los muebles, valores y documentos personales del Notario, para que sean entregados a quien corresponda.
 
 ###### ARTICULO 163.
 
@@ -1229,9 +1409,13 @@ El Notario que se encuentre en cualesquiera de las condiciones a que se refieren
 
 ## TITULO QUINTO. DEL ARCHIVO GENERAL DE NOTARIAS
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 166.
 
-Habrá en la capital del Estado un Archivo General de Notarías. Cuando el aumento de población o el desarrollo de los negocios así lo indique, a juicio del Ejecutivo, podrán establecerse archivos dependientes del anterior, en una o más de las Municipalidades en que se encuentra dividido el Estado.
+El Ejecutivo del Estado contará con un Archivo General de Notarías, adscrito a la Subsecretaría Jurídica del Estado, el cual realizará las funciones que esta Ley y el Reglamento le conceden, y se le denominará indistintamente como "Dirección del Archivo General de Notarías", "Dirección", o "Archivo General de Notarías".
+
+La Dirección se ubicará en la capital del Estado. Para el ejercicio de sus funciones se auxiliará de las oficinas administrativas dependientes de la Secretaría General de Gobierno en cada municipio, y podrá, dependiendo la disponibilidad presupuestal y la demanda del servicio, establecer oficinas representativas en otros municipios de la entidad.
 
 ###### ARTICULO 167.
 
@@ -1247,13 +1431,53 @@ IV.- Con los sellos de los Notarios que deban depositarse o inutilizar conforme 
 
 V.- Con las imágenes de las escrituras que en copia fotostática, fotográfica o electrónica, les remitan los notarios o que ellos mismos hagan, en los casos que la ley permita.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 168.
 
-El Director del Archivo General de Notarías del Estado será un Licenciado en Derecho, de reconocida solvencia moral, con un mínimo de cinco años de experiencia en su profesión y con conocimiento en asuntos notariales. Usará un sello igual al de los Notarios que diga en el centro: "Estados Unidos Mexicanos" y en la circunferencia: "Archivo General de Notarías del Estado de Baja California, Mexicali, B. C." Podrá expedir testimonios o copias certificadas de los instrumentos y documentación que tenga bajo su guarda.
+Para ser nombrado titular de la Dirección del Archivo General de Notarías, se deberán reunir los siguientes requisitos:
+
+I. Ser Licenciado en Derecho y contar con experiencia mínima de cinco años en el ejercicio de la profesión;
+
+II. Tener residencia en el Estado durante los últimos cinco años;
+
+III. Estar en ejercicio de sus derechos civiles y políticos;
+
+IV. No ser ministro de culto religioso, y
+
+V. No haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 169.
 
-El Ejecutivo del Estado reglamentará todo lo relativo a la organización y funcionamiento de los Archivos de Notarías, lo que hará previa opinión que al respecto obtenga del Consejo de Notarios
+Corresponde a la Dirección del Archivo General de Notarías, el ejercicio de las atribuciones siguientes:
+
+I. Vigilar el cumplimiento de la Ley;
+
+II. Llevar un registro de las firmas, antefirmas y sellos de los notarios y notarías, así como recibir el aviso y acta de extravío;
+
+III. Recopilar los informes sobre la fecha de tiraje de impresión y de folios, para uso de los notarios, indicando cantidad y numeración de estos por cada emisión;
+
+IV. Recabar y archivar los volúmenes de su protocolo y apéndices, después de cinco años contado a partir de la fecha de la nota de cierre de los mismos, salvo que el Ejecutivo del Estado autorice un término mayor a la expiración del mismo;
+
+V. Recibir de los notarios informes de otorgamiento de testamentos públicos abiertos, inscribiendo los datos y requerir información de los mismos, a efecto de operar y conformar el registro estatal de testamentos, con el fin de brindar seguridad y certeza jurídica en los actos que tenga que ver con el patrimonio;
+
+VI. Operar y aplicar, programas y acciones derivadas de convenios o contratos realizados con entidades gubernamentales y no gubernamentales, tendientes a la mejora y conservación de los inventarios del Archivo General de Notarías;
+
+VII. Expedir constancias, testimonios o copias certificadas de los instrumentos y documentación que obre en el Archivo General de Notarías, y de los que mantenga bajo su cuidado y custodia;
+
+VIII. Auxiliar en el ejercicio de las funciones atribuidas expresamente en la Ley al Secretario General de Gobierno, adoptando las medidas para su aplicación;
+
+IX. Participar y coordinar en su caso y por instrucciones del Ejecutivo del Estado así como del Secretario General de Gobierno, las actividades relacionadas con la función notarial; y
+
+X. Las demás que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 169 BIS.- El Ejecutivo del Estado reglamentará todo lo relativo a la organización y funcionamiento de los Archivos de Notarías.
+
+Asimismo, el Ejecutivo del Estado, por conducto del Archivo General de Notarías, concentrará la información estadística de las operaciones y actos notariales, que le permitan regular y fijar, conforme a esta Ley, las medidas administrativas que se requieran para la eficaz prestación del servicio notarial.
 
 ## TITULO SEXTO. DEL COLEGIO Y DEL CONSEJO DE NOTARIOS
 
@@ -1269,7 +1493,7 @@ El Consejo Directivo del Colegio de Notarios, que se denominará Consejo de Nota
 
 Los miembros del Consejo durarán en funciones dos años, a menos que sean reelectos. Los citados Consejeros serán electos de entre los Notarios Titulares en ejercicio del Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 173.
 
@@ -1301,7 +1525,9 @@ III.- Resolver las consultas que se le hicieren por los Notarios del Estado de B
 
 IV.- Actuar como Consejo Directivo del Colegio de Notarios del Estado de Baja California, con las facultades que la Ley Reglamentaria del Ejercicio Profesional para dicho Estado y sus Reglamentos, así como la escritura constitutiva y los estatutos del Colegio le confieren.
 
-V.- Sancionar y promover que se sancione por el Gobierno del Estado a los Notarios que no cumplan con el Arancel o que en alguna forma faltaren a sus obligaciones; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+V.- Promover que se sancione por el Gobierno del Estado a los Notarios que no cumplan con el Arancel o que en alguna forma faltaren a sus obligaciones; y
 
 VI.- Las demás que le confieren esta Ley y sus Reglamentos.
 
@@ -1311,11 +1537,13 @@ VI.- Las demás que le confieren esta Ley y sus Reglamentos.
 
 Toda vacante en el Consejo, por más de un mes, será cubierta por un Notario que nombrará el Consejo por mayoría de votos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 178.
 
-El Presidente proveerá a la ejecución de los acuerdos del Gobierno del Estado, y de las resoluciones del Colegio y Consejo de Notarios; presidirá las sesiones de estos dos últimos y representará al citado Consejo en su calidad de corporación legal; vigilará el exacto cumplimiento de los deberes del mismo y tendrá derecho a fiscalizar la recaudación y empleo de los fondos.
+El Ejecutivo del Estado, a través de la Secretaría General de Gobierno podrá dictar los acuerdos necesarios y en general proveer en la esfera administrativa aquello que resulte conveniente para el debido cumplimiento de la función notarial conforme a la presente ley.
+
+El Presidente del Consejo de Notarios proveerá a la ejecución de los acuerdos del Gobierno del Estado, y de las resoluciones del Colegio y Consejo de Notarios; presidirá las sesiones de estos dos últimos y representará al citado Consejo en su calidad de corporación legal; vigilará el exacto cumplimiento de los deberes del mismo y tendrá derecho a fiscalizar la recaudación y empleo de los fondos.
 
 El Presidente será substituido, en caso de falta o impedimento, por el vicepresidente y los Vocales Primero y Segundo, en el orden de enunciación.
 
@@ -1335,167 +1563,375 @@ El Consejo estudiará por medio de comisiones unitarias, los puntos que le encom
 
 El Consejo de Notarios formulará el Reglamento de sus funciones.
 
-## TITULO SEPTIMO. DE LA INSPECCION DE LAS NOTARIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2015)</small>
 
-### CAPITULO PRIMERO. DE LAS VISITAS DE INSPECCION
+## TÍTULO SÉPTIMO. DE LA VIGILANCIA, RESPONSABILIDAD Y SANCIÓN DE LOS NOTARIOS PÚBLICOS
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPITULO I. DE LA VIGILANCIA E INSPECCIÓN DE LAS NOTARÍAS
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 183.
 
-Las Notarías podrán ser visitadas cuantas veces lo juzgue conveniente el Ejecutivo del Estado, con el fin de cerciorarse de que funcionen con regularidad.
+Corresponde al Ejecutivo del Estado, por conducto del Secretario General de Gobierno, del Subsecretario Jurídico o de la Dirección del Archivo General de Notarías, vigilar el correcto ejercicio de la función notarial.
 
-Salvo las visitas especiales que ordene el Ejecutivo, conforme al párrafo que antecede, el Consejo de Notarios hará por lo menos una visita de inspección mensual a alguna de las Notarias del Estado, rindiendo en ambos casos un informe al propio Ejecutivo del Estado
+Para tales efectos, podrán practicarse visitas de inspección a las notarías, mismas que se efectuarán ordinariamente en forma periódica o extraordinariamente en los términos de esta Ley y su reglamento.
 
-Para el efecto de los dos párrafos anteriores, el Consejo de Notarios señalará en cada caso dos notarios, para llevar a cabo dichas visitas.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 184.
 
-El Ejecutivo del Estado ordenará al Consejo de Notarios se practiquen visitas especiales a una Notaría cuando tenga conocimiento, por queja o por cualquier motivo, de que un Notario ha violado la Ley. En este caso, la visita se concretará exclusivamente a la investigación de la irregularidad de que se trata.
+Las visitas ordinarias, por delegación del Titular del Ejecutivo, serán practicadas por el Consejo de Notarios a través de los notarios que designe para tal efecto, debiendo levantar el acta correspondiente, de la que se hará llegar un ejemplar a la Dirección del Archivo General de Notarías.
+
+El Consejo de Notarios en común acuerdo con la Dirección del Archivo General de Notarías, durante los primeros quince días del mes de enero de cada año, deberán emitir la calendarización de las visitas de inspección ordinarias a realizar a cada una de las notarías. Estas visitas se practicarán por lo menos una vez al año en cada notaría y tendrán por objeto verificar que los notarios cumplan con las disposiciones señaladas en la presente ley y demás ordenamientos aplicables.
+
+El Consejo de Notarios deberá informar a estos de la calendarización de las visitas ordinarias.
+
+La Dirección del Archivo General de Notarías podrá nombrar ante el Consejo de Notarios, un representante que acompañe a los notarios designados como visitadores en la práctica de la visita ordinaria.
+
+En las actas de visita ordinaria, se deberán asentar las posibles irregularidades detectadas durante el desahogo de la inspección, así como si el notario cumple con sus obligaciones; además podrán formularse recomendaciones para el notario visitado, así como observaciones y solicitudes que se harán a las autoridades encargadas de la vigilancia notarial, a las que deberán remitirse a la brevedad posible dichas actas consignando los resultados obtenidos en la visita.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 185.
 
-En toda visita el Notario deberá ordenar lo procedente en su oficina, con objeto de que se den a los visitadores todas las facilidades que se requieran para hacer debidamente su investigación. El Notario deberá estar presente al hacerse la inspección y hará las aclaraciones que juzgue conveniente.
+Cuando se considere necesario, el Secretario General de Gobierno, el Subsecretario Jurídico o la Dirección del Archivo General de Notarías, podrán ordenar en cualquier tiempo la práctica de una visita de inspección notarial extraordinaria. Estas visitas de inspección, serán desahogadas por los servidores públicos que al efecto designen dichas autoridades. El Consejo de Notarios podrá designar un notario que acompañe y auxilie en la práctica de tales visitas; la falta de designación no será impedimento para realizar la visita de que se trate.
 
-En caso de oposición, los visitadores informarán al Ejecutivo del Estado, quien tomará las medidas pertinentes.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 186.
 
-Las visitas se practicarán por dos Notarios designados por el Consejo de Notarios, en el despacho u oficina del Notario visitado, en horas hábiles; para este efecto, el visitado será notificado con cuarenta y ocho horas de anticipación cuando menos.
+Al presentarse los visitadores que vayan a practicar la visita ordinaria o extraordinaria, según corresponda, el día y hora fijados para ello, requerirán la presencia del notario titular para entender con éste la visita. En caso de no estar presente, se entenderá con su adscrito, asociado o suplente, y en ausencia de éstos, con la persona que esté encargada de la notaría en ese momento. En todo caso, los visitadores se identificarán y entregarán la orden de visita a la persona con quien se entienda la diligencia.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 187.
 
-Los Visitadores de Notarías deberán practicar la inspección que se les encomiende inmediatamente después de que reciban la orden respectiva y darán cuenta del desempeño de su comisión tan luego como hayan terminado la visita, sin que en ningún caso pueda exceder de quince días la duración de una visita general y de diez días si se trata de una visita especial.
+Tratándose de una visita extraordinaria, los visitadores le harán saber al notario titular o a la persona con que se atienda la diligencia, que tiene derecho a designar a dos testigos, y en caso de no hacerlo, de ser posible serán designados por los visitadores, sin que en ningún caso, la falta de éstos invalide el contenido del acta. De igual manera, si el notario o la persona con que se atienda la diligencia no firma el acta, ello no invalidará su contenido y los visitadores harán constar la negativa, y entregarán una copia al notario.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 187 BIS.- Las ordenes de visita previstas en esta ley deberán contener los requisitos y formalidades previstas en los artículos 6 y 7 y en el título cuarto, todos, de la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 188.
 
-En las visitas se observarán las reglas siguientes:
+Los visitadores que practiquen la visita extraordinaria, harán constar en un acta las irregularidades que observen, y consignarán los puntos, así como las explicaciones, aclaraciones y fundamentos que en su caso, el notario o la persona con quien se atiende la visita exponga.
 
-I.- Si la visita fuere general, los visitadores revisarán todo el Protocolo o diversas partes de él, según lo estimen necesario, para cerciorarse de la observancia de todos los requisitos de forma legales, sin examinar los pactos ni declaraciones de ningún instrumento. Además, se harán presentar los testamentos cerrados que se conserven en guarda y los títulos y expedientes que tenga en su poder el Notario formando su inventario de todo para agregar dicho inventario al acta de visita;
+Los visitadores deberán remitir de manera inmediata el resultado de la visita a la autoridad que haya ordenado su práctica.
 
-II.- Si se hubiere ordenado la visita de un tomo determinado, los visitadores se limitarán a examinar el cumplimiento de los requisitos de forma, la redacción de las escrituras, con exclusión de sus cláusulas y declaraciones, y sólo del tomo indicado;
-
-III.- Si las visitas tienen por objeto un instrumento determinado, se examinarán los requisitos de forma, la redacción de él y aún sus cláusulas y declaraciones, en caso de que el instrumento sea de los sujetos a registro; y
-
-IV.- En todo caso, los visitadores cuidarán que, a más tardar después de dos meses de cerrados los juegos de libros o Volúmenes, ya estén empastados éstos y los correspondientes Apéndices.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 189.
 
-En el acta harán constar los visitadores, las irregularidades que observen y consignarán, en general, los puntos en que la ley no haya sido fielmente cumplida y los datos y fundamentos que el Notario exponga en su defensa.
+Las visitas extraordinarias tendrán por objeto verificar que las funciones o actividades que se realizan en la Notaría, se estén desarrollando en términos de esta Ley, su reglamento y demás acuerdos o disposiciones dictadas por el Ejecutivo del Estado, así como verificar los hechos o irregularidades que hayan motivado la visita, cuando de éstos se desprenda la probable responsabilidad del notario en la violación al contenido de esta ley o a cualquier otra disposición relacionada con el ejercicio de su función.
 
-Este tendrá derecho a un duplicado del acta firmada por los visitadores y por él mismo. Los visitadores darán cuenta del resultado, remitiendo copia del acta, al Consejo de Notarios y éste, a su vez, al Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 190.
 
-Los Notarios son responsables por los delitos y faltas que cometan con motivo del ejercicio de su profesión, en los mismos términos que lo son los demás ciudadanos; en consecuencia, quedarán sometidos a la jurisdicción de las autoridades penales en todo lo concerniente a los actos u omisiones delictuosos en que incurran.
+En las visitas de inspección se observarán las reglas siguientes:
 
-De la responsabilidad civil en que incurran los Notarios conocerán los Tribunales Civiles, a instancia de parte legítima y en los términos de su respectiva competencia.
+I.- Si la visita fuere ordinaria, los visitadores revisarán todo el protocolo, o diversas partes de éste, para cerciorarse del cumplimiento de la función notarial en sus formalidades, sin que puedan constreñirse a un instrumento en particular; y
+
+II.- Si la visita fuere extraordinaria, se inspeccionará en su caso todo el protocolo, o aquella parte del mismo y demás instrumentos notariales únicamente en lo relativo a los hechos o actos que motivaron a la autoridad para ordenar dicha visita. Asimismo, se podrá inspeccionar en lo general que la función notarial se realice en los términos de esta Ley y demás disposiciones aplicables.
+
+En todo caso, los visitadores según corresponda, se cerciorarán si están o no encuadernados los correspondientes apéndices que debieran estarlo y así lo harán constar en el acta respectiva.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 191.
 
-Las sanciones de carácter administrativo a que se hagan acreedores los Notarios Públicos del Estado, por violaciones a esta ley, serán impuestas por el Ejecutivo del Estado; Las sanciones que el Ejecutivo del Estado podrá imponer serán las siguientes:
+Los visitadores deberán guardar reserva y confidencialidad respecto de la información asentada en los instrumentos a que tengan acceso con motivo de la visita, salvo el caso de que éstos hayan sido inscritos en un registro público.
 
-I.- Amonestación por escrito;
-
-II.- Multa;
-
-III.- Suspensión de la función Notarial; y
-
-IV.- Cancelación de la patente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 192.
 
-La amonestación por escrito procede en los siguientes casos:
+Los notarios estarán obligados a dar las facilidades que se requieran para que puedan practicarse las visitas ordinarias o extraordinarias. En caso de negativa por parte del notario, ello se hará del inmediato conocimiento de la autoridad competente, quien, previo procedimiento respectivo, impondrá al notario la sanción que corresponda en términos de la presente Ley, apercibiéndolo de que en caso de continuar en su negativa se hará acreedor a las sanciones que la misma prevé para el caso de reincidencia.
 
-I.- Por tardanza injustificada, imputable al Notario, en alguna actuación o trámite solicitado y expensado por un cliente relacionado con el ejercicio de la función notarial. Se entenderá por tardanza injustificada el retraso por mas de quince días hábiles;
+En caso de resistencia o negativa a la práctica de la visita extraordinaria, los visitadores deberán hacerlo del conocimiento inmediato a la Dirección del Archivo General de Notarías, quien tomará las medidas conducentes para tales efectos.
 
-II.- Por la inobservancia del horario señalado para la prestación del servicio notarial;
-
-III.- Por no cumplir con cualquiera de los requisitos establecidos en el artículo 121 de esta Ley;
-
-IV.- Por no llevar índices o sin causa justificada no entregar al Archivo General de Notarías los elementos del protocolo dentro del término que señala esta Ley o por no tenerlos encuadernados.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 193.
 
-Se aplicará multa de 50 a 500 días de salario mínimo, a juicio del Ejecutivo del Estado, en los siguientes casos:
+Si con motivo de la inspección ordinaria o extraordinaria a que se refiere este capítulo, las autoridades conocieran de incumplimientos a los ordenamientos fiscales, deberán de hacerlo del conocimiento a las autoridades correspondientes.
 
-I.- Por aceptar en depósito, dinero y valores, en contravención a lo que establece esta ley;
+### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS NOTARIOS PÚBLICOS
 
-II.- Por negarse sin causa justificada al ejercicio de sus funciones cuando hubiera sido requerido para ello, o por no prestar el servicio en los términos convenidos por el Colegio a través del Consejo de Notarios cuando se trate de actuaciones de interés social; y
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2015)</small>
 
-III.- Por omitir el aviso de cambio de domicilio de la Notaría;
+Sección A. Del procedimiento de conciliación y para determinar la responsabilidad de los notarios públicos
 
-IV.- Por realizar cualquier actividad que sea incompatible con el desempeño de sus funciones de acuerdo con la ley;
-
-V.- Cuando fuere reincidente indistintamente por cualquiera de las causas que ameriten amonestación por escrito;
-
-VI.- Por el cobro de honorarios superiores a los señalados en el arancel del notariado;
-
-VII.- Cuando se niegue el Titular de una Notaría, sin causa justificada a permitir que se realice la práctica Notarial a que se refiere esta ley;
-
-VIII.- Por no dar al Ejecutivo del Estado los avisos de ausencias temporales dentro de los términos a que se refiere esta Ley;
-
-IX.- Por no tener vigente el convenio de suplencia a que se refiere el artículo 67; y
-
-X.- Por no tener a disposición del público el listado de los honorarios que han de cubrirse por los distintos servicios.
-
-### CAPITULO SEGUNDO. DE LAS SANCIONES
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 194.
 
-Serán causas de suspensión del ejercicio notarial de un mes a un año:
+En el ejercicio de sus funciones, el Notario Público será responsable:
 
-I.- Por negarse el notario, sin causa justificada a prestar el auxilio a las autoridades electorales durante los procesos de elección popular;
+I.- De los daños y perjuicios que sus actos u omisiones causen a quienes hayan solicitado sus servicios, responsabilidad que los afectados podrán exigir en los términos de la legislación civil del Estado de Baja California;
 
-II.- Por negarse el Notario sin causa justificada, a juicio del Ejecutivo, a formar parte de los jurados en los concursos de oposición o a ser visitador en las visitas que ordene el Ejecutivo del Estado o el Consejo de Notarios;
+II.- Del incumplimiento de las obligaciones fiscales a que se encuentren sujetos los actos jurídicos que pasen en su Protocolo, de acuerdo con las leyes de la materia;
 
-III.- La revelación dolosa por parte del Notario de información de los asuntos que se le encomienden;
+III.- De los actos u omisiones que sean constitutivos de delito, en los términos de la legislación penal del Estado de Baja California;
 
-IV.- Por negarse a dar facilidades para la práctica de las visitas de inspección ordinarias y extraordinarias que ordene el Ejecutivo del Estado o el Consejo de Notarios;
+IV.- De los actos u omisiones que impliquen una violación a esta Ley, su Reglamento, los acuerdos o circulares expedidos por el Ejecutivo y demás autoridades encargadas de la inspección y vigilancia de la función pública notarial; o
 
-V.- Cuando fuere reincidente, en los casos que dé lugar a multa, dentro del año inmediato siguiente;
+V.- De los actos u omisiones que infrinjan las reglas de conducta señaladas en los estatutos del Colegio de Notarios del Estado de Baja California.
 
-VI.- Por dejar de prestar el servicio notarial por mas de quince días sin causa justificada;
+Cuando se promueva algún juicio en contra de un notario, el juez admitirá la opinión del colegio de notarios como prueba pericial, si así se ofreciere.
 
-VII.- Por no constituir o conservar vigente la garantía que responda de su actuación;
-
-VIII.- Por haberse dictado en su contra auto de sujeción a proceso o de formal prisión por delito intencional. En este caso la suspensión durará hasta en tanto se dicte la sentencia que cause ejecutoria;
-
-IX.- Por impedimentos físicos o intelectuales transitorios que excedan de 30 días que coloquen al Notario en la imposibilidad de actuar, en cuyo caso surtirá efectos la suspensión durante todo el tiempo que dure el impedimento, en este caso tan pronto como el Ejecutivo del Estado, tengan conocimiento de que un Notario adolece de impedimento físico o intelectual, con audiencia del Consejo de Notarios, procederá a nombrar dos médicos especialistas con título registrado en la Dirección de Profesiones o de la Secretaría de Salud, para que dictaminen acerca de la naturaleza del padecimiento, de la imposibilidad o incapacidad para actuar y la duración del mismo. Si el padecimiento del Notario excediere de dos años le será revocada su patente;
-
-X.- Cuando, habiendo sido oído y vencido en juicio el Notario, sea declarada nula una escritura otorgada por él mismo, producida dicha nulidad por la actuación dolosa del Notario;
-
-XI.- Por no presentarse a ejercer sus funciones al vencimiento de las ausencias o licencias previstas en los artículos 64 y 65 de esta ley;
-
-XII.- Cuando habiendo sido multado por la causa prevista en la fracción IX del artículo 193, no celebre el convenio de suplencia en un término de 15 días a partir de la imposición de la multa, en este caso la suspensión será por todo el tiempo que dure sin celebrar convenio.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 195.
 
-La cancelación de la patente procede:
+Corresponde al titular de la Dirección del Archivo General de Notarías del Estado, sustanciar el procedimiento que regula el presente capítulo. Este procedimiento podrá iniciarse de forma oficiosa cuando a juicio de alguna de las autoridades referidas en el artículo 2 de esta Ley, la conducta de algún notario pueda encuadrar en alguna de las causas de responsabilidad previstas en esta ley, por queja o visita de inspección, con independencia del resultado del procedimiento conciliatorio.
 
-I.- Por haber sido condenado por delito intencional, mediante sentencia ejecutoria;
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
-II.- Por no presentarse a ejercer sus funciones, dentro de un término de 60 días naturales a partir del vencimiento de la licencia prevista por el artículo 66;
+ARTICULO 195 BIS 1.- La recepción y trámite de las quejas presentadas por cualquier interesado en contra del notario público, se sujetará a las siguientes normas:
 
-III.- Por ejercer sus funciones con notorias deficiencias graves;
+I.- El escrito de queja contendrá lo siguiente:
 
-IV.- Por hacer uso de drogas enervantes o ejercer la función notarial en estado de ebriedad;
+a) Nombre, dirección, teléfono, correo electrónico, y demás datos de localización del quejoso;
 
-V.- Cuando dentro de un período no mayor de dos años reincida en la causal prevista en la fracción V del artículo anterior;
+b) En su caso, nombre de su representante y de aquellos autorizados para oír y recibir notificaciones; y
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+c) Relación de los hechos o actos que originen la queja.
 
-VI.- Si dentro del término de 180 días siguientes de la protesta que haya rendido ante la autoridad respectiva, no inicia sus funciones ni fija su residencia en el lugar en que deba desempeñarlas de conformidad con el acuerdo de expedición de la patente respectiva;
+En éste escrito, el quejoso podrá ofrecer o acompañar las pruebas con las que acredite sus manifestaciones, o señalar la dependencia o entidad en la que obren tales constancias.
 
-VII.- Por ser reincidente en la causal señalada en la fracción XI del artículo anterior;
+En caso de que faltara alguno de los requisitos aquí señalados, el Titular de la Dirección de Notarías prevendrá al quejoso para que subsane las deficiencias. Para lo cual, se le otorgará un plazo no mayor a cinco días hábiles. Vencido el término, si el quejoso no lo subsanara, se tendrá por no presentada la queja.
 
-VIII.- Si no desempeñare personalmente las funciones de notario;
+II.- Una vez cumplidos los requisitos previstos, el Director del Archivo General de Notarías hará una evaluación preliminar para determinar si la queja es notoriamente infundada, si es susceptible de resolverse mediante conciliación o si amerita iniciar el procedimiento para determinar la responsabilidad del Notario.
 
-IX.- Por la reincidencia en el cobro de honorarios superiores a los permitidos por el arancel;
+En el primer caso, desechará la queja y así lo hará saber al quejoso.
 
-X.- Por expedir testimonios, copias y certificaciones de escrituras o actas que no consten en su protocolo o por expedir cotejos de documentos originales o en copia certificada que no haya tenido a la vista; y
+En el segundo caso, radicará la investigación administrativa en la que ordenará dar vista al notario con el escrito de queja; le prevendrá para que dentro de un plazo de cinco días presente un informe escrito y citará a las partes para que comparezcan a una audiencia de conciliación que deberá celebrarse dentro de los quince días siguientes. Al presentar su informe escrito, el Notario podrá acompañar los documentos que estime necesarios.
 
-XI.- Por permitir que en la Notaría de que es Titular, otra persona se ostente o se haga aparentar como Notario o por permitir que en el exterior de la Notaría aparezca el nombre de otra persona diferente al titular. De lo anterior se exceptúa el caso de los adscritos y asociados, en esta hipótesis expresamente se señalará su carácter de adscrito o asociado.
+En el tercer caso, el Titular de la Dirección del Archivo General de Notarías iniciará, de oficio, una investigación administrativa en la que ordenará las visitas extraordinarias que correspondan a fin de obtener mayores elementos que permitan corroborar los hechos contenidos en la queja, así como conocer la existencia de conductas que puedan ser causa de responsabilidad administrativa del Notario Público.
+
+III.- A partir de la recepción de la queja, el Titular de la Dirección del Archivo General de Notarías podrá practicar las diligencias que considere necesarias para la integración de la investigación administrativa, así como recabar las pruebas. Para ello, podrá requerir al Notario señalado, al Colegio de Notarios de Baja California, a diversos notarios y a otros órganos de la administración pública de los diversos niveles de gobierno, informes, opiniones, consultas, así como la práctica de cualesquier diligencia o inspección especial que se requiera. Esta fase constituirá el período de investigación administrativa.
+
+En iguales términos a los establecidos en la fracción III que antecede, procederá la autoridad, cuando la investigación administrativa inicie de manera oficiosa, por motivo de una visita de inspección, o cuando a juicio del Titular del Ejecutivo del Estado o del Secretario General de Gobierno, la conducta de algún notario pueda encuadrar en las que son causa de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 2.- El procedimiento conciliatorio se llevará ante el Titular de la Dirección de Notarías, bajo las siguientes reglas:
+
+I.- En la audiencia, se dará cuenta con el informe y anexos presentados por el Notario y se exhortará a las partes para que resuelvan amigablemente los puntos que dieron lugar a la queja;
+
+II.- De llegarse a un acuerdo, se levantará acta en la que se asentaran los términos y condiciones del mismo, quedando obligadas las partes a informar al Archivo General de Notarias, dentro de un plazo de quince días, sobre el cumplimiento de los compromisos adquiridos, con lo que se dará por terminada la etapa de conciliación; y
+
+III.- En el caso contrario, se dará por concluida la etapa conciliatoria y quedarán a salvo los derechos de las partes, para hacerse valer en las instancias que correspondan.
+
+Independientemente de lo anterior, la Dirección podrá verificar por los medios que le sean adecuados, sobre el cumplimiento de las obligaciones contraídas por los comparecientes en el acuerdo respectivo.
+
+La audiencia a que hace referencia éste artículo, así como la conciliación y su cumplimiento, se podrá efectuar sin perjuicio de que se inicie formalmente el procedimiento para determinar la responsabilidad del notario que prevé éste capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 3.- Una vez recibida la queja o terminada la etapa de investigación administrativa en la que se hubiesen agregado las visitas y, en su caso, agotada la conciliación; si se considera que hay causa razonable para continuar el procedimiento para determinar la responsabilidad del notario, se procederá conforme a lo previsto por el artículo siguiente; en caso contrario, se dictará el acuerdo archivo y se tendrá el asunto como totalmente concluido.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 4.- El procedimiento, se sujetará a las siguientes reglas:
+
+I.- Iniciará con el acuerdo que dicte el Director del Archivo General de Notarías, el cual deberá contener lo siguiente:
+
+a) Describir los actos u omisiones que dieron origen al procedimiento;
+
+b) Establecer la conducta que se estima como causa de responsabilidad del Notario Público;
+
+c) Relacionar las pruebas o medios de convicción que la soporten;
+
+d) Señalar los dispositivos legales que presuntivamente se estimen infringidos; y
+
+e) La indicación de que el expediente respectivo estará a su disposición, para consulta, en días y horas hábiles durante todo el procedimiento.
+
+II.- Emitido el acuerdo de inicio, el Titular de la Dirección del Archivo General de Notarías, por conducto del personal que designe, correrá traslado de una copia simple del mismo y de los documentos que lo soporten, al Notario Público que se trate. A partir del día siguiente a su notificación, tendrá un plazo de quince días hábiles para presentar un informe. El plazo podrá ser prorrogable, por una sola ocasión, a solicitud del Notario Público;
+
+III.- La notificación a que hace referencia la fracción anterior, se hará en las oficinas del notario. En caso de que el Notario no se encuentre, se entenderá la notificación con quien se encuentre, y en caso de que se negase a recibirlo, se efectuará por cédula que contendrá el nombre de la autoridad que la dicta, número de expediente, adjuntando copia del acuerdo de inicio correspondiente, así como el plazo para la presentación de su contestación;
+
+IV.- El informe que presente el Notario contendrá las consideraciones de hecho y de derecho que estime pertinentes y las pruebas que ofrezca para justificarlas y, en caso de tratarse de documento y de no tenerlos en su poder, señalará el archivo donde se encuentren, ofreciendo el informe de autoridad o la inspección correspondiente.
+
+Serán admisibles toda clase de pruebas, excepto las de posiciones y la declaración de parte a cargo de autoridades, sin perjuicio de que la Dirección del Archivo General de Notarías pueda solicitar informe específico que considere necesario para mejor proveer.
+
+Para efectos de su admisión, las pruebas ofrecidas deberán reunir los siguientes elementos, o de lo contrario se desecharán de plano
+
+a) No ser contrarias a la moral o al derecho.
+
+b) Tener relación inmediata y directa con los puntos controvertidos.
+
+Las pruebas supervenientes, podrán presentarse siempre que no se haya dictado resolución administrativa, reservándose su admisión y valoración hasta la resolución.
+
+En la admisión, preparación, desahogo y valoración de pruebas, se aplicará en lo conducente, la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California o en su defecto el Código de Procedimientos Civiles del Estado;
+
+V.- Cuando no existieran pruebas pendientes de desahogar, el Titular de la Dirección declarará cerrado el período probatorio y se otorgará un plazo de tres días al notario, para que presente sus alegatos por escrito; y
+
+VI.- Concluido el plazo para la presentación de alegatos, se turnará el expediente al Titular de la Secretaría General de Gobierno para que con la asistencia del Subsecretario Jurídico emita la resolución respectiva dentro de los siguientes treinta días hábiles.
+
+Las sanciones que en su caso se impongan, serán ejecutadas por la Dirección del Archivo General de Notarías, en los términos de la resolución que se emita en este procedimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 5.- Solo podrá seguirse el procedimiento en contra de un notario por conductas cuya responsabilidad no haya prescrito.
+
+Prescribe en un año la responsabilidad del notario derivada del incumplimiento de esta ley, que no sea considerado grave, contado a partir del momento en que se cometió.
+
+La responsabilidad grave derivada de incumplimiento de esta ley, prescribirá en tres años, contados a partir del momento de su comisión.
+
+El inicio del procedimiento previsto en esta sección suspende la prescripción, de igual forma se suspende por el inicio de un procedimiento judicial relacionado con la conducta imputable o en el que se combata la resolución administrativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 6.- La inactividad de la autoridad, no producirá la caducidad de la instancia pero, si se prolonga por seis meses, hará reanudar el plazo para computar la prescripción.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 7.- Las resoluciones y acuerdos que emitan las autoridades correspondientes, deberán constar por escrito, lo mismo que informes, promociones o alegatos que formule el Notario Público.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+Sección B.- De las sanciones y su imposición
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 8.- Las sanciones administrativas que se impongan a los notarios, indistintamente, serán como sigue:
+
+I.- Amonestación por escrito;
+
+II.- Multa por una cantidad mínima de cien y máxima de tres mil veces el salario mínimo general vigente en el Estado; y
+
+III.- Revocación de la patente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 9.- Las sanciones se impondrán tomando en cuenta los siguientes elementos:
+
+I. La gravedad de la conducta cometida;
+
+II. El monto del beneficio, daño o perjuicio económico derivado de la falta cometida;
+
+III. Los antecedentes del notario en el ejercicio de la función notarial; y
+
+IV. La importancia del bien jurídico tutelado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 10.- Son conductas sancionables a los notarios las siguientes:
+
+I. El retraso injustificado por causas imputables a estos, en la realización de una actuación o desahogo de un trámite notarial relacionado con un servicio solicitado;
+
+II. No llevar los índices y no encuadernar oportunamente los volúmenes de protocolo y su apéndice, así como el apéndice del libro de certificaciones fuera de protocolo, o no conservarlos en términos de ley;
+
+III. Separarse de sus funciones sin haber dado previo aviso u obtenido licencia, según corresponda;
+
+IV. Provocar por culpa o dolo, la nulidad de un instrumento o testimonio notarial;
+
+V. La falta de convenio de suplencia a que se refiere esta ley, salvo que el notario cuente con adscrito o se encuentre asociado en términos de la misma;
+
+VI. Incumplir con el horario y días señalados para la prestación del servicio notarial;
+
+VII. No utilizar los libros notariales, en los términos de ley;
+
+VIII. Negarse, sin causa justificada, a ejercer sus funciones como notario cuando hubiera sido requerido para ello por algún usuario o autoridad;
+
+IX. Enviar extemporáneamente o no enviar los avisos previstos en esta ley;
+
+X. No permitir, sin causa justificada, la práctica de una visita de inspección;
+
+XI. No tener a la vista de los usuarios, el arancel de notarios, así como el listado de los honorarios que han de cubrirse por los distintos servicios;
+
+XII. Cobrar honorarios por montos superiores a los establecidos en el arancel notarial;
+
+XIII. Redactar instrumentos notariales o expedir testimonios o copias certificadas sin sujetarse a lo previsto por esta ley;
+
+XIV. Negarse a ser parte del jurado de evaluación en los exámenes previstos en ésta Ley;
+
+XV. No realizar la visita de inspección establecida en esta Ley, ordenada por la autoridad competente;
+
+XVI. Negarse a ser visitador en las inspecciones establecidas en Ley;
+
+XVII. Negarse a recibir, colaborar, prestar auxilio o impedir la práctica de las visitas previstas por esta Ley;
+
+XVIII. Negarse injustificadamente a que se realice la práctica notarial a que se refiere esta Ley;
+
+XIX. Revelar dolosamente la información de los asuntos que se le encomienden;
+
+XX. Establecer las oficinas fuera de la ciudad, población o delegación municipal en la que se le hubiere señalado en el acuerdo de expedición de la Patente;
+
+XXI. Realizar cualquier actividad incompatible con la función notarial;
+
+XXII. No entregar oportunamente los volúmenes de protocolo, los libros de certificaciones fuera de protocolo, los apéndices de ambos y los índices, que deban ser remitidos para su guarda y custodia definitiva a la Dirección del Archivo General de Notarias;
+
+XXIII. Aceptar en depósito dinero o valores en contravención a lo que establezca la legislación aplicable;
+
+XXIV. Negarse, sin causa justificada, a prestar el auxilio a las autoridades electorales, partidos políticos, gobiernos federal y estatal, así como a los usuarios, durante los procesos electorales o en relación a éstos;
+
+XXV. No constituir o mantener vigente la garantía notarial;
+
+XXVI. No reincorporarse al servicio de su notaría al vencimiento de las ausencias o licencias;
+
+XXVII. No rendir, sin causa justificada, el informe a que se refiere el párrafo segundo del artículo 6 de esta ley;
+
+XXVIII. No desempeñar personalmente las funciones notariales de la manera que la presente ley dispone;
+
+XXIX. Expedir copias certificadas de documentos que no haya tenido a la vista;
+
+XXX. Expedir testimonios o certificaciones de hechos que no consten en su protocolo o en el libro de certificaciones fuera de protocolo;
+
+XXXI. Ejercer sus funciones con deficiencias graves notorias;
+
+XXXII. Haber sido condenado por delito intencional, mediante sentencia ejecutoria;
+
+XXXIII. No iniciar funciones dentro de los 180 días naturales siguientes a la toma de protesta;
+
+XXXIV. Modificar dolosamente, y sin el consentimiento de las partes, el contenido de una escritura, acta notarial, testimonio, copia certificada o certificaciones;
+
+XXXV. No enterar a las autoridades los impuestos y derechos que haya recibido para ello en ejercicio de su función notarial;
+
+XXXVI. Asentar hechos o actos jurídicos que constituyan fraude a la Ley;
+
+XXXVII. Omitir excusarse en algún trámite cuando así deba hacerlo, o cuando no lo hiciera en los términos de ésta Ley;
+
+XXXVIII. Contar con dos o más oficinas para la atención al público;
+
+XXXIX. Ejercer funciones fuera de su demarcación territorial;
+
+XL. Permitir la suplantación de su firma o sello, o que el personal de su notaría se ostente como Notario Titular, o que aparezca un nombre diferente al suyo, del adscrito o asociado, en el exterior del inmueble;
+
+XLI. No presentarse a ejercer sus funciones, dentro de un término de 60 días naturales contados a partir del vencimiento de la licencia prevista en el artículo 66 de esta ley;
+
+XLII. Consumir o hacer uso de drogas o enervantes o ejercer la función notarial en estado de ebriedad;
+
+XLIII. Reincidir en faltar a ejercer sus funciones al vencimiento de las ausencias o licencias previstas en los artículos 64 y 65 de esta ley;
+
+XLIV. Incumplir los acuerdos dictados por el Ejecutivo, a que se refiere el artículo 178 de esta ley; o
+
+XLV. Las demás obligaciones o prohibiciones a cargo del Notario Público que expresamente prevea ésta Ley, su Reglamento u otras leyes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 11.- Se considerarán conductas graves las señaladas en las fracciones XII, XV a la XXI y XXVIII a la XLIV, del artículo 195 Bis 10 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 12.- Para los efectos de la fracción XXXI del artículo 195 Bis 10, se entienden como deficiencias graves notorias por parte de los notarios:
+
+I.- Resultar responsables de cualquiera de las conductas sancionables a que se refiere el artículo 195 Bis 10 por más de tres ocasiones en un periodo de un año, salvo lo dispuesto en la fracción IV del presente artículo;
+
+II.- Negarse de forma reiterada y sin causa justificada a otorgar el servicio, cuando hubiera sido requerido para ello por algún usuario o autoridad; o
+
+III.- Resultar responsable por más de tres ocasiones, de la nulidad de instrumentos o testimonios notariales por su culpa o dolo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+ARTICULO 195 BIS 13.- El incurrir en cualquiera de los supuestos previstos por las fracciones XX, XXVIII a la XXXII, XXXIV a la XXXVI, y XXXVIII a la XLIII del artículo 195 Bis 10, traerá como consecuencia la revocación de la patente respectiva.
 
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO DE AUDIENCIA
 
@@ -1535,15 +1971,15 @@ Los Notarios no serán remunerados por el Erario, sino que tendrán derecho a co
 
 Los Notarios deberán cobrar por sus servicios las cantidades que precisamente resulten aplicables a cada caso, conforme al Arancel aprobado por el Ejecutivo del Estado y conforme a los Convenios que, para determinadas actividades, celebre el Consejo de Notarios.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
-## TITULO NOVENO. DE LA TRAMITACION EXTRAJUDICIAL
+ARTICULO 200 BIS.- El Arancel de Notarios expedido por el Ejecutivo del Estado, deberá estipular los honorarios respectivos con base en una perspectiva de beneficio social, cuando se trate de la enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por veinticinco veces el salario mínimo general vigente en el Estado de Baja California elevado al año, de la constitución o transmisión de derechos reales o que garanticen un crédito no mayor a dicha suma, así como de la intervención de los notarios en los testamentos.
 
-DE LA TRAMITACION SUCESORIA ANTE NOTARIO Y DEL TESTAMENTO PUBLICO SIMPLIFICADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE JUNIO DE 2002)</small>
+## TÍTULO NOVENO. DE LA TRAMITACIÓN EXTRAJUDICIAL DE LA TRAMITACIÓN SUCESORIA ANTE NOTARIO
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
 
@@ -1563,9 +1999,7 @@ b).- En la celebración y modificación de capitulaciones matrimoniales, disoluc
 
 c).- En las informaciones ad perpetuam, apeos y deslindes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2002)</small>
-
-### CAPITULO SEGUNDO. TRAMITACION SUCESORIA NOTARIAL
+### CAPÍTULO SEGUNDO. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS NOTARIOS PÚBLICOS
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
 
@@ -1573,13 +2007,17 @@ c).- En las informaciones ad perpetuam, apeos y deslindes.
 
 Sin perjuicio de lo dispuesto por el Código de Procedimientos Civiles, las sucesiones en las que no hubiere controversia alguna y cuyos herederos fueren mayores de edad, menores emancipados o personas jurídicas, podrán tramitarse ante Notario. El que se oponga al trámite de una sucesión, o crea tener derechos contra la misma, los deducirá conforme lo previene el Código de Procedimientos Civiles. El Juez competente, de estimarlo procedente, lo comunicará al Notario para que, en su caso, a partir de esa comunicación se abstenga de proseguir con la tramitación.
 
-La apertura de testamento público cerrado, así como la declaración de ser formal un testamento especial, de los previstos por el Código Civil, se otorgará siempre judicialmente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+La apertura, así como la declaración de ser formal un testamento hecho en país extranjero, se otorgará siempre judicialmente.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 203.
 
-Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a cabo, independientemente de cual hubiese sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento.
+Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a cabo, independientemente de cuál hubiese sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento, siempre y cuando se actualicen las hipótesis previstas en la primera parte del artículo anterior.
+
+En este caso, deberán obtenerse previamente los informes del Registro Público de la Propiedad y del Comercio y de la Dirección del Archivo General de Notarías, con consulta expresa al Archivo General de Disposiciones de Última Voluntad de la Secretaría de Gobernación.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
 
@@ -1587,9 +2025,9 @@ Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a 
 
 La sucesión intestamentaria podrá tramitarse ante notario si el último domicilio del autor de la sucesión estuvo en Baja California, o si se encuentran ubicados en esta entidad la mayor parte de los bienes.
 
-Para tramitar la intestamentaria, el notario deberá obtener del Archivo General de Notarías y del Registro Público de la Propiedad, las constancias de no tener éstos depositado testamento del autor de la sucesión.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Los herederos deberán acreditar al Notario la muerte del autor de la sucesión y su entroncamiento con el mismo, mediante las partidas del Registro Civil correspondientes.
+Para tramitar la intestamentaria, el notario deberá obtener del Registro Público de la Propiedad y del Comercio la constancia de no tener depositado testamento del autor de la sucesión y, de la Dirección del Archivo General de Notarías, con consulta expresa al Archivo General de Disposiciones de Última Voluntad, de la Secretaría de Gobernación, las constancias respecto de la noticia que tengan de testamentos otorgados por el de cujus.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
 
@@ -1649,21 +2087,151 @@ Una vez hechas las publicaciones a que se refiere el artículo anterior, de lo q
 
 Los herederos y albacea otorgarán las escrituras de partición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los interesados, como los propios herederos convengan.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
-### CAPITULO TERCERO. DEL TESTAMENTO PUBLICO SIMPLIFICADO Y SU TRAMITACION NOTARIAL
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+### CAPÍTULO TERCERO. DEL TESTAMENTO PÚBLICO SIMPLIFICADO Y SU TRAMITACIÓN NOTARIAL
 
 ###### ARTICULO 213.
 
-En las operaciones de compraventa de vivienda de interés social o popular que se realicen ante Notarios, se podrá constituir testamento público simplificado en los términos del Código Civil para el Estado de Baja California; instituyendo el testador uno o más legatarios mediante simple manifestación, que se consignará en una cláusula del instrumento respectivo.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 214.
 
-En caso de testamento público simplificado, los legatarios instituidos exhibirán al Notario el respectivo testimonio, junto al acta de defunción del testador, los títulos de propiedad y demás documentos del caso. El Notario, antes de redactar el instrumento, procederá a publicar, por una sola vez en un diario de los de mayor circulación local, que lleva a cabo el trámite sucesorio, indicando en dicha publicación el nombre del testador y de los legatarios. Adicionalmente, recabará las constancias relativas del Archivo General de Notarías y del Registro Publico de la Propiedad, procediendo en los términos antes indicados.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+## TÍTULO DÉCIMO. DE LOS MEDIOS TECNOLÓGICOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPÍTULO I. GENERALIDADES
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 215.
+
+El notario, en el ejercicio de sus funciones, podrá auxiliarse y hacer uso de medios mecánicos, eléctricos, electrónicos, magnéticos, ópticos y en general, cualquier otro que permita la ciencia y la tecnología, presente y futura.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 216.
+
+El Ejecutivo del Estado, por medio de disposiciones generales, dictará las medidas para reglamentar el uso de un registro informático, que tendrá el mismo valor funcional y legal del Protocolo notarial.
+
+Estas disposiciones generales deberán ser publicadas en el Periódico Oficial del Estado y preverán que los instrumentos sean autorizados por el notario mediante una firma electrónica y sello digital o equivalentes funcionales, según permita la técnica.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPÍTULO II. DE LA PROTECCIÓN DEL CONSENTIMIENTO Y LA FORMA
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 217.
+
+Cuando las leyes aplicables exijan la forma escrita para un determinado acto, se tendrá por cumplido el requisito de la firma, mediante mensaje de datos remitidos por medios electrónicos, ópticos o a través de cualquier otra tecnología, siempre que sean atribuibles los mismos a los emisores, y accesibles para su ulterior consulta.
+
+El supuesto previsto en el párrafo anterior, es aplicable para la firma de los instrumentos notariales, con excepción del otorgamiento de testamento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 218.
+
+Para que se tenga por cumplida la forma notarial, el notario deberá consignar el acto jurídico que deba otorgarse en un instrumento ante su fe, conforme a las prevenciones de esta Ley, en el cual el notario y los emisores podrán, a través de mensajes de datos, remitidos por medios electrónicos, ópticos o a través de cualquier otra tecnología, expresar los términos exactos en que han decidido obligarse, en cuyo caso el notario deberá consignar en el instrumento respectivo cuáles fueron los elementos a través de los que se atribuyeron dichos mensajes a los emisores y conservar, bajo su resguardo, una versión escrita, íntegra de los mismos, para su ulterior consulta.
+
+En estos casos, bastará con que el notario consigne la declaración que hacen los otorgantes, respecto de su capacidad, para que se tenga por cumplida la obligación del notario de dar fe de ello.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 219.
+
+La integridad y autoría de un mensaje de datos será verificable mediante el método de remisión al documento original y de los datos relativos a la aceptación de la emisión o, en su caso, los relativos a su firma electrónica o equivalente funcional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPÍTULO III. PROTECCIÓN DEL SOPORTE
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 220.
+
+Los instrumentos públicos asentados en soporte electrónico, así como sus reproducciones a través de dicho medio, conservarán ese carácter, siempre que contengan la firma electrónica y sello digital del notario o sus equivalentes funcionales.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 221.
+
+Los registros informáticos donde el notario haga constar los instrumentos en soporte diverso del papel, serán la matriz de la cual se podrán reproducir los mismos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 222.
+
+Cuando el notario de fe de un contrato celebrado entre ausentes con presencia funcional, deberá hacer constar en el instrumento el medio utilizado para tenerles por presentes y para cerciorarse de su identidad.
+
+Si se tratase de comunicado con voz e imagen, conservará ejemplar digital del mismo, que certificará con su firma digital y que se considerará mensaje de datos, para todo efecto legal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPÍTULO IV. DE LA COMUNICACIÓN TECNOLÓGICA
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 223.
+
+Los mensajes de datos, los instrumentos públicos y sus reproducciones, que consten en soporte diverso del papel, podrán ser transmitidos y comunicados entre los notarios o entre éstos y las diversas autoridades, por medios electrónicos, ópticos, o cualquier otra tecnología.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 224.
+
+El valor de dichos mensajes y los instrumentos así comunicados, corresponderá al de sus originales, siempre y cuando:
+
+I.- Se transmitan mediante el uso de plataformas o redes seguras; o
+
+II.- Se transmitan a través de cualquier tecnología, siempre y cuando lleven la firma electrónica del notario o su equivalente funcional.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 225.
+
+Podrá implementarse un sistema de información, con el objeto de que los interesados puedan verificar la autenticidad de los mensajes de datos y de los instrumentos públicos y sus reproducciones que se comuniquen por medios tecnológicos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 226.
+
+El traslado que el notario haga a papel de los documentos consignados en soporte electrónico, tendrá el mismo valor de las reproducciones que éste haga de sus originales.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 227.
+
+En lo que sean conducentes, serán aplicables a las disposiciones de este capítulo las de la Ley de Firma Electrónica para el Estado de Baja California.
+
+Para los efectos de esta Ley, el Ejecutivo del Estado podrá autorizar al Consejo de Notarios del Estado, como Agente Certificador, en los términos y con las funciones a que se refiere la Ley de Firma Electrónica para el Estado, para las autoridades públicas a las que se les concede dicho carácter con base en tal ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPÍTULO V. DE LA REPOSICIÓN
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 228.
+
+Los notarios podrán conservar, por duplicado, copias, reproducciones o imágenes digitales o electrónicas de los instrumentos notariales, de los libros de certificaciones fuera de protocolo y de sus respectivos apéndices, los que constituyen el archivo digital.
+
+Cuando los notarios remitan los protocolos originales al Director del Archivo General de Notarías, deberá remitir también las reproducciones o imágenes digitales o electrónicas correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### ARTICULO 229.
+
+En caso de destrucción, extravío o robo de los libros o folios de los protocolos, éstos podrán reponerse mediante reproducción impresa y encuadernado de los elementos a que se refiere el artículo anterior.
+
+La reposición de los protocolos destruidos, extraviados o robados, de los cuales no existan las copias o imágenes a que se refieren el artículo anterior, se hará a partir de los testimonios y copias certificadas que proporcionen los interesados o que obtenga el mismo notario, de las partes, de sus propios registros, o de archivos públicos.
+
+En caso de destrucción, extravío o robo de protocolos, el notario, bajo pena de incurrir en responsabilidad por omisión, a más tardar dentro de las veinticuatro horas siguientes al descubrimiento de tal hecho lo denunciará ante el Ministerio Público, y con la copia certificada del reporte o acta correspondiente, dará aviso de manera inmediata al Archivo General de Notarías, al Registro Público de la Propiedad y del Comercio y al Consejo de Notarios.
 
 ## TRANSITORIOS
 
@@ -1705,7 +2273,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE JUNIO DE 2002.
 
@@ -1716,3 +2284,29 @@ P.O. 2 DE ABRIL DE 2004.
 ###### ARTÍCULO UNICO.
 
 La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE MAYO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tratándose de la Reforma al artículo 173 de la Ley de Hacienda, ésta entrará en vigor el primero de enero del ejercicio fiscal siguiente al de publicación del presente Decreto en el Periódico Oficial del Estado.
+
+Tratándose de la reforma al párrafo primero del artículo 2191 del Código Civil del Estado, a los artículos 145 de la Ley del Notariado del Estado y 48 de la Ley del Registro Público de la Propiedad y de Comercio para el Estado, éstas entrarán en vigor a los 120 días siguientes al de la publicación del presente Decreto.
+
+SEGUNDO.- Aquellos testamentos públicos cerrados, públicos simplificados, privados, militares, marítimos o hechos en país extranjero que hayan sido otorgados con anterioridad al presente decreto, subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás tramitación correspondiente se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento.
+
+Tratándose de los testamentos ológrafos otorgados con anterioridad al presente Decreto, estos subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás trámites que correspondan, las personas interesadas podrán optar ante el juez, siempre que no hubiere controversia alguna, menores de edad, menores emancipados o mayores incapacitados, entre seguir la substanciación conforme a las disposiciones vigentes al momento de su otorgamiento, o tramitar la sucesión ante Notario Público.
+
+TERCERO.- El Ejecutivo del Estado deberá emitir las disposiciones reglamentarias conducentes derivadas de las modificaciones a la Ley del Notariado, en un plazo no mayor de doscientos cuarenta días a partir de la de la entrada en vigor de las presentes reformas. Los notarios contarán con un plazo de ciento veinte días, a partir de la vigencia de las mismas, para realizar las adecuaciones necesarias que de conformidad con estas correspondan.
+
+CUARTO.- Los procedimientos instaurados en contra de notarios por quejas presentadas con anterioridad a la entrada en vigor de las presentes reformas, se tramitarán conforme a las disposiciones vigentes en aquel momento.
+
+QUINTO.- Quienes se encuentren realizando la práctica notarial en cualquiera de sus etapas al inicio de la vigencia de las presentes reformas y quienes ya las hayan concluido pero no hayan obtenido patente de aspirante, seguirán el trámite conforme al presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado deberá emitir las modificaciones necesarias al Arancel de Notarios para el Estado de Baja California derivado de las reformas al Código Civil y al Código de Procedimientos Civiles, así como realizar los ajustes que correspondan por la intervención de los notarios en los testamentos.
+
+SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entrada en vigor de las presentes reformas deberán ajustarse al artículo 155 de este Decreto, en la actualización anual que corresponda.
+
+OCTAVO.-Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
+
+NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
