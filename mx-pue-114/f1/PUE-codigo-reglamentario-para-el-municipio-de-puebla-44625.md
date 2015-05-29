@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2015-03-02"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 14 DE JULIO DE 2015 Y 28 DE JULIO DE 2015, EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -855,81 +853,39 @@ Los Regidores nombrados para integrar alguna Comisión permanente o transitoria,
 
 Las Comisiones rendirán al Ayuntamiento un informe anual de las labores que desarrollen sus respectivas comisiones.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2007)</small>
-
-DE LAS NOTIFICACIONES POR MEDIOS ELECTRÓNICOS
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. DEROGADO EL TÍTULO DENOMINADO "DE LAS NOTIFICACIONES POR MEDIO ELECTRÓNICOS", CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015.</small>
 
 ###### Artículo 107 Bis.
 
-Para la citación y cumplimiento de las Sesiones de Cabildo podrán establecerse mecanismos tecnológicos que permitan enviar y recibir por medios de comunicación electrónica, las notificaciones y resoluciones de los Acuerdos de Cabildo, para lo cual se considerarán los mecanismos que representen mejoras en los tiempos de ejecución, disminución de costos, así como incrementar la eficiencia y transparencia de los mismos.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 107 Ter.
 
-En cumplimiento del artículo anterior el Presidente Municipal, Regidores, Secretario del H. Ayuntamiento, Sindico y Titulares que conformen la Administración Centralizada y Descentralizada Municipal, contarán con una cuenta de correo electrónico asignada por la Dirección de Tecnologías de la Información, que contara con clave de seguridad, misma que será responsabilidad de cada usuario.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 107 Quater.
 
-Para la citación y notificación de las Sesiones de Cabildo se observará lo establecido en los artículos relacionados al tema y que contiene el Capítulo 5 del presente Código Reglamentario.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 107 Quinquies.
 
-Para efectos del presente apartado se entiende por:
-
-I.- Acuse de Recibo Electrónico: La constancia escrita y/o electrónica, que emite una autoridad, dependencia u organismo para acreditar la fecha y hora de recepción de una notificación o resolución, a través de medios de comunicación electrónica.
-
-II.- Emisor: Cualquier autoridad, dependencia u organismo, que emita a través de un medio de comunicación electrónica un comunicado, notificación o resolución, a otra autoridad, dependencia u organismo que tenga la capacidad tecnológica para la recepción de los mismos.
-
-III.- Receptor: La autoridad, dependencia u organismo que recibe a través de un medio de comunicación electrónica un comunicado, notificación o resolución, de otra autoridad, dependencia u organismo que tenga la capacidad tecnológica para la emisión de los mismos.
-
-IV.- Medios Electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, microondas o de cualquier otro tipo de tecnología.
-
-V.- Programas Informáticos: Los medios de captura, transmisión y recepción de información que desarrollen, instalen y apliquen las autoridades, dependencias u organismos, para estar en aptitud de emitir y recibir de la manera más eficaz, segura, transparente, rápida y que genere el menor costo, los comunicados, notificaciones o resoluciones necesarios para la marcha regular de los negocios.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 107 Sexies.
 
-Son autoridades competentes para la aplicación e interpretación del presente apartado, en el ámbito de sus respectivas competencias:
-
-I.- El Honorable Ayuntamiento de Puebla;
-
-II.- El Presidente Municipal Constitucional de Puebla;
-
-III.- El Secretario del H. Ayuntamiento;
-
-IV.- El Síndico Municipal; y
-
-V.- El Director de Tecnologías de la Información.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 107 Septies.
 
-La Dirección de Tecnologías de la Información procurará lo necesario para que se actualicen los programas informáticos y garantice que los medios electrónicos utilizados por el emisor y el receptor cuenten con la mayor seguridad para su desahogo.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 107 Octies.
 
-En todo momento las autoridades, dependencias y organismos podrán hacer las veces de emisor y receptor, causando los efectos jurídicos de Ley, una vez que se expidió el acuse de recibo electrónico.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+###### Artículo 107 Nonies.
 
-Artículo 107 Novies.- Las violaciones al presente apartado serán sancionadas sin perjuicio de las acciones legales que procedan, por el Honorable Ayuntamiento de Puebla, mismas que son:
-
-I.- A quien altere, distorsione, menoscabe o modifique los documentos públicos que se emitan o reciban a través de los medios electrónicos de comunicación, se le impondrá una multa de 100 a 200 días de salario mínimo vigente en el Estado de Puebla y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
-
-II.- A quien haga uso indebido de los medios electrónicos a cargo de los servidores públicos del Gobierno Municipal, se le impondrá una multa de 50 a 100 días de salario mínimo vigente en el Estado de Puebla y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
-
-III.- A quien elimine, borre o impida que cualquier archivo sea enviado y recibido en tiempo y forma legal se le impondrá una multa de 100 a 200 días de salario mínimo vigente en el Estado de Puebla y en caso de ser usuario la revocación de su cuenta de correo electrónico.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ### CAPÍTULO 7. DE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS MESAS DIRECTIVAS DE VECINOS DE BARRIOS, COLONIAS, FRACCIONAMIENTOS Y UNIDADES HABITACIONALES
 
@@ -7829,7 +7785,7 @@ VIII. Las demás que determinen las disposiciones legales y reglamentarias aplic
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 493.
 
@@ -9655,993 +9611,55 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 627.
 
-El presente Capítulo tiene por objeto regular el funcionamiento de los establecimientos de giros comerciales complementarios, industriales y de servicios en el Municipio de Puebla.
+El presente Capítulo tiene por objeto regular el funcionamiento de los establecimientos de giros comerciales complementarios, industriales y de servicios y su entorno urbano, señalados en el Catálogo correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+Los establecimientos se clasificarán según su actividad comercial en:
+
+a) Establecimientos de giros comerciales susceptibles de Aviso de Apertura de Negocio; aquellos en los que se desarrollan actividades económicas, en un espacio no mayor a 60 metros cuadrados y que por la naturaleza de los bienes y servicios que ofrecen no impactan negativamente en el entorno urbano en que se ubiquen.
+
+b) Establecimientos de giros comerciales obligados a obtener Licencia de Funcionamiento; aquellos en los que se desarrollan actividades económicas que por la naturaleza de los bienes y servicios que ofrecen y el impacto en el entorno urbano que generan, requieren del cumplimiento de requisitos específicos establecidos por la normatividad aplicable.
+
+El Catálogo de Giros Comerciales Complementarios, Industriales y de Servicios del Municipio de Puebla se actualizará anualmente o cuando implique mejoras a la competitividad del Municipio, y dicha actualización estará a cargo de la Tesorería Municipal en coordinación con la Secretaría de Desarrollo Económico y Turismo, Secretaría de Desarrollo Urbano y Sustentabilidad y Secretaría de Gobernación a través de la Dirección de Protección Civil. Una vez aprobado por el Cabildo Municipal se publicará en el Periódico Oficial del Estado y en la página electrónica del Ayuntamiento, haciéndolo del conocimiento de la Contraloría Municipal.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 628.
 
-Son sujetos del presente Capítulo, los siguientes establecimientos:
+El Aviso de Apertura de Negocio es el documento técnico que contiene la autorización del Ayuntamiento para la apertura e inicio de actividades comerciales de un establecimiento y su registro en el Padrón de Contribuyentes del Municipio, expedido por la Tesorería Municipal, y del que se desprende la autorización del uso de suelo específico por parte de la Secretaría de Desarrollo Urbano y Sustentabilidad a través de la Dirección de Desarrollo Urbano.
 
-I.- COMERCIOS COMPLEMENTARIOS:
+El Aviso de Apertura de Negocio es susceptible de ser emitido a través del Sistema Informático diseñado por el Ayuntamiento, que de manera inmediata resuelva la viabilidad del inicio de apertura del negocio solicitado, al ser resuelto a través de los criterios que en materia de desarrollo urbano, observe la Secretaría de Desarrollo Urbano y Sustentabilidad a través de la Dirección de Desarrollo Urbano.
 
-1. AGROPECUARIO
+Para iniciar la operación de un negocio, cuyo giro corresponde a actividades susceptibles del Aviso de Apertura de Negocio de acuerdo al Catálogo de Giros Comerciales Complementarios, Industriales y de Servicio del Municipio de Puebla, el solicitante deberá estar inscrito en el Padrón de Usuarios Acreditados del Municipio de Puebla previsto en el Capítulo 37 denominado "Del Gobierno Digital" del presente Código, y para tal efecto además, deberá proporcionar la siguiente información:
 
-2. COMPRA VENTA DE ABONOS, FERTILIZANTES E INSECTICIDAS
+I. Documento con el que acredite su alta fiscal, ante el Servicio de Administración Tributaria (SAT), para ejercer la actividad económica en el establecimiento que solicite se le autorice, cuya actividad económica debe coincidir con la de su solicitud para el otorgamiento del Aviso de Apertura de Negocio o que justifique se encuentra en trámite de inscripción, de aumento o diminución (sic) de obligaciones;
 
-3. COMPRA VENTA DE ALIMENTOS PARA ANIMALES
+II. Croquis de ubicación y superficie total del local donde pretende establecerse el giro comercial;
 
-4. COMPRA VENTA DE ARTÍCULOS AGROPECUARIOS EN GENERAL
+III. Fotografías del bien inmueble: dos interiores y dos exteriores incluyendo fachada principal en las que se aprecien sus colindancias e interiores; y
 
-5. COMPRA VENTA DE SEMILLAS Y FORRAJES
+IV. Comprobante domiciliario del establecimiento.
 
-6. ALIMENTOS
+En caso de haber realizado alguna adecuación remodelación o construcción deberá de presentar licencia de uso de suelo para construcción, licencia de construcción y/o terminación de obra.
 
-7. ABARROTES
+Una vez que los documentos especificados se agreguen mediante archivo digital a su solicitud y ésta sea presentada por cualquiera de los medios electrónicos autorizados, en un término no mayor a un día hábil, se emitirá la resolución del trámite por medio del Sistema Informático.
 
-8. ANTOJITOS
+En caso de ser procedente la resolución, el solicitante podrá realizar el pago de los Derechos generados por la emisión del Aviso de Apertura de Negocio, a través de los medios puestos a su disposición; a partir de que surta sus efectos la notificación de la resolución empezará a transcurrir un plazo de cinco días hábiles para realizar el pago en las formas y lugares autorizados por la Tesorería Municipal; excedido dicho término sin realizar el pago, el trámite iniciado será cancelado.
 
-9. ANTOJITOS, JUGOS y LICUADOS
+El Aviso de Apertura de Negocio autoriza la realización de actividades en el establecimiento desde el momento en que se expide, previo pago dentro del término concedido, y que este se vea reflejado en las cuentas bancarias correspondientes del Municipio.
 
-10. CAFETERÍA Y FUENTE DE SODAS
+Para el caso de improcedencia del Aviso de Apertura de Negocio la autoridad deberá fundar y motivar la misma.
 
-11. CAFETERÍA Y FARMACIA
+Posterior a la apertura del establecimiento, el contribuyente debe solicitar la aprobación de las medidas de seguridad correspondientes ante la Unidad Operativa Municipal de Protección Civil, en un término no mayor a treinta día naturales, con el apercibimiento de que en caso de no realizar dicho trámite en los tiempos que establece la normatividad vigente, queda sujeto a la imposición de sanciones previstas en éste Código.
 
-12. CAFETERÍA Y LIBRERÍA
-
-13. CARNES FRÍAS Y EMBUTIDOS
-
-14. CARNICERÍA Y RECAUDERÍA
-
-15. CARNICERÍA Y POLLERÍA
-
-16. COCINA ECONÓMICA
-
-17. DISTRIBUIDORA Y COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS
-
-18. DULCERÍA Y REGALOS
-
-19. DULCERÍA, CONFITERÍA Y TÍPICOS
-
-20. EXPENDIO DE GRANOS, SEMILLAS Y CONDIMENTOS
-
-21. EXPENDIO DE HUEVO
-
-22. EXPENDIO DE MATERIAS PRIMAS ALIMENTICIAS
-
-23. EXPENDIO DE PRODUCTOS LÁCTEOS Y EMBUTIDOS
-
-24. FONDA
-
-25. FUENTE DE SODAS
-
-26. MARISQUERÍA
-
-27. MISCELÁNEA
-
-28. PALETERÍA Y HELADOS
-
-29. PANADERÍA
-
-30. PANADERÍA Y PASTELERÍA
-
-31. PASTELERÍA Y CONFITERÍA
-
-32. PESCADERÍA Y RECAUDERÍA
-
-33. PIZZERÍA
-
-34. POLLERÍA Y RECAUDERÍA
-
-35. POLLERÍA Y ROSTICERÍA
-
-36. RECAUDERÍA
-
-37. RESTAURANTE SIN VENTA DE BEBIDAS ALCOHÓLICAS
-
-38. RESTAURANTE VEGETARIANO
-
-39. ROSTICERÍA
-
-40. TIENDA DE PRODUCTOS NATURISTAS
-
-41. ULTRAMARINOS
-
-42. OTROS COMERCIOS ALIMENTICIOS
-
-43. APARATOS
-
-44. COMPRA VENTA DE APARATOS E INSTRUMENTOS AGRÍCOLAS
-
-45. COMPRA VENTA DE APARATOS E INSTRUMENTOS CIENTÍFICOS
-
-46. COMPRA VENTA DE APARATOS E INSTRUMENTOS DE PRECISIÓN
-
-47. COMPRA VENTA DE APARATOS E INSTRUMENTOS MÉDICOS Y DE LABORATORIO
-
-48. COMPRA VENTA DE APARATOS E INSTRUMENTOS ORTOPÉDICOS
-
-49. COMPRA VENTA DE APARATOS ELECTROMECÁNICOS
-
-50. COMPRA VENTA DE APARATOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS
-
-51. COMPRA VENTA DE APARATOS Y ACCESORIOS DE TELEFONÍA E INSTRUMENTOS
-
-52. COMPRA VENTA DE APARATOS Y ACCESORIOS DENTALES
-
-53. COMPRA VENTA DE OTROS APARATOS E INSTRUMENTOS
-
-54. BODEGAS
-
-55. BODEGA DE DISTRIBUCIÓN
-
-56. BODEGA DE EXHIBICIÓN
-
-57. BODEGA DE EXPLOSIVOS, CORROSIVOS, INFLAMABLES Y/O TÓXICOS
-
-58. BODEGA DE NO PERECEDEROS
-
-59. BODEGA DE PERECEDEROS
-
-60. BODEGA DE PRODUCTOS E INSUMOS AGROPECUARIOS
-
-61. BODEGA DE PRODUCTOS E INSUMOS INDUSTRIALES
-
-62. BODEGA SIN INGRESOS
-
-63. OTRO TIPO DE BODEGA
-
-64. MAQUINARIA Y EQUIPO
-
-65. COMPRA VENTA DE EQUIPO FOTOGRÁFICO, ELECTRÓNICO Y ELECTRODOMÉSTICO
-
-66. COMPRA VENTA DE EQUIPO FOTOGRÁFICO, REVELADO E IMPRESIÓN
-
-67. COMPRA VENTA DE EQUIPO PARA COMERCIO Y OFICINA
-
-68. COMPRA VENTA DE EQUIPOS Y ACCESORIOS INDUSTRIALES
-
-69. COMPRA VENTA DE EQUIPOS Y SISTEMAS DE CONTROL AMBIENTAL
-
-70. COMPRA VENTA, CONSIGNACIÓN DE EQUIPO DE CÓMPUTO
-
-71. COMPRA VENTA, CONSIGNACIÓN DE MAQUINARIA Y EQUIPO AGROPECUARIO
-
-72. COMPRA VENTA, CONSIGNACIÓN DE MAQUINARIA Y EQUIPO PESADO
-
-73. EQUIPAMIENTO y SERVICIO DE ALBERCAS
-
-74. OTRO TIPO DE MAQUINARIA Y EQUIPO
-
-75. MASCOTAS
-
-76. ACUARIO
-
-77. FARMACIA VETERINARIA
-
-78. ESTÉTICA VETERINARIA
-
-79. TIENDA DE ANIMALES Y ACCESORIOS
-
-80. REFACCIONARIA
-
-81. COMPRA VENTA DE AMORTIGUADORES
-
-82. COMPRA VENTA DE MOTORES NUEVOS Y USADOS
-
-83. COMPRA VENTA DE RADIADORES Y MOFLES
-
-84. PARTES PARA AUTOMÓVILES
-
-85. PARTES PARA BICICLETAS Y MOTOCICLETAS
-
-86. PARTES PARA ELECTRÓNICOS Y ELECTRODOMÉSTICOS
-
-87. PARTES PARA EQUIPO DE CÓMPUTO
-
-88. PARTES PARA MÁQUINAS Y HERRAMIENTAS
-
-89. PARTES PARA MOTORES Y BOMBAS
-
-90. REFACCIONARIA EN GENERAL
-
-91. OTRAS REFACCIONARIAS
-
-92. TRANSPORTES
-
-93. AGENCIA DE AUTOS, REFACCIONES Y SERVICIOS
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
-
-94. COMPRA VENTA DE ORO, COBRE, MONEDAS Y METALES.
-
-95. AGENCIA DE AUTOS Y CAMIONES
-
-96. AGENCIA DE BICICLETAS
-
-97. AGENCIA DE CAMIONES Y TRAILERS
-
-98. AGENCIA DE MOTOCICLETAS
-
-99. COMPRA VENTA DE CAMPERS, CASETAS y REDILAS
-
-100. OTRO TIPO DE TRANSPORTE
-
-101. OTROS COMERCIOS
-
-102. ACCESORIOS PARA ARTES GRÁFICAS
-
-103. BAZAR DE ANTIGÜEDADES Y ARTESANÍAS
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
-
-104. JOYERÍA Y RELOJERÍA.
-
-105. BONETERÍA, CORSETERÍA y MERCERÍA
-
-106. BOTICA
-
-107. BOUTIQUE
-
-108. COMPRA VENTA DE ABRASIVOS Y CORROSIVOS
-
-109. COMPRA VENTA DE ACCESORIOS PARA AUTOMÓVILES
-
-110. COMPRA VENTA DE ARTESANÍAS
-
-111. COMPRA VENTA DE ARTÍCULOS DE CERA Y PARAFINA
-
-112. COMPRA VENTA DE ARTÍCULOS DE ÓNIX, MÁRMOL, GRANITO Y BARRO
-
-113. COMPRA VENTA DE ARTÍCULOS DEPORTIVOS Y ARMERÍA
-
-114. COMPRA VENTA DE ARTÍCULOS DEPORTIVOS Y EQUIPO MILITAR
-
-115. COMPRA VENTA DE ARTÍCULOS DESECHABLES
-
-116. COMPRA VENTA DE ARTÍCULOS PARA DECORACIÓN
-
-117. COMPRA VENTA DE ARTÍCULOS PARA MANUALIDADES
-
-118. COMPRA VENTA DE ARTÍCULOS RELIGIOSOS Y VINOS PARA CONSAGRAR
-
-119. COMPRA VENTA DE ARTÍCULOS Y ACCESORIOS PARA COCINAS Y BAÑOS
-
-120. COMPRA VENTA DE ARTÍCULOS Y UTENSILIOS PARA EL HOGAR
-
-121. CRISTALERÍA
-
-122. COMPRA VENTA DE CANDILES, LÁMPARAS Y ARBOTANTES
-
-123. COMPRA VENTA DE COMBUSTIBLES Y LUBRICANTES
-
-124. OTROS COMERCIOS
-
-125. COMPRA VENTA DE EMPAQUES Y ENVASES DE TODO TIPO
-
-126. COMPRA VENTA DE ESTAMBRE
-
-127. COMPRA VENTA DE HULE ESPUMA Y BORRA
-
-128. COMPRA VENTA DE IMPERMEABILIZANTES y ADITIVOS PARA CONCRETO
-
-129. COMPRA VENTA DE INSTRUMENTOS MUSICALES
-
-130. COMPRA VENTA DE LONAS Y PLÁSTICOS EN GENERAL
-
-131. COMPRA VENTA DE MATERIAL DE EMPAQUE
-
-132. COMPRA VENTA DE MATERIAL ELÉCTRICO
-
-133. COMPRA VENTA DE MATERIALES PARA LA CONSTRUCCIÓN
-
-134. COMPRA VENTA DE PAPEL Y CARTÓN NUEVO
-
-135. COMPRA VENTA DE PINTURAS, SOLVENTES E IMPERMEABILIZANTES
-
-136. COMPRA VENTA DE PISOS Y TECHOS
-
-137. COMPRA VENTA DE PLÁSTICO Y HULE
-
-138. COMPRA VENTA DE PRODUCTOS POPULARES
-
-139. COMPRA VENTA DE PRODUCTOS QUÍMICOS
-
-140. COMPRA VENTA DE REGALOS E IMPORTACIONES
-
-141. COMPRA VENTA, REPARACIÓN DE PLUMAS FUENTE Y ACCESORIOS
-
-142. CENTRO DE ACOPIO
-
-143. CENTRO DE COPIADO Y PAPELERÍA
-
-144. COLCHONERA
-
-145. CONDONERÍA
-
-146. OTROS COMERCIOS
-
-147. CORSETERÍA Y LENCERÍA
-
-148. DESHUESADERO Y PARTES USADAS
-
-149. DISCOS Y CASSETTES
-
-150. EXPENDIO DE CARBÓN Y PETRÓLEO
-
-151. FARMACIA
-
-152. FARMACIA Y DROGUERÍA
-
-153. FARMACIA Y PERFUMERÍA
-
-154. FERRETERÍA
-
-155. FERRETERÍA Y TLAPALERÍA
-
-156. FLORERÍA
-
-157. JARCERÍA
-
-158. JUGUETERÍA y REGALOS
-
-159. LIBRERÍA
-
-160. LIBRERÍA Y PAPELERÍA
-
-161. LOTERÍA NACIONAL Y PRONÓSTICOS DEPORTIVOS
-
-162. LLANTERA Y VITALIZADORA
-
-163. MADERERÍA Y LEÑERÍA
-
-164. MARCOS Y MOLDURAS
-
-165. MERCERÍA Y SEDERIA
-
-166. MUEBLERÍA
-
-167. OTROS COMERCIOS
-
-168. ÓPTICA
-
-169. ORFEBRERÍA Y COBRERÍA
-
-170. PAÑALES DESECHABLES
-
-171. PAPELERÍA
-
-172. PAPELERÍA Y ESCRITORIO PÚBLICO
-
-173. PAPELERÍA, MERCERÍA Y REGALOS
-
-174. PELETERÍA
-
-175. PERFUMERÍA, ARTÍCULOS DE BELLEZA Y REGALOS
-
-176. PERIÓDICOS, LIBROS Y REVISTAS
-
-177. REGALOS Y NOVEDADES
-
-178. SOMBRERERÍA
-
-179. TABAQUERÍA
-
-180. TELAS Y BLANCOS
-
-181. TIENDA DE AUTOSERVICIO SIN VENTA DE BEBIDAS ALCOHÓLICAS
-
-182. TIENDA DE ROPA
-
-183. TIENDA DEPARTAMENTAL SIN VENTA DE BEBIDAS ALCOHÓLICAS
-
-184. TLAPALERÍA
-
-185. TORNILLERA
-
-186. VIDRIERÍA
-
-187. VIVERO
-
-188. OTROS COMERCIOS
-
-189. ZAPATERÍA Y ARTÍCULOS DE PIEL
-
-190. OTROS COMERCIOS AL MAYOREO
-
-191. OTROS COMERCIOS AL MENUDEO
-
-192. COMPRA VENTA DE ARTÍCULOS DE PIEL
-
-193. PRUEBA
-
-II. INDUSTRIAS:
-
-1. INDUSTRIA ALIMENTICIA
-
-2. EMBOTELLADORA DE BEBIDAS
-
-3. EMPACADORA
-
-4. ENVASADORA
-
-5. ENVASADORA DE ALIMENTOS
-
-6. FÁBRICA DE ACEITES Y GRASAS COMESTIBLES
-
-7. FÁBRICA DE ALIMENTOS PREPARADOS PARA ANIMALES
-
-8. FÁBRICA DE DULCES Y ARTÍCULOS DE CONFITERÍA
-
-9. FÁBRICA DE HIELO
-
-10. HARINERA
-
-11. MOLINO Y TOSTADOR DE CAFÉ
-
-12. MOLINO Y TORTILLERÍA
-
-13. PRODUCTOS DE PANADERÍA
-
-14. PRODUCTOS LÁCTEOS
-
-15. PURIFICADORA DE AGUA
-
-16. RASTRO
-
-17. REFINADORA DE AZÚCAR
-
-18. TORTILLERÍA
-
-19. FABRICACIÓN DE OTROS ALIMENTOS PARA CONSUMO HUMANO
-
-20. INDUSTRIA ARTESANAL
-
-21. ALFARERÍA
-
-22. FÁBRICA DE ÓNIX, MÁRMOL Y GRANITO
-
-23. FÁBRICA DE TALAVERA
-
-24. FÁBRICA DE VITRALES
-
-25. FABRICACIÓN Y VENTA DE MUEBLES
-
-26. GRABADO E IMPRESIÓN
-
-27. FABRICACIÓN DE OTROS PRODUCTOS ARTESANALES
-
-28. INDUSTRIA MADERERA
-
-29. ASERRADERO
-
-30. CARPINTERÍA
-
-31. CARPINTERÍA Y TAPICERÍA
-
-32. FABRICACIÓN y VENTA DE MUEBLES DE MADERA
-
-33. FABRICACIÓN DE OTROS PRODUCTOS MADEREROS
-
-34. INDUSTRIA METÁLICA
-
-35. ENSAMBLADORA
-
-36. FÁBRICA DE EQUIPOS DE AIRE ACONDICIONADO
-
-37. FÁBRICA DE ESTRUCTURAS METÁLICAS
-
-38. FUNDIDORA
-
-39. HERRERÍA Y PAILERÍA
-
-40. SIDERÚRGICA
-
-41. TROQUELADORA
-
-42. FABRICACIÓN DE OTROS PRODUCTOS METÁLICOS
-
-43. INDUSTRIA MINERAL
-
-44. CALERA
-
-45. EXTRUIDO Y MOLDEADO DE FIBRA DE VIDRIO Y PLÁSTICO
-
-46. FÁBRICA DE CEMENTO
-
-47. FÁBRICA DE VIDRIO
-
-48. FÁBRICA DE YESO
-
-49. LADRILLERA
-
-50. MATERIALES PARA CONSTRUCCIÓN
-
-51. MATERIALES PARA PAVIMENTACIÓN
-
-52. FÁBRICA DE OTROS PRODUCTOS MINERALES
-
-53. INDUSTRIA PAPELERA
-
-54. COMPAÑÍA PERIODÍSTICA
-
-55. IMPRENTA
-
-56. EDITORIAL
-
-57. IMPRENTA Y PAPELERÍA
-
-58. MANUFACTURA DE CELULOSA, PAPEL Y SUS PRODUCTOS
-
-59. FABRICACIÓN DE OTROS PRODUCTOS PAPELEROS
-
-60. INDUSTRIA QUÍMICA
-
-61. DESTILACIÓN DE ALCOHOLES Y VINOS
-
-62. DESTILACIÓN Y VENTA DE ALCOHOL INDUSTRIAL Y MEDICINAL
-
-63. ELABORACIÓN DE ARTÍCULOS FARMACÉUTICOS
-
-64. ELABORACIÓN Y VENTA DE ARTÍCULOS DE PERFUMERÍA
-
-65. EMBOTELLADORA O FÁBRICA DE GASES
-
-66. FÁBRICA DE COMBUSTIBLES
-
-67. FÁBRICA DE PRODUCTOS DE LIMPIEZA
-
-68. FÁBRICA DE PRODUCTOS DE PLÁSTICO
-
-69. PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES
-
-70. PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS
-
-71. FÁBRICA DE OTROS PRODUCTOS QUÍMICOS
-
-72. INDUSTRIA TEXTIL Y DE CUERO
-
-73. CONFECCIÓN DE MATERIALES TEXTILES
-
-74. CONFECCIÓN DE PRENDAS DE VESTIR
-
-75. CORDELERÍA
-
-76. CURTIDORA
-
-77. FÁBRICA DE CALZADO
-
-78. FÁBRICA DE PRODUCTOS DE PIEL
-
-79. FÁBRICA DE TEJIDOS DE PUNTO
-
-80. HILADO, TEJIDO Y ACABADO
-
-81. MAQUILADORA TEXTIL
-
-82. FÁBRICA DE OTROS PRODUCTOS TEXTILES Y DE CUERO
-
-83. OTRAS INDUSTRIAS
-
-84. CONSTRUCTORA
-
-85. FÁBRICA DE ARTÍCULOS PARA EL HOGAR
-
-86. FÁBRICA DE CANCELES, VITRINAS EN ALUMINIO Y VIDRIO
-
-87. MAQUILADORA
-
-88. OTRAS INDUSTRIAS
-
-III. SERVICIOS:
-
-1. ESTACIÓN DE SERVICIO DE GAS LICUADO DE PETRÓLEO
-
-2. HORNO CREMATORIO
-
-3. AGROPECUARIOS
-
-4. FUMIGADORAS
-
-5. PERFORADORA Y SISTEMAS DE RIEGO
-
-6. OTROS SERVICIOS AGROPECUARIOS
-
-7. ALQUILER
-
-8. ALQUILER DE APARATOS DE AUDIO, VÍDEO y COMUNICACIONES
-
-9. ALQUILER DE APARATOS E INSTRUMENTOS CIENTÍFICOS, MÉDICOS Y ORTOPÉDICOS
-
-10. ALQUILER DE BÁSCULAS Y EQUIPO DE MEDICIÓN
-
-11. ALQUILER DE EQUIPO PARA FIESTAS Y EVENTOS SOCIALES
-
-12. ALQUILER DE EQUIPOS E INSTRUMENTOS MUSICALES
-
-13. ALQUILER DE MAQUINARIA INDUSTRIAL PESADA Y PARA CONSTRUCCIÓN
-
-14. ALQUILER DE ROPA Y DISFRACES
-
-15. ALQUILER Y VENTA DE SANITARIOS PÚBLICOS MÓVILES
-
-16. (DEROGADO, P.O. 26 DE FEBRERO DE 2007)
-
-17. INMOBILIARIA
-
-18. PENSIÓN DE VEHÍCULOS
-
-19. RENTA DE ACCESORIOS Y EQUIPO DEPORTIVO
-
-20. RENTA DE AUTOS Y CAMIONES
-
-21. RENTA DE BICICLETAS, MOTOS Y LANCHAS
-
-22. RENTA DE EQUIPO DE CÓMPUTO
-
-23. RENTA DE MÁQUINAS DE VIDEOJUEGOS
-
-24. RENTA Y VENTA DE PELÍCULAS Y VIDEOJUEGOS
-
-25. RENTA Y VENTA DE VIDEOJUEGOS, CARTUCHOS y COMPACT (SIC) DISC
-
-26. SALÓN PARA EVENTOS SOCIALES SIN VENTA DE BEBIDAS ALCOHÓLICAS
-
-27. CENTRO DE ENTRETENIMIENTO
-
-28. OTROS SERVICIOS DE ALQUILER
-
-29. ASISTENCIA SOCIAL
-
-30. ASILO DE ANCIANOS
-
-31. CASA HOGAR
-
-32. CEMENTERIO
-
-33. CENTRO DE INTEGRACIÓN JUVENIL
-
-34. OTROS SERVICIOS DE ASISTENCIA SOCIAL
-
-35. COMUNICACIONES
-
-36. CASETAS TELEFÓNICAS
-
-37. CENTRO DE MONITOREO DE AIRE Y SÍSMICO
-
-38. COLOCACIÓN Y COMPRA VENTA DE ANTENAS PARABÓLICAS
-
-39. DIFUSORAS DE RADIO
-
-40. DIFUSORAS DE TELEVISIÓN
-
-41. EQUIPOS DE SEGURIDAD, ALARMAS Y CIRCUITO CERRADO
-
-42. TELEFONÍA CELULAR Y ACCESORIOS
-
-43. OTROS SERVICIOS DE COMUNICACIÓN
-
-44. CONSULTORIOS Y DESPACHOS
-
-45. AGENCIAS DE DISEÑO Y PUBLICIDAD
-
-46. CLÍNICA VETERINARIA CON VENTA DE MASCOTAS, ALIMENTOS y ACCESORIOS
-
-47. CLÍNICA, SANATORIO U HOSPITAL
-
-48. CONSULTA, REHABILITACIÓN MUSCULAR Y MASAJES TERAPÉUTICOS
-
-49. CONSULTORIO DENTAL
-
-50. CONSULTORIO MÉDICO
-
-51. CONSULTORIO Y TIENDA NATURISTA
-
-52. DESPACHOS PROFESIONALES
-
-53. DISEÑO Y DECORACIÓN
-
-54. DISPENSARIO MÉDICO
-
-55. LABORATORIO DE ANÁLISIS CLÍNICOS Y QUÍMICOS
-
-56. LABORATORIO DE INVESTIGACIÓN
-
-57. OFICINAS ADMINISTRATIVAS
-
-58. UNIDAD RADIOLÓGICA Y DE ULTRASONIDO
-
-59. OTROS CONSULTORIOS
-
-60. OTROS DESPACHOS
-
-61. CULTURALES, DEPORTIVOS Y DE ESPARCIMIENTO
-
-62. BIBLIOTECA
-
-63. BILLARES Y BOLICHE
-
-64. CENTRO DEPORTIVO Y SOCIAL
-
-65. CINE, TEATRO Y AUDITORIO
-
-66. ESTADIO
-
-67. GALERÍA DE ARTE
-
-68. GIMNASIO
-
-69. JUEGOS ELECTROMECÁNICOS Y VIDEOJUEGOS
-
-70. MUSEO Y SALA DE EXHIBICIÓN
-
-71. PISTA DE PATINAJE
-
-72. ZOOLÓGICO
-
-73. OTROS SERVICIOS CULTURALES Y DE ESPARCIMIENTO
-
-74. EDUCATIVOS
-
-75. ESCUELA DE EDUCACIÓN BÁSICA
-
-76. ESCUELA DE EDUCACIÓN BÁSICA Y MEDIA
-
-77. ESCUELA DE EDUCACIÓN ESPECIALIZADA
-
-78. ESCUELA DE EDUCACIÓN MEDIA
-
-79. ESCUELA DE EDUCACIÓN MEDIA Y SUPERIOR
-
-80. ESCUELA DE EDUCACIÓN MEDIA Y TÉCNICA
-
-81. ESCUELA DE EDUCACIÓN SUPERIOR
-
-82. ESCUELA DE EDUCACIÓN TÉCNICA
-
-83. ESCUELA DEPORTIVA
-
-84. ESCUELAS, INSTITUTOS Y UNIVERSIDADES
-
-85. OTROS SERVICIOS EDUCATIVOS
-
-86. FINANCIEROS
-
-87. AFIANZADORA
-
-88. ARRENDADORA
-
-89. ASEGURADORA
-
-90. BANCO
-
-91. CAJERO AUTOMÁTICO
-
-92. CASA DE BOLSA
-
-93. CASA DE CAMBIO
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
-
-94. COMPRA VENTA DE ORO, COBRE, MONEDAS Y METALES
-
-95. TRANSPORTE DE VALORES
-
-96. OTROS SERVICIOS FINANCIEROS
-
-97. TALLERES
-
-98. AFILADORAS
-
-99. AFINACIONES ELECTRÓNICAS
-
-100. ELABORACIÓN DE PRODUCTOS Y ACCESORIOS DENTALES
-
-101. ELABORACIÓN, VENTA Y ALQUILER DE LONAS Y TOLDOS
-
-102. INSTALACIÓN DE ALARMAS y AUTO ESTÉREOS
-
-103. INSTALACIÓN DE GAS Y ACCESORIOS
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
-
-104. JOYERÍA Y RELOJERÍA
-
-105. LAVADO, PULIDO Y ENCERADO DE AUTOS EN FORMA MANUAL
-
-106. LAVADO, PULIDO Y ENGRASADO
-
-107. LLANTERA, ALINEACIÓN Y BALANCEO
-
-108. MANTENIMIENTO DE EXTINGUIDORES
-
-109. MODISTA
-
-110. PLOMERÍA
-
-111. RECTIFICADORA DE MOTORES DIESEL Y GASOLINA
-
-112. REPARACIÓN DE AMORTIGUADORES
-
-113. REPARACIÓN DE ANUNCIOS
-
-114. REPARACIÓN DE APARATOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS
-
-115. REPARACIÓN DE ARTÍCULOS DE PIEL
-
-116. REPARACIÓN DE BÁSCULAS
-
-117. REPARACIÓN DE BICICLETAS Y MOTOCICLETAS
-
-118. REPARACIÓN DE BOMBAS DE AGUA
-
-119. REPARACIÓN DE BOMBAS E INYECTORES
-
-120. REPARACIÓN DE CALZADO
-
-121. REPARACIÓN DE CLUTCH Y FRENOS
-
-122. REPARACIÓN DE EMBOBINADOS ELÉCTRICOS
-
-123. REPARACIÓN DE EQUIPOS DE AUTÓGENA
-
-124. REPARACIÓN DE EQUIPOS INDUSTRIALES
-
-125. REPARACIÓN DE HERRAMIENTA
-
-126. REPARACIÓN DE INSTRUMENTOS MUSICALES
-
-127. REPARACIÓN DE LÁMPARAS Y CANDILES
-
-128. REPARACIÓN DE MÁQUINAS Y EQUIPO DE OFICINA
-
-129. REPARACIÓN DE MARCOS
-
-130. REPARACIÓN DE PARRILLAS
-
-131. REPARACIÓN DE RADIADORES
-
-132. REPARACIÓN DE REFACCIONES PARA FRENOS DE AIRE
-
-133. TALLERES
-
-134. REPARACIÓN E INSTALACIÓN DE ALFOMBRAS, TAPETES Y TAPICES
-
-135. REPARACIÓN E INSTALACIÓN DE MOFLES Y MUELLES
-
-136. REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE CÓMPUTO
-
-137. SASTRERÍA
-
-138. SERVICIO AUTOMOTRIZ CON VENTA DE REFACCIONES
-
-139. SERVICIO DE HOJALATERÍA y PINTURA
-
-140. SERVICIO DE REFRIGERACIÓN Y AIRE ACONDICIONADO
-
-141. SERVICIO DE VERIFICACIÓN DE GASES
-
-142. SERVICIO ELÉCTRICO, AUTOMOTRIZ E INDUSTRIAL
-
-143. SERVICIO ELECTROMECÁNICO
-
-144. SERVICIO MECÁNICO AUTOMOTRIZ
-
-145. SERVICIO MECÁNICO, HOJALATERÍA y PINTURA
-
-146. TALACHERÍA
-
-147. TALLER DE ESCULTURA Y PINTURA
-
-148. TALLER DE RÓTULOS
-
-149. TALLER DE SUAJES
-
-150. TALLER DE TORNO
-
-151. TALLER MECÁNICO SIN INGRESOS
-
-152. TAPICERÍA
-
-153. OTROS SERVICIOS AUTOMOTRICES
-
-154. OTROS TALLERES
-
-155. TRANSPORTES
-
-156. CENTRAL CAMIONERA
-
-157. CENTRAL DE TAXIS
-
-158. ENCIERRO DE AUTOBUSES
-
-159. GRÚAS
-
-160. MENSAJERÍA y PAQUETERÍA
-
-161. PIPAS DE AGUA Y POZOS
-
-162. TERMINAL Y TRANSPORTE DE PASAJEROS
-
-163. TRANSPORTE AERONAVAL
-
-164. TRANSPORTE DE CARGA
-
-165. OTROS SERVICIOS DE TRANSPORTACIÓN
-
-166. TURÍSTICOS
-
-167. AGENCIA DE VIAJES
-
-168. AGENCIA DE MODELOS Y EDECANES
-
-169. HOTEL SIN SERVICIO DE RESTAURANTE BAR
-
-170. MOTEL SIN SERVICIO DE RESTAURANTE BAR
-
-171. OTROS SERVICIOS TURÍSTICOS
-
-172. OTROS SERVICIOS
-
-173. AGENCIA DE INHUMACIONES Y CREMATORIOS
-
-174. BAÑOS PÚBLICOS SIN VENTA DE CERVEZA
-
-175. BOLERÍA
-
-176. CAFETERÍA Y FUENTE DE SODAS
-
-177. CAFETERÍA, FUENTE DE SODAS, LIBRERÍA y PAPELERÍA
-
-178. CERRAJERÍA
-
-179. CASA DE HUÉSPEDES
-
-180. CROMADOS
-
-181. EDICIÓN DE VÍDEOS
-
-182. ESTÉTICA, PELUQUERÍA Y SALÓN DE BELLEZA
-
-183. ESTUDIO FOTOGRÁFICO
-
-184. FUNERARIA
-
-185. HORNO CREMATORIO
-
-186. GASOLINERÍA
-
-187. ESTACIÓN DE SERVICIO DE GAS LICUADO DE PETRÓLEO
-
-188. IMPRESIÓN DE PLANOS
-
-189. LAVANDERÍA
-
-190. SALA DE BELLEZA Y COSMETOLOGÍA
-
-191. SANITARIOS PÚBLICOS
-
-192. SANITARIOS PÚBLICOS CON TABAQUERÍA Y MISCELÁNEA
-
-193. SERVICIO DE BANQUETES A DOMICILIO
-
-194. SERVICIO DE VALET PARKING
-
-195. TINTORERÍA Y PLANCHADURÍA
-
-196. (DEROGADO, P.O. 28 DE OCTUBRE DE 2013)
-
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
-
-197. CASA DE EMPEÑO.
+El Aviso de Apertura de Negocio es un trámite administrativo que opera únicamente en casos de apertura de nuevos establecimientos por lo que para la actualización, cambio de domicilio, cambio de denominación o nombre, cesión de derechos, cambio de giro y baja de giro respecto del establecimiento cesaran su efectos y se estará a lo dispuesto para licencia de funcionamiento regulada en el presente Capítulo y a lo conducente en los que resulten aplicables.
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 629.
 
-Para obtener la licencia de funcionamiento y su actualización el interesado deberá presentar ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos los siguientes documentos:
+Para obtener la licencia de funcionamiento y su actualización el interesado deberá presentar ante la Tesorería Municipal a través del Departamento de Padrón de Contribuyentes de la Dirección de Ingresos los siguientes documentos:
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -10675,9 +9693,9 @@ IV. Acta constitutiva y poder notarial, para personas morales; y
 
 V. Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, y en su caso, la Unidad de Normatividad y Regulación Comercial entregarán los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La Tesorería Municipal a través del Departamento (sic) Padrón de Contribuyentes, y en su caso, la Unidad de Normatividad y Regulación Comercial entregarán los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
 
@@ -10691,27 +9709,27 @@ Para la reposición de licencia de funcionamiento por extravío o destrucción p
 
 El pago de derechos que no este contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio vigente.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Para el caso de los establecimientos señalados en el artículo 628 fracción III numerales 86, 87, 88, 89, 90, 91, 92, 93, 95 y 96 deberán presentar además de lo anterior, copia certificada de la autorización vigente para la constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores.
+Para el caso de los establecimientos cuyo giro comercial sea financiero, afianzadora, arrendadora, aseguradora, banco, cajero automático, casa de bolsa, casa de cambio, transporte de valores y otros servicios financieros, deberán presentar además de lo anterior, copia certificada de la autorización vigente para su constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Será aplicable a los establecimientos señalados en el artículo 628 fracción III numerales 94 y 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple, así como el original para su cotejo del contrato de adhesión, debidamente registrado ante la Procuraduría Federal del Consumidor.
+Será aplicable a los establecimientos con giros comerciales de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple así como el original para su cotejo del contrato de adhesión o instrumento legal, debidamente registrado ante la Institución competente que regule su actividad.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Para el caso del establecimiento señalado en el artículo 628 fracción III numeral 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada, o en su caso, fianza cuyo monto asegurado sea equivalente a cuatro mil veces el salario mínimo vigente en el Estado de Puebla, o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para constancia.
+Los establecimientos con giro comercial de casa de empeño, así como las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso, fianza cuyo monto asegurado sea equivalente a cuatro mil veces el salario mínimo vigente en el Estado de Puebla, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para su constancia.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Para la actualización de la licencia de los establecimientos señalados en el artículo 628 fracción III numeral 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial en la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo, los cuales se presentarán en copia simple ante la Tesorería Municipal únicamente para su cotejo.
+Para la actualización de la licencia de los establecimientos con giro comercial de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial de la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo, los cuales se presentarán en copia simple ante la Tesorería Municipal únicamente para su cotejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 630.
 
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, en un término no mayor de diez días hábiles contados a partir del día siguiente al que se reciba la solicitud deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
+La Tesorería Municipal a través del Departamento de Padrón de Contribuyentes, en un término no mayor de diez días hábiles contados a partir del día siguiente al que se reciba la solicitud deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -10721,17 +9739,17 @@ En caso de que transcurrido el término de referencia no se dé contestación po
 
 Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro comercial.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Contra el acto que emita el Jefe del Departamento de Licencias y Padrón de Contribuyentes que niegue el otorgamiento o actualización de la licencia de funcionamiento, o cambio de giro comercial, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+Contra el acto que emita el Jefe del Departamento de Padrón de Contribuyentes que niegue el otorgamiento o actualización de la licencia de funcionamiento, o cambio de giro comercial, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-El Departamento de Licencias y Padrón de Contribuyentes a través de las instancias municipales legalmente establecidas para ello, está obligada a publicar en el sitio web del Ayuntamiento, durante el mes de febrero de cada año, la lista actualizada de las casas de empeño y compra venta de oro, cobre, monedas y metales, que cuentan con la autorización vigente de apertura para ejercer dicha actividad mercantil.
+El Departamento de Padrón de Contribuyentes a través de las instancias municipales legalmente establecidas para ello, está obligada a publicar en el sitio web del Ayuntamiento, durante el mes de febrero de cada año, la lista actualizada de las casas de empeño y compra venta de oro, cobre, monedas y metales, que cuentan con la autorización vigente de apertura para ejercer dicha actividad mercantil
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -10831,19 +9849,25 @@ Para el debido funcionamiento de los establecimientos señalados en el artículo
 
 El licenciatario deberá, solicitar al cliente copia simple de su credencial para votar con fotografía, copia simple del comprobante de domicilio el cual tendrá una antigüedad máxima de dos meses, así como tomar una fotografía del que solicite la transacción mercantil y del bien mueble materia de la transacción. Asimismo colocar en lugar visible uno o varios avisos que lleven la leyenda "VENDER, COMPRAR O EMPEÑAR ARTÍCULOS DE PROCEDENCIA ILÍCITA, CONSTITUYE UN DELITO DEL FUERO COMÚN, QUE SE CASTIGA CON CÁRCEL".
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 633.
 
-Es obligación del titular de cualquier licencia de funcionamiento, cumplir con todas y cada una de las disposiciones aplicables a la actividad que desarrolle. Los giros comerciales a que hace referencia el Capítulo 28 de este ordenamiento legal, deberán contar además con la licencia de sustancias susceptibles de inhalación y efectos tóxicos para su funcionamiento.
+Es obligación del titular de cualquier Aviso de Apertura de Negocio y licencia de funcionamiento, cumplir con todas y cada una de las disposiciones aplicables a la actividad que desarrolle. Los giros comerciales a que hace referencia el Capítulo 28 de este ordenamiento legal, deberán contar además con la licencia de sustancias susceptibles de inhalación y efectos tóxicos para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 633 Bis.
+
+La Secretaría de Desarrollo Económico y Turismo, a través de la Dirección de Competitividad o a la Unidad Administrativa que se designe, podrá solicitar a la autoridad competente el registro o padrón de contribuyentes que refleje las actividades de apertura de negocios en el Municipio de Puebla, para efectos de generar estadísticas económicas, debiendo observar lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla.
 
 DEL HORARIO
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### Artículo 634.
 
-El horario general para todos los establecimientos a que se refiere este Capítulo será libre, es decir de las 00:00 a las 24:00 horas todos los días del año.
-
-Quedan exceptuados de esta disposición, los establecimientos que expendan bebidas alcohólicas en botella abierta y los sujetos a un Capítulo especial en el presente Código Reglamentario.
+El horario general para todos los establecimientos referidos en el Catálogo de Giros Comerciales Complementarios, Industriales y de Servicios del Municipio de Puebla será libre, es decir de las 00:00 a las 24:00 horas todos los días del año.
 
 DE LAS FIESTAS TRADICIONALES
 
@@ -10917,7 +9941,9 @@ I. Multa equivalente al importe de 5 a 500 días de salario mínimo vigente en e
 
 II. Clausura temporal del negocio de 3 a 45 días; y
 
-III. Clausura definitiva y cancelación de la licencia.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+III. Clausura definitiva y cancelación del Aviso de Apertura de Negocio o licencia de funcionamiento.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -11771,11 +10797,11 @@ IX. Los procedimientos y acciones de control, supervisión e inspección de inmu
 
 X. La determinación e imposición de infracciones, medidas de seguridad y sanciones en los casos previstos por el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 656.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas, a través de la Dirección de Desarrollo Urbano, la aplicación de las disposiciones de este Capítulo.
+Corresponde a la Secretaría de Desarrollo Urbano y Sustentabilidad, a través de la Dirección de Desarrollo Urbano, la aplicación de las disposiciones de este Capítulo.
 
 AUTORIDADES Y FACULTADES
 
@@ -11785,13 +10811,13 @@ Aplicación del Capítulo. Para la debida aplicación del presente Capítulo, so
 
 I. El Gobierno Federal, a través de las dependencias que conforme a las leyes previamente establecidas tienen facultades para intervenir en esta materia;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-II. El Ejecutivo Estatal, a través de la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
+II. El Ejecutivo Estatal, a través de la Secretaria de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-III. Por el Municipio, la Secretaría de Desarrollo Urbano y Obras Públicas; y
+III. Por el Municipio, la Secretaría de Desarrollo Urbano y Sustentabilidad; y
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
@@ -11803,21 +10829,45 @@ IV. La Dirección de Desarrollo Urbano a través de las áreas adscritas a ésta
 
 Para efectos del presente Capítulo se entenderá por:
 
-I. Secretaría: La Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
 
-II. Dirección: La Dirección de Desarrollo Urbano, adscrita a la Secretaría de Desarrollo Urbano y Obras Públicas;
+I. Secretaría: La Secretaría de Desarrollo Urbano y Sustentabilidad.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+II. Dirección: La Dirección de Desarrollo Urbano, adscrita a la Secretaría de Desarrollo Urbano y Sustentabilidad.
 
 III. Subdirección del Suelo: La Subdirección del Suelo, adscrita a la Dirección de Desarrollo Urbano;
 
 IV. Subdirección de Planeación: La Subdirección de Planeación, adscrita a la Dirección de Desarrollo Urbano;
 
-V. Secretaría de Medio Ambiente: La Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla;
+V. (DEROGADA, P.O. 29 DE MAYO DE 2015)
 
 VI. CAAPDROC: La Comisión de Asesoría y Admisión de Peritos Directores Responsables de Obra y Corresponsables;
 
 VII. IMPLAN: El Instituto Municipal de Planeación; y
 
 VIII. Manual Técnico de Accesibilidad: El Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2015)</small>
+
+IX. Derivadas: los alineamientos y número oficiales derivados de un predio general a partir de la subdivisión o fracción de un predio en dos o más unidades sin importar el régimen que lo constituya.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2015)</small>
+
+X. Establecimiento comercial: local ubicado en un inmueble en el que una persona física, moral o jurídica desarrolle actividades relativas a la intermediación, compraventa, arrendamiento, distribución de bienes o prestación de servicios, con fines de lucro.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2015)</small>
+
+XI. Interesado: persona física, moral o jurídica que en su calidad de propietario, poseedor, arrendatario, subarrendatario, albacea provisional y/o definitivo, cubre los requisitos señalados en las disposiciones legales aplicables para solicitar conjunta o indistintamente alineamiento y número oficial, constancias de uso de suelo, factibilidad de uso de suelo, licencia de uso de suelo para construcción y licencia de uso de suelo específico.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2015)</small>
+
+XII. Notas y/o Condicionantes: notas de carácter técnico que se señalan en los alineamientos y numero oficiales, constancias, factibilidades y licencias emitidas por la Dirección de Desarrollo Urbano, con el objetivo de hacer del conocimiento del interesado las características técnicas en que se encuentra el predio y que en su momento deberán ser solventadas para solicitar trámites posteriores. Las características técnicas atenderán a lo dispuesto en el artículo 721 del presente Código.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2015)</small>
+
+XIII. Zona de Monumentos: área que comprende los monumentos históricos relacionados con un suceso nacional o que se encuentren vinculados a hechos pretéritos de relevancia para el país delimitada en el Decreto Presidencial del 18 de noviembre de 1977, así como en la fracción XXX del artículo 1186 del presente Código.
 
 FACULTADES
 
@@ -12923,19 +11973,35 @@ ALINEAMIENTO.- Se entiende por alineamiento, la fijación sobre el terreno, de l
 
 NÚMERO OFICIAL.- El número oficial, es la asignación numérica o alfanumérica que le corresponde a un predio en la secuencia predeterminada por cada vía pública. La Dirección, previa solicitud, señalará para cada predio que tenga frente a la vía pública un sólo número oficial que corresponderá a la entrada del mismo. El costo que se asigne al documento que consigne el alineamiento y número oficial, se determinará únicamente de acuerdo al número de metros lineales que limite al predio con la vía pública, con base en la Ley de Ingresos vigente.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+En el caso de fusión de predios se expedirá un solo alineamiento y número oficial, debiendo presentar los requisitos generales señalados en el artículo 702 Bis. En caso de subdivisión de predios se emitirá una constancia por cada una de las fracciones, presentado los requisitos generales señalados en el artículo 702 Bis.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
 El Alineamiento y Número Oficial estará vigente en tanto el predio objeto del mismo, no sufra alguna modificación tal como fusión, división, subdivisión o segregación, o bien cuando la Autoridad Municipal cambie el nombre de la calle donde se encuentra el predio, aplique algún programa de reordenamiento urbano, o a la actualización del Programa Municipal de Desarrollo Urbano Sustentable de Puebla, en cuyos casos informará a la Dirección de Catastro de la Tesorería, para la reasignación de la clave única catastral.
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 702 Bis.
 
-Toda persona física y moral que conforme a las leyes esté en el ejercicio de sus derechos civiles, puede solicitar el alineamiento y número oficial, ya sea, por sí o por quien legalmente la represente.
+Los requisitos generales que deberán presentarse para solicitar el alineamiento y número oficial son:
 
-La Dirección recibirá las solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y entregará comprobante de ingreso del trámite a quien lo presente.
+I. Formato de solicitud de trámite, debidamente integrado y con firma autógrafa del interesado;
 
-La Dirección, analizará y revisará la procedencia de las solicitudes de alineamiento y número oficial de acuerdo con el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, si es procedente emitirá el alineamiento y número oficial en el término de dos días hábiles, en el caso de improcedencia la Dirección deberá fundar y motivar la misma.
+II. Identificación oficial con fotografía y en su caso, documento que acredite la personalidad del interesado;
 
-Si dentro de los cinco días hábiles siguientes a la solicitud del trámite la Dirección no acuerda respecto su procedencia o improcedencia, operará la afirmativa ficta a favor del solicitante, en cuyo caso recaerá la responsabilidad en el servidor público que conozca del trámite, por lo que deberá darse vista a la Contraloría Municipal, para determinar las sanciones administrativas correspondientes.
+III. Recibo de pago del Impuesto Predial vigente y/o constancia de no adeudo, si el trámite se realiza en los meses comprendidos de enero a marzo, se considerará valido el comprobante de pago efectuado del ejercicio fiscal inmediato anterior;
+
+IV. La documentación que ampare la propiedad, posesión o tenencia del inmueble; y
+
+V. Para escrituración en proceso de regularización de predio ejidal, se deberá presentar comprobante de regularización ante la Comisión Reguladora de la Tenencia de la Tierra del Gobierno Federal.
+
+Toda persona física y moral que conforme a las leyes esté en el ejercicio de sus derechos civiles, puede solicitar el alineamiento y número oficial, ya sea, por sí o por quien legalmente la represente, observando lo dispuesto en la normatividad aplicable.
+
+La Dirección, analizará y revisará la procedencia de las solicitudes de alineamiento y número oficial de acuerdo con los Planes y Programas de Desarrollo Urbano, y en caso de resultar procedente emitirá el alineamiento y número oficial, y en su caso establecerá las restricciones de acuerdo a lo que establecen los Planes y Programas de referencia, en el término no mayor de dos días hábiles; en caso de resultar improcedente, la Dirección deberá fundar y motivar dicha determinación.
+
+Si dentro de los cinco días hábiles siguientes a la solicitud del trámite la Dirección no acuerda respecto a su procedencia o improcedencia, operará la afirmativa ficta a favor del solicitante, en cuyo caso recaerá la responsabilidad en el servidor público que conozca del trámite, por lo que deberá darse vista a la Contraloría Municipal, para determinar las sanciones administrativas correspondientes.
 
 Será obligación de los solicitantes comparecer ante la Dirección para conocer e imponerse de las resoluciones que recaigan a su trámite. En caso de que los solicitantes no se presenten dentro de los cinco días siguientes al inicio del trámite, para notificarse de la resolución que recaiga al mismo, se fijará la resolución respectiva en los estrados o tablas de aviso de la Dirección.
 
@@ -13023,21 +12089,35 @@ LICENCIAS, PERMISOS Y AUTORIZACIONES
 
 CONSTANCIA DE USO DE SUELO: La constancia de uso de suelo es el documento en el que se indica la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización del suelo, y el uso o destino asignado por el Programa de Desarrollo Urbano, consignados en la carta urbana vigente, para un inmueble determinado, teniendo validez para efectos de carácter notarial.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 711.
 
-Los requisitos generales que deberán presentarse para solicitar la constancia de uso de suelo, licencia de uso de suelo y licencia de uso de suelo específico son:
+Los requisitos generales que deberán presentarse para solicitar la constancia de uso de suelo y licencia de uso de suelo son:
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 I. Formato de solicitud de trámite, debidamente integrado y con firma autógrafa del interesado;
 
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 II. Copia simple de identificación oficial con fotografía y en su caso, documento que acredite la personalidad del interesado;
 
-III. Copia simple de comprobante de domicilio;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+III. Alineamiento y número oficial actualizado;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 IV. Sólo para obtener licencia de uso de suelo específico, fotografías del bien inmueble: dos interiores y dos exteriores, incluyendo fachada principal, posterior y áreas descubiertas; y
 
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 V. En caso de que se trate de una construcción mayor de cinco años se solicitará el comprobante de antigüedad correspondiente del inmueble.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+Para la expedición de licencia de uso de suelo específico deberá presentar los documentos a que se refieren las fracciones I, II y IV, así como comprobante de domicilio del establecimiento comercial. En caso de que la autoridad detecte que el predio se encuentra en zona de riesgo se considerará como uso de suelo condicionado por lo que la expedición de la licencia de uso de suelo especifico quedará sujeta al cumplimiento de las condicionantes señaladas en el artículo 721 del presente Código.
 
 FACTIBILIDAD DE USO DE SUELO
 
@@ -13059,19 +12139,29 @@ I. Formato de solicitud de trámite, debidamente integrado y con firma autógraf
 
 II. Copia simple de identificación oficial con fotografía y en uso (sic) caso, documento que acredite la personalidad del interesado;
 
-III. Copia simple de comprobante de domicilio;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+III. Alineamiento y número oficial actualizado;
 
 IV. Sólo para obtener licencia de uso de suelo específico, fotografías del bien inmueble: dos interiores y dos exteriores, incluyendo fachada principal, posterior y áreas descubiertas; y
 
 V. En caso de que se trate de una construcción mayor de cinco años se solicitará el comprobante de antigüedad correspondiente del inmueble.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+Para la expedición de licencia de uso de suelo específico deberá presentar los documentos a que se refieren las fracciones I, II y IV, así como comprobante de domicilio del establecimiento comercial. En caso de que la autoridad detecte que el predio se encuentra en zona de riesgo se considerará como uso de suelo condicionado por lo que la expedición de la licencia de uso de suelo especifico quedará sujeta al cumplimiento de las condicionantes señaladas en el artículo 721 del presente Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 714.
 
-La constancia de factibilidad y la constancia de uso de suelo no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo (sic).
+La factibilidad de uso de suelo y la constancia de uso de suelo no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 La Dirección emitirá la constancia de uso de suelo en la que se indicará la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización del suelo y el uso actual del bien inmueble, asignado por el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, consignados en la Carta Urbana vigente.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 La constancia de uso de suelo, será vigente en tanto no se modifique el uso conforme al Programa Municipal de Desarrollo Urbano Sustentable de Puebla o los metros cuadrados del bien inmueble.
 
@@ -13119,11 +12209,13 @@ III. Si la Licencia de uso de suelo es para una construcción nueva y si son má
 
 IV. Si la Licencia de uso de suelo es para adecuación o ampliación: Comprobante de antigüedad o terminación de obra.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 718.
 
-La Licencia de uso de suelo específico para obtención de licencia de funcionamiento, es el documento expedido por la Dirección en el que se establece el uso permitido en un inmueble, para la operación de un giro comercial.
+La licencia de uso de suelo específico es la autorización por parte de la Dirección, respecto del uso de suelo de un inmueble para la operación de un establecimiento comercial.
+
+Para efectos de giro comercial de bajo impacto, esta autorización se hará constar en el Aviso de Apertura de Negocio.
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
@@ -13131,7 +12223,9 @@ La Licencia de uso de suelo específico para obtención de licencia de funcionam
 
 Para la obtención de la Licencia de Uso de Suelo Específico además de los requisitos generales señalados en el artículo 711, se deberá anexar croquis de localización del predio, y tratándose de:
 
-I. Centro Educativo guardería, o centro de reunión: Factibilidad de uso de suelo con documentos que acrediten la solventación de las condicionantes que se señalen en la misma factibilidad;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+
+I. Centro Educativo: Factibilidad de Uso de Suelo con documentos que acrediten la solventación de las condicionantes que se señalen en la misma factibilidad, plano arquitectónico incluyendo cuadro de áreas, nivel que se imparte, cantidad de aulas y cajones de estacionamiento;
 
 II. Estacionamiento: Plano Arquitectónico indicando cajones, acceso y salida del estacionamiento; y
 
@@ -13199,31 +12293,43 @@ XVII. Para los casos de cercanía o colindancia a ductos de PEMEX, líneas o duc
 
 XVIII. (DEROGADA, P.O. 4 DE JUNIO DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 722.
 
-El otorgamiento de licencias de uso de suelo condicionados requieren invariablemente estudio técnico de factibilidad y quedará sujeto a la verificación de que las condicionantes que se señalen en la factibilidad han quedado efectivamente cumplidas. En caso de que no se hayan satisfecho dichas condicionantes, y se hayan efectuado total o parcialmente las obras o utilizado el inmueble, la Dirección:
+El otorgamiento de licencias de uso de suelo condicionados requieren invariablemente estudio técnico de factibilidad de uso de suelo emitido por la Dirección, y quedará sujeto a la verificación de que las condicionantes que se señalen en el estudio técnico han quedado efectivamente cumplidas. En caso de que no se hayan satisfecho dichas condicionantes, y se hayan efectuado total o parcialmente las obras o utilizado el inmueble, la Dirección:
 
 I. Podrán ordenar su cumplimiento inmediato, suspendiendo o clausurando las obras; y
 
 II. Podrán revocar las autorizaciones o permisos otorgados.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 723.
 
-Se requerirá factibilidad de uso de suelo emitida por la Subdirección de Planeación para la obtención de la licencia de uso de suelo, en los siguientes casos:
+Se requerirá estudio técnico de factibilidad de uso de suelo emitido por la Subdirección de Planeación para la obtención de la licencia de uso de suelo en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
 I. Estaciones de servicio de gas y gasolina;
 
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
 II. Centros comerciales;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
 III. Hoteles y moteles;
 
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
 IV. Fraccionamientos;
 
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
 V. Redensificación; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
 VI. Industrias.
 
@@ -22033,7 +21139,7 @@ LI. Residuos Peligrosos: Son aquéllos que posean alguna de las características
 
 LII. Residuos Sólidos: El material generado en los centros de población, en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados e instituciones educativas, así como el derivado de las actividades comerciales o de servicio, proceso de extracción, beneficio, transformación o producción industrial; excluyendo los de demoliciones y construcciones y los de características peligrosas, de acuerdo con la Norma Oficial Mexicana en vigor, que establece las características de los residuos peligrosos, el listado de los mismos y los límites que hacen peligrosos a un residuo por su clasificación cretib, es decir, es corrosivo, reactivo, explosivo, tóxico, inflamable o biológico infeccioso;
 
-LIII. Residuos Sólidos Biodegradables: Son aquéllos susceptibles de ser disgregados en sus compuestos básicos por la acción de agentes biológicos naturales, formados particularmente por bacterias y otros microorganimos (sic)y bajo condiciones particulares de temperatura y humedad;
+LIII. Residuos Sólidos Biodegradables: Son aquéllos susceptibles de ser disgregados en sus compuestos básicos por la acción de agentes biológicos naturales, formados particularmente por bacterias y otros microorganimos (sic) y bajo condiciones particulares de temperatura y humedad;
 
 LIV. Residuos Sólidos No Biodegradables: Son aquéllos formados por materia inorgánica, cuyo cambio de composición se realiza mediante procesos físico químicos;
 
@@ -31467,6 +30573,10 @@ TABLA NÚMERO UNO
 
 # LIBRO SEXTO. DE LAS PRERROGATIVAS DEL TRABAJO MUNICIPAL
 
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
 ### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
 
 DISPOSICIONES GENERALES
@@ -32289,7 +31399,7 @@ DE LOS DESCUENTOS Y PÓLIZAS
 
 DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2074.
 
@@ -34211,7 +33321,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratficarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -34585,219 +33695,157 @@ No se considerará como sanción la cancelación de licencias expedidas a Boxead
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
+### CAPÍTULO 37. DEL GOBIERNO DIGITAL
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### Artículo 2245.
 
-El presente Capítulo es de observancia obligatoria para todos los servidores públicos de la Administración Pública Municipal, y tiene por objeto establecer las bases y lineamientos para la implementación, ejecución y evaluación de la Mejora Regulatoria Municipal, a efecto de promover la inversión productiva y social así como combatir la opacidad y la corrupción mediante la sistematización y tecnificación de los procedimientos administrativos bajo criterios de eficiencia, eficacia, transparencia y honestidad.
+El presente Capítulo es de observancia obligatoria para todos los servidores públicos de la Administración Pública Municipal, y tiene por objeto establecer las bases y lineamientos para la implementación, ejecución, seguimiento y evaluación de la Mejora Regulatoria Municipal, a efecto de promover la inversión productiva y social, así como combatir la opacidad y la corrupción, procurando el uso de las tecnologías de la información en la simplificación de los procedimientos administrativos bajo criterios de eficiencia, eficacia, transparencia y honestidad.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2246.
 
-El cumplimiento y aplicación del presente Capítulo corresponde a las dependencias y entidades de la Administración Pública Municipal.
+Se exceptúan de la aplicación de éste Capítulo las materias fiscal, agraria, laboral, de responsabilidad de los servidores públicos, de justicia administrativa, de seguridad pública, así como a los trámites y servicios y actos administrativos que deriven de Programas Federales y Estatales, en cuyo caso, se deberá aplicar la normatividad que corresponda.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2247.
 
 Para efectos de este Capítulo se entenderá por:
 
-I.- Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
+I. Ayuntamiento.- Honorable Ayuntamiento del Municipio de Puebla;
 
-II.- Presidente.- El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
+II. Contraloría.- Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
 
-III.- Contraloría.- La Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
+III. Dependencia.- Secretarías, Órganos Desconcentrados y Unidades Administrativas que integran la Administración Pública Municipal Centralizada;
 
-IV.- Consejo.- El Consejo de Mejora Regulatoria del Honorable Ayuntamiento del Municipio de Puebla;
+IV. Desregulación.- Componente de Mejora Regulatoria que se refiere a la eliminación parcial o total de la regulación vigente de algún sector económico o giro específico, para facilitar el desarrollo de la actividad económica;
 
-V.- Dependencia.- Las Secretarías, Direcciones, Órganos Desconcentrados y Unidades Administrativas que integran la Administración Pública Municipal Centralizada;
+V. Entidad.- Organismos Públicos Descentralizados, Fideicomisos Públicos y empresas con participación municipal mayoritaria que integran la Administración Pública Descentralizada;
 
-VI.- Desregulación.- Al componente de mejora Regulatoria que se refiere a la eliminación parcial o total de la regulación vigente de algún sector económico o giro específico, para facilitar el desarrollo de la actividad económica;
+VI. Manifestación de Impacto Regulatorio.- Herramienta de política pública que tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos. Permite analizar sistemáticamente los impactos potenciales de los instrumentos regulatorios para la toma de decisiones gubernamentales, fomentando que éstos sean más transparentes y racionales;
 
-VII.- Entidad.- Los organismos públicos descentralizados, fideicomisos públicos y empresas con participación municipal mayoritaria que integran la Administración Pública Descentralizada;
+VII. Mejora Regulatoria.- Política pública sistemática, participativa y transversal consistente en la generación de normas claras y trámites o servicios simplificados, orientados a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades comerciales, industriales, productivas, de servicios y de desarrollo humano de la sociedad en su conjunto, con los menores costos posibles;
 
-VIII.- Mejora Regulatoria.- El conjunto de acciones gubernamentales que tienen como propósito desregular o actualizar el marco jurídico de la Administración Pública Municipal, para simplificar los trámites administrativos, con la finalidad de facilitar la apertura de empresas, fomentar la generación de empleos y lograr la simplificación administrativa en beneficio de los ciudadanos;
+VIII. Presidente.- Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
 
-IX. Regulación.- El conjunto de reglas establecidas en el marco jurídico de la Administración Pública Municipal, para la realización de trámites y obtención de servicios;
+IX. Programa Municipal de Mejora Regulatoria.- Instrumento de ejecución de las acciones en materia de mejora regulatoria, en el que se precisan las acciones a realizar, determinan los responsables y se establecerán los plazos para su cumplimiento;
 
-X. Registro de Trámites y Servicios Municipales.- Es el catálogo informativo de los trámites y servicios que los ciudadanos realizan en las dependencias y entidades del Municipio. Dicho registro estará a cargo de la Secretaría de Fomento Económico, Turismo y Empleo, la cual diseñará las fichas informativas de cada uno de los trámites;
+X. Propuestas de Mejora Regulatoria.- Manifestación formal de sugerencias en torno a la optimización de trámites o servicios prestados por el Ayuntamiento;
 
-XI. Servidores Públicos.- Las personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Municipal centralizada y paramunicipal, así como las personas que administren, manejen, recauden, apliquen o resguarden recursos municipales, sea cual fuere la naturaleza de su nombramiento o elección; y
+XI. Queja regulatoria.- Manifestación formal de insatisfacción de los interesados, ante el incumplimiento o negativa injustificada del trámite o servicio a cargo del Ayuntamiento;
 
-XII. Simplificación.- Al procedimiento por el cual se propicia la reducción de plazos y requisitos de trámites.
+XII. Regulación.- Conjunto de reglas establecidas en el marco jurídico de la Administración Pública Municipal, para la realización de trámites u obtención de servicios;
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+XIII. Simplificación.- Procedimiento por el cual se propicia la reducción de plazos y requisitos de trámites y servicios; y
+
+XIV. Tecnologías de la información.- Recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2248.
 
-Para la ejecución de las acciones que en materia Regulatoria realice el Consejo, se deberán observar, además de los criterios señalados en los artículos precedentes, lo dispuesto en los acuerdos y convenios de colaboración que el Ayuntamiento haya celebrado con dependencias y entidades de los diferentes niveles de gobierno, así como con organizaciones no gubernamentales y universidades públicas y privadas.
+Las propuestas de mejora regulatoria podrán ser presentadas por los interesados que de manera enunciativa serán los ciudadanos, servidores públicos, organismos del sector público y privado, así como organismos internacionales, ante la Contraloría quien analizará e informará al interesado el tratamiento otorgado a la misma.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
-
-DEL CONSEJO DE MEJORA REGULATORIA
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2249.
 
-El consejo es un órgano colegiado de consulta, auxiliar de la administración Pública Municipal, encargado de promover la transparencia en la elaboración y aplicación de las regulaciones de carácter municipal, así como procurar que dichas regulaciones generen beneficios superiores a sus costos, a favor de la sociedad.
+Para la ejecución de las acciones que en materia regulatoria realice la Contraloría, se deberán observar, además de los criterios señalados en los artículos precedentes, lo dispuesto en los acuerdos y convenios de colaboración que el Ayuntamiento haya celebrado con dependencias y entidades de los diferentes niveles de gobierno, así como con organizaciones no gubernamentales y universidades públicas y privadas.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+DE LA AUTORIDAD COMPETENTE
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2250.
 
-El Consejo se integrará con los siguientes miembros:
+Corresponde a la Contraloría, en materia de Mejora Regulatoria:
 
-I.- Un Presidente, que será el Presidente Municipal;
+I. Promover la transparencia en la elaboración y aplicación de las Regulaciones de carácter municipal, así como procurar que generen beneficios superiores a sus costos, a favor de la sociedad;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+II. Impulsar la participación ciudadana en la elaboración, actualización, ejecución y evaluación del Programa Municipal de Mejora Regulatoria, así como de los instrumentos de mejora regulatoria;
 
-II.- Un Secretario Técnico, que será el Secretario de Desarrollo Económico, Turismo y Competitividad;
+III. Asesorar en materia de Mejora Regulatoria a las Dependencias, Entidades y demás personas interesadas y opinar sobre nuevos proyectos y regulaciones;
 
-III.- Cinco vocales que serán:
+IV. Modernizar y actualizar el Registro de Trámites y Servicios Municipales;
 
-a) Vocal A: El Regidor Presidente de la Comisión de Gobernación, Justicia y Seguridad Pública;
+V. Orientar y coordinar a los Enlaces de Mejora Regulatoria de las Dependencias y Entidades en materia de Mejora Regulatoria;
 
-b) Vocal B: El Regidor Presidente de la Comisión de Industria y Comercio;
+VI. Realizar todas las acciones necesarias que contribuyan a que el Municipio de Puebla cuente con un marco regulatorio eficaz y eficiente para el adecuado funcionamiento e interacción de las actividades económicas;
 
-c) Vocal C: El Presidente de la Comisión de Derechos Humanos;
+VII. Someter a consideración del Ayuntamiento el Programa Municipal de Mejora Regulatoria, así como sus modificaciones;
 
-d) Vocal D: Un representante del sector empresarial, quien será invitado por el Presidente Municipal;
+VIII. Proponer mejoras en la gestión de trámites y servicios de las Dependencias y Entidades, a través de la simplificación administrativa y la reingeniería de procesos;
 
-e) Vocal E: Un representante del sector social, quien será invitado por el Presidente Municipal;
+IX. Transferir el uso de las tecnologías de la información a la simplificación administrativa y la reingeniería de procesos en trámites y servicios de las Dependencias y Entidades;
 
-IV. Un Asesor en materia de Transparencia que será el Contralor Municipal; y
+X. Emitir dictamen regulatorio respecto de las manifestaciones de impacto regulatorio que se presenten;
 
-V. Un Asesor Jurídico que será el Síndico del Ayuntamiento.
+XI. Gestionar el mejoramiento del posicionamiento del Municipio de Puebla en los índices promovidos por organismos internacionales en materia de trámites y servicios;
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+XII. Analizar el marco normativo con base en la calidad regulatoria y la disminución efectiva de cargas administrativas innecesarias;
+
+XIII. Mantener informada a la Unidad de Mejora Regulatoria del Estado, de conformidad con la Ley en la materia, del cumplimiento del Programa Municipal de Mejora Regulatoria;
+
+XIV. Organizar, promover y participar en foros, seminarios y demás actividades orientadas a impulsar la mejora regulatoria municipal;
+
+XV. Fungir como enlace operativo del Ayuntamiento ante el Gobierno Federal, el Gobierno del Estado y con otros Municipios, organizaciones no gubernamentales y universidades públicas y privadas, para la suscripción y seguimiento de convenios institucionales en materia de Mejora Regulatoria, y
+
+XVI. Las demás que le confiera el Ayuntamiento o le sean delegadas por el Presidente.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2251.
 
-En Consejo tendrá las siguientes atribuciones:
+La Contraloría será la instancia responsable de la recepción, atención y seguimiento de las quejas regulatorias de conformidad a los Lineamientos que para tal efecto emita.
 
-I. Realizar todas las acciones necesarias que contribuyan a que el Municipio de Puebla cuente con un marco regulatorio eficaz y eficiente para el adecuado funcionamiento e interacción de las actividades económicas presentes y futuras.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-II. Proveer la constante revisión y simplificación de los trámites y procedimientos administrativos;
+DE LOS ENLACES DE MEJORA REGULATORIA
 
-III. Realizar y someter a consideración del Ayuntamiento el Plan Municipal para la Mejora Regulatoria del Municipio de Puebla;
-
-IV. Realizar y proponer los Programas en materia de mejora regulatoria;
-
-V. Evaluar mensualmente el cumplimiento y consecución de metas establecidos en los Programas de Mejora Regulatoria;
-
-VI. Generar y proponer al Ayuntamiento políticas públicas en la materia cuyos horizontes busquen la generación de inversión productiva dentro del territorio del Municipio de Puebla;
-
-VII. Proponer al Ayuntamiento políticas públicas para el combate a la opacidad y la corrupción mediante la reducción, sistematización y tecnificación de los procedimientos y requisitos administrativos;
-
-VIII. Revisar y eliminar de los sistemas y procedimientos de atención al público, la duplicidad de funciones y requisitos legales innecesarios, promoviendo para tal efecto la actualización a las normas legales previamente establecidas;
-
-IX. Proponer la supresión de los excesos de información detallada en los formatos y solicitudes que utilicen las dependencias y organismos municipales en los trámites y servicios que realicen en el ejercicio de sus funciones; y
-
-X. Remitir a la Contraloría Municipal los acuerdos y resoluciones que se tomen en materia de mejora regulatoria.
-
-Los miembros enumerados en las fracciones I, II y III del artículo 2250, tendrán voz y voto en las decisiones que tome el Consejo, mientras que los miembros enumerados en las fracciones IV y V participarán con voz pero sin voto.
-
-A propuesta del Presidente Municipal se podrá invitar de manera específica a las sesiones del Consejo a otros titulares de dependencias u organismos, federales, estatales y municipales, regidores, diputados, especialistas, representantes de universidades, de los colegios de profesionistas y de diversos sectores económicos y sociales, para que aporten sus experiencias y conocimientos en la materia.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2252.
 
-El cargo de miembro del Consejo será honorífico y por tanto no percibirá remuneración económica. Los integrantes del Consejo podrán nombrar un suplente para asistir a las sesiones del mismo.
+Para la ejecución e implementación de las mejoras contempladas en el Programa Municipal de Mejora Regulatoria, la Contraloría solicitará a las Dependencias y Entidades la designación de un Enlace, quien tendrá las funciones siguientes:
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+I. Diseñar, proponer e impulsar los métodos, procedimientos y controles que permitan el desarrollo y mejor funcionamiento de la Dependencia o Entidad;
 
-###### Artículo 2253.
+II. Identificar las áreas de oportunidad relacionadas a trámites y servicios de alto impacto municipales para proponer y ejecutar estrategias que contribuyan a mejorar los mismos y cumplir con el objetivo establecido en el Programa Municipal de Mejora Regulatoria;
 
-Las facultades del Presidente del Consejo son las siguientes:
+III. Desarrollar estrategias que contribuyan al logro de los objetivos y manejo eficiente de los recursos;
 
-I. Presidir y conducir las sesiones del Consejo;
+IV. Promover la revisión, simplificación y automatización de los procedimientos administrativos de la Dependencia o Entidad;
 
-II. Representar al Consejo ante dependencias, instituciones y organismos de carácter público y privado;
+V. Asistir a las reuniones de trabajo, capacitación, talleres y demás eventos relacionados con la mejora regulatoria convocados por la Contraloría, y
 
-III. Apoyar y promover las iniciativas y propuestas del Consejo;
+VI. Informar periódicamente a la Contraloría sobre los avances relacionados con el Programa Municipal de Mejora Regulatoria, de acuerdo al cronograma establecido por ésta.
 
-IV. Convocar a los vocales por invitación al Consejo cuando sea necesario o a solicitud de alguno de sus miembros;
-
-V. Firmar, en forma conjunta con los vocales del Consejo, los acuerdos que se tomen;
-
-VI. Vigilar el cumplimiento de este Capítulo;
-
-VII. Calendarizar, en coordinación con los miembros del Consejo, la fecha y hora en que se celebrarán las reuniones de trabajo;
-
-VIII. Encomendar al Secretario Técnico la elaboración de estudios o iniciativas legales relacionados con los casos que sean presentados en el Consejo;
-
-IX. Promover la participación activa de los vocales en el Consejo, propiciando la asistencia y colaboración de los miembros titulares, a fin de facilitar que prosperen las propuestas que se formulen en el seno del organismo y;
-
-X. Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2254.
-
-Son facultades y obligaciones del Secretario Técnico las siguientes:
-
-I. Convocar, a solicitud del Presidente, a los miembros del Consejo de manera oportuna a las sesiones del organismo;
-
-II. Elaborar la propuesta de orden del día de cada sesión, dando seguimiento a los casos que se presenten y agregar los nuevos temas o asuntos que involucren la participación de los vocales;
-
-III. Levantar las actas de cada sesión del Consejo;
-
-IV. Dar seguimiento a los acuerdos y propuestas que surjan en las reuniones ordinarias y extraordinarias del Consejo;
-
-V. Rendir informe por escrito a los miembros del Consejo en cada reunión que se lleve a cabo, sobre los avances y asuntos pendientes, relacionados con las atribuciones del organismo;
-
-VI. Difundir las acciones, compromisos y logros obtenidos por el Consejo y sus grupos de trabajo; y
-
-VII. Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2255.
-
-A los vocales del Consejo les corresponde:
-
-I. Asistir a las reuniones a las que fueron convocados;
-
-II. Presentar propuestas relacionadas con el objetivo general y las atribuciones del Consejo;
-
-III. Colaborar en la elaboración de los estudios, proyectos e iniciativas cuya elaboración sea acordada en el Consejo;
-
-IV. Participar de manera directa o por medio de representante, en las reuniones de los grupos de trabajo que se formen para cumplir con los objetivos del Consejo; y
-
-V. Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2256.
-
-El Consejo sesionará cuantas veces considere necesario, debiendo hacerlo por lo menos una vez al mes.
-
-Para que una sesión se considere válidamente instalada, deberán concurrir por lo menos la mitad más uno de los vocales del Consejo, así como el Presidente y el Secretario Técnico.
-
-El Secretario Técnico deberá notificar, con al menos 48 horas de anticipación a todos los miembros del Consejo, el lugar y la hora en que se llevará a cabo la sesión, así como el orden del día que será tratado en la misma.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 DE LA MANIFESTACIÓN DE IMPACTO REGULATORIO
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-###### Artículo 2257.
+###### Artículo 2253.
 
-La manifestación de impacto regulatorio es el estudio en el que se justifica la creación o modificación de regulaciones que impliquen costos para el cumplimiento de los particulares.
+La manifestación de impacto regulatorio se integrará siempre que se presente un proyecto de regulación por parte de las Dependencias o Entidades, ya sea nuevo o de reformas a uno existente, que tenga incidencia en actividades económicas o imponga trámites a nuevos procedimientos vinculados a la economía, la cual se remitirá a la Contraloría en un plazo de treinta días hábiles anteriores a la fecha en que se pretenda emitir el acto o someterlo a la consideración del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+La Contraloría podrá eximir a las Dependencias y Entidades de la obligación de elaborar la manifestación de impacto regulatorio cuando el anteproyecto no implique costos de cumplimiento para los particulares a petición de las mimas.
 
-###### Artículo 2258.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-La Manifestación de Impacto Regulatorio se integrará siempre que se presente un proyecto de regulación, ya sea nuevo o de reformas a uno existente, que tenga incidencias en actividades económicas o imponga trámites a nuevos procedimientos vinculados a la economía.
+###### Artículo 2254.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2259.
-
-En la Manifestación de Impacto Regulatorio deberán especificarse los siguientes aspectos:
+En la manifestación de impacto regulatorio deberán especificarse los aspectos siguientes:
 
 I. Definición del problema;
 
@@ -34809,79 +33857,83 @@ IV. Impacto anticipado de costos y beneficios;
 
 V. Instrumentación y aplicación;
 
-VI. Consulta; y
+VI. Consulta, e
 
 VII. Identificación y descripción de trámites.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-###### Artículo 2260.
+###### Artículo 2255.
 
-En la manifestación del impacto regulatorio deberán indicarse las situaciones o las conductas que se pretenden normar o controlar, así como una explicación clara y sin tecnicismos de la problemática a resolver, las soluciones y propuestas que fueron consideradas.
+En la manifestación de impacto regulatorio deberán indicarse las situaciones o las conductas que se pretenden normar o controlar, así como la explicación clara y sin tecnicismos de la problemática a resolver, las soluciones y propuestas que se consideraron.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-###### Artículo 2261.
+###### Artículo 2256.
 
-Las propuestas de nuevas regulaciones o de modificaciones de las existentes, harán siempre referencia al marco jurídico que se relacione con ellas. También especificarán si se requiere la eliminación de otras regulaciones y en su caso, indicar a qué instrumento legal de los diferentes niveles de gobierno da cumplimiento.
+Las propuestas de nuevas regulaciones o de reformas de las existentes, harán siempre referencia al marco jurídico que se relacione con ellas. Así mismo, deberá especificarse si se requiere la eliminación de otras regulaciones y en su caso, indicar a qué instrumento legal de los diferentes niveles de gobierno da cumplimiento.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-###### Artículo 2262.
+###### Artículo 2257.
 
-El cálculo de los costos se hará atendiendo a:
+El impacto anticipado de costos, deberá atender:
 
-I. Los efectos positivos económicos y sociales potenciales de la propuesta y que tengan incidencia en la actividad económica del Municipio, así como la determinación de la naturaleza, contenido, alcance, beneficios directos e indirectos que resultarían de la instrumentación de la regulación propuesta, así como los sectores que resultarían beneficiados, directa o indirectamente, con la regulación propuesta; y
+I. Los efectos positivos económicos y sociales potenciales de la propuesta y que tengan incidencia en la actividad económica del Municipio, así como la determinación de la naturaleza, contenido, alcance, beneficios directos e indirectos que resultarían de la instrumentación de la regulación propuesta, así como los sectores que resultarían beneficiados, directa o indirectamente con la regulación propuesta, y
 
 II. Los efectos negativos en el entorno social y la actividad económica que pudieran ocasionarse por la regulación propuesta, que tengan incidencia en la actividad económica del Municipio.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-###### Artículo 2263.
+###### Artículo 2258.
 
 Los costos a considerar, serán los siguientes:
 
 I. Costos de capital, como lo son terrenos, infraestructura y equipo;
 
-III. Costos de transacción, incluyendo costos legales, de consultoría o de tiempo para cumplir con los requerimientos administrativos de la regulación;
+II. Costos de operación, salarios, materiales, energía y servicios;
 
-IV. Costos de salud, medio ambiente u otro de carácter social; y
+III. Costos de transacción incluyendo costos legales, de consultoría o de tiempo para cumplir con los requerimientos administrativos de la regulación;
 
-V. Costos administrativos que asuman las dependencias municipales, que se encargarían de instrumentar, y aplicar la regulación propuesta, como son los costos de personal, así como los derivados de inspecciones u otras actividades para asegurar el cumplimiento de las regulaciones.
+IV. Costos de salud, medio ambiente u otro de carácter social, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+V. Costos administrativos que asuman las dependencias municipales, que se encargarían de instrumentar y aplicar la regulación propuesta como son los costos de personal, así como los derivados de inspecciones u otras actividades para asegurar el cumplimiento de las regulaciones.
 
-###### Artículo 2264.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Las manifestaciones de impacto Regulatorio se remitirán al Consejo con copia del proyecto a través de la Secretaría de Desarrollo Económico, Turismo y Competitividad, para su revisión.
+###### Artículo 2259.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+Si los proyectos o las manifestaciones de impacto regulatorio no cumplen con las previsiones legales y reglamentarias, la Contraloría en un plazo de diez días hábiles siguientes a la presentación de los documentos prevendrá a la Dependencia o Entidad solicitante para que los corrija o subsane, así como las recomendaciones que se estime pertinentes.
 
-Si los proyectos o las manifestaciones de impacto Regulatorio no cumplen con las previsiones legales y reglamentarias, El Consejo dentro de los diez días hábiles siguientes a la presentación de los documentos prevendrá a la dependencia o entidad solicitante para que los corrija, o subsane las deficiencias, así como las recomendaciones que se estime pertinentes.
+La Contraloría, deberá indicar de manera concreta los puntos sobre los que versan las deficiencias que contengan los proyectos y las manifestaciones de impacto regulatorio.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-El Consejo deberá indicar de manera concreta los puntos sobre los que versarán las deficiencias que contengan los proyectos y las manifestaciones de impacto regulatorio.
+###### Artículo 2260.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+Los proyectos de regulación y los manifiestos de impacto regulatorio que cumplan con los requisitos exigibles serán revisados por la Contraloría, quien deberá emitir su dictamen en un plazo de treinta días naturales contados a partir de la presentación de los documentos o de los escritos que en su caso, corrijan o subsanen las deficiencias. Durante el plazo en que el anteproyecto y su respectiva manifestación de impacto regulatorio estén en revisión podrán recibirse comentarios, mismos que serán tomados en cuenta por la Contraloría en los respectivos dictámenes.
 
-###### Artículo 2265.
+Si el dictamen es positivo, la Contraloría lo informará a la Secretaría del Ayuntamiento para dar curso a la aprobación, expedición y publicación de la regulación.
 
-Los proyectos de regulación y los manifiestos de impacto regulatorio que cumplan con los requisitos exigibles serán revisados por el Consejo, quien deberá emitir su dictamen dentro del plazo de 30 días contados a partir de la presentación de los documentos o de los escritos que en su caso, corrijan o subsanen deficiencias.
+Si el dictamen es negativo, la Dependencia o Entidad solicitante se sujetará a los términos que emita la Contraloría.
 
-Si el dictamen es favorable, el Consejo remitirá un dictamen de mejora regulatoria al Ayuntamiento para la aprobación, expedición y publicación de la regulación.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Si el dictamen es desfavorable, la dependencia o entidad solicitante se sujetará a los términos que emita el Consejo.
+DEL REGISTRO DE TRÁMITES Y SERVICIOS MUNICIPALES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-DE LAS CÉDULAS DE REGISTRO DE TRÁMITES Y SERVICIOS
+###### Artículo 2261.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+El Registro de Trámites y Servicios Municipales, estará a cargo de la Contraloría quien generará el catálogo correspondiente con las cédulas de cada uno de los trámites y servicios que los ciudadanos realizan en las Dependencias y Entidades, mismo que estará disponible en línea.
 
-###### Artículo 2266.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-Las cédulas de registro de trámites y servicios, serán documentos aprobados por el Ayuntamiento, en el cual se establecerán los requisitos necesarios para la gestión de servicios que realicen los particulares ante las dependencias y entidades de la Administración Pública Municipal. Las Cédulas de Registro deberán contener lo siguiente:
+###### Artículo 2262.
+
+Las cédulas de registro de trámites y servicios, serán documentos aprobados por las Dependencias y Entidades, los cuales establecerán los requisitos necesarios para la gestión de los servicios que realicen los particulares antes (sic) las mismas.
+
+La Contraloría establecerá el formato de las cédulas de registro, las cuales deberán contener lo siguiente:
 
 I. Nombre y clave del trámite;
 
@@ -34889,85 +33941,89 @@ II. Fecha de registro o actualización;
 
 III. Documento que se obtiene;
 
-IV. Fundamentación jurídica;
+IV. Fundamentación jurídica del trámite;
 
-V. Casos en los que se debe o puede realizarse el trámite;
+V. Casos en los que debe o puede realizarse el trámite;
 
 VI. Requisitos del trámite;
 
-VII. Datos y documentos específicos que se deban anexar a la Cédula;
+VII. Datos y documentos específicos que se deban anexar a la cédula de registro;
 
-VIII. Plazo máximo que tiene la dependencia o entidad para resolver;
+VIII. Plazo máximo que tiene la Dependencia o Entidad para resolver y, sí aplica, la afirmativa o negativa ficta;
 
-IX. Monto de los derechos o costo del trámite;
+IX. Monto de los derechos o costo del trámite, o la forma de determinar dicho monto;
 
 X. Vigencia de los permisos, licencias o autorizaciones, registros y demás resoluciones que se emitan;
 
-XI. Criterios de resolución de trámite;
+XI. Criterios de resolución del trámite;
 
-XII. Unidades administrativas en las que puede presentar el trámite;
+XII. Unidades administrativas en las que se puede realizar el trámite;
 
 XIII. Días y horarios de atención al público;
 
-XIV. Número de teléfono, fax y correo electrónico, así como la dirección y demás datos relativos a cualquier otro medio, que permita el envío de consultas, documentos;
+XIV. Número telefónico y medios electrónicos, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas y documentos;
 
-XV. Apartado de observaciones; y
+XV. Apartado de observaciones que referirá las indicaciones que deberá atender el ciudadano y servidor público responsables de realizar y atender el trámite;
 
-XVI. Número de teléfono, fax y correo electrónico de la Contraloría Municipal para los casos de quejas o denuncias en contra de servidores públicos.
+XVI. Número de teléfono, fax y correo electrónico de la Contraloría Municipal para la presentación de quejas o denuncias en contra de servidores públicos, y
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+XVII. Recursos procedentes en caso de alguna inconformidad por la realización o resolución del trámite.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 2263.
+
+Las Dependencias y Entidades, bajo su responsabilidad deberán entregar a la Contraloría la información actualizada a que se refiere el artículo inmediato anterior, para que esta proceda a registrar y publicar las cédulas correspondientes en el Portal Informativo que para ese efecto se establezca.
+
+La Contraloría determinará la forma en que las Dependencias y Entidades entregarán dicha información, para efecto de actualización. En el caso de que se establezca un trámite nuevo, la Dependencia o Entidad que lo genere tendrá la obligación de informarlo a la Contraloría en un plazo no mayor a dos días hábiles posteriores a aquel en que fue publicado en el medio oficial idóneo a fin de iniciar con las acciones correspondientes para su registro.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 2264.
+
+La legalidad y contenido de la información que se inscriba en el Registro de Trámites y Servicios Municipales, será bajo la estricta responsabilidad de la Dependencia o Entidad que proporcione dichos datos. No podrán requerirse trámites ni requisitos adicionales a los inscritos en el Registro, ni aplicarlos en forma distinta a la que se establezca en el mismo.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 2265.
+
+La Contraloría proporcionará a la Secretaría de Finanzas y Administración del Estado de Puebla, el Registro de Trámites y Servicios Municipales a fin de estar interconectado con el Registro de Trámites y Servicios Estatales y Municipales, con el propósito de compartir la información y que los ciudadanos puedan consultarlos de manera directa e indistinta.
+
+Para dichos efectos, se podrá celebrar Convenio en la materia con la Secretaría de Finanzas y Administración del Estado de Puebla de conformidad con lo establecido en la Ley de Gobernanza Regulatoria para el Estado de Puebla y su Reglamento.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+DEL PROGRAMA MUNICIPAL DE MEJORA REGULATORIA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 2266.
+
+Para la consecución de las metas establecidas en el Programa Municipal de Mejora Regulatoria, podrán establecerse acuerdos de coordinación entre las autoridades responsables de su ejecución, así como convenios de colaboración con los sectores social y privado, en los que se establecerán los aspectos esenciales para la elaboración o cumplimiento de sus fines.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2267.
 
-La Secretaría de Desarrollo Económico, Turismo y Competitividad llevará un registro de cédulas de trámites y servicios que se realicen en las dependencias y entidades de la Administración Pública Municipal; al cual se le denominará: Registro Municipal de Trámites y Servicios.
+El Programa Municipal de Mejora Regulatoria será elaborado por la Contraloría dentro de los primeros seis meses del inicio de cada Administración, tendrá una vigencia de dos años y deberá ser aprobado por el Ayuntamiento.
 
-Las dependencias o entidades, bajo su responsabilidad, deberán entregar a la Secretaría de Desarrollo Económico, Turismo y Competitividad y a la Contraloría Municipal, la información actualizada de los trámites en los formatos que les sean proporcionados en un plazo no mayor de quince días hábiles, contados a partir de la fecha de solicitud correspondiente.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2268.
 
-No se podrán exigir trámites, requisitos o plazos distintos a los inscritos en el Registro Municipal de Trámites y Servicios, salvo lo previsto en disposiciones jurídicas expedidas con posterioridad.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
-
-DE LOS PROGRAMAS DE MEJORA REGULATORIA
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2269.
-
-Los Programas de Mejora Regulatoria son instrumentos de ejecución de las acciones en materia de mejora regulatoria para el logro de los objetivos establecidos en el presente Reglamento; en ellos se precisan las acciones a realizar, se determinan los responsables y se establecen los plazos para su cumplimiento.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2270.
-
-Para la consecución de las metas establecidas en los Programas de Mejora Regulatoria podrán establecerse acuerdos de coordinación entre las autoridades responsables de su ejecución, así como convenios de colaboración con los sectores social y privado, en los que se establecerán los aspectos esenciales para la elaboración o cumplimiento de sus fines.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2271.
-
-Los Programas de Mejora Regulatoria deberán ser revisados anualmente, dentro de los treinta primeros días de cada año, a efecto de actualizarlo y adecuarlo a las necesidades imperantes dentro del Municipio.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-###### Artículo 2272.
-
-Los Programas de Mejora Regulatoria deberán ser congruentes con el Plan Municipal de Desarrollo y deberán contener por lo menos lo siguiente:
+El Programa Municipal de Mejora Regulatoria, para efectos de la Ley de Gobernanza Regulatoria para el Estado de Puebla, corresponde al Programa Operativo de Mejora Regulatoria, el cual deberá ser congruente con el Plan Municipal de Desarrollo y el Plan Estatal de Mejora Regulatoria y deberá contener por lo menos lo siguiente:
 
 I. Su ubicación en el contexto de la planeación del desarrollo económico y social del Municipio;
 
 II. Determinaciones específicas sobre:
 
-a) Los objetivos, políticas y metas para la mejora regulatoria del Municipio;
+a) Los objetivos, políticas y metas para la Mejora Regulatoria del Municipio;
 
 b) La justificación del Programa;
 
-c) Las acciones específicas para la desregulación y simplificación administrativa;
+c) Las acciones específicas para la desregulación y simplificación administrativa de trámites y servicios;
 
-d) Las políticas para el combate a la corrupción y opacidad dentro de la gestión pública;
+d) Las políticas para el combate a la corrupción y opacidad en la Gestión Pública;
 
 e) Las políticas públicas y acciones tendientes a incrementar los proyectos de inversión social y productiva;
 
@@ -34975,43 +34031,51 @@ f) Los esquemas de seguimiento y cumplimiento de metas y objetivos de los progra
 
 g) Los indicadores de evaluación y su impacto socioeconómico;
 
-h) Las unidades administrativas responsables.
+h) Las Dependencias y Entidades responsables; y
 
 i) El periodo total de ejecución para la puesta en operación de las acciones y metas establecidas en el Programa.
 
-III. El análisis de los costos y beneficios que se originen con la aplicación del programa;
+III. El análisis de los costos y beneficios que se originen con la aplicación del Programa;
 
-IV. Las metas hacia cuya realización estarán dirigidas las acciones de Mejora Regulatoria;
+IV. El esquema de difusión y capacitación;
 
-V. Los instrumentos administrativos y jurídicos para la ejecución del programa; y
+V. Los instrumentos administrativos y jurídicos para la ejecución del Programa, y
 
-VI. Las demás que dicta el Ayuntamiento y el Consejo.
+VI. Las demás que determine el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 2269.
+
+Los servidores públicos que infrinjan las disposiciones contenidas en el presente Capítulo, serán sancionados conforme lo determina la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás leyes aplicables, sin perjuicio de la responsabilidad civil o penal en que podrían incurrir.
+
+###### Artículo 2270.
+
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
+
+###### Artículo 2271.
+
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
+
+###### Artículo 2272.
+
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 2273.
 
-Corresponde a la Contraloría Municipal y a la Secretaría de Desarrollo Económico, Turismo y Competitividad, el seguimiento y consecución de las acciones y metas establecidas en los Programas de Mejora Regulatoria.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
-
-DE LA SUPERVISIÓN Y VIGILANCIA
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 2274.
 
-La Contraloría Municipal tendrá la facultad de verificar el cumplimiento de las obligaciones de las dependencias y entidades en materia de mejora regulatoria, y en su caso, tendrá la facultad de emitir recomendaciones y aplicar las sanciones que correspondan por su incumplimiento.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
-
-DE LOS CONVENIOS DE COORDINACIÓN
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### Artículo 2275.
 
-El Ayuntamiento podrá celebrar tonel Gobierno Federal, el Gobierno del Estado y con otros Municipios, organizaciones no gubernamentales y universidades públicas y privadas, convenios institucionales, con el propósito de intercambiar información y para fortalecer los procesos de mejora regulatoria.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 > <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -36007,141 +35071,399 @@ DEL RECONOCIMIENTO "JUAN DE PALAFOX Y MENDOZA"
 
 El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas personas que se hayan destacado a nivel Municipal, Estatal, Nacional o Internacional por sus trabajos humanitarios, así como que hayan llevado a cabo actividades relevantes en defensa y/o promoción de los Derechos Humanos.
 
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO, DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+# LIBRO DÉCIMO
+
+> <small>(ADICIONADO CON EL CAPÍTULO, DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### Artículo 2343.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El presente Capítulo tiene por objeto regular las disposiciones contenidas en la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios y la Ley de Gobernanza Regulatoria para el Estado de Puebla, debiendo:
+
+I. Fomentar y consolidar en el Municipio de Puebla el uso y aprovechamiento estratégico de las tecnologías de la información, a fin de asegurar un Gobierno Digital para una mayor integración y desarrollo de la sociedad; y
+
+II. Establecer las instancias e instrumentos mediante los cuales el Ayuntamiento regulará el uso y aprovechamiento estratégico de las tecnologías de la información, para mejorar la relación de éste con sus ciudadanos, aumentar la eficacia y eficiencia de su gestión, así como de los servicios que prestan e incrementar la transparencia y la participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2344.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El Ayuntamiento realizará, de manera coordinada y concurrente, en el ámbito de su competencia, las acciones de fomento, planeación, regulación, control, y vigilancia relativas al uso y aprovechamiento estratégico de las tecnologías de la información.
+
+Para el cumplimiento de las disposiciones de este Capítulo, el Ayuntamiento podrá suscribir convenios de colaboración, coordinación, concertación o asociación con autoridades federales, estatales, o municipales, así como con los sectores social, privado y académico, según corresponda, en materia de uso y aprovechamiento estratégico de las tecnologías de la información.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2345.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para los efectos de este Capítulo, se entiende por:
+
+I. Acuse de Recibo Electrónico.- Constancia electrónica, que emite una autoridad, dependencia u organismo para acreditar la fecha y hora de recepción de una notificación o resolución, a través de medios de comunicación electrónica;
+
+II. Autoridad Certificadora.- Las dependencias y entidades de la Administración Pública Federal y los prestadores de servicios de certificación que conforme a las disposiciones jurídicas, tengan reconocida esta calidad y cuenten con la infraestructura tecnológica para la emisión, administración y registro de certificados digitales, así como para proporcionar servicios relacionados con los mismos, en atención a lo dispuesto por la Ley de Firma Electrónica Avanzada;
+
+III. Ayuntamiento.- Honorable Ayuntamiento del Municipio de Puebla;
+
+IV. Certificado digital.- Documento firmado electrónicamente por la Autoridad Certificadora mediante el cual se vinculan los datos de verificación de firma a un firmante y permite confirmar la identidad del mismo;
+
+V. Comisión.- Comisión de Gobierno Digital e Innovación del Honorable Ayuntamiento del Municipio de Puebla o su equivalente;
+
+VI. Comisión Estatal.- Comisión Estatal de Gobierno Digital;
+
+VII. Contraloría.- Contraloría Municipal del Honorable Ayuntamiento del Municipio de Puebla;
+
+VIII. Copia digital.- Archivo en medios electrónicos de cualquier documento que corresponde fielmente al mismo;
+
+IX. CURS.- Clave Única de Registro de Usuario;
+
+X. Datos personales.- A la información numérica, alfabética, gráfica, acústica o de cualquier otro tipo concerniente a una persona física identificada o identificable. Tal y como son, de manera enunciativa y no limitativa: El origen étnico; las características físicas, morales o emocionales; la vida afectiva y familiar; el domicilio y el teléfono particular, el correo electrónico personal y que no haya sido establecido como oficial por alguna regulación; los bienes que conforman el patrimonio; la ideología; las opiniones políticas, las creencias, las convicciones fisiológicas, morales y religiosas; el estado de salud físico o mental; la preferencia u orientación sexual; la huella digital, la información genética; el número de afiliación a cualquier organismo de seguridad social, y cualquier otro que pudiera resultar de características análogas a las previamente enunciadas, de conformidad con la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla;
+
+XI. Dependencias.- Aquéllas que integran la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla;
+
+XII. Documento Electrónico.- El redactado con soporte electrónico signado con la Firma Electrónica Avanzada;
+
+XIII. Entidades.- Los organismos públicos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos, en los que el fideicomitente sea el Municipio de Puebla;
+
+XIV. Fecha electrónica.- El conjunto de datos en forma electrónica utilizados como medio para constatar el momento en que se ha efectuado una actuación sobre otros datos electrónicos a los que están asociados;
+
+XV. Firma Electrónica Avanzada.- Conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de estos, la cual produce los mismos efectos jurídicos que la firma autógrafa conforme a la legislación aplicable;
+
+XVI. Interconexión.- Enlazar entre sí aparatos y/o sistemas, de forma tal que entre ellos puedan fluir datos y/o información;
+
+XVII. Interoperabilidad.- Característica de las tecnologías de la información que les permite su interconexión y funcionamiento conjunto de manera compatible;
+
+XVIII. Ley.- Ley de Gobierno Digital para el Estado de Puebla y sus Municipios;
+
+XIX. Medios electrónicos.- Todos aquellos instrumentos creados para obtener un eficiente intercambio de información de forma automatizada; tales como internet, correo electrónico, y similares;
+
+XX. Mensaje de datos.- La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología;
+
+XXI. Plataforma Tecnológica Transversal.- Aquella que puede ser empleada a la vez en varias áreas de la estructura organizacional del municipio, sin necesidad de modificarla para cada una de ellas;
+
+XXII. Portales Informativos.- Al espacio de una red informática que ofrece, de forma sencilla e integrada, acceso única y exclusivamente a la información que se ofrece al ciudadano;
+
+XXIII. Portales Transaccionales.- Al espacio de una red informática que ofrece, de forma sencilla e integrada, acceso a recursos y servicios, mediante los cuales se pueden realizar transacciones entre el ciudadano y el ente responsable de la información y los servicios ofrecidos en el portal;
+
+XXIV. Programa Anual de Desarrollo Tecnológico.- Documento en el que el municipio, expresa el portafolio de proyectos de tecnologías de la información que se desplegarán en el ejercicio fiscal correspondiente;
+
+XXV. Programa Anual Transversal de Desarrollo Tecnológico.- Documento integrador que contiene los Programas Anuales de Desarrollo Tecnológico, elaborado por la Comisión Estatal;
+
+XXVI. PUAM.- Padrón de Usuarios Acreditados del Municipio de Puebla;
+
+XXVII. RUPA.- Registro Único de Personas Acreditadas que preveé (sic) la Ley de Gobernanza Regulatoria para el Estado de Puebla;
+
+XXVIII. Secretaría.- Secretaría de Innovación Digital y Comunicaciones del Honorable Ayuntamiento del Municipio de Puebla;
+
+XXIX. Servicios.- Conjunto de actividades que tienen como finalidad responder a las necesidades de un ciudadano;
+
+XXX. Tecnologías de la Información.- Conjunto de elementos y técnicas utilizadas en el tratamiento y transmisión de información, principalmente vía electrónica, a través del uso de la informática, internet o las telecomunicaciones;
+
+XXXI. Trámite.- Cualquier solicitud o gestión que los ciudadanos hagan ante una dependencia o Entidad, de manera presencial o electrónica, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tiene a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo; y
+
+XXXII. Servicios digitales.- Aquéllos que el Ayuntamiento ofrece a los ciudadanos de manera electrónica, a través de sus Portales Transaccionales y otros medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2346.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+En materia de Gobierno Digital, el Ayuntamiento tendrá las siguientes atribuciones:
+
+I. Desarrollar acciones y gestiones dirigidas a incorporar activamente el uso de tecnologías de la información, en su funcionamiento y operación, a fin de realizar de manera eficiente su operación interna, así como los trámites y servicios gubernamentales que presten al ciudadano, siempre que no se exija una solemnidad que no sea posible cumplirse a través de medios electrónicos;
+
+II. Diseñar e implementar acciones para impulsar los trámites y servicios digitales;
+
+III. Realizar las gestiones necesarias para difundir y promover entre los ciudadanos los trámites y servicios digitales que se encuentren disponibles a través de los Portales Transaccionales, las ventajas que conllevan y la manera de utilizarlos;
+
+IV. Implementar las políticas dirigidas a garantizar la privacidad y protección de los datos personales, proporcionados por los ciudadanos al efectuar, en sus Portales Transaccionales, trámites y servicios digitales, de acuerdo a lo establecido en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla;
+
+V. Incorporar mejores prácticas del sector tecnológico a todos los programas que incluyan el uso de tecnologías de la información, en especial a los Portales Transaccionales;
+
+VI. Habilitar los medios electrónicos que estime convenientes, para la prestación de los trámites y servicios digitales;
+
+VII. Realizar las acciones necesarias, para promover la conversión, desarrollo y actualización permanente de los Portales Transaccionales;
+
+VIII. Elaborar el Programa Anual de Desarrollo Tecnológico y enviarlo a la Comisión Estatal, para su inclusión en las consideraciones para elaborar el Programa Anual Transversal de Desarrollo Tecnológico;
+
+IX. Emitir copias digitales de los documentos asociados a un trámite o servicio validados con la Firma Electrónica Avanzada correspondiente y con las fechas electrónicas insertados en los documentos electrónicos que integran los expedientes administrativos, previo pago de los derechos previstos en la Ley de Ingresos vigente;
+
+X. Promover la interoperabilidad entre las tecnologías existentes a nivel federal, estatal y municipal;
+
+XI. Proponer la regulación necesaria en materia de uso y aprovechamiento estratégico de las tecnologías de la información con el fin de establecer los requerimientos tecnológicos que deberán observarse para la introducción de conectividad en los edificios públicos que edifiquen o utilicen dentro de su jurisdicción; y
+
+XII. Las demás que le otorgue la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2347.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La Secretaría y la Contraloría quedan facultadas para definir las políticas que se requieran para su eficaz aplicación en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2015)</small>
+
+DE LOS INSTRUMENTOS DEL GOBIERNO DIGITAL
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2015)</small>
+
+PROGRAMA ANUAL DE DESARROLLO TECNOLÓGICO
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2348.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La Secretaría deberá formular y turnar para su validación a la Comisión, dentro de los primeros quince días del mes de julio de cada año, para su posterior presentación a la Comisión Estatal durante el mes de agosto, el Programa Anual de Desarrollo Tecnológico que se planee ejecutar en el ejercicio fiscal siguiente, el cual deberá observar en su elaboración, lo especificado en el Programa Estratégico de Gobierno Digital, lo dispuesto tanto en la Ley, su Reglamento, los lineamientos técnicos elaborados por la Comisión Estatal, la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, y la normatividad hacendaria aplicable al municipio.
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+PORTALES TRANSACCIONALES
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2349.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La Secretaría será la encargada de llevar a cabo la transformación de los Portales Informativos actuales en Portales Transaccionales, a fin de que los ciudadanos puedan realizar de manera ágil y sencilla, los trámites y servicios digitales que ofrecen las Dependencias y Entidades.
+
+Para el cumplimiento, la Secretaría deberá incorporar las tecnologías de la información a los programas municipales que sean requeridos.
+
+En el caso de los Portales Informativos que, de manera exclusiva, difundan la información básica a que hace referencia la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, no se realizará dicha transformación.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2350.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La Secretaría deberá garantizar que todos los trámites y servicios ofertados a los ciudadanos, se puedan realizar en formato digital, a fin de que éstos se realicen a través de los Portales Transaccionales, en la medida en que la naturaleza del trámite o servicio lo permita.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2351.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La Contraloría, en coordinación con la Secretaría, deberá mantener permanentemente actualizados y publicados en la Plataforma Tecnológica Transversal, los requisitos para la realización de los trámites y servicios digitales que preste el Ayuntamiento, contenidos en el Registro de Trámites y Servicios Municipales.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2352.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Si un trámite o solicitud de un servicio se inicia en línea, no podrá cambiar su tramitación para realizarse de manera presencial.
+
+No obstante lo anterior, aquellas solicitudes que por alguna razón técnica o jurídica no sean posibles de ser emitidas a través de los Portales Transaccionales, una vez determinada su inviabilidad por la Dependencia o Entidad que conozca del trámite, podrá ser resuelto de manera presencial.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2353.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Los documentos presentados a través de las tecnologías de la información, los documentos autógrafos, los documentos electrónicos; así como, los archivos digitalizados y los documentos firmados en forma autógrafa o con la firma electrónica avanzada de los servidores públicos correspondientes que se encuentren en las bases de datos de las autoridades competentes, producirán los mismos efectos y tendrán el mismo valor probatorio.
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+DEL PADRÓN DE USUARIOS ACREDITADOS DEL MUNICIPIO DE PUEBLA
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2354.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El PUAM es la base de datos que se conforma con la información y documentos otorgados por los ciudadanos para efecto de realizar trámites y solicitar servicios en línea ante el Ayuntamiento.
+
+Para el caso en que el solicitante ya se encuentre registrado ante el RUPA será válida la tramitación una vez que el Ayuntamiento verifique la autencidad (sic) del registro.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2355.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El PUAM estará a cargo de la Contraloría, quien será la unidad responsable de la administración, operación y control de éste, así como de la protección y tratamiento de los datos que lo integran; Dependencia facultada para emitir los Lineamientos de operación del Padrón y realizar las adecuaciones a los mismos según corresponda. Para efectos de lo anterior las Dependencias y Entidades que cuenten con trámites y servicios registrados ante esta, quedarán sujetos al cumplimiento del presente artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2356.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El PUAM deberá tener interconexión con el RUPA, con el fin de compartir la información contenida en sus bases de datos, siempre que el ciudadano consienta de manera expresa que sus datos y/o documentos pueden ser usados por órganos del Estado diferentes a los que se otorgó en un principio, de conformidad con la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2357.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Es obligación de las personas acreditadas mantener actualizada su información y documentación comprendida en el PUAM de conformidad a las leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2358.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Las Dependencias y Entidades podrán hacer uso de los datos del PUAM, con el fin de que puedan realizar trámites o solicitar servicios a favor de los particulares.
+
+Para el uso de los datos que integran el PUAM tendrán que apegarse a lo establecido en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2359.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La Contraloría, por conducto de las Dependencias y Entidades, asignará a los ciudadanos que soliciten su incorporación al PUAM, la CURS, la cual será el acceso para realizar operaciones de trámites y servicios en los Portales Transaccionales, ésta es de carácter personal e intransferible.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2360.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para proceder al registro en el PUAM los solicitantes deberán acreditar su personalidad, presentando la siguiente documentación:
+
+El procedimiento para tramitar la CURS es el siguiente:
+
+I. Descargar y leer los Lineamientos para la operación del PUAM contenidos en el portal informativo del Ayuntamiento www.pueblacapital.gob.mx, sección "Transparencia" / logo "PUAM", llenar la solicitud correspondiente vía electrónica e imprimir su comprobante de cita;
+
+II. Para acreditar la personalidad jurídica, los solicitantes deberán presentar en original para su cotejo y digitalización:
+
+a. Personas físicas: Identificación oficial vigente (credencial de elector, pasaporte, cédula profesional y credencial INAPAM), tratándose de extranjeros el documento que acredite su legal estancia en el país.
+
+b. Personas morales: Acta Constitutiva y última modificación (si hubiera), nombramiento de representante legal e identificación oficial vigente del mismo. Si fuera persona moral extranjera: Acta Constitutiva y en su caso, la apostilla o legalización correspondiente, así como la traducción de dichos documentos efectuados por el perito traductor. Si el representante legal es extranjero deberá presentar el documento que acredite su legal estancia en el país.
+
+c. Comprobante domiciliario con antigüedad no mayor a tres meses.
+
+d. Registro Federal de Contribuyentes.
+
+e. Clave Única de Registro de Población (CURP).
+
+III. Presentarse en el lugar y fecha indicados en la confirmación de la cita, con la documentación antes señalada.
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+DE LA FIRMA ELECTRÓNICA AVANZADA
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2361.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Podrán ser titulares de la Firma Electrónica Avanzada los servidores públicos adscritos a las Dependencias y Entidades, que estén legalmente facultados para firmar documentos oficiales de la Dependencia o Entidad en cuestión, de acuerdo con la normatividad aplicable.
+
+Los titulares serán informados por escrito, por la Autoridad Certificadora, de las responsabilidades y deberes que asumen con el uso de la Firma Electrónica Avanzada.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2362.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La certificación de las firmas electrónicas avanzadas de los titulares a que se refiere el artículo inmediato anterior y de los particulares se realizará mediante la Autoridad Certificadora.
+
+El certificado electrónico deberá contener, además de las menciones que corresponda, la fecha y hora de la emisión del documento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2363.
 
-(DEROGADO, P.O. 24 DE OCTUBRE DE 2007)
+El uso de la Firma Electrónica Avanzada a que se refiere este Capítulo será obligatorio para los servidores públicos si el trámite o servicio se encuentra de manera electrónica en los Portales Transaccionales.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2364.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para efectos de la integración, operación y uso de la Firma Electrónica Avanzada, resultan aplicables los preceptos establecidos en la Ley de Firma Electrónica Avanzada y la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios.
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+DE LAS NOTIFICACIONES ELECTRÓNICAS
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2365.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Todos los actos, convenios, comunicaciones, procedimientos administrativos, trámites, requerimientos, citatorios, resoluciones, declaratorias, consultas, acuerdos y en general todas las actuaciones que emitan las Dependencias y Entidades podrán ser notificados a los ciudadanos o a las mismas autoridades Municipales, a través de medios electrónicos, mediante mensajes de datos, siempre que en éstos se ostente la Firma Electrónica Avanzada del servidor público titular.
+
+Las notificaciones a través de medios electrónicos se podrán hacer en cualquier sistema de información que designe el destinatario, como correos electrónicos, institucionales o inclusive a través de una página Web, las cuales surtirán sus efectos a partir de que el destinatario cuente con su acuse de recibo electrónico.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2366.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para que surta efectos jurídicos un mensaje de datos notificado a través de medios electrónicos, deberá contar siempre y sin excepción con un acuse de recibo electrónico del mismo, generado por el sistema de información utilizado en los medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2367.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El mensaje de datos se tendrá por expedido en el lugar donde el firmante tenga registrado su domicilio electrónico dentro del certificado, y por recibido en el lugar donde el destinatario tenga establecido el suyo. Cuando se realicen cualquiera de los actos regulados por este Código a través de un mensaje de datos en hora o día inhábil, se tendrá por realizado en la primera hora hábil del siguiente día hábil y se tendrán por no realizados cuando no contengan un mensaje de datos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2368.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Los mecanismos señalados en los artículos anteriores podrán ser utilizados preferentemente para la citación de las Sesiones de Cabildo, así como para las notificaciones y resoluciones de los Acuerdos que emitan.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2369.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+En cumplimiento del artículo anterior el Presidente Municipal, Regidores, Secretario del Ayuntamiento, Síndico Municipal y Titulares de las Dependencias y Entidades, contarán con una cuenta de correo electrónico asignada o registrada por la Dirección de Tecnologías de la Información, que contará con clave de seguridad, misma que será responsabilidad de cada usuario.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2370.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para la citación y notificación de las Sesiones de Cabildo se observará lo establecido en los artículos relacionados en la materia contenidos en el presente Código y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+DEL DERECHO DE LAS PERSONAS A RELACIONARSE CON EL AYUNTAMIENTO, A TRAVÉS DEL GOBIERNO DIGITAL
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2371.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Las personas tendrán derecho a relacionarse con el Ayuntamiento, a través de medios electrónicos, para recibir por esa vía de comunicación, atención e información gubernamental. Además, tendrán la oportunidad de realizar consultas, formular solicitudes, efectuar pagos y, en general, realizar trámites y servicios digitales de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2372.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+En relación con la utilización de los medios electrónicos para la realización de trámites y servicios digitales, las personas físicas y morales tienen, en los términos previstos de la Ley y este Capítulo, los siguientes derechos:
+
+I. A elegir, de entre aquéllos que el Ayuntamiento haya puesto a su disposición, el medio electrónico a través del cual se relacionarán con dichos sujetos;
+
+II. A no entregar, para la realización de trámites y servicios digitales, los documentos que les requieran las dependencias o entidades municipales, en el supuesto de que dichos documentos hayan sido expedidos con anterioridad por cualquiera de los citados sujetos; siempre que así se lo hagan saber a la dependencia ante la que se gestiona el trámite o servicio digital correspondiente;
+
+III. A conocer, por los medios electrónicos que el Ayuntamiento haya puesto a su disposición, la fase de tramitación de los procedimientos administrativos en los que tengan el carácter de solicitantes;
+
+IV. A obtener copias digitales de los documentos que formen parte de los expedientes en los que tengan el carácter de solicitantes, previo pago de derechos previstos en la Ley de Ingresos vigente;
+
+V. A utilizar la Firma Electrónica Avanzada en los actos, procedimientos y trámites y servicios digitales que se lleven a cabo entre los particulares y el Ayuntamiento, en los términos de la legislación aplicable a la materia;
+
+VI. A la garantía de la seguridad y protección de los datos personales otorgados por las personas físicas o morales usuarias de los Portales Informativos o Transaccionales; y
+
+VII. A ser atendido en tiempo y forma en la realización de los trámites y servicios digitales prestados a través de los medios electrónicos que pongan a su disposición el Ayuntamiento.
+
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2373.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Los servidores públicos que infrinjan las disposiciones de este Código, serán sancionados conforme lo determina la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2374.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Serán causales de responsabilidad administrativa para los servidores públicos de las Dependencias y Entidades, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, el incurrir en la omisión o incumplimiento de los supuestos que a continuación se establecen:
+
+I. Incorporar a sus Portales Transaccionales, los trámites y servicios digitales que sean de su competencia;
+
+II. Utilizar las medidas, recomendadas por la Coordinación General de Transparencia y la Comisión Estatal, para la seguridad y protección de los datos e información personal proporcionada por los ciudadanos al efectuar, en sus Portales Transaccionales, trámites y servicios digitales; y
+
+III. Mantener permanentemente actualizados sus Portales Transaccionales y los datos establecidos en el Registro.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2375.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Las violaciones al presente Capitulo serán sancionadas sin perjuicio de las acciones legales que procedan, por el Honorable Ayuntamiento de Puebla, mismas que son:
+
+I. A quien altere, distorsione, menoscabe o modifique los documentos públicos que se emitan o reciban a través de los medios electrónicos de comunicación, se le impondrá una multa por el importe de 100 a 200 días de salario mínimo general vigente en el Municipio y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
+
+II. A quien haga uso indebido de los medios electrónicos a cargo de los servidores públicos del Gobierno Municipal, se le impondrá una multa por el importe de 50 a 100 días de salario mínimo general vigente en el Municipio y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
+
+III. A quien elimine, borre o impida que cualquier archivo sea enviado y recibido en tiempo y forma legal se le impondrá una multa por el importe de 100 a 200 días de salario mínimo general vigente en el Municipio y en caso de ser usuario la revocación de su cuenta de correo electrónico.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2376.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+En caso de que el ciudadano haga uso indebido de la firma electrónica avanzada en documento apócrifo se hará acreedor a las sanciones que establece éste Código sin perjuicio de aquéllas de carácter penal.
 
 ###### Artículo 2377.
 
@@ -36838,3 +36160,63 @@ PRIMERO.- El presente Dictamen entrará en vigor a los 180 días naturales sigui
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
 
 TERCERO.- La Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla, deberá de emitir o adecuar los manuales de organización, de procedimiento y de operación correspondientes, en un término de 160 días naturales a partir de la publicación del presente Dictamen en el Periódico Oficial del Estado de Puebla.
+
+P.O. 29 DE MAYO DE 2015.
+
+ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 656; LAS FRACCIONES II Y III DEL 657; LAS FRACCIONES I Y II DEL 657 BIS; EL PÁRRAFO SEGUNDO DEL 702; 702 BIS; EL ACÁPITE Y LA FRACCIÓN III DEL 711; LA FRACCIÓN III DEL 713; EL ACÁPITE DEL 714; 718; LA FRACCIÓN I DEL 719, EL ACÁPITE DEL 722; Y EL ACÁPITE DEL 723; SE ADICIONAN LAS FRACCIONES IX, X, XI, XII Y XIII AL 657 BIS; EL PÁRRAFO TERCERO AL ARTÍCULO 702; EL PÁRRAFO SEGUNDO AL 711; Y EL PÁRRAFO SEGUNDO AL 713; Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 657 BIS DEL CAPÍTULO 17 DENOMINADO "CONSTRUCCIONES" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+PRIMERO. El presente Dictamen entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones en materia de Desarrollo Urbano contenidas en la "Norma Técnica para la obtención de licencia de funcionamiento para negocios de bajo impacto, alineamiento y número oficial, constancia de uso de suelo, factibilidad de uso de suelo, licencia de uso de suelo y licencia de uso de suelo específico; así como el Catálogo de Negocios de Bajo Impacto", y aquellas que se opongan al presente Dictamen.
+
+P.O. 29 DE MAYO DE 2015.
+
+ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 627; 628; EL ACÁPITE Y LOS PÁRRAFOS SEGUNDO, SEXTO, SÉPTIMO, OCTAVO Y NOVENO DEL 629; EL ACÁPITE Y LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO DEL 630; 633, 634 Y 638 FRACCIÓN III; Y LA ADICIÓN DEL ARTÍCULO 633 BIS AL CAPÍTULO 15 DENOMINADO "ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+PRIMERO. Las disposiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones relativas a la expedición de la Licencia de Funcionamiento para negocios de bajo impacto y el Catálogo de Negocios de Bajo Impacto contenidos en la "Norma Técnica para la obtención de licencia de funcionamiento para negocios de bajo impacto, alineamiento y número oficial, constancia de uso de suelo, factibilidad de uso de suelo, licencia de uso de suelo y licencia de uso de suelo específico; así como el Catálogo de Negocios de Bajo Impacto" y aquellas que se opongan al presente Dictamen.
+
+TERCERO. Hasta en tanto no se inicie con el registro del Padrón de Usuarios Acreditados del Municipio de Puebla, el solicitante deberá realizar el trámite en las ventanillas del Centro de Atención Empresarial de la Secretaría de Desarrollo Económico y Turismo y presentar los requisitos que señalan los artículos 628 y 2360 fracción II del Código Reglamentario para el Municipio de Puebla.
+
+CUARTO. La Comisión de Desarrollo Económico y Competitividad del Honorable Ayuntamiento del Municipio de Puebla, someterá para la aprobación del Cabildo Municipal, el Catálogo de Giros Comerciales Complementarios, Industriales y de Servicios del Municipio de Puebla en términos de lo dispuesto por el artículo 628 del Código Reglamentario para el Municipio de Puebla. La actualización del Catálogo por única ocasión será aplicable a partir del año dos mil dieciséis.
+
+QUINTO. El Aviso de Apertura de Negocio equivale legalmente a la Licencia de Uso de Suelo Específico y Licencia de Funcionamiento para todos los trámites y servicios que para su desahogo se requieran.
+
+SEXTO. Los trámites que se hayan iniciado con anterioridad a la entrada en vigor del presente Dictamen, serán resueltos conforme a su normatividad hasta su conclusión.
+
+SÉPTIMO. Aquellas solicitudes de giros comerciales susceptibles de Aviso de Apertura de Negocio que por alguna razón técnica o jurídica no sean posibles de ser emitidas a través del Sistema Informático del Ayuntamiento, una vez determinada su inviabilidad por la Dependencia que conozca del trámite, podrá ser resuelto de manera presencial.
+
+OCTAVO. El pago de los Derechos por el Aviso de Apertura de Negocio para el Ejercicio Fiscal 2015, se determinará conforme a la Ley de Ingresos del Municipio de Puebla vigente, considerando el costo equivalente a la expedición de la Licencia de Uso de Suelo Específico, el tarjetón de Licencia de Funcionamiento y formato de empadronamiento.
+
+NOVENO. Las Ventanillas del Centro de Atención Empresarial de la Secretaría de Desarrollo Económico y Turismo podrán atender las solicitudes de Aviso de Apertura Negocio, orientando a la ciudadanía sobre el uso del Sistema Informático.
+
+P.O. 29 DE MAYO DE 2015.
+
+ACUERDO POR EL QUE SE DEROGA EL TÍTULO DENOMINADO "DE LAS NOTIFICACIONES POR MEDIOS ELECTRÓNICOS" CON LOS ARTÍCULOS 107 BIS; 107 TER; 107 QUÁTER; 107 QUINQUIES; 107 SEXIES; 107 SEPTIES; 107 OCTIES Y 107 NONIES DEL CAPÍTULO 5 DENOMINADO "DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL CABILDO"; Y LA ADICIÓN DEL CAPÍTULO 37 DENOMINADO "DEL GOBIERNO DIGITAL" CON LOS ARTÍCULOS 2343 AL 2376 AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+PRIMERO. El presente Dictamen entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
+
+TERCERO. La Contraloría Municipal, deberá elaborar los Lineamientos del Padrón de Usuarios Acreditados del Municipio de Puebla, en un plazo máximo de cuarenta días naturales, contados a partir de la fecha de publicación de este Dictamen en el Periódico Oficial del Estado.
+
+CUARTO. El Padrón de Usuarios Acreditados del Municipio de Puebla deberá operar en los términos del presente Capítulo, en un plazo no mayor de noventa días naturales, contados a partir de la fecha de publicación del presente Dictamen en el Periódico Oficial del Estado.
+
+QUINTO. A partir del día siguiente de la publicación del presente instrumento, el Ayuntamiento determinará los trámites y servicios que podrán ser desahogados de manera electrónica, sin perjuicio de aquéllos que ya se realizaban a través de esa vía.
+
+SEXTO. Las erogaciones que deriven de la aplicación de esta adición, estarán sujetas a la suficiencia presupuestal correspondiente.
+
+SÉPTIMO. Los sistemas que no se encuentren vinculados al Padrón de Usuarios Acreditados del Municipio de Puebla deberán solicitar a la Secretaría de Innovación Digital y Comunicaciones, a través de la Dirección de Sistemas, realice la vinculación de los trámites con dicho Padrón.
+
+P.O. 29 DE MAYO DE 2015.
+
+ACUERDO POR EL QUE SE APRUEBA EN TODOS SUS TÉRMINOS LA MODIFICACIÓN AL CAPÍTULO 35 DENOMINADO "DE LA MEJORA REGULATORIA" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+PRIMERO. El presente Dictamen entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
+
+TERCERO. La Contraloría Municipal, deberá elaborar el Programa Municipal de Mejora Regulatoria para la actual Administración Pública Municipal, en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Dictamen; y con el objeto de dar cumplimiento a la Ley de Gobernanza Regulatoria para el Estado de Puebla, por única ocasión el Programa estará vigente por el período constitucional de la presente Administración.
+
+CUARTO. La Contraloría Municipal, deberá emitir o adecuar los manuales o lineamientos de organización, de procedimiento y de operación correspondientes, en un término de ciento ochenta días naturales a partir de la publicación del presente Dictamen en el Periódico Oficial del Estado de Puebla.
