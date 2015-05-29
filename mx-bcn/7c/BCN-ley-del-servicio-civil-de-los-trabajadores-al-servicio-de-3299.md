@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2014-07-04"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -354,6 +354,14 @@ Los trabajadores que presten sus servicios en sábado o domingo o en ambos días
 ###### ARTICULO 29.
 
 Las mujeres disfrutarán de 30 días de descanso antes de la fecha que aproximadamente se fije del parto y de 60 días después del mismo; pudiendo ampliarse la periodicidad en casos especiales mediante dictámenes médicos, además durante la lactancia tendrán un descanso extraordinario por día de cuando menos una hora para amamantar a sus hijos, estas prerrogativas se conceden independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+En caso de adopción de un infante disfrutarán de un descanso de siete semanas naturales con goce de sueldo, posteriores al día en que lo reciban, a fin de garantizar su integración familiar y social.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+Los hombres disfrutarán de un permiso de cinco días laborables, con goce de sueldo íntegro, por el nacimiento de sus hijos y de igual manera en el caso de adopción de un infante. El trabajador deberá comprobar conforme a la legislación aplicable que estos hechos ocurrieron y además deberá acreditar que cohabita con la madre del menor.
 
 ###### ARTICULO 30.
 
@@ -2432,3 +2440,7 @@ DÉCIMO SEGUNDO.- Las autoridades públicas en reconocimiento al derecho a la vi
 P.O. 4 DE JULIO DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE MAYO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
