@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-363-de-casas-asistenciales-para-las-ninas-ninos-7536
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-18"
-last_updated: "2010-06-18"
+last_updated: "2015-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 363 DE CASAS ASISTENCIALES PARA LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO
 
-LEY NUMERO 363 DE CASAS ASISTENCIALES PARA LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO
+LEY NÚMERO 363 DE CASAS ASISTENCIALES PARA LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 29 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015 (DEROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 18 de junio de 2010.
 
@@ -494,3 +496,21 @@ EL SECRETARIO DE DESARROLLO SOCIAL.
 LIC. HERIBERTO MANUEL PASTRANA CRUZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se deroga la Ley número 363 de Casas Asistenciales para las Niñas, Niños y Adolescentes del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero no. 49, el viernes 18 de junio de 2010.
+
+TERCERO. Los titulares que cuenten o no con licencias expedidas con anterioridad a esta ley que amparan el funcionamiento de las Estancias, Guarderías Infantiles y CENDI, contarán con un término de ciento ochenta días contados a partir del día en que entre en vigor la presente ley, a efecto de regularizar su situación, en primer término, misma que incluye su registro y autorización de funcionamiento y en segundo lugar buscar los apoyos necesarios para avanzar hacia los otros niveles y tipos o en su caso; mejorar acorde con la presente Ley los servicios que se presten en la modalidad, nivel y tipo en que se encuentren registrados, para lo cual deberán cumplir con los requisitos previstos en dichos ordenamientos jurídicos.
+
+CUARTO. El titular del Poder Ejecutivo del Estado en coordinación con el Consejo Estatal, una vez instalado, acordará y expedirán el reglamento correspondiente, en un plazo no mayor de sesenta días, a la entrada en vigor de la presente ley. La falta de publicación del reglamento no impedirá su aplicación.
+
+QUINTO. Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
+
+SEXTO. Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, en la página web del Honorable Congreso del Estado de Guerrero y en dos diarios de mayor circulación en la entidad para su divulgación.
