@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-26156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-01"
-last_updated: "2009-05-15"
+last_updated: "2015-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,400 +21,1068 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRESTAMOS HIPOTECARIOS
 
-REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRESTAMOS HIPOTECARIOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2009.
+LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de octubre de 2002.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2021.
 
-AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
-JUAN CARLOS ROMERO HICKS, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de la facultad que me confieren los artículos 77 fracciones II, III y XXI y 79 de la Constitución Política del Estado de Guanajuato; así como en lo dispuesto por los artículos 2°, 6° y 9º de la Ley Orgánica, del Poder Ejecutivo para el Estado, y
+(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
 
-C O N S I D E R A N D O.
+MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
-Por lo anteriormente expuesto y con fundamento en los preceptos legales invocados y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
+Que la H. Asamblea Legislativa del Distrito Federal, V Legislatura, se ha servido dirigirme el siguiente:
 
-DECRETO GUBERNATIVO NÚMERO 134
+DECRETO
+
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- V LEGISLATURA)
+
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL V LEGISLATURA.
+
+D E C R E T A
+
+DECRETO POR EL QUE SE EXPIDE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL.
 
 ###### ARTÍCULO ÚNICO.
 
-Se expide el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato, en materia de préstamos hipotecarios, para quedar en los siguientes términos:
+Se expide la Ley de Desarrollo Agropecuario, Rural y Sustentable del Distrito Federal.
 
-REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRÉSTAMOS HIPOTECARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE FEBRERO DE 2018)</small>
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MEXICO
 
-### CAPÍTULO ÚNICO. DEL OBJETO
+### Capítulo I. De las disposiciones generales
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-El presente Reglamento tiene por objeto establecer los requisitos y regular el procedimiento para otorgar los préstamos hipotecarios que de conformidad con lo establecido en la Ley de Seguridad Social del Estado, el Instituto de Seguridad Social del Estado de Guanajuato, debe otorgar a los asegurados y pensionistas.
+###### Artículo 1º.
 
-El Instituto de Seguridad Social del Estado de Guanajuato, se identificará en lo subsiguiente mediante las siglas ISSEG.
+La presente Ley es de orden público e interés general y tiene por objeto propiciar la integralidad y sustentabilidad del desarrollo agropecuario y rural de la Ciudad de México.
 
-###### ARTÍCULO 2°.
+###### Artículo 2º.
 
-Lo no previsto por el presente Reglamento será resuelto por el Consejo Directivo del ISSEG.
+Para efectos de la presente Ley se entiende por:
 
-## TÍTULO SEGUNDO. GENERALIDADES DE LOS PRÉSTAMOS HIPOTECARIOS
+I. Campesinas y campesinos: Las personas, hombres y mujeres de la tierra que tienen una relación directa y especial con la tierra y la naturaleza a través de la producción de alimentos y otros productos agrícolas; que trabajan la tierra por sí mismos; dependen sobre todo del trabajo en familia y otras formas a pequeña escala de organización del trabajo; que están tradicionalmente integrados en sus comunidades locales y cuidan el entorno local y los sistemas agroecológicos. Puede aplicarse a cualquier persona que se ocupa de la agricultura, ganadería, trashumancia, acuacultura, agroforestería, artesanías relacionadas a la agricultura u otras ocupaciones similares. Incluye a personas indígenas que trabajan la tierra. También se aplica a familias de agricultores con poca tierra o sin tierra; familias no agrícolas en áreas rurales, con poca tierra o sin tierra, cuyos miembros se dedican a actividades como la acuacultura, artesanía para el mercado local o la proporción de servicios; y otras familias de transhumantes, campesinos que practican cultivos cambiantes, y personas con medios de subsistencia parecidos.
 
-### CAPÍTULO I. DE LAS GENERALIDADES
+II. Consejo Rural: El Consejo Rural de la Ciudad de México;
 
-###### ARTÍCULO 3°.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-Tendrán derecho a obtener los préstamos hipotecarios, aquellos asegurados que hayan cotizado más de un año al ISSEG y los pensionistas directos.
+III. Alcaldías: Los órgano (sic) político administrativos en las demarcaciones territoriales de la Ciudad de México;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+IV. Desarrollo Agropecuario y rural: El derecho de realizar actividades agropecuarias, forestales, acuícolas, artesanales, turísticas y demás de corte rural, con base en procesos productivos, comerciales, distribución y autoabasto, de manera individual y colectiva, que conduce al mejoramiento integral del bienestar social, educación, salud, vivienda y alimentación, y que promueve la equidad con justicia social, distribuye justamente el ingreso, propicia la participación plena de la sociedad en la toma de decisiones, implicando cambios del paradigma económico y asegurando la conservación de los recursos de los cuales depende la sociedad rural;
 
-###### ARTÍCULO 4°.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-Los préstamos hipotecarios, tendrán los destinos establecidos en el artículo 89 de la Ley.
+V. Ley: La Ley de Desarrollo Agropecuario, Rural y Sustentable de la Ciudad de México;
 
-Respecto de los bienes inmuebles objeto del préstamo hipotecario deberá constituirse hipoteca en primer y preferente lugar a favor del ISSEG como garantía de pago del préstamo otorgado.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-###### ARTÍCULO 5°.
+VI. Programa Rural: El Programa de Desarrollo Agropecuario y Rural de la Ciudad de México;
 
-Los préstamos hipotecarios podrán abarcar dos o más de los destinos establecidos en la Ley; en este supuesto, se formará un expediente único, debiendo integrarse con la documentación que corresponda a cada uno de ellos.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-###### ARTÍCULO 6°.
+VII. Reglamento: El Reglamento de la Ley de Desarrollo Agropecuario, Rural y Sustentable de la Ciudad de México;
 
-La documentación exhibida con la solicitud de cualesquiera de los préstamos hipotecarios, se deberá presentar en original o copia certificada; en caso de que se presuma algún documento alterado o falsificado, se cancelará el trámite pudiendo darse vista al Ministerio Público.
+VIII. Secretaría: La Secretaría de Desarrollo Rural y Equidad para las Comunidades.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO II. DE LOS MONTOS A OTORGAR
+IX. Pueblo originario: Los descendientes de las poblaciones asentadas en el territorio actual de la Ciudad de México desde antes de la colonización y del establecimiento de las fronteras actuales y que conservan sus propias instituciones sociales, económicas, culturales y políticas, sistemas normativos propios, tradición histórica, territorialidad o cosmovisión, o parte de ellas, y que afirman libre y voluntariamente su identidad colectiva como descendientes de las mismas.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO III. DE LA DOCUMENTACIÓN GENERAL
+###### Artículo 3º.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
+En el ámbito de competencia de la Ciudad de México, son sujetos de esta Ley los ejidos, las comunidades y sus integrantes; los pequeños propietarios; las organizaciones o asociaciones de carácter nacional, regional, local o comunitario de productores, comerciantes, agroindustriales y prestadores de servicios que inciden o se relacionan con el medio rural, incluso aquellas de carácter tradicional que se deriven de los sistemas normativos internos de los pueblos originarios y comunidades indígenas o que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, las y los campesinos y toda persona física o moral que de manera individual o colectiva, realicen actividades relacionadas con el medio rural de la Ciudad de México.
 
-###### ARTÍCULO 7°.
+### Capítulo II. De los derechos alimentarios y campesinos
 
-Los títulos con los que se pretenda acreditar la propiedad del inmueble a hipotecar, deberán garantizar las mejores condiciones de seguridad jurídica y económica, tanto para el solicitante como para el ISSEG, razón por la cual, es facultad del Consejo Directivo determinarla en cada caso.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+###### Artículo 4°.
 
-###### ARTÍCULO 8º.
+La implantación y aplicación de la presente Ley se hará respetando las garantías constitucionales, la Constitución Política de la Ciudad de México y las leyes que emanen de ella.
 
-El préstamo hipotecario deberá estar garantizado con un seguro en los términos del artículo 78 de la Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
-###### ARTÍCULO 8°.
+A. En la Ciudad de México se reconocen los siguientes derechos, ejercidos de manera individual o colectiva:
 
-El asegurado o pensionista, adquirirá con el ISSEG un autoseguro a cargo del propio asegurado o pensionista y tendrá por objeto garantizar la liquidación del adeudo a favor del ISSEG, para el caso de incapacidad total o muerte.
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2020)</small>
 
-###### ARTÍCULO 9°.
+I. Toda persona tiene derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad con alimentos inocuos, saludables, accesibles y asequibles y culturalmente aceptables que le permitan gozar del más alto nivel de desarrollo humano posible y la protejan contra el hambre, la malnutrición y la desnutrición.
 
-Sólo se autorizarán préstamos mancomunados en los siguientes casos.
+II. Derecho a la soberanía alimentaria: El derecho de toda persona humana de tener una alimentación que le conviene culturalmente, desde el punto de vista de la salud y de lo económico orientada a una alimentación adecuada;
 
-I.- Entre cónyuges o entre concubinos;
+III. Derecho a la seguridad alimentaria: El derecho de toda persona humana a que se le procure el abasto suficiente de alimentos y de productos básicos y estratégicos en el ejercicio de su derecho a la alimentación; y
 
-II.- Entre parientes por consanguinidad en primer grado en línea recta; y
+IV. Derecho a la educación alimentaria: El derecho de toda persona a recibir una educación alimentaria y nutricional adecuada que les permita tener mayor conocimiento sobre el adecuado consumo de alimentos en la prevención de enfermedades, así como en la generación de una cultura alimentaria, la preservación de la riqueza alimentaria y de las cocinas tradicionales, como parte de su patrimonio.
 
-III.- En segundo grado transversal, siempre y cuando se encuentren libres de matrimonio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+B. Las y los campesinos tienen derechos iguales; a disfrutar totalmente, como colectivo e individualmente, de todos los derechos humanos y libertades fundamentales, libres de cualquier tipo de discriminación y a participar en el diseño de políticas, en la toma de decisiones, la aplicación y monitoreo de cualquier proyecto, programa o política que afecte sus espacios rurales. El Gobierno de la Ciudad de México garantizará, particularmente, el ejercicio de los siguientes derechos para las y los campesinos:
 
-###### ARTÍCULO 10.
+El Gobierno del Distrito Federal garantizará, particularmente, el ejercicio de los siguientes derechos para las y los campesinos:
 
-Si el inmueble que se pretende dar en garantía hipotecaria se encuentra sujeto a copropiedad, él o los copropietarios deberán de expresar su voluntad para hipotecar la totalidad del inmueble, y deberán comparecer a la firma del instrumento público que para el efecto se emita, quienes adquirirán el carácter de deudor solidario.
+I. Para garantizar el derecho a la vida y a un nivel de vida digno para las y los campesinos se tomarán las siguientes medidas:
 
-###### ARTÍCULO 11.
+a) Salvaguardar su integridad física y a no ser acosados, desalojados, perseguidos, arrestados arbitrariamente y asesinados por defender sus derechos;
 
-En ningún caso, se autorizarán los préstamos hipotecarios que tengan por objeto compraventas de inmuebles entre cónyuges o concubinos.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+b) Defender a las mujeres campesinas contra la violencia doméstica física, sexual, verbal y psicológica. Las mujeres tienen derecho a controlar su propio cuerpo y a rechazar el uso de su cuerpo con fines mercantiles, así como a decidir el número de descendientes que desean tener y elegir los métodos anticonceptivos que decidan;
 
-###### ARTÍCULO 12.
+c) Acceder a una alimentación adecuada, saludable, nutritiva y accesible y a mantener sus culturas tradicionales alimentarias;
 
-En toda operación de compraventa realizada entre parientes civiles, consanguíneos o por afinidad, será necesaria la aplicación de una entrevista por parte de los abogados asignados a la Dirección Jurídica del ISSEG; en caso de que se presuma una simulación, se documentará tal situación y en su caso, se cancelará el trámite del préstamo hipotecario solicitado.
+d) Acceder al nivel más alto alcanzable de salud física y mental;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+e) Propiciar el uso y desarrollo de la medicina tradicional y rescate de la herbolaria;
 
-###### ARTÍCULO 13.
+f) Vivir una vida saludable que no esté afectada por la contaminación de los agroquímicos;
 
-En el caso de cónyuges casados bajo el régimen de sociedad conyugal o sociedad legal, será necesario que conste la voluntad por escrito de ambos de hipotecar en su totalidad el bien adquirido a favor del ISSEG, el cónyuge no asegurado, adquirirá el carácter de deudor solidario.
+g) Garantizar el pleno respeto de sus derechos sexuales y reproductivos;
 
-Tratándose de cónyuges sujetos al régimen de separación de bienes, el asegurado que pretenda hipotecar el inmueble propiedad de su consorte deberá contar con el consentimiento por escrito de éste y comparecer a la firma del instrumento público que para tal efecto se emita, quien adquirirá el carácter de deudor solidario.
+h) Acceder al agua potable, el transporte, la electricidad, la comunicación y tiempo libre, educación y a la formación; ingresos adecuados para satisfacer sus propias necesidades básicas y las de sus familias. a una vivienda digna y a vestirse adecuadamente; y
 
-###### ARTÍCULO 14.
+i) Consumir su propia producción agrícola y a utilizarla para satisfacer las necesidades básicas de sus familias y el derecho a distribuir su producción agrícola a otras personas.
 
-No se admitirán garantías hipotecarias otorgadas por terceros, en sustitución del inmueble adquirido mediante el préstamo otorgado por el ISSEG, salvo que se otorgue entre cónyuges o concubinos.
+II. En el ejercicio de sus derechos relacionados con la tierra y al territorio, las y los campesinos tienen derecho a:
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+a) Trabajar su propia tierra y a obtener productos agrícolas, criar ganado, a cazar, a recolectar y a pescar en sus territorios;
 
-### CAPÍTULO I. DEL PRÉSTAMO PARA ADQUISICIÓN DE CASA-HABITACIÓN O ADQUISICIÓN DE TERRENO PARA CONSTRUCCIÓN DE CASA-HABITACIÓN
+b) Trabajar y a disponer de las tierras no productivas de las que dependen para su subsistencia;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
+c) Acceder al agua para el riego así como a una producción agrícola dentro de sistemas de producción sustentables controlados por las estructuras agrarias;
 
-###### ARTÍCULO 15.
+d) Gestionar los recursos hídricos para sus tierras;
 
-El ISSEG además de los requisitos para obtener préstamos hipotecarios, podrá solicitar documentación adicional otros documentos. Lo anterior, derivado de los supuestos que se deduzcan del análisis y condiciones especiales de cada tipo de préstamo que concurran.
+e) Recibir ayudas para instalaciones, tecnología y fondos, para gestionar sus recursos hídricos;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+f) Gestionar, conservar y beneficiarse de los bosques;
 
-### CAPÍTULO II
+g) Rechazar cualquier forma de adquisición y conversión de tierras con fines económicos;
 
-DEL PRÉSTAMO PARA CONSTRUCCIÓN DE CASA HABITACIÓN EN TERRENO QUE YA SE TIENE EN PROPIEDAD Y DEL PRÉSTAMO PARA EFECTUAR AMPLIACIONES, REMODELACIONES O REPARACIONES A CASA HABITACIÓN
+h) Una tenencia de tierras segura y a no ser desalojados por la fuerza de sus tierras y territorios;
 
-###### ARTÍCULO 16.
+i) A tierras agrícolas regables para asegurar la soberanía alimentaria para una población creciente; y
 
-La Dirección Jurídica del ISSEG, deberá emitir mediante acuerdo fundado y motivado, dictamen sobre la procedencia del otorgamiento del préstamo o convenio modificatorio, o en su caso, la improcedencia del mismo, cuando derivado de la revisión de la solicitud se desprenda que ésta no se apega a los lineamientos establecidos en la Ley de Seguridad Social del Estado de Guanajuato, el presente Reglamento y demás disposiciones de carácter general que emita el Consejo Directivo.
+j) Mantener y fortalecer sus diferentes instituciones políticas, legales, económicas, sociales y culturales, al tiempo que conserven el derecho a participar plenamente, si así lo deciden, dentro de las esferas y la vida política, económica, social y cultural.
 
-Este dictamen será considerado por el Director General, previo al otorgamiento del préstamo hipotecario, quien deberá someter al Consejo Directivo la aprobación de dicha prestación.
+III. Para el ejercicio de la agricultura tradicional, las y los campesinos tienen derecho a:
 
-###### ARTÍCULO 17.
+a) Determinar las variedades de semillas que quieren plantar;
 
-El ISSEG será quien determine el monto del préstamo con garantía hipotecaria de conformidad con lo establecido en el artículo 90 de la Ley.
+b) Rechazar las variedades de plantas que consideren peligrosas económica, ecológica y culturalmente;
 
-###### ARTÍCULO 18.
+c) Rechazar el modelo industrial de agricultura;
 
-Las deducciones quincenales por concepto del pago del préstamo hipotecario, serán calculadas sobre el sueldo base de cotización en el caso de los asegurados; tratándose de los pensionistas, las deducciones serán calculadas sobre el seguro base.
+d) Conservar y desarrollar su conocimiento local sobre agricultura, pesca y cría de ganado;
 
-El porcentaje máximo de las deducciones será el que determine el Consejo Directivo de conformidad con el artículo 91 de la Ley de Seguridad Social del Estado de Guanajuato.
+e) Uso de instalaciones agrícolas, de pesca y de cría de ganado;
 
-###### ARTÍCULO 19.
+f) Escoger sus propios productos, variedades, cantidades, calidades y modos de prácticas de la agricultura, la pesca o la cría de ganado, individualmente o colectivamente;
 
-Se establece como modalidad de pago, la de pagos crecientes, cuya deducción aumentará de manera directamente proporcional a los incrementos del sueldo base de cotización o de seguro base dentro de los límites del artículo 77 de la Ley de Seguridad Social del Estado de Guanajuato.
+g) Utilizar sus propias tecnologías o la tecnología que escojan guiados por el principio de proteger la salud humana y la conservación del medio ambiente;
 
-###### ARTÍCULO 20.
+h) Cultivar y desarrollar sus intercambios, dar o vender sus semillas;
 
-Los requisitos generales al préstamo hipotecario son los siguientes:
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+i) Fomentar la producción de pesticidas y plaguicidas orgánicos y naturales para la agricultura tradicional.
 
-I.- Llenar la solicitud en el formato preestablecido, en la cual deberá de constar la firma autógrafa del solicitante;
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
 
-II.- Acompañar último talón de pago;
+j) Utilizar pesticidas y plaguicidas orgánicos y naturales que beneficien sus cultivos, que garanticen el derecho a una alimentación sana.
 
-III.- En el supuesto de ser casado el solicitante, deberá acompañar el acta respectiva, si estuviere viviendo en concubinato, se acreditará mediante información rendida ante la autoridad judicial competente; y
+IV. Para la producción agrícola las y los campesinos tienen derecho a:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+a) Obtener fondos para el desarrollo de la agricultura;
 
-IV.- Efectuar un pago por concepto de revisión técnica del expediente en los préstamos previstos en los Capítulos I y IV del Título Tercero de este Reglamento.
+b) Tener acceso a créditos para su actividad agrícola;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+c) Disponer de los materiales y las herramientas para la agricultura; y
 
-La Dirección de Prestaciones del ISSEG deberá validar la información y documentación contenida en la integración de los expedientes individuales, de conformidad con lo estipulado en el artículo 39 fracción V del Reglamento Interior del ISSEG.
+d) Participar activamente en la planificación, formulación y decisión del presupuesto para la agricultura nacional y local.
 
-## TÍTULO TERCERO. DESTINOS DEL PRÉSTAMO HIPOTECARIO
+V. Para la información y a la tecnología agrícola las y los campesinos tienen derecho a:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+a) Disponer de información imparcial y equilibrada sobre el crédito, el mercado, las políticas, los precios y la tecnología relacionados con sus propias necesidades;
 
-###### ARTÍCULO 21.
+b) Obtener información sobre políticas relacionadas con su ámbito;
 
-Para el otorgamiento del préstamo destinado para la adquisición de casa-habitación o adquisición de terreno para construcción de casa-habitación, se requiere satisfacer los siguientes requisitos:
+c) Obtener asistencia técnica, herramientas de producción y otras tecnologías apropiadas para aumentar su productividad, respetando sus valores sociales, culturales y éticos;
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+d) Información completa e imparcial sobre bienes y servicios, para decidir qué y cómo quieren producir y consumir; y
 
-II.- Certificado de libertad de Gravámenes del inmueble a adquirir, expedido por el Registro Público de la Propiedad;
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-III.- Escritura de propiedad del inmueble a adquirir,
+e) Obtener información adecuada sobre la preservación de recursos fitogenéticos.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+VI. En el ejercicio de sus libertades para determinar el precio y el mercado para la producción agrícola, las y los campesinos tienen derechos a:
 
-IV.- Avalúo fiscal con referencia al valor comercial, elaborado por perito autorizado por el ISSEG, el cual deberá contar con la validación de la autoridad catastral;
+a) Priorizar su producción agrícola para las necesidades de sus familias y su comunidad;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+b) Almacenar su producción para asegurar la satisfacción de sus necesidades básicas y las de sus familias;
 
-V.- Alineamiento y número oficial del inmueble, expedido por la autoridad municipal;
+c) Promocionar mercados locales tradicionales;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+d) Obtener beneficios económicos de su producción;
 
-VI.- Recibo o constancia en el que se acredite estar al corriente en el pago del Impuesto Predial, en el bimestre posterior correspondiente al ingreso del expediente al ISSEG;
+e) Determinar los precios, individual o colectivamente;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+f) Una retribución justa por su trabajo, para satisfacer sus necesidades básicas y las de sus familias;
 
-VII.- Contrato de promesa de venta con vigencia de cuatro meses posteriores a la fecha de presentación de la solicitud, el cual deberá contener el compromiso por parte del vendedor para el pago del Impuesto sobre la Renta y del comprador para el pago del Impuesto sobre Traslación de Dominio y Derechos. Si el precio de la operación en el contrato de la promesa de venta es superior al importe del préstamo hipotecario a que se tiene derecho, deberá señalarse que la diferencia excedente se cubrirá a la firma de las escrituras definitivas; y
+g) Obtener un precio justo por su producción;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+h) Un sistema justo de evaluación de la calidad de su producto; y
 
-VIII.- Cuando se pretenda adquirir solamente una parte de algún inmueble, se requerirá del permiso de división o su equivalente expedido por la autoridad municipal competente.
+i) Desarrollar sistemas de comercialización comunitarios con el fin de garantizar la soberanía alimentaria.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+VII. Para la protección de valores en la agricultura, las y los campesinos tienen derecho a:
 
-Para efectos del préstamo solicitado, el documento señalado en la fracción II deberá tener una vigencia de un mes, y los señalados en las fracciones IV y V de seis meses.
+a) El reconocimiento y protección de su cultura y de los valores de la agricultura local;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+b) Desarrollar y preservar el conocimiento agrícola local;
 
-###### ARTÍCULO 22.
+c) Rechazar las intervenciones que pueden destruir los valores de la agricultura local; y
 
-Para el otorgamiento del préstamo destinado a la construcción de casa habitación en terreno que ya se tiene, y del préstamo para ampliar, remodelar o reparar la casa-habitación del asegurado o pensionista, se requiere satisfacer los siguientes requisitos:
+d) A que se respete su espiritualidad como individuos y como colectivo.
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+VIII. Para el ejercicio de la protección y conservación de la biodiversidad, las y los campesinos tienen derecho a:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+a) Plantar, desarrollar y conservar la diversidad biológica, individual o colectivamente;
 
-II.- Certificado de libertad de gravamen, expedido por el Registro Público de la Propiedad;
+b) Rechazar las patentes que amenazan la diversidad biológica, incluyendo las de plantas, alimentos y medicinas;
 
-III.- Escritura de propiedad;
+c) Rechazar los derechos de propiedad intelectual de bienes, servicios, recursos y conocimientos que pertenecen, son mantenidos, descubiertos, desarrollados y/o producidos por la comunidad local. No pueden ser forzados a implantar estos derechos de propiedad intelectual.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+d) Mantener, intercambiar y preservar la diversidad genética y biológica, como la riqueza de recursos de la comunidad local y de las comunidades indígenas; y
 
-IV.- Alineamiento y número oficial, expedido por la autoridad municipal;
+e) Rechazar los mecanismos de certificación impuestos por las multinacionales. Se deben promover y proteger esquemas de garantía locales dirigidos por organizaciones campesinas con el apoyo del gobierno.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+IX. En el ejercicio del disfrute a un ambiente adecuado, las y los campesinos tienen derecho a:
 
-V.- Permiso de construcción vigente, expedido por la autoridad municipal;
+a) Preservar el ambiente de acuerdo con su saber y sus conocimientos;
 
-VI.- Planos arquitectónicos del proyecto, autorizados, firmados y sellados por la Autoridad Municipal; y
+b) Rechazar cualquier forma de explotación que causen daños ambientales;
 
-VII.- Presupuesto actualizado por conceptos desglosados sobre la base de precios unitarios, que incluyan material y mano de obra; firmado en todas sus hojas por el perito responsable de su elaboración.
+c) Convenir y reclamar compensaciones por los daños ambientales;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2020)</small>
 
-Cuando el inmueble se encuentre en garantía hipotecaria con el ISSEG, se deberá presentar además la solicitud de autorización para hipotecar en segundo lugar el inmueble referido.
+d) A ser indemnizados por la deuda ecológica y por el despojo histórico y actual de sus territorios
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
 
-Para efectos del préstamo solicitado, el documento señalado en la fracción II deberá tener una vigencia de un mes, y los señalados en la fracción IV de seis meses.
+e) Rechazar la utilización de pesticidas y plaguicidas que no se encuentren validados por la autoridad competente, a fin de proteger la flora, fauna y la salud humana.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
 
-###### ARTÍCULO 23.
+f) Utilizar pesticidas y plaguicidas de origen orgánico y natural para la agricultura de esta ciudad.
 
-Se entenderá por vivienda de interés social, aquella que reúna las características señaladas en la Ley de Vivienda para el Estado de Guanajuato.
+X. En el ejercicio de la libertad de asociación, opinión y expresión, las y los campesinos tienen derecho a:
 
-###### ARTÍCULO 24.
+a) La libertad de asociación con otros, y a expresar su opinión, de acuerdo con sus tradiciones y cultura, a través de demandas, peticiones y movilizaciones;
 
-Este préstamo se otorgará en aquellos casos en los que, al solicitarse un préstamo hipotecario con el ISSEG para la adquisición de vivienda, el precio de ésta sea menor del monto máximo del préstamo a que tenga derecho el solicitante. Esta diferencia se aplicará al pago de enganche y gastos de escrituración.
+b) Formar y participar en organizaciones independientes campesinas, sindicatos, cooperativas o cualquier otra organización o asociación para la protección de sus intereses;
 
-En ningún caso, el monto global por el préstamo otorgado para adquisición de vivienda, enganche y gastos de escrituración, excederá del monto máximo a que tenga derecho el solicitante.
+c) Expresarse en su lenguaje local y habitual, en su cultura, religión, idioma literario y arte local;
 
-###### ARTÍCULO 25.
+d) A no ser criminalizados por sus demandas y por sus luchas; y
 
-Para hacer efectivo este préstamo, el interesado podrá solicitarlo al integrar su expediente para la adquisición de vivienda.
+e) Resistir contra la opresión y a recurrir a la acción pacífica directa para proteger sus derechos.
 
-###### ARTÍCULO 26.
+### Capítulo III. De la competencia
 
-Para el otorgamiento en la modalidad de Liberación de Gravámenes, se requiere satisfacer los siguientes requisitos:
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+###### Artículo 5º.
 
-II.- Certificado de existencia de gravamen del inmueble a liberar, expedido por el Registro Público de la Propiedad;
+El Gobierno de la Ciudad de México, a través de la Secretaría, es responsable de la aplicación de las disposiciones contenidas en la presente Ley, con la excepción de aquellas que de manera expresa estén facultadas al Jefe de Gobierno o, en su caso, a otras entidades y dependencias de la administración pública de la Ciudad de México.
 
-III.- Escritura de propiedad y de hipoteca;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+###### Artículo 6º.
 
-IV.- Avalúo comercial elaborado por perito autorizado por el ISSEG;
+Son atribuciones de la Secretaría el despacho de las materias relativas al desarrollo y regulación de las actividades agrícolas, forestales y del sector agropecuario establecidas en la ley aplicable, además de las siguientes:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
 
-V.- Constancia actualizada expedida por el acreedor hipotecario, indicando el adeudo materia de gravamen. Si el adeudo de la constancia es superior al importe del préstamo a que se tiene derecho, deberá presentar documento que acredite el pago de la diferencia excedente; y
+I. Formular, conducir, coordinar, ejecutar y evaluar las políticas y programas en materia de desarrollo rural sustentable del sector agropecuario, así como las que le correspondan en materia de fomento, consumo y cultura agroalimentaria, en concordancia con el Programa General de Ordenamiento Ecológico y el Programa General de Desarrollo Urbano;
 
-VI.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+II. Declarar espacios para la conservación rural;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+III. Promover la agricultura orgánica y crear mecanismos para la certificación de sus productos;
 
-El documento señalado en la fracción II, para el ISSEG tendrá una vigencia de un mes y el señalado en la fracción IV, de seis meses.
+IV. Apoyar acciones y proyectos para la conservación de suelo y agua para la producción primaria, así como los de carácter agroalimentario;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+V. Promover la capacitación y asistencia técnica;
 
-## TÍTULO CUARTO. DEL CONVENIO MODIFICATORIO DEL PRÉSTAMO HIPOTECARIO Y DEL PRÉSTAMO HIPOTECARIO SUBSECUENTE
+VI. Apoyar en la gestión social a la población rural;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+VII. Fomentar la organización rural y creación de cooperativas sociales;
 
-###### ARTÍCULO 27.
+VIII. Crear un sistema de información, estadística y geografía en el ámbito social, económico y cultural del sector agropecuario y rural;
 
-Para la procedencia del convenio modificatorio en términos del artículo 95 de la Ley, se requiere satisfacer los siguientes requisitos:
+IX. Promover la cultura alimentaria y artesanal, así como la vinculación comercial de las y los campesinos;
 
-I.- Llenar la solicitud en el formato preestablecido, en la cual deberá de constar la firma autógrafa del solicitante;
+X. Propiciar el desarrollo de proyectos de agricultura en la zona urbana;
 
-II.- Certificado de gravamen del inmueble dado en garantía, en el cual conste como único gravamen el préstamo original otorgado por el ISSEG y que se pretende modificar, expedido por el Registro Público de la Propiedad; y
+XI. Fomentar y apoyar proyectos de traspatios familiares sustentables;
 
-III.- Avalúo comercial, elaborado por peritos autorizados por el ISSEG.
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
 
-El documento señalado en la fracción II, para el ISSEG tendrá una vigencia de un mes; el establecido en la fracción III de seis meses.
+XII. Recuperar espacios rurales ociosos para el desarrollo sustentable de las actividades agropecuarias y rurales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MAYO DE 2009)</small>
+XIII. Fomentar y apoyar proyectos productivos para la mujer rural y coordinarse con la Secretaría de Gobierno para el impulso de la parcela de la mujer;
 
-###### ARTÍCULO 28.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-Para el otorgamiento del préstamo hipotecario subsecuente, se requiere presentar la documentación general establecida en el Capítulo de la modalidad o modalidades de que se trate.
+XIV. Garantizar los derechos colectivos de los pueblos indígenas y originarios establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política de la Ciudad de México, en el ámbito de competencia de la Ciudad de México, relacionados con el desarrollo agropecuario y rural;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+XV. Conservar y aprovechar sustentablemente los cultivos nativos y la herbolaria, particularmente el maíz, amaranto, nopal y plantas medicinales y aromáticas;
 
-ARTÍCULO 28 A.- El monto del préstamo de amortización, será el establecido en el artículo 17 de este reglamento
+XVI. Fomentar la producción de hortalizas, la fruticultura y floricultura;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+XVII. Conservar la zona productiva chinampera de la Ciudad de México y coordinarse con otras dependencias para su preservación integral;
 
-ARTÍCULO 28 B.- El plazo máximo de amortización para este préstamo, será el establecido en el artículo 18 segundo párrafo de éste reglamento.
+XVIII. Promover las marcas colectivas de los productos agropecuarios, alimentarios y artesanales;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+XIX. Conducir la política concurrente en materia agropecuaria y rural, así como coadyuvar en las acciones para la capacitación, actividades de soporte, la hidroagricultura, las sanidades vegetales y animales, así como las contingencias climatológicas que afecten el campo de la Ciudad de México;
 
-ARTÍCULO 28 C.- Las condiciones e intereses para el préstamo subsecuente, serán dictadas por el Consejo Directivo.
+XX. Conservar el conocimiento tradicional y los recursos fitogenéticos para la agricultura y la alimentación;
 
-###### ARTÍCULO 29.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-(DEROGADO Y REUBICADO, P.O. 15 DE MAYO DE 2009)
+XXI. Impedir el uso de todo producto genéticamente modificado que pueda causar daño a los ecosistemas, a la salud y a la sociedad; se favorecerá el desarrollo de la agricultura orgánica;
 
-## TÍTULO QUINTO. PROTOCOLIZACIÓN DEL PRÉSTAMO CON GARANTÍA HIPOTECARIA Y SU CANCELACIÓN
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2020)</small>
 
-###### ARTÍCULO 30.
+XXI BIS. Vigilar que el uso de todo pesticida y plaguicida químico no cause daño a los ecosistemas, a la agricultura, a la salud y a la sociedad; que desfavorece el desarrollo de la agricultura orgánica;
 
-Para proteger la economía de los asegurados, la protocolización de la garantía hipotecaria podrá realizarse ante los Notarios Públicos que el Director General autorice. El ISSEG determinará los aranceles que por concepto de honorarios habrán de ser cobrados por los notarios públicos a los asegurados y pensionistas.
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2020)</small>
 
-Corresponderá al acreditado, la elección del Notario Público, entre los autorizados por el ISSEG.
+XXI TER. Fomentar el conocimiento de pesticidas y plaguicidas de origen orgánico; a través del impulso y difusión de investigación científica en la materia, así como la información sobre los clasificados como dañinos por la autoridad competente, con el objetivo de preservar el ecosistema y proteger la salud humana.
 
-###### ARTÍCULO 31.
+XXII. Crear espacios y módulos para las buenas prácticas agrícolas y su desarrollo;
 
-Será responsabilidad del Notario Público cerciorarse que la protocolización se realice en las mejores condiciones de Seguridad Jurídica para el Asegurado y para el ISSEG.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-###### ARTÍCULO 32.
+XXIII. Coordinar las acciones que las alcaldías implanten en materia de desarrollo agropecuario y rural; y
 
-Una vez cubierta la totalidad de las amortizaciones quincenales por el acreditado, el ISSEG remitirá oficio de cancelación con el Notario Público designado por el acreditado, a efecto de cancelar el gravamen existente ante el Registro Público de la Propiedad.
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
 
-## TÍTULO SEXTO. INCONFORMIDADES Y RECURSO DE REVISIÓN
+XXIV. Promover y fomentar mecanismos e instrumentos de política pública mediante un sistema de agricultura sustentable, con prácticas agroecológicas amigables con el medio ambiente, para la preservación y conservación del recurso suelo;
 
-###### ARTÍCULO 33.
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
 
-En contra de las resoluciones definitivas que emita el ISSEG en torno a los préstamos hipotecarios, que afecten los intereses jurídicos de un asegurado o pensionista, procederá el recurso de revisión regulado en el artículo 121 de la Ley de Seguridad Social del Estado de Guanajuato y su reglamento respectivo.
+XXV. Promover y fomentar medidas de remediación de los recursos naturales productivos de los agroecosistemas degradados para restaurar y conservar su potencial productivo;
 
-T R A N S I TO R I O
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
 
-###### ARTÍCULO ÚNICO.
+XXVI. Instrumentar mecanismos para la producción agroecológica y sistemas de certificación de producción orgánica, que protejan los recursos productivos como son los suelos, el manto freático y la producción de (sic) agroalimentaria, mediante el uso de insumos biológicos, ecotecnias y energías alternativas; y
 
-El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+XXVI (SIC). Las demás que esta Ley y otros ordenamientos jurídicos le establezcan.
 
-Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Guanajuato, Capital, a los 25 veinticinco días del mes de septiembre del año 2002 dos mil dos.
+El Reglamento establecerá las especificidades para el cumplimiento de estas atribuciones, en aquellas materias que no estén suficientemente reguladas en esta ley.
 
-JUAN CARLOS ROMERO HICKS
+### Capítulo IV. De la Coordinación y Consulta
 
-EL SECRETARIO DE GOBIERNO
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-JUAN MANUEL OLIVA RAMÍREZ
+###### Artículo 7.
 
-EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
+La Secretaría podrá suscribir acuerdos de coordinación con otras dependencias y alcaldías para el mejor ejercicio de sus funciones, en los términos que establezca el Reglamento.
 
-JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+###### Artículo 8.
 
-P.O. 15 DE MAYO DE 2009.
+En el ámbito de la concurrencia con el gobierno federal la Secretaría se coordinará mediante acuerdos para la adecuada administración de los recursos presupuestales definidos por el Presupuesto de Egresos de la Federación, velando siempre por la consideración de las particularidades de la Ciudad de México en el desarrollo agropecuario y rural, en los término (sic) del Reglamento y demás disposiciones jurídicas aplicables.
 
-Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-Artículo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al contenido del presente Decreto Gubernativo.
+###### Artículo 9.
 
-### CAPÍTULO III. DEL PRÉSTAMO PARA EL PAGO DE ENGANCHE Y DE LOS GASTOS DE ESCRITURACIÓN CUANDO TENGA POR OBJETO LA ADQUISICIÓN DE VIVIENDA DE INTERÉS SOCIAL
+El Jefe de Gobierno de la Ciudad de México, en los términos establecidos en la ley aplicable, creará el Gabinete de Desarrollo Rural en el que participarán las Secretarías de Desarrollo Rural y Equidad para las Comunidades, quien lo coordinará; de Gobierno; del Medio Ambiente; de Desarrollo Económico; de Desarrollo Social; de Ciencia, Tecnología e Innovación y la Procuraduría Ambiental y del Ordenamiento Territorial.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO IV. DEL PRÉSTAMO PARA LIBERACIÓN DE GRAVÁMENES
+###### Artículo 10.
 
-### CAPÍTULO I. DEL CONVENIO MODIFICATORIO DEL PRÉSTAMO HIPOTECARIO
+La Secretaría contará con un Consejo Rural de la Ciudad de México como órgano consultivo que tendrá funciones de asesoría, evaluación y seguimiento en materia de política de desarrollo agropecuario y rural y podrá emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a lo que establezca el Reglamento.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+Cuando las dependencias, entidades y alcaldías deban resolver un asunto sobre el cual este Consejo hubiese emitido una opinión, las mismas deberá (sic) expresar las causas de aceptación o rechazo de dicha opinión.
 
-### CAPÍTULO II. DEL PRÉSTAMO HIPOTECARIO SUBSECUENTE
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE MAYO DE 2009)</small>
+###### Artículo 11.
 
-### CAPÍTULO PRIMERO. DE LOS NOTARIOS PÚBLICOS
+El Consejo Rural será presidido por el Jefe de Gobierno de la Ciudad de México, por conducto del Titular de la Secretaría y serán miembros permanentes del Consejo:
 
-### CAPÍTULO SEGUNDO. DE LA CANCELACIÓN
+I. Las y los representantes de núcleos agrarios en de (sic) la Ciudad de México que el Reglamento señale;
 
-### CAPÍTULO ÚNICO. DE LAS INCONFORMIDADES Y RECURSO DE REVISIÓN
+II. Las y los representantes de las alcaldías con ámbito rural;
+
+III. Las y los representantes debidamente acreditados de las organizaciones de productores, comercializadores, prestadores de servicio y demás organizaciones y agentes que se desenvuelvan o incidan en actividades, servicios y procesos del medio rural de la Ciudad de México, instituciones de educación e investigación y organismos no gubernamentales, así como los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, que el Reglamento señale.
+
+El Consejo Rural deberá ser representativo de la composición económica y social de la Ciudad de México.
+
+###### Artículo 12.
+
+El desempeño de estos cargos será honorífico, por lo que no habrá lugar a remuneración alguna para ninguno de sus miembros. Las y los miembros integrantes del Consejo podrán nombrar un suplente, inclusive la o el Presidente.
+
+En ausencia de la o el Titular de la Secretaría, la o el Secretario presidirá las reuniones.
+
+Para cumplir con sus funciones el Consejo Rural de la Ciudad de México podrá formar Comisiones de trabajo, ordinarias y especiales, en los temas sustantivos materia de la presente Ley, según el procedimiento e integración que estipule el Reglamento.
+
+El Reglamento establecerá las bases y lineamientos para la integración, operación y funcionamiento de este Consejo Rural.
+
+###### Artículo 13.
+
+El Consejo Rural conocerá y opinará sobre los asuntos que en materia concurrente desarrollen la Secretaría con la autoridad federal correspondiente.
+
+###### Artículo 14.
+
+Para la evaluación y asignación de recursos la Secretaría contará con los comités que considere necesarios en los términos que el reglamento y demás disposiciones jurídicas señalen.
+
+### Capítulo V. De la Política Agropecuaria y Rural
+
+###### Artículo 15.
+
+Para la formulación y conducción de la política agropecuaria y rural, así como para la expedición de los instrumentos de política previstos en esta Ley, se observarán los siguientes principios:
+
+I. La promoción del bienestar social y económico de los sujetos de la ley, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso y el mejoramiento de la calidad de vida;
+
+II. La corrección de disparidades del desarrollo rural a través de la atención diferenciada de las zonas de mayor rezago, mediante una acción integral que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+III. El impulso prioritario del desarrollo productivo-económico y social de las comunidades rurales de mayor marginación, enfatizando la reconversión productiva sustentable, para avanzar en el abatimiento del rezago que presentan algunas regiones de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. La contribución a la soberanía y seguridad alimentarias, mediante el impulso de la producción agropecuaria de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+V. El fomento de la conservación del suelo, del agua, de la biodiversidad, los recursos filogenéticos para la agricultura y la alimentación, y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+VI. La valoración de las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura en la Ciudad de México.
+
+VII. La garantía del ejercicio de los derechos de las y los campesinos establecidos en la presente Ley;
+
+VIII. La garantía del derecho de los pueblos indígenas y originarios al desarrollo agropecuario y rural; y de su participación en la utilización, administración y conservación de los recursos naturales existentes en sus tierras;
+
+IX. El impulso del desarrollo de las zonas más atrasadas y marginadas económica y socialmente tendrán carácter prioritario;
+
+X. Garantizar la participación de la (sic) mujeres del medio rural e indígena en la toma de decisiones en la comunidad entorno al control, protección y aprovechamiento sustentable de los recursos naturales;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+XI. La conservación de los cultivos nativos, la herbolaria y las principales actividades de producción agropecuaria, así como la explotación de materiales de construcción y ornato de la Ciudad de México, de acuerdo con las disposiciones en la presente ley y demás Leyes aplicables.
+
+XII. La transformación para el logro de la sustentabilidad del desarrollo rural deberá considerar la diversificación de las actividades productivas, propiciar el uso óptimo, la conservación y el mejoramiento de los recursos rurales;
+
+XIII. La promoción de la capitalización del sector rural mediante obras de infraestructura básica y productiva y de servicios a la producción así como a través de apoyos directos a los productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad;
+
+XIV. La promoción de la eficiencia económica de las unidades de producción y del sector rural en su conjunto;
+
+XV. La implantación de medidas para que los productores y demás agentes de la sociedad rural cuenten con mejores condiciones para enfrentar los retos y aprovechar las oportunidades económicas y comerciales, derivados del desarrollo de los mercados y de los acuerdos y tratados en la materia suscritos por el Gobierno Federal;
+
+XVI. El incremento, diversificación, reconversión y mejoramiento de las actividades productivas en el medio rural, para fortalecer la economía rural, el auto-abasto, la ampliación y fortalecimiento del mercado interno y el desarrollo de mercados regionales, que mejoren el acceso de la población rural a la alimentación y los términos de intercambio comercial con el exterior;
+
+XVII. El aumento de la capacidad productiva para fortalecer la economía campesina, el autoabasto y el desarrollo de mercados regionales que mejoren el acceso de la población rural a la alimentación y los términos de intercambio;
+
+XVIII. El mejoramiento de la cantidad y la calidad de los servicios a la población; y
+
+XIX. La expansión, modernización y tecnificación de la infraestructura Hidrológica y de tratamiento para el reuso de agua, así como al desarrollo de la electrificación y los caminos rurales.
+
+### Capítulo VI. De los Instrumentos de la Política Agropecuaria y Rural
+
+#### SECCIÓN I. De la Planificación
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 16.
+
+En la planificación del desarrollo de la Ciudad de México se deberá incorporar la política agropecuaria y rural que se establezca de conformidad con esta Ley y las demás disposiciones en la materia.
+
+En la planificación y realización de las acciones a cargo de las dependencias y entidades de la administración pública, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran a la Secretaría para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política agropecuaria y rural que establezca el Plan General de Desarrollo de la Ciudad de México y los programas correspondientes.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2017)</small>
+
+###### Artículo 17.
+
+La Secretaría promoverá la participación del Consejo Rural en la elaboración de los programas de desarrollo rural sustentable que tengan por objeto el desarrollo agropecuario y rural, según lo establecido en esta Ley, el Reglamento, la Ley Ambiental de Protección a la Tierra en el Distrito Federal y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
+
+Promoverá la valoración y estudio de pesticidas y plaguicidas de uso orgánico y natural, que se complementen con los programas de desarrollo rural sustentable para beneficio de desarrollo agropecuario y rural.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 18.
+
+Para la planificación del desarrollo agropecuario y rural la Secretaría formulará, ejecutará y evaluará el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México, mismo que cumplirá con los requisitos establecidos en la ley aplicable en materia de programas institucionales.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Este programa se integrará y publicará en la Gaceta Oficial en un período máximo de seis meses después de la expedición del Plan General de Desarrollo de la Ciudad de México, para lo cual el Ejecutivo establecerá las previsiones presupuestarias necesarias para su instrumentación.
+
+Dicho programa deberá incluir las acciones relacionadas con la concurrencia que el gobierno estatal haya concertado con el gobierno federal y otras entidades federativas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 19.
+
+Las alcaldías con actividad rural formularán sus programas rurales considerando las líneas de política y actividades programáticas que el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México establezca, así como las particularidades dentro de su demarcación territorial. También podrán elaborar programas parciales para orientar la política de las alcaldías sobre una materia en específico que por su naturaleza lo amerite.
+
+El Consejo Rural emitirá las opiniones que considere para que puedan tomarse en cuenta en la formulación de los programas a que se refiere este artículo.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 20.
+
+La Secretaría podrá establecer programas de apoyos, ayudas y subsidios para atender a la población rural, en los términos que para tal efecto establezca el Reglamento de la presente Ley, derivados de las disposiciones que este ordenamiento regula, sin menoscabo de aquellos que se establezcan en cumplimiento de la legislación en materia presupuestal y de desarrollo social aplicable en la Ciudad de México.
+
+###### Artículo 21.
+
+La Secretaría podrá formular programas emergentes cuando ocurran contingencias que afecten al desarrollo agropecuario y rural en las materias que esta ley señala que los justifiquen, en los términos establecidos en el reglamento de esta Ley.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 22.
+
+La Secretaría, con la participación que corresponda del Consejo Rural, deberá elaborar y publicar un informe bianual sobre la situación que guarda el desarrollo agropecuario y rural de la Ciudad de México, que integre tanto la información interdependencial sobre la materia de la administración central como el de las alcaldías, para lo cual las dependencias, entidades y los órganos político administrativos deberán entregar a la Secretaría la información que le solicite.
+
+#### Sección II. Del suelo rural
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 23.
+
+El suelo rural es el espacio dentro del territorio de la Ciudad de México, destinado a la producción agropecuaria, forestal, acuacultura y agroindustrial tales como las señaladas en la fracción XI del artículo 15 de esta ley. La categoría de suelo rural deberá incorporarse progresivamente en los programas de desarrollo urbano y ecológico, en los casos que sea procedente.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 24.
+
+Las Secretarías de Desarrollo Urbano y Vivienda y del Medio Ambiente podrán solicitar la colaboración de la Secretaría, con opinión de las alcaldías, en la planificación, formulación, evaluación y seguimiento de los programas de ordenación territorial en materias relacionadas al suelo rural, así como con su participación en los consejos, comités e instrumentos análogos que se conformen para tal fin.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 25.
+
+Las y los alcaldes de la Ciudad de México podrán consultar a la Secretaría cuando se trate del suelo rural, en la elaboración de sus proyectos de Programa General de Ordenamiento Territorial de cada demarcación.
+
+#### Sección III. De la educación, investigación y capacitación
+
+###### Artículo 26.
+
+Las autoridades competentes promoverán la incorporación de contenidos de desarrollo agropecuario y rural, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+
+Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia rural y la socialización de proyectos de desarrollo agropecuario y rural.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+La Secretaría de Ciencia, Tecnología e Innovación de la Ciudad de México, en coordinación con la Secretaría, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen la formación de especialistas en la materia de desarrollo agropecuario y rural.
+
+###### Artículo 27.
+
+La Secretaría promoverá el desarrollo de la capacitación y adiestramiento en materia de desarrollo agropecuario y rural.
+
+###### Artículo 28.
+
+La Secretaría, en coordinación con las autoridades competentes, fomentará investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos en las materias de esta Ley. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+
+#### Sección IV. De los apoyos económicos
+
+###### Artículo 29.
+
+La Secretaría propondrá la asignación de estímulos fiscales a las acciones de producción, reconversión, industrialización e inversión que se realicen en el medio rural en el marco de las disposiciones de la presente Ley y la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 30.
+
+Para el fomento de las actividades agropecuarias y económicas del medio rural de la Ciudad de México, la Secretaría podrá proponer que se otorguen estímulos fiscales y apoyos a la inversión, reconversión productiva, producción, comercialización e industrialización.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 31.
+
+Los apoyos económicos que se otorguen se destinarán prioritariamente a las zonas, actividades, comunidades, productores y demás agentes más desfavorecidos económica y socialmente, así como para reducir las desigualdades que puedan existir al interior y entre cada uno de ellos, mismos que deberán inducir y premiar la productividad, competitividad y rentabilidad en el medio rural de la Ciudad de México.
+
+#### Sección V. De la Información Estadística y Geográfica
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 32.
+
+La Secretaría establecerá una estrategia de información estadística y geográfica para el desarrollo agropecuario y rural de la Ciudad de México, mediante el cual integrará información internacional, nacional, local y por demarcación territorial, relativa a los aspectos económicos, sociales y culturales relevantes de la actividad agropecuaria y el desarrollo rural, el desarrollo sociocultural en pueblos originarios, y el fomento de la interculturalidad; información de mercados en términos de oferta y demanda, disponibilidad de productos y calidades, expectativas de producción, precios, mercados de insumos y condiciones climatológicas prevalecientes y esperadas.
+
+###### Artículo 33.
+
+Esta estrategia integrará esfuerzos en la materia con la participación de:
+
+I. Las dependencias y entidades que generen información para el sector rural;
+
+II. Las instituciones de educación pública y privada y de investigación que desarrollan actividades en la materia;
+
+III. Las organizaciones y particulares dedicadas a la investigación agropecuaria;
+
+IV. Las que se (sic) desarrollen la interculturalidad de la Ciudad de México; y
+
+V. Los demás que considere necesarios para cumplir con sus propósitos.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 34.
+
+La información que se integre se considera de interés público y general, por lo que es responsabilidad y obligación de la Ciudad de México el difundirla a través de la Secretaría. Para ello integrará un paquete básico de información a los productores y demás agentes del sector rural, que les permita fortalecer su autonomía en la toma de decisiones. Copia de toda la información estará siempre a disposición de los Organismos de Acceso a la Información Pública.
+
+### Capítulo VII. De la Conservación Rural
+
+###### Artículo 35.
+
+Para fomentar la permanencia e incremento de los espacios para el cultivo y producción agropecuaria, así como para conservar geomorfositios y culturales para el desarrollo rural, la Secretaría, con la participación de los sujetos de esta Ley y la que corresponda del Consejo Rural, declarará espacios para la conservación rural con el objetivo de mantener los espacios rurales y el desarrollo de las manifestaciones culturales, bajo las siguientes categorías:
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+I. Espacios permanentes de producción sustentable en materia agropecuaria y rural sustentable;
+
+II. Vías pecuarias; y
+
+III. Geoparques rurales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 36.
+
+Los espacios permanentes de producción agropecuaria y rural son aquellos que por decisión del propietario de terrenos agropecuarios, o por inducción de la Secretaría, decida incluirlos en un régimen de conservación el (sic) espacio rural con la finalidad de mantener y, en su caso incrementar, las superficies destinadas a la producción, privilegiando los cultivos nativos y de mayor importancia de la Ciudad de México. Las vías pecuarias son las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero; asimismo podrán ser destinadas a otros usos compatibles y complementarios en términos acordes con su naturaleza y sus fines, dando prioridad al tránsito ganadero y otros usos rurales, e inspirándose en el desarrollo sustentable, el respeto al ambiente, al paisaje y al patrimonio.
+
+Los geoparques rurales son los espacios que incluyen un patrimonio geológico particular y una estrategia de desarrollo territorial sustentable apoyada por un programa para promover el desarrollo. Debe tener unos límites bien definidos y una superficie suficiente para un verdadero desarrollo económico del territorio, contener un cierto número de sitios geológicos de importancia particular en términos de calidad científica, rareza o valor estético o educativo y tiene un impacto directo sobre el territorio influyendo en las condiciones de vida de sus habitantes y actuando como una plataforma de cooperación de los actores locales y regionales de su territorio.
+
+###### Artículo 37.
+
+Los procedimientos de declaratorias de estos espacios se definirán en el Reglamento de esta Ley. Los espacios declarados como de conservación rural tendrán prioridad en la asignación de las ayudas y apoyos gubernamentales.
+
+En la recuperación de espacios rurales ocupados por asentamientos irregulares en tanto sea posible, se adoptarán estrategias para el desarrollo agropecuario y rural. Estos espacios serán zonas de producción de alimentos para los conglomerados humanos aledaños a los mismos mediante las disposiciones que establezca el Reglamento de esta Ley.
+
+### Capítulo VIII. De los Recursos Genéticos para la Agricultura y la Alimentación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)</small>
+
+###### Artículo 38.
+
+La Secretaría promoverá un enfoque integrado de la prospección, conservación, con aplicación del conocimiento tradicional para la utilización sustentable de los recursos fitogenéticos para la alimentación y la agricultura y en particular:
+
+I. Realizará estudios e inventarios de los recursos fitogenéticos para la alimentación y la agricultura, teniendo en cuenta la situación y el grado de variación de las poblaciones existentes, incluso los de uso potencial y, cuando sea viable, evaluará cualquier amenaza para ellos;
+
+II. Promoverá la recolección de recursos fitogenéticos para la alimentación y la agricultura y la información pertinente relativa sobre aquéllos que estén amenazados o sean de uso potencial;
+
+III. Promoverá o apoyará, cuando proceda, los esfuerzos de los agricultores y de las comunidades rurales encaminados a la ordenación y conservación en los espacios de producción de sus recursos fitogenéticos para la alimentación y la agricultura;
+
+IV. Promoverá la conservación in situ de plantas silvestres afines de las cultivadas y las plantas silvestres para la producción de alimentos, incluso en zonas protegidas, apoyando, entre otras cosas, los esfuerzos de las comunidades indígenas, originarias y rurales;
+
+V. Cooperará en la promoción de la organización de un sistema eficaz y sustentable de conservación ex situ, prestando la debida atención a la necesidad de una suficiente documentación, caracterización, regeneración y evaluación, y promoverá el perfeccionamiento y la transferencia de tecnologías apropiadas al efecto, con objeto de mejorar la utilización sostenible de los recursos fitogenéticos para la alimentación y la agricultura;
+
+VI. Supervisará el mantenimiento de la viabilidad, el grado de variación y la integridad genética de las colecciones de recursos fitogenéticos para la alimentación y la agricultura; y
+
+VII. Adoptar medidas para reducir al mínimo o, de ser posible, eliminar las amenazas para los recursos fitogenéticos para la alimentación y la agricultura.
+
+###### Artículo 39.
+
+Para promover el uso sustentable de los recursos fitogenéticos para la alimentación y la agricultura la Secretaría realizará las siguientes medidas:
+
+I. Prosecución de políticas agrícolas equitativas que promuevan, cuando proceda, el establecimiento y mantenimiento de diversos sistemas de cultivo que favorezcan la utilización sostenible de la diversidad agrobiológica y de otros recursos naturales;
+
+II. Fortalecimiento de la investigación que promueva y conserve la diversidad fitogenética, aumentando en la mayor medida posible la variación intraespecífica e interespecífica en beneficio de los agricultores, especialmente de los que generan y utilizan sus propias variedades y aplican principios ecológicos para mantener la fertilidad del suelo y luchar contra las enfermedades, las malas hierbas y las plagas;
+
+III. Fomento, cuando proceda, de las iniciativas en materia de fitomejoramiento que, con la participación de los agricultores fortalecen la capacidad para obtener variedades particularmente adaptadas a las condiciones sociales, económicas y ecológicas, en particular en las zonas marginales;
+
+IV. Ampliación de la base genética de los cultivos e incremento de la gama de diversidad genética a disposición de los agricultores;
+
+V. Fomento, cuando proceda, de un mayor uso de cultivos, variedades y especies infrautilizados, locales y adaptados a las condiciones locales; y
+
+VI. Apoyo, cuando proceda, a una utilización más amplia de la diversidad de las variedades y especies en la ordenación, conservación y utilización sustentable de los cultivos y creación de vínculos estrechos entre el fitomejoramiento y el desarrollo agrícola, con el fin de reducir la vulnerabilidad de los cultivos y la erosión genética y promover un aumento de la productividad de alimentos compatibles con el desarrollo sustentable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 40.
+
+La Secretaría podrá declarar Espacios de Origen y/o Diversidad Genética de cultivos nativos de la Ciudad de México, con el objetivo de proteger la soberanía alimentaria, con base en las especificaciones que el Reglamento establezca.
+
+Estos centros deberán ser protegidos de amenazas que surjan de la presión urbana y otros factores que pongan en peligro su viabilidad.
+
+La Secretaría enviará a la autoridad federal correspondiente las declaratorias que considere para su reconocimiento a escala nacional e internacional.
+
+### Capítulo IX. De la Herbolaria y la Agricultura Sustentable a Pequeña Escala
+
+###### Artículo 41.
+
+La Secretaría formulará programas de herbolaria y agricultura sustentable a pequeña escala en el cual se promueva la utilización de espacios disponibles para el desarrollo de la agricultura urbana y periurbana en el beneficio de las personas y grupos de estas, al igual que las organizaciones sociales y civiles sin fines de lucro.
+
+###### Artículo 42.
+
+Estos programas dispondrán de acciones para fomentar prácticas orgánicas de:
+
+I. La agricultura urbana;
+
+II. Los traspatios familiares sustentables;
+
+III. El cultivo, producción, rescate, conservación, transformación, implementación tecnológica e investigación de la herbolaria.
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+IV. Protección al suelo y al manto freático.
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
+
+V. La producción y utilización de biofertilizantes.
+
+Los proyectos que la Secretaría apoye en este sentido serán de carácter prioritario en el ejercicio de la población en su derecho a la alimentación.
+
+### Capítulo X. De la Reconversión Productiva
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 43.
+
+El Gobierno de la Ciudad de México en el ámbito de su competencia, a través de la Secretaría, estimulará la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentarias y al óptimo uso de las tierras mediante apoyos e inversiones complementarias, para aprovechar eficientemente los recursos naturales, tecnológicos y humanos, para lograr mayor productividad, competitividad y rentabilidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 44.
+
+El Gobierno de la Ciudad de México en el ámbito de su competencia y a través de la Secretaría, creará los instrumentos de política pública que planteen alternativas para las unidades de producción a las ramas del campo que vayan quedando rezagadas o excluidas del desarrollo.
+
+Para ello tendrán preferencia las actividades económicas que conserven las prácticas rurales sustentablemente.
+
+###### Artículo 45.
+
+Se promoverá la reconversión productiva en cultivos con bajo potencial agronómico, que dadas las circunstancias y estudios de factibilidad demuestren la no aptitud de siembra, en donde la Secretaría facilitará mediante esquemas acordes a la región la incorporación de nuevas alternativas productivas.
+
+Además, se incentivará la reconversión productiva en esquemas de agricultura concertada en donde la Secretaría creará instrumentos que coadyuven al fortalecimiento de estos esquemas.
+
+### Capítulo XI. De la Vinculación Comercial y Ferias Agropecuarias
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 46.
+
+El Gobierno de la Ciudad de México, promoverá y apoyará la comercialización agropecuaria y demás bienes y servicios que se realicen en el ámbito de las zonas rurales, mediante esquemas que permitan coordinar los esfuerzos de las diversas Dependencias y Entidades Públicas, de los agentes de la sociedad rural y sus organizaciones económicas, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria, de calidad e inocuidad, el carácter orgánico o sustentable de los productos y procesos productivos y elevando la competitividad de las cadenas productivas, así como impulsar la formación y consolidación de las empresas comercializadoras y de los mercados que a su vez permitan asegurar el abasto interno y aumentar la competitividad del sector, en concordancia con las normas y tratados internacionales aplicables en la materia.
+
+###### Artículo 47.
+
+Las acciones de comercialización atenderán los siguientes propósitos:
+
+I. Establecer e instrumentar reglas claras y equitativas para el intercambio de productos ofertados por la sociedad rural, en el mercado interior;
+
+II. Procurar una mayor articulación de la producción primaria con los procesos de comercialización y transformación, así como elevar la competitividad del sector rural y de las cadenas productivas del mismo;
+
+III. Favorecer la relación de intercambio de los agentes de la sociedad rural;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. Inducir la conformación de la estructura productiva y el sistema de comercialización que se requiere para garantizar el abasto alimentario, así como el suministro de materia prima a la industria de la Ciudad de México;
+
+V. Propiciar un mejor abasto de alimentos;
+
+VI. Evitar las prácticas especulativas, la concentración y el acaparamiento de los productos agropecuarios en perjuicio de los productores y consumidores;
+
+VII. Estimular el fortalecimiento de las empresas comercializadoras y de servicios de acopio y almacenamiento de los sectores social y privado, así como la adquisición y venta de productos ofertados por los agentes de la sociedad rural;
+
+VIII. Inducir la formación de mecanismos de reconocimiento, en el mercado, de los costos incrementales de la producción sustentable y los servicios ambientales; y
+
+IX. Fortalecer el mercado interno y la competitividad de la producción local.
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+X. Elaborar y mantener actualizado un padrón de organizaciones, asociaciones, sociedades y empresas para la comercialización de productos agrícolas de acuerdo con los lineamientos para la protección de datos personales de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XI. Crear una plataforma digital de consulta y una aplicación para dispositivos móviles denominada “PEQUEÑOS PRODUCTORES Ciudad de México” en las que esté disponible el padrón de organizaciones, asociaciones, sociedades y empresas para la comercialización de productos agrícolas con el fin de impulsar su vinculación comercial.
+
+###### Artículo 48.
+
+Para los efectos del artículo anterior, la Secretaría, con la opinión del Consejo Rural, elaborará programas orientados a la producción y comercialización de productos ofertados por los agentes de la sociedad rural.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 49.
+
+El Gobierno de la Ciudad de México, promoverá entre los agentes económicos la celebración de convenios y esquemas de producción por contrato mediante la organización de los productores y la canalización de apoyos.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 50.
+
+El Gobierno de la Ciudad de México, a través de la Secretaría, determinará el monto y forma de asignar a los productores los apoyos directos, que previamente hayan sido considerados en el programa y el presupuesto de Egresos de la Ciudad de México para el sector rural; los que, conjuntamente con los apoyos a la comercialización, buscarán la rentabilidad de las actividades agropecuarias y la permanente mejoría de la competitividad e ingreso de los productores.
+
+###### Artículo 51.
+
+La Secretaría en coordinación con el Gobierno Federal y la opinión del Consejo Rural, fomentará las exportaciones de los productos mediante la acreditación de la condición sanitaria, de calidad e inocuidad, su carácter orgánico o sustentable y la implementación de programas que estimulen y apoyen la producción y transformación de productos ofertados por los agentes de la sociedad rural para aprovechar las oportunidades regionales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 52.
+
+La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública de la Ciudad de México y las organizaciones de productores, realizarán las gestiones conducentes para el desarrollo agroindustrial, a través de las siguientes acciones:
+
+I. Impulso a la rehabilitación de la agroindustria inactiva o con operación deficiente, cuando estas comprueben su viabilidad;
+
+II. Fortalecer a las organizaciones que cuentan con empresas rurales en las diferentes etapas del proceso de producción;
+
+III. Procurar la concurrencia de recursos federales y locales, así como de los propios beneficiarios a fin de asegurar la corresponsabilidad entre estos y los productores;
+
+IV. Promover la modernización, incorporando tecnologías a fin de que las empresas existentes y las que se instalen, puedan competir en el mercado nacional e internacional preservando el ambiente; e
+
+V. Impulsar activamente al sector productivo, a fin de aprovechar las ventajas comparativas y los nichos de mercado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 53.
+
+El Gobierno de la Ciudad de México, promoverá la constitución, integración, consolidación y capitalización de las empresas comercializadoras de los sectores social y privado dedicadas al acopio y venta de productos ofertados por los agentes de la sociedad rural y en especial los procesos de acondicionamiento y transformación industrial que las mismas realicen.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Además, el Gobierno de la Ciudad de México apoyará la realización de estudios de mercado y la promoción de productos en los mercados nacional y extranjero.
+
+Asimismo, brindará a los productores rurales asistencia de asesoría y capacitación en operaciones de exportación, contratación, transportes y cobranza, entre otros aspectos.
+
+###### Artículo 54.
+
+La Secretaría promoverá la participación de productores rurales en ferias y exposiciones para la comercialización de sus productos mediante ayudas sociales.
+
+### Capítulo XII. De la Organización Productiva
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 55.
+
+El Gobierno de la Ciudad de México fomentará la integración de asociaciones y, organizaciones, agroindustrias y empresas rurales, y fortalecerá las existentes, a fin de impulsar el mejoramiento de los procesos de producción, industrialización y comercialización de los productos agropecuarios, acuícola y forestales. Lo anterior, dando prioridad a los sectores de población más débiles económica y socialmente y a sus organizaciones, a través de las siguientes acciones:
+
+I. Habilitación de las organizaciones de la sociedad rural para la capacitación y difusión de los programas oficiales y otros instrumentos de política para el campo;
+
+II. Capacitación de cuadros técnicos y directivos;
+
+III. Promoción de la organización productiva y social en todos los órdenes de la sociedad rural;
+
+IV. Constitución de figuras asociativas para la producción y desarrollo rural sustentable;
+
+V. Fortalecimiento institucional de las organizaciones productivas y sociales;
+
+VI. Fomento a la elevación de la capacidad de interlocución, gestión y negociación de las organizaciones del sector rural; y
+
+VII. Las que determine el Reglamento y demás disposiciones jurídicas aplicables.
+
+###### Artículo 56.
+
+Se reconocen como formas legales de organización económica y social, las reguladas por la Ley Agraria, las que se regulan en las leyes federales y de las demás entidades, cualquiera que sea su materia.
+
+###### Artículo 57.
+
+Las organizaciones económicas y sociales que realicen programas propios del sector rural para acceder a recursos públicos, deberán sujetarse a las reglas de operación de los programas locales y federales.
+
+###### Artículo 58.
+
+Los miembros de las estructuras agrarias en condiciones de pobreza, quienes están considerados como integrantes de organizaciones económicas y sociales para los efectos de esta Ley, serán sujetos de atención prioritaria de los programas de apoyo previstos en los términos de la misma.
+
+###### Artículo 59.
+
+La Secretaría integrará un registro de organizaciones y beneficiarios apoyados con recursos públicos y de los que a la fecha se encuentren en cartera vencida no justificada, a fin de evitar posteriores endeudamientos, mismo que se dará a conocer a las dependencias, entidades que realicen actividades del sector y al Consejo Rural.
+
+### Capítulo XIII. Del Bienestar Social
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 60.
+
+El Gobierno de la Ciudad de México, difundirá los programas, para coadyuvar a superar la pobreza, estimular la solidaridad social y el cooperativismo.
+
+Para los efectos del referido programa, de manera enunciativa y no restrictiva, de acuerdo con las disposiciones constitucionales y la legislación aplicable, se seguirán los lineamientos siguientes:
+
+I. Las Autoridades locales elaborarán con la periodicidad del caso, su catálogo de necesidades locales en materia de desarrollo rural, integrando, a través del Consejo Rural de la Ciudad de México, sus propuestas ante las instancias superiores de decisión;
+
+II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Jefe de Gobierno tendrán como prioridad atender a la población más necesitada, al mismo tiempo que organicen a los propios beneficiarios para la producción, preparación y distribución de dichos servicios;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+III. El Jefe de Gobierno a través del Instituto de Vivienda de la Ciudad de México, contribuirá en el fomento y financiamiento de acciones para reducir el déficit habitacional en el medio rural de la Ciudad de México, siempre y cuando se trate de personas pertenecientes al núcleo rural beneficiado;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. Sin menoscabo de la libertad individual, el Consejo Rural coadyuvará con las acciones de fomento de las políticas de población en el medio rural, que instrumenten las autoridades de salud y educativas de la Ciudad de México; y
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+V. Las comunidades rurales en general, y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, podrán participar en las Unidades de Protección Civil adscritas a las Alcaldías para impulsar los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 61.
+
+En el marco del Programa Rural, el Gobierno de la Ciudad de México promoverá apoyos con prioridad a los grupos vulnerables de las regiones de alta y muy alta marginación caracterizados por sus condiciones de pobreza extrema, en el medio rural; el ser sujeto de estos apoyos, no limita a los productores y demás agentes, al acceso a otros programas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 62.
+
+En cumplimiento a esta Ley, la atención prioritaria a los productores y comunidades de las Alcaldías de más alta marginación, tendrá un enfoque productivo orientado a la justicia social y equidad, y respetuoso de los valores culturales, usos y costumbres de los habitantes de dichas zonas.
+
+El Programa Rural, en el marco de las disposiciones de esta Ley, tomará en cuenta la pluriactividad distintiva, la economía campesina y de la composición de su ingreso, a fin de impulsar la diversificación de sus actividades, del empleo y la reducción de los costos de transacción que median entre los productores de dichas regiones y los mercados.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 63.
+
+La Secretaría, con base en indicadores y criterios que establezca para tal efecto, con la opinión del Consejo Rural, definirá las regiones de atención prioritaria para el desarrollo rural, que como tales serán objeto de consideración preferente de los programas de la administración pública de la Ciudad de México.
+
+###### Artículo 64.
+
+Los programas para la promoción de las zonas de atención prioritaria, dispondrán acciones e instrumentos orientados, entre otros, a los siguientes propósitos:
+
+I. Impulsar la productividad mediante el acceso a activos, tales como insumos, equipos, implementos y especies pecuarias y forestales;
+
+II. Otorgar apoyos que incrementen el patrimonio productivo de las familias y aumenten la eficiencia del trabajo humano;
+
+III. Incrementar el acceso a tecnologías productivas apropiadas a las condiciones agroecológicas y socioeconómicas de las unidades, a través del apoyo a la transferencia y adaptación tecnológica;
+
+IV. Contribuir al aumento de la productividad de los recursos disponibles, en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, las unidades productivas y la asistencia técnica integral;
+
+V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo en las zonas rurales;
+
+VI. Apoyar el establecimiento y desarrollo de empresas rurales para integrar procesos de industrialización, que permitan dar valor agregado a los productos;
+
+VII. Mejorar la articulación de la cadena producción-consumo y diversificar las fuentes de ingreso;
+
+VIII. Promover la diversificación económica con actividades y oportunidades no agropecuarias de carácter manufacturero y de servicios;
+
+IX. El fortalecimiento de las instituciones sociales rurales, fundamentalmente aquellas fincadas en la cooperación y la asociación con fines productivos;
+
+X. Acceder en términos de ley a los mercados financieros, de insumos, productos, laboral y de servicios;
+
+XI. Promover el aprovechamiento sustentable de los recursos naturales de uso colectivo;
+
+XII. Fomentar el abasto alimentario de carácter emergente; y
+
+XIII. Apoyar la producción y desarrollo de mercados para productos no tradicionales.
+
+###### Artículo 65.
+
+La Secretaría, en el ámbito de su competencia instrumentará programas sociales que atiendan y permitan el desarrollo integral de acuerdo a su contexto rural de niños y niñas; jóvenes, mujeres, jornaleros, adultos mayores y personas con discapacidad.
+
+Se ejecutarán de manera específica las políticas sociales enfocadas a la propia problemática antes señalada, que contengan programas que impulsen la dignidad, superación individual y colectiva, la productividad la provisión de la infraestructura y atención a la estacionalidad de los ingresos de las familias.
+
+###### Artículo 66.
+
+La Secretaría impulsará programas para fomentar la cultura alimentaria encaminados a salvaguardar la soberanía alimentaria y apoyar los esfuerzos para una alimentación sana para la población en general.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO XIV. DE LA ADMINISTRACIÓN DE RIESGOS Y DAÑOS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 67.
+
+El Gobierno de la Ciudad de México, a través de la Secretaría, impulsará, promoverá y garantizará entre los productores la contratación del seguro agrícola por contingencias climatológicas, sanitarias y biológicas, a efecto de proporcionarles mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
+
+Adicionalmente, la Secretaría fomentará la elaboración de esquemas de fondos de autoaseguro que permitan el uso del servicio de aseguramiento a los productores, en el marco de las leyes vigentes en la materia, para la cobertura de este tipo de contingencias.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 68.
+
+El Gobierno de la Ciudad de México, a través de la Secretaría y con base en su disponibilidad presupuestal, contemplará la parte proporcional que le corresponda por el pago de la prima al contrato de seguro agrícola de los productores, que emane de los siniestros por causa de contingencias climatológicas, sanitarias y biológicas, y según los lineamientos emitidos por la Secretaría de acuerdo con esta ley, así como de las leyes federales correspondientes y demás disposiciones sobre la materia.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga la Ley de Desarrollo Rural Sustentable del Distrito Federal del 31 de enero de 2008.
+
+TERCERO.- Cualquier trámite que se esté realizando antes de la entrada en vigor de la presente Ley, se seguirá tramitando y se resolverá de conformidad con los ordenamientos vigentes en la materia, al momento de su presentación.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal, expedirá dentro de dos meses siguiente a la entrada en vigor de esta Ley, el Reglamento que previene este ordenamiento y las demás disposiciones administrativas necesarias que no estén expresamente encomendadas a otros órganos o dependencias en esta Ley y en consecuencia se constituirá el Consejo Rural al que esta Ley se refiere.
+
+Asimismo establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días del mes de octubre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. RAFAEL MIGUEL MEDINA PEDERZINI, PRESIDENTE.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JORGE PALACIOS ARROYO, SECRETARIO.- FIRMAS.
+
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de diciembre del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 9 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Distrito Federal emitirá las reglas para la constitución y operación del seguro agrícola por contingencias climatológicas, sanitarias y biológicas, dentro de los 90 días naturales siguientes a la publicación de este decreto en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Diario Oficial de la Federación, para su mayor difusión.
+
+G.O. 9 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a través de sus áreas correspondientes, a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el 17 de septiembre de 2018, en términos del Artículo Primero Transitorio del Decreto por el que se expide la Constitución Política de la Ciudad de México, publicado en el Diario Oficial de la Federación y en la Gaceta Oficial de la Ciudad de México el 05 de febrero de 2017.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES X Y XI AL ARTÍCULO 47 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4 FRACCIÓN I DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V, AL ARTÍCULO 42 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO, EN MATERIA DE FOMENTO DE BIOFERTILIZANTES”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
