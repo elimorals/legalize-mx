@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2013-08-27"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -1097,6 +1097,30 @@ XII Por falsedad, cuando se alegue que el acta registrada no pasó; y
 
 XIII. Por enmienda, cuando se solicite variar alguna otra circunstancia esencial.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 108 Bis.
+
+Estará permitida la modificación, cambio de nombre o apellido por una sola ocasión, en los siguientes casos:
+
+I.- Cuando alguien hubiere sido conocido con nombre diferente al que aparece en su acta de nacimiento;
+
+II.- Cuando a una persona le cause afrenta, sea infamante o sea objeto de burla;
+
+III.- En los casos de desconocimiento o reconocimiento de la paternidad o maternidad y de la adopción;
+
+IV.- Cuando la homonimia le cause daños y perjuicios o problemas de carácter legal o administrativos, y
+
+V.- Cuando en el acta de nacimiento se cometió algún error en la atribución del nombre o apellido.
+
+Declarada la modificación, cambio de nombre o apellido en los casos que establece esta ley u ordenamientos complementarios, se asentará el mismo en el acta de nacimiento, subsistiendo en los libros del Registro Civil los datos de la persona que primeramente se haya asentado. La persona deberá notificar a todas las instituciones pertinentes la modificación, cambio de nombre o apellido, para que actualicen sus bases de datos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+
+###### Artículo 108 Bis 1.
+
+La modificación, cambio de nombre o apellido de una persona, no liberan ni eximen a ésta de responsabilidades, derechos y obligaciones que haya contraído o tenga actualmente con el nombre o apellido anterior.
+
 ###### Artículo 109.
 
 El trámite para la rectificación de actas se verificará de la forma siguiente:
@@ -1384,3 +1408,21 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Gu
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 29 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Doctor Salvador Rogelio Ortega Martínez, Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto a la Coordinación Técnica del Sistema Estatal del Registro Civil del Estado y a todos los Oficiales del Registro Civil en el Estado, para su conocimiento.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en la página web y las redes sociales de internet del Honorable Congreso del Estado y en dos diarios de mayor circulación en la entidad para su divulgación.
