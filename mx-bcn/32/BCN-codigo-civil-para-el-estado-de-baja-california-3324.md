@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-04-17"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2453,7 +2453,7 @@ Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matri
 
 ###### ARTICULO 359.
 
-La persona menor de dieciocho años de edad, no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre en el la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de esta sin la autorización judicial.
+La persona menor de dieciocho años de edad, no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre el la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de esta sin la autorización judicial.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -4047,7 +4047,7 @@ Durante la tutela no corre la prescripción entre el tutor y la persona menor de
 
 ###### ARTICULO 576.
 
-El tutor tiene obligación de admitir las donaciones simples legados y herencias que se dejen a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -4577,13 +4577,15 @@ El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los 
 
 ### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 671.
 
-Declarada la ausencia, si hubiere testamento público u ológrafo, la persona en cuyo poder se encuentre lo presentará al Juez, dentro de quince días contados desde la última publicación de que habla el artículo 669.
+Declarada la ausencia, si hubiere testamento público, la persona en cuyo poder se encuentre lo presentará al Juez, dentro de quince días contados desde la última publicación de que habla el artículo 669.
 
 ###### ARTICULO 672.
 
-El Juez, de oficio o a instancia de cualquiera que se crea interesado en el testamento ológrafo, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia, y con las demás solemnidades prescritas para la apertura de esta clase de testamento.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 673.
 
@@ -8009,37 +8011,21 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ###### ARTICULO 1386.
 
-El testamento, en cuánto a su forma, es ordinario o especial.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 1387.
 
-El ordinario puede ser:
+El testamento puede ser:
 
-I.- Público abierto;
+I.- Público abierto, y
 
-(REFORMADA, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
-
-II.- Público cerrado;
-
-(REFORMADA, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
-
-III.- Ológrafo, y
-
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2002)</small>
-
-IV.- Público simplificado.
+II.- Hecho en país extranjero.
 
 ###### ARTICULO 1388.
 
-El especial puede ser:
-
-I.- Privado;
-
-II.- Militar;
-
-III.- Marítimo, y
-
-IV.- Hecho en país extranjero.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1389.
 
@@ -8121,9 +8107,11 @@ Si alguno de los testigos no supiere escribir firmará otro de ellos por él, pe
 
 Si el testador no pudiere o no supiere escribir, el testamento se otorgará ante dos testigos y uno de ellos firmará a ruego del testador.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 1402.
 
-(DEROGADO, P.O. 28 DE JUNIO DE 2002)
+Los que fueren mudos o sordomudos, pero que puedan leer y escribir expresaran su voluntad al notario por escrito, en presencia de dos testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y una vez leído y aprobado el testamento por el testador firmarán la escritura el testador, los dos testigos y el notario como lo previene el artículo 1399.
 
 ###### ARTICULO 1403.
 
@@ -8153,373 +8141,347 @@ Las formalidades expresadas en este Capítulo se practicarán en un solo acto qu
 
 Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
-### CAPITULO III. TESTAMENTO PUBLICO CERRADO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPITULO III
 
 ###### ARTICULO 1408.
 
-El testamento público cerrado, puede ser escrito por el testador o por otra persona a su ruego, y en papel común.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1409.
 
-El testador debe rubricar todas las hojas y firmar al calce del testamento; pero si no supiere o no pudiere hacerlo, podrá rubricar y firmar por él otra persona a su ruego.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1410.
 
-En el caso del artículo que precede, la persona que haya rubricado y firmado por el testador, concurrirá con él a la presentación del pliego cerrado; en este acto, el testador declarará que aquella persona rubricó y firmó en su nombre y ésta firmará en la cubierta con los testigos y el notario.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1411.
 
-El papel en que esté escrito el testamento o el que le sirva de cubierta, deberá estar cerrado y sellado, o lo hará cerrar y sellar el testador en el acto del otorgamiento, y lo exhibirá al notario en presencia de tres testigos.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1412.
 
-El testador, al hacer la presentación, declarará que en aquel pliego está contenida su última voluntad.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1413.
 
-El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, que llevará las estampillas del timbre correspondientes, y deberá ser firmada por el testador, los testigos y el notario, quien, además, pondrá su sello.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1414.
 
-Si alguno de los testigos no supiere firmar, se llamará a otra persona que lo haga en su nombre y su presencia, de modo que siempre haya tres firmas.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1415.
 
-Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre y en su presencia, no debiendo hacerlo ninguno de los testigos.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1416.
 
-Sólo en los casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que no sepa hacerlo, ya por el testador. El notario hará constar expresamente esta circunstancia, bajo la pena de suspensión de oficio por tres años.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1417.
 
-Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1418.
 
-El sordomudo podrá hacer testamento cerrado con tal que esté todo el escrito, fechado y firmado de su propia mano, y que al presentarlo al notario ante cinco testigos, escriba a presencia de todos sobre la cubierta que en aquel pliego se contiene su última voluntad, y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 1411, 1413 y 1414.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1419.
 
-En el caso del artículo anterior, si el testador no puede firmar la cubierta, se observará lo dispuesto en los artículos 1415 y 1416, dando fe el notario de la elección que el testador haga de uno de los testigos para que firme por él.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1420.
 
-El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás solemnidades precisas para esta clase de testamentos.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1421.
 
-El testamento cerrado que carezca de alguna de las formalidades sobredichas, quedará sin efecto, y el notario será responsable en los términos del artículo 1407.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1422.
 
-Cerrado y autorizado el testamento, se entregará al testador, y el notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1423.
 
-Por la infracción del artículo anterior, no se anulará el testamento, pero el notario incurrirá en la pena de suspensión por seis meses.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1424.
 
-El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en el archivo judicial.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1425.
 
-El testador que quiera depositar su testamento en el archivo, se presentará con él ante el encargado de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1426.
 
-Pueden hacerse por procurador la presentación y depósito de que habla el artículo que precede, y en este caso, el poder quedará unido al testamento.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1427.
 
-El testador puede retirar, cuando le parezca, su testamento; pero la devolución se hará con las mismas solemnidades que la entrega.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1428.
 
-El poder para la entrega y para la extracción del testamento, debe otorgarse en escritura pública, y esta circunstancia se hará constar en la nota respectiva.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1429.
 
-Luego que el Juez reciba un testamento cerrado, hará comparecer al notario y a los testigos que concurrieron a su otorgamiento.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1430.
 
-El testamento cerrado no podrá ser abierto sino después de que el notario y los testigos instrumentales hayan reconocido ante el Juez sus firmas, y la del testador o la de la persona que por éste hubiere firmado, y hayan declarado si en su concepto está cerrado y sellado como lo estaba en el acto de la entrega.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1431.
 
-Si no pudieren comparecer todos los testigos por muerte, enfermedad o ausencia, bastará el reconocimiento de la mayor parte y el del notario.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1432.
 
-Si por iguales causas no pudieren comparecer el notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información, como también la legitimidad de las firmas y que en la fecha que lleva el testamento se encontraban aquellos en el lugar en que éste se otorgó.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1433.
 
-En todo caso, los que comparecieren reconocerán sus firmas.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1434.
 
-Cumplido lo prescrito en los cinco artículos anteriores, el Juez decretará la publicación y protocolización del testamento.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1435.
 
-El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1436.
 
-Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1395 y 1396, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPITULO IV
 
 ###### ARTICULO 1437.
 
-Se llama testamento ológrafo al escrito de puño y letra del testador.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1438.
 
-Este testamento sólo podrá ser otorgado por las personas mayores de edad, y para que sea válido, deberá estar totalmente escrito por el testador y firmado por él, con expresión del día, mes y año en que se otorgue.
-
-Los extranjeros podrán otorgar testamento ológrafo en su propio idioma.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1439.
 
-Si contuviere palabras tachadas, enmendadas o entre renglones, las salvará el testador bajo su firma.
-
-La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1440.
 
-El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarios para evitar violaciones.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1441.
 
-El depósito en el Registro Público se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1442.
 
-En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "recibí el pliego cerrado que el señor... afirma contiene original su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1443.
 
-Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquel se encontrare, para cumplir las formalidades del depósito.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1444.
 
-Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al Juez competente.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1445.
 
-En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1446.
 
-El Juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1447.
 
-El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al Juez competente, quien pedirá al encargado de la Oficina del Registro en que se encuentre el testamento, que se lo remita.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1448.
 
-Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1438 y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1449.
 
-Sólo cuando el original depositado haya sido destruído o robado, se tendrá como formal testamento el duplicado, procediéndose para su apertura como se dispone en el artículo que precede.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1450.
 
-El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no sea vicioso.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1451.
 
-El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los Jueces competentes que oficialmente se los pidan.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE MAYO DE 2015)</small>
 
-### CAPITULO IV BIS. DEL TESTAMENTO PUBLICO SIMPLIFICADO
+### CAPITULO IV BIS. ARTICULO 1451 BIS.- (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
-ARTICULO 1451 BIS.- Testamento público simplificado es aquel que se otorga ante Notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquiriente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado de Baja California, o cualquier dependencia o entidad de la administración pública federal, o en acto posterior, de conformidad con lo siguiente:
-
-I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 7,000 salarios mínimos general vigente en el Estado, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
-
-II.- El Testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente a cuenta de los incapaces;
-
-III.- Si hubiere pluralidad de adquirientes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1183 de este Código;
-
-IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
-
-V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1600, 1657 y demás relativos de este Código; y
-
-VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 214 de la Ley del Notariado para el Estado de Baja California.
-
-### CAPITULO V. DEL TESTAMENTO PRIVADO
+### CAPITULO V
 
 ###### ARTICULO 1452.
 
-El testamento privado está permitido en los casos siguientes:
-
-I.- Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra notario a hacer el testamento;
-
-II.- Cuando no haya notario en la población, o Juez que actúe por receptoría;
-
-III.- Cuando, aunque haya notario o Juez en la población, sea imposible, o por lo menos muy difícil, que concurran al otorgamiento del testamento;
-
-IV.- Cuando los militares o asimilados del ejército entren en campaña o se encuentren prisioneros de guerra.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1453.
 
-Para que en los casos enumerados en el artículo que precede pueda otorgarse testamento privado, es necesario que al testador no le sea posible hacer testamento ológrafo.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1454.
 
-El testador que se encuentre en el caso de hacer testamento privado, declarará a presencia de cinco testigos idóneos su última voluntad, que uno de ellos redactará por escrito, si el testador no puede escribir.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1455.
 
-No será necesario redactar por escrito el testamento, cuando ninguno de los testigos sepa escribir y en los casos de suma urgencia.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1456.
 
-En los casos de suma urgencia bastarán tres testigos idóneos.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1457.
 
-Al otorgarse el testamento privado se observarán en su caso, las disposiciones contenidas en los artículos del 1399 al 1406.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1458.
 
-El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes de desaparecida la causa que lo autorizó.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1459.
 
-El testamento privado necesita, además, para su validez, que se haga la declaración a que se refiere el artículo 1462, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1460.
 
-La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1461.
 
-Los testigos que concurran a un testamento privado, deberán declarar circunstancialmente:
-
-I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento;
-
-II.- Si reconocieron, vieron y oyeron claramente al testador;
-
-III.- El tenor de la disposición;
-
-IV.- Si el testador estaba en su cabal juicio y libre de cualquiera coacción;
-
-V.- El motivo por el que se otorgó el testamento privado;
-
-VI.- Si saben que el testador falleció o no de la enfermedad o en el peligro en que se hallaba.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1462.
 
-Si los testigos fueren idóneos y estuvieren conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará que sus dichos son el formal testamento de la persona de quien se trate.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1463.
 
-Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente contestes, y mayores de toda excepción.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1464.
 
-Lo dispuesto en el artículo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1465.
 
-Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-### CAPITULO VI. DEL TESTAMENTO MILITAR
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPITULO VI
 
 ###### ARTICULO 1466.
 
-Si el militar o el asimilado del ejército hace su disposición en el momento de entrar en acción de guerra, o estando herido sobre el campo de batalla, bastará que declare su voluntad ante dos testigos, o que entregue a los mismos el pliego cerrado que contenga su última disposición, firmada de su puño y letra.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1467.
 
-Lo dispuesto en el artículo anterior se observará, en su caso, respecto de los prisioneros de guerra.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1468.
 
-Los testamentos otorgados por escrito, conforme a este Capítulo, deberán ser entregados luego que muera el testador, por aquel en cuyo poder hubieren quedado, al jefe de la corporación, quien lo remitirá a la Secretaría de la Defensa Nacional y ésta a la autoridad judicial competente.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1469.
 
-Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaría de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos 1458 al 1465.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-### CAPITULO VII. DEL TESTAMENTO MARITIMO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPITULO VII
 
 ###### ARTICULO 1470.
 
-Los que se encuentren en alta mar, a bordo de navíos de la Marina Nacional, sea de guerra o mercante, pueden hacer su testamento que surtirá efectos en el Estado, si se hace con sujeción a las prescripciones siguientes:
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1471.
 
-El testamento marítimo será escrito en presencia de dos testigos y del capitán del navío; y será leído, datado y firmado, como se ha dicho en los artículos del 1399 al 1406; pero en todo caso deberán firmar el capitán y los dos testigos.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1472.
 
-Si el capitán hiciere su testamento, desempeñará sus veces el que deba sucederle en el mando.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1473.
 
-El testamento marítimo se hará por duplicado, y se conservará entre los papeles más importantes de la embarcación y de él se hará mención en su Diario.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1474.
 
-Si el buque arribare a un puerto en que se haya agente diplomático, cónsul o vicecónsul mexicanos, el capitán depositará en su poder uno de los ejemplares del testamento, fechado y sellado, con una copia de la nota que debe constar en el diario de la embarcación.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1475.
 
-Arribando ésta a territorio mexicano, se entregará el otro ejemplar o ambos, si no se dejó alguno en otra parte, a la autoridad marítima del lugar, en la forma señalada en el artículo anterior.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1476.
 
-En cualesquiera de los casos mencionados en los dos artículos precedentes, el capitán de la embarcación exigirá recibo de la entrega y lo citará por nota en el Diario.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1477.
 
-Los agentes diplomáticos, cónsules o las autoridades marítimas procederán en los términos del Código Civil del Distrito y Territorios Federales.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1478.
 
-El testamento marítimo, solamente producirá efectos legales falleciendo el testador en el mar, o dentro de un mes contado desde su desembarque en algún lugar donde conforme a la Ley Mexicana o a la extranjera, haya podido ratificar u otorgar de nuevo su última disposición.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1479.
 
-Si el testador desembarca en un lugar donde no haya agente diplomático o consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Título XI del Libro Primero.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ### CAPITULO VIII. DEL TESTAMENTO HECHO EN PAIS EXTRANJERO
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 1480.
 
-Los testamentos hechos en país extranjero, producirán efecto en el Estado de Baja California, cuando hayan sido formulados de acuerdo con las Leyes del país en que se otorgaron.
+Los testamentos hechos en país extranjero, producirán efecto en el Estado de Baja California, cuando hayan sido formulados de acuerdo con las Leyes del país en que se otorgaron. Quien tenga interés jurídico deberá probar ante el juez, con las certificaciones oficiales que en su caso emita el País en donde se haya otorgado el testamento, la muerte del testador, el texto y vigencia legal del testamento. El juez lo declarará formalmente válido si no contraviene leyes, principios o instituciones del orden público mexicano.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 1481.
 
-Los secretarios de legación, los cónsules y los vicecónsules mexicanos podrán hacer las veces de notarios o de encargados del Registro, en el otorgamiento de los testamentos de los residentes de Baja California en el extranjero en los casos en que las disposiciones testamentarias deban tener su ejecución en el Estado de Baja California.
+El testamento público abierto hecho en país extranjero ante jefe de oficinas consulares en ejercicio de funciones notariales, celebrados dentro de su circunscripción y que estén destinados a surtir efectos en los Estados Unidos Mexicanos, será equivalente al otorgado ante notario del Estado de Baja California, en los términos de la Ley del Servicio Exterior Mexicano y su Reglamento, y el testimonio respectivo tendrá plena validez sin necesidad de legalización.
 
 ###### ARTICULO 1482.
 
-Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, a la Secretaría de Relaciones Exteriores para los efectos que establece el Código Civil del Distrito y Territorios Federales.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1483.
 
-Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones, en el término de diez días, al encargado del Registro Público del domicilio que, dentro del Estado de Baja California, señale el testador.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1484.
 
-Si el testamento fuere confiado a la guarda del secretario de legación, cónsul o vicecónsul, hará mención de esa circunstancia y dará recibo de la entrega.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 1485.
 
-El papel en que se extiendan los testamentos otorgados ante los agentes diplomáticos o consulares, llevará el sello de la legación o consulado respectivo.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
@@ -12085,17 +12047,21 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 2191.
 
-La enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 7,000 el importe del salario mínimo diario vigente en el Estado de Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz, Registro Público de la Propiedad o Catastro Municipal.
+La enajenación de bienes inmuebles, así como la constitución o transmisión de derechos reales o que garanticen un crédito, para su validez se otorgarán en escritura pública.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 Los contratos por los que el Gobierno Federal, del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar, para los trabajadores al servicio del Estado o para personas de escasos recursos económicos hasta por el valor de 10,000 salarios mínimos general vigente en el Estado de Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y ratificación de firmas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
-En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Estado sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el primer párrafo de este artículo, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Estado sobre inmuebles de propiedad particular, cuyo valor no rebase el de la cantidad que resulte de multiplicar por 7,000 el importe del salario mínimo diario vigente en el Estado de Baja California, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
 
 ###### ARTICULO 2192.
 
@@ -12107,11 +12073,11 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público, quien lo inscribirá en los términos de la Fracción III, del Artículo 2878 de este Código, siempre y cuando se acompañe dictamen de perito valuador legalmente autorizado.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 2194.
 
-Si el valor del inmueble excede de 7,000 salarios mínimos general vigente en el Estado de Baja California, su venta se hará en escritura pública, salvo, lo dispuesto por los artículos 2121 y 2191, segundo párrafo, de este ordenamiento.
+Los actos jurídicos a que se refiere el párrafo primero del artículo 2191 que antecede, para su validez se harán en escritura pública, salvo lo dispuesto por los artículos 2121 y 2191 párrafo segundo y tercero de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
@@ -15547,13 +15513,11 @@ El Ejecutivo del Estado designará las poblaciones en donde deba establecerse la
 
 La Ley Reglamentaria fijará los libros que deban integrar el Registro y el sistema y forma necesarios para efectuar las inscripciones.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 2868.
 
-El Registro será público, los encargados de la Oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones, anotaciones o copias que obren en los Libros del Registro, de sus reproducciones en microfilmación, y de los documentos relacionados con los asientos del Registro. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los Libros de Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
-
-Tratándose de testamentos ológrafos depositados en el Registro se observará lo dispuesto en el Artículo 1451.
+El Registro será público, los encargados de la Oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones, anotaciones o copias que obren en los Libros del Registro, de sus reproducciones en microfilmación, y de los documentos relacionados con los asientos del Registro. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los Libros de Registro; así como certificaciones de no existir asientos de ninguna especie, o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 ### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
 
@@ -15597,7 +15561,7 @@ Los documentos que conforme a esta Ley deben registrarse y no se registren, sól
 
 ###### ARTICULO 2871.
 
-Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
+(DEROGADO, P.O. 29 DE MAYO DE 2015)
 
 ###### ARTICULO 2872.
 
@@ -16394,3 +16358,29 @@ SEGUNDO.- El Ejecutivo del Estado deberá publicar el Acuerdo de adscripción de
 Asimismo, deberá tomar las providencias necesarias a fin de adecuar el Sistema para la Inscripción y Certificación de los Actos del Estado Civil, para la incorporación de la participación de las instituciones de salud en el registro de menores.
 
 TERCERO.- Toda dependencia y entidad de la administración pública estatal, a la que impacte esta reforma, deberá elaborar los planes y programas necesarios para su adecuada y correcta implementación, así como establecer dentro de los proyectos de presupuesto respectivos, las partidas indispensables para atender la ejecución de esos programas, equipamiento, la contratación de personal, la capacitación, y todos los demás requerimientos que sean necesarios.
+
+P.O. 29 DE MAYO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tratándose de la Reforma al artículo 173 de la Ley de Hacienda, ésta entrará en vigor el primero de enero del ejercicio fiscal siguiente al de publicación del presente Decreto en el Periódico Oficial del Estado.
+
+Tratándose de la reforma al párrafo primero del artículo 2191 del Código Civil del Estado, a los artículos 145 de la Ley del Notariado del Estado y 48 de la Ley del Registro Público de la Propiedad y de Comercio para el Estado, éstas entrarán en vigor a los 120 días siguientes al de la publicación del presente Decreto.
+
+SEGUNDO.- Aquellos testamentos públicos cerrados, públicos simplificados, privados, militares, marítimos o hechos en país extranjero que hayan sido otorgados con anterioridad al presente decreto, subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás tramitación correspondiente se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento.
+
+Tratándose de los testamentos ológrafos otorgados con anterioridad al presente Decreto, estos subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás trámites que correspondan, las personas interesadas podrán optar ante el juez, siempre que no hubiere controversia alguna, menores de edad, menores emancipados o mayores incapacitados, entre seguir la substanciación conforme a las disposiciones vigentes al momento de su otorgamiento, o tramitar la sucesión ante Notario Público.
+
+TERCERO.- El Ejecutivo del Estado deberá emitir las disposiciones reglamentarias conducentes derivadas de las modificaciones a la Ley del Notariado, en un plazo no mayor de doscientos cuarenta días a partir de la de la (sic) entrada en vigor de las presentes reformas. Los notarios contarán con un plazo de ciento veinte días, a partir de la vigencia de las mismas, para realizar las adecuaciones necesarias que de conformidad con estas correspondan.
+
+CUARTO.- Los procedimientos instaurados en contra de notarios por quejas presentadas con anterioridad a la entrada en vigor de las presentes reformas, se tramitarán conforme a las disposiciones vigentes en aquel momento.
+
+QUINTO.- Quienes se encuentren realizando la práctica notarial en cualquiera de sus etapas al inicio de la vigencia de las presentes reformas y quienes ya las hayan concluido pero no hayan obtenido patente de aspirante, seguirán el trámite conforme al presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado deberá emitir las modificaciones necesarias al Arancel de Notarios para el Estado de Baja California derivado de las reformas al Código Civil y al Código de Procedimientos Civiles, así como realizar los ajustes que correspondan por la intervención de los notarios en los testamentos.
+
+SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entrada en vigor de las presentes reformas deberán ajustarse al artículo 155 de este Decreto, en la actualización anual que corresponda.
+
+OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
+
+NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
