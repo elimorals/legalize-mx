@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-registro-publico-de-la-propiedad-y-de-comercio-para-472
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2009-03-06"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 2005.
 
@@ -299,7 +299,7 @@ I. Los títulos por los cuales se adquiera, transmita, modifique, grave o exting
 
 II. La constitución del patrimonio familiar;
 
-III. Los contratos de arrendamiento de bienes inmuebles por un periodo mayor de seis años y aquellos en que haya anticipo en el pago de la renta por más de tres años;
+III. Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquellos en que haya anticipo en el pago de la renta por más de tres años;
 
 IV. La condición resolutoria en los contratos de compraventa, a que se refiere el Código;
 
@@ -529,7 +529,7 @@ VII. Sello de la oficina, cuando el documento sea físico.
 
 ### CAPÍTULO TERCERO. DEL REGISTRO INMOBILIARIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 38.
 
@@ -665,9 +665,11 @@ Para hacer constar la voluntad de las partes ratificantes, el Registrador o Subr
 
 La ratificación será autorizada por el Registrador o Subregistrador en su caso, con su firma y sello de la oficina.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### ARTÍCULO 48.
 
-El procedimiento de ratificación de documentos privados, se ajustará a las reglas contenidas en este capítulo, así como en lo previsto por los artículos 1721, 2191, 2192 y 2878 fracción III del Código, así como en lo previsto por el Código de Comercio y demás leyes aplicables.
+El procedimiento de ratificación de documentos privados, se sujetará a las reglas contenidas en este capítulo, así como en lo previsto por los artículos 1721, 2192 y 2878 fracción III del Código, así como en lo previsto por el Código de Comercio y demás leyes aplicables.
 
 ### CAPÍTULO SÉPTIMO. DE LA INSCRIPCIÓN Y AVISOS PREVENTIVOS
 
@@ -695,7 +697,7 @@ VII. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
 
 VIII. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 50.
 
@@ -719,7 +721,7 @@ VII. Descripción específica, en los términos de los artículos 38, 39 y 40 de
 
 VIII. Indicaciones de los efectos de la inscripción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 51.
 
@@ -845,7 +847,7 @@ La cancelación se hará de tal manera, que siempre permita consultar la partida
 
 Los usuarios que así lo soliciten, podrán obtener del Registro Público copia simple o certificada de las inscripciones, anotaciones y demás constancias que obren en el archivo registral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 68.
 
@@ -937,7 +939,7 @@ II. Efectuada la recepción se expedirá una constancia con el número progresiv
 
 Una vez firmado electrónicamente e inscrito el acto en la base de datos de la oficina del Registro Público, emitirá el número de partida de inscripción, la que será entregada al interesado previa presentación de la boleta de ingreso, o podrá verificarla e imprimirla si el notario o corredor público presentó el acto a inscribir, usando medios electrónicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2009)</small>
 
 ## TÍTULO CUARTO. DEL RECURSO
 
@@ -983,7 +985,7 @@ La resolución será notificada al interesado dentro de los tres días hábiles 
 
 Las notificaciones podrán realizarse por lista en la Oficina Registral del municipio que corresponda o en la sección correspondiente del portal, surtiendo efectos dentro de los cinco días hábiles siguientes al de su publicación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2009)</small>
 
 ## TÍTULO QUINTO. DEL FONDO PARA LA MODERNIZACIÓN DEL REGISTRO PÚBLICO
 
@@ -1029,7 +1031,7 @@ DIP. ELÍAS LÓPEZ MENDOZA
 
 SECRETARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE MARZO DE 2009.
 
@@ -1040,3 +1042,29 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan en lo conducente, todas las disposiciones normativas que se opongan a la presente reforma.
+
+P.O. 29 DE MAYO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tratándose de la Reforma al artículo 173 de la Ley de Hacienda, ésta entrará en vigor el primero de enero del ejercicio fiscal siguiente al de publicación del presente Decreto en el Periódico Oficial del Estado.
+
+Tratándose de la reforma al párrafo primero del artículo 2191 del Código Civil del Estado, a los artículos 145 de la Ley del Notariado del Estado y 48 de la Ley del Registro Público de la Propiedad y de Comercio para el Estado, éstas entrarán en vigor a los 120 días siguientes al de la publicación del presente Decreto.
+
+SEGUNDO.- Aquellos testamentos públicos cerrados, públicos simplificados, privados, militares, marítimos o hechos en país extranjero que hayan sido otorgados con anterioridad al presente decreto, subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás tramitación correspondiente se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento.
+
+Tratándose de los testamentos ológrafos otorgados con anterioridad al presente Decreto, estos subsistirán en sus términos y para su apertura, declaración de ser formal testamento y demás trámites que correspondan, las personas interesadas podrán optar ante el juez, siempre que no hubiere controversia alguna, menores de edad, menores emancipados o mayores incapacitados, entre seguir la substanciación conforme a las disposiciones vigentes al momento de su otorgamiento, o tramitar la sucesión ante Notario Público.
+
+TERCERO.- El Ejecutivo del Estado deberá emitir las disposiciones reglamentarias conducentes derivadas de las modificaciones a la Ley del Notariado, en un plazo no mayor de doscientos cuarenta días a partir de la de la entrada en vigor de las presentes reformas. Los notarios contarán con un plazo de ciento veinte días, a partir de la vigencia de las mismas, para realizar las adecuaciones necesarias que de conformidad con estas correspondan.
+
+CUARTO.- Los procedimientos instaurados en contra de notarios por quejas presentadas con anterioridad a la entrada en vigor de las presentes reformas, se tramitarán conforme a las disposiciones vigentes en aquel momento.
+
+QUINTO.- Quienes se encuentren realizando la práctica notarial en cualquiera de sus etapas al inicio de la vigencia de las presentes reformas y quienes ya las hayan concluido pero no hayan obtenido patente de aspirante, seguirán el trámite conforme al presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado deberá emitir las modificaciones necesarias al Arancel de Notarios para el Estado de Baja California derivado de las reformas al Código Civil y al Código de Procedimientos Civiles, así como realizar los ajustes que correspondan por la intervención de los notarios en los testamentos.
+
+SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entrada en vigor de las presentes reformas deberán ajustarse al artículo 155 de este Decreto, en la actualización anual que corresponda.
+
+OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
+
+NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
