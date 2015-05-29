@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-26156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-01"
-last_updated: "2009-05-15"
+last_updated: "2015-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRESTAMOS HIPOTECARIOS
 
-REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRESTAMOS HIPOTECARIOS
+REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRÉSTAMOS HIPOTECARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PRÉSTAMOS HIPOTECARIOS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de octubre de 2002.
 
@@ -414,3 +416,17 @@ P.O. 15 DE MAYO DE 2009.
 Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al contenido del presente Decreto Gubernativo.
+
+P.O. 29 DE MAYO DE 2015.
+
+Inicio de Vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato, en materia de préstamos hipotecarios, contenido en el Decreto Gubernativo número 134, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 117, Segunda Parte, de fecha 1 de octubre del 2002.
