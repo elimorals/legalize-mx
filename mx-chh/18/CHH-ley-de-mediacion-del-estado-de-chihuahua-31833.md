@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-mediacion-del-estado-de-chihuahua-31833"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-07"
-last_updated: "2014-10-29"
+last_updated: "2015-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY DE MEDIACIÓN DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 29 DE OCTUBRE DE 2014, SE DEROGAN, DE LA LEY DE MEDIACIÓN DEL ESTADO DE CHIHUAHUA Y DE OTROS ORDENAMIENTOS LEGALES, LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014 (DEROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de junio de 2003.
 
@@ -542,3 +542,13 @@ Los derechos y obligaciones que se establecen en el presente Decreto para los fu
 ###### ARTÍCULO VIGÉSIMO TERCERO.
 
 Se derogan las disposiciones que se opongan a lo dispuesto por el Artículo Segundo del presente Decreto.
+
+P.O. 30 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Mediación del Estado de Chihuahua, publicada en el Periódico Oficial del Estado, el siete de junio de dos mil tres.
