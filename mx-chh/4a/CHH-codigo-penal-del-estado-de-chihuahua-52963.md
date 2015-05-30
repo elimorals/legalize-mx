@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2015-03-07"
+last_updated: "2015-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2015.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -461,15 +461,13 @@ La prisión consiste en la privación de la libertad personal. Puede ser tempora
 
 En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2015)</small>
 
-Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquéllas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
+Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años, salvo lo que señala el párrafo siguiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
-
-Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de edad, deberá imponerse pena por cada delito cometido, aun y cuando con ello se exceda el máximo de la pena de prisión temporal.
+Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de edad, o en los supuestos establecidos en el artículo 127 de este Código, deberá imponerse pena por cada delito cometido, aun y cuando con ello se exceda el máximo de la pena de prisión temporal.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
 
@@ -1025,9 +1023,9 @@ IV. El estado de las cosas, entorno y demás condiciones externas que hayan cont
 
 Punibilidad de la tentativa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2015)</small>
 
-La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el agente quiso realizar. En este caso, cuando corresponda sancionarlo con prisión vitalicia, el cómputo se hará sobre la base de las penalidades de prisión temporal más severas previstas para ese delito.
+La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el agente quiso realizar.
 
 En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, la autoridad judicial tendrá en cuenta, además de lo previsto en el artículo 67 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
 
@@ -1053,13 +1051,13 @@ No habrá concurso cuando las conductas constituyan un delito continuado; sin em
 
 ### CAPÍTULO V. PUNIBILIDAD DE LA COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2015)</small>
+
 ###### Artículo 78.
 
 Punibilidad de la complicidad
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
-
-Para los casos a que se refieren las fracciones VI y VII del artículo 21 de este Código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva. En este caso, cuando corresponda sancionarlo con prisión vitalicia, el cómputo se hará sobre la base de las penalidades de prisión temporal más severas previstas para ese delito.
+Para los casos a que se refieren las fracciones VI y VII del artículo 21 de este Código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
 
 ###### Artículo 79.
 
@@ -1643,15 +1641,21 @@ Si además del homicidio, se cometen en perjuicio de la víctima otros delitos, 
 
 ###### Artículo 127.
 
-A quien cometa homicidio calificado se le impondrán de veinte a cincuenta años de prisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+A quien cometa homicidio calificado, en los términos de las fracciones I, II, III, IV, VI o VII del artículo 136 de este Código, se le impondrá prisión de veinte a cincuenta años.
 
-A quien se le condene por el homicidio doloso de tres o más personas, en el mismo o en distintos hechos, se le impondrá prisión vitalicia.
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+A quien cometa homicidio calificado en los términos de las fracciones V, VIII, IX o X del artículo 136 de este Código, se le impondrá prisión de cincuenta a setenta años o prisión vitalicia.
 
-También se le aplicará prisión vitalicia a quien cometa homicidio con motivo del delito de extorsión, siempre que el pasivo de ambas conductas sea la misma persona, o bien, cuando el pasivo del homicidio se encuentre ligado con el pasivo de la extorsión por alguno de los vínculos señalados en el artículo 204 ter.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2015)</small>
+
+A quien se le condene por el homicidio doloso de tres o más personas, en el mismo o en distintos hechos, se le impondrá la pena de prisión temporal que corresponda a cada uno de los delitos o prisión vitalicia.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2015)</small>
+
+Se impondrá la pena de prisión temporal que corresponda a cada uno de los delitos o prisión vitalicia a quien cometa homicidio con motivo del delito de extorsión, siempre que el pasivo de ambas conductas sea la misma persona, o bien, cuando el pasivo del homicidio se encuentre ligado con el pasivo de la extorsión por alguno de los vínculos señalados en el artículo 204 ter.
 
 ###### Artículo 128.
 
@@ -1765,9 +1769,7 @@ IX. Cuando dolosamente se cometan en perjuicio de periodistas o de empleados o t
 
 X. Cuando en el momento de la privación de la vida, o posterior a ello, se realice la decapitación, mutilación, quemaduras, descuartizamiento o se utilicen mensajes intimidatorios dirigidos a la población, que atenten contra la dignidad humana por la exhibición de la causa de muerte.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2010)</small>
-
-Tratándose de homicidio cometido en los términos de las fracciones V, VIII, IX y X, aunque solamente se trate de una víctima, al responsable se le aplicará prisión vitalicia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE MAYO DE 2015)</small>
 
 ###### Artículo 137.
 
@@ -4686,3 +4688,21 @@ P.O. 7 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La modificación o reubicación de las porciones normativas y las consecuencias jurídicas a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos y las sanciones se sigan comprendiendo en los preceptos modificados o reubicados.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones relativas a la punibilidad de la tentativa y la complicidad a que hacen referencia los artículos 75 y 78, respectivamente, del Código Penal del Estado de Chihuahua, hasta la entrada en vigor de este Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
