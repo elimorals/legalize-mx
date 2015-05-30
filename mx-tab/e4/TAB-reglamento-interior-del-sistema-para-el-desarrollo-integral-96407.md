@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-sistema-para-el-desarrollo-integral-964
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-08"
-last_updated: "2013-10-08"
+last_updated: "2015-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Tabasco, el martes 8 de octubre de 2013.
 
@@ -79,7 +81,7 @@ VII. La realización de las demás acciones que establezcan las disposiciones le
 
 El DIF, para el logro de sus objetivos realizará las siguientes funciones:
 
-l. Vigilar el estricto cumplimiento de la Ley;
+I. Vigilar el estricto cumplimiento de la Ley;
 
 II. Elaborar un Programa Estatal de Asistencia Social, conforme a las disposiciones Legales aplicables;
 
@@ -305,7 +307,7 @@ El Coordinador General será designado y removido libremente por el Gobernador.
 
 Para ser Coordinador General se requiere:
 
-l. Ser ciudadano mexicano por nacimiento;
+I. Ser ciudadano mexicano por nacimiento;
 
 II. Ser mayor de 30 años de edad a la fecha de su designación;
 
@@ -1610,3 +1612,19 @@ SECRETARIO DE SALUD
 LIC. RICARDO POERY CERVANTES UTRILLA
 
 COORDINADOR GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, publicado en (sic) Periódico Oficial del Estado de Tabasco extraordinario No. 85 de fecha ocho de Octubre de 2013, y todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Para el mejor funcionamiento del DIF Tabasco se deberán formular los respectivos Manuales de Organización y de Procedimientos en un plazo de 120 días hábiles a partir del siguiente día de la publicación del presente Reglamento.
+
+CUARTO. El DIF Tabasco dispondrá de las medidas conducentes para que, una vez que entren en vigor las disposiciones del presente ordenamiento, los recursos humanos y materiales pertenecientes a la Estructura prevista en el Reglamento que se abroga, se transfieran a las Direcciones creadas y formadas de conformidad al Reglamento que emite; y en relación a las modificaciones realizadas, los recursos financieros serán reprogramados conforme a las necesidades del Organismo para el desarrollo de las actividades respectivas.
+
+QUINTO. Los asuntos que se encuentren en trámite en las Direcciones del Sistema DIF Tabasco previsto en el Reglamento que se abroga, serán transferidos a la brevedad posible a las Direcciones del Sistema DIF Tabasco a que se refiere el presente Reglamento, con la finalidad de evitar causar un daño o menoscabo a los intereses del mismo.
+
+SEXTO. El Coordinador General queda facultado para resolver lo conducente en caso de duda sobre la interpretación del presente Reglamento.
