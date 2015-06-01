@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2015-del-pleno-del-consejo-de-la-106271"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-03-04"
-last_updated: "2015-03-04"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106271&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2015-02-24"
 
 ACUERDO GENERAL 2/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR PARA EFECTOS LEGALES, EL DIECISÉIS DE MARZO DE DOS MIL QUINCE, CON EXCEPCIÓN, PARA LAS ÁREAS ADMINISTRATIVAS DEL CONSEJO DE LA JUDICATURA FEDERAL, ENTRARÁ EN VIGOR EL DÍA DE SU APROBACIÓN, PARA ADOPTAR CON LA DEBIDA ANTICIPACIÓN LAS MEDIDAS NECESARIAS PARA QUE EL CENTRO DE JUSTICIA PENAL A QUE SE REFIERE ESTE ACUERDO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de marzo de 2015.
 
@@ -175,9 +173,17 @@ El Centro contará con el número suficiente de defensores públicos y oficiales
 
 Los jueces de control contarán con un sistema de acceso electrónico, mediante mecanismos tecnológicos que aseguren la confidencialidad de la información, para favorecer la comunicación con el Ministerio Público de la Federación y demás autoridades, así como con las personas autorizadas por éstas, que por razón de su función deban ingresar solicitudes de providencias precautorias o relacionadas con medidas de protección, así como actos de investigación que requieren autorización judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSOS ACUERDOS GENERALES, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 ###### Artículo 17.
 
-En caso de que por ausencia, recusación o impedimento sea necesario suplir a alguno de los jueces de Distrito del Centro, será sustituido por otro del mismo, en el orden secuencial de su denominación, salvo que ello no sea posible, supuesto en el cual, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano, en el orden de su denominación.
+En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
+
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro en el orden secuencial de su denominación, con exclusión de aquel que funja como Administrador;
+
+II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en el Administrador, en términos del artículo 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y
+
+III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano, en el orden de su denominación.
 
 Tratándose del Tribunal de Alzada del Centro, la sustitución recaerá en el Tribunal Unitario del Vigésimo Tercer Circuito, para lo cual en este caso se habilita a dicho Tribunal para conocer como Tribunal de Alzada respecto de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
@@ -214,3 +220,11 @@ QUINTO. En tanto se ordena la utilización de los libros de control electrónico
 SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 2/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiuno de enero de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a veinticuatro de febrero de dos mil quince.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
