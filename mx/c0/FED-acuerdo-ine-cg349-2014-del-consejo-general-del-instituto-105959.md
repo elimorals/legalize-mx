@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg349-2014-del-consejo-general-del-instituto-105959
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-20"
-last_updated: "2015-02-20"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105959&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-23"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS DISEÑOS DE LA BOLETA DE LA ELECCIÓN DE DIPUTADOS FEDERALES PARA EL PROCESO ELECTORAL FEDERAL 2014-2015 EN ESTRICTO ACATAMIENTO A LO ORDENADO POR LA H. SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN AL RESOLVER EL RECURSO DE APELACIÓN IDENTIFICADO CON LOS NÚMEROS DE EXPEDIENTE SUP-RAP-200/2014 Y SUP-RAP-211/2014, ACUMULADOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 20 de febrero de 2015.
 
@@ -58,3 +58,11 @@ El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General c
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE IMÁGENES EN LA TERCERA SECCIÓN DEL D.O.F. PÁGINAS DE LA 109 A LA 112.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS IMÁGENES, EN EL D.O.F. DE 1 DE JUNIO DE 2015, PÁGINAS DE LA 81 A LA 84.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+Único. El presente Acuerdo entrará en vigor a partir del momento de su aprobación por el Consejo General del Instituto Nacional Electoral.
