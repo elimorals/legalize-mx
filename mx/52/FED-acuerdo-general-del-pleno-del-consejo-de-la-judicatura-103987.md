@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-05-25"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -289,7 +289,9 @@ VII. Área técnica: El órgano administrativo que cuenta con competencia para r
 
 VIII. Comité: El Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios;
 
-IX. CompraNet: La plataforma informática del sistema electrónico de información pública gubernamental, a que hacen alusión los artículos 2, fracciones II, de las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de Obras Públicas y Servicios Relacionados con las Mismas;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+IX. CompraNet: El sistema electrónico de información pública gubernamental, a que hacen alusión los artículos 2, fracciones II, de las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de Obras Públicas y Servicios Relacionados con las Mismas;
 
 X. Contratista: La persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de cualquier naturaleza, según corresponda;
 
@@ -2531,11 +2533,11 @@ La celebración será en forma directa siempre que de la investigación de merca
 
 Cuando por disposiciones normativas los entes públicos a que se refiere este artículo no estén obligados a otorgar garantías, pactar penas convencionales, o cubrir otras de la misma naturaleza, se hará constar dicha circunstancia en el instrumento jurídico correspondiente, sin perjuicio de salvaguardar los intereses del Consejo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 ###### Artículo 244.
 
-Los procedimientos de contratación del Consejo, que se sigan a través de CompraNet, se sujetarán exclusivamente a las disposiciones de este Capítulo, sin perjuicio de observar las especificaciones técnicas para la implementación del sistema que al efecto se pacten con la Secretaría de la Función Pública.
-
-El Consejo deberá difundir en CompraNet, además de la información a que se refiere este Capítulo, los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; y las resoluciones de las inconformidades que hayan causado estado.
+El Consejo deberá difundir en su portal de Internet, además de la información a que se refiere este Capítulo, los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; y las resoluciones de las inconformidades que hayan causado estado.
 
 ###### Artículo 245.
 
@@ -2671,7 +2673,9 @@ VI. Presentar currículum en el que se acrediten grados académicos y especialid
 
 VII. Presentar manifestación escrita bajo protesta de decir verdad, que se abstendrá de participar en procedimientos de contratación en los que puedan existir conflictos de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en los mismos tengan vinculación familiar, de negocios o académica con éste; o bien porque pudieran obtener un beneficio directo o indirecto derivado de dicho procedimiento.
 
-El padrón de testigos sociales debe difundirse en la página de Internet del Consejo y en CompraNet.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+El padrón de testigos sociales debe difundirse en el portal de Internet del Consejo.
 
 ###### Artículo 257.
 
@@ -2989,9 +2993,13 @@ El Consejo anualmente autorizará en el primer mes del ejercicio fiscal correspo
 
 El Consejo tomará las medidas necesarias para que en el mediano y largo plazo los Programas de Ejecución se conviertan en un instrumento de planeación estratégica de suministro.
 
-El Consejo pondrá a disposición del público en general, a través de CompraNet y de su página de Internet, a más tardar el 31 de enero de cada año, los Programas a que se refiere este artículo, correspondientes al ejercicio fiscal de que se trate, con excepción de aquella información que de conformidad con las disposiciones aplicables, sea de naturaleza reservada o confidencial.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
 
-En caso de que el Consejo haga modificaciones a los programas, deberá actualizar la información mensualmente en CompraNet y en su página de Internet.
+El Consejo pondrá a disposición del público en general, a través de su portal de Internet, a más tardar el 31 de enero de cada año, los Programas a que se refiere este artículo, correspondientes al ejercicio fiscal de que se trate, con excepción de aquella información que de conformidad con las disposiciones aplicables, sea de naturaleza reservada o confidencial.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+En caso de que el Consejo haga modificaciones a los programas, deberá actualizar la información mensualmente en su portal de Internet.
 
 ###### Artículo 279.
 
@@ -3361,7 +3369,9 @@ i) Las que hayan celebrado contratos en contravención con lo dispuesto en este 
 
 j) Se haya rescindido contrato celebrado con la Suprema Corte de Justicia de la Nación, el Tribunal Electoral del Poder Judicial de la Federación o el propio Consejo, por causa imputable al proveedor o contratista y dicha rescisión esté firme con independencia de que se hayan causado o no daños y perjuicios.
 
-El plazo de impedimento para contratar, no será menor de tres meses ni mayor de cinco años, y comenzará a contarse a partir del día siguiente a la fecha en que el Consejo la haga pública en el Diario Oficial de la Federación y en CompraNet;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+El plazo de impedimento para contratar, no será menor de tres meses ni mayor de cinco años, y comenzará a contarse a partir del día siguiente a la fecha en que el Consejo la haga pública en el Diario Oficial de la Federación;
 
 V. Las que pretendan participar en un procedimiento adjudicatorio y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de dirección, coordinación, supervisión o control, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o elaboración de cualquier otro documento, así como asesorías, para la licitación de la adjudicación del contrato de la misma adquisición, arrendamiento, servicio u obra pública;
 
@@ -3557,17 +3567,7 @@ IV. En los demás casos en que así lo determine el Comité.
 
 ###### Artículo 309.
 
-La licitación pública conforme a los medios que se utilicen, podrá ser:
-
-I. Presencial: en la cual los licitantes exclusivamente podrán presentar sus propuestas en forma documental y por escrito, en sobre cerrado, durante el acto de presentación y apertura de proposiciones, o bien, si así se prevé en la convocatoria a la licitación, mediante el uso del servicio postal o de mensajería.
-
-La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, se realizarán de manera presencial, a los cuales podrán asistir los licitantes, sin perjuicio de que el fallo pueda notificarse por escrito, sin perjuicio de lo dispuesto en el artículo 327 de este Acuerdo;
-
-II. Electrónica: en la cual exclusivamente se permitirá la participación de los licitantes a través de CompraNet, se utilizarán medios de identificación electrónica, las comunicaciones producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
-
-La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, sólo se realizarán a través de CompraNet y sin la presencia de los licitantes en dichos actos, y
-
-III. Mixta: en la cual los licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)
 
 ###### Artículo 310.
 
@@ -3607,17 +3607,23 @@ La convocatoria de la licitación pública será elaborada y firmada por el Secr
 
 I. Estar redactada en idioma español;
 
-II. Contener la indicación de quien convoca, y el tipo de licitación conforme a los medios que se utilicen;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+II. Contener la indicación de quien convoca;
 
 III. La descripción general, normas de calidad, cantidad y unidad de medida de los bienes o servicios cuya adquisición o prestación se requiere. En el caso de arrendamiento, la indicación de si es con opción a compra. Adicionalmente, en el caso de obra pública, la descripción general de la obra o del servicio relacionado con ella y el lugar donde se llevará a cabo, así como los costos de los bienes, servicios y obra pública a contratar; y
 
 IV. La indicación de la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, del acto de aclaraciones y de la visita al lugar en que se prestarán los servicios o se realizará la obra.
 
-La publicación de la convocatoria a la licitación pública se realizará a través de CompraNet y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Diario Oficial de la Federación, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen de obra o a adquirir, el número de licitación, las fechas previstas para llevar a cabo el procedimiento de contratación y cuando se publicó en CompraNet y, asimismo, el Consejo pondrá a disposición de los licitantes copia del texto de la convocatoria, en su página de Internet.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+La publicación de la convocatoria a la licitación pública se realizará a través del portal de Internet del Consejo y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Diario Oficial de la Federación, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen de obra o a adquirir, el número de licitación y las fechas previstas para llevar a cabo el procedimiento de contratación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 314.
 
-El Consejo, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria, a más tardar el séptimo día natural previo al acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones en CompraNet, a más tardar el día hábil siguiente a aquél en que se efectúen.
+El Consejo, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria y en las bases, a más tardar el séptimo día natural previo al acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones en su portal de Internet y en el Diario Oficial de la Federación, a más tardar el día hábil siguiente a aquél en que se efectúen.
 
 Las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos, ni en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
 
@@ -3629,13 +3635,17 @@ Cualquier modificación a la convocatoria o a las bases de la licitación, inclu
 
 Las bases que se emitan para las licitaciones públicas en materia de obras públicas y servicios relacionados con las mismas, deberán contener, cuando menos, la siguiente información:
 
-I. La indicación de que es el Consejo quien convoca a la licitación pública, y el tipo de licitación conforme a los medios que se utilicen;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública;
 
 II. La descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos;
 
 III. La forma en que los licitantes deberán acreditar su existencia legal, la personería de su representante, la experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de conformidad con las características, complejidad y magnitud de los trabajos. Asimismo, la indicación de que el licitante podrá proporcionar una dirección de correo electrónico;
 
-IV. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda ser proporcionada a través de CompraNet, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+IV. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda proporcionarse en las bases, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
 
 V. Fecha, hora y lugar de la junta de aclaraciones de las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha, hora y lugar de celebración del acto de la presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
 
@@ -3699,13 +3709,17 @@ Las bases que se emitan para las licitaciones públicas en materia de servicios 
 
 Las bases que se emitan para las licitaciones públicas en materia de adquisiciones, arrendamientos y servicios deberán contener, cuando menos, la siguiente información:
 
-I. La indicación de que es el Consejo quien convoca a la licitación pública, y el tipo de licitación conforme a los medios que se utilicen;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública;
 
 II. La forma en que los licitantes deberán acreditar su personalidad, para lo cual podrán exhibir los documentos mencionados en el artículo 302 de este Acuerdo. Asimismo deberán acreditar su capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
 III. Fecha, hora y lugar de la junta de aclaraciones de las bases de la licitación, siendo optativa la asistencia a las reuniones que se realicen; fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
 
-IV. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda ser proporcionada a través de CompraNet, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+IV. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda proporcionarse en las bases, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
 
 V. La indicación de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación que afecte la solvencia de la propuesta, así como la comprobación de que algún licitante ha acordado con otro u otros elevar los precios de los bienes o servicios, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
@@ -3765,15 +3779,17 @@ XXIX. Las causas por las que podrá ser declarada desierta o cancelada la licita
 
 XXX. El tipo y modelo de contrato.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 ###### Artículo 317.
 
-Las bases se pondrán a disposición, de forma gratuita, de cualquier interesado en CompraNet y en la página de Internet del Consejo, para su consulta y revisión, proporcionándose igual información a todos los participantes.
+Las bases se pondrán a disposición, de forma gratuita, de cualquier interesado en el portal de Internet del Consejo, para su consulta y revisión, proporcionándose igual información a todos los participantes.
 
 ###### Artículo 318.
 
 En caso de resultar necesario, previo al acto de apertura de propuestas, se celebrará una junta de aclaración de las bases, en la cual se dará respuesta a las dudas que llegaren a tener los concursantes respecto del procedimiento licitatorio en general. De la junta de aclaraciones se levantará un acta circunstanciada en la que se harán constar todos los aspectos que se trataron en ella y se entregará copia a los concursantes que participen en la licitación. Las aclaraciones que se formulen en dicho acto, formarán parte de las bases y por tanto su observancia será obligatoria.
 
-También podrán enviarse solicitudes de aclaración, a través de CompraNet dependiendo del tipo de licitación de que se trate, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 La asistencia a la junta de aclaraciones no será requisito indispensable para presentar propuestas; por tanto, no será motivo para desecharlas, la inasistencia de algún proveedor, así como el hecho de que los participantes no presenten copia de los documentos que el Consejo emita con motivo de cualquier aclaración de las bases o del procedimiento de adjudicación.
 
@@ -3787,7 +3803,9 @@ Sólo con el conocimiento de todos los participantes y por causa fundada podrán
 
 La adquisición de las bases no tendrá ningún costo.
 
-En el supuesto de las licitaciones presenciales y, en su caso, mixtas para tener derecho a presentar propuestas, los interesados en participar deberán inscribirse en el procedimiento de contratación que corresponda en la oficina del área operativa que lo lleve a cabo. En el caso de encontrarse previsto en las bases, los interesados podrán utilizar los medios electrónicos autorizados por el Consejo. Tratándose de las electrónicas deberán manifestar su interés en participar a través de CompraNet, así como en aquellos casos en que los licitantes decidan participar por este medio.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+Para tener derecho a presentar propuestas, los interesados en participar deberán inscribirse en el procedimiento de contratación que corresponda en la oficina del área operativa que lo lleve a cabo. En el caso de encontrarse previsto en las bases, los interesados podrán utilizar los medios electrónicos autorizados por el Consejo.
 
 En caso de que la licitación pública se realice en alguna de las entidades federativas, en las bases se indicará el lugar en que deberán inscribirse los interesados.
 
@@ -3801,9 +3819,11 @@ En caso de prestación de servicios y de obra pública podrá realizarse una vis
 
 Por lo anterior, el área de adquisiciones, de obras o la Coordinación de Administración Regional, según corresponda, expedirá a los participantes una constancia de asistencia a la visita, la cual podrá ser requisito para tener derecho a presentar propuestas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 ###### Artículo 322.
 
-La entrega de las propuestas se efectuará en el acto de apertura y se presentarán en sobre cerrado. En el caso de las presentadas a través de CompraNet, serán generadas mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las especificaciones técnicas que al efecto se determinen. La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+La entrega de las propuestas se efectuará en el acto de apertura y se presentarán en sobre cerrado. La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
 
 Las propuestas deberán presentarse mediante escrito original, en papelería membretada del licitante y debidamente firmadas y rubricadas en todas y cada una de sus hojas.
 
@@ -3819,7 +3839,9 @@ En caso de que el licitante entregue información de naturaleza confidencial, de
 
 No será motivo de desechamiento la falta de identificación o acreditación de la persona que únicamente entregue la proposición, pero ésta sólo podrá participar durante el desarrollo del acto con el carácter de observador.
 
-En el mismo acto de presentación y con el objeto de acreditar su personalidad, los licitantes o sus representantes presentarán, dentro o fuera del sobre o a través del uso de las tecnologías a que se refiere el primer párrafo de este artículo, un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, mismo que contendrá los datos a que se refiere el artículo 302 de este Acuerdo. En el caso de licitaciones públicas internacionales, el escrito deberá contener dichos datos o los equivalentes, considerando las disposiciones aplicables en el país de que se trate. En el supuesto de duda sobre los documentos que deberán requerirse a los licitantes extranjeros para acreditar su personalidad, la convocante solicitará un escrito en el que el licitante manifieste, bajo protesta de decir verdad, que los documentos entregados cumplen con los requisitos necesarios para acreditar la existencia de la persona moral y del tipo o alcances jurídicos de las facultades otorgadas a sus representantes legales.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+En el mismo acto de presentación y con el objeto de acreditar su personalidad, los licitantes o sus representantes presentarán, dentro o fuera del sobre a que se refiere el primer párrafo de este artículo, un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, mismo que contendrá los datos a que se refiere el artículo 302 de este Acuerdo. En el caso de licitaciones públicas internacionales, el escrito deberá contener dichos datos o los equivalentes, considerando las disposiciones aplicables en el país de que se trate. En el supuesto de duda sobre los documentos que deberán requerirse a los licitantes extranjeros para acreditar su personalidad, la convocante solicitará un escrito en el que el licitante manifieste, bajo protesta de decir verdad, que los documentos entregados cumplen con los requisitos necesarios para acreditar la existencia de la persona moral y del tipo o alcances jurídicos de las facultades otorgadas a sus representantes legales.
 
 ###### Artículo 323.
 
@@ -3893,11 +3915,15 @@ III. La propuesta de adjudicación que ofrezca las mejores condiciones para el C
 
 El dictamen deberá someterse a la consideración del titular de las áreas de adquisiciones o de obras, según corresponda, a fin de que realice su valoración formal y, con base en ello, emita el fallo respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 ###### Artículo 327.
 
-Una vez autorizada la adjudicación se comunicará el fallo a los participantes en sesión pública. El fallo, para efectos de su notificación, se dará a conocer a través de CompraNet el mismo día en que se celebre la referida sesión, tratándose de licitaciones electrónicas y, en su caso, mixtas. A los licitantes se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en CompraNet.
+Una vez autorizada la adjudicación se comunicará el fallo a los participantes en sesión pública.
 
-Tratándose de licitaciones presenciales o mixtas, se dará a conocer el fallo de la misma en la sesión pública a la que libremente podrán asistir los licitantes que hubieran presentado propuesta, entregándoseles copia del mismo y levantándose el acta respectiva. Asimismo, el contenido del fallo se difundirá a través de CompraNet el mismo día en que se emita. A los licitantes que no hayan asistido a la sesión, se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en CompraNet.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+En caso de que no sea posible celebrar sesión pública para dar a conocer el fallo de adjudicación, se deberá notificar por escrito a los participantes.
 
 El fallo deberá contemplar, como mínimo, lo siguiente:
 
@@ -3913,7 +3939,7 @@ IV. Información para firma del contrato, presentación de garantías y, en su c
 
 Las actas de las juntas de aclaraciones, del acto de presentación y apertura de propuestas, y de la sesión pública en la que se dé a conocer el fallo serán firmadas por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible, al que tenga acceso el público, en el domicilio del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles. El titular de la citada área dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia.
 
-Asimismo, se difundirá un ejemplar de dichas actas en CompraNet para efectos de su notificación a los licitantes que no hayan asistido al acto. Dicho procedimiento sustituirá a la notificación personal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 329.
 
@@ -3967,7 +3993,9 @@ Las licitaciones públicas se realizarán en los plazos siguientes:
 
 I. La consulta de las bases y la inscripción se realizará durante un plazo de tres a siete días hábiles, contados a partir de la fecha de publicación de la convocatoria;
 
-II. Entre el último día del plazo anterior y el acto de apertura de propuestas, deberá mediar un plazo mínimo de cinco a diez días hábiles¸ con excepción de las licitaciones internacionales que no será inferior a veintitrés días naturales, contados a partir de la fecha de publicación de la convocatoria en CompraNet. En caso de que las bases sean modificadas se podrá prorrogar por cinco días hábiles más la entrega de propuestas;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+II. Entre el último día del plazo anterior y el acto de apertura de propuestas, deberá mediar un plazo mínimo de cinco a diez días hábiles, con excepción de las licitaciones internacionales que no será inferior a veintitrés días naturales, contados a partir de la fecha de publicación de la convocatoria en el portal de Internet del Consejo. En caso de que las bases sean modificadas se podrá prorrogar por cinco días hábiles más la entrega de propuestas;
 
 III. Para la emisión del dictamen de adjudicación deberá mediar un plazo de cinco a diez días hábiles, contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas;
 
@@ -3989,7 +4017,9 @@ La invitación a cuando menos tres proveedores o contratistas es el procedimient
 
 El procedimiento de invitación a cuando menos tres proveedores o contratistas iniciará con la invitación que realice el área de adquisiciones o de obras, según corresponda, y concluirá con la firma del contrato.
 
-Se difundirá la invitación en CompraNet y en la página de Internet del Consejo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+
+Se difundirá la invitación en el portal de Internet del Consejo.
 
 De estimarlo conveniente, la Contraloría y la Dirección General de Asuntos Jurídicos podrán intervenir en los actos de apertura de estos procedimientos, los que actuarán en el ámbito de sus respectivas competencias.
 
@@ -10662,3 +10692,9 @@ D.O.F. 25 DE MAYO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
