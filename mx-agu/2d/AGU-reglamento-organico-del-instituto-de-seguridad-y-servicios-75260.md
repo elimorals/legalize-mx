@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-organico-del-instituto-de-seguridad-y-servicios-7526
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-14"
-last_updated: "2014-02-17"
+last_updated: "2015-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 14 de junio de 2010.
 
@@ -31,7 +31,7 @@ La H. Junta Directiva del Instituto de Seguridad y Servicios Sociales para los S
 
 I. S. S. S. S. P. E. A.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo expuesto, tengo a bien expedir el siguiente:
 
@@ -355,43 +355,39 @@ V. Las demás que le encomiende la Junta.
 
 ### CAPITULO II BIS 1. Comité de Inversiones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 17 Bis 1.
 
-El Comité de Inversiones se constituye como un órgano delegado de apoyo, consulta y colaboración de la Junta de Directiva del Instituto para auxiliar a la misma en la determinación de la política y estrategia de inversión y manejo de las reservas financieras y actuariales del Instituto.
+El Comité de Inversiones se constituye como un órgano delegado de apoyo, consulta y colaboración de la Junta de (sic) Directiva del Instituto para auxiliarla en la determinación de la política y estrategia de inversión y manejo de las reservas financieras del Instituto. Las reservas actuariales señaladas en la Ley, se determinarán con base en los estudios actuariales realizados por el Instituto o por los especialistas que contraten y, se integrarán, principalmente, por las reservas financieras.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 17 Bis 2.
 
 El Comité de Inversiones tendrá, además de las que le otorgue la Junta Directiva, las siguientes facultades:
 
-I. En base a las políticas y estrategias de inversión y manejo de las reservas financieras y actuariales del Instituto, previamente aprobados por la Junta Directiva, determinar operativamente la instrumentación de dichas políticas y estrategias de inversión y manejo de las reservas financieras y actuariales del Instituto, dentro de los límites propuestos por el Comité de Riesgos que hayan sido aprobados por la Junta Directiva del Instituto. Dichas políticas deberán abarcar a los Activos objeto de inversión;
+I.- Elaborar, previa opinión del Comité de Riesgos, las políticas y estrategias de inversión y el manejo de las reservas financieras que se integran con los recursos de los Fondos de Ahorro, de Vivienda y de Prestaciones Económicas. Las políticas deberán sujetarse al régimen de inversión previsto en el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
 
-II. Proponer a la Junta Directiva la política y estrategia de inversión y manejo de las reservas financieras y actuariales del Instituto;
+II.- Proponer a la Junta Directiva, para su aprobación, las políticas y estrategias de inversión y manejo de las reservas financieras del Instituto y, consecuentemente las reservas actuariales con base en los estudios correspondientes;
 
-III. Proponer a la Junta Directiva la determinación de la composición de los activos del Instituto;
+III.- Proponer a la Junta Directiva la determinación de la composición de los activos del Instituto;
 
-IV. Proponer a la Junta Directiva la composición de los activos del Instituto;
+IV.- Proponer a la Junta Directiva la composición de los activos del Instituto;
 
-V. Someter a consideración de la Junta Directiva la designación del Mandatario y del fiduciario que, en su caso, el Instituto desee contratar para el manejo de las reservas financieras y actuariales del Instituto;
+V.- Someter a consideración de la Junta Directiva, para su aprobación, la designación del Mandatario y del fiduciario que, en su caso, el Instituto desee contratar para el manejo de las reservas financieras del Instituto;
 
-VI. Aprobar en su caso, los proyectos de contratos a celebrar con Mandatarios y proponer al Director General la suscripción de los mismos;
+VI.- Aprobar, en su caso, los proyectos de contratos a celebrar con Mandatarios y proponer al Director General la suscripción de los mismos;
 
-VII. De conformidad con el artículo 16 del Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto, aprobar los proyectos de contratos de fideicomisos que se utilicen como vehículo para el manejo de las reservas financieras y actuariales del Instituto y proponer al Director General su suscripción;
+VII.- De conformidad con el artículo 15 del Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto, aprobar los contratos de fideicomisos que se utilicen como vehículo para el manejo de las reservas financieras del Instituto, someterlos a la aprobación de la Secretaría de Finanzas y, en su caso, proponer al Director General su suscripción;
 
-VIII. Proponer al Director General la designación o remoción de las personas responsables de la asignación, liquidación y traspaso de efectivo y valores del Instituto;
+VIII.- Proponer al Director General la designación o remoción de las personas responsables de la asignación, liquidación y traspaso de efectivo y valores del Instituto;
 
-IX. Proponer a la Junta Directiva los programas de recomposición de cartera;
+IX.- Proponer a la Junta Directiva los programas de recomposición de cartera;
 
-X. En base de los mecanismos aprobados de la Junta, designar la lista de funcionarios autorizados para efectuar operaciones de Derivados que no se realicen en Bolsas de Derivados autorizados; y
+X.- Con base en los mecanismos aprobados de la Junta, designar la lista de funcionarios autorizados para efectuar operaciones de Derivados que no se realicen en Bolsas de Derivados autorizados; y
 
-XI. Reportar trimestralmente a la Junta Directiva sobre el ejercicio de sus funciones.
+XI.- Reportar trimestralmente a la Junta Directiva sobre el ejercicio de sus funciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -433,17 +429,13 @@ El Presidente del Comité de Inversiones deberá ser siempre el titular de la Se
 
 ### CAPITULO II BIS 2. Comité de Riesgos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 17 Bis 5.
 
-El Comité de Riesgos se constituye como un órgano delegado de apoyo, consulta y colaboración de la Junta de Directiva del Instituto para auxiliar a la misma en la administración del riesgo operativo y financiero a que se encuentre expuesto el Instituto.
+El Comité de Riesgos se constituye como un órgano delegado de apoyo, consulta y colaboración de la Junta Directiva del Instituto para auxiliar a la misma en la administración del Riesgo Operativo y Financiero a que se encuentre expuesto el Instituto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 17 Bis 6.
 
@@ -455,15 +447,15 @@ I. Proponer a la Junta Directiva la política, objetivos, estrategia y procedimi
 
 II. Proponer a la Junta Directiva los niveles de tolerancia al riesgo, por tipo de Riesgo Operativo;
 
-III. Proponer a la Junta Directiva la metodología, modelos, sistemas de medición, parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto;
+III. Proponer a la Junta Directiva la metodología, modelos, sistemas de medición, parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgo Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto;
 
 IV. Proponer a la Junta Directiva el Manual de Políticas y Procedimientos para la Administración del Riesgo Operativo, así como las modificaciones que considere necesarias a dicho Manual;
 
-V. En base a la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto previamente aprobados por la Junta Directiva, evaluar los niveles de tolerancia al Riesgo Operativo del Instituto, la cercanía o trasgresión de los niveles de tolerancia al riesgo, así como el impacto financiero que enfrentaría el Instituto derivado de la materialización del riesgo operativo;
+V. Con base en la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgo Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto previamente aprobados por la Junta Directiva, evaluar los niveles de tolerancia al Riesgo Operativo del Instituto, la cercanía o trasgresión de los niveles de tolerancia al riesgo, así como el impacto financiero que enfrentaría el Instituto derivado de la materialización del riesgo Operativo;
 
-VI. En base a la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto previamente aprobados por la Junta Directiva, tomar las medidas correctivas que considere necesarias, cuando el nivel observado del riesgo operativo se acerque o transgreda los niveles de tolerancia al riesgo establecidos; y
+VI. Con base en la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgo Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto previamente aprobados por la Junta Directiva, proponer a este cuerpo colegiado, las medidas correctivas que considere necesarias, cuando el nivel observado del Riesgo Operativo se acerque o transgreda los niveles de tolerancia al riesgo establecidos; y
 
-VII. Desempeñar las demás actividades necesarias en materia de administración del riesgo operativo del Instituto.
+VII. Desempeñar las demás actividades necesarias en materia de administración del Riesgo Operativo del Instituto.
 
 B. Respecto al Riesgo Financiero:
 
@@ -475,11 +467,11 @@ III. Colaborar en la realización del informe y el programa de recomposición de
 
 IV. Proponer a la Junta Directiva:
 
-a. La metodología para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Financieros a los que se encuentre (sic) expuestas las reservas financieras y actuariales del Instituto;
+a. La metodología para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgo Financiero a los que se encuentre (sic) expuestas las reservas financieras y actuariales del Instituto;
 
-b. Los modelos, parámetros y escenarios que habrán de utilizarse para llevar a cabo la medición y el control de los riesgos financieros;
+b. Los modelos, parámetros y escenarios que habrán de utilizarse para llevar a cabo la medición y el control de los distintos tipos de Riesgo Financiero;
 
-c. La realización de nuevas operaciones y la prestación de nuevos servicios que, por su propia naturaleza, conlleven un riesgo financiero, una vez que sean discutidos y aprobados por el Comité de Inversiones del Instituto; y
+c. La realización de nuevas operaciones y la prestación de nuevos servicios que, por su propia naturaleza, conlleven un Riesgo Financiero, una vez que sean discutidos y aprobados por el Comité de Inversiones del Instituto; y
 
 d. Las metodologías que, en su caso, se aplicarán para el cálculo de los precios de valuación de las operaciones con Derivados celebradas en mercados extrabursátiles por el Instituto, así como de los precios de valuación de otros Activos Objeto de Inversión que, de acuerdo con la normatividad vigente, el Instituto haya hecho del conocimiento de la Junta Directiva que dicha entidad financiera realizará la valuación de dichos Activos Objeto de Inversión.
 
@@ -491,7 +483,7 @@ VII. Vigilar el cumplimiento del régimen de inversión aplicable al Instituto y
 
 VIII. Evaluar desempeño de cada uno de los Mandatarios;
 
-IX. En base a la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Financiero, tomar las medidas correctivas que considere necesarias, cuando el nivel observado del riesgo financiero se acerque o transgreda los niveles de tolerancia al riesgo establecidos;
+IX. Con base en la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgo Financiero, tomar las medidas correctivas que considere necesarias, cuando el nivel observado del Riesgo Financiero se acerque o transgreda los niveles de tolerancia a los riesgos establecidos;
 
 X. Proponer a la Junta Directiva la creación de los subcomités que se consideren convenientes para el ejercicio de sus funciones; y
 
@@ -539,7 +531,7 @@ El Presidente del Comité de Riesgos deberá ser siempre el Director General de 
 
 ###### Artículo 17 Bis 9.
 
-En el ejercicio de sus funciones, el Comité de Inversiones y el Comité de Riesgos podrá auxiliarse de las áreas del Instituto que estime conveniente.
+En el ejercicio de sus funciones, el Comité de Inversiones y el Comité de Riesgos podrá (sic) auxiliarse de las áreas del Instituto que estime conveniente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -731,7 +723,7 @@ XXIII.- Asistir a las sesiones de la Junta Directiva, con voz pero sin voto, y e
 
 XXIV.- Elaborar y dar seguimiento a la Planeación Estratégica del Instituto, previendo la continuidad y mejoramiento de los lineamientos y programas a largo plazo establecidos;
 
-XXV.- Coadyuvar para el desarrollo del Instituto como organización aprendiente, dentro de una filosofía de generación de conocimiento continuo; y (sic)
+XXV.- Coadyuvar para el desarrollo del Instituto como organización aprendiente, dentro de una filosofía de generación de conocimiento continuo; y
 
 XXVI.- Nombrar y remover al personal del Instituto, a excepción de los que nombre la Junta Directiva; y
 
@@ -937,7 +929,7 @@ V. Formular y ejecutar programas de mantenimiento permanente a las instalaciones
 
 VI. Elaborar y presentar al Director General un Informe mensual de actividades;
 
-VII. Requerir, en su caso, el auxilio de la fuerza pública para garantizar el orden respeto dentro de las instalaciones del Parque; y (sic)
+VII. Requerir, en su caso, el auxilio de la fuerza pública para garantizar el orden respeto dentro de las instalaciones del Parque; y
 
 VIII. Generar acciones para el mejoramiento, modernización, simplificación y optimización de recursos a través de la generación de proyectos; y
 
@@ -965,7 +957,7 @@ VII. Vigilar la optimización del desarrollo de personal, así como de los recur
 
 VIII. Formular y presentar al Director General un informe mensual de actividades; y
 
-IX. Generar acciones para el mejoramiento, modernización, simplificación y optimización de recursos a través de la generación de proyectos; y (sic)
+IX. Generar acciones para el mejoramiento, modernización, simplificación y optimización de recursos a través de la generación de proyectos; y
 
 X. Las demás que le confiera el Director General.
 
@@ -1033,7 +1025,7 @@ IV. Generar y dar seguimiento a la información del Instituto para el Plan Estat
 
 V. Generar la información estratégica para la toma de decisiones, así como toda aquella que le sea solicitada por otras unidades administrativas internas o externas;
 
-VI. Asesorar a toda la organización en el desarrollo de una cultura de equidad de género y de calidad en el servicio dentro de cada área; y (sic)
+VI. Asesorar a toda la organización en el desarrollo de una cultura de equidad de género y de calidad en el servicio dentro de cada área; y
 
 VII. Elaborar, diseñar, coordinar y distribuir las publicaciones del Instituto, la cual tiene como finalidad de difundir los planes programas, proyectos y logros, así como actividades de interés para los servidores públicos;
 
@@ -1257,7 +1249,7 @@ VI. Conocer, investigar y resolver sobre los actos y/o omisiones de los servidor
 
 VII. Recibir, atender y llevar registro de las quejas y denuncias que sean formuladas en contra de los servidores públicos del Instituto, así como practicar investigaciones sobre sus actos a fin de fincar, en su caso, las responsabilidades que haya lugar e imponer las sanciones correspondientes;
 
-VIII. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables al Instituto, así como aplicar oportunamente las medidas correctivas y recomendaciones derivadas de las fiscalización (sic) efectuada;
+VIII. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables al Instituto, así como aplicar oportunamente las medidas correctivas y recomendaciones derivadas de las (sic) fiscalización efectuada;
 
 IX. Cuidar que las inversiones y los recursos del Instituto se destinen de acuerdo al objeto social del Instituto y a los fines previstos en los presupuestos y programas aprobados;
 
@@ -1312,3 +1304,7 @@ P.O. 17 DE FEBRERO DE 2014.
 PRIMERO.- Las presentes reformas entrarán en vigencia a los 120 días naturales siguientes al día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación de las presentes reformas, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá designar a los miembros de los Comités de Inversiones y de Riesgos del Instituto.
+
+P.O. 1 DE JUNIO DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
