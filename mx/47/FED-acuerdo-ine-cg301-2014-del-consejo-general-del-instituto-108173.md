@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg301-2014-del-consejo-general-del-instituto-108173
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-29"
-last_updated: "2015-05-29"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-12-10"
 ---
 # ACUERDO INE/CG301/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DETERMINA EL TOPE MAXIMO DE GASTOS DE CAMPAÑA PARA LA ELECCION DE DIPUTADOS POR EL PRINCIPIO DE MAYORIA RELATIVA PARA EL PROCESO ELECTORAL FEDERAL 2014-2015
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 1 DE JUNIO DE 2015, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DETERMINA EL TOPE MÁXIMO DE GASTOS DE CAMPAÑA PARA LA ELECCIÓN DE DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA PARA EL PROCESO ELECTORAL FEDERAL 2014-2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2015.
 
@@ -56,3 +58,15 @@ El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General c
 Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG02/2015, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero.- Se actualiza el Tope Máximo de Gastos de campaña para la elección de Diputados por el principio de mayoría relativa para el Proceso Electoral Federal 2014-2015 siendo éste de $1,260,038.34 (Un millón doscientos sesenta mil treinta y ocho pesos 34/100 M.N.).
+
+Segundo.- Se instruye al Secretario Ejecutivo para que haga del conocimiento de la Comisión de Fiscalización del Instituto Nacional Electoral el presente Acuerdo para los efectos conducentes.
+
+Tercero.- Notifíquese en sus términos el presente Acuerdo a los Representantes de los Partidos Políticos Nacionales ante el Consejo General del Instituto Nacional Electoral.
+
+Cuarto.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
