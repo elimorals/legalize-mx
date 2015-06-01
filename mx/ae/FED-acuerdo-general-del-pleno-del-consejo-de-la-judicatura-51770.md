@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2015-03-19"
+last_updated: "2015-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -935,13 +935,11 @@ En los casos de impedimento a que se refiere el primer párrafo del artículo an
 
 La designación del secretario que deba suplir a un Magistrado de Tribunal Colegiado de Circuito impedido, deberá recaer en un secretario adscrito a la ponencia de aquél; y si dicho magistrado es el presidente del tribunal, la designación no podrá recaer en un secretario adscrito a las áreas comunes del tribunal. En ningún caso el secretario designado ejercerá las funciones de presidente del tribunal, sino que esta labor deberá recaer en alguno de los otros dos magistrados que lo integren.
 
-> <small>(ADICIONADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 98 Bis.
 
-Tratándose del sistema penal acusatorio, cuando un juez de Control, juzgador de Tribunal de Enjuiciamiento o de Tribunal de Alzada se encuentre impedido para conocer de un asunto, conocerá otro juzgador similar del mismo Centro de Justicia Penal.
-
-En caso de que no sea posible, podrá conocer un juzgador de otro Centro de Justicia Penal, en términos de las disposiciones aplicables.
+Tratándose del sistema penal acusatorio, para la sustitución de los juzgadores de los Centros de Justicia Penal Federal se estará a lo dispuesto en los acuerdos generales que regulan la creación, organización y funcionamiento de dichos Centros.
 
 ## TITULO NOVENO. De las Vacaciones y Días Inhábiles
 
@@ -1922,3 +1920,9 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo. 
 CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como aplicación de las medidas adoptadas en materia de seguridad en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
