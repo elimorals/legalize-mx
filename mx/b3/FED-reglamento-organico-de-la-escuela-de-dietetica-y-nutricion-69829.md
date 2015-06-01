@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-la-escuela-de-dietetica-y-nutricion-6982
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-31"
-last_updated: "2009-08-31"
+last_updated: "2015-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-06-29"
 ---
 # REGLAMENTO ORGANICO DE LA ESCUELA DE DIETETICA Y NUTRICION
 
-REGLAMENTO ORGANICO DE LA ESCUELA DE DIETETICA Y NUTRICION
+REGLAMENTO ORGÁNICO DE LA ESCUELA DE DIETÉTICA Y NUTRICIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO ORGÁNICO DE LA ESCUELA DE DIETÉTICA Y NUTRICIÓN DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 1 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015. (ABROGADO)
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de agosto de 2009.
 
@@ -498,3 +500,15 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 29 de junio de 2009.- El Secretario General y Secretario de la Junta Directiva, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones relativas al Posgrado entrarán en vigor una vez que se cuente con el reconocimiento de validez oficial de la Secretaría de Educación Pública.
+
+TERCERO.- Con la entrada en vigor de este Reglamento se abroga el Reglamento Orgánico de la Escuela de Dietética y Nutrición del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido por Acuerdo 36.1318.2009 de la Junta Directiva el 29 de junio de 2009, publicado en el Diario Oficial de la Federación el 31 de agosto de 2009.
+
+CUARTO.- La Escuela realizará el registro de documentos ante la Dirección General de Educación Superior Universitaria, hasta en tanto culmine el trámite de registro ante la Dirección General de Profesiones de la Secretaría de Educación Pública.
